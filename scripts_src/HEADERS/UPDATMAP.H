@@ -94,7 +94,7 @@
 #define CAR_ARROYO_HEX                      (27312)
 #define CAR_DENBUS1_HEX                     (11687)
 #define CAR_DENBUS2_HEX                     (29103)
-#define CAR_UNCLAIMED_HEX                   (24548)         // When you don't have the car
+#define CAR_UNCLAIMED_HEX                   (24548) // When you don't have the car
 #define CAR_KLAMATH_HEX                     (25669)
 #define CAR_MODOC_HEX                       (24531)
 #define CAR_VAULT_CITY_HEX                  (28899)
@@ -122,7 +122,7 @@
 
 #define CAR_GHOST_TOWN_HEX                  (23951)
 #define CAR_ARROYO_DESTROYED_HEX            (27312)
-#define CAR_KLAMATH_TOXIC_CAVES_HEX         (18340) //edit by killap - was 18341
+#define CAR_KLAMATH_TOXIC_CAVES_HEX         (18340) // edit by killap - was 18341
 #define CAR_DEN_SLAVE_RUN_HEX               (26514)
 #define CAR_RAIDERS_CAMP_HEX_NORMAL         (25304)
 #define CAR_RAIDERS_CAMP_HEX_SECRET         (21298)
@@ -210,18 +210,18 @@
 #define CAR_SLAVER_CAMP_HEX                 (22480)
 
 //Hubologist Stash
-#define HUBOLOGIST_STASH_HEX		    (27732)
+#define HUBOLOGIST_STASH_HEX                (27732)
 
 //Gecko Enclave Encounter
-#define GECKO_ENCLAVE_HEX		    (25326)
+#define GECKO_ENCLAVE_HEX                   (25326)
 
 //Vault Village
-#define CAR_VAULT_VILLAGE_HEX		    (27125)
+#define CAR_VAULT_VILLAGE_HEX               (27125)
 
 //Kaga Encounters
 
 //Ranger Safe houses
-#define CAR_RNGR_SAFE_HOUSE2		    (21894)
+#define CAR_RNGR_SAFE_HOUSE2                (21894)
 
 
 

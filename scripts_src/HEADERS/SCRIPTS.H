@@ -1324,3 +1324,5 @@
 #define SCRIPT_SIPTBOX2         (1306)  // SIPtbox2.int    ; box where Merk hides your car trunk stuff
 #define SCRIPT_SFSHUTL1         (1307)  // sfshutl1.int    ; map script to Hubologist entrance (shuttle)
 #define SCRIPT_PATCHINF         (1308)  // patchinf.int    ; Patch Info
+
+#endif // SCRIPTS_H

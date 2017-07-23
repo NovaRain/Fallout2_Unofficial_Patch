@@ -115,7 +115,7 @@
                                 set_global_var(GVAR_KARMA_WANDERER,0);                                          \
                                 set_global_var(GVAR_KARMA_BETRAYER,0);                                          \
                                 set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR,0);                                  \
-                                set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES,0);                              \
+                                set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES,0);                             \
                                 set_global_var(GVAR_KARMA_DEMON_SPAWN,0)
 
 #define CheckKarma              ClearReps;                                                                      \
@@ -603,8 +603,8 @@
 #define REP_BONUS_VAULT_CONSIDERED_COMPANION_SALE (-3)
 #define REP_BONUS_VAULT_SOLD_COMPANION          (-10)
 #define REP_BONUS_VAULT_WANTED_BETTER_OFFER     (-3)
-#define REP_BONUS_MARTIN_STOP_SINGING		(-1)
-#define REP_BONUS_MARTIN_KEEP_SINGING		(1)
+#define REP_BONUS_MARTIN_STOP_SINGING           (-1)
+#define REP_BONUS_MARTIN_KEEP_SINGING           (1)
 #define REP_BONUS_VAULT_KILL_MONSTERS           (-15)
 #define REP_BONUS_VAULT_RM_VILLAGERS            (-20)
 #define REP_BONUS_SCREW_VILLAGE                 (-20)
@@ -612,7 +612,7 @@
 #define REP_BONUS_REDDING_CURED_JET_NICE        (25)
 #define REP_BONUS_REDDING_CURED_JET_GREED       (15)
 #define REP_BONUS_BUST_MOORE                    (2)
-#define REP_BONUS_THREATENED_SKEEV					(-3)
+#define REP_BONUS_THREATENED_SKEEV              (-3)
 #define REP_BONUS_GAVE_TROY_FORMULA             (10)
 #define REP_BONUS_RECONCILED_VIC_AND_VAL        (3)
 #define REP_BONUS_BLACKMAIL_MOORE               (-3)
@@ -622,23 +622,23 @@
 #define REP_BONUS_PHYLLIS_OUTSIDE               (3)
 
 // Broken Hills Rep bonuses
-#define REP_BONUS_CONSPIRACY_EXPOSED		(20)
-#define REP_BONUS_JAILBREAK_SUCCEEDS		      (-10)
-#define REP_BONUS_PURIFIER_DESTROYED		      (-50)
-#define REP_BONUS_PURIFIER_FIXED		         (20)
+#define REP_BONUS_CONSPIRACY_EXPOSED            (20)
+#define REP_BONUS_JAILBREAK_SUCCEEDS            (-10)
+#define REP_BONUS_PURIFIER_DESTROYED            (-50)
+#define REP_BONUS_PURIFIER_FIXED                (20)
 #define REP_BONUS_GAVE_BROKEN_HILLS_ORE         (15)
-#define REP_BONUS_MOCKED_DAN						(-5)
-#define REP_BONUS_CONSOLED_DAN						(5)
-#define REP_BONUS_REJECTED_DAN						(-10)
-#define REP_BONUS_GOT_ERIC_AC						(3)
-#define REP_BONUS_OPTIMIZED_POWER_GRID				(10)
-#define REP_BONUS_OFFERED_SULLIVAN_MONEY         (10)
-#define REP_BONUS_TYPHON_TOLD_TREASURE           (2)
-#define REP_BONUS_DIDNT_KILL_TYPHON              (2)
-#define REP_BONUS_REPLANTED_SEYMOUR              (2)
+#define REP_BONUS_MOCKED_DAN                    (-5)
+#define REP_BONUS_CONSOLED_DAN                  (5)
+#define REP_BONUS_REJECTED_DAN                  (-10)
+#define REP_BONUS_GOT_ERIC_AC                   (3)
+#define REP_BONUS_OPTIMIZED_POWER_GRID          (10)
+#define REP_BONUS_OFFERED_SULLIVAN_MONEY        (10)
+#define REP_BONUS_TYPHON_TOLD_TREASURE          (2)
+#define REP_BONUS_DIDNT_KILL_TYPHON             (2)
+#define REP_BONUS_REPLANTED_SEYMOUR             (2)
 
 // Raiders Rep Bonuses
-#define REP_BONUS_RAIDERS_DESTROYED              (10)
+#define REP_BONUS_RAIDERS_DESTROYED             (10)
 
 // Gecko related karma awards
 #define REP_BONUS_GC_PLANT_DESTROYED            (-30)
@@ -664,8 +664,8 @@
 //San Fran Related
 #define REP_BOUNS_KILL_LOPAN_ON_MISSION         (50)
 #define REP_BOUNS_KILL_LOPAN                    (25)
-#define REP_BOUNS_KILL_DRAGON_ON_MISSION         (-50)
-#define REP_BOUNS_KILL_DRAGON                    (-25)
+#define REP_BOUNS_KILL_DRAGON_ON_MISSION        (-50)
+#define REP_BOUNS_KILL_DRAGON                   (-25)
 #define REP_BONUS_SAN_FRAN_SAVE_GIRL_DEAD        5
 #define REP_BONUS_SAN_FRAN_SAVE_GIRL_ALIVE       15
 #define REP_BONUS_SAN_FRAN_KILL_LOPAN            15

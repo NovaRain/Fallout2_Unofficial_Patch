@@ -612,7 +612,7 @@ variable caught_thief;
 #define gangwar(x)                                 (global_var(GVAR_DEN_GANGWAR) == x)
 #define set_gangwar(x)                             if (x == state_gangwar_permission) then begin                              \
                                                       if (gangwar(state_gangwar_ask)) then begin                              \
-                                                         den_display_mstr(1400);                                                  \
+                                                         den_display_mstr(1400);                                              \
                                                          give_xp(EXP_PERMISSION_FROM_METZGER);                                \
                                                       end                                                                     \
                                                       set_metzger_permission;                                                 \
@@ -621,7 +621,7 @@ variable caught_thief;
                                                    end else if (x == state_gangwar_weakness) then begin                       \
                                                       start_gang_d_day_timer;                                                 \
                                                       if (gangwar(state_gangwar_find)) then begin                             \
-                                                         den_display_mstr(1300);                                                  \
+                                                         den_display_mstr(1300);                                              \
                                                          give_xp(EXP_FIND_GANG_WEAKNESS);                                     \
                                                       end                                                                     \
                                                    end else if (x == state_gangwar_2won) then begin /* Seraph: Changed state_gangwar_1won to state_gangwar_2won. Part of Haenlomal's gangwar fix. */ \
@@ -635,7 +635,7 @@ variable caught_thief;
                                                             inc_general_rep(REP_BONUS_BETRAY_LARA);                           \
                                                             den_display_mstr(300);                                            \
                                                             give_xp(EXP_GANG_BATTLE_BETRAY_LARA);                             \
-                                                         /* end */ /* Seraph: Part of Haenlomal's gangwar fix. */           \
+                                                         /* end */ /* Seraph: Part of Haenlomal's gangwar fix. */             \
                                                       end                                                                     \
                                                    end                                                                        \
                                                    if (x > global_var(GVAR_DEN_GANGWAR)) then                                 \
@@ -713,7 +713,7 @@ variable caught_thief;
                                                    dec_gang_counter(gang)
 */
 #define kill_gang_member(obj,gang)                 dest_gang_member;                                                           \
-                                                   destroy_object(self_obj);                                                                           \
+                                                   destroy_object(self_obj);                                                   \
 
 #define unlock_church_door                         if (church_door_obj != 0) then begin               \
                                                       if (obj_is_locked(church_door_obj)) then begin  \
@@ -840,7 +840,7 @@ variable the_follow_obj;
                                                             set_local_var(LVAR_Home_Tile, self_tile);                                   \
                                                             set_local_var(LVAR_Home_Rotation, self_cur_rot);                            \
                                                          end                                                                            \
- 														 end if (gangwar(state_gangwar_in_fight)) then begin                            \
+                                                         end if (gangwar(state_gangwar_in_fight)) then begin                            \
                                                          check_set_obj_visiblility(self_obj, false);                                    \
                                                          if (self_gang == gang_1) then begin                                            \
                                                             if (gang_trap(state_gang_trap_set)) then begin                              \
@@ -1057,8 +1057,8 @@ variable the_follow_obj;
 
 //added by killap - unofficial patch
 //Fred money status
-#define FRED_PAID		(1)
-#define FRED_LOAN		(2)
-#define FRED_COVERED	(3)
+#define FRED_PAID       (1)
+#define FRED_LOAN       (2)
+#define FRED_COVERED    (3)
 
 #endif // DEN_H
