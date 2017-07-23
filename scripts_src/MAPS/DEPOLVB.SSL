@@ -1,0 +1,159 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Map Script for Sierra Army Base, Outside area
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_DEPOLV1
+
+#include "..\headers\command.h"
+#include "..\headers\depolva.h"
+#include "..\headers\depolvb.h"
+
+// Timer in Seconds
+#define TIMER_LEVEL_4           (600)                                           // In Ticks
+#define TIMER_LEVEL_3           (600+TIMER_LEVEL_4)                             // in ticks
+#define TIMER_LEVEL_2           (600+TIMER_LEVEL_3)                             // In Ticks
+#define TIMER_LEVEL_1           (600+TIMER_LEVEL_2)                             // In Ticks
+
+#define Show_Time(x,y)          if (x == 1) then                                \
+                                    if (y == 1) then                            \
+                                        display_msg(x+mstr(114)+y+mstr(115));   \
+                                    else                                        \
+                                        display_msg(x+mstr(114)+y+mstr(113));   \
+                                else if (y == 1) then                           \
+                                    display_msg(x+mstr(112)+y+mstr(115));       \
+                                else                                            \
+                                    display_msg(x+mstr(112)+y+mstr(113))
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure CountDown;
+
+export variable Field4a_Ptr;
+export variable Field4b_Ptr;
+export variable Field4c_Ptr;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then begin              // Power Off
+       set_light_level(40);
+   end
+   else begin
+       set_light_level(70);
+   end
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then begin              // Power Off
+       set_light_level(40);
+   end
+   else begin
+       set_light_level(70);
+   end
+
+   if (global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER) != 0) then begin
+       call CountDown;
+   end
+
+   if (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) != BREACH_NONE) then begin
+       if (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_4) then begin
+           critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
+       end
+   end
+end
+
+procedure CountDown begin
+   variable minute;
+   variable second;
+   variable total_time;
+   variable level_one;
+   variable level_two;
+   variable level_three;
+   variable level_four;
+
+   total_time:=game_time-global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER);
+
+//   level_four:=TIMER_LEVEL_4-total_time;
+//   level_three:=TIMER_LEVEL_3-total_time;
+//  level_two:=TIMER_LEVEL_2-total_time;
+//   level_one:=TIMER_LEVEL_1-total_time;
+
+/* --COMMENT OUT BY KILLAP
+   level_four:=TIMER_LEVEL_1-total_time;
+   level_three:=TIMER_LEVEL_2-total_time;
+   level_two:=TIMER_LEVEL_3-total_time;
+   level_one:=TIMER_LEVEL_4-total_time;*/
+   
+   //edit by killap
+   level_four:=TIMER_LEVEL_1-total_time;
+   level_three:=TIMER_LEVEL_1-total_time;
+   level_two:=TIMER_LEVEL_1-total_time;
+   level_one:=TIMER_LEVEL_1-total_time;
+   //end edit
+   
+   if (global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER) != 0) then begin
+       display_msg(mstr(100));
+   end
+
+   if (total_time < TIMER_LEVEL_4) then begin
+       minute:=level_four/ONE_GAME_MINUTE;
+       second:=(level_four % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(101));
+       Show_Time(minute,second);
+   end
+
+   else if ((total_time >= TIMER_LEVEL_4) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_NONE)) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_4);
+       display_msg(mstr(102));
+       display_msg(mstr(103));
+   end
+   
+   else if (total_time < TIMER_LEVEL_3) then begin
+       minute:=level_three/ONE_GAME_MINUTE;
+       second:=(level_three % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(104));
+       Show_Time(minute,second);
+   end
+
+   else if ((total_time >= TIMER_LEVEL_3) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_LEVEL_4)) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_3);
+       display_msg(mstr(105));
+       display_msg(mstr(106));
+   end
+
+   else if (total_time < TIMER_LEVEL_2) then begin
+       minute:=level_two/ONE_GAME_MINUTE;
+       second:=(level_two % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(107));
+       Show_Time(minute,second);
+   end
+
+   else if ((total_time >= TIMER_LEVEL_2) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_LEVEL_3)) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_2);
+       display_msg(mstr(108));
+       display_msg(mstr(109));
+   end
+
+   else if (total_time < TIMER_LEVEL_1) then begin
+       minute:=level_one/ONE_GAME_MINUTE;
+       second:=(level_one % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(110));
+       Show_Time(minute,second);
+   end
+
+   else if (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_LEVEL_2) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_1);
+       display_msg(mstr(111)); //edit by killap - was 113
+   end
+end

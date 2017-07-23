@@ -1,0 +1,127 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: DenRes1
+        Location: Den
+        Description: Residential area
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\DenRes1.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_DENRES1
+
+#include "..\headers\command.h"
+#include "..\headers\den.h"
+
+procedure start;
+/*
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+*/
+
+variable thugs_on_map_now;
+
+procedure start begin
+end
+
+/*
+procedure DenPlaceThugs begin
+variable temp_thug;
+variable temp_pid;
+variable rot_arc;
+variable base_tile;
+   debug_msg("DenPlaceThugs");
+   rot_arc := random(0,5);
+   if (joey_home_tile != 0) then begin
+      base_tile := joey_home_tile;
+   end else begin
+      base_tile := thug_tile_num;
+   end
+
+   while ((map_var(MVAR_Total_Thugs) < total_max_thugs) and
+         (map_var(MVAR_Thug_Count) < thugs_on_map_now) and
+         (map_var(MVAR_Thug_Count) < max_thugs_at_once)) do begin
+      // generate thug
+      if (map_var(MVAR_Joey_PID) > 0) then begin
+         temp_pid := random(Low_Thug_PID,Max_Thug_PID);
+         if (temp_pid == Joey_PID) then temp_pid -= 2;
+         debug_msg("  creating thug: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
+         temp_thug := create_object_sid(temp_pid, 0, 0, SCRIPT_DCTHUG);
+         critter_attempt_placement(temp_thug, tile_num_in_direction(base_tile,rot_arc,random(2,3)),0);
+         // set the facing direction to temp_rot
+      end else if (map_var(MVAR_Joey_PID) == 0) then begin
+         set_map_var(MVAR_Joey_PID,Joey_PID);
+         temp_pid := Joey_PID;
+         debug_msg("  creating joey: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
+         temp_thug := create_object_sid(temp_pid, base_tile, 0, SCRIPT_DCJOEY);
+         critter_attempt_placement(temp_thug, base_tile, 0);
+      end
+      // thug is armed in the thug script
+      inc_map_var(MVAR_Thug_Count);
+      inc_map_var(MVAR_Total_Thugs);
+      rot_arc += random(1,2);
+      FixRotationArc(rot_arc);
+   end
+end
+
+procedure map_enter_p_proc begin
+   override_map_start_hex(9909,0,2);
+   if ((joey_dead == false) and (is_loading_game == false)) then begin
+      thugs_on_map_now := random(3,max_thugs_at_once);
+      call DenPlaceThugs;
+   end
+   set_map_exit_tiles(7908,0);
+   map_update_guard_proc
+   Lighting;
+
+   if (map_first_run) then begin
+       Create_Car(15654,0)
+   end
+
+   if ((tile_contains_obj_pid(15654,0,PID_DRIVABLE_CAR)) and (is_loading_game==false) and (global_var(GVAR_PLAYER_GOT_CAR) != 0)) then begin
+       Dest_Car(15654,0)
+   end
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+   map_update_guard_proc
+end
+
+procedure map_exit_p_proc begin
+   variable item;
+   if (is_loading_game==false) then begin
+      if (global_var(GVAR_PLAYER_GOT_CAR) != 0) then begin
+         if (tile_contains_obj_pid(15654,0,PID_DRIVABLE_CAR)) then begin
+            item:=tile_contains_pid_obj(15654,0,PID_DRIVABLE_CAR);
+            destroy_object(item);
+         end
+      end
+   end
+end
+
+procedure Initial_Inven begin
+end
+*/

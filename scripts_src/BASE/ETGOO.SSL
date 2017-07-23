@@ -1,0 +1,52 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Mynoc (The Bridge Guard)
+        Location: Arroyo
+        Description:
+
+        Log: The defines for VAULT_KNOWN, VISITED_OTHER_TOWN, & VISITED_TOWN_MULTIPLE_TIMES need to be changed
+             when the functionality is available to fit the designer's script.
+
+
+           Created: December 01, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\base.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                     SCRIPT_KTGOO            // msg file for Klamath goo.
+
+#include "..\headers\command.h"
+
+#define MIN_DMG_SPATIAL          (8)
+#define MAX_DMG_SPATIAL          (16)
+#define DAMAGE_TYPE              DMG_plasma
+
+#define LVAR_Goo_Message         (0)
+
+procedure start;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if (obj_no_goo_effect(source_obj) == false) then begin
+      if (tile_has_rad_goo(tile_num(source_obj), self_elevation)) then begin
+         if (source_obj == dude_obj) then begin
+            if (local_var(LVAR_Goo_Message) == false) then begin
+               set_local_var(LVAR_Goo_Message, true);
+               display_mstr(110);
+            end
+         end
+         critter_dmg(source_obj, random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL), DAMAGE_TYPE);
+      end
+   end
+end

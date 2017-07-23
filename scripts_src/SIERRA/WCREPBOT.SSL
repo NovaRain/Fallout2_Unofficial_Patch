@@ -1,0 +1,1161 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WCREPBOT
+
+#include "..\headers\command.h"
+
+#define PID_DESTROYED_ROBOT             PID_ROBOT_PARTS
+
+#define SELF_REPAIR_RATE                (20)                 // in Ticks
+
+#define BOT_REPAIR_RATE                 (5)
+
+#define LEVEL1_ELEVATOR                 (19874)
+#define LEVEL2_ELEVATOR                 (19874)
+#define LEVEL3_ELEVATOR                 (19874)
+#define HOME_ELEVATION                  (1)
+
+#define DOOR_LVL1                       (20118)
+#define DOOR_LVL2A                      (20118)
+#define DOOR_LVL2B                      (25922)
+#define DOOR_LVL3                       (20936)
+
+procedure start;
+procedure critter_p_proc;
+procedure talk_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure combat_p_proc;
+procedure damage_p_proc;
+procedure destroy_p_proc;
+procedure timed_event_p_proc;
+
+procedure RepairRequest;
+procedure PickupRequest;
+procedure RepairTravel;
+procedure ReplaceBot;
+procedure PrepareBot;                   // This is to set up the map script to place the
+                                        // reconstructed Robots rather than having the repair
+                                        // robots do this in ReplaceBot. Leaving ReplaceBot in
+                                        // until this has been tested a few weeks.  rwh2   4-22-98
+procedure Repair1;
+procedure Repair2;
+procedure Repair3;
+procedure Repair4;
+procedure Repair5;
+procedure Repair6;
+procedure Travel1;
+procedure Travel2;
+procedure Travel3;
+procedure Travel4;
+procedure Travel5;
+procedure Travel6;
+procedure FindElevator;
+procedure GetMeHome;
+procedure GetRobotHome;
+procedure FindBotElevator;
+
+#define LVAR_Accepted_Request           (0)
+#define LVAR_Have_Request_Num           (1)
+#define LVAR_Way_Point1                 (2)
+#define LVAR_Way_Point2                 (3)
+#define LVAR_Way_Point3                 (4)
+#define LVAR_Way_Point4                 (5)
+#define LVAR_Replace_Bot                (6)
+#define LVAR_Self_Repair                (7)
+#define LVAR_Active                     (8)
+#define LVAR_Home_Tile                  (9)
+#define LVAR_Go_Home                    (10)
+#define LVAR_Get_Request                (11)
+#define LVAR_Wait_Time                  (12)
+
+variable Repair_Bot;
+variable In_Timed_Event:=0;
+variable Elevator_Tile;
+variable Tile1;
+variable Bot:=0;
+variable Bot_Elevation;
+variable Bot_Tile;
+
+procedure start begin
+   if (local_var(LVAR_Home_Tile) == 0) then begin
+       set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+   end
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SIERRA_REPAIR);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_REPAIR_BOT);
+end
+
+procedure critter_p_proc begin
+   variable max_hp;
+   variable cur_hp;
+
+   if ((local_var(LVAR_Have_Request_Num) == 0) and (tile_num(self_obj) == local_var(LVAR_Home_Tile) and (map_var(MVAR_Free_Bots) > 0))) then begin
+       set_local_var(LVAR_Go_Home,0);
+       if (local_var(LVAR_Get_Request) == 0) then begin
+           set_local_var(LVAR_Get_Request,1);
+           add_timer_event(self_obj,game_ticks(random(3,7)),3);
+       end
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 0) and (tile_num(self_obj) != local_var(LVAR_Home_Tile))) then begin
+       debug_msg("Current Tile == "+tile_num(self_obj)+". Home Tile == "+local_var(LVAR_Home_Tile));
+       call GetMeHome;
+   end
+
+   else if ((local_var(LVAR_Have_Request_Num) != 0) and (local_var(LVAR_Replace_Bot) == 0)) then begin
+       call RepairTravel;
+   end
+
+   else if ((tile_num(self_obj) == local_var(LVAR_Home_Tile)) and (local_var(LVAR_Have_Request_Num) != 0)) then begin
+       call PrepareBot;
+   end
+
+/*   else if ((tile_num(self_obj) == local_var(LVAR_Home_Tile)) and (local_var(LVAR_Have_Request_Num) != 0)) then begin
+       call ReplaceBot;
+   end
+*/
+   else if (local_var(LVAR_Go_Home) == 1) then begin
+       call GetMeHome;
+   end
+
+/*   if ((Bot != 0) and (In_Timed_Event == 0)) then begin
+       if ((tile_num(Bot) != Bot_Tile) and (local_var(LVAR_Have_Request_Num) == 0)) then begin
+           add_timer_event(self_obj,game_ticks(3),2);
+           In_Timed_Event:=1;
+           debug_msg("Added Timed Event");
+       end
+   end
+*/
+   cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
+   max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+
+   if (local_var(LVAR_Self_Repair) == 0) then begin
+       if (max_hp > cur_hp) then begin
+           set_local_var(LVAR_Self_Repair,1);
+           add_timer_event(self_obj,SELF_REPAIR_RATE,1);
+       end
+   end
+end
+
+procedure timed_event_p_proc begin
+   variable max_hp;
+   variable cur_hp;
+
+   if (fixed_param == 1) then begin
+       cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
+       max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+
+       if (max_hp > cur_hp) then begin
+           critter_heal(self_obj,1);
+       end
+       set_local_var(LVAR_Self_Repair,0);
+   end
+
+   if (fixed_param == 2) then begin
+       debug_msg("In Timed Event");
+       call GetRobotHome;
+       In_Timed_Event:=0;
+   end
+
+   if (fixed_param == 3) then begin
+       set_local_var(LVAR_Get_Request,0);
+       call RepairRequest;
+   end
+end
+
+procedure talk_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+   //added by killap
+   variable Skill;
+   
+   Skill:=action_being_used;
+
+   if ( (Skill == SKILL_REPAIR) or (Skill == SKILL_STEAL) ) then
+      script_overrides;
+   //end added by killap
+
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure combat_p_proc begin
+end
+
+procedure damage_p_proc begin
+   if (local_var(LVAR_Self_Repair) == 0) then begin
+       set_local_var(LVAR_Self_Repair,1);
+       add_timer_event(self_obj,SELF_REPAIR_RATE,1);
+   end
+end
+
+procedure destroy_p_proc begin
+
+// Remove the Request for Repair
+   if (local_var(LVAR_Have_Request_Num) == 1) then begin
+       set_map_var(MVAR_Repair_Request1,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 2) then begin
+       set_map_var(MVAR_Repair_Request2,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 3) then begin
+       set_map_var(MVAR_Repair_Request3,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 4) then begin
+       set_map_var(MVAR_Repair_Request4,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 5) then begin
+       set_map_var(MVAR_Repair_Request5,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 6) then begin
+       set_map_var(MVAR_Repair_Request6,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+
+// Remove Repair Request in General
+   else if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
+       set_map_var(MVAR_Repair_Request1,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (map_var(MVAR_Repair_Request2) == REPAIR_NONE) then begin
+       set_map_var(MVAR_Repair_Request2,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (map_var(MVAR_Repair_Request3) == REPAIR_NONE) then begin
+       set_map_var(MVAR_Repair_Request3,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (map_var(MVAR_Repair_Request4) == REPAIR_NONE) then begin
+       set_map_var(MVAR_Repair_Request4,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (map_var(MVAR_Repair_Request5) == REPAIR_NONE) then begin
+       set_map_var(MVAR_Repair_Request5,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+   else if (map_var(MVAR_Repair_Request6) == REPAIR_NONE) then begin
+       set_map_var(MVAR_Repair_Request6,REPAIR_DESTROYED);         // Remove Repair Request for bot
+   end
+
+   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+end
+
+procedure RepairRequest begin
+
+   if (local_var(LVAR_Have_Request_Num) == 0) then begin
+       if (map_var(MVAR_Repair_Request1) == REPAIR_REQUEST) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request1,REPAIR_ANSWERED);
+           set_local_var(LVAR_Have_Request_Num,1);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request2) == REPAIR_REQUEST) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request2,REPAIR_ANSWERED);
+           set_local_var(LVAR_Have_Request_Num,2);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request3) == REPAIR_REQUEST) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request3,REPAIR_ANSWERED);
+           set_local_var(LVAR_Have_Request_Num,3);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request4) == REPAIR_REQUEST) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request4,REPAIR_ANSWERED);
+           set_local_var(LVAR_Have_Request_Num,4);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request5) == REPAIR_REQUEST) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request5,REPAIR_ANSWERED);
+           set_local_var(LVAR_Have_Request_Num,5);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request6) == REPAIR_REQUEST) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request6,REPAIR_ANSWERED);
+           set_local_var(LVAR_Have_Request_Num,6);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else begin
+           call PickupRequest;
+       end
+   end
+end
+
+procedure PickupRequest begin
+
+   if (local_var(LVAR_Have_Request_Num) == 0) then begin
+       if (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP_ANSWER);
+           set_local_var(LVAR_Have_Request_Num,1);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request2) == REPAIR_PICKUP) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request2,REPAIR_PICKUP_ANSWER);
+           set_local_var(LVAR_Have_Request_Num,2);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request3) == REPAIR_PICKUP) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request3,REPAIR_PICKUP_ANSWER);
+           set_local_var(LVAR_Have_Request_Num,3);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request4) == REPAIR_PICKUP) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request4,REPAIR_PICKUP_ANSWER);
+           set_local_var(LVAR_Have_Request_Num,4);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request5) == REPAIR_PICKUP) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request5,REPAIR_PICKUP_ANSWER);
+           set_local_var(LVAR_Have_Request_Num,5);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+       else if (map_var(MVAR_Repair_Request6) == REPAIR_PICKUP) then begin
+           set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
+           set_map_var(MVAR_Repair_Request6,REPAIR_PICKUP_ANSWER);
+           set_local_var(LVAR_Have_Request_Num,6);
+           debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
+       end
+   end
+end
+
+procedure RepairTravel begin
+   if (local_var(LVAR_Have_Request_Num) == 1) then begin
+       call Repair1;
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 2) then begin
+       call Repair2;
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 3) then begin
+       call Repair3;
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 4) then begin
+       call Repair4;
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 5) then begin
+       call Repair5;
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 6) then begin
+       call Repair6;
+   end
+end
+
+procedure Repair1 begin
+//   variable Bot;
+   variable Bot_Max_Hp;
+   variable Bot_Cur_Hp;
+   variable Ammo;
+   variable JunkBot;
+
+   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request1)) < 2) and
+       (elevation(self_obj) == map_var(MVAR_Elevation_Request1))) then begin
+       if (tile_contains_obj_pid(map_var(MVAR_Tile_Request1),map_var(MVAR_Elevation_Request1),map_var(MVAR_Pid_Request1))) then begin
+           Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request1),map_var(MVAR_Elevation_Request1),map_var(MVAR_Pid_Request1));
+
+           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
+           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+
+           if (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP_ANSWER) then begin
+               destroy_object(Bot);
+               JunkBot:=create_object(PID_DESTROYED_ROBOT,0,0);
+               add_mult_objs_to_inven(self_obj,JunkBot,1);
+               set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP_COMPLETE);
+               debug_msg("Bot being reclaimed for metal.");
+               call GetMeHome;
+               debug_msg("Make Me Move 1");
+               set_local_var(LVAR_Replace_Bot,1);
+           end
+
+           else begin
+               Repair_Bot+=1;
+               if (Repair_Bot == BOT_REPAIR_RATE) then begin
+                   float_msg(self_obj,g_mstr(9002),FLOAT_MSG_GREEN);
+                   critter_heal(Bot,1);
+                   Repair_Bot:=0;
+               end
+
+               if (map_var(MVAR_Ammo_Request_1b) != 0) then begin
+                   Ammo:=create_object(map_var(MVAR_Ammo_Request_1a),0,0);
+                   add_mult_objs_to_inven(Bot,Ammo,map_var(MVAR_Ammo_Request_1b));
+                   set_map_var(MVAR_Ammo_Request_1b,0);
+                   float_msg(self_obj,g_mstr(9001),FLOAT_MSG_GREEN);
+                   debug_msg("Bot Rearmed.");
+               end
+
+               if ((Bot_Max_Hp == Bot_Cur_Hp) or (critter_state(Bot) == CRITTER_IS_DEAD)) then begin
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
+                   debug_msg("Bot completely repaired.");
+                   float_msg(self_obj,g_mstr(9000),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)+1);
+                   call GetMeHome;
+               end
+           end
+
+       end
+       else if (local_var(LVAR_Wait_Time) == 0) then begin
+           set_local_var(LVAR_Wait_Time,game_time);
+       end
+       else if ((game_time - local_var(LVAR_Wait_Time)) > (2*ONE_GAME_MINUTE)) then begin
+           call GetMeHome;
+       end
+   end
+
+   else begin
+       call Travel1;
+   end
+end
+
+procedure Repair2 begin
+//   variable Bot;
+   variable Bot_Max_Hp;
+   variable Bot_Cur_Hp;
+   variable Ammo;
+   variable JunkBot;
+
+   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request2)) < 2) and
+       (elevation(self_obj) == map_var(MVAR_Elevation_Request2))) then begin
+       if (tile_contains_obj_pid(map_var(MVAR_Tile_Request2),map_var(MVAR_Elevation_Request2),map_var(MVAR_Pid_Request2))) then begin
+           Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request2),map_var(MVAR_Elevation_Request2),map_var(MVAR_Pid_Request2));
+
+           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
+           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+
+           if (map_var(MVAR_Repair_Request2) == REPAIR_PICKUP_ANSWER) then begin
+               destroy_object(Bot);
+               JunkBot:=create_object(PID_DESTROYED_ROBOT,0,0);
+               add_mult_objs_to_inven(self_obj,JunkBot,1);
+               set_map_var(MVAR_Repair_Request2,REPAIR_PICKUP_COMPLETE);
+               debug_msg("Bot being reclaimed for metal.");
+               call GetMeHome;
+               debug_msg("Make Me Move 2");
+               set_local_var(LVAR_Replace_Bot,1);
+           end
+
+           else begin
+               Repair_Bot+=1;
+               if (Repair_Bot == BOT_REPAIR_RATE) then begin
+                   critter_heal(Bot,1);
+                   float_msg(self_obj,g_mstr(9002),FLOAT_MSG_GREEN);
+                   Repair_Bot:=0;
+               end
+
+               if (map_var(MVAR_Ammo_Request_2b) != 0) then begin
+                   Ammo:=create_object(map_var(MVAR_Ammo_Request_2a),0,0);
+                   add_mult_objs_to_inven(Bot,Ammo,map_var(MVAR_Ammo_Request_2b));
+                   set_map_var(MVAR_Ammo_Request_2b,0);
+                   float_msg(self_obj,g_mstr(9001),FLOAT_MSG_GREEN);
+                   debug_msg("Bot Rearmed.");
+               end
+
+               if ((Bot_Max_Hp == Bot_Cur_Hp) or (critter_state(Bot) == CRITTER_IS_DEAD)) then begin
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   set_map_var(MVAR_Repair_Request2,REPAIR_COMPLETE);
+                   debug_msg("Bot completely repaired.");
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   float_msg(self_obj,g_mstr(9000),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)+1);
+                   call GetMeHome;
+               end
+           end
+
+       end
+       else if (local_var(LVAR_Wait_Time) == 0) then begin
+           set_local_var(LVAR_Wait_Time,game_time);
+       end
+       else if ((game_time - local_var(LVAR_Wait_Time)) > (2*ONE_GAME_MINUTE)) then begin
+           call GetMeHome;
+       end
+   end
+
+   else begin
+       call Travel2;
+   end
+end
+
+procedure Repair3 begin
+//   variable Bot;
+   variable Bot_Max_Hp;
+   variable Bot_Cur_Hp;
+   variable Ammo;
+   variable JunkBot;
+
+   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request3)) < 2) and
+       (elevation(self_obj) == map_var(MVAR_Elevation_Request3))) then begin
+       if (tile_contains_obj_pid(map_var(MVAR_Tile_Request3),map_var(MVAR_Elevation_Request3),map_var(MVAR_Pid_Request3))) then begin
+           Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request3),map_var(MVAR_Elevation_Request3),map_var(MVAR_Pid_Request3));
+
+           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
+           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+
+           if (map_var(MVAR_Repair_Request3) == REPAIR_PICKUP_ANSWER) then begin
+               destroy_object(Bot);
+               JunkBot:=create_object(PID_DESTROYED_ROBOT,0,0);
+               add_mult_objs_to_inven(self_obj,JunkBot,1);
+               set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP_COMPLETE);
+               debug_msg("Bot being reclaimed for metal.");
+               call GetMeHome;
+               debug_msg("Make Me Move 3");
+               set_local_var(LVAR_Replace_Bot,1);
+           end
+
+           else begin
+               Repair_Bot+=1;
+               if (Repair_Bot == BOT_REPAIR_RATE) then begin
+                   critter_heal(Bot,1);
+                   float_msg(self_obj,g_mstr(9002),FLOAT_MSG_GREEN);
+                   Repair_Bot:=0;
+               end
+
+               if (map_var(MVAR_Ammo_Request_3b) != 0) then begin
+                   Ammo:=create_object(map_var(MVAR_Ammo_Request_3a),0,0);
+                   add_mult_objs_to_inven(Bot,Ammo,map_var(MVAR_Ammo_Request_3b));
+                   set_map_var(MVAR_Ammo_Request_3b,0);
+                   float_msg(self_obj,g_mstr(9001),FLOAT_MSG_GREEN);
+                   debug_msg("Bot Rearmed.");
+               end
+
+               if ((Bot_Max_Hp == Bot_Cur_Hp) or (critter_state(Bot) == CRITTER_IS_DEAD)) then begin
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   set_map_var(MVAR_Repair_Request3,REPAIR_COMPLETE);
+                   debug_msg("Bot completely repaired.");
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   float_msg(self_obj,g_mstr(9000),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)+1);
+                   call GetMeHome;
+               end
+           end
+
+       end
+       else if (local_var(LVAR_Wait_Time) == 0) then begin
+           set_local_var(LVAR_Wait_Time,game_time);
+       end
+       else if ((game_time - local_var(LVAR_Wait_Time)) > (2*ONE_GAME_MINUTE)) then begin
+           call GetMeHome;
+       end
+   end
+
+   else begin
+       call Travel3;
+   end
+end
+
+procedure Repair4 begin
+//   variable Bot;
+   variable Bot_Max_Hp;
+   variable Bot_Cur_Hp;
+   variable Ammo;
+   variable JunkBot;
+
+   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request4)) < 2) and
+       (elevation(self_obj) == map_var(MVAR_Elevation_Request4))) then begin
+       if (tile_contains_obj_pid(map_var(MVAR_Tile_Request4),map_var(MVAR_Elevation_Request4),map_var(MVAR_Pid_Request4))) then begin
+           Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request4),map_var(MVAR_Elevation_Request4),map_var(MVAR_Pid_Request4));
+
+           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
+           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+
+           if (map_var(MVAR_Repair_Request4) == REPAIR_PICKUP_ANSWER) then begin
+               destroy_object(Bot);
+               JunkBot:=create_object(PID_DESTROYED_ROBOT,0,0);
+               add_mult_objs_to_inven(self_obj,JunkBot,1);
+               set_map_var(MVAR_Repair_Request4,REPAIR_PICKUP_COMPLETE);
+               debug_msg("Bot being reclaimed for metal.");
+               call GetMeHome;
+               debug_msg("Make Me Move 4");
+               set_local_var(LVAR_Replace_Bot,1);
+           end
+
+           else begin
+               Repair_Bot+=1;
+               if (Repair_Bot == BOT_REPAIR_RATE) then begin
+                   float_msg(self_obj,g_mstr(9002),FLOAT_MSG_GREEN);
+                   critter_heal(Bot,1);
+                   Repair_Bot:=0;
+               end
+
+               if (map_var(MVAR_Ammo_Request_4b) != 0) then begin
+                   Ammo:=create_object(map_var(MVAR_Ammo_Request_4a),0,0);
+                   add_mult_objs_to_inven(Bot,Ammo,map_var(MVAR_Ammo_Request_4b));
+                   float_msg(self_obj,g_mstr(9001),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Ammo_Request_4b,0);
+                   debug_msg("Bot Rearmed.");
+               end
+
+               if ((Bot_Max_Hp == Bot_Cur_Hp) or (critter_state(Bot) == CRITTER_IS_DEAD)) then begin
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   set_map_var(MVAR_Repair_Request4,REPAIR_COMPLETE);
+                   debug_msg("Bot completely repaired.");
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   float_msg(self_obj,g_mstr(9000),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)+1);
+                   call GetMeHome;
+               end
+           end
+
+       end
+       else if (local_var(LVAR_Wait_Time) == 0) then  begin
+           set_local_var(LVAR_Wait_Time,game_time);
+       end
+       else if ((game_time - local_var(LVAR_Wait_Time)) > (2*ONE_GAME_MINUTE)) then begin
+           call GetMeHome;
+       end
+   end
+
+   else begin
+       call Travel4;
+   end
+end
+
+procedure Repair5 begin
+//   variable Bot;
+   variable Bot_Max_Hp;
+   variable Bot_Cur_Hp;
+   variable JunkBot;
+   variable Ammo;
+
+   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request5)) < 2) and
+       (elevation(self_obj) == map_var(MVAR_Elevation_Request5))) then begin
+       if (tile_contains_obj_pid(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5))) then begin
+           Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5));
+
+           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
+           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+
+           if (map_var(MVAR_Repair_Request5) == REPAIR_PICKUP_ANSWER) then begin
+               destroy_object(Bot);
+               JunkBot:=create_object(PID_DESTROYED_ROBOT,0,0);
+               add_mult_objs_to_inven(self_obj,JunkBot,1);
+               set_map_var(MVAR_Repair_Request5,REPAIR_PICKUP_COMPLETE);
+               debug_msg("Bot being reclaimed for metal.");
+               call GetMeHome;
+               debug_msg("Make Me Move 5");
+               set_local_var(LVAR_Replace_Bot,1);
+           end
+
+           else begin
+               Repair_Bot+=1;
+               if (Repair_Bot == BOT_REPAIR_RATE) then begin
+                   critter_heal(Bot,1);
+                   float_msg(self_obj,g_mstr(9002),FLOAT_MSG_GREEN);
+                   Repair_Bot:=0;
+               end
+
+               if (map_var(MVAR_Ammo_Request_5b) != 0) then begin
+                   Ammo:=create_object(map_var(MVAR_Ammo_Request_5a),0,0);
+                   add_mult_objs_to_inven(Bot,Ammo,map_var(MVAR_Ammo_Request_5b));
+                   float_msg(self_obj,g_mstr(9001),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Ammo_Request_5b,0);
+                   debug_msg("Bot Rearmed.");
+               end
+
+               if ((Bot_Max_Hp == Bot_Cur_Hp) or (critter_state(Bot) == CRITTER_IS_DEAD)) then begin
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   set_map_var(MVAR_Repair_Request5,REPAIR_COMPLETE);
+                   debug_msg("Bot completely repaired.");
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   float_msg(self_obj,g_mstr(9000),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)+1);
+                   call GetMeHome;
+               end
+           end
+
+       end
+       else if (local_var(LVAR_Wait_Time) == 0) then begin
+           set_local_var(LVAR_Wait_Time,game_time);
+       end
+       else if ((game_time - local_var(LVAR_Wait_Time)) > (2*ONE_GAME_MINUTE)) then begin
+           call GetMeHome;
+       end
+   end
+
+   else begin
+       call Travel5;
+   end
+end
+
+procedure Repair6 begin
+//   variable Bot;
+   variable Bot_Max_Hp;
+   variable Bot_Cur_Hp;
+   variable JunkBot;
+   variable Ammo;
+
+   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request6)) < 2) and
+       (elevation(self_obj) == map_var(MVAR_Elevation_Request6))) then begin
+       if (tile_contains_obj_pid(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6))) then begin
+           Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6));
+
+           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
+           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+
+           if (map_var(MVAR_Repair_Request6) == REPAIR_PICKUP_ANSWER) then begin
+               destroy_object(Bot);
+               JunkBot:=create_object(PID_DESTROYED_ROBOT,0,0);
+               add_mult_objs_to_inven(self_obj,JunkBot,1);
+               set_map_var(MVAR_Repair_Request6,REPAIR_PICKUP_COMPLETE);
+               debug_msg("Bot being reclaimed for metal.");
+               call GetMeHome;
+               debug_msg("Make Me Move 6");
+               set_local_var(LVAR_Replace_Bot,1);
+           end
+
+           else begin
+               Repair_Bot+=1;
+               if (Repair_Bot == BOT_REPAIR_RATE) then begin
+                   critter_heal(Bot,1);
+                   float_msg(self_obj,g_mstr(9002),FLOAT_MSG_GREEN);
+                   Repair_Bot:=0;
+               end
+
+               if (map_var(MVAR_Ammo_Request_6b) != 0) then begin
+                   Ammo:=create_object(map_var(MVAR_Ammo_Request_6a),0,0);
+                   add_mult_objs_to_inven(Bot,Ammo,map_var(MVAR_Ammo_Request_6b));
+                   set_map_var(MVAR_Ammo_Request_6b,0);
+                   float_msg(self_obj,g_mstr(9001),FLOAT_MSG_GREEN);
+                   debug_msg("Bot Rearmed.");
+               end
+
+               if ((Bot_Max_Hp == Bot_Cur_Hp) or (critter_state(Bot) == CRITTER_IS_DEAD)) then begin
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   set_map_var(MVAR_Repair_Request6,REPAIR_COMPLETE);
+                   debug_msg("Bot completely repaired.");
+                   set_local_var(LVAR_Have_Request_Num,0);
+                   float_msg(self_obj,g_mstr(9000),FLOAT_MSG_GREEN);
+                   set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)+1);
+                   call GetMeHome;
+//                   animate_move_to_tile(local_var(LVAR_Home_Tile));
+               end
+           end
+
+       end
+       else if (local_var(LVAR_Wait_Time) == 0) then begin
+           set_local_var(LVAR_Wait_Time,game_time);
+       end
+       else if ((game_time - local_var(LVAR_Wait_Time)) > (2*ONE_GAME_MINUTE)) then begin
+           call GetMeHome;
+       end
+   end
+
+   else begin
+       call Travel6;
+   end
+end
+
+procedure Travel1 begin
+   variable tile;
+   variable Tile2;
+
+   if (elevation(self_obj) != map_var(MVAR_Elevation_Request1)) then begin
+       call FindElevator;
+       if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(map_var(MVAR_Elevation_Request1));
+       end
+   end
+
+   else begin
+       Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request1),random(0,5),1);
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,Tile2,elevation(self_obj));
+       else
+           animate_move_to_tile(Tile2);
+   end
+end
+
+procedure Travel2 begin
+   variable tile;
+   variable Tile2;
+
+   if (elevation(self_obj) != map_var(MVAR_Elevation_Request2)) then begin
+       call FindElevator;
+       if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(map_var(MVAR_Elevation_Request1));
+       end
+   end
+
+   else begin
+       Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request2),random(0,5),1);
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,Tile2,elevation(self_obj));
+       else
+           animate_move_to_tile(Tile2);
+   end
+end
+
+procedure Travel3 begin
+   variable tile;
+   variable Tile2;
+
+   if (elevation(self_obj) != map_var(MVAR_Elevation_Request3)) then begin
+       call FindElevator;
+       if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(map_var(MVAR_Elevation_Request1));
+       end
+   end
+
+   else begin
+       Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request3),random(0,5),1);
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,Tile2,elevation(self_obj));
+       else
+           animate_move_to_tile(Tile2);
+   end
+end
+
+procedure Travel4 begin
+   variable tile;
+   variable Tile2;
+
+   if (elevation(self_obj) != map_var(MVAR_Elevation_Request4)) then begin
+       call FindElevator;
+       if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(map_var(MVAR_Elevation_Request1));
+       end
+   end
+
+   else begin
+       Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request4),random(0,5),1);
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,Tile2,elevation(self_obj));
+       else
+           animate_move_to_tile(Tile2);
+   end
+end
+
+procedure Travel5 begin
+   variable tile;
+   variable Tile2;
+
+   if (elevation(self_obj) != map_var(MVAR_Elevation_Request5)) then begin
+       call FindElevator;
+       if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(map_var(MVAR_Elevation_Request1));
+       end
+   end
+
+   else begin
+       Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request5),random(0,5),1);
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,Tile2,elevation(self_obj));
+       else
+           animate_move_to_tile(Tile2);
+   end
+end
+
+procedure Travel6 begin
+   variable tile;
+   variable Tile2;
+
+   if (elevation(self_obj) != map_var(MVAR_Elevation_Request6)) then begin
+       call FindElevator;
+       if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(map_var(MVAR_Elevation_Request1));
+       end
+   end
+
+   else begin
+       Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request6),random(0,5),1);
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,Tile2,elevation(self_obj));
+       else
+           animate_move_to_tile(Tile2);
+   end
+end
+
+procedure FindElevator begin
+   if (elevation(self_obj) == 0) then begin
+       Elevator_Tile:=ELEVATOR_1;
+   end
+   else if (elevation(self_obj) == 1) then begin
+       Elevator_Tile:=ELEVATOR_2;
+   end
+   else begin
+       Elevator_Tile:=ELEVATOR_3;
+   end
+end
+
+procedure FindBotElevator begin
+   if (elevation(Bot) == 0) then begin
+       Elevator_Tile:=ELEVATOR_1;
+   end
+   else if (elevation(Bot) == 1) then begin
+       Elevator_Tile:=ELEVATOR_2;
+   end
+   else begin
+       Elevator_Tile:=ELEVATOR_3;
+   end
+end
+
+procedure ReplaceBot begin
+   variable Bot;
+   variable Dest_Tile;
+
+   if (local_var(LVAR_Have_Request_Num) == 1) then begin
+       debug_msg("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
+//       if (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP_COMPLETE) then begin
+           Bot:=create_object_sid(map_var(MVAR_Pid_Request1),0,0,SCRIPT_WCSECBOT);
+           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
+           debug_msg("Created Bot 1.");
+           set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+           set_local_var(LVAR_Replace_Bot,0);
+           Bot_Elevation:=map_var(MVAR_Elevation_Request1);
+           Bot_Tile:=map_var(MVAR_Tile_Request1);
+           call GetRobotHome;
+/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request1)) then begin
+               call GetRobotHome;
+           end
+           else begin
+               animate_move_obj_to_tile(Bot, map_var(MVAR_Tile_Request1), ANIMATE_WALK);
+               debug_msg("Sending Bot back to repair Site.");
+           end
+*/
+//       end
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 2) then begin
+       debug_msg("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
+//       if (map_var(MVAR_Tile_Request2) == REPAIR_PICKUP_COMPLETE) then begin
+           Bot:=create_object_sid(map_var(MVAR_Pid_Request2),0,0,SCRIPT_WCSECBOT);
+           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
+           debug_msg("Created Bot 2.");
+           set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+           set_local_var(LVAR_Replace_Bot,0);
+           Bot_Elevation:=map_var(MVAR_Elevation_Request2);
+           Bot_Tile:=map_var(MVAR_Tile_Request2);
+           call GetRobotHome;
+/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request3)) then begin
+               call GetRobotHome;
+           end
+           else begin
+               animate_move_obj_to_tile(Bot, map_var(MVAR_Tile_Request2), ANIMATE_WALK);
+               debug_msg("Sending Bot back to repair Site.");
+           end
+*/
+//       end
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 3) then begin
+       debug_msg("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
+//       if (map_var(MVAR_Tile_Request3) == REPAIR_PICKUP_COMPLETE) then begin
+           Bot:=create_object_sid(map_var(MVAR_Pid_Request3),0,0,SCRIPT_WCSECBOT);
+           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
+           debug_msg("Created Bot 3.");
+           set_map_var(MVAR_Repair_Request3,REPAIR_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+           set_local_var(LVAR_Replace_Bot,0);
+           Bot_Elevation:=map_var(MVAR_Elevation_Request3);
+           Bot_Tile:=map_var(MVAR_Tile_Request3);
+           call GetRobotHome;
+/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request3)) then begin
+               call GetRobotHome;
+           end
+           else begin
+               animate_move_obj_to_tile(Bot, map_var(MVAR_Tile_Request3), ANIMATE_WALK);
+               debug_msg("Sending Bot back to repair Site.");
+           end
+*/
+//       end
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 4) then begin
+       debug_msg("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
+//       if (map_var(MVAR_Tile_Request4) == REPAIR_PICKUP_COMPLETE) then begin
+           Bot:=create_object_sid(map_var(MVAR_Pid_Request4),0,0,SCRIPT_WCSECBOT);
+           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
+           debug_msg("Created Bot 4.");
+           set_map_var(MVAR_Repair_Request4,REPAIR_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+           set_local_var(LVAR_Replace_Bot,0);
+           Bot_Elevation:=map_var(MVAR_Elevation_Request4);
+           Bot_Tile:=map_var(MVAR_Tile_Request4);
+           call GetRobotHome;
+/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request4)) then begin
+               call GetRobotHome;
+           end
+           else begin
+               animate_move_obj_to_tile(Bot, map_var(MVAR_Tile_Request4), ANIMATE_WALK);
+               debug_msg("Sending Bot back to repair Site.");
+           end
+*/
+//       end
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 5) then begin
+       debug_msg("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
+//       if (map_var(MVAR_Tile_Request5) == REPAIR_PICKUP_COMPLETE) then begin
+           Bot:=create_object_sid(map_var(MVAR_Pid_Request5),0,0,SCRIPT_WCSECBOT);
+           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
+           debug_msg("Created Bot 5.");
+           set_map_var(MVAR_Repair_Request5,REPAIR_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+           set_local_var(LVAR_Replace_Bot,0);
+           Bot_Elevation:=map_var(MVAR_Elevation_Request5);
+           Bot_Tile:=map_var(MVAR_Tile_Request5);
+           call GetRobotHome;
+/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request5)) then begin
+               call GetRobotHome;
+           end
+           else begin
+               animate_move_obj_to_tile(Bot, map_var(MVAR_Tile_Request5), ANIMATE_WALK);
+               debug_msg("Sending Bot back to repair Site.");
+           end
+*/
+//       end
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 6) then begin
+       debug_msg("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
+//       if (map_var(MVAR_Tile_Request6) == REPAIR_PICKUP_COMPLETE) then begin
+           Bot:=create_object_sid(map_var(MVAR_Pid_Request6),0,0,SCRIPT_WCSECBOT);
+           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
+           debug_msg("Created Bot 6.");
+           set_map_var(MVAR_Repair_Request6,REPAIR_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+           set_local_var(LVAR_Replace_Bot,0);
+           Bot_Elevation:=map_var(MVAR_Elevation_Request6);
+           Bot_Tile:=map_var(MVAR_Tile_Request6);
+           call GetRobotHome;
+/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request6)) then begin
+               call GetRobotHome;
+           end
+           else begin
+               animate_move_obj_to_tile(Bot, map_var(MVAR_Tile_Request6), ANIMATE_WALK);
+               debug_msg("Sending Bot back to repair Site.");
+           end
+*/
+//       end
+   end
+end
+
+procedure GetMeHome begin
+   set_local_var(LVAR_Go_Home,0);
+   set_local_var(LVAR_Wait_Time,0);
+
+   debug_msg("Trying to go Home");
+
+   if (elevation(self_obj) != HOME_ELEVATION) then begin
+       call FindElevator;
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,ELEVATOR_2,HOME_ELEVATION);
+       else if (tile_num(self_obj) != Elevator_Tile) then begin
+           animate_move_to_tile(Elevator_Tile);
+       end
+       else begin
+           Move_Elevator(HOME_ELEVATION);
+       end
+   end
+   else begin
+       if (elevation(self_obj) != elevation(dude_obj)) then
+           move_to(self_obj,local_var(LVAR_Home_Tile),HOME_ELEVATION);
+       else
+           animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end
+end
+
+procedure GetRobotHome begin
+   if (elevation(Bot) != Bot_Elevation) then begin
+       call FindBotElevator;
+       if (tile_num(Bot) != Elevator_Tile) then begin
+           animate_move_obj_to_tile(Bot,Elevator_Tile,ANIMATE_WALK);
+       end
+       else begin
+           Move_Elevator_Obj(Bot,Bot_Elevation);
+       end
+   end
+   else begin
+       animate_move_obj_to_tile(Bot,Bot_Tile,ANIMATE_WALK);
+       debug_msg("Send New Bot home.");
+   end
+end
+
+procedure PrepareBot begin
+   if (local_var(LVAR_Have_Request_Num) == 1) then begin
+       set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
+       set_local_var(LVAR_Have_Request_Num,0);
+       set_local_var(LVAR_Replace_Bot,0);
+       Inc_Bot(map_var(MVAR_Pid_Request1),map_var(MVAR_Elevation_Request1));
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 2) then begin
+       set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
+       set_local_var(LVAR_Have_Request_Num,0);
+       set_local_var(LVAR_Replace_Bot,0);
+       Inc_Bot(map_var(MVAR_Pid_Request2),map_var(MVAR_Elevation_Request2));
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 3) then begin
+       set_map_var(MVAR_Repair_Request3,REPAIR_COMPLETE);
+       set_local_var(LVAR_Have_Request_Num,0);
+       set_local_var(LVAR_Replace_Bot,0);
+       Inc_Bot(map_var(MVAR_Pid_Request3),map_var(MVAR_Elevation_Request3));
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 4) then begin
+       set_map_var(MVAR_Repair_Request4,REPAIR_COMPLETE);
+       set_local_var(LVAR_Have_Request_Num,0);
+       set_local_var(LVAR_Replace_Bot,0);
+       Inc_Bot(map_var(MVAR_Pid_Request4),map_var(MVAR_Elevation_Request4));
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 5) then begin
+       set_map_var(MVAR_Repair_Request5,REPAIR_COMPLETE);
+       set_local_var(LVAR_Have_Request_Num,0);
+       set_local_var(LVAR_Replace_Bot,0);
+       Inc_Bot(map_var(MVAR_Pid_Request5),map_var(MVAR_Elevation_Request5));
+   end
+   else if (local_var(LVAR_Have_Request_Num) == 6) then begin
+       set_map_var(MVAR_Repair_Request6,REPAIR_COMPLETE);
+       set_local_var(LVAR_Have_Request_Num,0);
+       set_local_var(LVAR_Replace_Bot,0);
+       Inc_Bot(map_var(MVAR_Pid_Request6),map_var(MVAR_Elevation_Request6));
+   end
+end
