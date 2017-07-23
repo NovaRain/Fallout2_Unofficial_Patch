@@ -730,7 +730,7 @@ variable check_still_kill;
                                                       end else if (x == family_bishop) then begin     \
                                                          off_bishop_permission                        \
                                                          if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) > 0) then begin  \
-                                                           set_briefcase_flag(4); /*added by killap - 4 means failed     */ \
+                                                            set_briefcase_flag(4); /*added by killap - 4 means failed */ \
                                                          end                                          \
                                                          clear_snuff_carlson                          \
                                                          clear_snuff_westin                           \
@@ -1464,7 +1464,7 @@ variable check_still_kill;
                                                             global_temp := get_pc_extra_stat(STAT_dmg_resist) + 5;               \
                                                             set_pc_extra_stat(STAT_dmg_resist, global_temp);                     \
                                                             set_global_var(GVAR_NEW_RENO_HAS_REP_PRIZEFIGHTER, 1);               \
-                                                             display_msg(nr_mstr(1404));                                         \
+                                                            display_msg(nr_mstr(1404));                                          \
                                                          end                                                                     \
                                                       end                                                                        \
                                                       debug_msg("inc_fight_level == " + fight_level)

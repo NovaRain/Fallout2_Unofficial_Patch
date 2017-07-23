@@ -147,7 +147,7 @@
 #define GVAR_TORR_MISSING                    (71)
 #define GVAR_TORR_SEARCH_SUCCESS             (72)
 #define GVAR_TRAPPER_RETURNED                (73)
-//#define GVAR_DUNTONS_ANGRY                   (74) unused - killap
+//#define GVAR_DUNTONS_ANGRY                   (74) //this is unused - killap
 #define GVAR_TORR_BRAHMIN_KILLED             (74) //moved here - killap
 #define GVAR_RUSTLE_FAIL_VIOLENT             (75)
 #define GVAR_RUSTLE_FAIL                     (76)

@@ -268,7 +268,6 @@
 #define CAR_RND_PARIAH_ELEV                 (0)
 #define CAR_RND_BHEAD_ELEV                  (0)
 #define CAR_RND_CAFE_ELEV                   (0)
-
 #define CAR_SLAVER_CAMP_ELEV                (0)
 
 #endif // UPDATMAP_H

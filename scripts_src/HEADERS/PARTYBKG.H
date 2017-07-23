@@ -26,7 +26,8 @@ procedure Check_Final_Third_Of_Areas;
                                     else if (cur_town == AREA_KLAMATH) then begin                                              \
                                        if (cur_map_index == MAP_KLAMATH_RATCAVES) then                                         \
                                           PartyMemberBackground := BACKGROUND_CAVE;                                            \
-                                       else if ((cur_map_index == MAP_KLAMATH_GRAZE) or (cur_map_index == MAP_KLAMATH_TRAPCAVES)) then  \
+                                       else if ((cur_map_index == MAP_KLAMATH_GRAZE) or                                        \
+                                                (cur_map_index == MAP_KLAMATH_TRAPCAVES)) then                                 \
                                           PartyMemberBackground := BACKGROUND_WASTELAND;                                       \
                                        else                                                                                    \
                                           PartyMemberBackground := BACKGROUND1;                                                \

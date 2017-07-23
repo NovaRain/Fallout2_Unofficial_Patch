@@ -81,7 +81,7 @@ variable How_Many_Party_Members_Armed;
 #define party_size_humans                   (Myron_In_Party+MacRae_In_Party+Sulik_In_Party+Doc_In_Party+Davin_In_Party+Miria_In_Party)
 #define party_size_male                     (Myron_In_Party+Marcus_In_Party+MacRae_In_Party+Sulik_In_Party+Lenny_In_Party+Doc_In_Party+Goris_In_Party+Davin_In_Party)
 #define party_size_female                   (Miria_In_Party)
-#define party_size_strange                  (Marcus_In_Party+Lenny_In_Party+Cyberdog_In_Party+Goris_In_Party+Laddie_In_Party+Robobrain_In_Party)
+#define party_size_strange                  (Marcus_In_Party+Lenny_In_Party+Cyberdog_In_Party+Goris_In_Party+K9_In_Party+Robobrain_In_Party)
 #define party_size_biped                    (party_size_male + party_size_female)
 
 // Health of Party Members

@@ -461,7 +461,7 @@
 // den_flags_3 start
 #define know_church_bit                            bit_1
 #define anna_spoken_bit                            bit_2
-//#define joey_dead_bit                            bit_3
+//#define joey_dead_bit                              bit_3
 #define gave_fred_winnings_bit                     bit_4
 #define cleared_unclaimed_car_bit                  bit_5
 #define gang_1_hostile_bit                         bit_6
@@ -669,7 +669,7 @@ variable caught_thief;
 #define gang_2                                     (GVAR_DEN_GANG_2_COUNT)
 
 #define inc_gang_counter(the_gang)                 if (the_gang == gang_1) then begin                             \
-                                                   		inc_global_var(gang_1);                                   \
+                                                      inc_global_var(gang_1);                                     \
                                                    end else if (cur_map_index == MAP_DEN_ENTRANCE) then begin     \
                                                       inc_global_var(gang_2);                                     \
                                                    end                                                            \
@@ -840,7 +840,7 @@ variable the_follow_obj;
                                                             set_local_var(LVAR_Home_Tile, self_tile);                                   \
                                                             set_local_var(LVAR_Home_Rotation, self_cur_rot);                            \
                                                          end                                                                            \
-                                                         end if (gangwar(state_gangwar_in_fight)) then begin                            \
+                                                      end if (gangwar(state_gangwar_in_fight)) then begin                               \
                                                          check_set_obj_visiblility(self_obj, false);                                    \
                                                          if (self_gang == gang_1) then begin                                            \
                                                             if (gang_trap(state_gang_trap_set)) then begin                              \

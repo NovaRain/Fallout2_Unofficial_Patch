@@ -672,6 +672,7 @@
 #define ELEV_SIERRA1 (10) // Sierra Elev 1 (1-2-3)
 #define ELEV_SIERRA2 (11) // Sierra Elev 2 (3-4)
 #define ELEV_SIERRAS (12) // Sierra Service Elev (1-2-3-4)
+
 #define METARULE_PARTY_COUNT      16
 #define party_member_count(X)    metarule(METARULE_PARTY_COUNT, X)
 #define DONT_LIST_HIDDEN_MEMBERS (0)

@@ -32,7 +32,6 @@ variable Karma_Perception:=0;           // see defines for values
 variable reaction_bonus_town_rep:=0;
 variable reaction_bonus_karma:=0;
 
-
 /* Slave Tolerance */
 #define SLAVE_VERY_INTOLERANT           (0)
 #define SLAVE_INTOLERANT                (1)
