@@ -12,4 +12,4 @@
 This is a localization effort for Fallout 2 [Killap's unofficial patch](http://killap.net/fallout2/web/Downloads.html) (v. 1.02.31).
 
 Current languages:
-* Spanish (based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2)) for Fallout 1.02d
+* Spanish (based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d)
