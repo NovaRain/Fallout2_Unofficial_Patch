@@ -3,7 +3,7 @@
 <img src="https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg" alt="Translation status" />
 </a>
 
-[__Help translating__](https://tra.bgforge.net/projects/fallout/up-male/)
+[__Help translating__](https://tra.bgforge.net/projects/fallout/up/)
 | [__Download__](https://github.com/BGforgeNet/fallout2-up-translation/releases)
 | [__Installation__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
 | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
