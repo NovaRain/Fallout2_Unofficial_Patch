@@ -522,7 +522,6 @@ Would you be interested in a little trade?,¿Estarías interesada en un poco de 
 How unfortunate. Then rest and be welcome in my camp.,Qué desgraciada. Entonces descansa y sé bienvenida a mi campamento.
 "My offer of shade has come too late for you. The sun must have boiled away words from your
  brain. I must be kind to those less fortunate than I. Stay as long you like in my camp, dimwitted one.","Mi oferta de sombra ha llegado demasiado tarde para ti. El sol ha debido evaporar las palabras de tu cerebro. Debo ser atento con aquellos menos afortunados que yo. Quédate tanto tiempo como quieras en mi campamento, querida cortita."
-
 How dare you violate our hospitality.,Cómo te atreves a violar nuestra hospitalidad.
 "Hello, stranger. I am the tribe shaman. I am skilled in the art of healing.","Hola, forastera. Soy el cháman de la tribu. Estoy versado en el arte de la curación."
 [Poisoned],[Envenenada]
@@ -531,13 +530,11 @@ How dare you violate our hospitality.,Cómo te atreves a violar nuestra hospital
 Sucker.,Zorra.
 Unclean!,¡Inmunda!
 You feel a lot more safe now that the dog is dead.,Te sientes un poco más segura ahora que el perro está muerto.
-Prospector,Ves a un Prospector.
 "Hold it right there, stranger! I'm not used to ambushing strangers, but I need supplies and I
  can't leave my claim. Want to do a quick trade?","Quieta ahí, forastera. No suelo emboscar a extraños, pero necesito suministros y no puedo abandonar mi prospección. ¿Hace un trueque rápido?"
 "We're looking for slaver patrols. Seen any, stranger?","Estamos buscando patrullas de esclavistas. ¿Has visto alguna, forastera?"
 "Damn, slave-lover. You're gonna die hard!",Maldita esclavista. ¡Vas a morir!
 You are such a lying sack of shit. Take 'em!,Eres una mentirosa de mierda. ¡A por ella!
-None of your business.,No es asunto tuyo.
 "Fine, be anti-social. At least you're not a slaver. Goodbye.","Bien, sé todo lo antisocial que quieras. Al menos no eres una esclavista. Adiós."
 Are you my new master?,¿Eres tú mi nueva ama?
 "Greetings friend, my name is Willy and have I got a deal for you. [He seems to be reading from
@@ -545,14 +542,10 @@ Are you my new master?,¿Eres tú mi nueva ama?
 "[You groggily open your eyes as you finally notice that someone is kicking you.] Well, are you
  interested or not?","[Abres los ojos lentamente cuando por fin te das cuenta de que alguien te está dando patadas]. Bien, ¿estás interesada o no?"
 Interested in what?,¿Interesada en qué?
-"Yes indeedy, you won't regret this. It was nice giving you the business. See you around.","Sí, claro, no te arrepentirás. Me ha alegrado hacer tratos contigo. Nos vemos."
 [You feel dirty in more than one sense of the word - but you got some gecko pelts.],[Te sientes sucia en toda la extensión de la palabra. Pero ahora tienes algunas pieles].
 I'll skin you alive!,¡Te despellejaré viva!
-A traveler.,Ves a un viajero.
 Hail! Fellow traveler.,"¡Saludos, compañera viajera!"
-What do you do?,¿Qué es lo que haces?
 Well...I don't know. I'm pretty new to this area and I've only been to the following areas.,Bueno... no lo sé. Soy nueva por aquí y sólo he ido a las siguientes zonas.
-New California Republic,República de Nueva California
 Degenerate filth...,Inmunda degenerada...
 Watch yourself.,Vigila tus pasos.
 "Hello, citizen.","Hola, Ciudadana."
@@ -561,80 +554,38 @@ Watch yourself.,Vigila tus pasos.
 "We were worried you might have been hurt, citizen.","Estábamos preocupados de que pudieras haber sido herida, Ciudadana."
 Protect the Chosen One from the Spammer's idiocies!,¡Proteged a la Elegida de las idioteces del Spammer!
 Chosen One! Join us!,¡Elegida! ¡Únete a nosotros!
-You who?,¿Quién tú?
-"All right, all right.","Está bien, está bien."
-I have some questions.,Tengo unas preguntas.
-What the hell do you want?,¿Qué demonios quieres?
 "You're not a spy, are you?","No eres una espía, ¿verdad?"
 You look like a Hubologist.,Pareces una Hubologista.
 Look! A lao wai!,¡Mirad! ¡Una lao wai!
 Welcome to San Francisco.,Bienvenida a San Francisco.
 "Lao wai means ""foreigner"".","Lao wai significa ""extranjera""."
-"Stupid Hubologists, can't even protect their own leader.","Tontos Hubologistas, ni siquiera pueden proteger a su propio líder."
 I guess you're not a spy.,Supongo que no eres una espía.
 Son of a pig! Die!,¡Hija de una cerda! ¡Muere!
 Leave this city!,¡Abandona esta ciudad!
-I'm,Soy
 "You don't belong here if you're an imbecile. Run along now, before I call the guards.","No puedes estar aquí si eres una imbécil. Márchate corriendo, antes de que llame a los guardias."
 Guards! Guards! The outsider is back! Kill him! ,¡Guardias! ¡Guardias! ¡La forastera ha vuelto! ¡Matadla! 
-. I'm just looking around.,. Sólo echaba un vistazo.
-What's the matter with you?,¿Qué pasa contigo?
 "Yeah, I can do that. But what are you willing to trade for it?","Sí, puedo hacerlo. Pero, ¿qué estás dispuesta a intercambiar por ello?"
-"Yeah, sure.","Sí, desde luego."
 "::he looks into your eyes and decides that you're bluffing::
 Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.","::te mira a los ojos y decide que vas de farol::
 Inténtalo, amiguita. Vas a tener a unos guardias encargándose de tu culo y nunca aprenderás a mejorar tu armadura."
 Shit. You called my bluff.,Mierda. Me has llamado faroleadora.
 Bluffer. I think we'll see what the guards have to say about this.,Faroleadora. Creo que vamos a ver qué opinan los guardias sobre eso.
-"I see. Well, I have more questions.","Ya veo. Bien, tengo más preguntas."
 "Greetings, enlightened one.","Saludos, primera iluminada."
-There you go. Anything else?,Hecho. ¿Algo más?
-All right. I have more questions.,De acuerdo. Tengo más preguntas.
-You see a man wearing metal armor with a lightning bolt insignia on it.,Ves a un hombre con armadura metálica y una insignia de un relámpago en ella.
-"Hello,","Hola, "
-What that mean?,¿Qué dices?
-I've said enough for now. I think you should get about your business.,De momento ya he dicho más de lo debido. Creo que deberías seguir con tus asuntos.
-"Wait, me need ask question.","Espera, tengo que hacer pregunta."
-"Wait, I need to ask you some questions.","Espera, necesito hacerte algunas preguntas."
-"All right, you're allowed one question. What will it be?","De acuerdo, te permito una pregunta. ¿Cuál va a ser?"
-You know where me find Vault 13?,¿Sabes dónde encuentro Refugio 13?
-Do you know where I can find Vault 13?,¿Sabes donde puedo encontrar el Refugio 13?
 ". Well... You've certainly come a long way from the simple tribesman. You should visit our New California Republic office some time. You might find it rewarding. Now, if you'll excuse me...",". Bueno... ciertamente has recorrido un largo camino para una simple tribal. Deberías visitar alguna vez nuestra oficina en la República de Nueva California. Podría resultarte gratificante. Ahora, si me perdonas..."
-Wait...,Espera...
-There is nothing for you in there.,Ahí no hay nada para ti.
-"This is private property, so move along.","Esta es una propiedad privada, así que muévete."
 Oh no! An oppressor!,"¡Oh, no! ¡Una opresora!"
 "Oh, look... Another tourist.","Oh, mira... otra turista."
 "Oh, look... another tourist.","Oh, mira... otra turista."
 I don't think you'll be too tough.,No creo que vayas a ser demasiado dura.
-How may I be of assistance?,¿Cómo te puedo ser de ayuda?
-I wish to challenge you.,Quiero retarte.
-Sounds fair to me. How does this test work?,Me parece bien. ¿Cómo funciona esta prueba?
-"Oh. Well, in that case, I gotta go.","Oh. Bien, en ese caso, tengo que irme."
-Got it. I have more questions.,Entiendo. Tengo más preguntas.
-Riiight. See ya.,De acueeeeedo. Nos vemos.
 You are not the right one for this duty. Good day.,No eres la adecuada para esta tarea. Adiós.
 "Ah, a warrior. I shall pit you against my men to see how well you fare. Let us begin.","Ah, una guerrera. Te enfrentaré a mis hombres para ver cómo te portas. Empecemos."
--begin-,-empiezas-
-I'm not too bad at hand-to-hand combat myself. Wanna give me a try?,No se me da muy mal el combate mano a mano. ¿Quieres darme una oportunidad?
-That's interesting. Must be rewarding. I have more questions.,Eso es interesante. Debe ser gratificante. Tengo más preguntas.
-Yes. I'll do it right now.,Sí. Lo haré de inmediato.
-Right. I have questions.,De acuerdo. Tengo preguntas.
-Great. I have questions.,Genial. Tengo preguntas.
-Your kung fu is no good here.,Tu kung fu no es bueno aquí.
 I am Jobe. It is your time to be beaten.,Soy Jobe. Es hora de que seas vencida.
 I am Master Rube. You are finished.,Soy el maestro Rube. Estás acabada.
 "You have already defeated my men, and you have passed my test. You are ready fight Lo Pan.","Ya has derrotado a mis hombres, y pasado mi prueba. Estás lista para luchar contra Lo Pan."
-What is that?,¿Cuál es?
 Yeah - I'm hurt and it looks like you're a doctor.,Sí: estoy herida y parece que tú eres un doctor.
 "You're hurt? Tsk, tsk. Ancient remedy will cure that. ","¿Estás herida? Tsk, tsk. Un remedio antiguo te curará. "
-O-kay!,¡Va-vale!
-Tanks!,G-gracias!
-Tell me about this place.,Háblame de este lugar.
 "Honored sir, I recommend you seek out your cult's doctors.","Honorable señora, le recomiendo que busque a los médicos de su culto."
 "[He smiles] We must protect our honor, stranger.","[Sonríe] Debemos proteger nuestro honor, forastera."
 Aiee! Guards! The lao wai intruder is here!,¡Aaah! ¡Guardias! ¡La lao wai intrusa está aquí!
-So long.,Hasta luego.
 Intruder!,¡Intrusa!
 Get the intruder!,¡Capturad a la intrusa!
 Transgressor!,¡Transgresora!
@@ -646,42 +597,27 @@ I'll bet the celebrities will talk to you if you're nice and cool.,Apuesto a que
 Oh no! The persecutor!,"¡Oh, no! ¡La perseguidora!"
 The unenlightened one!,¡La primera no-iluminada!
 Guards! Guards! The barbarian is here!,¡Guardias! ¡Guardias! ¡La bárbara está aquí!
-Help! Guards!,¡Socorro! ¡Guardias!
 Star Father! Save me from the heathen!,¡Padre Estelar! ¡Líbrame de la pagana!
 I'm unique! Just like everyone else!,¡Soy única! ¡Al igual que todos los demás!
-Sometimes world-weary cynicism bores me.,"A veces, el hastiado cinismo del mundo me aburre."
-These Shi sure look funny.,Esos Shi tienen una pinta divertida.
-Look at all these new punks. Posers.,Mira a todos esos nuevos vagabundos. Impostores.
 Selfish bastard. I'll bet Chip would've helped you.,Zorra egoísta. Apostaría a que Chip tu hubiera ayudado.
 "You're quite the jerk, aren't you?","Eres una pedazo de gilipollas, ¿verdad?"
 Ever think about anyone but yourself?,¿Alguna vez piensas en alguien que no seas tú misma?
 "Oh, look, it's the ""hero"".","Oh, mira, es la ""heroína""."
 "Hey, everyone! It's the selfish asshole!",¡Oid todos! ¡Es la zorra egoísta!
 I like you. You're a good one.,Me gustas. Eres buena.
-I'll just be going now.,Me limitaré a irme ahora.
 "You stupid, stupid pawn.","Estúpida, estúpida títere."
 Crazy cultist!,¡Cultista loca!
 Hey! It's the idiot who can't think for itself!,¡Vaya! ¡Es la idiota que no puede hablar consigo misma!
-No way. Me be going.,No quiero. Marcho.
-What the hell. Me do.,Qué demonios. Hago yo.
 "What the hell. I must be crazy, but I'll do it.","Qué diablos. Debo estar loca, pero lo haré."
 Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.,Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría.
 "Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.",Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.
 I'll be careful. Thanks.,Seré cuidadosa. Gracias.
-Long live the Dragon!,¡Larga vida al Dragón!
 "Sir... yes, sir... goodbye, sir.","Señora... sí, señora... adiós, señora."
 Look! An outsider!,¡Mirad! ¡Una intrusa!
 "Hi! Welcome to Red 888 Guns! I'm Mai Da Chiang, the owner. How can I help you?","¡Hola! ¡Bienvenida a Armas 888 Rojo! Soy Mai Da Chiang, el propietario. ¿Cómo puedo ayudarte?"
-Tell me about the place.,Háblame sobre este lugar.
-Yep.,Pues sí.
 "You are a thief, a murderer, and a villain. I'm afraid I must kill you.","Eres una ladrona, una asesina, y una villana. Me temo que debo matarte."
 I want to be a Hubologist. How do I join?,Quiero ser un una Hubologista. ¿Cómo me puedo unir?
-'Es!,¡Sí!
-Sure. I have more questions.,Desde luego. Tengo más preguntas.
-Right. Bye.,Correcto. Adiós.
 "Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.","Ella: ¿Te atreves a llamar a Hub (alabada sea Su visión) un chiflado? ¿Aquí? ¿En una fortaleza dedicada a su estudio? Él: Sal de aquí. Si hablas con alguien mientras te vas, serás atacada. Infiel. Ambos: Adiós y hasta nunca."
-I'm out of here.,Me largo de aquí.
-"Well, I have more questions.","Bien, tengo más preguntas."
 Him: Too bad. Her: You're committed now.,Él: Qué pena. Ella: Ahora estás comprometida.
 So what do I do now that I'm an Hubologist?,"Entonces, ¿qué voy a hacer ahora que soy una Hubologista?"
 Her: Lying is bad for your neurodynes. Him: That's right. Her: That's why I have to be honest and say I don't find you attractive. Him: But we still love you as a fellow follower of the Hub!,Ella: Mentir es malo para tus neurodinas. Él: Esto es cierto. Ella: Es por eso que tengo que ser honesta y decirte que no te encuentro ningún atractivo. Él: ¡Pero aún así te amo como compañera seguidora de Hub!
@@ -689,16 +625,11 @@ Her: Lying is bad for your neurodynes. Him: That's right. Her: That's why I have
 "I am Ken Lee. I am the advisor to the Emperor. The Emperor advises me not to talk to you, and so I will not. Good day, fool.","Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, boba."
 "Ahh, traveler, I cannot help you. Perhaps you can find the answer to your quest in another way. Good day.","Ahh, viajera, no puedo ayudarte. Tal vez puedes encontrar la respuesta a tu búsqueda de otra forma. Buenos días."
 "I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.","No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajera. Buenos días."
-Got it. Thanks.,Entiendo. Gracias.
 "Thank you for the vertibird plans, traveler. What can I do for you?","Gracias por los planos del vertibird, viajera. ¿Qué puedo hacer por ti?"
 "Greetings! Welcome to my shop, Flying Dragon 8.","¡Saludos! Bienvenida a mi tienda, El Dragón Volador Ocho."
-I'm looking for some equipment.,Busco algo de equipamiento.
-I'm looking for some information.,Busco cierta información.
 You are an enemy of my people. Die!,Eres una enemiga de mi pueblo. ¡Muere!
-You have business here?,¿Tienes algo que tratar aquí?
 Step slowly away from that. Make a move for your weapons and you're dead.,Aléjate de eso muy despacio. Amaga con alcanzar tus armas y estás muerta.
 "Die, enemy of the people!","¡Muere, enemiga del pueblo!"
-I'm sending you to the hell of burning metal!,Te enviaré al infierno de metal ardiente!
 "Suffer, foe!","¡Sufre, enemiga!"
 Teach you? I don't think so. You look far too self-righteous. Get out of here.,¿Enseñarte? No lo creo. Pareces demasiado mojigata. Lárgate de aquí.
 "Oh, look, the idiot. I don't want to talk to you. Go away.","Oh, mira, la idiota. No quiero hablar contigo. Vete."
@@ -709,15 +640,11 @@ Good. At least you're your own master. Are you tough enough to fight without wea
 I am Smitty. It is your time to be beaten.,Soy Smitty. Es hora de que seas vencida.
 I am Master Krall. You are finished.,Soy el maestro Krall. Estás acabada.
 You're pretty good already. Go learn to shoot or something.,Ya eres lo bastante buena. Ve a aprender a disparar o algo así.
-Let's get it on!,¡Adelante!
 Hope you're proud of yourself.,Espero que estés orgullosa de ti misma.
 Hey! It's the gimp!,¡Hey! ¡Es la coja!
 Wow! A talking asshole!,"¡Anda, mira! ¡Una gilipollas andante!"
-You pull anything being such a jerk?,¿Ganas algo siendo tan gilipollas?
 Wow... a hero AND a spleen-finder.,"Vaya, vaya... una heroína y una buscadora de bazos."
 You son of a bitch - how could you do this to us?,"Oye, hija de puta, ¿cómo pudiste hacernos esto?"
-Tell me about the Hubologists.,Háblame sobre los Hubologistas.
-Tell me about the Shi.,Háblame sobre los Shi.
 "You a lover and not a fighter, eh?","Eres una amante y no una luchadora, ¿eh?"
 Man... will the new leader give us new taxes?,Amiga... ¿el nuevo líder traerá nuevos impuestos?
 Guards! An oppressive! Strike it down!,¡Guardias! ¡Una opresora! ¡Derribadla!
@@ -741,37 +668,23 @@ You are not wanted here. Please leave now.,"No eres bienvenida aquí. Por favor,
 "That, my child, you will have to discover on your own. Ask around and you shall find the truth.","Eso, hija mía, tendrás que descubrirlo tú misma. Pregunta y encontrarás la verdad."
 "Child, I am AHS-9.  I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?","Hija, soy AHS-9. Veo muchas cosas que suceden en el mundo físico. ¿Tienes más preguntas, o puedo volver a mis meditaciones?"
 "I was not aware I had made it a request, child. Kill him!","No era consciente de que hubiera hecho una petición, hija. ¡Matadlo!"
-Bring it on.,Adelante.
 "Child, there are some things you are not meant to know for now. [He smiles benignly.]","Hija, hay algunas cosas que no estás destinado a conocer por ahora [sonríe beatíficamente]."
 "Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?","Tu aura ladina me dice que no has venido aquí con buenas intenciones. Dime, hija: ¿deseas beneficiarte de tu cometido?"
 "Ah, child, how could you stray from the path of truth like this? I see from your aura that you plan to kill me. I am bitterly disappointed. Bitterly. Ah well. Let us proceed.","Ah, hija, ¿cómo has podido desviarte del camino de la verdad de esta manera? Veo en tu aura que planeas matarme. Estoy amargamente decepcionado. Muy amargamente. Ah, en fin. Hagámoslo."
-Duh?,¿Q-qué?
 "Great, an idiot. Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you. Until then, though, I'm busy. Now go.","Genial, una idiota. Mira, amiga, sólo baja esas escaleras y quizá te puedan ajustar tus neurodinas y hacer algo útil de ti. Pero hasta entonces estoy ocupado. Y ahora vete."
 "You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post.  Now, either get downstairs or get out of here.","No eres una de los hermanos, y por tanto no estás autorizada a estar aquí. A menos que estés pensando en unirte a nosotros, lo que puedes hacer expresándole tu interés a AHS-7, que está en el puesto de guardia. Ahora, baja las escaleras o sal de aquí."
 "Not willing to cooperate, eh? Guards! Kill this intruder!","No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad a la intrusa!"
 "I am in need of help, child. Can you help me?","Necesito ayuda, chica. ¿Puedes ayudarme?"
 "I am still in need of help, child. Can you help me?","Sigo necesitando ayuda, chica. ¿Puedes ayudarme?"
-Got it. Bye.,Entiendo. Adiós.
-How do you get this thing to go?,¿Cómo haces para que esta cosa se mueva?
 "The Enclave is remnants of old times. If you take this thing across the water to the rig, you'll find out for yourself.","El Enclave es un remanente de los viejos tiempos. Si te diriges con esta cosa hasta la plataforma, te enterarás por ti misma."
 "Exactly, sir. Heh heh heh.","Exacto, señora. Je je je."
 "Step back, outsider.","Un paso atrás, extranjera."
 You look mean.,Pareces mala.
 Is that a lao wai?,¿Eso es una lao wai?
 Man... Wong sure is a slave driver.,"Amiga... Wong es un negrero, vaya que sí."
-What were you doing down there?,¿Qué estaba haciendo aquí abajo?
 "Oh, you poor dear. Radiation and the wasteland aren't nice, are they? I hope someone can help you.","Oh, pobrecita. La radiación y el Yermo no son una maravilla, ¿eh? Espero que alguien pueda ayudarte."
-Where are you from?,¿De dónde vienes?
-You see a bartender.,Ves a un tabernero.
-"Sure, show me what you've got.","Depende, enséñame lo que tienes."
 Welcome back. Need more booze?,Bienvenida de nuevo. ¿Quieres más licor?
-I'm not open to you. Get out of my shop!,Para ti está cerrado. ¡Lárgate de mi local!
-::hack into computer::,::pirateas la computadora::
-::leave::,::sales::
-Intruder alert activated. Shutting down. Have a nice day.,Activada alerta de intruso. Apagando. Que tenga un buen día.
 "15% chance of designated ""Chosen One"" succeeding in task.","15% de probabilidad de que la designada como ""Elegida"" tenga éxito en su tarea."
-Back,Atrás.
-"""With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years."" -Dr. Wong","""Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años"".  -Dr. Wong"
 "Welcome. I am ACE, the medical computer. Are you in need of medical assistance?","Bienvenida. Soy EAC, la computadora médica. ¿Necesita asistencia médica?"
 Me hurt.,Yo herida.
 Me gimp.,Yo coja.
@@ -780,7 +693,6 @@ I'm hurt.,Estoy herida.
 I'm poisoned. I need an antidote.,Estoy envenenada. Necesito un antídoto.
 I'm crippled.,Estoy tullida.
 I'd like to be more charismatic.,Quiero ser más carismática.
-That's interesting.,Eso es interesante.
 "The Chosen One has come, and he will rid the world of your evil.","La Elegida ha llegado, y ella librará al mundo de tu maldad."
 HA HA HA! You pathetic fool! HA HA HA!,¡JA JA JA! ¡Patética idiota! ¡JA JA JA!
 You are even more foolish than most of your kind to cross me. Now you must die.,Debes ser aún más estúpida que la mayoría de los de tu clase por contradecirme. Ahora debes morir.
@@ -797,9 +709,7 @@ So be it. Zomak! Kill this fool for me. But be careful with the Cheezy Poofs!,Qu
  al reactor. Entonces podrás intentar convencer a esa babosa pretenciosa de Festus para que lo instale, o usar
  el robot de reparaciones para efectuar la instalación, o incluso podrías hacerlo tú misma, por supuesto... mientras
  alguien lo haga, todo irá bien."
-Give it to who?,¿Dárselo a quién?
 "Are you dumb or what? Hah, hah, hah. You look just like a Vault City person.","¿Eres tonta o qué? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio."
-"Uh, I was just looking around. Goodbye.","Eh, sólo estaba echando un vistazo. Adiós."
 Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.,¿Sorprendida? Ya te dije que lo sé todo sobre centrales nucleares. Deberías haberme escuchado.
 "I bet a clever one like you could jist sneak in there and use a
  holodisk with the reactor performance information on the central computer. Then
@@ -824,15 +734,11 @@ Don't just stand there. The reactor's not gonna keep workin' forever.,No te qued
  Eres una tía astuta, no lo niegues, campeona. Ha sido un trabajo casi tan bueno como si lo hubiera hecho yo mismo.
  Por supuesto... si es que llegas a *terminarlo*, cojones, así que usa ese disco en el terminal de control del robot.
  ¿Me has entendido? Bien, pues a ello entonces."
-You see someone whose skin has been very badly burnt.,Ves a alguien cuya piel ha sufrido quemaduras muy graves.
-You see a ghoul citizen of Gecko.,Ves a un ciudadano necrófago de Gecko.
-The person you see is glowing faintly. Its skin seems to be badly burnt.,La persona que ves emana un tenue brillo. Su piel parece haber sufrido graves quemaduras.
 "Hello there, my smoothskined friend.","Hola, mi amiga piel suave."
 Welcome to Gecko.,Bienvenida a Gecko.
 "Hello there, friend.","Hola, amiga."
 "Howdy, friend.","¡Hola, amiga!"
 "Hmmph, another cheating smoothskin.","Hmmph, otra piel suave traicionero."
-Hello there.,Hola.
 "Boy, am I thirsty.","Oh, chica, estoy sediento."
 Too good to drink with us?,¿Te crees demasiado buena como para beber con nosotros?
 "I love you, man.","Te quiero, amiga."
@@ -843,46 +749,18 @@ You look all banged up. Go see Lenny.,Pareces demasiado magullada. Ve a ver a Le
  discreet with it... not everyone there will be happy you talked to us ghouls.","Bien, tengo todos los datos económicos relevantes en un disco. Puedo dártelo, si prometes mostrárselo a alguien en Ciudad Refugio que pueda entender y hacer uso de la información que contiene. Pero sé discreta... no todos por allí van a alegrarse de que trates con necrófagos."
 "You wear the symbol of Renewal. You are one of us. Renew, comrade! Renew!","Llevas el símbolo de la Renovación. Eres una de nosotros. ¡Renovación, camarada! ¡Renovación!"
 "Yes, I am one of us. Reno, uh, Renew!","Sí, soy una de nosotros. Reno, eh, ¡Renovación!"
-"That sounds like really complicated stuff, all right. Too much for a pinhead like myself to
- understand. Goodbye.","Eso parece realmente complicado, demasiado como para que una cabeza de chorlito como yo lo entienda."
-Is there any other way?,¿Existe alguna otra forma?
 "Well, if you could control the maintenance robot, it might be able to install it. Or, you could
  just walk in there and install it yourself.","Bueno, si pudieses manejar el robot de mantenimiento, tal vez podrías usarlo para instalarla. O simplemente podrías meterte ahí dentro e instalarla tú misma."
 Install it myself?,¿Instalarla yo misma?
 "You are somethin'. Just like the original. What can old Harold do for ya, Vault Dweller? ","Tienes algo... como el original. ¿Qué puede hacer el viejo Harold por ti, Moradora del Refugio? "
-"Ahh, right....So you say the place is falling apart?","Ahh, ya... ¿entonces dices que el lugar se está derrumbando?"
-"Yea, it looked just like that. Come to think of it, it had a 13 on it too. ","Sí, justo así. Ahora que lo pienso, también tenía un número 13 en él."
-I can tell you what happened.,Puedo decirte lo que sucedió.
-"Thanks for telling. I sure was curious all these years. You sure got your work cut out for ya. Huh, ya know....","Gracias por contármelo. Ciertamente he sentido curiosidad todos estos años. Desde luego tienes una dura tarea por delante. Eh, ya sabes..."
-We need a Hydroelectric Magnetosphere Regulator and it needs to be installed soon or we have got some real problems. ,"Necesitamos un regulador hidroeléctrico magnetosférico y que se instale pronto, o vamos a tener problemas de verdad."
-That really hurts.,Eso duele de verdad.
-This is good.,Eso es bueno.
-I have a good feeling about this.,Tengo un buen presentimiento.
-I have a bad feeling about this.,Tengo un mal presentimiento sobre esto.
-These people are crazy.,Esa gente está loca.
-Is everyone else crazy here?,¿Todo el mundo está loco por aquí?
-There must be another way.,Debe haber otra manera.
-Try this.,Prueba esto.
-You need to fix this.,Necesitas reparar esto.
-You need to turn this on.,Necesitas encender esto.
-You need to unlock this.,Necesitas desbloquear esto.
-You need to open this.,Necesitas abrir esto.
-Maybe we should come back here.,Tal vez deberíamos volver aquí.
-I need you to wait here.,Necesito que esperes aquí.
-I want you to change your distance.,Quiero que cambies la distancia a la que estás de mí.
-OK. Never mind.,Está bien. Olvídalo.
 I'm not going to help a childkiller. Goodbye.,No voy a ayudar a una asesina de niños. Adiós.
 I don't want anything to do with a slaver. Goodbye.,No quiero tener nada que ver con una esclavista. Adiós.
 Me hungry.,Yo hambrienta.
-"Interesting. Let me ask you something else, though.","Interesante. De todas formas, déjame preguntarte algo más."
-"Uh, yeah. Whatever. Goodbye.","Eh, sí, como sea. Adiós."
 "Uh, I meant I was the one *chosen* to fix the comm-unit. Seems like nothing works anymore.","Eh, me refiero a que he sido ""elegida"" para reparar el comunicador. Parece que ya nada funciona como es debido."
 You shore you don't want to help ole Percy out with his problem? I shore could use the help.,¿Segurísima que no quieres ayudar al viejo Percy con su problema? Porque vaya que si me vendría bien.
 "This big ole chest of antee-radee-ation medicine shore ain't doin' me no good. Jist about a hunnert-sumpin' years too
  late fer me ta use it. Heh, heh, heee. Here ya go, I'm findin' that friends is worth more'n more every year. Thanks...friend.","Ese pedazo de cofre con medicina contra-irra-diación vaya que si no me sirve de nada. Pues vaya que si no ha pasado un manojo de años
  como para que me hagan algo. Je, je, jeee. Aquí tienes, porque vaya si sé que los amigos son más valiosos a cada año que pasa y pasa. Gracias... amiga."
-You see someone whose skin has been very badly burnt. It seem to be standing guard here.,Ves a alguien con la piel muy quemada. Parece estar de guardia aquí.
-You see a ghoul acting as a guard.,Ves a un necrófago haciendo guardia.
 "Hello, friend. I have to let you know that if anything goes wrong, any non-ghouls -- like you --
  are going to be blamed.","Hola, amiga. Tengo que hacerte saber que si algo va mal, cualquier no-necrófago -como tú-
  será considerado el culpable."
@@ -890,137 +768,38 @@ You see a ghoul acting as a guard.,Ves a un necrófago haciendo guardia.
 Another escapee from the Ministry of Silly Walks.,Otra fugada del Ministerio de los Andares Tontos.
 Kinda surprised to see a smoothskin like you here.,Me sorprende bastante ver a una piel suave como tú por aquí.
 "Are you just pretending to be dumb, or are you really that stupid?","¿Pretendes hacerte el idiota, o es que realmente eres estúpida?"
-Have you heard of something called a Garden of Eden Creation Kit?,¿Has oído hablar de algo llamado Kit de Creación del Jardín del Edén?
-What do ya want me to look at?,¿Qué quieres que compruebe?
-"Well, I guess that makes sense. I better go look for another part, then. Goodbye.","Bueno, creo que eso tiene sentido. Entonces sera mejor que busque otra pieza. Adiós."
-Put the speed loader on the magnum.,Ponle el cargador rápido a la mágnum.
-"Hmm, let me ask you about something else.","Mmm, déjame preguntarte otra cosa."
-Too rich for my blood. I'll be back when I have more cash.,Demasiado caro para mí. Volveré cuando tenga más dinero.
-All right then...put a scope on the Colt hunting rifle.,"Vale, entonces... pon una mira telescópica en el rifle de caza Colt."
-Expand the magazine of the AK-112 assault rifle.,Amplía el cargador del rifle de asalto AK-112.
-Attach that low-light scope on the FN FAL.,Pon esa mira telescópica de visión nocturna a la FN FAL.
-Have you ever heard of something called a Garden of Eden Creation Kit?,¿Alguna vez has oído algo de un Kit de Creación del Jardín del Edén?
-What do you want now?,¿Ahora qué quieres?
-Gulp?,Que sea cerveza.
 "FUCK YOU!!! Now get out of my bar. Chosen one. Sheesh, what a loser.","¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegida. Por Cristo, menuda perdedora."
 "I am demonstrating my free will by telling you to GET OUT! Damn smoothskin bigot. Go back to
  Vault City, where you belong.","Te estoy demostrando mi voluntad propia: ¡FUERA! Maldita piel suave intolerante. Vuelve a
  Ciudad Refugio, donde perteneces."
-"I prefer medium-rare myself. Hey, let me ask you something else.","Prefiero quedarme ""poco hecha"". Oye, déjame preguntarte algo más."
-I suck at all games.,¡Pierdo en todos los juegos!
 "Hello, friend. The Brain knows all.","Hola, amiga. El Cerebro lo sabe todo."
 "You seek word of Renewal, friend?","¿Buscas la palabra de la Renovación, amiga?"
 "Hello, friend. Do you seek Renewal with us?","Hola, amiga. ¿Buscas la Renovación con nosotros?"
 "Hail, friend. Renewal is at hand for the chosen.","Saludos, amiga. La Renovación está disponible para los elegidos."
 To be a friend of the Brain is a wondrous thing.,Ser amiga del Cerebro es una cosa maravillosa.
-Ook?,¿Ook?
 I am the Chosen One.,Soy la Elegida.
-Well you should choose to leave. Get out of here.,Puedes deberías elegir seguir viva. Lárgate de aquí.
 Ook? What do you mean by that? Are you dumb?,¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonta?
 I guess I got confused. Must be all this radiation. Goodbye.,Supongo que estoy confusa. Debe de ser toda esta radiación. Adiós.
-You sure did. Now let me in.,"Desde luego. ahora, déjame entrar."
-"OK, then. You can go right in.",Está bien. Puedes entrar.
-"Well, you should choose to leave. Get out of here.",Puedes deberías elegir seguir viva. Lárgate de aquí.
-Woof! Woof!,¡Guau! ¡Guau!
 "Get away from there, punk!","¡Aléjate de ahí, gamberra!"
-I need to talk to you about your gear.,Necesito hablar contigo sobre tu equipamiento.
-More,Más.
-Get out of here.,Fuera de aquí.
-Whaddya want?,¿Qué coño quieres?
-Ever hear of a GECK?,¿Has oído algo acerca de un GECK?
-"If this machine is run on uranium slugs, you have more than enough power to fill this place AND New Reno and not even notice the drain. Now cough it up.","Si esta máquina funciona con barras de uranio, tenéis suficiente energía como para suplir este lugar Y Nuevo Reno sin que se resienta el suministro. Ahora, súbelo."
-Drink it.,Beberlo.
-Put it in my inventory.,Ponerlo en mi inventario.
-Save it for later.,Guardarlo para más tarde.
-::he rubs sleep from his eyes:: Wha'... huh? Where am I? How long have I been asleep?,::Se frota los ojos:: Â¿QuÃ©... eh? Â¿DÃ³nde estoy? Â¿CuÃ¡nto tiempo he dormido?
-Urr?,Â¿Urr?
-"I have no idea how long you've been asleep, but you're in Broken Hills, near the New California Republic.","No tengo idea de cuÃ¡nto tiempo llevabas durmiendo, pero estÃ¡s en Broken Hills, cerca de la RepÃºblica de Nueva California."
-Oh no! I've slept so long the world has turned stupid! Aieeeeeeee! ::he flees in panic::,"Â¡Oh, no! Â¡He dormido tanto tiempo que el mundo se ha vuelto estÃºpido! Aieeeeeeee! ::huye, asustado::"
-New WHAT? CALIFORNIA? THE WORLD HAS CHANGED THAT MUCH? AIEEEEEEEEEEEEEEEEE! ::he flees in panic::,"Â¿Nueva QUÃ‰? CALIFORNIA? Â¿EL MUNDO A CAMBIADO TANTO? Â¡AIEEEEEEEEEEEEEEEEE! ::huye, asustado::"
-"Yes, it does, doesn't it? I have to go see what's happened in the world. Good luck, friend!","SÃ­, asÃ­ es, Â¿no es asÃ­? Debo ir a ver quÃ© le ha pasado al mundo. Â¡Buena suerte, amiga!"
-"You too, Mr. Stodgers!","Â¡Para ti tambiÃ©n, seÃ±or Stodgers!"
-What's in it for me?,¿Qué hay para mi?
-Please. Please. My wife... she's everything to me. Please.,Por favor. Por favor. Mi mujer... lo es todo para mi. Por favor.
-"Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.	","Aquí tienes el dinero. Ahora por favor, por favor, POR FAVOR... encuentra a mi mujer y dime donde está. Quizá se haya ido a vivir con otro, quizás me haya dejado... pero necesito saberlo."
-"Yeah, you go cry, you pansy loser.","Sí, ve a llorar, nenaza perdedor."
-Ouchie!,¡Pupita!
-Vic.,A Vic.
-Myron.,A Myron.
-Marcus.,A Marcus.
-Lenny.,A Lenny.
-Davin.,A Davin.
-Miria.,A Miria.
-Tell me about Broken Hills.,Háblame sobre Broken Hills.
-You have successfully performed the jailbreak.,Has llevado a cabo con éxito la fuga de la cárcel.
-What can you tell me about Broken Hills?,¿Qué puedes contarme sobre Broken Hills?
-Got it. See ya.,Comprendo. Nos vemos.
-Well done on the jail work! ,Bien hecho con el trabajo en la prisión! 
-Will do.,Lo haré.
-"Oops? Did you say 'Oops?' You didn't have nothin' to do with this, did you?","¿Ups? ¿Has dicho 'Ups?' No tienes nada que ver con esto, ¿verdad?"
-"Yeah, well... their day is comin'.","Sí, bueno... llega su hora."
-What can you tell me about this town?,¿Qué puedes contarme sobre esta ciudad?
--done - ,-hecho - 
-Hey! Get away from there!,¡Oye! ¡Lárgate de ahí!
-Hey! Who the hell is out there?,¡Hey! ¿Quién demonios está ahí fuera?
+"Yes, it does, doesn't it? I have to go see what's happened in the world. Good luck, friend!","Sí, así es, ¿no es así? Debo ir a ver qué le ha pasado al mundo. ¡Buena suerte, amiga!"
 "You're goddamn right, yes! I can barely move! Now mind you, I ain't whining. I've had worse scrapes.
  Why this ain't nothing compared to that mix-up years ago with the Cola truck down south a ways. Ya' shoulda
  seen it, kid! Caps everywhere!","¡Por supuesto que sí, cojones! ¡Apenas me puedo mover! Y óyeme, no es por lloriquear. He tenido heridas peores.
  Porque esto no es nada comparado con un embrollo con un camión de Cola hace varios años allá por el sur. ¡Deberías
  haberlo visto, chica! ¡Chapas por todas partes!"
-"What would you know, you jerk? Get the hell out of here before you get hurt!","¿Qué sabes tú, capullo? ¡Lárgate a hacer puñetas de aquí antes de te hagan daño!"
-Nothing. Just looking around.,Nada. Sólo echaba un vistazo.
-You got anything else?,¿Tienes alguna otra cosa?
-Right.,Cierto.
-"While Jacob was alive, I thought the Master was wrong. But it seems that while some men can heed the call and rise above it all, most just run away.","Mientras Jacob estaba vivo, pensaba que el Maestro estaba equivocado. Pero parece que que mientras algunos hombres pueden escuchar la llamada y elevarse, la mayoría simplemente huyen."
-OK,De acuerdo.
-"Forget I asked then, asshole.","Entonces olvida que he preguntado, capullo."
-Take some more stims and heal yourself.,Usa algunos estimulantes más y cúrate.
-Let's head out then.,Continuemos entonces.
-When's bedtime?,¿Cuando es la hora de ir a dormir?
-I need to buy stuff.,Necesito comprar alguna cosa.
-Guess your caravan master Chad is in deep shit now.,Supongo que tu organizador de caravanas Chad está de mierda hasta el cuello ahora mismo.
-Okay!,¡Vale!
-I have some more questions.,Tengo algunas preguntas más.
-"Nothing, sorry. Bye!","Nada, lo siento. ¡Adiós!"
-I want more to drink.,Quiero beber algo más.
-- more - ,- más - 
-"Well, ","Bien, "
-You again?,¿Tú otra vez?
-You see a weird mutant thing with splotchy skin and a ghastly smile.,Ves a un raro mutante con piel manchada y una sonrisa cadavérica.
-Dunno.,No se.
-I have some ore to be refined.,Tengo algo de mineral que necesita refinarse.
-I want some ore refined.,Quiero algo de mineral refinado.
-Nuh uh.,No-no.
 "Indeed. Good luck, wanderer. And good bye.","Exacto. Buena suerte, viajera. Y adiós."
 "We sell what we dig to other towns around here. They find it useful. If you want to sell
  something, you can talk to many of the merchants here. Anyway, I have to get back to work. You be good
  and careful here, okay?","Vendemos lo que extraemos a otras ciudades de por aquí. Ellos lo encuentran útil. Si quieres vender algo, puedes hablar con la mayoría de los mercaderes de por aquí. De cualquier forma, debo volver al trabajo. Sé buena y cuídate, ¿vale?"
 "I have to get back to work. You be good and careful here, okay?","Debo volver al trabajo. Sé buena y cuídate, ¿vale?"
 Welcome back.,Bienvenida de nuevo.
-Not necessarily. Who knows what the virus that mutated him has done to his mind?,No necesariamente. ¿Quién sabe qué hizo el virus que los mutó a sus mentes?
 Bummer!,¡Alborotadora!
-"(talking to those around you) Did ye hear that? I got myself a live one here. Wants to hear bout the fairies and wee goblins and such. (Hooo, haah, haah-he doubles over in laughter) Here lad, have a drink on me, that's your ticket to the realms of the fay folk.","(dirigiéndose a los demás) ¿Le habéis oído? Que tipo. Quiere oír hablar de las hadas y los gnomos y eso. (Jajaja, jaja, jajaje - se dobla de risa-) Mira colega, invítame a una jarra. Es tu billete al mundo de las hadas."
-"(talking to those around you) Did ye hear that? I got myself a live one here. Wants to hear bout the fairies and wee goblins and such. (Hooo, haah, haah-he doubles over in laughter) Here lass, have a drink on me, that's your ticket to the realms of the fay folk.","(dirigiéndose a los demás) ¿La habéis oído? Que mujer. Quiere oír hablar de las hadas y los gnomos y eso. (Jajaja, jaja, jajaje - se dobla de risa-) Mira cariño, invítame a una jarra. Es tu billete al mundo de las hadas."
-"(He looks you over.) Mebbe' so. Mebbe' so. Well then, suit yourself.","(Te mira). Puede ser. Puede ser. Apáñatelas sólo, ¿vale?"
-I will. Goodbye.,Lo haré. Adiós.
-It was me very own pleasure. You take care o' yourself now. And if anyone asks...you just tell 'em that Fightin' John Sullivan taught you how to fight that way.,Ha sido un placer. Cuidate mucho. Y si alguien te pregunta... diles que fue John Sullivan quien te enseñó a pelear así.
-"No, no, no. I could nay take money from ye. It was my very own pleasure to teach what I know. You take darn good care of yourself now. You've got real potential.","No, no, no. No hace falta que me des dinero. Ha sido un placer enseñarte lo que sé. Ahora cuidate mucho. Tienes un gran potencial."
-Nuh-uh.,Oh no.
-Bad! Caps!,¡Malo! ¡Tapones!
-Tell me about it.,Háblame de ello.
-Can I play with your power armor someday?,¿Puedo jugar con tu armadura de energía algún día?
-"Pal, I already gave you some money. Go bother someone else, eh?","Colega, ya de di algo de dinero. Ve a molestar a otro, eh?"
-. How's that sound?, dólares. ¿Cómo suena?
-You've already routed more power to Eric's home.,Ya es desviado más energía a casa de Eric.
-Uh... never mind! [snicker]... Check it out.,Eh... no importa! [lanza una risita]... Compruébalo.
 "We got us an intruder, boys!","¡Tenemos una intrusa, chicos!"
 "Scramble, boys, we got an intruder!","¡Dispersaos, chicos, tenemos una intrusa!"
 "Well, look at the swagger on this bitch...","Vaya, mira la soberbia de esta puta..."
-Wander off,Te alejas.
 The Chosen One. Oh mighty ,"La Elegida. Oh, gran "
 ", you must be very important and powerful among your people. Surely one of your great (hic)
  stature would be happy to follow our custom of tipping the town greeter. (urp)",", debes ser muy importante y poderosa entre los tuyos. Seguro que alguien de tan alta (hic) posición estaría encantada de mantener la costumbre de dar propina al guía del pueblo (urp)."
-"No thanks, I think I can figure things out here on my own.","No gracias, creo que podré arreglármelas yo sólo."
 "Ask away, oh benefactor of mine.","Pregunta, oh, benefactora mía."
 "Hey there, friend, good to see you again. Can you spare some money for a bit of medicine? My
  throat is getting dryer and scratchier (hic) all the time. I could even throw in another official
@@ -1033,17 +812,12 @@ You're wonderful.,Eres maravillosa.
 "Welcome, friend.","Bienvenida, amiga."
 "Thanks, friend.","Gracias, amiga."
 "Much obliged, friend.","Te lo agradezco, amiga."
-Alright!,¡Genial!
-Yeah!,¡Sí!
 "Hello there, feller. Back to see Whiskey Bob again, huh? Ready to talk about drinks and
  business and suchlike?","Hola, compañera. De vuelta a ver otra vez a Whisky Bob, ¿eh? ¿Lista para hablar de bebida, negocios y otros asuntos?"
-Let me ask you about something else.,Hablemos de otra cosa.
 "You had your chance, pal.","Has tenido tu oportunidad, amiga."
 "Back again, huh? Well, what can we help you with, business partner?","Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socia?"
-"Yes, I do.",Sí.
 "Hey there, partner. Still counting on you for tonight. What can I do for you?","Saludos, socia. Contamos contigo esta noche. ¿Qué puedo hacer por ti?"
 "You look too wimpy. I only arm-wrestle real men. Take off, you hoser.","Tienes pinta de ser demasiado floja. Sólo echo pulsos con quien lo merece. Lárgate, perdedora."
-I forgot; would you go over the plan again for me? Please.,Lo olvidé; ¿querrías volver a contarme el plan?
  Chosen one!, ¡Elegida!
 "Chosen one, huh? Chosen most likely to be punched in the mouth. Did your momma drop you on the
  head, or did you just come out that dumb and ugly? Get the hell away from me.","Elegida, ¿eh? Elegida va a ser zurrado en el morro. ¿Tú madre te dejó caer de cabeza, o saliste así de idiota y fea? Aléjate de mí."
@@ -1051,22 +825,14 @@ I forgot; would you go over the plan again for me? Please.,Lo olvidé; ¿querrí
 "Talk to the Duntons or the barman for work, pal.","Habla con los Dunton o con el camarero si buscas trabajo, amiga."
 "You chose the right place to drink, friend.","Has escogido el sitio perfecto para venir a beber, amiga."
 "(mumble, mumble) ...goody two shoes type here... (mumble)",(Murmurando) ...una buenaza por aquí...
-Humph. (spits on the floor),Humph. (Escupe en el suelo)
-You see a bar patron.,Ves a un parroquiano.
-You see one of Klamath's Children.,Ves a uno de los niños de Klamath.
 Daddy says you're a bad person.,Papi dice que eres mala.
-Aieeee! Run away!,¡Aaayy! ¡Corred!
-You stink!,¡Apestas!
 My mom says you're primitive.,Mi mamá dice que eres una salvaje.
 I'll bet you're nicer than you look.,Seguro que eres más maja de lo que pareces.
 You're nice.,Eres maja.
-Are you from far away?,¿Vienes de muy lejos?
 Are you married?,¿Estás casada?
-You see one of Klamath's citizens.,Ves a uno de los habitantes de Klamath.
 "Nice tribal, good tribal, don't hurt me.","Tribal bonita, tribal buena, no me hagas daño."
 "Great, another tribal.","Genial, otra salvaje."
 "Hello there, stranger.","Hola, forastera."
-Watch out for the rats in Trapper Town.,Ten cuidado con las ratas en el Barrio de los Tramperos.
 "What's up, friend?","¿Qué pasa, amiga?"
 You're the most civilized tribal I've ever met.,Eres la tribal más civilizada que he conocido nunca.
 "Hello, traveller.","Hola, viajera."
@@ -1076,41 +842,26 @@ That was nice. You seem like you know your way around a woman better than most m
 "Hello there, my good friend.","Hola, mi buena amiga."
 "Well, you just better be more civil from now on. Just what do you want anyway? What can I help
  you with here?","Bueno, será mejor que seas más civilizada a partir de ahora. ¿Qué es lo que quieres? ¿Puedo ayudarte?"
-Thanks for your help. Goodbye.,Gracias por la ayuda. Adiós.
 "Hey there, friend. A little bird told me that you know where old Whiskey Bob has his still. I
  sure would like to know where that is.","Hola, amiga. Un pajarito me ha dicho que sabes dónde tiene Whisky Bob su alambique. Me gustaría que me lo contaras."
 "Well, for an attractive individual like yourself that would only cost $25.","Bien, por una individua tan atractiva como tú tan sólo serán 25 dólares."
-"You see Slim Picket, the head of Trapper Town.","Ves a Picket 'el flaco', el jefe del barrio de los Tramperos."
-"Uh, ok.","Oh, vale."
-. Why do you call this Trapper Town?,. ¿Por qué le llamáis a este sitio barrio de los Tramperos?
 "That big ol' rat that was bothering everyone hereabouts seems to have disappeared. But
  I don't reckon that an idjit like you had anything to do with it.",Esa rata enorme que estaba molestando a todo el mundo en los alrededores parece haber desaparecido. Pero no creo que una boba como tú haya tenido algo que ver con ello.
-I think I need a key to get into the north part of Trapper Town.,Creo que necesito una llave para llegar a la parte norte del barrio de los Tramperos.
-What did you want to know about?,¿Qué es lo que quieres saber?
-You want the key to the north side of Trapper Town? What do you want that for?,¿Quieres la llave a la parte norte del barrio de los Tramperos? ¿Y para qué la quieres?
 You drive a hard bargain. I hope it was worth it.,Eres dura en los negocios. Espero que valiera la pena.
-Interesting. Tell me something else.,Interesante. Cuéntame otra cosa.
-"Interesting. Maybe someone should do something about that. Say, do you have a key to
- the north side of Trapper Town?","Interesante. Quizás alguien debería hacer algo al respecto. Dime, ¿tienes una llave a la parte norte del barrio de los Tramperos?"
 "Hello there, friend. Thanks again for getting me out of that tight spot. Anything I can help you
  with?","Hola, amiga. Gracias de nuevo por sacarme de ese atolladero. ¿Puedo serte de ayuda con algo?"
 "Anything else, friend?","¿Algo más, amiga?"
-"Let me ask you something else, then.","Entonces, déjame hacerte otra pregunta."
 "Hey, fren. Our name be Sulik. What you be needin'.","Eh, miga. Nuestro nombre es Sulik. ¿Qué es lo que quieres?"
-Uh-huh!,¡Uh-huh!
 "Ah, shit, fren. Slavers took our sister. We went drinking, then went breaking. Now paying off Maida. When
  that done, we go find sis.","Ah, mierda, miga. Esclavistas se llevaron a hermana. Vinimos bebiendo, después rompiendo. Ahora pagando a Maida. Cuando eso hecho, nosotros buscar hermana."
 "The spirits with me, fren! They be all around. Sometimes talk.","Los espíritus están conmigo, ¡miga! Ellos rodearme. A veces hablar."
 "That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.","Eso divertido, miga. Al menos, eso piensa Abuelo Hueso. Dice que tienes ingenio. Dice que vas a necesitarlo."
-I guess that's all I need to know for now. Goodbye.,Supongo que eso es todo por ahora. Adiós.
-"Who's ""we?""",¿Quiénes son 'nosotros'?
 "We and I are the spirit of wrath, fren.","Nosotros y yo somos el espíritu de la ira, miga."
 "You got it, fren.","Acertaste, miga."
 "We be like a turtle, fren.","Nosotros somos como una tortuga, miga."
 "This one bad trip, fren.","Este es un mal viaje, miga."
 "Evil spirit is possessing us, fren. Chunks of hair be falling out!","Malvado espíritu nos posee, miga. ¡Mechones de pelo caerse!"
-I think that's all I need to know for now. Goodbye.,Creo que eso era todo lo que quería saber por ahora. Adiós.
 "Good luck to you, fren. We be thinking you be needing it.","Buena suerte, miga. Nosotros pensamos que la necesitarás."
 "Hey, fren, just tell us to get out of your way.","Eh, miga, tan sólo dinos que nos apartemos de tu camino."
 "Sorry, fren.","Lo siento, miga."
@@ -1122,10 +873,8 @@ I think that's all I need to know for now. Goodbye.,Creo que eso era todo lo que
 "The tribe's home is next to Great Salt Water. Two moons from here, fren.","El hogar de la tribu está junto al Gran Mar Salado. A dos lunas de aquí, miga."
 "Fren, with all the spirits walking with me, not afraid to travel anywhere.","Miga, con todos los espíritus andando conmigo, no tenemos miedo de viajar a ningún lado."
 Seek a reflection of yourself. The pathway will open before you.,Busca un reflejo de ti misma. La senda se abrirá ante ti.
-I need you to get out of my way.,Quiero que te quites de mi camino.
 "The evil warriors tied up the rest and took off. Sis with 'em. Fren, we be finding her or
  dying trying.","Los guerreros malvados atar al resto y llevárselos. Hermana con ellos. Miga, tenemos que encontrarla o morir en el intento."
-You have your army. Don't need we and I for help now.,Tú tener un ejercito. No necesitar a nosotros y yo por ahora.
 No way we be frens with Child Killer.,Nosotros no ser amigo de mata-niños.
 "Uh, interesting story but I don't think I can help Torr. I'm pretty busy. Goodbye.","Uh, interesante historia pero no creo que pueda ayudar a Torr. Estoy bastante ocupada. Adiós."
 "Fren, you ever wonder if there's more bad people than bullets?","Miga, ¿alguna vez te has preguntado si hay más gente mala que balas?"
@@ -1133,59 +882,30 @@ We thinkin' you need time to smell de flowers. Grampy-Bone say you're too pushy 
 "Being home is cool, but the place is looking a might small now. We've missed the road
  and the company of so fine a fren as you. Wan us to walk by-and-by again.","Estar en casa es bueno, pero el lugar parece un poco pequeño ahora. Nosotros echamos de menos la carretera y la compañía de una buena miga como tú. Nosotros queremos andar de aquí pa allá otra vez."
 "Maybe so. We and I miss you, though. Good spirits be with you, fren.","Quizás. Nosotros y yo echamos de menos a ti. Buenos espíritus contigo, miga."
-"No, I don't.",No.
 You be no fren of mine. Grampy Bone say no talk to you.,Tu no miga de mí. Abuelo Hueso dice yo no hablo contigo.
 You bad. You hurt Torr. Go away now!,Mala. Hace pupa Torr. ¡Vete!
 Go bad person! No hurt Torr.,¡Eres mala! No pupa Torr.
 "Nice to meet you, Torr. Anything interesting happening here lately?","Encantada de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?"
 "Yessir, there are old tunnels underneath Klamath. You better believe it.","Si señora, hay viejos túneles debajo de Klamath. Créetelo."
-You see a trapper who makes his home in Trapper Town.,Ves a un trampero que vive en el Barrio de los Tramperos.
-You have entered Trapper Town.,Has llegado al barrio de los Tramperos.
 "You see a piece of wood with scraps of paper tacked to it. All but one of the papers have those
  pesky little bug-like marks on them. Whew! Boy, are you tired. Maybe you should find something less
  taxing to do.","Ves un pedazo de madera con trozos de papel clavados en él. Todos salvo uno de ellos están llenos de esas malditas rayas. ¡Whew! Chica, que dolor de cabeza. Será mejor que busques algo menos difícil de entender."
-GECK?,¿GECK?
-I love my work.,Me encanta mi trabajo.
 "Move it, mister; I've got brahmin to kill.","Muévase, señora; tengo brahmines que matar."
-Shucks! No more brahmin to kill! Maybe I should go see Miria.,¡Caramba! ¡No hay más brahmines que matar! Quizás debería ir a ver a Miria.
 Stranger!,¡Una extraña!
-Cornelius.,Ves a Cornelius.
 I always knew you were a thief!,¡Siempre supe que eras una ladrona!
 "[Half an hour later, you lie there exhausted.]","[Media hora después, yaces exhausta...]"
-Uhh...,Ehh...
 "Oh boy, I get to be the one that's in charge here.","Oh chica, voy a ser el jefe de todo esto."
-I'm completely healed and ready to go.,Estoy completamente curado y listo para marchar.
-I healed myself as much as I could but I'm still pretty badly hurt.,Me he curado todo lo que he podido pero sigo bastante malherido.
-"Sure thing, I'll put it away.",Claro. La guardaré.
-Farrel.,Ves a Farrel.
-"Hey, get away from there!","¡Eh, aléjate de ahí!"
-What do you do around here?,¿Qué es lo que haces por aquí?
 "Fantastic! And here is your reward. [He digs in his pants and produces a half eaten cookie.] Now
  be a good little caveman and take your cookie outside and play.",¡Fantástico! Y aquí está tu premio. [Busca en el bolsillo de su pantalón y te da una galleta mordisqueada]. Ahora sé una buena cavernícola y vete a jugar afuera con tu galletita.
 "You're not going anywhere, missy!",Esto me pasa por mandar a una neanderthal. ¡Ve!
- a widow.," se quede viuda, ¿no?"
- a widower.," se quede viudo, ¿no?"
-What do I get out of this?,¿Y qué conseguiré yo de esto?
-What can you tell me about the slaughterhouse?,¿Qué puedes contarme del matadero?
-"Well, that could be a little difficult. You see I really don't know what a GECK is. But, I do know
- of a place called Gecko, I've never been there myself but I hear it's somewhere east of here. I feel
- really bad about deceiving you. I wish I could give you more in the way of compensation than this,
- but the best I can offer you is a discount on goods. I'm not too stocked up right now, but I'm
- sure things will pick up around here soon and I'd be honored to help stock you up.","Vaya, eso podría ser un poco difícil. Mira, realmente no sé qué es un GECK. Pero sé de un lugar llamado Gecko. Nunca he estado allí pero he oído que está al este de aquí. Me siento muy mal por haberte engañado. Ojalá pudiera darte algo más que esto en compensación, pero lo más que puedo ofrecerte es un descuento en mis productos. Ahora mismo no tengo mucho stock, pero estoy seguro de que iremos recolectando cosas por aquí y pronto estaré encantado de ayudarte a suministrarte."
-"No wait! Let me try and find out what happened to Karl. There must be an explanation for his
- disappearance.","¡No, espera! Déjame que intenta averiguar qué le pasó a Karl. Debe haber alguna explicación para su desaparición."
 [He points to you and starts screaming.] Stranger! Stranger! Stranger!,[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!
-My dad said Laddie went with you to look for me. Where is he? I miss him.,Mi papá dijo que Laddie fue contigo para buscarme. ¿Dónde está? Lo echo de menos.
 "Thanks for saving me, mister.","Gracias por salvarme, señora."
 "You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink
  the liquid refreshment, at which point he then passes out]","De verdad que (hic) eres mi mejor amiga en el maldito (hic) mundo entero. [Karl empieza a beber el líquido de la botella, hasta que cae inconsciente]."
 "What'll we do now, baby?","¿Qué hacemos ahora, querida?"
-"I'll try harder, butter cakes. It's just hard to get ""us"" time out here in this wasteland.","Lo intentaré, mi pastelito. Es que es tan difícil tener tiempo para ""nosotras"" en este Yermo."
-We need to talk about the distance between us.,Tenemos que hablar sobre la distancia entre nosotras.
 "You're the one that helped us, aren't you? You're a hero!","Tú eres la que nos ha ayudado, ¿no? ¡Eres una heroína!"
 "You're dumber than dirt, aren't you! If you want to see Vegeir, you can just go find him yourself.","Tú eres más tonta que una piedra, ¿no? Si quieres ver a Vegeir, búscalo tú misma."
 Thief! Thief! Thief!,¡Ladrona! ¡Ladrona! ¡Ladrona!
-[You smack your lips with a loud POP],[Juntas tus labios con un sonoro ‘POP’]
 [You feel sick.],[Te sientes enferma].
 [You feel revitalized after such a big meal.],[Te sientes revitalizada después de semejante comilona].
 "Really!? You must be really thirsty. I raised the price to discourage customers from ordering it.
@@ -1195,7 +915,6 @@ Thief! Thief! Thief!,¡Ladrona! ¡Ladrona! ¡Ladrona!
  more dirt than water in the glass. However, you are so thirsty that you drink it anyway.] I brought
  a cookie for you to enjoy with that, sweetie.","[Vuelve rápidamente con un vaso con una sustancia liquida de color marrón. Parece que haya más tierra que agua en el vaso. Sin embargo, estás tan sedienta que de todos modos te lo bebes]. Te he traído una galletita para que te la comas con eso, cariñito."
 "Boy, I sure am sleepy. If only someone wouldn't keep talking to me.","Chica, de verdad que tengo sueño. Si tan sólo dejaras de hablar..."
-Get out!,¡Lárgate!
 Thank you for helping us. You will always be welcome here.,Gracias por ayudarnos. Siempre serás bienvenida aquí.
 "I am sorry to hear that. Please consider yourself a guest of the Slags. When we finally
  establish contact with the surfacers, you will be allowed to leave. Until then, do not try to
@@ -1203,32 +922,19 @@ Thank you for helping us. You will always be welcome here.,Gracias por ayudarnos
 "You have proven your trustworthiness without doubt. Despite the fact that we'll miss little Jonny
  down here, we have arranged an escort for you and Jonny to go back to Modoc right now.","Has probado que eres digna de confianza, sin duda alguna. A pesar del hecho de que vamos a echar de menos al pequeño Jonny, he dispuesto una escolta para ti y Jonny para que volváis a Modoc ahora mismo."
 "Heeeey! Hero! You all right, you all right.","¡Heeeey! ¡Heroína! Lo hiciste bien, muy bien."
-"(You hand over the cash. Monte nods, shows you the cards, then slaps them down on the ground and shuffles them for a few seconds.)","(Entregas el dinero. Monte hace un gesto afirmativo, te muestra las cartas, luego las pone en el suelo boca abajo y las barajas uno segundos.)"
 You deaf? That amount ain't even enough to interest me.,¿Estás sorda? Ni siquiera esa cantidad me interesa.
 "Well, it ain't THAT dear to me. It's yours, pal. (He glances to the right and left, then reaches down and pulls off his
  boot. He twists off the heel and pulls out a playing card from inside.) Here ya go. Take care of it.","Vaya, ya no la aprecio TANTO. Es tuya, damita. (Mira a derecha e izquierda, se agacha y se quita la
  bota. Desenrosca el talón y saca la carta de su interior). Aquí tienes. Cuídala."
 "You deaf? I SAID 200 chips, n' I meant it.","¿Estás sorda? HE DICHO 200 fichas, y lo decía en serio."
-"How's it hanging, ","Cómo lo llevas, "
-She's as talented as a rock and twice as ugly.,Tiene tanto talento como una piedra y es dos veces más fea.
-Now THERE'S some trouble I want to get into.,AHÍ VA un problema en el que me gustaría meterme.
-Looking for me?,¿Me buscabas?
-I got an opening you can fill.,Tengo un hueco que podrías llenar.
 Great. Another tribal shit-kicker.,Genial. Otra tribal comemierda.
 Are you one of the janitors?,¿Eres una de las empleadas de la limpieza?
-Wanna help me rehearse my lines?,¿Quieres ayudarme a repasar mis frases?
-Could you set me up with a little Jet?,¿Me podrías pasar un poco de Jet?
 My boyfriends don't know I work here. Not that I care what they think.,Mis novios no saben que trabajo aquí. No es que me importe lo que piensen.
-You're more eruptive than a volcano on a bad day.,Eres más fogoso que un volcán en un día malo.
-"Getting out of boxing and into porn? Same thing, different stage.","¿Te pasas del boxeo al porno? La misma cosa, distinto escenario."
 "Want to jump in the ring with me, champ?","¿Quieres saltar al cuadrilátero conmigo, campeona?"
 "Wanna box, champ?","¿Quieres boxear, campeona?"
-Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.,Ten cuidado con el Masticador. Es un pirado. Una vez intentó arrancarme la oreja de un bocado.
 Are you getting into the business? Welcome aboard.,¿Te vas a meter en el negocio? Bienvenida a bordo.
 Nice unit you got there.,Tienes una buena unidad ahí.
-You should go into porn. You got the body for it.,Deberías dedicarte al porno. Tienes cuerpo para ello.
 "You? Sorry, I'll NEVER be that desperate.","¿Tú? Lo siento, NUNCA estaré tan desesperada."
-"If you're looking for a job, talk to the Brothers.","Si buscas un trabajo, habla con los Hermanos."
 You the new fluffer?,¿Eres la nueva estimuladora?
 You the new janitor? I don't imagine what else you could be.,¿Eres la nueva empleada de la limpieza? No se me ocurre qué otra cosa podría ser.
 "If you're the new janitor, you could start by wiping my ass.","Si eres la nueva empleada de la limpieza, podrías empezar por sacarle brillo a mi culo."
@@ -1239,36 +945,21 @@ Me board too,Burrida también
 "I might be bored. Why, you looking for some excitement, princess?","Puede que esté aburrida. ¿Por qué? ¿Estás buscando algo de juerga, princesa?"
 "Enough already, you stupid retard! Get out of here then! ::Idiot.::","¡Ya es suficiente, estúpida retrasada! ¡Entonces sal de aquí! ::Idiota.::"
 You NEW or something? I'm Angela BISHOP. My Dad is the HEAD of Family Bishop. ,"¿Eres NUEVA, o algo así? Soy Angela BISHOP. Mi papá es el LÍDER de la Familia Bishop. "
-Not really.,No especialmente.
 "Yeah, I understand you need someone to put in your place, PRINCESS, and I'm just the man to do it.","Sí, entiendo que necesitas que alguien te ponga en tu lugar, PRINCESA, y yo soy justo la mujer que va a hacerlo."
 Why you arrogant son of a -- I ought to go tell Daddy right now what you said to me.,Arrogante hija de... creo que debo ir a contarle a papá lo que me has dicho ahora mismo.
 I don't think you will. I think you want to see what kind of man I am.,No creo que lo hagas. Creo que quieres ver qué clase de mujer soy.
-Hunh?,¿Eh?
-(Walk away.),(Te alejas)
-(Leave.),(Te vas)
-No screem! No screem!,¡Gritar no! ¡Gritar no!
 "In this corner, the challenger, weighing in at ","En este rincón, la aspirante, con un peso de "
 " pounds, fresh from the wasteland and new to New Reno, "," libras, llegada desde el Yermo a Nuevo Reno, "
 "! Th' big hero! How can we help you? Maybe sing you something special, eh?","!La gran heroína! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?"
 ". Help you wit somthin', champ?",". ¿Te ayudamos en algo, campeona?"
 "Hep you wit somthin', son?","¿Te ayudamos en algo, hija?"
 "I'd be honored if you would. Thanks, guys.","Estaría honrada si lo hicierais. Gracias, muchachos."
-Thanxxx,Gracias
-Go on,Entra
-Hey! ,¡Hey! 
 "Heeeey, champ! What's yer poison?","¡Heeeey, campeona! ¿Cuál es tu veneno?"
-What's on tap?,¿Qué me puedes ofrecer?
-::Wheeze::,::Jadeos::
 "I spoke to your son, Senor Mordino. I'm a slaver, and I'm looking for work.","He hablado con su hijo, señor Mordino. Soy una esclavista, y estoy buscando trabajo."
 "I spoke to your son, Senor Mordino. I'm a slaver, and I'm looking to sell slaves.","He hablado con su hijo, señor Mordino. Soy una esclavista, y busco vender esclavos."
-"Actually, I'm not looking to sell that one just yet. I did have some questions I wanted to ask you...","En realidad, no quiero venderlo ahora mismo. Tenía algunas preguntas que quería hacerle..."
-"Actually, I'm not looking to sell that slave. Let's deal another time.","En realidad, no quiero vender a ese esclavo. Haremos un trato en otro momento."
-"Very well. I had some questions for you, though...",Muy bien. Aunque tenía algunas preguntas que hacerle...
-"All right. Some other time when I get better stock, then.","De acuerdo. En algún otro momento, cuando tenga mejores existencias, entonces."
 "(Sweat trickles down Mordino's face. His expression darkens.) You are a dog, and a SON of a dog. I will not buy
- from the likes of you. Leave... and do NOT return.","(Chorros de sudor caen por la cara de Mordino. Su expresión se oscurece) Eres un perro, y un hijo de perra. No le compraré
+ from the likes of you. Leave... and do NOT return.","(Chorros de sudor caen por la cara de Mordino. Su expresión se oscurece) Eres una perra, y una hija de perra. No le compraré
  a gentuza como tú. Vete... y NO vuelvas."
-(Leave quietly.),(Te vas en silencio).
 "You come to me for work. I give you... work and you complain like a CHILD. (Takes a deep, rasping breath, then coughs.)
  You... are no longer welcome here... in my casino. Leave.","Vienes a mí buscando trabajo. Te doy... trabajo y te quejas como una NIÑA. (Toma una gran y áspera bocanada de aire, y luego tose)
  Ya... no eres bienvenida aquí... en mi casino. Márchate."
@@ -1280,40 +971,15 @@ What's on tap?,¿Qué me puedes ofrecer?
 "(Nods.) Your success... pleases me. I would welcome you into the Family Mordino. (Clasps your shoulders.) Will
  you join our family? Your strength shall be... our strength.","(Asiente) Tu éxito... me complace. Serías bienvenida a la familia Mordino. (Te agarra por los hombros) ¿Te
  unirías a nuestra Familia? Tu fuerza será... nuestra fuerza."
-"I see. Look, I had some other questions...","Ya veo. Verá, tenía algunas otras preguntas..."
 You have become a made man of the Mordino family.,Te has convertido en Iniciada de la Familia Mordino.
-::Coughs::,::Tose::
 "Get lost, stupid.","Piérdete, estúpida."
 What kind of an asshole question is that?,¿Qué clase de pregunta idiota es esa?
 (The man turns his glare on you.) You look like an idiot.,(El hombre vuelve tu mirada hacia ti) Pareces una idiota.
-! Way to kick the Enclave's ass!,! ¡Qué manera de patear el culo al Enclave!
-How the hell do you go to the bathroom with that thing on?,¿Cómo demonios haces para ir al baño con todo eso encima?
 "You just walked into the WRONG place, dipshit.","Estás entrando en el lugar EQUIVOCADO, tarada."
 "Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.","Vaya, mira las pelotas de acero de esta hija de puta... lárgate, chica, antes de que te metamos una bala en el entrecejo."
-Didn't think members of family ,No creía que fueran miembros de la familia 
-"Get, girl. Before we gun you down.","Lárgate, muchacha. Antes de que te metamos una bala en el entrecejo."
 "Yo, champ. No weapons in here, 'kay?","Eh, campeona. Nada de armas aquí, ¿vale?"
 "Yo, champ! Put that weapon away.","¡Eh, campeona! Guarda el arma."
-"Honey, with a body like that, you won't be able to sneak anywhere.","Preciosa, con un cuerpo como ese, no deberías ir escondiéndote por ahí."
-Loved you in Great Balls for Hire.,Me encantaste en Gran Bola de Fuego Cachondo.
-"Tribal, you better secure that weapon right NOW.","Tribal, mejor que te guardes ese arma YA."
-"Tribal, you better stop that sneaking around shit right NOW.","Tribal, mejor que dejes de andar a hurtadillas YA."
-Get that stinky ghoul outta here. Now.,Saca de aquí a ese apestoso necrófago. Ya.
-"That ghoul ain't outta here in a minute, he's gonna be deader than he already is.","Ese necrófago debería salir de aquí antes de un minuto, o estará aún más muerto."
-Me want world peace,Quiero paz en el mundo
-Hoo Yoo,Hoo Yoo
-ME WANT WORLD PEACE ME WANT WORLD PEACE,QUIERO PAZ EN EL MUNDO QUIERO PAZ EN EL MUNDO
-HOO YOO,HOO YOO
-YOO ONE WHO GET HURT,YO SOY QUE HACE DAÑO
 "You deaf? John Friggin' Bishop is friggin' DEAD, awright? Now get outta here before you join him.","¿Estás sorda? El puñetero John Bishop está jodidamente MUERTO, ¿vale? Ahora sal de aquí antes de que te unas a él."
-. Ain't your family gonna be missing you?,. ¿Tu familia no te echará de menos?
- family is a bunch of pussies. What you think about that?, la familia es un grupo de nenazas. ¿Qué opinas tú?
- had time to do much more than kiss their bosses' ass., he tenido tiempo de hacer mucho más que besarle el culo a sus jefes.
- family is a bunch of pussies. Now I see it's true., la familia es un grupo de nenazas. Ahora veo que es verdad.
-"! You can't be showing weapons in here, awright?","! No puedes enseñar armas aquí, ¿de acuerdo?"
-. You taking care of yourself?,. ¿Te cuidas?
-. What's up?,. ¿Qué tal?
-"! You can show your tits, but you can't show weapons in here, awright?","! Puedes enseñar las tetas, pero no puedes enseñar armas aquí, ¿de acuerdo?"
 "Why didn't you just tack a sign on your chest that says, 'dumb mother fucker?' ",¿Por qué simplemente no te grabas una señal en el pecho que diga 'tonta hijoputa?' 
  bastard., zorra.
 I am a warrior on a holy quest to retrieve the Garden of Eden Creation Kit. Do you know where I might find it?,Soy una guerrera con la sagrada misión de recuperar el Kit de Creación del Jardín del Edén. ¿Sabes dónde puedo encontrarlo?
@@ -1327,106 +993,49 @@ I am a warrior on a holy quest to retrieve the Garden of Eden Creation Kit. Do y
  that's fine, I'll get you some glitterboys you can park your meat in.","Te gustan las mujeres? Puedo asegurarme de que NUNCA vuelvas a estar sola. Tal vez no te vayan las zorras,
  no pasa nada, está bien, te conseguiré distintos muchachos que puedas domar."
 You have become a made man of the Bishop family.,Te has convertido en Iniciada de la Familia Bishop.
-"Loved ""Vault Sex-Teen."" It was inspired. A cinematic tour-de-force.","Me encantó ""Refugio Caliente"". Resultó inspirador. Un tour-de-force inspirador."
-You look like you've been through hell and back. Relax a little. You deserve it.,Parece como si hubieras cruzado el infierno y logrado salir. Relájate un poco. Te lo mereces.
 You've got some serious muscle to bust the Enclave like you did.,Debes de ser una tía realmente dura para machacar al Enclave como lo hiciste.
-Everything's been pretty quiet today.,Todo está muy tranquilo hoy.
 "With you on our side, those other families don't stand a chance, boss.","Contigo de nuestro lado, las demás Familias no tienen ninguna oportunidad, jefa."
 "Get you anything, boss?","¿Necesitas algo, jefa?"
 "Heard Mrs. Bishop was looking for you. Watch out, pal.","He oído que la señora. Bishop te estaba buscando. Ten cuidado, compañera."
 "You don't look so tough, Mr. Prizefighter.","No pareces tan dura, señora Campeona."
 "You know, Family Bishop could really use someone like you. Tough. Uncompromising.","Ya sabes, a la Familia Bishop podría venirle muy bien alguien como tú. Dura. Inflexible."
 "Hey, champ! That last fight was great!","¡Hey, campeona! ¡Tu última pelea fue fantástica!"
-Saw you fight in the ring. Damn good right hook you throw.,Te vi luchar en el cuadrilátero. Un gancho derecho jodidamente bueno el tuyo.
-Watch out for the Masticator. He has a taste for ears.,Cuidado con el Masticador. Le encantan las orejas.
-I'd get you a drink if I hadn't blown all my money betting on your opponent.,Te invitaría a una bebida si no hubiese tirado todo mi dinero apostando por tu oponente.
-Wanna wrastle?,¿Un pulso?
-Can I see your abdominal muscles flex?,¿Puedo ver tus abdominales?
 "Get me a job, pal? C'mon. I'm the king of studs.","Me consigues un trabajo, compañera? Venga. Soy el rey entre los sementales."
-When are you going to stop by and see me?,¿Cuándo te vas a pasar por aquí para verme?
 "Looking deadly, sweetheart.","Eres mortal, dulzura."
-Lady Luck gonna get jealous you keep coming around here.,La Dama fortuna va a tener celos de que tú estés por aquí.
-"Piss off, tribal.","Lárgate, tribal."
 I ain't looking for no tribal ass right now. Come back later.,No tengo tiempo para una apestosa tribal ahora mismo. Vuelve más tarde.
 Get out of here before I beat you uglier than you are.,Lárgate de aquí antes de que te haga algo más fea de lo que eres.
-I *thought* I smelled something rotting. Get that ghoul boy o' yours outta here.,*Pensaba* que olía a algo podrido. Saca de aquí a ese necrófago tuyo.
 "Oh, gee, you're my hero. Now PISS OFF.","Oh, caramba eres mi heroína. Y ahora VETE A LA MIERDA."
 Jerkhole.,Tonta del culo.
-He is jabbing at an invisible opponent and snarling threats to the air.,Está golpeando a un oponente invisible y lanzando amenazas al aire.
-"He looks momentarily confused, as if having forgotten who he was, then
- smiles and scratches his head.","Parece momentáneamente confuso, como si hubiera olvidado quién era, y después
- sonríe y se rasca la cabeza."
-::Flexes::,::Flexiona los músculos::
 Yessur?,"¿S-si, señora?"
-::Smiles toothlessly::,::muestra una sonrisa desdentada::
-::Scratches self::,::Se araña a sí mismo::
-Grunt,Gruñe
 Too slow!,¡Demasiado lenta!
-No hitting below the belt!,¡No valen golpes bajos!
 Coulda been a contender!,¡Podría haber sido una contrincante de verdad!
-You want some of this?!,¡¿Quieres algo de esto?!
 Now you're mine.,Ahora eres mía.
-You're going down!,¡Vas a caer!
 Make you a bitch...,Te voy a hacer mi zorra...
-You got no guts!,¡No tienes huevos!
 Gonna beat you like a dog...,Te voy a golpear como a un perro...
-Ain't gonna be no rematch!,¡No va a haber revancha!
-Get critical!,¡Hora de ponerse serios!
-Yeeeaaaaahhhhh!,¡Síiiiiiiiiiiiiii!
 "You're the best, ","¡Eres la mejor, "
 "Get 'em, ","¡Acaba con él, "
  is the BEST. The BEST., es la MEJOR. La MEJOR.
 ", you are the man!",", eres la elegida!"
  is the best boxing champion I've ever seen., es la mejor campeona de boxeo que haya visto.
- is sooooo handsome., es taaaan guapo.
+ is sooooo handsome., es taaaan guapa.
  is caring and nurturing. That's what he told me last night., está cuidada y nutrida. Eso es lo que me dijo ayer por la noche.
 " was almost an unknown, fresh out of the wastes, before he came to box in New Reno.
  Mysterious! Deadly!"," era una desconocida, recién llegada del Yermo, antes de venir a boxear a Nuevo Reno.
  ¡Misteriosa! ¡Mortal!"
-! Give 'em hell!,! ¡Mándalo al infierno!
 ", you are the BEST. The BEST.",", eres la MEJOR. LA MEJOR."
 " was almost an unknown, fresh out of the wastes, before he came to box in New Reno. Mysterious! Deadly!"," era una desconocida, recién llegada del Yermo, antes de venir a boxear a Nuevo Reno. ¡Misteriosa! ¡Mortal!"
 You're the best ,"¡Eres la mejor, "
  is the man!, es la elegida!
 ", you are the best boxing champion I've ever seen.",", eres la mejor campeona de boxeo que haya visto."
-", you really know how to hurt someone.",", realmente sabes cómo hacer daño a alguien."
 "I hear you were an unknown, fresh out of the wastes, before you came to box in New Reno. Where are you from?","He oído que eres una desconocida, procedente del Yermo, antes de que vinieras a boxear a Nuevo Reno. ¿De dónde eres?"
 ", you are sooooo handsome.",", eres taaaaan guapa."
-I hear Tommy the Balls wants to give you a private screening.,He oído que Tommy Pelotas quiere ofrecerte una representación privada.
-::Cheers::,::Vítores::
-Way to burn those Enclave bastards! Way to go!,¡Qué manera de extinguir a esos bastardos del Enclave! ¡Así se hace!
-"Way to crush the Enclave, ","Menuda forma de aplastar al Enclave, "
-Uh-oh. Get out of the way.,"Oh, oh. Me aparto de su camino."
-Think that thing's looking to cap anyone?,¿Crees que esa cosa está buscando a quién cargarse?
 "It's hell's fury given flesh. Uh, underneath the armor, that is.","Es la furia del infierno encarnada. Eh, bajo la armadura, claro está."
-Stay outta that thing's path.,Aléjate del camino de esa cosa.
-I think that Mr. Roboto dude was scanning me.,Creo que Mr. Roboto me estaba escaneando.
-I think that walking tank just gave me the stare of death. I'm outta here.,Creo que ese tanque con patas me acaba de lanzar una mirada asesina. Me largo de aquí.
-I heard that thing fragged three hitmen just yesterday.,He oído que esa cosa se cargó a tres sicarios ayer mismo.
-Just looking at him gives me the shivers.,Sólo el que me mire ya me provoca escalofríos.
-Think he's looking to cap anyone?,¿Crees que está buscando a quién cargarse?
 Stay outta that man's path.,No te interpongas en el camino de esa mujer.
-I think he was looking at me.,Creo que me estaba mirando a mí.
-I think he just gave me the stare of death. I'm outta here.,Creo que me acaba de lanzar una mirada asesina. Me largo de aquí.
-I heard he shot down three hitmen just yesterday.,He oído que asesinó a tres sicarios ayer mismo.
 "La Femme Nikita, then some.","La Femme Nikita, y luego el resto."
-Just looking at her gives me the shivers.,Sólo el que me mire ya me provoca escalofríos.
-Think she's looking to cap anyone?,¿Crees que está buscando a quién cargarse?
-I think she was looking at me.,Creo que me estaba mirando a mí.
-I think she just gave me the stare of death. I'm outta here.,Creo que me acaba de lanzar una mirada asesina. Me largo de aquí.
-I heard she shot down three hitmen just yesterday.,He oído que asesinó a tres sicarios ayer mismo.
-"What an ass! Uh, bad ass, that is.","¡Menudo culo! Eh, de mal asiento, quería decir."
-You gonna take the fall? I got 30 chips riding on you.,¿Vas a aceptar la caída? He apostado 30 fichas por ti.
-Whoa. Check that out.,Oye. Mira eso.
-::Mouths the word 'damn.'::,::Masculla un 'maldición'.::
-I KNEW I should have shaved today.,SABÍA que tenía que haberme afeitado hoy.
-"Come chat with me for a sec, honey-tits.","Ven a charlar conmigo un momentito, lindas tetas."
-Tribals got them tits! Damn!,¡Las tribales tienen tetas! ¡Joder!
-Check out the rack on that tribal.,Mira la ropa de esa tribal.
-That there's the main filly of my herd.,Aquí está el mejor potro de mi rebaño.
-I'd bathe for that woman.,Por esa mujer me bañaría.
-I got your mother lode right here.,Tengo tu veta madre justo aquí mismo.
 "You got fries to go with that shake, beautiful?","¿No te calientas con ese meneo, preciosa?"
+
+
+
 Maybe she'll dance tonight.,Tal vez baile esta noche.
 "Did you see her latest film? Red hot, man, red HOT.","¿Has visto su última película? Caliente, colega, CALIENTE."
 "Excuse me. I have to go to the bathroom and er, comb my hair for a sec.","Perdóname. Tengo que ir al baño un segundo y, eh, ahuecarme el pelo."
