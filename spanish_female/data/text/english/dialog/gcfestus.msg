@@ -3,7 +3,7 @@
 {102}{}{Ves a un necrófago que parece abatido, con aspecto particularmente rancio. Huele como una
  herida infectada.}
 {110}{}{¿Eres lo más estúpido que pudieron conseguir? Ja, ja, ja.}
-{111}{}{¿Eres tonto o qué? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio.}
+{111}{}{¿Eres tonta o qué? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio.}
 {112}{}{Bien, eres bastante estúpido, ¿no? Deberías dirigirte a Ciudad Refugio.}
 {113}{}{Tengo muchas cosas importantes que hacer. ¿Por qué no vuelves a Ciudad Refugio, que es a donde perteneces?}
 {114}{}{Ja, ja, ja. Menuda mirada de estúpido la tuya.}
@@ -102,7 +102,7 @@
 {340}{}{¿Te sobra un regulador hidroeléctrico magnetosférico?}
 {341}{}{¿Y ya sabes lo que es?}
 {342}{}{Desde luego. ¿Listo para instalarlo?}
-{350}{}{¿Sorprendido? Ya te dije que lo sé todo sobre centrales nucleares. Deberías haberme escuchado.}
+{350}{}{¿Sorprendida? Ya te dije que lo sé todo sobre centrales nucleares. Deberías haberme escuchado.}
 {351}{}{Bueno, pues ya que sabes lo que es, sabrás cómo instalarlo.}
 {352}{}{Creo que ya te he escuchado demasiado. Adiós.}
 {360}{}{Por supuesto que sí. Es algo sencillísimo para alguien de mi experiencia y talento. Me
@@ -209,7 +209,7 @@
 {816}{}{Bueno, será mejor marcharse. Adiós, Festus. Volveré con los datos que necesitas lo
  antes posible.}
 {817}{}{No haraganees por aquí. Consigue esos datos.}
-{818}{}{No te quedes ahí parado. El reactor no va a funcionar para siempre.}
+{818}{}{No te quedes ahí parada. El reactor no va a funcionar para siempre.}
 {819}{}{Muévete y consigue esos datos de optimización, como dijiste que harías.}
 {820}{}{Tendremos tiempo de sobra para charlar *después* de optimizar el reactor.}
 {821}{}{Ve a Ciudad Refugio y negocia con McClure lo del disco para los datos del reactor que necesitamos.

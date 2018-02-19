@@ -34,7 +34,7 @@
 {260}{}{No, sólo puedes escoger uno cada vez, pero siempre puedes volver por más... tras un pequeño reposo.}
 {261}{}{Dime otra vez qué tipos de baños tienes.}
 {262}{}{Si no puedo hacer lo que quiera, no quiero darme un baño; me largo de aquí.}
-{270}{}{Bien, por un individuo tan atractivo como tú tan sólo serán 25 dólares.}
+{270}{}{Bien, por una individua tan atractiva como tú tan sólo serán 25 dólares.}
 {271}{}{¿25 dólares? Eso es una ganga, me daré el baño.}
 {272}{}{Hmm, dime otra vez qué tipos de baños tienes.}
 {273}{}{Quizás no necesite esto ahora mismo. Me marcho.}

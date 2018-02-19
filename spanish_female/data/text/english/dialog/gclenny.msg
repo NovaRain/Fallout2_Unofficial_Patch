@@ -204,9 +204,9 @@
 {2306}{}{No es mi intención ser un obstáculo.}
 {2307}{}{Oh, lo siento.}
 {3000}{}{Pasan demasiadas cosas malas alrededor tuyo. Me voy antes de que algo me pase a mí.}
-{3001}{}{No voy a ayudar a un asesino de niños. Adiós.}
+{3001}{}{No voy a ayudar a una asesina de niños. Adiós.}
 {3002}{}{Me aterras con tu sed de sangre. No voy a seguir siguiéndote.}
-{3003}{}{No quiero tener nada que ver con un esclavista. Adiós.}
+{3003}{}{No quiero tener nada que ver con una esclavista. Adiós.}
 {3004}{}{¡Eres un traidor! Destruiste nuestro reactor. N-no te ayudaré.}
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}

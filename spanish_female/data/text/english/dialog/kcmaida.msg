@@ -15,7 +15,7 @@
 {220}{}{Hmm - parece que no te llegue la sangre al cerebro. ¿Por qué no vas a hablar con mi hermano Torr? Seguro que te entiendes mejor con él. Adiós.}
 {230}{}{Mi nombre es Maida Buckner, me ocupo del comercio y de servir bebidas. No toleraré que ningún tribal monte un jaleo en el hogar de mi familia. Así que mejor será que vigiles tus pasos, o acabarás como Sulik. ¿Qué quieres?}
 {231}{}{Mi nombre es Maida Buckner, me ocupo del comercio y de servir bebidas. ¿Qué va a ser, amigo?}
-{232}{}{Hola, mi buen amigo.}
+{232}{}{Hola, mi buena amiga.}
 {233}{}{¿Con qué puedo ayudarte?}
 {234}{}{Bueno, será mejor que seas más civilizado a partir de ahora. ¿Qué es lo que quieres? ¿Puedo ayudarte?}
 {235}{}{Tengo algunas preguntas para ti.}

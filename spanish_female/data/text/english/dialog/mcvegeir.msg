@@ -16,7 +16,7 @@
 {162}{}{La respuesta sigue siendo no.}
 {163}{}{He decidido ayudaros.}
 {165}{}{Gracias por ayudarnos. Siempre serás bienvenido aquí. Por tus servicios, te ofrezco esto como recompensa. [Vegeir te da un rifle de asalto].}
-{166}{}{Gracias por ayudarnos. Siempre serás bienvenido aquí.}
+{166}{}{Gracias por ayudarnos. Siempre serás bienvenida aquí.}
 {167}{}{¿Podría llevar a Jonny a casa con sus padres?}
 {168}{}{Por favor, permíteme que me disculpe por las desgraciadas circunstancias por las que nos hemos conocido. Normalmente, los Protectores hubieran intentado asustarte. Lo normal es que el ruido de las cadenas y algunos aullidos graves sean suficientes para asustar a cualquiera. Pero recientemente, se les ha ordenado que traigan a cualquiera persona de la superficie a mi presencia.}
 {169}{}{Está bien. Me marcharé ya.}

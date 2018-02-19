@@ -27,7 +27,7 @@
 {154}{}{Tengo algunas preguntas para ti.}
 {155}{}{Oh, está bien, iré a hablar con Skeeter entonces. Gracias.}
 {160}{}{Hola. Puesto que ya has entrado sin avisar, ¿qué puedo hacer por ti?}
-{161}{}{Tengo hambre.}
+{161}{}{Yo hambrienta.}
 {162}{}{Eh, me preguntaba dónde podría estar Skeeter.}
 {163}{}{Tengo algunas preguntas para ti.}
 {164}{}{Oh, lo siento, no era mi intención irrumpir así. Hasta luego.}

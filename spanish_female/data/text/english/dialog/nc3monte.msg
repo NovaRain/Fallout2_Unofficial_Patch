@@ -1,7 +1,7 @@
 {100}{}{Ves a Monte Tres-Cartas.}
 {150}{}{Ves a un anciano alto y flaco con la cara quemada por el sol. Está tan delgado que parece hecho de astillas.}
 {200}{}{No sé cómo he perdido…}
-{205}{}{¡Heeeey! ¡Héroe! Lo hiciste bien, muy bien.}
+{205}{}{¡Heeeey! ¡Heroína! Lo hiciste bien, muy bien.}
 {215}{}{¿Dónde diablos están mis cartas? ESTABAN aquí.}
 {220}{}{Tú, camarada, no pierdas el tiempo en los casinos. Ven a jugar con Monte.}
 {230}{}{Monte no está disponible hoy, amigo; he perdido mis malditas cartas.}
@@ -30,7 +30,7 @@
  hacerlo. Quizá merecería la pena echar un ojo a su local... pero yo no te he he dicho nada.}
 {435}{}{(Monte frunce el ceño al verte) Mira, hoy no voy a jugar más, ¿vale? Desaparece.}
 {440}{}{Que no. No me desharé de ella. Punto. Es una AUTÉNTICA pieza de colección de antes de la guerra... un trocito de historia. NI HABLAR.}
-{450}{}{¿Estás sordo? Ni siquiera esa cantidad me interesa.}
+{450}{}{¿Estás sorda? Ni siquiera esa cantidad me interesa.}
 {460}{}{Vaya, ya no la aprecio TANTO. Es tuya, camarada. (Mira a derecha e izquierda, se agacha y se quita la
  bota. Desenrosca el talón y saca la carta de su interior). Aquí tienes. Cuídala.}
 {465}{}{(Frunce el ceño) Lo que yo diga depende de lo que quieras saber. Y no va a resultarte barato.}
@@ -44,7 +44,7 @@
 {530}{}{(Enarca las cejas) Por esa cantidad, no sé nada.}
 {535}{}{Eso me parece bien… (enarca las cejas) ... Yo le preguntaría al viejo Jules, en la parte delantera de la ciudad. Nada se le escapa… y si lo HICIERA, entonces es que tendría una mano metida en ello, ¿entiendes lo que digo?}
 {540}{}{(Se encoge de hombros) Escucho cosas, veo cosas. Por 200 fichas, quizá puedas obtener el beneficio de mi experiencia, ¿sabes lo que quiero decir?}
-{550}{}{¿Estás sordo? HE DICHO 200 fichas, y lo decía en serio.}
+{550}{}{¿Estás sorda? HE DICHO 200 fichas, y lo decía en serio.}
 {555}{}{Hecho. (Monte se inclina) Bien, ¿sabes que ese tal Eldridge dirige Armas Nuevo Reno? DICE que hace
  mejoras de armas, pero nunca le he visto hacerlo. Podrías echar un vistazo en su local... pero
   esto no me lo has oído a mí.}

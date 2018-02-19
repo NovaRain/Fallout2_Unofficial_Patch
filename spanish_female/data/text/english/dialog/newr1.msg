@@ -148,7 +148,7 @@
 {435}{}{Scrapiron}
 {436}{}{Tigresa}
 {437}{}{Tyson}
-{438}{}{Lady J}
+{438}{}{Dama J}
 {439}{}{Drago}
 {440}{}{Clubber Lang}
 {441}{}{Duquesa}
@@ -258,7 +258,7 @@
 {564}{}{Jill Jacks}
 {565}{}{Courtney Coxis}
 {566}{}{Maria Swallo}
-{567}{}{Lady J}
+{567}{}{Dama J}
 {568}{}{Glenda Glenn}
 {569}{}{Reina Elizabeth}
 {570}{}{Jenna Jammison}

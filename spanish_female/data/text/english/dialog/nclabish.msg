@@ -41,8 +41,8 @@
 {251}{}{Mi marido es el patriarca de la Familia Bishop en Nuevo Reno. ¿Y TÚ eres…?}
 {252}{}{Mi difunto marido era el patriarca de la Familia Bishop en Nuevo Reno. ¿Y TÚ eres…?}
 {253}{}{Me llamo }
-{254}{}{Soy un simple viajero.}
-{255}{}{Soy un viajero, en busca del Refugio 13. ¿Has oído hablar de él?}
+{254}{}{Soy una simple viajera.}
+{255}{}{Soy una viajera, en busca del Refugio 13. ¿Has oído hablar de él?}
 {256}{}{Soy un viajero… ¿sabes dónde puedo encontrar algo llamado "Kit de creación del Jardín del Edén"?}
 {257}{}{Mira, tal vez sea mejor que me vaya. Adiós.}
 {260}{}{¿Sí?}
@@ -129,7 +129,7 @@
  copa? ¿O tienes que largarte corriendo de nuevo?}
 {382}{}{Sólo si la bebida no es más que el comienzo.}
 {383}{}{Claro. Agradecería una bebida.}
-{384}{}{Lo siento, señora Bishop, pero estoy casado.}
+{384}{}{Lo siento, señora Bishop, pero estoy casada.}
 {385}{}{No, gracias. De verdad que tengo que irme.}
 {386}{}{De ninguna manera. No quiero que su marido se... cabree.}
 {387}{}{Trabajo para su marido, señora Bishop. No estaría bien.}
@@ -183,7 +183,7 @@
 {452}{}{Bueno, eso es lo que yo me preguntaba. ¿No acudiría Ciudad Refugio a algún otro en busca de
  ayuda... como la RNC... en lugar de aceptar la propuesta de unirse a los Bishop?}
 {453}{}{¿Tiene alguna prueba de esto?}
-{460}{}{(Sonríe satisfecha). Bueno, no *eres* muy agudo...}
+{460}{}{(Sonríe satisfecha). Bueno, no *eres* muy aguda...}
 {461}{}{Entonces... ¿sabe lo que Bishop ha planeado?}
 {462}{}{Bueno, a veces... depende de a quién preguntes. Tengo otras preguntas...}
 {470}{}{(Frunce el ceño). No. ¿Debería? (Te estudia detenidamente y sonríe satisfecha). }
@@ -205,9 +205,9 @@
 {510}{}{Mmmmm…oh, }
 {511}{}{Mmmzrrmnmn…. otra vez, }
 {512}{}{Combinnnación de caja… }
-{515}{}{¡Un intruso! ¡Ayuda!}
+{515}{}{¡Una intrusa! ¡Ayuda!}
 {516}{}{¡Al ladrón! ¡Al ladrón!}
-{517}{}{¡Un intruso! ¡Guardias! ¡Guardias!}
+{517}{}{¡Una intrusa! ¡Guardias! ¡Guardias!}
 {520}{}{(Te lleva escaleras arriba hasta una extraña habitación perfumada. Una vez allí, empieza
  a darte extrañas instrucciones que te hacen sentir al mismo tiempo feliz e incómodo) ¿No quieres
  tocarme?}
@@ -252,12 +252,12 @@
 {563}{}{He quedado con un amigo y no puedo llegar tarde.}
 {564}{}{Eso no le incumbe. Adiós, señora Bishop.}
 {565}{}{Intenta abandonar esta habitación, y gritaré para que vengan los guardias.}
-{566}{}{Considerándolo bien, es posible que esté más seguro con los guardias. Adiós.}
+{566}{}{Considerándolo bien, es posible que esté más segura con los guardias. Adiós.}
 {567}{}{Tengo que reunirme con Jules en la parte delantera para una… transacción especial… muy pronto.}
 {569}{}{Vale, de acuerdo. Ojalá no fueras tan duro de roer. Ven aquí.}
 {570}{}{Sólo quiero que sepas que esto no está bien, y si tuviese un poco más de ética, te
  daría una severa lección. Vamos, ven aquí.}
-{575}{}{¡Guardias! ¡Un intruso! ¡Ladrón! ¡Guardias! ¡Hay un intruso en el ático!}
+{575}{}{¡Guardias! ¡Una intrusa! ¡Ladrona! ¡Guardias! ¡Hay una intrusa en el ático!}
 {576}{}{¿Dónde? ¿De qué está hablando, señora Bishop?}
 {577}{}{¡Joder! ¡Odio este juego!}
 {580}{}{Bien. Si no te acuestas conmigo ahora, quiero que sepas que puedes

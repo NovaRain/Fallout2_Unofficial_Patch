@@ -8,7 +8,7 @@
 {107}{hld2a1}{¿Qué necesitas, joven?}
 {108}{hld2b}{Bueno, mal rayo me parta, piel suave. Nos hiciste un gran favor echando una mano con nuestra central nuclear. Me llamo Harold. Mantengo en marcha esta ciudad.}
 {109}{hld2c}{Qué amable por tu parte al ayudarnos con la central nuclear. Te debemos una. Y ahora, ¿qué puede hacer esta vieja carcasa hecha polvo por ti?}
-{110}{hld2d}{Tienes algo... como el original. ¿Qué puede hacer el viejo Harold por ti, Morador del Refugio? }
+{110}{hld2d}{Tienes algo... como el original. ¿Qué puede hacer el viejo Harold por ti, Moradora del Refugio? }
 {111}{hld2e}{¿No has hecho ya bastante daño, piel suave? ¿Qué quieres ahora?}
 {112}{}{¿Piel suave? ¿Por qué me llamas así?}
 {113}{}{¿Morador del Refugio? No soy un Morador del Refugio.}

@@ -39,7 +39,7 @@
 {213}{}{Antes mencionaste una recompensa. Espero que sea buena. Adiós.}
 {220}{}{Vaya, pero si es mi amigo idiota. Muchas gracias. Adiós.}
 {221}{}{Hola, amigo. Gracias de nuevo por sacarme de ese atolladero. ¿Puedo serte de ayuda con algo?}
-{222}{}{¿Algo más, amigo?}
+{222}{}{¿Algo más, amiga?}
 {223}{}{Mira, tengo varias preguntas sobre la caza de geckos.}
 {224}{}{Tengo montones de preguntas sobre esta zona.}
 {225}{}{¿Se ha alegrado la señora Buckner de volver a verte?}

@@ -192,7 +192,7 @@
 {3300}{}{}
 {3325}{}{¿Por qué no dejas todo esto justo donde lo encontraste?}
 {3326}{}{Ya sabes que no está bien quedarte con lo que no es tuyo.}
-{3327}{}{¡Aléjate de ahí, gamberro!}
+{3327}{}{¡Aléjate de ahí, gamberra!}
 {3328}{}{Ahora no me vengas con que sólo estás "buscando las llaves". ¡Lárgate de aquí!}
 {3329}{}{Lo que quiera que estés buscando, no está ahí. ¿Comprendido?}
 {3350}{}{}

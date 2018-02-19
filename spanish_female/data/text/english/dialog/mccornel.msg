@@ -63,7 +63,7 @@
 {225}{}{Yo mato a Farrel.}
 {300}{}{[Hmmm... Ciertas palabras parecen hacerle reaccionar]. Rose... Habitación... Correr...}
 {301}{}{Ooga.}
-{501}{}{¡Siempre supe que eras un ladrón!}
+{501}{}{¡Siempre supe que eras una ladrona!}
 {502}{}{¡Cómo pudiste hacerle eso a mi mejor amigo!}
 {503}{}{¡Te voy a matar!}
 {504}{}{¡Voy a arrancarte la cabeza y a exponerla como trofeo!}

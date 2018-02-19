@@ -4,7 +4,7 @@
 {150}{}{Lo siento, hemos cerrado. Un familiar ha fallecido. [sniff]}
 {151}{}{¡Eh! Soy la única que tiene permiso para rebuscar en la caja de objetos perdidos.}
 {152}{}{¡Estoy empezando a pensar que eres un ladrón!}
-{153}{}{¡Ladrón! ¡Ladrón! ¡Ladrón!}
+{153}{}{¡Ladrona! ¡Ladrona! ¡Ladrona!}
 {154}{}{Bienvenido a la Posada de Rose. Vaya, si eres un joven bien fornido. ¿Qué puede hacer hoy Rose por ti?}
 {155}{}{Bienvenida a la Posada de Rose. Vaya, qué chica más bonita eres. ¿Qué puede hacer hoy Rose por ti?}
 {156}{}{¡Tengo hambre! ¿Qué tienes para comer?}
@@ -46,9 +46,9 @@
 {196}{}{[La multitud grita, "¡38!"] Bueno, lo que hace su sabor tan especial es que tienes que hacerte con ellos mientras el brahmin todavía está vivo. Agarras al brahmin por el escroto y se lo cortas de una tajada. Tienes que tener cuidado; el brahmin suele enfadarse.}
 {197}{}{[El frito de brahmin numero 38 debe viajar a la velocidad de la luz cuando de repente sale disparado de tu boca].}
 {198}{}{Oh, no podemos contar ese último, ¡pero has dejado el récord en 37! Aquí está tu dinero. ¡Enhorabuena!}
-{199}{}{[Te sientes enfermo].}
+{199}{}{[Te sientes enferma].}
 {200}{}{Ah, esa es mi especialidad. Espero que estés hambriento; te garantizo que nunca has probado una tortilla como ésta en ninguna parte. [Se marcha y vuelve con la mayor tortilla que hayas visto en tu maldita vida].}
-{201}{}{[Te sientes revitalizado después de semejante comilona].}
+{201}{}{[Te sientes revitalizada después de semejante comilona].}
 {202}{}{[Desaparece rápidamente tras la barra y vuelve con tu pedido].}
 {203}{}{¿Puedo hacerte algunas preguntas?}
 {204}{}{Lo siento, cariño. Estoy muy ocupada atendiendo a los clientes. Quizás si pidieras algo tendría tiempo para charlar contigo entre pedido y pedido.}

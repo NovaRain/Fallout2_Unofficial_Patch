@@ -27,7 +27,7 @@
 {151}{}{Uh, eso sería genial.}
 {152}{}{¿Cecina? No creo que quiera de eso. Hablemos de otra cosa.}
 {153}{}{No quiero comerciar. Adiós.}
-{160}{}{Has tenido tu oportunidad, amigo.}
+{160}{}{Has tenido tu oportunidad, amiga.}
 {161}{}{Aquí no hay trabajo para ti.}
 {162}{}{Bueno, hay algo con lo que nos vendría bien un poco de ayuda (je, je, je).}
 {163}{}{¿Con qué, Chuck?}
@@ -41,7 +41,7 @@
 {171}{}{Tan sólo quería disculparme, no quería cabrearos. Sólo es que no soy tan bueno como vosotros robando ganado. Además, necesito algo.}
 {172}{}{Sí, tienes razón. Podría haberlo hecho mejor. Supongo que no soy un cuatrero como vosotros dos. Sin embargo, necesito ayuda.}
 {173}{}{¿Mierda de gecko? ¿Estás hablando de lo que comes, o de lo que tienes en la sesera?}
-{180}{}{Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socio?}
+{180}{}{Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socia?}
 {181}{}{Hola, colega. Hicimos un buen trabajo con ese idiota de Torr, ¿eh? Arreglemos lo tuyo.}
 {182}{}{Este fue un buen negocio. Hacedme saber cuando tengáis otro parecido. Ahora necesito otra cosa.}
 {183}{}{Estoy aquí por mi parte, socios.}
@@ -84,7 +84,7 @@
 {242}{}{Sí, la conozco.}
 {243}{}{No, eso es todo, Chuck.}
 {244}{}{No, eso es todo, Buck.}
-{250}{}{Saludos, socio. Contamos contigo esta noche. ¿Qué puedo hacer por ti?}
+{250}{}{Saludos, socia. Contamos contigo esta noche. ¿Qué puedo hacer por ti?}
 {251}{}{Eh, lo he reconsiderado. No creo que quiera ayudaros con lo de esta noche.}
 {252}{}{Sí, ahí estaré. ¿Puedo hacerte una pregunta?}
 {253}{}{Claro, ahí estaré. Adiós.}
@@ -115,7 +115,7 @@
 {301}{}{Creo que me haríais daño si echo un pulso con vosotros.}
 {302}{}{Quizás más tarde. Ahora, necesito información.}
 {303}{}{No hubiera tenido ninguna emoción. Hubiera ganado. Adiós.}
-{304}{}{Tienes pinta de ser demasiado flojo. Sólo echo pulsos con hombres de verdad. Lárgate, perdedor.}
+{304}{}{Tienes pinta de ser demasiado floja. Sólo echo pulsos con quien lo merece. Lárgate, perdedora.}
 {310}{}{¿Qué estás buscando qué? Lo más cerca que he estado del jardín del Edén ha sido en los brazos de la encantadora Jenny en la Casa de Baños de Mamá (je, je, je).}
 {311}{}{Eh, gracias. Déjame hacerte otra pregunta.}
 {312}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
@@ -183,12 +183,12 @@
 {450}{}{Soy Chuck Dunton.}
 {451}{}{Soy Buck Dunton.}
 {452}{}{Túuu feeeo.}
-{453}{}{ ¡Elegido!}
+{453}{}{ ¡Elegida!}
 {460}{}{¿Túuu feooo? ¿Qué? Eres tan tonto como el idiota de Torr. Eso es bueno, necesitamos un nuevo tonto en el pueblo. Ya estábamos aburridos de Torr.}
 {461}{}{¿Torr aburrido?}
 {470}{}{Elegido, ¿eh? Elegido va a ser zurrado en el morro. ¿Tú madre te dejó caer de cabeza, o saliste así de idiota y feo? Aléjate de mí.}
 {471}{}{¡Ook! }
-{472}{}{ ¡Elegido!}
+{472}{}{ ¡Elegida!}
 {480}{}{¿Estás listo? Bien, entonces vamos. No tenemos toda la maldita noche. Tenemos trabajo que hacer.}
 {481}{}{Oh, sí; Estoy listo. Vamos.}
 {482}{}{Estoy listo para enseñarle una lección a ese estúpido.}
@@ -201,6 +201,6 @@
 {531}{}{Oh, vale. Entonces me marcharé. Dios, alguna gente es tan susceptible. Adiós.}
 {532}{}{Torr está haciendo pastar a sus brahmines justo al norte del centro del pueblo.}
 {533}{}{Cuando el idiota de Torr llegue aquí, será mejor que te libres de él.}
-{600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrón!}
+{600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrona!}
 {601}{}{¿Listo para ir?}
 {700}{}{Has robado el ganado de Torr.}

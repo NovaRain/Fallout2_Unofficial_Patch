@@ -15,14 +15,14 @@
 {224}{}{Tu actuación bien vale un centenar de erecciones.}
 {225}{}{}
 {226}{}{Eres una estrella. Una brillante estrella.}
-{227}{}{¡Oye, bienvenido de nuevo!}
+{227}{}{¡Oye, bienvenida de nuevo!}
 {228}{}{Ven a charlar conmigo un poco.}
 {229}{}{Háblame del negocio.}
 {230}{}{¡Vuelve de nuevo!}
 {231}{}{¿Sabes lo que estoy contemplando? A la zorra más golfa del mundo entero.}
 {232}{}{}
 {233}{}{¡Oye, bienvenida otra vez, par de tetazas!}
-{245}{}{Oh, oh. Un iniciado. Todo el mundo firme.}
+{245}{}{Oh, oh. Una iniciada. Todo el mundo firme.}
 {246}{}{Hola, }
 {250}{}{¡Hola, Hércules sexual!}
 {251}{}{Echa un vistazo a esos pectorales. Flexiónalos un par de veces.}
@@ -94,7 +94,7 @@
 {402}{}{Yo flexiono.}
 {403}{}{Yo no flexiono yo hago con mujer.}
 {404}{}{Yo te y tazas.}
-{405}{}{Yo duro.}
+{405}{}{Yo dura.}
 {415}{}{Exaaaacto. Amigo, sé de dónde vienes, y sé EXACTAMENTE a dónde vas. ¿Te gusta actuar?}
 {416}{}{Exaaaacto. Tetazas, sé de dónde vienes, y sé EXACTAMENTE a dónde vas. ¿Te gusta actuar?}
 {417}{}{Me gustan las cosas.}
@@ -164,9 +164,9 @@
 {556}{}{Eso sí, ESE es un nombre con historia y magia asociadas. Buena elección, amigo, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
 {557}{}{Eso sí, ESE es un nombre con historia y magia asociadas. Buena elección, tetazas, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
 {558}{}{Eso sí, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÁ por ser tan poderoso! Buena elección, lindas tetas, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
-{565}{}{¡Bien! ¡Bien! ¡Vamos a hacerlo, gente! ¡Venga! ¡Muévete! ¡Estás listo?}
-{566}{}{Listo calisto}
-{567}{}{NACÍ preparado.}
+{565}{}{¡Bien! ¡Bien! ¡Vamos a hacerlo, gente! ¡Venga! ¡Muévete! ¡Estás lista?}
+{566}{}{Lista calista}
+{567}{}{NACÍ preparada.}
 {575}{}{Muy bien, mi volcánico amigo. Hemos terminado por hoy. ¡Una actuación ESTELAR! ¡ESTELAR! ¡Y esa corrida! ¡Perfecta!
  Si quieres repetir, vuelve a vernos en un mes, ¿vale?}
 {576}{}{Muy bien, tetazas. Hemos terminado por hoy. ¡Una actuación ESTELAR! ¡ESTELAR! Si quieres repetir, vuelve a
@@ -183,7 +183,7 @@
 {593}{}{Si quieres repetir, vuelve a vernos dentro de un mes, ¿vale?}
 {594}{}{De acuerdo entonces.}
 {610}{}{¿Te estás quedando conmigo? Oye, si tienes que preguntarlo, entonces NO eres la persona adecuada para este trabajo. Entonces, ¿qué quieres?}
-{612}{}{Un trabajo, ¿eh? De acuerdo entonces, SOY un entonador. El mejor entonador del mercado.}
+{612}{}{Un trabajo, ¿eh? De acuerdo entonces, SOY una entonadora. La mejor entonadora del mercado.}
 {613}{}{Em, nada. Debo estar en el negocio equivocado.}
 {620}{}{Caray, ¿en qué estoy pensando? ¡Vienes aquí, con tu nivelazo, y yo balbuceando como un idiota! Oye, amigo, lo siento.
  Verás, um, ¿buscas trabajo? Nada de esa mierda de entonar. Estoy hablando de ACTUAR, ¿vale?}
@@ -228,7 +228,7 @@
 {703}{}{Eh, no, gracias. He cambiado de opinión. En otro momento.}
 {710}{}{¡Entonces sal de aquí de una puta vez, mierdecilla! ¡No te necesitamos! ¡Piérdete! ¡Nunca más trabajarás en el porno!}
 {711}{}{¡No quiero yo igualmente! ¡ESO ES!}
-{712}{}{¡Que te jodan! No eres mi jefe. Yo soy el puñetero jefe de }
+{712}{}{¡Que te jodan! No eres mi jefe. Yo soy la puñetera jefa de }
 {720}{}{Lárgate de aquí. No tengo nada que decirte.}
 {721}{}{Tú y yo no tenemos nada que decirnos. Desaparece.}
 {730}{}{¡Oye, bienvenido de nuevo, }
@@ -245,7 +245,7 @@
 {758}{}{Lo ignoras y te alejas}
 {759}{}{Calma. Es sólo que no quiero rodar hoy, ¿vale? La leche. Volveré más tarde, cuando te hayas tranquilizado.}
 {760}{}{Que os jodan. No necesito esta mierda. ¡Soy una estrella! ¡Una gran y brillante estrella resplandeciente!}
-{765}{}{Hey... ¿estás bien? Pareces un poco descolocado. No has tomado drogas, ¿verdad? Porque NO voy a rodar contigo así.}
+{765}{}{Oye... ¿estás bien? Pareces un poco descolocada. No has tomado drogas, ¿verdad? Porque NO voy a rodar contigo así.}
 {766}{}{Quiero yo rodar AHORA pequeña persona.}
 {768}{}{¡Tú no eres mi jefe! Quiero follar, ésta es mi enorme polla, así que quiero a todo el mundo preparado para rodar AHORA MISMO, joder.}
 {769}{}{¡Tú no eres mi jefe! Quiero follar, aquí está mi perfecto coño, así que quiero todo el mundo preparado para rodar AHORA MISMO, joder.}
@@ -288,7 +288,7 @@
 {857}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Tú! ¿Qué te pasó? Quiero decir, es bueno,
  es bueno… debo haberme perdido
  algo antes. Te interesa hacer de entonador, ¿es eso?}
-{861}{}{Uh, ¿qué es un entonador?}
+{861}{}{Uh, ¿qué es una entonadora?}
 {862}{}{Sí. ¿Hay algún trabajo más para mí?}
 {875}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Has pensando en mi oferta? ¿Eh?}
 {876}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Quieres otro intento? ¿Es eso?}
@@ -308,7 +308,7 @@
 {914}{}{Eh, oye, NO me comí nada de cada tipo del Enclave, verás --}
 {915}{}{Mejor me marcho.}
 {920}{}{¿Sabes lo que estoy pensando, }
-{921}{}{Eres un héroe, }
+{921}{}{Eres una heroína, }
 {922}{}{Sí}
 {924}{}{Sí y sí. Adiooos.}
 {926}{}{Claro, qué demonios. He resuelto este juego. Hagámoslo.}
@@ -324,8 +324,8 @@
 {1200}{}{Yo... no me siento muy bien.}
 {1201}{}{El verdadero amor triunfa de nuevo. ¡Tu esposa parece mortalmente asqueada, pero al menos eres 3 fichas más rico!}
 {1250}{}{Te has convertido en una estrella. Una gran y resplandeciente estrella.}
-{5200}{}{! ¡Precisamente el héroe que queríamos ver!}
-{5201}{}{, nuestro amigo y héroe, tenemos un trato para ti!}
+{5200}{}{! ¡Precisamente la heroína que queríamos ver!}
+{5201}{}{, nuestra amiga y heroína, tenemos un trato para ti!}
 {5202}{}{! ¡Oímos lo que hiciste con el Enclave! Ahora discutamos lo que podemos hacer por TI…}
 {5225}{}{ es oro. Oro puro.}
 {5232}{}{! ¡Dulzura! ¡Tetazas!}

@@ -7,7 +7,7 @@
 {204}{}{ de Arroyo. Soy el Elegido.}
 {205}{}{No necesitas saber mi nombre ni nada sobre mí. Aléjate, asqueroso borracho.}
 {206}{}{No creo que un pueblo como Klamath tenga a un borracho como tú haciendo de guía, o cualquier otra cosa.}
-{300}{}{El Elegido. Oh, gran }
+{300}{}{La Elegida. Oh, gran }
 {301}{}{, debes ser muy importante y poderoso entre los tuyos. Seguro que alguien de tan alta (hic) posición estaría encantado de mantener la costumbre de dar propina al guía del pueblo (urp).}
 {302}{}{En vez de eso te daré un consejo... mantente alejado del licor.}
 {303}{}{Propina, ¿eh? Supongo que 5 dólares bastarán para que desaparezcas de mi vista.}
@@ -22,7 +22,7 @@
 {451}{}{No gracias, creo que podré arreglármelas yo solo.}
 {452}{}{Bueno, lo cierto es que tengo un par de preguntas.}
 {453}{}{Aldo, estoy buscando a un vendedor de antigüedades. Ya sabes, cosas muy viejas.}
-{500}{}{Pregunta, oh, benefactor mío.}
+{500}{}{Pregunta, oh, benefactora mía.}
 {501}{}{¿Qué hace la gente en Klamath?}
 {502}{}{¿Dónde puedo comerciar o encontrar curación?}
 {503}{}{Háblame de los geckos.}

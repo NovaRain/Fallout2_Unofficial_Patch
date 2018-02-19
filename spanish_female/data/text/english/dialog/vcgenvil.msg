@@ -2,7 +2,7 @@
 {101}{}{Ves a una aldeana.}
 {102}{}{Hola.}
 {103}{}{Buenos días.}
-{104}{}{Bienvenido a nuestro poblado.}
+{104}{}{Bienvenida a nuestro poblado.}
 {105}{}{Los monstruos nos protegen.}
 {106}{}{No tardes.}
 {107}{}{Pronto necesitaremos esas armas.}

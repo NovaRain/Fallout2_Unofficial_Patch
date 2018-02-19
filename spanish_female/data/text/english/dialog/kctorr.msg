@@ -1,8 +1,8 @@
 {100}{}{Ves a un hombre muy grande, cubierto de polvo, con la mirada perdida y una sonrisilla.}
 {101}{}{Ves a Torr Buckner, el tonto del pueblo.}
 {102}{}{Ves a un hombre grande y musculoso vestido con ropa sucia, cubierta de polvo y barro, y que tiene una sonrisa beatifica en su rostro.}
-{110}{}{Malo. Hace pupa Torr. ¡Vete!}
-{111}{}{¡Eres malo! No pupa Torr.}
+{110}{}{Mala. Hace pupa Torr. ¡Vete!}
+{111}{}{¡Eres mala! No pupa Torr.}
 {112}{}{¡Owwww! ¡Vete!}
 {113}{}{No más pupa Torr.}
 {114}{}{Torr bueno. Torr no daño.}
@@ -18,7 +18,7 @@
 {140}{}{Yo Torr. (Soy Torr. ¿Puedo ayudarte?)}
 {141}{}{Yo Torr.}
 {142}{}{Tú Torr. (Hola, Torr. Tengo un par de preguntas que hacerte.)}
-{143}{}{Encantado de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?}
+{143}{}{Encantada de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?}
 {144}{}{Estoy aquí por los brah... err, los mu-mus.}
 {150}{}{Yo protejo mu-mus de hombres bicho. (Protejo a los brahmines de nuestra familia de los feroces ataques nocturnos de criaturas bípedas con caparazón a las que yo llamo hombres bicho.)}
 {151}{}{Yo protejo mu-mus de hombres bicho.}

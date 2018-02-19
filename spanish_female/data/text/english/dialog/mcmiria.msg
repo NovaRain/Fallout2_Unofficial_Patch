@@ -1,7 +1,7 @@
 {100}{}{¡Oh, Dios! Una maciza muy atractiva.}
 {101}{}{Ves a Miria.}
 {102}{}{No estas seguro del porqué, pero las medidas 90-60-90 te vienen a la mente.}
-{150}{}{¡Cabrón!}
+{150}{}{¡Puta!}
 {151}{}{¡Cómo te atreves a volver por aquí!}
 {152}{}{¡Que asco!}
 {153}{}{Espero que los dos seáis felices juntos.}
@@ -72,7 +72,7 @@
 {450}{}{Uhhh, es con papi con quien deberías hablar.}
 {470}{}{Uhhh, es con tío Biff con quien deberías hablar.}
 {500}{}{Genial, creo que ahora tendré que ser yo la que lleve este basurero.}
-{1000}{}{¿Qué hacemos ahora, querido?}
+{1000}{}{¿Qué hacemos ahora, querida?}
 {1001}{}{¿Qué hacemos ahora, cariño?}
 {1002}{}{¿Qué hacemos ahora, tesoro?}
 {1003}{}{¿Qué hacemos ahora, amorcito?}

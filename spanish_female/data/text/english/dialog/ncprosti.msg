@@ -89,8 +89,8 @@
 {263}{}{¡Mira! Es }
 {264}{}{}
 {265}{}{Ese sí es un problema que QUIERO tener.}
-{266}{}{¿Quieres saltar en el cuadrilátero conmigo, campeón?}
-{267}{}{¿Quieres boxear, campeón?}
+{266}{}{¿Quieres saltar al cuadrilátero conmigo, campeona?}
+{267}{}{¿Quieres boxear, campeona?}
 {268}{}{¿Cómo lo llevas, }
 {269}{}{¿Me buscas a mí?}
 {270}{}{¿Por qué no te pasas por aquí más a menudo?}
@@ -98,7 +98,7 @@
 {272}{}{¿Necesitas compañía, }
 {273}{}{Eres MUY rudo.}
 {274}{}{Me haces sentir débil, ¿lo sabías?}
-{275}{}{Menudo equipamiento llevas.}
+{275}{}{Tienes una buena unidad ahí.}
 {276}{}{¿Necesitas a alguien que se encargue de eso que tienes, campeón?}
 {277}{}{Oye… cuidado con el Masticador. Es un auténtico capullo. Una vez intentó arrancarme una oreja.}
 {278}{}{¡Mira! Es }
@@ -291,7 +291,7 @@
 {465}{}{Dime que eso no es un mutante.}
 {466}{}{Ese mutante supondrá un extra. Un GRAN extra.}
 {467}{}{Oh, oh. Mutantes en Nuevo Reno. Eso traerá problemas.}
-{468}{}{Ese mutante es un cabronazo.}
+{468}{}{Ese mutante es un hijoputa de los grandes.}
 {469}{}{Parece como si ese mutante pudiera aplastarme con una sola mano. Hmmmnnn.}
 {470}{}{Nunca he sabido lo que cobrarle a un mutante.}
 {471}{}{¡Oye, Myron!}

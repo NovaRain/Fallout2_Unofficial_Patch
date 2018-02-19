@@ -11,7 +11,7 @@
 {155}{}{Otro de la banda de los Dunton.}
 {156}{}{¿Qué estás mirando?}
 {157}{}{Muévete.}
-{158}{}{Invítanos a una ronda, recién llegado.}
+{158}{}{Invítanos a una ronda, recién llegada.}
 {159}{}{Espero que puedas aguantar el licor.}
 {160}{}{No tienes pinta de caníbal.}
 {161}{}{No hay habitaciones para los tuyos.}
@@ -40,7 +40,7 @@
 {210}{}{Si eres listo te alejarás de los Dunton.}
 {211}{}{Si estás ansioso, ve a la Casa de Baños.}
 {212}{}{Al oeste está el barrio de los tramperos, si buscas un lugar donde dormir.}
-{213}{}{Bienvenido, amigo.}
+{213}{}{Bienvenida, amiga.}
 {214}{}{Espero que te guste nuestra ciudad.}
 {215}{}{Klamath es el mejor lugar del mundo.}
 {216}{}{Me alegro de verte.}

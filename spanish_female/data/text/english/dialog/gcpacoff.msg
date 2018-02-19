@@ -38,7 +38,7 @@
 {137}{powr6_a}{Elegido, ¿eh? Bien, disculpa si no me desmayo por la impresión, pero estoy demasiado ocupado para esto, su Alteza.}
 {138}{}{Arrodíllate ante mí y puede que te perdone la vida. Caramba, me gusta cómo suena eso.}
 {139}{}{Ya no insisto más en una genuflexión. Una ligera reverencia para besar mi anillo debería ser suficiente.}
-{140}{}{Eh, me refiero a que me han "elegido" para reparar el comunicador. Parece que ya nada funciona como es debido.}
+{140}{}{Eh, me refiero a que he sido "elegida" para reparar el comunicador. Parece que ya nada funciona como es debido.}
 {141}{}{Bueno, creo que ya he tenido bastante de tu insolencia. Adiós, campesino.}
 {142}{powr7_a}{¿Unidad tres? ¿No estábais en la base Navarro?}
 {143}{}{¿Base Navarro? Oh, sí, la base Navarro. Ahí es donde estamos. Claro. Esa me la sabía.}

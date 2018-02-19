@@ -24,7 +24,7 @@
 {121}{}{Sí, bueno, de todos modos yo no me ocupo de basura como vosotros.}
 {122}{}{Bien, no podemos permitirte hacer eso.}
 {123}{}{Uno hace lo que tiene que hacer.}
-{124}{}{¿Crees que ellos se lo toman al pie de la letra? Tienes mucho que aprender acerca del mundo, amigo.}
+{124}{}{¿Crees que ellos se lo toman al pie de la letra? Tienes mucho que aprender acerca del mundo, amiga.}
 {125}{}{¿Puedo hacer algo para ayudar?}
 {126}{}{Los chicos de Ciudad Refugio no son de los más valientes. Si peleas con ellos echan a correr hacia las
  colinas. Si tuviéramos algunas armas, creo que podríamos encargarnos de ellos.}
@@ -44,10 +44,10 @@
 {139}{}{Con esto, podremos hacer algo de este lugar en los próximos meses. Si alguna vez necesitas
  un lugar en el que descansar, siempre serás bienvenido aquí.}
 {140}{}{No hay de qué.}
-{141}{}{Bienvenido de nuevo. Las cosas están yendo bien. vamos a trabajar para expandir el poblado.}
+{141}{}{Bienvenida de nuevo. Las cosas están yendo bien. vamos a trabajar para expandir el poblado.}
 {142}{}{¡Hola de nuevo! Las cosas están yendo bien, como puedes ver. Echa un vistazo si tienes tiempo.}
 {143}{}{Seguimos construyendo. Esperamos expandir los muros de nuevo el próximo mes.}
-{144}{}{¡Saludos! El pueblo se ha expandido de nuevo tal y como esperábamos. Como siempre, eres bienvenido.}
+{144}{}{¡Saludos! El pueblo se ha expandido de nuevo tal y como esperábamos. Como siempre, eres bienvenida.}
 {145}{}{Ya no tenemos nada que temer de Ciudad Refugio, y podremos vivir aquí en paz.
  Gracias de nuevo, errante.}
-{146}{}{Sencillamente no vayas matando a cualquier cosa por ahí, simplón.}
+{146}{}{Sencillamente no vayas matando a cualquier cosa por ahí, simplona.}

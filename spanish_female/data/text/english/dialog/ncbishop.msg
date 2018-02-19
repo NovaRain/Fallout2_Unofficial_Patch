@@ -3,9 +3,9 @@
 {151}{}{Ves al señor Bishop. Parece severo.}
 {200}{}{Demuestras tener pelotas viniendo aquí. }
 {201}{}{Tienes pelotas, desde luego. }
-{202}{}{¿Por qué simplemente no te grabas una señal en el pecho que diga 'tonto hijoputa?' }
+{202}{}{¿Por qué simplemente no te grabas una señal en el pecho que diga 'tonta hijoputa?' }
 {203}{}{Traga plomo, }
-{204}{}{ bastardo.}
+{204}{}{ zorra.}
 {205}{}{Traga plomo, estúpido hijo de puta.}
 {206}{}{Traga plomo, zorra.}
 {207}{}{Yo no GUSTA sabor malo de plomo}
@@ -18,7 +18,7 @@
 {222}{}{.}
 {223}{}{¿Yo quieén?}
 {224}{}{Te alejas}
-{225}{}{Soy un guerrero con la sagrada misión de recuperar el Kit de Creación del Jardín del Edén. ¿Sabes dónde puedo encontrarlo?}
+{225}{}{Soy una guerrera con la sagrada misión de recuperar el Kit de Creación del Jardín del Edén. ¿Sabes dónde puedo encontrarlo?}
 {226}{}{Estoy buscando un Kit de Creación del Jardín del Edén. ¿Puedes ayudarme?}
 {227}{}{Estoy buscando un lugar llamado Refugio 13. ¿Has oído hablar de él?}
 {228}{}{Pensé que podrías tener algo de trabajo para mí.}
@@ -50,8 +50,8 @@
  ese maletín.}
 {285}{}{(Para sí mismo). Por supuesto, ser capaz de azotar a una multitud hasta el frenesí no está del todo mal si uno va a entrar en política…
  (Te estudia con sospecha). No eres de la RNC también, ¿no? Tomcat es casi el único de ellos al que soporto por ahora.}
-{286}{}{Sí, también pertenezco a la RNC. No es lo mejor, pero puede pasar. Soy algo así como un agente libre.}
-{287}{}{No, sólo soy un viajero. Estuve de acuerdo en ayudar a Moore porque necesitaba trabajo.}
+{286}{}{Sí, también pertenezco a la RNC. No es lo mejor, pero puede pasar. Soy algo así como una agente libre.}
+{287}{}{No, sólo soy una viajera. Estuve de acuerdo en ayudar a Moore porque necesitaba trabajo.}
 {295}{}{(Señala con la cabeza el maletín). Bien, este maletín lo merecía. Un pequeño trozo del interior de Ciudad Refugio, un poco de esa preciosa
  tecnología de la que la zorra frígida de Lynette no quiere separarse… pero oye, tribal, aún no te he pagado. Aquí está lo tuyo.}
 {296}{}{Verás… no tengo ningún otro trabajo pendiente en este momento. ¿Tienes alguno para mí?}
@@ -98,7 +98,7 @@
 {381}{}{Un millar, o nada. Este es un trabajo especial, y tendré gastos. He de entrar en RNC, preparar el 'accidente',
  y lo más probable es que tenga que pagar aún MÁS dinero en algún objeto especial 'propenso a los accidentes'. Así que
  no me presiones a MÍ, ¿de acuerdo?}
-{382}{}{Que sean mil, y tienes a tu asesino.}
+{382}{}{Que sean mil, y tienes a tu asesina.}
 {383}{}{750 fichas deberían bastar.}
 {384}{}{500 fichas entonces. Westin es hombre muerto.}
 {385}{}{Entonces olvídalo. Consigue a algún otro. Me largo de aquí.}
@@ -299,4 +299,4 @@
 {900}{}{Has entregado el maletín de Thomas Moore.}
 {925}{}{Has asesinado a Westin.}
 {950}{}{Te has cargado a Carlson.}
-{975}{}{Te has convertido en Iniciado de la Familia Bishop.}
+{975}{}{Te has convertido en Iniciada de la Familia Bishop.}

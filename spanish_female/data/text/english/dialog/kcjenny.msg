@@ -2,7 +2,7 @@
 {101}{}{Ves a Jenny, la chica de la casa de baños.}
 {200}{}{Cielos, señor, eso ha sido rápido. Debe ser bastante nuevo en esto. Relájese un poco y disfrutará más.}
 {201}{}{Gracias, Jenny, supongo que necesito un poco más de práctica con esto.}
-{210}{}{Ha estado bien. Parece que te manejas mejor con las mujeres que la mayoría de hombres de tu edad.}
+{210}{}{Ha estado bien. Parece que te manejas mejor con las mujeres que la mayoría de mujeres de tu edad.}
 {211}{}{Me alegro de que te haya gustado tanto como a mí.}
 {220}{}{Tienes un montón de aguante. Eso es lo bueno de los chicos jóvenes. Ojalá hubiera más como tú en el pueblo.}
 {221}{}{Me ha gustado el baño, Jenny. Me quedaría un ratito más contigo si no tuviera otras cosas que hacer.}
@@ -45,7 +45,7 @@
 {340}{}{No sé bien dónde está Vic. Sé que tiene una casa justo al final de esta calle, al este. Podría estar comerciando con tribales o incluso en La Guarida, por lo que sé. Espero que esté bien. Para mí ya era algo más que un cliente habitual.}
 {341}{}{Espero que no le pase nada, por su bien. Déjame hacerte otra pregunta.}
 {342}{}{Espero que vuelva contigo. Debo irme. Adiós.}
-{350}{}{Hola, guapo. Me llamo Jenny. ¿Estás buscando un baño y que te froten bien... la espalda?}
+{350}{}{Hola, guapa. Me llamo Jenny. ¿Estás buscando un baño y que te froten bien... la espalda?}
 {351}{}{Eh, no, gracias; tan sólo echaba un vistazo.}
 {352}{}{La verdad es que me gustaría que me frotaran bien (codazo, codazo, guiño, guiño).}
 {353}{}{Sólo tengo unas pocas preguntas que me gustaría que respondieras, si no te importa.}

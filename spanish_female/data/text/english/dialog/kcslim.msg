@@ -56,7 +56,7 @@
 {224}{}{No quiero la llave. Adiós.}
 {230}{}{Ya has conseguido lo que querías. Ahora ten cuidado.}
 {231}{}{Gracias.}
-{232}{}{Eres duro en los negocios. Espero que valiera la pena.}
+{232}{}{Eres dura en los negocios. Espero que valiera la pena.}
 {240}{}{Bien, supongo que no necesito esta llave tanto como tú, ¿no? ¿Estás seguro de que tienes todo lo que quieres?}
 {241}{}{Ups; sabía que necesitaba algo más.}
 {242}{}{Eh, Flaco, hay un par de cosas que quiero preguntarte.}

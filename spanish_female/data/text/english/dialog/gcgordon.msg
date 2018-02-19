@@ -74,8 +74,8 @@
 {342}{}{¿La información?}
 {343}{}{Por supuesto. Llevo el símbolo con orgullo. Necesito la información ahora mismo.}
 {344}{}{Shhh, no ahora, hermano. Nos vigilan. Adiós.}
-{350}{}{Llevas el símbolo de la Renovación. Eres uno de nosotros. ¡Renovación, camarada! ¡Renovación!}
-{351}{}{Sí, soy uno de nosotros. Reno, eh, ¡Renovación!}
+{350}{}{Llevas el símbolo de la Renovación. Eres una de nosotros. ¡Renovación, camarada! ¡Renovación!}
+{351}{}{Sí, soy una de nosotros. Reno, eh, ¡Renovación!}
 {352}{}{Acabo de encontrar esta cosa, ¿qué es?}
 {353}{}{Recogí esto de un cuerpo, ¿qué diablos es?}
 {360}{}{¿Acaso él no te envió a buscar el disco de datos?}

@@ -9,7 +9,7 @@
 {108}{}{¿Has oído hablar en alguna ocasión de un lugar llamado el Enclave?}
 {109}{}{Nadie que te importe.}
 {110}{}{Hmm, desarrollo craneal por debajo de la media... retraso del desarrollo intelectual. Aunque no hay ninguna mutación física. No, simplemente no lo harás, me temo. Buenos días.}
-{111}{}{¿El Elegido? Por supuesto, eso tiene sentido. Interesante... me temo que no puedo ayudarte. Fui asignado a investigación ciber-genética, no al Proyecto de Comportamiento de Refugio.}
+{111}{}{¿La Elegida? Por supuesto, eso tiene sentido. Interesante... me temo que no puedo ayudarte. Fui asignado a investigación ciber-genética, no al Proyecto de Comportamiento de Refugio.}
 {112}{}{¿De qué estás hablando?}
 {113}{}{¿Proyecto de Comportamiento de Refugio?}
 {114}{}{¿Ciber-genética? No recuerdo haberla estudiado.}
@@ -23,7 +23,7 @@
 {122}{}{Por supuesto, mis ingenuos colegas trataban de resolver todo el problema de la forma más cruda posible. Purificación, de hecho. He de admitir que hubo algunos problemas iniciales, pero ahora tengo algo que funciona... creo.}
 {123}{}{}
 {124}{}{Continúa}
-{125}{}{De hecho, podrías ayudarme a realizar las pruebas de campo. ¿Estás interesado?}
+{125}{}{De hecho, podrías ayudarme a realizar las pruebas de campo. ¿Estás interesada?}
 {126}{}{¿Pruebas de campo? ¿Qué quieres decir?}
 {127}{}{Ni por asomo.}
 {128}{}{He preparado una pequeña muestra del suero, pero necesito inyectarla en un anfitrión.}
@@ -39,7 +39,7 @@
 {138}{}{Estás mal de la cabeza. Completamente chiflado.}
 {139}{}{Excelente. Aquí está el suero, dentro de un hipoestimulante. Todo lo que tienes que hacer es usarlo sobre un supermutante y después volver a informarme. Como he dicho, Broken Hills: es el mejor lugar para buscar. Buena suerte.}
 {140}{}{Dile al señor Merk que mi respuesta no ha cambiado. No tengo ningún interés en sus "acuerdos comerciales". Gracias y buenos días.}
-{141}{}{No sirve de nada, no voy a volver. Nadie reconocía la labor que estaba haciendo, así que no pretendas ser mi amigo. ¡Muchas gracias!}
+{141}{}{No sirve de nada, no voy a volver. Nadie reconocía la labor que estaba haciendo, así que no pretendas ser mi amiga. ¡Muchas gracias!}
 {142}{}{De acuerdo entonces, no tenemos nada de que hablar. Buenos días.}
 {143}{}{Entonces, ¿qué tal ha ido? ¿La prueba está hecha?}
 {144}{}{Sí.}
@@ -58,11 +58,11 @@
 {157}{}{... por lo que la tasa de mutación se estabiliza... no me molestes ahora.}
 {158}{}{Adaptación primitiva a condiciones ambientales. Fascinante.}
 {159}{}{¿No tienes un calibrador de oscilación? No, claro que no.}
-{160}{}{, el Elegido. Estoy buscando el Refugio 13.}
+{160}{}{, la Elegida. Estoy buscando el Refugio 13.}
 {161}{}{Buenos días y una mierda, capullo, y lo digo con toda cortesía. Entrega esos papeles o voy a empezar a arrancarte los dedos. A ver lo buen doctor que eres entonces.}
 {162}{}{Bien, se lo haré saber.}
 {163}{}{Eh... está bien, los papeles están en mi escritorio, allí. Tómalos; pero no me dañes las manos. ¿De acuerdo?}
-{164}{}{¡Bésame el culo, cretino! ¡Guardias! ¡Guardias!}
+{164}{}{¡Bésame el culo, zorra! ¡Guardias! ¡Guardias!}
 {165}{}{Ahora estás siendo razonable. Se lo haré saber al señor Merk.}
 {166}{}{Lo lamentarás, Doc.}
 {167}{}{¡Oye! Tienes exactamente diez segundos para devolver esos papeles a su sitio antes que que llame a los guardias.}

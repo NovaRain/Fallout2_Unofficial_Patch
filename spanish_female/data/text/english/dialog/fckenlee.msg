@@ -1,7 +1,7 @@
 {100}{}{Ves a un fornido Shi que parece lleno de conocimiento.}
 {101}{}{Ves a Ken Lee, consejero del Emperador.}
 {102}{}{Ves a un fornido Shi con gafas y una media sonrisa.}
-{103}{}{¿Qué se te ofrece, amigo?}
+{103}{}{¿Qué se te ofrece, amiga?}
 {104}{}{¿Qué quieres?}
 {105}{}{¿Qué puedo hacer por ti?}
 {106}{}{¿Tú?}
@@ -14,9 +14,9 @@
 {113}{}{Nada. Gracias. Adiós.}
 {114}{}{Soy Ken Lee, consejero del Emperador. Y tú, amigo mío, parecer ser un ingenuo, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición.}
 {115}{}{¡G-gracias!}
-{116}{}{Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, bobo.}
+{116}{}{Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, boba.}
 {117}{}{¡Grrr!}
-{118}{}{Ahh, viajero, no puedo ayudarte. Tal vez puedes encontrar la respuesta a tu búsqueda de otra forma. Buenos días.}
+{118}{}{Ahh, viajera, no puedo ayudarte. Tal vez puedes encontrar la respuesta a tu búsqueda de otra forma. Buenos días.}
 {119}{}{¡Nuevos días!}
 {120}{}{Soy Ken Lee. Consejero del Emperador de los Shi. Doy luz a la sabiduría del Emperador. ¿Y quién eres tú?}
 {121}{}{Me gustaría ver al Emperador.}
@@ -36,7 +36,7 @@
 {135}{}{No a todo el mundo se le concede la oportunidad de ver al Emperador. Primero hay que demostrar valía. ¿Estás dispuesto a probar la tuya?}
 {136}{}{Sí.}
 {137}{}{No. Ya he hecho suficientes pruebas en los últimos meses como para el resto de mi vida.}
-{138}{}{No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajero. Buenos días.}
+{138}{}{No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajera. Buenos días.}
 {139}{}{[HECHO]}
 {140}{}{Los insultos no te llevarán a ningún lado, salvo al exterior del Palacio de Acero. Controla tu lengua.}
 {141}{}{Hazlo tú.}
@@ -103,7 +103,7 @@
 {202}{}{Nuestros espías informan que le has entregado los planos del vertibird a los Hubologistas. Róbaselos para nosotros y serás recompensado.}
 {203}{}{Como quieras. Tengo algunas preguntas.}
 {204}{}{Ni hablar.}
-{205}{}{Gracias por los planos del vertibird, viajero. ¿Qué puedo hacer por ti?}
+{205}{}{Gracias por los planos del vertibird, viajera. ¿Qué puedo hacer por ti?}
 {206}{}{Tengo preguntas.}
 {207}{}{Um... nada.}
 {208}{}{Una vez hayas conseguido los planos del vertibird, entrégaselos al doctor Wong Yi Tze. Él les dará buen uso.}

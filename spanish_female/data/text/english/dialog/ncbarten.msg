@@ -20,7 +20,7 @@
 {227}{}{Van a matarte si te quedas. Desaparece.}
 {228}{}{Se nos ha acabado todo. Ahora lárgate, imbécil.}
 {236}{}{! ¿Cuál es tu veneno?}
-{237}{}{¡Heeeey, campeón! ¿Cuál es tu veneno?}
+{237}{}{¡Heeeey, campeona! ¿Cuál es tu veneno?}
 {238}{}{¿Cuál es tu veneno, colega?}
 {239}{}{¿Cuál es tu veneno, cariño?}
 {240}{}{V-eneno suena bien}

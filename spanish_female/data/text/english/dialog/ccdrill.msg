@@ -11,7 +11,7 @@
 {110}{}{Soy }
 {111}{sgnt4}{Oh, enternecedor. Me han mandado a un retrasado. Escucha atentamente. Montarás guardia en el hangar. Ese será tu puesto de servicio. Ahora ve allí y quédate haciendo guardia hasta que se te diga otra cosa. ¡Muévete, soldado!}
 {112}{}{Me voy, yo.}
-{113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusano?}
+{113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusanaza?}
 {114}{}{Me llamo }
 {115}{sgnt6}{No soy un señor. Trabajo para vivir, IM-BÉ-CIL. Me llamarás Sargento o sargento Dornan. ¿Te enteras?}
 {116}{}{¡Sí, Sargento!}
@@ -53,7 +53,7 @@
 {152}{}{¡No necesito papeles!}
 {153}{}{No llevo los papeles encima. Están en mi taquilla.}
 {154}{}{¿Papeles? ¡Tengo tus papeles aquí mismo!}
-{155}{sgnt17}{Respuesta equivocada, gusano. ¡Debes llevar tus papeles contigo en todo momento y deberías saberlo!}
+{155}{sgnt17}{Respuesta equivocada, gusanaza. ¡Debes llevar tus papeles contigo en todo momento y deberías saberlo!}
 {156}{}{Ups.}
 {157}{}{¡Permanece alerta, soldado!}
 {158}{}{Bien. Estás atento. ¡Sigue así!}
@@ -67,7 +67,7 @@
 {166}{}{¡Guardias! ¡Intrusos!}
 {167}{}{¿Quién demonios ha dejado que estos bastardos entren? ¡Guardias!}
 {168}{}{¡Alerta! ¡Espías en el complejo!}
-{169}{}{¡¿Dónde está ese soldado patoso?!}
+{169}{}{¿Dónde está esa soldado patosa?}
 {200}{}{.}
 {201}{}{, Señor!}
 {300}{}{¡Te dije que no volvieras aquí sin tu uniforme!}

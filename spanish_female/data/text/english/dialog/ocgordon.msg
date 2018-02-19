@@ -2,7 +2,7 @@
 {101}{}{Ves al Guardián del Santuario.}
 {102}{}{Ves a un hombre delgado con ropajes largos. Tendrá cuarenta y tantos años, y sus rasgos son suaves y
  no gastados por el tiempo. Parece estar meditando.}
-{103}{}{Bienvenido, viajero. Me llamo Gordon, y soy el Guardián del Santuario. ¿En qué puedo ayudarte?}
+{103}{}{Bienvenida, viajera. Me llamo Gordon, y soy el Guardián del Santuario. ¿En qué puedo ayudarte?}
 {104}{}{¿Santuario?}
 {105}{}{¿Hago preguntas?}
 {106}{}{Eh... no recuerdo. Adiós.}

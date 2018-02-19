@@ -19,7 +19,7 @@
 {161}{}{Oh, bien, lo haré. Ahora, si no le importa, me gustaría información sobre otro asunto.}
 {162}{}{Bien, hablaré con ella. Adiós.}
 {170}{}{Será mejor que no intentes hacer ninguna jugarreta. ¿Qué es lo que quieres?}
-{171}{}{Como puedo ayudarte, ¿amigo?}
+{171}{}{Como puedo ayudarte, ¿amiga?}
 {172}{}{Hábleme de Smiley, el trampero.}
 {173}{}{Me preguntaba si es usted con quien debería hablar para ponerme al día de los asuntos locales.}
 {174}{}{Necesito una habitación, por favor.}
@@ -37,7 +37,7 @@
 {203}{}{Ahora mismo no la quiero. Déjeme preguntarle otra cosa.}
 {204}{}{Después de todo, no creo que necesite la habitación. Adiós.}
 {210}{}{Me temo que ahora mismo no tienes suficiente dinero.}
-{211}{}{Oh. Supongo que estoy un poco corto de dinero ahora mismo. Déjeme preguntarle otra cosa.}
+{211}{}{Oh. Supongo que estoy un poco corta de dinero ahora mismo. Déjeme preguntarle otra cosa.}
 {212}{}{Lo siento. Será mejor que vaya a buscar más dinero. Adiós.}
 {220}{}{Gracias. Soy tan feliz de que hayas encontrado a mi chico. Creía que nunca volveríamos a verle.}
 {221}{}{Torr amigo.}
@@ -120,7 +120,7 @@
 {510}{}{No habrás visto a un trampero llamado Smiley a las afueras del pueblo, ¿no? (para sí misma) Ha estado fuera demasiado tiempo. Nunca debí haberle dejado irse a semejante búsqueda.}
 {520}{}{Ha sido de mucha ayuda. Gracias.}
 {530}{}{Tan sólo me preguntaba que está ocurriendo aquí.}
-{600}{}{Eres maravilloso.}
+{600}{}{Eres maravillosa.}
 {610}{}{Eres increíble. Me has devuelto a mi hijo Torr y a mi Smiley. Nunca podré agradecértelo lo suficiente.}
 {620}{}{Has encontrado a mi hijo Torr. Muchas gracias.}
 {630}{}{Tú eres el que ha encontrado a mi Smiley. Gracias, muchísimas gracias.}

@@ -2,7 +2,7 @@
 {101}{}{Es el camarero.}
 {102}{}{Es un tipo de aspecto rudo con la nariz torcida y las orejas hinchadas, como si hace años hubiera sido boxeador.}
 {103}{}{¿Qué puedo servirte?}
-{104}{}{Oye, tú eres el que hizo renunciar a Jack, ¿verdad? Ese fue un buen trabajo. ¿Qué quieres?}
+{104}{}{Oye, tú eres la que hizo renunciar a Jack, ¿verdad? Ese fue un buen trabajo. ¿Qué quieres?}
 {105}{}{Claro.}
 {106}{}{Bebida.}
 {107}{}{¿Quién es el tipo grande de ahí?}

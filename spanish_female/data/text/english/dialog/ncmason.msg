@@ -7,7 +7,7 @@
 {215}{}{Puedes entrar… ESTA vez.}
 {220}{}{Estás en el lugar equivocado, tribal. Vete.}
 {221}{}{Este no es un estudio pornográfico. Vete.}
-{222}{}{¿Qué estás haciendo aquí, sonado? ¿Te has perdido de camino al ring? Sal de aquí.}
+{222}{}{¿Qué estás haciendo aquí, sonada? ¿Te has perdido de camino al ring? Sal de aquí.}
 {223}{}{No entiendo.}
 {224}{}{Oog hace declaración de misión.}
 {225}{}{Te alejas}
@@ -16,7 +16,7 @@
 {228}{}{¿Puedo saber dónde has conseguido esas pistolas láser?}
 {229}{}{Se dice que los Salvatore envenenásteis al chico de Wright.}
 {230}{}{De acuerdo, me marcho.}
-{240}{}{Piérdete, retrasado. No voy a volver a repetírtelo.}
+{240}{}{Piérdete, retrasada. No voy a volver a repetírtelo.}
 {241}{}{¿Repetir qué?}
 {250}{}{La vida es un cúmulo de decepciones. Ahora LÁRGATE, capiche?}
 {251}{}{(Sarcástico) ¿Tras esa puerta? ¿Esa de ahí? Pues esa es la estancia del señor SALVATORE. Y ahora PIÉRDETE.}
@@ -42,7 +42,7 @@
  mueves tu culo ahora mismo, te quemo vivo. Y ahora lárgate.}
 {298}{}{¡Está bien! Me voy, me voy.}
 {299}{}{Te vas en silencio.}
-{305}{}{Te he AVISADO, capullo, ahora vas a... (Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore dice que puedes entrar... }
+{305}{}{Te he AVISADO, imbécil, ahora vas a... (Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore dice que puedes entrar... }
 {306}{}{Oh, entraré entonces. Después de matarte.}
 {307}{}{Gracias, capullo sin remedio, me aseguraré de mencionar tu comportamiento al señor Salvatore.}
 {308}{}{De acuerdo entonces.}
@@ -150,7 +150,7 @@
 {605}{}{¡¿Qué, te tengo que llevar de la MANO?! La cosa más fácil del mundo, joder, y me vienes lloriqueando
  'May-son, May-son, ese no ha pagado su tributo'.}
 {606}{}{Espera...}
-{615}{}{(En cuanto te ve, se burla). Precisamente el tonto hijoputa que estaba buscando. }
+{615}{}{(En cuanto te ve, se burla). Precisamente la tonta hijaputa que estaba buscando. }
 {617}{}{No puedes cobrarle tributo a los muertos. (Saca sus armas). La has jodido pero BIEN.}
 {618}{}{Sí, bueno, de todas formas ya estaba harto de ti...}
 {619}{}{¡No, TÚ eres quien LA HA JODIDO PERO BIEN! ¡¿Me OYES, MASON?! TÚ ERES QUIEN LA HA JOD --}
@@ -161,12 +161,12 @@
  armado… y no te traigas un tirachinas… Luego vuelves y hablas conmigo.}
 {642}{}{El señor Salvatore dijo que me darías una pistola láser.}
 {643}{}{¿De qué va esa transacción que vamos a hacer?}
-{644}{}{Ya estoy listo para acompañaros. Vamos.}
+{644}{}{Ya estoy lista para acompañaros. Vamos.}
 {645}{}{Dame algo de tiempo para prepararme, y enseguida vuelvo.}
 {655}{}{Sí, ese es el trato. Aquí tienes… pero no juegues con ella. Si le haces daño a QUIEN SEA con esa cosa,
  te meto una bala en la cabeza.}
 {656}{}{¿Me puedes enseñar a usarla?}
-{658}{}{Muy bien, pues estoy listo. Vamos allá.}
+{658}{}{Muy bien, pues estoy lista. Vamos allá.}
 {665}{}{(Resopla). Si el jefe no te lo ha dicho, no hay necesidad de que lo sepas. Así que cierra el pico… y tampoco le
  digas a nadie lo que nos traemos entre manos, o me aseguraré de no vuelves a abrir la boca nunca más. Literalmente.}
 {675}{}{Vamos allá.}
@@ -174,7 +174,7 @@
 {685}{}{Procura darte prisa. Sólo tenemos un margen de 24 horas hasta que el trato se cierre. Si llegas tarde, me aseguraré
  de que te pudras en el Gólgota.}
 {686}{}{No te preocupes. Estaré allí.}
-{695}{}{¿Has tenido una buena siesta? ¿Quizá AHORA estés listo para ir?}
+{695}{}{¿Has tenido una buena siesta? ¿Quizá AHORA estés lista para ir?}
 {696}{}{¿De qué va esa transacción que vamos a hacer?}
 {697}{}{Sí. Hagámoslo.}
 {698}{}{Necesito un poco más de tiempo, y después volveré.}
@@ -187,7 +187,7 @@
 {725}{}{(Gruñe). Maldita sea… mira, primero, sujétala ASÍ. (Ajusta tu empuñadura). Ahora, la recámara de la munición
  está aquí… (Después de una hora, y algo de práctica, Mason ha mejorado tu habilidad con armas de energía).}
 {726}{}{Pero, ¿por qué necesito algo más aparte de esto? Estas pistolas parecen bastante potentes.}
-{728}{}{Muy bien, pues estoy listo. Vamos allá.}
+{728}{}{Muy bien, pues estoy lista. Vamos allá.}
 {729}{}{De acuerdo entonces. Dame un poco más de tiempo para prepararme, y volveré.}
 {735}{}{(Gruñe). Oye, cómo va…}
 {736}{}{[Guardas las cosas].}

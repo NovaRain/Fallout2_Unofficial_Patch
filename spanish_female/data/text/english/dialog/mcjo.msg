@@ -9,7 +9,7 @@
 {152}{}{Gracias por salvar a la gente de Modoc.}
 {153}{}{¿Qué estás haciendo?}
 {154}{}{¡Eh! ¡Deja eso tranquilo!}
-{155}{}{¡Ladrón!}
+{155}{}{¡Ladrona!}
 {156}{}{Lo siento, este puesto comercial está cerrado indefinidamente debido a la sequía.}
 {157}{}{¿Quién dice que he venido aquí para comerciar?}
 {158}{}{Soy nuevo aquí. ¿Qué puedes contarme sobre este pueblo?}

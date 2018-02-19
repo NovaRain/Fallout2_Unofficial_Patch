@@ -4,7 +4,7 @@
 {121}{}{Ves a una niña pequeña. Parece bastante alegre.}
 {150}{}{¡No me comas!}
 {151}{}{¡Eeeee! ¡El hombre del saco!}
-{152}{}{Papi dice que eres malo.}
+{152}{}{Papi dice que eres mala.}
 {153}{}{¡Aieeee! ¡Corred!}
 {154}{}{Me estás asustando.}
 {155}{}{Deja de mirarme.}
@@ -25,10 +25,10 @@
 {171}{}{¿Quieres jugar a las casitas?}
 {172}{}{¿De verdad tienes un hueso en la nariz?}
 {173}{}{¿Por qué tienes esa pinta tan rara?}
-{174}{}{Mi mamá dice que eres un salvaje.}
+{174}{}{Mi mamá dice que eres una salvaje.}
 {175}{}{¿Los de tu tribu os coméis a la gente?}
 {176}{}{¿Quién te ha vestido tan raro?}
-{177}{}{Seguro que eres más majo de lo que pareces.}
+{177}{}{Seguro que eres más maja de lo que pareces.}
 {178}{}{Vamos a jugar al pilla pilla. Tú la llevas.}
 {179}{}{No hueles tan mal.}
 {180}{}{¿Has visto a mi amigo invisible?}
@@ -42,7 +42,7 @@
 {188}{}{Tengo una piedrecita brillante.}
 {189}{}{¿Has visto a mi amigo invisible?}
 {190}{}{¿Puedo unirme a tu tribu?}
-{191}{}{Eres majo.}
+{191}{}{Eres maja.}
 {192}{}{Tienes una pinta muy rara.}
 {193}{}{¿Qué es lo que llevas puesto?}
 {194}{}{¡Quiero montar en brahmin!}
@@ -73,6 +73,6 @@
 {219}{}{¿Por qué has venido aquí?}
 {220}{}{Me gustas.}
 {221}{}{¿Te gusto?}
-{222}{}{¿Estás casado?}
+{222}{}{¿Estás casada?}
 {223}{}{Uno, dos, tres - ¡siii!}
-{300}{}{¡Extraño!}
+{300}{}{¡Una extraña!}

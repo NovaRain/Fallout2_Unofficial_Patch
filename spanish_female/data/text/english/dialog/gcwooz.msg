@@ -117,7 +117,7 @@ algo más.}
 {280}{}{(Wooz se te acerca) Déjame susurrártelo…}
 {281}{}{De acuerdo.}
 {282}{}{Ni hablar; tú lo que estás intentando es comerme los sesos, ¿no? Me voy. Hasta la próxima.}
-{290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegido. Por Cristo, menudo perdedor.}
+{290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegida. Por Cristo, menuda perdedora.}
 {291}{}{De todas formas no me quiero quedar en tu estúpido bar. No hace falta que 
 grites. Adiós.}
 {292}{}{Eso es, jodido leproso. Es hora de tu medicina de plomo.}

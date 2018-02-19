@@ -15,7 +15,7 @@
  enviemos a alguna parte?}
 {114}{}{Llévaselo a los Smith.}
 {115}{}{Lo siento, amigo. Te va a costar ochocientos.}
-{119}{}{Necesitas el dinero para pagarme, amigo.}
+{119}{}{Necesitas el dinero para pagarme, amiga.}
 {120}{}{Volveré con el dinero.}
 {121}{}{Es igual. Tengo que entregarlo ahora mismo.}
-{122}{}{Pensabas en servirte tú mismo, ¿eh? Maldito ladrón... ¡guardias! ¡Guardias!}
+{122}{}{Pensabas en servirte tú mismo, ¿eh? Maldita ladrona... ¡guardias! ¡Guardias!}

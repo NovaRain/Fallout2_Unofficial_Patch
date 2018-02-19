@@ -118,9 +118,9 @@
 {197}{}{Quieres dormir un poco, ¿eh? Bien, eso te costará 40 dólares. Incluye sábanas recién cambiadas y en su mayor
  parte limpias. ¿Te sigue interesando?}
 {198}{}{Me la quedaré, Lou.}
-{199}{}{Hmm, supongo que no estoy tan cansado. Deja que te pregunte por otro tema. }
+{199}{}{Hmm, supongo que no estoy tan cansada. Deja que te pregunte por otro tema. }
 {200}{}{Ahora mismo no tengo bastante dinero. Pero deja que te pregunte otra cosa.}
-{201}{}{Eres uno de los habituales de Fannie, ¿verdad? ¿Por qué no hablas con ella? Está por alguna parte.}
+{201}{}{Eres una de los habituales de Fannie, ¿verdad? ¿Por qué no hablas con ella? Está por alguna parte.}
 {202}{}{Oyeme. Aquí se te considera un gafe. Después de lo que le sucedió a Fannie Mae, ninguna de mis otras chicas tiene mucho
  interés en estar contigo... y no puedo culparlas por ello.}
 {203}{}{Buscando a alguien para que te ayude a calentar esa cama tan grande y solitaria, ¿eh? Veamos lo que tengo
