@@ -131,7 +131,7 @@
 {230}{}{Lo estoy haciendo lo mejor que puedo.}
 {231}{}{Redoblaré mis esfuerzos, Santo. No os abandonaré.}
 {232}{}{Sí, sí. Ya lo he oído antes.}
-{233}{hak030}{Elegido... el poblado llora de desesperación. Los niños se debilitan con el hambre. Por favor, no podemos aguantar mucho más.}
+{233}{hak030}{Elegida... el poblado llora de desesperación. Los niños se debilitan con el hambre. Por favor, no podemos aguantar mucho más.}
 {234}{}{Uh-huh.}
 {235}{}{Lo intento, lo intento. ¡Dame un respiro!}
 {236}{}{Encontraré el GECK, Santo. Tienes mi palabra.}
@@ -144,7 +144,7 @@
 {243}{hak032}{Elegida, los espíritus de nuestros ancestros me guían a un mundo de sueños donde puedo alcanzar tus pensamientos. Nuestro poblado sufre sin el sagrado GECK. Tus manos sostienen vuestras vidas como un padre a sus hijos.}
 {244}{hak033}{Una vez más mi espíritu te alcanza desde el vacío, Elegida. Nuestras cosechas se malogran, nuestras reservas menguan. Vuelve con el GECK. Tu fracaso será nuestro fin.}
 {245}{hak034}{Elegida. El poblado se debilita. Es más difícil entrar en tus sueños. Debes apresurarte o todos...}
-{246}{hak035}{¿Elegido? ¿Elegido? ¿Me oyes? El poblado se muere. Nuestro futuro muere también. Nos queda poco tiempo y esencia. Deprisa... Deprisa...}
+{246}{hak035}{¿Elegida? ¿Elegida? ¿Me oyes? El poblado se muere. Nuestro futuro muere también. Nos queda poco tiempo y esencia. Deprisa... Deprisa...}
 {247}{hak101}{Elegida... la sombra de la oscuridad llegó antes que tú.}
 {248}{}{¡Owwww!}
 {249}{}{¿Qué pasó?}
@@ -157,9 +157,9 @@
 {256}{}{Ay.}
 {257}{hak105}{Sí. Gran tristeza y dolor. Me hallo entre ambos mundos para decírtelo, Elegida. Salva a tu pueblo.}
 {258}{}{¿Eh?}
-{259}{hak106}{Elegido, por favor deja que mis palabras te toquen. Ve al Suroeste. Sur y oeste. Salva a nuestro pueblo. Salva a nuestra gente.}
+{259}{hak106}{Elegida, por favor deja que mis palabras te toquen. Ve al Suroeste. Sur y oeste. Salva a nuestro pueblo. Salva a nuestra gente.}
 {260}{}{Uh-huh.}
-{261}{hak107}{Gracias a los ancestros. Ahora mi alma podrá unirse a la eterna canción. Ten cuidado en tu viaje, Elegido.}
+{261}{hak107}{Gracias a los ancestros. Ahora mi alma podrá unirse a la eterna canción. Ten cuidado en tu viaje, Elegida.}
 {262}{}{¿Ir?}
 {263}{hak108}{¡Ve!...}
 {264}{}{Adiós.}

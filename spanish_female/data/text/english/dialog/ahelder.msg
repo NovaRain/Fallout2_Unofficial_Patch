@@ -62,7 +62,7 @@
 {166}{}{Está bien, ya me marcho.}
 {167}{}{No te fallaré, Anciana.}
 {168}{}{Estoy trabajando en ello, ¿vale?}
-{169}{aeld18}{Una vez más vuelves sin el GECK. Nuestras cosechas se están echando a perder, Elegido. Nuestra necesidad se vuelve mayor con el paso del tiempo. ¡Ve a buscar el sagrado Trece!}
+{169}{aeld18}{Una vez más vuelves sin el GECK. Nuestras cosechas se están echando a perder, Elegida. Nuestra necesidad se vuelve mayor con el paso del tiempo. ¡Ve a buscar el sagrado Trece!}
 {170}{}{Vale, marcho ahora.}
 {171}{}{Sí, Anciana.}
 {172}{}{No te fallaré ni a ti ni a nuestra gente, Anciana.}
@@ -98,7 +98,7 @@
 {218}{eeld6}{Si destruyes la máquina, encontraremos el barco. Date prisa, no quedamos muchos con vida.}
 {219}{}{¿Qué pasó?}
 {220}{}{Entendido.}
-{221}{eeld7}{Debes destruir la máquina y matar a los demonios de este lugar. ¡Nos encontraremos afuera! Y Elegido, si no has encontrado el GECK, búscalo aquí. Nuestra libertad no servirá de nada si no podemos salvar al poblado. ¡Ahora vete!}
+{221}{eeld7}{Debes destruir la máquina y matar a los demonios de este lugar. ¡Nos encontraremos afuera! Y Elegida, si no has encontrado el GECK, búscalo aquí. Nuestra libertad no servirá de nada si no podemos salvar al poblado. ¡Ahora vete!}
 {222}{}{Adiós.}
 {223}{eeld8}{Todavía sigo siendo la Anciana. ¡Recuerda tu posición! Discúlpate o no te ayudaré más.}
 {224}{}{Perdón, no eres una vieja zorra. Y ahora ¿qué está pasando aquí?}

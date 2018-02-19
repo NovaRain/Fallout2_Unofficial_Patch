@@ -15,7 +15,7 @@
 {162}{}{Gracias. Adiós.}
 {163}{}{¿Puedes decirme donde está el Gran Puente?}
 {164}{}{Una pregunta más, si no te importa.}
-{165}{}{Eh... ¿Elegido? El Gran Puente está en el extremo sur de nuestro poblado. Ya sabes... has estado allí miles de veces.}
+{165}{}{Eh... ¿Elegida? El Gran Puente está en el extremo sur de nuestro poblado. Ya sabes... has estado allí miles de veces.}
 {166}{}{Gracias. Adiós.}
 {167}{}{Una pregunta más, si no te importa.}
 {168}{}{Por supuesto, ¿qué quieres saber?}
@@ -35,7 +35,7 @@
 {182}{}{Gracias. Adiós.}
 {183}{}{Una pregunta más, si no te importa.}
 {300}{}{Hola de nuevo, Elegida. Que los espíritus de los guerreros te protejan y te guíen.}
-{301}{}{¿Tienes dificultades, Elegido? No nos falles... por favor, apresúrate.}
+{301}{}{¿Tienes dificultades, Elegida? No nos falles... por favor, apresúrate.}
 {302}{}{¿A qué estás esperando? Debemos conseguir el GECK cuanto antes. Elegida, nuestro poblado se muere.}
 {303}{}{Elegida, nuestro poblado está casi muerto. ¿Por qué no nos has traído aún el sagrado GECK?}
 {970}{}{Ese es mi nombre.}
