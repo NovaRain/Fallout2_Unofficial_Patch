@@ -1,6 +1,6 @@
 {100}{}{Ves a Lucas.}
 {101}{}{Lucas es el jefe de los guerreros de tu tribu.}
-{102}{}{Así que estás aquí, Elegido. ¡Hmmmph! ¿Cómo va la búsqueda?}
+{102}{}{Así que estás aquí, Elegida. ¡Hmmmph! ¿Cómo va la búsqueda?}
 {103}{}{Bastante bien.}
 {104}{}{No muy bien.}
 {105}{}{¡¿Ugh?!}
