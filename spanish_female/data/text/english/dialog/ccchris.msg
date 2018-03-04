@@ -97,7 +97,7 @@
 {196}{}{Yo serio. Yo uno a Enclave.}
 {197}{}{Hablo en serio. Quiero alistarme en el Enclave.}
 {198}{}{Hablo en serio. Quiero alistarme en el Enclave.}
-{199}{}{Espera un momento, tontito. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?}
+{199}{}{Espera un momento, tontita. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?}
 {200}{}{Espera un momento. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?}
 {201}{}{Eh... ya.}
 {202}{}{Así es.}

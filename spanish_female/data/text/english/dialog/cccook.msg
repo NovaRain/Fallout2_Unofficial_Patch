@@ -9,7 +9,7 @@
 {108}{}{Bien, vamos allá. Tengo algo de la clásica bazofia, 'mierda sobre tablilla'. La nieve y la mierda de mosca se han acabado. ¿Algo más?}
 {109}{}{¿Qué quieres que como?}
 {110}{}{¿Mierda de mosca? ¿Qué coño de comida es esta?}
-{111}{}{Lo siento, debes ser nuevo en el ejército. No te ofendas, sólo es la forma en la que lo llamamos aquí. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta.}
+{111}{}{Lo siento, debes ser nueva en el ejército. No te ofendas, sólo es la forma en la que lo llamamos aquí. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta.}
 {112}{}{Oh... eso sabe más mejor que mierda. Hablamos mientras comer.}
 {113}{}{Ah, vale, lo siento. Charlemos un poco mientras como.}
 {114}{}{¿De qué quieres hablar?}
