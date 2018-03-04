@@ -1,10 +1,10 @@
 {100}{}{Ves al sargento de instrucción.}
 {101}{}{Ves al sargento Dornan.}
-{102}{}{Ves a un hombre que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
-{103}{sgnt1a}{Bienvenido a la Base Navarro... ¡un civil! ¿Cómo coño un civil ha entrado en la base? ¡Le voy a romper el culo a alguien! Echad a este civil fuera de propiedad gubernamental.}
+{102}{}{Ves a un hombre que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizada.}
+{103}{sgnt1a}{Bienvenido a la Base Navarro... ¡una civil! ¿Cómo coño un civil ha entrado en la base? ¡Le voy a romper el culo a alguien! Echad a este civil fuera de propiedad gubernamental.}
 {104}{sgnt1b}{Bienvenidos a la Base Navarro... ¡civiles! ¿Cómo coño unos civiles han entrado en la base? ¡Le voy a romper el culo a alguien! Echadlos fuera de una propiedad gubernamental.}
 {105}{}{Espera. Yo...}
-{106}{sgnt2a}{Que me aspen. Te escolté fuera de la base y aquí estás de nuevo. Después de todo, no creo que seas un civil. ¡Es más fácil que seas un espía! ¡Dad la alarma y ejecutad a este gusano!}
+{106}{sgnt2a}{Que me aspen. Te escolté fuera de la base y aquí estás de nuevo. Después de todo, no creo que seas una civil. ¡Es más fácil que seas un espía! ¡Dad la alarma y ejecutad a este gusano!}
 {107}{sgnt2b}{Que me aspen. Os escolté fuera de la base y aquí estáis de nuevo. Después de todo, no creo que seáis civiles. ¡Es más fácil que seáis espías! ¡Dad la alarma y ejecutad a estos gusanos!}
 {108}{sgnt3}{Bienvenido a la Base Navarro. Así que tú eres el reemplazo. ¿Cuál es tu nombre, soldado?}
 {109}{}{Uh... yo }

@@ -7,10 +7,10 @@
 {106}{}{Yo limpio cosas.}
 {107}{}{No recuerdo. Marcho yo.}
 {108}{}{¿Qué es este lugar?}
-{109}{}{Hola, soy nuevo.}
+{109}{}{Hola, soy nueva.}
 {110}{}{He venido a limpiar la oficina del comandante.}
 {111}{}{No importa.}
-{112}{}{Esta es la oficina del comandante de la base. Está área está restringida a todo el personal. Voy a tener que pedirle que se marche, señor.}
+{112}{}{Esta es la oficina del comandante de la base. Está área está restringida a todo el personal. Voy a tener que pedirle que se marche, señora.}
 {113}{}{Yo hago asunto con comandante.}
 {114}{}{Bien.}
 {115}{}{Tengo asuntos que tratar con el comandante.}
@@ -34,7 +34,7 @@
 {133}{}{Déjame ver tus ordenes.}
 {134}{}{Gracias.}
 {135}{}{Oh, no las he traído conmigo.}
-{136}{}{(tranquilamente) Debes haberte perdido. Esta es la oficina del comandante de la base. No se permite estar aquí a nadie a menos que el viejo te llame.}
+{136}{}{(tranquilamente) Debes haberte perdida. Esta es la oficina del comandante de la base. No se permite estar aquí a nadie a menos que el viejo te llame.}
 {137}{}{¿Nadie viene aquí? ¿Nunca?}
 {138}{}{¿Nadie viene a verle?}
 {139}{}{(tranquilamente) Nadie. Bueno, sólo los de la limpieza. Suelen venir por aquí en una hora o así. Aparte de ellos, este lugar está restringido. Ahora, será mejor que te largues.}

@@ -48,9 +48,9 @@
 {149}{}{¿Dónde?}
 {150}{}{Ya veo.}
 {151}{}{¿Dónde?}
-{152}{}{En la esquina nordeste de la base, amigo. No tiene pérdida.}
+{152}{}{En la esquina nordeste de la base, amiga. No tiene pérdida.}
 {153}{}{De acuerdo. Gracias.}
-{156}{}{Me sorprende que no lo sepas, debes de ser un local, supongo. De todas formas, la base principal está en mitad del maldito océano. Bueno, no justo en el medio, pero podría estarlo. La única manera de llegar allí es con barco o un vertibird, y el maldito barco está a medio arreglar. Y necesitas un FOB para operar ese maldito cacharro.}
+{156}{}{Me sorprende que no lo sepas, debes de ser una local, supongo. De todas formas, la base principal está en mitad del maldito océano. Bueno, no justo en el medio, pero podría estarlo. La única manera de llegar allí es con barco o un vertibird, y el maldito barco está a medio arreglar. Y necesitas un FOB para operar ese maldito cacharro.}
 {157}{}{¿FOB?}
 {158}{}{Sí, es una tarjeta de acceso. El comandante la guarda en su oficina. Sin ella no se puede acceder a algunas zonas del barco e impide que los locales de San Fran nos hagan alguna visita inesperada.}
 {159}{}{Buena idea.}
@@ -66,7 +66,7 @@
 {169}{}{Ninguna, sólo venía a saludar.}
 {170}{}{Aquí está. Está muerto, está cocido, está irreconocible. Disfruta.}
 {171}{}{Eh... Gracias.}
-{172}{}{Hijo, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
+{172}{}{Hija, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
 {173}{}{Señorita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el Sargento te pilla estás jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vístete.}
 {174}{}{¿Dónde?}
 {175}{}{De acuerdo.}
