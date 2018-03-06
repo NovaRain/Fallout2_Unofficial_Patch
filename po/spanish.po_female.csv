@@ -321,7 +321,7 @@ Master Thief,Maestra ladrona
 You're funny looking.,Eres muy rara.
 "Greetings, Chosen One! It is good to see you. How may I serve you?","¡Saludos, Elegida! Me alegro de verte. ¿Qué puedo hacer por ti?"
 "It is good to see you again, Chosen One. How may I help you?","Es un placer verte de nuevo, Elegida. ¿Cómo puedo ayudarte?"
-"Hello there, stranger. Always a pleasure to see a new face. Name's Randal...I'm the Chief Amenities Officer. Need something?","Hola, extranjera. Siempre es un placer ver una nueva cara. Mi nombre es Randal... soy el Oficial Jefe de Servicios. ¿Necesitas algo?"
+"Welcome the NCR. Just to let you know, if you got weapons, keep 'em holstered. This ain't a gun-toting town, stranger.","Bienvenida a RNC. Tienes que saber que si llevas armas, mantenlas guardadas. Esta no es una ciudad para pistoleros, extranjera."
 Well I'll be damned. I had you escorted off this base and here you are again. I don't think you're a civilian after all. More than likely you're a spy! Sound the alarm and execute this maggot!,"Que me aspen. Te escolté fuera de la base y aquí estás de nuevo. Después de todo, no creo que seas una civil. ¡Es más fácil que seas un espía! ¡Dad la alarma y ejecutad a este gusano!"
 "I'm getting pretty good at this. See, Boss. All good things get better with time.","Me estoy volviendo bastante bueno en esto, Jefa. Todas las cosas buenas mejoran con el tiempo."
 ". Well... You've certainly come a long way from the simple tribesman. You should visit our New California Republic office some time. You might find it rewarding. Now, if you'll excuse me...",". Bueno... ciertamente has recorrido un largo camino para una simple tribal. Deberías visitar alguna vez nuestra oficina en la República de Nueva California. Podría resultarte gratificante. Ahora, si me perdonas..."
@@ -340,7 +340,7 @@ The Elder was wrong. You are evil.,La Anciana se equivocó. Eres malvada.
 "Why didn't you just tack a sign on your chest that says, 'dumb mother fucker?' ",¿Por qué simplemente no te grabas una señal en el pecho que diga 'tonta hijoputa?' 
 Don't just stand there. The reactor's not gonna keep workin' forever.,No te quedes ahí parada. El reactor no va a funcionar para siempre.
 "I WARNED you, asshole, now you're... (Mason suddenly pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in... ","Te he AVISADO, imbécil, ahora vas a... (Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore dice que puedes entrar... "
-"Welcome the NCR. Just to let you know, if you got weapons, keep 'em holstered. This ain't a gun-toting town, stranger.","Bienvenida a RNC. Tienes que saber que si llevas armas, mantenlas guardadas. Esta no es una ciudad para pistoleros, extranjera."
+"Hello there, stranger. Always a pleasure to see a new face. Name's Randal...I'm the Chief Amenities Officer. Need something?","Hola, extranjera. Siempre es un placer ver una nueva cara. Mi nombre es Randal... soy el Oficial Jefe de Servicios. ¿Necesitas algo?"
 "To make one whole instills a sense of fullness that you would be well to understand, Chosen.","Hacerlo infunde una sensación de plenitud que harías bien en entender, Elegida."
 "Yes, sir?","¿Sí, señora?"
 Hey! You're the one who defeated the Enclave!,¡Oye! ¡Eres la que derrotó al Enclave!
@@ -457,6 +457,7 @@ Daddy says you're a bad person.,Papi dice que eres mala.
 "No. If you wish to become a Citizen, you must take the test.","No. Si quieres convertirte en Ciudadana, debes hacer el test."
 "(You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath New Reno's lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.) *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*","(Ves una máquina tragaperras. Su fuerte y dura carcasa y su dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tus muslos arden por las expectativas. Al acercarte, surge de repente el susurro de una fuerte voz masculina desde la ranura para las monedas). *No había visto antes por aquí a una mujer tan hermosa como tú. ¿Quieres una oportunidad?*"
 "Hail, friend. Renewal is at hand for the chosen.","Saludos, amiga. La Renovación está disponible para los elegidos."
+Wait a minute -— you're not one of us! GUARDS!,Un minuto... ¡no eres una de los nuestros! ¡GUARDIAS!
 "So, child. Once again you stand before me. Are you empty-handed yet again?","Bien, chiquilla. De nuevo estás ante mí. ¿Otra vez con las manos vacías?"
 We leaving Boss?,"¿Nos vamos, Jefa?"
 I don't want anything to do with a slaver. Goodbye.,No quiero tener nada que ver con una esclavista. Adiós.
@@ -709,7 +710,7 @@ Then you're a fool and a dog doing the bidding of others. I will laugh when you 
 "Step back, outsider.","Un paso atrás, extranjera."
 You're the most civilized tribal I've ever met.,Eres la tribal más civilizada que he conocido nunca.
 "If it ain't the man, here to oppress me again.",Pero si es la tipeja que está aquí para volver a oprimirme.
-You should catalog your travels in the Vault City computer so others may read about them.,Deberías catalogar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.
+"I run the Corrections Center. And obey your orders, sir.","Dirijo el Centro Correccional. Y obedezco sus órdenes, señora."
 "Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.","Ella: ¿Te atreves a llamar a Hub (alabada sea Su visión) un chiflado? ¿Aquí? ¿En una fortaleza dedicada a su estudio? Él: Sal de aquí. Si hablas con alguien mientras te vas, serás atacada. Infiel. Ambos: Adiós y hasta nunca."
 You son of a bitch - how could you do this to us?,"Oye, hija de puta, ¿cómo pudiste hacernos esto?"
 Sniper,Francotiradora
@@ -763,7 +764,7 @@ Chem Reliant,Adicta a drogas
 "Hey, man, what's up? We under attack?","Eh, amiga, ¿qué pasa? ¿Nos atacan?"
 "I AM one of Bishop's lieutenants. Now are we gonna deal, or what?",SOY una de los lugartenientes de Bishop. ¿Hacemos un trato o qué?
 Sir! What is your business here?,¡Señora! ¿Qué hace aquí?
-"Oh, gee, you're my hero. Now PISS OFF.","Oh, caramba eres mi heroína. Y ahora VETE A LA MIERDA."
+"Well, you CAN become a Citizen... unofficially.","Bien, PUEDES convertirte en Ciudadana... extraoficialmente."
 "I'm sorry, Citizen, but no one's permitted in the Corrections Center after dark. Come back in the morning.","Lo siento, Ciudadana, pero no se permite la entrada en el Centro Correccional por la noche. Vuelve por la mañana."
 "This one bad trip, fren.","Este es un mal viaje, miga."
 "Ooooooh, I'm scared. Thanks for the Day Pass, pal.","Ooooooh, estoy asustada. Gracias por el pase de día, amigo."
@@ -1109,7 +1110,6 @@ More longer friend see that sky?,"Amiga, ¿ves ese cielo?"
 Bastard! I'll sodomize you for that!,¡Zorra! ¡Te sodomizaré por eso!
 "Northeast corner of the base, friend. Can't miss it.","En la esquina nordeste de la base, amiga. No tiene pérdida."
 "You know what, Boss? I think I'm actually learning a thing or two.","¿Sabes qué, Jefa? Creo que realmente estoy aprendiendo un par de cosas."
-"I run the Corrections Center. And obey your orders, sir.","Dirijo el Centro Correccional. Y obedezco sus órdenes, señora."
 Can you tell me where the Central Computer is?,¿Puedes decirme dónde está la computadora central?
 Weapon Flameboy,Arma lanzallamas
 So be it. Zomak! Kill this fool for me. But be careful with the Cheezy Poofs!,Que así sea. ¡Zomak! ¡Mata a esta idiota por mí! ¡Pero ten cuidado con las bolitas de queso!
@@ -1219,6 +1219,7 @@ Here you go champ. Here's your winnings. That's the last fight today. Come back 
 "Man, I need to *fly,* know what I'm saying?","Amiga, necesito *volar,* ¿sabes a lo que me refiero?"
 "You? Sorry, I'll NEVER be that desperate.","¿Tú? Lo siento, NUNCA estaré tan desesperada."
 Guards! Guards! The barbarian is here!,¡Guardias! ¡Guardias! ¡La bárbara está aquí!
+You should catalog your travels in the Vault City computer so others may read about them.,Deberías catalogar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.
  is sooooo handsome., es taaaan guapa.
 "Well, I'm glad I don't have to introduce myself then. What do you do here, ""Nick?""","Bien, me alegra no tener que presentarme a mí misma. ¿Qué estás haciendo aquí, ""Santa""?"
 Hated,Odiada
@@ -1370,7 +1371,7 @@ Good. At least you're your own master. Are you tough enough to fight without wea
 "You talked him out of it? That's amazing! The town owes you big, mister. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.","¿Tú le disuadiste de ello? ¡Eso es asombroso! La ciudad tiene una gran deuda contigo, señorita. Mira, esto no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así."
 I am sick.,Estoy enferma.
 "You're not a nice man, you're a bad man! I'm going to go tell my daddy!","¡No eres buena, eres una mujer mala! ¡Se lo voy a decir a mi papá!"
-"Well, you CAN become a Citizen... unofficially.","Bien, PUEDES convertirte en Ciudadana... extraoficialmente."
+"Oh, gee, you're my hero. Now PISS OFF.","Oh, caramba eres mi heroína. Y ahora VETE A LA MIERDA."
 "That's it! Citizen or not, you're out of here. Guards, show this degenerate to the gates!","¡Se acabó! Ciudadana o no, te irás de aquí. ¡Guardias, mostradle la salida a esta degenerada!"
 "If you say so, Boss.","Si tú lo dices, Jefa."
 "Uh, interesting story but I don't think I can help Torr. I'm pretty busy. Goodbye.","Uh, interesante historia pero no creo que pueda ayudar a Torr. Estoy bastante ocupada. Adiós."
@@ -1513,6 +1514,7 @@ I wanna save th'world just like you when I grow up.,Quiero salvar al mundo igual
 Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...,Elegida. El poblado se debilita. Es más difícil entrar en tus sueños. Debes apresurarte o todos...
 Kinda surprised to see a smoothskin like you here.,Me sorprende bastante ver a una piel suave como tú por aquí.
 Boss! I'm not doing so well here.,¡Jefa! No me encuentro bien.
+I'm the new guy?,¿Soy la novata?
 Good Natured,Bonachona
 "With you on our side, those other families don't stand a chance, boss.","Contigo de nuestro lado, las demás Familias no tienen ninguna oportunidad, jefa."
 "Haven't seen YOU around before. What's your name, stranger? (Smirks.) Actually, never mind, I don't want to know. You as bored as I am?","No te había visto antes por aquí. Como te llamas forastera? (sonríe) Vale, no importa, no quiero saberlo. ¿Estás tan aburrida como yo?"
@@ -1694,6 +1696,9 @@ You could've been one of us.,Podrías haber sido una de nosotros.
 "Well done, Citizen.","Bien hecho, Ciudadana."
 Are you authorized to be in here?,¿Estás autorizada para estar aquí?
 "Back again, huh? Well, what can we help you with, business partner?","Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socia?"
+"Hey look, man. Raul's going to go pay Quincy a visit, you know?
+ Raul's going to clean the old man's clock.
+ You stay here and watch Raul's birds. Ok?","Eh... mira, amiga. Raúl va a hacerle una visita a Quincy, ¿sabes? Raúl va a decirle cuatro cosas. Tú quédate aquí y vigila los pájaros de Raúl, ¿vale?"
 "You're not a spy, are you?","No eres una espía, ¿verdad?"
 "Yeah, I heard he's DEAD. That what you want to hear, killer?! Huh?! Now you gonna place a bet or bullshit me some more?","Sí, he oído que está MUERTO. ¡¿Eso es lo que querías oír, asesina?! ¡¿Eh?! Y ahora, ¿vas a apostar o vas a seguir con tus chorradas?"
 "Fren, you ever wonder if there's more bad people than bullets?","Miga, ¿alguna vez te has preguntado si hay más gente mala que balas?"
@@ -1809,6 +1814,8 @@ Small Frame,Canija
 You are just evil. Please don't talk to me.,"Eres malvada. Por favor, no me hables."
 "I'll just stay back a little then, Boss.","Entonces me quedaré sólo un poco por detrás tuyo, Jefa."
 "Thank you again, my friend. I owe you a debt that can not be repaid.","Gracias, amiga. Tengo una deuda contigo que nunca podré compensarte."
+"New guy, eh? Suppose you want your issue. Why don't anybody ever tell me these things? What's
+ your name?","¿Novata, eh? Supongo que querrás tus cosas. ¿Por qué nadie me cuenta estas cosas? ¿Cómo te llamas?"
 "You'll pay, you bastard!","¡Me las pagarás, zorra!"
 Good call Boss.,"Buena idea, Jefa."
 "Tread lightly, outsider.","Anda con cuidado, forastera."

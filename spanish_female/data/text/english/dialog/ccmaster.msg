@@ -84,9 +84,9 @@
 {183}{}{Eh... sí, estoy unida}
 {184}{}{De la 42.}
 {185}{}{¿Estás sorda? ¿Quién eres?}
-{186}{}{¿Soy el novato?}
+{186}{}{¿Soy la novata?}
 {187}{}{No, nunca he oído hablar de ellos.}
-{188}{}{¿Novato, eh? Supongo que querrás tus cosas. ¿Por qué nadie me cuenta estas cosas? ¿Cómo te llamas?}
+{188}{}{¿Novata, eh? Supongo que querrás tus cosas. ¿Por qué nadie me cuenta estas cosas? ¿Cómo te llamas?}
 {189}{}{¿Eh? No oigo nada salvo estática.}
 {190}{}{[Player name]}
 {191}{}{¡No si disparo primero!}

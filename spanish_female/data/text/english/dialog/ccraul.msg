@@ -19,7 +19,7 @@
 {118}{}{Eh, perdona, amigo. Raúl no debería haberte gritado, ¿sabes? No es culpa tuya; sólo eres el mensajero. Eh, amigo, ¿estás ocupado?}
 {119}{}{No, no ocupada. ¿Por qué?}
 {120}{}{La verdad es que no, ¿por qué?}
-{121}{}{Eh... mira, amigo. Raúl va a hacerle una visita a Quincy, ¿sabes? Raúl va a decirle cuatro cosas. Tú quédate aquí y vigila los pájaros de Raúl, ¿vale?}
+{121}{}{Eh... mira, amiga. Raúl va a hacerle una visita a Quincy, ¿sabes? Raúl va a decirle cuatro cosas. Tú quédate aquí y vigila los pájaros de Raúl, ¿vale?}
 {122}{}{Yo vigilo.}
 {123}{}{Claro, Raúl. Por cualquier otro no lo haría, pero por ti si.}
 {124}{}{Eh, gracias, amigo. ¡Raúl te debe una! No te alejes y, amigo, si alguien intenta joderla con los pájaros de Raúl, les pateas el culo, ¿vale?}
