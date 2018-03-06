@@ -27,7 +27,7 @@
 {126}{}{Seguro, lo que sea.}
 {127}{}{¡Al infierno con esto!}
 {128}{}{(¿Qué, estás sorda? Te he dicho que tengo un traje; tan sólo firma aquí).}
-{129}{}{¿Eres un payaso? Bueno, no es mi problema. ¡Explícale al sargento por qué no tienes uniforme!}
+{129}{}{¿Eres una payaso? Bueno, no es mi problema. ¡Explícale al sargento por qué no tienes uniforme!}
 {130}{}{¿Eh?}
 {131}{}{De acuerdo, vale, lo haré.}
 {132}{}{Olvídalo, ¿de acuerdo?}

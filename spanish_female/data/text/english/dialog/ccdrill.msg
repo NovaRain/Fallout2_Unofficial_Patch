@@ -9,7 +9,7 @@
 {108}{sgnt3}{Bienvenido a la Base Navarro. Así que tú eres el reemplazo. ¿Cuál es tu nombre, soldado?}
 {109}{}{Uh... yo }
 {110}{}{Soy }
-{111}{sgnt4}{Oh, enternecedor. Me han mandado a un retrasado. Escucha atentamente. Montarás guardia en el hangar. Ese será tu puesto de servicio. Ahora ve allí y quédate haciendo guardia hasta que se te diga otra cosa. ¡Muévete, soldado!}
+{111}{sgnt4}{Oh, enternecedor. Me han mandado a una retrasada. Escucha atentamente. Montarás guardia en el hangar. Ese será tu puesto de servicio. Ahora ve allí y quédate haciendo guardia hasta que se te diga otra cosa. ¡Muévete, soldado!}
 {112}{}{Me voy, yo.}
 {113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusanaza?}
 {114}{}{Me llamo }
@@ -26,7 +26,7 @@
 {125}{}{La base no me proporcionó ninguna. Me dijeron que me la darían aquí.}
 {126}{}{Eh... No me dieron ninguna.}
 {127}{}{Bueno, ya que llevas una... ¡Simplemente la cogeré de tu cadáver!}
-{128}{sgnt10}{¿Qué no tienes? Y esperas que me crea eso, ¿gusano? Lo cierto es que has perdido una costosa pieza de equipo militar. Te será descontada de tu paga, y te quedarás en este ejército hasta que tengas quinientos diez años, ¡que es el tiempo que te costará devolver lo que cuesta la servoarmadura de combate Mark II que has perdido! ¡Preséntate en la armería para que te proporcionen un nuevo uniforme y vuelve aquí, soldado! ¡Retírate!}
+{128}{sgnt10}{¿Qué no tienes? Y esperas que me crea eso, ¿gusana? Lo cierto es que has perdido una costosa pieza de equipo militar. Te será descontada de tu paga, y te quedarás en este ejército hasta que tengas quinientos diez años, ¡que es el tiempo que te costará devolver lo que cuesta la servoarmadura de combate Mark II que has perdido! ¡Preséntate en la armería para que te proporcionen un nuevo uniforme y vuelve aquí, soldado! ¡Retírate!}
 {129}{}{Vale. Voy por uniforme.}
 {130}{}{¡Sí, Sargento!}
 {131}{sgnt11}{¡Esos estúpidos burócratas!¿Cómo demonios esperan que dirija esta unidad si continúan estafándome con los suministros? Paso ligero a la armería, consigue tu equipo y preséntate ante mí. ¡Retírate!}
@@ -60,7 +60,7 @@
 {159}{}{Sin novedad. Ya veo. Permanece en tu puesto.}
 {160}{}{Como te pille durmiendo, ¡te aseguro que será un sueño eterno!}
 {161}{}{¡Bien! ¡Has encontrado tu puesto de guardia!}
-{162}{}{¡Permanece en tu puesto hasta que seas relevado, soldado!}
+{162}{}{¡Permanece en tu puesto hasta que seas relevada, soldado!}
 {163}{}{En tu puesto y despierto. ¡Excelente!}
 {164}{}{Sigue despierto, sigue alerta, ¡sigue vivo!}
 {165}{}{¡Alerta! ¡Intrusos en la base!}

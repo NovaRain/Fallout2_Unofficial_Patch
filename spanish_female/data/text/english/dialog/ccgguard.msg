@@ -7,9 +7,9 @@
 {106}{}{Yo nueva. Digo que que vosotros esperáis a yo.}
 {107}{}{Oh. Perdón, marcho yo.}
 {108}{}{Tengo mi pase... estaba justo aquí.}
-{109}{}{Soy un nuevo recluta. Me dijeron que me estarían esperando.}
+{109}{}{Soy una nueva recluta. Me dijeron que me estarían esperando.}
 {110}{}{Oh, lo siento. Entonces me marcharé.}
-{111}{gate2}{Eres un poco corto, ¿no? Bien, sigue moviéndote. No vuelvas por ahí y todo irá bien. ¿Entiendes?}
+{111}{gate2}{Eres un poco corta, ¿no? Bien, sigue moviéndote. No vuelvas por ahí y todo irá bien. ¿Entiendes?}
 {112}{}{Quiero entrar yo.}
 {113}{}{Vale. Yo voy.}
 {114}{gate3}{Nadie entra... Maldición. (lentamente) Necesitas pase para entrar. Tú no pase. Tú te marchas. Tú no te marchas, y tú eres herida. ¿Entiendes?}
