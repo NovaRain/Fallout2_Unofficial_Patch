@@ -13,7 +13,7 @@
 {112}{}{RNC}
 {113}{}{Una mina abandonada.}
 {114}{}{No, ya he estado ahí antes. Gracias de todos modos.}
-{115}{}{Nuevo Reno.. ese es un gran sitio al que ir. Sexo, drogas y apuestas. ¿Qué más se puede pedir? Aquí, déjame señalarte el lugar.}
+{115}{}{New Reno.. ese es un gran sitio al que ir. Sexo, drogas y apuestas. ¿Qué más se puede pedir? Aquí, déjame señalarte el lugar.}
 {116}{}{Gracias.}
 {117}{}{Ciudad Refugio... una ciudad de idiotas. Te crece un dedo extra y te tratan como si fueras un bicho raro. Nunca he estado dentro, pero sé dónde está.}
 {118}{}{Gracias.}
