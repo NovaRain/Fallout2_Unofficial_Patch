@@ -108,7 +108,8 @@ variable temp;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
+         //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE); //edit by killap - RP
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
          if (tile_distance(self_tile, 20878) <= 17) then begin
             set_local_var(LVAR_Slave_Type, random(slave_generic, slave_beaten));
@@ -251,38 +252,38 @@ procedure Node006 begin
    end
 end
 procedure Node007 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(200, 204);
-   else
-      floater_rand(201, 202);
+   //else
+   //   floater_rand(201, 202);
 end
 procedure Node008 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(210, 214);
-   else
-      floater_rand(213, 214);
+   //else
+   //   floater_rand(213, 214);
 end
 procedure Node009 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(220, 229);
-   else
-      floater_rand(220, 221);
+   //else
+   //   floater_rand(220, 221);
 end
 procedure Node010 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(240, 252);
-   else
-      floater_rand(240, 242);
+   //else
+   //   floater_rand(240, 242);
 end
 procedure Node011 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(260, 270);
-   else
-      floater_rand(261, 262);
+   //else
+   //   floater_rand(261, 262);
 end
 procedure Node012 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(283-(3*slave_is_beaten), 296+(16*slave_is_generic));
-   else
-      floater_rand(281-(slave_is_beaten), 282);
+   //else
+   //   floater_rand(281-(slave_is_beaten), 282);
 end

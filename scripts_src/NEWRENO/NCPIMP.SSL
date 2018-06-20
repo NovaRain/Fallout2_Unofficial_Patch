@@ -160,7 +160,7 @@ procedure Node999 begin
 end
 
 procedure Node000 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
       if (dude_is_female) then begin
          if (enclave_destroyed) then begin
             call Node002;
@@ -196,9 +196,9 @@ procedure Node000 begin
             call Node013;
          end
       end
-   end else begin
-      call Node015;
-   end
+   //end else begin
+   //   call Node015;
+   //end
 end
 procedure Node001 begin
    floater_rand(200, 202);

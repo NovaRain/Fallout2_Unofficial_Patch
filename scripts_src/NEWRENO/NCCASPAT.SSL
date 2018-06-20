@@ -142,7 +142,7 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-variable temp;
+   variable temp;
    if (is_loading_game == false) then begin
       check_poison_kill_critter
       if (map_first_run) then begin
@@ -230,74 +230,74 @@ end
 #define is_insert_message(x)     (((x>=203)and(x<=205)) or (x==325) or (x==330) or (x==331))
 
 procedure Node003 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
       floater_rand_with_check(200, 205, dude_name, 300);
-   end else
-      floater(202);
+   //end else
+   //   floater(202);
 end
 procedure Node004 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(206, 215);
-   else
-      floater(206);
+   //else
+   //   floater(206);
 end
 procedure Node005 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(222-(6*dude_is_male), 225+(7*dude_is_female));
-   else
-      floater_rand(223, 225);
+   //else
+   //   floater_rand(223, 225);
 end
 procedure Node006 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(234-(dude_is_male), 241+(2*dude_is_female));
-   else
-      floater_rand(235, 236);
+   //else
+   //   floater_rand(235, 236);
 end
 procedure Node007 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(244, 267);
-   else
-      floater_rand(244, 245);
+   //else
+   //   floater_rand(244, 245);
 end
 procedure Node008 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(268, 276);
-   else
-      floater_rand(268, 269);
+   //else
+   //   floater_rand(268, 269);
 end
 procedure Node009 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(277, 279);
-   else
-      floater(278);
+   //else
+   //   floater(278);
 end
 procedure Node010 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(280, 320);
-   else
-      floater_rand(281, 288);
+   //else
+   //   floater_rand(281, 288);
 end
 procedure Node011 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
       floater_rand_with_check(321, 331, dude_name, 300);
-   end else
-      floater(321);
+   //end else
+   //   floater(321);
 end
 procedure Node012 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(332, 352);
-   else
-      floater_rand(340, 341);
+   //else
+   //   floater_rand(340, 341);
 end
 procedure Node013 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(353, 358);
-   else
-      floater_rand(353, 354);
+   //else
+   //   floater_rand(353, 354);
 end
 procedure Node014 begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
       floater_rand(359, 376);
-   else
-      floater_rand(372, 373);
+   //else
+   //   floater_rand(372, 373);
 end

@@ -105,7 +105,7 @@ variable temp_tile;
    if ((combat_is_initialized == false) and (self_visible)) then begin
       if (no_whore_floats == false) then begin
          if ((self_can_see_dude) and (random(1,2) == 1)) then begin
-            if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+            //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
                set_message_float;
                if (enclave_destroyed) then begin
                   call Node001;
@@ -136,9 +136,9 @@ variable temp_tile;
                end else begin
                   call Node012;
                end
-            end else begin
-               call Node021;
-            end
+            //end else begin
+            //   call Node021;
+            //end
          end else if ((is_cats_paw_whore) and (obj_on_screen(self_obj))) then begin
             call Node020;
          end
@@ -215,7 +215,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
       set_message_click;
       debug_msg("self_team == " + self_team);
       if (enclave_destroyed) then begin
@@ -247,9 +247,9 @@ procedure talk_p_proc begin
       end else begin
          call Node019;
       end
-   end else begin
-      call Node021;
-   end
+   //end else begin
+   //   call Node021;
+   //end
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);
 end
 

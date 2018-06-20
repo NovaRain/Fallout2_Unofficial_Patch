@@ -195,9 +195,10 @@ procedure map_enter_p_proc begin
       nr_add_timer_event(self_obj, 6, sing_param);
    end
    // End Seraph's Code
-   if ((message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") == 0) then begin
-      destroy_object(self_obj);
-   end else begin
+   // Comment out by killap - I see no reason to have this check. Removed here and in various other New Reno scripts
+   //if ((message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") == 0) then begin
+   //   destroy_object(self_obj);
+   //end else begin
       // give them singing numbers
       if (local_var(LVAR_Number) == 1) then begin
          trash_can_singer_1_obj := self_obj;
@@ -233,7 +234,7 @@ procedure map_enter_p_proc begin
             //*/
          end
       end
-   end
+   //end
 end
 
 procedure map_update_p_proc begin

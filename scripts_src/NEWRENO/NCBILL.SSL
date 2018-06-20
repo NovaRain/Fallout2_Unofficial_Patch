@@ -74,16 +74,17 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   if ((message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") == 0) then begin
-      destroy_object(self_obj);
-   end else if (is_loading_game == false) then begin
+   // Comment out by killap - I see no reason to have this check. Removed here and in various other New Reno scripts.
+   //if ((message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") == 0) then begin
+   //   destroy_object(self_obj);
+   //end else if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_SALVATORE);
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
       end
       nr_add_timer_event_rand(self_obj, 20, 35, float_param);
-   end
+   //end
 end
 
 procedure critter_p_proc begin
