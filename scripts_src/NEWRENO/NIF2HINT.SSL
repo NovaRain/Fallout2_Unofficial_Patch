@@ -40,7 +40,7 @@ procedure Node001;
                                        while (counter < (10 - (current_stat - (get_pc_extra_stat(x))))) do begin \
                                           set_critter_stat(dude_obj, x, 1); \
                                           counter := (counter + 1); \
-                                       end; \
+                                       end;
 #define read_book                      lvar_bit(LVAR_Flags, read_book_bit)
 /*#define set_read_book                  if (read_book == false) then begin                          \
                                        end                                                          \
