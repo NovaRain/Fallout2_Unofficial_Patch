@@ -2,7 +2,7 @@
 {101}{}{Ves a Harold.}
 {102}{}{Ves a un necrófago muy viejo pero aún lleno de vida.}
 {103}{hld1a}{Como te lo digo, el viejo Harold es un poquito lento para pillarlas al vuelo. Los dos hablando no arreglaríamos nada.}
-{104}{hld1b}{Ahh, qué gracioso. Pero no tengo tiempo para intentar entenderte ahora mismo.}
+{104}{hld1b}{Ahh, qué graciosa. Pero no tengo tiempo para intentar entenderte ahora mismo.}
 {105}{hld1c}{Je je, qué cosas se ven. }
 {106}{hld2a}{Hola, piel suave. Me llamo Harold. Ayudo a mantener en marcha esta ciudad.}
 {107}{hld2a1}{¿Qué necesitas, joven?}
@@ -11,7 +11,7 @@
 {110}{hld2d}{Tienes algo... como el original. ¿Qué puede hacer el viejo Harold por ti, Moradora del Refugio? }
 {111}{hld2e}{¿No has hecho ya bastante daño, piel suave? ¿Qué quieres ahora?}
 {112}{}{¿Piel suave? ¿Por qué me llamas así?}
-{113}{}{¿Morador del Refugio? No soy un Morador del Refugio.}
+{113}{}{¿Morador del Refugio? No soy una Moradora del Refugio.}
 {114}{}{Hola, Harold. ¿Qué haces aquí?}
 {115}{}{¿Hay por aquí algún lugar para comerciar o reabastecerme?}
 {116}{}{¿Eso que te sale de la cabeza es un árbol?}
@@ -75,10 +75,10 @@
 {174}{}{No sé qué más decir. Supongo que simplemente no se me dan bien las cosas que me resultan nuevas. Pero lo siento.}
 {175}{}{Muy bien, ¿qué tal esto? Si tuviera cecina con una pinta la mitad de mala que la tuya, la quemaría para evitar envenenar a cualquier carroñero que pudiera toparse con ella. Adiós.}
 {176}{hld20a}{Bueno, está bien. Pero será mejor que dejes las gilipolleces. }
-{177}{hld20b}{Bueno, te diré algo, hijo. Lo has intentando pero sigues siendo un idiota. Quizás esta sea la lección que necesitas. Fuera de aquí.}
+{177}{hld20b}{Bueno, te diré algo, hija. Lo has intentando pero sigues siendo una idiota. Quizás esta sea la lección que necesitas. Fuera de aquí.}
 {178}{}{Lo siento. Y ahora que lo hemos resuelto, deja que te pregunte algo.}
 {179}{}{Está bien, adiós.}
-{180}{hld21a}{Prefiero tener esta pinta que tener la tuya y parecerme a ti. Eres un idiota. Sal de aquí de una puta vez. }
+{180}{hld21a}{Prefiero tener esta pinta que tener la tuya y parecerme a ti. Eres una idiota. Sal de aquí de una puta vez. }
 {181}{hld21b}{Eres como una maldita astilla que uno no puede quitarse del dedo. Pero sigo intentando... ¡Oh, mira, ya está!}
 {182}{hld21c}{Bueno, mira lo que ha traído el viento. Mi mojón favorito. ¿Y si te vas a hacer puñetas de aquí?}
 {183}{hld21d}{¿Quieres saber cómo mantenerle el suspense a un idiota?}
@@ -97,20 +97,20 @@
 {196}{hld29}{Nada, ¿eh? Y yo que me lo creo. Acabas de ponernos en un aprieto. ¿Por qué no desapareces mientras pienso qué hacer?}
 {197}{}{Eh, lo siento.}
 {198}{}{Sí, claro. Ponte a hacerlo. Cristo, uno intenta ayudar a la gente....}
-{199}{hld30}{¡¿Que por qué?! Ahora Ciudad Refugio sabe lo mucho que necesitamos el uranio de Broken Hills. Podrían cortar los envíos y estaríamos acabados.}
+{199}{hld30}{¡¿Que por qué?! Ahora Ciudad Refugio sabe lo mucho que necesitamos el uranio de  Colinas Quebradas. Podrían cortar los envíos y estaríamos acabados.}
 {200}{}{Oh, pero no puede ser tan malo. A mí me parecieron gente razonable.}
 {201}{}{No sabía para qué usarían la información. Lo siento. Adiós.}
-{202}{hld31}{Bueno, desde luego que espero que no. Esos imbéciles de Ciudad Refugio odian a los necrófagos. Cortarían nuestros envíos de uranio de Broken Hills en apenas un minuto. Después establecerían las condiciones. No pasaría mucho tiempo para que Gecko pasara a ser un campo de esclavos.}
+{202}{hld31}{Bueno, desde luego que espero que no. Esos imbéciles de Ciudad Refugio odian a los necrófagos. Cortarían nuestros envíos de uranio de Colinas Quebradas en apenas un minuto. Después establecerían las condiciones. No pasaría mucho tiempo para que Gecko pasara a ser un campo de esclavos.}
 {203}{}{Oh, estoy seguro de que no sucedería así. Parecen bastante razonables.}
 {204}{}{Vaya, menos mal que no les dije nada de eso. Je, je. Oye, deja que te pregunte algo más.}
 {205}{}{Bueno, a veces las cosas se tuercen. A veces te tuerces tú. Adiós.}
-{206}{hld32}{¿Razonables? ¡Razonables! Bueno, seguro que la gente también decía que el Maestro era razonable. Menudo estúpido. Lárgate. ¡Ahora!}
+{206}{hld32}{¿Razonables? ¡Razonables! Bueno, seguro que la gente también decía que el Maestro era razonable. Menuda estúpida. Lárgate. ¡Ahora!}
 {207}{}{Quizá tienen razón. Quizá haya llegado la hora de ponerle fin a los monstruitos como tú. Adiós.}
 {208}{}{Eh, bueno, yo, eh... Adiós.}
 {209}{hld33}{Bueno, puedes intentar hablar con Wooz en El Arpa. No tiene pérdida: está justo al otro lado de la calle. }
 {210}{}{Gracias. Deja que te pregunte algo más.}
 {211}{}{Gracias, eso es todo lo que necesito saber por ahora. Adiós.}
-{212}{hld34}{¿Celoso? Se llama Herbert. Hablo con él cuando me siento solo... Je je. Es una broma... se llama Bob.}
+{212}{hld34}{¿Celosa? Se llama Herbert. Hablo con él cuando me siento solo... Je je. Es una broma... se llama Bob.}
 {213}{}{Muy bien... entonces tal vez Bob o tú sepáis la respuesta a lo que sigue.}
 {214}{}{Gracias, eso es mucho más de lo que necesito saber ahora mismo. Adiós.}
 {215}{hld35}{¿Un Kit de Creación del Jardín del Edén? Un GECK, ¿cierto? Creo recordar que los Refugios los tenían. No sé dónde se puede encontrar uno hoy en día. }
@@ -137,7 +137,7 @@
 {236}{hld41}{Hay cierto parecido. Hasta lo que puedo recordar, en todo caso. Ya sabrás que tu antepasado nos salvó el culo a todos.}
 {237}{}{El Morador del Refugio salvó a todos los necrófagos?}
 {238}{}{Gracias. Es bueno saberlo. Oye, tengo que salir corriendo un momento. Te veré más tarde.}
-{239}{hld42}{Te precipitas en sacar conclusiones, jovencito. Eso hará que algún día te vuelen el trasero. A todos nosotros. Salvó a todo aquel con dos piernas que se arrastra por el puñetero planeta. }
+{239}{hld42}{Te precipitas en sacar conclusiones, jovencita. Eso hará que algún día te vuelen el trasero. A todos nosotros. Salvó a todo aquel con dos piernas que se arrastra por el puñetero planeta. }
 {240}{}{No me había dado cuenta de eso.}
 {241}{}{Creo que de momento ya he oído suficiente. Adiós.}
 {242}{hld43}{Bueno. Ahora lo sabes. ¿Y qué pasó después? Como agradecimiento, los malditos Refugiados petulantes echaron al Morador de una patada. Siempre me he preguntado qué sucedió después.}
@@ -164,7 +164,7 @@
 {263}{}{Parece que tienes un montón de preocupaciones. Adiós.}
 {264}{hld50}{Si no la conseguimos, puedes apostar a que esos memos de Ciudad Refugio cerrarán nuestra central de forma permanente.}
 {265}{}{¿Qué haréis entonces?}
-{266}{hld51}{Conseguimos nuestro combustible de Broken Hills. Es una comunidad minera que está hacia el sur.}
+{266}{hld51}{Conseguimos nuestro combustible de Colinas Quebradas. Es una comunidad minera que está hacia el sur.}
 {267}{}{Interesante. ¿Dónde podría encontrar un regulador hidroele-lo que sea?}
 {268}{}{¿Qué sucede si no conseguís la hidro-pieza esa?}
 {269}{}{Hmm, creo que debería dejar que esto lo resolvais vosotros mismos. Adiós.}
