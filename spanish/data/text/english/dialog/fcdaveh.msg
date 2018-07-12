@@ -94,7 +94,7 @@ Oh, bueno.
 {189}{}{"¡Creo que deberíamos cambiar la interfaz, a pesar de que ésta funciona perfectamente bien!"}
 {190}{}{"¿Por qué no puedo usar una espada o una motosierra con mi monitor?"}
 {191}{}{"Debería poder tener dos armas. ¿Por qué no puedo usar dos armas?"}
-{192}{}{"La interfaz de mi terminal es lenta y torpe. Creo que es culpa tuya."}
+{192}{}{"La interfaz en mi terminal es lenta y torpe. Creo que es culpa tuya."}
 {193}{}{Algo así.}
 {194}{}{Ya veo. Parece que esas personas van a tener un montón de diversión. Tengo más preguntas.}
 {195}{}{Ya veo. Bueno, hasta luego.}
