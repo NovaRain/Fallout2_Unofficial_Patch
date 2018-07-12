@@ -2,8 +2,8 @@
 {101}{}{Siguen siendo un grupo de extraños bien armados.}
 {102}{}{Portan armas limpias y bien brillantes y llevan una especie de placa en el pecho.}
 {103}{}{Estamos buscando patrullas de esclavistas. ¿Has visto alguna, forastera?}
-{104}{}{Saludos, forastero. Espero que no seas un esclavista... por tu propio bien.}
-{105}{}{Me alegro de verte, forastero. No nos molestes y no habrá problemas.}
+{104}{}{Saludos, forastera. Espero que no seas una esclavista... por tu propio bien.}
+{105}{}{Me alegro de verte, forastera. No nos molestes y no habrá problemas.}
 {106}{}{Somos los Rangers de la RNC. Hacemos del mundo un lugar mejor. Pensé que te gustaría saberlo.}
 {107}{}{Somos Rangers. Matar esclavistas es lo nuestro.}
 {108}{}{Maldita esclavista. ¡Vas a morir!}
@@ -21,7 +21,7 @@
 {120}{}{No.}
 {121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}
 {122}{}{Eres una mentirosa de mierda. ¡A por ella!}
-{123}{}{Saludos, forastero. Somos los Rangers de la RNC. ¿Quién eres tú?}
+{123}{}{Saludos, forasteras. Somos los Rangers de la RNC. ¿Quién eres tú?}
 {124}{}{Nadie que te importe.}
 {125}{}{Sí, he oído hablar de ti. Eres un Ranger, ¿no?}
 {126}{}{Sí.}

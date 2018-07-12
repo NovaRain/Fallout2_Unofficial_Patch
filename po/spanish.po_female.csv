@@ -74,6 +74,7 @@ Don't panic; this will be over in a minute.,No te pongas nerviosa; esto habrá a
 "Fully healed, Boss. Anything else?","Curado del todo, Jefa. ¿Algo más?"
 "Great, an idiot. Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you. Until then, though, I'm busy. Now go.","Genial, una idiota. Mira, amiga, sólo baja esas escaleras y quizá te puedan ajustar tus neurodinas y hacer algo útil de ti. Pero hasta entonces estoy ocupado. Y ahora vete."
 "Heeeey! Hero! You all right, you all right.","¡Heeeey! ¡Heroína! Lo hiciste bien, muy bien."
+"You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. ","Acabas de cometer un gran error, amiga. Acabo de poner en tu contra a los Shi a través de sus computadoras. Estás acabada en San Francisco. "
 Hope you're proud of yourself.,Espero que estés orgullosa de ti misma.
 "Hello again, friend. What can I do for you?","Hola otra vez, amiga. ¿Qué puedo hacer por ti?"
 "You are a thief, a murderer, and a villain. I'm afraid I must kill you.","Eres una ladrona, una asesina, y una villana. Me temo que debo matarte."
@@ -340,6 +341,7 @@ You Outsider degenerate. I'm not one to be trifled with! You'll never set foot i
 Flamethrower Fuel,Combustible de lanzallamas
 "Me been there. Squatters want deal. You teach, you help, they give you vault.","Estado allí. Ok-kupas quieren trato. Tú enseñas, tú ayudas, ellos te entregan Refugio."
 Chosen. The village weakens. It is harder to touch your dreams.,Elegida. La aldea se debilita. Es más difícil tocar tus sueños.
+"Greetings, stranger. We're NCR Rangers. Who be you?","Saludos, forasteras. Somos los Rangers de la RNC. ¿Quién eres tú?"
 "Die, outsider!","Muere, ¡forastera!"
 "Talk?! TALK?! What in HELL do we have to talk about, you goddamned thief!","¡¿Hablar?! ¡¿HABLA?! ¡¿De qué COJONES tenemos que hablar, jodida ladrona?!"
 The Elder was wrong. You are evil.,La Anciana se equivocó. Eres malvada.
@@ -409,6 +411,7 @@ Human weapons cannot harm me!,¡Las armas humanas no pueden dañarme!
 "Sure, stranger, what do you want to know?","Desde luego, forastera, ¿qué quieres saber?"
 "Get outta here, retard.","Largo de aquí, retrasada."
 "Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. ","Bien... Oh, lo siento, pero parece que he extraviado el pedernal. Sin embargo te deseo un buen viaje, hija."
+"The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password ""CSPDMSHR-Shih-huang-ti-X9372"" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.","El Emperador permanece oculto a los ojos indiscretos. Es mi trabajo actuar como la pantalla del Emperador. Sin embargo, has demostrado ser una amiga de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña ""CSPDMSHR-Shih-huang-ti-X9372"" y estarás conectado a la Computadora Emperador. Espero que te resulte útil."
 "Look, ""Chosen One,"" I'm trying to concentrate here, okay?","Oye, ""Elegida"", que estoy intentando concentrarme, ¿vale?"
 "Always glad to make some extra money. Thanks, and goodbye.","Siempre alegra conseguir algo de dinero extra. Gracias, y adiós."
 "Advice? Well, advice's expensive, Outsider. You got any money?","¿Un consejo? Bien, los consejos son caros, forastera. ¿Tienes dinero?"
@@ -473,6 +476,7 @@ I don't want anything to do with a slaver. Goodbye.,No quiero tener nada que ver
 "Our life is in your hands, Chosen One.","Nuestra vida está en tus manos, Elegida."
 You're already dead...,Estás muerta...
 Accepted,Aceptada
+"Nice meeting you, stranger. Don't mind us and there won't be any trouble.","Me alegro de verte, forastera. No nos molestes y no habrá problemas."
 You are the Chosen One.,Tú eres la Elegida.
 "You're dead, moron!","¡Estás muerta, idiota!"
 I *am* a Citizen.,Yo *soy* una Ciudadana.
@@ -592,6 +596,7 @@ Nice unit you got there.,Tienes una buena unidad ahí.
 "Sure thing, Boss.","Claro que sí, Jefa."
 Dumping the F.E.V. toxin into our air doesn't make you a hero. You're just another mutant that needs to be put down.,Soltar la toxina V.E.F en los conductos de aire no te hace una heroína. Sólo eres otra mutante que debe ser aniquilada.
 "Welcome to NCR, stranger. Name's Dumont - Sheriff Dumont. Hope you're having a nice peaceful time here.","Bienvenida a RNC, forastera. Me llamo Dumont, sheriff Dumont. Espero que disfrutes de tranquilidad mientras estés por aquí."
+"I am Ken Lee, advisor to the Emperor. And you, my friend, appear to be simpleminded, so remember this: if you seek the Enclave, then you must take the Poseidon tanker to it. You'll need fuel for the tanker. You have my blessing.","Soy Ken Lee, consejero del Emperador. Y tú, amiga mía, parecer ser una ingenua, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición."
 By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!,"Librándote de las neurodinas que te mantienen en un estado de opresión, con un alineamiento. ¡Sólo entonces puedes ser una Iluminada!"
 "Well keep it polite, punk, or this could get ugly.","Eh, un poquito de amabilidad, gamberra, o esto podría ponerse feo."
 Yes. I am the Chosen One. My ancestor saved the world from one called the Master.,Sí. Yo soy la Elegida. Mi antepasado salvó al mundo de alguien llamado 'El Maestro'.
@@ -995,6 +1000,7 @@ Gifted,Capacitada
 "What the hell. I must be crazy, but I'll do it.","Qué diablos. Debo estar loca, pero lo haré."
 RADIATED,IRRADIADA
 "Glory in battle buys life everlasting! I honor you, strange one.","La gloria en la batalla aporta más vida. Gracias, extranjera."
+"Well, I'm only interested in saving my tribe. The rest of the world can fend for itself. Goodbye.",Pues yo sólo estoy interesada en salvar a mi tribu. El resto del mundo puede cuidarse por sí mismo. Adiós.
 I've been irradiated.,He sido irradiada.
 You not sound like usual self.,No pareces tú misma.
 Keep your hands off the stuff if you don't have approval.,Mantén las manos lejos de la mercancía si no estás aprobada.
@@ -1061,7 +1067,7 @@ A slaver! Get out of here before I remove that tattoo of yours with a bullet!,¡
 "Greetings, child. Are you one of the Enlightened?","Saludos, hija. ¿Eres una de los Iluminados?"
 "I'd be honored if you would. Thanks, guys.","Estaría honrada si lo hicierais. Gracias, muchachos."
 "Well, aren't you a goody-two-shoes. I don't think I like your tone, pal.","Bueno, desde luego no eres una santa. Creo que no me gusta tu tono, amiga."
-"Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.","Desgraciadamente, eres adicta al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas."
+Bastard! I'll sodomize you for that!,¡Zorra! ¡Te sodomizaré por eso!
 Chosen. The village [weakens.],Elegida. La aldea [se debilita.]
 "You know, Family Bishop could really use someone like you. Tough. Uncompromising.","Ya sabes, a la Familia Bishop podría venirle muy bien alguien como tú. Dura. Inflexible."
 "All right, sister, all right! ","¡Está bien, hermana, está bien! "
@@ -1081,6 +1087,7 @@ You know somebody named Pretty Boy Lloyd?,¿Conoces a alguien llamado Lloyd el G
 Are you new here? I don't recall seeing you before.,¿Eres nueva aquí? No recuerdo haberte visto antes.
 We thinkin' you need time to smell de flowers. Grampy-Bone say you're too pushy all de time. You got to be takin' life slower.,Nosotros pensar que tu necesitas tiempo para oler las flores. Abuelo Hueso dice que tú ser demasiado agresiva. Tú deber tomarte la vida con más calma.
 "I'd like to be ""captured"" by some ravishing she-mutant, then be forced to take a dip in her mutating ""vat.""","Me gustaría ser ""capturada"" por una deslumbrante mutante, y forzada a sumergirme profundamente en su ""depósito"" mutante."
+"You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find the force field to the large computer has been turned off.  Enter the password ""CSPDMSHR-Shih-huang-ti-X9372"" and you will find yourself connected to the Emperor Computer.  The Emperor will be able to direct our fuel to where you need it.","Ciertamente eres digna merecedora de nuestro combustible. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña ""CSPDMSHR-Shih-huang-ti-X9372"" y estarás conectada a la Computadora Emperador. El Emperador podrá dirigir nuestro combustible a donde lo necesites."
 "Hungry, stranger? I got the best lizard around. Ask anybody!","¿Hambrienta, forastera? Tengo la mejor iguana de los alrededores. ¡Pregúntale a cualquiera!"
 "Spreading out, Boss.","Distanciándonos, Jefa."
 "I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!","Te lo agradezco, humana. ¡Vamos a patear algunos culos del Enclave! ¡Manada de Gruthar! ¡Grrrrrrrhh!"
@@ -1123,7 +1130,7 @@ Star Father! Save me from the heathen!,¡Padre Estelar! ¡Líbrame de la pagana!
 "Brother, welcome to Vortis' hall. How can I help you?","Amiga, bienvenida a El Portal de Vortis. ¿En qué puedo ayudarte?"
 New in town? Word is Merk's looking for some tough hombres.,¿Nueva en la ciudad? Se dice que Merk está buscando a algunos tipos duros.
 More longer friend see that sky?,"Amiga, ¿ves ese cielo?"
-Bastard! I'll sodomize you for that!,¡Zorra! ¡Te sodomizaré por eso!
+"Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.","Desgraciadamente, eres adicta al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas."
 "Northeast corner of the base, friend. Can't miss it.","En la esquina nordeste de la base, amiga. No tiene pérdida."
 I am Jobe. It is your time to be beaten.,Soy Jobe. Es hora de que seas vencida.
 "I run the Corrections Center. And obey your orders, sir.","Dirijo el Centro Correccional. Y obedezco sus órdenes, señora."
@@ -1133,6 +1140,7 @@ So be it. Zomak! Kill this fool for me. But be careful with the Cheezy Poofs!,Qu
 "Dumb as they come, aren't you?","Eres una auténtica idiota, ¿eh?"
 Greetings! The village has expanded again as we have hoped. You are welcome as always.,"¡Saludos! El pueblo se ha expandido de nuevo tal y como esperábamos. Como siempre, eres bienvenida."
 "Ah, poor child. Would you like to be aligned?","Ah, pobre muchacha. ¿Te gustaría ser alineada?"
+Greetings stranger. Sure hope you're not a slaver - for your own sake.,"Saludos, forastera. Espero que no seas una esclavista... por tu propio bien."
 "You're not quite smart enough to grunt, are you?","No eres lo bastante lista como para gruñir, ¿verdad?"
 VERY WELL! YOU HAVE PROVEN YOURSELF!,¡MUY BIEN! ¡TE HAS MOSTRADO DIGNA!
 "Good joke, Chosen One! You know where it is. That way -- to the south.","¡Qué chiste más bueno, Elegida! Ya sabes donde está. Por allí... hacia el sur."
@@ -1356,6 +1364,7 @@ Sharpshooter,Tiradora
 "Greetings, friend. Have you examined the machine yet?","Saludos, amiga. ¿Ya has examinado la máquina?"
 "Hello, Citizen. Is there anything I can help you with?","Hola, Ciudadana. ¿Hay algo en lo que pueda ayudarte?"
 "Chosen One, do you wish us all dead? You must find the Vault!","Elegida, ¿quieres que muramos todos? ¡Debes encontrar el Refugio!"
+"You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password ""CSPDMSHR-Shih-huang-ti-X9372"" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.","Has demostrado ser una amiga de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña ""CSPDMSHR-Shih-huang-ti-X9372"" y estarás conectada a la Computadora Emperador. Espero que te resulte útil."
 "You chose the right place to drink, friend.","Has escogido el sitio perfecto para venir a beber, amiga."
 ", aincha? Yer good in the ring, best I ever seen in these parts.",", ¿verdad? Eres buena sobre el ring, la mejor que he visto por aquí."
 I'm crippled.,Estoy tullida.
@@ -1656,6 +1665,8 @@ Savior of the Damned,Salvadora de los Condenados
 "(You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath New Reno's lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.) *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*","(Ves una máquina tragaperras. Su fuerte y dura carcasa y su dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tus muslos arden por las expectativas. Al acercarte, surge de repente el susurro de una fuerte voz masculina desde la ranura para las monedas). *No había visto antes por aquí a una mujer tan hermosa como tú. ¿Quieres una oportunidad?*"
 I LOVE you! You are a HERO. A GODDAMN HERO. I COULD HUG YOU TO DEATH.,¡Te QUIERO! Eres una HEROÍNA. UNA MALDITA HEROÍNA. TE ABRAZARÍA HASTA MATARTE.
 "One ex-gaijin, coming up!",¡Viene una antigua gaijin!
+"I'm sure that the work you do here amongst the ghouls has value and meaning. It was good to
+ hear of my ancestor. Let me ask you something.",Estoy segura de que el trabajo que haces aquí para los necrófagos tiene valor y significado. Ha estado bien oír hablar de mi antepasado; déjame preguntarte algo.
 "Sir. It's good to see you, sir.","Señora. Me alegra verla, señora."
 Welcome to the guild!,¡Bienvenida al gremio!
 I'm ready.,Estoy preparada.
@@ -1763,6 +1774,7 @@ Very well. Return and tell me when you are ready for your challenge.,Muy bien. A
 "Greetings, Chosen. Why does the earth before me warm to the touch of your passing?","Saludos, Elegida. ¿Por qué la tierra ante mí se calienta con el roce de tu paso?"
 "I'm sorry, ya must be new to the army. Don't take offense to what I said, that's just what we call stuff here.
  Shit on a shingle's chipped beef on toast. Snow and fly shit's another name for salt and pepper.","Lo siento, debes ser nueva en el ejército. No te ofendas, sólo es la forma en la que lo llamamos aquí. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta."
+I'm wounded. Can you help me?,Estoy herida. ¿Puedes ayudarme?
 Uh... 'seasoned'?,Eh... '¿experimentada?'
 "Oh man, you blew it! Merk's not going to be happy when he hears this.","¡Oh, amiga, lo has echado a perder! Merk no va a estar contento cuando se entere de esto."
 You are truly mighty. Goodbye.,Eres realmente buena. Adiós.

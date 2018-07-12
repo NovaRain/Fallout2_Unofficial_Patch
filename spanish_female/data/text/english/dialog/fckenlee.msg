@@ -12,7 +12,7 @@
 {111}{}{Me gustaría hablar con el Emperador.}
 {112}{}{Los Hubologistas me han asignado para matar al Emperador.}
 {113}{}{Nada. Gracias. Adiós.}
-{114}{}{Soy Ken Lee, consejero del Emperador. Y tú, amigo mío, parecer ser un ingenuo, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición.}
+{114}{}{Soy Ken Lee, consejero del Emperador. Y tú, amiga mía, parecer ser una ingenua, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición.}
 {115}{}{¡G-gracias!}
 {116}{}{Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, boba.}
 {117}{}{¡Grrr!}
@@ -81,7 +81,7 @@
 {180}{}{Ciertamente lo es. Y trato con esa gente a diario. ¡Ay!}
 {181}{}{En fin, tengo más preguntas.}
 {182}{}{Sí, pobre de ti. Adiós.}
-{183}{}{Ciertamente eres digno merecedor de nuestro combustible. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. El Emperador podrá dirigir nuestro combustible a donde lo necesites.}
+{183}{}{Ciertamente eres digna merecedora de nuestro combustible. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectada a la Computadora Emperador. El Emperador podrá dirigir nuestro combustible a donde lo necesites.}
 {184}{}{Gracias.}
 {185}{}{¡Guardias! ¡El enemigo está entre nosotros! ¡Guardias!}
 {186}{}{¿Realmente lo tienen? Quizá te gustaría cambiar las tornas con ellos? Puedo prometerte nuestra ayuda si aceptas matar a AHS-9. }
@@ -95,7 +95,7 @@
 {194}{}{Con la muerte de AHS-9, el Grande y Terrible, los Hubologistas no suponen una amenaza para nosotros y nuestras investigaciones. Bien hecho. Tienes nuestra gratitud. ¿Te gustaría hablar con el Emperador?}
 {195}{}{Sí.}
 {196}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
-{197}{}{Has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
+{197}{}{Has demostrado ser una amiga de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectada a la Computadora Emperador. Espero que te resulte útil.}
 {198}{}{¿El Emperador es una COMPUTADORA?}
 {199}{}{Lo tengo. Gracias.}
 {200}{}{Sí. Almacena nuestra historia, nuestras investigaciones, y las posibilidades de proyectos futuros. Es mucho mejor que cualquier humano falible... aunque moderamos sus sugerencias con nuestro conocimiento de la naturaleza humana.}
@@ -126,5 +126,5 @@
 {500}{}{Vete de inmediato o llamaré a los guardias.}
 {501}{}{Vete ahora. Este es tu segundo aviso.}
 {502}{}{Este es tu último aviso.}
-{1430}{}{El Emperador permanece oculto a los ojos indiscretos. Es mi trabajo actuar como la pantalla del Emperador. Sin embargo, has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
+{1430}{}{El Emperador permanece oculto a los ojos indiscretos. Es mi trabajo actuar como la pantalla del Emperador. Sin embargo, has demostrado ser una amiga de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
 {2001}{}{Ya... veo. Bien, gracias por tu tiempo. Tengo un poblado que rescatar.}
