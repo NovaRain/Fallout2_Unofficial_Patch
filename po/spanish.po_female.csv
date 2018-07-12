@@ -43,7 +43,8 @@ You damn mutant.,Maldita mutante.
 Whatta fuckin' sissy you are.,Qué pedazo de hijaputa eres.
 "Well, if it ain't th' ""Captain...""","Vaya, pero si es la ""capitán""..."
 You're pretty good already. Go learn to shoot or something.,Ya eres lo bastante buena. Ve a aprender a disparar o algo así.
-"For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.","Por mí, nada. Elegida, debes buscar el redil de los oscuros y rescatar a nuestra gente."
+"Oh, the Chosen One. Oh my, I didn't realize. I'll just try to stop shaking long enough to tell
+ you something then. (Wooz smiles) Come closer and I'll whisper it to you.","Oh, la Elegida. Vaya, no me había dado cuenta. Entonces dejaré de hacer lo que estaba haciendo para contarte algo (Wooz sonríe). Acércate, que te lo voy a decir al oído."
 "You got it, fren.","Acertaste, miga."
 "Hello there, my good friend.","Hola, mi buena amiga."
 What else could I do to beat customs other than becoming a Citizen?,¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadana?
@@ -196,7 +197,7 @@ Pleased to meet you. So...about my offer...?,Encantada de conocerte. Y... ¿sobr
 Yer dumb-errrr,Eres más que tontaaaa.
 Jet Reliance,Adicta al Jet
 "I'm right behind ya, Boss.","Justo tras de ti, Jefa."
-"Well, thank you kindly, stranger.","Bien, te lo agradecemos mucho, forastera."
+Bummer!,¡Alborotadora!
 "Care for a drink, hero?","¿Te apetece una copa, heroína?"
 I'm good at getting to where I need to go without being seen or heard.,Soy buena colándome donde necesito ir sin ser visto ni oído.
 "Slumming, Citizen?","¿Visitando los barrios bajos, Ciudadana?"
@@ -238,6 +239,7 @@ You got the shakes don'tcha kid?,"Estás temblando, ¿verdad, chavala?"
 "When I grow up, you'll be old, and I'll do to you what you did to Mr. Nixon.","Cuando yo crezca, tú serás vieja, y te haré lo mismo que le has hecho al señor Nixon."
 "Heeeey...whatzzup, friend? Something on your mind?","Heeeey... ¿cómo lo llevas, amiga? ¿Tienes algo en mente?"
 Chosen - the shadow of darkness arrived before you.,Elegida... la sombra de la oscuridad llegó antes que tú.
+"For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.","Por mí, nada. Elegida, debes buscar el redil de los oscuros y rescatar a nuestra gente."
 To be a friend of the Brain is a wondrous thing.,Ser amiga del Cerebro es una cosa maravillosa.
 You have become a made man of the Bishop family.,Te has convertido en Iniciada de la Familia Bishop.
 I don't know how you became a Citizen. You're nothing but a mutant to me. If only someone would believe me...,No sé cómo lograste hacerte Ciudadana. Para mí no eres más que una mutante. Si tan solo alguien me creyera...
@@ -257,7 +259,6 @@ Thief,Ladrona
 "Boss, Sulik's glaring at me again.","Jefa, Sulik está volviendo a mirarme."
 "Let's ask your ""boss.""","Preguntemos a tu ""jefa""."
 "Yo! You got a minute, friend?","¡Tú! ¿Tienes un minuto, amiga?"
-Bummer!,¡Alborotadora!
 Coulda been a contender!,¡Podría haber sido una contrincante de verdad!
 "I already gave you the flint, stupid. Now stop wasting my time and get out of here!","Ya te di el pedernal, estúpida. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!"
 Now you're mine.,Ahora eres mía.
@@ -319,6 +320,7 @@ Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!,¿Quemado? ¿QUEMARNOS? ¡GUARD
 Were you asleep during indoctrination? Hmmph - you are not one of the Enlightened!,¿Estabas dormido durante el adoctrinamiento? Mmmmm... ¡tú no eres una de los Iluminados!
 I'm not going to help a childkiller. Goodbye.,No voy a ayudar a una asesina de niños. Adiós.
 "What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!","¿Qué crees que estás haciendo, chiquilla? Esa no es manera de actuar para una Elegida. ¡Ahora desaparece de mi vista!"
+"Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.","¡Hola, bienvenida, saludos! Soy el Gran Ananías (con un movimiento, te realiza una ligera reverencia). Traigo conmigo los misterios cercanos y de tierras lejanas. Misterios de un mundo más allá del nuestro... los del Inframundo."
 "I'm Doc Jubilee. What's wrong, young man?","Soy el doctor Jubilee. ¿Qué ocurre, jovencita?"
 Master Thief,Maestra ladrona
 "Hey, man, say your prayers!","Eh, amiga, ¡reza lo que sepas!"
@@ -946,10 +948,12 @@ I'm just a traveler passing through.,Sólo soy una viajera que está de paso.
 "My systems are functioning at near full capacity, master.","Mis sistemas funcionan a capacidad casi total, ama."
 "Chosen, our crops fail, our reserves are meager.","Elegida, nuestras cosechas caen, nuestras reservas decrecen."
 "Greetings, stranger. Come to do business with NCR, have you?","Saludos, extranjera. ¿Vienes a hacer negocios con la RNC?"
-Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?,¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás lista para partir?
+Me believe in self. Me can do!,Creo en yo misma. ¡Puedo hacer!
 "You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.","¿Deseas convertirte en Ciudadana? Bueno, nos alegraría tenerte. Todo lo que tienes que hacer es hablar con el procónsul Gregory y él te hará la prueba de Ciudadanía."
 Poisoned,Envenenada
 "It's no use, I'm not going back. None of you appreciated the work I was doing, so don't pretend to be my friend. Thank you very much!","No sirve de nada, no voy a volver. Nadie reconocía la labor que estaba haciendo, así que no pretendas ser mi amiga. ¡Muchas gracias!"
+"Hello there. Looks like you're another Tragic player. Have time for a game? Or are ya yeller?
+ I'm a-callin' you out.",Hola. Parece que eres otra jugadora de Tragic. ¿Tienes tiempo para jugar un poco? ¿O eres un gallina? Te lo estoy diciendo a ti.
 Is there another way to become a Citizen?,¿Hay alguna otra manera de hacerse Ciudadana?
 "Keep your hands off our stack, Jack.","Mantén tus manos apartadas de nuestro montoncito, campeona."
 I'm looking for the main computer. Can you tell me where it is?,Busco la computadora principal. ¿Puedes decirme donde está?
@@ -1068,6 +1072,7 @@ Go away. I do not want you for a master.,Vete. No quiero una ama como tú.
 "You done have my apology, stranger.  Luck be with ya.","Me disculpo, forastera. Que tengas suerte."
 It's going to cost $50 to patch you up good as new.,Te va a costar 50 dólares parchearte y dejarte como nueva.
 "The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.","El Refugio está justo al otro lado de la puerta. Simplemente di a los guardias que eres Ciudadana, y te permitirán entrar."
+Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?,¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás lista para partir?
 Who the--? <zzzt> We got an intruder here!,¿Pero quién--? <zzzt> ¡Tenemos una intrusa aquí!
 A slaver! Get out of here before I remove that tattoo of yours with a bullet!,¡Una esclavista! Sal de aquí antes de que te borre ese tatuaje con una bala!
 "Greetings, child. Are you one of the Enlightened?","Saludos, hija. ¿Eres una de los Iluminados?"
@@ -1180,7 +1185,6 @@ You feel a lot more safe now that the dog is dead.,Te sientes un poco más segur
 My word! An intruder! Help! Guards!,¡Dios mío! ¡Una intrusa! ¡Ayuda! ¡Guardias!
 You misunderstand. Only my potential as the Chosen One is pre-determined. My choices and my actions determine the fulfillment of that potential.,Me malinterpretas. Sólo mi potencial como Elegida está predeterminado. Mis elecciones y acciones determinan el cumplimiento de ese potencial.
 "Then please install the part, master! Please, master!","Entonces, ¡por favor instala la pieza, ama! ¡Por favor, ama!"
-Me believe in self. Me can do!,Creo en yo misma. ¡Puedo hacer!
 Trap my ass! Fucking liar.,Trampa... ¡y una mierda! Puta mentirosa.
 The bearer of this document is Security Clearance A-Prime as authorized by the authority of the President of the New California Republic. It's signed by President Tandi.,El portador de este documento dispone de un pase de seguridad clase-A conforme a lo autorizado por la Presidencia de la Nueva República de California. Está firmado por la Presidente Tandi.
 "You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.","Eres una experta en el refinado arte del manejo de explosivos. Siempre explotan cuando deben, causando un daño extra."
@@ -1259,7 +1263,7 @@ Hated,Odiada
 "Look, dim, get out of here, or I'll call the guards.","Mira, tarada, sal de aquí o llamaré a los guardias."
 "We got us an intruder, boys!","¡Tenemos una intrusa, chicos!"
 "Die, enemy of the people!","¡Muere, enemiga del pueblo!"
-"Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.","¡Hola, bienvenida, saludos! Soy el Gran Ananías (con un movimiento, te realiza una ligera reverencia). Traigo conmigo los misterios cercanos y de tierras lejanas. Misterios de un mundo más allá del nuestro... los del Inframundo."
+"Well, thank you kindly, stranger.","Bien, te lo agradecemos mucho, forastera."
 "So, friend, have you reconsidered?","Así que, amiga, ¿lo has reconsiderado?"
 "I got shit that'll help you kiss the sky, hero.","Tengo material que te hará subir hasta el cielo, heroína."
 Scout,Rastreadora
@@ -1649,6 +1653,7 @@ Tough cookie!,¡Eres dura de pelar!
 Just call me stumpy.,Ahora puedes llamarme cojo.
 "You are our only hope, Chosen One. Please do not fail us!","Eres nuestra sola esperanza, Elegida. Por favor, ¡no nos falles!"
 "Me been there. Squatters want deal. You teach, you help, they give you vault.","Estado allí. Ok-kupas quieren trato. Tú enseñas, tú ayudas, ellos te entregan Refugio."
+I'm too disappointed to talk right now. Goodbye.,Estoy demasiado decepcionada para hablar ahora. Adiós.
 Welcome back. Need more booze?,Bienvenida de nuevo. ¿Quieres más licor?
 "Sure, handsome.","Claro, guapa."
 "Hey there, hero. What can I do for you?","Hola, heroína. ¿Qué puedo hacer por ti?"
@@ -1657,6 +1662,8 @@ You're smarter than you look.,Eres más astuta de lo que pareces.
 "Hello, Chosen One, can I help you in your quest?","Hola, Elegida, ¿puedo ayudarte con tu misión?"
 "C'mon, friend, gimme just a few chips.","Vamos, amiga, dame sólo unas pocas fichas."
 "The Chosen One has come, and he will rid the world of your evil.","La Elegida ha llegado, y ella librará al mundo de tu maldad."
+"Nearest Vault? Gee, I don't know. Maybe you could ask the people in Vault City where a Vault
+ might be. Vault City's just south of here. You are dumb, aren't you?","¿El Refugio más cercano? Cristo, no lo sé. Quizá deberías preguntar a la gente de Ciudad Refugio dónde podría haber uno. Ciudad Refugio está justo al sur de aquí. Eres tonta, ¿verdad?"
 "Hello again, fellow pilgrim! How can I help you on this day?","¡Hola de nuevo, compañera peregrina! ¿Cómo puedo ayudarte hoy?"
 "Man, I wish I coulda seen that exploshun while I was high. Musta been somethin', huh?","Amiga, ojalá hubiera visto esa explosión cuando estaba colocado. Habría sido la leche, ¿eh?"
 Dodger,Esquivadora
@@ -1736,6 +1743,7 @@ I'm sure it's the right part. I have great confidence in your abilities.,Estoy s
 "I don't like traveling alone either, so I can't blame you.","A mí tampoco me gusta viajar sola, no te culpo."
 "Close it is, Boss.","Lo más cerca que pueda, Jefa."
 "I don't like you. You're a big stupid-head! (Sticks out his tongue.) Get outta here, stupid-head!","No me gustas. ¡Eres una gran estúpida! (te saca la lengua). ¡Vete de aquí, estúpida!"
+"That's just the first part. Now that you're one of us, want to play a game?","Esto es sólo el principio. Ahora que eres una de nosotros, ¿quieres echar una partida?"
 "No, I'm too busy to deliver the disk.","No, estoy demasiado ocupada como para entregar el disco."
 "That's right, man. Go see Merk. He's always got things that need doing.","Eso está bien, amiga. Ve a ver a Merk. Siempre tiene cosas que hay que hacer."
 "I kinda had you pegged for that type when I first saw you, but I wasn't sure. Get out of here,
