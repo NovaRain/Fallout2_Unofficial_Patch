@@ -2,7 +2,7 @@
 {101}{}{Ves a Dave H.}
 {102}{}{Ves a un hombre pelirrojo con un brillo esperanzado en los ojos.}
 {103}{}{¿Por qué quieres hacernos daño?}
-{104}{}{Como puedo ayudarte, ¿primer iluminado?}
+{104}{}{Como puedo ayudarte, ¿iluminado?}
 {105}{}{Voy a progresar con Vikki... umm... pronto.}
 {106}{}{¿Cómo puedo ayudarte?}
 {107}{}{¿Qué quieres?}
@@ -30,7 +30,7 @@
 {128}{}{No, olvídalo.}
 {129}{}{La reclutadora, Vikki Goldman. Vi una de sus películas en Canadá, y supe que ella se enamoraría de mí. Aún no ha sucedido, pero estoy trabajando en ello.}
 {130}{}{Me lo apunto. Tengo algunas preguntas más.}
-{131}{}{¡Ja, ja! ¡Eres un calzonazos! Ella es una estrella porno, colega. No quiere nada de ti.}
+{131}{}{¡Ja, ja! ¡Eres un arrastrado! Ella es una estrella porno, colega. No quiere nada de ti.}
 {132}{}{Entiendes que ella sólo finge interés en ti para asegurarse de que sigas siendo un buen Hubologista, ¿verdad?}
 {133}{}{Bueno, sí... ¡pero merecerá la pena en el caso de que suceda algo entre ambos!}
 {134}{}{Si tú lo dices... si tú lo dices. Tengo más preguntas.}

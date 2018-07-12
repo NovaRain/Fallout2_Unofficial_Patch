@@ -45,4 +45,4 @@
 {144}{}{Hora de irse.}
 {145}{}{No quiero ser un pesado.}
 {146}{}{Debo partir.}
-{150}{}{Gracias. Necesito otras direcciones.}
+{150}{}{Gracias. Necesito indicaciones para otros lugares.}
