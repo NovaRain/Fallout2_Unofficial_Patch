@@ -94,7 +94,6 @@ I am now the mightiest amongst my pack.,Soy la más fuerte de mi manada.
 "Greetings, stranger. Don't know you from these parts, so that means you're not a rancher. You come looking for work or are you here to buy?","Saludos, forastera. No te tengo vista por aquí, de modo que no eres una ganadera. ¿Vienes buscando trabajo o estas aquí por negocios?"
 How does one become a Citizen of Vault City?,¿Cómo se convierte una en Ciudadana de Ciudad Refugio?
 You are just evil. Please don't talk to me.,"Eres malvada. Por favor, no me hables."
-"Well, thank you kindly, stranger.","Bien, te lo agradecemos mucho, forastera."
 And dead.,Y muerta.
 Crap! He's damaged the core unit. It's got to be fixed before things really go to hell. You any good at repairing things?,¡Mierda! Ha dañado la unidad núcleo. Tiene que arreglarse antes de que todo se vaya al infierno. ¿Eres buena arreglando cosas?
 "Why, how SILLY of me. I should have known that someone of YOUR superior breeding came from Vault Dweller stock. Pah! Waste no more of my time, Outsider.","TONTO de mí. Debería haber sabido que alguien de TU superior cultura vendría de la reserva del Morador del Refugio. ¡Bah! No malgastes más de mi tiempo, forastera."
@@ -120,7 +119,7 @@ Intruder! Do you plan to desecrate this place? Out!,¡Intrusa! ¿Planeas destrui
 "Get off your asses and get in here, guys! We got an intruder!","¡Moved los culos y venid aquí, chicos! ¡Tenemos una intrusa!"
 "Then don't fuck with Raul's birds, man! Get out of here!","¡Entonces no toques los pájaros de Raúl, amiga! ¡Fuera de aquí!"
 "Looks like we can do business, friend. Here's the deal - there's a loopy scientist in town - Dr. Henry. He's got some papers I'd like. I'll pay $1000 for them. Oh, and I don't want no harm to come to Dr Henry. He's useful alive. Interested? ","Parece que podemos hacer negocios, amigao. Este es el trato: hay un científico chiflado en la ciudad, el doctor Henry. Tiene ciertos papeles que quiero. Pagaré 1.000 dólares por ellos. Oh, y no quiero que se haga daño al doctor Henry. Vivo resulta útil. ¿Te interesa?"
-"Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.",Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.
+You should catalog your travels in the Vault City computer so others may read about them.,Deberías catalogar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.
 "Oh, man. Where we going to get our shit now?","Oh, amiga. ¿Ahora dónde vamos a conseguir nuestra mierda?"
 "Of course, child. The alignment has cleared your basic neurodynes and aligned them with mine and the spokes of the Great Wheel. What do you need?","Por supuesto, hija. El alineamiento ha limpiado tus neurodinas básicas y las alineado con las mías y con los radios de la Gran Rueda. ¿Qué necesitas?"
 "Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.","Bienvenida, Elegida. Veo por tu rostro que la salvación del GECK aún no es nuestra. Se incansable como la hormiga antes de que se acaben nuestras reservas. Eres nuestra última esperanza."
@@ -198,7 +197,7 @@ Pleased to meet you. So...about my offer...?,Encantada de conocerte. Y... ¿sobr
 Yer dumb-errrr,Eres más que tontaaaa.
 Jet Reliance,Adicta al Jet
 "I'm right behind ya, Boss.","Justo tras de ti, Jefa."
-Bummer!,¡Alborotadora!
+"Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.","¡Hola, bienvenida, saludos! Soy el Gran Ananías (con un movimiento, te realiza una ligera reverencia). Traigo conmigo los misterios cercanos y de tierras lejanas. Misterios de un mundo más allá del nuestro... los del Inframundo."
 "Care for a drink, hero?","¿Te apetece una copa, heroína?"
 I'm good at getting to where I need to go without being seen or heard.,Soy buena colándome donde necesito ir sin ser visto ni oído.
 "Slumming, Citizen?","¿Visitando los barrios bajos, Ciudadana?"
@@ -262,6 +261,7 @@ Yes! Me new here!,¡Sí! ¡Yo nueva aquí!
 "Boss, Sulik's glaring at me again.","Jefa, Sulik está volviendo a mirarme."
 "Let's ask your ""boss.""","Preguntemos a tu ""jefa""."
 "Yo! You got a minute, friend?","¡Tú! ¿Tienes un minuto, amiga?"
+Bummer!,¡Alborotadora!
 Coulda been a contender!,¡Podría haber sido una contrincante de verdad!
 "I already gave you the flint, stupid. Now stop wasting my time and get out of here!","Ya te di el pedernal, estúpida. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!"
 Now you're mine.,Ahora eres mía.
@@ -475,6 +475,7 @@ I don't want anything to do with a slaver. Goodbye.,No quiero tener nada que ver
 "Don't have any? You expect me to believe that, maggot? The truth is you lost an expensive piece of army-issue equipment. That suit is going to come out of your pay, and you will remain in this man's army until you are five hundred and ten years old, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! Dismissed!","¿Qué no tienes? Y esperas que me crea eso, ¿gusana? Lo cierto es que has perdido una costosa pieza de equipo militar. Te será descontada de tu paga, y te quedarás en este ejército hasta que tengas quinientos diez años, ¡que es el tiempo que te costará devolver lo que cuesta la servoarmadura de combate Mark II que has perdido! ¡Preséntate en la armería para que te proporcionen un nuevo uniforme y vuelve aquí, soldado! ¡Retírate!"
 "Our life is in your hands, Chosen One.","Nuestra vida está en tus manos, Elegida."
 You're already dead...,Estás muerta...
+"Doofus will perform, man. Not even a fly is gonna land his shit on your au-to-mo-bile!","Doofus lo hará, amiga. ¡Ni una mosca dejará caer su mierda en tu au-to-mó-vil!"
 Accepted,Aceptada
 "Nice meeting you, stranger. Don't mind us and there won't be any trouble.","Me alegro de verte, forastera. No nos molestes y no habrá problemas."
 You are the Chosen One.,Tú eres la Elegida.
@@ -592,7 +593,6 @@ You're the best ,"¡Eres la mejor, "
 "Done. Give me a little time to rest up, and I'll be ready to fight again.","Hecho. Dame un poco de tiempo para descansar, y volveré a estar lista para pelear de nuevo."
 "Are you ready for your challenge, ","¿Estás preparada para tu desafío, "
 Nice unit you got there.,Tienes una buena unidad ahí.
-"Two people working together can move the obelisk that blocks the path. Alone, you would fail. I have no intention of helping you until you pass the trial of the Elder.","Dos personas trabajando juntas pueden mover el obelisco que bloquea el camino. Sola, no serías capaz. No tengo intención de ayudarte a menos que pases la prueba de la Anciana."
 "Sure thing, Boss.","Claro que sí, Jefa."
 Dumping the F.E.V. toxin into our air doesn't make you a hero. You're just another mutant that needs to be put down.,Soltar la toxina V.E.F en los conductos de aire no te hace una heroína. Sólo eres otra mutante que debe ser aniquilada.
 "Welcome to NCR, stranger. Name's Dumont - Sheriff Dumont. Hope you're having a nice peaceful time here.","Bienvenida a RNC, forastera. Me llamo Dumont, sheriff Dumont. Espero que disfrutes de tranquilidad mientras estés por aquí."
@@ -641,7 +641,7 @@ You the new fluffer?,¿Eres la nueva estimuladora?
 "Come along, and I'll show it to you. (Sneers.) If yer not SCARED.","Ven conmigo, y te lo enseñaré. (Se burla). Si no estás ASUSTADA."
 YOU ARE *NOT* THE CHOSEN ONE.,TÚ NO *ERES* LA ELEGIDA.
 "Sure, Boss. I'll take some.","Claro, Jefa. Me tomaré algunas."
-You th'fighter? You got some chips I ken borrow?,¿Eres la luchadora? ¿Me puedes prestar algunas fichas?
+Nice to meet you. I'm ,Encantada de conocerte. Soy 
 Uh... are you certain?,Eh... ¿estás segura?
 "If your anxious, try the Bathhouse.","Si estás ansiosa, ve a la Casa de Baños."
 "Are you a Ranger, too?",¿También eres una Ranger?
@@ -728,7 +728,7 @@ Then you're a fool and a dog doing the bidding of others. I will laugh when you 
 "Hmm, maybe I've been hasty in my judgment.","Hmm, quizá me haya precipitada en mi juicio."
 You're the most civilized tribal I've ever met.,Eres la tribal más civilizada que he conocido nunca.
 "If it ain't the man, here to oppress me again.",Pero si es la tipeja que está aquí para volver a oprimirme.
-You should catalog your travels in the Vault City computer so others may read about them.,Deberías catalogar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.
+"Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.",Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.
 "Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.","Ella: ¿Te atreves a llamar a Hub (alabada sea Su visión) un chiflado? ¿Aquí? ¿En una fortaleza dedicada a su estudio? Él: Sal de aquí. Si hablas con alguien mientras te vas, serás atacada. Infiel. Ambos: Adiós y hasta nunca."
 You son of a bitch - how could you do this to us?,"Oye, hija de puta, ¿cómo pudiste hacernos esto?"
 Sniper,Francotiradora
@@ -761,6 +761,7 @@ Guards! Guards! The outsider is back! Kill him! ,¡Guardias! ¡Guardias! ¡La fo
 "I am still in need of help, child. Can you help me?","Sigo necesitando ayuda, chica. ¿Puedes ayudarme?"
 "You cretin, I'm gonna neuter you.","Cretina, voy a castrarte."
 "You should catalog your heroic exploits against the Enclave into a nice, tidy list.",Deberías catalogar tus heroicas hazañas contra el Enclave en una bonita y ordenada lista.
+You th'fighter? You got some chips I ken borrow?,¿Eres la luchadora? ¿Me puedes prestar algunas fichas?
 "We become more powerful than you can imagine now, man.","Nosotros nos hacemos más poderosos de lo que tú crees ahora, miga."
 I sure didn't feel good about what I did.,No me siento orgullosa de lo que he hecho.
 "Of course, Boss.","Por supuesto, Jefa."
@@ -940,7 +941,7 @@ I'm just a traveler passing through.,Sólo soy una viajera que está de paso.
 "My systems are functioning at near full capacity, master.","Mis sistemas funcionan a capacidad casi total, ama."
 "Chosen, our crops fail, our reserves are meager.","Elegida, nuestras cosechas caen, nuestras reservas decrecen."
 "Greetings, stranger. Come to do business with NCR, have you?","Saludos, extranjera. ¿Vienes a hacer negocios con la RNC?"
-Me believe in self. Me can do!,Creo en yo misma. ¡Puedo hacer!
+Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?,¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás lista para partir?
 "You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.","¿Deseas convertirte en Ciudadana? Bueno, nos alegraría tenerte. Todo lo que tienes que hacer es hablar con el procónsul Gregory y él te hará la prueba de Ciudadanía."
 Poisoned,Envenenada
 "It's no use, I'm not going back. None of you appreciated the work I was doing, so don't pretend to be my friend. Thank you very much!","No sirve de nada, no voy a volver. Nadie reconocía la labor que estaba haciendo, así que no pretendas ser mi amiga. ¡Muchas gracias!"
@@ -1030,6 +1031,7 @@ You came along at a good time. We're ready to go right now. The job pays $1000. 
 "Mynoc said what? Out with it, child!","¿Qué dijo Mynoc? ¡Suéltalo, chiquilla!"
 What the hell is this? Infiltrator on base!,¿Qué demonios pasa aquí? ¡Intrusa en la base!
 "Chosen, the spirits [of our] ancestors guide [me] to world of dreams that [I may] touch [thoughts.]","Elegida, los espíritus [de nuestros] ancestros guían [mi espíritu] al mundo de los sueños donde [debo] alcanzar tus [pensamientos.]"
+You are a traitor! You destroyed our powerplant. I will not help you.,¡Eres una traidora! Destruiste nuestro reactor. N-no te ayudaré.
 "You prick, you blinded me!","¡Zorra, me has dejado ciego!"
 "Whoa...looks like you've been in some heavy fighting, friend.","Vaya... parece que has tenido una dura pelea, chica."
 "You're a little slow, aren'tcha?? Well, just keep moving and don't come back here. You'll be fine. Understand?","Eres un poco corta, ¿no? Bien, sigue moviéndote. No vuelvas por ahí y todo irá bien. ¿Entiendes?"
@@ -1179,7 +1181,7 @@ The bearer of this document is Security Clearance A-Prime as authorized by the a
 "You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.","Eres una experta en el refinado arte del manejo de explosivos. Siempre explotan cuando deben, causando un daño extra."
 "Well it depends on what you're good at. There is something I'm curious about. If you can find out, I'll pay you a bit.","Bueno, depende de si eres buena en algo. Hay un tema sobre el que tengo curiosidad. Si puedes averiguar algo, te pagaré."
 "All right, brother, all right! ","¡Está bien, hermana, está bien! "
-"Doofus will perform, man. Not even a fly is gonna land his shit on your au-to-mo-bile!","Doofus lo hará, amiga. ¡Ni una mosca dejará caer su mierda en tu au-to-mó-vil!"
+"Two people working together can move the obelisk that blocks the path. Alone, you would fail. I have no intention of helping you until you pass the trial of the Elder.","Dos personas trabajando juntas pueden mover el obelisco que bloquea el camino. Sola, no serías capaz. No tengo intención de ayudarte a menos que pases la prueba de la Anciana."
 This your first time kid?,"¿Es tu primera vez, chica?"
 "What'll we do now, baby?","¿Qué hacemos ahora, querida?"
 "Hey, get your hands off that, punk!","¡Eh, quítale a eso las manos de encima, gamberra!"
@@ -1253,7 +1255,7 @@ Hated,Odiada
 "Look, dim, get out of here, or I'll call the guards.","Mira, tarada, sal de aquí o llamaré a los guardias."
 "We got us an intruder, boys!","¡Tenemos una intrusa, chicos!"
 "Die, enemy of the people!","¡Muere, enemiga del pueblo!"
-"Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.","¡Hola, bienvenida, saludos! Soy el Gran Ananías (con un movimiento, te realiza una ligera reverencia). Traigo conmigo los misterios cercanos y de tierras lejanas. Misterios de un mundo más allá del nuestro... los del Inframundo."
+"Well, thank you kindly, stranger.","Bien, te lo agradecemos mucho, forastera."
 "So, friend, have you reconsidered?","Así que, amiga, ¿lo has reconsiderado?"
 "I got shit that'll help you kiss the sky, hero.","Tengo material que te hará subir hasta el cielo, heroína."
 Scout,Rastreadora
@@ -1371,7 +1373,6 @@ I'm crippled.,Estoy tullida.
 "Someone new. Hey, this is a private matter! Let's get 'em!","Alguien nuevo. ¡Eh, ésta es una cuestión privada! ¡Vamos a por ella!"
 "Can't chat, stranger. Name's Dorothy, city engineer, and that's Toto. Got to run.","No puedo hablar, forastera. Me llamo Dorothy, ingeniero de la ciudad, y este es Toto. Tengo que darme prisa."
 You have become a made man of the Wright family.,Te has convertido en una Iniciada de la familia Wright.
-Analysis. Target erred in tactical selection. Unit undamaged,Análisis. El blanco falló en el proceso táctico de ataque. Unidad no dañada.
 "Wait a minute, dummy. Are you trying to say you're one of the Enclave
  replacements?","Espera un momento, tontita. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?"
 You have passed the Citizenship test and become a Citizen of Vault City.,Has aprobado el test de Ciudadanía y te has convertido en una Ciudadana de Ciudad Refugio.
@@ -1696,7 +1697,7 @@ Another escapee from the Ministry of Silly Walks.,Otra fugada del Ministerio de 
 Me new. Me told you expect.,Yo nueva. Digo que que vosotros esperáis a yo.
 Hello master. Have you found my motivation unit?,Hola ama. ¿Has encontrado mi unidad motriz?
 You're not as good as you think,No eres tan buena como crees.
-Nice to meet you. I'm ,Encantada de conocerte. Soy 
+Analysis. Target erred in tactical selection. Unit undamaged,Análisis. El blanco falló en el proceso táctico de ataque. Unidad no dañada.
 "Are you just pretending to be dumb, or are you really that stupid?","¿Pretendes hacerte el idiota, o es que realmente eres estúpida?"
 "Move it, mister; I've got brahmin to kill.","Muévase, señora; tengo brahmines que matar."
 "So you lookin' to party with some Jet, friend? You came to the right place. For you, EVERYTHING'S on special.","¿Así que quieres montarte una fiestecita con algo de Jet, amiga? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión."
@@ -1730,6 +1731,8 @@ I'm sure it's the right part. I have great confidence in your abilities.,Estoy s
 "I don't like you. You're a big stupid-head! (Sticks out his tongue.) Get outta here, stupid-head!","No me gustas. ¡Eres una gran estúpida! (te saca la lengua). ¡Vete de aquí, estúpida!"
 "No, I'm too busy to deliver the disk.","No, estoy demasiado ocupada como para entregar el disco."
 "That's right, man. Go see Merk. He's always got things that need doing.","Eso está bien, amiga. Ve a ver a Merk. Siempre tiene cosas que hay que hacer."
+"I kinda had you pegged for that type when I first saw you, but I wasn't sure. Get out of here,
+ you frigging nutcase!","Tuve la sensación de que eras una de esos desde la primera vez que te ví, pero no estaba seguro. ¡Sal de aquí, maldito lunático!"
 "Call me a coward, but I like breathing. I'll pass on this job.","Llámeme cobarde, pero me gusta seguir viva. Rechazaré ese trabajo."
 "Well done, Citizen.","Bien hecho, Ciudadana."
 Are you authorized to be in here?,¿Estás autorizada para estar aquí?
@@ -1855,7 +1858,7 @@ Did I mention the tribal was stupid?,¿He mencionado que la tribal era estúpida
 "Yes, I'm confident in my abilities and myself.","Sí, confío en mis habilidades y en mí misma."
 "Ahh, ain't you cute.  I just don't have time to try understanding ya right now.","Ahh, qué graciosa. Pero no tengo tiempo para intentar entenderte ahora mismo."
 Small Frame,Canija
-Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?,¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás lista para partir?
+Me believe in self. Me can do!,Creo en yo misma. ¡Puedo hacer!
 "I'll just stay back a little then, Boss.","Entonces me quedaré sólo un poco por detrás tuyo, Jefa."
 "Thank you again, my friend. I owe you a debt that can not be repaid.","Gracias, amiga. Tengo una deuda contigo que nunca podré compensarte."
 "New guy, eh? Suppose you want your issue. Why don't anybody ever tell me these things? What's

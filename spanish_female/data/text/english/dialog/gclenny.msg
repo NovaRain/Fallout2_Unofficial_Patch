@@ -207,7 +207,7 @@
 {3001}{}{No voy a ayudar a una asesina de niños. Adiós.}
 {3002}{}{Me aterras con tu sed de sangre. No voy a seguir siguiéndote.}
 {3003}{}{No quiero tener nada que ver con una esclavista. Adiós.}
-{3004}{}{¡Eres un traidor! Destruiste nuestro reactor. N-no te ayudaré.}
+{3004}{}{¡Eres una traidora! Destruiste nuestro reactor. N-no te ayudaré.}
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}
 {4001}{}{Está bien, si realmente crees que es una buena idea.}
