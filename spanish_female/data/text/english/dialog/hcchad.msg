@@ -6,8 +6,8 @@
 {122}{}{¡Deerk deegler!}
 {123}{}{¿Quién?}
 {124}{}{Marcus ha estado haciendo algunas preguntas sobre ti.}
-{125}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Broken Hills, como para ser arrestado. Estás jodido.}
-{126}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Broken Hills, como para ser arrestado. Suelta 1.000 dólares y me aseguraré de que puedas largarte de la ciudad.}
+{125}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Colinas Quebradas, como para ser arrestado. Estás jodido.}
+{126}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Colinas Quebradas, como para ser arrestado. Suelta 1.000 dólares y me aseguraré de que puedas largarte de la ciudad.}
 {127}{}{¿Quién eres?}
 {128}{}{Háblame sobre este lugar.}
 {129}{}{Nada. Adiós.}
@@ -22,7 +22,7 @@
 {138}{}{Suena aburrido.}
 {139}{}{Tengo más preguntas.}
 {140}{}{Gracias. Adiós.}
-{141}{}{¿Que te hable acerca de Broken Hills? Bueno... me trasladé aquí hace unos años. Conseguí trabajo con Bill -es el Proveedor- y fui ascendiendo hasta donde estoy ahora. Informo a Marcus y a Bill, pero soy el responsable del sustento de la ciudad.}
+{141}{}{¿Que te hable acerca de Colinas Quebradas? Bueno... me trasladé aquí hace unos años. Conseguí trabajo con Bill -es el Proveedor- y fui ascendiendo hasta donde estoy ahora. Informo a Marcus y a Bill, pero soy el responsable del sustento de la ciudad.}
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
