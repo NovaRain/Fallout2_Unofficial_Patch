@@ -8,7 +8,7 @@
 {106}{}{Hola, colega. ¿Quién eres tú?}
 {107}{}{¿Qué se puede hacer en este lugar?}
 {108}{}{¿Estás listo para un pulso, señor Pectorales Férreos?}
-{109}{}{Amigo, no tengo ni idea de lo que estás intentando decir. Lo siento.}
+{109}{}{Amiga, no tengo ni idea de lo que estás intentando decir. Lo siento.}
 {110}{}{Soy Francis. Soy el campeón de pulso de esta ciudad. Mantengo la apuesta de que nadie
  puede vencerme.}
 {111}{}{Soy Francis, ¿recuerdas? ¿El campeón de pulso de la ciudad? Tengo una apuesta en marcha de que nadie puede
