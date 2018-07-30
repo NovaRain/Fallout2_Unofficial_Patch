@@ -10,7 +10,7 @@
 {109}{}{¿Qué hay de nuevo?}
 {110}{}{¿Qué servicios se ofrecen por aquí?}
 {111}{}{No. Lo siento.}
-{112}{}{Oh, pequeño. Otro pobre niño del Yermo. Bien, pasa. Verás que somos tan hospitalarios como cualquiera de las otras ciudades del Yermo.}
+{112}{}{Oh, pequeño. Otra pobre niña del Yermo. Bien, pasa. Verás que somos tan hospitalarios como cualquiera de las otras ciudades del Yermo.}
 {113}{}{¡Tíooooooooooooo!}
 {114}{}{Exacto. Buena suerte, viajera. Y adiós.}
 {115}{}{¡Dos!}
@@ -25,7 +25,7 @@
 {124}{}{Debo volver al trabajo. Sé buena y cuídate, ¿vale?}
 {125}{}{¿Tú otra vez? Bien, sabes lo que debes hacer: ser bueno y cuidarte. ¡Cuídate!}
 {126}{}{¡Va-le! ¡Adiooooos!}
-{127}{}{Guarda tus armas, compañero. No obtendrás respuestas de mí mientras las muestres de esa forma.}
+{127}{}{Guarda tus armas, compañera. No obtendrás respuestas de mí mientras las muestres de esa forma.}
 {128}{}{Somos una pequeña comunidad minera. Fundada hace varias décadas por nuestro sheriff, Marcus, y un hombre llamado Jacob. Eligieron este sitio porque estaba cerca de algunos depósitos de uranio. ¿Quieres que te cuente más?}
 {129}{}{Sí.}
 {130}{}{No.}
