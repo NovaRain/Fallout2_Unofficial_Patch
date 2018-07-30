@@ -86,7 +86,7 @@
 {185}{}{Es un buen argumento.}
 {186}{}{Siguen siendo malvados.}
 {187}{}{Adiós.}
-{188}{}{Amigo, cuanto más hablo contigo, más tonto me siento. Con esa actitud, no serás bienvenido en Broken Hills. Discúlpame. Tengo trabajo que hacer.}
+{188}{}{Amiga, cuanto más hablo contigo, más tonto me siento. Con esa actitud, no serás bienvenida en Broken Hills. Discúlpame. Tengo trabajo que hacer.}
 {189}{}{Capullo.}
 {190}{}{Hora de morir, cabrón.}
 {191}{}{Tenemos una mina, una refinería, una taberna, un hotel -el cual, por cierto, ha sido perdido por su dueño, así que dejamos a la gente quedarse en él gratis– un hospital, un almacén y a un químico. Producimos nuestro propio alimento.}
@@ -99,7 +99,7 @@
 {198}{}{Marcus, ¿estás seguro de que no quieres quedarte y liderarnos un tiempo más?}
 {199}{}{Marcus: Eso no tiene futuro. Lo haréis bien sin mí.}
 {200}{}{[MÁS]}
-{201}{}{Amigo, no te queremos aquí. Ya has hecho suficiente daño.}
+{201}{}{Amiga, no te queremos aquí. Ya has hecho suficiente daño.}
 {202}{}{[HECHO]}
 {300}{}{Normalmente, puedes encontrar a Marcus cerca del banco –que también sirve como una buena prisión– o en la misma prisión. A veces está en la taberna o en casa, pero normalmente está trabajando.}
 {301}{}{¡Alborotadora!}
