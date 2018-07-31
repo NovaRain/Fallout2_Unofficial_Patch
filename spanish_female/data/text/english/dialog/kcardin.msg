@@ -52,7 +52,7 @@
 {236}{}{. ¿Sulik amigo?}
 {240}{}{Le diré a Maida que se ocupe del asunto de Sulik. Aunque quizás quieras hablar con ella.}
 {241}{}{Maida libera Sulik. Maida amiga de }
-{242}{}{Gracias. Estoy seguro de que Sulik le agradecerá que cancele su deuda. Hablaré con Maida sobre ello. Adiós.}
+{242}{}{Gracias. Estoy segura de que Sulik le agradecerá que cancele su deuda. Hablaré con Maida sobre ello. Adiós.}
 {243}{}{Me alegro de que no necesite más a Sulik. Hay algo que quiero preguntarle.}
 {244}{}{ mucho.}
 {250}{}{No tengo mucho, pero aquí hay 100 dólares. Ojala pudiera darte más, pero con todos los brahmines que hemos perdido es lo más que puedo permitirme. Lo siento.}
@@ -82,7 +82,7 @@
 {321}{}{Torr en cañón. }
 {322}{}{No busco Torr.}
 {323}{}{Parece que ese cañón puede ser un buen sitio para empezar a buscar. Encontraré a su hijo, señora Buckner.}
-{324}{}{Me encantaría ayudar... si no estuviera tan ocupado. Seguro que Torr estará bien. Adiós.}
+{324}{}{Me encantaría ayudar... si no estuviera tan ocupada. Seguro que Torr estará bien. Adiós.}
 {325}{}{ busca a Torr.}
 {330}{}{Bueno, él la llamó así. Me dijo que creía saber de donde venían los geckos dorados, y quería asegurarse. Dijo que podría ser alguna clase de pozo, o quizás una cueva o un refugio.}
 {331}{}{Hmmm.}
