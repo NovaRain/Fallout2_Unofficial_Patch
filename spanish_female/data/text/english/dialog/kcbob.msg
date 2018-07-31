@@ -1,6 +1,6 @@
 {100}{}{Ves a un hombre viejo con una barba rala y una gran nariz roja.}
 {101}{}{Ves a Whisky Bob.}
-{110}{}{Hola, ¿qué tal? Mi nombre es Whisky Bob. ¿Cuál es el tuyo, amigo?}
+{110}{}{Hola, ¿qué tal? Mi nombre es Whisky Bob. ¿Cuál es el tuyo, amiga?}
 {111}{}{Mira que preciosidad. Mi nombre es Bob, Whisky Bob: ¿cuál es el tuyo?}
 {112}{}{¿Whicky Gob? ¿Zug, zug?}
 {113}{}{Nariz roja (je, je).}
