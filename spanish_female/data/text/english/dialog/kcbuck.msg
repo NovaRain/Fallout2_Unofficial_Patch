@@ -32,13 +32,13 @@
 {202}{}{Parece que los tribales no son tan malos después de todo.}
 {203}{}{¡Invítanos a una ronda!}
 {204}{}{Saluda a Smiley y a Jim el Cojo.}
-{205}{}{Podrías ser el hermano gemelo de Sulik.}
+{205}{}{Podrías ser la hermana gemela de Sulik.}
 {206}{}{¿Has saludado a Sulik?}
 {207}{}{Últimamente el negocio del trampeo marcha bien.}
 {208}{}{Tiene pinta de que el tiempo va a cambiar, eso parece.}
 {209}{}{Tengo un buen sitio de caza al sur de aquí.}
-{210}{}{Si eres listo te alejarás de los Dunton.}
-{211}{}{Si estás ansioso, ve a la Casa de Baños.}
+{210}{}{Si eres lista te alejarás de los Dunton.}
+{211}{}{Si estás ansiosa, ve a la Casa de Baños.}
 {212}{}{Al oeste está el barrio de los tramperos, si buscas un lugar donde dormir.}
 {213}{}{Bienvenida, amiga.}
 {214}{}{Espero que te guste nuestra ciudad.}

@@ -1,5 +1,5 @@
 {100}{}{Ves a dos hombres muy parecidos... podrían ser gemelos. Ambos son cejijuntos y bastante musculosos.}
-{101}{}{Ves a Chuck o a Buck Dunton. Ambos se parecen tanto que no estás seguro de a cuál de los dos estás mirando.}
+{101}{}{Ves a Chuck o a Buck Dunton. Ambos se parecen tanto que no estás segura de a cuál de los dos estás mirando.}
 {102}{}{Ves a un hombre alto y musculoso cuyo rostro, debajo de su única ceja, mantiene la típica mueca de suficiencia de matón. Es idéntico a su hermano.}
 {110}{}{Quítate de en medio, o mi hermano y yo vamos a convertir tu pequeña cabecita en pulpa.}
 {111}{}{Eh, tranquilos. Tan sólo daba una vuelta por aquí. Lo siento mucho. No me peguéis, por favor. Además, me gustaría haceros una pregunta.}
@@ -7,7 +7,7 @@
 {113}{}{Necesito información, y será mejor que me digáis lo que quiero saber.}
 {114}{}{¿Tú y tu hermano? ¿Tienes miedo de hacerme frente tu sólo? (Co, co, co, co)}
 {120}{}{Sal de aquí antes de que aplastemos y te convirtamos en cecina.}
-{121}{}{Eh, lo siento mucho. No quería hacerte enfadar. Sólo soy un estúpido. Volveré más tarde cuando mi presencia no te ponga tan enfermo.}
+{121}{}{Eh, lo siento mucho. No quería hacerte enfadar. Sólo soy una estúpida. Volveré más tarde cuando mi presencia no te ponga tan enfermo.}
 {122}{}{Oh, vale, lo siento. No me peguéis, por favor.}
 {123}{}{Al menos así no tendré que ver vuestras caras de culo nunca más.}
 {130}{}{¿Qué es lo que quieres de nosotros?}
@@ -38,8 +38,8 @@
 {168}{}{Vaya, supongo que perdí la oportunidad. Entonces me marcharé. Adiós.}
 {169}{}{Vale. Adiós.}
 {170}{}{¡Maldito saco de mierda de gecko! ¿Qué estas haciendo aquí otra vez?}
-{171}{}{Tan sólo quería disculparme, no quería cabrearos. Sólo es que no soy tan bueno como vosotros robando ganado. Además, necesito algo.}
-{172}{}{Sí, tienes razón. Podría haberlo hecho mejor. Supongo que no soy un cuatrero como vosotros dos. Sin embargo, necesito ayuda.}
+{171}{}{Tan sólo quería disculparme, no quería cabrearos. Sólo es que no soy tan buena como vosotros robando ganado. Además, necesito algo.}
+{172}{}{Sí, tienes razón. Podría haberlo hecho mejor. Supongo que no soy una cuatrera como vosotros dos. Sin embargo, necesito ayuda.}
 {173}{}{¿Mierda de gecko? ¿Estás hablando de lo que comes, o de lo que tienes en la sesera?}
 {180}{}{Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socia?}
 {181}{}{Hola, colega. Hicimos un buen trabajo con ese idiota de Torr, ¿eh? Arreglemos lo tuyo.}
@@ -47,7 +47,7 @@
 {183}{}{Estoy aquí por mi parte, socios.}
 {184}{}{Lo que hicimos ha hecho que me avergüence de mí mismo. ¿Engañar a un idiota? ¿Por qué no os metéis con alguien que pueda defenderse, cobardes? Adiós.}
 {185}{}{Ahora mismo no necesito nada. Adiós.}
-{190}{}{Bien... aquí están los 50 dólares y un pequeño extra para ti. Un poco de cecina Dunton. Gracias de nuevo, socio.}
+{190}{}{Bien... aquí están los 50 dólares y un pequeño extra para ti. Un poco de cecina Dunton. Gracias de nuevo, socia.}
 {191}{}{Gracias. Eh, hay algo que querría preguntaros.}
 {192}{}{Me vendrá bien este dinero. Mmm… (masticas). Sabrosa cecina. Gracias. Adiós.}
 {198}{}{Vale, este es el asunto. Necesitamos ayuda para, eh, arrebatarle algunos brahmines a ese idiota de Torr. No deberías tener problemas en hacerlo. Tan sólo se trata de apartarle de ellos. ¿Qué dices?}
