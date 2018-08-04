@@ -30,7 +30,7 @@
 {300}{}{Nada}
 {301}{}{Cohete}
 {302}{}{Combustible de lanzallamas}
-{303}{}{C célula de energía}
+{303}{}{Cel. energía C}
 {304}{}{Cel. energía D}
 {305}{}{.223}
 {306}{}{5mm}
