@@ -152,7 +152,7 @@
 {374}{}{He encontrado un montón de partes de insecto en esa pequeña casucha de ahí. ¿Sabéis qué pueden ser?}
 {380}{}{¿Qué demonios quieres? ¿Has olvidado lo que se supone que tenías que hacer?}
 {381}{}{No. Me acuerdo. Me ocuparé del plan ahora.}
-{382}{}{¿Estás loco? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
+{382}{}{¿Estás loca? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
 {383}{}{Lo olvidé; ¿querrías volver a contarme el plan? Por favor.}
 {384}{}{He encontrado un montón de partes de insecto en esa pequeña casucha de ahí. ¿Sabéis qué pueden ser?}
 {390}{}{¿Partes de bicho? Umm, err, ah, no sabemos nada de esos trozos de bicho. ¿De qué estás hablando?}
@@ -161,17 +161,17 @@
 {400}{}{Esto es lo que ocurre. Tienes que llevarte a Torr de aquí.}
 {401}{}{Suena bien, lo haré.}
 {402}{}{Ni de broma; me largo, Dunton. Adiós.}
-{403}{}{¿Estás loco? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
+{403}{}{¿Estás loca? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
 {404}{}{Cuando Torr aparezca, tienes que alejarle }
 {405}{}{ de aquí durante un rato. Puedes hablar con él o dejarle inconsciente. Pero no le mates o harás que todo el pueblo entre en cólera. Mientras lo haces, nosotros nos llevamos a los brahmines. Reúnete con nosotros en nuestra tienda mañana por la mañana y te daremos tu recompensa.}
 {410}{}{Quizás tengas razón (mirando nerviosamente alrededor). No me gusta la idea de que nos estén vigilando.}
 {411}{}{Deberías ser más amable con los de tu clase. Ahora vete a casa.}
-{420}{}{Nadie nos está vigilando. Somos muy cuidadosos con eso. Tan solo estás acojonado, ¿no es eso? Maldito cobarde.}
+{420}{}{Nadie nos está vigilando. Somos muy cuidadosos con eso. Tan solo estás acojonado, ¿no es eso? Maldita cobarde.}
 {421}{}{Lo siento, supongo que me he puesto nervioso. No suelo estar tan sereno bajo la presión como vosotros dos.}
 {422}{}{Lo siento, me ha entrado el pánico. Volveré al trabajo.}
 {423}{}{Ni de casualidad. Me largo. Adiós.}
 {424}{}{¡Ahora vuelve al trabajo y deshazte de ese idiota de Torr!}
-{430}{}{Estás loco. Esos sólo son los restos de los escorpiones rad que matamos. Sí, eso es. Ese es el secreto. Nosotros, eh, ummm, usamos su veneno como uno de los ingredientes secretos de nuestra receta de cecina.}
+{430}{}{Estás loca. Esos sólo son los restos de los escorpiones rad que matamos. Sí, eso es. Ese es el secreto. Nosotros, eh, ummm, usamos su veneno como uno de los ingredientes secretos de nuestra receta de cecina.}
 {431}{}{Sí, claro. Me lo creeré cuando el sol salga por el oeste.}
 {432}{}{Claro, si tú lo dices. Ya he tenido suficiente. Adiós.}
 {440}{}{Sera mejor que mantengas la boca cerrada, si sabes lo que te conviene.}
