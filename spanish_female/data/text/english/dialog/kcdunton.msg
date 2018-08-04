@@ -88,13 +88,13 @@
 {251}{}{Eh, lo he reconsiderado. No creo que quiera ayudaros con lo de esta noche.}
 {252}{}{Sí, ahí estaré. ¿Puedo hacerte una pregunta?}
 {253}{}{Claro, ahí estaré. Adiós.}
-{259}{}{Vaya, pero si es nuestro amigo de fuerte brazo.}
+{259}{}{Vaya, pero si es nuestra amiga de fuerte brazo.}
 {260}{}{Hola. ¿Qué tal está tu brazo? ¿Preparado para otra?}
-{261}{}{Oye, mequetrefe. ¿Qué estás haciendo en nuestro bar? Debes mostrarte digno de estar aquí echándonos un pulso a nosotros, los Dunton (ja, ja, ja).}
-{262}{}{No pareces tan condenadamente duro. ¿Por qué no echas un pulso conmigo, Chuck Dunton, para ganarte el derecho a beber en nuestro bar?}
-{263}{}{No pareces tan condenadamente duro. ¿Por qué no echas un pulso conmigo, Buck Dunton, para ganarte el derecho a beber en nuestro bar?}
-{264}{}{Hola, buenazo. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Chuck Dunton.}
-{265}{}{Hola, buenazo. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Buck Dunton.}
+{261}{}{Oye, mequetrefe. ¿Qué estás haciendo en nuestro bar? Debes mostrarte digna de estar aquí echándonos un pulso a nosotros, los Dunton (ja, ja, ja).}
+{262}{}{No pareces tan condenadamente dura. ¿Por qué no echas un pulso conmigo, Chuck Dunton, para ganarte el derecho a beber en nuestro bar?}
+{263}{}{No pareces tan condenadamente dura. ¿Por qué no echas un pulso conmigo, Buck Dunton, para ganarte el derecho a beber en nuestro bar?}
+{264}{}{Hola, buenaza. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Chuck Dunton.}
+{265}{}{Hola, buenaza. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Buck Dunton.}
 {266}{}{Vaya, parece que tenemos un contendiente. Tendrás que echar un pulso conmigo, Chuck Dunton, si quieres beber aquí.}
 {267}{}{Vaya, parece que tenemos un contendiente. Tendrás que echar un pulso conmigo, Buck Dunton, si quieres beber aquí.}
 {268}{}{Echemos un pulso. Supongo que es la única forma de que las cosas se calmen.}
@@ -111,7 +111,7 @@
 {292}{}{Quiero la revancha. Esta vez te vas a enterar.}
 {293}{}{Ouch. vale, vale. Me rindo. Oye, una pregunta.}
 {294}{}{Ya he tenido suficiente. Adiós.}
-{300}{}{¿No quieres echar un pulso con nosotros? ¿Qué, te crees demasiado bueno para echar un pulso contra uno de los hermanos Dunton?}
+{300}{}{¿No quieres echar un pulso con nosotros? ¿Qué, te crees demasiado buena para echar un pulso contra uno de los hermanos Dunton?}
 {301}{}{Creo que me haríais daño si echo un pulso con vosotros.}
 {302}{}{Quizás más tarde. Ahora, necesito información.}
 {303}{}{No hubiera tenido ninguna emoción. Hubiera ganado. Adiós.}
