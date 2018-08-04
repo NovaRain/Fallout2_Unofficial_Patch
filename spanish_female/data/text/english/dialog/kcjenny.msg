@@ -1,10 +1,10 @@
 {100}{}{Ves a una atractiva pero cansada joven.}
 {101}{}{Ves a Jenny, la chica de la casa de baños.}
-{200}{}{Cielos, señor, eso ha sido rápido. Debe ser bastante nuevo en esto. Relájese un poco y disfrutará más.}
+{200}{}{Cielos, señora, eso ha sido rápido. Debe ser bastante nueva en esto. Relájese un poco y disfrutará más.}
 {201}{}{Gracias, Jenny, supongo que necesito un poco más de práctica con esto.}
 {210}{}{Ha estado bien. Parece que te manejas mejor con las mujeres que la mayoría de mujeres de tu edad.}
 {211}{}{Me alegro de que te haya gustado tanto como a mí.}
-{220}{}{Tienes un montón de aguante. Eso es lo bueno de los chicos jóvenes. Ojalá hubiera más como tú en el pueblo.}
+{220}{}{Tienes un montón de aguante. Eso es lo bueno de las chicas jóvenes. Ojalá hubiera más como tú en el pueblo.}
 {221}{}{Me ha gustado el baño, Jenny. Me quedaría un ratito más contigo si no tuviera otras cosas que hacer.}
 {230}{}{Mmm, ha sido algo especial. Espero que vuelvas; creo que me gustaría experimentar alguna cosilla en mi tiempo libre.}
 {231}{}{Es genial estar con alguien que entiende qué es lo que quiero.}
@@ -14,7 +14,7 @@
 {251}{}{Cuéntame lo que pasa por aquí.}
 {252}{}{No creo que quiera saber qué es lo que se cuece por aquí.}
 {260}{}{Bien, ha sido agradable charlar contigo. Pero ahora tengo que estar lista para otro cliente. Adiós.}
-{270}{}{Pareces un poco confundido. Me llamo Jenny, ¿puedo ayudarte?}
+{270}{}{Pareces un poco confundida. Me llamo Jenny, ¿puedo ayudarte?}
 {271}{}{¿Enny? Vamos heh heh heh. (Sonríes)}
 {272}{}{(guiñas) Hep }
 {273}{}{ guapa Enny}

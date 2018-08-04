@@ -184,14 +184,14 @@
 {451}{}{Soy Buck Dunton.}
 {452}{}{Túuu feeeo.}
 {453}{}{ ¡Elegida!}
-{460}{}{¿Túuu feooo? ¿Qué? Eres tan tonto como el idiota de Torr. Eso es bueno, necesitamos un nuevo tonto en el pueblo. Ya estábamos aburridos de Torr.}
+{460}{}{¿Túuu feooo? ¿Qué? Eres tan tonta como el idiota de Torr. Eso es bueno, necesitamos un nuevo tonto en el pueblo. Ya estábamos aburridos de Torr.}
 {461}{}{¿Torr aburrido?}
 {470}{}{Elegido, ¿eh? Elegido va a ser zurrado en el morro. ¿Tú madre te dejó caer de cabeza, o saliste así de idiota y feo? Aléjate de mí.}
 {471}{}{¡Ook! }
 {472}{}{ ¡Elegida!}
-{480}{}{¿Estás listo? Bien, entonces vamos. No tenemos toda la maldita noche. Tenemos trabajo que hacer.}
-{481}{}{Oh, sí; Estoy listo. Vamos.}
-{482}{}{Estoy listo para enseñarle una lección a ese estúpido.}
+{480}{}{¿Estás lista? Bien, entonces vamos. No tenemos toda la maldita noche. Tenemos trabajo que hacer.}
+{481}{}{Oh, sí; Estoy lista. Vamos.}
+{482}{}{Estoy lista para enseñarle una lección a ese estúpido.}
 {483}{}{No quiero hacer esto. Ya nos veremos.}
 {490}{}{Eh, tan sólo espera a que nos metamos dentro; luego hablamos.}
 {500}{}{Luchas, pero al final el hermano Dunton gana.}

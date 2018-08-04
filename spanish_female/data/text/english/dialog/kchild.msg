@@ -31,9 +31,9 @@
 {179}{}{No hueles tan mal.}
 {180}{}{¿Has visto a mi amigo invisible?}
 {181}{}{Quiero viajar por todo el mundo cuando sea mayor como tú.}
-{182}{}{Tu eres un tribal bueno, no como los otros.}
+{182}{}{Tu eres una tribal buena, no como los otros.}
 {183}{}{Apuesto a que tú te bañas.}
-{184}{}{Eres más listo que Torr.}
+{184}{}{Eres más lista que Torr.}
 {185}{}{¿Ese cuchillo que tienes está afilado?}
 {186}{}{Quiero ser como tú cuando crezca.}
 {187}{}{A mi perro le encanta la cecina.}
