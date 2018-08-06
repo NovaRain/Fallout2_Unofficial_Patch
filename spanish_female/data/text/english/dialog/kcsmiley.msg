@@ -6,7 +6,7 @@
 {110}{}{Hola, forastero. La gente me llama Smiley. Me alegro mucho de verte. ¡Estaba seguro de que moriría aquí! Estoy demasiado herido como para escapar de esos malditos lagartos por mí mismo.}
 {111}{}{Smiley, je, je, je. Siii.}
 {112}{}{¿Qué estás haciendo aquí?}
-{113}{}{Encantado de conocerte, Smiley. Creo que me marcho.}
+{113}{}{Encantada de conocerte, Smiley. Creo que me marcho.}
 {120}{}{Genial. Otro Torr. Yo (se señala a sí mismo) necesito que tú (te señala a ti) me ayudes a salir de aquí (hace un gesto de andar con los dedos de la mano).}
 {121}{}{¿Ir? ¿Ahora? ¡Sii! }
 {122}{}{ ir. ¡Lagartos malos! ¡Malos!}
@@ -37,7 +37,7 @@
 {211}{}{Gracias, Smiley. Me alegro de haberlo hecho. Adiós.}
 {212}{}{Vale, da igual. Adiós.}
 {213}{}{Antes mencionaste una recompensa. Espero que sea buena. Adiós.}
-{220}{}{Vaya, pero si es mi amigo idiota. Muchas gracias. Adiós.}
+{220}{}{Vaya, pero si es mi amiga idiota. Muchas gracias. Adiós.}
 {221}{}{Hola, amigo. Gracias de nuevo por sacarme de ese atolladero. ¿Puedo serte de ayuda con algo?}
 {222}{}{¿Algo más, amiga?}
 {223}{}{Mira, tengo varias preguntas sobre la caza de geckos.}

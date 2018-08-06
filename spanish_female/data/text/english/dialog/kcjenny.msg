@@ -19,7 +19,7 @@
 {272}{}{(guiñas) Hep }
 {273}{}{ guapa Enny}
 {274}{}{¿Mami?}
-{280}{}{Hmm, creo que será mejor que te vayas de aquí antes de que Sally la Narizotas te encuentre. No suele tratar muy bien a los idiotas.}
+{280}{}{Hmm, creo que será mejor que te vayas de aquí antes de que Sally la Narizotas te encuentre. No suele tratar muy bien a las idiotas.}
 {290}{}{¿Qué querías saber?}
 {291}{}{Háblame de los tramperos.}
 {292}{}{Estoy buscando a un comerciante. ¿Sabes de alguno que trate con cosas antiguas, de las de antes de la guerra?}
