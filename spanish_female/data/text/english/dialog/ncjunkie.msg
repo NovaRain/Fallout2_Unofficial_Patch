@@ -114,7 +114,7 @@
 {352}{}{Unas pocas fichas, y seré tu esclavo… primero consígueme un poco de Jet.}
 {353}{}{Seré tu esclava si puedes darme algo de Jet.}
 {354}{}{Puedes venderme como esclava si me das algo de Jet.}
-{355}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{355}{}{No, amiga, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
 {360}{}{¿Eres la luchadora? ¿Me puedes prestar algunas fichas?}
 {361}{}{Venga, dame sólo unas pocas fichas.}
 {362}{}{¿Puedes prestarme algo de dinero? Mira, te las devolveré.}
@@ -125,7 +125,7 @@
 {367}{}{Sólo necesito unas pocas fichas para comprar algo de comida…}
 {368}{}{Seré tu esclava si puedes darme algo de Jet.}
 {369}{}{Puedes venderme como esclava si me das algo de Jet.}
-{370}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{370}{}{No, amiga, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
 {371}{}{¿Eres miembro de la Familia }
 {372}{}{¿Puedes prestarme unas pocas fichas…? Venga, me vendrán bien.}
 {373}{}{Trabajaría por Jet…}
@@ -134,13 +134,13 @@
 {382}{}{¿Necesitas a alguien con quien colocarte, amiga?}
 {383}{}{¿Papá?}
 {384}{}{Amiga, necesito *volar,* ¿sabes a lo que me refiero?}
-{385}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{385}{}{No, amiga, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
 {386}{}{Psssst. ¿Puedes pasarme algo de Jet?}
 {387}{}{¿Puedes prestarme unas fichas…? Te las devolveré.}
 {388}{}{Trabajaría por Jet…}
 {389}{}{Vamos, amiga, dame sólo unas pocas fichas.}
 {390}{}{¿Puedes prestarme algo de dinero? Mira, te las devolveré.}
-{391}{}{Oye, eh… ¿tienes algo de Jet, amigo?}
+{391}{}{Oye, eh… ¿tienes algo de Jet, amiga?}
 {392}{}{De verdad necesito algo de medicina para mi hijo. Ayúdame.}
 {393}{}{¿Te sobran algunas fichas?}
 {394}{}{Sólo necesito unas pocas fichas para comprar algo de comida… eso es todo…}
@@ -161,13 +161,13 @@
 {424}{}{Te haré todo lo que quieras por unas pocas fichas… o Jet, si tienes.}
 {425}{}{Solía ser la reina de la belleza de Reno. Aún me queda algo…}
 {426}{}{¿Necesitas a alguien con quien colocarte, amiga?}
-{427}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{427}{}{No, amiga, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
 {428}{}{¿Papá?}
 {429}{}{Psssst. ¿Puedes pasarme algo de Jet?}
 {430}{}{¿Puedes prestarme unas fichas…? Te las devolveré.}
 {431}{}{Trabajaría por Jet…}
 {432}{}{¿Puedes prestarme algo de dinero? Mira, te las devolveré.}
-{433}{}{Oye, eh… ¿tienes algo de Jet, amigo? Amigo, neecesito *volar*, ¿sabes a qué me refiero?}
+{433}{}{Oye, eh… ¿tienes algo de Jet, amiga? Amiga, neecesito *volar*, ¿sabes a qué me refiero?}
 {434}{}{De verdad necesito algo de medicina para mi hijo. Ayúdame.}
 {435}{}{¿Te sobran algunas fichas?}
 {436}{}{Sólo necesito unas pocas fichas para comprar algo de comida… eso es todo…}
@@ -183,8 +183,7 @@
 {450}{}{¡La madre que me...! ¿Qué eres tú? ¿Alguna clase de robot?}
 {451}{}{¿En dónde demonios te metiste para terminar cubierto de metal?}
 {452}{}{Vaya. Metal humano. Y me habla.}
-{453}{}{Si eres de otro planeta, deberías dar la vuelta… aquí no hay nada para
- conquistar.}
+{453}{}{Si eres de otro planeta, deberías dar la vuelta… aquí no hay nada para conquistar.}
 {454}{}{Oooooh. Puedo ver las luces de Nuevo Reno en tu visor.}
 {455}{}{Estoy taaan colocado que… eh, ¿qué estaba diciendo?}
 {456}{}{Amiga, se debe pasar CALOR en esa cosa.}
@@ -231,7 +230,7 @@
 {513}{}{::Te mira con ojos confusos a causa de las drogas::}
 {520}{}{Eh, eh… ¿de qué vas tú? ¿tienes algo para compartir?}
 {521}{}{Pensaba que *yo* estaba jodido.}
-{522}{}{Oye, amigo… pasa algo de esa mierda que tienes.}
+{522}{}{Oye, amiga… pasa algo de esa mierda que tienes.}
 {523}{}{Te invitaría a volar, pero parece que tú ya estás allí.}
 {524}{}{¿Por qué sois dos? ¿Ese es tu gemelo?}
 {525}{}{¿De dónde conseguiste esa mierda que tienes?}
@@ -239,8 +238,7 @@
 {531}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… estoy viendo cerebros robot andando por ahí.}
 {532}{}{Si vuelvo a ver por aquí a ese cerebro robot zumbando por aquí, dejaré el Jet
  para siempre.}
-{533}{}{Ya me he sentido como tu amigo robot antes… dile que estará bien una vez baje de
- donde está.}
+{533}{}{Ya me he sentido como tu amigo robot antes… dile que estará bien una vez baje de donde está.}
 {534}{}{¿Qué demonios le ocurrió a tu amigo el del cerebro? ¿Perdió su cuerpo?}
 {535}{}{DIME que ese cerebro robot no es real. Por favor.}
 {536}{}{Hey. Mira a ese cerebro robot. Que me aspen si eso no es un cerebro drogadicto.}
@@ -270,8 +268,7 @@
 {560}{}{Amiga, no mires ahora, pero un tribal te está siguiendo.}
 {561}{}{Vaya. Mira a ese tribal. Un hueso grande.}
 {562}{}{Eh, eh. ¿Tu amigo sabe que le está creciendo un hueso en la nariz?}
-{563}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… acabo de ver que a ese tipo le crece un hueso
- en la nariz.}
+{563}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… acabo de ver que a ese tipo le crece un hueso en la nariz.}
 {564}{}{¿Estoy colocado, o tu amigo tiene un hueso creciéndole en la nariz?}
 {565}{}{Mejor que le digas a tu amigo que alguien le afeite un hueso de su nariz.}
 {566}{}{Apenas te puedo ver, estoy demasiado colocado.}

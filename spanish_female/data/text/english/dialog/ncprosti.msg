@@ -322,7 +322,7 @@
 {496}{}{¿Quieres bailar?}
 {497}{}{Olvídate de las máquinas tragaperras. Mi premio es MUCHO mejor.}
 {498}{}{No puedo creer la cantidad de strippers que había en la despedida de soltero de Feargus.}
-{499}{}{Parece que hay un nuevo forastero en la ciudad…}
+{499}{}{Parece que hay una nueva forastera en la ciudad…}
 {500}{}{¿Puedes atravesar un tablero con un clavo de seis pulgadas usando tu pene?}
 {501}{}{¿Quieres volar?}
 {502}{}{Hace tiempo que no se han visto caravanas de Redding.}
@@ -494,7 +494,7 @@
 {668}{}{¿Quieres bailar?}
 {669}{}{Olvídate de las máquinas tragaperras. Mi premio es MUCHO mejor.}
 {670}{}{No puedo creer la cantidad de strippers que había en la despedida de soltero de Feargus.}
-{671}{}{Parece que hay un nuevo forastero en la ciudad…}
+{671}{}{Parece que hay una nueva forastera en la ciudad…}
 {672}{}{¿Puedes atravesar un tablero con un clavo de seis pulgadas usando tu pene?}
 {673}{}{¿Quieres volar?}
 {674}{}{Hace tiempo que no se han visto caravanas de Redding...}
