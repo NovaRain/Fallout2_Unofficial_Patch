@@ -59,16 +59,16 @@
 {229}{}{Torr gusta }
 {230}{}{. Torr gracias. Hombre bicho malo, ¡no dejar hombre bicho come mu-mus! (Muchas gracias por ayudarme. Esos hombres bicho me ponen los pelos de punta. Espero que podamos evitar perder más brahmines.)}
 {231}{}{. Torr gracias. Hombre bicho malo, ¡no dejar hombre bicho come mu-mus!}
-{232}{}{Torr. (Estoy seguro de que no se llevarán a tus brahmines si los dos estamos juntos.)}
+{232}{}{Torr. (Estoy segura de que no se llevarán a tus brahmines si los dos estamos juntos.)}
 {233}{}{Espero que podamos parar esos ataques a tus mu-mus. Uh, brahmines. No creo que nada se atreva a atacarlos si estamos los dos juntos.}
-{234}{}{He venido a avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
+{234}{}{He venido a avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amiga, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
 {240}{}{¿Si? ¿Ayuda mu-mus ayuda Torr? ¡No hombre bicho! ¡Hombre bicho malo! (¿Estás aquí para ayudarme a vigilar a los brahmines del ataque de los hombres bicho?)}
 {241}{}{¿Si? ¿Ayuda mu-mus ayuda Torr? ¡No hombre bicho! ¡Hombre bicho malo!}
 {242}{}{ ayuda mu-mus ayuda Torr (Si, he venido para ayudarte a proteger a los brahmines de los hombres bicho. Estoy seguro de que no se llevarán a tus brahmines si los dos estamos juntos.)}
 {243}{}{No ayuda. (Lo siento, sólo pasaba por aquí. No he venido a ayudarte. Adiós.)}
 {244}{}{Uh, si; he venido para ayudarte a proteger a los brahmines -es decir, los mu-mus- de los hombres bicho.}
-{245}{}{Pues he venido para avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
-{246}{}{Lo siento, Torr. Estoy muy ocupado para quedarme aquí con un montón de brahmines, tengan dos o cuatro patas.}
+{245}{}{Pues he venido para avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amiga, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
+{246}{}{Lo siento, Torr. Estoy muy ocupada para quedarme aquí con un montón de brahmines, tengan dos o cuatro patas.}
 {249}{}{Torr quiere }
 {250}{}{. Torr quiere mamá. Torr quiere papá. (Me alegro tanto de que me hayas encontrado. Pensaba que esta vez no lo contaba.)}
 {251}{}{. Torr quiere mamá. Torr quiere papá.}

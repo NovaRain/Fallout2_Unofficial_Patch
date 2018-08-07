@@ -4,7 +4,7 @@
 {103}{}{Ves a un campesino.}
 {104}{}{Ves a un trampero.}
 {105}{}{Ves a un trampero.}
-{110}{}{Je, je: ¿reconoces ahora que eres uno de los nuestros?}
+{110}{}{Je, je: ¿reconoces ahora que eres una de los nuestros?}
 {111}{}{No tenemos nada que puedas robarnos.}
 {112}{}{El barrio de los tramperos cada día tiene ratas más grandes. Algunas hasta caminan erguidas.}
 {113}{}{Aquí no hay sitio para ti.}

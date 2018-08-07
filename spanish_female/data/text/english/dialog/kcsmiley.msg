@@ -68,7 +68,7 @@
 {281}{}{Entonces deja que te pregunte otra cosa.}
 {282}{}{Oh, ya veo. Gracias. Adiós.}
 {290}{}{La viuda Buckner está tan condenadamente feliz de tenerme de vuelta que pronto será la señora Smiley. Incluso ha hablado de darte algo por haber encontrado mi culo peludo y habérselo devuelto.}
-{291}{}{Me alegro por ambos. Déjame hacerte otra pregunta.}
+{291}{}{Me alegra por ambos. Déjame hacerte otra pregunta.}
 {292}{}{Eso es genial. Tendré que hablar con ella. Adiós.}
 {300}{}{Eh, gracias por salvarme el culo. Será mejor que vuelva. Nos vemos allí.}
 {310}{}{No te preocupes por mí. Puedo hacer el camino de vuelta solo.}
