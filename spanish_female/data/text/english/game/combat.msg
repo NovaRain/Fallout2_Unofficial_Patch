@@ -718,7 +718,7 @@
 {6106}{}{. El animal cegado aúlla de dolor}
 {6107}{}{, neutralizando al pobre animal}
 {6200}{}{, tumbando a este insecto mutante}
-{6201}{}{ZZZZZZZZZZ}
+{6201}{}{. Se desploma}
 {6202}{}{. La mantis no sabe si seguirá o no viviendo}
 {6203}{}{, rompiéndole un miembro}
 {6204}{}{, haciendo que la mantis lama sus heridas. Sujeta su miembro extrañamente}
