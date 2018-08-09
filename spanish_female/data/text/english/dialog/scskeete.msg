@@ -1,8 +1,8 @@
 {100}{}{Ves a un vándalo delgaducho.}
 {101}{}{ves a Doofus, el gorrilla.}
 {102}{}{Ese tipo es un harapiento indeseable, lleno de tics nerviosos, sin duda un adicto a algo.}
-{103}{}{¡Bonito vehículo, amigo, realmente bonito! Oh, amigo, soy tu hombre: vigilo tu coche, lo preservo de chinches. Cinco pavos, y no hay problema. ¡Cinco pavos y Doofus se pone a ello! No duermo en 24 horas, siempre estoy ahí, amigo.}
-{104}{}{Soy el gorrilla, amigo. Vigilo los coches: 5 dólares. Nadie los toca, porque Doofus está ojo avizor.}
+{103}{}{¡Bonito vehículo, amiga, realmente bonito! Oh, amiga, soy tu hombre: vigilo tu coche, lo preservo de chinches. Cinco pavos, y no hay problema. ¡Cinco pavos y Doofus se pone a ello! No duermo en 24 horas, siempre estoy ahí, amiga.}
+{104}{}{Soy el gorrilla, amiga. Vigilo los coches: 5 dólares. Nadie los toca, porque Doofus está ojo avizor.}
 {105}{}{Claro, por supuesto, amiga.}
 {106}{}{Entonces, amiga, ¿quieres mi protección?}
 {107}{}{Bien. Hazlo.}
@@ -25,7 +25,7 @@
 {124}{}{¿Qué haces?}
 {125}{}{¿Qué es este lugar?}
 {126}{}{Nada. Pensé que eras otra persona. Adiós.}
-{127}{}{Oye, amigo, Te advertí. Un mal lugar. Mala gente por aquí. He oído que se te llevaron tu transporte.}
+{127}{}{Oye, amiga, Te advertí. Un mal lugar. Mala gente por aquí. He oído que se te llevaron tu transporte.}
 {128}{}{Brak?}
 {129}{}{¿Cómo lo sabes?}
 {130}{}{Genial. Gracias. Bien.}
@@ -52,8 +52,8 @@
 {151}{}{Amiga, eso es un tanto... Gigante, soy Doofus y soy un gorrilla y se supone que vigilo los coches que la gente trae aquí, pero, ya sabes, tengo esta... necesidad, verás, y a veces necesito un poco de dinero extra y algo de material, ¿lo pillas?}
 {152}{}{Sí, claro. Como a veces ando un poco corto y tengo mis necesidades, entiendes, como cuando comienzo a sentirme enfermo, entonces necesito conseguir algunas fichas o algo, y entonces voy a hablar con Merk.}
 {153}{}{Amigo, Merk es el hombre. Tiene lo que uno necesita. A veces me deja dormir en el Rawhide cuando cierra. Pero después me pide que le haga pequeños favores.}
-{154}{}{Estoy llegando a eso... ¡caramba, esos colores, amigo! Merk a veces quiere cosas de los coches que vigilo. ¡Pero le engañé!}
-{155}{}{Verás, sólo me guardo cosas de los coches que no me pagan por vigilar. Él cree que estoy timando a mis clientes, pero yo no hago eso. Amigo, tengo que dejar de hablar. Me gusta ver las cosas... oh, amigo, el resplandor. Todo resplandece.}
+{154}{}{Estoy llegando a eso... ¡caramba, esos colores, amiga! Merk a veces quiere cosas de los coches que vigilo. ¡Pero le engañé!}
+{155}{}{Verás, sólo me guardo cosas de los coches que no me pagan por vigilar. Él cree que estoy timando a mis clientes, pero yo no hago eso. Amiga, tengo que dejar de hablar. Me gusta ver las cosas... oh, amiga, el resplandor. Todo resplandece.}
 {156}{}{Dame todo tu material.}
 {157}{}{Dime lo que sabes.}
 {158}{}{Basta, no puedo llevar más.}

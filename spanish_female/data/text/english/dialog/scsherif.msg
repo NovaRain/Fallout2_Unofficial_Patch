@@ -52,7 +52,7 @@
 {151}{}{¿Tú? Hmmm... no podría. Ni siquiera te conozco. Pero está buscando contratar a alguien, así que puedes hablar con ella por ti mismo. Su oficina está en el Salón del Congreso.}
 {152}{}{Gracias. Lo haré.}
 {153}{}{¿Sabes algo de un GECK?}
-{154}{}{¡Vaya, eso es muy audaz por tu parte, forastero... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
+{154}{}{¡Vaya, eso es muy audaz por tu parte, forastera... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
 {155}{}{Bueno, está Duppo, de los Comerciantes. Se encarga de los contratos para las caravanas de brahmines. También está el señor Westin. Si hablas con él, dile que yo te he enviado. Incluso la presidente Tandi ha estado buscando algo de ayuda.}
 {156}{}{Duppo, de la Asociación de Comerciantes, contrata mano de obra para las caravanas de brahmines. Inténtalo con él.}
 {157}{}{¿Westin?}

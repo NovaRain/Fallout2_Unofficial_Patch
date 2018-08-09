@@ -89,12 +89,12 @@
 {188}{}{Yo Elegida. Vengo de Morador de Refugio.}
 {189}{}{Da igual. Hago preguntas.}
 {190}{}{He oído historias y tengo curiosidad.}
-{191}{}{Soy el Elegido de mi poblado. Soy un descendiente del Morador del Refugio.}
+{191}{}{Soy la Elegida de mi poblado. Soy una descendiente del Morador del Refugio.}
 {192}{}{No importa. Sólo era curiosidad.}
 {193}{tand16}{No es más que un maldito mito, como las minas perdidas de uranio. Conocí a un extraño una vez, que decía proceder de allí. Mucha gente murió intentando encontrar ese Refugio, más tarde.}
 {194}{}{Morador de Refugio es de verdad. Yo d-descendiente.}
 {195}{}{Quiero saber más.}
-{196}{}{El Morador del Refugio fue real. Yo soy uno de sus descendientes.}
+{196}{}{El Morador del Refugio fue real. Yo soy una de sus descendientes.}
 {197}{}{Ya veo. Déjame que te pregunte otra cosa.}
 {198}{tand17}{¿Un geck? ¿Como los lagartos? Están por todas partes.}
 {199}{}{No lagarto... da igual. Hago pregunta.}
@@ -211,7 +211,7 @@
 {310}{}{Gracias.}
 {311}{tand46}{Eres una verdadera regateadora. De acuerdo, habla con Gunther. Él hará los arreglos.}
 {312}{}{Gracias.}
-{313}{tand47}{¡Chicos, sacad a este montón de mierda de brahmin de mi oficina! Llegó tu hora de marcharte, forastero.}
+{313}{tand47}{¡Chicos, sacad a este montón de mierda de brahmin de mi oficina! Llegó tu hora de marcharte, forastera.}
 {314}{}{Hecho}
 {315}{tand14b}{Mi padre y Seth buscaron durante años el Refugio 13. Murieron buscando, y siempre decían que estaba al oeste de aquí. Si alguien encontrase el Refugio 13, eso nos vendría mejor que el 15.}
 {316}{}{Tendrás que hablar con mi ayudante, Gunther, sobre eso.}

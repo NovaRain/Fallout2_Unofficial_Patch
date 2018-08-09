@@ -9,7 +9,7 @@
 {108}{}{¿Qué se puede hacer en esta ciudad?}
 {109}{}{Adiós.}
 {110}{}{Hoss, el muchacho de la presidente Tandi. Es un problema cuando está borracho, así que yo de ti me mantendría alejado de él.}
-{111}{}{Era Hoss, el hijo de la presidente Tandi. ¡Muchacho, seguro que te encandila su trasero!}
+{111}{}{Era Hoss, el hijo de la presidente Tandi. ¡Muchacha, seguro que te encandila su trasero!}
 {112}{}{¿Presidente Tandi?}
 {113}{}{Un tipo duro, ¿eh? Gracias.}
 {114}{}{No demasiado. Si buscas problemas, ve a beber en algún lugar, como el Rawhide. Si buscas trabajo, está la parcela de Westin al oeste de la ciudad. También he oído algo acerca de que la Presidente Tandi está buscando a un especialista.}

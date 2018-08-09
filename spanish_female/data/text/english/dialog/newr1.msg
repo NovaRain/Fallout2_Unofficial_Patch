@@ -330,4 +330,4 @@
 {1500}{}{Has convencido a la señora Wright para que destruya los alambiques.}
 {1550}{}{Has sido testigo de la transacción secreta.}
 {1600}{}{En el fragor de la lucha, el Masticador te arrancó la oreja.}
-{1700}{}{Enfurecido, le arrancas la oreja al Masticador.}
+{1700}{}{Enfurecida, le arrancas la oreja al Masticador.}

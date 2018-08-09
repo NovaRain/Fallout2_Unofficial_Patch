@@ -18,7 +18,7 @@
 {117}{}{¡Bebida! ¡Bien!}
 {118}{}{¡Grrrg!}
 {119}{}{¡Calma, colega! No puedes culpar a un hombre sólo por preguntar, ¿verdad? Te dejaré tranquila entonces.}
-{120}{}{(Gulp, gulp, gulp) ¡Aaaahhhh! ¡Eso está muy bien por tu parte, forastero! Buena persona, sí señor. El tipo de hombre al que tener por compadre. (Gulp) ¿Te he hablado alguna vez de cuando di mi gran golpe?}
+{120}{}{(Gulp, gulp, gulp) ¡Aaaahhhh! ¡Eso está muy bien por tu parte, forastera! Buena persona, sí señor. El tipo de mujer al que tener por compadre. (Gulp) ¿Te he hablado alguna vez de cuando di mi gran golpe?}
 {121}{}{¿No?}
 {122}{}{¡Oye, deja de beberte toda mi cerveza!}
 {123}{}{¡Rahhhg!}
@@ -33,8 +33,7 @@
 {132}{}{Lo siento, viejo, no pretendía sacarte de quicio.}
 {133}{}{¡Que te den, viejo!}
 {134}{}{¿Enfadarme? ¡Enfadarme! ¡Todavía no me has visto enfadado! ¡Ahora sal de mi vista antes de que me cabree de verdad! ¡Largo! ¡Fuera!}
-{135}{}{¡Que te den a ti también! Ahora nos entendemos. ¡No aguantes chorradas de nadie, compadre!
-Oye, ¿no tendrás algo de licor? ¿Sólo un traguito?}
+{135}{}{¡Que te den a ti también! Ahora nos entendemos. ¡No aguantes chorradas de nadie, compadre! Oye, ¿no tendrás algo de licor? ¿Sólo un traguito?}
 {136}{}{Sí.}
 {137}{}{No.}
 {138}{}{¡Aléjate de mí, borracho apestoso!}
