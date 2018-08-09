@@ -1029,7 +1029,7 @@
 {2521}{}{Carne fresca...}
 {2522}{}{Bailaré sobre tu tumba.}
 {2523}{}{¡Eh, todos! ¡Es la diana de practicas!}
-{2524}{}{¿Estás listo, puta?}
+{2524}{}{¿Estás lista, puta?}
 {2525}{}{Voy a disfrutar de esto...}
 {2540}{}{¡¡¡Toma esto!!!}
 {2541}{}{No te molestes en pedir piedad...}
@@ -1050,7 +1050,7 @@
 {2563}{}{Es patético...}
 {2564}{}{¡Demasiado lenta!}
 {2565}{}{¡Perdedora!}
-{2600}{}{¡Huid de El Maligno!}
+{2600}{}{¡Huid de La Maligna!}
 {2601}{}{Los Espíritus me aconsejan que me salve yo mismo.}
 {2602}{}{Nuestro enemigo ha usado poderosa magia... ¡Huid! ¡Qué alguien busque al chamán!}
 {2603}{}{Los espíritus malignos son poderosos en él. ¡La muerte camina sobre la tierra!}
@@ -1679,9 +1679,9 @@
 {18034}{}{Debería levantar los puños...}
 {18035}{}{No hay dolor, no hay dolor...}
 {18060}{}{¡No por debajo de la cintura!}
-{18061}{}{Atacas a las piernas, cabrón...}
+{18061}{}{Atacas a las piernas, puta...}
 {18070}{}{¡No por debajo de la cintura!}
-{18071}{}{Atacas a las piernas, cabrón...}
+{18071}{}{Atacas a las piernas, puta...}
 {18080}{}{Apuntando a los ojos, ¿eh?}
 {18081}{}{Nfff}
 {18082}{}{Allá va el ojo del tigre...}
@@ -2148,7 +2148,7 @@
 {36001}{}{¡Ay! ¡La cabeza de Kaga!}
 {36002}{}{¡Uuf! ¡La cabeza de Kaga está en llamas!}
 {36010}{}{¡La mano de Kaga!}
-{36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
+{36011}{}{¡Ay! Menos mal que uso la mano derecha.}
 {36012}{}{¡¡Ay!!}
 {36020}{}{¡Ay, mi brazo!}
 {36021}{}{¡Le has roto el brazo a Kaga!}
@@ -2158,7 +2158,7 @@
 {36032}{}{¡Grrr!}
 {36033}{}{¡Lamentarás eso!}
 {36034}{}{¡Deberías detenerte mientras estás ganando!}
-{36035}{}{Buen tiro. Turno de Kaga.}
+{36035}{}{Buen tiro. Mi turno.}
 {36060}{}{¡Ay, mi pierna!}
 {36061}{}{¡Pagarás por eso!}
 {36062}{}{¡Ah! ¡La PIERNA de Kaga!}
@@ -2168,7 +2168,7 @@
 {36080}{}{¡Maldita sangre en los ojos!}
 {36081}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
 {36082}{}{¡Bastardo!}
-{36090}{}{Oooooohh, tiempo muerto, Kaga tiene que recoger algo.}
+{36090}{}{Oooooohh, tiempo muerto, tengo que recoger algo.}
 {36091}{}{¡Ooohh! Kaga tiene que aprender ese movimiento...}
 {36092}{}{Urg! ¡Petey! ¿Estás bien ahí abajo?}
 {36093}{}{Eso... wheeeeze... dolió!}
@@ -2232,7 +2232,7 @@
 {36303}{}{¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
 {36304}{}{Tú y Kaga os volveréis a ver.}
 {36305}{}{¡Pagarás por esto... más tarde!}
-{36320}{}{Kaga y El Elegido se vuelven a ver.}
+{36320}{}{Kaga y La Elegida se vuelven a ver.}
 {36321}{}{Acabemos con esto.}
 {36322}{}{¡Lamentarás haber oído el nombre de Kaga!}
 {36323}{}{Las habilidades de Kaga han mejorado desde la última vez que nos vimos.}
@@ -2391,9 +2391,9 @@
 {36816}{}{¡Se supone que yo tengo que darte caza a ti!}
 {36817}{}{Tengo dinero. Deja que me vaya y es tuyo.}
 {36818}{}{El infierno acaba de helarse.}
-{36819}{}{Maldición, eres bueno!}
+{36819}{}{¡Maldición, eres buena!}
 {36820}{}{¿Sabes cuánto tiempo te he estado buscando?}
-{36821}{}{Eres hombre muerto.}
+{36821}{}{Eres mujer muerta.}
 {36822}{}{Ríndete y te mataré rápidamente.}
 {36823}{}{Te he rastreado durante días.}
 {36824}{}{La recompensa me vendrá muy bien.}
@@ -2417,7 +2417,7 @@
 {36842}{}{Sólo necesito tu cabeza. Te puedes quedar el resto.}
 {36843}{}{¿A que no es tan divertido cuando eres tú quien va a morir?}
 {36844}{}{Con la recompensa voy servido.}
-{36845}{}{No eres tan duro.}
+{36845}{}{No eres tan dura.}
 {36846}{}{Esto te va a doler más a ti que a mí.}
 {36847}{}{Me encanta mi trabajo.}
 {36848}{}{Creo que esto ha sido cosa del destino.}
