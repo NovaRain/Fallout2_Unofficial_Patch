@@ -6,7 +6,8 @@
 [__Help translating__](https://tra.bgforge.net/projects/fallout/up/)
 | [__Download__](https://github.com/BGforgeNet/fallout2-up-translation/releases)
 | [__Installation__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
-| [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
+| [__Forum__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
+| [__Discord__](https://discord.gg/4Yqfggm)
 | [__Report issues__](https://github.com/BGforgeNet/fallout2-up-translation/issues)
 
 This is a localization effort for Fallout 2 [Killap's unofficial patch](http://killap.net/fallout2/web/Downloads.html) (v. 1.02.31).
