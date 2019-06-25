@@ -44,7 +44,7 @@
 {215}{}{Don't wait up for us!}
 {216}{}{Its a dirty job, and I really enjoy it!}
 {217}{}{Back to patrol!}
-{218}{}{The Unwashed Villagers.  Keeping peace in a blasted wasteland.}
+{218}{}{The Unwashed Villagers. Keeping peace in a blasted wasteland.}
 {219}{}{He got what he deserved.}
 {220}{}{I'll race ya!}
 
@@ -53,7 +53,7 @@
 {301}{}{Rally unwashed! Destroy the Spammer!}
 {302}{}{Death to the Spammer!}
 {303}{}{This is for threatening people's lives!}
-{304}{}{Now you will die Grim Reaper.}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{You're going back 'down under'!}
 {306}{}{The gene pool needs a little chlorine.}
 {307}{}{Pay back time!}
@@ -66,16 +66,16 @@
 {314}{}{Protect the Chosen One from the Spammer's idiocies!}
 {315}{}{Chosen One! Join us!}
 {316}{}{UNWASHED VENGENCE!}
-{317}{}{You will never be 'Unwashed' childish fool!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{You don't have a chance!}
 {319}{}{We're not finished yet!}
 {320}{}{I've been waiting for this day for a looooong time.}
 
 # 1 Buffy Personal Floats
 {400}{}{This is for threatening me!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl are you?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{'Revenge is a dish best served cold.'}
-{403}{}{I'm Buffy... your toast.}
+{403}{}{I'm Buffy... you're toast.}
 
 # 2 Doombot Personal Floats
 {405}{}{No one threatens Doombot!}
@@ -98,7 +98,7 @@
 # 8 Shadow Dancer Personal Floats
 {435}{}{We're all going to hell, and I'm driving the bus.}
 {436}{}{Come my child, let me take your pain away.}
-{437}{}{You're dead.  You just don't know it yet.}
+{437}{}{You're dead. You just don't know it yet.}
 
 # 9 Amish Commando Personal Floats
 {440}{}{Get some!}
