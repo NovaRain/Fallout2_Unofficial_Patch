@@ -214,7 +214,7 @@
 {270}{}{Lately our gold shipments have started to slow down because the miners are spending too much
  time flying high on Jet.}
 {271}{}{Almost all of the miners are spending more time flying Jet than mining for gold...so our prices
- are up, and our imports are down. Bad for business all the way around.}
+ are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Everyone's getting too high on Jet to work effectively. We aren't making but a tenth of our
  regular gold shipments, and we've jacked the price way up on that. This can't last.}
 {273}{}{Seems like everyone got a bad batch of jet. All of the regular Jet Jockeys are going through
