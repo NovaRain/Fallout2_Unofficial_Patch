@@ -75,7 +75,7 @@
 {273}{}{Watch out for the Masticator. He likes to eat ears…he's one sick fella.}
 
 # 15. FLOAT/CLICK [ARMED, PORN STAR, FEMALE]
-{280}{}{Hey, hey, hey! Chica, you need to me to put that weapon away for you?}
+{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
 {281}{}{What, you want me to strip search you and all? C'mon, shoulder that iron 'fore I have to get rough.}
 
 # 16. FLOAT [MALE, SNEAK, PORN STAR]
