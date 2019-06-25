@@ -58,7 +58,7 @@
 {250}{}{Yup. I’m sure. Now get out.}
 {251}{}{Well, if you say so. Goodbye.}
 
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, err, did I pass? }
+{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
 {261}{}{You sure did. Now let me in.}
 {262}{}{No, you failed, and now I have to report you.}
 
