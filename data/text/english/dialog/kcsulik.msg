@@ -544,12 +544,12 @@
 {1023}{}{No way we be frens with Child Killer.}
 {1025}{}{You be causing trouble in Klamath. We're gone.}
 
-{2300}{}{De spirits be movin' us}
-{2301}{}{We and I be movin'}
+{2300}{}{De spirits be movin' us.}
+{2301}{}{We and I be movin'.}
 {2302}{}{OK, take it easy.}
-{2303}{}{Don' worry, We an' I be movin'}
+{2303}{}{Don' worry, We an' I be movin'.}
 {2304}{}{We thinkin' you need time to smell de flowers. Grampy-Bone say you're too pushy all de time. You got to be takin' life slower.}
-{2305}{}{We be movin' an' groovin'}
+{2305}{}{We be movin' an' groovin'.}
 {2306}{}{We and I go over here now.}
 {2307}{}{Relax, be happy, we move now.}
 

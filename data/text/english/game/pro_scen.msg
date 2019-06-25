@@ -398,9 +398,9 @@
 {20700}{}{Old Mattress}
 {20701}{}{Even if you were to sleep by yourself on this thing, you would not be sleeping alone.}
 {20800}{}{Bed}
-{20801}{}{A make-shift bed. The material was scavenged from some other source.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Bed}
-{20901}{}{A make-shift bed. The material was scavenged from some other source.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Bed}
 {21001}{}{This bed has seen better days (and probably nights, too.)}
 {21100}{}{Bed}
