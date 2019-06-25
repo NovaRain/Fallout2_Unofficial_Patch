@@ -22,7 +22,7 @@
 {118}{}{Why aren’t you in the city?}
 {119}{}{Can I ask you something else?}
 {120}{}{Yeah, times are tough. Goodbye.}
-{121}{}{That’s right, big fella.  I gotta get going.}
+{121}{}{That’s right, big fella. I gotta get going.}
 {122}{}{You talking about the Vault inside the city? I've only seen it once... it's
  inside the gates, along the cliff, I think. They only let the Citizens into it,
  though.}
