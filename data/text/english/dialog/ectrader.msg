@@ -1,7 +1,7 @@
 {100}{}{A salesman.}
 {101}{}{Willy.}
 {102}{}{A slick traveling salesman.}
-{103}{}{Greetings friend, my name is Willy and have I got a deal for you. [He seems to be reading from
+{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
  a card, and after a while you doze off.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[You groggily open your eyes as you finally notice that someone is kicking you.] Well, are you
