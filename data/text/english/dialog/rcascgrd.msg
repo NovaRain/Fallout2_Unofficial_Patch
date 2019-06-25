@@ -31,7 +31,7 @@
 {130}{}{Gonna turn you into scraps for startin' a fight in here.}
 {131}{}{You dumbass.}
 {132}{}{You can't do that and live.}
-{133}{}{Time to take you outta' da' gene-pool}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{You shoulda known better.}
 {135}{}{Sorry it had to come to this.}
 {136}{}{You loser.}
@@ -42,7 +42,7 @@
 {141}{}{Now we've gotta come down hard on you.}
 {142}{}{This is really going to hurt…you.}
 {143}{}{Better put up that gat, pal.}
-{144}{}{We don't want any trouble here friend. Put that away.}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Better put that piece away.}
 {146}{}{Keep it in the holster, bub.}
 {147}{}{Put that weapon away.}
