@@ -45,7 +45,7 @@
 {160}{}{You just better watch it in here.}
 {161}{}{Welcome to the control area.}
 {162}{}{Don’t touch anything in there.}
-{163}{}{If something goes wrong I there, we’re coming looking for you.}
+{163}{}{If something goes wrong in there, we'll come looking for you.}
 {164}{}{Any problems -— we’re blaming you.}
 
 {170}{}{Kinda surprised to see a smoothskin like you here.}
