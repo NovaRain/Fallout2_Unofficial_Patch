@@ -95,7 +95,7 @@ variable Only_Once:=0;
 variable waiting := 0;
 variable last_locker_tamper;
 
-procedure getArmedPartyMember(variable last) begin
+procedure getArmedPartyMember begin
    if (Is_Armed(dude_obj)) then
       return dude_obj;
    if (Vic_In_Party) then
@@ -148,7 +148,7 @@ procedure getArmedPartyMember(variable last) begin
       if (Is_Armed(Robobrain_Chimp_Ptr)) then
             return Robobrain_Chimp_Ptr;
    //end added
-     
+
    return 0;
 end
 
