@@ -794,7 +794,7 @@ procedure Node031a begin
 
    set_global_var(GVAR_VAULT_CITIZEN,0); //added by killap
    set_global_var(GVAR_VAULT_CITIZENSHIP,0); //added by killap
-    
+
    if( ( local_var(LVAR_Gave_Day_Pass) == 0 ) and
        ( global_var(GVAR_VAULT_CITIZEN) != CITIZEN_CAPTAIN_GUARD ) and
        ( global_var(GVAR_VAULT_CITIZEN) != CITIZEN_REAL_CITIZEN ) ) then
@@ -1075,7 +1075,7 @@ procedure Node047 begin
       NOption(315, Node048, 004);
    NOption(316, Node045, 004);
    NOption(317, Node051, 004);
-   if( (not(raiders_dead)) ) then 
+   if( (not(raiders_dead)) ) then
       NOption(318, Node999, 004);
 end
 

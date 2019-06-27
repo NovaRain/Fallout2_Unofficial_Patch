@@ -104,7 +104,7 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
-   
+
 end
 
 
@@ -157,7 +157,7 @@ procedure talk_p_proc begin
    //added by killap
    assign_personality
    //end added
-   
+
    if (local_var(LVAR_Personality) == Personality_Child) then begin
        if (dude_is_male) then
            floater(random(215,227));
@@ -219,8 +219,8 @@ procedure description_p_proc begin
    //added by killap
    assign_personality
    //end added
-   display_msg(mstr(local_var(LVAR_Look_At))); 
-   
+   display_msg(mstr(local_var(LVAR_Look_At)));
+
    //script_overrides;
    //display_msg(mstr(local_var(LVAR_Look_At)));
 end

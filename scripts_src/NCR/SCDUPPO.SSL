@@ -141,7 +141,7 @@ procedure map_enter_p_proc begin
       check_restock_item(PID_BOTTLE_CAPS, 30, 30, 100)
       set_local_var(LVAR_Restock_Time, (random(1,6) * ONE_GAME_DAY) + game_time);
    end
-   
+
    //added by killap
    if ((new_run) and not(cattle_drive(HAL_DEAD))) then begin
    	if ((cattle_drive(CATTLE_FINISHED)) or (cattle_drive(CATTLE_MISSED))) then begin

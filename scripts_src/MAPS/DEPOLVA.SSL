@@ -150,7 +150,7 @@ procedure CountDown begin
    level_three:=TIMER_LEVEL_2-total_time;
    level_two:=TIMER_LEVEL_3-total_time;
    level_one:=TIMER_LEVEL_4-total_time;*/
-   
+
    //edit by killap
    level_four:=TIMER_LEVEL_1-total_time;
    level_three:=TIMER_LEVEL_1-total_time;

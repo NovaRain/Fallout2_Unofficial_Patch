@@ -159,7 +159,7 @@ procedure map_enter_p_proc
 begin
    Only_Once := 0;
    critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_VAULT_VILLAGERS);
-   
+
    if ( ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS)) )  then begin
       if (cur_map_index == MAP_VAULT_VILLAGE) then begin
          destroy_object(self_obj);
@@ -176,7 +176,7 @@ begin
       end
       critter_attempt_placement(self_obj, 24911, dude_elevation);
    end
-  
+
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -187,19 +187,19 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
 
-   
+
+
    if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
-   
+
    end else begin
-   
+
       /*if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_DELIVERED_GUNS) then begin
          if (self_is_armed == false) then begin
             arm_obj(self_obj, PID_SHOTGUN, 1, 0, 1)
          end
       end*/
-   
+
       if (((local_var(LVAR_Hostile) == 2) or REP_ENEMY_VAULT_VILLAGE) and (obj_can_see_obj(self_obj,dude_obj))) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -210,7 +210,7 @@ procedure critter_p_proc begin
          call Node001;
          //dialogue_system_enter;
       end
-      
+
    end
 
 end
@@ -262,10 +262,10 @@ procedure talk_p_proc begin
 
    GetReaction;
    set_local_var(LVAR_From_Node_11,0);
-   
+
    if (map_var(0) == 1) then
      set_local_var(LVAR_Herebefore, 1);
-   
+
    if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then
    begin
      if (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) then begin
@@ -321,7 +321,7 @@ procedure talk_p_proc begin
      gsay_end;
      end_dialogue;
    end
-   
+
    else if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_SCREWED) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -520,7 +520,7 @@ begin
       if ( (global_var(GVAR_MCCLURE_KNOWN) >= MCCLURE_KNOWN) and (has_skill(dude_obj,SKILL_CONVERSANT) > 80) ) then
          NOption(203,Node034,004);
    end
-   
+
    set_local_var(LVAR_From_Node_11,1);
 end
 
@@ -563,7 +563,7 @@ begin
   else if (global_var(GVAR_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then
       giq_option(4, SCRIPT_VCCONNAR, 162, Node026, 50);
   //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) != 8) then
-      
+
 end
 
 
@@ -638,7 +638,7 @@ procedure Node016 begin
       floater(401);
    else
       floater(400);
-   
+
 end
 
 /*
@@ -720,7 +720,7 @@ end
 procedure Node023
 begin
   gsay_reply(SCRIPT_VCCONNAR, 155);
-  
+
   if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_JOE_SPOKE) and (local_var(LVAR_From_Node_11) != 1) ) then
      giq_option(4, SCRIPT_VCCONNAR, 600, Node038, 50);
   if (local_var(LVAR_Gave_Amulet) != 1) then
@@ -838,7 +838,7 @@ end
 
 procedure Node035 begin
    Reply(300);
-   
+
    //if (global_var(GVAR_MCCLURE_KNOWN) >= MCCLURE_KNOWN) then
    giq_option(4, SCRIPT_VCCONNAR, 154, Node023, 50);
    if (global_var(GVAR_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then

@@ -173,7 +173,7 @@ end
 
 procedure map_enter_p_proc begin
    gang_member_map_enter
-   
+
    // added by killap
    if (gang_door(state_gang_door_yes)) then
       unlock_church_door

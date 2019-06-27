@@ -539,7 +539,7 @@ end
 
 procedure Node019 begin
    Reply(290);
-   
+
    if (global_var(GVAR_TORR_GUARD_STATUS) < TORR_GUARD_SUCCESS) then // added check by killap
       NOption(291,Node021,004);
    if not(map_is_known(MAP_KLAMATH_CANYON)) then //added by killap
@@ -550,7 +550,7 @@ procedure Node019 begin
       NOption(294,Node025,004);
    if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then // added by check killap
       NOption(295,Node026,004);
-   
+
    NOption(296,Node031,004);
    NOption(297,Node003,004);
    //NOption(298,Node004,006);

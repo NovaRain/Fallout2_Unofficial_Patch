@@ -183,7 +183,7 @@ procedure critter_p_proc begin
            set_obj_visibility(self_obj,0);      // vis
        end
    end*/
-   
+
    //new code - killap
    if (cur_map_index == MAP_SIERRA_123) then begin
        if (tile_in_tile_rect(17910,17890,19110,19090,tile_num(self_obj)) or tile_in_tile_rect(20702,20693,22302,22293,tile_num(self_obj))) then begin
@@ -216,7 +216,7 @@ procedure critter_p_proc begin
        else begin
            set_obj_visibility(self_obj,0);      // vis
        end
-   end 
+   end
    //end killap
 
    if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 0) and (tile_in_tile_rect(16280,16274,19880,19874,tile_num(self_obj))) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
@@ -329,7 +329,7 @@ procedure combat_p_proc begin
        debug_msg("I am disabled and won't attack!");
    end
    //end added
-end 
+end
 
 procedure damage_p_proc begin
    if (local_var(LVAR_Active) == 0) then begin //added check - killap

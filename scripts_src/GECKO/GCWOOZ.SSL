@@ -364,7 +364,7 @@ procedure Node920 begin
       item:=create_object(PID_GAMMA_GULP_BEER,0,0);
       add_obj_to_inven(dude_obj,item);
       //use_obj_on_obj(create_object(PID_GAMMA_GULP_BEER,0,0), dude_obj);
-      
+
       //killap
       Reply(723);
       NOption(311,Node004,004);
@@ -385,14 +385,14 @@ procedure Node922 begin
       item:=create_object(PID_ROENTGEN_RUM,0,0);
       add_obj_to_inven(dude_obj,item);
       //use_obj_on_obj(create_object(PID_ROENTGEN_RUM,0,0), dude_obj);
-      
+
       //killap
       Reply(723);
       NOption(311,Node004,004);
       NOption(726,Node007,004);
       NOption(725,Node999,004);
       //end killap
-      
+
    end
    else begin
       call Node008;
@@ -425,7 +425,7 @@ procedure Node924 begin
          //drink_round:=4;
       end
       //call Node999;
-      
+
       //killap
       Reply(731);
       NOption(311,Node004,004);
@@ -580,7 +580,7 @@ procedure Node007 begin
 //need first time
    //Reply(170);
    NOption(172,Node051,004); //was 920 - killap
-   NOption(173,Node052,004); //was 920 - killap 
+   NOption(173,Node052,004); //was 920 - killap
    NOption(174,Node053,004); //was 922 - killap
    NOption(175,Node009,004);
    NOption(176,Node999,004);
@@ -596,13 +596,13 @@ end
 
 procedure Node052 begin
    Reply(722);
-   
+
    NOption(g_mstr(352),Node920,004);
 end
 
 procedure Node053 begin
    Reply(724);
-   
+
    NOption(g_mstr(352),Node922,004);
 
 end

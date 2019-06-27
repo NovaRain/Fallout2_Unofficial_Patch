@@ -51,7 +51,7 @@ procedure map_enter_p_proc begin
        display_msg(mstr(100));
    end
    //end added by killap
-   
+
    end
 end
 

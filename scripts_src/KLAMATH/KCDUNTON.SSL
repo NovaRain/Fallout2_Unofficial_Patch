@@ -258,7 +258,7 @@ procedure map_enter_p_proc begin
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
       call rustle_status;
       call should_i_be_here;
-   end  
+   end
 end
 
 procedure rustle_status begin
@@ -579,7 +579,7 @@ procedure talk_p_proc begin
       end_dialogue;
    end
 
-   else if (global_var(GVAR_RUSTLE_FAIL) == 1) then begin               
+   else if (global_var(GVAR_RUSTLE_FAIL) == 1) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
          call Node007;
@@ -1240,7 +1240,7 @@ procedure Node007 begin
    Reply(170);
 
    GOption(171,Node955,004);
-   if (area != PASTURE) then 
+   if (area != PASTURE) then
       NOption(172,Node003,004);
    BOption(173,combat,004); //changed from 965 to combat
 end

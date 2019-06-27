@@ -191,7 +191,7 @@ import variable broken_hills_temp_box;
                                                          unhealthy_members+=1;      \
                                                    if (K9_In_Party) then                        \
                                                       if ((Is_Injured(K9_Ptr)) or (get_poison(K9_Ptr) > 0) or (get_critter_stat(K9_Ptr, STAT_current_rad)) or (Is_Crippled(K9_Ptr)) ) then                   \
-                                                         unhealthy_members+=1;      \                                                                                                                  
+                                                         unhealthy_members+=1;      \
                                                    if (unhealthy_members > 0)
 
 /* Local variables which do not need to be saved between map changes. */

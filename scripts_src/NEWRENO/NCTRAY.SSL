@@ -121,8 +121,8 @@ procedure Node058;
                                           end                                                                                            \
                                        end                                                                                               \
                                        set_lvar_bit_on(LVAR_Flags, gave_car_exp_bit)*/
-                                       
-                                       
+
+
 #define set_gave_car_exp               if (gave_car_exp == false) then begin                                                            \
                                           display_mstr(1000);                                                                              \
                                           inc_reno_rep(REP_NEW_RENO_NON_VIOLENT_CAR_RECOVER);                                           \
@@ -132,7 +132,7 @@ procedure Node058;
                                              give_xp(EXP_NEW_RENO_RECOVER_CAR_BISHOP_BONUS);                                            \
                                           end                                                                                           \
                                        end                                                                                              \
-                                       set_lvar_bit_on(LVAR_Flags, gave_car_exp_bit)                                        
+                                       set_lvar_bit_on(LVAR_Flags, gave_car_exp_bit)
 
 #define bishop_batteries               lvar_bit(LVAR_Flags, bishop_batteries_bit)
 #define set_bishop_batteries           if (bishop_batteries == false) then begin                \
@@ -245,7 +245,7 @@ end
 procedure critter_p_proc begin
    if (self_can_see_dude) then begin
       if (hostile or chop_shop_hostile) then begin
-         set_stolen_car(stolen_car_drive_away); 
+         set_stolen_car(stolen_car_drive_away);
          self_attack_dude;
       end else set_new_reno_watcher(new_reno_t_ray_obj)
    end
@@ -287,9 +287,9 @@ procedure talk_p_proc begin //major edit by killap - there is a check in place t
       //move by killap and edit too
       if (get_stolen_car(stolen_car_recovered)) then begin
         set_gave_car_exp;
-      end 
+      end
       //end edit
-      
+
       set_herebefore;
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
       gdialog_set_barter_mod(0);

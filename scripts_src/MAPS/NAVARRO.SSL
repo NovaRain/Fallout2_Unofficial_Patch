@@ -58,7 +58,7 @@ procedure map_enter_p_proc begin
    end else begin
       override_map_start_hex( 28695, 0, 0 );
    end
-   
+
    if (map_first_run) then begin
        display_msg(mstr(100));
    end
@@ -69,11 +69,11 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_NAVARRO_HEX,CAR_NAVARRO_ELEV)
       if (tile_contains_pid_obj(CAR_NAVARRO_HEX, CAR_NAVARRO_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_NAVARRO_HEX,CAR_NAVARRO_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_NAVARRO_HEX, CAR_NAVARRO_ELEV)
    //end added
-   
+
    //Check_Create_Car(CAR_NAVARRO_HEX, CAR_NAVARRO_ELEV)
 
    if (elevation(dude_obj) == 1) then begin

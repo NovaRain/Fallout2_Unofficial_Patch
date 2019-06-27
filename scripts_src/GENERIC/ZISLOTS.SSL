@@ -240,7 +240,7 @@ variable obj_near_machine := 0;
       dialogue_system_enter;
    end
    //end edit
-   
+
    /*if (obj_near_machine == 0) then begin
       dialogue_system_enter;
    end else begin

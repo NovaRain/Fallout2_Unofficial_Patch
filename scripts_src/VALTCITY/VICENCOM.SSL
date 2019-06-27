@@ -317,30 +317,30 @@ end
 procedure Node009a begin
    variable elc_rest;
    //variable elc_rest2;
-   
+
    gfade_out(600);
    gfade_in(600);
-   
+
    if( local_var( LVAR_Gave_Bonus ) == 0 ) then begin
       set_local_var( LVAR_Gave_Bonus, 1 );
       script_overrides;
-      
+
       //elc_rest2:=get_critter_stat(dude_obj,STAT_dmg_resist_electrical );
       //elc_rest:=get_critter_stat(dude_obj,STAT_dmg_resist_electrical ) + 5;
-      
-      //WARNING! this will not compile unless you use Timeslip's modified compile.exe file. 
-      //In addition, you must use his ddraw files and enable extended scripting or this script will crash in the game 
+
+      //WARNING! this will not compile unless you use Timeslip's modified compile.exe file.
+      //In addition, you must use his ddraw files and enable extended scripting or this script will crash in the game
       //elc_rest := get_pc_extra_stat(STAT_dmg_resist_electrical) + 5;
       set_pc_extra_stat(STAT_dmg_resist_electrical, elc_rest); //added by killap
       //set_critter_stat(dude_obj,STAT_dmg_resist_electrical,elc_rest); - comment out by killap
-      
+
       critter_dmg( dude_obj, get_critter_stat(dude_obj,STAT_current_hp) - 1, ( DMG_electrical BWOR DMG_NOANIMATE ) );
 
    end
-   
+
    Reply(185);
    NLowOption(186,Node006b);
-  
+
 end
 
 procedure Node010 begin

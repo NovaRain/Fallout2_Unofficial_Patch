@@ -98,7 +98,7 @@ procedure timed_event_p_proc begin
       game_ui_enable;
       attack(dude_obj);
    end
-end 
+end
 
 procedure combat_p_proc begin
    /*if (critter_is_fleeing(self_obj)) then begin
@@ -114,19 +114,19 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    variable obj;
-   
+
    if (game_time_hour > 600) then begin //battle is always at night
       game_time_advance_hour(100);
-   end   
-      
+   end
+
    display_msg(mstr(122));
-  
+
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAGA);
    //set_kaga_4;
    set_global_var(GVAR_RND_KAGA_STATE, 6);
-   
+
    check_restock_item(PID_GATLING_LASER, 1, 1, 100)
    check_restock_item(PID_PLASMA_GRENADE, 3, 3, 100)
    check_restock_item(PID_STIMPAK, 5, 5, 100)
@@ -139,15 +139,15 @@ procedure map_enter_p_proc begin
    check_restock_item(PID_HUNTING_RIFLE, 1, 1, 100)
    check_restock_item(PID_223_FMJ, 2, 2, 100)
    check_restock_item(PID_SPEAR, 1, 1, 100)
-   
+
    //if (kaga_met) then set_local_var(LVAR_Herebefore, 1);
-   
+
    move_to(dude_obj, 15054, 0);
    move_to(self_obj, 16081, 0);
-   
+
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
-   
+
    game_ui_disable;
    wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_GATLING_LASER));
    add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
@@ -282,7 +282,7 @@ procedure NodeFighting begin
    end
 
    float_msg(self_obj, mstr(rnd), FLOAT_MSG_RED);
-   
+
    /*if (rnd == 104 or rnd == 105 or rnd == 111) then begin
       set_local_var(LVAR_Herebefore, 1);
       set_kaga_met;
@@ -313,7 +313,7 @@ procedure doSequence begin
       Face_Critter(self_obj, dude_obj);
       sequence += 1;
       float_msg(self_obj, mstr(111) + dude_name + ".", FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
    end else if (sequence == 2) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(112), FLOAT_MSG_RED);
@@ -321,11 +321,11 @@ procedure doSequence begin
    end else if (sequence == 3) then begin
       sequence += 1;
       float_msg(self_obj, mstr(113), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
    end else if (sequence == 4) then begin
       sequence += 1;
       float_msg(self_obj, mstr(114), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 5) then begin
       sequence += 1;
       float_msg(self_obj, mstr(115), FLOAT_MSG_YELLOW);

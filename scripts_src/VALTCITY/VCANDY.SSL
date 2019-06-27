@@ -516,13 +516,13 @@ procedure Node003 begin
    NLowOption(138, Node003a);
    NLowOption(139, Node999);
 //begin killap comment out
-/*   If_Party_Has_Injured then begin 
+/*   If_Party_Has_Injured then begin
       if(party_size == 2) then
          NOption(140, Node001a, 004);
       else if(party_size > 2) then
          NOption(141, Node008, 004);
    end*/
-//   NOption(142, Node010, 004); //if you are getting healed why the heck ask where you are? 
+//   NOption(142, Node010, 004); //if you are getting healed why the heck ask where you are?
 //end killap comment out
       NOption(340, Node014, 004); //added by killap
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
@@ -1361,7 +1361,7 @@ procedure Node031a begin
    gfade_in(600);
 
    Reply(318);
-   
+
    NLowOption(351, Node999);
    NLowOption(352, Node999);
 end

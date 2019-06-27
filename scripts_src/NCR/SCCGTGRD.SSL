@@ -141,7 +141,7 @@ procedure critter_p_proc begin
 
    if (imCaptain) then
       call checkGateAttack;
-      
+
    //added by killap
    if ( (imCaptain) and (merk_visible) ) then begin
       if (tile_distance(tile_num(merk_obj), 19513) < 6) then begin

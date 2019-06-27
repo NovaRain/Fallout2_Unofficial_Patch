@@ -51,7 +51,7 @@ variable damage;
                                       ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) or \
                                       ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR ) or \
                                       ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) )
-                                   
+
 
 #define apply_radon_damage(x)    damage := random( 10, 15 ); \
                                  critter_dmg( x, damage, ( DMG_normal_dam BWOR DMG_NOANIMATE BWOR DMG_BYPASS_ARMOR ));

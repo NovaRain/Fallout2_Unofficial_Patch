@@ -96,7 +96,7 @@ procedure map_enter_p_proc begin
    if( not( is_loading_game ) ) then begin
       add_timer_event( self_obj, game_ticks( random( 20, 30 ) ), 0 );
    end
-   
+
 end
 
 procedure map_exit_p_proc begin

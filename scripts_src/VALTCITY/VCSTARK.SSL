@@ -792,10 +792,10 @@ procedure Node031 begin
    /*if( ( global_var( GVAR_VAULT_RAIDERS ) == RAIDERS_ACCEPTED_QUEST ) or
        ( global_var( GVAR_VAULT_RAIDERS ) == RAIDERS_DECLINED_QUEST ) ) then
       NOption(216, Node044, 004); --comment out by killap; was never obtainable anyway*/
-   
+
    if (global_var(GVAR_VAULT_RAIDERS) == RAIDERS_PROBLEM_KNOWN) then //added by killap
       NOption(216, Node044, 004);
-      
+
    BOption(217, Node064, 004);
    BOption(218, Node999, 004);
 end
@@ -845,12 +845,12 @@ end
 
 procedure Node035 begin
    set_local_var( LVAR_Stark_Raiders, 1 );
-   
+
    //added by killap
    if (global_var(GVAR_VAULT_RAIDERS) < RAIDERS_PROBLEM_KNOWN) then
       set_global_var(GVAR_VAULT_RAIDERS,RAIDERS_PROBLEM_KNOWN);
    //end
-   
+
    Reply(232);
 
    NOption(233, Node036, 004);
@@ -1218,7 +1218,7 @@ procedure Node064 begin
    if( ( global_var( GVAR_VAULT_STARK_RECON ) == RECON_NCR_ASSIGNED ) and
        ( global_var( GVAR_FINISHED_STARK_RECON ) == 1 ) ) then
       NOption(370, Node060, 004);
-   
+
    if( local_var( LVAR_Stark_Raiders ) == 1 ) then
       NOption(371, Node031, 004);
    NOption(372, Node999, 004);

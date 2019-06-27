@@ -174,7 +174,7 @@ procedure Node2022;
                                                 (critter_state(self_obj) bwand DAM_CRIP_ARM_RIGHT))
 
 #define cassidy_party_member_options    \
-           party_member_default_options  
+           party_member_default_options
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
@@ -368,7 +368,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    find_party_background;
-   
+
    if ( ( MacRae_Ptr != 0 ) or ( party_is_waiting ) ) then begin
        //start_gdialog(NAME,self_obj,4,HEAD_CASSIDY,PartyMemberBackground);
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -386,7 +386,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
    set_local_var( LVAR_Herebefore, 1 );
-   
+
    //comment out by killap
    /*if( Perform_Party_Add == 1 ) then begin
       Perform_Party_Add := 0;
@@ -642,7 +642,7 @@ procedure Node017a begin
 
    // Set up Out of Business sign.
    create_east_out_of_business( 19284, 0 );
-   
+
    party_member_default_options; //added by killap
 end
 
@@ -769,7 +769,7 @@ procedure Node1100 begin
       BOption(3100, Node999, 001);
       NOption(3200, Node999, 001);
    end*/
-   
+
 end
 
 // Cassidy dialog
@@ -857,7 +857,7 @@ end
 procedure Node1108 begin
    set_local_var( LVAR_Cassidy_Knows_Plan, 1 );
    Reply(294);
-   
+
    // edit by killap
    if (f2_flag_any >= f2_state_tribe_kidnapped) then
       NOption(297, Node1109, 001);

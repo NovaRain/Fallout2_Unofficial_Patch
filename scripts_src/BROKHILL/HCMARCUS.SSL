@@ -382,7 +382,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    find_party_background;
 
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
@@ -444,7 +444,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   
+
    //comment out by killap
    /*if( Perform_Party_Add == 1 ) then begin
       Perform_Party_Add := 0;
@@ -800,7 +800,7 @@ procedure Node023 begin
          ( global_var(GVAR_BH_JAIL) == JAIL_REJECTED ) or
          ( global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_ACCEPTED ) or
          ( global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_REJECTED ) ) ) then*/
-         
+
    if( ( local_var( LVAR_Turned_In_Conspiracy ) == 0 ) and
      ( ( ( global_var(GVAR_BH_JAIL) >= JAIL_REJECTED ) and
        ( global_var(GVAR_BH_JAIL) < JAIL_DOUBLECROSS ) ) or
@@ -898,7 +898,7 @@ end
 procedure Node029b begin
    // Player didn't go to Chad with Marcus.  Simply arrest Chad
    // Send him to Jail
-   set_global_var( GVAR_BH_CHAD, CHAD_ARRESTED ); 
+   set_global_var( GVAR_BH_CHAD, CHAD_ARRESTED );
 end
 
 procedure Node030 begin
@@ -1170,7 +1170,7 @@ procedure Node116a begin
       set_global_var( GVAR_BH_CONSPIRACY, CONSPIRACY_BROKEN_HERO );
 
    set_global_var( GVAR_BH_JAIL, JAIL_DOUBLECROSS ); //added by killap
-   
+
    // Send Marcus, Franc, Jacob, and Aileen to prison.
 
    call Node026;

@@ -309,7 +309,7 @@ procedure Node999 begin
 end
 procedure Node996 begin
    // barter
-   
+
    if (get_tribute(tribute_collected)) then begin
       gdialog_mod_barter(-50);
    end else
@@ -730,7 +730,7 @@ procedure Node041 begin
       NOption(672, Node993, 004);
       NOption(673, Node992, 004);
    end else begin
-      
+
       NOption(687, Node996, 004);
       NOption(688, Node042, 004);
       NOption(689, Node999, 004);
@@ -955,14 +955,14 @@ procedure Node064 begin
 end
 procedure Node065 begin
    return_node := "Node065";
-   
+
    set_tribute(tribute_collected);
 
    Reply(940);
    NOption(941, Node996, 004);
    NOption(454, Node042, 004);
    NOption(943, Node999, 004);
-   
+
 end
 procedure Node066 begin
    return_node := "Node066";

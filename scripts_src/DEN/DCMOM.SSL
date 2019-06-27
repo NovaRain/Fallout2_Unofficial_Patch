@@ -217,7 +217,7 @@ procedure Node001 begin
    Reply(200 + herebefore);
    NOption(mstr(202) + dude_name + ".", Node002, 001); //added . - killap
    NOption(203, Node999, 001);
-   
+
    set_herebefore; //added by killap
 end
 
@@ -322,7 +322,7 @@ procedure Node013 begin
    NOption(411, Node009, 004);
 
    set_herebefore; //added by killap
-   
+
    NOption(g_mstr(376), Node999, 004);
 
 end

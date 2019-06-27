@@ -41,5 +41,5 @@ procedure destroy_p_proc begin
 end
 
 procedure use_obj_on_p_proc begin
-   
+
 end

@@ -52,11 +52,11 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_GECKO_HEX,CAR_GECKO_ELEV)
       if (tile_contains_pid_obj(CAR_GECKO_HEX, CAR_GECKO_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_GECKO_HEX,CAR_GECKO_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_GECKO_HEX, CAR_GECKO_ELEV)
    //end added
-   
+
    //Check_Create_Car(CAR_GECKO_HEX, CAR_GECKO_ELEV)
 
    if (global_var(GVAR_GECKO_MELTDOWN) == 2) then begin
@@ -91,7 +91,7 @@ procedure ghost_town begin
       kill_critter_type(PID_WILD_BRAHMIN,KILL_DONT_LEAVE_BODY);
       kill_critter_type(PID_LUMPY,KILL_DONT_LEAVE_BODY); //added by killap
       kill_critter_type(PID_DOG,KILL_DONT_LEAVE_BODY); //added by killap
-      
+
       if Lenny_In_Party then begin
          //do nothing
       end
