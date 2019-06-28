@@ -163,7 +163,7 @@
 {226}{}{I've heard it all before. Let's get down to other business.}
 {227}{}{Thanks, I'll think about what you've told me. Let me ask you about something else, though.}
 {228}{}{I'll have to think this over. Goodbye.}
-{229}{}{Hmmm...I may have a solution to that. [Give Lou the jet antidote]}
+{229}{}{Hmmm...I may have a solution to that. [Give Lou the Jet antidote]}
 {230}{}{What the hell's this stuff?}
 {231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
 {232}{}{Well...alright. Now, is there anything else you wanted?}
