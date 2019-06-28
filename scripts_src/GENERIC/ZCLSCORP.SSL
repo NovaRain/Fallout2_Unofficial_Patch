@@ -64,7 +64,7 @@ procedure destroy_p_proc begin
   variable tail := 0;
   tail := create_object(PID_SCORPION_TAIL,0,0);
   add_obj_to_inven(self_obj,tail);
-  
+
   inc_evil_critter
 end
 

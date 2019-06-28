@@ -101,7 +101,7 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_PUNKS);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_PUNK);
-   
+
    //added by killap
    if (is_loading_game == false) then begin
 
@@ -249,9 +249,9 @@ end
 
 procedure Node001 begin
    Reply(103);
-   
+
    set_local_var(LVAR_Herebefore, 1);  //killap's fix: moved from talk_p_pro
-   
+
    NLowOption(104, Node002); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
    NLowOption(105, Node003); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
    NLowOption(106, Node999); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!

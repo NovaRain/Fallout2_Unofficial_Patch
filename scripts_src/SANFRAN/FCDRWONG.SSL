@@ -170,7 +170,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
       call Node016;
    end else if (dude_item(PID_VERTIBIRD_PLANS) and dude_iq >= 4 and (shi_whirly(SH_WH_ACCEPTED) or shi_whirly(SH_WH_STEALELE))) then begin
@@ -428,7 +428,7 @@ procedure Node018 begin
       if (global_var(GVAR_SAN_FRAN_VERTI_SHI_QST) == 1) then begin
          COMPLETE_VERTI_SHI;
       end
-      //end added 
+      //end added
    end else begin
       COMPLETE_VERTI_SHI;
    end

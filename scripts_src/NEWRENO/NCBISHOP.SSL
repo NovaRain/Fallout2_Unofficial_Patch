@@ -255,7 +255,7 @@ procedure Node989 begin
    end
 end
 procedure Node988 begin
-   if ((westin_dead == false) or (carlson_dead == false)) then begin 
+   if ((westin_dead == false) or (carlson_dead == false)) then begin
       call Node010;
    end else if ( (raiders_dead) ) then begin
       call Node060;

@@ -290,7 +290,7 @@ procedure critter_p_proc begin
    this as well. */
 
    //added by killap
-   
+
    variable obj;
    variable max;
    variable cur;
@@ -303,8 +303,8 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
-   
-   
+
+
    //added by killap
 
    if (local_var(LVAR_Test_Stage)) then
@@ -361,9 +361,9 @@ procedure critter_p_proc begin
          wield_obj(wepobj);
       end
    end
-   
+
    //end added
-  
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -526,7 +526,7 @@ procedure destroy_p_proc begin
    end else begin
       inc_evil_critter
    end
-end 
+end
 
 /* Look_at_p_proc gets called any time that the player passes the cursor over any object.
    This should only hold the most cursory of glances for the player. */
@@ -814,7 +814,7 @@ procedure Node024 begin
    if (global_var(GVAR_SAN_FRAN_DRAGON_KLOPAN_QST) == 1) then
       set_global_var(GVAR_SAN_FRAN_DRAGON_KLOPAN_QST, 3); //set to failure
    //end added
-   
+
    set_local_var(LVAR_State, STATE_DONE);
    inc_general_rep(REP_BOUNS_KILL_DRAGON_ON_MISSION);
    COMPLETE_LOPAN_KDRAGON_QUEST;
@@ -829,7 +829,7 @@ procedure Node025 begin
    if (global_var(GVAR_SAN_FRAN_DRAGON_KLOPAN_QST) == 1) then
       set_global_var(GVAR_SAN_FRAN_DRAGON_KLOPAN_QST, 3); //set to failure
    //end added
-   
+
    set_local_var(LVAR_State, STATE_DONE);
    inc_general_rep(REP_BOUNS_KILL_DRAGON);
    COMPLETE_LOPAN_KDRAGON_QUEST;

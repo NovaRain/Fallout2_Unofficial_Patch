@@ -848,7 +848,7 @@ end
 
 procedure Node034a begin
    variable item;
-   
+
    display_msg(mstr(329)); //added by killap
    set_local_var(LVAR_Gave_Antidote,game_time);
    // Begin Seraph's Code
@@ -1028,7 +1028,7 @@ procedure Node050 begin
        NOption(298,Node050a,004);
    NOption(299,Node049,004);
    if (item_caps_total(dude_obj) < 5000) then
-       NOption(300,Node999,004);  
+       NOption(300,Node999,004);
    if (not(dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then //edit
        NOption(301,Node999,004);
    NOption(302,Node999,004);
@@ -1038,7 +1038,7 @@ procedure Node050a begin
 //begin killap's code
    variable item;
 //second check for armor and money added by killap - prevents barter drop item exploit
-   if ((item_caps_total(dude_obj) >= 5000) and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) ) then begin //added by killap 
+   if ((item_caps_total(dude_obj) >= 5000) and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) ) then begin //added by killap
       item_caps_adjust(dude_obj,-5000);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
          item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR);
@@ -1063,7 +1063,7 @@ procedure Node050a begin
    end
    else begin
       Reply(297);
-      
+
       if (item_caps_total(dude_obj) < 5000) then
          NOption(300,Node999,004);
       if (not(dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then
@@ -1093,7 +1093,7 @@ end
 procedure Node051a begin
 //begin killap's code
    variable item;
-//second check for armor and money added by killap - prevents barter drop item exploit   
+//second check for armor and money added by killap - prevents barter drop item exploit
    if ((item_caps_total(dude_obj) >= 30000) and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin
       item_caps_adjust(dude_obj,-30000);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
@@ -1120,7 +1120,7 @@ procedure Node051a begin
    end
    else begin
       Reply(304);
-      
+
       if (item_caps_total(dude_obj) < 30000) then
           NOption(307,Node999,004);
       if (not(dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then //edit
@@ -1146,7 +1146,7 @@ procedure Node052a begin
 //killap's code
    variable item;
 //second check for armor and money added by killap - prevents barter drop item exploit
-   if ((item_caps_total(dude_obj) >= 8000) and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin  
+   if ((item_caps_total(dude_obj) >= 8000) and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin
       item_caps_adjust(dude_obj,-8000);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
          item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR);
@@ -1171,7 +1171,7 @@ procedure Node052a begin
    end
    else begin
       Reply(310);
-      
+
       if (item_caps_total(dude_obj) < 8000) then
          NOption(313,Node999,004);
       if (not(dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then //edit
@@ -1201,7 +1201,7 @@ end
 procedure Node053a begin
 //killap's code
    variable item;
-//second check for armor and money added by killap - prevents barter drop item exploit   
+//second check for armor and money added by killap - prevents barter drop item exploit
    if ((item_caps_total(dude_obj) >= 48000) and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin
       item_caps_adjust(dude_obj,-48000);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
@@ -1228,7 +1228,7 @@ procedure Node053a begin
    end
    else begin
       Reply(317);
-      
+
       if (item_caps_total(dude_obj) < 48000) then //was 48000
           NOption(320,Node999,004);
       if (not(dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then //edit

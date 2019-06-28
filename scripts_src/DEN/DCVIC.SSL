@@ -219,7 +219,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == TIMER_ENSURE_ANIM) then begin
       if not anim_busy(self_obj) then begin
          if ( (local_var(LVAR_Head_To_Mom) == 1) ) then begin //added (local_var(LVAR_Head_To_Mom)) - killap
-            if (self_tile != 22092) then 
+            if (self_tile != 22092) then
                animate_move_to_tile(22092);
             else begin
                animate_move_to_tile(27094);
@@ -230,18 +230,18 @@ procedure timed_event_p_proc begin
                animate_move_to_tile(27094);
             else begin
                animate_move_to_tile(vic_mom_tile);
-               set_local_var(LVAR_Head_To_Mom,3);         
+               set_local_var(LVAR_Head_To_Mom,3);
             end
          end else if ( (local_var(LVAR_Head_To_Mom) == 3) ) then begin
             if (self_tile != vic_mom_tile) then
                animate_move_to_tile(vic_mom_tile);
             else begin
-               set_local_var(LVAR_Home_Tile, vic_mom_tile); 
+               set_local_var(LVAR_Home_Tile, vic_mom_tile);
                set_local_var(LVAR_Head_To_Mom,0);
             end
          end
       end
-         add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM); 
+         add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM);
    end
 end
 
@@ -309,7 +309,7 @@ procedure push_p_proc begin
 end
 
 procedure critter_p_proc begin
-   
+
    //move by killap - would never be run if player was near Vic
    if (has_joined_party == false) then begin
       /*if (vic_free) then begin
@@ -333,7 +333,7 @@ procedure critter_p_proc begin
       if ( local_var(LVAR_Hostile) == 2 ) then begin
          self_attack_dude;
       end
-      
+
    /*end else if (has_joined_party == false) then begin
       if (vic_free) then begin
          if (self_tile != local_var(LVAR_Home_Tile)) then begin
@@ -350,7 +350,7 @@ procedure use_obj_on_p_proc begin
       display_msg(g_mstr(20000));
    end
    //end added
-   
+
    if (obj_item_subtype(obj_being_used_with) == item_type_drug) then begin
       if (has_joined_party) then begin
          if ((obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
@@ -368,7 +368,7 @@ procedure use_obj_on_p_proc begin
       end
       flush_add_timer_event_sec(self_obj, random(15, 30), timed_event_float);
    end
-   
+
 
 end
 
@@ -656,12 +656,12 @@ procedure Node011 begin
       NOption(198,Node999,004);
    end
    NOption(502,Node013,-003);
-   
+
    //moved from above - killap
    set_vic_trader;
    mark_vault_city_on_map
    //end
-   
+
 end
 procedure Node013 begin
    mark_vault_city_on_map
@@ -740,7 +740,7 @@ procedure Node022 begin
       NOption(170,Node014,004);
       NOption(172,Node014,-003); //added by killap
    end
-   
+
    NOption(814, Node999, -003); //added by killap
    NOption(803, Node999, 004);
 end

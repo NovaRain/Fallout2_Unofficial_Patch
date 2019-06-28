@@ -102,15 +102,15 @@ procedure timed_event_p_proc begin
          game_ui_disable;
          sequence += 1;
          float_msg(self_obj, mstr(121), FLOAT_MSG_RED);
-         add_timer_event(self_obj, game_ticks(3), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(3), DEFEAT);
       end else if (sequence == 8) then begin
          sequence += 1;
          float_msg(self_obj, mstr(122), FLOAT_MSG_RED);
-         add_timer_event(self_obj, game_ticks(5), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(5), DEFEAT);
       end else if (sequence == 9) then begin
          sequence += 1;
          animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 30));
-         add_timer_event(self_obj, game_ticks(3), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(3), DEFEAT);
       end else if (sequence == 10) then begin
          gfade_out(ONE_GAME_SECOND * 2);
          move_to(self_obj, 0, 0);
@@ -121,7 +121,7 @@ procedure timed_event_p_proc begin
          destroy_object(self_obj);
       end
    end
-end 
+end
 
 
 procedure combat_p_proc begin
@@ -141,10 +141,10 @@ procedure combat_p_proc begin
    end else begin
       call NodeFighting;
    end*/
-   
+
    if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 70)) then begin
       terminate_combat;
-      
+
       if ( (is_critter_prone(self_obj)) or ((critter_state(self_obj) bwand DAM_KNOCKED_OUT)) ) then begin
          reg_anim_clear( self_obj );
          reg_anim_begin();
@@ -157,8 +157,8 @@ procedure combat_p_proc begin
       add_timer_event(self_obj, game_ticks(0), DEFEAT);
       flee := 1;
    end
-   
-   
+
+
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -170,27 +170,27 @@ procedure map_enter_p_proc begin
    variable dunton_weapon2;
    variable item;
    variable item2;
-   
+
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAGA);
    //set_kaga_2;
    set_global_var(GVAR_RND_KAGA_STATE, 3);
-   
+
    check_restock_item(PID_HUNTING_RIFLE, 1, 1, 100)
    check_restock_item(PID_223_FMJ, 2, 2, 100)
    //check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 100)
    check_restock_item(PID_BOTTLE_CAPS, 100, 300, 100)
    check_restock_item(PID_SPEAR, 1, 1, 100)
-   
+
    //obj := self_item(PID_14MM_PISTOL);
-   
+
    //wield_obj_critter(self_obj, obj);
    //wield_obj(obj);
 
    if (kaga_met) then set_local_var(LVAR_Herebefore, 1);
-   
-   
+
+
    //move_to(self_obj, 19106, 0);
    //move_to(dude_obj, 19913, 0);
    move_to(self_obj, 20307, 0);
@@ -223,7 +223,7 @@ procedure critter_p_proc begin
    end else if (obj_can_see_obj(self_obj, dude_obj)) then begin
       attack(dude_obj);
    end*/
-   
+
    if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 70)) then begin
       if (not(flee)) then begin
          if ( (is_critter_prone(self_obj)) or ((critter_state(self_obj) bwand DAM_KNOCKED_OUT)) ) then begin
@@ -238,7 +238,7 @@ procedure critter_p_proc begin
          add_timer_event(self_obj, game_ticks(0), DEFEAT);
       end
    end
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -346,16 +346,16 @@ procedure NodeFighting begin
 end
 
 procedure doSequence begin
-   
+
    //face each other
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
-   
+
    //Kaga begins his speech introducing himself, and then attacks
    if (sequence == 0) then begin
       sequence += 1;
       float_msg(self_obj, mstr(114), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
    end else if (sequence == 1) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(115), FLOAT_MSG_GREEN);
@@ -363,15 +363,15 @@ procedure doSequence begin
    end else if (sequence == 2) then begin
       sequence += 1;
       float_msg(self_obj, mstr(116), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
    end else if (sequence == 3) then begin
       sequence += 1;
       float_msg(self_obj, mstr(117), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 4) then begin
       sequence += 1;
       float_msg(self_obj, mstr(118), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 5) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(119), FLOAT_MSG_GREEN);
@@ -379,7 +379,7 @@ procedure doSequence begin
    end else if (sequence == 6) then begin
       sequence += 1;
       float_msg(self_obj, mstr(120), FLOAT_MSG_RED);
-      add_timer_event(self_obj, game_ticks(2), ATTACK);   
+      add_timer_event(self_obj, game_ticks(2), ATTACK);
    end
 end
 //xxxxxxxxxxxxxxxxxxxx

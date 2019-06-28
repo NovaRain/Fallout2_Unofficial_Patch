@@ -114,11 +114,11 @@ procedure doSequence begin
    end else if (sequence == 1) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(127), FLOAT_MSG_GREEN);
-      add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE);
    end else if (sequence == 2) then begin
       sequence += 1;
       float_msg(self_obj, mstr(111), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 3) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(112), FLOAT_MSG_GREEN);
@@ -126,7 +126,7 @@ procedure doSequence begin
    end else if (sequence == 4) then begin
       sequence += 1;
       float_msg(self_obj, mstr(113), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);   
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 5) then begin
       sequence += 1;
       if (global_var(GVAR_RND_KAGA_STATE) == 1) then begin
@@ -135,102 +135,102 @@ procedure doSequence begin
       end else begin
          float_msg(dude_obj, mstr(114), FLOAT_MSG_GREEN);
          add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE);
-      end 
+      end
    end else if (sequence == 6) then begin
       sequence += 1;
       if (global_var(GVAR_RND_KAGA_STATE) == 1) then
          float_msg(self_obj, mstr(131), FLOAT_MSG_YELLOW);
       else
          float_msg(self_obj, mstr(115), FLOAT_MSG_YELLOW);
-         
+
       set_local_var(LVAR_Herebefore, 1);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 7) then begin
       sequence += 1;
       if (global_var(GVAR_RND_KAGA_STATE) == 1) then
          float_msg(self_obj, mstr(132), FLOAT_MSG_YELLOW);
       else
          float_msg(self_obj, mstr(116), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 8) then begin
       sequence += 1;
       float_msg(self_obj, mstr(133), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE);
    end else if (sequence == 9) then begin
       sequence += 1;
       float_msg(self_obj, mstr(117), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 10) then begin
       sequence += 1;
       float_msg(self_obj, mstr(134), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 11) then begin
       sequence += 1;
       float_msg(self_obj, mstr(135), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(7), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(7), TIMER_SEQUENCE);
    end else if (sequence == 12) then begin
       sequence += 1;
       float_msg(self_obj, mstr(136), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(7), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(7), TIMER_SEQUENCE);
    end else if (sequence == 13) then begin
       sequence += 1;
       float_msg(self_obj, mstr(137), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(7), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(7), TIMER_SEQUENCE);
    end else if (sequence == 14) then begin
       sequence += 1;
       float_msg(self_obj, mstr(138), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 15) then begin
       sequence += 1;
       float_msg(self_obj, mstr(139), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 16) then begin
       sequence += 1;
       float_msg(self_obj, mstr(140), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 17) then begin
       sequence += 1;
       float_msg(self_obj, mstr(141), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 18) then begin
       sequence += 1;
       float_msg(self_obj, mstr(142), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE);
    end else if (sequence == 19) then begin
       sequence += 1;
       float_msg(self_obj, mstr(143), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 20) then begin
       sequence += 1;
       float_msg(self_obj, mstr(144), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE);
    end else if (sequence == 14) then begin
       sequence += 1;
       float_msg(self_obj, mstr(145), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 21) then begin
       sequence += 1;
       float_msg(self_obj, mstr(146), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 22) then begin
       sequence += 1;
       float_msg(self_obj, mstr(147), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(6), TIMER_SEQUENCE);
    end else if (sequence == 23) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(120), FLOAT_MSG_GREEN);
-      add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE);
    end else if (sequence == 24) then begin
       sequence += 1;
       float_msg(self_obj, mstr(121), FLOAT_MSG_RED);
-      add_timer_event(self_obj, game_ticks(4), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(4), TIMER_SEQUENCE);
    end else if (sequence == 25) then begin
       sequence += 1;
       set_global_var(GVAR_RND_KAGA_STATE, 2);
       float_msg(self_obj, mstr(122), FLOAT_MSG_RED);
-      add_timer_event(self_obj, game_ticks(2), ATTACK); 
+      add_timer_event(self_obj, game_ticks(2), ATTACK);
    end
-end  
+end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_SEQUENCE) then begin
@@ -243,15 +243,15 @@ procedure timed_event_p_proc begin
          game_ui_disable;
          sequence += 1;
          float_msg(self_obj, mstr(123), FLOAT_MSG_RED);
-         add_timer_event(self_obj, game_ticks(3), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(3), DEFEAT);
       end else if (sequence == 27) then begin
          sequence += 1;
          float_msg(self_obj, mstr(124), FLOAT_MSG_RED);
-         add_timer_event(self_obj, game_ticks(5), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(5), DEFEAT);
       end else if (sequence == 28) then begin
          sequence += 1;
          animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 30));
-         add_timer_event(self_obj, game_ticks(3), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(3), DEFEAT);
       end else if (sequence == 29) then begin
          gfade_out(ONE_GAME_SECOND * 2);
          move_to(self_obj, 0, 0);
@@ -262,16 +262,16 @@ procedure timed_event_p_proc begin
          destroy_object(self_obj);
       end
    end
-end 
+end
 
 procedure start begin
 end
 
 procedure combat_p_proc begin
-   
+
    if ((get_critter_stat(self_obj,STAT_current_hp)) < (get_critter_stat(self_obj,STAT_max_hit_points))) then begin
       terminate_combat;
-      
+
       if ( (is_critter_prone(self_obj)) or ((critter_state(self_obj) bwand DAM_KNOCKED_OUT)) ) then begin
          reg_anim_clear( self_obj );
          reg_anim_begin();
@@ -284,8 +284,8 @@ procedure combat_p_proc begin
       add_timer_event(self_obj, game_ticks(0), DEFEAT);
       flee := 1;
    end
-      
-   
+
+
    /*if (local_var(LVAR_Personal_Enemy)) then begin
       if (not critter_is_fleeing(self_obj)) then begin
          critter_set_flee_state(self_obj, 1);
@@ -299,12 +299,12 @@ procedure combat_p_proc begin
    end else begin
       call NodeFighting;
    end
-   
+
    if (not obj_on_screen(self_obj)) then begin
       set_kaga_met;
       destroy_object(self_obj);
    end
-   */   
+   */
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -312,7 +312,7 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    variable obj;
-   
+
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAGA);
@@ -324,21 +324,21 @@ procedure map_enter_p_proc begin
    check_restock_item(PID_SPEAR, 5, 5, 100)
    check_restock_item(PID_BOTTLE_CAPS, 1000, 1000, 100)
    check_restock_item(PID_SUPER_STIMPAK, 1, 1, 100)
-   
+
    //obj := self_item(PID_SPEAR);
-   
+
    move_to(dude_obj, 16099, 0);
    move_to(self_obj, 17880, 0);
-   
+
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
-   
+
    debug_msg("ECKAGA1: tile_set_center(16494): " + tile_set_center(16494)); //screen will recenter to the right of the player as he/she walks
    game_ui_disable;
-   
+
    wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_SPEAR));
 
-   
+
    add_timer_event(self_obj, 1, TIMER_SEQUENCE); //begin scripted sequence of the player walking
 end
 
@@ -361,7 +361,7 @@ procedure critter_p_proc begin
 //         destroy_object(self_obj);
       end
    end*/
-   
+
    if ((get_critter_stat(self_obj,STAT_current_hp)) < (get_critter_stat(self_obj,STAT_max_hit_points))) then begin
       if (not(flee)) then begin
          if ( (is_critter_prone(self_obj)) or ((critter_state(self_obj) bwand DAM_KNOCKED_OUT)) ) then begin
@@ -376,8 +376,8 @@ procedure critter_p_proc begin
          add_timer_event(self_obj, game_ticks(0), DEFEAT);
       end
    end
-   
-   
+
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things

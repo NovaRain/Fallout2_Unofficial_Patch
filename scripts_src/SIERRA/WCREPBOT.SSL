@@ -197,7 +197,7 @@ end
 procedure use_skill_on_p_proc begin
    //added by killap
    variable Skill;
-   
+
    Skill:=action_being_used;
 
    if ( (Skill == SKILL_REPAIR) or (Skill == SKILL_STEAL) ) then

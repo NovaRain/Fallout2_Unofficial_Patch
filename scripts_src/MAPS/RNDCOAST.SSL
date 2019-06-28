@@ -63,7 +63,7 @@ procedure map_enter_p_proc begin
 
 
    wm_area_set_pos(AREA_RND_COAST, metarule(44, 0), metarule(45, 0));   //added by killap
-   
+
    //added by killap
    if( elevation( dude_obj ) == 1 ) then
       Cavern_Lighting;

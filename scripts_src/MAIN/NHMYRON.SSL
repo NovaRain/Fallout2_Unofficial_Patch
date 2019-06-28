@@ -270,7 +270,7 @@ procedure Node1100;
 #define add_myron_to_party                set_gave_stuff;   \
                                           party_add_self;  \
                                           inven_unwield(self_obj)
-                                          
+
 #define combined_pid_qty(the_pid)         (obj_is_carrying_obj_pid(dude_obj, the_pid) + obj_is_carrying_obj_pid(self_obj, the_pid))
 
 #define myron_attracted_to_dude           ((dude_is_female) and (dude_charisma > 5))
@@ -454,7 +454,7 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   
+
    //added by killap
    if ( (cur_town == AREA_RENO_STABLES) ) then
       new_reno_myron_obj := self_obj;
@@ -499,28 +499,28 @@ procedure map_enter_p_proc begin
       nr_add_timer_event_rand(self_obj, 25, 45, float_param);
    end
    if (cur_town == AREA_RENO_STABLES) then new_reno_myron_obj := self_obj;
-   
 
-   
+
+
 end
 
 procedure critter_p_proc begin
    variable tmp1;
    variable tmp2;
    variable tmp;
-   
+
    //added by killap - not tested, but most likely required when Myron goes up a level
    //and changes protos.
    if (expand_carry_limit) then begin
       tmp1 := get_critter_extra_stat(self_obj, STAT_carry_amt);
       tmp2 := get_critter_base_stat(self_obj, STAT_carry_amt);
       if ( (tmp1 + tmp2) < 135) then begin
-         tmp := get_critter_extra_stat(self_obj, STAT_carry_amt) + 10; 
+         tmp := get_critter_extra_stat(self_obj, STAT_carry_amt) + 10;
          set_critter_extra_stat(self_obj, STAT_carry_amt, tmp);
       end
    end
    //end added
-   
+
    if (Myron_In_Party) then begin
       if (myron_paused == false) then begin
          party_member_follow_dude
@@ -614,7 +614,7 @@ procedure talk_p_proc begin
       set_gave_stuff;
    end
    nr_add_timer_event_rand(self_obj, 25, 45, float_param);
-   
+
 end
 
 procedure destroy_p_proc begin

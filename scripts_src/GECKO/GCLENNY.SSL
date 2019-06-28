@@ -237,7 +237,7 @@ procedure map_enter_p_proc begin
       //NEVER SET AI FOR NPC's
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_LENNY_DEFENSIVE);
    end
-   
+
    //added by killap
    add_timer_event(self_obj, random(25, 40), 900);
 end
@@ -249,7 +249,7 @@ procedure timed_event_p_proc begin
          if (Lenny_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(5000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(5001);
             else if (get_poison(self_obj)) then
                floater(5002);
@@ -746,7 +746,7 @@ procedure Node922 begin
    if (local_var(LVAR_GECKO_DESCENDANT_KNOWN) == 0) then begin
       call PayDude;
    end
-   
+
    prev_node := 922;
 end
 

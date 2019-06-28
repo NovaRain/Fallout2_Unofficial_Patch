@@ -120,7 +120,7 @@ procedure timed_event_p_proc begin
          if (Davin_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -158,7 +158,7 @@ procedure map_enter_p_proc begin
          check_show_ghost_farm_attackers
       end
    end
-   
+
    //added by killap
    add_timer_event(self_obj, random(25, 40), 900);
 end

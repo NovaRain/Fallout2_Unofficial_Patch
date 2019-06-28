@@ -609,13 +609,13 @@ end
 procedure Node013 begin
    sex_partner_obj := dude_obj;
    Reply(375);
-   
+
    //edit by killap - added check
    if (dude_is_male) then
       NOption(random(376, 378), Node031, 004);
    else
       NOption(random(379, 380), Node031, 004);
-      
+
    //NOption(random(376, 380), Node031, 004);
    if (angela_known) then begin
       NOption(381, Node031, 004);

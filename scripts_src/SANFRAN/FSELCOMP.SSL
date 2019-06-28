@@ -123,7 +123,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   
+
    if (skill_success(dude_obj, SKILL_SCIENCE, -80)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;

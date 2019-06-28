@@ -181,7 +181,7 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       set_rehab_time
    end*/
-end 
+end
 // End Seraph's Code
 
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go

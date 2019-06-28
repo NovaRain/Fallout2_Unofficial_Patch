@@ -44,7 +44,7 @@ procedure map_enter_p_proc begin
    if (map_first_run) then begin
        display_msg(mstr(100));
    end
-   
+
    Check_Create_Car(CAR_KLAMATH_TOXIC_CAVES_HEX, CAR_KLAMATH_TOXIC_CAVES_ELEV)
 
    override_map_start_hex(18532,0,1);

@@ -110,7 +110,7 @@ procedure use_obj_on_p_proc begin
       display_msg(g_mstr(20000));
    end
    //end added
-   
+
    if (obj_pid(obj_being_used_with) == PID_IGUANA_ON_A_STICK or obj_pid(obj_being_used_with) == PID_MEAT_ON_A_STICK) then begin
       script_overrides;
       if (combat_is_initialized == false) then begin
@@ -139,7 +139,7 @@ procedure timed_event_p_proc begin
             end
          end
    end
-   
+
    if (fixed_param == TIMER_ATTACK) then begin
       self_attack_dude;
    end
@@ -159,9 +159,9 @@ procedure map_enter_p_proc begin
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
    end
-   
+
    add_timer_event(self_obj, random(25, 40), 0); //added by killap
-   
+
 end
 
 procedure map_update_p_proc begin
@@ -204,7 +204,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
        party_remove_self;
        set_local_var(LVAR_Hostile,1);
@@ -221,7 +221,7 @@ procedure critter_p_proc begin
 
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
          critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
-         
+
          //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
          //critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
 

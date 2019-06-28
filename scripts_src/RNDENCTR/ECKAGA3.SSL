@@ -103,15 +103,15 @@ procedure timed_event_p_proc begin
          game_ui_disable;
          sequence += 1;
          float_msg(self_obj, mstr(113), FLOAT_MSG_RED);
-         add_timer_event(self_obj, game_ticks(5), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(5), DEFEAT);
       end else if (sequence == 5) then begin
          sequence += 1;
          float_msg(self_obj, mstr(114), FLOAT_MSG_RED);
-         add_timer_event(self_obj, game_ticks(4), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(4), DEFEAT);
       end else if (sequence == 6) then begin
          sequence += 1;
          animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 30));
-         add_timer_event(self_obj, game_ticks(3), DEFEAT); 
+         add_timer_event(self_obj, game_ticks(3), DEFEAT);
       end else if (sequence == 7) then begin
          sequence += 1;
          gfade_out(ONE_GAME_SECOND * 2);
@@ -143,24 +143,24 @@ procedure combat_p_proc begin
    end else begin
       call NodeFighting;
    end*/
-   
+
    if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 95)) then begin
       terminate_combat;
-      
+
       if ( (is_critter_prone(self_obj)) or ((critter_state(self_obj) bwand DAM_KNOCKED_OUT)) ) then begin
          reg_anim_clear( self_obj );
          reg_anim_begin();
             anim(self_obj, ANIM_stand, -1);
 	      reg_anim_end();
 	   end
-      
+
       //script_overrides;
       //game_ui_disable;
       //critter_set_flee_state(self_obj, 1);
       add_timer_event(self_obj, game_ticks(0), DEFEAT);
       flee := 1;
    end
-   
+
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -182,20 +182,20 @@ procedure map_enter_p_proc begin
    check_restock_item(PID_HUNTING_RIFLE, 1, 1, 100)
    check_restock_item(PID_223_FMJ, 2, 2, 100)
    check_restock_item(PID_SPEAR, 1, 1, 100)
-   
+
    //obj := self_item(PID_ASSAULT_RIFLE);
-   
+
    //wield_obj(obj);
 
    if (kaga_met) then set_local_var(LVAR_Herebefore, 1);
-   
+
    move_to(self_obj, 25894, 0); //need to alter
    move_to(dude_obj, 25300, 0); //these for variety
    game_ui_disable;
    wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_COMBAT_SHOTGUN));
    display_msg(mstr(200));
    add_timer_event(self_obj, 1, TIMER_SEQUENCE);
-   
+
 end
 
 
@@ -220,7 +220,7 @@ procedure critter_p_proc begin
    end else if (obj_can_see_obj(self_obj, dude_obj)) then begin
       attack(dude_obj);
    end*/
-   
+
    if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 95)) then begin
       if (not(flee)) then begin
          if ( (is_critter_prone(self_obj)) or ((critter_state(self_obj) bwand DAM_KNOCKED_OUT)) ) then begin
@@ -235,7 +235,7 @@ procedure critter_p_proc begin
          add_timer_event(self_obj, game_ticks(0), DEFEAT);
       end
    end
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -341,16 +341,16 @@ procedure NodeFighting begin
 end
 
 procedure doSequence begin
-   
+
    //face each other
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
-   
+
    //Kaga begins his speech introducing himself, and then attacks
    if (sequence == 0) then begin
       sequence += 1;
       float_msg(self_obj, mstr(104), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
    end else if (sequence == 1) then begin
       sequence += 1;
       float_msg(dude_obj, mstr(103), FLOAT_MSG_GREEN);
@@ -358,11 +358,11 @@ procedure doSequence begin
    end else if (sequence == 2) then begin
       sequence += 1;
       float_msg(self_obj, mstr(108), FLOAT_MSG_YELLOW);
-      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE); 
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (sequence == 3) then begin
       sequence += 1;
       float_msg(self_obj, mstr(112), FLOAT_MSG_RED);
-      add_timer_event(self_obj, game_ticks(3), ATTACK); 
+      add_timer_event(self_obj, game_ticks(3), ATTACK);
    end
 end
 

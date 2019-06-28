@@ -245,7 +245,7 @@ procedure map_enter_p_proc begin
       //NEVER SET AI FOR NPCs
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_SULIK_DEFENSIVE);
    end
-   
+
     //added by killap
     add_timer_event(self_obj, random(25, 40), 900);
 end
@@ -258,7 +258,7 @@ procedure timed_event_p_proc begin
          if( Sulik_Ptr != 0 ) then begin
             if (Is_Crippled(self_obj)) then
                floater(3500);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(3501);
             else if (get_poison(self_obj)) then
                floater(3502);
@@ -334,7 +334,7 @@ procedure critter_p_proc begin
       else if ((cur_town == AREA_KLAMATH) and (REP_ENEMY_KLAMATH)) then begin
          call Node072;
          debug_msg("SULIK: Causing trouble in Klamath");
-      end 
+      end
       else if (party_is_waiting == false) then begin
          party_member_follow_dude
       end
@@ -377,7 +377,7 @@ end
    stored which affects player interactions. */
 procedure talk_p_proc begin
 
-   
+
    GetReaction;
 
    find_party_background;
@@ -513,7 +513,7 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    inc_good_critter
- 
+
 /* Set global_variable for Enemy status*/
 end
 
@@ -745,7 +745,7 @@ procedure Node005 begin
    if (global_var(GVAR_SULIK_FREE) == 0) then begin
       Reply(116);
       if (global_var(GVAR_ARDIN_FREEDOM) == 0) then //added check by killap
-         NLowOption(118,Node006);               
+         NLowOption(118,Node006);
       else
          NLowOption(118,Node999);  //added by killap
       NOption(119,Node006,004);
@@ -1241,7 +1241,7 @@ procedure Node044 begin
    if (local_var(LVAR_whos_we) == 0) then
       NOption(126,Node06a,004);
    NOption(766,Node047,004);
-   
+
    NOption(767,Node048,004);
    NOption(768,Node054,004);
    if ( (dude_has_free_slot_for_sulik) and (global_var(GVAR_SULIK_FREE) == 1) ) then //check if sulik free as well
@@ -1333,7 +1333,7 @@ procedure Node052 begin
    //if (???) then
    //   Reply(790);
    //else
-   
+
    if (dude_charisma <= 1) then begin
      NMessage(722);
    end
@@ -1371,7 +1371,7 @@ procedure Node054 begin
    if ( (dude_has_free_slot_for_sulik) and (global_var(GVAR_SULIK_FREE) == 1) ) then
       NOption(802,Node052,004);
    NOption(803,Node999,004);
-   
+
    //added by killap
    NLowOption(926,Node003);
    NLowOption(927,Node999);

@@ -138,7 +138,7 @@ procedure talk_p_proc begin
    else begin
       call Node001;
    end
-   
+
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

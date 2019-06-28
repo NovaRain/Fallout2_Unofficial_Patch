@@ -180,7 +180,7 @@ procedure critter_p_proc begin
       end
    end
    //end added
-   
+
 end
 
 procedure damage_p_proc begin
