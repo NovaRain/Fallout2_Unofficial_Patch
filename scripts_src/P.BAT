@@ -2,7 +2,7 @@
 @if not exist %1.ssl goto DONE
 
 @rem Preprocessing handled by Open Watcom C compiler
-@..\wcc386.exe %1.ssl -p -fo=temp.i -w4 -fr=wcc -eq -ef
+@..\wcc386.exe %1.ssl -p -fo=temp.i -w4
 
 @..\compile.exe -l -O1 temp.i
 @if %errorlevel% neq 0 goto ERROR
