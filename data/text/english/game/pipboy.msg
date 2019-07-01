@@ -1,9 +1,9 @@
 #
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
-# Text labels and messages used in PIPBOY.C
+# Text labels and messages used in pipboy.c
 #
-# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+# (These MUST match "text message" enumeration on the top of pipboy.c)
 #
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
