@@ -335,21 +335,21 @@ procedure Node988 begin
       end
       if (sex_type == sex_blow_job) then begin
          game_time_advance(have_sex_time / 2);
-         use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
       end else if (sex_type == sex_talk) then begin
          game_time_advance(ONE_GAME_HOUR * 3);
          set_speech_bonus_given;
          display_mstr(710);
-         use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_INTELLIGENCE,0,0), sex_partner_obj);
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_INTELLIGENCE);
       end else if (sex_type == sex_strange_sex) then begin
          game_time_advance(have_sex_time * 2);
-         use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
       end else begin
          game_time_advance(have_sex_time_obj(sex_partner_obj));
          if (sex_partner_obj != dude_obj) then begin
-            use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
          end else begin
-            use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_AGILITY,0,0), sex_partner_obj);
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_AGILITY);
          end
       end
       if (sex_partner_obj == dude_obj) then begin
