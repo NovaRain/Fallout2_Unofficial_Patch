@@ -9,6 +9,7 @@
  Here is all of the reputation defines for the game
 *********************************************************/
 
+variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon perk*/
 
 /*-----------------9/16/97 7:41:M-------------------
  General format for this file is:
@@ -119,21 +120,24 @@
                                 set_global_var(GVAR_KARMA_DEMON_SPAWN,0)
 
 #define CheckKarma              ClearReps;                                                                      \
-                                if (check_general_rep >= KARMA_HOLY_WARRIOR) then                               \
+                                tmp_gen_rep := check_general_rep;                                               \
+                                if (has_trait(TRAIT_PERK,dude_obj,PERK_karma_beacon_perk)) then                 \
+                                    tmp_gen_rep := check_general_rep * 2;                                       \
+                                if (tmp_gen_rep >= KARMA_HOLY_WARRIOR) then                                     \
                                     set_global_var(GVAR_KARMA_HOLY_WARRIOR,1);                                  \
-                                else if (check_general_rep >= KARMA_GUARDIAN_OF_THE_WASTES) then                \
+                                else if (tmp_gen_rep >= KARMA_GUARDIAN_OF_THE_WASTES) then                      \
                                     set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES,1);                        \
-                                else if (check_general_rep >= KARMA_SHIELD_OF_HOPE) then                        \
+                                else if (tmp_gen_rep >= KARMA_SHIELD_OF_HOPE) then                              \
                                     set_global_var(GVAR_KARMA_SHIELD_OF_HOPE,1);                                \
-                                else if (check_general_rep >= KARMA_DEFENDER) then                              \
+                                else if (tmp_gen_rep >= KARMA_DEFENDER) then                                    \
                                     set_global_var(GVAR_KARMA_DEFENDER,1);                                      \
-                                else if (check_general_rep > KARMA_BETRAYER) then                               \
+                                else if (tmp_gen_rep > KARMA_BETRAYER) then                                     \
                                     set_global_var(GVAR_KARMA_WANDERER,1);                                      \
-                                else if (check_general_rep > KARMA_SWORD_OF_DESPAIR) then                       \
+                                else if (tmp_gen_rep > KARMA_SWORD_OF_DESPAIR) then                             \
                                     set_global_var(GVAR_KARMA_BETRAYER,1);                                      \
-                                else if (check_general_rep > KARMA_SCOURGE_OF_THE_WASTES) then                  \
+                                else if (tmp_gen_rep > KARMA_SCOURGE_OF_THE_WASTES) then                        \
                                     set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR,1);                              \
-                                else if (check_general_rep > KARMA_DEMON_SPAWN) then                            \
+                                else if (tmp_gen_rep > KARMA_DEMON_SPAWN) then                                  \
                                     set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES,1);                         \
                                 else                                                                            \
                                     set_global_var(GVAR_KARMA_DEMON_SPAWN,1)

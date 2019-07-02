@@ -32,6 +32,7 @@ call ..\p MCVEGEIR
 call ..\p MIBALBOX
 call ..\p MIBRAMEA
 call ..\p MICOINBG
+call ..\p midavdor
 call ..\p MIDCLRKS
 call ..\p MIDOOR
 call ..\p MIGATE
@@ -43,6 +44,7 @@ call ..\p MIJOBOX
 call ..\p MIJOSHLF
 call ..\p MILADDER
 call ..\p MILSTFND
+call ..\p mimirdor
 call ..\p MISHTRKS
 call ..\p MITOILET
 call ..\p MITRPDOR

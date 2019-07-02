@@ -203,7 +203,7 @@ procedure talk_p_proc begin
    end
 
    else if (dude_iq < 4) then begin
-      inc_local_var(LVAR_Talked_Before);
+       inc_local_var(LVAR_Talked_Before);
        call final_fight_lock_doors;
        call Node001;
        set_local_var(LVAR_Hostile,2);
