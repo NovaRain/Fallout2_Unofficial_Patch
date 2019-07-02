@@ -353,7 +353,7 @@ procedure Node988 begin
          end
       end
       if (sex_partner_obj == dude_obj) then begin
-         if (sex_type != sex_talk) then //added by killap
+         if (sex_type != sex_talk) then
             up_sex_status;
       end
       if (sex_partner_obj != Marcus_Ptr) then begin
@@ -408,9 +408,9 @@ procedure Node978 begin
 end
 procedure Node977 begin
    gfade_out(ONE_GAME_SECOND);
-      up_sex_status;
-      game_time_advance(ONE_GAME_HOUR * 12);
-      nr_add_timer_event(self_obj, 1, kitty_sex_param);
+   up_sex_status;
+   game_time_advance(ONE_GAME_HOUR * 12);
+   nr_add_timer_event(self_obj, 1, kitty_sex_param);
    gfade_in(ONE_GAME_SECOND);
 end
 procedure Node976 begin
