@@ -1,27 +1,3 @@
-
-#FALLOUT 2 UNOFFICIAL PATCH
-
-@brought to you by
-killap
-
-@additional help
-Haenlomal
-Darek
-Seraph
-Per
-Everyone who posted bug reports
-
-
-#FALLOUT 2 HIGH RESOLUTION PATCH
-
-@brought to you by
-Mash
-
-
-
-
-#FALLOUT 2 DEVELOPMENT TEAM
-
 #PROGRAMMING
 
 @Lead Programmer
@@ -403,3 +379,84 @@ Paul Naftalis
 
 
 
+
+
+
+
+
+
+
+@Okay, fine, if you really must...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Did you find the extra-special encounters?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Keep looking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Maybe you'll find the Maltese Falcon?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Hah!  Enjoy...
