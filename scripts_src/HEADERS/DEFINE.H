@@ -986,4 +986,7 @@ end
 //Misc commands
 #define obj_get_rot(obj)  (has_trait(TRAIT_OBJECT, obj, OBJECT_CUR_ROT))
 
+//late includes go here
+#include "..\headers\party2.h"
+
 #endif // DEFINE_H
