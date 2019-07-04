@@ -144,7 +144,7 @@
 {502}{}{Does anyone use that house?}
 {503}{}{I agree. Bye.}
 
-# 22. Started 2 years back… (21)
+# 22. Started 2 years back... (21)
 {520}{}{Started about 2 years back. I heard about the moaning and the spirits and all.
  Don't believe it myself.}
 {521}{}{Two years, huh? Anybody use the place back then?}

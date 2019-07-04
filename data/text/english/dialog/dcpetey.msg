@@ -44,14 +44,14 @@
 {162}{}{Maybe next time. Thank you anyway. [cough]}
 {163}{}{[done]}
 {164}{}{Thank you so much. [cough] So, so, so very much.}
-{165}{}{You’re welcome.}
+{165}{}{You're welcome.}
 {166}{}{Yeah, yeah.}
 {167}{}{Sir, [cough] can you help a poor man down on his luck?}
-{168}{}{Here’s $5.}
+{168}{}{Here's $5.}
 {169}{}{Not today.}
 {170}{}{Get a job.}
 {171}{}{Kind lady, please help [cough] a poor, starving man who is [cough] too sick to work.}
-{172}{}{You poor thing, here’s $5.}
+{172}{}{You poor thing, here's $5.}
 {173}{}{I make a point of not giving money to panhandlers.}
 {174}{}{No.}
 

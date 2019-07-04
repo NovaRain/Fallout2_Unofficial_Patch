@@ -175,7 +175,7 @@
 {401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
-{404}{}{Uh, I, uh, we, that is...Uh, no. I'm still looking for him. I'm sure he'll show up any day now. Uh, Goodbye.}
+{404}{}{Uh, I, uh, we, that is... Uh, no. I'm still looking for him. I'm sure he'll show up any day now. Uh, Goodbye.}
 
 {410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smilely, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Yeah, you're probably right. Sorry for the scare. Let me ask you about something.}

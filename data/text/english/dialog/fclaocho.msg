@@ -77,5 +77,5 @@
 {176}{}{I'm looking for some information.}
 {177}{}{Bye.}
 {178}{}{You have already given them to the Hubologists. No?}
-{179}{}{Oh yeah...ah...Can I ask something else?}
-{180}{}{Oh yeah...Bye.}
+{179}{}{Oh yeah... ah... Can I ask something else?}
+{180}{}{Oh yeah... Bye.}

@@ -3,7 +3,7 @@
 {102}{}{You see a person carrying a powerful weapon and covered in the dust of the trail.}
 {103}{}{I tell ya, one more group of highwaymen and I'm wearing dynamite on the next trip.}
 {104}{}{Sure could use some more help on the caravans.}
-{105}{}{Man...Unity Patrol work gets really, really old.}
+{105}{}{Man... Unity Patrol work gets really, really old.}
 {106}{}{So then I saw this tribal comin' and... never mind.}
 {107}{}{One more "Rainbow Patrol" crack and I'm gonna kill someone.}
 {108}{}{I swear, if the bandits get any worse, we'll all die in the next year.}

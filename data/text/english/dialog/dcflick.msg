@@ -28,7 +28,7 @@
 # 4. What do you do here (2)
 {260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
 {261}{}{Say what?}
-{262}{}{Yeah, uh, well…let me ask you something else.}
+{262}{}{Yeah, uh, well... let me ask you something else.}
 {263}{}{Uh, oh. OK. Goodbye, Flick.}
 
 # 5. You do what? (4)

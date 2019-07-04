@@ -18,7 +18,7 @@
 {140}{}{I smell one of my Talismans on you, but I don't remember giving you one.}
 {141}{}{I found it.}
 {142}{}{Uh, you must have forgotten.}
-{143}{}{It's just my aftershave. Old Mice —- do you like it?}
+{143}{}{It's just my aftershave. Old Mice -- do you like it?}
 {144}{}{I killed one of your drones and took it from his still warm corpse.}
 
 {150}{}{Are you ready to become one of us?}
@@ -126,7 +126,7 @@
 
 {330}{}{Now you're one of us. Soon, I will take over the world and all of you will be Renewed.}
 {331}{}{Uh, yeah. Whatever you say.}
-{332}{}{That's it. That's enough. This stops right here. Someone's gotta stomp you out of existence -—
+{332}{}{That's it. That's enough. This stops right here. Someone's gotta stomp you out of existence --
  and that someone's me.}
 
 {340}{}{Well, then, I suppose we have nothing more to say to one another. But you know that I cannot
@@ -281,4 +281,4 @@
 {700}{}{I have nothing more to say to you.}
 {701}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.} 
 {702}{}{I'm on it.}
-{703}{}{Umm...yeah, maybe later.}
+{703}{}{Umm... yeah, maybe later.}

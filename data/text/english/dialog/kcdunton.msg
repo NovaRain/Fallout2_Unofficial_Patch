@@ -106,7 +106,7 @@
 {233}{}{Don't want to see you angry? I don't want to see your ugly mugs at all. Goodbye.}
 
 {240}{}{Well, it's a pleasure doing business with you. Heh, heh, heh. Need anything else?}
-{241}{}{Hmm...I think I forgot to barter for something.}
+{241}{}{Hmm... I think I forgot to barter for something.}
 {242}{}{Yes, I do.}
 {243}{}{No, I think that's it for now, Chuck.}
 {244}{}{No, I think that's it for now, Buck.}
