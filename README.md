@@ -9,12 +9,12 @@ If you've found an issue:
 2. Check [not bugs](NOT_BUGS.md).
 3. Check [issues](/issues) (both open and closed). Maybe it's already been reported.
 4. Next, depending on issue type:
-  1) Typo.
+  * Typo.
     Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
-  2) Quest bug.
+  * Quest bug.
     Explain the problem. Attach **two** savegames: one where the problem can be seen right away, another one _right before_ starting the quest.
     Indicate if any other mods are installed, and their versions.
-  3) Crash.
+  * Crash.
     - Make sure it's reproducible, otherwise don't bother. (Not necessarily 100% reproducible, but at least 2-3 times out of 10).
     - [Enable debug.log](DEBUG.md).
     - Reproduce the crash.
@@ -23,10 +23,10 @@ If you've found an issue:
     - If you have other mods installed, list them and their versions.
     - If you updated sfall (`ddraw.dll`), indicate current version.
     - If you changed any settings in `ddraw.ini` (other than enabling debug), also attach that file.
-  4) Something else.
+  * Something else.
     Use your best judgement. Provide as much into as possible.
-  
-  Additional notes:
-    - One issue per problem.
-    - Attach the files directly on Github, don't use external file sharing sites.
-    - Some bugs may be better illustrated with a gif or a video, you can do that.
+
+**Additional notes:**
+  - One issue per problem.
+  - Attach the files directly on Github, don't use external file sharing sites.
+  - Some bugs may be better illustrated with a gif or a video, you can do that.
