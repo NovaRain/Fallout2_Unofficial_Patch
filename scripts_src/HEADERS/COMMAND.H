@@ -979,15 +979,16 @@ variable removed_qty;
 #define dude_sex_rating          obj_sex_rating(dude_obj)
 #define self_sex_rating          obj_sex_rating(self_obj)
 #define up_sex_status_amt(x)     inc_global_var_amt(GVAR_PLAYER_SEX_LEVEL, dude_sex_rating * x);   \
-                                 if (global_var(GVAR_SEX_COUNTER) >= 9) then begin                 \
+                                 inc_global_var_amt(GVAR_SEX_COUNTER, x);                          \
+                                 if (global_var(GVAR_SEX_COUNTER) >= 10) then begin                \
                                     set_global_var(GVAR_GIGALO, 1);                                \
                                  end                                                               \
                                  if (dude_sex_rating >= sex_rating_great) then begin               \
                                     set_global_var(GVAR_SEXPERT, 1);                               \
                                  end                                                               \
                                  if (global_var(GVAR_DUDE_VIRGIN) == 1) then                       \
-                                    set_global_var(GVAR_DUDE_VIRGIN,0);                            \
-                                    inc_global_var_amt(GVAR_SEX_COUNTER, x)
+                                    set_global_var(GVAR_DUDE_VIRGIN,0)
+
 #define up_sex_status            up_sex_status_amt(1)
 #define do_default_sex           advance_sex_time;    \
                                  up_sex_status
@@ -1239,5 +1240,21 @@ variable removed_qty;
 #define set_raiders_scout_left                        set_gvar_bit_on(GVAR_RAIDERS_FLAGS, raiders_scout_left_bit)
 //end added by killap
 // raiders macros end
+
+procedure create_and_use_itempid_on(variable target, variable itempid) begin
+   variable item;
+   item := create_object(itempid, tile_num(target), elevation(target));
+   set_self(target);
+   set_self(target);
+   use_obj_on_obj(item, target);
+   set_self(0);
+end
+
+procedure is_human(variable who) begin
+   variable type;
+   type := critter_kill_type(who);
+   if type == KILL_TYPE_men_kills or type == KILL_TYPE_women_kills or type == KILL_TYPE_children_kills then return true;
+   return false;
+end
 
 #endif // COMMAND_H

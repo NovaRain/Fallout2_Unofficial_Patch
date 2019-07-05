@@ -94,7 +94,7 @@
 {193}{}{Yeah, he was that drunk Outworlder who struck one of my guards in that brawl in the Spittoon. He's over at the Servant Allocation Center getting... broken in. It's just down the street.}
 {194}{}{I had another question...}
 {195}{}{Hmmm. I'll head over there now.}
-{196}{}{The Vault's right outside the door...sir.}
+{196}{}{The Vault's right outside the door... sir.}
 {197}{}{The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.}
 {198}{}{The Vault's right outside the door. Only Citizens are allowed in there, so I don't want to catch you bothering the guards.}
 {199}{}{Can I ask you something else?}
@@ -195,7 +195,7 @@
 {294}{}{Hmmm. I'll keep that in mind. Goodbye.}
 {295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
 {296}{}{I had some other questions...}
-{297}{}{If that's what it takes...thanks for the information.}
+{297}{}{If that's what it takes... thanks for the information.}
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
 {300}{}{I do a lot of traveling. Anything I can help with?}
@@ -207,7 +207,7 @@
 {306}{}{Forget it. I had some other questions...}
 {307}{}{Never mind then. Goodbye.}
 {308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
-{309}{}{I already got a Pip-Boy. It's old...and cranky...and seems to have wires and buttons yanked out everywhere...but it works.}
+{309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
 {310}{}{Well, all right. I had some other questions...}
 {311}{}{Never mind then. Goodbye.}
 {312}{}{Yeah? Has it got a Northern California world map installed?}
@@ -229,7 +229,7 @@
 {328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {329}{}{All right...}
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
-{331}{}{All right then...you got any more work for me?}
+{331}{}{All right then... you got any more work for me?}
 {332}{}{Great. I had some other questions...}
 {333}{}{Thanks. Pleasure doing business with you.}
 {334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
@@ -272,7 +272,7 @@
 {370}{}{I plotted that route to NCR for you.}
 {371}{}{About those Raiders...}
 {372}{}{Never mind. Goodbye.}
-{373}{}{Good day...ma'am.}
+{373}{}{Good day... ma'am.}
 {374}{}{Vault City prevails... ma'am.}
 {375}{}{Captain. Can I help you... ma'am?}
 {376}{}{Sergeant Stark... ma'am. Did you need something?}

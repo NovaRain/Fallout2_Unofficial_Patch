@@ -841,7 +841,8 @@
 
 #define fadeout(X) gfade_out(X)
 #define fadein(X)  gfade_in(X)
-
+#define fdout gfade_out(1) //time param is not used anyway
+#define fdin  gfade_in(1)
 
 /* Time Information  (in Ticks) */
 
@@ -984,5 +985,8 @@ end
 
 //Misc commands
 #define obj_get_rot(obj)  (has_trait(TRAIT_OBJECT, obj, OBJECT_CUR_ROT))
+
+//late includes go here
+#include "..\headers\party2.h"
 
 #endif // DEFINE_H

@@ -116,7 +116,7 @@
 {603}{}{Archives}
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the Rob Co Pip-Boy 2000.}
+{606}{}{Welcome to the RobCo Pip-Boy 2000.}
 {607}{}{So long.}
 {608}{}{Wake up.}
 
@@ -423,8 +423,8 @@
 {10026}{}{Mission Statement 2077}
 {10027}{}{Due to trained personnel shortage, Sierra Army Depot is }
 {10028}{}{to be modified into an automated defense base. All }
-{10029}{}{personnel are to be relocated to neighboring installations or }
-{10030}{}{sent to the front line. }
+{10029}{}{personnel are to be relocated to neighboring}
+{10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
 
 # Sierra Base GNN Transscript
@@ -572,7 +572,7 @@
 {12017}{}{Hubbell. He saw the failure of the medicine of that time,}
 {12018}{}{and of the failure of religion, and of the failure of }
 {12019}{}{government. He knew that the world needed something }
-{12020}{}{new...the world needed Hubology. Inspired by music of the }
+{12020}{}{new... the world needed Hubology. Inspired by music of the }
 {12021}{}{time and his own personal experience with extraterrestrial}
 {12022}{}{beings, he set out to show us wheels in the sky, to keep }
 {12023}{}{them burning, and to understand the Great Wheel of Life.}
@@ -658,7 +658,7 @@
 {12103}{}{**END-PAR**}
 {12104}{}{We think of ourselves as a religion combined with the best}
 {12105}{}{scientific technique - scientific spirituality is what we}
-{12106}{}{call it...and what we hope you'll be calling it before too}
+{12106}{}{call it... and what we hope you'll be calling it before too}
 {12107}{}{long!}
 {12108}{}{**END-PAR**}
 {12109}{}{This is our creation story:}
@@ -1119,8 +1119,8 @@
 {20010}{}{mainland has been instrumental in advancing our research.}
 {20011}{}{**END-PAR**}
 {20012}{}{We've discovered that the F.E.V. virus was not originally}
-{20013}{}{designed to be used as an agent for the creation of super-}
-{20014}{}{soldiers. Initially, it appears, the F.E.V. was }
+{20013}{}{designed to be used as an agent for the creation of}
+{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
 {20015}{}{designed as a virulent toxin. Only later was the F.E.V.}
 {20016}{}{virus manipulated in an attempt to create super-soldiers.}
 {20017}{}{**END-PAR**}

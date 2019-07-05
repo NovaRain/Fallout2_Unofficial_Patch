@@ -335,25 +335,25 @@ procedure Node988 begin
       end
       if (sex_type == sex_blow_job) then begin
          game_time_advance(have_sex_time / 2);
-         use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
       end else if (sex_type == sex_talk) then begin
          game_time_advance(ONE_GAME_HOUR * 3);
          set_speech_bonus_given;
          display_mstr(710);
-         use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_INTELLIGENCE,0,0), sex_partner_obj);
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_INTELLIGENCE);
       end else if (sex_type == sex_strange_sex) then begin
          game_time_advance(have_sex_time * 2);
-         use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
       end else begin
          game_time_advance(have_sex_time_obj(sex_partner_obj));
          if (sex_partner_obj != dude_obj) then begin
-            use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
          end else begin
-            use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_AGILITY,0,0), sex_partner_obj);
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_AGILITY);
          end
       end
       if (sex_partner_obj == dude_obj) then begin
-         if (sex_type != sex_talk) then //added by killap
+         if (sex_type != sex_talk) then
             up_sex_status;
       end
       if (sex_partner_obj != Marcus_Ptr) then begin
@@ -408,9 +408,9 @@ procedure Node978 begin
 end
 procedure Node977 begin
    gfade_out(ONE_GAME_SECOND);
-      up_sex_status;
-      game_time_advance(ONE_GAME_HOUR * 12);
-      nr_add_timer_event(self_obj, 1, kitty_sex_param);
+   up_sex_status;
+   game_time_advance(ONE_GAME_HOUR * 12);
+   nr_add_timer_event(self_obj, 1, kitty_sex_param);
    gfade_in(ONE_GAME_SECOND);
 end
 procedure Node976 begin

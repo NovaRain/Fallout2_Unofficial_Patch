@@ -1196,7 +1196,7 @@ procedure Node006 begin
    else if (global_var(GVAR_RUSTLE_OVER) == 1) then
       call Node06b;
    else begin
-      if (TOWN_REPUTATION > 5) then  //killap's fix: changed from 4
+      if (TOWN_REPUTATION > 4) then
          call Node06c;
       else
          call Node06d;
