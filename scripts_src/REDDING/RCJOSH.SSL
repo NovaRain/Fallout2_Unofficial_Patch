@@ -296,7 +296,7 @@ procedure Node005a begin
    variable item;
    item_caps_adjust(self_obj, 5);
    item_caps_adjust(dude_obj, -5);
-   create_and_use_itempid_on(who, PID_BEER);
+   call create_and_use_itempid_on(who, PID_BEER);
    call Node013;
 end
 
