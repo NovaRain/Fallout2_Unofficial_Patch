@@ -99,6 +99,7 @@ call ..\p SFCHINA2
 call ..\p SFDOCK
 call ..\p SFELRONB
 call ..\p SFTANKER
+call ..\p SFSHUTL1
 call ..\p V13ENT
 call ..\p V15ENT
 call ..\p V15SENT
