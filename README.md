@@ -9,19 +9,10 @@ If you've found an issue:
 2. Check [known issues](docs/KNOWN.md).
 3. Before opening a new github issue, check existing ones (both open and closed). Maybe it's already been reported.
 4. Next, depending on problem type:
-   * Typo.
-
-     Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
-   * Quest bug.
-
-     - Explain the problem. Attach **two** savegames: one where the problem can be seen right away, another one _right before_ starting the quest.
-     - Indicate if any other mods are installed, and their versions.
-   * Crash.
-
-     See [reporting crashes](docs/CRASH.md).
-   * Something else.
-
-     Use your best judgement. Provide as much into as possible.
+  * **Typo**. Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
+  * **Quest bug**. Explain the problem. Attach **two** savegames: one where the problem can be seen right away, another one _right before_ starting the quest. Indicate if any other mods are installed, and their versions.
+  * **Crash**. See [reporting crashes](docs/CRASH.md).
+  * **Something else**. Use your best judgement. Provide as much into as possible.
 
 **Additional notes:**
 - The best way to get the issue fixed is to submit a pull request.
