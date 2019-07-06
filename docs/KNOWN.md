@@ -9,11 +9,6 @@ The chance is slim, but it improves if you're willing to implement it **yourself
   - If you get inside the armory through any of the manholes and take a hold on the Enclave armor, put it on and then reappear inside the base everything's OK, till you try to get past the gates from inside, in which case the guards turn hostile.
     - You still don't know the password. And there's probably no good way to fix this, anyway.
 
-- New Reno:
-  - Go with Lloyd to Golgotha, let him dig and send him down the manhole. Go after him, kill him, save the game, load the game and Lloyd's body disappears.
-    - The engine automatically removes anyone that is in party.txt, so this is no bug in it self.
-    - (Why is Lloyd in party.txt in the first place, though?)
-
 - San Francisco: injuries are not healed between fights. Not really a bug, so not in the scope.
 
 - Sierra Military Base:
