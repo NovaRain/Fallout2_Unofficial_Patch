@@ -1257,4 +1257,7 @@ procedure is_human(variable who) begin
    return false;
 end
 
+#define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
+#define ndebug(message)    debug_msg(NAME + ": " + message + "\n")
+
 #endif // COMMAND_H
