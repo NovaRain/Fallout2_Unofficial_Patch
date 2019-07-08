@@ -2,8 +2,6 @@
 
 set -xeu -o pipefail
 
-cache_dir="$HOME/.cache/build"
-
 mpack_version="4.1.8"
 mpack_file="modderspack_$mpack_version.7z"
 mpack_url="https://datapacket.dl.sourceforge.net/project/sfall/Modders%20pack/$mpack_file"
@@ -13,20 +11,16 @@ sfse_url="http://www.nma-fallout.com/resources/sfall-script-editor.77/download?v
 sfse_file="sfse.rar"
 sfse_dir="Fallout sFall Script Editor/Resources"
 
+# directories
+cache_dir="$HOME/.cache/build"
 bin_dir="extra/bin"
-
-mkdir -p "$cache_dir"
+mkdir -p "$cache_dir" "$bin_dir"
 
 # packages
 curl -s https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add
 sudo apt-add-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'
 sudo apt-get -q update
-sudo apt-get -q -y install winehq-stable p7zip-full
-
-pwd
-ls
-ls -l extra/ || true
-ls -l extra/bin/ || true
+sudo apt-get -q -y --no-install-recommends install winehq-stable p7zip-full
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/compile.exe" ]]; then
