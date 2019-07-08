@@ -17,6 +17,7 @@ bin_dir="extra/bin"
 
 mkdir -p "$cache_dir"
 
+apt search wine | grep wine
 sudo apt -y install wine p7zip
 
 # compile.exe, check cache
