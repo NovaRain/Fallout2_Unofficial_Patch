@@ -293,7 +293,6 @@ procedure Node005 begin
 end
 
 procedure Node005a begin
-   variable item;
    item_caps_adjust(self_obj, 5);
    item_caps_adjust(dude_obj, -5);
    call create_and_use_itempid_on(dude_obj, PID_BEER);
@@ -331,7 +330,7 @@ procedure Node007 begin
 end
 
 procedure Node007a begin
-   variable item, price, who;
+   variable price, who;
    price := 5 * (party_size_humans + 1);
    item_caps_adjust(self_obj, price);
    item_caps_adjust(dude_obj, -price);
