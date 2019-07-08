@@ -23,6 +23,11 @@ sudo apt-add-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial
 sudo apt-get -q update
 sudo apt-get -q -y install winehq-stable p7zip-full
 
+pwd
+ls
+ls -l extra/ || true
+ls -l extra/bin/ || true
+
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/compile.exe" ]]; then
   wget "$mpack_url"
