@@ -1,2 +1,4 @@
 *.int
 *.tmp
+*.err
+*.log
