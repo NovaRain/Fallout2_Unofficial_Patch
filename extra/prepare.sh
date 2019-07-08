@@ -17,8 +17,9 @@ bin_dir="extra/bin"
 
 mkdir -p "$cache_dir"
 
-apt search wine | grep wine
-sudo apt -y install wine p7zip
+sudo apt-add-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'
+sudo apt-get update -q
+sudo apt -y install winehq-stable p7zip
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/compile.exe" ]]; then
