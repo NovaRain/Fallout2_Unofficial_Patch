@@ -17,7 +17,7 @@ bin_dir="extra/bin"
 
 mkdir -p "$cache_dir"
 
-sudo apt -y install wine-stable p7zip
+sudo apt -y install wine p7zip
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/compile.exe" ]]; then
