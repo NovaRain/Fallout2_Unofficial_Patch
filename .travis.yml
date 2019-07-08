@@ -4,6 +4,7 @@ sudo: false
 cache:
   directories:
     - $HOME/.cache/build
+    - $HOME/.wine
 
 before_install:
   - ./extra/prepare.sh
