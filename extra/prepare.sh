@@ -20,8 +20,8 @@ mkdir -p "$cache_dir"
 # packages
 curl -s https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add
 sudo apt-add-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'
-sudo apt update -q
-sudo apt -y install winehq-stable p7zip
+sudo apt-get -q update
+sudo apt-get -q -y install winehq-stable p7zip-full
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/compile.exe" ]]; then
