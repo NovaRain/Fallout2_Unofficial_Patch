@@ -1,6 +1,8 @@
-## Fallout 2 Unofficial Patcn
+## Fallout 2 Unofficial Patch, Updated
 
-This is an update for killap's Fallout 2 Unofficial Patch 1.02.31. It is not an independent mod, it installs on top of UP.
+[![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch)
+
+This is an update for [killap's Unofficial Patch](http://killap.net/) for Fallout 2. This is _not_ an independent mod, it should be installed on top of UP 1.02.31.
 
 ### Reporting bugs
 If you've found an issue:
