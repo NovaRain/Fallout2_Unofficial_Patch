@@ -26,7 +26,7 @@ sudo apt-get -q -y --no-install-recommends install winehq-stable p7zip p7zip-ful
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/$compile_exe" ]]; then
   wget "$mpack_url"
-  7z e "$mpack_file" "$compile_exe"
+  7z e "$mpack_file" "$mpack_compile"
   mv -f "$compile_exe" "$cache_dir/"
 fi
 # copy
@@ -36,7 +36,7 @@ cp -f "$cache_dir/$compile_exe" "$bin_dir/"
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" ]]; then
   wget "$sfse_url" -O "$sfse_file"
   for f in wcc386.exe wccd386.dll; do
-    unrar e "$sfse_file" "$f"
+    unrar e "$sfse_file" "$sfse_dir/$f"
     mv -f "$f" "$cache_dir/"
   done
 fi
