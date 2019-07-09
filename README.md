@@ -12,8 +12,8 @@ This is an update for [killap's Unofficial Patch](http://killap.net/) for Fallou
 ### Installation
 1. Start with a clean humongous installation of the game.
 1. Download and install [UP 1.02.31](http://killap.net/) normally.
-1. Download the latest UPU [release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) (upu_vX.zip).
-1. Unzip the archive into the main game directory, overwriting files when asked. That's it.
+1. Download the latest UPU [release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) (upu_vX.7z).
+1. Extract the archive into the main game directory, overwriting files when asked. That's it.
 
 **Notes:**
 1. UPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
