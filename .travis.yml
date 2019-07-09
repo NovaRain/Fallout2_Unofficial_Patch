@@ -1,16 +1,34 @@
+language: minimal
 dist: xenial
 sudo: false
 
 cache:
   directories:
     - $HOME/.cache/build
-#    - $HOME/.wine
 
 before_install:
   - ./extra/prepare.sh
 
-script: ./extra/buildall.sh
+script:
+  - ./extra/buildall.sh
+  - ./extra/publish.sh
 
 env:
   global:
-    WINEARCH: win32 # better?
+    WINEARCH: win32         # use a little bit less memory
+    WINEDEBUG: "-all"       # just a little bit faster
+    sfall_version: 4.1.8.1
+    mpack_version: 4.1.8
+    mods_dir: mods
+    mod_name: upu
+
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file_glob: true
+  file: upu*.zip
+  skip_cleanup: true
+  on:
+    tags: true
+    branch: master
+  draft: true
