@@ -1,4 +1,4 @@
-## Fallout 2 Unofficial Patch, Updated
+## Fallout 2 Unofficial Patch, updated
 
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch)
 
