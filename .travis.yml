@@ -1,5 +1,5 @@
 language: minimal
-dist: xenial
+dist: bionic
 sudo: false
 
 cache:
@@ -15,12 +15,10 @@ script:
 
 env:
   global:
-    WINEARCH: win32         # use a little bit less memory
-    WINEDEBUG: "-all"       # just a little bit faster
-    sfall_version: 4.1.8.1
-    mpack_version: 4.1.8
-    mods_dir: mods
-    mod_name: upu
+    - sfall_version=4.1.8.1
+    - mpack_version=4.1.8
+    - mods_dir=mods
+    - mod_name=upu
 
 deploy:
   provider: releases

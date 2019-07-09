@@ -9,7 +9,8 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   # data
   dst="$mods_dir/$mod_name.dat"
   mkdir -p "$dst"
-  mv data/* "$dst/"
+  chmod 0444 data/proto/*/*
+  mv -f data/* "$dst/"
 
   # sfall
   sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"

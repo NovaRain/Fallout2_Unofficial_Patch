@@ -14,9 +14,9 @@ mkdir -p "$dst"
 function process_file() {
   f="$1"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
-  wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
+  WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
   sed -i '/^[[:space:]]*$/d' "$f.tmp" # delete empty lines
-  wine "$bin_dir/compile.exe" -n -l -q "$f.tmp" -o "$dst/$script_name" # compile
+  WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/compile.exe" -n -l -q "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
 }
 # compile all
