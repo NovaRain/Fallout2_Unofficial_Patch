@@ -44,7 +44,7 @@
     - Miss Kitty will correctly apply bonuses on PC and companions.
     - "Oral" in Cat's Paw does count as sex.
     - Fixed boxers being unable to use hook punches.
-    - LLoyd's body won't disappear after reloading.
+    - Lloyd's body won't disappear after reloading.
     - Fixed Salvatore's guards walking out prematurely when watching the transaction the second time.
 - NCR
     - Fixed a dumb character being prematurely thrown out of dialog when talking to Doc Jubilee about Vault 13 and then asking about "Mother Lode?".
