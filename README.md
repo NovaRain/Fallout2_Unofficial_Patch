@@ -2,9 +2,14 @@
 
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch)
 
+[__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
+ | [__Installation__](#installation)
+ | [__Reporting issues__](#reporting-issues)
+ | [__Changelog__](docs/CHANGELOG.md)
+
 This is an update for [killap's Unofficial Patch](http://killap.net/) for Fallout 2. This is _not_ an independent mod, it should be installed on top of UP 1.02.31.
 
-### Reporting bugs
+### Reporting issues
 If you've found an issue:
 
 1. Keep in mind that UP's scope is only to fix bugs. Not to add "nice to to have" things.
