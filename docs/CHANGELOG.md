@@ -1,6 +1,6 @@
 ## Version 1
 
-- Generic
+- General
     - Fixed Laddie being counted as a "strange" party member instead of K-9.
     - Added scr_return() for all scripts attached items in OBJ_DUDE, to prevent an issue that when you used a remove-after-use item, using other items without closing the inventory will make them being removed as well, even if they shouldn't be.
     - Fixed Sierra Mission Holodisk and Broadcast Holodisk setting each other's GVAR.
