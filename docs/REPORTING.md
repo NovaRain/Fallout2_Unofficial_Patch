@@ -1,3 +1,5 @@
+### Reporting issues
+
 1. Before opening a new Github issue, check existing ones (both open and closed). Maybe it's already been reported.
 1. Next, depending on the problem type:
     * **Typo**. Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
