@@ -66,3 +66,7 @@
         - Everyone in the room gets killed (including Sierra defence bots if any).
         - Humans yield normal brain, mutants/ghouls/deathclaws/dogs - abnormal, all the rest - none.
         - Karma penalty applies for anyone but Sierra defence bots.
+
+## Version 2
+
+Repacked into .dat file.
