@@ -5,7 +5,7 @@
     * **Typo**. Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
     * **Quest bug**. Explain the problem. Attach **two** savegames: one where the problem can be seen right away, another one _right before_ starting the quest. Indicate if any other mods are installed, and their versions.
     * **Crash**. See [reporting crashes](CRASH.md).
-    * **Something else**. Use your best judgement. Provide as much info as possible.
+    * **Something else**. A savegame and anything else that you think could be helpful.
 
 **Notes:**
 - The best way to get the issue fixed is to submit a pull request.
