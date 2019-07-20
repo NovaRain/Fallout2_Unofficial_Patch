@@ -15,11 +15,14 @@ script:
 
 env:
   global:
-    - sfall_version=4.1.8.1
-    - mpack_version=4.1.8
+    - sfall_version=4.1.9.1
+    - mpack_version=4.1.9.1
     - mods_dir=mods
     - mod_name=upu
     - bin_dir=extra/bin
+    - appearance_dir=appearance
+    - release_dir=release
+    - mods_dir=release/mods
 
 deploy:
   provider: releases
