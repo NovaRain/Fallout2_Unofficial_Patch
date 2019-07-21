@@ -26,7 +26,7 @@
 - Broken Hills
     - If Francis leaves before wrestling with him, that quest will be crossed out.
     - Dead professor will no longer show floats when clicking on the scorpion.
-    - When caught stealing from the scropion, it will just hiss instead of using human floats.
+    - When caught stealing from the scorpion, it will just hiss instead of using human floats.
 - Den
     - Fixed Billy's response when asking for a second chance at sex.
     - Sex with Karl advances time.
