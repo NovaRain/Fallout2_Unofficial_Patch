@@ -1,0 +1,106 @@
+#############################################################
+#  Message File: ACVillgr.msg                               #
+#                                                           #
+#       Body Type:  NAROBE                                  #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Vedi un abitante del villaggio.}
+{101}{}{Vedi un'abitante del villaggio.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
+{150}{}{Un membro del tuo villaggio.}
+{151}{}{[PARLA]}
+{152}{}{Salve! Ho sentito dire che sei il Prescelto. Forse adesso il nostro villaggio potra' salvarsi.}
+{153}{}{Puoi dirmi dove posso trovare dell'altra polvere curativa?}
+{154}{}{Cosa puoi dirmi dei mercanti che commerciano con noi?}
+{155}{}{E' bello vederti, ma ora devo andare.}
+{156}{}{Gli dei ti proteggano durante il tuo viaggio.}
+{157}{}{Ho una domanda da farti.}
+{158}{}{Arrivederci, amico mio.}
+{159}{}{Vai a trovare Hakunin nell'angolo nord del villaggio.  Lui puo' aiutarti.}
+{160}{}{Grazie. Arrivederci.}
+{161}{}{Oh, non e' compito mio trattare con i mercanti. Parla con Mynoc, il guardiano del grande ponte. Lui li vede tutti.}
+{162}{}{Grazie. Arrivederci.}
+{163}{}{Puoi dirmi dove si trova il grande ponte?}
+{164}{}{Un'altra domanda, se posso.}
+{165}{}{Bello scherzo, Prescelto! Sai bene dove si trova. Per di la' -- a sud.}
+{166}{}{Grazie. Arrivederci.}
+{167}{}{Un'altra domanda, se posso.}
+{168}{}{Certo, cosa c'e'?}
+{169}{}{Puoi dirmi dove posso trovare delle erbe curative?}
+{170}{}{Cosa puoi dirmi dei mercanti che commerciano con noi?}
+{171}{}{Come non detto.}
+{172}{}{O dei -- possa lo spirito del Fondatore guidarti. Se tu sei il Prescelto, ne avremo proprio bisogno.}
+{173}{}{Uun Ga.}
+{174}{}{Buon viaggio.}
+{175}{}{????}
+{176}{}{Siamo spacciati! Hai fallito la tua missione.}
+{177}{}{Non puoi continuare cosi'.}
+{180}{}{Sei un traditore della tua stessa gente.}
+{181}{}{Perche' fai questo?}
+{182}{}{Tu sei malvagio. Il Prescelto e' malvagio!}
+{183}{}{Arrivano al nostro villaggio da oriente, ma le loro merci non sono buone.}
+{184}{}{Puoi dirmi dove posso trovare delle erbe curative?}
+{185}{}{Grazie. Arrivederci.}
+{186}{}{Un'altra domanda, se posso.}
+
+# Starting Dialog after 1st Hakunin Movie
+{300}{}{Salve, Prescelto. Felice di rivederti. Prego che la tua sacra missione stia andando bene. Posso aiutarti in qualche modo?}
+
+# Starting Dialog after 2nd Hakunin Movie
+{301}{}{Prescelto, la nostra gente sta morendo. Devi affrettare la tua ricerca per il sacro GECK. Cosa posso fare per aiutarti in questa santissima missione?}
+
+# Starting Dialog after 3rd Hakunin Movie
+{302}{}{Il tempo a nostra disposizione sta finendo, Prescelto. Per favore, porta presto a termine la tua sacra missione. Non possiamo permetterci di aspettare ancora. Se c'e' qualcosa che posso fare per aiutarti a salvarci, fammelo sapere.}
+
+# Starting Dialog after 4th Hakunin Movie
+{303}{}{Prescelto, il nostro villaggio e' quasi morto... sei la nostra unica speranza. Per la nostra salvezza, c'e' niente che possa dire per aiutarti?}
+
+
+#############################################################
+#  TELL - ME - ABOUTS                                       #
+#############################################################
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
+{1002}{}{Abitante del Vault}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Vault}
+{1006}{}{Prescelto}
+{1007}{}{Sciamano}
+{1008}{}{Hakunin}
+{1009}{}{Polvere curativa}
+{1010}{}{Ponte}
+{1011}{}{Mynoc}
+
+{1100}{}{L'Anziana e' nostra madre e il nostro capo.}
+{1101}{}{Il nostro grande antenato che ci ha dato la conoscenza.}
+{1102}{}{Il primo a combattere e vincere contro il caos.}
+{1103}{}{Si tratta del nostro splendido villaggio.}
+{1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
+{1105}{}{Il Vault e' il Paradiso.}
+{1106}{}{Tu sei il prescelto.}
+{1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
+{1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
+{1109}{}{E' una polvere magica che ti guarisce, ma che ti intorpidisce.}
+{1110}{}{Il Grande Ponte e' l'uscita sud del nostro villaggio.}
+{1111}{}{Egli fa la guardia la ponte che porta al nostro villaggio.}
