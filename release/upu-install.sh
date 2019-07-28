@@ -1,10 +1,15 @@
 #!/bin/bash
 
-bdir="data.upu.bak"
+bdir="backup/upu"
+mkdir -p $bdir/data
 
-rm -f patch000.dat
-mv data $bdir
-mkdir -p data/sound
-mv $bdir/SAVEGAME data/
-mv $bdir/sound/music data/sound/
-echo "UPU installed."
+if [[ -f patch000.dat ]]; then
+  mv patch000.dat $bdir/
+fi
+
+# keep savegames, sound, character files
+for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
+  mv data/$i $bdir/data/
+done
+
+echo "UPU installed. Backup is in $bdir."
