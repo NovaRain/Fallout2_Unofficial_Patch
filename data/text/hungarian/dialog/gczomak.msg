@@ -1,11 +1,10 @@
-# Dialog Editor last position: 1
 {100}{}{Ez a ghoul az átlagosnál is nagyobb termetû.}
 {101}{}{Õ Zomak, becenevén a Megsemmisítõ.}
 {102}{}{Ez a ghoul szép nagyra nõtt. Arcán az ostoba felsõbbrendûség tükrözõdik.}
 {110}{}{Jöjjön a Megújhodás, bajtársam! Zomak vagyok. Néhányak a Megsemmisítõnek neveznek. Mi járatban minálunk?}
 {111}{}{Jöjjön a Megújhodás, bajtársam! Mit csinálsz idelenn? Add elõ Zomaknak, a Megsemmisítõnek, mi járatban vagy itt!}
 {112}{}{Megújj!}
-{113}{}{Rendi?}
+{113}{}{Ook?}
 {114}{}{Csak körülnézek.}
 {115}{}{Szeretnék Megújhodni.}
 {116}{}{Eltévedtem, tisztán látszik.}
@@ -27,9 +26,9 @@
 {171}{}{Én ugyan nem. Megyek is. Viszlát!}
 {172}{}{Lehet, hogy késõbb még visszajövök. Viszlát!}
 {180}{}{Addig menj innen, amíg még megteheted. Kifelé!}
-{181}{}{Rendben.}
+{181}{}{Oké.}
 {200}{}{Igen, mindenki Megújhodhat odabenn.}
-{201}{}{Rendben.}
+{201}{}{Oké.}
 {210}{}{Rendi? Ez mit akar jelenteni? Zaza vagy?}
 {211}{}{Goop?}
 {220}{}{Tûnés innen! Az Agynak nincs ideje az ilyenekre.}
@@ -40,14 +39,14 @@
 {233}{}{Szerintem egy kicsit megzavarodtam hirtelen. Lehet, hogy a sugárzástól van. Viszlát!}
 {240}{}{Ah... Nincs itt semmi. Semmi az égadta világon. Csak egyszerûen távozz innen!}
 {241}{}{Biztos vagy benne, hogy semmi nincs itt?}
-{242}{}{Rendben. Légy jó.}
+{242}{}{Már itt sem vagyok.}
 {250}{}{Igen. Az vagyok. Most pedig tûnés!}
-{251}{}{Ha te mondod... Üdv!}
-{260}{}{Ó, hehe... persze. Tudtam én. Ööö... nos... átmentem?}
+{251}{}{Ha maga mondja... Na, isten vele.}
+{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
 {261}{}{Át. Most pedig engedj be!}
 {262}{}{Nem mentél át, és most jelenteni fogom ezt!}
 {270}{}{Akkor rendben. Menj csak elõre!}
-{271}{}{Rendben. Viszlát!}
+{271}{}{Már itt sem vagyok.}
 {280}{}{Viseled a jelet! Az ajtó nyitva áll elõtted.}
 {281}{}{Meeegy...}
 {282}{}{Jól értettem? Jelet mondtál?}

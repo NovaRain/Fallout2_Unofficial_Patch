@@ -4,11 +4,11 @@
 {103}{}{Hakunin e' gravemente ustionato. Puzza come un pollo allo spiedo, ha l'aspetto di una bistecca bruciata, e non hai idea di come sia riuscito a rimanere in vita in questo stato.}
 {104}{hak001}{Salute, Prescelto. Perche' la terra di fronte a me si riscalda al tuo passaggio?}
 {105}{}{Uh? }
-{106}{}{Sono venuto per salutarti. Sto per cominciare la mia sacra missione. }
+{106}{}{Sono passato per salutare. Sto per partire per la mia sacra missione. }
 {107}{}{Me ne sto andando. Speravo che almeno questa volta avresti parlato come una persona normale. }
-{108}{}{Stai mischiando le tue droghe da un po' troppo tempo. Me ne vado. }
+{108}{}{Stai mischiando un po' troppo le tue droghe. Me ne vado. }
 {109}{}{Sono ferito. Puoi curarmi?}
-{110}{}{C'erano delle belle piante cattive che infestavano il tuo giardino - Me ne sono occupato per te.}
+{110}{}{C'erano delle piante piuttosto cattive che infestavano il tuo giardino - Me ne sono occupato per te.}
 {111}{hak001a}{Per favore, rivela agli occhi annebbiati lo scopo della tua visita.}
 {112}{}{Uh? }
 {113}{}{Sono passato per salutare. Sto per partire per la mia sacra missione. }
@@ -42,7 +42,7 @@
 {141}{}{Oh, si'. Molto meglio. E la lezione che ho appreso e' di stare zitto e chiedere solamente dove si trova il giardino.}
 {142}{}{Facciamo una prova con la parola "arrivederci". Significa che me ne sto andando. }
 {143}{hak007}{Certo tu ricordi che si trova a nordest, o folle.}
-{144}{}{Ti ringrazio per l'aiuto.}
+{144}{}{Grazie dell'aiuto.}
 {145}{}{Grazie. Ho capito. Davvero.}
 {146}{}{Mi stai dando del pazzo? Non penso di volerti aiutare, dopotutto. }
 {147}{}{Tornero' presto per il mio compenso.}
@@ -94,10 +94,10 @@
 {193}{}{Ow?}
 {194}{}{Ooog! Bak!}
 {195}{hak020}{Il piacere di queste parole mi colma. Ahime', gli dei mi sussurrano all'orecchio. Arrivederci.}
-{196}{}{Ci vediamo.}
+{196}{}{Addio.}
 {197}{}{Stai ancora mischiando le erbe, eh? Ci vediamo dopo.}
 {198}{hak021}{Tutti abbiamo giardini. Possano i tuoi viaggi essere come la cura di un giardino. Sii sano. Ora devo cercare udienza dagli dei.}
-{199}{}{Ci si vede.}
+{199}{}{Ci vediamo.}
 {200}{}{Scommetto che porti il tuo gruppetto di dei ovunque vai. Stammi bene.}
 {201}{hak022}{Guarda a nord, Prescelto, e la via ti sara' aperta.}
 {202}{}{Okay. Grazie.}
@@ -162,7 +162,7 @@
 {261}{hak107}{Grazie, antenati. Ora la mia anima puo' unirsi al canto eterno. Buon viaggio, Prescelto.}
 {262}{}{Va?}
 {263}{hak108}{Va'!}
-{264}{}{Ciao ciao.}
+{264}{}{Bye bye.}
 {265}{hak109}{Anime oscure sono giunte. Hanno preso tutti.}
 {266}{}{Anime oscure? Che cosa vuoi dire?}
 {267}{hak110}{Una grande folata di vento e' arrivata. Su di essa grandi libellule sputavano fiamme. Uomini crudeli sono usciti dalle pance di quelle bestie e hanno portato la morte ai nostri guerrieri.}
@@ -189,4 +189,4 @@
 {288}{hak121}{Una strana foschia ha rubato le loro menti e li ha mandati nella terra dei Sogni. I malefici camminavano tra i sognatori, ma non sognavano.}
 {289}{}{E poi?}
 {290}{hak122}{Troppe stagioni e troppe ferite, Prescelto. Piuttosto, tu devi ascoltare.}
-{291}{}{Va bene.}
+{291}{}{Okay.}

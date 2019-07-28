@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {125}{}{Õ Cody.}
 {175}{}{Ez itt egy szakadt lelencgyerek. Lepusztult pólójára a következõt firkantották: "Cody".}
 {176}{}{Õ Cody. Üres arccal bámul rád.}
@@ -9,11 +8,8 @@
 {202}{}{Ugyi gugyi}
 {203}{}{Visszabámulsz rá}
 {204}{}{ elvesztette autót. }
-{1204}{}{ szomorú. Nem láttad }
-{2204}{}{ autóját?}
 {205}{}{Cody, viszed-e el }
-{1205}{}{ barátodat autójához? Kéééérlek.}
-{206}{}{Otthagyod}
+{206}{}{Elpályázol}
 {207}{}{Hé, Cody. Jól vagy? Nem akarsz esetleg enni valamit?}
 {208}{}{Hé, Cody? Nem vagy szomjas? Akarsz valamit inni?}
 {209}{}{Hol vannak a szüleid?}
@@ -22,7 +18,7 @@
 {212}{}{Cody, el tudnál vinni oda, ahol az autóm van?}
 {213}{}{Cody, el tudnál vinni oda, ahol az autóm volt?}
 {214}{}{Meg tudod mondani, ki lopta el?}
-{215}{}{Na, szia.}
+{215}{}{Viszlát!}
 {220}{}{(Cody az ujjával jelzi, hogy oké, aztán elszalad.)}
 {221}{}{(Cody szeme elkerekedik, aztán elszalad a srác.)}
 {223}{}{ÉN MEGÖL ÉN MEGÖL ÉN MEGÖL ÉN MEGÖL ÉN MEGÖL...}
@@ -35,8 +31,7 @@
 {252}{}{Nem akarsz egy kis sörtöt, kölyök? Nem lehet elég korán kezdeni, mondta az anyám... már amikor épp józan volt.}
 {253}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }
 {254}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }
-{1254}{}{ barátoddal?}
-{255}{}{Hé, Cody... nem akarsz egy kis dögös metamfetamint? Magadnak tudnád fogni a kajának való zsákmányt. Meg a többi gyereket is jól helybenhagyhatnád.}
+{255}{}{Hey, Cody... want some powerful methamphetamines? You could catch and eat your own game. Other children, even.}
 {256}{}{Ööö... hát akkor vigyázz magadra, Cody!}
 {257}{}{Bocsi, haver, asszem, nincs nálam semmi, amire meghívhatnálak.}
 {261}{}{Nem akarsz egy kis gyümölcsöt, Cody?}
@@ -49,18 +44,14 @@
 {274}{}{Ezt a tiszteletlen kis disznót el kéne adni rabszolgának... hmmm, várj csak egy pillanatra...}
 {280}{}{(Cody bólint egyet!)}
 {281}{}{(Meglepetésedre Cody bólint egyet!)}
-{282}{}{Tudod }
-{1282}{}{ az autómat! Hol?! Hol?! Vigyél oda! Vigyél oda! Kérlek! Légyszi!}
+{282}{}{Õ }
 {283}{}{Jó neked tudol hol lenni autóm }
-{1283}{}{ ...figyusz! Fényes tárgy! (otthagyod)}
 {284}{}{Csakugyan? Meg tudod mutatni, hol van?}
 {286}{}{Hát csak úgy kíváncsiskodtam. Majd még jövök...}
 {290}{}{(Cody félve pillantgat az utca másik oldalán álló Jules-re, aki viszont éppen titeket bámul.)}
 {291}{}{(Cody félve pillantgat az utca másik oldalán álló fekete férfire, aki viszont éppen titeket méreget.)}
 {292}{}{Aha, értem... úgy tûnik, Jules és az öklöm most szépen elbeszélgetnek kicsit...}
 {293}{}{Nahát... Cody, tudod, mi fog most történni? A rossz ember, aki ellopta a }
-{1293}{}{ autóját és }
-{2293}{}{ ökle most magánbeszélgetést fognak folytatni ott az utca másik oldalán.}
 {294}{}{Mit nem mondasz... Hát majd késõbb megtárgyaljuk vele, de most igazán elvihetnél a kocsimhoz.}
 {300}{}{(Cody vállat von.)}
 {301}{}{El tudsz vinni oda, ahol a kocsim van?}
@@ -93,7 +84,15 @@
 {382}{}{Mi van Cody? Mit mondtál?}
 {390}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehetõ, leginkább egy "köszönöm"-re hasonlított.)}
 {391}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehetõ, leginkább egy "baszódj meg"-re hasonlított.)}
-{392}{}{Köszi, Kóóódi. Illlyen EnPíszík nélkül uncsi vóna a világ}
+{392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
 {393}{}{ÉN MEGÖL ÉN MEGÖL}
 {394}{}{Semmi gond, Cody. A világ megmentése úgy látszik, a véremben van. Vigyázz magadra, hallod-e!}
 {395}{}{Te kis szaros! Megöllek! Megöllek...!}
+{1204}{}{ szomorú. Nem láttad }
+{1205}{}{ barátodat autójához? Kéééérlek.}
+{1254}{}{?}
+{1282}{}{ az autómat! Hol?! Hol?! Vigyél oda! Vigyél oda! Kérlek! Légyszi!}
+{1283}{}{ ...figyusz! Fényes tárgy! (otthagyod)}
+{1293}{}{ autóját és }
+{2204}{}{ autóját?}
+{2293}{}{ ökle most magánbeszélgetést fognak folytatni ott az utca másik oldalán.}

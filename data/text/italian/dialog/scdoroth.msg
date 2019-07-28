@@ -23,7 +23,7 @@
 {122}{}{Cavoli! Allora sta' indietro. A meno che io non sia davvero fortunata, l'intero impianto esplodera'. Andiamo, Toto.}
 {123}{}{L'hai riparata? Senza pezzi di ricambio? E' incredibile! Dove hai imparato a farlo?}
 {124}{}{Huh-huh!}
-{125}{}{Semplice abilita' manuale, ecco tutto.} ###???handy
+{125}{}{Semplice abilita' manuale, ecco tutto.}
 {126}{}{Ho capito. Tu sei uno di quei tipi un po' stupidi - come si chiamano...? Idioti sapienti. Beh, senti, idiota o no, ti meriti una ricompensa. RI-COM-PEN-SA - tu. Ti do dei bei libri. Vedi? Prendi soldi. Bene... immagino tu non sappia leggere.}
 {127}{}{Guarda, non e' molto, ma ho qualche libro - vecchi manuali tecnici. Sono tuoi. Prendili.}
 {128}{}{Ehi, guarda, Toto. E' lo straniero che ci ha aiutati. Grazie ancora, mister.}
@@ -40,10 +40,8 @@
 {139}{}{Sei riuscito a convincerlo? Incredibile! La citta' ti deve davvero molto, mister. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
 {140}{}{Volevo solo farti sapere che sono ancora impressionata per quello che hai fatto con Jack. Io e Toto dobbiamo scappare adesso. Ciao!}
 {141}{}{Merda! Ho solo un consiglio da darti: SCAPPA!}
-
 {142}{}{Ehi, guarda, Toto. E' la straniera che ci ha aiutato. Grazie ancora, miss.}
 {143}{}{Sei riuscita a convincerlo? Incredibile! La citta' ti deve davvero molto, miss. Guarda, non e' molto, ma ecco alcuni manuali che avevo da parte. Magari puoi venderli.}
-
 {144}{}{Non perdere tempo! Fa sul serio.}
 {145}{}{Devi fare qualcosa! Subito!}
 {146}{}{Non startene li' impalato -- fermalo!}

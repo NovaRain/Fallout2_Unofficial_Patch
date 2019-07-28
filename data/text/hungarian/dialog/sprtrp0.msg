@@ -1,4 +1,3 @@
-# Dialog Editor last position: 7
 {100}{}{Egy kiemelkedõ követ látsz. Egy csapda részének tûnik. }
 {101}{}{egy kiemelkedett követ lát. Egy csapda részének tûnik.}
 {102}{}{Egy kiemelkedett követ látsz.}

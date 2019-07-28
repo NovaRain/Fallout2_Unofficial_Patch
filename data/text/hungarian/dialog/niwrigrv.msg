@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{A sírkövön ez áll: "Itt nyugszik szeretett gyermekünk, Richard Wright. Emléke örökké szívünkben él."}
 {200}{}{A koporsóban egy tinédzser testét találod.}
 {201}{}{Átvizsgálod Richard Wright sírját. A testbõl émelyítõ szag árad.}

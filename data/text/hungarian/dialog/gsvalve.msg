@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{A hûtõrendszer irányítópultja.}
 {101}{}{A hûtõrendszerért felelõs irányítópult.}
 {102}{}{A pulton rengeteg gombot, dugaszt, tekerentyût látsz.}

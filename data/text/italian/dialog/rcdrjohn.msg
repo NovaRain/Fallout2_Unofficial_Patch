@@ -26,10 +26,10 @@
 {125}{}{Ecco i tuoi soldi, Doc.}
 {126}{}{Al momento non credo di potermelo permettere. Mi spiace, Doc; magari un'altra volta.}
 {127}{}{$50, eh? Magari in un secondo momento. Arrivederci, Doc.}
-{128}{}{Sai una cosa...? Credo che vi faro' uno sconto comitiva, dal momento che siete tutti ridotti male. 100$ per curare l'intero gruppo.} ###???to patch up the lot of you
+{128}{}{Sai una cosa...? Credo che vi faro' uno sconto comitiva, dal momento che siete tutti ridotti male. 100$ per curare l'intero gruppo.}
 {129}{}{Ecco i tuoi soldi, Doc. Rimettici a posto.}
 {130}{}{Al momento non credo che ce lo possiamo permettere. Mi spiace, Doc; magari un'altra volta.}
-{131}{}{100$, eh? Magari in un secondo momento. Arrivederci, Doc.}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
 {132}{}{Sembra che tu non stia molto bene. Posso curare cio' che ti affligge per 100$. Vuoi che ci provi?}
 {133}{}{Il tuo amico non sembra stare molto bene. Credo di poter curare cio' che lo affligge per 100$. Vuoi che ci provi?}
 {134}{}{Spero tu possa fare qualcosa in piu' che provarci soltanto, Doc. Ecco i tuoi soldi.}
@@ -199,21 +199,21 @@
 {298}{}{Meraviglioso, Doc. Procediamo. Non ne posso piu' di subire colpi, pugnalate ed esplosioni in ogni dannato momento.}
 {299}{}{Lascia che ti chieda informazioni su uno degli altri interventi, Doc.}
 {300}{}{Tornero' quando avro' piu' soldi, Doc. Arrivederci.}
-{301}{}{Tornero' quando avro' trovato un'Armatura da Combattimento, Doc. Arrivederci.}
-{302}{}{Dopotutto, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
+{301}{}{Tornero' quando avro' recuperato un'Armatura da Combattimento, Doc. Arrivederci.}
+{302}{}{In fin dei conti, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
 {303}{}{Prima che io possa fornirti il Potenziamento d'Assalto devi farti applicare l'Armatura Dermica Anti-Impatto. Ma ti diro' comunque cosa offre. Il Potenziamento d'Assalto ti dara' un totale del 10% di resistenza in piu' nei confronti di danni normali ed esplosivi, in aggiunta a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 30.000$. In piu', il tuo Carisma ne risentira' non poco, dopo che avro' finito. Ammassare tutte quelle placche sotto la tua pelle ti dara' un profilo piuttosto spigoloso, ma sicuramente aerodinamico. Ma a chi e' che non piace l'aspetto di un'auto nuova? Cerchero' di non metterti gli alettoni posteriori, contento?}
 {304}{}{Il Potenziamento d'Assalto per l'Armatura Dermica Anti-Impatto ti dara' un totale del 10% di resistenza in piu' nei confronti di danni normali ed esplosivi, da aggiungere a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 30.000$. In piu', il tuo carisma ne risentira' non poco, dopo che avro' finito. Ammassare tutte quelle placche sotto la tua pelle ti dara' un profilo piuttosto spigoloso, ma sicuramente aerodinamico. Ma a chi e' che non piace l'aspetto di un'auto nuova? Cerchero' di non metterti gli alettoni posteriori. Sei pronto per cominciare?}
 {305}{}{Meraviglioso, Doc. Procediamo. Io sono sempre all'assalto, in ogni momento, e l'aspetto esteriore non mi interessa.}
 {306}{}{Lascia che ti chieda informazioni su uno degli altri interventi, Doc.}
 {307}{}{Tornero' quando avro' piu' soldi, Doc. Arrivederci.}
 {308}{}{Tornero' quando avro' recuperato un'Armatura da Combattimento, Doc. Arrivederci.}
-{309}{}{Pensandoci meglio, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
+{309}{}{In fin dei conti, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
 {310}{}{Secondo gli studi, gli Innesti Corazzati Phoenix garantiscono un 5% di resistenza al danno termico (fuoco, laser e plasma), in aggiunta a quella fornita dall'armatura che si sta indossando. L'operazione richiede qualche giorno, un'Armatura da Combattimento (per le membrane dissipa-calore), e ti costera' 8000$. Non preoccuparti, pero': questo intervento *dovrebbe* comportare cicatrici di piccola entita' - o almeno questo e' quanto dicono gli studi che ho letto.}
 {311}{}{Meraviglioso, Doc. Dopo questo intervento non avro' piu' bisogno di usare delle creme solari.}
 {312}{}{Lascia che ti chieda informazioni su uno degli altri interventi, Doc.}
 {313}{}{Tornero' quando avro' piu' soldi, Doc. Arrivederci.}
 {314}{}{Tornero' quando avro' recuperato un'Armatura da Combattimento, Doc. Arrivederci.}
-{315}{}{Ripensandoci, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
+{315}{}{In fin dei conti, non credo di volermi sottoporre ad un simile intervento. Arrivederci, Doc.}
 {316}{}{Prima che io possa fornirti il Potenziamento d'Assalto devi farti applicare gli Innesti Corazzati Phoenix. Ma ti diro' lo stesso le sue caratteristiche. Il Potenziamento d'Assalto ti dara' un totale del 10% di resistenza in piu' nei confronti dei danni di tipo termico (fuoco, laser e plasma), da aggiungere a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 48.000$. In piu', il tuo carisma ne risentira' non poco, dopo che avro' finito. Piazzare tutti quei dissipatori termici sotto la tua pelle ti fara' sembrare un po' bitorzoluto, quasi come un burrito troppo pieno.}
 {317}{}{Il Potenziamento d'Assalto per gli Innesti Corazzati Phoenix ti dara' un totale del 10% di resistenza in piu' nei confronti dei danni di tipo termico (fuoco, laser e plasma), da aggiungere a quella fornita dall'armatura che stai indossando. L'operazione richiede qualche giorno e ti costera' 48.000$. In piu', il tuo Carisma ne risentira' non poco, dopo che avro' finito. Piazzare tutti quei dissipatori termici sotto la tua pelle ti fara' sembrare un po' bitorzoluto, quasi come un burrito troppo pieno. Sei pronto per cominciare?}
 {318}{}{Meraviglioso, Doc. Procediamo.}

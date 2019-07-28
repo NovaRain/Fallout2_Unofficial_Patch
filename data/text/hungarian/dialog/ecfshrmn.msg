@@ -1,4 +1,4 @@
-{100}{}{Halász.}
+{100}{}{You see a Fisherman.}
 {101}{}{Épp idõben érkeztél, hogy saját szemeddel lásd a Tenger Istennõjének áldását.}
 {102}{}{[Tovább]}
 {103}{}{}
@@ -7,14 +7,14 @@
 {106}{}{Minden évben xander gyökér áldozatot mutatunk be a Tenger Istennõjének. Ha az áldozat elfogadtatik, az Istennõ átváltoztatja a gyökereket broc virággá. }
 {107}{}{Minden aratás után áldozatot mutatunk be a Tenger Istennõjének, hogy vigyázzon ránk és védjen minket. Áhítatunkat minden évben lándzsákkal jutalmazza, melyeket a hullámok vetnek partra. Ez a jel, hogy figyelni fog ránk.}
 {108}{}{Láthatnám, mivel ajándékozott meg titeket az Istennõ?}
-{109}{}{Ögh.}
+{109}{}{Ah...}
 {110}{}{Itt láthatod, ami a magasságos istennõ ebben az évben adott nekünk. Szívesen megosztjuk veled az õ áldását, megfelelõ ellenértékért.}
-{111}{}{Szemét [10]}
+{111}{}{Junk [$10]}
 {112}{}{Lézerpisztoly [10000]}
-{113}{}{Kihegyezett rudak [40]}
-{114}{}{Gyümölcs [5]}
-{115}{}{Xander gyökér [20]}
-{116}{}{Broc virág [10]}
+{113}{}{Sharpened sticks [$40]}
+{114}{}{Fruit [$5]}
+{115}{}{Xander [$20]}
+{116}{}{Broc [$10]}
 {117}{}{Viszlát!}
 {118}{}{[A tenger felé mutat.] Menj egyenesen elõre! Az Istennõ személyesen akar találkozni veled.}
 {119}{}{[Vége]}

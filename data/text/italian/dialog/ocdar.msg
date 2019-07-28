@@ -14,9 +14,9 @@
 {113}{}{Io Dar, guerriero.}
 {114}{}{Ok.}
 {115}{}{Voi tutti uguali. Me va via.}
-{116}{}{Me } #continue 137
+{116}{}{Me }
 {117}{}{Capisco. Beh, adesso devo andare.}
-{118}{}{Io sono } #continue 138
+{118}{}{Io sono }
 {119}{}{Capito.}
 {120}{}{Guerriero! Ah! Questa e' buona. Ne sai altre?}
 {121}{}{Dar controlla corridoio e mantiene pace. Niente di piu'.}
@@ -35,6 +35,5 @@
 {134}{}{E cosi' siete talmente stupidi che qualcun altro deve forzarvi ad imparare qualcosa. Che bello...}
 {135}{}{Salve. Amico del branco.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
-
 {137}{}{.}
 {138}{}{, Dar.}

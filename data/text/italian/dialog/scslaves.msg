@@ -10,7 +10,7 @@
 {109}{}{Non parlare con me! Non voglio essere picchiato di nuovo.}
 {110}{}{La schiavitu' e' solo un costrutto mentale. Dopotutto, tu sei davvero libero?}
 {111}{}{Non di nuovo! Vi prego, non la Stanza del Dolore!}
-{112}{}{Sta' lontano da me!}
+{112}{}{Stai lontano da me!}
 {113}{}{Mostro! Siete stati tu e tutti quelli della tua razza a ridurmi cosi'!}
 {114}{}{Il giudizio dell'Onnipotente possa abbattersi su di te!}
 {115}{}{Obbedisco ad ogni vostra parola.}

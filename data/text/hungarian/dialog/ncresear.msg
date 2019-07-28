@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ Marjorie Reed, a kutatók vezetõje.}
 {150}{}{Ez a nõ igen fáradtnak tûnik. Haja kopaszra van nyírva és fehér köpenyt visel.}
 {151}{}{A hölgy Marjorie Reed. Miközben magában morgolódik, éppen egy fecskendõt tölt fel.}
@@ -22,7 +21,7 @@
 {227}{}{Miért lett öngyilkos az a nõ a kontroll-csoportból? Még rá sem került a sor!}
 {228}{}{Az átkozott õrök tudnak vigyázni a saját seggükre...}
 {235}{}{Üdvözlet, Myron úr. A tesztek a tervek szerint haladnak.}
-{236}{}{Ez az új Jet hihetetlenül addiktív, Myron úr. A rabszolgák meggyilkolnák egymást érte.}
+{236}{}{Myron, sir, this new strain of Jet is extremely addictive. The slaves are almost willing to kill each other for it.}
 {237}{}{Myron úr, ha meglátja az eredményeket, elégedett lesz. Az új Jet ugyanis annyira ütõs, hogy a rabszolgák még étel helyett is azt akarnak bevenni.}
 {238}{}{Kik ezek az emberek magával, Myron? Új tesztalanyok?}
 {239}{}{Az összes közül a harmadik tesztcsoport ígérkezik a legjobbnak, Myron úr.}
@@ -32,14 +31,14 @@
 {243}{}{Van valami hír, mikor szállítanak be új rabszolgákat, Myron úr?}
 {244}{}{Myron úr, mivel légzési zavaraik voltak a múlt héten, három rabszolgát áttettünk a kontroll-csoportból a tesztcsoportba.}
 {245}{}{Myron úr, rossz híreim vannak. Le kellett lõnünk egy menekülõ rabszolgát. Nagy pazarlás ez...}
-{246}{}{Myron, ez az ön által kifejlesztett új hallucinogén nagyon ígéretes, viszont nem annyira addiktív, mint a Jet...}
+{246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 {250}{}{(A kopasz nõ fel sem néz a jegyzettömbjébõl.) Igen?}
 {251}{}{Nem!}
 {252}{}{Igen!}
 {253}{}{He-he. Tar vagyol. Nézel ki mint férfi}
 {254}{}{Delenn?}
-{255}{}{Otthagyod}
-{256}{}{Maga kicsoda?}
+{255}{}{Elpályázol}
+{256}{}{Ki vagy te?}
 {257}{}{Elnézést, összetévesztettem egy másik kopasz nõvel, aki jegyzettömböt szorongat. Már itt sem vagyok.}
 {265}{}{(A nõ felemeli a tekintetét és rádbámul.) Maga az egyik kontroll alany? Nem mintha számítana... Õrség! Vigyék a helyére ezt a rabszolgát!}
 {266}{}{Hol lenni rabszolga? Én nem lát egyet senem}
@@ -49,7 +48,7 @@
 {278}{}{Én vagyok az új alkalmazottak egyike. Ide rendeltek.}
 {279}{}{Myront keresem. Itt van valahol?}
 {280}{}{Abban a jegyzetfüzetben az új teszteredmények vannak? Vethetnék rájuk egy pillantást?}
-{282}{}{Hagyjuk. Bocsánat, hogy zavartam önt.}
+{282}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
 {295}{}{Ezt a területet idegenek nem látogathatják. Távozzék, különben hívom az õrséget!}
 {296}{}{De hát szerettem volna feltenni egy-két kérdést önnek...}
 {298}{}{Abban a jegyzetfüzetben az új teszteredmények vannak? Vethetnék rájuk egy pillantást? Én magam is kutató vagyok.}
@@ -70,17 +69,20 @@
 {346}{}{Értem. És hogy halad a kutatás?}
 {347}{}{Azt hiszem, támadt egy ötletem. Egyedül fogom szemrevételezni a tesztterület többi részét.}
 {355}{}{Nem túl rózsás. A határidõk szorosak és rövid idõn belül le kell tisztáznunk a Jet gyártási folyamatát.}
-{356}{}{Miért? A Jet már így is éppen elég addiktív.}
+{356}{}{Why? Jet seems addictive enough already.}
 {357}{}{Mire fel a szoros határidõ?}
 {358}{}{Hát nem egyszerû feladat annyi szent. Nézze, valamit nagyon sürgõsen el kell intéznem. Mindjárt visszajövök.}
-{365}{}{Mondjuk senki nem mondott konkrétumot, de valószínûleg a reddingi Jet disztribúciónak köszönhetõ. A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függõséget.}
+{365}{}{No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but
+ there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.}
 {366}{}{Mi ez a reddingi balhé?}
 {367}{}{Hát sok szerencsét a határidõk betartásához...}
-{375}{}{A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függõséget. Olyan közel szeretnék a száz százalékhoz, amennyire csak tõlünk telik. Ehhez még jó sokat kell túlóráznunk.}
+{375}{}{It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in
+ Redding, and they want the addiction rate as close to 100% as we can get it. It's going to require us pulling some long hours.}
 {377}{}{Köszönöm az információt. Késõbb még jövök.}
-{385}{}{Szoktasd hozzá a reddingi bányászokat a Jethez, és bárki kezében legyen is a Jet, Reddinget is a kezében tartja. Tipikus hatalmi játszma.}
-{386}{}{Nos... kinek a kezében is van a drog?}
-{395}{}{Hogy kinek a kezében van a drog? A Mordinók kezében. Természetesen Myron rakta le a Jet-gyártás alapjait, nekünk csak a tucatmunka marad.}
+{385}{}{Addict the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.}
+{386}{}{So... who does control the drugs?}
+{395}{}{Who controls the drugs? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition.
+ We do mostly clean-up work.}
 {396}{}{Myron az ön fõnöke?}
 {405}{}{Akár ANNAK is nevezheti. Okos ember, ezt nem tudom elvitatni tõle, de nem sokat törõdik vele, mi történik idefenn. Leginkább az alagsori kuckójában tartózkodik... látogatókat nem fogad, csak a prostituáltak hadait. Tipikus projekt vezetõ.}
 {406}{}{Benézhetnék hozzá?}
@@ -96,19 +98,20 @@
 {435}{}{Hát... hmmm... nagyon hízelgõ, de momentán én is nagyon elfoglalt vagyok... szóval... ööö...}
 {436}{}{Nem bánná, ha munka után magáért jönnék? Semmi nem kötelezõ... csak egy kis vacsora, kellemes beszélgetés. Ahogy így elnézem magát, jót tenne egy kis lazítás. Az itteni munka nagyon megviselheti.}
 {437}{}{Hát csak úgy megkérdeztem. Mindenesetre köszönöm.}
-{445}{}{Ó, annyira azért nem vagyok elfoglalt... heh... mindegy, épp eléggé elfoglalt vagyok. Úgy értem, fõleg drogteszteket végzünk és néhanapján van egy-két megkergült rabszolgánk...}
+{445}{}{Oh, not THAT busy... heh... well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have
+ a slave go over the edge...}
 {446}{}{A kísérleti metamfetamin rabszolgasorba hajtott emberi lényekbe való szándékos injektálása nem kérdõjelezi meg az alapvetõ emberiességét?}
 {447}{}{Úh. Ez aztán veszélyesnek hangzik! Nem szokott megsérülni? Sok halálos mûhiba szokott történni?}
-{448}{}{Drogteszt? Tényleg? Hogy áll a projekt?}
+{448}{}{Drug testing? Really? How are things going?}
 {449}{}{Érdekesen hangzik, de most mennem kell... ööö, késõbb biztos visszajövök.}
 {455}{}{Ez valami gyenge próbálkozás volt, hogy viccesnek tûnjön?}
-{456}{}{Csak úgy megkérdeztem. Gondoljon bele... mi lenne, ha önt elhurcolnák rabszolgának, ide lehoznák és telenyomnák drogokkal?}
+{456}{}{Just asking. I mean, what if you had been sold into slavery, been taken here, then pumped full of drugs?}
 {457}{}{Ööö, igen. Most mennem kell.}
 {465}{}{Én a karám egyik oldalán állok, õk pedig a másik oldalán. Mivel kezdünk hipotézisekbe bocsátkozni, megérdeklõdöm, hogy esetleg nincs-e kedve személyesen meggyõzõdni, milyen is lehet a másik oldalon állni. Van egy-két kihasználatlan karámunk.}
 {466}{}{Várjunk egy pillanatot...}
 {467}{}{Öö, kösz nem kérek belõle. Bocsánat, hogy zavartam.}
 {475}{}{A rabszolgák halála érdekli? Nem sok történik. Többnyire véletlen túladagolás szokta okozni, általában egy asszisztens hibájából, de elõfordul, hogy egy rabszolga saját magát sebesíti meg. Némelyek túl sok Jetet vesznek be, mert a repülést túl komolyan gondolják.}
-{476}{}{Ezt leszámítva, hogy halad a drogteszt?}
+{476}{}{Other than that, how's the drug testing going?}
 {477}{}{Fogadni mertem volna. Azért kösz az információt. Ön igen segítõkész.}
 {485}{}{Próbálkozzon lent a laborban! Az õrzött ajtónál. Ha találkoznak, mondja már meg neki, hogy ha van ideje, jöjjön fel ide. Ha nem ANNYIRA elfoglalt...}
 {1000}{}{Kaptál egy ideiglenes belépõt Marjorie-tõl.}

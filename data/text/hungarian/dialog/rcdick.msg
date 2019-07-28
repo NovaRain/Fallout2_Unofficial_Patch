@@ -1,33 +1,32 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt egy nagy szakállú, lompos kinézetû alak.}
 {101}{}{Õ Athabaska Dick.}
 {102}{}{Ez az ember olyan bányásznak látszik, aki tudja mi a dörgés.}
 {103}{}{Te túl ostoba vagy a bányászmelóhoz.}
-{104}{}{Isten hozott a nagyvárosban!}
+{104}{}{Üdvözlünk a Nagyvárosban!}
 {105}{}{Van valami beütésed, mi?}
 {106}{}{Annyi eszed van mint egy marék lepkének.}
 {107}{}{Volt olyan lapátom, aminek több esze volt, mint neked.}
 {108}{}{Többnyire csak a szokásos. Mi bányászok csak annyit dolgozunk, amennyi a következõ Jetetúrához elég.}
-{109}{}{Mi lenne, ha valami mást kérdeznék?}
-{110}{}{Mi az a Jet?}
+{109}{}{Feltennék még kérdéseket.}
+{110}{}{Jet? Az meg micsoda?}
 {111}{}{Értem. Viszlát!}
 {112}{}{Nos, a legtöbbünk belegebed, hogy elég Jethez jusson. A rohadt árak meg állandóan csak mennek felfelé. Gyûlölöm azt az érzést, mikor nem repülhetek.}
-{113}{}{Hadd kérdezzek valami mást!}
-{114}{}{Mi az a Jet?}
+{113}{}{Feltennék még kérdéseket.}
+{114}{}{Jet? Az meg micsoda?}
 {115}{}{Értem. Viszlát!}
 {116}{}{Nem tudok én annyit dógozni, amennyi Jet kéne nekem ahhoz, hogy jól érezzem magam. Tán ki tudnánk ókumulálni valamit New Renóval, má' direktbe értem. Hallottam, hogy Ascorti mán ügyködik ezen.}
-{117}{}{Hadd kérdezzek valami mást!}
+{117}{}{Feltennék még kérdéseket.}
 {118}{}{Ascorti? Az ki?}
-{119}{}{Mi az a Jet?}
+{119}{}{Jet? Az meg micsoda?}
 {120}{}{Értem. Viszlát!}
 {121}{}{Nem érzem magam valami jól mostanában, és úgy néz ki, ezzel nem vagyok egyedül. Próbáltam még több Jetet benyomni, de szart se segít. Inkább csak rosszabbul érzem magam tõle. A béka segge alatt vagyok, akárcsak a többi bányász.}
-{122}{}{Kérdeznék valami mást.}
-{123}{}{Mi az a Jet?}
-{124}{}{Értem. Viszlát}
+{122}{}{Feltennék még kérdéseket.}
+{123}{}{Jet? Az meg micsoda?}
+{124}{}{Értem. Viszlát!}
 {125}{}{Nem tudom, mi történt, de a legutóbbi szállítmány után majdnem mindenki leállt a Jettel. Úgy éreztem, hogy mindannyian a nagy égi reptéren fogunk kikötni. Mostanság már senki nem akar többet Jetezni. Már a gondolatától is irtózunk.}
-{126}{}{Kérdeznék valami mást.}
-{127}{}{Mi az a Jet?}
-{128}{}{Világos. Viszlát!}
+{126}{}{Feltennék még kérdéseket.}
+{127}{}{Jet? Az meg micsoda?}
+{128}{}{Értem. Viszlát!}
 {129}{}{Adjisten, Athabaska Dick vagyok. Az emberek általában csak Dick-nek szólítanak. Persze van olyan, aki Athabaskának hív, de leginkább mégiscsak Dick-nek.}
 {130}{}{Üdvözlet! Mit tehet érted a jó öreg Athabaska Dick?}
 {131}{}{Sietek. Gyorsabban, gyorsabban! Na? Mire vársz? Ha Athabaska Dickkel akarsz beszélni, akkor gyorsabban kell járjon a szád!}
@@ -38,32 +37,32 @@
 {136}{}{Születésem óta nem éreztem magam ilyen mosogatórongynak.}
 {137}{}{Dick, mit csinálsz te itt?}
 {138}{}{Hé, Dick, mi újság a városban?}
-{139}{}{Nem hallottál valami érdekes pletykát?}
+{139}{}{Hallott valami érdekes szóbeszédet?}
 {140}{}{Mit jelent ez az Ad-ta-baszta?}
-{141}{}{Mi bajod van?}
-{142}{}{Mi történt veled?}
-{143}{}{Itt dolgozgatok a Morningstarnál. Mindig szükségük van kétkezi munkásokra.}
-{144}{}{Akkor hadd kérdezzek valami mást.}
-{145}{}{Értem. Hát, csak ennyit akartam tudni. Viszlát!}
+{141}{}{Mi a baja?}
+{142}{}{Mi történt önnel?}
+{143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
+{144}{}{Hadd kérdezzek valami mást akkor.}
+{145}{}{Értem. Csak ennyi érdekelt volna. Viszlát!}
 {146}{}{Hát mostanában nem sokat, kivéve azokat a dög Wanamingókat.}
 {147}{}{Milyen mongolokat? Mi a franc az?}
-{148}{}{Hát persze. Hadd kérdezzek valami mást.}
-{149}{}{Csak ennyit akartam tudni. Viszlát!}
+{148}{}{Hát persze. Kérdezhetnék valami mást?}
+{149}{}{Nos, ez minden, amit tudni akartam. Viszlát!}
 {150}{}{Atha-baska, Athabaska. Nem olyan átkozottul nehéz azt kimondani! Kriminális. Ez a gúnynevem. Akarod tudni, hogy ragadt rám?}
-{151}{}{Öö, nem igazán. Inkább kérdeznék valami mást.}
-{152}{}{Azt hiszem, csak ennyit akartam tudni. Viszlát!}
+{151}{}{Hát, nem igazán. Hadd kérdezzek valami mást.}
+{152}{}{Azt hiszem, ez minden, amit tudni akartam. Viszlát!}
 {153}{}{Jójézus! Betegebb vagyok, mint egy kutya és már napok óta csak üvöltök a fájdalomtól... mióta azt az utolsó adag Jetet bevettem. Valamit elszúrhattak azzal a szállítmánnyal. Ha túlélem, én ugyan nem nyúlok többet a Jethez!}
-{154}{}{Rosszul hangzik. Viszont kérdeznék még valamit.}
-{155}{}{Értem. Azt hiszem, csak ezt akartam tudni. Viszlát!}
+{154}{}{Nem hangzik túl jól. De hadd kérdezzek valami mást.}
+{155}{}{Értem. Csak ennyi érdekelt volna. Viszlát!}
 {156}{}{Megtettem. Egyelõre nem érzem magam túl jól, de tudom, hogy jobb lesz nélküle.}
-{157}{}{Mit beszélsz? Mi történt?}
+{157}{}{Miért? Mi történt?}
 {158}{}{Azt mondod, még sosem hallottál a Wanamingókról?}
 {159}{}{Öö, nos, izé. Persze, hogy hallottam a Wanamingókról. Kérdeznék valami mást, ha nem gond.}
-{160}{}{Nem, soha nem hallottam róluk. Felvilágosítanál?}
+{160}{}{Nem, még sosem hallottam ilyesmirõl. Mesélne róla?}
 {161}{}{Soha nem hallottam ilyen Wanya-minya-monyókról és nincs idõm arra, hogy a meséidet hallgassam. Viszlát!}
 {162}{}{Egyszerûen abbahagytam - ennyi történt. Soha többé nem nyúlok a Jethez. Az az utolsó adag majdnem megölt. Utána már nem is kívántam annyira, és érdekes módon azóta sem.}
-{163}{}{Hát jó neked! Kérdeznék még valamit.}
-{164}{}{Érdekes dolgok vannak. Hát, akkor hagylak gyógyulni. Viszlát!}
+{163}{}{Hát, sok sikert. Hadd kérdezzek valamit!}
+{164}{}{Ez érdekes. Mindenesetre jobbulást kívánok. Viszlát!}
 {165}{}{Egyesek szerint már az atom-, hidrogén- és az összes többi franc-tudja-milyen bomba elõtt itt voltak. Vannak, akik szerint gén-eti-kailag tenyésztették ki õket, fegyvernek. Oszt vannak, akik szerint egy tök más bolygóról valók.}
 {166}{}{Mik "ezek" a lények? Nem érdekel, honnan jöttek, csak az, hogy micsodák!}
 {167}{}{Ja, persze. Na, eleget hallottam, öregfiú. Viszlát!}
@@ -76,7 +75,7 @@
 {174}{}{Ki az az Ascorti?}
 {175}{}{Számomra ez túl veszélyesnek hangzik. Viszlát!}
 {176}{}{Hát most nem igazán. Te nem figyelsz oda, amit mondok? Tele van azokkal a rohadt Wanamingókkal. Persze mindjárt más lenne a leányzó fekvése, ha valaki kipucolná a helyet. Tán nem is kéne mindet kinyírni!}
-{177}{}{Hova akarsz kilyukadni ezzel?}
+{177}{}{Ezt most hogy kell értenem?}
 {178}{}{Milyen leányzóról beszélsz? Nõhiányod van, vagy mi? Na, hagylak álmodozni! Viszlát!}
 {179}{}{Van ott lenn néhány cucc, amiért a Morningstar és a Kokoweef bányák tulajdonosai élbõl szép kis summát fizetnének.}
 {180}{}{Miféle cuccról van szó?}
@@ -103,22 +102,22 @@
 {201}{}{Azt hiszem, már mindent hallottam a Wanamingókról. Kérdeznék valami mást.}
 {202}{}{Majd óvatos leszek egy ilyen Wanda Mentollal. Viszlát!}
 {203}{}{Ascorti a polgármester. Övé az Ascorti Ásza a belvárosban. Mindenféle cuccokat ad és vesz. Körülötte forog minden.}
-{204}{}{Ascorti Redding polgármestere. Mondjuk nem igazán tudom, merre lehet. Jó ideje nem láttam.}
-{205}{}{Inkább valami más érdekelne.}
+{204}{}{Ascorti Redding polgármestere. De nem tudom, most merre lehet. Nem láttam már egy ideje.}
+{205}{}{Hadd kérdezzek valami mást.}
 {206}{}{Ó, rendben. Halljuk a történet folytatását!}
-{207}{}{Azt hiszem, eleget hallgattalak. Viszlát!}
+{207}{}{Azt hiszem, épp eleget hallgattam magát. Viszlát!}
 {208}{}{A Jet egy kis New Reno-i meglepi. Épp csak annyit szedek be, hogy kisimítsa az idegeimet.}
-{209}{}{Kérdeznék valami mást.}
-{210}{}{Érdekes. Kösz és viszlát!}
+{209}{}{Feltennék még kérdéseket.}
+{210}{}{Érdekfeszítõ. Köszönöm, és viszontlátásra!}
 {211}{}{A Jet maga az élet, haver. Ha nem repülhetnék, nem is érezném magam jól többé. Neked is szerezned kellene egy keveset.}
-{212}{}{Kérdeznék valami mást.}
-{213}{}{Érdekes. Kösz és viszlát!}
+{212}{}{Feltennék még kérdéseket.}
+{213}{}{Érdekfeszítõ. Köszönöm, és viszontlátásra!}
 {214}{}{Jet nélkül nem tudnék ellenni. Mostanában mindenki repül. Ki kell próbálnod, csak hogy érezd! A francba, nem érzem magam olyan jól vele, mint amennyire szarul érzem magam nélküle.}
-{215}{}{Kérdeznék valami mást, oké?}
-{216}{}{Érdekes. Kösz és viszlát!}
+{215}{}{Feltennék még kérdéseket.}
+{216}{}{Érdekfeszítõ. Köszönöm, és viszontlátásra!}
 {217}{}{Barátom, a Jet félresikerült dolog. Akik használják, olyan betegek lesznek, mint akik menten meghalnak. Azt hiszem, én már jobban... (összegörnyed és szárazon öklendezik egy kicsit) ...elnézést. Mondd csak, nem beszélhetnénk valami másról?}
-{218}{}{De, bocsánat. Inkább kérdezek valami mást.}
-{219}{}{Érdekes. Kösz és viszlát!}
+{218}{}{Valóban? Nos, kérdezhetnék még valamit?}
+{219}{}{Érdekfeszítõ. Köszönöm, és viszontlátásra!}
 {220}{}{Soha többé nem akarok hallani arról az átkozott Jetrõl! Az az anyag megöl téged! Itt dögöljek meg, ha nem rosszabb, mint a radskorpió-méreg. Nem is értem, hogy lehettem oda azért az anyagért. Legutoljára... azt hittem, végem.}
-{221}{}{Mit szólnál, ha rátérnénk valami másra?}
-{222}{}{Érdekes. Köszi és viszlát!}
+{221}{}{Feltennék még kérdéseket.}
+{222}{}{Érdekfeszítõ. Köszönöm, és viszontlátásra!}

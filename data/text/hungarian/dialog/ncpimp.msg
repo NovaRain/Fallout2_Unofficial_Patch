@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy strici a sok közül.}
 {150}{}{A férfi egész jólöltözött. A ruhája visszaveri a környezõ fényeket, szinte elvakítja az embert.}
 {151}{}{A fickónak olyan harsány ruhája van, hogy majd kiüti a szemed.}
@@ -13,14 +12,14 @@
 {221}{}{A nõ lenyomja az Enklávét, és máris azt hiszi, hogy övé a világ... meg a tököm.}
 {222}{}{Egy ilyen szexi Enklávé-gyakó nõ, mint te, egy RAHEDLI pénzt kereshetne ebben a városban...}
 {230}{}{Asszony, nehogy lenyeld a pénzem...}
-{231}{}{Ezek a turisták közel sem olyan kanosak, mint amennyire szeretném.}
-{232}{}{Szajha, meg ne tudjam, hogy lenyúlsz...}
+{231}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
+{232}{}{Szajha, nehogy lenyúlj...}
 {233}{}{Jól van, ne állj meg! Séta tovább!}
 {234}{}{Valami akcióra vágysz?}
 {235}{}{Hogyhogy nem cipeled el valamelyik csajomat filmezni, tesó?}
 {236}{}{Ha igazi partnert akarsz, próbáld ki az egyik csajomat a filmedben.}
 {237}{}{Tutajos kell? Csak szólj!}
-{238}{}{Ezek nem rabszolgák, hanem profik, hallod-e...}
+{238}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
 {239}{}{Mikor vonsz be az üzletbe, mozisztár úr?}
 {240}{}{Engedd, hogy a kamerák elõtt nyomuljak veled. Megmutatom, milyen az igazi sztár!}
 {241}{}{Én is megcsinálom, amit te, ugyanazt a csajt fektetem le, mint te, ráadásul jobban meg lesz velem elégedve.}
@@ -29,11 +28,11 @@
 {244}{}{Hallgass rám, ember! Két évig én voltam az év stricije.}
 {245}{}{Nem értem, hogy lettél sztár...}
 {260}{}{Asszony, nehogy lenyeld a pénzem...}
-{261}{}{A turisták közel sem annyira kanosak, mint szeretném.}
-{262}{}{Szajha, meg ne tudjam, hogy lenyúlsz...}
+{261}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
+{262}{}{Szajha, nehogy lenyúlj...}
 {263}{}{Jól van, ne állj meg! Séta tovább!}
-{264}{}{Próbáld ki azt a pihe-puha feneket!}
-{265}{}{Bébi, hadd tapizzam meg azt a kis pihe-puha fenekedet.}
+{264}{}{Még az a pihe-puha fenék!}
+{265}{}{Bébi, gyere már közelebb, hadd simizzem már meg azt a pihe-puha fenekedet!}
 {266}{}{::Fütyül::}
 {267}{}{::Szájával a "francba" szót formázza::}
 {268}{}{Fogsz mostanában táncolni a kaszinóban, édes húsom?}
@@ -45,7 +44,7 @@
 {274}{}{Fenébe, az ilyen dögös testet be kéne tiltani!}
 {275}{}{Asszony, kész csoda, hogy az aszfalt nem olvad meg az ilyen lábak alatt.}
 {276}{}{Gyere, dolgozz nekem, asszony! Két éven át én voltam az év stricije!}
-{277}{}{Bébi, had nyomkodjam már meg a kis pihe-puha fenekedet!}
+{277}{}{Bébi, hadd simizzem már meg azt a pihe-puha fenekedet!}
 {278}{}{Francbaaaa...}
 {290}{}{Asszony, nehogy lenyeld a pénzem...}
 {291}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
@@ -60,7 +59,7 @@
 {300}{}{Csak szójjá, én majd vigyázok rád, tesó!}
 {301}{}{Rám számíthatsz, tesó.}
 {302}{}{Te vagy itt a menõ, a NAGY menõ, hallod-e!}
-{303}{}{Hallgass rám, ember! Két éven át én voltam itt az év stricije.}
+{303}{}{Hallgass rám, ember! Két évig én voltam az év stricije.}
 {304}{}{Figyuzzatok, itt jön a Gengszter...}
 {305}{}{Itt jön a Nagy ember...}
 {320}{}{Asszony, nehogy lenyeld a pénzem...}
@@ -68,10 +67,10 @@
 {322}{}{Szajha, nehogy lenyúlj...}
 {323}{}{Ki ez a szééééépséges hölgy, akit lát a szemem?}
 {324}{}{Francba, a nõ, akit szeretek, egy tõzsgyökeres bûnözõ.}
-{325}{}{Jól nézel ki, asszony, nagyon jól!}
+{325}{}{Jól nézel ki, húgi, nagyon jól.}
 {326}{}{Szép öltönyöd van, asszony!}
 {327}{}{Haláli fosatósan öltözködsz, tetszik!}
-{328}{}{Csak szójjá, én majd vigyázok rád, húgi!}
+{328}{}{Csak szólj, én majd vigyázok rád, húgom!}
 {329}{}{Rám számíthatsz, húgi.}
 {330}{}{Tetszik a hollófekete hajad, meg a gengszter-stílusod, asszony!}
 {350}{}{Asszony, nehogy lenyeld a pénzem...}
@@ -113,20 +112,20 @@
 {415}{}{Hela, Myron! Mizújs?}
 {416}{}{Hela, Myron! Nem kell egy kis társaság éjszakára? Van egy új csajom számodra...}
 {417}{}{Hé srácok, csak nem... hancúrozni jöttetek?}
-{418}{}{Sehol nem találni édesebb lánykákat.}
+{418}{}{Sehol nem találsz édesebb lánykákat.}
 {419}{}{Úgy csillogok, hogy Reno elbújhat.}
 {420}{}{Nagyon úgy tûnik, hogy fellángolt a tûz a lábatok közt.}
 {421}{}{Gyertek, barátaim! Olyan nõket kaptok, hogy egész éjszaka ellesztek velük.}
-{422}{}{Ha van pénzetek, megízlelhetitek a mennyországot.}
+{422}{}{Ha van pénzed, megízlelheted a mennyországot.}
 {423}{}{Myron, aztán meg ne tudjam, hogy úgy cidáztatod a csajaimat, hogy beszóljanak érte!}
 {424}{}{Myron, aztán meg ne tudjam, hogy erõszakosan toszod seggbe a csajaimat!}
 {425}{}{Aztán meg ne tudjam, Myron, hogy durván cumiztatod a csajaimat!}
 {426}{}{Aztán meg ne tudjam, Myron, hogy megint kipróbálsz valami agyament pózt!}
 {427}{}{Aztán meg ne tudjam, Myron, hogy rászarsz a nõim mellére!}
 {428}{}{Hela, Myron! Nem kell egy barát éjszakára? Volna itt egy édes darab.}
-{429}{}{Ezek nem rabszolgák, hanem profik, hallod-e!}
+{429}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
 {430}{}{Myron! Barátom, még mindig tartozol a múlt hétrõl!}
-{431}{}{Szerinted a csajom átszív egy golflabdát egy gumitömlõn? Hát hogy a francba ne!}
+{431}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {432}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
 {433}{}{A csapatomban megtalálod a kincsek-kincsét.}
 {434}{}{Mit csinálsz te itt az istállón kívül, Myron? Tehetségkutatásba fogtál?}
@@ -136,10 +135,10 @@
 {442}{}{Szajha, nehogy lenyúlj...}
 {443}{}{A múltkor is elkaptam Myront, amikor valami agyament pózt próbált ráerõltetni a csajomra.}
 {444}{}{Ha megtudom, hogy Myron megint a csajom mellére szarik...}
-{445}{}{Kell egy barát ma éjszakára, testvér? Tudok egy nagyon édeset.}
-{446}{}{Ezek nem rabszolgák, hanem vér profik, hallod-e!}
+{445}{}{Kéne egy barát éjszakára, testvérem? Van itt egy édes darab.}
+{446}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
 {447}{}{Úgy csillogok, hogy Reno elbújhat.}
-{448}{}{Sehol nem találni édesebb lánykákat.}
+{448}{}{Sehol nem találsz édesebb lánykákat.}
 {449}{}{Ha van pénzed, megízlelheted a mennyországot.}
 {450}{}{Jobb lesz, ha nem itt strichelteted a kurvádat!}
 {451}{}{Ha meglátom, hogy a kurvádat viszi valaki, elbeszélgetünk!}
@@ -163,14 +162,14 @@
 {479}{}{Kéne egy barát éjszakára, hajcsár? Van itt egy édes darab.}
 {480}{}{Ezek jobbak, mint a rabszolgák. Ezek profik, hallod-e!}
 {481}{}{Van valami árud, hajcsár? Kéne egy kis frissítés.}
-{482}{}{Szerinted a csajom átszív egy golflabdát egy gumitömlõn? Hát hogy a francba ne!}
+{482}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {483}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
 {484}{}{A csapatomban megtalálod a kincsek-kincsét.}
-{485}{}{Hajcsár, ha valamelyik csajomnak lába kél, ki fogod fizetni! Értve vagyok?}
+{485}{}{Hajcsár, ha a csajaim közül egynek is lába kél, ki fogod fizetni. Értve vagyok?}
 {486}{}{Hallgass rám, hajcsár! Két évig én voltam az év stricije.}
-{487}{}{Van itt egy csaj, akit mindenképpen ki kéne próbálnod. Igazi pihe-puha feneke van.}
+{487}{}{Van itt egy csaj, akit mindenképpen ki kéne próbálnod, hajcsár. Igazi pihe-puha feneke van.}
 {488}{}{Nem akarok rabszolgákat vásárolni, de késõbb lehet, hogy eladnék párat.}
-{489}{}{Az erõszakos cidáztatást mellõzd, hajcsár!}
+{489}{}{Nehogy úgy cumiztass, hajcsár, hogy a nõim panaszkodjanak!}
 {490}{}{Ha elkaplak, hajcsár, hogy a csajomon valami agyament pózt próbálsz ki, lesz nemulass!}
 {491}{}{Az a faszkalap-gyökér Myron a nõim felét úgy cidáztatta meg, hogy elegük lett belõle.}
 {492}{}{Ha Myron megint rászarik a nõim mellére, elgyepálom, mint a répát.}
@@ -195,7 +194,7 @@
 {520}{}{Asszony, nehogy lenyeld a pénzem...}
 {521}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
 {522}{}{Szajha, nehogy lenyúlj...}
-{523}{}{Valami jó kis akcióra vágysz?}
+{523}{}{Valami akcióra vágysz?}
 {524}{}{Csak nem... hancúrozni jöttél?}
 {525}{}{Sehol nem találsz édesebb lánykákat.}
 {526}{}{Úgy csillogok, hogy Reno elbújhat.}
@@ -205,7 +204,7 @@
 {530}{}{Kéne egy barát éjszakára, testvérem? Van itt egy édes darab.}
 {531}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
 {532}{}{Itt vannak a legjobb hölgyek egész New Renóban. Csak kérned kell... meg persze legyen pénzed.}
-{533}{}{Szerinted a csajom átszív egy golflabdát egy gumitömlõn? Hát hogy a francba ne!}
+{533}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {534}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
 {535}{}{A csapatomban megtalálod a kincsek-kincsét.}
 {536}{}{Hallgass rám, ember! Két évig én voltam az év stricije.}

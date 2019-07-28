@@ -1,4 +1,3 @@
-# Dialog Editor last position: 8
 {100}{}{Megérkeztél a New Renót körülvevõ sivatagba.}
 {110}{}{Egy rakás ládát látsz, melyekbe vegyi anyagokat pakoltak.}
 {120}{}{Egy rakás ládát látsz, melyekbe vegyi anyagokat pakoltak. Nem tudod õket beazonosítani, de a csomagolás *szerfelett* gondos.}
@@ -13,7 +12,8 @@
 {205}{}{*Zztttt* Azt tudja, mi történik abban az esetben, ha a vegyi anyagok minõsége nem üti meg a kívánt mértéket? *Zzzttt*}
 {206}{}{Hogyne, természetesen. Ööö... és maguk hozták a fényhozókat...?}
 {207}{}{*Zztttt* A lézerfegyverek a rakodóterünkben vannak. *Zzzttt*}
-{208}{}{*Zztttt* A kooperáció biztonsága érdekében az élesítõ kódokat a vegyi anyagok átpakolása után fogjuk továbbítani. *Zzzttt*}
+{208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
+ once the chemicals are loaded. *Zzzttt*}
 {209}{}{Ööö... hát... akkor rendben. Rakodás indul, fiúk...}
 {210}{}{*Zztttt* Megállni! *Zztttt*}
 {211}{}{*Zztttt* A rakományt mi pakoljuk át. *Zztttt*}
@@ -23,7 +23,7 @@
 {251}{}{Megölni!}
 {252}{}{Úgy tûnik, valaki kémkedik utánunk...!}
 {253}{}{*Zztttt* Küldetés lefújva! A rakomány vészhelyzeti kódját aktiváltam. *Zztttt*}
-{254}{}{*Zztttt* Küzdjék le az ellenséges erõket, aztán térjenek vissza a bázisra! *Zztttt*}
+{254}{}{*Zztttt* Küzdjék le az ellenséges erõket, aztán irány a bázis! *Zztttt*}
 {300}{}{Nem kéne közel menni azokhoz a páncélozott faszikhoz! Mindent szecskává aprítanak.}
 {301}{}{Menj vissza a helyedre!}
 {302}{}{Ne izegj-mozogj... azok a páncélos fickók nem nagyon szeretik ezt!}
@@ -35,9 +35,9 @@
 {401}{}{Ja}
 {402}{}{Elpályázol}
 {403}{}{Beszállsz a Gépmadárba.}
-{404}{}{Békén hagyod.}
+{404}{}{Békén hagyom.}
 {450}{}{[Az ajtó lezáródik mögötted és a Gépmadár felszáll! Az ajtó nem nyitható!]}
 {451}{}{Ajjaj}
-{452}{}{Bakker...}
+{452}{}{Ó, a francba...}
 {500}{}{A ládák csupa nehézfém tartállyal vannak tele. A csomagolás gondosságából ítélve azt gyanítod, hogy valami veszélyes vegyianyagról lehet szó.}
 {550}{}{A helyzet kevéssé alkalmas arra, hogy beszélgetésbe elegyedj.}

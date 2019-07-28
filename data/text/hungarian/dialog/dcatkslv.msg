@@ -1,4 +1,11 @@
-# Dialog Editor last position: 38
+{100}{}{A férfi eléggé erõs és éber.}
+{101}{}{A testalkatát meghazudtolva eléggé erõsnek látszik.}
+{200}{}{Ez a férfi rettenetesen sovány, de elég dühös egyúttal.}
+{201}{}{Ez az ember elég erõsnek látszik.}
+{202}{}{Sebesen szedi a lábát.}
+{210}{}{Ez a nõ olyan benyomást kelt, mintha sosem fürdött volna életében.}
+{211}{}{Erõs harcosnak látszik.}
+{212}{}{Ez a férfi szemlátomást nem sok vizet zavar.}
 {245}{}{Csendet! Közel vannak.}
 {246}{}{Ölni rossz emberek.}
 {247}{}{Nem vinni el család tõlem.}
@@ -11,14 +18,6 @@
 {263}{}{Minket nem fognak rabul ejteni!}
 {264}{}{Azok a hajcsárok megfizetnek ezért!}
 {265}{}{Egyetlen hajcsár sem viheti el a családom.}
-{100}{}{A férfi eléggé erõs és éber.}
-{101}{}{A testalkatát meghazudtolva eléggé erõsnek látszik.}
-{200}{}{Ez a férfi rettenetesen sovány, de elég dühös egyúttal.}
-{201}{}{Ez az ember elég erõsnek látszik.}
-{202}{}{Sebesen szedi a lábát.}
-{210}{}{Ez a nõ olyan benyomást kelt, mintha sosem fürdött volna életében.}
-{211}{}{Erõs harcosnak látszik.}
-{212}{}{Ez a férfi szemlátomást nem sok vizet zavar.}
 {300}{}{Te most meghalsz!}
 {301}{}{Én öl!}
 {302}{}{Te nem bánt család!}

@@ -1,7 +1,4 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
 {200}{}{Prospettiva: buona.}
 {201}{}{Prospettiva: non cosi' buona.}
 {202}{}{La mia risposta e' no.}
@@ -9,10 +6,10 @@
 {204}{}{Puoi starne certo.}
 {205}{}{Riprova piu' tardi.}
 {206}{}{Molto probabilmente.}
-{207}{}{Al momento non posso fare una previsione.}
+{207}{}{Al momento non posso fare previsioni.}
 {208}{}{Si'.}
 {209}{}{Si'. Assolutamente.}
-{210}{}{Meglio non dirtelo, per adesso.}
+{210}{}{Per adesso preferisco non dirtelo.}
 {211}{}{Certamente.}
 {212}{}{Ho molti dubbi.}
 {213}{}{E' assolutamente cosi'.}
@@ -34,8 +31,7 @@
 {229}{}{Feargus era contrario all'idea di mettermi nel gioco. E' un brutto cattivone.}
 {230}{}{Il tuo punteggio e' 23 su 100. Ne hai di strada da fare ancora...}
 {231}{}{Scott Everts sospira sempre quando vede quanti oggetti da raccogliere ci sono nel gioco.}
-# 9 or greater luck
-{232}{}{Guarda nel bagno degli uomini al pian terreno del Casino' dei Mordino a New Reno.}
+{232}{}{Guarda nel bagno degli uomini al pian terreno del Casino dei Mordino a New Reno.}
 {233}{}{Qualcuno ha sotterrato del denaro sotto la croce con la scritta 'Trash' che si trova sul Golgotha.}
 {234}{}{Torna a parlare con Padre Tully a New Reno una volta terminato il gioco.}
 {235}{}{Sai, puoi anche usarmi come arma.}

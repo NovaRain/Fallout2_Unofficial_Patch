@@ -1,11 +1,9 @@
-{100}{}{A férfi szabványos katonai harci páncélt visel.}
+{100}{}{You see a man dressed in standard military combat armor.}
 {101}{}{Egészségesnek tûnik, de kicsit zavarodott.}
 {102}{}{Ó, a fejem!}
 {103}{}{Ki vagy te?}
-{104}{}{Aggr!}
+{104}{}{Ug!}
 {105}{}{É-én Dobbs... õrvezetõ vagyok, Elsõ Hadosztály.}
-#õ azért private first class volt, nem csak sima private (bass)
-
 {106}{}{Aztán el tudnád-e mondani nekem, hogy kerültél ide?}
 {107}{}{Viszlát!}
 {108}{}{Persze... csatában voltam. Igen, egy ütközetben. Csak a fegyverek zaját és a robbanásokat hallottam minden irányból. Emberek haldokoltak. Rémült voltam, de tovább kellett harcolnom. Aztán jött az a vakító fény...}
@@ -19,16 +17,11 @@
 {116}{}{Viszlát!}
 {117}{}{Aztán itt ébredtem fel. Most mennem kell! Vissza kell térnem az egységemhez.}
 {118}{}{Viszlát!}
-
 {200}{}{Hol vagyok?}
 {201}{}{Fáj a fejem.}
 {202}{}{Miért vagyok csupa ragacs?}
-
 {300}{}{Újra csatlakoznom kell az egységemhez!}
 {301}{}{Ó, ne! Engedély nélküli eltávozással fognak vádolni!}
 {302}{}{Merre van a frontvonal?}
 {303}{}{Ezt érted teszem, Jonny.}
-
 {400}{}{Dobbs közlegény elsõ kézbõl tapasztalja meg a Poszt-Kriogén Szindróma áldatlan hatását...}
-#Ennel a mondatnal robban fel szegeny :) (bass)
-

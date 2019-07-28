@@ -22,13 +22,13 @@
 {2100}{}{Griglia d'Uscita}
 {2200}{}{Griglia d'Uscita}
 {2300}{}{Griglia d'Uscita}
-{2400}{}{Torcia}
+{2400}{}{Torcia Chimica}
 {2500}{}{Granata}
 {2600}{}{Roccia}
 {2700}{}{Esplosione}
 {2800}{}{Esplosione}
 {2900}{}{Esplosione}
-{3000}{}{Molotov}
+{3000}{}{Molotov Cocktail}
 {3100}{}{Griglia d'Uscita}
 {3200}{}{Griglia d'Uscita}
 {3300}{}{Griglia d'Uscita}
@@ -49,6 +49,6 @@
 {4701}{}{}
 {4800}{}{Ka-Pow!}
 {4801}{}{}
-{4900}{}{Spina di una Pianta}
+{4900}{}{Spina di Pianta}
 {4901}{}{}
 {5000}{}{Doppia Sfera al Plasma}

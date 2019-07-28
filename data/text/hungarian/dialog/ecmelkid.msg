@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Kis poronty.}
 {101}{}{Õ az ifjabb Melchior.}
 {150}{}{Mosolygós, nagyszemû kölyök.}

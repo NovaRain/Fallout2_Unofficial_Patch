@@ -1,25 +1,12 @@
-#
-# Messages for Prototypes
-#
-# strings
-#
 {10}{}{<None>}
-
-#
-# Material Types
-#
 {100}{}{Üveg}
 {101}{}{Fém}
 {102}{}{Mûanyag}
 {103}{}{Fa}
-{104}{}{Por}
+{104}{}{Piszok}
 {105}{}{Kõ}
 {106}{}{Beton}
 {107}{}{Bõr}
-
-#
-# Item Types
-#
 {150}{}{Páncél}
 {151}{}{Konténer}
 {152}{}{Drog}
@@ -27,20 +14,12 @@
 {154}{}{Lõszer}
 {155}{}{Egyéb tárgy}
 {156}{}{Kulcs}
-
-#
-# Scenery Types
-#
 {200}{}{Portál}
 {201}{}{Lépcsõ}
 {202}{}{Lift}
 {203}{}{Létra alja}
 {204}{}{Létra teteje}
 {205}{}{Tipikus táj}
-
-#
-# Damage Code Types
-#
 {250}{}{normál}
 {251}{}{lézer}
 {252}{}{tûz}
@@ -48,11 +27,7 @@
 {254}{}{elektromos}
 {255}{}{emp}
 {256}{}{robbanás}
-
-#
-# Caliber Types for weapons
-#
-{300}{}{Nincs}
+{300}{}{Semmilyen.}
 {301}{}{Rakéta}
 {302}{}{Lángszóró üzemanyag}
 {303}{}{C energiacella}
@@ -71,90 +46,54 @@
 {316}{}{4.7mm hüvelynélküli}
 {317}{}{HN szög}
 {318}{}{7.62mm}
-
-#
-# Race Types
-#
 {350}{}{Fehér}
 {351}{}{Afrikai}
-
-#
-# Body Types
-#
 {400}{}{Kétlábú}
 {401}{}{Négylábú}
 {402}{}{Robot}
-#
-# Kill Types names
-#
-# Note: These were moved to 1450+ to handle new ones!
-{450}{}{Férfiak}
-{451}{}{Nõk}
-{452}{}{Gyerekek}
-{453}{}{Szupermutánsok}
-{454}{}{Ghoulok}
-{455}{}{Brahminok}
-{456}{}{Radskorpiók}
-{457}{}{Patkányok}
-{458}{}{Lebegõk}
-{459}{}{Kentaurok}
-{460}{}{Robotok}
-{461}{}{Kutyák}
-{462}{}{Sáskák}
-{463}{}{Halálkarmok}
-{464}{}{Növények}
-#{465}{}{}
-#
-# Kill type info descriptions
-#
-{465}{}{Ez a szám mutatja, hogy eddig hány férfit öltél meg kalandozásaid során.}
-{466}{}{This line shows the number of female humans you have killed during the course of your adventures.}
-{467}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
-{468}{}{The number of Super Mutants you have slain during the course of your adventures.}
-{469}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
-{470}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}
-{471}{}{The number of mutated Radscorpions that you have put to death during your adventure.}
-{472}{}{The number of rats you have killed.  Includes all members of the rat family.}
-{473}{}{This is the number of mutant Floaters that you have put to death.}
-{474}{}{Your tally of dead mutant Centaurs.}
-{475}{}{This is the number of robots that you have destroyed or dismantled.}
-{476}{}{The total number of dogs that you have sent to the great kennel in the sky.}
-{477}{}{This line shows the total number of dead Manti, or large mutated mantis-like insects, that you have squashed so far.}
-{478}{}{This line shows that you have slain the Deathclaw, and any of his spawn.}
+{450}{}{Férfi}
+{451}{}{Nõ}
+{452}{}{Gyerek}
+{453}{}{Super mutants}
+{454}{}{Ghoul}
+{455}{}{Brahmin}
+{456}{}{Radskorpió}
+{457}{}{Patkány}
+{458}{}{Lebegõ}
+{459}{}{Kentaur}
+{460}{}{Robot}
+{461}{}{Kutya}
+{462}{}{Sáska}
+{463}{}{Halálkarom}
+{464}{}{Növény}
+{465}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
+{466}{}{Ez a szám mutatja, hány nõt öltél meg a kalandozásaid során.}
+{467}{}{Ez a szám mutatja, hány gyereket öltél meg. Te gyerekgyilkos!}
+{468}{}{Azon szupermutánsok száma, melyeket kalandozásaid közben mészároltál le.}
+{469}{}{Ez a szám mutatja, hány férfi és nõ ghoult gyilkoltál meg eddig.}
+{470}{}{Ez a szám mutatja, hány brahmint (mutáns tehén) vágtál le utazásaid során.}
+{471}{}{Az általad elpusztított radskorpiók száma.}
+{472}{}{Az eddig elpusztított patkányok száma, beleértve a patkányok valamennyi fajtáját .}
+{473}{}{Ez a szám mutatja, hány mutáns lebegõt pusztítottál el.}
+{474}{}{Ennyi mutáns kentaurt tettél el láb alól.}
+{475}{}{Ez a szám mutatja, hány robotot semmisítettél meg vagy szereltél szét.}
+{476}{}{Azon kutyák száma, amiket te küldtél fel a hatalmas égi kutyaólba.}
+{477}{}{Ez a szám mutatja, hány sáskát, azaz hány sáska-szerû mutáns rovart tapostál el.}
+{478}{}{Ez a szám mutatja, hány halálkarmot és halálkarom kölyköt öltél meg.}
 {479}{}{The number of plants whose quest for sunlight you have terminated.}
-
-#
-# Use text
-#
 {480}{}{%s.}
-
-#
-# Use Container text
-#
 {485}{}{%s átkutatása.}
 {486}{}{Az elõtted lévõ %s becsukása nem okozott gondot.}
-{487}{}{Zárva van.} # new
-
-#
-# Look text
-#
+{487}{}{Zárva van.}
 {490}{}{%s.}
 {491}{}{%s maradványai.}
 {492}{}{%s maradványai.}
 {493}{}{Nem látsz semmi különöset.}
-
-#
-# Examine text
-#
 {500}{}{Halott}
 {501}{}{Majdnem halott}
 {502}{}{Súlyosan sebesült}
 {503}{}{Sebesült}
 {504}{}{Sértetlen}
-
-#
-# Examine text messages
-#
 {510}{}{VÉ Mód.: %d}
 {511}{}{SE Mód.: %d}
 {512}{}{Sebz. Mód.: %d/%d}
@@ -165,42 +104,31 @@
 {522}{}{%s.}
 {523}{}{%s.}
 {524}{}{%s.}
-# (note: hps are short for hit-points)
 {525}{}{%s: Az Életpontjai száma %d/%d.}
-# (note: this is for guns that have ammo)
 {526}{}{benne %d/%d %s.}
-{530}{}{és sérült végtagjai vannak.}  # These append to lines 500-504
+{530}{}{és sérült végtagjai vannak.}
 {531}{}{de sérült végtagjai vannak.}
 {532}{}{és sérült végtagjai vannak.}
 {533}{}{de sérült végtagjai vannak.}
-# (note: hps are short for hit-points)
 {535}{}{Az Életpontjai száma %d/%d}
 {536}{}{Az Életpontjai száma %d/%d}
 {537}{}{Az Életpontjai száma %d/%d}
 {540}{}{%d fontot nyom.}
 {541}{}{%d fontot nyom.}
 {544}{}{, }
-{545}{}{.}
+{545}{}{ vagyok.}
 {546}{}{. Fegyvere %s.}
 {547}{}{. Fegyvere %s, benne %d/%d %s.}
 {548}{}{Az autó most épp nem mûködik.}
 {549}{}{Az autóban %d%% üzemanyag van.}
-
-#
-# Examine text error messages
-#
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
-
-#
-# Use text messages
-#
 {580}{}{Használod: %s.}
 {581}{}{Használod a %s-t a %s-n.}
-{582}{}{Ez nem csinál semmit.}
+{582}{}{Ezzel nem jutottál semmire.}
 {583}{}{Megdöbbensz, mikor észreveszed, hogy már meghalt.}
 {584}{}{Ahogy lenyúlsz, észreveszed, hogy már meghalt.}
-{585}{}{Hát, elkéstél.} # This is relating to a critter being dead.
+{585}{}{Hát, elkéstél.}
 {586}{}{Ez nemigen segít a holtakon.}
 {587}{}{Meggyújtod a fáklyát.}
 {588}{}{A fáklya már ég.}
@@ -209,47 +137,32 @@
 {595}{}{Feltöltöd az autót.}
 {596}{}{Az autó már maximum energián van.}
 {597}{}{Az ajtót elállja valaki.}
-
-#
-# Experience-Point messages
-#
 {620}{}{%d tapasztalati pontot kaptál, mert megölted: %s.}
-{621}{}{%s %d TP-t kaptál.}
-{622}{}{Az ellenség legyõzéséért }  # 622-626 prepend to line 621
-{623}{}{Az ellenség megöléséért }
-{624}{}{Te nyerted a küzdelmet, }
-{625}{}{Az ellenség elpusztításáért }
-{626}{}{Az ellenséget sérülés nélkül gyõzted le, ezért }
-
-#
-# Dialog messages
-#
-{650}{}{[Kész]}
-{651}{}{[Tovább]}
+{621}{}{%s you gain %d experience points.}
+{622}{}{For defeating your enemies,}
+{623}{}{For slaying your opponents,}
+{624}{}{For being victorious in combat,}
+{625}{}{For crushing your enemies,}
+{626}{}{For destroying your enemies without taking a scratch,}
+{650}{}{[DONE]}
+{651}{}{[TOVÁBB]}
 {652}{}{Tovább}
-{653}{}{[Vissza]}
-{654}{}{Vissza}     # changed number from 653
-{655}{}{Folytasd!}    # new
-{656}{}{Ööö...}   # new
+{653}{}{[BACK]}
+{654}{}{Vissza.}
+{655}{}{Vigyázz arra, hogy mit csinálsz,}
+{656}{}{Ööö...}
 {660}{}{Nem látsz odáig.}
 {661}{}{Túl messze van.}
-{670}{}{Oké.}    # F2: Used in PM: CombatAI settings
-{671}{}{Persze.}    # F2: Used in PM: CombatAI settings
-{672}{}{Ahogy akarod.}       # F2: Used in PM: CombatAI settings
-{673}{}{Nem probléma.}  # F2: Used in PM: CombatAI settings
-{674}{}{Megpróbálom.}          # F2: Used in PM: CombatAI settings
-{675}{}{Nem tehetem.}   # F2: Used in PM: CombatAI settings
-{676}{}{Nem hinném, hogy meg tudnám tenni.}   # F2: Used in PM: CombatAI settings
-{677}{}{Vau!}   # F2: Used in PM: CombatAI settings -- RoboDog
-{678}{}{Vuff!}  # F2: Used in PM: CombatAI settings -- RoboDog
-
-#
-# Not Enough AP message
-#
+{670}{}{Oké.}
+{671}{}{Hogyne.}
+{672}{}{Ahogy akarod.}
+{673}{}{Nem probléma.}
+{674}{}{Megpróbálom.}
+{675}{}{Nem tehetem.}
+{676}{}{Nem hinném, hogy meg tudnám tenni.}
+{677}{}{Vau!}
+{678}{}{Vaúú!}
 {700}{}{Nincs elég AP-d.}
-#
-# Book messages
-#
 {800}{}{Elolvastad a könyvet.}
 {801}{}{Semmi újat nem tanultál.}
 {802}{}{Új tudományos ismereteket szereztél.}
@@ -257,9 +170,6 @@
 {804}{}{Új gyógyítási módokat tanultál.}
 {805}{}{Megtanultad, hogyan kezelheted jobban a fegyvereidet.}
 {806}{}{Sokat tanultál a vadonban való túlélésrõl.}
-#
-# Use on messages (and some extra stuff that Jesse needed)
-#
 {900}{}{Az orvosi táskából kifogyott a felszerelés.}
 {901}{}{Az elsõsegély láda kiürült.}
 {902}{}{Ezt harc közben nem csinálhatod.}
@@ -269,11 +179,6 @@
 {910}{}{Az orvosi táskából kifogyott a felszerelés.}
 {911}{}{Nincs több felszerelés az elsõsegély csomagban.}
 {913}{}{Ez a lény nem tud cipelni semmit.}
-
-
-#
-# Kill Types names
-#
 {1450}{}{Férfi}
 {1451}{}{Nõ}
 {1452}{}{Gyerek}
@@ -293,9 +198,6 @@
 {1466}{}{Idegen}
 {1467}{}{Óriáshangya}
 {1468}{}{Csúnya Nagy Fõellenség}
-#
-# Kill type info descriptions
-#
 {1469}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
 {1470}{}{Ez a szám mutatja, hány nõt öltél meg a kalandozásaid során.}
 {1471}{}{Ez a szám mutatja, hány gyereket öltél meg. Te gyerekgyilkos!}

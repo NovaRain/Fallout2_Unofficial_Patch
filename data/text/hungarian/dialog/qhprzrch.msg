@@ -1,24 +1,23 @@
-# Dialog Editor last position: 50
 {100}{}{Egy öltönyös embert látsz. A távolba bámul. Mintha rád nézne, de közben nem fókuszál a tekintete.}
 {101}{}{A szabad világ "feje", az Egyesült Államok elnöke.}
 {102}{}{Egy vékony, ideges, öregedõ embert látsz, aki fáradtabb és kopottabb a saját öltönyénél.}
 {103}{prs1a}{Hé maga! Mit csinál a helyreállítóközponton kívül?}
 {104}{prs1b}{Ismerem magát? Milyen projekten dolgozik?}
 {105}{prs1c}{Kinek képzeli magát, hogy csak úgy betör ide az irodámba?}
-{106}{}{Mi?}
-{107}{}{Nah.}
+{106}{}{Öh?}
+{107}{}{Nehm.}
 {108}{}{Viszlát!}
 {109}{prs2a}{Igen, már értem. A tesztszérum hatása allatt áll. Hadd segítsek! Õrség!}
 {110}{prs2b}{Doktor úr, szerintem ön F.E.V. vírustámadásnak volt kitéve. Szegény pára, majd én segítek! Õrség!}
-{111}{prs2c}{Legyen jó mutáns, és ne mozduljon! Õrség!}
-{112}{}{Oké.}
+{111}{prs2c}{Now be a good mutant and stay put. Guards!}
+{112}{}{OKÉ.}
 {113}{}{Ah - ha. Visz - lát!}
 {114}{}{Egy pillanat!}
 {115}{}{Higgadjon le! Valaki mindjárt ideér.}
 {116}{}{Minden rendben.}
 {117}{}{Francba! Jön már végre valaki hogy elfogja ezt a... személyt?}
 {118}{}{Õrség! Egy idióta van az irodámban ... Nem, nem az alelnök.}
-{119}{prs4}{Üdvözletem. Richardson elnök vagyok, és szerfelett büszke, hogy találkozhatom magával. Ah, 13-as Menedék, amint látom. Felbecsülhetetlenül nagy szolgálatot tett az országának.}
+{119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Ah, Vault 13. You've been doing your country an invaluable service.}
 {120}{}{Elnök? Amúgy ki maga?}
 {121}{}{Szolgálatot tettem volna az országomnak? Mi folyik itt egyáltalán?}
 {122}{}{Azt hiszem, útban a labor felé rossz irányt választottam. Elnézést, uram. Viszlát!}
@@ -39,10 +38,10 @@
 {137}{}{Ha élve akarja elhagyni ezt a szobát, jobban teszi, ha nem hívja az õreit!}
 {138}{prs9}{Ahh... naszóval... biztos vagyok benne, hogy közösen meg tudjuk ezt oldani. Mi jár a fejében?}
 {139}{}{Tudni akarom, mi folyik itt!}
-{140}{}{Csak csöndben le akarok lépni. Ne nyúljon a riasztóhoz, amíg el nem tûnök, különben...}
+{140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
 {141}{}{Eltûnök és magammal viszem túsznak, hogy az embereim biztosan kijussanak.}
 {142}{prs10}{Komolyan gondolja, hogy megfélemlítheti az Egyesült Államok Elnökét?}
-{143}{}{Komolyan bizony.}
+{143}{}{Kételyek nélkül.}
 {144}{}{Talán nem, de azt ajánlom, ne álljon az utamba!}
 {145}{prs11a_a}{Csak hogy tudja, az õröknek parancsuk van, hogy ilyen szituációban lõjenek. Semmi és senki nem veszélyeztetheti a Projektet. Nem venné hasznomat túszként.}
 {146}{prs11b}{Ha megpróbálja, az õreim azonnal lelövik a parancsuk szerint. Semmi és senki nem veszélyeztetheti a Projektet. Én maradok. Nos, akkor lelõ vagy sem?}
@@ -55,7 +54,7 @@
 {153}{}{Hullának akarom látni.}
 {154}{prs13}{Oké, oké, nem vitatkozom. Csak itt ülök, nyugisan. Ööö, öh, öröm volt találkozni magával. Viszlát!}
 {155}{}{Ez így túl könnyû. Mielõtt elmegyek, tudni akarom, mit csinálnak itt.}
-{156}{}{Vigyázzon magára!}
+{156}{}{Vigyázz magadra!}
 {157}{}{Örülök, hogy megismerhettem, Elnök úr. Viszlát!}
 {158}{prs14}{Ahh. Ööö... Õrség? Õrség!}
 {159}{}{Elnök úr, jó éjszakát!}
@@ -63,7 +62,7 @@
 {161}{}{Milyen Egyesült Államok elnöke maga?}
 {162}{}{Maga megbolondult!}
 {163}{}{Alelnök? Az a nyálas idióta odakinn?}
-{164}{}{Micsoda véletlen, én a Quetzel bolygó Uralkodója vagyok, és megadásra szólítom fel a Földet!}
+{164}{}{What a coincidence, I'm Emperor of the planet Quetzel, here for the surrender of Earth.}
 {165}{}{Csak folytassa a munkáját, ööö... Elnök úr. Viszlát!}
 {166}{prs16}{Ah-ha. Természetesen, eminenciád. Miért is nem kéretek... frissítõt? Beszélgethetnénk, és együtt megoldhatnánk mindent. Nem boldogulnánk jobban, ha összefognánk?}
 {167}{}{Ez nagyszerûen hangzik!}
@@ -71,13 +70,13 @@
 {169}{prs17}{Ahh, nos, egy pillanat. (a kommunikátorba) Kérek frissítõt magamnak és a "váratlan vendégemnek". Egy nagyon fontos - váratlan - vendégnek. Most azonnal!}
 {170}{}{Kösz. Szerintem maga nem is olyan rossz fickó.}
 {171}{}{Ez hülyeség volt. Most valaki meg fog sérülni.}
-{172}{prs18}{Valakinek itt tényleg elment az esze... Ó, igen. Ó, igeeeen.}
+{172}{prs18}{Somebody's loony here, all right. Oh yeah. Oooooh yeah.}
 {173}{}{Ne nézzen így rám! Nem én állítom magamról, hogy annak az Egyesült Államoknak vagyok az elnöke, amelyik mindkettõnk születése elõtt romba dõlt.}
 {174}{prs19}{Én az emberek választott képviselõje vagyok. Az Egyesült Államok még létezik. Isten áldjon mindannyiunkat! Csak alkalmazkodnunk kellett, hogy túléljünk a háború után.}
 {175}{}{Nem értem. Mit ért ez alatt?}
 {176}{prs20a}{Tényleg nem tudja, ugye? Akkor hadd meséljek az emberiség üdvözülésérõl! Elõször egy kis történelem...}
-{177}{prs20b}{Egy kis történelem...}
-{178}{}{Folytassa csak, Elnök Úr!}
+{177}{prs20b}{A, hmm, a little history....}
+{178}{}{Go on, Mr. President....}
 {179}{}{Elõször is: miért van bázisuk Navarróban?}
 {180}{}{Mielõtt belemélyedne... Láttam az egyik gépmadarukat üzletelni New Renóban. Az mi volt?}
 {181}{}{Most nincs idõm erre az õrültségre. Viszlát!}
@@ -109,29 +108,28 @@
 {207}{}{Örülök a találkozásnak, de miért hív mutánsnak?}
 {208}{prs30}{Mert maga egy mutáns. A törzse DNS-e megváltozott, mióta az õse elhagyta a Menedékét. Ez elkerülhetetlen. Mindaz a háttérsugárzás, aminek ki lett téve, ezt mûvelte magával.}
 {209}{}{Oké, akkor mutáns vagyok. Na, okostojás, most közel áll ahhoz, hogy egy tökéletesen tiszta halott legyen magából.}
-{210}{}{Szóval mutánsok vagyunk. Na, és?}
+{210}{}{So we're mutants. So what?}
 {211}{}{Minden lény folyamatosan változik. Evolúciónak hívják. E változás nélkül mi még mindig protoplazmikus masszák lennénk.}
 {212}{prs31}{Mi próbáljuk biztonságban tartani magunkat a sugárzástól. Ez választja el az embereket - mint jómagam - a mutánsoktól, mint maga.}
 {213}{}{Miért szólít még mindig mutánsnak?}
 {214}{}{Elég a beszédbõl! Itt az ideje, hogy szembekerüljön a hatalmas elnökválasztó testülettel az égben.}
 {215}{}{Kevesebbért is öltem már, de ma sietek. Viszlát!}
-{216}{prs32}{Nekünk is voltak sikereink, de késõbb azok a francos Vörösök mindent ránkzúdítottak, amijük csak volt. Mi éppenhogy el tudtunk indítani a saját "madárkáinkat".}
+{216}{prs32}{We were winning, too. And then those damn Reds launched. We barely got our birds up.}
 {217}{}{Nem úgy néz ki, mintha sokat segített volna...}
-{218}{prs33}{Hát, nem. De legalább azokat a rohadt Vörösöket visszajuttattuk a kõkorszakba.}
+{218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age. (chuckles)}
 {219}{}{Beleértve magunkat is.}
 {220}{prs34}{Hát, nem. Nem... nem teljesen. Láthatja, elõre terveztünk. Mi készen álltunk. }
-{221}{}{Készen álltunk?}
-{222}{prs35}{Sok menedékhelyünk volt, amelyekben a fényességes amerikai civilizáció kitarthatott. Ezek az építmények - a Menedékek - a nagy terv részei voltak.}
+{221}{}{Ezt most hogy kell értenem?}
+{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
 {223}{}{Azok a rohadt Menedékek nem úgy mûködtek, ahogy kellett volna! Sok ember meghalt bennük.}
-{224}{prs36}{Igazság szerint majdnem pontosan úgy mûködtek, ahogy kellett. Hívhatja ezt társadalmi kísérletnek vagy egy újabb lépcsõnek...}
+{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale.}
 {225}{}{Kísérletnek?}
 {226}{prs36a}{A Menedékek az emberiséget tesztelték. Volt, amelyikben nem volt elég ételelõállító, volt olyan, amelyben csak férfiak voltak, míg némelyikben csak 6 hónapig voltak elzárva. Mindegyikben egyéni körülményeket teremtettünk, hogy leteszteljük a lakókat.}
-{227}{}{És a 13-as Menedék? Mi volt a célja?}
-{228}{prs37}{Ahh... A 13-as Menedék különleges eset. Addig kellett zárva tartani, amíg a benn élõk jónak tartották. A 13-as Menedék - tudományos nyelven - a kontroll csoport.}
-#Kontroll csoport a kabszereseknel letezo fogalom (bass)
+{227}{}{What about Vault 13? What was its purpose?}
+{228}{prs37}{Ahh. Vault 13 is a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
 {229}{}{De mindenki meghalt volna, ha az õsöm nem visz nekik tartalék víztisztító csipet. Amit mond, nem úgy tûnik, mintha a terv része lett volna.}
-{230}{prs38}{Igen, ez egy szerencsétlen, elõre nem látható baleset volt. Mindamellett, mint kiderült, ez épp egybeesett a terveinkkel.}
-{231}{}{Miféle terveikkel?}
+{230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
+{231}{}{Ezt most hogy kell értenem?}
 {232}{prs39}{Nekünk szennyezetlen, háború elõtti emberi tesztalanyok kellettek - a maga õsei a 13-as Menedékbõl - valamint frissen mutálódott alanyok - az arroyói falusiak...}
 {233}{}{Miért?}
 {234}{prs39a}{A Projekt számára. Már csaknem befejeztük. Az emberiség megváltása szinte az Egyesült államok kezében van, s így mi leszünk az újjászületés hírnökei.}
@@ -144,19 +142,19 @@
 {241}{}{Vírust mondott?}
 {242}{prs42}{Igen. A F.E.V. vírusról van szó. Eredetileg azért fejlesztették ki, hogy katonákat szuper-harcosokká változtasson, de a kísérlet elbukott. A harcosok kemények és erõsek lettek, de nagyon buták. Szerencsére, a mi briliáns vegyi osztagunk megváltoztatta.}
 {243}{}{Megváltoztatta a vírust? Miért?}
-{244}{prs43}{Hogy egy megdöbbentõen hatékony gyilkos váljék belõle. Bármilyen humanoid, aki nincs beoltva a vírus kiengedése elõtt, meghal. Ez a Projekt lényege.}
+{244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release will die. That is the Project.}
 {245}{}{Ez õrület!}
 {246}{prs43a}{Nem, nem... Ez az emberiség utolsó, egyetlen reménye. Ez az, amiért már oly sok éve dolgozunk.}
 {247}{}{Nagyszerû, szóval van rengeteg mérgük, és nem tudják elterjeszteni.}
-{248}{prs44}{Elfogyott egy elengedhetetlen vegyi anyagunk, de New Reno kábítószer laborjaiból meg tudjuk szerezni. Ha a mutáns-gengszterek a mi fegyvereinket használják egymás gyilkolására, csak nekünk tesznek szívességet.}
+{248}{prs44}{We've run short of certain critical chemicals. We can get them from the drug labs of New Reno. If the mutant-mobsters use our guns to kill each other, (snorts) just saves us the trouble.}
 {249}{}{Minden a maguk szája íze szerint mûködik, mi? Halljuk a történet végét!}
 {250}{prs45}{Egyszerû. Navarro egy izolált bázis. A gépmadarainknak limitált a távolságuk. Ott tankolnak újra.}
 {251}{}{Értelemszerû.}
-{252}{prs46a}{Biztos voltam benne, hogy ezt fogja mondani. A maga törzsbéli társain végrehajtott tesztek kimutatták, hogy a bûnös mutáció maguk közt bújkál. Hála az égnek, a Projekt bevetésre kész.}
+{252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. And it's a damn good thing the Project is ready.}
 {253}{}{Miért?}
-{254}{prs46b}{Néhány törzsbélin nagyon érdekes változásokat mutattunk ki. Ha a valódi emberiséget fenyegetõ veszély nem lenne ilyen aggasztó, meggondolandó lenne tanulmányozni õket. De ez nem így lesz.}
+{254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Miért nem lesz így?}
-{256}{prs47}{Óhhhh... Ez a F.E.V. vírus egyik elõnye. Szépen útjára bocsátjuk, a szelek meg a világ minden tájára elszállítják. Idõbe telik, míg a föld minden kis szegleltét megtisztítja.}
+{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{Oké. Akkor miért kellett elrabolni a törzsemet és a 13-as Menedékbeli embereket?}
 {258}{prs48}{Õk a tesztalanyok. A falubelijei mind Menedéklakók leszármazottai, s biztosnak kellett lennünk, hogy a F.E.V. vírus még mindig hat. A 13-as Menedék lakóin teszteljük a F.E.V.-et és a létrehozandó ellenanyagot.}
 {259}{}{Csak nem az én embereimen tesztelik az oltóanyagot?}
@@ -180,7 +178,7 @@
 {277}{prs56}{Lehet, hogy keményebb lesz, mint gondolja. Ha viszont megteszi, én, mint hazafi és az emberiség szolgája elnyerem jutalmam.}
 {278}{}{Itt az ideje, hogy átvegye a jutalmát...}
 {279}{}{Most hagyom gondolkozni a közelgõ haláláról. Ne nyúljon a riasztóhoz! Viszlát!}
-{280}{prs57}{Nagyon megható... De a falubelijei és a többi mutáns által mutatott radikális változás nagyon távol áll a természetes evolúció fokozatosságától.}
+{280}{prs57}{Very moving. But the radical changes your villagers and other mutants show is a far cry from the gradual changes of natural evolution.}
 {281}{}{Lehetséges, hogy mi egy jobb emberi fajjá változunk. Gondolt erre valaha?}
 {282}{prs58}{Tényleg, ez nagyon valószínû. Ezesetben a mi küldetésünk még életbevágóbb az emberi faj túlélése érdekében.}
 {283}{}{Ha? Mit akar ez jelenteni?}
@@ -202,17 +200,12 @@
 {299}{}{Mirõl beszél? Mit csinálnak maguk itt?}
 {300}{}{S mit szól az én õszinte felajánlásomhoz: Õszintén felajánlom, hogy most megölöm?}
 {301}{}{Maga õrült! Nincs idõm az agymenését hallgatni. Viszlát!}
-{302}{prs65}{Nem hiszem, hogy ez a fáradt, öreg bolygó elég nagy két gyõztes számára. Ha választani kell, hogy maguk vagy mi... akkor én magunkat választom.}
+{302}{prs65}{I don't think this tired old Planet's big enough for two top dogs. If it's us or you.... Well, I'm going to choose us.}
 {303}{}{Nem hiszem, hogy ilyen választás elé fog kerülni.}
 {304}{prs66}{Mint a végrehajtó hatalom megtestesítõje, én viselem az Egyesült Államok és az emberiség túlélésének terhét. Ha ez azt jelenti, hogy a Föld újra a gyerekeinké és az õ gyerekeiké lesz, akkor boldogan vállalom ezt a nehéz terhet.}
 {305}{}{Hogy akarja ezt megtenni? Mit csinál itt?}
 {306}{}{Hadd vegyem le a válláról a terhet! Véglegesen...}
 {307}{}{Szép lehet a maga dimenziójában. Viszlát, Agyament úr!}
-
-
-
-#Innentol nem használatos
-
 {308}{}{Északra}
 {309}{}{Észak-nyugatra}
 {310}{}{Nyugatra}
@@ -222,24 +215,25 @@
 {314}{}{Innen keletre}
 {315}{}{Észak-keletre.}
 {316}{}{Igen}
-{317}{}{Nem}
+{317}{}{Nem.}
 {318}{}{Áhh}
 {319}{}{(sír a fájdalomtól)}
 {320}{}{Miért beszélsz így velem?}
 {321}{}{Arról semmit se tudok.}
 {322}{}{Nem vagy valami kedves.}
 {323}{}{Köszönöm.}
-{324}{}{Ez jó.}
+{324}{}{Ez bizony jó.}
 {325}{}{Ez nem jó.}
-{326}{}{Jó érzésem van.}
-{327}{}{Rossz érzésem van.}
+{326}{}{Jó érzésem van ezzel kapcsolatban.}
+{327}{}{Rossz érzésem van ezzel kapcsolatban.}
 {328}{}{Ti emberek õrültek vagytok.}
 {329}{}{Mirõl beszélsz?}
-{330}{}{Itt mindenki õrült?}
-{331}{}{Kell, hogy legyen másik út.}
+{330}{}{Itt mindenki megkergült?}
+{331}{}{Kell lennie valami más módnak.}
 {332}{}{Gyere ide!}
 {333}{}{Nem értem.}
 {334}{}{Nem tudom.}
-{335}{}{Ez fájt.}
-{336}{}{Ez tényleg fájt.}
+{335}{}{Ez fáj.}
+{336}{}{Ez nagyon fáj.}
 {337}{}{Ez biztos fájt.}
+{338}{}{Actually, Mr. President, I'm back.}

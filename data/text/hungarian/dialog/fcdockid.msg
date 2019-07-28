@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy kiskölyök.}
 {101}{}{Egy kikötõi srác.}
 {102}{}{Egy kiskölyök.}

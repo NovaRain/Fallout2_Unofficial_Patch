@@ -1,7 +1,6 @@
 {100}{}{Vedi una persona la cui pelle e' gravemente ustionata.}
 {101}{}{Vedi un cittadino ghoul di Gecko.}
 {102}{}{Vedi una persona la cui pelle sembra aver subito ustioni da radiazioni. Una quantita' simile di radiazioni dovrebbe averla uccisa, invece sembra essere piuttosto in salute.}
-
 {110}{}{Ehila'. Ti serve qualcosa?}
 {111}{}{Se vuoi qualcosa, ti servira' un modulo di richiesta.}
 {112}{}{Se ti serve qualcosa devi parlare con Jeremy.}
@@ -9,7 +8,6 @@
 {114}{}{Dovresti parlare con Jeremy. Lui odia che le persone prendano qualcosa a sua insaputa.}
 {115}{}{Non posso aiutarti se prima non parli con Jeremy.}
 {116}{}{Parla con Jeremy. Conosci le regole.}
-
 {120}{}{Credo che qualcuno di questi vecchi indicatori sia rotto.}
 {121}{}{Mi e' bastato tirare un calcio alla console per farla funzionare di nuovo.}
 {122}{}{Credo che questo macchinario non abbia mai funzionato a dovere.}
@@ -22,7 +20,6 @@
 {129}{}{Dopo un po' non hai piu' bisogno di guardare gli indicatori.}
 {130}{}{Che noia -— nessuno di quegli indicatori funziona, comunque.}
 {131}{}{Perdita? Che perdita?}
-
 {140}{}{In tutta Gecko non c'e' posto migliore di questo dove vivere.}
 {141}{}{Niente ti scalda il cuore meglio di una robusta dose di rontgen.}
 {142}{}{Mmm, c'e' sempre un cosi' bel calduccio qui dentro. Adoro questo posto.}
@@ -33,19 +30,16 @@
 {147}{}{Sii sempre umile...}
 {148}{}{Senza questo reattore, tutti qui morirebbero.}
 {149}{}{Spero proprio che quei tizi giu' a Vault City non ci ammazzino tutti.}
-
 {150}{}{Grazie, grazie, grazie.}
 {151}{}{Grazie per aver riparato il nostro reattore.}
 {152}{}{Grazie a te, la nostra casa adesso e' sicura.}
 {153}{}{Adesso il nostro reattore fa le fusa come un gattino. Grazie.}
 {154}{}{Il reattore funziona molto meglio, adesso.}
-
 {160}{}{Non posso credere che Vault City ci abbia aiutato.}
 {161}{}{Grazie per aver fatto funzionare cosi' bene il reattore.}
 {162}{}{Sono felice che il reattore funzioni meglio.}
 {163}{}{Ultimamente fa piu' freddo, qui dentro.}
 {164}{}{Sbaglio, o qui dentro fa piu' freddo?}
-
 {170}{}{Perche diavolo cerchi di passare inosservato?}
 {171}{}{Uh, riesco ancora a vederti, sai?}
 {172}{}{Cammini sempre in modo cosi' strano?}

@@ -1,16 +1,15 @@
-# Dialog Editor last position: 11
 {100}{}{Egy öregedõ földfoglalót látsz.}
 {101}{}{Zeke, a földfoglalók egyike.}
 {102}{}{Egy öregedõ férfit látsz, vékony, õsz hajjal.}
 {103}{}{A nevem Zeke, idegen. Sajnálom, de nincs idõm veled beszélgetni -- és egyébként sem hinném, hogy bármi is lenne számodra ezen a helyen. Tovább kellene állnod.}
-{104}{}{Öö, oké.}
+{104}{}{Ööö, oké.}
 {105}{}{Én van kérdések.}
 {106}{}{Rendben, elmegyek.}
 {107}{}{Csak pár kérdést akartam feltenni.}
 {108}{}{Nos, azt hiszem, rá fogsz jönni, hogy kifogytunk a válaszokból. Miért nem jössz vissza, ha kapunk egy újabb szállítmányt?}
-{109}{}{Rendben.}
+{109}{}{Megbeszéltük.}
 {110}{}{Üdv újra nálunk. Még mindig nem érkeztek meg a válaszok. Fogadj meg egy tanácsot, és tûnj a fenébe.}
-{111}{}{Rendben.}
+{111}{}{Megbeszéltük.}
 {112}{}{Rebecca elmondta, mit tettél érte. Elnézésedet kérem a bánásmódért. Kétségkívül nem ezt érdemelted. Miben segíthetek?}
 {113}{}{Én van kérdések.}
 {114}{}{Semmiben. Pápá.}
@@ -21,8 +20,8 @@
 {119}{}{Mit te csinálni rablókkal?}
 {120}{}{Hol lenni menedék ajtó?}
 {121}{}{Mi más folyik itt?}
-{122}{}{Most én megy.}
-{123}{}{Darionnak dolgozik?}
+{122}{}{Elmegyek.}
+{123}{}{Darionnak dolgozol?}
 {124}{}{Mit szándékozik tenni a rablók ügyében?}
 {125}{}{Merre van a Menedék bejárata?}
 {126}{}{Mi történik mostanában errefelé?}
@@ -48,19 +47,18 @@
 {146}{}{Igen, azt hiszem, ezt meg kell tenni.}
 {147}{}{Nem tudom.}
 {148}{}{Kiváló. Sok szerencsét, és köszönöm.}
-{149}{}{Rendben.}
+{149}{}{Megbeszéltük.}
 {150}{}{Nos, gondolkodom rajta, de azért egyet vegyél figyelembe -- amíg Darion a képben van, nincs más választásom, mint fenntartani a dolgokat úgy, ahogy eddig voltak, mindenki biztonsága érdekében. Ez azt jelenti, hogy nincs alku, és te továbbra is persona non grata leszel. Érted?}
 {151}{}{Oké.}
 {152}{}{Üdv! Még mindig várok a problémáink végsõ megoldására. Másként fogalmazva, rúgd szét Darion seggét!}
-{153}{}{Rendben.}
+{153}{}{Megbeszéltük.}
 {154}{}{Megcsináltad, barátom! Tovább nem nyögjük Darion igáját. Köszönöm! Most már kész vagyok elfogadni az ÚKK ajánlatát. Csak egy képviselõjükre van szükség, és aláírom a szerzõdést.}
-{155}{}{Rendben.}
+{155}{}{Megbeszéltük.}
 {156}{}{Köszönjük a lehetõséget az új életre. Mindannyian tartozunk neked.}
 {157}{}{Menj el! Nincs mit mondanom neked.}
 {158}{}{Várj, mielõtt mész... Ezt a kulcs-kártyát még régebben találtam, és fogalmam sincs, mire való. Rebecca azt mondta, hogy találtál valami ajtófélét ott, ahol fogva tartották Chrissy-t. Talán ez a kártya kinyitja. Tessék, vedd el!}
-{159}{}{Kösz.}
+{159}{}{Köszi.}
 {160}{}{Miben segíthetek?}
 {161}{}{Csak a gond az ÚKK-val, de azt hiszem, az alku, amit ajánlottál, meg fogja oldani.}
 {162}{}{Megcsináltad, barátom! Tovább nem nyögjük Darion igáját. Köszönöm!}
 {163}{}{Most, hogy Darion eltávozott, nem fogunk táplálékhoz jutni. Biztosan elpusztulunk. "Nagyon szépen" köszönjük.}
-

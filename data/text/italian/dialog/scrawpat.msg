@@ -9,7 +9,7 @@
 {108}{}{Non parlare con me! Non voglio essere picchiato di nuovo.}
 {109}{}{Dannato whiskey a buon mercato! Sai, qui servono il peggior liquore della citta'.}
 {110}{}{Merda! Non avevo intenzione di sputarle addosso il mio drink. Lasci che la ripulisca. Mi scusi, mi scusi.}
-{111}{}{Stammi lontano!}
+{111}{}{Stai lontano da me!}
 {112}{}{Ho sentito parlare di te. Ti prego, non picchiarmi.}
 {113}{}{Sei nuovo in citta'? Si dice che Merk stia cercando tipi robusti.}
 {114}{}{Che cosa sei, un qualche tipo di duro? Sparisci dalla mia vista!}
@@ -21,9 +21,9 @@
 {120}{}{Al che io gli faccio, "Senti," gli faccio...}
 {121}{}{Prova l'arrosto di ratto-talpa. E' il migliore della zona.}
 {122}{}{Ciao. Di che segno sei?}
-{123}{}{Se stai cercando un lavoro, straniero, vai dagli Allevatori.}
+{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
 {124}{}{Merda! L'hai visto?}
 {125}{}{Oh cavoli, credo che mi sentiro' male.}
 {126}{}{Basta cosi' per me.}
 {127}{}{Ehi, mischiami uno di quelli!}
-{128}{}{Avevo un Rad-a-Waster come quello, una volta...} ###???
+{128}{}{Avevo un Rad-a-Waster come quello, una volta...}

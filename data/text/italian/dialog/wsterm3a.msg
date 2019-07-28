@@ -1,8 +1,7 @@
 {100}{}{Un terminale di computer.}
 {101}{}{Questo computer pare abbia una telecamera montata su di esso.}
 {102}{}{Non sei in grado di leggere quello che c'e' sul monitor.}
-{103}{}{[Una piccola telecamera ruota nella tua direzione.]            Skynet: Sistemi di Sicurezza                                 Override Terminale di Sicurezza in corso - Livello 3             Recupero dati personale in corso - Caporale Dixon             Nessun Riscontro                                                  Chi...sei...tu?} ###???
-
+{103}{}{[Una piccola telecamera ruota nella tua direzione.]            Skynet: Sistemi di Sicurezza                                 Override Terminale di Sicurezza in corso - Livello 3             Recupero dati personale in corso - Caporale Dixon             Nessun Riscontro                                                  Chi...sei...tu?}
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -43,9 +42,8 @@
 {141}{}{}
 {142}{}{}
 {143}{}{Esci}
-
 {200}{}{ non e' in grado di leggere quello che c'e' sul monitor.}
-{300}{}{Il computer sembra avere un qualche tipo di meccanismo difensivo.}
+{300}{}{Questo computer sembra avere un qualche tipo di meccanismo difensivo.}
 {301}{}{Subisci uno shock per }
 {302}{}{ subisce uno shock per }
 {303}{}{ punti di danno.}

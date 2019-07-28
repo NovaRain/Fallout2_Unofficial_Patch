@@ -5,7 +5,7 @@
 {104}{}{Le 18:00 sono gia' passate. Adesso devi tornare nel Cortile.}
 {105}{}{Okay. Me ne vado subito.}
 {106}{}{Okay. Me ne vado tra un secondo.}
-{107}{}{Ho delle cose da fare. Me ne andro' quando saro' pronto.}
+{107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Bene, mi assicurero' che tu raggiunga il Cortile sano e salvo. Su, andiamo.}
 {110}{}{Okay. Andiamo.}
@@ -29,7 +29,7 @@
 {128}{}{Niente da riferire, Capitano.}
 {129}{}{Teniamo d'occhio la situazione, Capitano.}
 {130}{}{Vault City prevale, Capitano.}
-{131}{}{Buona giornata, Capitano.}
+{131}{}{Buon giorno, Capitano.}
 {132}{}{Ehi voi! Alt! Che cosa ci fa un ghoul qui a Vault City?!}
 {133}{}{Ehi voi! Alt! Che cosa ci fa un mutante qui a Vault City?!}
 {134}{}{Breep-oop foop foop.}
@@ -53,7 +53,7 @@
 {152}{}{Ehi! E' quello che ha sconfitto l'Enclave!}
 {153}{}{Ehi, congratulazioni per aver sconfitto l'Enclave!}
 {154}{}{Benvenuto a Vault City, eroe!}
-{155}{}{La tua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
+{155}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
 {156}{}{Ho sentito dire che hai viaggiato a sud fino a San Francisco. E' vero?}
 {157}{}{E' vero che gli Stati Uniti stavano ancora combattendo la guerra?}
 {158}{}{Dovresti inserire i tuoi viaggi nel computer di Vault City.}

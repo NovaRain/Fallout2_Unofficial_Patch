@@ -1,10 +1,10 @@
-{100}{}{Vedi un giocatore.}
+{100}{}{Vedi un giocatore d'azzardo.}
 {101}{}{Vedi un giocatore che spera di far su un po' di soldi.}
 {102}{}{Vedi una persona eccitata e nervosa che sta giocando.}
 {103}{}{Dai, mio figlio ha bisogno di scarpe nuove.}
-{104}{}{Yeah! Evvai!} ###???that's the ticket
+{104}{}{Yeah! Evvai!}
 {105}{}{Merda!}
-{106}{}{Perche' a me?}
+{106}{}{Perche' io?}
 {107}{}{Qualcuno potrebbe prestarmi un po' di soldi?}
 {108}{}{Ho un piano sicuro, stavolta.}
 {109}{}{Il mio sistema funziona sempre.}
@@ -29,7 +29,7 @@
 {128}{}{Ho bisogno solo di un po' piu' di credito.}
 {129}{}{La mia fortuna sta per cambiare; me lo sento.}
 {130}{}{Dov'e' quel mio piede di gecko portafortuna quando mi serve?}
-{131}{}{Che cosa vuoi?}
+{131}{}{Cosa vuoi?}
 {132}{}{Indietro, scemo.}
 {133}{}{Ehi, non portarmi sfortuna.}
 {134}{}{Mi stai dando il malocchio?}
@@ -38,7 +38,7 @@
 {137}{}{Soffia su questi dadi, vuoi?}
 {138}{}{Gioca o sparisci.}
 {139}{}{Questo non e' uno sport che ha bisogno di spettatori, amico.}
-{140}{}{Spero che tu non faccia girare la fortuna.} ###???possibilita'
+{140}{}{Spero che tu non faccia girare la fortuna.}
 {141}{}{Questo tavolo e' sfortunato.}
 {142}{}{Questo tavolo e' fortunato.}
 {143}{}{Ancora un po' di soldi e me ne vado. Per questo turno, intendo.}

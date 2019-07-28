@@ -29,7 +29,7 @@
 {133}{}{Prima che io vada, avrei delle altre domande.}
 {134}{}{A presto. Non deludero' la tribu'.}
 {135}{aeld8}{Molto bene. Vieni a trovarmi quando avrai deciso - ma non aspettare troppo.}
-{136}{}{A presto.}
+{136}{}{Arrivederci.}
 {137}{aeld9}{Non posso aiutarti molto. Cosi' tanto e' andato perduto dai Tempi Antichi. Quale sapienza cerchi?}
 {138}{aeld9b}{Cosa ti serve?}
 {139}{}{Ditemi di piu' a proposito del GECK.}
@@ -58,7 +58,7 @@
 {162}{}{Auguratemi buona fortuna, Anziana: non vi deludero'.}
 {163}{aeld16}{Trova Vic a Klamath. Contiamo su di te.}
 {164}{aeld17}{E' bello rivederti, figliolo. Non vorrei sembrarti brusca, ma vedo che non hai completato la tua missione alla ricerca del sacro Tredici. Per favore, non sprechiamo tempo in chiacchiere. Il bisogno della nostra gente e' grande. Va' e trova il Vault!}
-{165}{}{Me ora va.}
+{165}{}{Me va ora.}
 {166}{}{Va bene, sto andando.}
 {167}{}{Non vi deludero', Anziana.}
 {168}{}{Me ne sto occupando, ok?}
@@ -77,8 +77,6 @@
 {181}{}{Sto andando.}
 {182}{}{Perdonatemi, Anziana. Trovero' il GECK al piu' presto.}
 {183}{}{Seh, seh. Inizi a parlare come un disco rotto...}
-
-
 {200}{eeld1}{Prescelto! Come sei arrivato qui?}
 {201}{}{Uhh... duh?}
 {202}{}{Sono venuto a salvarvi.}
@@ -119,4 +117,3 @@
 {237}{eeld13a}{Poi la pelle ribolle come se avesse delle larve sotto di se'. Pustole crescono e scoppiano. Il sangue esce dalle orecchie e la lingua si gonfia. Quelli fortunati muoiono per soffocamento. Quelli che non lo sono...}
 {238}{}{La pagheranno.}
 {239}{}{E' decisamente disgustoso. Che cosa dovrei fare?}
-

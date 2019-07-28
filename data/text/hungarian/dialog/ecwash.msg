@@ -10,8 +10,6 @@
 {109}{}{Alexandot a Gyilkos Méhet látod, a Mosdatlan Falusiak egyikét.}
 {110}{}{A Baltást látod, a Mosdatlan Falusiak egyikét.}
 {111}{}{Kékkeresztet látod, a Mosdatlan Falusiak egyikét.}
-
-# Examines
 {113}{}{Buffyt látod, a gyönyörû, intelligens és tûzrõlpattant szószólót. Õ a Mosdatlan Falusiak Elsõ Embere.}
 {114}{}{Doombotot látod, a Hang Istennõjét, Buffy nõvérét. Nagyon hasonlít Marie Osmondra.}
 {115}{}{Panoplyt látod, egy tündérszerû lányt, akinek tekintete némi õrületrõl árulkodik.}
@@ -24,17 +22,12 @@
 {122}{}{Alexandot a Gyilkos Méhet látod, a gyilkos méhek egyik nemes és intelligens példányát, a Mosdatlan Falusiak Fõírnokát.}
 {123}{}{A Baltást látod, a Mosdatlanok Fegyverkovácsát, a Lángok Szítóját, az "Árnyvadász" Tanok Õrzõjét.}
 {124}{}{Kékkeresztet látod, a Mosdatlanok Papját és Termelési Igazgatóját.}
-
-# UV Leaving Floats
 {200}{}{A Mosdatlan Falusiak ismét gyõzedelmeskedtek!}
 {201}{}{A halál túl jó neki.}
 {202}{}{És maradj is halott!}
 {203}{}{A falu megint megmenekült!}
 {204}{}{Megvédjük az ártatlanokat és fenntartjuk a békét.}
 {205}{}{Vigyázzuk a pusztaságot. Megvédjük a Spammerektõl.}
-#A spammer azert a netes spammer, mert mashol netes hivatkozasokat mondogatnak ezek a fickok
-
-
 {206}{}{Csatlakozz hozzánk!}
 {207}{}{Az elválás oly édes szomorúság...}
 {208}{}{A Sátán pedig eljött, és látá, hogy a jóság mily borzasztó vala...}
@@ -50,13 +43,11 @@
 {218}{}{A Mosdatlan Falusiak. A béke õrei ebben a rohadt sivatagban.}
 {219}{}{Megkapta, amit megérdemelt.}
 {220}{}{A nyomodban leszek!}
-
-# UV Combat Floats
 {300}{}{Szappan? Nincs szükségünk ragadós szappanra!}
 {301}{}{Gyûljetek mosdatlanok! Pusztuljon a Spammer!}
 {302}{}{Halál a Spammerre!}
 {303}{}{Ezt azért kapod, mert az emberek életét fenyegeted!}
-{304}{}{Most meghalsz, Nagy Kaszás!}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{Mehetsz vissza "délre"!}
 {306}{}{A génállomány tisztítgatásra szorul.}
 {307}{}{Most megfizetünk!}
@@ -69,51 +60,26 @@
 {314}{}{Védjük meg a Kiválasztottat a Spammerek hülyeségétõl!}
 {315}{}{Kiválasztott! Csatlakozz hozzánk!}
 {316}{}{MOSDATLAN BOSSZÚ!}
-{317}{}{Soha nem leszel "Mosdatlan", te naiv bolond!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{Nincs esélyed!}
 {319}{}{Még nem fejeztük be!}
 {320}{}{Hooooosszúúú ideje vártam már erre a pillanatra.}
-
-# 1 Buffy Personal Floats
 {400}{}{Ezt azért kapod, mert megfenyegettél!}
-{401}{}{Csak, hogy biztos legyek... ugye soha nem bántanál egy lányt?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{"A bosszú csak hidegen felszolgálva jó."}
-{403}{}{Buffy vagyok... légy a vendégem!}
-
-# 2 Doombot Personal Floats
+{403}{}{I'm Buffy... you're toast.}
 {405}{}{Senki sem szõrözhet Doombottal!}
 {406}{}{Grim Buster!}
-
-# 3 Panoply Personal Floats
 {410}{}{Csak egy ananásznak van olyan édes íze, mint a mi gyõzelmünknek...}
-#A guanabana az egy gyumolcs, de a kutya sem ismeri (bass)
-
-# 4 Lerk Personal Floats
 {415}{}{A falu vidám hely, de te most nagyon-nagyon dühössé tetted.}
-
-# 5 Ymir Personal Floats
 {420}{}{Utoljára fenyegetted kis hazánkat gonosz tetteiddel!}
-
-# 6 Iguana Eater Personal Floats - None
-
-# 7 Night Owl Personal Floats
 {430}{}{Örök álmot bocsátok rád!}
-
-# 8 Shadow Dancer Personal Floats
 {435}{}{Mindannyian a pokolba tartunk, és én vezetem a buszt.}
 {436}{}{Jer gyermekem, hadd szüntessem fájdalmadat!}
 {437}{}{Halott vagy. Csak még nem tudod.}
-
-# 9 Amish Commando Personal Floats
 {440}{}{Most kapsz!}
 {441}{}{Szeretnél egy kicsit?}
 {442}{}{Ne az arcomba, ne az arcombaaa!}
-
-# 10 Killer Bee Personal Floats
 {445}{}{Dante nem arról a pokolról írt, amibe téged küldelek...}
-
-# 11 Hatchetman Personal Floats
 {450}{}{Fegyverek! Fegyverek! Fegyverek! Hol vannak a fegyvereim?!}
 {451}{}{Oké, igen. Õrült vagyok. Ezzel számolnod kell.}
-
-# 12 BlueCross Personal Floats - None

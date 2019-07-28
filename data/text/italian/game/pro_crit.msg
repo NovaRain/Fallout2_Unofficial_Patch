@@ -2,15 +2,15 @@
 {101}{}{}
 {200}{}{un'Eroina}
 {201}{}{}
-{300}{}{un Abitante del Villaggio}
+{300}{}{un'Abitante del Villaggio}
 {400}{}{un'Abitante del Villaggio}
 {500}{}{un Radscorpione}
 {501}{}{Un piccolo scorpione mutante.}
 {600}{}{un Radscorpione}
 {601}{}{Uno scorpione mutante.}
-{700}{}{un Deathclaw}
+{700}{}{Deathclaw}
 {701}{}{Un Deathclaw immaturo.}
-{800}{}{un Deathclaw}
+{800}{}{Deathclaw}
 {801}{}{Un Deathclaw immaturo.}
 {900}{}{un Cane}
 {901}{}{Un canide, probabilmente un meticcio.}
@@ -18,41 +18,41 @@
 {1001}{}{Una mucca mutante bicipite.}
 {1100}{}{un Ratto}
 {1101}{}{Un grosso ratto comune.}
-{1200}{}{una Mantide}
+{1200}{}{Mantis}
 {1201}{}{Una mantide mutante.}
-{1300}{}{l'Anziana}
+{1300}{}{Elder}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{una Pianta Sporigena}
 {1601}{}{Una pianta carnivora.}
 {1700}{}{una Schiava carina}
 {1800}{}{uno Schiavo affascinante}
-{1900}{}{una Schiava in salute}
+{1900}{}{uno Schiavo in salute}
 {2000}{}{uno Schiavo in salute}
-{2100}{}{una Schiava forte}
+{2100}{}{uno Schiavo forte}
 {2200}{}{uno Schiavo forte}
-{2300}{}{una Schiava da combattimento}
+{2300}{}{uno Schiavo da combattimento}
 {2400}{}{uno Schiavo da combattimento}
-{2500}{}{una Schiava intelligente}
+{2500}{}{uno Schiavo intelligente}
 {2600}{}{uno Schiavo intelligente}
-{2700}{}{una Schiava generica}
+{2700}{}{uno Schiavo generico}
 {2800}{}{uno Schiavo generico}
 {2900}{}{Anna}
-{3000}{}{un Criminale robusto}
+{3000}{}{una Criminale robusta}
 {3100}{}{una Criminale robusta}
-{3200}{}{un Criminale da mischia}
+{3200}{}{una Criminale da mischia}
 {3300}{}{una Criminale da mischia}
-{3400}{}{un Criminale agile}
+{3400}{}{una Criminale agile}
 {3500}{}{una Criminale agile}
-{3600}{}{un Criminale con pistola}
+{3600}{}{una Criminale con pistola}
 {3700}{}{una Criminale con pistola}
-{3800}{}{un Criminale con grossa pistola}
+{3800}{}{una Criminale con grossa pistola}
 {3900}{}{una Criminale con grossa pistola}
-{4000}{}{una Guardia robusta}
+{4000}{}{una Guardia}
 {4100}{}{una Guardia}
-{4200}{}{una Guardia da mischia}
+{4200}{}{una Guardia}
 {4300}{}{una Guardia}
-{4400}{}{una Guardia agile}
+{4400}{}{una Guardia}
 {4500}{}{una Guardia}
 {4600}{}{una Guardia con pistola}
 {4700}{}{una Guardia con pistola}
@@ -62,20 +62,20 @@
 {5100}{}{un'Orfana}
 {5200}{}{un Bambino}
 {5300}{}{una Bambina}
-{5400}{}{un Perdente}
+{5400}{}{una Perdente}
 {5500}{}{una Perdente}
-{5600}{}{un Mercante Scarso}
+{5600}{}{una Mercante Scarsa}
 {5700}{}{una Mercante Scarsa}
-{5800}{}{un Mercante nella Media}
+{5800}{}{una Mercante nella Media}
 {5900}{}{una Mercante nella Media}
-{6000}{}{un Maestro Mercante}
+{6000}{}{una Maestra Mercante}
 {6100}{}{una Maestra Mercante}
 {6200}{}{Vic}
-{6300}{}{un Contadino Debole}
+{6300}{}{una Contadina Debole}
 {6400}{}{una Contadina Debole}
-{6500}{}{un Contadino nella Media}
+{6500}{}{una Contadina nella Media}
 {6600}{}{una Contadina nella Media}
-{6700}{}{un Contadino Forte}
+{6700}{}{una Contadina Forte}
 {6800}{}{una Contadina Forte}
 {6900}{}{una Debole Guardia da Mischia}
 {7000}{}{una Debole Guardia da Mischia}
@@ -93,7 +93,7 @@
 {8200}{}{un Cane Selvatico}
 {8201}{}{Un cane meticcio selvatico.}
 {8300}{}{un Gecko Dorato}
-{8400}{}{un Deathclaw}
+{8400}{}{Deathclaw}
 {8500}{}{un Cucciolo di Deathclaw}
 {8600}{}{un Tenace Gecko Dorato}
 {8700}{}{Lynette}
@@ -104,7 +104,7 @@
 {9200}{}{un Cittadino}
 {9300}{}{una Cittadina di Classe}
 {9400}{}{un Cittadino di Classe}
-{9500}{}{un Trapper}
+{9500}{}{una Trapper}
 {9600}{}{una Trapper}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
@@ -155,7 +155,7 @@
 {13900}{}{una Guardia da Mischia di NCR}
 {14000}{}{una Guardia degli Schiavisti}
 {14100}{}{un Caposquadra degli Schiavisti}
-{14200}{}{un Gran Maestro Mercante}
+{14200}{}{una Gran Maestra Mercante}
 {14300}{}{una Gran Maestra Mercante}
 {14400}{}{Tandi}
 {14500}{}{Merc}
@@ -181,7 +181,7 @@
 {16500}{}{Laddie}
 {16600}{}{Rondo}
 {16700}{}{un Bracciante del Ranch}
-{16800}{}{una Bracciante del Ranch}
+{16800}{}{un Bracciante del Ranch}
 {16900}{}{un Bracciante del Ranch}
 {17000}{}{un Buttafuori}
 {17100}{}{un Buttafuori}
@@ -197,10 +197,10 @@
 {18100}{}{il Capo dei Cacciat. di taglie (1-6)}
 {18200}{}{un Cacciatore di taglie (1-6)}
 {18300}{}{il Capo dei Cacciat. di taglie (7-12)}
-{18400}{}{un Cacciatore di taglie (7-12)}
+{18400}{}{una Cacciatrice di taglie (7-12)}
 {18500}{}{una Cacciatrice di taglie (7-12)}
 {18600}{}{il Capo dei Cacciat. di taglie (13-18)}
-{18700}{}{un Cacciatore di taglie (13-18)}
+{18700}{}{una Cacciatrice di taglie (13-18)}
 {18800}{}{una Cacciatrice di taglie (13-18)}
 {18900}{}{il Capo dei Cacciat. di taglie (19-?)}
 {19000}{}{un Cacciatore di taglie (19-?)}
@@ -214,31 +214,31 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{un Macellaio}
+{20000}{}{Butcher}
 {20100}{}{Petey}
-{20200}{}{un Cacciatore Primitivo}
+{20200}{}{una Cacciatrice Primitiva}
 {20300}{}{una Cacciatrice Primitiva}
-{20400}{}{un Cannibale}
+{20400}{}{una Cannibale}
 {20500}{}{una Cannibale}
 {20600}{}{un Uomo di Chiesa}
 {20700}{}{una Donna di Chiesa}
-{20800}{}{un Nomade- Bas}
-{20900}{}{un Nomade- Med}
+{20800}{}{una Nomade- Bas}
+{20900}{}{una Nomade- Med}
 {21000}{}{una Nomade- Bas}
 {21100}{}{una Nomade- Med}
-{21200}{}{un Bandito}
+{21200}{}{una Donna Bandito}
 {21300}{}{una Donna Bandito}
-{21400}{}{un Contadino}
+{21400}{}{una Contadina}
 {21500}{}{una Contadina}
-{21600}{}{una Mantide}
-{21700}{}{uno Schiavista}
-{21800}{}{una Schiavista}
+{21600}{}{Mantis}
+{21700}{}{Schiavista}
+{21800}{}{Schiavista}
 {21900}{}{un Brahmin Selvatico}
-{22000}{}{un Colono}
+{22000}{}{una Colona}
 {22100}{}{una Colona}
 {22200}{}{una Guardia di Pattuglia di Vault City}
 {22300}{}{una Guardia di Pattuglia di Vault City}
-{22400}{}{uno Schiavista Forte}
+{22400}{}{una Schiavista Forte}
 {22500}{}{una Schiavista Forte}
 {22600}{}{un Pazzo}
 {22700}{}{uno Sciacallo}
@@ -246,13 +246,13 @@
 {22900}{}{un Fosforescente Sciacallo}
 {23000}{}{un Pescatore}
 {23100}{}{una Pescatrice}
-{23200}{}{un Selvaggio}
+{23200}{}{una Selvaggia}
 {23300}{}{una Selvaggia}
-{23400}{}{un Contrabbandiere}
+{23400}{}{un Donna Contrabbandiere}
 {23500}{}{un Donna Contrabbandiere}
-{23600}{}{un Cercatore}
+{23600}{}{una Cercatrice}
 {23700}{}{una Cercatrice}
-{23800}{}{un Predone}
+{23800}{}{una Predone}
 {23900}{}{una Predone}
 {24000}{}{un Gecko di Fuoco}
 {24100}{}{un Tenace Gecko di Fuoco}
@@ -269,38 +269,38 @@
 {25200}{}{un Membro della Squadra di Arruolamento}
 {25300}{}{un Membro della Squadra di Arruolamento}
 {25400}{}{un Mercenario}
-{25500}{}{una Mercenaria}
+{25500}{}{un Mercenario}
 {25600}{}{un Nightkin}
 {25700}{}{un Nightkin Tenace}
 {25800}{}{un Ghoul Tenace}
 {25900}{}{un Gangster}
 {26000}{}{uno Yakuza}
-{26100}{}{un Ranger di NCR}
+{26100}{}{una Ranger di NCR}
 {26200}{}{una Ranger di NCR}
 {26300}{}{un Razziatore}
-{26400}{}{una Razziatrice}
+{26400}{}{un Razziatore}
 {26500}{}{"Pretty Boy" Lloyd}
 {26600}{}{Ratto Vorpal}
 {26700}{}{un Uomo del Vault 13}
 {26800}{}{una Donna del Vault 13}
 {26900}{}{il Guardiano del Ponte}
-{27000}{}{lo Straniero Misterioso}
-{27100}{}{la Straniera Misteriosa}
+{27000}{}{la Straniera Mistriosa}
+{27100}{}{la Straniera Mistriosa}
 {27200}{}{Hakeswill}
 {27300}{}{Big Jesus Mordino}
 {27400}{}{Dumar}
 {27500}{}{Madre Deathclaw}
 {27600}{}{Dragon}
 {27700}{}{Lo Pan}
-{27800}{}{un Hubologista}
+{27800}{}{una Hubologista}
 {27900}{}{una Hubologista}
-{28000}{}{lo Straniero Mistrioso}
+{28000}{}{la Straniera Mistriosa}
 {28100}{}{la Straniera Mistriosa}
-{28200}{}{lo Straniero Mistrioso}
+{28200}{}{la Straniera Mistriosa}
 {28300}{}{la Straniera Mistriosa}
-{28400}{}{lo Straniero Mistrioso}
+{28400}{}{la Straniera Mistriosa}
 {28500}{}{la Straniera Mistriosa}
-{28600}{}{lo Straniero Mistrioso}
+{28600}{}{la Straniera Mistriosa}
 {28700}{}{la Straniera Mistriosa}
 {28800}{}{il Gorilla del Pres.}
 {28900}{}{un Uovo di Deathclaw}
@@ -317,9 +317,9 @@
 {30000}{}{un Mercante d'armi}
 {30100}{}{un Tecnico del Lab. Shi}
 {30200}{}{una Guardia}
-{30300}{}{un Contadino Shi}
+{30300}{}{una Contadina Shi}
 {30400}{}{una Contadina Shi}
-{30500}{}{un Contadino di Lo Pan}
+{30500}{}{una Contadina di Lo Pan}
 {30600}{}{una Contadina di Lo Pan}
 {30700}{}{un Lavoratore del Porto}
 {30800}{}{un Mercante Shi}
@@ -376,7 +376,7 @@
 {35900}{}{un Mercenario}
 {36000}{}{un Mercenario}
 {36100}{}{Ombra-che-cammina}
-{36200}{}{un Punk}
+{36200}{}{una Punk}
 {36300}{}{una Punk}
 {36400}{}{Marc}
 {36500}{}{Dave H.}

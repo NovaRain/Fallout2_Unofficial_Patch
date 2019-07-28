@@ -1,14 +1,12 @@
-# Dialog Editor last position: 57
 {100}{}{Egy gengszter.}
 {150}{}{Lara bandájához tartozik.}
 {151}{}{Úgy tûnik, Lara bandájához tartozik.}
 {200}{}{Bölcs fickó vagy mondhatom...}
-{201}{}{Megkapod a magadét!}
+{201}{}{Most megvagy!}
 {202}{}{Eljött a fizetség ideje!}
-{203}{}{Gyere csak ide!}
+{203}{}{Gyere ide!}
 {204}{}{Még nem végeztem veled.}
-{205}{}{Mocsadék!}
-
+{205}{}{Ringyó!}
 {225}{}{Kíváncsi vagyok, Metzger halála után mire számíthatunk...}
 {226}{}{Szóval Metzgernek végre annyi?}
 {227}{}{A te mûved volt?}
@@ -21,36 +19,33 @@
 {245}{}{Kösz a segítséget!}
 {246}{}{Megcsináltuk!}
 {247}{}{Bennünket akarsz csesztetni?}
-{248}{}{Jobb lesz, ha kétszer is meggondolod, mit csinálsz...}
+{248}{}{Better watch your step.}
 {249}{}{Lara az egyetlen indok, hogy miért nem akasztunk fel.}
 {250}{}{Mit akartál elérni?}
-
 {251}{}{Gyáva féreg!}
 {252}{}{Undorodom tõled!}
-{253}{}{Takarodj!}
-{254}{}{Tûnés!}
-
+{253}{}{Tûnj el!}
+{254}{}{Kotródj!}
 {255}{}{Készen állunk, csak add meg a jelet!}
 {256}{}{Ideje már, hogy szétrúgjuk a seggüket.}
 {257}{}{Utálom a várakozást.}
-{258}{}{Menjünk már!}
+{258}{}{Let's go already.}
 {259}{}{Kész vagy már?}
 {260}{}{Szólj Larának, ha készen állsz!}
-
 {270}{}{Csatlakozni akarsz?}
 {271}{}{Biztos Larához jöttél.}
-{272}{}{Mi a pálya?}
+{272}{}{Hogy ityeg a fityeg?}
 {273}{}{Larával beszélj, ha akarsz valamit!}
-{274}{}{Szia...}
+{274}{}{Szia!}
 {275}{}{Larához jöttél?}
-{300}{}{Helló!}
-{301}{}{Mizújs?}
+{300}{}{Szia!}
+{301}{}{Hogy ityeg a fityeg?}
 {302}{}{Remélem, jól mennek a dolgok.}
 {303}{}{Szóval tudsz nekünk segíteni?}
 {304}{}{Örülök, hogy látlak.}
 {305}{}{Hamarosan megmutatjuk Tylernek...}
 {306}{}{Vannak új fejlemények?}
-{310}{}{Kösz a segítséget. Sajnálom, ami Larával történt.}
+{310}{}{Thanks for the help. Too bad about Lara.}
 {311}{}{Végre elkaptuk õket!}
 {312}{}{Nélküled nem sikerült volna.}
 {313}{}{Lara legalább harc közben halt meg.}

@@ -1,6 +1,3 @@
-#
-#   Interface text from INTFACE.C
-#
 {100}{}{LOPÓZÁS}
 {101}{}{SZINTLÉPÉS}
 {102}{}{FÜGGÕSÉG}

@@ -1,10 +1,9 @@
-# Dialog Editor last position: 62
-{100}{}{A bár egyik kuncsaftját látod.}
+{100}{}{Vendég.}
 {101}{}{Leanne.}
 {102}{}{Nagyon szép, de mintha elbambult volna.}
 {103}{}{Hagyd abba!}
 {104}{}{Mért csinálod ezt?}
-{105}{}{Hagyj békén!}
+{105}{}{Ne érj hozzám!}
 {106}{}{Kérlek, hagyd abba!}
 {107}{}{Gyilkos!}
 {108}{}{Hogy tehetted ezt Beckyvel?!}
@@ -16,7 +15,7 @@
 {114}{}{Köszönöm, hogy meghallgattál.}
 {115}{}{Örülök, hogy újra látlak.}
 {116}{}{Jó utat!}
-{117}{}{Helló! Jó új arcokat látni a városban. Leanne vagyok. Hogy vagy? Leülsz?}
+{117}{}{Why hello! Nice to see a new face around here. My name's Leanne. How are you? Care to sit down?}
 {118}{}{Helló! Remélem, jól vagy.}
 {119}{}{Szóval, mesélj nekem a Mesterrõl!}
 {120}{}{Remek. Hogy mennek a dolgaid?}
@@ -32,22 +31,22 @@
 {136}{}{Igen. Én vagyok a Kiválasztott. Az õsöm mentette meg a világot a Mestertõl.}
 {137}{}{Ja. Valószínûsíthetõ, hogy az õsöm mentette meg a világot a Mestertõl.}
 {138}{}{Mennem kell.}
-{139}{}{Öö. Oké. Örülök, hogy találkoztunk, Kiválasztott... Az az igazság, hogy hallottam valamit a Mesterrõl...}
+{139}{}{Uh, okay. Nice to meet you Chosen One... Actually, I've heard something about a master before...}
 {140}{}{Milyen érdekes. Ez emlékeztet egy régi sztorira a Mesterrõl.}
 {141}{}{Igazán? Mégis mi az?}
-{142}{}{Meséld el, kérlek!}
+{142}{}{Mondd el!}
 {143}{}{Rendben. Viszlát!}
 {144}{}{Hát ez bizony eltarthat egy darabig. Kérlek, légy úriember és vegyél nekem egy üdítõt. De ne whiskeyt, hanem Nuka-Kólát.}
 {145}{}{Elég sokáig tarthat. Kérlek, hívj meg egy italra, de ne whiskeyre, hanem Nuka-Kólára.}
 {146}{}{Kezdhetjük? Most már elég jól emlékszem rá.}
-{147}{}{Persze.}
+{147}{}{Hogyne.}
 {148}{}{Sajnálom, de most nincs fölös 5 dollárom.}
 {149}{}{Kösz. Na, nézzük csak... emlékszem, a Mama mesélt egy nagy vándorlásról 70... vagy 80 éve történt...}
 {150}{}{Kérlek, folytasd!}
 {151}{}{Óriási mutánsok jöttek délrõl, akkora fegyverekkel, mint te vagy én. Mama azt mondta, hogy ez valami nagy népvándorlás lehet.}
 {152}{}{Hányan lehettek?}
 {153}{}{Nem tudom, de több csoport is volt. Néhányuk tovább ment északra, mások pedig keletre indultak. Senki sem tudja, merre mentek.}
-{154}{}{Folytasd csak!}
+{154}{}{Folytasd!}
 {155}{}{Nagyon idegesek voltak és mintha menekültek volna valami elõl.}
 {156}{}{Igazán?}
 {157}{}{Igen, voltak mások is, koszos, cafatos, bíbor palástban... arról gagyogtak, hogy a Mester meghalt...}
@@ -59,5 +58,5 @@
 {163}{}{Az az igazság, hogy elég késõ van már. Viszlát!}
 {164}{}{Örömömre szolgált. Viszlát!}
 {165}{}{Viszlát!}
-{166}{}{Hagyjuk inkább!}
+{166}{}{Senkit.}
 {167}{}{Leanne elmesélte emlékeit a Mesterrõl.}

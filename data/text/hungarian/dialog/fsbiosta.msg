@@ -1,7 +1,7 @@
-{100}{}{Számítógép-terminál.}
+{100}{}{Egy számítógép-terminált látsz.}
 {101}{}{Biológiai munkaállomás}
 {102}{}{Mûködõ számítógép-terminál.}
-{103}{}{Üdvözöljük! Kérem, adja meg a személyi azonosítóját!}
+{103}{}{Üdvözöljük! Kérem, azonosítsa magát!}
 {104}{}{[Óóó! Nézd már a villogó fényeket!]}
 {105}{}{::megpróbálod kitalálni a jelszót::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
@@ -11,10 +11,10 @@
 {110}{}{Botanika program.}
 {111}{}{Genetikai program.}
 {112}{}{Xeno program.}
-{113}{}{Személyes feljegyzések.}
+{113}{}{A közelmúlt személyes feljegyzései.}
 {114}{}{Munkaállomás deaktiválása.}
-{115}{}{Helytelen jelszó! Kérem, beszéljen a rendszergazdával! Viszlát!}
-{116}{}{::meghekkeled a számítógépt::}
+{115}{}{Helytelen jelszó! Kérem, beszéljen a rendszergazdával. Viszlát!}
+{116}{}{::meghekkeled a számítógépet::}
 {117}{}{::távozol::}
 {118}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
 {119}{}{-kész-}
@@ -40,10 +40,8 @@
 {139}{}{Vissza.}
 {140}{}{Állomás deaktiválva.}
 {141}{}{Állomás aktiválása.}
-{142}{}{-távozol-}
-{143}{}{[Igaz ugyan, hogy favágó módjára nyúlsz a billentyûzethez, mégis sikerül elõvarázsolnod a helyes jelszót... hihetetlenül szerencsés vagy!]}
+{142}{}{-kilépés-}
+{143}{}{[Your ham-fisted approach across the keys triggers the correct password... your luck is incredible!]}
 {144}{}{-tovább-}
-
-
 {145}{}{A számítógép semmilyen inputra nem reagál.}
 {146}{}{Nem találsz rajta semmilyen helyet, ahol ezt alkalmazhatnád.}

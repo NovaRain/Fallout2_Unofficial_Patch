@@ -10,7 +10,6 @@
 {109}{}{Buongiorno, straniero. Siete nuovo in citta'?}
 {110}{}{Circolare. Non c'e' niente da vedere.}
 {111}{}{Sono impegnato. Se c'e' qualche problema fareste bene a parlarne con lo sceriffo.}
-
 {112}{}{Ehi, smettila di toccarlo.}
 {113}{}{Sta' lontano da li'.}
 {114}{}{Non si puo' toccare.}

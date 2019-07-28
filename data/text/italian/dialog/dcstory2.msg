@@ -1,11 +1,11 @@
 {100}{}{Vedi una cliente del bar.}
 {101}{}{Vedi Stacy.}
 {102}{}{Sembra un po' triste.}
-{103}{}{Smettila!}
+{103}{}{Fermati!}
 {104}{}{Come puoi farci questo?}
-{105}{}{Sta' lontano da me!}
+{105}{}{Stammi lontano!}
 {106}{}{Perche'?}
-{107}{}{Ti prego, basta!}
+{107}{}{Ti prego, smettila!}
 {108}{}{Assassino!}
 {109}{}{Povera Mama! La pagherai per questo!}
 {110}{}{Mama...}
@@ -23,9 +23,6 @@
 {122}{}{Ci becchiamo dopo. Ciao.}
 {123}{}{Okah?}
 {124}{}{Ug.}
-
-# Node 005 removed
-
 {131}{}{Per favore, non disturbarmi. Adesso non sono davvero dell'umore giusto.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -35,7 +32,7 @@
 {137}{}{Si', la mia Cuddles. Era un gatto davvero dolce. Non me la sento di parlarne... Beh, a meno che tu non voglia offrirmi qualcosa da bere. Potrebbe aiutare...}
 {138}{}{Come ti ho gia' detto, adesso preferirei non parlarne. Se pero' tu volessi offrirmi qualcosa da bere, mi si potrebbe sciogliere la lingua.}
 {139}{}{Lo faro' certamente. Vorrei tanto sentire la tua storia.}
-{140}{}{Certo.}
+{140}{}{Bene.}
 {141}{}{Mi spiace, adesso non posso permettermi di spendere 10$.}
 {142}{}{Ovviamente.}
 {143}{}{Credi di essere divertente? Datti un contegno.}
@@ -50,7 +47,7 @@
 {152}{}{Che roba.}
 {153}{}{Di notte, Cuddles mi aiutava sempre ad addormentarmi. Penso a lei ogni notte, quando cerco di dormire.}
 {154}{}{Carino.}
-{155}{}{Va' avanti.}
+{155}{}{Continua.}
 {156}{}{L'avevo quando ero una bambina, ma poi e' scomparsa. A quel tempo non sapevo cosa le fosse successo, ero troppo piccola.}
 {157}{}{Perche'?}
 {158}{}{Beh, il cibo scarseggiava a quei tempi e la gente doveva mangiare. E' davvero triste...}
@@ -63,5 +60,5 @@
 {165}{}{Mi dispiace.}
 {166}{}{Oh...}
 {167}{}{Divento triste quando ci penso...}
-{168}{}{Ciao.}
+{168}{}{Addio.}
 {169}{}{Stacy ti ha raccontato la dolce storia di Cuddles, il suo gatto.}

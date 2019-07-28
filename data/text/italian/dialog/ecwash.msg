@@ -10,8 +10,6 @@
 {109}{}{Vedi Alexand the Killer Bee, un membro degli Unwashed Villagers.}
 {110}{}{Vedi Hatchetman, un membro degli Unwashed Villagers.}
 {111}{}{Vedi BlueCross, un membro degli Unwashed Villagers.}
-
-# Examines
 {113}{}{Vedi Buffy, una cheerleader molto bella, intelligente e vivace. La Prima Donna degli Unwashed Villagers.}
 {114}{}{Vedi Doombot, Dea del Suono e sorella di Buffy. Assomiglia un po' a Marie Osmond.}
 {115}{}{Vedi Panoply, una specie di ragazza-folletto. I suoi occhi tradiscono un lieve caso di demenza.}
@@ -24,8 +22,6 @@
 {122}{}{Vedi Alexand the Killer Bee, una varieta' pacifica e intelligente dell'ape killer - Capo Scriba degli Unwashed Villagers.}
 {123}{}{Vedi Hatchetman, Armaiolo degli Unwashed - Attaccabrighe - Custode della tradizione di Shadowrun.}
 {124}{}{Vedi BlueCross, Parroco degli Unwashed - Direttore di Produzione.}
-
-# UV Leaving Floats
 {200}{}{E ancora una volta la giornata e' salva, grazie agli... Unwashed Villagers!}
 {201}{}{La morte e' poco per lui.}
 {202}{}{E rimanici!}
@@ -47,13 +43,11 @@
 {218}{}{Gli Unwashed Villagers. Mantengono la pace in un deserto maledetto.}
 {219}{}{Ha avuto quello che si meritava.}
 {220}{}{Ti faro' correre!}
-
-# UV Combat Floats
 {300}{}{Sapone? Noi non abbiamo bisogno del sapone!}
 {301}{}{Avanti Unwashed! Distruggiamo lo Spammer!}
 {302}{}{A morte lo Spammer!}
 {303}{}{Questo e' per aver minacciato di morte le persone!}
-{304}{}{Adesso tu morirai, Grim Reaper.}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{Ti rivolteremo come un calzino!}
 {306}{}{Il tuo brodo primordiale era andato a male.}
 {307}{}{E' l'ora della vendetta!}
@@ -66,50 +60,26 @@
 {314}{}{Proteggiamo il Prescelto dalle idiozie dello Spammer!}
 {315}{}{Prescelto! Unisciti a noi!}
 {316}{}{UNWASHED VENDETTA!}
-{317}{}{Non sarai mai un "Unwashed" stupido moccioso!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{Non hai scampo!}
 {319}{}{Non abbiamo ancora finito!}
 {320}{}{Aspettavo questo giorno da mooooooolto tempo.}
-
-# 1 Buffy Personal Floats
 {400}{}{Questo e' per avermi minacciata!}
-{401}{}{Ne sono certa! Non faresti mai del male ad una ragazza, vero?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{"La vendetta e' un piatto che va servito freddo."}
-{403}{}{Io sono Buffy... la tua preferita.}
-
-# 2 Doombot Personal Floats
+{403}{}{I'm Buffy... you're toast.}
 {405}{}{Nessuno minaccia Doombot!}
 {406}{}{Acchiappa-Grim!}
-
-# 3 Panoply Personal Floats
 {410}{}{Solo un guanabana ha un sapore simile a questa vittoria...}
-
-# 4 Lerk Personal Floats
 {415}{}{Il Villaggio e' un luogo tranquillo, ma tu ci hai fatto arrabbiare, molto arrabbiare.}
-
-# 5 Ymir Personal Floats
 {420}{}{Hai gettato la nostra terra nella vergogna con le tue azioni per l'ultima volta!}
-
-# 6 Iguana Eater Personal Floats - None
-
-# 7 Night Owl Personal Floats
 {430}{}{Ti mettero' a dormire per sempre!}
-
-# 8 Shadow Dancer Personal Floats
 {435}{}{Stiamo tutti per andare all'inferno, e io guido il bus.}
 {436}{}{Vieni figliolo, lascia che metta fine alle tue pene.}
 {437}{}{Sei morto. E' solo che non lo sai ancora.}
-
-# 9 Amish Commando Personal Floats
 {440}{}{Prendi un po' di questo!}
 {441}{}{Ne vuoi ancora?}
 {442}{}{Non la faccia, non la faccia!}
-
-# 10 Killer Bee Personal Floats
 {445}{}{Dante non ha scritto nulla a proposito dell'inferno nel quale ti sto per mandare...}
-
-# 11 Hatchetman Personal Floats
 {450}{}{Pistole! Pistole! Pistole! Dove sono le mie pistole?!}
 {451}{}{Ok, si'. Sono pazzo. Fattene una ragione.}
-
-# 12 BlueCross Personal Floats - None

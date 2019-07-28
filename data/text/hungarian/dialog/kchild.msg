@@ -1,5 +1,4 @@
-# Dialog Editor last position: 75
-{100}{}{Klamath egyik gyerekét látod.}
+{100}{}{Egy Klamathban élõ gyereket látsz.}
 {101}{}{Egy Klamathban élõ gyereket látsz.}
 {150}{}{Ne egyél meg!}
 {151}{}{Áááááá! Szörnyeteg!}
@@ -30,7 +29,7 @@
 {177}{}{Szerintem aranyosabb vagy, mint amilyennek látszol.}
 {178}{}{Fogócskázzunk! Te vagy a fogó!}
 {179}{}{Nincs is olyan rossz szagod.}
-{180}{}{Találkoztál már a láthatatlan barátommal?}
+{180}{}{Láttad már a láthatatlan barátom?}
 {181}{}{Ha olyan idõs leszek, mint te, körbe fogom utazni a világot.}
 {182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
 {183}{}{Fogadok, hogy te is gyakran fürdõzöl.}
@@ -64,7 +63,7 @@
 {211}{}{Mi a munkád?}
 {212}{}{Tudok ám gyorsan futni. Megmutassam?}
 {213}{}{Nézzél! Nézzél!}
-{214}{}{Anyu azt mondja, hogy sokat beszélek.}
+{214}{}{Mommy says I talk too much.}
 {215}{}{Hol van az otthonod?}
 {216}{}{Jupppíííí! Hurrááá!}
 {217}{}{Itt fogsz maradni?}
@@ -74,3 +73,30 @@
 {221}{}{Kedvelsz?}
 {222}{}{Házas vagy?}
 {223}{}{Egy, kettõ, három - álom!}
+{1000}{}{Törzsfõ}
+{1001}{}{Alapító}
+{1002}{}{Menedéklakó}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Menedék}
+{1006}{}{Kiválasztott}
+{1007}{}{Sámán}
+{1008}{}{Hakunin}
+{1009}{}{Gyógyító por}
+{1010}{}{Híd}
+{1011}{}{Mynoc}
+{1100}{}{A törzsfõ a te édesanyád és a vezetõnk.}
+{1101}{}{Õ a mi nagyszerû õsünk, neki köszönhetjük a tudást.}
+{1102}{}{Õ volt az, aki elõször küzdött meg sikeresen a káosszal.}
+{1103}{}{Ez a mi szépséges falunk.}
+{1104}{}{That's trading outpost a few days east of here.}
+{1105}{}{A Menedék maga a mennyország.}
+{1106}{}{TE vagy a Kiválasztott.}
+{1107}{}{He heals us with his herbs and magic. He is in the north part
+ of our village.}
+{1108}{}{He heals us with his herbs and magic. He is in the north part
+ of our village.}
+{1109}{}{It is a magic powder which will heal you, but will make you
+ sleepy.}
+{1110}{}{A Nagy Híd dél felé van a falunktól.}
+{1111}{}{He guards the bridge leading into our village.}

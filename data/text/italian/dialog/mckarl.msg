@@ -1,7 +1,6 @@
 {100}{}{Una persona molto ubriaca. [Ha un cartello che dice "Lavoro in cambio di cibo".]}
 {101}{}{Vedi Karl.}
 {102}{}{E' cosi' sporco che si possono vedere delle piante selvatiche spuntare dai suoi capelli.}
-
 {150}{}{Ecco, bevi una birra.}
 {151}{}{Ecco, bevi questa bottiglia di whiskey.}
 {152}{}{Ecco, bevi una Nuka-Cola.}
@@ -11,14 +10,14 @@
 {156}{}{I fantasmi non riusciranno a trovarmi qui... [sob]}
 {157}{}{E' bello essere di nuovo a casa.}
 {159}{}{E' Karl; e' svenuto. }
-{160}{}{Deve farsi passare la sbornia.} ###???He’s going to have to sleep it off
+{160}{}{Deve farsi passare la sbornia.}
 {161}{}{Argh! I fantasmi della fattoria sono venuti a prendermi!}
 {162}{}{Hai qualche soldo da dare ad un (hic) contadino disoccupato?}
 {163}{}{Certo, compare; quanto ti serve?}
 {164}{}{E se invece ti offrissi un pasto caldo?}
 {165}{}{Mi spiace, non ho denaro con me.}
 {166}{}{Qual e' la tua storia?}
-{167}{}{Ecco soldini?} ###???Here cha-ange
+{167}{}{Ecco soldini?}
 {168}{}{Jooky.}
 {169}{}{Oh, sei una persona gentile e generosa. (hic) Cosa puo' fare Karl per aiutarti? (hic) [Si toglie il cappello e tende la mano.]}
 {170}{}{Tieni. Ecco 100$.}
@@ -31,7 +30,7 @@
 {184}{}{Tieni. Ecco 1$.}
 {185}{}{Ecco soldi.}
 {186}{}{No soldi.}
-{187}{}{Che cosa vuoi?}
+{187}{}{Cosa vuoi?}
 {188}{}{[Riferisci a Karl quello che ha detto Jo.]}
 {189}{}{Fantasmi, Karl... dappertutto. Guarda! Ce n'e' uno proprio dietro a te!}
 {190}{}{Gibba gibba.}
@@ -65,7 +64,7 @@
 {227}{}{Beh, grazie (hic) mille; sei molto (hic) gentile. Lascia che ti aiuti con quel tuo pesante portamonete... [Karl prende il tuo portamonete e intasca meta' dei tuoi soldi.] Molto gentile da parte tua (hic) se hai bisogno di qualcosa, non esitare a chiedermelo.}
 {228}{}{GECK?}
 {229}{}{Io vado.}
-{230}{}{Jooky... hic... E' una festa in scatola.} ###???
+{230}{}{Jooky... hic... E' una festa in scatola.}
 {231}{}{Magari dopo, allora.}
 {232}{}{Gee... (hic) ...grazie. Forse riesco a comprarci un (hic) proiettile per spararmi in testa. (hic) Naturalmente dovro' risparmiare per (hic) comprarmi anche la pistola.}
 {233}{}{Vuoi dire che... Posso tornare a casa? Niente piu' fantasmi? [Karl crolla a terra e comincia a piangere. Ragazzi, fa sempre un certo effetto vedere un uomo adulto che piange.] Grazie, finalmente posso tornare di nuovo a casa!}
@@ -78,25 +77,21 @@
 {240}{}{Certo, ma ti costera' 1000$.}
 {241}{}{Ti ringrazio per l'offerta, ma preferirei parlare del GECK.}
 {242}{}{Neanche morto!}
-{243}{}{Sei cooooosi' carino... (hic) Se tu non dici nulla, non saro' io a farlo. (hic)} ###???
+{243}{}{Sei cooooosi' carino... (hic) Se tu non dici nulla, non saro' io a farlo. (hic)}
 {244}{}{[Ti trattieni a malapena dal vomitare.] Devo andare.}
 {245}{}{OK, 1000$.}
 {246}{}{[Tu e Karl sgattaiolate sul retro per una sveltina. Con tua sorpresa, hai trovato la cosa piacevole.]}
 {247}{}{[Rapidamente gli passa la sbornia e comincia a raccontare la sua storia.] Una volta, prima di venire qui, ero un cittadino forte e sano. Ero un contadino tranquillo che lavorava i campi impegnandosi come qualsiasi altra persona -- finche' non cominciarono a comparire di notte. Tutti luminosi, con la pelle pallida e bianca... Mi spaventavano a morte, mi spaventavano. Notte dopo notte si mostravano a me e rubavano i raccolti e il bestiame; non potevo fare nulla per fermarli. So quello che stai per dire - "Perche' non hai chiesto aiuto a qualcuno?" Il bello e' che lo feci! Nessuno mi credeva, pensavano che fossi pazzo. Alla fine, la situazione si era fatta insostenibile. NON POTEVO RESTARE LA' UN SECONDO DI PIU'! Allora sono scappato e sono venuto qui -- e qui sono rimasto da allora. [Karl comincia a piangere a dirotto e in maniera convulsa. Decidi di lasciarlo solo con il suo dolore.]}
 {248}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco }
-{249}{}{$.}
-
+{249}{}{.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
 {255}{}{*snort* *grunt* *snort*}
-
 {260}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco }
 {261}{}{$. E' tutto quel che ho.}
 {262}{}{Oh, capperi. Devo aver perso i soldi per la strada. Mi dispiace... e' stato bello pero'.}
-
 {300}{}{Torno a casa! Grazie a te!}
-
 {400}{}{Hai mandato Karl sulla strada di casa, a Modoc.}

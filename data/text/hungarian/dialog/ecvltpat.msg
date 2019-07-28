@@ -1,4 +1,3 @@
-# Dialog Editor last position: 17
 {100}{}{Figyelmeztetni kell Lynette-et!}
 {101}{}{Figyelmeztetni kell Menedékvárost!}
 {102}{}{Kívülálló söpredék...}

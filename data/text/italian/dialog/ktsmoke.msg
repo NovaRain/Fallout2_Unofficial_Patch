@@ -1,1 +1,1 @@
-{100}{}{Questa stanza puzza molto di fumo.}x
+{100}{}{Questa stanza puzza molto di fumo.}

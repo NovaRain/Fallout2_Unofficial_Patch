@@ -17,14 +17,14 @@
 {116}{}{Franc! Én innen lépek!}
 {117}{}{Ezért nem érdemes megdögleni!}
 {118}{}{Látom, van egy szép kis tetoválásod - a rabszolga-vadászok jele. Ugye már nem tartozol közéjük?}
-{119}{}{De igen.}
+{119}{}{Igen.}
 {120}{}{Nem.}
 {121}{}{Nagy kár... Ugyanis mi ÚKK Felderítõk vagyunk. Hallottál már rólunk? Igen, mi vadászunk a rabszolga-tartókra.}
 {122}{}{Te, szarzsák! Kapjuk el, fiúk!}
-{123}{}{Üdv, idegen! Ezékiel vagyok az ÚKK Felderítõktõl. Te ki vagy?}
-{124}{}{Az nem a te dolgod.}
+{123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}
+{124}{}{Semmi közöd hozzá.}
 {125}{}{Nicsak, én már hallottam ezt a nevet. Felderítõ vagy, nemde?}
-{126}{}{De igen.}
+{126}{}{Igen.}
 {127}{}{Semmi közöd hozzá.}
 {128}{}{Rendben, te antiszociális tuskó. A lényeg, hogy nem vagy rabszolga-tartó. Viszlát!}
 {129}{}{Örülök, hogy találkoztunk, Felderítõ bajtárs. Tartsd nyitva a szemed! Viszlát legközelebb!}

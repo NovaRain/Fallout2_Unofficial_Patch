@@ -21,13 +21,13 @@
 {120}{}{Ian?}
 {121}{}{Certo, Ian. Non ti ricordi di me? Sono passati un sacco di anni. Pensavo che non avresti mai dimenticato il tuo migliore amico. Beh... a parte quella faccenda degli spari alla schiena. Scusami ancora per quello.}
 {122}{}{Mi dispiace, ma forse mi hai scambiato l'Abitante del Vault. Il mio villaggio e' stato fondato da una persona che proveniva dal Vault.}
-{123}{}{Beh, questo spiega un po' le cose. Beh, mi fa piacere sentire che il mio amico ha fatto qualcosa di buono. Beh, il vecchio Ian ha un consiglio per te. Sta' attento. Questo posto non e' cosi' candido come sembra.} ###???to hear my friend did well
-{124}{}{Cosa succede?}
+{123}{}{Beh, questo spiega un po' le cose. Beh, mi fa piacere sentire che il mio amico ha fatto qualcosa di buono. Beh, il vecchio Ian ha un consiglio per te. Sta' attento. Questo posto non e' cosi' candido come sembra.}
+{124}{}{Cosa sta succedendo?}
 {125}{}{Beh, i Cittadini di Vault City tengono molto alla loro stirpe e non considerano molto le persone come me e te. Prendi questa. Ti proteggera' se le cose dovessero complicarsi un po'. Probabilmente non dovresti farti vedere a parlare con un vecchio pazzo. Farai meglio ad andartene.}
-{126}{}{Grazie per il tuo aiuto.}
+{126}{}{Grazie dell'aiuto.}
 {127}{}{Lascia riposare questo povero vecchio.}
 {128}{}{Cosi' familiare...}
 {129}{}{Adesso lasciami solo.}
 {130}{}{Faresti meglio ad andare.}
 {131}{}{Si insospettiranno se ci vedono parlare ancora.}
-{132}{}{Su, vai. Fa' in modo che il mio vecchio amico sia fiero di te.} ###???get
+{132}{}{Su, vai. Fa' in modo che il mio vecchio amico sia fiero di te.}

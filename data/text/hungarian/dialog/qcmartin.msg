@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy nyúzott emberkét látsz kék ruhában.}
 {101}{}{Martin Frobishert, a 13-as Menedék lakóinak szószólóját látod.}
 {102}{}{Egy nyúzott embert látsz olyan ruhában, mint a tiéd.}
@@ -23,7 +22,7 @@
 {121}{}{Gyere ide!}
 {122}{}{Az összes kérdésedre tudom a választ.}
 {123}{}{Martin vagyok.}
-{124}{}{Megmondhatom, mi történt.}
+{124}{}{Én tudom, mi történt.}
 {125}{}{Helló, Martin Frobisher vagyok. Az itteni emberek nevében beszélek. Hála Istennek, hogy itt vagy.}
 {126}{}{Mit szeretnél tudni?}
 {127}{}{Szép kis kompánia, csakúgy mint az enyém. Kik a te embereid?}
@@ -52,16 +51,15 @@
 {150}{}{Csak azért, mert kerestem. Hé, te vagy a Felvigyázó?}
 {151}{}{ÉLET-et? Volt vagy egy tucat belõle. Egyet nyugodtan elvehetsz. Egyébként, jut eszembe, láttam amint egy katona felrakott az egyik gépmadárra egyet.}
 {152}{}{Láttad, amint felrakja? Nem tudod, hová vitték?}
-{153}{}{Ezzel nincs gond. Már magamhoz vettem egyet a menedékbõl. Hadd kérdezzek valami mást!}
+{153}{}{That's okay. I already helped myself to a GECK from our vault. Let me ask you something else.}
 {154}{}{Nem tudom, hová tették, de hallottam, hogy valahol az elválasztó szinten hagyják, egyel alattunk. Persze nem biztos...}
 {155}{}{Ez remek! Köszi. Most jobb, ha megyek.}
 {156}{}{Hm, értem. Hadd kérdezzek valami mást!}
 {157}{}{Várj! Ki kell hogy juttass bennünket errõl a helyrõl!}
-{158}{}{Tervezem is. Lemegyek a reaktorhoz és lekapcsolom az energiát. Ha az erõterek kikapcsolnak, akkor fussatok a felszínre a hajómhoz.}
+{158}{}{I plan to. I'm going downstairs to the power plant to shut the power off and free you. When the fields are down, run topside for the ship I've got there.}
 {159}{}{Mégis hogyan csináljam?}
 {160}{}{Jobban meg kellett volna gondolnotok, mielõtt számûztétek az õsömet a menedékbõl. Remélem, itt fogtok megrohadni mindannyian!}
 {161}{}{Köszönöm. Sok szerencsét kívánok!}
-#Ezt lerövidítettem, jobb így a párbeszédben (Bass)
 {162}{}{Viszlát és sok szerencsét!}
 {163}{}{Köszönöm, de hadd kérdezzek valami mást!}
 {164}{}{Úgy érzem, kelleni fog. Viszlát!}

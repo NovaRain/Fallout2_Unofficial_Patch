@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt egy lecsoffadt nyomorult.}
 {101}{}{Õ Rattray, Johnson doki púpos asszisztense.}
 {102}{}{E lecsoffadt, púpos, kripli nyomorult haja hihetetlenül korpás.}

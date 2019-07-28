@@ -1,4 +1,3 @@
-# Dialog Editor last position: 14
 {100}{}{Csaló Urat látod.}
 {101}{}{Még mindig egy megrögzött csalónak látszik.}
 {200}{}{Helló, én Csaló Úr vagyok. Miben segíthetek?}

@@ -1,11 +1,8 @@
-# Dialog Editor last position: 16
 {100}{}{Õ nem mást, mint... Set.}
 {101}{}{Egy rothadó ghoult látsz, akinek gép-alkatrészek állnak ki a fejébõl. Nehéz eldönteni, hogy feledékeny-e vagy sem.}
 {102}{}{Õ Set. Éppen magában beszél.}
 {103}{}{Õ Set. Éppen magában beszél.}
 {104}{}{"Hazavágtak!"}
-#A dirtnap az a halal egyik szlenges megfeleloje "taking a dirtnap" (bass)
-
 {105}{}{"Hazavágtak!"}
 {106}{}{"Hazavágtak... Kezdek berágni miatta..."}
 {107}{}{Heh-heh.}

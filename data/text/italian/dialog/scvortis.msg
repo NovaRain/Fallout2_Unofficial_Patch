@@ -8,16 +8,16 @@
 {107}{}{Ma cosa sei, stupido? Questo e' un campo schiavi. Ho tutti i permessi in regola.}
 {108}{}{}
 {109}{}{Avrei solo alcune domande.}
-{110}{}{Sto cercando un lavoro.}
+{110}{}{Sto cercando lavoro.}
 {111}{}{Uh?}
 {112}{}{No essere gabinetto? Me va via.}
 {113}{}{Cos'e' questo posto?}
 {114}{}{Nulla. Ho sbagliato porta.}
 {115}{}{Oh, ma sentitelo, il santerellino. Ragazzi, toglietemi dalla vista questo ipocrita esempio di sante virtu'!}
 {116}{}{Affanculo.}
-{117}{}{'mbe?}
+{117}{}{Beh?}
 {118}{}{Sto cercando il Vault 13.}
-{119}{}{Hai per caso un GECK?}
+{119}{}{Hai un GECK?}
 {120}{}{Cosa puoi dirmi a proposito di questa citta'?}
 {121}{}{Tu sei feccia schiavista! Perche' mai non dovrei ucciderti?}
 {122}{}{Ho sentito parlare di questi tizi - i Ranger della Nuova California. Ti hanno mai dato problemi?}
@@ -26,10 +26,10 @@
 {125}{}{Si'.}
 {126}{}{No.}
 {127}{}{Ma vattela a prendere in culo. Ragazzi, toglietemi dalla vista questo merdoso rompiballe.}
-{128}{}{Al diavolo!}
+{128}{}{Va' a quel paese!}
 {129}{}{Vault 13! Fuori di qui! Quel dannato posto e' solo una leggenda. Vault 13, un corno!}
 {130}{}{Un'altra domanda...}
-{131}{}{Beh, davvero molto gentile...}
+{131}{}{Beh, davvero molto gentile.}
 {132}{}{Un che? Beh, qualunque cosa sia, non ce l'ho.}
 {133}{}{Un'altra domanda...}
 {134}{}{Beh, davvero molto gentile.}
@@ -46,8 +46,8 @@
 {145}{}{Un'altra domanda...}
 {146}{}{Sei troppo permaloso per i miei gusti. Me ne vado.}
 {147}{}{Bene. Allora... devi sapere che alcune persone li vedono come una potenziale fonte di problemi. Sarebbe davvero una gran cosa se riuscissimo a procurarci una mappa delle loro postazioni nel nord - New Reno, Klamath, ovunque. Sarei disposto a pagare, diciamo, 500$ per una cosa del genere. Credi di potermela procurare?}
-{148}{}{Certamente.}
-{149}{}{Non credo.}
+{148}{}{Bene.}
+{149}{}{Non credo proprio.}
 {150}{}{Te ne parlero' io, allora. Questi Ranger si sono messi in testa di eliminare la schiavitu' e gli schiavisti - con la forza. Sono una vera spina nel fianco di tanti lavoratori. }
 {151}{}{Lavorano sotto copertura, soprattutto nel nord. }
 {152}{}{Cavoli, devo farti un disegno? Attaccano gli schiavisti, si appropriano delle nostre "scorte", e le portano giu' a sud, nel territorio di NCR dove la schiavitu' e' considerata illegale. Allora, ti interessa?}
@@ -68,14 +68,11 @@
 {167}{}{Oh, certo! Me n'ero dimenticato.}
 {168}{}{Da quando hai fatto il tuo lavoro, no. Grazie.}
 {169}{}{Solo una domanda o due.}
-{170}{}{Non c'e' di che. Ci vediamo.}
+{170}{}{Nessun problema. Addio.}
 {171}{}{Ottimo lavoro. Adesso sara' meglio che tu diventi uccel di bosco, casomai i Ranger dovessero capire cos'e' successo.}
 {172}{}{E' stato un piacere fare affari con te.}
 {173}{}{Beh, non startene qui imbambolato, imbecille! Qualcuno potrebbe insospettirsi.}
 {174}{}{D'accordo, ho capito l'antifona.}
 {175}{}{Cosa cazzo...? Guardie! Abbiamo un ospite indesiderato!}
 {176}{}{Prova ad entrare li' dentro e ti faro' saltare la testa. Hai capito?}
-
-#added by killap
 {177}{}{E' tardi e siamo chiusi. Torna al mattino.}
-

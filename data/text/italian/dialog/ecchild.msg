@@ -1,7 +1,5 @@
 {100}{}{Vedi un ragazzino.}
 {101}{}{Vedi una ragazzina.}
-
-
 {200}{}{Siamo arrivati?}
 {201}{}{Che fatica.}
 {202}{}{Mi porti in braccio?}

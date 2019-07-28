@@ -43,7 +43,7 @@
 {142}{}{E' pr-proh-proprio laggiu'... e' il coh-coh-computer pah-pah-parlante.}
 {143}{}{(E' proprio' laggiu'. E' il computer parlante.)}
 {144}{}{Di cosa ti occupi?}
-{145}{}{Grazie. Ci vediamo.}
+{145}{}{Grazie. Arrivederci.}
 {146}{}{Teh-teh-tengo solo d'occhio le coh-coh-cose immagazzinate qui. Mi ah-ah-assicuro che le porte rimangano chiuh-chiuh-chiuse.}
 {147}{}{(Tengo solo d'occhio le cose immagazzinate qui. Mi assicuro che le porte rimangano chiuse.)}
 {148}{}{Hai una chiave?}
@@ -63,7 +63,7 @@
 {162}{}{Oh. Grazie delle informazioni.}
 {163}{}{Noh-noh-non lo so. Mic-Clure e' davvero pr-pr-preoccupato.}
 {164}{}{(Non lo so. McClure e' davvero preoccupato.)}
-{165}{}{Puoi dirmi dove si trova il Computer Centrale?}
+{165}{}{Potresti dirmi dove si trova il Computer Centrale?}
 {166}{}{Forse andro' a parlare con lui, allora. Grazie.}
 {167}{}{Cih-cih-ciao. Tih-tih-ti seh-seh-serve qualcosa?}
 {168}{}{(Ciao. Ti serve qualcosa?)}
@@ -71,7 +71,7 @@
 {170}{}{Puoi smetterla di cantare quella dannata canzone?! Mi fa diventare pazzo.}
 {171}{}{Hai davvero una bella voce. Dovresti continuare ad esercitarti.}
 {172}{}{Di cosa mi hai detto che ti occupi?}
-{173}{}{Nulla. Scusa se ti ho disturbato.}
+{173}{}{Come non detto. Scusa il disturbo.}
 {174}{}{Gh-gh-grazie! Molto g-gentile da parte tua.}
 {175}{}{Di cosa mi hai detto che ti occupi?}
 {176}{}{Mi faceva piacere dirtelo. Ci vediamo.}

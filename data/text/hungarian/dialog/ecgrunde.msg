@@ -1,4 +1,3 @@
-# Dialog Editor last position: 9
 {100}{}{Erre, egérke, gyere csak!}
 {101}{}{Grundelnek kellesz raguhoz.}
 {102}{}{Gyere csak, pici egérke!}

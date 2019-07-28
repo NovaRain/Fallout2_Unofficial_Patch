@@ -1,4 +1,3 @@
-# Dialog Editor last position: 9
 {100}{}{Házõrzõ.}
 {101}{}{Eléggé morcos kutya.}
 {120}{}{Házõrzõ.}
@@ -12,3 +11,4 @@
 {211}{}{Kutyu nem szeret.}
 {212}{}{Jóóó kutya!}
 {250}{}{Ez a kutya, ha akarna, simán széttéphetne.}
+{300}{}{You killed all the dogs attacking the brahmin.}

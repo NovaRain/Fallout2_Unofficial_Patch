@@ -1,4 +1,3 @@
-# Dialog Editor last position: 40
 {100}{}{Ez egy rakás rongy, ami alatt lehet hogy van valaki.}
 {101}{}{Õ Ratch, valószínûleg tetvészkedik.}
 {102}{}{Ember is lehet, mutáns is lehet. Egy biztos, irtó büdös szegény.}
@@ -9,13 +8,13 @@
 {107}{}{Úgy látszik, ügyeskezû vagy. Ugye vannak kezeid?}
 {108}{}{5 dollárért tudsz valami pletykát?}
 {109}{}{Viszlát!}
-{110}{}{Látod azt ott? Az a kedvencem, Edna. Minden cuccomat elnevezem... olyanok nekem, mint a saját gyermekeim. Borzasztó, hogy el kell adni õket, de ennem kell.}
+{110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like children to me. I hate having to sell 'em, but I got to eat.}
 {111}{}{A gyermekeimmel szemétkedsz!}
 {112}{}{Ja, jól van. Itt egy ötös. Tudsz valami jó pletykát?}
 {113}{}{Okééé... nem vagy valami spéci! Talán valahol máshol fogok vásárolni.}
 {114}{}{Hadd nézzem meg újra a készletedet!}
 {115}{}{Azt hiszem, Edna és én lassan indulunk.}
-{116}{}{Rendben, mondj hálát Istennek, gyermekem, hogy az az idegen nem vitt magával... látod, a cuccaim olyanok nekem, mintha a gyermekeim lennének.}
+{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
 {117}{}{Öhhh... hogyne.}
 {118}{}{Rendben, azt hiszem, megyek is...}
 {119}{}{Rengeteg dolgot meg tudok javítani. Van egy Claudia nevû kompresszorom, a legtöbb autóhoz illik - jó sok pacit ad a motornak. Csak 1000 dollár. Érdekel?}
@@ -24,7 +23,7 @@
 {122}{}{Talán valami más érdekelne...}
 {123}{}{Hallottam a szóbeszédet, hogy él egy doki a városban. Valami csodálatos gyógymódot tulajdonítanak neki. Nem nagyon veszem ezt be...}
 {124}{}{Aztán ott van még Sóshús. A hülye öreg azt mondogatja, hogy talált egy aranybányát...}
-{125}{}{Miss Dorothy és Toto itt voltak a múlt héten, valami alkatrészeket kerestek az erõmû megjavításához. Sajna nem tudtam nekik segiteni...}
+{125}{}{Miss Dorothy and Toto was out here last week, looking for some parts to fix the power plant. I couldn't help them, though...}
 {126}{}{Az a szóbeszéd járja a városban, hogy ami Westinnnel történt, nem baleset volt. Egyesek szerint túl sok gyanús egyén kószál errefelé...}
 {127}{}{Kösz a pénzt, de nem tudok semmi egyebet mondani.}
 {128}{}{Itt van még egy ötös.}

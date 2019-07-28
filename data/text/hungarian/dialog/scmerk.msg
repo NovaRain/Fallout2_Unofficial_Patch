@@ -4,7 +4,7 @@
 {103}{}{Nahát, láttalak szerepelni a filmekben! Gyere, mutass nekem egy kis akciót!}
 {104}{}{Nehogymár megzavard itt az én kis békémet! Tûnés innen!}
 {105}{}{Elnézést, van egy elintézendõ üzleti ügyem.}
-{106}{}{Ha üzletrõl akarsz beszélni, keress fel a Rawhide-ban! Minden egyéb esetben nyugodtan lekophatsz!}
+{106}{}{You wanna talk business, see me at the Rawhide. Otherwise leave me alone.}
 {107}{}{Csak nem téged láttalak a filmvásznon? Neked aztán meggyõzõ a... öö... az ajánlóleveled.}
 {108}{}{Látom a szemedben azt a kis plusz fényt. Gyere el a Rawhide-ba! A hozzád hasonló embereknek mindig nagy hasznát veszem.}
 {109}{}{Francba, mi ez a szag? Valami besétált a helyiségbe.}
@@ -24,10 +24,10 @@
 {123}{}{Nem foglak itt pátyolgatni, és lejmolni sem fogsz tõlem! Lehet lekopni!}
 {124}{}{Mi ez? Népjóléti kampány}
 {125}{}{Merk vagyok. Mi a szart akarsz?}
-{126}{}{Nem igaz, hogy nem tudsz lekopni...}
-{127}{}{Mutass tiszteletet, punk, különben nagyon megszívod!}
+{126}{}{Már megint maga az?}
+{127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Úrt.}
-{129}{}{Megbízatást keresek.}
+{129}{}{Munkát keresek.}
 {130}{}{Megbízható források szerint te vagy itt az az ember, akivel lehet üzletelni, ha érted, mire gondolok.}
 {131}{}{Azt híresztelik mindenfelé, hogy te nyúltad le a kocsimat.}
 {132}{}{Információt szeretnék.}
@@ -35,17 +35,17 @@
 {134}{}{Már megin' te vagy? Megcsináltad a munkát?}
 {135}{}{Glub.}
 {136}{}{Nem.}
-{137}{}{Volna néhány kérdésem}
+{137}{}{Lenne néhány kérdésem.}
 {138}{}{Hmm... Erõs. Ostoba... ha munkát akarsz, beszélj Mirával! Érted, amit mondok? Mi-rá-val! Ott ni!}
 {139}{}{Szeretsz zajongani? Kivinné valaki innen ezt a szép nagy rakás brahminkulát?}
 {140}{}{Te tényleg ilyen hülye vagy? Szerinted bármilyen jöttmentet felfogadok? Ha nekem dolgozol, elõször be kell bizonyítanod, hogy megéred a pénzed.}
 {141}{}{Mi lenne, ha lelõném Lennyt, ott ni? Megérdemli.}
 {142}{}{Mégis hogy kéne bebizonyítanom?}
 {143}{}{Tudsz valakit, akit érdekelne egy kis Jet?... Netalán?}
-{144}{}{Figyelj, én} //258
+{144}{}{Figyelj, én}
 {145}{}{Remek. Majd pont neked fogom bizonygatni, milyen ember vagyok. Verd ki a fejedbõl, marharépa!}
-{146}{}{Az a megátalkodott Doofus volt, ugye? Az a kis csöves túl sokat dumál a levegõbe. Mondok én neked valamit. Ha lenyomod nekem - nevezzük ezt puszta szívességnek -, beszélhetünk.}
-{147}{}{Legyen.}
+{146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
+{147}{}{Megegyeztünk.}
 {148}{}{Majd biztos! Annyira hidegvérû azért nem vagyok!}
 {149}{}{Akkor majd azt mondják rólad, hogy hatökör vagy. Fiúk...}
 {150}{}{Roppant érdekes. Mégis ki mondogatna ilyesmit?}
@@ -53,7 +53,7 @@
 {152}{}{Fasza.... Most válaszolsz a kérdésemre vagy sem?}
 {153}{}{Hát ezt csak úgy hallomásból tudom. Érdekelt volna, mit mondasz rá.}
 {154}{}{Tegyük fel, hogy tudok valamit. És akkor mi van?}
-{155}{}{Ha egy ember elvesztett egy-két dolgot, szerinted visszavásárolhatná õket?}
+{155}{}{Now if a person had some things missing, do you suppose such a person could buy those things back?}
 {156}{}{Vissza akarom kapni a cuccaimat, dagadék!}
 {157}{}{Mi lenne, ha mennék árulkodni a rendõrségre!}
 {158}{}{Elegem van ebbõl! Fiúk! Vegyétek gondotokba a vendégünket!}
@@ -66,7 +66,7 @@
 {165}{}{Jet? Te most ajánlatot teszel éppen...?}
 {166}{}{Az egyik barátom tudja, hogy kell csinálni. Érdekel a dolog?}
 {167}{}{Valami illegális? Nem, ilyesmibe nem megyek bele.}
-{168}{}{Bogarat ültettél a fülembe. Adok neki 1000 dollár - állandó - fizetést, ha elszegõdik hozzám.}
+{168}{}{Intriguing. I'll give you $1000 for his services.}
 {169}{}{Megegyeztünk.}
 {170}{}{Nem, nem csinálok ilyesmit egy baráttal.}
 {171}{}{Úgy tûnik, meg tudunk egyezni, barátom. Elmondom az ajánlatomat. Él a városban egy ütõdött tudós, a neve Dr. Henry. Van a birtokában néhány irat. Ezer dollárt fizetek, ha megszerzed nekem. Mellesleg nem szeretném, ha baja esne. Õ élve ér valamit. Értve vagyok? }
@@ -74,10 +74,8 @@
 {173}{}{Nem, ez nem az én stílusom.}
 {174}{}{A tudást meg kell fizetni. Érthetõ, amit mondok?}
 {175}{}{"A bölcsesség ára drágább a gyöngyöknél"}
-#Bibiliai idezet Jób, 28:18 (bass)
-
 {176}{}{Itt van 50 dollár.}
-{177}{}{Verd ki a fejedbõl!}
+{177}{}{Felejtsük el!}
 {178}{}{Ó, szóval így állunk...}
 {179}{}{[folytatás]}
 {180}{}{Az én megítélésem szerint te csak egy nagy rakás gané vagy.}
@@ -88,33 +86,33 @@
 {185}{}{Egy ilyen embertõl kitelik.}
 {186}{}{Most pedig azt javaslom, távozz!}
 {187}{}{Parancsolj, kérlek, hívd csak a tiszteket! Gondolom, kiváló bizonyítékaid vannak a légbõlkapott vádaskodásaidra.}
-{188}{}{Valahogy úgy...}
-{189}{}{Na, hagyjuk...}
+{188}{}{Aha, persze.}
+{189}{}{Értem.}
 {190}{}{Volna itt a városban egy elfuserált Hubologista, aki eléggé kihúzta nálam a gyufát. Csak szálka a szememben. Távolítsd el a szálkát, és nem fogsz csalódni bennem!}
-{191}{}{Vedd elintézettnek! Majd jól a körmére nézünk neki... amúgy mi a retket jelent az, hogy Hubologista? És hol találom meg?}
+{191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}
 {192}{}{Hogy merészelsz az igaz hit ellenében beszélni?}
 {193}{}{Sajnálom, nem akarok vallási háborúba keveredni.}
 {194}{}{Hát... tanult ember vagyok. Mit akarsz tudni?}
 {195}{}{Kérdezz!}
 {196}{}{A 13-as Menedéket keresem.}
-{197}{}{Hallottál valaha az ÉLET-rõl?}
+{197}{}{Ever heard of a GECK?}
 {198}{}{Hallottál már egy Felderítõknek nevezett társaságról?}
 {199}{}{Mit tudsz nekem mondani egy Westin nevû figuráról?}
 {200}{}{Szeretnék minél többet megtudni Carlson Alelnökrõl.}
-{201}{}{Ennyi...}
+{201}{}{Ez az.}
 {202}{}{A pénzed egy kérdésre jogosít fel. Ha mást is akarsz kérdezni, egy újabb ötvenest kérek.}
 {203}{}{Oké, tessék.}
 {204}{}{Már mindent tudok.}
 {205}{}{Mit tesz isten, van egy térképem a 13-as Menedékhez. Koszos 1000 dollárért megkaphatod. Érdekel?}
 {206}{}{Hogyne! Megveszem.}
 {207}{}{Fogadjunk, eladó hidad is van.}
-{208}{}{Talán a közeljövõben.}
+{208}{}{Talán késõbb.}
 {209}{}{Ez valami New Reno-i drog? Sosem hallottam róla.}
 {210}{}{Nem. Viszont lenne még néhány kérdésem.}
-{211}{}{Ennyit akartam tudni.}
+{211}{}{Ennyit akartam tudni...}
 {212}{}{Azok a rohadékok! Jobb, ha nem teszik ide a lábukat, különben szitává lyuggatom õket!}
 {213}{}{Ez igazán sokat segített. Jöjjön még egy kérdés...}
-{214}{}{Csak ennyit akartam tudni.}
+{214}{}{Ennyit akartam tudni...}
 {215}{}{A marhatenyésztõ? Egyszer betolta ide az arcát, majdnem feldobta a patáját. A városi dokinak kellett tablettákért rohangálnia. Úgy tûnik, Westinnek szívpanaszai vannak. Aznap éjszaka jól betett az üzletnek.}
 {216}{}{Kösz az infót. Kérdeznék még valamit, ha nem gond.}
 {217}{}{Ennyit akartam tudni...}
@@ -122,7 +120,7 @@
 {219}{}{Hát, úgy tûnik, sosem fogok találkozni a jóemberrel. Én is sokmindent hallottam róla.}
 {220}{}{Ennyit akartam tudni...}
 {221}{}{Ez minden?}
-{222}{}{Nem, volna még néhány kérdésem.}
+{222}{}{No, I've got some more questions.}
 {223}{}{Igen, ez minden.}
 {224}{}{Hé, valaki igazán próbálkozhatna. A 13-as Menedék valóságos vallássá nõtte ki magát nálunk. Még szobrot is emeltek valami tökfejnek, aki állítólag onnan jött. Ennyit tudok.}
 {225}{}{Vettél tõlem egy térképet. Próbáld használni!}
@@ -133,16 +131,13 @@
 {230}{}{Benne vagyok, Merk.}
 {231}{}{Nincs szükségem munkára... de azért köszi.}
 {232}{}{Kiváló! Gyere vissza, ha végeztél!}
-{233}{}{Ez bizony nagyon aggasztó. Srácok... öljétek meg, és szerezzétek vissza a bizonyítékot!}
+{233}{}{That is very troubling. Boys, kill him and recover this evidence.}
 {234}{}{Ez a szánalmas próbálkozás arra, hogy megfélemlíts már-már mulattat. Ellenben ajánlom neked, hogy addig távozz, amíg teljesen le nem fáraszt ez a játék!}
 {235}{}{Ah, hallottam a híreket. Érdekel még egy kis munka?}
 {236}{}{Igen, fáraszt a potyázás. Igazán jól jönne valami munka.}
 {237}{}{Nem.}
 {238}{}{Mi a francot csiná'sz te itt?}
 {239}{}{Kicsit félre voltam állítva nemrég. Ez nem annyira fekszik nekem. Épp csak egy kevés idõdet akarom igénybe venni.}
-#A szovegkornyezet miatt (bass)
-
-
 {240}{}{Azt csinálok, amit akarok, te gyíkpöcs!}
 {241}{}{Tûnés innen, te vadbarom!}
 {242}{}{Akkor mi a fészkes nyavalyát csinálsz itt, te szarevõ? Ha be akarsz vágódni nálam, jobb, ha összeszeded magad!}
@@ -154,7 +149,7 @@
 {248}{}{Az ilyen napok úgy feldobnak... tegyünk pontot az üzlet végére!}
 {249}{}{Tudomásomra jutott, hogy a látogatásod következtében fûbe harapott a nagytudású orvos. Úgy emlékszem, ezt kifejezetten megtiltottam. A jövõbeli veszteségek kompenzálására kártérítést vagyok kénytelen kérni.}
 {250}{}{Nézd, kapsz tõlem 500 dolcsit, és spongyát rá!}
-{251}{}{Még mit nem!}
+{251}{}{Baszd meg!}
 {252}{}{Nos, sok szerencsét a továbbiakban! Mellesleg nem látom okát, miért kéne nekünk tovább diskurálnunk.}
 {253}{}{Nekem aztán nyolc...}
 {254}{}{Legyen, de csak azért, mert kedvellek. Ajánlom, hogy jó darabig ne dugd ide a képed!}
@@ -165,16 +160,14 @@
 {259}{}{ fickót.}
 {260}{}{ libát.}
 {261}{}{A Hubologista egy elmezavarodott vallási fanatikus. A városi templomban van egy díszpéldány.}
-{262}{}{Már megyek is.}
-
+{262}{}{Máris indulok.}
 {263}{}{Addig nem beszélünk, amíg a feladatod függõben van. Kellenek azok az iratok Dr. Henrytõl, pronto.}
 {264}{}{Nem, de kéne egy-két információ.}
 {265}{}{Tudom, hogy Lenny halála nem baleset volt, te mocsadék!}
-{266}{}{Hé, az a térkép kamu volt!}
-{267}{}{És mi a helyzet a pénzzel, amit tõlem kaptál?}
+{266}{}{Hey, that map was a fake.}
+{267}{}{Well, what about the money I gave you.}
 {268}{}{Mint, ahogy azt már mondtam, nem akartalak átejteni.}
 {269}{}{Hát... akkor mi lenne, ha ráharapnál erre a töltényre... pusztán a fáradságom miatt...}
 {270}{}{Hmmmmf.}
-
-{271}{}{Dr. Henry iratainak megszerzéséért }
-{272}{}{ tapasztalati pontot kaptál.}
+{271}{}{You have "taken care of" the Hubologist for Merk.}
+{272}{}{You retrieved Dr. Henry's papers.}

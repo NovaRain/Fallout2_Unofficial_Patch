@@ -4,8 +4,8 @@
 {103}{}{Quest'uomo e' imperturbabile. Se ti ha notato, non lo da' a vedere.}
 {104}{}{Che ne dice di un bicchierino, eroe?}
 {105}{}{Benvenuto, eroe. Prego, venga a sedersi qui al bancone.}
-{106}{}{Prego! Si sieda e resti un po' con noi!}
-{107}{}{Buongiorno, Capitano.}
+{106}{}{Prego! Prendi una sedia e riposati per un attimo!}
+{107}{}{Buon giorno, Capitano.}
 {108}{}{Vault City prevale, Capitano.}
 {109}{}{Buongiorno, Cittadino.}
 {110}{}{Vault City prevale, Cittadino.}
@@ -17,30 +17,30 @@
 {116}{}{Benvenuto! Abbiamo tutti sentito parlare delle sue imprese contro l'Enclave. Posso portarle qualcosa da bere?}
 {117}{}{Awnt-awnt}
 {118}{}{-Allontanati-}
-{119}{}{Ho una sete del demonio. Cosa avete da bere?}
+{119}{}{Cosa avete da bere?}
 {120}{}{Vorrei alcune informazioni.}
-{121}{}{Per oggi nulla, grazie.}
+{121}{}{Per oggi niente, grazie.}
 {122}{}{Eh eh, "awnt-awnt" anche a te. Mi raccomando: fa' attenzione quando viaggi nelle Lande.}
 {123}{}{Oonnt-oooont!}
 {124}{}{-Allontanati-}
 {125}{}{Cosa posso fare per lei, Capitano?}
-{126}{}{Cosa posso fare per lei, Cittadino?}
+{126}{}{Cosa posso fare per te, Cittadino?}
 {127}{}{Si'? Posso aiutarla?}
 {128}{}{Awnt-awnt}
 {129}{}{-Allontanati-}
-{130}{}{Ho una sete del demonio. Cosa avete da bere?}
+{130}{}{Cosa avete da bere?}
 {131}{}{Vorrei alcune informazioni.}
-{132}{}{Per oggi nulla, grazie.}
+{132}{}{Per oggi niente, grazie.}
 {133}{}{Si', "awnt-awnt" anche a te. Aspetta qui un secondo mentre io chiamo le guardie per farti "awnt-awntare" fino al cancello.}
 {134}{}{Urnt? Urnt-urnt.}
 {135}{}{-Allontanati-}
 {136}{}{"Una sete del demonio"? Che espressione... rozza.}
 {137}{}{Abbiamo acqua minerale, acqua distillata e acqua frizzante. Abbiamo anche diverse qualita' di alcolici sintetici.}
 {138}{}{Um... che tipo di alcolici sintetici avete?}
-{139}{}{Uh, non avreste del liquore vero?}
+{139}{}{Uh, non avete degli alcolici veri?}
 {140}{}{Un po' d'acqua andra' benissimo.}
 {141}{}{Come non detto. Vorrei alcune informazioni.}
-{142}{}{Per oggi nulla, grazie.}
+{142}{}{Per oggi niente, grazie.}
 {143}{}{Molto bene, signore.}
 {144}{}{Molto bene, signora.}
 {145}{}{Che tipo d'acqua desidera? Minerale? Distillata? O frizzante? Ciascuna costa la modesta cifra di cinque dollari il bicchiere.}
@@ -50,21 +50,21 @@
 {149}{}{Che tipo di alcolici sintetici avete?}
 {150}{}{Come non detto. Vorrei alcune informazioni.}
 {151}{}{E' un po' troppo caro per me. Tornero' quando avro' qualche soldo in piu'.}
-{152}{}{Ho cambiato idea, grazie.}
-{153}{}{Abbiamo i derivati sintetici H e T. Da poco e' disponibile una miscela gia' molto popolare, la "Alcol-Z", che ha un forte pseudo-sapore di pseudo-luppolo lasciato a fermentare pseudo-naturalmente. Ognuno di questi alcolici sintetici lo vendiamo a venti dollari la pinta.} ###???We have synthetic derivatives H and T, and we recently brewed an extremely popular mixture, "Alcohol-Z," which has a rich pseudo micro-brewery flavor
+{152}{}{Credo che non prendero' nulla, grazie.}
+{153}{}{Abbiamo i derivati sintetici H e T. Da poco e' disponibile una miscela gia' molto popolare, la "Alcol-Z", che ha un forte pseudo-sapore di pseudo-luppolo lasciato a fermentare pseudo-naturalmente. Ognuno di questi alcolici sintetici lo vendiamo a venti dollari la pinta.}
 {154}{}{Come producete questi alcolici sintetici?}
 {155}{}{Uh, non avete degli alcolici veri?}
 {156}{}{Credo che prendero' solo un po' d'acqua.}
 {157}{}{Hmmm. Provero' ad assaggiare questa deliziosa Alcol-Z.}
 {158}{}{Lasciamo stare. Vorrei alcune informazioni.}
 {159}{}{E' un po' troppo caro per me. Tornero' quando avro' qualche soldo in piu'.}
-{160}{}{Per oggi nulla, grazie.}
+{160}{}{Per oggi niente, grazie.}
 {161}{}{Desidera qualcos'altro?}
 {162}{}{Vorrei dell'acqua, grazie.}
 {163}{}{Che tipo di alcolici sintetici avete?}
 {164}{}{Come non detto. Vorrei alcune informazioni.}
-{165}{}{Per oggi nulla, grazie.}
-{166}{}{Si sente bene, signore? Sembra che tutta quell'Alcol-Z abbia avuto un qualche effetto su di lei. E' sicuro di volerne ancora?}
+{165}{}{Per oggi niente, grazie.}
+{166}{}{Si sente bene, signora? Sembra che tutta quell'Alcol-Z abbia avuto un qualche effetto su di lei. E' sicuro di volerne ancora?}
 {167}{}{Si sente bene, signora? Sembra che tutta quell'Alcol-Z abbia avuto un qualche effetto su di lei. E' sicuro di volerne ancora?}
 {168}{}{Desidera qualcos'altro?}
 {169}{}{Non mi sento troppo bene... Sara' meglio che esca per un attimo da questo dialogo e vada a controllare il valore massimo dei miei punti vita.}
@@ -72,7 +72,7 @@
 {171}{}{Credo che prendero' solo un po' d'acqua.}
 {172}{}{Voglio ancora un goccetto di quella deliziosa Alcol-Z.}
 {173}{}{Come producete questi alcolici sintetici?}
-{174}{}{In realta' vorrei delle informazioni.}
+{174}{}{In realta', vorrei delle informazioni.}
 {175}{}{Nient'altro per oggi, grazie.}
 {176}{}{Gli Auto-Doc di Vault City sono in grado di produrre dei sostituti sintetici di sostanze in grado di creare dipendenza. Per quel che ne so io, prima della guerra questi sostituti erano usati come placebo per i tossicodipendenti.}
 {177}{}{Sembri molto ferrato in materia di sostituti sintetici...}
@@ -107,7 +107,7 @@
 {206}{}{Forse dovrebbe recarsi al nostro Centro Informazioni, invece di starsene qui. Lo puo' trovare vicino ai cancelli cittadini. Adesso se ne vada... ho altri clienti.}
 {207}{}{Aspetta, volevo qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
 {208}{}{No, credo che prima tu mi dirai quello che voglio sapere. E vedi anche di moderare il tono, se non vuoi avere guai.}
-{209}{}{D'accordo. Buona giornata.}
+{209}{}{Bene. Allora, buona giornata.}
 {210}{}{Certo. Che cosa le serve sapere, signore?}
 {211}{}{Certo. Che cosa le serve sapere, signora?}
 {212}{}{Certo. Che cosa le serve sapere, Capitano?}
@@ -119,12 +119,12 @@
 {218}{}{Beh, e' il Primo Cittadino Lynette, naturalmente. Ricopre questa carica da quasi due mandati. Sebbene debba comunque rendere conto al Consiglio, e' la responsabile primaria per quanto riguarda i punti fondamentali della legislazione di Vault City.}
 {219}{}{Al Consiglio?}
 {220}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
-{221}{}{Come non detto. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{221}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
 {222}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {223}{}{Si', esiste anche un Consiglio cittadino di Vault City. Il suo portavoce e' il Senatore McClure. (Si avvicina) McClure e il Primo Cittadino si sono scontrati parecchie volte, infatti.}
 {224}{}{Davvero...?}
 {225}{}{Puoi dirmi due parole riguardo alla pratica della schiavitu' qui a Vault City?}
-{226}{}{Come non detto. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
+{226}{}{Lasciamo perdere. Vorrei qualcosa da bere. Che cosa avete? Ho una sete del demonio...}
 {227}{}{Interessante. Grazie delle informazioni. Arrivederci.}
 {228}{}{Oh, si'. Ultimamente, alcuni Cittadini hanno chiesto a McClure e al Consiglio di annullare alcune delle decisioni del Primo Cittadino. E lasci che glielo dica, la cosa ha creato un bel po' di scalpore.}
 {229}{}{Hmmm. Mi piacerebbe sapere qualcos'altro...}

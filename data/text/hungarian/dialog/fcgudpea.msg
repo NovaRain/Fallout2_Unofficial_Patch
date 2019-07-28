@@ -1,9 +1,8 @@
-# Dialog Editor last position: 1
 {100}{}{Egy fura pizsamát viselõ fickót látsz.}
 {101}{}{Õ egy Shi városlakó.}
 {102}{}{Ez az ember minden korábban látott népségtõl különbözik. Oda sem bagózik, mit csinálsz.}
 {103}{}{Ugye nem vagy kém?}
-{104}{}{Ki vagy?}
+{104}{}{Ki vagy te?}
 {105}{}{Hal és alga. Ez jut nekünk.}
 {106}{}{Haha! Nézd már a fura kerekszemût!}
 {107}{}{Úgy nézel ki, mint egy Hubologista.}
@@ -17,7 +16,7 @@
 {115}{}{Ennyit tartogat az élet?}
 {116}{}{Ravaszabbak vagyunk, mint gondolnád.}
 {117}{}{Nézzétek! Egy lao wai!}
-{118}{}{Nem tetszel te nekem.}
+{118}{}{Nem hiszem, hogy kedvelnélek.}
 {119}{}{Félek tõled.}
 {120}{}{Kérlek, ne bánts!}
 {121}{}{Fogadjunk, tetszenél Lo Pannak!}
@@ -68,7 +67,7 @@
 {173}{}{Szégyent hoztál a családodra!}
 {174}{}{Hagyj békén minket, lao wai!}
 {175}{}{Nem okoztál már így is elég kárt?}
-{176}{}{Gyûlöllek!}
+{176}{}{Utállak!}
 {177}{}{Hagyd el a várost!}
 {178}{}{Menj vissza a népedhez!}
 {179}{}{Ne árnyékold be az életemet az arcoddal!}

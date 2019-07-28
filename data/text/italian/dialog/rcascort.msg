@@ -13,7 +13,7 @@
 {112}{}{Ci sono opportunita' di lavoro, qui a Redding?}
 {113}{}{Cos'e' successo ultimamente in citta'?}
 {114}{}{Ha mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
-{115}{}{Di che cosa si occupa esattamente?}
+{115}{}{Di che cosa ti occupi?}
 {116}{}{Stavo solo dando un'occhiata in giro, Sindaco. Ci vediamo.}
 {117}{}{Gestisco questo casino' e faccio del mio meglio per mandare avanti questa citta'. Mi occupo di atti di proprieta' e cose simili. }
 {118}{}{Atti di proprieta'? Proprieta' di cosa?}
@@ -29,7 +29,7 @@
 {128}{}{Certo. Uh, lasci che le chieda qualcos'altro, Sindaco.}
 {129}{}{Si', certamente. Volevo solo controllare. Arrivederci, sindaco Ascorti.}
 {130}{}{Ogni tipo di proprieta' privata. Beh, al momento ho qui con me un atto di proprieta' che e' una vera cannonata...}
-{131}{}{Di che si tratta?}
+{131}{}{Di cosa si tratta?}
 {132}{}{Non ne dubito, ma prima lasci che le chieda qualcos'altro, Sindaco.}
 {133}{}{Hmm, credo che prima daro' un'occhiata alla citta', Sindaco. Arrivederci.}
 {134}{}{E' l'atto di proprieta' della Miniera Grande Wanamingo che si trova subito fuori citta'. E posso vendertelo per soli 1.000$. E' un'offerta speciale; sei stato davvero fortunato a parlarmene oggi che sono in vena di generosita'.}
@@ -73,10 +73,10 @@
 {172}{}{Ci puo' scommettere. Saro' ben felice di disfarmi di questo atto di proprieta', sindaco Ascorti.}
 {173}{}{Noi li chiamiamo Wanamingo. Sono una specie di creature totalmente assurde, con terribili denti e tentacoli o robe del genere. Non molto intelligenti, ma pericolosi a distanza ravvicinata.}
 {174}{}{Capisco. E lei vuole che io me ne sbarazzi?}
-{175}{}{Esatto. Lo sapevo che non eri poi cosi' tonto. Sai essere davvero sveglio quando ti ci metti.} ###???You can be right quick when you're of a mind to be
-{176}{}{Gia'... Allora, cos'altro devo sopportare per far fruttare i miei 1.000$?} ###???So how much do I stand to make on my $1,000
+{175}{}{Esatto. Lo sapevo che non eri poi cosi' tonto. Sai essere davvero sveglio quando ti ci metti.}
+{176}{}{Gia'... Allora, cos'altro devo sopportare per far fruttare i miei 1.000$?}
 {177}{}{La miniera era cosi' accogliente che qualcun altro vi si e' stabilito. Un tipo losco che risponde al nome di Frog Morton. Uh... e' insieme alla sua banda, da quel che ho sentito.}
-{178}{}{Perche' lo chiamano Frog Morton?}
+{178}{}{Che razza di nome e' "Frog"?}
 {179}{}{E in che modo questo sarebbe un mio problema?}
 {180}{}{Ottimo, e cosa devo fare?}
 {181}{}{Credo sia perche' ammazza le persone come mosche. E' un elemento davvero sgradevole e sta' sicuro che nessuno lo piangera'... e poi tu diventeresti un eroe. Ti piacerebbe diventare un eroe, vero?}
@@ -84,7 +84,7 @@
 {183}{}{Si', certo. Che cosa devo fare?}
 {184}{}{Credo di avere ancora delle pulizie di casa da fare. Tornero' quando avro' spaccato qualche altro grugno, Sindaco.}
 {185}{}{Beh, finche' la miniera non sara' ripulita, io non posso far lavorare i minatori. Quindi, se hai intenzione di rivendermi la miniera, questo e' un problema tuo.}
-{186}{}{Perche' lo chiamano Frog Morton?}
+{186}{}{Che razza di nome e' "Frog"?}
 {187}{}{Ottimo. Che cosa devo fare?}
 {188}{}{Sara' meglio che mi dia da fare, allora. Arrivederci, Sindaco.}
 {189}{}{Credo che dovresti tornare alla Miniera Wanamingo e far fuori Frog e la sua banda. Quando l'avrai fatto, puoi tornare qui e io saro' ben felice di ricomprare la miniera.}
@@ -113,7 +113,7 @@
 {212}{}{Perche' no? Dovresti, invece. Buttando fuori la vedova Rooney, mi dai l'opportunita' di continuare a pagare i miei dipendenti. Se non li pagassi, le loro famiglie soffrirebbero la fame. E questo non e' giusto, no?}
 {213}{}{Credo di no. Non avevo considerato la cosa sotto questo punto di vista. Ma non mi sento molto bene lo stesso.}
 {214}{}{Non mi pare che lei abbia problemi, da questo punto di vista. Sono sicuro che il suo casino' abbia degli incassi non indifferenti.}
-{215}{}{Ci vuole una grande forza di volonta' per fare la cosa giusta, anche quando il farlo causa dei rimorsi di coscienza. Tu hai fatto una cosa molto difficile, e l'hai fatta bene. Ti offro una birra.} ###???It takes a big individual to do the right thing, even when that thing doesn't leave them feeling good. You did a hard thing, and you did it well. Have a beer on me
+{215}{}{Ci vuole una grande forza di volonta' per fare la cosa giusta, anche quando il farlo causa dei rimorsi di coscienza. Tu hai fatto una cosa molto difficile, e l'hai fatta bene. Ti offro una birra.}
 {216}{}{Grazie, Sindaco; e' davvero gentile da parte sua.}
 {217}{}{Non credo di voler bere con lei. Ne' ora, ne' mai. Addio.}
 {218}{}{Nessun problema. Sono felice di mantenere bagnata la gola dei rappresentanti della legge locali.}
@@ -169,9 +169,10 @@
 {268}{}{Grazie. Lasci che le chieda qualcos'altro.}
 {269}{}{Magari faro' un salto lassu' e andro' a parlare con loro. Grazie, Sindaco. Arrivederci.}
 {270}{}{Ultimamente le nostre carovane d'oro hanno cominciato a subire dei ritardi perche' i minatori passano troppo tempo a "volare" con il Jet.}
-{271}{}{Praticamente tutti i minatori passano piu' tempo a farsi di Jet che ad estrarre l'oro... per questo motivo i nostri prezzi sono saliti e le importazioni sono diminuite. Un periodo nero per gli affari, da tutti i punti di vista.}
+{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
+ are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Tutti sono troppo fatti di Jet per lavorare con efficienza. L'estrazione d'oro e' calata del novanta percento e per questo siamo stati costretti ad aumentare i prezzi. Questa situazione non puo' durare.}
-{273}{}{Sembra che tutti abbiano preso una partita di Jet tagliata male. Tutti i Jet-tossici abituali hanno intrapreso una specie di massiccia disintossicazione. Non so cosa sia successo, ma credo che le cose andranno per il meglio.} ###???I guess something didn't agree with 'em.
+{273}{}{Sembra che tutti abbiano preso una partita di Jet tagliata male. Tutti i Jet-tossici abituali hanno intrapreso una specie di massiccia disintossicazione. Non so cosa sia successo, ma credo che le cose andranno per il meglio.}
 {274}{}{Le cose sono tornate quasi alla normalita'. Tutti quelli che subivano gli effetti del Jet stanno guarendo. Anche la produzione delle nostre miniere e la frequenza delle spedizioni sono tornate a livelli normali. Sembra proprio che il peggio sia passato.}
 {275}{}{Hmm. Interessante. Lasci che le chieda qualcos'altro, sindaco Ascorti.}
 {276}{}{Capisco. Grazie per le informazioni, Sindaco. Arrivederci.}

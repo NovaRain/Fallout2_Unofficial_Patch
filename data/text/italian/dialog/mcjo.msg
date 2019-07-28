@@ -4,11 +4,10 @@
 {104}{}{Vedi lo sceriffo Jo.}
 {105}{}{Vedi il sindaco Jo.}
 {106}{}{Vedi il giudice di pace Jo.}
-
 {150}{}{Abbiamo ucciso tutti. Anche i bambini... [sob]}
 {151}{}{Ci troverai alla Fattoria Fantasma. Attacchiamo subito.}
 {152}{}{Grazie per aver salvato gli abitanti di Modoc.}
-{153}{}{Che cosa stai facendo?}
+{153}{}{Cosa stai facendo?}
 {154}{}{Ehi! Lascialo stare!}
 {155}{}{Ladro!}
 {156}{}{Spiacente, ma questa stazione commerciale e' chiusa a tempo indeterminato a causa della siccita'.}
@@ -19,9 +18,9 @@
 {161}{}{Cosa posso fare per te?}
 {162}{}{Sto cercando una certa cosa, e mi chiedo se tu sia in grado di aiutarmi a trovarla.}
 {164}{}{Vorrei comprare un orologio d'oro da taschino. Sai dove potrei trovarne uno?}
-{165}{}{Cosa potete vendermi?}
+{165}{}{Che cosa avete?}
 {166}{}{Cosa puoi dirmi a proposito di questa citta'?}
-{167}{}{Di cosa ti occupi?}
+{167}{}{Di che cosa ti occupi?}
 {168}{}{GECK!}
 {169}{}{Sei tornato! Cos'hai scoperto giu' alla fattoria?}
 {170}{}{Ho risolto il problema della vostra Fattoria Fantasma. Potete occuparla quando volete.}
@@ -29,7 +28,7 @@
 {172}{}{Mass-aggio.}
 {173}{}{Fattoria?}
 {174}{}{Cose cattive tutte andate!}
-{175}{}{Io va.}
+{175}{}{Io vado.}
 {176}{}{Tornero' quando avro' maggiori informazioni.}
 {179}{}{Al Den c'e' un ubriacone che combacia con la descrizione di Karl. Dice anche che era un contadino, una volta.}
 {180}{}{Quei corpi sono finti. Sono solo pupazzi ricoperti da frattaglie di brahmin. Sono stati messi li' per spaventarvi e non farvi avvicinare ai campi.}
@@ -47,7 +46,7 @@
 {194}{}{C'e' questa fattoria ai margini della citta'... dove nessuna fattoria dovrebbe esserci. Qualche anno fa e' semplicemente "apparsa" dal nulla.}
 {195}{}{Stai dicendo che questa fattoria e' spuntata nel giro di una notte? Si', certo...!}
 {196}{}{Alcuni di noi erano andati a caccia quando notarono questa nuova fattoria. Ma non era questa la cosa strana. Il giorno dopo, alcuni di noi si recarono a far visita al nostro nuovo vicino, per poi scoprire che laggiu' non c'era anima viva.}
-{197}{}{Va' avanti.}
+{197}{}{Continua.}
 {198}{}{Dopo molti mesi passati nel vano tentativo di contattare i proprietari, si decise che la fattoria era stata abbandonata subito dopo esser stata costruita. Cosi', per evitare che i raccolti andassero a male, il giovane Karl ci ando' a vivere.}
 {199}{}{Hmm... }
 {200}{}{E' stato allora che la situazione e' precipitata. Karl comincio' a raccontare storie di strane figure luminose che facevano la guardia ai campi e che nutrivano gli animali durante la notte. Lo prendemmo in giro, credendo che si fosse inventato tutto. Poi, un giorno, Karl smise di farsi vedere in citta'.}
@@ -81,7 +80,7 @@
 {229}{}{Bene. Allora non abbiamo altro da dirci. La porta e' la'.}
 {230}{}{Yup, sei davvero un tipo scontroso. Perche' non torni quando ti sarai calmato un po'? Buona giornata, e occhio alla porta quando esci.}
 {231}{}{Bene, allora -- benvenuto a Modoc. Il mio nome e' Jo e gestisco questa stazione commerciale. Non abbiamo molto: solo qualche fattoria, un macello, il Bed and Breakfast di Rose e una conceria. Sono pero' sufficienti per produrre prodotti da commerciare. Tuttavia, tutto questo potrebbe cambiare a causa della siccita'.}
-{232}{}{Che cosa puoi dirmi a proposito del macello?}
+{232}{}{Cosa puoi dirmi a proposito del macello?}
 {233}{}{Il Bed and Breakfast di Rose?}
 {234}{}{Parlami di questa stazione commerciale.}
 {235}{}{Dove si trova la conceria?}
@@ -93,7 +92,7 @@
 {257}{}{Di che cosa vuoi parlare? Del macello, del Bed and Breakfast di Rose, della conceria o della stazione commerciale?}
 {262}{}{Beh, sputa il rospo. Non posso aiutarti se non mi dici cosa stai cercando, e di sicuro io non me ne staro' qui cercando di indovinare di cosa si tratta.}
 {263}{}{Sono alla ricerca del sacro GECK.}
-{264}{}{Lasciamo perdere.}
+{264}{}{Nulla.}
 {265}{}{Dal momento che la stazione dipende quasi esclusivamente dai prodotti della gente di Modoc, non ho molto da vendere. Sai, con la siccita' e tutto il resto... Ti interessa lo stesso?}
 {266}{}{Vediamo cos'hai.}
 {267}{}{No grazie, ma potresti rispondere a delle altre domande?}
@@ -102,7 +101,7 @@
 {270}{}{Wow; se ti hanno affidato tutti questi incarichi devi essere un tipo molto ben voluto.}
 {271}{}{Grazie per l'informazione; adesso devo andare.}
 {272}{}{Nah... ho semplicemente pescato la pagliuzza piu' corta. Una volta ero andato fuori citta' per degli acquisti e quando sono tornato ho scoperto che gli abitanti mi avevano eletto. Pare che nessun altro volesse l'incarico. Se si escludono rare occasioni, non ho davvero niente da fare -- il che mi sta benissimo.}
-{273}{}{Posso farti qualche altra domanda?}
+{273}{}{Posso farti delle altre domande?}
 {274}{}{Cosa?! Credi di essere spiritoso? Tutti sanno che il vecchio Corny ha perso il suo orologio d'oro da taschino. Ha persino perquisito la casa del suo migliore amico per trovarlo. Se vuoi un consiglio, io non ficcherei il naso in questa faccenda. Buongiorno!}
 {275}{}{[Prende il messaggio degli Slag.] Cos'e' questo? E' da parte delle persone che vivono nella Fattoria Fantasma? E' incredibile! hai letto... oops, certo che no. Ci sono ancora alcune cose da chiarire tra gli Slag e Modoc, ma sono troppo complesse per il tuo piccolo cervello, per cui non hai di che preoccuparti.}
 {276}{}{GECK ora!}
@@ -155,13 +154,9 @@
 {329}{}{Karl e' scomparso da quella fattoria un po' di tempo fa. Scopri cosa gli e' successo. }
 {330}{}{Grazie, vedro' di scoprire il possibile.}
 {331}{}{Non vogliamo i tipi come te da queste parti.}
-
 {400}{}{[Lasci che si tagli il dito] OK, adesso vi aiutero'.}
 {410}{}{Cos'e' quel grande edificio bianco nel centro del paese?}
-
 {500}{}{Oh, quella e' la nostra chiesa cittadina. La gente di Modoc la costrui' per dimostrare la propria fede. Ultimamente, non c'e' molto per cui essere grati, percio' nessuno assiste piu' ai sermoni.}
-
-# wedding script dialog
 {600}{}{Cari fratelli: Siamo oggi qui riuniti...}
 {602}{}{[Jo gira un paio di pagine del suo libro.]}
 {603}{}{OK, uhm... Prima di cominciare, c'e' qualcuno in questa stanza che conosca una ragione per la quale le due persone di fronte a noi non dovrebbero essere unite dal sacro vincolo del matrimonio?}
@@ -171,17 +166,13 @@
 {607}{}{Allora, per la legge della frontiera. Vi dichiaro accoppiati. Puoi baciare la sposa.}
 {608}{}{Allora, per la legge della frontiera. Vi dichiaro accoppiate. Voi spose potete baciarvi.}
 {609}{}{Allora, per la legge della frontiera. Vi dichiaro accoppiati. Puoi baciare l'"altro".}
-# Seraph's Code: Cousin Bo
 {612}{}{[Bo gira un paio di pagine del suo libro.]}
-
 {625}{}{tuo legittimo sposo?}
 {626}{}{tua legittima sposa?}
 {627}{}{uhhh... sposa... no... ehmm... sposo... errr... "altro"? Si', legittimo "altro"?}
 {628}{}{"altro"?}
-
 {629}{}{Miria}
 {630}{}{Davin}
-
 {800}{}{Attaccheremo gli Slag tra }
 {801}{}{ giorni, a meno che tu non riesca a convincermi di non farlo.}
 {802}{}{Attaccheremo gli Slag domani, a meno che tu non riesca a convincermi di non farlo.}
@@ -189,16 +180,10 @@
 {804}{}{Sono con voi!}
 {805}{}{Ne ho avuto abbastanza, non contate su di me!}
 {806}{}{Attacchiamo adesso. Gli Slag non si sono dimostrati degni di fiducia.}
-
 {820}{}{Cosa posso fare per aiutarvi?}
 {821}{}{Non voglio averci nulla a che fare. Ho onorato la mia parte dell'accordo. Dimmi dove si trova il GECK.}
-
 {850}{}{Tornero' quando avro' scoperto cos'e' successo a Karl.}
-
 {900}{}{Grazie ancora, amico mio, per aver salvato la nostra piccola cittadina.}
 {925}{}{Non c'e' di che. Ci vediamo.}
-
 {1000}{}{Hai salvato la citta' di Modoc.}
-
-# Seraph's Code: Cousin Bo
 {1500}{}{Vedi il sostituto del giudice di pace Bo.}

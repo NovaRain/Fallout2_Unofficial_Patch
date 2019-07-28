@@ -1,4 +1,3 @@
-# Dialog Editor last position: 222
 {100}{}{Õ aztán igazán aszott kinézetû egy ghoul.}
 {101}{}{Õ Harold.}
 {102}{}{Egy nagyon öreg, de még mindig agilis kinézetû ghoul.}
@@ -29,7 +28,7 @@
 {127}{hld4a}{Megvagyunk. Az atomreaktorunk, hogy úgy mondjam... eléggé... érzékeny. A mûködést felügyelõ személyzet megteszi, de hát... nem túl pengék a srácok... ha érted, mire gondolok.}
 {128}{hld4b}{Most, hogy összekalapáltad a reaktort, egész jól elvagyunk. Sosem gondoltam volna, hogy azok a Menedékvárosi gyógyegerek segítenének rajtunk.}
 {129}{hld4c}{Most már egész jól mennek itt a dolgok. Megbütykölöd itt az erõmûvet, aztán megszerzed az infót, ami kell. Nagy franc vagy te, jó'mondom?}
-{130}{}{Ezt kirészletezné?}
+{130}{}{Ezt most hogy kell értenem?}
 {131}{}{Nem akartam végignézni, hogy Menedékváros megsemmisíti a városukat.}
 {132}{}{Hát nem akartam karbatett kézzel ülni, amíg Menedékváros megsemmisíti a városukat. Emellett nekik is elég nagy érdekük fûzõdött hozzá.}
 {133}{}{Mivel a Menedékvárosiaknak ugyanúgy érdekében állt a reaktor megjavítása, nem volt túl nehéz kiszedni belõlük az Optimalizációs adatokat.}
@@ -95,7 +94,7 @@
 {193}{hld28}{Igen, igen, valami hozzád hasonló gyógyegér ugyanezt gagyogta a Mesterrõl.}
 {194}{}{Jó kis történetnek hangzik. Bárcsak tovább élvezhetném, de sajnos indulnom kell.}
 {195}{}{A mestert megölte az õsöm!}
-{196}{hld29}{Semmit? Ezt nem veszem be. Nehéz helyzetbe hozol minket. Miért nem jársz egyet, amíg kiokumulálom, mitévõk legyünk?}
+{196}{hld29}{Nothing, huh? I'm not buyin' it. You just put us in a bind. Why don't you skedaddle while I thinka what to do.}
 {197}{}{Bocs, sajnálom.}
 {198}{}{Hát persze. Miért nem fog bele rögtön? Atyám! Így próbáljon az ember másokon segíteni...}
 {199}{hld30}{Mi a baj ezzel? Menedékváros most már tisztában van vele, mennyire kell nekünk a Broken Hills-i urán. Elvághatják az ellátóutakat, és akkor nekünk annyi.}
@@ -109,13 +108,13 @@
 {207}{}{Lehet, hogy náluk van az igazság. Az is lehet, hogy épp most jött el az idõ a magukhoz hasonló torzszülöttek kiirtására. Végeztem.}
 {208}{}{Hát... hogyne... viszlát!..}
 {209}{hld33}{Menj és beszélj Woozzal a Hárfa ivóban! Nem lehet eltéveszteni, csak menj innen egyenesen elõre.}
-{210}{}{Kösz. Most akkor visszatérnék a kérdéseimre.}
+{210}{}{Köszi. Kérdeznék még.}
 {211}{}{Köszi, egyelõre nem akarok többet tudni. Viszlát!}
 {212}{hld34}{Irigyled mi? Herbert-nek hívják. Ha magányosnak érzem magam, vele beszélgetek. Hehe. Csak viccelek. Bob a becsületes neve.}
 {213}{}{Rendben... talán maga vagy Bob választ tud adni nekem.}
 {214}{}{Kösz, ez már így is több, mint amire számítottam. Jó napokat...}
 {215}{hld35}{Az Édenkert Létrehozást Elõsegítõ Táskát említetted? Az ÉLET-et? Úgy rémlik, mintha a Menedékekben rendszeresítettek volna olyat. Manapság a fene se tudja, hol lehetne ilyesmit találni.}
-{216}{}{Köszi. Tereljük másra a szót.}
+{216}{}{Köszi. Kérdeznék még.}
 {217}{}{Köszi, egyelõre nem akarok többet tudni. Viszlát!}
 {218}{hld36}{Beszélj Lennyvel, a segédemmel. Õ majd összetákol.}
 {219}{}{Köszi. Kérdeznék még.}
@@ -181,7 +180,7 @@
 {279}{}{Hé, végül is bármi megtörténhet. Késõbb találkozunk.}
 {280}{}{Észak felé}
 {281}{}{Észak-nyugat felé}
-{282}{}{Nyugat felé}
+{282}{}{To the west}
 {283}{}{Dél-nyugat felé}
 {284}{}{Dél felé}
 {285}{}{Dél-nyugat felé}
@@ -191,10 +190,10 @@
 {289}{}{Nem tudom.}
 {290}{}{Ez fáj.}
 {291}{}{Ez nagyon fáj.}
-{292}{}{Ez fájni szokott.}
-{293}{}{Nem tudok semmit róla.}
+{292}{}{Ez biztos fájt.}
+{293}{}{Arról semmit se tudok.}
 {294}{}{Igen}
-{295}{}{Nem}
+{295}{}{Nem.}
 {296}{}{Miért beszél így velem?}
 {297}{}{Nem leszünk jóban!}
 {298}{}{Köszönöm.}
@@ -220,4 +219,4 @@
 {318}{}{Ezt ki kéne nyitnod.}
 {319}{}{Lehet, hogy késõbb kéne visszajönnünk.}
 {320}{}{Nem kamuzok. Gondoskodom róla, hogy a reaktor helyrepofozódjon. Vagy így, vagy úgy. Hmm, kíváncsi vagyok, rá tudnám-e Festust venni, hogy megcsinálja nekem. Na, jó, majd még jövök.}
-{321}{}{Harold papa. Megvan az alkatrész, amivel megjavíthatjuk a reaktort. Gondolom, most be kéne építeni valahogy.}
+{321}{}{Hey Harold, I got that part you need to fix your reactor. I am going to go and try to get it installed in the reactor. I'll report back when I am done. Bye.}

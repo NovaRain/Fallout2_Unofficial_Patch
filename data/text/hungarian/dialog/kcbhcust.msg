@@ -1,4 +1,3 @@
-# Dialog Editor last position: 76
 {100}{}{Úgy tûnik, õ egy prémvadász.}
 {101}{}{Õ éppen pihenget.}
 {102}{}{Egy helybéli.}
@@ -33,7 +32,7 @@
 {141}{}{A várostól keletre lévõ kanyonban van egy szellem.}
 {142}{}{Nehogy elkapjon a Szellem!}
 {143}{}{Nem ajánlatos elkötni a brahminjainkat!}
-{144}{}{Szemmel tartunk téged!}
+{144}{}{Szemmel tartjuk magát!}
 {150}{}{Jó végre új arcot látni a városban.}
 {151}{}{Talán a törzsbéliek nem is olyan szörnyûek, mint hittem.}
 {152}{}{Fizess egy kört!}
@@ -56,7 +55,7 @@
 {169}{}{Bogáremberek ólálkodnak odakint a hegyekben.}
 {170}{}{Az egyik legjobb prémvadászunk eltûnt.}
 {201}{}{Ez jót tett a száraz torkomnak.}
-{202}{}{Köszönöm!}
+{202}{}{Köszi.}
 {203}{}{Mmmm, remek!}
 {204}{}{Nincs jobb a Buckner's Best-nél.}
 {205}{}{Kösz az italt.}
@@ -73,5 +72,5 @@
 {216}{}{Már azt hittem, sosem kérdezed meg.}
 {217}{}{Köszönöm, barátom!}
 {218}{}{Pont, mint Sulik.}
-{219}{}{Kösz!}
+{219}{}{Köszi.}
 {220}{}{Igen!}

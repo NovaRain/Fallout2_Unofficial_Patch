@@ -24,7 +24,7 @@
 {123}{}{Si', Dottor, Ratt ha pulito tutti gli scaffali del Dottore. Cariiini, cariiini scaffali. Belli scaffali, tutti puliti.}
 {124}{}{Molto bene. E cosa mi dici del pavimento? Sembra sporco.}
 {125}{}{Ratt pulira' di nuovo il pavimento per il gentile Dottore. Non vuole pavimento sporco per Dottore pulito.}
-{126}{}{Hmm, immagino penserai di poterti riposare, adesso. Giusto?} ###???I suppose you think you can just lay about now
+{126}{}{Hmm, immagino penserai di poterti riposare, adesso. Giusto?}
 {127}{}{No Dottore, no. Ratt non lo fa piu'. Ratt ricorda.}
 {128}{}{Allora vedi di darti da fare, o ti frustero' di nuovo. }
 {129}{}{NO! Dottore, non frustare Ratt. Ratt fara' il bravo.}

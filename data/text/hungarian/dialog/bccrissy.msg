@@ -1,12 +1,11 @@
-# Dialog Editor last position: 5
-{100}{}{Egy fiatal nõt látsz.}
+{100}{}{Egy fiatal nõ.}
 {101}{}{Õ Chrissy, Rebecca lánya.}
 {102}{}{Egy csinos, fiatal nõt látsz. Magabiztosnak tûnik, olyannak, aki képes megvédeni magát.}
 {103}{}{Ha azért vagy itt, hogy megpróbálj megerõszakolni, hamarosan csokornyakkendõként fogod viselni a golyóidat. Fogod?}
 {104}{}{Hadd találjam ki! A fiúknak elegük lett abból, hogy állandóan ott rúgom meg õket, ahol nagyon fáj, és téged küldtek, hogy csinálj velem valami obszcén dolgot. Nos, neked is ugyanúgy fog fájni, csak magasabbra kell rúgnom. Fogod?}
 {105}{}{Csokornyakkendõ?}
 {106}{}{}
-{107}{}{Mi itt történik? Te lenni ki?}
+{107}{}{Mi itt történik? Te lenniki?}
 {108}{}{}
 {109}{}{Szeretném megtudni, ki vagy te, és mi folyik itt.}
 {110}{}{Bezony. Csinos kis ruhadarab, amit a nyak körül viselnek díszítés céljából. Olyan, mint egy sál, csak férfiaknak. Na, most képzeld el, amint ÚGY megrúglak, hogy a nyakad körül fog lógni a fityegõd. Érted már?}
@@ -29,10 +28,10 @@
 {127}{}{Szeretném megtudni, ki vagy te, és mi folyik itt.}
 {128}{}{Kérlek, vigyél haza anyámhoz, Rebeccához!}
 {129}{}{Visszatért a lovagom fénylõ páncéljában. Talán fénylene, ha néha megtisztítanád. Ó, és talán fontolóra vehetnéd, hogy te magad is megfürödj. Szóval, mit tehetek érted? }
-{130}{}{Én csak mondani helló. Én menni mostan.}
+{130}{}{Csak beugrani. Most pedig menni.}
 {131}{}{Csak gondoltam, beköszönök. Most mennem kell.}
 {132}{}{Hé, tudom, hogy nagy pofám van, de szeretném elmondani, hogy nagyon hálás vagyok, amiért megmentetted a seggem. Nagyon köszönöm!}
-{133}{}{Én szívesen neked.}
-{134}{}{Szívesen.}
+{133}{}{Szívesen.}
+{134}{}{Szóra sem érdemes.}
 {135}{}{A földfoglalók védik ezeket a rablókat azzal, hogy titokban tartják a Menedéket, de igazából fogalmuk sincs, mi folyik itt. Darion azt mondta, hogy megjavítják és biztonságos helyen élhetnek majd rengeteg kajával és vízzel, de ez az egész csak egy nagy átverés. Voltam ott, és láttam mindent. A Menedék teljesen halott, az ételt és vizet elõállító gépek nem mûködnek. Ezek nem innen származnak, hanem a karavánok elleni rajtütések zsákmányából.}
 {136}{}{Nézd, haza kell mennem és figyelmeztetnem mindenkit, hogy mi folyik itt valójában. Nem segíthetünk ezeknek a szörnyetegnek. Hazaviszel?}

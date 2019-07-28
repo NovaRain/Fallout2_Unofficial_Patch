@@ -1,7 +1,6 @@
-# Dialog Editor last position: 50
 {100}{}{Egy fiatal nõt látsz. Meglehetõsen fiús kinézete van, és munkás overált visel.}
 {101}{}{Õ Dorothy, a város mérnöke.}
-{102}{}{Abból ítélve, hogy csupa olaj és mocsok, valószínûleg gyakorlatias típus lehet. Ezt valószínûsíti az is, hogy egy karbantartó robot követi õt mindenhová.}
+{102}{}{From all the grease and dirt on her, she's a hands-on tool type, especially since that maintenance bot follows her everywhere.}
 {103}{}{Istenem, valakinek tennie kell valamit! Mit csináljak? Gyors segítségre lenne szükség.}
 {104}{}{Huh? Gug?}
 {105}{}{Mi folyik itt?}
@@ -18,9 +17,9 @@
 {116}{}{A francba! Megrongálta a központi magot. Meg kell javítani, mielõtt a dolgok nagyon rosszra fordulnak. Jó vagy javításban?}
 {117}{}{Urrgh.}
 {118}{}{Igen.}
-{119}{}{Nem}
+{119}{}{Nem.}
 {120}{}{Mire is gondoltam?}
-{121}{}{Csinálj valamit a generátorral! Nekem a magot kell stabilizálnom. Körülbelül 30 másodperced van, azt hiszem. Utána már túl késõ bármit is csinálni. Gyere, Toto!}
+{121}{}{Look, do what you can with the generator. I've got to stabilize the core. You've got about 30 seconds, I think. After that it'll be too late. Come on, Toto.}
 {122}{}{A fenébe! Állj hátrébb! Amennyiben nem vagyok baromi szerencsés, ez az egész cucc fel fog robbanni. Gyerünk, Toto!}
 {123}{}{Megjavítottad? Alkatrészek nélkül? Ez csodálatos! Hol tanultad ezt?}
 {124}{}{Huh-huh!}
@@ -31,8 +30,8 @@
 {129}{}{Szar az egész! A teljes hálózatnak annyi. Egy örökkévalóságig fog tartani a megjavítása. Nincs idõm beszélgetni. Gyere, Toto!}
 {130}{}{Nézd, nem hibáztatlak azért, ami történt, de most nagyon nem vagyok beszélgetõs kedvemben.}
 {131}{}{Megölted! Úgy értem, tényleg meg kellett ölnöd õt? Nem volt más megoldás?}
-{132}{}{De volt.}
-{133}{}{Nem volt.}
+{132}{}{Igen.}
+{133}{}{Nem.}
 {134}{}{Akkor meg kellett volna próbálnod, ahelyett, hogy csak simán megölöd. Tûnj innen, te szörnyeteg!}
 {135}{}{A város köszönettel tartozik neked. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegyûjtöttem. Talán eladhatod õket, vagy valami.}
 {136}{}{Ne szólj hozzám, te gyilkos disznó!}

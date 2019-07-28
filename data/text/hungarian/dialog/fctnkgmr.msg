@@ -1,15 +1,14 @@
-{100}{}{Kereskedõ.}
+{100}{}{Egy kereskedõt látsz.}
 {101}{}{Õ Cal, az unatkozó fegyverkereskedõ.}
-# hogy szebb legyen kiiras kozben, es ne legyen csunya sortores (bass)
 {102}{}{Egy unatkozó, de barátságos férfit látsz.}
 {103}{}{Jó napot magának, uram. Segíthetek valamiben?}
 {104}{}{Jó napot magának, hölgyem. Segíthetek valamiben?}
 {105}{}{Én akar információ.}
-{106}{}{Mije van?}
+{106}{}{Mid van?}
 {107}{}{Nem, én menni.}
 {108}{}{Információt szeretnék.}
-{109}{}{Hogyne, mutassa, mije van!}
-{110}{}{Hagyjuk!}
+{109}{}{Hogyne, mutasd, mid van!}
+{110}{}{Értem.}
 {111}{}{Nincs eladó információm. Csak fegyverekkel foglalkozom. Akarja látni az árumat?}
 {112}{}{Igen.}
 {113}{}{Nem.}
@@ -27,4 +26,4 @@
 {125}{}{Oké.}
 {126}{}{Magának nem adok el semmit. Tûnjön el a boltomból!}
 {127}{}{Oké.}
-{128}{}{Remélem, hamarosan jön a szállítmány.}
+{128}{}{Remélem, hamarosan megjön a szállítmány.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 383
 {150}{}{Õ egy fekete ember viseltes öltönyben. Amikor találkozik a tekintetetek, mosolyog. Aranyfoga megcsillan a lámpák fényében.}
 {151}{}{Jules.}
 {200}{}{Engedd meg, Hajcsár, hogy Jules bevezessen itt a dolgokba.}
@@ -23,7 +22,7 @@
 {245}{}{Jules mindig is jól bánt veled... ha lehet, mondd el mindenkinek, hogy ismersz engem, rendben van, hõsöm?}
 {246}{}{Hallom, hogy a Korzikai Testvérek keresnek téged! Egy hõs nekik is jól jön!}
 {260}{}{Francbaaa! Nekünk barátoknak kéne lennünk!}
-{261}{}{Hogy a büdös fenébe vagy képes mosdani abban a pléhvacakban?}
+{261}{}{Hogy a fészkes fenébe mész fürdeni, ha rajtad van ez a vacak?}
 {262}{}{Ez meg mi a rosseb? Sétáló autó?}
 {263}{}{Ha a csövik meglátnak ebben a vacakban, dobnak egy hátast.}
 {280}{}{Hé testvérem, mondanál értem egy-két jó szót a fõnöknél?}
@@ -42,7 +41,7 @@
 {320}{}{A mindenit, nézzétek EZT a csillogó sztárt... úgy ragyogsz, hogy nem merem rádvetni a szemem, tesóka!}
 {321}{}{Hela, töki. Látom, New Reno nagyon bejön neked!}
 {322}{}{Nem akarsz bemutatni a veled dolgozó színésznõknek, tesó?}
-{323}{}{Hela! Ugye nem feledkezel meg Jules barátodról, miközben a szamárlétrát járod?}
+{323}{}{Hela, ugye nem feledkezel meg Jules barátodról, miközben a szamárlétrát járod?}
 {324}{}{A szerencse rádmosolygott, ember. Mindenkit elvarázsoltál.}
 {325}{}{Mindig tudtam, hogy a neved fényárban fog úszni. Már akkor tudtam, amikor elõször megláttalak.}
 {340}{}{Nézzétek az én édes kis barátnõmet!}
@@ -98,14 +97,14 @@
 {451}{}{Üdvözlünk New Reno csillogó városában, tesókám!}
 {452}{}{Üdvözlünk, New Reno csillogó városában, hugicám!}
 {453}{}{Hö? Mia-?}
-{454}{}{Te meg ki fia-borja vagy?}
+{454}{}{Ki vagy te?}
 {460}{}{Engem Jules-nek hívnak. NAGY-NAGY örömömre szolgálna, ha összehaverkodnánk és megmutathatnám itt a dolgokat. Ha bármit keresel, én elmondom, hol találod.}
 {461}{}{Engem Jules-nek hívnak és elmondhatom, hogy még soha az életben nem láttam ilyen szépséges nõt erre flangálni. NAGY-NAGY örömömre szolgálna, ha én mutathatnám meg Renót. Ezenkívül, ha bármit keresel, én elmondom, merre találod.}
 {462}{}{Hela, hela, hela, üdv újra nálunk! Jules miben segíthed neked, barátom?}
 {463}{}{Én keres... öö... elfelejt megin}
-{464}{}{Továbbálsz}
+{464}{}{Elpályázol}
 {465}{}{Rendben. Miben tudsz nekem segíteni?}
-{466}{}{Nos, volna egy-két kérdésem...}
+{466}{}{Well, I had some questions...}
 {467}{}{Tudod-e, Jules, hogy mi történt Mr. Wright fiával?}
 {468}{}{Jules, láttad az autómat? Röviddel ezelõtt ide parkoltam vele, és most sehol sincs.}
 {469}{}{Nézd... "Jules", ugye így hívnak? Nyilván valamire számítasz a beszélgetésünk eredményeképp, szóval elõször is öntsünk tiszta vizet a pohárba. Mi a CÉLOD?}
@@ -133,15 +132,15 @@
 {516}{}{Renót négy család uralja: A Mordino, a Salvatore, a Bishop és a Wright család. Mindegyik kanyarít magának a renói tortából.}
 {517}{}{Mondj valamit a családokról!}
 {518}{}{Hogy érvényesül a törvény?}
-{519}{}{Tulajdonképpen volna még egy-két egyéb kérdésem...}
+{519}{}{Actually, I had some other questions...}
 {520}{}{Érdekes. Kösz, hogy szóba álltál velem.}
 {525}{}{Nincs törvény, nincs rendõrség, nincs seriff, nincs kormányzó testület. CSAKIS a családok léteznek.}
 {527}{}{Akkor ki tart rendet Renóban?}
-{528}{}{Értem. Akkor hadd kérdezzek valami mást...}
+{528}{}{Értem. Hadd kérdezzek valami mást...}
 {535}{}{A családok gondoskodnak arról, hogy minden a lehetõ legsimábban menjen. Nem szeretik a balhét, mert rossz hatással van a turizmusra, és ez kevesebb bevételt jelent nekik. Ne csinálj balhét, add meg a tartozásaidat, és akkor nem jutsz a Golgotára.}
 {537}{}{Mi ez a Golgota?}
 {545}{}{Az egy városon kívüli temetõ. Az adósokat és a bajkeverõket oda szokták beutalni. Kikötözik õket egy karóhoz, és hagyják, hogy szép lassan megnyúvadjanak a napon. Nekem nem jön be ez a halálnem. Amúgy mocskos büdös van ott.}
-{547}{}{Figyelemreméltó. Hát... volna még néhány kérdésem...}
+{547}{}{Interesting. Say, I had some other questions...}
 {548}{}{Nagyszerûen hangzik. Kösz az információért.}
 {555}{}{Van valami, amit nem árt észbe vésni Renóban. Semmi nincs ingyen. Ha mégis, jól nézd meg, mit akarnak rádsózni.}
 {556}{}{Hát ez az infó nem olcsó mulatság. Van pénzed? Ha igen, akár rád is figyelhetek.}
@@ -161,7 +160,7 @@
 {581}{}{Volna néhány kérdésem New Renóval kapcsolatban...}
 {582}{}{Tulajdonképpen, nem számít. Majd máskor beszélünk.}
 {590}{}{(Két ujját feltartja.) A Mordino család egy kétfejû szörnyeteg, barátom, és mindegyik fejét Jesus Mordinónak hívják.}
-{591}{}{Folytasd csak...}
+{591}{}{Go on...}
 {592}{}{Mindig sejtettem, hogy ez a bibliai név kapcsolatban van a szervezett bûnözéssel.}
 {594}{}{Na, térjünk vissza a többi családhoz.}
 {596}{}{Tulajdonképpen tök mindegy. Kösz, hogy beszéltél velem.}
@@ -243,7 +242,7 @@
 {988}{}{Nekem MINDENEM van, vagy ha mégsem, akkor te nem is akarsz olyat. Nekifekhetünk a biznessznek?}
 {989}{}{Feküdjünk neki a biznessznek, Jules!}
 {990}{}{Miféle drogokat szerezhetek New Renóban?}
-{991}{}{Majd máskor. Volna néhány kérdésem helyette...}
+{991}{}{Sajnálom, erre most nincs idõm, viszont kérdeznék valamit.}
 {992}{}{Jelen pillanatban nem annyira érdekelnek a drogok. Inkább lépek...}
 {1005}{}{MINDEN szar van itt nálam. Van olyan szarom, ami felkelti a vágyat, van olyan szarom, ami a nõd vágyát kelti fel, merevedést hoz neked, boldoggá tesz, erõssé varázsol, vagy épp okossá... és persze MINDEN DROGOK DROGJA is van nálam, a fõszar, amitõl mindig röpködni vágysz... a Jet.}
 {1006}{}{MINDEN szar van itt nálam. Van olyan szarom, ami feltüzesít, benedvesít, kiszárít, lenyugtat, kivánóssá vagy netán boldoggá tesz, erõssé varázsol, vagy épp okossá... és persze MINDEN DROGOK DROGJA is van nálam, a fõszar, amitõl mindig röpködni vágysz... a Jet.}
@@ -278,7 +277,7 @@
 {1120}{}{Hát, most hogy ezt tudom, mehetnékem támadt.}
 {1121}{}{Nagyon választékosan fejezed ki magad. Már-már költõien. A répázás erõsen megmozgatta a fantáziámat. KÖSZÖNÖM.}
 {1130}{}{Ha bomba nõ lennél, talán, de így... elõbb a Mordino család engedélyére lesz szükséged. Egyik sem tûnik túl kivihetõnek.}
-{1132}{}{Értem. Volna még egy-két kérdésem...}
+{1132}{}{I see. Say, I had some other questions...}
 {1145}{}{Ha fegyvert akarsz, keresd fel az én Eldridge cimborámat a Nyugati Negyedban. Van olyan cucca, amivel úgy ölhetsz meg valakit, hogy nem is láttad. Mondd meg neki, hogy én küldtelek.}
 {1146}{}{Veszem az adást, tesó, veszem. Ha minõségi áru kell, keresd fel az én Eldridge cimborámat a Nyugati Negyedben. Van olyan cucca, amivel úgy ölhetsz meg valakit, hogy nem is láttad. Mondd meg neki, hogy én küldtelek.}
 {1147}{}{Veszem az adást, hugi, veszem. Ha minõségi áru kell, keresd fel az én Eldridge cimborámat a Nyugati Negyedben. Van olyan cucca, amivel úgy ölhetsz meg valakit, hogy nem is láttad. Mondd meg neki, hogy én küldtelek.}
@@ -302,7 +301,7 @@
 {1210}{}{Nem tudok errõl semmit. Sajnálom, ami veled történt. Nem rabszolga-hajcsárok tették?}
 {1211}{}{Akár... de inkább térjünk más vizekre...}
 {1220}{}{Egy mi a túrót?}
-{1221}{}{Felejtsd el! Inkább válaszolj a többi kérdésemre...}
+{1221}{}{Nem vállalom, túl kockázatos. Kérdezhetek valamit?}
 {1230}{}{Öö... a Wright kölyköt említetted? Igen, hallottam a dologról. Csúnya ügy. Az olyan korú gyerekeknek nem volna szabad drogot adni. Annyi minden vár rájuk még az életben, nem szabadna sittes anyaggal tömni õket.}
 {1231}{}{Sittes anyagról beszélsz, miközben Renesco szerint arzénnal "dúsított" Jetet árulsz.}
 {1232}{}{Mit értesz sittes anyag alatt?}
@@ -311,7 +310,7 @@
 {1250}{}{(Vállat von.) A dílerek többsége szarik rá, mit árul, az emberek meg beadják a kulcsot tõle. Én inkább nem mondok semmit, de azért beugranék a Rakétás Renescóhoz, és megnézném, mennyire kóser szart akar rádsózni.}
 {1251}{}{Beugrottam hozzá... és azt állítja, hogy arzénnal "dúsított" Jetet árulsz.}
 {1252}{}{Reno nagy város, Jules. Ki jöhetne még szóba?}
-{1253}{}{Volna még néhány kérdésem...}
+{1253}{}{Lenne pár kérdésem.}
 {1254}{}{Rendben. Ránézek a fazonra...}
 {1270}{}{Csomó díler van a városba'... A Kis Jesus Mordino esetleg, bár nem értem, mire fel akarna egy Wrightnak drogot eladni. Aztán ott van Csipkés Jimmy J. a második utcában, észak felé, de õ csak egy kisstílû alak. Inkább Renesco az, aki szóba jöhet.}
 {1272}{}{Ki az a Csipkés Jimmy J.?}
@@ -326,7 +325,7 @@
 {1307}{}{Jules, ha nem mondod el, mi történt az autómmal, elárulom a Wright családnak, hogy TE adtad el a fiuknak a halálos Jetet. Egy órán belül halott lennél. Beszélj hát...}
 {1308}{}{Jules, teljesen BIZTOS vagy benne, hogy nem láttad a kocsit?}
 {1309}{}{Igen, biztos vagyok benne, hogy ide parkoltam vele. Van ötleted, hol lehet?}
-{1310}{}{Na, jó. Akkor kérdezek valami mást...}
+{1310}{}{Rendben. Lenne pár kérdésem.}
 {1311}{}{Akkor most mehetek megkeresni.}
 {1320}{}{Nem láttam én seholse, testvérem. }
 {1321}{}{Nem láttam én seholse, kishúgom. }
@@ -345,13 +344,13 @@
 {1362}{}{...nemrég láttam egy-két fickót, akik magukkal vitték a kocsit. Hát ami azt illeti, elég sokan voltak, ezért nem igazán mertem közbelépni, és...}
 {1363}{}{Pofa be! Vigyél el hozzájuk! MOST!}
 {1364}{}{Hagyjuk. Nélküled is megtalálom.}
-{1375}{}{Oké, oké...}
+{1375}{}{Okay, okay...}
 {1376}{}{Apropó, Jules... Ha ennyit tekingetsz nekem az út másik oldalán lévõ gyerekre, annyiszor foglak kinyírni, hogy egy rakás végrendeletre lesz szükséged. Megértetted? Na, gyerünk tovább.}
 {1377}{}{Még egy dolog, Jules: Ha egyszer is meghallom, hogy Cody-val keménykedsz, megöllek. Most pedig vezess a kocsimhoz!}
 {1378}{}{(Utána mész...)}
 {1385}{}{H... hé... (Kényszeredett mosolyt vág. Arcvizének szaga úgy csap meg, mint a lökéshullám.) Jules-nek hívnak. Kell valami barátom? B... bármi?}
 {1386}{}{H... hé... Üdv újra! (Kényszeredett mosolyt vág. Arcvizének szaga úgy csap meg, mint a lökéshullám.) Jules-nek hívnak. Kell valami Jules-tõl, barátom? B... bármi?}
-{1389}{}{Válaszolj a kérdéseimre...}
+{1389}{}{I had some questions...}
 {1390}{}{Jó az arcvized, Jules. Cody testén is ezt éreztem... most kinyírlak, azt tudod...}
 {1391}{}{Cody meghalt, Jules. Nincs kétségem, hogy te tetted. Most szépen mész utána.}
 {1405}{}{H-hé, BÁRCSAK segíthetnék, de semmit sem tudok... most mennem kell.}
@@ -363,15 +362,15 @@
 {1417}{}{Látom, tele van a város szerelemmel... na akkor kérdezzünk valami mást tõled...}
 {1425}{}{Hát én kétszer is meggondolnám, hogy egyszerûen besétálok Kis Jesushoz, és bármivel is megvádolom. Persze, ha IGAZÁN beszélni akarsz vele, én nem akadályozlak meg benne. Az utca másik oldalán lévõ Desperadóban találod.}
 {1426}{}{És ki a fene az a Csipkés Jimmy J.?}
-{1427}{}{Jól van, akkor most térjünk vissza a kérdéseimhez...}
+{1427}{}{Say, I had some other questions...}
 {1435}{}{Nem lep meg... ez a dolog ELÉG GYAKRAN megesik ebben a városban.}
-{1436}{}{Ezt hogy kell értenem?}
+{1436}{}{Merthogy?}
 {1437}{}{Mit tudsz mondani errõl az üres Jet-ampulláról?}
 {1439}{}{Értem. Kösz, hogy feltarthattalak.}
 {1450}{}{(Megszemléli.) Ebbõl tizenkettõ egy tucat. Nem az enyém mindenesetre... talán Csipkés Jimmy J.-é vagy Renescóé.}
 {1451}{}{Kicsoda az a Csipkés Jimmy J.?}
 {1452}{}{Kiféle-miféle az a Renesco?}
-{1453}{}{Hmmm. Akkor kérdezek mást...}
+{1453}{}{Hmmm. Volna még néhány egyéb kérdésem...}
 {1470}{}{Õ egy gyökér kis kurafi az észak felé lévõ 2. utcában. Nem lehet eltéveszteni, a pofája rendesen ki van csipkézve. Az az idióta egy éjszaka frankón betépett a Jettõl, és egy vadászkéssel akart borotválkozni. A baj csak az, hogy nem halt bele.}
 {1471}{}{És mi a helyzet ezzel a Renescóval? Hol találom meg õt?}
 {1473}{}{Vettem. Kösz.}
@@ -379,6 +378,6 @@
 {1486}{}{És hol találom Csipkés Jimmy J. barátunkat?}
 {1487}{}{Rendben... akkor most megint kérdezek...}
 {1500}{}{Ha ilyen szarságokat hord össze az a faszkalap, majd szépen felvilágosítod, hogy még az öreg Wrightot is megelõzve fogom kicsinálni. Tudod, mi mondatja ezt velem? A félelem mondatja, az bizony!}
-{1501}{}{Értem... akkor térjünk vissza a kérdéseimhez...}
+{1501}{}{I see... say, I had some other questions...}
 {1502}{}{Veszem az adást. Megyek és utánanézek.}
 {2000}{}{Az ott egy AUTÓ? Pofám leszakad.}

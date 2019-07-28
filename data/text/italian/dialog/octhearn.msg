@@ -41,5 +41,4 @@
 {140}{}{Ciao di nuovo. Io ancora controlla qui.}
 {141}{}{}
 {142}{}{Arrrrrrrrrgggh! Muori!}
-
 {143}{}{.}

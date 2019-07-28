@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Menedékváros egyik oktatógépe.}
 {101}{}{Úgy tûnik, ez valami oktatógép. Egy jópofa, PipBoy-szerû szerkentyû van az oldalán.}
 {102}{}{Menedékváros egyik oktatógépe.}

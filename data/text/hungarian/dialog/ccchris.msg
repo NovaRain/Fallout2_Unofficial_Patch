@@ -1,18 +1,17 @@
-# Dialog Editor last position: 135
 {100}{}{Egy öregembert látsz.}
 {101}{}{Christ látod, a benzinkutast.}
 {102}{}{Egy ápolatlan embert látsz bíborszín palástban.}
 {103}{}{Üdv, idegen! Úh, micsoda verda! Még azok a csodaszép kerekek! Jó rég nem láttam ilyet. Mit tehet magáért az öreg Chris?}
 {104}{}{Üdv, idegen! Jó rég nem láttam ilyen járgányt. Mit tehet az öreg Chris magáért?}
 {105}{}{Mi lenni ez hely?}
-{106}{}{Én keresni Navarro. Ez lenni?}
+{106}{}{Én keresni Navarro. Itt lenni?}
 {107}{}{Látni fémmadárok repülni itt?}
-{108}{}{Hallani Enklávé? Itt lenni?}
+{108}{}{Hallani Enklávé? Õk itt lenni?}
 {109}{}{Én csak nézni körül.}
-{110}{}{Mi ez a hely?}
-{111}{}{Navarrót keresem. Ez volna az?}
-{112}{}{Látott errefelé gépmadarakat?}
-{113}{}{Hallott már az Enklávéról? Errefelé találom meg õket?}
+{110}{}{Mi ez a hely tulajdonképpen?}
+{111}{}{Navarrót keresem. Ez az?}
+{112}{}{Látott gépmadarakat szállni errefelé?}
+{113}{}{Hallott már az Enklávéról? Itt találom meg õket?}
 {114}{}{Csak körülnézek.}
 {115}{}{Ez itt az én helyem, a jó öreg Chrisé. Ez egy szervizmûhely - nem hallott ilyenekrõl magazinokban vagy ilyesmikben? Mindegy... ez itt az én különbejáratú szervizem...}
 {116}{}{Én keresni Navarro. Itt lenni?}
@@ -34,14 +33,14 @@
 {132}{}{Hazudni nekem! Nekünk lenni nem sok türelem. Mostan mondani el igaz, vagy fogja bánni!}
 {133}{}{Ne hazudozzon, mert kezd fogyni a türelmem! Mondja meg az igazat, különben nagyon megbánja!}
 {134}{}{Bassza meg! (egy rádiót vesz elõ a ruhája zsebébõl) Tudni akarja, milyen az, megbánni valamit? Van itt néhány srác, akik el tudják magyarázni a szó valódi jelentését! (babrálni kezd a rádióval)}
-{135}{}{Mi megölni halottra!}
-{136}{}{Mit csinálni?}
-{137}{}{Én menni.}
+{135}{}{Megölni halottra!}
+{136}{}{Mit csinálni most?}
+{137}{}{Én menni mostan.}
 {138}{}{Ez rossz húzás volt, jóember!}
-{139}{}{Mi a szart csinál?}
-{140}{}{Hé, már itt se vagyok.}
+{139}{}{Mégis mi a fenét csinálsz?}
+{140}{}{Hé, már itt se vagyok!}
 {141}{}{(beleüvölt a rádióba) Riadó! Behatoló a benzinkútnál! Riadó!}
-{142}{}{Jól van.}
+{142}{}{[DONE]}
 {143}{}{Nos, jó volt magával beszélgetni. Adok azonban egy tanácsot - nincs itt semmi más, csak pusztaság meg sugárzás. A civilizáció délre van. A maga helyében én arra próbálkoznék.}
 {144}{}{Köszi.}
 {145}{}{Fémmadarakat? Áh, biztos gépmadarakról beszél. De miért is kérdi?}
@@ -82,7 +81,7 @@
 {180}{}{Akkor mondani utat bázisra... most!}
 {181}{}{Akkor javaslom, mondja meg, hogyan jutok be a bázisra!}
 {182}{}{A szobámban talál egy csapóajtót, szerintem azon keresztül bejuthat. De én még sosem próbáltam.}
-{183}{}{Oké, mi menni.}
+{183}{}{Oké. Menni.}
 {184}{}{Jól van. Akkor megyek is.}
 {185}{}{Tudom hogy átrepülnek itt idõrõl-idõre. Általában San Fran irányába repülnek. Ha utánuk érdeklõdik, én arra keresném õket.}
 {186}{}{Oké, megpróbálni ott.}
@@ -98,9 +97,10 @@
 {196}{}{Én gondolni komoly. Én Csatlakozni Enklávé!}
 {197}{}{Komolyan gondolom. Õket keresem.}
 {198}{}{Komolyan gondolom. Õket keresem.}
-{199}{}{Várjon egy percet, nagyokos! Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
+{199}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
+ replacements?}
 {200}{}{Várjon egy percet!  Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
-{201}{}{Öhm, egen.}
+{201}{}{Öhm... ja.}
 {202}{}{Így van!}
 {203}{}{Picsába! Bocs ezért a színjátékért, de ezért vagyok itt, hogy a kíváncsiskodókat "békésebb" módszerekkel küldjem el, mint amivel a katonák tennék. Na, csak menjen a fõkapuhoz, és közölje a jelszót. Ez jelen pillanatban a "tökfilkó". Ja, és maradjon a kövezett úton!}
 {204}{}{Köszönöm!}
@@ -109,7 +109,7 @@
 {207}{}{Öhm... kíséret...}
 {208}{}{Kíséretet béreltem fel!}
 {209}{}{Hát, nem akarok durva lenni vagy valami, de ez magánterület. Ha feltétlenül el kell kolbászolnia valahova, akkor ne ide, ha lehet!}
-{210}{}{Oké.}
+{210}{}{[DONE]}
 {211}{}{Áh, visszajött! Mit tehetek magáért?}
 {212}{}{Mondani Navarro van délre! Hazudni! Visszajönni igazságért!}
 {213}{}{Azt mondta, Navarro innen dél felé van. De ezúttal az igazságot akarom hallani, tata!}
@@ -128,9 +128,10 @@
 {226}{}{Mit csinálni most?}
 {227}{}{Én menni mostan.}
 {228}{}{Ez rossz húzás volt, jóember!}
-{229}{}{Mi a francot csinál?}
+{229}{}{Mégis mi a fenét csinálsz?}
 {230}{}{Hé, már itt se vagyok!}
-{231}{}{Igen, igaz.}
+{231}{}{Ja, persze.}
 {232}{}{Bekapcsolja a rádióját. Fel fogja lármázni az egész bázist, hacsak nem tudod gyorsan elintézni!}
+{233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
 {800}{}{Meggyõzted Christ, hogy adja meg a jelszót.}
 {810}{}{Megölted Christ, mielõtt riaszthatta volna a bázist.}

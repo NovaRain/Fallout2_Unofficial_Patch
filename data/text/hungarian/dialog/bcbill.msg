@@ -1,4 +1,4 @@
-{100}{}{Egy földfoglaló.}
+{100}{}{Egy földfoglalót látsz.}
 {101}{}{Bill, a földfoglalók egyike.}
 {102}{}{Egy középkorú, viseltes ruhát hordó férfit látsz.}
 {103}{}{Sajnálom, idegen, nincs idõm veled csevegni.}

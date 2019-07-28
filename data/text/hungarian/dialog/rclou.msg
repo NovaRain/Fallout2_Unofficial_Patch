@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez a megfáradt asszony fiatalabb korában egész jól nézhetett ki.}
 {101}{}{Lou-t, a Malamute Szalon tulajdonosát látod.}
 {102}{}{Egy idõsebb, meglehetõsen kirúzsozott nõt látsz.}
@@ -8,10 +7,10 @@
 {106}{}{Maga akkor is tök idióta. Persze az élet megy tovább, legalábbis a számunkra. Szóval mi a frászt is akar?}
 {107}{}{Emlékezzen, mit mondtam! A túl sok pénz nem tesz jót ennek a lánynak. Na, mi kõne, ha vóna?}
 {108}{}{Üdv, Lou vagyok. A Malamute Szalon tulajdonosa. Ez a legjobb betérõ San Francisco-tól északra.}
-{109}{}{Nos tehát?}
+{109}{}{Nos?}
 {110}{}{Óóó?}
 {111}{}{Üdv, Lou. Szükségem lenne valamire.}
-{112}{}{Hallott már egy bizonyos Édenkert Létrehozást Elõsegítõ Táskáról?}
+{112}{}{Hallottál valamit az Édenkert Létrehozást Elõsegítõ Táskáról?}
 {113}{}{Üdv, Lou. Mi újság a városban?}
 {114}{}{Mi az a Malamute?}
 {115}{}{Merre van innen San Fran?}
@@ -19,16 +18,17 @@
 {117}{}{Bocs, de sem idõm, sem türelmem nincs az ostoba emberekhez. Mit akarsz?}
 {118}{}{Itaa?}
 {119}{}{Szoba?}
-{120}{}{Viszla.}
+{120}{}{Szia szia.}
 {121}{}{Italt akarsz, ugye? Egy üveg finom, hideg sör 25 dollárba kerül. Mivel az együgyûek a szívem csücskei, extra kedvezményes árat kapsz.}
 {122}{}{Itaa? (felé nyújtod a tárcádat)}
 {123}{}{Szoba?}
 {124}{}{Nincs itaa. Pá pá.}
-{125}{}{Szobát akarsz? Hát lehet, hogy van valahol egy szobám a számodra. 50 dolcsi lesz egy kényelmes hely.}
+{125}{}{You want a room, huh? Well I might have some room somewhere for you. It'll cost you $50 for a
+ cozy spot.}
 {126}{}{Szoba. (felé nyújtod tárcádat)}
 {127}{}{Itaa?}
 {128}{}{Nincs szoba. Pá pá.}
-{129}{}{Te bejöhetsz, de a torzszülött vándorcirkusz kinn marad.}
+{129}{}{You can come in here, but your traveling freak show stays outside.}
 {130}{}{Nem hallottad? Nem tûrök torzszülötteket a szalonomban!}
 {131}{}{Azok az "akármik" nem jöhetnek be a szalonba. Hagyd kinn õket!}
 {132}{}{Nem mondhatnám, hogy korábban hallottam volna ilyenrõl. Mi az?}
@@ -40,14 +40,18 @@
 {138}{}{Ez érdekes. Inkább beszéljünk valami másról!}
 {139}{}{Ja. Egyedül a város északi szélén két mûködõ aranybánya is van.}
 {140}{}{Azt mondta, hogy arannyal kereskednek?}
-{141}{}{Érdekes. Mindegy, kérdeznék valami mást.}
-{142}{}{Menedékvárosból gyógyeszközöket kapunk az aranyért. Az Új Kalifornia Köztársaság friss brahmin-húst és más élelmet ad érte, New Reno pedig kábítószert és piát.}
+{141}{}{Érdekes. Kérdeznék még valamit.}
+{142}{}{Well, we trade gold ore to Vault City in return for medical supplies. We trade ore to the New
+ California Republic in return for fresh brahmin and other victuals, and we trade gold to New Reno for
+ drugs and booze.}
 {143}{}{Maguk bányásszák az aranyat?}
-{144}{}{Érdekes. Mindegy, kérdeznék valami mást.}
+{144}{}{Érdekes. Kérdeznék még valamit.}
 {145}{}{Csak egy nagytestû kutya.}
 {146}{}{Á, már értem. Izé, hadd kérdezzek még valamit!}
 {147}{}{Természetesen. Ez minden, amit tudni akartam. Köszi, viszlát!}
-{148}{}{Jó messze van innen. Délre és egy hangyányit nyugatra. Rögtön az óceán partján, ha nem tudnád. Nem tudom, miért akarna egy épeszû ember odamenni.}
+{148}{}{San Francisco is quite a ways south of here. You're a long ways from there. South and jist a
+ tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't
+ know why any sane person'd want to go there for, though.}
 {149}{}{Miért? Veszélyes?}
 {150}{}{Érdekes. Kérdeznék még valamit.}
 {151}{}{Kösz az információt. Viszlát!}
@@ -65,23 +69,25 @@
 {163}{}{Elküldtem. Ebben az üzletben neki már nem terem babér. Nem mintha bárki is vele akart volna lenni az után, amit az a gazember tett vele. Adtam neki egy kis pénzt és útjára bocsátottam.}
 {164}{}{Tudja, hogy ki tette?}
 {165}{}{Tudja, hogy mi történt?}
-{166}{}{Kérdeznék valami mást.}
+{166}{}{Feltennék még kérdéseket.}
 {167}{}{Majd én elrendezem. Számíthat rám. Viszlát!}
 {168}{}{Nem tudom pontosan, hogy ki volt az, de amikor rátaláltunk, egy Morningstar-bányás fizetési jegy volt a kezében. Amúgy egy bányásszal volt utoljára.}
 {169}{}{Láthatnám a lányt?}
 {170}{}{Tudja, hogy mi történt?}
 {171}{}{Egy Morningstar-bányás fizetési jegy? Az mi?}
-{172}{}{Hadd kérdezzek valami mást.}
+{172}{}{Feltennék még kérdéseket.}
 {173}{}{Majd én elrendezem. Számíthat rám. Viszlát!}
-{174}{}{Szóval, valami sikoltozás hallatszott, aztán, mivel nem maradt abba, hát bementem a szobába. Mire odaértem, a tettes, az a gazember már meglépett és a lánykám pocsék állapotban volt. Így hát hívtam az orvost és a seriffet. A többit tudja.}
+{174}{}{Well, there was some screaming and carrying on and so I went to the room. When I got there, the
+ bastard who did it was already gone and my girl was in a bad way. So I called the doc and then the
+ Sheriff. You know the rest.}
 {175}{}{Tudja, hogy ki tette?}
 {176}{}{Láthatnám a lányt?}
-{177}{}{Kérdeznék valami mást.}
+{177}{}{Feltennék még kérdéseket.}
 {178}{}{Majd én elrendezem. Számíthat rám. Viszlát!}
 {179}{}{A város északi részén Dan McGrew mûködteti a Morningstar Bányát. A bányászokat általában mindkét bányában számlára fizetik vagy értékjeggyel... Hát a lánykámat egy ilyen fecnivel a kezében találták meg. Itt van, nézze meg maga is. (Átadja a jegyet.)}
 {180}{}{Aha, értem. Láthatnám a lányt?}
 {181}{}{Aha, értem. Tudja, hogy mi történt?}
-{182}{}{Kérdeznék valami mást.}
+{182}{}{Feltennék még kérdéseket.}
 {183}{}{Majd én elrendezem. Számíthat rám. Viszlát!}
 {184}{}{Igazán örülök, hogy valaki foglalkozik vele. Az ilyen dolgok mindenkinek ártanak. Remélem, az a disznó megfizet azért, amit a lánykámmal tett. Tegyen róla, hogy soha többé senkivel ne tehesse meg újra!}
 {185}{}{Meglátom, mit tehetek. Most kérdeznék még valamit.}
@@ -90,7 +96,7 @@
 {188}{}{Egy szobát szeretnék, Lou, üres ággyal.}
 {189}{}{Teli ágy? Ez jól hangzik, mondjon errõl valamit!}
 {190}{}{Pia és egyebek, igen, ezek mennek. Csereberéljünk!}
-{191}{}{Ööö, kérdeznék valami mást.}
+{191}{}{Hmm, volna néhány kérdésem inkább.}
 {192}{}{Ez minden vagy akar még venni valamit?}
 {193}{}{Mintha kicsit nehezen tudná elhatározni magát. Ennyi vagy újra meg akarja nézni?}
 {194}{}{Ennyi, ez minden, amire most szükségem volt. Kösz. Viszont kérdeznék még valamit.}
@@ -110,12 +116,13 @@
 {208}{}{Itt csak lányok dolgoznak, szivi. Ha így is jó, egy dolcsi az egy dolcsi. Megpróbálhatja Fannie Mae-vel. Valahol hátul kell lennie. A részleteket megbeszélheti vele.}
 {209}{}{Jó ötletnek hangzik, ezt fogom tenni. Viszlát!}
 {210}{}{De én nem... na mindegy. Viszlát!}
-{211}{}{Nem tudom elhinni, hogy volt olyan ostoba és egyszerre annyi pénzt adott Fannie-nak, amibõl túllõhette magát. Maga teljesen meggárgyult?}
+{211}{}{I can't believe that you were dumb enough to give Fannie enough money all at once to overdose
+ herself. You're just an idjit, ain't ya?}
 {212}{}{Nem tudtam! Tényleg nem! Ugyan, Lou.. kérdeznem kell még valamit!}
 {213}{}{Az õ dolga, hogy mit csinált az életével. Viszlát!}
 {214}{}{Én adtam neki az egyetlen megoldást, ami ebbõl a szar létezésbõl megszabadíthatta õt. Maga sem egy szent Lou. Viszlát!}
 {215}{}{Szóval maga az a balek, aki a pénzt adja az én Fannie-mnak. A maga helyében nem tenném. Ezzel nem úgy segít rajta, ahogy gondolja.}
-{216}{}{Hogy érti ezt?}
+{216}{}{Ezt most hogy kell értenem?}
 {217}{}{Segítek neki új életet kezdeni.}
 {218}{}{Jó-jó... Beszéljünk valami másról!}
 {219}{}{Fannie problémájára nem a pénz a megoldás! Sajnálom, hogy össze kell törjem a szívét, de Fannie csak baleknek tartja magát. Csak azért kell neki a pénz, hogy Jetre költse. Átkozottul túl sok Jetre.}
@@ -128,3 +135,11 @@
 {226}{}{Ezt már hallottam. Térjünk át más témára!}
 {227}{}{Köszönöm, átgondolom a hallottakat. Viszont kérdeznék még valamit.}
 {228}{}{Ezt át kell még gondolnom. Viszlát!}
+{229}{}{Hmmm... I may have a solution to that. [Give Lou the Jet antidote]}
+{230}{}{What the hell's this stuff?}
+{231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
+{232}{}{Well... alright. Now, is there anything else you wanted?}
+{233}{}{I'm interested in getting something here.}
+{234}{}{What's going on in this town?}
+{300}{}{You helped cure Fannie's addiction.}
+{301}{}{Viszlát!}

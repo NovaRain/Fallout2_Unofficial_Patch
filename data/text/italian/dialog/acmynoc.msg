@@ -1,33 +1,5 @@
-#############################################################
-#  Message File: ACMynoc.msg                                #
-#                                                           #
-#       Body Type:  NMPRIM                                  #
-#       Combat AI: Berzerker                                #
-#       Weapons: Sledgehammer[in hand]                      #
-#       HP: 75                                              #
-#       Skills to note: 80% Throwing                        #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: December 01, 1997                               #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
-
 {100}{}{Vedi la guardia del ponte.}
 {101}{}{Vedi Mynoc, la guardia del ponte.}
-
-#############################################################
-#  The following lines are for the dialog which the NPC     #
-#  says. This will be disorganized because of the Design    #
-#  Tool.                                                    #
-#############################################################
-
 {150}{}{Davanti a te c'e' un possente guerriero del tuo villaggio che impugna una lancia.}
 {151}{}{[PARLA]}
 {152}{}{Salve, Prescelto. Stai partendo alla ricerca del GECK?}
@@ -94,25 +66,21 @@
 {213}{}{Sei un traditore della tua stessa gente.}
 {214}{}{Perche' fai questo?}
 {215}{}{L'Anziana si sbagliava. Sei malvagio.}
-
 {300}{}{Mio padre mi ha insegnato come affilare le lance. Portami una selce e affilero' anche la tua. Ti servira', nel deserto.}
 {301}{}{Dove posso trovare un po' di questa selce?}
 {302}{}{Si dice che tua Zia Morlis ne abbia una provvista. E' cosi' permalosa che non penso che qualcuno gliel'abbia mai chiesta. Di sicuro quella strega vorra' qualcosa in cambio.}
-{303}{}{Grazie. Ci vediamo.}
+{303}{}{Grazie. Arrivederci.}
 {304}{}{Sei riuscito ad ottenere la selce da tua zia?}
 {305}{}{Si', ne ho un pezzo proprio qui.}
 {306}{}{Non ancora.}
 {307}{}{E' un bel pezzo. Dammi la tua lancia.}
-{308}{}{Eccola.}
+{308}{}{Ecco qua.}
 {309}{}{Non credo di averne una.}
 {310}{}{Ora, metti i pezzi in questo modo...}
 {311}{}{Il Prescelto senza una lancia? Beh, dovrai prendere una delle mie. Mettiamoci al lavoro, adesso...}
 {312}{}{Ecco la tua nuova lancia.}
 {313}{}{Grazie, amico mio -- Questa mi sara' di grande aiuto.}
 {314}{}{Si', ma la tua lancia mi incuriosisce. Sembra diversa dalle altre.}
-
-
-# added in for time limit
 {400}{}{Bentornato a casa, Prescelto! Hai trovato il Vault? Sei tornato con il GECK?}
 {401}{}{Me no trovato ancora.}
 {402}{}{No, non l'ho ancora trovato.}
@@ -127,8 +95,8 @@
 {411}{}{Capisco.}
 {412}{}{Sei la nostra unica speranza, Prescelto. Per favore, non deluderci!}
 {413}{}{E' bello vederti, Prescelto. Come va la tua missione?}
-{414}{}{Me sta ancora cercando.}
-{415}{}{Sto ancora cercando.}
+{414}{}{Me ancora cerca.}
+{415}{}{La sto ancora cercando.}
 {416}{}{Non ho voglia di parlarne.}
 {417}{}{Devi sbrigarti. Qui le cose vanno sempre peggio. Presto ci sara' poco cibo e l'Anziana sta pensando di razionare quello che abbiamo. Temo per il futuro di Arroyo.}
 {418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente.}
@@ -144,34 +112,28 @@
 {428}{}{Mi dispiace, non ho ancora trovato il GECK.}
 {429}{}{Ne ho abbastanza.}
 {430}{}{Mentre tu passeggi per le lande, qui la nostra gente muore. Forse dovresti cercare da qualche altra parte invece che tornare qui.}
-
 {500}{}{Hai gia' parlato con l'Anziana?}
-
-#############################################################
-#  TELL - ME - ABOUTS                                       #
-#############################################################
-{1000}{}{Anziana}
-{1001}{}{Fondatore}
-{1002}{}{Abitante del Vault}
+{1000}{}{Elder}
+{1001}{}{Founder}
+{1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Prescelto}
-{1007}{}{Sciamano}
+{1006}{}{Chosen One}
+{1007}{}{Shaman}
 {1008}{}{Hakunin}
-{1009}{}{Polvere curativa}
-{1010}{}{Ponte}
+{1009}{}{Healing Powder}
+{1010}{}{Bridge}
 {1011}{}{Mynoc}
-
-{1100}{}{L'Anziana e' nostra madre e il nostro capo.}
-{1101}{}{Il nostro grande antenato che ci ha dato la conoscenza.}
-{1102}{}{Il primo a combattere e vincere contro il caos.}
-{1103}{}{Si tratta del nostro splendido villaggio.}
+{1100}{}{The Elder is your mother and our leader.}
+{1101}{}{Our great ancestor who gave us knowledge.}
+{1102}{}{The first to fight and win over chaos.}
+{1103}{}{That would be our beautiful village.}
 {1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
-{1105}{}{Il Vault e' il Paradiso.}
-{1106}{}{Tu sei il prescelto.}
+{1105}{}{The Vault is heaven.}
+{1106}{}{You are the Chosen One.}
 {1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1109}{}{E' una polvere magica che ti guarisce, ma che ti intorpidisce.}
-{1110}{}{Il Grande Ponte e' l'uscita sud del nostro villaggio.}
+{1110}{}{The Great Bridge exits our village in the south.}
 {1111}{}{Si tratta di me.}

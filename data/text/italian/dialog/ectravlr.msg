@@ -1,7 +1,7 @@
 {100}{}{Vedi un viaggiatore.}
 {101}{}{Ehila', compagno viaggiatore!}
 {102}{}{Ho bisogno di informazioni. Puoi aiutarmi?}
-{103}{}{Dove sei diretto?}
+{103}{}{Dove siete diretti?}
 {104}{}{Che cosa fai?}
 {105}{}{Ug.}
 {106}{}{Beh... non saprei. Sono nuovo di queste parti e ho visitato solo queste zone:}
@@ -45,5 +45,4 @@
 {144}{}{E' ora di andare.}
 {145}{}{Ho abusato della tua ospitalita'.}
 {146}{}{Devo lasciarti.}
-
 {150}{}{Grazie. Ho bisogno di informazioni su altri posti.}

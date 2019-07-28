@@ -12,7 +12,7 @@
 {111}{}{Szóval kiestem és "töltelék NJK"-ként végeztem a 13-as Menedékben. Jéé-zus! Beskatulyáztak!}
 {112}{}{Csodálom, hogy egyáltalán ruhában renderelték le a fekete hajú nõt.}
 {113}{}{Úgy értem, nem hiszem, hogy lett volna rajta ruha, amikor "dolgoztak rajta".}
-{114}{}{::Sóhajt::}
+{114}{}{*Sóhajt*}
 {115}{}{Utálom a férfiakat.}
 {116}{}{Kivéve azt az ábrándos képû Scotty Evertset.}
 {117}{}{Azt hiszem, õ bír engem. Csak párszor kellett lefeküdnöm vele, hogy rám szavazzon.}

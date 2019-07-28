@@ -1,7 +1,7 @@
-{100}{}{Vedi un abitante del villaggio.}
+{100}{}{Vedi un'abitante del villaggio.}
 {101}{}{Vedi un'abitante del villaggio.}
 {102}{}{Salve.}
-{103}{}{Buongiorno.}
+{103}{}{Buona giornata.}
 {104}{}{Benvenuto nel nostro Villaggio.}
 {105}{}{I mostri ci proteggono.}
 {106}{}{Vattene.}

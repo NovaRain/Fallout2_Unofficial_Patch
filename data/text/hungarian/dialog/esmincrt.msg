@@ -1,4 +1,3 @@
-# Dialod Editor last position: 4
 {100}{}{Talán mégsem kéne beállítani az idõzítõt. Veszélyes lehet.}
 {101}{}{Ez a robbanószer nem tûnik elég erõsnek, hogy utat nyisson.}
 {102}{}{A kocsi mûködõképes. Egy lökéssel talán még el is indulna.}

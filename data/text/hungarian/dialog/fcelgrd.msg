@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy jól felfegyverzett õrt látsz.}
 {101}{}{Hubologista õr.}
 {102}{}{Ez egy igen jól felfegyverzett õr. Szemében ádáz fény csillan.}
@@ -34,4 +33,4 @@
 {132}{}{Álmodj!}
 {133}{}{Fogyassz!}
 {134}{}{Mi szívünkön viseljük a te legjobb érdekeidet.}
-{135}{}{.}
+{135}{}{ vagyok.}

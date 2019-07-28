@@ -19,14 +19,14 @@
 {118}{}{Questo non e' un circo. Porta quel fenomeno da baraccone fuori dal mio locale.}
 {119}{}{Quello non puo' entrare nel mio locale.}
 {120}{}{Non serviamo i tipi come quello. Fuori.}
-{121}{}{Questo e' l'Ultimo Rantolo, Saloon e impresa di Pompe Funebri. Un'azienda completa. Il nostro motto e': "dalla bottiglia alla tomba".} ###???A full service establishment; Bottle to Grave
+{121}{}{Questo e' l'Ultimo Rantolo, Saloon e impresa di Pompe Funebri. Un'azienda completa. Il nostro motto e': "dalla bottiglia alla tomba".}
 {122}{}{Sembrerebbe un'associazione alquanto bizzarra, Josh.}
 {123}{}{Lucrezia Borgia sarebbe fiera di te, Josh.}
 {124}{}{Cosa devo fare per comprare una bara?}
 {125}{}{Come posso organizzare un funerale?}
 {126}{}{Me ne staro' ben lontano dal tuo gin prodotto nella vasca da bagno.}
 {127}{}{Certo. Sono 5$.}
-{128}{}{Ecco i soldi.}
+{128}{}{Eccoti i soldi.}
 {129}{}{A dir la verita', non penso di volere una birra. Lascia che ti chieda qualcosa, invece.}
 {130}{}{Che generosita'! 50$ per un giro di birra a tutti i presenti... vedrai che contenti! Ehi, sono un poeta e non lo sapevo.}
 {131}{}{Ouch. Certe rime possono essere letali, Josh. E' solo un avvertimento amichevole. Ecco i soldi.}
@@ -35,7 +35,7 @@
 {134}{}{Li vale tutti. Ecco qua.}
 {135}{}{Ripensandoci, sara' meglio mantenere tutti sobri. Lascia che invece ti chieda qualcosa.}
 {136}{}{Le cose mi vanno benissimo, adesso; grazie a te il lavoro non manca di certo. Continua cosi'. Vedi di darmi qualcos'altro da fare... in qualsiasi modo.}
-{137}{}{Beh, di solito non presto molta attenzione a quello che si dice in giro. Il mio lavoro e' piuttosto tranquillo. Un mortorio, si potrebbe dire. Tuttavia, ultimamente le cose sono cambiate.} ###???lately, that don't mean so much
+{137}{}{Beh, di solito non presto molta attenzione a quello che si dice in giro. Il mio lavoro e' piuttosto tranquillo. Un mortorio, si potrebbe dire. Tuttavia, ultimamente le cose sono cambiate.}
 {138}{}{Eh? Che cosa vuoi dire?}
 {139}{}{E lo e'. Ma col solo seppellire persone non riuscivo ad arrivare alla fine del mese - praticamente gli affari in quel campo sono morti. Stavo quasi per metterci una pietra (tombale) sopra, poi ho attrezzato il mio ufficio per poter vendere anche da bere. Ho sempre desiderato fare il barista.}
 {140}{}{Uh-huh. Ho quasi paura di chiederti qualcos'altro, adesso. Ma credo che lo faro' lo stesso.}
@@ -84,7 +84,7 @@
 {183}{}{Lascia stare i miei fondelli, cannibale che non sei altro! Mi serviranno ancora per molto tempo a venire. Trovati un altro spuntino.}
 {184}{}{Calmati... mi sembri un po' troppo duro e stoppaccioso, per i miei gusti. Eh, eh. Sto scherzando... piu' o meno. Lascia che ti chieda qualcos'altro, Josh.}
 {185}{}{Bene, daro' un'occhiata in giro. Ma se non trovo niente di meglio, tornero' qui. Addio... per ora.}
-{186}{}{Prima devi comprare il terreno. Stai pensando di acquistare un appezzamento terreno in un futuro prossimo?} ###???Need to buy the farm first
+{186}{}{Prima devi comprare il terreno. Stai pensando di acquistare un appezzamento terreno in un futuro prossimo?}
 {187}{}{Uh, assolutamente no. Lascia che ti chieda qualcos'altro.}
 {188}{}{No, ma di qui a poco potrei aiutare un paio di persone a comprarsi un terreno... Ci vediamo, Josh.}
 {189}{}{Beh, credo che potresti cominciare facendo arrabbiare qualcuno. Ma te lo sconsiglio. Lo sceriffo Marion non vede di buon occhio quel genere di comportamento.}

@@ -1,6 +1,5 @@
 {100}{}{Vedi un fantasma!}
 {101}{}{Vedi Anna, il fantasma.}
-
 {150}{}{Questo e' un fantasma. Non e' certo una cosa che si vede tutti i giorni.}
 {151}{}{Sembra che qualcosa la tormenti.}
 {152}{}{[PARLA]}
@@ -31,19 +30,15 @@
 {177}{}{Arrivederci.}
 {178}{}{Aspetta! Non andare!}
 {179}{}{Va' verso la luce.}
-
 {200}{}{Dove puo' essere?}
 {201}{}{Ohhh.}
 {202}{}{Mamma? Papa'? Dove siete?}
 {203}{}{Non riesco a trovarlo!}
-
 {500}{}{Mamma... Papa'... Sto arrivando...}
 {501}{}{E' tutto cosi' luminoso...}
 {502}{}{Nonna, posso vederti...}
 {503}{}{Oh, ma voi siete il gentile signor Cain! E' bello rivedervi...}
-
 {550}{}{La casa e' vuota.}
 {551}{}{Nostro Signore, belle ossa.}
-
 {560}{}{ACCHIAPPAFANTASMI!}
 {561}{}{Ug.}

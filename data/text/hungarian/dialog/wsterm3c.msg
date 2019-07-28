@@ -1,39 +1,37 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
 {100}{}{Számítógép-terminál}
 {101}{}{Egy kis matrica van rajta, amin ez áll: I*tel Inside.}
-{102}{}{[Képtelen vagy elolvasni, mi van a kijelzõre írva.]}
-{103}{}{Irányító terminál
-                                                        Projekt: Organikus és Robotikai Szintézis-kísérlet}
+{102}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
+{103}{}{Control Terminal
+                                                       Project: Organic and Robotic Synthesis Experiment}
 {104}{}{}
 {105}{}{Rendszer ellenõrzése.}
 {106}{}{Robot aktiválása}
 {107}{}{Kilépés}
-{108}{}{Mi?}
-{109}{}{[Képtelen vagy elolvasni, mi van a kijelzõre írva.] }
+{108}{}{Hö?}
+{109}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
 {110}{}{Program vége}
 {111}{}{Kilépés}
-{112}{}{Öö}
+{112}{}{Ah...}
 {113}{}{Kérem, várjon...
                                                          Robot test - Rendben
                                                Bio-Med gél-tartály - Feltöltve
                                     Szervtároló berendezés - Agy behelyezve
                        Aktiválásra kész}
-{114}{}{Kérem, várjon...
-                                                         Robot test - Rendben
-                                               Bio-Med gél-tartály - Feltöltve
-                                    Szervtároló berendezés - Nincs agy behelyezve
-                Az aktiválás nem ajánlott}
+{114}{}{Please Wait...
+                                                           Robot Body - OK
+                                                     Biomed gel reservoirs - Full
+                                       Organic Storage Device - Not Present
+                  Activation not recommended}
 {115}{}{Kérem, várjon...
                                                         Robot test - Nincs motivátor
                                       Bio-Med gél-tartály - Feltöltve
                                  Szervtároló berendezés - Agy behelyezve
                 Az aktiválás nem ajánlott}
-                   
-{116}{}{Kérem, várjon...
-                                                         Robot test - Rendben
-                                               Bio-Med gél-tartály - Feltöltve
-                                      Szervtároló berendezés - Nincs agy behelyezve
-                Az aktiválás nem ajánlott}
+{116}{}{Please Wait...
+                                                           Robot Body - Replace Motivator
+                                   Biomed gel reservoirs - Full
+                                        Organic Storage Device - Not Present
+                   Activation not recommended}
 {117}{}{Kérem, várjon...
                                                          Robot test - Rendben
                                                Bio-Med gél-tartály - Nincs feltöltve
@@ -75,11 +73,9 @@
 {167}{}{                                                  Az egység mûködõképes}
 {170}{}{                                              Kompatibilitás - 50%}
 {174}{}{                                              Kompatibilitás - 10%}
-# az energiaszintre nem tudom, hogy miért kellene névlegeset írni. Ezért inkább Maxim.-t írtam
-### a gond az, hogy eppen az ellenkezojet jelenti (bass) maximalis >>> csekely
 {176}{}{Kilépés}
-{200}{}{ képtelen elolvasni, mi van a kijelzõn.}
-{300}{}{Úgy látszik, a számítógép védelmi mechanizmussal van ellátva.}
+{200}{}{ képtelen elolvasni, mi van a képernyõre írva.}
+{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
 {500}{}{Indítás-szekvencia inicializálása
                                       Energia szint - Csekély
                                               Program Megszakítva
@@ -87,4 +83,3 @@
                                                               Program Folytatása
                                                   Kompatibilitás - 100%
                                                  Az egység mûködõképes}
-# a Synch Ratio az a harmonikus egyensúly, de én kompatibilitásra fordítottam

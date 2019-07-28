@@ -1,7 +1,6 @@
 {100}{}{Vedi un vecchio. Paragonata a lui, una prugna sembrerebbe liscia come una pesca. }
 {101}{}{Vedi Farrel.}
 {102}{}{Ogni volta che si muove, e' come se dei bastoncini secchi venissero spezzati.}
-
 {150}{}{Ehi, sta' lontano da li'!}
 {151}{}{Smettila!}
 {152}{}{Ladro!}
@@ -9,7 +8,7 @@
 {154}{}{Cornelius dice che hai rubato il suo orologio d'oro.}
 {155}{}{Dove hai trovato i soldi per quei nuovi attrezzi?}
 {156}{}{Cosa puoi dirmi a proposito di Modoc?}
-{157}{}{Di cosa ti occupi?}
+{157}{}{Che cosa fai?}
 {158}{}{Orologio? Di cosa stai parlando?}
 {159}{}{E adesso cosa c'e'?!}
 {162}{}{Cosa nascondi nella cassaforte a muro?}
@@ -59,15 +58,11 @@
 {211}{}{E' cosi' gentile da parte tua, mio caro amico. [Ti prende la mano e ti conduce al giardino.] Non volevo che ti perdessi. Torna da me quando avrai finito di uccidere quei parassiti.}
 {212}{}{Mia cara, dolce, ragazza. Sei cosi' gentile con un vecchio uomo come me. [Ti prende la mano e ti conduce al giardino.] Non volevo che ti perdessi. Torna da me quando avrai finito di uccidere quei parassiti.}
 {213}{}{Fantastico! Ed ecco la tua ricompensa. [Cerca nella tasca dei pantaloni e tira fuori un biscotto mezzo mangiato.] Adesso fa' il bravo cavernicolo e va' fuori a giocare con il tuo biscotto.}
-
 {300}{}{Uccidero' quel bastardo.}
 {301}{}{Lo odio...}
 {302}{}{Grrr...}
-
 {501}{}{Non ho rubato il tuo stupido orologio!}
 {502}{}{Ti dico che sono innocente!}
 {503}{}{Non riusciresti a colpire nemmeno il fianco piu' lungo di un granaio!}
-
 {550}{}{Non ascolta quello che dici.}
-
 {600}{}{Hai risolto pacificamente la lite tra Farrel e Cornelius.}

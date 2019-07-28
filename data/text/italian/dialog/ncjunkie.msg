@@ -1,9 +1,5 @@
-# QUICK LOOKS
 {100}{}{Vedi un tossico dall'aspetto squallido.}
 {101}{}{Vedi un tossico iperattivo.}
-
-# EXAMINES
-# 1. [MALE, CRASH AND BURN]
 {150}{}{Vedi un tossico dall'aspetto squallido. Si sta muovendo molto lentamente.}
 {151}{}{Vedi un tossico dall'aspetto squallido. Sembra malato.}
 {152}{}{Vedi un tossico dall'aspetto squallido. E' cosi' magro, che sembra potersi spezzare in caso di forte vento.}
@@ -11,14 +7,12 @@
 {154}{}{Vedi un tossico dall'aspetto squallido. I suoi occhi sono cosi' iniettati di sangue che sembra possa piangere lacrime di sangue.}
 {155}{}{Vedi un tossico dall'aspetto squallido. Ogni volta che si muove, sussulta, come se l'avessero punto degli spilloni.}
 {156}{}{Vedi un tossico dall'aspetto squallido. Ci sono borse sotto i suoi occhi e un'espressione di dolore sul suo volto.}
-# 2. [MALE, HIGH ON JET]
 {160}{}{Vedi un tossico. Ha un'espressione beata sul volto.}
 {161}{}{Vedi un tossico. Sta sorridendo leggermente e si muove seguendo un ritmo inudibile.}
 {162}{}{Vedi un tossico. Ha lo sguardo perso nel vuoto.}
 {163}{}{Vedi un tossico. Sorride e saluta qualcosa dietro il tuo orecchio.}
 {164}{}{Vedi un tossico. Continua a toccarsi la faccia e borbotta tra se' e se'.}
 {165}{}{Vedi un tossico. A dispetto delle borse sotto i suoi occhi, sta sorridendo come se avesse appena vinto alla lotteria.}
-# 3. [FEMALE, CRASH AND BURN]
 {170}{}{Vedi una squallida tossica. Si sta muovendo molto lentamente.}
 {171}{}{Vedi una squallida tossica. Ha l'aspetto di una che non mangia da mesi.}
 {172}{}{Vedi una squallida tossica. E' cosi magra che sembra potersi spezzare in caso di forte vento.}
@@ -27,7 +21,6 @@
 {175}{}{Vedi una squallida tossica con gli occhi iniettati di sangue.}
 {176}{}{Vedi una tossica dall'aspetto squallido. Ogni volta che si muove, sussulta, come se l'avessero punta degli spilloni.}
 {177}{}{Vedi una squallida tossica. Ci sono borse sotto i suoi occhi e un'espressione di dolore sul suo volto.}
-# 4. [FEMALE, HIGH ON JET]
 {180}{}{Vedi una tossica. Ha un'espressione beata sul volto.}
 {181}{}{Vedi una tossica. Sta piangendo e sorridendo allo stesso tempo.}
 {182}{}{Vedi una tossica. Sta sorridendo e sta ballando una canzone inudibile.}
@@ -36,20 +29,15 @@
 {185}{}{Vedi una tossica. Continua a grattarsi il dorso delle mani.}
 {186}{}{Vedi una tossica. Barcolla e ondeggia e riesce a malapena a stare in piedi.}
 {187}{}{Vedi una tossica. Malgrado il suo aspetto pietoso, sta sorridendo come se avesse appena vinto alla lotteria.}
-
-# FLOAT DIALOGUE:
-# 5. JUNKIE=WASTED; ENCLAVE DESTROYED IS TRUE
 {200}{}{::Applaude, poi sussulta::}
 {201}{}{::Applaude debolmente, sussultando ad ogni applauso::}
 {202}{}{::Fischia debolmente::}
-# 6. JUNKIE=STONED; ENCLAVE DESTROYED IS TRUE
 {210}{}{Tu sei il miglior...uh, qualcosa. Tu sei il miglior QUALCOSA!}
 {211}{}{::Ulula::}
 {212}{}{, sei meglio del JET!}
 {213}{}{::Applaude in maniera furibonda::}
 {214}{}{::Applaude in maniera furibonda::}
 {215}{}{::Fischia::}
-# 7. JUNKIE = WASTED
 {220}{}{La mia testa...}
 {221}{}{Brucia e distruggi...Brucia e distruggi...}
 {222}{}{Fa piu' male dell'ultima volta...}
@@ -64,7 +52,6 @@
 {231}{}{Hai visto Jimmy J, da qualche parte? Ho bisogno di una dose.}
 {232}{}{Sto cercando la Farmacia di Renesco. Renesco mi rimettera' in sesto.}
 {233}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda GeForce.}
-# 8. JUNKIE = HIGH
 {240}{}{[Canta.] I...just want to fly. Put your arms around me, baby, put your arms around me, baby.}
 {241}{}{[Canta.] Rocketman, burning off the mmmmumble there alone...}
 {242}{}{Occhio! Rosa-DeathClaw a ore tre!}
@@ -84,7 +71,6 @@
 {256}{}{Le mie scarpe stanno respirando.}
 {257}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda GeForce.}
 {258}{}{Stai guardando me?! Stai guardando me?!! Ti ammazzero'!}
-# 9. JUNKIE=WASTED; ENCLAVE DESTROYED IS TRUE
 {270}{}{Uh, vorrei applaudire la tua vittoria sull'Enclave, ma la mia testa mi rimbomba troppo. Torna di notte.}
 {271}{}{::Prova ad applaudire, ma continua a sbagliare::}
 {272}{}{Cosi' si fa. Ero troppo fatto per vedere quello che hai fatto, ma sicuramente e' stato grandioso.}
@@ -93,9 +79,8 @@
 {275}{}{L'Enclave aveva del Jet?}
 {276}{}{Sei stato tu a causare quella grossa esplosione giu' a sud? Mi ha fatto male alla testa.}
 {277}{}{Lo so che hai salvato il mondo, ma siamo noi PNG minori che ne subiamo le conseguenze.}
-{278}{}{Chris Avellone mi ha programmato, Tom French ha creato il mio script, percio', tecnicamente, io non sono responsabile della mia dipendenza da Jet.}
+{278}{}{Chris Avellone mi ha programmato, Tom French ha creato il mio script, percio', tecnicamente, non sono responsabile della mia dipendenza da Jet.}
 {279}{}{Certo, certo, e' davvero magnifico che tu abbia finito il gioco. Naturalmente, questo significa che presto cancellerai tutti noi dal tuo hard disk. Grazie mille.}
-# 10. JUNKIE=STONED; ENCLAVE DESTROYED IS TRUE
 {291}{}{Tu sei il miglior...uh, qualcosa. Tu sei il miglior QUALCOSA!}
 {292}{}{, sei meglio del JET!}
 {293}{}{Cavoli, avrei voluto vedere quell'esplosione quand'ero fatto. Dev'essere stato qualcosa di mitico, eh?}
@@ -111,10 +96,7 @@
 {303}{}{Prendiamo insieme un po' di Jet per festeggiare la tua vittora. Offri tu.}
 {304}{}{Una volta che avrai cancellato questo gioco dal tuo hard disk, noi esisteremo ancora?}
 {305}{}{Uh...che tipo di droghe stavano sperimentando quelli dell'Enclave? C'era del Jet gratis?}
-
-# CLICK DIALOGUE:
-# 11. JUNKIE = WASTED, PLAYER = POWER ARMOR
-{320}{}{Come ci vai al bagno con quella roba addosso?}
+{320}{}{Come fai ad andare in bagno con quella roba indosso?}
 {321}{}{Uh...stai parlando con me?}
 {322}{}{O cavoli, questi "trip" si fanno ogni giorno peggiori. Adesso mi parlano persino le persone metalliche.}
 {323}{}{Qualcuno ti ha versato del metallo fuso addosso?}
@@ -123,29 +105,26 @@
 {326}{}{::Bussa sulla tua armatura:: Ehila'? C'e' nessuno in casa?}
 {327}{}{Sei uno strano ibrido uomo-frigorifero, per caso?}
 {328}{}{Fa caldo li' dentro?}
-# 12. JUNKIE = WASTED, PLAYER = SLAVER
 {350}{}{Dammi del Jet, schiavista, e ti diro' dove potrai trovare delle facili prede da queste parti.}
 {351}{}{Puoi avere i miei figli, schiavista, se hai del Jet con cui pagarli...}
 {352}{}{Solo un po' di spiccioli, e saro' il tuo schiavo...lascia che prima mi vada a prendere un po' di Jet.}
-{353}{}{Saro' il tuo schiavo, se puoi darmi un po' di Jet.}
-{354}{}{Mi puoi rivendere come schiavo se mi dai un po' di Jet.}
+{353}{}{Saro' la tua schiava, se puoi darmi un po' di Jet.}
+{354}{}{Mi puoi rivendere come schiava se mi dai un po' di Jet.}
 {355}{}{No, amico, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
-# 13. JUNKIE = WASTED, PLAYER = PRIZEFIGHTER OR MADE MAN
 {360}{}{Sei tu il campione? Hai degli spiccioli da prestarmi?}
 {361}{}{Dai, dammi solo un po' di spiccioli.}
 {362}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro' indietro.}
 {363}{}{Ehi, uh...hai del Jet?}
 {364}{}{Amico, ho bisogno di *volare*... capisci quello che voglio dire?}
-{365}{}{Ho urgente bisogno di una medicina per mio figlio. Aiutami.}
+{365}{}{Ho davvero bisogno di una medicina per mio figlio. Aiutami.}
 {366}{}{Hai un po' di spiccioli da darmi?}
 {367}{}{Mi bastano un po' di spiccioli per comprare un po' di cibo...}
-{368}{}{Saro' il tuo schiavo, se puoi darmi un po' di Jet.}
-{369}{}{Mi puoi rivendere come schiavo se mi dai un po' di Jet.}
+{368}{}{Saro' la tua schiava, se puoi darmi un po' di Jet.}
+{369}{}{Mi puoi rivendere come schiava se mi dai un po' di Jet.}
 {370}{}{No, amico, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
 {371}{}{Sei un membro della famiglia }
-{372}{}{Mi puoi prestare un po' di soldi...? Dai, faro' il bravo.} ###???Good for it
+{372}{}{Mi puoi prestare un po' di soldi...? Dai, faro' il bravo.}
 {373}{}{Lavoro in cambio di Jet...}
-# 14. JUNKIE = MALE, WASTED, PLAYER = NO REP OR PORN STAR
 {380}{}{Ehi, fratello? Puoi aiutarmi a volare?}
 {381}{}{Faro' qualsiasi cosa tu voglia, per un po' di soldi. O per del Jet, se ce l'hai.}
 {382}{}{Vuoi sballare con qualcuno, amico?}
@@ -156,22 +135,21 @@
 {387}{}{Puoi prestarmi un po' di grana...? Te li ridaro'.}
 {388}{}{Lavoro in cambio di Jet...}
 {389}{}{Forza, amico, dammi solo un paio di monete.}
-{390}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro'...}
+{390}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro' indietro.}
 {391}{}{Ehi, uh...hai del Jet, amico?}
 {392}{}{Ho davvero bisogno di una medicina per mio figlio. Aiutami.}
 {393}{}{Hai un po' di spiccioli da darmi?}
 {394}{}{Mi servono solo un po' di spiccioli per comprare del cibo...davvero...}
-{395}{}{Verro' a letto con te per un po' di Jet o per qualche soldo. Sono pulito, te lo giuro.}
+{395}{}{Verro' a letto con te per un po' di Jet o per qualche soldo. Sono pulita, te lo giuro.}
 {396}{}{Una volta ero un pezzo grosso, qui a Reno. Per un po' di Jet posso darti qualche dritta...}
-{397}{}{Saro' il tuo schiavo, se puoi darmi un po' di Jet.}
-{398}{}{Mi puoi rivendere come schiavo, se mi dai un po' di Jet.}
+{397}{}{Saro' la tua schiava, se puoi darmi un po' di Jet.}
+{398}{}{Mi puoi rivendere come schiava se mi dai un po' di Jet.}
 {399}{}{Ehi, sorella? Puoi aiutarmi a volare?}
 {400}{}{Forza, miss, dammi solo un paio di monete.}
 {401}{}{Ehi, uh...hai del Jet, miss?}
 {402}{}{Senti, ho bisogno di *volare*... capisci quello che voglio dire?}
 {403}{}{No, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
 {404}{}{Mammina?}
-# 15. JUNKIE = FEMALE, WASTED, PLAYER = MALE, NO REP OR PORN STAR
 {420}{}{Ehi, fratello? Puoi aiutarmi a volare?}
 {421}{}{Su, ragazzo, dammi solo un paio di monete.}
 {422}{}{Verro' a letto con te per un po' di Jet o per qualche soldo. Sono pulita, te lo giuro.}
@@ -198,13 +176,12 @@
 {443}{}{Sorella, ho bisogno di *volare*... capisci quello che voglio dire?}
 {444}{}{No, sorella, ho chiuso con la droga. Uh...perche'? Vuoi comprare?}
 {445}{}{Mammina?}
-# 16. ANY STONED REACTION, POWER ARMOR
 {450}{}{Santi...! Che cosa sei? Un qualche tipo di rob-ot?}
 {451}{}{Che cosa diavolo hai preso per finire ricoperto di metallo a quel modo?}
 {452}{}{Whoa. Un umano metallico. Che parla con me.}
 {453}{}{Se provieni da un altro pianeta, faresti meglio a tornartene a casa... non c'e' niente da conquistare, qui.}
 {454}{}{Oooooh. Posso vedere le luci di New Reno sul tuo visore.}
-{455}{}{Sono cosi' fattooooooo che...uh, cosa stavo dicendo?}
+{455}{}{Sono coooooosi' fatto che...uh, cosa stavo dicendo?}
 {456}{}{Amico, deve fare davvero CALDO li' dentro.}
 {457}{}{C'e' nessuno in quel coso?}
 {458}{}{Beh, che mi venga un colpo se quello non e' Mr. Darttth Vaderrr}
@@ -212,7 +189,6 @@
 {460}{}{Amico, SEI nel gioco sbagliato. Prova ad andare in uno di quei giochi per PC con i battlemech.}
 {461}{}{Sei un astronauta?}
 {462}{}{Mi serviranno altre dosi di Jet prima che io possa anche solo pensare di darti fastidio.}
-# 17. ANY STONED REACTION, ANY SLAVER OR PRIZEFIGHTER
 {470}{}{Ehi, schiavista, checce'?!}
 {471}{}{Vuoi schiavizzarmi? Eh? Provaci! Sono invincibile!}
 {472}{}{Prova a prendermi, schiavista!}
@@ -221,20 +197,19 @@
 {475}{}{Ce l'hai con me, schiavista? Sono un concentrato di Jet! Ti spacco il CULO!}
 {476}{}{Vuoi volare con me, schiavista?}
 {477}{}{Perche' ci sono due tu? E' il tuo gemello?}
-{478}{}{Huh? Sei reale?}
-{479}{}{Sono coooosi' fatto che...uh, cosa stavo dicendo?}
+{478}{}{Eh? Sei reale?}
+{479}{}{Sono coooooosi' fatto che...uh, cosa stavo dicendo?}
 {480}{}{Vuoi volare? Parla con Juuuuules.}
 {481}{}{Jimmy J ti fara' stare bene, capisci quello che intendo?}
-{482}{}{Se vedi Renesco, digli che glieli daro' domani, i suoi soldi.}
+{482}{}{Se vedi Renesco, digli che gli daro' i suoi soldi domani.}
 {483}{}{Il Jet di Jimmy J e' il MIGLIORE. Ti fa andare cosi' in alto, che non vorresti MAI tornare giu'.}
 {484}{}{Stai parlando con me? Stai parlando con me?!}
 {485}{}{Vuoi vedertela con me?! Eh?}
-{486}{}{::Ti fissa con gli occhi annebbiati dalla droga::}
+{486}{}{::Ti fissa con occhi annebbiati dalla droga::}
 {487}{}{Vuoi volare con me?}
 {488}{}{Ehi, campione, checce'?!}
 {489}{}{Vuoi boxare con me? Eh? Dai!}
 {490}{}{Ce l'hai con me, campione? Sono un concentrato di Jet! Ti spacco il CULO!}
-# 18. ANY STONED REACTION TO MADE MAN
 {500}{}{Oh! Picciotto in arrivo!}
 {501}{}{Riesco a malapena a vederti laggiu', gangster. Il Jet mi ha portato cooooosi' in alto.}
 {502}{}{Perche' ci sono due tu? E' il tuo gemello?}
@@ -249,14 +224,12 @@
 {511}{}{Ce l'hai con me, strumento della mafia? Sono un concentrato di Jet! Ti spacco il CULO!}
 {512}{}{Vuoi vedertela con me, gangster?! Eh?}
 {513}{}{::Ti fissa con occhi annebbiati dalla droga::}
-# 19. ANY STONED REACTION TO DRUGGED PLAYER
 {520}{}{Whoa...Che cosa TI sei fatto? Ne hai un po' da darmi?}
 {521}{}{Credevo di essere *io* quello strafatto.}
 {522}{}{Ehi, amico...dammi un po' di quella roba che ti sei fatto.}
 {523}{}{Ti chiederei di volare, ma mi pare che tu lo stia gia' facendo.}
 {524}{}{Perche' ci sono due tu? E' il tuo gemello?}
 {525}{}{Dove hai trovato quella roba che ti sei fatto?}
-# 20. ROBOBRAIN OR MARCUS
 {530}{}{Amico, non voltarti, ma c'e' un cervello in scatola che ti segue.}
 {531}{}{Whoa. Devo aver preso della roba tagliata davvero male... Vedo cervelli robot che vanno di qua e di la'.}
 {532}{}{Se rivedo di nuovo quel robot col cervello, la smetto con il Jet... per sempre.}
@@ -268,7 +241,7 @@
 {538}{}{Ce l'hai con me, amante dei robot? Sono un concentrato di Jet! Spacco il culo a TE e poi al tuo robot!}
 {539}{}{Vuoi vedertela con me, amante dei robot?! Eh?}
 {540}{}{Eh? Sei reale?}
-{541}{}{Sono cosi' fatto che...uh, cosa stavo dicendo?}
+{541}{}{Sono coooooosi' fatto che...uh, cosa stavo dicendo?}
 {542}{}{Vuoi volare? Parla con Juuuuules.}
 {543}{}{Jimmy J ti fara' stare bene, capisci quello che intendo?}
 {544}{}{Se vedi Renesco, digli che gli daro' i suoi soldi domani.}
@@ -286,7 +259,6 @@
 {556}{}{Vuoi volare con me? E che mi dici del tuo amico mutante?}
 {557}{}{Ce l'hai con me, amante dei mutanti? Sono un concentrato di Jet! Ti spacco il CULO!}
 {558}{}{Vuoi vedertela con me, amante dei mutanti?! Eh?}
-# 21. STONED MALE REACTION TO COMP: SULIK OR NO REP AT ALL
 {560}{}{Amico, non voltarti, ma c'e' un selvaggio che ti segue.}
 {561}{}{Whoa. Guarda quel selvaggio. Che osso enorme.}
 {562}{}{Whoa. Il tuo amico lo sa che gli sta spuntando un osso dal naso?}
@@ -306,15 +278,11 @@
 {576}{}{Ce l'hai con me? Sono un concentrato di Jet! Ti spacco il CULO!}
 {577}{}{Vuoi vedertela con me?! Eh?}
 {578}{}{::Ti fissa con occhi annebbiati dalla droga::}
-
-# use jet on junkie dialog
 {600}{}{Bello...}
 {601}{}{Mmmm...}
 {602}{}{Sei un amico.}
 {603}{}{j}
 {604}{}{J}
 {605}{}{Dammi del J... ummm...}
-
-# endings for middle insertion dialogs
 {796}{}{! SEI GRANDE!! E ADESSO, BABY, E ADESSO?!!!}
 {871}{}{? Mi puoi passare un po' di Jet?}

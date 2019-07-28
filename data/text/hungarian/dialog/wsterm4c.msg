@@ -1,7 +1,6 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
 {100}{}{Számítógép-terminál.}
 {101}{}{Bio-Raktár ellenõrzõ terminál.}
-{102}{}{Nem tudod elolvasni, mi van a képernyõn.}
+{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
 {103}{}{Bio-Raktár  
                                                               Fõmenü:
                                                                  Igénylés
@@ -12,11 +11,11 @@
 {107}{}{Igénylés}
 {108}{}{Tárolás}
 {109}{}{Kilépés}
-{110}{}{Öö.}
-{111}{}{[Nem tudod elolvasni, mi van a képernyõn.]}
+{110}{}{Ah...}
+{111}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
 {112}{}{Ez a Terminál használaton kívül van, további részletekért kérem, lépjen kapcsolatba a rendszergazdával!}
 {113}{}{}
-{114}{}{Agrr}
+{114}{}{Öö...}
 {115}{}{Kilépés}
 {116}{}{Igénylés Fõmenü:
                                                          Vírusok
@@ -36,7 +35,6 @@
                                 Himlõ (1025-ös tenyészet)
                                           Ebola
                                                                     Hantavírus (304-es tenyészet)}
-# a  vérhas/lépfene helyett lehetne írni anthrax-ot is, de ez így magyar, nem?!
 {126}{}{}
 {127}{}{}
 {128}{}{}
@@ -125,7 +123,7 @@
 {200}{}{[Az adatok arra utalnak, hogy az agy ugyan él, de neurális teljesítmény-szintje jóval a normális alatt van.] Magadhoz veszed?}
 {201}{}{}
 {202}{}{Igen}
-{203}{}{Nem}
+{203}{}{Nem.}
 {204}{}{[Az agyhullámok aktívak, de különböznek az emberi agyétól.] Magadhoz veszed?}
 {208}{}{[Az agy aktivitása olyan, mint egy átlagos emberé.] Magadhoz veszed?}
 {212}{}{[Az agy aktivitása nem fért rá a grafikon skálájára! Egy szempillantás múlva rájössz, hogy a jelek egyszerre digitális és emberi eredetûek.] Magadhoz veszed?}
@@ -140,7 +138,7 @@
 {223}{}{[Az adatok szerint Dobbs közlegény él! A Kísérleti Bio-Med Géllel töltött regenerációs tartályban van elhelyezve.] Igényt tartasz rá?}
 {224}{}{}
 {225}{}{Igen}
-{226}{}{Nem}
+{226}{}{Nem.}
 {227}{}{[Dobbs közlegény teste ott hever a lábad elõtt. Meglepõdsz, mert hirtelen felkel és beszélni kezd hozzád. Furcsa, egyáltalán nem néz ki halottnak.]}
 {228}{}{Kilépés}
 {229}{}{Jelenleg nincs holttest a raktárban.}
@@ -149,5 +147,4 @@
 {232}{}{[Bárhogyan is nézed, a tároló egységek mind üresek, bár a megjelenített szöveg szerint telinek kéne lenniük. Hiba lehet a programban. Nahiszen...]}
 {233}{}{Visszatérés a Fõmenübe}
 {234}{}{Kilépés }
-
-{300}{}{ képtelen elolvasni, mi van a kijelzõn.}
+{300}{}{ képtelen elolvasni, mi van a képernyõre írva.}

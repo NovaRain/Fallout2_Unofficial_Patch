@@ -1,6 +1,5 @@
-# Dialog Editor last position: 79
-{100}{}{Kellemes, teltkarcsú asszony.}
-{101}{}{Rose.}
+{100}{}{You see a pleasantly plump woman.}
+{101}{}{You see Rose.}
 {102}{}{A haja laza kontyba van kötve és enyhén riszálja magát járás közben. Nem tehetsz róla, de nyugodtság száll meg a közelében.}
 {150}{}{Elnézést, zárva vagyunk. Haláleset történt a családban. [szipog]}
 {151}{}{Hé! Itt csakis én turkálhatok a talált tárgyak között.}
@@ -62,7 +61,7 @@
 {211}{}{Mibõl van ez a... canis burger?}
 {212}{}{Ó egek! Ezek szerint beszélt Corneliusszal, a férjemmel? Ez az egész órás ügy, annyira szörnyû. Cornelius elhitette az egész várossal, hogy a legjobb barátja, Farrel, elemelte az óráját. Ha már beszélt vele észrevehette, hogy az agya már nem úgy forog, ahogy kéne. Meg vagyok gyõzõdve arról, hogy a szegény pára lerakta valahol az órát, és ottfelejtette.}
 {213}{}{Ha másra nincs szüksége, ki kell még szolgálnom másokat.}
-{214}{}{Feltehetek még néhány kérdést?}
+{214}{}{Feltehetek további kérdéseket?}
 {215}{}{Egy pillanat, még éhes maradtam.}
 {216}{}{ÉTEL-t mondott? Hát, nem is jöhetett volna jobb helyre, ha ételt akar.}
 {217}{}{[Önkéntelenül megremeg.] Tartsa magát távol attól a helytõl! Utazók mesélték, hogy rothadó hullák vannak ott karókhoz kötözve, és éjszakánként izzó alakok járják a mezõt. Nem tudom, mennyi igaz ebbõl, de tudom, hogy Karl odament és nem láttuk azóta.}

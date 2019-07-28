@@ -1,6 +1,5 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt egy mocskos, elhanyagolt egyén.}
-{101}{}{Õ egy lakásfoglaló.}
+{101}{}{Egy földfoglalót látsz.}
 {102}{}{Ez itt egy mocskos, elhanyagolt egyén.}
 {103}{}{Itt láthatod a legjobb otthont, amihez az utóbbi idõben szerencsém volt.}
 {104}{}{Ahh... tengeri levegõ!}

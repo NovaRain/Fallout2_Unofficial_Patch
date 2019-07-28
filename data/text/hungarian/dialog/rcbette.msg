@@ -1,4 +1,3 @@
-# Dialog Editor last position: 4
 {100}{}{Egy termetes bányásznõt látsz.}
 {101}{}{Istenkáromló Bette-t látod, a Morningstar Bánya egyik bányászát.}
 {102}{}{Egy meglehetõsen izmos nõt látsz. Túlteng benne az önbizalom.}
@@ -77,6 +76,8 @@
 {175}{}{Azt hiszem, okosabb vagy, mint aminek látszol. De akkor legyél is az! Látom, épp indulni készültél! Rohanj haza a mamihoz, és mondd el neki, hogy mihez nem volt elég vér a pucádban!}
 {176}{}{Elég volt! Eleget járattátok a szátokat! Egy utolsó esélyt adok: maradjatok csendben, vagy széttéplek benneteket!}
 {177}{}{Talán ezt fogom tenni. Biztos, hogy bántani nem akarok senkit. Viszlát!}
-{178}{}{Értem, hogy megy ez, te kis szardarab. Rendben, bevihetsz engem is, meg Caminettót is. (Caminettóhoz) Igaz, te kis faszfej?}
+{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
+ (to Caminetto) Right, my little fuckface?}
 {179}{}{Ez a beszéd!}
 {180}{}{Nem! Késõ! Most mindkettõtöknek kinyílik a pofonláda!}
+{181}{}{I guess I'll just kick Caminetto's ass another day.}

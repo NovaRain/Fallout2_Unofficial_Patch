@@ -12,7 +12,7 @@
 {111}{}{La parola, amico mio... la parola e' EGOISMO. Mischiala con un sacco di alterigia, e che cosa ottieni? Vault City... in tutta la sua gloria ipocrita e schiavista.}
 {112}{}{Perche' vivi in questa citta', se la odi cosi' tanto?}
 {113}{}{Amen, fratello!}
-{114}{}{Credo di aver sentito abbastanza. Addio.}
+{114}{}{Credo di aver sentito abbastanza. Ci vediamo.}
 {115}{}{Va' a raccontare le tue assurdita' da qualche altra parte, amico... ne abbiamo gia' abbastanza.}
 {116}{}{Si'! }
 {117}{}{E' TEMPO di ascoltare il lamento dei nostri fratelli al di fuori di queste mura e di lasciarli entrare! Abbiamo cibo e rifugio in abbondanza anche per i nostri fratelli... non abbiamo bisogno di essere ricchi quando cosi' TANTA gente e' povera.}
@@ -66,7 +66,7 @@
 {165}{}{Al diavolo il pagamento, allora. Non andro' a Reno.}
 {166}{}{Ottimo! Ma sara' meglio che valga il tempo che perdo.}
 {167}{}{Pare proprio che la natura ti abbia gia' punito, schiavista. Forse un giorno espierai le tue colpe.}
-{168}{}{Eh... Non proprio. Sta' attento quando attraversi le Lande, mio semplice amico.} ###???that's not it
+{168}{}{Eh... Non proprio. Sta' attento quando attraversi le Lande, mio semplice amico.}
 {169}{}{Urf}
 {170}{}{Allora, amico, ci hai ripensato?}
 {171}{}{Ho pensato che proteggere il tuo segreto potrebbe farmi guadagnare un sacco di soldi. Hai capito quello che voglio dire?}
@@ -81,7 +81,7 @@
 {180}{}{Ho una domanda: perche' a Vault City sono presenti degli schiavi? Mi avevano detto che questa era una citta' libera.}
 {181}{}{Voglio udire il verbo, fratello!}
 {182}{}{Questa citta' e' fondata sul peccato e sulla schiavitu' e sono venuto a riportarla sulla retta via!}
-{183}{}{Niente, grazie.}
+{183}{}{Per oggi niente, grazie.}
 {184}{}{So che stanno lottando per far rivivere la verita' e la giustizia, e che noi non alziamo un dito per aiutarli.}
 {185}{}{Noi cosa potremmo fare, invece?}
 {186}{}{Mi pare quasi un tradimento.}
@@ -109,7 +109,7 @@
 {208}{}{Non c'e' differenza tra fingere e fare. Vade retro, schiavista.}
 {209}{}{Ma mi sono reso conto dei miei errori!}
 {210}{}{Adesso basta. E' ora di aprirti in due e vedere di cosa sei fatto...}
-{211}{}{D'accordo, allora.}
+{211}{}{D'accordo.}
 {212}{}{Non ho nulla da dire ad una persona che si macchia di azioni ripugnanti. Vattene.}
 {213}{}{Vuoi un'azione ripugnante? Te lo FACCIO VEDERE io cos'e', un'azione ripugnante...}
 {214}{}{Ho capito che la strada che avevo intrapreso era sbagliata. Sono venuto per pentirmi e per ascoltare il verbo!}
@@ -123,7 +123,7 @@
 {222}{}{Si', volevo solo farti sapere che ho portato a termine il compito che mi avevi affidato.}
 {223}{}{Mi fa piacere sentire che le mie parole hanno attecchito nel tuo cuore. Forse i nostri cammini si incroceranno ancora, un giorno.}
 {224}{}{Forse. In alto i cuori, fratello.}
-{225}{}{Addio.}
+{225}{}{Arrivederci.}
 {226}{}{NCR sta cercando di portare l'onore e un governo in tutta la California, e Vault City ha il potere per rendere possibile questo progetto! Pensa al bene che potremmo fare potendo contare sulla tecnologia di Vault City!}
 {227}{}{Non me la dai a bere. Dovrei denunciarti a chi di dovere - a meno che, naturalmente, tu non voglia comprare il mio silenzio.}
 {228}{}{Ma questa tecnologia appartiene a Vault City. Gli altri non hanno diritti su di essa.}

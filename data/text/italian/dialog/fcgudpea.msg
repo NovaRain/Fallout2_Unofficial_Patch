@@ -1,19 +1,19 @@
-{100}{}{Vedi una persona che indossa un buffo pigiama.}
-{101}{}{Vedi un paesano Shi.}
-{102}{}{Questa persona e' diversa da quelle che hai visto fino ad oggi. Non sembra interessarsi molto a te.}
+{100}{}{Vedi una persona che indossa uno strano pigiama.}
+{101}{}{Vedi un abitante Shi.}
+{102}{}{Questa persona sembra diversa da tutte quelle che hai visto fino ad ora. Non sembra interessarsi molto a te.}
 {103}{}{Non sei una spia, vero?}
 {104}{}{Chi sei?}
-{105}{}{Pesci e alghe. E' tutto quel che abbiamo.}
-{106}{}{Ah ah! Guardate che buffi quegli occhi rotondi!}
+{105}{}{Pesci e frutti di mare. Questo e' tutto cio' che abbiamo.}
+{106}{}{Ah ah! Guardate quegli strani occhi rotondi!}
 {107}{}{Sembri un Hubologista.}
 {108}{}{Lasciaci in pace.}
 {109}{}{Lunga vita a Dragon!}
 {110}{}{Abbasso Lo Pan!}
 {111}{}{Dragon e' un eroe.}
 {112}{}{Attento a Lo Pan. Stare con lui significa guai.}
-{113}{}{Quei punk sono sempre cosi' rumorosi.}
+{113}{}{Questi punk sono sempre cosi' rumorosi.}
 {114}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{115}{}{La vita non ha altro da offrire oltre a questo?}
+{115}{}{La vita puo' essere migliore di cosi'?}
 {116}{}{Siamo piu' svegli di quanto pensi.}
 {117}{}{Guardate! Un lao wai!}
 {118}{}{Non credo che tu mi piaccia.}
@@ -34,7 +34,7 @@
 {133}{}{Lunga vita a Dragon!}
 {134}{}{Lunga vita all'Imperatore!}
 {135}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{136}{}{La vita non ha altro da offrire oltre a questo?}
+{136}{}{La vita puo' essere migliore di cosi'?}
 {137}{}{Dragon... e' morto...}
 {138}{}{Oh no! Dragon e' morto!}
 {139}{}{La vita non ha piu' senso.}
@@ -45,32 +45,31 @@
 {144}{}{Insegneremo ai nostri figli ad essere come Dragon.}
 {145}{}{Avremo bisogno di nuovi sogni, adesso.}
 {146}{}{Il portavoce dell'Imperatore! Morto!}
-{147}{}{Cosa succedera' adesso?}
+{147}{}{Cosa accadra' adesso?}
 {148}{}{Spero che adesso i selvaggi non ci annientino!}
-{149}{}{I migliori muoiono sempre giovani.}
+{149}{}{Sono sempre i migliori quelli che se ne vanno.}
 {150}{}{Chissa' se riusciremo a superare l'inverno, senza Ken Lee.}
-{151}{}{Ho sentito che Ken Lee era l'unico che poteva comunicare con l'Imperatore.}
-{152}{}{Ho sentito che l'Imperatore non era nient'altro che una facciata per Ken Lee. }
+{151}{}{Mi hanno detto che Ken Lee era l'unico in grado di tenere a bada l'Imperatore.}
+{152}{}{Ho sentito dire che l'Imperatore era solo una facciata per coprire il vero capo, ovvero Ken Lee. }
 {153}{}{Lavoro, lavoro, lavoro. Riso, riso, riso. ::sigh::}
-{154}{}{La vita non ha altro da offrire oltre a questo?}
+{154}{}{La vita puo' essere migliore di cosi'?}
 {155}{}{Siamo piu' svegli di quanto pensi.}
 {156}{}{Guardate! Uno straniero!}
-
 {164}{}{Hai ucciso AHS-9? Ben fatto!}
-{165}{}{Quegli Hubologisti mi fanno venire i brividi.}
+{165}{}{Questi Hubologisti mi fanno venire i brividi.}
 {166}{}{Onorevole straniero, ci hai reso un grande servizio.}
 {167}{}{A morte gli Hubologisti!}
 {168}{}{Forse questo fara' fuggire piu' rapidamente gli Hubologisti da qui.}
-{169}{}{Stupidi Hubologisti: non sono stati nemmeno in grado di proteggere il loro capo.}
+{169}{}{Stupidi Hubologisti, non sono stati capaci nemmeno di proteggere il loro capo.}
 {170}{}{Spero solo che gli Hubologisti non si vendichino su di noi.}
 {171}{}{In fondo credo che tu non sia una spia.}
-{172}{}{Figlio di cane! Muori!}
+{172}{}{Figlio di porco! Muori!}
 {173}{}{Hai disonorato la tua famiglia!}
 {174}{}{Lasciaci in pace, lao wai!}
-{175}{}{Non hai fatto gia' abbastanza danni?}
+{175}{}{Non hai gia' fatto abbastanza danni?}
 {176}{}{Ti odio!}
 {177}{}{Lascia questa citta'!}
-{178}{}{Tornatene dalla tua gente!}
-{179}{}{Non rendere piu' cupa la mia vita mostrandomi la tua faccia!}
-{180}{}{Cosa dobbiamo fare per liberarci di te?}
+{178}{}{Torna dalla tua gente!}
+{179}{}{Non oscurare la mia vita con la tua faccia!}
+{180}{}{Che cosa dobbiamo fare per liberarci di te?}
 {181}{}{Aiuto! Aiuto!}

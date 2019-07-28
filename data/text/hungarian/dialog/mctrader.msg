@@ -1,5 +1,3 @@
-# Dialog Editor last position: 28
-{500}{}{Kereskedõ.}
 {100}{}{Rose készíti a legjobb omlettet.}
 {101}{}{Nehogy aztán a brahmin gombócra fenje a fogát!}
 {102}{}{Ha csak tehetem, benézek Rose-hoz.}
@@ -9,7 +7,7 @@
 {112}{}{Szíveskedne nem szélirányban állni? Enni szeretnék.}
 {120}{}{Ha nem bánja, aludni szeretnék.}
 {121}{}{Hé, mit csinál a szobámban?}
-{122}{}{Tûnés!}
+{122}{}{Tûnés kifelé!}
 {130}{}{Rose kifogyott az omlettbõl.}
 {131}{}{Megölöm azt, aki kiengedte a csirkéket.}
 {132}{}{Ha nem kaphatok omlettet, semmi értelme idejönnöm...}
@@ -27,3 +25,4 @@
 {170}{}{Úgy tûnik, a dolgok helyrerázódnak errefelé.}
 {171}{}{Valószínûleg még egy csapatot fel kell majd felbérelnem, hogy az élelmet el tudjuk innen vinni.}
 {172}{}{Mostantól, ha minden jól megy, Modoc jó napoknak nézhet elébe.}
+{500}{}{Kereskedõ.}

@@ -1,7 +1,6 @@
-# Dialog Editor last position: 21
 {100}{}{Egy furcsa bestiát látsz.}
 {101}{}{Egy szupermutánst látsz. Kicsit tébolyodottnak tûnik.}
-{102}{}{Megállj!}
+{102}{}{Állj!}
 {103}{}{Ne közelíts! A Fenséges Melchior parancsol neked!}
 {104}{}{Nézz csak ide! Én vagyok a legnagyobb bûvész a világon!}
 {105}{}{Reszkess a Fenséges Melchior hatalma elõtt!}

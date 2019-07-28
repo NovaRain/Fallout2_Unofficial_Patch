@@ -1,4 +1,3 @@
-# Dialog Editor last position: 49
 {100}{}{Egy koszos prémvadászt látsz.}
 {101}{}{Termetes prémvadász.}
 {102}{}{Egy gekkó-prémvadászt látsz.}

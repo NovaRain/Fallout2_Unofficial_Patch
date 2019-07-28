@@ -22,9 +22,9 @@
 {121}{}{Vieni qui!}
 {122}{}{Posso dirti quello che vuoi sapere.}
 {123}{}{Mi chiamo Martin.}
-{124}{}{Posso dirti quel che e' successo.}
+{124}{}{Io posso dirti cos'e' successo.}
 {125}{}{Salve, sono Martin Frobisher. Parlo a nome di queste persone. Grazie a Dio sei qui. }
-{126}{}{Che cosa vuoi sapere?}
+{126}{}{Cosa vorresti sapere?}
 {127}{}{Bel vestito, proprio come il mio. Chi siete?}
 {128}{}{Cosa ci fate qui?}
 {129}{}{Tu sei il Supervisore?}
@@ -83,4 +83,3 @@
 {182}{}{Mi piacerebbe conoscere il modo per salvarvi.}
 {183}{}{Ci pensero'.}
 {184}{}{Ma che strana coincidenza! Lascia che ti faccia qualche altra domanda.}
-

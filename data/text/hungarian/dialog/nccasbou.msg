@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez az ember kidobóként dolgozik a kaszinóban.}
 {150}{}{Ez az ember egy kidobó. Jó NAGYRA nõtt, mondhatom!}
 {151}{}{Õ itt a kidobóember. Jó nagy. És dühös.}
@@ -58,7 +57,7 @@
 {321}{}{Csaó, üdvözlünk a kaszinóban! Csak nem táncolni fogsz ma éjjel?}
 {322}{}{Halálos, ahogy kinézel, édesem!}
 {323}{}{Fortuna irigykedni fog, ha gyakran jársz majd nálunk.}
-{324}{}{Úgy hallottam, Tökös Tomi egy zártkörû vetítésre akar meghívni téged.}
+{324}{}{Úgy hallottam, Tökös Tomi magánvetítésre vár téged.}
 {330}{}{A kaszinó odabenn van! Ne szólj hozzám!}
 {331}{}{A kaszinó ODABENN VAN! ODA-BENN! Elmebeteg õstulok.}
 {335}{}{Eriggy, máshol rázd a segged, vadember!}
@@ -66,7 +65,7 @@
 {337}{}{Ma nincs kedvem az ungabunga húshoz. Lódulj!}
 {338}{}{Ásd el magad, baromarcú! Nem látod, hogy dolgozom?}
 {339}{}{Eriggy azt' zaklass egy nálam is részegebbet, baromarcú!}
-{345}{}{Hát szolgálatban nemigen beszélgethetek, de azért örülök, hogy seggberúgtad az Enklávét.}
+{345}{}{Szolgálatban nem lenne szabad beszélgetnem, de azért örülök, hogy kipicsáztad az Enklávét.}
 {346}{}{Ügyes vagy, vadember! Most, hogy megmentetted a világot, pihenj egyet és érezd jól magad!}
 {347}{}{Azt hallottam, Tökös Tomi keresett téged. Vigyázz vele!}
 {350}{}{Hát nem semmi egy tökös dolog volt így elintézni az Enklávét!}

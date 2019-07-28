@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ a Korzikai Testvérek egyike.}
 {150}{}{Ez a jólöltözött fickó bûzlik a vazelintõl. Valami oknál fogva, eléggé gyíkszerû benyomást tesz rád.}
 {151}{}{Õ Marty, a Korzikai Testvérek egyike. A haját lesímította, az arcát pedig csillogó izzadtság borítja.}
@@ -76,7 +75,7 @@
 {348}{}{A Korzikai Testvérek mindenki szolgálatára állnak... (Felpillant és bosszankodó arcot vág.) Te vagy az új tutajos?}
 {349}{}{Én tutalos}
 {350}{}{Én nem szívó! Én szívós!}
-{351}{}{Otthagyod}
+{351}{}{Elpályázol}
 {353}{}{Én vónék.}
 {354}{}{Tulképp a házastársam az.}
 {356}{}{Nem, azért jöttem, hogy behajtsam Nagy Jesus Mordino pénzét.}
@@ -84,7 +83,7 @@
 {358}{}{Dehogyiiiiis. Bocs, hogy zavartam.}
 {370}{}{Rendben, te kis agytröszt. 5 pé'zt ööö... 3 pé'zt fizetünk egy jelenetért. Menj az akció-szobába és állítsd fel az ottani fickó furkóját.}
 {371}{}{Furkó... fickó lenni jó nagy...}
-{372}{}{Csinálni amit mondol}
+{372}{}{[Do as man say.]}
 {380}{}{Vigyázz a szádra!}
 {381}{}{Én beszélni Kálmánró'!}
 {390}{}{(Feltartja a kezét.) Fogom én...}
@@ -113,7 +112,7 @@
 {455}{}{Akkor fogjunk bele! Nincs vesztegetni való idõnk! Hé, valaki hozzon ide egy lézengõt! }
 {456}{}{Rendben, haver, most megmutathatod...}
 {457}{}{Rendben, édeske, most megmutathatod...}
-{458}{}{Legyen úgy, ahogy a fura fickó rendezi a dolgokat...}
+{458}{}{[Do as the odd man directs.]}
 {459}{}{Ahogy gondolod, de a java csak most jön.}
 {465}{}{Sajnálom, haver, de a mi igényeinkhez nem vagy elég RUGANYOS. Dolgozz rajta, és késõbb talán beszélhetünk az üzletrõl, oké?}
 {466}{}{Sajnálom, édeske, de a mi igényeinkhez nem vagy elég RUGANYOS. Dolgozz rajta, és késõbb talán beszélhetünk az üzletrõl, oké?}
@@ -135,26 +134,25 @@
 {500}{}{Érdekel a dolog, 200 dolcsit kérek egy jelenetért.}
 {501}{}{Érdekel a dolog, de elõször tisztázzuk a feltételeket. Elõször is, csak TISZTA színészekkel dolgozom. Minden egyes jelenetért legalább 500 dolcsit kérek, valamint 20 százalék részesedést, és semmi SZARAKODÁS! Sztár vagyok, és ezzel te is tisztában vagy!}
 {503}{}{Szó sem lehet róla! Zuhanyoznom kell. Egy jó kiadósat...}
-{515}{}{(Elõkapar egy darab papírt a zakójából és egy X-et firkáltat veled az aljára.) Kész! Jöhet a filmezés! Elõször is, kell neked egy jó kis név, amirõl üvölt, hogy SZTÁR vagy. Valami ötlet?}
+{515}{}{(He yanks out a piece of paper from his jacket, and has you scrawl an "X" on it.) Done! Let's film! First, you'll
+ need a stage name, something that screams STAR. Any ideas?}
 {516}{}{(Elõkapar egy darab papírt a zakójából és aláíratja veled.) Kész! Jöhet a filmezés! Elõször is, kell neked egy jó kis név, amirõl üvölt, hogy SZTÁR vagy. Valami ötlet?}
 {517}{}{Hát mit szólnál egy másik névhez?}
 {525}{}{Hát hogy mondjam... az 500 dolcsi rendben volna, de a RÉSZESEDÉS nem kóser. Veszed az adást?}
 {526}{}{Rendben.}
 {527}{}{Akkor nincs üzlet. Majd látjuk még egymást.}
 {528}{}{Ha nincs részesedés, }
-{5528}{}{ egyszerûen nemet mond erre és húz kifelé ebbõl a fosrakás stúdióból!}
 {535}{}{Rendben! "}
-{5535}{}{!" TETSZIK! TETSZIK! Na, akkor jöhet a filmezés... }
-{6535}{}{! Fény be! Kamera indul! Csapó!}
 {536}{}{Achtung! Achtung!}
-{537}{}{Jöhet az üzlet.}
+{537}{}{[Get down to business.]}
 {545}{}{Eh... ez a név nem jó! Rossz asszociációkat szül. Úgy értem, egy kellemes kis pornóban senki nem akar ilyen nevet látni. Válassz légyszi egy másik nevet!}
-{546}{}{Rendben...}
+{546}{}{Okay...}
 {547}{}{De én teccik a név}
 {548}{}{De nekem tényleg tetszik ez a név.}
 {555}{}{Hát ez aztán név a javából, nagyon-nagyon ütõs! Jó választás volt, haver, nagyon jó. Most pedig fogjunk munkához! Fények be! Kamera indul! Csapó!}
 {556}{}{Ennek a névnek aztán van történelme és varázsa! Jó választás volt, haver, nagyon jó. Most pedig fogjunk munkához! Fények be! Kamera indul! Csapó!}
 {557}{}{Hát ennek a névnek aztán van varázsa! Jó választás volt, édeske, nagyon jó. Most pedig fogjunk munkához! Fények be! Kamera indul! Csapó!}
+{558}{}{Now, THAT'S a name so bright and so sharp, that it'll just EXPLODE because it's just so powerful! Good choice, honey-tits, good choice. Now, let's FILM! Lights! Camera! Action!}
 {565}{}{Rendben! Rendben! Fogjunk munkához, emberek! Gyerünk! Mintha élnétek! Készen álltok?}
 {566}{}{Készen állok mint péló}
 {567}{}{Arra születtem, hogy KÉSZEN álljak.}
@@ -179,11 +177,10 @@
 {622}{}{Elõször is mi ez a hely?}
 {623}{}{Ha a fizetség nem marad el, akkor érdekel a dolog.}
 {630}{}{Hm... faszállító... Menj szépen az akció-szobába, és fogj hozzá a merevítéshez! Itt a fizetséged: 5 dolcsi.}
-{631}{}{Azt teszed, amit mond.}
+{631}{}{[Do as he says.]}
 {632}{}{Ööö, az a helyzet, hogy meggondoltam magam. Kösz, de inkább nem vállalom. Legjobb, ha most megyek is.}
 {640}{}{A házastársad... Hmmmm. Rendben. Vezesd életed párját az akciószobába, és fogjon hozzá a farkak keményítéséhez. Itt a fizetség: 3 dolcsi.}
 {641}{}{Tedd, amit a fickó mond, Davin kedvesem. Menj }
-{5641}{}{ büszkén!}
 {642}{}{Tedd, amit a fickó mond, Miria kedvesem. MOST!}
 {650}{}{Hogy mi ez a hely? Ugye csak viccelsz? Ez itt a Golden Globes filmstúdió, az egyetlen Renóban, és még mindig ÁLL. Hát nem ismered a saját otthonodat? Ez fáj...}
 {651}{}{Hogy mi ez a hely? Ez itten a Golden Globes filmstúdió, haver, az egyetlen Renóban, és még mindig ÁLL. Szét akarod dumálni a fejem, vagy valami munkát akarsz?}
@@ -204,27 +201,23 @@
 {692}{}{Hát meg lehet érteni. Isten tudja, mire nem használnák azt az izét, ha valaki ellopná. Na, akkor most megyek!}
 {700}{}{Kevvválló! Persze, látnom kell, milyen fából faragtak, egy kis próbát kell tenned hálószoba-akrobatikából. Jöhet a játék, haver?}
 {701}{}{Kevvválló! Persze, látnom kell, milyen fából faragtak, egy kis próbát kell tenned hálószoba-akrobatikából. Jöhet a játék, édeske?}
-{702}{}{Persze.}
+{702}{}{Hogyne.}
 {703}{}{Öö... kösz nem. Meggondoltam magam. Talán máskor.}
 {710}{}{Akkor húzz innen a fenébe, te kis szaros! Nincs rád szükségünk! Tûnés innen! Nem fogsz TE többet pornózni!}
 {711}{}{Én se nem akarni! ÉRTENI?}
 {712}{}{Franc essen beléd! Nem parancsolgatsz te nekem! Nem te vagy a fõnököm, az én saját beosztottam }
-{5712}{}{!}
 {720}{}{Tûnés innen! Nincs mit mondanom neked!}
 {721}{}{Nekünk nincs semmi közünk egymáshoz. Kopj le!}
 {730}{}{Üdvözlünk a stúdióban, }
-{5730}{}{! Ma nincs felvétel, de hamarosan visszanézhetsz. }
 {732}{}{Ha már itt tartunk, mondanál egy-két szót a stúdióról?}
 {733}{}{Örülök, hogy ez szóba került. Én viszont Nagy Jesus Mordino pénzéért jöttem.}
 {734}{}{Rendben. Késõbb visszanézek.}
 {735}{}{(Kacsint.) Bébi, te pénzt jelentesz, ez a te sorsod!}
 {740}{}{A Korzikai Testvérek mindenki szolgálatára állnak... (Felpillant, és mosolyog.) Üdv újra a stúdióban, }
-{5740}{}{! Jöhet egy újabb film?}
 {743}{}{Jöhet. Rogyasszuk meg az ágyakat!}
 {745}{}{Nem igazán. Nagy Jesus Mordino pénzéért jöttem.}
 {746}{}{Kösz nem.}
 {755}{}{Nocsak... nem AKAROD csinálni? Te TÚL sokat érsz nekünk! Mi tettünk azzá, ami vagy, '}
-{5755}{}{!' Errõl ne feledkezz meg!}
 {756}{}{Én nem felejt ne hari én szomorú jövök én visszafele de mostan menni kén'}
 {758}{}{Rá se hederítesz, és elmész}
 {759}{}{Nyugalom! Ma egyszerûen nincs kedvem, oké? Fenébe, majd visszajövök, ha lenyugodtál!}
@@ -235,25 +228,22 @@
 {769}{}{Te nem vagy a fõnököm! Baszni akarok, és az én nagy lukam a lényeg, szóval most mindenki szépen nekiáll kibaszottul filmezni!!!}
 {770}{}{Rendben, megpróbálok késõbb visszajönni, ha már lenyugodtál.}
 {780}{}{A Korzikai Testvérek mindenki rendelkezésére állnak... (A férfi bosszankodva felnéz, aztán kiakad.) Szentséges... }
-{5780}{}{?! Hogyhogy korábban nem jöttél hozzánk? Amúgy nagy csatát vívtál! Nagy csatát! Mit tehetek érted?}
 {781}{}{Engemet! Engemet!}
 {782}{}{Semmit}
-{783}{}{Mi ez a hely?}
+{783}{}{Mi ez a hely tulajdonképpen?}
 {784}{}{Mondanál valamit a stúdióról?}
 {785}{}{Van üresedés... amit... betölthetnék?}
 {786}{}{Van valami munkátok a magamfajtának?}
 {787}{}{Nagy Jesus Mordino pénzéért jöttem.}
-{788}{}{Semmi-semmi. Bocs, hogy zavartam.}
+{788}{}{Semmit. Már itt sem vagyok.}
 {795}{}{Ez itt a Golden Globes stúdió, a világban még megmaradt tehetségek felkarolását tûztük ki célul. Úgy látom, barátom, te SZTÁR lehetnél nálunk. Gondolom tudod, mire célzok. Érdekel a színészet?}
 {797}{}{Hogyne. Komolyan gondolod a dolgot?}
 {799}{}{Jelen pillanatban nem. Bocs, hogy zavartalak.}
 {805}{}{Hogy a fenébe ne! Tegyünk próbát! Hé! Hozzatok gyorsan egy-két lébecolót! Egy valóságos sztárral fogunk együtt dolgozni!}
-{806}{}{Úgy teszel, ahogy a fickó mondja...}
+{806}{}{[Do as the man directs.]}
 {810}{}{A Korzikai Testvérek mindenki rendelkezésére állnak... (A férfi bosszankodva felnéz, aztán kiakad.) Szentséges... öö... hogy vagy, }
-{5810}{}{?! A nagyfõnök, }
-{6810}{}{ jól van? Foglalj helyet! Szóval, ööö, mit tehetek érted?}
 {812}{}{Semmitse}
-{813}{}{Mi ez a hely?}
+{813}{}{Mi ez a hely tulajdonképpen?}
 {814}{}{Keltsd fel az érdeklõdésemet! Mondj egy kicsit többet errõl a stúdióról!}
 {815}{}{Jó kérdés. Volna némi... üresedés... amit betölthetnék?}
 {816}{}{Jó kérdés. Van valami munkád a magamfajtának?}
@@ -261,7 +251,7 @@
 {827}{}{Van idõd arra, hogy megnézz engem? Tulajdonképpen gondoltam már rá, hogy sztár legyek...}
 {829}{}{Ma már semmit. Bocs, hogy zavartalak.}
 {835}{}{Ööö, hogyne. Hogyne. Hát próbáljuk meg... Lássuk, megy-e. Úgy értem, egy kicsit elfoglaltak vagyunk, de azért megpróbálhatjuk, oké? Ööö... hozzatok egy-két lébecolót, gyorsan!}
-{836}{}{Azt teszed, amit a fickó mond.}
+{836}{}{[Do as the man directs.]}
 {845}{}{Ööö, hogyne, hogyne! Hogyne... itt van, tessék a 250 dolcsid. És ööö add át üdvözletem Nagy Jesusnak, oké?}
 {846}{}{Ööö, hogyne, hogyne! Hogyne... sajnálom, hogy félreértés történt. Itt van, tessék. 250 dolcsi. Ja és add át üdvözletem Nagy Jesusnak, oké?}
 {847}{}{Mielõtt sebtiben kizavarnál innen, miért nem mesélsz gyorsan valamit az itt folyó kis üzelmekrõl?}
@@ -281,15 +271,13 @@
 {896}{}{Ja}
 {897}{}{Nema}
 {899}{}{Hát én nem az összes Enklávést nyomtam azért le. Tudod, a történtek csak...}
-{900}{}{Inkább mennék.}
+{900}{}{Jobb, ha megyek.}
 {910}{}{Ne szerénykedj! Tudom, hogy szivatós dolog lehetett. A legtöbb embernek nem lett volna gyomra hozzá. Viszont lenyelted a büszkeségedet és megtetted, amit kell. Ez sztártulajdonság.}
 {911}{}{Ja}
 {914}{}{Figyelj, ööö én nem az összes Enklávést nyomtam le. Ami történt csupán...}
 {915}{}{Jobb, ha megyek.}
 {920}{}{Tudod, mire gondoltam, }
-{5920}{}{? Az eszem egyfolytában egy kalandfilmen jár, ami bemutatná a történetedet. A címe lehetne például: "Pullout: Post-Nuclear Boogalo." Benne lennél?}
 {921}{}{Hõs vagy, }
-{5921}{}{. Egy igazi hõs. Soha nem felejtem el, mennyi szart kellett lenyelned értünk. Ha a jegyeladásokról megküldik a visszajelzést, az egész világ tudni fog errõl!}
 {922}{}{Ja}
 {924}{}{Úgy biza. Na, csá.}
 {926}{}{Hogy a francba ne. Végül is végigcsináltam ezt a játékot. Na, húzzunk bele!}
@@ -301,7 +289,7 @@
 {938}{}{::Sóhajt:: Most, hogy a memóriakockának annyi, talán kötögethetnék...}
 {1000}{}{Fáj hasika.}
 {1100}{}{Akhh! ::köpködsz néhányat:: EZ TÖK SZÍVÁS!}
-{1101}{}{Undort keltõ, egészségtelen ízt érzel a szádban, a gyomrod pedig kavarog. Viszont 5 dolcsi az 5 dolcsi!}
+{1101}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 5 chips is 5 chips!}
 {1200}{}{Nem... érzem túl jól magam.}
 {1201}{}{Az igazi szerelem újra gyõzedelmeskedett. A házastársad halálosan betegnek néz ki, de legalább 3 dolcsival gazdagabb vagy!}
 {1250}{}{Sztár lettél, egy mindenkit felülmúló sztár.}
@@ -313,3 +301,16 @@
 {5246}{}{. Szép idõnk van ma, nem igaz?}
 {5252}{}{?}
 {5256}{}{, ha esetleg akarnál velünk forgatni...}
+{5528}{}{ egyszerûen nemet mond erre és húz kifelé ebbõl a fosrakás stúdióból!}
+{5535}{}{!" TETSZIK! TETSZIK! Na, akkor jöhet a filmezés... }
+{5641}{}{ büszkén!}
+{5712}{}{!}
+{5730}{}{! Ma nincs felvétel, de hamarosan visszanézhetsz. }
+{5740}{}{! Jöhet egy újabb film?}
+{5755}{}{!' Errõl ne feledkezz meg!}
+{5780}{}{?! Hogyhogy korábban nem jöttél hozzánk? Amúgy nagy csatát vívtál! Nagy csatát! Mit tehetek érted?}
+{5810}{}{?! A nagyfõnök, }
+{5920}{}{? Az eszem egyfolytában egy kalandfilmen jár, ami bemutatná a történetedet. A címe lehetne például: "Pullout: Post-Nuclear Boogalo." Benne lennél?}
+{5921}{}{. Egy igazi hõs. Soha nem felejtem el, mennyi szart kellett lenyelned értünk. Ha a jegyeladásokról megküldik a visszajelzést, az egész világ tudni fog errõl!}
+{6535}{}{! Fény be! Kamera indul! Csapó!}
+{6810}{}{ jól van? Foglalj helyet! Szóval, ööö, mit tehetek érted?}

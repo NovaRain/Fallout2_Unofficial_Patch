@@ -1,8 +1,6 @@
 {100}{}{Questa persona sembra oscillare leggermente.}
 {101}{}{Vedi un barista specializzato in ricevimenti.}
 {102}{}{Sembra aver assaggiato un po' della sua merce.}
-#edit below by killap - was 202
-{210}{}{Sembra aver assaggiato un po' della sua merce.}
 {103}{}{Co...Cosh..Cosa possho darti...? [Hick.]}
 {104}{}{Nuka Cola [6$]}
 {105}{}{Birra [15$]}
@@ -20,7 +18,7 @@
 {117}{}{Ahhh, amico! Non hai abashtansha sholdi! Torna quando avrai un bel grussholetto.}
 {118}{}{[Fine]}
 {119}{}{Ha un aspetto un po' da folle.}
-{120}{}{Vedi un tossico.}
+{120}{}{Vedi un tossicodipendente.}
 {121}{}{Sembra un po' nervoso.}
 {122}{}{Checosavuoi? Iohotutto!}
 {123}{}{Mentat [560$]}
@@ -36,44 +34,35 @@
 {133}{}{[Dai 1000$ all'uomo]}
 {134}{}{Me va.}
 {135}{}{OHSI'! Questotitirerasu!}
-{136}{}{[Fine]}
-
-#Drunk: sets the sex flag
+{136}{}{[FINE]}
 {150}{}{Ehi, sei piuttosto carina; qual e' il tuo nome?}
 {151}{}{Un po' ubriaco. Ohh, certo.}
 {152}{}{Sei pronta ... a fare un po' di zug zug?}
 {153}{}{Naw..naw..naw..naw nuh naw.}
 {154}{}{D'accordo. Yeah.}
-#Drunk: the sex flag is set and you got some
 {155}{}{'notte, adesso vado via.}
-{156}{}{Lasciami ubriacare in pace.} ###???Lemme be drunk over here
+{156}{}{Lasciami ubriacare in pace.}
 {157}{}{Va' a fare zug zug ...da qualche altra parte.}
-#prop Drunk
 {158}{}{Che ne diresti se io e te ci allontanassimo dalla folla?}
 {159}{}{Uhh, facciamolo!}
 {160}{}{Naa, sono ubriaca.}
 {161}{}{[Burb] ::sorriso::}
-
-#Addict: set the sex flag
 {170}{}{Ehi, che ne dici di andare dietro a quel cespuglio?}
 {171}{}{Non l'hai mai fatto da sballata?}
 {172}{}{Potrei farti vedere le stelle, baby.}
 {173}{}{Sai, voglio un po' d'affetto...}
 {174}{}{Speravo di trovare qualcuno che fosse pronto ad andare.}
-#Addict: the set flag is set and you got some
 {175}{}{Mi e' bastato.}
 {176}{}{Ehi, hai una sigaretta?}
 {177}{}{Ehi, adesso non starmi troppo appiccicata -- io adoro la mia liberta'.}
-#prop Addict
 {178}{}{Sai essere come una pantera, se lo vuoi.}
-{179}{}{Sei pronta?}
+{179}{}{Sei pronto?}
 {180}{}{Non adesso; devo spararmi una dose.}
-{181}{}{Occhio, arriviamo.} ###???Man the hatches. We're goin' in
-
+{181}{}{Occhio, arriviamo.}
 {200}{}{Non fare lo stronzo!}
 {201}{}{Va' a festeggiare da qualche altra parte.}
 {202}{}{Chi ti ha lasciato entrare?}
-
 {203}{}{Questo non e' figo!}
 {204}{}{Calma, amigo.}
 {205}{}{Relax, amico!}
+{210}{}{Sembra aver assaggiato un po' della sua merce.}

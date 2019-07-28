@@ -31,8 +31,7 @@
 {130}{}{Me solo dice ciao. Me va ora.}
 {131}{}{Volevo solo salutarti. Ora vado.}
 {132}{}{Ehi, so di avere una lingua tagliente a volte, ma vorrei che tu sapessi che ti sono molto grata per avermi salvato le chiappe. Grazie mille!}
-{133}{}{Tu prego.}
-{134}{}{Prego.}
-
+{133}{}{Nulla.}
+{134}{}{Di nulla.}
 {135}{}{La gente dello Squat sta proteggendo questi tizi aiutandoli a tenere segreto il vault, ma non sanno quel che sta davvero succedendo. Darion ci disse che stava riparando il vault per fornirci un posto sicuro dove vivere con molto cibo e acqua; ma e' solo una bugia. Io sono stata li' dentro e ho dato un'occhiata in giro. Il vault e' morto, e i macchinari per l'acqua e il cibo non funzionano. Il cibo e l'acqua provengono dai resti delle razzie contro le carovane.}
 {136}{}{Ascolta, devo tornare a casa e dire a tutti quello che sta davvero succedendo qui. Non possiamo aiutare questi mostri. Mi porterai a casa?}

@@ -1,24 +1,23 @@
-# Dialog Editor last position: 1
 {100}{}{Egy még fiatalnak mondható, kopaszodó tudóssal hozott össze a sors. Eléggé belemerült a munkájába.}
-{101}{}{Õ Crocket, a Hubologista tudós.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{Õ egy fiatalnak mondható, kopaszodó kutató. Tipikus toprongyos tudósfej.}
 {103}{}{Igen? Mit akar?}
 {104}{}{Ah. Öm. Dör.}
 {105}{}{Dr. Jing küldött. Egy megerõsített erõpáncélt szeretne.}
 {106}{}{Meg tud tuningolni egy erõpáncélt?}
-{107}{}{Maga ki a csoda?}
-{108}{}{Mit csinál itt?}
-{109}{}{Semmit, köszönöm.}
+{107}{}{Ki vagy te?}
+{108}{}{Mi a munkád?}
+{109}{}{Semmit, kösz.}
 {110}{}{A mindenit! Napról-napra egyre több elõembert lát az ember! El innen! El innen!}
 {111}{}{Aú.}
 {112}{}{Igen, csinálok ilyesmit. De mégis mit akar adni érte cserébe?}
 {113}{}{Dr. Jing valószínûleg hajlandó lesz üzemanyagot adni az ûrhajóhoz.}
 {114}{}{Megfizetem.}
 {115}{}{Életben hagyom.}
-{116}{}{Semmit. Felejtse el inkább!}
-{117}{}{Crocket vagyok. Tudós és ezermester. Visszatérhetek a dolgomhoz?}
+{116}{}{Semmi. Hagyjuk!}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{Nem. Kérdéseket akarok feltenni.}
-{119}{}{Persze, hogyne.}
+{119}{}{Aha, persze.}
 {120}{}{Új technológiák fejlesztésén dolgozom és azon vagyok, hogy néha leessen ez-az a kultistáktól, ha érti, mire gondolok.}
 {121}{}{Szóval maga nem Hubologista?}
 {122}{}{Fogom. Volna viszont még néhány kérdésem.}
@@ -27,11 +26,11 @@
 {125}{}{Határozott beszéd. Viszlát!}
 {126}{}{Hát... *Szerintem*... ez megteszi. Megegyeztünk. Magánál van a megerõsítendõ páncél?}
 {127}{}{Igen.}
-{128}{}{Nincs.}
+{128}{}{Nem.}
 {129}{}{Nagyszerû! Tízezer dollárt kérek érte, alku nincs. Új eszközöket kell beszereznem.}
 {130}{}{Tízezer dollár? Ez égbekiáltó! Nincs nálam ekkora összeg!}
 {131}{}{Rendben. Itt van a pénz.}
-{132}{}{Késõbb visszajövök még.}
+{132}{}{Késõbb visszajövök.}
 {133}{}{::Jót derül ezen:: Meg akar érte fenyegetni?}
 {134}{}{Igen. Csinálja, különben meghal!}
 {135}{}{Nem, csak poénkodtam.}
@@ -46,10 +45,10 @@
 {144}{}{Akarom. Itt az összeg.}
 {145}{}{Ez rablás! Szó sem lehet róla!}
 {146}{}{::Miután a szemedbe nézett, rájön, hogy komolyan gondolod:: Itt van magánál a páncél?}
-{147}{}{Itt van.}
-{148}{}{Nincs nálam.}
+{147}{}{Igen.}
+{148}{}{Nem.}
 {149}{}{::Miután a szemedbe nézett, rájön, hogy csak blöffölsz:: Próbálkozz csak, tökmag! Az õrök mindjárt elhúzzák a nótádat, és sosem tudod meg, hogy kell megerõsíteni a páncélodat.}
-{150}{}{Remek. Most meghalsz, nyamvadék!}
+{150}{}{Fine. Die, pencil-neck.}
 {151}{}{Francba! Maga aztán szépen kihozott a sodromból!}
 {152}{}{Maga blöfföl! Majd mindjárt megnézzük, mit szólnak ehhez az õrök.}
 {153}{}{Fenébe!}
@@ -57,19 +56,19 @@
 {155}{}{Még fel akartam tenni néhány kérést.}
 {156}{}{Ez egyáltalán nem rossz. Viszlát!}
 {157}{}{Hát lássuk csak... építtettem egy nukleáris reaktort az ûrhajó számára. Kifejlesztettem az egyedülállónak számító erõpáncél-megerõsítõ eljárást. Ezenkívül én javítom az elromlott berendezéseket.}
-{158}{}{Értem. Akkor még kérdeznék egy s mást.}
+{158}{}{Értem. Nos, még kérdeznék, ha nem gond.}
 {159}{}{Hmm. Mennem kell. Üdv!}
 {160}{}{Hé, nincs énnekem semmi bajom veled. Csak ne bánts, kérlek!}
 {161}{}{Feltennék néhány kérdést.}
 {162}{}{A páncélomért jöttem.}
 {163}{}{Túl késõ.}
-{164}{}{Üdv!}
+{164}{}{Viszlát!}
 {165}{}{Egyelõre nem készült el. Még kell egy kis idõ!}
 {166}{}{Remek. Még kérdeznék, ha nem gond.}
 {167}{}{Remek. Késõbb visszajövök.}
 {168}{}{Elkészült. Itt van, tessék!}
 {169}{}{Köszönöm. Viszont volna néhány kérdésem.}
-{170}{}{Köszönöm.}
+{170}{}{Köszi.}
 {171}{}{Köszönöm. Most már akár meg is halhat!}
 {172}{}{Kifogytam a szükséges vegyianyagokból. Sajnálom.}
 {173}{}{Akkor megválaszolhatná néhány kérdésemet.}

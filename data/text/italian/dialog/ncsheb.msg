@@ -1,7 +1,5 @@
-{100}{}{Vedi…Sheb.}
-
+{100}{}{You see... Sheb.}
 {150}{}{Vedi un uomo magro che indossa degli abiti azzurri. Come se i suoi vestiti non fossero gia' abbastanza appariscenti, si sta pure spremendo i polmoni a furia di urlare.}
-
 {200}{}{Passere, passere, pas-se-re!}
 {201}{}{Venite, amanti delle belle passere!}
 {202}{}{Qui al Cat's Paw vi facciamo uno sconto del 50%!}
@@ -15,4 +13,4 @@
 {210}{}{Attenzione, compratori di passere! Approfittate di questa vendita di passere!}
 {211}{}{Comprate una delle nostre passere al prezzo normale, e ne avrete un'altra di pari o minor valore per solo un dollaro!}
 {212}{}{Provate una delle nostre belle passere per la modica cifra di un dollaro!}
-{213}{}{Se riuscite a trovare un posto con delle passere piu' a buon mercato...APPROFITTATENE!} ###???PUMP IT
+{213}{}{Se riuscite a trovare un posto con delle passere piu' a buon mercato...APPROFITTATENE!}

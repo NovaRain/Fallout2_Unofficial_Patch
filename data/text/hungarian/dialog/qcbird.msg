@@ -1,4 +1,3 @@
-# Dialog Editor last position: 65
 {100}{}{Egy kicsi, ideges embert látsz.}
 {101}{}{Bird alelnök.}
 {102}{}{Egy kicsi, ideges embert látsz, kajafoltos ruhában.}
@@ -11,7 +10,7 @@
 {109}{}{Csak azért jöttem, hogy duplán ellenõrizzem a titkos terveinket.}
 {110}{}{Azért vagyok itt, hogy megöljem.}
 {111}{}{Menjen csak a dolgára katona, menjen csak! Ön és a mi legényeink nagyszerû munkát végeznek! Felkészültünk minden véletlen eseményre, akár bekövetkezik, akár nem.}
-{112}{}{Hogy mondja?}
+{112}{}{Nahát...}
 {113}{}{Öhm, igen. Nos, megyek, jobb, ha befejezem az õrjáratot.}
 {114}{}{Öhm, mondja csak, hogy betûzzük a "krumpli"-t? Q-val, vagy anélkül?}
 {115}{}{Öhm, mondja csak, hogy betûzzük a "finom"-at? O-val vagy anélkül?}
@@ -21,10 +20,10 @@
 {119}{}{Ööö, azzal.}
 {120}{}{Nélküle, természetesen.}
 {121}{}{Persze, persze. Az Egyesült Államok bármely hûséges polgára is ezt tenné.}
-{122}{}{Miért van ez?}
+{122}{}{Hogyhogy?}
 {123}{}{Dolgom van. Most pedig viszlát!}
 {124}{}{Menjen csak a dolgára, katona! Holnap már egy szebb jövõt írunk.}
-{125}{}{Hogy érti ezt?}
+{125}{}{Merthogy?}
 {126}{}{Kiirtok minden fontoskodó naplopót az Enklávéból, és maga a következõ.}
 {127}{}{Öhm, igen. Mindenesetre, viszlát!}
 {128}{}{Együtt kell dolgoznunk, mert ha nem érjük el a célunkat, növeljük a bukás kockázatát.}
@@ -38,18 +37,17 @@
 {136}{}{Ez nem három szó véletlenül? A felkészültség egy szó, nem arra gondolt?}
 {137}{}{Talán az a legjobb. Jegyezze meg, a bõbeszédûség homályos, zavaros dolgokhoz vezet.}
 {138}{}{Képzelem.}
-#Feltehetoleg (bass)
 {139}{}{Most el kell mennem, viszlát!}
 {140}{}{Úgy értem, mi nem egyszerûen holnapot akarunk, hanem elõre óhajtunk haladni.}
 {141}{}{Nem a holnap az egyetlen út?}
 {142}{}{Nem lehet elég elõvigyázatos. Nagyon régimódi emberek kerülhetnek nagyon érzékeny pozíciókba, ahonnan hatalmas befolyásuk lehet a történelemre.}
 {143}{}{Igen, ezt értem.}
 {144}{}{Milyen befolyást akar gyakorolni a történelemre?}
-{145}{}{Hm, szeretem azt az irányt. Jó döntéseket hoztam a múltban, jókat hoztam a jövõre nézve. Szóval, menjünk abba az irányba!}
-{146}{}{Öhm, igen.}
+{145}{}{Yes, I like that direction. I have made good judgments in the past. I have made good judgments in the future. So, by all means, let's go in that direction.}
+{146}{}{Öö, igen.}
 {147}{}{Úgy érzem, hogy az út megfordíthatatlanul visz egyenesen a szabadság és a demokrácia õrülete felé, de ez még változhat.}
 {148}{}{A változatosság kedvéért a Pusztaság szennyezett környezetének hasznára válhatna egy kis szabadság.}
-{149}{}{Ez engem nem érdekel, csak dögöljön meg ott, ahol van!}
+{149}{}{I can't take it anymore. You've just got to be killed.}
 {150}{}{Ne legyen buta! Nem a szennyezés árt a környezetnek, hanem a vizünkben és a levegõnkben lévõ tisztátalanság!}
 {151}{}{Na, most már tényleg mennem kell!}
 {152}{}{Nem volna olyan nagylegény, ha most a szárazföldön lenne!}
@@ -87,13 +85,13 @@
 {184}{}{P-A-R-A-D-I-C-S-O-M-Q}
 {185}{}{P-A-R-A-D-I-C-S-O-M}
 {186}{}{Hová lett a nyolc liter eperfagyim?}
-{187}{}{A Caine az én hajóm. Az enyém, hallja, amit mondok?}
+{187}{}{The Caine is my ship. Mine, do you hear me?}
 {188}{}{Maguk mindannyian ellenem vannak, ugye? UGYE?!}
 {189}{}{Sosem fognak elkapni!}
 {190}{}{Csinos, csinos.}
 {191}{}{Szép.}
 {192}{}{Ne, anyu, nem én tettem!!! Ne üss meg még egyszer, légyszi!}
-{193}{}{Anyu! Hol vagy, anyu?}
+{193}{}{Mother! Where are you Mother?}
 {194}{}{Nem akarok beteg lenni, kivételesen.}
 {195}{}{Tûûû! NEEEE! Csak tûûûûût ne!}
 {196}{}{Ne, ne, ne! Neeee!}

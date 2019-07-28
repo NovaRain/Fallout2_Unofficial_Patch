@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ nem más, mint Louis Salvatore.}
 {150}{}{Egy idõs, jól öltözött úriemberhez van szerencséd. Oxigénpalackot visel, és bizony nehezére esik a lélegzés.}
 {151}{}{Õ Louis Salvatore. Oxigénpalackot visel, és bizony nehezére esik a lélegzés.}
@@ -10,8 +9,6 @@
 {216}{}{Aúúúú! Kapcsolni ki! Fülek fáj! FÜLEK FÁJ!}
 {217}{}{NEM TUD BESZÉLNI NAGY ZAJBA. KAPCSOL KI OSZT BESZÉL!}
 {218}{}{Ki fogom magából vonni a zoxigént, papa! Többet az életben nem lesz gondja a lélegzéssel!}
-#egy kis szalacsi feeling (Bass)
-
 {219}{}{Tudtam, hogy elõbb engedélyt kellett volna kérnem...}
 {220}{}{Picsába!}
 {221}{}{Öö, ugye ezzel csak a szobapincért hívta.}
@@ -19,10 +16,10 @@
 {231}{}{Én akar... én nem tud mit akar}
 {232}{}{Én akar}
 {233}{}{Én }
-{234}{}{Elpályázol}
+{234}{}{[Wander off.]}
 {235}{}{Információt hoztam magának.}
 {236}{}{Információt hoztam magának, Mr. Salvatore.}
-{237}{}{Megbízatás ügyében jöttem.}
+{237}{}{Munkát keresek.}
 {238}{}{Mr. Salvatore, magát az erély és korrektség emberének ismeri mindenki. Szeretnék magának dolgozni.}
 {239}{}{Azt akartam tudni, honnan szerzik a fényhozókat.}
 {240}{}{Azt rebesgetik, hogy maguk mérgezték meg Mr. Wright gyerekét. Kérdem én: miért?}
@@ -117,7 +114,7 @@
 {545}{}{(Miközben átnyújtod a pénzt, Salvatore bólogat.) Ez... jó munka volt. Tied lehet a 25 százaléka.}
 {546}{}{(Miközben átnyújtod a pénzt, Salvatore bólogat.) Ez... tûrhetõ munka volt. Tied lehet a 10 százaléka.}
 {555}{}{(Beleszippant a maszkba.) Megcsináltad... amit kértem. Mostantól nincs szükségem a... szolgálataidra. (A kijárat felé mutat.) Távozhatsz!}
-{556}{}{Öö... oké.}
+{556}{}{Öhm... oké.}
 {557}{}{Mielõtt elmennék, fizetségképpen kaphatnék egy lézerpisztolyt?}
 {565}{}{(Beleszippant a maszkba.) Van egy... másik ügy, amiben közre kéne mûködnöd.}
 {566}{}{Miért is ne? Mi volna a feladat? Újabb zsarolás?}
@@ -149,7 +146,7 @@
 {654}{}{...segíts... *levegõért kapkod* ...kérlek...}
 {655}{}{...könyö... könyörülj...}
 {656}{}{*zihál*}
-{657}{}{...Meg f...}
+{657}{}{...Meg fo...}
 {658}{}{...Meg fo...}
 {659}{}{::Leáll a légzése::}
 {660}{}{He-he, szeretek öreg embereket gyilkolni.}
@@ -167,5 +164,5 @@
 {5270}{}{. Szóval akkor... mit is akarsz tõlem?}
 {5290}{}{, add elõ, mit... akarsz tõlem?}
 {5605}{}{. Mindent megtettél... amit kértem. Szeretném, ha közénk állnál. Szeretném, ha a Salvatore család tagja lennél!}
-{5640}{}{.}
-{5645}{}{.}
+{5640}{}{ vagyok.}
+{5645}{}{ vagyok.}

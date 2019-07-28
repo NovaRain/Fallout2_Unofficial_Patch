@@ -1,5 +1,4 @@
-# Dialog Editor last position: 1
-{100}{}{Ez itt egy õr.}
+{100}{}{Egy õrt látsz.}
 {150}{}{Ez itt egy unatkozó õr. Nagyon úgy néz ki, hogy most bárhol szívesebben lenne, mint itt.}
 {151}{}{Ez itt Myron egyik unatkozó õre.}
 {152}{}{Ez itt Myron egyik unatkozó õre. Nagyon úgy néz ki, hogy most bárhol szívesebben lenne, mint itt.}
@@ -13,9 +12,7 @@
 {217}{}{Nehogy bajba kerülj, Myron, oké?}
 {218}{}{Ne menj túl messzire, Myron!}
 {225}{}{Hé, }
-{5225}{}{! Mi a helyzet?}
 {230}{}{Itt egy }
-{5230}{}{! Nyírjuk ki!}
 {235}{}{Néhány cojone idetolta a képét. Ajánlom, hogy küldd el õket!}
 {236}{}{Úgy nézel ki, mint egy }
 {240}{}{Jobb lenne, ha visszahúznál a }
@@ -60,12 +57,12 @@
 {351}{}{ÉN AKAR VILÁGBÉKE ÉN AKAR VILÁGBÉKE}
 {352}{}{ÉN MONDOK MEGY ÁT AJTÓ}
 {353}{}{KIIII VAGYOL TE?}
-{354}{}{Elpályázol}
+{354}{}{[Shamble off]}
 {360}{}{(Készenlétbe helyezi a fegyverét.) Ezt élvezni fogom. Legalább egy órája nem vertem el egyetlen rabszolgát sem...}
 {361}{}{(Készenlétbe helyezi a fegyverét.) Ezt élvezni fogom. Legalább két napja nem öltem meg senkit...}
 {362}{}{TE VAGYOL AKI DÖGÖL MEG}
 {363}{}{ SZÉTÜT}
-{364}{}{Megpróbálod és futsz.}
+{364}{}{[Try and run.]}
 {365}{}{Haver, egy életen át szívni fogsz.}
 {370}{}{(Rádbámul.) Bocs, de ezt tudni alapvetõ dolog. Most pedig húzás... amigo.}
 {371}{}{(Rádbámul.) Bocs, de ezt tudni alapvetõ dolog. Most pedig húzás... chica.}
@@ -82,7 +79,7 @@
 {411}{}{Én sem...}
 {412}{}{Védd magad!}
 {425}{}{Igen? Lássuk... Hmmmm. (Megnézi a jelvényt és vállat von.) Rendben van, de ne húzd az idõt! Myron elfoglalt ember, és nem szereti, ha zavarják.}
-{426}{}{Vettem.}
+{426}{}{Értem.}
 {435}{}{(A szemét végigfuttatja rajtad.) Menj csak... hehe... késõbb persze rám is szakíthatnál idõt. Ha bent végeztél.}
 {436}{}{Hát... majd észben tartom. Akkor mehetek?}
 {437}{}{Meglátjuk, jó?}
@@ -95,13 +92,18 @@
 {465}{}{Ó, elnézést. Összetévesztettelek valakivel. Mit is akarsz, chica?}
 {466}{}{Mi van amögött az ajtó mögött?}
 {475}{}{Myron vár téged?}
-{5476}{}{! Amögött az ajtó mögött Myron dolgozik. Aszondod, hogy vár téged?}
 {477}{}{Igen. Bemehetek? Megbeszélendõ üzleti ügyünk van.}
 {478}{}{Nem, most nem. Vigyázzatok magatokra, srácok!}
+{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
+{480}{}{Heh, I sure do. Try not to make too much of a ruckus while you're here. (To himself) Damn, Myron's such a lucky
+ man.)}
 {485}{}{Myron nincs bent.}
-{5486}{}{, mi a dörgés? Amúgy... Myron nincs odabenn!}
 {487}{}{Bemehetek azért?}
 {495}{}{(Megvonja a vállát.) Engem nem érdekel. Ha várni akarsz rá, akkor várj. Fogalmam sincs, mikor jön vissza... ha egyáltalán visszajön.}
+{5225}{}{! Mi a helyzet?}
+{5230}{}{! Nyírjuk ki!}
 {5236}{}{ az ember, aki nem tudja, mikor fog meghalni.}
 {5240}{}{ falkába, puta?}
 {5241}{}{ a szajha, aki nem tudja, mikor fog meghalni.}
+{5476}{}{! Amögött az ajtó mögött Myron dolgozik. Aszondod, hogy vár téged?}
+{5486}{}{, mi a dörgés? Amúgy... Myron nincs odabenn!}

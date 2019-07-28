@@ -15,8 +15,8 @@
 {114}{}{Si'? Ha bisogno di qualcos'altro?}
 {115}{}{San-tah Klass?}
 {116}{}{-Allontanati-}
-{117}{}{Posso farle qualche domanda?}
-{118}{}{Chi e' lei?}
+{117}{}{Posso farti qualche domanda?}
+{118}{}{Chi sei?}
 {119}{}{Stavo solo dando un'occhiata in giro, grazie. Buona giornata.}
 {120}{}{Come hai fatto ad entrare in citta'? Guardie! C'e' qui un Esterno che dev'essere scortato al cancello!}
 {121}{}{Me va no ME VA NO}
@@ -28,7 +28,7 @@
 {127}{}{Sto cercando un Kit di Creazione del Giardino dell'Eden.}
 {128}{}{Che cosa puo' dirmi a proposito del Primo Cittadino?}
 {129}{}{Vorrei farle qualche domanda riguardante Gecko.}
-{130}{}{Che cosa puo' dirmi di Redding?}
+{130}{}{Cosa puo' dirmi a proposito di Redding?}
 {131}{}{Devo parlarle di Redding.}
 {132}{}{Come si fa a diventare Cittadini?}
 {133}{}{Credo che voi siate in possesso di un dispositivo che potrebbe essere usato per riparare la centrale di Gecko.}
@@ -36,14 +36,14 @@
 {135}{}{Ho questo disco contenente dati economici che credo le potrebbero interessare.}
 {136}{}{Ho scoperto un modo per ottimizzare il reattore di Gecko.}
 {137}{}{Ecco il disco del reattore di Gecko. Potete ottimizzare i dati che contiene?}
-{138}{}{Al momento nulla, grazie.}
+{138}{}{Per oggi niente, grazie.}
 {139}{}{Sono il Senatore McClure. E lei sarebbe...?}
-{140}{}{Non sono affari suoi.}
+{140}{}{Non sono affari tuoi.}
 {141}{}{. Piacere di conoscerla.}
 {142}{}{Devo proprio scappare. Le presentazioni potremo farle la prossima volta.}
 {143}{}{Mi aspetterei una simile maleducazione da un Esterno, non da un Cittadino. Io sono un membro del Consiglio di Vault City, e lei mi mostrera' il dovuto rispetto, o le faro' revocare la Cittadinanza. Mi ha capito?}
 {144}{}{Fottiti, vecchio.}
-{145}{}{Vabbe'. Tanto avevo gia' deciso di interrompere la conversazione.}
+{145}{}{Vabbe'. Tanto mi ero gia' bell'e che stufato di parlare con te.}
 {146}{}{Mi scusi. Non intendevo mancarle di rispetto.}
 {147}{}{Beh, questo e' proprio il tipo di maleducazione che mi aspetterei da un Esterno! Consegnami subito il tuo Pass Giornaliero e segui le guardie. Nella nostra citta' non c'e' posto per quelli come te.}
 {148}{}{Non ti daro' un bel niente. Lo vuoi? Vienitelo a prendere.}
@@ -61,63 +61,63 @@
 {160}{}{I tuoi poteri sono deboli, vecchio. Non puoi sconfiggermi.}
 {161}{}{Questo e' troppo! Cittadino o no, adesso te ne andrai da qui. Guardie, mostrate a questo degenerato la strada per il cancello!}
 {162}{}{Me ne vado. Ad ogni modo, questo posto fa schifo.}
-{163}{}{Non vado da nessuna parte.}
-{164}{}{Cosa posso fare per lei?}
+{163}{}{Non sto andando da nessuna parte.}
+{164}{}{Cosa posso fare per te?}
 {165}{}{Non saprei, vecchio. Tu cosa PUOI fare per me?}
 {166}{}{Sto cercando un Kit di Creazione del Giardino dell'Eden.}
-{167}{}{Posso farle qualche domanda?}
+{167}{}{Posso farti qualche domanda?}
 {168}{}{Niente, grazie. Stavo solo visitando il palazzo del Consiglio.}
 {169}{}{Un GECK? Per quel che ne so io, ne avevamo soltanto uno. Ho letto che funziono' per molto tempo, ma si ruppe diversi anni prima che io nascessi. In teoria avremmo dovuto avere due GECK...}
 {170}{}{In teoria?}
 {171}{}{...ma sembra che il vecchio governo abbia fatto un po' di confusione durante la spedizione e noi ricevemmo un carico di altri componenti destinati ad un altro Vault, il numero... tredici, mi pare. Probabilmente e' li' che e' finito l'altro nostro GECK.}
 {172}{}{Cosa c'era nel carico destinato in origine al Vault 13?}
 {173}{}{Che ne e' stato del GECK che si e' rotto?}
-{174}{}{Posso farle qualche altra domanda?}
-{175}{}{Capisco. Grazie delle informazioni.}
+{174}{}{Posso farti un'altra domanda?}
+{175}{}{Capisco. Grazie dell'informazione.}
 {176}{}{Water-Chip, un centinaio circa. Non so perche' ne abbiano spediti cosi' tanti... non abbiamo mai avuto bisogno di sostituire il nostro. Abbiamo usato lo stesso water-chip sin dal primo giorno in cui la nostra gente ha occupato il Vault.}
 {177}{}{Che ne e' stato del GECK che si e' rotto?}
-{178}{}{Posso farle qualche altra domanda?}
-{179}{}{Interessante. Grazie delle informazioni.}
+{178}{}{Posso farti un'altra domanda?}
+{179}{}{Interessante. Grazie.}
 {180}{}{L'ironia della sorte e' come un rasoio affilato. Magari potremo parlare ancora quando avro' smesso di sanguinare.}
 {181}{}{E' stato smontato e le sue parti usate per altri scopi.}
 {182}{}{Cosa c'era nel carico destinato in origine al Vault 13?}
-{183}{}{Posso farle un'altra domanda?}
+{183}{}{Posso farti un'altra domanda?}
 {184}{}{Capisco. Grazie delle informazioni.}
 {185}{}{E' la leader della nostra comunita'. I Cittadini di Vault City affidano a lei la guida della citta', ma i Cittadini stessi, attraverso il Consiglio, hanno comunque l'ultima parola. In questi tempi cosi' difficili, il Primo Cittadino e' una delle colonne portanti della nostra societa'.}
 {186}{}{"Tempi difficili"? Che cosa intende dire?}
 {187}{}{Lei di cosa si occupa?}
-{188}{}{Posso farle un'altra domanda?}
-{189}{}{Grazie per aver parlato con me. Arrivederci.}
+{188}{}{Posso farti un'altra domanda?}
+{189}{}{Grazie delle risposte. Arrivederci.}
 {190}{}{Gecko? Che cosa vuole sapere?}
 {191}{}{Dove si trova Gecko?}
 {192}{}{Cos'e' Gecko?}
-{193}{}{Posso farle un'altra domanda?}
-{194}{}{Grazie per aver parlato con me. Arrivederci.}
+{193}{}{Posso farti un'altra domanda?}
+{194}{}{Grazie delle risposte. Arrivederci.}
 {195}{}{Non c'e' molto da dire, a parte il fatto che le spedizioni di minerali verso la nostra citta' si sono fatte molto rare.}
 {196}{}{Avete qualche idea del perche'?}
-{197}{}{Dove si trova Redding?}
-{198}{}{Posso farle un'altra domanda?}
-{199}{}{Grazie per aver parlato con me. Arrivederci.}
+{197}{}{Dov'e' Redding?}
+{198}{}{Posso farti un'altra domanda?}
+{199}{}{Grazie delle risposte. Arrivederci.}
 {200}{}{Io sono il Senatore del Consiglio. Soprintendo alle riunioni del Consiglio.}
 {201}{}{E allora quali sono i compiti del Primo Cittadino?}
-{202}{}{Posso farle un'altra domanda?}
+{202}{}{Posso farti un'altra domanda?}
 {203}{}{Grazie per aver parlato con me. Arrivederci.}
 {204}{}{Beh, spero capira' che la Cittadinanza non e' cosa per tutti. Lei mi sembra piu' che altro un avventuriero... non credo proprio che la Cittadinanza sia una cosa adatta a lei.}
 {205}{}{Uffa, eddai... mi dica solo cosa devo fare per diventare un Cittadino.}
 {206}{}{Mi piacerebbe comunque diventare un Cittadino.}
-{207}{}{Posso farle un'altra domanda?}
-{208}{}{Come non detto, allora.}
+{207}{}{Posso farti un'altra domanda?}
+{208}{}{Lasciamo perdere, allora.}
 {209}{}{Le piacerebbe diventare un Cittadino? Beh, saremmo davvero felici di accoglierla tra noi. Tutto quello che deve fare e' parlare con il proconsole Gregory, il quale la sottoporra' al test di Cittadinanza.}
 {210}{}{Dove posso trovare il Proconsole?}
-{211}{}{Posso farle un'altra domanda?}
+{211}{}{Posso farti un'altra domanda?}
 {212}{}{Grazie. Andro' subito da lui. Arrivederci.}
 {213}{}{Molto bene. Tutto quello che deve fare e' parlare con il proconsole Gregory, il quale la sottoporra' al test di Cittadinanza.}
 {214}{}{Dove posso trovare il Proconsole?}
-{215}{}{Posso farle un'altra domanda?}
+{215}{}{Posso farti un'altra domanda?}
 {216}{}{Grazie. Andro' subito a parlare con il Proconsole.}
 {217}{}{Lo puo' trovare nell'Ala Est. Il suo ufficio e' vicino a quello del Primo Cittadino.}
-{218}{}{Posso farle un'altra domanda?}
-{219}{}{Grazie per aver parlato con me. Arrivederci.}
+{218}{}{Posso farti un'altra domanda?}
+{219}{}{Grazie delle risposte. Arrivederci.}
 {220}{}{La vita si e' fatta dura, in questi ultimi due anni. Il governo di NCR si e' fatto piu' aggressivo che mai nei suoi tentativi di annettere Vault City alla Repubblica.}
 {221}{}{Ci mandano a dire che se ci unissimo a loro ci difenderebbero dagli assalti effettuati dai predoni contro la nostra citta'. E ultimamente questi assalti si sono fatti piu' violenti. }
 {222}{}{E, come se non bastasse, i ghoul di Gecko contaminano le nostre falde acquifere.}
@@ -127,22 +127,22 @@
 {226}{}{Mi dispiace. La ringrazio per avermi dedicato un po' del suo tempo. Arrivederci.}
 {227}{}{Si trova a poche ore di distanza da qui, in direzione nordovest. Se ha intenzione di recarsi laggiu', pero', le consiglio di acquistare dei farmaci anti-radiazione. Dal momento che stanno contaminando la nostra acqua, e' probabile che anche il resto del loro insediamento sia contaminato.}
 {228}{}{Cos'e' Gecko?}
-{229}{}{Posso farle un'altra domanda?}
+{229}{}{Posso farti un'altra domanda?}
 {230}{}{Grazie dell'avvertimento. Arrivederci.}
 {231}{}{E' un posto dimenticato da Dio, una bidonville costruita attorno ai resti di una vecchia centrale atomica.}
 {232}{}{Dove si trova Gecko?}
-{233}{}{Posso farle un'altra domanda?}
-{234}{}{La ringrazio per avermi dedicato un po' del suo tempo. Arrivederci.}
+{233}{}{Posso farti un'altra domanda?}
+{234}{}{Grazie delle risposte. Arrivederci.}
 {235}{}{No. Non riesco proprio a capire. Saremmo disposti a pagare molti soldi per avere i loro minerali, ma, ogni volta che cerchiamo di parlare con loro a questo proposito, ci danno risposte ambigue. Se solo sapessi cosa sta succedendo...}
 {236}{}{Potrei andare io a dare un'occhiata.}
 {237}{}{Dov'e' Redding?}
-{238}{}{La ringrazio per avermi dedicato un po' del suo tempo. Arrivederci.}
+{238}{}{Grazie delle risposte. Arrivederci.}
 {239}{}{Lo fara'? La mia posizione non mi permette di pagarla, ma il suo aiuto sarebbe molto apprezzato.}
 {240}{}{Dov'e' Redding?}
 {241}{}{Nessun problema. Andro' a controllare e tornero' quando avro' scoperto cosa c'e' che non va.}
 {242}{}{Redding si trova a una settimana circa di cammino verso ovest. Non ci sono mai stato. Non sono mai uscito da Vault City, se e' per quello. A quanto ne so, Redding dovrebbe essere una delle citta' piu' belle delle Lande.}
 {243}{}{Ha qualche idea del perche' le spedizioni si siano interrotte?}
-{244}{}{Capisco. Grazie delle informazioni.}
+{244}{}{Capisco. Grazie dell'informazione.}
 {245}{}{Cosa? Qualsiasi cosa sara' in grado di dirmi le assicuro che mi sara' di grande aiuto.}
 {246}{}{Cosa puo' dirmi a proposito di Redding?}
 {247}{}{Ho scoperto che gran parte della popolazione di Redding e' dipendente da una droga chiamata Jet. I minatori vendono quasi tutto l'oro estratto a New Reno solo per non rimanerne senza.}
@@ -153,13 +153,13 @@
 {252}{}{E' una droga con la capacita' di creare dipendenza nel 100% delle persone che ne fanno uso. Quando gli effetti della droga spariscono, chi l'ha assunta e' soggetto a gravi crisi d'astinenza.}
 {253}{}{La prego di tenermi informato.}
 {254}{}{Posso farle qualche altra domanda?}
-{255}{}{Certamente.}
+{255}{}{Bene.}
 {256}{}{Questa e' una pessima notizia. Dobbiamo trovare un modo per mettere fine a questa situazione. Se continua cosi', le nostre scorte d'oro si esauriranno in poco tempo. La prego, ci aiuti.}
 {257}{}{Vedro' di fare il possibile.}
 {258}{}{Davvero? E allora cosa ci fa ancora qui? Lo porti subito al Dottor Johnson di Redding! Lui dovrebbe essere in grado di trovare un modo di somministrarlo ai minatori.}
 {259}{}{Lo so, me l'ha gia' detto. La prego, lo porti subito a Redding e veda se puo' aiutare gli abitanti.}
 {260}{}{Prima di andare, posso farle qualche domanda?}
-{261}{}{Okay, arrivederci.}
+{261}{}{Okay, addio.}
 {262}{}{Grazie! Adesso tutto quello che possiamo fare e' aspettare. Se tutto va per il verso giusto, questo dovrebbe risolvere il problema. Grazie ancora per tutto l'aiuto che ci ha dato.}
 {263}{}{Non c'e' di che. E' stato un piacere per me.}
 {264}{}{Nessun problema. Posso farle qualche altra domanda?}
@@ -167,7 +167,7 @@
 {266}{}{Se sono i soldi che vuole, soldi avra'. Ecco 500$ per il disturbo. Adesso puo' andare. Buona Giornata.}
 {267}{}{Grazie MILLE.}
 {268}{}{Cinquecen --? Farai meglio a sputarne qualcuno in piu' e in fretta, o la tua vita non varra' nemmeno 2$ bucati.}
-{269}{}{Che cosa intende dire?}
+{269}{}{Che cosa vuoi dire?}
 {270}{}{Se io avessi un regolatore idroelettrico di magnetosfera, potrei riparare la loro centrale e bloccare la perdita.}
 {271}{}{Oh, nulla. Scusi il disturbo.}
 {272}{}{La proposta e' accettabile. Tutto quel che m'interessa e' bloccare la perdita di radiazioni.}
@@ -195,9 +195,9 @@
 {294}{}{Ecco, ci dia un'occhiata.}
 {295}{}{E' un disco che mostra la quantita' di energia prodotta dalla centrale atomica di Gecko prima della guerra... una quantita' che potrebbe essere prodotta anche ora.}
 {296}{}{Come non detto. Avrei delle altre domande.}
-{297}{}{Niente. Scusi il disturbo.}
+{297}{}{Niente. Scusa se ti ho disturbata.}
 {298}{}{Molto bene. Mi dia solo un attimo...}
-{299}{}{D'accordo.}
+{299}{}{Okay.}
 {300}{}{Hmmm. Come fa lei ad avere questo disco?}
 {301}{}{L'ho... trovato.}
 {302}{}{L'ho trovato mentre stavo eseguendo delle ricerche negli archivi della libreria di Vault City.}
@@ -225,12 +225,12 @@
 {324}{}{La ringrazio molto.}
 {325}{}{Hmmm. Beh, non posso permetterle di entrare nel Vault, ma potrei ottimizzare il disco per lei.}
 {326}{}{D'accordo. Ma al momento non ce l'ho. Tornero' quando ce l'avro'.}
-{327}{}{Sarebbe molto gentile da parte sua.}
+{327}{}{Sarebbe splendido.}
 {328}{}{Splendido!}
-{329}{}{D'accordo.}
+{329}{}{Okay.}
 {330}{}{Mi lasci il disco del reattore e io usero' il computer centrale del Vault per ottimizzarlo.}
 {331}{}{Ottimo, grazie.}
-{332}{}{Cosa c'e'?}
+{332}{}{Cosa?}
 {333}{}{Ho un disco contenente dati relativi al reattore di Gecko. Secondo il... il... uh, perito della centrale, il computer di Vault City dovrebbe essere in grado di ottimizzare i dati presenti sul disco in modo tale da far funzionare meglio la centrale.}
 {334}{}{Guardie! Guardie!}
 {335}{}{}

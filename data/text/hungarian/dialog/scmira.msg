@@ -1,5 +1,5 @@
 {100}{}{Nem nehéz megállapítani, hogy a zöld haja és a haragos tekintete ellenére is õ a bár tulajdonosa.}
-{101}{}{Õ Mira. Nevéhez fûzõdik a híres Rad-A-Waster nevû lötty.}
+{101}{}{That's Mira. She mixes a mean Rad-A-Waster.}
 {102}{}{Ez a nõ fiatal és vonzó, de látszik a szemén, hogy nem egy ijedõs fajta. Ez, és a nyakába akasztott szöges bokszer jó bizonyíték erre.}
 {103}{}{Mirának hívnak. Mit szeretnél, idegen?}
 {104}{}{Üdv! Mivel szolgálhatok?}
@@ -7,13 +7,13 @@
 {106}{}{13-as Menedék?}
 {107}{}{ÉLET?}
 {108}{}{Tök mindegy. Adj a ház specialitásából!}
-{109}{}{Sört!}
+{109}{}{Gimme a beer.}
 {110}{}{Információ kell!}
 {111}{}{Munkát keresek.}
 {112}{}{Nézzenek oda, ki nem jött hozzánk! Pont ilyennek szeretem õket.}
 {113}{}{Újra nálunk?}
 {114}{}{Unka.}
-{115}{}{Az igen! Jól megdolgoztad Lennyt! Lenyûgözõ! Igyál egyet a ház meghívására!}
+{115}{}{Whoa - ya just worked Lenny. Impressive! Have a drink on the house.}
 {116}{}{Amit Lennyvel csináltál... nagyon aljas volt!}
 {117}{}{Jó ég, a beszéd nagymestere. Mit akarnál? Jöhet egy Rad-A-Waster? Csak tíz dolcsi.}
 {118}{}{Igen.}
@@ -25,7 +25,7 @@
 {124}{}{Oké.}
 {125}{}{Tíz dolcsi? Ez túl sok nekem.}
 {126}{}{Hogyne, egy dolcsi lesz.}
-{127}{}{Rendben.}
+{127}{}{Oké.}
 {128}{}{Túl sok ez nekem.}
 {129}{}{Próbálkozz Merknél a hátsó szobában!}
 {130}{}{Nincs itt semmi a számodra, idegen!}
@@ -46,14 +46,12 @@
 {145}{}{Mire mehetek ezzel a Merk nevû fickóval?}
 {146}{}{Van egy zsaru a városban, aki elég durva dolgokat mondogat rólad. Mi ez az egész?}
 {147}{}{Hát, akkor most a távozás mezejére lépnék...}
-#Kis valtoztatas kellett a keszitok sporolasa miatt (bass)
-
 {148}{}{Ez itt az ÚKK. Régen Shady Sands volt, de a Mester legyõzését követõen Aradesh és a társai megalapították az Új Kalifornia Köztársaságot. Most az ÚKK a határváros. Innentõl délre mindent az ÚKK tart felügyelete alatt.}
 {149}{}{Adok egy tanácsot. Ne sok vizet zavarj a városban! A hatóságok nem nagyon vannak oda a mi fajtánkért, ha érted, mire gondolok. A Polgárokat több jog illeti, mint téged.}
 {150}{}{Nézd, ennél többet nem akarok errõl mondani.}
 {151}{}{Hmm.}
 {152}{}{Lenne még néhány kérdésem...}
-{153}{}{Hát, köszönöm. Észben tartom majd.}
+{153}{}{Hát, köszönöm. észben tartom majd.}
 {154}{}{Na, egy újabb gyakomata elveszett kincsek után kutat? Meg kén' keresned Sóshús Bobot a Westin Farmon. Mindig ilyesmikrõl jár a szája. Persze lehet, hogy meg kell egy kicsit nedvesítened a torkát.}
 {155}{}{Sóshús? Menek.}
 {156}{}{Lenne még néhány kérdésem...}
@@ -77,17 +75,15 @@
 {174}{}{Igen.}
 {175}{}{Nem.}
 {176}{}{Figyelj: rossz ember bántja Mirát. Rossz ember neve Jack. Bántsd a rossz embert! Mira szeret téged, ad neked szép fegyvert. Jó?}
-{177}{}{Jó.}
+{177}{}{Igen.}
 {178}{}{Nem.}
 {179}{}{Remek! Mirának van kötele a falon. Menj éjszaka! Találd meg a kötelet! Osonj be! Menj a nagy területre a falon! Találd meg Jacket! Bántsd õt! Mira ad fegyvert!}
 {180}{}{Menj éjszaka! Találd meg a kötelet! Osonj be! Menj a nagy területre a falon! Találd meg Jacket! Bántsd õt! Mira ad fegyvert! Most eredj! Nem láthatnak veled. Nem jó. Segíts Mirának és gyere vissza! Érted?}
 {181}{}{Mira hallotta, hogy Jacknek baja lett. Jó munka, Dumbó. Itt a fegyver, fogd! Kösz.}
 {182}{}{Menjél te a francba! Soha nem lesz nyugtom attól a rohadéktól.}
-#latter additions
 {183}{}{Merkkel kéne beszélned, de most nincs itt. Gyere vissza éjszaka. Akkor szokott itt lenni.}
 {184}{}{Nem tudom, mit csináltál Lennyvel, de én nem lófrálnék itt a helyedben. Ettõl nemigen leszel népszerû.}
 {185}{}{Hé, én figyelmeztettelek! Szépen vagyunk...}
-
 {186}{}{Te vagy Mira, ugye? Egy zsaru mondott ezt-azt rólad.}
 {187}{}{Te Mira? Rossz Jack mongya dolgok.}
 {188}{}{Az a mocsokláda Jack? Mit mondott már megint?}
@@ -97,7 +93,7 @@
 {192}{}{Nem sokat. Megöltem.}
 {193}{}{Te viccelsz? Ez a mai nap legjobb híre! Remélem, jól mutat az agya a falon. Az az átkozott pszichopata megérdemelte! Igyál egy Rad-a-Waster-t az egészségemre!}
 {194}{}{Én teccik.}
-{195}{}{Én mostan menek.}
+{195}{}{Én menni mostan.}
 {196}{}{Azt hiszem, mondhatjuk azt, hogy: Köszönöm. Volna idõd egy-két kérdésre?}
 {197}{}{Köszi. Gondoltam, nem árt, ha tudod.}
 {198}{}{Mit csináltál? Ó, ha nem lennék szolgálatban, átmásznék a pulton és... megcsókolnálak. Az a kis fasz megérdemelte. Az az igazság - ne mondd el senkinek -, de reméltem, hogy jön egy isten barma, aki megcsinálja nekem a feladatot. Van itt egy kis félretett jutalom a számodra. Az összes a tied... minden bizonnyal megérdemled.}

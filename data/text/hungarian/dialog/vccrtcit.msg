@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy menedékvárosi Polgárt látsz.}
 {101}{}{Üdvözöllek, Polgártárs.}
 {102}{}{Csodaszép ez a mai nap, nemdebár?}
@@ -11,7 +10,7 @@
 {109}{}{Tartana egy kis távolságot, kérem?}
 {110}{}{Maradj csak ott!}
 {111}{}{Kérem, menjen odébb!}
-{112}{}{Menj ki innen!}
+{112}{}{Takarodj ki innen!}
 {113}{}{Vigyázz magadra, vagy hívom az õröket.}
-{114}{}{Figyellek ám!}
+{114}{}{Figyellek...}
 {115}{}{Kívülállók, mint te...}

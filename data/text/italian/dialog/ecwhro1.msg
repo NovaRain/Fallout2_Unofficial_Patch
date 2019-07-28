@@ -1,7 +1,7 @@
 {100}{}{Vedi... un modello di eroe bianco.}
-{101}{}{Vedi un uomo bianco muscoloso che indossa il completo del Vault 13. Ride e scherza mentre racconta la sua storia.}
-{102}{}{Vedi un modello di eroe bianco. Sta ridendo e scherzando.}
-{103}{}{Vedi un modello di eroe bianco. Sta ridendo e scherzando.}
+{101}{}{Vedi un uomo bianco molto muscoloso che indossa un completo del Vault 13. Sorride e ride di gusto mentre racconta la sua storia.}
+{102}{}{Vedi un modello di eroe bianco. Sta sorridendo.}
+{103}{}{Vedi un modello di eroe bianco. Sta sorridendo.}
 {104}{}{Allora... il mio giocatore era COSI' stupido, che...}
 {105}{}{Pensate un po' - una volta ha trovato delle munizioni e ha pensato che fossero il Water-Chip... e cosi' le ha portate al Supervisore...}
 {106}{}{Che idiota!}

@@ -1,22 +1,9 @@
-# MAP ENTEREANCE MESSAGE
 {100}{}{Siete giunti in uno spiazzo desertico fuori New Reno.}
-
-# 0. QUICK LOOK, BOXES (WTG)
 {110}{}{Vedi diverse casse piene di prodotti chimici.}
-
-# 0. LOOK, BOXES (WTG)
 {120}{}{Vedi diverse casse piene di prodotti chimici. Non riesci a identificare tali prodotti, ma sono stati imballati con MOLTA cura.}
-
-# 1. QUICK LOOK, VERTIBIRD (WTG)
 {130}{}{Vedi un Vertibird.}
-
-# 1. QUICK LOOK, VERTIBIRD (WTG)
 {140}{}{Vedi un Vertibird... un modello avanzato di elicottero. Sfortunatamente, non hai idea di come pilotarlo.}
-
-# 1. QUICK LOOK, VERTIBIRD (WTG)
 {150}{}{Non hai idea di come pilotarlo.}
-
-# 2. NORMAL ACTION SEQUENCE (WTG)
 {200}{}{(Questi tizi mi fanno venire i brividi...)}
 {201}{}{(Zitti. Ecco che arrivano.)}
 {202}{}{*Zztttt* Avete la merce che vi abbiamo chiesto? *Zzzttt*}
@@ -31,39 +18,25 @@
 {211}{}{*Zztttt* Le caricheremo noi sul nostro cargo. *Zzzttt*}
 {212}{}{Uh, giusto... giusto. Naturalmente. Fate spazio, ragazzi.}
 {213}{}{Bene; qui abbiamo finito. Il resto di voi guardie si diriga verso Reno. Ci ritroveremo la'.}
-
-# 3. FLOAT SEQUENCE: INTRUDER (WTG)
 {250}{}{Guardate! Qualcuno ci stava spiando!}
 {251}{}{Uccideteli!}
 {252}{}{Sembra proprio che ci sia una spia...!}
 {253}{}{*Zztttt* Missione annullata. Attivata sequenza di bloccaggio del cargo. *Zzzttt*}
 {254}{}{*Zztttt* Eliminare gli ostili, poi fare ritorno alla base. *Zzzttt*}
-
-# 4. FLOAT SEQUENCE: OUT OF POSITION WARNING (WTG)
 {300}{}{Non avvicinarti troppo a quei tipi corazzati. Ti apriranno in due.}
 {301}{}{Riprendi la tua posizione.}
 {302}{}{Smettila di muoverti... a quei tipi corazzati non piace molto.}
-
-# 5. FLOAT SEQUENCE: OUT OF POSITION, FINAL (WTG)
 {350}{}{Cazzo! Cosa stai facendo, coglione?!}
 {351}{}{Torna al tuo posto! Cosa diavolo stai fa --?!}
 {352}{}{*Zztttt* Missione annullata. Attivata sequenza di bloccaggio del cargo. *Zzzttt*}
 {353}{}{*Zztttt* Eliminare gli ostili, poi fare ritorno alla base. *Zzzttt*}
-
-# 6. VERTIBIRD SEQUENCE: (WTG)
 {400}{}{[Sembra che qui ci sia una porta. La apri e ti infili dentro?]}
 {401}{}{Yup}
 {402}{}{-Allontanati-}
 {403}{}{Entra nel Vertibird.}
-{404}{}{Lasciala stare.}
-
-# 7. VERTIBIRD: TAKE OFF (7)
-{450}{}{[La porta si chiude dietro a te, e il Vertibird decolla! Non puoi piu' aprire la porta!]}
+{404}{}{Lo lasci stare.}
+{450}{}{[La porta si chiude dietro di te, e il Vertibird decolla! Non puoi piu' aprire la porta!]}
 {451}{}{Uh-oh}
 {452}{}{Oh, merda...}
-
-# 8. DISPLAY TEXT: BOXES (WTG)
 {500}{}{Queste casse sono riempite con pesanti cilindri di metallo. A giudicare dalla cura con la quale sono state imballate, sospetti che contengano un qualche tipo di prodotto chimico pericoloso.}
-
-# GENERAL TALK
 {550}{}{Probabilmente questo non e' il momento migliore per cominciare una conversazione.}

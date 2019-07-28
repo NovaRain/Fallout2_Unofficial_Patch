@@ -54,7 +54,6 @@
 {153}{}{La vita puo' essere migliore di cosi'?}
 {154}{}{Siamo piu' svegli di quanto pensi.}
 {155}{}{Guardate! Un lao wai!}
-
 {163}{}{Hai ucciso AHS-9? Yeah!}
 {164}{}{Questi Hubologisti mi fanno venire i brividi.}
 {165}{}{Ci hai fatto un grande favore.}

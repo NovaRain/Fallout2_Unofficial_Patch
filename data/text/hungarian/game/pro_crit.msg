@@ -8,9 +8,9 @@
 {501}{}{Egy kis, mutáns skorpió.}
 {600}{}{Radskorpió}
 {601}{}{Egy mutáns skorpió.}
-{700}{}{Halálkarom}
+{700}{}{Halálkarom                                                        }
 {701}{}{Egy halálkarom kölyök.}
-{800}{}{Halálkarom}
+{800}{}{Halálkarom                                                        }
 {801}{}{Egy halálkarom kölyök.}
 {900}{}{Kutya}
 {901}{}{Egy kutya, valószínûleg keverék.}
@@ -18,9 +18,9 @@
 {1001}{}{Egy kétfejû, mutáns tehén.}
 {1100}{}{Patkány}
 {1101}{}{Egy tipikus, nagy patkány.}
-{1200}{}{Imádkozó-sáska}
+{1200}{}{Sáska}
 {1201}{}{Egy mutáns imádkozó-sáska.}
-{1300}{}{Törzsfõnök}
+{1300}{}{Törzsfõ}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Húsevõ növény}
@@ -62,8 +62,8 @@
 {5100}{}{Árva (lány)}
 {5200}{}{Gyerek (fiú)}
 {5300}{}{Gyerek (lány)}
-{5400}{}{Vesztes}
-{5500}{}{Vesztes}
+{5400}{}{Lúzer!}
+{5500}{}{Lúzer!}
 {5600}{}{Rossz kereskedõ}
 {5700}{}{Rossz kereskedõ}
 {5800}{}{Átlagos kereskedõ}
@@ -93,7 +93,7 @@
 {8200}{}{Vadkutya}
 {8201}{}{Egy veszett korcs.}
 {8300}{}{Aranygekkó}
-{8400}{}{Halálkarom}
+{8400}{}{Halálkarom                                                        }
 {8500}{}{Halálkarom kölyök}
 {8600}{}{Erõs aranygekkó}
 {8700}{}{Lynette}
@@ -109,9 +109,9 @@
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
-{10000}{}{Lumpy}
+{10000}{}{Púpos}
 {10100}{}{Világító reaktormunkás}
-{10200}{}{Reaktormunkás ghoul}
+{10200}{}{Reaktor ghoul}
 {10300}{}{Reaktor-õr}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
@@ -160,7 +160,7 @@
 {14400}{}{Tandi}
 {14500}{}{Zsoldos}
 {14600}{}{Ratch}
-{14700}{}{Skeeter}
+{14700}{}{Doofus}
 {14800}{}{Mikey}
 {14900}{}{ÚKK-s csapos}
 {15000}{}{Boltos}
@@ -230,7 +230,7 @@
 {21300}{}{Bandita}
 {21400}{}{Farmer}
 {21500}{}{Farmer}
-{21600}{}{Imádkozó-sáska}
+{21600}{}{Sáska}
 {21700}{}{Rabszolga-kereskedõ}
 {21800}{}{Rabszolga-kereskedõ}
 {21900}{}{Vad brahmin}
@@ -277,8 +277,8 @@
 {26000}{}{Jakuza}
 {26100}{}{ÚKK-s Felderítõ}
 {26200}{}{ÚKK-s Felderítõ}
-{26300}{}{Fosztogató}
-{26400}{}{Fosztogató}
+{26300}{}{Martalóc}
+{26400}{}{Martalóc}
 {26500}{}{Szépfiú Lloyd}
 {26600}{}{Vorpal patkány}
 {26700}{}{13-as Menedék lakója}
@@ -305,8 +305,8 @@
 {28800}{}{Elnöki testõr}
 {28900}{}{Halálkarom tojás}
 {29000}{}{Metzger}
-{29100}{}{Enklávé õr}
-{29200}{}{Enklávé õr}
+{29100}{}{Person}
+{29200}{}{Person in strange type of armor}
 {29300}{}{Elnök}
 {29400}{}{Alelnök}
 {29500}{}{Technikus}
@@ -371,13 +371,13 @@
 {35400}{}{Idegen királynõ}
 {35500}{}{Fekete radskorpió}
 {35600}{}{Fekete radskorpió}
-{35700}{}{Spud}
+{35700}{}{Krumpli}
 {35800}{}{Zsoldoskapitány}
 {35900}{}{Zsoldos}
 {36000}{}{Zsoldos}
 {36100}{}{Árnyék-Aki-Jár}
-{36200}{}{Punk}
-{36300}{}{Punk}
+{36200}{}{Punk!}
+{36300}{}{Punk!}
 {36400}{}{Marc}
 {36500}{}{Dave H.}
 {36600}{}{A. Ron Meyers kapitány}
@@ -499,4 +499,4 @@
 {48100}{}{Speciális gekkó lény}
 {48200}{}{A Nagy Kaszás}
 {48300}{}{Frank Horrigan}
-{48301}{}{Az Elnök Testõre}
+{48301}{}{The President's Body Guard.}

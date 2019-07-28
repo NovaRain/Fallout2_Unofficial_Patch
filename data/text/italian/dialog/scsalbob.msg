@@ -8,7 +8,7 @@
 {107}{}{Quale hai detto che era il tuo nome, straniero? Io sono Saltbeef Bob.}
 {108}{}{[Player name]}
 {109}{}{Saltbeef? Che razza di nome e' mai questo?}
-{110}{}{Cosa fai?}
+{110}{}{Cosa fai qui?}
 {111}{}{E' proprio un bel nome, yep. Di', non avresti qualcosa da bere con te, amico?}
 {112}{}{Si'.}
 {113}{}{No.}
@@ -28,9 +28,8 @@
 {127}{}{Era una porta grande, enorme, simile a quelle che si vedono nei vecchi filmati. Grande e fatta d'acciaio. E sopra c'era inciso un grande, enorme 13!}
 {128}{}{Lo sapevo, l'avevo trovato: la miniera d'oro, il Vault 13. Mi sono seduto e ho disegnato una mappa. Mi sono quasi ammazzato per uscire da li', evitando i Deathclaw e poi affrontando il sole del deserto senza un goccio d'acqua.}
 {129}{}{Quando sono riuscito a raggiungere Shady Sands ero praticamente morto. Mi hanno portato dal dottore e mi hanno rimesso in sesto, ma il dottore ha rubato la mia mappa. Io lo so e questo e' tutto quel che ho da dire.}
-# took this out -- Got anymore o' that drink, stranger?
 {130}{}{(Continua)}
-{131}{}{Dannazione, questo e' un nome bello e buono, ecco cos'e'! I ragazzi mi hanno lasciato cucinare per un po' e se tu non fossi cosi' presuntuoso lo sapresti e sapresti anche rispettare quelli piu' anziani di te.} ###???let me do some cooking aroun here
+{131}{}{Dannazione, questo e' un nome bello e buono, ecco cos'e'! I ragazzi mi hanno lasciato cucinare per un po' e se tu non fossi cosi' presuntuoso lo sapresti e sapresti anche rispettare quelli piu' anziani di te.}
 {132}{}{Scusami, vecchio. Non volevo farti arrabbiare.}
 {133}{}{Va' a quel paese, vecchio!}
 {134}{}{Farmi arrabbiare? Farmi arrabbiare?! Tu non mi hai ancora visto arrabbiato! Adesso sparisci dalla mia vista prima che mi arrabbi sul serio! Forza! Sparisci!}

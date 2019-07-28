@@ -6,5 +6,5 @@
 {105}{}{Non sono autorizzato a parlare con nessuno quando sono in servizio.}
 {106}{}{Dovessi darci dei problemi, io sono qui per risolverli. Capito?}
 {107}{}{Perche' non smammi, okay?}
-{108}{}{Non rompere.}
+{108}{}{Non scocciarmi.}
 {109}{}{Mr. Merk non vuole essere disturbato.}

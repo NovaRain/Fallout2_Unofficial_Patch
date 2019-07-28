@@ -1,14 +1,13 @@
-# Dialog Editor last position: 151
-{101}{}{Átlagos ember, átlagos testmagassággal, semmitmondó kinézettel. Semmi extra.}
-{102}{}{Jo.}
-{103}{}{Jo, a kereskedõ.}
-{104}{}{Jo, a seriff.}
-{105}{}{Jo, a polgármester.}
-{106}{}{Jo békebíró.}
+{101}{}{You see an average person, of average height, of average complexion. Nothing out of the ordinary.}
+{102}{}{You see Jo.}
+{103}{}{You see Trader Jo.}
+{104}{}{You see Sheriff Jo.}
+{105}{}{You see Mayor Jo.}
+{106}{}{You see Justice of the Peace Jo.}
 {150}{}{Mindenkit megöltünk. Még a gyerekeket is... [zokog]}
 {151}{}{Találkozzunk a Kísértetfarmon! Azonnal támadunk.}
 {152}{}{Köszönöm, hogy megmentette Modoc lakosságát.}
-{153}{}{Mit csinál?}
+{153}{}{Mit csinál itt?}
 {154}{}{Hé! Hagyja azt békén!}
 {155}{}{Tolvaj!}
 {156}{}{Sajnálom, az aszály miatt zárva tartjuk a kereskedést.}
@@ -19,9 +18,9 @@
 {161}{}{Mit tehetek magáért?}
 {162}{}{Egy bizonyos dolgot keresek. Azon törtem a fejem, vajon tudna-e nekem segíteni a felkutatásában.}
 {164}{}{Szeretnék venni egy aranyórát. Nem tudja, honnan szerezhetnék egyet?}
-{165}{}{Milyen eladó áruja van?}
+{165}{}{Mit tudsz felajánlani?}
 {166}{}{Mit tud mondani errõl a városról?}
-{167}{}{Mivel foglalkozik?}
+{167}{}{Mi a munkád?}
 {168}{}{ÉLET!}
 {169}{}{Visszajött hát! Mit talált a farmon?}
 {170}{}{Megoldottam a Kísértetfarm problémáját. Bármikor odamehet és beköltözhet.}
@@ -29,7 +28,7 @@
 {172}{}{Üzze-neth.}
 {173}{}{Farm?}
 {174}{}{Rossz dolgok mind eltûntenek!}
-{175}{}{Menek.}
+{175}{}{Én megy.}
 {176}{}{Ha többrõl tudok beszámolni, megint beszélünk.}
 {179}{}{Van egy részeges fazon Rejtekben, akire ráillik a leírás. Aszongya, õ is termelõ volt.}
 {180}{}{Azok a testek nem igaziak. Leraktak valami bábukat és Brahminbeleket szórtak szét rajtuk. Csak azért vannak, hogy elriassza magukat a földekrõl.}
@@ -47,9 +46,9 @@
 {194}{}{A város határában van egy farm, ahol nem kéne lennie neki. Néhány évvel ezelõtt a semmibõl "tûnt" elõ.}
 {195}{}{Azt állítja, hogy az egyik éjszaka a semmibõl elõugrott? Hát persze, így megy ez!}
 {196}{}{Néhányan éppen vadászni voltunk, amikor észrevettük az új farmot. De nem ez az érdekes, hanem, hogy röviddel ezután együtt ellátogattunk az új szomszédhoz, és azt kellett látnunk, hogy nem él ott senki.}
-{197}{}{Folytassa.}
+{197}{}{Folytasd!}
 {198}{}{Miután hónapokig próbálkoztunk, hogy a pórul járt tulajdonosokkal felvegyük a kapcsolatot, arra jutottunk, hogy a farmot közvetlenül a megépítése után elhagyták. Ezért aztán ahelyett, hogy hagytuk volna a termést megrohadni a mezõn, Karl fiú beköltözött.}
-{199}{}{Hmm...}
+{199}{}{Hmm... }
 {200}{}{Na, ekkor fordultak rosszra a dolgok. Karl pletykákat kezdett terjeszteni, hogy éjszakánként fura, izzó alakok dolgoznak a földeken és etetik az állatokat. Mindannyian nevettünk rajta, azt hittük csak a fejébõl pattant ki a sok sületlenség. Aztán egy nap Karl nem jött többé a városba.}
 {201}{}{Mi történt vele? Nekiálltak keresni õt?}
 {202}{}{Persze, hogy nekiálltunk. Amint neszét vettük, hogy valami nem stimmel, rögtön odamentünk. [Erõsen remegni kezd.] Szörnyûség! Testek hevertek mindenütt. Némelyeket keresztrefeszítettek, másokat kinnhagytak rohadni a napon. Az akkor látott szörnyûségek hatására még ma is felriadok álmomból.}
@@ -70,7 +69,7 @@
 {217}{}{Szemmel láthatóan nem elég elszánt. Passzolom a témát.}
 {218}{}{Micsoda? Aszontad ÉLET?}
 {219}{}{Ööö... ÉLET.}
-{220}{}{Én megy.}
+{220}{}{Én menni elfele.}
 {222}{}{A nevem Jo. Ki tudod mondani? Na, nem számít. Látod azt a négyzet alakú valamit? Az ott az ajtó. Vigyázz meg ne üsd magad, mikor kimész.}
 {223}{}{[Nem értesz mindent, amit mond, de elvigyorodsz és sarkon fordulva otthagyod.]}
 {224}{}{[Egy röpke pillanatig eltûnõdik valamin, aztán elmosolyodik és rádnéz.] Talán kinéz valami üzlet is. A nevem Jo. Enyém ez a kereskedés. Tudok ezt-azt az ÉLET-rõl. Érdekli?}
@@ -81,19 +80,21 @@
 {229}{}{Rendben, akkor nincs mirõl beszélnünk. Az ajtót ott találja.}
 {230}{}{Látta már azt a nagy hólyagot a nyakán. Miért nem jön vissza, ha már összébbment? Na, szép napot, és vigyázzon az ajtóra kifelé menet.}
 {231}{}{Akkor hát... üdvözöljük Modocban. Jo-nak hívnak és enyém az itteni kereskedés. Nincs itt sok látnivaló. csak néhány tanya, egy mészárszék, Rose panziója, és a cserzõmûhely. Épp elég, hogy csereárut állítsunk elõ. Sajna az aszály keresztbetehet.}
-{232}{}{Mit érdemes tudni a mészárszékrõl?}
+{232}{}{Mit tudsz mondani a mészárszékrõl?}
 {233}{}{Rose panziója?}
 {234}{}{Mondjon valamit a kereskedésrõl!}
 {235}{}{Hol van a cserzõmûhely?}
-{236}{}{Kérdezhetek még ezt-azt?}
+{236}{}{Feltehetek további kérdéseket?}
 {237}{}{A mészárszéket Grisham és a fia vezeti. Kelet felé megtalálja. Az egész Sziklás hegységben õ csinálja a legremekebb szárított húst.}
 {242}{}{Rose panziója a város északi felében van. Messze földrõl érkeznek utazók, hogy kipróbálják a világhírû omlettjét. Egyesek szerint az az omlett még a betegeket is meggyógyítja. Õszintén szólva ez elég nagy marhaság.}
-{247}{}{Csak menjen az orra után, és megtalálja. Érzi ezt az orrfacsaró bûzt? Na, ez az észak felé található cserzõmûhelyekbõl jön. A szagot nem számítva a legjobb hely, hogy bõráruhoz jusson. Balthus csoda dolgokat képes bõrbõl készíteni.}
+{247}{}{Just follow your nose and you'll find it. Can you smell that foul stench in the air? That's the
+ tanning vats just north of here. If you overlook the smell, you'll not find a better place to get
+ leather goods. Balthas can work miracles with leather.}
 {252}{}{Ahogy azt már korábban említettem, Jo-nak hívnak, és enyém a modoci kereskedés. Én szervezem az árucserét Modoc és az élelmiszert meg bõrárut igénylõ városok között. Nagy baj viszont, hogy az aszály hamarosan mindent gallyra tesz. Már a legrosszabbra is felkészültünk.}
 {257}{}{Mirõl beszéljek? A mészárszékrõl, Rose panziójáról, a cserzõmûhelyrõl vagy a kereskedésrõl?}
 {262}{}{Na, köpje már ki! Nem tudok segíteni, ha nem mondja el, mit keres, és az hótt biztos, hogy nem fogok itt órákat állni, hogy kivárjam, amíg eldönti.}
 {263}{}{A szent ÉLET után kutatok.}
-{264}{}{Annyi baj legyen.}
+{264}{}{Értem.}
 {265}{}{Mivel meglehetõsen függünk a Modocban gyártott termékektõl, nem sok csereárum van. Tudja, az aszály, meg minden. Azért érdekli valami?}
 {266}{}{Nézzük, mibõl élünk.}
 {267}{}{Kösz nem, viszont kérdeznék egy s mást.}
@@ -102,7 +103,7 @@
 {270}{}{Ez igen! Nagyon népszerû lehet, ha ilyen sok tisztséggel megbízzák.}
 {271}{}{Kösz az információért. Most mennem kéne.}
 {272}{}{Fenéket, jól megszívattak. Éppen beszerzõúton voltam, amikor visszajövet láttam, hogy a népek idõközben engem választottak meg. Senki más nem akarta elvállalni a munkát. Az idõnkénti vitákat leszámítva nem sok dolgom akad, és ez eléggé fekszik nekem.}
-{273}{}{Kérdezhetek még?}
+{273}{}{Feltehetek még néhány kérdést?}
 {274}{}{Micsoda? Ne okoskodjon itt! Mindenki tudja, hogy az öreg Corni elvesztette az aranyóráját. Még a legjobb barátom házát is átkutattatta velem. Ha jót akar, ne üsse ebbe bele az orrát. Jónapot!}
 {275}{}{[Átveszi az Aljanép üzenetét.] Ez mi a rosseb? A Kísértetfarm lakóitól jött. Hát ezt nem hiszem el! Olvastad ezt a... ööö, hát hogy is olvastad volna, nem igaz? Szóval van még ez az, amit el kéne simítani az Aljanép és Modoc között, de az apró agyadnak ez túl bonyolult, szóval nem kell aggódnod emiatt.}
 {276}{}{ÉLET most!}
@@ -130,7 +131,13 @@
 {301}{}{Kérem ne hamarkodjon el semmit, amíg vissza nem érek!}
 {302}{}{[Homlokára csap] Rejtek! Asszem, egy kicsit kemények voltunk vele. El tudom képzelni, min ment keresztül a Kísértetfarmon, hiszen senki nem hitt neki. Szóval részegeskedik? Rejtekben? Ha Karl megkapná az üzenetet, hogy visszavárjuk, nagyon hálás lennék. Amúgy szerintem itt az idõ, hogy az Aljanép és Modoc lakossága barátkozni kezdjen.}
 {303}{}{Szerintem a megállapodásunk rám esõ felét megtettem. Mit szólna, ha most rátérnénk a magáéra és elmondaná, hol találom a szent ÉLET-et!}
-{304}{}{[Kicsit zavart.] Ööö... tudja, nem igazán tudok semmit errõl a szent ÉLET-rõl. Meg kell értenie, nagyon nehéz a helyzetünk. Egyébként ismerek egy Gekkó nevû helyet. Valahol kelet felé van. Ha szerencsejátékos típus lennék, rátenném az összes pénzem, hogy az az ÉLET ott van. Bárcsak többet adhatnék, de szegény közösség a mienk, és korlátozottak a lehetõségeink. A legtöbb, amit tehetek, hogy beszerzési áron kínálom az árumat. Természetesen megtisztelve érezném magam, ha úgy általában én segíthetnék a hosszú utakra való felkészülésben, és biztos vagyok benne, hogy a többi lakos is hasonlóan hálás lenne, ha megkérné õket. Köszönjük. Mindannyiunkat megmentett.}
+{304}{}{[Acting a little embarrassed.] Um... well, you see, I don't really know anything about this holy
+ GECK thing you're looking for. You have to understand; we were desperate! However, I do know of a place
+ called Gecko. It's a ways east of here somewhere. If I were a betting man, I would wager your GECK gizmo
+ is located there. I wish I had more I could give you, but we're still a poor community with not
+ much in the way of offerings. The best I can do is offer you goods at basically my cost. But
+ I'd be honored to help keep you stocked for your journeys when I have the goods and I'm sure any
+ of the other residents would be equally grateful if you asked them. Thank you! You've saved us all.}
 {305}{}{Szóval Karlt megölték a farm közelében felnyársalt összes emberrel együtt. Na, jó, induljunk! Maga rátalált a rejtekhelyükre és elég alkalmas embernek is látszik. Vezessen gyõzelemre bennünket a mocskos Aljanép ellen!}
 {306}{}{Hogyne! Ilyen igaz ügy érdekében boldogan segítek legyõzni az Aljanépet.}
 {307}{}{Lehet, hogy nem a legjobb ötlet. Találjunk ki valami mást.}
@@ -148,7 +155,9 @@
 {319}{}{Arra is rájöttem, hogy az összes Kísértetfarmot körülvevõ test kamu. Sima bábuk brahminbelsõséggel betakarva.}
 {320}{}{Akkor beszél az Aljanép vezetõjével?}
 {321}{}{Egyelõre ennyit tudok.}
-{322}{}{Kamu?! Ez lehetetlen, a saját szememmel láttam. Vér és belek mindenütt. Hát.. végül is... lehetséges... mi nem gondoltuk, hogy... hát... [Jo elvörösödik.] Amikor megláttuk azokat a testeket, mindannyiunknak inunkba szállt a bátorsága. Igazából egyikünknek sem volt mersze közelebbrõl megnézni õket.}
+{322}{}{Fake! That's impossible; I saw them with my own eyes. Blood and gore everywhere. But... I guess
+ it's possible, we didn't... I mean... well [Jo's face turns beat red.] We all kind of turned tail and ran
+ when we saw the bodies. No one actually had the guts to examine them closely.}
 {326}{}{Igen, hiszem, hogy az Aljanép és Modoc népe képes lesz valami kölcsönösen elõnyös megegyezésre. Köszönjük, hogy megmentette Modoc városát.}
 {327}{}{Van még valami apróság... Azt mondta, elmondja, hol a szent ÉLET.}
 {328}{}{Meg kell tudnia, kik a Kísértetfarm közelében karóba húzott emberek. }
@@ -160,13 +169,15 @@
 {500}{}{Ó, az a templom. Modoc népe építette, hogy kimutassák hitük erejét. Mostanában nem sokmindent köszönhetünk meg odabenn, ezért a prédikációk megszüntek.}
 {600}{}{Kedves ifjú pár! Azért gyûltünk itt most egybe...}
 {602}{}{[Jo lapoz néhányat.]}
-{603}{}{Rendben, szóval... Mielõtt elkezdenénk a szertartást, van itt valaki a teremben, aki csak egyetlen okot is tud arra, hogy e frígy ne jöhessen létre?}
+{603}{}{OK, um... Before we begin, is there anyone in this room who knows any reason why these two
+ here before us should not be joined together in holy matrimony?}
 {604}{}{Elfogadod-e }
 {605}{}{ testvérünket kedves, }
 {606}{}{, törvényes}
 {607}{}{Akkor a törvény értelmében házastársaknak nyilvánítalak benneteket. Most pedig megcsókolhatod a menyasszonyt.}
 {608}{}{Akkor a törvény értelmében házastársaknak nyilvánítalak benneteket. Most pedig megcsókolhatják egymást a menyasszonyok.}
 {609}{}{Akkor a törvény értelmében házastársaknak nyilvánítalak benneteket. Most pedig megcsókolhatod a másikat.}
+{612}{}{[Bo turns some pages in his book.]}
 {625}{}{ feleségedül?}
 {626}{}{ férjedül?}
 {627}{}{ Micsoda?... egyébül? Szóval törvényes egyébül?}
@@ -186,3 +197,4 @@
 {900}{}{Köszönjük, hogy megmentette kicsiny városunkat, barátom.}
 {925}{}{Nem tesz semmit. Viszlát!}
 {1000}{}{Megmentetted Modoc városát.}
+{1500}{}{You see Substitute Justice of the Peace Bo.}

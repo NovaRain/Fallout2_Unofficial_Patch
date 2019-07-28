@@ -1,4 +1,3 @@
-# Dialog Editor last position: 9
 {100}{}{Tûnj el a placcunkról!}
 {101}{}{Rossz nyomon jársz, haver!}
 {102}{}{Ez fájni fog!}
@@ -7,4 +6,4 @@
 {105}{}{Tûnj el!}
 {106}{}{Ezt még megbánod!}
 {107}{}{Kemény süti!}
-{108}{}{Legközelebb...}
+{108}{}{Legközelebb.}

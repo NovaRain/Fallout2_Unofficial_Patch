@@ -11,7 +11,7 @@
 {110}{}{Riproviamo dall'inizio. Tu aiutare Tandi? Fare lavoro per Tandi?}
 {111}{}{Sisisisi'!}
 {112}{}{Tandi lavoro. Me vuole.}
-{113}{}{Cosa tu sapere fare?}
+{113}{}{Cosa fare tu?}
 {114}{}{Uhhhh... me uccide, me uccide tanto!}
 {115}{}{Uhhhh... me sveglio. Anziana dire io avere cervello di bambino. Me allora ha due cervelli. Me sveglio.}
 {116}{}{Il Presidente non ti dara' mai quel lavoro!}
@@ -27,14 +27,14 @@
 {126}{}{Ho sentito che il presidente sta cercando qualcuno per un lavoro.}
 {127}{}{La signora Presidente non concede piu' colloqui riguardanti il Vault 13. Mi dispiace. E' troppo impegnata per ricevere tutti i cercatori che passano da queste parti.}
 {128}{}{Eh? Non capisco.}
-{129}{}{E cosa mi dici del GECK? Il presidente potrebbe sapere qualcosa a proposito?}
+{129}{}{What about a GECK? She might know something about that?}
 {130}{}{Ho sentito parlare di un certo lavoro...}
 {131}{}{Sei inutile. Me ne vado.}
 {132}{}{Allora ti consiglio di leggere la targa sulla statua che c'e' all'esterno. Buona giornata.}
 {133}{}{Non ho la piu' pallida idea di cosa tu stia parlando. Hai una domanda precisa?}
 {134}{}{Sto cercando il Vault 13.}
 {135}{}{Ho sentito che il presidente sta cercando qualcuno per un lavoro.}
-{136}{}{Lasciamo perdere.}
+{136}{}{Nulla.}
 {137}{}{Ah, si'. Beh, ha dato disposizioni perche' io faccia entrare chiunque si presenti qui chiedendo di quel lavoro. Adesso ti annuncio. La porta dell'ufficio del presidente e' alla mia destra.}
 {138}{}{La signora Presidente ha finito con te? Com'e' andata?}
 {139}{}{Bene. Me ciao-ciao.}
@@ -51,7 +51,7 @@
 {150}{}{Il presidente mi ha detto di parlare con te per quanto riguarda la ricompensa.}
 {151}{}{Sol-di.}
 {152}{}{Sono qui per incassare la mia paga.}
-{153}{}{Il presidente ha detto che sarebbe bene che tu sapessi che c'e' una spia tra di voi - qualcuno di nome Feargus.} ###???Your president said you should know there's a spy in your house - somebody named Feargus
+{153}{}{Il presidente ha detto che sarebbe bene che tu sapessi che c'e' una spia tra di voi - qualcuno di nome Feargus.}
 {154}{}{Nulla.}
 {155}{}{Ma certo, me l'ha appena riferito via interfono. Una ricompensa di 6000$ e i ringraziamenti di NCR, ha detto. Adesso mi scuserai, ma ho del lavoro da fare. Arrivederci.}
 {156}{}{Vediamo... Il contratto dice 500$. Ecco a te.}
@@ -66,25 +66,17 @@
 {165}{}{Grazie. Buona giornata.}
 {166}{}{Oh, sei tu. Guarda, questo non e' un buon momento. Infatti credo che la signora Presidente preferisca che tu non ti occupi di altro. Grazie e buona giornata.}
 {167}{}{Lascia che ti parli chiaramente. Il Presidente non ti ricevera' - ne' ora ne' mai. Sei gia' stato pagato. Adesso vattene.}
-
 {171}{}{Me va.}
 {172}{}{Assolutamente nulla.}
 {173}{}{Puttana che non sei altro! Guardie! All'assassino! All'omicida!}
-
 {174}{}{Sono stato al Vault 15 e devo parlarne con il tuo capo.}
 {175}{}{Me deve parlare di Vault 15.}
-
 {176}{}{Credo che sarebbe bene che tu sapessi che tra di voi c'e' una spia - qualcuno di nome F.}
-
 {177}{}{Me anche trovato spia. Ferrrgus.}
 {178}{}{Me no bugia. Guardare. (Gli consegni il disco.)}
 {179}{}{Grazzee!}
-
-#define GLOBAL Message response
 {500}{}{Se teniamo le porte chiuse una ragione ci sara'.}
 {501}{}{Mi vedo costretto a chiederti di andartene.}
 {502}{}{Questo e' l'ultimo avvertimento. Vattene prima che ti faccia portare via.}
 {503}{}{Sicurezza - occupatevi di questo scocciatore.}
-
-# Added by killap
 {510}{}{Beh, aspetta un secondo. Ho ancora un paio di cosette da chiedere al tuo capo riguardo al Vault 15.}

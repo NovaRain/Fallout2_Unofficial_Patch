@@ -1,16 +1,15 @@
-# Dialog Editor last position: 76
 {100}{}{Egy prostit látsz.}
 {150}{}{Egy szokásos, "tizenkettõ-egy-tucat" prostituált.}
 {152}{}{[Beszélgetés]}
 {153}{}{Hé, csajokkal nem nyomom!}
-{154}{}{Mindegy.}
+{154}{}{Ahogy gondolja.}
 {155}{}{Bocsánat.}
-{156}{}{Mama?}
+{156}{}{Mami?}
 {157}{}{Hé, ha közönség is lesz, többe kerül!}
 {158}{}{Hé, oda fognak menni, ahova én is.}
 {159}{}{Velem jönnek.}
-{160}{}{Visszajövök.}
-{161}{}{Mama?}
+{160}{}{Mindjárt jövök.}
+{161}{}{Mami?}
 {162}{}{Óh, bébi. Hol voltál egész eddigi életemben?}
 {163}{}{Pont itt, bébi.}
 {164}{}{Mennyi lesz, kishúgom?}
@@ -31,12 +30,12 @@
 {180}{}{Öhm, aligha.}
 {181}{}{[nyáladzol]}
 {182}{}{Nincs elég zsozsód. Tûnj innen, édes!}
-{183}{}{Visszajövök késõbb.}
+{183}{}{I'll come back.}
 {184}{}{Nem éred meg a pénzem, cunci.}
 {185}{}{Bah!}
 {186}{}{Csodálatos voltál!}
 {187}{}{Mint mindig, bébi.}
-{188}{}{Hagyjuk ezt...}
+{188}{}{Ahogy gondolja.}
 {189}{}{Te is.}
 {190}{}{Csõd-állatos!}
 {191}{}{Remek voltál!}
@@ -45,21 +44,21 @@
 {194}{}{Ja.}
 {195}{}{Remek!}
 {196}{}{Oké, végeztünk. Szia.}
-{197}{}{Ennyi?}
+{197}{}{That's it?}
 {198}{}{Oké. Szia.}
 {199}{}{Jó volt.}
-{200}{}{Szia, szia.}
+{200}{}{Szia szia.}
 {201}{}{Nem fizetnek eleget ezért.}
 {202}{}{Nem mintha megérted volna a pénzed.}
 {203}{}{Hiányolni fogsz.}
-{204}{}{Szasz.}
+{204}{}{Viszlát!}
 {205}{}{Eltévedtél?}
 {206}{}{Gyere, amikor csak akarsz!}
 {207}{}{Oké. Helló!}
 {208}{}{Ja, persze.}
 {209}{}{Húúú!}
 {210}{}{Szeva.}
-{211}{}{Csá.}
+{211}{}{Viszlát!}
 {212}{}{Szia szia.}
 {213}{}{Egy menet }
 {214}{}{ dollárba kerül. Elõre kell fizetni.}

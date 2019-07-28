@@ -1,7 +1,6 @@
 {100}{}{Vedi un uomo ben piantato che indossa un grembiule di cuoio.}
 {101}{}{Vedi Balthas, il conciatore di pelli.}
 {102}{}{Vedi un uomo alto e muscoloso che puzza di cuoio.}
-
 {151}{}{Mio figlio e' stato ucciso per errore durante lo scontro a fuoco.}
 {152}{}{Non ce la faccio a vivere senza Jonny.}
 {153}{}{[Sob]}
@@ -13,7 +12,7 @@
 {159}{}{Tornero' piu' tardi.}
 {160}{}{Sto cercando una cosa chiamata GECK. Hai qualche informazione su questo oggetto, o su come potrei trovarne uno?}
 {161}{}{GECK?}
-{163}{}{In che posso aiutarti?}
+{163}{}{Come posso aiutarla?}
 {168}{}{Stavo solo guardando, grazie.}
 {171}{}{Notizie di Jonny?}
 {172}{}{Ho trovato questo sul fondo del vecchio pozzo secco. Una parte del pozzo e' franata e questo si trovava tra i detriti. Mi dispiace, ma credo che Jonny sia morto.}
@@ -45,7 +44,7 @@
 {200}{}{Le mie preghiere sono state ascoltate! Porta Laddie con te; forse potra' aiutarti. Ti prego, fa' in fretta!}
 {201}{}{Beh, forse hai ragione. Grazie per avermi ascoltato.}
 {202}{}{Ho sentito parlare di te. Senti, non voglio guai; siamo una comunita' pacifica. Continuiamo a parlare solo di affari, OK?}
-{203}{}{Ho delle domande da farti.}
+{203}{}{Ho qualche domanda per te.}
 {204}{}{Non voglio fare affari con te, in questo momento. Arrivederci.}
 {205}{}{Beh... sono preoccupato per la scomparsa di mio figlio, Jonny. Lo abbiamo cercato dappertutto, ma non siamo riusciti a trovarlo. Temo che qualche animale selvatico possa averlo assalito.}
 {206}{}{Forse posso aiutarvi. Io viaggio molto; se dovessi incontrare vostro figlio, vi avvertiro'.}
@@ -58,12 +57,8 @@
 {217}{}{[Ti guarda da vicino e poi sorride.] Perche' non fai la brava ragazza e non te ne vai fuori a giocare?}
 {218}{}{Ti prego, continua a cercare. So che e' ancora vivo, lo sento!}
 {219}{}{Questa e' sicuramente il fucile a pallini di Jonny. Noooooooooooooooooooo! [Balthas crolla e comincia a piangere a dirotto.]}
-{2199}{}{Si', questo e' sicuramente il fucile a pallini di Jonny... Ma non posso credere che sia morto. Ti prego, continua a cercare il mio ragazzo. Sono sicuro che e' ancora la' fuori, da qualche parte.}
 {220}{}{Sapevo che Jonny non poteva essere morto! Hai detto che devo aspettare... Non capisco! E' ferito? Il mio istinto mi dice di andare da mio figlio, ma sento che anche tu hai a cuore il suo destino. Ti prego... sbrigati e riporta mio figlio a casa.}
 {221}{}{Oh no! Non i fantasmi! Lo sapevo: avremmo dovuto bruciare quel posto. Non ho intenzione di lasciare mio figlio nelle loro grinfie... Mi riprendero' il mio piccolo Jonny, a qualunque costo. Sono sicuro che gli abitanti di Modoc mi aiuteranno a riprendere mio figlio. Ci troverai alla Fattoria Fantasma. Li uccideremo tutti!}
-
 {230}{}{Hai riportato Jonny a Modoc sano e salvo.}
-
-#added by killap - RP
 {240}{}{Ti prego, riportami mio figlio sano e salvo.}
-
+{2199}{}{Si', questo e' sicuramente il fucile a pallini di Jonny... Ma non posso credere che sia morto. Ti prego, continua a cercare il mio ragazzo. Sono sicuro che e' ancora la' fuori, da qualche parte.}

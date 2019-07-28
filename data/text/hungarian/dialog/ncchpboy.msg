@@ -1,19 +1,17 @@
-# Dialog Editor last position: 1
 {150}{}{Ez a szerelõ tetõtõl-talpig merõ egy olaj.}
 {151}{}{Ez itt a Rontó-Bontó egyik szerelõje.}
 {152}{}{Ez a szerelõ elég gyanús alak. A zsírtól és az olajtól alig látszik maga az ember.}
 {200}{}{Szent ég! *Nyel egyet* Nézzétek, ki jött hozzánk!}
 {201}{}{Hát megeszem a sapkám, ha ez itt nem egy kibaszott nagy kávéfõzõ!}
-{202}{}{Van odabenn valaki?}
+{202}{}{Van valaki abban a vacakban?}
 {203}{}{Hozhatunk valamit? Egy sört? Kis vizet? Sütit?}
 {204}{}{Remélem, nincs gond, öö, uram... vagy hölgyem. Akárki is legyen odabenn.}
 {205}{}{Ha bármi gond lenne, T-Ray a felelõs itt mindenért. Én beszélnék vele...}
 {206}{}{Ez valami új autó?}
 {207}{}{Mi nem akarunk bajt.}
-{208}{}{Ha netán T-Rayt keresed... hátul megtalálod.}
+{208}{}{Talán éppen T-Rayhez jöttél... Hátul megtalálod.}
 {220}{}{Hát üdvözöljük a kisasszonyt nálunk! Nagyon jól adod elõ magad.}
 {221}{}{Azta! Nálunk aztán nem hemzsegnek a látogatók... Mit tehetünk érted, }
-{5221}{}{kisasszony?}
 {222}{}{Hát láttam, ahogy a nyakadba húztad a lábaidat. Hogy vagy képes ezt megcsinálni?}
 {223}{}{Azok a cicik igaziak? Hadd nézzem meg!}
 {224}{}{Nagy fáradság lenne, ha benéznél a motorházam alá?}
@@ -27,12 +25,12 @@
 {232}{}{Hát jó napokat kívánunk, kis hölgy!}
 {233}{}{Azta! Nálunk aztán nem hemzsegnek a látogatók... Mit tehetünk érted, kislány?}
 {234}{}{Valami jó kis szexet keresel? T-Ray hátul van, de nem kéne õt zavarni.}
-{245}{}{Láttalak bokszolni a ringben. Nagyon tuti jobb horgot tudsz küldeni.}
+{245}{}{Láttalak bunyózni a ringben. Iszonyat jobb horgod van!}
 {246}{}{Ugye nem akarsz lefeküdni a ringben? 30 dolcsit tettem rád.}
 {247}{}{Bokszbajnok létedre nem is nézel ki olyan keménynek.}
 {248}{}{Mennyit nyomsz fekve?}
 {249}{}{Hol edzel?}
-{250}{}{Vigyázz a Húsdarálóval. Imádja a füleket.}
+{250}{}{Vigyázz a Húsdarálóval! Imádja a füleket!}
 {251}{}{Akarsz sört? Munkaidõre szoktuk tartogatni...}
 {252}{}{T-Ray szerint nem vagy különösebben kemény. Adok 5 dolcsit, ha mész és megcsapkodod a pofáját.}
 {253}{}{T-Ray szerint olyan a állkapcsod, mint az üveg. Ha akarsz beszélni vele, hátul megtalálod.}
@@ -41,7 +39,6 @@
 {266}{}{Nem akartunk tiszteletlenek lenni, hölgyem!}
 {267}{}{Szent ég! *Nyel egyet* Nézzétek, ki jött hozzánk!}
 {268}{}{Mit tehetünk érted, }
-{5268}{}{?}
 {269}{}{Hozhatunk valamit? Egy sört? Kis vizet? Sütit?}
 {270}{}{Ha bármi gond lenne, T-Ray a felelõs itt mindenért. Én beszélnék vele...}
 {271}{}{Mondd meg a fõnöködnek, hogy mindannyian üdvözöljük!}
@@ -61,16 +58,18 @@
 {310}{}{T-Ray lefektette a húgomat. Meg az anyámat. Meg a kutyámat.}
 {311}{}{T-Ray kanosabb, mint a sokévi átlag.}
 {312}{}{T-Ray hátul van. Szokás szerint a telefonon lóg.}
-{313}{}{A motor még mindig remek állapotban van.}
+{313}{}{A motorja még mindig pöpec.}
 {314}{}{Az utastér úgy bûzlik, mintha valaki teleszarta volna.}
 {315}{}{Az utastérnek tisztára gekkószaga van.}
 {316}{}{Nem rossz kocsi, de én inkább egy Omnit szeretnék.}
-{317}{}{A Highwaymanbe abszolút analóg rendszert építettek, több, mint 800 lóerõs, nulláról hatvanra kevesebb, mint egy másodperc alatt gyorsul.}
+{317}{}{A Highwaymanbe abszolút analóg rendszert építettek, több, mint 800 lóerõs, nulláról százra kevesebb, mint egy másodperc alatt gyorsul.}
 {318}{}{Hogy gyors-e? A Highwayman egy másodpercnél is kevesebb idõ alatt gyorsul nulláról százra.}
-{319}{}{A Highwaymanben aztán van szufla. Több, mint 800 lóerõs!}
+{319}{}{A Highwaymanben aztán van izom. Több, mint 800 lóerõs!}
 {320}{}{Biztos, hogy jó helyen jársz?}
 {321}{}{Sajnálom azt az elmebeteget, aki csak úgy otthagyta ezt a Highwaymant.}
 {322}{}{Te csak ne aggódj... A Highwaymanbe semmiféle számítógépet nem raktak, teljesen analóg a rendszer. Sallangmentes úgy ahogy van.}
 {330}{}{Ne nyúlj hozzá, mert lecsapom a kezed. Értve vagyok?}
 {331}{}{Tûnj a RETEKBE attól az autótól!}
 {332}{}{Az életed nem ér annyit, mint az az autó. Ha még egyszer hozzáérsz, bebizonyítom!}
+{5221}{}{?}
+{5268}{}{?}

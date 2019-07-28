@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Sikeresen kinyitottad a zárat.}
 {101}{}{Nem sikerült kinyitnod a zárat.}
 {102}{}{Sikeresen bezártad.}
@@ -8,7 +7,7 @@
 {202}{}{ sikeresen bezárta.}
 {203}{}{ képtelen bezárni.}
 {300}{}{A robbanás megsemmisítette a zárat.}
-{301}{}{A robbanás meg sem kottyant a zárnak.}
+{301}{}{The explosion fails to remove the lock from the object.}
 {400}{}{Sikeresen kifeszítetted a zárat.}
 {401}{}{Képtelen vagy kifeszíteni a zárat.}
 {500}{}{ sikeresen kifeszítette a zárat.}

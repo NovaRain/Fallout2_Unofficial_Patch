@@ -1,8 +1,7 @@
-# Dialog Editor last position: 1
 {100}{}{Egy sovány, idõs nõt látsz, aki látott már jobb napokat is.}
 {101}{}{Õ Rooney, az özvegyasszony.}
 {102}{}{A sovány, idõs hölgy tele van bibircsókokkal és elég rendes bajuszkája nõtt.}
-{103}{}{Takarodj tõlem!}
+{103}{}{Távozz tõlem!}
 {104}{}{Nem okoztál már így is egy életre szóló bajt?}
 {105}{}{Egyszerûen ölj meg, és kész! Nehezedre esik?}
 {106}{}{Szóval neked az öreg hölgyek kilakoltatása okoz örömet?}
@@ -37,8 +36,11 @@
 {136}{}{Kilakoltatni egy védtelen, öreg nénit, mint ön? Ez nem szép. Ki tenne ilyet?}
 {137}{}{Nem bírnám végignézni, ahogy kilakoltatják. Mi lenne, ha én kifizetném a tartozását? Nem sok hasznát veszem a pénznek. Én vagyok a Kiválasztott.}
 {138}{}{Ez szörnyû! Szívesen segítenék, de likviditási problémáim vannak. Öö, jobb lesz, ha én most megyek is. Viszlát!}
-{139}{}{Súlyos Testi Sértéssel fenyegetsz egy törékeny öreg nõt? Te és Ascorti egy követ fújtok! Na, rendben van... Elmegyek, de hagyok neked egy kis ajándékot a cigány õseimtõl. (egy jelet rajzol a kezével) Nesze! Most már rajtad van a gonosz szem. Remélem, örülsz.}
-{140}{}{Nekem is van néhány kézmozdulatom, amit szeretni fog. Tessék! (beintesz neki) Most pedig tûnés!}
+{139}{}{Threatening a frail old woman with Gross Bodily Harm? You and Ascorti are cut from the same
+ cloth. All right. I'll leave, but I'll leave you a little extra something from my gypsy ancestors.
+ (She makes a sign with her hands.) There; you have the evil eye on you now. I hope you like it.}
+{140}{}{I've got a couple of gestures that you'll like, too. Here they are! [You make a few choice ones.]
+ Now get out!}
 {141}{}{Cigány õsöket mondott? Hát, ha maga valami boszorkány féle, akkor jól meg kéne égetnünk magát. Tûnés kifelé!}
 {142}{}{Csak a munkámat végzem, asszonyom. Remélem, nem akarja, hogy gorombáskodnom kelljen. Most pedig kifelé! Kérem...}
 {143}{}{Ascorti... Ascorti egy kapzsi, részrehajló, minden hájjal megkent, becstelen, sunyi, pipogya takonygombóc. Õ a polgármester, és a fõbérlõm is egyúttal.}

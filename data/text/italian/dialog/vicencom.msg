@@ -5,7 +5,7 @@
 {104}{}{Vedi una scatola di metallo parlante.}
 {105}{}{Vedi una scatola di metallo che sta parlando con se stessa con voce femminile.}
 {106}{}{Il terminale del computer si e' spento.}
-{107}{}{Inizio Diagnostica di Sistema.}
+{107}{}{Inizio Diagnostica di Sistema. }
 {108}{}{Una volta avviata, la Diagnostica di Sistema puo' essere cancellata in ogni momento dall'operatore di sistema.}
 {109}{}{Vault-Tec raccomanda di eseguire controlli a scadenze regolari per assicurare un corretto funzionamento del sistema.}
 {110}{}{Vault-Tec: La prima e ultima parola nel campo della tecnologia Vault.}
@@ -36,7 +36,7 @@
 {135}{}{La lista dei valori e' stata trasferita all'Ufficio centrale di Controllo Dati.}
 {136}{}{Tre liste di back-up sono state inserite nella Source Safe.}
 {137}{}{Un back-up di sicurezza dei dati e' stato mandato al server centrale per una successiva distribuzione a tutti gli altri terminali di Vault City.}
-{138}{}{E' ora possibile spegnere il computer.}
+{138}{}{E' ora possibile spegnere il computer. }
 {139}{}{Grazie.}
 {140}{}{Inizio Diagnostica di Sistema. }
 {141}{}{Una volta avviata, la Diagnostica di Sistema puo' essere cancellata in ogni momento dall'operatore di sistema.}
@@ -99,10 +99,10 @@
 {198}{}{Ragazzi! Quei due sembrano avere un SACCO di cose da dirsi! Parlano con parole buffe che assomigliano molto a dei cigolii, a dei bip, e al verso delle mantidi. Alla fine, c'e' un bip, e il tuo PipBoy esce.}
 {199}{}{Prendi il tuo PipBoy e te ne vai.}
 {200}{}{Una piccola finestra si apre sullo schermo del terminale con accanto un Pip Boy sorridente. Mentre guardi, il Pip Boy comincia a fischiettare in silenzio e a battere per terra il piede. Una luce rossa sta lampeggiando a fianco dello slot del computer.}
-{201}{}{Attendi...}
+{201}{}{Aspetta...}
 {202}{}{Cancella la procedura e spegni il terminale.}
 {203}{}{Un cigolio non molto rassicurante proviene dallo slot del PipBoy. Il Pip Boy continua a fischiettare in silenzio e a battere il piede.}
-{204}{}{Attendi...}
+{204}{}{Aspetta...}
 {205}{}{Cancella la procedura e spegni il terminale.}
 {206}{}{Il Pip Boy improvvisamente si ferma e aggrotta le sopracciglia. Un punto esclamativo compare sopra la sua testa, e il Pip Boy comincia a muovere l'indice nella tua direzione. }
 {207}{}{Rispondi con il dito medio a quel piccolo bastardo!}
@@ -114,7 +114,7 @@
 {213}{}{Cancella la procedura e spegni il terminale.}
 {214}{}{Inizio procedura di inizializzazione... Riformattazione PipBoy in corso...}
 {215}{}{}
-{216}{}{Attendi...}
+{216}{}{Aspetta...}
 {217}{}{Cancella la procedura e spegni il terminale.}
 {218}{}{Inizio procedura di inizializzazione...}
 {219}{}{Riformattazione PipBoy in corso...}
@@ -122,7 +122,7 @@
 {221}{}{Cancel! Cancel! }
 {222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy.}
 {223}{}{Copia dell'archivio in corso... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completato.}
-{224}{}{Continui ad esaminare gli archivi in cerca di altre informazioni.}
+{224}{}{Continua la ricerca negli archivi per altre informazioni.}
 {225}{}{Spegni il terminale.}
 {226}{}{Sei tornato al menu principale. Una serie di archivi e di programmi di ricerca sono elencati sullo schermo del terminale.}
 {227}{}{Cerca negli archivi notizie riguardanti il Vault 13.}
@@ -152,10 +152,10 @@
 {251}{}{Grazie.}
 {252}{}{Sara' meglio che questa perdita di tempo sia valsa un po' di punti abilita' extra, altrimenti mi arrabbio...}
 {253}{}{Il Pip Boy sullo schermo ti saluta con la mano e poi lo schermo diventa nero. Il terminale si e' spento.}
-{254}{}{[Vai via.]}
+{254}{}{[Te ne vai.]}
 {255}{}{Si', fai bene a sparire, piccolo stronzo.}
 {256}{}{Il terminale si e' spento. Non hai idea di cosa fare per riattivare il sistema.}
-{257}{}{-Vai via-}
+{257}{}{Te ne vai.}
 {258}{}{Lettura Disco in corso... Dati del Reattore: Centrale Nucleare... Efficienza: 43%/75%... Errore: Calibrazione della Centrale - MD4/gh1... Desiderate ottimizzare?}
 {259}{}{}
 {260}{}{}

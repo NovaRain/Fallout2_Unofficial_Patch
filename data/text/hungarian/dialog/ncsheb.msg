@@ -1,5 +1,4 @@
-# Dialog Editor last position: 16
-{100}{}{Õ nem más, mint... Sheb.}
+{100}{}{You see... Sheb.}
 {150}{}{Egy kék ruhában feszítõ vézna férfi áll itt. A ruhája már amúgy is elég harsány, ennek ellenére torkaszakadtából üvölt.}
 {200}{}{Csajokat, csajokat, csajokat tessééék!}
 {201}{}{Csajkedvelõk erre-erre!}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 39
 {100}{}{Egy borotvált fejû ghoult látsz.}
 {101}{}{Õ Jeremy, a raktáros.}
 {102}{}{Egy magas, sovány ghoult látsz magad elõtt. A jóember nagyon elfoglaltnak tûnik.}
@@ -41,8 +40,10 @@
 {201}{}{Hát az a nagy helyzet, hogy éppen Skeeternek viszem.}
 {202}{}{Miféle Skeeterrõl beszélsz? Az a dolgom, hogy visszavigyek egy alkatrészt a reaktor irányítóterembe, hogy megjavítsam a... Nézd csak! Az ott nem egy patkány?}
 {203}{}{Gõzöm nincs, mit fognak csinálni azzal a vacakkal. Én csak cipelem.}
-{210}{}{Számíthattam volna rá. Hogy képes Skeeter bárkit is rávenni, hogy a nevében alkatrészeket vegyen fel? Remélem, most nem fog elbaltázni semmit. Na, mindegy, nem az én dolgom.}
+{210}{}{I should have expected that. How the hell did Skeeter get anyone to authorize him getting a
+ part, though? I just hope he doesn't blow anything up this time. Oh well. Not my business, I suppose.}
 {211}{}{Ja igen, az alkatrész! Indulnom kéne vele...}
 {220}{}{Szerezhetsz egyet akár Haroldtól a városban, vagy Festustól a fõ reaktorirányító teremben. Engem hidegen hagy, honnan szerzed meg, ha megszerzed. Ha nincs igénylõlap, nincs alkatrész. Punktum. Így mûködnek itt a dolgok.}
 {221}{}{Megszerezted már az igénylõlapot? Anélkül nem adhatok ki semmit.}
 {222}{}{Ah, értem. Látom, akkor szereznem kell egyet. Késõbb még jövök.}
+{300}{}{Actually, I think I'll get it later. Goodbye.}

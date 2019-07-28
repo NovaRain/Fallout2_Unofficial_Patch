@@ -14,7 +14,7 @@
 {113}{}{Sto cercando il Vault.}
 {114}{}{Sto cercando un Servo in particolare... Joshua, mi pare si chiami. Si trova qui?}
 {115}{}{Desideri comprare degli schiavi...er, servi?}
-{116}{}{Per oggi nulla, grazie.}
+{116}{}{Per oggi niente, grazie.}
 {117}{}{Questo? Beh, questo e' il Centro di Collocamento Servi. Ti serviva per caso un servo?}
 {118}{}{Questo e' il Centro di Collocamento Servi.}
 {119}{}{Centro di Collocamento Servi? Di cosa si tratta?}
@@ -26,9 +26,9 @@
 {125}{}{Cos'e' questo edificio?}
 {126}{}{Chiunque puo' entrare?}
 {127}{}{Avrei un'altra domanda da farti.}
-{128}{}{Grazie per le informazioni. Arrivederci.}
+{128}{}{Grazie per le indicazioni. addio.}
 {129}{}{Cosa dia-? Sei per caso uno dei nuovi Servi?}
-{130}{}{Yup.}
+{130}{}{Yup}
 {131}{}{Uh-uh me andare via, ora.}
 {132}{}{Devi essere nuovo di qui. Te lo spieghero'...lentamente.}
 {133}{}{I Cittadini che hanno bisogno di aiuto per lavori umili vengono qui per farsi assegnare un Servo per la giornata.}
@@ -53,7 +53,7 @@
 {152}{}{Non e' che avete in custodia un condannato di nome Joshua?}
 {153}{}{Siete interessati a comprare schiavi... er, servi, al momento?}
 {154}{}{Hmmm. Avrei un'altra domanda...}
-{155}{}{Capisco. Grazie per le informazioni.}
+{155}{}{Capisco. Grazie dell'informazione.}
 {156}{}{No, non sono sceneggiatori, imbecille.}
 {157}{}{Imbecille? Ho dovuto sudare sette camicie per raggiungere il 9 in Intelligenza e Percezione che sono i requisiti minimi per poter visualizzare questa frase. Ad ogni modo, cosa stavi dicendo?}
 {158}{}{Non sei proprio il tipo piu' indicato per fare certi discorsi sulla morale, schiavista. Fuori di qui.}
@@ -98,7 +98,7 @@
 {197}{}{Ci pensero'. Avrei delle altre domande, intanto...}
 {198}{}{Capisco. Magari sara' per un'altra volta.}
 {199}{}{Capisco. Magari sara' per un'altra volta, quando avro' abbastanza denaro per una donazione.}
-{200}{}{Beh... questa non la chiamerei esattamente una donazione, ma puo' andare. Mi assicurero' che questo Joshua venga inviato al Cortile. Dammi solo il tempo di eseguire le dovute operazioni.} ###???that's not as much of a donation as I would like, but it will do. I shall see to it that this Joshua you have requested is shipped to the Courtyard for processing
+{200}{}{Beh... questa non la chiamerei esattamente una donazione, ma puo' andare. Mi assicurero' che questo Joshua venga inviato al Cortile. Dammi solo il tempo di eseguire le dovute operazioni.}
 {201}{}{Okay.}
 {202}{}{Ecco fatto. Joshua non e' piu' un Servo di Vault City, ed e' stato riportato nel Cortile tra gli altri Esterni.}
 {203}{}{Grazie. Avrei delle altre domande...}
@@ -118,7 +118,7 @@
 {217}{}{Ha contratto una malattia? Che tipo di malattia?}
 {218}{}{Sintomi? Che tipo di sintomi?}
 {219}{}{Forse avrai notato che, di recente, i Servi sono sempre piu' stanchi. E cosa dire della loro minore attenzione? E della loro incapacita' di capire gli ordini e di eseguirli correttamente? Questi sono solo gli stadi precoci.}
-{220}{}{Uh... La Sindrome di }
+{220}{}{Uh...}
 {221}{}{. Un sacco di Esterni ce l'hanno. I suoi sintomi includono, uhm, il parlare quando non e' richiesto. E l'uso di un linguaggio triviale.}
 {222}{}{Hmmmm. Non sarebbe una buona cosa se i Cittadini cominciassero a lamentare problemi con i Servi... molto bene, rilascero' subito Joshua. Dammi solo un secondo per eseguire le operazioni necessarie...}
 {223}{}{Si'... ultimamente ho notato questo genere di sintomi nei Servi. Contagiosa, hai detto? Hmmm. Beh, se questo Joshua e' un portatore, sara' meglio che lo rimetta subito in liberta'. Dammi solo un secondo per sbrigare le operazioni necessarie...}
@@ -138,7 +138,7 @@
 {237}{}{Eddai, questo schiavo vale molto di piu'.}
 {238}{}{E' un prezzo equo. Il servo e' tuo.}
 {239}{}{Veramente, al momento non ho intenzione di vendere questo schiavo. Avrei pero' delle domande che vorrei farti...}
-{240}{}{Veramente, non ho intenzione di vendere questo schiavo, al momento. Magari un'altra volta.}
+{240}{}{Veramente, non ho intenzione di vendere questo schiavo, al momento. Sara' per un'altra volta.}
 {241}{}{Molto bene. Avrei delle altre domande da farti, pero'...}
 {242}{}{D'accordo. Ci vediamo quando avro' della merce migliore, allora.}
 {243}{}{No, non la penso cosi'... 250 o niente.}

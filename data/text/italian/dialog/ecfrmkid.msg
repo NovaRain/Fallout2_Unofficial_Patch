@@ -6,7 +6,6 @@
 {105}{}{Whaaa!}
 {106}{}{Mamma!}
 {107}{}{Papa'!}
-
 {200}{}{Vedi un bambino.}
 {201}{}{E' un ragazzino.}
 {202}{}{E' una ragazzina.}

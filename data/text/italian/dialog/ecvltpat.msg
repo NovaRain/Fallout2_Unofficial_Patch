@@ -2,10 +2,11 @@
 {101}{}{Bisogna avvertire Vault City!}
 {102}{}{Feccia del Mondo Esterno...}
 {103}{}{Sporcizia degenere...}
-{104}{}{E' giunta l'ora di spazzare via un po' di spazzatura del mondo esterno... A morte gli Esterni!} #outworlders
+{104}{}{E' giunta l'ora di spazzare via un po' di spazzatura del mondo esterno... A morte gli Esterni!}
 {105}{}{Cosa stai facendo vicino a Vault City?}
 {106}{}{Perche' ti trovi nei pressi di Vault City?}
 {107}{}{Fa' molta attenzione.}
+{108}{}{Sta' attento.}
 {109}{}{Vault City non e' un rifugio per *chiunque*. Sparisci.}
 {110}{}{Quelli come te dovrebbero starsene nel Den.}
 {111}{}{Ti suggerisco di andarci subito.}

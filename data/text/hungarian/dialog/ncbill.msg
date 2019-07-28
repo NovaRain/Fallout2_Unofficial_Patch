@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ Bill.}
 {150}{}{Egy aszott férfit látsz magad elõtt bozontos fehér szemöldökkel. Nagy valószínûséggel nagyon odalenne egy italért.}
 {200}{}{::Köhög::}

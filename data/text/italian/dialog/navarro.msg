@@ -1,1 +1,1 @@
-{100}{}{Hai trovato una vecchia stazione di servizio.}x
+{100}{}{Hai trovato una vecchia stazione di servizio.}

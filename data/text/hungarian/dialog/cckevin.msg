@@ -1,4 +1,3 @@
-# Dialog Editor last position: 18
 {100}{}{Egy szerelõt látsz.}
 {101}{}{Kevin, a szerelõ.}
 {102}{}{Egy embert látsz katonai gyakorlóban. A kinézetbõl ítélve inkább szerelõ lehet, mint katona.}
@@ -7,8 +6,8 @@
 {202}{}{Még kezdõ szerelõ vagyok. Te biztos Quincyt keresed.}
 {300}{}{Nincs rajtad egyenruha.}
 {301}{}{Jobb lenne, ha felöltöznél.}
-{302}{}{Nagy kockázatot vállalsz, hogy egyenruha nélkül mászkálsz itt. Jelentkezz a fegyvertárban!}
-{400}{}{Kik ezek a fickók?... Riadó! Behatolók!}
+{302}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
+{400}{}{Kik ezek a fickók?... Behatolók! Riadó!}
 {401}{}{Megtámadtak bennünket! Riadó!}
 {402}{}{Behatolók! Riadó!}
 {500}{}{Picsába! Kezdjük gyorsan az archiválást!}

@@ -4,4 +4,4 @@
 {103}{}{Barom!}
 {104}{}{Hagyj békén!}
 {105}{}{Tisztátalan!}
-{106}{}{Menj el!}
+{106}{}{Menjen innen!}

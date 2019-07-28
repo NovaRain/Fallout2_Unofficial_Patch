@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ Eldridge.}
 {150}{}{Ennek a fickónak tiszta olaj a ruhája, és állig fel van fegyverezve. Miközben a falon elhelyezkedõ fegyvergyûjteményét szemrevételezi, álmodozva mosolyog.}
 {151}{}{Ez a fickó Eldridge. Miközben a falon elhelyezkedõ fegyvergyûjteményét szemrevételezi, álmodozva mosolyog.}
@@ -39,22 +38,22 @@
 {254}{}{Nagyszerû! Láthatnám az árudat?}
 {255}{}{Nem tudom, tudnál-e segíteni... valami különlegeset keresek.}
 {256}{}{A fõnököm... }
-{262}{}{Kiváló... láthatnám a különlegességeidet?}
 {257}{}{Jules azt mondta, ha fegyvert akarok magamnak, hozzád jöjjek.}
 {258}{}{A Salvatore klán nálad vásárolja a fényhozóit?}
 {259}{}{Meghoztam a lézerpisztolyt, amit ígértem.}
 {260}{}{Foglalkozol fegyverek tuningolásával?}
 {261}{}{Akkor késõbb még beugrom egy mustrára.}
+{262}{}{Kiváló... láthatnám a különlegességeidet?}
 {270}{}{Itt a New Reno-i fegyverboltban áruljuk a legújabb személyi védõfelszereléseket, amelyekkel bármilyen parasztikus vadbarmot ott helyben kinyúvaszthatsz. (Gonoszul mosolyog.)}
 {272}{}{Üdv nálunk újra, barátom. Segíthetek?}
 {273}{}{Úgymint?}
 {274}{}{Cucc én szeret cucc te szeret cucc?}
 {276}{}{Akkor te vagy az én emberem. Vethetnék egy pillantást a készletedre?}
-{277}{}{Vethetnék egy pillantást az árudra?}
-{286}{}{Láthatnám a különlegességeidet?}
+{277}{}{Megnézhetném az árudat?}
 {283}{}{Tudsz fegyvereket módosítani vagy tuningolni?}
 {284}{}{Most nem vagyok vevõ semmire, köszi.}
-{285}{}{Ma nem vagyok vásárlós hangulatban, kösz.}
+{285}{}{Kösz, egyelõre elleszek magam is.}
+{286}{}{Can I see your special stock?}
 {300}{}{Valami jó kis fényes tárgyat esetleg? Gyerünk, biztos van itt valami, amitõl összefut a nyál a szádban!}
 {301}{}{Öö... hogyne, hogyne. (Kritikus szemmel néz rád.) Al, a rabszolgám jut eszembe rólad. Akarod látni az árunkat, barátom.}
 {302}{}{Eggen}
@@ -66,39 +65,36 @@
 {330}{}{Nem, nem... régen benne voltunk az ilyesmiben, de... (Fájdalmas arcot vág.) ...hát, történt egy kis baleset... és nem akarjuk, hogy újra megessen. Valami egyebet adhatok?}
 {331}{}{Rendben van. Valami más érdekelne...}
 {340}{}{Hogy a francba ne tudnék? Mit akarsz kikupálni?}
-{1340}{}{Hogy a francba ne tudnék? (Ránéz a cuccaidra.) Az a baj, hogy nincs nálad semmi, amit megbütykölhetnék. Ha hozol valami szûz... illetve... "közönséges" pisztolyt vagy puskát, akkor talán segíthetek.}
 {341}{}{Tudsz valamit csinálni ezekkel a pisztolyokkal?}
 {342}{}{Az egyik puskámra elkelne ez-az.}
 {343}{}{Tudsz valamit csinálni ezzel az ösztökével?}
 {344}{}{Na, mindegy. Inkább más érdekelne...}
 {345}{}{Tulképpen most semmi különöset nem akarok.}
-{1345}{}{Rendben. Térjünk valami másra...}
-{1346}{}{Úgy lesz. Na, üdv...}
 {350}{}{(Észreveszi a magnumodat.) Rátehetek a magnumodra egy gyorstöltõt? Az ára }
 {351}{}{Ott van az a Desert Eagle... ha akarod, rárakhatok egy kibõvített tárat. Az ára }
-{352}{}{Jöhet a gyorstöltõ!}
+{352}{}{Rakd rá a magnumomra a gyors-utántöltõt.}
 {353}{}{Csináld meg a tárbõvítõt erre a Desert Eagle-re!}
 {354}{}{Igazság szerint egy másik fegyverre gondoltam...}
-{355}{}{Sebaj. Úgyis valami mást akartam...}
-{356}{}{Tulképpen egyik sem érdekel. Mennem kell.}
-{357}{}{Ez túl sok a tárcámnak. Visszajövök, ha több pénzem lesz.}
+{355}{}{Inkább kérdeznék valamit.}
+{356}{}{Dolgom van, mennem kell.}
+{357}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
 {365}{}{(Megtanulmányozza a puskáidat, és bólogat.) }
 {366}{}{Arra a vadászpuskára tudnék szerelni egy teleszkópot. Az ára }
 {367}{}{Látom van egy gépkarabélyod... tudnék rá rakni egy kibõvített tárat. Az ára }
 {368}{}{Van egy éjjellátó teleszkópom, amit rárakhatnék az FN FAL-ra. Az ára }
-{369}{}{Na, jó... rakd rá a teleszkópot a Colt vadászpuskámra!}
-{370}{}{Bõvítsd ki az AK-112-es gépkarabélyom tárját!}
-{371}{}{Szereld fel az éjjellátó teleszkópot az FN FAL-ra!}
+{369}{}{Legyen... szerelj rá egy teleszkópot a Colt vadászpuskára.}
+{370}{}{Rendben, tegyél egy tárbõvítõt az AK-112 gépkarabélyra.}
+{371}{}{Jöhet az éjjellátó az FN FAL-ra.}
 {385}{}{Szeretnéd egy kicsit feldobni az ösztökédet? Mit szólnál egy túltöltõhöz. Az ára }
-{386}{}{Jöhet.}
+{386}{}{Hogyne.}
 {395}{}{(Eldridge átveszi a fegyvert, és kritikus szemmel megvizsgálja.) Oké... várnod kell egy kicsit, megnézem, mit tehetek. (Eltûnik a hátsó helyiségben.)}
-{396}{}{Rendben.}
+{396}{}{Oké.}
 {400}{}{(Vársz...)}
-{401}{}{Még mindig vársz...}
+{401}{}{Várakozol...}
 {405}{}{(És még mindig vársz...)}
 {406}{}{Düm dü düm dü düm...}
 {410}{}{(Már éppen le akarsz lépni, amikor hirtelenjében Eldridge visszatér.) Bocs a várakozásért... tessék. Ez egy kicsit megdobja az esélyeidet, ha egy faszkalap elédlépne a sötétben.}
-{411}{}{Köszi. Esetleg megnéznéd egy másik fegyveremet is?}
+{411}{}{Köszönöm. Esetleg más fegyveremre is ránéznél?}
 {412}{}{Köszi. Térjünk akkor másra...}
 {413}{}{Köszi. Megyek és kipróbálom.}
 {420}{}{Óh... szóval egy válogatós kuncsafthoz van szerencsénk, mi? Hát van rá eset, hogy egy-egy jobb darab is becsusszan a városba.. vegyük ezt itt például. (Valami nagyon furcsát tart eléd.) Hamisítatlan háború elõtti technológia. Na, mit szólassssz? }
@@ -130,7 +126,7 @@
 {474}{}{Ez túl sok nekem. Beszéljünk róla máskor, ha van elég pénzem.}
 {480}{}{(Mosolyog, és miközben leperkálod a pénzt, a kezét dörzsölgeti.) Tessék, a tied. Bármi egyéb? }
 {481}{}{(Gondolkodik egy kicsit, fürkészõen néz rád, aztán bólint.) Legyen... egy igazi rabló vagy, de nem számít. (Átnyújtja a modult, és bezsebeli a pénzét.) }
-{482}{}{Valami egyebet?}
+{482}{}{Másvalamit?}
 {485}{}{Igen-igen, nézzünk valami egyebet...}
 {486}{}{Ma már nem, kösz...}
 {495}{}{(Meglepetten pislog, aztán elneveti magát.) Hah! Nem, nem... azok a fegyverek azért más tészta, hidd el! Persze hazudnék, ha azt mondanám, hogy nem fogadnék el egy olyat... megnézném a hatótávját, az erejét, a tûzgyorsaságát... (Elnéz a semmibe és nagyot sóhajt.)}
@@ -155,8 +151,8 @@
 {546}{}{Pofát befogni, ugató banda!}
 {547}{}{Inkább éjszaka ugatnátok! Pofa be!}
 {548}{}{Packard! Buck! Missy! Fogjátok be a csõrötöket, mert odamegyek!}
-{549}{}{Nyavalyás kutyák!}
-{550}{}{Még egy vakkantás és odamegyek!}
+{549}{}{Még egy vakkantás és odamegyek!}
+{550}{}{Nyavalyás kutyák!}
 {560}{}{Szerinted be van kötve a szemem?}
 {561}{}{Veszed le a kezed arról az ajtóról!}
 {562}{}{Ne tapizd azt az ajtót még egyszer!}
@@ -173,5 +169,10 @@
 {701}{}{Idióta kutyái... Holnap az lesz az elsõ, hogy mindannyiótokat elaltatlak...}
 {702}{}{Befognátok a szátokat, kutyák! Senki nem olyan hülye, hogy egy fegyverboltba törjön be!}
 {800}{}{Szereztél egy lézerpisztolyt Eldridge számára.}
+{801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
+{802}{}{Come back when you got the money.}
+{1340}{}{Hogy a francba ne tudnék? (Ránéz a cuccaidra.) Az a baj, hogy nincs nálad semmi, amit megbütykölhetnék. Ha hozol valami szûz... illetve... "közönséges" pisztolyt vagy puskát, akkor talán segíthetek.}
+{1345}{}{Rendben. Térjünk valami másra...}
+{1346}{}{Úgy lesz. Na, üdv...}
 {5256}{}{ ...azt mondta, hogy nézzek be, és hogy majd te "egyenesbe hozol engem".}
-{5500}{}{ dollár.}
+{5500}{}{ vagyok.}

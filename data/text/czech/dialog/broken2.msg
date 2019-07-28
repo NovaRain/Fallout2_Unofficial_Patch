@@ -1,0 +1,1 @@
+{100}{}{Vstupuješ do východní èásti Broken Hills.}

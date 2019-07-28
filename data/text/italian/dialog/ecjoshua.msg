@@ -1,7 +1,6 @@
 {100}{}{Vedi un uomo che strimpella un liuto.}
 {101}{}{Questo e' Joshua.}
 {102}{}{E' un menestrello giramondo.}
-
 {103}{}{Il Coraggioso Sir Robin scappo'...}
 {104}{}{Coraggiosamente scappo', scappo'...}
 {105}{}{Non appena il pericolo la sua orribile testa giro', egli coraggiosamente con la coda tra le gambe scappo'...}

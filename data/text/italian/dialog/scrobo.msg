@@ -32,20 +32,17 @@
 {131}{}{Robodog non puo' essere riparato ulteriormente, per il momento.}
 {132}{}{Robodog e' stato riparato parzialmente.}
 {133}{}{Robodog e' stato completamente riparato.}
-
-#specific party messages
 {1000}{}{Woof! Wo-wo-wo-<click>woof?}
 {1100}{}{Arf! <click> Woof!}
 {1200}{}{Rowf? <boing> Raggy?}
 {1300}{}{<click> whimper.}
 {1400}{}{How-woooo! <click-click> How-wooo!}
-{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!} #Wait here resoponse
-{1600}{}{Certo, la metto via.}  #Put weapons away
-{1700}{}{Arf-arf distanza settata: ravvicinata.} #Close
-{1800}{}{Arf-arf distanza settata: media.} #Medium
-{1900}{}{Arf-arf distanza settata: lontana.} #Far
+{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
+{1600}{}{Certo, la metto via.}
+{1700}{}{Arf-arf distanza settata: ravvicinata.}
+{1800}{}{Arf-arf distanza settata: media.}
+{1900}{}{Arf-arf distanza settata: lontana.}
 {2000}{}{...whirrrrr...non sono un Daggit.}
 {2100}{}{GRRR-ROWF!}
 {2200}{}{Woof! Wo-wo-wo-<click>woof?}
-
 {2204}{}{Ok sei ad una buona distanza, per il momento.}

@@ -1,9 +1,8 @@
-# Dialog Editor last position: 25
 {100}{}{Egy õrt látsz.}
 {101}{}{Egy õrt látsz, akit Marcnak hívnak.}
 {102}{}{Marcot látod. Tyler egyik õrét.}
 {150}{}{Hé, Tyler!}
-{200}{}{Mi a...?}
+{200}{}{What the...?}
 {225}{}{Tudtam, hogy elbánunk azokkal a nyápicokkal.}
 {226}{}{Kösz a tippet. Jót mulattunk.}
 {227}{}{Kár, hogy mindet kinyírtuk. Most mit csináljunk?}

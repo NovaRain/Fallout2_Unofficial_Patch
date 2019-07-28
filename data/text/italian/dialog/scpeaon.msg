@@ -1,41 +1,32 @@
 {100}{}{Vedi uno degli abitanti.}
 {101}{}{Vedi un rappresentante della gente locale.}
 {102}{}{L'aspetto di questa persona non ha nessun particolare di rilievo.}
-#Personal Enemy
 {103}{}{Ahhh, lasciami in pace.}
 {104}{}{Mi dispiace. Non lo rifaro' piu'.}
 {105}{}{Stavo proprio per andarmene.}
 {106}{}{Guardie, e' tornato!}
-{107}{}{Ti prego, lasciami in pace.}
+{107}{}{Lasciami in pace.}
 {108}{}{Senti, neanch'io vorrei starti tra i piedi.}
-
-#Child Killer
 {109}{}{Tu sei il male. Sei pregato di non parlare con me.}
 {110}{}{Lascia in pace i nostri figli.}
 {111}{}{Tu sei un criminale malato. Spero che le guardie ti becchino.}
 {112}{}{Vattene via, okay?}
 {113}{}{Ehi, non dovresti uccidere le persone - e soprattutto i bambini.}
 {114}{}{Non credo che tu mi piaccia.}
-
-#Berserker
-{115}{}{Ehi, fammi sapere quando stai per andare fuori di matto.} ###???just let me know when you are going to go postal
+{115}{}{Ehi, fammi sapere quando stai per andare fuori di matto.}
 {116}{}{Devo andare.}
 {117}{}{Chi diavolo credi di essere per venire in questa citta'?}
 {118}{}{Vattene, prima che qualcuno si faccia male.}
 {119}{}{Non mi piaci.}
 {120}{}{I buoni uccideranno tutti quelli come te.}
-
-#Low Town Rep
 {121}{}{Qual e' il tuo problema?}
 {122}{}{Non possiamo semplicemente essere amici?}
 {123}{}{Non parlarmi.}
 {124}{}{Qualunque cosa tu voglia dirmi, dilla a qualcun altro.}
 {125}{}{Non credo che tu sia cosi' duro.}
 {126}{}{Perche' non te ne vai e basta?}
-
-#normal
 {127}{}{Bene, devo andare a prendere delle uova.}
-{128}{}{Sai per caso come aprire una lattina dal verso giusto?} ###???Do you know how to put tin siding up
+{128}{}{Sai per caso come aprire una lattina dal verso giusto?}
 {129}{}{Ehila'.}
 {130}{}{Per favore, non disturbarmi: sono molto occupato.}
 {131}{}{Mi domando se ci siano degli altri brahmin-burger al Dusty's.}
@@ -44,7 +35,6 @@
 {134}{}{Magari dopo potremmo pranzare insieme.}
 {135}{}{Ohh, certo, tu sei quello nuovo.}
 {136}{}{Dovresti parlare con lo sceriffo.}
-
 {137}{}{Ho sentito che presto costruiranno delle altre case.}
 {138}{}{La citta' e' piuttosto tranquilla da quando Dumont e' stato eletto.}
 {139}{}{Buona giornata, straniero.}

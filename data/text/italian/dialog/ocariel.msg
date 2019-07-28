@@ -2,7 +2,7 @@
 {101}{}{Vedi Ariel, la vedova.}
 {102}{}{Vedi una piccola, esile donna che indossa un prendisole di velluto blu. Sembra triste.}
 {103}{}{Salve, io sono Ariel. Non mi pare di averti mai visto prima. Chi sei?}
-{104}{}{Me}
+{104}{}{Me }
 {105}{}{Uh... tu sembrare triste. Perche'?}
 {106}{}{Me va ora.}
 {107}{}{Piacere, Ariel, il mio nome e'}
@@ -11,28 +11,28 @@
 {110}{}{Scusa. Non ho tempo per chiacchierare.}
 {111}{}{E' un piacere conoscerti. Come posso aiutarti?}
 {112}{}{Rispondere domande?}
-{113}{}{Niente. Ciao.}
+{113}{}{Nulla. Arrivederci.}
 {114}{}{Dubito che potresti essermi d'aiuto in qualche modo. Addio.}
-{115}{}{Gradirei farti alcune domande.}
+{115}{}{Vorrei farvi alcune domande.}
 {116}{}{Mi dispiace intromettermi nella tua solitudine, ma potresti rispondere a qualche domanda?}
 {117}{}{Si tratta solo di qualche problema personale. Non e' nulla, davvero.}
 {118}{}{Tu parlare, me ascolta. Aiutare.}
 {119}{}{Ok. No parla problema. Rispondere domande?}
 {120}{}{Sono un buon ascoltatore, Ariel, e parlare di quello che ti turba potrebbe servire a sfogarti.}
 {121}{}{Ok. Dimentichiamoci dei problemi, per ora. Puoi rispondere a qualche domanda?}
-{122}{}{Tutti hanno dei problemi, donna. Impara ad affrontarli.} ###???deal with them
+{122}{}{Tutti hanno dei problemi, donna. Impara ad affrontarli.}
 {123}{}{Perdonami, ma non ho tempo da perdere con una persona nel tuo stato. Buona giornata.}
 {124}{}{}
 {125}{}{}
-{126}{}{D'accordo.}
+{126}{}{Okay.}
 {127}{}{Cosa vuoi sapere?}
-{128}{}{Tu prigioniera?}
+{128}{}{Tu prigioniero?}
 {129}{}{D'claws trattare te ok?}
 {130}{}{Volere andare via?}
 {131}{}{Perche' cosi' triste?}
 {132}{}{Come tu arrivata qui?}
 {133}{}{Deve andare ora.}
-{134}{}{Sei prigioniera qui?}
+{134}{}{Sei un prigioniero?}
 {135}{}{I deathclaw ti trattano bene?}
 {136}{}{Vorresti andartene dal vault?}
 {137}{}{Allora, dimmi, Ariel: perche' sei cosi' triste?}

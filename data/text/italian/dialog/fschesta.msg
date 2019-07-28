@@ -1,4 +1,4 @@
-{100}{}{Vedi un terminale di computer.}
+{100}{}{Vedi il terminale di un computer.}
 {101}{}{Vedi una postazione chimica.}
 {102}{}{Vedi una stazione di lavoro computerizzata.}
 {103}{}{Benvenuti. Siete pregati di inserire la password per confermare la vostra identita'.}
@@ -32,10 +32,8 @@
 {131}{}{Te ne vai.}
 {132}{}{[Il tuo approccio casuale fa' miracoli... sei entrato nel sistema!]}
 {133}{}{[AVANTI]}
-
 {134}{}{Il computer non risponde a nessun input.}
 {135}{}{Non trovi nessun posto dove metterlo.}
-
 {136}{}{Provi ad indovinare la password.}
 {137}{}{Inviare carburante alle tubature.}
 {138}{}{Destinazione richiesta.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Figyellek ám, idegen!}
 {101}{}{Azt hiszem, itt az ideje, hogy távozz!}
 {102}{}{Nem tetszik a tekinteted.}
@@ -9,7 +8,7 @@
 {107}{}{Még dolgom van. Elmegyek, amint végeztem.}
 {108}{}{Menni? NEM MENNI!}
 {109}{}{Biztos akarok lenni benne, hogy gond nélkül kijutsz a kapun. Kikísérlek.}
-{110}{}{Oké, mehetünk.}
+{110}{}{Okay. Let's go.}
 {111}{}{He?}
 {112}{}{Egyedül is kitalálok, ne rángass!}
 {113}{}{Sajnálom, de parancsom van. Ki kell, hogy kísérjelek.}
@@ -18,7 +17,7 @@
 {116}{}{[hozzád hajol]... Nézd! Nehéz nap volt ez a mai. Gyere szépen velem, és ne csináld a balhét, oké?}
 {117}{}{Oké. Indulhatunk.}
 {118}{}{Mássz ki az arcomból, seggfej!}
-{119}{}{Menedékváros mindenek felett, Polgártárs!}
+{119}{}{Menedékváros mindenek felett, Polgártárs.}
 {120}{}{Jó, hogy látlak, Polgártárs.}
 {121}{}{Mozgalmas nap ez a mai igaz, Polgártárs!}
 {122}{}{Csak ön után, Polgártárs!}
@@ -28,10 +27,9 @@
 {126}{}{Hat után el kell hagynod a várost!}
 {127}{}{Vigyázok a rendre.}
 {128}{}{Nem történt rendkívüli esemény, Kapitány.}
-#ez igy katonasabb egy kicsit
 {129}{}{Vigyázok a felszerelésre, Kapitány.}
-{130}{}{Menedékváros mindenek felett, Kapitány!}
-{131}{}{Jó napot, Kapitány!}
+{130}{}{Menedékváros mindenek felett, Kapitány.}
+{131}{}{Jó napot, Kapitány.}
 {132}{}{Hé te! Állj csak meg! Mit keres ez a ghoul itt, Menedékvárosban?!}
 {133}{}{Hé te! Állj csak meg! Mit keres ez a mutáns itt, Menedékvárosban?!}
 {134}{}{Állni meg?}
@@ -40,14 +38,13 @@
 {137}{}{Velem van.}
 {138}{}{Együtt utazunk, õ a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
 {139}{}{Együtt vagytok? Akkor velünk jöttök. Visszamegyünk Elõvárosba, ahová te, és ez az... izé... tartoztok.}
-{140}{}{Rendben. Békésen távozunk.}
+{140}{}{Rendben, békésen távozunk.}
 {141}{}{Azt próbáld meg! Garantálom, hogy megrázó élményben lesz részed.}
 {142}{}{Remek. Úgy tûnik, söpredék vagyunk. Rendben, kapisgálom. }
 {143}{}{Nagyon vicces.}
 {144}{}{Velünk jöttök. Visszakísérünk Elõvárosba, ahová te, és ez az... izé... tartoztok.}
 {145}{}{ÉN NEM MENNI! TE NEM BARÁT!}
 {146}{}{Megyünk... megyünk elfele... nem rángassa engemet.}
-#mashol is hasonlok vannak
 {147}{}{Rendben, békésen távozunk.}
 {148}{}{Õ a társam. Ha bármelyik seggfejnek baja van vele, rendezhetünk egy kis vérfürdõt!}
 {149}{}{Szóval a nehezebb utat választod? Remek. Õrség! Õrség!!}
@@ -56,7 +53,7 @@
 {152}{}{Hé! Õ az, aki legyõzte az Enklávét!}
 {153}{}{Gratulálok a hõstettedhez!}
 {154}{}{Üdvözlünk Menedékvárosban, népünk megmentõje!}
-{155}{}{Az Enklávé elleni harcod még az Elsõ Polgár figyelmét is felkeltette.}
+{155}{}{Az Enklávé elleni harcod nagy hatással volt még az Elsõ Polgárra is.}
 {156}{}{Úgy hallottam, hogy délrõl, San Franciscóból jöttél. Igaz ez?}
 {157}{}{Igaz, hogy az Egyesült Államok még mindig háborúban áll?}
 {158}{}{Készíthetnél egy szép listát az utazásaidról a menedékvárosi számítógépek számára.}

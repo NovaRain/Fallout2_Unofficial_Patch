@@ -1,12 +1,11 @@
 {100}{}{Vedi il tuo giovane cugino, Nagor. Non vedi da nessuna parte il suo cane, Smoke.}
 {101}{}{Conosci Nagor da quando e' nato e lo hai sempre aiutato, quando possibile.}
-{102}{}{Cugino, sono felice di vederti!  Mi serve il tuo aiuto.}
-{302}{}{Cugina, sono felice di vederti!  Mi serve il tuo aiuto.}
+{102}{}{Cugina, sono felice di vederti!  Mi serve il tuo aiuto.}
 {103}{}{Scusa, ma non ho tempo.}
 {104}{}{Cosa ti serve?}
 {105}{}{Allora me ne andro' nella foresta da solo!}
 {106}{}{Fermo li'... cosa ti serve?}
-{107}{}{Fallo pure.}
+{107}{}{Fallo.}
 {108}{}{Smoke e' scappato nei terreni di caccia e non e' ancora tornato e adesso Morlis non mi permette di
  andarlo a cercare. Dice che e' troppo pericoloso e che si tratta solo di un cane, ma io stavo per
  andarci comunque. Ma adesso che sei qui puoi farlo tu, cosi' evitero' di cacciarmi nei guai.}
@@ -34,27 +33,25 @@
 {127}{}{Grazie ancora. Spero che tu possa divertirti, durante il tuo viaggio!}
 {128}{}{Mi manca Smoke. Perche' non sei andato a cercarlo? Tu sei il Prescelto.}
 {129}{}{Sono occupato, stupido. Va' a giocare da qualche altra parte.}
-{130}{}{Vado.}
+{130}{}{Io vado.}
 {131}{}{Sto andando a cercare Smoke.}
-
-# new nodes for time limit
-{200}{}{Ciao, cugino... uh, voglio dire Prescelto. Spero tu abbia trovato il GECK. Ho sentito dire che
+{200}{}{Ciao, cugina... uh, voglio dire Prescelta. Spero tu abbia trovato il GECK. Ho sentito dire che
  ci aspettano tempi duri.}
 {201}{}{Ciao, cugina... uh, voglio dire Prescelta. Spero tu abbia trovato il GECK. Ho sentito dire che
  ci aspettano tempi duri.}
 {202}{}{Me ancora cercando, Nagor.}
-{203}{}{Sto ancora cercando, cugino.}
-{204}{}{Bentornato a casa, cugino. Qui le cose si sono fatte un po' piu' difficili. Hai trovato il
+{203}{}{I'm still looking, cousin.}
+{204}{}{Bentornata a casa, cugina. Qui le cose si sono fatte un po' piu' difficili. Hai trovato il
  sacro Tredici e il GECK?}
 {205}{}{Bentornata a casa, cugina. Qui le cose si sono fatte un po' piu' difficili. Hai trovato il
  sacro Tredici e il GECK?}
 {206}{}{Me no trovato. Scusa.}
 {207}{}{Mi dispiace, Nagor. Sto ancora cercando.}
-{208}{}{Salve, cugino. Immagino avrai notato che qui la situazione sta precipitando. Ti prego,
+{208}{}{Salve, cugina. Immagino avrai notato che qui la situazione sta precipitando. Ti prego,
  trova il GECK. Ne abbiamo disperato bisogno!}
 {209}{}{Salve, cugina. Immagino avrai notato che qui la situazione sta precipitando. Ti prego,
  trova il GECK. Ne abbiamo disperato bisogno!}
-{210}{}{Ciao, cugino.}
+{210}{}{Ciao, cugina.}
 {211}{}{Ciao, cugina.}
 {212}{}{Tu no sembrare come solito.}
 {213}{}{Sembri diverso.}
@@ -64,6 +61,5 @@
 {215}{}{Mi dispiace, cugina. La situazione e' peggiorata ulteriormente dall'ultima volta che sei stata
  qui. La gente e' malata, i brahmin stanno morendo e... io... il mio cane Smoke e' morto - Morlis l'ha
  cucinato. Mi manca tanto. Scusa, non ce la faccio a parlare...}
-
-
-{300}{}{Vedi Nagor.} 
+{300}{}{Vedi Nagor.}
+{302}{}{Cugina, sono felice di vederti!  Mi serve il tuo aiuto.}

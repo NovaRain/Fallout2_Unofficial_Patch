@@ -15,7 +15,7 @@
 {114}{}{Semmit, bocsánat.}
 {115}{}{Igen, gyermekem?}
 {116}{}{Hinchoaf? [Ért engem?]}
-{117}{}{Aaga digle dúdle dú! [Ó, hála az égnek. A népemet keresem. Át kell kelnem a nagy vízen.]}
+{117}{}{Aagga diggle doodle doo! [Ó, hála az égnek. A népemet keresem. Át kell kelnem a nagy vízen.]}
 {118}{}{Kakis gatya! [Hát, köszönöm, hogy meghallgat. Most rohannom kell. Öröm volt magával beszélni.]}
 {119}{}{Egy szót sem értek abból, amit mond. Talán meg kéne látogatnia Juan-t vagy Vikkit egy kis behangolás ügyében.}
 {120}{}{Köfi!}
@@ -24,7 +24,7 @@
 {123}{}{B-b-b-enny [Semmi-semmi, köszönöm. Nagyon örülök, hogy beszélhettünk. Viszlát!]}
 {124}{}{Ha beleegyezik, hogy megtesz nekem egy szívességet, segítek magán, gyermekem.}
 {125}{}{Oik? [Mi lenne az? Szíves-örömest segítenék.]}
-{126}{}{Nem-nem!}
+{126}{}{Nem!}
 {127}{}{Az ellenlábasom, a Shi város Uralkodója, megkeseríti az életemet. Szeretném, ha pontot tenne erre. Cserébe lehetõvé teszem, hogy eljusson oda, ahová szeretne.}
 {128}{}{Ays! [Megteszem.]}
 {129}{}{Nem!}
@@ -92,16 +92,16 @@
 {191}{}{Ne fogja vissza magát!}
 {192}{}{Várjon, meggondoltam magam!}
 {193}{}{Túl késõ, Pép! Bebizonyította, hogy nem bízhatunk magában! Most meghal!}
-{194}{}{-kész-}
+{194}{}{[DONE]}
 {195}{}{Gyermekem, vannak dolgok, amit magának nem kell tudnia. [Nyájasan mosolyog hozzá.]}
 {196}{}{Rendben van. Viszont kérdeznék egy s mást.}
 {197}{}{Hm. Viszlát!}
 {198}{}{Amint jól állnak a csillagok, az ESS Quetzel rögtön startol. }
 {199}{}{Jól van, jól! Még kérdeznék valamit.}
-{200}{}{Köszönöm. Viszlát!}
+{200}{}{Kösz. Viszlát!}
 {201}{}{Összezavart aurája arról árulkodik nekem, hogy nem jó szándékkal érkezett. Mondja meg, gyermekem, akar-e profitálni a vakmerõségébõl?}
-{202}{}{Igen, miért ne.}
-{203}{}{Nem akarok.}
+{202}{}{Igen.}
+{203}{}{Nem.}
 {204}{}{Nem, egyszerûen csak megölöm magát!}
 {205}{}{Akkor íme az ajánlatom: térjen vissza a Shik közé, ölje meg Ken Leet és az Uralkodót! Annyi pénzt adok magának, amennyirõl csak álmodozhatott egész életében.}
 {206}{}{Nem, nem hinném}

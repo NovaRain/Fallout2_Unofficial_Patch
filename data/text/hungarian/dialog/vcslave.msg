@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy férfit látsz munkaruhában. Tekintetét mereven a földre szegezi.}
 {101}{}{Egy menedékvárosi szolgát látsz.}
 {102}{}{Egy férfit látsz munkaruhában. Tekintetét mereven a földre szegezi.}
@@ -31,14 +30,14 @@
 {129}{}{Kérlek, hagyj magamra! Menedékváros egyik szolgája vagyok.}
 {130}{}{Könyörgöm, nem láttál két sötét hajú gyermeket? Két éve vitték el õket északra a rabszolga-kereskedõk.}
 {131}{}{Sajnálom... nem beszélhetek senkivel.}
-{132}{}{Ha egy Polgár meglát, hogy egy rabszolga-kereskedõvel beszélgetek, megbüntetnek.}
+{132}{}{Ha egy Polgár meglát, hogy egy rabszolga-hajcsárral beszélgetek, megbüntetnek.}
 {133}{}{Az õrök feljelentenek, ha továbbra is beszélsz hozzám.}
 {134}{}{Nem beszélhetek veled. Kötelességeim vannak.}
 {135}{}{Kérlek, menj el, rabszolga-kereskedõ! Nem akarok bajt.}
 {136}{}{Megszökni? Én sose próbáltam megszökni. Jó itt nekem.}
 {137}{}{Azt mondták, ha elég keményen dolgozom, egy nap belõlem is lehet Polgár.}
 {138}{}{A Polgárok azt tanították, a munka maga a jutalom.}
-{139}{}{A Polgárok azt mondták, hogy a munkánk lehetõvé teszi számukra, hogy sokkal fontosabb dolgokkal foglalkozhassanak.}
+{139}{}{A Polgárok azt mondták, hogy a munkánk lehetõvé teszi a számukra, hogy sokkal fontosabb dolgokkal foglalkozhassanak.}
 {140}{}{Szerencsés vagyok, hogy Menedékvárosnak szolgákra volt szüksége. Akár New Renóban is végezhettem volna.}
 {141}{}{A szorgalmasan dolgozó szolgákat Menedékváros extra fejadaggal jutalmazza.}
 {142}{}{Azt hallottam, hogy rettenetes dolgokat mûvelnek a rabszolgákkal New Renóban.}

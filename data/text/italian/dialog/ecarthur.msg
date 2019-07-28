@@ -35,7 +35,6 @@
 {134}{}{Dal momento che ne avete due, magari potreste darne uno a me.}
 {135}{}{No. No. Non ci e' permesso farlo. Non sarebbe giusto farvi concludere la vostra missione cosi' facilmente. Andate a prendervelo da solo. [Indica la stessa direzione che avevi indicato tu quando gli hai detto dove si trovava la Sacra Granata di Antiochia.]}
 {136}{}{[FINE]}
-
 {200}{}{Parlate voi la lingua del re?}
 {201}{}{Ehilaaaa'.}
 {202}{}{Ehi, sono qui.}
@@ -43,5 +42,4 @@
 {204}{}{Ahem.}
 {205}{}{Eddai! Non ignorarmi.}
 {206}{}{Ti preeeeeeego! Devo chiederti una cosa importante.}
-
 {207}{}{Adesso dobbiamo continuare la nostra missione alla ricerca della Sacra Granata di Antiochia. Vieni, Patsy.}

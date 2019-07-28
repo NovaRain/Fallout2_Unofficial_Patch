@@ -1,5 +1,4 @@
-# Dialog Editor last position: 1
-{100}{}{Ez a nõ a Korzikai Testvérek egyik testõre.}
+{100}{}{Õ a Korzikai Testvérek egyik testõre.}
 {150}{}{A nõ igen szívós ember benyomását kelti, és zöld taréjt hord. Géppisztolyát úgy babusgatja, mint egy kisbabát.}
 {151}{}{Õ a Korzikai Testvérek egyik testõre.}
 {200}{}{Megmentetted a világot? Hogy oda ne tipegjek!}

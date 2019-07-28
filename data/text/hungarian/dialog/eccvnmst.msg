@@ -1,44 +1,19 @@
 {100}{}{Õ a Karavánmester.}
 {101}{}{A Teremtõnek hála, itt vagy, amikor szükség van rád. Úgy tûnik, egyre rizikósabb eljutni az egyik helyrõl a másikra anélkül, hogy meg ne támadnának.}
-{102}{}{Mit tehetek érted?}
-{103}{}{Hova tartotok?}
-{104}{}{Mi a szállítmány?}
-{105}{}{Üdv!}
-{106}{}{Ug.}
+{102}{}{Miben segíthetek?}
+{103}{}{Merre tartotok?}
+{104}{}{Mi a szállítmányotok?}
+{105}{}{Viszlát!}
+{106}{}{Ah...}
 {107}{}{A rakományt }
 {108}{}{ megbízásából pakoltam fel, a célpontunk pedig nem más, mint }
-{109}{}{.}
-
-# Town Names
-{198}{}{New Reno}
-{199}{}{Rejtek}
-{200}{}{Arroyo}
-{201}{}{Redding}
-{202}{}{Menedékváros}
-{203}{}{az ÚKK}
-{204}{}{Broken Hills}
-{205}{}{Gekkó}
-{206}{}{San Francisco}
-{207}{}{Modoc}
-{208}{}{Klamath}
-{209}{}{a 15-ös Menedék}
-
-{110}{}{Mit szállítotok?}
+{109}{}{ vagyok.}
+{110}{}{Mi a szállítmányotok?}
 {111}{}{Viszlát!}
 {112}{}{A szállítmány }
-
-# Cargo for the Caravan
-{150}{}{gyógyszerekbõl áll.}
-{151}{}{tartalma aranyérc.}
-{152}{}{tartalma uráncérc.}
-{153}{}{nem más, mint egy halom mezõgazdasági termék.}
-{154}{}{nagyrésze drog.}
-{155}{}{néhány rabszolga.}
-{156}{}{csupa hasznos kis holmi.}
-
 {113}{}{Esetleg csereberélhetnénk?}
 {114}{}{Merre tartotok?}
-{115}{}{Üdv!}
+{115}{}{Viszlát!}
 {116}{}{Hát, nem is tudom, miért ne tehetnénk, hiszen segítettél rajtunk a balhéban. Szóval, miért ne... íme a választék.}
 {117}{}{[Cserebere]}
 {118}{}{Meggondoltam magam.}
@@ -52,7 +27,7 @@
 {126}{}{Viszlát!}
 {127}{}{Már hallottam rólad. Te vagy az a kemény figura, akinek a balhéiról ódákat zengedeznek. Régóta akarok már találkozni veled, hogy megrázhassam a kezed. Ha arra a számos vérfagyasztó pletykára gondolok, ami rólad szól, könny szökik a szemembe. Nagy megtiszteltetés lenne, ha üzletelnél velem.}
 {128}{}{[Cserebere]}
-{129}{}{Viszlát!}
+{129}{}{Csá...}
 {130}{}{Azt rebesgetik, hogy egy hozzád hasonló alak sok bajt kevert mostanában. A magadfajtákkal nem szoktunk üzletelni. Bocs...}
 {131}{}{Nem tudom, miért köröznek téged, és nem is igazán érdekel. A magadfajtákkal nem szoktunk üzletelni.}
 {132}{}{Miért nem boldogítasz másokat? }
@@ -61,7 +36,25 @@
 {135}{}{Merre tartotok?}
 {136}{}{Mi a szállítmányotok?}
 {137}{}{Viszlát!}
-{138}{}{Úg.}
+{138}{}{Ah...}
 {139}{}{Ez... remek. Szép napot... }
-
+{150}{}{gyógyszerekbõl áll.}
+{151}{}{tartalma aranyérc.}
+{152}{}{tartalma uráncérc.}
+{153}{}{nem más, mint egy halom mezõgazdasági termék.}
+{154}{}{nagyrésze drog.}
+{155}{}{néhány rabszolga.}
+{156}{}{csupa hasznos kis holmi.}
+{198}{}{New Reno}
+{199}{}{Rejtek}
+{200}{}{Arroyo}
+{201}{}{Redding}
+{202}{}{Menedékváros}
+{203}{}{az ÚKK}
+{204}{}{Broken Hills}
+{205}{}{Gekkó}
+{206}{}{San Francisco}
+{207}{}{Modoc}
+{208}{}{Klamath}
+{209}{}{a 15-ös Menedék}
 {300}{}{Kösz, hogy üzletelhettünk.}

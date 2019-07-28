@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Az illetõnek rendesen megégett a bõre. Úgy tûnik, õrszolgálatot lát itt el.}
 {101}{}{Ezt a ghoult szemlátomást õrnek osztották be ide.}
 {102}{}{Az illetõnek rendesen megégett a bõre a sugárzástól. Ekkora dózistól rendszerint bárki meghalna, de õ egész jól elvan. Ha minden igaz, õrszolgálatot lát el.}
@@ -38,7 +37,7 @@
 {160}{}{Tartsd nyitva a szemed!}
 {161}{}{Légy üdvözölve az irányító részlegben.}
 {162}{}{Ne nyúlj semmihez!}
-{163}{}{Ha valami tönkremegy, ne csodálkozz, ha téged veszünk elõ!}
+{163}{}{If something goes wrong in there, we'll come looking for you.}
 {164}{}{Ha csak egyetlen probléma is felmerül... téged teszünk felelõssé.}
 {170}{}{Elég meglepõ, hogy egy hozzád hasonló simabõrût itt látunk.}
 {171}{}{Látom, le szeretnél barnulni itt egy kicsit.}

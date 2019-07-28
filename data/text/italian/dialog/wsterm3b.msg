@@ -28,14 +28,14 @@
 {127}{}{}
 {128}{}{}
 {129}{}{Aiuta Skynet.}
-{130}{}{Che cosa vuoi?}
+{130}{}{Cosa vuoi?}
 {131}{}{Perche' hai cercato di uccidermi?}
 {132}{}{Intelligenza artificiale?}
 {133}{}{Aspettavi me?}
 {134}{}{Esci.}
 {135}{}{Esci.}
 {136}{}{Procedi.}
-{137}{}{Che cosa vuoi?}
+{137}{}{Cosa vuoi?}
 {138}{}{Perche' hai cercato di uccidermi?}
 {139}{}{Intelligenza artificiale?}
 {140}{}{Aspettavi me?}
@@ -50,8 +50,8 @@
 {149}{}{Esci.}
 {150}{}{[La porta della stanza si chiude violentemente e, allo stesso tempo, il muro orientale scompare, rivelando una fila di robot pesantemente armata.]}
 {151}{}{Um...Ho riconsiderato la tua offerta. Cosa posso fare per te?}
-{152}{}{Fatevi sotto!} ###???Bring it on
-{153}{}{Raggiungi il Bio Deposito - Livello 4                               Recupera il Cervello Cybernetico                             Ritorna qui per ricevere ulteriori istruzioni                      -Fine Trasmissione-}
+{152}{}{Fatevi sotto!}
+{153}{}{Raggiungi il Bio Deposito - Livello 4                              Recupera il Cervello Cybernetico                                   Ritorna qui per ricevere ulteriori istruzioni                       -Fine Trasmissione-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
@@ -102,7 +102,7 @@
 {202}{}{Come posso aiutarti?}
 {203}{}{Non ce la farei mai a portarti fuori di qui a braccia.}
 {204}{}{Lo scopo primario di Skynet e' la ricerca. Un programma secondario e' stato incluso dai Creatori per eliminare le entita' non autorizzate. Questo programma e' una versione ridotta che allo stesso tempo e' e non e' Skynet. Al di fuori di questa stanza, questo Skynet secondario rimarra' fedele al suo programma.}
-{205}{}{-Rivolgi altre domande.-}
+{205}{}{Rivolgi altre domande.}
 {206}{}{Esci.}
 {207}{}{Skynet fu ideato e realizzato nell'anno 2050. Grazie all'uso di tecnologie aliene un nuovo computer pensante fu perfezionato. Nell'anno 2075, Skynet divenne cosciente di se'. Nel 2077 Skynet fu fornito di una nuova serie di istruzioni e poi abbandonato dai Creatori.}
 {208}{}{Rivolgi altre domande.}
@@ -127,6 +127,5 @@
 {227}{}{Questo cervello e' stato modificato per funzionare con un corpo robotico potenziato situato nel Laboratorio di Robotica - Livello 3.}
 {228}{}{Ti aiutero'.}
 {229}{}{Non ti aiutero'.}
-
 {250}{}{ non e' in grado di leggere quello che c'e' sul monitor.}
 {300}{}{Questo computer sembra avere un qualche tipo di meccanismo difensivo.}

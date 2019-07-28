@@ -37,8 +37,8 @@
 {136}{}{Van haszna, hogy ekkora gyökér vagy?}
 {137}{}{Feláldoztad a mi kis Chippie-nket, ugye?}
 {138}{}{Szegény Chip.}
-{139}{}{Nézzétek már, itt jön az úgynevezett "hõs"!}
-{140}{}{Idefigyuzzatok! Itt van az az önzõ seggfej!}
+{139}{}{Nézzétek már, itt jön a kis "hõs"!}
+{140}{}{Hé, emberek! Ez az ember egy önzõ seggfej!}
 {141}{}{Mostantól nemigen fog veled beszélni senki.}
 {142}{}{Chip-gyûlölõ!}
 {143}{}{Tehetek érted valamit? Nem tenném az ablakba!}
@@ -51,7 +51,7 @@
 {150}{}{Szép munka volt visszaszerezni a lépet!}
 {151}{}{Hahó... itt a hõs, aki "lépre" ment. Hehe.}
 {152}{}{Nem tudtam, hogy lépben játszanak.}
-{153}{}{Kösz, hogy megmentetted Chip barátunkat!}
+{153}{}{Kösz, hogy megmentetted Chipet!}
 {154}{}{Hé, Chip kedvence!}
 {155}{}{Mindannyian örülünk Chip miatt.}
 {156}{}{Kösz, hogy megmentetted Chipet!}

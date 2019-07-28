@@ -1,4 +1,3 @@
-# Dialog Editor last position: 50
 {100}{}{Egy szomorú, idõsebb ember.}
 {101}{}{Dave, alias "Mr. Depresszió".}
 {102}{}{Egy mogorva, idõsebb embert látsz, aki a korai hatvanas éveit tapossa. Olyan képet vág, mint aki lócitromba harapott.}
@@ -12,7 +11,7 @@
 {110}{}{Mindegy. Most jut eszembe, nekem valahol máshol kéne lennem.}
 {111}{}{Az élet szemét... fõleg velem.}
 {112}{}{Öö... én most menni el.}
-{113}{}{Például?}
+{113}{}{Úgymint?}
 {114}{}{Jó hozzáállás. Mire fel?}
 {115}{}{Valahol máshol akarok lenni.}
 {116}{}{Két hónappal korábban születtem, mint kellett volna. Egy évesen leejtettek a tornácra. Két évesen tüdõgyulladásom volt. Három évesen bárányhimlõt kaptam. Négy évesen leestem a lépcsõrõl, és hat bordám eltört. Öt éves koromban a nagybátyámat lefejezte egy dinnye. Hat évesen a szüleim fejbe vágtak egy ásóval. Hét évesen a jobb mutatóujjamat leharapta a patkányom.}
@@ -38,7 +37,7 @@
 {136}{}{ELÉG! Ne tovább! Nem akarom tudni!}
 {137}{}{Ó, üdv! Mit tehetek magáért?}
 {138}{}{Öö, mi történt magával?}
-{139}{}{Sajnálom, én menek.}
+{139}{}{Bocs, én megy.}
 {140}{}{Azon gondolkoztam, elmondaná-e még egyszer a történetét?}
 {141}{}{Egy pillanat, összekevertem valakivel.}
 {142}{}{Végre, eljött az én idõm. Most meg fog ölni?}
@@ -46,6 +45,13 @@
 {144}{}{Nem.}
 {145}{}{Nyolc éves koromban a kutyámat, Tüsit elütötte egy traktor. Kilenc éves koromban az anyám karját leharapta egy veszett brahmin. Tíz éves koromban a nõvéremet széttépte egy falka kutya. Tizenegy éves koromban a nagyapám öngyilkos lett, mert ronda voltam. Tizenhárom éves koromban az apám részegségében kiszúrta a saját szemét egy villával.}
 {146}{}{Tizenhét éves koromban levágtam egy kapával a nagylábujjamat. Tizennyolc éves koromban az apám lábát levágta ugyanaz a traktor, amelyik a kutyámat ütötte el. Tizenkilenc éves koromban...}
-{147}{}{Tehát ott ültem a sivatagban, várva, hogy végleg megszûnjek létezni, mikor egy falka halálkarom tûnt fel. Na, gondoltam, eljött az idõ. Egy rakás halálkarom-szarként fogom végezni a sivatagban. De nem... a sors folytatta kegyetlen játékát ellenem.}
-{148}{}{Amint látja, a halálkarmok nem öltek meg. Helyette vizet adtak, ide hoztak, megkaptam ezt a szobát, adtak ennem, megmosdattak, és most nem engednek távozni. Szerintem azért hízlalnak, hogy bevégezzem ismeretlen, szörnyû sorsomat. Hiába mondom nekik, hogy soványabban finomabb lennék. Csak mosolyognak, már ha annak lehet nevezni, és megpaskolva a fejemet azt mondják: "Ne aggódj, ember, jobbra fordul a sorsod". Hah! Mindketten tudjuk, mit jelent ez.}
+{147}{}{Well, there I was sitting in the desert, waiting for the world to swallow my miserable existence,
+ when a pack of Deathclaws shows up. Well, I'm thinking to myself, this is it. Now I can die. I can wind up
+ as a pile of Deathclaw shit in the middle of the desert. But no... fate had yet another cruel
+ card to play against me.}
+{148}{}{You see, the Deathclaws didn't kill me. Instead they gave me water, brought me here, gave me
+ this room, gave me food, cleaned me up, and now they won't let me leave. I know they're fattening me up
+ for some unknown, horrible fate. I keep telling them that I would probably taste better if I was
+ leaner, but it does no good. They just smile -- if you can call it that -- and pat me on the head and
+ say 'Don't worry, human, things will get better.' Ha! We both know what that means.}
 {149}{}{Mindenesetre, hogy még rosszabb legyen, valamiféle gyógykezelés alá vettek. Eléggé felfújt, úgyhogy abbahagytam... Milyen igazam volt! Azt hiszem, valami "tudat-befolyásoló" pirula volt, mert valahogy szebbnek láttam tõle a világot! Hát, ennyit errõl. Csak arra várok, hogy a halálkarmok felszabdalt, megpörkölt testembõl lakomázzanak.}

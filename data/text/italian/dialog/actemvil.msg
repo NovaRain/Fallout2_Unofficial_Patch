@@ -1,11 +1,11 @@
 {100}{}{Vedi Cameron, un tuo compagno.}
 {101}{}{Vedi Cameron.}
-{102}{}{Vedi un giovane con grossi muscoli e che ha l'aria di essere molto sicuro di se'.}
-{103}{}{Salve, }
+{102}{}{Vedi un giovane con dei grossi muscoli e che sembra essere molto sicuro di se'.}
+{103}{}{Bentornato, }
 {104}{}{. Ho l'onore di essere la tua sfida finale. Per continuare la tua missione dovrai sconfiggermi in un combattimento a mani nude. Possiamo cominciare?}
 {105}{}{Me ha domande.}
 {106}{}{Okay, noi combattere.}
-{107}{}{No, me prima prepara.}
+{107}{}{No, me prima preparare.}
 {108}{}{Ho delle domande da farti.}
 {109}{}{Certo, cominciamo pure.}
 {110}{}{Penso di aver bisogno di un attimo per prepararmi.}
@@ -26,11 +26,11 @@
 {125}{}{Capisco.}
 {126}{}{No, amico mio, devi solamente battermi. Quando sara' opportuno, fermeremo il combattimento.}
 {127}{}{Me capisce.}
-{128}{}{Tutto chiaro.}
+{128}{}{Okay.}
 {129}{}{Si'. Le armi tendono a distanziarci dalla lotta e desensibilizzano l'effetto delle nostre azioni contro gli altri. Quando colpisci un altro essere umano col tuo pugno nudo, entrambi potete vedere e sentire gli effetti del dolore da te causato. A questo punto, la lotta diventa molto personale e assolutamente reale. Questa e' una lezione importante per te, }
 {130}{}{.}
-{131}{}{Me capire.}
-{132}{}{Ho capito.}
+{131}{}{Me capito.}
+{132}{}{Capisco.}
 {133}{}{Molto bene. Possiamo iniziare?}
 {134}{}{Me pronto.}
 {135}{}{No, me prima preparare.}
@@ -68,13 +68,10 @@
 {170}{}{Hmm... Capisco quello che vuoi dire. Tuttavia dobbiamo combattere lo stesso. Staro' semplicemente attento a non farti troppo male.}
 {171}{}{Grazie! Ci vediamo al villaggio.}
 {172}{}{Capisco.}
-
 {200}{}{Non mi pare di ricordare il nostro ultimo scontro, Prescelto. Continuero' per sempre a domandarmi come tua abbia fatto a superarmi senza che io me ne accorgessi.}
 {201}{}{La tua eloquenza e' senza pari, Prescelto. La tua abilita' con le parole ti aprira' molte porte.}
-
 {300}{}{E anche a te, Prescelto. Possano gli spiriti guidarti nella tua missione.}
 {301}{}{Grazie, Cameron.}
-
 {302}{}{Prescelto, non posso fare a meno di notare la tua mancanza di tecniche di combattimento adeguate. Guardando alle mie esperienze passate, posso dirti che non si puo' sempre contare sulla propria arguzia o sulle parole per difendersi. Col tuo permesso ti insegnero' un paio di cose che penso troverai molto utili.}
 {303}{}{Si', tu insegnare.}
 {304}{}{No, me no bisogna.}

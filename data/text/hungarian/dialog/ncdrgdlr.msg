@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {150}{}{A férfi gyûrött ruhát visel. Idõnként megvakarja az orrát és ide-oda leseget.}
 {151}{}{A fickó drogdíler.}
 {152}{}{Õ egy drogdíler. Úgy tûnik, épp kuncsaftokra hajt.}
@@ -10,11 +9,11 @@
 {205}{}{Olyan cuccom van énnekem, amitõl az egekig repülsz, te kis hõs!}
 {206}{}{Tapasztalt vagy már?}
 {207}{}{Hõsöm, ha az agyadat akarod kenegetni, gyere üzleteljünk. Neked az összes szaromat olcsóbban adom.}
-{208}{}{Tudom, hogy csak barátot keresel. Nálam megtalálod. Úgy hívják, Jet.}
-{209}{}{Miért sétálsz, amikor repülhetnél is?}
+{208}{}{Én tudom, mi után kajtatsz, barátom, és nálam meg is találod. Bármennyi Jet is kelljen, nálam megkapod.}
+{209}{}{Miért sétálsz, ha repülhetnél is?}
 {210}{}{Én árulom a legtisztább Jetet a városban. Nem olcsó, de az utolsó szemig megéri a pénzét.}
 {211}{}{Repülni szeretnél? Pénzed van? Akkor gyere hozzám!}
-{212}{}{Van egy-két cuccosom, amitõl az egekig fogsz szárnyalni, barátom.}
+{212}{}{Olyan anyagom van, amitõl elszállsz az égbe, barátom.}
 {213}{}{Teli vagyok Jettel, és még annál is több Jetem van. Nézd csak meg!}
 {214}{}{Csak mondd meg, miben segíthetek, hõsöm! Mondd el, mire van szükséged, és én a legjobb áron hozzájuttatlak.}
 {215}{}{Szóval egy kis Jettel szeretnél ünnepelni, hõsöm? A legjobb helyen jársz. Csak neked mindenbõl a jobbat adom.}
@@ -22,7 +21,7 @@
 {217}{}{Az Enklávé lenyomása után nincs is jobb egy jó kis Jetnél, mi? Igazam van? Az árumból a legjobbat adom neked.}
 {218}{}{A nálam lévõ anyagtól felszállsz a mennybe, hõsöm! Neked külön árengedményt adok. Jól hangzik?}
 {219}{}{Cukorka van?}
-{220}{}{Otthagyod}
+{220}{}{Elpályázol}
 {221}{}{Mid van?}
 {222}{}{Most semmit nem akarok, kösz.}
 {230}{}{Hé, hé... egy igazi nagysággal állok szemben. Számodra, barátom, a legjobbat adom mindenbõl. Mondd el a barátaidnak is, rendben?}

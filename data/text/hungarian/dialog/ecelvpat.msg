@@ -1,6 +1,4 @@
 {100}{}{Ez itt egy Enklávés Járõr.}
-
-# Floats if PC is male
 {200}{}{Maga illegális behatoló az Enklávé területén. A 312-es Ajánlás szerint helyben le kell lõjük. Sajnálom, fiam!}
 {201}{}{Ez egy mutáns kém! Végezni vele!}
 {202}{}{Én, mint az Enklávé hûséges katonája, parancsot kaptam, hogy öljem meg magát. Remélem, nincs ellene kifogása...}
@@ -8,12 +6,7 @@
 {204}{}{Gondolom, most azt akarja beadni nekem, hogy egy víztisztító chipet keresgél. Ne nézzen hülyének! Elkapni!}
 {205}{}{Meghalsz, te puszta mocska!}
 {206}{}{A maga rohadt fajtája pusztította el ezt az egykor virágzó nemzetet. Most megfizet ezért!}
-#Az enklavesok ugy tuskok, hogy erdemes mindig magazodniuk (Bass)
-
-
 {207}{}{Hé, Louie! Láttad már valaha, mit csinálnak a kis kedvenceink az élõ, lágy szövettel? Hát, akkor figyelj jó erõsen!}
-
-# (Floats if PC is female)
 {300}{}{A jó életbe, utálok nõket gyilkolászni! Essünk túl rajta gyorsan!}
 {301}{}{Riadó! Riadó!}
 {302}{}{Úgy látszik, jó nagy utat tett meg a semmiért, hölgyem.}

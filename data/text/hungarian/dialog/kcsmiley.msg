@@ -1,4 +1,3 @@
-# Dialog Editor last position: 76
 {100}{}{Egy koszos prémvadászt látsz, akinek a ruhája szakadt és véres. Kicsit sántít az egyik lábára.}
 {101}{}{Smileyt a prémvadászt látod. Csöppet biceg és gondterhelt.}
 {102}{}{Õ Smiley, a prémvadász. Sokkal jobban néz ki, mióta megmentetted a barlangból.}
@@ -6,7 +5,7 @@
 {104}{}{Smileyt, a prémvadászt látod. Sokkal egészségesebb, mióta kiszabadítottad a gekkók karmai közül.}
 {110}{}{Üdvözöllek idegen. Smiley a nevem. Örülök, hogy látlak, nélküled már biztos halott lennék! Túlságosan lesérültem, hogy egyedül túljussak azokon a gyíkokon.}
 {111}{}{Smiley, he-he-he. Okké.}
-{112}{}{Mit csinálsz errefelé?}
+{112}{}{Mit csinálsz itt?}
 {113}{}{Örülök, hogy találkoztunk, Smiley, de most már mennem kell.}
 {120}{}{Remek. Újabb Torr. Nekem (magára mutat) szükségem van rád (rád mutat), hogy kijussak innen (ujjaival járást mutogat).}
 {121}{}{Menni? Most? Okké.}
@@ -33,8 +32,9 @@
 {191}{}{Persze, csatlakozz nyugodtan! Biztonságban visszajuttatlak Klamathba, Ardin biztos örülni fog.}
 {192}{}{Hát, rendben, de ne nyafogj állandóan segítségért!}
 {200}{}{Ez a barlang úgy néz ki, mint egy háború elõtti raktár. Kell lennie még egy szintnek, de van valami francos elektromos lakat az ajtón. Mindegy, nekem elegem van ebbõl a helybõl, lépjünk innen.}
-{201}{}{Oké.}
-{210}{}{Gyere majd át Bucknerhez és kapsz valami jutalmat!}
+{201}{}{OKÉ.}
+{210}{}{Whew. I think I just used up some lives that time around. Why don't you come over to the
+ Buckner place a little later on and I'll make sure you get a nice reward for saving me.}
 {211}{}{Kösz, Smiley. Szívesen tettem. Viszlát!}
 {212}{}{Oké, persze. Viszlát!}
 {213}{}{Már attól féltem, megfeledkezel a jutalomról. Remélem, elég nagy lesz. Viszlát!}
@@ -66,12 +66,12 @@
 {270}{}{Szóval a helyzet a következõ: az aranygekkó és a sima gekkók alapvetõen ugyanolyanok, kivéve, hogy az aranygekkók sokkal megátalkodottabbak... (az idõ lassan telik, miközben egyre többet tudsz meg a gekkókról)}
 {271}{}{Ez remek volt. Úgy érzem, már rengeteget tudok a gekkókról. Kösz szépen, viszlát!}
 {280}{}{Maida Buckner, az özvegy Bucknerné lánya. Vele kell beszélned, ha pletykákat akarsz hallani.}
-{281}{}{Hadd kérdezzek valami mást!}
+{281}{}{Hadd kérdezzek valami mást akkor.}
 {282}{}{Aha, értem. Kösz. Viszlát!}
 {290}{}{Az özvegy Bucknerné annyira örül nekem, hogy talán hamarosan Smiley-né lesz belõle. Még azt is említette, hogy szeretne neked adni valamit, amiért megmentetted a seggem abból a barlangból.}
 {291}{}{Gratulálok nektek. Hadd kérdezek valamit!}
 {292}{}{Ez csodás! Megyek is, beszélek vele. Viszlát!}
 {300}{}{Hé, kösz hogy megmentetted a szaros seggem. Jobb, ha visszahúzok Klamathba gyorsan. Ott találkozunk!}
 {310}{}{Ne aggódj, innen már egyedül is hazatalálok.}
-{320}{}{}
-{330}{}{ TP-t kapsz Smiley megmentéséért.}
+{320}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{330}{}{ experience points for rescuing Smiley.}

@@ -1,3 +1,2 @@
 {100}{}{Ezt egy szupermutánson kéne használnod.}
-{101}{}{}
-{102}{}{ tapasztalati pontot kapsz a szérum kipróbálásáért.}
+{101}{}{You used the Mutagenic Serum.}

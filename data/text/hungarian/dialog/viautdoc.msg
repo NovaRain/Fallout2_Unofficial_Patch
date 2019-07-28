@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy Auto-dokit látsz.}
 {101}{}{Egy rozoga Auto-dokit látsz. Kora ellenére jól mûködik, hála a hathatós segítségednek.}
 {102}{}{Egy Auto-dokit látsz.}

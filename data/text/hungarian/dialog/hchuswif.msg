@@ -9,10 +9,9 @@
 {108}{}{**Pfffffffffttt**}
 {109}{}{Zaius aszondja, hogy jövõ hónapban kapok munkát a bányánál.}
 {110}{}{Ezt a rohadt rendetlenséget! Mikor fogsz takarítani, asszony?}
-{111}{}{Mit okoskodsz annyit, asszony!}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{Szeretlek, édesem.}
 {113}{}{Akarsz egy sallert, asszony?}
-
 {140}{}{Csináld meg magadnak a rohadt pitédet, te lusta disznó!}
 {141}{}{...(morog) annyi borsot rakok rá, amennyit csak akarok (morog)... }
 {142}{}{Mostam a mocskos ruháidat a kútnál, ahogy mindig!}
@@ -23,6 +22,5 @@
 {147}{}{Valakinek okosnak is kell lennie a házban!}
 {148}{}{Én is szeretlek, dagimaci.}
 {149}{}{Mi van, már megint udvarolni próbálsz!}
-
 {200}{}{Mi a fenét akarsz? Tûnj a házamból, picikém!}
 {201}{}{Esküszöm, egyszer fogom magam és elmegyek innen. Mihez fog kezdeni akkor ez a lusta disznó?}

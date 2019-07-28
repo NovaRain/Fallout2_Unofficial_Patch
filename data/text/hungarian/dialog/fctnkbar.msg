@@ -1,4 +1,4 @@
-{100}{}{Csapos.}
+{100}{}{Õ a csapos.}
 {101}{}{Õ Slim, a csapos.}
 {102}{}{Ez az ember csapos. Kötényt visel és egy poharat tart a kezében. Folyamatos köpködés és egy mocskos törülközõ segítségével egyfolytában törölgeti. Az a fajta fickó, akit senkitõl nem veszi be a maszlagot.}
 {103}{}{Slim vagyok. Mit szeretnél?}
@@ -6,7 +6,7 @@
 {105}{}{Mid van?}
 {106}{}{Nem, én menni.}
 {107}{}{Információt szeretnék.}
-{108}{}{Hogyne, mutasd, mid van!}
+{108}{}{Show me what you've got.}
 {109}{}{Semmit, inkább megyek.}
 {110}{}{Szóval információt? Én nem vagyok könyvtár és ez a hely nem számítógép-terem. Igyál vagy tûnj innen! Adjak piát vagy sem?}
 {111}{}{Igen.}
@@ -17,7 +17,7 @@
 {116}{}{Ez neked van?}
 {117}{}{Igen.}
 {118}{}{Nem.}
-{119}{}{Akkor viszlát!}
+{119}{}{Akkor késõbb.}
 {120}{}{}
 {121}{}{Oké.}
 {122}{}{Üdv minálunk. Kéne egy kis pia?}
@@ -26,6 +26,6 @@
 {125}{}{Zárva vagyok. Menj el!}
 {126}{}{}
 {127}{}{Oké.}
-{128}{}{Neked nem vagyok nyitva. Tûnés innen!}
+{128}{}{Számodra én nem vagyok nyitva! Takarodj a boltomból!}
 {129}{}{}
 {130}{}{Oké.}

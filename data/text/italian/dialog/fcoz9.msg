@@ -10,7 +10,7 @@
 {109}{}{Ho molte domande per lei, AHS-9.}
 {110}{}{L'Illuminata di NCR mi ha chiesto di consegnarle una lettera. Aveva anche detto qualcosa a proposito di una ricompensa...}
 {111}{}{L'Illuminata di NCR mi ha chiesto di consegnarle una lettera. Eccola.}
-{112}{}{O AHS-9, sono latore di una lettera a Voi indirizzata da parte del Vostro agente di NCR. Mi inchino di fronte alla Vostra gloria.} ###???I come bearing a letter from your agent in NCR. I bow to your glory
+{112}{}{O AHS-9, sono latore di una lettera a Voi indirizzata da parte del Vostro agente di NCR. Mi inchino di fronte alla Vostra gloria.}
 {113}{}{La tua morte. Addio, vecchio.}
 {114}{}{Niente, mi scusi.}
 {115}{}{Si', figliolo?}
@@ -98,12 +98,12 @@
 {197}{}{Hm. Arrivederci.}
 {198}{}{L'HSS Quetzel partira' quando le stelle saranno propizie. }
 {199}{}{D'accordo. Avrei delle altre domande.}
-{200}{}{Grazie. Arrivederci.}
+{200}{}{Grazie. Ciao.}
 {201}{}{La tua aura torbida mi dice che il tuo arrivo qui non portera' nulla di buono. Dimmi, figliolo, che ne diresti di trarre profitto dalla tua sfrontatezza?}
 {202}{}{Si'.}
 {203}{}{No.}
 {204}{}{No, voglio solo vederti morto.}
-{205}{}{Questa, allora, e' la mia proposta: torna dagli Shi ed elimina Ken Lee e l'Imperatore. Ti ripaghero' con tanti soldi quanti non ne hai mai sognati.} ###???return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed
+{205}{}{Questa, allora, e' la mia proposta: torna dagli Shi ed elimina Ken Lee e l'Imperatore. Ti ripaghero' con tanti soldi quanti non ne hai mai sognati.}
 {206}{}{No, non credo che lo faro'.}
 {207}{}{Puoi chiamarmi "socio", panzone.}
 {208}{}{Allora va' e punisci quelle anime moleste. Attendo l'annuncio del tuo successo. [Sorride beatamente.]}

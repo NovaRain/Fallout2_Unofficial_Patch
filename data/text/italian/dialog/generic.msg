@@ -1,125 +1,51 @@
-#############################################################
-#  Message File: Generic.msg                                #
-#                                                           #
-#  Note: Characters within curly braces (like line 100)     #
-#        will be read in as a message string. Caution       #
-#        should be used when making comments. All comments  #
-#        should be prepended with a pound symbol for        #
-#        visual ease. This does not comment out the line    #
-#        though.                                            #
-#                                                           #
-#  Purpose: This message file contains the information      #
-#           concerning doors in a locked state, trapped     #
-#           state, locked and trapped state.                #
-#                                                           #
-#  Log: Please note any changes that have been made to this #
-#       file and comment which lines have changed.          #
-#                                                           #
-#  Created: October 1, 1997                                 #
-#                                                           #
-#  Updated: Ragfox                                          #
-#############################################################
-
-#############################################################
-#  The following lines are for giving out experience points #
-#  to the player.                                           #
-#############################################################
-
-# Player gains [x] of experience points
 {100}{}{Guadagni }
 {101}{}{ punti esperienza.}
-
-
-#############################################################
-#  The following lines are for what the player received     #
-#  experience for (ie, picking a lock, disarming traps).    #
-#############################################################
 {102}{}{Riesci a disattivare la trappola.}
 {103}{}{Non riesci a disattivare la trappola.}
 {104}{}{Inavvertitamente fai scattare la trappola.}
-
-# Prepend Lines with NPC name
 {105}{}{ riesce a disattivare la trappola.}
 {106}{}{ non riesce a disattivare la trappola.}
 {107}{}{ fa scattare inavvertitamente la trappola.}
-
 {200}{}{Grazie.}
 {201}{}{Buona giornata.}
 {202}{}{Grazie.}
 {203}{}{Grazie!}
 {204}{}{No grazie.}
-{205}{}{No grazie.}
-{206}{}{Certo.}
+{205}{}{No, grazie.}
+{206}{}{Bene.}
 {207}{}{Si'.}
 {208}{}{No.}
 {209}{}{OK.}
-
-#############################################################
-#  The following lines are generic noises that the player   #
-#  makes when he/she has a low i.q. level.                  #
-#############################################################
 {300}{}{Ug.}
 {301}{}{Og.}
 {302}{}{Ooga.}
 {303}{}{Urg.}
-
-#############################################################
-#  The following lines are generic non-spoken dialogs       #
-#############################################################
 {350}{}{[FINE]}
 {351}{}{[SALUTA]}
 {352}{}{[AVANTI]}
 {353}{}{[CONTINUA]}
 {354}{}{[COMBATTI]}
 {355}{}{[DAI SOLDI]}
-
-#############################################################
-#  The following lines are generic departure dialogs        #
-#############################################################
-{375}{}{Ciao.}
+{375}{}{Addio.}
 {376}{}{Arrivederci.}
-
-#############################################################
-#  The following lines are for special events in the        #
-#  dude_obj                                                 #
-#############################################################
 {400}{}{Muori a causa dell'iniezione letale del Dr. Troy.}
-
 {450}{}{La costa e' sgombra. Muoviamoci!}
-
-#############################################################
-#  The following lines are for Miscelleous things needed    #
-#  throughout the game.                                     #
-#############################################################
-
 {900}{}{Sembra che questa vecchia porta consunta possa essere distrutta da un esplosivo ben piazzato.}
 {901}{}{Vedi il carro che serve a riportare gli schiavi al Den.}
-
 {905}{}{Woof! Woof!}
-
 {910}{}{Ricevi una scossa dal pavimento elettrificato.}
 {911}{}{ riceve una scossa dal pavimento elettrificato.}
 {912}{}{I livelli energetici crollano a zero e poi tornano al 50% non appena si attiva il generatore di riserva.}
 {913}{}{Si sente un rumore sommesso non appena l'energia riprende a scorrere nella base.}
-
 {920}{}{Ti imbatti nei resti di Nagor, morto mentre cercava di salvare il suo cane.}
 {921}{}{Nagor e' morto mentre cercava di riportare al villaggio il cadavere del suo cane.}
-
 {930}{}{Hoooooowl!}
-
-{950}{}{Passi qualche minuto a provare alcune mosse. Le tue abilita' di combattimento senza armi aumentano del 5%.}
-
+{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
 {951}{}{Il ratto-talpa combattente si avventa sull'avversario per infliggergli il colpo di grazia.}
 {952}{}{L'incontro e' terminato.}
-
-
-#############################################################
-#  Quest Information. Mainly used for solving quests        #
-#############################################################
-
 {1000}{}{Hai superato il Test di Cittadinanza.}
 {1001}{}{Hai informato McClure della dipendenza da Jet di cui e' vittima Redding.}
-{1002}{}{Hai riaperto i traffici commerciali con Redding.}###???You freed up trade with Redding
+{1002}{}{Hai riaperto i traffici commerciali con Redding.}
 {1003}{}{Hai disattivato i campi di forza.}
 {1004}{}{Ti sei infiltrato nel computer.}
 {1005}{}{Hai riparato il pozzo.}
@@ -134,21 +60,14 @@
 {1014}{}{Hai ripulito la Miniera Wanamingo.}
 {1015}{}{Hai superato la stanza-enigma.}
 {1016}{}{Oops, mi stavo quasi per dimenticare del GECK. Mi domando se da queste parti ce n'e' uno.}
-{1017}{}{La porta si spalanca grazie al codice del GECK.}###???The door blasts open from your GECK code
+{1017}{}{La porta si spalanca grazie al codice del GECK.}
 {1018}{}{Hai spazzato via la banda di Frog Morton.}
 {1019}{}{Hai disattivato le piastre elettriche.}
 {1020}{}{Hai sedato la rissa nel bar.}
 {1021}{}{Hai disattivato il Terminale del Robot Riparatore.}
-
 {1050}{}{Lavori la tossina di scorpione ricavandone dell'antidoto.}
 {1051}{}{Mischi la radice di Xander e il fiore di Broc creando della polvere curativa.}
-
 {1099}{}{Il GECK e' troppo importante per il villaggio. Non puoi lasciarlo qui.}
-
-#############################################################
-#  These are for converting numeric values to number words. #
-#  You want it to go further, add 'em yourself.             #
-#############################################################
 {2000}{}{zero}
 {2001}{}{uno}
 {2002}{}{due}
@@ -169,7 +88,6 @@
 {2017}{}{diciassette}
 {2018}{}{diciotto}
 {2019}{}{diciannove}
-{21020}{}{venti}
 {2021}{}{ventuno}
 {2022}{}{ventidue}
 {2023}{}{ventitre}
@@ -250,23 +168,8 @@
 {2098}{}{novantotto}
 {2099}{}{novantanove}
 {2100}{}{cento}
-
-#############################################################
-#  These are generic Reactions to the player's actions in   #
-#  the game to other NPC's. NPC's float these lines.        #
-#############################################################
-
-######
-#  Caught Pickpocketing (Warning)  (3000-3299)
-######
-
-# Tough Guard (3000-3024)
 {3000}{}{}
-
-# Guard (3025-3049)
 {3025}{}{}
-
-# Tough Citizen (3050-3074)
 {3050}{}{Se ci riprovi, saro' costretto ad ucciderti.}
 {3051}{}{Non ho niente che tu mi possa rubare, imbecille.}
 {3052}{}{Non mi sembra che ci conosciamo *cosi'* bene.}
@@ -282,189 +185,74 @@
 {3062}{}{Vuoi morire?}
 {3063}{}{Provaci di nuovo e ti spacchero' la testa.}
 {3064}{}{Quello e' mio; giu' le mani!}
-
-# Citizen (3075-3099)
 {3075}{}{}
-
-# Custom (3100-3299)
 {3100}{}{}
-
-######
-#  Caught Stealing from Something (Warning)   (3300-3599)
-######
-
-# Tough Guard (3300-3324)
 {3300}{}{}
-
-# Guard (3325-3349)
 {3325}{}{Perche' adesso non rimetti tutto dov'era prima?}
 {3326}{}{Sai, non e' carino prendere quello che non ci appartiene.}
 {3327}{}{Allontanati da li', teppista!}
 {3328}{}{Adesso non venirmi a dire che stavi "soltanto cercando le tue chiavi". Fuori di qui!}
 {3329}{}{Qualunque cosa tu stia cercando, non e' qui. Capito?}
-
-# Tough Citizen (3350-3374)
 {3350}{}{}
-
-# Citizen (3375-3399)
 {3375}{}{}
-
-# Custom (3400-3599)
 {3400}{}{}
-
-######
-#  Caught Lockpicking Door (Warning)   (3600-3899)
-######
-
-# Tough Guard (3600-3624)
 {3600}{}{}
-
-# Guard (3625-3649)
 {3625}{}{Ehi, tu! Cosa ci fai li'?}
 {3626}{}{Se non hai una chiave in mano, e' meglio se ti allontani da li'.}
 {3627}{}{E' chiusa a chiave per una ragione, teppista che non sei altro.}
 {3628}{}{Piantala subito prima che siano guai!}
-
-# Tough Citizen (3650-3674)
 {3650}{}{}
-
-# Citizen (3675-3699)
 {3675}{}{}
-
-# Custom (3700-3899)
 {3700}{}{}
-
-######
-#  Caught Sneaking (Warning)    (3900-4199)
-######
-
-# Tough Guard (3900-3925)
 {3900}{}{}
-
-# Guard (3925-3949)
 {3925}{}{Ehi, tu! Cosa ci fai li'?}
 {3926}{}{Non dovresti essere qui!}
 {3927}{}{Se credi di potermi passare sotto il naso, te lo puoi scordare!}
 {3928}{}{Faresti meglio a non pensare a quello che stai pensando, straniero.}
 {3929}{}{Cosa? Credi forse che non ti abbia visto? Fuori di qui!}
-
-# Tough Citizen (3950-3974)
 {3950}{}{}
-
-# Citizen (3975-3999)
 {3975}{}{}
-
-# Custom (4000-4199)
 {4000}{}{}
-
-######
-#  Being Attacked by the player (Warning)    (4200-4499)
-######
-
-# Tough Guard (4200-4225)
 {4200}{}{}
-
-# Guard (4225-4249)
 {4225}{}{}
-
-# Tough Citizen (4250-4274)
 {4250}{}{}
-
-# Citizen (4275-4299)
 {4275}{}{}
-
-# Custom (4300-4499)
 {4300}{}{}
-
-######
-#  Call for Help Guards  (4500-4799)
-######
-
-# Tough Guard (4500-4525)
 {4500}{}{}
-
-# Guard (4525-4549)
 {4525}{}{}
-
-# Tough Citizen (4550-4574)
 {4550}{}{}
-
-# Citizen (4575-4599)
 {4575}{}{}
-
-# Custom (4600-4799)
 {4600}{}{}
-
-######
-# Call for Help Others    (4800-5099)
-######
-
-# Tough Guard (4800-4825)
 {4800}{}{}
-
-# Guard (4825-4849)
 {4825}{}{}
-
-# Tough Citizen (4850-4874)
 {4850}{}{}
-
-# Citizen (4875-4899)
 {4875}{}{}
-
-# Custom (4900-5099)
 {4900}{}{}
-
-######
-#  Attack Player  [War Cries]   (5100-5399)
-######
-
-# Tough Guard (5100-5125)
 {5100}{}{}
-
-# Guard (5125-5149)
 {5125}{}{}
-
-# Tough Citizen (5150-5174)
 {5150}{}{}
-
-# Citizen (5175-5199)
 {5175}{}{}
-
-# Custom (5200-5399)
 {5200}{}{}
-
-# Watched Comments(5400-5599)
 {5400}{}{Sta' lontano da li'.}
-
-# For Repair Bots
 {9000}{}{Riparazioni completate.}
 {9001}{}{Ricarica armi completata.}
 {9002}{}{Riparazione danno strutturale in corso.}
-
-# default options for party members
 {10000}{}{Dimmi una cosa...}
-{10001}{}{Adesso faresti meglio a curarti.}
-{10002}{}{Voglio che tu rimanga qui finche' non saro' tornato.}
+{10001}{}{Adesso dovresti medicarti le ferite.}
+{10002}{}{Voglio che tu stia qua finche' non ritorno.}
 {10003}{}{Metti via la tua arma.}
 {10004}{}{Stammi vicino.}
-{10005}{}{Non andare troppo lontano.}
+{10005}{}{Non allontanarti troppo.}
 {10006}{}{Dovremmo distanziarci un po'.}
-{10007}{}{Per il momento e' tutto.}
+{10007}{}{E' tutto, per ora.}
 {10008}{}{Vediamo di cambiare la distanza che c'e' tra noi.}
 {10009}{}{Devo parlarti a proposito del tuo equipaggiamento.}
 {10010}{}{Ripensandoci, credo che la distanza vada bene, per adesso.}
 {10011}{}{In realta' credo che non ci sia nulla che io voglia sapere a proposito del tuo equipaggiamento.}
 {10012}{}{Voglio che tu tolga l'armatura che stai indossando.}
 {10013}{}{Voglio sapere quali tipi di armi puoi usare.}
-
-# default join me again message
 {10100}{}{Andiamo.}
-
-#added by killap - default msgs
 {20000}{}{Non ha effetto.}
-
-#added by killap - default msgs
 {20100}{}{Questa porta non ha la serratura.}
-
-#added by killap
+{21020}{}{venti}
 {30000}{}{Hai derubato la tua tribu'.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt a jó öreg bamba Algernon.}
 {101}{}{Õ Algernon.}
 {150}{}{Egy mocskos, bamba képû fickót látsz. Ide-oda dülöngél álltában, és halk füttyszerû hangokat hallat.}
@@ -31,7 +30,7 @@
 {232}{}{Ööö... Meghóttam. Menek most jobb hely}
 {235}{}{(Algernon arca eltorzul, aztán lassan odanéz, ahova "lõttél", hirtelen az egész teste megrándul, szemei kiakadnak, és holtan rogy össze.)}
 {236}{}{Öö, Al? Vagyol jól?}
-{237}{}{Öö... oh...}
+{237}{}{Hmmmm... hmmm...}
 {240}{}{(A srác nem mozdul.)}
 {241}{}{(Tapsolni kezdesz.)}
 {245}{}{(Még mindig nem mozdul. Nem is lélegzik.)}
@@ -62,5 +61,5 @@
 {291}{}{Akarsz egyet ebbõl a lángszóró üzemanyagból?}
 {292}{}{Itt van egy kis lángszóró üzemanyag. Tudsz vele kezdeni valamit?}
 {301}{}{Nekiadod az ösztökédet. Ööö... miután meggyõzõdtél róla, hogy a fogantyújánál veszi kézbe.}
-{302}{}{A Beat Co. féle "Nagy Zúzó" erõkesztyûdet.}
+{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
 {400}{}{Én megöl Al. Jobb ha menek elfele}

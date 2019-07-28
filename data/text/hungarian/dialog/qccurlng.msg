@@ -1,4 +1,3 @@
-# Dialog Editor last position: 95
 {100}{}{Egy nagyon fáradt emberkét látsz fehér köpenyben.}
 {101}{}{Dr. Curling, az Egyesült Államok Vegyi Kutatóalakulatának vezetõje.}
 {102}{}{Egy embert látsz mocskos laborköpenyben.}
@@ -26,7 +25,7 @@
 {124}{}{Futás erõsítésért! Megszólalt a riadó!}
 {125}{}{Remélem, van elég mentõcsónak.}
 {126}{}{Mindenki kifelé!}
-{127}{}{Nos, }
+{127}{}{Hát, }
 {128}{}{ nem tudom, hogy szökött meg a cellájából, de nem hiszem, hogy volna beszélnivalónk.}
 {129}{}{Hát, ebben nincs igaza. Egyáltalán nincs.}
 {130}{}{Igaza van. Azért jöttem, hogy megöljem.}
@@ -58,8 +57,8 @@
 {156}{}{Nem, nem igazán. Valójában sokban különbözünk, és a DNS változás a legkevesebb. Ez sajnos a háttérsugárzásban eltöltött évek áldásos hatása.}
 {157}{}{És mi van, ha a DNS-ünk egy kicsit különbözik, he?}
 {158}{}{Nem tudom, ez pontosan mit jelent, de akkor mi van, ha kicsit különbözünk?}
-{159}{}{Ha nem lennék olyan fáradt a Projekt miatt, szívesen végeznék még kísérleteket a törzse tagjain, mint pl. az F.E.V toxikológiai vizsgálatot. Igazán érdekes lenne.}
-{160}{}{Mit akar hallani?}
+{159}{}{Oh, your DNA is more than just a *little* different. It's quite different. If I weren't so pressed for time by the Project I'd be interested in running further tests on your people, other than the F.E.V. toxicological study, of course. Fascinating work really.}
+{160}{}{Mirõl akarsz kérdezni?}
 {161}{}{Hogy van ez a DNS különbözõségével?}
 {162}{}{Maguk kísérleti nyúlnak használják a törzsemet?}
 {163}{}{Mi a szar ez a "Projekt" ?}
@@ -67,17 +66,17 @@
 {165}{}{Számos jelentõs változás ment végbe. Eddig még nem volt idõm a változások mibenlétét tanulmányozni. Ráadásul vissza kéne lépnem a kísérleteimben, hogy izoláljam a maga kezdeti génállományát, mielõtt megkockáztatnám a kijelentést, hogy merre tolódik el a DNS-e. Egyébként, az információ elég világos.}
 {166}{}{Mi elég világos? Milyen információ?}
 {167}{}{Ja, meglehet. Hadd kérdezzek még valamit, doki!}
-{168}{}{Az információ lényege, hogy mióta a törzse elhagyta a 13-as Menedéket, maga nem ember többé. A törzse jó sok idõt eltöltött a menedéken kívül (egész pontosan a 13-as Menedéken kívül), mondjuk úgy 80 évet, és csak azok változtak át jobban, akik régebb óta tették ki magukat a háttérsugárzásnak. Nos, azt hiszem, a következtetés egyértelmû.}
+{168}{}{Why, the information that you and your tribe are no longer human, of course. Since your tribe has only been out of a vault (let's see Vault 13 wasn't it?) for some eighty-odd years, anyone out longer is certain to have been even more compromised. Yes, I'm afraid that the conclusion is unavoidable.}
 {169}{}{Következtetés? Milyen következtetés?}
 {170}{}{Az hittem, teljesen érthetõen fejeztem ki magam. A következtetés az, hogy maga és a teljes fajtája már nem ember többé. Azért, hogy az emberi faj visszaszerezze a Földet és megteremtse az összefogást, magukat, mutánsokat meg kell semmisíteni.}
 {171}{}{Meg kell semmisíteni? Hogy érti ezt?}
-{172}{}{A Projekt az a mûvelet, aminek az Enklávé az elmúlt néhány évtizedben szentelte magát, hogy megújítsa az emberi fajt Amerika szárazföldjein. Isten áldja Amerikát!}
+{172}{}{The Project that the Enclave has dedicated itself to these past several decades has been the reestablishment of the human race upon the continental United States. God bless America.}
 {173}{}{Ez nem úgy hangzik, amihez évtizedek kellenének...}
 {174}{}{Eleget hallottam ebbõl. Hadd kérdezzek más valamit!}
 {175}{}{Ah, egy elõörs létesítése nem tart évtizedekig. Egyébként ezt már meg is tettük, lásd Navarro. Sajnos a kiirtási folyamat megtervezése és kivitelezése az, ami sok idõbe kerül.}
 {176}{}{Kiirtási folyamatot mondott?}
 {177}{}{Hát persze! Miért, mit gondolt? Nem mehetünk csak úgy vissza a szárazföldre anélkül, hogy ne kockáztatnánk a fertõzés veszélyét a mutánsokkal való érintkezés miatt. Ezért, az Egyesült Államok biztonsága érdekében, elõször minden mutánsnak pusztulnia kell.}
-{178}{}{Mi!?! Ez õrültség! Ez szörnyûséges!}
+{178}{}{What!?! Are you insane? That's monstrous!}
 {179}{}{Szóval pusztulnia kell... És ezt mégis hogyan gondolták?}
 {180}{}{Én nem hinném, hogy az lenne. Inkább a "szociális Darwinizmus" jelzõvel illetném. Az lesz a túlélõ, aki a legjobban tudja biztosítani a szaporodása feltételeit. A következõ generációk sikere, az egész emberiség sorsa rajtunk múlik.}
 {181}{}{A változás talán az egyetlen örökérvényû törvény. Csak azért, mert különbözõek vagyunk, nem jelenti azt, hogy rosszabbak is volnánk. Mi vagyunk az emberiség rugalmasságának élõ bizonyítéka. Ennek okán több jogunk van "túlélni", mint maguknak.}
@@ -85,36 +84,35 @@
 {183}{}{Nem lesznek további generációik, doki. Ugyanis maguk mind meghalnak.}
 {184}{}{Ezen még nem gondolkoztam... Kérem, adjon egy kis idõt, hogy átgondoljam!}
 {185}{}{Rendben, doki. Csak nyugodtan. Nagy a tét.}
-{186}{}{Nincs egy perce se. Az ideje már régen lejárt, seggfej! Na, isten vele!}
-{187}{}{Ez abszurdum! Nekem maga nem több, mint egy mutálódott, kergemarha-kóros, kétfejû tehén.}
+{186}{}{You don't have a minute. Your time's been up for a while already. Goodbye, asshole.}
+{187}{}{That's preposterous. You're no more like me than a mutated, two-headed cow is like a normal heifer.}
 {188}{}{Ha voltak is egyfejû tehenek, már régen kihaltak. De a tehén, mint faj fennmaradt és tovább erõsödött. A változás a természet rendjének szerves része.}
 {189}{}{Minden szárazföldi ember kiirtása egyszerûen téveszme...}
 {190}{}{Elegem volt a baromságaiból! Ideje meglátogatnia a teremtõjét, Dr. Halál!}
-{191}{}{A maga fajtája biztosan nem képes felfogni, amit mondok. Egyszerûen reménytelen. Most pedig távozzon!}
+{191}{}{Your kind clearly isn't capable of understanding what I'm trying to tell you. It's hopeless. You should leave now.}
 {192}{}{Hát, legalább megpróbáltam. Pusztuljon!}
 {193}{}{Jól van, megyek. Az egyikünk reménytelen eset, de nem hiszem, hogy én lennék az. Viszlát!}
 {194}{}{Toxikológiai vizsgálatok az F.E.V vírus hatékonyságát illetõen, igen.}
 {195}{}{F.E.V. toxin? Az mi?}
-{196}{}{Hadd kérdezzek valami mást!}
+{196}{}{Hadd kérdezzek valami mást.}
 {197}{}{F.E.V. toxin... Egy bonyolult probléma tökéletes megoldása.}
-#vigyázat, spóroltak a keszítõk, így jó (bass)
 {198}{}{Mi az az F.E.V. toxin?}
 {199}{}{Várjunk egy percet! Hadd kérdezzek valami mást!}
 {200}{}{Az egyik õrjáratunk talált rá a kutatási anyagra és a mintákra egy régi katonai bázis mellett, amit a toxin teljesen elpusztított.}
 {201}{}{Oké, most már tudom, hogy honnan származik. De mik a hatásai?}
 {202}{}{Az F.E.V. vírust eredetileg arra tervezték, hogy az embereket szuper-harcosokká változtassa. A kísérlet csúnya kudarcba torkollott, bár néhány változtatással a vírust sikeresen alkalmaztam az egyik titkosszolgálati ügynökön.}
 {203}{}{Gratulálok! De hogy jön ez bárkinek a kiirtásához?}
-{204}{}{Áh, igen, igen, már épp rátértem volna... Az F.E.V. csak néhány fajra fejti ki a hatását, csak az emberi vagy hasonló gén-fehérjékkel rendelkezõkre hat. Néhány évbe került csupán, hogy ezt a tulajdonságát megváltoztassuk. Közben a vírus még erõszakosabbá mutálódott. Az eredmény pontosan az volt, amit az Elnök akart, minden szempontból tökéletes gyilkos.}
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it all ready was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Tökéletes? Hogyhogy?}
 {206}{}{Hát nem nyilvánvaló, mutáns barátom? Az F.E.V. toxin egy halálos vírus, hála nekem, és hála az ismeretlen zseninek, sõt, Mesternek, csak emberekre hat, függetlenül attól, mutáns-e vagy sem.}
-{207}{}{Vagyis?}
-{208}{}{Vagyis a kezünkben van a történelem legtökéletesebb eszköze, hogy megtisztítsuk a bolygót a fél vagy alig emberektõl, akik beszennyezik azt.}
+{207}{}{És?}
+{208}{}{That means that we have the perfect disposal device for all of the near-human mutants infecting the globe.}
 {209}{}{Még mindig nem értem, miért lenne "tökéletes".}
 {210}{}{Kérdeznék még ezt-azt az õrült terveikrõl.}
-{211}{}{Az F.E.V toxin csak embereket támad meg, mindenki mást életben hagy. Alig egy hónap múltán minden mutáns halott lesz a Földön, és a vírus egyszerûen magától kihal, amint eltûnik az áldozatokból.}
+{211}{}{The F.E.V. toxin will only attack humans, leaving everything else alive. Better still, within a month all the mutants will be dead and the F.E.V. toxin will die out as soon as it runs out of hosts.}
 {212}{}{Nincs itt elég gépmadár ahhoz, hogy szétszórják a vírust az egész bolygón.}
 {213}{}{Maga viszont áldozatul eshet néhány nagy energiájú lövésnek. Ideje imádkozni!}
-{214}{}{Igen, igaza van. De nincs is rájuk szükség! Az Enklávénak van egy kibocsátó rendszere, a tartályokból egyszerûen kipermetezzük a vírust egyenesen az atmoszférába. A passzátszél majd elvégzi a többi munkát. A vírus a nagy szélrendszerek révén a világ bármely pontjára két hét alatt eljut.}
+{214}{}{You're right, there aren't. But we don't need them. We have a release system that will spray the F.E.V. toxin straight from the vats to the outside atmosphere. The Jet stream will take care of the rest. Global saturation within two weeks.}
 {215}{}{Két hét alatt?}
 {216}{}{Igen, két hét a terjedési idõ, és még kétszer ennyi, hogy elvégezze a dolgát. Azután az Egyesült Államok elkezdheti az újranépesítést, az emberi faj pedig megmenekül.}
 {217}{}{Maga meg van gyõzõdve arról, hogy jó dolgot cselekszik?}
@@ -131,7 +129,7 @@
 {228}{}{Szomorú beismerni, de igaza lehet. Amit mi mindannyian véghez akartunk vinni, helytelen. Vakon beletemetkeztem a munkámba, csak azzal törõdtem, hogyan hárítsam el az akadályokat, közben nem láttam a tetteim erkölcsi következményeit.}
 {229}{}{Nos, örülök, hogy rájött. Most pedig, el kell pusztítania a toxint!}
 {230}{}{Ez esetleg... nem, ez nem mûködik.}
-{231}{}{Miért nem?}
+{231}{}{Merthogy?}
 {232}{}{Mert csak újrakezdenének mindent! Mégha meghalok is, elég adat marad akár itt, akár Navarróban, hogy folytatni tudják a Projektet. Csak valami sokkal drasztikusabb segíthet!}
 {233}{}{Drasztikusabb? Mire gondol egész pontosan?}
 {234}{}{Az Enlávénak pusztulnia kell. Teljesen. Ha nem, további fenyegetést jelenthet magukra.}
@@ -147,16 +145,15 @@
 {244}{}{Köszönöm az információt. A maga mai napon hozott áldozatáról minden élõ ember megemlékezik majd.}
 {245}{}{Éppen ideje volt, hogy észhez térjen, maga tojásfejû értelmiségi. Most pedig tûnök innen.}
 {246}{}{Mikor csillagfények tüze gyúl,}
-{247}{}{és égi felhõk könnye hull,}
-{248}{}{vajh, örömére tekint rád,}
-{249}{}{Ki a Bárány mellé megkreált?}
-#Azert a vers uzenetet nem art megtartani (bass)
-{250}{}{Tessék?}
+{247}{}{                      And water'd heaven with their tears,}
+{248}{}{                            Did he smile his work to see?}
+{249}{}{                                  Did he who made the Lamb make thee?}
+{250}{}{Nahát...}
 {251}{}{Csak eszembe jutott egy régóta halott költõ verse. Kíváncsi vagyok, van-e még hely isten országában az olyanoknak, akik hasonló bûnöket követtek el, mint mi. Menjen! Fusson! A mi idõnk lejárt, a maguké következik.}
 {252}{}{Köszönök mindent, doktor úr! Maga bátor ember.}
 {253}{}{Bolond, de használható fajta. Viszlát!}
 {254}{}{Mozgás!}
-{255}{}{Tûnjön innen!}
+{255}{}{Takarodj ki innen!}
 {256}{}{Lóduljon már!}
 {257}{}{Erre most nincs idõ!}
 {258}{}{Menjen, amíg teheti!}

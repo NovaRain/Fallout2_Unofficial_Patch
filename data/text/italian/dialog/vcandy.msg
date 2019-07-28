@@ -23,16 +23,16 @@
 {122}{}{Posshhhto? Poshhto! Prendere soldi, tappare buchi.}
 {123}{}{Ciao ciao.}
 {124}{}{No bastansa soldi. Ciaociao.}
-{125}{}{D'accordo.}
+{125}{}{Okay.}
 {126}{}{E' un po' caro. Che ne dici di }
 {127}{}{?}
 {128}{}{Lasciamo stare. Cosa mi dici, invece, del mio amico?}
 {129}{}{Lasciamo stare. Cosa mi dici, invece, dei miei amici?}
 {130}{}{Cos'e' questo posto?}
 {131}{}{Nel database medico di Vault City ho trovato degli schemi che descrivono l'impianto di innesti da combattimento. Saresti in grado di eseguire l'operazione?}
-{132}{}{Non ho cosi' tanti soldi. Tornero' quando avro' abbastanza contante.}
-{133}{}{No, grazie. Magari un'altra volta.}
-{134}{}{Beh... d'accordo. Mi sembra un prezzo equo.}
+{132}{}{Non ho abbastanza soldi. Tornero' quando avro' il contante.}
+{133}{}{No, grazie. Sara' per un'altra volta.}
+{134}{}{Beh... d'accordo. Puo' andare.}
 {135}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc... metti le tue braccia qui dentro, e io stringero' le cinghie e assicurero' i morsetti...}
 {136}{}{Fade out for 3 Seconds}
 {137}{}{Perfetto! Sapevo che il vecchio Doc non mi avrebbe deluso.}
@@ -59,7 +59,7 @@
 {158}{}{D'accordo... ad una prima occhiata, direi che ti costera' }
 {159}{}{ dollari. Se hai i soldi, avrai tutte le cure che ti servono. }
 {160}{}{Naturalmente, non ti do garanzie sull'operato del vecchio Doc, nella stanza sul retro...}
-{161}{}{D'accordo.}
+{161}{}{Okay.}
 {162}{}{E' un po' caro. Che ne dici di }
 {163}{}{?}
 {164}{}{Come non detto. Cosa dici di curare me, invece?}
@@ -69,7 +69,7 @@
 {168}{}{Ho cambiato idea. Sara' per un'altra volta.}
 {169}{}{Beh, vediamo... ecco la mia proposta. }
 {170}{}{ dollari per tutto il gruppo e poi possiamo dirci pari. Cosa ne dici?}
-{171}{}{D'accordo.}
+{171}{}{Okay.}
 {172}{}{Non saprei. E' un po' caro. Che ne dici di }
 {173}{}{ dollari?}
 {174}{}{Potresti curare solo me, invece?}
@@ -77,19 +77,19 @@
 {176}{}{Nel database medico di Vault City ho trovato degli schemi che descrivono l'impianto di innesti da combattimento. Saresti in grado di eseguire l'operazione?}
 {177}{}{Non ho abbastanza soldi. Tornero' quando avro' il contante.}
 {178}{}{Ho cambiato idea. Sara' per un'altra volta.}
-{179}{}{Beh... d'accordo. Mi sembra un prezzo equo.}
-{180}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc... falli stendere, e io stringero' le cinghie e assicurero' i morsetti...}
+{179}{}{Beh... d'accordo. Puo' andare.}
+{180}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc, stringere le cinghie e assicurare i morsetti...}
 {181}{}{Fade out for 3 Seconds}
 {182}{}{Ecco fatto, tutti rattoppati! Sapevo che il vecchio Doc era ancora in grado di fare certe cose.}
 {183}{}{Grazie. Senti, mi servirebbe un'altra cosa...}
 {184}{}{Mille grazie. Arrivederci.}
-{185}{}{Questo e' lo "studio medico" del Cortile di Vault City. Io e il vecchio Doc sul retro rimettiamo in sesto chiunque ne abbia bisogno.} ###???This here's the common body shop for Vault City
+{185}{}{Questo e' lo "studio medico" del Cortile di Vault City. Io e il vecchio Doc sul retro rimettiamo in sesto chiunque ne abbia bisogno.}
 {186}{}{"Vecchio Doc"?}
 {187}{}{Capisco. Senti, avrei delle altre domande da farti...}
 {188}{}{Hmmm. Magari tornero' quando avro' bisogno di te.}
 {189}{}{Si', l'Auto-Doc che si trova nella stanza sul retro. E' un gentile prestito della citta'. }
 {190}{}{A volte e' un po' inaffidabile, ma di solito fa il suo lavoro. Di solito.}
-{191}{}{Ultimamente funziona meglio, il che e' un bene. Di certo aiuta a non perdere la clientela.} ###???Cuts down on repeat visitors
+{191}{}{Ultimamente funziona meglio, il che e' un bene. Di certo aiuta a non perdere la clientela.}
 {192}{}{Si', ho sostituito alcuni cavi e ho pulito l'interno. Non dovrebbe piu' darti problemi.}
 {193}{}{Capisco. Senti, avrei delle altre domande da farti...}
 {194}{}{Inaffidabile, eh? Magari potrei darci un'occhiata io...}
@@ -102,7 +102,7 @@
 {201}{}{Prego. Chiamale pure. Non arriveranno in tempo per salvarti le chiappe.}
 {202}{}{D'accordo, allora... Non c'e' di che.}
 {203}{}{Allora... come posso aiutarti, adesso?}
-{204}{}{Come posso aiutarti?}
+{204}{}{Come posso aiutarla?}
 {205}{}{Avrei bisogno di cure mediche.}
 {206}{}{Um, ho bisogno di rimuovere un'escrescenza. Il sesto dito del mio piede.}
 {207}{}{Il mio amico ha bisogno di cure mediche.}
@@ -191,8 +191,8 @@
 {290}{}{Tornero' quando avro' piu' soldi.}
 {291}{}{Tornero' quando avro' trovato un'altra armatura da combattimento.}
 {292}{}{Capisco. Magari un'altra volta.}
-{293}{}{Beh... mi sembra un prezzo equo.}
-{294}{}{D'accordo, lascia che ti colleghi al vecchio Doc, ecco... spero che la riserva di anestetico non si sia otturata di nuovo... forse e' meglio che tu morda questo pezzo di cuoio di brahmin, non si sa mai. }
+{293}{}{Beh... mi sembra equo.}
+{294}{}{D'accordo, lascia che ti colleghi al vecchio Doc, ecco... spero che la riserva di anestetico non si sia otturata di nuovo... forse e' meglio che tu morda questo pezzo di cuoio di brahmin, non si sa mai.}
 {295}{}{Uh...okay. Cioe', l'Auto-Doc viene sottoposto periodicamente a revisione, giusto? Eh eh. Perche' mai dovrebbe succedere qualcosa di spiacevole?}
 {296}{}{Sai una cosa? Scordatelo. Non voglio correre il rischio che il "vecchio Doc" non ce la faccia.}
 {297}{}{Aieeeeeeeeeee!}
@@ -248,8 +248,6 @@
 {347}{}{ dollari per tutto il gruppo e possiamo procedere. La terapia non funzionera' sul tuo cervello robot, amico. Cosa ne dici?}
 {348}{}{Forte! Ho sempre desiderato di assomigliare a Kryten! Ecco i soldi e l'armatura.}
 {349}{}{D'accordo. Procediamo.}
-# Added by Seraph:
 {350}{}{Hai perso -4 PV Massimi.}
-# Added by killap:
 {351}{}{Wahh? Me no sento ancora bene. Ora me andare a nanna.}
 {352}{}{Ugh...otay. Ciaoooo}

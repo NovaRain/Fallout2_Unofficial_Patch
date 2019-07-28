@@ -15,7 +15,7 @@
 {114}{}{No.}
 {115}{}{Cosa ti interessa?}
 {116}{}{La ragione per la quale te lo chiedo, vedi, e' che mia moglie e' scomparsa. E non so dove possa essere. Non la vedo da giorni. Ho chiesto notizie qui in giro, ma nessuno l'ha vista. Potresti cercarla per me?}
-{117}{}{Cosa ne viene a me?}
+{117}{}{Io cosa ne ricavo?}
 {118}{}{Daro' un'occhiata in giro. Che aspetto ha?}
 {119}{}{No. Sono occupato.}
 {120}{}{Posso darti 500$. Sono i risparmi di una vita.}

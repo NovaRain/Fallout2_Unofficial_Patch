@@ -1,12 +1,15 @@
-# Dialog Editor last position: 11
-{100}{}{Ez a házam.}
-{101}{}{Rohadt banditák!}
-{102}{}{Hagyj békén minket!}
-{103}{}{Gyûlölöm a banditákat!}
-{104}{}{Semmink sincs, amit ellophatnál.}
-{105}{}{Ne ölj meg!}
-{106}{}{Elegem van!}
-{107}{}{Vegyél el bármit, amit akarsz!}
-{108}{}{Kérlek, ne ölj meg!}
-{109}{}{Amúgy is utáltam már a gazdálkodást.}
-{110}{}{Kérlek, ne gyújtsd fel a házat!}
+{100}{}{You see a lean, tan looking woman.}
+{101}{}{Telepes.}
+{102}{}{A farmerekre jellemzõ napcserzett bõre van.}
+{200}{}{Ez a házam.}
+{201}{}{Rohadt banditák!}
+{202}{}{Hagyj békén minket!}
+{203}{}{Gyûlölöm a banditákat!}
+{204}{}{Semmink sincs, amit ellophatnál.}
+{205}{}{Ne ölj meg!}
+{206}{}{Elegem van!}
+{207}{}{Vegyél el bármit, amit akarsz!}
+{208}{}{Kérlek, ne ölj meg!}
+{209}{}{Amúgy is utáltam már a gazdálkodást.}
+{210}{}{Kérlek, ne gyújtsd fel a házat!}
+{220}{}{Ne zaklass!}

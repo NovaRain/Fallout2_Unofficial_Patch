@@ -1,0 +1,52 @@
+{100}{}{Вы видите грязного, но сильного на вид человека.}
+{101}{}{Вы видите Коннора.}
+{102}{}{Hey you! What are you doing!}
+{103}{}{Стой, где стоишь, путник. Что это ты тут делаешь?}
+{104}{}{I'm killing off the monsters here.}
+{105}{}{А что, тебе какое дело?}
+{106}{}{Чего ты верещишь!}
+{107}{}{I bet those bastards at Vault City sent you. Well you best be off, and leave everything else
+ alive.}
+{108}{}{Ну, вообще-то уже поздновато.}
+{109}{}{Почему?}
+{110}{}{Извини, у меня есть работа.}
+{111}{}{Those creatures are the only thing that are stopping Vault City from making us their so-called
+ servants.}
+{112}{}{Well they're paying me to get rid of the monsters, and that's what I'm going to do.}
+{113}{}{Этого они мне не сказали.}
+{114}{}{Они заплатили мне, чтобы избавиться от этих монстров, и моя работа уже закончена.}
+{115}{}{Идиотина! Ну зачем надо было это делать!}
+{116}{}{Мне нужны были деньги.}
+{117}{}{Если ты это сделаешь, они придут сюда за нами.}
+{118}{}{А мне-то что за дело?}
+{119}{}{Надеюсь, эти деньги станут у тебя поперек горла. Они скоро придут за нами.}
+{120}{}{Они мне не говорили, зачем им нужно выполнить эту работу.}
+{121}{}{Да-а, а я все равно не веду дел с такими мерзавцами.}
+{122}{}{Ну, мы не можем позволить тебе сделать это.}
+{123}{}{Да делайте, что хотите.}
+{124}{}{А ты им так и поверил? Тебе многое предстоит узнать об этом мире, дружище.}
+{125}{}{Я могу чем-нибудь помочь?}
+{126}{}{Ребят из Города Убежища храбрецами не назовешь. Если показать им пушку, только пятки засверкают. Думаю, если бы у нас было оружие, мы бы с ними справились.}
+{127}{}{What sort of guns?}
+{128}{}{Well, I'm good with a shotgun, and we have some people in here that can handle a rifle. I think
+ three of those would do.}
+{129}{}{Я попробую.}
+{130}{}{Тебе здесь не рады. Уходи.}
+{131}{}{Мое отношение к этому делу изменилось. Чем я могу помочь?}
+{132}{}{Ну что ж, все равно ты тут надолго не задержишься.}
+{133}{}{Мне все равно.}
+{134}{}{Ты снова здесь! И как там наши пушки?}
+{135}{}{Так что конкретно вам было нужно?}
+{136}{}{Да, вот они.}
+{137}{}{We need three rifles and a shotgun. The sooner you can get them to us, the better.}
+{138}{}{Ладно.}
+{139}{}{With these, we'll be able to make something of this place over the next months. If you ever need
+ a place to rest, you will always be welcome here.}
+{140}{}{Всегда пожалуйста.}
+{141}{}{Welcome back. Things are going well. We're going to work on expanding the Village.}
+{142}{}{Привет еще раз! Как видишь, все идет неплохо. Если у тебя есть время, можешь осмотреться.}
+{143}{}{Мы продолжаем строительство. Надеемся к следующему месяцу закончить стены.}
+{144}{}{Greetings! The village has expanded again as we have hoped. You are welcome as always.}
+{145}{}{We have nothing to fear from Vault City any longer, and will be able to live here in peace.
+ Thank you again, wanderer.}
+{146}{}{Только ничего там не убивай, тупица.}

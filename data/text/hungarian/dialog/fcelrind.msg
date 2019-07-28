@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy slampos palástot viselõ illetõ.}
 {101}{}{Na, még egy palástot viselõ Hubologista.}
 {102}{}{Egy palástba öltözött ismeretlen.}
@@ -18,9 +17,9 @@
 {116}{}{Vannak Hubologista hírességeink is ám.}
 {117}{}{Juan Cruz és Vikki Goldman híres emberek! Magam is ezért csatlakoztam.}
 {118}{}{Ha jól viseli magát, a hírességeink biztos szóba állnak magával.}
-{119}{}{Imádom a Hub-ot.}
+{119}{}{Szeretem a Hub-ot!}
 {120}{}{Szeretem a Hubologista létet.}
-{121}{}{Ösztönözni akarom a rejtett képességeimet.}
+{121}{}{Ösztönözni akarom rejtett képességeimet.}
 {122}{}{Az igazat megvallva még mindig csak tanulom a zsargont.}
 {123}{}{Dícsértessék a Hub!}
 {124}{}{Dícsértessék a Nagy Kerék!}
@@ -34,7 +33,7 @@
 {141}{}{Egyértelmû, hogy maga tele van rossz neurodinokkal!}
 {142}{}{Ne! Ne kátyúsítson el a gyûlöletével!}
 {143}{}{Õrség! Õrség! Ide jött a barbár!}
-{144}{}{Hozzám ne érjen!}
+{144}{}{Hozzám ne érj!}
 {145}{}{Segítség! Õrség!}
 {146}{}{A népünk ellensége!}
 {147}{}{A sötét idõk újra bennünket sújtanak!}

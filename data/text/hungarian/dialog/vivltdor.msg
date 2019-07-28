@@ -1,4 +1,3 @@
-# Dialog Editor last position: 16
 {100}{}{Egy jellegzetes menedék-ajtót látsz.}
 {101}{}{Ez egy jellegzetes menedék-ajtó. Úgy tûnik, az áramellátása megszûnt.}
 {102}{}{Ajtó nem mozdul.}
@@ -10,8 +9,8 @@
 {108}{}{*Hrnnnnn*}
 {109}{}{A nyers fizikai erõddel sikerült kinyitnod az ajtót!}
 {110}{}{Ez igen! Meg sem kottyant neki.}
-{111}{}{BUMM nem bánt ajtó}
+{111}{}{BOOM no hurt door.}
 {112}{}{Az ajtó beragadt, nincs zárva.}
-{113}{}{Ajtó beragizva nem bezárizva}
+{113}{}{Door stuckie not lockie.}
 {114}{}{Az ajtó nem fog becsukódni. Megakadt.}
 {115}{}{Ajtó nem mozdul.}

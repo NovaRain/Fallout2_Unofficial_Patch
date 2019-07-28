@@ -1,5 +1,4 @@
-# Dialog Editor last position: 12
-{100}{}{Egy nomád.}
+{100}{}{You see a nomad.}
 {101}{}{Helló, újnak látszol a környéken.}
 {102}{}{A fõnökkel kellene beszélned.}
 {103}{}{Azt hiszem, ma nincs olyan forróság, mint tegnap.}

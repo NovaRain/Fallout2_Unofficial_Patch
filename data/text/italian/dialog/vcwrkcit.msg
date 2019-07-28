@@ -4,20 +4,20 @@
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
 {105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
-{106}{}{Buongiorno, Capitano.}
+{106}{}{Buon giorno, Capitano.}
 {107}{}{Vault City prevale, Capitano.}
 {108}{}{Buongiorno, Cittadino.}
 {109}{}{Vault City prevale, Cittadino.}
 {110}{}{Un mutante! Guardie! Guardie!}
 {111}{}{Un ghoul! Guardie! Guardie!}
 {112}{}{Come hai fatto ad entrare all'interno delle mura?}
-{113}{}{Scusa, ce l'hai il pass giornaliero? }
+{113}{}{Scusa, ce l'hai un pass giornaliero? }
 {114}{}{Hmmmph. Un altro Esterno.}
 {115}{}{Sembra proprio che sempre piu' Esterni riescano ad entrare all'interno delle mura...}
-{116}{}{Spero davvero che tu abbia un pass giornaliero.}
+{116}{}{Spero davvero tu abbia un pass giornaliero...}
 {117}{}{Mi pare abbiano cominciato a rilasciare pass giornalieri proprio a *tutti* gli Esterni, ultimamente...}
-{118}{}{Mi hanno raccontato le tue imprese coraggiose. Hai reso un grande servizio a Vault City... e al mondo intero.}
-{119}{}{La tua battaglia contro l'Enclave non ha lasciato indifferente neppure il Primo Cittadino.}
+{118}{}{Ho sentito parlare delle sue imprese coraggiose. Ha reso un grande servizio a Vault City... e al mondo.}
+{119}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
 {120}{}{Ho sentito che hai viaggiato a sud fino a San...Fran...Cisco. E' vero?}
 {121}{}{Forse Vault City *dovrebbe* accogliere gli Esterni.}
 {122}{}{Era vero? Davvero il governo del vecchio mondo stava ancora combattendo la guerra?}
@@ -29,7 +29,7 @@
 {128}{}{La MAGGIOR parte dei Cittadini e' solita dormire, a quest'ora.}
 {129}{}{Se sto dormendo? No, adesso non piu'.}
 {130}{}{Ti prego... torna domattina. Domani dovro' compilare liste per tutto il giorno.}
-{131}{}{Buongiorno, Capitano.}
+{131}{}{Buon giorno, Capitano.}
 {132}{}{Vault City prevale, Capitano.}
 {133}{}{Posso offrirle una ciambella, Capitano?}
 {134}{}{Qualcosa non va, Capitano?}
@@ -52,7 +52,7 @@
 {151}{}{Si'?}
 {152}{}{Posso aiutarti in qualche modo...Esterno?}
 {153}{}{Scusa, hai detto qualcosa?}
-{154}{}{Io? Io mi faccio gli affari miei. Forse anche tu dovresti farlo.}
+{154}{}{Io? Io mi faccio gli affari miei. Forse anche tu dovresti fare lo stesso.}
 {155}{}{Posso vedere il tuo pass giornaliero, per favore?}
 {156}{}{Oh... scusa. Ti avevo quasi scambiato per un servo.}
 {157}{}{Adesso non ho davvero tempo per chiacchierare con un Esterno. Per favore, vattene.}

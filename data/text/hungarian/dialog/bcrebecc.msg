@@ -1,4 +1,3 @@
-# Dialog Editor last position: 69
 {100}{}{Öregedõ nõ.}
 {101}{}{Rebecca.}
 {102}{}{Egy öregedõ nõt látsz. Habár észrevehetõen nehéz idõket élt, nem veszített semmit a természetes szépségébõl.}
@@ -14,7 +13,7 @@
 {112}{}{(suttogva) A lányom eltûnt, és segítségre van szükségem, hogy megtaláljam. Nem beszélhetek itt errõl. Nem vonulhatnánk félre?}
 {113}{}{Oké.}
 {114}{}{Miért kell négyszemközt beszélnünk?}
-{115}{}{Nem, én megy.}
+{115}{}{Nem, én menni.}
 {116}{}{Rendben, gyerünk.}
 {117}{}{Miért kell négyszemközt?}
 {118}{}{Kösz, nem, nem akarok belekeveredni.}
@@ -65,7 +64,7 @@
 {163}{}{Kösz. Kérdezni még.}
 {164}{}{Köszönöm. Lenne még néhány kérdésem.}
 {165}{}{Sajnálom, de nincs ötletem. A helyedben megkérdezném az ÚKK-ban. Mostanában nagyon érdeklik õket a Menedékek.}
-{166}{}{Oké, én csinál.}
+{166}{}{Oké. Megcsinálni.}
 {167}{}{Rendben, így lesz.}
 {168}{}{Nos... errõl nem kellene beszélnünk, de mivel szükségem van a segítségedre... Darion megjavítja a Menedéket. Õ a mi jótevõnk. Ha teljesen mûködõképes lesz, mindannyian odaköltözünk, és biztonságban leszünk a rablóktól, rabszolga-kereskedõktõl, ilyesmiktõl. Eddig a kaja- és vízelõállító gépeket sikerült megcsinálnia, de ez minden.}
 {169}{}{Én ért. Én akar tudni még.}
@@ -96,12 +95,13 @@
 {194}{}{Sajnálom, nem.}
 {195}{}{Én segít.}
 {196}{}{Igen, segítek neked.}
-{197}{}{Te lehetsz az az ember, aki megmentette a lányomat. Soha nem leszek képse visszafizetni a kedvességedet. Kérlek, várj meg itt, beszélnem kell Chrissy-vel, utána veled is szeretnék szót váltani.}
+{197}{}{You must be the person who saved my daughter. I can never repay you for your kindness. Thank you.
+ Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
 {198}{}{Megmentetted a lányomat. Soha nem leszek képes visszafizetni a kedvességedet. Kérlek, várj meg itt, beszélnem kell Chrissy-vel, utána veled is szeretnék szót váltani.}
 {199}{}{Oké.}
 {200}{}{A lányom mindent elmondott. Nagyon nehéz elhinni, hogy Darion ilyen szörnyeteg, azok után, amit értünk tett. És arra is nagyon nehéz gondolni, hogy mi segítettünk neki elrejteni a rablóbandája ügyködésének nyomait. Biztosíthatlak, hogy többé nem fogjuk védeni õket. Már beszéltem Zekével, és látni akar. Beszélned kellene vele, most azonnal.}
 {201}{}{Nagyon nehéz elhinni, hogy Darion ilyen szörnyeteg, azok után, amit értünk tett. És arra is nagyon nehéz gondolni, hogy mi segítettünk neki elrejteni a rablóbandája ügyködésének nyomait. Biztosíthatlak, hogy többé nem fogjuk védeni õket. Már beszéltem Zekével, és látni akar. Beszélned kellene vele, most azonnal.}
-{202}{}{Köszönöm.}
+{202}{}{Köszönöm!}
 {203}{}{Remélem, hamarosan megtalálod Chrissy-t.}
 {204}{}{Én keres.}
 {205}{}{Folytatom a keresését.}
@@ -109,4 +109,3 @@
 {207}{}{Nem tudom megmondani, miért, de nem hiszem, hogy a rabszolga-kereskedõk vitték volna el. Van egy olyan kellemetlen érzésem, hogy valami folyik itt a háttérben. És még ott van az az érzés is, hogy valaki követ engem. Azóta, amióta beszéltem Zekével Chrissy-rõl. Szükségem van valakire, aki segít megtalálni a lányomat. Segítesz nekem? Kérlek...}
 {208}{}{Folyamatosan embereket küldenek ide, hogy próbáljanak lebeszélni minket az otthonunkról, de egyszerûen nem értik meg, hogy nekünk nincs hová mennünk. Ha elhagyjuk ezt a helyet, magunkra utalva biztosan elpuszulunk. Nem vagyunk képesek túlélni a vadont.}
 {209}{}{Tudod, kicsit vicces, hogy valahogy megjavítottak egy ilyen bonyolult komplexumot, de a lámpákkal nem boldogultak. Az egész francos hely fáklyákkal van megvilágítva. Akárhogy is, Darion nem akarja, hogy bárki is tudjon arról, ami a Menedékben folyik. Attól tart, ha kitudódik, valaki elveszi tõlünk. Azt mondta, hajtsunk el mindenkit, aki erre jár - kiváltképp az ÚKK embereit.}
-

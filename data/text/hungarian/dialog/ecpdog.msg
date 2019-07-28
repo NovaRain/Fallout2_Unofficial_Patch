@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Ezt az állatot meg kellene szabadítani a szenvedéstõl. Tényleg!}
 {101}{}{Nagyjából egy kutyára hasonlít. Attól eltekintve, hogy a szerencsétlen párának csomókban hullik a szõre.}
 {102}{}{Egy elfuserált, ronda kutyát látsz. Õ azért kedvel téged...}

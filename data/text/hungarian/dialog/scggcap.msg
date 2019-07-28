@@ -1,4 +1,3 @@
-# Dialog Editor last position: 18
 {100}{}{Ez a nõ az ÚKK fegyveres erõinek egyenruháját viseli.}
 {101}{}{Az õrség kapitánya.}
 {102}{}{Lehet, hogy csak egy nõ, de a csípõjén himbálózó sörétes puska azt sugallja, nem lenne jó kikezdeni vele.}
@@ -6,11 +5,11 @@
 {104}{}{Ha nem zavar sok vizet, remekül megleszünk egymással, idegen!}
 {105}{}{Kérdései vannak? Keresse fel Dumont Seriffet! Õ majd válaszol.}
 {106}{}{A törvényeket elolvashatja kint a hirdetõtáblán - nincs lövöldözés, nincs ivászat, nincs balhézás.}
-{107}{}{Mit tehetek magáért, idegen?}
-{108}{}{Már megint maga?}
+{107}{}{Mit tehetek érted, idegen?}
+{108}{}{Már megint maga az?}
 {109}{}{Én bemenni.}
 {110}{}{Szeretnék bejutni az ÚKK-ba.}
-{111}{}{Semmit.}
+{111}{}{Semmi.}
 {112}{}{Nem megy addig sehova, amíg el nem rakja a fegyverét!}
 {113}{}{Mindenkinek el kell raknia a fegyvereit!}
 {114}{}{Hmm... nos, elég tiszteletre méltónak tûnik. Mi a neve? Be kell, hogy irjam a naplóba.}

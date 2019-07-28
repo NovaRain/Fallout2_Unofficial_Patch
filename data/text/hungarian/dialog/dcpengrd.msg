@@ -1,7 +1,6 @@
-# Dialog Editor last position: 16
-{100}{}{Egy rabszolga-hajcsárt látsz.}
+{100}{}{Rabszolga-hajcsár.}
 {150}{}{Nagyon feszültnek tûnik.}
-{200}{}{Csak még egyszer nyúlj hozzá, és kezed-lábad levágom!}
+{200}{}{Touch that again and you'll lose a limb.}
 {201}{}{Na, ebbõl elég!}
 {210}{}{Csak a rabszolgák vannak ott hátul.}
 {211}{}{A rabszolgák nem fogadhatnak látogatókat!}

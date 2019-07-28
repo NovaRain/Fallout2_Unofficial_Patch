@@ -1,13 +1,7 @@
-#
-#   Messages from skill.c
-#
-#
-#   SKILL NAMES
-#
 {100}{}{Kézi lõfegyverek}
 {101}{}{Nehéz lõfegyverek}
 {102}{}{Energiafegyverek}
-{103}{}{Ökölharc}
+{103}{}{Pusztakezes.}
 {104}{}{Közelharc}
 {105}{}{Hajítás}
 {106}{}{Elsõsegély}
@@ -22,9 +16,6 @@
 {115}{}{Üzletelés}
 {116}{}{Szerencsejáték}
 {117}{}{Túlélés}
-#
-#   SKILL DESCRIPTIONS
-#
 {200}{}{Kézi lõfegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
 {201}{}{Nehéz lõfegyverek használata és karbantartása - gépágyúk, rakétavetõk, lángszórók, stb.}
 {202}{}{Energia alapú fegyverek feltöltése és használata - minden, ami lézer- vagy plazma technológiával mûködik.}
@@ -43,12 +34,6 @@
 {215}{}{Kereskedelem és minden hozzá kapcsolódó feladat. A megfelelõ képzettség, hogy drágán adj el, és olcsón vásárolj.}
 {216}{}{A fogadás mikéntjének ismerete és gyakorlati alkalmazása. Kártya, kocka és egyéb hazárdjátékok ûzése.}
 {217}{}{A pusztákon való túlélés gyakorlati alkalmazása. Magában foglalja az állatok és növények ismeretét.}
-#
-#   SKILL ATTRIBUTES
-#
-#   Updated: 6/5/97 KSW
-#   Updated to New Skill System: 9/16/98 rwh2
-#
 {300}{}{+ (4 x ÜG)}
 {301}{}{+ (2 x ÜG)}
 {302}{}{+ (2 x ÜG)}
@@ -67,9 +52,6 @@
 {315}{}{+ (4 x KA)}
 {316}{}{+ (5 x SZ)}
 {317}{}{+ (2 x (KI + IN))}
-#
-#   Skill Use Text
-#
 {500}{}{%d életerõt gyógyítottál.}
 {501}{}{Már makk egészséges vagy.}
 {502}{}{%s makk egészségesnek látszik.}
@@ -83,7 +65,7 @@
 {521}{}{Meggyógyítottad a %s.}
 {525}{}{Nem sikerült meggyógyítani a %s.}
 {526}{}{Nem sikerült meggyógyítani a %s.}
-{530}{}{sérült szemet}    # Lines 530-534 are the endings to lines 525 & 526.
+{530}{}{sérült szemet}
 {531}{}{sérült bal karodat}
 {532}{}{sérült jobb karodat}
 {533}{}{sérült jobb lábadat}
@@ -99,26 +81,14 @@
 {590}{}{Kimerítetted a képzettséged, próbáld meg késõbb!}
 {591}{}{Túl fáradt vagy.}
 {592}{}{Belehalnál az erõfeszítésbe.}
-
-# Fallout 2!
 {600}{}{Nem vagy elég képzett ilyen sérülések gyógyítására.}
 {601}{}{Ezt a robotot már nem lehet megjavítani.}
-
-
-
-#
-# Fallout 2: Party Member skill use generic responses
-#
-
-#   I'll try
 {1000}{}{Hadd segítsek!}
-{1001}{}{Ezt meg tudom csinálni!}
+{1001}{}{Nem látom akadályát...}
 {1002}{}{Megvan!}
 {1003}{}{Örülök, hogy segíthettem.}
 {1004}{}{Oké.}
 {1005}{}{Megpróbálom.}
-
-#   Player wants to do it
 {1100}{}{Ha van valami gond, csak szólj!}
 {1101}{}{Megvan?}
 {1102}{}{Ahogy akarod...}

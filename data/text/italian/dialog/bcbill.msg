@@ -5,5 +5,4 @@
 {104}{}{Ehi, ho detto che non ho tempo per chiacchierare. Per favore, vattene.}
 {105}{}{Grazie per aver aiutato Rebecca. E' stata una bel gesto da parte tua.}
 {106}{}{Lasciami in pace. Non sono una minaccia per te.}
-#push messages
 {107}{}{Va bene, va bene. Mi sto spostando.}

@@ -1,11 +1,11 @@
 {100}{}{Vedi un mercante.}
-{101}{}{Vedi una mercante.}
+{101}{}{Vedi un mercante.}
 {102}{}{Vedi un eccitato mercante Shi. Come tutti gli altri, sembra non aver problemi di fiato.}
 {103}{}{Beeei polipi! Molto buoni!}
 {104}{}{Ti piace il pesce? Ecco il pesce!}
 {105}{}{Ehi! Ehi! Compra questo! Compra questo!}
 {106}{}{Non comprare da lui! E' un lurido ladro!}
-{107}{}{Vieni qui a guardare! Questo ti piacera'!}
+{107}{}{Vieni qui a guardare! Questo ti piace molto!}
 {108}{}{Guarda qua! Guarda qua! Guarda qua!}
 {109}{}{Ehi, lao wai! Vuoi fare un affare? Sono pieno di affari!}
 {110}{}{Vieni qui! Vieni qui! Vieni qui!}
@@ -31,7 +31,7 @@
 {130}{}{Credi che quello sia buono? Prova questo!}
 {131}{}{Abbiamo pesce, abbiamo alghe, abbiamo riso, abbiamo... uhm...}
 {132}{}{Qui non cresce molta roba, ma quella che cresce, noi l'abbiamo!}
-{133}{}{Abbiamo una liquidazione per la morte del consigliere!} ###???We got dead advisor sale
+{133}{}{Abbiamo una liquidazione per la morte del consigliere!}
 {134}{}{Cavoli... il nuovo capo imporra' nuove tasse?}
 {135}{}{Povero Ken Lee.}
 {136}{}{Shi-Town non sara' mai piu' la stessa senza il vecchio Ken Lee.}

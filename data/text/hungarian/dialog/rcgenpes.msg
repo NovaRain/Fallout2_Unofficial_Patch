@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy reddingi lakost látsz.}
 {101}{}{Ez a férfi helyi lakosnak tûnik.}
 {102}{}{Egy bányászt látsz.}
@@ -9,9 +8,9 @@
 {107}{}{Egy helyi nõt látsz.}
 {108}{}{Ez a nõ valószínûleg a bányában dolgozik.}
 {109}{}{Egy földmûves nõt látsz.}
-{110}{}{Mit bámulsz?}
+{110}{}{Mit néze'?}
 {111}{}{Üdvözlünk a Nagyvárosban!}
-{112}{}{Üdv!}
+{112}{}{Helló!}
 {113}{}{Régóta itt élsz Reddingben?}
 {114}{}{Elõször jársz Reddingben, mi?}
 {115}{}{Nem akarunk itt semmilyen zûrt.}
@@ -20,12 +19,12 @@
 {118}{}{Mi a helyzet?}
 {119}{}{Hogy vagy?}
 {120}{}{Jó napot.}
-{121}{}{Aha.}
+{121}{}{Ige'.}
 {122}{}{Üdv!}
 {123}{}{Itt egy férfi, kezében hûs itallal.}
 {124}{}{Ez a férfi éppen sört rendel.}
 {125}{}{Ez a fickó már túl sokat ivott.}
-{126}{}{Egy részeges fickót látsz.}
+{126}{}{Egy részeges nõt látsz.}
 {127}{}{Ez az úriember nagyon boldognak tûnik.}
 {128}{}{Itt egy nõ, kezében hûs itallal.}
 {129}{}{Ez a nõ éppen sört rendel.}
@@ -41,7 +40,7 @@
 {139}{}{Nem rossz egy törzsbélitõl, én mondom.}
 {140}{}{Erre már szükségem volt.}
 {141}{}{Mmm-hmmm.}
-{142}{}{Kösz.}
+{142}{}{Köszi.}
 {143}{}{Te vagy a legjobb barátom.}
 {144}{}{Micsoda egy pajti!}
 {145}{}{Te vagy a legjobb!}
@@ -122,7 +121,7 @@
 {220}{}{Te embereket eszel?}
 {221}{}{Én azt hittem, hogy a fejeden szarvaknak kéne lenniük.}
 {222}{}{Hová való vagy?}
-{223}{}{Messzirõl jössz?}
+{223}{}{Messzirõl jöttél?}
 {224}{}{Úgysem tudsz elkapni!}
 {225}{}{Nyah, nyah, nyah, nyah, nyah!}
 {226}{}{Viccesen nézel ki.}

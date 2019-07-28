@@ -1,4 +1,3 @@
-# Dialog Editor last position: 10
 {100}{}{Egy öreg, lerobbant Highwayman.}
 {110}{}{Ez a jármû sokkal rosszabb állapotban van, mint amilyennek látszik. Soha többé nem fog beindulni. A hátsó ülésén van egy jó állapotban lévõ, alkatrészekkel teli doboz.}
 {111}{}{Ez az autó nagyon rossz állpotban van. A hátsó ülésén van egy csomag.}

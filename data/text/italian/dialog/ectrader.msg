@@ -1,7 +1,8 @@
 {100}{}{Un venditore.}
 {101}{}{Willy.}
 {102}{}{Un viscido venditore ambulante.}
-{103}{}{Salve, amico. Il mio nome e' Willy e ho un affare da proporle. [Sembra stia leggendo da un pezzo di carta e dopo qualche istante ti addormenti.]}
+{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
+ a card, and after a while you doze off.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Apri intontito gli occhi quando finalmente ti accorgi che qualcuno ti sta dando dei calci.] Beh, e' interessato o no?}
 {106}{}{Interessato in cosa?}
@@ -18,7 +19,7 @@
 {117}{}{[Fine]}
 {118}{}{Merda! Che spreco di tempo. Su, sparisci!}
 {119}{}{[Fine]}
-{120}{}{Bene, un discorso sprecato. } #continue on 152
+{120}{}{Bene, un discorso sprecato. }
 {121}{}{Ci'.}
 {122}{}{No.}
 {123}{}{Ehi, e' di nuovo lei. Ho della roba nuova - le interessa?}
@@ -50,6 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-
 {152}{}{$. Lo vuoi o no?}
 {200}{}{.}

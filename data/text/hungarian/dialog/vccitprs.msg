@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy rabot látsz.}
 {101}{}{Egy rabot látsz aki valaha Polgár volt.}
 {102}{}{Nem túl szerencsés visszabeszélni Lynettnek.}

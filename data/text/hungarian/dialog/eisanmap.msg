@@ -1,1 +1,1 @@
-{100}{}{Úgy tûnik, van egy város a Katonai Bázistól nyugatra. Be is jelölted a PipBoyba.}
+{100}{}{There seems to be a city just west of the Military Base. You log it on your Pip-Boy.}

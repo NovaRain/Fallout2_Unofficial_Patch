@@ -7,7 +7,7 @@
 {106}{}{D'accordo, ci si vede.}
 {107}{}{Aspetta un secondo. Perche' non vuoi parlare con me?}
 {108}{}{Siamo una comunita' molto chiusa, e non vogliamo alcun problema o interferenza da fonti esterne. Per favore lasciaci stare.}
-{109}{}{Okay.}
+{109}{}{Ok.}
 {110}{}{Ciao... e arrivederci.}
 {111}{}{Grazie per tutto quello che hai fatto. Mi scuso per la freddezza di prima.}
 {112}{}{Fottiti, stronzo!}

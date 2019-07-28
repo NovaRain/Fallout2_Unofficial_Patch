@@ -1,10 +1,9 @@
-# Dialog Editor last position: 74
 {100}{}{Egy látszólag beteges férfit látsz, nagyon piszkos ruhában.}
 {101}{}{Ez Aldo, a város üdvözlõje. A leheletét már messzirõl érzed.}
 {200}{}{Üdv, pajtás! Még nem láttalak errefelé. Aldo vagyok, a város üdvözlõje. (hukk) Az én dolgom, hogy üdvözöljem az újonnan érkezetteket és válaszoljak a kérdéseikre errõl az idilli kis városról. Légy üdvözölve Klamathban! (hukk) Amúgy ki vagy?}
 {201}{}{Ööh, kösz a meleg fogadtatást, de csak átutazóban vagyok.}
 {202}{}{A nevem }
-{203}{}{. Köszönöm a meleg fogadtatást.}
+{203}{}{. Thanks for welcoming me here.}
 {204}{}{, Arroyóból. Én vagyok a Kiválasztott.}
 {205}{}{Nem hiszem, hogy tudnod kéne a nevemet, vagy bármi mást rólam. Kopj le, rohadt piás!}
 {206}{}{Nem hinném, hogy egy ilyen városnak, mint Klamath egy ilyen részeg disznó lenne az üdvözlõje, vagy bármi mása.}
@@ -33,7 +32,7 @@
 {550}{}{Kösz a semmit. Remélem, nem maradsz sokáig! Nem szeretjük a fajtádat. Törzsbéliek... mind egyformák.}
 {600}{}{Itt Klamathban néhányan földet mûvelnek, mások brahmint tenyésztenek, de a legtöbben gekkóra vadásznak.}
 {601}{}{Mi az a gekkó?}
-{602}{}{Ó, köszi. Azt hiszem, ez minden, ami érdekelt.}
+{602}{}{Kösz, azt hiszem, ennyi elég lesz.}
 {603}{}{Ez érdekes, de kérdeznék még valamit.}
 {650}{}{A gekkó egy nagyra nõtt gyík, amit a vadászok a húsa és a bõre miatt vadásznak. Persze a gekkó nem könnyû zsákmány, átkozottul veszélyes a rohadék. Azt javaslom, kerüld el õket barátom! Túl sok a gond velük.}
 {651}{}{Kösz, azt hiszem, ennyi elég lesz.}
@@ -60,7 +59,8 @@
 {860}{}{Itt, nem messze, a belvárosban. De úgy tudom, mostanában nem tudott eljutni a szeszfõzdéjéhez. Nem õ a legmegbízhatóbb gyógyszer-forrás egy olyan beteg embernek (hükk), mint én.}
 {861}{}{Kösz az információt, Aldo. Ez minden, amire kíváncsi voltam.}
 {862}{}{Még jó, hogy találtál másik forrást. Öö, nem tudnál kicsit másfelé lehelni? Lenne még egy kérdésem.}
-{870}{}{Helló, barátom! Kicsit elveszettnek tûnsz. Úgy látom, elkelne egy helyi jóbarát. Aldo vagyok, a város üdvözlõje.}
+{870}{}{Hello there, Friend -- you look a bit perplexed. What you need is a friend here in town. I'm
+ Aldo, the town greeter.}
 {871}{}{Barát? Hehe. }
 {872}{}{ szeret barát.}
 {873}{}{Pfúj, rossz szag. Menny el most!}
@@ -73,3 +73,6 @@
 {910}{}{Tulajdonképpen (hukk) nem tudom, merre lehet, már jó ideje nem láttam Vicet. Talán kérdezd meg (böff) Jennyt a Fürdõben! Õ meg Vic, (hukk) hát tudod... elég jóban voltak.}
 {911}{}{Lenne még egy kérdésem.}
 {912}{}{Kösz a tippet... megyek, mielõtt ezért is jutalmat kérnél.}
+{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
+{921}{}{Moar? Ook.}
+{922}{}{Me no share. Byee.}

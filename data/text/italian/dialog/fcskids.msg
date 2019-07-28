@@ -1,4 +1,4 @@
-{100}{}{Vedi un ragazzino.}
+{100}{}{Vedi un ragazzo.}
 {101}{}{Vedi un bambino.}
 {102}{}{Questo bambino non sembra diverso dagli altri bambini.}
 {103}{}{Sei brutto.}
@@ -32,4 +32,3 @@
 {131}{}{Non farmi male!}
 {132}{}{::piange::}
 {133}{}{Aiuto, Mamma!}
-

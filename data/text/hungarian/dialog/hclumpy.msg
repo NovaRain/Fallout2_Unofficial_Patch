@@ -38,6 +38,5 @@
 {137}{}{Oh. Te Oké?}
 {138}{}{Óh... nos... hmmmm. Minden... rendben?}
 {139}{}{Én mondtam nekik, hogy közlekedési táblák kellenének, de figyeltek rám? Neeem... Ne is figyeljetek a vén Lumpyra!}
-
-# Player float
 {200}{}{Ó, basszus!}
+{201}{}{Uh, oh. Me hit smelly man.}

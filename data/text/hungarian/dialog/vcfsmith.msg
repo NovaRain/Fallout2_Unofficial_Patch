@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy megfáradt asszony.}
 {101}{}{Smith asszonyt látod.}
 {102}{}{A férjem szeretne beszélni magával.}

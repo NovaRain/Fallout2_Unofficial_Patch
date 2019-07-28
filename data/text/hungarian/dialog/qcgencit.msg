@@ -1,10 +1,9 @@
-# Dialog Editor last position: 53
 {100}{}{Egy menedék-ruhát viselõ ember.}
 {101}{}{Az Enklávé egyik polgárát látod.}
 {102}{}{Egy kicsit sápadt, de fitt polgárt látsz.}
 {103}{}{Akár pihenhetnénk is egy kicsit?}
 {104}{}{Kíváncsi vagyok, mi lesz a film a biztonsági gyakorlaton.}
-{105}{}{Ki vagy te?}
+{105}{}{Mi vagy te?}
 {106}{}{Az idõjárás itt mindig ugyanolyan.}
 {107}{}{A Projekt jól halad.}
 {108}{}{Ez a Bird alelnök tiszta szégyen.}
@@ -15,12 +14,12 @@
 {113}{}{Csak egy újabb gyakorlat.}
 {114}{}{Mi ez a felhajtás?}
 {115}{}{Ez a reaktor szirénája!}
-{116}{}{Ajjaj!}
+{116}{}{Hûha.}
 {117}{}{Jobb ha beszerzek egy kis Rad-X-et.}
 {118}{}{Ez a szar mindig elromlik!}
 {119}{}{Azt hiszem, leégtem.}
 {120}{}{Lesz még melegebb is itt?}
-{121}{}{Hát ez nem jó!}
+{121}{}{Ez nem jó.}
 {122}{}{Picsába, picsába és a jó büdös picsába!}
 {123}{}{Hol a légzõmaszkom?}
 {124}{}{Mi ez a furcsa szag?}

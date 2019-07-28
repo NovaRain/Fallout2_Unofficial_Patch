@@ -1,1 +1,1 @@
-{100}{}{Vedi i resti di alcuni cittadini di Broken Hills.}x
+{100}{}{Vedi i resti di alcuni cittadini di Broken Hills.}

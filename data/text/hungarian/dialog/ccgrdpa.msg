@@ -1,23 +1,45 @@
-# Dialog Editor last position: 22
 {100}{}{Egy õrt látsz.}
 {101}{}{Egy õrt látsz erõpáncélban.}
 {102}{}{Egy õrt látsz, aki az erõpáncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
 {103}{}{Nincs jelenteni valóm.}
-{104}{}{Nálam nem történt semmi, és nálad?}
-{105}{}{Nem kéne az õrhelyeden lenned? Nem jó, ha csak így flangálsz itt.}
+{104}{}{Nálam semmi, és nálad?}
+{105}{}{Nem kéne a posztodon lenned? Nem jó, hogy itt csavarogsz.}
 {106}{}{Nincs rajtad egyenruha.}
-{107}{}{Jobb, ha jelentkezel az õrminél és szerzel egy páncélt.}
-{108}{}{Nagy kockázatot vállalsz, ha egyenruha nélkül mászkálsz itt. Jelentkezz a fegyvertárban!}
-{109}{}{Kik ezek a fickók?... Riadó! Behatolók!}
+{107}{}{Jelentkezz az õrmesternél és kapj magadra egy páncélt!}
+{108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
+{109}{}{Kik ezek a fickók?... Behatolók! Riadó!}
 {110}{}{Megtámadtak bennünket! Riadó!}
 {111}{}{Behatolók! Riadó!}
 {112}{}{Biztonsági riadó! Zárjátok le a bázist!}
-{113}{}{Zárjatok le mindent! Riadó!}
+{113}{}{Secure all stations! We're on alert!}
 {114}{}{Behatolók! Vörös kód!}
-{115}{}{Kifektetünk, ne félj!}
+{115}{}{Szétalázunk!}
 {116}{}{Az Enklávé lesz a világ ura!}
-{117}{}{Te elbuksz, az Enklávé fennmarad!}
+{117}{}{Te elpusztulsz, az Enklávé fennmarad!}
 {200}{}{...seggfej...}
 {201}{}{...igen, jobb ha húzol innen...}
 {202}{}{...ekkora tirpák köcsögöt...}
 {203}{}{...Igen, uram! Bassza meg, uram!...}
+{300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
+{301}{}{Nrg?}
+{302}{}{I am aware of this.}
+{303}{}{I'm sorry. I was just looking. I'll be going now.}
+{304}{}{There's been a change of plans. I'm taking this aircraft.}
+{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
+{311}{}{(Smile then attack.)}
+{312}{}{(Te is indulsz a dolgodra.)}
+{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat, code Red!}
+{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
+{320}{}{Right. And therefore you are...}
+{321}{}{About to leave. Sorry to bother you.}
+{322}{}{About to deliver an important message to the main base.}
+{323}{}{Oh, really? And what does this message say.}
+{324}{}{It's super top secret. I cannot tell you.}
+{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
+ mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
+ highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
+ as there isn't a moment to spare.}
+{326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
+{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
+{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{329}{}{[DONE]}

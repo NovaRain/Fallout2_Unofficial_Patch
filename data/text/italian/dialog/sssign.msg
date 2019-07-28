@@ -27,5 +27,4 @@
 {126}{}{E' un po' brusco, ma arriva diritto al punto.}
 {127}{}{(Indietro)}
 {128}{}{Ho letto abbastanza.}
-
 {130}{}{Testa fare male. Letto troppo.}

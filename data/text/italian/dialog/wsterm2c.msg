@@ -9,7 +9,7 @@
 {108}{}{Schiaccia il grosso pulsante rosso indicato con la parola OFF.}
 {109}{}{Esci}
 {110}{}{[Non sembra che tu sia in grado di capire come disattivare il programma.]}
-{111}{}{Exit}
+{111}{}{Esci}
 {112}{}{[Scrivere la parola "OFF" sembra aver sortito l'effetto voluto. Il sistema di riparazione automatizzata e' spento.]}
 {113}{}{Esci}
 {114}{}{[Per puro caso noti un cavo elettrico che va dal computer ad una presa nel muro. Lo schermo diventa nero non appena tiri il cavo.]}

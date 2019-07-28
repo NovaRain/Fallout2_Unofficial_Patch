@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{Egy férfit látsz harci páncélban.}
 {101}{}{Kagát látod harci páncélban.}
 {102}{}{Harci páncélt visel, és úgy tûnik, néhány egész tûrhetõ fegyvere is van.}

@@ -5,7 +5,7 @@
 {104}{}{Mit akarsz?}
 {105}{}{Nyug aarg.}
 {106}{}{Ki vagy te?}
-{107}{}{Mi ez a hely?}
+{107}{}{Mi ez a hely tulajdonképpen?}
 {108}{}{Hallottál valaha az ÉLET-rõl?}
 {109}{}{Eric megkért, hogy állítsam át a házára jutó árammennyiséget. Azt mondja, túl sokat izzad.}
 {110}{}{Eric igazán boldog a jól hûtött kis házában, és a város sem szenvedett áram-csökkenést!}
@@ -14,7 +14,7 @@
 {113}{}{Én? Brian vagyok. Egyedül üzemeltetem a generátort, ami árammal látja el ezt a várost.}
 {114}{}{Akkor te vagy az, akire szükségem van. Eric azt mondja, hogy túl meleg van nála, és szüksége lenne még egy kis áramra a légkondícionálójához.}
 {115}{}{Értem. Nagyon érdekes. Biztos nagyon felelõsségteljes munka.}
-{116}{}{Nagyszerû! Lenne még pár kérdésem.}
+{116}{}{Nagyszerû! Kérdeznék még ezt-azt, ha nem probléma.}
 {117}{}{Ez itt Broken Hills áramellátó központja. Az én dolgom karbantartani itt mindent... biztosítani, hogy a gép rendesen üzemeljen. Jól is üzemel... urántöltetek hajtják.}
 {118}{}{Ez nagyszerû. Lenne még pár kérdésem.}
 {119}{}{Urántöltetek?}
@@ -26,20 +26,20 @@
 {125}{}{Ha ez a szerkezet itt urántöltetekkel üzemel, több mint elég az energiátok egész Broken Hills ÉS New Reno ellátására. Észre se vennétek a különbséget. Gyerünk szépen!}
 {126}{}{De... de... Eric szenved!}
 {127}{}{Szóval, nincs esély semmiféle kis átállításra?}
-{128}{}{[morogva a kijelzõk felé fordul és alig hallhatóan ezt mondja:] Erõszakos fráter.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Nahiszen... Viszlát!}
 {130}{}{Hé! Ne nyúlj semmihez! Ez egy finom mûszer! Kifelé! Tûnés! Gyerünk! Menj haza!}
 {131}{}{Óóóh! Gombocskák!}
 {132}{}{Hát, nem, nem igazán az. Általában csak ülök itt, és figyelem a kijelzõket. Néha állítgatok kicsit a szerkentyûn, kapcsolgatok pár gombot. Ez minden, bárki meg tudná csinálni.}
 {133}{}{Szóval mondd csak, nem tudnál kicsivel több energiát irányítani Eric házának?}
 {134}{}{Bárki, hm? Szeretnék valami mást kérdezni...}
-{135}{}{Kösz az infót. Viszlát!}
+{135}{}{Kösz. Viszlát!}
 {136}{}{Nos, tekintve, hogy itt van az uránbánya, és figyelembe véve, hogy az atomenergia a jövõ energiaforrása, úgy tûnik, hogy lépést tartunk az idõvel. Lehet, hogy ez egy kisváros, de azért fejlõdik.}
 {137}{}{Hmm... Lenne még néhány kérdésem.}
-{138}{}{Igen. Viszlát!}
+{138}{}{Szuper. Viszlát!}
 {139}{}{Hát, igen, technikailag igaz, de...}
 {140}{}{Semmi de! Egyszerûen csak lusta vagy. Gyerünk!}
-{141}{}{Nem kell ilyen erõszakosnak lenni! [lehajtja a fejét, és elfordít egy kapcsolót] Tessék. Mondd meg neki, hogy ne panaszkodjon többet!}
+{141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
 {142}{}{Csupa szív vagy, haver!}
 {143}{}{Remélem, büszke vagy magadra! Ne is várj köszönetet! Csak megnehezítetted azt, ami egyébként tök egyszerû lett volna.}
 {144}{}{Talán csak többször kellene fürdenie. Viszlát!}

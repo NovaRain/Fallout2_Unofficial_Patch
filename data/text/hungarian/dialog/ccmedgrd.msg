@@ -1,4 +1,3 @@
-# Dialog Editor last position: 29
 {100}{}{Egy õrt látsz.}
 {101}{}{Egy harci páncélt viselõ õr.}
 {102}{}{Ez az ember harci páncélt visel. A mellkasán van egy jel, amit nem tudsz hova tenni.}
@@ -12,7 +11,7 @@
 {110}{}{Megtámadtak bennünket! Riadó!}
 {111}{}{Behatolók! Riadó!}
 {112}{}{Biztonsági riadó! Zárjátok le a bázist!}
-{113}{}{Helyezzétek biztonságba az állomásokat! Riadó!}
+{113}{}{Secure all stations! We're on alert!}
 {114}{}{Behatolók! Vörös kód!}
 {115}{}{Szétalázunk!}
 {116}{}{Az Enklávé lesz a világ ura!}

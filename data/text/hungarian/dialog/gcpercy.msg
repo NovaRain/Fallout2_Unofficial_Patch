@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez a ghoul nem nõtt túl nagyra.}
 {101}{}{Õ Percy Crump, a jólmenõ ghoul kereskedõ.}
 {102}{}{Egy alacsony, de keménykötésû ghoulhoz van szerencséd. Öltözéke szokatlanul elegáns a városlakókhoz képest.}
@@ -9,7 +8,7 @@
 {107}{}{Hótbiztos, hogy nem akarol segíteni az öreg Percynek? Hótbiztos ám, hogy elkõne a segíccség.}
 {108}{}{Hát ezt még jobban át kéne gondolnom. Addig is van valami cserealapja?}
 {109}{}{Hát akkor miért nem mondja el még egyszer, mirõl van szó?}
-{110}{}{Nem gondoltam volna, hogy akárhányszor bejövök, ezzel fog zaklatni. Elképesztõ. Na, ég áldja!}
+{110}{}{I didn't know you were going to pester me about that every time I came in. Sheesh. Goodbye.}
 {111}{}{Nem talá'tad még meg Woodyt? Kezdek naon aggoda'maskodni. Még sosem az életbe' nem vót távol ilyen sokára.}
 {112}{}{Sajna, még nem, de nem adtam fel. Van valamije, amit fel tudna ajánlani cserealapként?}
 {113}{}{Nem, még nem. Asszem, jobb, ha indulok is és folytatom a keresést.}
@@ -36,23 +35,23 @@
 {134}{}{Örülök, hogy segíthettem magán meg Woodyn. Kösz a gyógycuccért.}
 {135}{}{Király, könnyû munka egy csomó szajréért. Teccik.}
 {136}{}{Hát tod, vóna nekem egy barátosom, Woodynak híjják. Ez a Woody gyerek úgy alszik, mint ahogy senkisenem rajta kívül. Az a gond ezzee', hogy még utazgat is a lelkem, és a baj lépten-nyomon utóléri.}
-{137}{}{Nahiszen...}
+{137}{}{Oké.}
 {138}{}{Hát, nincs olyan egetverõ probléma errefele mostanába'. Legutóbb aszt hallottam, hogy a Woody gyerek elcsámborgott Rejtekbe. Tuggya, hol van az a Rejtek? }
 {139}{}{Igen, tudom, hol van. folytassa.}
 {140}{}{Ami azt illeti, nem tudom, hol az a Rejtek.}
 {141}{}{Ó, naon könnyû ám eljutni Rejtekbe. Nédda, bejelölöm itt neked a térképesmicsodádba-je.}
 {142}{}{Hé, nem ám tönkretenni! Na, folytassa csak...}
 {143}{}{Hát nem szaporítom itten a szót, mee' nem sok dolog történik itten Gekkóba'. Emellett persze a máshó élõk nem naon szoktak hozzá a fizimiskánkhó'...}
-{144}{}{Vagyis?}
+{144}{}{És?}
 {145}{}{Nem tudol te itten két dógot összeboroná'ni? Félek, hogy Woodyra ráhúzzák Rejtekbe' a vizes lepedõt, hosszú ám az út odafele, tán még élve eltemetik nekem aztat a szegény flótást. Kõne valaki ide, aki utánajár neki.}
 {146}{}{Merthogy...?}
 {147}{}{Hát, hiándzik. Azé. (Percy elhomályosult szemmel pislog rád) Aha, látom, tunni akarod, mi gyön le neked ebbõl!}
 {148}{}{Igen, általában ennél a résznél szoktam egyre növekvõ érdeklõdést tanúsítani. Folytassa!}
 {149}{}{Hát tudok egy helyet, ahun eccsomó békebeli anyagot halmoztak fel. Rad-X meg Radaway rakásba. Énnekem má' semmit senem ér, de egy simabõrû, mint te, tán hasznát veheti. Elvállalod akkó a munkát? Csak úgy fizetek, ha Woody épségbe' idetojja a képit.}
 {150}{}{Mégis mennyi az az "eccsomó"?}
-{151}{}{Rendben, elvállalom. Igyekszem mihamarabb visszajönni.}
-{152}{}{Nem, most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}
-{153}{}{Még jól át kell ezt gondolnom. Viszlát!}
+{151}{}{Benne. Hamarosan majd jövök.}
+{152}{}{Nem. Most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}
+{153}{}{Még át kell ezt gondolnom, Viszlát!}
 {154}{}{Annyi az, hogy az életbe senem kell neked annyi sosem az tuti. Na, benne vagyol?}
 {155}{}{Benne. Hamarosan majd jövök.}
 {156}{}{Nem. Most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}

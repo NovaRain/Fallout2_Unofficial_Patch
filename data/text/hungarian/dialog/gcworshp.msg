@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ennek a ghoulnak a nyakában egy sajátos talizmán lóg.}
 {101}{}{Az illetõ a Megújhodás Szektájának tagja.}
 {102}{}{Egy megelégedettségtõl sugárzó ghoult látsz.}

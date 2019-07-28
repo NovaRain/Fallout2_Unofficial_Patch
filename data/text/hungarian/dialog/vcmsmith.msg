@@ -1,9 +1,8 @@
-# Dialog Editor last position: 5
 {100}{}{Egy rongyos öltözetû, de becsületes képû farmert látsz.}
 {101}{}{Õ Smith.}
 {102}{}{Asszem, magát még nöm láttam mifelénk. Smith vagyok. Segíccsek?}
 {103}{}{Segíccsek?}
-{104}{}{Mit tud Menedékvárosról?}
+{104}{}{Tudna mesélni Menedékvárosról?}
 {105}{}{Mit csinál itt, jóember?}
 {106}{}{A Menedéket keresem.}
 {107}{}{Szeretnék segíteni magukon.}
@@ -11,14 +10,14 @@
 {109}{}{Nem, köszönöm, csak átutazóban vagyok. Viszlát!}
 {110}{}{Öh... Néza Nu-kik?}
 {111}{}{Amit ittön lát, az még nöm a Menedíkváros ... ez ittön még csak az Elõváros.}
-{112}{}{Miért nem laknak a városban?}
-{113}{}{Mit csinálnak itt?}
-{114}{}{Kérdezhetek még valamit?}
-{115}{}{Köszönöm. Viszlát!}
+{112}{}{Miért nem élnek a városban?}
+{113}{}{Mi a munkád?}
+{114}{}{Kérdezhetek valami mást?}
+{115}{}{Kösz. Viszlát!}
 {116}{}{Az asszonnya' túrjuk a fõ'det. Megélünk belûle, de nem tudni möddig.}
-{117}{}{Miért? Mi a gond?}
+{117}{}{Mi a probléma?}
 {118}{}{Miért nem élnek a városban?}
-{119}{}{Kérdezhetek még valamit?}
+{119}{}{Kérdezhetek valami mást?}
 {120}{}{Hát igen, nehéz idõk járnak. Viszlát!}
 {121}{}{Lássa, így van öz. Mosmá' mönnöm köll.}
 {122}{}{A városi Menedíket monggya? Csak eccõ láttam ... a kapun tú' van a sziklába vájva. De csak Pó'gárok möhetnek oda.}
@@ -32,12 +31,12 @@
 {130}{}{Hááát... egy ekére vágyunk, ha mán így kérdözte. Láthassa, kemény a fõ'd az ásónak.}
 {131}{}{Miben segíthetek?}
 {132}{}{Kérdezhetek valami mást?}
-{133}{}{Sajnálom, most már mennem kell. Viszlát!}
-{134}{}{Ha nincs jobb dó'ga.}
+{133}{}{Sajnálattal hallom. Viszlát!}
+{134}{}{Hogyne.}
 {135}{}{Mink is a pusztábó' gyüttünk, aká' csak maga. A magunkfajtának nöm jár más csak védölöm.}
 {136}{}{Védelem? Mitõl?}
 {137}{}{Kérdezhetek valami mást?}
-{138}{}{Köszönöm. Viszlát!}
+{138}{}{Kösz. Viszlát!}
 {139}{}{Mögvédenek minköt a haramiáktó', de azé mög fizetni köll. Eke né'kû' nöhéz összehozni a napi falás kenyöröt.}
 {140}{}{És ha szereznék maguknak egy ekét?}
 {141}{}{Kérdezhetek valami mást?}

@@ -1,11 +1,6 @@
-# 0. QUICK LOOK
 {100}{}{Vedi un mercenario ben equipaggiato.}
-
-# 0. LOOK
 {150}{}{Vedi un uomo dall'aspetto rude, vestito con un'armatura di cuoio. Numerose cicatrici e ferite da arma da fuoco ormai rimarginate coprono il suo corpo. La sua armatura e le sue armi, invece, sembrano ben tenute, quasi nuove.}
 {151}{}{Vedi un predone ben armato. Sta controllando la zona e sta accarezzando la sua arma.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Beh, non si puo' dire che questo figlio di puttana non abbia le palle...}
 {201}{}{Contatto!}
 {202}{}{Il perimetro e' stato violato!}
@@ -13,12 +8,10 @@
 {204}{}{All'erta, ragazzi, abbiamo un intruso!}
 {205}{}{Bene, sembra che qualcuno abbia voglia di farsi ammazzare…}
 {206}{}{Dannazione! Qualcuno ci ha scoperto!}
-{207}{}{Hai fatto entrare un po' di sabbia…}
+{207}{}{Sbaglio o e' puzza di cadavere, quella che sento?}
 {208}{}{Sei appena entrata nel posto *sbagliato*, troia.}
-{209}{}{Beh, guardate un po' che spavalderia ha questa puttana...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
-{250}{}{Siamo andati fuori a bere, e lui l'ha definita "ora di correzione comportamentale". Allora noi gli abbiamo rotto il culo.} ###???We went out drinking, and he called it 'attitude adjustment hour,' so we kicked his ass
+{209}{}{Beh, non si puo' dire che questa puttana non sia coraggiosa...}
+{250}{}{Siamo andati fuori a bere, e lui l'ha definita "ora di correzione comportamentale". Allora noi gli abbiamo rotto il culo.}
 {251}{}{Dobbiamo controllare quelle mine nella grotta...}
 {252}{}{E' quasi ora di andare a controllare nuovamente il perimetro…}
 {253}{}{Cavoli, quel selvaggio *puzza*. Come tutti quelli della sua razza.}
@@ -33,7 +26,7 @@
 {262}{}{Mi chiedo quando potro' togliermi di dosso questi stracci puzzolenti.}
 {263}{}{Lynette e' una bella donna. Beh, da un punto di vista aristocratico, dominante e schiavista.}
 {264}{}{…e allora *lei* fa, "quello e' il mio ombelico, imbecille!" Haw! Questa barzelletta mi fa *sempre* morire dal ridere.}
-{265}{}{Tutto bene.} ###??? Good to go
+{265}{}{Tutto bene.}
 {266}{}{Il capitano mi sta veramente frullando le palle…}
 {267}{}{Mi sento come se mi trovassi qui da sempre, in attesa soltanto che qualcuno si faccia vedere.}
-{268}{}{Vorrei tanto avere un altro posto dove andare.} ###??? other map
+{268}{}{Vorrei tanto avere un altro posto dove andare.}

@@ -1,166 +1,98 @@
-#
-# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
-#
-# Text labels e messages used by town e world map
-#
-# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
-#
-
-#
-# Town map entry-point selection names
-#
-# Format:
-#	city type.
-#	Up to 10 selection names
-#
-# Arroyo
-{200}{}{Ponte}
+{200}{}{Bridge}
 {201}{}{Villaggio}
-{202}{}{Entrata del Tempio}
+{202}{}{Sagrato del Tempio}
 {203}{}{Selva}
 {204}{}{Interno del Tempio}
-#
-# Den
 {210}{}{Zona Ovest}
 {211}{}{Zona Est}
 {212}{}{Zona Residenziale}
-#
-# Klamath
-{220}{}{Centro}
+{220}{}{Downtown}
 {221}{}{Trapper Town}
 {222}{}{Grotte dei Ratti}
-{223}{}{Terreni di Caccia}
-{224}{}{Pascoli}
+{223}{}{Territorio di Caccia}
+{224}{}{Pascolo}
 {225}{}{Canyon}
-#
-# Modoc
 {230}{}{Strada Principale}
 {231}{}{Bed & Breakfast}
 {232}{}{Pascoli dei Brahmin di Grisham}
 {233}{}{Giardino di Farrel}
 {234}{}{Sotto al Cesso}
 {235}{}{Pozzo Cittadino}
-#
-# Vault City
 {240}{}{Cortile}
 {241}{}{Citta' interna}
 {242}{}{Consiglio}
 {243}{}{Vault}
-#
-# Gecko
 {250}{}{Insediamento}
-{251}{}{Centrale Atomica}
+{251}{}{Centrale Energetica}
 {252}{}{Discarica}
 {253}{}{Tunnel d'Accesso}
-#
-# Broken Hills
-{260}{}{Centro}
+{260}{}{Downtown}
 {261}{}{Zona Residenziale}
-#
-# New Reno
 {270}{}{Virgin Street}
-{271}{}{2da strada}
+{271}{}{2da Strada}
 {272}{}{Zona Commerciale}
 {273}{}{Zona Est}
 {274}{}{Chop Shop}
 {275}{}{Palestra di Boxe}
-{276}{}{Transazione}
-#
-# Sierra Army Base
+{276}{}{Area del Vertibird}
 {280}{}{Campo di Battaglia}
 {281}{}{Livello 1: Personale}
 {282}{}{Livello 2: Magazzini}
 {283}{}{Livello 3: Lab. Robotica}
 {284}{}{Livello 4: Lab. Bioricerca}
-#
-# Vault 15
 {290}{}{Lo Squat}
 {291}{}{Abusivi}
 {292}{}{Abusivi}
 {293}{}{Vault 15}
 {294}{}{Entrata Est}
-#
-# New California Republic
 {300}{}{Bazaar}
 {301}{}{Consiglio 2}
-{302}{}{Centro}
+{302}{}{Downtown}
 {303}{}{Sala del Consiglio}
 {304}{}{Ranch Westin}
 {305}{}{Pascoli}
-#
-# Vault 13
 {310}{}{Entrata della Grotta}
 {311}{}{Vault 13}
-#
-# Military Base
-{320}{}{Entrata}
-{321}{}{Livello 1}
-{322}{}{Livello 2}
-{323}{}{Livello 3}
-{324}{}{Livello 4}
-#
-# Redding
-{330}{}{Centro}
+{320}{}{Entrance}
+{321}{}{Level 1}
+{322}{}{Level 2}
+{323}{}{Level 3}
+{324}{}{Level 4}
+{330}{}{Downtown}
 {331}{}{Miniera del Grande Wanamingo}
-{332}{}{Miniera Wanamingo}
+{332}{}{Wanamingo Mine}
 {333}{}{Campo Minerario}
 {334}{}{Tunnel del Centro}
 {335}{}{Tunnel della Miniera}
-#
-# San Francisco
 {340}{}{Chinatown}
 {341}{}{Porto}
-{342}{}{Petroliera}
+{342}{}{Tanker}
 {343}{}{Esterno dello Shuttle}
 {344}{}{Interno dello Shuttle}
 {345}{}{Hubologisti}
 {346}{}{Tempio Shi}
-#
-# Navarro
-{350}{}{Stazione di Servizio}
+{350}{}{Pompa di Benzina}
 {351}{}{Cancello Principale}
-#
-# The Enclave
 {360}{}{Porto}
 {361}{}{Centro di Detenzione}
 {362}{}{Boss Finale}
 {363}{}{Caserma}
-{364}{}{Ala Presidenziale}
+{364}{}{Area Presidenziale}
 {365}{}{Reattore}
 {366}{}{Stanza Trappola}
-#
-# Abbey
 {370}{}{Error:Blank}
-#
-# Primitive Tribe
 {380}{}{Error:Blank}
-#
-# Environmental Protection Agency
 {390}{}{Error:Blank}
-#
-# Modoc: Ghost Town Sub-Area
 {400}{}{La Citta' Fantasma}
 {401}{}{Caverna Principale}
-{402}{}{Lago Sotterraneo}
-#
-# Car Out of Gas
+{402}{}{Lago sotterraneo}
 {410}{}{Automobile Senza Benzina}
-#
-# Destroyed Arroyo
 {420}{}{Ponte Distrutto}
-#
-# Klamath Toxic Caves
 {430}{}{Grotte Tossiche}
-#
-# Den Slave Runs
-{440}{}{Raid Schiavista, Den}
-#
-# Predoni
+{440}{}{Raid Schiavista}
 {450}{}{Pozzo}
 {451}{}{Dirupo}
 {452}{}{Grotta d'Entrata}
-#
-# Random Encounter Desert
 {460}{}{Deserto}
 {461}{}{Deserto}
 {462}{}{Deserto}
@@ -171,8 +103,6 @@
 {467}{}{Deserto}
 {468}{}{Deserto}
 {469}{}{Deserto}
-#
-# Random Encounter Mountain
 {470}{}{Montagna}
 {471}{}{Caverna}
 {472}{}{Montagna}
@@ -183,8 +113,6 @@
 {477}{}{Caverna}
 {478}{}{Montagna}
 {479}{}{Montagna}
-#
-# Random Encounter City
 {480}{}{Citta' in Rovina}
 {481}{}{Citta' in Rovina}
 {482}{}{Citta' in Rovina}
@@ -193,8 +121,6 @@
 {485}{}{Citta' in Rovina}
 {486}{}{Citta' in Rovina}
 {487}{}{Citta' in Rovina}
-#
-# Random Encounter Coast
 {490}{}{Costiera}
 {491}{}{Costiera}
 {492}{}{Costiera}
@@ -205,60 +131,24 @@
 {497}{}{Costiera}
 {498}{}{Costiera}
 {499}{}{Costiera}
-#
-# New Reno: Golgatha
 {500}{}{Golgotha}
-#
-# Special Encounter: Whale Encounter
 {510}{}{Balena Spappolata}
-#
-# Special Encounter: Tin Woodsman
-{520}{}{Boscaiolo di Latta}
-#
-# Special Encounter: Big Head
-{521}{}{Testa Gigante}
-#
-# Special Encounter: Crashed Federation Shuttle
+{520}{}{Uomo di Latta}
+{521}{}{la Testa Enorme}
 {530}{}{Luogo dell'Impatto}
-#
-# Special Encounter: Unwashed Villagers
 {540}{}{Deserto}
-#
-# Special Encounter: Bridge Guardian
-{550}{}{Ponte}
-#
-# Special Encounter: Cafe of Broken Dreams
+{550}{}{Bridge}
 {560}{}{Caffe' dei Sogni Infranti}
-#
-# Special Encounter: Holy Hand Grenade 1
 {570}{}{Deserto}
-#
-# Special Encounter: Holy Hand Grenade 2
 {580}{}{Caverna}
-#
-# Special Encounter: Guardian of Forever
 {590}{}{Guardiano del Persempre}
-#
-# Special Encounter: Discarica di rifiuti tossici.
 {600}{}{Discarica di Rifiuti Tossici}
-#
-# Special Encounter: Pariahs
 {610}{}{Deserto}
-#
-# Special Encounter: Mad Brahmin
 {620}{}{Mandria di Brahmin}
-#
-# Caravan Encounters
 {630}{}{Deserto}
 {631}{}{Montagna}
-#
-# Fake Vault 13 A
 {640}{}{Caverna del Vault 13}
-#
-# Fake Vault 13 B
 {650}{}{Caverna}
-#
-# Shadow Areas (Those which fit nowhere else
 {660}{}{Costiera}
 {661}{}{Costiera}
 {662}{}{Deserto}
@@ -268,44 +158,23 @@
 {666}{}{Montagna}
 {667}{}{Deserto}
 {668}{}{Deserto}
-#
-# New Reno Stables
 {670}{}{Stalle}
-
-
-#
-# Terrain type names for world map hover button
-#
 {1000}{}{Deserto}
 {1001}{}{Montagne}
 {1002}{}{Citta'}
 {1003}{}{Costa}
-{1004}{}{Ignoto}  # Unknown/visited city
-
-
-# Misc messages
+{1004}{}{Ignoto}
 {1500}{}{Hai guadagnato 10,000 punti esperienza!}
 {1501}{}{Rovine}
 {1502}{}{L'automobile e' a secco.}
 {1503}{}{Questa e' un'automobile. Non sembra funzionare.}
-
-
-
-#
-# Worldmap Encounter messages
-#
-
 {2998}{}{Incontri:}
 {2999}{}{Vuoi incontrare:}
-
-# Encounter Table 0
 {3000}{}{Un gruppo di predoni.}
-{3001}{}{Qualche radscorpione.}
+{3001}{}{Alcuni radscorpioni.}
 {3002}{}{Ratti giganti.}
 {3003}{}{Un mercante e il suo seguito.}
 {3004}{}{<Special>}
-
-# Encounter Table 1
 {3050}{}{Un gruppo di predoni.}
 {3051}{}{Qualche mantide.}
 {3052}{}{Un gruppo di gecki.}
@@ -314,27 +183,17 @@
 {3055}{}{Un gruppo di ratti giganti.}
 {3056}{}{Un mercante e il suo seguito.}
 {3057}{}{<Special>}
-
-# Encounter Table 2
 {3100}{}{Un gruppo di predoni.}
 {3101}{}{Un gruppo di radscorpioni.}
 {3102}{}{Un gruppo di ratti giganti.}
 {3103}{}{Un mercante e il suo seguito.}
 {3104}{}{<Special>}
-
-# Encounter Table 3
 {3150}{}{Un gruppo di predoni.}
-
-# Encounter Table 4
 {3200}{}{Un gruppo di predoni.}
-
-# Encounter Table 5
 {3250}{}{Un gruppo di predoni.}
-
-# Encounter Table 6
 {3300}{}{Un gruppo di guerrieri.}
 {3301}{}{Un gruppo di cannibali.}
-{3302}{}{Un gruppo di piante sporigene e alcuni gecki argentati.}
+{3302}{}{Un gruppo di piante sporigene e qualche gecko argentato.}
 {3303}{}{Un gruppo di gecki argentati.}
 {3304}{}{Alcuni cacciatori di taglie.}
 {3305}{}{Alcuni cacciatori di taglie.}
@@ -359,8 +218,6 @@
 {3324}{}{Un gruppo di nomadi.}
 {3325}{}{Un uomo a guardia di un ponte.}
 {3326}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 7
 {3350}{}{Discarica di rifiuti tossici.}
 {3351}{}{Un cane solitario.}
 {3352}{}{Una mandria di brahmin.}
@@ -381,7 +238,7 @@
 {3367}{}{Un gruppo di piante sporigene.}
 {3368}{}{Un gruppo di ratti-porco.}
 {3369}{}{Un gruppo di ratti.}
-{3370}{}{Un gruppo di cacciatori che combattono contro cannibali.}
+{3370}{}{Un gruppo di cacciatori che combattono contro dei cannibali.}
 {3371}{}{Un gruppo di formiche.}
 {3372}{}{Un gruppo di cacciatori che combattono contro alcuni radscorpioni.}
 {3373}{}{Un piccolo gruppo di ratti-porco.}
@@ -393,11 +250,9 @@
 {3379}{}{Una testa di pietra gigante.}
 {3380}{}{Uno shuttle precipitato.}
 {3381}{}{Un Portale del Guardian.}
-{3382}{}{I Cavalieri di Re Artu'.}
+{3382}{}{I cavalieri di Re Artu'.}
 {3383}{}{Un boscaiolo di latta.}
 {3384}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 8
 {3400}{}{Un gruppo di guerrieri.}
 {3401}{}{Un gruppo di cannibali.}
 {3402}{}{Un gruppo di piante sporigene e qualche gecko argentato.}
@@ -423,8 +278,6 @@
 {3422}{}{Un piccolo gruppo di formiche.}
 {3423}{}{Un gruppo di cacciatori.}
 {3424}{}{Un gruppo di nomadi.}
-
-# Encounter Table 9
 {3450}{}{Discarica di rifiuti tossici.}
 {3451}{}{Un cane solitario.}
 {3452}{}{Una mandria di brahmin.}
@@ -454,8 +307,6 @@
 {3476}{}{I cavalieri di Re Artu'.}
 {3477}{}{Un boscaiolo di latta.}
 {3478}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 10
 {3500}{}{Una banda di reietti.}
 {3501}{}{Un gruppo di uomini di chiesa.}
 {3502}{}{Alcuni cacciatori di taglie.}
@@ -470,15 +321,13 @@
 {3511}{}{Qualche gecko argentato nascosto tra piante sporigene.}
 {3512}{}{Alcuni gecki.}
 {3513}{}{Qualche radscorpione nascosto tra piante sporigene.}
-{3514}{}{Qualche pianta sporigena.}
+{3514}{}{Alcune piante sporigene.}
 {3515}{}{Una famiglia di radscorpioni.}
 {3516}{}{Un gruppo di ratti-talpa.}
 {3517}{}{Un gruppo di uomini di chiesa che cercano di evitare un gruppo di guerrieri.}
 {3518}{}{Un gruppo di nomadi.}
 {3519}{}{Un uomo a guardia di un ponte.}
 {3520}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 11
 {3550}{}{Discarica di rifiuti tossici.}
 {3551}{}{Un cane solitario.}
 {3552}{}{Una mandria di brahmin.}
@@ -516,11 +365,9 @@
 {3584}{}{Una testa di pietra gigante.}
 {3585}{}{Uno shuttle precipitato.}
 {3586}{}{Un Portale del Guardian.}
-{3587}{}{I Cavalieri di Re Artu'.}
+{3587}{}{I cavalieri di Re Artu'.}
 {3588}{}{Un boscaiolo di latta.}
 {3589}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 12
 {3600}{}{Un branco di gecki dorati e una famiglia di radscorpioni.}
 {3601}{}{Alcuni banditi.}
 {3602}{}{Un gruppo di senzatetto.}
@@ -553,8 +400,6 @@
 {3629}{}{Un gruppo di trapper.}
 {3630}{}{Un uomo a guardia di un ponte.}
 {3631}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 13
 {3650}{}{Discarica di rifiuti tossici.}
 {3651}{}{Un cane solitario.}
 {3652}{}{Una mandria di brahmin.}
@@ -590,8 +435,6 @@
 {3682}{}{I cavalieri di Re Artu'.}
 {3683}{}{Un boscaiolo di latta.}
 {3684}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 14
 {3700}{}{Discarica di rifiuti tossici.}
 {3701}{}{Un cane solitario.}
 {3702}{}{Una mandria di brahmin.}
@@ -611,7 +454,7 @@
 {3716}{}{Una famiglia di gecki dorati.}
 {3717}{}{Una famiglia di ratti-talpa.}
 {3718}{}{Un grosso gruppo di radscorpioni.}
-{3719}{}{Un grossa infestazione di piante sporigene.}
+{3719}{}{Una grossa infestazione di piante sporigene.}
 {3720}{}{Una banda di ladri in lotta con un gruppo di rapinatori.}
 {3721}{}{Un mercante e il suo seguito che respingono alcuni rapinatori.}
 {3722}{}{Un mercante e il suo seguito che respingono alcuni ladri.}
@@ -625,8 +468,6 @@
 {3730}{}{I cavalieri di Re Artu'.}
 {3731}{}{Un boscaiolo di latta.}
 {3732}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 15
 {3750}{}{Una banda di rapinatori.}
 {3751}{}{Una banda di ladri.}
 {3752}{}{Una banda di ladri e rapinatori.}
@@ -652,8 +493,6 @@
 {3772}{}{Un mercante con alcune guardie.}
 {3773}{}{Un uomo a guardia di un ponte.}
 {3774}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 16
 {3800}{}{Discarica di rifiuti tossici.}
 {3801}{}{Un cane solitario.}
 {3802}{}{Una mandria di brahmin.}
@@ -686,8 +525,6 @@
 {3829}{}{I cavalieri di Re Artu'.}
 {3830}{}{Un boscaiolo di latta.}
 {3831}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 17
 {3850}{}{Un gruppo di schiavisti e schiavi.}
 {3851}{}{Un gruppo di rapinatori.}
 {3852}{}{Una banda di ladri.}
@@ -710,8 +547,6 @@
 {3869}{}{Alcuni schiavisti e schiavi che respingono alcuni gecki dorati.}
 {3870}{}{Un uomo a guardia di un ponte.}
 {3871}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 18
 {3900}{}{Alcuni rapinatori e ladri.}
 {3901}{}{Alcuni rapinatori.}
 {3902}{}{Un grosso branco di gecki dorati.}
@@ -733,8 +568,6 @@
 {3918}{}{Un mercante e il suo seguito.}
 {3919}{}{Un uomo a guardia di un ponte.}
 {3920}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 19
 {3950}{}{Alcuni rapinatori.}
 {3951}{}{Alcuni ladri.}
 {3952}{}{Alcuni senzatetto.}
@@ -762,8 +595,6 @@
 {3974}{}{Una mandria di brahmin.}
 {3975}{}{Un uomo a guardia di un ponte.}
 {3976}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 20
 {4000}{}{Alcuni rapinatori a caccia con cani selvatici.}
 {4001}{}{Alcuni ladri che cercano con cani selvatici.}
 {4002}{}{Una banda di ladri.}
@@ -788,8 +619,6 @@
 {4021}{}{Una carovana.}
 {4022}{}{Un uomo a guardia di un ponte.}
 {4023}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 21
 {4050}{}{Discarica di rifiuti tossici.}
 {4051}{}{Un cane solitario.}
 {4052}{}{Una mandria di brahmin.}
@@ -822,8 +651,6 @@
 {4079}{}{I cavalieri di Re Artu'.}
 {4080}{}{Un boscaiolo di latta.}
 {4081}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 22
 {4100}{}{Alcuni gecki dorati.}
 {4101}{}{Uno sciame di mantidi.}
 {4102}{}{Alcuni radscorpioni.}
@@ -845,8 +672,6 @@
 {4118}{}{Un commerciante e delle guardie.}
 {4119}{}{Un uomo a guardia di un ponte.}
 {4120}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 23
 {4150}{}{Discarica di rifiuti tossici.}
 {4151}{}{Un cane solitario.}
 {4152}{}{Una mandria di brahmin.}
@@ -876,8 +701,6 @@
 {4176}{}{I cavalieri di Re Artu'.}
 {4177}{}{Un boscaiolo di latta.}
 {4178}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 24
 {4200}{}{Discarica di rifiuti tossici.}
 {4201}{}{Un cane solitario.}
 {4202}{}{Una mandria di brahmin.}
@@ -908,8 +731,6 @@
 {4227}{}{I cavalieri di Re Artu'.}
 {4228}{}{Un boscaiolo di latta.}
 {4229}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 25
 {4250}{}{Alcuni ratti-talpa mutanti.}
 {4251}{}{Alcuni ratti-porco mutanti.}
 {4252}{}{Alcune piante sporigene.}
@@ -932,8 +753,6 @@
 {4269}{}{Un eremita.}
 {4270}{}{Un uomo a guardia di un ponte.}
 {4271}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 26
 {4300}{}{Una banda di schiavisti e alcuni cani.}
 {4301}{}{Una banda di schiavisti.}
 {4302}{}{Alcuni gecki dorati.}
@@ -955,8 +774,6 @@
 {4318}{}{Una pattuglia.}
 {4319}{}{Un uomo a guardia di un ponte.}
 {4320}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 27
 {4350}{}{Discarica di rifiuti tossici.}
 {4351}{}{Un cane solitario.}
 {4352}{}{Una mandria di brahmin.}
@@ -986,8 +803,6 @@
 {4376}{}{I cavalieri di Re Artu'.}
 {4377}{}{Un boscaiolo di latta.}
 {4378}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 28
 {4400}{}{Un grosso gruppo di sciacalli.}
 {4401}{}{Alcuni ghoul sciacalli.}
 {4402}{}{Un gruppo di matti.}
@@ -1012,8 +827,6 @@
 {4421}{}{Alcuni ratti mutanti che infestano alcuni ghoul sciacalli.}
 {4422}{}{Un uomo a guardia di un ponte.}
 {4423}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 29
 {4450}{}{Discarica di rifiuti tossici.}
 {4451}{}{Un cane solitario.}
 {4452}{}{Una mandria di brahmin.}
@@ -1046,8 +859,6 @@
 {4479}{}{I cavalieri di Re Artu'.}
 {4480}{}{Un boscaiolo di latta.}
 {4481}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 30
 {4500}{}{Alcuni cannibali.}
 {4501}{}{Alcuni selvaggi.}
 {4502}{}{Un gruppo di guerrieri.}
@@ -1067,8 +878,6 @@
 {4516}{}{Alcuni cannibali in lotta con alcuni selvaggi.}
 {4517}{}{Alcuni radscorpioni che attaccano alcuni selvaggi.}
 {4518}{}{Alcuni pescatori.}
-
-# Encounter Table 31
 {4550}{}{Discarica di rifiuti tossici.}
 {4551}{}{Un cane solitario.}
 {4552}{}{Una mandria di brahmin.}
@@ -1102,8 +911,6 @@
 {4580}{}{I cavalieri di Re Artu'.}
 {4581}{}{Un boscaiolo di latta.}
 {4582}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 32
 {4600}{}{Alcuni cannibali.}
 {4601}{}{Alcuni reietti.}
 {4602}{}{Alcuni selvaggi.}
@@ -1129,8 +936,6 @@
 {4622}{}{Un eremita.}
 {4623}{}{Un uomo a guardia di un ponte.}
 {4624}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 33
 {4650}{}{Discarica di rifiuti tossici.}
 {4651}{}{Un cane solitario.}
 {4652}{}{Una mandria di brahmin.}
@@ -1162,8 +967,6 @@
 {4678}{}{I cavalieri di Re Artu'.}
 {4679}{}{Un boscaiolo di latta.}
 {4680}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 34
 {4700}{}{Una carovana del Den.}
 {4701}{}{Alcuni rapinatori e ladri.}
 {4702}{}{Alcuni rapinatori.}
@@ -1187,8 +990,6 @@
 {4720}{}{Una carovana del Den.}
 {4721}{}{Un uomo a guardia di un ponte.}
 {4722}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 35
 {4750}{}{Discarica di rifiuti tossici.}
 {4751}{}{Un cane solitario.}
 {4752}{}{Una mandria di brahmin.}
@@ -1220,8 +1021,6 @@
 {4778}{}{I cavalieri di Re Artu'.}
 {4779}{}{Un boscaiolo di latta.}
 {4780}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 36
 {4800}{}{Alcuni gecki dorati e alcuni lupi.}
 {4801}{}{Alcuni cacciatori di concessioni.}
 {4802}{}{Alcuni lupi.}
@@ -1245,8 +1044,6 @@
 {4820}{}{Alcuni cercatori.}
 {4821}{}{Un uomo a guardia di un ponte.}
 {4822}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 37
 {4850}{}{Un branco di lupi e alcuni ratti-talpa.}
 {4851}{}{Alcuni radscorpioni e alcuni lupi.}
 {4852}{}{Alcuni ratti-talpa mutanti e alcuni radscorpioni.}
@@ -1268,8 +1065,6 @@
 {4868}{}{Alcuni ratti-talpa che combattono contro alcuni radscorpioni.}
 {4869}{}{Un uomo a guardia di un ponte.}
 {4870}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 38
 {4900}{}{Una banda di predoni.}
 {4901}{}{Alcuni lupi.}
 {4902}{}{Una carovana che respinge alcuni predoni.}
@@ -1291,8 +1086,6 @@
 {4918}{}{Una carovana.}
 {4919}{}{Un uomo a guardia di un ponte.}
 {4920}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 39
 {4950}{}{Discarica di rifiuti tossici.}
 {4951}{}{Un cane solitario.}
 {4952}{}{Una mandria di brahmin.}
@@ -1322,8 +1115,6 @@
 {4976}{}{I cavalieri di Re Artu'.}
 {4977}{}{Un boscaiolo di latta.}
 {4978}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 40
 {5000}{}{Una banda di predoni che guida alcuni lupi.}
 {5001}{}{Alcune piante sporigene e alcuni lupi.}
 {5002}{}{Una banda di predoni.}
@@ -1341,8 +1132,6 @@
 {5014}{}{Un branco di lupi che combattono contro alcuni predoni.}
 {5015}{}{Un uomo a guardia di un ponte.}
 {5016}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 41
 {5050}{}{Discarica di rifiuti tossici.}
 {5051}{}{Un cane solitario.}
 {5052}{}{Una mandria di brahmin.}
@@ -1368,8 +1157,6 @@
 {5072}{}{I cavalieri di Re Artu'.}
 {5073}{}{Un boscaiolo di latta.}
 {5074}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 42
 {5100}{}{Discarica di rifiuti tossici.}
 {5101}{}{Un cane solitario.}
 {5102}{}{Una mandria di brahmin.}
@@ -1391,8 +1178,6 @@
 {5118}{}{Un boscaiolo di latta.}
 {5119}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {5120}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 43
 {5150}{}{Una pattuglia dell'Enclave.}
 {5151}{}{Alcuni cacciatori di taglie.}
 {5152}{}{Alcuni cacciatori di taglie.}
@@ -1405,8 +1190,6 @@
 {5159}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {5160}{}{Un uomo a guardia di un ponte.}
 {5161}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 44
 {5200}{}{Una pattuglia dell'Enclave.}
 {5201}{}{Alcuni cacciatori di taglie.}
 {5202}{}{Alcuni cacciatori di taglie.}
@@ -1417,8 +1200,6 @@
 {5207}{}{Alcuni cacciatori di taglie.}
 {5208}{}{Alcuni cacciatori di taglie.}
 {5209}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
-
-# Encounter Table 45
 {5250}{}{Discarica di rifiuti tossici.}
 {5251}{}{Un cane solitario.}
 {5252}{}{Una mandria di brahmin.}
@@ -1448,8 +1229,6 @@
 {5276}{}{Un boscaiolo di latta.}
 {5277}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {5278}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 46
 {5300}{}{Alcuni alieni e deathclaw.}
 {5301}{}{Un manipolo di fluttuanti e centauri.}
 {5302}{}{Alcuni gecki di fuoco.}
@@ -1470,8 +1249,6 @@
 {5317}{}{Uno sciame di fluttuanti.}
 {5318}{}{Un uomo a guardia di un ponte.}
 {5319}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 47
 {5350}{}{Alcuni alieni e deathclaw.}
 {5351}{}{Un manipolo di fluttuanti e centauri.}
 {5352}{}{Alcuni gecki di fuoco.}
@@ -1490,8 +1267,6 @@
 {5365}{}{Alcuni alieni.}
 {5366}{}{Un branco di centauri.}
 {5367}{}{Uno sciame di fluttuanti.}
-
-# Encounter Table 48
 {5400}{}{Discarica di rifiuti tossici.}
 {5401}{}{Un cane solitario.}
 {5402}{}{Una mandria di brahmin.}
@@ -1515,8 +1290,6 @@
 {5420}{}{Un boscaiolo di latta.}
 {5421}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {5422}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 49
 {5450}{}{Un branco di gecki di fuoco.}
 {5451}{}{Un branco di gecki di fuoco.}
 {5452}{}{Un grosso branco di gecki dorati.}
@@ -1531,8 +1304,6 @@
 {5461}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {5462}{}{Un uomo a guardia di un ponte.}
 {5463}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 50
 {5500}{}{Un branco di gecki di fuoco.}
 {5501}{}{Un branco di gecki di fuoco.}
 {5502}{}{Un grosso branco di gecki dorati.}
@@ -1545,8 +1316,6 @@
 {5509}{}{Alcuni cacciatori di taglie.}
 {5510}{}{Alcuni cacciatori di taglie.}
 {5511}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
-
-# Encounter Table 51
 {5550}{}{Discarica di rifiuti tossici.}
 {5551}{}{Un cane solitario.}
 {5552}{}{Una mandria di brahmin.}
@@ -1576,8 +1345,6 @@
 {5576}{}{I cavalieri di Re Artu'.}
 {5577}{}{Un boscaiolo di latta.}
 {5578}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 52
 {5600}{}{Un branco di deathclaw.}
 {5601}{}{Un branco di gecki di fuoco.}
 {5602}{}{Una carovana che respinge deathclaw.}
@@ -1599,8 +1366,6 @@
 {5618}{}{Una carovana.}
 {5619}{}{Un uomo a guardia di un ponte.}
 {5620}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 53
 {5650}{}{Discarica di rifiuti tossici.}
 {5651}{}{Un cane solitario.}
 {5652}{}{Una mandria di brahmin.}
@@ -1628,8 +1393,6 @@
 {5674}{}{Un boscaiolo di latta.}
 {5675}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {5676}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 54
 {5700}{}{Alcuni yakuza.}
 {5701}{}{Una banda.}
 {5702}{}{Un branco di lupi.}
@@ -1648,8 +1411,6 @@
 {5715}{}{Un viaggiatore.}
 {5716}{}{Un uomo a guardia di un ponte.}
 {5717}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 55
 {5750}{}{Alcuni yakuza.}
 {5751}{}{Una banda.}
 {5752}{}{Un branco di lupi.}
@@ -1666,8 +1427,6 @@
 {5763}{}{Alcuni malviventi che combattono contro una banda.}
 {5764}{}{Alcuni malviventi.}
 {5765}{}{Un viaggiatore.}
-
-# Encounter Table 56
 {5800}{}{Discarica di rifiuti tossici.}
 {5801}{}{Un cane solitario.}
 {5802}{}{Una mandria di brahmin.}
@@ -1695,8 +1454,6 @@
 {5824}{}{I cavalieri di Re Artu'.}
 {5825}{}{Un boscaiolo di latta.}
 {5826}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-
-# Encounter Table 57
 {5850}{}{Una banda di furfanti e alcuni lupi.}
 {5851}{}{Una banda di furfanti.}
 {5852}{}{Un branco di lupi.}
@@ -1716,8 +1473,6 @@
 {5866}{}{Una pattuglia dell'Unita'.}
 {5867}{}{Un uomo a guardia di un ponte.}
 {5868}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 58
 {5900}{}{Una banda di mercenari.}
 {5901}{}{Una squadra di arruolamento.}
 {5902}{}{Una mandria di deathclaw.}
@@ -1735,8 +1490,6 @@
 {5914}{}{Hubologisti che combattono contro dei mercenari.}
 {5915}{}{Hubologisti che respingono una squadra di arruolamento.}
 {5916}{}{Hubologisti.}
-
-# Encounter Table 59
 {5950}{}{Una banda di mercenari.}
 {5951}{}{Una squadra di arruolamento.}
 {5952}{}{Una mandria di deathclaw.}
@@ -1756,8 +1509,6 @@
 {5966}{}{Hubologisti.}
 {5967}{}{Un uomo a guardia di un ponte.}
 {5968}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 60
 {6000}{}{Una banda di mercenari.}
 {6001}{}{Una squadra di arruolamento.}
 {6002}{}{Una mandria di deathclaw.}
@@ -1775,8 +1526,6 @@
 {6014}{}{Hubologisti che combattono contro dei mercenari.}
 {6015}{}{Hubologisti che respingono una squadra di arruolamento.}
 {6016}{}{Hubologisti.}
-
-# Encounter Table 61
 {6050}{}{Discarica di rifiuti tossici.}
 {6051}{}{Un cane solitario.}
 {6052}{}{Una mandria di brahmin.}
@@ -1805,8 +1554,6 @@
 {6075}{}{Un boscaiolo di latta.}
 {6076}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6077}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 62
 {6100}{}{Discarica di rifiuti tossici.}
 {6101}{}{Un cane solitario.}
 {6102}{}{Una mandria di brahmin.}
@@ -1837,8 +1584,6 @@
 {6127}{}{Un boscaiolo di latta.}
 {6128}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6129}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 63
 {6150}{}{Una banda di mercenari.}
 {6151}{}{Un branco di deathclaw.}
 {6152}{}{Un branco di gecki di fuoco.}
@@ -1858,8 +1603,6 @@
 {6166}{}{Una carovana che respinge alieni.}
 {6167}{}{Una carovana.}
 {6168}{}{Una carovana.}
-
-# Encounter Table 64
 {6200}{}{Discarica di rifiuti tossici.}
 {6201}{}{Un cane solitario.}
 {6202}{}{Una mandria di brahmin.}
@@ -1884,8 +1627,6 @@
 {6221}{}{Un boscaiolo di latta.}
 {6222}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6223}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 65
 {6250}{}{Una pattuglia dell'Enclave.}
 {6251}{}{Resti dell'Esercito del Master.}
 {6252}{}{Un branco di Deathclaw.}
@@ -1901,8 +1642,6 @@
 {6262}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {6263}{}{Un uomo a guardia di un ponte.}
 {6264}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 66
 {6300}{}{Discarica di rifiuti tossici.}
 {6301}{}{Un cane solitario.}
 {6302}{}{Una mandria di brahmin.}
@@ -1929,8 +1668,6 @@
 {6323}{}{Un boscaiolo di latta.}
 {6324}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6325}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 67
 {6350}{}{Una carovana che respinge alcuni resti dell'Esercito del Master.}
 {6351}{}{Una carovana che respinge alcuni resti dell'Esercito del Master.}
 {6352}{}{Una carovana che respinge alcuni deathclaw.}
@@ -1948,8 +1685,6 @@
 {6364}{}{Una carovana.}
 {6365}{}{Un uomo a guardia di un ponte.}
 {6366}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 68
 {6400}{}{Un branco di lupi.}
 {6401}{}{Uno sciame di mantidi.}
 {6402}{}{Una famiglia di radscorpioni.}
@@ -1964,8 +1699,6 @@
 {6411}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {6412}{}{Un uomo a guardia di un ponte.}
 {6413}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 69
 {6450}{}{Discarica di rifiuti tossici.}
 {6451}{}{Un cane solitario.}
 {6452}{}{Una mandria di brahmin.}
@@ -1989,8 +1722,6 @@
 {6470}{}{Un boscaiolo di latta.}
 {6471}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6472}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 70
 {6500}{}{Discarica di rifiuti tossici.}
 {6501}{}{Un cane solitario.}
 {6502}{}{Una mandria di brahmin.}
@@ -2023,8 +1754,6 @@
 {6529}{}{Un boscaiolo di latta.}
 {6530}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6531}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 71
 {6550}{}{Una banda di razziatori.}
 {6551}{}{Un branco di lupi.}
 {6552}{}{Un branco di radscorpioni.}
@@ -2048,8 +1777,6 @@
 {6570}{}{Un viaggiatore.}
 {6571}{}{Un uomo a guardia di un ponte.}
 {6572}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 72
 {6600}{}{Un distaccamento delle armate del Master.}
 {6601}{}{Una banda di razziatori.}
 {6602}{}{Alcuni Ranger che respingono una squadra delle armate del Master.}
@@ -2069,8 +1796,6 @@
 {6616}{}{Alcuni contadini.}
 {6617}{}{Un uomo a guardia di un ponte.}
 {6618}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 73
 {6650}{}{Discarica di rifiuti tossici.}
 {6651}{}{Un cane solitario.}
 {6652}{}{Una mandria di brahmin.}
@@ -2099,10 +1824,8 @@
 {6675}{}{Un boscaiolo di latta.}
 {6676}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6677}{}{Il Caffe' dei Sogni Infranti.}
-
-# Encounter Table 74
 {6700}{}{Resti dell'Esercito del Master che combattono contro ratti-talpa mutanti.}
-{6701}{}{Resti delle armate del Master.}
+{6701}{}{Resti dell'Esercito del Master.}
 {6702}{}{Uno sciame di mantidi.}
 {6703}{}{Un branco di ratti-talpa mutanti.}
 {6704}{}{Alcuni cacciatori di taglie.}
@@ -2117,8 +1840,6 @@
 {6713}{}{Un branco di radscorpioni.}
 {6714}{}{Un uomo a guardia di un ponte.}
 {6715}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-
-# Encounter Table 75
 {6750}{}{Discarica di rifiuti tossici.}
 {6751}{}{Un cane solitario.}
 {6752}{}{Una mandria di brahmin.}

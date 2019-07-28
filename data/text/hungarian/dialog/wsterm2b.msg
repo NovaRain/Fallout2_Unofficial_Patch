@@ -1,12 +1,9 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
-{100}{}{Számítógép-terminál. Bugos!!!}
+{100}{}{Számítógép-terminál.}
 {101}{}{Különbözõ helyeken és pózokban egy hiányos öltözetû nõ bukkan fel a számítógép képernyõjén.}
-{102}{}{Képtelen vagy elolvasni, mi van a képernyõn.}
+{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
 {103}{}{Hadianyag Hozzáférési Terminál
                                       Erõterek - Kikapcsolva
                                              Elektromos Lapok - Kikapcsolva}
-# a lõszer nem jó, mivel van itt egy pár fegyver is, szóval maradt a hadianyag
-# ki/bekapcsolvát írtam ide a nyelvhelyesség miatt
 {104}{}{Hadianyag Hozzáférési Terminál
                                       Erõterek - Kikapcsolva
                                              Elektromos Lapok - Bekapcsolva}
@@ -18,25 +15,24 @@
                                              Elektromos Lapok - Bekapcsolva}
 {107}{}{Elektromos lapok kikapcsolása}
 {108}{}{Erõterek kikapcsolása}
-#107-108 fel voltak csererlve. Nyilvan probaltad a fennallo bugot javítani, de ne igy. A bug az bug, de #ne tetezzuk. (bass)
 {109}{}{Levelek olvasása}
 {110}{}{Kilépés}
 {111}{}{[Nem gond, hogy megpróbáld, de ez a macskakaparás nem mond valami sokat neked.]}
 {112}{}{Elektromos lapok kikapcsolása.
                                      Kérem, adja meg a jelszót:}
-{113}{}{Védelmi rendszer feltörése}
+{113}{}{Feltöröd a védelmi rendszert}
 {114}{}{Megpróbálsz rájönni a jelszóra}
 {115}{}{Visszatérés a Fõmenübe}
 {116}{}{Kilépés}
 {117}{}{[Ez a program túl összetett ahhoz, hogy megértsd.]}
-{118}{}{Visszatérés a Fõmenübe.}
+{118}{}{Visszatérés a Fõmenübe}
 {119}{}{Kilépés}
 {120}{}{[Sikerül megkerülnöd a jelszót és kikapcsolni az elektromos lapokat.]}
 {121}{}{Visszatérés a Fõmenübe}
 {122}{}{Kilépés}
 {123}{}{Erõterek kikapcsolása.
                                                  Kérem, adja meg a jelszót:}
-{124}{}{Védelmi rendszer feltörése}
+{124}{}{Feltöröd a védelmi rendszert}
 {125}{}{Megpróbálsz rájönni a jelszóra}
 {126}{}{Visszatérés a Fõmenübe}
 {127}{}{Kilépés}
@@ -67,18 +63,15 @@
 {148}{}{[Miközben füst tör fel a számítógép-terminálból, halk búgásra leszel figyelmes. Megdöbbenve állsz és bámulod, ahogy a billentyûzet ragacsos tócsává változik. Hmm... ez valószínûleg egyike azoknak a vírusoknak, amirõl már hallottál korábban.]}
 {149}{}{Kilépés}
 {150}{}{Klinger vagyok a 8063-as körzetbõl. Égetõ szükségünk van a 102-53B sorozatszámú alkatrészre. Ha megsürgeted az eljárást, van egy láda 2155-es évjáratú Chateau Lafayett-em a számodra. Küldd el nekem, amilyen gyorsan csak lehet!}
-# ASAP??? ötlet As soon as possible (bass)
 {151}{}{Más levelet is elolvasok}
 {152}{}{Kilépés}
 {153}{}{[Milyen hihetetlen szerencse! Sikerült rájönnöd a helyes jelszóra. "Dudák"] Elektromos Lapok kikapcsolása folyamatban!}
-# Ez aztán a szleng:)
 {154}{}{Visszatérés a Fõmenübe}
 {155}{}{Kilépés}
 {156}{}{[Akárhogy is próbálkozol, képtelen vagy rájönni a jelszóra.]}
 {157}{}{Visszatérés a Fõmenübe}
 {158}{}{Kilépés}
 {159}{}{[Ez az ember bizonyára nagyon rajong a nõi keblekért. A jelszó a következõ volt: "Mellbimbók"]  Erõterek kikapcsolása folyamatban!}
-#és ez is... 
 {160}{}{Visszatérés a Fõmenübe}
 {161}{}{Kilépés}
 {162}{}{[Akárhogy is próbálkozol, képtelen vagy rájönni a jelszóra.]}
@@ -86,5 +79,6 @@
 {164}{}{Kilépés}
 {165}{}{[Ügyködésednek hála, a képernyõ hirtelen az arcodba robbant.]}
 {166}{}{Kilépés}
-
 {200}{}{[Ez a terminál többé már nem mûködõképes.]}
+{300}{}{You disable the shock plates.}
+{400}{}{A Számítógép Diagnosztikai Módban van. Kérem, várjon, amíg a Diagnosztikai Program futása befejezõdik!}

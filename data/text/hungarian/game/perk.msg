@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Megfigyelés}
 {102}{}{Gyorsabb pusztakezes támadás}
 {103}{}{Nagyobb közelharci sebzés}
@@ -21,7 +15,7 @@
 {115}{}{Céllövõ}
 {116}{}{Csendes futás}
 {117}{}{Túlélõ}
-{118}{}{Kereskedõ mester}
+{118}{}{Ügyes kereskedõ}
 {119}{}{Mûvelt}
 {120}{}{Gyógyító}
 {121}{}{Kincskeresõ}
@@ -40,7 +34,7 @@
 {134}{}{Mester-tolvaj}
 {135}{}{Szónok}
 {136}{}{Nagy Dobás!}
-{137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
+{137}{}{ERROR -- UNIMPED}
 {138}{}{Zsebtolvaj}
 {139}{}{Szellem}
 {140}{}{Személyi kultusz}
@@ -57,11 +51,11 @@
 {151}{}{Gyorsan tanuló}
 {152}{}{Új speciális képzettség!}
 {153}{}{Mutáció!}
-{154}{}{Nuka-Cola függõség}
-{155}{}{Buffout függõség}
-{156}{}{Mentát függõség}
-{157}{}{Pszicho függõség}
-{158}{}{Radaway függõség}
+{154}{}{Nuka-Cola Addiction}
+{155}{}{Buffout Addiction}
+{156}{}{Mentats Addiction}
+{157}{}{Psycho Addiction}
+{158}{}{Radaway Addiction}
 {159}{}{Nagy távolságú fegyver}
 {160}{}{Pontos fegyver}
 {161}{}{Páncéltörõ fegyver}
@@ -70,12 +64,12 @@
 {164}{}{Harci páncél}
 {165}{}{Távcsöves fegyver}
 {166}{}{Gyorsabb újratöltés}
-{167}{}{Éjjellátós fegyver}
+{167}{}{Éjjellátó fegyver}
 {168}{}{Tüzes fegyver}
 {169}{}{Fejlesztett páncél I}
 {170}{}{Fejlesztett páncél II}
-{171}{}{Jet-függõség}
-{172}{}{Tragic kártya-függõség}
+{171}{}{Jet Addiction}
+{172}{}{Tragic Addiction}
 {173}{}{Páncél karizma}
 {174}{}{Gekkónyúzó}
 {175}{}{Dermális páncél}
@@ -108,7 +102,7 @@
 {202}{}{Pirománia}
 {203}{}{Gyors talpraállás}
 {204}{}{Üzletember}
-{205}{}{Kõfal}
+{205}{}{Betonfejû}
 {206}{}{Tolvaj}
 {207}{}{Fegyverkezelés}
 {208}{}{Menedékvárosi képzés}
@@ -121,12 +115,8 @@
 {215}{}{Autodoki által lecsökkent életerõ}
 {216}{}{Autodoki által lecsökkent életerõ II}
 {217}{}{Szakavatott ürülékkutató}
-{218}{}{Fegyver általi kiütés}
+{218}{}{Extra Fegyver}
 {219}{}{Balszerencse}
-
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{A Megfigyeléssel minden lényrõl részletes információt kapsz, ha megvizsgálod õket. Láthatod, hogy pontosan hány életpontja van, és milyen fegyvert tart a kezében.}
 {1102}{}{Ismered a keleti harcmûvészeteket, vagy ha jobban tetszik, egyszerûen gyorsabban ütsz. Akárhogy is, a pusztakezes támadásid 1 AP-val kevesebbe kerülnek.}
 {1103}{}{Az ökölharcban szerzett jártasságod elõnyt jelent, mikor sebzel. E képesség minden szintjével +2 ponttal nõ az Ökölharc és a Közelharci sebzésed.}
@@ -169,7 +159,7 @@
 {1140}{}{A hírneved mindig "pozitív". E képességgel a negatív hírnév nincs rossz hatással a jó természetû emberekre. De a fordítottja is igaz: a gonosz emberek Mr. Jófiút is bandatagként kezelik.}
 {1141}{}{Több lõszert találsz a posztholokauszt átlagos túlélõinél. Ez a képesség megduplázza a véletlenszerû események során talált lõszer mennyiségét.}
 {1142}{}{A felfedezõ célja, hogy új és érdekes helyeket fedezzen fel. Ezzel a képességgel nagyobb esélyed van különleges helyek és emberek megtalálására.}
-{1143}{}{Ezzel a képességgel 50%-kal kisebb az esélye, hogy drogfüggõ legyél, és a drogok káros hatását is csak fele annyi ideig kell elviselned.}
+{1143}{}{With this Perk, you are less likely to be addicted to chems (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{A nyomkeresõ mindig megtalálja a rövidebb utat. A képesség minden szintje 25%-kal csökkenti a világtérképen való utazás idejét.}
 {1145}{}{Az állatok soha nem támadják meg a barátjukat, amíg az nem fenyegeti, vagy meg nem támadja õket.}
 {1146}{}{Távolabbra látsz, mint valaha. A világtérképen minden irányban egy kockával messzebb látsz, és megnõ az esélye annak is, hogy különleges helyeket találj.}
@@ -201,48 +191,48 @@
 {1172}{}{Égetõ vágyat érzel egy újabb Tragic kártyacsomag felnyitására.}
 {1173}{}{Páncél karizma}
 {1174}{}{Megtanultad, hogyan nyúzd meg a gekkót a bõréért.}
-{1175}{}{Belsõ védelemre tettél szert a fizikai támadások ellen.}     # Dermal Impact Armor
-{1176}{}{Nagy mértékû belsõ védelmed van a fizikai támadások ellen.}  # Dermal Impact Assault Enhancement
-{1177}{}{Belsõ védelemre tettél szert a hõalapú támadások ellen.}     # Phoenix Armor Implants
-{1178}{}{Nagy mértékû belsõ védelmed van a hõalapú támadások ellen.}  # Phoenix Assault Enhancement
-{1179}{}{10%-ot kaptál a méreg és a sugárzás ellenállásodhoz.}  # Vault City Inoculations
-{1180}{}{Ezzel a képességgel 1-et kapsz az Erõdhöz, ha az Életpontjaid a maximális felére csökkennek.} # Adrenaline Rush
-{1181}{}{Mivel figyelmesebb vagy a külvilágban, az ellenségeid nem tudnak olyan könnyen a hátad mögé lopakodni. 3 pontot kapsz az Érzékelésedhez, amikor a véletlenszerû események során helymeghatározásra kerül sor}  # Cautious Nature
-{1182}{}{Olvasás közben odafigyelsz a részletekre. Amikor elolvasol egy könyvet, 50%-kal több képzettségi pontot kapsz.}  # Comprehension
-{1183}{}{Mesterien kezeled a robbanóanyagokat. Mindig akkor robbanak föl, amikor kell, és persze többet is sebeznek.}  # Demolition Expert
-{1184}{}{A kocka mestere vagy. 20%-ot kapsz a Szerencsejáték képzettségedhez.}  # Gambler
-{1185}{}{Ezzel a képességgel 1-el nõ az Erõd.}     # Gain Strength
-{1186}{}{Ezzel a képességgel 1-el nõ az Érzékelésed.}   # Gain Perception
-{1187}{}{Ezzel a képességgel 1-el nõ a Kitartásod.}    # Gain Endurance
-{1188}{}{Ezzel a képességgel 1-el nõ a Karizmád.}     # Gain Charisma
-{1189}{}{Ezzel a képességgel 1-el nõ a Intelligenciád.} # Gain Intelligence
-{1190}{}{Ezzel a képességgel 1-el nõ az Ügyességed.}      # Gain Agility
-{1191}{}{Ezzel a képességgel 1-el nõ a Szerencséd.}         # Gain Luck
-{1192}{}{Ártatlan viselkedésed miatt könnyebben tudsz lopni az emberektõl. 20%-ot kapsz a Lopás képzettségedhez.}  # Harmless
-{1193}{}{Ezzel a képességgel most rögtön lépsz egy szintet.}  # Here and Now
-{1194}{}{Ha egyik kezedben sem tartasz semmit, minden fel nem használt akciópont 1 helyett 2-vel növeli a Védelmi értékedet, amihez az Ökölharc képzettséged 1/12-e is hozzáadódik.}  # HtH Evade
-{1195}{}{Ha szexrõl van szó, akkor te írtad a könyvet.}  # Kama Sutra Master
-{1196}{}{Karmád kétszer fényesebben ragyog. Legyen akár jó, akár rossz, értéke az emberi reakciók és egyéb módosítók szempontjából duplán számít.}  # Karma Beacon
-{1197}{}{Mozgékony vagy, szerencsés és mindig óvatos. Ez a képesség megfelezi a csapdába lépés esélyét.}  # Light Step
-{1198}{}{Behatóbban ismered az élõlényeket, így a gyengéik és az erõsségeik is nyilvánvalóak számodra. E képesség egyszeri 10%-os bónuszt ad az Orvos képzettséged- hez, továbbá élõlények ellen 5-tel többet sebzel.}  # Living Anatomy
-{1199}{}{Egyel több társat vehetsz fel, de ne feledd, hogy ötnél több mindig tömegnyomort jelent!}  # Magnetic Personality
-{1200}{}{Nagy tapasztalatú tárgyaló vagy. Nem csak jobban üzletelsz, de bárhova be-, és bármibõl ki is tudod magad dumálni. +10%-ot kapsz az Üzletelés és a Beszéd képzettségekhez.}  # Negotiator
-{1201}{}{Jobban el tudod rendezni a dolgaidat. Így képes vagy elcipelni azt a kis pluszt, amit mindig is akartál.}  # Pack Rat
-{1202}{}{Többet sebzel tûzalapú fegyverekkel, és az ellenségeid mindig a legbrutálisabb, legtüzesebb módon halnak meg.}  # Pyromaniac
-{1203}{}{Ha padlóra küldenek, gyorsabban állsz talpra.}  # Quick Recovery
-{1204}{}{Ügyes eladó vagy. Ezzel a képességgel 20%-ot kapsz az Üzletelés képzettségedhez.}  # Salesman
-{1205}{}{Harcban sokkal nehezebb téged a földre teríteni.}  # Stonewall
-{1206}{}{Vérbeli tolvaj vagy. Ezzel a képességgel egyszeri 10%-os bónuszt kapsz a Lopózás, a Lopás, a Zárnyitás és a Csapdák képzettségeidhez. Az ügyes tolvaj tovább él.}  # Thief
-{1207}{}{Sokkal nagyobb fegyvereket is elbírsz, mint amiket más esetben elbírnál. Mikor a fegyverek erõkövetelménye kerül számításba, 3-at kapsz az Erõdhöz.}  # Weapon Handling
-{1208}{}{Te is részesültél a Menedékváros által nyújtott orvosi képzésben.}  # Vault City Training
-{1209}{}{A gyakori részegség kevéssel növelte az életpontjaidat.}  # Alcohol Enhanced hit points
-{1210}{}{A gyakori részegség kicsivel tovább növelte az életpontjaidat.}  # Alcohol Enhanced hit points II
-{1211}{}{A gyakori részegség kevéssel csökkentette az életpontjaidat.}  # Alcohol Lowered hit points
-{1212}{}{A gyakori részegség kicsivel tovább csökkentette az életpontjaidat.}  # Alcohol Lowered hit points II
-{1209}{}{Az autodoki rendszeres használata kevéssel növelte az életpontjaidat.}  # Autodoc Enhanced hit points
-{1210}{}{Az autodoki rendszeres használata kicsivel tovább növelte az életpontjaidat.}  # Autodoc Enhanced hit points II
-{1211}{}{Az autodoki rendszeres haszálata kevéssel csökkentette az életpontjaidat.}  # Autodoc Lowered hit points
-{1212}{}{Az autodoki rendszeres használata kicsivel tovább csökkentette az életpontjaidat.}  # Autodoc Lowered hit points II
+{1175}{}{Belsõ védelemre tettél szert a fizikai támadások ellen.}
+{1176}{}{Nagy mértékû belsõ védelmed van a fizikai támadások ellen.}
+{1177}{}{Belsõ védelemre tettél szert a hõalapú támadások ellen.}
+{1178}{}{Nagy mértékû belsõ védelmed van a hõalapú támadások ellen.}
+{1179}{}{10%-ot kaptál a méreg és a sugárzás ellenállásodhoz.}
+{1180}{}{Ezzel a képességgel 1-et kapsz az Erõdhöz, ha az Életpontjaid a maximális felére csökkennek.}
+{1181}{}{Mivel figyelmesebb vagy a külvilágban, az ellenségeid nem tudnak olyan könnyen a hátad mögé lopakodni. 3 pontot kapsz az Érzékelésedhez, amikor a véletlenszerû események során helymeghatározásra kerül sor}
+{1182}{}{Olvasás közben odafigyelsz a részletekre. Amikor elolvasol egy könyvet, 50%-kal több képzettségi pontot kapsz.}
+{1183}{}{Mesterien kezeled a robbanóanyagokat. Mindig akkor robbanak föl, amikor kell, és persze többet is sebeznek.}
+{1184}{}{A kocka mestere vagy. 20%-ot kapsz a Szerencsejáték képzettségedhez.}
+{1185}{}{Ezzel a képességgel 1-el nõ az Erõd.}
+{1186}{}{Ezzel a képességgel 1-el nõ az Érzékelésed.}
+{1187}{}{Ezzel a képességgel 1-el nõ a Kitartásod.}
+{1188}{}{Ezzel a képességgel 1-el nõ a Karizmád.}
+{1189}{}{Ezzel a képességgel 1-el nõ a Intelligenciád.}
+{1190}{}{Ezzel a képességgel 1-el nõ az Ügyességed.}
+{1191}{}{Ezzel a képességgel 1-el nõ a Szerencséd.}
+{1192}{}{Ártatlan viselkedésed miatt könnyebben tudsz lopni az emberektõl. 20%-ot kapsz a Lopás képzettségedhez.}
+{1193}{}{Ezzel a képességgel most rögtön lépsz egy szintet.}
+{1194}{}{Ha egyik kezedben sem tartasz semmit, minden fel nem használt akciópont 1 helyett 2-vel növeli a Védelmi értékedet, amihez az Ökölharc képzettséged 1/12-e is hozzáadódik.}
+{1195}{}{Ha szexrõl van szó, akkor te írtad a könyvet.}
+{1196}{}{Karmád kétszer fényesebben ragyog. Legyen akár jó, akár rossz, értéke az emberi reakciók és egyéb módosítók szempontjából duplán számít.}
+{1197}{}{Mozgékony vagy, szerencsés és mindig óvatos. Ez a képesség megfelezi a csapdába lépés esélyét.}
+{1198}{}{Behatóbban ismered az élõlényeket, így a gyengéik és az erõsségeik is nyilvánvalóak számodra. E képesség egyszeri 10%-os bónuszt ad az Orvos képzettséged- hez, továbbá élõlények ellen 5-tel többet sebzel.}
+{1199}{}{Egyel több társat vehetsz fel, de ne feledd, hogy ötnél több mindig tömegnyomort jelent!}
+{1200}{}{Nagy tapasztalatú tárgyaló vagy. Nem csak jobban üzletelsz, de bárhova be-, és bármibõl ki is tudod magad dumálni. +10%-ot kapsz az Üzletelés és a Beszéd képzettségekhez.}
+{1201}{}{Jobban el tudod rendezni a dolgaidat. Így képes vagy elcipelni azt a kis pluszt, amit mindig is akartál.}
+{1202}{}{Többet sebzel tûzalapú fegyverekkel, és az ellenségeid mindig a legbrutálisabb, legtüzesebb módon halnak meg.}
+{1203}{}{Ha padlóra küldenek, gyorsabban állsz talpra.}
+{1204}{}{Ügyes eladó vagy. Ezzel a képességgel 20%-ot kapsz az Üzletelés képzettségedhez.}
+{1205}{}{Harcban sokkal nehezebb téged a földre teríteni.}
+{1206}{}{Vérbeli tolvaj vagy. Ezzel a képességgel egyszeri 10%-os bónuszt kapsz a Lopózás, a Lopás, a Zárnyitás és a Csapdák képzettségeidhez. Az ügyes tolvaj tovább él.}
+{1207}{}{Sokkal nagyobb fegyvereket is elbírsz, mint amiket más esetben elbírnál. Mikor a fegyverek erõkövetelménye kerül számításba, 3-at kapsz az Erõdhöz.}
+{1208}{}{Te is részesültél a Menedékváros által nyújtott orvosi képzésben.}
+{1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}
+{1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}
+{1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}
+{1212}{}{Your hit points have been lowered slightly by repeated drunkeness.}
+{1213}{}{Az autodoki rendszeres használata kevéssel növelte az életpontjaidat.}
+{1214}{}{Az autodoki rendszeres használata kicsivel tovább növelte az életpontjaidat.}
+{1215}{}{Az autodoki rendszeres használata kicsivel tovább csökkentette az életpontjaidat.}
+{1216}{}{Az autodoki rendszeres használata kicsivel tovább csökkentette az életpontjaidat.}
 {1217}{}{Ez a képesség talán még a nyelvezeteden is meglátszik majd!}
 {1218}{}{Extra Fegyver}
 {1219}{}{A jó hír az, hogy körülötted mindenki többször vét kritikus hibát csatában, a rossz hír az, hogy te is!}

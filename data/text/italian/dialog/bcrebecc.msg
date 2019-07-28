@@ -6,10 +6,10 @@
 {105}{}{Perche' bisogno parlare privato?}
 {106}{}{Okay.}
 {107}{}{No. Me va via.}
-{108}{}{Scusa, ma non mi interessa.}
+{108}{}{Scusa, non mi interessa.}
 {109}{}{Di cosa vuoi parlarmi?}
 {110}{}{Certo; dove possiamo andare per avere un po' di privacy?}
-{111}{}{?}
+{111}{}{Perche' non vuoi che qualcuno ci senta?}
 {112}{}{(sussurrando) Mia figlia e' scomparsa e mi serve aiuto per ritrovarla. Non posso parlarne qui. Possiamo andare in un posto piu' appartato?}
 {113}{}{Okay.}
 {114}{}{Perche' bisogno parlare privato?}
@@ -64,7 +64,7 @@
 {163}{}{Grazie. Chiede ancora.}
 {164}{}{Grazie. Devo farti delle altre domande.}
 {165}{}{Mi spiace, non ne ho idea. Forse a NCR sanno qualcosa. Laggiu' hanno un grande interesse per i vault, ultimamente.}
-{166}{}{Okay, me va la'.}
+{166}{}{Okay, me fa.}
 {167}{}{Andro' la', allora.}
 {168}{}{Beh... non dovremmo parlarne, ma dato che mi serve il tuo aiuto... in questo momento Darion sta riparando il vault. E' il nostro benefattore. Quando il vault sara' completamente funzionante, noi tutti potremo spostarci al suo interno dove saremo al sicuro da predoni, schiavisti e gente simile. Per adesso ha riparato solamente i sistemi di erogazione di cibo e acqua, ma ci siamo quasi.}
 {169}{}{Me vede. Bisogna sapere di piu'.}
@@ -105,7 +105,6 @@
 {204}{}{Me cerca.}
 {205}{}{Continuero' a cercarla.}
 {206}{}{Grazie per tutto quello che hai fatto per me.}
-
 {207}{}{Non saprei dirti il motivo, ma io non credo che gli schiavisti l'abbiano catturata. Ho la strana sensazione che qualcos'altro stia succedendo. E poi c'e' questa sensazione di essere seguita. Ce l'ho da quando ho parlato con Zeke a proposito di Chrissy. Ho bisogno che qualcuno mi aiuti a trovare mia figlia. Mi aiuterai? Ti prego.}
 {208}{}{Continuano a mandare gente nel tentativo di scacciarci con le buone dalla nostra casa, ma non riescono a capire che non abbiamo un altro posto dove andare. Se ce ne andassimo da qui non saremmo in grado di sopravvivere.}
 {209}{}{Sai, una cosa mi lascia perplessa: sono riusciti a riparare alcune cose, ma non le luci. Quel dannato posto e' illuminato esclusivamente da torce. Ad ogni modo, Darion non vuole che qualcuno sappia cosa sta succedendo nel vault. Teme che qualcuno potrebbe portarcelo via, se lo scoprissero. Per questo motivo ci ha detto di mandare via chiunque si faccia vivo - soprattutto se proveniente da NCR.}

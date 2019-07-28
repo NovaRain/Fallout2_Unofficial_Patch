@@ -5,14 +5,14 @@
 {104}{}{Daghi nu?}
 {105}{}{Chi tu?}
 {106}{}{Mi hanno detto che lei ha la milza di qualcuno.}
-{107}{}{Chi e' lei?}
-{108}{}{Di che cosa si occupa?}
+{107}{}{Chi sei?}
+{108}{}{Di che cosa ti occupi?}
 {109}{}{No, grazie. E' tutto.}
 {110}{}{Devo confessarle che non parlo la sua lingua. Forse dovrebbe parlare con Ken Lee, che conosce molte lingue.}
 {111}{}{Aagh!}
 {112}{}{Io sono il Dr. Wong. Sono il capo scienziato di questo insediamento.}
 {113}{}{Altre domande, per cortesia.}
-{114}{}{Grazie. Arrivederci.}
+{114}{}{Grazie. Ciao.}
 {115}{}{Io soprintendo agli esperimenti scientifici che vengono qui concepiti e realizzati. Sono anche il responsabile della rete informatica.}
 {116}{}{Che cosa state progettando?}
 {117}{}{Come si fa ad accedere alla rete informatica?}
@@ -20,7 +20,7 @@
 {119}{}{Capisco. Arrivederci.}
 {120}{}{Ah, ma se io le rivelassi i nostri progetti, tutti li conoscerebbero. Mi dispiace, ma i nostri progetti sono segreti, per il momento.}
 {121}{}{D'accordo, d'accordo. Ho delle altre domande.}
-{122}{}{Grazie. Arrivederci.}
+{122}{}{Grazie. Ciao.}
 {123}{}{Cosa ne diresti se ti piantassi una pistola nel naso e ti obbligassi a rivelarmeli?}
 {124}{}{Beh, per farlo, una persona dovrebbe scoprire o come violare il sistema o come farsi amico uno dei miei sottoposti. Sto scherzando, ovviamente, a proposito di violare il sistema - se lei tentasse di farlo, manderei qualcuno ad ucciderla. [Sorride per indicare che non sta minacciando.]}
 {125}{}{Davvero mi farebbe uccidere?}
@@ -50,7 +50,7 @@
 {149}{}{Gli affari sono affari. Non puo' averla. Mi dispiace, ma abbiamo fatto una transazione regolare e non possiamo dichiararla nulla solo perche' questo Chip se n'e' pentito.}
 {150}{}{[AVANTI]}
 {151}{}{E' una milza umana? Lao Chou non me l'aveva detto!}
-{152}{}{Tuttavia, a causa della scortesia del messaggero, credo che riterro' comunque valido l'affare. Invece di cucinarla, la usero' per i miei esperimenti.} ###??? because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead
+{152}{}{Tuttavia, a causa della scortesia del messaggero, credo che riterro' comunque valido l'affare. Invece di cucinarla, la usero' per i miei esperimenti.}
 {153}{}{Dica al suo amico di venire a riprendersela entro domani e saro' ben lieto di restituirgliela. Spero solo che possiate trovare un modo per rimetterla nel suo corpo in tempo.}
 {154}{}{Molto bene.}
 {155}{}{Ah ah! Si', anch'io ho visto quel vecchio film. Un attimo... cosa significa? Vuole forse dire che...?}
@@ -62,6 +62,6 @@
 {161}{}{Ken Lee mi ha detto di dare questi a lei.}
 {162}{}{Si'. E io cosa ottengo in cambio?}
 {163}{}{No, non ancora.}
-{164}{}{Parli con Ken Lee, che decidera' cosa sara' del suo futuro. Grazie. Con questi saremo in grado di verificare alcuni nostri dati. Buona giornata.} ###???and he shall discuss what happens in your future. Thank you. We shall be able to verify some of our test data with these. Good day
+{164}{}{Parli con Ken Lee, che decidera' cosa sara' del suo futuro. Grazie. Con questi saremo in grado di verificare alcuni nostri dati. Buona giornata.}
 {165}{}{Veramente avrei delle altre domande.}
-{166}{}{Addio.}
+{166}{}{Ci vediamo.}

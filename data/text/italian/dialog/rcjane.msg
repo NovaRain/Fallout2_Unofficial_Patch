@@ -1,11 +1,11 @@
 {100}{}{Vedi una donna dall'aspetto rude, ma con un grande sorriso.}
 {101}{}{Vedi Jackpot Jane, la manager dei combattimenti tra animali.}
-{102}{}{Vedi una donna che sembra sapere il fatto suo e che ha occhio per i dettagli. } ###???You see a capable-looking woman with a shrewdly appraising eye for detail
+{102}{}{Vedi una donna che sembra sapere il fatto suo e che ha occhio per i dettagli. }
 {103}{}{Ehila', amico. Sei venuto a vedere i combattimenti tra animali?}
 {104}{}{Oooh. Pelosetti.}
 {105}{}{Pelosi belli.}
 {106}{}{Ah, capisco. Devi essere nuovo di qui. Bene, ascoltami. Piazzero' una scommessa speciale per te, durante gli incontri di domani. Che ne dici, vuoi che lo faccia?}
-{107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete).}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Mook? Gaga. Ciao pelosetti.}
 {109}{}{Bravo. Torna qui domani e se la tua creatura ha vinto il suo incontro, io ti daro' i tuoi soldi. Okay?}
 {110}{}{OK, ottima mossa. Faro' in modo di piazzare una scommessa davvero speciale, con questi. Ci vediamo.}
@@ -24,7 +24,7 @@
 {123}{}{Questo sembra promettere bene, gente. Si stanno davvero prendendo le misure.}
 {124}{}{Si son viste un paio di belle mosse; diresti quasi che non e' la prima volta che lo fanno!}
 {125}{}{Un bel round, un bel round. C'e' un sacco di odio, in quel recinto.}
-{126}{}{La resistenza di quei due e' davvero incredibile! Non si puo' prevedere chi avra' la meglio.} ###???They can really dish it out as well as take it
+{126}{}{La resistenza di quei due e' davvero incredibile! Non si puo' prevedere chi avra' la meglio.}
 {127}{}{Che colpo sui reni! Quello si' che deve far male!}
 {128}{}{Oh yeah! Combattete! Combattete!}
 {129}{}{Credo che non l'abbia nemmeno visto arrivare, quello. Un colpo fortunato!}
@@ -60,7 +60,7 @@
 {159}{}{Venite a vedere il duello del giorno!}
 {160}{}{Creature selvagge si scontrano mentre voi vincete soldi! VI PIACERA'!}
 {161}{}{Portate i vostri grossi portamonete e le vostre ancor piu' grosse speranze! PROPRIO QUA!}
-{162}{}{Smamma.}
+{162}{}{Voglio uscire da questa dannata prigione!}
 {163}{}{Non mi interessano i tuoi sporchi affari.}
 {164}{}{Va' da qualche altra parte.}
 {165}{}{Sta' lontano dal mio recinto.}
@@ -72,7 +72,7 @@
 {171}{}{Uh, sono dentro. Credo.}
 {172}{}{Le grandi lucertole mi spaventano. Sara' meglio che ne rimanga fuori. Grazie dell'avvertimento. Addio. (pensi, tra te e te) *Fiuuu, per un pelo.*}
 {173}{}{La cosa divertente e' lo scommettere sul risultato dell'incontro. Ecco come funziona. Tu vieni da me e mi dici che vuoi piazzare una scommessa. Io ti dico quali sono le due creature che combattono nell'incontro seguente e tu mi dici su quale delle due vuoi puntare i tuoi soldi.}
-{174}{}{E poi?}
+{174}{}{Poi cosa?}
 {175}{}{Semplice, se la tua creatura vince, ti becchi il doppio della tua puntata. Il TRIPLO, in caso di vittoria al primo round! Se la tua creatura perde, i tuoi soldi appartengono a me. Solitamente ci sono diversi incontri ogni giorno. Fino a quando il numero di creature non si abbassa troppo, puoi fare una scommessa in tutti gli incontri. Ma solo una per ognuno. Oh, certo, solo per mettere subito le cose in chiaro, tutte le puntate devono essere di 100$.}
 {176}{}{OK. Ho capito. Voglio provarci.}
 {177}{}{Capisco. Hmm, prima o poi ci provero', ma non adesso. Ci vediamo.}
@@ -102,7 +102,7 @@
 {201}{}{Certamente.}
 {202}{}{Credo che stavolta me ne staro' tranquillo.}
 {203}{}{Ascolta, nessuno ti costringe a venire a scommettere qui, giusto? Se non ti piace quel che vedi, allora smamma, non ci mancherai di certo. Hai capito?}
-{204}{}{Ho capito.}
+{204}{}{Capisco.}
 {205}{}{Che colpo! }
 {206}{}{ ha sconfitto }
 {207}{}{ nel corso della prima ripresa! Che combattimento!}
@@ -118,7 +118,7 @@
 {217}{}{Sembra proprio che }
 {218}{}{ abbia vinto. Non ho mai visto un pestaggio del genere. Fatemi pagare le vincite e poi daremo inizio al prossimo combattimento.}
 {219}{}{Wahoo! Ho vinto.}
-{220}{}{Vai! Alla grande!} ###???That's the ticket
+{220}{}{Vai! Alla grande!}
 {221}{}{Ho davvero del talento per queste cose.}
 {222}{}{Conosco le mie creature.}
 {223}{}{Cavoli. Ho perso.}
@@ -130,12 +130,6 @@
 {229}{}{Mi sarebbe costato caro.}
 {230}{}{E' stato un bell'incontro. Sono felice di non aver scommesso, pero'.}
 {231}{}{Ok, grazie.}
-
-####
-# Fighter Names
-####
-
-# Fighter 1
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
 {302}{}{Spike}
@@ -145,8 +139,6 @@
 {306}{}{Jackelope}
 {307}{}{Killer}
 {308}{}{Boss}
-
-# Fighter 2
 {310}{}{Tanker}
 {311}{}{Muttley}
 {312}{}{Spud}
@@ -156,8 +148,6 @@
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-
-# Fighter 3
 {320}{}{Stumpy}
 {321}{}{Shredder}
 {322}{}{Ripper}
@@ -167,8 +157,6 @@
 {326}{}{One-eye}
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
-
-# Fighter 4
 {330}{}{Lucky}
 {331}{}{Zoroaster the Great}
 {332}{}{Shub}
@@ -178,8 +166,6 @@
 {336}{}{Precious}
 {337}{}{Fraggle}
 {338}{}{Captain Midnight}
-
-# Fighter 5
 {340}{}{Hammer}
 {341}{}{Secretariat}
 {342}{}{Man o' War}
@@ -189,8 +175,6 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Mr. Baggins}
-
-# Fighter 6
 {350}{}{Lightning}
 {351}{}{Percy}
 {352}{}{Flower}

@@ -1,11 +1,5 @@
-#
-#   Messages from trait.c
-#
-#
-#   TRAIT NAMES
-#
 {100}{}{Gyors anyagcsere}
-{101}{}{Zúzó}
+{101}{}{Brutál}
 {102}{}{Kis termet}
 {103}{}{Egykezes}
 {104}{}{Ravasz}
@@ -17,12 +11,9 @@
 {110}{}{Jó természetû}
 {111}{}{Drogfüggõ}
 {112}{}{Drogellenállás}
-{113}{}{Szexepil}  # was: Night Person
+{113}{}{Szexepil}
 {114}{}{Képzett}
 {115}{}{Tehetséges}
-#
-#   TRAIT DESCRIPTIONS
-#
 {200}{}{Az anyagcseréd kétszer gyorsabb. Ez azt jelenti, hogy a méreggel és a sugárzással szemben kevésbé vagy ellenállóbb, viszont gyorsabban gyógyulsz.}
 {201}{}{Egy kicsit lassabb, viszont kicsit nagyobb vagy. Nem ütsz gyakran, de megérzik, ha betalálsz! Az akciópontjaid száma csökken, de az erõd megnõ.}
 {202}{}{Nem vagy olyan nagy termetû, mint mások, de ez sohasem lassított le téged. Nem bírsz el annyi mindent, de sokkal gyorsabb vagy.}

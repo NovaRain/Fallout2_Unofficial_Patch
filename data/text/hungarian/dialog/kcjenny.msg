@@ -1,4 +1,3 @@
-# Dialog Editor last position: 42
 {100}{}{Vonzó, de fáradt fiatal nõ.}
 {101}{}{Jennyt a fürdõsegédet látod.}
 {200}{}{Nahát, ez aztán elég gyors volt. Biztosan új vagy még ebben a dologban. Csak nyugodj meg és akkor még jobban fogod élvezni.}
@@ -33,15 +32,15 @@
 {310}{}{A kereskedõk érdekelnek? Leginkább csak egy kereskedõnek dolgoztam, a neve Vic volt. Mindig volt nála pénz, amit elszórakozhatott, legalábbis amikor volt munkája. Régi kacatokat árult. Fõleg technikai bigyókat.}
 {311}{}{Hát, kösz az infót, de most mennem kell.}
 {312}{}{Mit tudsz még Vicrõl?}
-{313}{}{Hadd kérdezzek valami mást!}
+{313}{}{Hadd kérdezzek valami mást.}
 {320}{}{Vic igazi szeretõ volt. Hetekre elment és csomó békebeli dologgal tért vissza, de sokszor el kellett menni a Rejtekbe, mert itt nincs nagy kereslet az efféle cuccokra.}
 {321}{}{Hol van most Vic?}
 {322}{}{Merre van Rejtek?}
-{323}{}{Volt Vicnek bármilye, amire "Menedék-Tek" volt ráírva?}
+{323}{}{Did Vic ever have anything that was labeled 'Vault-Tec'?}
 {324}{}{Mondj valami mást!}
 {325}{}{Azt hiszem, most másra nem vagyok kíváncsi.}
 {330}{}{Rejtek a leghitványabb söpredék gyülekezõhelye, innen dél-keletre. Kábé egy hétre, vagy kevesebb? Nem emlékszem pontosan. Mindegy, a lényeg, hogy izgalmas egy hely. Veszélyes, de izgalmas. Egy kicsit sajnálom, hogy eljöttem onnan.}
-{331}{}{Inkább valami mást kérdezek.}
+{331}{}{Feltennék még kérdéseket.}
 {332}{}{Kösz, de most elmegyek.}
 {340}{}{Most épp nem tudom, hol lehet Vic. Végigmész az utcán és keletre megtalálod a házát. Lehet, hogy épp valami törzzsel vagy Rejtekben kereskedik. Remélem, jól van. Már kezdett több lenni, mint egy állandó vendég.}
 {341}{}{Remélem, jól van. Miattad. Hadd tegyek fel egy újabb kérdést!}
@@ -62,8 +61,9 @@
 {382}{}{Mmm, szívesen megmutatom neked, milyen jól tudok mozogni.}
 {383}{}{Kösz, de csak feltennék pár kérdést.}
 {384}{}{Egy kereskedõt keresek, aki békebeli árukkal foglalkozott.}
-{390}{}{Menedék-Tek? Talán volt valami ilyesmije, nem emlékszem. Az biztos, hogy volt egy csomó régi kacatja.}
-{391}{}{Kösz, Jenny. Kérdeznék még valamit.}
+{390}{}{Vault-Tec? He might have had something like that. I'm not sure. I know he did have a lot of
+ really old stuff.}
+{391}{}{Kösz, Jenny. Hadd kérdezzek valami másról!}
 {392}{}{Egyelõre ennyi kérdés elég is volt.}
 {400}{}{Az ÉLET? Azt javaslom használd ki, mert csak egy van. }
 {401}{}{Kösz, Jenny. Hadd kérdezzek valami másról!}

@@ -3,42 +3,17 @@
 {102}{}{E adesso cosa posso fare per te?}
 {103}{}{Dove siete diretti?}
 {104}{}{Cosa trasportate?}
-{105}{}{Arrivederci.}
+{105}{}{Addio.}
 {106}{}{Ug.}
 {107}{}{Ho appena prelevato un carico da }
 {108}{}{ e adesso sono diretto a }
 {109}{}{.}
-
-# Town Names
-{198}{}{New Reno}
-{199}{}{Il Den}
-{200}{}{Arroyo}
-{201}{}{Redding}
-{202}{}{Vault City}
-{203}{}{NCR}
-{204}{}{Broken Hills}
-{205}{}{Gecko}
-{206}{}{San Francisco}
-{207}{}{Modoc}
-{208}{}{Klamath}
-{209}{}{Vault 15}
-
 {110}{}{Cosa trasportate?}
-{111}{}{Arrivederci.}
+{111}{}{Addio.}
 {112}{}{Stiamo trasportando }
-
-# Cargo for the Caravan
-{150}{}{medicine.}
-{151}{}{oro.}
-{152}{}{uranio.}
-{153}{}{prodotti agricoli.}
-{154}{}{droga.}
-{155}{}{schiavi.}
-{156}{}{della roba.}
-
 {113}{}{Credi che potrei acquistare qualcosa?}
 {114}{}{Dove siete diretti?}
-{115}{}{Arrivederci.}
+{115}{}{Addio.}
 {116}{}{Beh, non vedo perche' no, considerando che ci hai tirato fuori da una brutta situazione. Certo... perche' no? Ecco quello che ho.}
 {117}{}{[Baratta]}
 {118}{}{Ho cambiato idea.}
@@ -49,7 +24,7 @@
 {123}{}{Aspetta un secondo! Ho sentito parlare di te. Tu sei quel benefattore che se ne va in giro a salvare e ad aiutare le persone. Non ci piacciono i tipi come te, per cui: smamma!}
 {124}{}{Ho sentito parlare bene di una persona che corrisponde alla tua descrizione. Credo che non ci sia niente di male se scambio un po' del nostro carico con te. Ecco quello che ho.}
 {125}{}{[Baratta]}
-{126}{}{Arrivederci.}
+{126}{}{Addio.}
 {127}{}{Ho sentito parlare di te. Tu sei quel duro che se ne va in giro a far casino in ogni villaggio che incontra. Non vedevo l'ora di incontrati per stringerti la mano. Il solo pensare a tutte le terribili e tremende voci che corrono su di te mi fa scendere una lacrima sul viso. Sarei davvero onorato se tu volessi comprare qualcosa da me.}
 {128}{}{[Baratta]}
 {129}{}{Addio.}
@@ -63,5 +38,23 @@
 {137}{}{Addio.}
 {138}{}{Ug.}
 {139}{}{Molto… carino da parte tua. Buona giornata. }
-
+{150}{}{medicine.}
+{151}{}{oro.}
+{152}{}{uranio.}
+{153}{}{prodotti agricoli.}
+{154}{}{droga.}
+{155}{}{schiavi.}
+{156}{}{della roba.}
+{198}{}{New Reno}
+{199}{}{Il Den}
+{200}{}{Arroyo}
+{201}{}{Redding}
+{202}{}{Vault City}
+{203}{}{NCR}
+{204}{}{Broken Hills}
+{205}{}{Gecko}
+{206}{}{San Francisco}
+{207}{}{Modoc}
+{208}{}{Klamath}
+{209}{}{Vault 15}
 {300}{}{Grazie.}

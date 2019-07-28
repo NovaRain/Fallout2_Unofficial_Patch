@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{ER}
 {1}{}{ÉR}
 {2}{}{KI}
@@ -8,8 +5,8 @@
 {4}{}{IN}
 {5}{}{ÜG}
 {6}{}{SZ}
-{7}{}{Életpont:}
-{8}{}{Védelmi ért.:}
+{7}{}{Életpont}
+{8}{}{Védelmi érték}
 {9}{}{ Normál}
 {10}{}{ Lézer}
 {11}{}{ Tûz}
@@ -34,5 +31,4 @@
 {30}{}{Súly}
 {31}{}{Sajnos nem bírsz el ennyi mindent.}
 {32}{}{Sajnos ez túl sok ahhoz, hogy elvidd.}
-
 {50}{}{Nem találsz semmit, amit elvehetnél.}

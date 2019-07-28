@@ -1,75 +1,46 @@
-# QUICK LOOK
 {100}{}{Vedi uno degli uomini di Salvatore.}
-
-# LOOK (IF THUG HAS LASER WEAPON.)
 {150}{}{Vedi un uomo dall'aspetto ostile. Il viso e' contratto in una smorfia e il suo sguardo e' fisso davanti a se'. Sta impugnando una strana pistola.}
 {151}{}{Vedi un uomo dall'aspetto ostile. Il viso e' contratto in una smorfia e il suo sguardo e' fisso davanti a se'.}
 {152}{}{Vedi uno degli uomini di Salvatore. Sembra che non si rilassi da anni.}
 {153}{}{Vedi uno degli uomini di Salvatore. Ha uno sguardo bieco e fisso davanti a se'.}
 {154}{}{Vedi uno degli uomini di Salvatore. E' taciturno, letale e forse addormentato.}
 {155}{}{Vedi uno degli uomini di Salvatore. E' taciturno, letale e probabilmente molto annoiato.}
-
-# 2. FLOAT/CLICK DIALOGUE: ENCLAVE DESTROYED IS TRUE
 {160}{}{::Annuisce con rispetto::}
 {161}{}{Bisogna essere dei tipi davvero tosti per distruggere l'Enclave come hai fatto tu.}
 {162}{}{Sei tosto quasi quanto Tommy the Balls.}
 {163}{}{Ho sentito della tua impresa contro l'Enclave. Le voci corrono.}
 {164}{}{Pensi di voler cominciare un'altra partita con un personaggio diverso?}
-
-# 3. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=SALVATORE, PRIZEFIGHTER, PORN STAR [SNEAK]
 {170}{}{Perche' cerchi di passare inosservato?}
 {171}{}{Perche' tutta questa segretezza? C'e' qualcuno che ti cerca?}
 {172}{}{Stai cercando di mantenere un basso profilo?}
 {173}{}{Perche' cerchi di passare inosservato? Qualcuno ti sta cercando?}
-
-# 4. FLOAT DIALOGUE: PLAYER = MADE MAN, FA=NOT SALVATORE
-{180}{}{Beh, che mi venga un colpo se quello non e' }
+{180}{}{Beh, che mi venga un colpo se non e' }
 {181}{}{Ti sei PERSO, amico? Faresti meglio ad andartene da qui.}
 {182}{}{Questo tizio cerca guai…}
 {183}{}{Vattene da qui. Subito.}
 {184}{}{Se non stai cercando guai, faresti meglio ad andartene subito.}
-{185}{}{Beh, che mi venga un colpo se quella non e' }
+{185}{}{Beh, che mi venga un colpo se non e' }
 {186}{}{Ti sei PERSA, pupa? Faresti meglio ad andartene da qui.}
 {187}{}{Questa pupa cerca guai…}
-
-# 6. FLOAT DIALOGUE: POLITE [ARMED]
 {195}{}{Qui dentro non sono ammesse armi.}
 {196}{}{Metti via quell'arma.}
-
-# 7. FLOAT DIALOGUE: FEMALE, PORN STAR, POLITE [ARMED]
 {200}{}{Miss, temo che saro' costretto a chiederle di metter via quell'arma.}
 {201}{}{Miss, mi dispiace, ma qui dentro non sono ammesse armi.}
-
-# 8. FLOAT DIALOGUE: SLAVER [ARMED]
 {205}{}{Tu! Schiavista! Metti SUBITO via quell'arma.}
-{206}{}{Le armi non sono ammesse qui dentro, schiavista.}
+{206}{}{Qui dentro le armi non sono ammesse, schiavista.}
 {207}{}{Metti via quell'arma, schiavista.}
 {208}{}{Schiavista, voglio che tu metta subito via quell'arma.}
-
-# 9. FLOAT DIALOGUE: SLAVER [SNEAK]
 {210}{}{Tu! Schiavista! Non credere di poter passare inosservato!}
-
-# 10. FLOAT DIALOGUE: NORMAL [ARMED]
 {215}{}{Tu! Metti via SUBITO quell'arma.}
-{216}{}{Le armi non sono ammesse qui dentro.}
+{216}{}{Qui dentro le armi non sono ammesse.}
 {217}{}{Metti via quell'arma. Adesso.}
-{218}{}{Rinfodera immediatamente quell'arma.}
-
-# 11. FLOAT DIALOGUE: NORMAL [SNEAK]
+{218}{}{Rinfodera quell'arma. Immediatamente.}
 {220}{}{Tu! Non credere di poter passare inosservato!}
-
-# 12. FLOAT DIALOGUE: COMPANION: ROBOBRAIN
 {225}{}{I robot non sono ammessi qui dentro. Porta quel coso fuori di qui. Subito.}
 {226}{}{Niente robot. Riportalo di fuori.}
-
-# 13. FLOAT DIALOGUE: COMPANION: MARCUS
 {230}{}{I mutanti non sono ammessi qui dentro. Porta quel tipo fuori di qui. Adesso.}
 {231}{}{Ai mutanti non e' permesso entrare. Porta quel tipo fuori di qui. Adesso.}
-
-# 15. CLICK DIALOGUE: POWER ARMOR
-{235}{}{Come fai ad andare al cesso con quel robo addosso?}
-
-# 16. CLICK [MADE MAN, FA = SALVATORE]
+{235}{}{Come fai ad andare in bagno con quella roba indosso?}
 {240}{}{Signore.}
 {241}{}{Salve, signore.}
 {242}{}{Niente da segnalare, signore.}
@@ -94,16 +65,12 @@
 {261}{}{Niente da segnalare, signora.}
 {262}{}{Le serve qualcosa, signora?}
 {263}{}{Se qualcuno la infastidisce, signora, ce lo faccia sapere.}
-
-# 18. CLICK [MALE/FEMALE, MADE MAN, FA = NOT SALVATORE]
 {275}{}{Faresti meglio ad andartente, se non vuoi guai.}
 {276}{}{Fatti furbo - vattene, prima di farci arrabbiare.}
 {277}{}{Passerai un mare di guai se continui a farti vedere qui dentro.}
 {278}{}{Non so cosa tu stia cercando }
 {279}{}{Non so cosa stai cercando di dimostrare, }
 {280}{}{Ti consiglio di andartene subito.}
-
-# 19. CLICK [MALE/FEMALE, PRIZEFIGHTER]
 {285}{}{Dove hai imparato a combattere? Sei una furia.}
 {286}{}{Sai, la Famiglia Salvatore avrebbe proprio bisogno di un elemento come te.}
 {287}{}{Dovresti chiedere a Mason se ha del lavoro per te.}
@@ -115,13 +82,9 @@
 {293}{}{Dove ti alleni?}
 {294}{}{Sta' attento al Masticatore. Adora le orecchie.}
 {295}{}{Ti offrirei da bere, se solo non avessi perso tutti i miei soldi puntando sul tuo avversario.}
-
-# 20. CLICK [MALE, PORN STAR]
 {305}{}{Posso fare qualcosa per te?}
 {306}{}{Questo non e' il tuo set, Casanova.}
 {307}{}{Va' da qualche altra parte, Casanova.}
-
-# 21. CLICK [PORN STAR, FEMALE]
 {310}{}{Sono davvero dispiaciuto…davvero…ma adesso non ho tempo per parlare con te. Ripassa quando avro' finito il turno, se sei libera.}
 {311}{}{Mi piange il cuore, ma adesso non posso proprio parlare con te.}
 {312}{}{Eddai, dolcezza... mi stai distraendo.}
@@ -129,42 +92,26 @@
 {314}{}{Ho sentito che Tommy the Balls vuole che tu vada da lui per un provino in forma privata.}
 {315}{}{Non adesso, dolcezza. Sono in servizio.}
 {316}{}{Mi farei volentieri quattro chiacchiere con te, ma il boss potrebbe vederci.}
-
-# 22. FLOAT DIALOGUE: SLAVER [ARMED]
 {325}{}{Metti SUBITO via quell'arma, schiavista.}
 {326}{}{Qui dentro le armi non sono ammesse, schiavista.}
 {327}{}{Metti via quell'arma, schiavista.}
-
-# 23. FLOAT DIALOGUE: SLAVER [SNEAK]
 {330}{}{Non credere di poter passare inosservato qui dentro, schiavista.}
 {331}{}{Le persone che si nascondono nell'ombra mi fanno prudere l'indice. Soprattutto quando l'indice e' sul grilletto.}
 {332}{}{Muoversi furtivamente qui dentro potrebbe causarti un bel buco in testa, schiavista.}
-
-# 24. FLOAT DIALOGUE: NORMAL [ARMED]
 {335}{}{Metti SUBITO via quell'arma.}
 {336}{}{Qui dentro le armi non sono ammesse.}
 {337}{}{Metti via quell'arma. Adesso.}
 {338}{}{Rinfodera quell'arma. Immediatamente.}
-
-# 25. FLOAT DIALOGUE: NORMAL [SNEAK]
 {340}{}{Continua a muoverti furtivamente qui dentro e passerai un brutto quarto d'ora.}
-
-# 26. [SLAVER, IF BAD REACTION]
 {345}{}{Non sono la persona adatta con cui parlare di schiavi. Prova con Mason.}
 {346}{}{I Salvatore hanno gia' tutti gli schiavi che servono.}
 {347}{}{Adesso non ho tempo per parlare con te.}
 {348}{}{Non posso aiutarti.}
 {349}{}{Ascolta, non ho tempo. Se vuoi parlare con qualcuno, va' a Virgin Street e parla con un puttana.}
-
-# 27. [SLAVER, GOOD REACTION]
 {355}{}{Se vuoi vendere degli schiavi, parla con il capo.}
 {356}{}{Non credo che il boss stia cercando altri schiavi, ma puoi sempre provare a chiederglielo.}
-
-# 28. CLICK [FEMALE/MALE, NO REP, GOOD REACTION]
 {360}{}{Cerchi lavoro? Parla con Mason.}
 {361}{}{Se stai cercando un lavoro, potresti provare a parlare con Mason.}
-
-# 29. CLICK [NO REP, BAD REACTION]
 {365}{}{Ascolta, non ho tempo. Se vuoi parlare con qualcuno, va' a Virgin Street e parla con un puttana.}
 {366}{}{Adesso non ho tempo per parlare con te.}
 {367}{}{Non posso aiutarti.}
@@ -172,13 +119,9 @@
 {369}{}{Non adesso, dolcezza. Sono in servizio.}
 {370}{}{Mi farei volentieri quattro chiacchiere con te, ma il boss potrebbe vederci.}
 {371}{}{Senti, non ho tempo da perdere in chiacchiere.}
-
-# 30. CLICK/FLOAT: LENNY
 {380}{}{Quel ghoul farebbe meglio ad andarse da qui... SUBITO.}
 {381}{}{Se quel ghoul sara' ancora qui quando mi saro' girato, gli daremo fuoco.}
 {382}{}{Se quel ghoul rimane qui, lo accenderemo come un fiammifero.}
-
-# END OF LINES
 {1180}{}{. Il suo nome sara' presto inciso su una lapide, se non esce subito di qui…}
 {1185}{}{. Il suo nome sara' presto inciso su una lapide, se non esce subito di qui…}
 {1278}{}{, ma faresti meglio ad andare da qualche altra parte.}

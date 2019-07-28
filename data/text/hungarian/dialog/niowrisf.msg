@@ -1,12 +1,11 @@
-# Dialog Editor last position: 1
 {100}{}{Egy számkombinációs zárral ellátott széfet látsz a falra szerelve. Be van csukva.}
 {101}{}{Egy számkombinációs zárral ellátott széfet látsz a falra szerelve. Nyitva van.}
 {120}{}{Amint épp nekiállsz a széf zárjának megberheléséhez, észreveszed, hogy a széf alatt egy drót fut végig a falban. Nagyon úgy tûnik, hogy csapdával látták el ezt a vackot.}
 {121}{}{A széfen még mindig rajta van a csapda.}
 {150}{}{Halk kattanásokat követõen a széf zárja megadja magát.}
 {160}{}{Véletlenszerûen elkezded tekergetni a kombinációs zárat, amikor a tárcsa hirtelen megakad egy számnál... kattanásokat hallasz, aztán a széf zárja engedni kezd.}
-{170}{}{Jónéhány percig tekergeted a tárcsát, de nem jutsz vele semmire.}
-{171}{}{Jónéhány percig tekergeted a tárcsát, de semmi nem történik.}
+{170}{}{Percekig tekereted a számokat a záron, de semmire sem jutsz.}
+{171}{}{Percekig tekergeted a számzárat, de hiába.}
 {180}{}{Találtál egy csapdát a széfen, de sikeresen hatástalanítottad.}
 {181}{}{A széfre szerelt csapdát sikeresen hatástalanítottad.}
 {190}{}{Találtál egy csapdát a széfen, de nem sikerült hatástalanítanod.}
@@ -22,7 +21,8 @@
 {270}{}{Nem sikerült csapdát szerelned a széfre.}
 {271}{}{ elügyetlenkedte a csapda felszerelését a széfre.}
 {280}{}{A széfre szerelt csapdát sikerült újraélesíteni.}
-{300}{}{Az emeletrõl tompa robbanást hallasz.}
-{400}{}{A széf alján lefeszítesz egy apró panelt. Szerinted ha Mrs. Bishop nem mondta volna el, hol van, sosem találtad volna meg. A belsejében egy furcsa kinézetû PipBoy kiegészítõt találsz.}
 {290}{}{Miközben csapda után kutatsz a széf környékén, felrobban az egész...}
 {291}{}{Miközben a csapdát hatástalanítottad, a rossz drótot húztad meg.}
+{300}{}{Az emeletrõl tompa robbanást hallasz.}
+{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
+ if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}

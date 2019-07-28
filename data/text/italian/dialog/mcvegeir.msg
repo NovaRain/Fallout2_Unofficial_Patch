@@ -1,7 +1,6 @@
 {100}{}{Vedi il leader degli Slag.}
 {101}{}{Vedi Vegeir.}
 {102}{}{Un uomo alto, imponente. I suoi movimenti ti ricordano un gatto che punta la sua preda.}
-
 {150}{}{Puoi uscire attraverso la botola nel retro di questa stanza.}
 {151}{}{Per favore, consegna il messaggio a Modoc.}
 {152}{}{Modoc e' a sud di qui.}
@@ -25,7 +24,7 @@
 {171}{}{Fantasmi?}
 {172}{}{Te ne andrai SE e QUANDO lo decidero' io. Non prima.}
 {173}{}{Una semplice richiesta. Abbiamo bisogno di prendere contatto con una citta' a sudovest; penso si chiami "Modoc". Ci farai questo favore?}
-{174}{}{E io cosa ci guadagno?}
+{174}{}{E cosa ne viene a me?}
 {175}{}{Ho molte domande da farti prima che io possa decidere se accettare o meno questa missione.}
 {176}{}{Mi pare giusto. Non mi aspetto che qualcuno accetti missioni da parte di stranieri senza prima conoscere qualcosa su di loro. Fa' pure le tue domande, e io rispondero' nel modo migliore che posso.}
 {177}{}{Perche' non mandi qualcuno della tua gente a consegnare il messaggio?}
@@ -37,7 +36,7 @@
 {191}{}{Perche' avete organizzato quella messinscena con i fantasmi?}
 {192}{}{Qual e' lo scopo del vostro messaggio?}
 {194}{}{Dal giorno del Sigillamento, noi, come popolo, siamo cambiati. Pochi possono sopportare di rimanere in superficie perche' non sono abituati ad avere un oscuro mare di nulla sopra di loro. La sensazione di cadere verso l'alto e' cosi' grande che si buttano a terra pietrificati, tenendosi attaccati al suolo. Ma questo non e' il motivo principale. Nessuno di noi puo' sopportare la luce splendente di quello che voi chiamate Sole; vivere sottoterra per cosi' tanto tempo ha reso i nostri occhi sensibili alla luce. Non possiamo viaggiare lontano dalle nostre sicure case sottoterra. }
-{195}{}{Posso farti altre domande?}
+{195}{}{Posso farti delle altre domande?}
 {197}{}{Una volta, molto tempo fa, eravamo come i Superficiali. Anche noi abitavamo il mondo di sopra, finche' il mondo di sopra non ha preso fuoco. I nostri antenati -- che facevano parte di una milizia segreta -- si chiusero qui sotto con i loro familiari per proteggersi. E, per generazioni, noi qui sotto siamo rimasti, nascosti nel ventre di Madre Terra. }
 {200}{}{La nostra popolazione e' cresciuta costantemente dal giorno del Sigillamento. Presto divenne chiaro che non saremmo sopravvissuti a lungo senza altre scorte di cibo. Il Sigillo venne quindi infranto, e nuovamente ci rivolgemmo alla superficie per sopravvivere... }
 {203}{}{Tempo fa, qualcuno cerco' di impossessarsi della nostra fattoria, sfruttando campi e rubando animali sui quali non aveva alcun diritto. Di natura non siamo un popolo violento, ma qualcosa andava fatto. La nostra sopravvivenza dipendeva da quei campi. Fu allora che ci venne l'idea dei fantasmi. Ricomprendo il nostro corpo con funghi fosforescenti, fummo in grado di spaventare e scacciare questa persona e ogni altro vicino ficcanaso. Sfortunamente abbiamo avuto un po' troppo successo. Ultimamente, avremmo voluto prendere contatto con i Superficiali, ma nessuno viene piu' alla fattoria per paura dei fantasmi. Per fortuna sei arrivato tu.}
@@ -62,10 +61,8 @@
 {231}{}{Vedo che hai incontrato Jonny. Lo trovammo che vagava nell'oscurita' in uno dei nostri tunnel piu' profondi. Ci disse che era caduto dentro ad un pozzo secco vicino casa sua e che era rimasto intrappolato in un tunnel a causa di un crollo. Lo abbiamo trattato come uno di noi ed e' amato da tutti -- per cui capirai che mi guardo bene dall'affidarlo ad un estraneo che deve ancora dimostrarsi degno di fiducia. Consegnero' Jonny quando saro' sicuro che tornera' a casa sano e salvo. }
 {232}{}{Ti sei dimostrato indubbiamente degno di fiducia. Malgrado il fatto che il piccolo Jonny ci manchera', abbiamo allestito una scorta che portera' te e Jonny a Modoc immediatamente.}
 {233}{}{Oh, cavolo! Non mi stupisce il fatto che tu non sia scappato di fronte ai nostri trucchetti. Sei troppo stupido per essere spaventato. Odio dover dipendere da un individuo cosi' tarato intellettualmente, ma abbiamo bisogno del tuo aiuto. Porta questo messaggio a Modoc. Dallo al leader di Modoc e cerca di non perderti.}
-
-{300}{}{Adesso devo proprio andare.}
+{300}{}{Adesso me ne vado.}
 {301}{}{Cosa vuoi da me?}
-{302}{}{Arrivederci.}
+{302}{}{Addio.}
 {303}{}{Fantasmi?}
-
 {400}{}{La vostra proposta e' stata accolta positivamente. La citta' di Modoc avrebbe desiderio di intraprendere degli scambi commerciali con la vostra gente.}

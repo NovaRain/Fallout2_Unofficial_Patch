@@ -5,7 +5,7 @@
 {104}{}{<Sbava>}
 {105}{}{Certo, perche' no?}
 {106}{}{Beh, io sono il Prescelto.}
-{107}{}{Uh, davvero non so di cosa tu stia parlando.}
+{107}{}{Uh, non so proprio di cosa tu stia parlando.}
 {108}{}{Quindi sei tu quel prurito che Merk vorrebbe togliersi!}
 {109}{}{Si'.}
 {110}{}{No.}
@@ -17,17 +17,17 @@
 {116}{}{Ze-ta!}
 {117}{}{No!}
 {118}{}{Sei pregato di non dileggiare la Chiesa dell'Hubologia. Sono le menti negative come la tua che ci rendono le cose difficili. Oh, cielo. Mi sono infervorata!}
-{119}{}{Prescelto? Non e' che ti sei confuso e volevi dire AHS-Uno? Su quale testo ti basi?} ###???Just what text are you working from
+{119}{}{Prescelto? Non e' che ti sei confuso e volevi dire AHS-Uno? Su quale testo ti basi?}
 {120}{}{E' semplice. Io sono il Prescelto perche' e' cosi' che deve essere.}
 {121}{}{AHS-uno?}
 {122}{}{E' la mia Anziana che l'ha detto.}
-{123}{}{Di che cosa stai parlando?}
+{123}{}{Di cosa stai parlando?}
 {124}{}{Non possiamo passare direttamente alla parte in cui tu mi spruzzi dell'acqua santa addosso, o qualcosa del genere?}
 {125}{}{Oh. Beh, stai cercando la vera conoscenza e la pace spirituale? Noi possiamo aiutarti.}
 {126}{}{No, sto cercando un GECK.}
 {127}{}{Aiutarmi? E come?}
 {128}{}{Un lanciarazzi mi da' tutta la pace interiore che mi serve, signorina.}
-{129}{}{"Conosci veramente" questo! (gesto volgare con il dito medio)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Che cosa vuole?}
 {131}{}{Semplice. Ti vuole morta. Fa' ciaociao con la manina.}
 {132}{}{Non so cosa tu abbia fatto, ma Merk ha emesso una condanna a morte nei tuoi confronti.}
@@ -36,7 +36,7 @@
 {135}{}{Di che livello sei tu?}
 {136}{}{Oh. Credevo che tu potessi vedere la mia aura. Scusa.}
 {137}{}{Oh. Credevo che tu potessi vedere la mia aura. Scusa.}
-{138}{}{ }
+{138}{}{}
 {139}{}{Beh, ho raggiunto la Trascendenza, naturalmente.}
 {140}{}{Uhhh... non e' maleducazione parlare di livelli?}
 {141}{}{Diamine! Non so proprio cosa si aspettino che io faccia, circondata da tutta questa carne da cerchione!}
@@ -46,7 +46,7 @@
 {145}{}{Predestinazione? E cosa ne e' del libero arbitrio? Secondo la tua credenza, niente di cio' che fai ha un significato, dal momento che tutto e' stato determinato in precedenza. E' come se tu fossi una semplice pedina.}
 {146}{}{Mi hai frainteso. Solo il mio potenziale come Prescelto e' predeterminato. Le mie scelte e le mie azioni determinano l'esternarsi di questo potenziale.}
 {147}{}{Ma certo che l'universo e' deterministico! In fondo, noi tutti siamo stati messi qui per un qualche scopo che e' gia' noto al nostro creatore.}
-{148}{}{Sciocchezze. Non c'e' nessun potere organizzatore che determina il nostro destino. Non c'e' nessun "potere superiore" dietro le nostre azioni. L'universo e' solo casualita'. Io sono il Prescelto perche' altri l'hanno detto. Ecco tutto.} #le nostre vite e
+{148}{}{Sciocchezze. Non c'e' nessun potere organizzatore che determina il nostro destino. Non c'e' nessun "potere superiore" dietro le nostre azioni. L'universo e' solo casualita'. Io sono il Prescelto perche' altri l'hanno detto. Ecco tutto.}
 {149}{}{Allineato all'Hub Supremo. E' chiaro che tu non sei un Illuminato.}
 {150}{}{Una credenza primitiva - ma tu mostri dei segnali molto incoraggianti. Noi possiamo mostrarti la via superiore. Vuoi saperne di piu'?}
 {151}{}{Si'.}
@@ -61,7 +61,7 @@
 {160}{}{Stato d'oppressione?}
 {161}{}{Come funziona questa purificazione? E' dolorosa?}
 {162}{}{Non e' dolorosa. Devi semplicemente sottoporti ad una scansione zeta. Posso eseguirne una su di te anche adesso, se vuoi.}
-{163}{}{Certo.}
+{163}{}{Bene.}
 {164}{}{Scordatelo!}
 {165}{}{La Chiesa dell'Hubologia esiste per liberare l'umanita' dalle catene che imprigionano il potenziale spirituale di ogni uomo.}
 {166}{}{E come fate?}
@@ -71,11 +71,9 @@
 {170}{}{Mi servono delle informazioni. Vault 13 - cosa ne sai?}
 {171}{}{Come vanno le cose?}
 {172}{}{Lasciamo stare. Niente pensieri negativi. Tutto qui.}
-{173}{}{ }
+{173}{}{}
 {174}{}{Si'!}
-{175}{}{ }
-
-
+{175}{}{}
 {176}{}{Trascendenza? Per l'Hub! Come pensano che io possa diffondere il verbo quaggiu' se neanche mi danno un aggiornamento sulle nuove dottrine!?}
 {177}{}{(Continua)}
 {178}{}{Ti sei addormentato durante l'Indottrinamento? Hmmph - tu non sei uno degli Illuminati!}
@@ -116,8 +114,7 @@
 {213}{}{La chiesa e' chiusa. Torna domani.}
 {214}{}{Mi piacerebbe molto aiutarti, ma anche un AHS-4 deve dormire. Torna domattina.}
 {215}{}{Intruso! Vuoi forse sconsacrare questo luogo? Fuori!}
-
 {216}{}{Magnifico, sorella. Allora, di che livello sei?}
-{217}{}{ }
+{217}{}{}
 {218}{}{Guadagni }
 {219}{}{ punti esperienza per "esserti occupato" dell'Hubologista per Merk.}

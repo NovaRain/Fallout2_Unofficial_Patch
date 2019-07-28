@@ -1,13 +1,13 @@
 {100}{}{Vedi un uomo alto e magro.}
 {101}{}{Vedi Matt.}
-{102}{}{Vedi un uomo alto e magro, con i capelli corti e occhi cattivi. Riesci a *sentire* il suo sguardo che ti fissa.} ###???You can feel him staring back at you
+{102}{}{Vedi un uomo alto e magro, con i capelli corti e occhi cattivi. Riesci a *sentire* il suo sguardo che ti fissa.}
 {103}{}{Posso aiutarti in qualche modo, straniero?}
 {104}{}{Me fa domande?}
 {105}{}{No, ciao.}
 {106}{}{Si', vorrei farti qualche domanda.}
 {107}{}{No, devo andare.}
-{108}{}{Che cosa vuoi?}
-{109}{}{Chi essere tu?}
+{108}{}{Cosa vuoi?}
+{109}{}{Chi tu?}
 {110}{}{Tu prigioniero?}
 {111}{}{Me va ora.}
 {112}{}{Chi sei?}
@@ -24,7 +24,7 @@
 {123}{}{Me andare via.}
 {124}{}{Perche'?}
 {125}{}{Capisco.}
-{126}{}{Devo andare.}
+{126}{}{Me ne vado subito.}
 {127}{}{Perche', a differenza delle altre pecore che vivono qui, io li ritengo una minaccia per l'umanita'. Sanno che se me ne andassi da qui, farei in modo di spazzarli via dalla faccia della terra! Ascolta: possono pensare, possono imparare, sanno leggere e sanno persino scrivere se intingono un artiglio nell'inchiostro. Sono veloci, robusti, svegli e letali. Se il loro numero dovesse crescere, diventerebbero la piu' grande minaccia che l'umanita' abbia mai affrontato. Pensaci. Devono essere eliminati!}
 {128}{}{Hmm. Tu avere ragione.}
 {129}{}{Me pensa tu sbagliare.}
@@ -38,8 +38,7 @@
 {137}{}{Hai cambiato idea? Mi aiuterai ad uscire da qui?}
 {138}{}{Si'.}
 {139}{}{No.}
-{140}{}{Ho l'impressione che tu ti sia appena cacciato in una tempesta di merda!} ###???You seem to have bought yourself a shit storm
-
+{140}{}{Ho l'impressione che tu ti sia appena cacciato in una tempesta di merda!}
 {141}{}{Me no qui per scappata. Me qui perche' qualcuno rotto computer. Stato tu?}
 {142}{}{Non sono qui per parlare di piani di fuga. Qualcuno ha sabotato l'interfaccia del computer centrale. Tu ne sai qualcosa?}
 {143}{}{Ho l'impressione che tu ti sia appena cacciato in una tempesta di merda!}

@@ -1,9 +1,6 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
 {100}{}{Számítógép-terminál.}
 {101}{}{Ez egy meglehetõsen elavult számítógép. A Processzor sebessége csak 500GHz.}
-# Ezt az 500-at nem kellene átírni 500M-ra? Ja és a Hz az nagy H-val van!
-# 500 Ghz megfelelonek tunik a kor szamara :) bass
-{102}{}{Képtelen vagy elolvasni, mi van a monitorra írva.}
+{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
 {103}{}{Automatikus Javító Állomás
                                            Skynet Javítási Intézkedéseinek Feldolgozása...
                 Javító Egységek Mozgósítása - Folyamatban}

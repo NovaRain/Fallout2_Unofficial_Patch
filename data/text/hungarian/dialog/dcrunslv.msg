@@ -1,51 +1,44 @@
-# Dialog Editor last position: 44
-{100}{}{Egy nagy darab, primitív ember.}
+{100}{}{Egy nagy darab, primitív embert látsz.}
 {101}{}{Egy karcsú, de primitív nõt látsz.}
 {200}{}{Egy fura külsejû embert látsz.}
-{201}{}{Egy toprongyos ember.}
-{202}{}{Egy szakadt rongyokba öltözött embert látsz.}
-{210}{}{Ez a nõ igencsak piszkos.}
+{201}{}{Egy szakadt külsejû embert látsz.}
+{202}{}{Egy toprongyos embert látsz.}
+{210}{}{Egy piszkos nõ.}
 {211}{}{Egy eléggé koszos nõt látsz.}
-{212}{}{Ez a nõ nagyon sovány.}
-
-{270}{}{Õk nem találják engemet.}
-{271}{}{Elbújni kell. Elbújni.}
+{212}{}{Egy cingár nõ.}
+{270}{}{Nem taná'nak meg.}
+{271}{}{E' kõ bújni. E' kõ bújni.}
 {272}{}{Mér akar õk bántani minket?}
-{273}{}{Én fél.}
-{274}{}{Én nem harcol.}
-{275}{}{Én akarja élni.}
-{276}{}{Nem bántani család.}
-
-
-{280}{}{Ó, a francba!}
+{273}{}{Megijedtem.}
+{274}{}{Nem harcolok.}
+{275}{}{Élni akarok.}
+{276}{}{Ne báncs család!}
+{280}{}{Ó, a fenébe!}
 {281}{}{Miért csinálják ezt?}
-{282}{}{Mi lesz a családommal?}
-{283}{}{Nem akarok meghalni.}
+{282}{}{Mi van a családommal?}
+{283}{}{Nem akarok meghalni!}
 {284}{}{Nem akarok rabszolga lenni.}
-{285}{}{Ennél jobbat érdemlek.}
-
-
+{285}{}{Én jobbat érdemlek.}
 {300}{}{Ahhh!}
-{301}{}{Ne ölj! Ne ölj!}
+{301}{}{Ne öjjé'! Ne öjjé'!}
 {302}{}{Állj!}
-{303}{}{Segítsééég!}
-{304}{}{Fussunk!}
-{305}{}{Hagyjatok békén!}
-{306}{}{Ne bánts!}
-{307}{}{Nem bántlak!}
+{303}{}{Segííííccs!}
+{304}{}{Fuss!}
+{305}{}{Haggyá' békén!}
+{306}{}{Ne báncsá'!}
+{307}{}{Nem bántalak!}
 {308}{}{Nem harcolok!}
-
 {350}{}{Fussatok, ha kedves az életetek!}
-{351}{}{Ne hagyd, hogy elkapjanak!}
-{352}{}{Rabszolga-hajcsárok! Futás!}
+{351}{}{Ne hagyd, hogy elfogjanak!}
+{352}{}{Rabszolga-vadászok! Futás!}
 {353}{}{Valaki segítsen! Kérem!}
-{354}{}{Menekülés!}
+{354}{}{Fuss, Marty!}
 {355}{}{Ahhh!}
-{356}{}{Elég ebbõl az õrületbõl!}
-{357}{}{Mi nem csináltunk semmit! Hagyjatok békén!}
-{358}{}{Felismerem azt a tetoválást!}
-{359}{}{Ne, kérem!}
-{360}{}{Kérem ne öljön meg!}
-{361}{}{Nem állok ellen, csak ne öljön meg!}
-{362}{}{Kérem, én nem akarok meghalni!}
+{356}{}{Állítsd meg ezt az õrületet!}
+{357}{}{Nem csináltunk semmit! Hagyj békén minket!}
+{358}{}{Ismerem ezt a tetoválást!}
+{359}{}{Kérlek, ne!}
+{360}{}{Kérlek, ne ölj meg!}
+{361}{}{Nem harcolok, ne ölj meg!}
+{362}{}{Kérlek, nem akarok meghalni!}
 {363}{}{Ugye maguk rabszolga-hajcsárok? Jaj nekem!}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy drogos.}
 {110}{}{Egy Jet-kurva.}
 {111}{}{Tubby egyik Jet-kurvája.}
@@ -39,23 +38,21 @@
 {254}{}{Bazmeg, ez nagyon szar volt.}
 {255}{}{Barátom! Ez megölte Tubbyt!}
 {260}{}{Iggggeeeeen... Jó anyag ez...}
-{261}{}{Mi az?}
+{261}{}{Mi van?}
 {262}{}{Végre repülök.}
 {263}{}{Ó, ez jó meleg.}
 {264}{}{Elég szép a kicsike.}
 {265}{}{Jaj, áramszünet... Szart se látok.}
-
 {270}{}{Azta, láttad ezt?!}
 {271}{}{Tudod mi volt?}
 {272}{}{Szerintem egy madár volt.}
 {273}{}{Nem... egy kutya.}
-{274}{}{De ember, ez repült!}
+{274}{}{But it was flying, man.}
 {275}{}{Semmiképpen... látszott, ahogy átsuhan a föld fölött.}
 {276}{}{Te látsz valamit, ember...}
 {277}{}{Nem-nem... Ez bizony igazi volt!}
-{278}{}{Tökmindegy...}
+{278}{}{Ahogy gondolja.}
 {279}{}{Óhhh, már megint kezdi... Áááá}
-
 {290}{}{Helyes kis fényecskék ezek...}
 {291}{}{Milyen sok fény!}
 {292}{}{Olyan melegek.}
@@ -79,7 +76,6 @@
 {310}{}{A krumpli nem zöld.}
 {311}{}{Óhh, de helyes kis fényecskék!}
 {312}{}{Jaj, de fáj a fejem...}
-
 {320}{}{Ne beszélj hozzám! Fáj a fejem.}
 {321}{}{Nem mondom el senkinek.}
 {322}{}{Ne bánts!}
@@ -94,7 +90,6 @@
 {342}{}{Ember, ez fájt!}
 {343}{}{Oda ne rohanjak...}
 {344}{}{Ezt mégis hogy gondoltad?}
-
 {400}{}{Tubby olyan csodálatos ember.}
 {401}{}{A Jettõl mindig kanos leszek.}
 {402}{}{Tubby tudja, hogy bánjon a nõivel.}
@@ -104,13 +99,10 @@
 {406}{}{Nem bizsereg tõle a bõröd?}
 {407}{}{Tubbynak van a legjobb ellátmánya a városban.}
 {408}{}{Olyan virgoncnak érzem magam!}
-
-
-{420}{}{Nem hallottál egy nagy durranást?}
+{420}{}{Did you hear a loud bang?}
 {421}{}{Egy ideje nem láttam már Tubbyt.}
 {422}{}{Hol van Tubby?}
 {423}{}{Láttad Tubbyt?}
-
 {440}{}{Ó, a fejem!}
 {441}{}{Hol van Tubby? Menten meghalok!}
 {442}{}{Ezt nem tudom tovább elviselni.}
@@ -118,10 +110,9 @@
 {444}{}{Tubby már régóta nem adott semennyit sem. Merre van?}
 {445}{}{Az ajkaim dermedtek.}
 {446}{}{Nem érzem az ujjaimat.}
-
 {460}{}{Ne bánts!}
 {461}{}{Kérlek, ne!}
 {462}{}{Nem én vettem el!}
 {463}{}{Nem én voltam!}
-{464}{}{Hagyj békén!}
+{464}{}{Ne érj hozzám!}
 {465}{}{Nem tudtam, hogy a tied!}

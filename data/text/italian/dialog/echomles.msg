@@ -2,9 +2,9 @@
 {101}{}{Dacci del cibo!}
 {102}{}{Siamo affamati!}
 {103}{}{Qualche spicciolo per i meno fortunati.}
-{104}{}{Aiutaci!}
+{104}{}{Aiutateci!}
 {105}{}{Cibo!}
-{106}{}{Ho cosi' tanta fame...}
+{106}{}{Ho cosi' fame.}
 {107}{}{I miei bambini muoiono di fame.}
 {108}{}{Nessuno si interessa a noi.}
 {109}{}{Non uccidermi!}

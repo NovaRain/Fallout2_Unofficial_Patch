@@ -1,22 +1,8 @@
-#
-# Quest descriptons
-#
-#    Please leave space between the areas (like 100 or so)
-#
-
-
-#
-# Arroyo Quests
-#
 {100}{}{Uccidi le piante maligne che infestano il giardino di Hakunin.}
 {110}{}{Ottieni della selce affinche' Mynoc possa affilare la tua lancia.}
 {120}{}{Salva Smoke, il cane di Nagor, dalla selva.}
 {130}{}{Recupera il GECK per Arroyo.}
 {140}{}{Trova Vic il mercante.}
-
-#
-# Den Quests
-#
 {200}{}{Libera Vic recuperando la sua radio dalla sua casa a Klamath e pagando Metzger.}
 {201}{}{Scopri come Becky riesce a vendere il suo liquore ad un prezzo cosi' basso.}
 {202}{}{Sabota il distillatore di Becky.}
@@ -29,20 +15,12 @@
 {209}{}{Ottieni il permesso da Metzger per una guerra fra bande.}
 {210}{}{Trova un punto debole nella banda di Tyler che sta controllando la chiesa.}
 {211}{}{Aiuta Lara ad attaccare la banda di Tyler.}
-
-#
-# Klamath Quests
-#
 {300}{}{Rifornisci il distillatore.}
 {301}{}{Salva Smiley il Trapper.}
 {302}{}{Fa' la guardia ai brahmin.}
 {303}{}{Ruba i brahmin.}
 {304}{}{Uccidi il dio ratto.}
 {305}{}{Salva Torr.}
-
-#
-# Modoc Quests
-#
 {400}{}{Qualcosa di strano sta succedendo nella fattoria a nordest di Modoc. Indaga e fai rapporto a Jo.}
 {401}{}{Cornelius ha perso il suo orologio da taschino d'oro. Trovalo e riportaglielo.}
 {402}{}{Farrel vuole che tu ritrovi l'orologio da taschino d'oro di Cornelius. Trovalo e riportalo a Farrel.}
@@ -53,10 +31,6 @@
 {407}{}{Jo ha dei sospetti sugli Slag. Scopri l'origine dei cadaveri alla Fattoria Fantasma e scopri cos'e' successo a Karl.}
 {408}{}{Vai al Den e di' a  Karl che puo' tornare a casa.}
 {409}{}{Fa' la guardia ai brahmin di Grisham.}
-
-#
-# Vault City Quests
-#
 {500}{}{Trova un aratro per Mr. Smith.}
 {501}{}{Consegna la valigetta di Moore a Mr. Bishop di New Reno.}
 {502}{}{Consegna una dose di Jet al Dr. Troy.}
@@ -67,10 +41,6 @@
 {507}{}{Consegna delle pinze (attrezzi) e una chiave inglese a Valerie.}
 {508}{}{Esplora gli otto settori intorno a Gecko e torna da Stark.}
 {509}{}{Entra a NCR e torna da Stark.}
-
-#
-# Gecko Quests
-#
 {600}{}{Risolvi il problema della centrale energetica di Gecko.}
 {601}{}{Ripara la centrale.}
 {602}{}{Ottimizza la centrale.}
@@ -78,10 +48,6 @@
 {604}{}{Recupera un Super Set di Attrezzi "Snap-Off" per Skeeter.}
 {605}{}{Recupera un trasformatore di plasma trifasico per Skeeter.}
 {606}{}{Trova Woody il ghoul per Percy. Prova al Den.}
-
-#
-# Broken Hills Quests
-#
 {700}{}{}
 {701}{}{Ripara il purificatore d'aria della miniera.}
 {702}{}{Trova le persone scomparse per Marcus.}
@@ -89,10 +55,6 @@
 {704}{}{Fa' evadere Manson e Franc dalla prigione.}
 {705}{}{Fa' esplodere il purificatore d'aria della miniera.}
 {706}{}{Devia piu' elettricita' verso la casa di Eric.}
-
-#
-# New Reno Quests
-#
 {800}{}{Recupera la tua auto rubata.}
 {801}{}{Scopri chi e' il responsabile dell'overdose di Richard Wright.}
 {802}{}{     Sospetto: Jagged Jimmy J}
@@ -112,20 +74,8 @@
 {816}{}{Consegna il pacco di Big Jesus a Ramirez presso le Stalle.}
 {817}{}{Incassa il pizzo dai fratelli Corsican.}
 {818}{}{Uccidi il Boss Salvatore per conto di Mordino.}
-
-#
-# Sierra Army Base Quests
-#
 {900}{}{}
-
-#
-# Vault 15 Quests
-# Moved it to 3000 on accedent
 {1000}{}{}
-
-#
-# New California Republic Quests
-#
 {1100}{}{Recupera i componenti/Ottieni l'accesso al Vault 15.}
 {1101}{}{"Prenditi cura" di Jack il poliziotto per Mira.}
 {1102}{}{Completa il viaggio con i brahmin.}
@@ -138,28 +88,13 @@
 {1109}{}{Consegna il rapporto dell'Hubologista a AHS-9 a San Francisco.}
 {1110}{}{Uccidi l'Hubologista per Merk.}
 {1111}{}{Metti fine alle razzie di brahmin.}
-#
-# Vault 13 Quests
-#
 {1200}{}{Ripara il computer del Vault 13.}
 {1201}{}{Parla con Goris.}
-
-#
-# Military Base Quests
-#
 {1300}{}{}
-
-#
-# Redding Quests
-#
 {1400}{}{Trova il chip per la scavatrice.}
 {1401}{}{Placa la rissa nel bar.}
 {1402}{}{Scopri chi ha sfregiato la prostituta.}
 {1403}{}{Uccidi Frog Morton.}
-
-#
-# San Francisco Quests
-#
 {1500}{}{La petroliera ha bisogno di carburante.}
 {1501}{}{Il computer di navigazione ha bisogno di un NavComp per funzionare.}
 {1502}{}{Devi utilizzare un codice FOB per accedere al computer di navigazione.}
@@ -177,93 +112,24 @@
 {1514}{}{Recupera la milza di Chip.}
 {1515}{}{Prendi qualche Power-Armor rinforzata da Crockett.}
 {1516}{}{Recupera i piani per un vertibird per la Confraternita d'Acciaio.}
-#
-# Navarro Quests
-#
-#1515, ...
 {1600}{}{Occupati del Deathclaw.}
 {1601}{}{Ripara K9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
-
-#
-# The Enclave Quests
-#
 {1700}{}{}
-
-#
-# The Abbey Quests
-#
 {1800}{}{}
-
-#
-# Primitive Tribe Quests
-#
 {1900}{}{}
-
-#
-# EPA Quests
-#
 {2000}{}{}
-
-#
-# Ghost Town Quests
-#
 {2100}{}{}
-
-#
-# Car outta Gas Quests
-#
 {2200}{}{}
-
-#
-# Destroyed Arroyo Quests
-#
 {2300}{}{}
-
-#
-# Toxic Caves Quests
-#
 {2400}{}{}
-
-#
-# Den Slave Run Quests
-#
 {2500}{}{}
-
-#
-# Raiders Quests
-#
 {2600}{}{}
-
-#
-# Desert Encounter Quests
-#
 {2700}{}{}
-
-#
-# Mountain Encounter Quests
-#
 {2800}{}{}
-
-#
-# Ruined City Encounter Quests
-#
 {2900}{}{}
-
-#
-# Coast Encounter Quests
-#
 {3000}{}{}
-
-#
-# Golgotha Quests
-#
 {3100}{}{}
-
-
-#
-# Vault 15 Quests
-#
 {3200}{}{Salva Chrissy.}
 {3201}{}{Uccidi Darion.}
 {3202}{}{Completa l'accordo con NCR.}

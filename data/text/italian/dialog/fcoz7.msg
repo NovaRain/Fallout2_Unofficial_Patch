@@ -5,7 +5,7 @@
 {104}{}{Tu. Per quale ragione ti trovi qui?}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Ho una lettera per AHS-9 da parte dell'Illuminata di NCR.}
-{107}{}{Sono qui per parlare con Crocket a proposito di un'armatura.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{Vorrei dare un'occhiata in giro.}
 {109}{}{Sarei interessato ad unirmi alla vostra religione.}
 {110}{}{Chi sei?}
@@ -28,7 +28,7 @@
 {127}{}{Ooh! Celebrita'!}
 {128}{}{Io sono AHS-7, il secondo in comando di questa organizzazione. Prima che tu me lo chieda: AHS sta per Allineato all'Hub Supremo, e significa che ho purificato sette livelli di neuronodi nel mio spirito. Questo significa che ho raggiunto un grado d'illuminazione superiore e che sono piu' vicino di te al Centro della Grande Ruota. E cio' significa che tu mi dirai cosa ci fai qui. Adesso.}
 {129}{}{Ho una lettera per AHS-9 da parte dell'Illuminata di NCR.}
-{130}{}{Sono qui per parlare con Crocket a proposito di un'armatura.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{Vorrei dare un'occhiata in giro.}
 {132}{}{Sarei interessato ad unirmi alla vostra religione.}
 {133}{}{Sono qui per uccidervi tutti.}
@@ -37,17 +37,17 @@
 {136}{}{Bah, lasciamo stare. Me ne vado.}
 {137}{}{Li puoi trovare nella stanza delle preghiere. Stanno mostrando a tutte le nostre nuove reclute e alla rozza carne da cerchione quanto appagante sia essere un Hubologista.}
 {138}{}{Bene, ci vado subito!}
-{139}{}{Questo lo decidero' io. Diamo inizio allo spettacolo.} ###???Let's get the show on the road
-{140}{}{Lasciamo stare. Me ne vado.}
+{139}{}{Questo lo decidero' io. Diamo inizio allo spettacolo.}
+{140}{}{Al diavolo. Me ne vado.}
 {141}{}{E cosi' hai parlato con Juan e Vikki... Sei interessato ad unirti ai nostri amici nella ricerca dell'illuminazione della Grande Ruota?}
 {142}{}{Oh si'. Si' si' si'.}
-{143}{}{Certo.}
+{143}{}{Bene.}
 {144}{}{Non adesso. Posso tornare piu' tardi?}
 {145}{}{Non credo che faccia per me. Mi spiace.}
 {146}{}{Diavolo, no! Il vostro folle culto merita di essere ridotto in macerie e bruciato.}
-{147}{}{::sorride:: Non te ne pentirai. Da noi troverai cio' che cerchi. Oh... vedo che sai maneggiare le armi. Che ne diresti di usare le nostre al servizio della Grande Ruota?} ###???You may have the run of the compound
+{147}{}{::sorride:: Non te ne pentirai. Da noi troverai cio' che cerchi. Oh... vedo che sai maneggiare le armi. Che ne diresti di usare le nostre al servizio della Grande Ruota?}
 {148}{}{Si'.}
-{149}{}{Magari un'altra volta.}
+{149}{}{Magari piu' tardi.}
 {150}{}{Non aspettare troppo a lungo prima di tornare con una risposta. I tuoi neuronodi si inquineranno sempre piu' prima che noi si possa iniziare il processo di purificazione.}
 {151}{}{Ho cambiato idea. Mi uniro' a voi.}
 {152}{}{Ho capito. Ci vediamo dopo.}
@@ -64,7 +64,7 @@
 {163}{}{Va bene, mi uniro' a voi.}
 {164}{}{Scordatelo. Non mi piacciono queste prepotenze.}
 {165}{}{Quei tirannici degli Shi ci contendono il potere e seminano confusione tra i nostri fratelli per mezzo dei loro metodi che influenzano i neuronodi. Noi pensiamo che se l'Imperatore venisse ucciso, gli Shi si renderebbero conto del loro sbaglio. Ucciderai l'Imperatore?}
-{166}{}{Certo, lo faro'.}
+{166}{}{Si', lo faro'.}
 {167}{}{No, gli Shi non mi hanno fatto nulla.}
 {168}{}{Magari cambierai idea. Fammi sapere. Ora: c'e' qualcosa che l'Hub puo' fare per te, recluta?}
 {169}{}{Si', avrei delle domande.}
@@ -76,11 +76,11 @@
 {175}{}{Dove posso trovare del carburante per la petroliera Poseidon?}
 {176}{}{Dove posso trovare il significato di tutti i termini che usate?}
 {177}{}{Quand'e' che partira' l'astronave?}
-{178}{}{Dov'e' Crocket?}
+{178}{}{Where is Crockett?}
 {179}{}{Niente, grazie. Ci vediamo.}
 {180}{}{Facci sapere quando avrai portato a termine il tuo compito.}
 {181}{}{Lo faro'. Ho delle altre domande.}
-{182}{}{Certamente. Ci vediamo.}
+{182}{}{Certo. Addio.}
 {183}{}{Hai rimosso l'opprimente presenza dell'Imperatore da questa esistenza materiale?}
 {184}{}{Non ancora.}
 {185}{}{Si', AHS-7. E' morto.}
@@ -99,7 +99,7 @@
 {198}{}{Veramente, adesso uccidero' anche voi.}
 {199}{}{Adesso che l'astronave e' piena di carburante, attendiamo solo la parola di AHS-9, il Grande e Terribile, per dare inizio alle procedure di lancio.}
 {200}{}{Bene. Ho delle altre domande.}
-{201}{}{Grazie. Ci vediamo.}
+{201}{}{Grazie. Ciao.}
 {202}{}{Escludendo il prezioso carburante che ci serve per lanciarci nel grembo dei nostri fratelli stellari sul pianeta Quetzel, non saprei proprio dove potresti trovarne. Forse dagli Shi?}
 {203}{}{Hmm. Ho delle altre domande.}
 {204}{}{Si', forse.}
@@ -124,10 +124,8 @@
 {223}{}{Abbiamo eliminato alcuni dei tuoi neuronodi piu' luridi. Adesso hai assunto il grado di AHS-1. Sei pronto ad unirti alla nostra nobile causa?}
 {224}{}{Oh si'.}
 {225}{}{No. Adesso non voglio farlo.}
-
 {226}{}{Lezione numero 1: Ecco l'eternita'. Lassu' si trova Quetzel. [indica qualcosa] E qui siamo noi. [indica qualcos'altro] Tutto quel che dobbiamo fare e' camminare a lungo per raggiungere la nostra meta.}
 {227}{}{Cavoli, avremo bisogno di un sacco di scarpe.}
-
 {228}{}{Posso pensarci ancora un po'?}
 {229}{}{Ancora tu? Cosa c'e'?}
 {230}{}{Avete qualcos'altro da farmi fare?}

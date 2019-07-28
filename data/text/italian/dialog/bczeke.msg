@@ -7,20 +7,20 @@
 {106}{}{Va bene, me ne vado.}
 {107}{}{Volevo solo farti un paio di domande.}
 {108}{}{Beh, credo che ti accorgerai presto che qui abbiamo tutti finito le risposte. Perche' non torni quando saranno arrivate le nuove scorte?}
-{109}{}{Fatto.}
+{109}{}{Ci sto.}
 {110}{}{Salve ancora. Ancora non ho risposte per te, straniero. Quand'e' che capirai che non ti vogliamo?}
-{111}{}{Fatto.}
+{111}{}{Ci sto.}
 {112}{}{Rebecca mi ha detto quello che hai fatto per lei. Vorrei scusarmi per l'accoglienza che hai ricevuto. Sicuramente non la meritavi. Come posso aiutarti?}
 {113}{}{Me ha domande.}
 {114}{}{Niente. Ciao.}
 {115}{}{Ho delle domande da farti.}
 {116}{}{Per adesso, nulla. Grazie.}
-{117}{}{Che cosa vuoi sapere?}
+{117}{}{Cosa vuoi sapere?}
 {118}{}{Tu lavorare per Darion?}
 {119}{}{Cosa tu fare per predoni?}
 {120}{}{Dove essere porta di Vault?}
 {121}{}{Qualcosa altro succedere qui?}
-{122}{}{Me va ora.}
+{122}{}{Me va via, adesso.}
 {123}{}{Lavori per Darion?}
 {124}{}{Cosa intendi fare con i predoni?}
 {125}{}{Dov'e' l'entrata del Vault?}
@@ -45,21 +45,20 @@
 {144}{}{Tu ragione, me occupa di Darion.}
 {145}{}{Me no sicuro.}
 {146}{}{Si', immagino che qualcosa si debba fare.}
-{147}{}{Non lo so.}
+{147}{}{I don't know.}
 {148}{}{Magnifico. Buona fortuna e... grazie.}
-{149}{}{Fatto.}
+{149}{}{Ci sto.}
 {150}{}{Beh, prenditi un po' di tempo per pensarci, ma sappi questo -- fino a quando Darion non sara' fuori gioco, non posso fare altro che mantenere lo stato attuale delle cose. Devo pensare al bene di tutti. Stando cosi' le cose, non potrei concludere nessun accordo con te e tu saresti ancora "persona non gradita" da queste parti. Capito?}
 {151}{}{Okay.}
 {152}{}{Salve. Sto ancora aspettando che i nostri problemi finiscano in modo definitivo. In altre parole: sbarazzati di Darion!}
-{153}{}{Fatto.}
+{153}{}{Ci sto.}
 {154}{}{Ce l'hai fatta, amico! Non siamo piu' sotto il giogo di Darion. Grazie! Adesso sono pronto a concludere l'accordo da te proposto con NCR. Basta che tu dica loro che mandino qui uno dei loro rappresentanti e tutto sara' risolto.}
-{155}{}{Fatto.}
+{155}{}{Ci sto.}
 {156}{}{Grazie per averci dato la possibilita' di cominciare una nuova vita. Ti siamo tutti debitori.}
 {157}{}{Vattene. Non ho nulla da dirti.}
 {158}{}{Aspetta! Prima che tu te ne vada... Ho trovato questa tessera, qualche tempo fa, e non ho idea di quale sia la sua funzione. Rebecca dice che hai trovato una specie di porta vicino al luogo dove tenevano prigioniera Chrissy. Forse questa tessera l'aprira'. Ecco, prendila.}
 {159}{}{Grazie.}
-{160}{}{Come posso aiutarti?}
+{160}{}{Come posso aiutarla?}
 {161}{}{Ci sarebbero i soliti problemi con NCR, ma credo che l'accordo che ci hai proposto li risolvera'.}
 {162}{}{Ce l'hai fatta, amico! Non siamo piu' sotto il giogo di Darion. Grazie!}
-
 {163}{}{Ora che Darion e' morto non abbiamo modo di procurarci il cibo. Moriremo sicuramente! Grazie mille.}

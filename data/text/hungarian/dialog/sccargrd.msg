@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Egy újabb õr. Bizonyára tenyésztik õket, mert mindegyik tökugyanúgy néz ki.}
 {101}{}{Ismét egy ellenszenves õr.}
 {102}{}{Közelebbrõl is megszemléled, és meg vagy gyõzõdve róla, hogy ez egy õr.}

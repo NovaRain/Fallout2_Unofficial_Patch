@@ -1,14 +1,14 @@
 {100}{}{Vedi un arrogante gangster shi.}
 {101}{}{Vedi Lo Pan, un uomo dispotico e feroce.}
 {102}{}{Vedi un gangster shi, che indossa abiti di seta. Le sue mani sono callose e dure. Sembra pericoloso e caustico.}
-{103}{}{Che cosa vuoi?}
+{103}{}{Cosa vuoi?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Chi tu?}
 {106}{}{Chi era il tipo con il quale stavi combattendo?}
 {107}{}{Chi sei?}
 {108}{}{Voglio imparare a combattere come te. Insegnami.}
 {109}{}{Voglio sfidarti.}
-{110}{}{Lasciamo perdere.}
+{110}{}{Scordatelo.}
 {111}{}{Fuori di qui, idiota. Non ho nulla da dirti.}
 {112}{}{GRR!}
 {113}{}{Io sono Lo Pan. Il miglior lottatore della citta', escluso Dragon. E un giorno, lui sara' un uomo morto. E quando cio' accadra', io insegnero' agli altri la mia tecnica.}
@@ -21,7 +21,7 @@
 {120}{}{Oh, ma guarda... l'idiota. Non voglio parlare con te. Vattene.}
 {121}{}{Duhhh...}
 {122}{}{Lui? E' Dragon. E' un debole che insegna la debolezza.}
-{123}{}{Le persone sono delle pecore. Dovresti approfittarne.} ###???You should serve yourself
+{123}{}{Le persone sono delle pecore. Dovresti approfittarne.}
 {124}{}{Come? Sei cattivo?}
 {125}{}{Capisco. Ho delle altre domande.}
 {126}{}{Cattivo? No. Solo furbo. Se sei cosi' preoccupato di far del bene alle persone, forse dovresti andare da Dragon. Gli piace parlare con i pappemolli come te.}
@@ -50,10 +50,10 @@
 {149}{}{Io sono Lo Pan. E sono anche il "nemico giurato" di Dragon. Perche' si ostini a volere un nemico giurato non riesco proprio a capirlo. Semplicemente combatto bene come lui, e penso che sia soltanto un debole che permette agli altri di vivere sotto la sua ombra. Siamo nemici perche' abbiamo lo stesso stile di combattimento e quindi chi di noi due risultera' vincitore porterera' avanti la tradizione.}
 {150}{}{Neanch'io me la cavo troppo male con il corpo a corpo. Che ne dici di una sfida?}
 {151}{}{Interessante. Dev'essere appagante. Ho delle altre domande.}
-{152}{}{Grazie, ci vediamo.}
+{152}{}{Grazie. Ciao.}
 {153}{}{Potro' anche essere un bastardo, ma nessuno puo' dire che non sto dalla parte della mia gente. Ti faro' soffrire le pene dell'inferno prima di ucciderti.}
 {154}{}{[FATTO]}
-{155}{}{E allora tu sei un pazzo e un cane che non fa altro che eseguire gli ordini degli altri. Ridero' di te mentre starai morendo.} ###???Then you're a fool and a dog doing the bidding of others. I will laugh when you die
+{155}{}{E allora tu sei un pazzo e un cane che non fa altro che eseguire gli ordini degli altri. Ridero' di te mentre starai morendo.}
 {156}{}{[ATTACCA ORA, CON ARMATURA E ARMI.]}
 {157}{}{[ENTRA NEL RING, METTI DA PARTE ARMATURA E ARMI, E COMBATTI A MANI NUDE.]}
 {158}{}{Bene. Almeno sei il padrone di te stesso. Hai abbastanza fegato per affrontarmi senza armatura ne' armi?}
@@ -72,20 +72,16 @@
 {171}{}{Si', vabbe'. Ciao.}
 {172}{}{Ho appena ucciso un lao wai che aveva cercato di rubare i nostri segreti. Ce ne siamo occupati io e Dragon. E, se devo essere sincero, abbiamo lavorato bene, insieme.}
 {173}{}{Ottimo. Ho delle domande da farti.}
-{174}{}{Ottimo. Ci vediamo.}
+{174}{}{Ottimo... Ci vediamo.}
 {175}{}{Dragon e' morto. Non riesco a crederci. Almeno adesso quelle noiose tradizioni non assilleranno piu' ogni nostro passo. Grazie.}
 {176}{}{Ottimo. Ho delle domande da farti.}
-{177}{}{Ottimo. Ci vediamo.}
+{177}{}{Ottimo... Ci vediamo.}
 {178}{}{D'accordo. Lo faro' subito.}
-
-{200}{}{Lo Pan si accorge della tua mossa e lo manchi.} ###???detects your advance and you slip by him
+{200}{}{Lo Pan si accorge della tua mossa e lo manchi.}
 {201}{}{Ascolta, non mi piace che qualcuno prenda le mie cose... va' a rubare quelle di qualcun altro. Adesso vattene.}
 {202}{}{Ti avevo chiesto di andartene, non di suicidarti.}
-{203}{}{Mi sembra che non serva che io ti alleni ancora.}
-#{203}{}{You already took the test of the Dragon!}
-
+{203}{}{Sembra che tu non abbia piu' bisogno di ulteriori insegnamenti da parte mia.}
 {204}{}{Per oggi ho finito gli allenamenti. Torna domani.}
-
 {205}{}{Io sono Master Khung, la tua sfida finale.}
 {206}{}{Io sono Imbot. Preparati.}
 {207}{}{Io sono Wejungh. In guardia.}
@@ -98,33 +94,25 @@
 {214}{}{Hai sconfitto Lo Pan in un combattimento mortale. Per qualche ragione, oggi il sole sembra un po' piu' luminoso.}
 {215}{}{Hai gia' sconfitto i miei uomini. Hai superato il mio test. Sei pronto per affrontare Dragon.}
 {216}{}{Sei gia' piuttosto bravo. Perche' non vai ad imparare come si spara?}
-
-#training messages
 {217}{}{Cominciamo. Seguimi attentamente.}
 {218}{}{Per oggi l'allenamento e' finito.}
 {219}{}{Hai imparato bene.}
-
 {220}{}{Hai gia' sconfitto i miei uomini. Nessun altro vuole affrontarti.}
-
 {221}{}{Mi hai aiutato e non lo sapevi neanche. Adesso che Dragon e' morto non dovro' piu' seguire quelle antiquate tradizioni morali.}
 {222}{}{E' stato un piacere. Ci vediamo.}
 {223}{}{Prego. Addio.}
 {224}{}{Non c'e' di che. Posso farti una domanda?}
 {225}{}{Prego. Me domanda?}
-
 {226}{}{Hai VINTO!}
 {227}{}{Hai PERSO!}
 {228}{}{Prossimo avversario!}
-
 {229}{}{Ehi, guarda cos'ho trovato.}
-
 {230}{}{Per prima cosa devi dimostrare di essere in grado di farlo. Ti mettero' di fronte a cinque dei miei allievi - uno alla volta. Se li batti tutti, allora sarai pronto ad affrontare l'esame finale.}
-{231}{}{Di che si tratta?}
+{231}{}{Cos'e' quello?}
 {232}{}{Sembra un po' troppo rischioso. Addio.}
-{233}{}{Dovrai sconfiggere il mio apprendista preferito. Tuttavia, nessuna di queste sfide sara' all'ultimo sangue - per proteggere i miei uomini, naturalmente. [sghignazza]}
+{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Cominciamo subito!}
 {235}{}{Puoi sconfiggere Dragon da solo.}
 {236}{}{[Lo Pan ti osserva e poi tira un pugno cosi' rapido che ti becca in pieno naso prima ancora che tu possa reagire.] Non sei abbastanza bravo.}
 {237}{}{Ok, ma posso chiederti qualcos'altro?}
 {238}{}{D'accordo. Addio.}
-{Hai gia' affrontato l'esame di Dragon!}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 18
 {100}{}{Hivatalos személynek néz ki, mert az ÚKK jelvényével díszített egyenruhát viseli.}
 {101}{}{Ez csak egy városi õr.}
 {102}{}{Lássuk csak: nehéz fiú, van fegyvere, jelvénye, páncélja... hmm, minden bizonnyal egy õr.}

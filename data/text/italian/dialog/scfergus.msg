@@ -47,16 +47,13 @@
 {146}{}{(Continua)}
 {147}{}{Oh, nulla. Errore mio. Ha detto 13, giusto? Beh, non ne so nulla.}
 {148}{}{(Continua)}
-
 {149}{}{Me risolto problema. Ucciso cattivo. Me vuole soldi.}
 {150}{}{Dille che ho risolto il suo problema con gli abusivi.}
 {151}{}{Darion e' morto...? Oh, mi scusi. Entri pure.}
 {152}{}{Davvero? Beh... e' una splendida notizia... credo. Ha scoperto qualcos'altro?}
-{153}{}{No}
+{153}{}{No.}
 {154}{}{Si', qualcos'altro c'e' -- una spia.}
 {155}{}{Che soll-cioe', sono contento che sia tutto finito. Entri pure.}
-
-#messages for when the player is tampering with something he shouldn't
 {500}{}{Mi scusi, ma non puo' entrare li' dentro senza permesso.}
 {501}{}{Sono costretto a chiederle di smetterla.}
 {502}{}{Questo e' il mio ultimo avvertimento - se ne vada prima che prenda provvedimenti.}

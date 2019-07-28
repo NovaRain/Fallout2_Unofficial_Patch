@@ -1,27 +1,18 @@
-# 0. QUICK LOOK
 {100}{}{A zsoldosok egyik vezetõjét látod.}
-
-# 0. LOOK
 {150}{}{Egy bõrpáncélt viselõ kemény fickót látsz. Számtalan sebhely és golyónyom borítja a testét, viszont a páncélja és a fegyvere jó állapotban vannak, szinte újak.}
-
 {151}{}{A zsoldosok egyik vezetõjét látod. A területet kémleli, közben az ujját a ravaszon tartja.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Nézzétek ezt a tökös köcsögöt...}
 {201}{}{Behatoló!}
-{202}{}{Van egy behatolónk!}
+{202}{}{Fiúk, vendégünk van!}
 {203}{}{Vonszoljátok ide a seggeteket! Van egy behatolónk!}
-{204}{}{Nézzétek, ki ugrott be hozzánk... megölni...}
+{204}{}{Nézzétek ki ugrott be hozzánk... most meghal...}
 {205}{}{Picsába! Ránk találtak!}
-{206}{}{Elment az eszed, hogy idejöttél!}
+{206}{}{Valami mocskot fújt ide a szél...}
 {207}{}{Eltévesztetted a házszámot, köcsög!}
-{208}{}{Nagyon sokat képzelsz magadról, gyökér!}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{208}{}{Nézzétek már mit hepciáskodik itt ez a kis szuka...}
 {215}{}{Lassan vissza kéne hívni a többi csapatot...}
 {216}{}{Úgy tudom, a Bravo csapat Menedékvárostól nem messze délre van... még mindig azt a karavánt követik.}
 {217}{}{Az a kis rüszü jobb, ha összeszedi magát... nehogy már ilyen szarosok kavarjanak itt...}
-#Ezt a mondatot egyik kanadai sem tudta, csak halovanyan
 {218}{}{Itt az idõ, hogy kiküldjek egy õrjáratot...}
 {219}{}{Ha csak egy kis idõre is kiiktathatnánk azokat a lézereket Menedékvárosban...}
 {220}{}{Megérkezhetne már Bishop parancsa...}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 30
 {100}{}{Egy katona szolgálati egyenruhában.}
 {101}{}{Valami X fokozatú PFC technikus.}
 {102}{}{Egy katonai egyenruhát viselõ fickó. Mondjuk inkább technikusnak néz ki, mint katonának.}

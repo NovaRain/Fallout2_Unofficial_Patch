@@ -1,1 +1,1 @@
-{100}{}{Hai recuperato gli schemi tecnici del Vertibird.}{
+{100}{}{Hai recuperato gli schemi tecnici del Vertibird.}

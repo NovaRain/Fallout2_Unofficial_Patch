@@ -1,4 +1,3 @@
-# Dialog Editor last position: 59
 {100}{}{Egy kutatót látsz.}
 {101}{}{Az Enklávé kutatócsapatának tagját látod.}
 {102}{}{Az Egyesült Államok Vegyi Kutatóalakulatának tagját látod.}
@@ -16,7 +15,7 @@
 {114}{}{Kiváló munka.}
 {115}{}{A Projekt az ütemterv szerint halad.}
 {116}{}{Az itteni eredmények kiválóak.}
-{117}{}{És most?}
+{117}{}{Nos?}
 {118}{}{Ez a sugárzás kikészít.}
 {119}{}{Csak egy újabb gyakorlat.}
 {120}{}{Nem hagyhatom itt a munkám csak úgy.}

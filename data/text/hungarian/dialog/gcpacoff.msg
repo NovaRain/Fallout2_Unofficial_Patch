@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{}
 {101}{}{}
 {102}{}{}
@@ -15,13 +14,13 @@
 {113}{powr3_c}{A maga egysége még mindig nem mûködik, jóember. Kivel beszélek?}
 {114}{powr3a}{Francot se változott ettõl. Még mindig semmit sem látunk! Kivel beszélek?}
 {115}{}{Ismételje meg! Vége.}
-{116}{}{Elmondhatnám, de utána meg kéne hogy öljem...}
-{117}{}{A Kiválasztott vagyok.}
-{118}{}{Hát ez nem szokatlan errefelé, ugye? Itt semmi nem mûködik jól többé.}
+{116}{}{Elmondhatnám, de utána meg kéne, hogy öljem magát...}
+{117}{}{I'm the Chosen One.}
+{118}{}{Hát ez nem szokatlan errefelé, ugye? Itt semmi nem mûködik többé jól.}
 {119}{}{Maradjunk annyiban, hogy én tudom, maga meg rájön, ha akar. Viszlát!}
 {120}{powr3b_b}{Mirõl beszél? Ki-ki a csoda maga?}
 {121}{}{Elmondhatnám, de utána meg kéne, hogy öljem magát...}
-{122}{}{A Kiválasztott vagyok.}
+{122}{}{I'm the Chosen One.}
 {123}{}{Hát ez nem szokatlan errefelé, ugye? Itt semmi nem mûködik többé jól.}
 {124}{}{Maradjunk annyiban, hogy én tudom, maga meg rájön, ha akar. Viszlát!}
 {125}{powr4a_a}{Itt az Elnök beszél! Bizonyám...}
@@ -34,9 +33,9 @@
 {132}{}{Ajjaj, inkább a távozás mezejére lépnék... Viszlát!}
 {133}{powr5_a}{Próbáljon erõsíteni!}
 {134}{}{Az ott... az megteszi... Mi más?}
-{135}{}{Erõsíteni? Mit kéne erõsítenem? Jól vagyok én úgy ahogy vagyok, erõsítsen a halál.}
+{135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{Megpróbálok késõbb visszajönni. Viszlát!}
-{137}{powr6_a}{Valóban? A Kiválasztott? Óh, elnézést, hogy nem estem hasra õkelmed elõtt, de ne rabold a drága idõmet ezzel az éktelen baromsággal!}
+{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
 {138}{}{Térdepelj le elõttem, és akkor meghagyom az életed. (Hmm, ennél szebben nem is mondhattam volna).}
 {139}{}{Jól van, a térdeplést elhagyhatjuk. Egy enyhe meghajlás és csók a gyûrûmre ugyanúgy megteszi.}
 {140}{}{Öö... úgy értettem, ogy engem választottak ki, hogy megjavítsam a kommunikációs egységet. Úgy tûnik itt minden bekrepált.}
@@ -46,10 +45,10 @@
 {144}{}{Nem, el kellett onnan jönnünk.}
 {145}{}{A jelét egyre rosszabbul veszem. Viszlát!}
 {146}{powr8_a}{Hah, mindjárt el is hiszem. Csak nehogy valakinek az elnök emberei közül a fülébe jusson, mert az idõk végezetéig krampácsolhat New Reno-ig bezárólag!}
-{147}{}{Hogy jön ide az elnök?}
+{147}{}{Az Elnök?}
 {148}{}{Hát mivel csak két lábam van, alaposan belefáradnék ebbe.}
 {149}{}{Na, mehetünk megszakadni. Jobban teszem, ha nyomban rendbe hozom itt a dolgokat. Viszlát!}
-{150}{powr9_a}{Igen, ez új. Mivel az én videóm mûködik, láthatja, hogy fetrengek a földön. Teljesen nyilvánvaló, hogy minden piszkosul titkos errefele, nemde? Az összes speciális egység a szárazföldön van. Nem tudom, hogy lehet itt bármit is elintézni.}
+{150}{powr9_a}{Yeah, that's a new one. Since my video's working you can see I'm rolling on the floor here. It does seem like everything's a damn secret though, huh? All the special ops on the mainland. I don't see how anything gets done.}
 {151}{}{A szárazföldön? Miért, maga hol van?}
 {152}{}{Hát, nekem úgy tûnik, hogy ez van mindenhol.}
 {153}{powr10_a}{Igen-igen, tudja, milyen boldogtalan lesz, ha az emberek nekiállnak panaszkodni. Személyes sértésnek veszi, mintha ennek valami köze is lenne a hûséghez. Talán ez a velejárója, ha valaki az Egyesült Államok Elnöke lesz. Illetve, ami az országból maradt.}
@@ -61,7 +60,7 @@
 {159}{}{Hát asszem, most dolgoznom kell. Meg kell még reparálnom ezt a kommunikációs csatornát. Viszlát!}
 {160}{powr12}{Az Egyesült Kibaszott Államok Elnöke. Maga szerint kirõl beszélek? Egyáltalán ki a fa - Kicsoda - Mi - Úgy picsán rúglak, hogy nem állsz meg a kibaszott lábadon! Ki beszél ott?}
 {161}{}{A Kiválasztott vagyok. Csókold meg a... lábamat.}
-{162}{}{A Kiválasztott vagyok.}
+{162}{}{I'm the Chosen One.}
 {163}{}{Én pedig az Elnök, és jó nagy bajba keverte magát.}
 {164}{}{Maga nem elég fontos személy, hogy ezt az információt átadjam.}
 {165}{}{Hû, asszem, mennem kell. Egy csomó munka vár itt rám. Viszlát!}

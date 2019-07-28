@@ -1,12 +1,12 @@
-{100}{}{Vedi un Cittadino che indossa una tuta azzurra. Sembra il completo dell'Abitante del Vault, ma non c'e' il numero sulla schiena.}
+{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
 {101}{}{Vedi Darrow, il Vice-Addetto all'Emporio.}
-{102}{}{Vedi un Cittadino che indossa una tuta azzurra. Sembra il completo dell'Abitante del Vault, ma non c'e' il numero sulla schiena.}
+{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
-{105}{}{Mamma mia! E' l'eroe! Qui, a Vault City!}
-{106}{}{Buona giornata, Capitano.}
+{105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
+{106}{}{Buon giorno, Capitano.}
 {107}{}{Vault City prevale, Capitano.}
-{108}{}{Buon giorno, Cittadino.}
+{108}{}{Buongiorno, Cittadino.}
 {109}{}{Vault City prevale, Cittadino.}
 {110}{}{Un mutante! Guardie! Guardie!}
 {111}{}{Un ghoul! Guardie! Guardie!}
@@ -24,9 +24,9 @@
 {123}{}{C'e' qualcosa che posso fare per lei, Cittadino?}
 {124}{}{Scusa, posso esserti d'aiuto?}
 {125}{}{Dauto? Doodle-doodle doooooo}
-{126}{}{-allontanati-}
+{126}{}{-Allontanati-}
 {127}{}{Cos'e' questo posto?}
-{128}{}{Posso vedere la vostra merce?}
+{128}{}{Posso vedere quello che hai da vendere?}
 {129}{}{Per oggi niente, grazie.}
 {130}{}{Aspetta qui un secondo, okay? Vado a chiamare qualcuno che ti accompagni fuori.}
 {131}{}{NO ME NO VAH}
@@ -37,15 +37,14 @@
 {136}{}{Grazie per essersi fermato. Vault City prevale, Cittadino.}
 {137}{}{Grazie per essersi fermato. Vault City prevale, Capitano.}
 {138}{}{Vault City prevale, Cittadino.}
-{139}{}{Buona giornata, Cittadino.}
+{139}{}{Buongiorno, Cittadino.}
 {140}{}{Distaccamento A dell'Emporio. Mi occupo dei bisogni lavorativi di carattere generale, come attrezzi ed equipaggiamento per riparazioni. Mi chiamo Darrow, Vice-Addetto all'Emporio Darrow. C'e' qualcosa che le serve? }
 {141}{}{Questo e' il Distaccamento A dell'Emporio... qui dentro i Cittadini possono procurarsi vari attrezzi e l'equipaggiamento necessario per le riparazioni. Sei sicuro di essere nel posto che stavi cercando?}
-{142}{}{Posso vedere la vostra merce?}
+{142}{}{Posso vedere quello che hai da vendere?}
 {143}{}{Si', e' il posto giusto. Posso vedere la vostra merce?}
 {144}{}{Per oggi niente, grazie.}
 {145}{}{Non credo. Arrivederci.}
 {146}{}{Ehi! Sta' lontano da li'!}
-{147}{}{Questo e' troppo! Fuori di qui!}
-
+{147}{}{Adesso basta! Fuori di qui!}
 {148}{}{Grazie.}
 {149}{}{[continua]}

@@ -1,13 +1,7 @@
-# 0. Look
 {100}{}{Vedi uno schiavista.}
-
 {150}{}{Sembra essere una delle guardie personali di Metzger.}
-
-# 1. CF: Hostile
 {200}{}{Eccoti qua.}
 {201}{}{Adesso morirai.}
-
-# 2. CF: Normal
 {300}{}{Vuoi vedere il capo? Entra.}
 {301}{}{Devi parlare con Metzger, non con me.}
 {302}{}{Entra.}

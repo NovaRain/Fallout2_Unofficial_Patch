@@ -1,5 +1,4 @@
-# Dialog Editor last position: 5
-{100}{}{Egy Polgárt látsz világoskék kezeslábasban, ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
+{100}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
 {101}{}{Menedékváros egy Polgárát látod.}
 {102}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
 {103}{}{::tapsol::}
@@ -7,8 +6,8 @@
 {105}{}{Atya ég! Itt a hõs, Menedékvárosban!}
 {106}{}{Jó napot, Kapitány.}
 {107}{}{Menedékváros mindenek felett, Kapitány.}
-{108}{}{Jó napot, Polgártárs.}
-{109}{}{Menedékváros mindenek felett, Polgártárs!}
+{108}{}{Jó napot, Polgártárs!}
+{109}{}{Menedékváros mindenek felett, Polgártárs.}
 {110}{}{Egy mutáns! Õrség! Õrség!!!}
 {111}{}{Egy ghoul! Õrség! Õrség!!!}
 {112}{}{Hogy jutottál be a városba?}
@@ -17,9 +16,9 @@
 {115}{}{Úgy láttszik egyre több Kívülállót engednek be a városunkba ...}
 {116}{}{Nagyon remélem, hogy van Napi Belépõd.}
 {117}{}{Úgy láttszik mostanában mindenféle Kívülállónak andnak Napi Belépõt...}
-{118}{}{Hallottam bátor tetteidrõl. Nagy szolgálatot tettél Menedékvárosnak... és a világnak.}
-{119}{}{Harcod az Enklávéval még az Elsõ Polgár figyelmét is felkeltette.}
-{120}{}{Hallottam, olyan távoli városokat is láttál mint  San...Fran...Cisco. Igaz ez?}
+{118}{}{Hallottam bátor tetteidrõl. Nagy szolgálatot tettél Menedékvárosnak és az egész világnak.}
+{119}{}{Az Enklávé elleni harcod nagy hatással volt még az Elsõ Polgárra is.}
+{120}{}{Azt hallottam, hogy egészen San... Fran... ciscóig jutottál. Igaz ez?}
 {121}{}{Talán Menedékvárosnak *kéne* üdvözölnie a Kívülállókat.}
 {122}{}{Tényleg igaz? A régi világ kormánya még mindig háborúzik?}
 {123}{}{Fel kéne jegyezned az utazásaidat Menedékváros központi számítógépébe, hogy mások is olvashassanak róla.}
@@ -36,7 +35,7 @@
 {134}{}{Valami baj van, Kapitány?}
 {135}{}{Remélem egyetlen mocskos Kívülálló sem okoz gondot magának, Kapitány.}
 {136}{}{Van valami története a kinti világról, Kapitány?}
-{137}{}{Jó napot, Polgártárs.}
+{137}{}{Jó napot, Polgártárs!}
 {138}{}{Menedékváros mindenek felett, Polgártárs.}
 {139}{}{Én remekül érzem magam és te?}
 {140}{}{Polgárként kötelességem, hogy listákat készítsek és  karbantartsam õket.}
@@ -48,7 +47,7 @@
 {146}{}{Szükséged van egy helyre ahol megpihenhetsz amíg a városban vagy?}
 {147}{}{A Tanács törõdik velünk.}
 {148}{}{Nagyon ügyelnünk kell, hogy gyönyörû városunkat tisztán tartsuk.}
-{149}{}{A szolgák? Ó... csak alantas feladatkora használjuk õket.}
+{149}{}{A szolgák? Ó ... csak alantas feladatkora használjuk õket.}
 {150}{}{A Tanácsgyûlés tegnap rendkívül eredményes volt. Egy nagy halom listát készítettünk. Mi itt Menedékvárosban imádunk listákat készíteni.}
 {151}{}{Igen?}
 {152}{}{Segíthetek valamiben... Kívülálló?}

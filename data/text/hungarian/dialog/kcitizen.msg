@@ -1,5 +1,4 @@
-# Dialog Editor last position: 48
-{100}{}{Klamath egyik lakóját látod.}
+{100}{}{Õ egy klamath-i lakos.}
 {101}{}{Õ egy klamath-i lakos.}
 {150}{}{Mér nem mész vissza a törzsedbe?}
 {151}{}{Adok neked pár szép gyöngyszemet, ha békén hagysz.}
@@ -42,8 +41,35 @@
 {197}{}{Nem is vagy olyan, mint Sulik.}
 {198}{}{Te vagy a legcivilizáltabb törzsbéli, akivel valaha is találkoztam.}
 {199}{}{Vigyázz a megváltozott színû gekkókkal.}
-{200}{}{Helló, utazó!}
+{200}{}{Üdvözöllek, utazó!}
 {201}{}{Jó, hogy köztünk vagy.}
 {202}{}{Hogy s mint, idegen?}
 {203}{}{Vigyázz a Duntonokkal, veszélyesek!}
 {204}{}{A Prémvadászok városában aztán sok a patkány.}
+{1000}{}{Törzsfõ}
+{1001}{}{Alapító}
+{1002}{}{Menedéklakó}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Menedék}
+{1006}{}{Kiválasztott}
+{1007}{}{Sámán}
+{1008}{}{Hakunin}
+{1009}{}{Gyógyító por}
+{1010}{}{Híd}
+{1011}{}{Mynoc}
+{1100}{}{A törzsfõ a te édesanyád és a vezetõnk.}
+{1101}{}{Õ a mi nagyszerû õsünk, neki köszönhetjük a tudást.}
+{1102}{}{Õ volt az, aki elõször küzdött meg sikeresen a káosszal.}
+{1103}{}{Ez a mi szépséges falunk.}
+{1104}{}{That's trading outpost a few days east of here.}
+{1105}{}{A Menedék maga a mennyország.}
+{1106}{}{TE vagy a Kiválasztott.}
+{1107}{}{He heals us with his herbs and magic. He is in the north part
+ of our village.}
+{1108}{}{He heals us with his herbs and magic. He is in the north part
+ of our village.}
+{1109}{}{It is a magic powder which will heal you, but will make you
+ sleepy.}
+{1110}{}{A Nagy Híd dél felé van a falunktól.}
+{1111}{}{He guards the bridge leading into our village.}

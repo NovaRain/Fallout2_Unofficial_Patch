@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy alacsony, hordómellkasú férfit látsz, tömött, sötét szakállal. Az illetõt teljesen belepte a kõpor.}
 {101}{}{"Veszélyes" Dan McGrewt, a Morningstar Bánya tulajdonosát látod.}
 {102}{}{Egy izmos férfit látsz, akinek egy sebhely van az arcán. Keménynek és magabiztosnak látszik.}
@@ -6,7 +5,7 @@
 {104}{}{Itt helyben elpatkolok! Úgy látszik, az evolúció visszafelé is haladhat.}
 {105}{}{Nem vagy valami észkombájn, mi?}
 {106}{}{Nincs idõm rád! Szerintem neked nincs ki a négy kereked.}
-{107}{}{Bohócok cirkusz nélkül, vagy mi ez?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Helló, a nevem Veszélyes Dan McGrew. Enyém a Morningstar Bánya. Mit tehetek magáért?}
 {109}{}{Mit szeretne tõlem?}
 {110}{}{Mit bányásznak itt?}
@@ -19,13 +18,13 @@
 {117}{}{Azt gondolná az ember, hogy megpróbálnák ellenõrzésük alá vonni Reddinget.}
 {118}{}{Kösz az információt. Viszlát!}
 {119}{}{Mibõl gondolja, hogy nem így van? Mindenki szeretné zsebrevágni Reddinget. Szerintem hamarosan ránk teszi valaki a kezét. Ha túl akarjuk élni, az egyetlen dolog, amit tehetünk, hogy mi magunk választjuk meg a gazdánkat.}
-{120}{}{Hogy érti ezt?}
+{120}{}{Ezt most hogy kell értenem?}
 {121}{}{Azt hiszem, ennek van értelme. Hát, sok szerencsét és viszlát!}
 {122}{}{Úgy értem, hogy valaki a nyakunkra fog ülni. Csak a hülyék gondolják másként. Most még van rá esély, hogy kiválasszuk a legkevésbé problémásat.}
 {123}{}{Amit maga persze már meg is tett.}
 {124}{}{Jó problémamegoldást! Viszlát!}
 {125}{}{Mérget vehet rá. Ha nem szövetkezünk New Reno valamelyik családjával, búcsút inthetünk Reddingnek. Legalábbis egy olyan Reddingnek, amiben szívesen élnék.}
-{126}{}{Hogy érti ezt?}
+{126}{}{Ezt most hogy kell értenem?}
 {127}{}{Értem. Viszlát!}
 {128}{}{Ha az ÚKK telepszik ránk, Reddinget rövid pórázon tartják majd, nagyon de nagyon rövid pórázon. Õk nem igazán hívei a személyes szabadságnak. Redding csak egy újabb paca lenne az Új Kalifornia Köztársaság térképén. Az általam ismert Redding örökre a múlté lenne.}
 {129}{}{Hmm, és mi a helyzet a Menedékvárossal?}
@@ -46,21 +45,23 @@
 {144}{}{A legtöbb, amit tehetek, hogy jól menedzselem a bányámat és tudatosítom a bányászaimmal, hogy kitõl jön a pénz. Az a tény, hogy New Renóból kapják a boldogságszirupjukat, csak még népszerûbbé teszi a helyet.}
 {145}{}{Boldogságszirup?}
 {146}{}{Idõrõl idõre mindenkinek szüksége van egy kis napfényre az életében. Viszlát, Dan.}
-{147}{}{Pia, drogok, mindenféle vegyi stimulátorok. Csak megmondod, mi kell és New Reno leszállítja. Néhány bányász csak ezekért él. Pokolian ráfizetünk, ha valami felrúgja ezt az állapotot. }
+{147}{}{Booze, drugs, all sorts of chemical recreation. You name it and New Reno supplies it. It's just
+ about the only thing that some of my miners work for. Be hell to pay if something ever happened to
+ that.}
 {148}{}{Mi a helyzet mostanság a Jet-utánpótlással?}
 {149}{}{Le mertem volna fogadni. Na, kérdezek valami mást.}
 {150}{}{Kösz az információt. Körülnézek egy kicsit, Dan. Viszlát!}
 {151}{}{Mostanában nem kapunk elég Jetet, hogy mindenki boldog lehessen. Nagyon remélem, hogy a következõ néhány karaván gond nélkül átjut.}
-{152}{}{Érdekes. Hadd kérdezzek még valamit, Dan!}
+{152}{}{Érdekes. Hadd kérdezzek még valamit, Dan.}
 {153}{}{Inkább bóklászom egy kicsit, Dan. Köszi.}
 {154}{}{Mostanában majd' mindenki a Jeten él. A bányászok többsége él-hal a Jetért. Tény, hogy elégedett melósokat csinál, így hát nem panaszkodom. Szépen felsorakoznak két sorba Johnson doki elõtt, és megkapják az adagjukat. Ha sokkal többet kapnának, aggódnék.}
 {155}{}{Ki az a Johnson doki?}
-{156}{}{Érdekes. Kérdeznék még valamit, Dan.}
+{156}{}{Érdekes. Hadd kérdezzek még valamit, Dan.}
 {157}{}{Elballagok, Dan. Viszlát!}
 {158}{}{A rohadt életbe, túl sok Jet van a városban, lassan belefulladunk az anyagba. Senki sem akar dolgozni, mindenki csak szállni akar. Ha a bányászaim fele a fellegekben jár, nem tudom teljesíteni az érckvótámat. Az Isten rogyassza rá az eget Johnson dokira!}
 {159}{}{Ki az a Johnson doki?}
 {160}{}{Ez tényleg gázosan hangzik. Dan, kérdeznék még valamit.}
-{161}{}{Jobb, ha továbbállok, Dan. Viszlát!}
+{161}{}{I better be traveling, Dan. Goodbye.}
 {162}{}{A legtöbb keményvonalas Jet-zsoké bányász totál kikészült. Az utolsó adag, amit Johnson dokitól vettek, valahogy nagyon rossznak bizonyult.}
 {163}{}{Ki az a Johnson doki?}
 {164}{}{Érdekes. Hadd kérdezzek még valamit, Dan.}
@@ -155,8 +156,10 @@
 {253}{}{Nekem megfelel. Itt a chipje.}
 {254}{}{Azt hiszem, még tartogatom egy darabig. Viszlát!}
 {255}{}{Ha találok egyet, értesítem. Viszlát!}
-{256}{}{Van egy a Nagy Wanamingo Bányában, a várostól nyugatra. Lenn a bányában van egy marha nagy bányagép. Nem tévesztheti el. A chip a gépben van. Csak kapja ki belõle és hozza el nekem!}
-{257}{}{Meséljen még a városban folyó dolgokról!}
+{256}{}{It's in the Great Wanamingo Mine just west of town. Down inside the mine there's a great big
+ mining machine. You can hardly miss it. The chip's in that machine. You just need to yank it out and
+ bring it to me.}
+{257}{}{Inkább a városban folyó egyéb dolgokról meséljen.}
 {258}{}{Ha annyira kell magának, hogyhogy még nem ment le érte maga?}
 {259}{}{Úgy lesz. Most viszlát!}
 {260}{}{Van egy nagy, háború elõtti exkavátorom, teljesen üzemkész, de van egy gond. Nincs agya.}
@@ -173,7 +176,7 @@
 {271}{}{Ja, persze. Még meggondolom. Viszlát!}
 {272}{}{Ijesztõen hangzik. Nem, hiszem, hogy ez nekem való munka lenne. A térdem máris remeg.}
 {273}{}{Meg tudja csinálni! 1000 dolcsi nem aprópénz, haver!}
-{274}{}{Meséljen inkább, mit érdemes tudni a városban történõ eseményekrõl!}
+{274}{}{Inkább a városban folyó egyéb dolgokról meséljen.}
 {275}{}{Még átgondolom a dolgot. Egy kis plusz pénz valóban mindig jól jön.}
 {276}{}{Úgy látom, tévedtem, mikor azt hittem, belevaló alak. Takarodjon innen, csak az idõmet pocsékolja!}
 {277}{}{Igenis, uram! Lelépek, uram!}
@@ -181,11 +184,14 @@
 {279}{}{A fenébe... a maga helyében megvenném a hely tulajdonjogát, kipucolnám és újra eladnám Ascorti polgármesternek. Egyelõre övé a jog.}
 {280}{}{Vigyázzon magára. Nekem nagyon kell az a chip.}
 {281}{}{Inkább a városban folyó egyéb dolgokról meséljen.}
-{282}{}{Kösz az ötletet. Viszlát!}
-{283}{}{"Nemfáj" Johnson doki a helyi kuruzslónk. Talán tud azért valamit a gyógyításról is, de nem sokat. A belváros nyugati szélén lakik. Akárhogy is, ami gyógyszer és drog eljut a városba, az nála rendszerint kapható.}
+{282}{}{Kösz a tippet. Viszlát!}
+{283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
+ I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
+ medicine and drugs that we get here in town.}
 {284}{}{Mindent árul?}
 {285}{}{Még látjuk egymást, Dan. Viszlát!}
-{286}{}{Igen, amikor megkapjuk a Jetet, általában kötegelve érkezik, õ tölti szét ampullákba. Az emberek rábízzák. Nagy mûsort rendez, hogy minden tiszta legyen, meg ilyesmi. Egyszerû gyógyír, egyszerû lelkek számára, ez az én véleményem.}
+{286}{}{Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampoules. Folks trust
+ him to do it. Makes a big show about it being all clean and all. Simple remedies for simple minds, I say.}
 {287}{}{Ahh. Akkor hadd kérdezzek még valami mást.}
 {288}{}{Kösz az információt, Dan. Viszlát!}
 {289}{}{Uram, tõlem csak két dolgot kaphat - lét vagy szart, de a lé elfogyott. Na, tûnés!}

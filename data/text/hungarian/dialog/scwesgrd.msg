@@ -1,4 +1,3 @@
-# Dialog Editor last position: 43
 {100}{}{Egy õrt látsz.}
 {101}{}{Grant, az õr.}
 {102}{}{Egy õrt látsz. A páncélja és a fegyverei jó állapotban vannak.}
@@ -20,20 +19,20 @@
 {118}{}{Mi dolga van Mr. Westinnel?}
 {119}{}{Nekem kelleni munka.}
 {120}{}{Csak akarni beszélgetni.}
-{121}{}{Öh...}
-{122}{}{Nem lenni fontossága neki.}
+{121}{}{Öö...}
+{122}{}{Senkit.}
 {123}{}{Munkát keresek és azt hallottam, hogy itt lehet jelentkezni.}
 {124}{}{Beszélgetni akarok Mr. Westinnel.}
 {125}{}{Nem fontos, majd késõbb visszajövök.}
 {126}{}{Hmmm... valami rémlik, hogy van munkalehetõség. Rendben, jöjjön be! Ne csináljon semmi balhét, mellesleg magán tartom a szemem!}
 {127}{}{Én köszön.}
-{128}{}{Kösz.}
+{128}{}{Köszi.}
 {129}{}{Mr. Westin nem beszélget csak úgy egy utcáról beesett emberrel. Ha nincs valami különleges dolga vele, akkor javaslom, addig ne jöjjön vissza, amíg nem lesz. Most pedig, kérem, távozzon!}
-{130}{}{Kész.}
+{130}{}{[DONE]}
 {131}{}{(sóhajt) Hallottam, hogy Mr. Westinnek gyengéi a magafajták. Jöjjön be!}
-{132}{}{Én köszön neked.}
+{132}{}{Én köszön.}
 {133}{}{Jaja. Benne vagyok valaminek a közepében.}
-{134}{}{Hé, menjen onnan!}
+{134}{}{Hé, tûnjön onnan!}
 {135}{}{Kérdeznie kellene, mielõtt olyan dolgokhoz nyúl, ami nem a magáé!}
 {136}{}{Helló! Megint találkoznia kell Mr. Westinnel?}
 {137}{}{Igen.}
@@ -41,4 +40,4 @@
 {139}{}{Lenni dolgok Mr. Westin részire Menedékvárosbó'.}
 {140}{}{Hoztam valamit Menedékvárosból Mr. Westin számára.}
 {141}{}{Rendben, jöjjön be! Ne csináljon semmi balhét, mellesleg magán tartom a szemem.}
-{142}{}{Nem léphet be a farmra hivatalos engedély nélkül.}
+{142}{}{You're not allowed on to the ranch without official business.}

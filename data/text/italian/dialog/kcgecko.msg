@@ -1,7 +1,6 @@
 {100}{}{Vedi un trapper trasandato.}
 {101}{}{Vedi un trapper corpulento.}
 {102}{}{Vedi un cacciatore di gecki.}
-
 {200}{}{Ti troverai benissimo qui.}
 {201}{}{Perche' non ci offri un giro di bevute?}
 {202}{}{Vuoi sfidare i Dunton a braccio di ferro?}
@@ -27,7 +26,6 @@
 {222}{}{C'e' un fantasma nel canyon ad est di qui.}
 {223}{}{Fare il trapper e' pericoloso; proprio poche settimane fa ne abbiamo perso uno.}
 {224}{}{Mi piace troppo raggirare quel Torr.}
-
 {300}{}{Guardate un po' chi e' venuto a farci visita.}
 {301}{}{(mumble, mumble) ...questo cocco di mamma... (mumble)}
 {302}{}{Non e' che sei nella zona sbagliata del paese?}

@@ -13,10 +13,10 @@
 {162}{}{Quizás la próxima vez. Gracias de todos modos. [cof]}
 {163}{}{[hecho]}
 {164}{}{Muchas gracias. [cof] Mu-mu-muchas gracias.}
-{165}{}{De nada.}
+{165}{}{No hay de qué.}
 {166}{}{Ya, ya.}
 {167}{}{Señor, [cof] ¿puede ayudar a un pobre hombre con mala suerte?}
-{168}{}{Aquí tienes 5 dólares.}
+{168}{}{Here's $5.}
 {169}{}{Hoy no.}
 {170}{}{Búscate un trabajo.}
 {171}{}{Buena señora, ¿podría ayudar, por favor, [cof] a un pobre hombre hambriento que está [cof] demasiado enfermo para trabajar?}

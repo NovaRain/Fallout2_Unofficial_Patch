@@ -1,4 +1,3 @@
-# Dialog Editor last position: 2
 {100}{}{Egy kopasz emberkét látsz laborköpenyben.}
 {101}{}{Tom Murray, az Atomenegia-ügyi Társaság fõmegbízottja.}
 {102}{}{Egy nagyon ideges emberkét látsz õsrégi, koszos laborköpenyben.}
@@ -23,7 +22,7 @@
 {121}{}{Valóban? Nos, akkor beveszem magát a jelentésembe.}
 {122}{}{Hajrá! Hadd legyen egy jó napom!}
 {123}{}{Jaj, kérem, ne tegye! Inkább elmegyek. Viszlát!}
-{124}{}{Tom Murray vagyok, az Atomenergia-ügyi Társaság fõmegbízottja. Én irányítom az atomreaktort. Ki a franc maga és mit keres itt?}
+{124}{}{I'm Tom Murray, head of the Atomic Energy Commission. I control our atomic power plant here. Who the hell are you and what are you doing here?}
 {125}{}{Most meg mi a fenét akar?}
 {126}{}{Le kell kapcsolnom az atomreaktort.}
 {127}{}{Csak kíváncsi voltam, hogy mûködik ez a bazi nagy izé.}
@@ -56,7 +55,7 @@
 {154}{}{Jó munka volt! Most mennem kell. Maradjon csöndben egy ideig!}
 {155}{}{Jól, csinálta! Most azonban meg kell hogy öljem! Bocs, de nem hagyhatok tanúkat.}
 {156}{}{Most mennem kell. Viszlát!}
-{157}{}{A reaktorban zajló folyamatok már kicsúsztak az irányítás alól. Az innen északra lévõ központi egység vezérli a funkciókat. Annak híján már nem volna áram.}
+{157}{}{I don't control that much of the reactor's operation. The central computer just north of the reactor controls most of the power plant functions. If that weren't there, we'd have no power at all.}
 {158}{}{Egyáltalán nem?}
 {159}{}{Hát, nem lenne elég mindenre. A világítás, az életfenntartó-és mentõ valamint a védelmi rendszerek persze mûködnének egy darabig, de az erõterek és más energiaigényes rendszerek azonnal leállnának.}
 {160}{}{Elég nagy felhajtás lehetne.}

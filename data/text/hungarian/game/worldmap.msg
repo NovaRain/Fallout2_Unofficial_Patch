@@ -1,166 +1,98 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels és messages used by town és world map
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-
-#
-# Town map entry-point selection names
-#
-# Format:
-#	city type.
-#	Up to 10 selection names
-#
-# Arroyo
-{200}{}{Hid}
+{200}{}{Híd}
 {201}{}{Falu}
-{202}{}{Templom bejarat}
+{202}{}{Templom bejárata}
 {203}{}{Vadon}
 {204}{}{Templom}
-#
-# Den
 {210}{}{Nyugati oldal}
 {211}{}{Keleti oldal}
 {212}{}{Lakonegyed}
-#
-# Klamath
-{220}{}{Belvaros}
+{220}{}{Belváros}
 {221}{}{Premvadasz Varos}
-{222}{}{Patkanybarlang}
-{223}{}{Vadaszmezo}
-{224}{}{Legelo}
+{222}{}{Patkánybarlang}
+{223}{}{Vadászmezõ}
+{224}{}{Legelõ}
 {225}{}{Kanyon}
-#
-# Modoc
-{230}{}{Fo ut}
-{231}{}{Panzio}
+{230}{}{Fõ utca}
+{231}{}{Panzió}
 {232}{}{Grisham brahmin legeloje}
 {233}{}{Farrel kertje}
 {234}{}{Pocegodor}
-{235}{}{Varosi kut}
-#
-# Vault City
-{240}{}{Elovaros}
+{235}{}{Városi kút}
+{240}{}{Elõváros}
 {241}{}{Belvaros}
 {242}{}{Varoshaza}
-{243}{}{Menedek}
-#
-# Gecko
-{250}{}{Telepules}
-{251}{}{Eromu}
+{243}{}{Menedék}
+{250}{}{Település}
+{251}{}{Erõmû}
 {252}{}{Roncstelep}
-{253}{}{Alagsor}
-#
-# Broken Hills
-{260}{}{Belvaros}
-{261}{}{Lakonegyed}
-#
-# New Reno
-{270}{}{Szuz utca}
-{271}{}{Masodik utca}
+{253}{}{Alagút}
+{260}{}{Belváros}
+{261}{}{Lakónegyed}
+{270}{}{Szûz utca}
+{271}{}{2. utca}
 {272}{}{Kereskedelmi negyed}
 {273}{}{Keleti oldal}
-{274}{}{Ronto-Bonto}
-{275}{}{Boksz arena}
-{276}{}{Gepmadar}
-#
-# Sierra Army Base
-{280}{}{Csatater}
+{274}{}{Rontó-Bontó}
+{275}{}{Boksz aréna}
+{276}{}{Gépmadár}
+{280}{}{Harcmezõ}
 {281}{}{1. szint: Szemelyzet}
 {282}{}{2. szint: Raktar}
 {283}{}{3. szint: Robottechnikai labor}
 {284}{}{4. szint: Biologiai kutato labor}
-#
-# Vault 15
 {290}{}{A Birtok}
-{291}{}{Foldbitorlok}
-{292}{}{Foldbitorlok}
-{293}{}{15-os Menedek}
-{294}{}{Keleti Bejarat}
-#
-# New California Republic
-{300}{}{Bazar}
+{291}{}{Földfoglalók}
+{292}{}{Földfoglalók}
+{293}{}{a 15-ös Menedék}
+{294}{}{Keleti bejárat}
+{300}{}{Bazár}
 {301}{}{Tanacs}
-{302}{}{Belvaros}
-{303}{}{Varoshaza}
-{304}{}{Westin Farm}
-{305}{}{Legelok}
-#
-# Vault 13
-{310}{}{Barlang bejarat}
+{302}{}{Belváros}
+{303}{}{Városháza}
+{304}{}{Westin farm}
+{305}{}{Legelõ}
+{310}{}{Barlangbejárat}
 {311}{}{13-as Menedek}
-#
-# Military Base
-{320}{}{Bejarat}
+{320}{}{Bejárat}
 {321}{}{1. szint}
 {322}{}{2. szint}
 {323}{}{3. szint}
 {324}{}{4. szint}
-#
-# Redding
-{330}{}{Belvaros}
+{330}{}{Belváros}
 {331}{}{Nagy Wanamingo Banya}
-{332}{}{Wanamingo Banya}
+{332}{}{Wanamingo bánya}
 {333}{}{Banyasztabor}
 {334}{}{Belvarosi alagutak}
 {335}{}{Banya alagutak}
-#
-# San Francisco
-{340}{}{Kinai negyed}
+{340}{}{Kínai negyed}
 {341}{}{Dokk}
-{342}{}{Tankhajo}
+{342}{}{Tanker}
 {343}{}{Ursiklo kultere}
-{344}{}{Ursiklo beltere}
+{344}{}{Ûrhajó belseje}
 {345}{}{Hubologistak}
 {346}{}{Shi templom}
-#
-# Navarro
-{350}{}{Benzinkut}
+{350}{}{Benzinkút}
 {351}{}{Bejarat}
-#
-# The Enclave
 {360}{}{Dokk}
 {361}{}{Borton kozpont}
 {362}{}{Foellenség}
 {363}{}{Barakk}
-{364}{}{Elnoki szint}
+{364}{}{Elnöki szint}
 {365}{}{Reaktor}
 {366}{}{Csapda-terem}
-#
-# Abbey
 {370}{}{Error:Blank}
-#
-# Primitive Tribe
 {380}{}{Error:Blank}
-#
-# Environmental Protection Agency
 {390}{}{Error:Blank}
-#
-# Modoc: Ghost Town Sub-Area
 {400}{}{Kisertet farm}
 {401}{}{Fobarlang}
-{402}{}{Foldalatti to}
-#
-# Car Out of Gas
+{402}{}{Földalatti tó}
 {410}{}{Kifogyott az uzemanyag}
-#
-# Destroyed Arroyo
-{420}{}{Lerombolt hid}
-#
-# Klamath Toxic Caves
-{430}{}{Toxikus Barlangrendszer}
-#
-# Den Slave Runs
-{440}{}{Rejtek-i rabszolga-hajtas}
-#
-# Raiders
-{450}{}{Kut}
+{420}{}{Lerombolt híd}
+{430}{}{Toxikus barlang}
+{440}{}{Rejtek rabszolga-hajtas}
+{450}{}{Kút}
 {451}{}{Szirt}
 {452}{}{Barlang bejarat}
-#
-# Random Encounter Desert
 {460}{}{Sivatag}
 {461}{}{Sivatag}
 {462}{}{Sivatag}
@@ -171,8 +103,6 @@
 {467}{}{Sivatag}
 {468}{}{Sivatag}
 {469}{}{Sivatag}
-#
-# Random Encounter Mountain
 {470}{}{Hegy}
 {471}{}{Barlang}
 {472}{}{Hegy}
@@ -183,18 +113,14 @@
 {477}{}{Barlang}
 {478}{}{Hegy}
 {479}{}{Hegy}
-#
-# Random Encounter City
-{480}{}{Lerombolt város}
-{481}{}{Lerombolt város}
-{482}{}{Lerombolt város}
-{483}{}{Lerombolt város}
-{484}{}{Lerombolt város}
-{485}{}{Lerombolt város}
-{486}{}{Lerombolt város}
-{487}{}{Lerombolt város}
-#
-# Random Encounter Coast
+{480}{}{Romos város}
+{481}{}{Romos város}
+{482}{}{Romos város}
+{483}{}{Romos város}
+{484}{}{Romos város}
+{485}{}{Romos város}
+{486}{}{Romos város}
+{487}{}{Romos város}
 {490}{}{Partvonal}
 {491}{}{Partvonal}
 {492}{}{Partvonal}
@@ -205,60 +131,24 @@
 {497}{}{Partvonal}
 {498}{}{Partvonal}
 {499}{}{Partvonal}
-#
-# New Reno: Golgatha
 {500}{}{Golgota}
-#
-# Special Encounter: Whale Encounter
 {510}{}{Lezuhant bálna}
-#
-# Special Encounter: Tin Woodsman
-{520}{}{Bádogember.}
-#
-# Special Encounter: Big Head
-{521}{}{Nagy fej.}
-#
-# Special Encounter: Crashed Federation Shuttle
+{520}{}{Badogember}
+{521}{}{Nagy fej}
 {530}{}{Lezuhant ûrhajó}
-#
-# Special Encounter: Unwashed Villagers
 {540}{}{Sivatag}
-#
-# Special Encounter: Bridge Guardian
-{550}{}{A Halál Hídja}
-#
-# Special Encounter: Cafe of Broken Dreams
-{560}{}{Széttört Álmok Kávézója}
-#
-# Special Encounter: Holy Hand Grenade 1
+{550}{}{Híd}
+{560}{}{Szettort Almok Kavezoja}
 {570}{}{Sivatag}
-#
-# Special Encounter: Holy Hand Grenade 2
 {580}{}{Barlang}
-#
-# Special Encounter: Guardian of Forever
-{590}{}{A Végtelenség Õrzõje}
-#
-# Special Encounter: Mérgezõ-hulladék lerakat.
-{600}{}{Mérgezõ-hulladék lerakat.}
-#
-# Special Encounter: Pariahs
+{590}{}{Az Orokkevalosag Orzoje}
+{600}{}{Mergezo hulladek lerakat}
 {610}{}{Sivatag}
-#
-# Special Encounter: Mad Brahmin
 {620}{}{Brahmin csorda}
-#
-# Caravan Encounters
 {630}{}{Sivatag}
 {631}{}{Hegy}
-#
-# Fake Vault 13 A
 {640}{}{13-as Menedék bejárata}
-#
-# Fake Vault 13 B
 {650}{}{Barlang}
-#
-# Shadow Areas (Those which fit nowhere else
 {660}{}{Partvonal}
 {661}{}{Partvonal}
 {662}{}{Sivatag}
@@ -268,76 +158,43 @@
 {666}{}{Hegy}
 {667}{}{Sivatag}
 {668}{}{Sivatag}
-#
-# New Reno Stables
-{670}{}{Istálló}
-
-
-#
-# Terrain type names for world map hover button
-#
+{670}{}{Istallo}
 {1000}{}{Sivatag}
-{1001}{}{Hegy}
+{1001}{}{Hegyek}
 {1002}{}{Város}
 {1003}{}{Part}
-{1004}{}{Ismeretlen}  # Unknown/visited city
-
-
-# Misc messages
+{1004}{}{Ismeretlen}
 {1500}{}{10000 tapasztalati pontot kaptál!}
 {1501}{}{Romok}
 {1502}{}{Az autó lemerült.}
 {1503}{}{Ez egy autó. Nem igazán mûködik.}
-
-
-
-#
-# Worldmap Encounter messages
-#
-
 {2998}{}{Mindig jön valami...}
-#tobbek kozott azert valtoztattam meg, mert egyes-tobbes szamban is jonak kell lennie
-#es az Egy-et sem kene nagyon ismetelni
 {2999}{}{Közelebb húzódsz?}
-
-# Encounter Table 0
 {3000}{}{Egy csapat fosztogató.}
 {3001}{}{Néhány radskorpió.}
 {3002}{}{Hatalmas patkányok.}
-{3003}{}{Egy kereskedõ és csapata.}
+{3003}{}{Egy kereskedõ és csoportja.}
 {3004}{}{<Special>}
-
-# Encounter Table 1
 {3050}{}{Egy csapat fosztogató.}
 {3051}{}{Néhány imádkozó-sáska.}
 {3052}{}{Egy csapat gekkó.}
-{3053}{}{Egy falka vakondpatkány.}
-{3054}{}{Egy csapat radskorpió.}
+{3053}{}{Egy csoport vakondpatkány.}
+{3054}{}{Egy csoport radskorpió.}
 {3055}{}{Egy falka óriáspatkány.}
-{3056}{}{Egy kereskedõ és csapata.}
+{3056}{}{Egy kereskedõ és csoportja.}
 {3057}{}{<Special>}
-
-# Encounter Table 2
 {3100}{}{Egy csapat fosztogató.}
-{3101}{}{Egy csapat radskorpió.}
+{3101}{}{Egy csoport radskorpió.}
 {3102}{}{Egy falka óriáspatkány.}
-{3103}{}{Egy kereskedõ és csapata.}
+{3103}{}{Egy kereskedõ és csoportja.}
 {3104}{}{<Special>}
-
-# Encounter Table 3
 {3150}{}{Egy csapat fosztogató.}
-
-# Encounter Table 4
 {3200}{}{Egy csapat fosztogató.}
-
-# Encounter Table 5
 {3250}{}{Egy csapat fosztogató.}
-
-# Encounter Table 6
-{3300}{}{Egy csapat harcos.}
-{3301}{}{Egy maréknyi kannibál.}
+{3300}{}{Egy csapat harcos}
+{3301}{}{Egy csapat kannibál.}
 {3302}{}{Néhány húsevõ növény és néhány ezüstgekkó.}
-{3303}{}{Egy csapat ezüstgekkó.}
+{3303}{}{Egy csoport ezüstgekkó.}
 {3304}{}{Néhány fejvadász.}
 {3305}{}{Néhány fejvadász.}
 {3306}{}{Néhány fejvadász.}
@@ -347,13 +204,13 @@
 {3310}{}{Néhány fejvadász.}
 {3311}{}{Néhány fejvadász.}
 {3312}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3313}{}{Egy csoport skorpió.}
+{3313}{}{Egy csoport radskorpió.}
 {3314}{}{Néhány húsevõ növény.}
 {3315}{}{Egy falka disznópatkány.}
 {3316}{}{Egy falka patkány.}
 {3317}{}{Egy kannibálokkal csatázó vadászcsapat.}
 {3318}{}{Egy csapat hangya.}
-{3319}{}{Egy skorpiókkal küzdõ vadászcsapat.}
+{3319}{}{A hunting party fighting some radscorpions.}
 {3320}{}{Egy kis falka disznópatkány.}
 {3321}{}{Egy kis csoport radskorpió.}
 {3322}{}{Egy kis csapat hangya.}
@@ -361,9 +218,7 @@
 {3324}{}{Néhány nomád.}
 {3325}{}{Egy hidat õrzõ fickó.}
 {3326}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 7
-{3350}{}{Mérgezõ-hulladék lerakat.}
+{3350}{}{Toxic waste dump.}
 {3351}{}{Egy magányos kutya.}
 {3352}{}{Egy brahmincsorda.}
 {3353}{}{Egy csapat harcos}
@@ -379,13 +234,13 @@
 {3363}{}{Egy csapat kannibál.}
 {3364}{}{Néhány húsevõ növény és néhány ezüstgekkó.}
 {3365}{}{Egy csoport ezüstgekkó.}
-{3366}{}{Egy csoport skorpió.}
+{3366}{}{Egy csoport radskorpió.}
 {3367}{}{Néhány húsevõ növény.}
 {3368}{}{Egy falka disznópatkány.}
 {3369}{}{Egy falka patkány.}
 {3370}{}{Egy kannibálokkal csatázó vadászcsapat.}
 {3371}{}{Egy csapat hangya.}
-{3372}{}{Egy skorpiókkal küzdõ vadászcsapat.}
+{3372}{}{A hunting party fighting some radscorpions.}
 {3373}{}{Egy kis falka disznópatkány.}
 {3374}{}{Egy kis csoport radskorpió.}
 {3375}{}{Egy kis csapat hangya.}
@@ -396,10 +251,8 @@
 {3380}{}{Egy lezuhant ûrrepülõ.}
 {3381}{}{Õrzõ portál.}
 {3382}{}{Arthur király lovagjai.}
-{3383}{}{Egy bádogember.}
-{3384}{}{A Mosdatlan Falusiak épp levadásznak egy spammert}
-
-# Encounter Table 8
+{3383}{}{A tin woodsman.}
+{3384}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {3400}{}{Egy csapat harcos}
 {3401}{}{Egy csapat kannibál.}
 {3402}{}{Néhány húsevõ növény és néhány ezüstgekkó.}
@@ -413,51 +266,47 @@
 {3410}{}{Néhány fejvadász.}
 {3411}{}{Néhány fejvadász.}
 {3412}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3413}{}{Egy csoport skorpió.}
+{3413}{}{Egy csoport radskorpió.}
 {3414}{}{Néhány húsevõ növény.}
 {3415}{}{Egy falka disznópatkány.}
 {3416}{}{Egy falka patkány.}
 {3417}{}{Egy kannibálokkal csatázó vadászcsapat.}
 {3418}{}{Egy csapat hangya.}
-{3419}{}{Egy skorpiókkal küzdõ vadászcsapat.}
+{3419}{}{A hunting party fighting some radscorpions.}
 {3420}{}{Egy kis falka disznópatkány.}
 {3421}{}{Egy kis csoport radskorpió.}
 {3422}{}{Egy kis csapat hangya.}
 {3423}{}{Egy vadászcsapat.}
 {3424}{}{Néhány nomád.}
-
-# Encounter Table 9
-{3450}{}{Mérgezõ-hulladék lerakat.}
-{3451}{}{Magányos kutya.}
+{3450}{}{Toxic waste dump.}
+{3451}{}{Egy magányos kutya.}
 {3452}{}{Egy brahmincsorda.}
 {3453}{}{Néhány számûzõtt.}
 {3454}{}{Néhány fejvadász.}
 {3455}{}{Néhány fejvadász.}
 {3456}{}{Néhány fejvadász.}
 {3457}{}{Néhány fejvadász.}
-{3358}{}{Néhány fejvadász.}
-{3359}{}{Néhány fejvadász.}
-{3360}{}{Néhány fejvadász.}
-{3361}{}{Néhány fejvadász.}
-{3362}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{3458}{}{Néhány fejvadász.}
+{3459}{}{Néhány fejvadász.}
+{3460}{}{Néhány fejvadász.}
+{3461}{}{Néhány fejvadász.}
+{3462}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {3463}{}{Egy csapat szent ember.}
-{3464}{}{Néhány gekkó és néhány vakondpatkány.}
+{3464}{}{Some geckos hiding amongst spore plants.}
 {3465}{}{Néhány gekkó.}
 {3466}{}{Néhány húsevõ növény között rejtõzõ radskorpió.}
 {3467}{}{Néhány húsevõ növény.}
 {3468}{}{Egy radskorpió család.}
-{3469}{}{Egy falka vakondpatkány.}
+{3469}{}{Egy csoport vakondpatkány.}
 {3470}{}{Egy csapat harcosok ellen küzdõ szent ember.}
-{3471}{}{Néhány nomád.}
+{3471}{}{A band of nomads.}
 {3472}{}{Egy bálna maradványai.}
 {3473}{}{Egy hatalmas kõfej.}
 {3474}{}{Egy lezuhant ûrrepülõ.}
 {3475}{}{Õrzõ portál.}
 {3476}{}{Arthur király lovagjai.}
-{3477}{}{Egy bádogember.}
+{3477}{}{A tin woodsman.}
 {3478}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 10
 {3500}{}{Néhány számûzõtt.}
 {3501}{}{Egy csapat szent ember.}
 {3502}{}{Néhány fejvadász.}
@@ -474,20 +323,18 @@
 {3513}{}{Néhány húsevõ növény között rejtõzõ radskorpió.}
 {3514}{}{Néhány húsevõ növény.}
 {3515}{}{Egy radskorpió család.}
-{3516}{}{Egy falka vakondpatkány.}
+{3516}{}{Egy csoport vakondpatkány.}
 {3517}{}{Egy csapat harcosok ellen küzdõ szent ember.}
-{3518}{}{Néhány nomád.}
+{3518}{}{A band of nomads.}
 {3519}{}{Egy hidat õrzõ fickó.}
 {3520}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 11
 {3550}{}{Mérgezõ-hulladék lerakat.}
-{3551}{}{Magányos kutya.}
+{3551}{}{Egy magányos kutya.}
 {3552}{}{Egy brahmincsorda.}
-{3553}{}{Néhány aranygekkó és egy radskorpió család.}
+{3553}{}{Egy csoport aranygekkó és egy radskorpió család.}
 {3554}{}{Néhány bandita.}
 {3555}{}{Egy csoport hajléktalan.}
-{3556}{}{Néhány aranygekkó.}
+{3556}{}{Egy csoport aranygekkó.}
 {3557}{}{Néhány fejvadász.}
 {3558}{}{Néhány fejvadász.}
 {3559}{}{Néhány fejvadász.}
@@ -499,30 +346,28 @@
 {3565}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {3566}{}{Egy radskorpió család.}
 {3567}{}{Néhány húsevõ növény.}
-{3568}{}{Néhány gekkókkal harcoló bandita.}
+{3568}{}{Néhány aranygekkókkal küzdõ bandita.}
 {3569}{}{Néhány gekkókkal küzdõ farmer.}
 {3570}{}{Néhány aranygekkókkal küzdõ farmer.}
 {3571}{}{Néhány aranygekkókkal küzdõ prémvadász.}
 {3572}{}{Néhány banditákkal harcoló prémvadász.}
 {3573}{}{Egy csoport gekkóra vadászó prémvadász.}
-{3574}{}{Néhány hajléktalanokat mészároló bandita.}
+{3574}{}{Néhány hajléktalanokat mészárló bandita.}
 {3575}{}{Néhány hajléktalanok ellen küzdõ farmer.}
 {3576}{}{Néhány banditákkal harcoló farmer.}
-{3577}{}{Néhány skorpiókkal harcoló farmer.}
-{3578}{}{Néhány skorpiók ellen küzdõ prémvadász.}
+{3577}{}{Some farmers fending off some radscorpions.}
+{3578}{}{Some trappers fighting some radscorpions.}
 {3579}{}{Néhány disznópatkányokkal küzdõ prémvadász.}
 {3580}{}{Néhány disznópatkányok ellen küzdõ farmer.}
 {3581}{}{Néhány farmer.}
-{3582}{}{Egy prémvadász csapat.}
-{3483}{}{Egy bálna maradványai.}
-{3484}{}{Egy hatalmas kõfej.}
-{3485}{}{Egy lezuhant ûrrepülõ.}
-{3486}{}{Õrzõ portál.}
-{3487}{}{Arthur király lovagjai.}
-{3488}{}{Egy bádogember.}
-{3489}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 12
+{3582}{}{Egy csoport prémvadász.}
+{3583}{}{Egy bálna maradványai.}
+{3584}{}{Egy hatalmas kõfej.}
+{3585}{}{Egy lezuhant ûrrepülõ.}
+{3586}{}{Õrzõ portál.}
+{3587}{}{Arthur király lovagjai.}
+{3588}{}{Egy bádogember.}
+{3589}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {3600}{}{Egy csoport aranygekkó és egy radskorpió család.}
 {3601}{}{Néhány bandita.}
 {3602}{}{Egy csoport hajléktalan.}
@@ -547,17 +392,15 @@
 {3621}{}{Néhány hajléktalanokat mészárló bandita.}
 {3622}{}{Néhány hajléktalanok ellen küzdõ farmer.}
 {3623}{}{Néhány banditákkal harcoló farmer.}
-{3624}{}{Néhány radskorpiókkal harcoló farmer.}
-{3625}{}{Néhány radskorpiókkal csatázó prémvadász.}
+{3624}{}{Some farmers fending off some radscorpions.}
+{3625}{}{Some trappers fighting some radscorpions.}
 {3626}{}{Néhány disznópatkányokkal küzdõ prémvadász.}
 {3627}{}{Néhány disznópatkányok ellen küzdõ farmer.}
 {3628}{}{Néhány farmer.}
 {3629}{}{Egy csoport prémvadász.}
 {3630}{}{Egy hidat õrzõ fickó.}
 {3631}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 13
-{3650}{}{Mérgezõ-hulladék lerakat.}
+{3650}{}{Toxic waste dump.}
 {3651}{}{Egy magányos kutya.}
 {3652}{}{Egy brahmincsorda.}
 {3653}{}{Egy kereskedõ és néhány ör.}
@@ -579,8 +422,8 @@
 {3669}{}{Egy vakondpatkány család.}
 {3670}{}{Néhány bandita.}
 {3671}{}{Egy aranygekkóra vadászó prémvadász csapat.}
-{3672}{}{Egy aranygekókkal harcoló skorpió család.}
-{3673}{}{Egy mutáns patkányokkal harcoló skorpió család.}
+{3672}{}{Some radscorpions fighting some golden geckos.}
+{3673}{}{Some radscorpions attacking some molerats and pig rats.}
 {3674}{}{Egy kereskedõcsapattal és néhány prémvadásszal harcoló fosztogató banda.}
 {3675}{}{Néhány aranygekkó.}
 {3676}{}{Egy mutáns patkányok ellen küzdõ prémvadász csapat.}
@@ -590,11 +433,9 @@
 {3680}{}{Egy lezuhant ûrrepülõ.}
 {3681}{}{Õrzõ portál.}
 {3682}{}{Arthur király lovagjai.}
-{3683}{}{Egy bádogember.}
+{3683}{}{A tin woodsman.}
 {3684}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 14
-{3700}{}{Mérgezõ-hulladék lerakat.}
+{3700}{}{Toxic waste dump.}
 {3701}{}{Egy magányos kutya.}
 {3702}{}{Egy brahmincsorda.}
 {3703}{}{Egy csapat útonálló.}
@@ -625,10 +466,8 @@
 {3728}{}{Egy lezuhant ûrrepülõ.}
 {3729}{}{Õrzõ portál.}
 {3730}{}{Arthur király lovagjai.}
-{3731}{}{Egy bádogember.}
+{3731}{}{A tin woodsman.}
 {3732}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 15
 {3750}{}{Egy csapat útonálló.}
 {3751}{}{Egy csapat rabló.}
 {3752}{}{Egy csapat rabló és útonálló.}
@@ -654,9 +493,7 @@
 {3772}{}{Egy kereskedõ néhány õrrel.}
 {3773}{}{Egy hidat õrzõ fickó.}
 {3774}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 16
-{3800}{}{Mérgezõ-hulladék lerakat.}
+{3800}{}{Toxic waste dump.}
 {3801}{}{Egy magányos kutya.}
 {3802}{}{Egy brahmincsorda.}
 {3803}{}{Egy rabszolga-kereskedõ csapat és néhány rabszolga.}
@@ -677,8 +514,8 @@
 {3818}{}{Egy csoport vakondpatkány.}
 {3819}{}{Egy rablókkal harcoló útonálló banda.}
 {3820}{}{Egy rabszolgákra vadászó rabszolga-kereskedõ csapat.}
-{3821}{}{Egy rablókkal harcoló rabszolga-kereskedõ csapat.}
-{3822}{}{Egy aranygekkókkal küzdõ rabszolga-kereskedõ csapat.}
+{3821}{}{Egy rabszolga-kereskedõ csapat és néhány rabszolga vs. néhány rabló.}
+{3822}{}{Egy rablókkal harcoló rabszolga-kereskedõ csapat.}
 {3823}{}{Egy radskorpiókkal küzdõ Rave banda.}
 {3824}{}{Egy Rave banda.}
 {3825}{}{Egy bálna maradványai.}
@@ -686,10 +523,8 @@
 {3827}{}{Egy lezuhant ûrrepülõ.}
 {3828}{}{Õrzõ portál.}
 {3829}{}{Arthur király lovagjai.}
-{3830}{}{Egy bádogember.}
+{3830}{}{A tin woodsman.}
 {3831}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 17
 {3850}{}{Egy rabszolga-kereskedõ csapat és néhány rabszolga.}
 {3851}{}{Egy csapat útonálló.}
 {3852}{}{Egy csapat rabló.}
@@ -712,12 +547,10 @@
 {3869}{}{Egy rablókkal harcoló rabszolga-kereskedõ csapat.}
 {3870}{}{Egy hidat õrzõ fickó.}
 {3871}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 18
 {3900}{}{Néhány útonálló és rabló.}
 {3901}{}{Néhány útonálló.}
 {3902}{}{Egy nagy csapat aranygekkó.}
-{3903}{}{Néhány húsevõ növény között rejtõzõ radskorpió.}
+{3903}{}{Some radscorpions hiding in the spore plants.}
 {3904}{}{Néhány fejvadász.}
 {3905}{}{Néhány fejvadász.}
 {3906}{}{Néhány fejvadász.}
@@ -727,7 +560,7 @@
 {3910}{}{Néhány fejvadász.}
 {3911}{}{Néhány fejvadász.}
 {3912}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3913}{}{Néhány radskorpiókkal harcoló rabló.}
+{3913}{}{Some robbers fighting some radscorpions.}
 {3914}{}{Néhány rabló.}
 {3915}{}{Egy útonállókkal harcoló kereskedõcsapat.}
 {3916}{}{Egy rablókkal harcoló kereskedõcsapat.}
@@ -735,8 +568,6 @@
 {3918}{}{Egy kereskedõ és csoportja.}
 {3919}{}{Egy hidat õrzõ fickó.}
 {3920}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 19
 {3950}{}{Néhány útonálló.}
 {3951}{}{Néhány rabló.}
 {3952}{}{Néhány hajléktalan.}
@@ -750,7 +581,7 @@
 {3960}{}{Néhány fejvadász.}
 {3961}{}{Néhány fejvadász.}
 {3962}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3963}{}{Néhány megvadult brahmin.}
+{3963}{}{Néhány vad brahmin.}
 {3964}{}{Néhány radskorpió.}
 {3965}{}{Néhány útonállókkal hadakozó szeszfõzõ.}
 {3966}{}{Néhány útonállókkal harcoló hajléktalan.}
@@ -764,8 +595,6 @@
 {3974}{}{Egy brahmincsorda.}
 {3975}{}{Egy hidat õrzõ fickó.}
 {3976}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 20
 {4000}{}{Néhány kutyákkal nyomot keresõ útonálló.}
 {4001}{}{Néhány kutyákkal nyomot keresõ rabló.}
 {4002}{}{Egy csapat rabló.}
@@ -790,9 +619,7 @@
 {4021}{}{Egy karaván.}
 {4022}{}{Egy hidat õrzõ fickó.}
 {4023}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 21
-{4050}{}{Mérgezõ-hulladék lerakat.}
+{4050}{}{Toxic waste dump.}
 {4051}{}{Egy magányos kutya.}
 {4052}{}{Egy brahmincsorda.}
 {4053}{}{Néhány kutyákkal nyomot keresõ útonálló.}
@@ -811,7 +638,7 @@
 {4066}{}{Néhány imádkozó-sáskákkal küzdõ húsevõ növény.}
 {4067}{}{Egy falka vad kutya és néhány húsevõ növény.}
 {4068}{}{Egy imádkozó-sáska raj.}
-{4069}{}{Egy falka vad kutya}
+{4069}{}{Egy falka vad kutya.}
 {4070}{}{Néhány veszett kutyákkal harcoló rabló.}
 {4071}{}{Egy vad kutyákkal küzdõ karaván.}
 {4072}{}{Egy rablókkal harcoló karaván.}
@@ -822,14 +649,12 @@
 {4077}{}{Egy lezuhant ûrrepülõ.}
 {4078}{}{Õrzõ portál.}
 {4079}{}{Arthur király lovagjai.}
-{4080}{}{Egy bádogember.}
+{4080}{}{A tin woodsman.}
 {4081}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 22
 {4100}{}{Néhány aranygekkó.}
 {4101}{}{Egy imádkozó-sáska raj.}
-{4102}{}{Néhány radskorpiók.}
-{4103}{}{Néhány veszett brahmin.}
+{4102}{}{Néhány radskorpió.}
+{4103}{}{Néhány vad brahmin.}
 {4104}{}{Néhány fejvadász.}
 {4105}{}{Néhány fejvadász.}
 {4106}{}{Néhány fejvadász.}
@@ -847,9 +672,7 @@
 {4118}{}{Egy kereskedõ és õrei.}
 {4119}{}{Egy hidat õrzõ fickó.}
 {4120}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 23
-{4150}{}{Mérgezõ-hulladék lerakat.}
+{4150}{}{Toxic waste dump.}
 {4151}{}{Egy magányos kutya.}
 {4152}{}{Egy brahmincsorda.}
 {4153}{}{Néhány aranygekkó.}
@@ -876,11 +699,9 @@
 {4174}{}{Egy lezuhant ûrrepülõ.}
 {4175}{}{Õrzõ portál.}
 {4176}{}{Arthur király lovagjai.}
-{4177}{}{Egy bádogember.}
+{4177}{}{A tin woodsman.}
 {4178}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 24
-{4200}{}{Mérgezõ-hulladék lerakat.}
+{4200}{}{Toxic waste dump.}
 {4201}{}{Egy magányos kutya.}
 {4202}{}{Egy brahmincsorda.}
 {4203}{}{Néhány mutáns vakondpatkány.}
@@ -908,10 +729,8 @@
 {4225}{}{Egy lezuhant ûrrepülõ.}
 {4226}{}{Õrzõ portál.}
 {4227}{}{Arthur király lovagjai.}
-{4228}{}{Egy bádogember.}
+{4228}{}{A tin woodsman.}
 {4229}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 25
 {4250}{}{Néhány mutáns vakondpatkány.}
 {4251}{}{Néhány mutáns disznópatkány.}
 {4252}{}{Néhány húsevõ növény.}
@@ -934,12 +753,10 @@
 {4269}{}{Egy remete.}
 {4270}{}{Egy hidat õrzõ fickó.}
 {4271}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 26
-{4300}{}{Egy rabszolga-kereskedõ csapat és néhány kutya.}
-{4301}{}{Egy csapatnyi rabszolga-kereskedõ.}
+{4300}{}{Egy csapat rabszolga-kereskedõ és néhány kutya.}
+{4301}{}{Egy csapat rabszolgakereskedõ.}
 {4302}{}{Néhány aranygekkó.}
-{4303}{}{Egy falka vad kutya}
+{4303}{}{Egy falka vad kutya.}
 {4304}{}{Néhány fejvadász.}
 {4305}{}{Néhány fejvadász.}
 {4306}{}{Néhány fejvadász.}
@@ -949,7 +766,7 @@
 {4310}{}{Néhány fejvadász.}
 {4311}{}{Néhány fejvadász.}
 {4312}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4313}{}{Egy rabszolga-kereskedõket támadó kutyás járõrcsapat.}
+{4313}{}{Egy rabszolga-kereskedõket támadó kutyás járõrcsapat}
 {4314}{}{Egy aranygekkókkal küzdõ rabszolga-kereskedõ csapat.}
 {4315}{}{Egy rabszolga-kereskedõket támadó járõrcsapat.}
 {4316}{}{Egy aranygekkókkal harcoló járõrcsapat.}
@@ -957,9 +774,7 @@
 {4318}{}{Egy járõrcsapat.}
 {4319}{}{Egy hidat õrzõ fickó.}
 {4320}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 27
-{4350}{}{Mérgezõ-hulladék lerakat.}
+{4350}{}{Toxic waste dump.}
 {4351}{}{Egy magányos kutya.}
 {4352}{}{Egy brahmincsorda.}
 {4353}{}{Egy csapat rabszolga-kereskedõ és néhány kutya.}
@@ -986,10 +801,8 @@
 {4374}{}{Egy lezuhant ûrrepülõ.}
 {4375}{}{Õrzõ portál.}
 {4376}{}{Arthur király lovagjai.}
-{4377}{}{Egy bádogember.}
+{4377}{}{A tin woodsman.}
 {4378}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 28
 {4400}{}{Egy csapat nincstelen guberáló.}
 {4401}{}{Néhány guberáló ghoul.}
 {4402}{}{Egy csomó õrült.}
@@ -1007,16 +820,14 @@
 {4414}{}{Egy falka vad kutya.}
 {4415}{}{Egy radskorpió család.}
 {4416}{}{Egy csomó mutáns disznópatkány.}
-{4417}{}{Egy rakás mutáns patkány.}
+{4417}{}{Egy csapat mutáns patkány.}
 {4418}{}{Néhány nincstelenekkel harcoló õrült.}
-{4419}{}{Néhány guberáló ghoulokkal csatázó õrült.}
+{4419}{}{Some ghoul scavengers fending off some crazies.}
 {4420}{}{Néhány gekkókat támadó õrült.}
 {4421}{}{Néhány mutáns patkányokkal hadakozó guberáló ghoul.}
 {4422}{}{Egy hidat õrzõ fickó.}
 {4423}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 29
-{4450}{}{Mérgezõ-hulladék lerakat.}
+{4450}{}{Toxic waste dump.}
 {4451}{}{Egy magányos kutya.}
 {4452}{}{Egy brahmincsorda.}
 {4453}{}{Egy csapat nincstelen guberáló.}
@@ -1046,10 +857,8 @@
 {4477}{}{Egy lezuhant ûrrepülõ.}
 {4478}{}{Õrzõ portál.}
 {4479}{}{Arthur király lovagjai.}
-{4480}{}{Egy bádogember.}
+{4480}{}{A tin woodsman.}
 {4481}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 30
 {4500}{}{Néhány kannibál.}
 {4501}{}{Néhány nomád.}
 {4502}{}{Egy csapat harcos}
@@ -1069,9 +878,7 @@
 {4516}{}{Néhány kannibálokkal harcoló nomád.}
 {4517}{}{Néhány radskorpiókkal küzdõ nomád.}
 {4518}{}{Néhány halász.}
-
-# Encounter Table 31
-{4550}{}{Mérgezõ-hulladék lerakat.}
+{4550}{}{Toxic waste dump.}
 {4551}{}{Egy magányos kutya.}
 {4552}{}{Egy brahmincsorda.}
 {4553}{}{Néhány kannibál.}
@@ -1086,11 +893,11 @@
 {4562}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {4563}{}{Néhány számûzött.}
 {4564}{}{Néhány nomád.}
-{4565}{}{Egy csapat harcos.}
+{4565}{}{Egy csapat harcos}
 {4566}{}{Néhány gekkó elbújt néhány húsevõ növény között.}
 {4567}{}{Néhány gekkó és néhány radskorpió.}
 {4568}{}{Néhány gekkó.}
-{4569}{}{Egy csapat radskorpió elbújt néhány húsevõ növény között.}
+{4569}{}{Néhány radskorpió jónéhány húsevõ növény között.}
 {4570}{}{Néhány radskorpió.}
 {4571}{}{Néhány gekkókkal harcoló számûzött.}
 {4572}{}{Néhány gekkókkal harcoló nomád.}
@@ -1102,10 +909,8 @@
 {4578}{}{Egy lezuhant ûrrepülõ.}
 {4579}{}{Õrzõ portál.}
 {4580}{}{Arthur király lovagjai.}
-{4581}{}{Egy bádogember.}
+{4581}{}{A tin woodsman.}
 {4582}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 32
 {4600}{}{Néhány kannibál.}
 {4601}{}{Néhány számûzött.}
 {4602}{}{Néhány nomád.}
@@ -1131,9 +936,7 @@
 {4622}{}{Egy remete.}
 {4623}{}{Egy hidat õrzõ fickó.}
 {4624}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 33
-{4650}{}{Mérgezõ-hulladék lerakat.}
+{4650}{}{Toxic waste dump.}
 {4651}{}{Egy magányos kutya.}
 {4652}{}{Egy brahmincsorda.}
 {4653}{}{Egy karaván Rejtekbõl.}
@@ -1162,10 +965,8 @@
 {4676}{}{Egy lezuhant ûrrepülõ.}
 {4677}{}{Õrzõ portál.}
 {4678}{}{Arthur király lovagjai.}
-{4679}{}{Egy bádogember.}
+{4679}{}{A tin woodsman.}
 {4680}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 34
 {4700}{}{Egy karaván Rejtekbõl.}
 {4701}{}{Néhány útonálló és rabló.}
 {4702}{}{Néhány útonálló.}
@@ -1189,9 +990,7 @@
 {4720}{}{Egy karaván Rejtekbõl.}
 {4721}{}{Egy hidat õrzõ fickó.}
 {4722}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 35
-{4750}{}{Mérgezõ-hulladék lerakat.}
+{4750}{}{Toxic waste dump.}
 {4751}{}{Egy magányos kutya.}
 {4752}{}{Egy brahmincsorda.}
 {4753}{}{Néhány gekkó és néhány farkas.}
@@ -1206,9 +1005,9 @@
 {4762}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {4763}{}{Néhány földbitorló.}
 {4764}{}{Néhány farkas.}
-{4765}{}{Néhány gekkó.}
-{4766}{}{Néhány földmérõkkel összekülönbözõ földbitorló.}
-{4767}{}{Néhány aranygekkóra vadászó prémvadász.}
+{4765}{}{Néhány aranygekkó.}
+{4766}{}{Néhány földmérõkkel összekülönbõzõ földbitorló.}
+{4767}{}{Some trappers fighting some Golden geckos.}
 {4768}{}{Néhány farkasokkal harcoló szeszcsempész.}
 {4769}{}{Néhány földbitorlókkal harcoló telepes.}
 {4770}{}{Néhány farkasokkal küzdõ telepes.}
@@ -1220,14 +1019,12 @@
 {4776}{}{Egy lezuhant ûrrepülõ.}
 {4777}{}{Õrzõ portál.}
 {4778}{}{Arthur király lovagjai.}
-{4779}{}{Egy bádogember.}
+{4779}{}{A tin woodsman.}
 {4780}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 36
-{4800}{}{Néhány gekkó és néhány farkas.}
+{4800}{}{Some golden geckos and some wolves.}
 {4801}{}{Néhány földbitorló.}
 {4802}{}{Néhány farkas.}
-{4803}{}{Néhány gekkó.}
+{4803}{}{Néhány aranygekkó.}
 {4804}{}{Néhány fejvadász.}
 {4805}{}{Néhány fejvadász.}
 {4806}{}{Néhány fejvadász.}
@@ -1238,7 +1035,7 @@
 {4811}{}{Néhány fejvadász.}
 {4812}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {4813}{}{Néhány földmérõkkel összekülönbõzõ földbitorló.}
-{4814}{}{Néhány aranygekkóra vadászó prémvadász.}
+{4814}{}{Some trappers fighting some golden geckos.}
 {4815}{}{Néhány farkasokkal harcoló szeszcsempész.}
 {4816}{}{Néhány földbitorlókkal harcoló telepes.}
 {4817}{}{Néhány farkasokkal küzdõ telepes.}
@@ -1247,12 +1044,10 @@
 {4820}{}{Néhány földmérõ.}
 {4821}{}{Egy hidat õrzõ fickó.}
 {4822}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 37
 {4850}{}{Egy farkasfalka és néhány vakondpatkány.}
 {4851}{}{Néhány radskorpió és Egy farkasfalka.}
-{4852}{}{Néhány mutáns vakondpatkány és néhány radskorpió.}
-{4853}{}{Jónéhány gekkó.}
+{4852}{}{Some mutated molerats and some radscorpions.}
+{4853}{}{Egy csoport aranygekkó.}
 {4854}{}{Néhány fejvadász.}
 {4855}{}{Néhány fejvadász.}
 {4856}{}{Néhány fejvadász.}
@@ -1262,16 +1057,14 @@
 {4860}{}{Néhány fejvadász.}
 {4861}{}{Néhány fejvadász.}
 {4862}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4863}{}{Néhány farkas.}
-{4864}{}{Néhány mutáns vakondpatkány.}
+{4863}{}{Egy farkasfalka.}
+{4864}{}{Jónéhány mutáns vakondpatkány.}
 {4865}{}{Néhány radskorpió}
-{4866}{}{Néhány farkas és jónéhány gekkó.}
-{4867}{}{Néhány aranygekkókkal harcoló mutáns vakondpatkány.}
+{4866}{}{A pack of wolves and some golden geckos.}
+{4867}{}{Some mutated molerats fighting some golden geckos.}
 {4868}{}{Néhány radskórpiókkal harcoló mutáns vakondpatkány.}
 {4869}{}{Egy hidat õrzõ fickó.}
 {4870}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 38
 {4900}{}{Egy csapat fosztogató.}
 {4901}{}{Néhány farkas.}
 {4902}{}{Egy karavánt támadó fosztogató csapat.}
@@ -1293,9 +1086,7 @@
 {4918}{}{Egy karaván.}
 {4919}{}{Egy hidat õrzõ fickó.}
 {4920}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 39
-{4950}{}{Mérgezõ-hulladék lerakat.}
+{4950}{}{Toxic waste dump.}
 {4951}{}{Egy magányos kutya.}
 {4952}{}{Egy brahmincsorda.}
 {4953}{}{Egy csapat fosztogató.}
@@ -1322,10 +1113,8 @@
 {4974}{}{Egy lezuhant ûrrepülõ.}
 {4975}{}{Õrzõ portál.}
 {4976}{}{Arthur király lovagjai.}
-{4977}{}{Egy bádogember.}
+{4977}{}{A tin woodsman.}
 {4978}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 40
 {5000}{}{Egy csapat fosztogató néhány farkassal.}
 {5001}{}{Néhány húsevõ növény és néhány farkas.}
 {5002}{}{Egy csapat fosztogató.}
@@ -1339,13 +1128,11 @@
 {5010}{}{Néhány fejvadász.}
 {5011}{}{Néhány fejvadász.}
 {5012}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5013}{}{Egy radskorpió csapat.}
+{5013}{}{Egy csapat radskorpió.}
 {5014}{}{Néhány farkasokkal táncoló fosztogató.}
 {5015}{}{Egy hidat õrzõ fickó.}
 {5016}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 41
-{5050}{}{Mérgezõ-hulladék lerakat.}
+{5050}{}{Toxic waste dump.}
 {5051}{}{Egy magányos kutya.}
 {5052}{}{Egy brahmincsorda.}
 {5053}{}{Egy csapat fosztogató néhány farkassal.}
@@ -1361,18 +1148,16 @@
 {5063}{}{Néhány húsevõ növény és néhány farkas.}
 {5064}{}{Egy csapat fosztogató.}
 {5065}{}{Egy farkasfalka.}
-{5066}{}{Egy radskorpió csapat.}
+{5066}{}{Egy csapat radskorpió.}
 {5067}{}{Néhány farkasokkal táncoló fosztogató.}
 {5068}{}{Egy bálna maradványai.}
 {5069}{}{Egy hatalmas kõfej.}
 {5070}{}{Egy lezuhant ûrrepülõ.}
 {5071}{}{Õrzõ portál.}
 {5072}{}{Arthur király lovagjai.}
-{5073}{}{Egy bádogember.}
+{5073}{}{A tin woodsman.}
 {5074}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 42
-{5100}{}{Mérgezõ-hulladék lerakat.}
+{5100}{}{Toxic waste dump.}
 {5101}{}{Egy magányos kutya.}
 {5102}{}{Egy brahmincsorda.}
 {5103}{}{Egy Enklávé õrjárat.}
@@ -1390,11 +1175,9 @@
 {5115}{}{Egy lezuhant ûrrepülõ.}
 {5116}{}{Õrzõ portál.}
 {5117}{}{Arthur király lovagjai.}
-{5118}{}{Egy bádogember.}
+{5118}{}{A tin woodsman.}
 {5119}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {5120}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 43
 {5150}{}{Egy Enklávé õrjárat.}
 {5151}{}{Néhány fejvadász.}
 {5152}{}{Néhány fejvadász.}
@@ -1407,21 +1190,17 @@
 {5159}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {5160}{}{Egy hidat õrzõ fickó.}
 {5161}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 44
 {5200}{}{Egy Enklávé õrjárat.}
 {5201}{}{Néhány fejvadász.}
 {5202}{}{Néhány fejvadász.}
 {5203}{}{Néhány fejvadász.}
 {5204}{}{Néhány fejvadász.}
+{5205}{}{Néhány fejvadász.}
+{5206}{}{Néhány fejvadász.}
+{5207}{}{Néhány fejvadász.}
 {5208}{}{Néhány fejvadász.}
-{5209}{}{Néhány fejvadász.}
-{5210}{}{Néhány fejvadász.}
-{5211}{}{Néhány fejvadász.}
-{5212}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-
-# Encounter Table 45
-{5250}{}{Mérgezõ-hulladék lerakat.}
+{5209}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{5250}{}{Toxic waste dump.}
 {5251}{}{Egy magányos kutya.}
 {5252}{}{Egy brahmincsorda.}
 {5253}{}{Néhány idegen és néhány halálkarom.}
@@ -1436,7 +1215,7 @@
 {5262}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {5263}{}{Egy seregnyi lebegõ és kentaur.}
 {5264}{}{Néhány tûzgekkó.}
-{5265}{}{Egy csomó idegen.}
+{5265}{}{Nagy csapatnyi idegen.}
 {5266}{}{Néhány halálkarom.}
 {5267}{}{Néhány tûzgekkó.}
 {5268}{}{Néhány idegen.}
@@ -1447,15 +1226,13 @@
 {5273}{}{Egy lezuhant ûrrepülõ.}
 {5274}{}{Õrzõ portál.}
 {5275}{}{Arthur király lovagjai.}
-{5276}{}{Egy bádogember.}
+{5276}{}{A tin woodsman.}
 {5277}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {5278}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 46
-{5300}{}{Néhány idegen és néhány halálkarom.}
+{5300}{}{Some aliens and deathclaws.}
 {5301}{}{Egy seregnyi lebegõ és kentaur.}
 {5302}{}{Néhány tûzgekkó.}
-{5303}{}{Egy csomó idegen.}
+{5303}{}{Nagy csapatnyi idegen.}
 {5304}{}{Néhány fejvadász.}
 {5305}{}{Néhány fejvadász.}
 {5306}{}{Néhány fejvadász.}
@@ -1472,9 +1249,7 @@
 {5317}{}{Egy csomó lebegõ.}
 {5318}{}{Egy hidat õrzõ fickó.}
 {5319}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 47
-{5350}{}{Néhány idegen és néhány halálkarom.}
+{5350}{}{Some aliens and deathclaws.}
 {5351}{}{Egy seregnyi lebegõ és kentaur.}
 {5352}{}{Néhány tûzgekkó.}
 {5353}{}{Nagy csapatnyi idegen.}
@@ -1492,9 +1267,7 @@
 {5365}{}{Néhány idegen.}
 {5366}{}{Egy kentaurfalka.}
 {5367}{}{Egy csomó lebegõ.}
-
-# Encounter Table 48
-{5400}{}{Mérgezõ-hulladék lerakat.}
+{5400}{}{Toxic waste dump.}
 {5401}{}{Egy magányos kutya.}
 {5402}{}{Egy brahmincsorda.}
 {5403}{}{Néhány tûzgekkó.}
@@ -1507,18 +1280,16 @@
 {5410}{}{Néhány fejvadász.}
 {5411}{}{Néhány fejvadász.}
 {5412}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5413}{}{Jónéhány tûzgekkó.}
+{5413}{}{Néhány tûzgekkó.}
 {5414}{}{Egy nagy csapat aranygekkó.}
 {5415}{}{Egy bálna maradványai.}
 {5416}{}{Egy hatalmas kõfej.}
 {5417}{}{Egy lezuhant ûrrepülõ.}
 {5418}{}{Õrzõ portál.}
 {5419}{}{Arthur király lovagjai.}
-{5420}{}{Egy bádogember.}
+{5420}{}{A tin woodsman.}
 {5421}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {5422}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 49
 {5450}{}{Néhány tûzgekkó.}
 {5451}{}{Néhány tûzgekkó.}
 {5452}{}{Egy nagy csapat aranygekkó.}
@@ -1533,8 +1304,6 @@
 {5461}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {5462}{}{Egy hidat õrzõ fickó.}
 {5463}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 50
 {5500}{}{Néhány tûzgekkó.}
 {5501}{}{Néhány tûzgekkó.}
 {5502}{}{Egy nagy csapat aranygekkó.}
@@ -1547,9 +1316,7 @@
 {5509}{}{Néhány fejvadász.}
 {5510}{}{Néhány fejvadász.}
 {5511}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-
-# Encounter Table 51
-{5550}{}{Mérgezõ-hulladék lerakat.}
+{5550}{}{Toxic waste dump.}
 {5551}{}{Egy magányos kutya.}
 {5552}{}{Egy brahmincsorda.}
 {5553}{}{Egy halálkarom-falka.}
@@ -1565,8 +1332,8 @@
 {5563}{}{Néhány tûzgekkó.}
 {5564}{}{Egy halálkarmokkal hadakozó karaván.}
 {5565}{}{Egy halálkarmokkal hadakozó karaván.}
-{5566}{}{Egy tûzkekkókkal harcoló karaván.}
-{5567}{}{Egy tûzkekkókkal harcoló karaván.}
+{5566}{}{Egy tûzkekkókkal harcoló karavánk.}
+{5567}{}{Egy tûzkekkókkal harcoló karavánk.}
 {5568}{}{Egy karaván.}
 {5569}{}{Egy karaván.}
 {5570}{}{Egy karaván.}
@@ -1576,10 +1343,8 @@
 {5574}{}{Egy lezuhant ûrrepülõ.}
 {5575}{}{Õrzõ portál.}
 {5576}{}{Arthur király lovagjai.}
-{5577}{}{Egy bádogember.}
+{5577}{}{A tin woodsman.}
 {5578}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 52
 {5600}{}{Egy halálkarom-falka.}
 {5601}{}{Néhány tûzgekkó.}
 {5602}{}{Egy halálkarmokkal hadakozó karaván.}
@@ -1593,17 +1358,15 @@
 {5610}{}{Néhány fejvadász.}
 {5611}{}{Néhány fejvadász.}
 {5612}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5613}{}{Egy tûzkekkókkal harcoló karaván.}
-{5614}{}{Egy tûzkekkókkal harcoló karaván.}
+{5613}{}{Egy tûzkekkókkal harcoló karavánk.}
+{5614}{}{Egy tûzkekkókkal harcoló karavánk.}
 {5615}{}{Egy karaván.}
 {5616}{}{Egy karaván.}
 {5617}{}{Egy karaván.}
 {5618}{}{Egy karaván.}
 {5619}{}{Egy hidat õrzõ fickó.}
 {5620}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 53
-{5650}{}{Mérgezõ-hulladék lerakat.}
+{5650}{}{Toxic waste dump.}
 {5651}{}{Egy magányos kutya.}
 {5652}{}{Egy brahmincsorda.}
 {5653}{}{Néhány jakuza.}
@@ -1627,11 +1390,9 @@
 {5671}{}{Egy lezuhant ûrrepülõ.}
 {5672}{}{Õrzõ portál.}
 {5673}{}{Arthur király lovagjai.}
-{5674}{}{Egy bádogember.}
+{5674}{}{A tin woodsman.}
 {5675}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {5676}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 54
 {5700}{}{Néhány jakuza.}
 {5701}{}{Egy banda.}
 {5702}{}{Egy farkasfalka.}
@@ -1650,8 +1411,6 @@
 {5715}{}{Egy utazó.}
 {5716}{}{Egy hidat õrzõ fickó.}
 {5717}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 55
 {5750}{}{Néhány jakuza.}
 {5751}{}{Egy banda.}
 {5752}{}{Egy farkasfalka.}
@@ -1668,9 +1427,7 @@
 {5763}{}{Egy gengszterekkel harcoló banda.}
 {5764}{}{Néhány gengszter.}
 {5765}{}{Egy utazó.}
-
-# Encounter Table 56
-{5800}{}{Mérgezõ-hulladék lerakat.}
+{5800}{}{Toxic waste dump.}
 {5801}{}{Egy magányos kutya.}
 {5802}{}{Egy brahmincsorda.}
 {5803}{}{Egy csapat zsivány és néhány farkas.}
@@ -1695,10 +1452,8 @@
 {5822}{}{Egy lezuhant ûrrepülõ.}
 {5823}{}{Õrzõ portál.}
 {5824}{}{Arthur király lovagjai.}
-{5825}{}{Egy bádogember.}
+{5825}{}{A tin woodsman.}
 {5826}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-
-# Encounter Table 57
 {5850}{}{Egy csapat zsivány és néhány farkas.}
 {5851}{}{Egy csapat zsivány.}
 {5852}{}{Egy farkasfalka.}
@@ -1718,9 +1473,7 @@
 {5866}{}{Egy "Összefogás" õrjárat.}
 {5867}{}{Egy hidat õrzõ fickó.}
 {5868}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 58
-{5900}{}{Egy zsoldoscsapat.}
+{5900}{}{Egy csapat zsoldos.}
 {5901}{}{Egy fosztogatóbanda.}
 {5902}{}{Egy halálkarom-falka.}
 {5903}{}{Egy rakás tûzgekkó.}
@@ -1737,8 +1490,6 @@
 {5914}{}{Néhány hubologistákat támadó zsoldos.}
 {5915}{}{Egy fosztogatóbandát támadó zsoldoscsapat.}
 {5916}{}{Néhány hubologista.}
-
-# Encounter Table 59
 {5950}{}{Egy csapat zsoldos.}
 {5951}{}{Egy fosztogatóbanda.}
 {5952}{}{Egy halálkarom-falka.}
@@ -1758,8 +1509,6 @@
 {5966}{}{Néhány hubologista.}
 {5967}{}{Egy hidat õrzõ fickó.}
 {5968}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 60
 {6000}{}{Egy csapat zsoldos.}
 {6001}{}{Egy fosztogatóbanda.}
 {6002}{}{Egy halálkarom-falka.}
@@ -1777,9 +1526,7 @@
 {6014}{}{Néhány hubologistákat támadó zsoldos.}
 {6015}{}{Egy fosztogatóbandát támadó zsoldoscsapat.}
 {6016}{}{Néhány hubologista.}
-
-# Encounter Table 61
-{6050}{}{Mérgezõ-hulladék lerakat.}
+{6050}{}{Toxic waste dump.}
 {6051}{}{Egy magányos kutya.}
 {6052}{}{Egy brahmincsorda.}
 {6053}{}{Egy csapat zsoldos.}
@@ -1789,7 +1536,7 @@
 {6057}{}{Néhány fejvadász.}
 {6058}{}{Néhány fejvadász.}
 {6059}{}{Néhány fejvadász.}
-{6050}{}{Néhány fejvadász.}
+{6060}{}{Néhány fejvadász.}
 {6061}{}{Néhány fejvadász.}
 {6062}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {6063}{}{Egy fosztogatóbanda.}
@@ -1804,12 +1551,10 @@
 {6072}{}{Egy lezuhant ûrrepülõ.}
 {6073}{}{Õrzõ portál.}
 {6074}{}{Arthur király lovagjai.}
-{6075}{}{Egy bádogember.}
+{6075}{}{A tin woodsman.}
 {6076}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6077}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 62
-{6100}{}{Mérgezõ-hulladék lerakat.}
+{6100}{}{Toxic waste dump.}
 {6101}{}{Egy magányos kutya.}
 {6102}{}{Egy brahmincsorda.}
 {6103}{}{Egy csapat zsoldos.}
@@ -1827,7 +1572,7 @@
 {6115}{}{Egy csomó idegen.}
 {6116}{}{Egy zsoldosokkal harcoló karaván.}
 {6117}{}{Egy zsoldosokkal harcoló karaván.}
-{6118}{}{Egy tûzkekkókkal harcoló karaván.}
+{6118}{}{Egy tûzkekkókkal harcoló karavánk.}
 {6119}{}{Egy idegenekkel küzdõ karaván.}
 {6120}{}{Egy karaván.}
 {6121}{}{Egy karaván.}
@@ -1836,11 +1581,9 @@
 {6124}{}{Egy lezuhant ûrrepülõ.}
 {6125}{}{Õrzõ portál.}
 {6126}{}{Arthur király lovagjai.}
-{6127}{}{Egy bádogember.}
+{6127}{}{A tin woodsman.}
 {6128}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6129}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 63
 {6150}{}{Egy csapat zsoldos.}
 {6151}{}{Egy halálkarom-falka.}
 {6152}{}{Néhány tûzgekkó.}
@@ -1860,9 +1603,7 @@
 {6166}{}{Egy idegenekkel küzdõ karaván.}
 {6167}{}{Egy karaván.}
 {6168}{}{Egy karaván.}
-
-# Encounter Table 64
-{6200}{}{Mérgezõ-hulladék lerakat.}
+{6200}{}{Toxic waste dump.}
 {6201}{}{Egy magányos kutya.}
 {6202}{}{Egy brahmincsorda.}
 {6203}{}{Egy Enklávé õrjárat.}
@@ -1883,11 +1624,9 @@
 {6218}{}{Egy lezuhant ûrrepülõ.}
 {6219}{}{Õrzõ portál.}
 {6220}{}{Arthur király lovagjai.}
-{6221}{}{Egy bádogember.}
+{6221}{}{A tin woodsman.}
 {6222}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6223}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 65
 {6250}{}{Egy Enklávé õrjárat.}
 {6251}{}{Egy csapat a Mester egykori hadseregébõl.}
 {6252}{}{Egy halálkarom-falka.}
@@ -1903,9 +1642,7 @@
 {6262}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {6263}{}{Egy hidat õrzõ fickó.}
 {6264}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 66
-{6300}{}{Mérgezõ-hulladék lerakat.}
+{6300}{}{Toxic waste dump.}
 {6301}{}{Egy magányos kutya.}
 {6302}{}{Egy brahmincsorda.}
 {6303}{}{Egy karavánt támadó csapat a Mester egykori seregébõl.}
@@ -1928,11 +1665,9 @@
 {6320}{}{Egy lezuhant ûrrepülõ.}
 {6321}{}{Õrzõ portál.}
 {6322}{}{Arthur király lovagjai.}
-{6323}{}{Egy bádogember.}
+{6323}{}{A tin woodsman.}
 {6324}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6325}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 67
 {6350}{}{Egy karavánt támadó csapat a Mester egykori seregébõl.}
 {6351}{}{Egy karavánt támadó csapat a Mester egykori seregébõl.}
 {6352}{}{Egy halálkarmokkal hadakozó karaván.}
@@ -1950,8 +1685,6 @@
 {6364}{}{Egy karaván.}
 {6365}{}{Egy hidat õrzõ fickó.}
 {6366}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 68
 {6400}{}{Egy farkasfalka.}
 {6401}{}{Egy imádkozó-sáska raj.}
 {6402}{}{Egy radskorpió család.}
@@ -1966,9 +1699,7 @@
 {6411}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {6412}{}{Egy hidat õrzõ fickó.}
 {6413}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 69
-{6450}{}{Mérgezõ-hulladék lerakat.}
+{6450}{}{Toxic waste dump.}
 {6451}{}{Egy magányos kutya.}
 {6452}{}{Egy brahmincsorda.}
 {6453}{}{Egy farkasfalka.}
@@ -1988,12 +1719,10 @@
 {6467}{}{Egy lezuhant ûrrepülõ.}
 {6468}{}{Õrzõ portál.}
 {6469}{}{Arthur király lovagjai.}
-{6470}{}{Egy bádogember.}
+{6470}{}{A tin woodsman.}
 {6471}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6472}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 70
-{6500}{}{Mérgezõ-hulladék lerakat.}
+{6500}{}{Toxic waste dump.}
 {6501}{}{Egy magányos kutya.}
 {6502}{}{Egy brahmincsorda.}
 {6503}{}{Egy csapat martalóc.}
@@ -2022,11 +1751,9 @@
 {6526}{}{Egy lezuhant ûrrepülõ.}
 {6527}{}{Õrzõ portál.}
 {6528}{}{Arthur király lovagjai.}
-{6529}{}{Egy bádogember.}
+{6529}{}{A tin woodsman.}
 {6530}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6531}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 71
 {6550}{}{Egy csapat martalóc.}
 {6551}{}{Egy farkasfalka.}
 {6552}{}{Egy csapat radskorpió.}
@@ -2050,8 +1777,6 @@
 {6570}{}{Egy utazó.}
 {6571}{}{Egy hidat õrzõ fickó.}
 {6572}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 72
 {6600}{}{Egy különítmény a Mester egykori hadseregébõl.}
 {6601}{}{Egy csapat martalóc.}
 {6602}{}{Egy Felderítõket támadó egység a Mester egykori seregébõl.}
@@ -2066,14 +1791,12 @@
 {6611}{}{Néhány fejvadász.}
 {6612}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
 {6613}{}{Egy farmereket támadó egység a Mester egykori seregébõl.}
-{6614}{}{Néhány farmereket támadó martalóc.}
+{6614}{}{Néhány farmer vs. martalóc.}
 {6615}{}{Egy ÚKK-s Felderítõ különítmény.}
 {6616}{}{Néhány farmer.}
 {6617}{}{Egy hidat õrzõ fickó.}
 {6618}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 73
-{6650}{}{Mérgezõ-hulladék lerakat.}
+{6650}{}{Toxic waste dump.}
 {6651}{}{Egy magányos kutya.}
 {6652}{}{Egy brahmincsorda.}
 {6653}{}{Egy különítmény a Mester egykori hadseregébõl.}
@@ -2098,11 +1821,9 @@
 {6672}{}{Egy lezuhant ûrrepülõ.}
 {6673}{}{Õrzõ portál.}
 {6674}{}{Arthur király lovagjai.}
-{6675}{}{Egy bádogember.}
+{6675}{}{A tin woodsman.}
 {6676}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6677}{}{Meghiúsult Álmok Kávézója.}
-
-# Encounter Table 74
 {6700}{}{Egy vakondpatkányokkal küzdõ alakulat a Mester hadseregébõl.}
 {6701}{}{Egy csapat a Mester egykori hadseregébõl.}
 {6702}{}{Egy imádkozó-sáska raj.}
@@ -2119,9 +1840,7 @@
 {6713}{}{Egy csapat radskorpió.}
 {6714}{}{Egy hidat õrzõ fickó.}
 {6715}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-
-# Encounter Table 75
-{6750}{}{Mérgezõ-hulladék lerakat.}
+{6750}{}{Toxic waste dump.}
 {6751}{}{Egy magányos kutya.}
 {6752}{}{Egy brahmincsorda.}
 {6753}{}{Egy vakondpatkányokkal küzdõ alakulat a Mester hadseregébõl.}
@@ -2143,6 +1862,6 @@
 {6769}{}{Egy lezuhant ûrrepülõ.}
 {6770}{}{Õrzõ portál.}
 {6771}{}{Arthur király lovagjai.}
-{6772}{}{Egy bádogember.}
+{6772}{}{A tin woodsman.}
 {6773}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
 {6774}{}{Meghiúsult Álmok Kávézója.}

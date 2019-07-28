@@ -1,4 +1,3 @@
-# Dialod Editor last position: 10
 {100}{}{Ez a generátor súlyosan megrongálódott.}
 {101}{}{Talán meg tudod javítani.}
 {102}{}{Ez egy alig-alig mûködõ generátor.}

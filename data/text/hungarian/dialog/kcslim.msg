@@ -1,4 +1,3 @@
-# Dialog Editor last position: 122
 {100}{}{Ez a prémvadász nagyon magas, mondhatni létra.}
 {101}{}{Vézna Picket-et látod, a Prémvadászok Városának irányítóját.}
 {110}{}{Nos, úgy látom, a patkányok még nem faltak fel, de fel fognak, ha háborgatod õket. Csak vigyázz, nehogy átjussanak ide!}
@@ -56,7 +55,7 @@
 {223}{}{Ha nekem adod a kulcsot, gondoskodom, hogy kevesebb legyen errefelé a patkány.}
 {224}{}{Mégsem kell nekem az a kulcs. Viszlát!}
 {230}{}{Megkaptad, amit akartál. Légy óvatos!}
-{231}{}{Kösz.}
+{231}{}{Köszi.}
 {232}{}{Jól alkudozol. Remélem, megérte.}
 {240}{}{Úgy látom, nem kellett annyira a kulcs, mint azt gondoltad, mi? Biztos, hogy megvan, amit akartál?}
 {241}{}{Upsz... tudtam, hogy kell még valami.}
@@ -65,38 +64,46 @@
 {250}{}{Minden északra vezetõ járatot lezártunk, kivéve egyet. Ahhoz az egyhez van is egy kulcsom, ha bárki is át akarna menni oda valamiért. Bár nem tudom, mért akarna bárki is oda menni. Én biztos nem tenném.}
 {251}{}{Érdekes, beszélj inkább valami másról!}
 {252}{}{Érdekel engem az a kulcs.}
-{253}{}{Ez minden, amit tudni akartam. Viszlát!}
+{253}{}{Ezt akartam tudni. Viszlát!}
 {260}{}{Érdekelne a vadászat, mi? (A szemét végigjáratja rajtad.)}
 {261}{}{[TOVÁBB]}
 {270}{}{Ha a helyedben lennék, nem próbálkoznék vele. Piszkos és kemény lesz tõle a kezed. (he,he,he) Akarsz tudni még valamit?}
 {271}{}{Hát, nem szeretném összepiszkolni a kezem. Beszélj inkább valami másról!}
 {272}{}{Bárcsak én is olyan ügyes vadász lehetnék, mint te. Biztos sokat tudnál nekem tanítani.}
-{273}{}{Ez minden, amit tudnom kellett. Viszlát!}
+{273}{}{Ezt akartam tudni. Viszlát!}
 {280}{}{Olyannak látszol, aki tud vigyázni magára. Két féle gekkó létezik, a sima és az arany. A simát könnyebb levadászni, de az aranynak többet ér a bõre.}
 {281}{}{Mesélj nekem még az aranygekkókról!}
-{282}{}{Érdekes, de inkább valami másról kérdeznélek.}
-{283}{}{Ez minden, amit most tudnom kellett. Viszlát!}
+{282}{}{Érdekes. Mesélj valami másról!}
+{283}{}{Ezt akartam tudni. Viszlát!}
 {290}{}{Az aranygekkók kétszer erõsebbek a sima gekkóknál. Ráadásul, ha egyszer elkaptak, akkor nem eresztenek el. És akkor ott van még a mérgük is. A bõrük viszont szebb, így többért is lehet eladni.}
 {291}{}{Mesélj még!}
 {300}{}{Egy igazán jó prémvadász, Smiley, északra ment, hogy megtalálja a helyet, ahonnan a gekkók jönnek. Meg volt gyõzõdve arról, hogy mind egy helyrõl származnak. Azóta senki nem hallott róla.}
 {301}{}{Szerinted mi történt vele?}
-{310}{}{Talán megtalálta a helyet, ahonnan jönnek és felfalták. (hehe) De egy dolgot elárulhatok. Mrs. Bucknernek megszakadt a szíve, hogy nem jött vissza. Tudod, õ volt az udvarlója. Mrs. Buckner vezeti a Buckner házat.}
+{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
+ thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
+ Buckner runs Buckner house, y'know.}
 {311}{}{Érdekes. Mesélj valami másról!}
-{312}{}{Ez minden, amire kíváncsi voltam. Viszlát!}
+{312}{}{Ezt akartam tudni. Viszlát!}
 {320}{}{Egy egész parkolónyi kocsink van. Mindegyik arra várt, hogy a gazdájuk visszajöjjön a vásárlásból. A helyzet az, hogy sosem jöttek vissza. Sajnos egyikük sem mûködik, de van egy szép darab innen keletre. Egy igazi Chrysalis Motors Highwayman, de sajnos nem tudom, hogy lehetne eljutni hozzá.}
 {321}{}{Egy Highwayman? Érdekes, de most valami másra lennék kíváncsi.}
-{322}{}{Ez minden, amit tudni akartam. Viszlát!}
-{330}{}{Hát, egész finomak tudnak lenni, ha nyárson megsütöd. Legtöbbször azonban csak gondot okoznak. Elbarikádoztuk az északi részt, de így is átszökik néhány. Van itt egy ajtó, de bezártam.}
+{322}{}{Ezt akartam tudni. Viszlát!}
+{330}{}{Well, they taste pretty good if you spit-roast 'em with just a pinch of herbs. But most of the
+ time they can be a real nuisance, and they're getting worse. We've barricaded the north part of the
+ mall -- well, Trapper Town, that is -- but they're sneaking through anyway. There's one door right here
+ behind my room, but I have it locked.}
 {331}{}{Otthon anyu csak serpenyõben sütötte, kevés vajjal. De mesélj még a patkánytámadásokról!}
-{332}{}{Érdekes. Mesélj valami másról!}
-{333}{}{Másra most nem vagyok kíváncsi. Viszlát!}
+{332}{}{Érdekes. Mesélj nekem valami másról inkább!}
+{333}{}{Ezt akartam tudni. Viszlát!}
 {335}{}{Hát, egész finomak tudnak lenni, ha nyárson megsütöd. Legtöbbször azonban csak gondot okoznak. Elbarikádoztuk az északi részt, de így is átszökik néhány. Itt van egy ajtó az északi oldalhoz, de bezártam.}
 {336}{}{Volt nekünk egy hatalmas gondunk a patkányokkal, de mostanában mintha eltûntek volna, mintha valaki elzavarta, kiirtotta volna õket.}
 {337}{}{Otthon anyu csak serpenyõben sütötte, kevés vajjal. De mesélj még a patkánytámadásokról!}
-{340}{}{Emberek tûnnek el mostanában. Biztos, mert túl lassúak, vagy betegek. Persze a patkányok nem állnak meg és sütik meg a kajájukat, mint mi, õk csak szép lerágott csontokat és szõrmaradványokat meg ruhafoszlányokat hagynak. Legalábbis reggel már csak ezt találjuk meg. Többen azt rebesgetik, hogy van egy hatalmas patkány-isten, ami megmondja a többinek, mit csináljon.}
+{340}{}{People been disappearing. Just them that are slow and sickly, for now. 'Course, they
+ don't stop to cook their food like us. They just gnaw it into a few bloody clumps of hair and
+ rags. Least that's all we find in the morning. I've even heard talk that there's some kind of
+ giant rat god that tells 'em all what to do.}
 {341}{}{Érdekes. Valakinek tennie kéne már valamit ez ügyben. Te, mondd csak, nincs egy kulcsod az északi részhez?}
 {342}{}{Érdekes. Mesélj nekem valami másról inkább!}
-{343}{}{Más most nem érdekel. Viszlát!}
+{343}{}{Ezt akartam tudni. Viszlát!}
 {350}{}{Hát, nem vagy olyan szép, mint múltkor, biztos régen volt már. Azt hiszem, odaadhatom neked a kulcsot, ha te is megadod nekem, amire szükségem van. (he-he-he)}
 {351}{}{Hmm, te aztán csodálatos vagy ám! Biztos vagyok benne, hogy megkaphatod a kulcsot, ha én is megkapom, amit akarok. (hehe)}
 {352}{}{Oké, de remélem, csak a magasságod miatt hívnak Véznának.}
@@ -121,3 +128,4 @@
 {403}{}{Vajon mi történt a patkányokkal?}
 {404}{}{Csakhogy megszabadultunk végre a patkányoktól.}
 {405}{}{Látom, olyan vagy, mint a Hamelini Dudás, nemde? Köszikee.}
+{406}{}{No way. I will only trade this here key for something you got. No fast talk.}

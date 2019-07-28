@@ -1,9 +1,8 @@
-# Dialog Editor last position: 70
 {100}{}{Egy nagyon csinos, harci páncélba bújt fiatal lányt látsz.}
 {101}{}{Õ Elise.}
 {102}{}{Egyfajta "semmi-sem-lehetetlen" aura lengi körül, mintha hozzászokott volna, hogy utasításokat ad másoknak, azok pedig engedelmeskednek neki.}
 {103}{}{Mit akarsz?}
-{104}{}{Már megint te vagy?}
+{104}{}{Már megint maga az?}
 {105}{}{Karl küldött.}
 {106}{}{Jubilee doki említette, hogy beszélnem kellene veled.}
 {107}{}{Ki vagy te?}
@@ -18,11 +17,11 @@
 {116}{}{Nem úgy néztek ki, mint egy segélyegylet vagy egy templom.}
 {117}{}{Érdekesnek hangzik. Milyen módon teszitek ezt?}
 {118}{}{Én csak a kocsimat akarom megjavíttatni.}
-{119}{}{Csak hordd el innen magad! A kocsma a fõutcán van, arra feljebb.}
+{119}{}{Just get yourself out of here. Saloon's back on Main Street.}
 {120}{}{Gyûlölik a rabszolgaságot, hûha! Ez érdekes. Mit csinálnál, ha megtalálnád ezt a csoportot?}
 {121}{}{Megkérném, hogy csatlakozhassak hozzájuk.}
 {122}{}{Szétrúgnám a seggüket.}
-{123}{}{Semmit.}
+{123}{}{Semmi.}
 {124}{}{Semmi közöd hozzá. Na, kifelé!}
 {125}{}{Már kiszálltunk az autóüzletbõl. Átmenetileg zárva tartunk. Viszlát!}
 {126}{}{Amint látod, van. Viszlát!}
@@ -43,19 +42,19 @@
 {141}{}{Teszten? Mi ez, iskola?}
 {142}{}{Egy rabszolga-kereskedõ a város határában rontja a levegõt. Talán láttad is a helyet. Szabadítsd ki a rabszolgákat, aztán gyere vissza és tárgyalhatunk!}
 {143}{}{Nem látom akadályát...}
-{144}{}{Szó sem lehet róla! Nem akarok itt semmi zûrt.}
+{144}{}{No way. I don't want to make any trouble here.}
 {145}{}{Hát, szerencsés napod van.}
 {146}{}{Elsõsorban ez a hozzáállás teszi lehetõvé, hogy a rabszolgaság embertelensége még létezhet. Sajnálom, de a számodra nincs hely a szervezetünkben.}
 {147}{}{Oké.}
 {148}{}{Nos, meggondoltad magad? Kész vagy kiállni a próbát?}
-{149}{}{Úgy ám!}
+{149}{}{Hogyne.}
 {150}{}{Mit is akartál tõlem?}
 {151}{}{Nem kellett volna elintézned valamit? Amíg nem végeztél a feladattal, ne gyere vissza!}
 {152}{}{Már hallottam a híreket a rabszolgák kiszabadításáról. Szép munka volt! Nos, készen állsz, hogy te is Felderítõ legyél?}
 {153}{}{Igen.}
 {154}{}{Nem.}
 {155}{}{Hallottam, hogy te szabadítottad ki a rabszolgákat a városon kívül. Tisztességes dolog volt és meg szeretném érte szorítani a kezed.}
-{156}{}{Kösz.}
+{156}{}{Köszi.}
 {157}{}{Egyszerû. Mi úgy tartjuk, hogy a rabszolgaság rossz dolog és mindent megteszünk ellene, amit szükségesnek látunk. Itt, az ÚKK-ban sok, magas beosztású barátunk van. Nekik köszönhetõen délre tõlünk már betiltottuk a rabszolgaságot, és reményeink szerint északon is elterjeszthetjük a nézeteinket.}
 {158}{}{Büszke lennék, ha tagja lehetnék a Felderítõk szervezetének. Írj csak fel nyugodtan!}
 {159}{}{Érdekes... Át kell még gondolnom, amit mondtál.}
@@ -75,10 +74,10 @@
 {173}{}{Ebben az esetben meg kell kérjelek, hogy tûnj a szemem elõl. Ne mondjam még egyszer!}
 {174}{}{Oké.}
 {175}{}{Egy rabszolga-hajcsár! Kifelé innen, mielõtt egy golyóval szedem le azt a tetkót rólad!}
-{176}{}{Naná!}
+{176}{}{Hogyne.}
 {177}{}{Próbáld csak meg!}
 {178}{}{Néhány északi városban vannak ügynökeink és szimpatizánsaink. Terjesztjük a nézeteinket és ott csapunk le a rabszolga-kereskedõkre, ahol csak tudunk.}
 {179}{}{Üdv! Meggondoltad magad a csatlakozással kapcsolatban?}
-{180}{}{Még rágódom kicsit...}
+{180}{}{Értem.}
 {181}{}{Ez nem tartozik rád. Most távozz, különben begorombulok!}
 {182}{}{Nem tudom, mit tettél Gonddal, de most megfizetsz!}

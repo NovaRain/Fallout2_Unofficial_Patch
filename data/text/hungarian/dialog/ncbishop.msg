@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez az ember nem más, mint Mr. Bishop.}
 {150}{}{A középkorú illetõ elég nagyhatalmúnak tûnik.}
 {151}{}{Õ Mr. Bishop. Zord arcot vág.}
@@ -10,27 +9,27 @@
 {205}{}{Egyél ólmot, hülye gyökérfajzat!}
 {206}{}{Egyél ólmot, ribanc!}
 {207}{}{Nem szeret ólom undor íze neki}
-{208}{}{Eloldalogsz}
+{208}{}{[Elcsoszogsz]}
 {209}{}{Ha ezt szeretné a sírkövére faragtatni, hát legyen...}
 {210}{}{Utolsó szavai elég gyengére sikeredtek.}
-{211}{}{(Menekülõre veszed.)}
+{211}{}{[Run for it.]}
 {220}{}{Mi a... ? Ki vagy te és mi a FRANCOT akarsz?}
 {221}{}{Én }
-{222}{}{.}
+{222}{}{ vagyok.}
 {223}{}{Én Kiiii?}
-{224}{}{Otthagyod}
+{224}{}{Elpályázol}
 {225}{}{Szent küldetésben járó harcos vagyok. Meg kell szereznem az Édenkert Létrehozást Elõsegítõ Táskát. Tudja, hol találhatnék egyet?}
 {226}{}{Egy Édenkert Létrehozást Elõsegítõ Táskát keresek. Tud segíteni?}
 {227}{}{Egy 13-as Menedék nevû helyet keresek. Hallott róla?}
 {228}{}{Gondoltam, esetleg tudna még adni nekem egy kis munkát...}
 {229}{}{Bocsánat... másik szobába jöttem...}
 {240}{}{(Végigmér.) Még ez a ruha sem tudja feledtetni, hogy csak közönséges vadember vagy... (Horkant egyet.) A fiúk szerint hoztál nekem egy aktatáskát az egyik közös "ismerõsünktõl". Hadd lássuk!}
-{241}{}{Tessék, itt van.}
+{241}{}{Tessék.}
 {242}{}{Öö... mókás... úgy tûnik, mire ideértem az ajtótól, elhagytam valahol.}
 {243}{}{Igazából nem akarok tõle megválni. A közeljövõben vissza akarom vinni.}
 {250}{}{(Kinyitja az aktatáskát, átnézi a tartalmát, aztán becsukja.) Ez tényleg Moore-tól van. Persze van egy kis cetli benne, miszerint annyira se bízzunk benned, mint egy darab szarban. Te aztán tényleg rossz szobába jöttél, vadember!}
 {251}{}{(Kinyitja az aktatáskát, átnézi a tartalmát, aztán becsukja.) Ez tényleg Moore-tól van. Aszondom, jobb, ha vigyázol, vadember. Szerencsés vagy... (Mosolyog.) ...ismeretlenül jöttél ide, és egy menyországi utat kockáztatsz.}
-{252}{}{Meglehet, de én leszek az egyetlen, aki elsétál innen.}
+{252}{}{Maybe so, but I'm going to be the only one walking out.}
 {253}{}{Célba juttattam Moore táskáját... most jöhet a fizetség...}
 {254}{}{Kiváncsi ember vagyok. Mi van az aktatáskában?}
 {255}{}{Örülök, hogy minden a rendes kerékvágásban van... most viszont sajnos mennem kell.}
@@ -92,7 +91,7 @@
 {401}{}{Nincs itt semmi gond. Vegye úgy, hogy Westin már meg is halt!}
 {402}{}{Csakugyan? Akkor találjon magának mást, aki megoldja a problémáit. Már itt sem vagyok...}
 {410}{}{Hmmmm. Rendben, elég méltányos ez így... mit akarsz tudni?}
-{411}{}{Úgymint...?}
+{411}{}{Mivel szolgálhatok?}
 {412}{}{Hol találom ezt a fickót? Nem akarom tûvé tenni érte az egész várost, ha megérkezem az ÚKK-ba.}
 {413}{}{Van ennek a fickónak valami rokona vagy családja? Számíthatok szemtanúkra?}
 {414}{}{Hogy áll az egészséggel? Nem beteg véletlenül?}
@@ -165,7 +164,7 @@
 {604}{}{Verje ki a fejébõl! Nem kell ez a szaros munka.}
 {605}{}{Üsse ki a fejébõl! Nem kell ez nekem.}
 {615}{}{(Meghányja-veti a dolgot, aztán épp csak megbiccenti a fejét.) Érthetõ... mit akarsz tudni?}
-{616}{}{Úgymint...?}
+{616}{}{Mivel szolgálhatok?}
 {622}{}{Mivel foglalkozik ez a Carlson? Milyen a napi beosztása?}
 {630}{}{Az ÚKK-ban lévõ elnöki kúriába fészkelte be magát. Nem lehet eltéveszteni. Az, hogy hogyan jutsz be, és hogyan nyírod ki, a te dolgod.}
 {631}{}{Hadd kérdezzek még Carlsonról...}
@@ -199,10 +198,10 @@
 {735}{}{Repülni akarsz? El akarsz szállni? Be akarod lõni magad? Megoldjuk. Fegyvert, felszerelést, jobb cuccokat akarsz? Minden vackot megkapsz. Abban az esetben... (Felemeli a mutatóujját.) ...HA csatlakozol a családunkhoz.}
 {736}{}{Jól hangzik. Elfogadom az ajánlatot... fõnök.}
 {740}{}{Jól van akkor...! Van valami neved, amit szívesen használnál?}
-{741}{}{...}
+{741}{}{Ó...}
 {745}{}{...Tetszik, tetszik. Most pedig, ha egybõl ki szeretnéd próbálni a hírnevedet, ugorj le a bárba, vagy menj a Szûz Utca végén lévõ Cat's Paw-ba! Ha valami fegyvert akarsz, menj egyenesen New Reno-i Fegyverboltba!}
 {746}{}{Megnézem... fõnök.}
-{750}{}{Hé... }
+{750}{}{Hé...}
 {751}{}{. Mindenki jól bánik veled?}
 {752}{}{Minden rendben van, Mr. Bishop. Gondoltam, beugrok és megnézem, minden rendben van-e önöknél is. Viszlát!}
 {753}{}{Minden a legnagyobb rendben. Az ÖN családja különösen élen jár abban, hogy... MINDEN létezõ tiszteletet megkapjak. (Jelentõségteljesen mosolyogsz, aztán távozol.)}
@@ -225,15 +224,15 @@
 {786}{}{Az asszonyom az ENYÉM. Bárki, aki megdugja az asszonyomat, szintén az ENYÉM. Választhatsz, vadember. Vagy bosszút állok, vagy elfogadod a munkát, és kvittek vagyunk.}
 {787}{}{A lányom az ENYÉM. Bárki, aki megdugja a lányomat, szintén az ENYÉM. Választhatsz, vadember. Vagy bosszút állok, vagy elfogadod a munkát, és kvittek vagyunk.}
 {788}{}{Álljon csak bosszút... próba cseresznye!}
-{789}{}{Jól van na, megcsinálom...}
+{789}{}{All right then. I'll do it...}
 {790}{}{NEM ÉR annyit a felesége...}
 {791}{}{NEM ÉR annyit a lánya...}
 {800}{}{Hé, mielõtt elmennél... Rá akarok nézni a fegyvereidre, vadember... eszembe juttat egy szóbeszédet, ami a közelmúltban kapott lábra.}
 {801}{}{Szóbeszédet?}
 {805}{}{Igen... a pusztában az a szóbeszéd járja, hogy egy hozzád hasonló egyén kiirtotta a Menedékvárostól délre tanyázó fosztogatókat. }
 {806}{}{Vele volt egy bazi nagy mutáns, akinek egy satut szereltek a vállára. }
-{807}{}{Vele volt egy ungabunga, akinek csont volt az orrában. }
-{808}{}{Vele volt egy robot, ami az agyát egy rekeszben hordta. }
+{807}{}{Vele volt egy robot, ami az agyát egy rekeszben hordta. }
+{808}{}{Vele volt egy ungabunga, akinek csont volt az orrában. }
 {809}{}{Van valami hozzáfûznivalód ehhez?}
 {810}{}{Mit kõ fûzni?}
 {811}{}{Ó én vótam az ÉN! ÉN! ÉN tenni!}

@@ -1,8 +1,4 @@
-# Dialog Editor last position: 5
 {100}{}{E számítógép-terminálon egy öntesztelõ, diagnosztikai program fut.}
-#Egyreszt csokkentettem a mellekmondatok szamat, masreszt szerintem a szamitogep-terminal
-#atlogott volna a kovetkezo sorba. Igy talan nem.
-
 {101}{}{Menedékváros Központi Számítógépe.}
 {102}{}{E számítógép-terminálon egy öntesztelõ, diagnosztikai program fut.}
 {103}{}{Egy nõi hangon beszélõ fémdoboz.}
@@ -14,7 +10,7 @@
 {109}{}{Menedék-Tek a problémamentes mûködés érdekében az általános rendszervizsgálati tesztek futtatását javasolja.}
 {110}{}{Menedék-Tek. Az egyetlen név a Menedék-technológiában.}
 {111}{}{Rendszerellenõrzés megkezdve.}
-{112}{}{Biztonsági rendszerek:}
+{112}{}{Biztonsági rendszerek :}
 {113}{}{Bemeneti terminál blokkolva.}
 {114}{}{Biztonsági kamerák... 1A... 1B... 1C... rendben.}
 {115}{}{Biztonsági kamerák... 2A... 2B... 2C... rendben.}
@@ -32,7 +28,7 @@
 {127}{}{Ventillátorok... 3A... 3B... 3C... 3D... 3E... rendben.}
 {128}{}{A hõmérséklet és páratartalom... rendben.}
 {129}{}{Energiaellátás:}
-{130}{}{Alrendszerek energiaellátása... E1... E2... E3... E4...  rendben.}
+{130}{}{Alrendszerek energiaellátása... E1A... E1B... E2A... E2B...  rendben.}
 {131}{}{A második és harmadik szinten az energiatakarékos üzemmód érvényes.}
 {132}{}{FIGYELEM! A Menedék ajtaja nyitva van. Vészhelyzetben zárom.}
 {133}{}{Rendszerellenõrzés befejezõdött, alrendszerek üzemképesek. Lemezre írás elõkészítése.}
@@ -79,10 +75,10 @@
 {174}{}{Felfeszíted a számítógépet és megpróbálod megtalálni a beszédfelismerõ modult.}
 {175}{}{PipBoy csatlakoztatása.}
 {176}{}{PipBoy csatlakoztatása.}
-{177}{}{Kilépés a terminálból.}
+{177}{}{Kilépés.}
 {178}{}{A fémdoboz nem válaszol.}
 {179}{}{Megpróbálod felfeszíteni a dobozt, hogy a nõ kimászhasson.}
-{180}{}{[Elbattyogsz]}
+{180}{}{[Elcsoszogsz]}
 {181}{}{Leguggolsz a fémdoboz mögé. Bedugod az ujjadat a nyílásba és lerántod a burkolólemezt. Nincs is nõ odabent! Csak egy halom döglött kígyó meg villogó fények.}
 {182}{}{Benyúlsz a kígyók közé.}
 {183}{}{[Elcsoszogsz]}
@@ -93,7 +89,7 @@
 {188}{}{Visszateszed a panelt és átkutatod az adattárat.}
 {189}{}{Valószínûleg csak az idõdet pocsékolod. Jobb lesz máshol keresni.}
 {190}{}{Ahogy visszailleszted a panelt, észreveszel egy PipBoyt ábrázoló ikont. A kép mellett van egy nyílás, amibe éppen beleférne a PipBoyod.}
-{191}{}{Betolod a PipBoyt az üres nyílásba.}
+{191}{}{Becsúsztatod a PipBoyt a nyílásba.}
 {192}{}{Otthagyod a terminált.}
 {193}{}{Már épp mennél, mikor meglátsz egy kis vigyorgó figurát a PipBoyodon! Egy nyílásra mutat. Talán beszélni szeretne a te kis PipBoy emberkéddel.}
 {194}{}{Már épp mennél, mikor meglátsz egy PipBoyt ábrázoló piktogramot a terminál oldalán. A kép mellett van egy nyílás.}
@@ -101,24 +97,24 @@
 {196}{}{Becsúsztatod a PipBoyt a nyílásba.}
 {197}{}{Otthagyod a terminált.}
 {198}{}{Hé! Ezek a kis fickók RENGETEGET beszélgetnek egymással! Furcsa csippanó, berregõ, sípoló hangok hallatszanak, végül egy hármas bippelés és a PipBoyod kicsusszan a nyílásból.}
-{199}{}{Elteszed a PipBoyt és távozol.}
+{199}{}{Take your Pip-Boy and leave.}
 {200}{}{A képernyõn egy mosolygó PipBoy jelenik meg. A piktogram fütyörészik és türelmetlenül dobol a lábával. A nyílás mellett egy piros fény vadul villogni kezd.}
-{201}{}{Folytasd!}
+{201}{}{Várakozol...}
 {202}{}{Mûvelet leállítása és kilépés a terminálból.}
 {203}{}{Baljós, berregõ hangot hallasz a nyílásából. A PipBoy tovább fütyörészik és dobog.}
-{204}{}{Tovább!}
+{204}{}{Várakozol...}
 {205}{}{Mûvelet leállítása és kilépés a terminálból.}
 {206}{}{A PipBoy hirtelen mozdulatlanná dermed. Egy felkiáltójel jelenik meg a feje felett és az ujját jobbra-balra mozgatja.}
 {207}{}{Én is bemutatok a kis szemétnek!}
 {208}{}{Megpróbálsz rájönni, hol a hiba.}
 {209}{}{Mûvelet leállítása és kilépés a terminálból.}
 {210}{}{A PipBoy alatt egy kis képernyõ kiírja, hogy a karbantartást már 50.352 éve el kellett volna végezni. Az adattárat formattálni kell. Folytatod?}
-{211}{}{Persze!}
+{211}{}{Öö... biztos.}
 {212}{}{Mit? NEM! Dehogy!}
 {213}{}{Mûvelet leállítása és kilépés a terminálból.}
 {214}{}{Mûvelet elõkészítése... PipBoy formattálása...}
-{215}{}{ }
-{216}{}{Folytasd!}
+{215}{}{}
+{216}{}{Várakozol...}
 {217}{}{Mûvelet leállítása és kilépés a terminálból.}
 {218}{}{Inicializálás...}
 {219}{}{ PipBoy formattálása...}
@@ -127,7 +123,7 @@
 {222}{}{Észak-Kaliforniai Földrajzi Adattár másolása a PipBoy adatbázisába.}
 {223}{}{Adattár feltöltése... Broken Hills... Gekkó... Új Kaliforniai Köztársaság... New Reno... Redding... Menedékváros... a frissítés sikeresen befejezõdött.}
 {224}{}{További keresés az adattárban.}
-{225}{}{Kilépés a terminálból.}
+{225}{}{Kilépés.}
 {226}{}{Visszatértél a fõmenübe. A képernyõn néhány adattár és keresõprogram látható.}
 {227}{}{Keresés: 13-as Menedék.}
 {228}{}{Keresés: Édenkert Létrehozást Elõsegítõ Táska.}
@@ -152,26 +148,27 @@
 {247}{}{Egy kis ablak jelenik meg a képernyõn, benne egy mosolygó PipBoyjal. A piktogram rád néz, bólint és felemeli a hüvelykujját. Egy piros fény villog a nyílás mellett.}
 {248}{}{Én is felemelem a hüvelykujjam.}
 {249}{}{Vadul beintek a PipBoynak!}
-{250}{}{Fallout 2 információ letöltése a PipBoy adatbázisába... fájl másolás... Menedékváros játéktervezõi stáblista... a letöltés sikeres.}
-{251}{}{Danke, bakker!}
+{250}{}{Fallout 2 Development Information is being entered into Pip-Boy database. Copying file...
+ Vault City Development Credits... Download complete.}
+{251}{}{Köszönöm!}
 {252}{}{Ajánlom, hogy ez a cucc érjen pár tapasztalati pontot, különben lefejelem a monitoromat!}
 {253}{}{A PipBoy integet, a kép pedig elsötétül. A terminál kikapcsolt.}
-{254}{}{Távozol.}
+{254}{}{[Leave.]}
 {255}{}{Jobb, ha elfutsz, kis szarházi!}
 {256}{}{A terminál kikapcsolt. Fogalmad sincs, hogy kell bekapcsolni.}
 {257}{}{Távozol.}
 {258}{}{Lemezen lévõ adatok beolvasása... reaktor adatok... atomerõmû teljesítmény: 43%/75%... hiba: reaktor kalibrálás, MD4/gh1 alrendszer... Optimalizáljam?}
-{259}{}{ }
-{260}{}{ }
-{261}{}{ }
-{262}{}{ }
+{259}{}{}
+{260}{}{}
+{261}{}{}
+{262}{}{}
 {263}{}{Természetesen, optimalizáld!}
 {264}{}{Ne, inkább hagyjuk! Vissza a fõmenübe.}
 {265}{}{Kilépés.}
 {266}{}{Optimalizálás folyamatban: zzzzzzz... brrrrrrr... bippp... zzzzz... bipp bipp bipp... optimalizálás kész. Kérem, vegye ki a lemezt!}
-{267}{}{ }
-{268}{}{ }
-{269}{}{ }
+{267}{}{}
+{268}{}{}
+{269}{}{}
 {270}{}{Vissza a fõmenübe.}
 {271}{}{Kilépés.}
 {272}{}{Óóóóóóóh. Ez a tynglzzz.}

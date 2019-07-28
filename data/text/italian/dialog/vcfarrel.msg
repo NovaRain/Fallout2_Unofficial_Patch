@@ -1,12 +1,12 @@
-{100}{}{Vedi un Cittadino che indossa una tuta aderente di colore blu elettrico. Sembra proprio il completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{100}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
 {101}{}{Vedi Holden, Vice-Addetto all'Emporio.}
-{102}{}{Vedi un Cittadino che indossa una tuta aderente di colore blu elettrico. Sembra proprio il completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
+{102}{}{Vedi un Cittadino che indossa una tuta di colore blu elettrico. Assomiglia molto al completo dell'Abitante del Vault, ma non c'e' numero sulla schiena.}
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
-{105}{}{Santi numi! E' l'eroe, qui, a Vault City!}
+{105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
 {106}{}{Buon giorno, Capitano.}
 {107}{}{Vault City prevale, Capitano.}
-{108}{}{Buon giorno, Cittadino.}
+{108}{}{Buongiorno, Cittadino.}
 {109}{}{Vault City prevale, Cittadino.}
 {110}{}{Un mutante! Guardie! Guardie!}
 {111}{}{Un ghoul! Guardie! Guardie!}
@@ -23,7 +23,7 @@
 {125}{}{Poffo autattiiiiiii}
 {126}{}{-Allontanati-}
 {127}{}{Cos'e' questo posto?}
-{128}{}{Posso vedere cos'avete da vendere?}
+{128}{}{Posso vedere quello che hai da vendere?}
 {129}{}{Per oggi niente, grazie.}
 {130}{}{Splendido: un altro Esterno... guardie! C'e' qui un Esterno che deve essere accompagnato all'entrata! Guardie!}
 {131}{}{NO PIACE GUADDE. TU MOTTO}
@@ -34,16 +34,15 @@
 {136}{}{Grazie. Vault City prevale, Cittadino.}
 {137}{}{Grazie. Vault City prevale, Capitano.}
 {138}{}{Vault City prevale, Cittadino.}
-{139}{}{Buona giornata, Cittadino.}
+{139}{}{Buongiorno, Cittadino.}
 {140}{}{Questo? Beh, questo e' il Distaccamento B dell'Emporio, che si occupa del deposito e della distribuzione all'interno di Vault City del materiale farmaceutico. Io sono Holden, Vice-Addetto all'Emporio. Come posso aiutarla oggi, Cittadino?}
 {141}{}{Questo e' il Distaccamento B dell'Emporio... qui ci occupiamo della distribuzione di materiale farmaceutico all'interno di Vault City. Forse stavi cercando qualche altro posto?}
-{142}{}{Posso vedere la vostra merce?}
+{142}{}{Posso vedere quello che hai da vendere?}
 {143}{}{No, e' questo il posto che stavo cercando. Posso vedere la vostra merce?}
 {144}{}{Per oggi niente, grazie.}
 {145}{}{Forse e' cosi'. Addio.}
 {150}{}{Questo? Beh, questo e' il Distaccamento B dell'Emporio, che si occupa del deposito e della distribuzione all'interno di Vault City del materiale farmaceutico. Io sono Holden, Vice-Addetto all'Emporio. Come posso aiutarla oggi, Capitano?}
 {151}{}{Ehi! Sta' lontano da li'!}
 {152}{}{Adesso basta! Fuori di qui!}
-
 {153}{}{Grazie.}
 {154}{}{[continua]}

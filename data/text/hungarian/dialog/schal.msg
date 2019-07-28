@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{Egy izmos fickó, hordónyi mellkassal.}
 {101}{}{Ez Hal, a brahmin-terelõk kapitánya.}
 {102}{}{Valamit rágcsál, és csak remélheted, hogy nem fogja felédköpni, mert bûzlik, mint a rosseb.}
@@ -6,9 +5,9 @@
 {104}{}{}
 {105}{}{Igen.}
 {106}{}{Nem.}
-{107}{}{Jöhet egy kis reddingi lé!}
-{108}{}{Aha, kell az a reddingi lé!}
-{109}{}{Kiváncsi vagyok, mennyi lé lesz ebbõl Reddingben.}
+{107}{}{Tartsd nyitva a szemed!}
+{108}{}{Stay together men!}
+{109}{}{Keep it up boys.}
 {110}{}{Remek. Guruljunk ki. Irány Redding, fiúk!}
 {111}{}{Hát akkor, hagyj békén! Ötszáz útnak indítandó brahmin vár rám.}
 {112}{}{Már megint te vagy? Menj innen!}
@@ -17,3 +16,4 @@
 {115}{}{Hát, volt egy kis balszerencsénk, de egész jól megúsztuk. Tessék, a kiérdemelt 2000 dollárod.}
 {116}{}{Szent szar, ezt baromi jól csináltuk! 1000 dollár bónusz illet téged. A 2000 dollár mellé jól fog jönni. Ma kifordítjuk Reddinget a négy sarkából!}
 {117}{}{Mostantól magadra vagy utalva. Jó volt együtt utazni.}
+{118}{}{You're the worst excuse for a guard I've ever seen. Get the hell out of here.}

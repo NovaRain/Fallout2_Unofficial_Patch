@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Charlie.}
 {101}{}{Egy sovány embert látsz. Hajának egy része nagy csomókban hiányzik a fejérõl, a bõre cafatokban lóg.}
 {102}{}{Charlie.}
@@ -12,13 +11,13 @@
 {110}{}{Ez a férfi sugárfertõzött, orvosi kezelésre van szüksége.}
 {111}{}{Ez a férfi rémesen néz ki. Nem tudod, mi lehet a baja.}
 {112}{}{Kösz, de tényleg jól vagyok, komolyan! Az a Rad-Away cucc bejött.}
-{113}{}{Találtál egy vénát és benyomod a Rad-Away-t Charlie testébe.}
+{113}{}{You find a vein and inject the Rad-Away into Charlie's system.}
 {114}{}{*Öhrkkkk*...}
-{115}{}{3 másodperc}
+{115}{}{5 Seconds}
 {116}{}{Uhhhhh...*köhh* *köhh*...}
-{117}{}{3 másodperc}
+{117}{}{5 Seconds}
 {118}{}{Hrnnhhhh...*rotty*...ahhhhh}
-{119}{}{3 másodperc}
+{119}{}{5 Seconds}
 {120}{}{Mi történt? Sokkal jobban érzem magam.}
 {121}{}{Meggyógyítottad Charlie-t.}
 {122}{}{*Nyöszörgés*}
@@ -26,7 +25,7 @@
 {124}{}{*Köhh-köhh*}
 {125}{}{*Rotty*}
 {126}{}{Most ittam utoljára ebbõl a mocskos vízbõl, az tuti.}
-{127}{}{Már nem is világítok. Szuper!}
+{127}{}{Jól érzem magam. Köszönöm.}
 {128}{}{Ez a szar Rad-Away jól meghajt. WC-re kell mennem.}
 {129}{}{Kösz idegen, hálás vagyok. Sajnos nem volt pénzem az Auto-dokira.}
 {130}{}{Szeretnék adni valamit, de egy árva buznyákom sincs.}

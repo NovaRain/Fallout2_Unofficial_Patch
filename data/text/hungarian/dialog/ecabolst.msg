@@ -1,11 +1,10 @@
-# Dialog Editor last position: 50
 {100}{}{Egy utazót látsz.}
 {101}{}{Egy embert látsz, aki keres valamit.}
 {200}{}{Rabszolga-vadász! Megölni!}
 {201}{}{Megölni az elnyomót!}
 {202}{}{Megölni a gonosz rabszolga-tartót!}
 {203}{}{Le a rabszolgasággal! Le a hajcsárokkal!}
-{204}{}{Pusztulj, gonosz korcs!}
+{204}{}{Meghalsz, söpredék!}
 {250}{}{Hé, ide!}
 {251}{}{Hé, idegen!}
 {300}{}{Hé idegen, mit keresel te itt ezen a részen?}
@@ -34,7 +33,7 @@
 {335}{}{De, néha meg kell ölnöd néhányat, hogy megmenthesd a többit. Mindig vannak elkerülhetetlen áldozatok. Különben is, a rabszolga-vadászokat aligha lehet embernek nevezni.}
 {336}{}{Igazad van, de most mennem kell.}
 {337}{}{Tényleg? Akkor halott vagy.}
-{338}{}{Jól van, oké. Na, csá!}
+{338}{}{Ahogy gondolja. Viszlát!}
 {340}{}{Te, rohadék! Ezért megöllek!}
 {341}{}{Te, kurva! Ezért megöllek!}
 {342}{}{Nem, ha én öllek meg elõször!}
@@ -43,9 +42,9 @@
 {355}{}{Rejtek egy város. A rabszolga-kereskedelemre specializálódott.}
 {356}{}{Kösz az információt. Viszlát!}
 {360}{}{Csak a rabszolga-vadászok útvonalait keresem.}
-{361}{}{Ezt hogy érted?}
+{361}{}{Ezt most hogy kell értenem?}
 {362}{}{Öhm, akkor sok szerencsét!}
-{363}{}{Jól van, viszlát!}
+{363}{}{Ahogy gondolja. Viszlát!}
 {370}{}{Próbáld a rabszolga-vadászokat! Jól lehet gyakni õket. }
 {371}{}{Fasza, kösz az infót!}
 {372}{}{Á, hát itt vagy! Inkább megöllek.}

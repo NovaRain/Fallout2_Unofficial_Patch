@@ -2,14 +2,13 @@
 {101}{}{Laddie.}
 {102}{}{Questo cane sembra essere davvero sveglio e intelligente.}
 {103}{}{Non hai dubbi sul fatto che questo cane sia probabilmente piu' intelligente di te.}
-
 {150}{}{Woof!}
 {151}{}{Woof! Woof!}
 {152}{}{Woof! Woof! Woof!}
 {153}{}{[Questo cane sembra molto agitato.]}
 {154}{}{Bel cagnolino.}
 {155}{}{Sai dove si trova Jonny, ragazzo?}
-{156}{}{Sta' qui, Laddie.}
+{156}{}{Stay here, Laddie.}
 {157}{}{Andiamo a cercare Jonny.}
 {158}{}{Jonny e' caduto nel pozzo, Laddie?}
 {159}{}{Cosa c'e', ragazzo? Stai cercando di dirmi qualcosa?}
@@ -35,7 +34,6 @@
 {183}{}{E' andato verso ovest?}
 {186}{}{Woof?}
 {187}{}{Okay, Okay… Forse da qualche altra parte, allora?}
-
 {190}{}{Stava giocando a cowboy e indiani quando e' caduto accidentalmente nel pozzo e tu vuoi che io prenda una corda e scenda li' sotto per salvarlo. Okay, andiamo, Laddie. [Sbalorditivo!]}
 {191}{}{Stava giocando a cowboy e indiani quando e' caduto accidentalmente nel pozzo e tu vuoi che io usi la mia corda e scenda li' sotto per salvarlo. Okay, andiamo, Laddie. [Sbalorditivo!]}
 {195}{}{OK, prendero' una corda e scendero' sul fondo del pozzo per salvare Jonny.}

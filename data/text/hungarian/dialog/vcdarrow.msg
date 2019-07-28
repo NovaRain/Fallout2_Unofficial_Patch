@@ -1,16 +1,15 @@
-# Dialog Editor last position: 50
-{100}{}{Ez a polgár világoskék kezeslábast visel. Éppen olyan, mint a Menedéklakóé, csak nincs rajta szám.}
+{100}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
 {101}{}{Darrow, az  "A" Komfort Osztály vezetõje.}
-{102}{}{Ez a polgár világoskék kezeslábast visel. Éppen olyan, mint a Menedéklakóé, csak nincs rajta szám.}
+{102}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
 {103}{}{::tapsol::}
-{104}{}{Nézzétek! A Hõsünk!}
-{105}{}{Emberek! A hõsünk itt van Menedékvárosban!}
+{104}{}{Itt a hõs! Nézzétek!}
+{105}{}{Atya ég! Itt a hõs, Menedékvárosban!}
 {106}{}{Jó napot, Kapitány.}
-{107}{}{Menedékváros mindenek felett, Kapitány!}
+{107}{}{Menedékváros mindenek felett, Kapitány.}
 {108}{}{Jó napot, Polgártárs!}
-{109}{}{Menedékváros mindenek felett, Polgártárs!}
-{110}{}{Itt egy mutáns! Õrség! Õrség!!!}
-{111}{}{Itt egy ghoul! Õrség! Õrség!!!}
+{109}{}{Menedékváros mindenek felett, Polgártárs.}
+{110}{}{Egy mutáns! Õrség! Õrség!!!}
+{111}{}{Egy ghoul! Õrség! Õrség!!!}
 {112}{}{Szükségünk lesz még pár szerszámra Reddingbõl.}
 {113}{}{Unalmas nap ez a mai.}
 {114}{}{Meglepne, ha Randal végzett volna már a szállítólevelekkel.}
@@ -25,27 +24,27 @@
 {123}{}{Segíthetnék valamiben, Polgártárs?}
 {124}{}{Igen? Segíthetek?}
 {125}{}{Segít én? Tiira-riira taraaaaam}
-{126}{}{[Elcsosszansz]}
-{127}{}{Nem is tudom. Mi ez a hely?}
-{128}{}{Láthatnám a készleteidet?}
-{129}{}{Kösz, nem. Viszlát!}
+{126}{}{[Elcsoszogsz]}
+{127}{}{Mi ez a hely tulajdonképpen?}
+{128}{}{Láthatnám az áruját?}
+{129}{}{Kösz, egyelõre elleszek magam is.}
 {130}{}{Várj egy pillanatot, rendben? Hozok valakit, aki megmutatja neked a kijáratot.}
 {131}{}{NEM ÉN NEM MENNI}
 {132}{}{Okiiii-dokiiii}
 {133}{}{Megjegyzem, hogy sok a dolgom. Legközelebb Elõvárosban vásárolj, Boldog Harry boltjában, rendben?}
-{134}{}{Elnézést, hogy feltartottalak.}
-{135}{}{Megjegyzem, nem vagyok kíváncsi se az idõbeosztásodra, se a véleményedre. Rendben?}
+{134}{}{Öö, köszi.}
+{135}{}{Ez itt nem... a piac?! Bocsánat, hülye vagyok, szegény apámtól örököltem. Na, tûnjünk innen!}
 {136}{}{Köszönöm. Menedékváros mindenek felett, Polgártárs!}
 {137}{}{Köszönöm. Menedékváros mindenek felett, Kapitány!}
-{138}{}{Menedékváros mindenek felett, Polgártárs!}
+{138}{}{Menedékváros mindenek felett, Polgártárs.}
 {139}{}{Jó napot, Polgártárs!}
 {140}{}{Ez itt az "A" Komfort Osztály. Komoly készleteink vannak szerszámokból, javító eszközökbõl. A nevem Darrow. Biztos, hogy jó helyen jársz?}
 {141}{}{Ez itt az "A" Komfort Osztály. Mi tároljuk a város szerszámait, javító eszközeit. Biztos, hogy jó helyen jársz?}
-{142}{}{Láthatnám a készleteidet?}
+{142}{}{Láthatnám az áruját?}
 {143}{}{Igen, ezt kerestem. Láthatnám a készleteidet?}
-{144}{}{Nem is tudom.}
+{144}{}{Kösz, egyelõre elleszek magam is.}
 {145}{}{Nem hiszem. Viszlát!}
 {146}{}{Hé! Azt hagyd békén!}
-{147}{}{Mars ki innen!}
-{148}{}{Kösz.}
+{147}{}{Elég! Mars ki innen!}
+{148}{}{Köszi.}
 {149}{}{[tovább]}

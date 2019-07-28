@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez az ember Mason.}
 {150}{}{Egy ritkuló hajú, tagbaszakadt, középkorú férfi áll elõtted.}
 {151}{}{Õ Mason. Gyanakodva figyel téged.}
@@ -11,7 +10,7 @@
 {222}{}{Mit keresel itt, bokszbajnok? Eltévedtél a ring felé menet? Na, lódulj kifelé!}
 {223}{}{Legyél okos}
 {224}{}{Úúg jelents küldetést}
-{225}{}{Otthagyod}
+{225}{}{Elpályázol}
 {226}{}{Mi van amögött az ajtó mögött?}
 {227}{}{Szeretnék találkozni Mr. Salvatoréval.}
 {228}{}{Megkérdezhetem, honnan vannak azok a lézerpisztolyok?}
@@ -39,11 +38,10 @@
 {298}{}{Oké! Megyek! Megyek!}
 {299}{}{Szótlanul távozol.}
 {305}{}{FIGYELMEZTETTELEK, seggfej, na most majd... (Mason hirtelen megdermed, és valami általad nem hallható hangra figyel. Egy pillanat múltán összeszorítja a fogát.) Mr. Salvatore azt mondja, hogy bemehetsz... }
-{1305}{}{.}
 {306}{}{Persze-persze, bemegyek rögvest... de elõbb kinyírlak.}
 {307}{}{Köszi, seggfejhús, biztos lehetsz benne, hogy a viselkedésedrõl beszámolok Mr. Salvatorénak!}
-{308}{}{Jól van.}
-{315}{}{(Mason megállít.) Figyelj rám... (Közelebb hajol és suttogóra fogja.) ...ami az alapszabályokat illeti, barátom. }
+{308}{}{Akkor rendben vagyunk.}
+{315}{}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. }
 {316}{}{Figyelj rám... (Közelebb hajol és suttogóra fogja.) ...ami az alapszabályokat illeti, kislány. }
 {317}{}{Ne pazarold Mr. Salvatore idejét, és ne szarakodj vele, különben velem gyûlik meg a bajod!}
 {318}{}{Megértettem.}
@@ -55,7 +53,7 @@
 {337}{}{Kapd be!}
 {345}{}{Na, jó, ebbõl elég, okostóni! Betelt a pohár... (Megropogtatja az ízületeit.) ...ez most fájni fog...}
 {346}{}{Fog? Fáj a fogad?}
-{347}{}{Akkor hadd jöjjön a tánc!}
+{347}{}{Táncoljunk!}
 {348}{}{Nem nekem, hanem neked fog FÁJNI! Hallod, amit mondok, MASON?! TE LESZEL AZ, AKI MOST...}
 {355}{}{Na, végre idetoltad a képed, haver! }
 {356}{}{Na, végre idetoltad a képed, kislány! }
@@ -68,13 +66,13 @@
 {364}{}{Hogyne. Köszi, Mason.}
 {365}{}{Valszeg elboldogulok. Most pedig állj el az utamból, és hagyj dolgozni!}
 {366}{}{Én már pontot tettem a Lloyd "ügy" végére.}
-{375}{}{Igen? Úgymint?}
+{375}{}{Igen? Éspedig?}
 {381}{}{Ennél többet nem is akarok tudni. Köszi, Mason.}
 {382}{}{Ennél többet nem is akarok tudni. Állj félre és hagyj dolgozni, Mason!}
 {390}{}{A srác jól meghúzódott valahol, szóval a felkutatása a TE feladatod lesz, fiam. }
 {391}{}{A srác jól meghúzódott valahol, szóval a felkutatása a TE feladatod lesz, kislány. }
 {392}{}{Mi a tippem? Nézd végig a Szûz utcai bárokat. Lloyd valszeg ott garázdálkodik.}
-{393}{}{Volna még néhány kérdésem...}
+{393}{}{Lenne pár kérdésem.}
 {400}{}{Lloyd? Picsába... egy átlagos magasságú, fehér bõrû, barna hajú ipse. Amikor utoljára láttam, barna pólót és sötét sálat viselt. Nem valószínû, hogy azóta ruhát váltott.}
 {401}{}{Az a helyzet, hogy -nem túl meglepõ módon- ez a leírás nagyon sok emberre ráillik, akiket Arroyóból való eljövetelem óta láttam.}
 {410}{}{Hah! Ahogy mondod. Manapság csak név alapján lehet az embereket megkülönböztetni. Lassan már csak kábé tíz féle ember létezik a világban. (Közelebb hajol.) Nagy rá az esély, hogy régen történt valami nagy klónozási baleset.}
@@ -83,7 +81,7 @@
 {431}{}{Ja-ja... Most mennem k...}
 {432}{}{Lenne még néhány kérd...}
 {433}{}{Akkor jó, megyek és utánané...}
-{440}{}{Jól van akkor.}
+{440}{}{Akkor rendben vagyunk.}
 {442}{}{Ennél többet nem akarok most tudni. Állj félre és hagyj dolgozni!}
 {465}{}{Megtaláltad már Lloydot?}
 {466}{}{(Komor képet vág.) Remélem, JOBB híreket hoztál nekem. Megtaláltad már Lloydot?}
@@ -93,11 +91,11 @@
 {472}{}{Nem, szerintem meglépett a városból és magával vitte a pénzt.}
 {473}{}{Még nem. Bocs, nem akartalak zavarni.}
 {480}{}{Na, várjunk egy picit, hékás! Megpróbálom közérthetõen megfogalmazni, hátha még te is fel tudod fogni: Addig ne gyere ide még egyszer, amíg meg nem találtad Lloydot! Különben nagyon megkeserülöd! Most pedig MUNKÁRA!}
-{481}{}{Rendben, rendben...}
+{481}{}{Már itt sem vagyok.}
 {482}{}{Bukj rá, Mason!}
 {490}{}{Megmondtam, hogy ne gyere vissza addig, amíg nem találtad meg Lloydot... MEGMONDTAM. (A fejét fogja.) Teljesen hülye vagy? Nyilván, ha már megint itt esz a fene! Hülye barom... és mostantól hulla.}
 {491}{}{Na, gyerünk, szarpöcs!}
-{492}{}{Pakolj föl!}
+{492}{}{Ne fogja vissza magát!}
 {493}{}{Nem-nem, TE VAGY A HÜLYE BAROM HULLA! HALLASZ, MASON?! TE VAGY A HÜ...}
 {500}{}{(Hitetlenkedve bámul rád.) Elcseszted! Egy tök egyszerû feladatot kapsz, erre EL-CSESZ-TED! }
 {501}{}{Te a leghülyébb faszkalap vagy, aki ezen a földön él. }
@@ -126,7 +124,7 @@
 {565}{}{Na, várjunk egy picit, hékás! Megpróbálom közérthetõen megfogalmazni, hátha még te is fel tudod fogni: Addig ne gyere ide még egyszer, amíg meg nem találtad Lloydot. Különben nagyon mérges leszek. Most pedig MUNKÁRA!}
 {575}{}{Megmondtam, hogy ne gyere vissza addig, amíg nem találtad meg Lloydot... MEGMONDTAM. (A fejét fogja.) Teljesen hülye vagy? Nyilván, ha már megint itt esz a fene! Hülye barom... és mostantól hulla.}
 {585}{}{(Mason szeme összeszûkül.) Most akkor mi a pöcs van? Elmondtad neki, kinek dolgozol?}
-{586}{}{Persze.}
+{586}{}{Igen.}
 {587}{}{Hát, nem annyira...}
 {595}{}{Akkor MEGMUTATTAD neki, hogy kinek dolgozol?}
 {596}{}{Ezt hogy érted?}
@@ -136,12 +134,12 @@
 {615}{}{(Amint megpillant, Mason elkomorul.) Na, már csak ez az ostoba faszkalap hiányzott! }
 {617}{}{Halott emberektõl nem tudsz pénzt behajtani. (A fegyveréért nyúl.) Jól elcseszted, mint ÁLLAT!}
 {618}{}{Ja, egyébként amúgy is fárasztottál már...}
-{619}{}{Nem, TE CSESZTED EL, MINT ÁLLAT! HALLASZ, MASON?! TE BASZTAD EL A...}
+{619}{}{No, YOU'RE the one who's DONE SCREWED UP BUT GOOD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S DONE SCR --}
 {625}{}{(Mason bólint, de láthatóan elégedetlen.) Heh. Azt hittem, a vén Renescóból már kisajtoltuk az utolsó vasát is. Rendben van... vidd a fõnökhöz! (Összevonja a szemöldökét.) Gyerünk...}
 {635}{}{Lehet lekopni! Mr. Salvatore nem akar több megbízatást adni neked.}
 {640}{}{Rendbe', a fõnök azt mondja, hogy velünk jössz egy kis TRANZAKCIÓRA, ami éppen esedékessé vált. Fegyver legyen nálad... persze ne valami dugóspuskát hozzál!... Ha készen állsz, keress fel újra!}
 {642}{}{Mr. Salvatore azt mondta, hogy kapok tõled egy lézerpisztolyt.}
-{643}{}{Miféle tranzakcióról van szó?}
+{643}{}{What is this transaction we're doing?}
 {644}{}{Akár most is mehetünk. Én készen állok.}
 {645}{}{Adj egy kis idõt, hogy felkészüljek, aztán majd visszajövök!}
 {655}{}{Igen, hallottam róla. Tessék... azért ne játszadozz vele! Ha valakit megsebesítesz vele, kinyírlak!}
@@ -153,7 +151,7 @@
 {685}{}{El ne késs! Csak 24 óránk van az üzletkötésre. Ha lemaradsz, gondoskodom róla, hogy a Golgotán rohadj meg.}
 {686}{}{Te csak ne aggódj! Itt leszek.}
 {695}{}{Na, kialudtad magad? Akár mehetünk is?}
-{696}{}{Milyen tranzakcióról is van szó?}
+{696}{}{What is this transaction we're doing again?}
 {697}{}{Igen. Húzzunk bele!}
 {698}{}{Még kéne egy kis idõ, aztán visszajövök.}
 {699}{}{Meg tudod tanítani, hogy kell bánni ezzel a pisztollyal?}
@@ -171,7 +169,7 @@
 {746}{}{Köszi, Mason.}
 {747}{}{Hát, Mason, köszi... viszont legközelebb akár hívhatnál "uramnak" is. Eléggé tetszene. HA HA HA HA HA HA...}
 {748}{}{Hát, Mason, köszi... viszont legközelebb akár hívhatnál "asszonyomnak" is. Eléggé tetszene. HA HA HA HA HA HA...}
-{755}{}{Üdvözöljük... uram.}
+{755}{}{Hello... sir.}
 {756}{}{Üdvözöljük... asszonyom.}
 {765}{}{(Mason ledermed, fülel valami általad nem hallható hangra. Egy pillanat múlva összeszorítja a fogát.) Mr. Salvatore azt mondja, bemehetsz, }
 {766}{}{Köszi, seggfejhús. Biztos lehetsz benne, hogy a viselkedésedet megemlítem Mr. Salvatorénak.}
@@ -195,5 +193,6 @@
 {826}{}{Nem hiszem, hogy olyan könnyen meg fogsz ölni, mint amilyen könnyen megmérgeztétek azt a gyereket...}
 {835}{}{Felejtsd el! A feladatot lefújtuk. Tûnés innen!}
 {840}{}{Örülök, hogy nagynehezen visszajöttél. A fõnök látni akar.}
+{1305}{}{ vagyok.}
 {5735}{}{. Mr. Salvatore értesített az elõmeneteledrõl. Gratula. Van egy két cuccom a számodra... nesze... (Átad egy rakás tárgyat.) Vigyázz azzal ott...}
-{5765}{}{.}
+{5765}{}{ vagyok.}

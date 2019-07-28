@@ -1,5 +1,4 @@
-# Dialog Editor last position: 7
-{100}{}{Toxikus Trutyi.}
+{100}{}{Ez bizony Toxikus Trutyi.}
 {101}{}{Ez bizony Toxikus Trutyi.}
 {110}{}{Áúú - ez a trutyi éget!}
 {120}{}{Ezek az öreg gumicsizmák aztán kint tartják azt az ocsmány nyálkát.}

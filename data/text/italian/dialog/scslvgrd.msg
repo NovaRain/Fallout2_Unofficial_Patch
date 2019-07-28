@@ -4,7 +4,7 @@
 {103}{}{Parla con Mr. Vortis, non con me.}
 {104}{}{Uhh...}
 {105}{}{Hai delle domande? Parla con Vortis.}
-{106}{}{Se ci dai dei problemi, io sono qui per risolverli. Capito?}
+{106}{}{Dovessi darci dei problemi, io sono qui per risolverli. Capito?}
 {107}{}{Beh, pare che ci sia un intruso.}
 {108}{}{Suonate l'allarme. Intruso all'ingresso!}
 {109}{}{Mr. Vortis - predoni!}

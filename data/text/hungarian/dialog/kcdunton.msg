@@ -1,8 +1,7 @@
-# Dialog Editor last position: 206
 {100}{}{Két nagyon hasonlóan festõ embert látsz. Valószínûleg ikrek. Mindkettõ nagyon izmos, és bozontos a szemöldökük.}
 {101}{}{Chuck és Buck Dunton. Annyira hasonlítanak egymásra, hogy nem vagy benne biztos, melyiket is látod épp.}
 {102}{}{Egy magas, nagyon izmos embert látsz, akinek bozontos szemöldöke alatt olyan az arca, mint egy bikáé.}
-{110}{}{Jobb, ha lelépsz, mert én és a testvérem péppé verjük a pici fejed!}
+{110}{}{You just better push off, or my brother and I are going to pound your little head into jam.}
 {111}{}{Hé, ne vedd komolyan! Csak vicceltem. Bocsánatot kérek. Ne üss meg! Végülis, csak kérdezni akartam tõletek valamit.}
 {112}{}{Öö, elnézést kérek, Mr. Dunton. Most elmegyek.}
 {113}{}{Információra van szükségem, és jobban jársz, ha elmondod, amit tudni akarok.}
@@ -15,7 +14,7 @@
 {131}{}{Nem hiszem, hogy bármit is el kéne mondanom neked. Egyébként is, mi a fenét akarsz?}
 {132}{}{Szóval mit is akar tõlünk ez a kis hülye?}
 {133}{}{Hallott bármelyikõtök olyasmirõl, amit Édenkert Létrehozást Elõsegítõ Táskának neveznek?}
-{134}{}{Szeretnék csereberélni.}
+{134}{}{I'd like to barter.}
 {135}{}{Van itt valami munka?}
 {136}{}{Eh, te tulajdonképpen melyik Dunton is vagy?}
 {137}{}{Hallottál valamit az itteni brahmin mutációkról?}
@@ -51,7 +50,7 @@
 {190}{}{Oké, itt van a beígért ötven dollár, és egy kis apróság... némi Dunton féle szárított hús. Kösz még egyszer, partner.}
 {191}{}{Kösz. Van még valami, amit tudni szeretnék...}
 {192}{}{Biztosan találok helyet ennek a pénznek. Mmm, *beleharapsz*, finom a hús is. Köszönöm. Viszlát!}
-{198}{}{Oké, íme az üzlet: Segítségre van szükségünk, hogy ööö felszabadítsunk néhány brahmint attól az idióta Torrtól. Kibeszélhetsz belõle párat, vagy egyszerûen le is ütheted. Azért nagyon ne verdd össze, mert nem akarunk balhét!}
+{198}{}{OK, here's the deal. We need some help in, uh, liberating some brahmin from that idiot Torr. You shouldn't have trouble with that. Just talk him out of them. What do you say?}
 {199}{}{Most már emlékszem, köszönöm.}
 {200}{}{Találkozzunk a keletre lévõ brahmin-legelõnél, ma este hatkor!}
 {201}{}{Találkozzunk a keletre lévõ brahmin-legelõnél, holnap este hatkor!}
@@ -119,10 +118,10 @@
 {304}{}{Túl nyeszlettnek látszol. Csak igazi férfiak ellen szkanderezem. Na, lépj le!}
 {310}{}{Mit a fenét keresel te? Akkor voltam legközelebb az édenkerthez, amikor Jennyvel hemperegtem a Mama fürdõházában. (Hehehe)}
 {311}{}{Öö, kösz. Hadd kérdezzek valami mást!}
-{312}{}{Ez minden, amit tudni szeretnék most. Viszlát!}
+{312}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
 {320}{}{Hát, úgy hallottam, hogy pár khm... bogárember brahminokat lopott tõlünk keletre. De nem kell mindent elhinni, amit hallasz.}
 {321}{}{Ó, értem, kösz. Van valami más is, amit tudni szeretnék.}
-{322}{}{Ennyi lenne most. Köszönöm.}
+{322}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
 {330}{}{Helló! Azért vagy itt, hogy vegyél egy keveset a világhírû Dunton féle szárított húsból?}
 {331}{}{Nos? Azért vagy itt hogy húst vegyél, vagy mi?}
 {332}{}{Ez nagyszerûen hangzik, kérek.}
@@ -144,20 +143,21 @@
 {357}{}{Hat hónapos marhahúsból készült, és némi lótetû meg hasonló férgek hozzáadásával még finomabbá lett téve.}
 {358}{}{Hihetetlen! Úgy hangzik, mintha a saját szárított húsotokat ennétek. Ööö, úgy értem, ki ne akarna enni ebbõl? Nyam-nyam..}
 {359}{}{Tényleg? Ez érdekfeszítõ. Mondd tovább!}
-{360}{}{Azt hiszem, megtudtam mindent, amire kíváncsi voltam. Viszlát!}
+{360}{}{Nagyjából ennyi érdekelt volna most. Agyõ!}
 {361}{}{Ha az éhhalál szélén állnék, akkor is inkább a saját levágott karomat enném meg, mint ezt az átkozott szárított húst.}
 {370}{}{Azért vagy itt, mert meggondoltad magad? Segítesz megmenteni Torrtól azokat a szegény kicsi brahminokat?}
 {371}{}{Mit a fenét csinálsz te itt? Segítesz nekünk vagy nem? Lenne egy munkánk a számodra, ha érdekel.}
 {372}{}{Érdekel. Mondd el mi a munka!}
 {373}{}{Nem hiszem, hogy bármit is akarok veletek csinálni. Viszlát!}
-{374}{}{Azt hiszem, a közelben egy pár bogár-testrészt láttam. Nem tudod, mi volt az?}
+{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
 {380}{}{Mi a fenét akarsz? Elfelejtetted, mit kell tenned?}
 {381}{}{Nem, emlékszem. Megyek is és elfoglalom magam.}
-{382}{}{Megõrültél? Figyelnek minket! Azért is jöttem, hogy megmondjam, ne csináld! Fogadjunk, hogy most is épp figyelnek minket.}
+{382}{}{Megõrültél? Figyelnek minket. Azért is jöttem, hogy megmondjam, ne csináld! Fogadjunk, hogy most is épp figyelnek minket.}
 {383}{}{Elfelejtettem. Elmondanád még egyszer, mi is a terv?}
-{384}{}{Azt hiszem, a közelben egy pár bogár-testrészt láttam. Nem tudod, mi volt az?}
+{384}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
 {390}{}{Bogár testrészek? Ömm... ööö... nem tudunk semmit semmiféle bogár-részekrõl. Mirõl beszélsz?}
-{391}{}{úgy néztek ki, hogy akár ruhaként is viselhetné az ember. Mind ide volt dobálva, ahol most állunk.}
+{391}{}{Well, I found a pile of bug parts that had straps and buckles so that they looked as though they
+ could be worn as a costume. I found them lying on the floor.}
 {392}{}{Felejtsd el, viszlát!}
 {400}{}{Hát ezek mennek. Meg kell keresnünk Torrt.}
 {401}{}{Jól hangzik, benne vagyok.}
@@ -175,16 +175,17 @@
 {430}{}{Te megbolondultál! Azok csak az általunk megölt radskorpiók maradványai. Bizony! Ez a kulcs. Mi.. öh, ömm... a saját receptünk egyik titkos összetevõjének használjuk a mérgüket.}
 {431}{}{Jah, persze. Kábé annyira hiszek nektek, mint ahogy a nap nyugaton kel fel.}
 {432}{}{Hát, ha te mondod, akkor biztos úgy van. Helló!}
-{440}{}{Jobb, ha a saját érdekedben befogod a szád!}
+{440}{}{You just better keep your mouth shut if you know what's good for you.}
 {441}{}{Hé, nyugodj meg! Csak azt akartam mondani, hogy jó ötlet. Csillapodj le!}
 {442}{}{Bocsánat. Azt fogom tenni. Viszlát!}
 {443}{}{Igen, hát akkor megyek. Viszlát!}
-{444}{}{Jah, jobb, ha befogod a szád egy idõre. Eleget hallgattam már a dumád.}
+{444}{}{I got a better idea. How about you shut YOUR mouth for a change. I'm tired of hearing you flap your
+ rotten gums.}
 {449}{}{Üdv, törzsbéli!}
 {450}{}{A nevem Chuck Dunton.}
 {451}{}{Engem Buck Duntonnak hívnak.}
 {452}{}{Roooonda ember}
-{453}{}{Kiválasztott!}
+{453}{}{ Kiválasztott!}
 {460}{}{Roooonda ember? Mi? Te legalább akkora idióta vagy, mint Torr. Ez jó, úgyis kerestünk egy új bolondot a faluba. Te épp kapóra jössz.}
 {461}{}{kuporra?}
 {470}{}{Kiválasztott, mi? A kiválasztott jobb, ha vigyáz, mielõtt valaki szájba veri. Az anyád fejre ejtett csecsemõkorodban, vagy így születtél? Takarodj a szemem elõl!}
@@ -197,7 +198,7 @@
 {490}{}{Hé, várj, amíg bemegyünk, akkor beszélünk.}
 {500}{}{Igyekszel, de végül a Dunton testvér gyõz.}
 {510}{}{Egy nehéz küzdelem után felülkerekedsz a Dunton fivéren.}
-{520}{}{Oké}
+{520}{}{Oké.}
 {530}{}{Takarodj innen! Az embereknek itt dolguk van.}
 {531}{}{Ó, oké, már megyek is. Hogy egyesek milyen könnyen bepöccennek... Viszlát!}
 {532}{}{Torr északra innen terelgeti a brahminjait.}

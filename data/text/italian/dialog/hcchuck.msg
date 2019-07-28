@@ -3,7 +3,7 @@
 {102}{}{Vedi un uomo polveroso, dall'aspetto assonnato. I suoi abiti sembrano molto, MOLTO fuori moda.}
 {103}{}{::si stropiccia gli occhi addormentati:: Cosa dia... eh? Dove sono? Per quanto tempo sono rimasto addormentato?}
 {104}{}{Urr?}
-{105}{}{Tu chi sei?}
+{105}{}{Chi sei?}
 {106}{}{Non ho la piu' pallida idea di quanto tempo tu abbia dormito, ma ti trovi a Broken Hills, vicino alla New California Republic.}
 {107}{}{Oh no! Ho dormito cosi' tanto che l'umanita' e' diventata stupida! Aieeeeeeee! ::scappa in preda al panico::}
 {108}{}{[FATTO]}

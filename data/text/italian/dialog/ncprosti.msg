@@ -1,8 +1,5 @@
-# QUICK LOOK
 {100}{}{Vedi una prostituta.}
-
-# EXAMINE
-{150}{}{Vedi una... signora della notte. I suoi abiti consunti le fasciano sensualmente il corpo.}
+{150}{}{Vedi una... signora della notte. Vestiti consunti le fasciano sensualmente il corpo.}
 {151}{}{Vedi una prostituta. Ti fa l'occhiolino.}
 {152}{}{Vedi una prostituta. I suoi occhi sembrano fusibili scoppiati.}
 {153}{}{Vedi una prostituta. Profuma di fiori.}
@@ -11,23 +8,17 @@
 {156}{}{Vedi una prostituta. Ha l'aspetto di una che uccide i suoi amanti e se li mangia.}
 {157}{}{Vedi una prostituta. Ti sta valutando come fossi un gioiello.}
 {158}{}{Vedi una prostituta. I suoi abiti consunti le fasciano sensualmente il corpo.}
-
-# 1. [MALE, ENCLAVE DESTROYED]
-{175}{}{Oh mio Dio... e' lui!}
-{176}{}{Sei il piu' grande mandrillo del mondo.}
+{175}{}{Oh my... it's him.}
+{176}{}{Sei il piu' grande stallone del mondo.}
 {177}{}{::Sviene::}
-{178}{}{Vai cosi', }
+{178}{}{Vai, }
 {179}{}{::Applaude::}
-{180}{}{::Acclama::}
-{181}{}{Oh mio Dio... e' lei. }
-{182}{}{Cosi' si fa, ragazza mia!}
-{183}{}{::Ti mostra il pollice alzato::}
-
-# 2. [POWER ARMOR]
+{180}{}{::Cheers::}
+{181}{}{Oh my... it's her.}
+{182}{}{Vai cosi', ragazza mia!}
+{183}{}{::Ti fa il gesto del pollice alzato::}
 {190}{}{Non basterebbero tutti i tuoi soldi per convincermi a farlo con te mentre indossi QUELLA COSA.}
-
-# 3. [MALE, PORN STAR]
-{195}{}{Vieni qui, }
+{195}{}{Vieni qui, bello. }
 {196}{}{Guardate! E' lui!}
 {197}{}{Ehi, }
 {198}{}{Ehi, tesorino? Nessun buco che potrei riempire?}
@@ -44,8 +35,6 @@
 {209}{}{Posso recitare nel tuo prossimo film?}
 {210}{}{Non lo simulerei mai con TE, }
 {211}{}{Sto perdendo... le forze. Non... resistero' ancora... a lungo. Devo... fare... sesso... con te...}
-
-# 4. [PORN STAR, FEMALE]
 {212}{}{Non e' una star, e' solo spazzatura tribale...}
 {213}{}{Mi stupisco che permettano alle pornostar di diventare COSI' grasse...}
 {214}{}{E' orripilante.}
@@ -86,45 +75,39 @@
 {249}{}{Non capisco cosa VEDANO in te i Fratelli Corsican...}
 {250}{}{Hai lo stesso talento di un sasso... e sei due volte piu' brutta.}
 {251}{}{Non parlo con la SPAZZATURA come te.}
-
-# 5. [MALE, PRIZEFIGHTER]
 {252}{}{Guarda quei muscoli! Mi sento svenire...}
-{253}{}{Caaaaavoli!}
+{253}{}{Caaaavoli!}
 {254}{}{::Fischia::}
-{255}{}{E' grosso come un carro armato. E guarda che cannone.}
+{255}{}{E' massiccio come un carro armato. E guardate quel cannone.}
 {256}{}{Guarda il cannone di quel carro armato...}
 {257}{}{E' tutto mio...}
 {258}{}{::Sigh::}
 {259}{}{Che forza.}
 {260}{}{Quel ragazzo mi fa sentire cosi' inerme.}
 {261}{}{Ecco il Re dalla Mazza d'Oro...}
-{262}{}{Ha del piombo nel suo matitona, poco ma sicuro.}
-{263}{}{Guardate! E' }
+{262}{}{Ha del piombo nel suo matitone, poco ma sicuro.}
+{263}{}{Guarda! E' }
 {264}{}{}
 {265}{}{ECCO il tipo di problema in cui vorrei imbattermi.}
-{266}{}{Vuoi fare quattro salti sul ring con me, campione?}
+{266}{}{Vuoi fare un salto sul ring con me, campione?}
 {267}{}{Vuoi boxare, campione?}
 {268}{}{Come butta, }
-{269}{}{Stavi cercando me?}
-{270}{}{Perche' non ti fai vedere piu' spesso in giro?}
+{269}{}{Mi cercavi?}
+{270}{}{Perche' non ti fai viva piu' spesso?}
 {271}{}{Ho un'apertura che potresti riempire.}
 {272}{}{Cerchi compagnia, }
 {273}{}{Sei DAVVERO una forza.}
 {274}{}{Mi sento svenire non appena ti guardo, lo sai?}
-{275}{}{Bel pezzo, quello che hai li' tra le gambe.}
-{276}{}{Hai bisogno che qualcuno si prenda cura di quello per te, campione?}
-{277}{}{Ehi... attento al Masticatore. E' un vero imbecille. Una volta ha cercato di strapparmi un orecchio a morsi.}
-
-# 6. [FEMALE, PRIZEFIGHTER]
+{275}{}{Bel pezzo d'artiglieria che hai li'.}
+{276}{}{Hai bisogno che qualcuno te lo tiri... ehm... ti tiri un po' su, campione?}
+{277}{}{Ehi... fa' attenzione al Masticatore. E' un vero stronzo. Una volta ha cercato di mordermi un orecchio.}
 {278}{}{Guarda! E' }
 {279}{}{Cerchi compagnia, }
 {280}{}{}
 {281}{}{E' DAVVERO una forza. Vorrei esser capace di farmi valere come lei.}
 {282}{}{Ecco un donna davvero forte.}
 {283}{}{Sembra cosi'...(trema)...pericolosa.}
-{284}{}{E' carina.}
-
-# 7. [MADE MAN]
+{284}{}{E' piuttosto sexy.}
 {285}{}{Oh mio... e' lui!}
 {286}{}{Sembra cosi'...(trema)...pericoloso.}
 {287}{}{Caaaavoli!}
@@ -139,58 +122,56 @@
 {296}{}{E' davvero una forza.}
 {297}{}{Ecco una troia davvero forte.}
 {298}{}{Sembra cosi'...(trema)...pericolosa.}
-{299}{}{E' carina.}
-
-# 8. [SCHIAVISTA]
+{299}{}{E' piuttosto sexy.}
 {300}{}{Il mio nome e' Facile, Schiavista. Qual e' il tuo?}
 {301}{}{Ehi, Schiavista, cerchi compagnia?}
 {302}{}{Lascia che ti insegni delle cose che solo una donna puo' insegnare.}
-{303}{}{Vuoi qualcuno con cui dividere il tuo sacco a pelo, Schiavista?}
-{304}{}{Cerchi qualcosa di bollente, Schiavista?}
-{305}{}{Hai un bel cobra "inguinale", li' sotto.}
-{306}{}{Cerchi un po' di divertimento?}
+{303}{}{Cerchi qualcuno con cui dividere il sacco a pelo, Schiavista?}
+{304}{}{Il tuo cavallo e' in fiamme, Schiavista.}
+{305}{}{Hai un bel cobra "inguinale" li' sotto.}
+{306}{}{Cerchi un po' di compagnia?}
 {307}{}{Schiavista, non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
 {308}{}{Vuoi un appuntamento?}
 {309}{}{Ho sentito che c'e' stato qualche problema nella Zona Commerciale...}
 {310}{}{Cerchi compagnia?}
 {311}{}{Vuoi ballare?}
-{312}{}{Schiavista, non puoi dire di aver fatto davvero l'amore prima di averlo fatto l'amore qui a Reno.}
+{312}{}{Schiavista, non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
 {313}{}{Certo, saro' uno dei tuoi 'compagni', per qualche soldo.}
 {314}{}{Un nuovo straniero in citta', cosi' sembra...}
 {315}{}{Vuoi volare, Schiavista?}
 {316}{}{Vuoi giocare a schiava e schiavista?}
-{317}{}{Bel gingillo.}
-{318}{}{Lascia che ti faccia ridere, triste pierrot.}
-{319}{}{Ti sei perso, Schiavista?}
-{320}{}{Hai bisogno di un posto dove scaricare la tua pistola, Schiavista?}
-{321}{}{Quell'uomo potrebbe sciogliere il ferro.}
+{317}{}{Bel sedano...}
+{318}{}{Vorrei tirarti su, triste pierrot.}
+{319}{}{Hai perso la via, Schiavista?}
+{320}{}{Hai una pistola da scaricare, Schiavista?}
+{321}{}{Quell'uomo riuscirebbe a fondere il metallo.}
 {322}{}{Myron? Non lo toccherei nemmeno per un milione. Facciamo DUE milioni.}
 {323}{}{Cerchi un po' di divertimento, Schiavista?}
 {324}{}{Mi piace l'aspetto del tuo gecko, Schiavista.}
-{325}{}{Hai un gecko nella tasca, oppure...?}
+{325}{}{Hai un gecko in tasca?}
 {326}{}{Ehila', Schiavista.}
 {327}{}{Vuoi un appuntamento, Schiavista?}
-{328}{}{Hai da accendere, Schiavista?}
-{329}{}{Ragazzino, lascia che ti faccia diventare un uomo.}
+{328}{}{E' qui la festa, Schiavista?}
+{329}{}{Ragazzo, faro' di te un uomo.}
 {330}{}{Vuoi giocare a schiava e schiavista?}
-{331}{}{Dai, fingiamo di essere due deathclaw nella stagione degli amori!}
+{331}{}{Facciamo finta di essere una coppia di deathclaw nella stagione degli amori, vuoi?}
 {332}{}{Vuoi svuotare il tuo caricatore, Schiavista?}
-{333}{}{Vuoi aiutare una vergine a perdere la sua verginita'?}
+{333}{}{Vorresti aiutare una vergine a perdere la sua verginita'?}
 {334}{}{Quello Schiavista fa impazzire il mio contatore Geiger.}
 {335}{}{Se vuoi che sia gentile con te, dovrai darmi un extra.}
-{336}{}{[Canta.] "Giochiamo - a Padrone e Serva. Giochiamo - a Padrone e Serva."}
-{337}{}{Saro' la tua roulette, Schiavista.}
-{338}{}{Finalmente ho imbottito per bene il letto.}
-{339}{}{Un assaggio del paradiso ti costera' dieci monete.}
+{336}{}{[Canta] "Giochiamo - a padrone e serva. Giochiamo - a padrone e serva."}
+{337}{}{Scommetti su di me, Schiavista.}
+{338}{}{Finalmente ho imbottito la testiera del letto.}
+{339}{}{Un assaggio del paradiso ti costera' dieci dollari.}
 {340}{}{Vuoi giocare a padrone e serva, Schiavista?}
 {341}{}{Myron: Tutta cera. Niente stoppino.}
 {342}{}{Myron e' un vero incapace...}
 {343}{}{AC-DC, B n' D, quel che e'.}
 {344}{}{Cosa ti aspetti che faccia? Che mi metta in ginocchio per lui?}
-{345}{}{Hai bisogno di qualcuno che ti tiri il guinzaglio, Schiavista?}
+{345}{}{Cerchi qualcuno che ti tiri il guinzaglio, Schiavista?}
 {346}{}{Myron continua a farsi vedere da queste parti...}
 {347}{}{La figlia di Bishop e' una vera puledra in calore.}
-{348}{}{Non e' Jet-dipendente, no... e' CAZZO-dipendente.}
+{348}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {349}{}{L'atmosfera al Cat's Paw si sta scaldando...}
 {350}{}{Ieri notte mi sono allenata per la maratona: dovevo scappare da Myron...}
 {351}{}{Cerchi un po' di TLC, Schiavista?}
@@ -198,7 +179,7 @@
 {353}{}{Vedi qualcosa che ti piace, Schiavista?}
 {354}{}{Cerchi amore, Schiavista?}
 {355}{}{Ehila', Schiavista! Vieni a chiacchierare un po' con me.}
-{356}{}{::fischia::}
+{356}{}{::Fischia rivolta a te::}
 {357}{}{Rimarrai molto a Reno?}
 {358}{}{Odio i mollaccioni.}
 {359}{}{Perche' non mi porti nella tua gabbia, Schiavista?}
@@ -211,19 +192,19 @@
 {366}{}{Io sono Old Spice.}
 {367}{}{Io sono Syphilis...er, Slutty Spice.}
 {368}{}{Io sono Dirty Spice.}
-{369}{}{Una lotta nel fango, e' tutto cio' che chiedo.}
+{369}{}{Una bella lotta nel fango, e' tutto cio' che voglio.}
 {370}{}{Ho un'amica, se credi che due teste siano meglio di una, Schiavista.}
 {371}{}{Vorrei tanto che Myron fosse gay.}
-{372}{}{Nuove facce in citta'...}
+{372}{}{Facce nuove in citta'...}
 {373}{}{Ancora non so perche' la chiamino Virgin Street...}
-{374}{}{Riesci a impiantare un chiodo da 15cm in un'asse usando il tuo pene?}
-{375}{}{Vorrei che si portasse dietro un sacchetto di carta...}
+{374}{}{Riesci a piantare un chiodo da 15cm in un'asse usando il tuo pene?}
+{375}{}{Vorrei si portasse dietro un sacchetto di carta...}
 {376}{}{Che ne dici di comprare da bere a questa ragazza, Schiavista?}
 {377}{}{Cerchi una ragazza di citta', Schiavista?}
 {378}{}{Ti serve compagnia stanotte, Schiavista?}
 {379}{}{Cerchi merce fresca, Schiavista?}
 {380}{}{Vieni qua, Schiavista, lo spettacolo sta per cominciare...}
-{381}{}{Ho sentito che alcune ragazze hanno ucciso il loro pappa.}
+{381}{}{Mi hanno detto che alcune ragazze hanno ucciso il loro pappa.}
 {382}{}{Qui puoi trovare le piu' belle ragazze delle Lande...}
 {383}{}{Quel Jules fara' meglio a lasciarmi in pace.}
 {384}{}{Ho ancora la botta che mi sono fatta sbattendo contro la testiera del letto...}
@@ -233,19 +214,19 @@
 {388}{}{Fammi sciogliere.}
 {389}{}{Se continua cosi', gli scoppiera' il cuore...}
 {390}{}{Mi prendero' cura di te, Schiavista.}
-{391}{}{Sono una vergine e non sono molto esperta. Perch' non mi insegni tu?}
+{391}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
 {392}{}{Jules continua a provare a vendere la sua roba sulla Seconda Strada...}
 {393}{}{Ehi, Schiavista! Ti serve una guida?}
-{394}{}{Jules vuole sempre delle prove gratuite.}
-{395}{}{Vuoi scuotere la tua gabbia, Schiavista?}
-{396}{}{Ho sentito che la tensione tra le famiglie sta di nuovo salendo.}
-{397}{}{Le giornate sono noiose, ultimamente. Spero che una carovana si faccia vedere presto.}
+{394}{}{Jules vuole sempre degli assaggi gratuiti.}
+{395}{}{Vuoi che scuota la tua gabbia, Schiavista?}
+{396}{}{Ho sentito dire che le famiglie sono di nuovo nervose.}
+{397}{}{Gli affari non vanno tanto bene. Spero che quella carovana arrivi presto.}
 {398}{}{Allora lui si e' messo questo costume da Deathclaw e poi...}
 {399}{}{Ho bisogno di aiuto per togliermi questo vestito.}
 {400}{}{Potresti chiudermi la cerniera? E poi tirarla giu' di nuovo?}
 {401}{}{Mmm-mmm. Sembra che sia iniziata la stagione degli accoppiamenti.}
 {402}{}{Ti serve un'amica?}
-{403}{}{La scorsa settimana ho dato un calcio a Jules nei gioielli di famiglia.}
+{403}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {404}{}{Hai perso la strada, Schiavista?}
 {405}{}{Non mi chiamano Miss Fortunella per niente.}
 {406}{}{Adoro quei profilattici al gusto di brahmin.}
@@ -256,9 +237,9 @@
 {411}{}{Se hai i soldi, Schiavista, puoi comprare quel che vuoi.}
 {412}{}{Puoi aiutarmi? Sto cercando la mia verginita' perduta.}
 {413}{}{Sono vergine, ma ho bisogno di soldi.}
-{414}{}{Sii gentile: e' la mia prima volta... Oggi.}
+{414}{}{Cerca di fare piano: e' la mia prima volta. Oggi.}
 {415}{}{Sono cosi' eccitata.}
-{416}{}{Se c'hai il grano, lo famo strano.}
+{416}{}{Tu hai dei desideri e io so come accontentarli.}
 {417}{}{Lascia che risvegli il bambino che e' in te.}
 {418}{}{Vuoi ballare, dolcezza?}
 {419}{}{Cerchi un buco dove impiantare il paletto?}
@@ -268,25 +249,25 @@
 {423}{}{::Ti manda un bacio::}
 {424}{}{Vuoi venire a letto con me?}
 {425}{}{Non costo poco, ma sono speciale.}
-{426}{}{Farti legare ti costera' un extra.}
+{426}{}{Se vuoi che ti leghi, ti costera' un extra.}
 {427}{}{Dove ho lasciato la mia frusta?}
-{428}{}{Pronta a partire.} #ready like a freddie
+{428}{}{Sono pronta per te.}
 {429}{}{Mi sono dovuta vestire da WILMA la scorsa notte, cristosanto.}
-{430}{}{Sono stata con Myron, ieri notte. Per circa cinque secondi.}
+{430}{}{Sono stata con Myron ieri notte. Per circa cinque secondi.}
 {431}{}{Vorrei tanto che inventassero degli olii balsamici all'aroma di Jet...}
-{432}{}{Anche se il mio culo dovesse cominciare a cadere, a Myron gli verrebbe duro lo stesso.}
-{433}{}{Quella dannata Associazione Sobrieta' si e' fatta viva di nuovo...}
+{432}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.}
+{433}{}{Quella dannata Associazione Sobrieta' si e' fatta di nuovo viva...}
 {434}{}{::Fischia::}
 {435}{}{Ti garantisco che sono meglio di quell'accessorio del Pip Boy che usi tu.}
 {436}{}{Vuoi che ti aiuti a stringere la tua vite, Schiavista?}
 {437}{}{Preferirei essere con Avellone.}
 {438}{}{Vorrei tanto che Nick Kesting fosse qui. Potremmo parlare per ore!}
-{439}{}{Nick Kesting e' davvero un bravo ragazzo. Parliamo sempre cosi' tanto.}
-{440}{}{Tommy the Balls e' spleeeeendidoooo.}
+{439}{}{Nick Kesting e' davvero un bravo ragazzo. Facciamo dei cosi' bei discorsi.}
+{440}{}{Tommy the Balls e' magniFico.}
 {441}{}{Bene, bene. Guardate chi e' arrivato in citta'...}
 {442}{}{Hai l'aspetto di uno che ha del tempo da perdere.}
 {443}{}{Oh, cavoli! Un turista!}
-{444}{}{I morsi ti costeranno un extra.}
+{444}{}{I morsi sono un extra.}
 {445}{}{Il mio nome e' Facile, ragazza-schiavista. Qual e' il tuo?}
 {446}{}{Ehi, ragazza-schiavista. Cerchi un'altra donna?}
 {447}{}{Vuoi assaggiare l'altra meta' del cielo, dolcezza?}
@@ -294,20 +275,18 @@
 {449}{}{Hai bisogno di qualcuno che ti riscaldi la tenda, ragazza-schiavista?}
 {450}{}{Cerchi qualcuno con cui dividere il sacco a pelo, ragazza-schiavista?}
 {451}{}{Vuoi ballare, ragazza-schiavista?}
-{452}{}{Ragazza-schiavista, non puoi dire di aver fatto all'amore prima di averlo fatto a Reno.}
+{452}{}{Ragazza-schiavista, non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
 {453}{}{Vuoi farti un giro, ragazza-schiavista?}
-{454}{}{Hai perso la strada, ragazza-schiavista?}
-{455}{}{Cerchi divertimento, ragazza-schiavista?}
+{454}{}{Hai perso la via, ragazza-schiavista?}
+{455}{}{Ti vuoi divertire un po', ragazza-schiavista?}
 {456}{}{Non sapevo che la gilda degli Schiavisti avesse delle donne...}
-{457}{}{Come va, ragazza-schiavista?}
+{457}{}{E' qui la festa, ragazza-schiavista?}
 {458}{}{Quella ragazza schiavista e' davvero sexy.}
 {459}{}{Quella ragazza schiavista fa ticchettare il mio contatore Geiger.}
-
-# 9. (ANY) TO [COMPANION: ROBOBRAIN AND/OR MARCUS]
-{460}{}{Ti garantisco che sono piu' brava a letto io di quel robot che ti segue.}
+{460}{}{I guarantee I'm better in the sack than that robot following you around.}
 {461}{}{Quel robot ha TUTTE le funzioni?}
-{462}{}{Quella roba che ti segue e' una specie di slot machine?}
-{463}{}{Quella e' una robo-slot machine, per caso?}
+{462}{}{E' una specie di slot machine quella cosa che ti sta seguendo?}
+{463}{}{E' per caso una robo-slot machine?}
 {464}{}{Quel robot conosce forse tutti i trucchi...? Uh... trucchi magici, intendo.}
 {465}{}{Dimmi che quello non e' un mutante.}
 {466}{}{Per quel mutante dovrai pagare un extra. Un GROSSO extra.}
@@ -315,8 +294,6 @@
 {468}{}{Quel mutante e' davvero enorme.}
 {469}{}{Quel mutante potrebbe schiacciarmi con una mano sola. Hmmmnnn.}
 {470}{}{Non saprei neanche dire quale sia il prezzo per un mutante.}
-
-# 10. [COMPANION: MYRON]
 {471}{}{Ehi, Myron!}
 {472}{}{Myron! Zucchero! Quand'e' che verrai a trovarmi?}
 {473}{}{My-ron. Myyyyyy-ron.}
@@ -329,26 +306,24 @@
 {480}{}{Puoi darmi un po' di Jet, Myron?}
 {481}{}{Quand'e' che mi darai un po' di Jet, Myron?}
 {482}{}{Puoi aiutarmi a volare, Myron?}
-
-# 11. [PLAYER IS MALE] + [COMPANION: BONE-NOSE]
 {483}{}{Il mio nome e' Facile. Qual e' il tuo?}
-{484}{}{Cerchi un po' di compagnia?}
+{484}{}{Vuoi un po' di compagnia?}
 {485}{}{Lascia che ti insegni delle cose che solo una donna puo' insegnare.}
 {486}{}{Cerchi qualcuno che ti riscaldi la tenda?}
 {487}{}{Cerchi qualcuno con cui dividere il sacco a pelo?}
-{488}{}{Hai due bei macigni li' sotto, amico.}
+{488}{}{Hai dei bei sassolini li' sotto, amico.}
 {489}{}{Hai un bel cobra "inguinale" li' sotto.}
-{490}{}{Cerchi un po' di divertimento?}
+{490}{}{Cerchi un po' di compagnia?}
 {491}{}{Non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
 {492}{}{Vuoi un appuntamento?}
 {493}{}{Ho sentito che c'e' stato qualche problema nella Zona Commerciale...}
 {494}{}{Cerchi compagnia?}
 {495}{}{L'unico sport che si vede a Reno ultimamente e' il Tonsill-Hockey...}
 {496}{}{Vuoi ballare?}
-{497}{}{Dimentica le slot machine. Il mio jackpot e' piu' ALTO.}
-{498}{}{Non riesco ancora a credere a quante spogliarelliste c'erano alla festa di diploma di Feargus.}
-{499}{}{Un nuovo straniero in citta', o cosi' sembra...}
-{500}{}{Riesci ad impiantare un chiodo da 15cm in un'asse usando il tuo pene?}
+{497}{}{Dimentica le slot machine. Il mio jackpot e' MOLTO piu' alto.}
+{498}{}{Non riesco ancora a crederci: ma quante spogliarelliste c'erano alla festa di diploma di Feargus?!}
+{499}{}{Pare ci sia un nuovo straniero in citta'...}
+{500}{}{Riesci a piantare un chiodo da 15cm in un'asse usando il tuo pene?}
 {501}{}{Vuoi volare?}
 {502}{}{E' da un po' che non vedo carovane provenienti da Redding.}
 {503}{}{Bel sedano...}
@@ -363,7 +338,7 @@
 {512}{}{Ti sei perso?}
 {513}{}{Mi piace l'aspetto del tuo gecko.}
 {514}{}{Hai un gecko in tasca?}
-{515}{}{Ti serve una guida per la citta', tesoro?}
+{515}{}{Ti serve una guida per la citta', zuccherino?}
 {516}{}{E' qui la festa?}
 {517}{}{Ragazzo, faro' di te un uomo.}
 {518}{}{A volte mi da' fastidio il modo nel quale sono rappresentate le donne di questa citta'.}
@@ -372,14 +347,14 @@
 {521}{}{Se dopo vuoi che ti parli, devi pagarmi un extra.}
 {522}{}{Posso aiutarti in qualche modo, straniero?}
 {523}{}{Non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
-{524}{}{Quel tuo amico con l'osso nel naso... bel gingillo.}
-{525}{}{Quel tuo amico con l'osso fa per caso dei giochetti con il naso?}
-{526}{}{Forse dovrei mettermelo anch'io un osso nel naso. Forse riuscirei ad attirare piu' clienti di sesso femminile.}
-{527}{}{Quel tipo ha un osso nel naso che e' grande quanto il mio braccio. Kriii-sto.}
-{528}{}{Non voglio assolutamente sapere cosa abbia fatto quel ragazzo per avere un osso infilato nel naso.}
-{529}{}{Il tuo amico con l'osso nel naso e' del giro?}
-{530}{}{Qual e' il prezzo per andare col tuo amico con l'osso nel naso?}
-{531}{}{Per trenta sacchi, glielo faccio diventare grande il doppio, quell'osso che ha nel naso.}
+{524}{}{Il tuo amico con l'osso nel naso... gran bel gingillo.}
+{525}{}{Il tuo amico con l'osso fa giochetti con il naso, per caso?}
+{526}{}{Forse dovrei mettermelo anch'io un osso nel naso. Attirerei piu' clienti di sesso femminile.}
+{527}{}{Quel tipo ha un osso nel naso che e' grande quanto il mio braccio. Krii-sto.}
+{528}{}{Non voglio nemmeno sapere come c'e' finito quell'osso nel naso del tuo amico.}
+{529}{}{Il tuo amico con l'osso nel naso e' nel giro, per caso?}
+{530}{}{Quanto costa andare con il tuo amico con l'osso nel naso?}
+{531}{}{Per trenta dollari, posso far diventare piu' grande l'osso nel naso del tuo amico.}
 {532}{}{Il tuo amico con l'osso nel naso cerca di compensare qualcosa?}
 {533}{}{Finalmente ho imbottito la testiera del letto.}
 {534}{}{Un assaggio del paradiso? Dieci dollari.}
@@ -391,12 +366,12 @@
 {540}{}{La figlia di Bishop e' una vera puledra in calore.}
 {541}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {542}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
-{543}{}{Sono cosi' stanca che mi pare di aver partecipato a una maratona, la scorsa notte...}
+{543}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {544}{}{Cerchi l'amore, tesoro?}
 {545}{}{Vorrei che Myron partisse per un viaggio. Un lungo viaggio.}
 {546}{}{Posso fare QUALSIASI cosa tu voglia... se il prezzo e' giusto.}
 {547}{}{Sono pronta ad andare, tesoro. E tu?}
-{548}{}{::Fischia nella tua direzione::}
+{548}{}{::Fischia rivolta a te::}
 {549}{}{Odio i mollaccioni.}
 {550}{}{Vuoi rischiare con me, tesoro?}
 {551}{}{Ti vuoi divertire un po'?}
@@ -416,7 +391,7 @@
 {565}{}{Vorrei si portasse dietro un sacchetto di carta...}
 {566}{}{Che ne dici di comprare da bere a questa ragazza?}
 {567}{}{Cerchi una ragazza di citta'?}
-{568}{}{Oh cavoli! Un turista!}
+{568}{}{Oh, cavoli! Un turista!}
 {569}{}{Vieni qua, tesoro, lo spettacolo sta per cominciare...}
 {570}{}{Mi hanno detto che alcune ragazze hanno ucciso il loro pappa.}
 {571}{}{Ehilaaa', straniero.}
@@ -428,18 +403,18 @@
 {577}{}{Fammi sciogliere.}
 {578}{}{Se continua cosi', gli scoppiera' il cuore...}
 {579}{}{Il rumore del neon mi fara' impazzire...}
-{580}{}{Sono una vergine. Puoi aiutarmi?}
-{581}{}{E pensare che sono scappata dal Den per questo...}
+{580}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
+{581}{}{E pensare che sono arrivata dal Den per questo...}
 {582}{}{Ehi, straniero! Ti serve una guida?}
-{583}{}{Jules vuole sempre degli "assaggi" gratuiti.}
-{584}{}{Ho sentito che le famiglie sono di nuovo nervose.}
+{583}{}{Jules vuole sempre degli assaggi gratuiti.}
+{584}{}{Ho sentito dire che le famiglie sono di nuovo nervose.}
 {585}{}{Gli affari non vanno tanto bene. Spero che quella carovana arrivi presto.}
 {586}{}{Allora lui si e' messo questo costume da Deathclaw e poi...}
 {587}{}{Ho bisogno di aiuto per togliermi questo vestito.}
 {588}{}{Potresti chiudermi la cerniera? E poi tirarla giu' di nuovo?}
 {589}{}{Mmm-mmm. Sembra che sia iniziata la stagione degli accoppiamenti.}
 {590}{}{Vuoi perdere un po' di tempo?}
-{591}{}{La scorsa settimana ho dato un calcio a Jules nei gioielli di famiglia.}
+{591}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {592}{}{Non mi chiamano Miss Fortunella per niente.}
 {593}{}{Adoro quei profilattici al gusto di brahmin.}
 {594}{}{Hai voglia di far divertire una signora?}
@@ -452,9 +427,9 @@
 {601}{}{Tu hai la grana e io ho tempo.}
 {602}{}{Puoi aiutarmi? Sto cercando la mia verginita' perduta.}
 {603}{}{Sono vergine, ma ho bisogno di soldi.}
-{604}{}{Sii gentile: e' la mia prima volta... Oggi.}
+{604}{}{Cerca di fare piano: e' la mia prima volta. Oggi.}
 {605}{}{Sono cosi' eccitata.}
-{606}{}{Se c'hai il grano, lo famo strano.}
+{606}{}{Tu hai dei desideri e io so come accontentarli.}
 {607}{}{Lascia che risvegli il bambino che e' in te.}
 {608}{}{Vuoi ballare, dolcezza?}
 {609}{}{Cerchi un buco dove impiantare il paletto?}
@@ -472,7 +447,7 @@
 {621}{}{Cerchi un posto dove scaricare la tua cartuccia?}
 {622}{}{Vorrei tanto che inventassero degli olii balsamici all'aroma di Jet...}
 {623}{}{Vorresti aiutare una vergine a perdere la sua verginita'?}
-{624}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.} #My ass is going to fall off, Myron keeps it up #RIPROVAECONTROLLA
+{624}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.}
 {625}{}{Quella dannata Associazione Sobrieta' si e' fatta di nuovo viva...}
 {626}{}{::Fischia::}
 {627}{}{I morsi sono un extra.}
@@ -503,8 +478,6 @@
 {652}{}{Ti serve una guida per la citta', zuccherino?}
 {653}{}{E' qui la festa, ragazza?}
 {654}{}{Quella ragazza fa ticchettare il mio contatore Geiger.}
-
-# 12. [NO REP]
 {655}{}{Il mio nome e' Facile. Qual e' il tuo?}
 {656}{}{Vuoi un po' di compagnia?}
 {657}{}{Lascia che ti insegni delle cose che solo una donna puo' insegnare.}
@@ -556,7 +529,7 @@
 {703}{}{La figlia di Bishop e' una vera puledra in calore.}
 {704}{}{Lei non e' Jet-dipendente, no... e' CAZZO-dipendente.}
 {705}{}{Ho sentito dire che a Vault City ci sono solo due tipi di Cittadini. Forse si e' trattato di un qualche errore di clonazione.}
-{706}{}{Sono cosi' stanca che mi pare di aver partecipato a una maratona, la scorsa notte...}
+{706}{}{Sono cosi' stanca che mi pare di aver partecipato ad una maratona, la scorsa notte...}
 {707}{}{Cerchi l'amore, tesoro?}
 {708}{}{Vorrei che Myron partisse per un viaggio. Un lungo viaggio.}
 {709}{}{Posso fare QUALSIASI cosa tu voglia... se il prezzo e' giusto.}
@@ -565,7 +538,7 @@
 {712}{}{Odio i mollaccioni.}
 {713}{}{Vuoi rischiare con me, tesoro?}
 {714}{}{Ti vuoi divertire un po'?}
-{715}{}{Vero Amore di Reno, proprio qui.}
+{715}{}{Amore Genuino di Reno, proprio qui.}
 {716}{}{Ti faro' divertire.}
 {717}{}{Io sono Filthy Spice.}
 {718}{}{Io sono Homely Spice.}
@@ -583,8 +556,8 @@
 {730}{}{Cerchi una ragazza di citta'?}
 {731}{}{Oh, cavoli! Un turista!}
 {732}{}{Vieni qua, tesoro, lo spettacolo sta per cominciare...}
-{733}{}{Ho sentito dire che alcune ragazze hanno ucciso il loro pappa.}
-{734}{}{Ehilaaaaa', straniero.}
+{733}{}{Mi hanno detto che alcune ragazze hanno ucciso il loro pappa.}
+{734}{}{Ehilaaaa', straniero.}
 {735}{}{Quel Jules fara' meglio a lasciarmi in pace.}
 {736}{}{Ho ancora la botta che mi sono fatta sbattendo contro la testiera del letto...}
 {737}{}{E' dall'ultimo convegno che sono a pezzi...}
@@ -597,14 +570,14 @@
 {744}{}{E pensare che sono arrivata dal Den per questo...}
 {745}{}{Ehi, straniero! Ti serve una guida?}
 {746}{}{Jules vuole sempre degli assaggi gratuiti.}
-{747}{}{Ho sentito che le famiglie sono di nuovo nervose.}
+{747}{}{Ho sentito dire che le famiglie sono di nuovo nervose.}
 {748}{}{Gli affari non vanno tanto bene. Spero che quella carovana arrivi presto.}
 {749}{}{Allora lui si e' messo questo costume da Deathclaw e poi...}
 {750}{}{Ho bisogno di aiuto per togliermi questo vestito.}
 {751}{}{Potresti chiudermi la cerniera? E poi tirarla giu' di nuovo?}
 {752}{}{Mmm-mmm. Sembra che sia iniziata la stagione degli accoppiamenti.}
 {753}{}{Vuoi perdere un po' di tempo?}
-{754}{}{La scorsa settimana ho dato un calcio a Jules nei gioielli di famiglia.}
+{754}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {755}{}{Non mi chiamano Miss Fortunella per niente.}
 {756}{}{Adoro quei profilattici al gusto di brahmin.}
 {757}{}{Hai voglia di far divertire una signora?}
@@ -617,9 +590,9 @@
 {764}{}{Tu hai la grana e io ho tempo.}
 {765}{}{Puoi aiutarmi? Sto cercando la mia verginita' perduta.}
 {766}{}{Sono vergine, ma ho bisogno di soldi.}
-{767}{}{Sii gentile: e' la mia prima volta. Oggi.}
+{767}{}{Cerca di fare piano: e' la mia prima volta. Oggi.}
 {768}{}{Sono cosi' eccitata.}
-{769}{}{Se c'hai il grano, lo famo strano.}
+{769}{}{Tu hai dei desideri e io so come accontentarli.}
 {770}{}{Lascia che risvegli il bambino che e' in te.}
 {771}{}{Vuoi ballare, dolcezza?}
 {772}{}{Cerchi un buco dove impiantare il paletto?}
@@ -637,7 +610,7 @@
 {784}{}{Cerchi un posto dove scaricare la tua cartuccia?}
 {785}{}{Vorrei tanto che inventassero degli olii balsamici all'aroma di Jet...}
 {786}{}{Vorresti aiutare una vergine a perdere la sua verginita'?}
-{787}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.} #My ass is going to fall off, Myron keeps it up
+{787}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.}
 {788}{}{Quella dannata Associazione Sobrieta' si e' fatta di nuovo viva...}
 {789}{}{::Fischia::}
 {790}{}{I morsi sono un extra.}
@@ -668,48 +641,42 @@
 {815}{}{Ti serve una guida per la citta', zuccherino?}
 {816}{}{E' qui la festa, ragazza?}
 {817}{}{Quella ragazza fa ticchettare il mio contatore Geiger.}
-
-# 13. [ENCLAVE DESTROYED]
-{818}{}{L'Enclave? Il Presidente? Raccontami tutta la storia.}
-{819}{}{Tom French ha programmato i miei script. Ha mani cosi' morbide e gentili.}
+{818}{}{Enclave? Presidente? Raccontami tutta la storia.}
+{819}{}{Tom French ha creato il mio script. Ha mani delicate e gentili.}
 {820}{}{Continuavano a combattere la GUERRA? Veramente?! Hai fatto bene a spazzare via quei bastardi.}
 {821}{}{Sei davvero grande. Voglio dire, all'inizio eri un semplice selvaggio getta-lance - senza offesa - e alla fine sei riuscito a salvare il mondo intero. Sei troppo forte. Fine della storia.}
-{822}{}{Dovresti ricominciare il gioco usando un personaggio diverso.}
+{822}{}{Dovresti ricominciare il gioco usando un altro tipo di personaggio.}
 {823}{}{Dimmi tutto riguardo alla tua lotta contro l'Enclave...}
 {824}{}{Ehi, se vuoi un regalo per aver salvato il mondo, sono sicura che potresti convincermi a dartelo...}
 {825}{}{Non so come tu abbia fatto a sconfiggere quei bastardi dell'Enclave, ma sei sicuramente la persona piu' coraggiosa che abbia mai conosciuto.}
 {826}{}{Tim Cain? Si', e' uno dei miei clienti abituali.}
 {827}{}{Baciami, bestia distruggi-Enclave.}
-{828}{}{Ho sentito dire che i Fratelli ti stanno cercando. Vogliono girare un film basato sulla tua avventura.}
+{828}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
 {829}{}{Tim Cain ci manca. Faceva dell'ottimo pane. Adesso forse ci prenderebbe a schiaffi come dei bambini.}
 {830}{}{So di essere solo un PNG, ma mi ritengo profondamente offesa dal modo in cui vengono rappresentate le donne a New Reno.}
 {831}{}{Le donne di questa citta' sembra che siano state programmate da un qualche sfigato immaturo e affamato di sesso che vive nella cantina dei suoi genitori.}
 {832}{}{New Reno e' stata progettata da Chris Avellone e da Tom French. Sono entrambi degli DEI del sesso.}
 {833}{}{Feargus aveva un'espressione corrucciata quando ha visto quante linee di testo io abbia. Anche Ragfox non l'ha presa proprio benissimo dopo aver visto quante frasi aveva da tradurre. Sono proprio due brontoloni.}
 {834}{}{Mi stai dicendo che Locutus lavorava per l'Enclave? E pensare che gliel'ho data gratis!}
-
-# 14. [POWER ARMOR]
 {835}{}{Qualche donna deve averti proprio infranto il cuore per essere costretto a nasconderti in quella scatola di sardine. Lascia che ti aiuti.}
 {836}{}{Senti, Uomo di Latta, se vuoi che mi vesta da Dorothy o da Toto, dovrai pagare un extra.}
 {837}{}{Senti, amico, se vuoi farlo dovrai uscire da li'; il metallo fa male e lascia le cicatrici.}
 {838}{}{C'e' uno sportello, o per farti una sega devo aprirti come un barattolo di latta?}
 {839}{}{Se hai un'erezione li' dentro, non ti fa male?}
 {840}{}{Sembra proprio che tu abbia trovato il profilattico totale.}
-{841}{}{E' per caso un nuovo tipo di profilattico integrale?}
+{841}{}{E' un nuovo tipo di preservativo integrale, quello?}
 {842}{}{Le malattie veneree devono davvero farti paura per costringerti a entrare la' dentro.}
 {843}{}{Se vuoi che faccia sesso con te mentre indossi quella cosa, dovrai pagarmi un extra.}
 {844}{}{Se vuoi fare sesso, dovrai uscire da quel coso.}
 {845}{}{Il mio liquido vaginale fara' arrugginire quel coso?}
 {846}{}{Beh... okay. Ma per nessuna ragione al MONDO tu starai sopra.}
-{847}{}{Come diavolo ci vai al bagno quando indossi quella roba?}
+{847}{}{Come diavolo ci vai al bagno con quella roba addosso?}
 {848}{}{Mi servira' un apriscatole per tirarti fuori da li'?}
-{849}{}{E' per caso un nuovo tipo di vibratore?}
+{849}{}{E' un nuovo tipo di vibratore, quello?}
 {850}{}{Credo di aver visto la stessa scena in un anime, una volta.}
 {851}{}{Sei sicuro che non stai cercando un autolavaggio?}
 {852}{}{Senti, tesoro, dovrai uscire da li'; il metallo fa male e lascia le cicatrici.}
 {853}{}{Quello che stai indossando e' per caso un nuovo dispositivo di controllo delle nascite?}
-
-# 15. [FEMALE, PRIZEFIGHTER]
 {854}{}{Vuoi fare un salto sul ring con me, tesoro? Posso durare almeno 12 riprese.}
 {855}{}{Vuoi boxare, }
 {856}{}{Ragazza, sei una vera forza.}
@@ -721,26 +688,22 @@
 {862}{}{Che begli addominali.}
 {863}{}{Ehi... fa' attenzione al Masticatore. E' un vero stronzo. Una volta ha cercato di mordermi un orecchio.}
 {864}{}{Sei davvero sexy, ragazza, lo sai?}
-
-# 16. [MADE MAN]
 {865}{}{}
 {866}{}{Se cerchi un po' di compagnia per dopo...}
 {867}{}{}
 {868}{}{Salve, }
-{869}{}{Puoi mettere una buona parola con il capo per me?}
+{869}{}{Puo' mettere una buona parola con il boss per me?}
 {870}{}{Beh, che mi venga un colpo se quello non e' il crudele }
 {871}{}{Posso fare TUTTO cio' che vuoi... basta chiedere.}
-{872}{}{Puoi mettere una buona parola con il capo per me?}
+{872}{}{Puo' mettere una buona parola con il boss per me?}
 {873}{}{}
 {874}{}{Um, se cerca un po' di compagnia per dopo, signora...}
-
-# 17. [SCHIAVISTA]
 {875}{}{Il mio nome e' Facile, Schiavista. Qual e' il tuo?}
 {876}{}{Cerchi qualcuno che ti tiri il guinzaglio, Schiavista?}
 {877}{}{Perche' non mi porti nella tua gabbia, Schiavista?}
 {878}{}{Vuoi che scuota la tua gabbia, Schiavista?}
 {879}{}{Sei uno schiavista vivace, non e' vero?}
-{880}{}{Hai portato un fazzoletto?}
+{880}{}{Ti sei portato il tuo asciugamano?}
 {881}{}{Si', sono vere e, NO, non puoi controllare.}
 {882}{}{Vuoi lottare, cowboy?}
 {883}{}{Vuoi affondarmi con il tuo siluro rosa?}
@@ -752,7 +715,7 @@
 {889}{}{Cerchi un po' di compagnia?}
 {890}{}{Non puoi dire di aver fatto davvero l'amore prima di averlo fatto qui a Reno.}
 {891}{}{Vuoi un appuntamento?}
-{892}{}{No, nessuna prova gratuita.}
+{892}{}{No, niente assaggi gratuiti.}
 {893}{}{Ho sentito che c'e' stato qualche problema nella Zona Commerciale...}
 {894}{}{Cerchi compagnia?}
 {895}{}{L'unico sport che si vede a Reno ultimamente e' il Tonsill-Hockey...}
@@ -778,19 +741,19 @@
 {915}{}{Oh, salve, Mr. Tyler.}
 {916}{}{Se dopo vuoi che ti parli, devi pagarmi un extra.}
 {917}{}{Si', sono vere e, NO, non puoi controllare.}
-{918}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Strano.}
+{918}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Che roba.}
 {919}{}{[Canta] "Giochiamo - a padrone e serva. Giochiamo - a padrone e serva."}
 {920}{}{Vuoi giocare a padrone e serva, Schiavista?}
 {921}{}{Se dopo vuoi che rimanga sveglia, devi pagare un extra.}
 {922}{}{Vuoi andare la', oltre i limiti della lussuria?}
 {923}{}{Dimentica le slot machine. Il mio jackpot e' MOLTO piu' alto.}
 {924}{}{Non costo poco, ma sono speciale.}
-{925}{}{Mi puoi indossare come uno smoking di carne.}
-{926}{}{Se sei in cerca di un clitoride, baby, io ne ho uno.}
+{925}{}{Mi potrai indossare come uno smoking di carne.}
+{926}{}{Se stai cercando un clitoride, baby, io ne ho uno.}
 {927}{}{Bene, bene. Guardate chi e' arrivato in citta'...}
 {928}{}{Cerchi il Giardino dell'Eden? Vieni nella mia stanza.}
 {929}{}{Cerchi un po' di compagnia?}
-{930}{}{Quando sei in dubbio, tiralo fuori.}
+{930}{}{Se hai un dubbio, tiralo fuori.}
 {931}{}{Finalmente ho imbottito la testiera del letto.}
 {932}{}{Un assaggio del paradiso ti costera' dieci dollari.}
 {933}{}{Myron: Tutta cera. Niente stoppino.}
@@ -823,32 +786,32 @@
 {960}{}{Vorrei che si portasse dietro un sacchetto di carta.}
 {961}{}{Perche' non mi compri qualcosa da bere, Schiavista?}
 {962}{}{Cerchi una ragazza di citta', Schiavista?}
-{963}{}{Uh, ma certo che sono una donna. Non fare caso al pomo d'Adamo.}
-{964}{}{Ho sentito dire che alcune ragazze hanno ucciso il loro pappa.}
+{963}{}{Uh, certo che sono una donna. Non fare caso al pomo d'Adamo.}
+{964}{}{Mi hanno detto che alcune ragazze hanno ucciso il loro pappa.}
 {965}{}{Ehilaaaa', straniero.}
 {966}{}{Quel Jules fara' meglio a lasciarmi in pace.}
 {967}{}{Ho ancora la botta che mi sono fatta sbattendo contro la testiera del letto...}
 {968}{}{L'ultima raduno di schiavisti mi ha rivoltato come un calzino.}
-{969}{}{Preferirei che quel raduno si svolgesse da qualche altra parte.}
-{970}{}{Riusciresti a fondere il metallo, sai?}
+{969}{}{Vorrei tanto che l'Assemblea Generale si tenesse in un'altra citta'.}
+{970}{}{Potresti fondere il metallo, lo sai questo?}
 {971}{}{Ho sentito la terra muoversi, ma era solo il peperoncino.}
 {972}{}{Fammi sciogliere.}
 {973}{}{Sono una vergine. Non sono molto brava... puoi aiutarmi?}
 {974}{}{Ti serve una guida per la citta', Schiavista?}
 {975}{}{Whoa. QUELLO ti costera' qualcosa in piu'.}
 {976}{}{Jules vuole sempre degli assaggi gratuiti.}
-{977}{}{Ho sentito che le famiglie sono di nuovo nervose.}
+{977}{}{Ho sentito dire che le famiglie sono di nuovo nervose.}
 {978}{}{Gli affari non vanno tanto bene. Spero che quella carovana arrivi presto.}
 {979}{}{Allora lui si e' messo questo costume da Deathclaw e poi...}
 {980}{}{Ho bisogno di aiuto per togliermi questo vestito.}
 {981}{}{Potresti chiudermi la cerniera? E poi tirarla giu' di nuovo?}
-{982}{}{Scusa, dicevi? Ero troppo impegnata a fissare il tuo culo.}
+{982}{}{Scusa, dicevi? Ero troppo impegnata a guardarti il culo.}
 {983}{}{Vuoi perdere un po' di tempo?}
 {984}{}{Ti vuoi divertire un po'?}
-{985}{}{La scorsa settimana ho dato un calcio a Jules nei gioielli di famiglia.}
+{985}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {986}{}{Ti sei perso?}
 {987}{}{Non mi chiamano Miss Fortunella per niente.}
-{988}{}{Ma CERTO che adoro quei profilattici al gusto di brahmin. Yum.}
+{988}{}{E' NATURALE: io adoro quei profilattici al gusto di brahmin. Yum.}
 {989}{}{Hai voglia di far divertire una signora, Schiavista?}
 {990}{}{Vorrei tanto che qualcuno inventasse un placebo sessuale per Myron.}
 {991}{}{Vuoi un appuntamento, Schiavista?}
@@ -857,17 +820,17 @@
 {994}{}{Se c'hai il grano, Schiavista, lo famo strano.}
 {995}{}{Puoi aiutarmi? Sto cercando la mia verginita' perduta.}
 {996}{}{Sono vergine, ma ho bisogno di soldi.}
-{997}{}{Sii gentile: e' la mia prima volta. Oggi.}
+{997}{}{Cerca di fare piano: e' la mia prima volta. Oggi.}
 {998}{}{Sono cosi' eccitata.}
-{999}{}{Se c'hai il grano, lo famo strano.}
+{999}{}{Tu hai dei desideri e io so come accontentarli.}
 {1000}{}{Lascia che risvegli il bambino che e' in te.}
-{1001}{}{Faccio questo solo per pagarmi gli studi.}
+{1001}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1002}{}{Senti, per l'ultima volta, non voglio travestirmi da "Abitante del Vault".}
 {1003}{}{Cerchi un buco dove impiantare il paletto?}
 {1004}{}{Vuoi farmi urlare di piacere?}
 {1005}{}{::Purrrrr::}
 {1006}{}{::Rrrrrowrrr::}
-{1007}{}{Smettila di stuzzicarmi.}
+{1007}{}{Smettila di farmi il solletico.}
 {1008}{}{Sono in piedi da ieri notte...}
 {1009}{}{Facciamo finta di essere una coppia di deathclaw nella stagione degli amori, vuoi?}
 {1010}{}{Non costo poco, ma sono speciale.}
@@ -879,8 +842,8 @@
 {1016}{}{Cerchi un posto dove scaricare la tua cartuccia?}
 {1017}{}{Vorrei tanto che inventassero degli olii balsamici all'aroma di Jet...}
 {1018}{}{Vorresti aiutare una vergine a perdere la sua verginita'?}
-{1019}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.} #My ass is going to fall off, Myron keeps it up
-{1020}{}{Quella dannata Associazione Temperanza si e' fatta di nuovo viva...}
+{1019}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.}
+{1020}{}{Quella dannata Associazione Sobrieta' si e' fatta di nuovo viva...}
 {1021}{}{Tu fai ticchettare il mio contatore Geiger.}
 {1022}{}{::Fischia::}
 {1023}{}{I morsi sono un extra.}
@@ -890,7 +853,7 @@
 {1027}{}{Vorrei tanto che Nick Kesting fosse qui. Potremmo parlare per ore!}
 {1028}{}{Nick Kesting e' davvero un bravo ragazzo. Facciamo dei cosi' bei discorsi.}
 {1029}{}{Tommy the Balls e' magniFico.}
-{1030}{}{Mi bastano 50 dollari per farti gridare.}
+{1030}{}{Mi servono cinquanta dollari per farti gridare.}
 {1031}{}{Il mio nome e' Facile, ragazza-schiavista. Qual e' il tuo?}
 {1032}{}{Cerchi qualcuno che ti tiri il guinzaglio, ragazza-schiavista?}
 {1033}{}{Perche' non mi porti nella tua gabbia, ragazza-schiavista?}
@@ -910,14 +873,12 @@
 {1047}{}{Vuoi un appuntamento, ragazza-schiavista?}
 {1048}{}{E' qui la festa, ragazza-schiavista?}
 {1049}{}{Tu fai ticchettare il mio contatore Geiger, ragazza-schiavista.}
-
-# 18. [BONENOSE]
 {1050}{}{Il mio nome e' Facile. Qual e' il tuo?}
 {1051}{}{Siamo un po' vivaci, eh?}
 {1052}{}{Ti sei portato il tuo asciugamano?}
 {1053}{}{Si', SONO vere.}
 {1054}{}{Si', sono vere e, NO, non puoi controllare.}
-{1055}{}{Smamma, faccia da culo.}
+{1055}{}{Sparisci, merdaccia.}
 {1056}{}{Vuoi lottare, cowboy?}
 {1057}{}{Vuoi affondarmi con il tuo siluro rosa?}
 {1058}{}{Cerchi qualcuno che ti riscaldi la tenda?}
@@ -953,7 +914,7 @@
 {1088}{}{Ragazzo, faro' di te un uomo.}
 {1089}{}{Oh, salve, Mr. Tyler.}
 {1090}{}{Se dopo vuoi che ti parli, devi pagarmi un extra.}
-{1091}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Strano.}
+{1091}{}{Questo tizio, Fred Hatch, voleva sapere se c'erano "ragazze grosse" in citta'. Che roba.}
 {1092}{}{Il tuo amico con l'osso nel naso... gran bel gingillo.}
 {1093}{}{Il tuo amico con l'osso fa giochetti con il naso, per caso?}
 {1094}{}{Forse dovrei mettermelo anch'io un osso nel naso. Attirerei piu' clienti di sesso femminile.}
@@ -965,7 +926,7 @@
 {1100}{}{Il tuo amico con l'osso nel naso cerca di compensare qualcosa?}
 {1101}{}{Cerchi il Giardino dell'Eden? Vieni nella mia stanza.}
 {1102}{}{Cerchi un po' di compagnia?}
-{1103}{}{Quando hai un dubbio, tiralo fuori.}
+{1103}{}{Se hai un dubbio, tiralo fuori.}
 {1104}{}{Lascia che ti insegni delle cose che solo una donna puo' insegnare.}
 {1105}{}{Finalmente ho imbottito la testiera del letto.}
 {1106}{}{Un assaggio del paradiso ti costera' dieci dollari.}
@@ -997,11 +958,11 @@
 {1132}{}{Ho un'amica, se credi che due teste siano meglio di una.}
 {1133}{}{Vorrei tanto che Myron fosse gay.}
 {1134}{}{Ancora non so perche' la chiamino Virgin Street...}
-{1135}{}{Vorrei si portasse dietro un sacchetto di carta.}
-{1136}{}{Mi offri un drink?}
+{1135}{}{Vorrei che si portasse dietro un sacchetto di carta.}
+{1136}{}{Mi offri da bere?}
 {1137}{}{Cerchi una ragazza di citta'?}
-{1138}{}{Uh, certo che sono una donna. Non fare caso al mio pomo d'Adamo.}
-{1139}{}{Ho sentito che alcune ragazze hanno ucciso il loro pappa.}
+{1138}{}{Uh, certo che sono una donna. Non fare caso al pomo d'Adamo.}
+{1139}{}{Mi hanno detto che alcune ragazze hanno ucciso il loro pappa.}
 {1140}{}{Ehilaaaa', straniero.}
 {1141}{}{Quel Jules fara' meglio a lasciarmi in pace.}
 {1142}{}{Ho ancora la botta che mi sono fatta sbattendo contro la testiera del letto...}
@@ -1014,14 +975,14 @@
 {1149}{}{Ti serve una guida per la citta'?}
 {1150}{}{*Whoa*. Questo ti costera' un extra.}
 {1151}{}{Jules vuole sempre degli assaggi gratuiti.}
-{1152}{}{Ho sentito che le famiglie sono di nuovo nervose.}
+{1152}{}{Ho sentito dire che le famiglie sono di nuovo nervose.}
 {1153}{}{Gli affari non vanno tanto bene. Spero che quella carovana arrivi presto.}
 {1154}{}{Allora lui si e' messo questo costume da Deathclaw e poi...}
 {1155}{}{Ho bisogno di aiuto per togliermi questo vestito.}
 {1156}{}{Potresti chiudermi la cerniera? E poi tirarla giu' di nuovo?}
 {1157}{}{Scusa, dicevi? Ero troppo impegnata a guardarti il culo.}
 {1158}{}{Vuoi perdere un po' di tempo?}
-{1159}{}{La scorsa settimana ho dato un calcio a Jules nei gioielli di famiglia.}
+{1159}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {1160}{}{Non mi chiamano Miss Fortunella per niente.}
 {1161}{}{Certamente: io adoro quei profilattici al gusto di brahmin. Yum.}
 {1162}{}{Hai voglia di far divertire una signora?}
@@ -1033,11 +994,11 @@
 {1168}{}{Cerchi il Giardino dell'Eden? Vieni nella mia stanza.}
 {1169}{}{Puoi aiutarmi? Sto cercando la mia verginita' perduta.}
 {1170}{}{Sono vergine, ma ho bisogno di soldi.}
-{1171}{}{Sii gentile: e' la mia prima volta. Oggi.}
+{1171}{}{Cerca di fare piano: e' la mia prima volta. Oggi.}
 {1172}{}{Sono cosi' eccitata.}
-{1173}{}{Se c'hai il grano, lo famo strano.}
+{1173}{}{Tu hai dei desideri e io so come accontentarli.}
 {1174}{}{Lascia che risvegli il bambino che e' in te.}
-{1175}{}{Sto solo cercando di mettere via dei soldi per l'universita'.}
+{1175}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1176}{}{Vuoi ballare, dolcezza?}
 {1177}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault".}
 {1178}{}{Cerchi un buco dove impiantare il paletto?}
@@ -1056,7 +1017,7 @@
 {1191}{}{Cerchi un posto dove scaricare la tua cartuccia?}
 {1192}{}{Vorrei tanto che inventassero degli olii balsamici all'aroma di Jet...}
 {1193}{}{Vorresti aiutare una vergine a perdere la sua verginita'?}
-{1194}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.} #My ass is going to fall off, Myron keeps it up
+{1194}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.}
 {1195}{}{Quella dannata Associazione Sobrieta' si e' fatta di nuovo viva...}
 {1196}{}{Tu fai ticchettare il mio contatore Geiger.}
 {1197}{}{::Fischia::}
@@ -1067,7 +1028,7 @@
 {1202}{}{Vorrei tanto che Nick Kesting fosse qui. Potremmo parlare per ore!}
 {1203}{}{Nick Kesting e' davvero un bravo ragazzo. Facciamo dei cosi' bei discorsi.}
 {1204}{}{Tommy the Balls e' magniFico.}
-{1205}{}{Mi servono cinquanta dollari per farti urlare.}
+{1205}{}{Mi servono cinquanta dollari per farti gridare.}
 {1206}{}{Il mio nome e' Facile, ragazza. Qual e' il tuo?}
 {1207}{}{Ehi, carina. Cerchi la tua donna ideale?}
 {1208}{}{Vuoi assaggiare l'altra meta' del cielo, dolcezza?}
@@ -1085,8 +1046,6 @@
 {1220}{}{Ti serve una guida per la citta', zuccherino?}
 {1221}{}{E' qui la festa, ragazza?}
 {1222}{}{Tu hai i soldi, ragazza, e io il tempo.}
-
-# 19. [NO REP]
 {1223}{}{Il mio nome e' Facile. Qual e' il tuo?}
 {1224}{}{Siamo un po' vivaci, eh?}
 {1225}{}{Ti sei portato il tuo asciugamano?}
@@ -1196,7 +1155,7 @@
 {1329}{}{Potresti chiudermi la cerniera? E poi tirarla giu' di nuovo?}
 {1330}{}{Scusa, dicevi? Ero troppo impegnata a guardarti il culo.}
 {1331}{}{Vuoi perdere un po' di tempo?}
-{1332}{}{La scorsa settimana ho dato un calcio a Jules nei gioielli di famiglia.}
+{1332}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {1333}{}{Non mi chiamano Miss Fortunella per niente.}
 {1334}{}{E' NATURALE: io adoro quei profilattici al gusto di brahmin. Yum.}
 {1335}{}{Hai voglia di far divertire una signora?}
@@ -1210,9 +1169,9 @@
 {1343}{}{Sono vergine, ma ho bisogno di soldi.}
 {1344}{}{Cerca di fare piano: e' la mia prima volta. Oggi.}
 {1345}{}{Sono cosi' eccitata.}
-{1346}{}{Se c'hai il grano, lo famo strano.}
+{1346}{}{Tu hai dei desideri e io so come accontentarli.}
 {1347}{}{Lascia che risvegli il bambino che e' in te.}
-{1348}{}{Faccio questo lavoro solo per pagarmi l'universita'.}
+{1348}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1349}{}{Vuoi ballare, dolcezza?}
 {1350}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault".}
 {1351}{}{Cerchi un buco dove impiantare il paletto?}
@@ -1231,7 +1190,7 @@
 {1364}{}{Cerchi un posto dove scaricare la tua cartuccia?}
 {1365}{}{E' qui la festa?}
 {1366}{}{Vuoi che ti aiuti a perdere la tua verginita'?}
-{1367}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.} #My ass is going to fall off, Myron keeps it up
+{1367}{}{Myron ha qualche problema... una volta e' venuto non appena ho bussato alla sua porta.}
 {1368}{}{Quella dannata Associazione Sobrieta' si e' fatta di nuovo viva...}
 {1369}{}{Tu fai ticchettare il mio contatore Geiger.}
 {1370}{}{::Fischia::}
@@ -1260,44 +1219,9 @@
 {1393}{}{Cerchi un po' di divertimento, zuccherino?}
 {1394}{}{E' qui la festa, tesoro?}
 {1395}{}{Tu hai i soldi, ragazza, io il tempo.}
-
-# SPECIAL CAT'S PAW WHORE DIALOGS START
-# 0. QUICK LOOK
-{3100}{}{Vedi una delle ragazze del Cat's Paw.}
-
-# EXAMINES
-{3150}{}{Vedi una... signora della notte. Vestiti consunti le fasciano sensualmente il corpo.}
-{3151}{}{Vedi una delle ragazze del Cat's Paw. Ti fa l'occhiolino.}
-{3152}{}{Vedi una delle ragazze del Cat's Paw. I suoi occhi sembrano lampadine scoppiate.}
-{3153}{}{Vedi una delle ragazze del Cat's Paw. Profuma di fiori.}
-{3154}{}{Vedi una delle ragazze del Cat's Paw. Profuma di mamma.}
-{3155}{}{Vedi una delle ragazze del Cat's Paw. E' un mistero come i suoi stracci laceri riescano a contenere i suoi seni.}
-{3156}{}{Vedi una delle ragazze del Cat's Paw. Ha l'aspetto di una che uccide i suoi amanti e poi se li mangia.}
-{3157}{}{Vedi una delle ragazze del Cat's Paw. Ti sta valutando come fossi un gioiello.}
-{3158}{}{Vedi una delle ragazze del Cat's Paw. Vestiti consunti le fasciano sensualmente il corpo.}
-
-#1. SOME OTHER RANDOM FLOAT TEXT [ANY DISTANCE] (WTG)
-{3200}{}{Oddio! ODDIO! Oddioddioddio... ooooooddiiiiiiioooo.}
-{3201}{}{Si'! Si'! Siiiiiiiii' SiSiSiSi' SI' SI' SSSSSI'! Ecco, adesso puoi andare alla cassa.}
-{3202}{}{Sbrigati. Il tassametro corre.}
-{3203}{}{Ti serve una salviettina deumidificata?}
-{3204}{}{Fammi godere, Fr... Ni... Sco... uh, scusa, qual era il tuo nome?}
-{3205}{}{Ohdio, ohdio, ohdio! Abbiamo finito?}
-{3206}{}{Whoa. QUESTO ti costera' un extra.}
-{3207}{}{Si'! Tu sei Colombo, io l'America!}
-{3208}{}{Oh, Dio, sei stato il miglioooore. Ora levati dai piedi e va' a pagare alla cassa.}
-{3209}{}{Sei entrato?}
-{3210}{}{Si', tu SEI l'Abitante del Vault. Si', TU hai trovato il Water-Chip e hai sconfitto il MASTER. Sei un EROE.}
-{3211}{}{Sei cosi' rugoso, sembri una Power-Armor rinforzata.}
-{3212}{}{*Huff*}
-{3213}{}{*Puff*}
-{3214}{}{No, NON ho alcuna intenzione di indossare quelle orecchie da Topolino.}
-{3215}{}{Certo, certo... ce l'hai ENORME.}
-
-# END LINES
-{2175}{}{. Quello che ha fatto il culo all'Enclave.}
-{2178}{}{! Cosi' si fa!}
-{2181}{}{. Quello che ha fatto il culo all'Enclave.}
+{2175}{}{. Quella che ha fatto il culo all'Enclave.}
+{2178}{}{! Sei stato grande a spazzare via l'Enclave!}
+{2181}{}{. Quella che ha fatto il culo all'Enclave.}
 {2195}{}{!}
 {2197}{}{! Mi puoi dare un lavoro nel tuo studio?}
 {2210}{}{.}
@@ -1321,3 +1245,29 @@
 {2868}{}{. Posso aiutarti in... *qualsiasi* modo?}
 {2870}{}{.}
 {2873}{}{, piccola tentatrice... cos'hai fatto ultimamente?}
+{3100}{}{Vedi una delle ragazze del Cat's Paw.}
+{3150}{}{Vedi una... signora della notte. Vestiti consunti le fasciano sensualmente il corpo.}
+{3151}{}{Vedi una delle ragazze del Cat's Paw. Ti fa l'occhiolino.}
+{3152}{}{Vedi una delle ragazze del Cat's Paw. I suoi occhi sembrano lampadine scoppiate.}
+{3153}{}{Vedi una delle ragazze del Cat's Paw. Profuma di fiori.}
+{3154}{}{Vedi una delle ragazze del Cat's Paw. Profuma di mamma.}
+{3155}{}{Vedi una delle ragazze del Cat's Paw. E' un mistero come i suoi stracci laceri riescano a contenere i suoi seni.}
+{3156}{}{Vedi una delle ragazze del Cat's Paw. Ha l'aspetto di una che uccide i suoi amanti e poi se li mangia.}
+{3157}{}{Vedi una delle ragazze del Cat's Paw. Ti sta valutando come fossi un gioiello.}
+{3158}{}{Vedi una delle ragazze del Cat's Paw. Vestiti consunti le fasciano sensualmente il corpo.}
+{3200}{}{Oddio! ODDIO! Oddioddioddio... ooooooddiiiiiiioooo.}
+{3201}{}{Si'! Si'! Siiiiiiiii' SiSiSiSi' SI' SI' SSSSSI'! Ecco, adesso puoi andare alla cassa.}
+{3202}{}{Sbrigati. Il tassametro corre.}
+{3203}{}{Ti serve una salviettina deumidificata?}
+{3204}{}{Fammi godere, Fr... Ni... Sco... uh, scusa, qual era il tuo nome?}
+{3205}{}{Ohdio, ohdio, ohdio! Abbiamo finito?}
+{3206}{}{Whoa. QUESTO ti costera' un extra.}
+{3207}{}{Si'! Tu sei Colombo, io l'America!}
+{3208}{}{Oh, Dio, sei stato il miglioooore. Ora levati dai piedi e va' a pagare alla cassa.}
+{3209}{}{Sei entrato?}
+{3210}{}{Si', tu SEI l'Abitante del Vault. Si', TU hai trovato il Water-Chip e hai sconfitto il MASTER. Sei un EROE.}
+{3211}{}{Sei cosi' rugoso, sembri una Power-Armor rinforzata.}
+{3212}{}{*Huff*}
+{3213}{}{*Puff*}
+{3214}{}{No, NON ho alcuna intenzione di indossare quelle orecchie da Topolino.}
+{3215}{}{Certo, certo... ce l'hai ENORME.}

@@ -1,18 +1,11 @@
-# 0. Look Primitive
 {100}{}{Vedi un uomo grosso, dall'aspetto primitivo.}
 {125}{}{Ha tagli ed escoriazioni su tutto il corpo.}
-
 {150}{}{Vedi un'esile donna primitiva.}
 {175}{}{Sembra che sia stata picchiata.}
-
-# 1. Look Nomad
 {200}{}{Vedi un uomo dall'aspetto rozzo.}
 {225}{}{Non sembra molto in salute.}
-
 {250}{}{Vedi una donna prigioniera.}
 {275}{}{E' sporca e sembra essere malnutrita.}
-
-# 2. CF: Freed
 {300}{}{No fare male, prego!}
 {301}{}{Noi andare ora?}
 {302}{}{No parlare. Me deve correre.}
@@ -21,8 +14,6 @@
 {305}{}{Sei un santo.}
 {306}{}{Cosa state facendo? Andiamo.}
 {307}{}{Ti prego, aiutaci a scappare.}
-
-# 3. CF: PC is Slaver
 {320}{}{Tu cattivo!}
 {321}{}{Noi no parlare te.}
 {322}{}{Noi essere liberi.}
@@ -36,9 +27,7 @@
 {330}{}{Cos'abbiamo fatto di male?}
 {331}{}{Lasciaci in pace, schiavista!}
 {332}{}{Non farmi male!}
-{333}{}{Sta' lontano da me!}
-
-# 4. CF: PC is Not Slaver
+{333}{}{Stammi lontano!}
 {350}{}{Chi tu?}
 {351}{}{Tu no schiavista.}
 {352}{}{Tu no fare male?}
@@ -50,8 +39,6 @@
 {358}{}{Chi si credono di essere quelle persone?}
 {359}{}{Ti prego, aiutaci!}
 {360}{}{Fammi uscire da qui.}
-
-# 5. BGF: Not Free
 {380}{}{Tu no tenere noi qui!}
 {381}{}{No essere giusto!}
 {382}{}{Noi no cattivi!}
@@ -88,8 +75,6 @@
 {413}{}{Aiuto! Non abbandonarci!}
 {414}{}{Cosa sono stati quegli spari?}
 {415}{}{Cosa sta succedendo?}
-
-# 7. BGF: Fleeing
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{No fermare!}
@@ -97,39 +82,27 @@
 {424}{}{Me ne andro' il piu' lontano possibile da questo posto.}
 {425}{}{Muovetevi!}
 {426}{}{Liberi! Liberi, finalmente!}
-
-# 8. Metzger is Dead (From Where to go)
 {440}{}{Cosa essere stati forti tuoni di pistola? Cosa tu volere?}
 {441}{}{Ehi! Cos'erano tutti quegli spari? Gli schiavisti sono morti?}
 {442}{}{Ehi! Cos'erano tutti quegli spari? Cosa sta succedendo?}
-{443}{}{Quello era l'ultimo discorso tenuto da Metzger.} ###???That was Metzger's nightcap
+{443}{}{Quello era l'ultimo discorso tenuto da Metzger.}
 {444}{}{Oh, nulla. Sono solo venuto a controllarvi. Ciao.}
 {445}{}{Siete liberi d'andare. Metzger e' morto.}
 {446}{}{Voi liberi.}
 {447}{}{ amico. Lui ucciso Mezgur. Voi andare ora.}
 {448}{}{ amica. Lei ucciso Mezgur. Voi andare ora.}
-
-# 9. Metzger is Dead (From 8)
 {460}{}{Lui morto? Me grazie! Noi scappare veloci. Ciao. Tu amico.}
 {461}{}{Cosa? Metzger e' morto? Oh, grazie di cuore! Faremo meglio ad andarcene prima che altri schiavisti si facciano vivi. Grazie ancora.}
 {462}{}{Di nulla. Adesso andatevene da qui.}
 {463}{}{In bocca al lupo.}
 {464}{}{Di nulla.}
-
-# 10. Metzger Dead, Next Times (From Where to go)
 {480}{}{Cosa tu volere?}
 {481}{}{Cosa vuoi?}
 {482}{}{Oh, nulla.}
-
-# 11. Bullet (From 8)
 {500}{}{Eh?}
 {501}{}{Come non detto. Siete liberi di andare. Metzger e' morto.}
-
-# 12. You Free (From 8)
 {510}{}{Cosa? Liberi? Uomi cattivi andati? Noi andare ora! Grazie. Tu amico! Ciao!}
 {511}{}{Liberi? Cosa? Li hai uccisi tutti? Grazie di cuore! Faremo meglio ad andarcene finche' possiamo. Grazie ancora, sei un santo!}
-
-# 13. NPC Sold to Slavery (From WTG)
 {520}{}{Dannato!}
 {521}{}{Brucia all'inferno!}
 {522}{}{La pagherai per questo.}
@@ -146,8 +119,6 @@
 {533}{}{Lasciami in pace.}
 {534}{}{Assolutamente no.}
 {535}{}{Credi che questo migliori le cose?}
-
-# 6. BGF: Just Freed
 {600}{}{Noi andare?}
 {601}{}{No fare male?}
 {602}{}{Via!}
@@ -160,5 +131,4 @@
 {609}{}{Andiamo!}
 {610}{}{Gioite tutti! Siamo liberi!}
 {611}{}{Yaaahooo!}
-
 {700}{}{Hai liberato gli schiavi dai loro recinti.}

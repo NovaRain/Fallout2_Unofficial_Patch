@@ -1,1 +1,1 @@
-{100}{}{Ricevi una dose di radiazioni.}x
+{100}{}{Ricevi una dose di radiazioni.}

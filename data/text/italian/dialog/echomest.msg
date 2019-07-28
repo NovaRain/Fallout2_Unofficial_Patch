@@ -1,9 +1,9 @@
 {100}{}{Vedi un uomo magro e abbronzato.}
-{101}{}{Vedi un contadino.}
+{101}{}{Vedi una contadina.}
 {102}{}{Noti che ha la tipica abbronzatura da contadino.}
 {103}{}{Sei arrivato giusto in tempo. Se tu non fossi arrivato qui in quel momento... Beh, preferisco non pensarci e ringraziare il cielo che tu sia arrivato. Non abbiamo molto, ma vorremmo accettassi questo, come ringraziamento per averci aiutato. [Ti porge qualcosa]}
 {104}{}{Grazie.}
-{105}{}{Ug}
+{105}{}{Urg!}
 {106}{}{Grazie ancora per averci aiutato.}
 {107}{}{}
 {108}{}{}
@@ -18,7 +18,7 @@
 {117}{}{Ho detto sparisci!}
 {118}{}{}
 {119}{}{[Si rilassa un po'.] Sei troppo stupido per essere un bandito. Hai bisogno di provviste??}
-{120}{}{Uh huh.}
+{120}{}{Ah-a.}
 {121}{}{Eh eh.}
 {122}{}{Allora vuol dire che non abbiamo niente da discutere. Adesso puoi anche andartene.}
 {123}{}{[FINE]}

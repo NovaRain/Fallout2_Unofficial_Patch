@@ -1,1 +1,1 @@
-{100}{}{Hai trovato una stanza segreta nella miniera.}x
+{100}{}{Hai trovato una stanza segreta nella miniera.}

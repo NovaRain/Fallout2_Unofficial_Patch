@@ -1,4 +1,3 @@
-# Dialog Editor last position: 25
 {100}{}{Egy szerencsétlen emberi roncsot látsz.}
 {101}{}{Még mindig egy szerencsétlen emberi roncsot nézel.}
 {102}{}{Ez egy nagyon-nagyon szerencsétlen emberi roncs. Miért bámulod?}
@@ -11,18 +10,16 @@
 {109}{}{Ne szólj hozzám! Nem akarok egy újabb verést.}
 {110}{}{A rabszolgaság csak az elme szüleménye. Szerinted te valóban szabad vagy? }
 {111}{}{Többet ne! Kérlek, nem bírom a fájdalmat!}
-{112}{}{Ne gyere közel hozzám!}
+{112}{}{Hagyj békén!}
 {113}{}{Szörnyeteg! A te fajtád tette ezt velem!}
-{114}{}{A Mindenható ítélete sújtson le rád!}
+{114}{}{The judgment of the Almighty shall fall upon you!}
 {115}{}{Minden szavadnak engedelmeskedem.}
 {116}{}{A szelídek öröklik a földet.}
-# 116 Bibliai szöveg
-
 {117}{}{Jó leszek. Jó rabszolga vagyok.}
 {118}{}{Szabadság! Édes, áldott szabadság!}
 {119}{}{Nézd, mit tettél! Tönkretetted az életem!}
 {120}{}{Nem állhatok meg! Rohanni kell! Nem hagyhatom, hogy elkapjanak.}
-{121}{}{Francba! Nekem harangoztak... levadásznak és megölnek.}
+{121}{}{Shit! I'm doomed - they're gonna hunt me down and kill me.}
 {122}{}{Hova menjek most? Mit fogok én csinálni? }
 {123}{}{Nagyon köszönöm. Megyek rabszolga-hajcsár vért csapolni.}
 {124}{}{El se hiszem! Szabad vagyok!}

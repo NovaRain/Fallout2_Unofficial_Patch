@@ -1,1 +1,1 @@
-{100}{}{Hai recuperato il motivatore per K-9.}{
+{100}{}{Hai recuperato il motivatore di K-9.}

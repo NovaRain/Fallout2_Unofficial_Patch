@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy magas férfit látsz, hatalmas, idétlen formájú pocakkal.}
 {101}{}{Hakeswillt, a Morningstar Bánya dolgozóját látod.}
 {102}{}{Ennek a férfinek beteges színû a bõre, nyakát sebhely övezi, és jókora hasa van.}

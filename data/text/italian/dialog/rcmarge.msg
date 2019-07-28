@@ -13,7 +13,7 @@
 {112}{}{Certo, beh, mi dispiace. Ma non si puo' accontentare tutti allo stesso tempo.}
 {113}{}{Mi fa sempre piacere accettare un lavoro che paga bene. Lascia che ti chieda qualcos'altro.}
 {114}{}{Come facevi a sapere che avevo il chip per la scavatrice?}
-{115}{}{Quanto saresti disposta a darmi?}
+{115}{}{Quanto vale per te?}
 {116}{}{Se ce l'avessi, tu saresti una delle prime a saperlo.}
 {117}{}{Credo che adesso me ne andro'. Ci vediamo.}
 {118}{}{Ehi, grazie per aver sedato quella rissa. A volte i miei minatori oltrepassano la misura, ma sono gente per bene... quando non sono pieni di Jet.}
@@ -26,7 +26,7 @@
 {125}{}{Stavo solo passando di qua. E credo che me ne andro' subito. Addio.}
 {126}{}{Ehila'. Io sono Marge. Marge LeBarge, e gestisco questa miniera. }
 {127}{}{Cosa puo' fare Marge per te?}
-{128}{}{Che cosa estraete nella vostra miniera?}
+{128}{}{Che cosa estraete qui?}
 {129}{}{Hai mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
 {130}{}{Sei nata e cresciuta a Redding?}
 {131}{}{Cosa si dice in giro?}
@@ -38,18 +38,18 @@
 {137}{}{Capisco. Grazie. Questo e' tutto cio' che mi serve sapere, per adesso. Ci vediamo.}
 {138}{}{Certamente. A tutti piace l'oro. Dovresti parlare con il nostro carovaniere mastro, James Hoffy, se desideri davvero saperne di piu'.}
 {139}{}{Lascia che ti chieda qualcos'altro.}
-{140}{}{Grazie, lo faro'. Ci vediamo.}
+{140}{}{Grazie, lo faro'. Arrivederci.}
 {141}{}{Un Kit di Creazione del Giardino dell'Eden, eh? Sembra essere una cosa piuttosto importante. Se avessi una cosa del genere di sicuro non mi troveresti qui a scavare nel fango per far quadrare i conti, non trovi?}
 {142}{}{Credo tu abbia ragione. Lascia che ti chieda qualcos'altro.}
 {143}{}{Era solo una domanda. Ci vediamo.}
 {144}{}{Cavolo, no! Sono nata molto a nord di qui. Proprio sulle rive di un lago. Il Lago LeBarge, per l'esattezza.}
 {145}{}{Mai sentito nominare. Lascia che ti chieda qualcos'altro.}
 {146}{}{Non male. Forse un giorno potrei anche andare a cercarlo, quel posto. Ci vediamo.}
-{147}{}{Le solite voci.} ###???
+{147}{}{Le solite voci.}
 {148}{}{Beh, in giro ci sono sempre le solite voci... ma io avrei da proporti un lavoro.}
 {149}{}{Ne riparleremo un'altra volta. Adesso lascia che ti chieda qualcos'altro.}
 {150}{}{Parlami di queste voci.}
-{151}{}{Di che si tratta?}
+{151}{}{Di cosa si tratta?}
 {152}{}{Capisco. Mi spiace, ma adesso sono troppo occupato. Ci vediamo.}
 {153}{}{Giu' nella miniera ho una vecchia macchina scavatrice. Il problema e' che il suo chip di controllo non funziona piu'. Me ne serve uno nuovo, se voglio allargare il giro dei miei affari.}
 {154}{}{Interessante, ma io che c'entro?}
@@ -74,13 +74,13 @@
 {173}{}{Mi piacerebbe molto saperne di piu', ma devo scappare. Ci vediamo.}
 {174}{}{Beh, una delle voci che circola con piu' insistenza e' quella che vorrebbe Vault City pronta ad occupare Redding per assicurarsi tutto il suo oro. Secondo un'altra voce pare che una delle famiglie di New Reno stia cercando di rendere tutti gli abitanti di Redding dipendenti dalla sua droga, cosi' da poter prendere possesso della citta'. C'e' chi dice addirittura che anche NCR vorrebbe annetterci. Ti dico una cosa: NCR sarebbe la cosa migliore per noi - ma la verita' e' che sono tutti in cerca del nostro oro. Per il momento, Redding e' ancora indipendente.}
 {175}{}{E le altre voci di che parlano?}
-{176}{}{Credo sia tutto quello che volevo sapere, per il momento. Ci vediamo.}
+{176}{}{Credo sia tutto, per ora. Arrivederci.}
 {177}{}{Un Wanamingo e' semplicemente il piu' irritabile essere che esista al mondo. Alto come due uomini, piu' forte di un brahmin maschio e con delle ventose penzolanti al posto delle braccia. E i proiettili non gli fanno un graffio. Sembra che siano stati gli indiani a chiamarli cosi', per vendicarsi dell'uomo bianco, colpevole di aver provocato la guerra. Non do molto peso a questa storia, comunque.}
 {178}{}{E le altre voci di che parlano?}
-{179}{}{Credo sia tutto quello che volevo sapere, per il momento. Ci vediamo.}
+{179}{}{Credo sia tutto, per ora. Arrivederci.}
 {180}{}{Oh, certo. Qualche tempo fa, un paio dei miei minatori si stavano facendo un voletto - sul Jet, se capisci a cosa mi riferisco. Giurano sulle loro teste marce di aver visto un velivolo che volava qua sopra, diretto a sudovest.}
 {181}{}{E le altre voci di che parlano?}
-{182}{}{Credo sia tutto quello che volevo sapere, per il momento. Ci vediamo.}
+{182}{}{Credo sia tutto, per ora. Arrivederci.}
 {183}{}{Beh, Dan e i suoi ragazzi della Morningstar sono in combutta con quei mafiosi di New Reno. Credo che tra non molto Redding diventera' un quartiere di drogati di Jet.}
 {184}{}{Non e' che mi interessi molto. Parliamo di qualcos'altro.}
 {185}{}{Oh, beh... Ci vediamo.}
@@ -95,7 +95,7 @@
 {194}{}{Hai fatto la cosa giusta. Grazie. Mi occupero' subito di sistemare questo chip, in modo tale da rimettere al piu' presto in funzione la nostra macchina scavatrice.}
 {195}{}{Ottimo. Ehi, prima lascia che ti chieda qualcos'altro.}
 {196}{}{Grazie dei soldi. Addio.}
-{197}{}{Davvero? Gee, grazie. Una sensazione di benessere ha invaso improvvisamente il mio corpo. Che cosa vuoi?} ###???I'm getting all warm and cuddly feeling inside
+{197}{}{Davvero? Gee, grazie. Una sensazione di benessere ha invaso improvvisamente il mio corpo. Che cosa vuoi?}
 {198}{}{Vorrei farti qualche domanda.}
 {199}{}{Nulla. Stavo solo dando un'occhiata in giro. Arrivederci.}
 {200}{}{E come dovrebbe chiamarsi? In realta', non so nemmeno io da dove venga questo nome. Credo che si sia sempre chiamata cosi'. Il suono di questo nome ha un qualcosa di romantico, non trovi? Ko-ko-weef. Si', mi piace ancora.}

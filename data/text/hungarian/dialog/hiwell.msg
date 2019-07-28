@@ -1,6 +1,8 @@
 {100}{}{Broken Hills városi kútja.}
-{101}{}{A kút lazán egymásra rakott, törött téglákból épült. Dohos, áporodott levegõ száll fel belõle.}
-{102}{}{Annak tudatában, amit Typhon mondott a kincs rejtekhelyérõl, azaz valami "nélkülözhetetlen" és "amit biztosan nem bontanak le, vagy tesz tönkre az idõ", alaposan átkutatod a városi kutat. Néhány méter mélyen egy a falból kiálló téglára leszel figyelmes.}
+{101}{}{The town well is built with cracked and loose bricks. A dank, musty odor emanates from below.}
+{102}{}{Remembering what Typhon said about hiding the treasure somewhere "indispensable" and "that
+ wasn't likely to be torn down or plowed over", you make a thorough check of the old well. A few feet
+ down on the inside, you notice one brick jutting out substantially from the rest of the wall.}
 {103}{}{Kinccs! Kincsecske!}
 {104}{}{Bingo! Hamarosan gazdag leszek!}
 {105}{}{Óvatosan kihúzod a mozgó téglát a falból, és a sötétségbe meredsz a megérdemelt zsákmány reményében.}
@@ -50,7 +52,8 @@
 {149}{}{Hé... figyu! Van itt valami nagy soklábú izé, amire nem vagyok túlzottan kiváncsi. Nem sietnél egy kicsit?}
 {150}{}{Typhonnak tudnia kellett, hogy az üvegkupakok manapság semmit sem érnek, vagy mégsem?}
 {151}{}{ATYAISTEN! Ez rámmászik! SEGÍTSÉG!}
-{152}{}{Tudod, azért jó rágondolni, hogy az öreg talán segíteni akart. Talán nem kellene olyan szigorúnak lennem vele. ::sóhaj:: Hát, ennyit a kincsrõl. Azt hiszem, van jobb dolgom is.}
+{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
+ shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
 {153}{}{::Nyüssz::}
 {154}{}{Nem foglalkozom többet ezzel a kúttal.}
 {155}{}{Hmmmm... úgy érzem, valamit elfelejtettem a kúttal kapcsoltaban. Na, mindegy, nincs több vesztegetni való idõm.}

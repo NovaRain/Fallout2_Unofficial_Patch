@@ -1,19 +1,18 @@
-# Dialog Editor last position: 1
 {100}{}{Egy fémpáncélt viselõ férfit látsz.}
 {101}{}{Õ Matthew.}
-{102}{}{Egy fémpáncélt viselõ férfit látsz. A mellkasát egy villám alakú jel díszíti.}
+{102}{}{Egy fémpáncélt viselõ férfit látsz, a mellén villám-mintájú jelzés díszlik.}
 {103}{}{Helló,}
 {104}{}{. Mit tehetek érted?}
 {105}{}{Válaszolja kérdésekre?}
 {106}{}{Semmitse. Én jönni vissza késõbb.}
 {107}{}{Kezdhetnéd azzal, hogy válaszolsz néhány kérdésemre.}
-{108}{}{Most semmiben. Késõbb még jövök.}
+{108}{}{Nothing for now. I'll come back later.}
 {109}{}{Azt hiszem, megérdemled a válaszokat a kérdéseidre.}
-{110}{}{Miben segíthetnék?}
+{110}{}{Miben segíthetek?}
 {111}{}{Ti vagy kik?}
 {112}{}{Mér' említ soha benneteket senkise?}
 {113}{}{Mér' van itten egy ember csak?}
-{114}{}{Én most menni.}
+{114}{}{Én menni mostan.}
 {115}{}{Ti kik vagytok?}
 {116}{}{Miért van az, hogy rólatok senki nem beszél itt?}
 {117}{}{Miért csak egy ember áll itt?}
@@ -28,7 +27,7 @@
 {126}{}{A mai napig bezárólag újraaktiváltunk néhány apró elõörsöt az Enklávés területek közelében. Ezekrõl a helyekrõl biztonságban megfigyelhetjük õket. Jelenleg Rejtekben, az ÚKK-ban és itt San Franciscóban vannak ilyen elõörseink.}
 {127}{}{Mit tudni?}
 {128}{}{Érdekesen hangzik, mondhatom. Mit tudtatok meg róluk?}
-{129}{}{Rájöttünk, hogy az Enklávé kemény drogokkal, fegyverekkel, rabszolgákkal foglalkozik. Persze e triviális dolgok mögött valami magasabb cél sejthetõ, amirõl egyelõre nincs tudomásunk. Annyit tehetünk, hogy tovább figyeljük õket.}
+{129}{}{We have found that the Enclave deals heavily in drugs, weapons, and slaves. However, these are simply trivial pursuits leading up to some higher purpose, which we have failed to uncover. We are still watching them.}
 {130}{}{Miért mondani eztet el?}
 {131}{}{Mielõtt továbbmennénk, miért mondod el ezt nekem?}
 {132}{}{(sóhajt) Az Enklávé kifejlesztette a Gépmadár technológiáját. Repülõ gépezetekrõl van szó, melyek lehetõvé teszik számukra, hogy mélyen behatoljanak különféle területekre. Hasonló technológia nélkül a Testvériség képtelen lenne egy Enklávé által indított támadás kivédésére. Meg kell szereznünk a gépmadár technológiáját illetve egy vele egyenértékû eszközét.}
@@ -38,19 +37,19 @@
 {136}{}{Egész õszinte leszek,}
 {137}{}{. Az Acél Testvérisége nem képvisel olyan jelentõs erõt, mint egykor. Az emberiség technológiájának egyedüli forrásának hittük magunkat. Biztosak lévén e hitünkben az évek során hagytuk elsorvadni a rendünket. Jelen pillanatban nincsenek meg a szükséges források, hogy az Enklávéval elbánjunk. Szükségünk van a segítségedre.}
 {138}{}{A következõ ajánlatot teszem. Ha végrehajtod számomra ezt a küldetést, hozzáférést biztosítok a berendezéseinkhez. A Testvériség legjobb eszközeit a saját belátásod szerint használhatod. Mit mondasz rá?}
-{139}{}{Én gondolkodja.}
-{140}{}{Nem-nem. Én menni innen.}
-{141}{}{Fenébe! Én tenni meg.}
-{142}{}{Gondolkodom még rajta.}
+{139}{}{Én gondolkodni.}
+{140}{}{Nem a! Én menni elfele.}
+{141}{}{Fenébe! Menek odafele...}
+{142}{}{Még gondolkozom rajta.}
 {143}{}{Szó sem lehet róla! Keress magadnak egy másik balekot!}
 {144}{}{A fenébe is! Biztos meghülyültem, de megcsinálom!}
 {145}{}{Megértem, hogy gondolkodási idõt kérsz. Gyere vissza, ha döntöttél!}
-{146}{}{Rendben, viszlát!}
-{147}{}{Rendbe', de kérdezni még.}
-{148}{}{Rendben. Késõbb találkozunk.}
-{149}{}{Rendben, de még szeretnék néhány dolgot tisztázni.}
+{146}{}{Oké. Viszlát!}
+{147}{}{Oké, de kérdezni még.}
+{148}{}{Rendben, viszlát!}
+{149}{}{Rendben, de még kérdeznék néhány dolgot.}
 {150}{}{Megértem, hogy habozol egy ilyen küldetés elfogadása elõtt. Ha úgy döntesz, elvállalod, kérlek, tudasd velem!}
-{151}{}{Rendben, viszlát!}
+{151}{}{Oké. Viszlát!}
 {152}{}{Oké, de kérdezni még.}
 {153}{}{Rendben, viszlát!}
 {154}{}{Rendben, de még kérdeznék néhány dolgot.}
@@ -60,8 +59,8 @@
 {158}{}{Rendben, de... mégis hogyan lennék én képes bejutni oda? Végül is egy katonai bázisról van szó!}
 {159}{}{Remek. Megyek és a végére járok.}
 {160}{}{Ha sikeresen teljesítetted a küldetésed, engedélyt adok, hogy használd az itteni berendezéseket. A legjobb lenne, ha mihamarabb elindulnál. Köszönöm,}
-{161}{}{.}
-{162}{}{Rendben. Viszlát!}
+{161}{}{ vagyok.}
+{162}{}{Oké. Viszlát!}
 {163}{}{Hogyne, én viszont kérdezni még.}
 {164}{}{Igen, viszlát késõbb.}
 {165}{}{Mi sem természetesebb, de addig is kérdeznék még egy s mást.}
@@ -93,8 +92,8 @@
 {191}{}{Hát akkor csak dolgozgass rajta. Tudom, hogy ez egy nehéz küldetés, de te simán megcsinálod.}
 {192}{}{Oké.}
 {193}{}{Kiváló munka volt! Hadd nézzem a terveket, gyorsan lemásolom! Ahogy megígértem, a berendezéseinket szabadon használhatod. Köszönet!}
-{194}{}{Nem tegye semmit.}
-{195}{}{Nem tesz semmit.}
+{194}{}{Szívesen.}
+{195}{}{Szóra sem érdemes.}
 {196}{}{Navarro viszonylag új település, de még nincs teljesen ellátva személyzettel. A forrásaim azt mondják, hogy idõrõl-idõre fel szoktak venni újoncokat. Talán kiadhatnád magad egy újoncnak. Ezt tudnám ajánlani.}
 {197}{}{Navarro viszonylag új település, de még nincs teljesen ellátva személyzettel. A forrásaim azt mondják, hogy idõrõl-idõre fel szoktak venni újoncokat. Talán, ha egyedül lennél, kiadhatnád magad újoncnak. Ezt tudnám ajánlani. A barátaid esetleg itt megvárnának.}
 {198}{}{Oké.}
@@ -106,9 +105,9 @@
 {204}{}{Én lenni elõvigyázhattos, kösssz.}
 {205}{}{Elõvigyázatos leszek. Köszi.}
 {206}{}{Újra csak megköszönni tudom, hogy segítettél. Amint azt tudod, szabadon használhatod a berendezéseinket.}
-{207}{}{Az egy magániroda!}
-{208}{}{Ott neked semmi dolgod!}
-{209}{}{Ez magántulajdon, szóval haladjunk tovább...}
+{207}{}{Ez egy privát iroda.}
+{208}{}{Semmi keresnivalód odabent!}
+{209}{}{Ez itt magántulajdon, szóval lehet továbbállni!}
 {210}{}{Honnan tudod, ki vagyok?}
 {211}{}{Hogyhogy tudol engem?}
 {212}{}{Mi nagyon sok dolgot tudunk.}

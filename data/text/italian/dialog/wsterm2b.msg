@@ -9,14 +9,14 @@
 {108}{}{Disabilita Campi di Forza}
 {109}{}{Leggi posta}
 {110}{}{Esci}
-{111}{}{[Non ha importanza quanto impegno tu ci metta, ma queste righe piene di ghirigori non significano proprio nulla per te.]} ###???No matter how you try, the squiggly lines don't make sense to you
+{111}{}{[Non ha importanza quanto impegno tu ci metta, ma queste righe piene di ghirigori non significano proprio nulla per te.]}
 {112}{}{Disabilitare Piastrelle Elettrificate                            Prego inserire password:}
 {113}{}{Viola il sistema di sicurezza}
 {114}{}{Prova ad indovinare la password}
 {115}{}{Ritorna al Menu Principale}
 {116}{}{Esci}
 {117}{}{[Questo programma e' troppo complesso da capire per te.]}
-{118}{}{Ritorna al Menu Principale.}
+{118}{}{Ritorna al Menu Principale}
 {119}{}{Esci}
 {120}{}{[Riesci a bypassare la password e a disattivare le Piastrelle Elettrificate.]}
 {121}{}{Ritorna al Menu Principale}
@@ -48,12 +48,12 @@
 {147}{}{Esci}
 {148}{}{[Senti un leggero ronzio mentre del fumo comincia ad uscire dal terminale del computer. Ti sposti e osservi la tastiera sciogliersi in un mucchio di gelatina. Uhm... doveva trattarsi di uno dei quei virus dei quali hai sentito parlare.]}
 {149}{}{Esci}
-{150}{}{Qui e' Klinger dell'8063simo. Abbiamo disperato bisogno del componente numero 102-53B.  Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Me lo invii il piu' presto possibile.} ###???Get back to me ASAP
+{150}{}{Qui e' Klinger dell'8063simo. Abbiamo disperato bisogno del componente numero 102-53B.  Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Me lo invii il piu' presto possibile.}
 {151}{}{Leggi altra posta}
 {152}{}{Esci}
 {153}{}{[Che fortuna incredibile! Sei riuscito ad azzeccare la password corretta. "Tettone"]                                       Disattivazione Piastrelle Elettrificate in corso}
 {154}{}{Ritorna al Menu Principale}
-{155}{}{Exit}
+{155}{}{Esci}
 {156}{}{[Fai svariati tentativi, ma non riesci ad indovinare la password.]}
 {157}{}{Ritorna al Menu Principale}
 {158}{}{Esci}
@@ -65,9 +65,6 @@
 {164}{}{Esci}
 {165}{}{[In qualche modo il tuo armeggiare ha provocato l'esplosione del terminale.]}
 {166}{}{Esci}
-
 {200}{}{[Questo terminale non e' piu' operativo.]}
-
-{300}{}{Hai disattivato le piastrelle elettrificate.}
-
-{400}{}{Computer in modalita' diagnostica. Attendere fino a quando la procedura e' completata.}
+{300}{}{Hai disattivato le piastre elettriche.}
+{400}{}{Il computer e' in modalita' diagnostica. Attendere il completamento della sequenza diagnostica.}

@@ -1,2 +1,2 @@
 {100}{}{Egy kijáratot látsz.}
-{101}{}{Ezek az izék nagy nyomot hagytak. Nem lesz nehéz õket visszakövetni a fészkükhöz. (Kijárat észak-keleten)}
+{101}{}{These things left some big tracks. It shouldn't be hard to track them back to their nest. (Exit Grid to the North-East)}

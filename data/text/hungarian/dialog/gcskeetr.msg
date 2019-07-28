@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez a ghoul egy ósdi, olajos öltözéket visel.}
 {101}{}{Õ Skeeter, a Ghoul mûszerész.}
 {102}{}{Egy szurtos, de intelligens kinézetû ghoulhoz van szerencséd. Olajos overallt visel, a zsebébõl pedig egy mikrométer kandikál elõ.}
@@ -22,7 +21,8 @@
 {160}{}{Nagyszerû! Hoztál nekem egy plazma szabályzót. Köszönöm. Ezért cserébe ingyen megcsinálok neked ezt-azt. Mihez fogjak hozzá? Elmondom, mi mennyibe került volna, de ez itt már ki van fizetve.}
 {161}{}{Nézzük, mit bütykölhetnél meg.}
 {162}{}{Szerintem most késõbbre marad egy-két dolog. Viszlát!}
-{170}{}{Kösz, hogy megcsináltad az atomreaktort. Tényleg ideje volt már megpiszkálni. Én megmutattam volna nekik, hogyan kell, de nem bíznak bennem. Mostanában az az idióta, nagyszájú Festus csinál mindent.}
+{170}{}{Thanks for fixin' up our atomic reactor. It shore needed some work. I woulda show'd 'em how, but
+ they don't trust me in there anymore. They got that idjit loudmouth Festus doin' all the work now. }
 {171}{}{Nos, örültem, hogy segíthettem. Most azonban szükségem van valami másra.}
 {172}{}{Hát biztosan sokkal jobb lett volna, ha engednek téged hozzányúlni és megcsinálni. A lényeg viszont, hogy rendben van. Viszlát, még találkozunk.}
 {180}{}{Megszerezted a háromfázisú plazmaátalakítót számomra?}
@@ -36,13 +36,13 @@
 {202}{}{Van nálam ez-az, amire vethetnél egy pillantást.}
 {203}{}{Mi a munkád?}
 {204}{}{Igazából csak körülnéztem. Már megyek is.}
-{210}{}{Mit kéne megnéznem?}
+{210}{}{Mit bütyköljek meg?}
 {211}{}{Akarsz még valamit átnézetni? Mi legyen az?}
 {212}{}{Itt van ez a teleszkóp balhé...}
-{213}{}{Van nálam egy ‘X’}
-{214}{}{Van a holmim közt egy ‘X’}
-{215}{}{Van itt nálam egy ‘X’}
-{216}{}{Van nálam egy ‘X’}
+{213}{}{I've got an 'X'}
+{214}{}{I've got an 'X'}
+{215}{}{I've got an 'X'}
+{216}{}{I've got an 'X'}
 {217}{}{Késõbb is jó lesz?}
 {218}{}{Most nincs másra szükségem. Viszlát!}
 {220}{}{Hmm, ezt a teleszkópot hozzá tudom szerelni a nálad lévõ puskához.}
@@ -51,7 +51,7 @@
 {223}{}{Mennyibe kerülne a teleszkóp hozzászerelése a gépkarabélyomhoz?}
 {224}{}{Mennyibe kerülne a teleszkóp hozzászerelése a mesterlövész puskámhoz?}
 {225}{}{Hadd kérdezzek egy másik tárgyról.}
-{226}{}{Szerintem most nem akarok mást tudni. Viszlát!}
+{226}{}{Azt hiszem, ez minden, amit tudni akartam. Viszlát!}
 {230}{}{Hmm, gondoltam. Nos, az a nagy helyzet, hogy ez a [Selected partname] most kifog rajtunk. Keríts elõ valami mást, hátha azzal többre jutok.}
 {231}{}{Akkor mit szólnál egy másik tárgyhoz?}
 {232}{}{Milyen alkatrészt kéne szereznem?}
@@ -76,8 +76,8 @@
 {292}{}{Hát akkor jobb, ha nem adom fel a keresést. Viszlát!}
 {300}{}{Hát nem akarlak az orrodná' vezetni, de halvány dunsztom sincs róla. Ha mindegyik rész megvan, tudni fogom, hogy kell összerakni. Gondolom, tudsz követni.}
 {301}{}{Úgy érted, kikövetkezteted, hogy mûködik?}
-{302}{}{Ránéznél valami másra esetleg?}
-{303}{}{Szerintem ez ésszerûen hangzik. Jobb, ha megyek és szerválok egy újabb alkatrészt. Viszlát!}
+{302}{}{Akkor ránézhetnél itt valami másra...}
+{303}{}{Hát ebben bizony van ráció. Viszont nem késlekedem, és megyek az alkatrész után. Viszlát!}
 {310}{}{Hát igen. Hogyismondjamcsak... mûszaki érzék van mögötte. Igen-igen. Remélem, tudod, mire gondolok.}
 {311}{}{Nem egészen értem, de most inkább megyek, aztán beszerzek egy alkatrészt. Viszlát!}
 {312}{}{Akkor ránézhetnél itt valami másra...}
@@ -95,9 +95,9 @@
 {362}{}{Gondolom, sokféle válasz van az agyadban. Remélem, a másvilágról is vannak elképzeléseid, mivel most épp oda foglak küldeni... nyomban.}
 {363}{}{Ezt még át kell gondolnom. Egyelõre viszlát!}
 {370}{}{Látom, sikerült szerezned egy überfasza szerszámkészletet. Király, nem igaz? Cserébe akkor odaadom az üzemanyag-cella vezérlõt.}
-{371}{}{Á, szóval visszajöttél! És még szerszámkészlet is van nálad! Mmm, király... ez a létezõ legjobb fajta. Jöhet a csere?}
-{372}{}{Jöhet.}
-{373}{}{Most nem, még újra át kell gondolnom. Viszlát!}
+{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{372}{}{Áll az alku.}
+{373}{}{Not right now. I'm holding on to this for a while. Goodbye.}
 {380}{}{Hát ez asztán üzlet volt a javából. Csak belenyomod azt a szart a verdába, és már megy is.}
 {381}{}{Hát ez asztán üzlet volt a javából. Csak belenyomod azt a szart a verdába, és már megy is. Ha gondolod, néhány dolgodat megbütykölhetek, persze ingyen...}
 {382}{}{Tényleg? Ingyen? Mit kell tennem érte?}
@@ -123,7 +123,7 @@
 {460}{}{Nézzük csak. Ez bizony [Cost of combining item a with item b] dollárba fog kerülni. Benne vagy?}
 {461}{}{Hogyne. Kösz.}
 {462}{}{Most kihagynám. Nézzünk valami mást.}
-{463}{}{Ami azt illeti, nem szaladnak el azok a tárgyak... most mennem kell.}
+{463}{}{Asszem, most jobb, ha kihagyjuk ezt a bütykölést. Viszlát!}
 {470}{}{Amit én összerakok, az össze van rakva. Többé szét nem szeded, hogy máshova felhasználd. Jobb, ha elsõre jól döntesz.}
 {471}{}{Rendben, értem. Akkor nézz rá a tárgyaimra!}
 {472}{}{Asszem, most jobb, ha kihagyjuk ezt a bütykölést. Viszlát!}
@@ -143,7 +143,7 @@
 {614}{}{Igazából valami másra gondoltam...}
 {615}{}{Hmm, volna néhány kérdésem inkább.}
 {616}{}{Talán késõbb visszanézek.}
-{617}{}{Ez túl sokba kerül. Visszajövök, ha több lém lesz.}
+{617}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
 {620}{}{[Skeeter megtanulmányozza a hosszú fegyveredet és lassan bólogat.] }
 {621}{}{Rárakhatok a vadászpuskádra egy idõjárásálló távcsövet. Az ára }
 {622}{}{Egy gépkarabély semmit nem ér kibõvített tár nélkül. Ha akarod megcsinálom. Az ára }
@@ -153,10 +153,15 @@
 {626}{}{Jöhet az éjjellátó az FN FAL-ra.}
 {627}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
 {630}{}{Fel akarod turbózni azt a kis fegyvert? Mit szólnál egy "túltöltõhöz" ? Az ára }
-{631}{}{Jó ötlet.}
-{640}{}{[Skeeter megnézi a fegyvert, közben furcsa fény csillan a szemében] Hát ez nem piskóta, de összepofozunk belõle valamit. Csak maradj a fenekeden egy darabig. [Skeeter odaviszi a munkapadhoz, és egy jókora satuba befogja a fegyvert.]}
-{641}{}{Rendben.}
-{650}{}{[Miközben vársz, látod, amint Skeeter serénykedik a fegyveren. Pontosan nem vagy tisztában, mit csinál, de az általa hallatott fura kuncogás, és a kopácsolás eléggé idegesít.]}
+{631}{}{Hogyne.}
+{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
+ eye.] Well, this is a mite challengin', but I think I can fix this up real nice
+ for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
+ workbench and locks it in a really big vise.]}
+{641}{}{Oké.}
+{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
+ don't know exactly what he's doing but that weird chuckle and all the pounding are
+ making you nervous.]}
 {651}{}{Várakozol...}
 {660}{}{[Az idõ egyre csak múlik, közben pedig egy pillanatig sem szûnik a kopácsolás meg a kuncogás.]}
 {661}{}{[Szórakozottan fütyörészel, és árnyjátékot játszol Skeeter mûhelyének falán...]}
@@ -172,4 +177,4 @@
 {685}{}{Fel akarod turbózni azt a közelharci fegyvert? Ingyen rárakok egy "túltöltõt", ha beleegyezel.}
 {700}{}{Leszállítottad az alkatrészt Skeeter számára.}
 {710}{}{Meghoztad a Skeeter által hõn vágyott szerszámkészletet.}
-{5500}{}{ dollár.}
+{5500}{}{ vagyok.}

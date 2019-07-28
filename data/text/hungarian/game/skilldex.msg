@@ -1,6 +1,3 @@
-#
-#   Messages from skilldex.c
-#
 {100}{}{   KÉPZ.}
 {101}{}{MÉGSE}
 {102}{}{LOPÓZÁS}
@@ -11,4 +8,3 @@
 {107}{}{ORVOS}
 {108}{}{TUDOM.}
 {109}{}{JAVÍTÁS}
-

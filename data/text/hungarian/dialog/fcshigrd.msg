@@ -1,5 +1,5 @@
 {100}{}{Egy lazaöltözékû õr. Unatkozik ugyan, de a figyelme nem lanyhul.}
-{101}{}{Palotaõr.}
+{101}{}{You see a palace guard.}
 {102}{}{A palotaõr egy veszélyes kinézetû fegyvert tart.}
 {103}{}{Menjen tovább! Úgy nem lesz semmi gond.}
 {104}{}{Van itt valami dolga?}

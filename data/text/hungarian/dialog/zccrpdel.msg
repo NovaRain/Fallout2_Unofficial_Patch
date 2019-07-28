@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{Egy éles szemû ember, akirõl lerí az üzleti szemlélet.}
 {101}{}{Kockavetõ krupié. A játék neve CRAPS.}
 {102}{}{Egy halom zseton és pénz van nála. Kipróbálhatod nála a szerencsédet.}
@@ -8,7 +7,6 @@
 {106}{}{Mennyit tesz a NYÍLT SÁVRA?}
 {107}{}{Mennyit tesz a NEM NYÍLT SÁVRA?}
 {108}{}{Mennyit tesz a MEZÕRE?}
-{157}{}{Mennyit tesz SZÁMRA?}
 {109}{}{Célszám:}
 {110}{}{Feltétel nélkül nyerõ sáv.}
 {111}{}{Nem feltétel nélkül nyerõ sáv.}
@@ -44,8 +42,6 @@
 {142}{}{- a 8:}
 {143}{}{- a 9:}
 {144}{}{- a 10:}
-# ez a - jel tûnt a legjobbnak, hogy elszeparáljam egymástól a részeket (Bass)
-# eloszor * volt, de az szorzasnak tunhet
 {145}{}{nyereményaránya: 4:}
 {146}{}{nyereményaránya: 5:}
 {147}{}{nyereményaránya: 6:}
@@ -54,10 +50,11 @@
 {150}{}{nyereményaránya: 10:}
 {151}{}{A MEZÕ-TÉT ÉRTÉKE: }
 {152}{}{Melyik EGYDOBÁSOS TÉT legyen?}
-{153}{}{Mennyit?}
+{153}{}{Mennyi?}
 {154}{}{Egyszerû tétek...}
 {155}{}{Nehezített tétek...}
 {156}{}{Melyik fajta tét legyen?}
+{157}{}{Mennyit tesz SZÁMRA?}
 {200}{}{7-es (Nyereményarány: 5:1)}
 {201}{}{dupla 3-as (Nyereményarány: 10:1)}
 {202}{}{dupla 4-es (Nyereményarány: 10:1)}
@@ -77,7 +74,7 @@
 {305}{}{Legyen a 10-es (1.8-szoros nyeremény)}
 {400}{}{Vissza...}
 {500}{}{$}
-{501}{}{ dollár.}
+{501}{}{ vagyok.}
 {600}{}{Hetes fizet az automatikusan nyerõ sávon, célszám törlõdik.}
 {601}{}{Tizenegyes fizet az automatikusan nyerõ sávon.}
 {602}{}{Kettes, nincs nyeremény.}
@@ -89,7 +86,7 @@
 {613}{}{Hármas fizet a nem automatikusan nyerõ sávon}
 {614}{}{Tizenkettes, fizet a nem automatikusan nyerõ sávon}
 {620}{}{Az egydobásos 7-es}
-{621}{}{Az egydobásos dupla 3-as}
+{621}{}{Prop bet double 3s}
 {622}{}{Az egydobásos dupla 4-es}
 {623}{}{Az egydobásos dupla 5-ös}
 {624}{}{Az egydobásos dupla 2-es}

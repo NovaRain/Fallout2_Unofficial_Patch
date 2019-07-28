@@ -1,49 +1,49 @@
-# Dialog Editor last position: 96
 {100}{}{Nagy meglepetésedre -- egy újabb erõpáncélt viselõ illetõ.}
 {101}{}{Még mindig ugyanaz az ember a páncéljában.}
 {102}{}{A fickó az erõpáncél különös verzióját viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
 {103}{}{<Skzzzt-spork> - a fegyvertárba!}
 {104}{}{Mi a - <zzzzaaark!>>}
-{105}{}{(Áh, szóval az õrmi küldött. Valami új erõpáncél kéne, mi? Szerencséd van, akad egy itt a raktárban. Régebbi verzió, van vele néhány probléma, szóval vigyázz rá! Itt írdd alá!)}
+{105}{}{(So, Sarge sent you. Something about needing power armor.  Well, all I got is one in for
+ maintenance. Might have a few problems still, so take it easy. Just sign here.)}
 {106}{}{Öhm... ismételni meg!}
 {107}{}{Azt hiszem, van néhány probléma a páncéloddal.}
 {108}{}{Oké. Megteszem.}
 {109}{}{Nem. Felejtsd el!}
 {110}{}{Te vagy az arc, akirõl Arch rádiózott?}
 {111}{}{Biztos, hogy nem te vagy?}
-{112}{}{He?}
+{112}{}{Nahát...}
 {113}{}{Igen.}
 {114}{}{Nem.}
-{115}{}{Ki vagy te? Mit csinálsz itt?}
+{115}{}{Ki maga? Mit csinál itt?}
 {116}{}{Mi?}
-{117}{}{Öhm... Én itt új lennék...}
+{117}{}{Uh... I'm new here?}
 {118}{}{Kukucs!}
-{119}{}{Ki vagy te? Mit csinálsz itt?}
+{119}{}{Ki maga? Mit csinál itt?}
 {120}{}{Mi?}
-{121}{}{Öhm... Hát én itt még új lennék...}
+{121}{}{Uh... I'm new here?}
 {122}{}{Kukucs!}
 {123}{}{Hogy érted ezt? Jól mûködik, semmi baja. Na, most aláírod azokat a papírokat, vagy nem?}
 {124}{}{Nem értem egy szavadat sem...}
 {125}{}{A hangszóród elromlott.}
-{126}{}{Persze.}
+{126}{}{Persze-persze.}
 {127}{}{Picsába vele.}
 {128}{}{(Mi van, süket vagy? Mondtam, hogy van páncélom, csak írdd alá!)}
 {129}{}{Te valamilyen bohóc vagy, ugye? Nem érek rá veled barmulni. Majd te magad elmagyarázod az õrminek, miért nincs egyenruhád!}
-{130}{}{He?}
+{130}{}{Nahát...}
 {131}{}{Oké, jól van. Aláírom.}
 {132}{}{Felejtsd el, rendben?}
 {133}{}{Nem romlott el a hangszóród. Egészen jól hallak. Írdd alá a papírokat, és legyünk már ezen túl!}
-{134}{}{He?}
+{134}{}{Nahát...}
 {135}{}{Jól van, megadom magam!}
 {136}{}{Akarni mit tõlem? Mi nem lenni az a fajta ember.}
 {137}{}{Oké. Mi a neved?}
-{138}{}{[Player name]}
+{138}{}{[Player name]...}
 {139}{}{Halak?}
 {140}{}{Akarni az erõpáncél.}
 {141}{}{Kardhal.}
 {142}{}{Rendben. Egység?}
 {143}{}{Arroyo.}
-{144}{}{Nyet-nyet.}
+{144}{}{Nem.}
 {145}{}{Inkább mennék.}
 {146}{}{42.}
 {147}{}{S-sel vagy C-vel írják?}
@@ -51,7 +51,7 @@
 {149}{}{Nem.}
 {150}{}{Nem tudom.}
 {151}{}{Megkapod azt a nyomorult páncélt, ha befejeztem! Szóval, válaszolj a kérdésre!}
-{152}{}{[Player name]}
+{152}{}{[Player name]...}
 {153}{}{Halak?}
 {154}{}{Kardhal.}
 {155}{}{Arroy... Várj egy percet! Én már jártam ott. Egy rohadt nomád vagy! Õrség!}
@@ -66,7 +66,7 @@
 {164}{}{Nem.}
 {165}{}{Jól van, gyorsítsuk meg ezt egy kicsit. Vedd le azt a vacakot magadról és megkapod az új ruhát!}
 {166}{}{Te lenni tiszta görcs.}
-{167}{}{He?}
+{167}{}{Nahát...}
 {168}{}{Oké.}
 {169}{}{Leszedni ezt rólam? Soha!}
 {170}{}{Jól van, ne is törõdj vele!}
@@ -81,7 +81,7 @@
 {179}{}{Baszd meg!}
 {180}{}{Jól van, fiam. Rendben. Egységed?}
 {181}{}{Arroyo.}
-{182}{}{Nincs.}
+{182}{}{Nem.}
 {183}{}{Inkább mennék.}
 {184}{}{42.}
 {185}{}{Süket vagy? Mi a neved?!}
@@ -89,7 +89,7 @@
 {187}{}{Sosem hallottam róluk.}
 {188}{}{Szóval új ember, mi? A páncélodért jöttél. Miért nem szól nekem senki az ilyenekrõl? Mi a neved?}
 {189}{}{He? Te tiszta görcs vagy.}
-{190}{}{[Player name]}
+{190}{}{[Player name]...}
 {191}{}{Nem, ha én lövök elõször!}
 {192}{}{Várjunk csak... Te nem tartozol közénk! Õrség!}
 {193}{}{Nézd, már odaadtam a páncélodat. Szóval tûnj el innen!}

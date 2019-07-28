@@ -10,7 +10,7 @@
 {109}{}{Puoi tenerti ad una certa distanza, per favore?}
 {110}{}{Sta' fermo li'.}
 {111}{}{Faresti meglio ad andartene.}
-{112}{}{Vattene da qui.}
+{112}{}{Esci subito di qui.}
 {113}{}{Sta' attento o chiamero' le guardie.}
 {114}{}{Ti tengo d'occhio.}
-{115}{}{Sono gli Esterni come te che...} #Outworlder
+{115}{}{Sono gli Esterni come te che...}

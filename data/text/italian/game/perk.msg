@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Consapevolezza}
 {102}{}{Bonus: Attacchi Corpo a Corpo}
 {103}{}{Bonus: Danno Corpo a Corpo}
@@ -21,7 +15,7 @@
 {115}{}{Tiratore Scelto}
 {116}{}{Corsa Silenziosa}
 {117}{}{Corso di Sopravvivenza}
-{118}{}{Mercante Esperto}
+{118}{}{una Maestra Mercante}
 {119}{}{Istruito}
 {120}{}{Guaritore}
 {121}{}{Cacciatore di Tesori}
@@ -40,7 +34,7 @@
 {134}{}{Ladro Mastro}
 {135}{}{Parlatore}
 {136}{}{Oh Issa!}
-{137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
+{137}{}{ERROR -- UNIMPED}
 {138}{}{Borseggiatore}
 {139}{}{Fantasma}
 {140}{}{Culto della Personalita'}
@@ -50,7 +44,7 @@
 {144}{}{Trova-Piste}
 {145}{}{Amico degli Animali}
 {146}{}{Scout}
-{147}{}{Straniero Misterioso}
+{147}{}{la Straniera Mistriosa}
 {148}{}{Ranger}
 {149}{}{Tasche Rapide}
 {150}{}{Fine Dicitore}
@@ -67,7 +61,7 @@
 {161}{}{Weapon Penetrate}
 {162}{}{Weapon Knockback}
 {163}{}{Powered Armor}
-{164}{}{Combat Armor}
+{164}{}{Armatura da Combattimento}
 {165}{}{Weapon Scope Range}
 {166}{}{Weapon Fast Reload}
 {167}{}{Weapon Night Sight}
@@ -108,7 +102,7 @@
 {202}{}{Piromane}
 {203}{}{Recupero Veloce}
 {204}{}{Venditore}
-{205}{}{Muro di Pietra}
+{205}{}{Stonewall}
 {206}{}{Ladro}
 {207}{}{Maneggiare le Armi}
 {208}{}{Addestramento di Vault City}
@@ -123,10 +117,6 @@
 {217}{}{Spalatore di Letame Esperto}
 {218}{}{Weapon Enhanced Knockout}
 {219}{}{Iettatore}
-
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{Con la Consapevolezza, ti vengono date informazioni dettagliate su ogni creatura da te esaminata. Puoi vedere i loro punti vita esatti e varie informazioni sull'arma da loro impugnata.}
 {1102}{}{Hai imparato le arti segrete dell'Oriente, o semplicemente sai dare pugni piu' velocemente. In ogni caso, i tuoi attacchi Corpo a Corpo richiedono 1 PA in meno.}
 {1103}{}{L'esperienza nel combattimento a mani nude ti ha dato un vantaggio quando si tratta di fare danni. Infliggi +2 punti danno negli attacchi a mani nude o in mischia per ogni livello di questa Strenna.}
@@ -190,7 +180,7 @@
 {1161}{}{Weapon Penetrate}
 {1162}{}{Weapon Knockback}
 {1163}{}{Powered Armor}
-{1164}{}{Combat Armor}
+{1164}{}{Armatura da Combattimento}
 {1165}{}{Weapon Scope Range}
 {1166}{}{Weapon Fast Reload}
 {1167}{}{Weapon Night Sight}
@@ -201,48 +191,48 @@
 {1172}{}{Senti l'ardente desiderio di aprire un altro mazzo di carte Tragic.}
 {1173}{}{Armor Charisma}
 {1174}{}{Conosci il modo corretto per scuoiare i gecki senza rovinare le loro pelli.}
-{1175}{}{Hai una protezione interna contro gli attacchi fisici.}     # Dermal Impact Armor
-{1176}{}{Hai una protezione interna extra contro gli attacchi fisici.}  # Dermal Impact Assault Enhancement
-{1177}{}{Hai una protezione interna contro gli attacchi ad energia.}     # Phoenix Armor Implants
-{1178}{}{Hai una protezione interna extra contro gli attacchi ad energia.}  # Phoenix Assault Enhancement
-{1179}{}{Guadagni +10% nella resistenza al veleno e alle radiazioni.}  # Vault City Inoculations
-{1180}{}{Con questa Strenna aggiungi +1 alla tua Forza quando scendi sotto la meta' del numero massimo di punti vita.}  # Adrenaline Rush
-{1181}{}{Sei un viaggiatore che sta sempre in guardia ed e' piu' difficile che i nemici ti sorprendano. Con questa Strenna aggiungi +3 alla tua Percezione negli incontri casuali per determinare le posizioni.}  # Cautious Nature
-{1182}{}{Quando leggi fai molta piu' attenzione ai piccoli dettagli. Guadagni il 50% in piu' nei punti ottenuti leggendo libri.}  # Comprehension
-{1183}{}{Sei un esperto quando si tratta di utilizzare l'elegante arte di maneggiare esplosivi. Esploderanno sempre al momento giusto e causeranno anche un po' di danno extra.}  # Demolition Expert
-{1184}{}{Puoi giocartela con i migliori nel campo. Guadagni +20% nell'abilita' Gioco d'Azzardo.}  # Gambler
-{1185}{}{Con questa Strenna aggiungi +1 alla tua Forza.}     # Gain Strength
-{1186}{}{Con questa Strenna aggiungi +1 alla tua Percezione.}   # Gain Perception
-{1187}{}{Con questa Strenna aggiungi +1 alla tua Resistenza.}    # Gain Endurance
-{1188}{}{Con questa Strenna aggiungi +1 al tuo Carisma.}     # Gain Charisma
-{1189}{}{Con questa Strenna aggiungi +1 alla tua Intelligenza.} # Gain Intelligence
-{1190}{}{Con questa Strenna aggiungi +1 alla tua Agilita'.}      # Gain Agility
-{1191}{}{Con questa Strenna aggiungi +1 alla tua Fortuna.}         # Gain Luck
-{1192}{}{Il tuo fare innocente ti permette di derubare le persone piu' facilmente. Guadagni un 20% in piu' nella tua abilita' Rubare.}  # Harmless
-{1193}{}{Con questa Strenna guadagni immediatamente un livello di esperienza.}  # Here and Now
-{1194}{}{Se entrambe le caselle-oggetto sono vuote, alla fine del turno ogni punto azione non usato conferisce un bonus +2 (invece di +1) alla tua Classe d'Armatura, piu' 1/12 della tua abilita' Disarmato.}  # HtH Evade
-{1195}{}{Quando si tratta di dare piacere tramite l'atto sessuale, sei un vero maestro.}  # Kama Sutra Master
-{1196}{}{Il tuo Karma brilla due volte piu' luminoso. Che sia buono o cattivo, il tuo Karma e' raddoppiato per ogni tipo di reazione o modificatore.}  # Karma Beacon
-{1197}{}{Sei agile, fortunato, e sempre attento. Questa Strenna dimezza la possibilita' che tu faccia scattare una trappola.}  # Light Step
-{1198}{}{Hai una profonda conoscenza delle creature viventi e delle loro forze e debolezze. Prendi un bonus una tantum di +10% in Dottore, e i colpi scagliati contro creature viventi causano +5 danni.}  # Living Anatomy
-{1199}{}{Aggiungi 1 casella extra al tuo limite di seguaci, ma non dimenticarti che piu' di 5 son sempre una folla.}  # Magnetic Personality
-{1200}{}{Sei un negoziatore molto abile. Non solo ti fai valere durante i baratti, ma sei anche in grado di tirarti fuori dai guai semplicemente a parole. Con questa Strenna aggiungi +10% sia a Barattare che a Dialogare.}  # Negotiator
-{1201}{}{Il tuo inventario e' organizzato in modo molto efficiente. Questo rende molto piu' facile trasportare quelle poche cose in piu' di cui hai sempre avuto bisogno.}  # Pack Rat
-{1202}{}{Quando usi armi lanciafiamme infliggi un danno extra, e sembra che i nemici muoiano sempre nel modo piu' atroce.}  # Pyromaniac
-{1203}{}{Dopo essere stato gettato al tappeto ti sai riprendere velocemente.}  # Quick Recovery
-{1204}{}{Sei un abile Venditore. Con questa Strenna guadagni +20% nell'abilita' Barattare.}  # Salesman
-{1205}{}{E' piu' difficile che tu vada al tappeto durante un combattimento.}  # Stonewall
-{1206}{}{Il sangue di un ladro scorre nelle tue vene. Con la Strenna Ladro ottieni un bonus una tantum di +10% nelle abilita' Movimento Furtivo, Scassinare, Rubare e Trappole. Solo un ladro completo puo' dirsi un ladro vero.}  # Thief
-{1207}{}{Puoi impugnare armi molto piu' grandi rispetto al solito. La Forza minima per usare le armi e' diminuita di 3 punti.}  # Weapon Handling
-{1208}{}{Hai ricevuto l'addestramento medico di Vault City.}  # Vault City Training
-{1209}{}{I tuoi punti vita sono aumentati un po' a causa delle continue ubriacature.}  # Alcohol Enhanced hit points
-{1210}{}{I tuoi punti vita sono aumentati un po' di piu' a causa delle continue ubriacature.}  # Alcohol Enhanced hit points II
-{1211}{}{I tuoi punti vita sono diminuiti un po' a causa delle continue ubriacature.}  # Alcohol Lowered hit points
-{1212}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa delle continue ubriacature.}  # Alcohol Lowered hit points II
-{1213}{}{I tuoi punti vita sono aumentati un po' a causa del continuo uso dell'autodoc.}  # Autodoc Enhanced hit points !!! Seraph's Fix: changed 1209 to 1213
-{1214}{}{I tuoi punti vita sono aumentati un po' di piu' a causa del continuo uso dell'autodoc.}  # Autodoc Enhanced hit points II !!! Seraph's Fix: changed 1210 to 1214
-{1215}{}{I tuoi punti vita sono diminuiti un po' a causa del continuo uso dell'autodoc.}  # Autodoc Lowered hit points !!! Seraph's Fix: changed 1211 to 1215
-{1216}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}  # Autodoc Lowered hit points II !!! Seraph's Fix: changed 1212 to 1216
+{1175}{}{Hai una protezione interna contro gli attacchi fisici.}
+{1176}{}{Hai una protezione interna extra contro gli attacchi fisici.}
+{1177}{}{Hai una protezione interna contro gli attacchi ad energia.}
+{1178}{}{Hai una protezione interna extra contro gli attacchi ad energia.}
+{1179}{}{Guadagni +10% nella resistenza al veleno e alle radiazioni.}
+{1180}{}{Con questa Strenna aggiungi +1 alla tua Forza quando scendi sotto la meta' del numero massimo di punti vita.}
+{1181}{}{Sei un viaggiatore che sta sempre in guardia ed e' piu' difficile che i nemici ti sorprendano. Con questa Strenna aggiungi +3 alla tua Percezione negli incontri casuali per determinare le posizioni.}
+{1182}{}{Quando leggi fai molta piu' attenzione ai piccoli dettagli. Guadagni il 50% in piu' nei punti ottenuti leggendo libri.}
+{1183}{}{Sei un esperto quando si tratta di utilizzare l'elegante arte di maneggiare esplosivi. Esploderanno sempre al momento giusto e causeranno anche un po' di danno extra.}
+{1184}{}{Puoi giocartela con i migliori nel campo. Guadagni +20% nell'abilita' Gioco d'Azzardo.}
+{1185}{}{Con questa Strenna aggiungi +1 alla tua Forza.}
+{1186}{}{Con questa Strenna aggiungi +1 alla tua Percezione.}
+{1187}{}{Con questa Strenna aggiungi +1 alla tua Resistenza.}
+{1188}{}{Con questa Strenna aggiungi +1 al tuo Carisma.}
+{1189}{}{Con questa Strenna aggiungi +1 alla tua Intelligenza.}
+{1190}{}{Con questa Strenna aggiungi +1 alla tua Agilita'.}
+{1191}{}{Con questa Strenna aggiungi +1 alla tua Fortuna.}
+{1192}{}{Il tuo fare innocente ti permette di derubare le persone piu' facilmente. Guadagni un 20% in piu' nella tua abilita' Rubare.}
+{1193}{}{Con questa Strenna guadagni immediatamente un livello di esperienza.}
+{1194}{}{Se entrambe le caselle-oggetto sono vuote, alla fine del turno ogni punto azione non usato conferisce un bonus +2 (invece di +1) alla tua Classe d'Armatura, piu' 1/12 della tua abilita' Disarmato.}
+{1195}{}{Quando si tratta di dare piacere tramite l'atto sessuale, sei un vero maestro.}
+{1196}{}{Il tuo Karma brilla due volte piu' luminoso. Che sia buono o cattivo, il tuo Karma e' raddoppiato per ogni tipo di reazione o modificatore.}
+{1197}{}{Sei agile, fortunato, e sempre attento. Questa Strenna dimezza la possibilita' che tu faccia scattare una trappola.}
+{1198}{}{Hai una profonda conoscenza delle creature viventi e delle loro forze e debolezze. Prendi un bonus una tantum di +10% in Dottore, e i colpi scagliati contro creature viventi causano +5 danni.}
+{1199}{}{Aggiungi 1 casella extra al tuo limite di seguaci, ma non dimenticarti che piu' di 5 son sempre una folla.}
+{1200}{}{Sei un negoziatore molto abile. Non solo ti fai valere durante i baratti, ma sei anche in grado di tirarti fuori dai guai semplicemente a parole. Con questa Strenna aggiungi +10% sia a Barattare che a Dialogare.}
+{1201}{}{Il tuo inventario e' organizzato in modo molto efficiente. Questo rende molto piu' facile trasportare quelle poche cose in piu' di cui hai sempre avuto bisogno.}
+{1202}{}{Quando usi armi lanciafiamme infliggi un danno extra, e sembra che i nemici muoiano sempre nel modo piu' atroce.}
+{1203}{}{Dopo essere stato gettato al tappeto ti sai riprendere velocemente.}
+{1204}{}{Sei un abile Venditore. Con questa Strenna guadagni +20% nell'abilita' Barattare.}
+{1205}{}{E' piu' difficile che tu vada al tappeto durante un combattimento.}
+{1206}{}{Il sangue di un ladro scorre nelle tue vene. Con la Strenna Ladro ottieni un bonus una tantum di +10% nelle abilita' Movimento Furtivo, Scassinare, Rubare e Trappole. Solo un ladro completo puo' dirsi un ladro vero.}
+{1207}{}{Puoi impugnare armi molto piu' grandi rispetto al solito. La Forza minima per usare le armi e' diminuita di 3 punti.}
+{1208}{}{Hai ricevuto l'addestramento medico di Vault City.}
+{1209}{}{I tuoi punti vita sono aumentati un po' a causa delle continue ubriacature.}
+{1210}{}{I tuoi punti vita sono aumentati un po' di piu' a causa delle continue ubriacature.}
+{1211}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa delle continue ubriacature.}
+{1212}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa delle continue ubriacature.}
+{1213}{}{I tuoi punti vita sono aumentati un po' a causa del continuo uso dell'autodoc.}
+{1214}{}{I tuoi punti vita sono aumentati un po' di piu' a causa del continuo uso dell'autodoc.}
+{1215}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
+{1216}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
 {1217}{}{La tua abilita' nello spalare merda e' leggendaria. }
 {1218}{}{Weapon Enhanced Knockout}
 {1219}{}{La cosa positiva e' che tutti intorno a te subiscono un maggior numero di fallimenti critici... la cosa negativa e' che lo stesso succede a te!}

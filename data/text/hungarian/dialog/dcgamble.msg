@@ -1,9 +1,8 @@
-# Dialog Editor last position: 1
 {100}{}{Íme, egy szerencsejátékos.}
 {101}{}{Ez a szerencsejátékos nagyon jól boldogul itt.}
 {102}{}{Úgy látszik, nyerésben van, de minden pénzét az asztalra tette.}
 {103}{}{Úgy látszik, nyerésben van, de minden pénzét az asztalra tette.}
-{104}{}{Nem lehet eldönteni, nyer-e vagy veszít.}
+{104}{}{This person doesn't seem to be winning or losing.}
 {105}{}{Ez az ember már jó ideje nem nyert.}
 {106}{}{Úgy tûnik, mindjárt sírni kezd. Majdnem teljesen kifogyott a pénzbõl.}
 {107}{}{Úgy tûnik, sokat vesztett, ezért elég haragos.}
@@ -14,7 +13,6 @@
 {204}{}{Ártott neked valamit is?}
 {205}{}{Nem csináltam semmit!}
 {206}{}{Kérlek menj el, nem mondom el senkinek...}
-
 {300}{}{Igen! A kocka szeret engem!}
 {301}{}{Ez bizony közel volt!}
 {302}{}{Ne zavarj! Elrontod a nyerõ szériám.}
@@ -44,15 +42,13 @@
 {326}{}{Na, megint elúszott a fizetésem.}
 {327}{}{Majdnem mindenem oda lett.}
 {328}{}{Basszus! Ez tök szívás!}
-{329}{}{Miért mindig velem történik ez?}
+{329}{}{Why does this always happen to me?}
 {330}{}{Képtelen vagyok nyerni.}
 {331}{}{Utálom ezt a játékot!}
-
 {400}{}{Francba, a környéken csak Becky-nél lehetett játszani.}
 {401}{}{Tartsd magad távol!}
 {402}{}{Ne lõj!}
-{403}{}{Kérlek, hagyj minket békén!}
-
+{403}{}{Please leave us alone.}
 {500}{}{Ne állj meg ennyinél!}
 {501}{}{Ne lanyhulj!}
 {502}{}{GYERÜNK HETES!!!}
@@ -63,16 +59,14 @@
 {507}{}{Még egy jó pörgetést!}
 {508}{}{Igen!}
 {509}{}{Rendben!}
-{510}{}{Még egyszer, lássuk még egyszer!}
+{510}{}{Again, let's see that again.}
 {511}{}{Gyerünk!}
 {512}{}{Na, erre hajtottam...}
 {513}{}{Majdnem.}
 {514}{}{Nem rossz.}
 {515}{}{Hát ez meg hogy lehet?}
-{516}{}{Hoppá!}
-{517}{}{Ne állj meg! Ne állj meg! MOST ÁLLJ MEG!}
-# -No wammies, no wammies. Stop! - Ennek utananeztem, ez egy 80-as evekbeli jatekbol van.
-# Nem nagyon lehet ezzel mit tenni (bass)
+{516}{}{Ajjaj!}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Ez a játék aztán hû a nevéhez.}
 {519}{}{Csak egyetlen nagy nyeremény kéne...}
 {520}{}{Számokat!}
@@ -88,8 +82,8 @@
 {530}{}{Utálom ezt a játékot! }
 {531}{}{A franc esne bele! Az utolsó pörgetésnél bejött a számom.}
 {532}{}{Már megint fekete?!?}
-{600}{}{Takarodj!}
+{600}{}{Tûnj el innen!}
 {601}{}{Miért csináltad ezt?}
-{602}{}{Takarodj!}
+{602}{}{Tûnj el innen!}
 {603}{}{Hagyd abba, beteg vagyok!}
-{604}{}{Én nem tenném... ugye te se?}
+{604}{}{I wouldn't do that to you.}

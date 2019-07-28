@@ -1,4 +1,3 @@
-# Dialog Editor last position: 22
 {100}{}{Rabszolga-hajcsár.}
 {150}{}{Ez az ember nyilván Metzger egyik személyes testõre.}
 {200}{}{Most megvagy!}
@@ -8,7 +7,6 @@
 {302}{}{Menj csak be!}
 {303}{}{Viselkedj rendesen!}
 {304}{}{Metzger odabent van.}
-#304 ezt igenyelte a szitu (Bass)
 {305}{}{Ne nagyképûsködj Metzgerrel!}
 {306}{}{Nincs árusítás, ha ezért jöttél volna.}
 {307}{}{Még mindig nem tudok hozzászokni egy nõi hajcsárhoz.}

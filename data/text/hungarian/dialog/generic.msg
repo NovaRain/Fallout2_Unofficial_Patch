@@ -1,34 +1,33 @@
-# Dialog Editor last position: 251
-{100}{}{}
+{100}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
 {101}{}{ tapasztalati pontot kaptál.}
 {102}{}{Sikeresen hatástalanítottad a csapdát.}
-{103}{}{Nem tudtad hatástalanítani a csapdát.}
+{103}{}{Nem sikerült hatástalanítanod a csapdát.}
 {104}{}{Véletlenül aktiválod a csapdát.}
 {105}{}{ nem tudod hatástalanítani a csapdát.}
 {106}{}{ sikeresen hatástalanítja a csapdát.}
 {107}{}{ véletlenül aktiválja a csapdát.}
-{200}{}{Köszönöm.}
+{200}{}{Köszönöm!}
 {201}{}{Jó napot.}
-{202}{}{Kösz.}
-{203}{}{Kösz!}
+{202}{}{Köszi.}
+{203}{}{Köszönöm!}
 {204}{}{Köszönöm, nem.}
-{205}{}{Kösz, nem.}
-{206}{}{Persze.}
+{205}{}{Kösz nem.}
+{206}{}{Hogyne.}
 {207}{}{Igen.}
 {208}{}{Nem.}
-{209}{}{OK.}
-{300}{}{Ug.}
+{209}{}{OKÉ.}
+{300}{}{Ah...}
 {301}{}{Og.}
 {302}{}{Úga.}
 {303}{}{Örg.}
-{350}{}{[VÉGE]}
+{350}{}{[vége]}
 {351}{}{[VISZLÁT]}
 {352}{}{[TOVÁBB]}
 {353}{}{[FOLYTATÁS]}
 {354}{}{[HARC]}
 {355}{}{[ADJ PÉNZT]}
 {375}{}{Viszlát!}
-{376}{}{Viszontlátásra.}
+{376}{}{Viszlát!}
 {400}{}{Meghalsz Dr. Troy halálos injekciójától.}
 {450}{}{Tiszta a levegõ. Gyerünk!}
 {900}{}{A régi, megviselt ajtót egy jól elhelyezet bombával el lehet pusztítani.}
@@ -41,11 +40,11 @@
 {920}{}{Véletlenül rábukkansz Nagor maradványaira, aki meghalt, mikor meg akarta menteni a kutyáját. }
 {921}{}{Nagor meghalt, amikor vissza akarta vinni a kutyája testét a faluba.}
 {930}{}{Vaúúúúúúúú!}
-{950}{}{Egy kicsit gyakorlod a mozgásokat. A pusztakezes harci képességed 5%-al nõ. }
+{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
 {951}{}{A harcoló vakondpatkány kileheli a lelkét.}
 {952}{}{A harcnak vége.}
 {1000}{}{Sikerült a Polgársági teszted.}
-{1001}{}{Jelentetted Redding Jet-függõségét McClure-nek.}
+{1001}{}{You reported the Jet addiction of Redding to McClure.}
 {1002}{}{Mostantól szabadon kereskedhetsz Reddinggel.}
 {1003}{}{Kikapcsoltad az erõtereket. }
 {1004}{}{Betörtél a számítógépbe.}
@@ -63,6 +62,9 @@
 {1016}{}{Hoppá, majdnem megfeledkeztem az ÉLET-rõl! Szerintem van itt valahol egy.}
 {1017}{}{Az ÉLET-kódodtól kirobban az ajtó.}
 {1018}{}{Kiirtottad Hûtõs Morton bandáját.}
+{1019}{}{You disable the shock plates.}
+{1020}{}{You broke up the bar brawl.}
+{1021}{}{You disabled the Robot Repair Terminal.}
 {1050}{}{A skorpiómérget belekevered az ellenanyagba.}
 {1051}{}{A broc virágból és a xander gyökérbõl gyógyító port készítesz.}
 {1099}{}{Az É.L.E.T-ed túl sokat ér a faludnak, hogy csak így eldobd.}
@@ -86,7 +88,6 @@
 {2017}{}{tizenhét}
 {2018}{}{tizennyolc}
 {2019}{}{tizenkilenc}
-{21020}{}{húsz}
 {2021}{}{huszonegy}
 {2022}{}{huszonkettõ}
 {2023}{}{huszonhárom}
@@ -237,13 +238,13 @@
 {9001}{}{Fegyverzet kész.}
 {9002}{}{Szerkezeti sérülés javítás alatt.}
 {10000}{}{Mondj nekem valamit!}
-{10001}{}{Gyógyítsd magad!}
-{10002}{}{Arra kérlek, várj itt, amíg vissza nem jövök!}
+{10001}{}{Most már meg kellene gyógyítanod magad.}
+{10002}{}{Kérlek, várj itt, amíg vissza nem jövök!}
 {10003}{}{Tedd el a fegyvered!}
-{10004}{}{Légy a közelemben!}
-{10005}{}{Ne menj messze!}
-{10006}{}{Kicsit szétszóródhatnánk.}
-{10007}{}{Most nincs több mondanivalóm.}
+{10004}{}{Maradj a közelemben!}
+{10005}{}{Ne menj túl messzire!}
+{10006}{}{Kicsit szét kellene szóródnunk.}
+{10007}{}{Mára ennyi.}
 {10008}{}{Változtatni kell a távolságunkon.}
 {10009}{}{Beszélnünk kell a felszerelésedrõl.}
 {10010}{}{Meggondoltam magam, azt hiszem, jó ez a távolság.}
@@ -251,3 +252,7 @@
 {10012}{}{Kérlek, vedd le a páncélt, amit viselsz!}
 {10013}{}{Tudnom kell, milyen fegyvereket tudsz használni.}
 {10100}{}{Gyerünk!}
+{20000}{}{Ezzel nem jutottál semmire.}
+{20100}{}{There is no lock on this door.}
+{21020}{}{húsz}
+{30000}{}{You have stolen from your own tribe.}

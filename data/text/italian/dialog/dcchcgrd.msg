@@ -1,5 +1,4 @@
 {100}{}{Vedi una guardia.}
-
 {150}{}{La guardia sta sorvegliando la vecchia chiesa.}
 {151}{}{[PARLA]}
 {152}{}{Con che coraggio mi mostri di nuovo il tuo brutto muso?!}
@@ -34,16 +33,14 @@
 {181}{}{Ehi, sta' lontano da quella dannata porta!}
 {182}{}{Non toccare la porta un'altra volta se non vuoi guai.}
 {183}{}{Se ti vedo toccare ancora quella porta, ti becchi un proiettile in testa.}
-{184}{}{Ehi, che cosa pensi di fare?}
+{184}{}{Ehi, cosa pensi di fare?}
 {185}{}{Ne ho avuto abbastanza di te.}
 {186}{}{Mi spiace; posso fare entrare solo te: i tuoi amici dovranno aspettare qui fuori.}
 {187}{}{Solo uno di voi puo' entrare.}
-
 {200}{}{Buonasera.}
 {201}{}{Buon pomeriggio.}
 {202}{}{Buongiorno.}
 {203}{}{Sei pregato di portare a termine il tuo lavoro, grazie.}
-
 {250}{}{Sai, amico, ne ho avuto abbastanza delle tue stronzate!}
 {251}{}{Sai, puttana, ne ho avuto abbastanza delle tue stronzate!}
 {252}{}{[FINE]}

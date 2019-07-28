@@ -1,5 +1,4 @@
-# Dialog Editor last position: 15
-{100}{}{Egy mutáns - ráadásul a szelídített fajtából.}
+{100}{}{You see a mutant - and a tame one at that.}
 {101}{}{Ez Lenny, emlékszel? A visszataszító.}
 {102}{}{Hoppá! Ez a legény igazi mestermû. Mindamellett, hogy zöld és ronda, több sebhely van rajta, mint egy vén kurván. Ez minden bizonnyal egy harcos.}
 {103}{}{Lenny vagyok, te pedig egy mocsokláda. Tûnj innen!}

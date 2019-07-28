@@ -5,13 +5,13 @@
 {104}{}{Állj! Ki átkelni kíván a Halálnak Hídján, három kérdésre megfeleljen, vagy a hídon át nem eresztem!}
 {105}{}{Céé... Déé.. .Ééé... Eff... Géé}
 {106}{}{[Elpályázol]}
-{107}{}{Jól van hát.}
+{107}{}{Rendben.}
 {108}{}{Halljam a három kérdést, nem félek tõlük.}
 {109}{}{Talán késõbb visszanézek.}
 {110}{}{Mondd meg, mi a neved!}
 {111}{}{Hhhh... Iii... Jéé... Káá... Ell...}
 {112}{}{?}
-{113}{}{Én} #continue at 172
+{113}{}{Én}
 {114}{}{[Elpályázol]}
 {115}{}{Arroyóból.}
 {116}{}{Harry}
@@ -24,7 +24,7 @@
 {123}{}{Mit keresel?}
 {124}{}{Mmmm....nnnn....oo...pééé}
 {125}{}{ÉLLET. Arro-yo}
-{126}{}{[Elpályázol]}
+{126}{}{(Elpályázol)}
 {127}{}{Én biz' a szent ÉLETET KERESEM!}
 {128}{}{Próbálom megmenteni a falumat valahogy.}
 {129}{}{Az elrabolt törzsemet keresem.}
@@ -45,7 +45,7 @@
 {144}{}{Attól függ... A speciális események a folytatás részének számítanak vagy sem?}
 {145}{}{Attól függ... NJK barátok vagy NJK ellenségek?}
 {146}{}{Egy hatos erejû személy mekkora súlyt képes elcipelni, ha megvan neki az Erõs Hát képesség?}
-{147}{}{Honnan tudjam én azt?!}
+{147}{}{Igazából magam sem tudom.}
 {148}{}{Öö... kétszáz fontot?}
 {149}{}{Öö... kétszáz-huszonöt fontot?}
 {150}{}{Öö... kétszáz-ötven fontot?}
@@ -54,7 +54,7 @@
 {153}{}{Öö... háromszáz-huszonöt fontot?}
 {154}{}{Az illetõnek hány szintje van meg az Erõs Hát képességbõl?}
 {155}{}{Mi a feltétele a Gyors Zsebek képességnek?}
-{156}{}{Honnan tudjam én azt?!}
+{156}{}{Igazából magam sem tudom.}
 {157}{}{Öö... ötös erõ?}
 {158}{}{Öö... ötös ügyesség?}
 {159}{}{Öö... hatos ügyesség?}
@@ -68,16 +68,14 @@
 {167}{}{Óh, köszönöm... köszönöm...}
 {168}{}{Honnan tudjam én azt?!}
 {169}{}{Player is disintegrated.}
-{170}{}{Hehe.}
+{170}{}{Heh-heh.}
 {171}{}{Valami rejtélyes oknál fogva az az érzésem, hogy kéne mentenem egy állást. Mégpedig egy új helyre...}
-
 {172}{}{mi neked név?}
-
 {173}{}{Soha nem sikerül a jó kérdést feltennem.}
 {174}{}{Errõl beszélni fogok az ügynökömmel.}
 {175}{}{Folyton mondom neki, hogy fel kéne hagynom ezzel a nagyon gázos elfoglaltsággal.}
 {176}{}{Hogy fogok valaha is elismerést kivívni, ha állandóan alacsony költségvetésû filmekben és játékokban kell szerepelnem.}
 {177}{}{Hmmm... most már komolyan meg kéne fontolnom, hogy autószerelésre adom a fejem.}
 {178}{}{Úgy hallom, abban van manapság a nagy pénz.}
-
 {200}{}{AAAAAAAHHHHHHHHhhhhhh!}
+{1171}{}{Uh, oh. Me should save game in new slot.}

@@ -1,8 +1,7 @@
-# Dialog Editor last position: 128
 {100}{}{Tolvajokkal és farkasokkal találkozol.}
 {101}{}{Tolvajokkal találkozol.}
 {102}{}{Farkasokkal találkozol.}
-{103}{}{Skorpiókkal találkozol.}
+{103}{}{You encounter radscorpions.}
 {104}{}{Spóra növényekkel találkozol.}
 {105}{}{Egy tolvajokkal harcoló õrjárattal találkozol.}
 {106}{}{Egy farkasokkal harcoló õrjárattal találkozol.}
@@ -29,11 +28,11 @@
 {209}{}{Egy karavánnal találkozol.}
 {250}{}{Martalócokkal találkozol.}
 {251}{}{Farkasokkal találkozol.}
-{252}{}{Skorpiókkal találkozol.}
+{252}{}{You encounter radscorpions.}
 {253}{}{Egy karavánnal találkozol, amit martalócok támadtak meg.}
 {254}{}{Egy karavánnal találkozol, amit martalócok támadtak meg.}
 {255}{}{Egy karavánnal találkozol, amit farkasok támadtak meg.}
-{256}{}{Egy karavánnal találkozol, amit skorpiók támadtak meg.}
+{256}{}{You encounter a caravan fending off radscorpions.}
 {257}{}{Egy karavánnal találkozol.}
 {258}{}{Egy karavánnal találkozol.}
 {259}{}{Egy karavánnal találkozol.}
@@ -44,12 +43,12 @@
 {302}{}{ÚKK Felderítõkkel találkozol, akik a Mester hadseregének maradékával harcolnak. }
 {303}{}{ÚKK Felderítõkkel találkozol, akik martalócokkal harcolnak. }
 {304}{}{Farmerekkel találkozol, akiket a Mester hadseregének maradékai támadtak meg.}
-{305}{}{Farmerekkel találkozol, akiket martalócok támadtak meg.}
+{305}{}{You encounter farmers fending off marauders.}
 {306}{}{ÚKK Felderítõkkel találkozol.}
 {307}{}{Farmerekkel találkozol.}
 {350}{}{Egy Rabszolga-hajcsár karavánnal találkozol.}
-{351}{}{Útonállókal és rablókkal találkozol.}
-{352}{}{Útonállókal találkozol.}
+{351}{}{Rablókkal és útonállókkal találkozol.}
+{352}{}{Útonállókkal találkozol.}
 {353}{}{Rablókkal találkozol.}
 {354}{}{Egy karavánnal találkozol, amit útonállók támadtak meg.}
 {355}{}{Egy rablókkal harcoló karavánnal találkozol.}
@@ -62,23 +61,23 @@
 {400}{}{Útonállókkal találkozol.}
 {401}{}{Rablókkal találkozol.}
 {402}{}{Rablókkal és útonállókkal találkozol.}
-{403}{}{Aranygekkókkal és skorpiókkal találkozol.}
+{403}{}{You encounter golden geckos and radscorpions.}
 {404}{}{Aranygekkókkal találkozol.}
 {405}{}{Vakondpatkányokkal és disznópatkánnyokkal találkozol.}
-{406}{}{Skorpiókkal találkozol.}
+{406}{}{You encounter radscorpions.}
 {407}{}{Spóra növényekkel találkozol.}
 {408}{}{Rablókkal harcoló útonállókba botlottál. }
 {409}{}{Egy karavánnal találkozol, amit útonállók támadtak meg.}
 {410}{}{Egy karavánnal találkozol, amit rablók támadtak meg.}
-{411}{}{Egy karavánnal találkozol, amit skorpiók támadtak meg.}
-{412}{}{Skorpiókkal harcoló gekkókkal találkozol.}
+{411}{}{You encounter a caravan fending off radscorpions.}
+{412}{}{You encounter geckos fighting radscorpions.}
 {413}{}{Egy karavánnal találkozol.}
 {450}{}{Rablókkal és útonállókkal találkozol.}
 {451}{}{Útonállókkal és gekkókkal találkozol.}
 {452}{}{Aranygekkókkal találkozol.}
-{453}{}{Skorpiókkal és spóra növénnyekkel találkozol.}
-{454}{}{Skorpiókkal harcoló rablókkal találkozol.}
-{455}{}{Rablókkal harcoló skorpiókkal találkozol.}
+{453}{}{You encounter radscorpions and spore plants.}
+{454}{}{You encounter robbers fighting radscorpions.}
+{455}{}{You encounter radscorpions fighting robbers.}
 {456}{}{Egy karavánnal találkozol, amit útonállók támadtak meg.}
 {457}{}{Egy karavánnal találkozol, amit rablók támadtak meg.}
 {458}{}{Spóra növényeket gyomláló útonállókkal találkozol.}
@@ -111,7 +110,7 @@
 {600}{}{Halálkarmokkal találkozol.}
 {601}{}{Tûz-gekkókkal találkozol.}
 {602}{}{Egy halálkarmok elõl menekülõ karavánnal találkozol.}
-{603}{}{Egy halálkarmokkal viaskodó karavánnal találkozol.}
+{603}{}{Egy halálkarmokkal harcoló karavánnal találkozol.}
 {604}{}{Egy tûz-gekkókkal harcoló karavánnal találkozol.}
 {605}{}{Egy tûz-gekkókkal harcoló karavánnal találkozol.}
 {606}{}{Egy karavánnal találkozol.}

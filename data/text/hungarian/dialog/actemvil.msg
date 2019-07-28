@@ -1,11 +1,11 @@
 {100}{}{Õ Cameron, az egyik törzsbéli társad.}
 {101}{}{Õ Cameron.}
-{102}{}{Egy fiatalembert látsz, duzzadó izmokkal, és nagyon magabiztos arckifejezéssel.}
-{103}{}{Üdvözöllek, }
+{102}{}{Egy ifjú embert látsz duzzadó izmokkal és merész arckifejezéssel.}
+{103}{}{Légy üdvözölve, }
 {104}{}{. Enyém a megtiszteltetés, hogy ismertessem utolsó feladatod. A küldetésed folytatásához le kell engem gyõznöd közelharcban, fegyverek nélkül. Kezdhetjük?}
-{105}{}{Van nekem kérdés.}
+{105}{}{Én van kérdések.}
 {106}{}{Oké, mi harcol.}
-{107}{}{Nem, én felkészül elõször.}
+{107}{}{Nem, felkészülni én elõször.}
 {108}{}{Elõször lenne hozzád néhány kérdésem.}
 {109}{}{Rendben, kezdhetjük.}
 {110}{}{Várj egy pillanatot, elõbb felkészülnék!}
@@ -22,14 +22,14 @@
 {121}{}{Egy pillanat, még fel kell készülnöm.}
 {122}{}{A Kiválasztott útját nem könnyû végigjárni, }
 {123}{}{. Rengeteg megpróbáltatásban lesz még részed életed során, és ezek közül a legnehezebb az, ha a társaddal kell összecsapnod. Eljön majd az idõ, amikor a diplomácia és a cselek csõdöt mondanak, ezért a puszta kezedet kell használnod. Ez a megpróbáltatás felkészít arra, hogy ha meglátod az ellenséged, a szemébe nézhess, és tudd, hogy meg kell ölnöd õt.}
-{124}{}{Rendben.}
+{124}{}{Oké.}
 {125}{}{Értem.}
 {126}{}{Nem, barátom, csak le kell gyõznöd. Ha eljön az ideje, rögtön abbahagyjuk a küzdelmet.}
 {127}{}{Én érteni.}
 {128}{}{Rendben.}
 {129}{}{Igen. A fegyverek csak akadályoznának bennünket a harcban, és gyengítenék az egymás elleni cselekedeteink hatását. Mikor puszta ököllel harcolsz egy másik ember ellen, látod is, érzed is a fájdalmat, amit okoztál. A harc nagyon személyessé válik kettõtök között. Ez fontos lecke lehet számodra, }
-{130}{}{.}
-{131}{}{Én megérteni.}
+{130}{}{ vagyok.}
+{131}{}{Ah.}
 {132}{}{Értem.}
 {133}{}{Nagyon jó. Kezdhetjük?}
 {134}{}{Én készen állni.}
@@ -44,7 +44,7 @@
 {143}{}{Azt hiszem, igen.}
 {144}{}{Nem, adj még egy percet!}
 {145}{}{Nagyszerû! A felszerelésed az ajtó melletti ládában lesz, a másik teremben. A harc után magadhoz veheted. Harcra fel! Sok szerencsét, }
-{146}{}{!}
+{146}{}{ vagyok.}
 {147}{}{Örülök, hogy újra láthatlak, Kiválasztott. Miben segíthetek?}
 {148}{}{Én akarja újra menni be templom.}
 {149}{}{Akarsz velem újra harcolni?}
@@ -53,7 +53,7 @@
 {152}{}{Üdv, Cameron! Készen állsz egy újabb harcra?}
 {153}{}{Csak gondoltam, beköszönök. Késõbb találkozunk.}
 {154}{}{Rendben, Kiválasztott. Ez a barlang mögöttem a templom utolsó kamrájába vezet.}
-{155}{}{Rendben, én mostan menni.}
+{155}{}{Oké. Menni.}
 {156}{}{Rendben. Köszönöm.}
 {157}{}{Nem, kösz, Kiválasztott. Még mindig megvannak a sebeim, amiket tõled szereztem a harcban, és több évbe fog telni, amíg teljesen meggyógyulok!}
 {158}{}{Üdv, Cameron.}
@@ -63,18 +63,18 @@
 {165}{}{Nem értek veled egyet. Szerintem ezt békésen is megoldhatnánk.}
 {166}{}{Talán igazad van, }
 {167}{}{, de a mi helyzetünkben ez most nem lehetséges. Le kell gyõznöd engem, hogy kiálld a próbát!}
-{168}{}{Nézd, nem ismerjük egymás erõsségeit, és gyengeségeit. Baleset is történhet. Mi lesz például, ha valamelyikünk akaratán kívül megöli a másikat? Hagyjuk ezt a harcot, rendben?}
+{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
+ Accidents do happen, so what if one of us inadvertently kills the other? Let's just
+ end this now rather than take that chance, okay?}
 {169}{}{Hmm... Értem, mire gondolsz. Nem akarom, hogy véletlenül meghalj, miközben csak a harci képességeidet tesztelném. Rendben... továbbmehetsz, Kiválasztott!}
 {170}{}{Hmm... Értem, mire gondolsz, de mindenképp harcolnunk kell. Megígérem, hogy nem fogok nagy fájdalmat okozni.}
 {171}{}{Köszönöm! Majd találkozunk a faluban.}
 {172}{}{Értem.}
-
 {200}{}{Mintha nem emlékeznék az utolsó harcunkra, Kiválasztott. Egész életemben csodálkozni fogok, hogyan vettél rá arra, hogy tovább engedjelek.}
 {201}{}{Nyelved akár az ezüst, Kiválasztott. Úgy bánsz a szavakkal, hogy minden bizonnyal hasznát tudod majd venni utazásod során.}
-{300}{}{Neked szintúgy, Kiválasztott. Õseink szelleme vezessen utadon!}
+{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
 {301}{}{Köszönöm, Cameron.}
-
-{302}{}{Kiválasztott, látom gyenge vagy a harcban. Így utad során csak a szavaidra számíthatsz. Ha megengeded, tanítok neked néhány harci cselt.} 
+{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
 {303}{}{Igen, te tanít engem.}
 {304}{}{Nem, én nem kell ezt.}
 {305}{}{Jó, kérlek taníts meg mindenre, amit tudsz!}

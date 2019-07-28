@@ -1,6 +1,5 @@
-# Dialog Editor last position: 5
-{100}{}{Egy rongyos utazó.}
-{101}{}{Egy bárvendéget látsz.}
+{100}{}{Egy rongyos utazót látsz.}
+{101}{}{Vendég.}
 {102}{}{Egy rongyos utazót látsz.}
 {103}{}{Hé, emberek, ide nézzetek! Õ az, aki szétrúgot pár Enklávés segget.}
 {104}{}{Gratulálok, bajnok!}
@@ -29,7 +28,7 @@
 {127}{}{Nem csináltam semmit, Kapitány. Csak agyaskodom. Az ugye nem bûn?}
 {128}{}{Nem tudok semmit, Kapitány. Hagyjon békén!}
 {129}{}{Muszáj magának itt lennie, Kapitány?}
-{130}{}{Senkibõl nem lehet Polgár, csak ha a városban születik.}
+{130}{}{Lynette mostanában senkinek sem ad polgársági papírokat.}
 {131}{}{Már kifizettem a védelmi pénzt az õröknek, úgyhogy hagyjon engem!}
 {132}{}{Mit keres itt, "Polgártárs"?}
 {133}{}{Jobb lenne, ha békén hagyna minket.}

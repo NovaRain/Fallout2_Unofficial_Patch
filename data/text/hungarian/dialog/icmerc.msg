@@ -1,11 +1,6 @@
-# 0. QUICK LOOK
 {100}{}{Egy állig felfegyverzett zsoldost látsz.}
-
-# 0. LOOK
 {150}{}{Egy bõrpáncélt viselõ kemény fickót látsz. Számtalan sebhely és golyónyom borítja a testét, viszont a páncélja és a fegyvere jó állapotban vannak, szinte újak.}
 {151}{}{Egy jól felfegyverzett fosztogatót látsz. A területet kémleli, közben az ujját a ravaszon tartja.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Nézzétek ezt a tökös köcsögöt...}
 {201}{}{Behatoló!}
 {202}{}{Betörtek a területünkre!}
@@ -13,11 +8,9 @@
 {204}{}{Vonszoljátok ide a seggeteket! Van egy behatolónk!}
 {205}{}{Nézzétek ki ugrott be hozzánk... most meghal...}
 {206}{}{Picsába! Ránk találtak!}
-{207}{}{Elment az eszed, hogy idejöttél!}
+{207}{}{Valami mocskot fújt ide a szél...}
 {208}{}{Eltévesztetted a házszámot, köcsög!}
-{209}{}{Nagyon sokat képzelsz magadról, gyökér!}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{209}{}{Nézzétek már mit hepciáskodik itt ez a kis szuka...}
 {250}{}{Kimentünk piálni, erre beszólt szarul, mi meg jól szétrúgtuk a seggét.}
 {251}{}{Ellenõriznünk kéne a csapdákat a barlangban...}
 {252}{}{Mindjárt kezdõdik az õrjárat...}

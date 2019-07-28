@@ -1,6 +1,5 @@
-# Dialog Editor last position: 96
 {100}{}{Az illetõ bõre nagyon csúnyán megégett.}
-{101}{}{Ez itt egy gekkóbeli ghoul.}
+{101}{}{Õ egy gekkói lakos.}
 {102}{}{Ennek az embernek lehámlott a bõre a sugárzás miatt. Ekkora dózistól rendszerint meghalnak az emberek, de õ egész jól bírja.}
 {110}{}{Ez az alak enyhén világít. A bõre elég csúnyán megégett.}
 {111}{}{Õ egy Lámpás, Gekkó egyik polgára.}
@@ -9,13 +8,13 @@
 {121}{}{Ha te nem vagy, azok a menedékvárosi bigottak mind egy szálig kiirtottak volna minket.}
 {122}{}{Hõs vagy a javából!}
 {123}{}{Ha ráérsz, bármikor beugorhatsz hozzám egy jó kis gekkópörköltre.}
-{124}{}{Köszönet illet, hogy megjavítottad a reaktorunkat.}
+{124}{}{Köszönjük, hogy megjavítottad a reaktort.}
 {125}{}{Most mintha kissé hidegebb lenne, de azért hálásak vagyunk, hogy megszüntetted a reaktorszivárgást.}
 {126}{}{Köszönjük, hogy lerendezted azokat a menedékvárosi fafejeket.}
 {127}{}{Ha nem segítettél volna, Menedékváros elpusztított volna minket.}
 {128}{}{A hõsünk vagy!}
 {129}{}{Nem tudjuk elégszer megköszönni.}
-{130}{}{Köszönjük a segítségedet!}
+{130}{}{Kösz a segítséget.}
 {131}{}{Te vagy a legjobb. Köszönjük.}
 {132}{}{Egy simabõrûhöz képest elég jó munka volt.}
 {140}{}{Üdv, simabõrû barátom!}
@@ -23,7 +22,7 @@
 {142}{}{Üdv, barátom!}
 {143}{}{Te nem vagy olyan, mint a többi simabõrû.}
 {144}{}{Van valami figyelemreméltó változás odakinn a pusztulatban?}
-{145}{}{Üdv!}
+{145}{}{Helló!}
 {146}{}{Hogy vagy, barátom?}
 {147}{}{Az atomreaktorunk miatt sugárzok a büszkeségtõl.}
 {148}{}{Megzaboláztuk az atom erejét.}
@@ -32,8 +31,8 @@
 {151}{}{Ha a Menedékvárosiak hozzád hasonlóak lennének, nem lenne semmi problémánk velük.}
 {160}{}{Hmmm, egy újabb megbízhatatlan simabõrû.}
 {161}{}{Hogysmint, simabõrû?}
-{162}{}{Üdvözlet!}
-{163}{}{Mi a nagy helyzet?}
+{162}{}{Helló!}
+{163}{}{Mi a helyzet?}
 {164}{}{Amíg a városban vagy, fogd vissza magad, kérlek!}
 {165}{}{Messzirõl jöttél?}
 {166}{}{Úgy nézel ki, mint a Menedékvárosiak.}
@@ -80,7 +79,7 @@
 {247}{}{Valakinek most már kéne új ruhákat is gyártani itt.}
 {248}{}{Ahh, a sör fasza dolog.}
 {249}{}{Ez a sör remek! A víz teszi... meg még egy csomó más.}
-{260}{}{Te vagy a legjobb simabõrû, akivel valaha találkoztam.}
+{260}{}{Te vagy a legemberségesebb simabõrû, akit valaha ismertem.}
 {261}{}{Még egy kis aktív piát! Még egy kis aktív piát!}
 {262}{}{Meghívol még minket, he, simabõrû?}
 {263}{}{Azok a szerencsétlen Broken Hills-i mutánsok...}
@@ -91,9 +90,9 @@
 {268}{}{A Megújhodást várom és simabõrû akarok lenni.}
 {269}{}{Meg merek esküdni, hogy éjszakánként repülõ dolgokat látok az égen.}
 {280}{}{Csíplek ám.}
-{281}{}{Te vagy a legjobb.}
+{281}{}{Te vagy a legjobb!}
 {282}{}{Addig nukézzuk le Menedékvárost, amíg nem késõ!}
-{283}{}{/~ Uránízû banán, nincs a banánfán... /~}
+{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
 {284}{}{/~ Reddingben születtem, ott is nõttem fel, vannak jobb helyek, de nekem megfelel... /~}
 {285}{}{Amíg nem jöttél ide, sosem bíztam volna egy simabõrûben.}
 {286}{}{Hát el kell ismernem, egy-két simabõrû nem is olyan rossz ember.}
@@ -108,7 +107,7 @@
 {303}{}{Közel az idõ, hogy áramot adunk el Menedékváros számára.}
 {304}{}{A jó életbe, mostantól egy rakás rézre lesz szükségünk Reddingbõl.}
 {305}{}{A reaktor most már pöpecül mûködik. Köszönjük.}
-{306}{}{Te vagy a legjobb.}
+{306}{}{Te vagy a legjobb!}
 {307}{}{Köszönjük, hogy rendbe tetted az atomerõmûvünket.}
 {308}{}{A reaktor úgy dorombol, ahogy kell. Köszönet érte.}
 {309}{}{Te vagy a legemberségesebb simabõrû, akit valaha ismertem.}

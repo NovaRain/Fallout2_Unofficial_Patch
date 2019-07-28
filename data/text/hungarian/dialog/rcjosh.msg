@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy magas, vékony férfit látsz. Téged vizslat.}
 {101}{}{Josh Laurance-t látod, az Utolsó Lehelet Italbolt tulajdonosát.}
 {102}{}{Miközben téged vizslat, a férfi mintha méretet venne rólad.}
@@ -8,7 +7,7 @@
 {106}{}{Mennyé innen, rühös idjóta!}
 {107}{}{Tûnj innen, mielõtt összedzsuvázod a padlót!}
 {108}{}{Üdv, barátom. A nevem Josh Laurence. Enyém ez a hely.}
-{109}{}{Mit tehetek érted?}
+{109}{}{Mit tehetek magáért?}
 {110}{}{Egészen pontosan mi is ez a hely?}
 {111}{}{Egy italt szeretnék.}
 {112}{}{Szeretnék fizetni mindenkinek egy kört.}
@@ -70,12 +69,13 @@
 {168}{}{Soha nem látok semmit, de körülbelül hetente egyik vagy másik sírt teljesen összeturkálják és félig-meddig kiássák. Elképzelésem sincs, mi tehet ilyet.}
 {169}{}{Ez furcsa.}
 {170}{}{Nem furcsa, hanem idegesítõ. A bányászok azt mondogatják, hogy inkább itt bent szeretnének feküdni, minthogy kint elássák õket csak azért, hogy aztán kihúzzák õket a földbõl, mint egy túlérett répát. A francba is, nem bánom, mert szívesen megtartom a pofásabb darabokat, de mindenkivel nem tudok így bánni. Nem tudom, mitévõ legyek.}
-{171}{}{Micsoda kellemes képet juttatott eszembe! Biztos vagyok benne, hogy rémálmaim lesznek tõle. Hadd kérdezzek valami mást!}
+{171}{}{What a pleasant image that is. I'm sure that I'll wake up in cold sweat thinking about that
+ one. Let me ask you something else.}
 {172}{}{Ez rejtély, igazad van. Hát azt hiszem, még találkozunk, Josh. Viszlát!}
 {173}{}{Hát, amennyiben megfõzitek... Várj egy percet, a fenébe is! Ez ettõl még kannibalizmus! Te komplett beteg vagy, még egy törzsbélihez képest is!}
 {174}{}{Nyugi, Josh! Csak vicceltem. Hehe. A fenébe is, csak bizonyos részeket fõzünk meg belõlük.}
 {175}{}{Bizonyos részeket? Mégis melyik részeket?}
-{176}{}{Kit érdekel? (megvonod a vállad) Rész-rész.}
+{176}{}{Who cares? (you shrug) Parts are parts.}
 {177}{}{Csak húztalak téged, Josh. Inkább hadd kérdezzek valami mást.}
 {178}{}{Aha, azt hiszem, van ebben logika.}
 {179}{}{Persze, hogy van. Na, hadd kérdezzek valami mást!}

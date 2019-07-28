@@ -11,7 +11,7 @@
 {110}{}{Prima o poi ci muoveremo, ne sono certo.}
 {111}{}{Ti piacciono le nostre case?}
 {112}{}{Amo vivere sulla spiaggia.}
-{113}{}{Ti prego non farmi del male!}
+{113}{}{Per piacere non farmi male!}
 {114}{}{No! Non farmi del male!}
 {115}{}{Lascia in pace i miei bambini!}
 {116}{}{Fermati! Non farci del male!}

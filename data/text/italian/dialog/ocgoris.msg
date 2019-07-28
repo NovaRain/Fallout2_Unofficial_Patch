@@ -2,27 +2,27 @@
 {101}{}{Vedi Goris lo studioso.}
 {102}{}{Vedi una figura umanoide che indossa un saio con le maniche lunghe e il cappuccio. La sua postura ha un qualcosa di innaturale, ma non riesci a capire bene cosa.}
 {103}{}{Salve, il mio nome e' Goris. Non ti riconosco; sei nuovo di qui?}
-{104}{}{Me } # 213
+{104}{}{Me }
 {105}{}{Me va.}
 {106}{}{Si', e allora?}
-{107}{}{Piacere. Io sono } # 214
+{107}{}{Piacere. Io sono }
 {108}{}{Salve, Goris. Gruthar mi ha consigliato di parlare con te. Credo ti ritenga un uomo in grado di dare risposte a molte domande. }
 {109}{}{Posso farti qualche domanda?}
 {110}{}{Scusa, devo andare.}
-{111}{}{E' un piacere conoscerti, } # 215
+{111}{}{E' un piacere conoscerti, }
 {112}{}{E cosi' hai parlato con Gruthar. Esagera sempre quando parla di me. Non conosco la meta' delle cose che lui pensa io sappia. Tuttavia...}
 {113}{}{E cosi' tu sei un esterno! Ho visto pochi esseri come te; alcuni di essi risiedono qui nel vault, ma tu sembri diverso. Sembri essere piu' "stagionato", se capisci quel che voglio dire. Scommetto che hai affrontato un lungo viaggio e hai portato a termine diverse imprese. Ho ragione?}
 {114}{}{Uh... "stagionato"?}
 {115}{}{Me va.}
 {116}{}{Scusa, ma adesso credo di dover andare.}
 {117}{}{Si', la mia vita e' stata alquanto avventurosa. Ascolta, se non ti dispiace rispondere a qualche mia domanda, in cambio io potrei raccontarti qualcuna delle mie avventure. }
-{118}{}{Non sono affari tuoi. }
+{118}{}{Non sono affari tuoi.}
 {119}{}{Ti dispiace se ti faccio qualche domanda?}
 {120}{}{D'accordo! Mi piacerebbe molto ascoltare tutte le storie che hai da raccontarmi. }
 {121}{}{Inoltre non potrei mai rifiutarmi di aiutare un amico di Gruthar. }
-{122}{}{Che cosa desideri sapere?}
-{123}{}{Di cosa ti occupi?}
-{124}{}{Sei un prigioniero dei Deathclaw?}
+{122}{}{Cosa vorresti sapere?}
+{123}{}{Cosa fai qui?}
+{124}{}{Sei un prigioniero?}
 {125}{}{Da quanto tempo ti trovi qui?}
 {126}{}{Cosa puoi dirmi a proposito dei Deathclaw che vivono qui?}
 {127}{}{Sai per caso cos'e' successo alle persone che vivevano all'interno di questo vault?}
@@ -54,7 +54,7 @@
 {153}{}{Hmm... devo farti delle altre domande.}
 {154}{}{Lo sapevo che questi dannati Deathclaw dovevano essere in qualche modo responsabili! Ho bisogno di altre informazioni, pero'.}
 {155}{}{A volte siamo costretti, da circostanze al di fuori del nostro controllo, a fare delle cose sgradevoli. Gruthar dovrebbe imparare a perdonare se stesso.}
-{156}{}{Gruthar non e' il mostro che sembra. Si preoccupa davvero per tutti noi e fa di tutto per garantirci la sicurezza e la sopravvivenza. E tutti noi ci fidiamo ciecamente di lui. Non so cos'altro potrei dire. Ti consiglio di conoscerlo e di fartene un'idea da te.} ###??? All of us trust him with our lives
+{156}{}{Gruthar non e' il mostro che sembra. Si preoccupa davvero per tutti noi e fa di tutto per garantirci la sicurezza e la sopravvivenza. E tutti noi ci fidiamo ciecamente di lui. Non so cos'altro potrei dire. Ti consiglio di conoscerlo e di fartene un'idea da te.}
 {157}{}{Non daro' giudizi affrettati su di lui. Merita di meglio.}
 {158}{}{Certo. Parliamo di qualcos'altro.}
 {159}{}{E' un Deathclaw. Faccio fatica a credere che possa avere delle qualita' positive.}
@@ -102,7 +102,7 @@
 {201}{}{Uh... me perso. Me va.}
 {202}{}{Son passato solo per salutarti. Ci vediamo.}
 {203}{}{Ehi, sto cercando un compagno di viaggio. Che ne diresti di venire con me?}
-{204}{}{Cosa posso fare per te, } # 216
+{204}{}{Cosa posso fare per te, }
 {205}{}{Tu cosa cattiva! Perche' no detto?}
 {206}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
 {207}{}{Come posso spiegartelo... Cose cattive te uccidere, no parlare. Me non ha detto te cosi' tu credere me cosa buona. No uccidere me. Okay me stare con te?}
@@ -111,68 +111,59 @@
 {210}{}{Okay, tu stare.}
 {211}{}{Mi dispiace, ma non mi piace essere preso per il naso. Faresti meglio ad andartene.}
 {212}{}{Capisco il motivo per cui hai ritenuto necessario celare la tua identita'. Penso che potremmo lavorare insieme... percio' resta, ti prego -- ma non ingannarmi piu', Goris.}
-
-# the name usually precedes these lines
 {213}{}{. Me nuovo qui.}
 {214}{}{. Si', vengo da fuori.}
 {215}{}{.}
 {216}{}{?}
-
 {217}{}{L'Enclave ha cominciato a condurre degli esperimenti con un virus, o qualcosa del genere, e l'ha iniettato nei Deathclaw. Questo virus ha la capacita' di tramutare gli umani in una specie di esseri superiori, per cui l'Enclave voleva vedere che effetti avrebbe avuto sui Deathclaw. Beh, il risultato fu una stirpe di Deathclaw cosi' intelligenti da rendersi conto della loro condizione di schiavi. Cosi', si finsero stupidi nell'attesa di conquistare la liberta'. E adesso, eccoli qui!}
 {218}{}{Non ho alcuna intenzione di attaccare un Deathclaw.}
-
 {219}{}{All'improvviso ho come la sensazione che il mio branco sia in pericolo. Mi dispiace lasciarti, ma devo andare a vedere come stanno i miei fratelli.}
 {220}{}{Okay.}
 {221}{}{Le telecamere di sicurezza hanno registrato quel che e' successo. Dovresti controllare il filmato.}
-
 {222}{}{Vedi un Deathclaw grigio. E' Goris.}
 {223}{}{Vedi una figura umanoide che indossa un saio con le maniche lunghe e il cappuccio. E' Goris.}
-
-#specific party messages
+{1000}{}{Si', }
+{1001}{}{Tu curare te.}
+{1002}{}{Tu aspettare qui. Me torna e prende te.}
+{1003}{}{Uh... no armi ora. Okay?}
+{1008}{}{Tu D'claw? Perche' tu no detto?}
+{1009}{}{Me fatto.}
+{1010}{}{Adesso dovresti medicarti le ferite.}
+{1011}{}{Voglio che tu stia qua finche' non ritorno.}
+{1012}{}{Vedi di non tener sfoderata nessuna arma, okay?}
+{1016}{}{Andiamo.}
+{1017}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
+{1018}{}{E' tutto, per ora.}
+{1019}{}{Sono in piena forma e pronto ad andare, }
+{1020}{}{Sono quasi del tutto guarito, }
+{1021}{}{Sono piuttosto in salute, ma mi farebbero comodo delle cure aggiuntive, non appena ne avremo la possibilita', }
+{1022}{}{Mi sono curato per quanto mi era possibile, ma sono ancora messo piuttosto male, }
+{1041}{}{Ti aspettero' finche' non sarai tornato, }
+{1060}{}{Faro' del mio meglio per non attirare l'attenzione, }
 {1064}{}{Tu stare vicino.}
 {1065}{}{No andare troppo lontano.}
 {1066}{}{Tu troppo vicino. Allontanare.}
 {1073}{}{Stammi vicino.}
 {1074}{}{Non allontanarti troppo.}
 {1075}{}{Dovremmo distanziarci un po'.}
-{1001}{}{Tu curare te.}
-{1002}{}{Tu aspettare qui. Me torna e prende te.}
-{1003}{}{Uh... no armi ora. Okay?}
-{1167}{}{Me pensa tu dovere muovere diverso.}
-{1008}{}{Tu D'claw? Perche' tu no detto?}
-{1009}{}{Me fatto.}
-{1010}{}{Adesso dovresti medicarti le ferite.}
-{1011}{}{Ho bisogno che tu rimanga qui finche' non saro' tornato.}
-{1012}{}{Vedi di non tener sfoderata nessuna arma, okay?}
-{1166}{}{Modifichiamo la distanza che c'e' tra noi.}
-{1016}{}{Andiamo.}
-{1017}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
-{1018}{}{Per ora e' tutto.}
-{1000}{}{Si', }
-{1156}{}{? }
-{1019}{}{Sono in piena forma e pronto ad andare, }
-{1020}{}{Sono quasi del tutto guarito, }
-{1021}{}{Sono piuttosto in salute, ma mi farebbero comodo delle cure aggiuntive, non appena ne avremo la possibilita', }
-{1022}{}{Mi sono curato per quanto mi era possibile, ma sono ancora messo piuttosto male, }
-{1157}{}{. }
-{1041}{}{Ti aspettero' finche' non sarai tornato, }
-{1060}{}{Faro' del mio meglio per non attirare l'attenzione, }
+{1078}{}{E' tutto, per ora.}
 {1079}{}{Ti staro' piu' vicino che posso, }
-{1078}{}{Per adesso e' tutto.}
 {1098}{}{Mi allontanero' un po' per darti modo di respirare, }
 {1117}{}{Mi terro' lontano e ti daro' spazio, }
 {1136}{}{Mi dispiace, }
+{1137}{}{Ho imparato molte cose durante i nostri viaggi insieme. Verro' volentieri con te, }
+{1156}{}{? }
+{1157}{}{. }
 {1158}{}{, ma il tuo gruppo e' gia' abbastanza nutrito. Ti aspettero' qui finche' non si sara' liberato un posto.}
 {1159}{}{Credo che faro' meglio a starmene da solo.}
 {1160}{}{Non voglio avere nulla a che fare con te. Me ne vado.}
-{1137}{}{Ho imparato molte cose durante i nostri viaggi insieme. Verro' volentieri con te, }
 {1161}{}{Voglio vendicare i miei fratelli.}
 {1162}{}{D'accordo. Andiamo.}
 {1163}{}{Forse dovresti andare da solo, questa volta.}
 {1164}{}{Tu avere ragione, noi uccidere.}
 {1165}{}{Tu andare solo.}
-
-#added by killap - NPC info
+{1166}{}{Modifichiamo la distanza che c'e' tra noi.}
+{1167}{}{Me pensa tu dovere muovere diverso.}
 {2000}{}{Temo di essermi rotto qualche osso. Ho bisogno di vedere uno specialista.}
 {2001}{}{Ho tutti i sintomi di un avvelenamento da radiazioni. Hai qualcosa che possa aiutarmi?}
 {2002}{}{Temo di avere del veleno in circolo. Hai dell'antidoto?}

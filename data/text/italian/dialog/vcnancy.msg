@@ -7,7 +7,7 @@
 {106}{}{Un mutante! Aieeeeee! Guardie!}
 {107}{}{Un ghoul! Aieeeeee! Guardie!}
 {108}{}{Devo stampare quelle tabelle informative per Gregory...}
-{109}{}{Vediamo... Alle 1400 dobbiamo fare le iniezioni a tre Servi...} ###???We have three Servant inoculations scheduled for 1400
+{109}{}{Vediamo... Alle 1400 dobbiamo fare le iniezioni a tre Servi...}
 {110}{}{Tutti questi "bip" mi stanno facendo impazzire...}
 {111}{}{Sarei pronta a giurare che i database medici parlino tra di loro...}
 {112}{}{Vediamo un po'... tre siringhe, disinfettante, tre fiale di RadX...}
@@ -51,7 +51,7 @@
 {150}{}{Oh! Bene... benvenuto a Vault City, Capitano.}
 {151}{}{Bene... benvenuto a Vault City, compagno Cittadino.}
 {152}{}{Non si vedono molte facce nuove, da queste parti. Io sono Phyllis. Lei come si chiama?}
-{153}{}{Mi chiamo }
+{153}{}{Il mio nome e' }
 {154}{}{Sono }
 {155}{}{Se avessi voluto dirti il mio nome, l'avrei fatto, "Si-Phyllide"... o come diavolo ti chiami.}
 {156}{}{Mi spiace, adesso non ho tempo per parlare.}
@@ -70,8 +70,8 @@
 {169}{}{Cosa ne pensi del Dr. Troy?}
 {170}{}{Potresti dirmi dove si trova il Computer Centrale?}
 {171}{}{Ho bisogno di cure.}
-{172}{}{Di cosa ti occupi?}
-{173}{}{Potresti parlarmi di Vault City?}
+{172}{}{Di che cosa ti occupi?}
+{173}{}{Puo' parlarmi di Vault City?}
 {174}{}{Veramente, al momento non ho domande. Grazie lo stesso.}
 {175}{}{Oh, il Dr. Troy puo' essere piuttosto severo, a volte, ma, tutto sommato, e' una brava persona. Vault City e' fortunata ad avere una persona come lui.}
 {176}{}{Beh, mi ha chiesto di portargli segretamente delle droghe.}
@@ -89,9 +89,9 @@
 {188}{}{Si trova giu' al terzo livello, se ricordo bene. Sono anni che non vado laggiu'.}
 {189}{}{Perche' no?}
 {190}{}{Posso farti un'altra domanda?}
-{191}{}{Grazie delle informazioni. Ci vediamo.}
+{191}{}{Grazie per le indicazioni. addio.}
 {192}{}{Oh, non saprei. Ma non ci sono molti motivi per recarsi nei livelli inferiori del Vault. Adesso viene usato soprattutto come magazzino. L'unica persona che si trova laggiu' e' Martin, e... beh, che resti tra lei e me, non e' che sia un granche' come parlatore.}
-{193}{}{Uhh.... E allora perche' l'hanno fatto parlatore se non sa fare bene il suo lavoro?} ###???
+{193}{}{Uhh.... E allora perche' l'hanno fatto parlatore se non sa fare bene il suo lavoro?}
 {194}{}{Posso farti un'altra domanda?}
 {195}{}{Capisco. Grazie dell'informazione.}
 {196}{}{Uh... forse DOVREBBE parlare con lui. Voi due potreste avere piu' cose in comune di quanto pensassi.}
@@ -101,7 +101,7 @@
 {200}{}{E' un peccato che una ragazza giovane e carina come te non riesca a trovare QUALCOSA da fare, qui a Vault City.}
 {201}{}{Davvero non c'e' nulla? Non ci credo.}
 {202}{}{Posso farti un'altra domanda...?}
-{203}{}{Oh, beh... Ero solo curioso.}
+{203}{}{Pazienza. Io ci ho provato.}
 {204}{}{Vede, so che lei e' un nuovo Cittadino e non vorrei mettere in cattiva luce la Cittadinanza, ma questa citta' sa essere MOLTO noiosa, a volte.}
 {205}{}{Noiosa? Cioe'?}
 {206}{}{Che peccato. Avrei delle altre domande...}
@@ -110,7 +110,7 @@
 {209}{}{Uh... otto-generali? Ti riferisci alle guardie?}
 {210}{}{Dato che stiamo parlando di eta', ho notato che in citta' non ci sono bambini.}
 {211}{}{L'AVEVO NOTATA anch'io la somiglianza tra i Cittadini.}
-{212}{}{Oh, beh. Ero solo curioso.}
+{212}{}{Pazienza. Io ci ho provato.}
 {213}{}{Uh no... "ottuagenario" e' un aggettivo che si riferisce ad una persona che ha ottant'anni.}
 {214}{}{Uh, okay. Posso farti un'altra domanda?}
 {215}{}{D'accordo. Ci vediamo.}
@@ -129,7 +129,7 @@
 {228}{}{Oh, sta parlando dei rapporti sessuali? I rapporti sessuali sono comunque permessi anche al di fuori dei cicli di gravidanza.}
 {229}{}{E questo non provoca delle gravidanze?}
 {230}{}{Oh. Avrei delle altre domande...}
-{231}{}{Oh, beh. Ero solo curioso.}
+{231}{}{Pazienza. Io ci ho provato.}
 {232}{}{Oh, no, no... vede, le nostre gravidanze non sono il risultato di rapporti sessuali.}
 {233}{}{Mi dispiace chiederlo. Ma lo faro' lo stesso.}
 {234}{}{Non voglio sapere altro. Ho delle altre domande, pero'...}
@@ -141,30 +141,30 @@
 {240}{}{Puoi scusarmi? Devo andare a vedere se e' possibile farmi revocare la Cittadinanza.}
 {241}{}{Credo che adesso andro' da qualche parte a fare un gran casino. Ci vediamo.}
 {242}{}{Certamente. La sua donazione sara' molto ben accetta. Vault City ha bisogno di un po' di materiale genetico "fresco".}
-{243}{}{D'accordo...}
+{243}{}{D'accordo... d'accordo...}
 {244}{}{Senti, potrei avere una rivista o qualcosa del genere?}
 {245}{}{La sua donazione e' davvero incredibile... e anche lei sembra essere piuttosto dotato. Come si sente?}
 {246}{}{Benissimo! Grazie.}
 {247}{}{Hmmm. Forse la sua donazione non sara' poi cosi' preziosa come pensavo. Grazie lo stesso, pero'.}
 {248}{}{Posso onestamente affermare che mai come in questo momento ho sentito la mancanza del fascino primitivo di Arroyo.}
-{249}{}{Mai come in questo momento ho sentito il bisogno che qualcuno mi fermasse.} ###??? to be held
+{249}{}{Mai come in questo momento ho sentito il bisogno che qualcuno mi fermasse.}
 {250}{}{No, grazie a TE.}
 {251}{}{Beh, in realta'... vede, e' una cosa che ho notato e che ultimamente mi ha fatto riflettere, ma tra i Cittadini non sembra che si verifichino gravidanze accidentali. Le uniche gravidanze che hanno luogo sono quelle che sono state facilitate dall'Auto-Doc.}
 {252}{}{Spesso le radiazioni possono causare sterilita' o, peggio, danni genetici. Credo che varrebbe la pena fare dei controlli.}
 {253}{}{Magari il motivo e' che da queste parti non si fa molto sesso.}
-{254}{}{Oh, beh. Ero solo curioso.}
+{254}{}{Pazienza. Io ci ho provato.}
 {255}{}{Sa che stavo anch'io pensando la stessa cosa? Forse dovrei parlarne con il Dr. Troy. E' stato molto occupato ultimamente e non ha avuto tempo per fare delle ricerche in merito, ma il prossimo ciclo di gravidanze non e' molto distante, quindi...}
-{256}{}{Posso farti qualche altra domanda?}
+{256}{}{Posso farle qualche altra domanda?}
 {257}{}{Parlarne con il Dr. Troy e' sicuramente un'ottima idea. Buona fortuna.}
 {258}{}{E' come se fossero tutti dei... cloni. Sono tutti vestiti allo stesso modo, si comportano allo stesso modo, e il peggio e' che tutti sembrano esserne felici. Io... beh, a volte temo di diventare come loro. Forse questo le sembrera' un po' stupido, no?}
 {259}{}{No. La spinta verso il conformismo dev'essere piuttosto forte da queste parti, soprattutto se si considera il carattere fortemente isolazionista di una comunita' come Vault City.}
-{260}{}{Oh, beh. Ero solo curioso.}
+{260}{}{Pazienza. Io ci ho provato.}
 {261}{}{Si', a volte puo' essere davvero opprimente. Ma forse sto distruggendo la sua opinione riguardo a Vault City. Non mi fraintenda. E' un bellissimo posto dove vivere.}
 {262}{}{Vorrei darti un suggerimento: credo che dovresti allontanarti per un po' da Vault City. Potrebbe anche bastare fare due chiacchiere con i mercanti del Cortile. Sono sicuro che potrebbe aiutarti ad ampliare le tue vedute.}
 {263}{}{Ha i suoi vantaggi, non c'e' dubbio. Posso farti qualche altra domanda?}
 {264}{}{Sono contento che ti trovi bene. Ci vediamo.}
 {265}{}{Beh, in passato ho avuto la tentazione di uscire dalle mura, ma gli altri Cittadini mi hanno sempre sconsigliato di farlo...}
-{266}{}{Questo e' un altro buon motivo per farlo. Non hai forse detto che non volevi fare tutto quello che fanno gli ALTRI Cittadini? Sono tutti inquadrati.} ###???They're all set in their ways
+{266}{}{Questo e' un altro buon motivo per farlo. Non hai forse detto che non volevi fare tutto quello che fanno gli ALTRI Cittadini? Sono tutti inquadrati.}
 {267}{}{Beh, andare la' fuori potrebbe essere pericoloso. Senti, potrei farti qualche altra domanda?}
 {268}{}{Hanno ragione. Probabilmente non e' una buona idea. Sara' meglio che vada.}
 {269}{}{Sa una cosa? Lei ha ragione. Forse faro' un giro all'esterno delle mura non appena ne avro' l'occasione. Mi piacerebbe saperne di piu', sul mondo esterno.}
@@ -173,7 +173,7 @@
 {272}{}{Come scusi?}
 {273}{}{Non ho potuto fare a meno di notare che sei una ragazza molto carina e che ti meriteresti di uscire, ogni tanto. Che ne diresti di venire a cena con me?}
 {274}{}{Come non detto. Posso farti un'altra domanda?}
-{275}{}{Oh, beh. Ero solo curioso.}
+{275}{}{Pazienza. Io ci ho provato.}
 {276}{}{Oh. Io... sa, mi piacerebbe, ma non posso.}
 {277}{}{Oh. Beh, mi... mi piacerebbe molto.}
 {278}{}{Aw, eddai. Sono nuovo di qui. Andando in giro da solo potrei cacciarmi nei guai.}
@@ -188,7 +188,7 @@
 {287}{}{Beh, e' bello vedere che i pregiudizi sono vivi e vegeti, qui a Vault City. Ci vediamo.}
 {288}{}{. Di cosa ti occupi?}
 {289}{}{. Ti dispiace se ti faccio qualche domanda?}
-{290}{}{Ah, pensavo che non ci fossero bambini perche' questa potrebbe essere la versione europea di Fallout 2. Arrivederci.} ###???I thought there weren't any children because this might be the European version of Fallout 2
+{290}{}{Ah, pensavo che non ci fossero bambini perche' questa potrebbe essere la versione europea di Fallout 2. Arrivederci.}
 {291}{}{Hai fatto una donazione a Vault City e hai introdotto dell'ottimo materiale genetico nella loro comunita'.}
 {292}{}{Hai fatto una donazione a Vault City e hai introdotto del materiale genetico fresco nella loro comunita'.}
 {293}{}{Hai fatto una donazione a Vault City... per quel che puo' valere.}

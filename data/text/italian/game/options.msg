@@ -1,29 +1,14 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used in OPTIONS.C
-#
-# (These MUST match "text message" enumeration on the top of OPTIONS.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-# ° Main option panel °
-#
-# Buttons
 {0}{}{SALVA}
 {1}{}{CARICA}
 {2}{}{PREFERENZE}
 {3}{}{ESCI DAL GIOCO}
-{4}{}{FATTO}
-#
-# Preferences
-#
+{4}{}{OK}
 {100}{}{PREFERENZE}
 {101}{}{DIFFICOLTA' GIOCO}
 {102}{}{DIFFICOLTA' LOTTA}
 {103}{}{LIVELLO VIOLENZA}
 {104}{}{EVIDENZIA BERSAGLIO}
-{105}{}{DESCRIZ. IN COMBAT.}  # Was: BURNING GUYS
+{105}{}{DESCRIZ. IN COMBAT.}
 {106}{}{MESSAGGI COMBAT.}
 {107}{}{INSULTI COMBAT.}
 {108}{}{FILTRO LINGUAGGIO}
@@ -41,43 +26,32 @@
 {120}{}{PREDEF.}
 {121}{}{CANC.}
 {122}{}{Influenza velocita' giocatore}
-{123}{}{Voce del PipBoy}
-#
-# Label text
-#
-{201}{}{On}             # 1
-{202}{}{Off}            # 2
-{203}{}{Facile}         #  1
-{204}{}{Normale}        #  2
-{205}{}{Difficile}      #  3
-{206}{}{Codardo}        # 1
-{207}{}{Normale}        # 2
-{208}{}{Duro}           # 3
-{209}{}{Normale}        #  1
-{210}{}{Vel. Massima}   #  2
-{211}{}{Prolisso}       # 1
-{212}{}{Breve}          # 2
+{123}{}{Pip-Boy speech}
+{201}{}{On}
+{202}{}{Off}
+{203}{}{Facile}
+{204}{}{Normale}
+{205}{}{Difficile}
+{206}{}{Codardo}
+{207}{}{Normale}
+{208}{}{Duro}
+{209}{}{Normale}
+{210}{}{Vel. Massima}
+{211}{}{Prolisso}
+{212}{}{Breve}
 {213}{}{Solo con Mirino}
-{214}{}{Nessuno}        # 1
-{215}{}{Minimo}         # 2
-{216}{}{Massimo sangue} # 3
-{217}{}{Lento}          #  1
-{218}{}{Veloce}         #  2
+{214}{}{Nessuna}
+{215}{}{Minimo}
+{216}{}{Massimo sangue}
+{217}{}{Lento}
+{218}{}{Veloce}
 {219}{}{Sempre}
 {220}{}{Molti}
-{221}{}{Basso}          # 1
-{222}{}{Alto}           # 2
+{221}{}{Basso}
+{222}{}{Alto}
 {223}{}{Piu' chiaro}
 {224}{}{Largo}
-
-
-#
-# Pause window
-#
 {300}{}{OK}
 {301}{}{PAUSA}
-#
-# Demo versions only
-#
-{1000}{}{Sorry, the preferences menu is not}  # 1
-{1001}{}{available in the demo version.}      # 2
+{1000}{}{Sorry, the preferences menu is not}
+{1001}{}{available in the demo version.}

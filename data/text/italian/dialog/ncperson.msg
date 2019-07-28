@@ -1,43 +1,32 @@
-# 0. QUICK LOOK (ANY)
 {100}{}{Vedi uno degli abitanti di Reno.}
-
-# 1. LOOK, MALE (WTG)
 {150}{}{Vedi un uomo dall'aspetto rozzo. Sembra annoiato.}
 {151}{}{Vedi un uomo dall'aspetto rozzo. Ha uno sguardo cupo.}
 {152}{}{Vedi un uomo dall'aspetto rozzo. Sembra stia scontando i postumi di una sbornia.}
 {153}{}{Vedi un uomo dall'aspetto rozzo. Sembra un po' brillo.}
 {154}{}{Vedi un uomo dall'aspetto rozzo. Ti rivolge un'occhiata contrariata e poi ti ignora.}
 {155}{}{Vedi un uomo dall'aspetto rozzo. Sembra essere incavolato.}
-
-# 2. LOOK, FEMALE (WTG)
 {160}{}{Vedi una donna dall'aspetto rozzo. Sembra annoiata.}
 {161}{}{Vedi una donna dall'aspetto rozzo. Ha uno sguardo cupo.}
 {162}{}{Vedi una donna dall'aspetto rozzo. Ha lo sguardo perso nel vuoto piu' totale.}
 {163}{}{Vedi una donna dall'aspetto rozzo. Sembra un po' ubriaca.}
 {164}{}{Vedi una donna dall'aspetto rozzo. Ti rivolge un'occhiata contrariata e poi ti ignora.}
 {165}{}{Vedi una donna dall'aspetto rozzo. Quando incrocia il tuo sguardo, ridacchia.}
-
-# 3. FLOAT (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
 {200}{}{::Applaude::}
-{201}{}{::Esulta::}
-{202}{}{Sei stato grande a polverizzare quei bastardi dell'Enclave! Cosi' si fa!}
+{201}{}{::Cheers::}
+{202}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {203}{}{Sei stato grande a distruggere l'Enclave, }
 {204}{}{Congratulazioni per aver schiacciato l'Enclave, }
 {205}{}{Congratulazioni per aver schiacciato l'Enclave, }
-
-# 4. FLOAT (ANY) TO [POWER ARMOR] (WTG)
-{215}{}{Uh-oh. Fate largo.} ###???Get out of the way
+{215}{}{Uh-oh. Fate strada.}
 {216}{}{Il solo guardare quell'uomo…ehm...donna…ehm...coso... insomma, di QUALSIASI cosa si tratti, mi da' i brividi.}
 {217}{}{Credi che quel coso sia qui per far la festa a qualcuno?}
 {218}{}{E' la furia dell'inferno in carne ed ossa. Ehm, sotto la corazza, naturalmente.}
 {219}{}{Non intralciate il cammino di quel coso.}
-{220}{}{Non venitemi a parlare di cose dall'aspetto pericoloso, d'ora in poi…}
+{220}{}{Che aspetto minaccioso…}
 {221}{}{*Gulp*}
 {222}{}{Credo che quel Sig. Robot mi stesse scansionando.}
 {223}{}{Credo che quel carro armato su due gambe mi abbia appena rivolto lo sguardo della morte. Io taglio la corda.}
 {224}{}{Ho sentito dire che quel coso ha eliminato tre assassini solo nella giornata di ieri.}
-
-# 5. FLOAT AND CLICK (FEMALE) TO [MALE, PORN STAR] (WTG)
 {240}{}{Ehila', stalloneeeeee.}
 {241}{}{Questo splendido stallone ha voglia di farsi una galoppata? Sono libera stanotte.}
 {242}{}{Cosa fai piu' tardi, stallone?}
@@ -48,18 +37,16 @@
 {247}{}{Ti serve una partner per il tuo prossimo film?}
 {248}{}{::Osserva i tuoi bicipiti.::}
 {249}{}{::Applaude, fischia::}
-
-# 6. FLOAT (MALE) TO [FEMALE, PORN STAR] (WTG)
 {255}{}{Whoa. Guardate un po'.}
 {256}{}{Avete visto che ROBA?}
-{257}{}{::Dice silenziosamente la parola "cavoli!"::}
-{258}{}{Lo SAPEVO che avrei dovuto farmi la barba, stamattina.}
+{257}{}{::Dice silenziosamente la parola "cazzo"::}
+{258}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {259}{}{Vieni a chiacchierare con me per un po', tettine d'oro.}
 {260}{}{Le selvagge hanno proprio delle belle tette! E che diamine!}
 {261}{}{Guardate la carrozzeria di quella selvaggia.}
 {262}{}{Quella e' sicuramente la mia puledrina preferita.}
 {263}{}{Per quella donna sarei disposto a farmi il bagno.}
-{264}{}{Ho la tua filmografia completa.}
+{264}{}{Ho qui la tua filmografia completa.}
 {265}{}{Ollelle', Ollalla'!}
 {266}{}{Faccela vede', faccela tocca'!}
 {267}{}{::Fischia::}
@@ -68,33 +55,29 @@
 {270}{}{C'e' anche del prosciutto, insieme a quei meloni, bellezza?}
 {271}{}{Forse danzera', stanotte.}
 {272}{}{Avete visto il suo ultimo film? Roba bollente, amici, BOLLENTE.}
-{273}{}{Scusatemi. Devo andare un attimo al bagno a...ehm...pettinarmi i capelli.}
+{273}{}{Scusatemi. Devo andare un attimo in bagno a...ehm...pettinarmi i capelli.}
 {274}{}{Mi piacerebbe essere le sue mutandine.}
 {275}{}{Mi piacerebbe essere il suo reggiseno.}
 {276}{}{Mi piacerebbe annusare il suo tanga.}
 {277}{}{Questa si' che e' una donna intrigante.}
-{278}{}{Diamine. Tutte queste curve e io non ho freni.}
+{278}{}{Diamine. Tutte quelle curve e io non ho freni.}
 {279}{}{Guardate quel balconcino!}
 {280}{}{Guardate quelle begonie!}
 {281}{}{Voglio dare un'occhiata piu' da vicino a quegli occhioni marroni.}
 {282}{}{Caaaaaavoli.}
 {283}{}{Guardate quei paraurti.}
 {284}{}{Scommetto che ha dei problemi alla schiena.}
-
-# 7. FLOAT AND CLICK (ANY) TO [MALE, PRIZEFIGHTER] (WTG)
 {285}{}{Non sembri poi cosi' forte, Mr. Campione.}
 {286}{}{Ho puntato 20 dollari su di te!}
-{287}{}{Ehi, campione! Quell'ultimo incontro e' stato grandioso!}
-{288}{}{Ho visto il tuo combattimento sul ring. Diamine, che forza quel gancio destro!}
-{289}{}{Vincerai per KO? Ho puntato 30 dollari su di te.} ###???Will you take the fall
-{290}{}{Quante flessioni fai al giorno?}
-{291}{}{Dove vai ad allenarti?}
-{292}{}{Fa' attenzione al Masticatore. Ha un debole per le orecchie.}
-{293}{}{Ti offrirei da bere se non avessi buttato i miei soldi puntando sul tuo avversario.}
+{287}{}{Ehi, campione! L'ultimo incontro e' stato grandioso!}
+{288}{}{Ti ho visto combattere sul ring. Quel gancio destro che hai tirato e' stato magnifico.}
+{289}{}{Sei sicuro di vincere il prossimo incontro? Ho puntato 30 dollari su di te.}
+{290}{}{Quante flessioni fai, al giorno?}
+{291}{}{Dove ti alleni?}
+{292}{}{Sta' attento al Masticatore. Adora le orecchie.}
+{293}{}{Ti offrirei da bere, se solo non avessi perso tutti i miei soldi puntando sul tuo avversario.}
 {294}{}{Non sembri poi cosi' forte, signor "Gancio Sinistro".}
 {295}{}{Posso vedere i tuoi addominali in flessione?}
-
-# 8. FLOAT (ANY) TO [MADE MAN] (WTG)
 {300}{}{Non intralciategli il passo.}
 {301}{}{Credo stesse guardando me.}
 {302}{}{Credo mi abbia appena rivolto lo sguardo della morte. Io taglio la corda.}
@@ -112,8 +95,6 @@
 {314}{}{Credo mi abbia appena rivolto lo sguardo della morte. Io taglio la corda.}
 {315}{}{Ho sentito dire che ha eliminato tre assassini solo nella giornata di ieri.}
 {316}{}{Guarda che tette! Ehm, volevo dire... che te-tterribile donna.}
-
-# 9. FLOAT (ANY) TO [SLAVER] (WTG)
 {320}{}{Come mai ci sono cosi' tanti schiavisti in giro, ultimamente?}
 {321}{}{Non ho mai visto quello schiavista, prima d'ora…}
 {322}{}{Mi domando se lo schiavista sia diretto alle Stalle…}
@@ -121,19 +102,19 @@
 {324}{}{Sei diretto alle Stalle, schiavista?}
 {325}{}{Un ALTRO schiavista. Mordino deve aver trovato una miniera d'oro, da qualche parte…}
 {326}{}{Quello schiavista ha un biglietto di sola andata per il Golgotha.}
-{327}{}{La puzza che veniva dal Golgotha era terribile, stanotte…}
+{327}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
 {328}{}{Dannati schiavisti...}
 {329}{}{Per tutte le malesorti…}
-{330}{}{Ho sentito che sta per arrivare un nuovo carico di schiavi.}
-{331}{}{Hanno portato un nuovo carico di schiave al bordello.}
+{330}{}{Ho sentito che e' arrivato un nuovo gruppo di schiavi.}
+{331}{}{Hanno portato un nuovo carico di schiave, giu' al bordello.}
 {332}{}{Congiunzione, Giunzione.}
 {333}{}{Sto mettendo su un bel gruzzolo.}
 {334}{}{A volte sbronzarsi non basta.}
 {335}{}{Dannati imbroglioni...}
-{336}{}{Ottimo, un altro giocatore della domenica.}
+{336}{}{Ottimo. Un altro giocatore della domenica.}
 {337}{}{Il Banco era contro di me.}
 {338}{}{La Fortuna e' contro di me.}
-{339}{}{Sono contento che abbiano mandato sul lastrico quel tipo…}
+{339}{}{Sono contento che abbiano rovinato quel tipo…}
 {340}{}{Lurido puzzone…}
 {341}{}{Gli schiavisti si comportano come se fossero i padroni…}
 {342}{}{Il Casino' ha avuto pieta' di me.}
@@ -152,26 +133,20 @@
 {355}{}{Questa citta' e' splendida…se si escludono i turisti.}
 {356}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
 {357}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
-
-# 10. FLOAT AND CLICK (ANY) TO [COMPANION: ROBOBRAIN] (WTG)
-{365}{}{Quella roba che ti segue e' una specie di slot machine?}
-{366}{}{Quella e' una robo-slot machine, per caso?}
-{367}{}{Quel robot sa tutti i trucchi...? Uh...trucchi magici, intendo.}
-
-# 11. FLOAT (ANY) TO [COMPANION: MARCUS] (WTG)
+{365}{}{E' una specie di slot machine quella cosa che ti sta seguendo?}
+{366}{}{E' per caso una robo-slot machine?}
+{367}{}{Quel robot conosce forse tutti i trucchi...? Uh... trucchi magici, intendo.}
 {375}{}{Dimmi che quello non e' un mutante.}
 {376}{}{E' un mutante, quello?}
 {377}{}{Oh cazzo. Mutanti a New Reno. Sicuramente significa guai.}
 {378}{}{Quel mutante e' davvero enorme.}
 {379}{}{Lurido amante dei mutanti...}
-
-# 12. FLOAT (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON REACTION TO [COMPANION = FEMALE SPOUSE] (WTG)
 {385}{}{Il tuo amico ha un osso nel naso.}
 {386}{}{Tutti i componenti della tua piccola banda si infilano un osso nel naso per dimostrare il loro coraggio?}
 {387}{}{Quel tizio li' con te e' per caso un membro della tribu' "infilami-un-osso-nella-canappa"?}
 {388}{}{Quel tizio con l'osso nel naso e' la prova che i selvaggi non saranno mai delle persone civili.}
 {389}{}{Quel tizio ha un osso nel naso?}
-{390}{}{Quel tipo ha un osso nel naso che e' grande quanto il mio braccio. Kriii-sto.}
+{390}{}{Quel tipo ha un osso nel naso che e' grande quanto il mio braccio. Krii-sto.}
 {391}{}{Non voglio assolutamente sapere cosa abbia fatto il tuo amico per avere un osso infilato nel naso.}
 {392}{}{Perfetto. Ecco un tipico bullo di tribu'.}
 {393}{}{Quanti selvaggi hanno intenzione di arrivare in citta'?}
@@ -180,7 +155,7 @@
 {396}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
 {397}{}{Dannati turisti.}
 {398}{}{Per tutte le malesorti…}
-{399}{}{Ho sentito che e' arrivato un nuovo carico di schiavi.}
+{399}{}{Ho sentito che e' arrivato un nuovo gruppo di schiavi.}
 {400}{}{Congiunzione, Giunzione.}
 {401}{}{Sto mettendo su un bel gruzzolo.}
 {402}{}{A volte sbronzarsi non basta.}
@@ -193,7 +168,7 @@
 {409}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
 {410}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {411}{}{La figlia di Bishop e' assolutamente fuori controllo.}
-{412}{}{Se quelli dell'Associazione Sobrieta' mi fanno di nuovo la predica…}
+{412}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
 {413}{}{Ho visto Tully svenuto per strada. Di nuovo.}
 {414}{}{Dannato selvaggio.}
 {415}{}{Quel tipo non e' di queste parti.}
@@ -214,10 +189,8 @@
 {430}{}{Guardate il nuovo capo a passeggio.}
 {431}{}{Stanotte si fa festa!}
 {432}{}{La signora Bishop ha davvero un gran bel culo.}
-
-# 13. FLOAT [NO REP] (WTG)
 {450}{}{La signora Bishop ha davvero un gran bel culo.}
-{451}{}{Se quelli dell'Associazione Sobrieta' mi fanno di nuovo la predica…}
+{451}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
 {452}{}{Perfetto. Ecco un tipico bullo di tribu'.}
 {453}{}{Quanti selvaggi hanno intenzione di arrivare in citta'?}
 {454}{}{Un altro primate.}
@@ -254,8 +227,6 @@
 {485}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
 {486}{}{Potrei farmi un giretto in centro per vedere se c'e' qualche faccia nuova in citta'…}
 {487}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
-
-# 14. CLICK (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
 {490}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {491}{}{L'ho sempre saputo che il Presidente voleva farci fuori tutti.}
 {492}{}{Il Presidente era vivo? Quando si sono tenute le ultime elezioni?}
@@ -265,16 +236,14 @@
 {496}{}{Ho sentito come una grande perturbazione... come se un centinaio di luridi bastardi su di una piattaforma petrolifera avessero gridato terrorizzati e, a un tratto, si fossero zittiti. Strano.}
 {497}{}{Congratulazioni per aver schiacciato l'Enclave, }
 {498}{}{Questo gioco vi e' stato offerto dalla lettera Z.}
-{499}{}{Ci manca Tim Cain. Cucinava dell'ottimo pane. E poi ci sculacciava tutti come fossimo bambini.}
+{499}{}{Tim Cain ci manca. Faceva dell'ottimo pane. Adesso forse ci prenderebbe a schiaffi come dei bambini.}
 {500}{}{Certo, certo, anch'io sono l'Avatar.}
 {501}{}{New Reno e' stata creata da Chris Avellone e Tom French. Si dice in giro che si sposeranno presto.}
 {502}{}{Feargus aveva un'espressione corrucciata sul viso quando ha visto quante linee di testo io abbia. Anche Ragfox non l'ha presa proprio benissimo dopo aver visto quante frasi aveva da tradurre.}
 {503}{}{Il tuo punteggio e' di 192 su 208. Avresti dovuto usare il dito mutante su Horrigan.}
-
-# 15. CLICK (ANY) TO [POWER ARMOR) (WTG)
 {510}{}{Stai cercando tuo fratello Robby? Sai, il Robot? ohhhh, non importa.}
-{511}{}{Scusami, ti stavo intralciando il passo? Lascero' la citta'.}
-{512}{}{Scusami, stavo respirando la tua aria? Ora la smetto.}
+{511}{}{Mi scusi, le stavo intralciando il passo? Lascero' la citta'.}
+{512}{}{Mi scusi, stavo respirando la sua aria? La smetto subito.}
 {513}{}{::Bussa sull'armatura:: C'e' nessuno li' dentro?}
 {514}{}{"Pericolo, Will Robinson! Pericolo, Will Robinson!" Eh-eh. Uh…stavo solo scherzando.}
 {515}{}{Beeeeella, quest'armatura. Ha l'aria condizionata?}
@@ -288,8 +257,6 @@
 {523}{}{Ti sei per caso perso mentre stavi cercando di entrare in uno di quei giochi per PC con i robottoni?}
 {524}{}{Certo, certo, "clank-whirrr-clank" anche a te.}
 {525}{}{Se credi che quella armatura mi faccia paura, hai ragione.}
-
-# 16. CLICK (MALE) TO [FEMALE, PORN STAR] (WTG)
 {540}{}{Sei disponibile?}
 {541}{}{Posso comprare i tuoi vestiti? Voglio dire, in questo momento?}
 {542}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
@@ -305,15 +272,13 @@
 {552}{}{Mi piacerebbe annusare il suo tanga.}
 {553}{}{Sei davvero una donna intrigante.}
 {554}{}{Possa io essere fottuto se mi sbaglio, cara, ma sei sicura di non volermi baciare?}
-{555}{}{Diamine. Tutte queste curve e io non ho freni.}
+{555}{}{Diamine. Tutte quelle curve e io non ho freni.}
 {556}{}{Sai cosa ti starebbe bene addosso? Me.}
 {557}{}{Le tue mutandine potranno anche non essere la cosa migliore su questa terra, ma ci vanno dannatamente vicine.}
 {558}{}{Bel balconcino!}
 {559}{}{Belle begonie!}
 {560}{}{Mi piacerebbe esser messo sotto da quei paraurti.}
 {561}{}{Hai problemi alla schiena?}
-
-# 17. CLICK (ANY) TO [MALE, MADE MAN) (WTG)
 {580}{}{Salve, signore. Come va?}
 {581}{}{Qualcosa non va, signore?}
 {582}{}{Mi scusi, le stavo intralciando il passo? Lascero' la citta'.}
@@ -322,8 +287,6 @@
 {585}{}{Senta, per favore…non voglio guai.}
 {586}{}{Salve, signora. Come va?}
 {587}{}{Qualcosa non va, signora?}
-
-# 18. CLICK (ANY) TO [SLAVER] (WTG)
 {600}{}{Come mai ci sono cosi' tanti schiavisti in giro, ultimamente?}
 {601}{}{Non ti ho mai visto prima…}
 {602}{}{Se hai degli schiavi da vendere, prova dai Mordino.}
@@ -352,7 +315,7 @@
 {625}{}{La Fortuna e' contro di me.}
 {626}{}{Sono contento che abbiano rovinato quel tipo…}
 {627}{}{Lurido puzzone…}
-{628}{}{Che cosa vuoi?}
+{628}{}{Cosa vuoi?}
 {629}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
 {630}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {631}{}{La figlia di Bishop e' assolutamente fuori controllo.}
@@ -362,15 +325,13 @@
 {635}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
 {636}{}{Ho PROVATO a smettere, ma…}
 {637}{}{Smettila di disturbarmi.}
-{638}{}{Senti, adesso non ho tempo di parlare con te.}
-
-# 19. CLICK (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON TO (COMPANION: SPOUSE = FEMALE) (WTG)
+{638}{}{Senti, adesso non ho tempo per parlare con te.}
 {650}{}{Il tuo amico ha un osso nel naso.}
 {651}{}{Tutti i componenti della tua piccola banda si infilano un osso nel naso per dimostrare il loro coraggio?}
 {652}{}{Quel tizio li' con te e' per caso un membro della tribu' "infilami-un-osso-nella-canappa"?}
 {653}{}{Quel tizio con l'osso nel naso e' la prova che i selvaggi non saranno mai delle persone civili.}
 {654}{}{Quel tizio ha un osso nel naso?}
-{655}{}{Quel tipo ha un osso nel naso che e' grande quanto il mio braccio. Kriii-sto.}
+{655}{}{Quel tipo ha un osso nel naso che e' grande quanto il mio braccio. Krii-sto.}
 {656}{}{Non voglio assolutamente sapere cosa abbia fatto il tuo amico per avere un osso infilato nel naso.}
 {657}{}{Odio questa fottutissima citta'.}
 {658}{}{Sono rimasto in questa citta' per troppo tempo.}
@@ -394,7 +355,7 @@
 {676}{}{La Fortuna e' contro di me.}
 {677}{}{Sono contento che abbiano rovinato quel tipo…}
 {678}{}{Lurido puzzone…}
-{679}{}{Che cosa vuoi?}
+{679}{}{Cosa vuoi?}
 {680}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
 {681}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {682}{}{La figlia di Bishop e' assolutamente fuori controllo.}
@@ -404,7 +365,7 @@
 {686}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
 {687}{}{Ho PROVATO a smettere, ma…}
 {688}{}{Smettila di disturbarmi.}
-{689}{}{Senti, adesso non ho tempo di parlare con te.}
+{689}{}{Senti, adesso non ho tempo per parlare con te.}
 {690}{}{Lei e' tua "moglie", eh? Me la presti per un'oretta o due?}
 {691}{}{Vuoi fare uno scambio di mogli per un po'?}
 {692}{}{La vendi, la tua donna?}
@@ -413,8 +374,6 @@
 {695}{}{La tua donna sa cucinare? Se si', la prendo.}
 {696}{}{Quanto vuoi per quella sottana che ti segue?}
 {697}{}{La signora Bishop ha davvero un gran bel culo.}
-
-# 20. CLICK (ANY) TO [NO REP] (WTG)
 {700}{}{Stanotte si fa festa!}
 {701}{}{Trovati una puttana e divertiti.}
 {702}{}{La signora Bishop ha davvero un gran bel culo.}
@@ -440,7 +399,7 @@
 {722}{}{La Fortuna e' contro di me.}
 {723}{}{Sono contento che abbiano rovinato quel tipo…}
 {724}{}{Lurido puzzone…}
-{725}{}{Che cosa vuoi?}
+{725}{}{Cosa vuoi?}
 {726}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
 {727}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {728}{}{La figlia di Bishop e' assolutamente fuori controllo.}
@@ -453,8 +412,6 @@
 {735}{}{Senti, adesso non ho tempo per parlare con te.}
 {736}{}{Potrei farmi un giretto in centro per vedere se c'e' qualche faccia nuova in citta'…}
 {737}{}{Sono contento che abbiano rovinato quello stronzo…}
-
-# endlines
 {1203}{}{!}
 {1204}{}{! Sei forte! Sei FORTE!}
 {1205}{}{! Sei il MIGLIORE!}

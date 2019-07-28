@@ -1,47 +1,27 @@
-#
-# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
-#
-# Text labels and messages used in PIPBOY.C
-#
-# (These MUST match "text message" enumeration on the top of PIPBOY.C)
-#
-# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
-
-#
-# Special holiday dates
-#
-{100}{}{Felice Anno Nuovo!}            		# New years
-{101}{}{Felice San Valentino!}         		# April fools
-{102}{}{Buon Pesce d'Aprile!}          		# April fools
-{103}{}{Felice Giorno di Uscita nei Negozi!} 	# Shipping day!
-{104}{}{Felice Independence Day!}      		# Independence day
-{105}{}{Felice Halloween!}             		# Halloween
-{106}{}{Felice Giorno del Ringraziamento!} 	# Thanksgiving
-{107}{}{Buon Natale!}                  		# X-mas
-
-#
-# System messages
-#
+{100}{}{Felice Anno Nuovo!}
+{101}{}{Felice San Valentino!}
+{102}{}{Buon Pesce d'Aprile!}
+{103}{}{Felice Giorno di Uscita nei Negozi!}
+{104}{}{Felice Independence Day!}
+{105}{}{Felice Halloween!}
+{106}{}{Felice Giorno del Ringraziamento!}
+{107}{}{Buon Natale!}
 {200}{}{AVANTI}
 {201}{}{INDIETRO}
 {202}{}{STATO}
 {203}{}{Nessun compito attuale.}
-{204}{}{INDIZI}  # clues gone
+{204}{}{INDIZI}
 {205}{}{AUTOMAPPE}
 {206}{}{ARCHIVI VIDEO}
 {207}{}{DATI}
 {208}{}{}
 {209}{}{}
-{210}{}{: Situazione}
+{210}{}{Status}
 {211}{}{DATI}
 {212}{}{di}
 {213}{}{Pag.}
-{214}{}{FATTO}
+{214}{}{OK}
 {215}{}{Non puoi accamparti qui!}
-
-#
-# Alarm clock
-#
 {300}{}{SVEGLIA}
 {301}{}{Punti Vita}
 {302}{}{Riposa per dieci minuti}
@@ -58,10 +38,6 @@
 {313}{}{Riposa fino a mezzanotte (0000)}
 {314}{}{Riposa fino a completa guarigione}
 {315}{}{Riposa fino a completa guarigione del gruppo}
-
-#
-# Holodisk titles
-#
 {400}{}{Olodisco di Vault 13}
 {401}{}{Base Militare: Esterno}
 {402}{}{Base Militare: Livello 1}
@@ -83,12 +59,7 @@
 {418}{}{Lista di parole}
 {419}{}{Il Progetto}
 {420}{}{Operazioni in una Centrale}
-
-#
-# Movie archive titles
-# Order must match the list (see gmovie.h)
-#
-{500}{}{InterPlay Logo}               # Not shown in Pipboy
+{500}{}{InterPlay Logo}
 {501}{}{Introduzione}
 {502}{}{Discorso dell'Anziana}
 {503}{}{Recupero del completo del Vault}
@@ -105,44 +76,27 @@
 {514}{}{Arroyo: Sogno 3}
 {515}{}{Arroyo: Sogno 4}
 {516}{}{Crediti}
-
-#
-# Things for the Mac version to speak
-#
-#
 {600}{}{Status}
-{601}{}{Clues}  # Clues gone
+{601}{}{Clues}
 {602}{}{Automaps}
 {603}{}{Archives}
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the Rob Co Pipboy 2000.}
-{607}{}{So long.}
+{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{607}{}{Ci vediamo.}
 {608}{}{Wake up.}
-
-
-#
-# Status thread text
-#
-# Format:
-# 0 City name
-# 1 ... 9 thread/quest name
-#
 {700}{}{Vault 13}
 {701}{}{Calm rebel faction.}
 {702}{}{Destroy the Mutant leader.}
 {703}{}{Destroy the source of the Mutants.}
 {704}{}{Find the Water Chip.}
 {705}{}{Find the Water Thief.}
-#
 {710}{}{Buried Vault}
-#
 {720}{}{Shady Sands}
 {721}{}{Cure Jarvis of Radscorpion Poison.}
 {722}{}{Make Poison Antidote.}
 {723}{}{Rescue Tandi from the Raiders.}
 {724}{}{Stop the Radscorpions.}
-#
 {730}{}{Junktown}
 {731}{}{Help Saul.}
 {732}{}{Kill Killian.}
@@ -150,30 +104,23 @@
 {734}{}{Save Trish.}
 {735}{}{Stop Gizmo.}
 {736}{}{Bust the Skulz gang.}
-#
-{740}{}{Raiders}
-#
+{740}{}{Predoni}
 {750}{}{Necropolis}
 {751}{}{Destroy the Super Mutants at the Watershed.}
 {752}{}{Fix the Necropolis water pump.}
-#
 {760}{}{Hub}
 {761}{}{Destroy Deathclaw.}
 {762}{}{Dispose of Jain.}
 {763}{}{Dispose of merchant.}
 {764}{}{Find the missing caravans.}
 {765}{}{Steal necklace from the Merchants.}
-#
-{770}{}{Brotherhood}
+{770}{}{Confraternita}
 {771}{}{Become an Initiate.}
 {772}{}{Rescue Initiate from the Hub.}
-#
-{780}{}{Military Base}
-#
+{780}{}{Base Militare}
 {790}{}{Glow}
 {791}{}{Disarm Traps for the Facility.}
 {792}{}{Turn on power for the Glow.}
-#
 {800}{}{Boneyard}
 {801}{}{Become a Blade.}
 {802}{}{Deliver Locket for Romero.}
@@ -182,23 +129,12 @@
 {805}{}{Fix hydroponic farms in Adytum.}
 {806}{}{Rescue Jason Zimmerman.}
 {807}{}{Stop the Gangs from attacking Adytum.}
-#
 {810}{}{Cathedral}
-
-
-#
-# Holodisk text
-#
-
-# GVAR_NCR_FAKE_VAULT13_HOLODISK
-#
 {1000}{}{OLO del VAULT 13 da Ziggy					}
 {1001}{}{**END-PAR**}
 {1002}{}{Questo olodisco contiene l'esatta posizione del Vault 13. }
 {1003}{}{La posizione e' stata segnata sulla tua mappa.               }
 {1004}{}{**END-DISK**}
-# *** ***
-# GVAR_HOLODISK_MB_OUTSIDE
 {2000}{}{A: QGC								}
 {2001}{}{Il nostro team di scienziati ha terminato di esaminare       }
 {2002}{}{il campione ottenuto dalla base. E' stato confermato         }
@@ -211,9 +147,6 @@
 {2009}{}{}
 {2010}{}{Colonnello Sanders}
 {2011}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_1
 {3000}{}{Qui e' il Capitano Pickard a rapporto al checkpoint 1.       }
 {3001}{}{I contatti con i checkpoint 2 e 3 sono interrotti. Possiamo  }
 {3002}{}{solo immaginarci il peggio. I mostri si stanno arrampicando  }
@@ -221,9 +154,6 @@
 {3004}{}{non hanno dato esito positivo. Cercheremo di tenerli bloccati}
 {3005}{}{qui per il maggior tempo possibile.                          }
 {3006}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_2
 {4000}{}{Il checkpoint 3 e' sotto attacco. Abbiamo bloccato gli       }
 {4001}{}{ascensori come precauzione, ma li posso sentire arrivare     }
 {4002}{}{nei pozzi minerari. Porca Puttana! Creature grosse, brutte,  }
@@ -233,9 +163,6 @@
 {4006}{}{altri due sbucano fuori dai pozzi e quelli ai quali avevamo  }
 {4007}{}{sparato si rialzano per venirci addosso! Ci servono rinfo_   }
 {4008}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_3
 {5000}{}{Sergente Bracks a rapporto al checkpoint 3. Tutto e'         }
 {5001}{}{nella norma, proprio come ieri e l'altroieri.                }
 {5002}{}{Non so perche' il comando ci abbia ordinato di sorvegliare   }
@@ -250,9 +177,6 @@
 {5011}{}{posizione! Inviate aiuto! Ripeto, questo e' il checkpoint 3  }
 {5012}{}{inviate aiu_                                                 }
 {5013}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_4
 {6000}{}{I lavori di scavo procedono secondo programma. A giudicare   }
 {6001}{}{dalle vecchie mappe della base, dovremmo raggiungere la      }
 {6002}{}{zona della vasca in breve tempo. Livelli piu' alti del       }
@@ -261,7 +185,6 @@
 {6005}{}{filtrare il virus. Dite ai membri dell'Enclave che avranno   }
 {6006}{}{presto il loro campione di mutagene.                         }
 {6007}{}{**END-PAR**}
-#
 {6008}{}{Inoltre, ho notato qualche cambiamento nei minatori. Sembra  }
 {6009}{}{mostrino segni di aumentata forza, resistenza e hanno subito }
 {6010}{}{un leggero cambio di colore della pelle; chiari segni della  }
@@ -284,7 +207,6 @@
 {6027}{}{minatori esposti al virus nella base e impedira' a nemici    }
 {6028}{}{di recuperare il virus dopo che ce ne saremo andati.         }
 {6029}{}{**END-DISK**}
-#
 {7000}{}{Deposito Militare Sierra - R & S			}
 {7001}{}{Medico Incaricato - Dr. H. Lector			}
 {7002}{}{Diario Personale						}
@@ -346,7 +268,6 @@
 {7058}{}{dato che saro' impegnato a raccogliere il piu'               }
 {7059}{}{possibile delle mie ricerche.                                }
 {7060}{}{**END-DISK**}
-#
 {8000}{}{5 luglio, 2077							}
 {8001}{}{Deposito Militare Sierra - Infermeria            	}
 {8002}{}{Medico Incaricato - Dr. Solomon             	}
@@ -376,7 +297,6 @@
 {8026}{}{E', comunque, un dispiacere testare questo nuovo gel         }
 {8027}{}{in una situazione come questa.                               }
 {8028}{}{**END-DISK**}
-#
 {9000}{}{9 luglio, 2077							}
 {9001}{}{Massima Priorita'						}
 {9002}{}{Messaggio Generale						}
@@ -392,16 +312,14 @@
 {9012}{}{}
 {9013}{}{Per ordine del Generale Clifton}
 {9014}{}{**END-DISK**}
-
-# Sierra Base Mission Statement
-{10000}{}{Deposito Militare Sierra					}
+{10000}{}{Deposito Militare Sierra}
 {10001}{}{Situazione Missione 1942 - 1991			}
 {10002}{}{Immagazzinare e conservare una scorta di materiale bellico  }
 {10003}{}{a scopo difensivo. In caso di invasione il D.M. Sierra deve }
 {10004}{}{fornire supporto alle basi militari vicine per assicurare   }
 {10005}{}{che siano adeguatamente rifornite ed equipaggiate.          }
 {10006}{}{**END-PAR**}
-{10007}{}{Deposito Militare Sierra					}
+{10007}{}{Deposito Militare Sierra}
 {10008}{}{Situazione Missione 1992 - 2050			}
 {10009}{}{Responsabile della demilitarizzazione del surplus di        }
 {10010}{}{munizioni che sono ritenute non adatte o obsolete per       }
@@ -410,7 +328,7 @@
 {10013}{}{l'Agenzia di Protezione Ambientale (EPA), per trovare il    }
 {10014}{}{modo piu' ecologico di eliminare il materiale militare.     }
 {10015}{}{**END-PAR**}
-{10016}{}{Deposito Militare Sierra					}
+{10016}{}{Deposito Militare Sierra}
 {10017}{}{Situazione Missione 2050 - 2076			}
 {10018}{}{SEGRETO MILITARE							}
 {10019}{}{Richiesto Livello Sicurezza 5				}
@@ -419,15 +337,13 @@
 {10022}{}{ricerca per lo sviluppo e il collaudo di armi robotiche,    }
 {10023}{}{biologiche e convenzionali.                                 }
 {10024}{}{**END-PAR**}
-{10025}{}{Deposito Militare Sierra					}
+{10025}{}{Deposito Militare Sierra}
 {10026}{}{Situazione Missione 2077					}
 {10027}{}{A causa della scarsita' di personale addestrato, il         }
 {10028}{}{Deposito Militare Sierra sara' modificato in una base       }
-{10029}{}{a difesa automatizzata. Il personale sara' ricollocato      }
-{10030}{}{nelle installazioni vicine o mandato sul fronte.            }
+{10029}{}{personnel are to be relocated to neighboring}
+{10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
-
-# Sierra Base GNN Transscript
 {11000}{}{Galaxy News Network						}
 {11001}{}{Trascrizione delle Trasmissioni dell'11 gennaio, 2073       }
 {11002}{}{La notizia d'apertura odierna della GNN. Con un colpo       }
@@ -510,7 +426,7 @@
 {11079}{}{che avrebbe dovuto pensarci prima di farlo. Smentita ogni   }
 {11080}{}{relazione con la recente annessione del Canada.}
 {11081}{}{**END-PAR**}
-{11082}{}{Galaxy News Network}
+{11082}{}{Galaxy News Network						}
 {11083}{}{Trascrizione delle Trasmissioni del 30 marzo, 2076}
 {11084}{}{Il Presidente ha ordinato alla Flotta Pacifica di muoversi  }
 {11085}{}{verso la piattaforma d'alto mare Poseidon posta in un sito  }
@@ -549,9 +465,6 @@
 {11118}{}{mancanza di carburante, gli invasori sono stati respinti    }
 {11119}{}{fino alla loro capitale, Pechino.                           }
 {11120}{}{**END-DISK**}
-
-
-# Elron Bible
 {12000}{}{Benvenuti!}
 {12001}{}{Benvenuti nell'Olodisco Hubologista! Tra queste pagine      }
 {12002}{}{elettroniche troverete una breve descrizione del nostro     }
@@ -771,7 +684,6 @@
 {12216}{}{Tuoi Nemici in Maniera Efficace, Come Creare un Culto, e    }
 {12217}{}{Prossimi Libri da Scrivere quando Saro' Morto.)}
 {12218}{}{**END-DISK**}
-
 {13000}{}{APPUNTI DEL PROGETTISTA DI VAULT CITY}
 {13001}{}{**END-PAR**}
 {13002}{}{Vault City ha molti padri. E' stata progettata da Leonard   }
@@ -827,7 +739,6 @@
 {13052}{}{Congratulazioni per aver salvato il mondo. E grazie ancora  }
 {13053}{}{per aver giocato a Fallout 2.}
 {13054}{}{**END-DISK**}
-
 {14000}{}{VAULT CITY: MANUALE DI VIAGGIO DEL NORD CALIFORNIA}
 {14001}{}{**END-PAR**}
 {14002}{}{ATTENZIONE: Se un Cittadino del Vault dovesse }
@@ -837,7 +748,7 @@
 {14006}{}{1. Una scorta di razioni alimentari preconfezionate di }
 {14007}{}{   Vault City. Mai mangiare cibo offerto da un Esterno, }
 {14008}{}{   poiche' potreste introdurre batteri o particelle }
-{14009}{}{   radioattive nel vostro organismo!}
+{14009}{}{   all'interno del vostro organismo!}
 {14010}{}{}
 {14011}{}{2. Una contatore Geiger. Siate sempre accorti nel monitorare}
 {14012}{}{   i livelli di radioattivita' ambientale ovunque viaggiate!}
@@ -856,8 +767,8 @@
 {14025}{}{POPOLAZIONE: Un numero preciso non e' disponibile, ma}
 {14026}{}{si suppone che Redding abbia centinaia di abitanti.}
 {14027}{}{GOVERNO: Sindaco e Consiglio Cittadino.}
-{14028}{}{LIVELLO RADIAZIONE DI FONDO: Misurazioni aggiornate }
-{14029}{}{non sono disponibili.}
+{14028}{}{LIVELLO RADIAZIONE DI FONDO: Misurazioni aggiornate non}
+{14029}{}{disponibili.}
 {14030}{}{TASSO DI MUTAZIONE: Sconosciuto, ritenuto basso.}
 {14031}{}{**END-PAR**}
 {14032}{}{NEW RENO: Citta' a sudovest di Vault City. Commercia}
@@ -875,8 +786,8 @@
 {14044}{}{GOVERNO: New Reno attualmente presenta un stato di }
 {14045}{}{quasi-anarchia. Secondo i rapporti, alcune "famiglie}
 {14046}{}{criminali" si sono divise la citta' tra di loro.}
-{14047}{}{LIVELLO RADIAZIONE DI FONDO: Misurazioni aggiornate}
-{14048}{}{non sono disponibili.}
+{14047}{}{LIVELLO RADIAZIONE DI FONDO: Misurazioni aggiornate non}
+{14048}{}{disponibili.}
 {14049}{}{TASSO DI MUTAZIONE: Sconosciuto, ritenuto basso.}
 {14050}{}{**END-PAR**}
 {14051}{}{NEW CALIFORNIA REPUBLIC: I territori di NCR sono situati}
@@ -891,7 +802,7 @@
 {14060}{}{noi non abbiamo accesso ai dati. Si ritiene che NCR abbia}
 {14061}{}{molte decine di migliaia di persone.}
 {14062}{}{GOVERNO: Presidente e un Congresso.}
-{14063}{}{LIVELLO RADIAZIONE DI FONDO: Misurazioni aggiornate non }
+{14063}{}{LIVELLO RADIAZIONE DI FONDO: Misurazioni aggiornate non}
 {14064}{}{disponibili.}
 {14065}{}{TASSO DI MUTAZIONE: Varia a seconda dei territori.      }
 {14066}{}{**END-PAR**}
@@ -933,7 +844,6 @@
 {14102}{}{TASSO DI MUTAZIONE: I file sono stati cancellati, e   }
 {14103}{}{manca la seguente stringa: [-$Tasso di Natalita' %-]  }
 {14104}{}{**END-DISK**}
-
 {15000}{}{NEW CALIFORNIA REPUBLIC: DISCO INFORMATIVO 5}
 {15001}{}{**END-PAR**}
 {15002}{}{Questo disco sembra pieno di rapporti su NCR - cifre  }
@@ -946,7 +856,6 @@
 {15009}{}{niente sul Vault 13 o sul GECK, pero'. Tutti i rapporti}
 {15010}{}{sono indirizzati a Darion e sono firmati "F-".}
 {15011}{}{**END-DISK**}
-
 {16000}{}{NEW CALIFORNIA REPUBLIC: DISCO INFORMATIVO 1}
 {16001}{}{**END-PAR**}
 {16002}{}{Siamo qui! Perche' non ti unisci a noi?}
@@ -1001,7 +910,7 @@
 {16051}{}{riformati, predoni riconosciuti, e altri indesiderabili}
 {16052}{}{non possono inoltrare la richiesta!                    }
 {16053}{}{**END-PAR**}
-{16054}{}{COSA FARE SE TUTTO IL MIO PAESE VUOLE UNIRSI?}
+{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
 {16055}{}{A seconda di dove il tuo paese e' situato, NCR }
 {16056}{}{accetta petizioni da villaggi, paesi, basi, citta'-  }
 {16057}{}{stato, e persino da regni minori per l'annessione a   }
@@ -1019,7 +928,6 @@
 {16069}{}{NCRAP Pub. #A7-7893b}
 {16070}{}{Questa pagina e' stata intenzionalmente lasciata in bianco.}
 {16071}{}{**END-DISK**}
-
 {17000}{}{Primo Cittadino Lynette;}
 {17001}{}{**END-PAR**}
 {17002}{}{Il corriere ha consegnato il disco che avete mandato. }
@@ -1038,8 +946,6 @@
 {17015}{}{Il vostro amico e alleato,}
 {17016}{}{Roger Westin}
 {17017}{}{**END-DISK**}
-
-# State of the Nation
 {18000}{}{Memo: Stato della Nazione}
 {18001}{}{Da: Presidente Dick Richardson}
 {18002}{}{A: La gente di questa Grande Nazione}
@@ -1075,8 +981,6 @@
 {18032}{}{grado di gasare quei dannati mutanti ogni settimana a}
 {18033}{}{partire da ora se il rapporto di Curling e' corretto.}
 {18034}{}{**END-DISK**}
-
-# Word List
 {19000}{}{Memo: Lista di Parole}
 {19001}{}{Da: Vice-Presidente Daniel Bird}
 {19002}{}{A: Me}
@@ -1088,7 +992,7 @@
 {19008}{}{Proprio}
 {19009}{}{Psichiatra}
 {19010}{}{California}
-{19011}{}{Prontezza}
+{19011}{}{Essere pronto}
 {19012}{}{Verbosita'}
 {19013}{}{Inarticolato}
 {19014}{}{Qual e'}
@@ -1104,8 +1008,6 @@
 {19024}{}{Sarchiapone - farne la nuova mascotte nazionale (e' una }
 {19025}{}{creatura americana questa?)}
 {19026}{}{**END-DISK**}
-
-# The Project
 {20000}{}{Memo: Il Progetto, Rapporto Trimestrale sulla Situazione}
 {20001}{}{Da: Ten. Col., Dr Charles Curling, Divisione Chimica.}
 {20002}{}{A: Consiglio}
@@ -1119,8 +1021,8 @@
 {20010}{}{sono state fondamentali per l'avanzamento delle ricerche.   }
 {20011}{}{**END-PAR**}
 {20012}{}{Abbiamo scoperto che il F.E.V. virus non era progettato in  }
-{20013}{}{origine per essere usato come strumento per la creazione di }
-{20014}{}{super-soldati. Inizialmente, cosi' sembra, il F.E.V. era    }
+{20013}{}{designed to be used as an agent for the creation of}
+{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
 {20015}{}{stato ideato come  tossina virale. Solo in seguito il F.E.V.}
 {20016}{}{fu modificato nel tentativo di creare super-soldati.        }
 {20017}{}{**END-PAR**}
@@ -1158,8 +1060,6 @@
 {20049}{}{di lavoro sono quasi giunti al termine.}
 {20050}{}{Dio benedica l'America.}
 {20051}{}{**END-DISK**}
-
-# Power Plant Operations
 {21000}{}{Memo: C.E.A, Rapporto Situazione}
 {21001}{}{Da: Tom Murray, Presidente, Commissione Energia Atomica}
 {21002}{}{A: Consiglio}

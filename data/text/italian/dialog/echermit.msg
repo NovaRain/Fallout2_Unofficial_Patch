@@ -12,12 +12,12 @@
 {111}{}{OK, ecco quello che posso darti.}
 {112}{}{Ad andarmene, meglio io farei.}
 {113}{}{Vattene.}
-{114}{}{Adesso vado.}
+{114}{}{Me ne vado subito.}
 {115}{}{Hmm...piaci tu a me. Puoi qui tu rimanere, barattare possiamo io e te.}
 {116}{}{K'}
 {117}{}{Me va.}
 {118}{}{Piaciuto a me con te parlare. Ora tu andare. Stanco io sono.}
-{119}{}{[Fine]}
+{119}{}{[FINE]}
 {120}{}{Parlare, alla testa male a me fare. Tu andare.}
 {121}{}{Di parlare con te ho terminato.}
 {122}{}{Non parlare. Andare.}

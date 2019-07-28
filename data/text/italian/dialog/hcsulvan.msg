@@ -36,7 +36,7 @@
 {135}{}{Non so perche', ma credo che tu mi abbia preso per i fondelli fin dall'inizio.}
 {136}{}{Uhm, beh, uhm, immagino che tu sia un uomo molto occupato. Ci vediamo dopo.}
 {137}{}{(Ti guarda.) Forse si'. Forse no. Beh, decidi tu.}
-{138}{}{Lo faro'. Addio.}
+{138}{}{Lo faro'. Arrivederci.}
 {139}{}{Beh, forse l'ho fatto. Ad ogni modo, l'hai presa davvero bene. Ecco una birra, offro io.}
 {140}{}{Grazie. Ora, cosa stavi dicendo a proposito della dolce scienza?}
 {141}{}{Non accetto nessuna birra offerta da te. So molte piu' cose di quante tu possa insegnarmi, vecchio ubriacone. Addio.}

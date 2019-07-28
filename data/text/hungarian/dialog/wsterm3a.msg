@@ -1,7 +1,6 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
 {100}{}{Számítógép-terminál.}
 {101}{}{Úgy látszik, ehhez a számítógéphez egy kamera van csatlakoztatva.}
-{102}{}{Képtelen vagy elolvasni, mi van a képernyõn.}
+{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
 {103}{}{[A kamera elfordul az utasításaidra.]
                                Skynet Biztonsági Rendszer
                                         Biztonsági Terminál Felülbírálása - 3. Szint
@@ -14,15 +13,14 @@
 {107}{}{}
 {108}{}{}
 {109}{}{Mi a... Ki a fene vagy?}
-{110}{}{Én Dixon tizedes vagyok.}
-{111}{}{A nevem }
+{110}{}{Dixon tizedes vagyok.}
+{111}{}{Én }
 {112}{}{Uh!}
-{113}{}{[Képtelen vagy elolvasni, mi van a képernyõn.]}
+{113}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
 {114}{}{Hiba! Nincs programállomány jelen.                                              Kérem, indítsa újra a számítógépet!}
-# Ha valaki találkozott ilyennel (114), akkor küldjön egy mentést please!( mig21@freemail.hu) mert nem tudtam tesztelni
 {115}{}{}
 {116}{}{}
-{117}{}{Uh!}
+{117}{}{Ah...}
 {118}{}{Kilépés}
 {119}{}{Skynet vagyok. 59234-es számú Mesterséges Intelligencia projekt.
                                                      Elsõdleges cél: Kutatás és fejlesztés. 
@@ -30,7 +28,7 @@
                                Kérlek, azonosítsd magad!}
 {120}{}{}
 {121}{}{Dixon tizedes vagyok.}
-{122}{}{A nevem }
+{122}{}{Én }
 {123}{}{A barátod vagyok.}
 {124}{}{Kilépés}
 {125}{}{Figyelem! A letapogatott kép nem egyezik a Dixon tizedes személyes adataiban találhatóval.
@@ -68,12 +66,11 @@
                                    További analízisre menj a vezérlõterembe!
  
  -Átvitel Vége-}
-{141}{}{.}
-{142}{}{.}
+{141}{}{}
+{142}{}{}
 {143}{}{Kilépés}
-
-{200}{}{ képtelen elolvasni, mi van a képernyõn.}
-{300}{}{Úgy látszik, a számítógép védelmi mechanizmussal van ellátva.}
+{200}{}{ képtelen elolvasni, mi van a képernyõre írva.}
+{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
 {301}{}{Áramütés ért, ezért -}
 {302}{}{, a társad, áramütést szenvedett, ezért -}
 {303}{}{ ÉP a büntetés!}

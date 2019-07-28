@@ -10,8 +10,6 @@
 {109}{}{Sigilli anti-contaminazione compromessi - Livello 1.}
 {110}{}{Falla nel Sistema di Contenimento - Livello 1.}
 {111}{}{Livello 1 contaminato.}
-
-# X minutes and Y seconds to evacuate.
 {112}{}{ minuti e }
 {113}{}{ secondi per evacuare.}
 {114}{}{ minuto e }

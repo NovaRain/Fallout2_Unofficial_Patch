@@ -1,4 +1,3 @@
-# Dialog Editor last position: 10
 {100}{}{Egy ajtót látsz.}
 {101}{}{Rendkívül masszívnak tûnik.}
 {102}{}{Az ajtó meg sem mozdul.}
@@ -14,3 +13,5 @@
 {112}{}{Az ajtó beszakad a nagy nyomás alatt.}
 {113}{}{Az ajtó már ki van nyitva.}
 {114}{}{Kevés vagy te ehhez az ajtóhoz.}
+{120}{}{Herro, Ra Ra?}
+{121}{}{Hehe, door talkie. Hi!}

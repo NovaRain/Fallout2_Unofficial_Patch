@@ -1,5 +1,4 @@
-# Dialog Editor last position: 1
-{100}{}{Ez itt egy ökölvívó.}
+{100}{}{Bokszoló.}
 {101}{}{Õ Evan Hollyfeld.}
 {150}{}{Ez itt egy zömök fickó, masszív, szögletes állkapoccsal. A fülei alaposan meg vannak tépázva.}
 {151}{}{A fülei alaposan meg vannak tépázva.}
@@ -9,25 +8,25 @@
 {202}{}{::Nyöszörögve tapogatja a fülét::}
 {203}{}{::Befeszít::}
 {300}{}{::A füleihez nyúlkál és közben egyre csak bámul::}
-{301}{}{Én csípni fejelés}
-{302}{}{Én meg Mike fejeltünk}
-{303}{}{Én megfejel Mike õ harapja fülem}
-{304}{}{Mike harapja fülem mer' éhes}
-{305}{}{Én hallani nem jól}
+{301}{}{Me like head-butt.}
+{302}{}{Me and Mike butt heads.}
+{303}{}{I butt Mike but he bite my ears.}
+{304}{}{Mike bite my ears cause he hungry.}
+{305}{}{Me no hear good.}
 {306}{}{::Megvakarja a füle helyét::}
-{307}{}{He?}
-{308}{}{Mi? Én nem hall jól.}
-{309}{}{Egyszer ül, máskor fül}
+{307}{}{Nahát...}
+{308}{}{Mi? Nem hallak.}
+{309}{}{Ear today gone tomorrow.}
 {310}{}{Harapol?}
-{311}{}{Hell-ó jóillatú}
-{312}{}{Hell-ó lánka}
+{311}{}{Hell-o good smell person.}
+{312}{}{Hell-o girl person.}
 {313}{}{Akarol fejelõdni}
-{314}{}{Én szeret fejelés}
-{315}{}{Én meg Mike fejelünk}
-{316}{}{Megfejel Mike õ meg harap le fülem}
-{317}{}{Mike harapja fülem mer éhes}
-{318}{}{Nem hallok jól}
+{314}{}{Me like head-butt.}
+{315}{}{Me and Mike butt heads.}
+{316}{}{I butt Mike but he bite my ears.}
+{317}{}{Mike bite my ears cause he hungry.}
+{318}{}{Me no hear good.}
 {319}{}{::Megvakarja a füle helyét::}
-{320}{}{He?}
+{320}{}{Nahát...}
 {321}{}{Mi? Nem hallak.}
-{322}{}{Egyszer ül máskor fül}
+{322}{}{Ear today gone tomorrow.}

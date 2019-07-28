@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt Salvatore egyik embere.}
 {150}{}{Egy komor képû ember áll elõtted. Állandóan összehúzza a szemöldökét, és mereven bámul elõre. A kezében egy különös pisztolyt tart.}
 {151}{}{Egy komor képû ember áll elõtted. Állandóan összehúzza a szemöldökét, és mereven bámul elõre.}
@@ -15,12 +14,12 @@
 {171}{}{Minek a bujkálás? Valaki a nyomodban van?}
 {172}{}{Próbálsz a lehetõ legkevésbé feltûnõbb lenni?}
 {173}{}{Mi szükség a lopakodásra? Valaki a nyomodban van?}
-{180}{}{Bármi legyek, ha ez itt nem }
+{180}{}{Nos, ha esetleg nem }
 {181}{}{ELTÉVEDTÉL, haver? Jobb ha elhúzol innen!}
 {182}{}{Ez a srác keresi a bajt...}
 {183}{}{Tûnés innen! Most azonnal!}
 {184}{}{Hacsak nem a bajt keresed itt, jobb ha most azonnal elmész innen!}
-{185}{}{Bármi legyek, ha ez itt nem }
+{185}{}{Nos, ha esetleg nem }
 {186}{}{ELTÉVEDTÉL, kislány? Jobb ha elhúzol innen!}
 {187}{}{Ez a csajszi keresi a bajt...}
 {195}{}{Itt nem lehet fegyvert hordani!}
@@ -28,20 +27,20 @@
 {200}{}{Kisasszony, attól tartok, meg kell kérjem, hogy tegye el a fegyverét.}
 {201}{}{Kisasszony, sajnálom, de ide nem lehet fegyveresen bejönni.}
 {205}{}{Hé, te hajcsár! Tedd el a fegyvered, de azonnal!}
-{206}{}{Itt nem hordhatsz fegyvert, hajcsár!}
-{207}{}{Rakd el a fegyvered, hajcsár!}
+{206}{}{Ide nem lehet fegyvert behozni, hajcsár!}
+{207}{}{Tedd el a fegyveredet, hajcsár!}
 {208}{}{Hajcsár, most azonnal tedd el a fegyveredet!}
 {210}{}{Hé, te, hajcsár! Ne osongass itt nekem!}
 {215}{}{Hé, te ott! Rakd el a fegyveredet!}
-{216}{}{Itt nem lehet fegyvert viselni!}
-{217}{}{Tedd el azt a fegyvert! Most azonnal!}
-{218}{}{Rakd el a fegyveredet most azonnal!}
+{216}{}{Fegyvert nem lehet ide behozni!}
+{217}{}{Most azonnal tedd el azt a fegyvert!}
+{218}{}{Rakd el a fegyvered most azonnal!}
 {220}{}{Te ott! Hagyd abba a lopakodást!}
 {225}{}{Robotokat nem lehet behozni ide! Vidd innen, de gyorsan! Most azonnal!}
 {226}{}{Ki a robottal! Vidd innen a rákba!}
 {230}{}{Mutánsok nem jöhetnek be ide! Vidd innen a fenébe most rögtön!}
 {231}{}{Mutánsokat nem lehet behozni! Vidd ki innen villámsebesen!}
-{235}{}{Hogy mész fürdeni, ha rajtad van az a vacak?}
+{235}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
 {240}{}{Uram.}
 {241}{}{Üdvözöljük, uram.}
 {242}{}{Nincs jelentenivaló, uram.}
@@ -89,10 +88,10 @@
 {310}{}{Igazán sajnálom... tényleg... de most nincs idõm beszélgetni. Gyere munka után, ha ráérsz!}
 {311}{}{A szívem megszakad... de most nem beszélgethetünk.}
 {312}{}{Ugyan már, kedvesem, ne vondd el a figyelmemet!}
-{313}{}{Nem segíthetek.}
+{313}{}{Nem tudok segíteni.}
 {314}{}{Úgy hallottam, Tökös Tomi magánvetítésre vár téged.}
 {315}{}{Most ne, kedvesem! Dolgom van.}
-{316}{}{Szívesen beszélgetnék, de a fõnököm megláthatja.}
+{316}{}{Beszélnék én szívesen, de a fõnök észreveheti.}
 {325}{}{Hajcsár, most rögtön rakd el azt a fegyvert!}
 {326}{}{Ide nem lehet fegyvert behozni, hajcsár!}
 {327}{}{Tedd el a fegyveredet, hajcsár!}
@@ -106,9 +105,9 @@
 {340}{}{Hagyd abba a lopakodást, mert baj lesz!}
 {345}{}{Nem vagyok illetékes a rabszolga-vásárlásban. Beszélj Masonnel!}
 {346}{}{A Salvatore családnak már épp elég rabszolgája van.}
-{347}{}{Most nem beszélhetek.}
+{347}{}{Most nincs egy szál idõm se, hogy beszélgessek.}
 {348}{}{Nem tudok segíteni.}
-{349}{}{Nézd, most egy deka idõm sincs. Ha beszélgetni akarsz, menj a Szûz utcába, és kapj el egy kurvát!}
+{349}{}{Figyelj, nem érek rá! Ha beszélgetni akarsz, menj a Szûz utcába, és kapj el egy kurvát!}
 {355}{}{Ha rabszolgákkal akarsz kereskedni, beszélj a fõnökkel!}
 {356}{}{Nehogy azt hidd, hogy a fõnöknek kellenek még rabszolgák. Ettõl persze megpróbálhatod.}
 {360}{}{Munkát keresel? Beszélj Masonnel!}

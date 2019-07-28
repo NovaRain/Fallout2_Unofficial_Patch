@@ -1,9 +1,6 @@
-# Dialog Editor last position: 10
-{100}{}{Ez a férfi éppen egy lanton pötyögtet.}
-{101}{}{Joshua.}
-{102}{}{Egy vándor kobzos.}
-#Ezek mind a gyalog galoppbol vannak (bass)
-
+{100}{}{You see a man strumming a lute.}
+{101}{}{This is Joshua.}
+{102}{}{He is a traveling minstrel.}
 {103}{}{Robin a bátor elszaladt...}
 {104}{}{Bátran elfutott, el õ...}
 {105}{}{A vész láttán, ahogy tudott, farkát behúzva elfutott.}

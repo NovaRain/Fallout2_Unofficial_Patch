@@ -1,12 +1,11 @@
-# Dialog Editor last position: 2
 {100}{}{Egy erõpáncélt viselõ fickót látsz.}
 {101}{}{Enklávé katona.}
 {102}{}{Ez a fickó egy igen bonyolultnak tûnõ erõpáncélt visel.}
 {103}{}{Mi folyik itt?}
 {104}{}{Mozgás!}
-{105}{}{Te meg mit bámulsz?}
-{106}{}{Gyerünk, mozgás!}
-{107}{}{Csak semmi bámészkodás!}
+{105}{}{Mit néze'?}
+{106}{}{Eridj tovább!}
+{107}{}{Nincs itt semmi látnivaló!}
 {108}{}{Beleírlak a jelentésembe!}
 {109}{}{Menj a dolgodra!}
 {110}{}{Lehetsz te itt egyáltalán?}
@@ -14,7 +13,7 @@
 {112}{}{Igyekezz!}
 {113}{}{Kopj le!}
 {114}{}{Ez nem gyakorlat, ismétlem, nem gyakorlat!}
-{115}{}{Kezdjétek a kiürítési eljárást!}
+{115}{}{Start containment procedures.}
 {116}{}{Vonszold a segged biztonságba, most azonnal!}
 {117}{}{Veszélyes helyzet alakult ki!}
 {118}{}{Jobb, ha most biztos helyre mész!}
@@ -25,12 +24,12 @@
 {123}{}{Imádom a munkámat.}
 {124}{}{Nem hallottál valamit?}
 {125}{}{Majd leszakad a lábam.}
-{126}{}{Hallottad az új pletykát a "kopasz" fõhadnagyról?}
+{126}{}{So, did you hear the one about the new second Louie?}
 {127}{}{Itt soha nem történik semmi.}
 {128}{}{Bárcsak történne valami izgalmas is!}
 {129}{}{Hallottam, hogy az alelnök súlyosan beteg... mármint az agyára.}
 {130}{}{Ugye nem aludtál el?}
-{131}{}{Rádiópróba! Klikk, klikk. Hallotok engem?}
+{131}{}{Radio check. Check, check. You reading me?}
 {132}{}{Áááááaaaah!}
 {133}{}{Este tuti pókert nyomunk. Ma szerencsés napot fogtam ki!}
 {134}{}{Álljatok készültségben, katonák!}
@@ -42,8 +41,8 @@
 {140}{}{Közel vannak, érzem.}
 {141}{}{Csak nyugalom, katonák!}
 {142}{}{Van egy rakás elvégzendõ feladatunk!}
-{143}{}{Erre mérget vehet, õrmester!}
-{144}{}{Igenis, uram!}
+{143}{}{You bet, Sarge.}
+{144}{}{Igen, uram.}
 {145}{}{Itt a B részleg, minden tiszta.}
 {146}{}{Folyosó tiszta.}
 {147}{}{Megyek vissza az õrhelyemre.}

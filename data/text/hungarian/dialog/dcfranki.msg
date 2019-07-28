@@ -1,14 +1,13 @@
-# Dialog Editor last position: 128
 {100}{}{A Lyuk tulajdonosa.}
 {101}{}{Õ Frankie, a Lyuk tulaja.}
 {150}{}{Õ ennek a helynek a tulajdonosa.}
 {151}{}{Õ Frankie. Övé ez a hely.}
-{152}{}{[Beszéd]}
+{152}{}{[Beszélgetés]}
 {153}{}{Frankie vagyok, ez pedig itt a Lyuk. A legjobb bár a környéken! Mindenki ide jár lazítani. Aztán ne keresd nekem a bajt, hallod-e?}
 {154}{}{Majd vigyázok...}
 {155}{}{Ja, persze-persze.}
 {156}{}{Már értem, mért hívjátok ezt a helyet "Lyuk"-nak.}
-{157}{}{Hö?}
+{157}{}{Nahát...}
 {158}{}{Mit kérsz?}
 {159}{}{Whiskey-t.}
 {160}{}{Nõt.}
@@ -22,24 +21,24 @@
 {168}{}{Inkább elmegyek.}
 {169}{}{A whiskey }
 {170}{}{ dollár lesz.}
-{171}{}{Itt a pénzed.}
+{171}{}{Tessék, itt a pénz.}
 {172}{}{Francokat! Az túl sok!}
 {173}{}{Miért kerül a te whiskey-d jóval többe, mint Becky-é?}
-{174}{}{Kösz, de nem.}
+{174}{}{Kösz nem.}
 {175}{}{Másvalamit?}
 {176}{}{Igen.}
 {177}{}{Nem, kösz.}
 {178}{}{Nincs elég pénzed!}
 {179}{}{Ó, bocs. Kicsit leégtem.}
-{180}{}{Még visszajövök.}
+{180}{}{I'll come back.}
 {181}{}{Mit akarsz?}
 {182}{}{Whiskey-t.}
-{183}{}{Semmit. Elmegyek.}
+{183}{}{Nothing. I'm leaving.}
 {184}{}{Pipilni kell!}
 {185}{}{És maradj is odakint!}
-{186}{}{[kimész]}
+{186}{}{[EXIT]}
 {187}{}{Nem tûrök ilyen embereket a báromban! Takarodj kifelé!}
-{188}{}{Rendben, elmegyek.}
+{188}{}{Rendben, indulok.}
 {189}{}{Áh.}
 {190}{}{Azok a New Reno-i családok rengeteget elkérnek a piájukért. Nem tudom, õ hogy csinálja!}
 {191}{}{Hát, ki kéne derítened...}
@@ -68,10 +67,10 @@
 {214}{}{Francba! De legalább addig sem lesz piája.}
 {215}{}{Miért rivalizáltok, Frankie? Inkább álljatok össze.}
 {216}{}{Gondolkozz! Mi egyéb helyrõl szerezhetnél piát?}
-{217}{}{Ezt meg hogy érted?}
+{217}{}{Ezt most hogy kell értenem?}
 {218}{}{Vásárold tõle a piát! Olcsóbb, mint ami New Renóból jön, így többet is keresel.}
-{219}{}{Nem akarom ezt megcsinálni.}
-{220}{}{Vedd úgy, hogy nem is említettem!}
+{219}{}{I don't want to do this.}
+{220}{}{Értem.}
 {221}{}{Nézd, én csak azt akarom, hogy a lepárlója tönkre menjen. Megteszed?}
 {222}{}{Rendben, megteszem.}
 {223}{}{Nem. Minden jót!}
@@ -84,13 +83,13 @@
 {230}{}{Akkor rossz helyen járok. Viszlát!}
 {231}{}{Eredj, beszélj Sheilával! Hé, Sheila, vendéged van!}
 {232}{}{Várj, én nem ezt akarom!}
-{233}{}{Köszi. Viszlát!}
+{233}{}{Kösz. Viszlát!}
 {234}{}{Ja, gondoltam. Biztos nehezen szerzel pasikat. Máshol próbálkozz. Én nem vállalom.}
 {235}{}{Rendben. Akkor valami mást.}
 {236}{}{Te kis...}
 {237}{}{Ez tõled nem kell!}
 {238}{}{Van ott egy szobám. Te és én használhatnánk...}
-{239}{}{Oké.}
+{239}{}{OKÉ.}
 {240}{}{Nem, nem erre gondoltam.}
 {242}{}{Te sem.}
 {243}{}{Megpróbáltam volna, ha tudnád mi kell a nõnek.}
@@ -100,7 +99,6 @@
 {247}{}{Viszlát!}
 {248}{}{Ja, persze. Csak takaríts fel magad után!}
 {249}{}{Kis figyelmet, emberek! Örvendezzetek Billy miatt! Végre meglesz neki...}
-#Ez egy fura idioma volt, de ezt jelenti
 {250}{}{Akarsz egy numerát?}
 {251}{}{Találkozunk az ötösben.}
 {252}{}{Sheila! Figyelj a bárra!}
@@ -111,13 +109,12 @@
 {257}{}{Gyerünk, bébi!}
 {258}{}{Kövess!}
 {259}{}{Engem egy nõ sem mozdít el innen. Tûnés kifelé!}
-{260}{}{Rendben.}
+{260}{}{Remek.}
 {261}{}{Elfelejtettem, viszont valamit még el kell intéznem. Bocsáss meg, bébi!}
 {262}{}{Meggondoltam magam, mégsem akarom látni a ronda fejedet.}
 {263}{}{Szerencséd van. Jó fiú vagyok. Csak ne szarozz velem még egyszer!}
 {264}{}{Nem fogok, bébi, ígérem.}
 {265}{}{Szappanos lábbal foglak picsán rúgni, asszony!}
-#Ide valami magyaros kivankozott
 {266}{}{Senki nem beszélhet így velem! Dögölj meg!}
 {267}{}{Megvolt az esélyed. Tûnés!}
 {268}{}{Nem jöhetsz be ide azzal a szeméttel!}
@@ -129,3 +126,4 @@
 {354}{}{Hát, ennél rosszabb még sosem volt.}
 {400}{}{Tudod, bébi, szexi vagy meg minden, de van még mit tanulnod.}
 {410}{}{Bébi, dolgoznom kell. Nem azért állok itt egész nap, hogy ne csináljak semmit. Na, jó, mi van, ha mégis? Szóval ezért vagyok itt.}
+{420}{}{Look, I just wanted her still destroyed and you do it. Now beat it.}

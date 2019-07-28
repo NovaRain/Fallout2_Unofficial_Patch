@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{Egy zsírfoltos ruhájú embert látsz, valószínûleg szerelõ.}
 {101}{}{Õ Rondo, a hely tulajdonosa.}
 {102}{}{Szerelõnek tûnik, de oldalfegyvert visel, ami kicsit furcsa.}

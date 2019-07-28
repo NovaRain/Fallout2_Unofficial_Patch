@@ -9,7 +9,6 @@
 {108}{}{Non temere, ragazzo. Tornero' a prenderti quando si liberera' un posto nel mio gruppo.}
 {109}{}{Mi spiace, Dogmeat. Non questa volta.}
 {110}{}{Il cane divora ingordamente lo spiedino di iguana e poi ti guarda speranzoso.}
-{1110}{}{Il cane divora ingordamente il contenuto della scatola di cibo per cani e poi ti guarda speranzoso.}
 {111}{}{-Fischia-}
 {112}{}{Fosse tu potere venire co' me se io ha piu' spazzio.}
 {113}{}{Uh-uh, cagnolino. Tu stare.}
@@ -39,7 +38,6 @@
 {137}{}{Ehi, amico, che stai facendo al mio cane?}
 {138}{}{Grrrrr....}
 {139}{}{(Forse posso farmi seguire da Dogmeat in maniera diversa...)}
-
-#added by killap - NPC info
 {300}{}{*Frustata*}
 {301}{}{Awooooooooooo! *frustata*}
+{1110}{}{Il cane divora ingordamente il contenuto della scatola di cibo per cani e poi ti guarda speranzoso.}

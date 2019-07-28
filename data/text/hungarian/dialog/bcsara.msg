@@ -5,4 +5,3 @@
 {104}{}{Kérlek, menj el! Nincs itt semmi számodra.}
 {105}{}{Kösz, hogy segítettél Rebeccának. Szép dolog volt tõled, egy idegennek segíteni.}
 {106}{}{Nem jelentek számodra fenyegetést. Kérlek, ne ölj meg!}
-

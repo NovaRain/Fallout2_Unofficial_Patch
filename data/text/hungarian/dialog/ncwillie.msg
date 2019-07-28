@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt Koporsós Willie.}
 {150}{}{Ez itt egy öreg, büdös, ráncos ghoul. Barátom, ez úgy bûzlik, hogy arra nincs szó!}
 {200}{}{Atyám! Ez a sír bûzlik, mint állat!}
@@ -17,9 +16,12 @@
 {306}{}{Vedd le a simabõrû mancsodat rólam, te!}
 {500}{}{A fejfán ez áll: "Itt nyugszik a legostobább fasz, aki valaha betette a lábát New Renóba."}
 {550}{}{A sírgödörbõl szörnyû szag árad.}
-{600}{}{HÉ!}
+{600}{}{Hé!}
 {601}{}{Hallok valamit odakinntrõl!}
 {602}{}{Ne lépjé' a sírra! Hullik a fõd a fejemre!}
 {603}{}{Gyorsan, SZEREZZ EGY ÁSÓT!}
 {604}{}{Kiásna már végre valaki? Inni akarok!}
 {605}{}{Ez itt egy féreg? Végül is... mindegy.}
+{700}{}{Ug, smellie in hole.}
+{701}{}{Me dig more for smellie shinies.}
+{702}{}{Huh, You not shini-!?}

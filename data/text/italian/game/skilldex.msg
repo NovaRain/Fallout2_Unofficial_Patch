@@ -1,6 +1,3 @@
-#
-#   Messages from skilldex.c
-#
 {100}{}{SKILLDEX}
 {101}{}{CANC.}
 {102}{}{FURTIVO}
@@ -11,4 +8,3 @@
 {107}{}{DOTTORE}
 {108}{}{SCIENZA}
 {109}{}{RIPARA}
-

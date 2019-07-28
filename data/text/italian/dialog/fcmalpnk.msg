@@ -5,19 +5,19 @@
 {104}{}{Non ne posso piu' di mangiare pesce.}
 {105}{}{Prima ci muoviamo, meglio e'.}
 {106}{}{La cosa migliore dell'essere nomadi e' il dover rendere conto solo a se stessi.}
-{107}{}{Infatti, preferirei morire piuttosto che rendere conto di qualcosa a te.} ###???I'd rather die than give you control
+{107}{}{Infatti, preferirei morire piuttosto che rendere conto di qualcosa a te.}
 {108}{}{Nessuno controlla la mia vita! Io sono il re di me stesso!}
 {109}{}{Io sono il mio capo.}
-{110}{}{Io sono unico! Proprio come tutti gli altri!}
-{111}{}{A volte il cinismo nichilista mi annoia.}
-{112}{}{La prossima volta vorrei trovare una tribu' di barbari.}
+{110}{}{Sono unica! Proprio come chiunque altro!}
+{111}{}{A volte questo cinismo disilluso mi annoia.}
+{112}{}{La prossima volta spero di imbattermi in una tribu' di barbari.}
 {113}{}{Ho visto Selmy e Barro fatti a pezzi, al piano di sotto.}
-{114}{}{Ho sentito dire che l'Imperatore Shi ha un'intelligenza sovrumana.}
+{114}{}{Ho sentito che l'Imperatore Shi e' dotato di un'intelligenza disumana.}
 {115}{}{Questi Shi hanno davvero un aspetto buffo.}
-{116}{}{Sono un tipo di larghe vedute, eh?}
+{116}{}{Quindi io sarei di mentalita' aperta, eh?}
 {117}{}{Ti daro' la mia ragazza se tu mi dai la tua.}
-{118}{}{Questi nuovi punk... Fantocci...}
-{119}{}{AHS-9 ci ha imbrogliato. E imbrogliera' anche te, se glielo permetterai.}
+{118}{}{Ma tu guarda tutti questi nuovi punk... che buffoni.}
+{119}{}{AHS-9 ci ha imbrogliato e fara' lo stesso con te se non stai attento.}
 {120}{}{Un agnello. Tu non sei altro che un agnello sacrificale.}
 {121}{}{Di' a quegli Hubologisti bastardi che non ci arrenderemo mai.}
 {122}{}{Non sono mai stato all'Hub.}
@@ -25,22 +25,22 @@
 {124}{}{Non si rendono conto che l'uccisione del nostro "leader" non ci spingera' a seguire i loro?}
 {125}{}{Sei uno stronzo.}
 {126}{}{Beee! Beee!}
-{127}{}{Allora... com'e' prenderlo da un mutante?}
-{128}{}{Quell'enorme mutante di Francis ti ha fatto male?}
+{127}{}{Allora com'e' stato, prenderlo da un mutante?}
+{128}{}{Quell'enorme mutante di Francis ti ha fatto la bua?}
 {129}{}{Francis ha giocato con te?}
 {130}{}{Francis e' un tipo davvero grosso.}
 {131}{}{Il buon vecchio Francis, eh?}
 {132}{}{}
-{133}{}{Ehi! E' l'imbecille!} ###???gimp
+{133}{}{Ehi! E' l'imbecille!}
 {134}{}{Ehi, se ti serve aiuto da parte nostra, non scomodarti a chiedercelo.}
 {135}{}{Wow! Un coglione parlante!}
 {136}{}{Cosa ottieni dall'essere cosi' stronzo?}
 {137}{}{Hai sacrificato il nostro piccolo Chippie, eh?}
 {138}{}{Povero Chip.}
-{139}{}{Oh, guardate, ecco l'"eroe".}
-{140}{}{Ehi, guardate tutti! E' il coglione egoista!}
+{139}{}{Oh, guardate, c'e' l'"eroe".}
+{140}{}{Ehi, guardate! E' quel coglione egoista!}
 {141}{}{Come se qualcuno avesse voglia di parlare con te.}
-{142}{}{Tu odi Chip!}
+{142}{}{Nemico di Chip!}
 {143}{}{Posso fare qualcosa per te? Che peccato!}
 {144}{}{Non parlarmi.}
 {145}{}{E' stato gentile da parte tua cercare di recuperare la milza di Chip.}

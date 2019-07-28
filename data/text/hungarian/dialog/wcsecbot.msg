@@ -4,7 +4,5 @@
 {106}{}{Megsemmisíteni a célpontot!}
 {107}{}{A Biztonsági Rendszer meghibásodott!}
 {108}{}{Rendszerhiba!}
-
 {150}{}{Üzemképtelenné tetted a robotot.}
 {151}{}{Tökéletesen megjavítottad a robotot.}
-# ez utóbbi kettõ magas tudománnyal elérhetõ!!! 75/200XP

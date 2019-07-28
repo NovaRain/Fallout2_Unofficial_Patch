@@ -6,4 +6,4 @@
 {105}{}{Neked nem lenne szabad itt lenned!}
 {106}{}{Üdvözöllek, Felderítõ-társam!}
 {107}{}{Egy Felderítõ soh'se pihenhet.}
-{108}{}{Légy erõs! Az egyik testvérünk talált egy rabszolga-tábort a múlt héten!}
+{108}{}{Take heart! Our brothers hit a slave camp last week.}

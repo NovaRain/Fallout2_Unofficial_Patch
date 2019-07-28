@@ -1,6 +1,5 @@
 {100}{}{Vedi un tipaccio dall'aria minacciosa.}
 {101}{}{Vedi una guardia del Den.}
-
 {102}{}{Non ora; sono in servizio.}
 {103}{}{Non posso parlare con te.}
 {104}{}{Per favore va' via.}

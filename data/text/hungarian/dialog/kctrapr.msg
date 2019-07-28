@@ -1,16 +1,15 @@
-# Dialog Editor last position: 56
 {100}{}{Egy ápolatlan ember.}
 {101}{}{Egy klamath-i lakos.}
 {102}{}{Egy földfoglalót látsz.}
 {103}{}{Ez egy faragatlan ember.}
 {104}{}{Prémvadász.}
-{105}{}{Egy vadász.}
+{105}{}{Prémvadász.}
 {110}{}{Hehe, rájöttél már, hogy közénk tartozol?}
 {111}{}{Itt már nem tudunk lopni semmit.}
-{112}{}{A Prémvadászok Városában egyre nagyobbak a patkányok. Még olyan is van, amelyik két lábra tud állni.}
+{112}{}{Trapper Town's got bigger rats every day. Some even stand erect.}
 {113}{}{Itt nincsen számodra hely!}
 {114}{}{Itt már nincsenek letelepedõk!}
-{115}{}{Mit bámulsz?}
+{115}{}{Mit néze'?}
 {116}{}{Bunkó törzsbéliek, mindig csak bajt csinálnak...}
 {117}{}{Menj délre!}
 {118}{}{Nahát, mégis van, aminek rosszabb szaga van a gekkóbõrnél...}
@@ -18,9 +17,9 @@
 {120}{}{A Nagy Patkány Szellemére, mi jöhet még?}
 {121}{}{Ha még sokáig maradsz a városban, áldozatot mutatok be a Nagy Patkány Szellemének.}
 {122}{}{Vigyázz, különben úgy jársz, mint Phil!}
-{123}{}{Pont olyan vagy, mint a Duntonok.}
+{123}{}{Olyan vagy, mint a Duntonok.}
 {124}{}{Nem igazán van rád szükségünk ebben a városban.}
-{125}{}{Mi a bajod?}
+{125}{}{Mi a gondod?}
 {126}{}{(motyogás, motyogás)... csak egy jó törzsbéli van, a ha... (motyogás)}
 {130}{}{A város itteni része csak profiknak való, mint mi.}
 {131}{}{Hmm... pont úgy nézel ki, mint aki akkor sem venne észre egy gekkót, ha seggbeharapná.}
@@ -44,13 +43,13 @@
 {150}{}{Úgy nézel ki, mint aki kiismeri magát az erdõben.}
 {151}{}{A prémvadászat veszélyes... de legalább jól fizet.}
 {152}{}{Utálom az összes rohadt patkányt! Túl okosak és kikerülik a csapdákat.}
-{153}{}{Légy óvatos az aranygekkókkal! Kétszer erõsebbek az átlagosaknál.}
-{154}{}{Te az arroyói törzsbõl jöttél, nem? Ránézésre megmondom.}
+{153}{}{Watch out for golden geckos; they're twice as tough as the ordinary ones.}
+{154}{}{You're from the Arroyo tribe, ain't you? Can tell by your looks.}
 {155}{}{Néha olyan, mintha lenne egy hatalmas patkány valamelyik épületben.}
 {156}{}{Itt olcsó az élet, de el kell tudnod bánnod a patkányokkal.}
-{157}{}{(Hangosan csámcsog) A patkányhús sokkal finomabb, mint azt gondolják. Éhes vagy?}
+{157}{}{(Hangosan csámcsog) A patkányhús sokkal finomabb, mint azt a legtöbben elképzelik. Kérsz?}
 {158}{}{Tudod, a gekkóhús íze, ha jól megfõzöd, emlékeztet valamire, de nem emlékszem pontosan, mire.}
-{159}{}{Néhány állat sokkal jobban szereti a szárított húst, mint az emberét.}
+{159}{}{Néhány állat sokkal jobban szereti a szárított húst, és ha szerencséd van, az kell nekik és nem te magad.}
 {160}{}{Ne felejtsd, ha túl sok gekkóbõrt adsz el egyszerre, lemegy az áruk.}
 {161}{}{Egy nap lesz olyan fegyverem, ami meszebb is ellõ.}
 {162}{}{Esküszöm, hogy láttam a bogárembereket a legelõn, a várostól keletre.}

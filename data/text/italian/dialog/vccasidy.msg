@@ -5,23 +5,23 @@
 {104}{}{Bene, bene... ecco qua lo straniero misterioso. Cosa posso fare per te, oggi?}
 {105}{}{Ug Nog?}
 {106}{}{-Allontanati-}
-{107}{}{Sto cercando un Vault.}
-{108}{}{Hai voglia di lasciare questo posto?} ###???You looking to get out of here yet
-{109}{}{Cos'hai da offrirmi?}
+{107}{}{Sto cercando il Vault.}
+{108}{}{Hai voglia di lasciare questo posto?}
+{109}{}{Cos'avete da bere?}
 {110}{}{Successo niente di interessante, da queste parti?}
-{111}{}{Per oggi nulla, grazie.}
+{111}{}{Per oggi niente, grazie.}
 {112}{}{Hai sbattuto la testa un po' troppo spesso, eh? Scusa, ma non parlo con gli imbecilli.}
 {113}{}{Bici-li?}
 {114}{}{Vault? L'unico Vault che conosco e' quello all'interno della citta'. Un grosso, fottutissimo buco... Non puoi mancarlo, credimi.}
 {115}{}{Cos'avete da bere, qui?}
 {116}{}{Successo niente di interessante, da queste parti?}
-{117}{}{Grazie per le indicazioni. Ci vediamo.}
+{117}{}{Grazie per le indicazioni. addio.}
 {118}{}{Birra per 20$, un bicchierino di whiskey per 30$. Niente di speciale. Perche', vuoi qualcosa?}
 {119}{}{Sto cercando il Vault.}
 {120}{}{Prendero' una birra.}
 {121}{}{Prendero' il whiskey.}
 {122}{}{Successo niente di interessante, da queste parti?}
-{123}{}{No, davvero. Grazie lo stesso.}
+{123}{}{Veramente no. Grazie lo stesso.}
 {124}{}{"Interessante"? Eh. Amico, Vault City non e' un posto "interessante"... a meno che le guardie non si annoino, e allora sara' meglio che ti cerchi un riparo. Perche' lo chiedi? Stai cercando qualcosa in questa fogna?}
 {125}{}{Cos'avete da bere, qui?}
 {126}{}{Veramente sto cercando il Vault.}
@@ -30,7 +30,7 @@
 {129}{}{Ecco a te. Bevi. Forse ti aiutera' a dimenticare dove ti trovi.}
 {130}{}{Questo posto non puo' essere cosi' brutto.}
 {131}{}{Grazie per il drink. Devo andare.}
-{132}{}{Oh, davvero? Beh, diamine, sicuramente mi sbaglio io, allora, dal momento che TU SEI un'autorita' e tutto il resto. Forse ti stavi facendo un pisolino durante l'irruzione della settimana scorsa, eh?} #
+{132}{}{Oh, davvero? Beh, diamine, sicuramente mi sbaglio io, allora, dal momento che TU SEI un'autorita' e tutto il resto. Forse ti stavi facendo un pisolino durante l'irruzione della settimana scorsa, eh?}
 {133}{}{Irruzione?}
 {134}{}{Aw, certo, che splendida visione. Una pattuglia di guardia ha fatto irruzione qui dentro per cercare "sostanze illegali". Hanno sfondato la porta, distrutto le mie scorte e poi hanno anche dato una ripassata a un paio di clienti.}
 {135}{}{Cos'e' successo dopo?}
@@ -72,16 +72,15 @@
 {171}{}{Cosa c'e'? Hai di nuovo quell'espressione che sembra dire "Devo dirti una cosa che potrebbe non farti piacere".}
 {172}{}{Si'?}
 {173}{}{Cosa c'e'? Hai di nuovo quell'espressione che sembra dire "Sono io il capo, qui".}
-{174}{}{Volevo farti qualche domanda...}
+{174}{}{Vorrei farle alcune domande...}
 {175}{}{Mi sembra che tu abbia subito qualche danno. Usa qualche stim e curati.}
-{176}{}{Cassidy, voglio che tu resti qui finche' non saro' tornato.}
+{176}{}{Cassidy, voglio che tu rimanga qui finche' non saro' tornato.}
 {177}{}{Metti via la tua arma.}
 {178}{}{Stammi vicino.}
 {179}{}{Non allontanarti troppo.}
-{180}{}{Dovremmo allontanarci un po' l'uno dall'altro.}
+{180}{}{Dovremmo distanziarci un po'.}
 {181}{}{Forza, Cassidy. E' ora di andare.}
 {182}{}{Niente, non importa.}
-
 {261}{}{Vuoi che ficchi un bel proiettile in testa a Myron, vero? Non ci sono problemi. Dimmelo tu quando devo farlo.}
 {262}{}{Cos'hai in mente?}
 {263}{}{Perche' vuoi dare una lezione a Myron?}
@@ -91,7 +90,7 @@
 {267}{}{Non importa. Muoviamoci.}
 {268}{}{No, non fare del male a Myron. Non oggi, almeno. Ti terro' informato.}
 {269}{}{Beh, soprattutto fucili in generale... ma e' solo una preferenza personale. Non me la cavo male neppure con le pistole.}
-{270}{}{Nient'altro?}
+{270}{}{Altro?}
 {271}{}{Okay. Avrei delle altre domande...}
 {272}{}{D'accordo. Stavo solo controllando.}
 {273}{}{Se mai dovessi avere bisogno di insegnare rapidamente le buone maniere a qualcuno, passami un pugno di ferro e ballero' il tip tap sulla sua faccia con i miei pugni.}
@@ -111,7 +110,7 @@
 {287}{}{Aw, adesso non scherzare con il vecchio Cassidy. Tu non sei un selvaggio.}
 {288}{}{Si', lo sono.}
 {289}{}{Come vuoi. Senti, avrei delle altre domande...}
-{290}{}{Dimentica quello che ho detto. Adesso non ho voglia di discuterne con te.} ###??? I don't want to get into this with you right now
+{290}{}{Dimentica quello che ho detto. Adesso non ho voglia di discuterne con te.}
 {291}{}{Uh, beh...al diavolo tutto; ecco, ti faccio subito le mie scuse. Non avevo alcuna intenzione di offenderti.}
 {292}{}{Lo so, non temere. Senti, avrei delle altre domande...}
 {293}{}{Dimentica questo argomento. Muoviamoci.}
@@ -135,10 +134,10 @@
 {311}{}{Allora? Cosa stai cercando di dirmi?}
 {312}{}{Ah, non dirmelo. Adesso andiamo.}
 {313}{}{Aspetta un attimo, non intendevo questo. }
-{314}{}{Quel che voglio dire e' che quello stronzo d'un innocentino incontrera' il suo destino il giorno in cui saremo soltanto io, lui e un buco nel deserto.} ###???All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert
+{314}{}{Quel che voglio dire e' che quello stronzo d'un innocentino incontrera' il suo destino il giorno in cui saremo soltanto io, lui e un buco nel deserto.}
 {315}{}{Beh, la vita e' una maestra severa gia' di per se. Avrei delle altre domande da farti...}
 {316}{}{Beh, e' destinato a tirare le cuoia da un momento all'altro. Io non me ne preoccuperei.}
-{317}{}{Calmati, Cassidy. Lascia in pace Myron.} ###???he's bound to bite it any time now anyway. I wouldn't worry about it
+{317}{}{Calmati, Cassidy. Lascia in pace Myron.}
 {318}{}{Odio questo posto.}
 {319}{}{Speravo che saremmo rimasti ben lontani da questo posto.}
 {320}{}{Citta' di pezzi di merda...}
@@ -177,14 +176,14 @@
 {353}{}{Sei sicuro di non aver bisogno del mio aiuto?}
 {354}{}{Non vedo l'ora di partire.}
 {355}{}{Potrei anche andare a fumarmi una sigarettina...}
-{356}{}{Mio padre mi ha dato questo nome ispirandosi a un qualche personaggio dei fumetti degli anni prima della guerra. Ha detto anche che si trattava di un gran figlio di puttana.} ###???Dad named me after some comic book character from before the war. Said he was a mean sonuvabitch, too
+{356}{}{Mio padre mi ha dato questo nome ispirandosi a un qualche personaggio dei fumetti degli anni prima della guerra. Ha detto anche che si trattava di un gran figlio di puttana.}
 {357}{}{E' bello viaggiare di nuovo. Vivere a Vault City mi stava facendo venire l'ulcera.}
 {358}{}{Spero che il mio cuore non mi  tradisca proprio mentre stiamo viaggiando...}
 {359}{}{Mi farei volentieri una bevuta.}
 {360}{}{Faro' meglio a controllare di nuovo il mio equipaggiamento.}
 {361}{}{Maledetta artrite...}
 {362}{}{Se fossi vent'anni piu' giovane, andrei ad est ad esplorare il Midwest. Adesso e' troppo tardi, credo.}
-{363}{}{Ho sentito dire che nel Midwest ci sono stati dei tornado larghi diverse miglia. E' solo un'enorme distesa di sabbia radioattiva, ormai.} ###??? I hear they got twisters miles wide in the Midwest. It's a big ol' radioactive dustbowl now
+{363}{}{Ho sentito dire che nel Midwest ci sono stati dei tornado larghi diverse miglia. E' solo un'enorme distesa di sabbia radioattiva, ormai.}
 {364}{}{Mi domando se il Texas sia sopravvissuto alla guerra...}
 {365}{}{Grazie, amico. Io...whoa. Mi si sta appannando la vista.}
 {366}{}{Ho sentito dire che questa roba ti fa venire le allucinaz...whoa! Da dove diavolo sono venuti fuori tutti quei serpenti?!}
@@ -193,63 +192,39 @@
 {369}{}{Sono praticamente pronto per un paio di grucce e per una sedia a rotelle.}
 {370}{}{Cassidy e' morto per un attacco di cuore.}
 {371}{}{Hai convinto Cassidy ad unirsi al tuo gruppo.}
-{372}{}{Prima fammi sparare una pillola per il cuore...} # Seraph's Code
-
+{372}{}{Prima fammi sparare una pillola per il cuore...}
 {1000}{}{Beh...d'accordo, allora. Aspettero' qui finche' non sarai tornato. }
 {1100}{}{Certo. Non posso prometterti che non la tirero' fuori in caso di problemi, pero'.}
 {1200}{}{D'accordo, ti staro' appiccicato, allora. Dai per scontato che ci metteremo nei guai, eh?}
-{1300}{}{D'accordo, staro' un po' a distanza. Avro' una migliore linea di tiro, cosi'.} ###???Get a better vantage point that way
+{1300}{}{D'accordo, staro' un po' a distanza. Avro' una migliore linea di tiro, cosi'.}
 {1400}{}{D'accordo, ti guardero' le spalle. Se hai bisogno di me, grida, e io arrivero' di corsa.}
-
 {2000}{}{Senza offesa, ma non mi sembri proprio il tipo adatto per fare il leader. Credo che le Lande potrebbero fare tranquillamente un sol boccone di te.}
 {2100}{}{Nah, non viaggio con gli schiavisti. Hanno la brutta abitudine di venderti quando si trovano a corto di denaro. Senza offesa.}
 {2200}{}{Nah, hai l'aspetto di uno con un piede nella fossa e l'altro all'inferno. Non credo di aver bisogno di rovinare ulteriormente la mia reputazione.}
 {2300}{}{Nah... mi pare che tu abbia gia' una discreta folla al tuo seguito.}
-{2400}{}{D'accordo, allora.}
-
+{2400}{}{D'accordo.}
 {2999}{}{D'accordo. In bocca al lupo, allora.}
 {3000}{}{Andiamo.}
 {3100}{}{Fa' come se non te l'avessi chiesto, allora. Stronzo.}
 {3200}{}{Come non detto, allora. A perderci sei tu.}
-
 {4100}{}{Okay, ho rattoppato tutte le ferite. Sono pronto.}
 {4200}{}{Okay, ho messo una toppa su quasi tutte le ferite.}
 {4300}{}{Sono quasi a posto, ma mi farebbe comodo un altro paio di stim.}
 {4400}{}{Ho usato quello che potevo, ma sono ancora messo piuttosto male. Se hai ancora qualche stim da darmi, mi farebbero proprio comodo. Riesco ancora camminare, pero'.}
-
-{9999}{}{Vorrei farti qualche domanda...}
+{9999}{}{Vorrei farle alcune domande...}
 {10001}{}{Prendi degli altri stimpack e curati.}
 {10002}{}{Cassidy, voglio che tu rimanga qui finche' non saro' tornato.}
 {10003}{}{Metti via la tua arma.}
 {10004}{}{Stammi vicino.}
 {10005}{}{Non allontanarti troppo.}
 {10006}{}{Dovremmo distanziarci un po'.}
-{10100}{}{Forza, Cassidy. E' ora di andare.}
 {10007}{}{Andiamo, allora.}
-
-# NEW TOM PARTY MEMBER ADDITIONS
-
-# NODE 1007 WE NEED TO CHANGE DISTANCE
+{10100}{}{Forza, Cassidy. E' ora di andare.}
 {20000}{}{D'accordo, sono tutto orecchi.}
-
-# NODE 1008 TALK ABOUT GEAR
 {20001}{}{Il mio equipaggiamento? Cos'ha?}
-
-# NODE 1009 REMOVE ARMOR
 {20002}{}{Nessun problema. Fa troppo caldo per quell'armamentario. Mi fa sudare come una puttana di New Reno.}
-
-# NODE 1010 WHAT WEAPONS CAN YOU USE -- DAN NEEDS TO REPLACE THIS.
-
-# NODE 1100 CAN'T JOIN PARTY BECAUSE LOW CHR -- DAN NEEDS TO REPLACE THIS.
-
-# We need to change our distance from one another
 {20003}{}{Proviamo una formazione differente.}
-# I need to talk to you about your gear.
 {20004}{}{Devo parlarti a proposito del tuo equipaggiamento.}
-# On second thought, I think this distance is OK for now.
 {20005}{}{Come non detto. Manteniamo la formazione che abbiamo adesso.}
-# Actually, I guess there's nothing I need to really know right about your gear.
 {20006}{}{Non importa. Non ho bisogno di sapere nulla riguardo al tuo equipaggiamento.}
-# I need to remove the armor that you're wearing.
 {20007}{}{Voglio che tu tolga l'armatura che stai indossando.}
-# I need to know what kind of weapons you can use. Transplant original comment from Question Node Line: 264

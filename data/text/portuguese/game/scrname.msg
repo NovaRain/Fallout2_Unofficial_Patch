@@ -1,0 +1,1309 @@
+{101}{}{}
+{102}{}{Script Test 0}
+{103}{}{Script Test 1}
+{104}{}{Script Test 2}
+{105}{}{Script Test 3}
+{106}{}{Script Test 4}
+{107}{}{Script Test 5}
+{108}{}{Arroyo Warrior}
+{109}{}{Arroyo Villager}
+{110}{}{Mynoc}
+{111}{}{Arroyo Elder}
+{112}{}{Hakunin}
+{113}{}{Porta}
+{114}{}{Generic}
+{115}{}{Cofre}
+{116}{}{Lockbox}
+{117}{}{Brahmin}
+{118}{}{Spore Plant}
+{119}{}{}
+{120}{}{Lesser Scorpion}
+{121}{}{Lesser Mantis}
+{122}{}{Lesser Deathclaw}
+{123}{}{Vaso}
+{124}{}{Cofre}
+{125}{}{Arroyo Caves}
+{126}{}{Porta de Madeira.}
+{127}{}{Arroyo Village}
+{128}{}{Arroyo Bridge}
+{129}{}{Old Door}
+{130}{}{Armadilha}
+{131}{}{Armadilha}
+{132}{}{Armadilha}
+{133}{}{Armadilha}
+{134}{}{Armadilha}
+{135}{}{Porta}
+{136}{}{Addict}
+{137}{}{Guard}
+{138}{}{Townsperson}
+{139}{}{Thug}
+{140}{}{Orphan}
+{141}{}{Joey}
+{142}{}{Flick}
+{143}{}{Guard}
+{144}{}{Petey}
+{145}{}{Smitty}
+{146}{}{Metzger}
+{147}{}{Traficante de escravos}
+{148}{}{Tubby}
+{149}{}{Anna}
+{150}{}{Vic}
+{151}{}{Frankie}
+{152}{}{Rebecca}
+{153}{}{Billy}
+{154}{}{Sheila}
+{155}{}{Mom}
+{156}{}{Villager}
+{157}{}{Slave Run}
+{158}{}{Slave Cart}
+{159}{}{Den Business Area}
+{160}{}{Den Business Area}
+{161}{}{Den Residential Area}
+{162}{}{Grave}
+{163}{}{Grave}
+{164}{}{Grave}
+{165}{}{Ossos}
+{166}{}{Diário}
+{167}{}{Locket}
+{168}{}{Quieto}
+{169}{}{Grave}
+{170}{}{Black Jack}
+{171}{}{Slave}
+{172}{}{Black Jack}
+{173}{}{Porta}
+{174}{}{Whiskey Bob}
+{175}{}{Craps}
+{176}{}{Aldo}
+{177}{}{Ardin}
+{178}{}{Child}
+{179}{}{Citizen}
+{180}{}{Maida}
+{181}{}{Sajag}
+{182}{}{Sally}
+{183}{}{Smiley}
+{184}{}{Jenny}
+{185}{}{Slim}
+{186}{}{Torr}
+{187}{}{Dunton}
+{188}{}{Citizen}
+{189}{}{Traveler}
+{190}{}{Vault City Guard}
+{191}{}{Vault City Guard}
+{192}{}{Steve}
+{193}{}{Andrew}
+{194}{}{Vault City Guard}
+{195}{}{Dr. Troy}
+{196}{}{Yellow Dog}
+{197}{}{Balthas}
+{198}{}{Cornelius}
+{199}{}{Davin}
+{200}{}{Farrel}
+{201}{}{Grisham}
+{202}{}{Jo}
+{203}{}{Jonny}
+{204}{}{Karl}
+{205}{}{Laddie}
+{206}{}{Miria}
+{207}{}{Protector}
+{208}{}{Rose}
+{209}{}{Vegeir}
+{210}{}{Ed}
+{211}{}{Harry}
+{212}{}{Mrs. Smith}
+{213}{}{Melinda}
+{214}{}{Trapper}
+{215}{}{Mr. Smith}
+{216}{}{Skeeve}
+{217}{}{Proconsul Gregory}
+{218}{}{Nurse Phyllis}
+{219}{}{Randal}
+{220}{}{Gosma}
+{221}{}{Barkus}
+{222}{}{Villager}
+{223}{}{Stark}
+{224}{}{Vault Gate Guard}
+{225}{}{Old Joe}
+{226}{}{Connar}
+{227}{}{Wallace}
+{228}{}{Lynette}
+{229}{}{McClure}
+{230}{}{Mutated Rat}
+{231}{}{Festus}
+{232}{}{Gordon}
+{233}{}{Hank}
+{234}{}{Jeremy}
+{235}{}{Lumpy}
+{236}{}{Skeeter}
+{237}{}{Zomak}
+{238}{}{Wooz}
+{239}{}{Lenny}
+{240}{}{Ghoul Guard}
+{241}{}{Ghoul Worker}
+{242}{}{Glowing Worker}
+{243}{}{Ghoul Guard}
+{244}{}{Robot}
+{245}{}{Ghoul Citizen}
+{246}{}{Map Script}
+{247}{}{Map Script}
+{248}{}{Map Script}
+{249}{}{Security Robot}
+{250}{}{Repair Robot}
+{251}{}{Holodisk}
+{252}{}{Holodisk}
+{253}{}{Holodisk}
+{254}{}{Terminal}
+{255}{}{Terminal}
+{256}{}{Terminal}
+{257}{}{Terminal}
+{258}{}{Terminal}
+{259}{}{Terminal}
+{260}{}{Terminal}
+{261}{}{Terminal}
+{262}{}{Terminal}
+{263}{}{Terminal}
+{264}{}{Terminal}
+{265}{}{Papel}
+{266}{}{Private Dobbs}
+{267}{}{Brain Bot}
+{268}{}{Elevador}
+{269}{}{Elevador}
+{270}{}{Lockbox}
+{271}{}{Lockbox}
+{272}{}{Tandi}
+{273}{}{Spear Trap}
+{274}{}{Spear Trap}
+{275}{}{Spear Trap}
+{276}{}{Spear Trap}
+{277}{}{Spear Trap}
+{278}{}{Spear Trap}
+{279}{}{Spear Trap}
+{280}{}{Spear Trap}
+{281}{}{Spear Trap}
+{282}{}{Spear Trap}
+{283}{}{Spear Trap}
+{284}{}{Spear Trap}
+{285}{}{Spear Trap}
+{286}{}{Spear Trap}
+{287}{}{Spear Trap}
+{288}{}{Spear Trap}
+{289}{}{Ghost Cave One}
+{290}{}{Ghost Cave Two}
+{291}{}{Ghost Farm}
+{292}{}{Modoc Brahmin Field}
+{293}{}{Modoc Garden}
+{294}{}{Modoc Inn}
+{295}{}{Modoc Main}
+{296}{}{Modoc Shit}
+{297}{}{Mod Well}
+{298}{}{Ncr Area 2}
+{299}{}{Arroyo Gardens}
+{300}{}{Gecko}
+{301}{}{Broc Flower}
+{302}{}{Xander Root}
+{303}{}{Brahmin}
+{304}{}{Balthas Wife}
+{305}{}{Brahmin}
+{306}{}{Wild Dog}
+{307}{}{Rochas}
+{308}{}{Rochas}
+{309}{}{Cofre de parede}
+{310}{}{Coin Bag}
+{311}{}{Banheiro}
+{312}{}{Caixa}
+{313}{}{Jordan}
+{314}{}{Aunt Morlis}
+{315}{}{Lucas}
+{316}{}{Feargus}
+{317}{}{Poço}
+{318}{}{Gruthar}
+{319}{}{Map Script}
+{320}{}{Doofus}
+{321}{}{Nagor}
+{322}{}{Smoke}
+{323}{}{Ncr Area 1}
+{324}{}{Ncr Area 3}
+{325}{}{Ncr Area 4}
+{326}{}{Ncr Area Entrance}
+{327}{}{Mikey}
+{328}{}{Mikey's box}
+{329}{}{Emitter}
+{330}{}{Emitter}
+{331}{}{Emitter}
+{332}{}{Emitter}
+{333}{}{Emitter}
+{334}{}{Emitter}
+{335}{}{Emitter}
+{336}{}{Emitter}
+{337}{}{Emitter}
+{338}{}{Emitter}
+{339}{}{Emitter}
+{340}{}{Force Field}
+{341}{}{Force Field}
+{342}{}{Force Field}
+{343}{}{Force Field}
+{344}{}{Force Field}
+{345}{}{Force Field}
+{346}{}{Force Field}
+{347}{}{Force Field}
+{348}{}{Force Field}
+{349}{}{Force Field}
+{350}{}{Force Field}
+{351}{}{Klaxon}
+{352}{}{Buster}
+{353}{}{Prateleiras}
+{354}{}{Prateleiras}
+{355}{}{Prateleiras}
+{356}{}{Raider}
+{357}{}{Peasant}
+{358}{}{Merchant}
+{359}{}{Guard}
+{360}{}{Rawhide Patron}
+{361}{}{Piso}
+{362}{}{Plasma Trap}
+{363}{}{Plasma Trap}
+{364}{}{Terminal}
+{365}{}{Quadro de avisos}
+{366}{}{Portão}
+{367}{}{Gosma}
+{368}{}{Porta}
+{369}{}{Porta}
+{370}{}{}
+{371}{}{}
+{372}{}{Map Script}
+{373}{}{Map Script}
+{374}{}{Map Script}
+{375}{}{Map Script}
+{376}{}{Map Script}
+{377}{}{Map Script}
+{378}{}{Map Script}
+{379}{}{Map Script}
+{380}{}{Map Script}
+{381}{}{Map Script}
+{382}{}{Map Script}
+{383}{}{Map Script}
+{384}{}{Map Script}
+{385}{}{Map Script}
+{386}{}{Map Script}
+{387}{}{Map Script}
+{388}{}{Map Script}
+{389}{}{Map Script}
+{390}{}{Map Script}
+{391}{}{Map Script}
+{392}{}{Map Script}
+{393}{}{Map Script}
+{394}{}{Map Script}
+{395}{}{Map Script}
+{396}{}{Quieto}
+{397}{}{Bar Customer}
+{398}{}{Bar Customer}
+{399}{}{Vortis}
+{400}{}{Bath Attendant}
+{401}{}{Slaves}
+{402}{}{Scorpion}
+{403}{}{Brahmin}
+{404}{}{Carro}
+{405}{}{Mesa}
+{406}{}{Map Script}
+{407}{}{Map Script}
+{408}{}{Map Script}
+{409}{}{Map Script}
+{410}{}{Corvega}
+{411}{}{Map Script}
+{412}{}{Porta de metal}
+{413}{}{Map Script}
+{414}{}{Map Script}
+{415}{}{Map Script}
+{416}{}{Lockbox}
+{417}{}{Lockbox}
+{418}{}{Lockbox}
+{419}{}{Ratch}
+{420}{}{Boxer}
+{421}{}{Pete McKneely}
+{422}{}{Evan Hollyfeld}
+{423}{}{Masticator}
+{424}{}{Scientist}
+{425}{}{Merk}
+{426}{}{Ventilador}
+{427}{}{Drug Dealer}
+{428}{}{Casino Patron}
+{429}{}{Pimp}
+{430}{}{Junkie}
+{431}{}{Furniture}
+{432}{}{Piso}
+{433}{}{Terreno}
+{434}{}{Holodisk}
+{435}{}{Lenny}
+{436}{}{Caixa}
+{437}{}{Prostitute}
+{438}{}{Slave}
+{439}{}{Rico}
+{440}{}{Porn Actress}
+{441}{}{Fluffer}
+{442}{}{Map Script}
+{443}{}{Wolf}
+{444}{}{Generator}
+{445}{}{Porta}
+{446}{}{Super mutant}
+{447}{}{Salvatore's Man}
+{448}{}{Bishop's Man}
+{449}{}{Mordino's Man}
+{450}{}{Wright's Child}
+{451}{}{Casino Bouncer}
+{452}{}{Mira}
+{453}{}{New Reno Virgin Street}
+{454}{}{New Reno 2nd Street}
+{455}{}{New Reno Commercial Row}
+{456}{}{New Reno East Side}
+{457}{}{New Reno Stables}
+{458}{}{New Reno Chop Shop}
+{459}{}{New Reno Gologtha}
+{460}{}{New Reno Bishop Basement}
+{461}{}{Holodisk}
+{462}{}{Holodisk}
+{463}{}{Holodisk}
+{464}{}{Holodisk}
+{465}{}{Holodisk}
+{466}{}{Guard}
+{467}{}{carrinho de mina}
+{468}{}{Melchior}
+{469}{}{Mutated Beast}
+{470}{}{FEV Goo}
+{471}{}{Guard Captain}
+{472}{}{Slave Overseer}
+{473}{}{Melchior's Pet}
+{474}{}{Slaver Guard}
+{475}{}{Porta}
+{476}{}{Terminal}
+{477}{}{Caça-níqueis}
+{478}{}{Child}
+{479}{}{Sheb}
+{480}{}{Guard}
+{481}{}{Emitter}
+{482}{}{Force Field}
+{483}{}{Sulik}
+{484}{}{Dr. Henry}
+{485}{}{Guard}
+{486}{}{Carlson Guards Attack}
+{487}{}{Carlson's Gate Guards}
+{488}{}{Prisoner}
+{489}{}{Prisoner}
+{490}{}{Citizen}
+{491}{}{Amenities Aid}
+{492}{}{Desk Guard}
+{493}{}{Ghoul Worker}
+{494}{}{Glowing One}
+{495}{}{Ghoul Guard}
+{496}{}{Robot}
+{497}{}{Ghoul}
+{498}{}{Worshipper}
+{499}{}{Harold}
+{500}{}{Officer}
+{501}{}{Toto}
+{502}{}{Dorothy}
+{503}{}{Townsperson}
+{504}{}{Ghoul Guard}
+{505}{}{Ghoul Guard}
+{506}{}{Gond}
+{507}{}{Duppo}
+{508}{}{Coisas}
+{509}{}{Bob}
+{510}{}{Casino Girl}
+{511}{}{Casino Girl}
+{512}{}{Magic Eight Ball}
+{513}{}{Brahmin}
+{514}{}{Caça-níqueis}
+{515}{}{Old Man McGee}
+{516}{}{Three Card Monte}
+{517}{}{Algernon}
+{518}{}{Bill}
+{519}{}{Bishop's Bodyguard}
+{520}{}{John Bishop}
+{521}{}{Casino Machine}
+{522}{}{Chop Shop Boy}
+{523}{}{Chris Wright}
+{524}{}{Cody}
+{525}{}{Corsican Bother}
+{526}{}{Eldridge}
+{527}{}{Ethyl Wright}
+{528}{}{Father Tully}
+{529}{}{HumperdumperDIDO}
+{530}{}{Lil' Jesus Mordino}
+{531}{}{Jagged Jimmy J}
+{532}{}{Keith Wright}
+{533}{}{Lee Anne Bishop}
+{534}{}{Pretty Boy Lloyd}
+{535}{}{Mason}
+{536}{}{Guard}
+{537}{}{Myron}
+{538}{}{Nikki}
+{539}{}{Orville Wright}
+{540}{}{Pit Boss}
+{541}{}{Renesco the Rocket-Man}
+{542}{}{Marjorie Reed}
+{543}{}{Boss Salvatore}
+{544}{}{Stuart Little}
+{545}{}{T-Ray}
+{546}{}{Bitch}
+{547}{}{Wright Child}
+{548}{}{NCR Police}
+{549}{}{Oswald}
+{550}{}{Dusty}
+{551}{}{Jules}
+{552}{}{Miss Kitty}
+{553}{}{Bartender}
+{554}{}{Deputy Karl}
+{555}{}{Cell Door}
+{556}{}{Big Jesus Mordino}
+{557}{}{Hoss}
+{558}{}{Soro mutagênico}
+{559}{}{Caixa}
+{560}{}{Caixa}
+{561}{}{Caixa}
+{562}{}{Caixa}
+{563}{}{Doctor Jubilee}
+{564}{}{Porta}
+{565}{}{Porta}
+{566}{}{Estante}
+{567}{}{Sheriff Dumont}
+{568}{}{Elise}
+{569}{}{Ranch Hand}
+{570}{}{Felix}
+{571}{}{Westin}
+{572}{}{Rondo}
+{573}{}{Robodog}
+{574}{}{Escada}
+{575}{}{Hal}
+{576}{}{Gunther}
+{577}{}{Brahmin}
+{578}{}{Caravan Master}
+{579}{}{Caravan Driver}
+{580}{}{Caravan Guard}
+{581}{}{Raider}
+{582}{}{Mobster}
+{583}{}{Hunter}
+{584}{}{Hunter}
+{585}{}{Ranger}
+{586}{}{Mercenary}
+{587}{}{Mercenary}
+{588}{}{Raider}
+{589}{}{Caravan Driver}
+{590}{}{Caravan Guard}
+{591}{}{Patrol Guard}
+{592}{}{Patrol Captain}
+{593}{}{Farmer}
+{594}{}{Brahmin}
+{595}{}{Brahmin}
+{596}{}{Traveler}
+{597}{}{Patrol Guard}
+{598}{}{Patrol Captain}
+{599}{}{Patrol Guard}
+{600}{}{Patrol Captain}
+{601}{}{Brahmin Driver}
+{602}{}{Rustler}
+{603}{}{Squatter}
+{604}{}{Abolitionist}
+{605}{}{Bootlegger}
+{606}{}{Super mutant}
+{607}{}{Fisherman}
+{608}{}{Traficante de escravos}
+{609}{}{Trapper}
+{610}{}{Carlson's Kid}
+{611}{}{Carlson}
+{612}{}{}
+{613}{}{Officer Jack}
+{614}{}{The Enlightened One}
+{615}{}{Porta}
+{616}{}{Computador}
+{617}{}{Brahmn}
+{618}{}{Deathclaw}
+{619}{}{Saída}
+{620}{}{Computador}
+{621}{}{Feargus}
+{622}{}{Ariel}
+{623}{}{Fannie Mae}
+{624}{}{Computer Terminal}
+{625}{}{Dalia}
+{626}{}{Dar}
+{627}{}{Dave}
+{628}{}{Gordon}
+{629}{}{Out of Business Sign}
+{630}{}{Reactor Control Machinery}
+{631}{}{Jimmy}
+{632}{}{Joseph}
+{633}{}{Matt}
+{634}{}{}
+{635}{}{Map Script}
+{636}{}{V13 map script}
+{637}{}{Sandy}
+{638}{}{Caixa}
+{639}{}{Thearn}
+{640}{}{Caixa}
+{641}{}{Caixa}
+{642}{}{Valdis}
+{643}{}{Computer Terminal}
+{644}{}{Armário de metal}
+{645}{}{Baú}
+{646}{}{Deathclaw Guard}
+{647}{}{Goris}
+{648}{}{Caixa}
+{649}{}{Armário de metal}
+{650}{}{Cheater}
+{651}{}{V15 map Script}
+{652}{}{Phil}
+{653}{}{Bill}
+{654}{}{Butcher}
+{655}{}{Dalia}
+{656}{}{John}
+{657}{}{Jones}
+{658}{}{Karla}
+{659}{}{V15 Secret entrance map}
+{660}{}{Rebecca}
+{661}{}{Porta}
+{662}{}{Death Claw}
+{663}{}{Roberta}
+{664}{}{Sara}
+{665}{}{Zeke}
+{666}{}{Brahmin}
+{667}{}{Porta de madeira}
+{668}{}{Chrissy}
+{669}{}{Darion}
+{670}{}{Darion's Guard}
+{671}{}{Darion's Dog}
+{672}{}{Cassidy}
+{673}{}{Poço}
+{674}{}{Mole Rat}
+{675}{}{Brahmin Chunk}
+{676}{}{Brahmin}
+{677}{}{Porta do elevador}
+{678}{}{Dog}
+{679}{}{Rat}
+{680}{}{Sun Spot}
+{681}{}{Bess}
+{682}{}{Caixa}
+{683}{}{Craps Dealer}
+{684}{}{Vault 15 Guard}
+{685}{}{Slag}
+{686}{}{Tapete}
+{687}{}{Child}
+{688}{}{Aileen}
+{689}{}{Guard}
+{690}{}{Doc Holiday}
+{691}{}{Henchman}
+{692}{}{Henchman}
+{693}{}{Woman}
+{694}{}{Francis}
+{695}{}{Frank}
+{696}{}{Ghoul}
+{697}{}{Liz}
+{698}{}{Man}
+{699}{}{Manson}
+{700}{}{Marcus}
+{701}{}{Miner}
+{702}{}{Mutant}
+{703}{}{Bill}
+{704}{}{Phil}
+{705}{}{Steve}
+{706}{}{Supervisor}
+{707}{}{Zaius}
+{708}{}{Jacob}
+{709}{}{Chemistry Set}
+{710}{}{Prop}
+{711}{}{Porta}
+{712}{}{Computador}
+{713}{}{Chad}
+{714}{}{Spore Plant}
+{715}{}{}
+{716}{}{Radscorpion}
+{717}{}{}
+{718}{}{Warrior}
+{719}{}{Cannibal}
+{720}{}{Outcast}
+{721}{}{Holy Person}
+{722}{}{Nomad}
+{723}{}{Homeless Person}
+{724}{}{Bandit}
+{725}{}{Robber}
+{726}{}{Highwayman}
+{727}{}{Traficante de escravos}
+{728}{}{Slave}
+{729}{}{Partier}
+{730}{}{Mantis}
+{731}{}{Brahmin}
+{732}{}{Wild Dog}
+{733}{}{Computador}
+{734}{}{Computador}
+{735}{}{Computer Terminal}
+{736}{}{Computador}
+{737}{}{Gerador de energia}
+{738}{}{Force Field}
+{739}{}{Peasant}
+{740}{}{Emitter}
+{741}{}{Porta do Refúgio}
+{742}{}{Porta de Segurança.}
+{743}{}{Bess Encounter}
+{744}{}{Bess}
+{745}{}{Brahmin}
+{746}{}{Angela Bishop}
+{747}{}{Tommy "The Balls"}
+{748}{}{Safe}
+{749}{}{Safe}
+{750}{}{Safe}
+{751}{}{Safe}
+{752}{}{Grave}
+{753}{}{Cômoda}
+{754}{}{Grave}
+{755}{}{Quieto}
+{756}{}{Ramirez}
+{757}{}{Cave 1 Random Encounter Map}
+{758}{}{Caixa}
+{759}{}{Porta}
+{760}{}{Cave 2 Random Encounter Map}
+{761}{}{Cave 3 Random Encounter Map}
+{762}{}{Cave 4 Random Encounter Map}
+{763}{}{Cave 2 Random Encounter Map}
+{764}{}{Porta}
+{765}{}{Map Script}
+{766}{}{Trap Door}
+{767}{}{Lockbox}
+{768}{}{Room}
+{769}{}{Thomas Moore}
+{770}{}{Porta}
+{771}{}{Armário}
+{772}{}{Bueiro}
+{773}{}{Grave}
+{774}{}{Supply Guard}
+{775}{}{Map Script}
+{776}{}{Map Script}
+{777}{}{Mad Brahmin}
+{778}{}{Hakeswill}
+{779}{}{Redding Downtown}
+{780}{}{Map Script}
+{781}{}{Map Script}
+{782}{}{Lou}
+{783}{}{Arthur}
+{784}{}{Robin}
+{785}{}{Bedemir}
+{786}{}{Sir Launcelot}
+{787}{}{Galahad}
+{788}{}{Ben Wade}
+{789}{}{Athabaska Dick}
+{790}{}{Widow Rooney}
+{791}{}{Townsperson}
+{792}{}{Stanwell}
+{793}{}{Savinelli}
+{794}{}{Marge}
+{795}{}{Madam Modjeska}
+{796}{}{James Hoffy}
+{797}{}{Map Script}
+{798}{}{Patsy}
+{799}{}{Concorde}
+{800}{}{Eric}
+{801}{}{John}
+{802}{}{Joshua}
+{803}{}{Escada}
+{804}{}{Big Head}
+{805}{}{Black Hero}
+{806}{}{Red Heroine}
+{807}{}{Set}
+{808}{}{Tandi}
+{809}{}{White Hero}
+{810}{}{White Hero}
+{811}{}{White Heroine}
+{812}{}{Caixa}
+{813}{}{Caixa}
+{814}{}{Caixa}
+{815}{}{Map Script}
+{816}{}{Vorpal Rat}
+{817}{}{Dog}
+{818}{}{Drill Sergeant}
+{819}{}{Guard}
+{820}{}{Technician}
+{821}{}{Commander}
+{822}{}{Chris}
+{823}{}{Quarter Master}
+{824}{}{Guard}
+{825}{}{Grave}
+{826}{}{Carro}
+{827}{}{Carro}
+{828}{}{Grave}
+{829}{}{Robed Figure}
+{830}{}{Cattle Buyer}
+{831}{}{Map Script}
+{832}{}{Mysterious Stranger}
+{833}{}{Mad Brahmin}
+{834}{}{Yakuza Member}
+{835}{}{Wilder}
+{836}{}{Dog}
+{837}{}{Caixa}
+{838}{}{Patrol Member}
+{839}{}{Traveler}
+{840}{}{Smoke}
+{841}{}{Trader}
+{842}{}{Scavenger}
+{843}{}{Merchant}
+{844}{}{Peasant}
+{845}{}{Arroyo Temple}
+{846}{}{Dock Worker}
+{847}{}{Peasant}
+{848}{}{Shi Guard}
+{849}{}{Cameron}
+{850}{}{Porta}
+{851}{}{Klint}
+{852}{}{Crops}
+{853}{}{Shi Lab Tech}
+{854}{}{Child}
+{855}{}{Ghoul}
+{856}{}{Dr. Fung}
+{857}{}{Jul}
+{858}{}{Kerith}
+{859}{}{Cofre}
+{860}{}{Ghoul}
+{861}{}{}
+{862}{}{}
+{863}{}{Prospector}
+{864}{}{Gang Member}
+{865}{}{Nomad Chief}
+{866}{}{Hubologist}
+{867}{}{Crazy}
+{868}{}{Claim Jumper}
+{869}{}{Cannibal}
+{870}{}{Nomad Shamon}
+{871}{}{Marauder}
+{872}{}{Rogue}
+{873}{}{Hermit}
+{874}{}{}
+{875}{}{Caravan Master}
+{876}{}{Caravan Master}
+{877}{}{Caravan Master}
+{878}{}{Caravan Master}
+{879}{}{Caravan Master}
+{880}{}{Caravan Master}
+{881}{}{Caravan Master}
+{882}{}{Caravan Master}
+{883}{}{Caravan Master}
+{884}{}{Farmer's Wife}
+{885}{}{Farmer's Kid}
+{886}{}{Homesteader}
+{887}{}{Homesteader's Wife}
+{888}{}{Homesteader's Kid}
+{889}{}{Caravan Master}
+{890}{}{}
+{891}{}{}
+{892}{}{}
+{893}{}{}
+{894}{}{Enclave Patrolman}
+{895}{}{Merc Captain}
+{896}{}{Merc Raider}
+{897}{}{"Shadow-Who-Walks"}
+{898}{}{Safe}
+{899}{}{}
+{900}{}{}
+{901}{}{}
+{902}{}{Caixa}
+{903}{}{President Richardson}
+{904}{}{Canhão Howitzer}
+{905}{}{Porta}
+{906}{}{Baby Deathclaw}
+{907}{}{Dangerous Dan}
+{908}{}{Doc Johnson}
+{909}{}{Sheriff Marion}
+{910}{}{Mayor Ascorti}
+{911}{}{Nording}
+{912}{}{Velani}
+{913}{}{Ferndown}
+{914}{}{The Dragon}
+{915}{}{Stable Boy}
+{916}{}{Trader}
+{917}{}{Townsperson}
+{918}{}{Slag}
+{919}{}{Slag}
+{920}{}{Lo Pan}
+{921}{}{Badger}
+{922}{}{Josh}
+{923}{}{Caminetto}
+{924}{}{Bette}
+{925}{}{Mai Da Chiang}
+{926}{}{Porta}
+{927}{}{Porta}
+{928}{}{Emitter}
+{929}{}{Rat God}
+{930}{}{}
+{931}{}{Kaga}
+{932}{}{Kaga}
+{933}{}{Kaga}
+{934}{}{Kaga}
+{935}{}{Kaga}
+{936}{}{Bounty Hunter}
+{937}{}{Computador}
+{938}{}{Computador}
+{939}{}{Computador}
+{940}{}{Darrow}
+{941}{}{Farrell}
+{942}{}{Bar Patron}
+{943}{}{Vault Citizen}
+{944}{}{Vault Servant}
+{945}{}{Ventilation Shaft}
+{946}{}{Charlie}
+{947}{}{Coolant Control Panel}
+{948}{}{Poo}
+{949}{}{Grant}
+{950}{}{Emitter}
+{951}{}{Emitter}
+{952}{}{Computer Terminal}
+{953}{}{Emperor Terminal v8.8}
+{954}{}{Vice President Bird}
+{955}{}{Martin}
+{956}{}{Ken Lee}
+{957}{}{Sgt. Granite}
+{958}{}{Frank Horrigan}
+{959}{}{Map Script}
+{960}{}{Map Script}
+{961}{}{Porta}
+{962}{}{Porta}
+{963}{}{Porta}
+{964}{}{Corda}
+{965}{}{Emitter}
+{966}{}{Dr. Curling}
+{967}{}{Quadro de avisos}
+{968}{}{Mole Rat}
+{969}{}{President's Secretary}
+{970}{}{Tom Murray}
+{971}{}{Sturdy Door}
+{972}{}{Townsperson}
+{973}{}{Vault City Council Area}
+{974}{}{Air Purifier}
+{975}{}{Rochas}
+{976}{}{Gambler}
+{977}{}{Spatial Script}
+{978}{}{SCCheat}
+{979}{}{Prisoner}
+{980}{}{Citizen}
+{981}{}{Guard}
+{982}{}{Scientist}
+{983}{}{Terminal}
+{984}{}{}
+{985}{}{}
+{986}{}{Emitter}
+{987}{}{Blast Door}
+{988}{}{Blast Door}
+{989}{}{Darrow's Stock}
+{990}{}{Porta}
+{991}{}{Super Duper Mutant}
+{992}{}{Dr. Jing Tie Gahng}
+{993}{}{Grundel}
+{994}{}{Melchior Jr.}
+{995}{}{Scanner de Retina}
+{996}{}{Porta do elevador}
+{997}{}{Cybernetic Receptacle}
+{998}{}{Parede}
+{999}{}{Map Script}
+{1000}{}{Farrell's Stock}
+{1001}{}{Harry's Stock}
+{1002}{}{Caixa}
+{1003}{}{Caixa}
+{1004}{}{Derek}
+{1005}{}{Tubby's Friend}
+{1006}{}{Gambler}
+{1007}{}{Slave}
+{1008}{}{Guard}
+{1009}{}{Traficante de escravos}
+{1010}{}{Lara}
+{1011}{}{Tyler}
+{1012}{}{Marc}
+{1013}{}{Quadro de avisos}
+{1014}{}{Traficante de escravos}
+{1015}{}{Traficante de escravos}
+{1016}{}{Fred}
+{1017}{}{Caixa}
+{1018}{}{Caixa}
+{1019}{}{Caixa}
+{1020}{}{Porta-malas}
+{1021}{}{Porta de Segurança.}
+{1022}{}{Computer Terminal}
+{1023}{}{Computer Terminal}
+{1024}{}{Computer Terminal}
+{1025}{}{Lao Chou}
+{1026}{}{}
+{1027}{}{Ventilation Shaft}
+{1028}{}{Map Script}
+{1029}{}{Cadáver}
+{1030}{}{Exposed wires}
+{1031}{}{Caixa}
+{1032}{}{Slave}
+{1033}{}{Slave}
+{1034}{}{Traficante de escravos}
+{1035}{}{Chip}
+{1036}{}{Reactor}
+{1037}{}{Reactor Computer}
+{1038}{}{Cash Tender}
+{1039}{}{Cash Box}
+{1040}{}{Wanamingo}
+{1041}{}{Bar Patron}
+{1042}{}{Bar Patron}
+{1043}{}{Jail Door}
+{1044}{}{Suze}
+{1045}{}{Captain Ron Meyers}
+{1046}{}{Pen Door}
+{1047}{}{Wanamingo Mine}
+{1048}{}{Wanamingo Mine Entrance}
+{1049}{}{Frog Morton}
+{1050}{}{Dave H.}
+{1051}{}{Porta}
+{1052}{}{Porta}
+{1053}{}{Puking Charlie}
+{1054}{}{Painting}
+{1055}{}{Map Script}
+{1056}{}{Bartender}
+{1057}{}{Caixa}
+{1058}{}{Auto - Doc}
+{1059}{}{}
+{1060}{}{Mining Tunnel}
+{1061}{}{Robot}
+{1062}{}{}
+{1063}{}{Map Script}
+{1064}{}{Map Script}
+{1065}{}{Lydia}
+{1066}{}{}
+{1067}{}{Harry the Rocketman}
+{1068}{}{AHS-7}
+{1069}{}{Crockett}
+{1070}{}{Amanda}
+{1071}{}{Joshua}
+{1072}{}{Valerie}
+{1073}{}{Teaching System}
+{1074}{}{Engradado}
+{1075}{}{Peeing Guy}
+{1076}{}{Curtis}
+{1077}{}{Marc}
+{1078}{}{Computador}
+{1079}{}{AHS-9}
+{1080}{}{Guard}
+{1081}{}{Pile of rocks}
+{1082}{}{Porta}
+{1083}{}{Guard}
+{1084}{}{Guard}
+{1085}{}{Porta}
+{1086}{}{Cartaz de Procurado}
+{1087}{}{Dr. Wong}
+{1088}{}{Mesa}
+{1089}{}{Porta}
+{1090}{}{Punk}
+{1091}{}{Punk}
+{1092}{}{Ryan}
+{1093}{}{Caixa}
+{1094}{}{}
+{1095}{}{Bueiro}
+{1096}{}{Map Script}
+{1097}{}{Escada}
+{1098}{}{Saco de pancadas}
+{1099}{}{Porta}
+{1100}{}{Alarm}
+{1101}{}{Armadilha}
+{1102}{}{Armadilha}
+{1103}{}{Armadilha}
+{1104}{}{Armadilha}
+{1105}{}{Armadilha}
+{1106}{}{Armadilha}
+{1107}{}{Armadilha}
+{1108}{}{Armadilha}
+{1109}{}{Armadilha}
+{1110}{}{Armadilha}
+{1111}{}{Armadilha}
+{1112}{}{Armadilha}
+{1113}{}{Armadilha}
+{1114}{}{Armadilha}
+{1115}{}{Emitter}
+{1116}{}{Emitter}
+{1117}{}{Emitter}
+{1118}{}{Force Field}
+{1119}{}{Force Field}
+{1120}{}{Force Field}
+{1121}{}{Hubologist}
+{1122}{}{Computador}
+{1123}{}{Bunker Door}
+{1124}{}{Portão}
+{1125}{}{Caixa}
+{1126}{}{Morton Brother}
+{1127}{}{Emitter}
+{1128}{}{Emitter}
+{1129}{}{Emitter}
+{1130}{}{Map Script}
+{1131}{}{Chet}
+{1132}{}{Map Script}
+{1133}{}{Vertibird}
+{1134}{}{Salvatore Guard}
+{1135}{}{Salvatore Guard}
+{1136}{}{Soldier}
+{1137}{}{Soldier}
+{1138}{}{Engradado}
+{1139}{}{Mr. Handy}
+{1140}{}{Salvatore Guard}
+{1141}{}{Spacial Script}
+{1142}{}{Porta}
+{1143}{}{Porta}
+{1144}{}{Porta}
+{1145}{}{}
+{1146}{}{Map Script}
+{1147}{}{Slave}
+{1148}{}{Vault Citizen}
+{1149}{}{Porta}
+{1150}{}{Boxer}
+{1151}{}{Porta do Refúgio}
+{1152}{}{Xarn}
+{1153}{}{Raul}
+{1154}{}{Quincy}
+{1155}{}{Quartermaster}
+{1156}{}{Guard}
+{1157}{}{Cybernetic Dog}
+{1158}{}{Doctor Schreber}
+{1159}{}{Technician}
+{1160}{}{Technician}
+{1161}{}{Guard}
+{1162}{}{Guard}
+{1163}{}{Guard}
+{1164}{}{Guard}
+{1165}{}{Technician}
+{1166}{}{Technician}
+{1167}{}{Technician}
+{1168}{}{Technician}
+{1169}{}{Cave In}
+{1170}{}{Enclave Patroller}
+{1171}{}{Blast Door}
+{1172}{}{Map Script}
+{1173}{}{Map Script}
+{1174}{}{Map Script}
+{1175}{}{Map Script}
+{1176}{}{Map Script}
+{1177}{}{Map Script}
+{1178}{}{Security Robot}
+{1179}{}{Caixa de esmolas}
+{1180}{}{Body}
+{1181}{}{Caixa}
+{1182}{}{Caixa}
+{1183}{}{Caixa}
+{1184}{}{Caravan Guard}
+{1185}{}{Caravan Driver}
+{1186}{}{Ring Announcer}
+{1187}{}{Ring Girl}
+{1188}{}{Boxer}
+{1189}{}{Porta}
+{1190}{}{Cheat Character}
+{1191}{}{Holodisk}
+{1192}{}{Holodisk}
+{1193}{}{Holodisk}
+{1194}{}{Note}
+{1195}{}{Dogmeat}
+{1196}{}{Cat's Paw Magazine #5}
+{1197}{}{Mapa dos Raiders}
+{1198}{}{Pariah Dog}
+{1199}{}{Klaxon}
+{1200}{}{Mine}
+{1201}{}{Pit}
+{1202}{}{Cal}
+{1203}{}{Slim}
+{1204}{}{Jenna}
+{1205}{}{}
+{1206}{}{}
+{1207}{}{Emitter}
+{1208}{}{Emitter}
+{1209}{}{Emitter}
+{1210}{}{Emitter}
+{1211}{}{Livro de pistas de Fallout 2}
+{1212}{}{}
+{1213}{}{}
+{1214}{}{Guard}
+{1215}{}{Prospector}
+{1216}{}{Bootleggers}
+{1217}{}{}
+{1218}{}{Dan}
+{1219}{}{Shitty Comedian}
+{1220}{}{Trashcan Singer}
+{1221}{}{Map Script}
+{1222}{}{}
+{1223}{}{Grave}
+{1224}{}{Coffin Willie}
+{1225}{}{Keyless entry computer}
+{1226}{}{Keyless entry Door}
+{1227}{}{Computador}
+{1228}{}{Kohl}
+{1229}{}{Child}
+{1230}{}{Biscoito}
+{1231}{}{Turret}
+{1232}{}{Brian}
+{1233}{}{Generator}
+{1234}{}{Console}
+{1235}{}{Giant Ant}
+{1236}{}{Giant Ant}
+{1237}{}{Porta}
+{1238}{}{}
+{1239}{}{Caixa}
+{1240}{}{Eric}
+{1241}{}{}
+{1242}{}{Caixa}
+{1243}{}{Giant Scorpion}
+{1244}{}{Jane}
+{1245}{}{}
+{1246}{}{Map Script}
+{1247}{}{Dermal Pip-Boy}
+{1248}{}{Pooch}
+{1249}{}{Rattray}
+{1250}{}{Spouse}
+{1251}{}{LoPan Guard}
+{1252}{}{Map Script}
+{1253}{}{Porta}
+{1254}{}{Cybernetic Dog}
+{1255}{}{Luke}
+{1256}{}{Joshua}
+{1257}{}{Portão}
+{1258}{}{Matt}
+{1259}{}{Porta}
+{1260}{}{Guard}
+{1261}{}{Porta}
+{1262}{}{Computador}
+{1263}{}{Terminal}
+{1264}{}{Turret}
+{1265}{}{Chuck Stodgers}
+{1266}{}{}
+{1267}{}{Terminal}
+{1268}{}{Gang Thug}
+{1269}{}{Cheater}
+{1270}{}{}
+{1271}{}{Peasant}
+{1272}{}{The Lavender Flower}
+{1273}{}{Radscorpion}
+{1274}{}{Professor}
+{1275}{}{Caixa}
+{1276}{}{Caixa}
+{1277}{}{Seymour}
+{1278}{}{John Sullivan}
+{1279}{}{Lumpy}
+{1280}{}{}
+{1281}{}{}
+{1282}{}{}
+{1283}{}{Guard}
+{1284}{}{}
+{1285}{}{}
+{1286}{}{Typhon}
+{1287}{}{Bodyguard}
+{1288}{}{Map Script}
+{1289}{}{Armário}
+{1290}{}{Poço}
+{1291}{}{Micky}
+{1292}{}{Turret}
+{1293}{}{Old Ghoul}
+{1294}{}{Henchman}
+{1295}{}{Elmo}
+{1296}{}{Banheiro}
+{1297}{}{Cruz}
+{1298}{}{Arado}
+{1299}{}{Arado}
+{1300}{}{Scorpion}
+{1301}{}{Generator}
+{1302}{}{Porta}
+{1303}{}{Porta}
+{1304}{}{Medical Pip-Boy}
+{1305}{}{Armário}
+{1306}{}{Armário}
+{1307}{}{Armário}
+{1308}{}{Armário}
+{1309}{}{Armário}
+{1310}{}{Armário}
+{1311}{}{Armário}
+{1312}{}{Armário}
+{1313}{}{Armário}
+{1314}{}{Armário}
+{1315}{}{Armário}
+{1316}{}{Armário}
+{1317}{}{Armário}
+{1318}{}{Armário}
+{1319}{}{Armário}
+{1320}{}{Armário}
+{1321}{}{Armário}
+{1322}{}{Armário}
+{1323}{}{Armário}
+{1324}{}{Armário}
+{1325}{}{Map Script}
+{1326}{}{You can't see me}
+{1327}{}{Tin Woodsman}
+{1328}{}{Map Script}
+{1329}{}{Stone Formation}
+{1330}{}{}
+{1331}{}{Terminal}
+{1332}{}{Armário}
+{1333}{}{}
+{1334}{}{Map Script}
+{1335}{}{Security Bot}
+{1336}{}{Security Bot}
+{1337}{}{Armário}
+{1338}{}{Armário}
+{1339}{}{Armário}
+{1340}{}{Armário}
+{1341}{}{Armário}
+{1342}{}{Armário}
+{1343}{}{Armário}
+{1344}{}{Armário}
+{1345}{}{Armário}
+{1346}{}{Armário}
+{1347}{}{Armário}
+{1348}{}{Armário}
+{1349}{}{Armário}
+{1350}{}{Armário}
+{1351}{}{Armário}
+{1352}{}{Armário}
+{1353}{}{Armário}
+{1354}{}{Armário}
+{1355}{}{Armário}
+{1356}{}{Armário}
+{1357}{}{Dock Squatter}
+{1358}{}{Dock Kid}
+{1359}{}{Map Script}
+{1360}{}{Percy Crump}
+{1361}{}{Caixa}
+{1362}{}{Caixa}
+{1363}{}{Porta}
+{1364}{}{The Great Ananias}
+{1365}{}{Map Script}
+{1366}{}{Unwashed Villager}
+{1367}{}{Spammer}
+{1368}{}{Mapa}
+{1369}{}{Map Script}
+{1370}{}{Map Script}
+{1371}{}{Map Script}
+{1372}{}{Map Script}
+{1373}{}{Máquina de Nuka-Cola}
+{1374}{}{Dock}
+{1375}{}{Porta}
+{1376}{}{Land Mine}
+{1377}{}{Land Mine}
+{1378}{}{Your Ex}
+{1379}{}{Mel}
+{1380}{}{Duto de ventilação}
+{1381}{}{Kevin}
+{1382}{}{Alarm}
+{1383}{}{Armário}
+{1384}{}{Armário}
+{1385}{}{Armário}
+{1386}{}{}
+{1387}{}{}
+{1388}{}{}
+{1389}{}{}
+{1390}{}{}
+{1391}{}{}
+{1392}{}{}
+{1393}{}{}
+{1394}{}{Bootlegger}
+{1395}{}{}
+{1396}{}{}
+{1397}{}{Carny Kid}
+{1398}{}{}
+{1399}{}{}
+{1400}{}{Mine}
+{1401}{}{Armário}
+{1402}{}{Porta}
+{1403}{}{}
+{1404}{}{}
+{1405}{}{}
+{1406}{}{}
+{1407}{}{}
+{1408}{}{}
+{1409}{}{}

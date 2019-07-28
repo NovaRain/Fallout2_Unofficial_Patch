@@ -5,12 +5,11 @@
 {104}{}{A terminál jelzése szerint energiahiány miatt a Menedékben minden biztonsági berendezés ki lett kapcsolva.}
 {105}{}{Az erõtér kikapcsolása.}
 {106}{}{Az erõtér bekapcsolása.}
-{107}{}{Rendben.}
+{107}{}{Megbeszéltük.}
 {108}{}{Kiadod a parancsot az erõtér deaktiválására.}
-{109}{}{Rendben.}
+{109}{}{Megbeszéltük.}
 {110}{}{Kiadod a parancsot az erõtér aktiválására.}
-{111}{}{Rendben.}
+{111}{}{Megbeszéltük.}
 {112}{}{A terminál jelzése szerint az erõtér kézivezérléssel ki lett kapcsolva.}
 {113}{}{A terminál jelzése szerint az erõteren áthatoltak.}
 {114}{}{A terminál jelzése szerint az erõtér ki lett kapcsolva.}
-

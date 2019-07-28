@@ -1,4 +1,3 @@
-# Dialog Editor last position: 40
 {151}{}{}
 {200}{}{Jók a kilátások.}
 {201}{}{A kilátások nem túl jók.}
@@ -24,7 +23,7 @@
 {221}{}{Erõs jobb karod van.}
 {222}{}{Kérlek, töröld meg a kezed, mielõtt még egyszer megrázol!}
 {223}{}{Átmenetileg nem mûködik.}
-{224}{}{Az RPG Tanács által bezárva.}
+{224}{}{Az RPG Tanács által bezáratva.}
 {225}{}{Ha tovább rázol, baj lesz!}
 {226}{}{Egyre betegebb vagyok.}
 {227}{}{Egyre jobban émelygek.}
@@ -36,6 +35,6 @@
 {233}{}{Ha aktiválod a "Szemét" feliratú keresztet a Golgotán, találhatsz valamit.}
 {234}{}{Miután befejezted a játékot, menj vissza New Renóba és beszélj Tully atyával!}
 {235}{}{Tudod, hogy használhatsz fegyverként.}
-{236}{}{Ne rázz olyan keményen!}
+{236}{}{Ne rázz ilyen erõsen!}
 {237}{}{A szerencséd szerfelett magas. Rázz tovább nyomravezetõ tanácsokért!}
 {238}{}{Igen, mi tudjuk, hogy a "Descent to Undermountain" egy kalap szar.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {150}{}{Ez itt egy rusnya, rozsdás pénznyerõ automata.}
 {151}{}{Ez itt egy rusnya kinézetû pénznyerõ automata. Teljesen rozsdás, és számos horpadás borítja, mintha valami nehéz tárggyal egyfolytában püfölték volna.}
 {200}{}{*Hé, fiata... ::Köhög:: ::Köhög:: ::Zihál:: ...gyere... ::Krákog:: Játsszunk egy kicsit.*}
@@ -22,7 +21,8 @@
 {235}{}{A háromszemû, egykarú fémdoboz nem válaszol.}
 {240}{}{Megragadod a karját és rántasz rajta egy jókorát Hogy, hogy nem, éles csörgõ hang hallatszik.}
 {245}{}{(Ez egy pénznyerõ automata. Meglehet, hogy a legrondább, amit egész New Renóban láttál. A karja meghajlott, két ablaka betört, ezenkívül számos horpadás borítja.)}
-{246}{}{Miközben a pénzért nyúlsz, megremeg a kezed. (A maga súlyos hangján a gép tovább suttog feléd.) *Gyerünk, ne állj meg... ::Köhög:: ...ez az...*}
+{246}{}{Your hand quivers as you reach for your chips. (The machine continues to whisper at you in its gravelly voice.)
+ *Come on, now...::cough::...that's it...*}
 {250}{}{Ahogy a tárcsák pörögni kezdenek, hirtelen fülsiketítõ csörömpölés hallatszik, és...}
 {251}{}{SEMMI! (Közli a gép száraz hangon.) *Legközelebb talán szerencsésebb leszel, fiata... ::Köhög:: ::Köhög:: ::Zihál::}
 {255}{}{(A gép tovább suttog feléd.) *Próbáld újra, fiata... még egyszer, hogy... ::Köhög:: ::Krákog:: ...próbára tedd a szerencséd.*}
@@ -46,5 +46,5 @@
 {322}{}{A gép túl van azon a ponton, hogy meg lehessen javítani.}
 {323}{}{Ezzel a géppel többre nem jutsz.}
 {324}{}{Ez a gép igen õsi darab. Kész csoda, hogy még mindig mûködik. Elbütykölsz vele egy darabig, mire szörnyû csikorgó hangot ad ki magából. Hirtelen úgy döntesz, hogy hagyod a fenébe.}
-{325}{}{Ez a gép igen õsi darab. Kész csoda, hogy még mûködik. Elkezded bütykölgetni, de semmire nem jutsz vele.}
+{325}{}{This machine is ancient. It is a miracle it's still working. You tinker with it for a bit, but you can't seem to fix it. Working on the machine appears to have made things only worse.}
 {326}{}{Ez a gép igen õsi darab. Kész csoda, hogy még mûködik. Elkezded bütykölgetni, letisztítasz néhány fogaskereket, de ettõl még ugyanolyan szánalmas állapotban marad.}

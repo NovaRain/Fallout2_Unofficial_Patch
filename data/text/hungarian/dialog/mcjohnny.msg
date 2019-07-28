@@ -1,15 +1,14 @@
-# Dialog Editor last position: 1
 {100}{}{Kisfiú.}
 {101}{}{Jonny}
 {102}{}{Szõke haj, kék szem, õ a tipikus amerikai kinézetû srác.}
 {150}{}{Vhááá!}
 {151}{}{Vissza akarom kapni a kutyámat!}
-{152}{}{Nyafog...}
+{152}{}{Whimper...}
 {153}{}{Idegen!}
 {154}{}{Ha Öcsi Jonny öcsihez menne! Hiányoztál kislány. Köszönöm, hogy visszahoztad a kutyámat.}
 {155}{}{Helló, korábban nem láttalak errefelé.}
 {156}{}{Jonnynak hívnak?}
-{157}{}{Mi a neved, kisfiú?}
+{157}{}{Hogy hívnak, kisfiú?}
 {158}{}{Mondd meg a neved, te kis pondró!}
 {159}{}{Szeretnél egy kis cukorkát, kicsim?}
 {160}{}{Helló...}
@@ -28,12 +27,12 @@
 {173}{}{Rose azt mondta, hogy a kutyád keresésére indul.}
 {174}{}{Jonnynak hívnak. Hát téged?}
 {175}{}{A nevem }
-{176}{}{.}
+{176}{}{ vagyok.}
 {177}{}{A nevem nem fontos.}
 {178}{}{Jonnynak hívnak, de nem tetszel nekem.}
 {179}{}{[Rád mutat és sikítani kezd.] Idegen! Idegen! Idegen!}
 {180}{}{Nagyon örülök, hogy találkoztunk.}
-{181}{}{Édesanyád és édesapád küldött engem, hogy felkutassalak.}
+{181}{}{Édesanyád és édesapád küldött, hogy felkutassalak.}
 {182}{}{Még találkozunk, gyerkõc...}
 {183}{}{Ez baromi jó! Már haza akartam menni, de Vegeir szerint a népe nem tud a föld felett messzire jutni velem... Nem mintha kételkednék, de mondd már meg az apám nevét!}
 {184}{}{Farrel}
@@ -50,7 +49,7 @@
 {195}{}{Nem. Most megyek a többiekkel játszani. Csáá...}
 {196}{}{Nem beszélhetek idegenekkel. Csáá...}
 {197}{}{Úgy hívnak! Honnan tudtad? Öcsi mondhatta. Olyan okos kutya...}
-{198}{}{Édesanyád és édesapád küldött a keresésedre.}
+{198}{}{Édesanyád és édesapád küldött, hogy felkutassalak.}
 {199}{}{Most velem jössz, öcskös. Ha visszaviszlek, jutalmat kapok érted.}
 {200}{}{Igen, azt hiszem, ez a legjobb. Habár én hiszek neked, Vegeir szeretné tudni, hogy biztonságban hazaérek-e. Kösz, hogy segítettél.}
 {201}{}{Légyszi, siess. Haza akarok menni.}

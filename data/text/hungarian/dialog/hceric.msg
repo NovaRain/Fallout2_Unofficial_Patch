@@ -1,10 +1,8 @@
-{100}{}{Egy dagadt, izzadó embert látsz.}
+{100}{}{You see a greasy, sweating ghoul.}
 {101}{}{Eric.}
-{102}{}{Egy kövér, izzadó embert látsz. Elég szánalmasan fest.}
+{102}{}{You see a greasy, sweating ghoul. He looks quite miserable.}
 {103}{}{Ennek a városnak nem kell több pech. Nekem sem kell több.}
 {104}{}{Gyere már, gyere már! Csukd be gyorsan az ajtót! Bejönnek a legyek!}
-#A low iq miatt kellett megvaltoztatni, mert ugy jobb (bass)
-
 {105}{}{Legyek mi?}
 {106}{}{Oké, jól van. Nem kell kiabálni!}
 {107}{}{Te kiabálsz velem?}
@@ -29,8 +27,8 @@
 {126}{}{Akkor szívességet teszek, ha megöllek.}
 {127}{}{Értem. Ez több, mint amit tudni akartam. Viszlát!}
 {128}{}{Próbáltam. Mindent próbáltam már. Az egyetlen dolog, ami távoltartaná a legyeket, ha nem izzadnék... de ha nincs elég áram, soha nem lesz itt hûvös.}
-{129}{}{Értem. Kérdeznék még valamit.}
-{130}{}{Aha. Viszlát!}
+{129}{}{Értem. Volna még néhány kérdésem.}
+{130}{}{Értem. Viszlát!}
 {131}{}{Igen?}
 {132}{}{Beszéltem Briannel, és azt mondta, hogy a szûkös készletekre való tekintettel nem adhat több áramot.}
 {133}{}{Miért jönnek ide a legyek?}
@@ -38,12 +36,12 @@
 {135}{}{Hol van a generátorállomás?}
 {136}{}{Ki vagy te?}
 {137}{}{Most már sokkal jobb. Megfelel?}
-{138}{}{Semmi.}
+{138}{}{Semmi. Hagyjuk!}
 {139}{}{Össze tudok neked kaparni egy-két dolgot, ha megcsinálod. Nem ígérhetek sokat, de hát ez nem is olyan nagy kérés.}
 {140}{}{Megegyeztünk. Csak legyen valami, amit elvihetek, ha visszajövök a jó hírrel!}
 {141}{}{Megcsinálom ingyen. Nem kell semmi.}
 {142}{}{Hagyjuk! Nem akarom megcsinálni.}
-{143}{}{Hadd gondolkozzam rajta!}
+{143}{}{Gondolkozom rajta.}
 {144}{}{El sem tudom mondani, milyen hálás vagyok! Kérlek, azonnal szólj, ha sikerült, hogy rögtön bekapcsolhassam a légkondicionálót és fürödhessek egyet!}
 {145}{}{Persze, de lenne még pár kérdésem.}
 {146}{}{Tiszta sor. Viszlát!}
@@ -67,14 +65,14 @@
 {164}{}{A hála kifejezésének elterjedt módja a pénz, vagy más használható tárgy ajándékozása.}
 {165}{}{Ne legyél. Beérem a köszöneteddel.}
 {166}{}{Francisnak, a mutánsnak erõkesztyûje van. Mindenkit kihív szkanderezni, és mindenkit le is gyõz. A gond az, hogy erõsebb mindenkinél. Ha érdekel, tudok adni pár pirulát, amivel legyõzheted.}
-{167}{}{Érdekel.}
+{167}{}{Hogyne.}
 {168}{}{Inkább pénzt kérnék, ha van.}
 {169}{}{Nem kell jutalom.}
 {170}{}{Ezt a drogot Buffoutnak hívják. Megnöveli az erõt, de elködösíti az agyat. Ne vegyél be túl sokat egyszerre, mert függõvé válhatsz! Sok sikert!}
 {171}{}{Kösz! Viszlát!}
 {172}{}{Tudnál segíteni a légy-problémámon? Nagyon hálás lennék.}
 {173}{}{Mennyire hálás?}
-{174}{}{Persze.}
+{174}{}{Hogyne.}
 {175}{}{Gondolkozom rajta.}
 {176}{}{Nem érdekel.}
 {177}{}{Itt az összes pénzem... 150 dollár. Köszönöm!}

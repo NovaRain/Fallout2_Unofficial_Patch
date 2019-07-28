@@ -1,6 +1,5 @@
-# Dialog Editor last position: 9
 {100}{}{Egy vásárló.}
-{101}{}{Egy városlakó.}
+{101}{}{Egy helybéli.}
 {150}{}{Úgy néz ki, mint aki tart valahova.}
 {151}{}{Úgy néz ki, mint aki tart valahova.}
 {152}{}{Iszik és más vásárlókkal beszélget. Ügyet sem vet rád.}
@@ -9,16 +8,16 @@
 {155}{}{Tubby boltja körül ólálkodik.}
 {156}{}{Nem látsz semmi különöset rajta.}
 {157}{}{Nem látsz semmi különöset rajta.}
-{200}{}{Takarodj innen!}
-{201}{}{Hagyj békén!}
-{202}{}{Ne érj hozzám!}
+{200}{}{Takarodj a szemem elõl!}
+{201}{}{Ne érj hozzám!}
+{202}{}{Hozzám ne érj!}
 {203}{}{Hagyd abba!}
-{204}{}{Mit csinálsz?}
+{204}{}{Mit csinál itt?}
 {300}{}{Bocsánat, most nem beszélgethetünk.}
 {301}{}{Hova is mentem?}
 {302}{}{Helló!}
-{303}{}{Elnézést.}
-{304}{}{Üdv!}
+{303}{}{Bocsánat.}
+{304}{}{Szia!}
 {305}{}{Becky kocsmája a legjobb, de nem csak az árak miatt.}
 {306}{}{A pia vagy a játék miatt vagy itt?}
 {307}{}{Már csak néhány trubadúr hiányzik.}
@@ -39,19 +38,17 @@
 {340}{}{Meg kéne ölnünk azért, amit tettél!}
 {341}{}{Nem tudom, mit ártott neked, de nem szolgált rá, hogy megöld.}
 {342}{}{Most, hogy Becky bezárt, talán New Renóba kéne húznunk.}
-#A since-nek "mivel" jelentese is van (bass)
 {343}{}{Hiányzik Becky mosolya.}
 {344}{}{Nincs több olcsó szesz.}
 {345}{}{Rejtek már nem a régi Becky nélkül.}
 {360}{}{Frankie bárja tényleg igazi lyuk... bizony ömlik rajta a pénz...}
-#A "hole in the wall" egy idioma, amely a penzkiado automatat jeloli (bass)
 {361}{}{Jobban szeretem a Lyukat, mint Becky kocsmáját.}
 {362}{}{Ezt a helyet Lyuknak hívjuk.}
 {363}{}{Foglalj helyet! Várj! Talán mégse...}
 {364}{}{Frankie-nek van stílusa. Becky csak a pénzért csinálja.}
 {365}{}{Frankie biztosan nem szereti Becky-t.}
 {366}{}{Frankie azt mondja, hogy Becky vizezi a piáját.}
-{367}{}{Mi a nagy helyzet?}
+{367}{}{Hogy ityeg a fityeg?}
 {368}{}{Frankie tudja, hogyan kell bulizni.}
 {369}{}{Becky asztalai meg vannak buherálva! Legalábbis Frankie szerint.}
 {370}{}{Húzd meg, fenékig!}
@@ -61,7 +58,7 @@
 {393}{}{Sajnálatos, hogy Frankie elment. Õ tudta, mi fán terem a bulizás.}
 {394}{}{Te aztán jól felhúztad magad. Mit csinált Frankie veled?}
 {395}{}{Frankie bántotta az anyád vagy mi?}
-{410}{}{Csak benéztem.}
+{410}{}{Csak körülnézek.}
 {411}{}{Nem tudom, mit keresek.}
 {412}{}{Tubby egész biztosan sok Jetet szív.}
 {413}{}{Látsz valami jót?}
@@ -78,7 +75,7 @@
 {441}{}{Üdv! Csak beugrottam beszélgetni az én öreg Flick barátomhoz.}
 {442}{}{Mit csinálsz itt?}
 {443}{}{Te is Flick barátja vagy?}
-{444}{}{Nem csináltam semmit.}
+{444}{}{Nem csináltam semmit...}
 {445}{}{Mit bámulsz?}
 {446}{}{Csak tégy úgy, mintha itt sem lennék!}
 {447}{}{Ne haragudj rám!}
@@ -99,7 +96,7 @@
 {488}{}{Helló!}
 {500}{}{Hogy voltál képes bántani szegény öreg Mamát?}
 {501}{}{Ismerem, úgy értem ismertem Mamát egész életemben.}
-{502}{}{Ártott neked bármit is?}
+{502}{}{Ártott neked valamit is?}
 {503}{}{Gyilkos! Szegény Mama...}
 {504}{}{Miért kellett ezt tenned?}
 {505}{}{Te szívtelen szörnyeteg!}

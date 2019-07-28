@@ -7,7 +7,7 @@
 {106}{}{No tezoro ogi.}
 {107}{}{Yah. Serve tuo aiuto.}
 {108}{}{Chi tu?}
-{109}{}{Ciao.}
+{109}{}{Addio.}
 {110}{}{No, non oggi. Se dovessi imbattermi in qualcosa, te lo faro' sapere.}
 {111}{}{Beh, si'. Credo che tu saresti il partner ideale per una... "joint venture", diciamo cosi'.}
 {112}{}{Come ti chiami?}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 110
 {100}{}{Egy alacsony, kreol bõrû férfit látsz, aki rádmosolyog.}
 {101}{}{Sajagot látod, az Arany Gekkó tulaját és csaposát.}
 {110}{}{Üdv, idegen! Üdvözöllek az Arany Gekkó fogadóban, hotelben és kereskedelmi központban. Sajag vagyok, én vezetem ezt a helyet. Mit hozhatok neked?}
@@ -7,7 +6,7 @@
 {113}{}{Egy italt kérek.}
 {114}{}{Meghívnék mindenkit egy italra, csak hogy bemutatkozzam.}
 {115}{}{Csereberélni szeretnék.}
-{116}{}{Egy szoba kéne éjszakára.}
+{116}{}{Kivennék egy szobát éjszakára.}
 {120}{}{Na, még egy idióta, pont olyan vagy, mint Torr. Takarodj a báromból!}
 {130}{}{Te vagy a mi emberünk. A legjobb fogadóba jöttél pénzt költeni. Mit tehetek érted, cimbora? }
 {131}{}{Nem vagy túl népszerû a városban. Miben segíthetek?}
@@ -15,7 +14,7 @@
 {133}{}{Meghívnék mindenkit egy körre.}
 {134}{}{Csereberélni szeretnék.}
 {135}{}{Kivennék egy szobát éjszakára.}
-{136}{}{Kösz a segítséget. Viszlát!}
+{136}{}{Köszönöm. Viszlát!}
 {137}{}{Viszlát!}
 {140}{}{Egy nagy korsó Arany Gekkó Pisa. Csak 5 dollárért a legjobb sör Reddingtõl északra.}
 {141}{}{Egy korsó pisát töltöttél!?!}
@@ -36,7 +35,7 @@
 {181}{}{Kedves tõled, hogy ideülsz közénk. (vihog) Mit is akarsz tõlünk?}
 {182}{}{Azt hiszem, innék még egy italt.}
 {183}{}{Meghívnám újdonsült barátaimat egy italra.}
-{184}{}{Fel szeretnék tenni pár kérdést.}
+{184}{}{Feltennék néhány kérdést.}
 {185}{}{Kösz, de másra most nincs szükségem.}
 {190}{}{Hát, az információról szól minden. Mit szeretnél tudni és mirõl?}
 {191}{}{Igazán? Mi a francot akarsz tudni?}
@@ -65,7 +64,7 @@
 {241}{}{Jól esne egy adag pisa az ünnepléshez.}
 {242}{}{Mit szólnál, ha mindenkit meghívnék egy adag pisára?}
 {243}{}{Lenne pár kérdésem hozzád.}
-{244}{}{Ez minden, amit most tudnom kell. Viszlát!}
+{244}{}{Most egyelõre ennyi. Ég veled!}
 {250}{}{Mondjuk, hogy van néhány kapcsolatom befolyásos emberekkel innen délre... Rejtekben.}
 {251}{}{Hát, majd észben tartom. Kösz a pénzt.}
 {260}{}{Van mindenféle dolgom: gyógyszerek, pia, sok féle egyéb cucc. Vannak különleges forrásaim. Mindig szívesen veszek aranygekkó bõrt.}
@@ -91,8 +90,10 @@
 {300}{}{Nos, a Dunton testvérek mindig keresnek valakit, aki megcsinálná a piszkos munkát helyettük. És pont ezért, Torr, a Buckner fiú, fél éjszaka õrizni a brahminokat, fél, hogy jönnek a bogáremberek. }
 {301}{}{Kösz, lenne még kérdésem.}
 {302}{}{Azt hiszem, ez minden, amit tudnom kell. Ellenben szükségem lenne még valamire.}
-{303}{}{Más most nem kell. Viszlát!}
-{310}{}{Észak-nyugatra van egy törzs, gondolom errõl tudsz (mosolyog). Aztán pár napnyira délre van Rejtek, ez van a legközelebb, és ott van Redding, egy bányász város messze dél-nyugatra.}
+{303}{}{Most egyelõre ennyi. Ég veled!}
+{310}{}{There are a couple of settlements nearby. There are some tribals northwest of us -- but I 'spose
+ you know about them. (smiles) Then there's the Den a few days southeast of here -- that's the closest --
+ and there's a mining town called Redding quite a ways to the southeast.}
 {320}{}{Nincs túl sok kereskedõ a városban. Csak Vic, aki így hirtelen eszembe jutott. A város keleti felében van a háza. Háború elõtti cuccokkat árul Rejtekben és valami törzsnek szintén. Már jóideje nem láttam.}
 {330}{}{Nem mindenkinek adom ám ennyiért az árumat. Nem könnyû beszerezni ezeket Rejtekbõl.}
 {331}{}{Van számodra egy különleges ajánlatom, aranyom. (vigyorog) Nem könnyû ezt beszerezni Rejtekbõl. Tudod mit? Neked különleges áron adom az árumat.}
@@ -101,11 +102,13 @@
 {342}{}{Azt hiszem, mégsem akarok veled kereskedni.}
 {343}{}{Kapcsolataid vannak Rejtekben. Biztos tudsz jobb árakat is mutatni.}
 {350}{}{Azt mondják, hogy bogárszerû, embernagyságú lények járkálnak az éjszakában és brahminokat tépnek széjjel. Csak Torr látta õket istenigazából. Félelmetes, mi?}
-{360}{}{Többen mondják, hogy van egy Corvega méretû, hatalmas patkány, ami irányítja az összes többi patkányt a Prémvadászok Városában (belvárostól nyugatra). Állítólag a Prémvadászok Városa alatti bányában él, és minden patkány fényes tárgyakat visz neki. (megnyalja a száját) Mmm, fényes csecsebecséket.}
+{360}{}{Some say that there's a gigantic rat, the size of a Corvega, that rules over all the rats over
+ in Trapper Town, west of here. They say that it lives in an old mine underneath Trapper Town and
+ that all the other rats bring it any shiny objects that they find. (licks his lips) Mmm, shiny baubles.}
 {370}{}{Nos, a várostól nyugatra van egy kanyon. Néhány hónapja erõs fény jött onnan és állatok kezdtek eltûnni. Nyomok vezetnek be a kanyonba, de kifelé már nem. Kísérteties, mi? Néhányan még fura nyikorgó hangot is hallottak visszhangozni a kanyon falairól.}
 {380}{}{Smiley volt a valaha létezõ legjobb prémvadász. Egyszer felállt és azt mondta Mrs. Bucknernek, hogy megkeresi azt a helyet, ahonnan az aranygekkók jönnek. Azt mondta, gazdag lesz, ha megtalálja, de azóta sem tért vissza, és annak már jó ideje.}
 {381}{}{Ez hihetetlen. Mondj még néhány helyi hírt!}
-{382}{}{Ez minden, amit most tudni szerettem volna.}
+{382}{}{Ez minden, amit tudnom kellett.}
 {390}{}{Édenkert Létrehozó, mi? Hát, itt Jenny a legközelebbi ember, aki meg tudja mutatni neked, mi az az édenkert, és csak pár dollárodba kerül. (mosolyog) Jól hangzik, de nem tudom, hol találsz olyat.}
 {391}{}{Hát, nem épp erre gondoltam. Hadd kérdezzek valami mást!}
 {392}{}{Ez minden, amit tudnom kellett.}

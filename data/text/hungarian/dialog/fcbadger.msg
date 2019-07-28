@@ -1,13 +1,12 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt egy punk srác mosolynak is nevezhetõ arckifejezéssel.}
 {101}{}{Õ Borz.}
 {102}{}{Ez itt egy punk srác, arcán olyasféle arckifejezéssel, amit akár kaján mosolynak is nevezhetnénk.}
 {103}{}{::Hangosan böfög::: Mit akarsz?}
 {104}{}{::Böfögsz::}
-{105}{}{Ki vagyol?}
-{106}{}{Te ki vagy?}
+{105}{}{Te ki lenni?}
+{106}{}{Ki vagy te?}
 {107}{}{Tudnál mondani valamit errõl a tankerrõl!}
-{108}{}{Mivel foglalkozol itt?}
+{108}{}{Mi a munkád?}
 {109}{}{Szeretném, ha meghekkelnéd nekem a számítógépet.}
 {110}{}{Hogy halad a hekkelés?}
 {111}{}{Semmit. Jó büfizést!}
@@ -21,15 +20,15 @@
 {119}{}{Miket tudsz varázsolni a számítógéppel?}
 {120}{}{Gondolom befuccsoltatok a bandával.}
 {121}{}{Jó volt az a zenekar?}
-{122}{}{Köszi, Szia.}
+{122}{}{Kösz. Viszlát!}
 {123}{}{Ööö... oké.}
-{124}{}{Szia!}
+{124}{}{Üdv!}
 {125}{}{Ezügyben beszélj Marc-kal vagy a Kapitánnyal!}
 {126}{}{Hol találom Marcot?}
 {127}{}{Hol találom a Kapitányt?}
 {128}{}{Én vagyok a helyi számítógép-zseni.}
 {129}{}{Miket tudsz varázsolni a számítógéppel?}
-{130}{}{Köszi. Szia.}
+{130}{}{Kösz. Viszlát!}
 {131}{}{Ne basztass már... ::Fingik egyet:: Dolgozom rajta, ha nem látnád!}
 {132}{}{Jól van, jól van. Majd szólj, ha kész van!}
 {133}{}{Hát mondjuk úgy, hogy én egy információszerzõ specialista vagyok.}
@@ -43,7 +42,7 @@
 {141}{}{Öö. Hogyne. Hadd kérdezzek valamit.}
 {142}{}{Fogadjunk, befuccsoltatok.}
 {143}{}{Marc rendszerint lenn a bárban múlatja az idõt.}
-{144}{}{Köszi. Volna még egy-két kérdésem.}
+{144}{}{Köszi. Hadd kérdezzek egy s mást!}
 {145}{}{Köszi. Ez minden.}
 {146}{}{A Kapitány általában a hídon tartózkodik. A bárból feljuthatsz a lépcsõn.}
 {147}{}{Köszi. Hadd kérdezzek egy s mást!}
@@ -52,16 +51,16 @@
 {150}{}{Mennyit kérsz?}
 {151}{}{Igen, hogyne... de most mennem kell.}
 {152}{}{Ez azt jelenti, hogy ha adatokat akarsz felkutatni, én vagyok a te embered.}
-{153}{}{Megcsinálnál nekem valamit?}
+{153}{}{Megtennél nekem valamit?}
 {154}{}{Értem. Ez király. Még kérdeznék valamit, ha nem zavar.}
 {155}{}{Értem. Köszi.}
 {156}{}{Igen, kéne. Egyébként vissza kell térnem ehhez a vacakhoz.}
 {157}{}{Várj! Még akarok kérdezni valamit.}
-{158}{}{Köszi. Viszlát!}
-{159}{}{Szerintem vagyunk annyira jóban, hogy segítsek neked. Kit látogassak meg?}
-{160}{}{A Hubologistákat.}
-{161}{}{A Shiket.}
-{162}{}{Senkit. Csak tájékozódom.}
+{158}{}{Kösz. Viszlát!}
+{159}{}{I think I like you enough that I can do it for you now. Who do you want me to visit?}
+{160}{}{A Hubologistákhoz.}
+{161}{}{A Shikhez.}
+{162}{}{Egyikhez sem. Csak tájékozódom.}
 {163}{}{Asszem, amiért megmentetted a csajomat, ingyen megcsinálom. Persze eltart majd egy darabig. Hova törjek be neked?}
 {164}{}{A Hubologistákhoz.}
 {165}{}{A Shikhez.}
@@ -76,7 +75,7 @@
 {174}{}{Akkor jó szerencsét! Ellenben kérdeznék egy-két dolgot.}
 {175}{}{Jó szerencsét! Késõbb visszajövök.}
 {176}{}{Találd meg nekem a barátnõmet és akkor majd beszélgethetünk.}
-{177}{}{Rendben, rendben!}
+{177}{}{Rendben, rendben.}
 {178}{}{Meghalt? MEGHALT? Hogy  halt meg? Ne, inkább mégse mondd el... tartsd meg magadnak! Adj néhány órát, hogy összeszedjem magam!}
 {179}{}{Hogyne, hogyne.}
 {180}{}{Ne durcáskodj már, öcsém! Csomó dolgunk van, vazze!}
@@ -87,12 +86,12 @@
 {185}{}{Volna néhány kérdésem.}
 {186}{}{A hálád elég nekem. Viszlát!}
 {187}{}{Oké, behatoltam a Shi számítógépekbe. Nem tudom, észrevettek-e. Szerintem most a legjobb az lesz, ha meghúzzuk magunkat. Egyéb teendõ?}
-{188}{}{Volna.}
-{189}{}{Nincs. Üdv!}
+{188}{}{Igen.}
+{189}{}{Nem kell. Üdv!}
 {190}{}{Megfogtam a Hubologistákat. Nem ügy. Segíthetek bármi egyébben?}
 {191}{}{Igen.}
 {192}{}{Nem kell. Üdv!}
-{193}{}{Nagy hibát követtél el, haver! A számítógépeken keresztül a Shiket és a Hubologistákat is neked ugrasztottam. Neked véged van, mint a botnak San-Franciscóban.}
+{193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
 {194}{}{Hát, akkor asszem, most megöllek.}
 {195}{}{Adj néhány órát, hogy összeszedhessem magam!}
 {196}{}{Egy formázott számítógépbe hatoljak be? Az információnak már annyi. Rá nem veszel erre.}
@@ -116,7 +115,7 @@
 {214}{}{Jó-jó, de szar kerülhet a palacsintába.}
 {215}{}{Át tudnád irányítani az üzemanyagot a tartályokból a tankerbe?}
 {216}{}{Na, sebaj, majd máshogy megoldom.}
-{217}{}{Na, sebaj.}
+{217}{}{Értem.}
 {218}{}{Rendben. Kábé egy napon belül gyere vissza és megbeszéljük.}
 {219}{}{Megszerezted, amit kértem?}
 {220}{}{Igen, megvan az üzemanyag.}

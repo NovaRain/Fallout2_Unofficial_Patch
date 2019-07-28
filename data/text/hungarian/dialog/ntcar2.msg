@@ -1,5 +1,5 @@
-# Dialog Editor last position: 1
 {100}{}{Pontosan ide parkoltam az autómmal!}
+{101}{}{Me swear me parked right here!}
 {150}{}{Ahogy közeledsz a kocsid hûlt helyéhez, északi irányban eltaposott keréknyomokat találsz.}
 {151}{}{Északi irányban keréknyomokat látsz.}
 {152}{}{Ezek bizony keréknyomok!}

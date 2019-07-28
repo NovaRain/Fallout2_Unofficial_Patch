@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kcitizen.msg                               #
-#                                                           #
-#       Body Type:  NAROBE                                  #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Vedi uno degli abitanti di Klamath.}
 {101}{}{Vedi uno degli abitanti di Klamath.}
-
-#############################################################
-#  The following lines are floaters for citizens            #
-#############################################################
-
 {150}{}{Perche' non te ne torni nella tua tribu'?}
 {151}{}{Ti daro' delle belle perle se mi lasci in pace.}
 {152}{}{Bel selvaggio, buono selvaggio, non farmi male.}
@@ -37,7 +12,6 @@
 {159}{}{Non ci servono dei piantagrane come te.}
 {160}{}{Sicuramente provieni dal Den.}
 {161}{}{L'ultima cosa che non ci serve e' altra gente come te.}
-
 {170}{}{Ehila', straniero.}
 {171}{}{Spero proprio che questa sia una buona stagione per la caccia.}
 {172}{}{Ultimamente sono scomparsi molti brahmin.}
@@ -57,7 +31,6 @@
 {186}{}{Non c'e' pace per i poveri.}
 {187}{}{Mi fanno male le articolazioni; stara' cambiando il tempo.}
 {188}{}{Si sta alzando il vento.}
-
 {190}{}{E' bello vederti.}
 {191}{}{Ce ne sono altri come te, dalle tue parti?}
 {192}{}{Spero ti piaccia stare a Klamath.}
@@ -68,15 +41,11 @@
 {197}{}{Non assomigli per niente a Sulik.}
 {198}{}{Sei il selvaggio piu' civile che abbia mai incontrato.}
 {199}{}{Attento ai gecki che hanno un colore diverso.}
-{200}{}{Salve, viandante.}
+{200}{}{Salve, viaggiatore.}
 {201}{}{Sono felice di averti a Klamath.}
 {202}{}{Ehila', straniero.}
 {203}{}{Attento a quei Dunton; sono pericolosi.}
 {204}{}{Trapper Town e' infestata di ratti.}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Elder}
 {1001}{}{Founder}
 {1002}{}{Vault Dweller}
@@ -89,7 +58,6 @@
 {1009}{}{Healing Powder}
 {1010}{}{Bridge}
 {1011}{}{Mynoc}
-
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}

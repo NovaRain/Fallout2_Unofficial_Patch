@@ -1,9 +1,9 @@
-{100}{}{Õ Jordan, aki szokása szerint a dárdáját forgatja.} 
+{100}{}{Õ Jordan, aki szokása szerint a dárdáját forgatja.}
 {101}{}{Õ Jordan, aki szokása szerint a dárdáját forgatja.}
 {102}{}{Sok szerencsét! Tõled függ a falu élete.}
-{103}{}{Kiválasztott, ahogy azzal a dárdával bánsz, könnyû préda leszel a gekkók számára. Mutathatok neked néhány fogást.}
-{104}{}{Rendben.}
+{103}{}{Hello Chosen One.  I see you're in need of a little training.  Can I be of help?}
+{104}{}{Hogyne.}
 {105}{}{Nem, kösz.}
 {106}{}{Egy kis idõbe fog telni.}
-{107}{}{Jó tanuló vagy. Úgy látszik, mindent megtanultál, amit mutattam neked.}
+{107}{}{There, you have learned what I can teach you about spears.}
 {108}{}{Köszönöm, Jordan, sokat segítettél.}

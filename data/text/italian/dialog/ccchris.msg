@@ -1,4 +1,4 @@
-{100}{}{Vedi un uomo anziano.}
+{100}{}{Vedi un vecchio. }
 {101}{}{Vedi Chris, il gestore del distributore di benzina.}
 {102}{}{Vedi un vecchio dall'aspetto trasandato che indossa una vestaglia viola.}
 {103}{}{Ehila', straniero. Capperi! Guarda che bolide. Non ne vedevo uno cosi' da anni. Cosa puo' fare per te il vecchio Chris?}
@@ -37,7 +37,7 @@
 {136}{}{Cosa tu fare ora?}
 {137}{}{Me sparisce.}
 {138}{}{Mossa sbagliata, amico.}
-{139}{}{Cosa pensi di fare?}
+{139}{}{Cosa credi di fare?}
 {140}{}{Ehi, me ne vado.}
 {141}{}{(parlando alla ricetrasmittente) Allarme! C'e' un intruso nella stazione! Allarme!}
 {142}{}{[FATTO]}
@@ -66,7 +66,7 @@
 {165}{}{Puoi dirlo agli Hubologisti.}
 {166}{}{Scegli pure. Puoi dirlo agli Shi o alla Confraternita d'Acciaio o agli Hubologisti. Sembrano tutti nutrire un certo interesse per i vertibird.}
 {167}{}{Gli Shi, eh? Se lo dici tu, va bene. Mandero' loro un messaggio a Shi-Town. Adesso ho delle cose da fare.}
-{168}{}{Aspettare. Me ha forti amici. Loro dire Navarro qui. Tu dire dove, o cose diventare casinose!}
+{168}{}{Aspettare. Me ha forti amici. Loro dire Navarro qui. Tu dire dove o cose diventare casinose!}
 {169}{}{Aspetta un minuto, amico. Ho degli amici molto potenti che mi hanno detto che Navarro si trova qui. Ora tu mi dirai l'esatta posizione o le cose si metteranno male!}
 {170}{}{La Confraternita... Uh, si', beh, lo faro'. Adesso ho delle cose da fare.}
 {171}{}{Aspettare. Me ha forti amici. Loro dire Navarro qui. Tu dire dove o cose diventare casinose!}
@@ -99,7 +99,7 @@
 {198}{}{Dico sul serio. Vorrei entrare a far parte dell'Enclave.}
 {199}{}{Aspetta un secondo, stupidotto. Stai cercando di dirmi che sei uno dei rimpiazzi dell'Enclave?}
 {200}{}{Aspetta un secondo. Stai cercando di dirmi che sei uno dei rimpiazzi dell'Enclave?}
-{201}{}{Uh... si'.}
+{201}{}{Uh... gia'.}
 {202}{}{Proprio cosi'.}
 {203}{}{Capperi. Scusami per il casino che stavo facendo. Ho il compito di far passare i gruppi di novellini che arrivano qui, ma devo anche eliminare la 'spazzatura'. Ad ogni modo, raggiungi il cancello che si trova dopo quel boschetto e di' alle guardie la parola d'ordine. E' 'sheepshead'. Ah, e resta sul sentiero!}
 {204}{}{Grazie!}
@@ -127,11 +127,10 @@
 {226}{}{Cosa tu fare ora?}
 {227}{}{Me sparisce.}
 {228}{}{Mossa sbagliata, amico.}
-{229}{}{Cosa pensi di fare?}
+{229}{}{Cosa credi di fare?}
 {230}{}{Ehi, me ne vado.}
-{231}{}{Si', certo.}
+{231}{}{Yeah, certo.}
 {232}{}{Sta tirando fuori una ricetrasmittente. Sta per avvertire l'intera base! Devo occuparmi di lui in fretta.}
 {233}{}{Oh, no. Tipo buffo tirare fuori scatoletta parlatrice. Lui parlare di me. Me deve fermare.}
-
 {800}{}{Hai convinto Chris a dirti la parola d'ordine.}
 {810}{}{Hai ucciso Chris prima che potesse allertare la base.}

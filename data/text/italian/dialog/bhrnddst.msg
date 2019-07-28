@@ -1,4 +1,3 @@
-# Brok Encounter Table
 {100}{}{Incontri dei furfanti e dei lupi.}
 {101}{}{Incontri dei furfanti.}
 {102}{}{Incontri dei lupi.}
@@ -7,8 +6,6 @@
 {105}{}{Incontri una Pattuglia dell'Unita' che combatte contro alcuni furfanti.}
 {106}{}{Incontri una Pattuglia dell'Unita' che combatte contro alcuni lupi.}
 {107}{}{Incontri una Pattuglia dell'Unita'.}
-
-# VPat Encounter Table
 {150}{}{Incontri degli schiavisti e dei cani.}
 {151}{}{Incontri degli schiavisti.}
 {152}{}{Incontri dei gecki dorati.}
@@ -19,8 +16,6 @@
 {157}{}{Incontri una pattuglia che combatte contro alcuni gecki dorati.}
 {158}{}{Incontri una pattuglia che combatte contro alcuni cani selvatici.}
 {159}{}{Incontri una pattuglia.}
-
-# RDRC Encounter Table
 {200}{}{Hai subito un'imboscata da parte di alcuni predoni.}
 {201}{}{Incontri dei lupi.}
 {202}{}{Incontri una carovana che si difende dai predoni.}
@@ -31,8 +26,6 @@
 {207}{}{Incontri una carovana.}
 {208}{}{Incontri una carovana.}
 {209}{}{Incontri una carovana.}
-
-# VNNB Encounter Table
 {250}{}{Incontri dei razziatori.}
 {251}{}{Incontri dei lupi.}
 {252}{}{Incontri dei radscorpioni.}
@@ -45,8 +38,6 @@
 {259}{}{Incontri una carovana.}
 {260}{}{Incontri una carovana.}
 {261}{}{Incontri un viandante.}
-
-# NCR Encounter Table
 {300}{}{Incontri dei sopravvissuti dell'esercito del Master.}
 {301}{}{Incontri dei razziatori.}
 {302}{}{Incontri dei ranger NCR che combattono contro un manipolo di sopravvissuti dell'esercito del Master.}
@@ -55,13 +46,11 @@
 {305}{}{Incontri dei contadini che si difendono da alcuni razziatori.}
 {306}{}{Incontri dei ranger NCR.}
 {307}{}{Incontri dei contadini.}
-
-# DNRV Encounter Table
 {350}{}{Incontri una carovana di schiavisti.}
 {351}{}{Incontri dei rapinatori e dei ladri.}
 {352}{}{Incontri dei rapinatori.}
 {353}{}{Incontri dei ladri.}
-{354}{}{Incontri una carovana che si difende da alcuni rapinatori.}
+{354}{}{Incontri una carovana che si difende da dei rapinatori.}
 {355}{}{Incontri una carovana che combatte contro alcuni ladri.}
 {356}{}{Incontri una carovana che combatte contro alcuni rapinatori.}
 {357}{}{Incontri una carovana circondata da alcuni ladri.}
@@ -69,8 +58,6 @@
 {359}{}{Incontri dei rapinatori che combattono contro alcuni ladri.}
 {360}{}{Incontri una carovana.}
 {361}{}{Incontri una carovana.}
-
-# DMRV Encounter Table
 {400}{}{Incontri dei rapinatori.}
 {401}{}{Incontri dei ladri.}
 {402}{}{Incontri dei ladri e dei rapinatori.}
@@ -85,20 +72,16 @@
 {411}{}{Incontri una carovana che si difende dai radscorpioni.}
 {412}{}{Incontri dei gecki che combattono contro dei radscorpioni.}
 {413}{}{Incontri una carovana.}
-
-# Band Encounter Table
 {450}{}{Incontri dei rapinatori e dei ladri.}
 {451}{}{Incontri dei rapinatori e dei gecki.}
 {452}{}{Incontri dei gecki dorati.}
 {453}{}{Incontri dei radscorpioni e delle piante sporigene.}
 {454}{}{Incontri dei ladri che combattono contro dei radscorpioni.}
 {455}{}{Incontri dei radscorpioni che combattono contro dei ladri.}
-{456}{}{Incontri una carovana che si difende dai rapinatori.}
-{457}{}{Incontri una carovana che si difende dai ladri.}
+{456}{}{Incontri una carovana che si difende da dei rapinatori.}
+{457}{}{Incontri una carovana che si difende da dei ladri.}
 {458}{}{Incontri alcuni rapinatori che stanno potando delle piante sporigene.}
 {459}{}{Incontri una carovana.}
-
-# DVMV Encounter Table
 {500}{}{Incontri dei rapinatori e dei cani selvatici.}
 {501}{}{Incontri dei ladri e dei cani selvatici.}
 {502}{}{Incontri dei ladri.}
@@ -112,8 +95,6 @@
 {510}{}{Incontri una carovana che si difende da dei ladri.}
 {511}{}{Incontri una carovana che si difende da dei rapinatori.}
 {512}{}{Incontri una carovana.}
-
-# Red Encounter Table
 {550}{}{Incontri dei gecki e dei lupi.}
 {551}{}{Incontri dei cacciatori di concessioni.}
 {552}{}{Incontri dei lupi.}
@@ -126,9 +107,7 @@
 {559}{}{Incontri dei contrabbandieri.}
 {560}{}{Incontri dei trapper.}
 {561}{}{Incontri dei cercatori.}
-
-# SRNRRN Encounter Table
-{600}{}{Incontri dei deathclaw.}
+{600}{}{Incontri alcuni deathclaw.}
 {601}{}{Incontri alcuni gecki di fuoco.}
 {602}{}{Incontri una carovana che fugge dai deathclaw.}
 {603}{}{Incontri una carovana che combatte contro alcuni deathclaw.}
@@ -138,8 +117,6 @@
 {607}{}{Incontri una carovana.}
 {608}{}{Incontri una carovana.}
 {609}{}{Incontri una carovana.}
-
-# EPA Encounter Table
 {650}{}{Incontri degli alieni e alcuni deathclaw.}
 {651}{}{Incontri dei centauri e dei fluttuanti.}
 {652}{}{Incontri alcuni gecki di fuoco.}
@@ -149,8 +126,6 @@
 {656}{}{Incontri degli alieni.}
 {657}{}{Incontri dei centauri.}
 {658}{}{Incontri dei fluttuanti.}
-
-# New Encounter Table
 {700}{}{Incontri qualche Yakuza.}
 {701}{}{Incontri una banda.}
 {702}{}{Incontri alcuni lupi.}
@@ -158,8 +133,6 @@
 {704}{}{Incontri alcuni delinquenti che combattono contro una banda.}
 {705}{}{Incontri alcuni delinquenti.}
 {706}{}{Incontri un viandante.}
-
-# NRNR Encounter Table
 {750}{}{Incontri una carovana che si difende da alcuni sopravvissuti dell'esercito del Master.}
 {751}{}{Incontri una carovana che combatte contro un manipolo sopravvissuti dell'esercito del Master.}
 {752}{}{Incontri una carovana che combatte contro alcuni deathclaw.}

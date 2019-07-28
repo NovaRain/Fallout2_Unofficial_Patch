@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy nyers, de széles mosolyú nõt látsz.}
 {101}{}{Jackpot Jane-t, az állatviadalok szervezõjét látod.}
 {102}{}{Egy határozott nõt látsz, éles szeme minden részletre odafigyel.}
@@ -6,7 +5,7 @@
 {104}{}{Óóóó. Szõrmi.}
 {105}{}{Csini szõr.}
 {106}{}{Á, már értem. Új lehetsz a városban. Na, idefigyelj. A holnapi meccsre, csak neked külön speciális tétet ajánlok. Elfogadod?}
-{107}{}{(Bólogatsz) Ja, ja. (és nyújtod a tárcádat).}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Múúk? Gaga. Pá szõrmi.}
 {109}{}{Jó ötlet. Gyere vissza holnap és ha nyer a jószágod, adok neked pénzt. Jó lesz?}
 {110}{}{Oké, jól léptél. Garantálom, hogy egy igazi különleges fogadást csinálok neked. Viszlát!}
@@ -61,7 +60,7 @@
 {159}{}{Nézze meg a nap párbaját!}
 {160}{}{Vadállatok küzdenek, és csak dõl a pénz! IMÁDNI FOGJA!}
 {161}{}{Hozzák csak a feszülõ pénztárcákat és a még feszültebb elvárásaikat! ERRE-ERRE!}
-{162}{}{Takarodj a pokolba!}
+{162}{}{Tûnj a francba!}
 {163}{}{Az ilyen pénzkereset engem nem érdekel!}
 {164}{}{Vidd máshova!}
 {165}{}{Egyszerûen tartsd távol magad a karámomtól!}
@@ -69,11 +68,11 @@
 {167}{}{Nahát, ahogy mondtam, a két jószág nekiesik egymásnak, de olyan elszánt dühvel, amilyet még ember nem pipált a hatalmas gépek megjelenése óta!}
 {168}{}{Hatalmas gépek?}
 {169}{}{Öö igen, és aztán?}
-{170}{}{Oké, figyelj haver segítene, ha azt mondanám: Amilyen még nem volt, mióta mennydörgõ óriásgyíkok járták a földet? Ez így már tetszik? Akkor most beszállsz vagy nem? (félre) Jesszusom, milyen kritikusak manapság az emberek!}
+{170}{}{OK, listen, pal, would it help if I said - The likes of which haven't been seen since the great thunder lizards roamed the earth. Is that what tweaks your twinky? So you in or out? (aside) Jeez, everyone's a critic these days.}
 {171}{}{Öö, azt hiszem, beszállok.}
 {172}{}{A nagy gyíkok megrémítenek. Jobb, ha távol maradok ettõl. Viszlát! (magadnak: Hû, ez szoros volt!)}
 {173}{}{A sport-része a dolognak a fogadás a meccs kimenetelére. Úgy mûködik, hogy szólsz nekem, hogy fogadni akarsz. Én megmondom, hogy melyik két jószág fog küzdeni a következõ körben, te meg megmondod, hogy melyikre teszed a pénzed.}
-{174}{}{És aztán?}
+{174}{}{Utána?}
 {175}{}{Egyszerû, ha a te dögöd gyõz, megduplázod a pénzed. Ha már az elsõ menetben nyer, MEGHÁROMSZOROZOD. Ha kikap, az enyém a pénzed. Általában naponta több meccs van. Amíg nem fogyunk ki az dögökbõl, bármelyikre fogadhatsz, de meccsenként csak egyre. Ja igen, hogy egyszerûbbé tegyük a dolgokat, minden tét 100 dolcsi.}
 {176}{}{Oké, felfogtam. Hadd próbáljam meg!}
 {177}{}{Értem. Hmm, azt hiszem, majd máskor próbálkozom. Viszlát!}
@@ -93,9 +92,9 @@
 {191}{}{ ellenfele a jó öreg }
 {192}{}{. Ilyen küzdelmet nem látsz egyhamar. Mi tetszik?}
 {193}{}{Legyen mondjuk }
-{194}{}{.}
+{194}{}{ vagyok.}
 {195}{}{Legyen mondjuk }
-{196}{}{.}
+{196}{}{ vagyok.}
 {197}{}{Hmm, azt hiszem, ezt most kihagyom.}
 {198}{}{Azt hiszem, mára elegem van ebbõl. Valamikor még visszajövök. Viszlát!}
 {199}{}{És most jössz te, bajnok. Itt a nyereményed. Ez volt ma az utolsó menet. Ha még több izgalomra vágysz, gyere vissza holnap!}
@@ -103,7 +102,7 @@
 {201}{}{Úgy teszek.}
 {202}{}{Azt hiszem, a következõt kihagyom.}
 {203}{}{Figyelj, senki sem kényszerít, hogy fogadj rájuk, nem? Ha nem tetszik, amit látsz, állj csak arrébb, nem fogsz hiányozni! Megértetted?}
-{204}{}{Megértettem.}
+{204}{}{Értem.}
 {205}{}{Micsoda lövés!}
 {206}{}{ lenyomta }
 {207}{}{ fiút a legelsõ menetben! Micsoda meccs!}
@@ -130,7 +129,7 @@
 {228}{}{Örülök, hogy a pénzemnél vagyok.}
 {229}{}{Sokba került volna nekem.}
 {230}{}{Jó harc volt, de azért örülök, hogy nem fogadtam.}
-{231}{}{Ó, kösz.}
+{231}{}{Oké, köszönöm.}
 {300}{}{Éles Sikoly}
 {301}{}{Vicky}
 {302}{}{Tüske}
@@ -158,7 +157,7 @@
 {326}{}{Félszemû}
 {327}{}{Pötty}
 {328}{}{Lord Wiggler}
-{330}{}{Mázlis}
+{330}{}{Szerencsés}
 {331}{}{Nagy Zoroaszter}
 {332}{}{Shub}
 {333}{}{Usuthu}

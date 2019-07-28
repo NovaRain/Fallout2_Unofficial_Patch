@@ -78,7 +78,7 @@
 {177}{}{Badger puzzava un po', ma mi piaceva.}
 {178}{}{Mi hanno detto che una volta Badger era gay, ma poi si e' trovato la ragazza.}
 {179}{}{Ho sempre pensato che Badger fosse uno zotico, ma uno zotico molto carino.}
-{180}{}{Scommetto che Badger si stara' divertendo con i suoi amici, adesso.} ###???I'll bet Badger is showing this off to his friends
+{180}{}{Scommetto che Badger si stara' divertendo con i suoi amici, adesso.}
 {181}{}{Badger... ::sniff::}
 {182}{}{Badger era una vera principessa da fiaba.}
 {183}{}{Coglione. Perche' l'hai ucciso?}

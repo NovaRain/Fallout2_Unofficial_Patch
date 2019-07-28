@@ -13,20 +13,21 @@
 {112}{}{Figyelmeztetlek! Csak semmi meggondolatlan mozdulat!}
 {113}{}{Na, ami sok az sok!}
 {114}{}{A Szent Antiókiai Kézigránát a létezõ legjobb kézbõl használatos, élõerõt pusztító harci eszköz a maga nemében.}
-{115}{}{Miért keresitek ezt a szörnyû fegyvert?}
+{115}{}{Why do you search for such a terrible weapon?}
 {116}{}{Mi, az Acél Testvériségének tagjai azt a célt tûztük ki magunk elé, hogy megleljük õseink leghatásosabb fegyverét és eltüntetjük azok elõl, akik csak visszaélnének az Antiókiai Szent Kézigránát erejével.}
 {117}{}{Miért?}
-{118}{}{Hát... azért mert az Acél Testvériségének az a dolga, hogy a gyengéket és védteleneket oltalmazza, és az a vacak könnyen megsebesíthet valakit.}
+{118}{}{Well... because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
+ this thing could really hurt someone.}
 {119}{}{Miért?}
 {120}{}{Ööö... mert ezt diktálja a jó erkölcs.}
 {121}{}{Miért?}
 {122}{}{Min... öö... na figyelj ide, nekünk sok dolgunk van. Akarsz segíteni, avagy sem? Láttad az Antiókiai Szent Kézigránátot, avagy sem?}
-{123}{}{Láttam.}
-{124}{}{Nem én.}
+{123}{}{Igen.}
+{124}{}{Nem.}
 {125}{}{Akkor miért nem ezzel kezdted? Ha elmondod, merre van, itthagyunk, és mehetsz a dolgodra!}
 {126}{}{[A hasadra ütsz, és elmutatsz valamerre...]}
-{127}{}{Jól van. Köszönjük a segítséget. Itt van valami a segítségért...}
-{128}{}{Várjatok! Én is egy küldetést teljesítek. A szent ÉLET-et keresem. Láttátok valahol?}
+{127}{}{Right then. Thank you for your help. Something for your trouble.}
+{128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
 {129}{}{Na, jó, nincs sok értelme, hogy folytassuk ezt a beszélgetést. Útnak indulunk.}
 {130}{}{[vége]}
 {131}{}{Mocskos paraszt!}
@@ -35,7 +36,6 @@
 {134}{}{Hát, ha már kettõ van nektek, az egyiket akár oda is adhatnátok.}
 {135}{}{Nem-nem. Ez lehetetlen. Ilyen könnyen azért nem fogod befejezni a küldetésed. Van még épp elég, szerezz egyet magadnak! [Ugyanabba az irányba mutat, amerre az útmutatásod szerint az Antiókiai Szent Kézigránát található.]}
 {136}{}{[vége]}
-
 {200}{}{Beszélsz a király nyelvén?}
 {201}{}{Hellóóó.}
 {202}{}{Hé, itt vagyok!}
@@ -43,5 +43,4 @@
 {204}{}{Ahem.}
 {205}{}{Ugyan már, ne nézz már át rajtam, mint a kirakaton!}
 {206}{}{Légysziiii! Valami nagyon fontosat kell kérdeznem.}
-
 {207}{}{Az a helyzet, hogy folytatnunk kell a kutatást az Antiókiai Szent kézigránát nyomában. Jer, Balfi!}

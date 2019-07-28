@@ -1,4 +1,3 @@
-# Dialog Editor last position: 180
 {100}{}{Egy alacsony, hollófekete hajú, mosolygós emberhez van szerencséd.}
 {101}{}{Ascortit látod, aki éppenséggel Redding polgármestere.}
 {102}{}{Egy elegánsan öltözött, nyájas férfire fókuszál most a pupillád.}
@@ -12,9 +11,9 @@
 {110}{}{Üdvözöljük Redding elõkelõ városában... és köszöntjük a kaszinómban! Ascortinál mindenki nagyágyú! Én vagyok Ascorti, a tulajdonos és e remek város elsõ embere.}
 {111}{}{Mit tehet önért Ascorti polgármester?}
 {112}{}{Van valami munkalehetõség itt, Reddingben?}
-{113}{}{Mi a helyzet a városban mostanság?}
+{113}{}{Mi a helyzet a városban mostanában?}
 {114}{}{Hallott valami olyasmirõl, amit Édenkert Létrehozást Elõsegítõ Táskának neveznek?}
-{115}{}{Mivel tölti napjait errefelé?}
+{115}{}{Mi a munkád?}
 {116}{}{Csak bámészkodtam, polgármester úr. Majd késõbb találkozunk! Viszlát!}
 {117}{}{Ezt a kaszinót üzemeltetem, és besegítenek még néhány dologba a városka életében. Ezenkívül én foglalkozom például a birtoklevelekkel meg ilyesmikkel.}
 {118}{}{Milyen birtoklevelekrõl van szó?}
@@ -30,7 +29,7 @@
 {128}{}{Persze, hogy emlékszem! Öö, izé... feltehetnék egy másik témával kapcsolatos kérdést is, polgármester úr?}
 {129}{}{Igen, persze, hogy emlékszem. Csak érdeklõdtem. Viszlát, Ascorti polgármester úr!}
 {130}{}{Mindenféle magántulajdon. Most, mit tesz isten, éppen van egy hihetetlenül értékes eladó birtoklevelem...}
-{131}{}{Egész pontosan?...}
+{131}{}{Mi van?}
 {132}{}{Elhiszem, hogy van... de elõtte még meg szeretnék kérdezni valamit, polgármester úr.}
 {133}{}{Hmm... elõször egy kicsit körbenézek a városban, polgármester úr. Viszlát!}
 {134}{}{A Nagy-Wanamingo bányáé. Az a bánya, amelyik a városka határában fekszik. Ha érdekli, én hajlandó vagyok eladni önnek potom 1000 dollárért. Ez egy nem mindennapi ajánlat! Mindössze csak a szerencsének köszönheti, hogy ilyen nagyvonalú napot fogott ki.}
@@ -77,7 +76,7 @@
 {175}{}{Eltalálta! Tudtam én, hogy ön nem olyan lassú felfogású, mint amilyennek látszik! Okos is tud lenni, ha szükség van rá...}
 {176}{}{Jaja. Nos, akkor mennyit is kell majd kibírnom ezért a busás üzletért?}
 {177}{}{Nagyon is otthonos volt, amíg valaki be nem költözött... Egy tipikus rosszfiú, Morton, a Hûtõs... és... öö... a bandája. Legalábbis ezt hallottam.}
-{178}{}{Miért nevezik Hûtõsnek?}
+{178}{}{Miért hívják õt Hûtõsnek?}
 {179}{}{És ehhez nekem mi közöm van?}
 {180}{}{Nagyszerû, mit kezdjek ezzel?}
 {181}{}{Szerintem azért ragasztották ezt a nevet rá, mert folyton hidegre teszi az embereket. Velejéig romlott ember, akit nem szabad elszalasztani... és ha sikerül, ön hõs lesz! Szeretne hõs lenni, nem?}
@@ -85,7 +84,7 @@
 {183}{}{Hogyne, persze! Miképp segíthetek?}
 {184}{}{Most jutott eszembe, hogy elfelejtettem kitakarítani! Majd visszanézek, amint megbillentettem pár hátsót, Polgármester úr...!}
 {185}{}{Háááát... amíg a bánya nincs kitisztítva, nem tudok munkásokat küldeni oda. Szóval, ha el akarja adni nekem a bányát, ez a gond az ön vállát nyomja...}
-{186}{}{Miért hívják Hûtõsnek...?}
+{186}{}{Miért hívják õt Hûtõsnek?}
 {187}{}{Nagyszerû! Mit tudok én tenni az ügyben?}
 {188}{}{Akkor jobb is lesz, ha belevágok. Viszlát, polgármester úr!}
 {189}{}{Van egy olyan érzésem, hogy vissza kellene mennie a Wanamingo bányába, és leszámolni a Hûtõssel meg a bandájával... Ha sikerült, jöjjön vissza és én abban a szent pillanatban, szélesvásznú szinkronizált mosoly kíséretében visszavásárolom öntõl a bányát.}
@@ -146,11 +145,11 @@
 {244}{}{Hohóóó... hé! Nyugi, emberke! Éppen menni akartam.}
 {245}{}{Hallottam, hogy Earl Marionnak dolgozol, helyettes seriffként, amíg õ jobban nem lesz. Ez bizonyára alaposan lefoglal majd egy ideig. Akárhogy is legyen, más neked való munka ebben a városban nem nagyon jut eszembe.}
 {246}{}{Értem. Akkor hadd kérdezzek még, Ascorti polgármester úr!}
-{247}{}{Hé, áruljon még el nekem pár dolgot a bánya tulajdonosairól!}
+{247}{}{Mondjon valamit a bánya tulajdonosairól!}
 {248}{}{Mindenesetre köszönöm, polgármester. Viszlát!}
 {249}{}{Hallottam, hogy nagyon ügyesen kisegítette Marion seriffet. A város egészen elcsöndesedett, mióta segített neki. Momentán semmi olyan nem jut eszembe, ami megfelelne a képességeinek.}
 {250}{}{Köszönet, polgármester! Ez nagyon sokat jelent nekem. Szeretnék más egyébrõl is feltenni pár kérdést.}
-{251}{}{Hé! Mondjon már valamit a bánya tulajdonosairól is!}
+{251}{}{Mondjon valamit a bánya tulajdonosairól!}
 {252}{}{Azért kösz. Na, akkor beletaposok a lábbuszba... Viszlát!}
 {253}{}{Ha jók az értesüléseim, akkor Earl Marion seriff éppen keres valakit, aki kisegítené õt egy kis idõre, amíg a tropára ment lába meggyógyul. Talán vele kellene beszélned. Az irodája innen délre van, az utca túloldalán.}
 {254}{}{Kösz a tippet! De még mielõtt elrohannék, feltennék néhány kérdést.}
@@ -170,7 +169,8 @@
 {268}{}{Köszönöm! De még hadd tudakoljak meg pár információt.}
 {269}{}{Esetleg el kellene sétálnom hozzájuk, és beszélni velük. Kösz, polgármester úr! Viszlát!}
 {270}{}{Az utóbbi idõben kezdtek belassulni az aranyszállítmányok, mert a bányászaink túl sok idõt töltenek a "repkedéssel"... csak úgy nyomják magukba a Jetet.}
-{271}{}{Majdnem az összes bányász több idõt tölt drogozással, mint az arany bányászásával... így az árak megnõttek, az import meg lecsökkent. Ez az egész nem tesz jót az üzletnek.}
+{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
+ are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Mindenki túlságosan el van szállva a Jettõl... ahelyett, hogy megfelelõen dolgoznának! Így még a normális aranykitermelés tizedét sem érjük el, és ezért alaposan meg kellett emelni az árakat. Tarthatatlan!}
 {273}{}{Úgy tûnik, mindenki beszívott egy jó adag Jetet... Az összes Jet-Pilóta durva detoxikációnak van alávetve. Úgy vélem, valami nem stimmel velük. Nem tudom, mi történt velük, de szerintem hamarosan minden jóra fordul.}
 {274}{}{A dolgok már majdnem rendbe jöttek. Mindenki, aki a Jet hatása alatt volt, elkezdett leszokni róla. A bánya termelése és szállítási ütemezésünk hamarosan visszatér a megszokott szintre. Úgy látom, a nehezén már túl vagyunk.}

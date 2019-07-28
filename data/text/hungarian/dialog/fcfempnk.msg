@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy punk csaj.}
 {101}{}{Egy punk csaj.}
 {102}{}{Egy elég csinos, de meglehetõsen cinikus arcifejezésû nõt látsz. }

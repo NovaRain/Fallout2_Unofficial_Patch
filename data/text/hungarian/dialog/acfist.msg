@@ -1,6 +1,6 @@
 {100}{}{Lucas.}
 {101}{}{Lucas a harcosok vezetõje a törzsben.}
-{102}{}{Hát itt vagy, Kiválasztott... Hogy haladsz a küldetéssel?}
+{102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
 {103}{}{Nagyon jól.}
 {104}{}{Nem túl jól.}
 {105}{}{Mi?!}
@@ -18,17 +18,17 @@
 {117}{}{Rendben. Benne vagyok.}
 {118}{}{Sajnos most nincs idõm erre.}
 {119}{}{Már mindent tudsz, amire meg tudnálak tanítani, Kiválasztott. Sok szerencsét a küldetéshez.}
-{120}{}{Ó, rendben.}
+{120}{}{Rendben.}
 {121}{}{Ha! Kiválasztott, nem vagy elég méltóságteljes ahhoz, hogy megtanítsalak bármire.}
-{122}{}{Ó, rendben.}
+{122}{}{Rendben.}
 {123}{}{Nem vagy elég gyors a harcban, így nem tudod megtanulni ezeket a módszereket, Kiválasztott.}
-{124}{}{Ó, rendben.}
+{124}{}{Rendben.}
 {125}{}{Mielõtt bármire is megtudnálak tanítani, többet kell tudnod, öcsi.}
-{126}{}{Ó, rendben.}
+{126}{}{Rendben.}
 {127}{}{Meg tudlak tanítani egy sokkal erõsebb rúgásra. Mindössze egy napig tart.}
-{128}{}{Rendben.}
+{128}{}{Oké.}
 {129}{}{Arra, hogyan verekedj jobban. Mindössze egy napig tart.}
-{130}{}{Rendben.}
+{130}{}{Oké.}
 {131}{}{Jól tanultál, Kiválasztott. Viszlát!}
-{132}{}{Köszönöm a segítséget.}
+{132}{}{Kösz a segítséget.}
 {133}{}{Mindent megtanítottam, amit tudtam, Kiválasztott. Sok szerencsét!}

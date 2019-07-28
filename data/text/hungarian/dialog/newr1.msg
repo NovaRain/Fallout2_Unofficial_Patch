@@ -1,10 +1,9 @@
-# Dialog Editor last position: 83
 {100}{}{Üdvözlet New Renóban, a világ legnagyobb kisvárosában. A hely a kukatüzek és a neonfények pokoli fénykavalkádjában úszik.}
 {101}{}{Elõtted egy sírokkal borított, visszataszító mezõ terül el. A földbõl vérrel borított karók meredeznek ki, rajtuk emberi testek maradványai oszladoznak.}
 {102}{}{Ez a hely egy háború elõtti elektromos feltöltõállomásra hasonlít. Az épületeket lecsupaszított autók temetõje veszi körül.}
 {103}{}{Megérkeztél az Istállóhoz. A két farmszekció bejáratát vadonatúj drótkerítés veszi körül.}
 {150}{}{[ELÕZÕ]}
-{151}{}{[TOVÁBBI LEHETÕSÉG]}
+{151}{}{[TOVÁBB]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
@@ -30,7 +29,7 @@
 {314}{}{Majomgyerek}
 {315}{}{Púpos}
 {316}{}{Kesztyûs}
-{317}{}{Gengsztervezér}
+{317}{}{Gooch}
 {318}{}{Klopfoló}
 {319}{}{Brocco}
 {320}{}{Csupakettes}
@@ -95,13 +94,13 @@
 {379}{}{Kilenc Hüvelykes Nick}
 {380}{}{Esõhozó}
 {381}{}{Király}
-{382}{}{Gyilok}
+{382}{}{Gyilkos}
 {383}{}{Santana}
 {384}{}{Joey}
 {385}{}{Császár}
 {386}{}{Mickey}
 {387}{}{Dekkolós}
-{388}{}{Gyilkos}
+{388}{}{Giuseppe}
 {389}{}{Mészáros}
 {390}{}{Vöröske}
 {391}{}{Rubin}
@@ -133,11 +132,11 @@
 {423}{}{Betonfejû}
 {424}{}{Láncfûrész}
 {425}{}{Helen Wheels}
-{426}{}{Tommy Gunn}
+{426}{}{Nagyágyú Tommy}
 {427}{}{Fekete Özvegy}
 {428}{}{Törõ}
 {429}{}{Delilah}
-{430}{}{Villámkezû }
+{430}{}{Villám}
 {431}{}{Jocco}
 {432}{}{Acélos Nõvérke}
 {433}{}{Szuper Pöröly}
@@ -321,7 +320,8 @@
 {1402}{}{Legyõzted a harmadik kihívottat.}
 {1403}{}{Legyõzted a Húsdarálót!}
 {1404}{}{New Reno nehézsúlyú bokszbajnoka lettél!}
+{1405}{}{You have defeated your last challenger!}
 {1500}{}{Meggyõzted Mrs. Wrightot, hogy a szeszfõzdét meg kell semmisíteni.}
 {1550}{}{Szemtanúja voltál a titkos tranzakciónak.}
 {1600}{}{A Húsdaráló leszakította a füled a harc hevében.}
-{1700}{}{Elragad a düh, és letéped a Húsdaráló fülét.}
+{1700}{}{Enraged, you tear the Masticator's ear off.}

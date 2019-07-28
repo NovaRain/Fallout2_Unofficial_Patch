@@ -31,7 +31,7 @@
 {130}{}{Via!}
 {131}{}{Capito. Cominciamo.}
 {132}{}{Tu e lo scorpione giocherete ad un gioco da me ideato. L'ho chiamato "scacchi". Sei pronto?}
-{133}{}{Ci'!}
+{133}{}{Gi'!}
 {134}{}{Yep. Sono pronto.}
 {135}{}{Io sono il Professore. Eseguo dei test che riguardano l'intelligenza applicata. Ne sto provando qualcuno su questo radscorpione, dopo il mio fallimento con la pianta.}
 {136}{}{Hai sottoposto ai test una pianta?}
@@ -47,8 +47,6 @@
 {146}{}{D'accordo, ti credo. E credo che adesso me ne andro'.}
 {147}{}{Come... come hai potuto uccidere il mio scorpione? Ero cosi' vicino... cosi' vicino...}
 {148}{}{-Allontanati-}
-
-# Agility Test
 {200}{}{Woo hoo! Batti QUESTO, Signor Esoscheletro.}
 {201}{}{Wooooooo Hoooo!}
 {202}{}{Dannazione!}
@@ -58,8 +56,6 @@
 {206}{}{Come tu rompee luchetto co' CHELE?}
 {207}{}{::chitter::}
 {208}{}{Beh, questo e' un pareggio.}
-# The following 4 strings are used in the phrase:
-# "You lose. Scorpion: [SCORE], [Player Name]: [SCORE]."
 {209}{}{Hai perso. Scorpione: }
 {210}{}{, }
 {211}{}{: }
@@ -67,8 +63,6 @@
 {213}{}{Errr?}
 {214}{}{Hai dimostrato di esser agile tanto quanto il radscorpione.}
 {215}{}{Ecco, prendi queste Mentat. Sembra proprio tu ne abbia bisogno.}
-
-# Perception Test
 {300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
 {301}{}{Si', e' giusto.}
 {302}{}{M...U...U...Muu?}
@@ -76,13 +70,11 @@
 {304}{}{::chitter chitter:: ::click clack:: ::chirp (scodinzolio)::}
 {305}{}{Corretto! Bravo ragazzo! Braaaavo ragazzo! La tua conoscenza del codice Morse sta migliorando a vista d'occhio.}
 {306}{}{Hai dimostrato di essere percettivo tanto quanto il radscorpione.}
-
-# Intelligence Test
 {400}{}{Scaccomatto ::click::}
 {401}{}{COSA? Hai barato!}
 {402}{}{Cacatto?}
 {403}{}{Devi accettare la sconfitta.}
-{404}{}{e...scacco matto!}
+{404}{}{And... checkmate!}
 {405}{}{Scaccomatto!}
 {406}{}{::chitter:: Uccide pianta! ::click-clack-click::}
 {407}{}{Hai dimostrato di poter sconfiggere un radscorpione piu' intelligente di te.}

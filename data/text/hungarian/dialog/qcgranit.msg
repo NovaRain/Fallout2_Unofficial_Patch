@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy ember, aki az Enklávé erõpáncélját viseli.}
 {101}{}{Granite õrmester.}
 {102}{}{Egy katonát látsz õrmesteri sráfokkal a vállán.}
@@ -15,7 +14,7 @@
 {113}{}{Mehetsz.}
 {114}{}{Nem láttam semmit.}
 {115}{}{Nem ezeket a droidokat keressük.}
-{116}{}{Mozgás!}
+{116}{}{Eridj tovább!}
 {117}{}{Elegem van már a gyilkolászásból!}
 {118}{}{Gyerünk, tûnj már innen!}
 {119}{}{Csak nyugodtan, fiúk!}
@@ -23,7 +22,7 @@
 {121}{}{Sok szerencsét, mutáns! Szükséged lesz rá!}
 {122}{}{Megállni! Mit csinálsz te itt?}
 {123}{}{Az embereimhez próbálok visszajutni.}
-{124}{}{Semmi közöd hozzá!}
+{124}{}{Semmi közöd hozzá.}
 {125}{}{Nincs idõm most kérdezz-feleleket játszani.}
 {126}{}{Ki a franc vagy te?}
 {127}{}{Hát, tudod, az a szörnyszülött Horrigan, mármint Horrigan ügynök, az imént viharzott el mellettünk. Valakinek ki akarja tekerni a nyakát.}
@@ -37,9 +36,6 @@
 {135}{}{Figyelmeztetni? Mire?}
 {136}{}{Jól van, figyelmeztettél. Viszont engedd meg, hogy én is figyelmeztesselek: eljött a halálod napja, te Enklávés gyökér!}
 {137}{}{Horrigan valami genetikailag összetákolt szörnyeteg, megspékelve egy tonna acéllal. Az Elnök testõre volt régen. Most már legalább a fele gép.}
-#Szovegosszefugges miatt kellett meghuzni az elejet (Bass)
-#200 font acel nagyon kevesnek tunt, mondjuk egy tonna mar jol hangzik a rohadeknak
-
 {138}{}{Hm, ez rosszul hangzik.}
 {139}{}{Rosszabbat is öltem már. Hamarosan csak egy újabb folt lesz a falon.}
 {140}{}{Húúú, nagyon megijesztettél. Fogd be inkább!}
@@ -48,7 +44,7 @@
 {143}{}{Nem szeretek errõl beszélni. Rémálmaim lesznek tõle. Annyit viszont hadd mondjak, hogy a falakat nem csak rozsda borítja azóta.}
 {144}{}{Úgy látszik, nem lesz egyszerû csak úgy elsétálni mellette.}
 {145}{}{Ha, ez az év legjobb optimista dumája. Szánlak, haver, de tényleg.}
-{146}{}{Szóval szánsz? Én még jobban titeket. Az erõmûvetek számítógépe elég ramatyul néz ki, és a reaktor száguld a leolvadás felé. Halottak vagytok, hacsak...}
+{146}{}{Pity me? You should feel bad for yourself. Your power plant's control computer got fried and now you're headed for a meltdown. You're all dead men unless...}
 {147}{}{Kösz, de nem kell. Nektek viszont meg kell halnotok.}
 {148}{}{Eh, elég dolgom van így is. Ti mind úgyis halottak vagytok. Próbáljátok kiélvezni utolsó földi perceiteket. Na, minden jót!}
 {149}{}{Hacsak!?}
@@ -56,7 +52,7 @@
 {151}{}{Áh, hagyjuk. Nincs idõm errõl dumálni. Viszlát!}
 {152}{}{Na, persze. Van még ilyen vicced? Ha a reaktor felrobbant, akkor miért van még mindig világítás? He, okoscsávó? Nincs még ilyen vicced?}
 {153}{}{Ez csak a vészvilágítás. Hé, én láttam, mi történt a reaktorral. Nem elromlott, meghalt. Kész, vége. Én mondom nektek, ti is mind halottak vagytok, hacsak...}
-{154}{}{Nincs idõm errõl vitatkozni. Remélem, jó úszók vagytok. Viszlát!}
+{154}{}{I don't have time to argue about this anymore. Hope you're all strong swimmers. Goodbye.}
 {155}{}{Na, ne mondd már! Röhögnöm kell! Tudod, szerintem elérheted az egy perces álomhatárt Horrigan-nel. Új túlélési rekord lesz, az ám! Sok szerencsét, kicsi mutáns.}
 {156}{}{Nagyon nagylelkû vagy. Szerintem jobb, ha bemelegítek egy kicsit. Rajtad és a csapatodon.}
 {157}{}{Reméljétek, hogy a páncélotok képes lebegni a vízen. Viszlát!}

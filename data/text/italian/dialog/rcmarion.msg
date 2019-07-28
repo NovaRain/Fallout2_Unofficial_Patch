@@ -15,7 +15,7 @@
 {114}{}{Ehila', Ranger. Cosa puo' fare per te lo sceriffo Marion?}
 {115}{}{Come sai che sono un Ranger?}
 {116}{}{Come Sceriffo, e' mio dovere chiederti quali sono i tuoi affari qui in citta'.}
-{117}{}{E' bello essere qui. Sono solo di passaggio, Sceriffo. Ci vediamo. Arrivederci.} ###???Good to be here
+{117}{}{E' bello essere qui. Sono solo di passaggio, Sceriffo. Ci vediamo. Arrivederci.}
 {118}{}{Semplice. Hai un tatuaggio sulla nuca.}
 {119}{}{Non e' vero.}
 {120}{}{Davvero?}
@@ -41,7 +41,7 @@
 {140}{}{Beh, non ero un gran ballerino prima dell'incidente, e immagino che non lo saro' nemmeno dopo. Potrei camminare zoppicando, ma Doc Johnson mi ha consigliato di non farlo, se voglio guarire bene. Quel che e' certo e' che adesso avrei proprio bisogno di un po' di aiuto.}
 {141}{}{Non c'e' molto che possa fare, con la gamba cosi' malridotta. Doc Johnson mi ha proibito di sforzarla ancora per qualche tempo. Come posso aiutarti?}
 {142}{}{E adesso perche' mi disturbi?}
-{143}{}{Chi e' Doc Johnson?}
+{143}{}{Chi e' il dottor Johnson?}
 {144}{}{Serve aiuto, Sceriffo?}
 {145}{}{Quando il gatto non c'e'...}
 {146}{}{Beh, non voglio disturbare oltre. Hai bisogno di riposo. Arrivederci.}
@@ -52,7 +52,7 @@
 {151}{}{Si'... mi servirebbe un po' di aiuto per un paio di faccende. Una specie di part-time. La paga e' molto buona e inoltre faresti una buona cosa per la citta' di Redding.}
 {152}{}{Molto buona? Quanto buona e' "molto buona"?}
 {153}{}{Come posso aiutarti?}
-{154}{}{Come Ranger, non posso che offrire il mio aiuto in questo momento di bisogno.} ###??? I could do no less than help you out in your time of need
+{154}{}{Come Ranger, non posso che offrire il mio aiuto in questo momento di bisogno.}
 {155}{}{Al momento non credo di poterti aiutare, Sceriffo. Magari la prossima volta. Arrivederci.}
 {156}{}{Non mi farei venire delle strane idee, se fossi in te. I tipi come te me li mangio a colazione, gamba o non gamba.}
 {157}{}{Ehi, stavo solo scherzando. Lascia che ti chieda qualcos'altro.}
@@ -61,9 +61,9 @@
 {160}{}{Lo studio del dottore e' nella zona ovest di questo quartiere. E' sempre ben felice di accogliere nuovi pazienti.}
 {161}{}{Capisco. Lascia che ti chieda qualcos'altro.}
 {162}{}{Credo che andro' a fargli visita. Arrivederci, Sceriffo.}
-{163}{}{Tutti noi abbiamo particolare riguardo per il bisogno di legge e ordine. E abbiamo anche qualche preoccupazione a proposito del futuro di Redding.} ###???We all have a respect of the need for law and order
+{163}{}{Tutti noi abbiamo particolare riguardo per il bisogno di legge e ordine. E abbiamo anche qualche preoccupazione a proposito del futuro di Redding.}
 {164}{}{Il futuro di Redding?}
-{165}{}{Il ragionamento fila, dato che sei lo Sceriffo. Ma dimmi: di cosa si occupa lo Sceriffo, qui in citta'?} ###???, what with you being the Sheriff
+{165}{}{Il ragionamento fila, dato che sei lo Sceriffo. Ma dimmi: di cosa si occupa lo Sceriffo, qui in citta'?}
 {166}{}{Certo. Redding non puo' rimanere da sola per sempre. A un certo punto avremo bisogno di un amico. Voglio pero' esser sicuro che l'amico si presenti solo quando ne avremo bisogno. E voglio che sia l'amico *giusto*.}
 {167}{}{Ci sono degli amici sbagliati?}
 {168}{}{Puoi scommetterci. New Reno farebbe semplicemente a pezzi Redding per avere l'oro, mentre Vault City ci terrebbe come cittadini di seconda classe, invece di considerarci dei veri alleati.}
@@ -74,7 +74,7 @@
 {173}{}{Beh, la situazione non e' ancora matura per fare una mossa decisa. Ma faccio sapere alla gente su chi potra' contare quando il tempo sara' giunto. E questo basta... per il momento.}
 {174}{}{Interessante. Lascia che ti chieda qualcos'altro.}
 {175}{}{Hmm, ad ogni modo, e' qualcosa su cui ragionare. Arrivederci.}
-{176}{}{Non riesco a credere che tu abbia usato delle frasi cosi' stereotipate. Devi aver letto troppi fumetti pulp-western. Eccone un'altra per te: hai intenzione di accarezzare il tuo cinturone ed estrarre quella bocca da fuoco, oppure te ne starai li' fermo a fartela sotto?} ###??? You gonna slap leather and draw that smoke wagon, or you just gonna stand there and
+{176}{}{Non riesco a credere che tu abbia usato delle frasi cosi' stereotipate. Devi aver letto troppi fumetti pulp-western. Eccone un'altra per te: hai intenzione di accarezzare il tuo cinturone ed estrarre quella bocca da fuoco, oppure te ne starai li' fermo a fartela sotto?}
 {177}{}{Okay, Sceriffo! In guardia!}
 {178}{}{Ehi, non c'e' bisogno di scaldarsi tanto. Stavo solo scherzando. Vorrei farti qualche domanda.}
 {179}{}{Uh, ehi... era solo uno scherzo. Credo che me la faro' sotto e basta, grazie. Uh, addio, Sceriffo.}
@@ -122,7 +122,7 @@
 {221}{}{Non adesso, Sceriffo. Arrivederci.}
 {222}{}{Hai davvero esagerato con la vedova Rooney. Era solo un'anziana vedova, Cristo Santo. Per quale motivo l'hai uccisa? Ecco i tuoi soldi, ma per il prossimo lavoro faresti meglio a tenere a freno quel tuo grilletto troppo sensibile.}
 {223}{}{Parlami del prossimo lavoro.}
-{224}{}{Non penso di volere un altro lavoro, al momento. Arrivederci, Sceriffo.}
+{224}{}{Al momento non credo di volere un altro lavoro, Sceriffo. Arrivederci.}
 {225}{}{Hai davvero fatto una pessima figura, cercando di fermare quella rissa. Non posso pagarti per qualcosa che non hai fatto nel modo corretto. Tuttavia, ho ancora la gamba mal messa. Sei pronto per un altro lavoro?}
 {226}{}{Parlami del prossimo lavoro.}
 {227}{}{Al momento non credo di volere un altro lavoro, Sceriffo. Arrivederci.}
@@ -133,7 +133,7 @@
 {232}{}{Parlami del prossimo lavoro.}
 {233}{}{Al momento non credo di volere un altro lavoro, Sceriffo. Arrivederci.}
 {234}{}{Non sono sicuro che sbattere in cella ogni singolo minatore della citta' fosse il modo migliore per risolvere quel problema. Pare abbia funzionato, pero'. Ecco i tuoi soldi. Sei pronto per il prossimo lavoro?}
-{235}{}{Mi parli del prossimo lavoro.}
+{235}{}{Parlami del prossimo lavoro.}
 {236}{}{Al momento non credo di volere un altro lavoro, Sceriffo. Arrivederci.}
 {237}{}{Peggio che sculacciare un bambino con un'ascia... Hai davvero esagerato, questa volta. Prenderai soltanto mezza paga per il lavoro. Forse ti insegnera' qualcosa. Per una rissa da bar non dovrebbe morire nessuno. Farai meglio a impegnarti di piu' con il prossimo incarico. Sei pronto?}
 {238}{}{Parlami del prossimo lavoro.}
@@ -151,7 +151,7 @@
 {250}{}{Non dubito che il bastardo che ha accoltellato quella ragazza si meritasse quel che gli hai fatto, ma uccidendolo non ti sei certamente fatto molti amici tra i minatori. Amano cosi' tanto assistere a un bel processo, prima di una impiccagione... Pero', il tuo lavoro l'hai fatto. Ecco i tuoi soldi. Sei pronto per il prossimo incarico?}
 {251}{}{Parlami del prossimo lavoro.}
 {252}{}{Al momento non credo di volere un altro lavoro, Sceriffo. Arrivederci.}
-{253}{}{Tu sai chi e' Frog Morton, no? Beh, vorremmo cacciarlo da Redding. Sarebbe troppo pericoloso permettergli di piazzare il suo covo nei pressi della citta'. Ti daro' 1000$ per andare alla Miniera Grande Wanamingo, subito a ovest del paese, e uccidere Frog e la sua banda. E' un hombre spietato... fa' attenzione.} ###???He's too dangerous to let him
+{253}{}{Tu sai chi e' Frog Morton, no? Beh, vorremmo cacciarlo da Redding. Sarebbe troppo pericoloso permettergli di piazzare il suo covo nei pressi della citta'. Ti daro' 1000$ per andare alla Miniera Grande Wanamingo, subito a ovest del paese, e uccidere Frog e la sua banda. E' un hombre spietato... fa' attenzione.}
 {254}{}{Mi sta bene. Me ne occupo io.}
 {255}{}{Non credo di essere in grado di affrontare un'intera banda. Mi dispiace, questo lavoro non fa per me. Addio.}
 {256}{}{Ce l'hai fatta. Hai ucciso Frog. Ottimo lavoro, ottimo lavoro. Ecco i tuoi 1000$ di ricompensa. Certo, i suoi fratelli non saranno molto contenti quando lo sapranno - ma, diavolo! Fa tutto parte del lavoro.}
@@ -165,13 +165,13 @@
 {264}{}{Ho sentito che i minatori delle miniere Morningstar e Kokoweef stanno per far scoppiare una rissa nel Saloon Malamute di Lou. Ti paghero' 300$ se li fermerai in tempo. Recati subito sul posto. E' dall'altro lato della strada, verso la zona ovest della citta'.}
 {265}{}{Me ne occupo subito, Sceriffo. A dopo.}
 {266}{}{Non credo di voler rimanere coinvolto in una scazzottata. Mi ferisco facilmente. Arrivederci, Sceriffo.}
-{267}{}{Qualcuno ha accoltellato una puttana, giu' al Saloon Malamute di Lou. Il locale si trova sull'altro lato di questa strada. Scopri chi e' stato e sbattilo in galera. Ti paghero' 500$. Una cosa del genere non e' positiva per gli affari. Anzi, non e' positiva per niente.} ###???That kind of thing is bad for business, just bad all the way around
+{267}{}{Qualcuno ha accoltellato una puttana, giu' al Saloon Malamute di Lou. Il locale si trova sull'altro lato di questa strada. Scopri chi e' stato e sbattilo in galera. Ti paghero' 500$. Una cosa del genere non e' positiva per gli affari. Anzi, non e' positiva per niente.}
 {268}{}{Lo prendero', chiunque sia stato. Nessun problema. A presto, Sceriffo.}
 {269}{}{Non fa per me, davvero. Sara' meglio che vada. Addio, Sceriffo.}
 {270}{}{C'e' un bandito, chiamato Frog Morton, che si e' stabilito tra le rovine della Miniera Grande Wanamingo, a ovest della citta'. Voglio che tu lo elimini. Ma sta' attento. E' molto abile e pare che abbia alcuni compari con se'. Ti daro' 1000$ se ci liberi da quel pendaglio da forca.}
 {271}{}{Che razza di nome e' "Frog"?}
 {272}{}{Certamente, Sceriffo.}
-{273}{}{Se devo essere sincero, non e' cosi' che mi piace divertirmi, mon frere. Addio.} ###???Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye
+{273}{}{Se devo essere sincero, non e' cosi' che mi piace divertirmi, mon frere. Addio.}
 {274}{}{Il suo nome e' Morton. Lo chiamano Frog perche' ammazza le persone come mosche. Sei pronto per affrontarlo?}
 {275}{}{Ohhhh. Ouch. Terribile. Pessima, davvero pessima...}
 {276}{}{Lo faro'.}
@@ -185,12 +185,7 @@
 {284}{}{Ehi, hai un lavoro da fare. Torna quando avrai ammazzato quel viscido di Frog.}
 {285}{}{Stavo solo facendo rifornimento. Adesso vado. A presto.}
 {286}{}{Stavo giusto andando, Sceriffo. A presto.}
-# Begin Seraph's Code
 {287}{}{Beh, non so come diamine tu abbia fatto, ma il Malamute Saloon non e' mai stato cosi' tranquillo. Ecco i tuoi soldi. Pronto per il prossimo lavoro?}
-# End Seraph's Code
-
 {300}{}{Questo lavoro potrebbe essere un po' troppo duro per te. Torna quando ci sara' un po' piu' di polvere sui tuoi stivali.}
 {301}{}{Okay, Sceriffo.}
-
-#added by killap
 {302}{}{La sua gamba ha gia' ricevuto tutto le cure mediche possibili. Solo il tempo la guarira' completamente.}

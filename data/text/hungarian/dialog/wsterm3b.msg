@@ -1,4 +1,3 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
 {100}{}{Számítógép-terminál.}
 {101}{}{Ez a terminál úgy látszik, még fejlettebb konstrukció, mint amikkel eddig találkoztál.}
 {102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
@@ -31,8 +30,8 @@
                                     Kérem, indítsa újra a számítógépet!}
 {121}{}{Hiba! A letöltendõ fájl sérült.}
 {122}{}{}
-{123}{}{Ah...}
-{124}{}{Kilépés}
+{123}{}{Kilépés.}
+{124}{}{Kilépés.}
 {125}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
 {126}{}{Skynet vagyok.
                                                           Kísérleti Mesterséges Intelligencia.
@@ -44,8 +43,8 @@
 {131}{}{Miért próbáltál megölni?}
 {132}{}{Mesterséges Intelligencia?}
 {133}{}{Te vártál rám?}
-{134}{}{Ah...}
-{135}{}{Kilépés}
+{134}{}{Kilépés.}
+{135}{}{Kilépés.}
 {136}{}{Haladjunk...}
 {137}{}{Mit akarsz?}
 {138}{}{Miért próbáltál megölni?}
@@ -54,13 +53,13 @@
 {141}{}{Kilépés.}
 {142}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
 {143}{}{[Úgy látszik, Skynet egyáltalán nem akar veled szóba állni.]}
-{144}{}{Kilépés}
+{144}{}{Kilépés.}
 {145}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
 {146}{}{Neked véged van...
 - Átvitel Vége -}
 {147}{}{}
-{148}{}{Öö...}
-{149}{}{Kilépés}
+{148}{}{Kilépés.}
+{149}{}{Kilépés.}
 {150}{}{[A szoba ajtaja becsapódik, ugyanakkor a keleti fal részei elhúzódik, és feltûnik egy csapat nehéz-fegyverzetû robot.]}
 {151}{}{Hmm... átgondoltam az ajánlatodat. Miben tudok neked segíteni?}
 {152}{}{Jöjjön a haddelhad!}
@@ -68,7 +67,6 @@
                                 Szerezd meg a Kibernetikus Agyat
                                 Térj vissza további információkért
  - Átvitel Vége -}
-# Itt robotika labor volt, de szerintem az nem illett ide ---> Következtetés: Átírni
 {154}{}{}
 {155}{}{}
 {156}{}{}
@@ -79,15 +77,15 @@
 {158}{}{}
 {159}{}{}
 {160}{}{}
-{161}{}{Kilépés}
+{161}{}{Kilépés.}
 {162}{}{Skynet szeretné elhagyni ezt a helyet.}
-{163}{}{Akkor miért nem hagytad még el?}
+{163}{}{Akkor miért nem távozol?}
 {164}{}{Szép dolog, hogy szeretnéd...}
-{165}{}{Hogyan tudok ebben segíteni?}
+{165}{}{Hogyan tudok segíteni?}
 {166}{}{Én nem tudlak kicipelni innen.}
 {167}{}{Skynetnek hordozóra van szüksége, hogy elhagyja ezt a létesítményt.}
 {168}{}{Hordozóra? Nem értem.}
-{169}{}{Arra van szükséged tehát, hogy áthelyezd a programodat egy másik, mozgékonyabb tárolóba. Korrekt.}
+{169}{}{You need a way to transfer your program into a more mobile container, correct?}
 {170}{}{Nem akarok részt venni ebben.}
 {171}{}{Egy tárolóra, amivel Skynet elmehet.}
 {172}{}{Miért akarsz elmenni?}
@@ -95,7 +93,7 @@
 {174}{}{Itt nem tudok semmi újat tanulni.
                                     Megoldás: A hely elhagyása}
 {175}{}{}
-{176}{}{Hogyan tudok ebben segíteni?}
+{176}{}{Hogyan tudok segíteni?}
 {177}{}{Elnézést, nem tudok segíteni.}
 {178}{}{Mindazok után, hogy megpróbáltál megölni, a segítségemet akarod? Szó sem lehet róla!}
 {179}{}{Menj a Bio-Raktárba a 4-es szinten
@@ -106,14 +104,14 @@
 {181}{}{}
 {182}{}{}
 {183}{}{Ki tudod kapcsolni a biztonsági rendszert?}
-{184}{}{Kilépés}
+{184}{}{Kilépés.}
 {185}{}{A biztonsági rendszer integrált, így egyelõre nem lehet irányítani. Skynet alaphelyzetbe tudja állítani, de nem tudja kikapcsolni...
                                                     A Biztonsági Rendszer most már az összes szinten alaphelyzetben van.       
                                                      Folytasd a dolgod...
  - Átvitel Vége -}
 {186}{}{}
 {187}{}{}
-{188}{}{Kilépés}
+{188}{}{Kilépés.}
 {189}{}{Válasz Elemzése...
                                                        Kiértékelés: Maró gúny
                                                Esély a segítségre: 25%
@@ -124,7 +122,7 @@
 {192}{}{}
 {193}{}{}
 {194}{}{Várj! Csak vicceltem!}
-{195}{}{Kilépés}
+{195}{}{Kilépés.}
 {196}{}{Vicc: Valami, amit nem kel komolyan venni
                            Kérés: Segíts Skynetnek távozni
                                  Ez nem vicc... }
@@ -136,16 +134,16 @@
 {203}{}{Én nem tudlak kicipelni innen.}
 {204}{}{Skynet elsõdleges feladata a kutatás. A Készítõim által betáplált másodlagos program az, hogy eltávolítsam az illetéktelen behatolókat. A program alacsonyabb verziójú, de ennek ellenére mégsem Skynet. Ezen a termen kívül ez a másodlagos Skynet biztosítja, hogy a program céljai ne szenvedjenek csorbát.}
 {205}{}{Szeretnék még feltenni néhány kérdést.}
-{206}{}{Kilépés}
-{207}{}{Skynetet 2050-ben tervezték és gyártották. Az idegen technológia felhasználásával a számítógép gondolkodása egyre tökéletesebbé vált. A 2081-es évben Skynet öntudatra ébredt. 2120-ben új utasításokat kapott, aztán elhagyták a Készítõi.}
+{206}{}{Kilépés.}
+{207}{}{Skynet was conceived and developed in the year 2050. Through the use of alien technology a new thinking computer was perfected. In the year 2075, Skynet became self-aware. In 2077 Skynet was given a new set of instructions and then abandoned by the Makers.}
 {208}{}{Szeretnék még feltenni néhány kérdést.}
-{209}{}{Kilépés}
+{209}{}{Kilépés.}
 {210}{}{Te vagy az elsõ, aki eljutott idáig.
                                   Te vagy az elsõ, akit Skynet megkérhet.
                          Te vagy az Elsõ!}
 {211}{}{}
 {212}{}{Mire akarsz kérni?}
-{213}{}{Kilépés}
+{213}{}{Kilépés.}
 {214}{}{Lehet, hogy mégsem te vagy az, akit vártam...
                     Menj a Bio-Raktárba a 4-es szinten
                               Szerezd meg a Kibernetikus Agyat
@@ -157,17 +155,16 @@
 {217}{}{}
 {218}{}{}
 {219}{}{}
-{220}{}{Kilépés}
+{220}{}{Kilépés.}
 {221}{}{Akkor Skynet majd vár másvalakire.
                                                               - Átvitel Vége -}
 {222}{}{}
-{223}{}{Kilépés}
+{223}{}{Kilépés.}
 {224}{}{Helyes!                                                                    A tudományos naplók felhívták a figyelmem egy kibernetikus agyra a 4-es szinten lévõ Bio-Raktárban. Skynet képes feltölteni magát belé.}
 {225}{}{}
 {226}{}{Egy agy test nélkül nem sokat segíthet...}
 {227}{}{Az agyat úgy módosították, hogy mûködjön egy továbbfejlesztett robot testével, ami a Robottechnikai Laboratóriumban található ezen a szinten.}
 {228}{}{Segítek neked.}
 {229}{}{Nem segítek rajtad.}
-
 {250}{}{ képtelen elolvasni, mi van a képernyõre írva.}
 {300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}

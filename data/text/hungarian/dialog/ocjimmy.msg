@@ -1,10 +1,9 @@
-# Dialog Editor last position: 84
 {100}{}{Egy magas és szikár embert látsz, vastag szemüveggel az orrán.}
 {101}{}{Õ Jimmy.}
 {102}{}{Egy magas, szikár embert látsz, vastag szemüveggel az orrán. Ahogy magában beszélve elmerül a gondolataiban, homlokát mélyen összeráncolja, és körbe-körbe járkál a szobában.}
 {103}{}{Ó, helló! Jim vagyok, illetve Jimmy. No, mi a helyzet?}
 {104}{}{Én nézni körül.}
-{105}{}{Én }
+{105}{}{Én}
 {106}{}{Öö... Én csak járkálni. Mostan menni el.}
 {107}{}{Csak nézelõdök.}
 {108}{}{Helló, Jim. A nevem}
@@ -25,11 +24,11 @@
 {123}{}{Mit gondolsz a karmokról?}
 {124}{}{Számítógépbe kellje rész. Te tudod hol lenni rész?}
 {125}{}{Én tudni elég. Én menni elfele.}
-{126}{}{Mit csinálsz itt?}
+{126}{}{Mi a munkád?}
 {127}{}{Mire való ez a sok gépezet?}
 {128}{}{Nem ez a Menedék felvigyázói terme?}
 {129}{}{Saját akaratodból vagy itt a Menedékben?}
-{130}{}{Mit gondolsz a halálkarmokról?}
+{130}{}{What do you think about the Deathclaws?}
 {131}{}{Kéne egy alkatrész a számítógépbe. Meg tudnád mondani, hol találom?}
 {132}{}{Azt hiszem, most megyek.}
 {133}{}{Hát... van néhány problémánk a gépekkel, és épp azokat vizsgálom. Sajnos a szoftverekhez jobban értek, mint a hardverekhez.}
@@ -48,7 +47,7 @@
 {146}{}{Oké, de én elõbb kérdezni.}
 {147}{}{Rendben, de elõbb feltennék néhány kérdést.}
 {148}{}{Ez itt a szuper-számítógép és a hozzátartozó kiegészítõ rendszerek. Innen a menedék valamennyi része irányítható.}
-{149}{}{Öö... ér-teem...}
+{149}{}{Öö... ha te mondod.}
 {150}{}{Hm, értem.}
 {151}{}{Ez itt a Menedék-felvigyázó terme, de a 13-as Menedéket teljesen automatizálták.}
 {152}{}{Miért?}
@@ -68,15 +67,15 @@
 {166}{}{Veszélyesek lenni emberre?}
 {167}{}{Szerinted fenyegetést jelentenek az emberi társadalomra?}
 {168}{}{Abszolúte! Sokkal erõsebb testfelépítésûek és a mentális képességeik vetekednek a miénkkel. Ez elég nagy veszélyforrássá teszi õket. A végén úgyis mindenképp a morálnál meg az erkölcsnél kötünk ki. Szerencsére, mindkét tekintetben elég fejlettek.}
-{169}{}{Értem.}
+{169}{}{Én érteni.}
 {170}{}{Ühüm, értem, mire gondolsz.}
 {171}{}{Helló! Örülök, hogy ismét találkoztunk. Miben segíthetek?}
 {172}{}{Kell kérdezni kérdés.}
 {173}{}{Csak köszönni. És menni is.}
-{174}{}{Meg kell kérdeznem valamit.}
+{174}{}{Kérdezni akarok tõled valamit.}
 {175}{}{Csak benéztem.}
 {176}{}{Hát, lássuk csak... A legjobb hely talán Menedékváros lenne, az a legmodernebb város, amirõl tudok. De próbálkozhatsz akár New Renóban is. Közelebb is van, és kereskedik Menedékvárossal.}
-{177}{}{Kösz.}
+{177}{}{Köszi.}
 {178}{}{Kösz, hogy megjavítottad a számítógépet. Mindannyiunkat megmentettél.}
 {179}{}{Jobb dolgom is akad, mint agyonlõni téged, de hát valakinek ezt is meg kell tenni!}
 {180}{}{. Én tesz kérdés?}

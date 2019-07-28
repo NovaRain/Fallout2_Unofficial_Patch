@@ -3,9 +3,9 @@
 {102}{}{Távolbaveszõ pillantása, agymosottakra jellemzõ üdvözült arckifejezése eléggé zavaró lenne, ha nem lenne olyan békés.}
 {103}{}{Üdvözlöm, gyermekem! Maga is a Megvilágosodottak közé tartozik?}
 {104}{}{<Nyáladzol>}
-{105}{}{Hogyne, miért ne?}
+{105}{}{Persze, miért is ne?}
 {106}{}{Hát... én vagyok a Kiválasztott.}
-{107}{}{Nem nagyon értem, hogy mirõl beszél.}
+{107}{}{Öö, nem igazán tudom, mirõl beszél.}
 {108}{}{Szóval maga a szálka Merk szemében...}
 {109}{}{Igen.}
 {110}{}{Nem.}
@@ -15,19 +15,19 @@
 {114}{}{Nin-csen senki.}
 {115}{}{Jó ég, egy újabb egyes szintû, de még a primitív állapotában. Talán egy zéta-szken behangolás segítene. Benne van?}
 {116}{}{Zééé-tta!}
-{117}{}{Ne!}
-{118}{}{Kérem, ne ûzzön gúnyt a Hubológia Egyházából! A magához hasonló elnyomók nehezítik meg mindannyiunk munkáját. Ó, Csillagbéli Atyám, annyira zavartnak érzem magam!}
+{117}{}{Nem!}
+{118}{}{Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
 {119}{}{Kiválasztott? Nem BHK-egy-re gondolt? Milyen forrásokból tanult?}
 {120}{}{Egyszerû. Azért vagyok a Kiválasztott, mivel annak kell lennem.}
 {121}{}{BHK egy?}
 {122}{}{A törzsfõm mondta, hogy az vagyok.}
-{123}{}{Mirõl beszél?}
+{123}{}{Mirõl beszélsz?}
 {124}{}{Nem térhetnénk rá arra a részre, amikor rámlöttyinti a szentelt vizet, vagy valami ilyesmi?...}
 {125}{}{Ó... Szóval, az igaz megértést és a spirituális békét keresi? Segíthetünk...}
 {126}{}{Nem, egy ÉLET-et keresek.}
 {127}{}{Milyen módon akarnak segíteni?}
 {128}{}{Egy rakétavetõ éppen elég spirituális békét nyújt nekem, hölgyem.}
-{129}{}{Itt van az "Igaz megértés"! (A középsõ ujjad határozott felmutatásával adsz nyomatékot a szavaidnak.)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Mit akar?}
 {131}{}{Nagyon egyszerû. Holtan akarja látni magát. Mondjon búcsút az életnek...}
 {132}{}{Nem tudom, mit követett el, de felbérelt, hogy tegyem el magát láb alól.}
@@ -36,7 +36,7 @@
 {135}{}{Maga milyen szintû?}
 {136}{}{Jaj... nem is tudom, miért feltételeztem, hogy látja az aurámat. Elnézést.}
 {137}{}{Jaj... nem is tudom, miért feltételeztem, hogy látja az aurámat. Elnézést.}
-{138}{}{ }
+{138}{}{}
 {139}{}{A Transzcendencia határán vagyok.}
 {140}{}{Ööö... nem udvariatlanság a szintekrõl érdeklõdni?}
 {141}{}{Õszintén! Nem tudom, mit várnak tõlem, ha ilyen perem pépekkel vagyok körbevéve!}
@@ -61,7 +61,7 @@
 {160}{}{Mi ez az elnyomó állapot?}
 {161}{}{Hogy mûködik ez a megtisztítás? Nem fáj?}
 {162}{}{Egyáltalán nem fáj. Csak átesik egy zéta-szkenen. Ha óhajtja, most megcsinálom.}
-{163}{}{Hogyne!}
+{163}{}{Hogyne.}
 {164}{}{Dehogyis!}
 {165}{}{A Hubológia Egyháza azért létezik, hogy felszabadítsa az emberiséget azon láncok alól, mely rabságban tartja a kiteljesedni vágyó spiritualitását.}
 {166}{}{Ezt hogy viszik végbe?}
@@ -71,18 +71,16 @@
 {170}{}{Információra volna szükségem. 13-as Menedék... mond ez magának valamit?}
 {171}{}{Hogy mennek a dolgok mostanában?}
 {172}{}{Ne is törõdjön vele! Nincsenek kemény gondolatok bennem. Ez minden.}
-{173}{}{ }
+{173}{}{}
 {174}{}{Igen!}
-{175}{}{ }
-
-
+{175}{}{}
 {176}{}{Transzcendencia? Õszintén megvallva nem tudom, hogy várják el tõlem az ige hirdetését, ha nem 
 értesítenek a legújabb doktrínákról!?}
 {177}{}{(Folytatás)}
 {178}{}{Maga aludt az betanítás során? Hmm... Maga nem tartozik a Megvilágosodottak közé!}
 {179}{}{Tehát azt állítja, hogy létezik egy magasabb hatalom, aki szándékosan hoz létre bennünket, aztán magunkra is hagy? Nem hiszem, hogy bármely lény ilyen érzéketlen lenne. Jöjjön, ölelje kebelére a Hubológia Egyházát! Hadd mutassuk meg az igaz utat!}
 {180}{}{Miféle igaz utat?}
-{181}{}{Kösz, nem.}
+{181}{}{Kösz nem.}
 {182}{}{Az élete fölötti irányítás híján, mi az élet értelme? Bármit csinál, nem ér semmit. Önszántából kelt fel ma reggel? Nem, maga csak egy bábu, melyet a saját filozófiája rángat. Nálunk, a Hubologista Egyházban megtalálja az igaz választ.}
 {183}{}{Mégpedig?}
 {184}{}{Biztos vagyok benne.}
@@ -98,7 +96,7 @@
 {194}{}{Kiváló! Tessék, a levél. Tehetek még valamit magáért? Egy zéta-szkent esetleg?}
 {195}{}{Szkent? Miért ne?}
 {196}{}{Máris épp eleget tett. Minden jót!}
-{197}{}{Akkor máris túl sokat beszéltem. Viszlát!}
+{197}{}{Then I've spoken too much already. Goodbye.}
 {198}{}{Üdvözlöm! Miben segíthet a Hubológia Egyháza?}
 {199}{}{<Nyáladzol>}
 {200}{}{Szóval maga a szálka Merk szemében...}
@@ -117,8 +115,7 @@
 {213}{}{A templom zárva van. Jöjjön vissza holnap!}
 {214}{}{Szíves örömest segítenék, de még egy BHK-4-nek is kell aludnia. Jöjjön vissza napközben!}
 {215}{}{Behatoló! Meg akarja szentségteleníteni ezt a helyet? Kifelé!}
-
 {216}{}{Csodálatos, nõvérem! Tehát milyen szinten van?}
-{217}{}{ }
+{217}{}{}
 {218}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
-{219}{}{ TP-t kaptál.}
+{219}{}{ experience points for "taking care of" the Hubologist for Merk.}

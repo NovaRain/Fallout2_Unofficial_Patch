@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ a Wrighték egyik fia.}
 {101}{}{Õ a Wrighték egyik lánya.}
 {150}{}{A fiatalember arcán dühös kifejezés ül. Próbál nagyon kemény legénynek látszani.}
@@ -15,9 +14,7 @@
 {202}{}{::Fütyül::}
 {203}{}{[Énekel egy részt a Mad Max 3-ból.] "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Hé! }
-{1204}{}{! Nem semmi, ahogy az Enklávét seggbe rúgtad... öö, fenékbe!}
 {205}{}{Szuperül lezúztad az Enklávét, }
-{1205}{}{. Ehhez aztán kellett bátorság.}
 {206}{}{Valószínûleg keményebb vagy, mint Tökös Tomi, hogy úgy letörted az Enklávé szarvát.}
 {207}{}{Azok az Enklávés fickók aztán jó nagy barmok lehettek.}
 {208}{}{Egy új VIRUST akartak a levegõbe nyomni? Rohadékok! Remélem, egy párat az én nevemben lõttél le.}
@@ -28,24 +25,18 @@
 {213}{}{New Renót Chris Avellone tervezte és Tom French szkriptelte. Tom egy zenekarban játszik, Chris meg magával játszik.}
 {214}{}{Remélem, hogy a Fallout 3-ban fõszereplõ leszek, mint például Tandi vagy Ian. Bûnözõket játszani tök gyíkság.}
 {215}{}{Hallottam, hogy lenyomtad délen az Enklávét. Ez bizony elég bátor tett volt!}
-{225}{}{Hogy mész a fürdõszobába, ha rajtad van az a vacak?}
+{225}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
 {230}{}{Ne hadonássz azzal a fegyverrel a gyerekek elõtt, oké?}
 {231}{}{Ne villogj azzal a fegyverrel a gyerekek elõtt, oké?}
 {235}{}{A lopakodásoddal majd a frászt hoztad rám!}
 {236}{}{Hova osongatsz ilyen bõszen?}
 {237}{}{Hé! Ne akarjál már köddé válni... majdnem lelõttelek az isten szerelmére! A franc esne beléd!}
-{240}{}{Mizújs, }
-{1240}{}{. Mi járatban?}
+{240}{}{Na, mi van, }
 {241}{}{Fene meleg van, mi, }
-{1241}{}{?}
-{242}{}{Mizújs, }
-{1242}{}{. Hogy mennek a dolgok?}
-{245}{}{Idejött egy }
-{1245}{}{! Fegyver van nála, vigyázzatok! Hívjátok a többieket!}
-{250}{}{Idejött egy }
-{1250}{}{! Fegyver van nála, vigyázzatok! Hívjátok a többieket!}
-{255}{}{Idejött egy }
-{1255}{}{! Ott lopakodik, vigyázzatok! Hívjátok a többieket!}
+{242}{}{Na, mi van, }
+{245}{}{Itt egy }
+{250}{}{Itt egy }
+{255}{}{Itt egy }
 {260}{}{Tûnés innen, mielõtt kilyuggatjuk az irhádat!}
 {261}{}{Húzz el innen! Neked meg a családodnak nem ajánlott ide jönni!}
 {265}{}{Dobd el a fegyvered, hajcsár, különben lelövünk!}
@@ -56,18 +47,18 @@
 {280}{}{Minek lopakodsz te itt? Golyót akarsz a hátadba?}
 {281}{}{Mi a szarn... öö... fenének lopakodsz te itt? Azt akarod, hogy lelõjünk?}
 {285}{}{Az ott valami pénzbedobós automata a nyomodban?}
-{286}{}{Az ott egy robot pénznyerõ automata?}
+{286}{}{Az ott nem egy robot pénznyelõ automata?}
 {287}{}{Abban a robotban igazi agy van? Atyám!}
 {288}{}{Az ott valamiféle guruló agytárló ott melletted?}
 {289}{}{Az egy robot? Ilyet még sosem láttam korábban.}
-{295}{}{Mondd, hogy az ott nem egy mutáns!}
+{295}{}{Jól látok? Az ott egy mutáns?}
 {296}{}{Az ott egy mutáns?}
 {297}{}{Szent brahminfos! Mutánsok New Renóban! Jót nem jelent, az biztos...}
-{298}{}{Az a mutáns jó nagy májer gyerek.}
+{298}{}{Az a mutáns egy jó nagy kib...}
 {299}{}{Remélem, a mutáns barátod visszafogja magát, hallod-e!}
 {305}{}{Mit akarsz?}
 {306}{}{Segítsek valamiben?}
-{307}{}{Marha meleg van...}
+{307}{}{Damn hot...}
 {308}{}{New Reno napról-napra szarabb hely...}
 {309}{}{Mi dolgod neked itt?}
 {310}{}{Ha piát akarsz, menj el az északi részen lévõ vasútállomásra... itt nem árulunk ugyanis.}
@@ -78,9 +69,8 @@
 {323}{}{Na, hiszen, egy sétáló hûtõgép. Mára megvolt a nap látványossága.}
 {324}{}{Autómosót keresel?}
 {325}{}{Úgy nézel ki, mintha egy csatarobotos játékból szalajtottak volna. Ez a Fallout 2. Nem lehet, hogy rossz könyvtárat nyitottál meg a vinyódon?}
-{326}{}{Hogy mész fürdeni, ha rajtad van az az izé?}
+{326}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
 {335}{}{Hogy vagy, }
-{1335}{}{? Nem kötött beléd senki a városban?}
 {336}{}{Örülünk, hogy a család tagja lettél, ööö, annak ellenére, hogy nem vagy született családtag. Ööö... na hagyjuk...}
 {337}{}{Azt beszélik, Tökös Tomi visszajött a városba. Jobb lesz vigyázni!}
 {338}{}{Mi Wrightok vagyunk a legerõsebb család, ugyanis ez egy IGAZI család.}
@@ -88,15 +78,14 @@
 {340}{}{Apu azt mondta, hogy a saját kezével fojt meg minket, ha megtudja, hogy Jetezünk.}
 {341}{}{Apu még mindig lelkibeteg, szóval vigyázz, hogy mit mondasz neki, hallod-e!}
 {342}{}{Chris jól megkapja majd a magáét, ha folyton kurvázni jár.}
-{343}{}{Marha meleg van...}
+{343}{}{Damn hot...}
 {344}{}{Nem láttuk a mamit már egy ideje. Ha meglátod õt, ne említsd neki a szeszfõzdét, oké?}
 {345}{}{Keith szétszedte a zongorát a múlt héten, aztán össze is rakta. Ügyes gyerek.}
-{346}{}{Néhány nap múlva radskorpió vadászatra megyünk...}
+{346}{}{We're going huntin' for radscorpions again in a few days.}
 {347}{}{Ha piát akarsz, menj el az északi részen lévõ vasútállomásra... itt nem árulunk ugyanis.}
 {348}{}{Vigyázz a gyerekekkel! Folyton itt lábatlankodnak.}
 {349}{}{Meg tudsz tanítani a bunyóra?}
 {350}{}{Te vagy az a bunyós, }
-{1350}{}{, ugye? Jó vagy a ringben! A legjobb, akit valaha láttam errefelé.}
 {351}{}{Jól verekszel. Beszélned kéne apuval... öö, a fõnökkel, hátha tud munkát adni.}
 {352}{}{Elkelne nálunk egy tökös segítség. Talán érdekelhet téged a dolog...}
 {353}{}{Mikor lesz a következõ meccsed?}
@@ -114,9 +103,9 @@
 {368}{}{Apu azt mondta, hogy a saját kezével fojt meg minket, ha megtudja, hogy Jetezünk.}
 {369}{}{Apu még mindig lelkibeteg, szóval vigyázz, hogy mit mondasz neki, hallod-e!}
 {370}{}{Chris jól megkapja majd a magáét, ha folyton kurvázni jár.}
-{371}{}{Pokoli meleg van...}
+{371}{}{Damn hot...}
 {372}{}{Keith szétszedte a zongorát a múlt héten, aztán össze is rakta. Ügyes gyerek.}
-{373}{}{Néhány nap múlva radskorpió vadászatra megyünk...}
+{373}{}{We're going huntin' for radscorpions again in a few days.}
 {374}{}{Te TÉNYLEG Istennel beszélsz, amikor szexelsz a színpadon?}
 {375}{}{Mami azt mondja, hogy te az ördög eszköze vagy.}
 {376}{}{Mami szerint te egy ringyó vagy. Egy szemérmetlen cafka. Nem tudom, mit akar ezzel.}
@@ -126,7 +115,7 @@
 {390}{}{Jobb, ha továbbállsz... mi nem nagyon szíveljük a hajcsárokat.}
 {391}{}{Ne is reménykedj abban, hogy itt bárkit is be tudsz fogni! Ha balhézol, kinyúvasztunk!}
 {392}{}{Tartsuk meg a távolságot, hajcsár! Ha üzleti ügyed van apuval, eredj és intézd el vele!}
-{393}{}{Nehogy legyen nálad drog, különben apu kicsinál! Utána én is kicsinállak!}
+{393}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {394}{}{Figyellek, hajcsár, szóval jól gondold meg, mit csinálsz, hallod-e!}
 {395}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, úgy belédlövök, hogy elszállsz a cipõdbõl!}
 {396}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, megöllek!}
@@ -136,7 +125,7 @@
 {410}{}{Jobb, ha olajra lépsz... ne haragudj, de apu nem nagyon csípi a törzsbélieket.}
 {411}{}{Meg se forduljon a fejedben, hogy bajt keverj! A Wright család akkora túlerõben van, hogy... ööö... szóval sokszoros túlerõben van.}
 {412}{}{Tartsuk meg a távolságot! Ha üzletelni akarsz, tedd, aztán lépj le!}
-{413}{}{Nehogy legyen nálad drog, különben apu kicsinál! Aztán én is kicsinállak!}
+{413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {414}{}{Figyellek, szóval jól gondold meg, mit csinálsz, hallod-e!}
 {415}{}{Honnan jöttél? Ilyeneket, mint te, már régóta nem láttam minálunk.}
 {416}{}{Ha piát akarsz, menj el az északi részen lévõ vasútállomásra... itt nem árulunk ugyanis.}
@@ -145,3 +134,13 @@
 {425}{}{Annak a ghoulnak kívül tágasabb! Küldd vissza Gekkóba, ahova való!}
 {426}{}{Jobb lenne, ha távol tartanád azt a ghoult a gyerekektõl! Még a végén sugárfertõzést kapnak.}
 {427}{}{Azt ajánlom, hogy a ghoul barátoddal együtt menjetek innen, mielõtt baj lesz!}
+{1204}{}{! Nem semmi, ahogy az Enklávét seggbe rúgtad... öö, fenékbe!}
+{1205}{}{. Ehhez aztán kellett bátorság.}
+{1240}{}{. Mi járatban?}
+{1241}{}{?}
+{1242}{}{. Hogy mennek a dolgok mostanában?}
+{1245}{}{! Fegyver van nála, vigyázzatok! Hívjátok a többieket!}
+{1250}{}{! Fegyver van nála, vigyázzatok! Hívjátok a többieket!}
+{1255}{}{! Ott lopakodik, vigyázzatok! Hívjátok a többieket!}
+{1335}{}{? Nem kötött beléd senki a városban?}
+{1350}{}{, ugye? Jó vagy a ringben! A legjobb, akit valaha láttam errefelé.}

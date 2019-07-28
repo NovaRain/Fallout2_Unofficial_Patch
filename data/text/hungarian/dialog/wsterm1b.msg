@@ -1,7 +1,6 @@
-# !!! Figyelem a következõ sorok megváltoztatása eltájolja a játékban a többi sort !!!
 {100}{}{Számítógép-terminál.}
 {101}{}{A képerernyõkímélõ aktív.}
-{102}{}{Nem tudod elolvasni, mi van a képernyõn.}
+{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
 {103}{}{Skynet Biztonsági Rendszer
                                         Betolakodó az 1. Szinten
                                         Ellenintézkedések Aktiválása az 1. Szinten
@@ -16,7 +15,7 @@
                                              Ellenintézkedések Aktiválása az 1. Szinten}
 {106}{}{1. Szint Riasztásának Vége - Téves Riasztás}
 {107}{}{[Felfedezel egy "Súgó" feliratú billentyût a klaviatúrán]. Megnyomod.}
-{108}{}{Feltöröd a Biztonsági Rendszert}
+{108}{}{Feltöröd a védelmi rendszert}
 {109}{}{Kilépés}
 {110}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre]}
 {112}{}{Skynet Biztonsági Rendszer
@@ -41,7 +40,6 @@
                            Engedélyezve
                                                           Riasztó Rendszer Leállítása - 1. Szint}
 {126}{}{[Egy ilyen vacak biztonsági rendszerrel nem csoda, hogy felrobbantották magukat.] Kilépés}
-# ezt ki kell javítani!
 {127}{}{[Felbukkan egy menü]
                                                   1. - A Riasztó kikapcsolása
                                          2. - A Diagnosztikai ellenõrzés bekapcsolása
@@ -51,7 +49,7 @@
 {130}{}{A Kilépést választod, és megnyomod a 3-as gombot }
 {131}{}{Figyelem! Ez a program akkor mûködik a leghatásosabban, ha ön minden programot bezár. Biztosan szeretné most futtatni?}
 {132}{}{Igen}
-{133}{}{Nem}
+{133}{}{Nem.}
 {134}{}{Kilépés}
 {135}{}{===Az Összes Program Bezárása===
                                 Skynet Biztonsági Program bezárása - 1. Szint
@@ -69,7 +67,5 @@
 {139}{}{Illetéktelen hozzáférés
                                             Biztonsági Kizárás elindítása a terminálon
                   Felhasználói hozzáférés ehhez a terminálhoz MEGTAGADVA}
-# ha valakinek van ilyen állásról mentése, akkor írjon: mig21@freemail.hu
 {140}{}{Kilépés}
-
 {200}{}{A Számítógép Diagnosztikai Módban van. Kérem, várjon, amíg a Diagnosztikai Program futása befejezõdik!}

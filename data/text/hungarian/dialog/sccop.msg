@@ -1,6 +1,5 @@
-# Dialog Editor last position: 2
 {100}{}{Ez a személy az ÚKK rendõrségének egyenruháját viseli.}
-{101}{}{Egy zsaru.}
+{101}{}{It's an NCR cop.}
 {102}{}{Elnézve ezeket az arcokat, nem számíthatsz túl sok kegyelemre.}
 {103}{}{Tegye el a fegyverét - MOST AZONNAL!}
 {104}{}{A szabályzat tiltja a fegyverviselést a városban. Tegye el azonnal!}

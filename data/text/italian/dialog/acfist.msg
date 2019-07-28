@@ -30,5 +30,5 @@
 {129}{}{Posso insegnarti a combattere meglio. Ci occorrera' un giorno intero.}
 {130}{}{Okay.}
 {131}{}{Hai imparato bene, Prescelto. Possa spingerti il vento.}
-{132}{}{Grazie per l'aiuto.}
+{132}{}{Grazie dell'aiuto.}
 {133}{}{Ti ho insegnato tutto quello che so, Prescelto. In bocca al lupo per la tua missione.}

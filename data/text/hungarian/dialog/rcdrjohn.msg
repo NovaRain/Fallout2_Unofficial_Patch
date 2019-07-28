@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy sovány, ideges kinézetû férfit látsz.}
 {101}{}{Õ "Nemfáj" Johnson doki, Redding körzeti orvosa.}
 {102}{}{Hullasápadt, feldúltnak tûnõ fickó, aki kigúvadt szemekkel tekint rád.}
@@ -25,12 +24,12 @@
 {123}{}{50 dollár lesz, hogy kifogástalan állapotba tudjalak hozni.}
 {124}{}{Mindössze 50 dollárba kerül a társad meggyógyítása. Fittebb lesz, mint ifjú korában, ezt megígérhetem.}
 {125}{}{Itt a pénz, doki.}
-{126}{}{Azt hiszem, most ennyit nem tudok érte kifizetni. Sajnálom, doki... talán majd máskor.}
+{126}{}{Az az érzésem, most nem tudok ennyit kipengetni. Sajna, doki... majd máskor... talán.}
 {127}{}{50 dolcsi? Esetleg ráérne késõbb is... Viszlát, doki!}
 {128}{}{Tudod mit? Tekintettel arra, hogy a csapatodban többen is le vannak sérülve, adok némi kedvezményt. Mindössze 100 dollárért az egész gárdát meg tudom gyógyítani.}
 {129}{}{Fogd a pénzt, doki! Gyógyíts meg minket!}
 {130}{}{Van egy olyan érzésem, hogy most nem tudunk ennyit fizetni neked. Bocsi, doki. Talán majd máskor...}
-{131}{}{100 dolcsi? Azt hiszem, érdemes lenne kicsit késõbbre halasztani. Viszlát, doki!}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
 {132}{}{Úgy látom, nem vagy valami jó színben. Akármi is a bajod, 100 dollárért meggyógyítalak. Tegyünk egy próbát?}
 {133}{}{A haverjaid szörnyen néznek ki. Úgy vélem, 100 dollárért minden bajuktól meg tudnám szabadítani õket. Megér neked egy próbát?}
 {134}{}{Remélem, hogy ez nem csak próba lesz, doki! Tessék, fogd a pénzed!}
@@ -84,7 +83,7 @@
 {182}{}{Az utóbbi idõben a bányászok mást sem csinálnak, csak belövik magukat. Aranyat már rég nem bányászik senki. Tartok tõle, hogy hamarosan New Reno fogja uralni ezt a várost. A leghõbb vágyam, hogy valamilyen módon megszüntethessük ezt a Jet-függõséget.}
 {183}{}{Mi köze van ehhez New Renónak?}
 {184}{}{Honnan érkezik a Jet?}
-{185}{}{Értem. Kérdeznék még valami mást is.}
+{185}{}{Értem. Szeretnék még néhány kérdést feltenni.}
 {186}{}{Kösz az infót! Még látjuk egymást, doki. Viszlát!}
 {187}{}{Üdvözlet! A nevem "Nemfáj" Johnson doki. Mit tehetek érted?}
 {188}{}{Ezúttal miben segíthet neked a jó öreg Johnson doki?}
@@ -120,7 +119,8 @@
 {218}{}{Nem igazán. Szerintem õk már úgy megszokták, hogy a nagy csomagok tartalmát én töltögetem át az ampullákba, hogy meg sem fordult a fejükben, hogy másképp is lehetne. Már jó ideje csinálom ezt, és az orvos is elég régóta én vagyok itt.}
 {219}{}{Örülök, hogy nem keveredtél semmilyen slamasztikába. Hadd kérdezzek még valami mást is, doki!}
 {220}{}{Aha. Fogadok, hogy a dolgok sokkal csúnyábbra is fordulhattak volna, ha valaha is megneszelik. Na, akkor minden jót, doki!}
-{221}{}{Nos, mindenki szakítani akar magának a reddingi aranyból. Így vagy úgy, valaki mindig irányítani fog bennünket. Én csak azt szeretném, hogy olyan vezetõnk legyen, aki a legtöbbet teszi Reddingért.}
+{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
+ by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
 {222}{}{És mit gondolsz, ki lehetne az?}
 {223}{}{Ahogyan én látom a dolgokat, Redding Menedékvárossal járna a legjobban. Onnan származom - talán elfogult is vagyok emiatt - de én valóban úgy gondolom, hogy a legtöbbet Menedékváros tehetné Redding polgáraiért.}
 {224}{}{Hogyhogy?}
@@ -142,7 +142,7 @@
 {240}{}{Hmmm... kösz! Viszlát, doki!}
 {241}{}{Troy doktor? Õt ismerem! Hihetetlenül tehetséges orvos. Dolgoztam vele együtt, amikor Menedékvárosban voltam. Mesélj nekem errõl az ellenszerrõl!}
 {242}{}{Dolgoztál Menedékvárosban?}
-{243}{}{Dr. Troy azt mondta, hogy hozzam el neked az ellenszert, és te majd tudni fogod, mit kell vele tenned.}
+{243}{}{Dr. Troy csak annyit mondott, hogy hozzam el neked az ellenszert, és a többit majd tudni fogod.}
 {244}{}{Igen, ott tanultam a szakmát. Én menedékvárosi polgár vagyok. Rájöttem, hogy rengeteg hely van a világon, ahol nagyobb szükség van az orvosi képzettségemre, mint Menedékvárosban. Így most itt vagyok. Akkor térjünk vissza az ellenszerre...}
 {245}{}{Dr. Troy csak annyit mondott, hogy hozzam el neked az ellenszert, és a többit majd tudni fogod.}
 {246}{}{Igen, tudom is. Akkor add ide, kérlek!}
@@ -163,7 +163,7 @@
 {261}{}{Nos, akkor legyen így... Ide azt a 2000 dolcsit! Cserébe pedig itt az ellenszer, doki!}
 {262}{}{Majd meglátjuk... Viszlát, doki!}
 {263}{}{Ismerem McClure-t. Õ Menedékváros tanácsának egyik tagja. Mit mondott neked?}
-{264}{}{Azt, hogy a bányák termelése csökken, az arany ára meg csak szökik felfelé.}
+{264}{}{Arról, hogy a bányákban csökken a termelés, míg az arany ára egyre csak növekszik.}
 {265}{}{Nem vagyok meggyõzõdve arról, hogy feltétlenül el kellene árulnom neked.}
 {266}{}{Csakugyan?... És mirõl szólnak a pletykák?}
 {267}{}{Arról, hogy a bányákban csökken a termelés, míg az arany ára egyre csak növekszik.}
@@ -199,23 +199,33 @@
 {297}{}{Ha lehet hinni az olvasmányaimnak, a Dermális Páncélzat 5%-os ellenállást nyújt a normális és a robbanás okozta sérülések ellen - az általad éppen viselt páncél védõértékén felül. A beavatkozáshoz két nap kell, egy harci páncél (az alkatrészekhez), és 5.000 dollárt fogok kérni érte. A procedúra meglehetõsen egyszerû... szerintem. Hmm, még egy karcolást sem fogsz szenvedni.}
 {298}{}{Ez nagyon jól hangzik, dokikám! Csapjunk bele a lecsóba! Egyszerûen ki nem állhatom, hogy folyton lelõnek, szétszúrkálnak meg felrobbantanak.}
 {299}{}{Hadd érdeklõdjek a többi beavatkozásról is, doki.}
-{300}{}{Visszajövök, ha több pénz lesz nálam, doki... Addig is, viszlát!}
-{301}{}{Ha sikerül elõkerítenem valahonnan egy harci páncélt, visszanézek, doki. Viszlát!}
-{302}{}{Úgy érzem, nem akarom igazán végigcsinálni ezt az egészet. Viszlát, doki!}
+{300}{}{Doki, ha több pénzem lesz, visszanézek. Viszlát!}
+{301}{}{Amint sikerült elõbányásznom egy harci páncélt, rögvest repülök vissza hozzád, doki! Viszlát!}
+{302}{}{Kötve hiszem, hogy ezeket hallván bevállalom ezt a mûtétet. Viszlát, doki!}
 {303}{}{A rohamváltozathoz elõször is rendelkezned kell a Dermális Páncéllal. Elmondom, mire számíthatsz. A rohamváltozat összeségében további 10%-os ellenállást ad minden normális és robbanás okozta sérülés ellen - annak a páncélzatnak a védõértékén felül, amit épp viselsz. A beavatkozás eltart majd néhány napig, és 30000 dollárodba fog kerülni. Ráadásul, ha végeztünk, többé nem leszel túl vonzó ember. A bõröd alá bezsúfolt merevítõlemezektõl feltûnõen szögletesnek fogsz majd kinézni, amolyan modern módra. Vannak, akik nem szeretik az új autók kinézetét... szóval a függõleges vezérsíkot megpróbálom kihagyni...}
-{304}{}{A Dermális Páncélzat rohamváltozata összeségében további 10%-os ellenállást ad minden normális és robbanás okozta sérülés ellen - mindazon az értéken túl, amit a már épp rajtad levõ páncélzat nyújt. A beavatkozás eltart majd néhány napig, és 30000 dollárodba fog kerülni. Ráadásul, ha végeztünk, többé nem leszel túl vonzó ember. A bõröd alá bezsúfolt merevítõlemezektõl feltûnõen szögletesnek fogsz majd kinézni, amolyan modern módra. Vannak, akik nem szeretik az új autók kinézetét... szóval a függõleges vezérsíkot megpróbálom kihagyni...}
+{304}{}{The Assault Enhancement of the Dermal Impact Armor should give you a total of 10% resistance to
+ normal and explosive damage - over and above any other armor you're wearing. The operation takes a few
+ days and it'll cost you $30,000. In addition, you're not going to be too charismatic after I finish.
+ Cramming all those impact plates under your skin is going to make you look pretty damn angular, but in
+ a very streamlined way. But who doesn't like the way a new car looks - I'll try not to give you tail-fins.
+ Ready to begin?}
 {305}{}{Ez remekül hangzik, doki! Kezdjünk neki! Mindig és mindenhol harcra kész akarok lenni, akárhogy is nézek ki.}
 {306}{}{Hadd érdeklõdjek a többi beavatkozásról is, doki.}
-{307}{}{Jobb lesz, ha csak akkor jövök vissza, ha már lesz rá elég pénzem, doki. Viszlát!}
-{308}{}{Majd visszajövök, ha elõkerítettem egy harci páncélt, doki. Viszlát!}
-{309}{}{Azt hiszem, meggondoltam magam. Nem kívánom végigcsinálni. Viszlát, doki!}
+{307}{}{Doki, ha több pénzem lesz, visszanézek. Viszlát!}
+{308}{}{Amint sikerült elõbányásznom egy harci páncélt, rögvest repülök vissza hozzád, doki! Viszlát!}
+{309}{}{Kötve hiszem, hogy ezeket hallván bevállalom ezt a mûtétet. Viszlát, doki!}
 {310}{}{A beszámolók szerint a Fõnixvért-beültetés 5%-os ellenállást ad a különbözõ hõ-okozta (tûz, lézer és plazma) sérülések ellen, annak a páncélzatnak a védõértékén felül, ami épp rajtad van. Az operáció néhány napot vesz igénybe, kell egy Harci páncél (a hõelnyelõ membránok miatt) és 8000 dollárt fogok kérni érte. Nem kell aggódni. Az operáció alig fog meglátszani. Legalábbis, ha hihetünk a leírásoknak.}
 {311}{}{Ez tetszik, doki. Ezentúl már nem kell aggódnom a napernyõ miatt.}
 {312}{}{Hadd érdeklõdjek a többi beavatkozásról is, doki.}
-{313}{}{Úgy látszik, érdemes lesz akkor visszajönnöm, doki, ha már van pénzem. Viszlát!}
-{314}{}{Doki, amint kerítettem valahonnan egy harci páncélt, visszajövök. Viszlát!}
-{315}{}{Úgy érzem, jelen pillanatban nincs szükségem erre a beavatkozásra. Viszlát, doki!}
-{316}{}{A rohamváltozathoz elõször is rendelkezned kell a Fõnixvért-beültetéssel. Elmondom, mire számíthatsz. A rohamváltozat összességében további 10%-os ellenállást ad minden hõ-okozta (tûz, lézer és plazma) sebesülés ellen - annak a páncélzatnak a védõértékén felül, amit épp viselsz. A beavatkozás eltart majd néhány napig, és 48000 dollárodba fog kerülni. Ráadásul, ha végeztünk, többé nem leszel túl vonzó ember. A bõröd alá felhalmozott hõeloszlató hártyáktól egy kicsit púpos leszel, olyanformán, mint egy szilveszteri sonkás szendvics... }
+{313}{}{Doki, ha több pénzem lesz, visszanézek. Viszlát!}
+{314}{}{Amint sikerült elõbányásznom egy harci páncélt, rögvest repülök vissza hozzád, doki! Viszlát!}
+{315}{}{Kötve hiszem, hogy ezeket hallván bevállalom ezt a mûtétet. Viszlát, doki!}
+{316}{}{You need to have the Phoenix Armor Implants before I can give you the Assault Enhancement. But
+ I'll tell you what it should do. The Assault Enhancement should give you a total of 10% resistance to
+ thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The operation
+ takes a few days and it'll cost you $48,000. In addition, you're not going to be too charismatic after
+ I finish. Layering all those thermal dissipaters under your skin is going to make you look a bit lumpy,
+ sort of like an overstuffed burrito.}
 {317}{}{A Fõnixvért-beültetés rohamváltozata összességében 10% ellenállást ad bármilyen hõ-okozta (tûz, lézer és plazma) sérülés ellen - annak a páncélzatnak a védõértékén felül, ami épp rajtad van. Az operáció egy-két nap alatt lezavarható és 48000 dollárba kerül. Viszont ha végeztünk, többé nem leszel túl vonzó ember. A bõröd alá ültetett számos hõeloszlató hártyától egy kicsit púpos leszel, olyanformán, mint egy szilveszteri sonkás szendvics... Belevágjunk?}
 {318}{}{Ez ragyogóan hangzik, doki! Adjunk neki!}
 {319}{}{Hadd érdeklõdjek a többi beavatkozásról is, doki.}
@@ -225,6 +235,9 @@
 {323}{}{Na, megvagyunk! A mûtét sikerült. Többet már nem kell annyira aggódnod az ütõdések és zúzódások miatt. A számos duzzanat meg az érzékenység napokon belül megszûnik.}
 {324}{}{Nem is gondoltam volna, hogy a bõröd ilyen sok merevítõlemezt képes magába fogadni. Most már készen állsz a harcra. Nem csak úgy nézel ki, mint Frankenstein, de keménységben és szívósságban is hozod a formáját. Ööö... amíg a varratok ki nem jönnek, lehetõleg ne maradj túl sokáig a napon.}
 {325}{}{Sokkal jobban sikerült, mint ahogy sejteni lehetett. A beültetett Fõnixvért sokkal jobban beilleszkedett a szervezetedbe, mint egyáltalán reméltem. Az égetõ és viszketõ érzés valószínûleg pár héten belül elmúlik... amint a szervezeted hozzászokik a hártyákhoz.}
-{326}{}{Lábadozunk, lábadozunk? Zsúfolásig meg vagy tömve hõeloszlató és hõleadó hártyákkal. Néhány héten belül már nem fogsz olyan púposnak hatni, de szépségversenyen azért ne indulj, ha nem akarsz csalódni. A gennyedzés teljes elmúlásáig meg ne próbáld a drain-bemetszések környékén lévõ varasodást lekaparni.}
+{326}{}{Coming around, are we? You're just jam-packed with thermal-dissipaters and dissipative membranes.
+ You won't look quite so lumpy in a few weeks, but you won't be winning any beauty pageants again,
+ either. Try not to pick at the pus-crusts near the drainage incisions until they stop suppurating.}
 {327}{}{Kösz a tanácsot, doki! Ez marha jó! Mit szólnál lazításképp egy-két kérdéshez?}
 {328}{}{Köszönöm a mûtétet, doki! Most már jobb lesz, ha indulok. Viszlát!}
+{329}{}{You deliver the Jet antidote to Dr. John.}

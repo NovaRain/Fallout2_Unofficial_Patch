@@ -2,5 +2,4 @@
 {101}{}{E' stato meraviglioso... ma lui non la meritava.}
 {102}{}{<sniff, sniff>}
 {103}{}{Perche' continuo a leggere 'ste stronzate?}
-
 {200}{}{Ti senti profondamente commosso e stordito dopo aver finito il libro, ma non ne hai ricavato niente di utile.}

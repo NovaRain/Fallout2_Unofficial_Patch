@@ -1,8 +1,6 @@
-# Dialog Editor last position: 1
 {100}{}{Ezen az emberen az ÚKK rendõrség jelvényét látod.}
 {101}{}{Õ Jack, az ÚKK rendfenntartó erõinek helyettes megbízottja.}
 {102}{}{Ez az ember úgy fel van húzva, mint az óra rugója. Állandóan összeszorítja az állkapcsát, a homlokán kidagadnak az erek, és a vidámság szikrája sem fedezhetõ fel rajta.}
-#a wound a wind - felhuz harmadik alakja (bass)
 {103}{}{Nem akarom hallani a bajodat! Zavarj vele valaki mást!}
 {104}{}{Ezt nekem nem kell elszenvednem... sem tõled, sem mástól.}
 {105}{}{Az átkozott ex-feleségem mindenemet elvette.}
@@ -43,11 +41,11 @@
 {140}{}{Át kéne gondolnod ezt a dolgot! Ha felrobbantod ezt a helyet, alapot adsz a szavainak.}
 {141}{}{Nem viccelek, Sherlock! A népek most szépen rám fognak figyelni.}
 {142}{}{Senki sem fog rád hallgatni egy bombával a kezedben. Tedd le, gyere ki, és mindent rendbe teszünk!}
-{143}{}{Át kéne gondolnod ezt a dolgot! Ha felrobbantod ezt a helyet, mindenki azt mondja majd "Jack a gyengébb utat választotta. Hagyta, hogy a volt felesége kálváriát járasson vele." Õ nyer, te vesztesz.}
+{143}{}{Look, think this through. Blow this place up and folks will say, "Jack took the weak way. Let himself get pushed around by his ex-wife." She wins, you lose.}
 {144}{}{Tényleg így gondolod?}
 {145}{}{Igen, Jack. Ez így igaz, ahogy mondom.}
 {146}{}{Persze. Hazudok én szerinted?}
-{147}{}{Hát, nem tudom...}
+{147}{}{Nem tudom.}
 {148}{}{Ne hagyd nyernyi, Jack!}
 {149}{}{Itt a lehetõség. Állj a sarkadra! Lökd ki a nyeregbõl!}
 {150}{}{Cseszd meg! Torkig vagy ezzel! Nem is aggódsz értem!}
@@ -61,5 +59,5 @@
 {158}{}{Ez nem a te dolgod. Hagyj békén!}
 {159}{}{Felrobbanok vagy megölsz. Mi a különbség?}
 {160}{}{Nem próbállak bántalmazni! Csak azt akarom, hogy emlékezzenek...}
-{161}{}{ }
-{162}{}{tapasztalati pontot kaptál, amiért elrendezted Jack és Mira ügyét.}
+{161}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{162}{}{ experience points for taking care of Jack for Mira.}

@@ -1,7 +1,6 @@
 {100}{}{Ez egy fehér ruhás Shi.}
-{101}{}{Shi labortechnikus.}
+{101}{}{You see a Shi lab tech.}
 {102}{}{Ez egy fehér ruhás Shi a laborjában.}
-
 {103}{}{Barátom... Wong egy valóságos rabszolga-hajcsár.}
 {104}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}
 {105}{}{Ezzel a kísérlettel megváltoztatjuk a pusztaságot!}
@@ -9,8 +8,7 @@
 {107}{}{Újra látni akarom a napot.}
 {108}{}{Keverd össze ezt, keverd össze azt... néha nagyon untat.}
 {109}{}{Láttad a nagy kísérlet legújabb eredményeit? Nagyon ígéretes!}
-{110}{}{Ha megbocsátasz...}
-
+{110}{}{Bocsánat.}
 {116}{}{Ha! Tanítsátok meg azokat a kémeket, hogy is kell behatolni!}
 {117}{}{A hekkerek többet NEM FOGNAK próbálkozni.}
 {118}{}{Ha a tudományunkkal nem tudjuk legyõzni õket, majd gyõzünk a harcosainkkal.}
@@ -20,7 +18,6 @@
 {122}{}{Megváltoztatjuk a pusztaságot!}
 {123}{}{Vigyázz csak, pusztaság!}
 {124}{}{Újra látni akarom a napot.}
-
 {127}{}{Sheng Ming egy hitvány hulladék.}
 {128}{}{Még egy-két nap és kész leszünk.}
 {129}{}{Az Uralkodó dicsõségére! Bizony.}
@@ -30,7 +27,6 @@
 {133}{}{Meg kell bosszulni a hekkereket!}
 {134}{}{Egyszer csak rájövünk, ki tört be hozzánk.}
 {135}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}
-
 {144}{}{Mi jó munkát végzünk itt! Ne tedd tönkre!}
 {145}{}{Mi megpróbáljuk megmenteni a pusztaságot, te idióta!}
 {146}{}{Ne! Ne a tudósokat!}

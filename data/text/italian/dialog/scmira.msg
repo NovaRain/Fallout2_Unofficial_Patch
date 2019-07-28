@@ -7,7 +7,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{Fa lo stesso. Dammi la specialita' della casa.}
-{109}{}{Dammi una birra.}
+{109}{}{Gimme a beer.}
 {110}{}{Informazioni.}
 {111}{}{Sto cercando lavoro.}
 {112}{}{Beh, sei davvero un tipo particolare! Proprio come piace a me.}
@@ -39,13 +39,13 @@
 {138}{}{Fuori di qui, parassita!}
 {139}{}{Certo, ho un po' di tempo. Di solito e' questa la specialita' dei baristi. Solo non farti venire idee strane.}
 {140}{}{Per te ho sempre del tempo, baby. Che cosa vuoi?}
-{141}{}{Certo.}
+{141}{}{Bene.}
 {142}{}{Parlami di questa citta'.}
 {143}{}{Hai mai sentito parlare del Vault 13?}
 {144}{}{Sto cercando una cosa chiamata GECK. Ne sai qualcosa?}
 {145}{}{Cosa mi sai dire di quel tipo, Merk?}
 {146}{}{C'e' un poliziotto in citta' che dice delle cose non molto carine su di te. Cosa puoi dirmi di lui?}
-{147}{}{Beh, questo blocca l'idea sul nascere.} ###???Well, that kills that idea
+{147}{}{Beh, questo blocca l'idea sul nascere.}
 {148}{}{Si chiama NCR. Una volta il suo nome era Shady Sands, ma dopo la disfatta del Master, Aradesh e gli altri fondarono la Repubblica. Oggi NCR si trova proprio sul suo confine settentrionale. Tutto cio' che c'e' a sud e' sotto il governo della Repubblica. }
 {149}{}{Ti do un consiglio. Sta' alla larga da questa citta'. I giudici non sono molto clementi con i tipi come noi, se capisci quel che voglio dire. I cittadini hanno molti piu' diritti di te. }
 {150}{}{Ascolta, questo e' tutto quello che posso dirti.}
@@ -81,11 +81,9 @@
 {180}{}{Trovare corda. Entrare di nascosto. Andare grosso posto con cancello. Trovare Jack. Fare male Jack. Mira dare te pistola. Ora tu andare via. Me vista con te - no bene. Aiutare Mira e tornare. Capito?}
 {181}{}{Mira sentito Jack fatto male. Bel lavoro, Dumbo. Ecco pistola, tu prendere. Grazie.}
 {182}{}{Fottiti anche tu. Non mi liberero' mai di quel bastardo.}
-#latter additions
 {183}{}{Dovresti parlare con Merk, ma non e' qui. Torna dopo il tramonto. Quell'ora gli si addice di piu'.}
 {184}{}{Non so cosa tu abbia fatto a Lenny, ma, se fossi in te, non starei troppo a lungo qui nei paraggi. Quel che hai fatto non ti rendera' molto amato.}
 {185}{}{Ehi, ti avevo avvertito. Oh, pazienza...}
-
 {186}{}{Tu sei Mira, giusto? Un poliziotto ha detto delle cose non proprio carine sul tuo conto.}
 {187}{}{Tu Mira? Cattivo Jack dire cose.}
 {188}{}{Quel bastardo di Jack? Cosa dice, adesso?}

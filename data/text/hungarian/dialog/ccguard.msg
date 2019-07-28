@@ -1,4 +1,3 @@
-# Dialog Editor last position: 20
 {100}{}{Egy fényes bádogembert látsz.}
 {101}{}{Egy katonát látsz, aki erõpáncélt visel.}
 {102}{}{Egy katonát látsz (szerinted) az erõpáncél új verziójában.}

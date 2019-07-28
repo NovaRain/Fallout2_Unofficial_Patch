@@ -66,7 +66,7 @@
 {165}{}{Prova piu' tardi.}
 {166}{}{[A causa della tua inettitudine, tutti i cervelli sono morti. Forse alzare la temperatura a 98.6 gradi Celsius e' stato un pochino troppo. La scienza non e' mai stata il tuo forte.]}
 {167}{}{Esci.}
-{168}{}{[Il tuo approccio a questo problema sembra basato principalmente sul motto "sbagliando s'impara". Riesci a salvare uno solo dei quattro cervelli. La scienza e' per nerd, comunque.]} ###???Trial and error seems to be the key to your approach to this problem. You manage to save one out of four brains. Science is for nerds anyway
+{168}{}{[Il tuo approccio a questo problema sembra basato principalmente sul motto "sbagliando s'impara". Riesci a salvare uno solo dei quattro cervelli. La scienza e' per nerd, comunque.]}
 {169}{}{Recupera Cervello}
 {170}{}{[Facendo tuo il motto "la virtu' sta nel mezzo", riesci a salvare il cinquanta percento dei cervelli. Uno scienziato non sei.]}
 {171}{}{Recupera Cervello}
@@ -113,5 +113,4 @@ Procedere con il recupero?}
 {232}{}{[Sebbene tu veda chiaramente che le unita' di deposito sono vuote, le letture dei dati indicano che sono tutte piene. Dev'essere un errore del programma. Oh, cavoli.]}
 {233}{}{Ritorna al Menu Principale}
 {234}{}{Esci}
-
 {300}{}{ non e' in grado di leggere quello che c'e' sul monitor.}

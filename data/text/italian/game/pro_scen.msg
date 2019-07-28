@@ -131,7 +131,7 @@
 {6600}{}{Albero}
 {6601}{}{Un albero morto. Qui niente cresce bene.}
 {6700}{}{Secret Blocking Hex}
-{6701}{}{Se puoi vedere questo Hex, prenditela con il designer tecnico.}
+{6701}{}{Se vedi questo, prenditela con il designer tecnico.}
 {6800}{}{Scale}
 {6801}{}{Delle scale.}
 {6900}{}{Stalagmite}
@@ -332,7 +332,7 @@
 {17001}{}{Una colonna di supporto.}
 {17100}{}{Computer d'Accesso per la Porta}
 {17101}{}{Questo computer controlla l'enorme porta del vault. Devi inserire uno specifico codice d'accesso per farlo funzionare.}
-{17200}{}{Manifesto del Casino'}
+{17200}{}{Insegna del Casino'}
 {17201}{}{Sembra una pubblicita' del Casino' di Gizmo.}
 {17300}{}{Porta Esterna del Vault 13}
 {17301}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
@@ -398,9 +398,9 @@
 {20700}{}{Vecchio Materasso}
 {20701}{}{Anche se tu dormissi da solo su questa cosa, non saresti veramente solo.}
 {20800}{}{Letto}
-{20801}{}{Un letto di fortuna. Il materiale e' stato recuperato da qualche altra fonte.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Letto}
-{20901}{}{Un letto di fortuna. Il materiale e' stato recuperato da qualche altra fonte.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Letto}
 {21001}{}{Questo letto ha visto giorni migliori (e anche notti, probabilmente.)}
 {21100}{}{Letto}
@@ -581,13 +581,13 @@
 {30501}{}{Questo sembra un vecchio tavolo da caffe', non molto alto e adatto per i mutanti molto bassi.}
 {30600}{}{Tavolo}
 {30601}{}{Questo sembra un vecchio tavolo da caffe', non molto alto e adatto per i mutanti molto bassi.}
-{30700}{}{Water}
+{30700}{}{Acqua}
 {30701}{}{I bordi taglienti della tazza lo rendono un posto molto scomodo dove sedersi.}
-{30800}{}{Water}
+{30800}{}{Acqua}
 {30801}{}{Questo water e' rotto.}
-{30900}{}{Water}
+{30900}{}{Acqua}
 {30901}{}{Yuck! Chiunque l'abbia usato per ultimo, non ha tirato l'acqua!}
-{31000}{}{Water}
+{31000}{}{Acqua}
 {31001}{}{Questo water e' rotto e decisamente non e' utilizzabile se sei una donna.}
 {31100}{}{Spazzatura}
 {31101}{}{Qualche tubo spezzato mezzo ricoperto di sporcizia. Non c'e' niente da vedere. Circolare.}
@@ -1164,11 +1164,11 @@
 {61401}{}{Osservi la tua immagine allo specchio per un po'.}
 {61500}{}{Lavello}
 {61501}{}{Un lavello completamente funzionante. Bello e pulito.}
-{61600}{}{Water}
+{61600}{}{Acqua}
 {61601}{}{Questo water e' molto pulito. E funziona.}
 {61700}{}{Orinatoio}
 {61701}{}{Questo orinatoio e' funzionante.}
-{61800}{}{Water}
+{61800}{}{Acqua}
 {61801}{}{Se tu avessi una fissa per i water, allora questo sarebbe il water ideale.}
 {61900}{}{Lavello}
 {61901}{}{Questo lavello e' in perfette condizioni.}
@@ -1239,7 +1239,7 @@
 {65500}{}{Tubatura}
 {65600}{}{Generatore Elettrico}
 {65601}{}{Un generatore elettrico Wattz ElectroBox. Il tipo di generatore ausiliario piu' usato prima della Guerra.}
-{65700}{}{Serbatoio}
+{65700}{}{Tank}
 {65701}{}{Una grande cisterna d'acqua. Sembra ben conservata, il che e' probabilmente una buona cosa.}
 {65800}{}{Cassetta della Polizia}
 {65801}{}{Una cassetta della polizia dal Regno Unito, 1960 circa.}
@@ -1303,7 +1303,7 @@
 {68801}{}{Un grosso ammasso di rocce. Non si tratta di un evento naturale.}
 {68900}{}{Rocce}
 {68901}{}{Un grosso ammasso di rocce. Non si tratta di un evento naturale.}
-{69000}{}{Water}
+{69000}{}{Acqua}
 {69001}{}{Un water grezzo, ma funzionale. Ci sono delle foglie buttate nel buco per combattere l'odore.}
 {69100}{}{Montagna}
 {69101}{}{Questa parete di roccia sembra assolutamente inaccessibile.}
@@ -1482,13 +1482,13 @@
 {77801}{}{Non c'e' niente di strano riguardo a questa sedia.}
 {77900}{}{Sedia}
 {77901}{}{Non c'e' niente di strano riguardo a questa sedia.}
-{78000}{}{Pilastro}
+{78000}{}{Obelisco}
 {78001}{}{Un pilastro di supporto.}
-{78100}{}{Pilastro}
+{78100}{}{Obelisco}
 {78101}{}{Un pilastro di supporto.}
-{78200}{}{Pilastro}
+{78200}{}{Obelisco}
 {78201}{}{Un pilastro di supporto.}
-{78300}{}{Pilastro}
+{78300}{}{Obelisco}
 {78301}{}{Un pilastro di supporto.}
 {78400}{}{Letto}
 {78401}{}{Questo letto e' in condizioni pietose.}
@@ -1575,9 +1575,9 @@
 {82500}{}{Parete}
 {82600}{}{Porta}
 {82601}{}{Una porta del vault molto solida. La porta sembra molto sicura.}
-{82700}{}{Luce}
+{82700}{}{Leggero}
 {82701}{}{Una luce di sicurezza.}
-{82800}{}{Luce}
+{82800}{}{Leggero}
 {82801}{}{Una luce di sicurezza.}
 {82900}{}{Obelisco}
 {82901}{}{Questo obelisco e' l'attrazione principale della piazza di Shady Sands. Racconta storie per ricordare alle persone la speranza e la pace.}
@@ -1709,9 +1709,9 @@
 {90501}{}{Questo letto ha un display incorporato per controllare le condizioni del paziente.}
 {90600}{}{Componenti di una Power-Armor}
 {90601}{}{Questi sono dei componenti di un completo corazzato Power-Armor.}
-{90700}{}{Luce}
+{90700}{}{Leggero}
 {90701}{}{Questa luce di sicurezza sta attualmente pulsando di un rosso acceso.}
-{90800}{}{Luce}
+{90800}{}{Leggero}
 {90801}{}{Questa luce di sicurezza sta attualmente pulsando di un rosso acceso.}
 {90900}{}{Simbolo}
 {91000}{}{Simbolo}
@@ -1865,7 +1865,7 @@
 {101701}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
 {101800}{}{Aratro}
 {101801}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
-{101900}{}{Water}
+{101900}{}{Acqua}
 {102000}{}{Insegna}
 {102001}{}{L'insegna all'entrata di New Reno.}
 {102100}{}{Insegna}
@@ -2028,10 +2028,10 @@
 {117000}{}{Porta}
 {117100}{}{Tubature}
 {117101}{}{Un gruppo di tubi che entrano nel reattore.}
-{117200}{}{Serbatoio}
-{117300}{}{Serbatoi}
-{117400}{}{Serbatoi}
-{117500}{}{Serbatoi}
+{117200}{}{Tank}
+{117300}{}{Gazie}
+{117400}{}{Gazie}
+{117500}{}{Gazie}
 {117600}{}{Presa d'Aria}
 {117700}{}{Presa d'Aria}
 {117800}{}{Insegna dell'Harp}
@@ -2047,7 +2047,7 @@
 {118800}{}{Carbone}
 {118900}{}{Macchina}
 {118901}{}{Un pezzo di equipaggiamento generico per il reattore.}
-{119000}{}{Serbatoio}
+{119000}{}{Tank}
 {119100}{}{Fuoco}
 {119200}{}{Acqua}
 {119300}{}{Cartello: Trapper Town}
@@ -2273,7 +2273,7 @@
 {138300}{}{Parete}
 {138400}{}{Parete}
 {138500}{}{Parete}
-{138600}{}{Luce}
+{138600}{}{Leggero}
 {138700}{}{Porta}
 {138800}{}{Porta}
 {138900}{}{Porta}
@@ -2482,21 +2482,21 @@
 {158301}{}{Un campo di energia sta bloccando il passaggio.}
 {158400}{}{Campo di Forza}
 {158401}{}{Un campo di energia sta bloccando il passaggio.}
-{158500}{}{Autobotte}
-{158600}{}{Autobotte}
-{158700}{}{Autobotte}
-{158800}{}{Autobotte}
-{158900}{}{Autobotte}
-{159000}{}{Autobotte}
-{159100}{}{Autobotte}
-{159200}{}{Autobotte}
-{159300}{}{Autobotte}
-{159400}{}{Autobotte}
-{159500}{}{Autobotte}
-{159600}{}{Autobotte}
-{159700}{}{Autobotte}
-{159800}{}{Autobotte}
-{159900}{}{Autobotte}
+{158500}{}{Tanker}
+{158600}{}{Tanker}
+{158700}{}{Tanker}
+{158800}{}{Tanker}
+{158900}{}{Tanker}
+{159000}{}{Tanker}
+{159100}{}{Tanker}
+{159200}{}{Tanker}
+{159300}{}{Tanker}
+{159400}{}{Tanker}
+{159500}{}{Tanker}
+{159600}{}{Tanker}
+{159700}{}{Tanker}
+{159800}{}{Tanker}
+{159900}{}{Tanker}
 {160000}{}{Parete}
 {160100}{}{Parete}
 {160200}{}{Depressione nel Pavimento}
@@ -2596,12 +2596,12 @@
 {169400}{}{Ombra}
 {169500}{}{Ombra}
 {169600}{}{Ombra}
-{169700}{}{Vertibird Schiantato}
-{169800}{}{Vertibird Schiantato}
-{169900}{}{Vertibird Schiantato}
-{170000}{}{Vertibird Schiantato}
-{170100}{}{Vertibird Schiantato}
-{170200}{}{Vertibird Schiantato}
+{169700}{}{Strange machine, crashed}
+{169800}{}{Strange machine, crashed}
+{169900}{}{Strange machine, crashed}
+{170000}{}{Strange machine, crashed}
+{170100}{}{Strange machine, crashed}
+{170200}{}{Strange machine, crashed}
 {170300}{}{Ombra}
 {170400}{}{Ombra}
 {170500}{}{Ombra}

@@ -6,9 +6,9 @@
 {105}{}{Benvenuto, Prescelto! Prego, accomodati pure.}
 {106}{}{Prego! Prendi una sedia e riposati per un attimo!}
 {107}{}{E' il Prescelto! Facciamo tutti un bel brindisi per l'EROE di Fallout 2!}
-{108}{}{Buona giornata, Capitano.}
+{108}{}{Buon giorno, Capitano.}
 {109}{}{Vault City prevale, Capitano.}
-{110}{}{Buona giornata, Cittadino.}
+{110}{}{Buongiorno, Cittadino.}
 {111}{}{Vault City prevale, Cittadino.}
 {112}{}{Un mutante! Guardie! Guardie!}
 {113}{}{Un ghoul! Guardie! Guardie!}
@@ -19,8 +19,8 @@
 {118}{}{Lazzo, pazzo, come pozzo nero puzzo.}
 {119}{}{-Allontanati-}
 {120}{}{Cosa avete da bere?}
-{121}{}{Vorrei delle informazioni.}
-{122}{}{Ho quella partita di alcolici che mi avevi chiesto.}
+{121}{}{Vorrei alcune informazioni.}
+{122}{}{Ho la partita di alcolici che mi avevi chiesto.}
 {123}{}{Per oggi niente, grazie.}
 {124}{}{Uh... lo sento. Um, grazie ancora per aver salvato il mondo, eh.}
 {125}{}{Puzzo, struzzo me essere rozzo!}
@@ -29,19 +29,19 @@
 {128}{}{Rizzo razzo me essere pazzo!}
 {129}{}{-Allontanati-}
 {130}{}{Senti, prendi questi e fila fuori di qui, okay? Dovrebbero tenerti la bocca occupata per un po' di tempo.}
-{131}{}{Grazie-strazie a tutte le ragazzie!}
+{131}{}{Grazie-strazie a tutte le ragazzie}
 {132}{}{-Allontanati-}
 {133}{}{Uh... cosa posso fare per lei, Capitano?}
 {134}{}{Cosa posso fare per te, Cittadino?}
-{135}{}{Si'? Posso aiutarti?}
+{135}{}{Si'? Posso aiutarla?}
 {136}{}{Ti? Tu? Tuu? Tuiiiii. Ptuiiiii essere suono che altri fare quando vedere me.}
 {137}{}{-Allontanati-}
-{138}{}{Cosa c'e' da bere?}
-{139}{}{Vorrei delle informazioni.}
-{140}{}{Ho quella partita di alcolici che mi avevi chiesto.}
+{138}{}{Cosa avete da bere?}
+{139}{}{Vorrei alcune informazioni.}
+{140}{}{Ho la partita di alcolici che mi avevi chiesto.}
 {141}{}{Per oggi niente, grazie.}
 {142}{}{Credo che questa sia la cosa piu' affascinante che io abbia mai sentito. Voglio che anche le guardie la sentano... aspetta.}
-{143}{}{Ta? To. Tu. Tuuu sexiiii for mai cloooss.}  ###???Tewwww sexeee fur my clothez
+{143}{}{Ta? To. Tu. Tuuu sexiiii for mai cloooss.}
 {144}{}{-Allontanati-}
 {145}{}{Abbiamo birra e liquori sintetici... vodka-H, e i derivati W e W2 della tequila. Oh, e acqua. E latte di brahmin. La birra e gli altri alcolici sintetici vengono 10 dollari, acqua o latte tre.}
 {146}{}{Tipo...?}
@@ -58,8 +58,8 @@
 {157}{}{Va bene. Non ho problemi ad aspettare. Non vedo l'ora di bermi un bel bicchiere di latte fresco. Mmmmm-mmm. Sarebbe un vero toccasana.}
 {158}{}{Penso che provero' qualcos'altro, allora.}
 {159}{}{Come non detto. Senti, vorrei delle informazioni...}
-{160}{}{Lasciamo perdere. Tornero' un'altra volta.}
-{161}{}{Ecco a te. Altro?}
+{160}{}{Dimentichi cio' che ho detto. Tornero' un'altra volta.}
+{161}{}{Ecco a te. Nient'altro?}
 {162}{}{Uh, non avete dei veri alcolici?}
 {163}{}{Provero' un po' di birra sintetica.}
 {164}{}{Un bicchierino di vodka sintetica sarebbe un vero toccasana.}
@@ -76,20 +76,20 @@
 {175}{}{Vault City ha molti contatti con il mondo esterno?}
 {176}{}{Cos'avete da bere?}
 {177}{}{Ho la partita di alcolici che mi avevi chiesto.}
-{178}{}{D'accordo, allora. Buona giornata.}
+{178}{}{Bene. Allora, buona giornata.}
 {179}{}{Uh, il Primo Cittadino Lynette... tu sei un Cittadino, no?}
 {180}{}{Il Primo Cittadino Lynette. Se devi parlare con lei, la puoi trovare nel palazzo del Consiglio situato a nord di qui.}
-{181}{}{Vorrei sapere un'altra cosa...}
+{181}{}{Vorrei sapere qualcos'altro...}
 {182}{}{Okay. Andro' a parlare con lei, allora.}
 {183}{}{Uh, e' quel grosso buco sul fianco della montagna a est di qui... ma scusa, tu non sei un Cittadino?}
 {184}{}{E' quel grosso buco nella montagna a est di qui. Non puoi sbagliare. Non puoi entrare, pero', a meno che tu non sia un Cittadino.}
-{185}{}{Vorrei sapere un'altra cosa...}
+{185}{}{Vorrei sapere qualcos'altro...}
 {186}{}{Ma io sono un Cittadino.}
 {187}{}{Certo, volevo solo avere dei punti di riferimento, grazie. Adesso devo andare.}
 {188}{}{Hmmm. Grazie delle informazioni.}
 {189}{}{Certo che lo sei. Io, se fossi in te, starei attenta a non dire in giro una cosa del genere, "Cittadino". Qualcuno sapra' riconoscere qualsiasi documento falso ti abbia venduto quella sanguisuga di Skeev. Quindi cerca di mantenere un basso profilo, okay?}
 {190}{}{Uh, okay. Senti, vorrei sapere un'altra cosa...}
-{191}{}{Oh. Beh, grazie del consiglio.}
+{191}{}{Oh. Bene, grazie per il consiglio.}
 {192}{}{Ascolta, la prima cosa che posso dirti e' che, da queste parti, faresti meglio a non chiamarla "schiavitu'" o ti troverai in un mare di guai. Si chiamano "servi", non schiavi. Questo e' solo un consiglio.}
 {193}{}{Ho capito l'antifona. Senti, vorrei sapere un'altra cosa...}
 {194}{}{Grazie. Me ne ricordero'.}
@@ -98,31 +98,31 @@
 {197}{}{Parlami di New Reno.}
 {198}{}{Parlami di Redding.}
 {199}{}{Parlami di Gecko.}
-{200}{}{Vorrei sapere un'altra cosa...}
-{201}{}{Grazie per le informazioni.}
+{200}{}{Vorrei sapere qualcos'altro...}
+{201}{}{Grazie delle informazioni.}
 {202}{}{E' una comunita' di minatori come Redding, ma si trova molto a sud di qui. Gran parte dell'uranio che importiamo arriva da li'.}
 {203}{}{Parlami di New Reno.}
 {204}{}{Parlami di Redding.}
 {205}{}{Parlami di Gecko.}
-{206}{}{Vorrei sapere un'altra cosa...}
+{206}{}{Vorrei sapere qualcos'altro...}
 {207}{}{Grazie delle informazioni.}
 {208}{}{E' a diversi giorni di distanza in direzione sudovest. Ho sentito voci contrastanti su Reno. Alcuni mercanti, soprattutto gli schiavisti, lo adorano, quel posto. Altri mercanti... no. Una citta' piena di lustrini... e di guai, mi dicono.}
 {209}{}{Parlami di Broken Hills.}
 {210}{}{Parlami di Redding.}
 {211}{}{Parlami di Gecko.}
-{212}{}{Vorrei sapere un'altra cosa...}
+{212}{}{Vorrei sapere qualcos'altro...}
 {213}{}{Grazie delle informazioni.}
 {214}{}{E' una citta' mineraria molto a ovest di qui. Ultimamente non si sono viste molte carovane provenire da Redding e qualche alto papavero e' piuttosto preoccupato. Il Senatore McClure, in particolare.}
 {215}{}{Parlami di Broken Hills.}
 {216}{}{Parlami di New Reno.}
 {217}{}{Parlami di Gecko.}
-{218}{}{Vorrei sapere un'altra cosa...}
+{218}{}{Vorrei sapere qualcos'altro...}
 {219}{}{Grazie delle informazioni.}
 {220}{}{E' una cittadina di ghoul a meno di un giorno da qui in direzione nordest, mi pare. Si dice che assalgano ogni viandante che si avventuri nel loro territorio. Meglio stare alla larga.}
 {221}{}{Parlami di Broken Hills.}
 {222}{}{Parlami di New Reno.}
 {223}{}{Parlami di Redding.}
-{224}{}{Vorrei sapere un'altra cosa...}
+{224}{}{Vorrei sapere qualcos'altro...}
 {225}{}{Grazie delle informazioni.}
 {226}{}{Perche'? Stai forse cercando qualcosa con un po' di carica in piu' rispetto a questi liquori sintetici?}
 {227}{}{Forse. Tra liquore vero e liquore sintetico non c'e' proprio storia.}

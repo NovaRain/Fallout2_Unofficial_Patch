@@ -4,10 +4,10 @@
 {103}{}{Buongiorno a lei, signore. Posso aiutarla?}
 {104}{}{Buongiorno a lei, signorina. Posso aiutarla?}
 {105}{}{Me vuole informazioni.}
-{106}{}{Cosa tu ha?}
+{106}{}{Cosa avere tu?}
 {107}{}{No, me va.}
-{108}{}{Vorrei delle informazioni.}
-{109}{}{Certamente: fammi vedere quello che hai.}
+{108}{}{Voglio delle informazioni.}
+{109}{}{Certo, fammi vedere cos'hai.}
 {110}{}{Nulla.}
 {111}{}{Non ho informazioni da vendere. Commercio solo in armi. Vuole vedere la mia merce?}
 {112}{}{Si'.}
@@ -26,4 +26,4 @@
 {125}{}{Ok.}
 {126}{}{Non ti vendero' niente. Fuori dal mio negozio!}
 {127}{}{Ok.}
-{128}{}{Spero che le nuove scorte arrivino presto.}
+{128}{}{Spero che quell'ordine arrivi presto.}

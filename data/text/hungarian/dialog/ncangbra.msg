@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt egy makrancos brahmin.}
 {150}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak.}
 {151}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak. Nagyon betegnek tûnik. Talán van rá mód, hogy segíts rajta.}

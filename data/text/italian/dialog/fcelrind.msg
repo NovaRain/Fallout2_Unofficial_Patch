@@ -20,14 +20,13 @@
 {119}{}{Amo l'Hub.}
 {120}{}{Mi piace essere un Hubologista.}
 {121}{}{Voglio esprimere la mia potenzialita'.}
-{122}{}{A dir la verita', ho ancora qualche problema con il gergo.}
+{122}{}{A dir la verita', sto ancora imparando il gergo.}
 {123}{}{Lode all'Hub!}
 {124}{}{Lode alla Grande Ruota!}
 {125}{}{Andremo a Quetzel!}
 {126}{}{Non vedo l'ora di tornare a casa, tra le stelle.}
 {127}{}{Per favore, non disturbarmi; sto concentrando i miei neuronodi.}
 {128}{}{Per favore, non disallineare i miei neuronodi.}
-
 {138}{}{Oh no! Il persectuore!}
 {139}{}{Il non illuminato!}
 {140}{}{Stammi lontana, carne maligna!}
@@ -40,7 +39,6 @@
 {147}{}{I tempi oscuri si abbattono di nuovo su di noi!}
 {148}{}{Padre Stellare! Salvami dal pagano!}
 {149}{}{Qualcuno ti punira' per la tua perfidia!}
-
 {150}{}{Amo l'Hub.}
 {151}{}{Mi piace essere un Hubologista.}
 {152}{}{Voglio esprimere la mia potenzialita'.}
@@ -57,7 +55,6 @@
 {163}{}{La scienza "vera" e' solo un mucchio di bugie.}
 {164}{}{Non prestare ascolto a quello che gli "scienziati" ti dicono.}
 {165}{}{Solo l'Hub e AHS-9 hanno la risposta.}
-
 {178}{}{Sia lode al Padre Stellare! Finalmente raggiungeremo le stelle!}
 {179}{}{Pianeta Quetzel, arriviamo!}
 {180}{}{Tutto il duro lavoro fatto da' finalmente i suoi frutti!}

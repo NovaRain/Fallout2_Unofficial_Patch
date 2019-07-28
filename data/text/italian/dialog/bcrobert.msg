@@ -1,4 +1,4 @@
-{100}{}{Vedi un'abusiva.}
+{100}{}{Vedi un abusivo.}
 {101}{}{Vedi Roberta, un'abusiva.}
 {102}{}{Vedi una donna di mezz'eta' che indossa degli abiti consunti.}
 {103}{}{Oh, cos... Scusami, ma non ho niente da dirti. Vattene, ti prego.}

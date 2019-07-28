@@ -7,31 +7,16 @@
 {107}{}{[Noti un tasto della tastiera sul quale c'e' scritto "Aiuto"]. Premi il tasto.}
 {108}{}{Viola il sistema di sicurezza}
 {109}{}{Cerca di disattivare l'allarme.}
-{110}{}{Esci.}
+{110}{}{Esci}
 {111}{}{Arg! [Per la frustrazione, sbatti un pugno sulla tastiera.]}
 {113}{}{Skynet: Sistemi di Sicurezza}
 {114}{}{Scanner della Retina Attivato                                      Scansione in corso...                                              Ricerca Database in corso...}
-{300}{}{ - Identita' confermata: }
-{301}{}{            Ultimo accesso al terminale: }
-{303}{}{Caporale Dixon}
-{304}{}{Generale Clifton}
-{305}{}{5 agosto, 2077}
-{306}{}{ giorni fa.}
-
-{307}{}{                                             Allarme! Intruso rilevato - Livello }
-{308}{}{                                             Allarme! Intruso rilevato - Livelli: }
-#no security breach - spaces to align text
-{310}{}{                                             }
-#security breach, only one level - spaces to align text
-{309}{}{                               }
-#security breach, multiple levels - spaces to align text
-{311}{}{                       }
 {115}{}{Attivare Sistema di Allarme - Livello 2}
 {116}{}{Avviare programma auto-diagnostico.}
 {117}{}{Esci}
 {118}{}{Arg! [Per la frustrazione, sbatti un pugno sulla tastiera.]}
 {120}{}{Skynet: Sistemi di Sicurezza                                    Negato l'accesso a questo terminale}
-{122}{}{Esci.}
+{122}{}{Esci}
 {124}{}{Errore!                                                         File del programma non presenti                               Riavviare computer}
 {126}{}{Esci}
 {127}{}{Analisi del comando in corso. Attendere prego...                Ignorato Comando dell'Utente                                  Accesso Negato}
@@ -55,3 +40,14 @@
 {145}{}{Esci}
 {146}{}{Uscita dal programma diagnostico in corso.}
 {147}{}{[Avanti]}
+{300}{}{ - Identita' confermata: }
+{301}{}{            Ultimo accesso al terminale: }
+{303}{}{Caporale Dixon}
+{304}{}{Generale Clifton}
+{305}{}{5 agosto, 2077}
+{306}{}{ giorni fa.}
+{307}{}{                                             Allarme! Intruso rilevato - Livello }
+{308}{}{                                             Allarme! Intruso rilevato - Livelli: }
+{309}{}{                               }
+{310}{}{                                             }
+{311}{}{                       }

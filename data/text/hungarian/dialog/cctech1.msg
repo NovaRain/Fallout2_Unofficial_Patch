@@ -1,4 +1,3 @@
-# Dialog Editor last position: 50
 {100}{}{Technikus.}
 {101}{}{Számítógép-technikus. }
 {102}{}{Ez a laborköpenyes technikus egy rakás tollat hord a köpenye zsebében.}
@@ -14,7 +13,7 @@
 {112}{}{Hol lenni fõbázis?}
 {113}{}{Keresni gépmadár tervek. Hol lenni?}
 {117}{}{Menni mostan.}
-{118}{}{Mi ez a hely?}
+{118}{}{Mi ez a hely tulajdonképpen?}
 {119}{}{Mit dolgozik itt?}
 {120}{}{Hol található az Enklávé fõ bázisa?}
 {121}{}{Vetnem kéne néhány pillantást a gépmadár tervekre. Hol tartják õket?}
@@ -36,16 +35,16 @@
 {140}{}{Köszi.}
 {141}{}{A szervizben tárolják õket, a légiirányítók mellett.}
 {142}{}{Oké.}
-{143}{}{Kapisgálom.}
+{143}{}{Értem.}
 {153}{}{Maga valami nudista, hogy egyenruha nélkül mászkál?}
-{154}{}{Ha az õrmester elkapja egyenruha nélkül, szétrúgja a seggét.}
+{154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {155}{}{Miért nincs magán egyenruha?}
-{156}{}{Szent szar! Megtámadtak bennünket!}
+{156}{}{Szent szar! Megtámadtak bennünket! Riadó!}
 {157}{}{Behatolók! Hívjátok az õrséget!}
 {158}{}{Õrség! Behatolók az operatív parancsnokságon!}
-{159}{}{Mi van itt? Megtámadtak minket?}
-{160}{}{Miért szól a sziréna? Mi történt?}
-{161}{}{Mi folyik itt?}
+{159}{}{Mi van? Megtámadtak, vagy mi?}
+{160}{}{Miért van riadó? Mi történik?}
+{161}{}{Mi a szar folyik itt?}
 {162}{}{Én csak egy technikus vagyok, ne bántson!}
 {163}{}{Nem harcolni jöttem, csak továbbképzésre!}
 {164}{}{Ez egy laborköpeny, nem páncél! Már itt sem vagyok!}

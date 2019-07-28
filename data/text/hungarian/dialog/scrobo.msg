@@ -1,16 +1,15 @@
-# Dialog Editor last position: 36
 {100}{}{Egy furcsa, félig kutya, félig fém dolgot látsz. Úgy látszik, be van kapcsolva.}
 {101}{}{Ez itt egy Roboeb! Mindenki kedvence!}
 {102}{}{Ez a valami vagy egy szörnyûséges módon összetákolt kutya-gép kombináció vagy teljes mértékben gép és csak külsõre néz ki kutyának. Nehéz megmondani.}
 {103}{}{Arf! <katt> Vaúú!}
 {104}{}{...bzzzzzz...}
-{105}{}{...whirrrrr... Nem vagyok kutyuli.}
+{105}{}{.whirrrrr... Nem vagyok kutyuli.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
 {107}{}{Vau! Va-va-va-<katt>vaúú.}
 {108}{}{<sprzzzt> Miáú... hiba.}
 {109}{}{UgatUgatUgatUgatUgatUgatUgat!}
 {110}{}{Grrr...}
-{111}{}{Háuúúúúú! <kitt-katt> Háúúúú!}
+{111}{}{Háúúúúúú! <kitt-katt> Háúúúú!}
 {112}{}{Yipe! Yipe! Yipe!}
 {113}{}{Veszély! Veszély!}
 {114}{}{Rowf! <tick-tick-tick> Rowf!}
@@ -27,24 +26,23 @@
 {125}{}{Kérlek, várj itt, amíg vissza nem jövök!}
 {126}{}{Mára ennyi.}
 {127}{}{<katt> nyaff}
-{128}{}{Nem fontos.}
+{128}{}{Értem.}
 {129}{}{Oké}
 {130}{}{HP:}
 {131}{}{A kiberebet most nem lehet tovább javítani.}
 {132}{}{A kibereb egy kicsit jobban van.}
 {133}{}{A kibereb most már teljesen ép.}
-{1000}{}{Vau! Va-va-va-<katt>Vaúú?}
+{1000}{}{Vau! Va-va-va-<katt>vaúú?}
 {1100}{}{Arf! <katt> Vaúú!}
 {1200}{}{Rowf? <bang> Raggy?}
 {1300}{}{<katt> nyaff.}
 {1400}{}{Háúúúúúú! <kitt-katt> Háúúúú!}
-{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!} //Wait here resoponse
-{1600}{}{Persze, elteszem.} //Put weapons away
-{1700}{}{Arf-arf távolág: közel.} //Close
-{1800}{}{Arf-arf távolág: közepes.} //Medium
-{1900}{}{Arf-arf távolág: messze.} //Far
+{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
+{1600}{}{Persze, elteszem.}
+{1700}{}{Arf-arf távolág: közel.}
+{1800}{}{Arf-arf távolág: közepes.}
+{1900}{}{Arf-arf távolág: messze.}
 {2000}{}{.whirrrrr... Nem vagyok kutyuli.}
 {2100}{}{GRRR-ROWF!}
 {2200}{}{Vau! Va-va-va-<katt>vaúú?}
-
-{2204}{}{Oké, most már megfelelõ távolságra vagy.}
+{2204}{}{Ok, you're at a good distance for now.}

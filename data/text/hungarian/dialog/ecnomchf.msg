@@ -1,6 +1,5 @@
-# Dialog Editor last position: 23
-{100}{}{Egy nomád.}
-{101}{}{Nomád törzsfõnök.}
+{100}{}{You see a nomad.}
+{101}{}{He appears to be a nomad chieftain.}
 {102}{}{A ruhája és a viselkedése alapján valamiféle vezetõ lehet.}
 {103}{}{Ah, egy utazó. Légy üdvözölve szerény sátramban. Légy vendégem egy kis árnyékra a pusztaság szüntelen forróságában.}
 {104}{}{Köszönöm, szívesen elfogadom a felajánlott árnyékot.}
@@ -10,13 +9,13 @@
 {108}{}{Mit tudsz felajánlani?}
 {109}{}{Nincs semmim, amit elcserélhetnék. Sajnálom.}
 {110}{}{Akkor talán máskor? Kívánom, hogy elkerüljön a veszély!}
-{111}{}{Üdv!}
+{111}{}{Viszlát!}
 {112}{}{Milyen kár. Akkor pihenj meg, és légy üdvözölve a táborunkban!}
-{113}{}{Üdv!}
+{113}{}{Viszlát!}
 {114}{}{A nap bizonyára elpárologtatta a szavakat az agyadból, de úgy illik, hogy kedves legyek a kevésbé szerencsésekhez is. Nyugodtan maradj a táborban, ameddig csak kedved tartja, egyszerû barátom!}
-{115}{}{Üdv!}
+{115}{}{Viszlát!}
 {116}{}{Hitetlen!}
-{117}{}{Miért támadsz ránk?}
+{117}{}{Miért támadsz ránk?!}
 {118}{}{Az életem árán is megvédelmezem a törzset!}
 {119}{}{Hogy mered megsérteni a vendégszeretetünket?!}
 {120}{}{Hordd el magad!}

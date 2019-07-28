@@ -7,15 +7,15 @@
 {106}{}{L'Ufficio Doganale e' chiuso per la notte. Tornero' a casa non appena avro' finito di compilare tutte queste liste.}
 {107}{}{Non ho nulla da dire a chi viaggia con i... ghoul. Quelli come voi dovrebbero starsene nel Cortile.}
 {108}{}{Non ho nulla da dire a chi viaggia con i... mutanti. Quelli come voi dovrebbero starsene nel Cortile.}
-{109}{}{Salve, Capitano. Posso fare qualcosa per lei?}
-{110}{}{Salve, Cittadino. Posso fare qualcosa per lei?}
+{109}{}{Salve, Capitano. C'e' qualcosa che posso fare per aiutarla?}
+{110}{}{Salve, Cittadino. C'e' qualcosa che posso fare per aiutarla?}
 {111}{}{Salve, viaggiatore. Benvenuto a Vault City. Posso aiutarti?}
 {112}{}{Frazz-urb-luuw!}
 {113}{}{-Allontanati-}
-{114}{}{Chi e' lei?}
+{114}{}{Chi sei?}
 {115}{}{Cos'e' questo posto?}
 {116}{}{Credo che il suo assistente, Skeev, sia coinvolto in attivita' illegali.}
-{117}{}{Per oggi nulla, grazie.}
+{117}{}{Per oggi niente, grazie.}
 {118}{}{Beh, credo proprio che dovro' dire due parole alle guardie del Cortile. Sembra che permettano a CHIUNQUE di entrare a Vault City, oggigiorno... }
 {119}{}{Gionno. Tonno? Tontoooo.}
 {120}{}{-Allontanati-}
@@ -51,15 +51,15 @@
 {150}{}{-Allontanati-}
 {151}{}{Senta, si e' trattato di un malinteso.}
 {152}{}{Beh, al momento non ne ho uno con me. Non potrebbe rilasciarmene un altro?}
-{153}{}{Come non detto, allora.}
+{153}{}{Lasciamo perdere, allora.}
 {154}{}{Scordatelo.}
 {155}{}{Certo che posso. Ma c'e' una tassa di 50$ da pagare per ogni Pass Giornaliero rilasciato dopo il primo.}
 {156}{}{D'accordo. Ecco i soldi.}
 {157}{}{Come non detto. Non mi serve cosi' urgentemente.}
 {158}{}{Come non detto, allora. Tornero' quando avro' piu' soldi.}
-{159}{}{Ecco a te. E sei PREGATO di cercare di tenerlo sempre con te. Credo che impazzirei se tutti quelli che entrano avessero piu' di un Pass Giornaliero ciascuno.} ###??? PLEASE try and keep this on you at all times. I don't want to have to keep track of multiple Day Passes for everyone
+{159}{}{Ecco a te. E sei PREGATO di cercare di tenerlo sempre con te. Credo che impazzirei se tutti quelli che entrano avessero piu' di un Pass Giornaliero ciascuno.}
 {160}{}{Avrei un'altra domanda da farle.}
-{161}{}{Capito. Grazie.}
+{161}{}{Ho capito, grazie.}
 {162}{}{Mi chiamo Wallace. Sono l'Addetto Responsabile della Dogana di Vault City. Mi occupo di chi desidera condurre degli affari all'interno delle nostre grandi mura.}
 {163}{}{Vorrei entrare nella citta'.}
 {164}{}{Si "occupa"? Cosa intende dire?}
@@ -82,21 +82,21 @@
 {181}{}{Bene, devo parlare con il Primo Cittadino.}
 {182}{}{Chi e' il Primo Cittadino?}
 {183}{}{Di cosa si occupa, esattamemte?}
-{184}{}{Grazie per le informazioni. Arrivederci.}
+{184}{}{Grazie per le informazioni. Ci vediamo.}
 {185}{}{Beh, ma certo. Tutti chiedono di poter vedere il Primo Cittadino. Purtroppo, il suo tempo puo' essere dedicato solo a questioni della massima importanza. }
 {186}{}{Non sembri abbastanza importante da meritarti il suo tempo, temo.}
 {187}{}{E' per questo che e' di vitale importanza che io parli con lui. Sono certo che potrei mettere una buona parola riguardo all'efficienza dell'Ufficio Doganale e del suo responsabile. Ma se proprio non puo' aiutarmi, allora...}
 {188}{}{Le informazioni in mio possesso sono davvero importanti. Davvero.}
 {189}{}{Se fossi in te, non userei quel tono con me. Ho detto che devo vederlo. Subito.}
 {190}{}{Lasciamo perdere, allora.}
-{191}{}{Oh, certo. Mi precipitero' immediatamente dal Primo Cittadino a riferire personalmente la notizia.} ###???do tell
+{191}{}{Oh, certo. Mi precipitero' immediatamente dal Primo Cittadino a riferire personalmente la notizia.}
 {192}{}{Beh, non ho detto di non poterti aiutare, e' solo che... beh... qual e' il motivo della tua visita?}
 {193}{}{Uh... sono in possesso di informazioni che... potrebbero portare alla creazione di un network tra... uhm, tutti i vault esistenti nel paese. Gia', proprio cosi'.}
 {194}{}{Anche se volessi farlo, non potrei dirle nulla, signor Addetto. Queste informazioni possono essere rivelate solamente al Primo Cittadino. E' per questo che e' di fondamentale importanza che io parli con il vostro leader.}
 {195}{}{Beh... e' una faccenda... uhm, davvero, davvero importante. Ho gia' detto quanto sia importante?}
 {196}{}{Un... network tra i Vault?}
 {197}{}{Hmmmm. Beh... hmmmm. Questo va contro TUTTI i regolamenti e...}
-{198}{}{Si'. Un network... tra i, uhm, Vault. Vede, uhm, non tutti ne sono a conoscenza... ma Vault City non e' stato l'unico Vault a sopravvivere. Ce ne sono altri.} ###???A network, so to speak
+{198}{}{Si'. Un network... tra i, uhm, Vault. Vede, uhm, non tutti ne sono a conoscenza... ma Vault City non e' stato l'unico Vault a sopravvivere. Ce ne sono altri.}
 {199}{}{Non la disturberei se non si trattasse di una questione di fondamentale importanza, signor Addetto. Mi assicurero' di accennare all'aiuto che mi ha dato, quando parlero' con il Primo Cittadino.}
 {200}{}{Come non detto. Avrei delle altre domande da farle...}
 {201}{}{Dimentichi cio' che ho detto. Tornero' un'altra volta.}
@@ -108,10 +108,10 @@
 {207}{}{NO TUuuu ANDARE o me COLPISCE TU}
 {208}{}{-Allontanati-}
 {209}{}{Io non vado da nessuna parte. Se vuoi provare tu a farmi andar via, accomodati pure.}
-{210}{}{D'accordo, d'accordo.}
+{210}{}{D'accordo... d'accordo...}
 {211}{}{E dove avresti trovato, se posso chiedertelo, questo attestato di Cittadinanza fasullo? I numeri di serie qui riportati sono gli stessi di un attestato di Cittadinanza che e' stato rubato il mese scorso.}
 {212}{}{Se glielo dico, lei mi dara' un Pass Giornaliero?}
-{213}{}{E' stato Skeev, il suo assistente. Me l'ha venduto lui.}
+{213}{}{E' stato il suo assistente, Skeev. E' lui che me li ha venduti.}
 {214}{}{Non so di cosa stia parlando. Io sono un Cittadino.}
 {215}{}{Hmmmm... molto bene. Se me lo dici ti daro' un Pass Giornaliero. Allora, dove hai preso questi documenti?}
 {216}{}{E' stato il suo assistente, Skeev. E' lui che me li ha venduti.}
@@ -126,7 +126,7 @@
 {225}{}{Skeev? Che miserabile ingrato! Mi occupero' di lui immediatamente!}
 {226}{}{Nessun problema. Posso farle qualche domanda?}
 {227}{}{Ooooooh, che paura. Grazie per il Pass Giornaliero, amico.}
-{228}{}{Ho capito. Grazie.}
+{228}{}{Ho capito, grazie.}
 {229}{}{Molto bene, te lo sei guadagnato. Ecco a te. Il pass e' valido solamente durante il giorno; al tramonto ti sara' chiesto di lasciare la citta'. Inoltre, i Cittadini si riservano il diritto di revocare i privilegi del Pass Giornaliero in qualsiasi momento, per cui comportati bene.}
 {230}{}{Ho capito. Senta, posso farle qualche domanda?}
 {231}{}{Ho capito, grazie.}
@@ -155,13 +155,13 @@
 {254}{}{Ho scoperto la base dei predoni.}
 {255}{}{Ho scoperto la base dei predoni e li ho eliminati.}
 {256}{}{Cosa puo' dirmi a proposito del vostro leader?}
-{257}{}{Per oggi nulla, grazie.}
+{257}{}{Per oggi niente, grazie.}
 {258}{}{Nient'altro per oggi, grazie.}
 {259}{}{Dipende da dove proviene la carovana. Riceviamo merci da diversi luoghi... Servi dal Den, uranio da Broken Hills, e metallo da Redding.}
 {260}{}{Cosa puo' dirmi a proposito del Den?}
 {261}{}{Cosa puo' dirmi a proposito di Broken Hills?}
 {262}{}{Cosa puo' dirmi a proposito di Redding?}
-{263}{}{Posso farle un'altra domanda?}
+{263}{}{Posso farti un'altra domanda?}
 {264}{}{Capisco. Grazie dell'informazione.}
 {265}{}{Si tratta di una... comunita' a ovest di qui. Spesso acquistiamo Servi dai loro mercanti. E' un posto piuttosto violento, da quel che ho sentito.}
 {266}{}{Sono certo che un... "rastrellatore di Servi" come te abbia una conoscenza maggiore di quel luogo di quanta ne abbia io.}
@@ -184,11 +184,11 @@
 {283}{}{Cosa puo' dirmi a proposito del Den?}
 {284}{}{Cosa puo' dirmi a proposito di Broken Hills?}
 {285}{}{Capisco. Avrei delle altre domande...}
-{286}{}{Grazie delle informazioni. Arrivederci.}
+{286}{}{Grazie per le informazioni. Ci vediamo.}
 {287}{}{Davvero? E' una splendida notizia! Bisogna avvertire immediatamente il Consigliere McClure.}
 {288}{}{Davvero? E' una splendida notizia! Lascia che ti dia un Pass Giornaliero, cosicche' tu possa andare subito a parlare con il Consigliere McClure. Il pass e' valido solamente durante il giorno; al tramonto ti sara' chiesto di lasciare la citta'. Adesso va'.}
 {289}{}{Posso farle un'altra domanda, prima di andare?}
-{290}{}{Andro' subito a riferirgli la notizia.}
+{290}{}{Lo faro'.}
 {291}{}{Andro' subito a parlare con lui.}
 {292}{}{E' buffo che tu me lo chieda. Il prezzo si e' un po' alzato, ultimamente... nulla che non ci possiamo permettere, naturalmente. Di sicuro l'aumento danneggia di piu' la comunita' di Gecko. Quei luridi pezzenti hanno bisogno di un quantitativo di uranio maggiore rispetto a quello che serve a noi.}
 {293}{}{Cosa puo' dirmi a proposito del Den?}
@@ -196,7 +196,7 @@
 {295}{}{Capisco. Avrei delle altre domande...}
 {296}{}{Hmmm. Interessante. Grazie delle informazioni.}
 {297}{}{Il nostro Primo Cittadino e' Joanne Lynette. Ha fatto molte cose positive per la nostra citta', durante i suoi dieci anni di governo.}
-{298}{}{Ad esempio?}
+{298}{}{Ovvero?}
 {299}{}{Ha evitato che la citta' si contaminasse con elementi provenienti dal mondo esterno. Nonostante le pressioni da parte di NCR che ci sollecita ad entrare a far parte della Repubblica e gli attacchi dei predoni, e' riuscita a mantenere salda la citta'. Adesso i veri problemi vengono da Gecko...}
 {300}{}{Cos'e' NCR?}
 {301}{}{Chi sono questi predoni?}

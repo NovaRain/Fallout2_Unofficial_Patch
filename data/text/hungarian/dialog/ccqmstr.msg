@@ -1,13 +1,12 @@
-# Dialog Editor last position: 34
 {100}{}{A raktáros erõpáncélban.}
 {101}{}{Raktáros.}
 {102}{}{Ez az ember az erõpáncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Kik ezek a fickók?... Riadó! }
+{103}{}{Kik ezek a fickók?... Riadó! Behatolók!}
 {104}{}{Mi a... Áh, értem miért vagy te itt. Ki akarod selejtezni azt az antik szart, ami rajtad van.}
 {105}{}{Miért nincs magán egyenruha, katona?}
-{106}{}{Pusztulj!}
+{106}{}{Halál rád!}
 {107}{}{Öööh, igen...}
-{108}{}{Öhh...}
+{108}{}{Öö...}
 {109}{}{Mi lenni új itten.}
 {110}{}{Mi nem lenni tied katona!}
 {111}{}{Nos, hát...}
@@ -21,15 +20,15 @@
 {119}{}{Igen, lenni új!}
 {120}{}{Igen.}
 {121}{}{Na, akkor vedd megadhoz a páncélodat meg a fegyveredet, és jelentkezz az õrmesternél!}
-{122}{}{Köszi.}
+{122}{}{Köszönöm!}
 {123}{}{Szívesen, és most indulás! Dolgom van, és nem akarom, hogy zavarjanak!}
 {124}{}{Most elfoglalt vagyok. Gyere vissza késõbb!}
 {125}{}{Helló, újonc! Az imént hívott az õrmester. Azt mondta, adjam át a felszerelését és küldjem vissza. Így van?}
 {126}{}{Igen.}
 {127}{}{Riadó van, és nem ismerem fel. Mutassa a papírjait, katona!}
-{128}{}{Nem lenni nálunk papír.}
+{128}{}{Nem lenni velünk papírok!}
 {129}{}{Nem kelleni nekünk papírok!}
 {130}{}{Nincsenek nálam. A körletemben tartom õket.}
 {131}{}{Papírok? Ja, persze a papírok! Itt vannak, ni...}
 {132}{}{Rossz válasz! A katonáknak mindig maguknál kell hordaniuk õket! Ezt tudnod kellett volna!}
-{133}{}{Hoppá.}
+{133}{}{Ajjaj!}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 17
 {100}{}{Ez egy szurtos kölök, aki a brahminokra felügyel.}
 {101}{}{Marhapásztor.}
 {150}{}{A munkáján kívül nemigen figyel másra.}

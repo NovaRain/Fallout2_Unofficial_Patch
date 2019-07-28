@@ -1,7 +1,7 @@
 {100}{}{Vedi una ragazza piuttosto carina, vestita con degli indumenti da combattimento.}
 {101}{}{E' Elise.}
 {102}{}{Da' l'idea di essere una ragazza decisa, come se fosse abituata a dare ordini e a vederli eseguiti.}
-{103}{}{Che cosa vuoi?}
+{103}{}{Cosa vuoi?}
 {104}{}{Ancora tu?}
 {105}{}{Mi manda Karl.}
 {106}{}{Il dottor Jubilee ha detto che avrei fatto bene a parlare con te.}
@@ -47,7 +47,7 @@
 {146}{}{Questo e' il tipo di comportamento che permette l'esistenza dell'atrocita' dello schiavismo . Mi dispiace, ma non c'e' posto per te nella nostra organizzazione.}
 {147}{}{Ok.}
 {148}{}{Allora, hai cambiato idea? Sei pronto a dimostrare il tuo valore?}
-{149}{}{Certo.}
+{149}{}{Bene.}
 {150}{}{Che cosa volevi che facessi?}
 {151}{}{Non dovresti fare qualcosa? Non tornare qui finche' non avrai portato a termine il lavoro.}
 {152}{}{Mi e' gia' arrivata la notizia. Hai liberato gli schiavi. Un buon lavoro! Allora, sei pronto a diventare un Ranger?}
@@ -74,13 +74,10 @@
 {173}{}{Se e' cosi', devo chiederti di sparire dalla mia vista. Subito!}
 {174}{}{Ok.}
 {175}{}{Uno schiavista! Vattene da qui prima che rimuova quel tuo tatuaggio con un proiettile!}
-{176}{}{Okay.}
+{176}{}{Bene.}
 {177}{}{Provaci!}
-
 {178}{}{Abbiamo agenti e simpatizzanti in alcune citta' su a nord. Stiamo diffondendo il verbo e colpendo gli schiavisti ovunque ne abbiamo la possibilita'.}
 {179}{}{Bentornato. Hai cambiato idea e vuoi diventare uno di noi?}
-{180}{}{Lasciamo perdere.}
-
-
+{180}{}{Nulla.}
 {181}{}{Quello non ti appartiene. Adesso vattene, oppure diventero' violenta.}
 {182}{}{Non so cosa tu abbia fatto a Gond, ma la pagherai!}

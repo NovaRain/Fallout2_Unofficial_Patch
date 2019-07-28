@@ -1,0 +1,25 @@
+{100}{}{Widzisz stra¿nika.}
+{101}{}{Widzisz Marka, stra¿nika.}
+{102}{}{Widzisz Marka, jednego ze stra¿ników Tylera.}
+{150}{}{Hej, Tyler!}
+{200}{}{What the...?}
+{225}{}{Dziêki za cynk. By³a niez³a zabawa.}
+{226}{}{Widzia³em, ¿e dokopiemy tym ciotom.}
+{227}{}{Szkoda, ¿e wszystkich za³atwiliœmy. Teraz bêdzie nudno, nie?}
+{228}{}{No i kto rz¹dzi w tym mieœcie, co?}
+{229}{}{Jesteœmy najlepsi.}
+{230}{}{Ja pieprzê! Ale im skopaliœmy dupy!}
+{250}{}{Lepiej pogadaj z Tylerem paniusiu.}
+{251}{}{What's up. You need something, you gotta talk to Tyler here.}
+{252}{}{Na co siê patrzysz?}
+{253}{}{Tyler tu rz¹dzi, nie ja.}
+{255}{}{Dziœ wreszcie skopiemy im dupy!}
+{256}{}{Dziœ w nocy bêdzie gor¹co!}
+{257}{}{Tê noc zapamiêtam do koñca ¿ycia.}
+{258}{}{Mam nadziejê, ¿e nie stchórz¹.}
+{259}{}{Mam tylko nadziejê, ¿e te cioty siê pojawi¹.}
+{260}{}{Wiedzia³em, ¿e te cioty spêkaj¹.}
+{261}{}{Powinniœmy im skopaæ dupy za sam pomys³ podskoczenia nam.}
+{262}{}{Jakby siê pokazali, nie by³o by co po nich zbieraæ.}
+{263}{}{Sam bym skopa³ dupy im wszystkim.}
+{264}{}{Tyler i ja mielibyœmy niez³¹ zabawê. Szkoda...}

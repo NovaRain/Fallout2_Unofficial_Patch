@@ -1,9 +1,3 @@
-#
-#   Messages from skill.c
-#
-#
-#   SKILL NAMES
-#
 {100}{}{Armi leggere}
 {101}{}{Armi pesanti}
 {102}{}{Armi a energia}
@@ -22,9 +16,6 @@
 {115}{}{Barattare}
 {116}{}{Gioco d'Azzardo}
 {117}{}{Escursionista}
-#
-#   SKILL DESCRIPTIONS
-#
 {200}{}{L'uso, la cura e la conoscenza generale di piccole armi da fuoco - pistole, mitragliette e fucili.}
 {201}{}{L'utilizzo e la manutenzione di grosse armi - mitragliatrici, lanciarazzi, lanciafiamme e affini.}
 {202}{}{La cura e l'alimentazione di armi a energia. Come caricare e usare armi che utilizzano la tecnologia laser o al plasma.}
@@ -43,12 +34,6 @@
 {215}{}{Compiti direttamente o indirettamente legati al commercio. L'abilita' di avere prezzi piu' alti per gli oggetti venduti, e prezzi piu' bassi per gli oggetti comprati.}
 {216}{}{La conoscenza e le abilita' pratiche legate al gioco d'azzardo. La bravura con le carte, i dadi e altri giochi.}
 {217}{}{Conoscenza pratica delle zone all'aperto e l'abilita' di vivere lontano dalla civilta'. La conoscenza di piante e animali.}
-#
-#   SKILL ATTRIBUTES
-#
-#   Updated: 6/5/97 KSW
-#   Updated to New Skill System: 9/16/98 rwh2
-#
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -67,9 +52,6 @@
 {315}{}{+ (4 x CR)}
 {316}{}{+ (5 x FT)}
 {317}{}{+ (2 x (RE + IN))}
-#
-#   Skill Use Text
-#
 {500}{}{Curi %d Punti Vita.}
 {501}{}{Sei gia' in piena salute.}
 {502}{}{%s e' gia' a posto.}
@@ -83,7 +65,7 @@
 {521}{}{Hai curato %s.}
 {525}{}{Non sei riuscito a curarti %s.}
 {526}{}{Non sei riuscito a curare %s.}
-{530}{}{l'occhio ferito}    # Lines 530-534 are the endings to lines 525 & 526.
+{530}{}{l'occhio ferito}
 {531}{}{il braccio sx menomato}
 {532}{}{il braccio dx menomato}
 {533}{}{la gamba dx menomata}
@@ -99,26 +81,14 @@
 {590}{}{Hai sfruttato a fondo la tua abilita'. Aspetta un attimo.}
 {591}{}{Sei troppo stanco.}
 {592}{}{Lo sforzo potrebbe ucciderti.}
-
-# Fallout 2!
 {600}{}{Non sei abbastanza abile per curare menomazioni agli arti.}
 {601}{}{L'unita' robotica e' irreparabilmente danneggiata.}
-
-
-
-#
-# Fallout 2: Party Member skill use generic responses
-#
-
-#   I'll try
 {1000}{}{Lascia che ti aiuti.}
-{1001}{}{Posso farlo io.}
+{1001}{}{Posso farlo.}
 {1002}{}{Capito.}
 {1003}{}{Felice di essere d'aiuto.}
 {1004}{}{Okay.}
 {1005}{}{Ci provero'.}
-
-#   Player wants to do it
 {1100}{}{Se hai problemi, dimmelo pure.}
 {1101}{}{Capito?}
 {1102}{}{Se e' questo che vuoi...}

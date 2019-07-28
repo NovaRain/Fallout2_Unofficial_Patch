@@ -5,23 +5,21 @@
 {104}{}{[Füttyentesz]}
 {105}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
 {106}{}{Nem-nem, kutyuli. Maradol!}
-{107}{}{Gyerünk, komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
+{107}{}{Na, gyere komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
 {108}{}{Te csak ne aggódj, koma! Amint lesz hely a csapatban, visszajövök érted.}
 {109}{}{Bocsesz, Dogmeat. Most nem lehet.}
 {110}{}{A kutya torkos módon bekebelezi a nyársas iguanát, utána várakozóan néz rád...}
 {111}{}{[Füttyentesz]}
 {112}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
 {113}{}{Nem-nem, kutyuli. Maradol!}
-{114}{}{Gyerünk, komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
+{114}{}{Na, gyere komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
 {115}{}{Te csak ne aggódj, koma! Amint lesz hely a csapatban, visszajövök érted.}
 {116}{}{Bocsesz, Dogmeat. Most nem lehet.}
 {117}{}{Ez a kutya naggggggyon ádáz fajta.}
 {118}{}{[Füttyentesz]}
 {119}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
-#direkt van igy (bass)
-
 {120}{}{Maradol, kutyuli, ne mozdujj!}
-{121}{}{[Elpályázol]}
+{121}{}{[Elcsoszogsz]}
 {122}{}{Na, gyere komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
 {123}{}{Visszajövök érted, amint lesz hely a csapatomban.}
 {124}{}{Ragadj rám! Értesz engem?}
@@ -40,3 +38,6 @@
 {137}{}{Hela, ne csesztesd a kutyámat!}
 {138}{}{Grrrrr....}
 {139}{}{(Kiváncsi vagyok, rá tudnám-e venni Dogmeatet, hogy máshogy kövessen?)}
+{300}{}{*Wimper*}
+{301}{}{Awooooooooooo! *wimper*}
+{1110}{}{The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.}

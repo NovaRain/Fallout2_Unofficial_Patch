@@ -5,12 +5,10 @@
 {104}{}{Egy nõt látsz, aki téged méreget.}
 {105}{}{Ez a nõ már képzeletben levetkõztetett.}
 {106}{}{Egy fiatal nõ.}
-
 {110}{}{Egy fiatal és vonzó nõt látsz. Az arcát valami fehér por borítja.}
 {111}{}{Egy dúskeblû, középkorú nõt látsz.}
 {112}{}{Egy lenge öltözetû, vonzó nõt látsz.}
 {113}{}{Ez a nõ mintha téged vizsgálgatna a tekintetével. ÉS közben fura grimaszokat vág.}
-
 {120}{}{Ez gyorsan ment.}
 {121}{}{Régen volt már, édesem?}
 {122}{}{Talán legközelebb tovább bírod.}
@@ -19,7 +17,6 @@
 {125}{}{Ha minden kuncsaftom ilyen gyors lenne, sokkal korábban mehetnék haza.}
 {126}{}{Sokkal izgalmasabb ám, ha megvárod míg segítek.}
 {127}{}{Legalább megvárhattad volna, amíg levetkõzõm.}
-
 {130}{}{Ez nagyon jó volt. Te aztán igazi férfi vagy!}
 {131}{}{Ez különleges volt. Csodálatos vagy. Következõ!}
 {132}{}{Ez az, bébi, még sosem volt ilyen jó! (ásít)}
@@ -28,21 +25,18 @@
 {135}{}{Dehogy édesem, a méret egyáltalán nem számít. Igazán aranyos volt.}
 {136}{}{Hát nem vagy tele égetõ szerelemmel.}
 {137}{}{Milyen aranyos kis fickód van odalenn.}
-
 {140}{}{A méret a lényeg! Az élet édes rejtélye... }
 {141}{}{Ha legközelebb jössz, túlórázni fogok.}
 {142}{}{Te aztán elveszed ami jár.}
 {143}{}{Azt hiszem, ezután inkább hazamegyek.}
 {144}{}{Ez igen! Neked is beremegett a föld?}
 {145}{}{Na, most már tudom, mit érezhetett Catherine, a Nagy.}
-
 {150}{}{Hát, a pénz az pénz.}
 {151}{}{Ez, ömm, érdekes volt.}
 {152}{}{Ez igazán különleges volt. Következõ!}
 {153}{}{Nem, nem használhatod a kölnimet.}
 {154}{}{Hát, legalább a bajszod kisebb, mint a többi ügyfelemnek.}
 {155}{}{Biztos, hogy lány vagy?}
-
 {160}{}{Ez kellemes volt.}
 {161}{}{Ez más volt, mint szokott, de nem rossz értelemben.}
 {162}{}{Azt hiszem, ezt még egyszer ki fogom próbálni.}
@@ -50,7 +44,6 @@
 {164}{}{Ez finom volt, édesem.}
 {165}{}{Ez igen! Innentõl kezdve más lesz az életem.}
 {166}{}{Nem is tudtam, hogy így is lehet.}
-
 {170}{}{Beszélj Nagyorrú Sallyvel!}
 {171}{}{Hát nem édes?}
 {172}{}{Imádlak!}

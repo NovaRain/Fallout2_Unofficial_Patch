@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kchild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Vedi uno dei bambini di Klamath.}
 {101}{}{Vedi uno dei bambini di Klamath.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-
 {150}{}{Non mangiarmi!}
 {151}{}{Eeeee! L'uomo nero!}
 {152}{}{Il mio papa' mi ha detto che sei una persona brutta.}
@@ -44,7 +19,6 @@
 {166}{}{Mammina mammina mammina!}
 {167}{}{Lasciami in pace!}
 {168}{}{Puzzi!}
-
 {170}{}{Ciao.}
 {171}{}{Giochiamo insieme?}
 {172}{}{Ti sei davvero infilato un osso nel naso?}
@@ -65,7 +39,6 @@
 {187}{}{Il mio cane adora la carne secca.}
 {188}{}{Ho un bel sassolino lucido.}
 {189}{}{Hai visto il mio amico invisibile?}
-
 {190}{}{Posso unirmi alla tua tribu'?}
 {191}{}{Sei carino.}
 {192}{}{Sei buffo.}
@@ -100,10 +73,6 @@
 {221}{}{A te ti piaccio?}
 {222}{}{Sei sposato?}
 {223}{}{Uno, due, tre... Weee!}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Elder}
 {1001}{}{Founder}
 {1002}{}{Vault Dweller}
@@ -116,7 +85,6 @@
 {1009}{}{Healing Powder}
 {1010}{}{Bridge}
 {1011}{}{Mynoc}
-
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}

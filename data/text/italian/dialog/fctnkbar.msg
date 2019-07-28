@@ -3,9 +3,9 @@
 {102}{}{Vedi un barista. Indossa un grembiule e tiene in mano un bicchiere che di tanto in tanto pulisce sputandoci dentro e asciugandolo con uno straccio sporco. Sembra sapere il fatto suo.}
 {103}{}{Sono Slim. Cosa prendi?}
 {104}{}{Me vuole informazioni.}
-{105}{}{Cosa tu avere?}
+{105}{}{Cosa avere tu?}
 {106}{}{No, me va.}
-{107}{}{Vorrei delle informazioni.}
+{107}{}{Voglio delle informazioni.}
 {108}{}{Vediamo quello che hai.}
 {109}{}{Niente, me ne stavo andando.}
 {110}{}{Informazioni, eh? Beh, io non sono una libreria e questa non e' una stanza dei computer. Bevi, oppure esci di qui. Vuoi dell'alcol o no?}
@@ -26,6 +26,6 @@
 {125}{}{Siamo chiusi. Vattene.}
 {126}{}{}
 {127}{}{Ok.}
-{128}{}{Non siamo aperti per te. Fuori dal mio locale!}
+{128}{}{Il negozio non apre per te. Vattene da qui!}
 {129}{}{}
 {130}{}{Ok.}

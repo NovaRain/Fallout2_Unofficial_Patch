@@ -1,8 +1,7 @@
-# Dialog Editor last position: 1
 {100}{}{Õ Keith Wright.}
 {150}{}{Egy sovány, sápadt arcú fiatalemberhez van szerencséd. Hosszú, fürtös, szõke haja van és gyanakodva figyel téged.}
 {151}{}{Õ Keith Wright. Gyanakodva figyel téged.}
-{200}{}{Ki is vagy te?}
+{200}{}{Ki vagy te?}
 {201}{}{Mit akarsz?}
 {220}{}{Hé, }
 {230}{}{Ha nem hagyod békén azt az ajtót, bajba fogsz kerülni!}
@@ -19,7 +18,7 @@
 {259}{}{Megbízatást keresek. Chris küldött. Szokott a Wright család felbérelni embereket?}
 {262}{}{Hé, Keith. Összefutottam a mamáddal.}
 {263}{}{Tudnál valamit mondani Richard öcsédrõl?}
-{264}{}{Hagyjuk. Bocs, hogy zavartalak.}
+{264}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
 {280}{}{Na, tûnés innen, ütõdött! Ha még egyszer idejössz, kilyuggatom a bõrödet!}
 {281}{}{Lyuk lyuk lyuk meg-fog-lyuk}
 {282}{}{Subi dubi DING DONG}
@@ -27,11 +26,11 @@
 {291}{}{Há-tam, lá-bam, csu-pa bam-bam}
 {292}{}{DING DONG! DING DONG!}
 {300}{}{Én figyelmeztettelek, ütõ...}
-{301}{}{Hö?}
+{301}{}{Hönh?}
 {310}{}{Keith Wright vagyok, a Wright család tagja. Felhomályosítanál, mit csinálsz itt?}
 {312}{}{Chris mondta, hogy jöjjek hozzád. Munkát keresek. Tudsz segíteni?}
 {313}{}{Keith Wright vagy? Összefutottam a mamáddal.}
-{315}{}{Mi ez a hely?}
+{315}{}{Mi ez a hely tulajdonképpen?}
 {325}{}{Ez a Wright család HÁZA. Na, mondd csak gyorsan, mi dolgod van itt neked!?}
 {335}{}{Szóval Chris küldött?}
 {336}{}{Úgy van. Azt mondta, esetleg tudnátok valami munkát adni nekem.}
@@ -41,7 +40,7 @@
 {356}{}{Nem... mi nem foglalkoztatunk hulladék hajcsárokat, mint a többi család.}
 {357}{}{Jobb lenne, ha lépnél...}
 {358}{}{Addig nem megyek sehova, amíg nem beszéltem Mr. Wrighttal.}
-{359}{}{Akkor jó.}
+{359}{}{Akkor rendben vagyunk.}
 {365}{}{Nem, szerintem te most szépen távozni fogsz, mivel pontosan olyan embernek nézel ki, akinek kedves az élete. Na, lódulj!}
 {366}{}{NEM megyek sehova!}
 {367}{}{Rendben.}
@@ -73,8 +72,9 @@
 {460}{}{A szobája anyám szobája mellett van, a második a konyha után. Ami a bekukkantást illeti... hát... ne maradj soká... és ne túrd fel a helyiséget, különben anyám belédnyom egy tárat.}
 {461}{}{Köszi, Keith. Nem leszek soká bent...}
 {470}{}{Na, várj... (Kopog a közeli ajtón.) Apa? (Bedugja a fejét, valami pusmogás hallatszik, aztán visszajön és az ajtó felé biccent.) Bemehetsz, de vigyázz! Apu elég paprikás hangulatban van.}
-{471}{}{Kösz.}
-{480}{}{Õ Nagy Jesus fia. Egy címeres barom. Akár õ is meglephette Richard-ot, amikor egyedül volt, és telenyomhatta Jettel. Ha beszélni akarsz vele, keresd a Desperadóban. Kis Jesus ott szokta elütni az idõt az öregjével együtt.}
+{471}{}{Köszi.}
+{480}{}{He's Big Jesus' son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
+ Jet outta spite. You looking for him, check out the Desperado. Little Jesus hangs out there with his old man.}
 {1220}{}{. Mi folyik itt?}
-{1252}{}{ Remélem, senki nem néz át rajtad! Segíthetek valamiben?}
+{1252}{}{. Everybody treating you all right? Anything I can do for you?}
 {1253}{}{. Sokkal tartozunk neked, és a Wrightok mindig kifizetik az adósságukat. Mit tehetek érted?}

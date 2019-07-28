@@ -1,12 +1,11 @@
-# Dialog Editor last position: 33
-{100}{}{Egy õr.}
+{100}{}{Egy õrt látsz.}
 {101}{}{Becky Kaszinó Bárjának egyik õrét látod.}
 {150}{}{Nagyon figyeli ezt az ajtót.}
 {200}{}{Nem szöksz meg olyan könnyen.}
 {210}{}{Az Rebecca szobája. Senki nem mehet be oda!}
 {211}{}{Remélem, jól szórakozol.}
 {212}{}{Beckyt keresed? Ott áll.}
-{213}{}{Helló!}
+{213}{}{Szia!}
 {214}{}{Jó játékot az asztaloknál!}
 {215}{}{Becky-nél kapod a legolcsóbb italokat a városban.}
 {230}{}{Takarodj onnan most azonnal!}

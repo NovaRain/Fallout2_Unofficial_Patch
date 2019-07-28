@@ -1,4 +1,3 @@
-# Dialog Editor last position: 9
 {100}{}{Ez itt egy jóképû fekete fickó... illetve, nem egészen. Ez itt T-Ray.}
 {150}{}{Egy nagyon izmos férfihez van szerencséd. Vastag szemüveget hord, ezenkívûl könnyed szakállal és modorral rendelkezik.}
 {151}{}{Ez itt T-Ray. Elég jól mutat a farmerszerkójában.}
@@ -47,7 +46,6 @@
 {284}{}{A garázsban álló kocsi az ENYÉM!}
 {285}{}{Szóval te loptad el a kocsimat, seggarc?}
 {286}{}{Bishop embere vagyok, }
-{5286}{}{. A kocsiért jöttem.}
 {287}{}{Bishop egyik embere vagyok. A kocsiért jöttem.}
 {288}{}{Azért jöttem, hogy begyûjtsem Mr. Bishop ingyen aksijait.}
 {289}{}{Fel tudod tuningolni a Highwaymant?}
@@ -60,7 +58,7 @@
 {304}{}{[Ingatod a fejed]}
 {306}{}{Rárepültök a témára...}
 {307}{}{Ööö, kösz de mégsem. Meggondoltam magam. Csá...}
-{320}{}{Akkó oksa...}
+{320}{}{Aiight then...}
 {321}{}{Öh-öh-öh}
 {330}{}{Á, szóval csak játszadozol itt az öreg T-Ray bácsival? Rendben van. Tûnés, asszony... az idõmet jobb ribancokra is el tudom költeni.}
 {331}{}{A zidõ sohasoha megnem áll... a pillanyat e lillan, tovaszáááál }
@@ -79,7 +77,7 @@
 {365}{}{Jól hangzik. Késõbb találkozunk.}
 {375}{}{Rá akarsz licitálni BISHOP ajánlatára? Nagy lérõl van ám szó, ember! Tömérdek dolcsiról. Ezenkívül õ a renói nagykutyák egyike, ha nem tudnád. Elviszem én neki a gépet, tudod... csurran-cseppen még más is.}
 {376}{}{Rá akarsz licitálni BISHOP ajánlatára? Nagy lérõl van ám szó, asszony! Tömérdek dolcsiról. Ezenkívül õ a renói nagykutyák egyike, ha nem tudnád. Elviszem én neki a gépet, tudod... csurran-cseppen még más is.}
-{377}{}{Csupa fül vagyok...}
+{377}{}{I'm listening...}
 {378}{}{1000 dolcsi esetleg megváltoztatná az álláspontodat?}
 {379}{}{750 dolcsi esetleg megváltoztatná az álláspontodat?}
 {380}{}{500 dolcsi esetleg megváltoztatná az álláspontodat?}
@@ -157,7 +155,7 @@
 {631}{}{Rendben.}
 {632}{}{Bocs, de csak akkor ha ténylegesen üzletrõl van szó. Máskor találkozunk, T-Ray.}
 {640}{}{A fenébe, te szajha! Még öt perc sem telt el az utolsó szeretkezésünk óta. Meg akarsz ölni?}
-{641}{}{Na, figyi...}
+{641}{}{Now, hold on...}
 {642}{}{Ugyan már! Fel akarok töltõdni, és ezt csak tõled kaphatom meg!}
 {643}{}{Akkor hagyjuk. Legyen úgy.}
 {650}{}{Még mit nem! Már van egy kutyám, amit megfarkalhatok, és nem akarok kutyamenhelyet nyitni. Ha rádnézek, mindjárt látszik, hogy nincs semmid, ami felkelthetné az érdeklõdésemet. Ha fel akarod dobni a Highwaymant, akkor 500 dollárod bánja.}
@@ -174,7 +172,7 @@
 {675}{}{Mi lenne az?}
 {690}{}{A fenébe, asszony! Még öt perc sem telt el az utolsó szeretkezésünk óta. Meg akarsz ölni?}
 {691}{}{Már MEGINT akarod? A fene egye meg, asszony! Hát már sosem csukódnak össze a lábaid?}
-{692}{}{Ami azt illeti...}
+{692}{}{Nos...}
 {693}{}{Ugyan már! Lazítani akarok, és ezt csak tõled kaphatom meg.}
 {710}{}{(Végigtanulmányoz, és összevonja a szemöldökét) Hát "persze", hogy az vagy! Én ismerem Bishop összes emberét, és te nem tartozol közéjük. (Az ajtó felé biccent.) Tûnés innen, mielõtt kijövök a sodromból!}
 {711}{}{ÉN Bishop egyik embere vagyok. Most intézzük a dolgokat, vagy mifene?}
@@ -183,11 +181,8 @@
 {721}{}{De neked ugye van családod, akik majd összeszedik a darabjaidat?}
 {730}{}{(Megtanulmányoz.) Szóval Bishop egyik em-bõre volnál?! Aligha hiszem... egy kicsit magasabbnak, és egy kicsit... (szkeptikusnak tûnik) ...tökösebbnek kéne lenned.}
 {731}{}{(Megtanulmányoz.) Te lennél }
-{5731}{}{?!!! Én azt hallottam, hogy }
-{6731}{}{ egy kicsit magasabb, és egy kicsit... (szkeptikus arcot vág) ...tökösebb.}
 {732}{}{Az vagyok, aki vagyok! Belém akarsz kötni?}
 {733}{}{Én }
-{5733}{}{vagyok. Belém akarsz kötni?}
 {734}{}{Ne higgy el mindent, amit hallasz! Beszéljünk inkább Mr. Bishop autójáról!}
 {735}{}{Na, felejtsük el ezt a beszélgetést! Leléptem...}
 {745}{}{(Mintha megadná magát, felemeli a kezét.) Na, na, na... csak poénkodtam!}
@@ -219,6 +214,7 @@
 {810}{}{Kilencsz... te viccelsz, ember? }
 {811}{}{Kilencsz... te viccelsz, asszony? }
 {812}{}{Elég a szarakodásból! Ez egy HIGHWAYMAN! Nem gyártják már sehol a világon, felfogtad? A többi család annyit fizetne érte, amit az a sóher gyökér Bishop sosem fog...}
+{814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}
 {816}{}{Szóval a többi családdal is üzletelsz? Mr. Bishop bizonyára nagy érdeklõdést fog eziránt tanúsítani.}
 {817}{}{Már elnézést... minek nevezted Mr. Bishopot?}
 {818}{}{Kezdek kilenni ettõl. Késõbb beszélünk.}
@@ -264,3 +260,7 @@
 {1100}{}{Túl... sok... szex... fel... fogok... robbanni...}
 {2000}{}{Szereztél egy aksit a Highwaymanhez.}
 {2010}{}{Megtuningoltattad a Highwaymant.}
+{5286}{}{. A kocsiért jöttem.}
+{5731}{}{?!!! Én azt hallottam, hogy }
+{5733}{}{vagyok. Belém akarsz kötni?}
+{6731}{}{ egy kicsit magasabb, és egy kicsit... (szkeptikus arcot vág) ...tökösebb.}

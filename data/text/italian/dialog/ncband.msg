@@ -1,16 +1,9 @@
 {100}{}{Vedi Frenchy.}
 {101}{}{Vedi Paine.}
 {102}{}{Vedi Sims.}
-
-# 0. MALE (WTG)
 {150}{}{Vedi un uomo vestito di stracci. E' vicino ad un bidone della spazzatura incendiato e sta cantando. Ha una discreta voce.}
 {151}{}{Vedi un cantante. E' vicino ad un bidone della spazzatura incendiato e sta cantando.}
-
-# 1. CLICK (WTG)
-{200}{}{Ehi… }
-{1200}{}{! Il grande eroe! Come possiamo aiutarti? Forse potremmo cantarti qualcosa di speciale, eh?}
-{1201}{}{. Possiamo aiutarti?}
-{1202}{}{. Ti serve qualcosa, campione?}
+{200}{}{Ehi... }
 {203}{}{Ti serve qualcosa, figliolo?}
 {204}{}{::Tocca la tesa di un cappello immaginario:: Le serve qualcosa, miss?}
 {205}{}{La conoshete 'row row boat down stream?'}
@@ -19,49 +12,35 @@
 {208}{}{Ne sarei onorato. Grazie, ragazzi.}
 {209}{}{Ecco un po' di spiccioli. Potreste cantare qualcos'altro?}
 {210}{}{No, ascolto solamente, grazie.}
-
-# 2. SURE (1)
 {300}{}{D'accordo, allora… avete sentito il signore, ragazzi. Proviamo qualcosa di diverso.}
 {301}{}{D'accordo, allora… avete sentito la signora, ragazzi. Proviamo qualcosa di diverso.}
 {302}{}{Grassshie}
 {303}{}{Grazie, ragazzi.}
-
-# 3. FLOAT (SONG] (WTG)
 {400}{}{Oooooh}
 {402}{}{My baby ain't comin' home...}
 {405}{}{My baby done me wroooong...}
 {408}{}{My baby gone an' left me all aloooone...}
 {409}{}{}
-
-# 4. FLOAT (SONG] (WTG)
 {500}{}{Go on}
 {501}{}{Taste the pain}
 {502}{}{Cum again sum otha day}
 {503}{}{}
-
-# 6. FLOAT (SONG] (WTG)
 {600}{}{ Bottiglie di Birra sul Muro...}
 {601}{}{ Bottiglie di Birra...}
 {602}{}{Prendine una...}
 {603}{}{Passala di mano...}
 {605}{}{}
-
-# 7. FLOAT (SONG] (WTG)
 {700}{}{Row Row Row}
 {701}{}{Yer Boat}
 {702}{}{Gently Down the Stream}
 {703}{}{Merrily}
 {706}{}{Life is but a dream...}
 {707}{}{}
-
-# 8. FLOAT (HERO SONG] (WTG)
 {800}{}{We don't need another hero...}
 {801}{}{We don't needta know the way home...}
 {802}{}{All we need is whaz beyond...}
 {803}{}{Methadone}
 {804}{}{}
-
-# 5. FLOAT (SONG] (WTG)
 {900}{}{Give me}
 {901}{}{A kiss to build a dream on}
 {902}{}{And my imagination}
@@ -81,8 +60,11 @@
 {921}{}{And my imagination will make that moment live…}
 {923}{}{Give me what you alone can give}
 {925}{}{::Mouth Trumpet::}
-{930}{}{I'll… be with yoooou}
+{930}{}{I'll... be with yoooou}
 {933}{}{Ohhhh}
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}
 {941}{}{}
+{1200}{}{! Il grande eroe! Come possiamo aiutarti? Forse potremmo cantarti qualcosa di speciale, eh?}
+{1201}{}{. Possiamo aiutarti?}
+{1202}{}{. Ti serve qualcosa, campione?}

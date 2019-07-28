@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Egy félelmet keltõ útonállót látsz.}
 {101}{}{Egy Rejtekbéli õrszem.}
 {102}{}{Ne most! Szolgálatban vagyok.}

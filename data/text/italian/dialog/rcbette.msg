@@ -28,9 +28,9 @@
 {127}{}{Fatti sotto o tappati quella fogna, mollusco.}
 {128}{}{Vieni a prenderle, vecchia strega.}
 {129}{}{Adesso chi e' che confida nella fortuna?}
-{130}{}{Adesso basta.} ###???I'm gonna take you out for that one
+{130}{}{Adesso basta.}
 {131}{}{Chi diavolo e' questo?}
-{132}{}{Uno nuovo. Ehi, e' una cosa privata, questa! Facciamolo secco!} ###??? Let's get 'em
+{132}{}{Uno nuovo. Ehi, e' una cosa privata, questa! Facciamolo secco!}
 {133}{}{Per una volta sono d'accordo con te. Secchiamolo!}
 {134}{}{E adesso chi e' che estrarra' l'oro, eh, coglione?}
 {135}{}{Avrei bisogno di una fottuta vacanza.}
@@ -61,7 +61,7 @@
 {160}{}{E nemmeno ti deve piacere. Adesso verrai con me in cella oppure io trascinero' la' il tuo cadavere. A te la scelta.}
 {161}{}{Oh, scusami. Non intendevo davvero essere sgarbato. Me ne vado subito. Addio.}
 {162}{}{Davvero? Beh, allora ascoltami: verro' con te solo se porterai in cella anche quella faccia da culo di Caminetto.}
-{163}{}{Non sei in condizione di porre condizioni.} ###???
+{163}{}{Non sei in condizione di porre condizioni.}
 {164}{}{Non e' una cattiva idea. Mettere delle sbarre fra voi due dovrebbe servire a raffreddare un po' l'atmosfera. Voi due, seguitemi.}
 {165}{}{Hai subito per caso un'inversione cranio-rettale? Se tu provassi a fare qualcosa tutti noi ti salteremmo addosso, tanto per scaldarci un po'. Poi vedresti sgorgare il sangue. Pensi che, a quel punto, allo Sceriffo piacerebbe il lavoro che stai facendo?}
 {166}{}{No, non credo.}
@@ -76,9 +76,8 @@
 {175}{}{Sei piu' sveglio di quanto non sembri. Ma non c'e' da stupirsi; riesci a mantenere una posizione eretta. Adesso corri a casa dalla mamma e dille che non c'era niente che il tuo coraggio ti permettesse di fare.}
 {176}{}{Adesso basta. Ne ho avuto abbastanza della tua linguaccia. Questa e' la tua ultima possibilita': vattene senza fare storie o ti apriro' in due.}
 {177}{}{Forse sara' meglio fare come dici. Di certo non voglio fare male a qualcuno. Addio.}
-{178}{}{Ho capito che piega ha preso la cosa, piccolo pezzo di merda. OK, puoi portarmi dentro... con Caminetto. (a Caminetto) Giusto, mio piccolo faccia da culo?}
+{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
+ (to Caminetto) Right, my little fuckface?}
 {179}{}{Cosi' va meglio.}
 {180}{}{No, adesso e' troppo tardi. Vi faro' patire le pene dell'inferno. }
-# Begin Seraph's Code
 {181}{}{Mi sa che prendero' Caminetto a calci in culo un altro giorno.}
-# End Seraph's Code

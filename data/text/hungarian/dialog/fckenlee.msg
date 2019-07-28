@@ -1,13 +1,12 @@
-# Dialog Editor last position: 1
 {100}{}{Ez egy zömök Shi férfi, aki szemlátomást elég okos ember.}
 {101}{}{Õ Ken Lee, az Uralkodó tanácsadója.}
-{102}{}{Egy zömök Shi férfihez van szerencséd. Szemüvege mellé némi mosolyt is magára erõltetett.}
+{102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
 {103}{}{Mit szeretne, barátom?}
-{104}{}{Mit akar?}
+{104}{}{Mit akarsz?}
 {105}{}{Mit tehetek magáért?}
 {106}{}{Te ki?}
-{107}{}{Ön kicsoda?}
-{108}{}{Mi ez a hely?}
+{107}{}{Ki vagy te?}
+{108}{}{Mi ez a hely tulajdonképpen?}
 {109}{}{Eltûnt falusiak után kutatok.}
 {110}{}{Üzemanyagra van szükségem.}
 {111}{}{Beszélni szeretnék az Uralkodóval.}
@@ -33,18 +32,18 @@
 {131}{}{Ó, rendben van. A nevem}
 {132}{}{Hogyne! A nevem}
 {133}{}{Igen.}
-{134}{}{Szó sem lehet róla!}
+{134}{}{Felejtsük el!}
 {135}{}{Nem mindenki olyan szerencsés, hogy láthatja az Uralkodót. Elõször be kell bizonyítania, hogy érdemes rá. Hajlandó ilyesmire?}
 {136}{}{Igen.}
 {137}{}{Nem. Az elmúlt hónapokban egy életre való teszten mentem keresztül.}
 {138}{}{Nem hinném, hogy az Uralkodó látni szeretné magát. Azt az utasítást kaptam, hogy tagadjam meg a belépést az illetlen és a gonosz lelkületû emberektõl. Magára mindkettõ ráillik, utazó. Minden jót!}
-{139}{}{-kész-}
+{139}{}{[DONE]}
 {140}{}{Az inzultusok sehova sem vezetnek, utazó, legfeljebb rövid úton eltávolítjuk az Acél Palotából. Kérem, vigyázzon tehát a nyelvére!}
 {141}{}{Rajta csak!}
 {142}{}{Remek.}
 {143}{}{Az Uralkodó láthatatlan a kiváncsi szemek számára. Mivel a feladatom szerint én oltalmazom az Uralkodót, se most, se késõbb nem mondhatom el, hol található.}
-{144}{}{Remek. Volna még néhány kérdésem.}
-{145}{}{Remek. Üdv!}
+{144}{}{Volna még néhány kérdésem.}
+{145}{}{Viszlát!}
 {146}{}{Olyan kutatásokat végzünk, amelyek megváltoztatják a világot. Ha további válaszokat szeretne, keresse fel Dr. Wong Yi Tze-t!}
 {147}{}{Felkeresem, viszont addig is hadd kérdezzek még egy s mást.}
 {148}{}{Felkeresem. Viszlát!}
@@ -56,22 +55,22 @@
 {154}{}{Valóban nem. A rendes nevem }
 {155}{}{Ennél több névre nincs szüksége, vénember!}
 {156}{}{Ez lehetetlen. Minden jót!}
-{157}{}{-kész-}
+{157}{}{[DONE]}
 {158}{}{Ennél azért többet is mondhatna. Tudom, hogy mûködik az "üzlet". Voltam már New Renóban korábban.}
 {159}{}{Oké, a nevem }
 {160}{}{Ez az igazi nevem! Most pedig hadd beszéljek az Uralkodóval!}
 {161}{}{Kiváló! A következõt kérném magától: északi irányban létezik egy apró katonai bázis, Navarro néven. Rengeteg gépmadár állomásozik ott. Ahhoz, hogy legyárthassuk a sajátunkat, szükségünk van a terveire. Ha megszerzi nekünk, az Uralkodó elé járulhat.}
 {162}{}{Legyen.}
-{163}{}{Hogyisne!}
+{163}{}{Felejtsük el!}
 {164}{}{Nem gondolta meg magát a tesztünket illetõen?}
-{165}{}{Nem én.}
-{166}{}{Ami azt illeti... meggondoltam magam.}
+{165}{}{Nem.}
+{166}{}{Ó, rendben. Úgy lesz.}
 {167}{}{Én nem hallottam semmiféle eltûnt falusiakról. Lehet, hogy az Uralkodó többet tudna róluk.}
 {168}{}{Volna még néhány kérdésem.}
-{169}{}{Köszönöm. Úgy teszek.}
+{169}{}{Kösz. Viszlát!}
 {170}{}{Volna itt egy második teszt: a Hubologisták az ellenségeink. A vezetõjük, BHK-9 rendszeresen elrabolja a gyermekeinket és agymosást végez rajtuk. Ölje meg nekünk a Shik nevében és lehetõvé teszem, hogy beszélhessen az Uralkodóval!}
-{171}{}{Vegye máris halottnak!}
-{172}{}{Nem-nem, ez nem kóser.}
+{171}{}{Már halottnak is veheti.}
+{172}{}{Nem, nem hinném}
 {173}{}{Nem? Szomorú vagyok, de egyúttal meg is értem. Legyen szerencséje az útja során! Ha meggondolná magát, bármikor elérhet itt.}
 {174}{}{Hogyne! Viszont volna még néhány kérdésem.}
 {175}{}{Igen. Viszlát!}
@@ -82,12 +81,12 @@
 {180}{}{Az. Pedig sajnos naponta kell ilyen emberekkel találkoznom!}
 {181}{}{Hát... akkor még kérdeznék ezt-azt.}
 {182}{}{Ó, szegény ember... Na, üdv!}
-{183}{}{Kétségtelen, hogy maga megérdemli az üzemanyagunkat. Hiszem, hogy magára bízhatom a titkainkat is. A hátsó fertályban észreveheti, hogy a nagy számítógépet védõ erõtér ki lett kapcsolva. Üsse be a "CSPDMSHR-Shih-huang-ti-X9372" jelszót és máris rácsatlakozott az Uralkodó-Számítógépre. Az Uralkodó oda fogja irányítani az üzemanyagot, ahova csak szeretné.}
+{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
 {184}{}{Köszi.}
 {185}{}{Õrség! Ide jött az ellenség egyik embere! Õrség!}
 {186}{}{Valóban? Talán meg szeretné leckéztetni õket? Megígérhetem, hogy teljes támogatásunkról biztosítjuk magát, ha megöli BHK-9-et.}
 {187}{}{Már halottnak is veheti.}
-{188}{}{Nem-nem.}
+{188}{}{Nem.}
 {189}{}{Kiváló. Remélem, hamarosan beszámolhat a sikerérõl.}
 {190}{}{Úgy lesz. Hadd kérdezzek még addig is!}
 {191}{}{Úgy lesz. Üdv!}
@@ -98,9 +97,9 @@
 {196}{}{Most nem. Ellenben volna néhány kérdésem.}
 {197}{}{Bebizonyította, hogy maga a Shik barátja. Mostantól magára bízhatom a titkainkat is. A hátsó fertályban észreveheti, hogy a nagy számítógépet védõ erõtér ki lett kapcsolva. Üsse be a "CSPDMSHR-Shih-huang-ti-X9372" jelszót és máris rácsatlakozott az Uralkodó-Számítógépre. Remélem, ez hasznosnak bizonyul majd.}
 {198}{}{Az Uralkodó egy SZÁMÍTÓGÉP?}
-{199}{}{Fogom. Köszi.}
+{199}{}{Vettem. Kösz.}
 {200}{}{Igen. Õ tárolja a történelmünket, a kutatási anyagainkat, és a jövõbeli projektjeink terveit. Sokkal jobb, mint egy gyarló ember! Mellesleg a javaslatait a saját emberi természetünknek megfelelõ tudással elegyítjük.}
-{201}{}{Öö... értem. Hát köszönöm, hogy rám pazarolta az idejét. Volna még egy falu, amit meg kell mentenem.}
+{201}{}{I ... see. Well, thanks for your time.}
 {202}{}{Kémeink azt jelezték, hogy maga átadta a gépmadár terveit a Hubologistáknak. Lopja el tõlük, és busásan megjutalmazzuk érte!}
 {203}{}{Mérget vehet rá. Ellenben még kérdeznék.}
 {204}{}{Szó sem lehet róla!}
@@ -111,11 +110,11 @@
 {209}{}{Oké. Addig is feltennék néhány kérdést.}
 {210}{}{Oké. Viszlát!}
 {211}{}{. Szeretnék találkozni az Uralkodóval.}
-{212}{}{.}
+{212}{}{ vagyok.}
 {213}{}{Emlékezzen rá, hogy Dr. Wong Yi Tze-nek kell odaadnia a terveket!}
 {214}{}{Remélem, nem azért jött, hogy inzultáljon...}
 {215}{}{Ahogy azt már mondtam, tudnunk kell, hogy hívják magát.}
-{216}{}{Nos, a nevem}
+{216}{}{All right, it's}
 {217}{}{Kopjon már le a nevemrõl, maga idióta!}
 {218}{}{Emlékezzen, az Uralkodó várja, hogy BHK-9 meghaljon...}
 {219}{}{Sajnálom, de az üzemanyagunkat nem tudom felajánlani. Talán azért jött, hogy beszéljen az Uralkodóval?}
@@ -123,7 +122,9 @@
 {221}{}{Kérdezhetek valami mást?}
 {222}{}{Bárcsak felajánlhatnám az üzemanyagunkat, de sajnos a készleteink leapadtak. Valami módon átkerültek a Hubologistákhoz. Talán kéne találnia valakit, aki visszaszerzi nekünk.}
 {223}{}{Most akkor találkozhatok az Uralkodóval?}
-{224}{}{Tiszteletteljesen emlékeztetném magát arra, hogy a Dr. Wong Yi Tze számára eljuttatott gépmadár tervek ellenére sem adhatom meg az engedélyt egy Uralkodóval való találkozásra. Remélem, megérti.}
+{224}{}{I respectfully remind you that unless you have given the vertibird plans to Dr. Wong Yi Tze, I cannot grant you access to the Emperor. I hope you understand.}
 {500}{}{Azon nyomban távozzon, kérem, különben hívom az õrséget!}
 {501}{}{Távozzon! Ez a második figyelmeztetés!}
 {502}{}{Ez az utolsó figyelmeztetés!}
+{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{2001}{}{Öö... értem. Hát köszönöm, hogy rám pazarolta az idejét. Volna még egy falu, amit meg kell mentenem.}

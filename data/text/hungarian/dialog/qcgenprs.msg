@@ -1,9 +1,8 @@
-# Dialog Editor last position: 72
 {100}{}{Egy mogorva embert látsz menedékruhában.}
 {101}{}{Egy fogoly a 13-as Menedékbõl.}
 {102}{}{Egy nagyon sápadt embert látsz, aki menedékruhát visel.}
 {103}{}{Törzsed egyik tagját látod.}
-{104}{}{Egy másik törzstagot látsz.}
+{104}{}{You see a fellow tribe member.}
 {105}{}{A törzsed egyik tagját látod. Elég ramatyul néz ki.}
 {106}{}{Ez a hely túl rozsdás ahhoz, hogy menedék legyen.}
 {107}{}{Azt hiszem, ez az óceán hangja.}
@@ -20,11 +19,11 @@
 {118}{}{Te vagy... te vagy az, Kiválasztott?}
 {119}{}{Beszélned kellene a Bölccsel!}
 {120}{}{A Bölcs azt mondta, hogy megmentesz bennünket!}
-{121}{}{Beszéltél már a Bölccsel?}
+{121}{}{Beszéltél már a Törzsfõvel?}
 {122}{}{A Bölcs az elsõ cellában van. Beszélned kellene vele!}
 {123}{}{Beszélj a Bölccsel!}
-{124}{}{Szabadíts ki!}
-{125}{}{Juttass ki innen!}
+{124}{}{Szabadíts ki minket!}
+{125}{}{Juttass ki innen bennünket!}
 {126}{}{Már nem tudom elviselni ezeket a falakat.}
 {127}{}{Úgy vágyom már a szél érintését az arcomon!}
 {128}{}{Szabadíts ki bennünket, Kiválasztott!}
@@ -43,14 +42,14 @@
 {141}{}{Vágd el az energia ellátást!}
 {142}{}{Szabadíts ki bennünet!}
 {143}{}{Menj, vigyél ki bennünket!}
-{144}{}{Segíts rajtunk, kérlek!}
+{144}{}{Kérlek, segíts rajtunk!}
 {145}{}{Te vagy az egyetlen reményünk.}
 {146}{}{Kérlek, már nem húzom itt sokáig!}
 {147}{}{Nem akarok újabb gyógyszert! Neeeeeeeem!}
 {148}{}{A szellemek védelme alatt állunk!}
 {149}{}{Hol vannak a szellemek, amikor szükség van rájuk?}
 {150}{}{Segíts rajtunk!}
-{151}{}{Szabadíts ki!}
+{151}{}{Szabadíts ki minket!}
 {152}{}{Haza akarok menni!}
 {153}{}{Elõször az aszály, most meg ezek.}
 {154}{}{Tût ne! Csak tût ne, neeeeeeeeee!}
@@ -62,7 +61,7 @@
 {160}{}{Nem is érdekel.}
 {161}{}{Hol van Martin?}
 {162}{}{Ez egyáltalán nem Menedék!}
-{163}{}{Engedjetek ki minket!}
+{163}{}{Vigyél ki bennünket innen!}
 {164}{}{Hahó! Helló!}
 {165}{}{Követelem, hogy engedjenek ki!}
 {166}{}{Amerikai polgár vagyok, és látni akarom a parancsnokot!}

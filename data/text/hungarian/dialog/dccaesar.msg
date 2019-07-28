@@ -1,18 +1,17 @@
-# Dialog Editor last position: 150
 {100}{}{A Rabszolga-Céh egyik tagját látod.}
 {150}{}{Metzger, a Rabszolga-Céh vezetõje.}
-{151}{}{[Beszéd]}
+{151}{}{[Beszélgetés]}
 {152}{}{Õrség! Támadás!}
 {153}{}{[kész]}
 {154}{}{Gyere vissza reggel, a francba! Én csak nap közben üzletelek.}
 {155}{}{[kész]}
 {156}{}{Most meg mi van? Kezdesz rohadtul idegesíteni!}
 {157}{}{Szeretnék elnézést kérni.}
-{158}{}{Sajnálom, be voltam nyomva korábban. Nem akartalak megbántani.}
+{158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
 {159}{}{Héé, neked meg mi bajod?}
 {160}{}{Szeretnék kérdezni valamit.}
 {161}{}{Úgy tûnik, hogy van. Viszlát!}
-{162}{}{Vááh.}
+{162}{}{Áh.}
 {163}{}{Hát, ezzel elkéstél. Takarodj kifelé!}
 {164}{}{Légyszi, légyszi, légyszi... elnézést kérek.}
 {165}{}{Na, mindegy, legalább megpróbáltam.}
@@ -31,7 +30,7 @@
 {178}{}{Kérlek távozz. Most azonnal!}
 {179}{}{Különben?}
 {180}{}{Rendben. De még visszajövök!}
-{181}{}{Oké. Viszlát!}
+{181}{}{Oké. Helló!}
 {182}{}{Mit szeretnél tudni?}
 {183}{}{Vicrõl, a kereskedõrõl...}
 {184}{}{Csatlakozhatok a Rabszolga-Céhhez?}
@@ -46,17 +45,19 @@
 {193}{}{Semmit. Mennem kell.}
 {195}{}{Egy régi nyelvbõl származik. Háború elõtti vagy micsoda.}
 {196}{}{Metzger hentest jelent. Találó, nem gondolod?}
-{197}{}{A dédapámat hívták így. Valahonnan a messzi keletrõl jött. Egy nagy rakás vizen túlról.}
+{197}{}{That was my great grandfather's name. He came from somewhere far to
+ the east. Across a large body of water.}
 {198}{}{Olvastam egy könyvet egy Metzgerrõl. Elnök volt vagy micsoda.}
-{199}{}{Nézzetek, ki beszél itt törzsi nyelven.}
+{199}{}{Look who's talking tribal.}
 {200}{}{Némat, német, nemét, vagy valami ilyesmi. Õsi nyelv, már nagyon régi.}
 {201}{}{Et tu, Brutus?}
 {202}{}{Értem. Bár, volna még néhány kérdésem.}
 {203}{}{Ez a leghülyébb dolog, amit egész életemben hallottam.}
 {204}{}{Lenyûgözõ... viszont mennem kell.}
-{205}{}{A feladatunk, hogy állandó és jó minõségû munkaerõt biztosítsunk a nagyvárosoknak. Az igény egyre csak nõ. Szeretnél csatlakozni hozzánk?}
+{205}{}{Our mission is to provide a steady and high-quality labor force to
+ handle the ever-growing demands of the larger cities. Would you like to join?}
 {206}{}{Persze. Jól hangzik.}
-{207}{}{Semmiképp.}
+{207}{}{Szó sem lehet róla!}
 {208}{}{Erre majd még visszaérünk. Mely városok veszik a rabszolgáitokat?}
 {209}{}{Sajnálom, ez csak a céh tagjaira tartozik.}
 {210}{}{Oké. Belépek!}
@@ -76,10 +77,10 @@
 {224}{}{Vedd úgy, hogy nem mondtam semmit!}
 {225}{}{A rabszolgáink nagy részét Menedékvárosnak és New Renónak adjuk el. New Reno innen délkeletre van és a Rejtekbeliek többsége üzletel velük.}
 {226}{}{Hol van Menedékváros?}
-{227}{}{Van még kérdésem.}
+{227}{}{Volna még néhány kérdésem.}
 {228}{}{Kösz, mennem kell.}
 {229}{}{Menedékváros innen keletre és egy kicsit délre van. Onnan jött Vic.}
-{230}{}{Kérdeznék valamit.}
+{230}{}{Volna még néhány kérdésem.}
 {231}{}{Kösz, mennem kell.}
 {232}{}{Hmm, egészséges rabszolgának látszik. Adok érte }
 {233}{}{ dollárt.}
@@ -88,8 +89,8 @@
 {236}{}{Semmiképp! Kétszer ennyit akarok érte!}
 {237}{}{Neked aztán van üzleti érzéked. Itt a pénzed.}
 {238}{}{Kösz. Van még pár kérdésem.}
-{239}{}{Kösz. Minden jót!}
-{240}{}{Még valamit?}
+{239}{}{Kösz. Viszlát!}
+{240}{}{Másvalamit?}
 {241}{}{Igen, egy kérdés.}
 {242}{}{Nem. Szeva.}
 {243}{}{Melyik "barátodat" akarod eladni?}
@@ -107,12 +108,12 @@
 {255}{}{Mit akarsz Vic-kel? Õ már az én tulajdonom. Nem kellett volna átbasznia.}
 {256}{}{Meg akarom venni.}
 {257}{}{Miért tartod itt?}
-{258}{}{Semmit. Felejtsd el.}
+{258}{}{Semmi-semmi... Nem érdekes.}
 {259}{}{Nem eladó... egyelõre.}
-{260}{}{Miért nem?}
-{261}{}{Óh, rendben.}
+{260}{}{Merthogy?}
+{261}{}{Rendben.}
 {262}{}{2000 dollárba kerül.}
-{263}{}{Itt a pénz.}
+{263}{}{Itt a pénzed.}
 {264}{}{Az rengeteg. Talán késõbb.}
 {265}{}{1000 dollárod bánja.}
 {266}{}{Itt a pénzed.}
@@ -125,27 +126,27 @@
 {307}{}{Hogy mersz viszajönni, miután cserben hagytad a barátaidat a rabszolga-vadászaton? Õrség! Támadás!}
 {308}{}{[kész]}
 {309}{}{Kiváló! Pár napodba telik, amíg oda-vissza megjárod az utat. Készen állsz?}
-{310}{}{Nem. Majd viszajövök késõbb.}
+{310}{}{Nem. Késõbb visszajövök.}
 {311}{}{Igen, készen állok. Menjünk!}
 {312}{}{Áh, visszajöttél a rabszolga-vadászatról. Nézzük csak, hogy muzsikáltál...}
-{313}{}{[tovább]}
-{314}{}{[tovább]}
+{313}{}{[még]}
+{314}{}{[még]}
 {315}{}{Potenciális rabszolgákat öltél meg! A halott ember nem hoz bevételt! Csak azokat öld meg, akik rádtámadnak!}
-{316}{}{[tovább]}
+{316}{}{[még]}
 {317}{}{Egyetlen rabszolgát sem hoztál! Mi a franc van veled, ember? Mi itt pénzt akarunk keresni, nem akarjuk kiszórni az ablakon!}
-{318}{}{[tovább]}
+{318}{}{[még]}
 {319}{}{Mindent összevetve jó munkát végeztél. Csak így tovább, és szép jövõd lesz a céhnél.}
 {320}{}{Köszönöm. Rajta leszek...}
 {321}{}{Ez nem igazán tetszik nekem.}
 {322}{}{Javítanod kell a rabszolga-ejtési technikádon.}
-{323}{}{Igyekszem.}
+{323}{}{Megpróbálom.}
 {324}{}{Elnézést kérek a szörnyû szereplésemért.}
 {325}{}{Azt hiszem, elég jó vagyok.}
 {326}{}{Francba! Szörnyû voltál ezen a vadászaton! Csõdbe akarsz juttatni minket? Légy óvatosabb legközelebb! Nem kell mindegyiket megölni! Csak az ellenségesekkel végezz! A fegyverteleneket hagyd meg begyûjtésre.}
 {327}{}{Igazán sajnálom, Metzger.}
 {328}{}{Nehéz a rabszolga-hajcsárok dolga!}
 {329}{}{Szeretném látni, hogy jobban csinálod.}
-{330}{}{Rabszolga-vadászatra szeretnék menni.}
-{331}{}{Picsába! Utálok céhtagokat veszíteni a vadászatokon. Próbáljatok figyelni egymásra!}
+{330}{}{Szeretnék elmenni egy rabszolga-vadászatra.}
+{331}{}{Damn it! I hate losing any guild member on a Run. Try to watch each other's back!}
 {332}{}{Összegezve a dolgokat, jó munkát végeztél. Itt van }
 {333}{}{ dollár buzdítás gyanánt, hogy továbbra is hasonlóan jó munkát végezz.}

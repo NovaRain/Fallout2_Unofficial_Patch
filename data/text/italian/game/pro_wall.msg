@@ -55,45 +55,45 @@
 {5300}{}{Parete}
 {5400}{}{Parete}
 {5500}{}{Finestra in Acciaio}
-{5600}{}{Tubo}
-{5700}{}{Tubo}
-{5800}{}{Tubo}
+{5600}{}{Tubatura}
+{5700}{}{Tubatura}
+{5800}{}{Tubatura}
 {5900}{}{Equipaggiamento}
 {5901}{}{}
 {6000}{}{Tubature}
-{6100}{}{Tubo}
-{6200}{}{Tubo}
-{6300}{}{Tubo}
-{6400}{}{Tubo}
-{6500}{}{Tubo}
-{6600}{}{Tubo}
+{6100}{}{Tubatura}
+{6200}{}{Tubatura}
+{6300}{}{Tubatura}
+{6400}{}{Tubatura}
+{6500}{}{Tubatura}
+{6600}{}{Tubatura}
 {6700}{}{Tubature}
 {6800}{}{Tubature}
 {6900}{}{Tubature}
-{7000}{}{Tubo}
-{7100}{}{Tubo}
-{7200}{}{Tubo}
-{7300}{}{Tubo}
-{7400}{}{Tubo}
+{7000}{}{Tubatura}
+{7100}{}{Tubatura}
+{7200}{}{Tubatura}
+{7300}{}{Tubatura}
+{7400}{}{Tubatura}
 {7500}{}{Equipaggiamento}
 {7501}{}{}
 {7600}{}{Tubature}
 {7700}{}{Equipaggiamento}
 {7701}{}{}
-{7800}{}{Tubo}
+{7800}{}{Tubatura}
 {7900}{}{Tubature}
 {8000}{}{Tubature}
-{8100}{}{Tubo}
+{8100}{}{Tubatura}
 {8200}{}{Tubature}
-{8300}{}{Tubo}
-{8400}{}{Tubo}
+{8300}{}{Tubatura}
+{8400}{}{Tubatura}
 {8500}{}{Gizmo}
-{8600}{}{Palizzata di Legno}
-{8700}{}{Palizzata di Legno}
-{8800}{}{Palizzata di Legno}
-{8900}{}{Palizzata di Legno}
-{9000}{}{Palizzata di Legno}
-{9100}{}{Palizzata di Legno}
+{8600}{}{Palizzata in Legno}
+{8700}{}{Palizzata in Legno}
+{8800}{}{Palizzata in Legno}
+{8900}{}{Palizzata in Legno}
+{9000}{}{Palizzata in Legno}
+{9100}{}{Palizzata in Legno}
 {9200}{}{Parete}
 {9300}{}{Parete}
 {9400}{}{Parete}
@@ -176,76 +176,76 @@
 {17100}{}{Inferriata d'Acciaio}
 {17200}{}{Inferriata d'Acciaio}
 {17300}{}{Inferriata d'Acciaio}
-{17400}{}{Parete della Caverna}
-{17500}{}{Parete della Caverna}
-{17600}{}{Parete della Caverna}
-{17700}{}{Parete della Caverna}
-{17800}{}{Parete della Caverna}
-{17900}{}{Parete della Caverna}
-{18000}{}{Parete della Caverna}
-{18100}{}{Parete della Caverna}
-{18200}{}{Parete della Caverna}
-{18300}{}{Parete della Caverna}
-{18400}{}{Parete della Caverna}
-{18500}{}{Parete della Caverna}
-{18600}{}{Parete della Caverna}
-{18700}{}{Parete della Caverna}
-{18800}{}{Parete della Caverna}
-{18900}{}{Parete della Caverna}
-{19000}{}{Parete della Caverna}
-{19100}{}{Parete della Caverna}
-{19200}{}{Parete della Caverna}
-{19300}{}{Parete della Caverna}
-{19400}{}{Parete della Caverna}
-{19500}{}{Parete della Caverna}
-{19600}{}{Parete della Caverna}
-{19700}{}{Parete della Caverna}
-{19800}{}{Parete della Caverna}
-{19900}{}{Parete della Caverna}
-{20000}{}{Parete della Caverna}
-{20100}{}{Parete della Caverna}
-{20200}{}{Parete della Caverna}
-{20300}{}{Parete della Caverna}
-{20400}{}{Parete della Caverna}
-{20500}{}{Parete della Caverna}
-{20600}{}{Parete della Caverna}
-{20700}{}{Parete della Caverna}
-{20800}{}{Parete della Caverna}
-{20900}{}{Parete della Caverna}
-{21000}{}{Parete della Caverna}
-{21100}{}{Parete della Caverna}
-{21200}{}{Parete della Caverna}
-{21300}{}{Parete della Caverna}
-{21400}{}{Parete della Caverna}
-{21500}{}{Parete della Caverna}
-{21600}{}{Parete della Caverna}
-{21700}{}{Parete della Caverna}
-{21800}{}{Parete della Caverna}
-{21900}{}{Parete della Caverna}
-{22000}{}{Parete della Caverna}
-{22100}{}{Parete della Caverna}
-{22200}{}{Parete della Caverna}
-{22300}{}{Parete della Caverna}
-{22400}{}{Parete della Caverna}
-{22500}{}{Parete della Caverna}
-{22600}{}{Parete della Caverna}
-{22700}{}{Parete della Caverna}
-{22800}{}{Parete della Caverna}
-{22900}{}{Parete della Caverna}
-{23000}{}{Parete della Caverna}
-{23100}{}{Parete della Caverna}
-{23200}{}{Parete della Caverna}
-{23300}{}{Parete della Caverna}
-{23400}{}{Parete della Caverna}
-{23500}{}{Parete della Caverna}
-{23600}{}{Parete della Caverna}
-{23700}{}{Parete della Caverna}
-{23800}{}{Parete della Caverna}
-{23900}{}{Parete della Caverna}
-{24000}{}{Parete della Caverna}
-{24100}{}{Parete della Caverna}
-{24200}{}{Parete della Caverna}
-{24300}{}{Parete della Caverna}
+{17400}{}{Parete della Grotta}
+{17500}{}{Parete della Grotta}
+{17600}{}{Parete della Grotta}
+{17700}{}{Parete della Grotta}
+{17800}{}{Parete della Grotta}
+{17900}{}{Parete della Grotta}
+{18000}{}{Parete della Grotta}
+{18100}{}{Parete della Grotta}
+{18200}{}{Parete della Grotta}
+{18300}{}{Parete della Grotta}
+{18400}{}{Parete della Grotta}
+{18500}{}{Parete della Grotta}
+{18600}{}{Parete della Grotta}
+{18700}{}{Parete della Grotta}
+{18800}{}{Parete della Grotta}
+{18900}{}{Parete della Grotta}
+{19000}{}{Parete della Grotta}
+{19100}{}{Parete della Grotta}
+{19200}{}{Parete della Grotta}
+{19300}{}{Parete della Grotta}
+{19400}{}{Parete della Grotta}
+{19500}{}{Parete della Grotta}
+{19600}{}{Parete della Grotta}
+{19700}{}{Parete della Grotta}
+{19800}{}{Parete della Grotta}
+{19900}{}{Parete della Grotta}
+{20000}{}{Parete della Grotta}
+{20100}{}{Parete della Grotta}
+{20200}{}{Parete della Grotta}
+{20300}{}{Parete della Grotta}
+{20400}{}{Parete della Grotta}
+{20500}{}{Parete della Grotta}
+{20600}{}{Parete della Grotta}
+{20700}{}{Parete della Grotta}
+{20800}{}{Parete della Grotta}
+{20900}{}{Parete della Grotta}
+{21000}{}{Parete della Grotta}
+{21100}{}{Parete della Grotta}
+{21200}{}{Parete della Grotta}
+{21300}{}{Parete della Grotta}
+{21400}{}{Parete della Grotta}
+{21500}{}{Parete della Grotta}
+{21600}{}{Parete della Grotta}
+{21700}{}{Parete della Grotta}
+{21800}{}{Parete della Grotta}
+{21900}{}{Parete della Grotta}
+{22000}{}{Parete della Grotta}
+{22100}{}{Parete della Grotta}
+{22200}{}{Parete della Grotta}
+{22300}{}{Parete della Grotta}
+{22400}{}{Parete della Grotta}
+{22500}{}{Parete della Grotta}
+{22600}{}{Parete della Grotta}
+{22700}{}{Parete della Grotta}
+{22800}{}{Parete della Grotta}
+{22900}{}{Parete della Grotta}
+{23000}{}{Parete della Grotta}
+{23100}{}{Parete della Grotta}
+{23200}{}{Parete della Grotta}
+{23300}{}{Parete della Grotta}
+{23400}{}{Parete della Grotta}
+{23500}{}{Parete della Grotta}
+{23600}{}{Parete della Grotta}
+{23700}{}{Parete della Grotta}
+{23800}{}{Parete della Grotta}
+{23900}{}{Parete della Grotta}
+{24000}{}{Parete della Grotta}
+{24100}{}{Parete della Grotta}
+{24200}{}{Parete della Grotta}
+{24300}{}{Parete della Grotta}
 {24400}{}{Parete di Legno}
 {24500}{}{Parete di Legno}
 {24600}{}{Parete di Legno}
@@ -846,7 +846,7 @@
 {84100}{}{Finestra}
 {84200}{}{Finestra}
 {84300}{}{Parete}
-{84400}{}{Pilastro}
+{84400}{}{Obelisco}
 {84500}{}{Entrata}
 {84600}{}{Entrata}
 {84700}{}{Parete}
@@ -981,18 +981,18 @@
 {97400}{}{Recinto}
 {97500}{}{Recinto}
 {97600}{}{Recinto}
-{97700}{}{Autocarro}
-{97800}{}{Autocarro}
-{97900}{}{Autocarro}
-{98000}{}{Autocarro}
-{98100}{}{Autocarro}
-{98200}{}{Autocarro}
-{98300}{}{Autocarro}
-{98400}{}{Autocarro}
-{98500}{}{Autocarro}
-{98600}{}{Autocarro}
-{98700}{}{Autocarro}
-{98800}{}{Parete della Caverna}
+{97700}{}{Camion}
+{97800}{}{Camion}
+{97900}{}{Camion}
+{98000}{}{Camion}
+{98100}{}{Camion}
+{98200}{}{Camion}
+{98300}{}{Camion}
+{98400}{}{Camion}
+{98500}{}{Camion}
+{98600}{}{Camion}
+{98700}{}{Camion}
+{98800}{}{Parete della Grotta}
 {98900}{}{Parete}
 {99000}{}{Parete}
 {99100}{}{Parete}
@@ -1253,17 +1253,17 @@
 {123900}{}{Entrata}
 {124000}{}{Entrata}
 {124100}{}{Entrata}
-{124200}{}{Supporto in Legno}
-{124300}{}{Supporto in Legno}
-{124400}{}{Supporto in Legno}
-{124500}{}{Supporto in Legno}
-{124600}{}{Supporto in Legno}
-{124700}{}{Supporto in Legno}
-{124800}{}{Supporto in Legno}
-{124900}{}{Supporto in Legno}
-{125000}{}{Supporto in Legno}
-{125100}{}{Supporto in Legno}
-{125200}{}{Supporto in Legno}
+{124200}{}{Supporto di Legno}
+{124300}{}{Supporto di Legno}
+{124400}{}{Supporto di Legno}
+{124500}{}{Supporto di Legno}
+{124600}{}{Supporto di Legno}
+{124700}{}{Supporto di Legno}
+{124800}{}{Supporto di Legno}
+{124900}{}{Supporto di Legno}
+{125000}{}{Supporto di Legno}
+{125100}{}{Supporto di Legno}
+{125200}{}{Supporto di Legno}
 {125300}{}{Parete}
 {125400}{}{Parete}
 {125500}{}{Parete}
@@ -1542,28 +1542,28 @@
 {152800}{}{Entrata}
 {152900}{}{Entrata}
 {153000}{}{Entrata}
-{153100}{}{Paratia dello Shuttle}
-{153200}{}{Paratia dello Shuttle}
-{153300}{}{Paratia dello Shuttle}
-{153400}{}{Paratia dello Shuttle}
-{153500}{}{Paratia dello Shuttle}
-{153600}{}{Paratia dello Shuttle}
-{153700}{}{Paratia dello Shuttle}
-{153800}{}{Paratia dello Shuttle}
-{153900}{}{Paratia dello Shuttle}
-{154000}{}{Paratia dello Shuttle}
-{154100}{}{Paratia dello Shuttle}
-{154200}{}{Paratia dello Shuttle}
-{154300}{}{Paratia dello Shuttle}
-{154400}{}{Paratia dello Shuttle}
-{154500}{}{Paratia dello Shuttle}
-{154600}{}{Paratia dello Shuttle}
-{154700}{}{Paratia dello Shuttle}
-{154800}{}{Paratia dello Shuttle}
-{154900}{}{Paratia dello Shuttle}
-{155000}{}{Paratia dello Shuttle}
-{155100}{}{Paratia dello Shuttle}
-{155200}{}{Paratia dello Shuttle}
+{153100}{}{Parete dello Shuttle}
+{153200}{}{Parete dello Shuttle}
+{153300}{}{Parete dello Shuttle}
+{153400}{}{Parete dello Shuttle}
+{153500}{}{Parete dello Shuttle}
+{153600}{}{Parete dello Shuttle}
+{153700}{}{Parete dello Shuttle}
+{153800}{}{Parete dello Shuttle}
+{153900}{}{Parete dello Shuttle}
+{154000}{}{Parete dello Shuttle}
+{154100}{}{Parete dello Shuttle}
+{154200}{}{Parete dello Shuttle}
+{154300}{}{Parete dello Shuttle}
+{154400}{}{Parete dello Shuttle}
+{154500}{}{Parete dello Shuttle}
+{154600}{}{Parete dello Shuttle}
+{154700}{}{Parete dello Shuttle}
+{154800}{}{Parete dello Shuttle}
+{154900}{}{Parete dello Shuttle}
+{155000}{}{Parete dello Shuttle}
+{155100}{}{Parete dello Shuttle}
+{155200}{}{Parete dello Shuttle}
 {155300}{}{Emettitore di Campo di Forza}
 {155400}{}{Parete}
 {155500}{}{Parete}

@@ -2,7 +2,7 @@
 {101}{}{Vedi Madame Modjeska.}
 {102}{}{Voglio rimanere sola.}
 {103}{}{Vattene, per favore.}
-{104}{}{Non seccarmi.}
+{104}{}{Non scocciarmi.}
 {105}{}{Vattene.}
 {106}{}{Non sopporto gli stupidi.}
 {107}{}{La maggior parte del volgo lavora solo per procurarsi abbastanza Jet. Hanno bisogno di qualcosa che allontani i loro pensieri da questo posto.}
@@ -27,7 +27,7 @@
 {126}{}{Jet? Cos'e' il Jet?}
 {127}{}{Capisco. Arrivederci.}
 {128}{}{Io sono... Madame Modjeska. Che cosa vuoi da me?}
-{129}{}{Cosa posso fare per te?}
+{129}{}{Come posso aiutarla?}
 {130}{}{Non ho tempo da perdere. Che cosa vuoi da Madame Modjeska?}
 {131}{}{Al momento avrei altro da fare. Che cosa vuoi?}
 {132}{}{Madame Modjeska e' indisposta, oggi. Che cosa vuoi da lei?}
@@ -40,9 +40,9 @@
 {139}{}{Perche' ti chiamano Madame Modjeska?}
 {140}{}{C'e' qualcosa che non va?}
 {141}{}{Che cosa ti e' successo?}
-{142}{}{Ultimamente non faccio molto. Una volta aiutavo Lou a gestire il Malamute Saloon - ma poi abbiamo litigato e io me ne sono andata.} ###???I used to run part of Lou's operation at the Malamute Saloon - but we had a falling out, so I quit
+{142}{}{Ultimamente non faccio molto. Una volta aiutavo Lou a gestire il Malamute Saloon - ma poi abbiamo litigato e io me ne sono andata.}
 {143}{}{Lascia che ti chieda qualcos'altro.}
-{144}{}{Capisco. Beh, questo e' tutto cio' che volevo sapere. Arrivederci.}
+{144}{}{Capisco. Beh, questo e' tutto quello che volevo sapere. Arrivederci.}
 {145}{}{L'argomento piu' gettonato e' sicuramente la politica. Ci si scalda sempre molto quando si discute di certi argomenti.}
 {146}{}{La politica? Che cosa vuoi dire?}
 {147}{}{Okay. Lascia che ti chieda qualcos'altro.}
@@ -50,7 +50,7 @@
 {149}{}{Una volta lavoravo al Malamute Saloon. Per questo motivo, la gente mi chiamava Madame. E il nome mi e' rimasto, sebbene io non lavori piu' in quel locale.}
 {150}{}{E adesso dove lavori?}
 {151}{}{Lascia che ti chieda qualcos'altro.}
-{152}{}{Credo che per il momento possa bastare. Ci vediamo.}
+{152}{}{Credo sia tutto, per adesso. Ci vediamo.}
 {153}{}{Qualche giorno fa mi sono sparata una dose di Jet che mi ha fatto stare piuttosto male. Doveva essere una partita tagliata male. Non ho certo voglia di riprovarci. Oh beh, immagino che sia giunto il momento di attaccarsi di nuovo alla cara, vecchia bottiglia.}
 {154}{}{Una brutta storia. Lascia che ti chieda qualcos'altro.}
 {155}{}{Capisco. Beh, questo e' tutto quello che volevo sapere. Arrivederci.}
@@ -82,12 +82,12 @@
 {181}{}{Lo strato di grasso sul vitello si sta assottigliando. Presto, una delle potenze sara' costretta a fare una mossa decisiva per prendere Redding prima che lo facciano le altre due. Quando cio' accadra', le persone, molte persone, soffriranno.}
 {182}{}{Chi lavora per chi?}
 {183}{}{Perche' una cosa del genere comporterebbe una danno per le persone?}
-{184}{}{Grazie per le informazioni. Arrivederci.}
+{184}{}{Grazie per le informazioni. Ci vediamo.}
 {185}{}{Non sono sicura al cento per cento, ma credo che la situazione sia questa: Dan McGrew tifa New Reno, Marge LeBarge sta con NCR, Doc Johnson e' per Vault City, e il sindaco Ascorti non so da che parte stia.}
 {186}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
 {187}{}{Chi e' Marge LeBarge?}
 {188}{}{Chi e' Dan McGrew?}
-{189}{}{Chi e' Doc Johnson?}
+{189}{}{Chi e' il dottor Johnson?}
 {190}{}{Chi e' il sindaco Ascorti?}
 {191}{}{Grazie per le informazioni. Ci vediamo.}
 {192}{}{Le persone soffriranno perche' un cambiamento di questo tipo non avviene in modo indolore. E chi teme di non riuscire a vincere il premio, si mette in testa di fare in modo che anche gli altri non lo prendano. L'unico modo per evitare tutto cio' sarebbe quello di decidere con quale potenza andare e stringere rapidamente un'alleanza prima che gli altri si facciano sotto.}
@@ -98,13 +98,13 @@
 {197}{}{Grazie per avermi fatto sapere cosa sta succedendo in citta'. Ci vediamo.}
 {198}{}{Marge LeBarge e' la proprietaria della Miniera Kokoweef. Questa e la Morningstar sono le uniche due miniere rimaste aperte a Redding. Credo che Marge sia vicina a NCR. Non penso che il loro "puritanesimo" le piaccia, ma sa riconoscere il potere, quando lo vede.}
 {199}{}{Chi e' Dan McGrew?}
-{200}{}{Chi e' Doc Johnson?}
+{200}{}{Chi e' il dottor Johnson?}
 {201}{}{Chi e' il sindaco Ascorti?}
 {202}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
 {203}{}{Grazie per le informazioni. Ci vediamo.}
 {204}{}{"Dangerous" Dan McGrew, ah, si'. E' il proprietario della Miniera Morningstar. Questa e la Kokoweef sono le uniche due miniere rimaste aperte a Redding. Credo che Dan penda piu' dalla parte di New Reno, se proprio devo buttarla la'. Gli piace che i suoi minatori siano drogati e felici.}
 {205}{}{Chi e' Marge LeBarge?}
-{206}{}{Chi e' Doc Johnson?}
+{206}{}{Chi e' il dottor Johnson?}
 {207}{}{Chi e' il sindaco Ascorti?}
 {208}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
 {209}{}{Grazie per le informazioni. Ci vediamo.}
@@ -136,6 +136,6 @@
 {235}{}{Il sindaco e' un uomo che sa come giocare su due fronti diversi mentre ruba al centro. E' un uomo con pochi scrupoli, ma fara' cio' che e' giusto per Redding. Ovvero fara' cio' che gli permettera' di salvare i suoi interessi.}
 {236}{}{Chi e' Marge LeBarge?}
 {237}{}{Chi e' Dan McGrew?}
-{238}{}{Chi e' Doc Johnson?}
+{238}{}{Chi e' il dottor Johnson?}
 {239}{}{Come potrebbero queste persone aiutare una delle tre potenze a prendere il controllo della citta'?}
 {240}{}{Grazie per le informazioni. Ci vediamo.}

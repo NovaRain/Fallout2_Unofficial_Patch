@@ -1,12 +1,11 @@
-# Dialog Editor last position: 5
 {100}{}{Egy izzó tekintetû embert látsz. Annak ellenére, hogy csimbókos a haja és ápolatlan a szakálla, az öltözéke tiszta és gondozott.}
 {101}{}{Thomas Moore.}
 {102}{}{Egy izzó tekintetû embert látsz. Annak ellenére, hogy csimbókos a haja és ápolatlan a szakálla, az öltözéke tiszta és gondozott.}
 {103}{}{Üdvözöllek, utazó! Hallottad már a szót?}
 {104}{}{Uurmph}
 {105}{}{Ecch}
-{106}{}{Humugbuu}
-{107}{}{[Elbattyogsz]}
+{106}{}{Hummagbuu}
+{107}{}{[Elcsoszogsz]}
 {108}{}{A szót? Milyen szót?}
 {109}{}{Ki vagy te?}
 {110}{}{Még nem, de nem is vagyok rá kíváncsi.}
@@ -22,8 +21,6 @@
 {120}{}{Nekem erre nincs idõm.}
 {121}{}{Barátom! Ahogy rád nézek, ERÕT látok... HITET látok. Ugye nem csalt meg a szemem? Egy jótét lélek állt elibém, aki hozzám hasonlóan érez?}
 {122}{}{A te szavaid az én szívembõl szólanak! Ámen, testvér!}
-#Csak a poen kedveert
-
 {123}{}{Igen! Eljött az idõ... az IDÕ, hogy ez a bûnre és rabszolgaságra épült város végre megnyissa a kapuit.}
 {124}{}{Mennem kell. Jó volt beszélgetni... hmm... hallgatni téged.}
 {125}{}{Engedd meg, hogy megkérdezzem, barátom! Milyen MESSZIRE mennél, hogy terjeszd a hitet?}
@@ -84,13 +81,13 @@
 {180}{}{Nem értek valamit. Miért vannak rabszolgák Menedékvárosban? Úgy tudtam, ez egy szabad város.}
 {181}{}{Hallani akarom a szót, testvérem!}
 {182}{}{Ez a város a bûnre és rabszolgaságra épült, de eljöttem, és meghoztam a fényt!}
-{183}{}{Köszönöm, magam is boldogulok.}
+{183}{}{Kösz, egyelõre elleszek magam is.}
 {184}{}{Tudom, hogy ismert az igazság, de senki sem fog segítõ kezet nyújtani.}
 {185}{}{Mit tehetünk?}
 {186}{}{Ez bizony árulásnak tûnik.}
 {187}{}{Hát ez nagy kár, viszlát!}
 {188}{}{Szélesre tárjuk a kapukat és befogadjuk a rászorulókat. Szükségük van a segítségünkre.}
-{189}{}{Igazad van. Menedékváros fejlett technológiáját másokkal is meg kell osztanunk. Bûn azt kisajátítani.}
+{189}{}{Amen! Vault City's advanced technology should be shared, not hoarded.}
 {190}{}{Nem is tudom, nekünk jó életünk van itt. Biztos, hogy szükségünk van rájuk? Végülis csak rontanák az életszínvonalat és megfertõznének minket.}
 {191}{}{Ezen még gondolkodnom kell.}
 {192}{}{Ezt én nem mondanám... egy rabszolga-tartásra épülõ város nem lehet igazán szabad.}
@@ -103,18 +100,16 @@
 {199}{}{Uurmph}
 {200}{}{Ecch}
 {201}{}{Hummagbuu}
-{202}{}{[Elslisszolsz]}
+{202}{}{[Elcsoszogsz]}
 {203}{}{A sors, az ínség kényszerített rá, de a szívem tiszta.}
 {204}{}{Azért én kérdeznék valamit. Miért vannak rabszolgák Menedékvárosban? Azt hittem, ez egy szabad város.}
 {205}{}{A nemes cél még a legaljasabb eszközt is szentesíti.}
-#hogy pontosabbak legyunk
-
 {206}{}{Értem. Viszlát!}
 {207}{}{Jó látni a megtestesült türelmetlenséget. Viszlát!}
 {208}{}{Egyik kutya, másik eb. El veled, rabszolga-hajcsár!}
 {209}{}{Kérlek, várj! Rájöttem, hogy rossz úton járok.}
 {210}{}{Rendben. Ideje felvágni a hasad és megnézni, mi van ott belül.}
-{211}{}{Jól van, elmegyek.}
+{211}{}{Akkor rendben vagyunk.}
 {212}{}{Nincs semmi mondanivalóm a magadfajta hitetleneknek. Távozz!}
 {213}{}{Hitetlen?! Hiszek benne, hogy két másodperc alatt kicsinállak.}
 {214}{}{Ráébredtem, hogy rossz úton járok. Vezekelni jöttem és hallgatni a szót.}

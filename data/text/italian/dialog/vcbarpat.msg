@@ -1,5 +1,5 @@
 {100}{}{Vedi un viaggiatore dall'aspetto anonimo.}
-{101}{}{Vedi un cliente del bar.}
+{101}{}{Vedi una cliente del bar.}
 {102}{}{Vedi un viaggiatore dall'aspetto anonimo.}
 {103}{}{Ehi! Guardate! E' quello che ha fatto vedere i sorci verdi all'Enclave!}
 {104}{}{Congratulazioni, eroe!}
@@ -10,7 +10,7 @@
 {109}{}{In guardia, gente. E' appena entrata la legge.}
 {110}{}{Sei venuto a farci visita, Cittadino?}
 {111}{}{Ma il tuo posto non e' all'interno della citta', "Cittadino"?}
-{112}{}{Quei dannati Cittadini sono liberi di andare e venire quando vogliono...} ###???Damn Citizens just stroll on in whenever they feel like it
+{112}{}{Quei dannati Cittadini sono liberi di andare e venire quando vogliono...}
 {113}{}{Whoa... quello e' un mutante?!}
 {114}{}{Occhi aperti, ragazzi. C'e' un mutante nel locale.}
 {115}{}{Saranno guai se le guardie vedono quel mutante...}
@@ -28,7 +28,7 @@
 {127}{}{Senta, io non ho fatto nulla, Capitano. Sto solo facendomi gli affari miei.}
 {128}{}{Io non so niente, Capitano. Adesso mi lasci in pace.}
 {129}{}{Togliti dai piedi, "Capitano".}
-{130}{}{Pare che chiunque possa diventare Capitano, al giorno d'oggi.}
+{130}{}{Pare che chiunque possa diventare Cittadino, al giorno d'oggi.}
 {131}{}{Ho gia' pagato le guardie per la protezione. Adesso mi lasci in pace.}
 {132}{}{Sei venuto a farci visita, Cittadino?}
 {133}{}{Forse faresti meglio a tornartene dentro le mura, Cittadino.}

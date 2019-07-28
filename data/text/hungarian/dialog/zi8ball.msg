@@ -1,6 +1,5 @@
-# Dialog Editor last position: 1
 {151}{}{}
-{199}{}{Milyen gyökér egy kérdés ez már?}
+{199}{}{Miféle elcseszett kérdés ez már?}
 {200}{}{Jók a kilátások.}
 {201}{}{A kilátások nem túl jók.}
 {202}{}{A válaszom: nem.}

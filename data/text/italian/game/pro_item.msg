@@ -60,7 +60,7 @@
 {3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
 {3100}{}{.44 Magnum JHP}
 {3101}{}{Un caricatore, calibro .44 magnum, punta cava.}
-{3200}{}{Carburante per Lanciafiamme}
+{3200}{}{Gel per Lanciafiamme}
 {3201}{}{Un cilindro contenente un liquido estremamente infiammabile, usato come carburante per lanciafiamme.}
 {3300}{}{14mm AP}
 {3301}{}{Munizioni grosso calibro. 14mm, perfora armature.}
@@ -158,8 +158,8 @@
 {7901}{}{Una torcia chimica. Fornisce luce per brevi periodi di tempo. La carta e' un po' rovinata, ma per il resto e' in buone condizioni. Gira la punta per accenderla.}
 {8000}{}{Manuale di Pronto Soccorso}
 {8001}{}{Un libro per studenti che descrive i concetti base e l'uso pratico delle abilita' di Pronto Soccorso.}
-{8100}{}{Iguana-alla-Griglia}
-{8101}{}{Un iguana cucinato e grigliato nella sua stessa pelle.}
+{8100}{}{Spiedino}
+{8101}{}{A cooked iguana, roasted in its own skin.}
 {8200}{}{Chiave}
 {8201}{}{Una chiave. Una chiave aprira' una determinata serratura.}
 {8300}{}{Portachiavi}
@@ -192,7 +192,7 @@
 {9601}{}{Una chiave elettronica di sicurezza, codice colore: rosso.}
 {9700}{}{Tessera magnetica Blu}
 {9701}{}{Una chiave elettronica di sicurezza, codice colore: blu.}
-{9800}{}{Cianfrusaglie}
+{9800}{}{Rifiuti}
 {9801}{}{Un ammasso di cianfrusaglie. Di tutto un po'.}
 {9900}{}{Medaglione d'Oro}
 {9901}{}{Un prezioso medaglione d'oro.}
@@ -216,7 +216,7 @@
 {10801}{}{Un insieme di strane ossa.}
 {10900}{}{Rad-X}
 {10901}{}{Medicina anti-radiazioni da prendersi prima dell'esposizione. Nessun effetto collaterale conosciuto.}
-{11000}{}{Psycho}
+{11000}{}{Psichiatra}
 {11001}{}{Una fiala monodose riempita con strane sostanze chimiche di probabile origine militare. Dovrebbe aumentare il potenziale in combattimento di un soldato.}
 {11100}{}{.44 magnum FMJ}
 {11101}{}{Un caricatore di munizioni, calibro .44 magnum, full metal jacket.}
@@ -226,11 +226,11 @@
 {11301}{}{Saio dei Figli della Cattedrale.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
-{11500}{}{Super Maglio da Guerra}
+{11500}{}{Super Sledge}
 {11501}{}{Un Super Martello da Guerra, costruito dalla Confraternita d'Acciaio, utilizzando le migliori tecniche di costruzione disponibili. Include un dispositivo di stoccaggio di energia cinetica, per aumentare la violenza del colpo. Min FZ: 5.}
 {11600}{}{Ripper}
 {11601}{}{Una lama a vibrazione modello "Ripper"(tm). Alimentata da una piccola cella a energia, questa specie di motosega taglia e macella il suo bersaglio. Min FZ: 4.}
-{11700}{}{Fiore}
+{11700}{}{Flower}
 {11701}{}{Uno splendido fiore.}
 {11800}{}{Fucile Laser}
 {11801}{}{Un fucile laser Wattz 2000. Utilizza celle a Micro-Fusione per colpi piu' potenti, e una lunga canna per una gittata maggiore. Min FZ: 6.}
@@ -356,7 +356,7 @@
 {17801}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
 {17900}{}{Roba}
 {17901}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
-{18000}{}{Cassetta}
+{18000}{}{Cassa}
 {18001}{}{Una cassetta di legno riempita con un po' di roba.}
 {18100}{}{Scrivania}
 {18101}{}{Una normale scrivania. Vista una scrivania, le hai viste tute.}
@@ -377,19 +377,19 @@
 {18900}{}{Armadietto}
 {18901}{}{Un armadietto.}
 {19000}{}{Disco sul FEV}
-{19001}{}{Un olonastro contenente informazioni mediche. Puo' essere usato per immettere informazioni nel tuo PIPboy.}
+{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
 {19100}{}{Disco della Sicurezza}
-{19101}{}{Un olonastro con la scritta "Sicurezza - Rapporto" sull'etichetta. Puoi usarlo per trasferire i dati che contiene nel tuo PIPboy.}
+{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
 {19200}{}{Disco sull'Esperimento Alpha}
 {19201}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Alpha"}
 {19300}{}{Disco sull'Esperimento Delta}
 {19301}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Delta"}
 {19400}{}{Disco sull'Esperimento di Vree}
-{19401}{}{Questo olonastro e' stato aggiornato con testimonianze mediche da Vree della CdA. Puo' essere usato per trasferire i dati nel tuo PIPboy.}
+{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
 {19500}{}{Codice d'Onore della Confraternita}
-{19501}{}{Un olodisco, con inciso un grezzo simbolo della Confraternita d'Acciaio. Usa il nastro per trasferire i dati nel tuo PIPboy.}
+{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
 {19600}{}{Trasmissioni dei Mutanti}
-{19601}{}{Questo olonastro sembra sia stato impostato per registrare dati audio da una ricetrasmittente. Usa il nastro per trasferire le informazioni nel tuo PIPboy.}
+{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
 {19700}{}{Scatola}
 {19800}{}{Scatola}
 {19900}{}{Scatola}
@@ -419,7 +419,7 @@
 {21400}{}{Scrivania}
 {21401}{}{Una scrivania. Dopo un ulteriore esame, decidi che e' ancora una scrivania.}
 {21500}{}{Storia della Confraternita}
-{21501}{}{Un olonastro contenente informazioni riguardanti la Confraternita d'Acciaio. Puo' essere usato per immettere informazioni nel tuo PIPboy.}
+{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
 {21600}{}{Storia di Maxon}
 {21700}{}{Diario di Maxon}
 {21800}{}{Cura Leggera}
@@ -449,7 +449,7 @@
 {23000}{}{Rapporti del Vault}
 {23001}{}{Un compendio degli avvenimenti e di altre importanti registrazioni del sistema informatico di un Vault. Forse danneggiati.}
 {23100}{}{Codice di Sicurezza della Base Militare}
-{23101}{}{ }
+{23101}{}{}
 {23200}{}{Power-Armor Rinforzata}
 {23201}{}{Un'armatura completa Power-Armor T-51b. Il processo di rinforzo ha aumentato le capacita' difensive di questa armatura ad alta tecnologia.}
 {23300}{}{Turbo-Fucile al Plasma}
@@ -473,9 +473,9 @@
 {24200}{}{Fucile a Pompa da Combattimento}
 {24201}{}{Un fucile a pompa Winchester City-Killer cal.12-gauge, bullpup. In ottime condizioni, possiede una sigillatura DesertWarfare aggiuntiva contro gli effetti ambientali allo scopo di garantire una maggiore affidabilita'. Min FZ: 5.}
 {24300}{}{Vaso}
-{24301}{}{Un vaso d'argilla finemente costruito.}
+{24301}{}{Un bel vaso d'argilla.}
 {24400}{}{Vaso}
-{24401}{}{Un vaso d'argilla finemente costruito.}
+{24401}{}{Un bel vaso d'argilla.}
 {24500}{}{Baule}
 {24501}{}{Un baule di legno.}
 {24600}{}{Scaffale}
@@ -483,9 +483,9 @@
 {24700}{}{Scaffale}
 {24701}{}{Uno scaffale di legno con vari oggetti.}
 {24800}{}{Vaso}
-{24801}{}{Un vaso d'argilla finemente costruito.}
+{24801}{}{Un bel vaso d'argilla.}
 {24900}{}{Vaso}
-{24901}{}{Un vaso d'argilla finemente costruito.}
+{24901}{}{Un bel vaso d'argilla.}
 {25000}{}{Ossa}
 {25001}{}{Un mucchietto di ossa umane.}
 {25100}{}{Ossa di Anna}
@@ -532,7 +532,7 @@
 {27101}{}{L'abbondante fiore usato come base nella creazione della polvere curativa.}
 {27200}{}{Radice di Xander}
 {27201}{}{La rara radice che dona proprieta' di guarigione alla polvere curativa.}
-{27300}{}{Polvere Curativa}
+{27300}{}{Healing Powder}
 {27301}{}{Una sostanza magica curativa molto potente - il suo utilizzo portera' con se' una sensazione di sonnolenza nella tua testa.}
 {27400}{}{Missile per Robot}
 {27401}{}{Usato solo da robot attrezzati con missili.}
@@ -574,7 +574,7 @@
 {29201}{}{Un paio di guantoni da boxe che puzzano leggermente di sudore. Sembra che siano stati usati molte volte: molte vecchie gocce di sudore sono ancora visibili.}
 {29300}{}{Guantoni da Boxe con Rinforzo}
 {29301}{}{Qualcuno ha "accidentalmente" fatto cadere delle placche di metallo dentro questi guantoni da boxe. Potrebbe essere tecnicamente considerato barare, ma preferisci pensarla come un'opportunita' in piu' per dispensare colpi sfascia-ossa.}
-{29400}{}{Olodisco del Vault 13}
+{29400}{}{Olodisco di Vault 13}
 {29401}{}{Un olodisco che si suppone contenga la posizione del Vault 13.}
 {29500}{}{Bocconcini al Formaggio}
 {29501}{}{Una confezione di bocconcini al gusto di formaggio. Sono buonissimi.}
@@ -583,7 +583,7 @@
 {29700}{}{Palo di Metallo}
 {29701}{}{E' un lungo palo di metallo. Che ti aspettavi?}
 {29800}{}{Chiave di Trapper Town}
-{29801}{}{Una chiave standard.}
+{29801}{}{Una normale chiave.}
 {29900}{}{Fucile Tubolare}
 {29901}{}{Questo e' un fucile a colpo singolo fatto a mano. Min FZ: 5.}
 {30000}{}{Pistola Zip}
@@ -662,9 +662,9 @@
 {33601}{}{Thomas Moore ti ha chiesto di portare questa valigetta in cuoio di brahmin alla famiglia Bishop a New Reno. E' chiusa ermeticamente e sembra che tu non possa aprirla.}
 {33700}{}{Olodisco di Lynette}
 {33701}{}{Questo e' l'olodisco che hai ricevuto da Lynette.}
-{33800}{}{Olodisco di Westin}
+{33800}{}{Westin: Olodisco}
 {33801}{}{Questo e' l'olodisco che hai ricevuto da Westin.}
-{33900}{}{Olodisco Spia su NCR}
+{33900}{}{NCR: Olodisco Spia}
 {33901}{}{Questo olodisco contiene rapporti sulle tabelle di marcia delle carovane di NCR e informazioni di sicurezza. E' indirizzato a Darion e firmato "F". Con questa informazione, e' facile capire come i predoni abbiano evitato la cattura.}
 {34000}{}{Documenti del Dottore}
 {34001}{}{Un insieme di progetti molto dettagliati per la costruzione di un'Unita' Canina Cybernetica da Guardia. Con questi e l'attrezzatura giusta, una persona potrebbe essere in grado di costruire un robo-cane.}
@@ -674,10 +674,10 @@
 {34201}{}{Questo distintivo dice che sei ufficialmente un Ranger della Nuova California. Guarda -- ha una ruota cifrata e tutto il resto!}
 {34300}{}{Mappa dei Ranger}
 {34301}{}{Una mappa delle regioni limitrofe -- a te non sara' di molto aiuto -- ma ci sono i nomi in codice delle case sicure dei Ranger nel nord.}
-{34400}{}{Tomba}
-{34500}{}{Tomba}
-{34600}{}{Tomba}
-{34700}{}{Tomba}
+{34400}{}{Fossa}
+{34500}{}{Fossa}
+{34600}{}{Fossa}
+{34700}{}{Fossa}
 {34800}{}{Power-Armor Avanzata}
 {34801}{}{Questa Power-Armor e' composta da leghe metalliche leggere, rinforzate da fusioni di ceramica nei punti chiave. I servomotori facilita-movimento si rivelano essere anch'essi modelli di alta qualita'.}
 {34900}{}{Power-Armor Avanz. Ver.II}
@@ -726,9 +726,9 @@
 {37201}{}{Artiglio}
 {37300}{}{Tessera del Vault 15}
 {37301}{}{Una chiave elettronica di sicurezza, codice colore: rosso.}
-{37400}{}{Tomba}
-{37500}{}{Tomba}
-{37600}{}{Tomba}
+{37400}{}{Fossa}
+{37500}{}{Fossa}
+{37600}{}{Fossa}
 {37700}{}{Componenti per Computer del Vault 15}
 {37701}{}{Varie parti di computer con svariate funzioni. Il sogno di ogni appassionato di informatica.}
 {37800}{}{Biscotto}
@@ -843,9 +843,9 @@
 {43300}{}{Occhiali a Specchio}
 {43301}{}{Questo e' un paio di occhiali a specchio, alla moda e dall'aspetto accattivante. Il solo averli nel tuo inventario ti fa sentire fico.}
 {43400}{}{Carro}
-{43401}{}{Un carro per carovane ricavato dai resti disastrati di un'antica automobile.}
-{43500}{}{Carro }
-{43501}{}{Un carro per carovane ricavato dai resti disastrati di un'antica automobile.}
+{43401}{}{Un carro da carovana ottenuto dai resti smantellati di un'antica automobile.}
+{43500}{}{Carro}
+{43501}{}{Un carro da carovana ottenuto dai resti smantellati di un'antica automobile.}
 {43600}{}{Mazzo di Carte}
 {43601}{}{Un normale mazzo di carte da gioco.}
 {43700}{}{Mazzo di Carte Segnate}
@@ -880,7 +880,7 @@
 {45101}{}{Vedi un foglio di carta con delle scritte. Sembra fare parte di una specie di codice. Sfortunatamente il codice e' incompleto. Se solo tu potessi trovare tutti e tre i pezzi. Riesci a cavarci il seguente: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
 {45200}{}{Foglio Strappato 3}
 {45201}{}{Vedi un foglio di carta con delle scritte. Sembra fare parte di una specie di codice. Sfortunatamente il codice e' incompleto. Se solo tu potessi trovare tutti e tre i pezzi. Riesci a cavarci il seguente: 7313, hi-S12908, 98790}
-{45300}{}{Fogli con la Password}
+{45300}{}{Carte con Parola d'Ordine}
 {45301}{}{Questi sono tre pezzi di una singola pagina che, quando messi insieme, rivelano tre password. Il testo dice: 1. Fisica, Password KSLJKJ: Ken-Lee-97313, 2. Chimica, Password TIUASPO- Lo-Shi-S12908, 3. Biologia, Password INTLVR- Dnky-Pnch-98790}
 {45400}{}{Interruttore dell'Esplosivo}
 {45401}{}{L'interruttore e' la componente finale di un dispositivo esplosivo.}
@@ -918,7 +918,7 @@
 {47100}{}{"Il Fiore di Lavanda"}
 {47101}{}{Sembra essere una specie di romanzo, scritto da Dorothy Rixon. La copertina rappresenta una donna stesa su un letto circondata da centinaia di fiori.}
 {47200}{}{Olodisco sugli Hubologisti}
-{47201}{}{L'olodisco e' etichettato "Hubologia: La Verita' dietro la Bugia". Sembra compatibile con il tuo PIPBoy.}
+{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
 {47300}{}{Dito Mutante}
 {47301}{}{Vedi il tuo sesto dito. E' una piccola parte mutante di te. Per qualche ragione, senti un terribile senso di vuoto mentre guardi il tuo piccolo dito amputato.}
 {47400}{}{Margherite}
@@ -932,7 +932,7 @@
 {47800}{}{Olodisco sulla Missione Sierra}
 {47801}{}{L'etichetta dice: "Stato della Missione".}
 {47900}{}{Componenti NavCom}
-{47901}{}{Questi sono parti di computer da installare all'interno di qualche macchinario. Il fatto che dicano "Poseidon Oil" e "Computer di Navigazione" ti induce a pensare che vadano installati in un Computer di Navigazione della Poseidon Oil.}
+{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
 {48000}{}{Bonus: +1 Agilita'}
 {48100}{}{Bonus: +1 Intelligenza}
 {48200}{}{Bonus: +1 Forza}
@@ -949,7 +949,7 @@
 {48800}{}{Motivatore per K-9}
 {48801}{}{Questo e' un meccanismo guida per un robot della serie K-9.}
 {48900}{}{Arma Speciale per Boxer}
-{49000}{}{Olodisco sulla Storia di NCR}
+{49000}{}{NCR: Olodisco Storico}
 {49001}{}{L'etichetta dice: "Storia di NCR."}
 {49100}{}{Bambola di Mr. Nixon}
 {49101}{}{Vedi una piccola bambola con un grande naso rosso. Per qualche ragione, non ti fidi di questo giocattolo dall'aspetto innocente.}
@@ -987,12 +987,12 @@
 {50801}{}{Una bambola gonfiabile. Questo modello si chiama "Tandi".}
 {50900}{}{Bambola Gonfiabile Danneggiata}
 {50901}{}{Questa bambola gonfiabile ha una cucitura strappata. Evidentemente e' stata usata per bene.}
-{51000}{}{Biliardo}
-{51100}{}{Biliardo}
-{51200}{}{Biliardo}
-{51300}{}{Biliardo}
-{51400}{}{Biliardo}
-{51500}{}{Biliardo}
+{51000}{}{Tavolo da Biliardo}
+{51100}{}{Tavolo da Biliardo}
+{51200}{}{Tavolo da Biliardo}
+{51300}{}{Tavolo da Biliardo}
+{51400}{}{Tavolo da Biliardo}
+{51500}{}{Tavolo da Biliardo}
 {51600}{}{Amlpificatore Medico PIPboy}
 {51601}{}{Questo amplificatore consiste di un olodisco, un cavo a microfilamenti, una fascia per la testa, e un sensore ottico che va piazzato sull'occhio sx dell'utente. Un lampo ottico trasmette un'intera enciclopedia e altre conoscenze nella memoria, aumentando permanentemente le abilita' mediche.}
 {51700}{}{"Little Jesus"}

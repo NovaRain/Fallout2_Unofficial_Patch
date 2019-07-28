@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Vedi un giocatore d'azzardo.}
 {101}{}{Sembra che questo giocatore stia andando davvero bene.}
 {102}{}{Sembra stia vincendo, ma tutti i suoi soldi sono sopra al tavolo.}
@@ -7,17 +6,13 @@
 {105}{}{Questa persona non vince da un po'.}
 {106}{}{Sembra essere sul punto di piangere ed e' a corto di soldi.}
 {107}{}{Sembra molto arrabbiato e sembra stia perdendo delle grosse cifre.}
-
-# 1. PC Killed Becky, NPC are still around (From Where to go)
-{200}{}{Non farmi del male!}
+{200}{}{Non farmi male!}
 {201}{}{Non sparare!}
 {202}{}{Non ho un soldo!}
 {203}{}{Perche' hai ucciso la povera Becky?}
 {204}{}{Che cosa ti aveva fatto?}
 {205}{}{Non ho fatto nulla!}
 {206}{}{Ti prego, vattene; non lo diro' ad anima viva.}
-
-# 2. CF: Gambling (From Where to go)
 {300}{}{Si'! I dadi mi amano!}
 {301}{}{Oh, per un pelo.}
 {302}{}{Non interrompermi. Mi rovinerai la serie vincente.}
@@ -50,14 +45,10 @@
 {329}{}{Perche' succede sempre a me?}
 {330}{}{Non posso vincere.}
 {331}{}{Odio questo gioco.}
-
-# 3. BGF: Becky Dead (From Where to go)
 {400}{}{Diamine, il locale di Becky era l'unico posto dove giocare d'azzardo in citta'!}
 {401}{}{Stammi lontano.}
 {402}{}{Non sparare!}
 {403}{}{Ti prego, lasciaci in pace.}
-
-# 4. BGF: Gambling (From Where to go)
 {500}{}{Non fermarti li'!}
 {501}{}{Continua a rotolare!}
 {502}{}{DAI! 7!}
@@ -75,10 +66,10 @@
 {514}{}{Non male.}
 {515}{}{Com'e' potuto succedere?}
 {516}{}{Oops.}
-{517}{}{Non portate sfiga, non portate sfiga. Stop!} ###???wammies
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Beh, il gioco non tradisce la sua fama.}
 {519}{}{Mi basta una sola grossa vincita.}
-{520}{}{Forza!} ###???Figures
+{520}{}{Forza!}
 {521}{}{Ancora?}
 {522}{}{Non va bene.}
 {523}{}{La roulette fa schifo!}
@@ -91,10 +82,8 @@
 {530}{}{Odio questo gioco!}
 {531}{}{Diamine! Quello dell'ultimo turno era il mio numero!}
 {532}{}{Ancora nero!?!?}
-
-# 5. CF: Hostile (From Where to go)
 {600}{}{Vattene!}
 {601}{}{Perche' l'hai fatto?}
 {602}{}{Vattene!}
 {603}{}{Smettila, sono fragile.}
-{604}{}{Io a te non lo farei.}
+{604}{}{I wouldn't do that to you.}

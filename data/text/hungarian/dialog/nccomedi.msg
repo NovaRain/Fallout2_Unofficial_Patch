@@ -1,4 +1,3 @@
-# Dialog Editor last position: 38
 {100}{}{Ez az ember humorista.}
 {150}{}{Egy a "futottak még" kategóriájú humoristát látsz. Ideges szegény. A baj csak az, hogy meg is látszik rajta.}
 {200}{}{Túlságosan elfoglalja, amit csinál, szóval nem nagyon tudtok szót váltani.}
@@ -6,12 +5,12 @@
 {1001}{}{Azért, hogy kikerülje azt az unalmas FAJTÁDAT!}
 {1002}{}{Öljük már meg ezt a fickót!}
 {1003}{}{Mert a radskorpió... ööö, el akarta kerülni az égbõl hulló radioaktív szemcséket...}
-{1004}{}{Te egy jó nagy pöcs vagy!}
+{1004}{}{Hülye fasz!}
 {1005}{}{BASZÓDJ MEG!}
 {1006}{}{Ööö..., ami a poént illeti... hát mivel az már amúgy is mutáns volt, nem kellett volna átmennie az úton, tehát... ööö...}
 {1007}{}{}
 {2000}{}{Hehe. Gekkó... ghoulok, mi? Ghoulok... ember, bûzlenek, mint az istennyila!}
-{2001}{}{Büdös gyökér!}
+{2001}{}{Büdös vagy!}
 {2002}{}{Ez a fazon nyugodtan felléphetne valami Talk Show-ban!}
 {2003}{}{Ööö... hehe... szóval... ööö, a ghoulok, bûzlenek. Tehát, akárcsak a... ööö...}
 {2004}{}{Azt mondtam már, hogy a ghoulok bûzlenek?}
@@ -70,7 +69,7 @@
 {8008}{}{Lélelktelenül öldökölnek!}
 {8009}{}{Bárcsak valaki téged is leöldökölne lélhekth...}
 {8010}{}{Tehát akkor kik nevezik õket Szuper Mutánsnak?}
-{8011}{}{Na, kik?}
+{8011}{}{Kik ezek az emberek?}
 {8012}{}{Valószínûleg ugyanazok a hülyék, akik téged is felbéreltek!}
 {8013}{}{}
 {9000}{}{És mi a helyzet azzal a pöcsedék Myronnal?}

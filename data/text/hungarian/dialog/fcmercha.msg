@@ -1,5 +1,5 @@
-{100}{}{Kereskedõ.}
-{101}{}{Kereskedõ.}
+{100}{}{Egy kereskedõt látsz.}
+{101}{}{Egy kereskedõt látsz.}
 {102}{}{Egy agilis Shi kereskedõt látsz. Akárcsak a többiek, kissé el van telve magától.}
 {103}{}{Gyere, vegyél polipot! Nagyon ízletes.}
 {104}{}{Szereted a halat? Nekünk van sokféle!}

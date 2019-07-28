@@ -1,4 +1,3 @@
-# Dialog Editor last position: 14
 {100}{}{Egy bõrpáncélt viselõ férfit látsz.}
 {101}{}{Kaga.}
 {102}{}{Bõrpáncélt visel, és van egy nagyon idegesítõ szokása: harmadik személyben beszél saját magáról.}

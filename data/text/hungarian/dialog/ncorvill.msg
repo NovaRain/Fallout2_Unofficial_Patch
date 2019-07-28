@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez az ember Orville Wright.}
 {150}{}{Az úriember igen jólöltözött, de állandó keserûség torzítja el az arcát. Nagy valószínûséggel ennek köszönhetõ, hogy a haja rendesen õszülésnek indult.}
 {151}{}{Orville Wright magán kívül van. Ha így folytatja, az összes megmaradt haját kitépi.}
@@ -56,7 +55,7 @@
 {300}{}{Hogy oda ne rohanjak... (Fitymálló arcot vág.) Örülök, hogy benéztél hozzánk, te "hétköznapi utazó". Fenemód oda vagyok a találkozástól. (A fitymálló tekintet homlokráncolásba vált.) Szóval munkát akarsz a Wright családtól, mi?}
 {301}{}{Hogy oda ne rohanjak... (Fitymálló arcot vág.) Örülök, hogy benéztél hozzánk, HAJCSÁR. Fenemód oda vagyok a találkozástól. (A fitymálló tekintet homlokráncolásba vált.) Mi nem közösködünk a te fajtáddal, érted?! Most pedig kifelé!}
 {302}{}{Igen, én...}
-{303}{}{Nagyon úgy fest, hogy rossz helyre jöttem. Elnézést.}
+{303}{}{Úgy tûnik, tényleg rossz szobába jöttem. Ha megbocsát...}
 {304}{}{Egy pillanat, még nem fejeztem be a mondókámat! Én...}
 {305}{}{Rendben. Úgy tûnik, mennem kell.}
 {310}{}{Hogy oda ne rohanjak... (Fitymálló arcot vág.) Hát, örülök a találkozásnak, "}
@@ -70,7 +69,7 @@
 {331}{}{Tudomásom szerint nincsenek.}
 {332}{}{Tudomásom szerint nincsenek. Azt hiszem, tudnék róla.}
 {340}{}{Az egyik fiam... Richard, nemrég elhunyt. Drog túladagolás. Jet...}
-{341}{}{Miben segíthetek?}
+{341}{}{És én mégis hogy segíthetek ebben?}
 {342}{}{Ööö... Nem igazán látom, miben se...}
 {350}{}{Meg akarom tudni, melyik díler nyomta bele Richard-ba azt a SZART. Akármikor kiküldöm a srácaimat, hogy nézzenek utána, semmit nem tudnak felmutatni. Lehet, hogy egy nem Wright vérbõl való ember képes lenne valamit találni.}
 {351}{}{Ööö, "Belenyomta valaki?"}
@@ -113,7 +112,7 @@
 {448}{}{Mr. Wright, nem én vagyok az, aki megfelel erre a feladatra. Találjon valaki mást helyettem!}
 {449}{}{Bassza meg a munkát, bassza meg a halott, drogos fiát, és egyáltalán... baszódjon meg ott ahol van! Megyek a büdös francba innen!}
 {451}{}{Ebbõl elég volt! Hányok a hülyeségétõl. Most majd találkozhat a drogos fiával a pokolban!}
-{453}{}{(Eltûnsz innen.)}
+{453}{}{Takarodj ki innen!}
 {465}{}{Nem is olyan régen kezembe került egy közeli hegyekrõl készült térkép, amely egy katonai bázist jelöl. Találj rá módot, hogyan lehetne bejutni oda, aztán meglátom, hogy s mint legyen...}
 {466}{}{Oki Doki Miszter Orderville}
 {467}{}{ indula. }
@@ -151,11 +150,11 @@
 {561}{}{Sajnálod? SAJNÁLOD? Ezúttal ez nem fog kirángatni a bajból, te elõember! Ha azt hiszed, hogy büntetlenül fecsérelheted az idõmet, nagyon tévedsz! Szerzek szépen valakit, aki mostantól betölti a helyedet! (Az ajtó felé kiált.) Fiúk! Gyertek ide gyorsan!}
 {562}{}{Megértettem. Ha kész vagyok, visszajövök.}
 {575}{}{. Tetszik, tetszik. Van stílusa. Mostantól, ha beugrasz a Cat's Paw-ba vagy a New Reno-i fegyerboltba, jó elbánásban lesz részed. Ha ingyen itóka kell, látogasd meg a vasútállomást is. Mindenben ellátlak.}
-{576}{}{Köszönöm. Így lesz.}
+{576}{}{Köszönöm. Úgy teszek.}
 {580}{}{(A szeme csak úgy ragyog.) Jól elvégezted a munkát, }
 {581}{}{"Baleset"? A picsába, nem akarok hallani ilyesmit! Tûnés innen és soha többet ne is lássalak!}
 {582}{}{Köszönöm, Mr. Wright. Ha tényleg családtag leszek, akkor a nevem legyen... }
-{583}{}{Legyen úgy.}
+{583}{}{Akkor rendben vagyunk.}
 {584}{}{Szóval, hogy nevezzünk téged?}
 {590}{}{(Amikor észrevesz, mosolyogni kezd.) }
 {591}{}{Hogyne. Hogy mennek a dolgai, Mr. Wright?}
@@ -199,7 +198,7 @@
 {691}{}{Mi a gond?}
 {692}{}{Mi az hogy "semmit sem tehetek a megoldásért"? Mit ért ezalatt?}
 {700}{}{Tudod, hogy azok a Salvatore kutyák milyen fegyvereket hordanak, barátom? Azokat az istenverte fényhozókat. Egyetlenegy Salvatore, akinek a kezében egy olyan vacak van, szempillantás alatt ki tudja irtani az egész családomat. Ezt ellensúlyozandó, szükségem lenne egy...}
-{701}{}{Mire?}
+{701}{}{Mi?}
 {702}{}{Ne aggódjon emiatt, már rég lenyomtam az egész Salvatore klánt.}
 {710}{}{Hah! A Renóiakat talán, de sokat kell tanulnod még a családokról... Reno határain túl még számos Salvatore vegetál, és ha csak egy is életben marad, már bajt jelent. Ahhoz, hogy legyõzzük õket, szükségem van egy...}
 {720}{}{(A szemöldökét még jobban összehúzza.) Ennek nagyon olyan szaga van, mint egy nagy rakás brahminszarnak...}
@@ -214,6 +213,6 @@
 {5261}{}{!}
 {5310}{}{." Örülök, hogy beugrottál, fenemód oda vagyok a találkozástól. (A fitymálló tekintet homlokráncolásba vált.) Szóval munkát akarsz a Wright családtól, mi?}
 {5467}{}{ feltör bázis. }
-{6467}{}{ zúz!}
 {5580}{}{. Menj el a Cat's Paw-ba és a New Reno-i fegyverboltba... mondd meg nekik, hogy én küldtelek, és majd ellátnak. Most már családtag vagy... a mi családunk tagja, és egész Reno tudni fogja ezt!}
 {5590}{}{...mindenki jól bánik veled? Nincs semmi probléma?}
+{6467}{}{ zúz!}

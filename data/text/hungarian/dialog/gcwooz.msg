@@ -1,4 +1,3 @@
-# Dialog Editor last position: 148
 {100}{}{Õ egy hosszúhajú, langaléta ghoul.}
 {101}{}{Wooz.}
 {102}{}{Ez a hosszúhajú ghoul hihetetlenül cingár és girhes.}
@@ -6,9 +5,9 @@
 {111}{}{Mondd már, mit akarsz! Megzazultál?}
 {112}{}{Üdv! Mit akarnál?}
 {113}{}{Woozo, kéne Ouzo!}
-{114}{}{Mivel foglalatoskodsz úgy általában?}
+{114}{}{Mi a munkád?}
 {115}{}{Mondj valamit errõl a helyrõl!}
-{116}{}{Hallottál már valaha az Édenkert Létesítést Elõsegítõ Táskáról?}
+{116}{}{Édenkert Létrehozást Elõsegítõ Táska - hallott már valaha ilyesmirõl?}
 {117}{}{Nem akarok semmit... viszlát!}
 {120}{}{Épp most mondtam, hogy minden Menedékben tárolnak olyat. Szerinted ez a hely mennyiben hasonlít egy Menedékre? Meg vagy zazulva? Miért pont itt kutatsz az ÉLET után? Próbálkozz egy Menedékben!}
 {121}{}{Merre van a legközelebbi Menedék?}
@@ -23,7 +22,7 @@
 {143}{}{Csereberélni.}
 {144}{}{Szoktál anekdotázgatni?}
 {145}{}{Tragic-ot játszol?}
-{146}{}{Szerintem most épp semmit. Majd máskor jövök.}
+{146}{}{Nincs már semmi másra szükségem ebben a pillanatban. A viszontlátásra!}
 {150}{}{Csereberélni? Én aztán mindig kapható vagyok a Tragic lapok cserélgetésére. Van néhány tucat lapom a régi Õskorszakból. Ilyenek, hogy Vox Mubies, Black Dahlia, meg egy-kettõ a Rare Earths-bõl.}
 {151}{}{Gondolom áruk csereberéjére gondoltál, nem?}
 {152}{}{Mi a fenérõl beszélsz?}
@@ -58,7 +57,7 @@
 {200}{}{Van egy jó anekdotám. Nagyon mókás. Vegyünk egy fejet, rendben?}
 {201}{}{Fejet mondtál?}
 {202}{}{Öö.. asszem, már hallottam ezt korábban. Most nincs idõm újra végighallgatni. Léptem...}
-{210}{}{Zaza vagy? A "Tragic the Garnering" a legaddiktívabb dolog a Jet mellett.}
+{210}{}{Are you dumb? Tragic the Garnering is the most addictive thing since Jet.}
 {211}{}{Csak ismételni tudom magam. A "Tragic the Garnering" a játékok játéka...}
 {212}{}{Mondj valamit errõl a "Tragic the Garnering" izérõl!}
 {213}{}{Mi az a Jet?}
@@ -83,7 +82,7 @@
 {271}{}{Tudtam én! Csak teszteltelek. Azta, Wooz, te aztán nem vagy semmi. Na, beszéljünk másról...}
 {272}{}{Én nem vagyok zaza, te viszont igen. És végszóra megyek is...}
 {280}{}{(Wooz közelebb von téged.) Hadd súgjak valamit...}
-{281}{}{Rendben.}
+{281}{}{Oké.}
 {282}{}{Szerintem ne súgdossál te semmit! Egyszerûen az agyamra mész! Na, léptem, viszlát!}
 {290}{}{BASZÓDJ MEG!!! Most pedig kifelé az ivóból! Méghogy Kiválasztott. Nevetséges, ezt a balfaszt!}
 {291}{}{Egy percig sem maradok a béna ivódban, szóval ne üvöltözz! Viszlát!}
@@ -96,12 +95,12 @@
 {310}{}{Nocsak. Nem gondoltam volna. Hát aki az almát szereti, rossz ember nem lehet. Most pedig ki vele, mit akarsz!}
 {311}{}{Kérdeznék ezt-azt, Wooz.}
 {320}{}{Zombit mondtál? Baszódj meg, mi ghoulok vagyunk! A zombik akarat nélküli élõholtak. Annak ellenére, hogy hasonló a kinézetünk, fõleg a rohadó hús és a jellegzetes torzulások miatt, mi szabadon gondolkodó lények vagyunk. Hadd demonstráljam...}
-{321}{}{Mi van?}
+{321}{}{Nahát...}
 {330}{}{Szeretném a szabad akaratomat demonstrálni, és azt közölni veled, hogy TAKARODJ A PICSÁBA! Rohadt simabõrû faszfej. Mennyé vissza Menedékvárosba a gyökér rokonaidhoz!!!}
 {331}{}{Ghoul, zombi egyre megy. Mindannyian torzszülöttek vagytok.}
 {340}{}{Hát a "Tragic the Garnering" nem egy közönséges játék, hanem létforma. Vonatkoztass el a biológiától. Néhányan azt hiszik, hogy a játékosok élete egyszerûen tragikus lesz tõle, de ez marhaság.}
 {341}{}{Hát hogy is mondjam...}
-{350}{}{A Jet egy New Renóban elõállított drog. Olyan vagy, mint egy maszületett bárány, vagy csak egyszerûen megzazultál?}
+{350}{}{Jet's a drug that comes from New Reno. Were you born yesterday, or are you just dumb?}
 {351}{}{Ja, hogy az a Jet? Hát persze, hogy hallottam róla. Mondj még valamit errõl a "Tragic the Garnering"-rõl!}
 {360}{}{Nem az, tényleg! Csodálatos! Ki kéne próbálnod! Legalább egyszer. Az elsõ pakli ingyenes. Kis ajándék tõlem, neked.}
 {361}{}{Köszi. Hé, ez tök jól néz ki. (letéped a csomagolást róla.) Mmm, hogy bírom az illatát...}
@@ -126,7 +125,7 @@
 {411}{}{Hát igen. Te nyertél. Akkor mennék is...}
 {412}{}{Micsoda meglepetés. Legalább nem kell az anekdotáidat hallgatnom. Na, üdv...}
 {420}{}{Nincs idõ. Menjünk! Van egy új paklim, amit ki kell próbálnom.}
-{421}{}{Oké. Ahogy jólesik.}
+{421}{}{Okay. Let us play then.}
 {422}{}{Nem! Ellent kell, hogy álljak a szirén hívásának. Távozz tõlem, Kártya! Inkább kérdeznék valamit helyette.}
 {430}{}{Tudom, mire gondolsz. Bármikor abbahagyhatnám, de nem ma fogom, az ziher.}
 {431}{}{Hát te aztán nem viccelsz! Tulajdonképp, föl akartam tenni néhány kérdést.}
@@ -135,7 +134,7 @@
 {441}{}{A háború elõtt? De hát az iszonyú rég volt.}
 {442}{}{Poénnak? Miféle poénnak?}
 {450}{}{Meglehet, de nem sokan mondhatják el magukról, hogy egy egész város az õ vérükre szomjazik.}
-{451}{}{Mit értesz ezalatt?}
+{451}{}{Ezt most hogy kell értenem?}
 {460}{}{Hát az tuti, hogy jó rég volt. Mit gondolsz, hogy lettek a ghoulok? Szerinted az egyik reggel felkeltünk és azt mondtuk magunknak: "Azta, de jó lenne, ha a húsunk lerohadhatna a kibaszott testünkrõl!"}
 {461}{}{Hát nem éppen erre gondoltam. Végül is hogy lesznek a ghoulok?}
 {462}{}{Igazából a tökömet se érdekli, hogy mitõl lettetek ilyen rusnyák. Most pedig lépek...}
@@ -173,7 +172,7 @@
 {702}{}{Erre szabályt kell bevezetni!}
 {703}{}{Ide a rozsdás bökõt...}
 {704}{}{Mi van, kibic?}
-{705}{}{Baszódj meg.}
+{705}{}{Baszd meg!}
 {706}{}{Ez szart se ér!}
 {707}{}{Játsszunk Tragic-ot!}
 {708}{}{A legrosszabb Tragic játékos vagyok a világon.}
@@ -183,3 +182,21 @@
 {712}{}{FOSRAKÁS!!!}
 {713}{}{Hol vannak a törp nõ-hegyek?}
 {714}{}{Láttál már valaha felnõtt férfit MEZTELENÜL?}
+{715}{}{Nah, maybe some other time Wooz. I got some questions though...}
+{716}{}{Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
+{717}{}{NEVER! BRING FORTH THE GARNERING!}
+{718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
+{719}{}{NOO!! HOW COULD I HAVE LOST!?  Ahhhgghhhgh.}
+{720}{}{Yeah... just can't seem to stop. Just one more game...}
+{721}{}{Yeah, Gamma Gulp Beer. You deaf or something?}
+{722}{}{Yeah, it is. One Gamma Gulp coming right up.}
+{723}{}{Alright, enjoy. Anything else?}
+{724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roetgen coming right up then.}
+{725}{}{Nem, kösz.}
+{726}{}{Yeah, what else do you have?}
+{727}{}{Whatever, I'll take one.}
+{728}{}{Right. Let me get something else.}
+{729}{}{I think I'll be heading out now.}
+{730}{}{You have become addicted to the game of Tragic. Many sleepless nights await you.}
+{731}{}{Alright, done. Anything else?}
+{732}{}{Yeah, another round for everyone.}

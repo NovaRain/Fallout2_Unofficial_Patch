@@ -1,22 +1,13 @@
-# quick looks
 {100}{}{Vedi un pugile.}
 {101}{}{Vedi Evan Hollyfeld.}
-
-# examines
 {150}{}{Vedi un nero ben piantato e con un grosso mento squadrato. Ha le orecchie orribilmente mutilate.}
-{151}{}{Sembra che le sue orecchie siano state orribilmente staccate a morsi.}
-{152}{}{Sembra che le sue orecchie siano state orribilmente staccate a morsi.}
-
-# FLOAT DIALOGUES
+{151}{}{Ha le orecchie orribilmente mutilate.}
+{152}{}{Ha le orecchie orribilmente mutilate.}
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
 {202}{}{::Piagnucola, si tocca le orecchie::}
 {203}{}{::Gonfia i muscoli::}
-
-# CLICK DIALOGUE
-# MALE, PRIZEFIGHTER
 {300}{}{::Si tiene le mani sulle orecchie e ti guarda::}
-# other
 {301}{}{Me piace testata.}
 {302}{}{Me e Mike dati testata.}
 {303}{}{Io colpito Mike ma lui morso mie orecchie.}
@@ -26,7 +17,6 @@
 {307}{}{Eh?}
 {308}{}{Cosa? Me no sente te.}
 {309}{}{Orecchio prima era qui, poi non stato piu'.}
-# FEMALE, ANY BUT PRIZEFIGHTER
 {310}{}{Tu morde?}
 {311}{}{Cia-o persona buon odore.}
 {312}{}{Cia-o persona ragazza.}

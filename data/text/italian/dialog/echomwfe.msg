@@ -1,7 +1,6 @@
 {100}{}{Vedi una donna magra ed abbronzata.}
 {101}{}{Vedi una contadina.}
 {102}{}{Ti accorgi che ha un'abbronzatura da contadina.}
-
 {200}{}{Questa e' la mia casa.}
 {201}{}{Dannati banditi.}
 {202}{}{Lasciateci in pace!}
@@ -13,5 +12,4 @@
 {208}{}{Vi prego, non uccidetemi.}
 {209}{}{Pazienza, iniziavo ad odiare il lavoro nei campi.}
 {210}{}{Vi prego, non incendiate la casa.}
-
 {220}{}{Non scocciarmi.}

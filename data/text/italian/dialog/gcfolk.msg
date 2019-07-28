@@ -1,11 +1,9 @@
-{100}{}{Vedi una persona la cui pelle ha subito ustioni molto gravi.}
+{100}{}{Vedi una persona la cui pelle e' gravemente ustionata.}
 {101}{}{Vedi un cittadino ghoul di Gecko.}
 {102}{}{Vedi una persona la cui pelle sembra aver subito ustioni da radiazioni. Una quantita' simile di radiazioni dovrebbe averla uccisa, ciononostante sembra essere piuttosto in salute.}
-
 {110}{}{La persona che vedi sta emettendo una fioca luce. La sua pelle sembra essere gravemente ustionata.}
 {111}{}{Vedi un Luminoso, cittadino di Gecko.}
 {112}{}{Vedi una persona che e' rimasta esposta alle radiazioni cosi' a lungo da emettere una fioca luce. Una quantita' simile di radiazioni dovrebbe averla uccisa, tuttavia sembra essere piuttosto in salute.}
-
 {120}{}{Grazie per averci salvato da Vault City.}
 {121}{}{Quei bigotti di Vault City ci avrebbero ucciso se non fosse stato per te.}
 {122}{}{Sei un eroe.}
@@ -19,7 +17,6 @@
 {130}{}{Grazie dell'aiuto.}
 {131}{}{Sei il migliore. Grazie.}
 {132}{}{Non male, per un pelle-liscia.}
-
 {140}{}{Ehila', amico pelle-liscia.}
 {141}{}{Benvenuto a Gecko.}
 {142}{}{Ehila', amico.}
@@ -32,10 +29,9 @@
 {149}{}{Un giorno, anche altri saranno in grado di usare il nostro potere.}
 {150}{}{Sono felice che non tutti i pelle-liscia siano come quelli di Vault City. }
 {151}{}{Se gli abitanti di Vault City fossero come te, non avremmo problemi con loro.}
-
 {160}{}{Hmmph, un altro pelle-liscia poco di buono.}
 {161}{}{Ehi, liscetto!}
-{162}{}{Ehila'.}
+{162}{}{Ciao.}
 {163}{}{Come va?}
 {164}{}{Fa' il bravo mentre sei in citta'.}
 {165}{}{Hai fatto un lungo viaggio per venire qui?}
@@ -43,7 +39,6 @@
 {167}{}{Qui siamo tolleranti, ma non stupidi, liscetto.}
 {168}{}{Sta' lontano da Vault City. Quei tipi sono degli stronzi.}
 {169}{}{Ehila'. Il clima e' stato un po' secco, ultimamente.}
-
 {180}{}{C'e' stato davvero secco, ultimamente.}
 {181}{}{Alla malora tutte queste piante.}
 {182}{}{Credo che il reattore atomico non faccia bene alle piante.}
@@ -54,7 +49,6 @@
 {187}{}{I vegetali fanno bene.}
 {188}{}{E' quasi giunto il tempo del raccolto.}
 {189}{}{Ci farebbe proprio comodo un po' di pioggia.}
-
 {200}{}{Devo far la guardia a questi brahmin.}
 {201}{}{Questi brahmin sono cosi' carini. Non li voglio uccidere.}
 {202}{}{Che noia.}
@@ -62,10 +56,9 @@
 {204}{}{Sono stato qui per troppo tempo.}
 {205}{}{Questa puzza proviene da te o dal brahmin?}
 {206}{}{Sembra quasi che sappiano cosa li aspetta.}
-{207}{}{Qualcuno se n'e' fregato uno, ieri notte.} ###???Someone tipped one last night
+{207}{}{Qualcuno se n'e' fregato uno, ieri notte.}
 {208}{}{Alcuni brahmin sono piu' carini di altri.}
 {209}{}{Hmm, mi domando perche' nessuno li cavalchi.}
-
 {220}{}{Ehila', pelle-liscia.}
 {221}{}{Offrici da bere, pelle-liscia.}
 {222}{}{Cavoli se ho sete!}
@@ -76,7 +69,6 @@
 {227}{}{Cantiamo una canzone.}
 {228}{}{…E poi le teste cosa fanno? Quel Wooz... non lo capisco proprio.}
 {229}{}{Cos'e' una mela?}
-
 {240}{}{Sei piuttosto gentile per essere un pelle-liscia.}
 {241}{}{Offrici un altro giro, liscetto.}
 {242}{}{./~ Come ho sete, come ho sete… ./~}
@@ -87,8 +79,7 @@
 {247}{}{Qualcuno dovrebbe cominciare a fare piu' vestiti.}
 {248}{}{Ahh, la birra e' buona.}
 {249}{}{Questa birra e' ottima. E' l'acqua - e un sacco di altre cose.}
-
-{260}{}{Sei il miglior pelle-liscia che abbia mai conosciuto.}
+{260}{}{Sei il miglior pelle-liscia che io abbia mai conosciuto.}
 {261}{}{Ancora succo-brillo! Ancora succo-brillo!}
 {262}{}{Ce ne offri un altro? Eh, liscetto?}
 {263}{}{Quei poveri mutanti di Broken Hills...}
@@ -98,11 +89,10 @@
 {267}{}{Si dice che Chester sia una spia di Vault City.}
 {268}{}{Vorrei Rinnovarmi e diventare un pelle-liscia.}
 {269}{}{Ti giuro che ho visto delle cose volare sopra di noi, di notte.}
-
 {280}{}{Ti adoro, amico.}
-{281}{}{Sei il meglio.}
+{281}{}{Sei il migliore.}
 {282}{}{Nuclearizza Vault City finche' brilla!}
-{283}{}{./~99 siringhe di Rad-Away sul muro, 99 siringhe…. ./~}
+{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
 {284}{}{./~ I’ve been working on the re-act-or, all the live-long day…. ./~}
 {285}{}{Prima che arrivassi tu, non mi sarei fidato di un pelle-liscia per nulla al mondo.}
 {286}{}{Credo che, dopo tutto, alcuni di voi liscetti non siano poi tanto male.}
@@ -111,7 +101,6 @@
 {289}{}{Sono davvero felice che il nostro reattore funzioni.}
 {290}{}{Devo essere ubriaco. Incomincio a capire quello che dice Wooz.}
 {291}{}{Credo di aver visto una mela, una volta… o era una banana?}
-
 {300}{}{Il reattore funziona cosi' bene che si puo' quasi sentire il suo greve ronzio.}
 {301}{}{Grazie per aver risolto le cose con Vault City per noi.}
 {302}{}{Avremo cosi' tanta energia, adesso!}
@@ -120,9 +109,8 @@
 {305}{}{Il reattore funziona alla grande. Grazie.}
 {306}{}{Sei il migliore.}
 {307}{}{Grazie per aver riparato il nostro reattore nucleare.}
-{308}{}{Il reattore fa le fusa, proprio come piace a noi. Grazie.} ###???just as nice as you please
+{308}{}{Il reattore fa le fusa, proprio come piace a noi. Grazie.}
 {309}{}{Sei il miglior pelle-liscia che io abbia mai conosciuto.}
-
 {320}{}{Rinnova, compagno. Rinnova!}
 {321}{}{Sei uno di noi, compagno.}
 {322}{}{Salve, compagno. Il Rinnovamento e' vicino.}
@@ -133,7 +121,6 @@
 {327}{}{Ho il tuo Rinnovamento proprio qui, amico.}
 {328}{}{Al giorno d'oggi non ti puoi girare da una parte senza trovarti di fronte un altro dannato cultista.}
 {329}{}{Non mi troverai mai a venerare un dannato ratto extra-large.}
-
 {340}{}{Dovresti andare da Lenny a farti vedere quelle ferite.}
 {341}{}{Sembri messo male. Vai da Lenny.}
 {342}{}{Non dovresti fare a pugni con i deathclaw. Vai da Lenny.}

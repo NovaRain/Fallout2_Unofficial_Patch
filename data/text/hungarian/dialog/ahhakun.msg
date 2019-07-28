@@ -1,20 +1,19 @@
-# Dialog Editor last position: 26
 {100}{}{Hakunin, a falu sámánja áll elõtted. Õrült szemekkel méreget.}
 {101}{}{Hakunin a földön fekszik. Súlyosan sérült.}
 {102}{}{Hakunint látod. Már nagyon közel van a halálhoz.}
 {103}{}{Hakunin súlyosan megégett. Úgy bûzlik, mint egy sült csirke, és úgy néz ki, mint az égett hús. El nem tudod képzelni, hogyan maradhatott életben ilyen hosszú ideig.}
 {104}{hak001}{Üdvözöllek, Kiválasztott! Miért melegszik a föld a lábam alatt a jelenlétedre?}
 {105}{}{Tessék? }
-{106}{}{Azért jöttem, hogy elköszönjek. Indulok szent küldetésemre. }
+{106}{}{Elköszönni jöttem. Indulok szent küldetésemre. }
 {107}{}{Éppen indulok. Azt reméltem, most az egyszer hétköznapi ember módjára fog beszélni. }
-{108}{}{Túl sok drogot vett be. Na, tûnök is innen. }
+{108}{}{You are doing just way too many drugs. I'm outta here. }
 {109}{}{Megsérültem. Meg tud gyógyítani?}
 {110}{}{Néhány rakoncátlan növény megfertõzte a kertjét, de elintéztem õket.}
 {111}{hak001a}{Kérlek, tárd fel érkezésed okát! Felhõs szemeim figyelnek...}
 {112}{}{Tessék? }
 {113}{}{Elköszönni jöttem. Indulok szent küldetésemre. }
 {114}{}{Éppen indulok. Azt reméltem, most az egyszer hétköznapi ember módjára fog beszélni. }
-{115}{}{Túl sok drogot vett be. Na, tûnök is innen.}
+{115}{}{You are doing just way too many drugs. I'm outta here. }
 {116}{}{Néhány rakoncátlan növény megfertõzte a kertjét, de elintéztem õket.}
 {117}{hak002}{A Föld egy hatalmas bajnok hírérõl énekel szerte a vidéken... Netán mielõtt elmennél, megajándékoznál a kedvességeddel?}
 {118}{}{Persze. Mire van szüksége?}
@@ -43,7 +42,7 @@
 {141}{}{Na, ez az! Máris sokkal jobb. Ez a lecke azt tanítja, hogy fogjam be a szám, és csak azt kérdezzem, hol a kert.}
 {142}{}{Próbáljuk ki azt a szót, hogy "Viszlát". Azt jelenti, hogy elmegyek.}
 {143}{hak007}{Bolond, biztosan emlékszel, hogy észak-keletre van.}
-{144}{}{Köszönöm a segítséget.}
+{144}{}{Kösz a segítséget.}
 {145}{}{Kösz. Ezt éppenséggel megértettem.}
 {146}{}{Bolondnak hívott? Úgy döntöttem, mégsem segítek magának.}
 {147}{}{Mindjárt visszajövök a fizetségemért.}
@@ -70,7 +69,7 @@
 {168}{}{Olyannak szeretem a lelkem, amilyen. Viszlát!}
 {169}{}{Nem vagyok rá méltó. Most viszont elmegyek.}
 {170}{hak014}{Kiválasztott, a lényed egészen olyan, mint az áldott föld.}
-{171}{}{Köszönöm.}
+{171}{}{Köszönöm!}
 {172}{}{Úgy érti, hogy jobbá váltam, ugye?}
 {173}{hak015}{A beteljesedés magával hozza a teljesség érzését, ezt te épp elég jól tudod, Kiválasztott.}
 {174}{}{Várjon, ne is folytassa! Én jobban vagyok, és magának jó volt segíteni, ugye? Kösz.}
@@ -80,10 +79,10 @@
 {178}{}{Megsérültem. Meg tud gyógyítani?}
 {179}{}{Ó, semmi-semmi. Viszlát!}
 {180}{hak018}{Áhhh. Visszaidézed az alapító szellemét e világba és mosolyt csalsz egy öregember arcára. Ezért cserébe gyógyítóporokat adok néked. Ne felejtsd! Megtisztítják ugyan a testet, de elhomályosítják az elmét.}
-{181}{}{Köszönöm.}
+{181}{}{Köszönöm!}
 {182}{hak018a}{Ezenkívül, ha hozol nekem egy broc-virágot, meg egy xander-gyökeret, összekeverem õket neked. Járd az igaz utat, hûen kövesse szíved!}
 {183}{}{Hol találok ilyesmit?}
-{184}{}{Köszönöm.}
+{184}{}{Köszönöm!}
 {185}{}{Kicsit sajnálom, hogy el kell mennem. Már kezdtem megérteni, amit mond. Viszlát!}
 {186}{hak019}{Áh, Kiválasztott, a kertem remekül van... hát a tied?}
 {187}{}{Jól vagyok.}
@@ -95,13 +94,13 @@
 {193}{}{Ó?}
 {194}{}{Úúúg! Bak!}
 {195}{hak020}{Eltöltenek eme örömteli szavak. Sajnos azonban fülembe suttognak az istenek. Ég veled!}
-{196}{}{Üdv!}
+{196}{}{Viszlát!}
 {197}{}{Még mindig a gyógynövényeket kevergeti, mi? Na, majd késõbb találkozunk!}
 {198}{hak021}{Mindannyiunknak van egy-egy kertje. Legyen utazásod e kertek gondozója! Most kapcsolatba kell lépnem az istenekkel.}
-{199}{}{Üdv!}
+{199}{}{Szeva.}
 {200}{}{Fogadok, hogy bárhová menjen, a hallgatóságát is mindig magával viszi. Ég magával!}
 {201}{hak022}{Vesd szemed észak felé, Kiválasztott, és megnyílik az út elõtted!}
-{202}{}{Oké. Köszönöm.}
+{202}{}{Oké. Kösz.}
 {203}{hak023}{Megtisztelõ, hogy a Kiválasztottat szolgálhatom.}
 {204}{hak024}{Ilyen az élet. Kettõ alkot egy harmadikat. A gyógyítópor elkészítéséhez a xander-gyökérre és a broc-virágra is szükségem van.}
 {205}{}{Ó, köszönöm.}
@@ -110,10 +109,10 @@
 {208}{}{Oké. Kösz.}
 {209}{}{Öh!}
 {210}{hak026}{Jól vagy.}
-{211}{}{Köszönöm.}
+{211}{}{Köszönöm!}
 {212}{}{Semmi lecke? Semmi érthetetlen szónoklat? Biztos, hogy jól érzi magát?}
 {213}{hak027}{Isten hozott, Kiválasztott! Áldj meg azzal a hírrel, hogy hamarosan megtalálod az ÉLET-et. A falu szenved, nagy a szükség, az idõ pedig kevés.}
-{214}{}{Nhemm.}
+{214}{}{Nehm.}
 {215}{}{Arra viszont cseppnyi esély sincs, hogy végre normálisan beszéljen. Egyfolytában próbálkozom.}
 {216}{}{Azon vagyok.}
 {217}{}{Szálljon le rólam, öreg! Mindent megteszek, amit csak tudok.}
@@ -122,23 +121,23 @@
 {220}{hak028b}{A Vizek enyhítsék utadat!}
 {221}{hak028c}{A Szél irányítson célodhoz!}
 {222}{hak028d}{A Tûz égesse hátsód, míg be nem fejezed a feladatod!}
-{223}{}{Kösz.}
+{223}{}{Köszi.}
 {224}{}{Tessék?!}
-{225}{}{Öh!}
+{225}{}{Öö.}
 {226}{}{Hö?!}
 {227}{hak029}{Isten hozott, Kiválasztott! Az arcodon látom, hogy az ÉLET még nincs birtokodban. Légy fáradhatatlan, amíg csak halvány esély is létezik arra, hogy a készleteink kifogyása elõtt visszatérsz. Te vagy az utolsó esélyünk.}
-{228}{}{Ah-ha.}
+{228}{}{Aha.}
 {229}{}{Próbálkozom. Szívesen megnézném egyébként, hogy maga milyen fáradhatatlan lenne ennyi kilométer megtétele után.}
 {230}{}{Mindent kihozok magamból.}
 {231}{}{Megkétszerezem az erõfeszítéseimet, szent ember. Nem hagyom cserben.}
 {232}{}{Persze, persze. Ezt már hallottam.}
-{233}{hak030}{Kiválasztott... a falu kétségbeesetten fohászkodik. A gyermekek legyengültek az éhségtõl. Kérlek, már nem bírjuk sokáig!}
-{234}{}{Ah-ha.}
+{233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
+{234}{}{Aha.}
 {235}{}{Próbálkozom. Próbálkozom! Hadd lazítsak már egy kicsit!}
 {236}{}{Megtalálom az ÉLET-et, szent ember. Megígérem!}
 {237}{}{Mindent megteszek, hogy megtaláljam az ÉLET-et.}
 {238}{hak031}{Kiválasztott, a homokórában már csak néhány porszem maradt. Kérlek! Hozdd el az ÉLET-et, és a falu újra felvirágozhat. Siess!}
-{239}{}{Ah-ha.}
+{239}{}{Aha.}
 {240}{}{Rendben, már indulok is.}
 {241}{}{Szóval felvirágozhat?}
 {242}{}{Megtalálom az ÉLET-et, szent ember. Nem hagyom cserben a törzsemet.}
@@ -157,10 +156,10 @@
 {255}{hak104}{Nem! Nem szép fényes! Elrabolták a falu népét és dél-nyugatra hurcolták õket.}
 {256}{}{Óó.}
 {257}{hak105}{Igen. Nagy szomorúság és fájdalom ez. Két világ határáról üzenek neked, Kiválasztott, mentsd meg a népedet!}
-{258}{}{Hö?}
+{258}{}{Öh?}
 {259}{hak106}{Kiválasztott! Kérlek, érintsenek meg a szavaim! Indulj dél-nyugat felé! Délre és nyugatra. Mentsd meg az embereket! Mentsd meg a törzsünket!}
 {260}{}{Ah-ha...}
-{261}{hak107}{Köszönjük az õsöknek. Lelkem most már egyesülhet az örökkévaló énekkel. Biztonságos utat, Kiválasztott!}
+{261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
 {262}{}{Menni?}
 {263}{hak108}{Indulj!...}
 {264}{}{Szia szia.}
@@ -188,6 +187,6 @@
 {286}{hak120}{Egy óceánnyi könny, melyet az anya hullatott a gyermekeiért.}
 {287}{}{Ó, az óceán... De mit is kell tennem?}
 {288}{hak121}{Egy különös köd elragadta az eszüket és elküldte õket az Álmok földjére. A gonoszok az alvók közt jártak, bár nem álmodtak.}
-{289}{}{Aztán?}
+{289}{}{És azután?}
 {290}{hak122}{Túl sok év és túl sok seb, Kiválasztott. Inkább figyelj!}
 {291}{}{Rendben.}

@@ -1,76 +1,54 @@
-# 0. QUICK LOOK
 {100}{}{Vedi una croupier.}
 {101}{}{Vedi un tavolo dei dadi.}
-# has no gambling skill messages
 {110}{}{Vedi una ragazza.}
 {111}{}{Vedi un tavolo.}
-
-# 0. EXAMINES
-# table
 {140}{}{Vedi un tavolo per il gioco dei dadi.}
-# no skill
 {141}{}{Vedi un tavolo con sopra della roba.}
-
-# dealer
-{150}{}{Vedi una delle croupier del casino'.}
-{151}{}{Vedi una delle croupier del casino'. Ti fa cenno di avvicinarti e giocare.}
+{150}{}{You see one of the casino dealers.}
+{151}{}{You see one of the casino dealers. She motions for you to come over and play.}
 {152}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
-{153}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.} #RIPROVAECONTROLLA
+{153}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.}
 {154}{}{Vedi una delle croupier del casino'. Ti fa l'occhiolino.}
 {155}{}{Vedi una delle croupier del casino'. Profuma davveeero di buono.}
-# no skill
 {160}{}{Vedi una bella donna. }
 {161}{}{Ti fa cenno di avvicinarti.}
 {162}{}{Il suo abito e' davvero ristretto.}
 {163}{}{Ha due gambe niente male.}
 {164}{}{Ti fa l'occhiolino.}
 {165}{}{Profuma daveeero di buono.}
-
-# use gambling skill on dealer
-# dealer dice amounts are screwed up
 {175}{}{NESSUN DADO!!!}
 {176}{}{TROPPI DADI!!!}
-# dealer has loaded dice planted by player
 {177}{}{Il gioco sembra piu' equilibrato da quando hai cambiato i dadi.}
 {178}{}{Il gioco non sembra essere molto equilibrato.}
 {179}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
-# dealer has regular dice
 {185}{}{Il gioco sembra abbastanza equilibrato.}
 {186}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
 {187}{}{Il gioco non sembra essere molto equilibrato.}
-
-# 2. FLOAT [ENCLAVE_DESTROYED == TRUE]
-{200}{}{::Sorride::}
+{200}{}{::Cheers::}
 {201}{}{::Applaude::}
 {202}{}{::Fischia::}
 {203}{}{}
 {204}{}{Credevo che ti saresti dimenticato di noi mentre eri impegnato a salvare il mondo.}
-
-# 3. FLOAT [MADE MAN, SAME CASINO] (WTG)
 {215}{}{Salve, }
-{216}{}{Se cerchi un po' di compagnia, dopo...}
+{216}{}{Se cerchi un po' di compagnia per dopo...}
 {217}{}{Ehi, tu...[fa l'occhiolino]...vuoi giocare un po'?}
-{218}{}{Sembra cosi'...[trema]...pericoloso.}
-{219}{}{Benvenuto al casino', }
-{220}{}{Puoi mettere una buona parola col boss per me?}
-{221}{}{Salve, signora. Me lo dica se ha bisogno di qualcosa.}
+{218}{}{He looks so...[shivers]...dangerous.}
+{219}{}{Benvenuto nel nostro casino', }
+{220}{}{Puo' mettere una buona parola con il boss per me?}
+{221}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {222}{}{Vuole giocare, signora?}
-{223}{}{Sembra cosi'...[trema]...pericolosa.}
-
-# 5. FLOAT [MADE MAN, WRONG CASINO] (WTG)
-{235}{}{Sembra che questo qui stia gia' giocando d'azzardo con la sua vita...}
+{223}{}{She looks so...[shivers]...dangerous.}
+{235}{}{Looks like this one's already gambling with his life.}
 {236}{}{Uh, credo che sia entrato nel casino' sbagliato...}
 {237}{}{Se non se ne va prima che lo vedano i ragazzi...}
 {238}{}{Uh-oh. Guai in arrivo...}
 {239}{}{Sembra che questa qui stia gia' giocando d'azzardo con la sua vita.}
 {240}{}{Uh, credo che sia entrata nel casino' sbagliato...}
 {241}{}{Se non se ne va prima che la vedano i ragazzi...}
-
-# 7. FLOAT [MALE, PRIZEFIGHTER] (WTG)
-{250}{}{Ehila', mr. Muscolo. Che ne dici di giocarti qualche spicciolo?}
+{250}{}{Hey, muscles. You looking to spend some chips?}
 {251}{}{Ehi, campione...[strizza l'occhio]...Che ne dici di giocare un po'?}
 {252}{}{Ehi, campione...[sorride]...vuoi mettere alla prova la tua fortuna?}
-{253}{}{Se piu' tardi hai bisogno di un po' di compagnia...}
+{253}{}{Se cerchi un po' di compagnia per dopo...}
 {254}{}{Chissa' se posso rivolgergli la parola...}
 {255}{}{Ehi, }
 {256}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
@@ -80,10 +58,8 @@
 {260}{}{Benvenuto nel nostro casino', }
 {261}{}{Salve, }
 {262}{}{Vuoi giocare, }
-{263}{}{Benvenuta nel nostro casino', }
-
-# 9. FLOAT [PORN STAR] (WTG)
-{270}{}{Ehila', stella del cinema. Che ne dici di giocarti qualche spicciolo?}
+{263}{}{Benvenuto nel nostro casino', }
+{270}{}{Hey there, movie man. You looking to spend some chips?}
 {271}{}{Ehi, }
 {272}{}{Ehi, }
 {273}{}{Se vuoi vincere dei soldi, }
@@ -93,22 +69,18 @@
 {277}{}{Benvenuto nel nostro casino', }
 {278}{}{Ehila', miss Stella del Cinema. Sei qui per spendere i tuoi soldi?}
 {279}{}{Farai uno spettacolo qui, stanotte?}
-
-# 11. FLOAT [MALE, NO REP] (WTG)
-{290}{}{Ehila', dolcezza. Che ne dici di giocarti qualche spicciolo?}
+{290}{}{Hey there, sweetie. You looking to spend some chips?}
 {291}{}{Ehi, dolcezza...[strizza l'occhio]...Che ne dici di giocare un po'?}
 {292}{}{Ehi, dolcezza...[sorride]...vuoi mettere alla prova la tua fortuna?}
 {293}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
 {294}{}{Donna Fortuna e' qui da noi, stasera... vincono tutti!}
 {295}{}{Vieni qui, e vinci!}
 {296}{}{Vuoi bere qualcosa, tesoro?}
-{297}{}{Benvenuto nel nostro casino', tesoro.}
+{297}{}{Benvenuta nel nostro casino', tesoro.}
 {298}{}{Questo tavolo e' libero, se vuoi giocare...}
 {299}{}{Ehila', tesoro. Che ne dici di giocarti qualche spicciolo?}
 {300}{}{Vuoi giocare un po', tesoro?}
 {301}{}{Benvenuta nel nostro casino', tesoro.}
-
-# 13.  PLACE YOUR BETS (WTG)
 {320}{}{[La croupier ti guarda nervosamente, poi si morde un labbro.] Um, fate il vostro gioco...la puntata minima e' $}
 {321}{}{Fate il vostro gioco, signore. La puntata minima e' $}
 {322}{}{Fate il vostro gioco, signora. La puntata minima e' $}
@@ -121,52 +93,38 @@
 {329}{}{Whoa, le mie tasche non possono permetterselo.}
 {330}{}{Niente giocate oggi, grazie.}
 {331}{}{Uhhh, mi spiace, non so come si gioca a questi folli giochi...}
-
-# 14.  RETARD (14)
 {340}{}{Um... Mi hanno detto che qui sul retro stanno distribuendo dei cervelli. Forse dovresti andare a dare un'occhiata.}
-{341}{}{Uh, molto bene, signore. Torna presto.}
+{341}{}{Uh, very well, sir. Come back soon.}
 {342}{}{Uh, molto bene, signora. Torna presto.}
 {343}{}{Ciaooooo.}
 {344}{}{Beeene. }
 {345}{}{Uh...cervelli...cosa essere?! Me va vedere!}
-
-# 15. POOR MAN (13)
-{350}{}{Molto bene, signore. Tornate presto.}
+{350}{}{Very well, sir. Come back soon.}
 {351}{}{Molto bene, signore. Tornate presto.}
 {352}{}{[La croupier alza un sopracciglio.] $}
 {354}{}{Lo faro', grazie.}
 {355}{}{Forse hai ragione.}
-
-# 16. LOOOOOOSER (13)
 {400}{}{Mi spiace. Ritenta, sarai piu' fortunato.}
-{401}{}{Mi spiace, signore. Ritentate, sarete piu' fortunato.}
+{401}{}{Sorry, sir. Better luck next time.}
 {402}{}{Mi spiace, signore. Ritentate, sarete piu' fortunata.}
-
 {410}{}{Hai vinto cio' che avevi puntato.}
 {411}{}{Avete vinto cio' che avevate puntato. Volete provare ancora, signore?}
 {412}{}{Avete vinto cio' che avevate puntato. Volete provare ancora, signora?}
-
 {420}{}{Hai vinto! Prendi il doppio dei soldi che avevi puntato!}
-{421}{}{Avete vinto! Prendete il doppio dei soldi che avevate puntato. Ben fatto, signore!}
+{421}{}{Winner! You've doubled your money! Well done, sir!}
 {422}{}{Avete vinto! Prendete il doppio dei soldi che avevate puntato. Ben fatto, signora!}
-
 {430}{}{Hai vinto! Prendi il triplo dei soldi che avevi puntato!}
-{431}{}{Avete vinto! Prendete il triplo dei soldi che avevate puntato. La Fortuna ci ha fatto visita, stanotte! Ben fatto, signore!}
+{431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {432}{}{Avete vinto! Prendete il triplo dei soldi che avevate puntato. La Fortuna ci ha fatto visita, stanotte! Ben fatto, signora!}
-
 {440}{}{Smetti di giocare.}
 {441}{}{Smetti di giocare.}
-
-#17. TABLE TAMPER
 {450}{}{Siamo spiacenti, ma questo tavolo e' chiuso. Qualcuno ha cercato di fare il furbo con i dadi.}
 {451}{}{Siamo spiacenti di informarvi, signore, che questo tavolo e' chiuso. Qualcuno ha cercato di fare il furbo con i dadi.}
 {452}{}{Siamo spiacenti di informarvi, signora, che questo tavolo e' chiuso. Qualcuno ha cercato di fare il furbo con i dadi.}
 {453}{}{Uhhh, OK.}
 {454}{}{Oh, mi dispiace. Grazie.}
-
-# message parts
 {2203}{}{! Benvenuto nel nostro casino', eroe!}
-{2215}{}{. Posso darti un mano con qualcosa? *Qualsiasi* cosa?}
+{2215}{}{. Posso aiutarti in... *qualsiasi* modo?}
 {2219}{}{.}
 {2255}{}{. Che ne dici di giocare un po'?}
 {2258}{}{, e vincerai dei soldi.}

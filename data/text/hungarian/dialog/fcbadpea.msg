@@ -2,7 +2,7 @@
 {101}{}{Õ egy Shi városlakó.}
 {102}{}{Ez az ember minden korábban látott népségtõl különbözik. Oda sem bagózik, mit csinálsz.}
 {103}{}{Ugye nem vagy kém?}
-{104}{}{Ki vagy?}
+{104}{}{Ki vagy te?}
 {105}{}{Hal és alga. Ez jut nekünk.}
 {106}{}{Haha! Nézd már a fura kerekszemût!}
 {107}{}{Úgy nézel ki, mint egy Hubologista.}
@@ -54,7 +54,6 @@
 {153}{}{Ennyit tartogat az élet?}
 {154}{}{Ravaszabbak vagyunk, mint gondolnád.}
 {155}{}{Nézzétek! Egy lao wai!}
-
 {163}{}{Te ölted meg BHK-9-et? Igen!}
 {164}{}{Azoktól a Hubologistáktól kiver a víz.}
 {165}{}{Nagy szolgálatot tettél nekünk.}
@@ -67,7 +66,7 @@
 {172}{}{Szégyent hoztál a családodra!}
 {173}{}{Hagyj békén minket, lao wai!}
 {174}{}{Nem okoztál már így is elég kárt?}
-{175}{}{Gyûlöllek!}
+{175}{}{Utállak!}
 {176}{}{Hagyd el a várost!}
 {177}{}{Menj vissza a népedhez!}
 {178}{}{Ne árnyékold be az életemet az arcoddal!}

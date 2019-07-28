@@ -1,7 +1,6 @@
-# Dialog Editor last position: 1
-{970}{}{Ez a nevem.}
-{971}{}{Velem beszélsz.}
+{970}{}{That is my name.}
+{971}{}{You are talking to me.}
 {972}{}{Miért kérdezel buta kérdéseket. Én vagyok az.}
-{980}{}{Semmit nem tudok róla.}
+{980}{}{Arról semmit se tudok.}
 {981}{}{Sajnálom semmi nyom.}
-{982}{}{Soha nem hallottam róla.}
+{982}{}{Never heard of it.}

@@ -1,6 +1,5 @@
 {100}{}{Vedi il proprietario dell'Hole.}
 {101}{}{Vedi Frankie, proprietario dell'Hole.}
-
 {150}{}{Questo sembrerebbe essere il proprietario del locale.}
 {151}{}{E' Frankie. Gestisce questa bettola.}
 {152}{}{[PARLA]}
@@ -32,7 +31,7 @@
 {178}{}{Non hai abbastanza soldi! Non facciamo la carita' a nessuno, qui!}
 {179}{}{Oh, scusa. Sono a corto di fondi.}
 {180}{}{Tornero'.}
-{181}{}{Che cosa vuoi?}
+{181}{}{Cosa vuoi?}
 {182}{}{Whiskey.}
 {183}{}{Niente. Me ne stavo andando.}
 {184}{}{Wahdo a peedee!}
@@ -71,20 +70,20 @@
 {217}{}{Che cosa vuoi dire?}
 {218}{}{Compra il liquore da lei. E' piu' economico di quello di New Reno; in questo modo potrai fare piu' soldi.}
 {219}{}{Non voglio farlo.}
-{220}{}{Come non detto.}
+{220}{}{Nulla.}
 {221}{}{Senti, voglio solamente che il suo distillatore sia distrutto. Lo farai?}
 {222}{}{D'accordo, lo faro'.}
 {223}{}{No, non lo faro'. Addio.}
 {224}{}{Forse hai ragione. Parlero' con lei. Grazie.}
 {225}{}{Ehi, a cosa servirebbero gli amici, altrimenti?}
-{226}{}{Arrivederci.}
+{226}{}{Addio.}
 {227}{}{Non ho informazioni da vendere.}
 {228}{}{Davvero? E che mi dici del fatto che il whiskey di Becky costa meno del tuo?}
 {229}{}{Credevo che i baristi sapessero tutto.}
 {230}{}{Allora mi trovo nel posto sbagliato. Addio.}
 {231}{}{Parla con Sheila. Ehi, Sheila, hai un cliente!}
 {232}{}{Aspetta, non e' questo quello che intendevo!}
-{233}{}{Grazie. Addio.}
+{233}{}{Grazie. Ciao.}
 {234}{}{Non mi sorprende. Devi fare una fatica del diavolo a trovarti un uomo. Prova da qualche altra parte, sorella. Non faccio la carita'.}
 {235}{}{Bene! Qualcos'altro, allora.}
 {236}{}{Come? Tu, piccolo...}
@@ -92,14 +91,12 @@
 {238}{}{Ho una stanza qui dietro. Possiamo usarla.}
 {239}{}{OK.}
 {240}{}{No, non volevo dire questo!}
-
 {242}{}{Nemmeno tu lo sei.}
 {243}{}{Sarei anche disposta a fare un tentativo, se tu sapessi come far felice una donna.}
 {244}{}{Sei il migliore uomo con il quale sia mai stata. Davvero. Lo giuro.}
 {245}{}{Odio mangiare e correre, ma...}
 {246}{}{Beh, ci vediamo dopo.}
-{247}{}{Ciao.}
-
+{247}{}{Addio.}
 {248}{}{Si', come no? Questa volta, pero', pulisci tu. Siamo intesi?}
 {249}{}{Ehi, gente! Guardate Billy. Pare ne abbia abbordata una!}
 {250}{}{Ti serve un fazzoletto?}
@@ -121,16 +118,12 @@
 {266}{}{Nessuno puo' permettersi di parlarmi in questo modo! Muori!}
 {267}{}{Ti ho offerto tutte le possibilita' che potevo. Adesso vattene.}
 {268}{}{Non puoi entrare nella mia stanza se ti porti dietro quella spazzatura!}
-
 {300}{}{Ehi, non ho mai detto che ti avrei pagato se tu avessi fatto fuori quella troia di Becky. Vai a farti fottere!}
-
 {350}{}{Wow! Che chiavata. E' stato meraviglioso.}
 {351}{}{Cazzo, non sei niente male, baby.}
 {352}{}{Grazie, e' stato divertente. Adesso... fuori di qui!}
 {353}{}{Sei stata, uhhh... non importa, fuori di qui.}
 {354}{}{Beh... non ho mai avuto una donna peggiore di te.}
-
 {400}{}{Sai, baby, potrai anche essere assatanata e tutto il resto, ma hai molto, molto da imparare.}
 {410}{}{Vedi, baby, ho del lavoro da fare. Non me ne sto tutto il giorno in un posto a non fare nulla. Beh, okay, lo faccio. E allora? E' questo che devo fare.}
-
 {420}{}{Senti, volevo solamente che il suo distillatore fosse distrutto e che tu lo facessi. Ora vattene.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 9
 {100}{}{Ez a mi területünk.}
 {101}{}{Nem kívánatos személy vagy itt!}
 {102}{}{Azt hiszem, útdíjat kell fizetned!}

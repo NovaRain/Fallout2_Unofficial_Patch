@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {150}{}{Egy sovány, éhes kinézetû férfi áll itt. Nagyon le van épülve, az állát pedig több napos borosta borítja.}
 {151}{}{Õ Szépfiú Lloyd.}
 {152}{}{Õ Szépfiú Lloyd. Bizalmatlanul méreget.}
@@ -7,7 +6,7 @@
 {211}{}{Már megint te vagy?! Mit csinálsz idelenn?}
 {212}{}{Semmitsenem kedves}
 {213}{}{Én }
-{214}{}{Továbbállsz}
+{214}{}{Elpályázol}
 {215}{}{TE mit csinálsz idelenn?}
 {216}{}{Nyugodtság, barátom! Ha sikerült lenyugodni, beszélhetünk. Minden rendben van?}
 {217}{}{Te Lloyd vagy? Szépfiú Lloyd?}
@@ -20,6 +19,7 @@
 {233}{}{Nem nagyon izgat, mit javasolsz... barátom. Szóval mi is itt a tényálladék?}
 {234}{}{Nagyon olyan ember benyomását kelted, mint aki bajban van. Esetleg segíthetnék.}
 {235}{}{Olyan embernek tûnsz, aki nagyra értékeli a magányt. Egy olyan beszédes embernek, mint én, drága mulatság lenne rólad megfeledkezni.}
+{236}{}{All right then... sorry to bother you.}
 {245}{}{Probléma? Itt áll elõttem a probléma.}
 {246}{}{Nem akarom még egyszer mondani, barátom: Menj innen!}
 {247}{}{Nem akarom még egyszer mondani, édesem: Menj innen!}
@@ -40,7 +40,7 @@
 {284}{}{Azt hiszem, neked van itt problémád! Ez a nagy magány elõsegíti, hogy ne nagyon halljanak itt rólam. Lehet, hogy csak egyszerûen megöllek, mit szólsz?}
 {285}{}{Olyan embernek tûnsz, mint aki bajban van, talán segíthetnék. Mit szólsz hozzá?}
 {286}{}{Olyan embernek tûnsz, aki nagyra értékeli a magányt. Egy olyan beszédes embernek, mint én, drága mulatság lenne rólad megfeledkezni.}
-{287}{}{Akkor jól van... bocs, hogy zavartalak.}
+{287}{}{All right then... sorry to bother you.}
 {295}{}{Ööö... hát... izé... nincs szükség az ilyen beszédre. Talán társaloghatnánk MÁSRÓL is. Lloyd barátod miben segíthet neked?}
 {296}{}{Érdekel a dolog. Folytasd csak, amit elkezdtél!}
 {297}{}{Nem érdekel az egész. Megyek is.}
@@ -130,7 +130,7 @@
 {615}{}{(Elakad a lélegzete.) Az... õrség ellátása... mellett eléggé... hálás lennék, ha... kiásnád.}
 {616}{}{Öö...}
 {617}{}{Kétféle ember létezik a világon, Lloyd. Az egyiknek töltött fegyver van a kezében, a másik ás.}
-{620}{}{Na, jó, kiásom...}
+{620}{}{All right then, I'll do it...}
 {625}{}{(Lloyd mormog valamit a foga közt, aztán nekiáll ásni.)}
 {626}{}{(Lloyd mormog valamit a foga közt, aztán nekiáll ásni... igen gondosan. Alig egy perccel késõbb elõhúz egy taposóaknát a földbõl és félrerakja. Ártatlan képpel von vállat.)}
 {627}{}{Ez az! Nagyon jól csinálod! Csak így tovább! Áss egy kicsit gyorsabban!}
@@ -166,5 +166,9 @@
 {1001}{}{Követed Lloydot a Golgotára. Mikor odaértek, kiássa az egyik sírt.}
 {1002}{}{Mikor kiértek New Renóból, Lloyd kereket old.}
 {1050}{}{Hagyod, hogy Lloyd elmenjen.}
+{1051}{}{*grumble* Coulda been my money.}
+{1052}{}{Uh... Thanks for letting me live.}
+{1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
+{1054}{}{Forget you. This is my money and you aint getting any of it!}
 {5213}{}{ Én }
 {7213}{}{Ki vagyol?}

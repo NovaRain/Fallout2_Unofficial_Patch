@@ -23,9 +23,9 @@
 {122}{}{Tu matto in testa. Me aggiusta togliendo testa.}
 {123}{}{Cosa tu intendere per divertire con ragazza?}
 {124}{}{Oh, questo spiegare. Me va ora.}
-{125}{}{Sei un cane malato. Penso che ti mandero' a fare un sonnellino. Eterno.}
-{126}{}{Bene, divertitevi; io me ne vado.}
-{127}{}{Consegnatemi la ragazza e potremo andarcene tutti con le nostre gambe.}
+{125}{}{Sei un cane malato. Penso ti mandero' a fare un sonnellino.}
+{126}{}{Bene, divertitevi; io me ne andro'.}
+{127}{}{Consegnatemi la ragazza e nessuno si fara' del male.}
 {128}{}{Pensaci mentre muori, stupido.}
 {129}{}{}
 {130}{}{}
@@ -52,6 +52,5 @@
 {151}{}{Sei un cane malato. Penso ti mandero' a fare un sonnellino.}
 {152}{}{Bene, divertitevi; io me ne andro'.}
 {153}{}{Consegnatemi la ragazza e nessuno si fara' del male.}
-
 {154}{}{Allora sei tornato... Vediamo chi sara' il vincitore.}
 {155}{}{Abbiamo ucciso quella puttanella di Chrissy e adesso e' il tuo turno!}

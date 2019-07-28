@@ -4,11 +4,8 @@
 {103}{}{ elektromosan sebzõdött a gyengített erõtértõl.}
 {107}{}{Elektromosan sebzõdtél az erõtértõl.}
 {108}{}{ elektromosan sebzõdött az erõtértõl.}
-
-{109}{}{Nem sikerült kikapcsolnod az erõteret.}
+{109}{}{You fail to affect the force field.}
 {110}{}{ nem tudta kikapcsolni az erõteret.}
-
-
 {111}{}{Egy hangosbemondóra leszel figyelmes: Figyelem! Betolakodó Veszély! Biztonsági Rendszer Bekapcsolva.}
 {112}{}{Kikapcsoltad az erõteret.}
 {113}{}{ kikapcsolta az erõteret.}

@@ -1,11 +1,10 @@
-# Dialog Editor last position: 1
-{100}{}{Egy szerencsejátékost látsz.}
+{100}{}{Íme, egy szerencsejátékos.}
 {101}{}{Egy szerencsejátékost látsz, aki láthatólag abban reménykedik, hogy hamarosan pénzt csinál.}
 {102}{}{Az illetõt eléggé felizgatta a játék, szinte kihozta a sodrából.}
 {103}{}{Gyerünk, a bébinek új cipõ kell!}
 {104}{}{Igen, ez az!}
-{105}{}{A francba!}
-{106}{}{Miért én?}
+{105}{}{Picsába!}
+{106}{}{Miért pont velem esik meg?}
 {107}{}{Tudna valaki egy kis aprót adni?}
 {108}{}{Most biztosra megyek.}
 {109}{}{Az én szisztémám mindig mûködik.}

@@ -1,12 +1,10 @@
-# Dialog Editor last position: 4
 {100}{}{Egy termetes, ostoba kinézetû, izomagyú pancser.}
-{101}{}{Õ Hoss.}
+{101}{}{It's Hoss.}
 {102}{}{Nem úgy tûnik, mint aki fel van fegyverezve... sem fegyverrel, sem ésszel.}
 {103}{}{Hé, te szarházi! Nem tetszel nekem! Azt hiszem, meg kellene hívnod egy italra!}
 {104}{}{Hé, bébi, gyere ide, kapsz tõlem egy jó nagy nedveset!}
 {105}{}{<Fingasz!>}
 {106}{}{Egyé' szart!}
-#Bite me-t nem kene egyenesen forditani (Bass)
 {107}{}{Nem akarok semmilyen balhét.}
 {108}{}{Szóval keménynek érzed magad, mi? Feltörlöm a padlót a seggeddel! Puszta kézzel, itt és most!}
 {109}{}{"Nem akarok semmilyen balhét!" Hát, most már nem úszod meg szárazon! Vagy kiállsz ellenem, vagy elmondom mindenkinek, milyen gerinctelen kis csecsemõ vagy. Puszta kézzel, itt, és most.}

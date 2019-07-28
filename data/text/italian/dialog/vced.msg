@@ -11,12 +11,12 @@
 {110}{}{Il mio amico Vic qui presente dice di aver comprato una fiaschetta da te.}
 {111}{}{Ti sei ricordato dove hai trovato quella fiaschetta?}
 {112}{}{Sto cercando il Vault.}
-{113}{}{Puoi parlarmi di Vault City?}
-{114}{}{Di cosa ti occupi?}
+{113}{}{Puo' parlarmi di Vault City?}
+{114}{}{Che cosa fai?}
 {115}{}{Arrivederci.}
 {116}{}{Vic?}
 {117}{}{Ti ha venduto una fiaschetta? Una con un "13" sopra?}
-{118}{}{Come non detto. Devo andare.}
+{118}{}{Niente. Devo andare.}
 {119}{}{Ce l'hai ancora? Forse vederla potrebbe rinfrescarmi la memoria.}
 {120}{}{Lasciamo perdere, allora. Avrei delle altre domande da farti...}
 {121}{}{Vedo se riesco a recuperarla. Tornero'.}
@@ -33,24 +33,24 @@
 {132}{}{Capisco. Beh, grazie delle informazioni.}
 {133}{}{Lascia che te li indichi sulla tua mappa. Ecco, Broken Hills e' a sud... segui la pista a ovest in questo punto e troverai Reno. A nordovest di Reno c'e' Redding, poi si va a nord fino al Den, a est fino a Modoc, poi ancora a est fino a qui, Vault City.}
 {134}{}{In quale di questi posti ti pare di aver trovato la fiaschetta?}
-{135}{}{Grazie per le informazioni.}
+{135}{}{Grazie delle informazioni.}
 {136}{}{Mi spiace, non lo ricordo esattamente. E' stato molti anni fa. Perche' lo vuoi sapere?}
 {137}{}{Sto cercando il Vault dal quale proviene la fiaschetta.}
-{138}{}{Grazie per le informazioni.}
+{138}{}{Grazie delle informazioni.}
 {139}{}{Beh, diamine, se e' un Vault quello che cerchi, ce n'e' uno proprio all'interno dele mura di Vault City.}
 {140}{}{Il Vault 13 e' all'interno della citta'?}
-{141}{}{Grazie per le informazioni.}
+{141}{}{Grazie delle informazioni.}
 {142}{}{Beh, insomma, non so se sia prorpio il "13", ma un Vault c'e'. Se non e' quello che stai cercando, il computer centrale del vault potrebbe sapere dove si trovano gli altri. Ci registrano praticamente di tutto, la' dentro.}
 {143}{}{Avrei delle altre domande...}
-{144}{}{Grazie per le informazioni.}
+{144}{}{Grazie delle informazioni.}
 {145}{}{Spara. Che cosa vuoi sapere?}
 {146}{}{Conosci un mercante di nome Vic? Mi ha detto di aver acquistato da te questa fiaschetta proveniente da un Vault.}
 {147}{}{Conosci un mercante di nome Vic?}
 {148}{}{Il mio amico Vic qui presente dice di aver comprato una fiaschetta da te.}
 {149}{}{Ti sei ricordato dove hai trovato quella fiaschetta?}
 {150}{}{Sto cercando il Vault.}
-{151}{}{Puoi parlarmi di Vault City?}
-{152}{}{Di cosa ti occupi?}
+{151}{}{Puo' parlarmi di Vault City?}
+{152}{}{Che cosa fai?}
 {153}{}{Arrivederci.}
 {154}{}{Beh... c'e' un Vault all'interno delle mura della citta'. Hai gia' provato li'? Potrebbe essere quello che stai cercando.}
 {155}{}{Beh... c'e' un Vault all'interno delle mura della citta'. E' quello che stai cercando?}

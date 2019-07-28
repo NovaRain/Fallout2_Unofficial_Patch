@@ -1,10 +1,9 @@
-# Dialog Editor last position: 108
 {100}{}{Egy köpenyes figurát látsz.}
 {101}{}{Goris, a tudós.}
 {102}{}{Egy humanoid alakot látsz. Hosszú ujjú, csuklyás köpenyt visel. Van valami természetellenes a viselkedésében, de nem tudsz rájönni, mi is az pontosan.}
 {103}{}{Helló, Goris vagyok. Nem ismerlek téged, új vagy itt?}
 {104}{}{Én}
-{105}{}{Én megy.}
+{105}{}{Én menni elfele.}
 {106}{}{Aha, na és?}
 {107}{}{Üdv! Én}
 {108}{}{Üdv, Goris. Gruthar azt mondta, keresselek meg téged. Szerinte te vagy az, aki tud nekem válaszolni.}
@@ -14,27 +13,31 @@
 {112}{}{Szóval beszéltél Gruthar-al. Elég túlzó véleménnyel van rólam. Valójában fele annyit sem tudok, mint ahogy azt õ hiszi. Akárhogy is...}
 {113}{}{Tehát kívülálló vagy! Már láttam néhány hozzád hasonlót. Néhányan itt is maradtak a Menedékben, de te máshogy nézel ki. Sokkal 'érettebbnek' tûnsz, ha érted, mire gondolok. Fogadni mernék, hogy sok mindent láttál, sok mindent csináltál már. Igazam van?}
 {114}{}{Öö... 'érettebb'?}
-{115}{}{Én megy.}
+{115}{}{Én menni elfele.}
 {116}{}{Sajnálom, de azt hiszem, most távozom.}
 {117}{}{Igen, volt néhány kalandom. Mondjuk, ha válaszolsz néhány kérdésemre, cserébe mesélhetek a kalandjaimról.}
-{118}{}{Semmi közöd hozzá!}
+{118}{}{Semmi közöd hozzá.}
 {119}{}{Nem bánod, ha felteszek néhány kérdést?}
 {120}{}{Megegyeztünk! Nagyon szívesen meghallgatok bármit, amit elmesélsz nekem.}
 {121}{}{Mindamellett, nem utasíthatom vissza Gruthar barátját.}
-{122}{}{Amit csak tudni akarsz.}
+{122}{}{Mit szeretnél tudni?}
 {123}{}{Mit csinálsz itt?}
-{124}{}{Te rab vagy itt?}
+{124}{}{Rab vagy?}
 {125}{}{Mióta vagy itt?}
-{126}{}{Mit tudsz mondani ezekrõl a Halálkarmokról?}
+{126}{}{What can you tell me about the Deathclaws here?}
 {127}{}{Tudod, mi történt az emberekkel, akik valaha itt éltek a Menedékben?}
 {128}{}{Mit tudsz mondani Gruthar-ról?}
-{129}{}{Szerinted a Halálkarmok fenyegetést jelentenek az emberekre?}
+{129}{}{Do you think the Deathclaws are a threat to humans?}
 {130}{}{Van valami információd az általad említett Enklávéról?}
 {131}{}{Mit tudsz errõl a vírusról?}
 {132}{}{Említetted, hogy szeretnél utazni. Mit szólnál, ha csatlakoznál hozzám?}
 {133}{}{Sajnálom, de most mennem kell.}
 {134}{}{Hmm... Meg vagyok lepve, hogy Gruthar nem mondott neked semmit rólam. Hát, igen... }
-{135}{}{Én mindenféléket tanulok itt. Megpróbálok minél többet megtanulni a világról és a különbözõ, fejlett kultúrákról. Jelenleg éppen a Halálkarmok kultúráját tanulmányozom, és megpróbálom felfedezni a hasonlóságokat az emberi kultúrával kapcsolatban. Ezügyben már az összes itt megszerezhetõ információ a birtokomban van. Sokat segítene a kutatásaimban, ha utazhatnék. Mindenesetre semmiképpen sem szeretnék egyedül menni, ha érted, mire gondolok.}
+{135}{}{I'm a student of sorts. I'm trying to learn as much as I can about the world and the different
+ cultures that have developed. Right now I'm studying the culture the Deathclaws are forming and
+ comparing it to human development along similar lines. I've acquired just about all the information I
+ need here. It would help my research a great deal if I could do some traveling. However, I don't want
+ to go it alone, if you know what I mean.}
 {136}{}{Érdekes. Feltehetek még néhány kérdést?}
 {137}{}{Tehát tudós vagy... Ez elég nagy teljesítmény a mai világban.}
 {138}{}{Milyen unalmas!... Igazság szerint... úgy tékozlod el az életedet, ahogy gondolod. Mindenesetre több infóra van szükségem.}
@@ -46,21 +49,29 @@
 {144}{}{Hûha, elég új vagy itt te magad is. Ha nem bánod, lenne még kérdésem.}
 {145}{}{Hát ez nem volt túl kimerítõ válasz. Mondanál errõl többet?}
 {146}{}{Értem. Szeretnék még feltenni néhány kérdést.}
-{147}{}{Ezek nem átlagos Halálkarmok, ahogy biztosan észrevetted már magad is. Az intelligenciájuk valahogy fel lett javítva, õk sem értik, hogyan. Ezt egy 'Enklávé' néven ismert emberi csoport követte el. Úgy tûnik, ennek a bizonyos Enklávénak hadseregre volt szüksége, és a Halálkarmokra esett a választás, elsõsorban a kegyetlenségük, a fizikai adottságaik, a bátorságuk, és... hát, el tudod képzelni, mi egyebek miatt. Mindenesetre csak egy dolog hiányzott a Halálkarmokból, az intelligencia. Elég okosnak kellett lenniük, hogy megértsenek bonyolult parancsokat is, de nem annyira, hogy veszélyt jelentsenek a parancsnokokra.}
+{147}{}{These aren't your average Deathclaws, as I'm sure you noticed. They've had their intelligence
+ enhanced by some means not understood by them. It was done by a group of humans known as 'The
+ Enclave.' It seems this Enclave needed an army and they chose Deathclaws because of their ferocity,
+ physical prowess, and... well, you get the picture. Anyway, the only thing lacking in Deathclaws was
+ their intelligence. They needed to be smart enough to understand complex commands, but not so smart
+ that they'd be a threat to 'those in charge.'}
 {148}{}{Ez a legnagyobb lószar, amit életemben valaha is hallottam!}
 {149}{}{Ez hihetetlen! Nagyon jól informáltnak tûnsz. Kérdezhetek még?}
 {150}{}{Hmm... Oké.}
-{151}{}{(::sóhajt::) Az Enklávé elfogta õket. Gruthart és a falka többi tagját kényszerítették, hogy segítsen nekik az elfogásukban. Nem volt más választásuk, mert rabszolgák voltak akkoriban. Azóta az emberek sorsa hatalmas súlyként nehezedik Gruthar vállára. Sosem bocsátotta meg magának, hogy bûnrészes volt az ügyben. Az embereket élve vitték el, de ki tudja, mi történt velük azóta?}
+{151}{}{::sigh:: They were captured by The Enclave. Gruthar and the pack were forced to aid in their
+ capture. They had no choice since they were slaves at the time. The fate of the humans has weighed
+ heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the affair. The
+ humans were taken alive, but who knows what has happened to them since?}
 {152}{}{(Sóhajt) Egy 'Enklávé' néven ismert csoport elfogta õket. Gruthart és a falka többi tagját kényszerítették, hogy segítsen nekik az elfogásukban. Nem volt más választásuk, mert rabszolgák voltak akkoriban. Azóta az emberek sorsa hatalmas súlyként nehezedik Gruthar vállára. Sosem bocsátotta meg magának, hogy bûnrészes volt az ügyben. Az embereket élve vitték el, de ki tudja, mi történt azóta velük?}
 {153}{}{Hmm... Lenne még néhány kérdésem.}
-{154}{}{Tudtam, hogy valahogy az istenverte Halálkarmok felelõsek ezért! Mindenesetre több információra van szükségem.}
+{154}{}{I knew the damn Deathclaws were responsible somehow! I need some more information, though.}
 {155}{}{Néha rajtunk kívülálló okok arra kényszerítenek, hogy undorító dolgokat cselekedjünk. Grutharnak meg kell tanulnia megbocsátani magának.}
 {156}{}{Gruthar egyáltalán nem szörnyeteg, még ha annak tûnik is. Õszintén törõdik mindannyiunkkal, és mindent megtesz, amit csak tud, hogy gondoskodjon a biztonságunkról és a túlélésünkrõl. Mi itt mindannyian rábíztuk az életünket. Nem tudom, mit mondhatnék még róla. Meg kellene ismerned õt személyesen, és utána dönts róla magad.}
 {157}{}{Nem fogok elhamarkodottan dönteni róla. Ennél többet érdemel.}
 {158}{}{Rendben. Beszéljünk másról!}
-{159}{}{Hiszen õ egy Halálkarom. Nehezen tudom elképzelni, hogy van bármilyen jó tulajdonsága.}
+{159}{}{He's a Deathclaw. I find it hard to believe that he can have any redeeming qualities.}
 {160}{}{Nos... a lehetõség adott, kiváltképp, ha számításba veszed az új intelligenciájukat. Ennek ellenére nem hiszem, hogy Gruthar és a falkája színlel. Úgy tûnik, az életet és a személyes szabadságot tisztelik mindenek felett. Nem várom el, hogy elhidd nekem. Döntsd el magad. Mások is élnek itt, akiktõl megkérdezheted.}
-{161}{}{Csak egy segghülye nem látja, milyen fenyegetést jelentenek ezek a Halálkarmok!}
+{161}{}{Only a dumbass would fail to see the threat potential of these Deathclaws!}
 {162}{}{Köszönöm a tanácsot, körbe fogok kérdezõsködni. Feltehetek még néhány kérdést?}
 {163}{}{Hmm... Oké, jöhet még néhány kérdés?}
 {164}{}{Nem, csak annyit tudok, amit már elmondtam. Várj, van még valami. Az Enklávé nagyon érdeklõdött valami romok felõl, ami innen nyugatra van. Nem tudom, miért. Ez minden.}
@@ -86,11 +97,11 @@
 {184}{}{}
 {185}{}{Aha, tudod, sokat látott... jól informált... tapasztalt... Lövésed sincs, mirõl beszélek, ugye?}
 {186}{}{Gyümölcs érettebb, nem én.}
-{187}{}{Én mostan menek elfele.}
+{187}{}{Én menni mostan.}
 {188}{}{Aha. Hát, lehet, hogy az IQ-d alacsonyabb, mint a cipõ méreted, de határozottan van valami benned, miután ilyen sokáig túlélted ezt a világot... Oké, próbáljuk meg így. Én akar elhagyni ezt a hely. Én akar utazni veled. Oké?}
 {189}{}{Aha. hát, lehet, hogy az IQ-d alacsonyabb, mint a cipõ méreted, de határozottan van valami benned, miután ilyen sokáig túlélted ezt a világot... valószínûleg a gyávaságot érzem benned. Nos, igen. Viszlát!}
 {190}{}{Ööö... Oké.}
-{191}{}{Én menni el.}
+{191}{}{Én menni elfele.}
 {192}{}{Elnézést, nem akartam a magánügyeidbe beleütni az orromat.}
 {193}{}{Aha, hát, majd hiszem, ha látom, hogy nem teszed meg újra!}
 {194}{}{Tökmindegy. Mellesleg szükségem volna még néhány információra tõled.}
@@ -105,64 +116,73 @@
 {203}{}{Hé, éppen útitársakat keresek. Készen állsz?}
 {204}{}{Mit tehetek érted, }
 {205}{}{Te lenni rossz! Miért nem mond?}
-{206}{}{Te is Halálkarom vagy? Esetleg van valami oka, hogy ezt nem említetted nekem?}
+{206}{}{You're a Deathclaw? Is there a reason you didn't mention this to me?}
 {207}{}{Hogy is mondjam... Rossz dolog te öl, nem beszél. Én nem mond el senkinek, én csinál jót neked. Te nem öl meg engem. Én maradni veled?}
-{208}{}{Elnézést, hogy félrevezettelek, de az embereknek megvan az a rossz szokásuk, hogy agyonlõnek minden Halálkarmot, akit meglátnak. Úgy éreztem, elõnyömre válhat, ha elrejtem a valódi énemet, amíg rá nem jössz magadtól, hogy én a te oldaladon állok ebben a vállalkozásban. Ha még most is azt akarod, hogy távozzak, megteszem. De szívesebben maradnék, és segítenélek az utadon. Be akarom bizonyítani, hogy az emberek és a Halálkarmok tudnak barátként is együtt létezni, nem csak ellenségként.}
+{208}{}{I'm sorry to have deceived you, but humans have a habit of shooting Deathclaws on sight. I felt
+ that it would be to my advantage to hide my identity until you could see for yourself that I am on your
+ side in this venture. If you want me to leave, I'll do so. But I would rather stay and help you on your
+ quest. I want to show that humans and Deathclaws can work together as friends, not enemies.}
 {209}{}{Nekem nem tetszeni, te menni.}
 {210}{}{Oké, te maradni.}
 {211}{}{Sajnálom, de nem szeretem, ha félrevezetnek. Távozz!}
 {212}{}{Megértem, miért érezted szükségesnek, hogy elrejtsd a valódi énedet. Azt hiszem, tudnánk együtt dolgozni, úgyhogy kérlek, maradj... de ne vezess félre még egyszer, Goris!}
 {213}{}{ vagyok. Én lenni új itt.}
 {214}{}{ vagyok. Igen, a Menedéken kívülrõl jöttem.}
-{215}{}{.}
+{215}{}{ vagyok.}
 {216}{}{?}
-{217}{}{Nos, az Enklávé elkezdett kísérletezni egy vírussal vagy valami ilyesmivel, és beoltotta vele a Halálkarmokat. Ez a vírus arról volt ismert, hogy az embereket valamiféle szuper lénnyé változtatja, így arra voltak kíváncsiak, vajon mit fog mûvelni a Halálkarmokkal. Nos, az eredmény egy értelmes Halálkarom-faj lett, olyannyira értelmes, hogy rádöbbentek saját rabszolga mivoltukra. Így egész egyszerûen hülyének kezdték tettetni magukat, amíg szabaddá nem váltak. Most itt vannak!}
-{218}{}{Én ellenzem a Halálkarmok megtámadását.}
+{217}{}{So, the Enclave started messing with a virus, or some such thing, and injected the Deathclaws
+ with it. This virus was known to mutate humans into some sort of super beings, so the Enclave wanted
+ to see what it would do to Deathclaws. Well, the result was a breed of Deathclaws so smart that they
+ could see they were destined for slavery. So, they played dumb until they could gain their freedom.
+ And here they are!}
+{218}{}{I am against attacking any Deathclaw.}
 {219}{}{Hirtelen elfogott az érzés, hogy bajban van a falkám. Sajnálom, hogy el kell hagynom téged, de meg kell néznem, mi van a testvéreimmel.}
 {220}{}{Oké.}
 {221}{}{A biztonsági kamerák felvettek mindent, ami történt. Meg kellene nézned.}
-{222}{}{Egy szürke Halálkarmot látsz. Goris az.}
+{222}{}{You see a gray Deathclaw. It's Goris.}
 {223}{}{Egy humanoid alakot látsz. Hosszú ujjú, csuklyás köpenyt visel. Goris az.}
+{1000}{}{Igen, }
+{1001}{}{Te gyógyítani magad!}
+{1002}{}{Te várni itt! Én jönni vissza.}
+{1003}{}{Most nem fegyver. Oké?}
+{1008}{}{Te lenni Halá'karom? Miért nem mondani?}
+{1009}{}{Én kész.}
+{1010}{}{Most már meg kellene gyógyítanod magad.}
+{1011}{}{Kérlek, várj itt, amíg vissza nem jövök!}
+{1012}{}{Ne legyen kéznél fegyvered, oké?}
+{1016}{}{Gyerünk!}
+{1017}{}{You're a Deathclaw? Is there a reason you didn't mention this to me before?}
+{1018}{}{Mára ennyi.}
+{1019}{}{Egészséges vagyok, és készen állok az indulásra.}
+{1020}{}{Már majdnem teljesen egészséges vagyok, }
+{1021}{}{Nagyjából egészséges vagyok, de azért ha van rá lehetõség, jól jönne egy kis ápolás, }
+{1022}{}{Amennyire tudtam, meggyógyítottam magam, de még mindig nagyon pocsék állapotban vagyok, }
+{1041}{}{Itt fogok várni rád, amíg vissza nem térsz,}
+{1060}{}{Mindent megteszek, hogy meghúzzam magam,}
 {1064}{}{Te maradni közel.}
 {1065}{}{Te nem menni messzire.}
 {1066}{}{Te lenni túl közel. Szóródni széjjel.}
 {1073}{}{Maradj a közelemben!}
 {1074}{}{Ne menj túl messzire!}
 {1075}{}{Kicsit szét kellene szóródnunk.}
-{1001}{}{Te gyógyítani magad!}
-{1002}{}{Te várni itt! Én jönni vissza.}
-{1003}{}{Most nem fegyver. Oké?}
-{1167}{}{Én gondolni te mozogni másképp.}
-{1167}{}{Én gondolni te mozogni másképp.}
-{1008}{}{Te lenni Halá'karom? Miért nem mondani?}
-{1009}{}{Én kész.}
-{1010}{}{Most már meg kellene gyógyítanod magad.}
-{1011}{}{Várj meg itt, amíg visszajövök!}
-{1012}{}{Ne legyen kéznél fegyvered, oké?}
-{1166}{}{Változtassunk a követési távolságon!}
-{1016}{}{Gyerünk!}
-{1017}{}{Te is Halálkarom vagy? Esetleg van valami oka, hogy ezt nem említetted nekem?}
-{1018}{}{Ennyi.}
-{1000}{}{Igen, }
-{1156}{}{?}
-{1019}{}{Egészséges vagyok, és készen állok az indulásra.}
-{1020}{}{Már majdnem teljesen egészséges vagyok, }
-{1021}{}{Nagyjából egészséges vagyok, de azért ha van rá lehetõség, jól jönne egy kis ápolás, }
-{1022}{}{Amennyire tudtam, meggyógyítottam magam, de még mindig nagyon pocsék állapotban vagyok, }
-{1157}{}{.}
-{1041}{}{Itt fogok várni rád, amíg vissza nem térsz,}
-{1060}{}{Mindent megteszek, hogy meghúzzam magam,}
+{1078}{}{Mára ennyi.}
 {1079}{}{Olyan közel maradok, amennyire csak tudok,}
-{1078}{}{Ennyi.}
 {1098}{}{Kicsit odébbmegyek, hogy legyen helyed lélegezni,}
 {1117}{}{Kicsit hátrébb maradok, hogy legyen egy kis helyed,}
 {1136}{}{Sajnálom, }
+{1137}{}{Sokat tanultam az utazásaink során. Szívesen veled tartok, }
+{1156}{}{?}
+{1157}{}{. }
 {1158}{}{ , de túl sok társad van. Itt várok, amíg felszabadul egy hely.}
 {1159}{}{Azt hiszem, egyedül jobban tudnám csinálni.}
 {1160}{}{Te olyan lenni, akit én nem akar magam mellett tudni. Én távozni.}
-{1137}{}{Sokat tanultam az utazásaink során. Szívesen veled tartok, }
 {1161}{}{Szeretném megbosszulni a fajtársaimat.}
 {1162}{}{Rendben. Húzzunk bele!}
 {1163}{}{Ezt talán egyedül kellene csinálnod.}
 {1164}{}{Neked lenni igazad, mi öl.}
 {1165}{}{Te menni egyedül!}
+{1166}{}{Változtassunk a követési távolságon!}
+{1167}{}{Én gondolni te mozogni másképp.}
+{2000}{}{I think I broke a limb. Medical assistance is required.}
+{2001}{}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
+{2002}{}{I believe I have been poisoned. Do you have anything to aid me?}

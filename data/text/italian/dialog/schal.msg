@@ -5,7 +5,7 @@
 {104}{}{}
 {105}{}{Si'.}
 {106}{}{No.}
-{107}{}{Tenete gli occhi aperti.}
+{107}{}{Occhi aperti.}
 {108}{}{Uomini! State uniti!}
 {109}{}{Forza, ragazzi!}
 {110}{}{Perfetto. Muoviamoci! Dirigeteli verso Redding, ragazzi!}
@@ -16,8 +16,4 @@
 {115}{}{Beh, abbiamo avuto un po' di sfortuna ma ce l'abbiamo fatta. Eccoti i 2000$ pattuiti.}
 {116}{}{Per tutti i vitelli da latte! Hai fatto davvero un ottimo lavoro! Eccoti i tuoi 2000$ e anche 1000$ di bonus. Redding fara' bene a stare in guardia, stanotte!}
 {117}{}{Adesso puoi andare. E' stato bello viaggiare con te.}
-
-#added by killap
 {118}{}{Sei la peggior guardia che abbia mai visto in vita mia. Sparisci!}
-
-

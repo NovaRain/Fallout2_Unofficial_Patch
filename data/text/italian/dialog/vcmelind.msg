@@ -4,7 +4,7 @@
 {103}{}{Si'? Cos'altro posso fare per te?}
 {104}{}{Quest'area recintata e' la citta'?}
 {105}{}{Sto cercando il Vault.}
-{106}{}{Chi e' lei?}
+{106}{}{Chi sei?}
 {107}{}{No, grazie. Addio.}
 {108}{}{Questa Valt Cittiii?}
 {109}{}{No, no... non lasciarti ingannare dall'ambiente circostante. Attualmente sei nel Cortile. La vera citta' si trova poco piu' a nord.}
@@ -20,7 +20,7 @@
 {119}{}{Si direbbe un lavoro non facile.}
 {120}{}{Posso chiederle qualcos'altro?}
 {121}{}{Grazie dell'aiuto.}
-{122}{}{Il Cortile e' una zona dove noi proteggiamo gli Esterni piu' sfortunati. Molti vivono sotto la nostra protezione e ci aiutano a rendere Vault City piu' bella. La Citta' Interna e' il luogo dove risiedono i Cittadini.} ###???and add to the splendor of Vault City
+{122}{}{Il Cortile e' una zona dove noi proteggiamo gli Esterni piu' sfortunati. Molti vivono sotto la nostra protezione e ci aiutano a rendere Vault City piu' bella. La Citta' Interna e' il luogo dove risiedono i Cittadini.}
 {123}{}{Perche' solamente i Cittadini vivono nella Citta' Interna?}
 {124}{}{Posso chiederle qualcos'altro?}
 {125}{}{Grazie dell'aiuto.}
@@ -41,3 +41,5 @@
 {140}{}{Non sembri in grado di capire quello che facciamo qui.}
 {141}{}{Ha ragione. Non lo capisco perche' non ha alcun *senso*.}
 {142}{}{Ero solo curioso. Grazie dell'aiuto.}
+{143}{}{I am very busy at the moment. Speak to the Sub-Greeting Officer if you
+ require assistance.}

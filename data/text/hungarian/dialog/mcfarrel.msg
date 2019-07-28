@@ -1,6 +1,5 @@
-# Dialog Editor last position: 68
-{100}{}{Az úriember igen idõs. Egy asztalt szilva frissebbnek tûnne nála.}
-{101}{}{Farrel.}
+{100}{}{You see an old man. He makes a prune look fresh.}
+{101}{}{You see Farrel.}
 {102}{}{Minden egyes mozdulatát követõen száraz gallyak roppanó hangját hallod.}
 {150}{}{Hé, tûnjön onnan!}
 {151}{}{Hagyja abba!}
@@ -9,7 +8,7 @@
 {154}{}{Cornelius azt állítja, hogy maga lopta el az óráját.}
 {155}{}{Honnan szedte a pénzt az új szerszámokra?}
 {156}{}{Mit tart érdemesnek elmondani Modocról?}
-{157}{}{Mivel foglalkozik itt?}
+{157}{}{Mit csinál itt, jóember?}
 {158}{}{Órát? Mirõl beszél?}
 {159}{}{Igen?}
 {162}{}{Mit rejteget a faliszéfben?}
@@ -24,7 +23,7 @@
 {173}{}{Miria mondta ezt magának? Majd jól elfenekelem, ha megint pletykálkodik! ha megint pletykálok! Nézze, lehet, hogy szegény ember vagyok, de van arcom. Segítettem az egyik kereskedõnek megszerelni a kocsiját, ezért cserébe pedig adott néhány szerszámot.}
 {174}{}{Vallja be, hogy bûnös!}
 {175}{}{Milyen bizonyítéka van, hogy igaz, amit mond?}
-{176}{}{Ezt el kéne hinnem?}
+{176}{}{Ezt most el kellene hinnem?}
 {177}{}{A becsületem az igazi bizonyíték, hogy igazat beszélek. Többet nem mondhatok.}
 {178}{}{Ha nem maga tette el, akkor ki lehetett?}
 {179}{}{Azt gyanítom, hogy egy tolvaj jár a városban, és elvitte az órát. Aztán meglépett. El nem tudom képzelni, milyen okból kifolyólag kellhetnek neki az én ócska szerszámaim.}
@@ -44,7 +43,7 @@
 {195}{}{Már megbocsásson, de akkor nincs segítség.}
 {196}{}{Ez csodálatos lenne. Nem tudom eléggé megköszönni. A kertem nem messze van ide keletre. Jöjjön velem, megmutatom!}
 {197}{}{Köszönöm! Maga aztán a hõsök hõse! Nem sokan kockáztatnák az életüket egy vadidegen emberért. Köszönöm! Köszönöm! Köszönöm... [boldog melegség önt el egészen a lábujjad hegyéig]}
-{198}{}{Feltehetek még néhány kérdést?}
+{198}{}{Feltehetek további kérdéseket?}
 {199}{}{Inkább éhezem, de nem szennyezem be a jóhíremet! Eridjen a pokolba!}
 {200}{}{Cornelius mindig is a barátom volt, sosem venném el az óráját. Én magam is tûvé tettem érte az egész várost, hogy újra barátok lehessünk, de sajnos nem jártam szerencsével.}
 {201}{}{Itt leszek még egy darabig. Ha rálelek, szólok.}

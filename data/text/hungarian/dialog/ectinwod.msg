@@ -1,4 +1,3 @@
-# Dialog Editor last position: 7
 {100}{}{Egy férfit látsz, valamiféle páncélzatban.}
 {101}{}{Egy férfit látsz, valamiféle páncélzatban.}
 {102}{}{A páncélzata meglehetõsen rozsdásnak tûnik.}

@@ -1,7 +1,5 @@
 {100}{}{Egy kisfiú.}
 {101}{}{Egy kislány.}
-
-
 {200}{}{Ott vagyunk már?}
 {201}{}{Fáradt vagyok.}
 {202}{}{Nem akarsz vinni engem?}

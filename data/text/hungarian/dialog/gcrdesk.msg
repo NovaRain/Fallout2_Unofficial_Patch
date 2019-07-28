@@ -1,6 +1,5 @@
-# Dialog Editor last position: 1
-{100}{}{Az illetõ bõre tisztességesen megégett. Úgy tûnik, õrségben áll itt.}
-{101}{}{Ez a ghoul õrként lett ideállítva.}
+{100}{}{Az illetõnek rendesen megégett a bõre. Úgy tûnik, õrszolgálatot lát itt el.}
+{101}{}{Ezt a ghoult szemlátomást õrnek osztották be ide.}
 {102}{}{Ennek a ghoulnak nagyon megégett a bõre a sugárzás miatt. Ekkora dózistól többnyire meghalna bárki, de õ még egész jól elvan. Mintha õrségben állna itt.}
 {110}{}{Üdvözlünk az atomreaktorban. Figyelmeztetni szeretnélek: ha bármi elromlik, amíg itt vagy, téged veszünk elõ, simabõrû.}
 {111}{}{Üdv, barátom. Figyelmeztetnem kell téged, hogy ha bármi elromlana, nem a ghoulokat, hanem a hozzád hasonlókat fogjuk hibáztatni.}
@@ -19,27 +18,27 @@
 {134}{}{A reaktormaghoz.}
 {135}{}{Hát asszem, én magam is eligazodok itt. Viszlát!}
 {140}{}{Úgy tudom, Jeremynél van egy beléptetõkártya. A biztonsági ajtóknál álló õröknél is van, és egy csomó másik itt dolgozónál szintén.}
-{141}{}{Érdekes. Hadd kérdezzek valami mást!}
-{142}{}{Kösz. Most már mindent tudok. Viszlát!}
+{141}{}{Érdekes! Még kérdezek valami mást is.}
+{142}{}{Kösz. Csak ennyit szerettem volna tudni. Viszlát!}
 {150}{}{A reaktormag az irányítóterem és Festus szobája után található. Ha be akarsz jutni oda, szükséged lesz egy piros beléptetõkártyára.}
 {151}{}{Hol van a reaktor irányító szoba?}
-{152}{}{Érdekes. Hadd kérdezzek valami mást!}
+{152}{}{Érdekes! Még kérdezek valami mást is.}
 {153}{}{Beléptetõkártya kell? Honnan szerezzek olyat?}
-{154}{}{Kösz. Ennyi bõven elég egyelõre. Viszlát!}
+{154}{}{Kösz. Csak ennyit szerettem volna tudni. Viszlát!}
 {160}{}{A raktár a fõbejárattól balra található. Ha bármit is akarsz onnan, elõtte beszélned kell Jeremyvel.}
 {161}{}{Kösz. Az a helyzet, hogy eligazítást szeretnék, de máshova.}
-{162}{}{Kösz, Csak ennyit akartam tudni. Viszlát!}
+{162}{}{Kösz. Csak ennyit szerettem volna tudni. Viszlát!}
 {170}{}{Hát a szivárgó sugárzást mindannyian nagyon szeretjük itt. A Fénylõk különösképpen, viszont egyikünk sem érezné valami jól magát nélküle.}
-{171}{}{Érdekes. Hadd kérdezzek akkor valami mást!}
+{171}{}{Érdekes! Még kérdezek valami mást is.}
 {172}{}{Szivárgó sugárzást mondtál?!?!}
 {173}{}{Aha, világos. Csak ennyit akartam tudni. Viszlát!}
 {180}{}{A reaktor irányítóterme a fõbejárattól jobbra található. Menj el a folyosó végéig, át a biztonsági ajtón, aztán jobbra. A biztonsági ajtóhoz egy beléptetõkártyára lesz szükséged.}
-{181}{}{Érdekes. Hadd kérdezzek valami mást!}
+{181}{}{Érdekes! Még kérdezek valami mást is.}
 {182}{}{Beléptetõkártya kell? Honnan szerezzek olyat?}
-{183}{}{Kösz. Csak ennyit akartam tudni. Viszlát!}
+{183}{}{Kösz. Csak ennyit szerettem volna tudni. Viszlát!}
 {190}{}{Nem tudom, mi dolgod van neked ott. Az a francos karbantartó robot már évek óta nem mûködik, de a reaktor irányító szoba után megtalálod.}
 {191}{}{Hol van a reaktor irányító szoba?}
-{192}{}{Érdekes. Hadd kérdezzek valami mást!}
+{192}{}{Érdekes! Még kérdezek valami mást is.}
 {193}{}{Beléptetõkártya kell? Honnan szerezzek olyat?}
 {194}{}{Kösz. Csak ennyit szerettem volna tudni. Viszlát!}
 {200}{}{Igazából nem nagyon aggódok, hacsak nem akarsz néhány hétnél tovább maradni. A reaktorból szivárgó sugárzás beszennyezi a hûtõvizet, az meg egyenesen megy a talajba. Egyébként az a kis szivárgás nagyon jót tesz nekünk.}

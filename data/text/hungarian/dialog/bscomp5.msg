@@ -1,8 +1,6 @@
-# Dialog Editor last position: 1
 {100}{}{Egy számítógép-terminált látsz.}
 {101}{}{Az energiaközpont számítógép-terminálját látod.}
-{102}{}{Egy szabványos számítógép terminált látsz. Úgy tûnik, mûködõképes, és adatokat vár.}
+{102}{}{Egy szabványos számítógép-terminált látsz. Úgy tûnik, mûködõképes, és adatokat vár.}
 {103}{}{Ez a terminál a generátort felügyeli. A jelzések szerint minden normálisan mûködik.}
 {104}{}{Ez a terminál a generátort felügyeli. A jelzések szerint az egység üzemen kívül van valamilyen meghibásodás miatt.}
-{105}{}{Rendben.}
-
+{105}{}{Megbeszéltük.}

@@ -7,5 +7,4 @@
 {106}{}{Solo un pochino di piu'.}
 {107}{}{Sembra impossibile da riparare.}
 {108}{}{Le luci si accendono lentamente non appena il generatore ritorna scoppiettando alla vita.}
-
 {200}{}{Sei riuscito a riparare il generatore.}

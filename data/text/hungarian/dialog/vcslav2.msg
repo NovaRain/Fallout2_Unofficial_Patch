@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy férfit látsz munkaruhában. Tekintetét mereven a földre szegezi.}
 {101}{}{Egy menedékvárosi szolgát látsz.}
 {102}{}{Egy férfit látsz munkaruhában. Tekintetét mereven a földre szegezi.}

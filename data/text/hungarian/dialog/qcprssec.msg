@@ -1,4 +1,3 @@
-# Dialog Editor last position: 18
 {100}{}{Egy kicsit telt, szõke titkárnõt látsz. Tuti feszülõs ruhát visel.}
 {101}{}{Az Elnök *személyi* titkárnõje.}
 {102}{}{Egy telt, nem annyira vonzó  buksz... úgy értem, titkárnõt látsz. Kicsit zilált a haja.}

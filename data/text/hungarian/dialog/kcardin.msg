@@ -1,4 +1,3 @@
-# Dialog Editor last position: 135
 {100}{}{Egy izmos, idõsebb nõt látsz, aki megviselten mosolyog.}
 {101}{}{Ardin Bucknert látod, a Buckner ház tulajdonosát.}
 {102}{}{Egy nagyon fitt és vidám nõt látsz, aki a korai ötvenes éveiben jár.}
@@ -26,7 +25,7 @@
 {174}{}{Ki szeretnék venni egy szobát.}
 {175}{}{Kivennénk egy szobát.}
 {176}{}{Vennék valamit.}
-{177}{}{Most nincs szükségem semmire. Viszlát!}
+{177}{}{Nincs már semmi másra szükségem ebben a pillanatban. A viszontlátásra!}
 {180}{}{Nos, Smiley és én kezdtünk egyenesbe jönni. Már azt gondoltam, hogy sikerült meggyõznöm arról, hogy itt telepedjen le és segítsen vezetni ezt az üzletet. De azt mondta, hogy van még egy utolsó küldetése.}
 {181}{}{Küldetése?}
 {190}{}{Én csak a szobákkal foglalkozom. Ha venni, vagy cserélni akarsz, beszélj Maidával, a lányommal!}
@@ -44,7 +43,8 @@
 {221}{}{Torr barát.}
 {222}{}{Örülök, hogy segíthettem.}
 {223}{}{Nem említett valamiféle jutalmat?}
-{230}{}{Hát, köszönöm. Azt hiszem, szükséged lenne egy kicsit okosabb egyénre, hogy vigyázzon rád - egy utazó társra. Beszélek Maidával Sulik elengedésérõl.}
+{230}{}{Well, thank you. I think you might need someone with a few more smarts to help look after you -
+ a traveling companion. I'll talk to Maida about freeing up Sulik.}
 {231}{}{Hát, nem is tudom, mivel tudnánk neked megköszönni.}
 {232}{}{Torr barát }
 {233}{}{Nincs szükség hálára. Segítség kellett és én ott voltam.}
@@ -90,12 +90,13 @@
 {340}{}{Hát, nem tudom, pontosan mit is mondott, de nagyon izgatottnak látszott. Nem kellett volna elengednem. Két héttel ezelõttre jelezte az érkezését és már aggódom kissé.}
 {341}{}{Szívesen segítenék. Megkereshetem a kedvéért.}
 {342}{}{Sajnálattal hallom. Kérdeznék inkább valami mást.}
-{343}{}{Nagy kár, Mrs. Buckner. Talán csak elmenekült innen. Most már azt is tudom, miért. Viszlát!}
+{343}{}{That's too bad, Mrs. Buckner. Maybe he just ran out on you. I think I know why he would, too.
+ Goodbye.}
 {350}{}{Ó, köszönöm. Hadd jelöljem be a térképeden a helyet, amirõl beszélt. Nagyon remélem, hogy megtalálod. Nem egy világsztár, de még mindig szeretem, és jobban hiányzik, mint valaha is gondoltam, hogy fog. Kérlek, találd meg õt nekem.}
 {351}{}{Megteszem, amit csak tudok. Elõbb viszont kérdeznék még valamit.}
-{352}{}{Minden erõmmel keresni fogom, Mrs. Buckner. Viszlát!}
+{352}{}{I'll do my best, Mrs. Buckner. Goodbye.}
 {353}{}{Azt hiszem, mégsem tudok magának segíteni. Viszlát}
-{360}{}{Megtaláltad már Smileyt?}
+{360}{}{Megtaláltad már az én Smileymat?}
 {361}{}{Sajnálom, Mrs. Buckner. Még mindig keresem. Lenne még pár kérdésem viszont.}
 {362}{}{Nem, még csak most fogom elkezdeni a keresését. Viszlát}
 {370}{}{Biztos valami borzalmas dolog történt a fiammal, Torr-ral. Számítottam rád (zokog), hogy még idõben megtalálod. Az a szegény, együgyû fiú. El sem hiszem, hogy rád számítottam.}
@@ -108,18 +109,15 @@
 {380}{}{Hát, ez egyáltalán nem lep meg. Te jó ég, kiabáltam szegény fiammal, amikor nem is az õ hibája volt. (zokog) Elkapom azokat a Duntonokat. Most túl messzire mentek.}
 {381}{}{Sajnálom. Maga szerint hova mehetett Torr?}
 {390}{}{Oké.}
-{400}{}{Megtaláltad már Smileyt?}
-{401}{}{Kit? Ó, öö, nem. Nem tudom, hova mehetett. Ööö, lenne néhány kérdésem.}
-{402}{}{Meghalt. A gekkók elkapták és megették.}
-{403}{}{Én, öö, láttam õt. Azt mondta, hogy inkább lelép egy másik nõvel. Húha! Már ennyi az idõ? Nekem mennem kell.}
+{400}{}{What? My Smiley is...}
+{401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
+{402}{}{Yes, he's dead. He was eaten by geckos.}
+{403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Öö, én, öö, mi, azaz... Öö, nem. Még mindig keresem. Pár nap múlva biztos felbukkan. Öö, viszlát!}
 {410}{}{Megették a gekkók? Nem hiszek neked. A gekkók soha nem tudnák elkapni az én Smileymat, ahhoz õ túl jó. Biztosan tévedsz.}
 {411}{}{Igaz, biztosan igaza van. Bocsánat az ijesztgetésért. Hadd kérdezzek valamit!}
 {412}{}{Nem, én láttam, vagy legalábbis, ami megmaradt belõle. Nem volt valami szép látvány. Hát, késõbb találkozunk. Viszlát!}
 {413}{}{Hát, megfogott. He-he, csak vicceltem. Igen, csak vicc volt. Na, akkor... viszlát!}
-{420}{}{Azt hittem, megint a szokásos tréfáikkal jönnek! Szegény kicsi Torr. Megyek és elintézem azt a két szájhõst. Nem fognak még egyszer ilyet csinálni. Köszönöm.}
-{421}{}{Örülök, hogy segíthettem. Lenne pár kérdésem.}
-{422}{}{Azok a Duntonok mindig feldühítenek. Örülök, hogy elbánik velük. Viszlát!}
 {500}{}{Azt hiszem, a Duntonok lopják a brahminjaikat. Gondoltam nem árt, ha tudja.}
 {510}{}{Nem láttál a városon kívül egy prémvadászt, akit Smileynak hívnak? (félig magának) Túl régóta ment el. Nem kellett volna elengednem arra a hülye küldetésére.}
 {520}{}{Nagyon segítõkész volt. Köszönöm.}

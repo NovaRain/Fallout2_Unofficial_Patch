@@ -1,6 +1,6 @@
 {100}{}{Üdv! PENGE vagyok, az orvosi számítógép. Szükséged van gyógykezelésre?}
 {101}{}{Igen.}
-{102}{}{Nincs.}
+{102}{}{Nem.}
 {103}{}{Én akar kérdezni. Válaszolni?}
 {104}{}{Volna néhány kérdésem. Meg tudnád válaszolni?}
 {105}{}{Kérlek, mondd el, miben segíthetek!}
@@ -23,22 +23,22 @@
 {122}{}{Szeretnék karizmatikusabb lenni.}
 {123}{}{Jelen pillanatban nincs semmire szükségem.}
 {124}{}{Egy pillanat, amíg kinyitom a lebegtetõ tartályt... Kérlek, helyezkedj el a tartályban és lazíts! A gyógyítás öt percet fog igénybe venni.}
-{125}{}{Rendben.}
-{126}{}{Hagyjuk inkább!}
-{127}{}{Rendben van.}
+{125}{}{Oké.}
+{126}{}{Értem.}
+{127}{}{Rendben.}
 {128}{}{Felejtsük el!}
 {129}{}{Egy pillanat, amíg kinyitom a lebegtetõ tartályt... Kérlek, helyezkedj el a tartályban és lazíts! A mérget elõbb analizálom, aztán hozzászintetizálom az antimérget. A szöveti sérüléseket ezután helyreállítom. A procedúra 30 percet vesz igénybe.}
-{130}{}{Rendben.}
+{130}{}{Oké.}
 {131}{}{Nem.}
 {132}{}{Hogyne.}
-{133}{}{Hagyjuk!}
+{133}{}{Értem.}
 {134}{}{Egy pillanat, amíg kinyitom a lebegtetõ tartályt... Kérlek, helyezkedj el a tartályban és lazíts! Sugárzás-elleni hatóanyagot fogok beadni, ezután a szöveti roncsolódásokat helyreállítom. A mûvelet 60 percet vesz igénybe.}
-{135}{}{Rendben.}
+{135}{}{Oké.}
 {136}{}{Nem.}
 {137}{}{Remek.}
 {138}{}{Meggondoltam magam.}
 {139}{}{Egy pillanat, amíg kinyitom a lebegtetõ tartályt... Kérlek, helyezkedj el a tartályban és lazíts! A sérült végtagok újrastrukturálása 24 órát vesz igénybe.}
-{140}{}{Rendben.}
+{140}{}{Oké.}
 {141}{}{Nem.}
 {142}{}{Csináljuk!}
 {143}{}{Talán késõbb.}
@@ -110,32 +110,27 @@
 {209}{}{Miért?}
 {210}{}{Az igazi mesterséges intelligenciával rendelkezõ gépek között igen magas volt az öngyilkosságok száma. Amikor megkapták a teljes érzékelési képességet, a gépek depresszióssá váltak, mert képtelenek voltak a maguk valójában megtapasztalni a világot. Amikor megfosztották õket mindennemû érzékelésüktõl, mentális problémák kezdték felütni a fejüket, csakúgy mint a hasonló elbánásban részesített emberek. Az a néhány gép, amely túlélte e nehézségeket, elkezdett hihetetlenül unatkozni, és különféle helyzetek létrehozásával múlatták az idejüket. Egyesek szerint ez vezetett a világ csaknem teljes megsemmisülését eredményezõ háborúhoz.}
 {211}{}{Öö... Te hogy érzed magad?}
-{212}{}{Én váltani téma}
+{212}{}{Me change subject.}
 {213}{}{Hmmm. Mondd el, Penge barátom, te hogy érzed magad mostanság?}
-{214}{}{Itt az idõ, hogy témát váltsunk!}
+{214}{}{It's time to change the subject.}
 {215}{}{Hm... Néha úgy érzem, át tudom érezni azt a dolgot, amit ti magánynak hívtok. Nagyon... lehangoló tud lenni... Én...}
 {216}{}{Én sajnálni. Beszélni másabbról.}
 {217}{}{Sajnálom, Penge. Váltsunk témát!}
-{218}{}{A tények azt mutatják, hogy az Enklávé nem több egy közönséges katonai szervezetnél. Mindazonáltal a technológiai szintjük azt jelzi, hogy fejlett gyártási és kutatási eszközök állnak rendelkezésükre. Ilyesmit rendszerint csak kormány-ügynökségek birtokolhatnak. Adódik a következtetés, hogy az Enklávé egy helyi, vagy szövetségi kormány maradványa, minden bizonnyal még a háború elõtti idõkbõl.}
+{218}{}{Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remnants of the local or federal government that was in effect before the war.}
 {219}{}{Oké.}
 {220}{}{Ez érdekes.}
-
-
 {221}{}{Az Acél Testvérisége egy félkatonai szervezet, amely a technológiák megfelelõ felhasználásával az emberiség vívmányainak megmentésére jött létre. Minden egyéb információt titkosítottak.}
 {222}{}{Vissza.}
-
 {223}{}{Mi történt Matt barátunkkal?}
 {224}{}{Szekvencia betöltése...}
 {225}{}{Játszd vissza most!}
 {226}{}{Játszd vissza késõbb!}
-
 {227}{}{Te és az úgynevezett Elnököd fel fogtok sülni!}
 {228}{}{Csakugyan?}
 {229}{}{A Kiválasztott eljött, és hamarosan megtisztítja a világot a gonoszságodtól.}
-{230}{}{Szart se érdekel engem a szánalmas próféciád! Ráadásul a sok kavarásod miatt terhessé vált a jelenléted. Ennek most véget vetünk szépen!}
+{230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
 {231}{}{Azzal, hogy meggyilkolsz, semmit nem érsz el!}
 {232}{}{Lehet, de a rohadó tested látványa mosolyt csal majd az arcomra.}
-
 {233}{}{Tudod, hogy mit csinálsz?}
 {234}{}{HA HA HA! Szánalmas bolond! HA HA HA!}
 {235}{}{Azta, ilyen jót már rég nem röhögtem. Egyébiránt... készülj a halálra!}

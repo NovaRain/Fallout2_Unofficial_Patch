@@ -9,13 +9,13 @@
 {108}{}{Taccagno bastardo! La pagherai per questo. Addio.}
 {109}{}{Beh, a volte si e' piu' fortunati di altre. Questa volta sono stato sfortunato. Addio.}
 {110}{}{Non abbiamo perso proprio tutta la carovana, ma abbiamo perso piu' di quanto potessimo permetterci. Se tu avessi fatto bene il tuo lavoro, prenderesti qualcosa in piu' di questi 50$.}
-{111}{}{Beh, poco e' meglio di niente, immagino. Addio.}
+{111}{}{Beh, meno e' sempre meglio di niente, credo. Addio.}
 {112}{}{Pidocchioso bastardo! Nessuno avrebbe potuto fare un lavoro migliore. Ti pentirai di avermi trattato cosi'. Addio.}
 {113}{}{Davvero niente male. Ecco i tuoi 100$. Ci vorra' un po' prima di trovare un nuovo capo carovaniere, per cui non so quando organizzeremo un altro viaggio.}
 {114}{}{Non credo di voler mai piu' passare cosi' tanto tempo a guardare il porta-coda di un brahmin. Addio.}
-{115}{}{Davvero un lavoro niente male. Ci si vede. Arrivederci.}
+{115}{}{Davvero un lavoro niente male. Ci si vede.}
 {116}{}{E' stato un buon viaggio. Forse non sarebbe andata cosi' se tu non ci fossi stato. Ecco i tuoi 100$ piu' un bonus di 50$ per l'ottimo lavoro svolto. Grazie ancora. Se solo Ben fosse vivo per vederlo.}
-{117}{}{E' bello trovare qualcuno che apprezza la qualita' quando la vede. Ci si vede, forse. Arrivederci.}
+{117}{}{E' bello trovare qualcuno che apprezza la qualita' quando la vede. Ci si vede, forse.}
 {118}{}{Fa sempre piacere ricevere del denaro in piu'. Grazie e arrivederci.}
 {119}{}{Non posso credere che Ben si sia portato dietro un idiota come te. Beh, suppongo si trattasse del suo ultimo atto di carita'. Sei stato fortunato a sopravvivere. Addio.}
 {120}{}{Ook?}

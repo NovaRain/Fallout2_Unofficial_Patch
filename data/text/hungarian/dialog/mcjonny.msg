@@ -1,10 +1,9 @@
-# Dialog Editor last position: 1
-{100}{}{Kisfiú.}
-{101}{}{Jonny.}
+{100}{}{You see a small boy.}
+{101}{}{You see Jonny.}
 {102}{}{Szõke haj, kék szem, õ a tipikus amerikai kinézetû srác.}
 {150}{}{Vhááá!}
 {151}{}{Vissza akarom kapni a kutyámat!}
-{152}{}{Nyafog...}
+{152}{}{Whimper... }
 {153}{}{Idegen!}
 {154}{}{Öcsi! Hogy hiányoztál! Köszönöm, hogy visszahoztad a kutyámat.}
 {155}{}{Helló, korábban nem láttalak errefelé.}
@@ -22,18 +21,19 @@
 {173}{}{Rose azt mondta, hogy a kutyád keresésére indul.}
 {174}{}{Jonnynak hívnak. Hát téged?}
 {175}{}{A nevem }
-{176}{}{.}
+{176}{}{ vagyok.}
 {177}{}{A nevem nem fontos.}
 {178}{}{Jonnynak hívnak, de nem tetszel nekem.}
 {179}{}{[Rád mutat és sikítani kezd.] Idegen! Idegen! Idegen!}
 {180}{}{Nagyon örülök, hogy találkoztunk, }
-{181}{}{.}
+{181}{}{ vagyok.}
 {182}{}{Még találkozunk, gyerkõc...}
-{183}{}{Ez baromi jó! Haza akartam menni, de Vegeir szerint a népe nem tud a föld felett olyan messzire jutni velem... Nem mintha kételkednék, de mondd már meg az apám nevét!}
+{183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above
+ ground and wouldn't take me... Not that I doubt you, but what's my father's name?}
 {184}{}{Farrel.}
 {185}{}{Cornelius.}
 {186}{}{Balthas.}
-{187}{}{Davin.}
+{187}{}{Davint.}
 {188}{}{Joshua.}
 {189}{}{Nem bízol bennem Jonny?}
 {190}{}{Hmm... nem. Kösz, hogy visszahoztad a kutyámat, de most mennem kell. Szia.}

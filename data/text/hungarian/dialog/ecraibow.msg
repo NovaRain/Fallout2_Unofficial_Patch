@@ -1,4 +1,3 @@
-# Dialog Editor last position: 20
 {100}{}{Meleg büszkeség!}
 {101}{}{Le a heterókkal!}
 {102}{}{Nem szeretjük a kívülállókat!}

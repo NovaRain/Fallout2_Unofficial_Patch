@@ -11,7 +11,7 @@
 {110}{}{Ho sentito che hai avuto dei guai con alcune delle tue carovane. Tutti passano dei guai, talvolta - basta che la cosa non diventi un'abitudine.}
 {111}{}{Ho sentito che hai gia' lavorato al seguito di qualche carovana. Molto bene. C'e' sempre un posto libero per una guardia esperta.}
 {112}{}{Chi sei?}
-{113}{}{Ci sono delle carovane pronte a partire?}
+{113}{}{Ci sono delle carovane pronte a partire in questo momento?}
 {114}{}{Dove si dirigono solitamente le carovane che partono da Redding?}
 {115}{}{Hai sentito qualche novita', ultimamente?}
 {116}{}{Hai mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
@@ -42,12 +42,12 @@
 {141}{}{Che cosa puoi dirmi a proposito di New Reno?}
 {142}{}{Che cosa puoi dirmi a proposito di NCR?}
 {143}{}{Grazie. Lascia che ti chieda qualcos'altro.}
-{144}{}{E' tutto quello che mi serve sapere, per ora. Ci vediamo.}
+{144}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {145}{}{Quella si' che e' una citta'. Ma, mi raccomando: mantieni la tua mente lucida e la tua pistola pronta. Ci sono un sacco di scontri armati da quelle parti. Se mai le famiglie dovessero lavorare insieme, allora New Reno diventerebbe davvero un potenza da tenere in considerazione. Ma al momento...Pffft. Se vuoi andare la', unisciti alla carovana di Savinelli - parte da qui il 21 di ogni mese.}
 {146}{}{Che cosa puoi dirmi a proposito di Vault City?}
 {147}{}{Che cosa puoi dirmi a proposito di NCR?}
 {148}{}{Grazie. Lascia che ti chieda qualcos'altro.}
-{149}{}{E' tutto cio' che mi serve sapere, per adesso. Ci vediamo.}
+{149}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {150}{}{La New California Republic e' piena di stronzi ipocriti. Si sono organizzati dandosi delle regole basate sulla giustizia. Persino troppo. Sono la comunita' piu' ipocrita che si possa incontrare al mondo. Stanwell guida una carovana per NCR che parte da qui l'11 di ogni mese.}
 {151}{}{Che cosa puoi dirmi a proposito di Vault City?}
 {152}{}{Che cosa puoi dirmi a proposito di New Reno?}
@@ -61,7 +61,7 @@
 {160}{}{Non e' successo molto ultimamente. Solo il solito scavare, le carovane e robe cosi'.}
 {161}{}{Si', beh, quel pivello sono io. C'e' qualche problema?}
 {162}{}{Qualcuno dovra' pur mantenere l'ordine in questa pulciosa citta'. }
-{163}{}{Lascia che ti chieda qualcosa.}
+{163}{}{Lascia che ti chieda qualcosa. }
 {164}{}{Volevo solo controllare. Grazie lo stesso. Ci vediamo.}
 {165}{}{No, nessun problema. Lo sai che ti stai immischiando in affari politici, vero?}
 {166}{}{Che cosa vuoi dire?}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 15
 {100}{}{Na, még egy kicsit Rose-nak.}
 {101}{}{Francba! Ehhez nem lehet hozzászokni.}
 {102}{}{Imádom a munkámat.}

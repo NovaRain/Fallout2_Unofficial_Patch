@@ -7,14 +7,14 @@
 {106}{}{Allora... cos'e' che vendi?}
 {107}{}{Mi sembri piuttosto in gamba con le mani. Tu le mani ce le hai, vero?}
 {108}{}{Ho 5$. Hai qualche buona soffiata?}
-{109}{}{Ci vediamo.}
+{109}{}{Arrivederci.}
 {110}{}{Vedi quella laggiu'? E' la mia favorita - quella e' Edna. Do un nome a tutte le mie cose, sai - sono come dei figli, per me. Mi dispiace doverli vendere, ma devo mangiare.}
 {111}{}{Smettila di disturbare i miei bambini!}
 {112}{}{Certo, okay. Eccoti cinque verdoni. Hai qualche buona soffiata?}
 {113}{}{O-kay - sei proprio un tipo speciale! Credo che andro' a vendere la mia roba da qualche altra parte.}
 {114}{}{Fammi vedere un'altra volta la tua roba.}
 {115}{}{Credo che adesso io ed Edna ce ne andremo.}
-{116}{}{Beh, grazie al cielo quello straniero non ti ha portata via, figlia mia... La mia roba e' come una famiglia per me, sai?}
+{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
 {117}{}{Uhh - naturalmente.}
 {118}{}{Beh, credo che adesso me ne andro'.}
 {119}{}{Posso riparare ogni genere di roba. Ho qui un compressore, di nome Claudia, che si puo' installare in quasi tutte le automobili - garantisce un sacco di potenza in piu'. Costa solo 1000$. Ti interessa?}
@@ -34,7 +34,7 @@
 {133}{}{Sta bene. Ci vediamo dopo.}
 {134}{}{Senti, se riesci a racimolare i soldi, torna qui. Probabilmente ce l'avro' ancora.}
 {135}{}{D'accordo.}
-{136}{}{Ci vediamo.}
+{136}{}{Arrivederci.}
 {137}{}{Ecco fatto! Claudia e' stata installata.}
 {138}{}{Dammi ancora un po' di tempo. Ci sto ancora lavorando, maledizione.}
 {139}{}{Whoa! Non credo proprio di avere un cervello di riserva per te.}

@@ -1,12 +1,5 @@
-#
-#   Messages from trait.c
-#
-#   Tradotto da: Ragfox
-#
-#   TRAIT NAMES
-#
 {100}{}{Metabolismo Rapido}
-{101}{}{Colosso}
+{101}{}{Bruiser}
 {102}{}{Mingherlino}
 {103}{}{Destro o Mancino}
 {104}{}{Finezza}
@@ -18,12 +11,9 @@
 {110}{}{Pacifista}
 {111}{}{Tossicomane}
 {112}{}{Res. ai Farmaci}
-{113}{}{Sex Appeal}  # was: Night Person
+{113}{}{Sex Appeal}
 {114}{}{Abile}
 {115}{}{Dotato}
-#
-#   TRAIT DESCRIPTIONS
-#
 {200}{}{Il ritmo del tuo metabolismo e' doppio rispetto alla norma. Questo significa che sei meno resistente alle radiazioni e al veleno, ma il tuo corpo guarisce piu' in fretta.}
 {201}{}{Un po' piu' lento, ma un po' piu' grosso. Non colpirai molto spesso, ma vedrai che se ne accorgeranno, quando riuscirai a farlo! I tuoi Punti Azione totali sono diminuiti, ma la tua Forza e' aumentata.}
 {202}{}{Non sei robusto come gli altri abitanti del villaggio, ma questo non ti ha mai fermato. Non potrai portare grandi pesi, ma sei piu' agile.}

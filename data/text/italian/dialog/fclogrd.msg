@@ -1,8 +1,8 @@
-{100}{}{Vedi una guardia che indossa degli abiti trasandati; sul suo volto, un'espressione attenta, ma annoiata.}
+{100}{}{Vedi una guardia che indossa degli abiti trasandati; sul suo volto c'e' un'espressione attenta, ma annoiata.}
 {101}{}{Vedi una Guardia del Palazzo.}
 {102}{}{Vedi una Guardia del Palazzo.}
 {103}{}{Gira al largo e non ci saranno problemi.}
-{104}{}{Devi fare qualcosa da queste parti?}
+{104}{}{Hai qualcosa da fare qui?}
 {105}{}{Ti teniamo d'occhio.}
 {106}{}{Non provare a fare qualcosa di strano.}
 {107}{}{Tratta la nostra gente con rispetto.}
@@ -15,4 +15,4 @@
 {114}{}{Muori, nemico del popolo!}
 {115}{}{Ti spediro' nell'inferno dell'acciaio incandescente!}
 {116}{}{Possa il Budda avere pieta' della tua anima!}
-{117}{}{Soffri, nemico!}
+{117}{}{Soffri, mio nemico!}

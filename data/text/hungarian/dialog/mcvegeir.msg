@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Az Aljanép vezetõje.}
 {101}{}{Vegeir.}
 {102}{}{Magas, méltóságteljes ember áll elõtted. Mozgása egy cserkészõ macskáéra emlékeztet.}
@@ -16,7 +15,8 @@
 {161}{}{Elõször is volna néhány kérdésem.}
 {162}{}{A válasz még mindig "nem".}
 {163}{}{Igen-igen... Úgy döntöttem, mégis segítek nektek.}
-{165}{}{Köszönöm, hogy számíthattunk rád. Mindig is szívesen látott vendég leszel nálunk. A szolgálataidért fogadd ezt el. [Vegeir átnyújt egy gépkarabélyt.]}
+{165}{}{Thank you for helping us. You will always be welcome here. For your services, I offer this as a
+ reward. [Vegeir hands you an assault rifle.]}
 {166}{}{Köszönöm, hogy számíthattunk rád. Mindig is szívesen látott vendég leszel nálunk.}
 {167}{}{Megfelel nektek, ha Jonnyt hazaviszem a szüleinek?}
 {168}{}{A csörgõ láncok hangja és a nyögés általában elég, hogy bárkit elriasszunk innen, de mostanában azt a parancsot kapták, ha találnak egy felszínlakót, hozzák elém.}
@@ -25,9 +25,10 @@
 {171}{}{Szellemek?}
 {172}{}{Akkor mész, ha ÉN úgy döntök, hogy mehetsz. Addig nem.}
 {173}{}{Egyszerû kérésrõl van szó. Kapcsolatba kell lépnünk a dél-nyugat felé esõ várossal, úgy tudom, Modocnak hívják. Megtennéd nekünk ezt a szívességet?}
-{174}{}{Mire számíthatok, ha igen?}
+{174}{}{Na, és mi esik le nekem ebbõl?}
 {175}{}{Attól tartok, sok kérdésem lenne, mielõtt elvállalnám ezt a küldetést.}
-{176}{}{Semmi probléma. Nem várom el senkitõl, hogy mielõtt tájékozódna, vakon belemenjen idegenek kínálta megbízásokba. Kérdezz, és megpróbálok a lehetõ legjobb tudásom szerint válaszolni.}
+{176}{}{Fair enough. I wouldn't expect anyone to blindly accept tasks from strangers without first
+ learning a little bit about them. Ask your questions, and I will answer them as best I can.}
 {177}{}{Miért nem az egyik emberedet küldöd el az üzenettel?}
 {178}{}{Mesélj a népedrõl.}
 {179}{}{Milyen a védelmetek?}
@@ -37,7 +38,7 @@
 {191}{}{Mi az a nagy szellemparádé odafönn?}
 {192}{}{Mi az üzeneted célja?}
 {194}{}{A Lepecsételés óta megváltoztunk. Csak néhányan képesek a felszínen megmaradni, mivel nincsenek hozzászokva a felettük lebegõ nagy semmihez. A felfelé zuhanás érzés oly nagy, hogy a földre vetik magukat, és a földbe kapaszkodnak. Persze nem ez a fõ ok. Sajnos egyikünk sem bírja az erõs fényt, amit ti napnak neveztek. Miután hosszú évekig a föld alatt éltünk, a szemünk nagyon érzékeny lett a fényre. Földalatti lakóhelyünk biztonságát nem vagyunk képesek nagy távolságra elhagyni.}
-{195}{}{Kérdezhetek még?}
+{195}{}{Feltehetek még néhány kérdést?}
 {197}{}{Réges régen olyanok voltunk, mint a felszínlakók. Mi is ott laktunk, aztán a földgolyó lángba borult. Õseink, akik egy titkos milícia tagjai voltak, a saját védelmük érdekében leköltöztek a föld alá, és lepecsételték maguk után a lejáratot. Generációkon át itt maradtak az Anyaföld méhében.}
 {200}{}{A Lepecsételés óta lakosságunk rendületlenül fejlõdött, azonban hamar nyilvánvalóvá vált, hogy tartalékok híján nem maradhatunk életben sokáig. Ezért aztán a Pecsétet feltörtük és kimerészkedtünk a felszínre.}
 {203}{}{Na, ekkor merült fel a szellemek ötlete. Bekentük magunkat fluoreszkáló gombával, így sikerült azt az embert és más szaglászókat távol tartanunk. Sajnos ez egy kicsit túl jól sikerült. A közelmúltban megpróbáltunk kapcsolatot teremteni a felszíniekkel, de a szellemektõl való félelem miatt senki nem jön errefelé. Nagy szerencse, hogy erre vetõdtél.}
@@ -52,7 +53,8 @@
 {218}{}{Hmm... értem. Ezt a döntést nem lehet sietve meghozni. Légyszíves tudasd velünk, hogy állnak a döntésükkel.}
 {219}{}{Akkor ne zavarj, ha nem muszáj!}
 {220}{}{Mégis mivel kapcsolatban?}
-{221}{}{Nem bíznak bennetek! Végül is érthetõ, hisz megölitek az errevetõdõket és a testeket kiaggatjátok a mezõ szélén.}
+{221}{}{They don't trust you. After all, they think you kill passersby and stake the bodies out in front of your
+ farm.}
 {222}{}{Azt akarják tudni, mi történt azzal a gazdával, aki itt élt.}
 {223}{}{Békés emberek vagyunk, és senkit nem ölünk meg. Azok a testek bábuk, azért készítettük õket, hogy a tolvajokat távol tartsuk. Ha közelebbrõl megvizsgálod azokat a testeket, rájöhetsz, hogy azok csak brahminbéllel letakart próbababák.}
 {224}{}{És mi a helyzet szegény Karllal? Tudod, az a gazda, aki a fenti farmon élt...}
@@ -62,7 +64,7 @@
 {231}{}{Látom, találkoztál Jonnyval. Akkor találtunk rá, amikor a barlangunk mélyén kószált. Azt mondta, hogy a házuk melletti kiszáradt kútba esett bele, és ottragadt egy omlás miatt. Úgy bántunk vele, mintha közénk tartozna. Mindenki szereti õt. Gondolom, megérted, hogy nem szívesen bízok meg egy idegent, aki még nem bizonyította szavahihetõségét. Kiadom Jonnyt, amint biztos vagyok benne, hogy biztonságban hazaér.}
 {232}{}{Minden kétséget kizáróan bebizonyítottad szavahihetõségedet. Beletörõdve, hogy Jonny hiányozni fog mindannyiunknak, összeszedtünk egy kis kíséretet számotokra. Most azonnal induljatok Modocba!}
 {233}{}{Hát barátom... nem csoda, hogy nem dõltél be a trükkjeinknek. Ahhoz túl buta vagy. Nem szeretem, ha egy értelmileg korlátozott egyéntõl függök, de sajnos szükségünk van a segítségedre. Fogd ezt az üzenetet, és vidd el Modocba! Add oda a modoci "törzsfõnöknek" és próbálj ne elveszni útközben!}
-{300}{}{Asszem, itt az idõ, hogy a távozás mezejére lépjek.}
+{300}{}{Asszem, most megyek.}
 {301}{}{Mit akarsz velem?}
 {302}{}{Viszlát!}
 {303}{}{Szellemek?}

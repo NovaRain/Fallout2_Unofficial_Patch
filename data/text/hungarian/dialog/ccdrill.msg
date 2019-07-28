@@ -1,7 +1,6 @@
-# Dialog Editor last position: 73
-{100}{}{Egy õrt látsz.}
-{101}{}{Egy kapuõrt látsz.}
-{102}{}{Egy õr áll itt, rajta valami különös erõpáncél. Van egy jel a mellkasán, amit nem tudsz hova tenni.}
+{100}{}{You see a Drill Sergeant.}
+{101}{}{You see Sergeant Dornan.}
+{102}{}{You see a man wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
 {103}{sgnt1a}{Üdvözlöm a navarrói táborban... egy civil! Hogy a francba jutott be egy civil a bázisra?! Kicsinálok valakit... Tüntessétek el ezt a bohócot a bázis területérõl!}
 {104}{sgnt1b}{Üdvözlöm a navarrói táborban... civilek! Hogy a francba jutottak be civilek a bázisra?! Kicsinálok valakit... Tüntessétek el ezeket a bázis területérõl!}
 {105}{}{Várjon! Én...}
@@ -11,9 +10,9 @@
 {109}{}{Ühm... öhh... én...}
 {110}{}{Én }
 {111}{sgnt4}{Áh, remek! Egy barmot küldtek! Nagyon figyeljen! Õrt fog állni a hangárnál. Az lesz az õrhelye! Nem mozdul el onnan, amíg mást nem mondok! Most pedig mozgás!}
-{112}{}{Menni.}
+{112}{}{Én menni elfele.}
 {113}{sgnt5}{Mi volt ez? Nem felejtett el valamit, ökör?}
-{114}{}{Én nevem lenni }
+{114}{}{A nevem }
 {115}{sgnt6}{Nem vagyok az Ura!!! A felettese vagyok, hatökör!!! Mostantól õrmesternek hív, vagy Dornan õrmesternek! Megértette? }
 {116}{}{Igen, õrmester!}
 {117}{}{Persze, õrmi, hogyne...}
@@ -27,7 +26,7 @@
 {125}{}{Nem utalt nekem a bázis belõle. Azt mondták, majd itt kapok.}
 {126}{}{Öhm... nem utalt nekem a bázis belõle.}
 {127}{}{Nézd már, ennek a fazonnak itt van egy... Milyen szerencse, lehúzhatom a hullájáról!}
-{128}{sgnt10}{Nem-e? Azt várja, hogy ezt elhigyjem, maga tinó?! Az igazság az, hogy elvesztette a méregdrága kincstári páncélját! Magára fogjuk hátékázni, és addig rohad itt, amíg le nem telik az ötszáztíz szolgálati éve, és a zsoldjából le nem vonják a kettes verziójú erõpáncél árát! Jelentkezzen a fegyvertárban, aztán jöjjön vissza hozzám! Lelépni!}
+{128}{sgnt10}{Don't have any? You expect me to believe that, maggot? The truth is you lost an expensive piece of army-issue equipment. That suit is going to come out of your pay, and you will remain in this man's army until you are five hundred and ten years old, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! Dismissed!}
 {129}{}{Oké. Menni ruháér'.}
 {130}{}{Igen, õrmester!}
 {131}{sgnt11}{Azok az aktarágó seggfejek! Szerintük hogy tudnám vezetni ezt a bázist, ha állandóan csonkítják a készleteimet?! Húzzon le a fegyvertárba és kapjon magára egyet, aztán jöjjön vissza ide! Lelépni!}
@@ -49,13 +48,13 @@
 {147}{sgnt15a}{Katona, mit csinál itt? Takarodjon vissza az õrhelyére!}
 {148}{sgnt15b}{Ö-KÖR! Ha még egyszer meglátom, hogy nincs az õrhelyén, élete legszomorúbb napját fogja átélni!}
 {149}{sgnt15c}{Maga mindannyiunkra veszélyt jelent! Most ennek véget vetünk!}
-{150}{sgnt16}{Riadó van, és én nem ismerem fel, katona! Mutassa a papírjait!}
+{150}{sgnt16}{Riadó van, és nem ismerem fel. Mutassa a papírjait, katona!}
 {151}{}{Nem lenni velünk papírok!}
 {152}{}{Nem kelleni nekünk papírok!}
-{153}{}{Nincsenek nálam. A ládámban vannak.}
-{154}{}{Papírok? Ja, persze a papírok! Itt is vannak...}
+{153}{}{Nincsenek nálam. A körletemben tartom õket.}
+{154}{}{Papírok? Ja, persze a papírok! Itt vannak, ni...}
 {155}{sgnt17}{Rossz válasz! A katonáknak mindig maguknál kell hordaniuk õket! Ezt tudnod kellett volna!}
-{156}{}{Hoppá.}
+{156}{}{Ajjaj!}
 {157}{}{Legyen éber, katona!}
 {158}{}{Jól van, ébren van! Maradjon is így!}
 {159}{}{Látom, nincs jelenteni való. Maradjon az õrhelyén!}
@@ -69,6 +68,6 @@
 {167}{}{Kik ezek a marhák ilyenkor... Õrség!}
 {168}{}{Riadó! Kémek a bázison!}
 {169}{}{Hol a francba van az az ökör közlegény?}
-{200}{}{.}
+{200}{}{ vagyok.}
 {201}{}{, Uram!}
 {300}{}{Mondtam, hogy ne jöjjön vissza egyenruha nélkül!!!}

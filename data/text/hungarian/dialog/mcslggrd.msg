@@ -1,6 +1,5 @@
-# Dialog Editor last position: 10
 {100}{}{Valami õrnek látszik.}
-{101}{}{Egy hamisítatlan Védelmezõ.}
+{101}{}{You see a Protector.}
 {150}{}{A halovány bõr és a megnagyobbodott pupillák ellenére hétköznapi ember benyomását kelti.}
 {200}{}{Az úristenit!}
 {201}{}{Azt a mindenit, ez fájhatott...}
@@ -25,6 +24,6 @@
 {242}{}{[Mindet megölöd, és hagyod, hogy az istenük gondosan megválogassa, melyikükre tart igényt.]}
 {250}{}{Sajnálom, erre nem mehetsz.}
 {251}{}{Ez a bejárat a munkásoknak van fenntartva.}
-{252}{}{Túl nagy fáradság, hogy a rámpákat csakis egyetlen személy kedvéért mozgassuk.}
+{252}{}{It takes too much effort to set up the ramps for just one person.}
 {253}{}{Ha távozni szeretnél, beszélj Vegeirrel!}
 {260}{}{Jó'vanna...}

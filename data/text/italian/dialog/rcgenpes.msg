@@ -19,12 +19,12 @@
 {118}{}{Come va?}
 {119}{}{Come va la vita?}
 {120}{}{Buona giornata a te.}
-{121}{}{Yup.}
+{121}{}{Ci'.}
 {122}{}{Ehila'.}
 {123}{}{Vedi un uomo con una bevanda fresca in mano.}
 {124}{}{Vedi un uomo che ordina una birra.}
 {125}{}{Questo tipo ha gia' bevuto troppo.}
-{126}{}{Vedi un ubriacone.}
+{126}{}{Vedi un'ubriacona.}
 {127}{}{Questo gentiluomo sembra molto felice.}
 {128}{}{Vedi una donna con una bibita fresca in mano.}
 {129}{}{Vedi una donna che sta ordinando una birra.}
@@ -32,7 +32,7 @@
 {131}{}{Vedi un'ubriacona.}
 {132}{}{Questa donna sembra intossicata.}
 {133}{}{Salve, straniero.}
-{134}{}{Ehila'.}
+{134}{}{Ciao.}
 {135}{}{Hmmm.}
 {136}{}{Urp.}
 {137}{}{Glug-glug-glug.}
@@ -64,7 +64,7 @@
 {163}{}{Questa donna si sta riposando.}
 {164}{}{Questa donna si sta rilassando in casa sua.}
 {165}{}{Salve.}
-{166}{}{Cosa ci fai qui?}
+{166}{}{Cosa fai qui?}
 {167}{}{Non ti ho invitato.}
 {168}{}{Vattene. Qui non facciamo l'elemosina ai selvaggi.}
 {169}{}{Vattene! Sparisci!}
@@ -121,7 +121,7 @@
 {220}{}{Mangi le persone?}
 {221}{}{Credevo aveste tutti delle corna, sulla vostra testa.}
 {222}{}{Da dove vieni?}
-{223}{}{Vieni da molto lontano?}
+{223}{}{Vieni da lontano?}
 {224}{}{Non mi prendi!}
 {225}{}{Nyah, nyah, nyah, nyah, nyah!}
 {226}{}{Sei buffo.}

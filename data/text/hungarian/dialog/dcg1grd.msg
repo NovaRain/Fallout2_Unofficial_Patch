@@ -1,6 +1,6 @@
-# Dialog Editor last position: 32
 {100}{}{Egy õrt látsz.}
 {150}{}{Tyler egyik õre.}
+{151}{}{She's one of Tyler's guards.}
 {200}{}{Még élsz?}
 {210}{}{Megmutattuk nekik, mi?}
 {211}{}{Senki sem baszakodhat velünk!}
@@ -16,10 +16,9 @@
 {229}{}{Szerintem ez a cucc valami menedékbõl, vagy mibõl származhat.}
 {230}{}{Egyébként mit keresel te itt?}
 {231}{}{Nincs itt semmi különös.}
-#231 ezt Shawn-nal külön megbeszéltem, amerika botorság (bass)
 {232}{}{Ne fecséreld az idõd, már vagy ezerszer átnéztük a cuccot.}
 {233}{}{A mai este különleges.}
-{234}{}{Utálok várni.}
+{234}{}{Utálom a várakozást.}
 {235}{}{Ezért bármikor kihagynám az italt.}
 {236}{}{Idõ van már? Alig várom.}
 {237}{}{Remélem, én ölöm meg az elsõt.}

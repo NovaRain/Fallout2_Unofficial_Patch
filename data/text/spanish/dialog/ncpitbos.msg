@@ -93,19 +93,19 @@
 {366}{}{¿Ese tipo? ¿El Viejo McGee? Un loco hijo de perra, eso desde luego. Je.
  Seguro que le jodió que ganases su fortuna. Yo tendría cuidado con él.}
 {367}{}{¿La máquina está trucada?}
-{368}{}{Tenía algunas preguntas más…}
+{368}{}{Tenía algunas preguntas más...}
 {369}{}{Gracias por la información.}
 {370}{}{Gracias, me halaga. Sólo me he detenido a saludar.}
 {375}{}{Qué va, sólo es testaruda… igual que él. Probablemente podría repararse, pero no tenemos mecánicos
  de tragaperras que puedan arreglar esa maldita cosa.}
-{376}{}{Tenía algunas preguntas más…}
+{376}{}{Tenía algunas preguntas más...}
 {377}{}{Interesante. Gracias por la información.}
 {385}{}{Sí, ese hijo de puta estuvo aquí hace una semana, desplumó unas mil fichas a una de las mesas, y luego se largó.
  No sé dónde está ahora, pero solía tener una habitación en el Desperado.}
 {386}{}{Sí, cierto tipo con ese nombre alquiló una de las habitaciones de arriba... la 204. La tenía pagada, pero se largó
  hace unos días y nadie lo vio marcharse.}
 {387}{}{El señor Salvatore mencionó que hubo una croupier en particular al que Lloyd le ganó el dinero. ¿A quién fue?}
-{388}{}{Tenía algunas preguntas más…}
+{388}{}{Tenía algunas preguntas más...}
 {389}{}{Gracias por la información.}
 {395}{}{¿Nikki? Sí, está por allí, en la mesa central. ¿Hay alguna clase de problema?}
 {396}{}{No hay problema. Sólo quiero reunirme con ella. Tenía algunas preguntas más…}
@@ -118,7 +118,7 @@
 {417}{}{Interesante. Gracias por la información.}
 {425}{}{Claro, sería bueno para el negocio. El vestuario está en la parte de atrás…}
 {426}{}{Excelente. Estaré sobre el escenario en unos minutos...}
-{427}{}{No, ahora no. Tengo más preguntas…}
+{427}{}{Ahora mismo no. Tenía otras preguntas...}
 {428}{}{Ahora no, pero volveré más tarde.}
 {435}{}{No, todavía nos estamos recuperando de tu última actuación. A lo mejor te interesa probar en alguno de los otros casinos.}
 {436}{}{Está bien, gracias. Oye, tenía algunas otras preguntas…}

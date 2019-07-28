@@ -7,7 +7,7 @@
 {106}{}{Ogni anno noi offriamo in dono alla Dea del Mare una radice di Xander. Se la Dea ci ritiene degni, Ella trasforma la radice di Xander in fiori di Broc.}
 {107}{}{Dopo un raccolto generoso, noi offriamo un dono alla Dea del Mare affinche' Ella ci resti vicina e ci protegga. Ogni anno Ella ricompensa la nostra fede mandandoci delle lance insieme alla marea come segno della sua presenza.}
 {108}{}{Posso vedere cosa vi ha donato la Dea?}
-{109}{}{Ug}
+{109}{}{Urg!}
 {110}{}{Ecco quello che la grande Dea ci ha donato quest'anno. Saremo lieti di dividere i Suoi doni con te... ad un prezzo.}
 {111}{}{Spazzatura [$10]}
 {112}{}{Pistola Laser [$10000]}
@@ -15,7 +15,7 @@
 {114}{}{Frutto [$5]}
 {115}{}{Xander [$20]}
 {116}{}{Broc [$10]}
-{117}{}{Arrivederci.}
+{117}{}{Addio.}
 {118}{}{[Ti dirige in direzione del mare.] Cammina sempre dritto. La Dea vuole vederti personalmente.}
 {119}{}{[Fine]}
 {120}{}{Possa la benedizione della Dea del Mare scendere su di te.}

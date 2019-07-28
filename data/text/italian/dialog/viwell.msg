@@ -1,3 +1,3 @@
 {100}{}{Vedi il pozzo del cortile.}
-{101}{}{Magari ti sbagli, ma guardando all'interno del pozzo ti sembra di sentire del calore provenire dall'oscurita'.}
-{102}{}{Bevi un grosso sorso d'acqua raccolta dal pozzo. E' stranamente calda.}
+{101}{}{Magari ti sbagli, ma mentre osservi il fondo del pozzo senti del calore provenire dall'oscurita' sottostante.}
+{102}{}{Bevi una grossa sorsata d'acqua dal pozzo. E' stranamente calda.}

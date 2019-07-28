@@ -21,7 +21,7 @@
 {120}{}{Mi spiace, ma io non sono un medico chirurgo, per cui non posso eseguire una simile operazione. Ti suggerisco di recarti in una delle citta' piu' grandi e di rivolgerti ad un chirurgo. Prova a NCR. E' a est di qui.}
 {121}{}{Okay. Ciao.}
 {122}{}{D'accordo. Grazie lo stesso.}
-{123}{}{Cosa ti piacerebbe sapere?}
+{123}{}{Cosa vorresti sapere?}
 {124}{}{Tu prigioniero?}
 {125}{}{Tu potere andare via quando tu volere?}
 {126}{}{Cosa tu sapere di D'claw?}
@@ -57,9 +57,11 @@
 {156}{}{Devo riconoscerlo: sei davvero un uomo devoto alla tua professione.}
 {157}{}{Interessante.}
 {158}{}{Non aiutero' una persona come te. Vattene.}
-
 {159}{}{Raggiunsi un'altra citta' e vi rimasi per circa una settimana, prima di tornare qui. Quando tornai, fui accolto calorosamente. Gruthar, il capobranco, venne da me privatamente e mi ringrazio' di persona per essere ritornato. No, sono sicuro: rimango qui perche' e' quello che voglio.}
-
 {160}{}{Sebbene non abbiano corde vocali, i Deathclaw sembrano capaci di mimare il linguaggio umano allo stesso modo dei pappagalli. Devo ancora scoprire l'esatto meccanismo, percio' non sono in grado di dirti di piu', al momento. Da un punto di vista sociale, sono animali che si riuniscono in branchi e che hanno un severissimo codice morale. Sono guidati da un "maschio alfa" che comanda con il consenso del branco. Sono estremamente fedeli al branco nel suo insieme e preferiscono considerarlo come un'unica grande famiglia, piuttosto che dividersi in nuclei familiari piu' piccoli come fanno gli umani. }
 {161}{}{Il loro concetto di "giusto" e "sbagliato" e' molto ben definito. Seguono un codice morale che e' rafforzato dall'unita' del branco. La violenza non viene mai usata per risolvere i problemi interni, almeno da quanto ho visto finora. Non sono mai stati commessi crimini "capitali", per cui non saprei dirti come vengono affrontati casi del genere. Hmmm. Questo e' tutto quello che mi viene in mente al momento. Spero ti sia d'aiuto.}
-
+{162}{}{I answered that I respected all life and would do my best to heal the injured, regardless of who
+ or what they were. I thought it was some thief or raider who had gotten himself hurt and needed
+ a doctor. You can't begin to imagine my surprise when a couple of Deathclaws stepped out of the
+ night with an injured companion. Somebody had shot him up real good. I told them I couldn't work on him
+ where we were, so they blindfolded me and brought me here. I've been here from that day forward.}

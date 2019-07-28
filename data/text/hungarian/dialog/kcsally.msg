@@ -1,5 +1,4 @@
-# Dialog Editor last position: 10
-{100}{}{Ennek a dundi, idõsebb nõnek eléggé nagy orra van.}
+{100}{}{You see a plump, older woman with a large nose.}
 {101}{}{Õ Nagyorrú Sally, a Fürdõház tulajdonosa.}
 {200}{}{Helló, én Sally Dunton vagyok. Hmm, értetted, amit mondtam?}
 {201}{}{Szelli dánton? Hö?}
@@ -8,7 +7,8 @@
 {204}{}{Szép próbálkozás egy idiótától, de nem szeretem az ilyeneket a házamban. Takarodj! Sicc, sicc!}
 {205}{}{Tudom, hogy törzsbéli vagy, meg minden, de ez egy fürdõház, nem budi. Tünjé' el, mielõtt kidobatlak!}
 {206}{}{Tudom, hogy a fiaim összeálltak már sok szerencsétlennel, de te vagy eddig a legrosszabb. Nem tudom elhinni, hogy cserben hagytad õket. Takarodj a szemem elõl!}
-{210}{}{A nevem Sally Dunton, de a legtöbben csak Nagyorrú Sallynek hívnak. Én vagyok a fürdõház tulajdonosa. Tele vagyunk különleges, segédeket felvonultató fürdõkkel. Válogathatsz közülük!}
+{210}{}{My name's Sally Dunton, but mostly they call me Big Nose Sally. I'm the owner of this here
+ bathhouse. We have a whole houseful of special, attended baths for you to pick from.}
 {211}{}{Miféle különleges, segédeket felvonultató fürdõkrõl van szó?}
 {212}{}{Nahát, Sally, én csak egy közönséges fürdõt szerettem volna. Nincsen pezsgõfürdõtök, ugye?}
 {213}{}{Meggondoltam magam, talán késõbb kipróbálom.}
@@ -26,8 +26,6 @@
 {242}{}{Nem vagyok erre felkészülve, inkább megyek.}
 {243}{}{Remélem, a segéd külseje is beleszámít az árba.}
 {250}{}{Íme, a választható fürdõink: a Mosdókesztyûs Kézi Dörzsölés, egy rövid Teljes Fürdetés, és végül az Egetrengetõ Ultrapöpec Szolgáltatás, amit a gyönyörû és tehetséges Jenny végez el. Rejtek legjobb mûintézetében tanult.}
-# squeaky clean(adj) :(Am)1-extremely clean. 2-<humor>morally proper, right or pure. (bass)
-
 {251}{}{Azt hiszem, most elég lesz a Kézi Dörzsölés. Mennyibe kerül?}
 {252}{}{Jól hangzik a Teljes Fürdetés. Mennyibe kerülne ez nekem?}
 {253}{}{Gyönyörû és tehetséges? Többet akarok hallani errõl az Egetrengetõ Ultrapöpec Szolgáltatásról.}
@@ -79,4 +77,4 @@
 {382}{}{Így igazságos. Milyen fürdõk közül választhatok?}
 {390}{}{Mielõtt tovább mennénk, tudod kell, hogy a fürdõk egyénekre vannak szabva, nem csoportokra. Te befizeted a saját fürdõdet, utána a barátaid is megtehetik, ha kedvük van hozzá.}
 {391}{}{Oké.}
-{400}{}{Nem szeretjük a te fajtádat errefelé!}
+{400}{}{Mi nem kérünk a maga fajtájából.}

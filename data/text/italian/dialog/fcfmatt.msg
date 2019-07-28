@@ -8,11 +8,11 @@
 {107}{}{Potresti cominciare rispondendo ad alcune domande.}
 {108}{}{Nulla, per adesso. Tornero' piu' tardi.}
 {109}{}{Credo che tu ti sia guadagnato il diritto di ricevere le risposte alle tue domande. }
-{110}{}{Come posso aiutarti?}
+{110}{}{Come posso aiutarla?}
 {111}{}{Chi essere voi?}
 {112}{}{Perche' nessuno me parlato di voi?}
 {113}{}{Perche' solo uno persono essere qui?}
-{114}{}{Me va.}
+{114}{}{Me va ora.}
 {115}{}{Ma voi chi siete?}
 {116}{}{Perche' qui in citta' nessuno parla di voi?}
 {117}{}{Perche' c'e' solo una persona qui?}
@@ -39,7 +39,7 @@
 {138}{}{Sono disposto a farti un'offerta. Porta a termine questa missione per me e io ti concedero' l'accesso alla nostra installazione. Il meglio della tecnologia della Confraternita sara' messa a tua disposizione, in maniera esclusiva. Cosa ne dici?}
 {139}{}{Me pensa su.}
 {140}{}{No. Me andare via.}
-{141}{}{Diavolo. Me fa.}
+{141}{}{Che diavolo. Me fa.}
 {142}{}{Ci pensero'.}
 {143}{}{Scordatelo. Trovati un altro pazzo.}
 {144}{}{Che diavolo. Devo essere pazzo, ma lo faro'.}
@@ -92,13 +92,13 @@
 {191}{}{Beh, continua. So che e' una missione difficile, ma credo che tu ce la possa fare.}
 {192}{}{Okay.}
 {193}{}{Magnifico lavoro! Dammi gli schemi tecnici e te ne faro' una copia. Come promesso, ti daro' pieno accesso alle nostre attrezzature. Grazie.}
-{194}{}{Prego.}
-{195}{}{Non c'e' di che.}
+{194}{}{Nulla.}
+{195}{}{Di nulla.}
 {196}{}{Navarro e' piuttosto recente come base e il personale non e' ancora al completo. Le mie fonti dicono che di tanto in tanto arrivano nuove reclute. Forse potresti spacciarti per un nuovo arrivato. Io ti suggerirei di agire in questo modo.}
 {197}{}{Navarro e' piuttosto recente come base e il personale non e' ancora al completo. Le mie fonti dicono che di tanto in tanto arrivano nuove reclute. Forse potresti spacciarti per un nuovo arrivato. Io ti suggerirei di agire in questo modo. Sara' meglio, pero', che i tuoi amici ti aspettino qui.}
 {198}{}{Okay.}
 {199}{}{Tu detto di "fonti". Quali essere?}
-{200}{}{D'accordo.}
+{200}{}{Okay.}
 {201}{}{Hai menzionato le tue "fonti". Di chi si tratta?}
 {202}{}{Ho mandato un'agente in ricognizione a Navarro. Da qualche tempo non ricevo piu' rapporti da lei; temo sia successo il peggio. Ti prego, fa' attenzione}
 {203}{}{. Non mi piace mandare la gente incontro alla morte.}
@@ -106,13 +106,12 @@
 {205}{}{Staro' attento. Grazie.}
 {206}{}{Grazie ancora per il tuo aiuto. Adesso hai pieno accesso alle nostre attrezzature.}
 {207}{}{Questo e' un ufficio privato.}
-{208}{}{Qui non c'e' niente per te.}
-{209}{}{Questa e' proprieta' privata. Gira al largo.}
+{208}{}{Non c'e' nulla per te qui dentro.}
+{209}{}{Questa e' proprieta' privata, percio' gira al largo.}
 {210}{}{Come sai chi sono?}
 {211}{}{Come tu conoscere me?}
 {212}{}{Noi sappiamo molte cose.}
 {213}{}{Una volta che avrai completato con successo il tuo incarico faro' in modo che la petroliera sia pronta a partire e ti concedero' l'accesso a questa nostra installazione. Nel frattempo sarebbe meglio che ti dedicassi alla tua missione. Grazie,}
-#161
 {214}{}{Prego.}
 {215}{}{Magnifico lavoro! Dammi gli schemi tecnici e te ne faro' una copia. Come promesso, faro' in modo che la petroliera sia pronta a salpare verso la piattaforma petrolifera - ti bastera' andare al piano superiore della nave e premere il pulsante "VAI". Ti daro' anche pieno accesso alle nostre attrezzature. Grazie.}
 {216}{}{Prego!}

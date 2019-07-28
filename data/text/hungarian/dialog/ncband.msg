@@ -1,13 +1,9 @@
-# Dialog Editor last position: 52
 {100}{}{Õ Frenchy.}
 {101}{}{Õ Paine.}
 {102}{}{Õt Simsnek hívják.}
 {150}{}{Ez a férfi igen-igen szakadt. A égõ kuka mellé húzódott, és közben énekel. Nagyon jó hangja van.}
 {151}{}{Ez az ember énekes. Az égõ kuka mellé vette be magát, és egész véletlenül énekel.}
 {200}{}{Hé...}
-{1200}{}{! A nagy hõs! Segíthetünk valamiben? Énekeljünk valami különlegeset talán?}
-{1201}{}{. Segíthetünk valamiben?}
-{1202}{}{. Segíthetünk valamiben, bajnok?}
 {203}{}{Segíccsünk valamibe', fijam?}
 {204}{}{::Megemeli a képzeletbeli kalapját:: Segíccsünk valamibe', hõgyem?}
 {205}{}{Ismerni Húzd... húzd... húzd meg jól?}
@@ -69,3 +65,6 @@
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}
 {941}{}{}
+{1200}{}{! A nagy hõs! Segíthetünk valamiben? Énekeljünk valami különlegeset talán?}
+{1201}{}{. Segíthetünk valamiben?}
+{1202}{}{. Segíthetünk valamiben, bajnok?}

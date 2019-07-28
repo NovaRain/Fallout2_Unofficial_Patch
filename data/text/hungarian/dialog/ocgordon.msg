@@ -1,10 +1,9 @@
-# Dialog Editor last position: 78
 {100}{}{Vézna férfi, hosszú csuhában. Úgy tûnik, elmélyülten gondolkodik.}
 {101}{}{A Szentély Õrzõje.}
 {102}{}{Vézna férfi, hosszú csuhában. A negyvenes éveinek végén járhat, de az arcvonásai lágyak, még nem kezdte ki az idõ vasfoga. Úgy tûnik, éppen meditál.}
 {103}{}{Üdvözöllek, utazó. Gordonnak hívnak, én vagyok a Szentély Õrzõje. Miben segíthetek?}
 {104}{}{Szentély?}
-{105}{}{Én feltesz kérdés?}
+{105}{}{Én kérdez?}
 {106}{}{Öö... nem emlékez. Viszlát!}
 {107}{}{Örülök, hogy találkoztunk, Gordon. Én}
 {108}{}{Ezt nevezi maga szentélynek? Bárkinek is legyen szentelve ez a hely, foroghat a sírjában.}
@@ -18,10 +17,10 @@
 {116}{}{Te mióta lenni itten?}
 {117}{}{Halá'karmok rossz?}
 {118}{}{Miért te maradni?}
-{119}{}{Én most megy.}
+{119}{}{Én menni mostan.}
 {120}{}{Kinek van szentelve ez a szentély?}
-{121}{}{Mióta van itt?}
-{122}{}{Mit tud mondani a halálkarmokról?}
+{121}{}{Mióta vagy itt?}
+{122}{}{What can you tell me about the Deathclaws?}
 {123}{}{Miért maradt itt?}
 {124}{}{Kösz, Gordon. Viszlát!}
 {125}{}{Ez a szentély egy ismeretlen hõsnek van szentelve, akit csak úgy ismertek, hogy Menedéklakó. Õ mentette meg az emberöltõkkel ezelõtt itt élt lakosokat. Nem tudjuk, mi lett a sorsa, de gondolatainkban és a szívünkben tovább él.}
@@ -29,23 +28,29 @@
 {127}{}{Én köszön. Pá...}
 {128}{}{Ez vicc! Szentély épül valakinek, akire még csak nem is emlékszik?}
 {129}{}{Értem. Nos, lenne még kérdésem.}
-{130}{}{Ez igazán dicséretes, Gordon. Feltehetek még néhány kérdést?}
+{130}{}{Very commendable, Gordon. Can I ask you some more questions?}
 {131}{}{Egész életemben ebben a Menedékben éltem. Amióta az eszemet tudom, én vagyok a Szentély Õrzõje.}
 {132}{}{Te lenni itt a Halá'karmok elõtt?}
 {133}{}{Ah. Én akar tudni még.}
-{134}{}{Most én menni kell.}
+{134}{}{Menni kell.}
 {135}{}{Maga nagyon elkötelezett ember. Feltehetek még néhány kérdést?}
 {136}{}{Az hosszú idõ. Válaszolna még néhány kérdésemre?}
 {137}{}{Úgy tékozolja el az életét, ahogy csak jól esik, jóember.}
-{138}{}{Itt volt már a halálkarmok beköltözésekor?}
-{139}{}{Nem, barátom, nem voltam. Néhány hónapja elindultam, hogy megnézzem a Menedéklakó szobrát, amit az ÚKK fõterén emeltek (Az Új Kaliforniai Köztársaság keletre van innen). Amikor visszaértem a Menedékbe, a halálkarmok már bevették magukat. Talán szükségtelen mondanom, mekkora sokk ért. Mindenesetre meg vagyok gyõzõdve arról, hogy nem õk a felelõsek azért, ami a polgártársaimmal történt. Ha esetleg több információra lenne szükséged ebben a tárgyban, megkeresheted Gorist a könyvtárban.}
+{138}{}{Then you were here when the Deathclaws took over?}
+{139}{}{No, my friend, I was not. I left a few months ago to visit the statue of the Vault Dweller
+ erected in the central court of the NCR (the New California Republic east of here). When I returned to
+ the vault, I found the Deathclaws were already here. Needless to say, I was in shock. However, I am
+ convinced that they are not responsible for what happened to my fellow citizens. If, by chance, you
+ want more information on this matter, you can seek out Goris in the library.}
 {140}{}{Oké, kösz.}
 {141}{}{Oké, viszlát!}
 {142}{}{Észben fogom tartani.}
 {143}{}{Nem kell elmondania, hova menjek, vagy kivel beszéljek!}
 {144}{}{Köszönet a segítségért. Bár lenne még néhány kérdésem.}
-{145}{}{Már több hónapja élek együtt a halálkarmokkal. Becsületesnek és õszintének tûnnek velem, és a többi itt élõ emberrel szintén. Én megbízom bennük, és azt hiszem, idõvel te is így fogsz tenni.}
-{146}{}{Öö...Oké.}
+{145}{}{I have lived with the Deathclaws for several months now. They seem to be honorable and
+ forthright in their dealings with me and the other humans who live here. I trust them and, in time, I
+ think you will as well.}
+{146}{}{Ööö... Oké.}
 {147}{}{Hmm. Én mostan menek el.}
 {148}{}{Jelenleg inkább hagyom, hadd kétkedjenek.}
 {149}{}{Ha akarsz, hihetsz a gyíkoknak, én inkább megtartom a véleményemet magamnak, kösz.}
@@ -53,12 +58,13 @@
 {151}{}{Az én helyem itt van, a Szentélyben. Önszántamból nem hagyom el.}
 {152}{}{Ah.}
 {153}{}{Én itt hagy téged.}
-{154}{}{Oké.}
+{154}{}{OKÉ.}
 {155}{}{Maga vagy nagyon elkötelezett, vagy segg-hülye. Én az utóbbira szavazok!}
 {156}{}{Az elkötelezettsége csodálatra méltó.}
 {157}{}{Meglehetõsen durva és goromba alak vagy. Ha itt lenne velünk egy õr, talán lakatot tennél a nyelvedre.}
 {158}{}{Már korábban figyelmeztettelek, hogy nem tûröm a sértegetéseidet. Nyilvánvalóan magasról teszel az ilyesmire. (Gordon az ajtó felé néz) Õrség! A Szentélyhez, azonnal!}
-{159}{}{Szóval még mindig inkább seggként viselkedsz. (Gordon a halálkarom õr felé mozdul) Õr, vidd ki a szemetet.}
+{159}{}{So you still choose to be an ass. (Gordon motions toward the Deathclaw guard) Guard, please take
+ out the trash.}
 {160}{}{Na, villantson szépen valamit... Egy szempillantás alatt szétrúgom a seggét!}
 {161}{}{Bocsánatot kérek, lakatot teszek a nyelvemre.}
 {162}{}{Elnézését kérem, Gordon. Kérem, bocsássa meg a kirohanásomat!}
@@ -76,4 +82,4 @@
 {174}{}{Én lenni már itten? Én sajnálja. Menek elfele.}
 {175}{}{Még egyszer beszélni akartam magával.}
 {176}{}{Csak beköszöntem.}
-{177}{}{ vagyok. Feltehetek néhány kérdést?}
+{177}{}{. Feltehetek néhány kérdést?}

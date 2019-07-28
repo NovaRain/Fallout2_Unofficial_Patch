@@ -1,29 +1,14 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used in OPTIONS.C
-#
-# (These MUST match "text message" enumeration on the top of OPTIONS.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-# ° Main option panel °
-#
-# Buttons
 {0}{}{KIMENTÉS}
 {1}{}{BETÖLTÉS}
 {2}{}{BEÁLLÍTÁSOK}
 {3}{}{KILÉPÉS}
-{4}{}{OK}
-#
-# Preferences
-#
+{4}{}{KÉSZ}
 {100}{}{JÁTÉK BEÁLLÍTÁSOK}
 {101}{}{NEHÉZSÉGI SZINT}
 {102}{}{HARC NEHÉZSÉGE}
 {103}{}{ERÕSZAK}
 {104}{}{CÉLPONT JELÖLÉS}
-{105}{}{HARCI INFORMÁCIÓK}  # Was: BURNING GUYS
+{105}{}{HARCI INFORMÁCIÓK}
 {106}{}{HARCI ÜZENETEK}
 {107}{}{HARCI SZÖVEGEK}
 {108}{}{CENZÚRA}
@@ -41,43 +26,32 @@
 {120}{}{ALAP}
 {121}{}{MÉGSE}
 {122}{}{Befolyásolja a játékos sebességét}
-{123}{}{Pipboy beszéd}
-#
-# Label text
-#
-{201}{}{Be}             # 1
-{202}{}{Ki}            # 2
-{203}{}{Könnyû}           #  1
-{204}{}{Normál}         #  2
-{205}{}{Nehéz}           #  3
-{206}{}{Könnyû}          # 1
-{207}{}{Normál}         # 2
-{208}{}{Kemény}          # 3
-{209}{}{Normál}         #  1
-{210}{}{Leggyorsabb}        #  2
-{211}{}{Részletes}        # 1
-{212}{}{Rövid}          # 2
+{123}{}{Pip-Boy speech}
+{201}{}{Be}
+{202}{}{Ki}
+{203}{}{Könnyû}
+{204}{}{Normál}
+{205}{}{Nehéz}
+{206}{}{Könnyû}
+{207}{}{Normál}
+{208}{}{Kemény}
+{209}{}{Normál}
+{210}{}{Leggyorsabb}
+{211}{}{Részletes}
+{212}{}{Rövid}
 {213}{}{Csak célzásnál}
-{214}{}{Nincs}           # 1
-{215}{}{Minimális}        # 2
-{216}{}{Maximális vér}  # 3
-{217}{}{Lassú}           #  1
-{218}{}{Gyors}         #  2
+{214}{}{Semmilyen.}
+{215}{}{Minimális}
+{216}{}{Maximális vér}
+{217}{}{Lassú}
+{218}{}{Gyors}
 {219}{}{Mindig}
 {220}{}{Sok}
-{221}{}{Csendes}          # 1
-{222}{}{Hangos}           # 2
+{221}{}{Csendes}
+{222}{}{Hangos}
 {223}{}{Világosabb}
 {224}{}{Széles}
-
-
-#
-# Pause window
-#
-{300}{}{MEHET}
+{300}{}{KÉSZ}
 {301}{}{LEÁLLÍTVA}
-#
-# Demo versions only
-#
-{1000}{}{A beállítások menüpont nem}  # 1
-{1001}{}{érhetõ el a demó verzióban.}      # 2
+{1000}{}{A beállítások menüpont nem}
+{1001}{}{érhetõ el a demó verzióban.}

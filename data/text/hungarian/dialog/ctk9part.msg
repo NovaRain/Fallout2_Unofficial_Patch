@@ -1,1 +1,1 @@
-{100}{}{Megszerezted a K-9 motivátorát.}
+{100}{}{Megszerezted a K-9-es hajtómûvet.}

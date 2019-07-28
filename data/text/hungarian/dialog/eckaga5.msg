@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Egy II-es erõpáncélt viselõ férfit látsz. Nem látszik barátságosnak.}
 {101}{}{Kagát látod, aki egy II-es erõpáncélt visel.}
 {102}{}{Egy jó nagy vasdarab, karokkal és fegyverekkel.}

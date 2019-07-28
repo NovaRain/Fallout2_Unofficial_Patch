@@ -6,8 +6,8 @@
 {105}{}{Ki vagy te?}
 {106}{}{Ötletem sincs, mennyi ideig aludhattál, de Broken Hillsben vagy, nem messze az Új Kaliforniai Köztásaságtól.}
 {107}{}{Ó ne! Olyan sokáig aludtam, hogy a világ elhülyült! Váááááááá! ::üvöltve elmenekül::}
-{108}{}{-vége-}
-{109}{}{Chuck Stodgers a nevem. Én vagyok a legjobb repülõpilóta a világon! Sajnos... lezuhantam. Betámolyogtam ebbe a barlangba a robbanás elõl, de a füsttel nem bírtam.}
+{108}{}{[DONE]}
+{109}{}{I'm Chuck Stodgers, the greatest aero plane pilot in the world! Unfortunately... I crashed. I staggered into this cave to get away from the explosion, and the fumes overwhelmed me.}
 {110}{}{Ez gyanúsan úgy hangzik, mint egy képregénysorozat elsõ része.}
 {111}{}{Új MI? KALIFORNIA? ILYEN SOKAT VÁLTOZOTT A VILÁG? VÁÁÁÁÁÁÁÁÁÁÁÁ! ::üvöltve elmenekül::}
 {112}{}{Hé, várj csak egy pillanatot...}

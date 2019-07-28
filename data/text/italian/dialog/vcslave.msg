@@ -1,10 +1,10 @@
 {100}{}{Vedi un uomo robusto in abiti da lavoro. Tiene gli occhi fissi al suolo.}
-{101}{}{Vedi uno schiavo di Vault City.}
+{101}{}{Vedi una schiava di Vault City.}
 {102}{}{Vedi un uomo robusto in abiti da lavoro. Tiene gli occhi fissi al suolo.}
 {103}{}{Vedi una donna dall'aspetto sano in abiti da lavoro. Tiene gli occhi fissi al suolo.}
 {104}{}{Vedi una schiava di Vault City.}
 {105}{}{Vedi una donna dall'aspetto sano in abiti da lavoro. Tiene gli occhi fissi al suolo.}
-{106}{}{Mi hanno raccontato le sue imprese coraggiose. Ha reso un grande servizio a Vault City... e al mondo.}
+{106}{}{Ho sentito parlare delle sue imprese coraggiose. Ha reso un grande servizio a Vault City... e al mondo.}
 {107}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
 {108}{}{In qualche modo vorrei poterle dare qualcosa per tutto quello che ha fatto per noi, ma non ho niente da darle... a parte un "grazie".}
 {109}{}{Gli altri servi saranno invidiosi quando sapranno che ho parlato con l'eroe delle Lande.}
@@ -30,16 +30,16 @@
 {129}{}{La prego, mi lasci in pace. Io sono un servo di Vault City.}
 {130}{}{La scongiuro: ha per caso visto due bambini con i capelli neri…? Sono stati presi da altri schiavisti due anni fa e sono stati venduti da qualche parte a Nord.}
 {131}{}{Per favore… Non mi e' permesso parlare.}
-{132}{}{Se un Cittadino mi becca a parlare con uno schiavista, saro' punito.}
+{132}{}{Se un Cittadino mi dovesse beccare a parlare con uno schiavista, saro' punito.}
 {133}{}{Le guardie mi denunceranno se lei continua a parlare con me.}
 {134}{}{Non posso parlare con lei. Ho del lavoro da fare.}
 {135}{}{La prego, se ne vada, schiavista. Non voglio guai.}
 {136}{}{Scappare? Io... io non ho mai tentato di scappare da qui. La vita e' bella, qui.}
 {137}{}{I Cittadini mi hanno detto che un giorno potrei anche *io* diventare un Cittadino, se lavoro sodo.}
-{138}{}{I Cittadini ci insegnano che la ricompensa del nostro lavoro e' il lavoro stesso.} ###???The Citizens teach us that work is its own reward
+{138}{}{I Cittadini ci insegnano che la ricompensa del lavoro e' il lavoro stesso.}
 {139}{}{I Cittadini ci dicono che il nostro lavoro permette loro di occuparsi di cose piu' importanti.}
 {140}{}{Sono stato fortunato che Vault City avesse bisogno di servi. Sarei potuto finire a New Reno.}
-{141}{}{Vault City ricompensa, con razioni aggiuntive, i servi che lavorano diligentemente.}
+{141}{}{Vault City ricompensa i servi che lavorano diligentemente, garantendo loro razioni extra.}
 {142}{}{Ho sentito dire che fanno delle cose orribili agli schiavi, giu' a New Reno.}
 {143}{}{I Cittadini hanno portato tutti i membri della mia tribu' dentro Vault City per impiegarli come servi. }
 {144}{}{I Cittadini mi hanno portato qui dalle Lande e mi hanno insegnato a leggere.}

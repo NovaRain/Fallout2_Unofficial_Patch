@@ -1,28 +1,28 @@
 {100}{}{A Lyuk egyik törzsvendége.}
 {150}{}{Ez a fickó nem valami lenyûgõzõ.}
 {151}{}{Ennek a csávónak csak egyetlen foga van!}
-{152}{}{[BESZÉD]}
+{152}{}{[Beszélgetés]}
 {153}{}{A feleséged aztán gyönyörû teremtés!}
 {154}{}{Tûnés innen!}
 {155}{}{Tetszik neked, mi?}
 {156}{}{Igen.}
-{157}{}{Ja!}
+{157}{}{Ige'.}
 {158}{}{Szívesen megvizsgálnám közelebbrõl is...}
 {159}{}{Gyerünk!}
 {160}{}{Rendben. 50 dolcsi lesz.}
 {161}{}{Hogyne! De ez bizony 200 dollárodba fog kerülni.}
 {162}{}{Nem! Húzz el innen!}
-{163}{}{Oksa.}
-{164}{}{Nem!}
+{163}{}{OKÉ.}
+{164}{}{Nem.}
 {165}{}{Rendicsek! Gyere Billy-vel, csillagom!}
 {166}{}{Most már tágulhatsz!}
-{167}{}{Kösz! Viszlát!}
+{167}{}{Kösz. Viszlát!}
 {168}{}{Viszlát!}
 {169}{}{Áh, bazzeg...}
-{170}{}{[kész]}
+{170}{}{[DONE]}
 {171}{}{Mocskosul kivagyok...}
-{172}{}{Visszajövök késõbb!}
-{173}{}{Rendben.}
+{172}{}{I'll come back.}
+{173}{}{OKÉ.}
 {174}{}{Te aztán szerfelett csinos vagy ám...}
 {175}{}{Távozz tõlem!}
 {176}{}{200 dollárért bármire hajlandó vagyok veled...}
@@ -35,10 +35,10 @@
 {183}{}{Hagyj békén! Én a tetszetõsebb tyúkokra bukok.}
 {184}{}{Sok szerencsét! Szükséged lehet rá...}
 {185}{}{Mi vagyok én szerinted? Mézesbödön?}
-{186}{}{Csao!}
+{186}{}{Viszlát!}
 {187}{}{Óóóóhh... Oké. Viszlát!}
 {188}{}{[alaposan végigmér] Én szeretem a mézes bödönöket.}
-{189}{}{Nem kellesz nekem!}
+{189}{}{Ez tõled nem kell!}
 {190}{}{Bocsáss meg, mennem kell!}
 {191}{}{Milyen kár... Azt hittem, aranyosabb vagy.}
 {203}{}{Kérem vissza a pénzemet!}
@@ -57,17 +57,18 @@
 {222}{}{Öhm, Frankie... ha valaki... khm... keresne, mondd meg neki, hogy mindjárt visszajövök!}
 {223}{}{Kövess!}
 {224}{}{Most nem érek rá! Majd késõbb megbeszéljük!}
-{225}{}{Nincs nálam!}{300}{}{Francba, rendesen ráfaragtam!}
-{301}{}{Ejha!}
+{225}{}{Nincs nálam!}
+{300}{}{Francba, rendesen ráfaragtam!}
+{301}{}{Ez igen!}
 {302}{}{Ez... ez... nem volt semmi!!!}
 {303}{}{Be tudnád gyújtani a máglyáját.}
 {304}{}{A fenébe, összekócolta a hajamat... azt a keveset is.}
 {305}{}{Sokkal jobb volt, mint Dave-vel.}
 {320}{}{Nem rossz... Nem is rossz...}
 {321}{}{Erre talán még egyszer befizetnék.}
-{322}{}{Mmmmmm...}
+{322}{}{Mmmm...}
 {323}{}{Nem rossz, nem rossz!}
-{324}{}{Újra meg kellene próbálni, de ezúttal javítani kellene a... rugalmasságunkon.}
+{324}{}{We'll have to do that again and work on our... flexibility.}
 {350}{}{Úgy látszik, sokat javult a kézi munkám.}
 {351}{}{Vigyázz, nehogy megtaszajtsa az ajtó a PUHA POPÓDAT kifelé menet!}
 {352}{}{Ideje lenne befejezni, amit még el se tudtál kezdeni!}
@@ -92,14 +93,14 @@
 {411}{}{'picsába!}
 {412}{}{IIiiii...}
 {413}{}{He-he-heee...}
-{414}{}{Hee?}
+{414}{}{Nahát...}
 {500}{}{*Pöj* *Pöj* Ehhhhhhhhh...}
 {510}{}{Hé haver, megmutatod a "bélyeggyûjteményed"?}
 {511}{}{Nem várhatna egy kicsit? Innom kell valamit.}
 {512}{}{Ja, ha beszélni akarsz velem, a Lyukban leszek.}
 {513}{}{Mi lenne, ha találkoznánk a Lyukban és meghívnálak egy italra?}
 {520}{}{Bocsi, de sietek haza! Most vettem néhány új szexlapot.}
-{523}{}{Úúúuuhhh... fáradt vagyok... hadd menjek haza... úúúúuuuhhh, aludni...}
+{521}{}{Úúúuuhhh... fáradt vagyok... hadd menjek haza... úúúúuuuhhh, aludni...}
 {522}{}{Átmegyek Dave-hez. Neki egy egész szex-szakosztálya van!}
 {530}{}{Úúúhm... Nem, kösz! Nincs pénzem még egy menetre.}
 {540}{}{Rendben, tegyünk egy újabb próbát a seggeddel!}

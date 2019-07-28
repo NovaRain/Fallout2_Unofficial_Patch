@@ -1,5 +1,4 @@
-# Dialog Editor last position: 133
-{100}{}{Rejtek egyik lakosát látod.}
+{100}{}{Rejtek egyik polgára.}
 {101}{}{Fred.}
 {102}{}{Õ Fred. Nagyon szép ruhát hord.}
 {150}{}{Nagyon gondolkodik valamin.}
@@ -21,7 +20,6 @@
 {226}{}{Nincs itthon senki.}
 {227}{}{Nem akarok beszélgetni. Aludni készülök.}
 {228}{}{Kisanyám, késõ van! Hagyj békén!}
-
 {240}{}{Nincs több pénzem! Hagyj békén!}
 {241}{}{Nincs itt semmilyen munka. Mit fogok csinálni?}
 {242}{}{Csak azt ne mondd, hogy tartozom még valakinek! Ahh!}
@@ -36,7 +34,7 @@
 {263}{}{Bármikor megnyerhetem a fõnyereményt.}
 {264}{}{Ha nyerek, elõször neked szólok.}
 {275}{}{Mûködik a tervem...}
-{276}{}{Kösz a kölcsönt. Jó kezekben van a pénzed.}
+{276}{}{Thanks for the loan! Your money's in good hands!}
 {277}{}{Az asztalok meg vannak buherálva, de ne aggódj!}
 {278}{}{Neked köszönhetõen egyszer még nagyot nyerek.}
 {279}{}{Bármikor nyerhetek! Érzem.}
@@ -45,52 +43,52 @@
 {295}{}{Ismerlek én téged? Mit akarsz?}
 {296}{}{Miért piszkálsz állandóan? Nem is ismerlek. Zargass valaki mást!}
 {297}{}{Azért jöttem, hogy beszedjem a pénzt, amivel tartozol valakinek.}
-{298}{}{Áh, hagyjuk...}
+{298}{}{Értem.}
 {299}{}{Uk!}
 {300}{}{Viszlát!}
 {310}{}{Hát itt vagy? Mindenütt kerestelek! Nézd meg ezt a ruhát!}
-{311}{}{Még egyszer köszönöm.}
+{311}{}{Nem tudjuk elégszer megköszönni.}
 {312}{}{Jól nézel ki.}
 {313}{}{Úgy nézel ki, mint egy rakás szar.}
 {314}{}{Yuk!}
-{315}{}{Ug.}
+{315}{}{Ah...}
 {320}{}{Köszönöm. Nagyon köszönöm! Hála neked, négy ugyanilyenem van.}
 {321}{}{Szóval nyertél?}
 {322}{}{Naszóval... hol a pénzem?}
-{330}{}{Nem tetszik a ruhám? Igazad lehet. Én sem vagyok oda érte. Kéne egy-két új... hisz megengedhetem magamnak.}
+{330}{}{You don't like my threads? You know, I think you're right. I don't like them either. Time for some new ones - I can afford it!}
 {331}{}{Szóval nyertél?}
 {332}{}{Hol a pénzem?}
-{333}{}{Hmmm.}
+{333}{}{Hmph.}
 {340}{}{Épp rá akartam térni! Nem fürödhetek a dicsõségben? Ezért nagyon keményen megdolgoztam ám!}
 {341}{}{Tudom, elnézést.}
 {342}{}{Cseszd meg! Hol a pénz, amivel támogattalak?}
 {343}{}{Egy szart! Hol a pénzem?}
 {350}{}{Jó! Itt van. [Fred átnyújt 500 dollárt] Egy kis extra, amiért bíztál bennem. Késõbb találkozunk. Kösz még egyszer.}
-{351}{}{Kösz!}
+{351}{}{Köszönöm!}
 {352}{}{Jól van, jól...}
 {360}{}{Kösz, hogy biztál bennem. Sokat jelentett, hogy egy teljesen idegen megbízott bennem. Hadd adjam ezt oda!}
-{361}{}{Oké!}
-{362}{}{Nem szükséges ez...}
-{363}{}{Öh.}
+{361}{}{Oké.}
+{362}{}{Nem kellene.}
+{363}{}{Öö.}
 {370}{}{Sokkal tartozom neked. Bíztál bennem, amikor elfordult tõlem a szerencse. A hálám jeléül van valamim a számodra.}
 {371}{}{Oké.}
 {372}{}{Nem kellene.}
-{373}{}{Öh.}
+{373}{}{Öö.}
 {380}{}{Itt van. [Fred átad neked 1000 dollárt.] Remélem, ez segít. Gondolom, van mire költened.}
-{381}{}{Bocs, de nem fogadhatom el.}
-{382}{}{Kösz.}
-{383}{}{Nem igazán, de elteszem.}
-{384}{}{Nyam.}
+{381}{}{Elnézést, de nem fogadhatom el.}
+{382}{}{Köszi.}
+{383}{}{Nem igazán, de azért elteszem.}
+{384}{}{Fini.}
 {390}{}{Itt van. [Fred átad neked 2000 dollárt, 5 fúziós cellát, 5 energia cellát és egy plazma gránátot.] Remélem, ez segít valamicskét.}
 {391}{}{Elnézést, de nem fogadhatom el.}
 {392}{}{Nagyon köszönöm.}
 {393}{}{Nem igazán, de azért elteszem.}
-{394}{}{Nyami.}
+{394}{}{Fini.}
 {400}{}{Mi? Rendben, ha nagyon akarod. Köszönöm szépen. Vigyázz magadra!}
 {401}{}{Viszlát!}
-{410}{}{Mi? Valami furcsa drogot szedsz? Nem úgy nézel ki, mint egy Jet-függõ. Takarodj innen, te rusnyaság!}
+{410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Takarodj!}
-{412}{}{Úg.}
+{412}{}{Ah...}
 {420}{}{Mirõl beszélsz? Senkinek semmivel nem tartozom. Kirõl beszélsz tulajdonképpen?}
 {421}{}{Aha, múltkor is ezt mondtad. Nem tudom, mirõl beszélsz. Ki ez a képzeletbeli személy már megint?}
 {422}{}{Becky azt mondta, hogy 500 dollárral lógsz neki.}
@@ -100,14 +98,13 @@
 {431}{}{Azt mondta, törjem el a nyakad, ha nem fizetsz.}
 {432}{}{Add elõ!}
 {440}{}{Életemben nem láttam annyi pénzt...}
-{441}{}{Hmm.}
-{442}{}{Ó.}
+{441}{}{Hmmm.}
+{442}{}{Ejha!}
 {450}{}{Csakugyan? Erre aztán várhatsz! Becky a légynek sem ártana. Mellesleg elég csinos.}
-#Ravasz egy idioma - that'll be a day> that will never happen, not on your life  (bass)
 {451}{}{Hát ebben tévedsz, seggfej!}
 {452}{}{Talán valaki más volt.}
 {460}{}{A fene ott egye meg! Nem tagadom... viszont teljesen le vagyok égve. Nem tudok annyi pénzt adni! Ennem is kell ám!}
-{461}{}{Sajnálom!}
+{461}{}{Bocsánat.}
 {462}{}{Pech.}
 {470}{}{Basszus! 100 dollár sok nekem. Ki tudsz segíteni a felével? Igérem, visszafizetem!}
 {471}{}{Sajnálom, de nem.}
@@ -120,16 +117,16 @@
 {490}{}{Mondtam már, hogy nem tudom! Ha megteszem, éhezni fogok. Ugyan már, nem tudnál kisegíteni?}
 {491}{}{Rendben. Állom a felét!}
 {492}{}{Sajnos nem. Nekem sincs pénzem.}
-{493}{}{Visszajövök késõbb...}
+{493}{}{Mindjárt jövök.}
 {500}{}{Mi? Tényleg? Szuper! Köszönöm, barátom! Itt van 100 dollár! Megszerzem a másik 100-at, amilyen gyorsan csak lehet.}
 {501}{}{Mi? Tényleg? Szuper! Köszönöm, hölgyem! Itt van 100 dollár! Megszerzem a másik 100-at, amilyen gyorsan csak lehet.}
-{502}{}{Semmi probléma.}
+{502}{}{Nem gond.}
 {503}{}{Ajánlom, hogy visszaadd a pénzem...}
 {510}{}{Nem kell aggódnod! Visszaadom. Szavamat adtam, és ez alkalommal nem fogok róla megfeledkezni.}
 {511}{}{Oké.}
 {520}{}{Tudod mit? Az a százas nagyon le fogja lassítani a dolgokat. Nem gondolod, hogy egy kicsit visszakérhetnék belõle?}
-{521}{}{Mennyit?}
-{522}{}{Semmi esetre sem.}
+{521}{}{Mennyi?}
+{522}{}{Szó sem lehet róla!}
 {530}{}{Várj! Tudom már. Adok neked száz dollárt, te pedig kisegítesz a maradék százzal, amivel Becky-nek tartozom. Hamarosan visszafizetem neked.}
 {531}{}{Oké, rendben.}
 {532}{}{Nincs alku.}
@@ -138,7 +135,7 @@
 {542}{}{De így csak 50 dollár marad nálam, hogy kifizessem a 200 dolláros tartozásodat.}
 {543}{}{Nem.}
 {550}{}{Mii-öö... Francba! Ezt nem fogod megbánni! Abban jó vagyok.}
-{551}{}{Semmi probléma.}
+{551}{}{Nem gond.}
 {560}{}{Látom, hogy a matematikai képességeid... ugyan már, kérlek! Ez neked nem túl sok, de számomra igen.}
 {561}{}{Oké.}
 {562}{}{Nem.}
@@ -153,10 +150,10 @@
 {590}{}{Nem emlékszem... de Becky biztosan kisegített engem és barátaimat a múltban.}
 {591}{}{Add elõ a 200 dollárt!}
 {592}{}{Add csak ide a pénzt gyorsan!...}
-{600}{}{Hagyjál békén!}
-{601}{}{Bizonyára...}
+{600}{}{Haggyá' békén!}
+{601}{}{Ahogy gondolja.}
 {602}{}{Oké.}
 {610}{}{Öö. Üdv!.. Gondolom a pénzt akarod. Nem tudnál kisegíteni a felével?}
-{611}{}{Sajnálom, de nem.}
+{611}{}{Bocs, de nem.}
 {612}{}{Ha kölcsönadott neked 200 dollárt, akkor szépen vissza is fizeted neki!}
 {613}{}{Oké, rendben.}

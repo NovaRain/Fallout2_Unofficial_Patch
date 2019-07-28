@@ -1,4 +1,3 @@
-# Dialog Editor last position: 92
 {100}{}{Egy tetõtõl talpig olajos vén bolondot látsz.}
 {150}{}{Smitty, a szerelõ, aki másodállásban roncstelep-tulajdonos.}
 {151}{}{Egy tetõtõl talpig olajos vén bolondot látsz, elég mocskos munkaruhában.}
@@ -25,27 +24,27 @@
 {260}{}{Hadd vessen rá egy pillantást az öreg Smitty!}
 {261}{}{Persze, itt van.}
 {262}{}{Meggondoltam magam, hadd kérdezzek valami mást!}
-{263}{}{Talán legközelebb. Viszlát, Smitty.}
+{263}{}{Talán legközelebb. Viszlát, Smitty!}
 {280}{}{Hadd vessen rá egy pillantást az öreg Smitty!}
 {281}{}{Persze, itt van.}
 {282}{}{Meggondoltam magam, hadd kérdezzek valami mást!}
 {283}{}{Talán legközelebb. Viszlát, Smitty!}
 {300}{}{Hát, ez úgy néz ki, mint egy régi üzemanyag-cella vezérlõ. Hmm, fogadok, hogy az öreg Highwayman úgy fog ettõl dorombolni, mint egy kiscica.}
-{301}{}{Hogy?}
+{301}{}{Nahát...}
 {310}{}{Hmm, ez úgy néz ki, mint egy üzemanyag-cella szabályozó. Ha lenne egy mûködõképes autóm, biztosan csökkentené a fogyasztását.}
-{311}{}{Hogy?}
+{311}{}{Nahát...}
 {320}{}{Ez elképesztõen kedves volt tõled. Köszönöm mucho, compadre. Tessék, egy kis semmiség cserébe. Jól jöhet ez manapság. (Ad egy Stimpakkot.)}
 {321}{}{Köszönöm, Smitty. Probléma egy szál se. Viszlát!}
 {322}{}{Nos, öööö... Köszönöm, de már voltam a Mamánál, és kajáltam is, úgyhogy erre már nincs szükségem.}
 {323}{}{Hoppá, nem én vagyok a szokásos kihordó fiú. Éppen megbetegedett. Azért kaphatok néhány tapasztalati pontot?}
-{324}{}{Oké, elnézést a zûrzavarért. Remélem, a Mama nem fog kirúgni! Nagyon kell ez a meló.}
+{324}{}{OK, sorry about the mix-up. I hope Mom doesn't fire me! I really need this job.}
 {325}{}{Tudod, hogy nálunk már nem megy ez az ingyen-kaja-éjfél-után dolog, ugye?}
 {326}{}{Na, akkor megeszem én.}
 {327}{}{A Mama nem lesz túl boldog ettõl.}
 {330}{}{Amint láthatod, ez az autóm, egy Chrysalis Motors Highwayman. Gyönyörû. Régen azt mondták "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, így tervezték õket.}
 {331}{}{Aha, és mit csináljak vele?}
 {340}{}{Azt hittem, csak egy aksi kell bele, de kiderült, hogy egy üzemanyag-cella vezérlõre van szükség. Ezek a vackok állandóan elromlanak bennük.}
-{341}{}{Nos, éppen van egy olyan}
+{341}{}{Well, I've got one of those.}
 {350}{}{Rendben? Van egy ajánlatom. 2000 dollárért tiéd az autó. Ráadásul még az üzemanyag-cella vezérlõt is beszerelem neked. Olyan lesz, mint új korában. Sõt, akár fel is töltöm néhány mikro-fúziós cellával.}
 {351}{}{Jól hangzik. Tessék, a pénz, és az alkatrész.}
 {352}{}{Azt hiszem, most még nem akarom. Hadd kérdezzek valami mást, Smitty!}
@@ -53,7 +52,7 @@
 {370}{}{Bánj vele finoman, amíg bemelegszik!}
 {371}{}{Oké, úgy lesz. Köszi, Smitty!}
 {380}{}{Az a helyzet, hogy sokat is meg nem is.}
-{381}{}{Hogy?}
+{381}{}{Nahát...}
 {390}{}{Csak azt mondtam, hogy a szabályozó jó dolog, de kell hozzá egy üzemanyag-cella vezérlõ is.}
 {391}{}{Miért?}
 {400}{}{Mert ha van egy vezérlõd, és 2000 dollárod hozzá, akkor meg tudom javítani ezt a Highwaymant, és mehetsz vagánykodni vele.}
@@ -71,7 +70,7 @@
 {451}{}{Áll az alku, Smitty. Itt az alkatrész és a pénz.}
 {452}{}{Gondolkodnom kell rajta, Smitty. Viszlát!}
 {460}{}{Leginkább csak erre a szemétkupacra vigyázok. Egy dolog van csupán, ami megéri az itt gubbasztást.}
-{461}{}{Mi az?}
+{461}{}{Mi van?}
 {462}{}{Kitaláltam magamtól. Hadd kérdezzek valami mást!}
 {470}{}{Ez nem más, mint egy Chrysalis Motors Highwayman. Régen azt mondták rá, "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, mondhatom.}
 {471}{}{Ejha, mûködik?}

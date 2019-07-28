@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{Egy halálra rémült utazót látsz.}
 {101}{}{A kereskedõ testõrét látod.}
 {200}{}{A fõnök közelében ne nyúlj a fegyveredhez!}

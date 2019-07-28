@@ -1,4 +1,3 @@
-# Dialog Editor last position: 194
 {100}{}{Õ a Wrighték egyik gyermeke.}
 {150}{}{Egy apró, fekete hajú gyerek áll elõtted.}
 {151}{}{Egy apró, fekete hajú leányzó áll elõtted. A haját olyannyira rövidre nyírták, hogy simán össze lehetne téveszteni egy fiúval.}
@@ -7,10 +6,10 @@
 {157}{}{A kislány a nyelvét ölti rád.}
 {158}{}{A kislány haját olyan rövidre nyírták, hogy az esetében nyugodtan használhattuk a fiúgyerek modellt.}
 {159}{}{A kislány bambán bámul rád.}
-{175}{}{A Fallout 2. részét a Z betûnek köszönhetjük.}
+{175}{}{A Fallout 2-t a Z betûnek köszönhetjük.}
 {176}{}{Hé! }
 {177}{}{}
-{178}{}{Köszönjük, hogy megmentettél minket, }
+{178}{}{Kösz, hogy megmentettél minket, }
 {179}{}{Ha felnövök, én is meg akarom menteni a világot, akárcsak te.}
 {180}{}{Ha felnövök, én is lehetek olyan hõs, mint te?}
 {181}{}{A példaképem }
@@ -18,8 +17,8 @@
 {191}{}{Hogy mész pisilni abban a vacakban?}
 {192}{}{Léééégysziiii, hadd üljek a nyakadba!}
 {193}{}{Gyere játszani velünk! Légyszi, légyszi!}
-{200}{}{Ha apu meglát, jobb, ha elfutsz!}
-{201}{}{Ha a bátyáim meglátnak, jobb ha elfutsz!}
+{200}{}{Jobban teszed, ha elfutsz, mielõtt apu észrevesz.}
+{201}{}{Jobban teszed, ha elfutsz, mielõtt a testvéreim észrevesznek.}
 {202}{}{Rossz ember vagy. Jobban teszed, ha elmész, mielõtt beköplek.}
 {210}{}{Látlak! Látlak!}
 {211}{}{Bújócskát játszol? Hadd szálljak be én is...}
@@ -42,13 +41,13 @@
 {292}{}{Ha felnövök, olyan akarok lenni, mint te.}
 {293}{}{Mér akarol én lenni? Én BUTA}
 {294}{}{Eccer én hordtam lányfejet mint sapka}
-{295}{}{Otthagyod}
+{295}{}{[Wander off]}
 {296}{}{Hehe. Hát köszi szépen, tökmag. De azért fogadj meg egy tanácsot }
 {297}{}{Az álmok valóra válhatnak. Elérheted a céljaidat! Én vagyok rá az élõ példa.}
 {298}{}{Hát persze. Az a helyzet, hogy sajnálattal hallottam Richie testvéred esetét. Tudod, mi történt vele?}
 {299}{}{Egyszer három államon keresztül hajtottam végig, és fejfedõként hordtam egy ilyen kislány fejét.}
-{300}{}{(Hagyod a srácot, hogy tovább játsszon.)}
-{301}{}{(Hagyod a kislányt, hogy tovább játsszon.)}
+{300}{}{[Let him go back to playing.]}
+{301}{}{[Let her go back to playing.]}
 {310}{}{(Fejét ingatja) OKOS VAGY! HÕS és BÁTOR vagy és ha felnövök, olyan akarok lenni, mint TE! Köszi, hogy megmentettél minket, }
 {311}{}{Köszi, kis ember. }
 {315}{}{Oké, }
@@ -73,12 +72,13 @@
 {361}{}{Sírva elrohansz}
 {370}{}{Te vagy legbutább! Te vagy legbutább!}
 {395}{}{HATÖKÖR! (A gyerek elrohan, a nevetése pedig fájdalmasan cseng tovább a füledben.)}
-{396}{}{Én nem akar beszélni veled... *szipogsz* ...lesz... *szipogsz* ...lesz zsúr... és lesz *szipogsz* TORTA meg JÉGKRÉM... de te nem jöhetel. [Otthagyod.]}
+{396}{}{Me no want to talk to you ANYWAY... *snfff*... me... *snfff*... have a PARTY...
+ with *snfff* CAKE and ICE CREAM... and YOU can't come [Leave.]}
 {405}{}{(A gyerek pislog, kinyitja a száját, aztán becsukja. Könny csordul ki a szemébõl, aztán zokogásban tör ki.)}
 {406}{}{Hihi Én nyertem}
 {410}{}{Óh. (Egy pillanatra elgondolkodik, aztán rádsandít.) Mér nem vagy robot?}
 {411}{}{Öö... mert... hát, a robotoknak meg az embereknek különböznek a... ööö... az alkatrészeik.}
-{412}{}{Most mennem kell.}
+{412}{}{Mennem kell.}
 {425}{}{Ó, igen? (Gyanakvónak tûnik.) Úgymint?}
 {426}{}{Öö... hát... tökmag, anyukád meg apukád nem magyarázta ezt el neked?}
 {427}{}{Öö... hát... Hogy elment az idõ, most mennem kell!}
@@ -123,7 +123,7 @@
 {570}{}{Akarsz énekelni?}
 {571}{}{Énekelni?}
 {575}{}{Ismered azt a dalt, hogy "Mindannyian az Õ kezében vagyunk"?}
-{576}{}{Igen, ismerem.}
+{576}{}{Igen.}
 {580}{}{::Énekel:: "Mindannyian az Õ kezében vagyunk. Mindannyian az Õ kezében vagyunk." Gyerünk, énekelj már!}
 {581}{}{::Énekelsz:: "Mindannyian az Õ kezében vagyunk. Mindannyian az Õ kezében vagyunk"}
 {585}{}{::Együtt énekeltek:: "Mindannyian az Õ kezében vagyunk. Mindannyian az Õ kezében vagyunk"}
@@ -131,7 +131,7 @@
 {590}{}{(A gyerek rádpislog.)}
 {591}{}{Jól van akkor. Késõbb beszélünk.}
 {595}{}{(A gyerek elszalad.)}
-{648}{}{Óh.}
+{648}{}{Ejha!}
 {650}{}{Igazán? Mesélj valamit...}
 {665}{}{Az ott egy IGAZI ghoul?}
 {666}{}{Gúúl?}
@@ -193,22 +193,22 @@
 {933}{}{Amióta Richie testvérem meghalt, Mami nagyon szomorú.}
 {934}{}{Mami már megint templomban van.}
 {935}{}{A mi családunk a legjobb.}
-{936}{}{Pfffff}
+{936}{}{Phfttttt!}
 {937}{}{Fingfejû! Fingfejû!}
 {938}{}{Nick bácsi szerint nincs szükség a szitkozódásra. Nick bácsinak többet kéne látni a világból.}
 {939}{}{Akarsz játszani "Adj Hajcsár Törzsbélit"?}
 {940}{}{Tizenheten vagyunk testvérek. Lányok, fiúk vegyesen.}
-{941}{}{Eeeiiiijjjjjjjjjjjjj}
+{941}{}{Wheeeeeeee!}
 {942}{}{Most te jössz!}
 {943}{}{Te rühös vagy!}
 {944}{}{Úgy nézel ki, mint egy radskorpió!}
 {945}{}{Megkérdezem aput, hogy lehetek-e kurva, ha felnövök. Azt szokta mondani, hogy nagy szüksége lenne egyre.}
 {946}{}{Ha nagy leszek, kurva akarok lenni. Apu azt szokta mondani, hogy egyre többre van szükség.}
 {947}{}{Nekem vaginám van.}
-{1176}{}{! Meséld el az Enklávés sztorit! Légyszíves!}
-{1177}{}{! Jaaaaaaj!}
+{1176}{}{! Meséld el nekünk az Enklávés sztorit! Lééééégysziii!}
+{1177}{}{! Ajjaj!}
 {1178}{}{!}
-{1181}{}{ ha felnövök.}
+{1181}{}{ akarok lenni, ha felnövök.}
 {1296}{}{ barátodtól: Ha felnõsz, BÁRMI lehet belõled.}
 {1310}{}{. SOSEM felejtelek el!}
 {1311}{}{ érez jobban. Örülni hogy megment tégedet.}

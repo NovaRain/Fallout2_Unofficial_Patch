@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy koszos, izmos férfit látsz.}
 {101}{}{Connar-t látod.}
 {102}{}{Hé te! Mit csinálsz?}
@@ -28,7 +27,7 @@
 {126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár lõfegyverünk, azt hiszem, elbírnánk velük.}
 {127}{}{Milyen fegyverekre gondolsz?}
 {128}{}{Hát, én jól bánok a sörétessel és van pár emberem, akik  boldogulnak az uzival. Szerintem három darab elég lenne.}
-{129}{}{Meglátom mit tehetek.}
+{129}{}{Megnézem, mit tehetek.}
 {130}{}{Nem vagy közénk való. Tünj el!}
 {131}{}{Meggondoltam magam. Tudok segíteni?}
 {132}{}{Aha, a legjobb ha minél hamarabb lelépsz.}
@@ -37,9 +36,9 @@
 {135}{}{Mi kell már megint?}
 {136}{}{Ja, itt vannak.}
 {137}{}{Kell három uzi és egy sörétes puska. Minél elõbb, annál jobb.}
-{138}{}{Rendben.}
+{138}{}{Oké.}
 {139}{}{Most végre kezdhetünk valamit ezzel a hellyel. Ha kell egy vacok ahol meg akarsz pihenni, mi mindig szívesen látunk.}
-{140}{}{Üdvözöllek.}
+{140}{}{Szóra sem érdemes.}
 {141}{}{Üdv újra. Jól mennek a dolgok, épp a falu bõvítésén dolgozunk.}
 {142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van idõd!}
 {143}{}{Még mindig épitkezünk. Ha minden jól megy, jövõ hónapban megemeljük a falakat.}

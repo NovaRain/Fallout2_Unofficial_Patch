@@ -1,4 +1,3 @@
-# Dialog Editor last position: 419
 {100}{}{Ez itt egy renói lakos.}
 {150}{}{Egy szakadt kinézetû embert látsz. Unatkozik.}
 {151}{}{Egy szakadt kinézetû embert látsz. Bamba képpel bámul.}
@@ -14,16 +13,16 @@
 {165}{}{Egy szakadt kinézetû nõt látsz. Amikor elkapja a tekinteted, viszolyogva néz rád.}
 {200}{}{::Tapsol::}
 {201}{}{::Éljenez::}
-{202}{}{Nem semmi, hogy lenyomtad azokat az Enklávés barmokat! Nem semmi!}
-{203}{}{Nem semmi, hogy szétzúztad az Enklávét, }
+{202}{}{Nem semmi, hogy felperzselted azokat az Enklávés barmokat! Nem semmi!}
+{203}{}{Király, hogy lezúztad az Enklávét.}
 {204}{}{Gratula, hogy letapostad az Enklávét, }
 {205}{}{Gratula, hogy letapostad az Enklávét, }
-{215}{}{Öö... Menjen elõle mindenki!}
+{215}{}{Öö... menjetek az útjából!}
 {216}{}{Nézzétek... nem tudom, ki fia-borja, de borsódzik tõle a hátam.}
 {217}{}{Szerinted az az izé rajtad visszatart valakit?}
 {218}{}{Pokoli egy test! Öö, úgy értem a páncél alatt.}
 {219}{}{Menjetek az útjából!}
-{220}{}{Egy veszélyes kinézetû dologról beszéln...}
+{220}{}{Egy veszélyes kinézetû alakról beszéln...}
 {221}{}{*Nyel egyet*}
 {222}{}{Asszem, az a Robot Robi leszkennelt engem.}
 {223}{}{Az a sétáló tank rámnézett, és majd meghaltam! Na, akkor én gyorsan leléptem...}
@@ -40,14 +39,14 @@
 {249}{}{::Tapsol, fütyül::}
 {255}{}{Azta! Ezt nézzétek!}
 {256}{}{Van ember, aki rá meri vetni a szemét?}
-{257}{}{::Ajkaival a "francba" szót formázza::}
+{257}{}{::Szájával a "francba" szót formázza::}
 {258}{}{TUDTAM, hogy borotválkoznom kellett volna reggel.}
 {259}{}{Gyere, csevegjünk már egy kicsit, édeske!}
 {260}{}{Még az a törzsbéli csöcs! Berosálok!}
 {261}{}{Nézd már azt lökhárítót azon a törzsbélin!}
 {262}{}{Ott az én nyájam legszebb példánya.}
 {263}{}{Annak a nõnek a kedvéért megfürdenék.}
-{264}{}{Nálam megtalálod a saját aranybányádat.}
+{264}{}{Itt van a te különbejáratú aranybányád.}
 {265}{}{Vigyázz szét ne ess!}
 {266}{}{Ez az, ne hagyd abba!}
 {267}{}{::Fütyül::}
@@ -61,7 +60,7 @@
 {275}{}{Szeretnék a bugyija lenni.}
 {276}{}{Bizony megszagolnám a sortját...}
 {277}{}{Az ott nagyon dögös egy nõ.}
-{278}{}{Francba. Csupa ív... addig bámulom, míg kisodródok.}
+{278}{}{Francba. Micsoda ívek... addig bámulom, míg kisodródok.}
 {279}{}{Figyeld már, milyen mellszerkezete van a csajnak!}
 {280}{}{Nézd már azt a didkót!}
 {281}{}{De szívesen belenéznék a nagy, barna szemeibe.}
@@ -70,13 +69,13 @@
 {284}{}{Ilyen mellekkel biztos fáj a háta.}
 {285}{}{Nem is tûnsz olyan keménynek, Mr. Bunyós.}
 {286}{}{20 dollárt tettem rád!}
-{287}{}{Hé, bajnok! Az utolsó bunyód fenomenális volt!}
-{288}{}{Láttalak küzdeni a szorítóban. Király jobb horgokat nyomtál.}
-{289}{}{Ugye nem fogsz lefeküdni a ringben? 30 dolcsit tettem rád.}
+{287}{}{Hé, bajnok! Király volt az utolsó meccsed!}
+{288}{}{Láttalak bunyózni a ringben. Iszonyat jobb horgod van!}
+{289}{}{Ugye nem akarsz lefeküdni a ringben? 30 dolcsit tettem rád.}
 {290}{}{Mennyit nyomsz fekve?}
 {291}{}{Hol edzel?}
-{292}{}{Vigyázz a Húsdarálóval. Imádja a füleket!}
-{293}{}{Ha nem az ellenfeledre fogadtam volna, maradt volna pénzem és hozhatnék neked egy italt.}
+{292}{}{Vigyázz a Húsdarálóval! Imádja a füleket!}
+{293}{}{Meghívnálak egy italra, de az ellenfeledre fogadtam, és elbuktam az összes pénzem.}
 {294}{}{Nem is tûnsz olyan keménynek, Mr. Balhorog.}
 {295}{}{Megnézhetem a befeszített hasizmodat?}
 {300}{}{Menjen mindenki az útjából!}
@@ -134,27 +133,27 @@
 {355}{}{Ez egy remek város... a turistákat leszámítva.}
 {356}{}{Ez egy remek város... a hajcsárokat leszámítva.}
 {357}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
-{365}{}{Az ott valami pénzbedobós automata, ami folyton utánad lohol?}
-{366}{}{Az ott egy robot pénzbedobós automata?}
-{367}{}{A robotod tud trükköket? Ööö... úgy értem bûvésztrükköket.}
-{375}{}{Mondd, hogy az ott nem egy mutáns!}
+{365}{}{Az a valami ott a nyomodban nem valami pénznyerõ automata?}
+{366}{}{Az ott nem egy robot pénznyelõ automata?}
+{367}{}{A robotod tud trükköket? Ööö... úgy értem, bûvésztrükköket.}
+{375}{}{Jól látok? Az ott egy mutáns?}
 {376}{}{Az ott egy mutáns?}
 {377}{}{Szentséges fosrakás! Mutánsok New Renóban. Ez bajt jelent.}
-{378}{}{Az a mutáns aztán szép darab...}
+{378}{}{Az a mutáns egy jó nagy kib...}
 {379}{}{Mocskos mutáns-bérenc...}
-{385}{}{A barátodnak farok szorult az orrába.}
+{385}{}{A barátodnak farok nõtt az orrába.}
 {386}{}{A csapatodban mindenkinek farkakat kell dugdosni az orrába, hogy bizonyítsa a rátermettségét?}
 {387}{}{Az a fickó a "dugjatok-farkat-a-cserpákomba" törzsbõl származik?}
 {388}{}{Az a farokorrú fickó azt akarja bebizonyítani, hogy soha nem akar civilizált ember lenni?}
 {389}{}{Annak a fickónak farok van az orrában?}
-{390}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Atyaég...}
+{390}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Te jószagúúú...}
 {391}{}{Nem akarom tudni, hogy az a farok milyen módon került a barátod orrába.}
 {392}{}{Nagyszerû! Már megint egy ungabunga szartaposó.}
 {393}{}{Mégis hány barlanglakó akar még ebbe a városba jönni?}
 {394}{}{Na, egy újabb fõemlõs.}
 {395}{}{A srác a Golgotán fog kikötni.}
 {396}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jövõ bûztõl...}
-{397}{}{Francos turisták...}
+{397}{}{Gyökér turisták...}
 {398}{}{Ennyit az én rohadt szerencsémrõl...}
 {399}{}{Azt mondják, egy csomó új rabszolgájuk van.}
 {400}{}{Biztos jó munkásember... teccikérteni...}
@@ -173,7 +172,7 @@
 {413}{}{Tullyt már megint az árokparton láttam beájulva.}
 {414}{}{Rohadt füves!}
 {415}{}{Az ott nem idevalósi.}
-{416}{}{El kéne húznom ebbõl a városból.}
+{416}{}{El kéne tûnnöm ebbõl a városból.}
 {417}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
 {418}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
 {419}{}{Minek ez a nagy követelõzés?}
@@ -182,7 +181,7 @@
 {422}{}{Ez egy remek város... a turistákat leszámítva.}
 {423}{}{Ez egy remek város... a hajcsárokat leszámítva.}
 {424}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
-{425}{}{Nem eladó az asszonyod?}
+{425}{}{Nem adod el az asszonyodat?}
 {426}{}{Mennyiért adod a nõdet?}
 {427}{}{Nagyon csinos a nõd.}
 {428}{}{Tud fõzni az asszonyod? Ha igen, magammal viszem.}
@@ -217,7 +216,7 @@
 {474}{}{Tullyt már megint az árokparton láttam beájulva.}
 {475}{}{Rohadt füves!}
 {476}{}{Az ott nem idevalósi.}
-{477}{}{El kéne húznom ebbõl a városból.}
+{477}{}{El kéne tûnnöm ebbõl a városból.}
 {478}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
 {479}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
 {480}{}{Minek ez a nagy követelõzés?}
@@ -237,14 +236,14 @@
 {496}{}{Érzem, hogy valami háborog... mintha több száz gonosz pöcsfej kiáltott volna fel végsõ kétségbeesésében egy olajfúrótornyon, aztán néma csend lett. Különös.}
 {497}{}{Gratula, hogy letapostad az Enklávét, }
 {498}{}{Ezt a játékot a Z betûnek köszönhetjük.}
-{499}{}{Tim Cain nagyon hiányzik. Csodálatos cipókat tudott sütni. Utána úgy fenekelt el bennünket, mint a gyerekeket.}
+{499}{}{Hiányzik Tim Cain. Csodás cipókat sütött régen. Aztán elfenekelt bennünket, mint a gyerekeket.}
 {500}{}{Igen, igen, én is Avatar vagyok.}
 {501}{}{New Renót Chris Avellone és Tom French tervezte. Azt rebesgetik, hamarosan megnõsülnek.}
 {502}{}{Feargus, amikor meglátta, mennyi felúszó szövegem van, a homlokát ráncolta. Mellesleg Bassman is húzta a száját.}
 {503}{}{A lehetséges 208-ból 192 pontot szereztél. A mutálódott lábujjat használnod kellett volna Horrigan-en.}
 {510}{}{Robi testvéredet keresed? Tudod, a Robot... na mindegy, hagyjuk.}
-{511}{}{Bocsi, útban voltam? Elhúzok inkább a városból.}
-{512}{}{Bocs, elszívtam elõled a levegõt? Abbahagyom.}
+{511}{}{Bocsánat, hogy útban voltam! Elhúzok inkább a városból.}
+{512}{}{Bocsánat, hogy elszívtam ön elõl a levegõt! Rögvest abbahagyom.}
 {513}{}{::Kopogtat a páncélodon:: Van valaki odabenn?}
 {514}{}{"Veszélyben a Robinson család! Veszélyben a Robinson család!" Hehe... ööö... csak vicceltem.}
 {515}{}{Kiráááály ez a páncél! Van benne légkondi?}
@@ -273,7 +272,7 @@
 {552}{}{Hát megszagolnám a sortodat...}
 {553}{}{Nagyon dögös egy csajszi vagy ám.}
 {554}{}{Javíts ki, ha tévednék, de nem akarsz megcsókolni?}
-{555}{}{Francba. Csupa ív... addig bámulom, míg kisodródok.}
+{555}{}{Francba. Micsoda ívek... addig bámulom, míg kisodródok.}
 {556}{}{Tudod mi állna jól rajtad? Én.}
 {557}{}{Lehet, hogy a bugyid nem a legjobb dolog a világon, de nem sok választ el tõle.}
 {558}{}{Szép didkók!}
@@ -325,14 +324,14 @@
 {634}{}{El kéne tûnnöm ebbõl a városból.}
 {635}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
 {636}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{637}{}{Ne zaklass!}
+{637}{}{Ne piszkálj!}
 {638}{}{Figyelj, most nincs idõm beszélgetni.}
 {650}{}{A barátodnak farok nõtt az orrába.}
 {651}{}{A csapatodban mindenkinek farkakat kell dugdosni az orrába, hogy bizonyítsa a rátermettségét?}
 {652}{}{Az a fickó a "dugjatok-farkat-a-cserpákomba" törzsbõl származik?}
 {653}{}{Az a farokorrú fickó azt akarja bebizonyítani, hogy soha nem akar civilizált ember lenni?}
 {654}{}{Annak a fickónak farok van az orrában?}
-{655}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Atyaég...}
+{655}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Te jószagúúú...}
 {656}{}{Nem akarom tudni, hogy az a farok milyen módon került a barátod orrába.}
 {657}{}{Gyûlölöm ezt az istenverte várost.}
 {658}{}{Túl régóta vagyok ebben a városban.}
@@ -365,7 +364,7 @@
 {685}{}{El kéne tûnnöm ebbõl a városból.}
 {686}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
 {687}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{688}{}{Ne zaklass!}
+{688}{}{Ne piszkálj!}
 {689}{}{Figyelj, most nincs idõm beszélgetni.}
 {690}{}{Õ a "nejed"? Kölcsönkérhetem egy-két órára?}
 {691}{}{Nincs kedved feleséget cserélni?}
@@ -409,12 +408,12 @@
 {731}{}{El kéne tûnnöm ebbõl a városból.}
 {732}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
 {733}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{734}{}{Ne zaklass!}
+{734}{}{Ne piszkálj!}
 {735}{}{Figyelj, most nincs idõm beszélgetni.}
 {736}{}{Ki kéne mennem a külvárosba megnézni, vannak-e új férfiak...}
 {737}{}{Örülök, hogy helyrerakták azt a srácot...}
 {1203}{}{!}
-{1204}{}{! Király vagy! KIRÁLY VAGY!}
+{1204}{}{! Király vagy! KIRÁLY vagy, mint Linda!}
 {1205}{}{! Annyira TUDSZ!}
 {1493}{}{!}
 {1497}{}{! Király vagy! KIRÁLY vagy, mint Linda!}

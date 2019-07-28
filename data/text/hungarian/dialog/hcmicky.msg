@@ -9,16 +9,16 @@
 {108}{}{Hínak hogy?}
 {109}{}{Viszlát!}
 {110}{}{Nem, sajnos. De ha találok valamit, azonnal szólok neked.}
-{111}{}{Nos, éppenséggel igen. Azt hiszem, tökéletes partner lennél egy, mondjuk úgy, "közös vállalkozáshoz".}
+{111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
 {112}{}{Hogy hívnak?}
-{113}{}{Felejtsd el!}
-{114}{}{Engem? Micky vagyok, Broken Hills lelkes és kedves kincsvadásza.}
+{113}{}{Értem.}
+{114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
 {115}{}{Vaddász?}
-{116}{}{Pá-pá.}
+{116}{}{Viszlát!}
 {117}{}{Kincsvadász?}
 {118}{}{Milyen aranyos! Na, viszlát!}
 {119}{}{Ne mondd, hogy nem hallottál még rólam! Soha nem meséltek neked Fürge Mickyrõl? A csodás tûzpárbajairól, a nehéz ökölcsapásairól és a hatalmas zsákmányokról?}
-{120}{}{Nem.}
+{120}{}{Nm.}
 {121}{}{Attól tartok, kimaradtam belõle.}
 {122}{}{Hát, akkor rengeteg mindenbõl maradtál ki, barátom. Egyszer el kell, hogy meséljek neked mindent, egészen a vérfagyasztó részletekig.}
 {123}{}{Szupiii!}

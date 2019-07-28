@@ -1,5 +1,4 @@
-# Dialog Editor last position: 1
-{100}{}{Egy bokszoló.}
+{100}{}{Bokszoló.}
 {150}{}{Egy fekete fickót látsz iszonyat izmokkal. Úgy néz ki, mint aki épp most fejezte be az edzést.}
 {151}{}{Egy óriási fekete embert látsz magad elõtt. Nem viccelek, tényleg ÓRIÁSI.}
 {152}{}{Úgy néz ki, mint aki épp most fejezte be az edzést.}
@@ -10,7 +9,7 @@
 {157}{}{Ezt az embert majdnem összetévesztetted egy kisebb heggyel.}
 {158}{}{Õ aztán nagy. Nagggyon-naaaaagy.}
 {159}{}{Csukott szájjal vigyorog rád.}
-{160}{}{Egy láthatatlan ellenfelet ütöget és a foga közt szitkokat szór a levegõbe.}
+{160}{}{Egy láthatatlan ellenfelet ütöget és a foga közt fenyegetéseket szór a levegõbe.}
 {161}{}{Egy pillanatra megzavarodik, mintha elfelejtette volna, fiú-e vagy lány, aztán elmosolyodik és megvakarja a fejét.}
 {162}{}{Guggolásokat végez.}
 {163}{}{Egy jókora fehér fickót látsz. A karjai olyanok, mint a fatörzs.}
@@ -21,24 +20,24 @@
 {168}{}{Úgy néz rád, mint egy bokszzsákra.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Feszít egyet::}
+{202}{}{::Befeszít::}
 {203}{}{::Az ökölvívó rémült szemekkel néz rád::}
 {204}{}{Egenuram?}
 {205}{}{Nem adod kõcsön a fhogsorod?}
 {206}{}{Kell a fekvenyomó pad?}
-{207}{}{Öh-öhh}
+{207}{}{Aha.}
 {208}{}{::Hülyén bólogat mindenre, amit mondasz::}
 {209}{}{Te lenni nagy. Én pici.}
 {210}{}{Te szívós. Én gyenge}
-{211}{}{Én éhes.}
+{211}{}{Éhes lenni.}
 {212}{}{Én nem szeret beszéd}
 {213}{}{Te vagy jó szagúúú}
 {214}{}{Szagod olyan, mint Maminak}
 {215}{}{Elég duma. Menni ágyba.}
 {216}{}{::Csukott szájjal mosolyog::}
 {217}{}{::Vakaródzik::}
-{218}{}{::Feszeget::}
-{219}{}{::Horkant::}
+{218}{}{::Befeszít::}
+{219}{}{Horkant}
 {220}{}{Bunyózunk?}
 {221}{}{Õrûjj meg õrûjj meg õrûjj meg}
 {222}{}{Fóó-kussz Fóó-kussz}
@@ -71,7 +70,7 @@
 {335}{}{Nem fáj, nem fáj, nem fáj...}
 {340}{}{Ezt kapd ki!}
 {341}{}{Akarsz még egy ilyet?!}
-{342}{}{Rohadék!}
+{342}{}{Kurva!}
 {343}{}{Most megvagy!}
 {344}{}{Reggelire kommandósokat eszek.}
 {345}{}{Adokénneked!}

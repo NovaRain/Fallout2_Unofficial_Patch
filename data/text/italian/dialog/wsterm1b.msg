@@ -34,5 +34,4 @@
 {138}{}{Esci}
 {139}{}{Accesso non Autorizzato                                          Inizio blocco di sicurezza del terminale remoto in corso...    L'accesso dell'utente a questo terminale e' stato TERMINATO}
 {140}{}{Esci}
-
 {200}{}{Il computer e' in modalita' diagnostica. Attendere il completamento della sequenza diagnostica.}

@@ -5,7 +5,7 @@
 {104}{}{Che io sia dannato. Pare che l'evoluzione possa andare anche al contrario.}
 {105}{}{Non hai tutte le rotelle al loro posto, eh?}
 {106}{}{Non ho tempo da perdere con te. Si vede lontano un miglio che nella tua padella manca qualche fagiolo di troppo.}
-{107}{}{Al tuo circo mancano un paio di clown, eh?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Ehila'. Io sono "Dangerous" Dan McGrew. Sono il proprietario della Miniera Morningstar. Cosa posso fare per te?}
 {109}{}{Che cosa vuoi da me?}
 {110}{}{Che cosa estraete qui?}
@@ -57,7 +57,7 @@
 {156}{}{Interessante. Lascia che ti chieda qualcos'altro, Dan.}
 {157}{}{Devo proprio scappare, Dan. Ci vediamo.}
 {158}{}{Cazzo; in citta' c'e' troppo Jet. Stiamo annegando in quella roba. Nessuno ha voglia di lavorare; vogliono soltanto sballare. Non posso seguire la tabella di marcia se meta' dei miei dannati minatori sono strafatti di Jet! Che Dio maledica quel Johnson.}
-{159}{}{Chi e' Johnson?}
+{159}{}{Chi e' il dottor Johnson?}
 {160}{}{Sembrerebbe un bel problema. Lascia che ti chieda qualcos'altro, Dan.}
 {161}{}{Sara' meglio che vada, Dan. Ci vediamo.}
 {162}{}{La maggior parte dei miei minatori che erano dei veri "piloti" di Jet hanno preso una bella botta. L'ultima partita che il dottor Johnson ha distribuito doveva essere proprio pessima.}
@@ -68,16 +68,16 @@
 {167}{}{Chi e' il dottor Johnson?}
 {168}{}{Interessante. Lascia che ti chieda qualcos'altro, Dan.}
 {169}{}{Sara' meglio che io mi eclissi, Dan. Ci vediamo.}
-{170}{}{Perche' io sono il piu' grande, il piu' tosto topo di miniera, scava-buche e faccia di bronzo che ci sia da queste parti. *Dangerous* Dan McGrew; esatto, proprio io.} ###???Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck in these here parts
+{170}{}{Perche' io sono il piu' grande, il piu' tosto topo di miniera, scava-buche e faccia di bronzo che ci sia da queste parti. *Dangerous* Dan McGrew; esatto, proprio io.}
 {171}{}{Capisco... lascia che ti chieda qualcos'altro, "Dangerous" Dan.}
 {172}{}{Non mi sembri poi cosi' in gamba.}
 {173}{}{Sembri davvero un tipo tosto. Beh, non vorrei rubarle ulteriormente del tempo prezioso, signor Dangerous. Arrivederci.}
-{174}{}{Da queste parti, quelle sono parole di sfida. Sei pronto a confermare quello che hai detto con i fatti?} ###???Them's fightin' words in these here parts. You ready to back that up
+{174}{}{Da queste parti, quelle sono parole di sfida. Sei pronto a confermare quello che hai detto con i fatti?}
 {175}{}{Si', sono pronto. Hai aperto la tua fogna fin troppe volte. In guardia... pellegrino.}
 {176}{}{Lo farei se pensassi che la tua morte mi darebbe abbastanza soddisfazione da ripagare le munizioni che servirebbero per ucciderti.}
 {177}{}{Lo farei, se lo volessi. Ma al momento sono troppo occupato per prendermela con te.}
 {178}{}{Gia'... e' proprio come pensavo... (fa una pausa) Te la stai facendo sotto.}
-{179}{}{Tu invece te la farai sopra... quando ti avro' tirato fuori l'intestino. Ti sto sfidando.} ###???I'm a-callin' you out
+{179}{}{Tu invece te la farai sopra... quando ti avro' tirato fuori l'intestino. Ti sto sfidando.}
 {180}{}{La vedremo... prima o poi. Per adesso... addio.}
 {181}{}{Un Kit di Creazione per il Giardino dell'Eden? Non ho mai sentito parlare di una cosa del genere. Preferisco cercare il mio Eden tra le dolci braccia di Lou.}
 {182}{}{Ma Lou non e' un nome maschile?}
@@ -85,14 +85,14 @@
 {184}{}{La ricerca continua. Ci vediamo.}
 {185}{}{Lo e' quando non e' l'abbreviazione di Louisa, ed e' questo il caso della mia Lou. E' la proprietaria del Saloon Malamute, qui in citta'. Ehi, cos'e' che volevi dire?}
 {186}{}{Uh... niente, Dan. Proprio niente. Lascia che ti chieda qualcos'altro.}
-{187}{}{Nulla. Stavo solo pensando ad una cosa, tutto qui. Ciao, pisellino.} ###???Just figuring out something, that's all
+{187}{}{Nulla. Stavo solo pensando ad una cosa, tutto qui. Ciao, pisellino.}
 {188}{}{Errore mio. Beh, sara' meglio che me la svigni. Addio.}
 {189}{}{Beh, una cosa e' sicura: mi servirebbe davvero un nuovo chip di controllo per la mia macchina scavatrice.}
 {190}{}{Un nuovo chip per scavatrici? Cos'e'?}
 {191}{}{Lascia che ti chieda qualcos'altro, Dan.}
 {192}{}{Capisco. Beh, se ne trovo uno te lo faccio sapere. Ci vediamo.}
 {193}{}{E' buffo che tra tutte le persone di questo mondo sia proprio tu a chiedermelo. Ci sono stati un sacco di avvenimenti in citta', ultimamente. }
-{194}{}{Come ti ho detto, se c'e' qualcuno che sa cosa sta succedendo in citta' quel qualcuno sei tu. } ###???
+{194}{}{Come ti ho detto, se c'e' qualcuno che sa cosa sta succedendo in citta' quel qualcuno sei tu. }
 {195}{}{Stai parlando del chip di controllo per le macchine scavatrici?}
 {196}{}{Stai parlando di quella faccenda della prostituta sfregiata?}
 {197}{}{Stai parlando di quella rissa che ho sedato?}
@@ -108,7 +108,7 @@
 {207}{}{Non mi interessa quello che pensi tu. Addio.}
 {208}{}{Hai fatto la cosa giusta sbattendo in cella quel bastardo di Hakeswill. Angariava e minacciava i miei minatori, tuttavia non volevano che venisse ucciso a sangue freddo. Sara' meglio vederlo penzolare dalla forca in maniera del tutto legale.}
 {209}{}{Era una situazione delicata, e ho fatto il meglio che potevo. Lascia che ti chieda altre informazioni su quel che succede in citta'.}
-{210}{}{La Giustizia trionfa ancora. Lascia che ti chieda qualcos'altro.} ###???served
+{210}{}{La Giustizia trionfa ancora. Lascia che ti chieda qualcos'altro.}
 {211}{}{Le cose non accadono sempre come si vorrebbe. Addio.}
 {212}{}{Grazie a te che hai ucciso quell'idiota di Hakeswill, adesso i miei minatori sono infuriati.}
 {213}{}{Era una situazione delicata, e ho fatto il meglio che potevo. Lascia che ti chieda altre informazioni su quel che succede in citta'.}
@@ -130,13 +130,13 @@
 {229}{}{Avrei preferito che tu non mettessi dietro le sbarre i miei minatori. Stavano solo scaricando un po' la tensione.}
 {230}{}{Loro hanno cominciato la rissa e io dovevo porvi fine. Lascia che ti chieda altre informazioni su quel che succede in citta'.}
 {231}{}{Avevano bisogno di un po' di tempo per raffreddare i bollenti spiriti. Li potrai riavere tra qualche giorno. Lascia che ti faccia qualche altra domanda.}
-{232}{}{Anch'io avevo bisogno di scaricare un po' la tensione. Arrivederci.} ###???I think I need to let off some steam myself
+{232}{}{Anch'io avevo bisogno di scaricare un po' la tensione. Arrivederci.}
 {233}{}{Ti ringrazio per aver sbattuto in cella quei teppisti Kokoweef che avevano scatenato una rissa ai danni dei miei ragazzi. Quelli della Kokoweef si meriterebbero di rimanere in cella per sempre.}
 {234}{}{Non saprei. Stavano soltanto scaricando un po' di tensione. Lascia che ti chieda altre informazioni su quel che succede in citta'.}
 {235}{}{Credo che questo sia un po' esagerato. Li lascero' al fresco per qualche giorno, cosi' potranno raffreddare i bollenti spiriti. Lascia che ti faccia delle altre domande.}
 {236}{}{Vedi di tener d'occhio anche i tuoi minatori, d'ora in poi. Ci vediamo.}
 {237}{}{Dovevi proprio arrestare ogni dannatissimo minatore della citta'? E adesso chi diavolo lavorera' nella mia miniera?}
-{238}{}{A questo dovevi pensarci prima di permettere ai tuoi minatori di dare in escandescenze. Lascia che ti chieda altre informazioni su quello che succede in citta'.} ###???You should have thought about that before you let them get out of hand
+{238}{}{A questo dovevi pensarci prima di permettere ai tuoi minatori di dare in escandescenze. Lascia che ti chieda altre informazioni su quello che succede in citta'.}
 {239}{}{Questa volta avevano davvero esagerato. Forse e' meglio che tutti voi abbiate un po' di tempo per pensarci su. Lascia che ti chieda qualcos'altro.}
 {240}{}{Bella domanda. Forse dovrei entrare anch'io nel business minerario. Addio.}
 {241}{}{Quel distintivo ti ha dato alla testa. Non c'era bisogno di uccidere qualcuno per sedare una dannata rissa da bar.}
@@ -170,7 +170,7 @@
 {269}{}{Oh, capisco. Beh, questo spiega tutto. Ci devo pensare. Arrivederci.}
 {270}{}{Credo che sia semplicemente la piu' irritabile, crudele e feroce creatura che abbia mai visto. Ha denti lunghi quattro pollici. Oh, volevo dire quattordici pollici. Ma credo che tu possa farcela.}
 {271}{}{Gia', certo. Ci devo pensare. Arrivederci.}
-{272}{}{Spaventoso. Non credo che sia un lavoro adatto a me. Ho gia' le gambe che mi tremano.} knees are knocking
+{272}{}{Spaventoso. Non credo che sia un lavoro adatto a me. Ho gia' le gambe che mi tremano.}
 {273}{}{Fallo tu. 1,000$ non sono bruscolini, amico.}
 {274}{}{Vorrei chiederti altre informazioni su quel che succede in citta'.}
 {275}{}{Ci pensero'. Un po' di denaro in piu' fa sempre comodo.}
@@ -180,7 +180,7 @@
 {279}{}{Diamine... se fossi in te comprerei l'atto di proprieta' di quel posto, ripulirei la miniera, e poi lo rivenderei al sindaco Ascorti. E' lui l'attuale proprietario.}
 {280}{}{Fa' attenzione. Ho davvero bisogno di quel chip.}
 {281}{}{Vorrei chiederti altre informazioni su quel che succede in citta'.}
-{282}{}{Grazie per la dritta. Ci vediamo.}
+{282}{}{Grazie della dritta. Ci vediamo.}
 {283}{}{Doc "indolore" Johnson e' il ciarlatano della citta'. Oh, immagino che conosca qualcosa di medicina, ma non credo che ne sappia troppo. Lo puoi trovare in centro, verso ovest rispetto al Saloon Malamute. Ad ogni modo, e' lui che di solito vende tutte le medicine e la droga che arriva qui in citta'.}
 {284}{}{Le vende tutte lui?}
 {285}{}{Ci vediamo dopo, Dan. Arrivederci.}

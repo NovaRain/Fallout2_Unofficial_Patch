@@ -1,4 +1,4 @@
-{100}{}{Vedi una mercante.}
+{100}{}{Vedi un mercante.}
 {101}{}{Vedi Jenna, la mercante.}
 {102}{}{Vedi una commerciante molto carina.}
 {103}{}{Ciao! Sono Jenna. Posso aiutarti?}
@@ -14,7 +14,7 @@
 {113}{}{Benissimo. Guarda.}
 {114}{}{}
 {115}{}{Ok.}
-{116}{}{Nient'altro?}
+{116}{}{Altro?}
 {117}{}{Si'.}
 {118}{}{No.}
 {119}{}{Bene. Buona giornata a te, allora.}

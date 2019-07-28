@@ -1,6 +1,6 @@
-# Dialog Editor last position: 1
 {100}{}{Kicsiny, takaros termelõ közösség. A környék telis-tele van pusztuló vagy már elhalt gabonamezõkkel.}
 {500}{}{Asszem, mind kinyiffant.}
+{501}{}{All meanie biters dead.}
 {600}{}{Pénzeszacskó.}
 {601}{}{Ez itt egy pénzeszacskó. Valaki kívánni akart valamit, és behajította a kútba.}
 {610}{}{Ez az ÁLMOM, a MINDENEM, és most visszaveszem. Mindet visszaveszem.}

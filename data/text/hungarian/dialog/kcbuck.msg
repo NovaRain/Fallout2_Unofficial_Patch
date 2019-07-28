@@ -1,52 +1,51 @@
-# Dialog Editor last position: 51
-{100}{}{Ez az ember valószínûleg prémvadász.}
-{101}{}{Relaxál.}
-{102}{}{Egy városlakót látsz.}
+{100}{}{Úgy tûnik, õ egy prémvadász.}
+{101}{}{Õ éppen pihenget.}
+{102}{}{Egy helybéli.}
 {103}{}{Egy relaxáló melóst látsz.}
-{104}{}{Egy embert látsz, aki éppen iszogat.}
-{150}{}{Rossz fogadóban vagy, nemde?}
-{151}{}{Nincs szükségünk bajkeverõkre.}
-{152}{}{A törzsbéliek mindig bajt csinálnak.}
-{153}{}{Csak ne igyál túl sok tüzes-vizet...}
-{154}{}{(motyog, dünnyög) ...kijutni a városból...}
-{155}{}{Na, még egy a Dunton bandájából.}
-{156}{}{Mit bámulsz?}
-{157}{}{Menj tovább!}
-{158}{}{Fizess mindenkinek egy kört, jövevény!}
-{159}{}{Remélem, tudsz mértéket tartani.}
+{104}{}{Láthatóan élvezi az italát.}
+{150}{}{Csak nem tévesztetted el a házszámot?}
+{151}{}{Nem kellenek a bajkeverõk!}
+{152}{}{A törzsbéliek csak bajt jelentenek.}
+{153}{}{Csak nehogy sok legyen a tüzesvízbõl!}
+{154}{}{(motyogás) ...húzz el innen...}
+{155}{}{Még egy tag Dunton bandájából.}
+{156}{}{Mit néze'?}
+{157}{}{Haladj szépen tovább!}
+{158}{}{Hívj meg minket egy körre, idegen.}
+{159}{}{Ki ne öntsd a piát!}
 {160}{}{Nem úgy nézel ki, mint egy kannibál.}
-{161}{}{Itt nincs hely a te fajtádnak!}
-{162}{}{Túl sok az idegen mostanában.}
+{161}{}{Itt nincs hely a fajtádnak!}
+{162}{}{Túl sok itt az idegen mostanában.}
 {163}{}{Legalább a te fogaid nincsenek lereszelve.}
-{164}{}{Ott megy a szomszédság.}
-{165}{}{Nem kellene csontnak lenni az orrodban?}
-{166}{}{(rádnéz, aztán csóválja a fejét)}
-{167}{}{(finoman beint)}
-{168}{}{Biztos te okozod a brahmin-csonkításokat.}
-{169}{}{Néhány vadászunk eltûnt és biztosan miattad.}
-{170}{}{Bogáremberek ijesztgetnek a városban.}
-{171}{}{Egy szellem van a kanyonban, északra a várostól.}
+{164}{}{Ez a környék sem a régi már.}
+{165}{}{Nem hiányzik egy csont az orrodból?}
+{166}{}{(rádnéz, aztán csak rázza a fejét)}
+{167}{}{(finoman bemutat egyet)}
+{168}{}{Biztos te is benne vagy a brahmin csonkításokban.}
+{169}{}{Some of our trappers' is gone missing an' you're prob'ly why.}
+{170}{}{Bogáremberek ólálkodnak a város körül.}
+{171}{}{There's a spirit in a canyon east of town.}
 {172}{}{Ne hagyd, hogy elkapjon a járkáló szellem!}
-{173}{}{Jobban teszed, ha békén hagyod a brahminjainkat!}
-{174}{}{Szemmel tartunk!}
-{201}{}{De jó végre valaki újat látni a városban.}
-{202}{}{Szerintem a törzsbéliek nem is olyan rosszak.}
+{173}{}{Nem ajánlatos elkötni a brahminjainkat!}
+{174}{}{Szemmel tartjuk magát!}
+{201}{}{Jó végre új arcot látni a városban.}
+{202}{}{Talán a törzsbéliek nem is olyan szörnyûek, mint hittem.}
 {203}{}{Fizess egy kört!}
 {204}{}{Köszönj Smileynak és a mellette ülõ Sánta Jim-nek.}
-{205}{}{Te lehetnél Sulik ikertesója.}
-{206}{}{Találkoztál már Sulikkal?}
-{207}{}{Mostanában jól megy a vadászat.}
-{208}{}{Az idõjárás hamarosan megváltozik, szerintem.}
-{209}{}{Van egy jó vadászterület innen délre.}
-{210}{}{Ha okos vagy, elkerülöd a Duntonokat!}
-{211}{}{Ha égsz a vágytól, akkor próbáld ki a Fürdõházat.}
-{212}{}{Nyugatra van a Prémvadászok Városa.}
-{213}{}{Üdvözöllek, barátom.}
+{205}{}{Akár Sulik testvére is lehetnél.}
+{206}{}{Köszöntél már Suliknak?}
+{207}{}{Egész jó a fogás mostanában.}
+{208}{}{Azt hiszem, hamarosan megváltozik az idõ.}
+{209}{}{Találtam egy jó helyet a csapdáknak nem messze innen, délre.}
+{210}{}{Ha van eszed, távol tartod magad a Duntonoktól.}
+{211}{}{If you're anxious, try the Bathhouse.}
+{212}{}{Ha zsákmányt keresel, nézz körül a Prémvadászok Városában.}
+{213}{}{Üdvözöllek, barátom!}
 {214}{}{Remélem, tetszik a városunk.}
-{215}{}{Klamath jó kis hely.}
-{216}{}{Örülök, hogy velünk vagy.}
+{215}{}{Klamath igazán klassz hely.}
+{216}{}{Örülök, hogy itt vagy.}
 {217}{}{(feléd emeli a korsóját)}
 {218}{}{(rádkacsint)}
-{219}{}{Ne kószálj éjszaka!}
-{220}{}{A hegyekben bogáremberek laknak.}
-{221}{}{Eltûnt az egyik legjobb prémvadászunk.}
+{219}{}{Ne mászkálj éjszaka!}
+{220}{}{Bogáremberek ólálkodnak odakint a hegyekben.}
+{221}{}{Az egyik legjobb prémvadászunk eltûnt.}

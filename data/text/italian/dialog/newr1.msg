@@ -2,23 +2,16 @@
 {101}{}{Davanti a te si estende una desolata distesa ricoperta di tombe. Pali insanguinati spuntano dal terreno con resti di cadaveri legati ad essi.}
 {102}{}{Questa sembra essere una vecchia centrale elettrica di rifornimento. Un cimitero di carcasse d'auto circonda l'edificio.}
 {103}{}{Sei giunto alle Stalle. Un recinto circonda le due entrate alla fattoria.}
-
 {150}{}{[INDIETRO]}
 {151}{}{[AVANTI]}
-
-# family name
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-
 {221}{}{il Salvatore's}
 {222}{}{lo Shark Club}
 {223}{}{il Desperado}
 {224}{}{}
-
-
-# made man name
 {300}{}{}
 {301}{}{Whisper}
 {302}{}{Spider}
@@ -113,9 +106,6 @@
 {391}{}{Ruby}
 {392}{}{X}
 {393}{}{}
-
-# prizefighter name
-
 {400}{}{}
 {401}{}{Jabby}
 {402}{}{Spinning Jenny}
@@ -193,15 +183,10 @@
 {474}{}{Athena}
 {475}{}{Mad Dog}
 {476}{}{}
-
-# special stupid names
 {496}{}{Big Stu}
 {497}{}{Miami}
 {498}{}{X}
 {499}{}{Your Name}
-
-# porn star name
-# male
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
@@ -252,7 +237,6 @@
 {547}{}{}
 {548}{}{}
 {549}{}{}
-# female
 {550}{}{}
 {551}{}{Vixxxen}
 {552}{}{Mable Syrup}
@@ -303,8 +287,6 @@
 {597}{}{Valerie Vixen}
 {598}{}{Ruth Less}
 {599}{}{}
-
-# other boxer names
 {700}{}{Mal Fisto}
 {701}{}{Tony Gunn}
 {702}{}{"Steel" Mark Torrance}
@@ -325,32 +307,21 @@
 {717}{}{Drago}
 {718}{}{Tommy Gunn}
 {719}{}{Apollo}
-
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{The Masticator}
-
-# GOING TO THE CHOP SHOP
 {1000}{}{Jules ti conduce in un vecchio quartiere alla periferia di New Reno. Non credi che saresti riuscito a trovare questo luogo da solo. Appena arrivati, Jules sparisce.}
 {1100}{}{Le tracce ti conducono in un vecchio quartiere alla periferia di New Reno.}
-
-# MORDINO/MYRON STASH
 {1200}{}{Scopri una piccola scatola di metallo. Non l'avresti mai trovata se tu non l'avessi cercata.}
-
-# CODY/CHOP SHOP
 {1300}{}{Cody ti conduce in un vecchio quartiere alla periferia di New Reno, poi se ne corre via per la strada dalla quale siete arrivati. Non credi che saresti riuscito a trovare questo luogo da solo.}
-
-# BOXING LEVELS
 {1400}{}{Hai sconfitto il tuo primo avversario.}
 {1401}{}{Hai sconfitto il tuo secondo avversario.}
 {1402}{}{Hai sconfitto il tuo terzo avversario.}
 {1403}{}{Hai sconfitto il Masticatore!}
 {1404}{}{Sei diventato il Campione dei Pesi Massimi di New Reno.}
 {1405}{}{Hai sconfitto il tuo ultimo avversario!}
-
 {1500}{}{Hai convinto la signora Wright a distruggere la distilleria.}
 {1550}{}{Hai assistito alla transazione segreta.}
-
 {1600}{}{Nel mezzo della battaglia, il Masticatore ti strappa un orecchio a morsi.}
 {1700}{}{Infuriato, strappi a morsi un orecchio del Masticatore.}

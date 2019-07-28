@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{A férfinek zsíros haja van, és tetõtõl-talpig tiszta por.}
 {101}{}{Õ Savinelli, a New Reno és Redding között járó karavánok fõnöke.}
 {102}{}{Ez itt egy hátrasimított hajú, alacsony, meglehetõsen idegesnek tûnõ fickó.}
@@ -13,7 +12,7 @@
 {111}{}{Egy õrre van szükséged, nemde?}
 {112}{}{Mivel kereskedsz?}
 {113}{}{Miért vártok 21-éig?}
-{114}{}{Nem hiszem, hogy ez nekem való. Viszlát!}
+{114}{}{Nem hiszem, hogy ez nekem való lenne. Viszlát!}
 {115}{}{Rossz karavánt szúrtak ki maguknak ahhoz, hogy szórakozzanak vele.}
 {116}{}{Baszakodni akarnak a karavánommal?}
 {117}{}{Azok az elbaszott fickók jobbat is kitalálhattak volna, minthogy kikezdjenek a karavánommal.}
@@ -22,8 +21,7 @@
 {120}{}{Elhagyod a karavánomat, aztán idejössz munkáért könyörögni? Tûnj innen!}
 {121}{}{Azt mondtam kifelé. Szóval nem csak gyáva, hanem süket is vagy?}
 {122}{}{Tisztelem a tolvajokat... de csak az igazán jókat. Te csak egy kis hülye punk vagy. Tûnj innen, mielõtt bántanálak!}
-{123}{}{Miféle tolvajról beszélsz? Kikérem magamnak, te hálátlan disznó! Most pedig távozom. Viszlát!}
-{200}{}{Nyomás!}
+{123}{}{Tolvaj? Kikérem magamnak, te hálátlan dög! Most pedig távozom. Viszlát!}
 {124}{}{Megbánod még, hogy ujjat húztál velem! Viszlát!}
 {125}{}{Ez volt a legrosszabb karaván-út, amiben részem volt az utóbbi években. Semmit nem kerestem rajta, úgyhogy tudod mit? Neked sem jár semmi! Tûnj a szemem elõl.}
 {126}{}{Valóban? Szeretném látni, hogy megpróbálod, te pitiáner szemétláda. Viszlát!}
@@ -40,22 +38,23 @@
 {137}{}{Nem tudom, meddig fog tartani, amíg ezek az istenverte mocskos tetvek összerakják az arany szállítmányomat. De bármi is történjen, 21-ére készen fogunk állni az indulásra. Ha még mindig akarod a melót, gyere vissza akkor!}
 {138}{}{A rakományt törékeny árukból állítom össze. Idõbe telik, míg elkészülök. Nem lehet elkapkodni, ha minõséget akarsz. 21-én lesz indulásra kész. Ha még mindig akarod a melót, gyere vissza azon a napon.}
 {139}{}{Általában mit szállítasz?}
-{140}{}{Hadd kérdezzek valami mást!}
+{140}{}{Feltennék még kérdéseket.}
 {141}{}{Kösz, ezt fogom tenni. Viszlát!}
 {142}{}{Szoktunk karaván-õröket felfogadni, de még nem állunk készen az indulásra. 21-ére fogunk elkészülni. Ha kell a meló, gyere vissza akkor!}
 {143}{}{21-én, milyen idõben?}
 {144}{}{Mit szállít ez a karaván?}
 {145}{}{OK, kösz. Viszlát!}
 {146}{}{Hé, haver, tudnod kellene, mikor mondj nemet. *Én tudom*. Tehát NEM.}
-{147}{}{Hát, rendben.}
+{147}{}{Rendben.}
 {148}{}{Többnyire, öö... orvosi anyagokat - igen, ez az - orvosi anyagokat veszünk fel New Renóban, és aranyércre cseréljük Reddingben.}
 {149}{}{Ez érdekes. Azt mondtad, õröket keresel?}
-{150}{}{Hadd kérdezzek valami mást!}
+{150}{}{Feltennék még kérdéseket.}
 {151}{}{Ó, értem. Viszlát!}
-{153}{}{Pont jókor jöttél. Éppen indulni készültünk. A melóért 1500 dollárt fizetünk. Csatlakozol hozzánk?}
 {152}{}{Pont jókor jöttél. Éppen indulni készültünk. A melóért 1500 dollárt fizetünk, de csak azért, mert épp szükségem van még egy õrre. Csatlakozol hozzánk?}
+{153}{}{Pont jókor jöttél. Éppen indulni készültünk. A melóért 1500 dollárt fizetünk. Csatlakozol hozzánk?}
 {154}{}{Jól hangzik. Készen állok, gyerünk!}
 {155}{}{Nem hiszem, hogy pont karaván-õr szeretnék lenni. Minden jót, viszlát!}
 {156}{}{Eddig csak egy vicces kis majom voltál, de most már tényleg elegem van belõled. Tûnj innen, te seggfej!}
 {157}{}{Sebfej? Szia.}
 {158}{}{Grrr! Én ölni!}
+{200}{}{Jöjjön a haddelhad!}

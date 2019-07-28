@@ -1,4 +1,3 @@
-# Dialog Editor last position: 2
 {100}{}{Egy magas, õszülõ férfit látsz, hatalmas söröskriglivel a kezében.}
 {101}{}{John L. Sullivan, a bokszoló.}
 {102}{}{Egy magas, öregedõ férfit látsz, feltûnõen izmos karokkal. Szürkülõ, ápolt bajuszt visel.}
@@ -16,7 +15,7 @@
 {114}{}{Nem hinném, fater. Nehezen tudnám elképzelni, hogy *maga* bármit is tudna tanítani nekem. Viszlát!}
 {115}{}{Természetesen a tudományok legszebbikérõl. A sport mûvészetérõl.}
 {116}{}{Öö, mûvészet? Varázslatról beszél!?! Meg tud tanítani varázsolni?}
-{117}{}{Mirõl beszél?}
+{117}{}{Mirõl beszélsz?}
 {118}{}{(szélesen vigyorog) De még mennyire! Megtaníthatlak az aprónépek, leprechaun-ok, spriggan-ok, Ban'sidhe-k és hasonlók világára. Szeretnéd?}
 {119}{}{Jól hangzik. Tanítson!}
 {120}{}{Boksz, a pusztakezes harc férfias mûvészete. Erre gondoltam.}

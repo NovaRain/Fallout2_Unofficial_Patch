@@ -713,11 +713,11 @@
 {71300}{}{Tetto}
 {71400}{}{Tetto}
 {71500}{}{Tetto}
-{71600}{}{Giardino}
-{71700}{}{Giardino}
-{71800}{}{Giardino}
-{71900}{}{Giardino}
-{72000}{}{Giardino}
+{71600}{}{Garden}
+{71700}{}{Garden}
+{71800}{}{Garden}
+{71900}{}{Garden}
+{72000}{}{Garden}
 {72100}{}{Tetto}
 {72200}{}{Tetto}
 {72300}{}{Tetto}

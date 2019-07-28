@@ -1,5 +1,4 @@
-# Dialog Editor last position: 31
-{100}{}{Városlakó.}
+{100}{}{Egy helybéli.}
 {200}{}{Csak remélni tudom, hogy hamarosan esni fog.}
 {201}{}{A gabona ki fog pusztulni a vízhiány miatt.}
 {202}{}{Még a kutak is kiszáradtak.}

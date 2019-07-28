@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy rabot látsz.}
 {101}{}{Egy rabot látsz, aki valaha Kívülálló lehetett.}
 {102}{}{Ez volt az utolsó alkalom, hogy megszegtem a kijárási tilalmat.}

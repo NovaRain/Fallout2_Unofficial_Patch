@@ -54,7 +54,7 @@
 {450}{}{Hombres}
 {451}{}{Mujeres}
 {452}{}{Niños}
-{453}{}{Supermutantes}
+{453}{}{Super mutants}
 {454}{}{Necrófagos}
 {455}{}{Brahmin}
 {456}{}{Escorpiones}

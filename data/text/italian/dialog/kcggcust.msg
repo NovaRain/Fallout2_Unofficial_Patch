@@ -1,39 +1,36 @@
 {100}{}{Vedi un cliente del bar che ti sta guardando.}
 {101}{}{Vedi un cliente del bar che sta mangiando.}
 {102}{}{Vedi un cliente del bar che si sta bevendo un boccale di birra.}
-{103}{}{Vedi un cliente del bar.}
-
+{103}{}{Vedi una cliente del bar.}
 {104}{}{Vedi un cliente del bar dall'aspetto trasandato. Forse e' un trapper.}
 {105}{}{Vedi un cliente robusto. Probabilmente un trapper.}
 {106}{}{Vedi un logoro cliente del bar. Probabilmente si tratta di un trapper o di un contadino.}
 {107}{}{Vedi un frequentatore di bar in piena forma. Potrebbe trattarsi di un allevatore di brahmin o di un contadino.}
-
-{110}{}{Qui ti troverai benissimo.}
+{110}{}{Ti troverai benissimo qui.}
 {111}{}{Perche' non ci offri un giro di bevute?}
 {112}{}{Vuoi sfidare i Dunton a braccio di ferro?}
-{113}{}{Per caso sei passato dal Den, per venire qui?}
+{113}{}{Arrivi dal Den, per caso?}
 {114}{}{Cos'hai da guardare?}
-{115}{}{Hai proprio la pelle liscia, dolcezza. Heh, heh, heh.}
+{115}{}{Hai una pelle cosi' liscia, dolcezza. Heh, heh, heh.}
 {116}{}{Urp, avrei proprio bisogno di un altro boccale di piscio di gecko.}
 {117}{}{Se hai bisogno di grana, i Dunton stanno cercando un aiutante.}
 {118}{}{Non sei affatto male, per essere uno che arriva da un tribu'.}
 {119}{}{96 pinte di piscia sul muro, 96 pinte di piscia….}
 {120}{}{Sto per andare a sud, al Den; c'e' un sacco di lavoro laggiu'.}
 {121}{}{Ancora piscia di gecko, Salvadore!}
-{122}{}{La caccia va male, ultimamente; ci deve essere un modo piu' facile per fare soldi.}
+{122}{}{La caccia va male ultimamente; ci deve essere un modo piu' facile per fare soldi.}
 {123}{}{Non sono cosi' ubriaco come pensi.}
-{124}{}{Ehi, tipo! Questi dadi ti sembrano truccati? (rattle, rattle)}
+{124}{}{Ehi, tipo: questi dadi ti sembrano truccati? (scuote dei dadi nella mano)}
 {125}{}{Parla con i Dunton o con il barista se cerchi lavoro, amico.}
 {126}{}{Hai scelto il posto giusto dove venire a bere, amico.}
 {127}{}{No, Bishop; non di nuovo quella storia con il coltello!}
 {128}{}{C'e' nessuno che vuole farsi una bella partitina a dadi?}
-{129}{}{Fortuna che oggi Aldo non e' qui. La sua puzza mi rovina la birra.}
+{129}{}{Per fortuna che non c'e' Aldo. La sua puzza ci avrebbe costretto a lasciare il locale.}
 {130}{}{Hai mai preso dei brahmin che non ti appartenevano?}
 {131}{}{Occhio allo Spirito che Cammina!}
-{132}{}{C'e' un fantasma, nel canyon ad est di qui.}
+{132}{}{C'e' un fantasma nel canyon ad est di qui.}
 {133}{}{Fare il trapper e' pericoloso; proprio poche settimane fa ne abbiamo perso uno.}
-{134}{}{Prendere in giro Torr e' un ottimo passatempo.}
-
+{134}{}{Mi piace troppo raggirare quel Torr.}
 {140}{}{Guardate un po' chi e' venuto a farci visita.}
 {141}{}{(mumble, mumble) ...questo cocco di mamma... (mumble)}
 {142}{}{Non e' che sei nella zona sbagliata del paese?}
@@ -54,8 +51,7 @@
 {157}{}{Non sei il mio compagno di bevute ideale.}
 {158}{}{Humph. (sputa sul pavimento)}
 {159}{}{Non vale la pena degnarti di uno sguardo.}
-{160}{}{Ti senti a disagio? Di gia'?}
-
+{160}{}{Ti senti a disagio…di gia'?}
 {162}{}{Era ora, selvaggio.}
 {163}{}{Grazie.}
 {164}{}{Ni!}
@@ -71,7 +67,7 @@
 {174}{}{Grazie un milione!}
 {175}{}{Preferirei che mi lobotomizzassero…}
 {176}{}{Piscia Dorata!}
-{177}{}{Finalmente!}
+{177}{}{Cosi'!}
 {178}{}{Adoro quel piscio.}
 {179}{}{Sei un bravo selvaggio.}
 {180}{}{Bella mossa.}

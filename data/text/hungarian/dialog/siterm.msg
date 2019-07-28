@@ -1,4 +1,3 @@
-# Dialog Editor last position: 8
 {100}{}{Egy terminál.}
 {101}{}{Ez egy számítógép-terminál, melyet gyakran más objektumok irányítására használnak.}
 {200}{}{Vélhetõleg ez a terminál vezérli az ajtókat ebben a cellablokkban.}

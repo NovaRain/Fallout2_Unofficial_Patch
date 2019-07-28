@@ -1,14 +1,10 @@
 {100}{}{Vedi un terminale di computer attivo.}
 {101}{}{Guardando da vicino il terminale, noti una scritta che dice: "I*tel Inside".}
 {102}{}{Non sei in grado di leggere quello che c'e' sul monitor.}
-
-#NPC is unable to read what is on the monitor
-{200}{}{ non e' in grado di leggere quello che c'e' sul monitor.}
-
 {103}{}{Generatore Principale = Offline                              Generatore Ausiliario = Online                             Riattivazione Programma di Sicurezza in corso                   Attenzione - Energia insufficiente - Campi di Forza al 50%      Caricamento terminato...                                        Skynet - Sicurezza: Check Point 1                               Prego inserire password:_}
 {104}{}{Skynet - Sicurezza: Check Point 1                            Prego inserire password:_}
 {105}{}{Tchaikovsky}
-{106}{}{Apriti Sesamo} ###???Open Says Me
+{106}{}{Apriti Sesamo}
 {107}{}{Sierra}
 {108}{}{Armageddon}
 {109}{}{Viola il sistema di sicurezza}
@@ -35,8 +31,8 @@
 {137}{}{Non serve a nulla, il programma e' troppo complesso perche' tu riesca a capirlo.}
 {138}{}{La tua inettitudine ha fatto scattare il sistema d'allarme.}
 {139}{}{Esci}
-
-{300}{}{Il computer sembra avere un qualche tipo di meccanismo difensivo.}
+{200}{}{ non e' in grado di leggere quello che c'e' sul monitor.}
+{300}{}{Questo computer sembra avere un qualche tipo di meccanismo difensivo.}
 {301}{}{Subisci uno shock per }
 {302}{}{ subisce uno shock per }
 {303}{}{ punti di danno.}

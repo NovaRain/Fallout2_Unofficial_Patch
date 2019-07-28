@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez az ember nagyon komor arcot vág.}
 {101}{}{Õ Púpos. Skeeter barátja és segédje.}
 {102}{}{Ez az alak nagyon vékony, beesett szemû és mindemellett igen elkeseredett képet vág.}
@@ -9,42 +8,42 @@
 {114}{}{Istenemre mondom, zazább vagy, mint amennyire kinézel.}
 {120}{}{Üdv, engem Púposnak hívnak.}
 {121}{}{Hát ez elég szokatlan név. Mire fel kaptad?}
-{122}{}{Mit csinálsz itt?}
+{122}{}{Mi a munkád?}
 {123}{}{Ez igen, Púpos! Hát most inkább mennék.}
-{130}{}{Igazság szerint a rendes nevem John, de mindenki csak Púposnak hív.}
+{130}{}{Well, my real name's John -- but everyone here just calls me Lumpy.}
 {131}{}{Miért pont Púposnak?}
 {132}{}{Hát nem lehet õket okolni. Viszlát!}
 {140}{}{Üdv! Észrevetted már valaha is, hogy minden egyes brahminnak megvan a saját személyisége? Ha olyan sokáig nézed õket, mint én, biztos, hogy észreveszed.}
 {141}{}{Bizony. Határozottan elbûvölõek. Tényleg azok.}
 {142}{}{Múmúk.}
-{143}{}{Mit csinálsz itt?}
+{143}{}{Mi a munkád?}
 {144}{}{Ez igazán érdekes. Ki vagy egyébként?}
 {145}{}{Érdekelne néhány dolog.}
-{146}{}{Örültem, hogy találkoztunk, Púpos. Viszlát!}
+{146}{}{Nice to meet you. Goodbye.}
 {150}{}{Üdvözlet! Gondolom Skeeterhez jöttél. A mûszaki dolgok engem eléggé hidegen hagynak, én csak egyszerûen segítek itt.}
 {151}{}{Béna egy név. Hehehe.}
-{152}{}{Hát te ki vagy?}
-{153}{}{Mivel foglalkozol itt?}
-{154}{}{Volna néhány kérdésem számodra.}
+{152}{}{Ki maga?}
+{153}{}{Mi a munkád?}
+{154}{}{Feltennék néhány kérdést.}
 {155}{}{Ó, értem. Akkor beszélek Skeeterrel. Kösz.}
 {160}{}{Üdv! Mivel már amúgy is meghívtad magad hozzám... mit tehetek érted?}
 {161}{}{Éhes lenni.}
 {162}{}{Csak az érdekelt volna, hol találom Skeetert.}
-{163}{}{Volna néhány kérdésem számodra.}
+{163}{}{Feltennék néhány kérdést.}
 {164}{}{Ó, elnézést. Nem akartam csak úgy berontani. Viszlát!}
 {170}{}{A brahminokat õrzöm vagy segítek Skeeternek a mûhelyében.}
 {171}{}{Ki az a Skeeter?}
-{172}{}{Akkor nézzünk egy másik kérdést.}
+{172}{}{Feltennék még kérdéseket.}
 {173}{}{Szerintem ennél többet most nem akarok tudni. Viszlát, Púpos!}
 {180}{}{Hát ez egyfajta poén. Általában mindenkit simabõrûnek hívunk, de a menedékvárosi Simabõrûek olyan rosszul bántak velem, hogy átkereszeltek púposra.}
 {181}{}{Miért bántak veled rosszul Menedékvárosban?}
 {182}{}{Hát ez sokmindent megmagyaráz. Viszlát!}
 {190}{}{Skeeter afféle mûszerész. Bármit viszel neki, rögtön darabokra kapja. Persze elõbb vagy utóbb össze is rakja õket. A megjavított eszközök néha jobban mûködnek, mint korábban.}
 {191}{}{Hol találom Skeetert?}
-{192}{}{Érdekes. Na, hadd kérdezzek valami mást!}
-{193}{}{Ennél többet most nem akarok tudni. Viszlát!}
+{192}{}{Érdekes! Még kérdezek valami mást is.}
+{193}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
 {200}{}{Azt mondták, hogy én nem vagyok elég emberi számukra. Mondjuk jól bírom a sugárzást... itt ez remek képesség. Õk viszont nem voltak oda érte. Úgy bántak velem, mint egy kutyával.}
-{201}{}{Nahát...}
+{201}{}{Igazán?}
 {210}{}{Aztán egy nap már nem bírtam tovább. Úgy gondoltam, hogy inkább meghalok a pusztában, mintsem, hogy azokkal a seggfejekkel éljek Menedékvárosban.}
 {211}{}{Végül is hogy kerültél ide?}
 {220}{}{Egy Broken Hills-i karaván rámtalált és elhozott erre a helyre. Azóta is itt élek. Az itteni ghoulokra jellemzõ, hogy elsõsorban a belsõ értékeidre figyelnek. Olyanok vagyunk, mint egy nagy család.}
@@ -58,16 +57,16 @@
 {241}{}{Nem vagy te túl kiváncsi fajta? Na, jó, mit akarsz tudni?}
 {242}{}{Mit akarsz tehát tudni?}
 {243}{}{Mi ez a rengeteg hulladék a roncstelepen?}
-{244}{}{Mit csinálsz errefelé?}
-{245}{}{Skeeter kicsoda?}
+{244}{}{Mi a munkád?}
+{245}{}{Ki az a Skeeter?}
 {246}{}{Szokott itt bármi szokatlan történni?}
 {250}{}{Mivel Menedékvárosnak is szállítanak uránt. A Menedékvárosiak bárkit, aki nem színtiszta ember, leprásnak minõsítenek. A Broken Hillsiek ezért béreltek fel embereket a feladatra. Valami Chad nevezetû fickót, ha jól emlékszem.}
 {251}{}{Chad? Majd megpróbálom nem elfelejteni. Ellenben volna még néhány kérdésem.}
-{252}{}{Egyelõre bõven elég, amit hallottam. Viszlát!}
+{252}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
 {260}{}{Az a helyzet, hogy a hulladék nagy része a reaktor építése után maradt meg... még a háború elõttrõl. Hogy a többi honnan jön, fogalmam sincs. Skeeter gyûjtögeti az ilyesmit.}
 {261}{}{Ki az a Skeeter?}
 {262}{}{Elgondolkodtató. Na, akkor még kérdeznék valamit.}
-{263}{}{Most nem akarok mást tudni. Talán még jövök...}
+{263}{}{Úgy vélem, most elég lesz ennyi tudnivaló is. Sok szerencsét!}
 {270}{}{Nem kell nagyon messzire menned. Csak járj nyitott szemmel... (magának) Hogy milyen emberek vannak...}
 {271}{}{Skeeter általában a mûhelyében van a befejezetlen reaktortól délre. Nem sûrûn szokta kidugni onnan az orrát.}
 {272}{}{Köszönöm szépen. Viszlát!}
@@ -78,7 +77,7 @@
 {283}{}{Én is, de szerintem a hangok a fejembõl jönnek.}
 {290}{}{Hát engedelmeddel nem vagyok benne biztos. Szerintem embereket hallottam, legalábbis nagyon úgy hangzott. Késõ éjszakánként jöttek-mentek a reaktorveremnél.}
 {291}{}{Emberek? Minden éjjel?}
-{292}{}{Nem semmi! Kérdeznék még ezt-azt.}
+{292}{}{Érdekes! Még kérdezek valami mást is.}
 {300}{}{Nem tudom. Az emberek félnótásnak néznének. Meglehet, hogy csak a szél fúj keresztül a szeméthegyek közt.}
 {301}{}{Nem hallottam én semmit. Most pedig hagyj békén ezzel!}
 {302}{}{Rendben. Tereljük másra a szót!}
@@ -89,11 +88,11 @@
 {321}{}{Kösz, hogy aggódsz miattam. Hadd tegyek fel újabb kérdéseket!}
 {322}{}{Hát igen. Asszem, eljött az idõ, hogy lelépjek. Viszlát!}
 {330}{}{Hát elsõ látásra ilyennek tartottalak, de akkor még nem voltam biztos benne! Na, tûnés, te elfuserált marharépa.}
-{331}{}{Hogyne, ahogy mondod. Na, üdv...}
+{331}{}{Öhm, igen. Mindenesetre, viszlát!}
 {332}{}{Hát igen, egyikünk egy jó nagy marharépa... Gondolom, jól megkavart, hogy vajon melyikünk lehet az.}
 {340}{}{Hát nem tudom, hogy emberek voltak-e vagy mi a szösz, de rendszerint minden éjjel hallom. A reaktorverem irányából folyton hallom a hangokat. Nem tudom, mi folyik ott, és nem is nagyon akarom tudni.}
 {341}{}{Nem hinném, hogy ez a te hibád lenne. Nem lehet megsaccolni, mi lehet odalenn.}
-{342}{}{Kösz az információért. Viszlát!}
+{342}{}{Kösz az információt. Viszlát!}
 {343}{}{Az a reaktorverem nem túlzottan radioaktív, hogy bármi megéljen benne?}
 {350}{}{Nem, ezt a részt nem fejeztük be, amikor kitört a háború.}
 {351}{}{Világos. Hmm... tudnál még mondani valami érdekeset?}

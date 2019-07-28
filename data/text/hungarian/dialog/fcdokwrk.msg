@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Ez itt egy Shi közember.}
 {101}{}{Dokkmunkás.}
 {102}{}{Ez itt egy Shi közember. A ruhája egy merõ halpikkely, kátrány és só.}

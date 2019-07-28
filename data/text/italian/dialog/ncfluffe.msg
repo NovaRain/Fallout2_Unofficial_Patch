@@ -1,84 +1,61 @@
-# QUICK LOOK
 {100}{}{Vedi una... ehm... "assistente di scena".}
-
-# 1. LOOK (PLAYER IS MALE)
 {150}{}{Vedi una donna discretamente attraente. Sembra quasi che ti stia squadrando.}
 {151}{}{Vedi una "assistente di scena". Sembra che si stia chiedendo se debba "assisterti" o meno.}
-
-# 2. LOOK (PLAYER IS FEMALE)
 {160}{}{Vedi una donna discretamente attraente. Ti guarda come se fossi una rivale.}
 {161}{}{Vedi una "assistente di scena". Ti guarda come se fossi una rivale.}
-
-# 3. [ENCLAVE DESTROYED]
-{200}{}{Oh, cielo... e' lui. }
+{200}{}{Oh mio... e' lui!}
 {201}{}{Sei il piu' grande stallone del mondo.}
 {202}{}{::Sviene::}
 {203}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
 {204}{}{Vai, }
 {205}{}{::Applaude::}
-{206}{}{::Esulta::}
-{207}{}{Oh, cielo... e' lei. }
+{206}{}{::Cheers::}
+{207}{}{Oh mio... e' lei. }
 {208}{}{Vai cosi', ragazza mia!}
 {209}{}{::Ti fa il gesto del pollice alzato::}
-
-# 4. [POWER ARMOR]
 {225}{}{Non mi occupero' MAI di quel coso.}
-{226}{}{Come diavolo ci vai al bagno con indosso quella roba?}
+{226}{}{Come diavolo ci vai al bagno con quella roba addosso?}
 {227}{}{E' un nuovo tipo di vibratore, quello?}
-{228}{}{E' un nuovo tipo di preservativo corporeo, quello?}
-
-# 5. [MALE, PORN STAR]
+{228}{}{E' un nuovo tipo di preservativo integrale, quello?}
 {235}{}{Hai bisogno di qualcosa, }
 {236}{}{Vieni qui, bello. }
 {237}{}{Guardate! E' lui!}
-{238}{}{E' } #
+{238}{}{E' }
 {239}{}{Vorrei tanto poter girare una scena con }
-{240}{}{Quel ragazzo mi fa bagnare ogni volta che lo vedo.} ###???That boy really brings on the cream
+{240}{}{Quel ragazzo ragazzo mi fa bagnare ogni volta che lo vedo.}
 {241}{}{Quello stallone puo' passarmi lo scolo quando vuole.}
 {242}{}{Hai proprio un bel cobra inguinale.}
-
-# 6. [PORN STAR, FEMALE]
 {245}{}{Hai bisogno di qualcosa, }
-{246}{}{Se mi chiedono di fare un pompino ad un altro attore, oggi, credo che vomitero'.}
+{246}{}{Se oggi mi chiedono di fare ancora un altro pompino ad un attore, credo che vomitero'.}
 {247}{}{Non e' facile fare l'assistente.}
-{248}{}{Ho sentito che c'e' di nuovo tensione tra le Famiglie...}
+{248}{}{Ho sentito che c'e' di nuovo tensione tra le Famiglie.}
 {249}{}{La settimana scorsa ho dato a Jules un bel calcio nei gioielli di famiglia.}
 {250}{}{Vorrei tanto che i Fratelli mi lasciassero recitare.}
-{251}{}{Non capisco cosa TROVINO in lei, i Fratelli Corsican…}
-
-# 7. [MALE, PRIZEFIGHTER]
-{255}{}{Oh, cielo... e' lui. }
-{256}{}{Guardate quei muscoli! Svengo…}
+{251}{}{Non capisco cosa VEDANO in lei i Fratelli Corsican...}
+{255}{}{Oh mio... e' lui!}
+{256}{}{Guarda quei muscoli! Mi sento svenire...}
 {257}{}{E' massiccio come un carro armato. E guardate quel cannone.}
-{258}{}{Guardate il cannone di quel carro armato…}
-{259}{}{E' tutto mio…}
+{258}{}{Guarda il cannone di quel carro armato...}
+{259}{}{E' tutto mio...}
 {260}{}{::Sigh::}
-{261}{}{Quel ragazzo e' una vera forza della natura.}
+{261}{}{Quel ragazzo ragazzo mi fa bagnare ogni volta che lo vedo.}
 {262}{}{Hai proprio un bel cobra inguinale.}
-
-# 8. [FEMALE, PRIZEFIGHTER]
-{270}{}{Oh, cielo... e' lei. }
+{270}{}{Oh mio... e' lei. }
 {271}{}{Benvenuta nel nostro studio, signora.}
-{272}{}{Sembra cosi'…(trema)…pericolosa.}
+{272}{}{Sembra cosi'...(trema)...pericolosa.}
 {273}{}{E' piuttosto sexy.}
-{274}{}{Salve, signora. Me lo dica, se posso esserle utile per qualcosa.}
-
-# 9. [MALE, MADE MAN/BERSERKER]
-{280}{}{Oh, cielo... e' lui. }
+{274}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
+{280}{}{Oh mio... e' lui!}
 {281}{}{Benvenuto nel nostro studio, signore.}
-{282}{}{Sembra cosi'…(trema)…pericoloso.}
+{282}{}{Sembra cosi'...(trema)...pericoloso.}
 {283}{}{Quello e' un vero *duro*.}
 {284}{}{Quel ragazzo ragazzo mi fa bagnare ogni volta che lo vedo.}
 {285}{}{Hai proprio un bel cobra inguinale.}
-
-# 10. [FEMALE, MADE MAN/BERSERKER]
-{290}{}{Oh, cielo... e' lei. }
+{290}{}{Oh mio... e' lei. }
 {291}{}{Benvenuta nel nostro studio, signora.}
-{292}{}{Sembra cosi'…(trema)…pericolosa.}
+{292}{}{Sembra cosi'...(trema)...pericolosa.}
 {293}{}{E' piuttosto sexy.}
 {294}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
-
-# 11. [MALE, NO REP + MYRON]
 {300}{}{Oh, merda! C'e' Myron! Scappate!}
 {301}{}{Merda! C'e' Myron. State calme…puo' sentire la paura.}
 {302}{}{Farai meglio a tenere Myron lontano da me.}
@@ -86,16 +63,12 @@
 {304}{}{Se Myron inizia a lavorare qui, me ne vado.}
 {305}{}{Myron, hai gia' superato il traguardo dei cinque secondi?}
 {306}{}{Myron, farai meglio ad andartene prima che i Fratelli ti vedano.}
-
-# 12. FLOAT/[LEATHER]
 {315}{}{Ma quei tipi vestiti di cuoio non lo sanno che dovrebbero venire solo di mercoledi'?}
 {316}{}{Magnifico. Un altro film S&M.}
 {317}{}{Oooooh. Pelle nera. Che NOVITA'...}
 {318}{}{Non faremo altri film fetish o bondage fino alla settimana prossima.}
 {319}{}{Splendido, un'altra coniglietta in pelle.}
 {320}{}{Senti, coniglietta in pelle, il casting lo facciamo mercoledi', capito?}
-
-# 13. [NO REP + BONENOSE]
 {325}{}{Se oggi mi chiedono di fare ancora un altro pompino ad un attore, credo che vomitero'.}
 {326}{}{Non e' facile fare l'assistente.}
 {327}{}{Ho sentito che c'e' di nuovo tensione tra le Famiglie.}
@@ -106,11 +79,9 @@
 {332}{}{Whoa, ne ho visti di incidenti sul set, ma non e' mai successo che un tipo si beccasse un osso nel naso.}
 {333}{}{Vorrei tanto che i Fratelli mi lasciassero recitare.}
 {334}{}{::Ti fissa::}
-{335}{}{Ottimo. Un'ALTRA "assistente". A guardarla e' probabile che lavori a meta' prezzo.}
+{335}{}{Ottimo. Un'ALTRA "assistente". A guardarla, e' probabile che lavori a meta' prezzo.}
 {336}{}{Chi e' quella?}
 {337}{}{Chi sei?}
-
-# 14. [NO REP]
 {345}{}{Se oggi mi chiedono di fare ancora un altro pompino ad un attore, credo che vomitero'.}
 {346}{}{Non e' facile fare l'assistente.}
 {347}{}{Ho sentito che c'e' di nuovo tensione tra le Famiglie.}
@@ -120,8 +91,6 @@
 {351}{}{::Ti fissa::}
 {352}{}{Chi e' quella?}
 {353}{}{Chi sei?}
-
-# 15. [ENCLAVE DESTROYED]
 {360}{}{Enclave? Presidente? Raccontami tutta la storia.}
 {361}{}{Tom French ha creato il mio script. Ha mani delicate e gentili.}
 {362}{}{Stavano ancora combattendo la GUERRA?! Davvero?! Hai fatto bene a disintegrare quei bastardi.}
@@ -129,19 +98,17 @@
 {364}{}{Dovresti ricominciare il gioco usando un altro tipo di personaggio.}
 {365}{}{Raccontami tutto della tua lotta contro l'Enclave…Ti offriro' una birra ghiacciata.}
 {366}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
-
-# 16. [PORN STAR]
 {370}{}{Ooops. Mi e' caduto qualcosa nei tuoi pantaloni. Aspetta che lo prendo.}
-{371}{}{Um, non ti piacerebbe uscire per un drink, vero? Che ne dici, invece, di un po' di sesso senza sentimento?} ###???you wouldn't like to go out for drinks, would you? How about just meaningless sex
+{371}{}{Um, non ti piacerebbe uscire per un drink, vero? Che ne dici, invece, di un po' di sesso senza sentimento?}
 {372}{}{Come fai ad essere sempre cosi' in forma?}
 {373}{}{Posso avere il tuo autografo? Sul mio petto?}
 {374}{}{Serviti pure, }
 {375}{}{Ho bisogno di un po' di aiuto per quel cannone che ti ritrovi.}
 {376}{}{Ho sentito che e' molto duro... lavorare con te.}
-{377}{}{So che preferisci le forme alla sostanza. A me sta bene.} ###???I heard you cop an attitude, then you cop a feel. Fine by me
+{377}{}{So che preferisci le forme alla sostanza. A me sta bene.}
 {378}{}{Sono davvero felice di conoscerti! Voglio dire, wow, tu sei }
 {379}{}{Um, so che adesso non stai girando film, ma non e' che ti serve lo stesso un'assistente?}
-{380}{}{Vuoi che ti faccia un pompino? Cosi', per tenerti in forma...}
+{380}{}{Ha bisogno di qualcuno che si occupi di lei?}
 {381}{}{Vuoi un fazzoletto, }
 {382}{}{Mi sei piaciuto tantissimo in Eiacula il Vampiro.}
 {383}{}{Mi sei piaciuto tantissimo ne La Lampo di Aladino.}
@@ -157,13 +124,11 @@
 {393}{}{Pompini con vibrazione? Te ne parlero' un'altra volta.}
 {394}{}{Il mio ragazzo non sa che lavoro qui.}
 {395}{}{Vorrei che alcuni degli attori si facessero la doccia. Con regolarita', intendo.}
-{396}{}{Vorrei davvero recitare.}
+{396}{}{Vorrei tanto recitare.}
 {397}{}{La mia ragazza non sa che lavoro qui.}
 {398}{}{Posso avere il tuo autografo?}
-{399}{}{Um, non ti piacerebbe uscire per un drink, vero? Che ne dici, invece, di un po' di sesso senza sentimento?} ###???If you're into women, that is
+{399}{}{Um, non ti piacerebbe uscire per un drink, vero? Che ne dici, invece, di un po' di sesso senza sentimento?}
 {400}{}{::Ti ignora::}
-
-# 17. [PRIZEFIGHTER]
 {420}{}{Vuoi fare un salto sul ring con me, campione?}
 {421}{}{Bel pezzo d'artiglieria che hai li'.}
 {422}{}{Hai bisogno che qualcuno te lo tiri... ehm... ti tiri un po' su, campione?}
@@ -173,28 +138,24 @@
 {426}{}{Io? Io sono una "assistente". A volte.}
 {427}{}{Le assistenti hanno il delicato compito di mantenere gli attori in erezione.}
 {428}{}{I Fratelli mi dicono che sono in-estimabile. E' per questo che vengono a letto con me cosi' spesso.}
-{429}{}{Dovresti dedicarti al porno. Hai il fisico.}
+{429}{}{Dovrebbe dedicarsi al porno. Ha il fisico adatto.}
 {430}{}{Vuoi boxare?}
 {431}{}{Pompini con vibrazione? Te ne parlero' un'altra volta.}
 {432}{}{Fa' attenzione al Masticatore. E' un vero stronzo. Ha provato a staccarmi un orecchio a morsi, una volta.}
 {433}{}{Salve signora. Posso fare *qualcosa* per lei?}
-{434}{}{Um, se e' in cerca di un po' di compagnia per dopo, signora…}
+{434}{}{Um, se cerca un po' di compagnia per dopo, signora...}
 {435}{}{Il solito, signora?}
-
-# 18. [MADE MAN]
 {450}{}{Salve, signore. Posso fare *qualcosa* per lei?}
-{451}{}{Um, se e' in cerca di un po' di compagnia per dopo…}
+{451}{}{Se cerchi un po' di compagnia per dopo...}
 {452}{}{Il solito, signore?}
 {453}{}{Ha bisogno di qualcuno che si occupi di lei?}
-{454}{}{Puo' mettere una buona parola con il capo per me?}
+{454}{}{Puo' mettere una buona parola con il boss per me?}
 {455}{}{Sta pensando di entrare anche lei nel giro?}
 {456}{}{Dovrebbe dedicarsi al porno. Ha il fisico adatto.}
-{457}{}{Pompini con vibrazione? Gliene parlero' un'altra volta.}
+{457}{}{Pompini con vibrazione? Te ne parlero' un'altra volta.}
 {458}{}{Salve signora. Posso fare *qualcosa* per lei?}
-{459}{}{Um, se e' in cerca di un po' di compagnia per dopo, signora…}
+{459}{}{Um, se cerca un po' di compagnia per dopo, signora...}
 {460}{}{Il solito, signora?}
-
-# 19. [BONE-NOSE]
 {465}{}{Scusa, no grazie. Potrei farmi una scopata migliore con il mio rossetto.}
 {466}{}{Tu? Scusa, non saro' MAI cosi' disperata.}
 {467}{}{Uh, quel tuo amico con l'osso nel naso sta cercando di compensare qualcosa?}
@@ -222,8 +183,6 @@
 {489}{}{Vorrei che alcuni degli attori si facessero la doccia. Con regolarita', intendo.}
 {490}{}{Um, sei nuova?}
 {491}{}{Fruppe' salati? Abituati.}
-
-# 20. [NO REP]
 {500}{}{Scusa, no grazie. Potrei farmi una scopata migliore con il mio rossetto.}
 {501}{}{Tu? Scusa, non saro' MAI cosi' disperata.}
 {502}{}{Non ho visto i Fratelli in giro…in ufficio, forse?}
@@ -245,8 +204,7 @@
 {518}{}{Vorrei che alcuni degli attori si facessero la doccia. Con regolarita', intendo.}
 {519}{}{Um, sei nuova?}
 {520}{}{Fruppe' salati? Abituati.}
-
-{1200}{}{. Quello che ha fatto il culo all'Enclave.}
+{1200}{}{. Quella che ha fatto il culo all'Enclave.}
 {1204}{}{! Sei stato grande a spazzare via l'Enclave!}
 {1207}{}{. Quella che ha fatto il culo all'Enclave.}
 {1235}{}{?}

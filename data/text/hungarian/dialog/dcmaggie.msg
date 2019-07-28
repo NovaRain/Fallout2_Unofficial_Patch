@@ -1,20 +1,19 @@
-# Dialog Editor last position: 91
 {100}{}{A bár tulajdonosát látod.}
 {101}{}{Õ Becky.}
 {150}{}{Úgy tûnik, õ a tulaj.}
 {151}{}{Becky, ennek a helynek a tulajdonosa.}
-{152}{}{[Beszéd]}
+{152}{}{[Beszélgetés]}
 {153}{}{Helló, idegen, és üdvözöllek a báromban. Én Becky vagyok.}
 {154}{}{Helló, a nevem }
 {155}{}{. Mit lehet errefelé csinálni?}
-{156}{}{Helló, a nevem }
+{156}{}{Hi, I'm }
 {157}{}{. Kérdezhetek pár dolgot?}
-{158}{}{Mama?}
+{158}{}{Mami?}
 {159}{}{Mag gah.}
 {160}{}{Lehet lelépni! Nincs szükségem itt a te fajtádra.}
 {161}{}{Mmmm...}
-{162}{}{Cseszd meg!}
-{163}{}{Lelépek.}
+{162}{}{Baszd meg!}
+{163}{}{Inkább megyek.}
 {164}{}{Bocs, nem akartalak megbántani. Kérdezhetek valamit?}
 {165}{}{A whiskey 5 dollár, a játékasztalok meg ott vannak. Sok sikert!}
 {166}{}{Kérdezhetek valamit?}
@@ -33,13 +32,13 @@
 {179}{}{Mami! Mami!}
 {180}{}{Jöhet még egy kérdés?}
 {181}{}{Kösz. Viszlát!}
-{182}{}{Pusztulj innen!}
+{182}{}{Kotródj!}
 {183}{}{Gwah.}
 {184}{}{Adok én neked valamit, amitõl behalsz.}
 {185}{}{Elõbb egy gyors kérdést?}
 {186}{}{Viszlát!}
 {187}{}{Egy adag whiskey 5 dollár. Elõre kérem a pénzt!}
-{188}{}{Hö?}
+{188}{}{Nahát...}
 {189}{}{Itt a pénz.}
 {190}{}{Meggondoltam magam.}
 {191}{}{Kicsit leégtem. Nem kaphatnék hitelt?}
@@ -50,7 +49,7 @@
 {196}{}{Mi lenne, ha te és én...}
 {197}{}{Nem.}
 {198}{}{Hé, nincs elég pénzed erre az italra. Még szegényebb vagy, mint ezek a szerencsétlenek.}
-{199}{}{Bocs.}
+{199}{}{Bocsánat.}
 {200}{}{Hmm, még visszajövök.}
 {201}{}{Hmm. Idehívok valakit, hogy figyeljen a bárra. Te és én bemegyünk a hátsó szobába, ahol a kedvenc játékomat játszuk: "Elsõ csapás". Ha jó vagy, akkor jön a "Mélypont".}
 {202}{}{Oké!}

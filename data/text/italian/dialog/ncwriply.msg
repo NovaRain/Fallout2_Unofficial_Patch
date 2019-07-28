@@ -1,16 +1,9 @@
-# 0. QUICK LOOK
 {100}{}{Vedi uno dei bambini degli Wright.}
-
-# 0. LOOK [ENCLAVE_DESTROYED = TRUE] (WTG)
 {150}{}{Vedi un ragazzino con i capelli neri e una pentola in testa. Sta puntando il dito contro degli immaginari agenti dell'Enclave e fa un verso con la bocca come se stesse sparando. BLAM-BLAM.}
 {151}{}{Vedi uno dei bambini della famiglia Wright con una pentola in testa.}
 {152}{}{Vedi uno dei bambini della famiglia Wright con una pentola in testa. Sta puntando il dito contro degli immaginari agenti dell'Enclave e fa un verso con la bocca come se stesse sparando. BLAM-BLAM.}
-
-# 1. LOOK (NORMAL) (WTG)
 {200}{}{Vedi un ragazzino con i capelli neri e una pentola in testa.}
 {201}{}{Vedi uno dei bambini della famiglia Wright con una pentola in testa. Sta facendo *bzzzzzt* con la bocca, come se fosse un calabrone.}
-
-# 2. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
 {210}{}{Guardatemi, sono il discendente dell'Abitante del Vault! Lode al Vault!}
 {211}{}{Voglio andare alla ricerca del Vault 13!}
 {212}{}{Blam blam! Prendete questo, brutti musi dell'Enclave!}
@@ -30,8 +23,6 @@
 {226}{}{Avevo la power-armor rinforazata addosso! Quel proiettile e' rimbalzato!}
 {227}{}{Muori, faccia da Enclave!}
 {228}{}{Aighhhhhhhh...mi hanno colpito...}
-
-# 3. FLOAT [WRIGHT CHILDREN PLAYING, NORMAL] (WTG)
 {240}{}{Guardatemi, sono l'insetto metallico! Bzzzzzz}
 {241}{}{Blam blam!}
 {242}{}{Attenti, sta arrivando l'insetto metallico!}
@@ -48,8 +39,6 @@
 {253}{}{Avevo il campo di forza alzato!}
 {254}{}{Muori, faccia da Salvatore!}
 {255}{}{Aighhhhhhhh...mi hanno colpito...}
-
-# 4. CLICK [ENCLAVE_DESTROYED = TRUE] (WTG)
 {270}{}{Mi manca Dogmeat, il cane di Fallout 1.}
 {271}{}{Credi che ci sara' un Fallout 3? Voglio essere io l'eroe di quel gioco!}
 {272}{}{Fallout 2 vi e' stato offerto da Letter Z.}
@@ -58,121 +47,77 @@
 {275}{}{Hai avuto paura quando hai incontrato il Presidente? Aveva una bocca enorme e lunghi artigli?}
 {276}{}{Avrei voluto aiutarti a distruggere l'Enclave. Io...non avrei avuto paura. No-no.}
 {277}{}{Ehi! }
-{5277}{}{! Raccontaci la storia dell'Enclave! Daaaaaaaai?}
 {278}{}{}
-{5278}{}{! Yaaaaay!}
 {279}{}{Grazie per averci salvato, }
-{5279}{}{!}
 {280}{}{Quando saro' grande voglio salvare il mondo proprio come hai fatto tu.}
 {281}{}{Quando saro' grande posso essere un eroe come te?}
 {282}{}{Quando saro' grande voglio essere come }
-{5282}{}{.}
-
-# 5. CLICK [POWER ARMOR] (WTG)
 {300}{}{Aighhhh! E' uno degli uomini di metallo! Scappiamo!}
 {301}{}{E' uno degli uomini di metallo! Ci hanno trovato! Scappiamo!}
 {302}{}{Ci dispiace! Ci dispiace! Non mandarci contro il tuo insetto metallico! Ti prego!}
-
-# 6. CLICK [SLAVER OR BAD REP] (WTG)
 {310}{}{Faresti meglio a tagliare la corda prima che il mio papa' ti veda.}
 {311}{}{Faresti meglio a tagliare la corda prima che i miei fratelli ti vedano.}
 {312}{}{Tu sei una cattiva persona. Faresti meglio ad andartene prima che lo vada a dire ai miei fratelli.}
-
-# 7. INTRO (WTG)
 {320}{}{(Il bambino smette di fare *bzzzzz* e solleva la pentola per guardarti meglio.)}
 {321}{}{Puo' anche }
-{5321}{}{ giocareee?}
 {322}{}{Scusaaaa. Me pensava tu essere pentola. Ciaoooo.}
 {323}{}{Perche' vai in giro con una pentola in testa?}
 {324}{}{A cosa state giocando?}
 {325}{}{Dove sono i tuoi genitori?}
 {326}{}{(Lascialo giocare.)}
-
-# 8. CAN [X] PLAY TOO? (7)
 {330}{}{Beh...okay. (Ti osserva per bene.) Ma l'insetto metallico lo faccio IO!}
 {331}{}{Okee dokee piccola persona ape, }
 {332}{}{ okay con questo.}
 {333}{}{Che incesto?}
 {334}{}{No! }
-{5334}{}{ vuole essere incesto!}
 {335}{}{Ooooh...cosa essere laggiu'?}
-
-# 9. OKEE DOKEE/X CAN DO THAT/[X] OKAY WITH THAT (8)
 {340}{}{(Il piccolo ometto si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
 {341}{}{-Corri un po' con lui, facendo *bzzzzzz* anche tu-}
 {342}{}{-Allontanati-}
-{343}{}{(Vattene.)}
-
-# 10. WHAT INCEST? (8)
+{343}{}{(Te ne vai.)}
 {350}{}{INSETTO, stupido che non sei altro! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E aveva delle PERSONE dentro!}
-{351}{}{Noh-oh.}
+{351}{}{Nuh-uh}
 {352}{}{No chiamare me stupido}
 {353}{}{No gridare. }
-{5353}{}{ no piace gridare.}
 {354}{}{Tu mentire a }
-{5354}{}{. Tu prendere in GIRO }
-{6354}{}{. }
-{7354}{}{ no piace.}
 {355}{}{ ha ucciso molti piccoli uomi che fare chiasso come te...forse tu prossimo?}
 {356}{}{[Allontanati.]}
-
-# 11. NUH-UH 1 (10)
 {360}{}{Ah-a! L'abbiamo visto.}
 {362}{}{Ah-ah-ah-ah}
 {363}{}{Noh-oh-oh-oh}
 {364}{}{-Ti allontani e fai "ahhh" a qualcun altro-}
-
-# 12. NUH-UH 2 (11)
 {370}{}{Ah-a! Te lo faro' vedere! Andremo a vederlo quando fara' DAVVEEERO buio. }
 {371}{}{Ah-a! Te lo faro' vedere! Andremo a vederlo stanotte. }
 {372}{}{Vuoi venire? (Il piccolo ometto ti guarda con occhio furbo) Ma devi fare mooooolto silenzio. Moooooolto silenzio.}
 {373}{}{Daccodo! [Seguilo.]}
 {374}{}{Daccodo, me viene con...oooooh, essere sabbia quella laggiu'?}
-
-# 13. DON'T SHOUT. X NO LIKE SHOUT. (10, 13, 21)
 {380}{}{Tu non mi piaci. Sei una persona grande e stupida! (Ti fa una linguaccia.) Vattene via, stupido!}
 {381}{}{NO CHIAMARE ME STUPIDO! TU STUPIDO! TU STUPIDO!}
 {382}{}{No gridare! No gridare a }
-{5382}{}{! }
-{6382}{}{ SCHIACCIA!}
 {383}{}{-Ti copri le orecchie e scappi via-}
 {384}{}{D'accordo...per questa volta. Vacci piano con il Jet, ragazzo.}
-
-# 14. UH-UH-UH-UH/HUH-HUH-HUH-HUH (11)
 {390}{}{(Ti guarda con occhio furbo.) Fai gli stessi versi che la mamma e il papa' fanno quando vanno a letto.}
 {391}{}{Dove voi visto incesto? Me anche volere vedere.}
-
-# 15. YOU LIE TO [X]. YOU MAKE FUN OF [X]. [X] NOT LIKE. (10)
 {400}{}{Non sto dicendo una bugia, stupido! Andremo a vederlo quando fara' DAVVEEERO buio. }
 {401}{}{Non sto dicendo una bugia, stupido! Andremo a vederlo stanotte. }
 {403}{}{NO chiamare me stupido, STUPIDO}
 {404}{}{Ah-a [Seguilo.]}
 {405}{}{Daccodo, me volere veni...oooooh, essere sabbia quella laggiu'?}
-
-# 16. WHERE HE SEE INCEST? I WANNA SEE IT TOO (14)
 {410}{}{Andremo a vederlo quando fara' DAVVEEERO buio. }
 {411}{}{Andremo a vederlo stanotte. }
 {412}{}{Vuoi venire? (Il piccolo ometto ti guarda con occhio furbo) Ma devi fare mooooolto silenzio. Moooooolto silenzio.}
-
-# 17. WHY DO YOU HAVE A POT ON YOUR HEAD? (7, 32)
 {420}{}{Non e' una pentola, STUPIDO! E' il mio elmo!}
 {421}{}{Whoa, vogliate scusarmi, terribile guerriero con l'elmo.}
 {422}{}{Chiamami ANCORA UNA VOLTA stupido, piccolo stronzo che non sei altro, e vedremo se quell'"elmo" sara' in grado di evitare che io ti faccia un buco in testa.}
 {423}{}{[Lascialo giocare con il suo "elmo".]}
-
-# 18. WHOA, SORRY THERE, FEARSOME HELMED WARRIOR. (17)
 {430}{}{(Ti guarda con sospetto.) Che cosa vuoi?}
 {432}{}{Volevo solo sapere a che gioco stavate giocando. Sembra divertente!}
 {433}{}{Uh...dove sono i tuoi genitori?}
 {434}{}{Nulla.}
-
-# 19. CALL ME STUPID AGAIN . . . / NO SHOUT! NO SHOUT AT X! X SMASH! (10, 13, 17)
 {440}{}{(Il piccolo omino diventa bianco, fa un passo indietro, poi si volta e comincia a correre urlando a squarciagola.)}
 {441}{}{(Il bambino sbianca, fa un passo indietro, poi si volta e comincia a correre urlando a squarciagola.)}
 {442}{}{Hee hee...corre, piccolo uometto! CORRE!}
 {443}{}{Piccola canaglia...}
-
-# 20. WHAT ARE YOU PLAYING? (7, 18, 32)
 {450}{}{Stiamo giocando a Insetti Metallici e Soldati. }
 {451}{}{(Guarda il tuo equipaggiamento, vede una delle tue pistole.) Posso giocare con la tua pistola?}
 {452}{}{No, no... e' troppo pericolosa per te, giovanotto.}
@@ -182,8 +127,6 @@
 {456}{}{"Insetti Metallici"?}
 {457}{}{Oh, okay. Ero solo curioso.}
 {458}{}{Nooooo... Credo sia meglio che io vada.}
-
-# 21. NO, TOO DANGEROUS. NO GUN FOR YOU (20, 21)
 {470}{}{(Ti fissa.) Eddai, so come usare una pistola come quella! Sono un Wright! Lasciamela vedere! Daaaaai?}
 {471}{}{Ascoltami: nelle mani sbagliate, una pistola puo' anche uccidere qualcuno. Cioe', voglio dire, puo' SEMPRE uccidere qualcuno, ma nelle mani sbagliate... puo', ehm... uccidere... aspetta un attimo, fammi ricominciare dall'inizio.}
 {472}{}{Ascolta, se la tua famiglia si fidasse della tua capacita' di maneggiare una pistola, te ne avrebbero gia' data una. Quindi: scordatelo.}
@@ -191,104 +134,80 @@
 {474}{}{Beh, d'accordo. [Gli dai una pistola scarica.]}
 {475}{}{Beh, d'accordo. [Gli dai una pistola carica.]}
 {476}{}{Scordatelo. Va' a giocare con i tuoi amici.}
-
-# 22. METAL INSECTS? TELL ME ABOUT THE METAL INSECTS. (28)
 {485}{}{Si', insetti metallici! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E aveva delle PERSONE dentro!}
 {486}{}{Davvero? Wow! Dove l'avete visto?}
 {487}{}{Stai mentendo!}
 {488}{}{Non ci credo. Stai mentendo.}
 {489}{}{Faresti meglio ad andarci piano con il Jet, ragazzo. Quella roba ti uccidera'. Ci vediamo.}
 {490}{}{Davvero? E' incredibile. Sara' meglio che li vada subito a cercare, allora. Ciao.}
-
-# 23. REALLY? WOW! WHERE DID YOU SEE IT? DON'T TRUST (22)
 {500}{}{Nel deserto. (Ti guarda con sospetto.) Probabilmente non e' piu' la', pero'.}
 {501}{}{Sei sicuro di non volermelo far vedere lo stesso?}
 {502}{}{Potresti comunque portarmi dove l'avete visto?}
 {503}{}{Oh, okay. Ci vediamo, allora.}
-
-# 24. REALLY? WOW! WHERE DID YOU SEE IT? TRUST (22)
 {510}{}{Nel deserto. (Si guarda attorno, poi comincia a sussurrare.) Andremo a vederlo quando fara' DAVVEEERO buio. }
 {511}{}{Nel deserto. (Si guarda attorno, poi comincia a sussurrare.) Andremo a vederlo stanotte. }
 {513}{}{Quando vengo non faccio mai silenzio. Ma per questa volta...}
 {514}{}{Faro' silenzio. Fammi strada, MacDuff.}
 {515}{}{Uh, comunque non credo che vedrete piu' quell'"insetto metallico". In realta' era un elicottero.}
 {516}{}{Non stanotte, grazie. Domani mattina devo alzarmi presto.}
-
-# 25. IT WAS A HELICOPTER (24, 27)
 {530}{}{Hunh? (Si fa serio e si aggiusta la pentola in testa.) Che cos'e' un elle-cottero?}
 {531}{}{E' una... macchina volante. Al suo interno ci possono entrare cose e persone.}
 {532}{}{Un elicottero e'... Credo che la cosa che conosci che piu' ci assomiglia sia un'"automobile". Un elicottero e' una specie di automobile capace di sollevarsi da terra e di rimanere in aria grazie a delle pale verticali rotanti. Il motore dell'elicottero fa girare le pale cosi' velocemente che il velivolo rimane a mezz'aria. Non e' incredibile?}
 {533}{}{Lasciamo perdere. Vedi di non andare piu' a giocare fuori citta'. Potresti rimanere ucciso.}
-
-# 26. YOU'RE LYING! DON'T TRUST (22)
 {540}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! (Ti guarda furente.)}
 {541}{}{Hmmm. Forse STAI dicendo la verita'. Puoi portarmi dove l'avete visto?}
 {542}{}{Okay, ti credo. Mi puoi portare dove l'avete visto?}
 {543}{}{Okay, okay. Come non detto. Torna pure a giocare.}
-
-# 27. YOU'RE LYING! TRUST (22)
 {550}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! Posso DIMOSTRARTELO! (Ti fissa.) Andremo a vederlo quando fara' un po' piu' buio. }
 {551}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! Posso DIMOSTRARTELO! (Ti fissa.) Andremo a vederlo stanotte. }
 {552}{}{Vieni con noi e te lo faro' vedere. (Ridacchia) Se non hai PAURA... }
 {556}{}{No, grazie. Torna pure a giocare.}
-
-# 28. SURE CAN./GIVE PISTOL (20, 21)
 {560}{}{(Prendi la pistola piu' schifosa che hai e la dai al bambino. Lui sorride e la tiene in mano, guardandosela e riguardandosela.) La MIA pistola! Forte! }
 {561}{}{E so anche dove trovare i proiettili!}
 {562}{}{Ehi, non puoi tenerla. E' soltanto un prestito...}
 {563}{}{Yep, tutta tua. Adesso parlami di quegli insetti metallici...}
 {564}{}{Carica e pronta a sparare, ragazzo. Senti un po'... perche' non vai a mostrare la tua pistola al tuo papa'? Mi raccomando: continua a tenerla in mano e premi quella piccola levetta che c'e' li' sotto.}
 {565}{}{Certo. Divertiti. Ci vediamo.}
-
-# 29. UH, YOU CAN'T KEEP IT. (28)
 {570}{}{E' un regalo! E' mia! Me l'hai data! E' la mia pistola!}
 {571}{}{Ridammela, piccolo stronzo!}
 {572}{}{No, e' mia. Ho dovuto far del male a parecchie persone per averla. Potrei, per favooore, riaverla?}
 {573}{}{Oh, diavolo. Questo mondo del dopo-olocausto non potrebbe essere peggiore. Tienila pure.}
-
-# 30. GIVE IT BACK, YOU LITTLE SHIT/NO, IT'S MINE. CAN I PLEEEEASE HAVE IT BACK? (29)
 {580}{}{Noh-oh! (Scappa via con la tua pistola.)}
 {581}{}{Torna qui, piccolo stronzo!}
-
-# 31. WHY DON'T YOU GO POINT IT AT DADDY? (28)
 {590}{}{Okay! (Corre via.)}
 {591}{}{Bene... questa PICCOLA trama diabolica avra' bisogno di un po' di tempo per portare i suoi frutti... sara' meglio lasciare la zona e tornare in un secondo momento.}
 {592}{}{[Allontanati con calma, fischiettando innocentemente.]}
-
-# 32. WHERE ARE YOUR PARENTS? (7, 18)
 {600}{}{(Alza le spalle.) Papa' e' a casa, la mamma e' in chiesa.}
 {603}{}{D'accordo. Ero solo curioso. Grazie.}
-
-# 33. LEAVE HIM AND LET HIM PLAY./WANDER OFF. (27)
 {610}{}{(Il bambino si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
-
-# 34. SHRUG. (24, 25, 27)
 {620}{}{(Il bambino alza le spalle. Si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
-
-# 35. "VIGOROUS" NO (23, 26)
 {630}{}{(Il bambino scuote la testa. Si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
 {631}{}{Uh, okay.}
-{632}{}{Piccola canaglia... vedrai se salvero' te, quando avro' salvato il mondo...} ###???see if I save you when I'm saving the world
-
-# 36. GO OUT INTO DESERT (12, 15, 16, 24, 27)
+{632}{}{Piccola canaglia... vedrai se salvero' te, quando avro' salvato il mondo...}
 {640}{}{Aspetti finche' non fa un po' piu' buio... }
 {641}{}{Aspetti finche' non fa buio... }
 {642}{}{[...poi segui i bambini nel deserto.]}
-
-# 37. SCREAMING
 {700}{}{STA' LONTANO DA ME!}
 {701}{}{Ahhh...}
 {702}{}{Aiuto, aiuto...}
 {703}{}{CATTIVA PERSONA! VA' VIA!}
 {704}{}{STA' LONTANO DA ME!}
-
-# 38. THANKS
 {710}{}{Ehi, grazie per la bella pistola, signore.}
 {711}{}{Ti ho gia' detto che la pistola che mi hai dato mi piace proprio tanto?}
 {712}{}{Ehi, grazie per la bella pistola, signora.}
-
-# 39. LOST GUN
 {720}{}{Uno di voi stupidi mi ha rubato la pistola che questo tipo mi aveva dato?}
 {721}{}{Dov'e' andata a finire la mia pistola?}
 {722}{}{Mi ricordo che mi hai dato una pistola... ma dove l'avro' messa?}
 {723}{}{Uno di voi stupidi mi ha rubato la pistola che questa signora mi aveva dato?}
+{5277}{}{! Raccontaci la storia dell'Enclave! Daaaaaaaai?}
+{5278}{}{! Yaaaaay!}
+{5279}{}{!}
+{5282}{}{.}
+{5321}{}{ giocareee?}
+{5334}{}{ vuole essere incesto!}
+{5353}{}{ no piace gridare.}
+{5354}{}{. Tu prendere in GIRO }
+{5382}{}{! }
+{6354}{}{. }
+{6382}{}{ SCHIACCIA!}
+{7354}{}{ no piace.}

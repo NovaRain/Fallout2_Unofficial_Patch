@@ -1,4 +1,3 @@
-# Dialog Editor last position: 22
 {100}{}{Egy bámulatosan összeillõ párt látsz.}
 {101}{}{New Reno két legnotóriusabb filmsztárjához, Juan Cruzhoz és Vikki Goldman-hez van szerencséd.}
 {102}{}{Egy sötét hajú férfi és egy szõke hajú nõ áll it. Mindketten nagyon vonzó jelenségek. Csak úgy sugárzik belõlük a pajzán "jer közelebb" invitálás.}
@@ -7,11 +6,11 @@
 {105}{}{Maguk mitõl hírességek?}
 {106}{}{Milyen hasonlóságról beszélnek itt nekem?}
 {107}{}{Hubologista akarok lenni. Hol lehet felcsapni?}
-{108}{}{Vikki kedves... Dave H. szerelmes magába!}
+{108}{}{Vikki kedves, Dave H. szerelmes magába.}
 {109}{}{Nagyszerû! Most mennem kell.}
 {110}{}{A férfi: A pusztaság szegény gyermeke... A nõ: Talán egy behangolás segítene... A férfi: Igen, megkérdem magától: szeretne egy behangolást?}
-{111}{}{Ja!}
-{112}{}{Neeem!}
+{111}{}{Ige'!}
+{112}{}{Nem!}
 {113}{}{A nõ: Szerfelett remélem, hogy ez segített. Jó szerencse kísérje útját!}
 {114}{}{Viszonlátására!}
 {115}{}{De bizonyám!}
@@ -19,13 +18,13 @@
 {117}{}{Üdv!}
 {118}{}{A férfi: Látja? A Hub tanításai megint bebizonyították értékállóságukat!}
 {119}{}{Volna néhány kérdésem.}
-{120}{}{Kösznönöm! Viszlát!}
+{120}{}{Kösz! Viszlát!}
 {121}{}{A nõ: A New Reno-i moziüzletbõl élünk. Százával készítettük a filmeket, nagyon sok közülük máris klasszikusnak számít, úgymint "A nyesõember", a "Tágra zárt keblek", vagy az "XXX banditák". Ezek tettek bennünket híressé.}
 {122}{}{A férfi: De hát ugyebár maga is az iparban dolgozik, nem hinném, hogy ez újdonságszámba menne.}
 {123}{}{Örülök, hogy végre arcokat láthatok a nevek mögött.}
 {124}{}{Kit érdekel, hogy MAGUK támogatják-e vagy sem? Nem hozhatom meg a saját döntésemet?}
 {125}{}{Értem. Nos, feltennék még néhány kérdést maguknak.}
-{126}{}{Köszönöm, viszlát!}
+{126}{}{Kösz, viszlát!}
 {127}{}{A nõ: Ó, igen, határozottan a saját döntéseit kell meghoznia. A férfi: És a Hub legújabb könyve alapján megtanulhatja, miképp hozza meg a MEGFELELÕ döntését!}
 {128}{}{A legújabb könyve alapján? Nem halt meg a szerzõ?}
 {129}{}{A "megfelelõ" döntés... hogyne. Mi a helyzet a szabad akarattal?}
@@ -68,30 +67,30 @@
 {166}{}{A férfi: Ez igen nyitott gondolkodásra vall magától. A nõ: Nagyon megvilágosodott. A férfi: Mi megosztjuk a véleményünket az emberekkel - és ha sztár mivoltunk több hívõt képes vonzani, nem vonakodunk bevetni a nemes cél érdekében.}
 {167}{}{Volna még néhány egyéb kérdésem.}
 {168}{}{Érdekelne, hogyan csatlakozhatnék.}
-{169}{}{Értem. Hát... minden jót!}
-{170}{}{A férfi: Nos, ez igen egyszerû. Átadjuk magának ezt az információs hololemezt... A nõ: ...egy rövidke filmet meg kell néznie... A férfi: ...aztán mehet és beszélhet BHK-7-el! A nõ: Egyszerû, nem igaz?}
-{171}{}{Ne késlekedjünk!}
+{169}{}{Értem. Hát akkor isten veled.}
+{170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}
+{171}{}{Csináljuk!}
 {172}{}{Nem hiszem, hogy készen állok erre.}
 {173}{}{A nõ: Ez a maga különbejáratú joga. A férfi: Remélem, megérti, hogy nem császkálhat keresztül-kasul a bázisunkon. A nõ: Ezért jobb lenne, ha távozna! Ha nagyon köti az ebet a karóhoz, az õrök valószínûleg le fogják lõni.}
 {174}{}{Hû, ez pazar! Meghívnak, hogy csatlakozzam, és amikor nem akarok, le akarnak lõni? Szép kis elbánás, mondhatom!}
 {175}{}{Lehet, hogy elõbb le kéne magukat puffantanom, mint egy kutyát.}
 {176}{}{Na, én akkor MOST lépek...}
 {177}{}{A férfi: Ez az utolsó esélye, hogy meggondolja magát. A nõ: Nem szívesen látnánk, ha valami kellemetlenség történne magával.}
-{178}{}{Csesszék meg a hülyeségüket!}
+{178}{}{Baszd meg!}
 {179}{}{Remek. Milyen módon csatlakozhatnék?}
 {180}{}{Valami KELLEMETLEN fog magával történni!}
 {181}{}{Én azért nem innék elõre a medve bõrére. Minden jót!}
 {182}{}{A férfi: Mindent, amit tudunk, megtettünk magáért. A nõ: Szerencse kísérje az útja során!}
-{183}{}{Bye!}
+{183}{}{Üdv!}
 {184}{}{A nõ: Dave? A számítógépes faszi? A férfi: Haha! Azt a szerencsétlent! Vikki az enyém, testestül-lelkestül! Nincs az az eset, hogy az a... elnézést, most épp negatív energiát kezdtem fókuszálni... Biztos összemocskoltam a neurodinjaimat. A nõ: [feléd suttog] Szerintem Dave csini fiú, de amíg Juan itt van, semmit nem tehetek. A férfi: Fú. A Neurodinjaim újra tiszták.}
-{185}{}{Hát... akkor kérdeznék még valamit.}
+{185}{}{Hát... akkor még kérdeznék ezt-azt.}
 {186}{}{Ez minden. Viszlát!}
 {187}{}{A nõ: Nem is volt olyan rossz, ugye? A férfi: Most menjen, és beszéljen BHK-7-el! Hamarosan mindketten Hubológia-elvtársak leszünk! A nõ: Úgy izgulok! A férfi: Az újoncok felvételétõl mindig kanos leszek. A nõ: Ó, édesem... A férfi: Ó, bébi...}
 {188}{}{Akkor talán majd késõbb visszanéznék...}
 {189}{}{A férfi: Ez nagy kár. A nõ: Most már kötelezettségei vannak.}
-{190}{}{-kész-}
+{190}{}{-DONE-}
 {191}{}{A férfi: Maga most életre szóló döntést hozott. A nõ: Sajnos, rossz döntés volt. Mindketten: Õrség! Õrség!}
-{192}{}{Fenébe!}
+{192}{}{Francba!}
 {193}{}{A férfi: Üdvözöljök,}
 {194}{}{Szóval most, hogy Hubologista vagyok, mi a teendõm?}
 {195}{}{Hogyan tudnék magukkal összekovácsolódni?}
@@ -102,10 +101,10 @@
 {200}{}{Köszönöm. Hogyan tudnék magukkal összekovácsolódni?}
 {201}{}{Köszönöm. Ez minden, amit tudni akartam.}
 {202}{}{A nõ: Szomorú dolog ez - mivel a Csillagbéli Atya tudja, hogy maga aranyos -, de ezt inkább mégsem kéne. A férfi: Természetesen mindketten nagyon megtisztelõnek találjuk! A nõ: Esetleg valamikor mindannyian elmehetnénk New Renóba, és közösen forgathatnánk egy filmet.}
-{203}{}{Ó, rendben van. Mi egyebet lehet tenni Hubologistaként?}
+{203}{}{Oh, all right. What else is there to do as a Hubologist?}
 {204}{}{Ó, rendben. Minden jót!}
 {205}{}{A nõ: A hancúrozás rosszat tesz a neurodinjainak. A férfi: Bizonyám. A nõ: Ezért kell õszintének lennem, és elmondani, hogy nem találom magát vonzónak. A férfi: Ennek ellenére továbbra is szeretjük magát, mint a Hub követõjét!}
-{206}{}{Hú, köszönöm. Mi egyebet lehet tenni Hubologistaként?}
+{206}{}{Gee, thanks. So what else is there to do as a Hubologist?}
 {207}{}{Aha-aha. [mormogsz] barmok.}
 {208}{}{Üdvözletünket küldjük, újoncok!}
 {209}{}{Én Vikki Goldman vagyok!}
@@ -127,10 +126,7 @@
 {225}{}{Nem!!! Mi TÉNYLEG SEGÍTENI akarunk!}
 {226}{}{Igazából errõl szól a Hubológia.}
 {227}{}{[megtapsolod õket]}
-
 {228}{}{. Remélem, jól halad a megvilágosodás útján. A nõ: Olyan nagy... reményeket táplálunk maga iránt...}
-
 {229}{}{Elsõ lecke: Ugyebár itt van az örökkévalóság. Az egyik oldalon ott van Quetzel. [ujjával mutat valahova] Itt pedig mi vagyunk. [megintcsak mutat valahova] Nem kell mást csinálnunk, hogy eljussunk oda, csak egyszerûen jó sokat járni.}
 {230}{}{Ember, temérdek cipõre lesz szükségünk!}
-
 {231}{}{A férfi: Most menjen, beszéljen BHK-7-el, és hamarosan Hubológia-elvtársak lehetünk! A nõ: Úgy izgulok! A férfi: Az újoncok felvételétõl mindig kanos leszek. A nõ: Ó, édesem... A férfi: Ó, bébi...}

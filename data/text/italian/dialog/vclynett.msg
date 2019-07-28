@@ -40,7 +40,7 @@
 {139}{}{Hunh?}
 {140}{}{Valt! Valt!}
 {141}{}{Testa giraaaaaaa.}
-{142}{}{Ciao ciao}
+{142}{}{Bye-bye}
 {143}{}{Non e' questo il Vault dal quale proviene il mio antenato?}
 {144}{}{Non lo so. Vengo da un villaggio ad occidente.}
 {145}{}{Non lo so. Sto cercando di trovare il Vault dal quale proviene il mio antenato... lei puo' aiutarmi?}
@@ -52,8 +52,6 @@
 {151}{}{-Allontanati-}
 {152}{lyn010}{Non so dove tu abbia trovato le capacita' mentali necessarie per entrare in citta', ma faro' in modo che tu non ci entri mai piu'... guardie! Scortate questo imbecille all'esterno delle mura!}
 {153}{}{NO!}
-
-# player's name prepended to line 154
 {154}{}{ sta con gente di metallo}
 {155}{lyn011}{Salute a te, straniero. Io sono il Primo Cittadino, Lynette. Posso chiederti quali sono i tuoi affari qui?}
 {156}{}{Afffffffrari? Affa-raru?}
@@ -63,7 +61,7 @@
 {160}{}{Sono alla ricerca di un Kit per la Creazione del Giardino dell'Eden, Primo Cittadino. Per caso la vostra citta' ne possiede uno che potrei acquistare?}
 {161}{}{Lei e'... il Supervisore di questo Vault?}
 {162}{}{Perdoni la mia ignoranza, Primo Cittadino... per caso, il titolo di "Primo Cittadino" significa che lei e' il Supervisore di questo vault?}
-{163}{}{Questa e' Vault City? Perche' non vivete in un Vault?}
+{163}{}{Questa e' Vault City? Perche' non vivete in un vault?}
 {164}{}{Nessun affare oggi. Un'altra volta, magari.}
 {165}{}{Per oggi niente. Vi porgo le mie scuse per averla disturbata, Primo Cittadino. Buona Giornata.}
 {166}{lyn012a}{Dov'e' che un tipo come TE ha sentito parlare di un Kit per la Creazione del Giardino dell'Eden?}
@@ -80,7 +78,7 @@
 {177}{}{Capisco. Vorrei parlare con il Supervisore del Vault. Puo' condurmi da lui?}
 {178}{}{Cosa puo' fare una persona per diventare uno di voi Abitanti del Vault?}
 {179}{}{Se odiate cosi' tanto il mondo esterno, perche' vivete all'esterno e non all'interno del vault?}
-{180}{}{Ho sentito abbastanza. Arrivederci.}
+{180}{}{Ho sentito abbastanza. Addio.}
 {181}{}{Io... capisco. La ringrazio per il tempo che mi ha dedicato, Primo Cittadino.}
 {182}{lyn014}{Trovo che TUTTI voi Esterni siate ripugnanti. Siete privi di cultura e primitivi, per nulla migliori degli altri animali! Adesso vattene. O ti faro' portare via con la forza.}
 {183}{}{No! Non me ne andro' finche' non avro' ottenuto delle risposte!}
@@ -109,25 +107,25 @@
 {206}{}{E' molto importante che io parli con il Supervisore. Puo' portarmi da lui?}
 {207}{}{Sto sprecando tempo prezioso parlando con te. Portami immediatamente dal Supervisore.}
 {208}{}{Sto sprecando tempo prezioso parlando con lei. Mi conduca immediatamente dal Supervisore.}
-{209}{}{Ho sentito abbastanza. Arrivederci.}
+{209}{}{Ho sentito abbastanza. Addio.}
 {210}{}{Grazie per avermi concesso un po' del suo tempo, Primo Cittadino. Buona giornata.}
 {211}{lyn019}{Non esiste un "Supervisore". Quando risalimmo in superficie, formammo un nuovo governo. La figura del Supervisore divenne inutile.}
 {212}{}{Un nuovo governo? Mi dica di piu'.}
 {213}{}{Quindi lei e' il leader degli ex abitanti del vault?}
 {214}{}{Mossa astuta. Liberarsi del corrotto Supervisore.}
-{215}{}{Capisco. Grazie per l'informazione. Arrivederci.}
+{215}{}{Capisco. Grazie per l'informazione. Buona giornata.}
 {216}{lyn020}{Le informazioni in tuo possesso sono errate. I nostri archivi parlano abbastanza chiaro: il nostro vault ricevette il segnale di via libera due anni dopo essere stato sigillato.}
 {217}{}{Il segnale di "via-libera"? Da dove?}
 {218}{}{Dove si trovano questi archivi?}
 {219}{}{Dov'e' il Supervisore? Devo parlare con lui.}
 {220}{}{Beh, le leggende della NOSTRA tribu' affermano che il Vault rimase chiuso per anni... e che nessun segnale di "via-libera" fu mai ricevuto.}
 {221}{}{Stai mentendo! Il segnale di "via-libera" non e' mai arrivato!}
-{222}{}{Capisco. Grazie per l'informazione. Arrivederci.}
+{222}{}{Capisco. Grazie per l'informazione. Buona giornata.}
 {223}{lyn021}{Beh... dai monitor di superficie, immagino. Sono certa ci fossero dei sensori che controllavano l'ambiente esterno. In che altro modo il Supervisore avrebbe potuto sapere che abbandonare il vault non sarebbe stato pericoloso?}
 {224}{}{Esistono ancora questi sensori? Posso vederli?}
 {225}{}{Quindi... l'ordine di lasciare il vault venne dato dal Supervisore?}
 {226}{}{A proposito del Supervisore, dove si trova? Vorrei parlare con lui.}
-{227}{}{Stai mentendo! Il segnale di "via-libera" non e' mai arrivato!}
+{227}{}{Stai mentendo! Il segnale di via libera non e' mai arrivato!}
 {228}{}{Non ne sono certo... per ora. Buona giornata.}
 {229}{lyn022}{Molto probabilmente furono smontati e usati per potenziare altri sistemi.}
 {230}{}{Hmmm. Ma fu il Supervisore a dare l'ordine di lasciare il vault?}
@@ -136,7 +134,7 @@
 {233}{}{Capisco. Grazie per l'informazione. Buona giornata.}
 {234}{lyn023}{Si'... o almeno, questo e' quanto mi ricordo di aver letto negli archivi. Tuttavia, sono certa che molti Cittadini fossero responsabili del controllo dei sensori di superficie.}
 {235}{}{Ha qualche idea su dove si trovino adesso questi sensori di superficie?}
-{236}{}{Dove si trovano questi archivi?} #
+{236}{}{Dove si trovano questi archivi?}
 {237}{}{Dov'e' il Supervisore? Devo parlare con lui.}
 {238}{}{Stai mentendo! Il segnale di via libera non e' mai arrivato!}
 {239}{}{Capisco. Grazie per l'informazione. Buona giornata.}
@@ -225,7 +223,7 @@
 {322}{}{Se non sono sufficienti a convincerla, allora non c'e' altro da aggiungere. Buona giornata.}
 {323}{lyn041a}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te e con le tue assurde richieste. }
 {324}{lyn041b}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te. }
-{325}{lyn041c}{Adesso vattene immediatamente, o saro' costretta a chiamare le guardie.}
+{325}{lyn041c}{Adesso vattene immediatamente, o dovro' chiamare le guardie.}
 {326}{}{Dai, chiamale. Non arriveranno in tempo per salvarti la vita.}
 {327}{}{Bene. Me ne vado.}
 {328}{}{Molto bene, Primo Cittadino. Buona giornata.}
@@ -239,10 +237,12 @@
 {336}{}{Ma io sono un Cittadino.}
 {337}{}{Cosa posso fare per diventare un Cittadino?}
 {338}{}{Immagino che la fortuna non mi abbia sorriso, allora. Buona giornata.}
+{339}{lyn044}{Rather than taking the test, you could prove your commitment to the Vaults in a more...
+substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.}
 {340}{}{Che tipo di problema?}
 {341}{}{Certamente. Di qualsiasi cosa abbiano bisogno i vault, il mio compito e' di provvedere.}
 {342}{}{Non saprei... non e' il test per la Cittadinanza la procedura standard?}
-{343}{}{Non penso di essere il tipo adatto per questo lavoro... addio.}
+{343}{}{Non penso di essere la persona giusta per questo lavoro... addio.}
 {344}{}{No grazie, credo proprio di dover andare. Buona giornata, Primo Cittadino.}
 {345}{lyn045}{Assassini, tutti e due. Boyarsky fu esiliato dieci anni fa e Richard Moreau subi' lo stesso destino poco tempo dopo che lasciammo il Vault. La Cittadinanza e' un privilegio sacro - il crimine non e' tollerato tra queste mura.}
 {346}{}{Se questo non e' il Vault giusto, allora devo trovare quello dal quale proviene il mio antenato.}
@@ -269,7 +269,7 @@
 {367}{}{Devo trovare il Vault dal quale la mia gente proviene.}
 {368}{}{Ho bisogno di un Kit del Giardino dell'Eden. Ne avete uno?}
 {369}{}{Oh, e cosi' ADESSO sono benvenuto nella vostra citta'? Al diavolo... me ne vado di qui.}
-{370}{}{Non hai idea di quello che ho passato... ma ti raccontero' del Tempio della Prova un'altra volta. Addio.}
+{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
 {371}{lyn051}{Ti sto dando un'opportunita' concessa a pochissimi Esterni. Puoi affrontare il test, se vuoi. Ma risolvere questo problema per noi potrebbe rivelarsi piu' remunerativo. Capisci quello che voglio dire?}
 {372}{}{Siamo d'accordo, allora. Che tipo di problema?}
 {373}{}{Capisco. Di qualsiasi cosa abbiano bisogno i vault, e' mio dovere provvedere.}
@@ -279,14 +279,14 @@
 {377}{}{Prima che io vada ad esaminare gli archivi, vorrei farle delle altre domande...}
 {378}{}{Per caso avete anche un GECK?}
 {379}{}{Benissimo! Grazie.}
-{380}{}{Grazie, Primo Cittadino.}
+{380}{}{La ringrazio, Primo Cittadino.}
 {381}{lyn053a}{Si'? In cosa posso aiutarti?}
 {382}{lyn053b}{Si'? Cosa c'e'?}
 {383}{}{Hunh?}
 {384}{}{Valt! Valt!}
 {385}{}{Straniiiii occhi!!}
 {386}{}{Bye-bye}
-{387}{}{Avrei delle domande...}
+{387}{}{Avrei delle domande che vorrei porle.}
 {388}{}{Avrei delle domande che vorrei porle.}
 {389}{}{In che modo una persona puo' diventare Cittadino di Vault City?}
 {390}{}{Ho riconsiderato la sua offerta per la Cittadinanza.}
@@ -297,19 +297,19 @@
 {395}{}{Credo che il Dr. Troy sia coinvolto in qualche traffico illegale.}
 {396}{}{Devo parlarle a proposito della consegna di quell'olodisco.}
 {397}{}{Ho cambiato idea. Consegnero' quell'olodisco al Consigliere a NCR.}
-{398}{}{Nulla. Mi spiace averla disturbata.}
+{398}{}{Niente. Scusa se ti ho disturbata.}
 {399}{lyn054a}{Certamente. Come posso aiutarla, Cittadino?}
 {400}{lyn054b}{Certamente. Come posso aiutarla, Capitano?}
 {401}{}{Cosa puo' dirmi riguardo quegli assalti dei predoni contro la nostra citta'?}
 {402}{}{Ho incontrato un certo Thomas Moore, un Cittadino, nella citta' bassa. Chi e'?}
-{403}{}{Avete un GECK?}
+{403}{}{Hai un GECK?}
 {404}{}{Sto cercando il Vault 13.}
 {405}{}{Questa e' Vault City? Perche' non vivete in un vault?}
 {406}{}{Perche' consentite la pratica della schiavitu'?}
-{407}{}{Per oggi nulla, grazie.}
+{407}{}{Per oggi niente, grazie.}
 {408}{lyn055}{Per essere un non-Cittadino, stai pretendendo una grande quantita' del mio tempo.}
 {409}{}{Ma io SONO un Cittadino.}
-{410}{}{Avete un GECK?}
+{410}{}{Hai un GECK?}
 {411}{}{Sto cercando il Vault 13.}
 {412}{}{Che cosa mi serve per diventare un Cittadino?}
 {413}{}{Questa e' Vault City? Perche' non vivete in un vault?}
@@ -319,15 +319,15 @@
 {417}{}{Speravo di poterle fare un'altra domanda.}
 {418}{}{Vorrei porgerle le mie scuse riguardo i commenti che ho espresso prima, Primo Cittadino. Speravo di poterle fare alcune domande a proposito di Vault City.}
 {419}{}{Sai, ci sono delle marche di caffe' decaffeinato che hanno lo stesso sapore di quello vero.}
-{420}{}{Non importa.}
+{420}{}{Lasciamo stare.}
 {421}{}{Le mie scuse, Primo Cittadino. Spiacente di disturbarla.}
 {422}{lyn057}{Cosa c'e'? Non ti sei ancora occupato di loro?}
 {423}{}{La faccenda e' un po' piu' complessa. Vede... questi tizi non erano una semplice banda di predoni... erano mercenari.}
-{424}{}{Non importa. Addio.}
+{424}{}{Non importa. Arrivederci.}
 {425}{lyn058}{Non ricordo la tua investitura. Fammi vedere i tuoi documenti.}
 {426}{}{Ecco a lei. Dovrebbe essere tutto in ordine.}
 {427}{}{Umm... Non ho i miei documenti con me.}
-{428}{}{I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
+{428}{}{ I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
 {429}{}{ I miei documenti? Non sono ancora pronti. Dovrebbero arrivare sulla sua scrivania uno dei prossimi giorni.}
 {430}{lyn059}{Non giocare con me, "Cittadino," o faro' in modo che tu non metta piu' piede sulle strade di Vault City. Adesso vattene.}
 {431}{}{Nessun problema...adesso me ne vado. Addio.}
@@ -337,7 +337,7 @@
 {435}{}{Io, uh, non ricordo.}
 {436}{}{Dovrai prendermi, prima.}
 {437}{lyn061}{Hmmmm... molto bene. Ma non farti piu' vedere finche' non avrai i tuoi documenti di Cittadinanza. Buona giornata.}
-{438}{}{Addio.}
+{438}{}{Arrivederci.}
 {439}{}{Buona giornata, Primo Cittadino.}
 {440}{lyn062}{Oh, davvero? Questo conferma i miei sospetti. Il tuo accesso a Vault City e' revocato. Consegnami il tuo pass giornaliero e dirigiti con le mie guardie verso il cancello principale.}
 {441}{}{Cosa? Aveva detto che mi avrebbe lasciato tenere il mio pass giornaliero!}
@@ -347,14 +347,14 @@
 {445}{}{Si', lo faro' - in cambio della Cittadinanza e dell'accesso ai computer del vostro Vault.}
 {446}{}{No, non proprio. Controllavo solo che la sua offerta fosse ancora valida.}
 {447}{lyn064}{Molto bene. Torna da me quando avrai concluso il lavoro, e io ti concedero' la Cittadinanza.}
-{448}{}{Posso farle un'altra domanda prima che io vada?}
+{448}{}{Posso farle un'altra domanda, prima di andare?}
 {449}{}{D'accordo. Tornero' quando il problema sara' stato risolto.}
 {450}{lyn065}{Hai risolto il problema?}
 {451}{}{Ho scoperto che tutto cio' che serve loro per far funzionare correttamente la loro centrale e' un regolatore idroelettrico di magnetosfera.}
 {452}{}{La centrale energetica e' stata distrutta. Se fossi in voi, farei in modo che i vostri brahmin vadano a pascolare a sud ovest, d'ora in poi.}
 {453}{}{Mi sono occupato della centrale energetica di Gecko. Non dovreste piu' avere problemi con la perdita di radiazioni.}
 {454}{}{No, non ancora. Ci sto ancora lavorando.}
-{455}{lyn066}{Allora non sprecare il mio tempo. Torna quando avrai qualcosa di concreto da dirmi.} ##
+{455}{lyn066}{Allora non sprecare il mio tempo. Torna quando avrai qualcosa di concreto da dirmi.}
 {456}{}{Va bene. Tornero' piu' tardi.}
 {457}{}{Molto bene. Buona giornata, Primo Cittadino.}
 {458}{lyn067a}{Quindi NON hai risolto il problema? }
@@ -374,7 +374,7 @@
 {472}{}{Uh-huh}
 {473}{}{Non ti piace il mio amico, eh? Che peccato. Invece a lui piaci... come CENA.}
 {474}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
-{475}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado in pace.}
+{475}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado spontaneamente.}
 {476}{lyn070}{Cosa? Hai distrutto la centrale?! E le radiazioni?! IDIOTA! Almeno quei ghoul sono morti... Sparisci dalla mia vista.}
 {477}{}{Whoa! E per quella Cittadinanza che mi aveva promesso?}
 {478}{}{Senti, provocare tutta quella distruzione non e' stato facile! Mi aspetto un QUALCHE tipo di ricompensa...}
@@ -392,7 +392,7 @@
 {490}{lyn074}{Cosa?! Te lo ha dato?! Immagino che ti abbia anche concesso la Cittadinanza! Riparare la centrale di Gecko non risolvera' nulla! Quelle... creature! Non ci si puo' fidare di loro! Cosa succede se la loro centrale ricomincia a perdere?!}
 {491}{}{Non saprei... magari potreste AIUTARLI a ripararla di nuovo, no?}
 {492}{}{Senta, le falde acquifere non vengono piu' contaminate, e nessuno si e' fatto male. Il problema e' risolto.}
-{493}{}{Tornero' quando si sara' calmata.}
+{493}{}{Tornero' piu' tardi, quando si sara' calmata.}
 {494}{}{Devo andare, Primo Cittadino. Buona giornata.}
 {495}{lyn075}{Faresti bene a stare in guardia quando ti trovi in citta', "Cittadino". Ti terro' d'occhio. Un solo passo falso, e sarai esiliato.}
 {496}{}{Adesso basta. Nessuno puo' minacciarmi, e specialmente una troia bigotta con un palo nel culo. E' giunta la tua ora.}
@@ -420,7 +420,7 @@
 {518}{}{Fornisce assistenza medica soltanto ai Cittadini.}
 {519}{}{Niente... non volevo dire quello che ho detto. Buona giornata.}
 {520}{lyn079}{Chi sei tu per accusare un Cittadino di tali crimini? Guardie! Scortate questo Esterno ai cancelli!}
-{521}{}{Le sue guardie non arriveranno in tempo per salvarle la vita... "Primo Cittadino".}
+{521}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
 {522}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado spontaneamente.}
 {523}{}{Ma e' la verita'! Lei deve credermi! Ho le pr --!}
 {524}{lyn080}{Questa e' un'accusa molto seria. Dal momento che sei un Cittadino, devo crederti sulla parola... ma ne sei assolutamente sicuro? Se e' vero, gli verra' revocata la Cittadinanza e sara' esiliato.}
@@ -456,11 +456,11 @@
 {554}{}{Voglia accettare le mie scuse, Primo Cittadino. Buona giornata.}
 {555}{lyn086}{Credo sia venuto il momento che tu te ne vada. Ti consiglio di fare in modo che il tuo soggiorno a Vault City sia il piu' breve possibile.}
 {556}{}{Prima che io vada, avrei delle altre domande...}
-{557}{}{Va bene. Me ne vado.}
+{557}{}{D'accordo. Me ne vado.}
 {558}{lyn087}{Moore? E' un sobillatore. ECCO cos'e'.}
 {559}{}{Ha ragione. Moore ha degli interessi... all'esterno.}
 {560}{}{Perche' mi dice che si tratta di un sobillatore?}
-{561}{}{Posso farle un'altra domanda?}
+{561}{}{Posso farti un'altra domanda?}
 {562}{}{Ho parlato con lui... e molte delle cose che dice sono sensate.}
 {563}{}{Sono d'accordo. Vuole che... me ne occupi?}
 {564}{}{Potrebbe revocargli la Cittadinanza, allora.}
@@ -470,17 +470,17 @@
 {568}{}{In che modo tenta di convincere i Cittadini?}
 {569}{}{Sembrerebbe un bel problema. Cosa ne direbbe se me ne... occupassi io?}
 {570}{}{Non potete semplicemente cacciarlo dalla citta'?}
-{571}{}{Ho delle altre domande...}
+{571}{}{Avrei delle altre domande...}
 {572}{}{Oh. Beh, grazie per l'informazione. Buona giornata.}
 {573}{lyn089}{Gli archivi riportano che molte nazioni del vecchio mondo adottavano tale forma di governo. Sappiamo bene dove QUESTO le ha portate. Ma ti immagini quanto tempo ci vorrebbe per fare qualcosa in una societa' del genere? E' inconcepibile.}
 {574}{}{Inconcepibile? Perche'?}
 {575}{}{In che modo Moore tenta di convincere i Cittadini?}
-{576}{}{Ho delle altre domande...}
+{576}{}{Avrei delle altre domande...}
 {577}{}{Credo di si'. Devo andare.}
 {578}{}{Grazie per avermi concesso il suo tempo, Primo Cittadino. Buona giornata.}
 {579}{lyn090}{Un governo ha bisogno di un leader forte e capace, che sia in grado di prendere le decisioni rapidamente e cha abbia il potere per farle rispettare. Un governo per commissione non e' certo un governo.}
 {580}{}{In che modo Moore tenta di convincere i Cittadini ad accettare l'idea che Vault City dovrebbe essere una democrazia?}
-{581}{}{Ho delle altre domande...}
+{581}{}{Avrei delle altre domande...}
 {582}{}{Credo di si'. Devo andare.}
 {583}{}{Grazie per avermi concesso il suo tempo, Primo Cittadino. Buona giornata.}
 {584}{lyn091}{Facendo discorsi in pubblico e cercando di raggirarci. Gioca con i nostri sentimenti raccontando storie su un'epidemia nella NCR, come se NOI potessimo prenderci cura del mondo intero.}
@@ -502,10 +502,10 @@
 {600}{lyn094}{Noi abbiamo prosperato in questo mondo dove molti altri hanno fallito, e tu mi vieni a dire che abbiamo bisogno di cambiare? Guarda il mondo esterno! Anarchia, depravazioni, malattie... Vault City e' un paradiso!}
 {601}{}{E' proprio per QUESTO che un cambiamento e' necessario. Potreste dividere i vostri risultati con gli altri.}
 {602}{}{E' un paradiso per alcune persone... forse. Credo che i vostri schiavi non sarebbero d'accordo.}
-{603}{}{Non discutero' oltre con lei di questo argomento. Addio.}
+{603}{}{Non discutero' piu' con lei di questo argomento. Addio.}
 {604}{lyn095}{Vault City e' stata costruita con il duro lavoro e le sofferenze di molti Cittadini. Il mondo esterno dovrebbe guardare al nostro esempio e seguirlo, non starsene all'esterno delle nostre mura a chiedere l'elemosina.}
 {605}{}{Il duro lavoro dei Cittadini? In qualunque parte della citta' io vada, vedo che il vero lavoro e' fatto dagli schiavi.}
-{606}{}{ Non discutero' oltre di questo argomento con lei. Addio.}
+{606}{}{Non discutero' piu' con lei di questo argomento. Addio.}
 {607}{lyn096}{Perche' consentiamo la pratica della schiavitu'? Il sistema e' in funzione da molti anni e funziona discretamente bene. Entrambe le parti ne traggono benefici.}
 {608}{}{Capisco. Posso farle un'altra domanda?}
 {609}{}{Sono certo che i vostri schiavi non sarebbero d'accordo.}
@@ -516,22 +516,22 @@
 {614}{}{Certo. Perche' essere liberi quando possono sgobbare per voi?}
 {615}{}{Senta, non importa quali parole soavi lei usi per coprire il marcio: si tratta sempre di schiavitu'.}
 {616}{}{Uh... certo. Senta, avrei delle altre domande...}
-{617}{}{ Non discutero' piu' con lei di questo argomento. Addio.}
+{617}{}{Non discutero' piu' con lei di questo argomento. Addio.}
 {618}{}{Hmmmm. Non ho mai considerato la cosa da questo punto di vista. Devo pensarci un po' su.}
 {619}{lyn098}{La tua ipocrisia e' quasi da ammirare. Porti il simbolo della Gilda degli Schiavisti, eppure sei contrario alla schiavitu'.}
 {620}{}{Non sono contrario alla schiavitu', sto solo facendole notare che sono loro che fanno il vero lavoro qui dentro.}
 {621}{}{Senta, mi sono fatto fare questo marchio solo per ottenere delle informazioni... non sono uno schiavista.}
 {622}{}{Ero giovane... mi servivano dei soldi...}
 {623}{}{Non discutero' piu' con lei di questo argomento. Addio.}
-{624}{lyn099}{Che cosa intendi dire?}
+{624}{lyn099}{Cosa vuoi dire?}
 {625}{}{Moore in realta' sta lavorando per la New California Republic.}
-{626}{}{Non importa. Ho delle altre domande...}
+{626}{}{Come non detto. Avrei delle altre domande...}
 {627}{}{Nulla. Devo andare. Addio.}
 {628}{}{Nulla. Mi sono espresso male. Buona giornata, Primo Cittadino.}
 {629}{lyn100}{Ucciderlo?! L'omicidio in ogni suo modo, modalita', o forma non e' permesso a Vault City - anche se e' per una buona causa. Non parliamone piu'.}
-{630}{}{Capito. Posso farle delle altre domande?}
+{630}{}{Ho capito. Posso farle qualche altra domanda?}
 {631}{}{Senta, 'omicidio' e' una cosi' brutta parola. Potrei organizzare un qualche tipo di incidente... un overdose di farmaci, la carica di un brahmin... molte cose possono accadere in questo mondo cosi' pericoloso.}
-{632}{}{Va bene. Me ne vado.}
+{632}{}{D'accordo. Me ne vado.}
 {633}{}{Molto bene, Primo Cittadino. Buona giornata.}
 {634}{lyn101}{Questa non e' la condotta di un Cittadino! Ti revoco la Cittadinanza. Le mie guardie ti condurranno fino al cancello principale.}
 {635}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
@@ -539,7 +539,7 @@
 {637}{lyn102}{Questo farebbe gli interessi di Vault City, ma non posso farlo... Finche' non infrange la legge, Moore puo' dire tutto cio' che vuole.}
 {638}{}{Vuole che... me ne occupi io?}
 {639}{}{Oh, ma le ha infrante. Vede, Moore non e' un semplice Cittadino... sta badando anche agli interessi di qualcun altro.}
-{640}{}{Posso farle un'altra domanda?}
+{640}{}{Posso farti un'altra domanda?}
 {641}{}{Beh, continuando cosi' si sta probabilmente scavando da solo la fossa. A presto.}
 {642}{}{Capisco. Beh, la ringrazio per il suo tempo, Primo Cittadino.}
 {643}{lyn103}{Una spia di NCR? Questo... questo... spiegherebbe moltissime cose. La ringrazio, Cittadino. Me ne occupero' immediatamente.}
@@ -549,28 +549,28 @@
 {647}{lyn104}{Hanno cominciato diversi mesi fa. Le torrette laser sono state in grado di tenerli a bada, ma non so per quanto tempo ancora riusciremo a fermarli.}
 {648}{}{Chi sono questi predoni?}
 {649}{}{Avrei delle altre domande...}
-{650}{}{Devo andare. Arrivederci.}
+{650}{}{Devo andare. Goodbye.}
 {651}{}{Mi dispiace; magari se ne andranno da qualche altra parte in cerca di bersagli piu' facili. Buona giornata, Primo Cittadino.}
 {652}{lyn105}{Spazzatura Esterna. Per oltre un secolo, gli Esterni hanno cercato di saccheggiare la nostra citta'... e hanno sempre fallito. Alla fine, sconfiggeremo questo banda.}
 {653}{}{Uh... "alla fine?" Perche' non li avete gia' spazzati via?}
-{654}{}{Posso farle un'altra domanda?}
-{655}{}{Devo andare. Arrivederci.}
+{654}{}{Posso farti un'altra domanda?}
+{655}{}{Devo andare. Goodbye.}
 {656}{}{Devo andare. Buona giornata, Primo Cittadino.}
 {657}{lyn106}{Trovare la loro base si e' dimostrato difficile. In piu' hanno a disposizione una grande potenza di fuoco. Nonostante cio', abbiamo respinto ogni attacco... con perdite minime.}
-{658}{}{Posso farle un'altra domanda?}
+{658}{}{Posso farti un'altra domanda?}
 {659}{}{Devo andare. Goodbye.}
 {660}{}{Grazie per avermi concesso il suo tempo. Buona giornata, Primo Cittadino.}
 {661}{lyn107}{Cosa c'e'? }
 {662}{}{Ho trovato la loro base. Sono rintanati in una serie di caverne ai piedi delle colline a sud.}
 {663}{}{Li ho spazzati via. Erano rintanati in una serie di caverne ai piedi delle colline a sud.}
 {664}{}{Questa informazione ha il suo prezzo.}
-{665}{}{Non importa. Devo andare.}
+{665}{}{Niente. Devo andare.}
 {666}{lyn108}{Davvero? Eccellente! Ma il corpo di guardia cittadino e' gia' ridotto all'osso. E tu, invece? Puoi far cessare gli attacchi? Ti paghero'.}
 {667}{}{No, sono troppo occupato al momento.}
 {668}{}{Vedro' di fare il possibile.}
 {669}{lyn109}{Molto bene. Se vuoi scusarmi, anch'io sono molto occupata. Puoi trovare da solo la porta.}
 {670}{}{Avrei delle altre domande da farle, prima...}
-{671}{}{Va bene, me ne vado.}
+{671}{}{D'accordo, me ne vado.}
 {672}{}{Molto bene. Buona giornata, Primo Cittadino.}
 {673}{lyn110a}{Mercenari? Chi li ha ingaggiati?}
 {674}{lyn110b}{Si, mi pare che tu me lo abbia accennato anche prima. Sai chi li ha ingaggiati?}
@@ -597,7 +597,7 @@
 {695}{}{Il piacere e' tutto mio, Primo Cittadino. Buona giornata.}
 {696}{lyn116}{Hanno davvero inviato dei mercenari per ammazzare la mia gente perche' non ho accettato di entrare a far parte del loro stato? Io... faccio fatica a crederci.}
 {697}{}{La cosa si fa ancora piu' complicata. Anche Thomas Moore e' coinvolto.}
-{698}{}{C'e' qualcos'altro che posso fare per aiutarvi?}
+{698}{}{C'e' niente che possa fare per aiutarvi?}
 {699}{}{E' un mondo difficile. Ad ogni modo, per la ricomp -- }
 {700}{lyn117}{Questa non e' la condotta di un Cittadino. Ma mi serve questa informazione. Qual e' il tuo prezzo?}
 {701}{}{100$}
@@ -622,16 +622,16 @@
 {720}{lyn121b}{Si', si'... hai fatto un ottimo lavoro. Per favore... prendi questo come ricompensa.}
 {721}{}{Nessuna ricompensa?! Scoprire tutte queste stronzate politiche non e' stato facile. Credo di meritare qualcosa di piu', non credi?!}
 {722}{}{Un attimo, non ho ancora finito. Avrei delle altre domande...}
-{723}{}{Va bene, me ne vado.}
+{723}{}{D'accordo, me ne vado.}
 {724}{}{Grazie. Avrei delle altre domande...}
 {725}{}{Ottimo! Grazie... Adesso sara' meglio che vada.}
 {726}{}{La ringrazio, Primo Cittadino.}
 {727}{lyn122}{Roger Westin e' probabilmente l'unico uomo onesto di NCR ed e' solidale con la nostra causa. }
 {728}{}{Va bene, gli consegnero' il disco.}
 {729}{}{No grazie. Adesso sono troppo occupato.}
-{730}{lyn123}{Il tuo patriottismo non rimarra' senza ricompensa. Adesso vai. Ogni momento e' prezioso.}
+{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
 {731}{}{Prima che io vada, avrei delle altre domande...}
-{732}{}{Ci puoi contare.}
+{732}{}{Lo faro'.}
 {733}{}{Puo' contare su di me, Primo Cittadino. Tornero' dopo aver consegnato il disco a Westin.}
 {734}{lyn124}{Nonostante cio', Vault City prevarra'. Hai compiuto un prezioso servizio... ti prego, accetta questo segno della nostra gratitudine.}
 {735}{}{Grazie. Avrei delle altre domande...}
@@ -646,10 +646,10 @@
 {744}{}{Non ancora, Primo Cittadino. Tornero' quando l'avro' consegnato a Westin.}
 {745}{lyn126}{Davvero?! Eccellente! Prendi il disco che hai trovato da Bishop e sbrigati. Ogni momento e' prezioso.}
 {746}{}{Prima che io vada, avrei delle altre domande...}
-{747}{}{Ci puoi contare.}
+{747}{}{Lo faro'.}
 {748}{}{Puo' contare su di me, Primo Cittadino. Tornero' dopo aver consegnato il disco a Westin.}
 {749}{lyn127}{Credimi, non rimarrai deluso. Adesso, ti prego, consegna quell'olodisco.}
-{750}{}{Prima che vada, avrei delle altre domande...}
+{750}{}{Prima che io vada, avrei delle altre domande...}
 {751}{}{D'accordo. Lo faro'.}
 {752}{}{Puo' contare su di me, Primo Cittadino. Tornero' dopo aver consegnato il disco a Westin.}
 {753}{lyn128}{Vedo che il nostro accordo non ha nessun significato per te. Molto bene, allora; i tuoi privilegi a Vault City sono stati annullati. Le mie guardie ti scorteranno fino al cancello principale.}
@@ -689,9 +689,7 @@
 {787}{lyn138}{Una spia di NCR? Questo... questo... spiegherebbe un sacco di cose. Grazie per averlo smascherato, Cittadino. Di QUESTO problema posso occuparmene immediatamente.}
 {788}{}{A proposito del problema con NCR... c'e' qualcosa che potrei fare per aiutarvi?}
 {789}{}{Mi fa piacere. Tuttavia, per aver scoperto tutte 'ste robe su New Reno e NCR, mi domandavo se ci fosse una ricom -- }
-
-# Generic line from 790 to 846 are not used. If this changes, we will need to do the lip-syncing and attach voc files.
-{790}{}{Guards!}
+{790}{}{Guardie!}
 {791}{}{Please go see the Proconsole. He will have what you need.}
 {792}{}{Please go see Senior Councilman McClure. He will have what you need.}
 {793}{}{Please go see my assistant. He will have what you need.}
@@ -712,31 +710,31 @@
 {808}{}{To the Southwest}
 {809}{}{To the Southeast}
 {810}{}{I don't want that.}
-{811}{}{Thank you.}
+{811}{}{Grazie.}
 {812}{}{Thanks for your time.}
-{813}{}{Guards!}
+{813}{}{Guardie!}
 {814}{}{I love Scott Rodenhiser.}
 {815}{}{My little dreadlocks are cute.}
 {816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
-{818}{}{Very well.}
+{818}{}{Molto bene.}
 {819}{}{Buona giornata.}
-{820}{}{Buona giornata, Citizen.}
+{820}{}{Buongiorno, Cittadino.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
 {823}{}{I don't know anything about that.}
 {824}{}{I don't know.}
-{825}{}{Yes.}
+{825}{}{Si'.}
 {826}{}{No.}
 {827}{}{Certainly.}
-{828}{}{Of course.}
+{828}{}{Certamente.}
 {829}{}{Correct.}
 {830}{}{Exactly.}
 {831}{}{Right.}
 {832}{}{Hmpphhh.}
 {833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
 {834}{}{Vault City prevails. }
-{835}{}{Vault City prevails, Citizen.}
+{835}{}{Vault City prevale, Cittadino.}
 {836}{}{Oh, boy! Sleep! That's where I'm a Viking!}
 {837}{}{Degenerate!}
 {838}{}{Outsider}
@@ -748,8 +746,6 @@
 {844}{}{Sorry, thought I'd killed them all.}
 {845}{}{That's a good start, but our ground water is still being contaminated. You need to disable their plant.}
 {846}{}{That does help, but that doesn't stop our primary problem: the contamination of the groundwater. You need to stop the plant from leaking radiation.}
-# End of Unused Dialog
-
 {847}{}{L'Anziana del mio villaggio mi ha consegnato una borraccia, ma non l'ho con me. Comunque, le leggende che l'Anziana ci ha raccontato affermavano che il mio antenato era originario di un Vault.}
 {848}{}{Sta parlando dei ghoul? Si', ho scoperto cosa c'e' che non va nella loro centrale.}
 {849}{}{La centrale ha bisogno di un idro-magnete-come-si-chiama per funzionare. I ghoul hanno detto che ne avete uno qui, quindi mi basterebbe solo questo dispositivo e loro potrebbero riparare la centrale.}
@@ -758,12 +754,12 @@
 {852}{lyn047b}{E anche se lo facessimo? Questa e' solo una soluzione temporanea. }
 {853}{}{Uh, beh, non conosco i dettagli, ma sembra che questo magneto-come-si-chiama potrebbe aiutare sia Gecko sia Vault City. Posso avere questo pezzo?}
 {854}{}{In realta', il regolatore potrebbe far funzionare correttamente la centrale per molti anni. Quindi, se adesso potessi avere il dispositivo...}
-{855}{}{Come non detto. Forse posso trovare qualcun altro che mi aiuti.}
+{855}{}{Lasciamo perdere. Forse posso trovare qualcun altro che mi aiuti.}
 {856}{}{Ha ragione, Primo Cittadino. Vedro' di fare il possibile per risolvere questo problema da solo.}
 {857}{}{Non credo di capire. Il problema e' Gecko... o sono i ghoul?}
 {858}{}{Primo Cittadino, la prego, mi ascolti... c'e' qualche problema se prendo questo dispositivo? Potrebbe risolvere i vostri problemi con Gecko e potrebbe anche aiutare i ghoul...}
 {859}{}{Lasciamo perdere. Forse posso trovare qualcun altro che mi aiuti.}
-{860}{}{Spiacente di averla disturbata, Primo Cittadino.}
+{860}{}{Mi scuso di averla disturbata, Primo Cittadino.}
 {861}{}{Non stanno cercando di fare del male a nessuno. Semplicemente non hanno il dispositivo di cui hanno bisogno per far funzionare correttamente la loro centrale. Quindi, se lei potesse gentilmente DARMI questo dispositivo...}
 {862}{}{Lasciamo perdere. Forse posso trovare qualcun altro che mi aiuti.}
 {863}{}{Molto bene. Mi scuso per averla disturbata, Primo Cittadino.}

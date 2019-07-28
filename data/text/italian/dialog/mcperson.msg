@@ -1,6 +1,4 @@
-{100}{}{Vedi un paesano.}
-
-# General
+{100}{}{Vedi un abitante.}
 {200}{}{Spero con tutto il cuore che piova presto.}
 {201}{}{Le nostre messi stanno morendo per mancanza d'acqua.}
 {202}{}{Perfino i pozzi sono secchi.}
@@ -8,8 +6,6 @@
 {204}{}{Sto pensando di andarmene da qui.}
 {205}{}{Un tempo Modoc era una fiorente comunita' agricola.}
 {206}{}{La vita a Modoc e' tranquilla. Proprio come piace a me.}
-
-# Ghost Farm Seed Active
 {220}{}{Ho sentito dire che alcune persone hanno visto delle figure luminose aggirarsi di notte nei pressi della Fattoria Fantasma.}
 {221}{}{Hai sentito? Hanno finalmente convinto un idiota ad andare a esplorare la Fattoria Fantasma.}
 {222}{}{Sono stato alla Fattoria Fantasma. Spaventosa!}
@@ -17,28 +13,20 @@
 {224}{}{Una volta Karl abitava nella Fattoria Fantasma. Probabilmente adesso e' il suo spirito che la infesta.}
 {225}{}{La gente non dovrebbe scherzare con il paranormale.}
 {226}{}{Perche' mai dei fantasmi dovrebbero coltivare il cibo?}
-
-# If player delivered message from slags to Jo - Delivered=yes
 {240}{}{Hanno scoperto che le persone che vivono nella Fattoria Fantasma si fanno chiamare Slag.}
 {241}{}{Che razza di nome e' Slag?}
 {242}{}{Non mi fido degli Slag.}
 {243}{}{Forse potrei fidarmi degli Slag, ma solo se sapessi che fine ha fatto Karl.}
-
-# If Player Agrees to help Modoc to Attack the Ghost Farm
 {260}{}{Ci vediamo alla Fattoria Fantasma.}
 {261}{}{Uccideremo quegli assassini degli Slag.}
 {262}{}{Staremo facendo la cosa giusta?}
 {263}{}{Dovremmo attaccarli durante il giorno, quando dormono.}
-
-# If the player and the town wipeout the Slags
 {280}{}{Gli Slag erano uomini come noi...}
 {281}{}{Abbiamo persino ucciso le donne e i bambini degli Slag.}
 {282}{}{Mi sento un bastardo.}
 {283}{}{Le macchie di sangue non vanno via dalle mie mani!}
 {284}{}{Spero che nessuno scopra cosa abbiamo fatto.}
 {285}{}{Quello che abbiamo fatto agli Slag e' sbagliato.}
-
-# If the player kills the Slags by himself
 {300}{}{Hai sentito? Un potentissimo prete ha esorcizzato i fantasmi della fattoria.}
 {301}{}{I raccolti della Fattoria Fantasma ci garantiranno il cibo per almeno un altro anno.}
 {302}{}{Non c'e' nemmeno una goccia d'acqua nei pressi della Fattoria Fantasma.}
@@ -46,8 +34,6 @@
 {304}{}{Forse i fantasmi usavano il sangue per irrigare i loro campi.}
 {305}{}{Penso che i fantasmi rubassero la nostra acqua.}
 {306}{}{Scommetto che le cose torneranno alla normalita', adesso che i fantasmi sono scomparsi.}
-
-# If the player successfully completes the Ghost Farm seed. Best ending.
 {320}{}{Faremo degli scambi commerciali con gli Slag.}
 {321}{}{Gli Slag hanno offerto di rifornire d'acqua Modoc per tutta la durata della siccita'.}
 {322}{}{Tu sei quello che ci ha aiutato, vero? Sei un vero eroe!}

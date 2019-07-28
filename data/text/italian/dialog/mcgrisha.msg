@@ -1,48 +1,34 @@
 {100}{}{Vedi un vecchio molto arzillo.}
 {101}{}{Vedi Grisham.}
 {102}{}{Non riesci a inquadrarlo perfettamente, ma ha un'aria familiare.}
-
-{151}{}{Te l'avevo detto che avresti trovato la tua anima gemella!} ###???I told you you’d get yours
+{151}{}{Te l'avevo detto che avresti trovato la tua anima gemella!}
 {152}{}{Bwahahaha!}
 {153}{}{Vattene!}
 {154}{}{Sono occupato!}
 {155}{}{Sapevo che mia figlia era strana.}
-{156}{}{Persone diverse, gusti diversi, immagino.}
+{156}{}{Sui gusti non si discute, immagino.}
 {157}{}{Credo che mi stia venendo da vomitare.}
 {158}{}{Sapevo che mio figlio era strano.}
-
 {159}{}{Prenditi cura mia figlia.}
-{160}{}{Credo che adesso tu possa chiamarmi "papa'".}
+{160}{}{Credo che adesso tu possa chiamarmi zio.}
 {161}{}{Prenditi cura di mio figlio.}
-
-# Node 0
 {162}{}{Mi chiamo Grisham. Benvenuto al mio macello. Sei venuto per consegnare o per comprare?}
 {163}{}{Vorrei comprare qualcosa. Mi interesserebbero delle provviste da viaggio.}
 {164}{}{Non e' che per caso hai visto un orologio d'oro, da qualche parte?}
-{350}{}{[Guardando Bessy] Consegnare.}
-
-# Node 1
 {165}{}{E adesso cosa posso fare per te?}
 {166}{}{Vorrei comprare un po' della tua famosa carne.}
 {168}{}{Potresti parlarmi un po' del macello?}
 {169}{}{Mi pare che la siccita' non abbia ancora colpito i tuoi affari.}
-{360}{}{Potresti prepararmi un po' di carne?}
-
-# Node 2
 {170}{}{Lo sapevo che ce l'avresti fatta. Vediamo un po'... ti devo 1000$ per aver portato a termine il lavoro. Purtroppo, }
 {171}{}{ brahmin sono rimasti uccisi a causa della tua negligenza. A un prezzo di 100$ al brahmin, la tua ricompensa ammonta a }
 {172}{}{. E non disturbarti a mentire riguardo al numero di brahmin rimasti uccisi -- ti ho fatto seguire da uno dei miei ragazzi per tenerti d'occhio.}
 {173}{}{Non mi avevi detto che mi avresti detratto dalla paga i danni per i brahmin rimasti uccisi!}
-{174}{}{Beh, vecchio pazzo avvizzito, davvero gentile da parte tua... Arg! Ricorda le mie parole - questa e' l'ultima volta che lavorero' per te!} ###???this is the last time you get the best of me
+{174}{}{Beh, vecchio pazzo avvizzito, davvero gentile da parte tua... Arg! Ricorda le mie parole - questa e' l'ultima volta che lavorero' per te!}
 {175}{}{Grazie, nonno; e' un piacere fare affari con te.}
-
-# Node 3
 {176}{}{Come osi far rivedere la tua faccia da queste parti? Ho perso dieci brahmin a causa della tua codardia. Tuttavia, se vuoi fare ammenda, 1500$ dovrebbero coprire il danno che mi hai procurato.}
 {177}{}{Quei brahmin non valevano piu' di 1000$ in tutto.}
 {178}{}{Non ho tutto quel denaro e, anche se avessi i soldi, non li darei certo a un imbroglione come te.}
 {179}{}{Ho lasciato i soldi nella mia stanza; lascia che li vada a prendere.}
-
-# Node 10
 {180}{}{Ah! Certo, certo. Vediamo un po'... per viaggiare ti consiglio le nostre celeberrime razioni di carne secca. Non vanno a male e sono molto saporite. Solo 10$ a confezione. Che ne dici?}
 {181}{}{Non male; dammene una confezione.}
 {182}{}{No grazie, magari un'altra volta. Vorrei farti qualche domanda, pero'.}
@@ -59,12 +45,12 @@
 {194}{}{Posso farti qualche altra domanda?}
 {195}{}{Grazie lo stesso, ma continuero' a cercarlo.}
 {196}{}{Non te l'avevo detto? Sei sicuro? Potrei giurare di avertelo detto... forse la prossima volta starai piu' attento prima di accettare lavori dei quali non conosci tutti i dettagli. Adesso, se non ti dispiace, ho del lavoro da fare.}
-{197}{}{Eheheh. Dipende... Pensi di rimanere in citta' ancora a lungo? Bwahahahaha!} ###???Now that all depends
+{197}{}{Eheheh. Dipende... Pensi di rimanere in citta' ancora a lungo? Bwahahahaha!}
 {198}{}{Vedo che non sei uno sprovveduto. OK - 1000$ allora, e possiamo dirci pari. Qua la mano.}
 {199}{}{[Stringi la mano a Grisham]}
 {200}{}{Aspetta solo un secondo. Adesso che ci penso, quei brahmin mi sembravano piuttosto magri. Facciamo 750$, che ne dici?}
 {201}{}{Ho cambiato idea, non voglio pagarti.}
-{202}{}{[Ti rivolge un sorriso a 32 denti] Mi fa piacere vedere che sei una persona di carattere.}
+{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
 {203}{}{[Grisham diventa rosso come una rapa e ti parla con i denti serrati.] OK, 750$ allora. Dammi i soldi!}
 {204}{}{Sai, 750$ mi sembrano ancora un po' troppi. Quei brahmin sarebbero morti lo stesso anche se i cani non li avessero sbranati. Ma non sono cosi' egoista: ti daro' 50$.}
 {206}{}{BENE! DAMMI I SOLDI E VATTENE!}
@@ -104,80 +90,53 @@
 {246}{}{Beh, dal momento che sei un dottore, credo sia tutto OK. Fareste meglio a rivestirvi; certe voci nascono proprio da malintesi simili. Dal momento che sei qui, avrei questo dolore all'ano e mi domandavo se potevi darci un'occhiata.}
 {247}{}{Err... ci daro' un'occhiata piu' tardi. Ho un altro paziente che mi aspetta. Ci vediamo.}
 {248}{}{Certo. Perche' invece non vieni con me a prendere il prete? Non fare scherzi, o sarai tu quello che avra' bisogno di un dottore.}
-
 {260}{}{Lo sapevo che ce l'avresti fatta. Vediamo un po'... ti devo 1000$ per aver portato a termine il lavoro. Ecco qua.}
-
-# rape script dialog
 {300}{}{Cosa diavolo sta succedendo qui?}
 {301}{}{Uhhh... signore, io stavo solo...}
 {302}{}{Toglile le tue luride mani di dosso...}
-
-#define wedding script dialog
+{350}{}{[Guardando Bessy] Consegnare.}
+{360}{}{Potresti prepararmi un po' di carne?}
 {400}{}{Cosa sta succedendo qui?}
 {402}{}{Per tutti i diavoli! Sapevo che }
-{452}{}{ non era molto normale, ma c'e' un solo modo per sistemare le cose!}
 {403}{}{Come osi disonorare }
-{453}{}{? C'e' un solo modo per sistemare le cose!}
 {404}{}{Uh, Jo, potremmo saltare la parte del giuramento?}
 {406}{}{Ragazzo... }
 {407}{}{Ragazza... }
 {410}{}{Non costringermi a fare di }
-{460}{}{ una vedova.}
-{461}{}{ un vedovo.}
 {412}{}{Miria}
 {413}{}{Davin}
-
-# Seraph's Code: Cousin Bo
 {414}{}{Uh, Bo, possiamo saltare direttamente allo scambio dei voti?}
-
-# Seraph's Fix: changed '220' to '420' and '221' to '421'. Thanks Wasteland Ghost!
 {420}{}{Tu non vai da nessuna parte, ragazzo!}
 {421}{}{Tu non vai da nessuna parte, ragazza!}
-
-# Node 4
+{452}{}{ non era molto normale, ma c'e' un solo modo per sistemare le cose!}
+{453}{}{? C'e' un solo modo per sistemare le cose!}
+{460}{}{ una vedova.}
+{461}{}{ un vedovo.}
 {500}{}{Beh, ma che bell'animale abbiamo qui. Ci potrei ricavare dell'ottima carne. Senti, ti daro' un po' di carne come pagamento. Che ne dici?}
 {501}{}{Assolutamente no! Io voglio bene a Bess. Nessuno ci fara' della carne.}
 {502}{}{Per me va bene. Quando posso passare a prendere la mia carne?}
 {503}{}{Scordatelo, nonno. Me ne vado.}
-
-# Node 5
 {510}{}{Oh... sei uno di quelli. Non temere, non ho alcuna intenzione di separarti dalla tua 'amica'. Chissa' che solitudine, le tue notti nel deserto senza di lei. Non ho tempo per queste cose: ho del lavoro da fare.}
-
-# Node 6
 {515}{}{Ottimo! Torna tra una settimana. Puoi prendere la tua carne dall'affumicatoio che c'e' all'esterno del macello. Te la mettero' in un sacco. E' bello fare affari con te.}
-
-# Node 50
 {600}{}{Ehila' }
-{1600}{}{. Spero che tu ti sia preso cura di mia figlia Miria. E' la luce della mia vita e mi si spezzerebbe il cuore se le succedesse qualcosa. A proposito, dov'e'? Speravo tanto di rivederla.}
 {601}{}{Beh, che mi venga un colpo se non e' }
-{1601}{}{. Come va la vita matrimoniale? Vedo che mio figlio Davin non e' con te. Mi manca davvero molto. Magari la prossima volta che vieni a farmi visita potresti portarlo con te. Rivedere il mio unico figlio mi renderebbe un vecchio felice.}
 {602}{}{Uhhh, e' morto.}
 {603}{}{Uhhh, e' morta.}
 {604}{}{Miria era viva quando l'ho lasciata, ma sono quasi sicuro che a quest'ora sia morta.}
 {605}{}{Davin era vivo quando l'ho lasciato, ma sono quasi sicuro che a quest'ora sia morto.}
 {606}{}{Davin, uhhh, non poteva viaggiare, ma gli diro' che lo saluti, quando lo rivedro'.}
 {607}{}{Miria, uhhh, non poteva viaggiare, ma le daro' un abbraccio da parte tua, quando la rivedro'.}
-
-# Node 51
 {700}{}{Aggg... [Un'espressione scioccata compare sul volto di Grisham mentre, con una mano, improvvisamente si stringe il petto e crolla per terra.]}
-
-# Node 52
 {750}{}{Beh, adesso devo tornare al lavoro. Ci vediamo.}
-
 {800}{}{Hai salvato i brahmin di Grisham.}
-
-# Seraph's Code: Uncle Biff
 {1101}{}{Vedi lo zio Biff.}
-
 {1155}{}{Lo sapevo che mia nipote era strana.}
 {1156}{}{Sui gusti non si discute, immagino.}
 {1157}{}{Sono felice che Grisham non possa assistere a questo spettacolo.}
 {1158}{}{Lo sapevo che mio nipote era strano.}
-
 {1159}{}{Credo che adesso tu possa chiamarmi zio.}
 {1160}{}{Prenditi cura di mia nipote.}
 {1161}{}{Prenditi cura di mio nipote.}
-
 {1228}{}{Ragazzo, non provarci nemmeno a spiegare questa cosa. Non voglio stare ad ascoltarti. Adesso andiamo a prendere il prete, diamo un qualche valore legale a questa storia e poi tu e mia nipote ve ne andate da qui.}
 {1229}{}{Non posso negare che questo spettacolo mi eccita un po', ma devo fare quel che avrebbe fatto Grisham. Voi due adesso vi sposate e poi sparite da questa citta'.}
 {1230}{}{Ti dispiacerebbe spiegarmi cosa stai facendo a mia nipote?}
@@ -187,7 +146,8 @@
 {1237}{}{Davvero splendido. Avro' un furbacchione in famiglia. Beh, coraggio... 'nipote'. Chiudiamo in fretta questa storia.}
 {1238}{}{Vediamo un po'... A me sembra che tu e mia nipote steste imitando due brahmin durante la stagione degli amori.}
 {1239}{}{Vediamo un po'... A me sembra che tu e mio nipote steste ballando il tango orizzontale tra le lenzuola.}
-
 {1403}{}{Come osi disonorare }
-{1412}{}{la mia bambina}
-{1413}{}{il mio bambino}
+{1412}{}{daughter.}
+{1413}{}{son.}
+{1600}{}{. Spero che tu ti sia preso cura di mia figlia Miria. E' la luce della mia vita e mi si spezzerebbe il cuore se le succedesse qualcosa. A proposito, dov'e'? Speravo tanto di rivederla.}
+{1601}{}{. Come va la vita matrimoniale? Vedo che mio figlio Davin non e' con te. Mi manca davvero molto. Magari la prossima volta che vieni a farmi visita potresti portarlo con te. Rivedere il mio unico figlio mi renderebbe un vecchio felice.}

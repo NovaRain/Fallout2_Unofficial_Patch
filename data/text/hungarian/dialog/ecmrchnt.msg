@@ -1,4 +1,3 @@
-# Dialog Editor last position: 16
 {100}{}{Ez az ember aztán sokmindent látott életében.}
 {101}{}{Egy kereskedõt látsz.}
 {102}{}{Amindenit, ritkán látok embereket errefelé!}
@@ -13,5 +12,5 @@
 {252}{}{Ja. Nekem lenni cucc!}
 {253}{}{Én menni elfele.}
 {260}{}{Jó volt üzletelni veled. Sok szerencsét az utazáshoz!}
-{261}{}{Üdv!}
+{261}{}{Viszlát!}
 {270}{}{Örülök, hogy újra látlak. Érdekel esetleg valami más?}

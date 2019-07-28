@@ -1,11 +1,9 @@
-# Dialog Editor last position: 13
 {100}{}{Egy Khan rablót látsz.}
 {101}{}{Egy Khan rablót látsz.}
 {102}{}{Egy keménykötésû fickót látsz páncélban, fegyverekkel és rossz modorral. Csakis egy Khan tag lehet.}
 {103}{}{Mi a... Azt hiszem, nem ismerlek. Ki a fasz vagy te?}
 {104}{}{Itt van az azonosítóm. Hadd mutassam meg.}
 {105}{}{A nevem... hmm... Pat, és új vagyok itt.}
-{110}{}{Dögölj meg!}
 {106}{}{Rendben, seggfej. Most megmutathatod, hogy tudsz lõni!}
 {107}{}{Ja, igen. Rendben. Nem ismertelek fel elõször. Menj csak, tedd a dolgod!}
 {108}{}{Hé, nem vagyok olyan hülye!}
@@ -45,3 +43,4 @@
 {142}{}{Nem hinném, hogy a generátor megjavítja magát.}
 {143}{}{Elég furcsa volt, most legalább látok. Jézus, ez a hely nagyon szarul néz ki!}
 {144}{}{Azta, nagyon világos lett itt! Hol van a fényerõ szabályzó?}
+{145}{}{Halál rád!}

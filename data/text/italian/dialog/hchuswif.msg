@@ -9,10 +9,9 @@
 {108}{}{**Phhhhhhhttttttt**}
 {109}{}{Zaius, giu' alla miniera, dice che potrebbe avere del lavoro per me, il mese prossimo.}
 {110}{}{Questo posto e' un porcile! Quand'e' che farai un po' di pulizia, donna?}
-{111}{}{Hai davvero una lingua tagliente, donna!}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{Ti amo, braciolina mia.}
 {113}{}{Vuoi il dorso della mia mano, donna?}
-
 {140}{}{Fattelo da solo il tuo dannato pasticcio, pigro ammasso di pus!}
 {141}{}{...(mumble) ci metto tutto il dannato pepe che voglio (mumble)... }
 {142}{}{A lavare i tuoi luridi mutandoni nel pozzo, come sempre!}
@@ -23,6 +22,5 @@
 {147}{}{Ci dovra' pur essere un po' di cervello DA QUALCHE PARTE, in questa casa!}
 {148}{}{Anch'io ti amo, palletta di zucchero.}
 {149}{}{Non voglio NIENTE che sia associabile al tuo dorso!}
-
 {200}{}{Che cosa diavolo vuoi? Fuori da casa mia, pelle-rosa.}
 {201}{}{Giuro, uno di questi giorni me ne andro' da qui. Voglio proprio vedere cosa fara' quel pelandrone, allora...}

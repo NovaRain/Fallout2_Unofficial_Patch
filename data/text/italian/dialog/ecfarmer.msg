@@ -1,42 +1,40 @@
 {100}{}{Vedi un uomo magro e abbronzato.}
-{200}{}{Vedi una donna magra e abbronzata.}
-# male
-{101}{}{Vedi un contadino.}
-# female
-{201}{}{Vedi una contadina.}
-{102}{}{Noti che ha la classica abbronzatura da contadino.}
-{202}{}{Noti che ha la classica abbronzatura da contadina.}
-{103}{}{Sei arrivato appena in tempo. Se tu non fossi arrivato al momento giusto... Beh, meglio ringraziarti semplicemente per essere arrivato in tempo. Non abbiamo molto, ma ti preghiamo di accettare questo come ringraziamento per averci aiutato. [Ti da' qualcosa.]}
+{101}{}{Vedi una contadina.}
+{102}{}{Noti che ha la tipica abbronzatura da contadino.}
+{103}{}{Sei arrivato giusto in tempo. Se tu non fossi arrivato qui in quel momento... Beh, preferisco non pensarci e ringraziare il cielo che tu sia arrivato. Non abbiamo molto, ma vorremmo accettassi questo, come ringraziamento per averci aiutato. [Ti porge qualcosa]}
 {104}{}{Grazie.}
-{105}{}{Ug}
+{105}{}{Urg!}
 {106}{}{Grazie ancora per averci aiutato.}
 {107}{}{}
 {108}{}{}
 {109}{}{Tieni le mani dove possa vederle. Stiamo stati martoriati dai banditi ultimamente e sospetto che tu possa essere uno di loro. Che cosa vuoi?}
-{110}{}{Vorrei solo comprare delle provviste.}
-{111}{}{Ero solo di passaggio. Me ne vado subito.}
+{110}{}{Vorrei solamente acquistare alcune cose.}
+{111}{}{Sono solo di passaggio. Me ne vado subito.}
 {112}{}{Ug.}
-{113}{}{Beh, credo che non ci siano pericoli, in questo caso. Ecco quello che ho.}
+{113}{}{Bene, penso che non ci siano pericoli. Ecco cosa posso offrirti.}
 {114}{}{[Baratta]}
-{115}{}{OK, adesso sparisci!}
+{115}{}{OK, ora sparisci!}
 {116}{}{[Baratta]}
-{117}{}{Ho detto: sparisci!}
+{117}{}{Ho detto sparisci!}
 {118}{}{}
-{119}{}{[Si rilassa un poco.] Sei troppo stupido per essere un bandito. Ti servono delle provviste?}
-{120}{}{Ah hah.}
+{119}{}{[Si rilassa un po'.] Sei troppo stupido per essere un bandito. Hai bisogno di provviste??}
+{120}{}{Ah-a.}
 {121}{}{Eh eh.}
-{122}{}{Beh, allora non abbiamo nulla da dirci. Continua per la tua strada.}
+{122}{}{Allora vuol dire che non abbiamo niente da discutere. Adesso puoi anche andartene.}
 {123}{}{[FINE]}
-{124}{}{Andatevene dalla mia fattoria!}
+{124}{}{Vattene dalla mia fattoria!}
 {125}{}{Nessuno prendera' la mia casa.}
 {126}{}{Luridi banditi.}
-{127}{}{Via dalla mia terra.}
+{127}{}{Vattene dalla mia terra.}
 {128}{}{Non ci si puo' fidare di nessuno, di questi tempi.}
 {129}{}{Dannati banditi.}
 {130}{}{Ho lavorato troppo duramente per arrendermi adesso.}
-{131}{}{Magari andro' a fare il contadino da qualche altra parte.}
+{131}{}{Forse potro' coltivare la terra da qualche altra parte.}
 {132}{}{Sono solo un povero contadino.}
-{133}{}{Vi prego, non bruciate la mia fattoria.}
-{134}{}{Comunque non mi piaceva fare il contadino.}
+{133}{}{Ti prego, non incendiare la mia fattoria.}
+{134}{}{Tanto non mi piaceva fare il contadino.}
 {135}{}{Tornero'.}
-{136}{}{Prendete mia moglie - vi prego...}
+{136}{}{Prendi mia moglie - ti prego...}
+{200}{}{Vedi una donna magra e abbronzata.}
+{201}{}{Vedi una contadina.}
+{202}{}{Ti accorgi che ha un'abbronzatura da contadina.}

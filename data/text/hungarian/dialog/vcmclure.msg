@@ -1,6 +1,5 @@
-# Dialog Editor last position: 5
-{100}{}{McClure Fõtanácsos.}
-{101}{}{Egy idõsebb menedékvárosi hivatalnok. A haja már foltokban õszül.}
+{100}{}{McClure Fõtanácsost látod.}
+{101}{}{Egy idõsebb menedékvárosi hivatalnokot látsz. A haja már foltokban õszül.}
 {102}{}{McClure Fõtanácsost látod.}
 {103}{}{Egy idõsebb menedékvárosi hivatalnokot látsz. A haja már foltokban õszül.}
 {104}{}{Már hallottam a hõstetteirõl, Kiválasztott. Mindannyian az adósai vagyunk.}
@@ -15,9 +14,9 @@
 {113}{}{Jó napot, Polgártárs. Segíthetek valamiben?}
 {114}{}{Igen? Szüksége van még valamire?}
 {115}{}{Mik..ull..ásh?}
-{116}{}{[Elbattyogsz]}
-{117}{}{Feltehetek önnek néhány kérdést?}
-{118}{}{Kicsoda ön?}
+{116}{}{[Elcsoszogsz]}
+{117}{}{Feltehetek néhány kérdést?}
+{118}{}{Ki vagy te?}
 {119}{}{Csak nézelõdöm, köszönöm. Viszlát!}
 {120}{}{Hogy jutott be a városba? Õrség! Itt egy Kívülálló, kérem kísérjék a kapuhoz!}
 {121}{}{Én nem menni, én nem menni!}
@@ -26,10 +25,10 @@
 {124}{}{Természetesen, Polgártárs.}
 {125}{}{Mit szeretne tudni?}
 {126}{}{Mivel foglalkozik?}
-{127}{}{Az Édenkert Létrehozást Elõsegítõ Táskát keresem.}
+{127}{}{Egy Édenkert Létrehozást Elõsegítõ Táska nyomában járok.}
 {128}{}{Mit tud mondani az Elsõ Polgárról?}
 {129}{}{Szeretnék néhány dolgot megtudni Gekkóról.}
-{130}{}{Mit tud nekem mondani Reddingrõl?}
+{130}{}{Mit tudsz mondani Reddingrõl?}
 {131}{}{Szeretnék önnel Reddingrõl beszélgetni.}
 {132}{}{Hogy lehet valakibõl Polgár?}
 {133}{}{Szerintem önnek van olyan alkatrésze, amivel megjavíthatom a gekkói erõmûvet.}
@@ -37,14 +36,14 @@
 {135}{}{Van egy gazdálkodási adatlemezem az ön számára. Tessék. Valószínûleg érdekesnek fogja találni.}
 {136}{}{Tudom, hogyan lehet optimalizálni a gekkói reaktor teljesítményét.}
 {137}{}{Itt van a gekkói reaktor adat-lemeze. Tudná optimalizálni?}
-{138}{}{Semmi különös. Köszönöm.}
+{138}{}{Kösz, egyelõre elleszek magam is.}
 {139}{}{Én McClure Fõtanácsos vagyok. És ön ...?}
-{140}{}{Semmi köze hozzá!}
+{140}{}{Semmi közöd hozzá.}
 {141}{}{. Örülök, hogy találkoztunk.}
 {142}{}{Sajnos rohannom kell. Talán majd máskor bemutatkozhatunk egymásnak.}
 {143}{}{Ilyen durva udvariatlanság a Kívülállókra jellemzõ és nem a Polgárainkra. Én Menedékváros Tanácsának vezetõje vagyok. Tanúsítson tiszteletet irántam, különben visszavonom a Polgárságát!. Megértett?}
 {144}{}{Bassza meg, vénember!}
-{145}{}{Lehet. Mindenesetre túl kimerült vagyok ahhoz, hogy beszélgessünk.}
+{145}{}{Rendben. Már úgyis menni akartam.}
 {146}{}{Sajnálom, nem akartam megsérteni önt.}
 {147}{}{Felháborító! Ekkora pimaszságot nem tûrök egy Kívülállótól! Adja ide a Napi Belépõjét és távozzon! A magafajtának nincs helye a városunkban.}
 {148}{}{Nem adok magának semmit. Akarja? Gyerünk, vegye el!}
@@ -57,15 +56,15 @@
 {155}{}{Átkozottul igaza van! Meg kell becsülnie a polgárságomat!}
 {156}{}{Ja, oké. Már itt sem vagyok.}
 {157}{}{Soha többé ne szóljon hozzám! Ha megteszi, esküszöm, hogy visszavonom a Polgárságát. Végeztem!}
-{158}{}{Viszlát!}
+{158}{}{Minden jót!}
 {159}{}{Azt próbálja meg...  nagyon megkeserüli}
 {160}{}{Gyenge öregember. Nekem maga a fél fogamra sem elég.}
 {161}{}{Rendben! Polgár vagy sem, takarodjon innen! Õrség!  Mutassák meg ennek a degeneráltnak a kijáratot!}
 {162}{}{Megyek. Ez a hely egyébként is szívás.}
-{163}{}{Nem megyek sehová.}
-{164}{}{Tudok önnek segíteni valamiben?}
+{163}{}{Nem megyek én sehova innen!}
+{164}{}{Mit tehetek magáért?}
 {165}{}{Fogalmam sincs, öreg. TUD nekem segíteni?}
-{166}{}{Én egy Édenkert Létrehozást Elõsegítõ Táskát keresek.}
+{166}{}{Egy Édenkert Létrehozást Elõsegítõ Táska nyomában járok.}
 {167}{}{Feltehetek néhány kérdést?}
 {168}{}{Nem, köszönöm. Csak körülnéztem az épületében.}
 {169}{}{Egy ÉLET-et? Ha jól tudom, nekünk csak egy volt belõle, amit fel is használtunk. Valahol azonban azt olvastam, hogy volt egy tartalékunk is.  Ez már a születésem elõtt tönkrement, de lehet, hogy van egy másik ...}
@@ -73,53 +72,52 @@
 {171}{}{Igen. A régi kormány egyszer elfuserált egy szállítmányt és mi kaptuk azt, amit a tizenhármas Menedékbe küldtek. Valószínûleg oda vitték azt az ÉLET-et, amit a meghibásodott helyett nekünk küldtek.}
 {172}{}{És mi volt a tizenhármas Menedéknek szánt szállítmányban?}
 {173}{}{Mit történt azzal az ÉLET-tel, ami tönkrement?}
-{174}{}{Feltehetek önnek egy újabb kérdést?}
+{174}{}{Feltehetnék egy másik kérdést?}
 {175}{}{Értem. Köszönöm az információt.}
 {176}{}{Mintegy száz darab víztisztító-csip. Nem tudom, miért küldtek ennyit... nekünk még sosem volt problémánk vele. Mióta itt élünk, az eredeti chipet használjuk.}
 {177}{}{Mit történt azzal az ÉLET-tel, ami tönkrement?}
-{178}{}{Feltehetek önnek egy újabb kérdést?}
-{179}{}{Érdekes. Köszönöm, hogy szakított rám idõt.}
+{178}{}{Feltehetnék egy másik kérdést?}
+{179}{}{Köszönöm, hogy rabolhattam az idejét. Viszlát!}
 {180}{}{A nyelve borotvaéles. Késõbb majd még beszélünk, miután elállítottam a vérzést.}
 {181}{}{Darabokra szedtük, az alkatrészeit pedig más berendezésekhez használtuk fel.}
 {182}{}{Mi volt abban a szállítmányban, ami a 13-as Menedék felé tartott?}
-{183}{}{Feltehetek önnek egy újabb kérdést?}
-{184}{}{Értem. Köszönöm, hogy szakított rám idõt.}
+{183}{}{Feltehetnék egy másik kérdést?}
+{184}{}{Értem. Kösz, hogy idõt szakítottál rám.}
 {185}{}{Õ a nép vezetõje, a mostani nehéz idõkben õ a közösségünk támasza. Menedékváros Polgárai hozzá fordulnak, ha segítségre van szükségük, de a  Tanácson keresztül a döntésekbe is  beleszólhatnak.}
 {186}{}{"Nehéz idõkben?" Mit ért ez alatt?}
 {187}{}{És ön mivel foglalkozik?}
-{188}{}{Feltehetek önnek egy újabb kérdést?}
-{189}{}{Köszönöm, hogy szakított rám idõt. Viszlát!}
+{188}{}{Feltehetnék egy másik kérdést?}
+{189}{}{Köszönöm a segítséget. Viszlát!}
 {190}{}{Gekkóról? Mit szeretne tudni?}
-{191}{}{Hol van Gekkó?}
+{191}{}{Merre találom Gekkót?}
 {192}{}{Mi az a Gekkó?}
-{193}{}{Feltehetek önnek egy újabb kérdést?}
-{194}{}{Köszönöm, hogy szakított rám idõt. Viszlát!}
+{193}{}{Feltehetnék egy másik kérdést?}
+{194}{}{Köszönöm a segítséget. Viszlát!}
 {195}{}{Nem sok mindent tudok mondani, kivéve azt a tényt, hogy egyre kevesebb ércszállítmányt kapunk tõlük.}
 {196}{}{Van valami ötlete, hogy miért?}
 {197}{}{Merre van Redding?}
-{198}{}{Feltehetek önnek egy újabb kérdést?}
-{199}{}{Köszönöm, hogy szakított rám idõt. Viszlát!}
+{198}{}{Feltehetnék egy másik kérdést?}
+{199}{}{Köszönöm a segítséget. Viszlát!}
 {200}{}{Én vagyok a Fõtanácsos, a  Tanács üléseit vezetem.}
 {201}{}{Akkor mit csinál az Elsõ Polgár?}
-{202}{}{Feltehetek önnek egy újabb kérdést?}
-{203}{}{Köszönöm, hogy szakított rám idõt. Viszlát!}
+{202}{}{Feltehetnék egy másik kérdést?}
+{203}{}{Thank you for your time. Goodbye.}
 {204}{}{A polgárság nem való mindenkinek. Ön inkább kalandornak néz ki... így fogalmam sincs, miért lenne szüksége rá.}
 {205}{}{Gyerünk... mondja csak el, mire van szükségem ahhoz, hogy polgár lehessek!}
 {206}{}{Én mindenképpen Polgár szeretnék lenni.}
-{207}{}{Feltehetek önnek egy újabb kérdést?}
-{208}{}{Felejtsük el!}
+{207}{}{Feltehetnék egy másik kérdést?}
+{208}{}{Csak egy futó ötlet volt...}
 {209}{}{Ön Polgár szeretne lenni? Nos, mi ennek csak örülni tudunk. Mindössze annyit kell tennie, hogy beszél Gregory Fõbiztossal, aki  ad önnek egy polgársági  tesztlapot.}
 {210}{}{Merre találom Gregory Fõbiztost?}
-{211}{}{Feltehetek önnek egy újabb kérdést?}
+{211}{}{Feltehetnék egy másik kérdést?}
 {212}{}{Köszönöm. Azonnal megkeresem. Viszlát!}
 {213}{}{Rendben van. Csak beszélnie kell Gregory Fõbiztossal, aki  ad önnek egy polgársági tesztlapot.}
 {214}{}{Merre találom Gregory Fõbiztost?}
-{215}{}{Feltehetek önnek egy újabb kérdést?}
+{215}{}{Feltehetnék egy másik kérdést?}
 {216}{}{Rendben van. Most azonnal felkeresem õt.}
-#parbeszedben nem veszi jol ki magat a szoismetles
 {217}{}{A keleti épületszárnyban van az irodája, az Elsõ Polgáréval szemben.}
-{218}{}{Feltehetek önnek egy újabb kérdést?}
-{219}{}{Köszönöm, hogy idõt szakított rám. Viszlát!}
+{218}{}{Feltehetnék egy másik kérdést?}
+{219}{}{Köszönöm a segítséget. Viszlát!}
 {220}{}{Az utóbbi két évben eldurvult a helyzet. Az ÚKK egyre agresszívabban követeli, hogy Menedékváros csatlakozzon a Köztársasághoz.}
 {221}{}{Azt ígérték, ha belépünk, megvédenek bennünket a várost zaklató banditáktól. Ezek a támadások egyre hevesebbek és sok gondot okoznak nekünk.}
 {222}{}{Ráadásul a gekkói ghoul-ok is szennyezik a talajvizet.}
@@ -127,41 +125,41 @@
 {224}{}{Mi az a Gekkó?}
 {225}{}{Nehéz idõk járnak, valóban. Feltehetek önnek egy újabb kérdést?}
 {226}{}{Sajnálattal hallom. Köszönöm, hogy szakított rám idõt. Viszlát!}
-{227}{}{Gekkó észak-keletre van innen. Ha azt tervezi, hogy odamegy, javaslom, szerezzen be minél több radioaktivitás elleni készítményt! Ha szennyezik a vizünket, minden bizonnyal az õ városuk is radioaktív!}
+{227}{}{It is just northeast of here, but if you are planning on going there, I would advise you to purchase some anti-radiation drugs. If they are contaminating our water, it is likely their town itself is irradiated.}
 {228}{}{Mi az a Gekkó?}
-{229}{}{Feltehetek önnek egy újabb kérdést?}
+{229}{}{Feltehetnék egy másik kérdést?}
 {230}{}{Köszönöm a figyelmeztetést. Viszlát!}
 {231}{}{Az egy elhagyatott hely, valóságos nyomornegyed, melyet egy régi atomerõmû maradványai köré építettek.}
 {232}{}{Hol találom Gekkót?}
-{233}{}{Feltehetek önnek egy újabb kérdést?}
-{234}{}{Köszönöm, hogy szakított rám idõt. Viszlát!}
+{233}{}{Feltehetnék egy másik kérdést?}
+{234}{}{Köszönöm a segítséget. Viszlát!}
 {235}{}{Nem értem az egészet. Hajlandóak lennénk a legmagasabb árat fizetni az ércükért, de ahányszor csak beszélni próbálunk velük, kitérnek elõlünk. Bárcsak tudnám, miért ...}
 {236}{}{Utánanézhetek, ha gondolja.}
-{237}{}{Merre találom Reddinget?}
-{238}{}{Köszönöm, hogy idõt szakított rám. Viszlát.}
+{237}{}{Merre van Redding?}
+{238}{}{Köszönöm a segítséget. Viszlát!}
 {239}{}{Megtenné? Nincs felhatalmazásom, hogy fizessek a szolgálataiért, de megtaláljuk kompenzáció módját.}
 {240}{}{Merre van Redding?}
 {241}{}{Nem probléma. Szétnézek ott egy kicsit és amint találok valami érdekeset, jelentkezem.}
 {242}{}{Redding nyugatra van, kb.. egyheti gyaloglásra innen. Én még sosem jártam ott.  Ami azt illeti... Menedékváros falain túl se voltam soha. Egyébként úgy értesültem, Redding az egyik legkellemesebb település a pusztában.}
 {243}{}{Van valami ötlete, hogy miért csökkent az ércszállítmány?}
-{244}{}{Majd meglátom. Köszönöm az információt.}
+{244}{}{Értem. Köszönöm az információt.}
 {245}{}{És mi az? Bármit is mond, nagy segítség lehet.}
-{246}{}{Mit tud Reddingrõl?}
-{247}{}{Kiderítettem, hogy Redding lakóinak egy része a Jet rabja. A bányászok az érc nagy részét New Renóba szállítják a drogért cserébe.}
+{246}{}{Mit tudsz mondani Reddingrõl?}
+{247}{}{I found that a large part of Redding is addicted to a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy elõállította a Jet ellenszerét.}
 {249}{}{Eljuttattam az ellenszert Reddingbe.}
-{250}{}{Mi az a "Jet", ami ilyen erõs függõséget okoz?}
+{250}{}{What is this "Jet" that they are all addicted to?}
 {251}{}{Amint újabb részleteket is megtudok, ismertetni fogom magával.}
-{252}{}{Egy új drog, amely 100%-os függõséget okoz, az elvonási tünetei pedig elviselhetetlenek. Gyakorlatilag képtelenség róla leszokni.}
+{252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Kérem, tegyen meg mindent!}
-{254}{}{Feltehetek önnek egy újabb kérdést?}
-{255}{}{Természetesen.}
+{254}{}{Kérdezhetek valami mást?}
+{255}{}{Hogyne.}
 {256}{}{Ez borzalmas. Tennünk kell valamit! Ha ez így megy tovább, az érckészleteink kiapadnak. Kérem, segítsen!}
-{257}{}{Meglátom, mit tehetek.}
+{257}{}{Megnézem, mit tehetek.}
 {258}{}{Elõállította?! Akkor meg mit ácsorog még mindig itt? Azonnal juttassa el a szert Dr. Johnson-hoz! Õ tudni fogja, mit kezdjen vele.}
 {259}{}{Tudom, már említette. Kérem vigye Reddingbe, hátha segít rajtuk!}
 {260}{}{Mielõtt indulnék, feltehetek önnek egy kérdést?}
-{261}{}{Oké, viszlát!}
+{261}{}{Rendben, viszlátásra.}
 {262}{}{Köszönöm! Most már csak reménykedhetünk, hogy idõben érkezett a segítség.}
 {263}{}{Szívesen! Örülök, hogy segíthettem.}
 {264}{}{Nem probléma. Feltehetek önnek egy újabb kérdést?}
@@ -169,7 +167,7 @@
 {266}{}{Ha pénz a szíve vágya, akkor... tessék, 500 dollár. Most, ha megbocsát, dolgom van. Viszlát!}
 {267}{}{KÖSZÖNÖM szépen.}
 {268}{}{Öt kiló??!!!! Jobban teszi, ha felköhög még egy keveset, különben egy fabatkát sem fog érni az élete!}
-{269}{}{Mit ért ez alatt?}
+{269}{}{Ezt most hogy kell értenem?}
 {270}{}{Ha lenne egy hidroelektromos magnetoszféra szabályzóm, kicserélném a hibás alkatrészt és az erõmû szivárgásmentesen mûködne tovább.}
 {271}{}{Óh, semmiség. Sajnálom, hogy zavartam.}
 {272}{}{Ez  jó megoldásnak tûnik. Nem akarok mást, mint megállítani a radioaktív szennyezést.}
@@ -182,26 +180,24 @@
 {279}{}{Köszönöm. Már indulok is.}
 {280}{}{Még egy dolog. Lehet, hogy ezt az adatlemezt  érdekesnek fogja találni.}
 {281}{}{Kiváló! Már kezdtem aggódni, hogy a fokozódó sugárzás miatt el kell költöznünk. Kiemelkedõ munkát végzett.}
-{282}{}{Menedékváros mindenek felett, Polgártárs!}
+{282}{}{Menedékváros mindenek felett, Polgártárs.}
 {283}{}{Menedékváros mindenek felett, Kapitány!}
 {284}{}{Tessék, itt vannak a Polgárságát bizonyító papírok. Ha bármikor segítségre van szüksége, forduljon csak hozzám!}
 {285}{}{Menedékváros mindenek felett, Fõtanácsos!}
-{286}{}{Köszönöm.}
+{286}{}{Köszi.}
 {287}{}{Igen, már említette.}
 {288}{}{Bravó, Kapitány!}
 {289}{}{Nagyszerû, Polgártárs!}
 {290}{}{Remek!}
-{291}{}{Lenne még egy kérdésem...}
-{292}{}{Köszönöm.}
+{291}{}{Lenne pár kérdésem.}
+{292}{}{Köszi.}
 {293}{}{Tessék? Egy adatlemez? Miféle adatlemez?}
 {294}{}{Itt van, nézze meg!}
 {295}{}{Ez egy gazdálkodási adatlemez, ami azt mutatja, mennyi energiát termelt a gekkói atomerõmû a háború elõtt. Lehet, hogy ennyit manapság is képes lenne elõállítani.}
-#Gazdálkodási nak forditottam, mert az valahogy jobban megfogja a lényeget
-{296}{}{Nem tesz semmit. Feltehetnék még egy kérdést?}
-{297}{}{Semmiség. Elnézést, hogy zavartam.}
-#Az I'm sorry ill. sorry nem  mindig sajnálom
+{296}{}{Felejtsd el! Kérdeznék valami mást.}
+{297}{}{Bocs, hogy zavartalak.}
 {298}{}{Rendben. Adjon egy percet...}
-{299}{}{Természetesen.}
+{299}{}{Rendben.}
 {300}{}{Hmmm. Hogy jutott hozzá a lemezhez?}
 {301}{}{Hmm... találtam.}
 {302}{}{Akkor találtam, amikor Menedékváros adattárában keresgéltem.}
@@ -216,7 +212,6 @@
 {311}{}{...nem, nem... ha Gekkó megkapja a szükséges adatokat az optimális mûködtetéshez, fogadok, hogy orvosi felszerelésre cserélik majd a felesleges energiát.}
 {312}{}{Hmmm. Az egészségügyi támogatás megkezdéséig csak együttérzésemrõl biztosíthatom Gekkó lakosait. Biztos sokat szenvednek... Ellenben hogy tudnánk optimalizálni az erõmû mûködését?}
 {313}{}{Fogalmam sincs, de csak találok valakit, aki elmondja.}
-#Szinten szoismetles esete forog fenn (parbeszedben nem oke)
 {314}{}{Nem tudom. Remélem, az erõmû környékén akad majd valaki, akivel beszélni tudok ezügyben.}
 {315}{}{Csak be kell lépnem Menedékváros számítógépébe. Azzal  optimalizálni tudnám az erõmû reaktor-lemezét és ez jelentõsen felfuttatná a teljesítményét.}
 {316}{}{Rendben van. Ha történik valami ezügyben, kérem, értesítsen!}
@@ -230,17 +225,16 @@
 {324}{}{Rendben. Köszönöm.}
 {325}{}{Hmmm... nos, nem engedélyezhetem önnek a belépést a Menedékbe, de lehet, hogy én magam optimalizálni tudom a reaktor-lemezt.}
 {326}{}{Rendben, de nincs nálam a kérdéses lemez. Hamarosan jelentkezem.}
-#Szinten parbeszedes szoismetles.
-{327}{}{Nagyszerû!}
+{327}{}{Az nagyszerû lenne.}
 {328}{}{Kitûnõ!}
 {329}{}{Rendben.}
 {330}{}{Adja ide a reaktor-lemezt és én majd személyesen optimalizálom a számítógéppel.}
 {331}{}{Nagyszerû! Köszönöm.}
-{332}{}{Mi az?}
+{332}{}{Mi a fene ez?}
 {333}{}{Van itt egy reaktor-lemez. Egy gekkói ... hmmm ... technikus szerint Menedékváros számítógépe optimalizálni tudná a mûködését, tovább növelve a teljesítményét és stabilitását.}
 {334}{}{Õrség! Õrség !!!}
 {335}{}{}
-{336}{}{Tájékoztattad McClure-t Redding Jet-függõségével kapcsolatban.}
+{336}{}{You told McClure about the Redding Jet addiction problem.}
 {337}{}{Átadtad a gazdálkodási adatlemezt McClure számára.}
 {338}{}{Még mindig keresem a módját, hogy lehetne optimalizálni az erõmû mûködését.}
 {339}{}{Még mindig keresem a módját, hogy lehetne optimalizálni az erõmû mûködését.}
@@ -248,3 +242,5 @@
 {341}{}{Lehet. Volna még pár kérdésem...}
 {342}{}{Lehetséges. Majd meglátom.}
 {343}{}{Tudattad McClure-ral, hogy kézbesítetted a Jet-ellenszert.}
+{344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
+{345}{}{This is quite interesting.}

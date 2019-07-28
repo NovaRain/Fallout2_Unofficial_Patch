@@ -1,1 +1,1 @@
-{100}{}{Sei entrato nel Vault di Vault City.}x
+{100}{}{Sei entrato nel Vault di Vault City.}

@@ -3,13 +3,13 @@
 {102}{}{Ehi, tu! Che cosa stai facendo!}
 {103}{}{Adesso sta' fermo dove sei, viaggiatore. Che cosa ci fai qui?}
 {104}{}{Sto facendo fuori i mostri che ci sono qui.}
-{105}{}{Perche', cosa ti interessa?} ###???Why, what's it to you
+{105}{}{Perche', cosa ti interessa?}
 {106}{}{Perche' tu URLA!}
 {107}{}{Scommetto che sono stati quei bastardi di Vault City a mandarti. Beh, farai meglio ad andartene e a lasciare ogni altra cosa in vita.}
 {108}{}{Beh, e' un po' tardi per farlo.}
 {109}{}{Perche'?}
 {110}{}{Scusa, ho del lavoro da fare.}
-{111}{}{Quelle creature sono l'unica cosa che impedisce a Vault City di farci diventare i loro cosiddetti servi.} ###???Those creatures are the only thing that are stopping Vault City from making us their so-called servants
+{111}{}{Quelle creature sono l'unica cosa che impedisce a Vault City di farci diventare i loro cosiddetti servi.}
 {112}{}{Beh, loro mi pagano per sbarazzarmi dei mostri ed e' proprio quello che faro'.}
 {113}{}{Questo non me l'avevano detto.}
 {114}{}{Loro mi pagano perche' io mi sbarazzi dei mostri e ho completato il mio lavoro.}
@@ -38,7 +38,7 @@
 {137}{}{Abbiamo bisogno di tre fucili e di un fucile a pompa. Prima ce li riesci a portare e meglio e'.}
 {138}{}{Okay.}
 {139}{}{Con questi, saremo in grado, nei prossimi mesi, di ricavare qualcosa da questo posto. Se dovessi avere bisogno di un posto dove riposare, sarai sempre il benvenuto qui.}
-{140}{}{Non c'e' di che.}
+{140}{}{Di nulla.}
 {141}{}{Bentornato. Le cose vanno per il meglio. Stiamo lavorando per espandere il villaggio.}
 {142}{}{Ehila'! Le cose vanno bene, come vedi. Da' un'occhiata in giro, se ne hai il tempo.}
 {143}{}{Stiamo continuando a costruire. Speriamo di espandere nuovamente le mura entro la fine del prossimo mese.}

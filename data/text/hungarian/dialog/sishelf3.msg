@@ -1,4 +1,3 @@
-# Dialog Editor last position: 7
 {100}{}{Egy könyvespolcot látsz, melyet különbözõ tárgyak tárolásra használnak.}
 {101}{}{Egy régi könyvespolc áll itt, mely elég masszívnak tûnik különféle tárgyak tárolására.}
 {195}{}{Úgy tûnik, nincs csapda a könyvespolcon.}

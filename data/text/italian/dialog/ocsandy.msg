@@ -7,7 +7,7 @@
 {106}{}{Tu strana. Me va via.}
 {107}{}{Sono la persona che ti dara' una bella lezione se non la smetti con questa pagliacciata del gatto e non mi dici il tuo nome.}
 {108}{}{Sono solo una normalissima persona che e' rimasta piuttosto colpita dalle tue caratteristiche speciali. Potresti dirmi il tuo nome?}
-{109}{}{Lasciamo perdere.}
+{109}{}{Nulla.}
 {110}{}{(Fa una risatina) Sei buffo! Miao... io sono Sandy. Non sono un gatto per davvero. Mi piace fare come se lo fossi.}
 {111}{}{(Urla) Mamma! Mamma! Mamma!}
 {112}{}{Io sono Sandy. Non sono un gatto per davvero, mi piace solo fare finta.}

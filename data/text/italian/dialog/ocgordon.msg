@@ -5,21 +5,21 @@
 {104}{}{Santuario?}
 {105}{}{Me fa domande?}
 {106}{}{Uh... no ricorda. Ciao.}
-{107}{}{E' un piacere conoscerti, Gordon. Io sono } # continued 177
+{107}{}{E' un piacere conoscerti, Gordon. Io sono }
 {108}{}{E questo tu lo chiami un santuario? A chiunque sia dedicato sono sicuro che quella persona si stara' rivoltando nella tomba!}
 {109}{}{Beh, scusa se ti ho disturbato. Devo andare.}
 {110}{}{Si'. Un santuario e' un luogo di culto, solitamente dedicato ad un dio, a un santo, o ad un altro ente supremo.}
 {111}{}{Ah. Ok. Me fa domande?}
 {112}{}{Okay. Ciao.}
 {113}{}{Certamente.}
-{114}{}{Che cosa vuoi sapere?}
+{114}{}{Cosa vorresti sapere?}
 {115}{}{Per chi essere santuario?}
 {116}{}{Da quanto tu essere qui?}
 {117}{}{D'claw cattivi?}
 {118}{}{Perche' tu rimanere?}
 {119}{}{Me va ora.}
 {120}{}{A chi e' dedicato questo santuario?}
-{121}{}{Da quanto tempo sei qui?}
+{121}{}{Da quanto tempo ti trovi qui?}
 {122}{}{Cosa puoi dirmi a proposito dei Deathclaw?}
 {123}{}{Perche' rimani qui?}
 {124}{}{Grazie, Gordon. Arrivederci.}
@@ -32,14 +32,14 @@
 {131}{}{Ho vissuto tutta la mia vita all'interno di questo vault. Sono stato Custode del Santuario per molti di questi anni.}
 {132}{}{Tu qui prima di D'claw?}
 {133}{}{Ah. Serve sapere altro.}
-{134}{}{Me ha da andare adesso.}
+{134}{}{Deve andare ora.}
 {135}{}{Sei un uomo davvero devoto. Posso farti qualche altra domanda?}
 {136}{}{E' davvero un sacco di tempo. Puoi rispondere a qualche altra domanda?}
 {137}{}{La vita e' tua e puoi sprecarla come preferisci, amico.}
 {138}{}{Quindi ti trovavi qui quando i Deathclaw hanno occupato questo posto?}
 {139}{}{No, amico mio, non c'ero. Alcuni mesi fa sono partito per andare a visitare la statua dell'Abitante del Vault eretta nella piazza centrale di NCR (la capitale della New California Republic, a est di qui). Quando tornai al vault, trovai i Deathclaw che si erano gia' stabiliti qui. Inutile dire che rimasi sconvolto. Tuttavia, sono convinto che non siano loro i responsabili di quello che e' successo ai miei compagni. Se, per caso, tu desiderassi avere altre informazioni a riguardo, puoi rivolgerti a Goris, in biblioteca.}
 {140}{}{Okay, grazie.}
-{141}{}{Okay, arrivederci.}
+{141}{}{Okay, ciao.}
 {142}{}{Me ne ricordero'.}
 {143}{}{Non mi serve che tu mi dica chi devo incontrare o dove devo andare.}
 {144}{}{Grazie dell'aiuto. Avrei delle altre domande, pero'.}
@@ -74,6 +74,5 @@
 {173}{}{Fa domanda?}
 {174}{}{Me stato gia' qui? Scusa. Deve andare.}
 {175}{}{Volevo parlare ancora con te.}
-{176}{}{Volevo solo salutare.}
-
-{177}{}{. Posso farti qualche domanda?}
+{176}{}{Volevo solo salutarti.}
+{177}{}{. Posso farti delle domande?}

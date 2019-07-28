@@ -1,8 +1,7 @@
-# Dialog Editor last position: 25
 {100}{}{Egy kemény, középkorú rabszolga-hajcsár.}
 {101}{}{Egy elég nagy darab rabszolga-hajcsárt látsz.}
 {150}{}{Egy rabszolga-hajcsár, aki szemlátomást élvezi a munkáját.}
-{151}{}{Ez a rabszolga-hajcsár nagyon erõsnek látszik, viszont nem tûnik valami okosnak.}
+{151}{}{This slaver seems to be very strong but not too bright.}
 {200}{}{Takarodj az ajtótól!}
 {201}{}{Mi a faszt csinálsz?}
 {202}{}{Metzger majd letépi a fejed. Állj hátrébb, ember!}

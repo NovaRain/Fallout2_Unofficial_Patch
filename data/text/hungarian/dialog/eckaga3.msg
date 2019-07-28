@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Egy fémpáncélt viselõ férfit látsz.}
 {101}{}{Kaga.}
 {102}{}{Egen, ez Kaga, a nem-is-annyira-nagy. Fémpáncélja van, és bizony éppen meg akar ölni téged.}

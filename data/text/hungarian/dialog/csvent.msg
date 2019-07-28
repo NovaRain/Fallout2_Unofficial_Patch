@@ -1,8 +1,6 @@
-{100}{}{Egy szikla.}
-{101}{}{Egy álcázott légakna.}
-{102}{}{}
-
-{110}{}{Ez nem csinál semmit.}
+{100}{}{You see a boulder.}
+{101}{}{You see a camouflaged ventilation shaft.}
+{102}{}{Nem látsz semmi különöset.}
+{110}{}{Ezzel nem jutottál semmire.}
 {120}{}{Nem tudsz felmenni a légaknán.}
-
-{200}{}{Légakna.}
+{200}{}{You see a ventilation shaft.}

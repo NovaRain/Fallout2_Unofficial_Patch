@@ -1,8 +1,5 @@
-# Dialog Editor last position: 5
 {100}{}{Egy Polgár.}
 {101}{}{Egy világoskék kezeslábast viselõ Polgárt látsz, amint épp könnyít magán.}
-#Az overál olyan csúf szó, és már máshol is sikeresen bevált a kezeslábas
-
 {102}{}{Mindjárt tapsolok haver, csak foglalt a kezem.}
 {103}{}{Gratulálok az Enklávé felett aratott gyõzelmedhez. Õket is a... mellékhelységben lepted meg?}
 {104}{}{Szívesen meghallgatnám a történeteidet, de látod, most épp van egy "kis" dolgom.}
@@ -16,8 +13,6 @@
 {112}{}{Ne szólj hozzám! A végén még mellélövök!}
 {113}{}{Figyu, "Kiválasztott"! Épp összpontosítani próbálok, oké?}
 {114}{}{Bárcsak fülkék lennének itt.}
-#Hat igen... :)
-
 {115}{}{Annak az embernek, aki a mellékhelységben társalgást kezdeményez, még sok tanulnivalója van az ürítési etikettrõl.}
 {116}{}{Azt hiszem, összetévesztettél valakivel, barátom. Valakivel, aki...  épp... NEM... PISÁL!!!}
 {117}{}{Ez egyike azoknak a Kevin és Bean féle toalett-interjúknak?}
@@ -26,12 +21,10 @@
 {120}{}{Ne most, szivi. Ha nem vetted volna észre, épp könnyítek magamon.}
 {121}{}{Bocs, kedves, de most nem alkalmas a pillanat.}
 {122}{}{Ez nem pihenõhely, haver. Evezz odébb, oké?}
-#kisebb baki
-
 {123}{}{Azt hiszem, összekeversz valakivel, haver. Én nem szoktam férfiakkal randizni a vécében.}
 {124}{}{Nem, nem fogok használati útmutatót adni a vécéhez.}
 {125}{}{Egy mutáns! Õrség! Õrség!!!}
-{126}{}{Egy ghoul! Õrség! Õrség !!!}
+{126}{}{Egy ghoul! Õrség! Õrség!!!}
 {127}{}{Hé! Ne lökdöss! Várd ki a sorod!}
 {128}{}{Van még egy vécé. Használd azt!}
 {129}{}{Csak még egyszer lökj meg és lepisillek. Értve vagyok? Komolyan mondom!}

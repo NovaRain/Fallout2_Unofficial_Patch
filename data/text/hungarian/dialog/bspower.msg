@@ -8,5 +8,4 @@
 {107}{}{Ideje menni.}
 {108}{}{Valahogy sikerült a csatlakozókat meglazítanod, és visszállítani az energiát!}
 {109}{}{A fenébe. Ez keményebb dió, mint amilyennek látszott.}
-{110}{}{Rendben.}
-
+{110}{}{Megbeszéltük.}

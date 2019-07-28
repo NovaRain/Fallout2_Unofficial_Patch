@@ -1,8 +1,7 @@
-# Dialog Editor last position: 54
 {100}{}{Egy gyerek.}
 {150}{}{Egy kis árva gyereket látsz.}
 {200}{}{Nincs egy kis apród?}
-{201}{}{Hogy mondod?}
+{201}{}{Mi?}
 {202}{}{Nem csináltam semmit!}
 {210}{}{Ez Tubby helye.}
 {211}{}{Tubby rossz dolgokat árul.}
@@ -25,21 +24,21 @@
 {250}{}{Néni, nincs egy kis apród?}
 {251}{}{Bácsi, nincs egy kis apród?}
 {270}{}{Csak itt akarsz álldogálni vagy be is mész?}
-{271}{}{Helló!}
+{271}{}{Szia!}
 {272}{}{Éhes vagyok.}
 {273}{}{Hahó! Tubby boltja mindig nyitva áll. Gyere be!}
 {280}{}{Bemész vagy sem?}
 {281}{}{Gyere, nézd meg Flick boltját!}
-{282}{}{Helló!}
+{282}{}{Szia!}
 {283}{}{Hahó! Nézz be Flick-hez!}
 {290}{}{Na, bemész?}
-{291}{}{Helló!}
-{292}{}{Ne csináld ezt!}
+{291}{}{Szia!}
+{292}{}{Ne csináld ez!}
 {293}{}{Hé! Frankie-nél remek dolgokat vásárolhatsz.}
 {300}{}{Menj csak be, Becky nagyon kedves!}
 {301}{}{Nyitva tartom a szemem...}
 {302}{}{Hú, de szép vagy.}
-{303}{}{Helló!}
+{303}{}{Szia!}
 {304}{}{Hogy hívnak?}
 {305}{}{Szerintem tetszenél Becky-nek.}
 {306}{}{Gyere, nézz be Becky-hez!}

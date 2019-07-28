@@ -1,4 +1,3 @@
-# Dialog Editor last position: 12
 {100}{}{Akarol hallani új recept?}
 {101}{}{Milyent?}
 {102}{}{Patkány meglepetés.}

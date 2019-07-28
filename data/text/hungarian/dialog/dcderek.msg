@@ -1,4 +1,3 @@
-# Dialog Editor last position: 63
 {100}{}{Rejtek egyik polgára.}
 {101}{}{Derek.}
 {150}{}{Elég mozgékonynak tûnik.}

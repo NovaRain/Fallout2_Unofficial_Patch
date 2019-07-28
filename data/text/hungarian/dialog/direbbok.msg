@@ -1,5 +1,4 @@
-# Dialog Editor last position: 2
-{100}{}{Olyan furcsán érzem magam... most végül is a kertésze volt, vagy a legjobb barátja másodunokatestvérének a sógora? Fáj ettõl a fejem.}
+{100}{}{I feel so strange... but was that her gardener or her best friend's second cousin's brother-in-law? My head hurts.}
 {101}{}{Csodás volt... de a férfi nem érdemelte meg a nõt.}
 {102}{}{<szipákolsz>}
 {103}{}{Miért olvasom még mindig ezt a szart?}

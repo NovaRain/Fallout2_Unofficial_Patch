@@ -36,9 +36,9 @@
 {135}{}{NEM, NEM TE VAGY.}
 {136}{}{De, én vagyok.}
 {137}{}{A-Ah.}
-{138}{}{De-De.}
+{138}{}{Aha.}
 {139}{}{A-Ah.}
-{140}{}{De-De.}
+{140}{}{Aha.}
 {141}{}{A... Ah...}
 {142}{}{De... De...}
 {143}{}{Öö...ELÉG EBBÕL!}
@@ -55,5 +55,11 @@
 {154}{}{MICSODA?! TE LOPNI AKARSZ TÕLEM?!}
 {155}{}{HALÁL RÁD!}
 {156}{}{Disintegrate the player with plasma death animation.}
-
 {200}{}{(12 órával késõbb)}
+{1129}{}{Me Chosen One.}
+{1134}{}{Me am too.}
+{1136}{}{Am too!}
+{1138}{}{Aha.}
+{1140}{}{Aha.}
+{1142}{}{De... De...}
+{1148}{}{Tankee!}

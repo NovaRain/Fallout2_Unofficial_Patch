@@ -1,7 +1,6 @@
-# Dialog Editor last position: 19
-{100}{}{Földmérõ}
+{100}{}{You see a Prospector.}
 {101}{}{Állj csak meg, idegen! Nem szoktam ismeretleneket megállítani, de a készletem frissítésre szorul, és nem hagyhatom itt ezt a területet. Nincs kedved egy gyors csereberéhez?}
-{102}{}{Miért is ne....}
+{102}{}{Hogyne.}
 {103}{}{Nincs semmim, amit elcserélhetnék. Sajnálom.}
 {104}{}{Búúga.}
 {105}{}{Micsoda szerencse. Nem tudsz beszélni, igaz? Ha nem tudsz beszélni, nem is tudod elmondani senkinek, merre van a területem. Csereberéljünk!}

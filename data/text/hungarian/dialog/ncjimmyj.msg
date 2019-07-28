@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ Csipkés Jimmy J.}
 {150}{}{Ez a fickó nagyon gyanús pofa. Az arcán egy cikcakkos sebhely húzódik, és idõnként megrándul az arcizma.}
 {151}{}{Ez az ember Csipkés Jimmy J. Úgy tûnik, éppen kuncsaftokra vadászik.}
@@ -10,7 +9,7 @@
 {203}{}{Hát nem mindennapos, hogy valaki a saját házában tapossa el az Elnököt.}
 {204}{}{Nem akarsz lazítani, hõsöm, és megünnepelni a gyõzelmedet egy kis Jimmy J. féle Jettel?}
 {205}{}{Csak mentsd meg a világot, és Csipkés Jimmy a lábad elé rakja a világot, hõsöm. Annyi Jetet kapsz, amennyit csak akarsz.}
-{206}{}{Úgy hallottam, a Korzikai Testvérek beszélni akarnak veled, te kis hõs...}
+{206}{}{Hallom, hogy a Korzikai Testvérek keresnek téged! Egy hõs nekik is jól jön!}
 {220}{}{A nevem Csipkés Jimmy, és bármennyi Jetre legyen szükséged, tõlem megkapod.}
 {221}{}{Be akarod lõni magad? Csipkés Jimmy a te embered.}
 {222}{}{Repülni szeretnél? Csipkés Jimmynél jegyet válthatsz.}
@@ -40,14 +39,10 @@
 {274}{}{Nézd, engem nem érde...}
 {280}{}{A TÖBBI díler tojik a minõségre, de én... én szeretem megtartani a kuncsaftjaimat és szeretem, ha elégedettek. Én errõl vagyok híres... ez a Jimmy J. módszer.}
 {281}{}{Én nem lenni elcse-szett pilóta te hazudol }
-{5281}{}{ fülébe te hazudol }
-{6281}{}{ fülébe mer' én nem lenni pilóta!}
 {282}{}{ÉN MEGY ÉN MEGY HAGGYÁ MEN...}
 {283}{}{Hé, a... ööö... "Jimmy J. módszer" faszán hangzik, meg minden, viszont éppen errõl szeretnék feltenni né...}
 {284}{}{Nem, nem hiszem...}
-{5200}{}{! Gyere akassz le J-J-rõl egy kis ajándék Jetet...}
-{5201}{}{! Ha ünnepelni szeretnél egy kis Jettel, gyere válts szót Jimmy J-vel...}
-{290}{}{Tudtam, hogy visszajössz, tudtam! Mondtam, hogy a Jimmy J. módszer bevált. Legyenek boldogok és sosem fognak cserben hagyni. Szóval pilóta barátom... ma mit tehet Csipkés Jimmy J. érted?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Nocsak, nocsak, a mi kis pilótánk már megint erre jár... visszajöttél, mert szükséged van valamire Csipkés Jimmytõl?}
 {292}{}{Ööö... Én elfelejt mit akar mondani. Menek}
 {294}{}{Üzletejjünk! Én szeret üzlet}
@@ -57,11 +52,10 @@
 {298}{}{Tudod, ki adta a Wright gyereknek a halálos Jet adagot?}
 {299}{}{Korábban azt mondtad, hogy a te Jeted a legbiztonságosabb. Ezek szerint van forgalomban kevésbé tiszta anyag is?}
 {300}{}{Most nem kell semmi, kösz, Jimmy.}
-{310}{}{Tehát mit mondasz? Mit tehet ma érted a jó öreg Csipkés Jimmy J.?}
+{310}{}{So what do you SAY? What can Jagged Jimmy J do for you today?}
 {311}{}{Igen, mit akarsz? Mondd gyorsan... nincs idõm a cseverészésre.}
-{312}{}{Igényeid vannak, kérdéseid vannak... mit tehet ma Csipkés Jimmy J. érted?}
+{312}{}{You got wants, you got questions... what is it that Jagged Jimmy J can do for you today?}
 {314}{}{Én felejt el! Nekem lenni ötlet de elfelejt! }
-{5314}{}{ MEGÖL}
 {330}{}{Hé... ismerõsnek tûnsz Jimmynek. Ismerlek én téged, pilóta barátom?}
 {331}{}{Meg mernék esküdni, hogy tudom, ki vagy, pilóta barátom. Olyan fenemód ismerõsnek tûnsz...}
 {332}{}{ÉN NAGY HÕS ÉN MEGOLD JÁTÉK ÉS RÚG ELNÖK SEGGE ÉS ROBBANTA FEL OLAJTORONY ÉS MENTE MEG VILÁG}
@@ -73,16 +67,14 @@
 {338}{}{Igen, valóban megállítottam az Enklávét világraszóló gaztettük véghezvitelében, megöltem az Elnököt, felrobbantottam a bázisukat, és alig tudtam elmenekülni onnan.}
 {339}{}{Bunyóztam a szorítóban.}
 {340}{}{Csináltam néhány filmet. Az a név, hogy "}
-{5340}{}{" mond valamit?}
 {341}{}{Szoros kapcsolat fûz a }
-{5341}{}{ családhoz.}
 {342}{}{Nem, nem hiszem, Jimmy. Most akkor üzletelünk, vagy sem?}
 {343}{}{Nem, nem hiszem. Ide figyelj, akartam valamit kérdezni...}
 {344}{}{Nem, most mennem kell. Késõbb még összefutunk, Jimmy.}
 {360}{}{Ez az! Tudtam, hogy már láttalak valahol! A fenébe, miért nem ezzel kezdted? Jimmy mindjárt képben lett volna... Na, a jó életbe, mit tehetek érted?}
 {361}{}{Ööö... én elfelejte. Menek.}
 {363}{}{Ööö, egy kis Jetet szeretnék...}
-{364}{}{Térjünk át másra...}
+{364}{}{Hey, I wanted something else...}
 {365}{}{Mennem kell. Késõbb találkozunk, Jimmy.}
 {375}{}{(Jimmy teljesen ledermed. Olyan, mintha lebénítottad volna az agyát.)}
 {376}{}{(Ellopod minden tárgyát.)}
@@ -129,15 +121,15 @@
 {492}{}{Tulképpen jobb, ha elfelejted, amit kérdeztem. Térjünk át valami másra...}
 {500}{}{Régen egyenesen az istentõl, Myrontól szereztem, de a fickó lelépett... vagy megnyúvadt. Mostanában egyenesen a Mordino családtól szerzem be.}
 {501}{}{Hát RÉGEBBEN a jó öreg Myrontól szereztem, de a fickónak tele lett a töke és kiszállt az üzletbõl... nem igaz, Myron? Hah! Mostanában fõleg a Mordino családhoz rohangászok anyagért.}
-{502}{}{Érdekes dolog ez. Feltennék még néhány kérdést...}
+{502}{}{Érdekes. Inkább kérdezek mást...}
 {510}{}{Nekem kapcsolatom van a KÉSZÍTÕVEL, pilóta barátom. A Jetet egyenesen a vegyianyagok élõ istenétõl, az agytröszt Myrontól szerzem.}
 {511}{}{Ki az a Myron?}
-{512}{}{Érdekes, mondhatom, viszont volna még néhány kérdésem...}
+{512}{}{Interesting. Say, I had some other questions...}
 {513}{}{Myron? Lehet találkozni ezzel a... földre szállt istennel?}
 {514}{}{Valóban? Akkor késõbb még biztos beugrom, és veszek tõled. Kösz, Jimmy.}
 {520}{}{Õ a Mordino család aranyifja. Õ KÉSZÍTETTE a Jetet. Ha valaki Csipkés Jimmytõl vásárol, olyan, mintha magától Myrontól venné. Ezért létezik az, hogy J-J-nek tiszta anyaga van. A LEGJOBB a városban.}
 {521}{}{Jól hangzik, vásárolnék belõle.}
-{523}{}{Szerinted találkozhatnék ezzel a Myronnal?}
+{523}{}{Szerinted összefuthatnék ezzel a Myronnal?}
 {530}{}{Francokat! Mordinóék jobban lelakatolták a gyereket, mint egy New Reno-i szüzet. Nem létezik, hogy bárkit is a közelébe engedjenek, hallod-e!}
 {531}{}{Veszem az adást. Szóval milyen biztonsági rendszer veszi körül ezt a srácot?}
 {532}{}{Tegyük azért hozzá, hogy azt hallottam, Myronnak van egy csomó prostituált... barátja. Hogyan lehetséges ez, ha annyira el van zárva?}
@@ -145,7 +137,7 @@
 {534}{}{Érdekes. Kösz az információt, Jimmy.}
 {540}{}{Õrök, õrök mindenütt. Még a soknál is több õr vigyáz rá. Ezenkívül a legszigorúbb renói elektronikus védelem veszi körül. Annyira jól õrzik, hogy még annak is örülhetsz, ha hallasz valakirõl, aki látta õt.}
 {541}{}{Szóval jól õrzik a fickót... Mégis pontosan hol?}
-{543}{}{Értem. Akkor kérdezek valami mást...}
+{543}{}{I see. Say, I had some other questions...}
 {550}{}{Egy bizonyos "Istálló"-ban tartják, észak felé, a város határain túl. Csak egyszer voltam ott, mégsem engedtek be a kapun, hiába dolgozom a családnak.}
 {551}{}{Ugyan már, biztos van valami mód, hogy találkozzam vele!}
 {554}{}{Szóval Istálló? Észak felé a városon kívül... (gyorsan feljegyzem a PipBoyba a biztonság kedvéért) ...kösz a fülest, Jimmy.}
@@ -154,7 +146,7 @@
 {564}{}{Akkor rendben van... Köszönöm, Jimmy, most mennem kell.}
 {570}{}{Hát ez... egy teljesen... más történet, pilóta barátom. Bizony ám.}
 {571}{}{Szerintem ez éppen az a történet, amit én hallani akarok. Húzzál bele, Jimmy...}
-{572}{}{Vedd úgy, hogy nem is mondtam semmit. Kérdezek inkább mást...}
+{572}{}{Felejtsd el! Kérdeznék inkább valami mást.}
 {573}{}{Nem hinném, hogy most volna idõm erre a sztorira, Jimmy. Indulnom kell.}
 {580}{}{Myronra rengetegen vigyáznak... A Mordino család a New Renóban létezõ összes jót megadja a kis védencüknek.}
 {581}{}{Úgy érted, amiatt...?}
@@ -163,14 +155,14 @@
 {590}{}{Mordinóék személyesen szállítják a kurvákat az Istállóba, aztán õk is hozzák õket vissza onnan. Hehe... Myron még éppen csak tizenkilenc éves, de vagy húsz... igen, vagy húsz férfi hormonja szorult belé.}
 {592}{}{Érdekes dolgok ezek... Csak úgy puszta kiváncsiságból kérdezem, a Mordino család honnan szerzi be a prostijait és milyen alapon válogatja õket?}
 {600}{}{(Vállat von.) Úgy hallottam, az egyik Mordino gyerek rendszeresen jár a Cat's Paw szalonba, és mindig kiválaszt egyet Kitty kisasszony árujából Myron számára... (Jimmy hirtelen abbahagyja a beszédet. Rádsandít és összevonja a szemöldökét.) Na, várjunk csak...}
-{601}{}{Mi a baj?}
-{602}{}{Ööö... felejtsd el. Inkább kérdeznék valami mást...}
+{601}{}{Mi a gond?}
+{602}{}{Uh... nevermind. Say, I had some other questions...}
 {603}{}{Öö, hát köszi az információt, Jimmy.}
 {610}{}{Mi a francnak akarsz te ilyen baromságokat tudni? Van Jetem, ennyit éppen elég tudnod. Ne érdekeljen téged Myron, ne érdekeljen, mit vacsizik, vagy kit nyom meg, mielõtt ágyba bújik!}
 {611}{}{Miért akarsz te ilyen baromságokat tudni... (Megáll, aztán elmosolyogja magát és végigmér.) Aha, már értem a dörgést. Te egyenesen a Jet forrásához akarsz jutni, nem igaz, húgi?}
 {612}{}{Jelen pillanatban nem. Na, nézzük, mid van, Jimmy!}
 {613}{}{Felejtsd el akkor! Térjünk rá az üzletre...}
-{614}{}{Akkor ne is foglalkozzunk vele! Kérdezek inkább valami mást...}
+{614}{}{Nevermind then. I had some other questions...}
 {615}{}{Akár... viszont kérdeznék még valami mást...}
 {616}{}{Nem, csak kiváncsiskodtam. Köszi, Jimmy, most dolgom van.}
 {617}{}{Akkor jó. Késõbb találkozunk, Jimmy, most indulnom kell.}
@@ -178,7 +170,7 @@
 {626}{}{Megértettem. Jöhet az üzlet?}
 {627}{}{Tudsz valamit errõl az üres Jet-ampulláról?}
 {628}{}{Nem hinném, hogy a kölyök túllõtte volna magát. Szerintem megmérgezték.}
-{629}{}{Volna néhány kérdésem...}
+{629}{}{Lenne pár kérdésem.}
 {635}{}{Ah, szóval kezdenek napvilágra jönni a dolgok, mi? Szeretnéd tudni, vajon a vén Jimmynek van-e valami köze a dologhoz, ugyebár?}
 {636}{}{Nem, én csak annyit akartam tud...}
 {637}{}{Rendben, vedd úgy, mintha nem is mondtam volna. Akarsz üzletelni?}
@@ -196,19 +188,26 @@
 {663}{}{Nem jár el a szám, Jimmy. Most mennem kell, oké? Szépen elmegyek...}
 {675}{}{(Elveszi az ampullát és megtanulmányozza.) Nem, én... (megszagolja az üveg száját, és összevonja a szemöldökét.) A francbaaa! Ebbe a Jetbe radskorpió mérget raktak. Bárki is szippantott bele, nem hiszem, hogy sokáig élt utána... (Visszaadja az ampullát.)}
 {676}{}{Szóval mérgezett?}
-{677}{}{Hmmm. Kérdeznék még egy s mást...}
+{677}{}{Hmmm. Volna még néhány egyéb kérdésem...}
 {678}{}{Értem. Köszi.}
 {685}{}{Olyan mérgezett ez, mint a picsa! Ebben a városban vigyázni kell az ilyen szarral... Jimmy nem gyõzi eleget hangoztatni...}
 {686}{}{Van valami dunsztod róla, honnan származhat ez a vacak?}
 {695}{}{Nincs... idehallgass, nehogy elkezd terjeszteni, hogy ez az enyém... a helyedben én rákérdeznék erre Jules-nél és Renescónál... persze nem tõlem hallottad, oksa?}
-{696}{}{Rendben van. Még azért akarok valamit kérdezni...}
+{696}{}{Rendben. Lenne pár kérdésem.}
 {697}{}{Renesco és Jules? Rákérdezek náluk. Kösz a tippet.}
 {705}{}{Hát nem kicsinkét lepõdtem meg rajta.}
 {706}{}{Mit mondasz?}
-{707}{}{Értem. Volna még egynéhány kérdésem...}
-{708}{}{Mindegy, hagyjuk.}
+{707}{}{Értem. Hadd kérdezzek valami mást...}
+{708}{}{Mindegy, hagyjuk!}
 {715}{}{Persze, hogy azt mondaná, mivel mindent tud a dologról!}
-{716}{}{Ezt fejtsd ki bõvebben!}
+{716}{}{Ezt most hogy kell értenem?}
 {725}{}{Fejtsem ki? Hát kifejtem... Jimmy szereti, ha a vásárlói elégedettek és ÉLNEK. Renesco nem tesz különbséget két ember közt, szóval... majd te levonod magadnak a saját következtetésedet.}
 {727}{}{Kösz a tippért, Jimmy. Most jobb, ha megyek.}
 {800}{}{Rájöttél, hogy Richard Wrightot megmérgezték.}
+{5200}{}{! Gyere akassz le J-J-rõl egy kis ajándék Jetet...}
+{5201}{}{! Ha ünnepelni szeretnél egy kis Jettel, gyere válts szót Jimmy J-vel...}
+{5281}{}{ fülébe te hazudol }
+{5314}{}{ ÖL MEG TÉGED}
+{5340}{}{?}
+{5341}{}{ családhoz.}
+{6281}{}{ fülébe mer' én nem lenni pilóta!}

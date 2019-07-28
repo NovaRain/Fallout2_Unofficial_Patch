@@ -1,8 +1,5 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
-{199}{}{Che domanda di merda e' mai questa?}
+{199}{}{Ma che cazzo di domanda e' questa?}
 {200}{}{Prospettiva: buona.}
 {201}{}{Prospettiva: non cosi' buona.}
 {202}{}{La mia risposta e' no.}
@@ -32,7 +29,6 @@
 {226}{}{Mi sento male.}
 {227}{}{Ho la nausea.}
 {228}{}{Le tue mani sono calde.}
-# 9 or greater luck
 {229}{}{Feargus era contrario all'idea di mettermi nel gioco. E' un brutto cattivone.}
 {230}{}{Il tuo punteggio e' 23 su 100. Ne hai di strada da fare ancora...}
 {231}{}{Scott Everts si e' lamentato un bel po' quando ha visto quanti oggetti da raccogliere ci sono nel gioco.}

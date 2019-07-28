@@ -1,7 +1,6 @@
-# Dialog Editor last position: 27
 {100}{}{Ez a hétköznapi kinézetû fiatalember tekintélyt parancsoló ruhát visel.}
 {101}{}{Õ az épület recepciósa.}
-{102}{}{A fickóban az égvilágon semmi kivételes nincs. Õ a bimbódzó bürokrata remek megtestesülése.}
+{102}{}{There's nothing particularly exceptional about the guy. He looks like the epitome of a budding bureaucrat.}
 {103}{}{Üdvözöljük a Kongresszusi Épületben. Segíthetek valamiben?}
 {104}{}{Látom, már megint itt van. Ez alkalommal miben segíthetek?}
 {105}{}{Tehetek magáért valamit?}
@@ -15,7 +14,7 @@
 {113}{}{Tandi Elnöknõhöz jöttem.}
 {114}{}{Tandi Elnöknõhöz jöttem.}
 {115}{}{Munkát keresek.}
-{116}{}{Mi ez a hely?}
+{116}{}{Mi ez a hely tulajdonképpen?}
 {117}{}{Nem tud.}
 {118}{}{Én menni elfele.}
 {119}{}{Sajnálom, nincs nyilvános WC az épületben. Miért nem megy a dolgára?}
@@ -35,10 +34,9 @@
 {133}{}{13-as? Nem a 15-ös véletlenül?}
 {134}{}{Azt mondtam, 13-as.}
 {135}{}{15?}
-{136}{}{Nincs.}
+{136}{}{Nem.}
 {137}{}{(Folytatás)}
 {138}{}{Óh, szóval, arról van szó! Beszéljen Mr. Güntherrel odabenn!}
-# 138 vege a szituacio miatt
 {139}{}{15-ös Menedék? Alkut akarnak kötni? Érdekes. Beszéljen Güntherrel odabenn!}
 {140}{}{Elmondhatja neki maga is. Csak menjen, és beszéljen Güntherrel!}
 {141}{}{Ez nem hangzik túl jól. Most pedig, bocsásson meg, de dolgom van.}

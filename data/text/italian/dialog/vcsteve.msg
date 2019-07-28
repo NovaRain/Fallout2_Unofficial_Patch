@@ -2,7 +2,7 @@
 {101}{}{Vedi Steve, Vice-Addetto all'Ufficio Accoglienza di Vault City. }
 {102}{}{Ha un'espressione distratta.}
 {103}{}{Salve e benvenuto a Vault City, la migliore citta' della Nuova California! Io sono Steve... come posso aiutarla?}
-{104}{}{Quest'area recintata e' la citta'?} #Is this fenced-in area all there is to the city
+{104}{}{Quest'area recintata e' la citta'?}
 {105}{}{Cosa intendi per "la migliore"?}
 {106}{}{Sto cercando il Vault. Puoi dirmi dove si trova?}
 {107}{}{Arrivederci.}
@@ -13,6 +13,3 @@
 {112}{}{Andro' a parlare con lei, allora.}
 {113}{}{Benvenuto nell'Ufficio Accoglienza di Vault City. Io sono Steve.}
 {114}{}{Mi scusi, devo leggere questo libretto.}
-
-
-#RIPROVAECONTROLLA

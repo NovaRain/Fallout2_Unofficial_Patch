@@ -1,4 +1,3 @@
-# Dialog Editor last position: 13
 {100}{}{Egy földfoglalót látsz.}
 {101}{}{Bill, a földfoglalók egyike.}
 {102}{}{Egy középkorú, kopottas ruhát viselõ férfit látsz.}

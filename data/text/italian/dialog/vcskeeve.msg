@@ -36,18 +36,20 @@
 {135}{}{Beh, ci sono un paio di cose che potresti fare. Una di queste e' diventare un Cittadino. Non perquisiscono mai i Cittadini. Naturalmente le tue chance di diventare un Cittadino sono praticamente pari a zero.}
 {136}{}{Perche'?}
 {137}{}{Cos'altro potrei fare?}
-{138}{}{Come non detto, allora. Ci vediamo.}
+{138}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {139}{}{Se non sei Cittadino dalla nascita, per diventarlo devi sottoporti ad un test e superarlo. Il numero di Esterni che si sono sottoposti al test e sono diventati Cittadini? Zero. Le tue chance? MENO di zero.}
 {140}{}{Cos'e' questo test?}
 {141}{}{Cos'altro potrei fare per superare la dogana?}
-{142}{}{Come non detto, allora. Ci vediamo.}
+{142}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {143}{}{Gregory, il Proconsole, sottopone ad un "test" tutti gli Esterni che vogliono diventare Cittadini. Il test valuta l'intelligenza e la percezione e inoltre devi essere dannatamene fortunato per superarlo. Persino molti Cittadini si troverebbero in difficolta'.}
-{144}{}{Cos'e' che lo rende cosi' difficile?}
+{144}{}{Perche' e' cosi' difficile?}
 {145}{}{Cos'altro potrei fare per superare la dogana, oltre a diventare un Cittadino?}
-{146}{}{Come non detto, allora. Ci vediamo.}
+{146}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {147}{}{Dal momento che molti Esterni non sanno leggere, ne' fare calcoli trigonometrici, ne' scrivere correttamente "Australopiteco", puoi immaginare da solo il motivo. E' solo un pretesto per impedire agli Esterni di diventare Cittadini.}
 {148}{}{Cos'altro potrei fare per superare la dogana, oltre a diventare un Cittadino?}
-{149}{}{Come non detto. Ci vediamo.}
+{149}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
+{150}{}{Hide the goods on your slaves... your "Servants." You see, Vault City mentality is this:
+They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.}
 {151}{}{Ci sono altre possibilita'?}
 {152}{}{D'accordo, allora. Grazie.}
 {153}{}{Beh, PUOI diventare un Cittadino... non ufficialmente.}
@@ -64,12 +66,12 @@
 {164}{}{Non ho tutti quei soldi. Magari sara' per un'altra volta.}
 {165}{}{No, grazie. Magari un'altra volta.}
 {166}{}{Semplice. Non ti CREDEREBBERO. Tu sei un Esterno, io sono un Cittadino. Indovina un po' a chi daranno ascolto...}
-{167}{}{Prendero' quei documenti, allora.}
+{167}{}{Prendero' i documenti, allora.}
 {168}{}{Prendero' quei documenti... ma per 150$, non 200$.}
 {169}{}{Beh, 200$ e' un prezzo troppo alto per me. Tornero' quando avro' piu' soldi.}
-{170}{}{Lasciamo perdere. Sara' per un'altra volta.}
+{170}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {171}{}{Hmmm. Beh, okay... oggi mi sento generoso. Ma non dire ai tuoi amici Esterni che te li ho dati per cosi' poco.}
-{172}{}{D'accordo.}
+{172}{}{Okay.}
 {173}{}{E dammi quei dannati documenti, su!}
 {174}{}{Okay, ho appena finito di stamparli. Ecco qua... "Cittadino". E non parlare di questo nostro affare con nessuno, e SOPRATTUTTO non parlarne con Wallace, d'accordo?}
 {175}{}{Nessun problema. Non mi passerebbe nemmeno per l'anticamera del cervello di fare una cosa del genere ad un Cittadino onesto come te, specialmente quando ho qui nella mia tasca la prova delle tue attivita' illegali.}
@@ -81,12 +83,12 @@
 {181}{}{Occhio... terrei a bada la lingua, se fossi in te.}
 {182}{}{Adularmi non ti servira', Skeev.}
 {183}{}{D'accordo, ho una PICCOLA somma che avevo messo da parte. Ecco. Prendila... trecento verdoni. Adesso te ne starai zitto?}
-{184}{}{Se io decidessi di parlare te ne accorgeresti, non temere. Ci vediamo.} ###???As far as you know
+{184}{}{Se io decidessi di parlare te ne accorgeresti, non temere. Ci vediamo.}
 {185}{}{Nessun problema. Hai il mio silenzio.}
 {186}{}{Duecento o niente, Esterno. Questo e' l'unico modo che hai per entrare in citta'.}
 {187}{}{Credo che provero' a seguire le procedure ufficiali.}
 {188}{}{No, grazie.}
-{189}{}{Ah! Buona fortuna, Esterno. La sola maniera per ottenere un Pass Giornaliero dal vecchio Wallace sara' quella di strapparglielo dalle sue gelide dita morte.} ###???stingy
+{189}{}{Ah! Buona fortuna, Esterno. La sola maniera per ottenere un Pass Giornaliero dal vecchio Wallace sara' quella di strapparglielo dalle sue gelide dita morte.}
 {190}{}{Faro' lo stesso un tentativo.}
 {191}{}{Se e' questo l'unico modo...}
 {192}{}{Ci hai ripensato?}
@@ -129,7 +131,7 @@
 {229}{}{Oh-keeee}
 {230}{}{-Allontanati-}
 {231}{}{Come ti ho gia' detto, io posso farti diventare un Cittadino a tutti gli effetti per 200$. Potrai passare senza problemi e indisturbato per il cancello. Posso preparare i documenti, registrare il tuo numero di serie e consegnarti il tutto in cinque minuti.}
-{232}{}{Cosa bisogna fare per diventare un Cittadino vero?}
+{232}{}{Che cosa bisogna fare per diventare un Cittadino vero?}
 {233}{}{E se invece lo facessi? Anche adesso potrei andare da lui e dirgli che tu vai in giro a vendere documenti di Cittadinanza falsi.}
 {234}{}{Lo spero davvero. So essere molto convincente.}
 {235}{}{La vedremo.}

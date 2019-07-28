@@ -1,7 +1,6 @@
-# Dialog Editor last position: 1
 {100}{}{Egy durva kinézetû alakot látsz.}
 {101}{}{Ez itt egy fosztogató.}
-{200}{}{Behatoltál a területünkre. Most meghalsz!}
+{200}{}{You trespass into our lands. Now you die!}
 {201}{}{Hogy mered idetolni a képed hívatlanul?}
 {202}{}{Meghalsz, városlakó!}
 {203}{}{A halálod hozni fog egy kis pénzt nekem.}

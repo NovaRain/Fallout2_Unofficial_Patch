@@ -20,7 +20,7 @@
 {119}{}{Me cerca lavoro.}
 {120}{}{Me solo vuole chiacchierare.}
 {121}{}{Uh...}
-{122}{}{Nulla.}
+{122}{}{Lasciamo stare.}
 {123}{}{Sto cercando lavoro e ho sentito dire che assume gente.}
 {124}{}{Vorrei fare due chiacchiere con il signor Westin.}
 {125}{}{Non importa, tornero' piu' tardi.}
@@ -30,15 +30,13 @@
 {129}{}{Il signor Westin non 'chiacchiera' con chiunque cammini per la strada. Se non hai delle questioni precise delle quali discutere con lui, ti suggerisco di andartene finche' non le avrai. Adesso sei pregato di andare via.}
 {130}{}{[FATTO]}
 {131}{}{(sigh) Ho sentito dire che il signor Westin ha un debole per le persone come te. Entra.}
-{132}{}{Me grazie te.}
+{132}{}{Me ringrazia te.}
 {133}{}{Si', si'. Sono invischiato in qualcosa.}
 {134}{}{Ehi, sta' lontano da li'!}
 {135}{}{Dovresti chiedere il permesso prima di giocare con cose che non sono tue.}
-
 {136}{}{Salve. Hai bisogno di incontrare nuovamente il signor Westin?}
 {137}{}{Si'.}
 {138}{}{No.}
-
 {139}{}{Me ha cose di Vault City per signor Westin.}
 {140}{}{Ho qualcosa da parte di Vault City per il signor Westin.}
 {141}{}{Va bene, entra. Non provare a creare problemi, pero': ti terro' d'occhio.}

@@ -13,7 +13,7 @@
 {112}{}{Jobb élõhelyet keresek magamnak. Jó itt, meg minden, csak ezek a növények nem nagyon akarnak társalogni. Arra a házra gondoltam ott, ahol a sok ghoul lakik... Átültetnél?}
 {113}{}{Ige'!}
 {114}{}{Nehm!}
-{115}{}{Persze.}
+{115}{}{Hogyne.}
 {116}{}{Asszem, nem.}
 {117}{}{Óriási! Nincs másra szükséged, csak egy ásóra. Áss ki, és ültess el ott! Ha megteszed, elárulok neked egy titkot.}
 {118}{}{Oké!}
@@ -26,7 +26,7 @@
 {125}{}{Ige'.}
 {126}{}{Nehm!}
 {127}{}{Igen! Igen! Nagyon ravasz, barátom, nagyon ravasz. Látom, nem most csíráztál ki! Erõsszárú barátom, lennél oly kedves és tennél nekem egy szívességet?}
-{128}{}{Igen.}
+{128}{}{Hogyne.}
 {129}{}{Nem hinném.}
 {130}{}{Naaagyszerû! Nagyon, nagyon hálás vagyok! Szerezz egy ásót, és gyere vissza! Ha megvagyunk, talán elmondok neked egy titkot. Barátom, remélem, tovább virágzol!}
 {131}{}{Ööö, persze. Viszlát!}
@@ -49,14 +49,14 @@
 {148}{}{Köszi! Pá!}
 {149}{}{Kösz az infót. Viszlát!}
 {150}{}{Barátom! Eleget süt-e rád a nap? Remélem, szépen virágzik az életed? Készen állsz a költöztetésre? Biztosíthatlak, én igen!}
-{151}{}{Ige'}
+{151}{}{Ige'!}
 {152}{}{Nehm! Nem mész!}
 {153}{}{Gyerünk!}
 {154}{}{Meggondoltam magam. Nem segítek neked.}
 {155}{}{Olyan izgatott vagyok, hogy mindjárt összespórázom magam! Menjünk!}
-{156}{}{-rendben-}
+{156}{}{-kész-}
 {157}{}{Kár, nagy-nagy kár. Remélem, meggondolod magad. Remélem, határozatlanságod pollenjét messze viszi a szél. Szép napot!}
-{158}{}{Ööö.}
+{158}{}{Öö.}
 {159}{}{Szép napot!}
 {160}{}{Óóó... a talaj itt annyira... más. Tisztább valahogy. Talán azért, mert nem kell megosztanom másokkal. Ahhh. Ó, igen! Ha valaha találkozol a professzorral és a skorpiójával, emlékezz erre a sakklépésre: Repülõ Máj Támadás a neve, és a skorpió nem tud ellene mit lépni.}
 {161}{}{Köszi!}
@@ -66,7 +66,7 @@
 {165}{}{Csak nem meggondoltad magad? Segítesz?}
 {166}{}{Ige'!}
 {167}{}{Nehm!}
-{168}{}{Igen.}
+{168}{}{Hogyne.}
 {169}{}{Asszem, nem.}
 {170}{}{Úgy nézem, nincs nálad ásó. Amíg nem szerzel egyet, nem mehetek. Visszafojtott bibével várom visszatérted.}
 {171}{}{Viszlát!}

@@ -9,15 +9,15 @@
 {108}{}{Che cosa avete?}
 {109}{}{Non ho niente da barattare. Mi dispiace.}
 {110}{}{Sara' per un'altra volta, allora. Possano i vostri viaggi essere liberi dai pericoli.}
-{111}{}{Arrivederci.}
+{111}{}{Addio.}
 {112}{}{Che peccato. Allora riposatevi e siate il benvenuto nel mio accampamento.}
-{113}{}{Arrivederci.}
+{113}{}{Addio.}
 {114}{}{La mia offerta d'ombra e' giunta troppo tardi per te. Il sole deve averti bollito via le parole dal cervello. Devo essere gentile con quelli piu' sfortunati di me. Rimani nel mio accampamento per tutto il tempo che vuoi, Mente-ottenebrata.}
-{115}{}{Arrivederci.}
+{115}{}{Addio.}
 {116}{}{Infedele!}
 {117}{}{Perche' ci attacchi?}
 {118}{}{Difendero' la tribu' con la mia vita!}
 {119}{}{Come osi violare la nostra ospitalita'?}
-{120}{}{Sparisci!}
-{121}{}{Lasciaci in pace.}
+{120}{}{Vattene!}
+{121}{}{Lasciaci.}
 {122}{}{Siamo una tribu' pacifica.}

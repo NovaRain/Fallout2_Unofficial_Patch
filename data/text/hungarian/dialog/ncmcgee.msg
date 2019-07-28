@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Egy idõsebb férfihez van szerencséd.}
 {101}{}{Õ nem más, mint a Vén McGee.}
 {150}{}{Ez egy idõsebb férfi. Dühösnek látszik és magában zsörtölõdik.}
@@ -21,7 +20,7 @@
 {235}{}{Átkozott brahminszar ez!}
 {236}{}{Szemét egykarú rabló! Tejejjé' mán a vén McGeenek!}
 {237}{}{Ne fukarkodjál már a vén McGeevel, drágám...}
-{238}{}{A Ház már megint nem kényeztet el!}
+{238}{}{A Ház már megint szívat!}
 {239}{}{Ugyan már kislány, légy jó a vén McGeehez végre...}
 {240}{}{Szeressé mán egy kicsit, édesem!}
 {241}{}{Az összes pénzem benned van, gyerünk már!}
@@ -59,7 +58,7 @@
 {295}{}{Várjon egy pillanatot! Mi lenne, ha magának adnám a nyereményemet?}
 {296}{}{Faszszopó? FASZSZOPÓ? Papa, menjen már el egy kórházba, ahol kimûtik a csizmáját az agyából!}
 {297}{}{Ribanc? RIBANC? Papa, menjen már el egy kórházba, ahol kimûtik a csizmáját az agyából!}
-{298}{}{Na, mindegy. Itthagyom magát.}
+{298}{}{Hát ez óriási! Tûnjünk innen!}
 {305}{}{Beszélni? BESZÉLNI? Mi a FENÉRÕL beszélhetnénk, te istenverte tolvaj?}
 {307}{}{Nézze, én a pénzt annak rendje és módja szerint nyertem. Ha nem tetszik, az a maga problémája.}
 {309}{}{Tolvajnak nevezett? Papa, vigyázzon a nyelvére, mielõtt lenyomom a torkán!}
@@ -68,19 +67,22 @@
 {316}{}{Kislányom, mi SZART se fogunk beszélgetni. Tudod mit fogsz csináni? Ugrálhatsz a golyók elõl!}
 {317}{}{(A puskájáért nyúl, de csak a nagy semmit markolássza.) Na, mi van? Hova lett a puskám...?}
 {318}{}{Hadd mutassam meg magának...}
+{319}{}{Uh oh...}
+{320}{}{I tookie when yoo no lookie.}
+{321}{}{Öö...}
 {325}{}{Annak rendje és módja szerint ám a nagy büdös túróst! Fiam, neked annyi! Aláírtad a halálos ítéletedet!}
 {326}{}{Annak rendje és módja szerint ám a nagy büdös túróst! Kislányom, neked annyi! Aláírtad a halálos ítéletedet!}
-{335}{}{Micsoda? (Pislogni kezd.) Vissza akarod adni a pénzemet? Mind a 473 dolcsit?}
+{335}{}{What? (Blinks) You talkin' about givin' me my winnings back? All 500 chips?}
 {336}{}{Öö, mit szólna 250 dolcsihoz?}
-{337}{}{Hogyne. Mind a 473 dollárt. Tessék...}
+{337}{}{Sure. All 500 chips. Here ya go.}
 {338}{}{Hát most nem tudom odaadni. Nincs nálam annyi pénz.}
-{339}{}{Hagyjuk inkább. Jobb, ha lépek.}
+{339}{}{Felejtsd el! Mennem kell...}
 {345}{}{}
 {346}{}{}
 {347}{}{Hmmmmmm. Najszen... ez meg sem közelíti azt az összeget, amit belenyomtam abba a gépbe, ettõl persze nem hangzik annyira rossz üzletnek.}
 {348}{}{Jól van akkor, fiam. 250 dolcsi és elsimítottuk a dolgot.}
 {349}{}{Jól van akkor, kislány. 250 dolcsi és elsimítottuk a dolgot.}
-{350}{}{Jól van akkor.}
+{350}{}{Akkor rendben vagyunk.}
 {355}{}{Nem nyert, fiam! Most azonnal visszaveszem a nyereményemet!}
 {356}{}{Nem nyert, kislányom! Most azonnal visszaveszem a nyereményemet!}
 {365}{}{}
@@ -100,10 +102,10 @@
 {391}{}{Ki vagyol}
 {392}{}{ akar jáccani gépen}
 {393}{}{Elpályázol}
-{394}{}{Maga kicsoda?}
+{394}{}{Ki vagy te?}
 {395}{}{Mit csinál itt?}
 {396}{}{Nem bánja, ha most én játszanék egy kört?}
-{397}{}{Semmit a világon. Bocsánat, hogy zavartam.}
+{397}{}{Semmit. Már itt sem vagyok.}
 {405}{}{(A gépben egy rakás jel kezd el pörögni, és egy *bzzzzt* hang hallatszik közben.) A fraaaancba! Ilyen egy makacs gépet! Most már bármelyik pillanatban visszanyerhetem a pénzem...}
 {407}{}{ most megyen! Viszlátja}
 {409}{}{Öö... mióta foglalkozik ezzel?}
@@ -125,4 +127,4 @@
 {466}{}{Legyen szerencséje, uram!}
 {467}{}{Legyen szerencséje, hölgyem!}
 {468}{}{Jól van. Szívesen veszem a bocsánatkérést.}
-{1290}{}{.}
+{1290}{}{ vagyok.}

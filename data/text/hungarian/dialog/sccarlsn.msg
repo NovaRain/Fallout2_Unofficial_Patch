@@ -1,5 +1,4 @@
-# Dialog Editor last position: 9
-{100}{}{Egy idõs, beteges embert látsz.}
+{100}{}{You see an elderly, frail man.}
 {101}{}{Ez Carlson alelnök.}
 {102}{}{Habár fizikailag gyenge, a pillantása elárulja, hogy rendkívül erõs jellem. Elszánt ember a javából.}
 {103}{}{Mit csinál itt? Õrség!}

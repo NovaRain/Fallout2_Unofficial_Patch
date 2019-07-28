@@ -5,14 +5,13 @@
 {104}{}{Ez a terminál az erõtér generátorokat felügyeli. A jelzések szerint áramkimaradás miatt mûködésképtelen az egység.}
 {105}{}{Az erõtér kikapcsolása.}
 {106}{}{Az erõtér bekapcsolása.}
-{107}{}{Rendben.}
+{107}{}{Megbeszéltük.}
 {108}{}{Kiadod a parancsot az erõtér deaktiválására.}
 {109}{}{Nem tudsz átjutni a biztonsági kódokon az erõtér deaktiválásához.}
-{110}{}{Rendben.}
+{110}{}{Megbeszéltük.}
 {111}{}{Kiadod a parancsot az erõtér aktiválására.}
 {112}{}{Nem tudsz átjutni a biztonsági kódokon az erõtér aktiválásához.}
-{113}{}{Rendben.}
+{113}{}{Megbeszéltük.}
 {114}{}{Ez a terminál az erõtér generátorokat felügyeli. A jelzések szerint az erõtér ki van kapcsolva.}
 {115}{}{Ez a terminál az erõtér generátorokat felügyeli. A jelzések szerint az erõtér mûködése ideiglenesen fel lett függesztve.}
 {116}{}{Ez a terminál az erõtér generátorokat felügyeli. A jelzések szerint az erõteren áthatoltak.}
-

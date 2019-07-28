@@ -31,9 +31,9 @@
 {130}{}{Stavo cercando il Vault. Puoi dirmi dove si trova?}
 {131}{}{Veramente, stavo giusto per andarmene.}
 {132}{}{E' quel grosso foro nella montagna a est, dietro a quelle due guardie armate fino ai denti. Vuoi chiedermi qualcos'altro o posso tornare al mio lavoro?}
-{133}{}{Che posto e' questo?}
+{133}{}{Cos'e' questo posto?}
 {134}{}{Sta' attenta. Non sono in vena di sentire stronzate, oggi.}
-{135}{}{Grazie delle indicazioni. Arrivederci.}
+{135}{}{Grazie per le indicazioni. addio.}
 {136}{}{Come se Vault City non avesse gia' abbastanza uomini col cervello da brahmin... senti, tu NON PUOI STARE QUI, OKAY? Potresti farti MALE! ADESSO VATTENE VIA! VIA!}
 {137}{}{*Snfff* Tu cattivona... *snff*... me va da qualche parte e fa festa con paiacci... *snfff*... e gelati... e torta... e me no invita persone cattive come TE!}
 {138}{}{-Allontanati-}
@@ -52,7 +52,7 @@
 {151}{}{Sembra un lavoro duro. Ti lascio continuare.}
 {152}{}{In questo momento, ho il tornio che funziona a malapena e la mia chiave inglese e' sparita... DI NUOVO... e i denti delle mie pinze sono spanati.}
 {153}{}{Posso aiutarti in qualche modo?}
-{154}{}{Che problema c'e' nel procurarsi degli attrezzi nuovi?}
+{154}{}{Che problema c'e' nel procurarsi degli altri attrezzi?}
 {155}{}{Bene. Allora, buona giornata.}
 {156}{}{Tu? Ne dubito.}
 {157}{}{Beh, ho una chiave inglese e un paio di pinze proprio qui.}
@@ -70,14 +70,14 @@
 {169}{}{Magari potrei andare a cercarli io e poi te li potrei portare.}
 {170}{}{Che problema c'e' nel procurarsi degli altri attrezzi?}
 {171}{}{Oh. Bene, grazie per il consiglio.}
-{172}{}{Non staro' col fiato sospeso, ma se vuoi farlo, accomodati pure. E' il tuo tempo, non il mio. Potrei anche esser capace di racimolare qualcosa per pagarti il disturbo.} ###???I might be able to scrape together a little to pay you for your trouble
+{172}{}{Non staro' col fiato sospeso, ma se vuoi farlo, accomodati pure. E' il tuo tempo, non il mio. Potrei anche esser capace di racimolare qualcosa per pagarti il disturbo.}
 {173}{}{Se trovo una chiave inglese e un paio di pinze, te le porto.}
 {174}{}{Davvero?}
 {175}{}{Certo. Ecco.}
 {176}{}{Uh... grazie. Voglio dire: non sono il massimo, ma vanno bene. Dove... oh, niente. Non ha importanza. Ecco un po' di soldi per il disturbo.}
 {177}{}{Grazie. Senti, avrei delle domande...}
 {178}{}{Magari potresti usare quegli attrezzi per mettere a posto il tuo caratterino.}
-{179}{}{Nessun problema. Felice d'averti aiutato.}
+{179}{}{Nessun problema. E' stato un piacere.}
 {180}{}{Certo, certo... senti, ho del lavoro da fare. Torna tra un giorno o due, d'accordo? Allora avro' tempo per chiacchierare.}
 {181}{}{Ci vediamo domani, allora.}
 {182}{}{Uh, d'accordo. Tornero' tra un giorno o due. Arrivederci.}
@@ -89,7 +89,7 @@
 {188}{}{Oh, capisco. Beh, che cosa vuoi?}
 {189}{}{Cosa c'e'? Non ho tempo da perdere in chiacchiere.}
 {190}{}{Si'? Cosa?}
-{191}{}{Potresti mettermi a posto qualcosa?}
+{191}{}{Puoi ripararmi qualcosa?}
 {192}{}{Cos'hai da vendermi?}
 {193}{}{Cos'e' successo tra te e tuo padre?}
 {194}{}{Niente. Ti lascio tornare al tuo lavoro.}
@@ -134,9 +134,9 @@
 {233}{}{Hmmm. Magari un'altra volta.}
 {234}{}{Quel fucile d'assalto che hai li'... Posso dotarlo di un caricatore piu' capiente per 1500$.}
 {235}{}{Hmmmm. Ho un intensificatore di luce che potrei installare su quel tuo FN FAL per 3500$.}
-{236}{}{Aumenta la capacita' del caricatore del fucile d'assalto AK-112.}
+{236}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
 {237}{}{Ti vanno bene 1350$ per modificare il fucile d'assalto?}
-{238}{}{Installa quell'intensificatore sul FN FAL.}
+{238}{}{Monta quel mirino ad infrarossi sul FN FAL.}
 {239}{}{Ti vanno bene 3100$ per l'intensificatore di luce?}
 {240}{}{Puoi modificare qualche altra mia arma?}
 {241}{}{Non importa. Vorrei qualcos'altro...}
@@ -148,11 +148,11 @@
 {247}{}{Potresti modificarmi qualche altra mia arma, invece?}
 {248}{}{Non importa. Vorrei qualcos'altro...}
 {249}{}{In realta' non voglio nulla. Devo andare.}
-{250}{}{Costa troppo per le mie tasche. Tornero' quando avro' piu' soldi.}
+{250}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {251}{}{Vedo che hai imparato un paio di trucchetti da quel tirchione di mio padre. Dammi un'ora circa, e avro' finito...}
 {252}{}{D'accordo, d'accordo. Sembri proprio uguale a quel tirchione di mio padre. Dammi un'ora circa, e avro' finito...}
 {253}{}{D'accordo, dammi un'ora circa, e avro' finito...}
-{254}{}{D'accordo.}
+{254}{}{Okay.}
 {255}{}{Ecco a te. Nient'altro?}
 {256}{}{Avrei delle altre domande...}
 {257}{}{Puoi modificare qualcos'altro in mio possesso?}

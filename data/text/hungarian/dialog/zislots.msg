@@ -1,11 +1,10 @@
-# Dialog Editor last position: 1
 {100}{}{Ez egy igen fura gépezet.}
 {101}{}{Ez egy pénzbedobós játékgép.}
 {102}{}{Ez egy csillogó pénzbedobós játékgép.}
 {103}{}{Ez egy csilivili pénzbedobós játékgép.}
 {130}{}{Három szeme és egy karja van.}
 {140}{}{A legkisebb tét }
-{141}{}{ dollár.}
+{141}{}{ vagyok.}
 {150}{}{Ahogy a szemed sarkából nézed, meg mernél rá esküdni, hogy téged bámul. }
 {151}{}{Fényes doboza és aranyszínû karja csábítóan ragyog a lámpák fényében.}
 {165}{}{Ezt költekezõ világfiaknak szánták.}
@@ -14,14 +13,14 @@
 {201}{}{Ez egy pénzbedobós játékgép. Fényes doboza és aranyszínû karja csábítóan ragyog a lámpák fényében. A bedobónyílás hívogatóan kínálja fel magát, az arcod pedig a játék lázában ég.}
 {202}{}{(Miközben a pénzedért nyúlsz, megremeg a kezed. A gép egyre csak suttog.) *Gyerünk, kedvesem... ez az... ragadd meg a kart... jó erõsen... ne tétovázz...*}
 {250}{}{Bedobsz }
-{251}{}{ dollárt.}
+{251}{}{. }
 {252}{}{Az utolsó }
-{253}{}{ dollárodat is felteszed.}
-{254}{}{Mára elég lesz ennyi.}
+{253}{}{ vagyok.}
+{254}{}{Mára elég lesz.}
 {255}{}{Le vagy égve. Ma éjszakára kénytelen vagy abbahagyni.}
-{256}{}{Ma éjszakára elég lesz.}
+{256}{}{Ma estére elég lesz ennyi.}
 {257}{}{Le vagy égve. Mára kénytelen vagy abbahagyni.}
-{258}{}{Elegem van! Elmegyek!}
+{258}{}{Elegem van! Megyek innen!}
 {259}{}{Elegem van! Megyek innen!}
 {500}{}{A tárcsák pörögni kezdenek... }
 {599}{}{... }
@@ -29,18 +28,18 @@
 {601}{}{Egy cseresznye. }
 {602}{}{Két cseresznye. }
 {603}{}{Három }
-{613}{}{.}
 {604}{}{JACKPOT! }
 {605}{}{DUPLA JACKPOT!!! }
+{613}{}{. }
 {700}{}{ A nyeremény }
-{701}{}{ dollár.}
+{701}{}{ vagyok.}
 {1001}{}{cseresznye}
 {1002}{}{narancs}
 {1003}{}{szilva}
 {1004}{}{harang}
 {1005}{}{BAR}
 {1006}{}{dinnye}
-{1007}{}{hetes}
+{1007}{}{hét}
 {1101}{}{cseresznye}
 {1102}{}{narancs}
 {1103}{}{szilva}
@@ -61,16 +60,12 @@
 {2010}{}{*Helló, szépségem. Játssz velem egy kicsit!*}
 {2011}{}{*Helló, szépségem.*}
 {2012}{}{*Hogy micsoda szépségek nem járnak erre! Miért nem játszol rajtam?*}
-{2175}{}{(Ahogy bámulod a nyerõgépet, rájössz, hogy nincs elég pénzed, és átkozni kezded a nyomorúságodat. Talán máskor...)}
-{2176}{}{Távozol.}
-{2185}{}{A játékautomata "Nem mûködik" felirata folyamatosan villog. }
-{2186}{}{Távozol.}
 {2100}{}{Egy három szemmel, egy karral megáldott, fura, aranyszínû fémdobozt látsz. Ez a legszebb valami, amit egész eddigi életedben láttál.}
 {2101}{}{Én }
 {2102}{}{ ki vagyol?}
 {2103}{}{Mama hiányzik. }
 {2104}{}{ akar ARR-YO. Én akar menni haza}
-{2105}{}{(Kezet fogsz vele)}
+{2105}{}{(Kezet ráztok)}
 {2106}{}{Te lenni fura mutáns}
 {2107}{}{Dícsértesse Menelék! Dícsértesse Menelék!}
 {2108}{}{Te lenni víztisztáló csip?}
@@ -88,9 +83,14 @@
 {2151}{}{Megragadod a karját, és melegen megrázod. Miközben ezt teszed, egy *bzzzzzzz* hallatszik és a doboz beszélni kezd! *Kérem... dobjon be egy érmét!"}
 {2152}{}{Ajjjaaajjj! Robot! Robot! Futááláás!}
 {2153}{}{(Távozol.)}
+{2175}{}{(Ahogy bámulod a nyerõgépet, rájössz, hogy nincs elég pénzed, és átkozni kezded a nyomorúságodat. Talán máskor...)}
+{2176}{}{Távozol.}
+{2185}{}{A játékautomata "Nem mûködik" felirata folyamatosan villog. }
+{2186}{}{Távozol.}
 {2200}{}{(Hallod, amint nevet rajtad.)}
 {2201}{}{*Hehehe, miért nem adod föl, édesem?*}
 {2202}{}{*Talán át kéne, hogy engedj engem valakinek.*}
+{2203}{}{(A faint maniacal laugh emanates from the machine.)}
 {2204}{}{(Hallod amint a játékautomata nevet rajtad.)}
 {2205}{}{(A nyerõgép kuncog rajtad.)}
 {2206}{}{*Gyere vesztes, ne add fel!*}
@@ -99,7 +99,7 @@
 {2209}{}{*Vigyázz, nehogy fenéken billentsen a kaszinó ajtaja kifelé menet!*}
 {2247}{}{*Aiiiijjjjjjjjjj! Ez az, édesem! Ó, istenem, igen! Igen! Igen, újra! Gyorsabban! Keményebben! Mire vársz?! Csináld újra!*}
 {2248}{}{*Ez az, kedvesem... húzogasd csak a kart... gyorsabban, keményebben, gyorsabban... gyerünk!*}
-{2249}{}{*Gyerünk, édesem... bárkivel megesik legalább egyszer az életben... próbáld újra... kérlek...*}
+{2249}{}{*Come on, sugar... it happens to everyone at least once... try again... please...*}
 {2250}{}{*Kérlek, ne add fel, bébi! Most nagyobb szükségem van rád, mint bármikor.*}
 {2251}{}{*Gyerünk, kedvesem... próbáld újra... ragadd meg a kart... húzd meg... ne habozz...*}
 {2252}{}{*Ez az, édesem... húzogasd csak a kart... gyorsabban, keményebben, gyorsabban... gyerünk!*}
@@ -107,7 +107,7 @@
 {2280}{}{(Ez egy pénzbedobós játékgép. Fényes doboza és aranyszínû karja csábítóan ragyog New Reno fényeiben. A bedobónyílás hívogatóan kínálja fel magát, az arcod pedig a játék lázában ég. Ahogy rábámulsz, a három ablak egyike rádkacsint. A pénzbedobó nyílásból egy fojtott hang szólal meg.) *Hallgass ide! Üdvözlünk, édesem! Nem akarsz egy lányt felvidítani?*}
 {2281}{}{(Ez egy pénzbedobós játékgép. Erõs, masszív doboza és aranyszínû karja napistenként ragyog New Reno fényeiben. A bedobónyílás hívogatóan kínálja fel magát, a combod pedig egész beleremeg. Ahogy rábámulsz, a pénzbedobó nyílásból egy mély férfi hang suttog feléd.) *Még sosem láttam ilyen csinos nõt korábban. Szeretnél szerencsét próbálni?*}
 {2282}{}{:: Magadba csípsz::}
-{2283}{}{Öö, helló.}
+{2283}{}{Uh... hello?}
 {2284}{}{::Mély lélegzetet veszel és otthagyod::}
 {2300}{}{*Még mindig itt vagyok, csinibaba.* (A játékgép mélyebb hangon folytatja.) *Itt az idõ, hogy belémdobj egy kis pénzt.*}
 {2301}{}{*Még mindig itt vagyok, édesem.* (A játékgép mélyebb hangon folytatja.) *Szép darab egy ember vagy, hallod-e! Gyerünk! Itt az idõ, hogy kis, öreg szerénységembe gyorsan belenyomass egy kis pénzt.*}
@@ -138,8 +138,12 @@
 {2400}{}{*Te vagy az egyetlen hõs a gyökerek és rablók kétbites világában! Hallod vigyázz magadra, kedvesem!* (Elfordul.) *Menj, mielõtt elsírom magam.* }
 {2401}{}{(Mintha egy könnycsepp gördülne ki a gép egyik kis ablakán.) }
 {2402}{}{*Te vagy az egyetlen hõs a gyökerek és rablók kétbites világában! Hallod vigyázz magadra, édesem!* (Elfordul.) *Menj, mielõtt zokogni kezdek.* }
-{2403}{}{Viszlát!}
+{2403}{}{Csááááá}
 {3000}{}{ Gyerünk, }
 {3001}{}{! Anyunak új cipõ kell!}
-{3002}{}{! A papának új plazmapuska kell!}
+{3002}{}{! Daddy needs a new plasma rifle!}
 {4000}{}{Valaki már játszik a gépen.}
+{5000}{}{Jinx the machine into giving you all its money.}
+{5001}{}{The machine appears to freeze and then you hear a faint rumble as an avalanche of coins begin to fall from the
+ dispenser.}
+{5002}{}{[Collect money and walk away.]}

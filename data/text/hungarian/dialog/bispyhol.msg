@@ -1,3 +1,3 @@
-{100}{}{Egy ütött-kopott lemezt látsz.}
-{101}{}{PipBoy: A fájl megtalálható a rendszeren. Letöltés megszakítva.}
-{102}{}{PipBoy: Adat letöltése a lemezrõl folyamatban.}
+{100}{}{Egy viharvert hololemez.}
+{101}{}{PipBoy kijelzõk: A Fájl már megtalálható a Rendszerben. Letöltés megszakítása...}
+{102}{}{PipBoy kijelzõk: Adat letöltése a lemezrõl.}

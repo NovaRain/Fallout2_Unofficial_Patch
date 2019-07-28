@@ -11,7 +11,7 @@
 {110}{}{Umag Nak!?! Umag NAK!}
 {111}{}{Chiamero' delle guardie perche' ti accompagnino fuori.}
 {112}{}{Okay. Andiamo.}
-{113}{}{Brog Frup}
+{113}{}{Brog Frup.}
 {114}{}{Non disturbarti. Posso trovare la strada da solo.}
 {115}{}{Mi dispiace, ma sono questi i miei ordini.}
 {116}{}{Okay... ma non ne sono certo felice. Potrei essere costretto a presentare un reclamo formale--}
@@ -28,7 +28,7 @@
 {127}{}{Okay.}
 {128}{}{Umgh}
 {129}{}{Certo. La prego, passi pure.}
-{130}{}{Grazzzieeeee!}
+{130}{}{Grazzee!}
 {131}{}{Grazie.}
 {132}{}{Si'? Posso aiutarti?}
 {133}{}{Vorrei entrare nel Vault.}
@@ -40,36 +40,36 @@
 {139}{}{Oh, okay.}
 {140}{}{Oh, certo. Davo solo un'occhiata.}
 {141}{}{Umgh}
-{142}{}{Certo, come no? Mungoth...} ###???Talk to the hand
+{142}{}{Certo, come no? Mungoth...}
 {143}{}{Ehi, tu! Cosa ci fa quel ghoul qui a Vault City?!}
 {144}{}{Ehi, tu! Cosa ci fa quel mutante qui a Vault City?!}
-{145}{}{Breep-oop foop foop}
+{145}{}{Breep-oop foop foop.}
 {146}{}{Un ghoul? Dove?}
 {147}{}{Un mutante? Dove?}
-{148}{}{Lui sta con me.}
-{149}{}{Fa parte del mio gruppo. Se per te questo rappresenta un problema razzista, forse potremmo risolvere la cosa immediatamente.}
+{148}{}{Sta con me.}
+{149}{}{Lui viaggia con me. Se per qualcuno di voi razzisti questo e' un problema, forse dovremmo risolverlo subito.}
 {150}{}{Se quella creatura e' con te, allora voi due stareste meglio nel Cortile, non nelle strade di Vault City.}
-{151}{}{D'accordo, ce ne andiamo pacificamente.}
-{152}{}{Perche' non provi a portarci tu, fuori di qui? Ti garantisco che sara' un esperienza molto educativa.}
+{151}{}{D'accordo, veniamo senza opporre resistenza.}
+{152}{}{Perche' non provi a scortarci fuori? Ti garantisco che sara' un'esperienza molto educativa.}
 {153}{}{Ma come fanno questi Esterni ad entrare in citta'...?}
 {154}{}{Quella creatura la'...}
 {155}{}{Voi due dovreste stare nel Cortile, non nelle strade di Vault City.}
 {156}{}{ME NO VAH LUI AMICO! TU NO AMICO!}
-{157}{}{Noi andare noi andare pacicifamette}
-{158}{}{D'accordo, ce ne andiamo pacificamente.}
-{159}{}{Fa parte del mio gruppo. Se per te questo rappresenta un problema razzista, forse potremmo risolvere la cosa immediatamente.}
+{157}{}{Noi venire Noi venire im-pacce}
+{158}{}{D'accordo, veniamo senza opporre resistenza.}
+{159}{}{Lui viaggia con me. Se per qualcuno di voi razzisti questo e' un problema, forse dovremmo risolverlo subito.}
 {160}{}{Guardie! Intrusi nella citta'!}
 {161}{}{Hrnghhhhhhhh!}
-{162}{}{Sarai morto prima che arrivino i tuoi amici.}
+{162}{}{Sarai morto prima che i quei tuoi amici si facciano vivi.}
 {163}{}{Ehi! Tu sei quello che ha sconfitto l'Enclave!}
 {164}{}{Guardate, e' quello che ha sconfitto l'Enclave!}
 {165}{}{Benvenuto a Vault City.}
-{166}{}{La tua battaglia contro l'Enclave non ha lasciato indifferente neppure il Primo Cittadino.}
+{166}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
 {167}{}{Ho sentito dire che hai viaggiato a sud fino a San Francisco. E' vero?}
 {168}{}{E' vero che gli Stati Uniti stavano ancora combattendo la guerra?}
-{169}{}{Dovresti inserire le cronache dei tuoi viaggi nel computer di Vault City.}
-{170}{}{Potrai rimanere a Vault City per quanto tempo vorrai.}
-{171}{}{Dovresti elencare le tue eroiche gesta contro l'Enclave ed inserirle nel Server Centrale.}
+{169}{}{Dovresti inserire i tuoi viaggi nel computer di Vault City.}
+{170}{}{Puoi rimanere qui a Vault City per quanto tempo desideri.}
+{171}{}{Dovresti registrare le tue imprese contro l'Enclave e inserirle nel Server.}
 {172}{}{Capitano...}
 {173}{}{Vault City prevale, Capitano.}
 {174}{}{Salve, Capitano.}

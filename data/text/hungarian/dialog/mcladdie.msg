@@ -1,15 +1,14 @@
-# Dialog Editor last position: 1
 {100}{}{A kutya egy border collie-nak tûnik.}
 {101}{}{Öcsi.}
 {102}{}{Ez a kutya szerfelett szemfülesnek és intelligensnek mutatkozik.}
 {103}{}{Nincs kétséged afelõl, hogy ez a kutya valószínûleg agyasabb nálad.}
-{150}{}{Vaú!}
+{150}{}{Vaúú!}
 {151}{}{Vaú! Vaú!}
 {152}{}{Vaú! Vaú! Vaú!}
 {153}{}{[A kutya eléggé ideges.]}
 {154}{}{Jó kutya.}
 {155}{}{Tudod, hol van Jonny, kutyus?}
-{156}{}{Ittmaracc, Öcsi!}
+{156}{}{Stay here, Laddie.}
 {157}{}{Na, keressük meg Jonnyt!}
 {158}{}{Öcsi, Jonny leesett a kútba?}
 {159}{}{Mi a baj, fiú, akarsz valamit mondani?}

@@ -32,7 +32,7 @@
 {131}{}{[HECHO]}
 {132}{}{De acuerdo. Danos un día y lo tendremos listo para ti.}
 {133}{}{Genial. Adiós.}
-{134}{}{Suerte consiguiendo refinarlo en otro sitio. El proceso es peligroso: sólo un profesional debería hacerlo. ¿Lo quieres o no?}
+{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional should do it. You want it or not?}
 {135}{}{Sí.}
 {136}{}{No.}
 {137}{}{Bien. No tienes nada que hacer aquí. Por favor, vete para que podamos seguir con nuestro trabajo.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 11
 {100}{}{Egy fehér hõs-karaktert látsz.}
 {101}{}{Egy nagyon izmos fehér férfit látsz, aki a 13-as Menedék kezeslábasát viseli. Miközben a történetét meséli, mosolyog és nevet.}
 {102}{}{Egy fehér hõs-karaktert látsz. Mosolyog és nevetgél.}

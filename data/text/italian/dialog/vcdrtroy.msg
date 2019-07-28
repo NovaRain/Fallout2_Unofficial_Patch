@@ -18,9 +18,9 @@
 {117}{}{Salve, sono il Dr. Troy. Come posso esserle d'aiuto?}
 {118}{}{Me ha bua}
 {119}{}{S-re-dai-ufo?}
-{120}{}{(Allontanati)}
+{120}{}{-Allontanati-}
 {121}{}{Sto cercando il computer centrale. Puo' dirmi dove si trova?}
-{122}{}{Di che cosa si occupa?}
+{122}{}{Di cosa ti occupi?}
 {123}{}{Sono solo di passaggio, grazie.}
 {124}{}{Davvero? E' un piacere conoscerla. Se ha un po' di tempo, forse potremmo confrontare i nostri appunti. Non mi capita spesso di avere la possibilita' di parlare con un altro medico.}
 {125}{}{Certamente. Mi piacerebbe imparare un po' delle tecniche mediche utilizzate da voi Cittadini.}
@@ -32,7 +32,7 @@
 {131}{}{Lo e' stato sicuramente. Avrei delle altre domande che vorrei porle...}
 {132}{}{Grazie per la visita, dottor Troy. E' stata molto interessante.}
 {133}{}{Il computer principale? E' nel terzo livello. Basta prendere l'ascensore e scendere, camminare dritto finche' non si raggiunge un bivio; a questo punto basta girare a sinistra. Questo la portera' dritto dritto alla sala di controllo.}
-{134}{}{Di che cosa si occupa?}
+{134}{}{Di cosa ti occupi?}
 {135}{}{Grazie.}
 {136}{}{Sono il medico primario di Vault City. Mi prendo cura di tutti i Cittadini all'interno della citta' e faccio del mio meglio per mantenere tutti in buona salute.}
 {137}{}{Sto cercando il computer centrale. Puo' dirmi dove si trova?}
@@ -45,7 +45,7 @@
 {144}{}{No, non lo sono.}
 {145}{}{E' un piacere conoscerla, }
 {146}{}{. Se dovesse avere bisogno di me, puo' trovarmi qui.}
-{147}{}{La ringrazio. Arrivederci.}
+{147}{}{Grazie. Arrivederci.}
 {148}{}{Pero' lei non e' nativo di Vault City, vero? Sono certo che mi ricorderei di una persona come lei. Da dove viene? }
 {149}{}{Aspetti un secondo... lei e' un Esterno, vero? Da dove viene?}
 {150}{}{Da un piccolo villaggio ad occidente, Arroyo. }
@@ -62,7 +62,7 @@
 {161}{}{Grazie per le indicazioni... e' cosi' facile perdersi a volte, non trova? Torno subito in superficie.}
 {162}{}{Non credo di essere ancora pronto per andare, "dottore". Prima mi piacerebbe vedere quello che hai da darmi.}
 {163}{}{Stavo cercando qualcuno che potesse effettuare una missione speciale per me.}
-{164}{}{Di cosa si tratta?}
+{164}{}{Cosa?}
 {165}{}{Non mi interessa, grazie.}
 {166}{}{Magnifico! Sono felice che lei ci abbia ripensato.}
 {167}{}{Sono venuto a conoscenza della presenza di una nuova droga nelle Lande. Mi pare che la chiamino "Jet". Sono disposto a pagare mille dollari per un campione di questa droga.}
@@ -70,12 +70,12 @@
 {169}{}{Casualmente ho un po' di Jet con me. E' sua per venti centoni.}
 {170}{}{Ho un po' di Jet con me... Me ne separero' per non meno di quindici centoni.}
 {171}{}{Quindi... lei vuole che io contrabbandi un po' di Jet all'interno di Vault City per lei?}
-{172}{}{Cosa vuole che faccia?}
+{172}{}{Cosa vuoi che faccia?}
 {173}{}{Non mi interessa, grazie.}
 {174}{}{Mi dispiace che lei non voglia aiutarmi. Ritorni, se dovesse cambiare idea... saro' felice di rimborsarla per il disturbo.}
-{175}{}{Avrei delle altre domande per lei...}
+{175}{}{Avrei delle altre domande da farle...}
 {176}{}{Rimborso? Uhhhh... preferisco i contanti, grazie. Addio.}
-{177}{}{Va bene. Arrivederci.}
+{177}{}{D'accordo. Arrivederci.}
 {178}{}{Hmmmmm. Considerando il fatto che ce l'ha qui con se', mi pare un prezzo piu' che ragionevole. Molto bene. Ecco i suoi soldi... e grazie.}
 {179}{}{Avrei qualcos'altro che vorrei chiederle...}
 {180}{}{Sai, non credo proprio che dovresti inalare quella... merda. Credimi.}
@@ -85,7 +85,7 @@
 {184}{}{Prima vorrei chiederti qualcos'altro...}
 {185}{}{Sai, non credo proprio che dovresti inalare quella... merda. Credimi.}
 {186}{}{Scusa, cercavo solo di essere utile. A dopo, dottore.}
-{187}{}{Di che cosa sta parlando?}
+{187}{}{Di cosa stai parlando?}
 {188}{}{Lasciamo perdere. Vorrei chiederti qualcos'altro...}
 {189}{}{Beh, quella roba la fanno con letame di brahmin.}
 {190}{}{All'interno della fiala di Jet ci sono gas derivati dal letame di brahmin. Impressionante, eh?}
@@ -102,7 +102,7 @@
 {201}{}{Davvero? Hmmmmm. Immagino che gli... escrementi di brahmin possano funzionare come ottimo fertilizzante. Ma questo non l'avevo mai preso in considerazione. Grazie, amico mio. Ero proprio curioso di conoscere il processo produttivo.}
 {202}{}{Proprio cosi', a parte il fatto che utilizzano la merda dei brahmin per fare il Jet, non gli escrementi. Ci si vede, Doc.}
 {203}{}{Nessun problema. Faccia attenzione con quella roba, d'accordo?}
-{204}{}{Ehi, non lo siamo forse tutti? A dopo, Dottore.}
+{204}{}{Ehi, non lo siamo forse tutti? A dopo, dottore.}
 {205}{}{Questo e'... affascinante. Hmmmmm. Forse potrei prendere qualche campione di sangue dai brahmin del cortile esterno... grazie, amico mio. Grazie davvero. Ero proprio curioso di conoscere il processo produttivo.}
 {206}{}{Nessun problema. Faccia attenzione con quella roba, d'accordo?}
 {207}{}{Ehi, non lo siamo forse tutti? A dopo, dottore.}
@@ -127,7 +127,7 @@
 {227}{}{Faccia come se fosse a casa sua.}
 {228}{}{Prego. Mi chiami se le serve qualcosa... come ad esempio una mazza da baseball.}
 {229}{}{Gas intestinali di brahmin? Non e' certo un processo produttivo convenzionale, ma... hmmmmm. Forse potrei prelevare dei campioni di sangue dai brahmin del cortile esterno e poi... grazie, amico mio.}
-{230}{}{Non c'e' di che.}
+{230}{}{Nessun problema.}
 {231}{}{Bene.}
 {232}{}{Potrebbe anche dire a questo piccolo vandalo del suo amico che sta sprecando il suo considerevole intelletto. Il suo comportamento e il suo modo di parlare, inoltre, lasciano MOLTO a desiderare.}
 {233}{}{Ma non mi dica...}
@@ -137,25 +137,25 @@
 {237}{}{Ho un campione di Jet proprio qui.}
 {238}{}{A cosa le serve il Jet?}
 {239}{}{Sembra una buona offerta. Ci sto.}
-{240}{}{Non sono interessato.}
+{240}{}{Non mi interessa.}
 {241}{}{Sarebbe molto... d'aiuto a me e al mio lavoro se lei riuscisse a portarmi un campione di questa droga. La paghero' mille dollari alla consegna. Ma e' della massima importanza che lei mantenga questo scambio su un piano confidenziale.}
 {242}{}{Uh... confidenziale?}
 {243}{}{Oh, davvero? Quanto e' disposto a pagare per farmi restare zitto? Potrei tradirla anche subito.}
 {244}{}{Ho un campione di Jet proprio qui.}
 {245}{}{A cosa le serve il Jet?}
 {246}{}{Nessun problema. Puo' contare su di me.}
-{247}{}{Non sono interessato.}
+{247}{}{Non mi interessa.}
 {248}{}{Uh, si'... confidenziale. La cosa deve rimanere tra me e lei. Non lo dica a nessuno.}
 {249}{}{Ho un campione di Jet proprio qui.}
 {250}{}{A cosa le serve il Jet?}
 {251}{}{Cosa mi puo' dare per trattenermi dal tradirla subito?}
 {252}{}{Nessun problema. Terro' la cosa su un piano "confidenziale" e tutta quella, uh, roba riguardo al non parlare.}
-{253}{}{Non sono interessato.}
+{253}{}{Non mi interessa.}
 {254}{}{Questi non sono affari suoi. Si procuri un campione di Jet, me lo consegni, e io la paghero' mille dollari... e questo prezzo include il suo silenzio.}
 {255}{}{Beh, ho un campione di Jet proprio qui.}
 {256}{}{Cosa mi puo' dare per trattenermi dal tradirla subito?}
 {257}{}{Nessun problema. Puo' contare su di me.}
-{258}{}{Non sono interessato.}
+{258}{}{Non mi interessa.}
 {259}{}{Cos --? Non puo' farlo! Come *osa* minacciarmi?!}
 {260}{}{Whoa! Si calmi, stavo solo chiedendo. Non c'e' bisogno che si spaventi.}
 {261}{}{Posso, e lo faro'. Quanto vale per lei la sua Cittadinanza? La vita nelle Lande puo' essere discretamente dura per una persona...}
@@ -181,11 +181,11 @@
 {281}{}{Nessun problema. Grazie, Doc.}
 {282}{}{Salve, Capitano. Come posso esserle d'aiuto?}
 {283}{}{Salve, Cittadino. Come posso esserle d'aiuto?}
-{284}{}{Come posso esserle d'aiuto?}
+{284}{}{Come posso aiutarti?}
 {285}{}{Si'?}
 {286}{}{Me ha bua}
 {287}{}{S-re-dai-ufo?}
-{288}{}{(Allontanati)}
+{288}{}{-Allontanati-}
 {289}{}{Ho bisogno della sua competenza come dottore.}
 {290}{}{Prima lei mi ha detto che e' un dottore... anch'io sono una specie di dottore.}
 {291}{}{Avete degli inibitori di endorfine?}
@@ -194,10 +194,10 @@
 {294}{}{A proposito di quel Jet che voleva... credo che anche agli altri Cittadini farebbe piacere saperlo.}
 {295}{}{Per oggi nulla. Buona giornata, dottore.}
 {296}{}{Certo. Mi scusi, ma e' da un po' di tempo che non ne facciamo piu'. La maggior parte dei Cittadini e' stata vaccinata molti, molti anni fa. Mi faccia preparare l'Autodoc per la procedura...}
-{297}{}{D'accordo.}
+{297}{}{Okay.}
 {298}{}{Ecco fatto. Un avvertimento: questo vaccino non la rende immune al veleno e alle radiazioni, ma amplifica la sua resistenza naturale.}
 {299}{}{Grazie mille. Senta, avrei delle altre domande che vorrei farle...}
-{300}{}{Perfetto. La ringrazio, dottore.}
+{300}{}{Perfetto. Grazie, Dottore.}
 {301}{}{Oh, sei tu. Cosa vuoi?}
 {302}{}{Ho bisogno di cure.}
 {303}{}{Sono stato avvelenato.}
@@ -275,13 +275,13 @@
 {377}{}{Sa nulla a proposito di innesti dermici?}
 {378}{}{Come non detto. Avrei delle altre domande...}
 {379}{}{Niente. Grazie, Dottore.}
-{380}{}{Molto bene. Per prima cosa mi faccia controllare i suoi segni vitali... si stenda qui mentre la colleghiamo all'Autodoc...}
-{382}{}{Questo dovrebbe rimetterla in sesto. Come si sente?}
-{383}{}{Benissimo. Mi dica, puo' curare anche il mio amico?}
-{384}{}{Benissimo. Mi dica, puo' curare anche i miei amici?}
+{380}{}{Molto bene. Mi faccia controllare i suoi segni vitali... si stenda qui mentre la colleghiamo all'Autodoc...}
+{382}{}{Cosi' dovrebbe andare. Come si sente?}
+{383}{}{Perfetto. Mi dica, puo' curare anche il mio amico?}
+{384}{}{Perfetto. Mi dica, puo' curare anche i miei amici?}
 {385}{}{Sa nulla a proposito di innesti dermici?}
 {386}{}{Molto meglio. Avrei delle altre domande da farle...}
-{387}{}{Benissimo. Grazie, Dottore.}
+{387}{}{Perfetto. Grazie, Dottore.}
 {388}{}{Molto bene. Mi faccia controllare i suoi segni vitali... si stenda qui mentre la colleghiamo all'Autodoc...}
 {390}{}{Cosi' dovrebbe andare. Come si sente?}
 {391}{}{Molto meglio, grazie. Senta, prima che io venga avvelenato o contaminato nuovamente: durante quella breve visita guidata, lei ha parlato di un vaccino che garantisce una maggiore resistenza al veleno e alle radiazioni. Posso averlo?}

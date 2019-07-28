@@ -209,12 +209,12 @@
  el pecado, puede… eh, esto… ¿qué demonios e-estaba diciendo?}
 {691}{}{Acerca de la señora Wright en el confesionario…}
 {692}{}{Estaba hablando de la familia Wright…}
-{693}{}{No importa. Tenía algunas otras preguntas…}
+{693}{}{No importa. Tenía algunas otras preguntas...}
 {694}{}{Nada más, creo. Gracias por hablar conmigo.}
 {700}{}{Oh, clado, clado. Bien, eh, en el confesionadio, no tenía mucho que decid. Casi todo eda culpabilidad por entdometedse… o por
  disfdutad el sexo con su mar-ridito más de la cuenta. Je-je. (Toma un trago). Me encaaaaanta la culpabilidad.}
 {701}{}{Tenía algunas preguntas más acerca de los Wright…}
-{702}{}{Ya veo. Tenía algunas preguntas más…}
+{702}{}{Ya veo. Tenías algunas preguntas más...}
 {703}{}{Se nota. Gracias por hablar conmigo.}
 {710}{}{¿El viejo Odville? Bueno, tiene mucha culpabilidad sobde sus hombdos. Vedás, le pdometió a su señora que dejadía el negocio del al-alcohol, ¡pe-pero
  tiene una destiledía secdeta en la estación de tden, tdas la casa! Ella le sacudidía a base de bien si se entedase…}
@@ -281,7 +281,7 @@
 {842}{}{Hmmmm. Un tanque de oxígeno, ¿eh? Interesante. Bien, gracias por charlar conmigo, Padre.}
 {850}{}{Ese pobde chico… el Jet lo sepadó de su familia, eso hizo. ¡Esa maldita podquedía! El peod veneno pada la mente que se haya inventado…}
 {852}{}{¿Sabe de dónde consiguió Richard el Jet que lo mató?}
-{853}{}{Tenía algunas preguntas más…}
+{853}{}{Tenía algunas preguntas más...}
 {854}{}{Ya veo. Gracias por hablar conmigo, Padre.}
 {860}{}{¡Lo pudo conseguid de cualquieda en Nuevo Deno! ¡Hay una fadmacia justo al otdo lado de la calle didigida pod un tdaficante de ddogas, y si
  él no te vende, detén a cualquieda en la calle! ¡Maldito Jet!}

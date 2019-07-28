@@ -5,12 +5,12 @@
 {104}{}{La cella e' una punizione troppo lieve per quello che ha fatto quel bastardo.}
 {105}{}{Non posso credere che tu abbia lasciato libero il bastardo che ha accoltellato la mia ragazza. Hai del fegato a tornare qui. Cosa diavolo vuoi?}
 {106}{}{Rimani un dannato idiota, ma per noi altri la vita va avanti. Ora: cosa diavolo vuoi?}
-{107}{}{Ricorda cio' che ho detto. Tutti quei soldi non fanno bene a quella ragazza. Di cosa hai bisogno?} ###???Too much money ain't good for that gal
+{107}{}{Ricorda cio' che ho detto. Tutti quei soldi non fanno bene a quella ragazza. Di cosa hai bisogno?}
 {108}{}{Ehila'. Io sono Lou. Proprietaria del Malamute Saloon, il miglior locale a nord di SanFran. }
-{109}{}{E adesso cosa vuoi?}
+{109}{}{E adesso cosa c'e'?}
 {110}{}{Ooo?}
 {111}{}{Salve, Lou. Vorrei comprare qualcosa. }
-{112}{}{Il nome "Kit di Creazione del Giardino dell'Eden" ti dice niente?}
+{112}{}{Hai mai sentito parlare di un qualcosa chiamato Kit per la Creazione del Giardino dell'Eden?}
 {113}{}{Salve, Lou. Cosa succede di bello in citta'?}
 {114}{}{Cos'e' un Malamute?}
 {115}{}{In che direzione si trova "SanFran"?}
@@ -18,8 +18,8 @@
 {117}{}{Scusa, non ho molto tempo ne' pazienza per parlare con gli stupidi. Che cosa vuoi?}
 {118}{}{Pere?}
 {119}{}{'tanza?}
-{120}{}{Ciao ciao.}
-{121}{}{Da bere, eh? Bene, per una bella bottiglia di birra fresca sono 25$. Ti sto anche facendo un prezzo speciale e scontato, dal momento che gli stupidi mi fanno pena.} ###???'cause I have a soft spot in my heart for the simple
+{120}{}{Bye bye.}
+{121}{}{Da bere, eh? Bene, per una bella bottiglia di birra fresca sono 25$. Ti sto anche facendo un prezzo speciale e scontato, dal momento che gli stupidi mi fanno pena.}
 {122}{}{Pere? (tieni in mano la borsa dei soldi)}
 {123}{}{'tanza?}
 {124}{}{No pere. Ciao ciao.}
@@ -49,11 +49,11 @@
 {148}{}{San Francisco e' un bel po' a sud di qui. A sud e un tantinello a ovest. E' proprio attaccata all'oceano, sai? Ecco, te la segnero' sulla mappa. Comunque, non so proprio perche' una persona con tutte le rotelle a posto dovrebbe voler andare laggiu'.}
 {149}{}{Perche'? E' una citta' pericolosa?}
 {150}{}{Interessante. Vorrei chiederti qualcos'altro, pero'.}
-{151}{}{Grazie per le informazioni. Arrivederci.}
+{151}{}{Grazie per le informazioni. Ci vediamo.}
 {152}{}{Beh, da piu' parti si dice che l'intera citta' sia piena nient'altro che di folli seguaci di un qualche tipo di assurda religione.}
 {153}{}{Folli seguaci?}
 {154}{}{Al contrario di altre, alcune cose sembrano non cambiare mai... Grazie. Arrivederci.}
-{155}{}{Yup. Esatto. Ho sentito che stanno costruendo una sorta di enorme dispositivo che dovrebbe metterli in contatto con le loro divinita'. O qualcosa del genere. Non ne so molto. E' molto distante da qui.} ###??? It's a long ways off.
+{155}{}{Yup. Esatto. Ho sentito che stanno costruendo una sorta di enorme dispositivo che dovrebbe metterli in contatto con le loro divinita'. O qualcosa del genere. Non ne so molto. E' molto distante da qui.}
 {156}{}{Pare che i monumenti agli dei abbiano sempre qualche problema intrinseco. Parliamo di qualcos'altro.}
 {157}{}{E' tutto quello che volevo sapere, per ora. Grazie. Arrivederci.}
 {158}{}{Esatto. E' messa molto male. Ed era anche una ragazza cosi' spensierata... Spero proprio che tu riesca a risolvere in fretta questa faccenda. Non fa bene agli affari lasciare che quei minatori pensino di potersela cavare dopo aver fatto una cosa simile.}
@@ -64,23 +64,23 @@
 {163}{}{L'ho mandata via. Non potra' piu' lavorare in questo ambiente: nessuno vorra' piu' andare con lei dopo quello che le ha fatto quel bastardo. Le ho dato dei soldi e l'ho lasciata andare.}
 {164}{}{Sai chi e' stato?}
 {165}{}{Sai cos'e' successo?}
-{166}{}{Vorrei chiederti qualcos'altro.}
+{166}{}{Lascia che ti chieda qualcos'altro.}
 {167}{}{Me ne occupero' io. Puoi contare su di me. Ci vediamo.}
 {168}{}{Non so esattamente chi sia stato, ma la ragazza teneva in mano un buono della Miniera Morningstar quando l'abbiamo trovata, ed era un minatore l'ultima persona con cui e' stata.}
 {169}{}{Posso vedere la ragazza?}
 {170}{}{Sai cos'e' successo?}
 {171}{}{Un buono della Miniera Morningstar? Cos'e'?}
-{172}{}{Vorrei chiederti qualcos'altro.}
+{172}{}{Lascia che ti chieda qualcos'altro.}
 {173}{}{Me ne occupero' io. Puoi contare su di me. Ci vediamo.}
 {174}{}{Beh, ho sentito delle urla e dei rumori e mi sono precipitata verso la stanza. Quando sono entrata, il bastardo che l'aveva ferita se n'era gia' andato e la mia ragazza era messa male. Allora ho chiamato il dottore e poi lo Sceriffo. Il resto lo conosci.}
 {175}{}{Sai chi e' stato?}
 {176}{}{Posso vedere la ragazza?}
-{177}{}{Vorrei chiederti qualcos'altro.}
+{177}{}{Lascia che ti chieda qualcos'altro.}
 {178}{}{Me ne occupero' io. Puoi contare su di me. Ci vediamo.}
 {179}{}{Nella parte nord della citta' Dan McGrew gestisce la miniera Morningstar. Di solito i minatori vengono pagati in contanti oppure con dei biglietti di ciascuna miniera... sai, dei buoni. Bene, la mia ragazza aveva uno di questi buoni in mano, quando l'ho trovata. Ecco, guardalo tu stesso. (Ti porge il buono)}
 {180}{}{Oh, capisco. Posso vedere la ragazza?}
 {181}{}{Oh, capisco. Sai cos'e' successo?}
-{182}{}{Vorrei chiederti qualcos'altro.}
+{182}{}{Lascia che ti chieda qualcos'altro.}
 {183}{}{Me ne occupero' io. Puoi contare su di me. Ci vediamo.}
 {184}{}{Bene, sono davvero contenta che qualcuno se ne occupi. Cose di questo genere sono dannose per tutti. Spero davvero che quel bastardo paghi per cio' che ha fatto alla mia ragazza. Fa' in modo che non possa mai piu' fare una cosa del genere.}
 {185}{}{Beh, faro' quel che posso. Vorrei chiederti qualcos'altro, pero'.}
@@ -89,7 +89,7 @@
 {188}{}{Vorrei una camera con un letto vuoto, Lou.}
 {189}{}{Un letto gia' occupato? Non sembra male. Dimmi di piu'.}
 {190}{}{Drink e altra roba. Si', questa e' la parola magica. Barattiamo.}
-{191}{}{Hmm, vorrei chiederti qualcos'altro.}
+{191}{}{Hmm, lascia che ti chieda qualcos'altro.}
 {192}{}{Ti basta, oppure c'e' qualcos'altro che vuoi comprare?}
 {193}{}{Sembra che tu abbia un po' di problemi a deciderti. Ti basta, o vuoi dare ancora un'occhiata?}
 {194}{}{No. Adesso ho tutto quello che mi serve. Grazie. Parliamo di qualcos'altro, invece.}
@@ -100,7 +100,7 @@
 {199}{}{Hmm, credo di non essere poi cosi' stanco. Vorrei chiederti qualcos'altro. }
 {200}{}{Non ho abbastanza soldi, al momento. Vorrei chiederti qualcosa, pero'.}
 {201}{}{Sei uno dei clienti abituali di Fannie, giusto? Perche' non parli con lei? E' da qualche parte qui dentro.}
-{202}{}{Ascolta. Tu sei un vero iettatore. Dopo quello che e' successo a Fannie Mae, nessuna delle altre mie ragazze ha molta voglia di stare insieme a te... e non posso certo biasimarle.}
+{202}{}{Ascolta. Tu sei una vera iettatrice. Dopo quello che e' successo a Fannie Mae, nessuna delle altre mie ragazze ha molta voglia di stare insieme a te... e non posso certo dar loro torto.}
 {203}{}{Stai cercando qualcuno che ti aiuti a riscaldare il tuo grande letto vuoto, eh? Vediamo chi e' disponibile al momento. Hmm, perche' non provi Fannie Mae? Dev'essere qui in giro, da qualche parte. Puoi metterti d'accordo con lei anche da solo.}
 {204}{}{Mi sembra una buona idea. Ci vado subito. A dopo.}
 {205}{}{Ma io non... okay. Arrivederci.}
@@ -133,6 +133,5 @@
 {232}{}{Beh... d'accordo. Allora, c'e' qualcos'altro che ti serve?}
 {233}{}{Vorrei prendere qualcosa.}
 {234}{}{Che cosa succede di bello in citta'?}
-
 {300}{}{Hai contribuito a disintossicare Fannie.}
-{301}{}{Addio.}
+{301}{}{Arrivederci.}

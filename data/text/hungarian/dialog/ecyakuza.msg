@@ -1,4 +1,3 @@
-# Dialog Editor last position: 9
 {100}{}{A gyilkolás is egyfajta mûvészet...}
 {101}{}{Az a karmád, hogy meghalj.}
 {102}{}{Az élet és halál lényegében ugyanaz.}

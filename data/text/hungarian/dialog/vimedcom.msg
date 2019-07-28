@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{A terminál véletlenszerûen fel-le mozgó, világító, zöld oszlopokat mutat.}
 {101}{}{Ez Menedékváros orvosi terminálja.}
 {102}{}{A terminál véletlenszerûen fel-le mozgó, világító, zöld oszlopokat mutat.}
@@ -9,20 +8,20 @@
 {107}{}{Rohad' számtó... ghépk}
 {108}{}{Bejelentkeztél Menedékváros Orvosi Adatbázisába. Bár a kezelõfelületet nem teljesen érted, látod, hogy maga az adatbázis több adattárra van bontva.}
 {109}{}{Megkeresed a 13-as Menedék koordinátáit.}
-{110}{}{Átkutatod az adattárat, hátha megemlíti az Édenkert Létrehozást Elõsegítõ Táskát.}
+{110}{}{Adatok keresése: Édenkert Létrehozást Elõsegítõ Táska.}
 {111}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
-{112}{}{Kijelentkezés.}
+{112}{}{Kilépés.}
 {113}{}{Nem találtad meg a 13-as Menedék koordinátáit. Leginkább orvosi információkra bukkantál, anatómiával, fertõzésekkel, kezelésekkel, gyógyszerekkel és implantációkkal kapcsolatban.}
 {114}{}{Átkutatod az adattárat, hátha megemlíti az Édenkert Létrehozást Elõsegítõ Táskát.}
 {115}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
-{116}{}{Kijelentkezés.}
+{116}{}{Kilépés.}
 {117}{}{Nem tudtál meg semmi újat az ÉLET-rõl. Leginkább orvosi információkra bukkantál, anatómiával, fertõzésekkel, kezelésekkel, gyógyszerekkel és implantációkkal kapcsolatban.}
 {118}{}{Megkeresed a 13-as Menedék koordinátáit.}
 {119}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
-{120}{}{Kijelentkezés.}
+{120}{}{Kilépés.}
 {121}{}{Átkutattad az adatbázist, de az orvosi terminológiát nem igazán érted. Ha többet tudnál a szakmáról, nem jelentene problémát.}
 {122}{}{Keresés folytatása.}
-{123}{}{Kijelentkezés.}
+{123}{}{Kilépés.}
 {124}{}{Átkutattad az adatbázist és elképedsz az adattár információbõségén. Menedékváros aktuális kutatási programjainak színvonala, az orvosi technológiájuk messze túlmutat mindenen, amit valaha is láttál.}
 {125}{}{Ismét átnézed az adatbázist, de semmi újat nem találtál. Az implantátumok mûszaki rajza a leghasznosabb információ az adattárban. Talán kihagytál valamit, de úgy gondolod, ez nem valószínû.}
 {126}{}{Ismét átnézted az adatbázist, de semmi újat nem találtál. Ha még vagy hússzor megismétled, talán rábukkannál valami érdekesre.}
@@ -39,28 +38,28 @@
 {137}{}{Csak megcsináltad még egyszer, igaz? Makkonya! :)}
 {138}{}{Oké, figyelj! Elárulok egy nagy titkot. Miután meguntad a kutakodást, mindenképpen nézd meg a Központi Számítógépet a harmadik szinten! Most pedig lépj ki, és folytasd a játékot!}
 {139}{}{Átkutattad az adattárat, de nem találtál semmit.}
-{140}{}{Keresés folytatása.}
+{140}{}{További keresés az adattárban.}
 {141}{}{Keresés folytatása, csak hogy biztos legyél benne, nem hagytál ki semmit.}
-{142}{}{Vissza a fõmenübe.}
-{143}{}{Kijelentkezés.}
+{142}{}{További keresés az adattárban.}
+{143}{}{Kilépés.}
 {144}{}{Majdnem egy órát töltöttél az adatbázis tanulmányozásával. Ahogy egyre mélyebbre ásol, rábukkansz valami régi adatra, amely valamiféle "harci implantátum" mûszaki leírását tartalmazza.}
 {145}{}{Az implantátumokról szóló információk tanulmányozása.}
 {146}{}{A mûszaki leírások részletesen bemutatják a lövedékálló lemezek és hõelosztó membránok emberi testbe való beültetését. Így növelhetõ a fizikai és hõellenálló képesség. Nagyon bonyolult mûveletnek tûnik.}
 {147}{}{Feljegyzést készíteni, majd tovább kutatni.}
 {148}{}{Feljegyzést készíteni, majd kilépni.}
-{149}{}{Visszatértél a fõmenübe.}
-{150}{}{Megkeresed a 13-as Menedék koordinátáit.}
-{151}{}{Átkutatod az adattárat, hátha megemlíti az Édenkert Létrehozást Elõsegítõ Táskát.}
+{149}{}{Visszatértél a fõmenübe. A képernyõn néhány adattár és keresõprogram látható.}
+{150}{}{Keresés: 13-as Menedék.}
+{151}{}{Keresés: Édenkert Létrehozást Elõsegítõ Táska.}
 {152}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
-{153}{}{Kijelentkezés.}
+{153}{}{Kilépés.}
 {200}{}{Befejezted Menedékváros Orvosi Adatbázisának tanulmányozását.}
 {201}{}{A barátod megpróbálja felhívni a figyelmedet a színes képernyõs dobozra, ami azt mondja, hogy  BIPP-BIPP, de nem tudsz rájönni a nyitjára. Végül megunod és otthagyod.}
-{202}{}{[Továbbállsz]}
-{203}{}{*Bipp*}
+{202}{}{Otthagyod.}
+{203}{}{*Bíííp*}
 {204}{}{*Bipp... Bipp*}
 {205}{}{*Zzzzz... klity... klaty... bipp*}
-{206}{}{*Bipp... Bipp*}
-{207}{}{*Bipp*}
+{206}{}{*Bííí-úúúp*}
+{207}{}{*Bíííp*}
 {208}{}{PING!}
 {209}{}{Sajnálom, Dave. Nem tehetem.}
 {210}{}{Veszély! Will Robinson!}

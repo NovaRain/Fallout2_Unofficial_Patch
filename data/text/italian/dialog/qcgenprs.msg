@@ -10,7 +10,7 @@
 {109}{}{Dovresti parlare Martin.}
 {110}{}{Martin e' il nostro portavoce: dovresti parlare con lui.}
 {111}{}{Mr. Frobisher sta nella prima cella.}
-{112}{}{Non hanno nemmeno dei nastri per l'intrattenimento, qui dentro.} ###???They don't even have any entertainment tapes here
+{112}{}{Non hanno nemmeno dei nastri per l'intrattenimento, qui dentro.}
 {113}{}{Esigo di parlare con qualcuno a proposito della qualita' del cibo.}
 {114}{}{Ottimo, adesso ci minacciano con strani selvaggi.}
 {115}{}{Sei scappato?}
@@ -22,7 +22,7 @@
 {121}{}{Hai gia' parlato con l'Anziana?}
 {122}{}{L'Anziana e' nella prima cella. Dovresti parlare con lei.}
 {123}{}{Parla con l'Anziana.}
-{124}{}{Liberaci!}
+{124}{}{Liberare noi!}
 {125}{}{Facci uscire da qui.}
 {126}{}{Non sopporto piu' queste mura.}
 {127}{}{Vorrei tanto sentire ancora una volta il vento accarezzarmi la faccia.}
@@ -48,8 +48,8 @@
 {147}{}{Non voglio altre medicine. No. NO. NOOOOOOO!}
 {148}{}{Spiriti, proteggeteci!}
 {149}{}{Dove sono gli spiriti quando servono?}
-{150}{}{Aiutaci!}
-{151}{}{Liberaci!}
+{150}{}{Aiutateci!}
+{151}{}{Liberare noi!}
 {152}{}{Voglio tornare a casa.}
 {153}{}{Prima la siccita' e adesso questo.}
 {154}{}{Basta aghi, basta!}

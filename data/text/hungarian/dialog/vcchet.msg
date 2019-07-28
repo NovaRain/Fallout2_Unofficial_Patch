@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Chet-et, a Csalás Hivatal vezetõjét látod.}
 {101}{}{Egy cinikus mosolyú férfit látsz a 13-as Menedék egyenruhájában.}
 {102}{}{Chet-et, a Csalás Hivatal vezetõjét látod.}
@@ -17,12 +16,12 @@
 {115}{}{Tegyél szolgává!}
 {116}{}{Tegyél gyerekgyilkossá.}
 {117}{}{Semmit ... csak vedd vissza a karmámat egy 100-assal.}
-{118}{}{Felejtsük el! Valami mást szeretnék.}
+{118}{}{Inkább kérdeznék valamit.}
 {119}{}{Semmi, nem érdekes.}
-{120}{}{Ki legyen az?}
-{121}{}{Marcus.}
-{122}{}{Lenny.}
-{123}{}{Vic.}
-{124}{}{Myron.}
+{120}{}{Ki?}
+{121}{}{Marcust.}
+{122}{}{Lennyt.}
+{123}{}{Vicet.}
+{124}{}{Myront.}
 {125}{}{Senki. Másra van szükségem.}
 {126}{}{Felejtsük el! Viszlát.}

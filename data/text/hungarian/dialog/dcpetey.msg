@@ -1,5 +1,4 @@
-# Dialog Editor last position: 68
-{100}{}{Egy drogfüggõt látsz.}
+{100}{}{Egy drogos.}
 {101}{}{Petey.}
 {150}{}{Ez bizony egy szerencsétlen drogfüggõ.}
 {151}{}{Peteyre aztán ráférne egy kis segítség.}
@@ -14,10 +13,10 @@
 {162}{}{Talán majd legközelebb... Kösz. [köhög]}
 {163}{}{[kész]}
 {164}{}{Köszönöm szépen. [köhög] Annyira, de annyira köszönöm!}
-{165}{}{Szívesen.}
+{165}{}{Szóra sem érdemes.}
 {166}{}{Persze, persze.}
 {167}{}{Uram, [köhög] segítene egy szegény, nyomorult emberen?}
-{168}{}{Itt van 5 dollár.}
+{168}{}{Here's $5.}
 {169}{}{Ma nem.}
 {170}{}{Szerezz munkát magadnak!}
 {171}{}{Hölgyem, kérem segítsen [köhög] egy szegény, éhezõ emberen, [köhög] aki túl beteg a munkavégzéshez.}
@@ -38,7 +37,7 @@
 {225}{}{Nagyon hálás vagyok.}
 {226}{}{Hé, mégis mit csinálsz?!}
 {230}{}{Olyan jól esik.}
-{231}{}{Öhhh...}
+{231}{}{Uhhh...}
 {232}{}{[kacarászik]}
 {233}{}{Hé...}
 {300}{}{Nahát, valami nyamvadt kinyírta Tubbyt?}
@@ -57,7 +56,7 @@
 {315}{}{HÉ, FLICK!}
 {320}{}{Hé, Tubby, meg tudsz dobni egy kis cuccossal? Van pénzem.}
 {321}{}{Ööö, Tubby, van pénzem...}
-{322}{}{Öhhh...}
+{322}{}{Uhhh...}
 {323}{}{Ember, kéne egy kis anyag...}
 {324}{}{Hé, Flick, tudsz adni nekem is? Van pénzem.}
 {325}{}{Ömm, Flick... Van némi pénz nálam.}

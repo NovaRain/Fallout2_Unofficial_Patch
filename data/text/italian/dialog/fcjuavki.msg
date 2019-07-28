@@ -9,7 +9,7 @@
 {108}{}{Ehi, Vikki, Dave H. ha perso la testa per te.}
 {109}{}{Ottimo. devo andare.}
 {110}{}{Lui: Una povera creatura delle Lande. Lei: Forse un allineamento potrebbe aiutarlo... Lui: Si'. Tu. Vorresti essere allineato?}
-{111}{}{Ci'!}
+{111}{}{Gi'!}
 {112}{}{No!}
 {113}{}{Lei: Spero proprio che abbia avuto qualche effetto positivo su di te. Buona fortuna per i tuoi viaggi!}
 {114}{}{Cia-ooooo!}
@@ -24,13 +24,13 @@
 {123}{}{E' bello poter finalmente dare un volto a quei nomi.}
 {124}{}{E chi se ne frega se VOI l'appoggiate? Non dovrei essere libero di fare le mie scelte da solo?}
 {125}{}{Capisco. Beh, avrei delle altre domande da farvi.}
-{126}{}{Grazie, ci vediamo.}
+{126}{}{Grazie, arrivederci.}
 {127}{}{Lei: Oh, si', naturalmente devi essere tu a fare le tue scelte. Lui: E con l'ultimo libro di Hub, potrai imparare a fare la scelta GIUSTA!}
 {128}{}{Il suo ultimo libro? Ma non e' morto?}
 {129}{}{La scelta "giusta". Certo. E che ne e' del libero arbitrio?}
 {130}{}{Mi pare ottimo. Come faccio ad unirmi a voi?}
 {131}{}{Certo. Ho delle altre domande.}
-{132}{}{Giusto. Ci vediamo.}
+{132}{}{Certo. Addio.}
 {133}{}{Lui: Hai altre domande? Noi abbiamo le risposte! Forniteci per grazia della Grande Ruota, naturalmente.}
 {134}{}{Come faccio ad unirmi a voi?}
 {135}{}{Cosa vi rende delle celebrita'?}
@@ -67,23 +67,23 @@
 {166}{}{Lui: Un punto di vista davvero progressista. Lei: Molto illuminato. Lui: noi offriamo i nostri consigli alla gente - e se il nostro esser famosi puo' attirare altri credenti, siamo molto felici di usare questa nostra caratteristica.}
 {167}{}{Ho delle altre domande.}
 {168}{}{Mi interesserebbe unirmi a voi.}
-{169}{}{Capisco. Beh, alla prossima.}
+{169}{}{Capisco. Beh, ci vediamo.}
 {170}{}{Lui: Beh, e' molto semplice. Noi ti diamo questo olodisco informativo. Lei: ...ti guardi un breve filmato... Lui: ...e poi vai a parlare con AHS-7! Lei: Facile, no?}
-{171}{}{Procediamo pure.}
+{171}{}{Cominciamo.}
 {172}{}{Non credo di essere pronto.}
 {173}{}{Lei: E' un tuo diritto. Lui: E spero tu capirai che non ti possiamo permettere di gironzolare all'interno della nostra base. Lei: Percio' faresti meglio ad andartene - le guardie potrebbero spararti se ti beccassero a ficcare il naso in giro.}
 {174}{}{Gee, grazie. Prima mi invitate ad unirmi a voi e poi mi sparate se non lo faccio? Davvero gentili.}
 {175}{}{Forse farei meglio a sparare prima a voi.}
 {176}{}{Me ne vado.}
 {177}{}{Lui: Questa e' la tua ultima opportunita' per cambiare idea. Lei: Non vorrei proprio che ti capitasse qualcosa di male.}
-{178}{}{Andate al diavolo.}
+{178}{}{Fottiti.}
 {179}{}{Bene. Come faccio ad unirmi a voi?}
 {180}{}{Qualcosa di male sta per capitare a VOI.}
 {181}{}{No. Correro' il rischio. Addio.}
 {182}{}{Lui: Abbiamo fatto tutto quello che potevamo. Lei: Buona fortuna.}
-{183}{}{Addio!}
+{183}{}{Ciao!}
 {184}{}{Lei: Dave? Il tipo dei computer? Lui: Ah ah! Che sfigato! Vikki e' mia, tutta mia - e' impossibile che... scusatemi, questa che sto incanalando e' energia negativa. Devo aver sporcato i miei neuronodi. Lei: [ti sussurra] Credo che Dave sia molto carino, ma non potra' succedere nulla finche' ci sara' Juan. Lui: Fiuuu. I miei neuronodi sono di nuovo puliti.}
-{185}{}{Beh, ho delle altre domande.}
+{185}{}{Beh, ho delle altre domande da farle.}
 {186}{}{E' tutto. Ci vediamo.}
 {187}{}{Lei: Non e' stato poi cosi' male, no? Lui: Adesso va' a parlare con AHS-7 e finalmente saremo fratelli nell'Hubologia! Lei: sono cosi' eccitata! Lui: Arruolare nuove reclute mi fa arrapare in un modo... Lei: Oh, tesoro... Lui: Oh, baby...}
 {188}{}{Tornero' piu' tardi.}
@@ -126,10 +126,7 @@
 {225}{}{No, noi vogliamo AIUTARVI.}
 {226}{}{Ecco cos'e' l'Hubologia.}
 {227}{}{[applauso]}
-
 {228}{}{. Spero che il tuo cammino verso l'illuminazione proceda bene. Lei: Abbiamo riposto... grandi... speranze su di te.}
-
 {229}{}{Lezione numero 1: Ecco l'eternita'. Lassu' si trova Quetzel. [indica qualcosa] E qui siamo noi. [indica qualcos'altro] Tutto quello che dobbiamo fare e' camminare a lungo per raggiungere la nostra meta.}
 {230}{}{Cavoli, avremo bisogno di un sacco di scarpe.}
-
 {231}{}{Lui: Adesso va' a parlare con AHS-7 e finalmente saremo fratelli nell'Hubologia! Lei: sono cosi' eccitata! Lui: Arruolare nuove reclute mi fa arrapare in un modo... Lei: Oh, tesoro... Lui: Oh, baby...}

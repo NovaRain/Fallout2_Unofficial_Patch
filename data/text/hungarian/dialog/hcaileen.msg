@@ -6,7 +6,7 @@
 {105}{}{Majd megmutatjuk azoknak a mutánsoknak!}
 {106}{}{Érvényesítsük az emberi jogokat, cimbora!}
 {107}{}{Te tudod, mi a jó!}
-{108}{}{Takarodj innen!}
+{108}{}{Takarodj ki innen!}
 {109}{}{Mutánsimádó!}
 {110}{}{Jobb, ha befogod a pofád, ha tudod, mi a jobb neked!}
 {111}{}{Mocskos mutáns-szimpatizáns!}
@@ -22,7 +22,7 @@
 {121}{}{Közel a gyõzelem!}
 {122}{}{Broken Hills hamarosan a miénk lesz.}
 {123}{}{Mutánsimádó!}
-{124}{}{Takarodj innen!}
+{124}{}{Takarodj ki innen!}
 {125}{}{Te rohadt imperialista mutánsbarát!}
 {126}{}{Most az egyszer rosszul választottál.}
 {127}{}{Megbánod, amit tettél!}
@@ -35,7 +35,7 @@
 {134}{}{A férjem, Jacob tud neked segíteni.}
 {135}{}{Békén hagynál végre?!}
 {136}{}{Nem tudok segíteni. A férjem, Jacob talán tud.}
-{137}{}{Hagyj békén!}
+{137}{}{Csak hagyj békén!}
 {138}{}{Kösz, hogy benéztél, most pedig kotródj!}
 {139}{}{Miért nem nézel szét inkább odakint?}
 {140}{}{Ezt csinálnád a saját... ööö... jurtádban is??}

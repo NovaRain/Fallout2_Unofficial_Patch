@@ -3,19 +3,19 @@
 {102}{}{Egy jólöltözött férfit látsz, akinek az arcvonásai küszöbön álló hisztériáról árulkodnak.}
 {103}{}{Ki vagy te? Mit csinálsz a házamban?}
 {104}{}{Akk? Úúp?}
-{105}{}{Nevem }
+{105}{}{Én }
 {106}{}{Én? Senki.}
 {107}{}{Azért jöttem, hogy kiraboljalak.}
 {108}{}{Semmit. Senki. Viszlát!}
 {109}{}{Ne az én házamban, kérlek! Ott az utca. Ott aludhatsz, vagy csinálhatsz bármit, amit a magadfajta különös emberek csinálnak.}
 {110}{}{Thppt!}
 {111}{}{Nagyszerû! Örülök, hogy találkoztunk. [Zavartan bámul] Hé, te... te amolyan kalandozó fajta vagy, nem?}
-{112}{}{De igen.}
+{112}{}{Igen.}
 {113}{}{Nem ismered fel a Kiválasztottat?}
 {114}{}{Nem.}
 {115}{}{Mi közöd hozzá?}
 {116}{}{Azért kérdeztem, mert amint láthatod, a feleségem eltûnt. Nem tudom, hol lehet. Több napja elveszett már. Körbekérdeztem a városban, de senki sem látta. Nem keresnéd meg?}
-{117}{}{Mit ajánlasz cserébe?}
+{117}{}{Mi esik le nekem ebbõl?}
 {118}{}{Körülnézek. Hogy néz ki a feleséged?}
 {119}{}{Nem. Sok a dolgom.}
 {120}{}{Van 500 dollárom. A spórolt pénzem.}
@@ -55,4 +55,4 @@
 {154}{}{Azt hiszem, jobban tennéd, ha elmennél Broken Hillsbõl. Vigyázz magadra! Sok szerencsét!}
 {155}{}{Köszönöm a segítséget. Nem maradok itt tovább!}
 {156}{}{Értesítetted Dant a felesége haláláról.}
-{157}{}{.}
+{157}{}{ vagyok.}

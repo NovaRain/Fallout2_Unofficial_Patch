@@ -2,7 +2,7 @@
 {101}{}{Vedi Smith.}
 {102}{}{Non credo d'averti mai visto da 'ste parti, straniero. Mi chiamo Smith. Te serve qualcosa?}
 {103}{}{Volevi sape' qualcos'attro?}
-{104}{}{Puoi parlarmi di Vault City?}
+{104}{}{Puo' parlarmi di Vault City?}
 {105}{}{Che cosa fai?}
 {106}{}{Sto cercando il Vault.}
 {107}{}{Vorrei aiutarti con quell'aratro.}
@@ -11,42 +11,42 @@
 {110}{}{Um... Waga Nu-kik?}
 {111}{}{Beh, quel che vedi qui non e' davvero Vault City... in realta' ti trovi nel Cortile della citta'.}
 {112}{}{Perche' non siete all'interno della citta'?}
-{113}{}{Che cosa fai?}
-{114}{}{Posso chiederti qualcos'altro?}
-{115}{}{Grazie. Addio.}
+{113}{}{Di che cosa ti occupi?}
+{114}{}{Posso chiederle qualcos'altro?}
+{115}{}{Grazie. Arrivederci.}
 {116}{}{La mi' famiglia ed io lavoriamo la terra qui nel Cortile. Tiriamo avanti. Non so pe' quanto ancora, pero'.}
 {117}{}{Qual e' il problema?}
 {118}{}{Perche' non siete all'interno della citta'?}
-{119}{}{Posso chiederti qualcos'altro?}
+{119}{}{Posso chiederle qualcos'altro?}
 {120}{}{Si', la vita e' dura. Addio.}
 {121}{}{Hai ragione, amico. Devo andare.}
 {122}{}{Stai parlando del Vault che c'e' in citta'? Lo vidi solo una volta... e' all'interno dei cancelli, lungo il dirupo, credo. Solo i Cittadini possono entrarci, pero'.}
-{123}{}{Posso chiederti qualcos'altro?}
+{123}{}{Posso chiederle qualcos'altro?}
 {124}{}{Grazie per le indicazioni. addio.}
 {125}{}{Io e la mi' famiglia non siamo il tipo di persone che lasciano entrare li' dentro. Percio' noi viviamo qui, sotto la loro protezione.}
 {126}{}{Perche' non vi e' permesso vivere all'interno della citta'?}
 {127}{}{Protezione? Che tipo di protezione? }
-{128}{}{Posso chiederti qualcos'altro?}
+{128}{}{Posso chiederle qualcos'altro?}
 {129}{}{Capisco. Beh, grazie. Addio.}
 {130}{}{Beh, l'e' dura senza un aratro. Io e mi' moglie proviamo, ma il lavoro procede a rilento.}
 {131}{}{Posso aiutarvi?}
-{132}{}{Posso chiederti qualcos'altro?}
-{133}{}{Oh, beh, mi dispiace. Addio.}
-{134}{}{Certo.}
+{132}{}{Posso chiederle qualcos'altro?}
+{133}{}{Oh, beh, mi dispiace per voi. Addio.}
+{134}{}{Bene.}
 {135}{}{Beh, noi veniamo dalle Lande... come a te. Percio' tutto quello che possiamo avere e' la protezione che ce da' Vault City.}
 {136}{}{Che tipo di protezione?}
-{137}{}{Posso chiederti qualcos'altro?}
-{138}{}{Grazie. Addio.}
+{137}{}{Posso chiederle qualcos'altro?}
+{138}{}{Grazie. Arrivederci.}
 {139}{}{Ce tengono al sicuro dalle insidie esterne, ma ce costa un bel po', a me e a mi' moglie. E senza un aratro... beh, arrivare a fine mese l'e' difficile.}
 {140}{}{Posso aiutarvi con l'aratro?}
-{141}{}{Posso chiederti qualcos'altro?}
+{141}{}{Posso chiederle qualcos'altro?}
 {142}{}{Oh, beh, mi dispiace per voi. Addio.}
 {143}{}{Io e mi' moglie non parliamo con quelli come a te.}
 {144}{}{Mary, sta' lontana da 'sto tizio.}
 {145}{}{Vorresti aiuta' due persone come a noi? Non possiamo offrirti molto, ma lo apprezzeremmo moltissimo.}
 {146}{}{Whoa! Se non potete pagarmi, io non posso aiutarvi.}
 {147}{}{Nessun problema. Mi piacerebbe potervi aiutare.}
-{148}{}{Posso chiederti qualcos'altro?}
+{148}{}{Posso chiederle qualcos'altro?}
 {149}{}{Ci dovro' pensare su. Arrivederci.}
 {150}{}{Beh, abbiamo messo da parte circa 150$, se possono servire. Ma non saremo in grado di paga' la prossima tassa se non avremo l'aratro entro la settimana ventura.}
 {151}{}{Prendero' i soldi.}

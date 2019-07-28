@@ -5,13 +5,13 @@
 {104}{}{. Még nem teljesítetted a Törzsfõ próbáját, ezért nem engedhetlek itt át.}
 {105}{}{Öö...}
 {106}{}{De vissza kell mennem a faluba.}
-{107}{}{Lenne néhány kérdésem.}
+{107}{}{Feltennék néhány kérdést.}
 {108}{}{Rendben, visszamegyek megcsinálni a próbát.}
 {109}{}{(sóhajtás) }
 {110}{}{. Bemész a templomba. Megcsinálod a tesztet. És nem jössz vissza, amíg nem csináltad meg. Engedelmeskedsz a Törzsfõnek. Menj!}
-{111}{}{Én menni.}
+{111}{}{Én menni elfele.}
 {112}{}{Bocsáss meg, }
-{113}{}{, de nem engedhetlek át. Ha vissza akarsz térni a faluba, elõször ki kell állnod a próbát a templomban.}
+{113}{}{, but I cannot allow you to pass. If you wish to return to the village you may do so only by passing the trial set before you.}
 {114}{}{Értem. Akkor azt hiszem, megyek is.}
 {115}{}{Feltehetnék néhány kérdést?}
 {116}{}{Egyszerûen szétrúghatnám a segged és visszajuthatnék a faluba.}

@@ -1,8 +1,8 @@
 {100}{}{Vesi un uomo che porta un distintivo della polizia di NCR.}
-{101}{}{E' Jack, agente di polizia di NCR.} ###???assistant deputy of the NCR law
+{101}{}{E' Jack, agente di polizia di NCR.}
 {102}{}{Questo ragazzo e' piu' teso di una molla per orologi. La mascella sempre serrata, le vene che spuntano sulla fronte e non c'e' traccia di gioia o felicita' in lui.}
 {103}{}{Adesso non ho voglia di sentire i tuoi guai. Raccontali a qualcun altro.}
-{104}{}{Sai, nessuno - ne' tu ne' altri - mi puo' costringere a sopportare una cosa del genere.} ###???I don't have to put up with this - from you or anybody
+{104}{}{Sai, nessuno - ne' tu ne' altri - mi puo' costringere a sopportare una cosa del genere.}
 {105}{}{La mia dannata ex-moglie mi ha preso tutto quel che avevo.}
 {106}{}{Si e' presa gioco di me, sai? Nessuno prende in giro Jack.}
 {107}{}{Uno di questi giorni gliela faro' vedere. A tutti, gliela faro' vedere...}
@@ -45,9 +45,9 @@
 {144}{}{Davvero la pensi cosi'?}
 {145}{}{Si', Jack. Lo penso davvero.}
 {146}{}{Certamente. Cosa credi - che stia mentendo?}
-{147}{}{Non saprei.}
+{147}{}{I don't know.}
 {148}{}{Non lasciare che sia lei a vincere, Jack.}
-{149}{}{Questa e' la tua opportunita'. Sii uomo. Mandala al tappeto.} ###??? Stand her down
+{149}{}{Questa e' la tua opportunita'. Sii uomo. Mandala al tappeto.}
 {150}{}{Cazzate. Le tue sono solo parole. Non te ne frega niente di me!}
 {151}{}{Ah, diavolo, forse hai ragione. Non e' stata una grande idea.}
 {152}{}{L'avrei fatto, sai?}

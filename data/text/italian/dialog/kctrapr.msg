@@ -2,9 +2,8 @@
 {101}{}{Vedi un cittadino di Klamath.}
 {102}{}{Vedi un abusivo.}
 {103}{}{Vedi un contadino.}
-{104}{}{Vedi un trapper.}
+{104}{}{Vedi un cacciatore.}
 {105}{}{Vedi un cacciatore.}
-
 {110}{}{Heh, heh - ammetti di essere uno di noi, adesso?}
 {111}{}{Non c'e' rimasto nulla da rubare, qui.}
 {112}{}{Qui a Trapper Town si vedono ratti ogni giorno piu' grandi. Alcuni stanno addirittura in piedi su due zampe.}
@@ -18,11 +17,10 @@
 {120}{}{Per lo Spirito del Grande Ratto, cosa succede?}
 {121}{}{Se davvero hai deciso di rimanere a lungo in citta', mi sa che rivolgero' una preghiera allo Spirito del Grande Ratto.}
 {122}{}{Fa' attenzione, o farai la stessa fine di Phil.}
-{123}{}{Sei uguale ai Dunton.}
+{123}{}{Sei proprio uguale ai Dunton.}
 {124}{}{Non pensiamo di volerti in questa parte della citta'.}
-{125}{}{Che problema c'hai?}
+{125}{}{Qual e' il tuo problema?}
 {126}{}{(Mumble, mumble)...l'unico selvaggio buono, e' il selvaggio...(mumble)}
-
 {130}{}{Questa parte della citta' e' riservata a noi professionisti.}
 {131}{}{Hmm... Sembra proprio che tu non riusciresti a trovare un gecko neanche se ti mordesse.}
 {132}{}{Mi sorprende che tu sia riuscito ad arrivare qui partendo dalla tua tribu'.}
@@ -42,7 +40,6 @@
 {146}{}{Se mai gli uomini insetto dovessero farsi vivi qui, di sicuro i ratti se li mangerebbero. Heh, heh.}
 {147}{}{Sissignore, ci sono dei veeeecchi tunnel sotto Klamath. Faresti meglio a crederci.}
 {148}{}{Ci sono un sacco di storie che si sentono raccontare in giro a proposito di quegli edifici.}
-
 {150}{}{Hai l'aspetto di uno che se la sa cavare nei boschi.}
 {151}{}{Cacciare gecki e' pericoloso -- ma paga bene.}
 {152}{}{Odio tutti i ratti di qui. Sono cosi' dannatamente furbi che sfuggono persino alle trappole!}
@@ -56,7 +53,6 @@
 {160}{}{Ricorda, se vendi troppe pelli di gecko in una volta, il prezzo crolla.}
 {161}{}{Un giorno voglio comprarmi un'arma con una gittata decente.}
 {162}{}{Ti giuro che ho visto degli uomini insetto vicino al pascolo che c'e' a est del paese. }
-
 {170}{}{Odiavo quei ratti. Sono davvero contento che siano spariti.}
 {171}{}{Cacciare i gecki e' pericoloso, ma rende bene.}
 {172}{}{Occhio ai gecki dorati; sono forti il doppio, rispetto a quelli comuni.}
@@ -69,7 +65,6 @@
 {179}{}{E' da un po' di tempo che non sento quella strana voce provenire dalle grotte dei ratti. Mi domando che fine abbia fatto?}
 {180}{}{Sai, non ridere, ma credo che il Dio Ratto sia morto.}
 {181}{}{Ho sentito dire che il Dio Ratto e' morto. Non che io creda a robe del genere...}
-
 {200}{}{Vedi una persona rozza con degli stivali di cuoio.}
 {201}{}{Vedi una persona che dev'essere rimasta un sacco di tempo all'aperto.}
 {202}{}{Vedi una persona con degli abiti rozzi e rattoppati.}

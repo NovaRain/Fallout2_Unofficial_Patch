@@ -6,7 +6,7 @@
 {105}{}{Addig csinálom, amíg vérezni kezdesz. Bocs, ez hangos volt?}
 {106}{}{Ay carumba! Nalgas con queso!}
 {107}{}{vú hú hú hú hú!}
-{108}{}{Na, én léptem.}
+{108}{}{Na, én leléptem...}
 {109}{}{Ismertem Nagy Jesus Mordinót, amikor még csak bébi Jesus volt.}
 {110}{}{Jézus, Mária, Szentjózsef!}
 {111}{}{Producer vagyok. Játékokat készítek. A játék tök jó dolog. Játssz a játékommal!}

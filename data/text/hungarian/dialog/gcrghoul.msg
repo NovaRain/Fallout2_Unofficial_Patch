@@ -1,4 +1,3 @@
-# Dialog Editor last position: 51
 {100}{}{Az illetõ bõre nagyon csúnyán megégett.}
 {101}{}{Õ egy gekkói lakos.}
 {102}{}{Az illetõ bõre megégett a sugárzástól. Ekkora sugárzástól bárki meghalna, de õ egész jól elvan.}

@@ -1,6 +1,5 @@
-# Dialog Editor last position: 88
 {100}{}{Ez nõ csúnyácska és erõs felépítésû. Komor a tekintette.}
-{101}{}{Maida Bucknert látod, Mrs. Buckner lányát.}
+{101}{}{You see Maida Buckner, Mrs. Buckner's daughter.}
 {102}{}{Ez nõ csúnyácska és erõs felépítésû. Mogorván néz vissza rád.}
 {200}{}{Nagyon mérges vagyok rád! Nem akarlak többet látni! Takarodj ki innen! Törzsbéliek, humph! (motyog valamit) ...ügyefogyott, haszontalan, lusta...}
 {201}{}{Még idegesítõbb vagy, mint Sulik! Nincs idõm most veled beszélgetni. Menj el!}
@@ -19,18 +18,18 @@
 {232}{}{Helló, régi barátom.}
 {233}{}{Miben segíthetek?}
 {234}{}{Jobb lesz, ha megtanulsz viselkedni! Egyáltalán mi a fenét akarsz? Miben segíthetek?}
-{235}{}{Lenne néhány kérdésem.}
+{235}{}{Feltennék néhány kérdést.}
 {236}{}{Kellene egy hely, ahol aludhatnék.}
 {237}{}{Vennék pár dolgot.}
 {238}{}{Egy italt szeretnék.}
-{239}{}{Most nincs szükségem semmire. Viszlát!}
+{239}{}{Nincs már semmi másra szükségem ebben a pillanatban. A viszontlátásra!}
 {240}{}{Kérdések, mi? Akkor lökjed! Nem jutok elõrébb, ha veled beszélgetek.}
 {241}{}{Még több kérdés? Kérdezz csak, de remélem, nem lesz sok!}
-{242}{}{Hallottál már az Édenkert Létrehozást Elõsegítõ Táskáról?}
-{243}{}{Mesélj nekem Sulikról!}
+{242}{}{Édenkert Létrehozást Elõsegítõ Táska - hallott már valaha ilyesmirõl?}
+{243}{}{Mondj valamit Sulikról!}
 {244}{}{Mesélj nekem, mi történik mostanában Klamathban!}
 {245}{}{Milyen települések vannak a közelben?}
-{246}{}{Ennyit akartam tudni. Viszlát!}
+{246}{}{Nagyjából ennyi érdekelt volna most. Agyõ!}
 {250}{}{Anyám végzi a szobákkal kapcsolatos ügyeket. Errõl vele kell beszélned.}
 {251}{}{Oké, kösz. Azért lenne még pár kérdésem.}
 {252}{}{Akkor megyek és beszélek vele. Viszlát!}
@@ -43,14 +42,15 @@
 {271}{}{Öö, biztosan. Inkább kérdeznék valami mást.}
 {272}{}{Húú, azt hiszem, sokat kell még tanulnom tõletek. Én is szeretnék civilizált lenni egyszer.}
 {273}{}{Civilizált? Azt hiszed, civilizáltabb vagy nálam, csak mert egy hajdani város kiégett romjai közt élsz? Inkább beszéljünk másról!}
-{274}{}{Azt hiszem, épp eleget hallottam. Viszlát!}
+{274}{}{I think I've heard just about enough. Goodbye.}
 {280}{}{Szóval, tehetek érted még valamit?}
 {281}{}{Egész életemre elég gekkóbõröm van. Akarsz még valamit?}
 {282}{}{Van nálam más is, amit csencselhetnénk.}
 {283}{}{Kicsit jobb árakra számítottam. Nem vagy éppen olcsó. Inkább kérdeznék valamit.}
 {284}{}{Nem könnyû veled alkudozni, de megéri. Kérdeznék még valamit.}
-{285}{}{Most nincs szükségem másra. Viszlát!}
-{290}{}{Ott van Redding messze dél-nyugaton és néhány napnyira délre ott van Rejtek. Bár én nem mennék oda.}
+{285}{}{Most egyelõre ennyi. Ég veled!}
+{290}{}{There are only a couple of other towns nearby. There's Redding far to the southeast, and the Den
+ a few days south. But I wouldn't go to the Den.}
 {291}{}{Miért nem mennél Rejtekbe?}
 {292}{}{Vannak törzsek a környéken?}
 {293}{}{Kösz a jótanácsot. Lenne még egy kérdésem.}
@@ -60,11 +60,11 @@
 {302}{}{Óó, ti aztán civilizáltak vagytok... én pedig nem kérek belõle. Inkább kérdeznék valamit.}
 {303}{}{Mondj valamit Sulikról!}
 {304}{}{Mi van Rejtekkel?}
-{305}{}{Érdekes. Hadd kérdezzek még valamit!}
+{305}{}{Hát ez érdekes. Mit szólnál, ha még feltennék néhány kérdést?}
 {310}{}{Rejtek nem túl jó hely. A hozzád hasonló tudatlan törzsbéliekbõl például rabszolgát csinálnak. Nagyjából egy heti út innen délre, de a legtöbben nem térnek vissza.}
 {311}{}{Mondj valamit a helyi törzsekrõl.}
 {312}{}{Sulik talán nem rabszolga? Különben miért bánnál vele úgy?}
-{313}{}{Érdekes. Lenne még egy kérdésem.}
+{313}{}{Hát ez érdekes. Mit szólnál, ha még feltennék néhány kérdést?}
 {320}{}{Sulik csak azért van itt, hogy ledolgozza a tartozását, amit ostoba módon okozott. De nem rabszolga! Itt Klamathban nincsenek rabszolgák.}
 {321}{}{Ledolgozza a tartozását? Mit csinált?}
 {330}{}{Hát, a helyzet az, hogy egyik este valamiért nagyon ideges volt és túl sokat ivott. Aztán mikor már nem bírt uralkodni magán, szétverte a berendezést. Nagyjából 500 dollárnyi kárt csinált. Még mindig nem sikerült mindent megjavítania.}
@@ -76,7 +76,7 @@
 {360}{}{Lehet hogy lassú, de egy idõ után azért megkedveli az ember. (vágyakozva néz felé) ... (idegesen) De elég a fecsegésbõl. Akarsz még valamit?}
 {361}{}{Érdekelne még valami.}
 {362}{}{Mi lenne, ha valaki hajlandó lenne kifizetni Sulik tartozását?}
-{363}{}{Más most nem érdekel. Viszlát!}
+{363}{}{Most egyelõre ennyi. Ég veled!}
 {370}{}{Nem tudom, miért akarná bárki is kifizetni a tartozását, de én nem tiltakoznék. A számlája 350 dollár. Nem hiszem, hogy tényleg ezt akarod, Sulik csak bajba keverne téged is.}
 {371}{}{Nem szívesen hagynám itt egy ilyen bigott nõszeméllyel, mint te. Ki akarom fizetni a tartozását!}
 {372}{}{Biztos nagyon boldog, hogy itt dolgozhat, de azért én inkább kifizetem a kárt, amit okozott. Nem tartom helyesnek, hogy helybenjárásra van kényszerítve.}
@@ -106,7 +106,9 @@
 {442}{}{Sajnálom, de valami másról szeretnélek megkérdezni.}
 {450}{}{Hogy hova ment azt nem tudom, de biztos a kanyonba, amirõl mindig beszélt.}
 {451}{}{Miféle kanyonba?}
-{460}{}{Van egy kanyon innen keletre. Torr mindig vad történeteket mesélt bogáremberekrõl, amik onnan jönnek. Azt mondta, hogy a bogáremberek csonkították meg a brahminokat. A félelemtõl teljesen meghülyült.}
+{460}{}{Well, there's a canyon just east of where we graze the brahmin. Torr used to come up with wild
+ stories about bugmen coming from there. He said that it was bugmen that mutilated our brahmin. Scared
+ himself silly with those fool stories.}
 {461}{}{Úgy hangzik, ez bárkit meghülyített volna.}
 {470}{}{Talán a kanyonba ment, hogy bebizonyítsa a bátorságát, vagy valami. Remélem, valaki rátalál, mielõtt baja esik.}
 {471}{}{Esetleg megkereshetném.}
@@ -118,6 +120,8 @@
 {500}{}{Nagyon köszönöm. Mindent visszavonok, amit a törzsbéliekrõl mondtam. Kérlek, találd meg a bátyámat!}
 {501}{}{Meg fogom, számíthatsz rám!}
 {510}{}{Megtaláltad már a bátyámat? Nagyon remélem, hogy nem esett baja.}
+{511}{}{No, not yet. I got some other questions though.}
+{512}{}{Not yet, I am still looking.}
 {520}{}{Italt akarsz? Egy pohár Buckner féle sör 5 dollár lesz.}
 {521}{}{Jól esne egy finom sör. Töltsd tele!}
 {522}{}{Meghívnék mindenkit egy körre, csak hogy bemutatkozzam. A nevem }

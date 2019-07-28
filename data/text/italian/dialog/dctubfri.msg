@@ -1,16 +1,9 @@
-# LOOKS
 {100}{}{Vedi un tossicodipendente.}
-
 {110}{}{Vedi uno schiavo del Jet.}
 {111}{}{Vedi uno schiavo del Jet di Tubby.}
-
-# EXAMINES
 {150}{}{Sembra essere un amico di Tubby.}
-
 {160}{}{Sembra essere estremamente drogato.}
 {161}{}{Sembra soffrire per i postumi di una sballata.}
-
-# 1. CF: Tubby's Dead
 {200}{}{Oh, cavolo. E adesso dove prenderemo la nostra roba?}
 {201}{}{Perche' hai ucciso Tubby?}
 {202}{}{Oh cavolo, che merda.}
@@ -18,14 +11,9 @@
 {204}{}{Oh, cavolo…}
 {205}{}{Ehi, questo non e' giusto.}
 {206}{}{Non farci del male, non lo diremo a nessuno.}
-
-# 2. CF: Standard
-# LOW KARMA
 {220}{}{Wow, sembri davvero un tipo cattivo.}
-# HIGH KARMA
 {221}{}{Ehi, sei davvero un bel ragazzo. Te l'aveva mai detto nessuno?}
 {222}{}{Ehi, sei davvero una bella ragazza. Te l'aveva mai detto nessuno?}
-# GENERIC
 {223}{}{Noi siamo le guardie di Tubby.}
 {224}{}{Non far casino con Tubby. Questo e' il suo negozio.}
 {225}{}{Diamine, mi sento bene.}
@@ -35,47 +23,36 @@
 {229}{}{Tubby e' il nostro miglior amico.}
 {230}{}{Tubby ci da' la felicita'.}
 {231}{}{Oh cavoli, oh cavoli oh cavoli… Dannati i miei occhi.}
-# SLAVER
 {232}{}{Ehi, amico, sei uno schiavista? Wow…}
 {233}{}{Ti ha fatto male il tatuaggio?}
 {234}{}{Voi schiavisti siete davvero tosti.}
 {235}{}{E' pericoloso fare lo schiavista?}
-# METZGER DEAD
 {236}{}{Ehi, ho sentito che il tuo capo e' stato ucciso. Che sfortuna.}
 {237}{}{Ehi, hai sentito? Metzger e' morto.}
 {238}{}{Wow, qualcuno ha fatto fuori Metzger il macellaio.}
 {239}{}{Spero che Tubby possa continuare a lavorare, adesso che Metz e' morto.}
-
-# 3. BGF: Tubby Dead (From Where to go)
 {250}{}{Wow, cavolo. Ha ucciso Tubby.}
 {251}{}{Credo che la mia roba sia andata a male.}
 {252}{}{Woh, cosa succede?}
 {253}{}{Cos'era tutto quel casino?}
 {254}{}{Cazzo, quella roba era forte.}
 {255}{}{Wow, cavolo. Ha ucciso Tubby.}
-
-# 4. BGF: Standard
 {260}{}{Ooooohhyaaa… Buona questa roba.}
-{261}{}{Cosa c'e'?}
+{261}{}{Di cosa si tratta?}
 {262}{}{Oh, si', sto volando.}
 {263}{}{Oh, che bel tepore.}
 {264}{}{E' cosi bella.}
 {265}{}{Oh, tutto nero… Merda, non ci vedo.}
-
-# 5. Conversation
-# CONVERSATION 1
 {270}{}{Wow, lo vedi?}
 {271}{}{Si', sai cos'era?}
 {272}{}{Credo fosse un uccello.}
 {273}{}{No, un cane.}
-{274}{}{Ma era un uomo volante.}
+{274}{}{But it was flying, man.}
 {275}{}{No - e' sfrecciato a pochi metri dal terreno.}
 {276}{}{Certo... hai le visioni.}
 {277}{}{No. Era reale.}
-{278}{}{Come no?}
+{278}{}{Vabbe'.}
 {279}{}{Ohhhh sta tornando. Ahh.}
-
-# CONVERSATION 2
 {290}{}{Lucine carine.}
 {291}{}{Migliaia di luci.}
 {292}{}{Sono cosi' calde.}
@@ -99,8 +76,6 @@
 {310}{}{Le patate non sono verdi.}
 {311}{}{Ohhh, le lucine carine.}
 {312}{}{Oh, mi gira la testa…}
-
-# 6. CF: Hostile
 {320}{}{Non parlarmi, amico. Mi gira la testa.}
 {321}{}{Non lo diro' a nessuno.}
 {322}{}{Non farmi del male.}
@@ -109,16 +84,11 @@
 {325}{}{Non ho sentito nulla.}
 {326}{}{Ti prego, vattene.}
 {327}{}{Signora, non mi sento molto bene per parlare. La mia fottuta testa mi sta uccidendo.}
-
-# 7. BGF: Hostile
 {340}{}{Oh cavoli, sei una merda.}
 {341}{}{Perche' sei venuto qui a rovinarmi la sballata?}
 {342}{}{Cavoli, che male!}
 {343}{}{Cosa diavolo...?}
 {344}{}{Cosa succedera'?}
-
-# CRACH WHORES
-#8. Click Floats
 {400}{}{Tubby e' meraviglioso.}
 {401}{}{Il Jet mi fa arrapare.}
 {402}{}{Tubby sa come trattare le sue donne!}
@@ -128,12 +98,10 @@
 {406}{}{Non ti fa venire i brividi?}
 {407}{}{Tubby ha la miglior fornitura della citta'.}
 {408}{}{Mi sento cosi' viva!}
-
-{420}{}{Hai sentito quel rumore?}
+{420}{}{Did you hear a loud bang?}
 {421}{}{E' da un po' che non vedo Tubby.}
 {422}{}{Dov'e' Tubby?}
 {423}{}{Hai visto Tubby?}
-
 {440}{}{Oh, la mia testa!}
 {441}{}{Dov'e' Tubby?! Credo di stare per morire!}
 {442}{}{Non ce la faccio piu'.}
@@ -141,9 +109,7 @@
 {444}{}{Tubby e' da un po' che non ci da' la roba. Dov'e'?}
 {445}{}{Le mie labbra sono intorpidite.}
 {446}{}{Non sento piu' le dita.}
-
-#9. Hostile
-{460}{}{Non farmi del male!}
+{460}{}{Non farmi male!}
 {461}{}{Ti prego, non farlo!}
 {462}{}{Non l'ho preso io!}
 {463}{}{Non sono stata io!}

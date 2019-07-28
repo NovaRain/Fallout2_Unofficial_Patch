@@ -1,5 +1,4 @@
-# Dialog Editor last position: 13
-{100}{}{Khan rabló.}
+{100}{}{Egy Khan rablót látsz.}
 {101}{}{Phil, a Khan õrök egyike.}
 {102}{}{Egy keménykötésû fiatal férfit látsz, fém páncélban. Állig fel van fegyverezve.}
 {103}{}{Szitává kellene lõnöm téged, de kiváncsi vagyok, mivel tudsz elõrukkolni.}
@@ -22,11 +21,11 @@
 {120}{}{Hmm. Semmi, azt hiszem, megyek.}
 {121}{}{Nem bírom elhinni, hogy szerinted csak így idesétálsz, és még válaszokat is akarsz a kérdéseidre! Á, a fenébe is, úgyis meghalsz, és most még nagylelkû voltam. Bezártuk a kölyköt a hátsó szobába, és jól elszórakoztunk vele. Az a kurva Rebecca megpróbálja megkeresni, így rajta tartjuk a szemünket, csak hogy biztosak legyünk benne, nem jut túl közel.}
 {122}{}{Te beteg fejben. Én gyógyítani eltávolít fejed.}
-{123}{}{Mit értesz az alatt, hogy jól szórakoztatok a lánnyal?}
+{123}{}{Mit értesz az alatt, hogy jól elszórakoztatok a lánnyal?}
 {124}{}{Óh, ez megmagyarázni. Most én megy.}
 {125}{}{Te beteg vagy. Azt hiszem, most elaltatlak.}
 {126}{}{Remek, érezd jól magad, én megyek.}
-{127}{}{Add át a lányt, és senkinek nem kell meghalnia.}
+{127}{}{Add át a lányt, és senkinek nem kell meghalnia!}
 {128}{}{Gondolj erre, miközben meghalsz, hülye!}
 {129}{}{}
 {130}{}{}
@@ -55,4 +54,3 @@
 {153}{}{Add át a lányt, és senkinek nem kell meghalnia!}
 {154}{}{Á, hát visszatértél. Lássuk, ki marad életben.}
 {155}{}{Kinyírtuk azt a kurvát, Chrissy-t, és most eljött a te idõd is!}
-

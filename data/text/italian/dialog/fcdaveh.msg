@@ -5,19 +5,21 @@
 {104}{}{Come posso aiutarti, o illuminato?}
 {105}{}{Ho deciso di provarci, con Vikki... uhm... prima o poi.}
 {106}{}{Come posso aiutarti?}
-{107}{}{Che cosa vuoi?}
+{107}{}{Cosa vuoi?}
 {108}{}{Da... oooh...}
 {109}{}{Chi sei?}
-{110}{}{Di cosa ti occupi?}
+{110}{}{Di che cosa ti occupi?}
 {111}{}{Ho parlato con Vikki. Lei e Juan hanno riso di te e hanno detto che sei una mezza sega.}
 {112}{}{Ho parlato con Vikki. Dice che sei un figo e che qualche volta gli piacerebbe stare un po' con te.}
 {113}{}{Vuoi che parli di te con Vikki?}
-{114}{}{Non importa. Ci vediamo.}
+{114}{}{Lasciamo perdere. Ci vediamo.}
+{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
+[As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[FATTO]}
 {117}{}{Io sono Dave Handy. Vengo dal Canada.}
-{118}{}{E di cosa ti occupi?}
+{118}{}{E tu di che cosa ti occupi?}
 {119}{}{Cosa ti porta qui al sud?}
-{120}{}{Grazie. Ci vediamo.}
+{120}{}{Grazie. Ciao.}
 {121}{}{Insegno a questi tizi come gestire i loro dati e passo le giornate a rispondere a stupide domande.}
 {122}{}{Saresti in grado di penetrare nel database degli Shi?}
 {123}{}{Domande stupide? Ad esempio?}
@@ -33,11 +35,15 @@
 {133}{}{Beh, si'... ma se succedesse qualcosa ne sarebbe valsa la pena!}
 {134}{}{Se lo dici tu... se lo dici tu. Ho delle altre domande.}
 {135}{}{Vabbe'. Ci si vede.}
+{136}{}{::he sits in stunned silence for a moment::
+::pain crosses his face::
+Oh well.
+::he turns his head away::}
 {137}{}{Immagino che tu voglia vendicarti.}
 {138}{}{Mi dispiace. Ho delle altre domande.}
 {139}{}{Dopo averti consegnato il messaggio... posso andare!}
 {140}{}{Ci puoi scommettere. Che cosa ti serve?}
-{141}{}{Mi servono i progetti del vertibird conservati nel loro computer.}
+{141}{}{Ho bisogno di prelevare gli schemi tecnici del vertibird dal vostro computer.}
 {142}{}{Voglio che tu formatti il disco rigido del computer degli Hubologisti.}
 {143}{}{Voglio che tu ti introduca nel database degli Shi e che invii del carburante alla petroliera Poseidon.}
 {144}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
@@ -50,7 +56,7 @@
 {151}{}{Buona fortuna. Addio!}
 {152}{}{Ecco. Insegnero' a quei bastardi che nessuno puo' comportarsi cosi' con Dave! Addio.}
 {153}{}{Beh, guarda che stavo solo scherzando. Non ha mai detto una cosa del genere.}
-{154}{}{Ci vediamo.}
+{154}{}{Arrivederci.}
 {155}{}{Vikki non l'ha mai detto?! Oh, cavolo... }
 {156}{}{Quindi ho provocato questo disastro per nulla. Adesso sono costretto ad ucciderti.}
 {157}{}{Provaci.}
@@ -60,7 +66,7 @@
 {161}{}{Voglio che tu ti introduca nel database degli Shi e che invii del carburante alla petroliera Poseidon.}
 {162}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
 {163}{}{Ahh, nulla. Entra e divertiti un po'.}
-{164}{}{Ecco fatto. Altro?}
+{164}{}{Ecco a te. Nient'altro?}
 {165}{}{Ho bisogno di prelevare gli schemi tecnici del vertibird dal vostro computer.}
 {166}{}{Voglio che tu formatti il disco rigido del computer degli Hubologisti.}
 {167}{}{Voglio che tu trasferisca il carburante dall'astronave alla petroliera Posiedon.}
@@ -74,8 +80,8 @@
 {175}{}{Grazie! Ci vediamo!}
 {176}{}{Ti ho giocato come un pollo. Addio!}
 {177}{}{Controllero' io stesso. Non credo che al momento sia sicuro formattare il mainframe.}
-{178}{}{D'accordo. Ho delle altre domande.}
-{179}{}{D'accordo. Ci vediamo.}
+{178}{}{D'accordo. Avrei delle altre domande.}
+{179}{}{Okay. Ci vediamo.}
 {180}{}{No, no... mi vergogno troppo.}
 {181}{}{Certo, certo. Ho delle altre domande.}
 {182}{}{Certo, certo.}

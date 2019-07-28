@@ -17,9 +17,9 @@
 {116}{}{Io non sono chi lei pensa. Mi chiamo }
 {117}{}{, vengo da Arroyo e noi due abbiamo qualcosa di cui parlare.}
 {118}{}{Mi scusi, signore. Errore mio. Buona giornata.}
-{119}{}{Seguite tutti le procedure d'emergenza.} ###???Alarm stations everyone
+{119}{}{Seguite tutti le procedure d'emergenza.}
 {120}{}{Fuori dai piedi!}
-{121}{}{Lasciate libero il passaggio!} ###???Clear for action
+{121}{}{Lasciate libero il passaggio!}
 {122}{}{Fuori di qui, sono troppo occupato per pensare a te.}
 {123}{}{Non hai sentito l'allarme?}
 {124}{}{Cercate un riparo! L'allarme sta suonando!}
@@ -43,7 +43,7 @@
 {142}{}{Continua pure, dottore. Adesso ti lascio. Buona giornata.}
 {143}{}{Ecco l'ultima risorsa di tutti i primitivi dalla mente ristretta. E' cosi' facile notare cosa vi differenzia dai veri umani come noi.}
 {144}{}{Lei e' cosi' dannatamente sicuro di se', eh?}
-{145}{}{Fottuto bigotto che non sei altro. Qualcuno deve mettere fine alla tua vita... immediatamente.} ###???You need to be put away, right now
+{145}{}{Fottuto bigotto che non sei altro. Qualcuno deve mettere fine alla tua vita... immediatamente.}
 {146}{}{Non credo di aver molto da dire ad un mutante. Presto, quando i veri umani si saranno ripresi il pianeta, tu sarai soltanto un altro degli spiacevoli ricordi della guerra.}
 {147}{}{Veri umani? Di che cosa sta parlando? Sono umano quanto lei.}
 {148}{}{Ce l'ho io, uno spiacevole ricordo per te... proprio qui, nella mia fondina.}
@@ -58,7 +58,7 @@
 {157}{}{E queste leggere differenze nel DNA hanno davvero tanta importanza?}
 {158}{}{Non so esattamente di cosa stia parlando, ma queste leggere differenze hanno davvero tanta importanza?}
 {159}{}{Oh, il tuo DNA e' molto piu' che *leggermente* diverso. E' molto diverso. Se il Progetto non avesse dei tempi da rispettare, mi piacerebbe svolgere degli altri esperimenti sulla tua gente... oltre agli esami tossicologici relativi al FEV, naturalmente. Un lavoro davvero interessante. }
-{160}{}{Che cosa vuoi sapere?}
+{160}{}{Che cosa ti interessa sapere?}
 {161}{}{Come mai il nostro DNA e' diverso?}
 {162}{}{State svolgendo degli esperimenti sulla mia tribu'?}
 {163}{}{Che cosa diavolo e' "il Progetto"?}
@@ -94,7 +94,7 @@
 {193}{}{D'accordo, me ne vado. Uno di noi non riesce a capire, e non credo di essere io. Addio.}
 {194}{}{Studi tossicologici sull'efficacia della tossina F.E.V., si'.}
 {195}{}{La tossina F.E.V.? Di cosa si tratta?}
-{196}{}{Lasci che le chieda qualcos'altro.}
+{196}{}{Lascia che ti chieda qualcos'altro.}
 {197}{}{La tossina F.E.V. E' la soluzione perfetta per questo difficile problema.}
 {198}{}{Cos'e' la tossina F.E.V.?}
 {199}{}{Aspetti un attimo. Lasci che le chieda qualcos'altro.}
@@ -118,7 +118,7 @@
 {217}{}{Lei crede davvero di essere nel giusto, eh?}
 {218}{}{Non c'e' dubbio, hai davvero uno spirito umanitario. Devo andarmene da qui prima che mi venga voglia di ucciderti. Addio.}
 {219}{}{La tua specie forse si salvera', ma di sicuro non ti salverai tu.}
-{220}{}{Si'. Il prezzo da pagare per salvare una specie non e' mai troppo alto.} ###???There is no price too high to pay for the survival of one's species
+{220}{}{Si'. Il prezzo da pagare per salvare una specie non e' mai troppo alto.}
 {221}{}{Sono d'accordo con lei. Ma non ha mai pensato che anche i "mutanti", come li chiama lei, non sono che un altro tipo di esseri umani?}
 {222}{}{Sono proprio d'accordo con te, doc. Credo che faro' tutto il possibile per salvare noi mutanti. E comincero' uccidendo te!}
 {223}{}{Ti ho detto che mi serviva un po' di tempo per pensarci.}
@@ -139,7 +139,7 @@
 {238}{}{Posso rilasciare l'antidoto nelle celle tramite i dotti d'aerazione. Il livello detentivo possiede un sistema d'aerazione separato rispetto al resto dell'Enclave. Tutti penseranno che io stia semplicemente conducendo l'ennesimo esperimento. Per quel che riguarda te, posso iniettarti l'antidoto direttamente e immediatamente (si avvicina a te con una siringa)}
 {239}{}{Ahia, grazie Doc. Cosa succedera' quando la tossina F.E.V. verra' rilasciata?}
 {240}{}{Ehi, aspetta un secondo, non avvicinarti a me con quel coso!}
-{241}{}{Non sara' un bello spettacolo. Dovresti andartene da qui il piu' presto possibile. Io preferisco avere sulla coscienza il peso della morte di un migliaio di persone, piuttosto che quello della morte di centinaia di migliaia d'esseri umani. Il nostro tempo qui e' scaduto. Abbiamo avuto la nostra chance.} ###???We had our chance
+{241}{}{Non sara' un bello spettacolo. Dovresti andartene da qui il piu' presto possibile. Io preferisco avere sulla coscienza il peso della morte di un migliaio di persone, piuttosto che quello della morte di centinaia di migliaia d'esseri umani. Il nostro tempo qui e' scaduto. Abbiamo avuto la nostra chance.}
 {242}{}{Come posso liberare la mia gente dalle celle?}
 {243}{}{Dovresti disattivare il generatore di energia. Il reattore e' controllato da un grande computer situato nelle immediate vicinanze del reattore stesso. Non so esattamente cosa dovrai fare, pero'.}
 {244}{}{La ringrazio per le informazioni che mi ha dato. Il suo sacrificio verra' ricordato da tutti i popoli della terra.}
@@ -149,11 +149,11 @@
 {248}{}{                            Did he smile his work to see?}
 {249}{}{                                  Did he who made the Lamb make thee?}
 {250}{}{Eh?}
-{251}{}{Oh, e' solo una cosa che ricordo di un poeta morto da molto tempo. Mi chiedo se c'e' ancora posto per quelli che hanno cosi' a lungo operato per raggiunere una fine cosi' tetra. Il nostro tempo si e' concluso, il vostro e' appena cominciato. Sbrigati!} ###???just something I remembered from a long dead poet. I was wondering if there's still a place for those who've worked towards such a dark end for so long
+{251}{}{Oh, e' solo una cosa che ricordo di un poeta morto da molto tempo. Mi chiedo se c'e' ancora posto per quelli che hanno cosi' a lungo operato per raggiunere una fine cosi' tetra. Il nostro tempo si e' concluso, il vostro e' appena cominciato. Sbrigati!}
 {252}{}{Oh, okay, grazie dell'aiuto, dottore. Lei e' un uomo valoroso.}
 {253}{}{Sei un pazzo - ma un pazzo utile. Addio.}
 {254}{}{Sbrigati!}
-{255}{}{Vattene da qui.}
+{255}{}{Esci subito di qui.}
 {256}{}{Muoviti!}
 {257}{}{Non c'e' piu' tempo!}
 {258}{}{Va', finche' sei ancora in tempo!}

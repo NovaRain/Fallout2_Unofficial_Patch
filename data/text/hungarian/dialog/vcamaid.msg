@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Egy Polgárt látsz.}
 {101}{}{A Komfortfelelõst látod.}
 {102}{}{Beszélj Randallal ha segítségre van szükséged!}

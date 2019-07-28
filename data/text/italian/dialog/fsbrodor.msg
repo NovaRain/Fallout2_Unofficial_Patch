@@ -1,1 +1,1 @@
-{100}{}{Vedi una porta senza maniglie o serrature visibili.}x
+{100}{}{Vedi una porta senza maniglie o serrature visibili.}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 61
 {100}{}{A hölgy pornószínésznõ.}
 {150}{}{Ez a nõ igen csinos. Mintha magában beszélne.}
 {151}{}{Mintha szöveget memorizálna. Kis idõ után "O" betût formál a szájából és elõre-hátra kezdi mozgatni a fejét.}
@@ -6,14 +5,14 @@
 {200}{}{Gondolom, meg kéne köszönnöm, hogy megmentetted a világot, de én inkább egy hosszú, szenvedélyes szeretkezésre gondoltam veled kapcsolatban. Nem gond?}
 {201}{}{Úgy hallottam, te vagy az a tökös gyerek, aki picsán rúgta az Enklávét.}
 {202}{}{Az olyan fickóktól, akik picsán rúgják a gonosz enklávésokat, nedves lesz a bugyim.}
-{203}{}{Úgy hallottam, a Testvérek kerestetnek téged. Filmet szeretnének forgatni a kalandjaidról.}
+{203}{}{Azt mondják, a Testvérek várnak téged. Filmet akarnak forgatni a kalandjaidból.}
 {210}{}{Gondolom, meg kéne köszönnöm, hogy megmentetted a világot. Hát... kösz.}
 {211}{}{Úgy hallottam, te vagy az, aki seggbe rúgta az Enklávésokat. Le vagyok nyûgözve.}
 {212}{}{Azt hallottam, a Testvérek keresnek téged. Filmet szeretnének készíteni a kalandjaid alapján. Öö, esetleg játszhatnék benne egy kis szerepet...?}
 {220}{}{SZÍVESKEDNÉL nem trappolni itt abban a pléhvacakban? Szeretném még ma megtanulni a szövegemet.}
 {221}{}{Akármilyen harcirobotos játékból is jöttél, húzzál vissza! Ez egy SZEREPJÁTÉK!}
 {222}{}{Valamit takargatsz?}
-{230}{}{Na, mi a dörgés, }
+{230}{}{Mi újság, }
 {231}{}{Jól nézel ki, }
 {232}{}{Hé, kicsim? Egyedül élsz?}
 {233}{}{Hát nem erõltetik meg magukat fizetéskor...}
@@ -22,28 +21,28 @@
 {236}{}{Nézzük csak... (belenéz a forgatókönyvbe)... a fickó bejön, mi szexelünk. Nem tûnik nehéznek.}
 {237}{}{Én igazából rendezni szeretnék.}
 {238}{}{Istennek hála végre felszerelték azt a párnázott fejtámlát.}
-{239}{}{Egyszerûen nem értem, mit esznek a Korzikai Testvérek ebben a nõben...}
+{239}{}{Nem tudom, mit esznek benne a Korzikai Testvérek...}
 {240}{}{Bárcsak lelépne és sosem látnám újra ezt a nõt.}
 {241}{}{Az a csaj egyszerûen koppintja a stílusomat.}
 {242}{}{Nagykanállal eszi a pasikat az ribanc.}
 {243}{}{Hmmm... Ezt a gyökeret!}
-{244}{}{Kábé annyira tehetséges, mint egy darab fa, de legalább kétszer annyira ronda.}
-{250}{}{Na, mi a dörgés, }
-{251}{}{Van egy kis BALHÉ, és én benne akarok lenni.}
-{252}{}{Engem keresel?}
+{244}{}{Olyan tehetséges, mint egy kõdarab, viszont kétszer olyan randa.}
+{250}{}{Mi újság, }
+{251}{}{Na, végre egy kis balhé, de a fene bánja.}
+{252}{}{Nem engem keresel?}
 {253}{}{Miért nem jössz gyakrabban?}
-{254}{}{Van most egy állás, amit talán betölthetnél.}
+{254}{}{Van egy tágra nyitott lehetõségem számodra.}
 {255}{}{Végre egy igazi pasi is feltûnt errefelé...}
 {256}{}{Na, nézzük... "Oh, istenem"... "Mutasd gyorsan..." Francba! Mi is a következõ sor?}
 {257}{}{Na, jó, de mi motivál ENGEM ebben a jelenetben?}
 {258}{}{Nézzük csak... (belenéz a forgatókönyvbe)... a fickó bejön, mi szexelünk. Nem tûnik nehéznek.}
 {259}{}{Én igazából rendezni szeretnék.}
 {260}{}{Istennek hála végre felszerelték azt a párnázott fejtámlát.}
-{265}{}{Na, mi a dörgés, }
-{266}{}{Van egy kis BALHÉ, és én benne akarok lenni.}
-{267}{}{Engem keresel?}
+{265}{}{Mi újság, }
+{266}{}{Na, végre egy kis balhé, de a fene bánja.}
+{267}{}{Nem engem keresel?}
 {268}{}{Miért nem jössz gyakrabban?}
-{269}{}{Van most egy állás, amit talán betölthetnél.}
+{269}{}{Van egy tágra nyitott lehetõségem számodra.}
 {270}{}{Végre egy igazi pasi is feltûnt errefelé...}
 {271}{}{Na, nézzük... "Oh, istenem"... "Mutasd gyorsan..." Francba! Mi is a következõ sor?}
 {272}{}{Na, jó, de mi motivál ENGEM ebben a jelenetben?}
@@ -52,31 +51,31 @@
 {275}{}{Istennek hála végre felszerelték azt a párnázott fejtámlát.}
 {280}{}{Mi ez a szag?}
 {281}{}{Nagyszerû! Egy újabb ungabunga szartaposó.}
-{282}{}{Haggyá engem békén!}
+{282}{}{Ne beszélj hozzám!}
 {283}{}{Na, nézzük... "Oh, istenem"... "Mutasd gyorsan..." Francba! Mi is a következõ sor?}
 {284}{}{Na, jó, de mi motivál ENGEM ebben a jelenetben?}
 {285}{}{Nézzük csak... (belenéz a forgatókönyvbe)... a fickó bejön, mi szexelünk. Nem tûnik nehéznek.}
 {286}{}{Én igazából rendezni szeretnék.}
 {287}{}{Istennek hála végre felszerelték azt a párnázott fejtámlát.}
 {288}{}{Nem volna rossz, ha nem szólalnál meg, amíg velem beszélsz. Gondolj szép csendben magadra, és tégy úgy, mintha válaszolnék.}
-{289}{}{Te ki a fene vagy?}
+{289}{}{Ki vagy te?}
 {290}{}{Te vagy az új csicskás?}
 {295}{}{Nem vagy te túl alacsony egy rohamosztagoshoz képest?}
 {296}{}{Aiiijjjj! A szívbajt hozod rám!!! Tûnés kifelé!}
 {297}{}{Milyen filmet akarsz te itt forgatni? Pirx pilóta kalandjait? Na, tûnés innen, bádogember!}
 {298}{}{SZÍVESKEDNÉL nem trappolni itt abban a pléhvacakban? Szeretném még ma megtanulni a szövegemet.}
 {299}{}{Valamit takargatsz?}
-{305}{}{Na, mi a dörgés, }
-{306}{}{Nem akarsz segíteni a szövegem tanulásában?}
+{305}{}{Mi újság, }
+{306}{}{Nem akarsz segíteni a szövegem gyakorlásában?}
 {307}{}{Nincs kedved egyet zuhanyozni velem a következõ jelenet elõtt?}
 {308}{}{Tetszik, amit a nyelveddel csinálsz.}
-{309}{}{}
+{309}{}{They've got me set up as the French exchange student from next door.}
 {310}{}{A komornyik vagy a sofõr vagy a harmadik jelenetbõl?}
-{311}{}{Nem akarsz feldobni engem egy kis Jettel?}
+{311}{}{Feldobhatnál egy kis Jettel...}
 {312}{}{A forgatás csak nyúlik, mint a tészta... fenébe, teljesen kikészít.}
 {313}{}{Asszem, végre közös jelenetet fogunk forgatni!}
 {314}{}{A fiúim nem tudják, hogy itt dolgozom. Na, nem mintha érdekelne, mit gondolnak.}
-{315}{}{Nem láttam a Testvéreket errefelé... próbálkozz az irodában.}
+{315}{}{Nem láttam itt a Testvéreket... próbáld meg az irodát!}
 {316}{}{Nem igazán érdekel, mi lesz késõbb, csak térítsd meg a beléd ölt pénzt.}
 {317}{}{Szenvedélyes, misztikus pasi vagy. A kéj embere.}
 {318}{}{Csinálhatjuk a neked legkényelmesebb módon.}
@@ -103,10 +102,10 @@
 {344}{}{Én ugyan nem mondtam rólad, hogy kövér vagy csúnya vagy. Valaki más mondhatta.}
 {345}{}{Úgy hallottam, egyik színész sem akar veled dolgozni.}
 {346}{}{Korábban sosem fürödtél?}
-{350}{}{Na, mi a dörgés, }
+{350}{}{Mi újság, }
 {351}{}{Abbahagyod a bokszot a pornó kedvéért? Végül is ugyanaz, csak máshol megy a küzdelem.}
-{352}{}{Hé bajnok, nem akarsz ringbe szállni velem?}
-{353}{}{Nem akarsz bokszolkodni, bajnokom?}
+{352}{}{Nem akarsz ringbe szállni velem, bajnokom?}
+{353}{}{Nem akarsz bokszcsatát vívni, bajnokom?}
 {354}{}{Vigyázz a Húsdarálóval! Az a fickó meg van zakkanva. Egyszer már le akarta harapni a fülemet.}
 {355}{}{Nem akarsz segíteni a szövegem gyakorlásában?}
 {356}{}{Feldobhatnál egy kis Jettel...}
@@ -116,8 +115,8 @@
 {360}{}{A fiúim nem tudják, hogy itt dolgozom. Na, nem mintha érdekelne, mit gondolnak.}
 {361}{}{Ha társaságra vágysz, most van egy kis szabadidõm.}
 {362}{}{Beszállsz az iparba? Üdv a fedélzeten.}
-{363}{}{Szép kis micsodád van.}
-{364}{}{Be kéne szállnod a pornóba. A tested megvan hozzá.}
+{363}{}{Szép a micsodád.}
+{364}{}{Be kéne szállnia a pornóba. A teste megvan hozzá.}
 {365}{}{Szép darab vasrúd van a zsebedben.}
 {366}{}{Ha társaságra vágysz, most van egy kis szabadidõm.}
 {367}{}{Hallottam rólad. A neved }
@@ -152,7 +151,7 @@
 {419}{}{Az Igazit keresem. Kösz, hogy nem hagysz unatkozni, amíg fel nem tûnik.}
 {420}{}{Nehogy azt hidd ám, hogy a bugyim közelébe juthatsz. Tudod, csak egy seggnek van benne hely.}
 {421}{}{Bocs, azt hittem, jól nézel ki, de tévedtem.}
-{422}{}{Márminthogy te? Bocsi, ennyire elszánt szerintem soha nem leszek.}
+{422}{}{Veled? Ekkora hiányom azért nincs.}
 {423}{}{Nem láttam a Testvéreket errefelé... most pedig hagyj békén. Színésznõ vagyok.}
 {424}{}{Légyszi... nem adok autogramot.}
 {425}{}{Tudom, mi hiányzik nekem. A rendezés...}
@@ -160,8 +159,8 @@
 {427}{}{Nem hiszem, hogy valaha is felfognád, mennyire stresszes az életem.}
 {428}{}{A fiúim nem tudják, hogy itt dolgozom. Na, nem mintha érdekelne, mit gondolnak.}
 {429}{}{Kérlek, hagyj lógva! Próbálom megjegyezni a szövegemet.}
-{430}{}{Ha munkát akarsz, beszélj a Testvérekkel.}
-{431}{}{Te vagy itt az új "Tutajos"?}
+{430}{}{Ha munkát akarsz, beszélj a Testvérekkel!}
+{431}{}{Te vagy az új tutajos?}
 {432}{}{Te vagy az új csicskás? Nem tudom elképzelni, mi más lehetnél.}
 {433}{}{Ha te vagy az új csicskás, kezdésnek akár ki is törölhetnéd a seggem.}
 {434}{}{Nem láttam a Testvéreket errefelé, kislány... most pedig hagyj békén. Én itt színésznõ vagyok.}
@@ -171,7 +170,7 @@
 {438}{}{Csütörtökönként a kaszinókban táncolok. Gyere nézz meg, és hozz magaddal egy kis lovettát is.}
 {439}{}{Nem hiszem, hogy valaha is felfognád, kislány, mennyire stresszes az életem.}
 {1230}{}{?}
-{1231}{}{.}
+{1231}{}{ vagyok.}
 {1250}{}{?}
 {1265}{}{?}
 {1305}{}{?}

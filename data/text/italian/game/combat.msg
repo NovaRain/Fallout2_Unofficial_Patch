@@ -1,9 +1,3 @@
-#
-# This is all of the combat messages used by combat.c
-# Note: all %d values will be filled with a number greater than 1
-#
-# Truly Generic strings (no need for gender/number issues)
-#
 {100}{}{Ti servono %d punti azione.}
 {101}{}{Finite le munizioni.}
 {102}{}{Bersaglio fuori portata.}
@@ -13,35 +7,29 @@
 {106}{}{Non puoi usare armi a due mani con un braccio ferito.}
 {107}{}{Non sei abbastanza forte da poter usare bene quest'arma.}
 {108}{}{ e }
-#
-# Combat Flag Strings (all of these happen to you, the MALE player)
-#
-{200}{}{scaraventato a terra}
-{201}{}{abbattuto}
+{200}{}{scaraventata a terra}
+{201}{}{abbattuta}
 {202}{}{la tua gamba sx e' ferita}
 {203}{}{la tua gamba dx e' ferita}
 {204}{}{il tuo braccio sx e' ferito}
 {205}{}{il tuo braccio dx e' ferito}
-{206}{}{accecato}
-{207}{}{Sei stato ucciso}
-{208}{}{colpito}
-{209}{}{critico}
-{210}{}{incendiato}
+{206}{}{accecata}
+{207}{}{Sei stata uccisa}
+{208}{}{colpita}
+{209}{}{critica}
+{210}{}{incendiata}
 {211}{}{hai visto perforare la tua armatura}
 {212}{}{la tua arma e' esplosa}
 {213}{}{hai distrutto la tua arma}
 {214}{}{hai fatto cadere la tua arma}
 {215}{}{hai perso il prossimo turno}
-{216}{}{ti sei colpito}
+{216}{}{ti sei colpita}
 {217}{}{hai perso il resto delle munizioni}
-{218}{}{hai fatto cilecca}
-{219}{}{ti sei fatto male da solo}
-{220}{}{hai colpito alla cieca}
-{221}{}{hai ferito un arto a caso}
-{222}{}{sei stato colpito dai frammenti}
-#
-# Combat Flag Strings (all of these happen to you, the FEMALE player)
-#
+{218}{}{ha fatto cilecca}
+{219}{}{ti sei fatta male da sola}
+{220}{}{ha colpito alla cieca}
+{221}{}{ha ferito un arto a caso}
+{222}{}{e' stata colpita dai frammenti}
 {250}{}{scaraventata a terra}
 {251}{}{abbattuta}
 {252}{}{la tua gamba sx e' ferita}
@@ -60,25 +48,22 @@
 {265}{}{hai perso il prossimo turno}
 {266}{}{ti sei colpita}
 {267}{}{hai perso il resto delle munizioni}
-{268}{}{hai fatto cilecca}
+{268}{}{ha fatto cilecca}
 {269}{}{ti sei fatta male da sola}
-{270}{}{hai colpito alla cieca}
-{271}{}{hai ferito un arto a caso}
-{272}{}{sei stata colpita dai frammenti}
-#
-# Combat Flag Strings (all of these happen to a male)
-#
-{300}{}{scaraventato a terra}
-{301}{}{abbattuto}
+{270}{}{ha colpito alla cieca}
+{271}{}{ha ferito un arto a caso}
+{272}{}{e' stata colpita dai frammenti}
+{300}{}{scaraventata a terra}
+{301}{}{abbattuta}
 {302}{}{la sua gamba sx e' ferita}
 {303}{}{la sua gamba dx e' ferita}
 {304}{}{il suo braccio sx e' ferito}
 {305}{}{il suo braccio dx e' ferito}
-{306}{}{accecato}
-{307}{}{e' stato ucciso}
-{308}{}{colpito}
-{309}{}{critico}
-{310}{}{incendiato}
+{306}{}{accecata}
+{307}{}{e' stata uccisa}
+{308}{}{colpita}
+{309}{}{critica}
+{310}{}{incendiata}
 {311}{}{ha visto perforata la sua armatura}
 {312}{}{la sua arma e' esplosa}
 {313}{}{ha distrutto la sua arma}
@@ -90,10 +75,7 @@
 {319}{}{si e' fatto male da solo}
 {320}{}{ha colpito alla cieca}
 {321}{}{ha ferito un arto a caso}
-{322}{}{e' stato colpito dai frammenti}
-#
-# Combat Flag Strings (all of these happen to a female)
-#
+{322}{}{e' stata colpita dai frammenti}
 {400}{}{scaraventata a terra}
 {401}{}{abbattuta}
 {402}{}{la sua gamba sx e' ferita}
@@ -117,51 +99,31 @@
 {420}{}{ha colpito alla cieca}
 {421}{}{ha ferito un arto a caso}
 {422}{}{e' stata colpita dai frammenti}
-#
-# Miscellaneous combat messages (all of these happen to you, the male player)
-# Note: the first %s will be replaced by the value of line 506, which
-#          should be the language's equivalent to 2nd person male singular,
-#          which is "You" in English. The first letter of line 506 should
-#          be capitalized, since it will start a sentence.
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 509
-#          where the second %s is the name of another creature
-{506}{}{}
-{509}{}{Oops! %sSei stato colpito al posto di %s!}
+{506}{}{You}
+{509}{}{Oops! %sSei stata colpita al posto di %s!}
 {511}{}{%sHai subito un colpo critico %s per %d punti vita}
-{512}{}{%sSei stato colpito %s per %d punti vita}
-{513}{}{%sSei stato colpito per %d punti vita}
-{514}{}{%sHai mancato miseramente il bersaglio}
-{515}{}{%sHai mancato il bersaglio}
+{512}{}{%sSei stata colpita %s per %d punti vita}
+{513}{}{%sSei stata colpita per %d punti vita}
+{514}{}{%s ha mancato miseramente il bersaglio}
+{515}{}{%s ha mancato il bersaglio}
 {520}{}{%sHai subito un colpo critico per %d punti vita}
 {521}{}{%sHai subito un colpo critico %s per 1 punto vita}
-{522}{}{%sSei stato colpito %s per 1 punto vita}
-{523}{}{%sSei stato colpito per 1 punto vita}
+{522}{}{%sSei stata colpita %s per 1 punto vita}
+{523}{}{%sSei stata colpita per 1 punto vita}
 {524}{}{%sHai subito un colpo critico per 1 punto vita}
 {525}{}{%sHai subito un colpo critico %s senza danni}
-{526}{}{%sSei stato colpito %s senza danni}
-{527}{}{%sSei stato colpito senza danni}
+{526}{}{%sSei stata colpita %s senza danni}
+{527}{}{%sSei stata colpita senza danni}
 {528}{}{%sHai subito un colpo critico senza danni}
-{533}{}{%sHai mancato miseramente il bersaglio e ti sei causato un danno di 1 punto vita}
-{534}{}{%sHai mancato miseramente il bersaglio e ti sei causato un danno di %d punti vita}
-#
-# Miscellaneous combat messages (all of these happen to you, the female player)
-# Note: the first %s will be replaced by the value of line 556, which
-#          should be the language's equivalent to 2nd person female singular,
-#          which is "You" in English. The first letter of line 556 should
-#          be capitalized, since it will start a sentence.
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 559
-#          where the second %s is the name of another creature
-{556}{}{}
+{533}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
+{534}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
+{556}{}{You}
 {559}{}{Oops! %sSei stata colpita al posto di %s!}
 {561}{}{%sHai subito un colpo critico %s per %d punti vita}
 {562}{}{%sSei stata colpita %s per %d punti vita}
 {563}{}{%sSei stata colpita per %d punti vita}
-{564}{}{%sHai mancato miseramente il bersaglio}
-{565}{}{%sHai mancato il bersaglio}
+{564}{}{%s ha mancato miseramente il bersaglio}
+{565}{}{%s ha mancato il bersaglio}
 {570}{}{%sHai subito un colpo critico per %d punti vita}
 {571}{}{%sHai subito un colpo critico %s per 1 punto vita}
 {572}{}{%sSei stata colpita %s per 1 punto vita}
@@ -171,42 +133,26 @@
 {576}{}{%sSei stata colpita %s senza danni}
 {577}{}{%sSei stata colpita senza danni}
 {578}{}{%sHai subito un colpo critico senza danni}
-{583}{}{%sHai mancato miseramente il bersaglio e ti sei causata un danno di 1 punto vita}
-{584}{}{%sHai mancato miseramente il bersaglio e ti sei causata danno di %d punti vita}
-#
-# Miscellaneous combat messages (all of these happen to a male)
-# Note: the first %s is the name of the male creature
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 609
-#          where the second %s is the name of another creature
-#
-{608}{}{Oops! %s e' stato colpito al posto tuo!}
-{609}{}{Oops! %s e' stato colpito al posto di %s!}
+{583}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
+{584}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
+{608}{}{Oops! %s e' stata colpita al posto tuo!}
+{609}{}{Oops! %s e' stata colpita al posto di %s!}
 {611}{}{%s ha subito un colpo critico %s per %d punti vita}
-{612}{}{%s e' stato colpito %s per %d punti vita}
-{613}{}{%s e' stato colpito per %d punti vita}
+{612}{}{%s e' stata colpita %s per %d punti vita}
+{613}{}{%s e' stata colpita per %d punti vita}
 {614}{}{%s ha mancato miseramente il bersaglio}
 {615}{}{%s ha mancato il bersaglio}
 {620}{}{%s ha subito un colpo critico per %d punti vita}
 {621}{}{%s ha subito un colpo critico %s per 1 punto vita}
-{622}{}{%s e' stato colpito %s per 1 punto vita}
-{623}{}{%s e' stato colpito per 1 punto vita}
+{622}{}{%s e' stata colpita %s per 1 punto vita}
+{623}{}{%s e' stata colpita per 1 punto vita}
 {624}{}{%s ha subito un colpo critico per 1 punto vita}
 {625}{}{%s ha subito un colpo critico %s senza danni}
-{626}{}{%s e' stato colpito %s senza danni}
-{627}{}{%s e' stato colpito senza danni}
+{626}{}{%s e' stata colpita %s senza danni}
+{627}{}{%s e' stata colpita senza danni}
 {628}{}{%s ha subito un colpo critico senza danni}
-{633}{}{%s ha mancato miseramente il bersaglio e si e' causato un danno di 1 punto vita}
-{634}{}{%s ha mancato miseramente il bersaglio e si e' causato un danno di %d punti vita}
-#
-# Miscellaneous combat messages (all of these happen to a female)
-# Note: the first %s is the name of the female creature
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 709
-#          where the second %s is the name of another creature
-#
+{633}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
+{634}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
 {708}{}{Oops! %s e' stata colpita al posto tuo!}
 {709}{}{Oops! %s e' stata colpita al posto di %s!}
 {711}{}{%s ha subito un colpo critico %s per %d punti vita}
@@ -225,11 +171,6 @@
 {728}{}{%s ha subito un colpo critico senza danni}
 {733}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
 {734}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
-#
-# Hit Locations (by art_num alias)
-#
-# regular humans
-#
 {1110}{}{alla testa}
 {1111}{}{al braccio sx}
 {1112}{}{al braccio dx}
@@ -239,9 +180,6 @@
 {1116}{}{agli occhi}
 {1117}{}{all'inguine}
 {1118}{}{uncalled}
-#
-# Brahmin (Mutant 2-Headed Cows)
-#
 {1150}{}{alla testa}
 {1151}{}{alla zampa post. sx}
 {1152}{}{alla zampa post. dx}
@@ -251,9 +189,6 @@
 {1156}{}{agli occhi}
 {1157}{}{alle mammelle}
 {1158}{}{uncalled}
-#
-# dogs
-#
 {1160}{}{alla testa}
 {1161}{}{alla zampa post.}
 {1162}{}{alla zampa post.}
@@ -263,9 +198,6 @@
 {1166}{}{agli occhi}
 {1167}{}{all'inguine}
 {1168}{}{uncalled}
-#
-# Mr. Handy
-#
 {1170}{}{alla CPU}
 {1171}{}{al manipolatore}
 {1172}{}{al manipolatore}
@@ -275,9 +207,6 @@
 {1176}{}{ai sensori}
 {1177}{}{al regolatore}
 {1178}{}{uncalled}
-#
-# Super Mutants             # Fallout 2: Reserved?
-#
 {1180}{}{alla testa}
 {1181}{}{al braccio sx}
 {1182}{}{al braccio dx}
@@ -287,21 +216,15 @@
 {1186}{}{agli occhi}
 {1187}{}{all'inguine}
 {1188}{}{uncalled}
-#
-# Mole-Rat
-#
 {1190}{}{alla testa}
 {1191}{}{alla zampa ant. sx}
 {1192}{}{alla zampa ant. dx}
 {1193}{}{al corpo}
-{1194}{}{alla zampa post. dx}
-{1195}{}{alla zampa post. sx}
+{1194}{}{alla gamba dx}
+{1195}{}{alla gamba sx}
 {1196}{}{agli occhi}
 {1197}{}{all'inguine}
 {1198}{}{uncalled}
-#
-# big humans and mutants
-#
 {1210}{}{alla testa}
 {1211}{}{al braccio sx}
 {1212}{}{al braccio dx}
@@ -311,9 +234,6 @@
 {1216}{}{agli occhi}
 {1217}{}{all'inguine}
 {1218}{}{uncalled}
-#
-# Radscorpion
-#
 {1220}{}{alla testa}
 {1221}{}{alla coda}
 {1222}{}{alle chele}
@@ -323,9 +243,6 @@
 {1226}{}{agli occhi}
 {1227}{}{al cervello}
 {1228}{}{uncalled}
-#
-# Floater
-#
 {1230}{}{alla testa}
 {1231}{}{alla bocca}
 {1232}{}{alla bocca ant.}
@@ -335,21 +252,15 @@
 {1236}{}{al ganglio}
 {1237}{}{al posauova}
 {1238}{}{uncalled}
-#
-# masrat? a rat perhaps?
-#
 {1240}{}{alla testa}
 {1241}{}{alla zampa ant. sx}
 {1242}{}{alla zampa ant. dx}
 {1243}{}{al corpo}
-{1244}{}{alla zampa post. dx}
-{1245}{}{alla zampa post. sx}
+{1244}{}{alla gamba dx}
+{1245}{}{alla gamba sx}
 {1246}{}{agli occhi}
 {1247}{}{all'inguine}
 {1248}{}{uncalled}
-#
-# Centaur
-#
 {1250}{}{alla testa}
 {1251}{}{al braccio sx}
 {1252}{}{al braccio dx}
@@ -359,9 +270,6 @@
 {1256}{}{agli occhi}
 {1257}{}{all'inguine}
 {1258}{}{uncalled}
-#
-# human midgets and children
-#
 {1270}{}{alla testa}
 {1271}{}{al braccio sx}
 {1272}{}{al braccio dx}
@@ -371,9 +279,6 @@
 {1276}{}{agli occhi}
 {1277}{}{all'inguine}
 {1278}{}{uncalled}
-#
-# Overseer                  # Fallout 2: Reserved?
-#
 {1460}{}{alla testa}
 {1461}{}{al braccio sx}
 {1462}{}{al braccio dx}
@@ -383,9 +288,6 @@
 {1466}{}{agli occhi}
 {1467}{}{all'inguine}
 {1468}{}{uncalled}
-#
-# Gizmo                     # Fallout 2: Reserved?
-#
 {1490}{}{alla testa}
 {1491}{}{al braccio sx}
 {1492}{}{al braccio dx}
@@ -395,21 +297,15 @@
 {1496}{}{agli occhi}
 {1497}{}{all'inguine}
 {1498}{}{uncalled}
-#
-# The Master!               # Fallout 2: Reserved?
-#
 {1500}{}{alla testa}
-{1501}{}{al ???}
+{1501}{}{alla ???}
 {1502}{}{alla ???}
 {1503}{}{al corpo}
-{1504}{}{al ???}
+{1504}{}{alla ???}
 {1505}{}{alla ???}
 {1506}{}{agli occhi}
 {1507}{}{alla CPU}
 {1508}{}{uncalled}
-#
-# Death Claw
-#
 {1510}{}{alla testa}
 {1511}{}{al braccio sx}
 {1512}{}{al braccio dx}
@@ -419,9 +315,6 @@
 {1516}{}{agli occhi}
 {1517}{}{all'inguine}
 {1518}{}{uncalled}
-#
-# Mantis
-#
 {1520}{}{alla testa}
 {1521}{}{alla zampa predatoria}
 {1522}{}{alla zampa predatoria}
@@ -431,9 +324,6 @@
 {1526}{}{agli occhi}
 {1527}{}{al metatorace}
 {1528}{}{uncalled}
-#
-# Robobrain
-#
 {1530}{}{alla CPU}
 {1531}{}{al manipolatore}
 {1532}{}{al manipolatore}
@@ -443,9 +333,6 @@
 {1536}{}{ai sensori}
 {1537}{}{al regolatore}
 {1538}{}{uncalled}
-#
-# Eyeball (Robot)
-#
 {1540}{}{alla CPU}
 {1541}{}{al manipolatore}
 {1542}{}{al manipolatore}
@@ -455,21 +342,15 @@
 {1546}{}{ai sensori}
 {1547}{}{al regolatore}
 {1548}{}{uncalled}
-#
-# Mutant Pig Rat (small Mole-Rat)
-#
 {1550}{}{alla testa}
 {1551}{}{alla zampa ant. sx}
 {1552}{}{alla zampa ant. dx}
 {1553}{}{al corpo}
-{1554}{}{alla zampa post. dx}
-{1555}{}{alla zampa post. sx}
+{1554}{}{alla gamba dx}
+{1555}{}{alla gamba sx}
 {1556}{}{agli occhi}
 {1557}{}{all'inguine}
 {1558}{}{uncalled}
-#
-# Deathclaw Egg
-#
 {1580}{}{al guscio}
 {1581}{}{al guscio}
 {1582}{}{al guscio}
@@ -479,9 +360,6 @@
 {1586}{}{al guscio}
 {1587}{}{al guscio}
 {1588}{}{uncalled}
-#
-# Lesser Radscorpion
-#
 {1590}{}{alla testa}
 {1591}{}{alla coda}
 {1592}{}{alle chele}
@@ -491,9 +369,6 @@
 {1596}{}{agli occhi}
 {1597}{}{al cervello}
 {1598}{}{uncalled}
-#
-# Lesser Death Claw
-#
 {1600}{}{alla testa}
 {1601}{}{al braccio sx}
 {1602}{}{al braccio dx}
@@ -503,21 +378,15 @@
 {1606}{}{agli occhi}
 {1607}{}{all'inguine}
 {1608}{}{uncalled}
-#
-# Giant Plant
-#
 {1650}{}{alla bocca}
 {1651}{}{al gambo}
 {1652}{}{al gambo}
 {1653}{}{allo stelo centrale}
-{1654}{}{alle radici}
+{1654}{}{alla radice}
 {1655}{}{alla radice}
 {1656}{}{ai viticci di senso}
 {1657}{}{alla base}
 {1658}{}{uncalled}
-#
-# Security Robot
-#
 {1660}{}{alla testa}
 {1661}{}{al braccio-missile}
 {1662}{}{al braccio-mitra}
@@ -527,9 +396,6 @@
 {1666}{}{ai sensori}
 {1667}{}{al torso inferiore}
 {1668}{}{uncalled}
-#
-# Gecko 2
-#
 {1670}{}{alla testa}
 {1671}{}{all'artiglio sx}
 {1672}{}{all'artiglio dx}
@@ -539,9 +405,6 @@
 {1676}{}{agli occhi}
 {1677}{}{all'inguine}
 {1678}{}{uncalled}
-#
-# Gecko
-#
 {1680}{}{alla testa}
 {1681}{}{all'artiglio sx}
 {1682}{}{all'artiglio dx}
@@ -551,9 +414,6 @@
 {1686}{}{agli occhi}
 {1687}{}{all'inguine}
 {1688}{}{uncalled}
-#
-# Alien Thing
-#
 {1800}{}{alla testa}
 {1801}{}{al tentacolo sx}
 {1802}{}{al tentacolo dx}
@@ -563,9 +423,6 @@
 {1806}{}{agli occhi?}
 {1807}{}{all'incavo inguinale}
 {1808}{}{uncalled}
-#
-# End Boss
-#
 {1850}{}{alla testa}
 {1851}{}{al braccio sx}
 {1852}{}{al braccio dx}
@@ -575,9 +432,6 @@
 {1856}{}{agli occhi}
 {1857}{}{all'inguine}
 {1858}{}{uncalled}
-#
-# Alien Queen
-#
 {1860}{}{alla testa}
 {1861}{}{al tentacolo sx}
 {1862}{}{al tentacolo dx}
@@ -587,9 +441,6 @@
 {1866}{}{agli occhi?}
 {1867}{}{all'incavo inguinale}
 {1868}{}{uncalled}
-#
-# Gun Turret 2
-#
 {1900}{}{alla CPU}
 {1901}{}{al meccanismo dell'arma}
 {1902}{}{al meccanismo dell'arma}
@@ -599,9 +450,6 @@
 {1906}{}{ai sensori}
 {1907}{}{al regolatore}
 {1908}{}{uncalled}
-#
-# Giant Ant
-#
 {1970}{}{alla testa}
 {1971}{}{alla zampa ant. sx}
 {1972}{}{alla zampa ant. dx}
@@ -611,9 +459,6 @@
 {1976}{}{alle antenne}
 {1977}{}{al metatorace}
 {1978}{}{uncalled}
-#
-# Goris Robed
-#
 {1990}{}{alla testa}
 {1991}{}{al braccio sx}
 {1992}{}{al braccio dx}
@@ -623,9 +468,6 @@
 {1996}{}{agli occhi}
 {1997}{}{all'inguine}
 {1998}{}{uncalled}
-#
-# Goris UnRobed
-#
 {2000}{}{alla testa}
 {2001}{}{al braccio sx}
 {2002}{}{al braccio dx}
@@ -635,9 +477,6 @@
 {2006}{}{agli occhi}
 {2007}{}{all'inguine}
 {2008}{}{uncalled}
-#
-# Gun Turret 2
-#
 {2010}{}{alla CPU}
 {2011}{}{al meccanismo dell'arma}
 {2012}{}{al meccanismo dell'arma}
@@ -647,10 +486,6 @@
 {2016}{}{ai sensori}
 {2017}{}{al regolatore}
 {2018}{}{uncalled}
-
-#
-# Fruit Fly
-#
 {2030}{}{alla testa}
 {2031}{}{al pungiglione}
 {2032}{}{alle antenne}
@@ -660,33 +495,25 @@
 {2036}{}{agli occhi}
 {2037}{}{alle ali}
 {2038}{}{uncalled}
-
-
-
-#
-# Critical Hit Messages
-#
-# 5000 series - men (including generics)
-#
 {5000}{}{. Fa veramente male}
-{5001}{}{. Una grave ferita e' stata inflitta}
+{5001}{}{. Serious pain is inflicted}
 {5002}{}{ in un punto non protetto dall'armatura}
 {5003}{}{. Il violento colpo lo fa cadere senza sensi al suolo}
 {5004}{}{. Il colpo lo manda al tappeto}
 {5005}{}{. Il forte colpo in testa lo manda al tappeto}
 {5006}{}{. Il colpo gli spappola la tempia. Buonanotte, Gracie}
 {5007}{}{. La morte e' istantanea}
-{5008}{}{. Adesso soffre di un fastidioso gomito del tennista}
-{5009}{}{. Il braccio e' fuori uso}
-{5010}{}{. Una grossa abrasione testimonia la durezza del colpo subito}
-{5011}{}{. Il colpo gli spappola il braccio sinistro}
+{5008}{}{. Adesso dovra' curare un fastidioso gomito del tennista}
+{5009}{}{. Il braccio e' ormai fuori gioco}
+{5010}{}{. Il colpo le ha lasciato una grossa abrasione}
+{5011}{}{. Il braccio e' stato ferito gravemente}
 {5012}{}{. Adesso il braccio sinistro e' appeso soltanto per un lembo di pelle}
 {5013}{}{. Adesso quel braccio sembra un moncone insanguinato}
-{5014}{}{. Il braccio destro e' ormai inservibile}
+{5014}{}{. Il colpo le ha spappolato il braccio destro}
 {5015}{}{. Il suo braccio destro e' stato polverizzato dal potente colpo}
-{5016}{}{. Un colpo davvero potente}
+{5016}{}{. Che colpo potente}
 {5017}{}{. Il colpo ha attravesato le sue difese}
-{5018}{}{. Il colpo e' stato talmente potente da infliggergli un po' di danno extra}
+{5018}{}{. La potenza del colpo le ha causato qualche danno in piu' del normale}
 {5019}{}{ in un punto non protetto dall'armatura. Il combattente e' stato scaraventato al tappeto}
 {5020}{}{. Il colpo gli ha mozzato il fiato. Crolla al tappeto: e' fuori gioco}
 {5021}{}{. Sfortunatamente, adesso la sua spina dorsale e' visibile dal davanti}
@@ -695,9 +522,9 @@
 {5024}{}{. Il colpo lo fa cadere e gli manda in pezzi la gamba}
 {5025}{}{. Il colpo gli fa volare il ginocchio fino al paese piu' vicino. Ei cadde}
 {5026}{}{. L'intenso dolore dato dall'amputazione della gamba lo fa svenire}
-{5027}{}{. Il colpo gli infligge un po' di dolore extra}
+{5027}{}{. La violenza del colpo le causa un po' di dolore extra}
 {5028}{}{. Sfortunatamente per lui, il colpo lo ha accecato}
-{5029}{}{. Il colpo ha raggiunto un punto non protetto, il che provoca un intenso dolore}
+{5029}{}{. Il colpo ha raggiunto un punto non protetto, il che le causa intenso dolore}
 {5030}{}{, e rimane accecato da questo colpo micidiale}
 {5031}{}{. La perdita di un occhio e' troppo per lui, che cade per terra}
 {5032}{}{. Purtroppo adesso e' troppo impegnato a sentire le correnti d'aria che passano nel suo cervello per notare la morte che si avvicina}
@@ -706,11 +533,8 @@
 {5035}{}{. La mancanza di un'adeguata protezione lo fa cadere a terra in agonia}
 {5036}{}{. Il dolore e' troppo forte e crolla a terra come un sacco}
 {5037}{}{. Mormora "Mamma", mentre i suoi occhi si girano all'indietro}
-#
-# series 5100 - women
-#
 {5100}{}{. Fa veramente male}
-{5101}{}{. Una grave ferita e' stata inflitta}
+{5101}{}{. That inflicted some serious pain}
 {5102}{}{ in un punto non protetto dall'armatura}
 {5103}{}{. Il violento colpo la fa cadere senza sensi al suolo}
 {5104}{}{. Il colpo la manda al tappeto}
@@ -745,9 +569,6 @@
 {5133}{}{. Prende la cosa come farebbe un uomo. In parole povere, fa male}
 {5134}{}{. La manda KO}
 {5135}{}{. Mentre cade a terra come un sacco di patate si accorge che le sue future gravidanze sono in pericolo}
-#
-# series 5200 - children
-#
 {5200}{}{. Il bambino inizia a piangere}
 {5201}{}{. Svenuto, il bambino cade a terra}
 {5202}{}{. Ouchie!}
@@ -775,9 +596,6 @@
 {5224}{}{; il colpo arriva fino al giovane cervello}
 {5225}{}{. Il bambino sembra confuso e sconvolto}
 {5226}{}{; il colpo fa crollare a terra il giovane bersaglio}
-#
-# series 5300 - Super Mutants
-#
 {5300}{}{. Il colpo e' talmente potente da riuscire a ferire persino l'enorme mutante}
 {5301}{}{; ha centrato un punto vitale}
 {5302}{}{. Il colpo ha centrato un punto vitale e fa cadere il gigante al suolo}
@@ -800,9 +618,6 @@
 {5319}{}{. Il mutante accecato fa un passo indietro, impreparato per il prossimo attacco}
 {5320}{}{. Il colpo acceca il mutante, che sviene}
 {5321}{}{. Gli occhi del mutante emettono un bagliore per un attimo, poi la luce svanisce - per sempre}
-#
-# series 5400 - Ghouls
-#
 {5400}{}{. Il ghoul e' sorpreso, e non riesce a difendersi da questo attacco}
 {5401}{}{. Il colpo seppellisce il ghoul}
 {5402}{}{. Il braccio dello stupefatto ghoul vola via}
@@ -812,9 +627,6 @@
 {5406}{}{. Il ghoul non indossava un'armatura in quel posto}
 {5407}{}{. Dal momento che gli occhi non erano protetti, il ghoul rimane accecato}
 {5408}{}{. Il colpo rende confusi gli ultimi attimi di vita del ghoul}
-#
-# series 5500 - Brahmin
-#
 {5500}{}{; la grossa bestia crolla al suolo}
 {5501}{}{. Il colpo stordisce entrambi i cervelli e fa cadere il grosso animale}
 {5502}{}{. La mucca mutante emette un grido acuto e spaventato}
@@ -829,9 +641,6 @@
 {5511}{}{. Il Brahmin si scuote colmo di rabbia}
 {5512}{}{. Il Brahmin emette versi di dolore}
 {5513}{}{. Il Brahmin e' molto arrabbiato per il colpo devastante alle mammelle}
-#
-# series 5600 - Radscorpions
-#
 {5600}{}{. La violenza del colpo fa contorcere il Radscorpione su se stesso}
 {5601}{}{. La potenza del colpo stacca la testa dal carapace}
 {5602}{}{. La coda ne esce seriamente danneggiata}
@@ -849,9 +658,6 @@
 {5614}{}{. Se fosse un umano, diresti che e' abbastanza incazzato}
 {5615}{}{. La povera creatura non puo' far altro che perdere i sensi}
 {5616}{}{. La violenza del colpo fa volare il cervello sulle pareti}
-#
-# series 5700 - Rats
-#
 {5700}{}{. Il cranio del roditore emette vari suoni malsani}
 {5701}{}{. Il colpo spappola il cranio del roditore come un sacchetto di carta bagnato}
 {5702}{}{. La zampa sinistra adesso sembra un po' piatta}
@@ -865,9 +671,6 @@
 {5710}{}{. Adesso sulla gamba sinistra si puo' notare un bel cratere}
 {5711}{}{. La zona e' molto sensibile e il danno inferto e' quindi maggiore del normale}
 {5712}{}{. Il colpo spedisce questa creatura al grande Pifferaio nel cielo}
-#
-# series 5800 - Floaters
-#
 {5800}{}{. Il fluttuante cade a terra}
 {5801}{}{. Il fluttuante cade a terra, senza dare segni di vita}
 {5802}{}{. Il colpo avra' serie conseguenze per il prosieguo dell'esistenza della creatura}
@@ -879,9 +682,6 @@
 {5808}{}{. Il fluttuante ha delle violente scosse e trema come un budino alla vaniglia}
 {5809}{}{; il colpo colpisce una zona sensibile}
 {5810}{}{. La creatura e' chiaramente agitata}
-#
-# series 5900 - Centaurs
-#
 {5900}{}{. Strapazzato come un vecchio straccio, il centauro crolla a terra e sviene}
 {5901}{}{. Il colpo ha raggiunto un punto vitale}
 {5902}{}{. Il colpo causa uno shock intenso ai centri nervosi}
@@ -895,9 +695,6 @@
 {5910}{}{. Il colpo sorprende il centauro. Crolla come un sacco}
 {5911}{}{. Il colpo sorprende il centauro. Frana in un ammasso gelatinoso}
 {5912}{}{. Il colpo non ha ottenuto l'effetto che avrebbe dovuto}
-#
-# series 6000 - Robots
-#
 {6000}{}{; il colpo gli causa qualche danno strutturale}
 {6001}{}{. Volano scintille e il robot perde per un attimo il controllo}
 {6002}{}{. Il colpo ha centrato un componente critico e mette il robot fuori gioco}
@@ -912,9 +709,6 @@
 {6011}{}{. Il robot cerca di compensare, ma non ci riesce e cade a terra}
 {6012}{}{. Il robot arranca sotto il suo stesso peso, crollando a terra}
 {6013}{}{. Le lenti dei sensori sono in frantumi}
-#
-# series 6100 - Dogs
-#
 {6100}{}{; il colpo manda il cucciolo al tappeto}
 {6101}{}{. Proprio in mezzo al muso}
 {6102}{}{. Il cane cade a terra, ma respira ancora}
@@ -923,9 +717,6 @@
 {6105}{}{. La zampa e' stata spappolata. L'animale cerca di rimanere in piedi, ma non ci riesce}
 {6106}{}{. L'animale accecato ulula dal dolore}
 {6107}{}{. Il colpo ha castrato il povero animale}
-#
-# series 6200 - Manti
-#
 {6200}{}{. La violenza del colpo fa cadere a terra l'insetto mutante}
 {6201}{}{. L'insetto cade a terra}
 {6202}{}{. La mantide pondera se continuare a vivere o meno}
@@ -937,25 +728,16 @@
 {6208}{}{. Le ali sono rovinate}
 {6209}{}{. Il colpo trapassa la corazza di chitina e fa volare la Mantide}
 {6210}{}{. Il colpo acceca con precisione l'insetto}
-#
-# series 6300 - Deathclaw
-#
 {6300}{}{. Persino una bestia del genere sembra sconvolta da questo potente colpo}
 {6301}{}{. Il colpo oltrepassa i grossi artigli fino a colpire il mostro. Il Deathclaw trema e ruggisce}
 {6302}{}{. Ne risulta un grave danno agli occhi del Deathclaw}
-#
-# series 6400 - Spore Plant  # Was The Master
-#
 {6400}{}{. Il colpo supera le difese della pianta}
 {6401}{}{. La potenza del colpo le strappa un po' di foglie}
 {6402}{}{. La violenza del colpo le taglia un po' di fronde}
 {6403}{}{. Il colpo danneggia il dotto clorofilliano}
 {6404}{}{. Il contraccolpo fa volare via il polline}
-{6405}{}{. Il colpo la fa piegare su se stessa}
+{6405}{}{, almost tipping it over}
 {6406}{}{. Il colpo danneggia alcuni dei suoi rami}
-#
-# series 6500 - The Player
-#
 {6500}{}{. Avrai un bel mal di testa domani, se vivrai abbastanza a lungo}
 {6501}{}{. La tua armatura non fornisce protezione contro questo colpo ben mirato}
 {6502}{}{. Senti il dolore solo per un attimo, e poi l'oscurita' si impadronisce di te..}
@@ -983,40 +765,27 @@
 {6524}{}{. Ti metti le mani sul pube e crolli a terra in preda al dolore}
 {6525}{}{. Il dolore e' sufficiente a mandarti al tappeto. Ahia}
 {6526}{}{. Non ci sono abbastanza parole nell'universo per descrivere il dolore che stai provando in questo momento}
-# Fallout 2:
-#
-# series 6700 - Gecko
-#
 {6700}{}{; il colpo supera le difese del rettile}
 {6701}{}{. Il colpo e' violento e strappa un po' della sua pelle viscida}
 {6702}{}{. La violenza del colpo gli fracassa alcune dita}
 {6703}{}{. La sua capacita' di respirare e' compromesso}
 {6704}{}{. Il colpo gli ha fatto uscire tutto il ripieno}
-{6705}{}{. La potenza del colpo lo manda gambe all'aria}
+{6705}{}{, almost tipping it over}
 {6706}{}{. La violenza del colpo gli spezza un paio di arti}
-#
-# series 6800 - Alien
-#
 {6800}{}{. Il colpo supera le difese della creatura}
 {6801}{}{. Il colpo raschia un po' del muco che ricopre il corpo}
 {6802}{}{. Il colpo spappola alcuni dei suoi tentacoli a ventosa}
 {6803}{}{. Il colpo danneggia la sua presa d'aria (?)}
 {6804}{}{. Il colpo fa fuoriuscire le sue schifose interiora}
-{6805}{}{. Il colpo lo manda gambe all'aria}
+{6805}{}{, almost tipping it over}
 {6806}{}{. Il colpo danneggia alcuni dei suoi tentacoli}
-#
-# series 6900 - Giant Ant
-#
-{6900}{}{. Il colpo supera le difese della formica}
-{6901}{}{. La violenza del colpo le strappa le antenne}
-{6902}{}{. Il colpo le rompe alcune zampe}
-{6903}{}{: un bel danno per la sua salute}
-{6904}{}{. La formica e' a terra}
-{6905}{}{. Il colpo la manda gambe all'aria}
-{6906}{}{. Il colpo danneggia parte del suo esoscheletro}
-#
-# series 7000 - Gun Turret  -- WIP! Won't Work!
-#
+{6900}{}{, breaking past the ant's defenses}
+{6901}{}{, ripping some of its antennae off}
+{6902}{}{, breaking some of its feelers}
+{6903}{}{, damaging its health}
+{6904}{}{, knocking it around a bit}
+{6905}{}{, almost tipping it over}
+{6906}{}{, damaging some of its exoskeleton}
 {7000}{}{, breaking past the ant's defenses}
 {7001}{}{, ripping some of its antennae off}
 {7002}{}{, breaking some of its feelers}
@@ -1024,9 +793,6 @@
 {7004}{}{, knocking it around a bit}
 {7005}{}{, almost tipping it over}
 {7006}{}{, damaging some of its exoskeleton}
-#
-# Series 7100 - End Boss
-#
 {7100}{}{. Il colpo si fa largo nell'armatura della Guardia del Corpo}
 {7101}{}{. La violenza costringe la Guardia del Corpo sulle ginocchia}
 {7102}{}{. Il colpo gli distrugge il meccanismo di controllo del braccio}

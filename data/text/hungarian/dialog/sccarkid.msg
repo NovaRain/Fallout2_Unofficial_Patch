@@ -1,9 +1,8 @@
-# Dialog Editor last position: 1
 {100}{}{Egy taknyos orrú kiskölyköt látsz.}
-{101}{}{Ez Carlson alelnök kölyke.}
+{101}{}{It's Vice-President Carlson's kid.}
 {102}{}{Elkényeztetett kis törpének tûnik. Ja, és dagadtnak is.}
 {103}{}{Az én apán Carlson alelnök, úgyhogy jobb, ha rendes leszel hozzám. Ki vagy te?}
-{104}{}{[Player name]}
+{104}{}{[Player name]...}
 {105}{}{A papád egyik testõre vagyok.}
 {106}{}{Hol van a papád?}
 {107}{}{Látod ezt a kést? Nálad rendesebb kiskölyköket is kibeleztem már.}

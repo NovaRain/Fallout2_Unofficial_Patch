@@ -1,11 +1,10 @@
-# Dialog Editor last position: 21
 {100}{}{Ez egy igen-igen részeg figura. [A ruháján cédula lóg, miszerint "Ételért munkát vállalok."]}
-{101}{}{Karl.}
+{101}{}{You see Karl.}
 {102}{}{A jóember olyan mosdatlan, hogy a hajából vadvirágok nõnek.}
 {150}{}{Tessék, igyon egy sört.}
 {151}{}{Tessék, igyon egy kis kerítésszaggatót.}
 {152}{}{Tessék, igyon egy Nuka-Kólát.}
-{153}{}{Hahó.}
+{153}{}{Hé!}
 {154}{}{Hé!}
 {155}{}{HÉKÁS!!}
 {156}{}{A kísértetek itt nem találnak rám... [zokog]}
@@ -25,13 +24,13 @@
 {173}{}{Bocs, nincs semmim a maga számára. Üdv!}
 {174}{}{Tudja, merre találhatnék egy ÉLET-et?}
 {175}{}{Valami kertrõl beszélt az imént. Meséljen többet róla!}
-{178}{}{Menek.}
+{178}{}{Én menni elfele.}
 {179}{}{Jaj, de zsugori valaki! (hukk) Ugyan már, van magának pénze... (hukk) Csak egy kis aprót... (hukk) valamit, bármit! Legyen már együttérzõbb kicsit!}
 {180}{}{Tessék. Itt van 25 dollár.}
 {184}{}{Tessék. Itt van 1 dollár.}
 {185}{}{Fog pénz.}
 {186}{}{Nincs pénz.}
-{187}{}{Mit akar?}
+{187}{}{Mit akarsz?}
 {188}{}{[Elmondod Karlnak Jo üzenetét.]}
 {189}{}{Kísértetek, Karl... mindenütt ott vannak. Nézze csak, ott is van egy!}
 {190}{}{Gibba gibba.}
@@ -55,16 +54,18 @@
 {215}{}{Egy ÉLET-et keresek. Tud segíteni?}
 {216}{}{Hagyja csak. Viszlát máskor, Karl.}
 {217}{}{Ööö... (hukk) Most nem vagyok igazán éhes... (hukk) Mi lenne, ha nekem adná a pénzt és késõbb elhoznám? (hukk)}
-{219}{}{Maga kis szégyenletes... Fogadjunk drogra gyûjti a pénzt, nem igaz?}
+{219}{}{You shyster. I'll bet you use the money you collect to buy drugs, don't you?}
 {220}{}{Szégye... Egyen... Széle... akármi is gyött ki a száján... (hukk) Szívja vissza... (hukk) Akármi is legyen, jót nem jelenthet.}
 {221}{}{[Mielõtt érdemben válaszoltál volna, Karl arccal elõreesik és elájul.]}
 {222}{}{Nem tesssszz semmit... (hukk) Gondolom, nincs magánál semmilyen folyékony friss-(hukk)-ítõ. Éjszakánként mocskos (hukk) hideg tud lenni.}
 {224}{}{Maga aztán (hukk) a legeslegjobbacska barátom ebben az egész (hukk) átkozott világban. [Karl nekilát a folyékony frissítõ elfogyasztásának, de ennél a pontnál egyszerûen elájul.]}
 {225}{}{Ó, igen, talán késõbb szóra lehet bírni Karlt.}
-{226}{}{Maga aztán (hukk) a legeslegjobbacska barátom ebben az egész (hukk) átkozott világban. [Karl kinyitja az üveget, és nekilát a folyékony frissítõ elfogyasztásának, de ennél a pontnál hirtelen rádköpi a kortyot.] Pfúj. Mi a retek ez? Meg akar mérgezni? Tûnjön innen!}
+{226}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl opens the bottle
+ and proceeds to drink -- and then proceeds to yark all over you.] Ptui! What the-?! Are you trying to
+ poison me or something?! Get out of here!}
 {227}{}{Hát köszönöm (hukk). Maga olyan (hukk) jólelkû. Miért is nem segítek magának? Biztos fárasztó cipelni azt a degeszre tömött erszényt! [Karl belenyúl az erszényedbe, és zsebrevágja a fele pénzed.] Maga aztán nagylelkû a javából, ha valamire szüksége van, ne habozzon felkeresni.}
 {228}{}{ÉLET?}
-{229}{}{Menek.}
+{229}{}{Én megy.}
 {230}{}{Csõ... (hukk) Tényleg, kéne csövelni egyet.}
 {231}{}{Akkor talán késõbb.}
 {232}{}{Azta... (hukk) ...köszi. Talán tudok venni egy (hukk) egy töltényt, amit a fejembe röpíthetek. (hukk) Persze elõbb jó lenne, ha (hukk) egy pisztolyra is tellne.}
@@ -84,7 +85,7 @@
 {246}{}{[Te és Karl besurrantok a közeli ajtón egy gyors menetre. Meglepetten tapasztalod, hogy kifejezetten jól esett.]}
 {247}{}{[Hamar kijózanodik, és elkezdi mesélni a közelmúlt eseményeit.] Mielõtt idejöttem volna, egész ígéretes termelõ voltam. Békésen szántottam-vetettem, mint bárki más, mígnem egy éjszaka feltûntek. Piszkos fehér bõrük volt és mind fluoreszkált... hát majd' be rosáltam a látványtól. Minden éjszaka elõjöttek és válogatás nélkül dézsmálták a terményt meg az állatállományt. Semmit nem tehettem ellenük. Most tudom, mit fog mondani: "Miért nem kért segítséget?". Hát elmondom, hogy kértem, de senki nem hitt nekem, azt hitték meghülyültem. A végén aztán nem bírtam tovább. ELEGEM LETT! Fogtam a cuccost és úgy otthagytam õket, hogy a lábam nem érte a földet. Na, azóta itt vagyok. [Karl egyszercsak reménytelenül sírni kezd. Úgy döntesz, jót fog tenni neki egy kis magány, és békén hagyod.]}
 {248}{}{Ó a francba. Valahol elhagytam a pénzemet. Itt van }
-{249}{}{ dollár.}
+{249}{}{ vagyok.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}

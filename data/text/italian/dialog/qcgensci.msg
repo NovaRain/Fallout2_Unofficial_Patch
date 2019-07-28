@@ -39,7 +39,7 @@
 {138}{}{Dev'essere un'altra esercitazione della sicurezza.}
 {139}{}{Ma quei soldati non si stancano mai di tutte queste esercitazioni?}
 {140}{}{Non di nuovo - questa e' la seconda volta, questo mese.}
-{141}{}{Ne ho fin sopra i capelli di quelle zucche vuote.} ###???jar head
+{141}{}{Ne ho fin sopra i capelli di quelle zucche vuote.}
 {142}{}{Loro *devono* sentirsi importanti, non ne possono fare a meno.}
 {143}{}{Che perdita di tempo.}
 {144}{}{Come se ci potesse essere un intruso, qui dentro.}
@@ -47,12 +47,12 @@
 {146}{}{Credono forse che se fosse entrato un intruso non ce ne accorgeremmo?}
 {147}{}{Un altro guasto all'allarme. Splendido.}
 {148}{}{Non ho tempo per queste stronzate.}
-{149}{}{Che cosa vuoi?}
+{149}{}{Cosa vuoi?}
 {150}{}{Non vedi che sto lavorando?}
 {151}{}{Va' via. Sono occupato.}
 {152}{}{Non hai niente di meglio da fare?}
 {153}{}{Non mi ricordo di aver chiesto nessuna cavia.}
-{154}{}{Che cosa diavolo vuoi?}
+{154}{}{Cosa diavolo vuoi?}
 {155}{}{Sparisci.}
 {156}{}{Va' a infastidire qualcun altro.}
 {157}{}{Si'?}

@@ -1,4 +1,4 @@
-{100}{}{Számítógép-terminál.}
+{100}{}{Egy számítógép-terminált látsz.}
 {101}{}{A hangmodul interfész-terminálja.}
 {102}{}{Egy átlagos, hétköznapi számítógép-terminált látsz, hangmodullal kiegészítve.}
 {103}{}{Megvizsgálod a gépet, de semmi érdekeset nem találsz. Mit teszel?}
@@ -7,7 +7,9 @@
 {106}{}{Lefuttatom a diagnosztikát.}
 {107}{}{Szétszedem, és belenézek.}
 {108}{}{Békén hagyom.}
-{109}{}{Egy ideig bámulod a konzolt, majd kiválasztod a legjobb helyet az ütés számára. Miután elhelyezted rajta a 'mindent megoldó' ütést, a monitor néhányat villan, és helyreáll a kép. Más nem történt. Mit teszel?}
+{109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
+ it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
+ no other effect. What do you do?}
 {110}{}{'Spéci' rúgást mérek rá.}
 {111}{}{Lefuttatom a diagnosztikát.}
 {112}{}{Szétszedem, és belenézek.}
@@ -20,19 +22,17 @@
 {119}{}{Már csak egy dolog maradt hátra: belenézni.}
 {120}{}{Békén hagyom.}
 {121}{}{Ahogy beletúrsz a kábelrengetegbe, a kártyák közé, észreveszed, hogy a rendszert szándékosan tönkretették. Az egyik kártya, a hangazonosító modul, javításra szorul, ki kell cserélni. Már csak keresni kell egy pótkártyát.}
-{122}{}{[Kész]}
-{123}{}{[Kész]}
+{122}{}{Megbeszéltük.}
+{123}{}{Megbeszéltük.}
 {124}{}{Miután belehelyezted a modult a terminálba, a rendszer megjavult.}
 {125}{}{Ha esetleg használni szeretnéd a terminált, telepítened kell egy hangmodult.}
-{126}{}{[Kész]}
+{126}{}{Megbeszéltük.}
 {127}{}{A rendszer jól mûködik.}
-
 {128}{}{Hozzáférés a biztonsági naplóhoz, holografikus felvétel betöltése...}
-
 {129}{}{Te vagy az utolsó, Gruthar. A hozzád hasonló szennyet hamarosan kiirtjuk a világból.}
 {130}{}{Mondd meg az úgynevezett "Elnöködnek", hogy ezt keservesen megbánja!}
 {131}{}{Jártasd csak a szád! Soha nem voltál több egy beszélõ állatnál!}
-{132}{}{Lehet, de mi a kutatásaitokból születtünk. Ti adtatok életet nekünk!}
+{132}{}{That may be, but we were created through your experimentation. You gave us life!}
 {133}{}{Most majd halált adok.}
 {134}{}{Hozdd a testét! A dokinak kell egy kis minta.}
 {135}{}{Úgy folyik majd a vérük, mint a Nílus!}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 10
 {100}{}{Egy alig felöltözött férfit látsz.}
 {101}{}{Kaga.}
 {103}{}{Az illetõ ágyékkötõt visel, és úgy néz ki, mintha valami törzs tagja lenne.}

@@ -12,7 +12,7 @@
 {111}{}{Joshua, sono cosi' contenta che tu sia libero. Ero cosi' preoccupata...}
 {112}{}{Mi dispiace, non ho soldi da darti.}
 {113}{}{Per favore, lasciami in pace, o chiamero' le guardie.}
-{114}{}{Che cosa vuoi?}
+{114}{}{Cosa vuoi?}
 {115}{}{Tutto a posto? Sembri sconvolta.}
 {116}{}{Niente. Scusa se ti ho disturbata.}
 {117}{}{Io... beh, io... si tratta di Joshua, mio marito. Lui... si e' cacciato in qualche guaio... giu' al bar. Ha colpito per sbaglio un Cittadino ed e' stato arrestato. Non voleva farlo, ma aveva bevuto, e...}
@@ -39,7 +39,7 @@
 {138}{}{Non preoccuparti. Vedro' quello che posso fare.}
 {139}{}{Ma non ho molti soldi e...}
 {140}{}{Non stavo pensando ai soldi.}
-{141}{}{Non importa. Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
+{141}{}{Come non detto. Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
 {142}{}{Mi dispiace per voi, allora. Forse lo lasceranno andare. Addio.}
 {143}{}{Cosa intendi di...? Oh, no. Io... non potrei mai. Cioe', io...}
 {144}{}{Vuoi che tuo marito venga liberato o no? Lui non lo verra' mai a sapere.}

@@ -1,4 +1,3 @@
-# Dialod Editor last position: 12
 {100}{}{Háziasított brahmin.}
 {101}{}{A tehenek ki voltak téve a sugárzás káros hatásainak, ezért egyel több fejük nõtt. Így lett a tehenekbõl brahmin.}
 {102}{}{Semmi különöset nem veszel észre a brahminon.}

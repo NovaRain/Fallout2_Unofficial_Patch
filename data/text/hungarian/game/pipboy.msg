@@ -1,32 +1,16 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used in PIPBOY.C
-#
-# (These MUST match "text message" enumeration on the top of PIPBOY.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-#
-# Special holiday dates
-#
-{100}{}{Boldog új évet!}            # New years
-{101}{}{Boldog Valentin napot!}     # April fools (Hehe, ezt elírták :)
-{102}{}{Kellemes bolondok napját!}  # April fools
-{103}{}{Boldog játékkiadási évfordulót!}            # Shipping day!
-{104}{}{Boldog függetlenség napját!}# Independence day
-{105}{}{Boldog mindenszenteket!}    # Halloween
-{106}{}{Boldog hálaadást!}          # Thanksgiving
-{107}{}{Boldog karácsonyt!}         # X-mas
-
-#
-# System messages
-#
+{100}{}{Boldog új évet!}
+{101}{}{Boldog Valentin napot!}
+{102}{}{Kellemes bolondok napját!}
+{103}{}{Boldog játékkiadási évfordulót!}
+{104}{}{Boldog függetlenség napját!}
+{105}{}{Boldog mindenszenteket!}
+{106}{}{Boldog hálaadást!}
+{107}{}{Boldog karácsonyt!}
 {200}{}{TOVÁBB}
 {201}{}{VISSZA}
 {202}{}{STÁTUSZ}
 {203}{}{Nincs feladat.}
-{204}{}{NYOMOK}  # clues gone
+{204}{}{NYOMOK}
 {205}{}{TÉRKÉPEK}
 {206}{}{VIDEO ARCHÍVUM}
 {207}{}{ADATOK}
@@ -36,14 +20,10 @@
 {211}{}{ADATOK}
 {212}{}{/}
 {213}{}{oldal}
-{214}{}{RENDBEN}
+{214}{}{KÉSZ}
 {215}{}{Ezen a helyen nem pihenhetsz!}
-
-#
-# Alarm clock
-#
 {300}{}{ÉBRESZTÕÓRA}
-{301}{}{Életerõ}
+{301}{}{Életpont}
 {302}{}{10 percnyi pihenés}
 {303}{}{30 percnyi pihenés}
 {304}{}{1 órányi pihenés}
@@ -58,10 +38,6 @@
 {313}{}{Pihenés éjfélig (00:00)}
 {314}{}{Pihenés gyógyulásig}
 {315}{}{Pihenés a csapat gyógyulásáig}
-
-#
-# Holodisk titles
-#
 {400}{}{13-as Menedék Hololemez}
 {401}{}{Katonai bázis, felszín}
 {402}{}{Katonai bázis, 1-es szint}
@@ -74,7 +50,7 @@
 {409}{}{Sierra raktár GHH másolat}
 {410}{}{Sierra raktár Feladatok}
 {411}{}{Hubologista tanok}
-{412}{}{Menedékváros készítõk}
+{412}{}{Vault City Designer Notes}
 {413}{}{Menedékváros Útikalauz}
 {414}{}{ÚKK Kém hololemez}
 {415}{}{ÚKK Történeti hololemeze}
@@ -83,12 +59,7 @@
 {418}{}{Szavak listája}
 {419}{}{A Projekt}
 {420}{}{Erõmû üzemeltetés}
-
-#
-# Movie archive titles
-# Order must match the list (see gmovie.h)
-#
-{500}{}{InterPlay Logo}               # Not shown in Pipboy
+{500}{}{InterPlay Logo}
 {501}{}{Intró}
 {502}{}{A törzsfõ beszéde}
 {503}{}{Menedékruha megszerzése}
@@ -105,44 +76,27 @@
 {514}{}{Arroyo álom 3}
 {515}{}{Arroyo álom 4}
 {516}{}{Stáblista}
-
-#
-# Things for the Mac version to speak
-#
-#
 {600}{}{Státusz}
-{601}{}{Nyomok}  # Clues gone
+{601}{}{Nyomok}
 {602}{}{Térképek}
 {603}{}{Archívum}
 {604}{}{Ébresztõ óra}
 {605}{}{Dú da dú da dám di di dúdli dú dám dám dám dú da dú da dú da dú da dú da dú da dú}
-{606}{}{Üdvözöli Önt a Rob Co Pipboy 2000.}
-{607}{}{Viszlát!}
+{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{607}{}{Ég áldja!}
 {608}{}{Ébresztõ!}
-
-
-#
-# Status thread text
-#
-# Format:
-# 0 City name
-# 1 ... 9 thread/quest name
-#
-{700}{}{Menedék 13}
+{700}{}{13-as Menedek}
 {701}{}{Calm rebel faction.}
 {702}{}{Destroy the Mutant leader.}
 {703}{}{Destroy the source of the Mutants.}
 {704}{}{Find the Water Chip.}
 {705}{}{Find the Water Thief.}
-#
 {710}{}{Buried Vault}
-#
 {720}{}{Shady Sands}
 {721}{}{Cure Jarvis of Radscorpion Poison.}
 {722}{}{Make Poison Antidote.}
 {723}{}{Rescue Tandi from the Raiders.}
 {724}{}{Stop the Radscorpions.}
-#
 {730}{}{Junktown}
 {731}{}{Help Saul.}
 {732}{}{Kill Killian.}
@@ -150,30 +104,23 @@
 {734}{}{Save Trish.}
 {735}{}{Stop Gizmo.}
 {736}{}{Bust the Skulz gang.}
-#
-{740}{}{Raiders}
-#
+{740}{}{Fosztogatok tabora}
 {750}{}{Necropolis}
 {751}{}{Destroy the Super Mutants at the Watershed.}
 {752}{}{Fix the Necropolis water pump.}
-#
 {760}{}{Hub}
 {761}{}{Destroy Deathclaw.}
 {762}{}{Dispose of Jain.}
 {763}{}{Dispose of merchant.}
 {764}{}{Find the missing caravans.}
 {765}{}{Steal necklace from the Merchants.}
-#
-{770}{}{Brotherhood}
+{770}{}{Testvériség}
 {771}{}{Become an Initiate.}
 {772}{}{Rescue Initiate from the Hub.}
-#
-{780}{}{Military Base}
-#
-{790}{}{Glow}
+{780}{}{Katonai bazis}
+{790}{}{Izzás}
 {791}{}{Disarm Traps for the Facility.}
 {792}{}{Turn on power for the Glow.}
-#
 {800}{}{Boneyard}
 {801}{}{Become a Blade.}
 {802}{}{Deliver Locket for Romero.}
@@ -182,23 +129,12 @@
 {805}{}{Fix hydroponic farms in Adytum.}
 {806}{}{Rescue Jason Zimmerman.}
 {807}{}{Stop the Gangs from attacking Adytum.}
-#
-{810}{}{Cathedral}
-
-
-#
-# Holodisk text
-#
-
-# GVAR_ÚKK_FAKE_VAULT13_HOLODISK
-#
+{810}{}{Katedrális}
 {1000}{}{13-as Menedék HOLO Ziggytõl}
 {1001}{}{**END-PAR**}
-{1002}{}{Ez a hololemez megmutatja a 13-as Menedék helyét.  }
+{1002}{}{This holodisk gives the location of Vault 13. The       }
 {1003}{}{A pontos hely megjelent a térképeden.              }
 {1004}{}{**END-DISK**}
-# *** ***
-# GVAR_HOLODISK_MB_OUTSIDE
 {2000}{}{Címzett: Központ}
 {2001}{}{A kutatóink befejezték a minta vizsgálatát, melyet a}
 {2002}{}{bázisban találtunk, és 99%-osan tisztának bizonyult.}
@@ -208,13 +144,9 @@
 {2006}{}{veszteségeket szenvedtünk. Elrendeltem a bázis eva-}
 {2007}{}{kuálását. Amint mindenki kint lesz, felrobbantjuk a}
 {2008}{}{bejáratot, és ezzel bezárjuk a szerencsétlen munká-}
-{2009}{}{sokat.}
-{2010}{}{}
-{2011}{}{Sanders ezredes}
-{2012}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_1
+{2009}{}{}
+{2010}{}{Colonel Sanders}
+{2011}{}{**END-DISK**}
 {3000}{}{Pickard kapitány jelentkezik az 1-es megfigyelõpont-}
 {3001}{}{ról. A 2-es és 3-as pontokkal megszakadt a kapcsolat.}
 {3002}{}{A legrosszabbat feltételezhetjük. A szörnyek csak úgy}
@@ -222,9 +154,6 @@
 {3004}{}{kozás csõdöt mondott. Megpróbáljuk feltartani õket,}
 {3005}{}{ameddig csak tudjuk.}
 {3006}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_2
 {4000}{}{A 3-as megfigyelõpont támadás alatt áll. Elõvigyáza-}
 {4001}{}{tosságból lekapcsoltuk a bázis felvonóit, de hallom,}
 {4002}{}{ahogy másznak fel az aknán át. Szent ég! Óriási,}
@@ -234,9 +163,6 @@
 {4006}{}{mászik elõ az aknából, mire a lelõttek is felkelnek,}
 {4007}{}{és csak egyre jönnek tovább! Küldjetek erõ...}
 {4008}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_3
 {5000}{}{Bracks õrmester jelentkezik a 3-as megfigyelõpontról.}
 {5001}{}{Minden rendben, pont mint tegnap és tegnapelõtt. Nem}
 {5002}{}{tudom, miért kell õriznünk ezeket a nyomorult bányá-}
@@ -248,11 +174,9 @@
 {5008}{}{helyrõl. A hideg futkos a hátamon. Egy pillanat, újabb}
 {5009}{}{rakomány jön föl a bányából. Atyaisten! Mik ezek?}
 {5010}{}{Lerohannak minket! Küldjetek segítséget! Ismétlem, ez}
-{5011}{}{a 3-as megfigyelõpont. Küldjetek se...}
+{5011}{}{our position! Send help! Repeat, this is; check point 3}
 {5012}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_4
+{5013}{}{**END-DISK**}
 {6000}{}{Az ásatás a tervek szerint halad. A bázis régi terv-}
 {6001}{}{rajzai alapján hamarosan el kell érnünk a vírusmedencék}
 {6002}{}{termét. A FEV vírus nagyobb mértékben mutatható ki}
@@ -261,16 +185,15 @@
 {6005}{}{Enklávét, hogy hamarosan kapnak egy tiszta mintát}
 {6006}{}{a mutagénbõl.}
 {6007}{}{**END-PAR**}
-#
 {6008}{}{Emellett észrevettem néhány változást a bányászokon.}
 {6009}{}{Növekvõ erõ és állóképesség jeleit mutatják, és a bõr-}
 {6010}{}{színük alig láthatóan megváltozott. A FEV okozta mutá-}
 {6011}{}{ció összetéveszthetetlen tünetei. Az emberek kezdenek}
-{6012}{}{idegesek lenni. Õk is észrevették a változásokat. Bár}
-{6013}{}{megkettõztem az õrséget, félek, hogy ha a munkások}
-{6014}{}{teljesen átmutálódak, jelentõs fölényben lesznek.}
-{6015}{}{Remélem, hogy mivel a helyi lakosokat dolgoztatjuk, tel-}
-{6016}{}{jes mutáció nem fog bekövetkezni, hacsak nem kerülnek}
+{6012}{}{nervous, as they too have noticed the change. Although}
+{6013}{}{I've increased the number of guards, I fear if the}
+{6014}{}{workers completely mutate, we'll be vastly outnumbered.}
+{6015}{}{It is my hope, that since we are using the local}
+{6016}{}{inhabitants as a work force, full mutation won't occur}
 {6017}{}{közvetlenül egy tiszta vírusforrásba vagy kapcsolatba}
 {6018}{}{valami tartósan fertõzõ dologgal. Ha emlékszel, csak}
 {6019}{}{kis mennyiségben találtunk vírust a térségben. Az itt}
@@ -284,7 +207,6 @@
 {6027}{}{bányászokat a bázisba, és miután mi már végeztünk, }
 {6028}{}{meggátolna másokat a vírus megszerzésében.}
 {6029}{}{**END-DISK**}
-#
 {7000}{}{Sierra hadiraktár - K & F}
 {7001}{}{Gondozó orvos - Dr. H. Lector}
 {7002}{}{Személyes napló}
@@ -308,7 +230,7 @@
 {7020}{}{**END-PAR**}
 {7021}{}{2077. június 30.}
 {7022}{}{Az egyik páciensen kipróbáltam egy új drogkoktélt}
-{7023}{}{Buffout-ból és Pszichóból, összekeverve egy kis}
+{7023}{}{on one of my patients, mixed with some special}
 {7024}{}{speciális hatásnövelõvel, amivel mostanában ját-}
 {7025}{}{szadozom. A hatás ígéretes. Az alany iszonyatosan}
 {7026}{}{agresszív lett és sikerült kitörnie a cellájából.}
@@ -345,7 +267,7 @@
 {7057}{}{mert még össze szeretném gyûjteni az elvihetõ kuta-}
 {7058}{}{tási anyagaimat.}
 {7059}{}{**END-DISK**}
-#
+{7060}{}{**END-DISK**}
 {8000}{}{2077. július 5.}
 {8001}{}{Sierra hadiraktár - Gyengélkedõ}
 {8002}{}{Gondozó orvos - Dr. Solomon}
@@ -354,7 +276,7 @@
 {8005}{}{**END-PAR**}
 {8006}{}{A beteg megpróbált egy támadó aknát élesíteni a}
 {8007}{}{raktárban. Az eszköz a Sierra hadiraktár evakuációs}
-{8008}{}{védelmét szolgálta volna, de idõ elõtt felrobbant,}
+{8008}{}{evacuation defenses. Mine detonated prematurely,}
 {8009}{}{súlyosan megsebesítve ezzel Dixon tizedest és}
 {8010}{}{Clifton tábornokot. Dixon tizedes súlyos sebeket}
 {8011}{}{szerzett a karjain, a mellkasán és az arcán. Jobb}
@@ -372,9 +294,9 @@
 {8023}{}{gél nagyon ígéretesnek tûnik élõ sejtek növekedésé-}
 {8024}{}{nek stimulálására. Sajnálatos módon a jelenlegi}
 {8025}{}{körülmények között lehetetlen az új zselé ered-}
-{8026}{}{ményes tesztelése.}
+{8026}{}{It is, however, unfortunate to test this new gel}
 {8027}{}{**END-DISK**}
-#
+{8028}{}{**END-DISK**}
 {9000}{}{2077. július 9.}
 {9001}{}{Sürgõs közlemény}
 {9002}{}{Általános postázás}
@@ -385,21 +307,19 @@
 {9007}{}{befejezni. Az utasításokat mindenki a saját részleg-}
 {9008}{}{vezetõjétõl kapja ez ügyben. A fennmaradó idõben a}
 {9009}{}{biztonsági intézkedések szigorodnak; a személy-}
-{9010}{}{azonosító jelvény viselése mindenkinek egész nap}
+{9010}{}{strictly enforced; ID badges must be worn}
 {9011}{}{kötelezõ.}
 {9012}{}{}
 {9013}{}{Clifton ezredes parancsa}
 {9014}{}{**END-DISK**}
-
-# Sierra Base Mission Statement
-{10000}{}{Sierra hadiraktár}
+{10000}{}{Sierra hadiraktar}
 {10001}{}{Feladat-meghatározás 1942 - 1991}
 {10002}{}{Elegendõ hadianyag raktározása és karbantartása}
 {10003}{}{védelmi célra. Invázió esetén a Sierra hadiraktár}
 {10004}{}{köteles segítséget nyújtani a szomszédos katonai}
 {10005}{}{bázisoknak, biztosítva azok megfelelõ felszereltségét.}
 {10006}{}{**END-PAR**}
-{10007}{}{Sierra hadiraktár}
+{10007}{}{Sierra hadiraktar}
 {10008}{}{Feladat meghatározás 1992 - 2050}
 {10009}{}{A raktár felelõs a fölösleges és mai harcászati célok-}
 {10010}{}{ra nem megfelelõ hadianyagokat tartalmazó raktárak}
@@ -408,7 +328,7 @@
 {10013}{}{Környezetvédelmi Ügynökséggel (KVÜ), a hadianyagok}
 {10014}{}{elrendezésének tisztább, zöldebb megoldásáért.}
 {10015}{}{**END-PAR**}
-{10016}{}{Sierra hadiraktár}
+{10016}{}{Sierra hadiraktar}
 {10017}{}{Feladat meghatározás 2050 - 2076}
 {10018}{}{TITKOSÍTOTT}
 {10019}{}{5-ös szintû engedély szükséges}
@@ -417,15 +337,13 @@
 {10022}{}{robotokat, valamint biológiai- és hagyományos fegy-}
 {10023}{}{vereket fogunk fejleszteni valamint tesztelni.}
 {10024}{}{**END-PAR**}
-{10025}{}{Sierra hadiraktár}
+{10025}{}{Sierra hadiraktar}
 {10026}{}{Feladat meghatározás 2077}
 {10027}{}{Képzett személyzet hiánya miatt a Sierra hadiraktárat}
 {10028}{}{automatikus védelmû bázissá alakítjuk át. A személyze-}
-{10029}{}{tet átirányítjuk a szomszédos bázisokba, vagy kiküldjük}
-{10030}{}{az elsõ frontvonalra.}
+{10029}{}{personnel are to be relocated to neighboring}
+{10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
-
-# Sierra Base GNN Transscript
 {11000}{}{Galaxis Hírhálózat}
 {11001}{}{2073. január 11-ei adás másolata}
 {11002}{}{A mai csúcshír itt a GHH-n. Az Egyesült Államoknak}
@@ -437,7 +355,7 @@
 {11008}{}{óriási verseny kezdõdött a megfelelõ módszer ki-}
 {11009}{}{fejlesztésére, hogy az olajat kinyerhessék. A GHH}
 {11010}{}{büszkén jelenti, hogy mi lettünk az elsõk a ver-}
-{11011}{}{senyben, így az olajmezõ az Amerikai Egyesült}
+{11011}{}{are proud to announce that the US is the first to do}
 {11012}{}{Államok tulajdonába került.}
 {11013}{}{Szabad a pálya, Amerika!}
 {11014}{}{**END-PAR**}
@@ -495,7 +413,7 @@
 {11066}{}{ta ma a 112. Super Bowl döntõjét. A mérkõzés végig}
 {11067}{}{rendkívül szoros volt, de IV J. Montanának sikerült}
 {11068}{}{megmentenie a helyzetet egy 5 yardos vonalról való}
-{11069}{}{befutással, így szerezve meg a nyertes touch down-t a}
+{11069}{}{to score the winning touchdown during the final seconds}
 {11070}{}{meccs utolsó másodperceiben. A végeredmény: 95 - 90,}
 {11071}{}{mellyel, az Anaheim Jets nyerte a 112. Super Bowl kupát.}
 {11072}{}{**END-PAR**}
@@ -512,8 +430,8 @@
 {11083}{}{2076. március 30-ai adás másolata}
 {11084}{}{Az elnök ma a teljes Csendes-Óceáni Flottát a Poseidon}
 {11085}{}{mélytengeri fúrótoronyhoz rendelte, melynek pontos he-}
-{11086}{}{lye titkos. Nyilatkozatában aggodalmát fejezte ki a kí-}
-{11087}{}{nai flotta hadgyakorlatai miatt, melyek helyszíne "elfo-}
+{11086}{}{location out in the Pacific. He cited concerns over}
+{11087}{}{military exercises staged by the Chinese fleet that are}
 {11088}{}{gadhatatlanul közel van a stratégiai olajkészleteink-}
 {11089}{}{hez." A kínai vezetés tagadta az ellenséges szándékot.}
 {11090}{}{**END-PAR**}
@@ -528,7 +446,7 @@
 {11099}{}{elnöknek igenis legyenek ilyen viszonyai.}
 {11100}{}{**END-PAR**}
 {11101}{}{Galaxis Hírhálózat}
-{11102}{}{2077. október 10-ei adás másolata}
+{11102}{}{Transcript of Broadcast October 10, 2077}
 {11103}{}{HÁBORÚ! Kína megtámadta Alaszkát, hadat üzenve ezzel}
 {11104}{}{az Egyesült Államoknak! Az USA ugyan tiltakozott, hogy}
 {11105}{}{az ENSZ tanácsa figyelmen kívül hagyta az agresszió}
@@ -540,21 +458,18 @@
 {11111}{}{a szabadságért és a Mami Almáspitéjéért.}
 {11112}{}{**END-PAR**}
 {11113}{}{Galaxis Hírhálózat}
-{11114}{}{2077. október 22-ei adás másolata}
+{11114}{}{Transcript of Broadcast October 22, 2077}
 {11115}{}{Hála a fegyveres erõk bátor katonáinak és az újonnan}
 {11116}{}{kifejlesztett energiameghajtású páncélruháknak, az}
 {11117}{}{Egyesült Államok seregei visszaverték a kínai megszál-}
-{11118}{}{lókat. Az üzemanyag hiányától megbénult ellenséget egé-}
+{11118}{}{fuel, the invaders have been pushed back to their}
 {11119}{}{szen fõvárosukig, Pekingig szorították vissza katonáink.}
 {11120}{}{**END-DISK**}
-
-
-# Elron Bible
 {12000}{}{Üdvözöllek!}
-{12001}{}{A Hubológia címû hololemezt tartod a kezedben! Ezeken}
+{12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
 {12002}{}{az elektronikus oldalakon rövid leírást találsz a hitünk-}
 {12003}{}{rõl, belelértve a Hub tanításainak újbóli kiadását. A}
-{12004}{}{hololemez nem hivatott a Hubológia egészét bemutatni,}
+{12004}{}{This holodisk isn't meant to represent the final word on}
 {12005}{}{tekintsd csupán a témakör ábécéskönyvének, ahogyan}
 {12006}{}{minket a te szellemi õrzõidnek.}
 {12007}{}{**END-PAR**}
@@ -571,10 +486,9 @@
 {12018}{}{a vallás bukásának csakúgy, mint a kormány bukásának.}
 {12019}{}{Jól tudta, hogy a világnak valami újra van szüksége... a}
 {12020}{}{világnak a Hubológia kellett. Az idõ szavától és föl-}
-{12021}{}{dönkívüli lényekkel való találkozásoktól hajtva útra}
+{12021}{}{time and his own personal experience with extraterrestrial}
 {12022}{}{kelt, hogy megmutassa, miképp tartsuk mozgásban az ég}
 {12023}{}{kerekeit, hogyan értsük meg az Élet Nagy Kerekét.}
-#Ez nagyon hosszu volt, kilogott (bass)
 {12024}{}{**END-PAR**}
 {12025}{}{Úgy hívjuk õt, hogy Hub, mivel rajta keresztül értettük}
 {12026}{}{meg a saját helyünket a Kerékben - Õ a mi középpontunk}
@@ -675,7 +589,7 @@
 {12121}{}{**END-PAR**}
 {12122}{}{És fel is ébredt a Föld nevû bolygón, ahogyan más plané-}
 {12123}{}{tákon is szerte a világegyetemben. (Mi a Földön született}
-{12124}{}{életre koncentrálunk, mivel bár hisszük, hogy egyszer új-}
+{12124}{}{arose on Terra, for while we believe that we will once }
 {12125}{}{ra csillagtestvéreinkkel együtt gyógyíthatjuk a Kerék}
 {12126}{}{görbe küllõit, elõször arra kell koncentrálnunk, hogy mi}
 {12127}{}{magunk is hasznos küllõk legyünk.) Az új életet megfer-}
@@ -770,10 +684,9 @@
 {12216}{}{kultuszt és A jövõ könyvei, amelyeket halálom után}
 {12217}{}{írok.)}
 {12218}{}{**END-DISK**}
-
 {13000}{}{VAULT CITY DESIGNER NOTES}
 {13001}{}{**END-PAR**}
-{13002}{}{Menedékváros sokat változott. Leonard Boyarsky, Jason}
+{13002}{}{Vault City went through many incarnations. It was}
 {13003}{}{Anderson, Feargus Urquhart, és Chris Avellone tervezte.}
 {13004}{}{Scott Everts készítette a térképeket, a bátor ember pe-}
 {13005}{}{dig, aki ezt az építészeti Frankensteint szkriptelte nem}
@@ -826,7 +739,6 @@
 {13052}{}{Gratulálunk a világ megmentéséhez! És még egyszer kösz,}
 {13053}{}{hogy a Fallout 2-vel játszottál.}
 {13054}{}{**END-DISK**}
-
 {14000}{}{MENEDÉKVÁROS ÉSZAK KALIFORNIAI ÚTIKALAUZA}
 {14001}{}{**END-PAR**}
 {14002}{}{FIGYELEM: Amennyiben bármely Menedékpolgár szüksé-}
@@ -836,7 +748,7 @@
 {14006}{}{1. Egy adag Menedékvárosban elõre csomagolt élelmiszer.}
 {14007}{}{   Soha ne egyél kívülálló által felajánlott ételbõl,}
 {14008}{}{   mert baktériumokat vagy radioaktív anyagokat juttat-}
-{14009}{}{   hatsz vele a szervezetedbe!}
+{14009}{}{   hatnak a szervezetedbe!}
 {14010}{}{}
 {14011}{}{2. Egy Geiger-számláló. Rendszeresen ellenõrizd a hát-}
 {14012}{}{   térsugárzást, akármerre is utazz!}
@@ -848,7 +760,7 @@
 {14018}{}{REDDING: Kis bányászközösség Menedékvárostól nyugat-}
 {14019}{}{ra. Redding aranyércet szállít Menedékvárosnak orvosi}
 {14020}{}{felszerelésekért cserébe. Fokozott óvatosságra intünk}
-{14021}{}{minden Reddingbe utazó Menedékpolgárt, mivel a helyi}
+{14021}{}{to exercise extreme caution when traveling inside}
 {14022}{}{bányászokat és lakosokat nem felügyelik karhatalmi}
 {14023}{}{szervek.}
 {14024}{}{}
@@ -932,10 +844,9 @@
 {14102}{}{MUTÁCIÓ MÉRTÉKE: A fájlokat törölték, hiányoznak a kö-}
 {14103}{}{vetkezõ hivatkozások: [-$Születési_arány-]}
 {14104}{}{**END-DISK**}
-
 {15000}{}{ÚJ KALIFORNIA KÖZTÁRSASÁG, INFORMÁCIÓS LEMEZ 5}
 {15001}{}{**END-PAR**}
-{15002}{}{Ez a lemez tömve van különbözõ ÚKK-val kapcsolatos }
+{15002}{}{This disk seems to be filled with reports about NCR - }
 {15003}{}{jelentésekkel: havi össztermelés, karaván menetrendek,}
 {15004}{}{biztonsági szolgálati beosztás, kongresszusi meghall- }
 {15005}{}{gatások jegyzõkönyvei, titkos szenátusi jelentések,   }
@@ -945,7 +856,6 @@
 {15009}{}{az ÉLET-rõl. Minden jelentést Darionnak címeztek, és }
 {15010}{}{így írtak alá: "F-".}
 {15011}{}{**END-DISK**}
-
 {16000}{}{ÚJ KALIFORNIA KÖZTÁRSASÁG, INFORMÁCIÓS LEMEZ 1}
 {16001}{}{**END-PAR**}
 {16002}{}{Mi itt vagyunk! Miért ne csatlakoznál?}
@@ -965,7 +875,7 @@
 {16016}{}{Az Új Kaliforniai Köztársaság célja a béke, a biztonság}
 {16017}{}{és az igazság megteremtése a nyugat népei számára.    }
 {16018}{}{Az ÚKK hatékony rendõri erõi állandóan õrjáratoznak,  }
-{16019}{}{minden fosztogatót, kannibált, rabszolgatartót és tör-}
+{16019}{}{arrest any raiders, cannibals, slavers, and lawless  }
 {16020}{}{vényen kívüli mutánst letartóztatva az országban, a   }
 {16021}{}{hadsereg pedig hõsiesen védi a határokat a kinti fosz-}
 {16022}{}{togatókkal szemben. Az igazság és szabadság biztosítá-}
@@ -1000,7 +910,7 @@
 {16051}{}{Rabszolga-tartók, szervezetlen mutánsok, hírhedt fosz- }
 {16052}{}{togatók és más nem kívánt elemek hiába pályáznak.     }
 {16053}{}{**END-PAR**}
-{16054}{}{MIT TEGYEK, HA AZ EGÉSZ VÁROS CSATLAKOZNI AKAR?}
+{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
 {16055}{}{A földrajzi helytõl függõen az ÚKK elfogad kérvényt  }
 {16056}{}{falvaktól, városoktól, bázisoktól, városállamoktól, sõt}
 {16057}{}{kisebb királyságoktól is, melyek felvételüket kérik   }
@@ -1013,12 +923,11 @@
 {16064}{}{**END-PAR**}
 {16065}{}{Ne felejtsd: MI ITT VAGYUNK. MIÉRT NE CSATLAKOZNÁL?}
 {16066}{}{**END-PAR**}
-{16067}{}{Készítette az Új Kalifornia Köztársaság tanácsa}
+{16067}{}{Prepared by the New California Relations Advisory Panel.}
 {16068}{}{**END-PAR**}
 {16069}{}{ÚJKAL Köz. #A7-7893b}
 {16070}{}{Ezt az oldalt szándékosan üresen hagyták.}
 {16071}{}{**END-DISK**}
-
 {17000}{}{Lynette Elsõ Polgár részére;}
 {17001}{}{**END-PAR**}
 {17002}{}{A futár kézbesítette a levelet, amit küldtél. Igazad  }
@@ -1037,8 +946,6 @@
 {17015}{}{Barátod és szövetségesed,}
 {17016}{}{Roger Westin}
 {17017}{}{**END-DISK**}
-
-# State of the Nation
 {18000}{}{Memo: A Nemzet állama}
 {18001}{}{Küldõ: Dick Richardson Elnök}
 {18002}{}{Címzett: E nagyszerû Nemzet népe}
@@ -1052,7 +959,7 @@
 {18010}{}{**END-PAR**}
 {18011}{}{Sokat vártuk erre, és a munka, mely mindezt lehetõvé}
 {18012}{}{tette nem volt könnyû. Voltak idõk, amikor az egész}
-{18013}{}{lehetetlennek tûnt, de Dr. Charles Curlingnek, a Vegyé-}
+{18013}{}{impossible; however, through the brave and tireless }
 {18014}{}{szeti Testület fejének bátor és fáradhatatlan igyeke-}
 {18015}{}{zete végül meghozta gyümölcsét. Közel az üdvözülés!}
 {18016}{}{ }
@@ -1062,10 +969,10 @@
 {18020}{}{**END-PAR**}
 {18021}{}{--Megjegyzések magamnak-}
 {18022}{}{1)  Folytasd így egy ideig, hogy álcázd Curlinget.}
-{18023}{}{2)  Mondd el mindenkinek, mennyire rendíthetetlenek,}
-{18024}{}{    kitartóak stb, Bla, bla, bla.}
+{18023}{}{2)  Tell everyone how steadfast, etc., they are.}
+{18024}{}{     Yadda, yadda, yadda.}
 {18025}{}{**END-PAR**}
-{18026}{}{Mindenképen utalni az újraválasztásomra.}
+{18026}{}{Be sure to make a plug for re-election.}
 {18027}{}{**END-PAR**}
 {18028}{}{Emlékezzek, hogy NE öleljem meg az orvosomat a pódiumról}
 {18029}{}{lefelé menet!}
@@ -1074,8 +981,6 @@
 {18032}{}{Bármelyik héten elgázosíthatjuk a rohadt mutánsokat, ha }
 {18033}{}{igaz, amit Curling ír a jelentésében.}
 {18034}{}{**END-DISK**}
-
-# Word List
 {19000}{}{Memo: Szavak listája}
 {19001}{}{Küldõ: Daniel Bird alelnök}
 {19002}{}{Címzett: Én}
@@ -1103,8 +1008,6 @@
 {19024}{}{Sakántilop - ez legyen az új nemzeti kabalaállat! (Va-}
 {19025}{}{jon amerikai állat??)}
 {19026}{}{**END-DISK**}
-
-# The Project
 {20000}{}{Memo: A Projekt, Negyedéves állapot-beszámoló}
 {20001}{}{Küldõ: Lt. Col., Dr Charles Curling, Vegy. Testület}
 {20002}{}{Címzett: Kormány}
@@ -1118,8 +1021,8 @@
 {20010}{}{nagy szerepet játszott a kutatás elõrevitelében.}
 {20011}{}{**END-PAR**}
 {20012}{}{Felfedeztük, hogy a F.E.V. vírus eredetileg nem azért ké-}
-{20013}{}{szült, hogy szuperkatonákat hozzanak létre vele. Kezdet-}
-{20014}{}{ben a F.E.V. valószínûleg egy vírusos toxin lehetett,}
+{20013}{}{designed to be used as an agent for the creation of}
+{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
 {20015}{}{amit csak késõbb manipuláltak annak érdekében, hogy}
 {20016}{}{a segítségével szuperkatonákat teremthessenek.}
 {20017}{}{**END-PAR**}
@@ -1136,7 +1039,7 @@
 {20028}{}{szemben a 13-as Menedékbõl gyûjtött alanyoknál belsõ}
 {20029}{}{vérzést és rángatózást figyeltünk meg az egy órás idõ-}
 {20030}{}{szakban, a halál csak átlagosan 14,5 órával késõbb kö-}
-{20031}{}{vetkezett be.}
+{20031}{}{average, for another 14.5 hours.}
 {20032}{}{**END-PAR**}
 {20033}{}{Mindkét esetben a F.E.V. fertõzési szintje már megfele-}
 {20034}{}{lõ ahhoz, hogy biztosan "megtisztítsuk" a fertõzött}
@@ -1149,7 +1052,7 @@
 {20041}{}{0,0001%-os telítettséget és a 99,5%-os pusztítási való-}
 {20042}{}{színûséget.}
 {20043}{}{**END-PAR**}
-{20044}{}{A jelenlegi F.E.V. Curling-13-as reprodukciós mutatói}
+{20044}{}{Current F.E.V. Curling-13 production levels show that}
 {20045}{}{szerint hat héten belül elérjük a célunkban kitûzött}
 {20046}{}{250000 gallonnyi mennyiséget.}
 {20047}{}{**END-PAR**}
@@ -1157,8 +1060,6 @@
 {20049}{}{munkánk hamarosan befejezõdik.}
 {20050}{}{Isten áldja Amerikát!}
 {20051}{}{**END-DISK**}
-
-# Power Plant Operations
 {21000}{}{Memo: A.B., Állapotjelentés}
 {21001}{}{Küldõ: Tom Murray, Elnök, Atomenergia Bizottság}
 {21002}{}{Címzett: Kormány}
@@ -1170,7 +1071,7 @@
 {21008}{}{másodlagos biztonsági vezérlésének fontosságát. Itt a}
 {21009}{}{hivatalos jelentésem. Remélem, ha elolvassák, megértik,}
 {21010}{}{hogy miért fontos egy biztonsági rendszer felállítása.}
-{21011}{}{}
+{21011}{}{a backup system.}
 {21012}{}{  Tom}
 {21013}{}{**END-PAR**}
 {21014}{}{Az atomreaktor szabályzórendszere}
@@ -1222,7 +1123,7 @@
 {21060}{}{pár biztonsági akkumulátorunk, melyek mûködésben tartják}
 {21061}{}{az Enklávé létfontosságú rendszereit (ebbe nem tartoznak}
 {21062}{}{bele a magasfeszültségû szerkezetek, mint például az erõ-}
-{21063}{}{terek), amíg a reaktort újra nem indítjuk. Elõvigyázatos-}
+{21063}{}{items such as forcefields. Also, as a safety precaution}
 {21064}{}{ságból, ha az áramellátás csökken, bizonyos vízálló ajtók}
 {21065}{}{lezárulnak, (hogy meggátoljuk a bázis eláradását veszély}
 {21066}{}{esetén). Ez ugyan korlátozza a bázison való mozgást, de a}

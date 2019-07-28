@@ -1,9 +1,7 @@
-# Dialog Editor last position: 10
 {100}{}{Egy vékony, koszos ember áll elõtted.}
 {150}{}{Flick, aki éppen a tökét vakarássza. }
 {151}{}{Ennek a mocskos alaknak idõnként visszataszítóan rángatózik az arca.}
 {200}{}{Takaroggyá kifele, hallod-e, faszkalap!?}
-#Felejteni kell az ilyesmi tukorforditasat (bass)
 {201}{}{Mi van má', hurkatõ'tõ! Húzzá' innét elfele!}
 {202}{}{Megsüketûté', vagy csak meghülyûté'?}
 {203}{}{Na, mongyad, mi a gondod!}
@@ -17,7 +15,7 @@
 {240}{}{Kõne még valami?}
 {241}{}{Éppenséggel megnézném még egyszer, milyen cuccaid vannak.}
 {242}{}{Tulajdonképpen akarok valamit kérdezni.}
-{243}{}{Egyelõre megteszi. Majd találkozunk.}
+{243}{}{That did it. See you around, Flick.}
 {260}{}{Kibaszott beszerzõ vagyok én, mit gondósz? Én vagyok helyi jó szamuráj-itánus.}
 {261}{}{Hogy mondod?}
 {262}{}{He, öö, rendben... hadd kérdezzek valamit!}
@@ -45,14 +43,14 @@
 {361}{}{Vic? Nem õ az ott veled? Marharépa... a Mamát viszont ismerem.}
 {362}{}{Ki az a Metzger?}
 {363}{}{Ki az a Mama?}
-{364}{}{Kösz. Hadd kérdezzek valami mást!}
+{364}{}{Köszi. Kérdeznék még.}
 {365}{}{Kösz, csak ennyit akartam tudni. Viszlát!}
 {380}{}{Mama kosztoldát üzemeltet városnak keleti részin. Temetõ mögött. Szép hely az ottan, van neki jó pasta. Mama mia!}
 {381}{}{Kösz. Mi van azzal a Metzger gyerekkel, akinél Vic van?}
-{382}{}{Kösz. Kérdeznék még valami mást.}
+{382}{}{Köszi. Kérdeznék még.}
 {383}{}{Kösz, csak ennyit akartam tudni. Viszlát!}
 {400}{}{Ez igaz. Metzger, az a stronzo, halott. De nem tudni, mi történje Vic-kel.}
 {401}{}{Az a Metzger, az egy igazi rompiballe. Õ Rabszolga-Céh vezére, keleti részen, északra Mama vendéglõjétõ'. Akárhogyis, nála van Vic, tudom.}
 {402}{}{Kösz, mit tudsz a Mamáról?}
-{403}{}{Kösz. Hadd kérdezzek valami mást!}
+{403}{}{Köszi. Kérdeznék még.}
 {404}{}{Kösz, csak ennyit akartam tudni. Viszlát!}

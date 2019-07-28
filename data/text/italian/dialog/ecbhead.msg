@@ -28,32 +28,25 @@
 {127}{}{*Aehm*}
 {128}{}{CHI OSA AVVICINARSI ALLA SACRA TESTA DELL'ABITANTE DEL VAULT?!}
 {129}{}{Sono io, il Prescelto.}
-{1129}{}{Me Prescelto.}
 {130}{}{AH AH AH AH AH AH AH!}
 {131}{}{*TU*?! IL PRESCELTO?!}
 {132}{}{MA SE NON SEI PIU' GRANDE DEL MIO DITO!}
 {133}{}{TU *NON* SEI IL PRESCELTO.}
 {134}{}{Si', lo sono.}
-{1134}{}{Io anche.}
 {135}{}{NO, NON LO SEI.}
 {136}{}{Si', lo sono.}
-{1136}{}{Io anche!}
 {137}{}{UH-UH.}
 {138}{}{Uh-huh.}
-{1138}{}{Uh-huh.}
 {139}{}{UH-UH.}
 {140}{}{Uh-huh.}
-{1140}{}{Uh-huh.}
 {141}{}{UH...UH...}
-{142}{}{Uh...huh...}
-{1142}{}{Uh... Huh...}
+{142}{}{Uh... Huh...}
 {143}{}{UH...BASTA COSI'!}
 {144}{}{MOLTO BENE! TI SEI DIMOSTRATO DEGNO DI QUESTO TITOLO!}
 {145}{}{TU *SEI* IL PRESCELTO!}
 {146}{}{PRENDI QUESTO!}
 {147}{}{E ADESSO LASCIAMI IN PACE!}
 {148}{}{Ehi, grazie!}
-{1148}{}{Grasie!}
 {149}{}{SI', VABBE'. ADESSO VATTENE.}
 {150}{}{DANNATI TURISTI.}
 {151}{}{TI HO GIA' DATO UN REGALO.}
@@ -62,5 +55,11 @@
 {154}{}{COSA?! OSI RUBARE DA ME?!}
 {155}{}{MUORI!}
 {156}{}{Disintegra il giocatore con un'animazione di morte causata dal plasma.}
-
 {200}{}{(12 ore piu' tardi...)}
+{1129}{}{Me Prescelto.}
+{1134}{}{Io anche.}
+{1136}{}{Io anche!}
+{1138}{}{Uh-huh.}
+{1140}{}{Uh-huh.}
+{1142}{}{Uh... Huh...}
+{1148}{}{Grasie!}

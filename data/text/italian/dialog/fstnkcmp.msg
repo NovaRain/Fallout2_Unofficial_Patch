@@ -1,8 +1,6 @@
 {100}{}{Vedi un Computer PoseidoNet.}
 {101}{}{Vedi un Computer PoseidoNet.}
 {102}{}{Vedi un Computer PoseidoNet.}
-
-
 {103}{}{::beep:: Terminale malfunzionante. Necessaria installazione NavComp. ::beep::}
 {104}{}{[FATTO]}
 {105}{}{Benvenuti in PoseidoNet. Questo terminale e' limitato alle trasmissioni tra una petroliera - VMP Valdez - e la piattaforma d'attracco. Comando?}
@@ -16,13 +14,10 @@
 {113}{}{[INDIETRO]}
 {114}{}{Disconnetti.}
 {115}{}{ERRORE: Serbatoi Carburante Vuoti.}
-{116}{}{ERRORE: Computer di Navigazione non Funzionante.}
-
+{116}{}{ERROR: Navagation Computer non Functional.}
 {117}{}{-Serbatoi Carburante: Vuoti- -Magazzini di Carico: Vuoti- -Computer Navigazione: Funzionante- -Ormeggi: Assicurati a terra-}
 {118}{}{-Serbatoi Carburante: Pieni- -Magazzini di Carico: Vuoti- -Computer Navigazione: Funzionante- -Ormeggi: Assicurati a terra-}
-
-{119}{}{Vedi un Computer di Navigazione PoseidoNet.}
-
+{119}{}{You see a PoseidoNet Navigation Computer.}
 {129}{}{[Completi rapidamente la sequenza di salpamento e la nave schizza via dal molo.]}
 {130}{}{[FATTO]}
-{131}{}{Computer di Navigazione Attivo.}
+{131}{}{Navigation computer on-line.}

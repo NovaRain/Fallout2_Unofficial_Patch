@@ -1,4 +1,3 @@
-# Dialog Editor last position: 19
 {100}{}{Egy idõsebb, bozontos szakállú férfit látsz, akinek nagy vörös orra van.}
 {101}{}{Õ Whiskey Bob.}
 {110}{}{Mi újság? A nevem Whiskey Bob. És a tiéd?}
@@ -11,7 +10,7 @@
 {121}{}{Édesem, összetöröd a szívem, akárhányszor kinyitod a szádat. Talán máskor átmehetnénk a Prémvadászok Városába, ahol megmutathatnám a sebhelyeimet (he-he). Viszlát, aranyom!}
 {130}{}{Nos, uram, talán késõbb még találkozunk. Viszlát!}
 {131}{}{Hát, remélem, találkozunk még, aranyom. Viszlát!}
-{140}{}{Hümm, ha nem leszel az ivópajtásam, akkor tûzzé'!}
+{140}{}{Humph, I don't want you as my drinking partner. Now git.}
 {141}{}{Hüm, azt hiszem, inkább Sally fürdõházában töltöm az idõm, mint veled. Most menjé!}
 {150}{}{Mi újság, idegen? A nevem Whiskey Bob, és a tiéd?}
 {151}{}{A nevem }
@@ -37,7 +36,7 @@
 {192}{}{Nem akarom megcsinálni ezt magának. Bocs, Whiskey Bob.}
 {200}{}{Namármost, nem kerülne sok idõdbe és egyáltalán nem veszélyes. Valószínûleg. Akarsz róla többet hallani vagy nem?}
 {201}{}{Oké, beszéljen még róla!}
-{202}{}{Eleget hallottam már. Viszlát!}
+{202}{}{Asszem, épp eleget hallottam. Viszlát!}
 {210}{}{Korrekt. Éleseszû vagy, ez tagadhatatlan. Itt van pia. Cserébe meghallgathatod az én kicsi problémámat.}
 {220}{}{Csak annyit kell tenned, hogy elmész az én kicsi kuckómhoz, ami innen délre van, bemész és a kazánt feltöltöd tüzifával. Utána gyere vissza ide és megkapod a pénzed. Viszont egy napon belül kell megtenned, különben tönkremegy a piám!}
 {221}{}{Könnyû melónak hangzik. Oké, elvállalom.}
@@ -48,7 +47,7 @@
 {232}{}{Örülök, hogy segíthetek, de elõbb mondja el, mi történik a városban.}
 {240}{}{Nocsak, te aztán igazi üzletember vagy, ez tagadhatatlan. Oké, kapsz hatvanötöt. Megcsinálod?}
 {241}{}{Szép próbálkozás, de nekem csak ötvenet ér. A pokolba is, nem tudok többet fizetni.}
-{242}{}{Oké, megcsinálom.}
+{242}{}{OK, I'll do it.}
 {243}{}{Ennyi pénzért nem vállalom. Az idõm többet ér ennél.}
 {250}{}{Helló, cimbora. Visszajöttél Whiskey Bobhoz, mi? Kész vagy piáról, üzletrõl meg ilyenekrõl beszélni?}
 {251}{}{Helló, lányka. Szeretnél újra Whiskey Bobbal beszélni a piáról, üzletrõl meg ilyesmikrõl? Megengedem, hogy az ölembe ülj! (he-he) Csak vicceltem.}
@@ -89,7 +88,7 @@
 {370}{}{Néhány ember eltûnt az utóbbi idõben. Egy kereskedõ, Vic, aki háború elõtti dolgokat árult, a másik az egyik legjobb prémvadászunk.}
 {371}{}{Beszéljen nekem Vicrõl, a kereskedõrõl!}
 {372}{}{Többet szeretnék tudni a prémvadászról.}
-{373}{}{Inkább valami másról kérdezném.}
+{373}{}{Hadd kérdezzek valami mást.}
 {374}{}{Ez minden, amit tudnom kellett. Viszlát, Whiskey Bob!}
 {380}{}{Hát, Vic érdekes egy fickó volt. Nem szeretett sokat dolgozni, így a drága háború elõtti dolgok érdekelték, amiket el tudott adni Rejtekben... esetleg rásózta õket hülye törzsbélire, mint különleges és szent tárgyakat (magában kuncog). Bocsi, nem sértésnek szántam. Akárhogyis, már egy ideje nem láttam. A legutolsó információm szerint délre utazott, hogy eladjon valamit. Talán épp Rejtekben van.}
 {381}{}{Mi a helyzet az eltûnt prémvadásszal?}
@@ -97,7 +96,7 @@
 {383}{}{Kösz, most megyek és elgondolkozom a hallottakon. Viszlát, Whiskey Bob!}
 {390}{}{Aki igazán sokat tudna róla mondani, az Mrs. Buckner. Smiley közel állt hozzá. Északra ment, hogy megkeresse az aranygekkók barlangját, de azóta se tért vissza. És ennek már jóideje.}
 {391}{}{Mi a helyzet az eltûnt kereskedõvel?}
-{392}{}{Hmm, érdekes. Beszéljen nekem valami másról!}
+{392}{}{Hmm, interesting. Tell me about something else, though.}
 {393}{}{Ennyi elég is volt. Viszlát, Whiskey Bob!}
 {400}{}{Bárcsak betartottad volna a szavad. Nem csináltad meg a feladatod idõben, így a legfrissebb piám tönkrement! Nem akarok tõled már semmit és remélem, más sem.}
 {401}{}{De hát, azt hittem több idõm lesz...}

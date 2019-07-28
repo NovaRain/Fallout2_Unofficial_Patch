@@ -1,4 +1,3 @@
-# Dialog Editor last position: 5
 {100}{}{Õ az Elõváros egyik morcos lakója.}
 {101}{}{Nem tûnik túl szerencsésnek.}
 {102}{}{Hé, te meg mit bámulsz?}

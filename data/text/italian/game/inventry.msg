@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{FZ}
 {1}{}{PE}
 {2}{}{RE}
@@ -9,7 +6,7 @@
 {5}{}{AG}
 {6}{}{FT}
 {7}{}{Punti Vita}
-{8}{}{Cl. Armatura}
+{8}{}{Classe Armatura}
 {9}{}{  Normale}
 {10}{}{  Laser}
 {11}{}{  Fuoco}
@@ -34,5 +31,4 @@
 {30}{}{Peso}
 {31}{}{Spiacente, non puoi trasportare cosi' tanto peso.}
 {32}{}{Spiacente, e' troppo pesante da portare.}
-
 {50}{}{Non trovi niente da prendere.}

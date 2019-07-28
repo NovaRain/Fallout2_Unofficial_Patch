@@ -1,8 +1,6 @@
 {100}{}{Vedi un piccolo moccioso.}
 {101}{}{Vedi Melchior Jr.}
-
 {150}{}{E' un bambino sorridente e con dei grandi occhi.}
-
 {200}{}{Ciao! Sono Melchior Jr.}
 {201}{}{Il mio papa' e' un minatore. Si chiama Melchior proprio come me.}
 {202}{}{Il mio papa' e' un bravo minatore, ma vorrebbe fare il mago.}

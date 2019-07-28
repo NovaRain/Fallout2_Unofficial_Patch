@@ -70,18 +70,18 @@
 {207}{}{Genial}
 {208}{}{Exclnt}
 {209}{}{Heróico}
-{300}{editor}{Salud}
+{300}{}{Puntos de Salud}
 {301}{}{Ptos acción}
-{302}{editor}{Clase de armad.}
+{302}{}{Clase de armadura}
 {303}{}{Daño desarmado}
 {304}{}{Daño melee}
 {305}{}{Resist daño}
 {306}{}{Resis veneno}
 {307}{}{Resis radiación}
-{308}{editor}{Cp. de reacción}
-{309}{editor}{Rm. de curación}
-{310}{editor}{Pb. de críticos}
-{311}{editor}{Peso máximo}
+{308}{}{Capacidad de reacción}
+{309}{}{Ritmo de curación}
+{310}{}{Posibilidad de críticos}
+{311}{}{Peso máximo soportado}
 {312}{}{Envenenado}
 {313}{}{Irradiado}
 {314}{}{Ojo dañado}
@@ -199,7 +199,7 @@
 {1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrirás el "mono".}
 {1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrirás el "mono".}
 {1107}{}{Eres adicto al psico. Si no lo tomas, sufrirás. Si lo tomas, sufrirán los demás.}
-{1108}{}{Eres adicto al RadAway. Debes tomarlo regularmente o sufrirás el "mono".}
+{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
 {1110}{}{Eres adicto al Jet. Debes tomarlo regularmente o sufrirás el "mono".}
 {1111}{}{Desgraciadamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}

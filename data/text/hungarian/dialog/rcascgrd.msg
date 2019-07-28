@@ -1,4 +1,3 @@
-# Dialog Editor last position: 93
 {100}{}{Egy jól megtermett õr áll itt. Éppen téged vizslat.}
 {101}{}{Ascorti egyik biztonsági emberével hozott össze a jó sors.}
 {102}{}{Ez itt egy profi, éber õr. A tömeget figyeli.}
@@ -32,7 +31,7 @@
 {130}{}{Szétcincállak, amiért verekedni kezdtél itt!}
 {131}{}{Seggfej!}
 {132}{}{Nem gondolhatod komolyan, hogy ilyeneket csinálsz és még élve is hagyunk!}
-{133}{}{Ideje, hogy kiiktassalak a génállományból.}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{Okosabbat kellene csinálnod.}
 {135}{}{Sajnálom, hogy idág fajult a dolog.}
 {136}{}{Vesztes vagy!}
@@ -43,10 +42,10 @@
 {141}{}{Most megkapod a magadét!}
 {142}{}{Ez nagyon fog fájni... neked!}
 {143}{}{Jobb, ha visszateszed azt a stukkert, haver.}
-{144}{}{Nem akarunk semmilyen zûrt itt, barátom. Tedd azt el!}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Jobb, ha elteszed azt a fegyvert!}
 {146}{}{Tartsd a tokjában, fiúka!}
-{147}{}{Tedd el azt a fegyvert!}
+{147}{}{Tedd el a fegyveredet!}
 {148}{}{Jobb, ha visszateszed azt a fegyvert a helyére!}
 {149}{}{Amíg itt vagy, tartsd távol a kezedet a fegyveredtõl!}
 {150}{}{Tedd el azt a fegyvert, haver!}
@@ -55,7 +54,7 @@
 {153}{}{Csak rendben tartom itt a dolgokat.}
 {154}{}{Játssz korrektül!}
 {155}{}{Jobb, ha csínján bánsz itt a dolgokkal!}
-{156}{}{Mozgás!}
+{156}{}{Eridj tovább!}
 {157}{}{Nincs itt semmi látnivaló!}
 {158}{}{Legyen jó napod!}
 {159}{}{Üdvözlünk az Ascorti-nál!}
@@ -86,9 +85,9 @@
 {184}{}{Nem hiszem el, hogy pont elõttünk csinálod ezt a szarságot.}
 {185}{}{Öö, elnézést. HAGYD ABBA EZT A BAROMSÁGOT!}
 {186}{}{Ne szórakozz azzal az ajtóval, idióta!}
-{187}{}{Mit csinálsz te ott?}
+{187}{}{Mit csinál itt?}
 {188}{}{Pfff, már a bûnözõk is napról-napra egyre silányabbak.}
 {189}{}{Lépj távolabb attól az ajtótól!}
-{190}{}{Ne nyúlj hozzá még egyszer ahhoz az ajtóhoz!}
+{190}{}{Ne nyúlj még egyszer ahhoz az ajtóhoz!}
 {191}{}{Lépj távolabb attól az ajtótól!}
 {192}{}{Ne nyúlj még egyszer ahhoz az ajtóhoz!}

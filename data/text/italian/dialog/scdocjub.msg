@@ -3,7 +3,7 @@
 {102}{}{E' un vecchio con una candida barba e uno sguardo piuttosto assente.}
 {103}{}{Sono Doc Jubilee. Cosa c'e' che non va, giovanotto?}
 {104}{}{Cosa c'e' che non va, giovanotto?}
-{105}{}{Me male.}
+{105}{}{Me ferito.}
 {106}{}{Ho bisogno di un dottore.}
 {107}{}{Non potresti semplicemente prendere delle pillole o qualcosa del genere invece di disturbarmi per queste sciocchezze?}
 {108}{}{Diavolo, sanguini appena!}
@@ -13,7 +13,7 @@
 {112}{}{Ecco a te, figliuolo.}
 {113}{}{Ancora.}
 {114}{}{Grazie, Doc. Forse potresti rispondere a qualche domanda.}
-{115}{}{Addio.}
+{115}{}{Arrivederci.}
 {116}{}{Ti costera' 50$.}
 {117}{}{Basta che mi curi.}
 {118}{}{Me ne vado.}
@@ -50,7 +50,6 @@
 {149}{}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
 {150}{}{Un'altra domanda...}
 {151}{}{Grazie per la storia.}
-#CMH changing per Fergus.. Now you have to pay 1000 or steal the painting off of him.
 {152}{}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per }
 {153}{}{Magari piu' tardi. Un'altra domanda...}
 {154}{}{Magari un'altra volta. Devo andare.}
@@ -69,11 +68,10 @@
 {167}{}{Quelle medicine sono per Mr. Westin, non per te. Mettile giu'.}
 {168}{}{Sta' lontano da li'. Devo stare attento. Non vorrei che Mr. Westin assumesse la medicina sbagliata.}
 {169}{}{Occhio! Ho appena preparato la medicina per Mr. Westin.}
-
 {170}{}{Sono Doc Jubilee. Cosa c'e' che non va, signorina?}
 {171}{}{Cosa c'e' che non va, signorina?}
 {172}{}{Ecco a te, signorina.}
 {173}{}{Beh, non dovresti preoccuparti, signorina. Se non stressa il suo fisico, probabilmente ci sotterrera' tutti. Naturalmente deve sottoporsi a visite periodiche e prendere sempre la sua medicina.}
 {174}{}{Certo. Ecco i }
 {175}{}{Grazie; ho cercato di farmi dare i soldi da Saltbeef, ma quel vagabondo non ne ha mai avuti.}
-{176}{}{$.}
+{176}{}{.}

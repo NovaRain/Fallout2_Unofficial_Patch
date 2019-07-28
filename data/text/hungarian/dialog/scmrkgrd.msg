@@ -1,9 +1,8 @@
-# Dialog Editor last position: 10
 {100}{}{Ez is olyan fickónak tûnik, aki inkább az öklével gondolkodik, mint a fejével.}
 {101}{}{Hmmm. Merk egyik testõre.}
 {102}{}{Nagy. Kemény. Hülye. Testõr.}
 {103}{}{Állj hátrébb! Adj helyet Mr. Merknek!}
-{104}{}{Öhh...}
+{104}{}{Ajjaj...}
 {105}{}{Senkivel sem beszélhetek szolgálat közben.}
 {106}{}{A magadfajták miatt vagyok itt. Megértetted?}
 {107}{}{Menj csak tovább, oké?}

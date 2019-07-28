@@ -1,4 +1,3 @@
-# Dialog Editor last position: 134
 {100}{}{Egy nagy darab, primitív embert látsz.}
 {125}{}{Vágások és horzsolások borítják az egész testét.}
 {150}{}{Egy karcsú, de primitiv nõt látsz.}
@@ -22,14 +21,14 @@
 {324}{}{Te nyomorult hajcsár!}
 {325}{}{Ti hajcsárok, miért csináljátok ezt?}
 {326}{}{Hogy dolgozhatsz ezeknek az embereknek?}
-{327}{}{Nem vagyunk primitívek.}
+{327}{}{Nem vagyunk primitívek!}
 {328}{}{Nincs morális fenntartásod?}
 {329}{}{Mi történik velünk?}
 {330}{}{Mit csináltunk rosszul?}
 {331}{}{Hagyj minket békén, hajcsár!}
 {332}{}{Ne bánts!}
-{333}{}{Takarodj innen!}
-{350}{}{Ki vagy!}
+{333}{}{Takarodj a szemem elõl!}
+{350}{}{Te ki?}
 {351}{}{Te nem vagy rabszolga-hajcsár.}
 {352}{}{Nem bántasz?}
 {353}{}{Barát vagy?}
@@ -100,16 +99,16 @@
 {480}{}{Mit akarsz?}
 {481}{}{Mit akarsz?}
 {482}{}{Semmit.}
-{500}{}{Hogy?}
+{500}{}{Nahát...}
 {501}{}{Rá se ránts! Szabadok vagytok! Metzger halott.}
 {510}{}{Micsoda? Szabadok? Vége a rossz embernek? Akkor gyorsan indulunk! Köszönjük. Barátunk vagy! Viszlát!}
 {511}{}{Szabadok? Mindannyian? Megölted õket? Nagyon köszönjük! Jobb, ha addig megyünk, ameddig tudunk. Még egyszer köszönjük, szent ember vagy!}
 {520}{}{Légy átkozott!}
 {521}{}{Rohadj meg a pokolban!}
-{522}{}{Ezért még megfizetsz!}
+{522}{}{Ezért fizetni fogsz!}
 {523}{}{Ne szólj hozzám!}
-{524}{}{Hagyj békén!}
-{525}{}{Nem akarok beszélni veled!}
+{524}{}{Haggyá' békén!}
+{525}{}{Nem akarok veled szóba állni!}
 {526}{}{Hogy voltál képes?}
 {527}{}{Soha többé nem akarlak látni!}
 {528}{}{Ez semmit nem fog megváltoztatni.}
@@ -117,7 +116,7 @@
 {530}{}{Kérlek, engedj utamra!}
 {531}{}{Csak hadd menjek az utamon!}
 {532}{}{Nem óhajtok veled szóba állni!}
-{533}{}{Hagyj békén!}
+{533}{}{Haggyá' békén!}
 {534}{}{Nincs esély...}
 {535}{}{Szerinted ez jobbá teszi a dolgokat?}
 {600}{}{Indulunk?}

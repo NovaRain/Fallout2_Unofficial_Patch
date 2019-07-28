@@ -1,6 +1,5 @@
-# Dialog Editor last position: 116
 {100}{}{Üdvözlet, ember! Xarn vagyok, a harcos. Te volnál a hóhérom?}
-{101}{}{Mi volni.}
+{101}{}{Igen.}
 {102}{}{Nem, azért jönni, hogy megmenteni.}
 {103}{}{Nem tudni. Tudni szeretni, te vagyol itten miért.}
 {104}{}{Igen, az vagyok.}
@@ -16,9 +15,9 @@
 {114}{}{Nézd, én tényleg azért jöttem, hogy megmentselek!}
 {115}{}{Te vagy az utolsó reményem, ezért beléd helyezem a bizalmam. A mögöttem lévõ ajtó egy szellõzõaknába vezet, az meg egyenesen a fölöttünk elterülõ erdõbe. Azt hiszem, képes lennék megmászni a falát és kijutni innen. A baj csak az, hogy az ajtó kinyitásához egy kódkártya kell. Ha megtalálod és kinyitod vele az ajtót, akkor szabad leszek.}
 {116}{}{Oké. Megcsinálni.}
-{117}{}{Gondolkozni rajta.}
+{117}{}{Gondolkodni rajta.}
 {118}{}{Rendben, persze... megteszem.}
-{119}{}{Még gondolkodom egy kicsit rajta.}
+{119}{}{Még gondolkozom rajta.}
 {120}{}{(Xarn egy pillanatra felmér, mintha a szándékaidat fürkészné) Rendben, elmondom. Nemzetségemet az Enklávé teremtette, hogy rabszolgáik és harcosaik legyünk. Megnövelték az intelligenciánkat, hogy jobban megértsük a parancsokat, de arra vigyáztak, nehogy  rádöbbenjünk szolga mivoltunkra. Nem jött be a számításuk, sokkal okosabbak vagyunk, mint amilyennek láttatni engedjük.}
 {121}{}{Elhatároztuk, hogy addig játsszuk a hülyét, amíg nem adódik alkalom a szabadságunk elnyerésére. Ez lehetségesnek látszott, mikor az Enklávé vezetése elhatározta, hogy a szárazföldön tesztel le bennünket. Schreber ellenkezett, de felülbírálták.}
 {122}{}{Mivel nyíltan szembeszegült a vezérkar döntésével, iderendelték Navarróba, hogy távol legyen a tûztõl. Magával hozott engem is, hogy feltérképezze a valódi képességeimet. Sajnos ez sikerült is neki, nem tudtam kijátszani. Ha megírja a jelentését és elküldi az Enklávénak, vadászni fognak ránk, a többieket pedig egyszerûen lemészárolják. Meg kell szöknöm, és figyelmeztetnem õket.}
@@ -34,13 +33,13 @@
 {132}{}{Kösz a sztorit. Érdekes volt.}
 {133}{}{Hát, sajnálom, hogy meghalt, de talán jobb is ez így. Ki kell jutnom innen. Ha megkérlek, segítesz?}
 {134}{}{Igen.}
-{135}{}{Még gondolkodni rajta.}
-{136}{}{Nem, nem gondolni úgy ez helyes.}
-{137}{}{Persze, segítek.}
-{138}{}{Még gondolkodnom kell rajta.}
-{139}{}{Nem, nem hiszem.}
+{135}{}{Gondolkodni rajta.}
+{136}{}{Nem.}
+{137}{}{Persze.}
+{138}{}{Majd gondolkodom rajta.}
+{139}{}{Nem, nem hinném}
 {140}{}{Rendben van... Itt várom majd, hogy meghozd a döntésedet.}
-{141}{}{Rendben.}
+{141}{}{Megbeszéltük.}
 {142}{}{Rendben van. Sajnálom, ha így gondolod... Esetleg ha meggondolnád magad, én itt leszek.}
 {143}{}{Viszlát!}
 {144}{}{Viszlát!}
@@ -50,7 +49,7 @@
 {148}{}{Nem.}
 {149}{}{Persze.}
 {150}{}{Majd gondolkodom rajta.}
-{151}{}{Nem, nem hiszem.}
+{151}{}{Nem, nem hinném}
 {152}{}{Üdvözlet, hát újra itt vagy? Készen állsz a csatára?}
 {153}{}{Nem akarni harc, csak történeted.}
 {154}{}{Nem akarni harcolni. Inkább megmenteni.}
@@ -96,7 +95,7 @@
 {194}{}{Maradsz szólóban, pajtás! Én pedig tûnök innen.}
 {195}{}{Köszönöm, ember! Csináljunk ki néhány enklávés barmot! Grrrrrrr!}
 {196}{}{Oké.}
-{200}{}{[Tovább]}
+{200}{}{[TOVÁBB]}
 {201}{}{Igen. Ki vagy te?}
 {202}{}{Igen. Miért?}
 {300}{}{A nemzetségemet az Enklávé teremtette, hogy rabszolgáik és harcosaik legyünk. Megnövelték az intelligenciánkat, hogy jobban megértsük a parancsokat, de arra vigyáztak, nehogy rádöbbenjünk szolga mivoltunkra. Nem jött be a számításuk, sokkal okosabbak vagyunk, mint amilyennek láttatni engedjük.}
@@ -109,9 +108,11 @@
 {600}{}{Együtt szétzúzzuk az ellenségeinket!}
 {601}{}{Én feldöntöm, te lelövöd õket, rendben?}
 {602}{}{Itt az idõ egy kis fejbeverésre.}
-{700}{}{Ez egy halálkarom. Különös, fürkészõ szemeiben az értelem fénye csillog.}
+{700}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
 {701}{}{Xarn, a halálkarom.}
 {702}{}{Egy tipikus halálkarmot látsz. Robosztus test, borotvaéles fogak, hosszú karmok.}
 {800}{}{Megölted Xarn-t.}
 {810}{}{Kiszabadítottad Xarn-t.}
 {820}{}{Xarn csatlakozott hozzád.}
+{900}{}{No. Me here rescue you. Really. Me already open door for leave. You go.}
+{901}{}{Look, I really am here to rescue you! I already unlocked the other door. You are free to leave.}

@@ -1,0 +1,136 @@
+{100}{}{Zabij zlé rostliny, které zamoøily Hakuninovu zahradu.}
+{110}{}{Seeò pazourek, aby ti mohl Mynoc nabrousit kopí.}
+{120}{}{Zachraò Nagorova psa Èmoudu, kterı se ztratil v lese.}
+{130}{}{Pøines GECK pro svou vesnici Arroyo.}
+{140}{}{Najdi obchodníka jménem Vic.}
+{200}{}{Osvoboï Vica z jeho závazku tím, e mu pøineseš rádio z jeho domu v Klamathu a zaplatíš Metzgerovi.}
+{201}{}{Zjisti, jak je moné, e mùe Becky prodávat alkohol tak levnì.}
+{202}{}{Zniè Beckyin destilátor.}
+{203}{}{Dones Smittymu souèástku pro auto.}
+{204}{}{Vra Annì její pøívìšek.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
+{207}{}{Dones Smittymu jídlo od Mámy.}
+{208}{}{Lara chce vìdìt, jaké zboí je støeeno ve starém kostele.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{211}{}{Pomoz Laøe s útokem na Tylerùv gang.}
+{300}{}{Pøilo døevo pod destilátor.}
+{301}{}{Zachraò lovce jménem Smiley.}
+{302}{}{Ochraò brahmíny.}
+{303}{}{Ukradni brahmíny.}
+{304}{}{Zabij Krále Krysu.}
+{305}{}{Zachraò Torra.}
+{400}{}{Na farmì severovıchodnì od Modocu se dìje nìco podivného. Prozkoumej to a podej zprávu Jo.}
+{401}{}{Cornelius ztratil svoje zlaté kapesní hodinky. Najdi je a vra mu je.}
+{402}{}{Farrel chce po tobì najít Corneliovy zlaté kapesní hodinky. Najdi je a pøines je Farrelovi.}
+{403}{}{Jonny se ztratil. Najdi ho a pøiveï ho domù k jeho otci Balthasovi.}
+{404}{}{Jonny je v jeskyních Svìtloplachù. Najdi zpùsob, jak ho pøivést zpìt domù k Balthasovi.}
+{405}{}{Farrelovi se pøemnoili hlodavci v zahradì. Proveï tam dùkladnou deratizaci.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{407}{}{Jo podezírá Svìtloplachy. Zjisti, jak to bylo s mrtvolami na farmì Duchù a vypátrej, co se stalo s Karlem.}
+{408}{}{Jdi do Denu a øekni Karlovi, e u se mùe vrátit zpìt domù.}
+{409}{}{Ohlídej Grishamovy brahmíny.}
+{500}{}{Obstarej pluh pro pana Smithe.}
+{501}{}{Doruè Mooreùv kuføík panu Bishopovi do New Rena.}
+{502}{}{Pøines doktoru Troyovi vzorek Jetu.}
+{503}{}{Vyøeš problém s jadernou elektrárnou v Gecku.}
+{504}{}{Dones Westinovi v NCR holodisk od Lynette.}
+{505}{}{Zachraò Joshuu, manela Amandy.}
+{506}{}{Pøines Lydii pivo a pálenku (10 kusù od kadého).}
+{507}{}{Pøines Valerii univerzální kleštì a montání klíè.}
+{508}{}{Prozkoumej osm sektorù kolem Gecka a vra se ke Starkovi.}
+{509}{}{Vstup do NCR a podej Starkovi hlášení.}
+{600}{}{Vyøeš problém s jadernou elektrárnou v Gecku.}
+{601}{}{Oprav elektrárnu.}
+{602}{}{Optimalizuj chod elektrárny.}
+{603}{}{Získej holodisk s ekonomickımi daty a pøedej ho McCluremu ve Vault City.}
+{604}{}{Seeò Skeeterovi soupravu super náøadí.}
+{605}{}{Dones Skeeterovi tøícestnı plazma-transformer.}
+{606}{}{Najdi pro Percyho jeho ghoulího kamaráda Woodyho. Zkus to v Denu.}
+{700}{}{}
+{701}{}{Oprav dùlní èistièku vzduchu.}
+{702}{}{Najdi pohøešované lidi pro Marcuse.}
+{703}{}{Pora Francise v páce.}
+{704}{}{Dostaò Mansona a Franca z vìzení.}
+{705}{}{Vyhoï do povìtøí dùlní èistièku vzduchu.}
+{706}{}{Zajisti pro Ericùv dùm vìtší pøídìl elektrické energie.}
+{800}{}{Najdi své ukradené auto.}
+{801}{}{Zjisti, kdo je zodpovìdnı za pøedávkování Richarda Wrighta.}
+{802}{}{     Podezøelı: Poøezanej Jimmy J}
+{803}{}{     Podezøelı: Jules}
+{804}{}{     Podezøelı: Malı Jeíš Mordino}
+{805}{}{     Podezøelı: Renesco}
+{806}{}{Najdi zpùsob, jak se dostat do vojenské základny Sierra.}
+{807}{}{Vypátrej Hezouna Lloyda, získej od nìj ukradené peníze a udìlej z nìj... exemplární pøíklad.}
+{808}{}{Navštiv Rakeáka Renesca a zinkasuj od nìj poplatek pro pana Salvatora ($1000).}
+{809}{}{Pomoz s ostrahou tajného obchodu v poušti.}
+{810}{}{Najdi endorfinové blokátory na vırobu antiséra proti Jetu.}
+{811}{}{Zlikviduj destilátor rodiny Wrightù pod eleznièní stanicí.}
+{812}{}{Zavradi Westina v NCR tak, aby to nevypadalo jako vrada.}
+{813}{}{Zabij Carlsona v NCR.}
+{814}{}{Pøines sleènì Kitty 10 kouskù èasopisu "Koèièí Packa".}
+{815}{}{Seeò pro Eldridge laserovou pistoli.}
+{816}{}{Doruè Ramirezovi do Stájí balík od Velkého Jeíše.}
+{817}{}{Vyber od Korsickıch Bratrù poplatek pro Velkého Jeíše Mordina.}
+{818}{}{Zavradi pana Salvatora pro Velkého Jeíše Mordina.}
+{900}{}{}
+{1000}{}{}
+{1100}{}{Pøines souèástky/Získej vstup do Vaultu 15.}
+{1101}{}{"Postarej" se o dùstojníka Jacka pro Miru.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1105}{}{Zlikviduj Bishopa.}
+{1106}{}{Doruè Westinùv holodisk Lynette do Vault City.}
+{1107}{}{Získej od Rangerù v NCR mapu pro otrokáøe Vortise.}
+{1108}{}{Osvoboï pro Rangery otroky v ohradì otrokáøù.}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1110}{}{Zabij pro Merka Hubologistu.}
+{1111}{}{Zastav krádee brahmín.}
+{1200}{}{Oprav hlavní poèítaè Vaultu 13.}
+{1201}{}{Promluv si s Gorisem.}
+{1300}{}{}
+{1400}{}{Najdi èip pro dùlní rypadlo.}
+{1401}{}{Ukonèi hádku v baru.}
+{1402}{}{Vypátrej, kdo poøezal kurvu.}
+{1403}{}{Zabij "ábáka" Mortona.}
+{1500}{}{Tanker potøebuje palivo.}
+{1501}{}{Bez souèástky NavComp nebude navigaèní poèítaè fungovat.}
+{1502}{}{Pro vstup k navigaènímu poèítaèi je nutné mít FOB.}
+{1503}{}{Zabij Císaøe Shi.}
+{1504}{}{Hubologisté chtìjí konstrukèní plány vertibirdu z Navarra.}
+{1505}{}{Ukradni od Shi konstrukèní plány vertibirdu.}
+{1506}{}{Hubologisté potøebují palivo pro svùj raketoplán.}
+{1507}{}{Zabij Badgera, aby mohli obyvatelé tankeru pøijmout nabídku Hubologistù.}
+{1508}{}{Zabij AHS-9.}
+{1509}{}{Shi chtìjí konstrukèní plány vertibirdu z Navarra.}
+{1510}{}{Ukradni Hubologistùm konstrukèní plány k vertibirdùm.}
+{1511}{}{Najdi Badgerovu pøítelkyni, která se ztratila v podpalubí tankeru.}
+{1512}{}{Dragon po tobì chce odstranit Lo Pana - v boji beze zbranì.}
+{1513}{}{Lo Pan po tobì chce odstranit Dragona - nejlépe v boji beze zbranì, pokud to bude moné.}
+{1514}{}{Get Chip's spleen back.}
+{1515}{}{Získej od Crocketta tvrzenou energo zbroj.}
+{1516}{}{Pøines Bratrstvu Oceli konstrukèní plány vertibirdu.}
+{1600}{}{Vypoøádej se s páraèem.}
+{1601}{}{Fix K9.}
+{1602}{}{Získej FOB od velitele základny.}
+{1700}{}{}
+{1800}{}{}
+{1900}{}{}
+{2000}{}{}
+{2100}{}{}
+{2200}{}{}
+{2300}{}{}
+{2400}{}{}
+{2500}{}{}
+{2600}{}{}
+{2700}{}{}
+{2800}{}{}
+{2900}{}{}
+{3000}{}{}
+{3100}{}{}
+{3200}{}{Zachraò Chrissy.}
+{3201}{}{Zabij Dariona.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

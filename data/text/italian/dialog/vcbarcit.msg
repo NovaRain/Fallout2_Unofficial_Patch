@@ -4,7 +4,7 @@
 {103}{}{::applaude::}
 {104}{}{E' l'eroe! Guardate!}
 {105}{}{Santo cielo! E' l'eroe, qui, a Vault City!}
-{106}{}{Buongiorno, Capitano.}
+{106}{}{Buon giorno, Capitano.}
 {107}{}{Vault City prevale, Capitano.}
 {108}{}{Buongiorno, Cittadino.}
 {109}{}{Vault City prevale, Cittadino.}
@@ -16,9 +16,9 @@
 {115}{}{Sembra proprio che sempre piu' Esterni riescano ad entrare all'interno delle mura...}
 {116}{}{Spero davvero tu abbia un pass giornaliero...}
 {117}{}{Mi pare abbiano cominciato a rilasciare pass giornalieri proprio a *tutti* gli Esterni, ultimamente...}
-{118}{}{Mi hanno raccontato le tue imprese coraggiose. Hai reso un grande servizio a Vault City... e al mondo intero.}
-{119}{}{La tua battaglia contro l'Enclave non ha lasciato indifferente neppure il Primo Cittadino.}
-{120}{}{Ho sentito dire che hai viaggiato a sud fino a San...Fran...Cisco. E' vero?}
+{118}{}{Ho sentito parlare delle sue imprese coraggiose. Ha reso un grande servizio a Vault City... e al mondo.}
+{119}{}{La sua battaglia contro l'Enclave ha impressionato persino il Primo Cittadino.}
+{120}{}{Ho sentito che hai viaggiato a sud fino a San...Fran...Cisco. E' vero?}
 {121}{}{Forse Vault City *dovrebbe* accogliere gli Esterni.}
 {122}{}{Era vero? Davvero il governo del vecchio mondo stava ancora combattendo la guerra?}
 {123}{}{Dovresti inserire le cronache dei tuoi viaggi nel computer di Vault City, cosicche' tutti possano leggerle.}

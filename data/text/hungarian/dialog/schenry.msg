@@ -1,16 +1,16 @@
 {100}{}{Ez egy kövérkés fickó, fényes, kopasz fejjel, és vastag üvegû szemüveggel.}
-{101}{}{Õ Dr. Henry}
+{101}{}{It's Dr. Henry.}
 {102}{}{Ez a fickó annyira nincs képben, hogy az már fáj. Igazi tojásfej, nem a való világban él, annyi szent.}
 {103}{}{Bocsásson meg, Dr. Henry vagyok és nagyon elfoglalt. Mit akar?}
-{104}{}{Már megint maga az? Mit akar?}
+{104}{}{Már megint itt van? Mi a fenét akar?}
 {105}{}{Hörgh.}
-{106}{}{}
-{107}{}{Elég a dumcsizásból! Van magánál egy-két papír, amikre Mr. Merknek fáj a foga. Adja át õket, és senkinek nem esik bántódása!}
+{106}{}{Én}
+{107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
 {108}{}{Hallott valaha egy Enklávénak nevezett helyrõl?}
-{109}{}{Nem a maga dolga...}
+{109}{}{Semmi közöd hozzá.}
 {110}{}{Hmm, visszamaradott cranium-fejlõdés... eltompult intellektuális fejlettség. Nem jelentõs testi mutáció... Nem, egyszerûen maga nem alkalmas, attól tartok. Minden jót!}
 {111}{}{Kiválasztott? Természetesen ez figyelemreméltó. Érdekes... Attól tartok azonban, nem segíthetek. Engem kibergenetikai kutatásokra jelöltek ki, nem egy Menedék-viselkedéstan Projektre.}
-{112}{}{Maga mirõl beszél?}
+{112}{}{Mirõl beszélsz?}
 {113}{}{Menedék-viselkedéstan Projekt?}
 {114}{}{Kibergenetika? Nem emlékszem, hogy valaha is tanultam ilyesmit.}
 {115}{}{Áh, értem. Magának nincs ki az összes kereke. Ég magával!}
@@ -19,7 +19,7 @@
 {118}{}{Milyen kísérletrõl beszél?}
 {119}{}{Mi ez a kibergenetika dolog?}
 {120}{}{Azt várja, hogy elhiggyem ezt? Maga most szökött a zártosztályról!}
-{121}{}{Ó, az egy egészen új kutatási terület, nagyon izgalmas. Néhány projekten dolgozom mostanság, a mutáció problémájának egy radikálisan új koncepcióján. Tudja... eléggé egyszerû dologról van szó. A mutáció nem végérvényes. Gyógyítható.}
+{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem.  You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
 {122}{}{Természetesen az egyszerû gondolkodású kollégáim a lehetõ legdurvább módon próbálják megoldani a problémát. Megtisztulás a javából! Elismerem, hogy voltak korai nehézségek, de mostanra már elimináltuk õket... szerintem.}
 {123}{}{}
 {124}{}{[folytatás]}
@@ -32,12 +32,12 @@
 {131}{}{Magába? Jaj, dehogyis... a szérum nem tud mit kezdeni egy ilyen alacsony mutagén hányadossal. Ezt egy szupermutánson kell használni. Injektálja bele a szérumot egy szupermutáns testébe, és jelentse nekem az eredményt! Tisztában vagyok vele, hogy Broken Hills tele van velük.}
 {132}{}{Mit csinál ez?}
 {133}{}{Mi esik le nekem ebbõl?}
-{134}{}{Nos, a genetikai mátrixban regressziót kell, hogy létrehozzon, amely destabilizációhoz vezet és egyszerûen asszimilálja a torzult DNS-t. A hordozót megszabadítja a mutagénektõl. Ha biztos lennék a dolgomban, nem volna szükség a tesztre.}
+{134}{}{Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of aberrant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.}
 {135}{}{Mi esik le nekem ebbõl?}
-{136}{}{Maga egy igen fontos kísérlet részesévé válik, igazság szerint a lehetõ legfontosabb tudományos... óh, maga pénzre gondol... Nos, van itt nekem egy kiberkutyám, egy továbbfejlesztett változat, személyes biztonsági feladatok ellátására. Szerintem mire visszatér, mûködésre tudnám bírni. Megfelelõ kompenzáció lenne?}
+{136}{}{You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?}
 {137}{}{Kiberkutya? Hogyne, jól hangzik.}
 {138}{}{Maga teljesen megzavarodott. Gumiszobába kéne zárni!}
-{139}{}{Kiváló! Tessék a szérum, egy stimpakk fecskendõbe töltöttem. Semmi mást nem kell csinálnia, csak használni egy szupermutánson, és jelenteni az eredményt. Mint ahogy azt már említettem, Broken Hills... nos... jó hely lenne a kutakodáshoz. Sok szerencsét!}
+{139}{}{Excellent. Here's the serum, fitted up in a stim hypo. All you have to do is use it on a super-mutant and then report back to me. Like I said, Broken Hills - that's the place to look. Good luck.}
 {140}{}{Mondja meg a maga Mr. Merkjének, hogy a válaszom egy fikarcnyit sem változott. Nem érdekel semmiféle "közös üzlet". Köszönöm, és minden jót!}
 {141}{}{Semmi értelme. Nem megyek vissza. Egyikõjük sem ismerte el az általam végzett munkát, ezért ne próbálja itt kiadni magát a barátomnak! Nagyon szépen köszönöm!}
 {142}{}{Hát, akkor nincs mirõl beszélnünk. Minden jót!}
@@ -55,7 +55,7 @@
 {154}{}{Mi a helyzet a fizetségemmel?}
 {155}{}{Maga egy szörnyeteg! Semmi közöm magához!}
 {156}{}{Természetesen a kiberkutya a magáé. Most azonban dolgom van.}
-{157}{}{...ezek szerint a mutációs ráta stabilizálódik... ne zavarjon, kérem!}
+{157}{}{...so the mutation rate stabilizes over-don't bother me now.}
 {158}{}{A környezeti behatások primitív adaptációja. Káprázatos...}
 {159}{}{Nincs magánál egy oszcillációs kalibrátor? Persze, miért is lenne...}
 {160}{}{ vagyok, a Kiválasztott. A 13-as Menedéket keresem.}

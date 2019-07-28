@@ -1,4 +1,3 @@
-# Dialog Editor last position: 8
 {100}{}{Egy vadászt látsz.}
 {101}{}{Üdvözöllek, Kiválasztott!}
 {102}{}{Megtaláltad a szent ÉLET-et?}

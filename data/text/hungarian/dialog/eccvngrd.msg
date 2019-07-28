@@ -1,10 +1,7 @@
-{100}{}{Ez az ember õr.}
+{100}{}{Egy õrt látsz.}
 {101}{}{Ez az ember a karaván mellé beosztott õrök egyike. Mindannyiótokat közös érdek vezérel.}
-
 {200}{}{Karavánsegítõ.}
 {201}{}{Ez az ember a karaván mellé beosztott segítõk egyike. Mindannyiótokat közös érdek vezérel.}
-
-
 {300}{}{Remélem, nem lesz sokkal több esemény a hátralévõ út során.}
 {301}{}{Jó lesz felvenni a fizetséget az út végén.}
 {302}{}{Remélem, mikor megérkezünk, nyitva lesz valami bár.}

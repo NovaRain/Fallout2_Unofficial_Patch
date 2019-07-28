@@ -36,7 +36,7 @@
 {135}{}{Dove si trova il generatore?}
 {136}{}{Chi sei?}
 {137}{}{Si sta molto meglio qui. Ti senti a tuo agio?}
-{138}{}{Nulla. Come non detto.}
+{138}{}{Niente. Non importa.}
 {139}{}{Se lo fai, potrei riuscire a racimolare qualcosa per te. Non posso prometterti molto, ma bisogna considerare che non e' neanche un grosso favore, quello che ti chiedo.}
 {140}{}{Siamo d'accordo. Fa' solo in modo di avere qualcosa per me quando saro' riuscito a fornirti l'elettricita' che ti serve.}
 {141}{}{Lo faro' gratuitamente. Non voglio essere pagato.}
@@ -65,7 +65,7 @@
 {164}{}{Il modo piu' semplice per ringraziarmi potrebbe essere una donazione in denaro o in oggetti.}
 {165}{}{Non farlo, allora. Mi basta la tua riconoscenza.}
 {166}{}{Francis il mutante ha un Pugno ad Energia. Lo mette in palio nei suoi incontri di braccio di ferro. Il problema e' che per vincere dovresti essere piu' forte di lui. Se ti interessa, posso darti delle pillole che ti permetteranno di avere un vantaggio su di lui.}
-{167}{}{Okay.}
+{167}{}{Certamente.}
 {168}{}{Preferirei avere del denaro, se ce l'hai.}
 {169}{}{Non voglio una ricompensa.}
 {170}{}{Queste pillole si chiamano Buffout. Aumenteranno la tua forza, ma la tua testa ne risentira' per qualche tempo. Non prenderne troppe o rischi di diventare dipendente. Buona fortuna per la sfida!}

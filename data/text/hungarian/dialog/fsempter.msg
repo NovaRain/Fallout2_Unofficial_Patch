@@ -1,10 +1,7 @@
-#{100}{}{Ez egy igen "izmos" számítógép.} //This is for the computer object itself
-#{101}{}{Õ az Uralkodó Számítógép.}
-#{102}{}{Ez egy nagy, duruzsoló, teljesen mûködõképes számítógép, melynek alsó fertályára az "Uralkodó v8.8" cimkét ragasztották.}
-{100}{}{Ez egy számítógép-terminál.}
+{100}{}{Egy számítógép-terminált látsz.}
 {101}{}{Õ az Uralkodó Számítógép-terminál.}
 {102}{}{A számítógép interfészeként egy beépített érintõs képernyõ szolgál. Az oldalán ez áll: "Uralkodó v8.8" számítógép-terminál.}
-{103}{}{Üdvözöljük. Kérem, adja meg a jelszavát, hogy ellenõrizhessem a személyazonosságát!}
+{103}{}{Üdvözöljük! Kérem, adja meg a jelszavát, hogy ellenõrizhessük a személyazonosságát!}
 {104}{}{::összevissza beírsz valamit::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
@@ -21,7 +18,7 @@
 {117}{}{::meghekkeled a számítógépet::}
 {118}{}{::távozol::}
 {119}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
-{120}{}{-kész-}
+{120}{}{[DONE]}
 {121}{}{Diagnosztikai funkciók?}
 {122}{}{Hálózati szken}
 {123}{}{Merevlemez formázása}
@@ -42,7 +39,7 @@
 {138}{}{A tanker csavargóinak 0% százalék esélye van, hogy a raktérben külsõ segítség nélkül megszüntessék a szörny-járást. Segítségnyújtás testhezállóságának kiszámítása folyamatban.}
 {139}{}{Adat: A Poseidon Olaj Tanker alkalmatlan az útra. Több adatra van szükség.}
 {140}{}{Nem feldolgozható. Több adatra van szükség.}
-{141}{}{-tovább-}
+{141}{}{[TOVÁBB]}
 {142}{}{Vissza.}
 {143}{}{Biológia állomás: Aktív}
 {144}{}{Biológia állomás: Inaktív}
@@ -69,8 +66,8 @@
 {165}{}{Igen.}
 {166}{}{Nem.}
 {167}{}{Formázás... formázás... formázás kész. Az újraindítás elõtt teljes telepítés szükséges. Lekapcsolás... lekapcsolás... kész...}
-{168}{}{-kész-}
-{169}{}{Megtalálandó adat: - Botanika program  - Genetikai program - Xeno program}
+{168}{}{[DONE]}
+{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Botanika program.}
 {171}{}{Genetikai program.}
 {172}{}{Xeno program.}
@@ -83,15 +80,15 @@
 {179}{}{Botanika program.}
 {180}{}{Xeno program.}
 {181}{}{Vissza.}
-{182}{}{"Az alany, amelyen oly sok ígéretes kísérletet szerettünk volna végrehajtani, eltûnt. Vagy megsemmisült, vagy ellopták a Hubologisták. A további adatszerzés nem bizonyult gyümölcsözõnek. Amíg nem tudunk újabb példányokat keríteni, ezt az adatbázist elérhetetlenné teszem." - Dr. Sheng}
+{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
 {183}{}{Botanika program.}
 {184}{}{Genetikai program.}
 {185}{}{Vissza.}
 {186}{}{Vegyészeti adatbázis: Üzemanyag és származékok - Polimerek}
 {187}{}{Üzemanyag és származékok.}
-{188}{}{Polimerek}
+{188}{}{Polimerek.}
 {189}{}{Vissza.}
-{190}{}{(Miután átvizsgálsz egy hatalmas vegyi képleteket és laborfeljegyzéseket felvonultató adathalmazt, arra a következtetésre jutsz, hogy a Shik növényi kivonatokból és tengeri herkentyûkbõl készítettek üzemanyagot. Evidens számodra, hogy rákapcsolódtak a korábban használatos vezetékekre. Így képesek a lehetõ legjobban teríteni az általuk elõállított üzemanyagot.)}
+{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
 {191}{}{(Átvizsgálsz egy hatalmas vegyi képleteket és laborfeljegyzéseket felvonultató adathalmazt. Nem sok lövésed van róla, hogy ez a sok adat mit is jelent.)}
 {192}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
 {193}{}{Üzemanyag átirányítása a Hubologistáknak.}
@@ -99,15 +96,15 @@
 {195}{}{(Miután temérdek ábrán és technikai értekezésen átgázoltál, felfedezed, hogy a Shik egy új típusó polimer alapú harci páncél kifejlesztésén dolgoznak, mely mind a tûznek, mind a lövedékeknek ellenáll. A befejezéstõl még mindig évekre tart. Mindemellett említéseket olvasol egy bizonyos új fegyverzetrõl, és gyártási lehetõségekrõl. A Shik szemlátomást el vannak látva tervekkel a jövõt illetõen.)}
 {196}{}{Vissza.}
 {197}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
-{198}{}{-kész-}
+{198}{}{[DONE]}
 {199}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
-{200}{}{-kész-}
+{200}{}{[DONE]}
 {201}{}{Fizika adatbázis: Felfedezés - Teória}
-{202}{}{Felfedezés}
-{203}{}{Teória}
+{202}{}{Exploration.}
+{203}{}{Theory.}
 {204}{}{Vissza.}
 {205}{}{"A gépmadár terveinek közelmúltbeli megszerzésével hatalmas lépést tettünk egy repülõ jármû gyakorlati megvalósítása felé. Az év végére várjuk a mûködõ prototípus elkészülését, két éven belül pedig megkezdõdhet a tömeggyártás." - Dr. Wong}
-{206}{}{::tervek másolása:: Vissza.}
+{206}{}{::tervek lemásolása:: Vissza.}
 {207}{}{Vissza.}
 {208}{}{"Még mindig dolgozunk egy levegõben közlekedõ jármû használható modelljén. Az eddig elkészült tervek egyike sem bizonyult biztonságosnak, aerodinamikusnak. Talán ha hozzáférhetnénk az õsök terveihez..." - Dr. Wong}
 {209}{}{Vissza.}
@@ -117,12 +114,10 @@
 {213}{}{Vissza.}
 {214}{}{A számítógép-terminálnak nemigen van interfésze ilyesmihez.}
 {215}{}{A számítógép-terminál nem mûködik.}
-
 {216}{}{Ellenséges beavatkozás a rendszerben! Támadási parancs érvényesítve!}
 {217}{}{Megtámadni a behatolót!}
 {218}{}{Itt az idõ, hogy megfizess a tetteidért, lao wai!}
 {219}{}{Áruló van a sorainkban!}
-
 {220}{}{Geo-Lokáció.}
 {221}{}{Mit szeretne lokalizálni?}
 {222}{}{A falubelieimet.}

@@ -1,8 +1,9 @@
-# Dialog Editor last position: 86
 {100}{}{Egy elég megviseltnek tûnõ nõt látsz.}
 {101}{}{Fannie Mae-t látod, a Malamute Szalon egyik hosztesszét.}
 {102}{}{Ez a nõ olyan, akin az élet több nyomot hagyott, mint az évek.}
-{103}{}{(Ahogy feléd támolyog, Fannie határozottan betegnek látszik.) Szia, szivi! Kicsit viharvertnek érzem magam mostanában. Nem adnál egy kis zsét, hogy beinduljak? Nem bánnád meg. (vigyorog)}
+{103}{}{[Fannie looks distinctly unhealthy as she wobbles towards you] Hey there, lover. I'm feeling a
+ little under the weather lately. Want to give me some money for a quick boost? I can make it worth your
+ while. (grins)}
 {104}{}{(Ahogy feléd támolyog, Fannie határozottan betegnek látszik.) Szia, hugicám! Nincs egy pár ruppód, hogy segíts egy kislányon, akit elhagyott a szerencse? Csak amíg újra talpra nem állok.}
 {105}{}{(Fannie egyáltalán nem néz ki jól) Szia, haver! Kész vagy egy kis mókára Fannie-val? Neked féláron, szivi! Hova tettem a Jetemet?}
 {106}{}{(Fannie egyáltalán nem néz ki jól) Üdvözlet, hölgyem, nincs egy kis pénze? Vagy egy kis Jetje?}
@@ -12,7 +13,7 @@
 {110}{}{Miért nem alszod ki?}
 {111}{}{Csak a Jettõl tudok repülni. /~Szállj velem, még nem repültem senkivel.../~ Nem akarsz adni nekem valami különlegességet?}
 {112}{}{Ó, szóval tele vagy nagy ötletekkel, igaz? Hát nekem nem kellesz. Épp elégen vannak, akik szívesen fizetnek Fannie kegyeiért. Ha nem adsz pénzt Jetre, akkor takarodj a szemem elõl!}
-{113}{}{Van valamim, ami kigyógyít a Jet-függõségedbõl.}
+{113}{}{I have something that should cure you of that addiction to Jet.}
 {114}{}{Keress magadnak másik balekot, Fannie! Viszlát!}
 {115}{}{Ha így folytatod, megölöd magad. Én nem akarom ezt végignézni. Viszlát!}
 {116}{}{Rossz rádnézni.}
@@ -22,7 +23,8 @@
 {120}{}{Annyi eszed van, mint egy tyúknak. Nem igaz?}
 {121}{}{Gyógyszer? Meg vagy te õrülve? Úgy nézek én ki, mint akit meg kell gyógyítani? Azt akarod, hogy jobban érezzem magam, édesem? Akkor adj még egy kis Jetet.}
 {122}{}{Nos, azt hiszem, egy kicsivel több még nem fog ártani. Itt egy adag.}
-{123}{}{Már több Jetet szedtél be a kelleténél. Kisebb dolgom is nagyobb annál, hogy egy újabb Jet-függõt bámuljak. Viszlát!}
+{123}{}{You've already had more than enough Jet. Last thing I need to do is watch another Jet addict.
+ Goodbye.}
 {124}{}{Ha lenne is Jetem, azt magam használnám el. Viszlát!}
 {125}{}{Igen, ez kellett nekem. Ó, igen, micsoda löket! Mmmmm...}
 {126}{}{Öö, hát akkor én hagylak is élvezkedni. Viszlát!}
@@ -31,7 +33,7 @@
 {129}{}{Helló, hugi! Munkát keresel?}
 {130}{}{Öö, igen. Téged kereslek.}
 {131}{}{Munkát? Miféle munkát?}
-{132}{}{Öö, nem csak nézelõdöm. Viszlát!}
+{132}{}{Igazából csak körülnéztem. Már megyek is.}
 {133}{}{Ó, de kis édes vagy! A kis szemérmes. Hatvan dolcsiba kerül, hogy összebújjak veled, kedvesem.}
 {134}{}{Talán most egy kicsit tovább fogsz tartani, édesem. Úgy többet kapsz majd a 60 dolcsidért.}
 {135}{}{Ahogy a csillag megy az égen, bébi. Nagyon jól elleszünk a 60 dolcsidért.}
@@ -41,7 +43,8 @@
 {139}{}{Olyan tündér voltál hozzám. Amikor csináltad, úgy éreztem, igazán jelentesz nekem valamit. (szipog) Bárcsak mindig így érezhetnék!}
 {140}{}{Mikor együtt vagyunk, mindig úgy fogod érezni.}
 {141}{}{Te aztán értesz a szavakhoz.}
-{142}{}{Nem akarom ezt többé csinálni. Én és a barátom elmegyünk innen és új életet kezdünk. Amint ki tudom fizetni Lou-t.}
+{142}{}{I don't want to do this anymore. Me and my fella' are going to get away from here and live life
+ straight. Just as soon as I can pay off Lou.}
 {143}{}{Mi ez a kifizetõsdi?}
 {144}{}{Hé, már fizettem neked! Mirõl beszélsz?}
 {145}{}{Igen, hát... Tartozom Lou-nak egy kis pénzzel és nem mehetek el, amíg ki nem fizetem. De amint megteszem (szipog) szedem a motyómat és olyan messze itthagyom ezt az életet, amennyire csak lehet. Csak össze tudnék kaparni egy kis plusz pénzt!}
@@ -51,7 +54,8 @@
 {149}{}{Csak 200 dollár kell és tiszta vagyok. A pasim és én úgy eltûnünk innen, mint a szél. Nincs több fura, koszos alak, aki éjjel-nappal agyontapogat. Izé, bocs, nem akartalak megbántani.}
 {150}{}{Nem bántottál meg. Nem is nagyon tapogattalak agyon, nem igaz? Mindegy, megfizetem a kilépõdet innen. Itt a 200 dollár.}
 {151}{}{Ez szomorú. Hát akkor jobb, ha csipkeded magad. Viszlát!}
-{152}{}{Ó köszönöm, köszönöm! Nem hittem volna, hogy az álmaimon kívül van valaki, aki ilyen rendes lehet! Te vagy a legjobb! Még egyszer köszönöm! Mit szólnál egy ingyen menethez? A ház ajándéka?}
+{152}{}{Oh thank you, thank you. I didn't think that there was anyone this kind outside of my
+ dreams. You're the best. Thanks again. Hey, want a freebie? On the house?}
 {153}{}{Miért is ne, Fannie? Ezt az ajánlatot vétek lenne kihagyni.}
 {154}{}{Erre igazán nincs szükség Fannie. Csak használd fel a pénzt, hogy a hátad mögött hagyd ezt az életet! Ég veled!}
 {155}{}{Õ igazán akarná, de bányászként õ is alig tud megélni. Folyton abban reménykedünk, hogy valami nagy telérre bukkan, de ez eddig nem történt meg. A múlt héten ráadásul ráesett egy gerenda és eltörte a lábát. Most nem tud dolgozni. Ami kis pénzt félre tudok tenni, mind neki adom, amíg jobban nem lesz.}
@@ -85,3 +89,15 @@
 {183}{}{Hát ez biztos segít, hacsak nem túl kényes az orrod. Azok a bányászok nincsenek nagyon oda a vízért és a szappanért.}
 {184}{}{Tényleg? Azt hiszem, ez mégsem nekem való. Azért köszi az ajánlatot. Viszlát!}
 {185}{}{Nem tudom, hogy bírod elviselni, de szerintem még te sem. Szenvedj csak! Viszlát!}
+{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
+ me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need for Jet since
+ then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
+ Whenever you're in the mood, just come on by; free of charge. (wink)}
+{187}{}{I'll keep that in mind. Thanks, Fannie.}
+{188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
+{189}{}{Hey there! Lookin' to spend some time with Fannie? On the house, of course. (grin)}
+{190}{}{Sorry honey... I'm not feelin' too good right now. Check back later.}
+{191}{}{Got a little free time right now?}
+{192}{}{Come back anytime! Always nice to get some repeat business.}
+{193}{}{[DONE]}
+{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}

@@ -1,5 +1,5 @@
-{100}{}{Egy kölyköt látsz.}
-{101}{}{Gyerek.}
+{100}{}{Egy kiskölyök.}
+{101}{}{Egy gyerek.}
 {102}{}{Ez a gyerek pont úgy néz ki, mint a többi.}
 {103}{}{Hitványnak tûnsz...}
 {104}{}{Ne bánts, jó?}
@@ -32,4 +32,3 @@
 {131}{}{Ne bánts!}
 {132}{}{::zokog::}
 {133}{}{Mami, segíts!}
-

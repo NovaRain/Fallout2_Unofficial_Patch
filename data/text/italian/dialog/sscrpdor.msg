@@ -13,6 +13,5 @@
 {112}{}{La porta scricchiola e si rompe.}
 {113}{}{La porta e' gia' aperta.}
 {114}{}{La porta non ti teme.}
-
 {120}{}{Herro, Ra Ra?}
 {121}{}{Eh eh, porta parlare. Ciao!}

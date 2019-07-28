@@ -1,7 +1,6 @@
-# Dialog Editor last position: 18
 {100}{}{A nyakörvére biggyesztett cimke szerint a neve Bess.}
 {101}{}{Ez itt Bess.}
-{110}{}{Látszik, hogy valami vadállat jól megtépte. Csúnya sebei vannak.}
+{110}{}{It looks like it's been attacked by some wild animal. It's hurt pretty bad.}
 {111}{}{Ez egy remek brahmin. Bárki büszke lenne, ha magáénak tudhatná.}
 {120}{}{Múúúúúú!}
 {121}{}{[Szegény brahmin... jól megsérült]}
@@ -15,5 +14,5 @@
 {143}{}{Csak vicceltem. A szárított húsra jobban fáj a fogam, mint amennyire szükségem van rád.}
 {150}{}{Múúú.}
 {200}{}{Az elsõsegély nem elég, hogy helyre tudd tenni a szegény brahmin törött lábát.}
-{300}{}{Sikeresen rendbetetted a brahmin törött lábát.}
+{300}{}{You successfully heal the brahmin's broken leg.}
 {310}{}{Nem sikerült lekezelni a brahmin törött lábát.}

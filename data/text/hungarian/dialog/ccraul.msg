@@ -1,5 +1,4 @@
-# Dialog Editor last position: 53
-{100}{}{Szerelõ.}
+{100}{}{Egy szerelõt látsz.}
 {101}{}{Raul, a szerelõ.}
 {102}{}{Egy koszos katonai gyakorlót viselõ fickó. Az olajfoltokból ítélve inkább szerelõ lehet, mint katona.}
 {103}{}{Bocsi, de nincs idõm veled dumálni. Ennek a madárkának hamarosan repüni kell, érted?}
@@ -7,20 +6,22 @@
 {105}{}{Öhm... oké.}
 {106}{}{Öhm... Quincy akar látni, azt mondani, mennyé oda.}
 {107}{}{A doki meg akarja javítani a kutyáját. Engem küldött az alkatrészért.}
-{108}{}{Jól van, viszlát.}
+{108}{}{Remek. Üdv!}
 {109}{}{Raul, Quincy látni akar.}
 {110}{}{Quincy, mi? Hát, Raul meg nem akarja látni. Elege van már abból a szarevõbõl.}
 {111}{}{Oké.}
 {112}{}{Quincy mondani neked seggfej. Nem lenni elég tökös hozzá, hogy elmenni.}
-{113}{}{Jól van.}
+{113}{}{Remek.}
 {114}{}{Quincy szerint egy szánalmas seggfej vagy, aki még ahhoz sem elég tökös, hogy személyesen jelentkezzen nála.}
 {115}{}{Hé ember, Raul nem nyeli tovább ezeket a sértéseket! Láttad Quincyt ezeken a gépeken dolgozni? Nem, ezek a bébik csak Raulé. És tudod miért? Mert Quincy egy tehetségtelen FASZ, azért!}
-{116}{}{Öhm...}
-{117}{}{Hát...}
+{116}{}{Öö...}
+{117}{}{Nos...}
 {118}{}{Jól van, sajnálom. Raulnak nem kellene így beszélnie veled, végtére is csak egy hírvivõ vagy. Hé, figyelj csak, sok a dolgod most?}
 {119}{}{Nem lenni túl elfoglalt, mért?}
 {120}{}{Nem igazán, miért?}
-{121}{}{Figyelj, Raul most elmegy meglátogatni Qiuncy-t. Addig te maradj itt és vigyázz Raul madárkáira, rendben?}
+{121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
+ Raul's going to clean the old man's clock.
+ You stay here and watch Raul's birds. Ok?}
 {122}{}{Vigyázni rájuk.}
 {123}{}{Rendben, Raul. Megteszem.}
 {124}{}{Hé, köszike! Raul jön neked eggyel! Ne menj túl messzire, és ha valaki bántani merészelné õket, akkor seggbelövöd, rendben?}
@@ -36,12 +37,12 @@
 {134}{}{Raul szerint csak valami nudista sétálgathat itt egyenruha nélkül.}
 {135}{}{Hé, ember! Ha az õrmi elkap egyenruha nélkül, szétrúgja a segged.}
 {136}{}{Miért nincs rajtad egyenruha?}
-{137}{}{Szent szar! Megtámadtak bennünket!}
-{138}{}{Behatolók! Õrség!}
+{137}{}{Szent szar! Megtámadtak bennünket! Riadó!}
+{138}{}{Behatolók! Hívjátok az õrséget!}
 {139}{}{Behatolók! Erõsítést a hangárba!}
 {140}{}{Na, mi van, he? Megtámadtak minket?}
 {141}{}{Miért szól a sziréna? Mi történik?}
-{142}{}{Mi folyik itt?}
+{142}{}{Mi a szar folyik itt?}
 {143}{}{Raul most szépen beutal téged az intenzívre, csávókám.}
 {144}{}{Hé, ideje imádkozni!}
 {145}{}{Raul szétrúgja a segged.}

@@ -1,1 +1,1 @@
-{101}{}{Il nome sulla lapide dice: "Sig.ra Tamara Winslow."}x
+{101}{}{Il nome sulla lapide dice: "Sig.ra Tamara Winslow."}

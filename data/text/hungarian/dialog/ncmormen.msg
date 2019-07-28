@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Ez itt Mordino egyik embere.}
 {101}{}{Õ Ramirez.}
 {150}{}{Egy napbarnított férfit látsz. Állát borosta borítja, a bõre pedig hámlik. Idegesen nézeget körbe-körbe.}
@@ -8,28 +7,28 @@
 {154}{}{Ez itt Mordino egyik embere. Szemlátomást nem aludt már egy ideje.}
 {160}{}{Egy tüskés hajú, sunyi kinézetû embert látsz. Idegesen néz körbe-körbe.}
 {200}{}{Hela! }
-{201}{}{Azta kibebaszott mindenit, }
+{201}{}{Azt a kibebaszott mindenedet, }
 {202}{}{::Hüvelykjével mutatja, hogy minden rendben::}
 {203}{}{::Fütyül::}
-{205}{}{Hogy mész pisálni, ha rajtad van az a vacak?}
+{205}{}{Hogy tudsz pisálni, ha rajtad van az a pléhvacak?}
 {210}{}{Jól el vagy látva, }
-{215}{}{Mit osongatsz itt, }
-{220}{}{Nincs nálad Jet, homes?}
+{215}{}{Mi ez a nagy lopódzkodás, }
+{220}{}{Van nálad egy kis Jet, homes?}
 {221}{}{Hé, }
-{222}{}{Hát el tudnék viselni egy italt, a francba...}
-{223}{}{Öccséém, nagyon meleg van.}
-{224}{}{Van valami hír a nagyoktól, }
-{230}{}{Hela! Cabron! A halál angyalát keresed, mi? Na, tûnj el!}
+{222}{}{Hát elfogadnék egy italt, basszus...}
+{223}{}{Öcsééém, nagyon meleg van!}
+{224}{}{Valami hír a nagykutyáktól, }
+{230}{}{Mi van, Cabron? A halál angyalát keresed? Kopj le!}
 {231}{}{Mi a fa... Mit csinálsz te itt?}
 {232}{}{Na, mi van puta? A halál angyalát keresed? Tûnés innen!}
 {235}{}{Hela, hombre! Sajnálom, de azt a fegyvert nem hordhatod idebenn!}
-{236}{}{Hela homes! Rakd el azt a fegyvert, mielõtt felmegy az itteniek agyvize!}
+{236}{}{Hela, homes! Rakd el azt a fegyvert, mielõtt felmegy itt az emberek agyvize!}
 {240}{}{Hela, Chica! Azzal a fegyverrel nem mászkálhatsz nálunk.}
-{241}{}{Hela, Chica! Rakd el azt a fegyvert, mielõtt felmegy az itteniek agyvize!}
+{241}{}{Hela, Chica! Rakd el azt a fegyvert, mielõtt felmegy itt az emberek agyvize!}
 {245}{}{Mi a francnak lopakodsz, }
 {250}{}{Minek lopakodsz, chica? Azzal a jobb horoggal, amit te tudsz ütni, emelt fõvel járhatsz köztünk.}
 {255}{}{Hol tanultál bunyózni, }
-{256}{}{Ez a cojone bármikor egy Mordino becsületére válna!}
+{256}{}{Ez a cojones bármikor egy Mordino becsületére válna!}
 {257}{}{Mesébe illõ volt az utolsó bunyód, hombre.}
 {258}{}{Vigyázz a Húsdarálóval! Legszívesebben füleket eszik.}
 {259}{}{Pillekönnyû mozgás, szúrós fullánk. Na, ez vagy te, }
@@ -41,22 +40,22 @@
 {265}{}{Láttalak a ringben bunyózni, }
 {266}{}{Mennyit nyomsz fekve, }
 {267}{}{Hol edzel, mi?}
-{268}{}{Hoznék neked egy italt, de mivel az ellenfeledre fogadtam, az összes pénzem elúszott.}
+{268}{}{Meghívnálak egy italra, de az ellenfeledre fogadtam, és elbuktam az összes pénzem.}
 {269}{}{Hol tanultál bunyózni, chica? Durva, amit csinálsz. Nagyon jó mozgásod van.}
 {270}{}{Beillenél közénk.}
 {271}{}{Az utolsó bunyód mesébe illõ volt, chica.}
 {272}{}{Hol edzel, mi? Nem kell egy segéd?}
 {273}{}{Vigyázz a Húsdarálóval! Legszívesebben füleket eszik... beteg az az ember.}
-{280}{}{Hé, hé, hé! Chica, én kellek hozzá, hogy eltûnjön az a fegyver?}
-{281}{}{Azt akarod, hogy megmotozzalak, vagy mi? Gyerünk, tedd el azt a fegyvert, mielõtt ideges leszek!}
+{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{281}{}{Azt akarod, hogy megmotozzalak, vagy mi? Gyerünk, tedd el azt a fegyvert, mielõtt felmegy bennem a pumpa!}
 {285}{}{Mi a francnak lopakodsz, }
 {290}{}{Chica, ezzel a karosszériával nem fogsz észrevétlenül elosonni egy Mordino elõtt.}
 {295}{}{A filmed nem volt rossz, de azért egy-két jelenetet fel tudnék dobni.}
-{296}{}{Beszélnél a Testvérekkel az érdekemben?}
+{296}{}{Mondj már rólam egy-két jó szót a Testvéreknek!}
 {297}{}{Hé, }
 {298}{}{Én készen állok, ráérek, filmezzünk, oké? Mozira gondoltam, }
 {299}{}{Én vagyok a mindenkit felülmúló latin szeretõ. Hozzám hasonlót sehol nem találsz.}
-{300}{}{Beszélj már a Testvérekkel az érdekemben, }
+{300}{}{Beszélnél a Testvérekkel az érdekemben?}
 {301}{}{Úgy hallottam, Tökös Tomi magánvetítésre vár téged.}
 {302}{}{Mi lenne, ha mi ketten csinálnánk egy filmet? Jól fogok bánni veled, chica, megmutatom, mit tud egy latin szeretõ.}
 {303}{}{Miért nem ugrasz be munka után?}
@@ -67,27 +66,27 @@
 {308}{}{Kell egy kis drog? Pia? Pénzmag? Tudok segíteni. Vannak kapcsolataim.}
 {315}{}{Ne hadonássz itt a fegyvereddel, barátom! Rakd el gyorsan!}
 {320}{}{Ne osongass itt, hajcsár, oké? Itt barátok közt vagy!}
-{325}{}{Te ott! Megsüketültél? Rakd el azt a vackot, mert bántani foglak!}
+{325}{}{Te ott! Megsüketültél vagy mi a szar? Rakd el azt a vackot, mert bántani foglak!}
 {326}{}{Megszabadítsalak attól a kevés agyadtól? Tedd el azt a fegyvert!}
-{327}{}{Te ott, chica! Megsüketültél, vagy mi? Rakd el azt a vackot, mert bántani foglak!}
+{327}{}{Te ott, chica! Megsüketültél, vagy mi a szar? Rakd el azt a vackot, mert bántani foglak!}
 {330}{}{Mi a francnak lopódzol itt? Golyót akarsz a hátadba?}
 {335}{}{Mi a francnak lopódzol itt, chica? Golyót akarsz a hátadba?}
-{340}{}{Vidd innen azt a guruló szemétkukát!}
-{341}{}{Robotot nem lehet ide behozni! Vidd innen!}
-{342}{}{Ha ittmarad, roncsot csinálunk abból a robotból!}
+{340}{}{Vidd innen azt a guruló hulladékot!}
+{341}{}{Robotok nem jöhetnek ide! Vidd innen a francba!}
+{342}{}{Ha az a robot ittmarad, ócskavasat csinálunk belõle!}
 {345}{}{Csak jól éreztem, hogy egy MUTÁNS jött ide. Vidd innen, mielõtt mérges leszek!}
-{346}{}{Idefigyelj, te mutáns-bérenc! Az Õ helye ODAKINN van! Különben...}
-{347}{}{Ha az a mutáns tovább bûzölög itt, céltáblának fogjuk használni!}
+{346}{}{Ki vagy te? Mutánsbérenc? Annak a valaminek a helye odakinn van! Nem mondom kétszer...}
+{347}{}{Az a mutáns ott céltábla akar lenni? Csak lófráljatok még itt egy kicsit, és valóra váltjuk az álmát.}
 {350}{}{Csak jól éreztem, hogy valami rohad! Vidd ki innen a ghoul barátodat, de rögtön!}
-{351}{}{Vidd ki innen, azt a büdös ghoult, de most azonnal!}
-{352}{}{Ha az a ghoul még egy percig itt marad, még a mostaninál is halottabb lesz.}
+{351}{}{Most azonnal vidd innen azt a büdös ghoult!}
+{352}{}{Ha az a ghoul még egy percig itt marad, halottabb lesz, mint amennyire máris az.}
 {355}{}{Én fõszerepere mentem meghallgatásra, de csak ezt a jelentéktelen mellékszerepet kaptam. Remélem, nem fognak beskatulyázni.}
 {356}{}{New Renót Chris Avellone tervezte és Tom French szkriptelte. Mindkettõ tisztára beteg ember.}
 {357}{}{Hela! }
-{358}{}{Azta kibebaszott mindenit, }
+{358}{}{Azt a kibebaszott mindenedet, }
 {359}{}{Úgy hallottam, a Korzikai Testvérek beszélni akarnak veled.}
 {360}{}{Azt hittem, az Elnök csak legenda.}
-{361}{}{Úgy nézel ki, mint aki megjárta a poklot is. Pihenj egyet, megérdemled!}
+{361}{}{Úgy nézel ki, mint aki megjárta a poklot. Lazíts, megérdemled!}
 {362}{}{Ember, azok az Enklávés barmok szerencsésnek tarthatják magukat, hogy nem kötözködtek a Mordinókkal.}
 {370}{}{Van nálad egy kis Jet, homes?}
 {371}{}{Na, mi az ábra? Nálunk olyan, mint mindig.}
@@ -95,7 +94,7 @@
 {373}{}{Jó, hogy újra látunk!}
 {374}{}{Hát elfogadnék egy italt, basszus...}
 {375}{}{Öregesen vagyunk, öregesen. Veled mi a helyzet, }
-{376}{}{Öccséém, nagyon meleg van.}
+{376}{}{Öcsééém, nagyon meleg van!}
 {377}{}{A Nagy Mordino jól elvan? Mondd meg neki, hogy benézek hozzá, }
 {378}{}{Kinyírtam egy skorpit tegnap éjjel. Majdnem megmart, basszus!}
 {379}{}{A Bishopok folyton csak kekeckednek velünk, de a csontkukacok fogják õket felzabálni, nem igaz?}
@@ -129,8 +128,8 @@
 {435}{}{Figyelj, nem vagyok én a compadréd, szóval meg ne szólíts többet!}
 {436}{}{A Mordinók csak Mordinókkal barátkoznak. Szóval lehet lekopni, õstulok!}
 {437}{}{Lehet lekopni, vadember!}
-{438}{}{Most NINCS rád idõm!}
-{439}{}{Tûnés innen!}
+{438}{}{Most NINCS idõm rád!}
+{439}{}{Tûnj innen!}
 {440}{}{Mocskos vadember...}
 {441}{}{Mi a szart akarsz, vadember?}
 {442}{}{Most NINCS idõm rád!}
@@ -152,7 +151,7 @@
 {474}{}{Igen, nagyszerû. Mostantól jobb, ha vigyázol magadra!}
 {475}{}{Kíváncsi vagyok, Big Jesus felfogja-e, hogy az a három rabszolga simán megszökhetett volna egy ilyen élesszemû, Jet-addiktív õr jelenlétében, mint amilyen te is vagy.}
 {476}{}{Ramirez... vigyázz, hogy mit mondasz nekem, oké? Nehogy eljárjon a szád, és bajba keveredj!}
-{480}{}{(Pislog.) Ööö...? Mi van?}
+{480}{}{(Pislog.) Öö...? Mi van?}
 {481}{}{Semmi olyat nem mondtam, amit értenél vagy megérné megismételni. Légy résen, oké?}
 {482}{}{Azt találtam mondani, hogy "Kíváncsi vagyok, Big Jesus felfogja-e, hogy az a három rabszolga simán megszökhetett volna egy ilyen élesszemû, Jet-addiktív õr jelenlétében, mint amilyen te is vagy."}
 {490}{}{(Pislog és zavartan mosolyog.) Öö... Igen, igen. Agyas vagyok, persze... élesszemû... ÕR vagyok, nemde?}
@@ -161,7 +160,7 @@
 {493}{}{(Pislog.) Öö...? Mi van?}
 {494}{}{Felejtsd el! Eridj, ölelgess egy lõfegyvert és húzd meg a ravaszt, oké?}
 {495}{}{Semmit. A helyedben, Ramirez, tennék az emberiségnek egy szívességet, és egyszerre bevenném azt az egész doboz Jetet. Na, ég áldjon!}
-{496}{}{(Elsétálsz.)}
+{496}{}{(Te is indulsz a dolgodra.)}
 {500}{}{(Ahogy megfordulsz, Ramirez felhördül.) Hé! Ezt a dobozt kinyitották!}
 {501}{}{Lenyúlsz, homes?}
 {502}{}{Lenyúlsz, chica?}
@@ -169,24 +168,24 @@
 {504}{}{Persze, hogy hallom, de már nem sokáig.}
 {505}{}{Elég gyengére sikerült utolsó szavak ezek, Ramirez.}
 {600}{}{Elvitted Nagy Jesus csomagját Ramirez-nek.}
-{1200}{}{! Szuper, ahogy picsán rúgtad az Enklávét!}
-{1201}{}{, tiszta királyság, hogy megtanítottad azokat az Enklávés gyíkokat, hogy mennek a dolgok a KÜLVÁROSBAN.}
-{1210}{}{.}
+{1200}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
+{1201}{}{, királyul megtanítottad azokat az Enklávés gyíkokat, hogy mennek a dolgok a KÜLVÁROSBAN.}
+{1210}{}{ vagyok.}
 {1215}{}{? A Mordinók emelt fõvel járnak.}
 {1221}{}{! Que pasa?}
 {1224}{}{?}
-{1245}{}{? Amilyen jobb horgod van, nyugodtan járhatsz emelt fõvel.}
+{1245}{}{? Amilyen jobbhorgokat te tudsz ütni, nyugodtan járhatsz itt emelt fõvel.}
 {1255}{}{? Durva, amit csinálsz. Nagyon jó mozgásod van, homes.}
-{1259}{}{.}
+{1259}{}{ vagyok.}
 {1261}{}{. Ha meglát a többi család, egy szempillantás alatt be fognak rosálni.}
-{1263}{}{.}
+{1263}{}{ vagyok.}
 {1265}{}{. Azt a fickót LEMOSTAD a pályáról!}
 {1266}{}{?}
 {1285}{}{? Ugyan már, járj emelt fõvel!}
 {1297}{}{! Que pasa? Összehozol a Testvérekkel engem, vagy mi lesz?}
 {1298}{}{, jöhet a mozi!}
 {1300}{}{... ugyan már! Én KÉPES vagyok rá!}
-{1357}{}{! Faszán lenyomtad az Enklávét!}
+{1357}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
 {1358}{}{, királyul megtanítottad azokat az Enklávés gyíkokat, hogy mennek a dolgok a KÜLVÁROSBAN.}
 {1372}{}{?}
 {1373}{}{. Hol voltál?}

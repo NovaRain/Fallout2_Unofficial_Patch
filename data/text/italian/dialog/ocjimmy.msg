@@ -5,7 +5,7 @@
 {104}{}{Me guarda intorno.}
 {105}{}{Me }
 {106}{}{Uh... Me gironzola. Me va ora.}
-{107}{}{Davo solo un'occhiata in giro.}
+{107}{}{Stavo solo dando un'occhiata in giro.}
 {108}{}{Ciao, Jim. Io sono }
 {109}{}{Non sono affari tuoi, quattr'occhi. Stammi lontano.}
 {110}{}{Stavo solo facendo un giro. Adesso me ne vado.}
@@ -16,7 +16,7 @@
 {115}{}{Ehi, scusa. Non avevo intenzione di pestarti i piedi. Ti lascio ai tuoi affari.}
 {116}{}{Bene.}
 {117}{}{E' un piacere conoscerti, }
-{118}{}{Che cosa vorresti sapere?}
+{118}{}{Cosa vorresti sapere?}
 {119}{}{Cosa fare qui dentro?}
 {120}{}{Cosa essere tutte queste macchine?}
 {121}{}{Vault avere Supervisore. Questa stanza di Supervisore?}
@@ -24,7 +24,7 @@
 {123}{}{Cosa tu pensare di D'claw?}
 {124}{}{Computer avere bisogno di pezzo. Tu sapere dove trovare?}
 {125}{}{Me sa abbastanza. Me va ora.}
-{126}{}{Qual e' il tuo compito, qui?}
+{126}{}{Di che cosa ti occupi?}
 {127}{}{A cosa servono tutti questi macchinari?}
 {128}{}{Non e' questa la stanza del Supervisore del vault?}
 {129}{}{Sei qui nel vault di tua volonta'?}
@@ -47,7 +47,7 @@
 {146}{}{Okay, ma me chiede altre domande prima.}
 {147}{}{D'accordo, ma prima devo chiederti un paio di cose.}
 {148}{}{Questo e' un mainframe con i relativi dispositivi di supporto. Da qui sono controllate a distanza tutte le funzioni del vault.}
-{149}{}{Uhm... certo, certo...}
+{149}{}{Uh... essere come tu dire.}
 {150}{}{Ah, capisco.}
 {151}{}{Normalmente qui ci dovrebbe stare il Supervisore del vault, ma il Vault 13 e' stato completamente automatizzato.}
 {152}{}{Perche'?}
@@ -67,18 +67,17 @@
 {166}{}{Tu credere loro pericolo per persone?}
 {167}{}{Credi che siano una minaccia per la societa' umana?}
 {168}{}{Oh, certamente. Sono nettamente superiori a noi dal punto di vista fisico e hanno le alla fine e' tutta una questione di etica e di morale. Fortunatamente, sembra che siano eticamente e moralmente ben sviluppati.}
-{169}{}{Me capito.}
+{169}{}{Me capisce.}
 {170}{}{Si', capisco quello che intendi dire.}
 {171}{}{Ehila'. E' bello rivederti. Cosa posso fare per aiutarti?}
 {172}{}{Me deve fare domanda.}
 {173}{}{Me solo dice ciao. Me va.}
-{174}{}{Dovrei chiederti qualcosa.}
+{174}{}{Devo chiederti una cosa.}
 {175}{}{Volevo solo salutare.}
 {176}{}{Beh, vediamo un po'... credo che il posto migliore dove cercare sia Vault City, dal momento che e' il luogo piu' moderno che mi venga in mente. Potresti provare a fare un salto anche a New Reno, pero'. E' piu' vicina al nostro vault e ha frequenti scambi commerciali con Vault City.}
 {177}{}{Grazie.}
 {178}{}{Grazie per aver riparato il computer. Hai salvato la pelle a tutti noi.}
 {179}{}{Ho cose migliori da fare che sparare ai tipi come te, ma tutti hanno il diritto di prendersi una vacanza!}
-
 {180}{}{. Me fare domanda?}
 {181}{}{. Posso farti delle domande?}
 {182}{}{. Saro' felice di rispondere alle tue domande.}

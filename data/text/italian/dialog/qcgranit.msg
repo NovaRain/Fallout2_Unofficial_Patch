@@ -8,13 +8,13 @@
 {107}{}{Facciamo secco quello scherzo della natura!}
 {108}{}{Facciamolo fuori.}
 {109}{}{Sono pronto all'azione.}
-{110}{}{Diamoci dentro!}
+{110}{}{Si balla!}
 {111}{}{Faro' saltare la testa di quel mostro!}
 {112}{}{Non mi piace uccidere gli idioti.}
 {113}{}{Puoi andare.}
 {114}{}{Io non ho visto nulla.}
-{115}{}{Questi non sono i droidi che stiamo cercando.} ###???These are not the droids we are looking for
-{116}{}{Circolare.}
+{115}{}{Questi non sono i droidi che stiamo cercando.}
+{116}{}{Vattene.}
 {117}{}{Sono stanco di uccidere.}
 {118}{}{Dai, forza!}
 {119}{}{Buoni, ragazzi.}
@@ -46,7 +46,7 @@
 {145}{}{Questa e' la sottovalutazione dell'anno. Ho pieta' di te, amico, dico davvero.}
 {146}{}{Hai pieta' di me? Sei tu quello che dovrebbe sentirsi male. Il vostro computer di controllo della centrale e' saltato e ora quel che vi aspetta e' una bella fusione nucleare. Morirete tutti, a meno che...}
 {147}{}{Non ho bisogno della tua pieta'. Ho solo bisogno di vederti morto.}
-{148}{}{Ho altre cose da fare. Tanto siete gia' tutti morti. Provate a godervi gli ultimi momenti che vi restano da vivere su questa terra. Addio.} ###???Smoke 'em if you got 'em
+{148}{}{Ho altre cose da fare. Tanto siete gia' tutti morti. Provate a godervi gli ultimi momenti che vi restano da vivere su questa terra. Addio.}
 {149}{}{A meno che?!?}
 {150}{}{A meno che voi non mi aiutiate a sconfiggere Horrigan e a raggiungere la mia nave.}
 {151}{}{Come non detto. Non ho tempo per discutere. Addio.}

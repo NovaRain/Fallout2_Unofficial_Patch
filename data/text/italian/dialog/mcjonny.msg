@@ -1,10 +1,9 @@
 {100}{}{Vedi un ragazzino.}
 {101}{}{Vedi Jonny.}
 {102}{}{Capelli biondi, occhi azzurri; il tipico ragazzo americano.}
-
 {150}{}{Waaaaa!}
 {151}{}{Rivoglio il mio cane!}
-{152}{}{::Frigna::}
+{152}{}{Whimper... }
 {153}{}{Straniero!}
 {154}{}{Laddie! Mi sei mancato, piccolo. Grazie per avermi riportato il mio cane.}
 {155}{}{Ciao, non ti ho mai visto da queste parti, prima d'ora.}
@@ -49,9 +48,7 @@
 {201}{}{Ti prego sbrigati. Voglio andare a casa.}
 {202}{}{No! Non ti credo! Ridammi il mio cane! [Waaaaa!]}
 {203}{}{Oh no! Non sai che Rose usa i cani nei suoi piatti?! Laddie a quest'ora sara' gia' diventato un hamburger.}
-
 {300}{}{Laddie!!!}
-
 {400}{}{Grazie per avermi salvato, signore.}
 {401}{}{E' bello essere a casa!}
 {402}{}{Wahoo...}

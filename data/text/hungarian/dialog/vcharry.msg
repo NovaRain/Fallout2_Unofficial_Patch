@@ -1,11 +1,10 @@
-# Dialog Editor last position: 5
 {100}{}{Egy alacsony, mosolygós férfit látsz.}
 {101}{}{Boldog Harry, a bolt tulaja.}
 {102}{}{Üdvözöllek, barátom! Mondd, mit tehetek érted?}
 {103}{}{Vásárolni szeretnék. Láthatnám a kínálatot?}
 {104}{}{Van kint egy eke. Eladó?}
 {105}{}{Én vesz}
-{106}{}{Köszönöm, semmit. Mennem kell.}
+{106}{}{Kösz, egyelõre elleszek magam is.}
 {107}{}{Sajnálom barátom, nem tudok segíteni.}
 {108}{}{Természetesen, nyolcszázért a tiéd lehet. Biztosíthatlak, pompás darab.}
 {109}{}{Nyolcszáz?! Hatszázat adok érte.}

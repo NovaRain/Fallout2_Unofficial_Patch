@@ -7,7 +7,7 @@
 {106}{}{Te fura. Én menni.}
 {107}{}{Én az az ember vagyok, aki szétrúgja a seggedet, ha nem hagyod abba ezt a cica baromságot, és nem mondod meg a neved!}
 {108}{}{Én csak egy sima ember vagyok, akit egészen meghatott a te különös természeted. Megmondod a neved?}
-{109}{}{Felejtsd el!}
+{109}{}{Értem.}
 {110}{}{(Kuncogás) Viccesen nézel ki! Miau... Sandy vagyok. Nem vagyok igaziból cica. Csak szeretem eljátszani, hogy az vagyok.}
 {111}{}{(Sikítás) Anyuu! Anyuu!! Anyuu!!}
 {112}{}{Sandy vagyok. Nem vagyok cica, csak szeretem eljátszani.}
@@ -31,7 +31,7 @@
 {130}{}{Azt hiszem, már eleget hallottam. Szia.}
 {131}{}{Tulképpen... Viszont hiányzik, hogy nem játszhatok más gyerekekkel, de anya azt mondta, minden máshogy lesz. Azt hiszi, más gyerekek is idejönnek majd lakni. Amíg nincsenek, addig Valdisszal szeretnék játszani. Õ vicces, és lovagolhatok is rajta. Anyu azt mondja, hogy békén kellene hagynom. Sok dolga van, és nincs ideje játszani, de ha megkérem, mindig játszik velem. Nem mesélem el anyunak, és kész.}
 {132}{}{Lovacska... (zavarodott kutyus tekintet)}
-{133}{}{Megyek.}
+{133}{}{Én menni elfele.}
 {134}{}{Ez kedves.}
 {135}{}{Ok, szija.}
 {136}{}{Aha. Anya vigyáz rám, és Valdis sem hagyná, hogy bárki bántson. Itt biztonságban vagyok.}

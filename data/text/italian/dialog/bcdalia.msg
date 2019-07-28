@@ -4,19 +4,19 @@
 {103}{}{Ciao. Sono Dalia. Come posso aiutarti?}
 {104}{}{Niente, solo dice ciao.}
 {105}{}{Uh, chi tu?}
-{106}{}{Cosa tu fare qui?}
+{106}{}{Cosa fare qui dentro?}
 {107}{}{Tu sembrare guardia.}
 {108}{}{Me va ora.}
-{109}{}{Volevo solo salutare.}
+{109}{}{Volevo solo salutarti.}
 {110}{}{Chi sei?}
 {111}{}{Cosa stai facendo?}
 {112}{}{Sembra che tu stia facendo la guardia a questo sentiero.}
-{113}{}{Adesso devo andare.}
+{113}{}{Me ne vado subito.}
 {114}{}{Beh, ciao anche a te. Adesso, mi spiace, ma dovresti andartene.}
 {115}{}{Me vuole parlare.}
 {116}{}{Ok, me va.}
 {117}{}{Voglio parlarti.}
-{118}{}{Ciao.}
+{118}{}{Addio.}
 {119}{}{Ho detto che sono Dalia. Guarda, non vorrei sembrarti sgarbata, ma non ho voglia di parlare con nessuno, adesso. Okay?}
 {120}{}{Okay, ciao.}
 {121}{}{Ancora un secondo.}
@@ -40,8 +40,8 @@
 {139}{}{}
 {140}{}{Ciao. Sono Dalia. Come posso aiutarti?}
 {141}{}{Persona andata di qua? Di corsa?}
-{142}{}{Niente.}
-{143}{}{Niente.}
+{142}{}{Nulla.}
+{143}{}{Nulla.}
 {144}{}{Hai visto qualcuno passare di qui di corsa?}
 {145}{}{Vedo gente passare di qui ogni giorno. Non do loro molta attenzione.}
 {146}{}{Me no ha tempo per tue stronzate.}
@@ -54,6 +54,6 @@
 {153}{}{Grazie. Me no dimentica questo, Dalia.}
 {154}{}{Grazie. Non lo dimentichero', Dalia.}
 {155}{}{Allora va' all'inferno e lasciami in pace!}
-{156}{}{Ok.}
+{156}{}{Ci sto.}
 {157}{}{Allora va' all'inferno e lasciami in pace!}
-{158}{}{Ok.}
+{158}{}{Ci sto.}

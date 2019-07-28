@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {100}{}{Õ Tully atya.}
 {150}{}{Egy idõsebb emberhez van szerencséd. Barna csuhát visel, az arcán kisebb-nagyobb whiskey foltok. Egy egész picinykét bizonytalannak tûnik az állása.}
 {151}{}{Õ Tully Atya. Már túl van egy-két adag italon.}
@@ -43,17 +42,17 @@
 {254}{}{Jóccakát.}
 {255}{}{Öö, az a helyzet, hogy most nappal van, Atyám.}
 {256}{}{Öö, az a helyzet, hogy most éjszaka van, Atyám.}
-{257}{}{Kicsoda maga?}
+{257}{}{Ki vagy te?}
 {258}{}{Maga részeg?}
 {259}{}{Szóval Tully "Atya"...? Válni lehet magánál?}
 {261}{}{Hoztam egy kis piát, Atyám. Tudnánk beszélgetni egy picit?}
-{262}{}{Semmit. Bocsánat, hogy megzavartam a tevékenykedésében.}
+{262}{}{Semmit. Már itt sem vagyok.}
 {270}{}{(Megszagolja a hónalját, aztán a csuháját.) Amindenit, bûzlök, mi? A fészkes fenébe, olyan a szagom, mint a szeszfõzdének! Jobb leszen megfürödnöm, mielõtt Wright asszonyság elkapja a grabancom...}
 {271}{}{Pá pá pisis}
 {275}{}{Francba, túlságosan sokat aludtam... különben észrevettem volna... mi a francot is mondtam?}
 {290}{}{Tully Atya vagyok, a szolgálatodra. Én vagyok a spirituális tanácsadója a jó e... szóval a New Reno-i lakosoknak.}
 {291}{}{Ezt csak részegen tudja elképzelni?}
-{292}{}{Szeretnék egy-két kérdést feltenni New Renóval kapcsolatban...}
+{292}{}{Volna néhány kérdésem New Renóval kapcsolatban...}
 {295}{}{Értem... hát köszönöm, hogy beszélgetett velem.}
 {300}{}{Termesztettesen nem! Régen úgy ismertek, mint aki alkal'madtán ránézzeget a pohárnak fenekére, de az Önmegtartóztatók Szövetsége segített megszabadulni attó' a mocskos szokástól.}
 {301}{}{Az Önmegt...?}
@@ -146,10 +145,11 @@
 {591}{}{Miféle otthoni ügyekre?}
 {600}{}{Hát nem sokat, de a gyónás során hallok ám ezt-azt a vén Bishopró'. Ördöngõs alak. Olyan thökös muksó, hogy diót tunna törni a golyóival. Sze'tem õ áll a Menedékváros elleni fosssztogató akciók mögött... hallottá' róluk?}
 {601}{}{Nem.}
-{602}{}{Hallottam.}
+{602}{}{Igen.}
 {603}{}{Atyám, vissza kéne fognia magát. Ez a fajta beszéd akár a vesztét is okozhatja ebben a városban...}
-{604}{}{Nézze, talán visszajövök majd, ha kijózanodott.}
-{610}{}{(Rád sem hederít.) Néhány hónapja a vén Bishop karavánt küldött Menedékvárosba. Meg akarta gyõzni õket, hogy Menedékvárosnak és New Renónak frigyre kõne lépni.}
+{604}{}{Nézze, lehet, hogy késõbb visszajövök, ha már kijózanodott.}
+{610}{}{(Ignores you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween
+ Vault City n' New Reno.}
 {611}{}{Sikerült megegyezniük?}
 {612}{}{Remélem, nem egyeztek meg.}
 {620}{}{Többnyire ami elvárható egy elhanyagolt feleséghtõl, akinek ollyan, de ollyan teste van, hogy még a vakságot is elmúlaszttya. Kész házasságtörés. Úgy értem, láttad már a didkóit? Atyám!}
@@ -186,7 +186,7 @@
 {690}{}{ETIL Wright? Áldott az az asszony! Távol tart engem az ivástó', és jó irányba tere'get. (Meghúzza az üveget.) Úgy kihajtja belõled a bûnöket, hoccsak na... öö, viszont... mi a francró' is beszéltem?}
 {691}{}{Wright asszonyságról, meg a gyónásról...}
 {692}{}{A Wright családról...}
-{693}{}{Hagyjuk! Inkább kérdezek valami mást...}
+{693}{}{Felejtsd el! Kérdeznék inkább valami mást.}
 {694}{}{Szerintem nem kell szaporítani a szót. Köszönöm, hogy beszélgetett velem.}
 {700}{}{Ó, igen, igen. Hát, öö, ami a gyónást illeti, õ nem sokmindent mondott. Bûnösnek érezte magát, hogy bogarakat taposott el... vagy túl sokat szexelt a férjecskéjével. Hehe. (Meghúzza az üveget.) Imáááádom a bûnöket.}
 {701}{}{Ha nem bánja, még kérdeznék a Wright családról...}
@@ -240,12 +240,13 @@
 {830}{}{Egy olyan fényhozó akár egy tucat embert is megölhet... a többi család mán mind harcót a Salvatorékka', de mostanra már mindenki beszüntette a csatározást. Afféle békekötés... addig jójjaz, míg kitart.}
 {831}{}{Ki a Salvatorék feje, Atyám?}
 {833}{}{Gondolom. Hát kösz, hogy beszélhettünk, Atyám.}
-{840}{}{Louie... LOUIS... Salvatore áll a színfalak mögött. (Kiüríti a palackot és köhécsel egy kicsit.) Nyomorék. Zoxigén tartály kõ neki, hogy lélegzeni tuggyon... A tüdeje tönkre ment. Mindég ott van a fölsõ emeleten, és sosenem jön elõ a barlangjábó'.}
+{840}{}{Louie... LOUIS... Salvatore runz th' show. (Drains bottle, coughs slightly.) Cripple. Needz an oxygen tank ta keep breathin'... his
+ lungs are messed up. Stays in th' top floor of his establishment, never comes out.}
 {841}{}{Érdekes. Kérdezhetek még egy-két dolgot, Atyám?}
 {842}{}{Hmmmm. Oxigénpalackot hord? Érdekes. Hát köszönöm, hogy beszélgettünk, Atyám.}
 {850}{}{Szegény gyerek... A Jet elragadta a családjától, bizony ám. Átkozott anyag! A legrosszabb agypusztító, amit valaha kitaláltak...}
 {852}{}{Tudja, hogy Richard honnan szerezte a végzetes Jetet?}
-{853}{}{Volna még néhány kérdésem...}
+{853}{}{Lenne pár kérdésem.}
 {854}{}{Értem. Hát köszönöm, hogy beszélgetett velem, Atyám.}
 {860}{}{Akár egész New Renóba' hozzájuthatott! Átellenbe' van egy komédiába illõ gyógyszerészet, amit egy drogdíler vezet, de ha nem õ lenne, mennyé oda az elsõ emberhõ az utcán, és máris belefucc egy újabb drogdílerbe. A francos Jet az oka neki!}
 {862}{}{Menjek be az utca másik oldalán lévõ gyógyszerészhez? Rendben, úgy lesz. Köszönöm, hogy beszélgethettünk, Atyám.}

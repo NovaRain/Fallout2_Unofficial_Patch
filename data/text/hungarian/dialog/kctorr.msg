@@ -1,4 +1,3 @@
-# Dialog Editor last position: 119
 {100}{}{Egy nagy darab, piszkos férfit látsz, halvány mosollyal és üres tekintettel.}
 {101}{}{Õ Torr Buckner, a város legostobább embere.}
 {102}{}{Egy nagy és erõs férfit látsz piszkos ruhában, üdvözült mosollyal az arcán.}
@@ -6,7 +5,7 @@
 {111}{}{Menny rossz ember! Ne báncsad Torrt!}
 {112}{}{Aúúúúú! Tûnnyél el!}
 {113}{}{Haggyad abba Torr bántás.}
-{114}{}{Torr lenni jó. Nem bánt Torr.}
+{114}{}{Torr good. No hurt Torr.}
 {115}{}{Torr fáj. Rossz emberek! Rossz emberek menni el!}
 {120}{}{Segít Torr! (Kérlek, segíts! Van valamiféle lény, ami nem hagyja, hogy elhagyjam ezt a helyet.)}
 {121}{}{Segít Torr!}
@@ -16,17 +15,21 @@
 {131}{}{Nyüssz-nyüssz! Ááá! Szellem rossz! Segít Torr! Torr megy most!}
 {132}{}{Ookéé Torr! (Jól hangzik, Torr, tûnjünk el innen.)}
 {133}{}{Majd késõbb beszélünk. Most inkább tûnjünk el innen.}
-{140}{}{Én Torr. (Torr vagyok. Segíthetek valamiben?)}
-{141}{}{Én Torr.}
-{142}{}{Te Torr. (Helló, Torr. Lenne pár kérdésem.)}
+{140}{}{Me Torr. (I'm Torr. Can I help you with anything?)}
+{141}{}{Me Torr.}
+{142}{}{You Torr. (Hello, Torr. I do have a few questions for you.)}
 {143}{}{Örülök, hogy találkoztunk, Torr. Mi újság errefelé?}
+{144}{}{I am here about the brah- err, I mean moo-moos.}
 {150}{}{Én õriz mú-múk bogárembertõl. (Én õrzöm a család brahminjait a kétlábú, páncélos lények - amiket bogárembereknek hívok - kegyetlen éjszakai támadásaitól.)}
 {151}{}{Én õriz mú-múk bogáremberektõl.}
 {152}{}{Bogárember? (Bogáremberek? Ez jó megnevezésnek tûnik a leírásod alapján. Mesélj még róluk!)}
 {153}{}{Bogárember?}
-{160}{}{Bogáremberek viszik mú-múkat éjszaka. Torr fél. Segít Torr? (Nos, a bogáremberek éjszaka vadásznak a brahminokra. Jól jönne egy kis segítség az õrzéshez. Csak meg kell ölnöd a bogárembereket, amik közel merészkednek a brahminokhoz.)}
+{160}{}{Bugmen take moo-moos at night. Torr scared! Hep Torr? (Well, as I said, they are nocturnal in
+ their feeding habits. I sure could use some assistance in guarding the brahmin. Will you kill any
+ bugmen that you see near the brahmin?)}
 {161}{}{Bogárember visznek mú-múkat éjjel. Torr fél. Segít Torr?}
-{162}{}{Segít Torr véd mú-múk. (Persze, hogy segítek megóvni a családod brahminjait az aljas bogáremberek vérengzõ támadásaitól.)}
+{162}{}{Hep Torr hep moo-moo. (Yes, of course I'll help you fend off the predation of your family's
+ brahmin by these nefarious bugmen.)}
 {163}{}{Bogáremberek rosszak. Nem segít Torrnak. (Hmm, most nem tudok segíteni neked a bogáremberek ügyében. sok szerencsét kívánok. Viszlát!)}
 {164}{}{Öm, persze, Torr. Segítek neked a brahminok õrzésében.}
 {165}{}{Nem tudok (rázod a fejed) segíteni. Viszlát!}
@@ -86,13 +89,13 @@
 {267}{}{Duntonok rosszak.}
 {268}{}{Szárított hús jóó.}
 {269}{}{Torr erõs.}
-{270}{}{Okkké?}
+{270}{}{Ook?}
 {271}{}{Zágzág.}
 {272}{}{Szörcs?}
 {273}{}{Aróó?}
 {274}{}{Pisilnem kell.}
 {275}{}{Helló!}
-{276}{}{Szia.}
+{276}{}{Szia!}
 {277}{}{Torr!}
 {279}{}{Torr lát }
 {280}{}{! (Üdv, barátom. Segíthetek valamiben?)}
@@ -117,4 +120,4 @@
 {700}{}{Cserélõ? Itten? Vic ment Rejtek. (Egy helyi kereskedõ? Igen, Vic régiségekkel kereskedik, de most nincs a városban. Úgy tudom, Rejtekbe ment. Az délre van innen.)}
 {701}{}{Juhé! (Köszönöm, Torr. Mit is mondtál azokról a ragadozókról?)}
 {702}{}{Juhé! Torr! (Hálásan köszönöm, Torr. Te vagy itt a legjobb ember. Most mennem kell, de sok sikert kívánok az állataidhoz. Viszlát, Torr barátom!)}
-{800}{}{Megmentetted Torrt.}
+{800}{}{You have successfully rescued Torr.}

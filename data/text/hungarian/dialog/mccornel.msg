@@ -1,12 +1,11 @@
-# Dialog Editor last position: 12
-{100}{}{Idõs ember.}
-{101}{}{Cornelius.}
+{100}{}{Egy öregembert látsz.}
+{101}{}{You see Cornelius.}
 {102}{}{A kissé zavaros arckifejezése ellenére semmi különöset nem veszel észre rajta.}
 {150}{}{Üdvözlet Rose Panziójában. A nevem Rose, illetve Cornelius, és én vezetem ezt a helyet. Segíthetek?}
 {151}{}{Ha magáé a hely, miért nevezik Rose Panziójának?}
 {152}{}{Egy aranyórát keresek.}
-{153}{}{Mit csinál itt?}
-{154}{}{Kicsoda Rose?}
+{153}{}{Mi a munkád?}
+{154}{}{Who's Rose?}
 {155}{}{Kivennék egy szobát.}
 {156}{}{Kérdést? Kérdeztem volna valamit? Üdv, a nevem Cornelius.}
 {162}{}{Szerintem magának segítségre lenne szüksége.}
@@ -18,7 +17,7 @@
 {177}{}{Én öltem meg. És most mit kezd ezzel, vén bolond?}
 {178}{}{Azta... Hogy elment az idõ! Mennem kell.}
 {179}{}{Rose a feleségem és róla neveztem el a helyet. Tudta, hogy házas ember vagyok?}
-{180}{}{Feltehetek magának néhány további kérdést?}
+{180}{}{Feltehetek még néhány kérdést?}
 {181}{}{MOCSKOS FARREL! LEHET, HOGY EL AKARJA ADNI MAGÁNAK AZ ÓRÁT, AMIT TÕLEM LOPOTT EL! Most viszont dolgom van. Meg kell nyírnom a brahminokat.}
 {182}{}{Én vezetem a panziót. Igen, ha én nem lennék, ez az egész kóceráj ebek harmincadjára jutna. Látta már az árnyékszéket? A legtisztább budi, amibe valaha betette a lábát. Az én mûvem...}
 {183}{}{Mi köze a tiszta vécének a panzió vezetéséhez?}
@@ -30,7 +29,7 @@
 {189}{}{Oké, visszaszerzem az óráját.}
 {190}{}{Megpróbálta az íróasztaljában keresni?}
 {191}{}{Segít nekem? Nagyszerû! Osszon ki egy-két pofont Farrelnek és hozza vissza az órámat! Valószínûleg jól eldugta. Forgassa fel a házát érte!}
-{192}{}{Mirõl beszél?}
+{192}{}{Mirõl beszélsz?}
 {193}{}{Nézze, én nem akarok részt venni ebben.}
 {194}{}{Ölje meg Farrelt, kell az órám, érti?? Mingyár jövök.}
 {195}{}{Megölni Farrelt? Ki akarja megölni Farrelt? Õ a legjobb barátom! Személyesen tekerem ki a nyakát annak, aki megpróbálja megölni Farrelt!}

@@ -1,4 +1,3 @@
-# Dialog Editor last position: 113
 {100}{}{Egy sírt látsz.}
 {101}{}{Egy nyitott sírt látsz.}
 {102}{}{Ez egy sírhely.}
@@ -10,7 +9,7 @@
 {250}{}{Ezen a sírkövön egyetlen jelölés sincs.}
 {251}{}{A sírkövön lévõ nevet lekaparták.}
 {252}{}{A sírkövön az alábbi név olvasható: John Doe.}
-{253}{}{A sírkõre vésett nevet és dátumot lekoptatta az idõ vasfoga.}
+{253}{}{A fejfára vésett nevet és dátumot lekoptatta az idõjárás.}
 {260}{}{Ezen a fejfán egyetlen jelölés sincs.}
 {261}{}{A fejfáról lekaparták a nevet.}
 {262}{}{A fejfán olvasható név John Doe.}
@@ -20,8 +19,8 @@
 {300}{}{"Itt nyugszik Chris Avellone, a Táncparkett Ördöge."}
 {301}{}{"Chris Jones. Éjszárny."}
 {302}{}{"Christopher Michael Holland, más néven 'Chris Holland', más néven 'Chris'. Két és fél ok létezik, hogy elolvasd e sírkõ feliratát... Normális esetben elvárnád, hogy az okok fel legyenek sorolva."}
-{303}{}{"Colin McComb: Egy újabb céltalan élet"}
-{304}{}{"David Hendee: a halottak leghangosabbika. Nyugodjon békében, szép csendben."}
+{303}{}{"Colin McComb: Another pointless life."}
+{304}{}{"David Hendee: the loudest among the dead. May he rest in peace, quietly."}
 {305}{}{"Ed Hyland. "Kapd be!", közölte a világgal."}
 {306}{}{"Eric Demilt. Az IGAZI bunyós srác."}
 {307}{}{"Feargus Urquhart: Túl sok francos listát csinált."}
@@ -37,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Menedékvárosi számûzött."}
 {318}{}{"Rupert Dinkos, meghalt 2000 telén."}
 {319}{}{"Matt Norton. Lehetett volna valaki. Lehetett volna contenda belõle, de csak csövességre futotta. Ennyire telt neki."}
-{320}{}{"Nick Kesting." [Egy kis vödörnyi kerek réz lõszer van a síron]}
+{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
 {321}{}{"Robert Collier. Csendes. Halálos. Egyszerûen csak Rob."}
 {322}{}{"Robert Hertenstein 2. Az orvosa el akarta mondani neki, de õ kitartott: 'Nem akarom tudni."}
 {323}{}{"Scott Campbell. Nem Naomi."}
@@ -45,31 +44,31 @@
 {325}{}{"Scott Rodenhizer. 3D fejeket modellezett."}
 {326}{}{"Thomas French: Meghalt, mikor megpróbálta elsajátítani a Repülõ Guillotine-t."}
 {327}{}{"Tim Cain. Alapító, Szeretõ, Bunyós, Programozó."}
-{328}{}{"Tramell Ray Isaac: Itt nyugszik a játékipar egyik legkeményebben hajtó embere. Egyedülálló Animátor. Szerintem. R.I.P. T.Ray"}
-{329}{}{"Zeb -- Még Mindig Öregebb Mint Az Országút"}
-{330}{}{"Dennis Presnell. Szinte halljuk a hangját: "Ezt nevezitek ti temetésnek?! Ez egy nagy rakás szar, nem temetés! Gyerekek, ti jó nagy !@#fejek vagytok! Haljon meg a fene még egyszer! Bla bla bla..." Alá ezt firkálta valaki: Isten nyugtassa Rinyáló D-t, fenn kellett volna hagynia a kötést."}
-{331}{}{"Rupert Diukos, meghalt 1996 szeptember 24-én."}
-{332}{}{"Sal De Ban, meghalt 1996 szeptember 24-én."}
-{333}{}{"Greg Zeschule, meghalt 1999 õszén"}
-{334}{}{"Ray Muzyka, meghalt 1998 nyarán."}
+{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
+{329}{}{"Zeb -- Still Older Than Dirt."}
+{330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah blah blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
+{331}{}{"Rupert Diukos, died 9/24/96."}
+{332}{}{"Sal De Ban, died 9/24/96."}
+{333}{}{"Greg Zeschule, Fall '99."}
+{334}{}{"Ray Muzyka, Summer '98."}
 {335}{}{"Evan Chantland, 1974-????: Nem volt paranoiás, õt tényleg üldözték."}
 {336}{}{"Itt nyugszik Moose, halottabb nem is lehetne. Itt találtunk rá fej nélkül."}
-{337}{}{"Amy Presnell"}
+{337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, élt 25 évet. A szörnyû végzet parittyái és nyilai által élete teljében ragadta el a halál."}
 {339}{}{"R.I.P. Doug "Szopatós" Finch (Az évszám nem számít) Megölték mert cigarettázott franciázás közben. Utolsó szavai ezek voltak: Most szétbaszlak!"}
 {340}{}{"Itt nyugszik Donnie Cornwell. Úgy meghalt, mint a pinty. Egy különlegesen nagy koporsót kapott, hogy beleférjen a különlegesen nagy feje."}
 {341}{}{"Rob Giampa úgy élte az életét, ahogy a nõit szerette: gyorsan, olcsón és egyszerûen."}
-{342}{}{"T. D. Hamilton: Itt nyugszik egy büdös suttyó, akinek már régen meg kellett volna halnia. Reméljük, a pokolba jutottál, te ROHADÉK."}
+{342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. Rest in hell, BITCH!"}
 {343}{}{"A határidõ újabb áldozata."}
 {344}{}{"Dogbomb meghalt. Éljen soká a Kutya."}
-{345}{}{"Kris Snider: Túl versenyképes"}
+{345}{}{"Kris Snider: Too competitive."}
 {346}{}{"Tudsz valami értelmeset kezdeni az életeddel?"}
 {347}{}{"Miért nem ölöd meg magad? Így másra maradna a balhé."}
 {348}{}{"Charles Cuevas: Egyszer azt mondta 'Vagy a jégkorong vagy a halál.' Hát nem a jégkorongot kapta."}
-{349}{}{"William Lebus"}
+{349}{}{"William Lebus."}
 {350}{}{"Reg Arnedo: még mindig halljuk a hangját a termekben."}
-{351}{}{"Shanna SanPaolo"}
-{352}{}{"Brahmin Tenyésztõ"}
+{351}{}{"Shanna SanPaolo."}
+{352}{}{"Brahmin Wrangler."}
 {353}{}{"Josh Walters, 1971-2011. Az ötödik májátültetés közben komplikációk léptek fel, és bele is halt."}
 {354}{}{"Doug Avery. Utálta a háborút, mert tönkretette a kamionos életformáját."}
 {355}{}{"Itt nyugszik Ezekial Aikle, élt 102 évet. A jók korán halnak."}
@@ -90,16 +89,15 @@
 {370}{}{"Eltávozott Owen Moore, nem lehetett többé Mór."}
 {371}{}{"A kis Chris, a Fa emlékére: Itt nyugszik egy fába zárt Fa, egyik Fa a másikban. A külsõ fa ugyan nyerõ, a belsõ aligha dicsérhetõ."}
 {372}{}{"Sírjára nem került dísz, itt nyugszik Jonathan Pease. Megboldogult, ez csak a porhüvelye, Pease-nek már Istennél van a helye." }
-{373}{}{"Ki 1870 március 21-én halálosan megégett, mikoron a remek "R.E. Danforth védjegyû robbanásmentes olajjal" feltöltött lámpája felrobbant a kezében.}
+{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
 {374}{}{"Született 1903-ban -- Meghalt 1942-ben. Felnézett a liftaknába, hogy lássa jön-e a lift. Jött." }
 {375}{}{"Itt fekszik egy teljesen felöltöztetett Ateista, de nincs hova mennie."}
-{376}{}{"Eileen Suh: Elment a W&M egyetemre jogot hallgatni, így lett Eileen Sue."}
+{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Szónok, Író, Professzor, De Amicitia."}
-{378}{}{"Tim Winkle - Csakis a saját álszentségemet viselem el."}
-{379}{}{"Tökfej - Archie Királynõ Világának Királya"}
+{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
+{379}{}{"Jughead - King of Queen Archie's World."}
 {380}{}{"R.I.P Casey Donahue, meghalt 1998 június 8-án. Gyilkosa egy feldühödött mutáns tengeri sügér volt."}
-{381}{}{"Christopher 'Éjszárny' Jones: a jól ismert fejsérülés-specialista."}
-#A szebb sortores miatt lett hosszabb a 381 (bass)
+{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Krumplilábú" Nielson. Zenész. 104 éves korában egy dobszóló közben távozott közülünk." }
 {383}{}{"Nitsa - Charles õmiatta nem jutott jéghokihoz."}
 {384}{}{"Thuy Dang. Isten bocsássa meg a nevét."}

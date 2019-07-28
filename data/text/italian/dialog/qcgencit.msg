@@ -1,9 +1,9 @@
 {100}{}{Vedi una persona che indossa uno dei completi blu da vault.}
 {101}{}{Vedi un cittadino dell'Enclave.}
 {102}{}{Vedi un cittadino pallido, ma dall'aspetto sano.}
-{103}{}{Ho bisogno di un po' di riposo.} ###??? Might as well rest a bit
+{103}{}{Ho bisogno di un po' di riposo.}
 {104}{}{Mi domando quale filmato educativo sia in programmazione stasera?}
-{105}{}{Cosa sei tu?}
+{105}{}{Che cosa sei?}
 {106}{}{Il clima e' sempre lo stesso qui.}
 {107}{}{Il Progetto procede bene.}
 {108}{}{Mi dispiace per il Vice Presidente Bird.}
@@ -19,7 +19,7 @@
 {118}{}{Quel coso continua a rompersi.}
 {119}{}{Mi sento come se mi fossi scottato la pelle.}
 {120}{}{Sbaglio, o qui dentro comincia a fare piu' caldo?}
-{121}{}{Questo non va bene.}
+{121}{}{This isn't good.}
 {122}{}{Cazzo, cazzo, cazzo.}
 {123}{}{Dov'e' la mia maschera antigas?}
 {124}{}{C'e' uno strano odore nell'aria.}

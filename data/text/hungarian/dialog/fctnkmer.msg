@@ -1,4 +1,4 @@
-{100}{}{Kereskedõ.}
+{100}{}{Egy kereskedõt látsz.}
 {101}{}{Õ Jenna, a kereskedõ.}
 {102}{}{Egy csinos eladó-nõt látsz.}
 {103}{}{Szia! Jenna vagyok. Segíthetek?}
@@ -14,15 +14,15 @@
 {113}{}{Nagyszerû! Nézz körül!}
 {114}{}{}
 {115}{}{Oké.}
-{116}{}{Bármi egyebet?}
+{116}{}{Másvalamit?}
 {117}{}{Igen.}
-{118}{}{Nem, köszönöm.}
+{118}{}{Nem.}
 {119}{}{Hát akkor, szép napot kívánok neked!}
 {120}{}{}
 {121}{}{Oké.}
 {122}{}{Üdv újra minálunk! Van valami, amiben segíthetnék?}
 {123}{}{Igen.}
-{124}{}{Nincs.}
+{124}{}{Nem.}
 {125}{}{Sajnálom, de zárva vagyok. Nyolckor nyitok, légyszi gyere vissza akkor!}
 {126}{}{}
 {127}{}{Oké.}

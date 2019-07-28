@@ -1,9 +1,8 @@
-# Dialog Editor last position: 60
 {100}{}{Egy középkorú, erõs rabszolga-hajcsárt látsz.}
 {101}{}{Ennek a hajcsárnak jó nagy vágás van a fején.}
-{102}{}{Egy meglehetõsen szép szál rabszolga-hajcsár.}
-{150}{}{Szemlátomást létezik olyan rabszolga-hajcsár, aki élvezi a munkáját.}
-{151}{}{Ez a hajcsár erõsnek tûnik ugyan, de az esze már korántsem vághat úgy, mint a beretva.}
+{102}{}{Egy elég nagy darab rabszolga-hajcsárt látsz.}
+{150}{}{Egy rabszolga-hajcsár, aki szemlátomást élvezi a munkáját.}
+{151}{}{This slaver seems to be very strong but not too bright.}
 {152}{}{Ez a hajcsár jól felszereltnek tûnik, csakúgy, mint a társai.}
 {225}{}{Kapjuk el õket!}
 {226}{}{Csak azokat öldd meg, akik ellenállást fejtenek ki!}
@@ -49,7 +48,7 @@
 {322}{}{Gyerünk!}
 {323}{}{Láttam már jobbat is, de a pénz az pénz.}
 {324}{}{Metzgernek tetszeni fognak.}
-{325}{}{Elég jól nyomattuk a témát.}
+{325}{}{Egész jól.}
 {326}{}{Siess! Kapjuk el.}
 {327}{}{Ez egészen megteszi...}
 {328}{}{Szép szállítmány.}

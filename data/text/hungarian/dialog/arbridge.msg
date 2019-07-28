@@ -1,1 +1,2 @@
-{100}{}{A Nagy Hídnál állsz, amely kivezet a faludból a pusztaságba.}
+{100}{}{You are standing at the Great Bridge, passageway from
+ your village to the vast Wasteland.}

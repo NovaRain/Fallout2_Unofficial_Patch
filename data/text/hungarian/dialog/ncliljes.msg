@@ -1,4 +1,3 @@
-# Dialog Editor last position: 1
 {150}{}{Egy napcserzette fiatalember áll elõtted. Fekete bõrszerkót és láncokat visel. Arcát valami bõrbetegségbõl szerzett sebek csúfítják.}
 {151}{}{Ez a férfi Kis Jesus Mordino.}
 {152}{}{Ez a férfi Kis Jesus Mordino. Fekete bõrszerkót hord és az egyik késével játszik.}
@@ -10,8 +9,7 @@
 {230}{}{Jól el vagy látva, }
 {240}{}{Mi ez a nagy lopódzkodás, }
 {250}{}{Na, mi van, }
-{5250}{}{?}
-{251}{}{Héééé... }
+{251}{}{Heeey... }
 {252}{}{Öcsééém, nagyon meleg van!}
 {253}{}{Hééé! Mi járatban, }
 {254}{}{Jó, hogy látunk, }
@@ -48,7 +46,7 @@
 {347}{}{Mennyit nyomsz fekve, }
 {348}{}{Hol edzel, mi?}
 {349}{}{Vigyázz a Húsdarálóval! Legszívesebben füleket eszik.}
-{350}{}{Hoznék neked egy italt, de mivel az ellenfeledre fogadtam, az összes pénzem elúszott.}
+{350}{}{Meghívnálak egy italra, de az ellenfeledre fogadtam, és elbuktam az összes pénzem.}
 {351}{}{Honnan jössz, hogy így tudsz bunyózni? Nagyon jól csinálod, NAGYON JÓL!}
 {352}{}{Hol tanultál bunyózni, chica? Durva, amit csinálsz. Nagyon jó mozgásod van.}
 {353}{}{Az utolsó bunyód kibaszott mesébe illõ volt, chica.}
@@ -61,9 +59,9 @@
 {402}{}{Én készen állok, ráérek, filmezzünk, oké? Mozira gondoltam, }
 {403}{}{Én vagyok a mindenkit felülmúló latin szeretõ. Hozzám hasonlót sehol nem találsz.}
 {404}{}{Beszélnél a Testvérekkel az érdekemben?}
-{405}{}{Mondj már rólam egy-két jó szót a Testvéreknek!}
+{405}{}{Give a good word to the brothers for me, alright?}
 {406}{}{Okos dolog, hogy egy követ fújsz a Mordinókkal. Nekünk van jövõnk.}
-{407}{}{Kell egy kis drog? Pia? Pénzmag? Tudok segíteni. Vannak kapcsolataim.}
+{407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
 {408}{}{Mi lenne, ha mi ketten csinálnánk egy filmet? Jól fogok bánni veled, chica, megmutatom, mit tud egy latin szeretõ.}
 {409}{}{Miért nem ugrasz be munka után?}
 {410}{}{Van barátod?}
@@ -76,15 +74,15 @@
 {447}{}{Te ott, chica! Megsüketültél, vagy mi a szar? Rakd el azt a vackot, mert bántani foglak!}
 {455}{}{Mi a francnak lopódzol itt? Golyót akarsz a hátadba?}
 {460}{}{Mi a francnak lopódzol itt, chica? Golyót akarsz a hátadba?}
-{465}{}{Vidd innen azt a guruló szemétkukát!}
-{466}{}{Robotot nem lehet ide behozni! Vidd innen!}
-{467}{}{Ha ittmarad, roncsot csinálunk abból a robotból!}
+{465}{}{Vidd innen azt a guruló hulladékot!}
+{466}{}{Robotok nem jöhetnek ide! Vidd innen a francba!}
+{467}{}{Ha az a robot ittmarad, ócskavasat csinálunk belõle!}
 {475}{}{Csak jól éreztem, hogy egy MUTÁNS jött ide. Vidd innen, mielõtt mérges leszek!}
-{476}{}{Idefigyelj, te mutáns-bérenc! Az Õ helye ODAKINN van! Különben...}
+{476}{}{Ki vagy te? Mutánsbérenc? Annak a valaminek a helye odakinn van! Nem mondom kétszer...}
 {477}{}{Ha az a mutáns tovább bûzölög itt, céltáblának fogjuk használni!}
 {485}{}{Csak jól éreztem, hogy valami rohad! Vidd ki innen a ghoul barátodat, de rögtön!}
-{486}{}{Vidd ki innen azt a büdös ghoult, de most azonnal!}
-{487}{}{Ha az a ghoul még egy percig itt marad, még a mostaninál is halottabb lesz.}
+{486}{}{Most azonnal vidd innen azt a büdös ghoult!}
+{487}{}{Ha az a ghoul még egy percig itt marad, halottabb lesz, mint amennyire máris az.}
 {495}{}{Hé, te ott. Gyere már ide, hadd nézzem a késedet!}
 {496}{}{Szép kés...}
 {497}{}{Megnézhetem azt a kést?}
@@ -93,15 +91,15 @@
 {507}{}{Akarsz valamit, chica?}
 {508}{}{Hú úh?}
 {511}{}{Elpályázol}
-{512}{}{Hát te ki vagy?}
+{512}{}{Ki vagy te?}
 {513}{}{Bocs. Összetévesztettelek valakivel.}
 {522}{}{Ööö...? Már megint te vagy? Most meg mit akarsz?}
 {523}{}{Héééé... mi a nagy helyzet, barátom? Segítsek valamiben?}
 {524}{}{Én lentrõl jönni ahol}
 {525}{}{Hami-gó?}
 {526}{}{Csííííka Csíííík-aaaaa}
-{529}{}{Volna néhány kérdésem...}
-{530}{}{Hagyjuk. Bocs, hogy zavartalak.}
+{529}{}{I had some questions...}
+{530}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
 {540}{}{}
 {541}{}{}
 {542}{}{Hé, hé, hé! Itt van }
@@ -135,13 +133,13 @@
 {641}{}{(A koszos körmével piszkálja a fogát.) Igen?}
 {642}{}{Add elõ...}
 {643}{}{Mit is mondtál a Mordino családról?}
-{1643}{}{Hogy is van ezzel a Mordino családdal, akit említettél?}
-{644}{}{Megbízatást szeretnék.}
+{644}{}{Munkát keresek.}
 {645}{}{Hogy lehet New Renóban kikapcsolódni?}
 {646}{}{Tudsz valamit Richard Wright Jet-túladagolásáról?}
 {647}{}{Meg tudsz tanítani a késsel való harcra?}
 {648}{}{Felejtsd el! Késõbb találkozunk.}
-{660}{}{Hogy én? Ha már mindenképpen meg kell kérdezned... heh. A nevem Jesus. Jesus Mordino. Apámat is így hívják, csak õ Nagy Jesus, az egész Mordino család feje. Hívjál csak Kis Jesusnak! Elkerülhetjük a félreértéseket.}
+{660}{}{Me? If you gotta ask... heh. Name's Jesus. Jesus Mordino. Same as my Dad, he's the BIG Jesus, head of the WHOLE Mordino family
+ here in Reno. So most call me Lil' Jesus. Prevents confusion, y'know?}
 {661}{}{Nem ismerem a Mordino családot. Kik õk?}
 {662}{}{Hallottam a családotokról. Azt mondják, számottevõ erõt képviseltek.}
 {663}{}{Munkát keresek. Szokott a Mordino család embereket felbérelni?}
@@ -159,23 +157,26 @@
 {701}{}{Észak-nyugat felé, chica. }
 {702}{}{Semmit nem veszítesz vele, ha nem voltál még ott. Egy rakás gyáva nyúl bányász, akik EL AKARNAK SZÁLLNI, és annyi.}
 {703}{}{Nem igazán vágom a témát. Mit kell ez alatt érteni?}
-{704}{}{Tehát egy nagy rakás drogfüggõrõl van szó?}
+{704}{}{They're a bunch of drug addicts?}
 {705}{}{Jaja. Volna még néhány kérdésem...}
 {706}{}{Mennem kell, késõbb még jövök, Jesus.}
 {720}{}{Egy rakás gyáva nyúl bányász, térdig a dzsuvában... de azért SZÁLLNI azt szeretnek, ha érted, mire gondolok.}
 {740}{}{Azok a beszariak arany után ásnak, de amit MI adunk nekik, jobb, mint az arany. Egy kis Jetért az összes kikapart aranyukat nekünk adják. Így mindenki jól jár.}
 {742}{}{Hát nagyon úgy tûnik. Viszont volna még néhány kérdésem...}
 {760}{}{Hát amikor elõször belekóstóltak a Jetbe, meg voltak fogva. Az ember nem éri be egy adaggal.}
-{761}{}{A Jet honnan származik?}
+{761}{}{Honnan érkezik a Jet?}
 {762}{}{Jaja. Ellenben volna még néhány kérdésem...}
 {780}{}{A Jet egyenesen INNEN származik. Mi nem kutatunk az arany után, hanem egyenesen mi csináljuk. A Jet nem más, mint a folyékony arany. A bányászoknak mindent megér, és alig kerül valamibe az elõállítása. Elvisszük szépen Reddingbe, õk belövik maguknak, elszállnak tõle, mi pedig elhozzuk az aranyukat. Pofonegyszerû.}
-{781}{}{Mióta folyik ez a gyakorlat? Ha a Jet annyira addiktív, akkor mostanra akár egész Észak Kaliforniát az uralmatok alá hajthattátok volna.}
-{800}{}{Ez bizony igaz... persze nem mindig volt nekünk Jetünk. Szerencsére belebotlottunk egy srácba, megnézte az általunk árult silány drogokat, és azt mondta, hogy õ jobbat tud csinálni. És lõn. Most nekünk dolgozik. Egyszerû ez, mint a karikacsapás.}
+{781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
+ addictive.}
+{800}{}{You're right about that... see, we didn't always HAVE Jet. But we stumbled across this kid - he took a look at the shitty
+ drugs we was selling and said he could do 'better.' And he did. Now he works for us. That simple.}
 {801}{}{Milyen srácról beszélsz, és hol található?}
 {820}{}{Úgy hívják, hogy Myron. Ami a hollétét illeti... ezt nem kötöm az orrodra.}
-{821}{}{A gyereket Myronnak hívják. A várostól északra lévõ istállóba szállásoltuk el, ott teszteli az új drogokat. Ha akarod, meglátogathatod, de az ideje nagy részében igen elfoglalt... vagy a droggal, vagy a csajokkal.}
+{821}{}{Kid's name's Myron. We got him set up in the stables, north of town, testing new drugs. You could go over and see him if
+ you want, but he's busy most of the time... either with the drugs or the women.}
 {822}{}{Miért nem embereled meg magad, és mondod el nekem?}
-{823}{}{Fogom. Ellenben volna még néhány kérdésem...}
+{823}{}{Got it. I had some other questions...}
 {824}{}{Szóval Myron... Jól van, Jesus. Kösz a beszélgetést.}
 {840}{}{A Desperado a szórakozóhelyek netovábbja, homes. Van Jet, játék, akció... és a puták csak arra várnak, hogy leszólítsd õket. Nedves a bugyijuk, és mindenben benne vannak. Maga a paradicsom, homes, para nélkül.}
 {841}{}{A Desperado a szórakozóhelyek netovábbja, chica. Van Jet, játék meg akció... Máshova tök fölösleges menni.}
@@ -190,12 +191,12 @@
 {862}{}{Próbáld csak meg, és figyeld az eredményt, KIS Jesus!}
 {863}{}{Próbáld csak meg, és annyi sebet ejtek rajtad, hogy az arcodat fasírtnak fogják nézni.}
 {864}{}{Nyugalom... csak poénkodtam veled.}
-{865}{}{Hûtsd le magad! Kérdeznék inkább valamit...}
+{865}{}{Chill. I had some other questions...}
 {867}{}{Na, akkor inkább lelépek. Nagyszerû egy ilyen kulturált emberrel társalogni.}
 {880}{}{Ha! Igazad van, chica. Igazad van. Kis Jesus szemmel fog tartani téged... nem mintha nem tudnék magam is boldogulni. Mit tehetek érted?}
 {881}{}{Az elsõ dolog, amit kérnék tõled, KIS Jesus, hogy ne bámulj engem ilyen pofátlanul. Elõbb feküdnék le egy sziklával, minthogy hozzáérjek ahhoz a csúfsághoz, amit az arcodnak nevezel.}
 {882}{}{Megbízatást keresek. Nem tudsz ajánlani valakit?}
-{883}{}{Volna még egy-két egyéb kérdésem...}
+{883}{}{Lenne pár kérdésem.}
 {884}{}{Az a nagy helyzet, hogy most ideje mennem. Jó volt beszélgetni veled, Jesus.}
 {890}{}{(Végigmér, aztán bólogatni kezd.) Mindig szoktunk vért frissíteni... különösen, ha az új vér a vérontásban is jeleskedik, ha fogod, amit mondok. Menj fel az emeletre, és beszélj a papával. Mondd meg neki, hogy én küldtelek, akkor talán nyélbe üthetünk valami bizniszt.}
 {891}{}{(Végigmér, aztán a fejét ingatja.) Chicákat nem bérelünk fel... egyes munkákat leszámítva. Próbálj beszélni a papával, mondd meg neki, hogy én küldtelek. Akkor talán nyélbe üthetünk valami bizniszt.}
@@ -205,7 +206,7 @@
 {901}{}{Nem... agyam eldobom! A családunk nem bérel fel senkit, és a többi család is elõbb nyírna ki, minthogy befogadjanak maguk közé. }
 {902}{}{Nem... egyetlen helyet sem tudok. Keress magadnak egy stricit, annak talán felkínálhatod a seggedet!}
 {903}{}{MI nem bérelünk fel senkit, de egy ilyen testszerkezettel kipróbálhatnád a Korzikai Testvérek stúdióját az utca végén. (Vigyorog hozzá.) Persze ha gyors keresetre vágysz, a szobám tárva-nyitva áll odafönn...}
-{904}{}{Jól van. Van még néhány kérdésem...}
+{904}{}{Rendben. Lenne pár kérdésem.}
 {905}{}{Öö, passzolok. Kérdezek inkább mást...}
 {906}{}{Ezt inkább kihagynám, köszi. Viszont válaszolhatnál egy-két kérdésemre...}
 {907}{}{Hát abban biztos vagyok, hogy gyors lenne. Kösz, de nem.}
@@ -217,7 +218,7 @@
 {923}{}{Most elmegyek.}
 {924}{}{Leköpted a cipõmet, faszfej?! Majd megtanítalak én tiszteletre, a rohadt kurva anyádat!}
 {930}{}{Nem, én nem tudok segíteni... menj föl az emeletre a papához. Õ a te embered.}
-{931}{}{Hát te...?}
+{931}{}{Ki vagy te?}
 {932}{}{Jól van akkor. Mielõtt azonban elmennék, válaszolj néhány kérdésemre...}
 {933}{}{Köszi.}
 {940}{}{BASZÓDJÁ' TE MEG! Tûnés a családom kaszinójából, mielõtt a hulládra vésem a nevedet.}
@@ -227,8 +228,8 @@
 {950}{}{Az a kis pöcsedék Wright gyerek? Ha! Rám akarod verni a balhét? Nem nyert! Nem nagyon hat meg, hogy megpusztult a kis gyökér, de közöm nincs a halálához.}
 {951}{}{Valóban? A Mordinók a legnagyobb Jet-forgalmazók New Renóban. Ez élbõl elég ahhoz, hogy mindenki titeket vádoljon.}
 {952}{}{Nem hiszek neked. Szerintem a te lelkeden szárad! A tiéden és a többi Mordinóén!}
-{953}{}{Szerinted ki lehet a tettes?}
-{954}{}{Oké... hadd kérdezzek még egy s mást...}
+{953}{}{Szerinted ki tehette?}
+{954}{}{Okay... look, I had some other questions...}
 {955}{}{Jól van na. Csak úgy megkérdeztem.}
 {965}{}{(Összeszûkül a szeme.) Elmondok én neked valamit... semmi közöm nincs a gyerek halálához. Nem tudom, mit hallottál, de ha én öltem volna meg, szétszabdalom darabokra, és nem Jettel tömöm meg a búráját. Érthetõ vagyok?}
 {966}{}{Igen, és akkor mi van, ha magunkra vállaljuk? Nem mintha mi csináltuk volna. A kis szar túl sokat vett be és kész. Kicsit se sajnálom, hogy megpusztult. És ha a Wright papa nekiáll ugrálni, szépen odatemetjük majd a csöves kölke mellé.}
@@ -237,7 +238,8 @@
 {969}{}{Tudod, hogy ki adta el Richard-nak a halálos Jetet?}
 {970}{}{Hát ez megvilágít egy-két kétes dolgot számomra. Hadd kérdezzek akkor még valamit...}
 {971}{}{Kösz az információt, Jesus. Nagy segítségemre voltál.}
-{980}{}{Igen, Renesco... a Rakétás Renesco. Annyi Jetet ad el, hogy a holdig felrepítene. A nyugati negyedben lakik, ami a Salvatorék vadászterülete. Nagyon rühelli a Wright családot, és a drogja bizony NEM tiszta.}
+{980}{}{Yeah, Renesco... the "Rocketman." Sells so much Jet, he could shoot you to the moon. He's on the west side, in Salvatore
+ territory. He don't like the Wrights none, and his drugs ain't PURE, know what I'm saying?}
 {981}{}{Egy ekkora városban nem létezik, hogy csak õ az egyetlen díler.}
 {982}{}{A nyugati negyedben? Lehet, hogy benézek hozzá, viszont addig is válaszolhatnál egy-két kérdésemre...}
 {983}{}{Rendben, utánanézek. Köszi, Jesus.}
@@ -251,13 +253,14 @@
 {1002}{}{Lehet, hogy utánanézünk, de most válaszolj még néhány kérdésemre...}
 {1003}{}{Na, akkor végeztünk, Jesus, megyek, lecsekkolom ezt a Renescót.}
 {1010}{}{Ott van Jules a városkapunál, õ a jövevényeket pumpolja... aztán ott van Csipkés Jimmy J. a 2. utcában, az edzõterem mellett... nem lehet elmenni a barma mellett anélkül, hogy észrevennéd, mert egyik éjszaka úgy belõtte magát Jettel, hogy szanaszét szabdalta az arcát... ez olyan remekül sikerült neki, hogy az egész pofázmánya merõ egy seb.}
-{1011}{}{Úgy hallottam, te is árulsz drogot, Jesus. Hogyhogy a TE neved nem volt azon a listán?}
+{1011}{}{I hear you deal drugs, too, Jesus. How come YOUR name wasn't on that list?}
 {1012}{}{Mibõl gondolod, hogy Renesco a tettes?}
-{1013}{}{Érdekes. Ellenben kérdeznék még, ha nem gond...}
+{1013}{}{Érdekes. Inkább kérdezek mást...}
 {1014}{}{Renesco, Jules és Csipkés Jimmy J. Eszembe véstem. Kösz az információt.}
 {1020}{}{AZÉRT, te faszarcú, mert én NEM vagyok díler. }
 {1021}{}{AZÉRT, te ribanc, mert én NEM vagyok díler. }
-{1022}{}{Alkalmanként eladok egy kis Jetet, de én Kis Jesus MORDINO vagyok, nem valami kétbites, Jet-árus gyökér, akinek naponta 10 kuncsaftot kell rászoktatnia a drogra, hogy legyen mit ennie. Szóval rövid úton BASZÓDJ MEG!}
+{1022}{}{I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten
+ customers a day just to make enough to eat. So FUCK you.}
 {1023}{}{Vigyázz a szádra, ha velem beszélsz, Jesus!}
 {1024}{}{Nyugi, nyugi, csak kiváncsi voltam... hadd kérdezzek inkább valami mást...}
 {1025}{}{Rendben van, köszönöm az információt.}
@@ -278,7 +281,7 @@
 {1054}{}{Adok érte száz dolcsit.}
 {1055}{}{Adok érte kétszáz dolcsit.}
 {1056}{}{Amit én nyújtok a szerelemben szintén mûvészet. Akarsz stílust cserélni?}
-{1058}{}{Az a helyzet, hogy kérdeznék egy-két dolgot, ha nem zavar...}
+{1058}{}{Actually, I had some questions...}
 {1059}{}{Akkor legyen máskor... amikor elég pénz lesz nálam, hogy esetleg meggondold magad.}
 {1060}{}{Akkor térjünk vissza rá máskor, köszi.}
 {1070}{}{Hmmmmm. 200 és megegyeztünk.}
@@ -286,24 +289,26 @@
 {1072}{}{Mondd, hogy komoly a 200 dolcsi! Mondd, hogy komoly a 200 dolcsi!}
 {1073}{}{Csak nem szexen töröd a fejed? Hát csak álmodozz tovább, nagyfiú, mert azt az életben nem kapod meg tõlem!}
 {1074}{}{Öö, oké. Benne vagyok! Bármit megteszek, hogy jobban tudjak bánni a késsel!}
-{1075}{}{Rendben van, itt a pénz.}
+{1075}{}{Értem, ezen ne múljon.}
 {1076}{}{Vedd úgy, hogy nem is mondtam semmit. Öö, amúgy ki is vagy te tulajdonképpen?}
-{1077}{}{Felejtsd el! Kérdeznék inkább valami mást...}
+{1077}{}{Nem vállalom, túl kockázatos. Kérdezhetek valamit?}
 {1079}{}{Köszi, talán majd máskor. Most aztán IGAZÁN mennem kell.}
 {1090}{}{Hmmmm... rendben, igen, benne vagyok. Olyan férfinek tûnsz, mint akinek megfelelõ cojones van a birtokában. Szóval, az elsõ dolog, amit meg kéne tenned...}
 {1091}{}{Hmmmm... rendben, hogyne, benne vagyok. Olyan férfinek tûnsz, akinek akár még megfelelõ cojones is lehet a birtokában. Meg ne sértõdj! Szóval, az elsõ dolog, amit meg kéne tenned...}
 {1092}{}{(Elmosolyintja magát, és kivillantja a fogai rothadt maradványait.) Rendben, hogyne, benne vagyok. Van most idõd, chica? Akkor zuhanjunk rá a témára...}
 {1093}{}{Rendben...}
+{1643}{}{Hogy is van ezzel a Mordino családdal, akit említettél?}
 {2000}{}{Kis Jesus megmutat néhány igen aljas késes trükköt. Mostantól jobban értesz a késekhez.}
 {2001}{}{A büszkeségedet leküzdvén mostantól sokkal jobban tudsz bánni a késekkel. Ezenkívül eléggé rádférne egy zuhany.}
-{5200}{}{! Faszán lenyomtad az Enklávét!}
+{5200}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
 {5201}{}{, faszán megtanítottad a gyökér Enklávés köcsögöket, hogy mennek a dolgok a KÜLVÁROSBAN.}
-{5230}{}{.}
+{5230}{}{ vagyok.}
 {5240}{}{? A Mordinók emelt fõvel járnak.}
+{5250}{}{?}
 {5251}{}{! Que pasa?}
 {5253}{}{?}
 {5254}{}{. Hol voltál?}
-{5255}{}{.}
+{5255}{}{ vagyok.}
 {5256}{}{?}
 {5257}{}{. Velünk tartasz?}
 {5271}{}{. Felejtsd el õket, különben...}
@@ -312,7 +317,7 @@
 {5280}{}{, jobb, ha lelépsz!}
 {5320}{}{? Amilyen jobbhorgokat te tudsz ütni, nyugodtan járhatsz itt emelt fõvel.}
 {5340}{}{? Durva, amit csinálsz. Nagyon jó mozgásod van, hombre.}
-{5343}{}{.}
+{5343}{}{ vagyok.}
 {5344}{}{. Ha meglát a többi család, egy szempillantás alatt be fognak rosálni.}
 {5346}{}{. Azt a fickót *lemostad* a pályáról!}
 {5347}{}{?}
@@ -322,7 +327,7 @@
 {5404}{}{... ugyan már! Én KÉPES vagyok rá!}
 {5542}{}{! A jó öreg harcos! Ember, te nagyon jól nyomatod a témát!}
 {5543}{}{! Az aljas chica harcos! Te aztán nagyon jól nyomatod a témát, chica!}
-{5560}{}{? }
+{5560}{}{?}
 {6035}{}{ keze Nem ÉRINTENI }
 {7035}{}{ keze }
 {8035}{}{ NEM SZERETNI}

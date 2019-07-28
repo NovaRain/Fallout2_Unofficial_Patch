@@ -1,4 +1,3 @@
-# Dialog Editor last position: 56
 {100}{}{Egy újabb ghoul a sok közül. Elfoglaltnak tûnik.}
 {101}{}{Õ a gekkói Gordon.}
 {102}{}{Egy igen jólöltözött ghoulhoz van szerencséd. A haja hátra van zselézve.}
@@ -14,7 +13,7 @@
 {124}{}{Mit is mondtál Gordon, mit csinálsz itt?}
 {125}{}{Szép sorban beugrom az összes barátomhoz. Örülök, hogy láttalak. Legközelebb is jövök.}
 {130}{}{Lehetõségek után kutatok.}
-{131}{}{Miféle lehetõségek után?}
+{131}{}{Opportunities? Like what?}
 {135}{}{Keresem a módját, hogyan tudnám magam a lehetõ legértékesebbé tenni.}
 {136}{}{Hmm, eléggé úgy hangzik, mint a kapzsiság.}
 {140}{}{Kapzsi vagyok. Sajnos a legtöbb ember félreértelmezi a kapzsiságot. A kapzsiság erõs mozgatórugó. A történelem során az emberiség legnagyobb találmányait olyan embereknek köszönhetjük, akik egyre jobb pozíciókba törekedtek. Kapzsiság hajtotta õket. A kapzsiság, lévén nincs jobb szó rá, jó dolog.}
@@ -48,7 +47,7 @@
 {251}{}{A képességeid lehetõ legjobb kihasználásáról? Mintha a kapzsiságodra apellált volna.}
 {260}{}{Egyfolytában a képességeim lehetõ legjobb kihasználásáról beszélt.}
 {261}{}{A képességeid lehetõ legjobb kihasználásáról? Mintha a kapzsiságodra apellált volna.}
-{270}{}{Miért nem?}
+{270}{}{Merthogy?}
 {271}{}{Valahogy nem jön be nálam a kapzsiság ilyenforma felfogása. Szerintem bármit is bíznának rád, egyszerûen túladnál rajta, és lelépnél a pénzzel. Viszlát!}
 {272}{}{Mivel kihagytál egy fontos tényezõt a tervedbõl. Egy partnert... nevezetesen engem.}
 {280}{}{Minden fontos gazdálkodási adat fenn van egy lemezen. Odaadom, ha megígéred, hogy megmutatod Menedékvárosban egy olyan személynek, aki a rajta tárolt adatokat egyrészt megérti, másrészt tud is kezdeni vele valamit. Persze, jó, ha diszkréten kezeled... nem mindenki fog repesni ott az örömtõl, hogy ghoulokkal tartod a kapcsolatot.}
@@ -56,14 +55,19 @@
 {282}{}{Rendben, átveszem a lemezt. Biztos vagyok benne, hogy jó kezekbe kerül majd. Még találkozunk.}
 {290}{}{Hm... nem tartok igényt a segítségedre! Te csak egy törzsbéli vagy.}
 {291}{}{Hát nem hinném, hogy csak Menedékvárosban élnek korlátolt emberek, Gordon fiam. Na, ég veled.}
-{300}{}{Az atomerõmûvünk még mindig csak pislákol. Úgy tûnik, még nem vitted el az információt Menedékvárosba.}
+{300}{}{Our atomic power plant is still barely operational. You must not take the information to
+ Vault City yet.}
 {301}{}{Nem hinném, hogy Menedékvárosban túlságosan fogékonyak lennének a ghoul forrásból származó adatokra.}
 {302}{}{Nem, valóban nem, de ami késik, nem múlik. Viszlát!}
+{303}{}{Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power
+ plant is still barely operational and needs to be fixed.}
+{304}{}{I will get right on it. Goodbye.}
+{305}{}{Yeah, maybe some other time.}
 {310}{}{Köszönjük, hogy megjavítottad az erõmûvet. A jó öreg Gordon tervei jól haladnak. A kapzsiság csodálatos dolog. Büszke lehetnél, hogy részese vagy.}
 {311}{}{A kapzsiság valóban jó dolog, Gordon. Nekem is vannak saját terveim, amiket véghez kéne vinni. Viszlát!}
 {320}{}{Végünk. Végünk. Most már senki nem menthet meg minket. Menj el!}
 {321}{}{Ne is lássalak.}
-{322}{}{Rendben, viszlát!}
+{322}{}{Rendben, viszlátásra.}
 {330}{}{Leköteleztél. Mostantól pedig mindent véghezvihetek, amit csak akartam, persze Gekkó és Menedékváros költségére. Egyszerûen csak meg kell választaniuk elõljárójukká. Harold lassan lapátra kerül.}
 {331}{}{Hát persze, nem kétlem, Gordon [kényszeredetten ide-oda nézel]. Azt hiszem, elérkezett a távozás pillanata.}
 {332}{}{Jobb lesz, ha vigyázol magadra, Gordon. Könnyebb megszerezni valamit, mint megtartani. Na, légy jó.}
@@ -78,7 +82,7 @@
 {353}{}{Egy holttestrõl szedtem ezt le. Mi a fene ez?}
 {360}{}{Téged küldött az adatlemezért?}
 {361}{}{Igen, az adatlemez miatt vagyok itt. Add át rögvest!}
-{362}{}{Miféle lemezrõl beszélsz?}
+{362}{}{Miféle lemezért?}
 {370}{}{Ah, hát persze, sosem szolgálhatjuk elegen az ügyünket. Több bajtárs azt jelenti, hogy a jó öreg Gordon hamarabb eléri, amit akar. A lemezért jöttél?}
 {371}{}{Miféle lemezért?}
 {372}{}{Szerintem a sugárzás kikezdte az agyad! Már itt sem vagyok.}
@@ -99,8 +103,8 @@
 {414}{}{Nem, félreértesz. Azt találtam mondani, hogy egy holt testülettõl szedték ezt be. Közel a Megújhodás, testvér!}
 {420}{}{A tények magukért beszélnek. Ha egy elég nyitott embernek mutatod meg, az adatok meggyõzõen fognak hatni.}
 {421}{}{Na, jó, legyen, megpróbálom. Késõbb majd jövök.}
-{422}{}{Még gondolkozom rajta. Viszlát!}
+{422}{}{Majd gondolkodom még rajta, seriff. Viszlát!}
 {500}{}{. Mivel foglalkozol errefelé?}
 {501}{}{. Késõbb látjuk egymást, Gordon. Viszlát!}
-{502}{}{.}
+{502}{}{ vagyok.}
 {600}{}{Kösz az információt, Gordon. Viszlát!}

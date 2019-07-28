@@ -2,9 +2,9 @@
 {101}{}{Vedi Brian.}
 {102}{}{Vedi un uomo tozzo che indossa degli abiti squallidi. Ha uno stuzzicadenti in bocca ed e' coperto di grasso. Le sue unghie sono lerce.}
 {103}{}{Vediamo se ti piace questo, stronzo asociale!}
-{104}{}{Che cosa vuoi?}
+{104}{}{Cosa vuoi?}
 {105}{}{Nyug aarg.}
-{106}{}{Chi sei tu?}
+{106}{}{Chi sei?}
 {107}{}{Cos'e' questo posto?}
 {108}{}{Hai mai sentito parlare del GECK?}
 {109}{}{Senti, Eric mi ha chiesto di aumentare l'erogazione di energia verso la sua casa. Ha detto che sta sudando troppo.}
@@ -26,22 +26,22 @@
 {125}{}{Se questa centrale funziona davvero con pepite di uranio, allora avete a disposizione abbastanza energia da alimentare questa citta' E New Reno senza che si verifichino cali di tensione. Adesso sputa fuori l'energia che ti ho chiesto.}
 {126}{}{Ma... ma... lui sta male!}
 {127}{}{Ma non c'e' proprio verso di fare un paio di piccole regolazioni?}
-{128}{}{[Guarda in modo accigliato gli indicatori e dice a bassa voce] Sei cattivo.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Yup. Ciao!}
 {130}{}{Ehi! Non toccare nulla! Questi sono macchinari delicati! Fuori! Out! Via! Torna a casa!}
 {131}{}{Ooooh! Butunz!}
 {132}{}{Beh, no, non lo e'. Non proprio. Per lo piu' me ne sto qui seduto a controllare che nessuno degli indicatori sballi. Eseguo piccole regolazioni. Premo qualche interruttore. E' tutto, piu' o meno. Chiunque potrebbe farlo.}
 {133}{}{Allora, dimmi, potresti indirizzare piu' energia verso la casa di Eric?}
 {134}{}{Chiunque, eh? Ho delle altre domande.}
-{135}{}{Grazie. Arrivederci.}
+{135}{}{Grazie. Ciao.}
 {136}{}{Beh, con la miniera di uranio proprio qui ed essendo quella atomica l'energia del futuro, tenersi al passo con i tempi mi sembra il minimo. Saremo anche piccoli, ma seguiamo il progresso.}
 {137}{}{Hmm. Giusto. Ho delle altre domande.}
-{138}{}{Giusto. Arrivederci.}
+{138}{}{Certo. Addio.}
 {139}{}{Beh, certo, tecnicamente questo e' vero, ma...}
 {140}{}{"Ma" un bel niente. Sei solo pigro. Datti una mossa.}
 {141}{}{Non c'e' bisogno di essere scortesi. [China la testa e gira una manopola.] Ecco. Adesso digli di smetterla di lamentarsi.}
 {142}{}{Hai un cuore d'oro, amico.}
-{143}{}{Vatti a mordere quelle labbra con le quali non hai mai baciato. Non ti ringraziero' certo per aver reso tutto questo piu' difficile di quanto non fosse.} ###???
+{143}{}{Vatti a mordere quelle labbra con le quali non hai mai baciato. Non ti ringraziero' certo per aver reso tutto questo piu' difficile di quanto non fosse.}
 {144}{}{Forse dovrebbe soltanto farsi qualche bagno in piu'. Buona giornata.}
 {145}{}{Addio.}
 {146}{}{No. Temo proprio di no. I bisogni della citta' prevalgono sui bisogni del singolo.}

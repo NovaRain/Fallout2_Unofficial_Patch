@@ -1,12 +1,11 @@
 {100}{}{Vedi una donna piacevolmente paffuta.}
 {101}{}{Vedi Rose.}
 {102}{}{Porta i capelli grigi raccolti dietro la nuca e cammina ondeggiando leggermente. Vicino a lei e' impossibile non sentirsi rilassati.}
-
 {150}{}{Spiacente, siamo chiusi. C'e' stato un lutto in famiglia. [sniff]}
 {151}{}{Ehi! Io sono l'unica ad avere il permesso di guardare nella cassetta degli oggetti smarriti.}
 {152}{}{Sto iniziando a pensare che tu sia un ladro!}
 {153}{}{Ladro! Ladro! Ladro!}
-{154}{}{Benvenuto al Bed and Breakfast di Rose. Ma che bel ragazzo abbiamo qui. Cosa puo' fare Rose per te?} ###???strapping
+{154}{}{Benvenuto al Bed and Breakfast di Rose. Ma che bel ragazzo abbiamo qui. Cosa puo' fare Rose per te?}
 {155}{}{Benvenuta al Bed and Breakfast di Rose. Oh, sei davvero una ragazzetta carina. Cosa puo' fare Rose per te?}
 {156}{}{Sto morendo di fame! Cosa avete da mangiare?}
 {157}{}{Vorrei prendere una camera per la notte.}
@@ -43,7 +42,7 @@
 {192}{}{Oh, non e' un segreto. Le immergi nella pastella, aggiungi un pizzico di sale e le friggi nel lardo. [Te ne infili un'altra in bocca.]}
 {193}{}{Come prepari la carne di brahmin? Ha una consistenza... particolare. [Te ne infili ancora un'altra in bocca. Sono ottime!]}
 {194}{}{Sono 37! Hai appena battuto il record! [La folla applaude!]}
-{195}{}{[Ti senti come se avessi appena cominciato. Ti infili un'altra frittella in bocca.]} ###???You feel like you’ve gotten you’re second wind and pop another fry into your mouth
+{195}{}{[Ti senti come se avessi appena cominciato. Ti infili un'altra frittella in bocca.]}
 {196}{}{[La folla grida, "38!"] Beh, quello che le rende cosi' speciali e' il fatto che bisogna prenderle quando il brahmin e' ancora vivo. Afferri il brahmin per lo scroto e "recidi" quest'ultimo con un solo taglio. Devi stare attento, pero': il brahmin di solito si infastidisce, a questo punto.}
 {197}{}{[La 38esima "delizia" di brahmin doveva andare alla velocita' della luce quando e' stata sparata improvvisamente e con vigore fuori dalla tua bocca.]}
 {198}{}{Non possiamo contare l'ultima, ma con 37 hai battuto il record! Ecco i tuoi soldi. Congratulazioni!}
@@ -77,5 +76,4 @@
 {229}{}{Ho molta fame, per cui vediamo cos'altro avete.}
 {230}{}{Peccato, non vedevo l'ora di assaggiare la tua omelette famosa in tutto il mondo. Credo che mi terro' la fame.}
 {231}{}{Ahh! Oogie!}
-
 {300}{}{[Rose torna rapidamente con un bicchiere pieno di una sostanza liquida marroncina. Sembra esserci piu' terra che acqua nel bicchiere. Tuttavia, sei cosi' assetato che la bevi ugualmente.] Ti ho portato un biscotto da mangiarci insieme, caro.}

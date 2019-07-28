@@ -5,5 +5,5 @@
 {104}{}{Ti portero' in citta' in un sacco di plastica per cadaveri.}
 {105}{}{Muori, feccia!}
 {106}{}{'fanculo - possono anche tenersela, la taglia.}
-{107}{}{Meglio tagliare la corda.}
+{107}{}{Me ne vado.}
 {108}{}{Non mi danno abbastanza soldi per questo.}

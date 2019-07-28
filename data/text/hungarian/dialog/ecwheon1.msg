@@ -1,4 +1,3 @@
-# Dialog Editor last position: 14
 {100}{}{Egy... fehér bõrû hõsnõ-karaktert látsz.}
 {101}{}{Egy gyönyörû hollófekete hajú lányt látsz a 13-as Menedék kezeslábasában. Viccelõdik és nevetgél a körülötte állókkal.}
 {102}{}{Egy fehérbõrû hõsnõ-karaktert látsz. Viccelõdik és nevetgél.}

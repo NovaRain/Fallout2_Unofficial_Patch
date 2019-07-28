@@ -5,16 +5,16 @@
 {104}{}{Adja elõ gyorsan, mit akar!}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Hoztam egy levelet BHK-9 számára az ÚKK-ból, a Megvilágosodottól.}
-{107}{}{Azért jöttem, hogy beszéljek Crockettel valami páncélzat ügyében.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{Szeretnék körülnézni.}
 {109}{}{Érdekelne, hogy esetleg csatlakozzam a maguk szervezetéhez.}
-{110}{}{Maga kicsoda?}
-{111}{}{Azért jöttem, hogy mindannyiukat megöljem!}
+{110}{}{Ki vagy te?}
+{111}{}{Azért jöttem, hogy mindannyiukat megöljem.}
 {112}{}{Ah, szegény gyermek. Szeretnéd, ha behangolnánk?}
-{113}{}{Eggen!}
+{113}{}{Ige'!}
 {114}{}{Nem!}
 {115}{}{Szegény gyermek. Be vagy hangolva, mégsem tudsz rendesen beszélni. Menj csak tovább!}
-{116}{}{Köfönet!}
+{116}{}{Köffönet!}
 {117}{}{Menj tovább, és keresd Juan-t és Vikkit. Õk majd segítenek. Légy szerencsés, gyermekem!}
 {118}{}{Köffönet!}
 {119}{}{::megkeményedik a hangja:: Akkor nem látok egyetlen okot sem, amiért be kéne magát ide engednem. Minden jót!}
@@ -22,13 +22,13 @@
 {121}{}{Nagyon jó. Mellesleg siessen - õ nagyon elfoglalt ember!}
 {122}{}{Oké.}
 {123}{}{Ez nem az a hely, ahova csak úgy, ha kedve szottyan az embernek, látogatásokat lehet tenni. Minden jót!}
-{124}{}{-kész-}
+{124}{}{[DONE]}
 {125}{}{Kiváló! Menjen csak be, menjen csak be! Beszéljen Juan Cruzzal és Vikki Goldman-el! Õk hírességek ugyan, de szóba állnak magával.}
 {126}{}{Kik õk?}
 {127}{}{Óh! Hírességek!}
 {128}{}{Én BHK-7 vagyok, e komplexum helyettes vezetõje. Mielõtt rákérdezne: BHK annyit tesz, hogy Behangolt Hub Keresõ. Ez azt jelenti, hogy a neurodinjaim hét szintjét már eltávolították a lelkembõl. Ebbõl következik, hogy magánál sokkal megvilágosodottabb vagyok, és közelebb állok a Nagy Kerék tengelyéhez, viszont azt is jelenti, hogy most szépen elmondja nekem, mit is keres itt. De ne kelljen ám várnom!}
 {129}{}{Hoztam egy levelet BHK-9 számára az ÚKK-ból, a Megvilágosodottól.}
-{130}{}{Azért jöttem, hogy beszéljek Crockettel valami páncélzat ügyében.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{Szeretnék körülnézni.}
 {132}{}{Érdekelne, hogy esetleg csatlakozzam a maguk szervezetéhez.}
 {133}{}{Azért jöttem, hogy mindannyiukat megöljem.}
@@ -55,7 +55,7 @@
 {154}{}{Kösz, hogy törõdik velem. Viszlát!}
 {155}{}{Nem hinném, hogy én sérülnék meg. Minden jót!}
 {156}{}{Porig akarsz égetni? PORIG AKARSZ ÉGETNI? ÕRSÉG! MEGÖLNI A HITETLENT!}
-{157}{}{-kész-}
+{157}{}{[DONE]}
 {158}{}{Szóval... Elég ideje volt, hogy átgondolja a döntését. Csatlakozik hozzánk?}
 {159}{}{Igen.}
 {160}{}{Nem.}
@@ -64,57 +64,57 @@
 {163}{}{Remek, csatlakoznék.}
 {164}{}{Hagyjuk ezt! Nem szeretem az erõn alapuló taktikát.}
 {165}{}{Az elnyomó Shik egyfolytában vetekednek velünk és a neurodin befolyásoló üzelmeikkel pusztítást hoznak a magunkfajtára. Hisszük, hogyha az Uralkodójukat meggyilkoljuk, észreveszik a saját szemükben a szálkát. Megöli nekünk az Uralkodót?}
-{166}{}{Igen, megölöm.}
+{166}{}{Persze.}
 {167}{}{Nem, a Shik sosem tettek ellenem semmit!}
 {168}{}{Talán meggondolja még magát. Tudassa velem, ha így lenne! Nos, újonc, tud valamiben a Hub segíteni magának?}
-{169}{}{Igen, egy-két kérdésem még lenne.}
+{169}{}{Naszóval... lenne néhány kérdésem.}
 {170}{}{Nem, most nem, köszönöm.}
-{171}{}{Gondolt már arra, hogy segítõ kezet nyújt nekünk az elnyomó Shik ellenében? Csillagbéli Atyánk megáldja majd magát, ha részt vesz e keresztes hadjáratban.}
+{171}{}{Have you thought on aiding us in our struggle against the oppressive Shi? The Star Father will bless you if you take part in our crusade.}
 {172}{}{Még mindig nem vagyok benne biztos, hogy szeretném...}
-{173}{}{Legyen.}
+{173}{}{Megteszem.}
 {174}{}{Talán tudok könnyíteni a problémákkal küzdõ lelkén. Mire van szüksége?}
 {175}{}{Hol találhatnék üzemanyagot a Poseidon tankerbe?}
 {176}{}{Hol találom a maguk által használt fogalmak jegyzékét?}
 {177}{}{Mikor száll fel a hajó?}
-{178}{}{Hol van Crocket?}
+{178}{}{Where is Crockett?}
 {179}{}{Semmire, köszönöm. Üdv!}
 {180}{}{Ha kész van a feladattal, tudassa velünk!}
 {181}{}{Tudatni fogom. Hadd kérdezõsködjek addig is!}
-{182}{}{Hogyne! Üdv!}
+{182}{}{Rendicsek. Viszlát!}
 {183}{}{Eltávolította végre az Uralkodót, az elnyomó szégyenfoltot eme anyagi létezésbõl?}
-{184}{}{Nem, még nem távolítottam el.}
+{184}{}{Még nem.}
 {185}{}{Igen, BHK-7. Meghalt.}
 {186}{}{A Tanker csavargóinak de facto vezetõje egy "Borz" nevezetû jó nagy darab, egészségtelen Perem Pép. A halálával helyre tesszük õket. Kiiktatja nekünk?}
-{187}{}{Éppen kiiktathatom...}
+{187}{}{Megteszem.}
 {188}{}{Nem ártott õ nekem semmit. Inkább nem.}
 {189}{}{Szóval... meggondolta magát a "Borz" eltávolítása ügyében?}
 {190}{}{Megteszem.}
 {191}{}{Inkább mégsem...}
 {192}{}{Eltávolította ezt a "Borzot"?}
-{193}{}{Eddig még nem.}
+{193}{}{Még nem.}
 {194}{}{Igen. Kicsináltam.}
 {195}{}{A népe most átöleli a Hub-ot! Minden rendbe jön! Nagyon nagy szolgálatot tett számunkra!}
-{196}{}{Köszönöm! Volna még néhány kérdésem.}
+{196}{}{Köszönöm! Hadd kérdezzek még valamit.}
 {197}{}{Mindent a Kerék számára teszek. Isten önnel.}
 {198}{}{Az a helyzet, hogy most magát is kicsinálom szépen...}
 {199}{}{Most, hogy a hajó tele van üzemanyaggal, már csak a Nagy és Rettegett BHK-9 szavára várunk, hogy megkezdõdhessék a felemelkedés.}
 {200}{}{Hogyne, hogyne... Addig is kérdeznék valamit.}
-{201}{}{Köszönöm. Üdv!}
+{201}{}{Kösz. Viszlát!}
 {202}{}{Eltekintve az értékes üzemanyagtól, mely arra kell, hogy kilõjük magunkat a Quetzel bolygón tartózkodó csillagtestvéreink kebelébe, nem jut eszembe egyetlen hely sem. Talán a Shikre tudnék gondolni...}
 {203}{}{Ejha. Hadd kérdezzek még, ha nem zavarok vele!}
 {204}{}{Igen, lehet.}
 {205}{}{Tudom, hogy a Shiknek van egy nagy rakás üzemanyaguk. Esetleg ellophatná tõlük.}
 {206}{}{Ez is egy elképzelés... Volna ellenben még néhány kérdésem.}
 {207}{}{Esetleg. Köszönöm.}
-{208}{}{Használja a Juan és Vikki által adott hololemezt, és olvassa át a szójegyzéket!}
+{208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
 {209}{}{Köszönöm. Még kérdezhetek?}
-{210}{}{Köszönöm.}
+{210}{}{Köszi.}
 {211}{}{Amikor BHK-9 számára megérkezik a látomás a Hub-tól, mindannyian elmegyünk és csillagközi dicsõségtõl övezve csatlakozunk hozzá!}
 {212}{}{Igen, dícsértessék a Kerék vagy mi... hadd kérdezzek még egy s mást!}
 {213}{}{Nagyon informatív. Köszönöm.}
 {214}{}{Általában a laborjában tartózkodik és új módszereken munkálkodik, miképpen tehetjük a testünket meg a lelkünket tökéletesebbé.}
 {215}{}{Köszönöm. Inkább kérdeznék valami mást!}
-{216}{}{Köszönöm.}
+{216}{}{Köszi.}
 {217}{}{Mielõtt igazán közénk tartozna, végre kell hajtanunk magán egy kezdeti zéta szkennelést - be kell, hogy hangoljuk. Készen áll a szkennelésre?}
 {218}{}{Nem! Szó nem lehet szkenrõl!}
 {219}{}{Hogyne! Csináljuk!}
@@ -123,11 +123,9 @@
 {222}{}{Ah, rendben van, szkenneljen csak!}
 {223}{}{Ezennel elimináltuk a legmocskosabb neurodinjait. Mostantól ön BHK-1. Készen áll, hogy csatlakozzon nemes ügyünkhöz?}
 {224}{}{Ó, igen.}
-{225}{}{Nem. Most nem.}
-
+{225}{}{Nope. Don't want to right now.}
 {226}{}{Elsõ lecke: Ugyebár itt van az örökkévalóság. Az egyik oldalon ott van Quetzel. [ujjával mutat valahova] Itt pedig mi vagyunk. [megintcsak mutat valahova] Nem kell mást csinálnunk, hogy eljussunk oda, csak egyszerûen jó sokat járni.}
 {227}{}{Ember, temérdek cipõre lesz szükségünk!}
-
 {228}{}{Gondolkozhatok rajta?}
 {229}{}{Már megint maga? Mi az?}
 {230}{}{Akar még valamit, hogy csináljak?}

@@ -1,16 +1,15 @@
 {100}{}{Vedi un vecchio. }
 {101}{}{Vedi Cornelius.}
 {102}{}{A parte l'espressione leggermente confusa del suo volto, non sembra esserci nulla di strano in lui.}
-
 {150}{}{Benvenuto al Bed & Breakfast di Rose. Il mio nome e' Rose -- cioe', Cornelius -- e sono il proprietario di questo bed and breakfast. Posso aiutarti?}
 {151}{}{Se sei tu il proprietario, allora perche' si chiama il Bed & Breakfast di ROSE?}
 {152}{}{Sto cercando un orologio d'oro.}
-{153}{}{Di cosa ti occupi?}
+{153}{}{Di che cosa ti occupi?}
 {154}{}{Chi e' Rose?}
 {155}{}{Vorrei una camera.}
 {156}{}{Domande? Ti stavo chiedendo qualcosa? Ciao, il mio nome e' Cornelius.}
 {162}{}{Hai seriamente bisogno d'aiuto, vecchio.}
-{163}{}{Farrel ha il tuo orologio in una cassaforte a muro. Impicchiamolo.} ###???string him up
+{163}{}{Farrel ha il tuo orologio in una cassaforte a muro. Impicchiamolo.}
 {164}{}{Ho trovato il tuo orologio nella casa di Farrel. Avevi ragione: e' stato Farrel a rubartelo.}
 {165}{}{Pare che a rubare il tuo orologio sia stato un ratto molto attivo. L'ho trovato nel suo nido.}
 {166}{}{Salve cumpa'! Ci siamo gia' visti da qualche parte?}
@@ -18,7 +17,7 @@
 {177}{}{Sono stato io ad ucciderlo. Adesso cosa pensi di fare, vecchio pazzo?}
 {178}{}{Whoa! Guarda che ore sono. Devo proprio andare.}
 {179}{}{Rose e' mia moglie; ho dato il suo nome a questo locale. Sapevi che ero sposato?}
-{180}{}{Posso farti qualche altra domanda?}
+{180}{}{Posso farti delle altre domande?}
 {181}{}{ALLORA PERCHE' NON LO CHIEDI A QUEL BUONO A NULLA DI FARREL?! MAGARI LUI TI VENDERA' L'OROLOGIO CHE MI HA RUBATO! Adesso, se non ti dispiace, sono piuttosto occupato. Devo rasare i brahmin.}
 {182}{}{Sono il proprietario di questo motel. Yep, questo posto andrebbe in rovina se non ci fossi io. Sei stato al gabinetto esterno? E' il piu' pulito gabinetto esterno che tu abbia mai visto. E' opera mia.}
 {183}{}{Cos'ha a che fare l'avere un gabinetto esterno pulito con l'essere il proprietario di questo locale?}
@@ -62,16 +61,12 @@
 {223}{}{HO TROVATO L'ASSASSINO! HA AMMESSO DI AVER UCCISO FARREL! PRENDETELO!}
 {224}{}{HO TROVATO L'ASSASSINA! HA AMMESSO DI AVER UCCISO FARREL! PRENDETELA!}
 {225}{}{Me uccide Farrel.}
-
 {300}{}{[Hmmm... Sembra che certe parole lo colpiscano particolarmente.] Rose... Stanza... Proprietario...}
 {301}{}{Ooga.}
-
 {501}{}{L'ho sempre saputo che eri un ladro!}
 {502}{}{Come hai potuto fare una cosa del genere al mio migliore amico?!}
 {503}{}{Ti uccidero'!}
 {504}{}{Appendero' la tua testa al muro come trofeo!}
-
 {550}{}{Sembra essere immerso nei suoi pensieri, al momento.}
-
 {600}{}{Hai ridato l'orologio a Cornelius.}
 {650}{}{Hai risolto la disputa tra Cornelius e Farrel.}

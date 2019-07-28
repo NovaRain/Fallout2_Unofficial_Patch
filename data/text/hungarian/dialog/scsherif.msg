@@ -7,16 +7,16 @@
 {106}{}{Na, köpje már ki!}
 {107}{}{Örrrgh.}
 {108}{}{A 13-as Menedéket keresem. Nem tudja, merre van?}
-{109}{}{Nincs magának egy ÉLET-e?}
+{109}{}{Nincs egy ÉLETED?}
 {110}{}{Tisztességes munkát keresek. Tudna segíteni?}
 {111}{}{Ó, rendben. Minden nagyon faszányos.}
 {112}{}{Elmaradottak vagyunk picit? Hozzád beszélek. Kérdezni akarsz? Hát kérdezz! Oké?}
-{113}{}{Tizen-háromos menedék?}
+{113}{}{13-as Menedék?}
 {114}{}{ÉLET?}
 {115}{}{Oké.}
 {116}{}{Nem, fogalmam sincs. Errõl még Tandi elnöknõ is szívesen hallana egy-két kézzelfogható információt. Sok problémát megoldana.}
 {117}{}{Miféle problémát?}
-{118}{}{Tandi elnöknõt mondott?}
+{118}{}{Mondanál valamit Tandi Elnöknõrõl?}
 {119}{}{Nagyszerû! Ilyen az én formám... Köszönöm.}
 {120}{}{Figyeljen rám! Tiszta és egészséges életet élek! Mindenki firtassa a magáét!}
 {121}{}{E-elnézést. Mit tud a 13-as Menedékrõl?}
@@ -30,7 +30,7 @@
 {129}{}{Tizen-ötös?}
 {130}{}{Nem. Tizen-háromos!}
 {131}{}{Igen, 15-ös! Te beszél Tandi. Nagy fõnök ÚKK. Tandi ismer Menedék. Akar segítni. Menny Tandi.}
-{132}{}{Tandi?}
+{132}{}{Tandival? Õ kicsoda?}
 {133}{}{Nem menni! Akarni 13!}
 {134}{}{Figyelni! Nem tizenháromos Menedék. Nem taláni. Nem látni. Nincsen tizenháromos. 15-ös van - népek talájják meg. Népek élnek 15-ös Menedékbe. Érteni?}
 {135}{}{Nem tizen-háromos? Tizen-öttös?}
@@ -38,9 +38,9 @@
 {137}{}{Arrgh! NINCSEN 13, OSTOBA FAJANKÓ! Nincsen 13! Nem találni. Sohase! Soha!}
 {138}{}{Tandi nagy fõnök. Tandi akarja segít. Beszélni Tandi. Menny Kon-gresszus ház. Rendbe'?}
 {139}{}{ÉLET?}
-{140}{}{Rendbe'.}
+{140}{}{Oké.}
 {141}{}{Enyém élet rendbe'...}
-{142}{}{Tizenháromos Menedék?}
+{142}{}{13-as Menedék?}
 {143}{}{Oké.}
 {144}{}{Nézzen körül! Az ÚKK gyorsan növekvõ hely. Szükségünk van mindenféle berendezésre, számítógépre, miegymásra. Ez már azóta problémát jelent, hogy a földbitorlók beköltöztek a 15-ös Menedékbe.}
 {145}{}{15-ös Menedék? Földbitorlók? Mi folyik itt?}
@@ -50,18 +50,16 @@
 {149}{}{Mit szólna hozzám? Esetleg ajánlhatna engem...}
 {150}{}{Hmm. Az élet nem habostorta...}
 {151}{}{Magát? Hmmm... Nem lehet. Nem is ismerem magát. Mondjuk Tandi elnöknõ mindenképp fel akar valakit bérelni, szóval nyugodtan beszéljen vele személyesen! Az irodája a Kongresszusi Épületben van.}
-{152}{}{Köszönöm. Már megyek is...}
+{152}{}{Köszönöm. Úgy teszek.}
 {153}{}{Tud valamit az ÉLET-rõl?}
 {154}{}{Hát, ez aztán fene rendes magától, idegen... meg egy kicsit merész is. Nem ismerem magát úgy, mint a tenyeremet, és a kinézete sem tetszik! Senkinek nem fogom ajánlani magát. Most pedig dolgom van...}
-{155}{}{Ott van Duppo a Marhatenyésztõknél. Õ szokott munkásokat felbérelni a brahmintereléshez. Aztán ott van Mr. Westin. Ha beszélne vele, mondja meg neki, hogy én küldtem. Úgy hallottam, még Tandi elnöknõ is keres valami megbízható embert.}
-{156}{}{Duppo a marhatenyésztõknél keres valakit a brahmintereléshez. Menjen, próbálkozzon nála!}
-
-
+{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
+{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
-{158}{}{Tandi elnöknõ?}
+{158}{}{Mondanál valamit Tandi Elnöknõrõl?}
 {159}{}{Mennem kell.}
-{160}{}{Roger Westin. A farmja közvetlenül a nyugati kapun túl van. Kisebb problémái támadtak a környék rágcsálóival. Õ maga is elintézné, de az egészsége nem olyan már, mint régen. Rossz a ketyegõje, ahogy Jubilee doki szokta mondani..}
-{161}{}{Valóban?}
+{160}{}{Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.}
+{161}{}{Eggen?}
 {162}{}{Van valami munkalehetõség a városban?}
 {163}{}{Áh, hagyjuk... Mennem kell.}
 {164}{}{Gondoskodjon róla, hogy így is maradnak a dolgok. Viszlát!}
@@ -77,6 +75,6 @@
 {174}{}{Tandival? Õ kicsoda?}
 {175}{}{Megfontolás tárgyává teszem...}
 {176}{}{Tudomásom szerint nincs több munkalehetõség.}
-{177}{}{Duppo a marhatenyésztõknél keres valakit a brahmintereléshez. Tandi elnöknõ is keres valami megbízható embert.}
+{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
 {178}{}{Ezzel a szellemi potenciállal mindenki itthagyná ezt a várost, nemhogy még munkát keressen itt.}
-{179}{}{Ott van Duppo a Marhatenyésztõknél. Õ szokott munkásokat felbérelni a brahmintereléshez. Menjen próbálkozzon nála! Aztán ott van Mr. Westin. Ha beszélne vele, mondja meg neki, hogy én küldtem.}
+{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

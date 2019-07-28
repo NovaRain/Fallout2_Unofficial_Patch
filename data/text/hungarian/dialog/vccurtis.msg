@@ -1,9 +1,8 @@
-# Dialog Editor last position: 5
-{100}{}{Curtis.}
-{101}{}{Egy alacsony, barna hajú fiúhoz van szerencséd. Kétségbeesetten sír.}
-{102}{}{Õ Curtis.}
+{100}{}{Curtis. }
+{101}{}{Egy alacsony, barna hajú fiút látsz. Kétségbeesetten sír.}
+{102}{}{Curtis. }
 {103}{}{Egy alacsony, barna hajú fiút látsz. Kétségbeesetten sír.}
-{104}{}{Egy barna hajú fiút látsz. Már sokkal vidámabbnak tûnik.}
+{104}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak tûnik.}
 {105}{}{Curtis. }
 {106}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak tûnik.}
 {107}{}{*Szipp*}
@@ -25,7 +24,7 @@
 {123}{}{Az a fémkutya mindjárt felfal, Vidd innen!}
 {124}{}{Nem láttad Mr. Nixont? Elvesztettem.}
 {125}{}{Eeeez Nikkszon?}
-{126}{}{[Továbbállsz]}
+{126}{}{[Elcsoszogsz]}
 {127}{}{Róla beszélsz? Már keresett ám téged.}
 {128}{}{Mr. Nixon itt van nálam, de tudod mit? Azt hiszem, meg kell büntetni, amiért egyedül elcsatangolt. Egy kis csonkítás talán megteszi. Akkor elõször is letépem a lábát... azután...}
 {129}{}{Nekem most mennem kell, szia.}

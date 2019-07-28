@@ -4,8 +4,8 @@
 {103}{}{Chi va la'?}
 {104}{}{Muoversi.}
 {105}{}{Cos'hai da guardare?}
-{106}{}{Circolare.}
-{107}{}{Non stare li' imbambolato.}
+{106}{}{Vattene.}
+{107}{}{Non bighellonare.}
 {108}{}{Faro' rapporto su di te.}
 {109}{}{Torna al lavoro.}
 {110}{}{Ce l'Hai l'autorizzazione per entrare in questa sezione?}
@@ -20,7 +20,7 @@
 {119}{}{Non hai sentito l'allarme?}
 {120}{}{Radiazioni o tossine, ma che bella giornata.}
 {121}{}{Qualche volta non vale proprio la pena alzarsi dal letto.}
-{122}{}{Ogni ispezione e' una parata per me.} ###???Every inspection's a parade
+{122}{}{Ogni ispezione e' una parata per me.}
 {123}{}{Amo il mio lavoro.}
 {124}{}{Hai sentito qualcosa?}
 {125}{}{I miei piedi mi stanno *uccidendo*.}
@@ -50,7 +50,7 @@
 {149}{}{Gamma team a rapporto.}
 {150}{}{./~Shines the name, shines the name, shines the name of Rodger Young ./~}
 {151}{}{D'accordo, allora: chi e' che sta masticando del chewing gum nel casco?}
-{152}{}{Smettetela di far casino.} ###???Stop stompin' those grapes
+{152}{}{Smettetela di far casino.}
 {153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's..../~}
 {154}{}{./~ Sound off, 1-2-3-4, bring it on down ./~}
 {155}{}{Livello 2, tutto tranquillo.}

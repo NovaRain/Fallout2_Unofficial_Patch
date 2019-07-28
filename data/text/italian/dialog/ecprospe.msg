@@ -1,6 +1,6 @@
 {100}{}{Vedi un cercatore.}
 {101}{}{Fermo li', straniero! Di solito non faccio agguati agli stranieri, ma mi servono delle provviste e non posso lasciare la mia concessione. Vuoi fare un rapido scambio?}
-{102}{}{Certo.}
+{102}{}{Bene.}
 {103}{}{Non ho nulla da scambiare. Mi dispiace.}
 {104}{}{Booga.}
 {105}{}{Che colpo di fortuna. Non puoi parlare, vero? Se non puoi parlare, non puoi dire a nessuno dove si trova la mia concessione. Vediamo cos'hai da scambiare.}

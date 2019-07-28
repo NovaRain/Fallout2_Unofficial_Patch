@@ -1,7 +1,6 @@
-# Dialog Editor last position: 62
-{100}{}{Szép darab ember bõrkötényben.}
-{101}{}{Balthas a tímár.}
-{102}{}{Magas, izmos férfi, akibõl árad a cserzett bõr szaga.}
+{100}{}{You see a heavy set man wearing a leather apron.}
+{101}{}{You see Balthas the tanner.}
+{102}{}{You see a tall, muscular man who looks and smells of leather.}
 {151}{}{A fiamat véletlenül megölték a harc során.}
 {152}{}{Nem tudok Jonny nélkül élni.}
 {153}{}{[potyognak a könnyei]}
@@ -18,7 +17,9 @@
 {171}{}{Nem találtál még Jonnyra?}
 {172}{}{Ezt egy régi, kiszáradt kút fenekén találtam. A kút egy része beomlott, és ez hevert a törmelék közt. Sajnálom, de attól tartok, Jonny meghalt.}
 {173}{}{Nem, egyelõre nem...}
-{175}{}{Köszönöm, hogy visszahoztad a fiunkat! Nincs módomban, hogy valaha is méltó módon visszafizessem ezt neked, de hálánk jeléül fogadd el ezt a bõrdzsekit. Nem is olyan régen egy új kikészítési eljárást dolgoztam ki. Szerintem elég szívósnak fogod találni ezt a páncélt, ráadásul még jól is áll majd rajtad.}
+{175}{}{Thank you for returning my boy to me. There's no way I can ever repay you, but please take this
+ leather armor as thanks. I've been experimenting with a new curing process; I think you'll find this
+ armor very durable, and besides -- you look really good in it.}
 {176}{}{Köszönöm, hogy megmentetted a fiamat!}
 {177}{}{Kérlek, hagyj magamra a bánatommal...}
 {178}{}{Jonny él! A magukat dacból Aljanépnek nevezõ társaság megmentette õt. Ha még nem fogyott el a türelmed, van esély, hogy Jonny megkerül. }
@@ -61,3 +62,6 @@
 {220}{}{Tudtam, hogy Jonny nem halt meg! Azt mondod, várnom kell... de ezt nem értem! Baja lett tán? Az ösztöneim azt súgják, hogy fussak a fiamhoz, de azt is érzem, hogy te a fiam legjobb érdekében cselekszel. Kérlek, siess és hozd vissza a fiam!}
 {221}{}{Jaj ne, csak a szellemeket ne említetted volna! Tudtam, hogy porig kellett volna égetnem azt a helyet. Nem engedem, hogy elvegyék a fiam... Bármi áron, de visszahozom õt. Biztos vagyok, hogy Modoc lakosai segítenek ebben! Találkozzunk a Kísértetfarmon! Mindegyiket kinyírjuk!}
 {230}{}{Biztonságban visszajutattad Jonnyt Modocba.}
+{240}{}{Please, bring my son back to me safely.}
+{2199}{}{That's Jonny's BB gun all right... I don't believe he is dead. Please keep looking for my boy. I
+ am sure he is still out there.}

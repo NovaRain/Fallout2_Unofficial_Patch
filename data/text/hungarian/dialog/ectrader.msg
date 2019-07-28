@@ -1,7 +1,8 @@
 {100}{}{Egy kereskedõ.}
 {101}{}{Willy.}
 {102}{}{Egy hétköznapi, utazó kereskedõ.}
-{103}{}{Üdvözöllek barátom! A nevem Willy, és nagyszerû ajánlatom van a számodra. [Úgy tûnik, hogy egy kis papírlapról olvassa, amit mond. Egy idõ után csendesen elbóbiskolsz.]}
+{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
+ a card, and after a while you doze off.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Nagy nehezen kinyitod a szemedet, mikor végre ráeszmélsz, hogy valaki rúgdos.] Na, most akkor érdekel vagy nem?}
 {106}{}{Mi érdekel?}
@@ -18,7 +19,7 @@
 {117}{}{[Vége]}
 {118}{}{Francba! Ezért pocsékoltam a drága idõmet?! A fene vigye!}
 {119}{}{[Vége]}
-{120}{}{Hát, akkor hiába beszéltem annyit. } #continue on 152
+{120}{}{Hát, akkor hiába beszéltem annyit. }
 {121}{}{Ige'.}
 {122}{}{Nem.}
 {123}{}{Megint te vagy az? Nahát! Van új árum, érdekel?}
@@ -50,6 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-
 {152}{}{ dollár. Kell vagy nem kell?}
-{200}{}{ dollár.}
+{200}{}{ vagyok.}

@@ -6,7 +6,7 @@
 {105}{}{Gliela faremo vedere a quei mutanti.}
 {106}{}{Viva i diritti degli umani, compagno.}
 {107}{}{Hai la stoffa giusta.}
-{108}{}{Fuori di qui.}
+{108}{}{Esci subito di qui.}
 {109}{}{Amante dei mutanti.}
 {110}{}{Farai meglio a tenere la bocca chiusa, se ci tieni alla pelle.}
 {111}{}{Dannato simpatizzante con i mutanti.}
@@ -22,7 +22,7 @@
 {121}{}{La nostra vittoria e' vicina.}
 {122}{}{Presto Broken Hills sara' nostra.}
 {123}{}{Dannato amante dei mutanti.}
-{124}{}{Fuori di qui.}
+{124}{}{Esci subito di qui.}
 {125}{}{Sei solo un lacche' dell'imperialismo mutante.}
 {126}{}{Stavolta hai fatto la scelta sbagliata.}
 {127}{}{Ti pentirai di quello che hai fatto.}
@@ -39,6 +39,6 @@
 {138}{}{E' carino da parte tua venire a farci visita. Adesso vattene.}
 {139}{}{Perche' vorresti attraversare tutto quel fango?}
 {140}{}{Ti comporteresti allo stesso modo se tu fossi nella tua, uh, tenda?}
-{141}{}{Per favore, lasciami in pace.}
+{141}{}{Lasciami in pace.}
 {142}{}{Non so cosa tu voglia, ma io vorrei che tu mi lasciassi in pace.}
 {143}{}{Ci hanno incastrato! Non abbiamo ucciso noi quelle persone nei tunnel!}

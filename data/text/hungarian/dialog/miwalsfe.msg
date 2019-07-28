@@ -1,7 +1,6 @@
-# Dialog Editor last position: 5
 {100}{}{Ez itt nem más, mint egy faliszéf.}
 {110}{}{A széf zárva van.}
-{200}{}{, ez igen! Sikeresen kinyitottad a faliszéfet.}
-{201}{}{, ügyes vagy! Sikeresen bezártad a faliszéfet.}
-{210}{}{ csõdöt mondott a faliszéf bezárása közben.}
-{211}{}{ csõdöt mondott a faliszéf kinyitása közben.}
+{200}{}{You successfully unlock the wall safe.}
+{201}{}{You successfully lock the wall safe.}
+{210}{}{You fail to lock the wall safe.}
+{211}{}{You fail to unlock the wall safe.}
