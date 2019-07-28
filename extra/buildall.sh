@@ -6,7 +6,7 @@ src="$(realpath scripts_src)"
 dst="$(realpath data/scripts)"
 extra_dir="$(realpath extra)"
 bin_dir="$(realpath $bin_dir)"
-skip_list="$(realpath $extra_dir/skip.list)"
+skip_list="$(realpath $extra_dir/compile_skip.list)"
 
 if ! $extra_dir/need-build.sh ; then
   echo "scripts haven't changed, skipping build"
@@ -20,9 +20,9 @@ function process_file() {
   f="$1"
   dst="$2"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
-  WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
+  wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
   sed -i '/^[[:space:]]*$/d' "$f.tmp" # delete empty lines
-  WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
+  wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
 }
 export -f process_file
