@@ -15,5 +15,5 @@ move %bdir%\data\*.txt data\ 2>nul
 move %bdir%\data\*.gcd data\ 2>nul
 move %bdir%\data\sound data\ 2>nul
 
-echo "UPU installed. Backup is in %bdir%"
+echo UPU installed. Backup is in %bdir%
 pause
