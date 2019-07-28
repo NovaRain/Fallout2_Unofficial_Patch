@@ -1,11 +1,13 @@
+## Changelog
+
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
-## Version 2
+### Version 2
 
 Repacked into .dat file.
 
-## Version 1
+### Version 1
 
 - General
     - Fixed Laddie being counted as a "strange" party member instead of K-9.
