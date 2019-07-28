@@ -1,6 +1,7 @@
 ## Fallout 2 Unofficial Patch, updated
 
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch)
+[![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 
 * [Download](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 * [Installation](#installation)
@@ -18,6 +19,7 @@ This is an update for [killap's Unofficial Patch](http://killap.net/) for Fallou
 **Notes:**
 1. UPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
+1. Most translations are incomplete, they are provided as is. **You** can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Some details are [here](docs/translations.md).
 
 ### Reporting issues
 If you've found an issue:
