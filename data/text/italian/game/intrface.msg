@@ -1,0 +1,8 @@
+#
+#   Interface text from INTFACE.C
+#
+{100}{}{FURTIVO}
+{101}{}{LIVELLO}
+{102}{}{DIPENDENTE}
+{103}{}{AVVELENATO}
+{104}{}{IRRADIATO}
