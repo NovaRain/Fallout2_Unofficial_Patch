@@ -22,7 +22,7 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 1. UPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 
-## Translations
+### Translations
 If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into **mods** subdirectory inside game root.
 
 Most translations are incomplete, they are provided as is. **You** can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Some details are [here](docs/translations.md).
