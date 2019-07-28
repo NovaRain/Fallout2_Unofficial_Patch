@@ -1,0 +1,11 @@
+# Dialog Editor last position: 8
+{150}{}{Hagyd el a földünket!}
+{151}{}{Behatoltál ide!}
+{152}{}{Ez a mi földünk!}
+{153}{}{Az ég szellemei sújtsanak!}
+#piss on (someone) Vrb phrs. To thoroughly defeat, or trounce.  (bass)
+
+{154}{}{A föld szelleme nyeljen el téged!}
+{155}{}{Fújjanak ocsmányt bûzt feléd a szél szellemei!}
+{156}{}{Hagyjanak cserben a víz szellemei!}
+{157}{}{A nagy tûzszellemek hozzanak átkot rád!}

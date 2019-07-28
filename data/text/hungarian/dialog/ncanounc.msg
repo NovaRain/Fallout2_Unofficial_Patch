@@ -1,0 +1,32 @@
+# Dialog Editor last position: 1
+{100}{}{Hölgyeim és Uraim!}
+{101}{}{Fiúk és Lányok!}
+{102}{}{A mai mérkõzés szponzora...}
+{103}{}{...a ROTGUT!}
+{104}{}{Ha mindenképpen innod kell, és nem számít, mi az...}
+{105}{}{Válaszd a Rotgut-ot!}
+{123}{}{...a Gamma Glutty Sörgyár!}
+{124}{}{Ha a bõrödbõl hiányzik a szükséges "plussz izzás"...}
+{125}{}{Válaszd a Gamma Glutty Sört!}
+{143}{}{...a Cat's Paw Szalon!}
+{144}{}{Amikor már csak úgy viszket mindened, és alig várod, hogy megvakarják.}
+{145}{}{Irány a Cat's Paw Szalon!}
+{163}{}{...a New Reno-i Fegyverbolt!}
+{164}{}{Ha messzirõl akarsz valakit lelõni...}
+{165}{}{Látogass el a New Reno-i fegyverboltba!}
+{106}{}{Ebben a sarokban áll a kihívó, súlya }
+{1106}{}{ font. Nemrég jött a pusztaságból tehát még új New Renóban! A neve }
+{2106}{}{!}
+{107}{}{A másik sarokban pedig a címvédõ... súlya }
+{1107}{}{ font, mindannyian ISMERIK, SZERETIK õt, aki nem más, mint }
+{2107}{}{!}
+{108}{}{Tehát, hogy ne szaporítsuk tovább a szót...}
+{109}{}{Húúúúúúúúúúúzzunk bele! Lássuk, kinek van vér a pucájában!}
+{200}{}{A legújabb gyõõõõõõõõõõzzztesünk...}
+{201}{}{...mégpedig kiütéssel...}
+{202}{}{...mégpedig technikai kiütéssel...}
+{203}{}{...sajnálatos diszkvalifikáció folytán...}
+{204}{}{}
+{205}{}{arányban a gyõztes }
+{206}{}{...}
+{210}{}{!!!}

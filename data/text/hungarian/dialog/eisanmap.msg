@@ -1,0 +1,1 @@
+{100}{}{Úgy tûnik, van egy város a Katonai Bázistól nyugatra. Be is jelölted a PipBoyba.}

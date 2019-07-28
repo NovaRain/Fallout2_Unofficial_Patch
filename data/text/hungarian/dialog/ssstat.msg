@@ -1,0 +1,1 @@
+{100}{}{A talapzaton egy emléktábla található, amin a következõ feliratot olvashatod: "Az Idegen és a 13-as Menedék: ami nem létezik, arról néha ábrándoznunk kell és engednünk, hogy az álmaink vezessenek bennünket újabb és újabb magaslatokba. Így volt ez az Idegennel is és a 13-as Menedékbe vetett hitével."}

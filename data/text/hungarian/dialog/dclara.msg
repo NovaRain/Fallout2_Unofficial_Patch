@@ -1,0 +1,159 @@
+# Dialog Editor last position: 155
+{100}{}{Õ Lara.}
+{150}{}{Õ ennek a bandának a fõnöke.}
+{200}{}{Lara vagyok. Én vezetem ezt a bandát. Jobb, ha nem csinálsz itt semmi zûrt, különben hatalmas ruhát kapsz.}
+{201}{}{Szia! Kell valami?}
+{202}{}{Nincs nálatok melólehetõség?}
+{203}{}{Csak nézelõdök.}
+{204}{}{Egy Vic nevû kereskedõt keresek.}
+{205}{}{Aruh.}
+{206}{}{Rara.}
+{220}{}{Nincs orvosunk a városban és én sem tudok rajtad segíteni.}
+{221}{}{Bocs, de még mindig nem értem.}
+{222}{}{Ack.}
+{230}{}{Nem ugrik be a név, de ismétlem, nem tartom számon, kik járkálnak ki-be a városban. Kérdezd meg Becky-t! Mindenki nála köt ki végül, õ lehet, hogy ismeri.}
+{231}{}{Nincs nálatok melólehetõség?}
+{232}{}{Kösz, viszlát!}
+{240}{}{Ha nem valami határozott céllal jöttél Rejtekbe, akkor jobban teszed, ha elmész. Nem túl biztonságos errefelé.}
+{241}{}{Rendben.}
+{242}{}{Nincs nálatok melólehetõség?}
+{243}{}{Magam is meg tudom oldani.}
+{244}{}{Oké, köszi!}
+{250}{}{Nem kétlem, különben aligha jutottál volna el ide élve.}
+{251}{}{Izé, igen, úgy hallottam. Már mondtad.}
+{252}{}{Nincs nálatok melólehetõség?}
+{253}{}{Oké, köszi!}
+{260}{}{Attól függ, mihez értesz? Van valami, amit meg szeretnék tudni. Ha kideríted, fizetek is érte.}
+{261}{}{Ahogy már mondtam, több információra van szükségem egy bizonyos dologról... vagy helyrõl. Persze fizetek érte.}
+{262}{}{Persze, mi lenne az?}
+{263}{}{Talán késõbb.}
+{270}{}{Szólj, ha meggondoltad magad!}
+{271}{}{Rendben.}
+{280}{}{Naszóval... innen keletre van egy templom. Metzger néhány embere õrzi, akármit is tárolnak odabenn. Derítsd ki, mi az, és fizetek érte 200  dollárt. }
+{281}{}{Ez nagyon egyszerû. Idõközben megtudtam.}
+{282}{}{Persze.}
+{283}{}{Megnézem, mit tehetek.}
+{290}{}{Kösz. Ne szállj be bunyóba... egyelõre! Van egy tervem.}
+{291}{}{Nem gond.}
+{292}{}{Majd jövök.}
+{300}{}{Mi van?}
+{301}{}{Vegyipari nyersanyagok nagy ládákba csomagolva.}
+{302}{}{Nagy dobozok, valamiféle vegyszerekkel.}
+{303}{}{Megnézem még egyszer.}
+{310}{}{Ez beleillik a képbe. Kösz. Itt a pénzed.}
+{311}{}{Hogyhogy beleillik a képbe?}
+{312}{}{Semmi baj. Viszlát!}
+{320}{}{Egy Menedékvárosból érkezett karavánt láttam bemenni, aztán a cuccok egy részét New Renóból érkezõ karavánok vitték el.}
+{321}{}{És? Mi ebben a nagy szám?}
+#321 tested (bass)
+{322}{}{Ejha!}
+{340}{}{Ahhoz, hogy drogot csinálhassanak, valahonnan kapniuk kell a nyersanyagot, tiszta? Úgy látszik, hogy részben vagy egészben Menedékvárosból szerzik be.}
+{341}{}{New Reno merre van?}
+{342}{}{Oké, kösz.}
+{350}{}{Nem tudom pontosan. Szerintem valahol délen. Még soha nem jártam arra, csak a karavánjaikat láttam egyszer régen... nagyon régen.}
+{351}{}{Rendben, kösz!}
+{360}{}{Nem érdekel egy újabb gyors és könnyû kereset? 50 dolcsi? Könnyû pénz.}
+{361}{}{Dehogynem!}
+{362}{}{Essünk túl rajta!}
+{370}{}{Tudd meg nekem Metzgertõl, hogy nem bánja-e, ha Tylerrel lerendezünk egy régi ügyet. Tudni fogja mirõl van szó.}
+{371}{}{Miért akarod, hogy éppen én kérdezzem meg?}
+{372}{}{Ha lesz rá módom.}
+{373}{}{Oké.}
+{380}{}{Mert nem akarom, hogy Tyler meglássa bármelyik emberemet, amint ki-be jár Metzgernél. Nem akarok tippeket adni.}
+{381}{}{Nem érted. Ha Tyler meglátja, hogy hirtelenjében Metzgerrel tárgyalok, megneszeli, hogy bûzlik valami.}
+{382}{}{Meglátjuk.}
+{383}{}{Oké.}
+{390}{}{Szóval, rájöttél, hogy mi van odabenn?}
+{391}{}{Vegyipari nyersanyagok nagy ládákba csomagolva.}
+{392}{}{Nagy dobozok valamilyen vegyianyagokkal.}
+{393}{}{Még nem.}
+{400}{}{Na, beszéltél már vele? Mit mondott?}
+{401}{}{Azt mondta, hogy mehet. Ha tied a gyõzelem, tied a munka, akárcsak a régi szép idõkben.}
+{402}{}{Nem.}
+{410}{}{Klassz! Ebben bíztam. Hallottam, hogy nemrég panaszkodott rájuk. Itt a pénzed.}
+{411}{}{Jól sejtem, hogy van még valami?}
+{412}{}{Kösz, viszlát!}
+{420}{}{Van még egy feladatom a számodra. Nem tudom, hogy fogod megcsinálni, de mivel már egyszer bejutottál, talán megbíznak benned.}
+{421}{}{Belopóztam.}
+{422}{}{Mi az?}
+{430}{}{Biztosan ki tudsz találni valamit.}
+{431}{}{Oké, mi lenne az?}
+{440}{}{Jó a felszerelésük és enyhe számbeli fölényben is vannak. Találj valami gyenge pontot, ami kiegyenlíti az esélyeket vagy amit ki tudnánk használni...}
+{441}{}{Hogyan? Találjak egy gyenge pontot? Mégis, hogy képzeled?}
+{442}{}{Mennyi?}
+{443}{}{Tekintsd úgy, hogy már el is intéztem!}
+{450}{}{Kapsz 150 dolcsit. Mi egyszerûen nem tudunk elég közel jutni ahhoz, hogy kiderítsük.}
+{451}{}{Ha össze tudom hozni...}
+{452}{}{Oké.}
+{460}{}{Nem tudom. Ezért van szükségem a segítségedre.}
+{461}{}{Megpróbálom.}
+{462}{}{Ennek semmi értelme.}
+{470}{}{Találtál valamit?}
+{471}{}{Igen. Ma éjjel bulit csapnak.}
+{472}{}{Még nem. Majd szólok.}
+{473}{}{Gra.}
+{474}{}{Nem.}
+{480}{}{Tökéletes! Biztosan csak egy maroknyi õrséget hagynak. Ez jó esélyt jelent. Miután lecsaptunk a templomra, elintézzük a bulizókat is.}
+{481}{}{És a pénzemmel mi lesz?}
+{490}{}{Lassan a testtel! Ha kell a pénzed, velünk kell jönnöd! Nem kell harcolnod, de biztosnak kell lennem, hogy nem csaltak csapdába minket. Kapsz összesen 300 dolcsit.}
+{491}{}{Készen állsz?}
+{492}{}{Oké, mehetünk.}
+{493}{}{Adj egy kis idõt, hogy felkészüljek!}
+{494}{}{Szó sem lehet róla! Tartsd meg a pénzed! }
+{500}{}{Rendben, de gyorsan kell cselekednünk, szóval ne tartson soká, vagy elcsesszük az esélyeinket!}
+{501}{}{Oké.}
+{510}{}{Nem kell harcolnod. Könnyû pénz.}
+{511}{}{Nos, meggondoltad magad?}
+{512}{}{Mehetünk, készen állok.}
+{513}{}{Oké, mindjárt visszajövök.}
+{514}{}{Nem.}
+{515}{}{Uk}
+{520}{}{Miattad puskáztuk el!}
+{521}{}{Gyáva!}
+{522}{}{Nem kapsz semmit!}
+{523}{}{Amúgy is biztos csapda lett volna!}
+{524}{}{Bocs, de megbízhatatlan vagy!}
+{525}{}{Nem bízom meg benned.}
+{530}{}{Megcsináltuk!}
+{531}{}{Köszönöm a segítséget!}
+{532}{}{Külön köszönet neked!}
+{533}{}{Végre megfizettem Tylernek azért, amit a bátyámmal csinált.}
+{534}{}{Köszönöm még egyszer.}
+{540}{}{Most, hogy Metzger halott, nem tudom, mi lesz.}
+{541}{}{Talán egyszerûen csak fel kéne cuccolni.}
+{542}{}{Hallottad, hogy Metzger meghalt? Nem tudom, mit tegyek most.}
+{543}{}{Mi lesz most Rejtekbõl? Talán valami jobb.}
+{544}{}{Ebbõl végül még jó is kisülhet.}
+{550}{}{Rohadék!}
+{551}{}{Kurva!}
+{560}{}{Kösz. Itt a pénzed és még 100 dollár jutalom.}
+{570}{}{Kinyírtad Tylert és az õreit? Most hogyan bizonyítsunk Metzger elõtt? Soha nem fog felfogadni minket! Ez volt az egyetlen esélyünk.}
+{571}{}{Nincs meló. Valaki kinyírta Metzger õreit és most nem áll szóba velünk. Azt hiszi, mi tettük. Isteni.}
+{572}{}{Bocs!}
+{573}{}{Nagy kár.}
+{574}{}{Én voltam, és most te jössz!}
+{575}{}{Rendben, viszlát!}
+{576}{}{He?}
+{577}{}{Úg.}
+{590}{}{Azt mondtam, hogy együtt megyünk!  Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
+{591}{}{Azt mondtam, derítsd ki a gyenge pontjukat, nem azt, hogy öldd meg õket!  Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
+{592}{}{A francba! Azt mondtam, hogy kérdezd meg Metzgert, nem azt, hogy öldd meg õket! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
+{593}{}{A francba! Megmondtam, hogy ne támadj rájuk! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pipább, mint valaha!}
+{594}{}{Ó, igen, sajnos mennem kell.}
+{595}{}{Ez szégyen!}
+{596}{}{Most rajtad a sor, kurva!}
+{597}{}{Uff!}
+{598}{}{Te jössz!}
+
+{610}{}{Te aztán tudod, hogyan csesszél el dolgokat, igaz?}
+#Tul sok a felesleges karomkokdas helyenkent (bass)
+{611}{}{Nincs már szükségünk a segítségedre.}
+{612}{}{Eridj, idegesíts valaki mást!}
+{613}{}{Metzger jobb ha nem tesz semmit ellenünk.}
+{614}{}{Sajnálom, nem segíthetek.}
+{615}{}{Most nem beszélgetek! Megpróbálom kitalálni, mi a fenét csináljunk most.}
+{616}{}{Remélem, Metzger nem hiszi, hogy benne voltunk.}
+{617}{}{Most mit csináljunk?}
+{618}{}{Jobb, ha gyorsan lelépünk, mielõtt Metzger azt hiszi, megöltük az õreit.}
+{619}{}{Voltál valaha New Renóban? Lehet, hogy arra megyünk... vagy északnak.}
+{650}{}{Rendben, induljunk! Mindenki utánam!}

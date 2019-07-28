@@ -1,0 +1,282 @@
+# Dialog Editor last position: 81
+{100}{}{Egy gonosz külsejû pasast látsz.}
+{101}{}{Metzger, a rabszolga-hajcsárok fõnöke.}
+{150}{}{Metzger, a Rabszolga-Céh feje.}
+{200}{}{Ezért megfizetsz!}
+{210}{}{Mi a faszt akarsz?! Ez a Rabszolga-Céh, nem valami menedék az ilyen kibaszott narkósoknak!}
+{211}{}{Mi a francot akarsz, te ocsmány kurva? Ez a Rabszolga-Céh, nem egy kibaszott kupi!}
+{212}{}{Mit akarsz, te kurva? Ez a Rabszolga-Céh, nem egy kibaszott kupi!}
+{213}{}{Kezdesz kiakasztani! Most meg mi a fenét akarsz?}
+{214}{}{Na, mi van, a jó életbe?}
+{215}{}{Mi van?}
+{216}{}{Jobb, ha rövidre fogod!}
+{217}{}{A rohadt változatosságért akarsz itt dolgozni?}
+{218}{}{Már kezdem megszokni az ocsmány pofád. Nahát... akarsz valamit, vagy mi van?}
+{219}{}{Úgy nézek ki, mint a kibaszott apád, vagy mi? Kurvára remélem, hogy nem. Na, köpd már ki, mit akarsz?}
+{220}{}{Na, nézd csak, ki van itt! Azt hiszed, te valami különlegesség vagy, mi? Beszélj, vagy tûnj a picsába!}
+{221}{}{És most mit akarsz, hajcsár?}
+{222}{}{Egész nap itt fogsz ácsorogni, vagy mondani is akarsz valamit?}
+{223}{}{Szólalj már meg! Nem érek rá egész nap ezzel szarakodni!}
+
+{230}{}{Ó, és mégis ki lenne az? Remélem, többé nem akarod majd látni...}
+{231}{}{Nincs veled senki, aki érdekelne. Engem csak emberek érdekelnek - mármint a normálisak.}
+{232}{}{Te kibaszott idióta, minek nézel te engem, egy kibaszott boltnak, vagy mi? Ha van eladó rabszolgád, bökd ki! Ha mást akarsz eladni, keress egy kibaszott boltot!}
+{233}{}{Miria}
+{234}{}{Davin}
+{235}{}{Vic}
+{236}{}{Myron}
+{237}{}{MacRae}
+{238}{}{Sulik}
+{239}{}{Kérdezhetnék inkább valami mást?}
+{240}{}{Meggondoltam magam. Viszlát!}
+
+{245}{}{Gyerünk!}
+{246}{}{Igen?}
+{247}{}{Nem vagyok a rohadt szolgád, úgy hogy igyekezz!}
+{248}{}{Mi van? Nem érek rá egész nap.}
+{249}{}{Na, lökjed!}
+{250}{}{Talán.}
+
+{255}{}{Van valamim, amit el akarok adni.}
+{256}{}{Vicrõl ha beszélnénk...}
+{257}{}{Keresek egy kereskedõt.}
+{258}{}{Lara megbízott, hogy kérjek engedélyt tõled Tyler megtámadására.}
+{259}{}{Beléphetek a Céhbe?}
+{260}{}{Mit tudsz mondani nekem a Céhrõl?}
+{261}{}{Szeretnék elmenni egy rabszolga-vadászatra.}
+{262}{}{Ne is törõdj vele! Viszlát!}
+{263}{}{ akar akció.}
+{264}{}{Nem.}
+
+{270}{}{Na, mi van, kedvet kaptunk hozzá? Nem veszek ám be akárkit... a francba. Ha nem válsz be, úgyis eladlak. Kapsz egy tetoválást a homlokodra, amibõl mindenki láthatja, hogy rabszolga-hajcsár vagy. Ez örökre megmarad, szóval nincs visszaút.}
+{271}{}{Nocsak, visszatért a mi kis nebáncsvirágunk! Mi van, meggondoltad magad? Mégiscsak akarod azt a tetkót?}
+{272}{}{Igen, beszállhatsz... Nem kell túl sok ész hozzá. Ha elcseszed, egyszerûen eladlak. Ha bevállalod, kapsz egy tetoválást a homlokodra, amibõl mindenki megtudja, hogy rabszolga-hajcsár vagy.}
+{273}{}{Gyerünk, kezdjük!}
+{274}{}{Ezt még meg kell gondolnom. Visszajövök késõbb.}
+{275}{}{Talán mégsem. Viszlát!}
+{276}{}{Uja! (bólintasz)}
+{277}{}{Nem, nem, nem, nem!}
+
+{285}{}{Mégis, mi a faszt képzelsz? Ez a Rabszolga-Céh. Rabszolgákat adok,  veszek.}
+{286}{}{Honnan szerzed a rabszolgákat?}
+{287}{}{Szeretnék beállni!}
+{288}{}{Még szeretnék valamit kérdezni.}
+{289}{}{Ó, rendben. Viszlát!}
+
+{300}{}{Hát, innen is, onnan is. Általában a benszülötteket és a nomádokat gyûjtjük be, ha épp beléjük botlunk.}
+{301}{}{Jól hangzik! Hogy vehetnék részt ilyesmiben?}
+{302}{}{Kérdeznék valami mást.}
+{303}{}{Ó, rendben. Viszlát!}
+
+{310}{}{Nahát, el se bõgted magad! Marha büszke vagyok rád... igazából a tetkó is baromi jól mutat rajtad. Csak sikíts, ha készen állsz az elsõ vadászatra!}
+{311}{}{Kösz. Viszlát!}
+{312}{}{Készen állok.}
+{313}{}{Én ölni MOSTAN!}
+{314}{}{Oké-zsoké}
+
+{320}{}{Két emberem egész közel visz a célpontokhoz. A pénzed az általad begyûjtött rabszolgák számától függ, de figyelned kell a többiekre is. Ha valakit megölnek, keményen levonok a fizetségedbõl.}
+{321}{}{A francba, teljesen kifogytunk. Várni kell, hogy néhány primitív népség visszamerészkedjen a környékre. Lehet, hogy el kéne kezdeni tenyészteni õket.}
+{322}{}{Bocs, de egyszerûen nem váltál be. Túl nagy a veszteség és ez bizony üzlet. Én keresni akarok, nem ráfizetni.}
+{323}{}{Rendben. Készen állnak.}
+{324}{}{Rendben, mehetsz!}
+{325}{}{Akkor mozogjunk!}
+{326}{}{Rendben. Keress fel, ha készen vagy!}
+{327}{}{OK.}
+{328}{}{Ööh.}
+
+{340}{}{Meg kell ölni az összes ellenségeset! Ha megtámadnak, nyírd ki õket! Nem akarok többet foglalkozni velük, kibaszott nagy zûrt csinálnak. Ha végeztél, a többiek majd összeterelik és megjelölik a maradékot.}
+{341}{}{Oké.}
+{342}{}{Ó.}
+
+{350}{}{Ha elkezdik megjelölni a rabszolgákat, visszajöhetsz, ha akarsz. Ez különleges gyakorlatot igényel, szóval ne akard lefõzni a többieket! Ameddig nem teszel kárt az áruban, azt csinálsz, amit akarsz!}
+{351}{}{Rendben.}
+{352}{}{Hûha.}
+
+{360}{}{Ó, igen. Egész csinos. Adok érte }
+{1360}{}{ dolcsit. Mit szólsz hozzá?}
+{361}{}{Õ rendben van. Valószínûleg le tudnám csapni a kezedrõl némi pénzért. Legyen mondjuk }
+{1361}{}{ dollár...}
+{362}{}{Te hülye állat! Mi a francból gondoltad, hogy vissza akarom kapni ezt a hülyét? Egy örökkévalóságig tartott, amíg megjavította azt a rohadt rádiót. Egy rádiót! Veled marad. Nem akarom, hogy bármit is tönkre tegyen itt.}
+{363}{}{Hát nem is tudom... ez meglehetõsen nyeszlett... okos legalább? Ez még érhet valamit. Kapsz érte }
+{1363}{}{ dolcsit.}
+{364}{}{Ez egész jó harcosnak látszik. Hmmm... }
+{1364}{}{ dollárt adok érte.}
+{365}{}{Egy újabb benszülött? Fura egy szerzet... Mindegy, erõsnek látszik, és ez a külsõ önmagában hozhat némi plussz pénzt.  Mit szólnál }
+{1365}{}{ dollárhoz?}
+{366}{}{Mit szólnál valami máshoz?}
+{367}{}{Izé, hadd kérdezzek valami mást!}
+{368}{}{Oké.}
+{369}{}{Rendben.}
+{370}{}{Oké.}
+{371}{}{Nem éri meg.}
+{372}{}{Nem.}
+
+{380}{}{Oké fiúk, zárjátok az ólba!}
+{381}{}{Oké fiúk, zárjátok az ólba!}
+{382}{}{Rendben, fõnök.}
+
+{390}{}{Akkor meg ne herdáld a kibaszott idõmet! Akkor gyere vissza, ha lesz eladó árud!}
+{391}{}{Szeretnék mégvalamit kérdezni.}
+{392}{}{Oké, viszlát!}
+
+{400}{}{Mi a franctól izgult be ilyen nagy hirtelen? Egyszer már adtam egy esélyt annak a kurvának. Nem hiszem, hogy elég tökös lenne hozzá, hogy megpróbálja.}
+{401}{}{Mirõl beszélsz?}
+{402}{}{Tehát rendben?}
+
+{410}{}{Ó, ne add nekem az ártatlant! Pontosan tudom, mire készül. Egyszer már adtam neki egy sanszot, amivel nem tudott élni, de ha úgy gondolja, hogy megpróbálná...}
+{411}{}{Vagyis rendben van?}
+
+{420}{}{Nos, én azt mondtam, hogy él az ajánlatom. Ha úgy véli, hogy szét tudja rúgni a seggét és jobban tud vigyázni a szajrémra...}
+{421}{}{Igen?}
+{422}{}{Akkor ez most igen?}
+
+{430}{}{Figyelj rám: szarok rá, hogy melyikõjük õrzi a cuccot. Amíg semminek nem esik baja, engem nem érdekel.}
+{431}{}{Még egy kérdést, ha lehet...}
+{432}{}{Oké, kösz.}
+
+{440}{}{Mi a faszt akarsz tõlem? Úgy nézek ki, mint egy kibaszott... várj csak! Te bizonyára Vicet keresed.}
+{441}{}{Menedék-technológiákra "specializálta" magát, legalábbis ezt állítja magáról. Most már az enyém és nem megy innen sehova.}
+{442}{}{Mi van vele?}
+{443}{}{Igen, rá gondoltam.}
+{444}{}{Találkozhatnék vele?}
+{445}{}{Miért tartod itt?}
+{446}{}{Oké, rendben. Viszlát!}
+
+{455}{}{Ez a kis fasz eladott nekem egy rádiót, amirõl azt mondta, hogy képes venni bizonyos adásokat. Persze nem képes. Elkaptam a faszit, mikor megpróbált elõlem meglógni a városból. Nagy hiba volt tõle. Senki sem baszhat ki velem. Szerencséje van, hogy még él.}
+{456}{}{Ahogy mondtam. Elõbb meg kell javítania valamit. Utána beszélhetünk.}
+{457}{}{Hát, nagy nehezen sikerült megjavítania azt a rohadt rádiót, de ez nem jelenti azt, hogy hagyom ilyen egyszerûen elmenni.}
+{458}{}{Ettõl még megpróbált átverni.}
+{459}{}{Találkozhatnék vele?}
+{460}{}{Milyen adásokról beszélsz?}
+{461}{}{Oké, köszi.}
+{462}{}{Esetleg egy kis pénz segítene tisztába tenni a dolgokat?}
+{463}{}{Milyen adásokról beszéltél az elõbb?}
+
+{475}{}{Minek? Á, bazmeg, mindegy. Csak ne zavard annak a szaros rádiónak a javításában! Jobb, ha minél elõbb kész van vele. A tököm tele van, hogy egy lusta disznót kell etetnem.}
+{476}{}{Miért tartod itt?}
+{477}{}{Kösz.}
+
+{485}{}{Az Enklávé és New... hé! Mi a francért érdekel? Ez üzlet. Biztos akarok lenni abban, hogy senki nem ver át. Ennél többet nem kell tudnod.}
+{486}{}{Törõdj a saját dolgoddal!}
+{487}{}{Oké.}
+
+{495}{}{Bocsi, de ennek ára van. }
+{496}{}{}
+{1496}{}{ dollár.}
+{497}{}{Nem intézhetnénk ezt el másképp?}
+{498}{}{Oké, itt van.}
+{499}{}{Kérdezhetnék még egy pár dolgot elõbb?}
+{500}{}{Bocs, de ennyit nem engedhetek meg magamnak.}
+
+{510}{}{Oké, a tiéd, de húzza el a belét, mielõtt meggondolom magam, és golyót eresztek abba a kibaszott hülye fejébe.}
+{511}{}{Kérdezhetnék elõbb még egy pár dolgot?}
+{512}{}{Köszönöm.}
+
+{520}{}{Ó igen. Elintézhetünk mindent szépen simán... Féláron megkapod, ha megérsz nekem annyit...}
+{521}{}{Jobb, ha nem húzol tovább picim! Nem vagyok egy türelmes típus.}
+{522}{}{Csak ha jó leszel hozzám.}
+{523}{}{Persze, miért ne?}
+{524}{}{Talán késõbb.}
+
+{530}{}{Pedig jobb, ha elhiszed.}
+{531}{}{Jó.}
+
+{540}{}{Itt van }
+{1540}{}{ dollár. Kibaszottul jó munka volt.}
+{2540}{}{.}
+{541}{}{Itt van }
+{1541}{}{ dollár. Jónéhány kemény alakot is elintéztél. Csak így tovább...}
+{542}{}{Jó munkát végeztetek. Itt a pénzed, }
+{1542}{}{ dolcsi.}
+{543}{}{Itt a pénzed, }
+{1543}{}{, }
+{2543}{}{ dollár.}
+{544}{}{ dollár.}
+{1544}{}{ nem olyan dolog, amin röhögni lehet, de másra nincs nagyon lehetõség..}
+{545}{}{Nos, ez }
+{1545}{}{ dollárt ér ezúttal. Egész jó munka volt.}
+{546}{}{Nem is volt olyan nehéz, igaz? Legközelebb ne hibázz. Itt a pénzed, }
+{1546}{}{ hasas dollár.}
+{547}{}{, }
+{1547}{}{ dollár? Nem rossz.}
+{548}{}{Ugyan már! }
+{1548}{}{ dollár? Ennél többet is ér az!}
+{549}{}{Ne feledd, vigyázzatok egymásra és csak az ellenséges egyedeket öljétek meg. Itt a pénzed, }
+{1549}{}{ dollár.}
+{550}{}{Csak }
+{1550}{}{ dolcsi! Ez baszottmód sajnálatos! Na, rázd gatyába magad, vagy kirúglak!}
+{551}{}{Akarsz pénzt keresni vagy nem? Kiakasztasz! Mi olyan kibaszott nehéz ebben? Nesze, itt a zsozsód, }
+{1551}{}{ dollár és kifelé!}
+{552}{}{Mi a franc volt veled? Szart se kerestél. Azért csináljuk az egészet, hogy pénzt keressünk, nem azért, hogy szarakodjunk.}
+{553}{}{Legközelebb jobb leszek.}
+{554}{}{Nesze semmi, fogd meg jól...}
+{555}{}{Kösz}
+{556}{}{Jaj.}
+
+{570}{}{Átkozott kurva, ez az elsõ volt neked? Tuti, hogy az volt!}
+{571}{}{A francba, kislány, ez az elsõ volt neked?}
+{572}{}{Szerintem egész jó.}
+{573}{}{Nem rossz, nem rossz, lehet, hogy még csinálhatjuk máskor is.}
+{574}{}{A francba! Ez... ez a pénz aztán jó helyre ment!}
+{575}{}{A francba! Te voltál a legjobb segg, akivel valaha dolgom akadt, pedig jó sokan voltak!}
+
+{600}{}{TE OSTOBA FASZ! Hogy merted cserbenhagyni a vadásztársaidat? [Szembe köp] VÉGEZZETEK VELE!}
+{601}{}{De én...}
+{602}{}{Rendben, legyen...}
+
+{620}{}{Hát, jó látni, hogy sikerült visszatérned.}
+{621}{}{Ja, kemény menet volt.}
+{622}{}{Kösz. Akadt egy-két gond odakint.}
+{623}{}{Agra Moo ne!}
+
+{630}{}{Ó, pénzt akarsz? Azt akarod, hogy kifizesselek?}
+{631}{}{Ja.}
+{632}{}{Uff.}
+{640}{}{Hát persze, hogy SZERETNÉK segíteni neked, de... van egy kis problémám... azzal, hogy rátámadtál egy emberemre.}
+{641}{}{Bocsi! Nem akarni, öö nem direkt... Ögh...}
+{642}{}{Hûha.}
+
+{650}{}{Ó, ne aggódj, biztos találok rá módot, hogy fizessek - pontosabban megfizessek neked! Emberek, fizetésnap!}
+{651}{}{Ó, ne aggódj. Biztos vagyok benne, hogy találok rá módot, hogy fizessek - pontosabban megfizessek neked! Emberek, intézzétek el ezt a kurvát!}
+{652}{}{Hoppá!}
+{653}{}{Garaka!}
+{654}{}{Ööö.... Tank?}
+
+{670}{}{Ó, biztos vagyok benne. Ezt a munkát nem lehet félvállról venni. Bizalom és hûség kell hozzá. Vigyázunk egymásra. Ez a helyes hozzáállás, nem gondolod?}
+{671}{}{Valahogy úgy.}
+{672}{}{Izé, mi folyik itt?}
+{673}{}{Határozottan.}
+
+{680}{}{Valahogy úgy? Nem gondoltam volna, hogy ilyen ravasz vagy. Igazából te egy ostoba fasz vagy. [Metzger rádbámul, aztán az õrökre néz és feléd int.]}
+{681}{}{Akció lesz?}
+{682}{}{Tessék?}
+
+{690}{}{Ó, szóval nem is vagy olyan hülye, mint ahogy a tetteidbõl látszik. Tudod, van egy kis gondom. Valaki volt olyan bátor, hogy megtámadja az embereimet.}
+{691}{}{Igazán?}
+{692}{}{Baleset volt!}
+
+{700}{}{Valóban? Örülök, hogy egyetértesz. És akkor mit csinálnál, ha valaki elárulná ezt a bizalmat?}
+{701}{}{Izé, figyelmeztetni kéne õket?}
+{702}{}{Rögvest megmutatom! [támadás]}
+{703}{}{Megfizettetném velük!}
+
+{710}{}{Úgy gondolod? Tényleg? Nem is tudom. Én valami... tartósabbra gondoltam. [Egy gonosz mosollyal Metzger az õrök felé néz és biccent nekik.]}
+{711}{}{Micsoda?}
+{712}{}{Ó, te jó ég...}
+
+{720}{}{Örülök, hogy megegyeztünk. [Metzger az õrökre pillant.] Emberek, fizetésnap!}
+{721}{}{Izé...}
+
+{730}{}{Igen, tényleg szégyenletes. Ennek az alaknak egyszerûen nem esik le, de úgy látom a többiek már kapisgálják. [Metzger egy kis kézmozdulatot tesz az emberei felé.] Kezdõdhet a mûsor!}
+{731}{}{Ó, tényleg?}
+{732}{}{Hûha.}
+
+{740}{}{Igen, errefelé egész gyakran történnek balesetek. Attól tartok, mindjárt lesz egy újabb. [Metzger kedélyesen vigyorog, majd biccent az embereinek.]}
+{741}{}{Akkor hadd szóljon!}
+{742}{}{Ebbõl nem tudok kimászni, igaz?}
+
+{750}{}{Viszont eléggé poénos lesz! Bízz bennem!}
+{751}{}{Baszódj meg!}
+{752}{}{Ööö, rendben.}
+
+{800}{}{Megölted a Rabszolga-Céh vezetõjét.}

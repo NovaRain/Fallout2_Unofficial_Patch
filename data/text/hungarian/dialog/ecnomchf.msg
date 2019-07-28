@@ -1,0 +1,24 @@
+# Dialog Editor last position: 23
+{100}{}{Egy nomád.}
+{101}{}{Nomád törzsfõnök.}
+{102}{}{A ruhája és a viselkedése alapján valamiféle vezetõ lehet.}
+{103}{}{Ah, egy utazó. Légy üdvözölve szerény sátramban. Légy vendégem egy kis árnyékra a pusztaság szüntelen forróságában.}
+{104}{}{Köszönöm, szívesen elfogadom a felajánlott árnyékot.}
+{105}{}{Vissza kell utasítanom az ajánlatod. Csak átutazóban vagyok.}
+{106}{}{Úga.}
+{107}{}{Légy üdvözölve! Régóta távol élünk a 'civilizált' részektõl. Szükségünk lenne néhány dolgora. Esetleg tudnánk csereberélni?}
+{108}{}{Mit tudsz felajánlani?}
+{109}{}{Nincs semmim, amit elcserélhetnék. Sajnálom.}
+{110}{}{Akkor talán máskor? Kívánom, hogy elkerüljön a veszély!}
+{111}{}{Üdv!}
+{112}{}{Milyen kár. Akkor pihenj meg, és légy üdvözölve a táborunkban!}
+{113}{}{Üdv!}
+{114}{}{A nap bizonyára elpárologtatta a szavakat az agyadból, de úgy illik, hogy kedves legyek a kevésbé szerencsésekhez is. Nyugodtan maradj a táborban, ameddig csak kedved tartja, egyszerû barátom!}
+{115}{}{Üdv!}
+{116}{}{Hitetlen!}
+{117}{}{Miért támadsz ránk?}
+{118}{}{Az életem árán is megvédelmezem a törzset!}
+{119}{}{Hogy mered megsérteni a vendégszeretetünket?!}
+{120}{}{Hordd el magad!}
+{121}{}{Hagyj minket!}
+{122}{}{Mi békés törzs vagyunk.}

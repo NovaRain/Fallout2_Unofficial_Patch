@@ -1,0 +1,1 @@
+{100}{}{A térkép a fosztogatók táborát jelzi valahol keleten. Betáplálod a helyét a PipBoyba.}
