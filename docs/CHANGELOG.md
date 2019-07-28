@@ -1,7 +1,13 @@
 ## Changelog
 
+- [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 3
+
+- Created a complete package.
+- Added localizations.
 
 ### Version 2
 
