@@ -16,7 +16,7 @@
 {165}{}{No hay de qué.}
 {166}{}{Ya, ya.}
 {167}{}{Señora, [cof] ¿puede ayudar a un pobre hombre con mala suerte?}
-{168}{}{Here's $5.}
+{168}{}{Aquí tienes 5 dólares.}
 {169}{}{Hoy no.}
 {170}{}{Búscate un trabajo.}
 {171}{}{Buena señora, ¿podría ayudar, por favor, [cof] a un pobre hombre hambriento que está [cof] demasiado enfermo para trabajar?}

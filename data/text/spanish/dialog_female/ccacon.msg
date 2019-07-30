@@ -1,7 +1,7 @@
 {100}{}{Ves a alguien con uniforme militar.}
 {101}{}{Ves a alguien con uniforme militar.}
 {102}{}{Ves a alguien que viste uniforme militar, pero parece ser más un técnico que un soldado.}
-{103}{}{Hey. How's it going?}
+{103}{}{Eh. ¿Qué tal te va?}
 {104}{}{"Recibido, te tengo en la mira": lo siento, pero me pillas liado con algo ahora mismo.}
 {105}{}{No puedo hablar ahora.}
 {106}{}{Eres libre de echar un vistazo, pero no toques nada.}

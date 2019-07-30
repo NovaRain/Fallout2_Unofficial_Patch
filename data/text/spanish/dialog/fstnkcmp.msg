@@ -14,10 +14,10 @@
 {113}{}{[VOLVER]}
 {114}{}{Desconectarse.}
 {115}{}{ERROR: Depósitos de combustible vacíos.}
-{116}{}{ERROR: Navagation Computer non Functional.}
+{116}{}{ERROR: Computadora de navegación no funcional.}
 {117}{}{-Depósitos de combustible: Vacíos- -Bodega de carga: Vacía- -Computadora de navegación: Funcional- -Amarras: Acopladas-}
 {118}{}{-Depósitos de combustible: Llenos- -Bodega de carga: Vacía- -Computadora de navegación: Funcional- -Amarras: Acopladas-}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Ves una computadora de navegación PoseidoNet.}
 {129}{}{[Activas la secuencia de liberación rápidamente, y los cohetes del barco se alejan del embarcadero].}
 {130}{}{[HECHO]}
-{131}{}{Navigation computer on-line.}
+{131}{}{Computadora de navegación activa.}
