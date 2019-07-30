@@ -21,7 +21,7 @@
 {130}{}{No tienes pinta de caníbal.}
 {131}{}{No hay habitaciones para los tuyos.}
 {132}{}{Últimamente hay demasiados extranjeros.}
-{133}{}{Well at least your teeth ain't filed into points.}
+{133}{}{Bueno, al menos tus dientes no están afilados en punta.}
 {134}{}{El barrio se está echando a perder.}
 {135}{}{¿No se supone que deberías tener un hueso en la nariz?}
 {136}{}{(Te mira y sacude la cabeza)}
@@ -29,7 +29,7 @@
 {138}{}{Estoy seguro de que eres el responsable de la mutilación de ganado.}
 {139}{}{Algunos de los cazadores han desaparecido y probablemente tú seas la causa.}
 {140}{}{Hay hombres bicho asustando al pueblo.}
-{141}{}{There's a spirit in a canyon East of town.}
+{141}{}{Hay un espíritu en un cañón al este del pueblo.}
 {142}{}{¡No dejes que los espíritus te pillen!}
 {143}{}{Será mejor que no se te ocurra robar nuestro ganado.}
 {144}{}{Te estamos vigilando.}
