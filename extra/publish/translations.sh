@@ -4,7 +4,7 @@ set -xeu -o pipefail
 
 bin_dir="$(realpath $bin_dir)"
 dat2a="wine $bin_dir/dat2.exe a -1"
-tra_dir="translations"
+trans_dir="translations"
 file_list="$(realpath file.list)"
 mods_dir="$(realpath $mods_dir)"
 release_dir="$(realpath release_dir)"
@@ -18,14 +18,13 @@ cp -r "$lang_dir"/english/cuts{,_female}
 
 # move texts to translation package dir
 for d in $(ls $lang_dir | grep -v english); do
-  mkdir -p "$tra_dir/$d/text/english"
-  mv "$lang_dir/$d"/* "$tra_dir/$d/text/english/"
-  rmdir "$lang_dir/$d"
+  mkdir -p "$trans_dir/$d/text"
+  mv "$lang_dir/$d" "$trans_dir/$d/text/"
 done
 
 version="$TRAVIS_TAG"
 
-cd "$tra_dir"
+cd "$trans_dir"
 for d in $(ls); do
   dat="${mod_name}_${version}_$d.dat"
   cd "$d"
@@ -34,4 +33,4 @@ for d in $(ls); do
   cd ..
 done
 cd ..
-mv "$tra_dir"/*/*.dat .
+mv "$trans_dir"/*/*.dat .
