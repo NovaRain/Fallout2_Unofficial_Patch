@@ -27,13 +27,11 @@ version="$TRAVIS_TAG"
 
 cd "$tra_dir"
 for d in $(ls); do
-  dat="${mod_name}_$d.dat"
-  zip="${mod_name}_${version}_$d.zip"
+  dat="${mod_name}_${version}_$d.dat"
   cd "$d"
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
   $dat2a "$dat" @"$file_list"
-  zip "$zip" "$dat"
   cd ..
 done
 cd ..
-mv "$tra_dir"/*/*.zip .
+mv "$tra_dir"/*/*.dat .
