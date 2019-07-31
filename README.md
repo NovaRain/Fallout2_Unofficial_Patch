@@ -8,7 +8,7 @@
 * [Reporting issues](#reporting-issues)
 * [Translations](#translations)
 * [Discord](https://discord.gg/4Yqfggm)
-* [Changelog](docs/CHANGELOG.md)
+* [Changelog](docs/changelog.md)
 
 This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
@@ -31,5 +31,5 @@ Most translations are incomplete, they are provided as is. **You** can [help wit
 If you've found an issue:
 
 1. Keep in mind that UP's scope is only to fix bugs. Not to add "nice to to have" things.
-2. Check [known issues](docs/KNOWN.md).
-3. Follow the [instruction](docs/REPORTING.md).
+2. Check [known issues](docs/known.md).
+3. Follow the [instruction](docs/reporting.md).
