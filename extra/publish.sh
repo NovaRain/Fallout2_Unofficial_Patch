@@ -17,7 +17,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   ./"$extra_dir"/publish/translations.sh
 
   # data
-  dat="$mod_name.dat"
+  dat="$mod_name_${version}.dat"
   mkdir -p "$mods_dir"
   chmod 0444 data/proto/*/*
 
