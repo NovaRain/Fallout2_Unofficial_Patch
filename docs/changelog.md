@@ -1,9 +1,18 @@
 ## Changelog
 
+- [Version 6](#version-6)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 6 (unreleased)
+
+(Where is version 5? [RPU](https://github.com/BGforgeNet/Fallout2_Restoration_Project) spent it.)
+
+- Added version to filenames.
+- Changed localizations to use proper language name from `fallout2.cfg`.
+- Enabled `AIBestWeaponFix`, `AIDrugUsePerfFix` and `StartGDialogFix` in sfall.
 
 ### Version 4
 

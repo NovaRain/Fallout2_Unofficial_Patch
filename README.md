@@ -4,9 +4,9 @@
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 
 * [Download](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
-* [Installation](#installation)
-* [Reporting issues](#reporting-issues)
-* [Translations](#translations)
+* [Installation](#installation), [update](#update)
+* [Reporting issues](#reporting-issues) (read this)
+* [Translations](#translations) (you can help)
 * [Discord](https://discord.gg/4Yqfggm)
 * [Changelog](docs/changelog.md)
 
@@ -22,10 +22,17 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 1. UPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 
-### Translations
-If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into `mods` subdirectory inside game root.
+### Update
 
-Most translations are incomplete, they are provided as is. **You** can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Some details are [here](docs/translations.md).
+* You can install UPU on top of UP 1.02.31 to make use of the fixes.
+* You can update from an older UPU version by deleting it from `mods` subdirectory and extracting the new version into it.
+
+In both cases, you won't see some of the fixes on the already visited maps. Other than that, savegames should be compatible, but no guarantees.
+
+### Translations
+If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into `mods` subdirectory.
+
+Most translations are incomplete, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Some details are [here](docs/translations.md).
 
 ### Reporting issues
 If you've found an issue:
