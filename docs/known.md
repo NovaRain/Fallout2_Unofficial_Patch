@@ -5,6 +5,9 @@ This page lists various items that are deliberate developers' decisions and/or t
 However, if you present a strong case why a decision is wrong, it might be reversed.
 The chance is slim, but it improves if you're willing to implement it **yourself** and submit a pull request.
 
+- Den:
+  - You can fight and kill Anna's ghost. Steal, too. There doesn't seem to be any meaningful solution for this.
+
 - Navarro:
   - If you get inside the armory through any of the manholes and take a hold on the Enclave armor, put it on and then reappear inside the base everything's OK, till you try to get past the gates from inside, in which case the guards turn hostile.
     - You still don't know the password. And there's probably no good way to fix this, anyway.
