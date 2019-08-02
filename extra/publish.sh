@@ -30,6 +30,9 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   # sfall
   ./"$extra_dir"/publish/sfall.sh
 
+  # initool for config fix on windows
+  ./"$extra_dir"/publish/config.sh
+
   # final package
   pushd .
   cd "$release_dir"
