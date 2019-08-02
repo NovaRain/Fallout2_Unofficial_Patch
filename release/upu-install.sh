@@ -15,7 +15,7 @@ done
 # sound path fix
 rm -f camlrt.dll initool.exe
 cp fallout2.cfg $bdir/
-sed -i 's|music_path1=.*|music_path1=data\sound\music\|' fallout2.cfg
-sed -i 's|music_path2=.*|music_path2=sound\music\|' fallout2.cfg
+sed -i 's|music_path1=.*|music_path1=data\\sound\\music\\\r|' fallout2.cfg
+sed -i 's|music_path2=.*|music_path2=sound\\music\\\r|' fallout2.cfg
 
 echo "UPU installed. Backup is in $bdir."
