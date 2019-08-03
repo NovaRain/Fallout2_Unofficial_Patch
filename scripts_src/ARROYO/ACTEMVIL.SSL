@@ -529,7 +529,7 @@ procedure Node016 begin
         or is_skill_tagged(SKILL_MELEE)
         or is_skill_tagged(SKILL_THROWING)
         or dude_agility > 6
-        or local_var(LVAR_Trained) = 1
+        or local_var(LVAR_Trained) = 1 )
     then begin
        Reply(300);
        NOption(301,Node999,004);
