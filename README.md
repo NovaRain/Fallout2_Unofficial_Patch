@@ -19,7 +19,7 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 1. Launch `upu-install.bat` (or `upu-install.sh`, if you're on Linux/MacOS).
 
 **Notes:**
-1. UPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
+1. UPU does not _require_ starting a new game. See [update](#update) about that.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 
 ### Update
