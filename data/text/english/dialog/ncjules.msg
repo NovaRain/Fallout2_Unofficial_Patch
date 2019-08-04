@@ -322,7 +322,7 @@
 # 43.  WHAT DO THEY DO? (42)
 {825}{}{Test new kinds o' Jet, from what I hear. Now, I'm telling you this in CONFIDENCE, friend: don't go poking around
  there... the Mordinos don't like visitors. 'Sides... Jules can get you all the Jet you need.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's habit-forming enough as it is.}
+{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
 {827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Do you know how I can get into the Stables?}
 
@@ -414,7 +414,7 @@
 
 # 59.  WHERE CAN I FIND HIM? (58)
 {1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
- was his FINEST. Ain't seen anything so habit-forming in a long time. Turned Reno around, it did.}
+ was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
 {1056}{}{Think I could meet this Myron?}
 
 # 60.  THINK I COULD MEET THIS MYRON? = FEMALE (59)

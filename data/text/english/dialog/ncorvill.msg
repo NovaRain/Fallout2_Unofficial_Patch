@@ -112,7 +112,7 @@
 # 14. FORCED HIM TO TAKE IT? (13)
 {360}{}{(Face turns red.) My boys are clean, and they know to stay away from that shit, or I'll kill them. Then SUDDENLY, Richie ODs.
  Someone pumped a ton of Jet in him, so much that fumes was runnin' outta his nose.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly habit-forming.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. I'll take the job.}
 
 # 15. I'LL DO IT (13, 14)

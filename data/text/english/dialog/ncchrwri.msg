@@ -143,7 +143,7 @@
 {420}{}{Cause he was a clean kid... Mom taught him THAT much. And if you feel like saying any different, maybe you and I should settle
  it right here, huh?!}
 {421}{}{I didn't mean it like that. Sorry I brought it up.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Look, *kid,* if you know what's good for you, you'll stop throwing down every time a little truth comes along and bites you in the ass.}
 {425}{}{I'm not looking for any trouble. I'll be going. }
 
