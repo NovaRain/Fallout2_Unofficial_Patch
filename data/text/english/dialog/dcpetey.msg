@@ -28,10 +28,10 @@
 #  glanced and examined.                                    #
 #############################################################
 
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {101}{}{You see Petey.}
 
-{150}{}{This here is a poor chem reliant.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Petey here looks like he could use some help.}
 {152}{}{[talk]}
 {155}{}{[cough, cough] Any spare change for Petey?}

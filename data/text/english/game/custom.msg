@@ -6,7 +6,7 @@
 {2}{}{Weapon Pref.}
 {3}{}{Distance}
 {4}{}{Attack Who}
-{5}{}{Chem Use}
+{5}{}{Drug Use}
 
 {10}{}{Done}
 {11}{}{Cancel}
@@ -60,10 +60,10 @@
 {504}{}{Whomever is closest}
 
 #
-# Chem use options.
+# Drug use options.
 #
 {600}{}{I'm clean}
 {601}{}{Stimpacks when hurt a bit}
 {602}{}{Stimpacks when hurt a lot}
-{603}{}{Any chem some of the time}
-{604}{}{Any chem any time}
+{603}{}{Any drug some of the time}
+{604}{}{Any drug any time}

@@ -59,7 +59,7 @@
 {290}{}{You ain't heard of Family *Wright?* You musta been out in the desert too long. Family Wright is the biggest crime family
  in Reno. We're gonna rule this city.}
 {291}{}{Really? Sounds like the Wright family holds all the cards. Are they hiring?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or chem trade, and their numbers are much less than other families.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
 {293}{}{Speaking of family, I ran into your mom.}
 {295}{}{Really? How interesting... well, look, I have to be going.}
 {296}{}{Family Wright is the biggest crime family in Reno. We're gonna rule this city.}
@@ -133,7 +133,7 @@
 
 # 20. WHAT ABOUT RICHARD? (6, 8, 9, 10, 12)
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with chems until he was dead.}
+ someone pumped him with drugs until he was dead.}
 {411}{}{'Someone' gave him too much? How do you know he didn't overdose because HE took too much?}
 {412}{}{Who do you figure might have done it?}
 {413}{}{Sorry to hear that. I had some other questions...}
@@ -180,7 +180,7 @@
 {488}{}{I understand. Catch you later, Chris. }
 
 # 28. ANYBODY ELSE? (26)
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed chems on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules and Little Jesus... I'll check them out. Thanks for the info, Chris. }
 
 
