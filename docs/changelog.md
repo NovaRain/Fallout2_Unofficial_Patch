@@ -13,6 +13,7 @@
   - Enabled `AIBestWeaponFix`, `AIDrugUsePerfFix` and `StartGDialogFix` in sfall.
   - Uncensor: "chem" > "drug", "habit-forming" > "addictive".
   - Deleted files that were identical to their `master.dat` versions.
+  - Fixed music path correction in the installer.
 - Arroyo:
   - Fixed Cameron not giving a second chance at training as promised.
 - Den:
