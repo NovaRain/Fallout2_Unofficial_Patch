@@ -1,22 +1,26 @@
 ## Changelog
 
-- [Version 6](#version-6)
+- [Version 7](#version-7)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
-### Version 6 (unreleased)
+### Version 7
 
-(Where is version 5? [RPU](https://github.com/BGforgeNet/Fallout2_Restoration_Project) spent it.)
-
-- Added version to filenames.
-- Changed localizations to use proper language name from `fallout2.cfg`.
-- Enabled `AIBestWeaponFix`, `AIDrugUsePerfFix` and `StartGDialogFix` in sfall.
+- General:
+  - Changed localizations to use proper language name from `fallout2.cfg`.
+  - Enabled `AIBestWeaponFix`, `AIDrugUsePerfFix` and `StartGDialogFix` in sfall.
+  - Uncensor: "chem" > "drug", "habit-forming" > "addictive".
+  - Deleted files that were identical to their `master.dat` versions.
+- Arroyo:
+  - Fixed Cameron not giving a second chance at training as promised.
+- Den:
+  - Made Anna' ghost invulnerable, also disabled stealing.
 
 ### Version 4
 
-Added missing scripts.lst.
+Added missing `scripts.lst`.
 
 ### Version 3
 
