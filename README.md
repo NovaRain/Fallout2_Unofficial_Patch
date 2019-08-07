@@ -30,9 +30,11 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 In both cases, you won't see some of the fixes on the already visited maps. Other than that, savegames should be compatible, but no guarantees.
 
 ### Translations
-If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into `mods` subdirectory.
+If you want to play a localized version:
+1. Grab the corresponding language file from the latest release. Extract it into `mods` subdirectory.
+1. Change `language=english` in `fallout2.cfg` to your selected language.
 
-Most translations are incomplete, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Some details are [here](docs/translations.md).
+Most translations are incomplete, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Details are [here](docs/translations.md).
 
 ### Reporting issues
 If you've found an issue:
