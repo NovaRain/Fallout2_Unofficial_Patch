@@ -299,7 +299,8 @@
 {771}{}{Scivola silenziosamente fuori dal letto e vestiti.}
 {780}{}{L'unico "amore" che c'e' tra noi consiste in lui che, entrato con la forza nella mia stanza da letto, mi monta come un brahmin ubriaco. E questa e' forse la sua qualita' meno spregevole, considerate le altre.}
 {781}{}{Le altre?}
-{790}{}{Probabilmente vuole anche che ci sia qualcuno a controllare il mercato della droga nella Repubblica della Nuova California... lui stesso. Sta cercando di truccare le elezioni, giu' a suuuud... *yawn* }
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{Quindi, in realta', sta cercando di far diventare Reno un MEMBRO della Repubblica... hmmmm. Okay, allora, parliamo di qualcos'altro...}
 {792}{}{Interessante. Vorrei sapere delle altre cose a proposito dei piani di John...}
 {800}{}{Le droghe sono illegali a Vault City, naturalmente. Gli altri Cittadini mi scoprirono e mi tolsero la Cittadinanza. John era l'unico al quale potessi rivolgermi... lo sapeva, naturalmente. Aveva progettato tutto.}

@@ -42,7 +42,7 @@
 {141}{}{Оно и видно. Хоть что-нибудь уже работает?}
 {142}{}{Я хочу пройти тест.}
 {143}{}{Это все, что мне было интересно.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that chem! And others! Lots of others!}
+{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {145}{}{Ну ладно, ладно. Скажем, я хочу помериться способностями с вашим скорпионом.}
 {146}{}{Хорошо, я вам верю. Я ухожу.}
 {147}{}{Как? Зачем, зачем вам потребовалось убивать моего скорпиона? Я был так близко... так близко...}

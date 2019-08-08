@@ -1,6 +1,6 @@
 {150}{}{A férfi gyûrött ruhát visel. Idõnként megvakarja az orrát és ide-oda leseget.}
-{151}{}{A fickó drogdíler.}
-{152}{}{Õ egy drogdíler. Úgy tûnik, épp kuncsaftokra hajt.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{Hé, te hõs! Nem akarsz Jettel ünnepelni? Gyere, beszéljük meg!}
 {201}{}{Frankón seggbe rúgtad az Enklávét! Valóságos hõs vagy! Nem akarsz lazítani, és egy kis Jettel megünnepelni a nagy eseményt?}
 {202}{}{::Éljenez::}

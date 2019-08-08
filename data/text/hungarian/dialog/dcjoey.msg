@@ -107,10 +107,11 @@
 {254}{}{Felejtsük el! Kérdezhetek valamit?}
 {255}{}{Oké, megveszem.}
 {256}{}{Ne is törõdj vele! Viszlát!}
-{257}{}{Menedék... Menedék... 13-as Menedék? Nem, sosem hallottam róla. Nehogy azt mondd, hogy egy új droggal jelentek meg! Semmi sem jobb a Jetnél!}
+{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
+ with another new drug! Nothing can beat Jet!}
 {258}{}{Nem, te hülye.}
 {259}{}{Nem, ez egy lakóhely. Kérdezhetek valami mást?}
-{260}{}{Bizony, az egy csodálatos drog!}
+{260}{}{Yes, a wonderful drug.}
 {261}{}{Nem, viszlát!}
 {262}{}{Joey nem egy kimondottan társalgós típus.}
 {300}{}{Valószínûleg nem. Viszlát!}

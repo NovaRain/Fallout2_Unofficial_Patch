@@ -159,7 +159,7 @@
 {1140}{}{Povìst, která tì provází, pùsobí na ostatní vždycky pozitivnì. Máš-li vysoce zápornou reputaci, pak to bez tohoto perku vyvolává u "klaïasù" nepøátelské reakce. To samé samozøejmì platí o vlivu kladné reputace na "záporáky".}
 {1141}{}{Máš talent nacházet mnohem víc nábojù než ostatní. Tento perk zdvojnásobuje množství munice, kterou najdeš v náhodných lokacích.}
 {1142}{}{Posláním Prùzkumníka je pátrat po nových a zajímavých místech. S tímto perkem máš daleko vìtší šanci najít speciální postavy a lokace.}
-{1143}{}{S tímto perkem máš menší pravdìpodobnost, že se staneš závislým na chemikáliích. Pøesnìji øeèeno o 50%. Rovnìž abstinenèní pøíznaky trvají jen polovinu doby než u ostatních.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Máš-li pøi svém dobrodružství Prùvodce, najdeš vždy tu nejkratší cestu. S tímto perkem se tvùj cestovní èas po mapì svìta Falloutu snižuje o 25% za každou jeho úroveò.}
 {1145}{}{Zvíøata neútoèí na jednoho ze svých pøátel. Leda v pøípadì jsou-li napadena nebo ohrožena jako první. Co ale je a co není zvíøe v tomhle apokalyptickém svìtì, to je otázka na delší diskusi.}
 {1146}{}{Získal jsi schopnost dohlédnout i na vzdálenìjší lokace. Pøi svých cestách po mapì Falloutu odkrýváš v každém smìru o jeden ètverec navíc. Máš rovnìž vìtší šanci najít speciální lokace.}

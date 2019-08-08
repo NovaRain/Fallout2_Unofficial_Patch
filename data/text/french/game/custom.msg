@@ -3,7 +3,7 @@
 {2}{}{Armes préf.}
 {3}{}{Distance}
 {4}{}{Cible}
-{5}{}{Stimulants}
+{5}{}{Drug Use}
 {10}{}{Terminé}
 {11}{}{Annuler}
 {99}{}{Non applicable.}
@@ -37,5 +37,5 @@
 {600}{}{Je ne prends rien.}
 {601}{}{Utiliser un Stimpak dès que ça fait mal.}
 {602}{}{Utiliser un Stimpak quand ça fait très mal.}
-{603}{}{Any chem some of the time}
-{604}{}{Any chem any time}
+{603}{}{Any drug some of the time}
+{604}{}{Any drug any time}

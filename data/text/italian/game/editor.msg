@@ -70,18 +70,18 @@
 {207}{}{Ottimo}
 {208}{}{Ecclnt}
 {209}{}{Eroico}
-{300}{}{Punti Vita}
+{300}{editor}{Hit Points}
 {301}{}{Punti Azione}
-{302}{}{Classe Armatura}
+{302}{editor}{Armor Class}
 {303}{}{Danno Corpo-a-Corpo}
 {304}{}{Danno in Mischia}
 {305}{}{Res. al Danno }
 {306}{}{Res. al Veleno}
 {307}{}{Res. a Radiaz.}
-{308}{}{Sequenza}
-{309}{}{Tasso di Guarigione}
-{310}{}{% di Colpi Critici}
-{311}{}{Massimo Peso Trasportabile}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Avvelenato}
 {313}{}{Irradiato}
 {314}{}{Danno agli Occhi}
@@ -196,12 +196,12 @@
 {1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}
 {1103}{}{Hai ucciso dei bambini, la gioventu' di queste lande desolate. Questa e' considerata una cosa molto malvagia. Brutto cattivaccio!}
 {1104}{}{Ti sei riempito di Nuka-Cola, la bibita del mondo post-nucleare.}
-{1105}{}{Sei dipendente dalla droga Buffout. Devi assumere questa droga regolarmente oppure soffrirai gli effetti dell'astinenza.}
-{1106}{}{Stai male a causa della dipendenza da Mentat. Devi assumere questa particolare droga oppure soffrirne le crisi d'astinenza.}
-{1107}{}{Sei tossicodipendente. Se non assumi Psycho con regolarita', soffrirai. Se l'assumi, soffriranno gli altri.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati dalle tue abitudini nel bere.}
-{1110}{}{Sei tossicodipendente. Devi assumere Jet con regolarita'.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragicamente, sei dipendente da "L'Accozzaglia". Sei continuamente alla ricerca di nuove espansioni.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Conosci il sesso. Conosci le tecniche. Sai come far godere una persona di sesso opposto e lasciarla con una voglia matta di rifarlo.}

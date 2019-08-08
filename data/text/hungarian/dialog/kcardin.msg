@@ -114,7 +114,7 @@
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Öö, én, öö, mi, azaz... Öö, nem. Még mindig keresem. Pár nap múlva biztos felbukkan. Öö, viszlát!}
-{410}{}{Megették a gekkók? Nem hiszek neked. A gekkók soha nem tudnák elkapni az én Smileymat, ahhoz õ túl jó. Biztosan tévedsz.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Igaz, biztosan igaza van. Bocsánat az ijesztgetésért. Hadd kérdezzek valamit!}
 {412}{}{Nem, én láttam, vagy legalábbis, ami megmaradt belõle. Nem volt valami szép látvány. Hát, késõbb találkozunk. Viszlát!}
 {413}{}{Hát, megfogott. He-he, csak vicceltem. Igen, csak vicc volt. Na, akkor... viszlát!}

@@ -559,7 +559,7 @@
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
 {661}{}{Porta}
-{662}{}{Death Claw}
+{662}{}{Deathclaw}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}

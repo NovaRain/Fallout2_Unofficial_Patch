@@ -1,6 +1,6 @@
 {150}{}{Вы видите человека в помятой одежде. Он трет свой нос и воровато оглядывается вокруг.}
-{151}{}{You see a chem dealer.}
-{152}{}{You see a chem dealer. It looks like he's trolling for a customer.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{Эй, герой! Не хочешь отпраздновать победу небольшой дозой винта? Поговори со мной!}
 {201}{}{Так и надо этому Анклаву! Хочешь винтануть и отпраздновать победу?}
 {202}{}{::тост::}

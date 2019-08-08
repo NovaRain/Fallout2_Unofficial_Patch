@@ -1,6 +1,6 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {101}{}{Du siehst Petey.}
-{150}{}{This here is a poor chem reliant.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Petey sieht aus, als könnte er Hilfe gebrauchen.}
 {152}{}{[plaudern]}
 {155}{}{[hust, hust] Hast Du etwas Kleingeld für Petey übrig?}

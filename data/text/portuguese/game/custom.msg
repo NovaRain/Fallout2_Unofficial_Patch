@@ -3,7 +3,7 @@
 {2}{}{Pref. de armas}
 {3}{}{Distância}
 {4}{}{Quem Atacar?}
-{5}{}{Usar drogas}
+{5}{}{Drug Use}
 {10}{}{Feito}
 {11}{}{CANCEL}
 {99}{}{Não se aplica.}
@@ -37,5 +37,5 @@
 {600}{}{Nada.}
 {601}{}{Stimpacks se estiver ferido}
 {602}{}{Stimpacks se estiver gravemente ferido}
-{603}{}{Any chem some of the time}
-{604}{}{Any chem any time}
+{603}{}{Any drug some of the time}
+{604}{}{Any drug any time}

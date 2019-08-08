@@ -42,7 +42,7 @@
 {151}{}{tartalma aranyérc.}
 {152}{}{tartalma uráncérc.}
 {153}{}{nem más, mint egy halom mezõgazdasági termék.}
-{154}{}{nagyrésze drog.}
+{154}{}{drugs.}
 {155}{}{néhány rabszolga.}
 {156}{}{csupa hasznos kis holmi.}
 {198}{}{New Reno}

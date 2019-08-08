@@ -159,7 +159,7 @@
 {1140}{}{Dein Ruf ist immer positiv. Ohne diesen Bonus hätte ein negativer Ruf eine schlechte Wirkung auf gutmütige Menschen. Das funktioniert auch umgekehrt. Selbst bösartige Leute behandeln ein wahres Engelchen jetzt wie ein Gangmitglied.}
 {1141}{}{Du findest mehr Munition als andere Überlebende des postatomaren Horrorszenarios. Mit diesem Bonus verdoppelt sich die Munitionsmenge, die du zufällig findest.}
 {1142}{}{Ein Forscher entdeckt neue und interessante Orte. Mit diesem Bonus hast du eine bessere Chance, besonders interessante Orte und Menschen zu finden.}
-{1143}{}{Mit diesem Bonus verringert sich die Wahrscheinlichkeit von Präparaten abhängig zu werden um 50%, und du mußt nur die Hälfte der normalen Entzugszeit durchmachen.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Der Pfadfinder hat es einfacher, den kürzesten Weg zu finden. Mit diesem Bonus verringert sich deine Reisezeit auf der Weltkarte um 25 % pro Stufe.}
 {1145}{}{Tiere greifen keine Freunde an, außer das Tier wird zuerst angegriffen oder bedroht. Was genau in dieser Welt als Tier gilt, ist Definitionssache.}
 {1146}{}{Du hast deine Fähigkeit verbessert, weit entfernte Örtlichkeiten zu sehen, womit die Größe der Entdeckungen auf der Weltkarte um ein Quadrat in jeder Richtung ausgeweitet wird. Es erhöht sich auch deine Chance, besondere Begegnungen zu machen.}

@@ -11,11 +11,13 @@
 {110}{}{Adatok keresése: Édenkert Létrehozást Elõsegítõ Táska.}
 {111}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
 {112}{}{Kilépés.}
-{113}{}{Nem találtad meg a 13-as Menedék koordinátáit. Leginkább orvosi információkra bukkantál, anatómiával, fertõzésekkel, kezelésekkel, gyógyszerekkel és implantációkkal kapcsolatban.}
+{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{Átkutatod az adattárat, hátha megemlíti az Édenkert Létrehozást Elõsegítõ Táskát.}
 {115}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
 {116}{}{Kilépés.}
-{117}{}{Nem tudtál meg semmi újat az ÉLET-rõl. Leginkább orvosi információkra bukkantál, anatómiával, fertõzésekkel, kezelésekkel, gyógyszerekkel és implantációkkal kapcsolatban.}
+{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{Megkeresed a 13-as Menedék koordinátáit.}
 {119}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
 {120}{}{Kilépés.}

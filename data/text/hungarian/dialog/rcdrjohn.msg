@@ -107,7 +107,9 @@
 {206}{}{McClure mondta nekem Menedékvárosban.}
 {207}{}{Csak pletyka volt, ez minden.}
 {208}{}{Ez most lényegtelen. Hadd kérdezzek valami mást!}
-{209}{}{New Reno nagyon olcsón árusítja a Jetet. A Jet rémisztõen gyorsan függõvé tesz, jobban, mint korábban bármi. Rájöttek, hogy ha egy területen elég embert meg tudnak fertõzni vele, azok az emberek bármit megtesznek majd, hogy még többet kapjanak belõle. Ez de facto ellenõrzést biztosít számukra a kérdéses terület - jelen esetben Redding - felett.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Értem. Lenne még egy-két kérdésem, doki.}
 {211}{}{Szóval, ha azt akarod, hogy ne New Reno irányítsa Reddinget, akkor szerinted kinek kéne ezt a szerepet betöltenie?}
 {212}{}{Köszönöm, hogy ezt elmagyaráztad nekem, doki. Viszlát!}
@@ -133,7 +135,9 @@
 {231}{}{Badarság! Menedékváros különleges elõjogokat nyújt a polgárai számára, de csak azért, mert elég jól képzettek ahhoz, hogy élni is tudjanak ezekkel a jogokkal. Nem úgy, mint a barbár városonkívüliek. Mindemellett bárki, aki átmegy a vizsgákon, megkaphatja a menedékvárosi állampolgárságot.}
 {232}{}{Nem vagyok benne biztos, hogy a reddingi lakosok jól fogadnák Menedékváros fennhatóságát.}
 {233}{}{Ja, minden kétséget kizárva. Viszlát, doki!}
-{234}{}{Megtöltöm az ampullákat Jettel, és ezzel ugyanúgy szolgálom Redding lakóit, mint a többi szolgáltatásommal. Semmilyen hasznom nem származik belõle. Ha nem én csinálnám, akkor valami sarlatán mérné ki az adagokat a rozsdás és fertõzésveszélyes eszközeivel. Azután már sosem lenne egyetlen egészséges lakos sem ebben a városban.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Milyen rendes fickó vagy te, dokikám! Milyen önfeláldozó! Mi lenne, ha kérdeznék valami mást?}
 {236}{}{Milyen *nemes* cseledeket, kedves doktor úr!}
 {237}{}{Ez érdekes. Majd késõbb még betérek, doki. Viszlát!}

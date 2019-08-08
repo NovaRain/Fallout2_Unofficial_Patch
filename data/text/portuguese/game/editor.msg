@@ -70,18 +70,18 @@
 {207}{}{Ótimo}
 {208}{}{Excele.}
 {209}{}{Herói}
-{300}{}{P. de vida}
+{300}{editor}{Hit Points}
 {301}{}{P. de ação}
-{302}{}{Armadura}
+{302}{editor}{Armor Class}
 {303}{}{Dano desarmado}
 {304}{}{Bônus de Dano}
 {305}{}{Res. Danos}
 {306}{}{Res. Venenos}
 {307}{}{Res. Radiação}
-{308}{}{Sequência}
-{309}{}{Recuperação}
-{310}{}{Chan. Críticas}
-{311}{}{Peso Máximo}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Envenenado}
 {313}{}{Contaminado}
 {314}{}{Olhos Feridos}
@@ -196,12 +196,12 @@
 {1102}{}{Suas ações têm revelado que você seja um defensor do povo. Sua guerra contra o mal e perversidade é muito conhecida. Pessoas honradas irão respeitá-lo melhor.}
 {1103}{}{Você matou as crianças, os jovens do deserto. Isto é considerado como uma coisa muito ruim. Você é mal, pessoa má.}
 {1104}{}{Você desfruta completamente do sabor de Nuka-Cola, o refrigerante do mundo pós-nuclear.}
-{1105}{}{You are reliant to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem reliant. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Você tem um problema com Álcool. Na verdade, você tem muitos problemas com seus hábitos de consumo.}
-{1110}{}{You have a chem reliant. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Você sabe fazer sexo. Você sabe preliminares. Você sabe como agradar um membro do sexo oposto e deixá-los com fome para mais.}

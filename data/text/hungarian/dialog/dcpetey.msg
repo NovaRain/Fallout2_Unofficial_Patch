@@ -1,6 +1,6 @@
-{100}{}{Egy drogos.}
+{100}{}{You see a drug addict.}
 {101}{}{Petey.}
-{150}{}{Ez bizony egy szerencsétlen drogfüggõ.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Peteyre aztán ráférne egy kis segítség.}
 {152}{}{[beszéd]}
 {155}{}{[köhécsel] Nincs egy kis apród?}

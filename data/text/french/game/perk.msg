@@ -159,7 +159,7 @@
 {1140}{}{Ta réputation est toujours positive. Sans cette aptitude, une mauvaise réputation aurait des effets négatifs sur les personnes bienveillantes. Même chose pour une bonne réputation face à des personnes malveillantes.}
 {1141}{}{Tu peux trouver plus de munitions que n'importe quel survivant de la Grande Guerre. Cette aptitude double la quantité de munitions que tu trouveras au cours des rencontres aléatoires.}
 {1142}{}{L'objectif de l'explorateur est de trouver de nouveaux sites intéressants. Avec cette aptitude, tu as plus de chances de découvrir des lieux ou des gens sortant de l'ordinaire.}
-{1143}{}{Avec cette aptitude, tu as deux fois moins de chances de devenir accro aux stimulants et leurs effets secondaires durent deux fois moins longtemps que sur une personne normale.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Un Pionnier est plus apte que quiconque à trouver le chemin le plus court. A chaque niveau de cette aptitude, le temps qu'il te faut pour voyager sur la Carte du Monde est réduit de 25%.}
 {1145}{}{Les animaux n'attaquent jamais leurs amis à moins d'être menacés ou attaqués. Quant à la définition du mot animal dans ce monde, le débat est ouvert.}
 {1146}{}{Tu as amélioré ta capacité repérer des endroits éloignés, ce qui augmente la taille de tes explorations sur la carte du monde d'un carré dans chaque direction. Tu as aussi plus de chances de faire des rencontres spéciales.}

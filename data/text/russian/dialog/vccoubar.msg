@@ -74,7 +74,7 @@
 {173}{}{Как вы делаете этот синтетический алкоголь?}
 {174}{}{Вообще-то мне нужна информация.}
 {175}{}{Сегодня больше ничего, спасибо.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise habit-forming substances. As I understand it, these synthetics were used as placebos for chem reliants before the war.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{Похоже, вы все знаете об этом синтетическом алкоголе.}
 {178}{}{А настоящая выпивка у вас есть?}
 {179}{}{О. Ну что ж, тогда я просто выпью воды.}

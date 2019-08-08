@@ -56,7 +56,7 @@
 {151}{}{Golderz.}
 {152}{}{Uranerz.}
 {153}{}{landwirtschaftliche Produkte.}
-{154}{}{chems.}
+{154}{}{drugs.}
 {155}{}{Sklaven.}
 {156}{}{Kram.}
 {198}{}{New Reno}

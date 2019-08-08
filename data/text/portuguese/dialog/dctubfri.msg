@@ -1,4 +1,4 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {110}{}{Você vê uma prostituta de jet.}
 {111}{}{Você vê uma das putas de Jet de Tubby.}
 {150}{}{Ele parece ser um amigo de Tubby.}

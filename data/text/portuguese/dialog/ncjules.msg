@@ -126,7 +126,7 @@
  to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
 {493}{}{Sure thing, sure thing... I gots the treasure, so what's YOUR pleasure?}
 {494}{}{Can you tell me a little about New Reno?}
-{495}{}{Where can I get some chems?}
+{495}{}{Where can I get some drugs?}
 {496}{}{I'm looking to buy some heavy firepower.}
 {497}{}{I'm looking for supplies.}
 {498}{}{I want to get laid.}
@@ -179,7 +179,7 @@
 {616}{}{How big is their "empire?"}
 {625}{}{They own the Desperado just down the street. Can't miss it. They also got the biggest supply of Jet in ALL o' New Reno.
  So if you got the urge to fly...}
-{626}{}{Speaking of which, do you know where can I get some chems around here?}
+{626}{}{Speaking of which, do you know where can I get some drugs around here?}
 {627}{}{How come the Mordinos have the biggest supply of Jet?}
 {628}{}{Tell me about the other families.}
 {635}{}{They're on top of the pile, friend. Ain't no more reason than that. They got the factory, the maker, and the
@@ -237,14 +237,14 @@
 {811}{}{What do they do there?}
 {825}{}{Test new kinds o' Jet, from what I hear. Now, I'm telling you this in CONFIDENCE, friend: don't go poking around
  there... the Mordinos don't like visitors. 'Sides... Jules can get you all the Jet you need.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's habit-forming enough as it is.}
-{827}{}{Who do the Mordinos test the chems on?}
+{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
+{827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Do you know how I can get into the Stables?}
 {840}{}{Slaves, pretty much. Keep 'em in stalls in the stables, like brahmin. }
 {841}{}{Mordinos buy a bunch from slavers that pass through. }
 {842}{}{Mordinos buy a bunch from slavers like you that pass through New Reno. }
 {843}{}{They buy a helluva lot, too, cause the slaves keep getting sick, running away... or die. Mostly die.}
-{860}{}{Just to make it better, I guess, refine the process, refine the chem. Jet's good, but if they can make it even
+{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
  BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
 {880}{}{Now hold on a minute -- I wouldn't even THINK about that if I were you, friend. The Mordinos guard that place like
  rabid dogs. Just put the thought outta your mind.}
@@ -278,26 +278,26 @@
 {987}{}{My sweet sister, you need look no farther than humble Jules himself. }
 {988}{}{I got it ALL, and if I ain't got it, you don't want it. Shall we get down to bizness?}
 {989}{}{Sure. Let's deal.}
-{990}{}{What kind of chems can I get in New Reno?}
+{990}{}{What kind of drugs can I get in New Reno?}
 {991}{}{Não agora. Eu tenho outras perguntas...}
-{992}{}{Actually, I'm not interested in any chems right now. I have to be going.}
+{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
 {1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE chem, the shit that'll let you FLY... Jet.}
+ make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
 {1006}{}{All KINDS o' shit. I got shit make you horny, make you wet, dry you out, calm you down, sex you up, make you happy,
  make you strong, make you smart... and, o course, I got THE shit that'll let you FLY... Jet.}
 {1008}{}{Where does Jet come from? Has it always been around?}
 {1025}{}{Well... uh... Jet comes from here... Reno, I mean. It ain't been around long, but it's in DEMAND, know what I'm saying? (Winks.)
  Number one reason we get tourists like yourself.}
-{1026}{}{Well, I'm looking to buy some chems. Let's deal.}
+{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
 {1027}{}{But why did Jet come from here?}
 {1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making chems. He MADE Jet.}
+ natural when it comes to making drugs. He MADE Jet.}
 {1036}{}{Myron, huh? Where can I find him?}
 {1045}{}{(Leans in.) Now, I don't want to go on 'bout the less PLEASANT New Reno sites, but there's this building, the Stables,
  north o' town. Heavily guarded by the Mordino family. That's where Myron is.}
 {1046}{}{Stables outside of town?}
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes chems. Jet
- was his FINEST. Ain't seen anything so habit-forming in a long time. Turned Reno around, it did.}
+{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
+ was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
 {1056}{}{Think I could meet this Myron?}
 {1065}{}{(Jules stops and studies you, his eyes running up and down your body.)}
 {1066}{}{Jules? Hello? I asked if there was any way I could meet Myron.}
@@ -335,10 +335,10 @@
 {1148}{}{Sweetness, you ALREADY packing some serious shit with that body of yours. Still, if you want more, go see my man
  Eldridge on the West End. He got shit that'll kill people you ain't even MET yet. Tell him I sent you.}
 {1150}{}{Thanks for the tip, I think I better be going.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no chems
- from him, cause they ain't SAFE. He's got supplies all right, but if you want chems, talk to me.}
+{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
+ from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
 {1166}{}{I'll keep that in mind. Say, I had some more questions...}
-{1167}{}{His chems aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
 {1175}{}{I hear you, brother. Most TOURISTS, see, they stride down Virgin street and get suckered by some two-chip whore.
  You look like you got class, so head over to the Cat's Paw 'cross the street there. Tell 'em Jules sent you.}
 {1176}{}{I hear you, sister. Most TOURISTS, see, they stride down Virgin street and get suckered by some glitterboy.
@@ -350,14 +350,14 @@
 {1190}{}{You mean Vault CITY, don't you? That's to the northeast. Can't miss it, all the caravan trails lead right to it.}
 {1191}{}{All right. Say, I had some more questions...}
 {1192}{}{Well, thanks for the tip. I better be going.}
-{1200}{}{Garden of wha-? That some kind of chem? What does this "Garden thing" do? Get you high?}
+{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
 {1201}{}{No, it's... well, nevermind. I had some other questions...}
 {1202}{}{Nevermind. I really better be going.}
 {1210}{}{Don't know nothing about that. Sorry about your loss. Maybe it was slavers?}
 {1211}{}{Could be. I had some other questions...}
 {1220}{}{A what?}
 {1221}{}{Forget it. I had some other questions...}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing chems. They got so much
+{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
  to live for without being given impure shit.}
 {1231}{}{Speaking of impure shit, Renesco said you sell Jet laced with arsenic.}
 {1232}{}{What do you mean, "impure shit?"}

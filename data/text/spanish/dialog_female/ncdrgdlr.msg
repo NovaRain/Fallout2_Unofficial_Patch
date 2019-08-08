@@ -1,6 +1,6 @@
 {150}{}{Ves a un hombre vestido con ropa arrugada. Se está frotando la nariz y mirando a su alrededor furtivamente.}
-{151}{}{Ves a un vendedor de drogas.}
-{152}{}{Ves a un vendedor de drogas. Parece que está a la caza de clientes.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{¡Oye, heroína! ¿Quieres celebrarlo con algo de Jet? ¡Habla conmigo!}
 {201}{}{¡Qué forma de patearle el culo al Enclave, heroína! ¿Quieres relajarte y celebrarlo con un poco de Jet?}
 {202}{}{::Brindis::}

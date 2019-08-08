@@ -36,7 +36,7 @@
 {280}{}{Non molto. Scusa il disturbo.}
 {290}{}{Non hai mai sentito parlare della Famiglia *Wright*? Devi essere rimasto nel deserto un po' troppo a lungo. La Famiglia Wright e' la piu' grande famiglia criminale di New Reno. Presto domineremo questa citta'.}
 {291}{}{Davvero? Sembra proprio che la famiglia Wright abbia tutte le carte in regola. Avete bisogno di un paio di braccia in piu'?}
-{292}{}{Veramente avevo l'impressione che fosse una delle famiglie piu' deboli... Voglio dire, vendono solo alcolici e non hanno un casino' ne' spacciano droga e i loro uomini sono pochi, confrontati con quelli delle altre famiglie.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
 {293}{}{A proposito di famiglia... ho conosciuto tua madre.}
 {295}{}{Davvero? Molto interessante... beh, scusa, ma devo andare.}
 {296}{}{La Famiglia Wright e' la piu' grande famiglia criminale di New Reno. Presto domineremo questa citta'.}
@@ -80,14 +80,15 @@
 {400}{}{Probabilmente abbastanza da spaccare questo posto… come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh. }
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Grazie. }
-{410}{}{Richard? L'hanno trovato morto in un fosso, come uno strafatto di Jet qualsiasi. Da quel che sappiamo, qualcuno deve averlo imbottito di droghe finche' non e' morto.}
+{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
+ someone pumped him with drugs until he was dead.}
 {411}{}{"Qualcuno" gli avrebbe dato troppa droga? Come fate a dire che non e' morto di overdose perche' LUI ha preso troppa droga?}
 {412}{}{Chi pensate possa averlo fatto?}
 {413}{}{Mi dispiace. Avrei delle altre domande...}
 {414}{}{Terribile. Senti, adesso devo andare. }
 {420}{}{Perche' era una ragazzo pulito… La mamma l'aveva cresciuto BENE. E se non sei d'accordo, tu ed io possiamo risolvere subito la questione, che ne dici?!}
 {421}{}{Non volevo insinuare nulla. Scusa se te ne ho parlato.}
-{422}{}{Non puoi fare finta che l'idea che abbia preso la droga di sua volonta' sia campata in aria. Il Jet crea una forte dipendenza.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Ascolta, *ragazzo*, se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {425}{}{Non voglio guai. Me ne vado. }
 {435}{}{Okay... beh, vedi di stare in guardia. Discorsi del genere farebbero arrabbiare qualsiasi Wright, percio' non andare in giro a dire certe fesserie, okay?}
@@ -109,7 +110,7 @@
 {486}{}{Ehi, ragazza mia, GRAZIE. }
 {487}{}{Hai scoperto chi ha ucciso mio fratello, e tutta la Famiglia Wright ti ringraziera', stanne certo. E non sara' un ringraziamento da poco, credimi.}
 {488}{}{Ho capito. Ci becchiamo dopo, Chris. }
-{495}{}{Anche Jules, all'entrata della citta', vende il Jet, ma di solito i suoi clienti sono turisti... poi c'e' Little Jesus Mordino: potrebbe aver venduto la droga a mio fratello mentre Rich era fuori da solo. Lo troverai al Desperado.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules e Little Jesus… Andro' a parlare con loro. Grazie delle informazioni, Chris. }
 {1200}{}{! Sei stato grande a spazzare via l'Enclave!}
 {1201}{}{! Sei forte!}

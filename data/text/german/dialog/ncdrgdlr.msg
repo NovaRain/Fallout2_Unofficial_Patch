@@ -1,7 +1,7 @@
 {150}{}{Du siehst einen Mann in zerknitterten Kleidern. Er reibt sich die Nase und sieht sich
  verstohlen um.}
-{151}{}{You see a chem dealer.}
-{152}{}{You see a chem dealer. It looks like he's trolling for a customer.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{Hey, Held! Willste mit 'n biﬂchen Jet feiern? Sprich mit mir!}
 {201}{}{War 'ne reife Leistung, die Enklave in den Hintern zu treten, Held! Willste jetzt 'n
  biﬂchen relaxen und mit Jet feiern?}

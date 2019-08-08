@@ -1,4 +1,4 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {110}{}{Widzisz naæpan¹ dziwkê.}
 {111}{}{Widzisz jedn¹ z naæpanych dziwek Tubby'ego.}
 {150}{}{Wydaje siê, ¿e nale¿y do krêgu przyjació³ Tubby'ego.}

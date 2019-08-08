@@ -70,18 +70,18 @@
 {207}{}{Круто}
 {208}{}{Отлич}
 {209}{}{Герой}
-{300}{}{Здоровье}
+{300}{editor}{Hit Points}
 {301}{}{Очки действия}
-{302}{}{Класс брони}
+{302}{editor}{Armor Class}
 {303}{}{Урон б/ор.}
 {304}{}{Рукопашный урон}
 {305}{}{Сопр. урону}
 {306}{}{Сопр. ядам}
 {307}{}{Сопр. рад-ции}
-{308}{}{Реакция}
-{309}{}{Скорость исцеления}
-{310}{}{Шанс на критическое попадание}
-{311}{}{Макс. груз}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Отравление}
 {313}{}{Лучевая болезнь}
 {314}{}{Повреждение глаз}
@@ -196,12 +196,12 @@
 {1102}{}{Ваши действия сделали вас народным героем. Весть о войне, которую вы объявили злу и подлости, разнеслась широко. Честные люди будут больше уважать вас.}
 {1103}{}{Вы убивали детей, цветы на развалинах мира. Такие поступки вообще-то не приветствуются. Вы плохой, плохой человек.}
 {1104}{}{Вы просто балдеете от Ядер-Колы - напитка пост-ядерного мира.}
-{1105}{}{You are reliant to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem reliant. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{У вас проблема с алкоголем. То есть - много проблем из-за постоянного пьянства.}
-{1110}{}{You have a chem reliant. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Вы понимаете в сексе. Вы знаете, что такое прелюдия. Вы знаете, как доставить удовольствие партнеру противоположного пола и заставить его хотеть еще.}

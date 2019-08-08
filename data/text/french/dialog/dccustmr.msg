@@ -64,7 +64,7 @@
 {413}{}{Tu vois quelque chose d'intéressant ?}
 {414}{}{Pas grand-chose ici.}
 {415}{}{Dodu doit trouver des meilleurs fournisseurs.}
-{416}{}{You need chems? Tubby is normally well stocked.}
+{416}{}{You need drugs? Tubby is normally well stocked.}
 {430}{}{Pourquoi tu as tué Dodu ?}
 {431}{}{C'est pas une grosse perte, mais il avait le seul magasin en ville.}
 {432}{}{Qu'a fait Dodu pour te rendre aussi furax ?}

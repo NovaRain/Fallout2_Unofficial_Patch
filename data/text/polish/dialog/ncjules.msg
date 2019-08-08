@@ -120,7 +120,7 @@
 {492}{}{Jeœli tylko czegoœ potrzebujesz, Jules jest FACETEM, którego ci trzeba, s³odka siostrzyczko. Jeœli chcesz lataæ, wznieœæ siê wysoko i upaœæ nisko, Jules wie, dok¹d IŒÆ. Pytanie brzmi: znajdê wszystko z ³atwoœci¹, lecz co jest TWOJ¥ przyjemnoœci¹?}
 {493}{}{Pewnie, pewnie... znajdê wszystko z ³atwoœci¹, lecz co jest TWOJ¥ przyjemnoœci¹?}
 {494}{}{Mo¿esz opowiedzieæ mi trochê o Nowym Reno?}
-{495}{}{Where can I get some chems?}
+{495}{}{Where can I get some drugs?}
 {496}{}{Szukam jakiejœ broni o du¿ej sile ra¿enia.}
 {497}{}{Szukam miejsca, gdzie mo¿na by siê zaopatrzyæ.}
 {498}{}{Szukam ³ó¿ka.}
@@ -168,7 +168,7 @@
 {615}{}{Jest ojciec, Du¿y Jesus Mordino, i syn, Ma³y Jesus, a obaj s¹ najokrutniejszymi skurwysynami, jakich kiedykolwiek zdarzy ci siê spotkaæ. Kiedyœ byli niewolnikami, ale parê lat temu karta siê odwróci³a i wyrzeŸbili sobie swoje w³asne imperium.}
 {616}{}{Jak du¿e jest to ich "imperium"?}
 {625}{}{S¹ w³aœcicielami Desperado le¿¹cego trochê dalej wzd³u¿ tej ulicy. Nie mo¿na nie zauwa¿yæ. Poza tym maj¹ najwiêksze zapasy CA£EGO Jetu w Nowym Reno. Wiêc jeœli musisz sobie polataæ...}
-{626}{}{Speaking of which, do you know where can I get some chems around here?}
+{626}{}{Speaking of which, do you know where can I get some drugs around here?}
 {627}{}{Jak to siê sta³o, ¿e Mordino maj¹ najwiêksze zapasy Jetu?}
 {628}{}{Opowiedz mi o innych rodzinach.}
 {635}{}{S¹ na samym czubku tego wszystkiego. Nie ma innych powodów. Maj¹ fabrykê, twórcê i dystrybutorów. Maj¹ tyle Jetu, ¿e wygl¹daj¹ jak ca³e cholerne linie lotnicze.}
@@ -209,14 +209,14 @@
 {810}{}{(Przysuwa siê) Wiesz, nie chcê gadaæ za du¿o o mniej PRZYJEMNYCH czêœciach Nowego Reno, ale w tym budynku na pó³noc od miasta, w Stajniach, jest paru bia³ych fartuchów, którzy gadaj¹ zupe³nie tak jak ty. S¹ dobrze strze¿eni przez ludzi Mordino.}
 {811}{}{Co oni tam robi¹?}
 {825}{}{Z tego, co s³ysza³em, testuj¹ nowe rodzaje Jetu. No wiesz, mówiê ci to w ZAUFANIU: nie zagl¹daj tam po k¹tach... Mordino nie lubi¹ goœci. Poza tym... Jules mo¿e za³atwiæ ci tyle Jetu, ile tylko potrzebujesz.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's habit-forming enough as it is.}
-{827}{}{Who do the Mordinos test the chems on?}
+{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
+{827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Wiesz mo¿e jak siê dostaæ do Stajni?}
 {840}{}{Na niewolnikach, w sporych iloœciach. Trzymaj¹ ich w zagrodach w stajni, jak braminy. }
 {841}{}{Mordino kupuj¹ du¿o od przechodz¹cych têdy ³owców niewolników. }
 {842}{}{Mordino kupuj¹ du¿o od przechodz¹cych przez Nowego Reno ³owców niewolników, takich jak ty. }
 {843}{}{Kupuj¹ ich straszne iloœci, równie¿ dlatego, ¿e niewolnicy ci¹gle choruj¹, uciekaj¹... albo umieraj¹. G³ównie umieraj¹.}
-{860}{}{Just to make it better, I guess, refine the process, refine the chem. Jet's good, but if they can make it even
+{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
  BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
 {880}{}{Poczekaj momencik - na twoim miejscu nawet nie MYŒLA£BYM o tym. Mordino pilnuj¹ tego miejsca jak wœciek³e psy. Po prostu wybij to sobie z g³owy.}
 {881}{}{Musi byæ jakiœ sposób...}
@@ -243,23 +243,23 @@
 {987}{}{Moja droga siostro, nie musisz ju¿ dalej szukaæ, obs³u¿y ciê skromny Jules we w³asnej osobie. }
 {988}{}{Mam WSZYSTKO, a jeœli ja tego nie mam, to i tak tego nie chcesz. Zrobimy ma³y interesik?}
 {989}{}{Pewnie. Pohandlujmy.}
-{990}{}{What kind of chems can I get in New Reno?}
+{990}{}{What kind of drugs can I get in New Reno?}
 {991}{}{Nie teraz, mam kilka innych pytañ...}
-{992}{}{Actually, I'm not interested in any chems right now. I have to be going.}
+{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
 {1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE chem, the shit that'll let you FLY... Jet.}
+ make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
 {1006}{}{Ka¿dego RODZAJU prochy. Mam towar, który ciê podjara, podnieci, przeleci, uspokoi, uszczêœliwi, uczyni ciê siln¹, sprytn¹... no i oczywiœcie mam TEN specja³, prochy, które pomog¹ ci lataæ... Jet.}
 {1008}{}{Sk¹d bierze siê Jet? Czy zawsze by³ w tej okolicy?}
 {1025}{}{No... uch... Jet bierze siê st¹d... znaczy siê z Reno. Pojawi³ siê niedawno, ale jest na niego ZAPOTRZEBOWANIE, rozumiesz co mam na myœli? (Mruga do ciebie) To powód numer jeden, dla którego mamy tylu turystów takich jak ty.}
-{1026}{}{Well, I'm looking to buy some chems. Let's deal.}
+{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
 {1027}{}{Ale dlaczego Jet wzi¹³ siê w³aœnie st¹d?}
 {1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making chems. He MADE Jet.}
+ natural when it comes to making drugs. He MADE Jet.}
 {1036}{}{Myron, tak? Gdzie mogê go znaleŸæ?}
 {1045}{}{(Przysuwa siê) No wiesz, nie chcia³bym gadaæ za du¿o o tych mniej PRZYJEMNYCH czêœciach Nowego Reno, ale jest taki budynek na pó³noc od miasta, Stajnie. Pilnie strze¿ony przez rodzinê Mordino. Tam w³aœnie jest Myron.}
 {1046}{}{Stajnie poza miastem?}
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes chems. Jet
- was his FINEST. Ain't seen anything so habit-forming in a long time. Turned Reno around, it did.}
+{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
+ was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
 {1056}{}{Myœlisz, ¿e da³oby siê jakoœ spotkaæ tego Myrona?}
 {1065}{}{(Jules staje przed tob¹ i bada ciê wzrokiem. Jego oczy przebiegaj¹ w górê i w dó³ po twoim ciele.)}
 {1066}{}{Jules? Halo? Pyta³am, czy mog³abym jakoœ spotkaæ siê z Myronem.}
@@ -288,10 +288,10 @@
 {1147}{}{Kumam siostro, kumam. Jak chcesz najwy¿szej jakoœci, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£AŒ. Powiedz mu, ¿e ciê przys³a³em.}
 {1148}{}{S³odziutka, ty JU¯ nieŸle dajesz do pieca z takim cia³em jak twoje. Jeœli mimo to chcesz czegoœ wiêcej, idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£AŒ. Powiedz mu, ¿e ciê przys³a³em.}
 {1150}{}{Dziêki za radê, lepiej ju¿ pójdê.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no chems
- from him, cause they ain't SAFE. He's got supplies all right, but if you want chems, talk to me.}
+{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
+ from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
 {1166}{}{Zapamiêtam to. S³uchaj, mam kilka innych pytañ...}
-{1167}{}{His chems aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
 {1175}{}{Kumam bracie. Widzisz, wiêkszoœæ TURYSTÓW zmierza prosto do Alei Dziewic, gdzie robi im dobrze jakaœ dziwka za dwa dolce. Ty wygl¹dasz na cz³owieka z klas¹, wiêc skieruj siê do Kociego Pazura naprzeciwko. Powiedz, ¿e przys³a³ ciê Jules.}
 {1176}{}{Kumam siostro. Widzisz, wiêkszoœæ TURYSTEK zmierza prosto do Alei Dziewic, gdzie jakiœ ch³optaœ robi im dobrze. Ty wygl¹dasz na kobietê z klas¹, wiêc skieruj siê do Kociego Pazura naprzeciwko. Powiedz, ¿e przys³a³ ciê Jules.}
 {1177}{}{(Uœmiecha siê i wyci¹ga ramiona) Nie szukaj dalej, s³odziutka. Jules jest na twoje rozkazy!}
@@ -301,14 +301,14 @@
 {1190}{}{Masz na myœli Kryptopolis, prawda? To na pó³nocny wschód st¹d. Nie mo¿esz go przegapiæ, wszystkie œlady karawan tam prowadz¹.}
 {1191}{}{Aha. Wiesz co, mam jeszcze kilka pytañ... }
 {1192}{}{Aha, dziêki za radê. Lepiej ju¿ pójdê.}
-{1200}{}{Garden of wha-? That some kind of chem? What does this "Garden thing" do? Get you high?}
+{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
 {1201}{}{Nie, to jest... no, niewa¿ne. Mam kilka innych pytañ...}
 {1202}{}{Niewa¿ne. Lepiej bêdzie, jak ju¿ sobie pójdê.}
 {1210}{}{Nic o tym nie wiem. Wspó³czujê ci twojej straty. Mo¿e to byli ³owcy niewolników?}
 {1211}{}{Mo¿e. Mam kilka innych pytañ...}
 {1220}{}{¯e co?}
 {1221}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing chems. They got so much
+{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
  to live for without being given impure shit.}
 {1231}{}{Skoro ju¿ mowa o zanieczyszczonych prochach, to Renesco powiedzia³, ¿e sprzedajesz Jet zakrapiany arszenikiem.}
 {1232}{}{Co masz na myœli mówi¹c o "zanieczyszczonych prochach"?}

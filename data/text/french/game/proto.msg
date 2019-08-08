@@ -64,7 +64,7 @@
 {460}{}{Robot(s)}
 {461}{}{Chien(s)}
 {462}{}{Mante(s)}
-{463}{}{Griffemort(s)}
+{463}{}{Deathclaws}
 {464}{}{Plante}
 {465}{}{Cette ligne indique le nombre d'hommes humains que tu as tués au cours de tes aventures.}
 {466}{}{Cette ligne indique le nombre de femmes humaines que tu as tuées au cours de tes aventures.}
@@ -192,7 +192,7 @@
 {1460}{}{Robot(s)}
 {1461}{}{Chien(s)}
 {1462}{}{Mante(s)}
-{1463}{}{Griffemort(s)}
+{1463}{}{Deathclaws}
 {1464}{}{Plante(s)}
 {1465}{}{Gecko(s)}
 {1466}{}{Alien(s)}

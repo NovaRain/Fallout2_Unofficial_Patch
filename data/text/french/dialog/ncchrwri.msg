@@ -36,7 +36,7 @@
 {280}{}{Pas vraiment. Je m'excuse de te déranger.}
 {290}{}{Tu n'as pas entendu parler de la famille Wright ? Tu as séjourné dans le désert trop longtemps. La famille Wright est la plus grande famille criminelle de Reno. Nous allons devenir les maîtres de cette ville.}
 {291}{}{Ah bon ? La famille Wright semble avoir tous les atouts en main. Embauche-t-elle ? }
-{292}{}{En fait, j'avais l'impression qu'elle était l'une des familles les moins puissantes... C'est vrai, elle est juste impliquée dans le commerce de l'alcool, elle ne possède pas de casino et ne fait pas de trafic de stupéfiants, et elle a beaucoup moins de représentants que les autres familles.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
 {293}{}{En parlant de famille, j'ai rencontré ta mère.}
 {295}{}{Ah bon ? C'est intéressant... Ecoute, il faut que je file.}
 {296}{}{La famille Wright est la plus grande famille de gangsters de Reno. On va gouverner cette ville. }
@@ -81,14 +81,14 @@
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hum. Merci. }
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with chems until he was dead.}
+ someone pumped him with drugs until he was dead.}
 {411}{}{*Quelqu'un* ? Comment sais-tu qu'il n'a pas fait une overdose parce qu'IL en avait pris trop ?}
 {412}{}{D'après toi, qui a pu faire ça ?}
 {413}{}{Je regrette d'entendre ça. Mais dis-moi...}
 {414}{}{C'est bien triste. Ecoute, il faut que j'y aille. }
 {420}{}{Parce que c'était un gars *clean*... Maman l'avait bien éduqué. Et si tu as quelque chose à redire, on ferait mieux de régler nos comptes tout de suite !}
 {421}{}{Ce n'est pas ce que je voulais dire. Je regrette d'avoir amené ça sur le tapis.}
-{422}{}{Ne fais pas l'autruche. Tu sais très bien qu'il a pu en prendre. Le Jet rend les gens complètement accros.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Ecoute, *mon pote*, moi je serais à ta place, j'arrêterais de me mettre à trépigner à chaque fois qu'on me sort mes quatre vérités !}
 {425}{}{Je ne cherche pas les noises. Je m'en vais. }
 {435}{}{Ouais... eh bien, fais gaffe. Ce sont des paroles de défi pour chacun des Wright, alors ne va pas raconter des bobards comme ça, Ok ?}
@@ -110,7 +110,7 @@
 {486}{}{Hé, ma pt'ite dame, merci.}
 {487}{}{Tu as découvert qui a tué mon frère et toute la famille Wright t'en remerciera. Et comme il se doit, tu vois ce que je veux dire ?}
 {488}{}{Je comprends. A plus tard, Chris. }
-{495}{}{Jules dirige la ville et vend également du Jet, mais principalement aux touristes... Et puis, il y a Petit Jésus Mordino : c'est sûrement lui qui fournissait Rich lorsqu'il sortait tout seul. Il traîne au Desperado.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {497}{}{Jimmy J l'édenté, Renesco l'homme fusée, Jules et Petit Jésus... Je vais aller voir ça. Merci pour l'info, Chris.}
 {1200}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}
 {1201}{}{Génial !}

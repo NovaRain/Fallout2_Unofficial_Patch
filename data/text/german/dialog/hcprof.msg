@@ -53,8 +53,7 @@
 {141}{}{Ich verstehe. Hast Du irgend etwas geschaffen, daß funktioniert?}
 {142}{}{Ich möchte einen Test machen.}
 {143}{}{Das ist alles, was ich wissen wollte.}
-{144}{}{Ja, das habe ich, vielen Dank! Hast Du jemals von "Mentats" gehört? Ich habe mitgeholfen,
- eine einfache Methode für die Massenproduktion dieses Zeugs zu entwickeln! Und mehr! Vieles mehr!}
+{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {145}{}{Ist gut, ist gut. Sag mal, ich möchte meine Fähigkeiten im Vergleich mit deinem Skorpion
  testen.}
 {146}{}{Ist gut, Ich glaube Dir. Ich gehe dann jetzt.}

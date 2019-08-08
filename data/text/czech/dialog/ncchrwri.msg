@@ -36,7 +36,7 @@
 {280}{}{Ani ne. Sorry e sem otravoval.}
 {290}{}{Ty neznáš rodinu Wrightù? To jsi musel bıt v poušti asi pìknì dlouho. Wrightova rodina je nejvìtší zloèinecká rodina v Renu. Brzy budem šéfovat celımu mìstu.}
 {291}{}{Opravdu? To zní, jako kdyby mìli všechny esa. Nabírají lidi?}
-{292}{}{Vlastnì mi pøijde, e jsou nejslabší rodina...tím myslím, e kšeftujou jenom s chlastem, nemají ani kasíno nebo fet, a dohromady jich je mnohem ménì ne v ostatních rodinách.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
 {293}{}{Kdy u mluvíme o rodinì, potkal jsem tvoji matku.}
 {295}{}{Opravdu? To je zajímavé... poslyš, u musím jít.}
 {296}{}{Wrightova rodina je nejvìtší zloèinecká rodina v Renu. Brzy budem šéfovat celımu mìstu.}
@@ -81,14 +81,14 @@
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Díky.}
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with chems until he was dead.}
+ someone pumped him with drugs until he was dead.}
 {411}{}{'Nìkdo' mu toho dal moc? Jak víš, e se nepøedávkoval SÁM?}
 {412}{}{Kdo myslíte, e to udìlal?}
 {413}{}{To je mi líto. Chci se ještì na nìco zeptat...}
 {414}{}{To je nepøíjemné. No, u musím jít.}
 {420}{}{Protoe byl èistej... matka ho to nauèila. A jestli na to máš jinej názor, mùeme to spolu vyøešit hned teï.}
 {421}{}{Tak jsem to nemyslel. Promiò.}
-{422}{}{Nenech se zaslepit pøehnanou vírou ve svého bratra. Klidnì to mohl brát. Jet je vysoce návykovı.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Poslyš, *chlapèe*, jestli víš, co je pro tebe dobré, pøestaò zavírat oèi nad kadou malou pravdou, která se objeví a dá ti facku.}
 {425}{}{Nestojím o problémy. Pùjdu.}
 {435}{}{Jo... no, dávej si pozor. To jsou slova, kterı se nelíbí ádnımu Wrightovi, take je z huby radši nepouštìj, jasnı?}
@@ -110,7 +110,7 @@
 {486}{}{Hej, dámo, DÍKY. }
 {487}{}{Díky tobì víme, kdo zabil Rika a celá rodina Wrigtù ti za to dìkuje. A to nejsou ádnı malı díky, jasnı?}
 {488}{}{Rozumím. Uvidíme se pozdìji, Chrisi.}
-{495}{}{Jules na kraji mìsta taky prodává Jet, ale vìtšinou prodává jen turistùm...a pak je tady Malej Jeíš Mordino. Mohl do nìj nacpat drogy, kdy byl sám venku. Potuluje se kolem Desperáda.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {497}{}{Poøezanej Jimmy J, Renesco Rakeák, Jules a Malej Jeíš...podívám se na nì. Díky za informace, Chrisi.}
 {1200}{}{! Takhle se nakopává Enklávì prdel!}
 {1201}{}{! Jseš nejlepší!}

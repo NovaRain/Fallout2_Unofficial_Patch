@@ -1,6 +1,6 @@
 {150}{}{Widzisz mê¿czyznê w pomiêtym ubraniu. Drapie siê w nos i ukradkiem rozgl¹da siê dooko³a.}
-{151}{}{You see a chem dealer.}
-{152}{}{You see a chem dealer. It looks like he's trolling for a customer.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{Hej, bohaterze! Chcesz poœwiêtowaæ przy Jecie? ChodŸ pogadaæ!}
 {201}{}{Aleœmy skopali ty³ek tej Enklawie! Chcesz teraz posadziæ gdzieœ ty³ek i uczciæ zwyciêstwo Jetem?}
 {202}{}{::Wiwatuje::}

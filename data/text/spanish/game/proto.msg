@@ -64,7 +64,7 @@
 {460}{}{Robots}
 {461}{}{Perros}
 {462}{}{Mantis}
-{463}{}{Garras mortales}
+{463}{}{Deathclaws}
 {464}{}{Plantas}
 {465}{}{Esta línea muestra el número de hombres a las que has matado durante el curso de tus aventuras.}
 {466}{}{Esta línea muestra el número de mujeres a las que has matado durante el curso de tus aventuras.}
@@ -192,7 +192,7 @@
 {1460}{}{Robots}
 {1461}{}{Perros}
 {1462}{}{Mantis}
-{1463}{}{Garras mortales}
+{1463}{}{Deathclaws}
 {1464}{}{Plantas}
 {1465}{}{Geckos}
 {1466}{}{Aliens}

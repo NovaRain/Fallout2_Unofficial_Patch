@@ -42,7 +42,7 @@
 {141}{}{Értem. Csináltál már valaha bármit, ami mûködött?}
 {142}{}{Szeretném tesztelni a képességeimet.}
 {143}{}{Értem. Csak ennyit akartam tudni}
-{144}{}{Köszönöm szépen a bizalmat, igen, csináltam! Hallottál valaha a Mentátról? Én fejlesztettem ki a megfelelõ eljárást a tömeggyártásához! És más gyógyszerekéhez is! Sok másikéhoz!}
+{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {145}{}{Oké, oké. Ki szeretném próbálni a képességeimet a skorpiód ellen.}
 {146}{}{Oké, hiszek neked, de azt hiszem mennem kell.}
 {147}{}{Hogyan... hogyan ölhetted meg a skorpiómat? Olyan közel voltam már... olyan közel...}

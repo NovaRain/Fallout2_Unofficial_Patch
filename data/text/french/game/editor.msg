@@ -70,18 +70,18 @@
 {207}{}{Super}
 {208}{}{Exclt}
 {209}{}{Héros}
-{300}{}{PI}
+{300}{editor}{Hit Points}
 {301}{}{Points d'action}
-{302}{}{Classe d'armure}
+{302}{editor}{Armor Class}
 {303}{}{Dégâts en Corps à Corps}
 {304}{}{Dégâts en Rixe}
 {305}{}{Rés. dégâts}
 {306}{}{Rés. poison}
 {307}{}{Rés. radiations}
-{308}{}{Séquence}
-{309}{}{Vit. guérison}
-{310}{}{Coups critiques}
-{311}{}{Charge max.}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Empoisonnement}
 {313}{}{Irradiation}
 {314}{}{Blessure à l'oeil }
@@ -196,12 +196,12 @@
 {1102}{}{Tes actions ont fait de toi un champion. Ta lutte contre le mal et l'infamie est largement reconnue. Cela peut t'attirer les faveurs de personnes honorables.}
 {1103}{}{Tu as tué des jeunes gens, des jeunes du désert, ce qui est très mal vu. Tu es un être diabolique.}
 {1104}{}{Tu raffoles de Nuka-Cola, le soda du monde post-nucléaire.}
-{1105}{}{You are reliant to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem reliant. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tu as un problème avec la bouteille. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
-{1110}{}{You have a chem reliant. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORAIRE - Qu'est-ce que c'est que ça ?}
 {1113}{}{Le sexe, les préliminaires, ça te connaît. Tu sais donner du plaisir à une personne du sexe opposé de sorte qu'elle en redemande.}
