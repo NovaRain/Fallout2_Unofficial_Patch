@@ -42,7 +42,7 @@
 {141}{}{Rozumiem. Uda³o ci siê osi¹gn¹æ jakieœ rezultaty?}
 {142}{}{Chêtnie przyst¹piê do testu.}
 {143}{}{Mi³o siê rozmawia³o.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that chem! And others! Lots of others!}
+{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {145}{}{Dobra, dobra. Chêtnie spróbujê si³ przeciw twojemu skorpionowi. Co ty na to? }
 {146}{}{W porz¹dku, wierzê ci. Niestety, muszê ju¿ iœæ.}
 {147}{}{Jak... jak mo¿na by³o tak po prostu zabiæ mojego skorpiona? A by³em ju¿ tak blisko... tak blisko...}

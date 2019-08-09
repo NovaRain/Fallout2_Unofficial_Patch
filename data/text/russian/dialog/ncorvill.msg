@@ -68,7 +68,7 @@
 {330}{}{(Быстро оглядывает вас.) Ну ладно. Возможно, то, что ты не в семье, это и хорошо. (Хмурая гримаса исчезает.) У тебя есть дети?}
 {331}{}{Насколько мне известно, нет.}
 {332}{}{Насколько мне известно, нет. Думаю, я бы запомнила.}
-{340}{}{One of my sons... my boy, Richard, passed away recently. Chem overdose. Jet.}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{Чем я могу тебе помочь?}
 {342}{}{Ох... Если честно, я не понимаю, как я могу --}
 {350}{}{Я хочу знать, что за пушер дал Ричарду это ДЕРЬМО и силой заставил принять. Каждый раз, когда я посылаю своих мальчиков, они возвращаются ни с чем. Может, тот, в ком нет крови Райтов, сможет что-нибудь выяснить.}
@@ -76,7 +76,7 @@
 {352}{}{Я берусь за работу.}
 {353}{}{Нет, эта работа не по мне. Я лучше пойду.}
 {360}{}{(Он краснеет.) Мои мальчики не употребляют, им хорошо известно, чтобы ни сном ни духом не прикасались ко всякой наркоте, или я убью их. А тут ВДРУГ Ричи схватил передоз. Кто-то закачал в него тонну винта, так что у него дым из носа пошел.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly habit-forming.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Хммм. Я возьмусь за работу.}
 {370}{}{(Кивает.) Ну хорошо. Теперь смотри: ты найдешь этого сукина сына, который убил моего мальчика - не трогай его: просто вернись и СКАЖИ мне, как трупа зовут. (Сверкает глазами.) А дальше мое дело.}
 {371}{}{Мы еще не обговорили цену.}
@@ -85,7 +85,7 @@
 {380}{}{Верно, не обговорили, потому что я еще ничего, кроме РАЗГОВОРОВ, от тебя не видел. Вот тебе возможность проявить себя. Сделай работу, а о деньгах не беспокойся. Даю тебе слово Райта.}
 {383}{}{Тогда я не берусь. Только дураки работают за так. Я ухожу.}
 {390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
- chem pushers, see what they know. That Jet came from SOMEWHERE.}
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Вы подозреваете конкретных пушеров?}
 {393}{}{Слушайте, эта работа не по мне. Я лучше пойду.}
 {400}{}{Опять ты. Нашел убийцу моего мальчика?}
@@ -111,8 +111,8 @@
 {446}{}{Если ты решил, что можешь издеваться над моим горем, дикарь, то ты оччень ошибаешься. Я ПО ГОРЛО сыт твоими выходками. (Кричит.) Мальчики! Сюда!}
 {447}{}{Понятно.}
 {448}{}{Эта работа не для меня, мистер Райт. Найдите кого-нибудь другого.}
-{449}{}{Fuck this job, fuck your dead chem-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead chem-using son in hell.}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Вон отсюда.}
 {465}{}{Так случилось, что недавно я наткнулся на карту, на ней старая армейская база показана - недалеко отсюда, в горах. Найди способ туда пробраться, и я прослежу, чтоб тебя не обидели...}
 {466}{}{Оки-доки, мистер Орал-велл}
@@ -193,7 +193,7 @@
 {672}{}{Не знаю, какой из Сальваторе это сделал. Ренеско для них подхимичил дозу винта, не зная, что они собираются отравить вашего сына.}
 {673}{}{Я не знаю.}
 {680}{}{И какого же черта они это сделали?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a chem overdose... and then there'd
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
  Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{Не знаю. Может, вам лучше у них спросить.}

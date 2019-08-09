@@ -3,7 +3,7 @@
 {2}{}{Arma pref.}
 {3}{}{Distanza}
 {4}{}{Attacca}
-{5}{}{Usa droghe}
+{5}{}{Drug Use}
 {10}{}{-Fatto-}
 {11}{}{Canc.}
 {99}{}{Non Disponibile.}
@@ -37,5 +37,5 @@
 {600}{}{Sono contrario all'uso di droghe}
 {601}{}{Stimpack se ferito leggermente}
 {602}{}{Stimpack se ferito gravemente}
-{603}{}{Qualsiasi droga, ma non sempre}
-{604}{}{Qualsiasi droga, quando vuoi}
+{603}{}{Any drug some of the time}
+{604}{}{Any drug any time}

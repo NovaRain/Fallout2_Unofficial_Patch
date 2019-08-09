@@ -1,4 +1,4 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {110}{}{Vidíš zfetovanou dìvku.}
 {111}{}{Vidíš jednu z Tubbyho zfetovaných dìvek.}
 {150}{}{Vypadá jako Tubbyho kamarád.}

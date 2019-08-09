@@ -70,18 +70,18 @@
 {207}{}{Kiváló}
 {208}{}{Tuti}
 {209}{}{Hõsies}
-{300}{}{Életpont}
+{300}{editor}{Hit Points}
 {301}{}{Akciópont}
-{302}{}{Védelmi érték}
+{302}{editor}{Armor Class}
 {303}{}{Pusztakezes sebzés}
 {304}{}{Közelharci sebzés}
 {305}{}{Sebzésell.}
 {306}{}{Méregellenállás}
 {307}{}{Sugárzás-ell.}
-{308}{}{Reakció}
-{309}{}{Regenerálódás}
-{310}{}{Kritikus esélye}
-{311}{}{Teherbírás}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Mérgezés}
 {313}{}{Sugárfertõzés}
 {314}{}{Szemsérülés}
@@ -196,12 +196,12 @@
 {1102}{}{A tetteid miatt az emberek Bajnoka lettél. A gonosz elleni harcodról mindenfelé hallott. A tisztességes emberek jobban kedvelnek.}
 {1103}{}{Gyerekeket öltél meg, a Pusztaság fiatalságát. Ez bizony nagyon rossz dolog. Te nagyon, nagyon rossz ember vagy.}
 {1104}{}{Iszonyúan élvezed a Nuka-Kólát, a poszt-nukleáris világ üdítõitalát.}
-{1105}{}{Buffout-függõ lettél. Ezt a drogot rendszeresen kell szedned, vagy viselned kell a hátrányait.}
-{1106}{}{Mentat függõségben szenvedsz. Szedned kell, vagy szenvedni fogsz a megvonástól.}
-{1107}{}{Függõ vagy. Ha nem szeded a Psycho-t, szenvedni fogsz. Ha szeded, mások fognak szenvedni.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Problémád van az alkohollal. Pontosabban az ivással.}
-{1110}{}{Jet-függõ vagy. Rendszeresen kell szedned.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragic kártyajáték függõ vagy. Állandóan új kártyákat akarsz szerezni.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Tudod, mi az a szex, és tudod, mi az az elõjáték. Van fogalmad róla, hogyan kell kielégíteni az ellenkezõ nem tagjait.}

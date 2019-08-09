@@ -68,7 +68,7 @@
 {330}{}{(Chvíli tì pozoruje.) Tak dobøe. Tøeba se mi budeš hodit, když nepatøíš k žádné rodinì. (Pøestane se mraèit.) Máš dìti?}
 {331}{}{Pokud vím, tak ne.}
 {332}{}{Pokud vím, tak ne. To bych si pamatovala.}
-{340}{}{One of my sons... my boy, Richard, passed away recently. Chem overdose. Jet.}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{Jak ti mùžu pomoct?}
 {342}{}{Eh... nemám tušení, jak mùžu...}
 {350}{}{Chci vìdìt, který dealer dal Richardovi ten FET a pøinutil ho si ho vzít. Pokaždé, když jsem poslal své chlapce, aby nìco zjistili, vrátili se s prázdnou. Možná nìkdo, kdo nemá Wrightovu krev, získá nìjaké odpovìdi.}
@@ -76,7 +76,7 @@
 {352}{}{Tu práci beru.}
 {353}{}{Ne, tohle není práce pro mì. Radìji pùjdu.}
 {360}{}{(Zrudne mu oblièej.) Moji hoši jsou èistí a ví, že se mají od fetu držet dál, jinak bych je musel zabít. A NAJEDNOU se Richie pøedávkuje. Nìkdo do nìj napumpoval hromadu Jetu a to tolik, až mu byl cítit z nosu.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly habit-forming.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. Tu práci beru.}
 {370}{}{(Kývne hlavou.) Dobøe. Takže: Najdeš toho zkurvysyna, který zabil mého syna, ani se ho nedotkneš... pøijdeš zpátky a ØEKNEŠ mi jméno toho mrtvého chlapa. (V oèích se mu zajiskøí.) Já už se o nìj potom postarám.}
 {371}{}{Ještì jsme nemluvili o cenì.}
@@ -85,7 +85,7 @@
 {380}{}{Ano, správnì, nemluvili jsme o cenì, protože jsi ještì KROMÌ kecù nic neudìlal. Bude to tvoje zkouška. Udìlej svoji práci a nebudeš mít nouzi o peníze. Dávám ti slovo Wrighta.}
 {383}{}{Tak na to zapomeòte. Jenom blbci dìlají práci zadarmo. Mizím odsud.}
 {390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
- chem pushers, see what they know. That Jet came from SOMEWHERE.}
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Podezøíváte nìkoho z drogových dealerù?}
 {393}{}{Víte, tohle není práce pro mì. Radìji pùjdu.}
 {400}{}{Zase ty? Už víš, kdo zabil mého chlapce?}
@@ -111,8 +111,8 @@
 {446}{}{Jestli si myslíš, že se mnou mùžeš takhle vyjebávat, divochu, tak jseš pìknì na omylu. Už mám dost tìch tvých kecù. (Zaène pokøikovat.) Chlapci! Pojïte sem!}
 {447}{}{Rozumím.}
 {448}{}{Tohle není práce pro mì, pane Wrighte. Najdìte si na to nìkoho jiného.}
-{449}{}{Fuck this job, fuck your dead chem-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead chem-using son in hell.}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Zmizte odsud.}
 {465}{}{Nedávno se mi dostala do rukou mapa, na které je zakreslená stará vojenská základna v horách nedaleko odtud. Najdi zpùsob, jak se dostat dovnitø a já dohlédnu na to, že o tebe bude postaráno...}
 {466}{}{Oukí Doukí Pane Ordervile.}
@@ -193,7 +193,7 @@
 {672}{}{Nevím, který ze Salvatorù to udìlal. Renesco pro nì pøipravil dávku Jetu, aniž by vìdìl o tom, že ho použijí k otrávení vašeho syna.}
 {673}{}{Nevím.}
 {680}{}{A proè by to sakra dìlali?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a chem overdose... and then there'd
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
  Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{To nevím. Možná byste se jich mìl zeptat.}

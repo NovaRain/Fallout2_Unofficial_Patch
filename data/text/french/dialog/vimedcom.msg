@@ -12,12 +12,12 @@
 {111}{}{[Rechercher dans la base médicale pour essayer de trouver des choses intéressantes]}
 {112}{}{[Se déconnecter du terminal]}
 {113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, chems, and implants.}
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{[Faire une recherche dans les archives pour trouver une allusion au Jardin d'Eden en Kit]}
 {115}{}{[Rechercher dans la base médicale pour essayer de trouver des choses intéressantes]}
 {116}{}{[Se déconnecter du terminal]}
 {117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, chems, and implants.}
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{[Chercher dans les archives pour trouver une allusion aux Abris]}
 {119}{}{[Rechercher dans la base médicale pour essayer de trouver des choses intéressantes]}
 {120}{}{[Se déconnecter du terminal]}

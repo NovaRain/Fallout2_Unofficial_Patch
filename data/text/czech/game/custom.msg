@@ -3,7 +3,7 @@
 {2}{}{Volba druhu zbranì}
 {3}{}{Vzdálenost}
 {4}{}{Útoè na}
-{5}{}{Nadopuj se}
+{5}{}{Drug Use}
 {10}{}{KONEC}
 {11}{}{Zrušit}
 {99}{}{Nelze použít.}
@@ -37,5 +37,5 @@
 {600}{}{Nic neber}
 {601}{}{Stimpaky, kdykoliv máš zranìní}
 {602}{}{Stimpaky, když máš vážné zranìní}
-{603}{}{Any chem some of the time}
-{604}{}{Any chem any time}
+{603}{}{Any drug some of the time}
+{604}{}{Any drug any time}

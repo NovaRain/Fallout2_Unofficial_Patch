@@ -70,18 +70,18 @@
 {207}{}{Klasse}
 {208}{}{Super}
 {209}{}{Spitze}
-{300}{}{Trefferpk.}
+{300}{editor}{Hit Points}
 {301}{}{Aktionspunkte}
-{302}{}{Rüstung}
+{302}{editor}{Armor Class}
 {303}{}{Schaden ohne Bewaffnung}
 {304}{}{Schaden im Nahkampf}
 {305}{}{Verletz.-Res.}
 {306}{}{Giftresistenz}
 {307}{}{Strahlungsres.}
-{308}{}{Reaktion}
-{309}{}{Heilung}
-{310}{}{Kritische Treffer}
-{311}{}{Tragekapazität}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Vergiftet}
 {313}{}{Verstrahlt}
 {314}{}{Augenverletzung}
@@ -196,12 +196,12 @@
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
-{1105}{}{You are reliant to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem reliant. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
-{1110}{}{You have a chem reliant. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORÄR - Was ist das?}
 {1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, daß er mehr will.}

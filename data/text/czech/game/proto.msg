@@ -64,7 +64,7 @@
 {460}{}{Roboti}
 {461}{}{Psi}
 {462}{}{Mantisové}
-{463}{}{Páraèi}
+{463}{}{Deathclaws}
 {464}{}{Rostlina}
 {465}{}{Tato øádka ukazuje, kolik mužù jsi bìhem své cesty zabil.}
 {466}{}{Tato øádka ukazuje, kolik žen jsi bìhem svého putování zabil.}
@@ -192,7 +192,7 @@
 {1460}{}{Roboti}
 {1461}{}{Psi}
 {1462}{}{Mantisové}
-{1463}{}{Páraèi}
+{1463}{}{Deathclaws}
 {1464}{}{Rostliny}
 {1465}{}{Geckoni}
 {1466}{}{Alieni}

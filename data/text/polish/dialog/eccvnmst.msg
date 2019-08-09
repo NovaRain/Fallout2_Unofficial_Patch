@@ -42,7 +42,7 @@
 {151}{}{Z³oto.}
 {152}{}{Uran.}
 {153}{}{Produkty rolne.}
-{154}{}{chems.}
+{154}{}{drugs.}
 {155}{}{Niewolników.}
 {156}{}{Ró¿ne drobiazgi.}
 {198}{}{Nowego Reno}

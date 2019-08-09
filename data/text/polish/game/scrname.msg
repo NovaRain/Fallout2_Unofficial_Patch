@@ -559,7 +559,7 @@
 {659}{}{Mapa sekretnego wejœcia V15}
 {660}{}{Rebecca}
 {661}{}{drzwi}
-{662}{}{Szpon Œmierci}
+{662}{}{Szpon œmierci }
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}

@@ -71,7 +71,7 @@
 {330}{}{(Estuda-te por um momento.) Está certo. Talvez você não estando na família pode ser algo bom. (A cara fechada some) Tem filhos?}
 {331}{}{Não que eu saiba.}
 {332}{}{Não que eu saiba. Eu acho que lembraria se tivesse.}
-{340}{}{One of my sons... my boy, Richard, passed away recently. Chem overdose. Jet.}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{Como posso ajudar?}
 {342}{}{Ahm…Eu não entendo como eu posso --}
 {350}{}{Eu quero saber qual negociante deu essa MERDA pro Richard e o forçou a usar. Todas as vezes que mando meus rapazes procurar,
@@ -81,7 +81,7 @@
 {353}{}{Não, esse trabalho não é do meu estilo. Melhor eu ir embora.}
 {360}{}{(Rosto fica vermelho.) Meus garotos são limpos, e eles sabem que devem ficar londe dessa merda, ou eu os mato. Então DE REPENTE, Richie morre de overdose.
  Alguém enfiou toneladas de Jet nele. Saía fumaça de seu nariz.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly habit-forming.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. Eu aceito o trabalho.}
 {370}{}{(Faz que sim com a cabeça.) Pois muito bem. Agora preste atenção: Você acha esse filho da puta que matou meu filho, mas não toque nele... apenas volte
  e DIGA o nome do defunto. (Saem chamas de seus olhos.) EU tomo conta a partir daí.}
@@ -92,7 +92,7 @@
  e não precisa se preocupar com dinheiro. Eu te dou minha palvra como Wright.}
 {383}{}{Esqueça, então. Apenas tolos trabalham por nada. Estou fora.}
 {390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
- chem pushers, see what they know. That Jet came from SOMEWHERE.}
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Suspeita de algum vendedor?}
 {393}{}{Olha, esse trabalho não faz o meu tipo. Acho melhor eu ir embora.}
 {400}{}{Você de novo. Achou quem matou meu garoto?}
@@ -123,8 +123,8 @@
  Rapazes! Venham aqui!}
 {447}{}{Entendido.}
 {448}{}{Eu não sou a pessoa certa pra esse trabalho, Mr. Wright. Procure outra pessoa.}
-{449}{}{Fuck this job, fuck your dead chem-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead chem-using son in hell.}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Saia daqui.}
 {465}{}{Há um tempo atrás, aconteceu de eu cruzar com um mapa que mostra uma velha base militar nas montanhas, não muito longe daqui. Ache um jeito de entrar lá e eu verei se você é capaz...}
 {466}{}{Okee Dokee Mister Orderville}
@@ -226,7 +226,7 @@
  era pra envenenar seu filho.}
 {673}{}{Eu não sei.}
 {680}{}{Agora, por que diabos eles fariam isso?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a chem overdose... and then there'd
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
  Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{Eu não sei. Talvez você devesse perguntar pra eles.}

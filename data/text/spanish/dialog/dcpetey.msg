@@ -1,6 +1,6 @@
-{100}{}{Ves a un drogadicto.}
+{100}{}{You see a drug addict.}
 {101}{}{Ves a Petey.}
-{150}{}{Este de aquí es un pobre drogadicto.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Parece que Petey necesita ayuda.}
 {152}{}{[hablar]}
 {155}{}{[cof, cof] ¿Tienes algo suelto que darme?}

@@ -74,7 +74,7 @@
 {173}{}{Come producete questi alcolici sintetici?}
 {174}{}{In realta', vorrei delle informazioni.}
 {175}{}{Nient'altro per oggi, grazie.}
-{176}{}{Gli Auto-Doc di Vault City sono in grado di produrre dei sostituti sintetici di sostanze in grado di creare dipendenza. Per quel che ne so io, prima della guerra questi sostituti erano usati come placebo per i tossicodipendenti.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{Sembri molto ferrato in materia di sostituti sintetici...}
 {178}{}{Uh, non avete degli alcolici veri?}
 {179}{}{Oh. Beh, allora prendero' un po' d'acqua.}

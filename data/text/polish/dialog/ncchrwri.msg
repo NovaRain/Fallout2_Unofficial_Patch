@@ -36,7 +36,7 @@
 {280}{}{Wcale. Do widzenia.}
 {290}{}{Nie wiesz kim jest rodzina Wrightów? Pierwszy raz w mieœcie, czy zbyt d³ugo na pustyni? Wrightowie to najwiêksza rodzina przestêpcza w Reno. Nied³ugo bêdziemy rz¹dziæ tym miastem.}
 {291}{}{Serio? Wygl¹da na to, ¿e macie wszystkie asy w rêkawie. Mo¿e przyda wam siê ktoœ taki jak ja?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or chem trade, and their numbers are much less than other families.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
 {293}{}{Skoro o rodzinie mowa, znam twoj¹ mamê.}
 {295}{}{Naprawdê? To bardzo ciekawe... s³uchaj, muszê ju¿ iœæ.}
 {296}{}{Wrightowie to najwiêksza rodzina przestêpcza w Reno. Nied³ugo bêdziemy rz¹dziæ tym miastem.}
@@ -81,14 +81,14 @@
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Dziêki.}
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with chems until he was dead.}
+ someone pumped him with drugs until he was dead.}
 {411}{}{'Ktoœ' szprycowa³ go prochami? Sk¹d pewnoœæ, ¿e to on sam nie przedawkowa³ przypadkiem?}
 {412}{}{Jak myœlisz, kto to móg³ zrobiæ?}
 {413}{}{Przykro to s³yszeæ. Mam jeszcze kilka pytañ...}
 {414}{}{To fatalnie. Muszê ju¿ iœæ.}
 {420}{}{Bo ten dzieciak nie bra³... Chocia¿ tego Mama go nauczy³a. A jeœli zamierzasz twierdziæ inaczej, to mo¿emy sobie wszystko wyjaœniæ tu i teraz.}
 {421}{}{To nie mia³o tak zabrzmieæ. Nie wracajmy ju¿ do tego.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{S³uchaj, *dzieciaku*, jeœli ¿ycie ci nie zbrzyd³o, przestañ siê stawiaæ za ka¿dym razem, jak ktoœ powie ci odrobinê przykrej prawdy.}
 {425}{}{Nie szukam k³opotów. Lepiej ju¿ sobie pójdê. }
 {435}{}{Dobra, ale uwa¿aj co pleciesz. Za takie gadanie ka¿dy Wright zastrzeli ciê na miejscu, wiêc lepiej trzymaj jêzyk za zêbami, jasne?}
@@ -110,7 +110,7 @@
 {486}{}{Hej, psze pani, dziêkujê.}
 {487}{}{ Jeœli dowiesz siê kto za³atwi³ mojego brata, ca³a rodzina Wrightów bêdzie ci wdziêczna. A to nie jest ma³o, kapujesz?}
 {488}{}{Rozumiem. Pogadamy póŸniej, Chris.}
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed chems on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {497}{}{Szramiasty Jimmy J, Renesco Rakieciarz, Jules i Ma³y Jesus... Pogadam z nimi. Dziêki za informacje, Chris.}
 {1200}{}{! Dobra robota z t¹ Enklaw¹!}
 {1201}{}{! Rz¹dzisz!}

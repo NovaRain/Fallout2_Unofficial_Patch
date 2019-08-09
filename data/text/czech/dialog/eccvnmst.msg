@@ -42,7 +42,7 @@
 {151}{}{zlatou rudu.}
 {152}{}{uranovou rudu.}
 {153}{}{farmáøské zboží.}
-{154}{}{chems.}
+{154}{}{drugs.}
 {155}{}{otroky.}
 {156}{}{rùzné vìci.}
 {198}{}{New Rena}

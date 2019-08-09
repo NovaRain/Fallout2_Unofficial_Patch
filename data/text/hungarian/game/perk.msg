@@ -159,7 +159,7 @@
 {1140}{}{A hírneved mindig "pozitív". E képességgel a negatív hírnév nincs rossz hatással a jó természetû emberekre. De a fordítottja is igaz: a gonosz emberek Mr. Jófiút is bandatagként kezelik.}
 {1141}{}{Több lõszert találsz a posztholokauszt átlagos túlélõinél. Ez a képesség megduplázza a véletlenszerû események során talált lõszer mennyiségét.}
 {1142}{}{A felfedezõ célja, hogy új és érdekes helyeket fedezzen fel. Ezzel a képességgel nagyobb esélyed van különleges helyek és emberek megtalálására.}
-{1143}{}{With this Perk, you are less likely to be addicted to chems (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{A nyomkeresõ mindig megtalálja a rövidebb utat. A képesség minden szintje 25%-kal csökkenti a világtérképen való utazás idejét.}
 {1145}{}{Az állatok soha nem támadják meg a barátjukat, amíg az nem fenyegeti, vagy meg nem támadja õket.}
 {1146}{}{Távolabbra látsz, mint valaha. A világtérképen minden irányban egy kockával messzebb látsz, és megnõ az esélye annak is, hogy különleges helyeket találj.}

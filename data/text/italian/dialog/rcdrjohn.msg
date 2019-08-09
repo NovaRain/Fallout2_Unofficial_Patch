@@ -107,7 +107,9 @@
 {206}{}{E' stato McClure di Vault City, a dirmelo.}
 {207}{}{Ho solo sentito delle voci, ecco tutto.}
 {208}{}{Non ha molta importanza. Lascia che ti chieda qualcos'altro.}
-{209}{}{New Reno vende il Jet a prezzo stracciato. Il Jet da' assuefazione rapidamente come mai s'era visto per altre droghe. Quelli di Reno pensano che, riuscendo a far diventare Jet-dipendenti un numero sufficiente di persone in una data zona, queste persone farebbero qualsiasi cosa pur di avere dell'altro Jet. Questo darebbe a New Reno il controllo "de facto" di quella zona - una zona come Redding, ad esempio.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Capisco. Lascia che ti chieda qualcos'altro, Doc.}
 {211}{}{Allora, se non vuoi che sia New Reno a controllare Redding, chi vorresti che lo facesse?}
 {212}{}{Grazie per avermelo spiegato, Doc. Arrivederci.}
@@ -132,7 +134,9 @@
 {231}{}{Sciocchezze. E' vero che Vault City concede privilegi speciali ai cittadini, ma soltanto perche', rispetto ai rozzi non-cittadini, questi sono maggiormente qualificati per riceverli. Inoltre, chiunque puo' ricevere la cittadinanza di Vault City, se supera gli esami necessari.}
 {232}{}{Non sono sicuro di come gli abitanti di Redding potrebbero reagire ad una dominazione da parte di Vault City.}
 {233}{}{Certo, nessun dubbio. Addio, Doc.}
-{234}{}{Io riempio di Jet le fiale monodose e poi le distribuisco esclusivamente come servizio per gli abitanti di Redding. Non ci guadagno niente a farlo. Se facessi pagare qualcosa, qualche ciarlatano potrebbe cominciare a vendere della droga preparata usando delle attrezzature arrugginite e ricoperte di germi. Se succedesse una cosa simile, non riuscirei mai a mantenere sana la popolazione.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Sei davvero una persona gentile, Doc. E' una cosa meravigliosa. Lascia che ti chieda qualcos'altro, allora.}
 {236}{}{Davvero un comportamento *nobile*, dottore.}
 {237}{}{Interessante. Ci vediamo dopo, Doc. Arrivederci.}

@@ -112,7 +112,7 @@
 {402}{}{Si', e' morto. E' stato mangiato dai gecki.}
 {403}{}{Stavo solo scherzando. Io l'ho... ehm... l'ho visto. Ha detto che stava scappando con un'altra donna. Whoa! Guarda che ore sono. Devo scappare.}
 {404}{}{Uh, io, uh, noi, ecco...Uh, no. Lo sto ancora cercando. Sono sicuro che presto si fara' vedere. Ehm, addio.}
-{410}{}{Mangiato dai gecki? Non ci credo. Il mio Smiley non si sarebbe mai lasciato prendere: e' un Trapper troppo in gamba. Devi esserti sbagliato.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Si', probabilmente ha ragione. Mi perdoni per averle fatto prendere uno spavento. Lasci che le faccia alcune domande.}
 {412}{}{No, l'ho visto, o meglio: ho visto quello che rimaneva di lui. Non era una bella visione. Beh, ci vediamo dopo. Arrivederci.}
 {413}{}{Credo proprio che tu mi abbia beccato. Heh, heh, stavo semplicemente prendendoti, ehm, in giro. Si', proprio cosi'. Beh, arrivederci.}

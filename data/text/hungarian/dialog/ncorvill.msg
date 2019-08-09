@@ -68,7 +68,7 @@
 {330}{}{(Egy pillanatra végigmér.) Rendben. Az, hogy nem vagy semmilyen családban, jó dolog lehet. (A fitymálló tekintet eltûnik.) Vannak gyerekeid?}
 {331}{}{Tudomásom szerint nincsenek.}
 {332}{}{Tudomásom szerint nincsenek. Azt hiszem, tudnék róla.}
-{340}{}{Az egyik fiam... Richard, nemrég elhunyt. Drog túladagolás. Jet...}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{És én mégis hogy segíthetek ebben?}
 {342}{}{Ööö... Nem igazán látom, miben se...}
 {350}{}{Meg akarom tudni, melyik díler nyomta bele Richard-ba azt a SZART. Akármikor kiküldöm a srácaimat, hogy nézzenek utána, semmit nem tudnak felmutatni. Lehet, hogy egy nem Wright vérbõl való ember képes lenne valamit találni.}
@@ -76,7 +76,7 @@
 {352}{}{Elvállalom a munkát.}
 {353}{}{Nem, ez a munka nem fekszik nekem. Inkább megyek.}
 {360}{}{(Elvörösödik.) Az én fiaim tiszták, és tudják hogy távol kell tartaniuk maguktól azt a szart, különben megölném õket. Erre mi történik? Richie meghal túladagolásban... Valaki egy tonna Jetet tömött bele, olyan sokat, hogy Jet-gõz jött ki az orrán.}
-{361}{}{Hát... ez nem feltétlenül jelenti azt, hogy valaki más felelõs érte. A fia is túladagolhatta magát. A Jet nagyon addiktív.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. Elvállalom a munkát.}
 {370}{}{(Rábólint.) Rendben van. Hallgass ide: Meg kell találnod a fiam gyilkosát! Ne essen bántódása... csak gyere vissza és MONDD el a hullajelölt nevét. (Ádázul néz rád.) Onnantól majd mi intézzük a dolgokat.}
 {371}{}{Még nem beszéltünk az árról.}
@@ -84,7 +84,8 @@
 {373}{}{Találjam meg azt az embert, akitõl Richard a Jetet kapta, ne bántsam, csak jöjjek vissza és közöljem a nevét. Megértettem.}
 {380}{}{Igazad van... mivel NAGY SZAVAKON kívül még semmit nem mutattál fel, nincs ideje az árról beszélnünk. Ellenben lehetõvé teszem számodra, hogy bebizonyítsd a rátermettségedet. Végezd el a munkát, a pénz pedig ne aggasszon! Wrightként a szavamat adom.}
 {383}{}{Akkor felejtse el. Csak a bolondok dolgoznak semmiért. Le is léptem...}
-{390}{}{(A szeme villámokat szór.) Nincs... mindenki be van tojva, hogy egy... Wrighttal szóba álljon. A helyedben kikérdeznék néhány renói drogdílert, hátha tudnak valamit. Az a Jet nem a SEMMIBÕL jött.}
+{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Gyanakszik valamelyik dílerre?}
 {393}{}{Nézze, ez a munka nagyon nem fekszik nekem. Inkább lelépek...}
 {400}{}{Már megint te vagy? Rájöttél, ki ölte meg a fiamat?}
@@ -110,8 +111,8 @@
 {446}{}{Ha azt hiszed, vadember, hogy úgy táncolok, ahogy fütyülsz, nagyon tévedsz. Elég volt a baromságaidból! (Kiabálni kezd.) Fiúk! Ide mindenki!}
 {447}{}{Megértettem.}
 {448}{}{Mr. Wright, nem én vagyok az, aki megfelel erre a feladatra. Találjon valaki mást helyettem!}
-{449}{}{Bassza meg a munkát, bassza meg a halott, drogos fiát, és egyáltalán... baszódjon meg ott ahol van! Megyek a büdös francba innen!}
-{451}{}{Ebbõl elég volt! Hányok a hülyeségétõl. Most majd találkozhat a drogos fiával a pokolban!}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Takarodj ki innen!}
 {465}{}{Nem is olyan régen kezembe került egy közeli hegyekrõl készült térkép, amely egy katonai bázist jelöl. Találj rá módot, hogyan lehetne bejutni oda, aztán meglátom, hogy s mint legyen...}
 {466}{}{Oki Doki Miszter Orderville}
@@ -192,7 +193,9 @@
 {672}{}{Nem tudom, melyik Salvatore tette. Renesco összetákolt nekik egy kis Jetet, de nem tudta, hogy az ön fia megmérgezésére fogják használni.}
 {673}{}{Nem tudom.}
 {680}{}{De mégis mi a francért csinálnának ilyet?}
-{681}{}{Amennyire én látom, a renói Jet-forgalmat a Mordino család tartja kézben. Természetes, hogy õket vádolná a túladagolással... utána szépen kitör a háború. Ha nem is irtják ki egymást, mindenképpen meggyengülnek a harcban. Ez megkönnyíti a Salvatorék életét... ezután már csak a Bishop családdal kell elbánniuk.}
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
+ be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
+ Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{Hát nem tudom. Talán meg kéne õket kérdezni.}
 {690}{}{(Hosszú ideig bámul rád, aztán száraz nevetés hagyja el a száját.) Megadod a választ, és semmit sem tehetek a megoldás érdekében. A Salvatorék... hogy a franc esne beléjük! (Mély lélegzetet vesz.)}
 {691}{}{Mi a gond?}

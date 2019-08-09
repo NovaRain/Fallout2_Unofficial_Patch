@@ -42,7 +42,7 @@
 {151}{}{oro.}
 {152}{}{uranio.}
 {153}{}{prodotti agricoli.}
-{154}{}{droga.}
+{154}{}{drugs.}
 {155}{}{schiavi.}
 {156}{}{della roba.}
 {198}{}{New Reno}

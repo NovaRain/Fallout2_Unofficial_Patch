@@ -112,7 +112,7 @@
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Eee... Ja... to znaczy my... Eee, nie. Ci¹gle go szukam. Na pewno nied³ugo siê znajdzie. Do widzenia.}
-{410}{}{Gekony... z¿ar³y Smileya? Nie wierzê ci. Smiley nigdy by siê nie da³ z³apaæ gekonowi. Jest zbyt dobrym traperem. Na pewno siê mylisz.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Pewnie ma pani racjê. Przepraszam, jeœli siê pani przestraszy³a. Muszê pani¹ o coœ zapytaæ.}
 {412}{}{Nie, to by³y na pewno jego zw³oki. I mówiê pani - nie wygl¹da³o to najlepiej. Có¿, ¿ycie jest okrutne. Do zobaczenia.}
 {413}{}{No to siê wyda³o. He, he, tak tylko pani¹ nabieram. To taki dowcip, rozumie pani? No tak, do widzenia.}

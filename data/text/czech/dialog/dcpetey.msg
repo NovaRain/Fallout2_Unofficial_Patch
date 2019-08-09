@@ -1,6 +1,6 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {101}{}{Vidíš Peteyho.}
-{150}{}{This here is a poor chem reliant.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Tady Petey by potøeboval píchnout.}
 {152}{}{[MLUVIT]}
 {155}{}{[kašlání] Nemáš nìjaký drobný pro Peteyho?}

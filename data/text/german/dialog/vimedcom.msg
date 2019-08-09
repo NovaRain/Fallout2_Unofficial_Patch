@@ -17,12 +17,12 @@
 {111}{}{Durchsuche die medizinische Datenbank nach allen wichtigen Informationen.}
 {112}{}{Melde dich beim Terminal ab.}
 {113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, chems, and implants.}
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{Durchsuche die Archive nach einem Hinweis auf das Garden-Eden-Creation-Kit.}
 {115}{}{Durchsuche die medizinische Datenbank nach allen wichtigen Informationen.}
 {116}{}{Melde dich beim Terminal ab.}
 {117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, chems, and implants.}
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{Durchsuche die Archive nach einem Hinweis auf die Vaults.}
 {119}{}{Durchsuche die medizinische Datenbank nach allen wichtigen Informationen.}
 {120}{}{Melde dich beim Terminal ab.}

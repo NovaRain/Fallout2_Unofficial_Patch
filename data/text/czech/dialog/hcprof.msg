@@ -42,7 +42,7 @@
 {141}{}{Aha. Vytvoøil jste taky nìco, co by fungovalo?}
 {142}{}{Chci zkusit jeden z tìch testù.}
 {143}{}{To bude asi všechno.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that chem! And others! Lots of others!}
+{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {145}{}{No, tak dobøe. Chci vyzkoušet své schopnosti proti vašemu radškorpionovi.}
 {146}{}{Dobøe, vìøím vám. Už musím jít.}
 {147}{}{Jak... jak jste jen mohl zabít mého radškorpiona? Už jsem byl blízko... tak blízko...}

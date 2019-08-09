@@ -120,7 +120,7 @@
 {492}{}{Jules ti seene cokoliv budeš chtít, moje sladká sestøièko. Jestli se chceš proletìt a vznášet se v nebeskejch vıšinách, Jules ví, kam jít. Take moje otázka zní: Bez èeho nemùeš dál ít?}
 {493}{}{Jasnı, jasnı... take co potøebuješ?}
 {494}{}{Mùeš mi øíct nìco o New Renu?}
-{495}{}{Where can I get some chems?}
+{495}{}{Where can I get some drugs?}
 {496}{}{Sháním se po nìjaké poøádné palebné síle.}
 {497}{}{Sháním zásoby.}
 {498}{}{Chci si zapíchat.}
@@ -168,7 +168,7 @@
 {615}{}{Ti dva jsou tatík Velkej Jeíš Mordino a jeho synáèek Malej Jeíš Mordino. Oba jsou to ti nejvìtší zkurvysyni, jakı kdy mùeš potkat. Byli tu jako otroci, ale pøed pár lety se vzmohli a vybudovali si svoje vlastní malı impérium.}
 {616}{}{Jak velké je to jejich "impérium?"}
 {625}{}{Vlastní Desperado kousek dál na tıhle ulici. Nemùeš ho minout. A taky maj nejvìtší zdroje Jetu v celım New Renu. Take kdy budeš mít chu se proletìt...}
-{626}{}{Speaking of which, do you know where can I get some chems around here?}
+{626}{}{Speaking of which, do you know where can I get some drugs around here?}
 {627}{}{Jak to, e mají Mordinové nejvìtší zdroje Jetu?}
 {628}{}{Povìz mi o ostatních rodinách.}
 {635}{}{Protoe jsou na vrcholu, kámo. ádnej jinej dùvod pro to není. Maj továrny, svıho tvùrce a vlastní distribuci. Maj tolik Jetu, e jsou jako podìlaná letecká spoleènost.}
@@ -209,14 +209,14 @@
 {810}{}{(Nakloní se k tobì.) No, nechce se mi zrovna mluvit o míò PØÍJEMNEJCH èástech New Rena, ale ve Stájích na sever od mìsta je pár tıpkù v bílejch pláštích, co mluvìj pøesnì jako ty. Jsou tìce hlídanı Mordinovımi mui.}
 {811}{}{A co tam dìlají?}
 {825}{}{Co jsem slyšel, tak prej testujou novı druhy Jetu. Ale mezi náma, kámo, nechoï tam vyzvídat... Mordinové nemaj rádi návštìvníky. A krom toho... Jules ti seene jakıkoliv mnoství Jetu budeš chtít.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's habit-forming enough as it is.}
-{827}{}{Who do the Mordinos test the chems on?}
+{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
+{827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Nevíš, jak se do tìch Stájí dostat?}
 {840}{}{Na otrocích. Maj je tam zavøenı ve stájích jako brahmíny. }
 {841}{}{Mordinové je nakupujou od otrokáøù, kterı procházej kolem. }
 {842}{}{Mordinové je nakupujou od otrokáøù, jako jseš ty, kterı procházej New Renem. }
 {843}{}{Kupujou jich fakt hodnì, paè èasto onemocní, uteèou... nebo umøou. Vìtšinou umøou.}
-{860}{}{Just to make it better, I guess, refine the process, refine the chem. Jet's good, but if they can make it even
+{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
  BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
 {880}{}{Zadr... na tvım místì bych na to ani NEPOMYSLEL, kámo. Mordinové to místo hlídaj jak vzteklí psi. Prostì na to zapomeò.}
 {881}{}{Musí bıt nìjakı zpùsob, jak se tam dostat...}
@@ -243,23 +243,23 @@
 {987}{}{Sladká sestøièko, nemusíš chodit dál ne ke zde pøítomnımu Julesovi. }
 {988}{}{Mám VŠECHNO a co nemám, to nepotøebuješ. Take, mùem pøejít k obchodu?}
 {989}{}{Jasnì. Pojïme obchodovat.}
-{990}{}{What kind of chems can I get in New Reno?}
+{990}{}{What kind of drugs can I get in New Reno?}
 {991}{}{Teï ne. Chci se ještì zeptat...}
-{992}{}{Actually, I'm not interested in any chems right now. I have to be going.}
+{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
 {1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE chem, the shit that'll let you FLY... Jet.}
+ make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
 {1006}{}{JAKİKOLIV. Mám vìci, po kterıch budeš nadrená, vlhká, zbavìj tì kocoviny, uklidnìj tì, zvıšej ti libido, budeš šastná, daj ti sílu, rozum... a samozøejmì mám i drogu, která ti umoní lítat... Jet.}
 {1008}{}{Odkud pochází Jet? Byl tu odjakiva?}
 {1025}{}{No... eh... Jet je odsud... z Rena. Není tady dlouho, ale je po nìm velká POPTÁVKA, jestli mi rozumíš. (Mrkne.) Totální hit mezi turisty, jako jseš ty.}
-{1026}{}{Well, I'm looking to buy some chems. Let's deal.}
+{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
 {1027}{}{Ale jak to, e je Jet odsud?}
 {1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making chems. He MADE Jet.}
+ natural when it comes to making drugs. He MADE Jet.}
 {1036}{}{Tak Myron, jo? Kde ho najdu?}
 {1045}{}{(Nakloní se k tobì.) No, nechce se mi zrovna mluvit o míò PØÍJEMNEJCH èástech New Rena, ale na sever od mìsta jsou Stáje. Je to tam tìce hlídanı Mordinovımi mui. Tam najdeš i Myrona.}
 {1046}{}{Stáje za mìstem?}
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes chems. Jet
- was his FINEST. Ain't seen anything so habit-forming in a long time. Turned Reno around, it did.}
+{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
+ was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
 {1056}{}{Myslíš, e by bylo moné se s tím Myronem setkat?}
 {1065}{}{(Jules se zastaví a prohlédne si tì od hlavy k patì.)}
 {1066}{}{Julesi? Haló? Ptala jsem se, jestli se mùu setkat s Myronem.}
@@ -288,10 +288,10 @@
 {1147}{}{Rozumím, ségro, rozumím. Jestli chceš to nejlepší, tak zajdi za mım kámošem Eldridgem do Obchodní ètvrti. Má bouchaèky, kterı zabijou èlovìka døív, ne tì vùbec UVIDÍ. Øekni mu, e tì posílám.}
 {1148}{}{Drahoušku, ty U jseš ïábelsky vyzbrojená svım tìlem. Ale jestli chceš víc, tak zajdi za mım kámošem Eldridgem do Obchodní ètvrti. Má bouchaèky, kterı zabijou èlovìka døív, ne tì vùbec UVIDÍ. Øekni mu, e tì posílám.}
 {1150}{}{Díky za radu. Myslím, e u pùjdu.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no chems
- from him, cause they ain't SAFE. He's got supplies all right, but if you want chems, talk to me.}
+{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
+ from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
 {1166}{}{Budu si to pamatovat. Poslyš, chci se ještì zeptat...}
-{1167}{}{His chems aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
 {1175}{}{Rozumím, brácho. Vìtšina TURISTÙ se jen projde po ulici Panen a nechaj si ho vykouøit od nìjakı lacinı kurvy, ale ty vypadáš na to, e máš docela úroveò, take zajdi do Koèièí Packy tady pøes ulici a øekni jim, e tì posílá Jules.}
 {1176}{}{Rozumím, ségro. Vìtšina TURISTEK se jen projde po ulici Panen a nechaj si ji vylízat od nìjakıho teplouše, ale ty vypadáš na to, e máš docela úroveò, take zajdi do Koèièí Packy tady pøes ulici a øekni jim, e tì posílá Jules.}
 {1177}{}{(Usmìje se a roztáhne ruce.) Dál u nehledej, má sladká sestøièko. Jules je ti k slubám!}
@@ -301,14 +301,14 @@
 {1190}{}{Myslíš Vault CITY, e jo? To je na severovıchod. Nemùeš ho minout, staèí sledovat vyjetı cesty od karavan.}
 {1191}{}{Dobøe. Poslyš, chci se ještì zeptat...}
 {1192}{}{Díky za radu, ale u musím jít.}
-{1200}{}{Garden of wha-? That some kind of chem? What does this "Garden thing" do? Get you high?}
+{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
 {1201}{}{Ne, to je... ale nic, to je jedno. Chci se zeptat na nìco jiného...}
 {1202}{}{To je jedno. Budu muset jít.}
 {1210}{}{O tom nic nevím, promiò. Nemohli to bejt otrokáøi?}
 {1211}{}{Moná. Chci se ještì zeptat...}
 {1220}{}{Coe?}
 {1221}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing chems. They got so much
+{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
  to live for without being given impure shit.}
 {1231}{}{Kdy u mluvíme o míchaném fetu, Renesco øíkal, e prodáváš Jet øíznutı arsenem.}
 {1232}{}{Co myslíš tím "míchaného fetu?"}

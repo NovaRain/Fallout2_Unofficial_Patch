@@ -559,7 +559,7 @@
 {659}{}{Carte de l'entrée secrète de l'Abri 15}
 {660}{}{Elizabeth}
 {661}{}{Porte}
-{662}{}{Griffemort}
+{662}{}{ Griffemort}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}

@@ -12,12 +12,12 @@
 {111}{}{Поискать в медицинской базе данных что-нибудь интересное.}
 {112}{}{Отключить терминал.}
 {113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, chems, and implants.}
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{Поискать в архивах упоминания о Генераторе Эдемских Кущ Компактном.}
 {115}{}{Поискать в медицинской базе данных что-нибудь интересное.}
 {116}{}{Отключить терминал.}
 {117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, chems, and implants.}
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{Поискать в архивах любые упоминания об Убежищах.}
 {119}{}{Поискать в медицинской базе данных что-нибудь интересное.}
 {120}{}{Отключить терминал.}

@@ -559,7 +559,7 @@
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
 {661}{}{Ajtó}
-{662}{}{Halálkarom}
+{662}{}{Halálkarom                                                        }
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}

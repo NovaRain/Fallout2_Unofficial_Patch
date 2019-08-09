@@ -64,7 +64,7 @@
 {460}{}{Robot}
 {461}{}{Kutya}
 {462}{}{Sáska}
-{463}{}{Halálkarom}
+{463}{}{Deathclaws}
 {464}{}{Növény}
 {465}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
 {466}{}{Ez a szám mutatja, hány nõt öltél meg a kalandozásaid során.}
@@ -192,7 +192,7 @@
 {1460}{}{Robot}
 {1461}{}{Kutya}
 {1462}{}{Sáska}
-{1463}{}{Halálkarom}
+{1463}{}{Deathclaws}
 {1464}{}{Növény}
 {1465}{}{Gekkó}
 {1466}{}{Idegen}

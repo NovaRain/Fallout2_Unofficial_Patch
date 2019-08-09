@@ -1,6 +1,6 @@
-{100}{}{Vedi un tossicodipendente.}
+{100}{}{You see a drug addict.}
 {101}{}{Vedi Petey.}
-{150}{}{Questo qui e' un povero tossicodipendente.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Petey sembra aver bisogno di aiuto.}
 {152}{}{[parla]}
 {155}{}{[cough, cough] Hai qualche spicciolo da dare a Petey?}

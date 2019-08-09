@@ -1,6 +1,6 @@
 {150}{}{Tu vois un homme vêtu d'habits froissés. Il se frotte le nez et lance des regards furtifs autour de lui.}
-{151}{}{You see a chem dealer.}
-{152}{}{You see a chem dealer. It looks like he's trolling for a customer.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{Hé, champion ! Tu veux fêter ta victoire avec du Jet ? Viens me voir !}
 {201}{}{Eh champion, t'as filé une bonne raclée à l'Enclave ! Tu veux fêter ça avec du Jet ?}
 {202}{}{::Acclamations::}

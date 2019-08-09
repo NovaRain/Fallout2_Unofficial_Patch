@@ -159,7 +159,7 @@
 {1140}{}{La tua reputazione e' sempre positiva. Senza questa Strenna, una pessima reputazione avrebbe un brutto effetto sui Buoni. Funziona anche al contrario. I Cattivi tratteranno persino il signor Anima Candida come uno della banda.}
 {1141}{}{Riesci a trovare piu' munizioni rispetto agli altri sopravvissuti post-olocausto. Questa Strenna raddoppia la quantita' di munizioni trovate negli incontri casuali.}
 {1142}{}{Lo scopo dell'Esploratore e' scoprire luoghi nuovi ed interessanti. Con questa Strenna hai una probabilita' maggiore di trovare luoghi e persone speciali.}
-{1143}{}{Con questa Strenna e' meno probabile che tu sviluppi dipendenza da droghe (50% in meno, numericamente parlando) e hai i tempi di recupero dimezzati rispetto alle persone normali.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Il Trova-Piste e' piu' bravo a trovare la via piu' breve. Ogni livello di questa Strenna riduce il tempo di percorrenza sulla Mappa del Mondo del 25%.}
 {1145}{}{Gli animali non attaccheranno un loro amico, a meno che non siano minacciati o attaccati per primi. Gli esperti si stanno ancora interrogando su cosa esattamente sia un animale, in questo mondo.}
 {1146}{}{Hai migliorato la tua capacita' di vedere luoghi lontani, aumentando di una casella il raggio d'esplorazione sulla Mappa del Mondo. Hai anche una maggiore probabilita' di fare incontri speciali.}

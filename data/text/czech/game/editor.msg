@@ -70,18 +70,18 @@
 {207}{}{Skvìlé}
 {208}{}{Skvìlé}
 {209}{}{Úasné}
-{300}{}{Hit body}
+{300}{editor}{Hit Points}
 {301}{}{Akèní body}
-{302}{}{Tøída zbroje}
+{302}{editor}{Armor Class}
 {303}{}{Boj beze zbranì}
 {304}{}{Boj zblízka}
 {305}{}{Odol. v. pošk.}
 {306}{}{Odol. v. jedu}
 {307}{}{Odol. v. radiaci}
-{308}{}{Postøeh}
-{309}{}{Rychlost uzdravování}
-{310}{}{Šance na kritickı zásah}
-{311}{}{Nosnost}
+{308}{editor}{Sequence}
+{309}{editor}{Healing Rate}
+{310}{editor}{Critical Chance}
+{311}{editor}{Carry Weight}
 {312}{}{Otrava}
 {313}{}{Ozáøení}
 {314}{}{Poškozenı zrak}
@@ -196,12 +196,12 @@
 {1102}{}{Tvé èiny z tebe udìlaly v oèích lidí šampióna. Tvùj boj se zlem a hanebností je všeobecnì známı. Èestní lidé si tì váí a uznávají tì.}
 {1103}{}{Co ti k tomu mám øíct? Zabíjíš nevinné a neozbrojené dìti. Chceš opravdu slyšet, co si o tobì myslíme?}
 {1104}{}{Umíš si dùkladnì vychutnat Nuka Colu, nealko nápoj postnukleárního svìta. Moná a moc dùkladnì. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1105}{}{You are reliant to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem reliant. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Máš menší problém s alkoholem. No, vlastnì je to spíš vìtší problém. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1110}{}{You have a chem reliant. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Víš o sexu všechno. Obzvláš pøedehra je tvou silnou stránkou. Víš, jak potìšit pøíslušníka opaèného pohlaví a vzbudit v nìm touhu si to s tebou zopakovat.}

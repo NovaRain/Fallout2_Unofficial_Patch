@@ -1,4 +1,4 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {110}{}{Tu vois une prostituée fidèle au Jet.}
 {111}{}{Tu vois une prostituée fidèle au Jet, c'est une des filles de Dodu.}
 {150}{}{On dirait un ami de Dodu.}

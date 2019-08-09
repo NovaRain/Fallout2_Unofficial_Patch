@@ -11,11 +11,13 @@
 {110}{}{Ricerca negli archivi notizie riguardanti il Kit di Creazione del Giardino dell'Eden.}
 {111}{}{Controlla il database medico in cerca di qualcosa di interessante.}
 {112}{}{Spegni il terminale.}
-{113}{}{Non trovi alcun riferimento ai Vault, nel database. Si tratta soprattutto di informazioni mediche relative ad anatomia, malattie conosciute, cure, medicine e innesti.}
+{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{Controlla gli archivi in cerca di qualsiasi riferimento al Kit di Creazione del Giardino dell'Eden.}
 {115}{}{Controlla il database medico in cerca di qualcosa di interessante.}
 {116}{}{Spegni il terminale.}
-{117}{}{Non trovi alcun riferimento al GECK, nel database. Si tratta soprattutto di informazioni mediche relative ad anatomia, malattie conosciute, cure, medicine e innesti.}
+{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{Controlla gli archivi in cerca di qualsiasi riferimento ai Vault.}
 {119}{}{Controlla il database medico in cerca di qualcosa di interessante.}
 {120}{}{Spegni il terminale.}

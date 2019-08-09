@@ -112,7 +112,7 @@
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Euh, je... En fait, je le cherche encore... Il se pointera sûrement un jour ou l'autre, pas vrai ? Au revoir.}
-{410}{}{Mangé par les geckos ? Impossible. Jamais ils attraperaient mon Souriant, il est trop bon chasseur pour ça. Il doit y avoir erreur.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Ouais, vous avez sans doute raison. Mes excuses pour la peur. Je peux vous demander quelque chose ?}
 {412}{}{Non, je l'ai vu, ou du moins ce qu'il en restait. Pas joli joli. Bon, à plus.}
 {413}{}{Ah, on peut rien vous cacher. Hé, hé, je vous mettais, hé, hé, en boîte. Ouais, c'est ça. Bon, au revoir.}

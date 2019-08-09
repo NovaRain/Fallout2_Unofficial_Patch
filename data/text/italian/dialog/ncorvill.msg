@@ -68,7 +68,7 @@
 {330}{}{(Ti studia per qualche istante.) D'accordo. Forse il tuo non far parte della famiglia potrebbe essere una cosa positiva. (L'espressione corrucciata scompare.) Hai dei figli?}
 {331}{}{Non che io sappia.}
 {332}{}{Non che io sappia. Ma credo che me ne ricorderei, se ne avessi.}
-{340}{}{Uno dei miei figli… Richard, il mio ragazzo, e' scomparso da poco. Overdose di droga. Jet.}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{Come posso aiutarti?}
 {342}{}{Uh… Non vedo proprio come io potrei es --}
 {350}{}{Voglio sapere quale spacciatore ha dato quella MERDA a Richard e l'ha costretto a prenderla. Ogni volta che mando i miei ragazzi a indagare, non riescono a scoprire nulla. Forse qualcuno che non ha il sangue degli Wright nelle vene potra' ottenere delle risposte.}
@@ -76,7 +76,7 @@
 {352}{}{Accetto l'incarico.}
 {353}{}{No, non e' nel mio stile. Sara' meglio che vada.}
 {360}{}{(Diventa rosso.) I miei ragazzi sono puliti, e sanno che devono starsene lontani da quella roba... altrimenti li ucciderei. Poi, di PUNTO IN BIANCO, Richie muore d'overdose. Qualcuno gli ha pompato dentro una tonnellata di Jet, talmente tanto da fargli uscire i fumi dal naso.}
-{361}{}{Beh… questo non significa che qualcuno sia il responsabile. Suo figlio potrebbe semplicemente averne preso troppo. Il Jet crea un'altissima dipendenza.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. Accetto l'incarico.}
 {370}{}{(Annuisce.) Bene. Adesso stammi a sentire: se trovi quel pezzo di merda che ha ucciso il mio ragazzo, non toccarlo... torna qui e DIMMI il nome del condannato a morte. (Gli occhi si infiammano.) Poi me ne occupero' IO.}
 {371}{}{Non abbiamo parlato del pagamento.}
@@ -84,7 +84,8 @@
 {373}{}{Trovare la persona che gli ha dato il Jet, non fargli del male, tornare qui a riferire. Ho capito.}
 {380}{}{Hai ragione. Non abbiamo parlato di soldi perche' tu non hai fatto nient'altro che PARLARE. Ti sto dando la possibilita' di dimostrare il tuo valore. Fa' quel che devi e non avrai bisogno di preoccuparti del denaro. Ti do la mia parola di Wright.}
 {383}{}{Lascio perdere, allora. Solo i pazzi lavorano gratuitamente. Me ne vado.}
-{390}{}{(Gli occhi si infiammano.) No… tutti hanno troppa paura per parlare... ad un Wright, almeno. Se fossi in te, "interrogherei" qualcuno degli spacciatori di Reno per vedere cosa sanno. Quel Jet dev'essere pur arrivato da QUALCHE parte.}
+{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Ha dei sospetti su un pusher in particolare?}
 {393}{}{Senta, questo tipo di lavoro non e' nel mio stile. Sara' meglio che vada.}
 {400}{}{Ancora tu. Hai scoperto chi ha ucciso mio figlio?}
@@ -111,8 +112,8 @@
  Ragazzi! Venite qui!}
 {447}{}{Ho capito.}
 {448}{}{Non sono la persona adatta per questo lavoro, Mr. Wright. Si cerchi qualcun altro.}
-{449}{}{'Fanculo questo lavoro, 'fanculo quel drogato di tuo figlio e 'fanculo tu. Io me ne vado.}
-{451}{}{Adesso BASTA! Non ne posso piu' delle tue stronzate. Adesso raggiungerai quel drogato di tuo figlio all'inferno.}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Esci subito di qui.}
 {465}{}{Capita che, non troppo tempo fa, io sia entrato in possesso di una mappa che indica la posizione di una vecchia base dell'esercito nelle montagne, non lontano da qui. Trova il modo per entrarci e io sapro' ricompensarti…}
 {466}{}{Okee Signor Orderville }
@@ -194,7 +195,9 @@
 {672}{}{Non so quale dei Salvatore sia stato. Renesco ha adulterato del Jet per loro, non sapendo che l'avrebbero usato per avvelenare suo figlio.}
 {673}{}{I don't know.}
 {680}{}{E perche' diavolo l'avrebbero fatto?}
-{681}{}{Per come la vedo io, i Mordino hanno il controllo del Jet a Reno. Di conseguenza, voi avreste accusato loro per l'overdose... e poi ci sarebbe stata una guerra. Nel remoto caso in cui non vi foste eliminati a vicenda, vi sareste comunque indeboliti entrambi. Questo avrebbe reso piu' facile la vita ai Salvatore... che a quel punto avrebbero dovuto guardarsi soltanto dai Bishop.}
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
+ be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
+ Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{Non lo so. Forse dovrebbe chiederlo a loro.}
 {690}{}{(Ti fissa per diversi istanti, poi una secca risata gli esce dalle labbra.) Tu mi dai una risposta e io non posso farci nulla. I Salvatore…che Dio li maledica. (Respira profondamente.)}
 {691}{}{Cosa c'e'?}

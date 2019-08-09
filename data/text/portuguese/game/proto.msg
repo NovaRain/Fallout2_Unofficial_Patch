@@ -64,7 +64,7 @@
 {460}{}{Robots}
 {461}{}{Cachorros}
 {462}{}{Manti}
-{463}{}{DeathClaws}
+{463}{}{Deathclaws}
 {464}{}{Plantas}
 {465}{}{Esta linha mostra o número de seres humanos masculinos que você matou durante o curso de suas aventuras.}
 {466}{}{Esta linha mostra o número de seres humanos do sexo feminino que você matou durante o curso de suas aventuras.}
@@ -192,7 +192,7 @@
 {1460}{}{Robots}
 {1461}{}{Cachorros}
 {1462}{}{Manti}
-{1463}{}{DeathClaws}
+{1463}{}{Deathclaws}
 {1464}{}{Plantas}
 {1465}{}{Geckos}
 {1466}{}{Aliens}

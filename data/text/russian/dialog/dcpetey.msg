@@ -1,6 +1,6 @@
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {101}{}{Вы видите Питти.}
-{150}{}{This here is a poor chem reliant.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Питти выглядит так, как будто ему очень нужна помощь.}
 {152}{}{[говорить]}
 {155}{}{[кха, кха] Есть мелочь для Питти?}

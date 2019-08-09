@@ -159,7 +159,7 @@
 {1140}{}{Twoja reputacja jawi siê zawsze pozytywnie. Zazwyczaj z³a reputacja dzia³a niekorzystnie na osoby o dobrym usposobieniu i przeciwnie, opinia dobroczyñcy zamknê³aby ci drzwi do serc szefów gangów. Z tym profitem robisz co chcesz, wszyscy i tak ciê polubi¹.}
 {1141}{}{Potrafisz znaleŸæ wiêcej amunicji ni¿ przeciêtny, ocala³y z atomowej zag³ady nieszczêœnik. Ten profit podwaja iloœæ amunicji znajdowan¹ przez ciebie w trakcie przypadkowych spotkañ.}
 {1142}{}{Misj¹ odkrywcy jest znajdywanie nowych, ciekawych miejsc. Z tym profitem rosn¹ twoje szanse na napotkanie szczególnie interesuj¹cych obiektów i osób.}
-{1143}{}{Dziêki temu profitowi ryzyko, ¿e uzale¿nisz siê od œrodków chemicznych jest o wiele ni¿sze (œciœle mówi¹c, o 50%), równie¿ czas trwania twojego odwyku jest o po³owê krótszy ni¿ w przypadku normalnego æpuna.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Pionier z ³atwoœci¹ wynajduje najkrótsze trasy. Dziêki temu przeciêtny czas twoich wêdrówek po mapie œwiata zmniejsza siê o 25% na ka¿dy poziom tego profitu.}
 {1145}{}{Zwierzêta nie wystêpuj¹ przeciw swoim przyjacio³om, chyba ¿e s¹ przez nich zagro¿one lub atakowane. Co dok³adnie jest zwierzêciem w tym œwiecie, pozostaje kwesti¹ otwart¹.}
 {1146}{}{£atwo dostrzegasz odleg³e miejsca, dziêki czemu wêdruj¹c po mapie œwiata odkrywasz o jeden sektor w ka¿dym kierunku wiêcej. Zwiêkszaj¹ siê tak¿e twoje szanse na specjalne spotkanie.}

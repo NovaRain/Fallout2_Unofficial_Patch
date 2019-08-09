@@ -64,7 +64,7 @@
 {413}{}{Widzisz coœ dobrego?}
 {414}{}{Nie ma tutaj zbyt wiele.}
 {415}{}{Tubby potrzebuje lepszych dostawców.}
-{416}{}{You need chems? Tubby is normally well stocked.}
+{416}{}{You need drugs? Tubby is normally well stocked.}
 {430}{}{Za co zgin¹³ Tubby?}
 {431}{}{Niewielka strata, ale Tubby mia³ jedyny prawdziwy sklep w tym mieœcie.}
 {432}{}{Co takiego zrobi³ ci Tubby, ¿e ciê tak zdenerwowa³?}
