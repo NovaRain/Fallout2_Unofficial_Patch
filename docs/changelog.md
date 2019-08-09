@@ -17,7 +17,7 @@
 - Arroyo:
   - Fixed Cameron not giving a second chance at training as promised.
 - Den:
-  - Made Anna' ghost invulnerable, also disabled stealing.
+  - Made Anna's ghost invulnerable, also disabled stealing.
 
 ### Version 4
 
