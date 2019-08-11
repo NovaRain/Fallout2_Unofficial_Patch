@@ -1,5 +1,6 @@
 ## Changelog
 
+- [Version 8](#version-8)
 - [Version 7](#version-7)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
