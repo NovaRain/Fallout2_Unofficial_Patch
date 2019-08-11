@@ -6,6 +6,12 @@
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
+### Version 8
+- General:
+  - Fixed party proto issue introduced in v7.
+- Modoc:
+  - Reverted Jonny's dialog faulty fix.
+
 ### Version 7
 
 - General:
