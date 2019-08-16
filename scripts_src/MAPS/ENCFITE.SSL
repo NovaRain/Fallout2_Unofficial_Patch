@@ -80,7 +80,8 @@ end
 
 procedure map_exit_p_proc begin
    if (global_var(GVAR_ENCLAVE_FRANK_DEAD) == 1) then begin
-      set_global_var(GVAR_ENCLAVE_FRANK_DEAD,2);
+      set_global_var(GVAR_ENCLAVE_FRANK_DEAD, 2);
+      set_global_var(GVAR_ENCLAVE_COUNTDOWN, 0);
       gfade_out(600);
       game_time_advance(ONE_GAME_DAY); //added by killap
       set_global_var(GVAR_ARROYO_RETURN_GECK,1);
