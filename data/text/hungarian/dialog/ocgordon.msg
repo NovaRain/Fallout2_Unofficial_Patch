@@ -20,7 +20,7 @@
 {119}{}{Én menni mostan.}
 {120}{}{Kinek van szentelve ez a szentély?}
 {121}{}{Mióta vagy itt?}
-{122}{}{What can you tell me about the Deathclaws?}
+{122}{}{Mit tudnál mondani a halálkarmokról?}
 {123}{}{Miért maradt itt?}
 {124}{}{Kösz, Gordon. Viszlát!}
 {125}{}{Ez a szentély egy ismeretlen hõsnek van szentelve, akit csak úgy ismertek, hogy Menedéklakó. Õ mentette meg az emberöltõkkel ezelõtt itt élt lakosokat. Nem tudjuk, mi lett a sorsa, de gondolatainkban és a szívünkben tovább él.}
@@ -36,20 +36,14 @@
 {135}{}{Maga nagyon elkötelezett ember. Feltehetek még néhány kérdést?}
 {136}{}{Az hosszú idõ. Válaszolna még néhány kérdésemre?}
 {137}{}{Úgy tékozolja el az életét, ahogy csak jól esik, jóember.}
-{138}{}{Then you were here when the Deathclaws took over?}
-{139}{}{No, my friend, I was not. I left a few months ago to visit the statue of the Vault Dweller
- erected in the central court of the NCR (the New California Republic east of here). When I returned to
- the vault, I found the Deathclaws were already here. Needless to say, I was in shock. However, I am
- convinced that they are not responsible for what happened to my fellow citizens. If, by chance, you
- want more information on this matter, you can seek out Goris in the library.}
+{138}{}{Itt volt már a halálkarmok beköltözésekor?}
+{139}{}{Nem, barátom, nem voltam. Néhány hónapja elindultam, hogy megnézzem a Menedéklakó szobrát, amit az ÚKK fõterén emeltek (Az Új Kaliforniai Köztársaság keletre van innen). Amikor visszaértem a Menedékbe, a halálkarmok már bevették magukat. Talán szükségtelen mondanom, mekkora sokk ért. Mindenesetre meg vagyok gyõzõdve arról, hogy nem õk a felelõsek azért, ami a polgártársaimmal történt. Ha esetleg több információra lenne szükséged ebben a tárgyban, megkeresheted Gorist a könyvtárban.}
 {140}{}{Oké, kösz.}
 {141}{}{Oké, viszlát!}
 {142}{}{Észben fogom tartani.}
 {143}{}{Nem kell elmondania, hova menjek, vagy kivel beszéljek!}
 {144}{}{Köszönet a segítségért. Bár lenne még néhány kérdésem.}
-{145}{}{I have lived with the Deathclaws for several months now. They seem to be honorable and
- forthright in their dealings with me and the other humans who live here. I trust them and, in time, I
- think you will as well.}
+{145}{}{Már több hónapja élek együtt a halálkarmokkal. Becsületesnek és õszintének tûnnek velem, és a többi itt élõ emberrel szintén. Én megbízom bennük, és azt hiszem, idõvel te is így fogsz tenni.}
 {146}{}{Ööö... Oké.}
 {147}{}{Hmm. Én mostan menek el.}
 {148}{}{Jelenleg inkább hagyom, hadd kétkedjenek.}
@@ -63,8 +57,7 @@
 {156}{}{Az elkötelezettsége csodálatra méltó.}
 {157}{}{Meglehetõsen durva és goromba alak vagy. Ha itt lenne velünk egy õr, talán lakatot tennél a nyelvedre.}
 {158}{}{Már korábban figyelmeztettelek, hogy nem tûröm a sértegetéseidet. Nyilvánvalóan magasról teszel az ilyesmire. (Gordon az ajtó felé néz) Õrség! A Szentélyhez, azonnal!}
-{159}{}{So you still choose to be an ass. (Gordon motions toward the Deathclaw guard) Guard, please take
- out the trash.}
+{159}{}{Szóval még mindig inkább seggként viselkedsz. (Gordon a halálkarom õr felé mozdul) Õr, vidd ki a szemetet.}
 {160}{}{Na, villantson szépen valamit... Egy szempillantás alatt szétrúgom a seggét!}
 {161}{}{Bocsánatot kérek, lakatot teszek a nyelvemre.}
 {162}{}{Elnézését kérem, Gordon. Kérem, bocsássa meg a kirohanásomat!}

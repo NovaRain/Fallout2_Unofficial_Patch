@@ -1,6 +1,6 @@
 {150}{}{Você vê um homem com roupas amassadas. Ele está esfregando o nariz e olhando furtivamente ao redor.}
-{151}{}{You see a drug dealer.}
-{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
+{151}{}{Você vê um traficante de drogas.}
+{152}{}{Você vê um vendedor de drogas. Parece estar procurando algum freguês.}
 {200}{}{Hey, herói! Você quer comemorar com um Jet? Fale comigo!}
 {201}{}{Chutou a bunda da Enclave fácil herói! Você quer celebrar chapando com um Jet?}
 {202}{}{::Assobios::}

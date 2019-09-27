@@ -1,1 +1,1 @@
-{100}{}{Halálkarom.}
+{100}{}{Egy Halálkarmot látsz.}

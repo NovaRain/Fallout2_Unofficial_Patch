@@ -37,5 +37,5 @@
 {600}{}{Je ne prends rien.}
 {601}{}{Utiliser un Stimpak dès que ça fait mal.}
 {602}{}{Utiliser un Stimpak quand ça fait très mal.}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Utiliser des stimulants de temps en temps.}
+{604}{}{Utiliser des stimulants régulièrement.}

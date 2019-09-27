@@ -28,7 +28,7 @@
 {127}{}{Mire való ez a sok gépezet?}
 {128}{}{Nem ez a Menedék felvigyázói terme?}
 {129}{}{Saját akaratodból vagy itt a Menedékben?}
-{130}{}{What do you think about the Deathclaws?}
+{130}{}{Mit gondolsz a halálkarmokról?}
 {131}{}{Kéne egy alkatrész a számítógépbe. Meg tudnád mondani, hol találom?}
 {132}{}{Azt hiszem, most megyek.}
 {133}{}{Hát... van néhány problémánk a gépekkel, és épp azokat vizsgálom. Sajnos a szoftverekhez jobban értek, mint a hardverekhez.}

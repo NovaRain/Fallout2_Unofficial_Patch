@@ -37,5 +37,5 @@
 {600}{}{Nada.}
 {601}{}{Stimpacks se estiver ferido}
 {602}{}{Stimpacks se estiver gravemente ferido}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Qualquer droga algumas vezes}
+{604}{}{Qualquer droga a qualquer momento}

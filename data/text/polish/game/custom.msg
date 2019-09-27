@@ -37,5 +37,5 @@
 {600}{}{Jestem czysty}
 {601}{}{Stimpaki, gdy trochê boli}
 {602}{}{Stimpaki, gdy bardzo boli}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Cokolwiek chcesz, raz na jakiœ czas}
+{604}{}{Cokolwiek chcesz, kiedy tylko mo¿esz}

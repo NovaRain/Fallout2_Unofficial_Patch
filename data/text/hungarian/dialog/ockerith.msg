@@ -1,6 +1,6 @@
-{100}{}{Halálkarom.}
-{101}{}{You see Kerith, the Deathclaw mother.}
-{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
+{100}{}{Egy Halálkarmot látsz.}
+{101}{}{Kerith, a Halálkarom anya.}
+{102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws. This one appears to be female but you cannot tell with any certainty. You notice the scars of several injuries on her torso.}
 {103}{}{Egy ember... Hm... furcsa, de nem kellemetlen látogató. Kerith vagyok.}
 {104}{}{Miben segíthetek?}
@@ -9,8 +9,8 @@
 {107}{}{Ajtó, kinéz, mint roncs. Mi történni?}
 {108}{}{Ki építeni fészek szoba?}
 {109}{}{Én menni mostan.}
-{110}{}{So, you are the Deathclaw mother?}
-{111}{}{Who is the Deathclaw father?}
+{110}{}{Szóval te vagy a Halálkarom anya?}
+{111}{}{Ki a Halálkarom apa?}
 {112}{}{Mi történt az ajtóval? Úgy tûnik, szebb napokat is megért már...}
 {113}{}{Ki építette ezt a költõszobát?}
 {114}{}{Most akkor távozok szépen.}

@@ -42,7 +42,7 @@
 {141}{}{Je vois. As-tu fabriqué quelque chose qui marche ?}
 {142}{}{J'aimerais passer un test.}
 {143}{}{C'est tout ce que je voulais savoir.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
+{144}{}{Bien sûr que oui, que crois-tu ?! T'as entendu parler des *Mentats* ? J'ai aidé à développer une méthode facile de production de masse de ce stimulant ! Et de beaucoup d'autres !}
 {145}{}{Très bien, très bien. Bon, j'aimerais confronter mes connaissances à celle du radscorpion.}
 {146}{}{Très bien, je te crois. Je vais m'en aller maintenant.}
 {147}{}{Comment... comment as-tu pu tuer mon radscorpion ? J'étais proche... si proche...}

@@ -37,5 +37,5 @@
 {600}{}{Nic neber}
 {601}{}{Stimpaky, kdykoliv máš zranìní}
 {602}{}{Stimpaky, když máš vážné zranìní}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Obèas si vezmi libovolnou drogu}
+{604}{}{Vezmi si, co chceš a kdy chceš}

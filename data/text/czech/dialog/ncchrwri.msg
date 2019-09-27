@@ -80,8 +80,7 @@
 {400}{}{Dost na to, aby to tady rozmlátila. A pak by nám nadávala a nìkolik dní bysme museli poslouchat to její kázání. Hehe. }
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Díky.}
-{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with drugs until he was dead.}
+{410}{}{Richard? Našli jsme ho mrtvıho ve škarpì jako nìjakıho feáka. Myslíme si, e ho nìkdo napumpoval drogama, dokud neumøel.}
 {411}{}{'Nìkdo' mu toho dal moc? Jak víš, e se nepøedávkoval SÁM?}
 {412}{}{Kdo myslíte, e to udìlal?}
 {413}{}{To je mi líto. Chci se ještì na nìco zeptat...}

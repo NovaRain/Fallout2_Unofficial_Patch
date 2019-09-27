@@ -70,18 +70,18 @@
 {207}{}{Skvìlé}
 {208}{}{Skvìlé}
 {209}{}{Úžasné}
-{300}{editor}{Hit Points}
+{300}{editor}{Hit body}
 {301}{}{Akèní body}
-{302}{editor}{Armor Class}
+{302}{editor}{Tøída zbroje}
 {303}{}{Boj beze zbranì}
 {304}{}{Boj zblízka}
 {305}{}{Odol. v. pošk.}
 {306}{}{Odol. v. jedu}
 {307}{}{Odol. v. radiaci}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{308}{editor}{Postøeh}
+{309}{editor}{Rychlost uzdravování}
+{310}{editor}{Šance na kritický zásah}
+{311}{editor}{Nosnost}
 {312}{}{Otrava}
 {313}{}{Ozáøení}
 {314}{}{Poškozený zrak}

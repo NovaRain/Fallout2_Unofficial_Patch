@@ -1,6 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
-{101}{}{You see Valdis, the Deathclaw.}
-{102}{}{Egy átlagos Halálkarom. Az állat óriási, erõs testû, és éles fogai, hosszú karmai vannak.}
+{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
+{101}{}{Valdis, a Halálkarom.}
+{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, erõs testtel, éles fogakkal és karmokkal felvértezve..}
 {103}{}{Üdvözöllek, ember!}
 {104}{}{Mivel szolgálhatok?}
 {105}{}{Te lenni ki?}
@@ -8,7 +8,7 @@
 {107}{}{Agy fáj. Én jönni vissza késõbb.}
 {108}{}{Helló, ki vagy te?}
 {109}{}{Mi a feladatod?}
-{110}{}{No offense to your fellow Deathclaws, but you sound more... educated, shall we say?}
+{110}{}{Nem bántani akarom a többi Halálkarmot, de te sokkal... tanultabbnak tûnsz, mondhatjuk így?}
 {111}{}{Csak múlatom az idõt...}
 {112}{}{Valdisnak hívnak. És téged?}
 {113}{}{Én ember.}

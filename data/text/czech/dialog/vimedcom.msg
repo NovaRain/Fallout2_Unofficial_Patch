@@ -11,13 +11,11 @@
 {110}{}{Hledat jakoukoliv zmínku o GECKu ve všech archívech.}
 {111}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
 {112}{}{Odhlásit se z terminálu.}
-{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, drugs, and implants.}
+{113}{}{Nenacházíš v databázi žádné informace o Vaultech. Vìtšina archívù obsahuje lékaøské informace týkající se anatomie, známých nemocí, ošetøení, lékù a implantátù.}
 {114}{}{Prohledat archívy: jakákoliv zmínka o GECKu.}
 {115}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
 {116}{}{Odhlásit se z terminálu.}
-{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, drugs, and implants.}
+{117}{}{Nenacházíš v databázi žádné informace o GECKu. Vìtšina archívù obsahuje lékaøské informace týkající se anatomie, známých nemocí, ošetøení, lékù a implantátù.}
 {118}{}{Prohledat archívy: jakákoliv zmínka o Vaultech.}
 {119}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
 {120}{}{Odhlásit se z terminálu.}

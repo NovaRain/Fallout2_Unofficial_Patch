@@ -1,16 +1,14 @@
-{100}{}{You see a large Deathclaw. The creature is composed of rippling muscle, sharp teeth, and claws.}
-{101}{}{You see Gruthar, leader of the Deathclaws.}
-{102}{}{You see the most impressive Deathclaw you could imagine. The creature must be unique among its
- kind.}
-{103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this Deathclaw pack.
- Why have you come here?}
+{100}{}{Ez egy jól megtermett halálkarom. A csupa izom lénynek éles fogai és karmai vannak.}
+{101}{}{Õ Gruthar, a halálkarmok vezére.}
+{102}{}{A lehetõ leglenyûgözõbb halálkaromhoz van szerencséd.}
+{103}{}{Ne félj tõlem, ember! Nem akarlak bántani. Gruthar vagyok, e halálkarom falka vezére. Miért jöttél ide?}
 {104}{}{Miért jöttél ide?}
 {105}{}{Öö...}
 {106}{}{Hogy szétrúgjam a segged! }
-{107}{}{How is it possible that a Deathclaw can talk... and so well?}
+{107}{}{Egy halálkarom hogy tud ilyen szépen beszélni?}
 {108}{}{Azt akarom tudni, mi történt az emberekkel, akik régen itt éltek.}
 {109}{}{Egy ÉLET nevû valamit keresek. Azt mondták, itt megtalálom.}
-{110}{}{I've been asked to eliminate a den of dangerous Deathclaws...}
+{110}{}{Megkértek, hogy irtsak ki egy barlangnyi veszélyes halálkarmot...}
 {111}{}{A helyi brahmin farmok elleni rablótámadások után nyomozok. Tudsz valamit ez ügyben?}
 {112}{}{Azt hiszem, megyek.}
 {113}{}{Ember, nem vagy te buta. Látom a szemedben az igazságot. Kérlek, ne próbálj megtéveszteni! Nincs türelmem ilyen játékokhoz.}
@@ -22,7 +20,7 @@
 {119}{}{Ja, persze, mi lenne, ha hagynád, hogy én döntsem el, mi helytálló és mi nem?}
 {120}{}{Igen, bizonyára. Rendben. Ha barátokként válunk el, ember, beszélhetnél Gorisszal. Neki több rálátása van a témára, mint nekem. Általában a Menedék könyvtárában találhatod meg õt.}
 {121}{}{Köszönöm. Alig várom, hogy találkozzak Gorisszal.}
-{122}{}{I have no intention of adding a Deathclaw to my list of friends. Bye!}
+{122}{}{Nem akarom a barátaim számát egy halálkarommal gyarapítani. Minden jót!}
 {123}{}{Rendben.}
 {124}{}{Elmentek, ember. Nem öltük meg õket és nem vettük el az otthonukat. Az nem a mi stílusunk. Megértem, hogy nem hiszel nekem, de remélem, hogy a cselekedeteim után ítélsz meg, és nem félelem vagy elfogultság alapján.}
 {125}{}{Hé, talán rájöttél, hogy szét tudom rúgni a segged?}
@@ -57,19 +55,15 @@
 {148}{}{Hmm... úgy látszik, elromlott a hangfelismerõ modul rajta. Nézzük meg!}
 {149}{}{Meggondoltam magam. Többet kell még róla gondolkodnom.}
 {150}{}{Megteszek neked mindent, amit tudok.}
-{151}{}{I refuse to help Deathclaws.}
+{151}{}{Eszemben nincs halálkarmoknak segíteni.}
 {152}{}{Kösz. A gép a menedék vezérlõtermében van, a 3. szinten. Ha meg tudod javítani, kérlek csináld meg! Bízom benned. Kérlek, ne hagyj cserben! Szívesen látott vendég vagy nálunk.}
 {153}{}{Nem hagylak cserben, Gruthar. Erre szavamat adom.}
 {154}{}{Kösz. Rajta leszek.}
 {155}{}{Megpróbálok felnõni a feladathoz...}
-{156}{}{I see... Well, Deathclaws are dangerous by nature and great care must be taken when encountering
- them in the wild. However, I am certain that you have noticed that we are an exception. My pack poses
- no threat to you or your human communities. We have evolved beyond our base cousins and wish simply to
- be left alone.}
+{156}{}{Értem... A halálkarmok természetüknél fogva veszélyesek, és vigyázni kell, ha az ember a vadonban találkozik velük. Akárhogy is, biztos vagyok benne, hogy észrevetted, mennyire eltérõek vagyunk. A falkám nem jelent veszélyt rád vagy más emberi közösségre. Mi a rokonaink fölé fejlõdtünk, és csak azt akarjuk, hogy békén hagyjanak minket.}
 {157}{}{Öhm... ja.}
-{158}{}{Your heightened intellect could make you even more of a threat than the average Deathclaw,
- Gruthar.}
-{159}{}{I can see that you are not the savage killers that Deathclaws are known to be.}
+{158}{}{A te fejlett intelligenciád nagyobb fenyegetést jelent, mint egy közönséges halálkarom, Gruthar.}
+{159}{}{Észrevettem, hogy ti nem azok a vérszomjas gyilkosok vagytok, aminek a halálkarmokat ismerik.}
 {160}{}{Hasonló kérdéseken elmélkedve már sok álmatlan éjszakát töltöttem el mélyen a gondolataimba merülve. Végül arra jutottam, hogy az intelligencia ajándékával járó terhek és felelõsségek felmérhetetlenek. A gondolkodó létforma számára csak két választás marad. Az egyik, hogy elfogadja az életet a saját valójában, és a legjobbat hozza ki belõle magának és másoknak, vagy kipusztul. Én az élet kihívásait választottam. Ha ezzel veszélyt jelentek az emberi fajnak, akkor nagyon tudom sajnálni a kis aggyal megáldott embereket, akik így gondolják...}
 {161}{}{Hát igen... nekem kicsi az agyam, de van egy NAGY puskám.}
 {162}{}{Ennél jobban nem is érthetnék veled egyet. Én nem gondolom, hogy veszélyes vagy, Gruthar.}
@@ -77,7 +71,7 @@
 {164}{}{(Gruthar pauses and seems to be carefully considering his response to you) I am sorry to say
  that I ordered the raids on the human lands. I am responsible for the lives of many here. We are
  running out of food, water, and other supplies. Until I can get the situation corrected, I need to take
- what I, a Deathclaw, cannot ask humans for.}
+ what I, a deathclaw, cannot ask humans for.}
 {165}{}{Igen, most már tudom a rajtaütések okát. Én meg csak megszüntetem!}
 {166}{}{Sajnálom, hogy ezt kell hallanom. Van valami mód, hogy segítsek és leállíthasd a rajtaütéseket?}
 {167}{}{Eleget hallottam. Idõre van szükségem, hogy gondolkodjak.}
@@ -121,7 +115,7 @@
 {204}{}{}
 {205}{}{Nincs nekem bajom veled, ember, és nem is akarom, hogy legyen. Tárgyaljunk civilizáltan! Kérlek, viszonozd a jóindulatomat!}
 {206}{}{Rendben, beszélj!}
-{207}{}{You're a Deathclaw and that means a death sentence... for you, that is!}
+{207}{}{Halálkarom vagy és ez halálos ítélet a számodra... bizonyám...}
 {208}{}{Bocsánat, Gruthar. Beszélgessünk!}
 {209}{}{Whatever. I'm gone.}
 {210}{}{Nem. Én vagyok itt a vezetõ, tehát én döntök. Ha nem tetszik, mehetsz vissza az emberek közé.}

@@ -1,6 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
-{101}{}{You see Thearn, the Deathclaw.}
-{102}{}{Egy átlagos Halálkarom. Az állat óriási, erõs testû, és éles fogai, hosszú karmai vannak.}
+{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
+{101}{}{Thearn, a Halálkarmok egyike.}
+{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, erõs testtel, éles fogakkal és karmokkal felvértezve..}
 {103}{}{Bocsássad meg! Nem beszél én rendesen. Azér próbálom meg.}
 {104}{}{Mit akarol?}
 {105}{}{Te ki?}
@@ -26,7 +26,7 @@
 {125}{}{Kiváló munkát végzel!}
 {126}{}{Õrnek nevezed magad? Haha!}
 {127}{}{És mi ellen véded a hallt?}
-{128}{}{Intruder. Human, Deathclaw, whatever. Pack threatened, I attack.}
+{128}{}{Betolakodók. Ember, Halálkarom, bármi. Ha falka támadják meg, én küzd.}
 {129}{}{Ah.}
 {130}{}{Értem.}
 {131}{}{Meg lennék lepve, ha lenne annyi eszed, hogy megállapítsd barát, vagy ellenség jön-e.}

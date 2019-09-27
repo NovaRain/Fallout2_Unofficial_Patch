@@ -70,18 +70,18 @@
 {207}{}{Kiváló}
 {208}{}{Tuti}
 {209}{}{Hõsies}
-{300}{editor}{Hit Points}
+{300}{editor}{Életpont}
 {301}{}{Akciópont}
-{302}{editor}{Armor Class}
+{302}{editor}{Védelmi érték}
 {303}{}{Pusztakezes sebzés}
 {304}{}{Közelharci sebzés}
 {305}{}{Sebzésell.}
 {306}{}{Méregellenállás}
 {307}{}{Sugárzás-ell.}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{308}{editor}{Reakció}
+{309}{editor}{Regenerálódás}
+{310}{editor}{Kritikus esélye}
+{311}{editor}{Teherbírás}
 {312}{}{Mérgezés}
 {313}{}{Sugárfertõzés}
 {314}{}{Szemsérülés}

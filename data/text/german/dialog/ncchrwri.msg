@@ -80,8 +80,7 @@
 {400}{}{Wahrscheinlich genug, um den ganzen Laden auseinanderzunehmen... mindestens. Dann würde sie und allen 'ne Rede halten und eine tagelange Predigt. Ha.}
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Danke. }
-{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with drugs until he was dead.}
+{410}{}{Richard? Tja, weißt du, man hat ihn gefunden wie einen dieser Drogentoten, in der Gosse. Soweit wir es uns erklären können, hat ihn jemand so lange mit Drogen vollgepumpt, bis er tot war.}
 {411}{}{"Jemand" hat ihm zuviel gegeben? Woher willst du wissen, daß er nicht SELBST eine Überdosis genommen hat?}
 {412}{}{Wer, glaubst du, könnte das getan haben?}
 {413}{}{Hm, sehr bedauerlich. Ich hätte da noch ein paar weitere Fragen...}

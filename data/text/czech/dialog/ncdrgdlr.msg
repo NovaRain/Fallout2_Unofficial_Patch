@@ -1,6 +1,6 @@
 {150}{}{Vidíš chlapíka v pomaèkaném obleèení. Mne si nos a nenápadnì se rozhlíží kolem.}
 {151}{}{You see a drug dealer.}
-{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
+{152}{}{Vidíš drogového dealera. Vypadá to, že èeká na zákazníka.}
 {200}{}{Nazdar, hrdino! Nechceš oslavit svoje vítìzství nad Enklávou trochou toho nejlepšího Jetu? Jsem tvùj èlovìk!}
 {201}{}{Takhle se Enklávì nakopává prdel, hrdino! Nechceš toho zachraòování svìta na chvíli nechat a oslavit to trochou Jetu?}
 {202}{}{::Fandí::}

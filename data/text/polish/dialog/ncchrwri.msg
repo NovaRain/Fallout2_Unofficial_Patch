@@ -36,7 +36,7 @@
 {280}{}{Wcale. Do widzenia.}
 {290}{}{Nie wiesz kim jest rodzina Wrightów? Pierwszy raz w mieœcie, czy zbyt d³ugo na pustyni? Wrightowie to najwiêksza rodzina przestêpcza w Reno. Nied³ugo bêdziemy rz¹dziæ tym miastem.}
 {291}{}{Serio? Wygl¹da na to, ¿e macie wszystkie asy w rêkawie. Mo¿e przyda wam siê ktoœ taki jak ja?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
+{292}{}{Prawdê mówi¹c, odnoszê wra¿enie, ¿e to jedna z najs³abszych rodzin... No wiesz, zajmujecie siê wy³¹cznie alkoholem, nie macie kasyna, nie handlujecie prochami. No i nie jesteœcie zbyt liczni, w porównaniu z innymi rodzinami.}
 {293}{}{Skoro o rodzinie mowa, znam twoj¹ mamê.}
 {295}{}{Naprawdê? To bardzo ciekawe... s³uchaj, muszê ju¿ iœæ.}
 {296}{}{Wrightowie to najwiêksza rodzina przestêpcza w Reno. Nied³ugo bêdziemy rz¹dziæ tym miastem.}
@@ -80,8 +80,7 @@
 {400}{}{Na tyle, ¿eby rozwaliæ to wszystko w drobny mak... co najmniej. Potem zabra³aby siê za nas - kazaniom nie by³o by koñca. He he he.}
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Dziêki.}
-{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with drugs until he was dead.}
+{410}{}{Richard? No wiesz, znaleŸli go martwego w rynsztoku, jak jednego z tych pieprzonych æpunów. Wszystko wskazuje na to, ¿e ktoœ szprycowa³ go prochami, dopóki biedak nie przesta³ oddychaæ.}
 {411}{}{'Ktoœ' szprycowa³ go prochami? Sk¹d pewnoœæ, ¿e to on sam nie przedawkowa³ przypadkiem?}
 {412}{}{Jak myœlisz, kto to móg³ zrobiæ?}
 {413}{}{Przykro to s³yszeæ. Mam jeszcze kilka pytañ...}
@@ -110,7 +109,7 @@
 {486}{}{Hej, psze pani, dziêkujê.}
 {487}{}{ Jeœli dowiesz siê kto za³atwi³ mojego brata, ca³a rodzina Wrightów bêdzie ci wdziêczna. A to nie jest ma³o, kapujesz?}
 {488}{}{Rozumiem. Pogadamy póŸniej, Chris.}
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules przy wejœciu do miasta te¿ sprzedaje Jet, ale g³ównie turystom... No i Ma³y Jesus Mordino móg³ spróbowaæ takiego numeru. Przesiaduje zwykle w Desperado.}
 {497}{}{Szramiasty Jimmy J, Renesco Rakieciarz, Jules i Ma³y Jesus... Pogadam z nimi. Dziêki za informacje, Chris.}
 {1200}{}{! Dobra robota z t¹ Enklaw¹!}
 {1201}{}{! Rz¹dzisz!}

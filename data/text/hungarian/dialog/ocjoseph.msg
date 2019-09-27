@@ -29,19 +29,16 @@
 {128}{}{Én menni mostan.}
 {129}{}{Rab vagy?}
 {130}{}{Bármikor távozhatsz?}
-{131}{}{What can you tell me about the Deathclaws?}
+{131}{}{Mit tudnál mondani a halálkarmokról?}
 {132}{}{Hogy kerültél ide?}
 {133}{}{Kösz az infót. Most már megyek.}
-{134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
- some of my patients are Deathclaws.}
+{134}{}{Nem, nem vagyok rab. Azért maradtam, mert szükség van rám. Már megszoktam, hogy pár betegem halálkarom.}
 {135}{}{Oké. Még kérdezni.}
 {136}{}{Kösz. Viszlát!}
 {137}{}{Ez nagyon rendes tõled.}
 {138}{}{Értem.}
 {139}{}{Nem értek egyet, de végül is a te életed.}
-{140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
- stopped. I used to wonder if the Deathclaws were secretly following me and whether or not they would
- stop me if I tried to leave. So one day I put the theory to test.}
+{140}{}{Igen, és gyakran meg is teszem. Idõrõl-idõre ki kell mennem néhány gyógyfüvet szedni, és még sosem akadályoztak meg ebben. Idõnként elgondolkoztam, követnek-e a halálkarmok, és ha megpróbálnék elszökni, vajon megakadályoznák-e. Egy nap kipróbáltam a gyakorlatban.}
 {141}{}{Én érteni. Menni mostan.}
 {142}{}{Kell még kérdés.}
 {143}{}{Ez elég nagy butaság volt, szerencsés vagy, hogy még élsz.}
@@ -61,14 +58,6 @@
 {157}{}{Érdekes.}
 {158}{}{Nem segítek a magadfajtának. Eredj innen!}
 {159}{}{Elutaztam egy másik városba, és mielõtt eljöttem volna, legalább egy hétig maradtam. Amikor visszatértem, tárt karokkal üdvözöltek. Gruthar, a falka vezetõje, személyesen köszönte meg a visszatérésemet. Teljesen a saját akaratomból vagyok itt.}
-{160}{}{Although they do not have vocal chords, the Deathclaws seem to mimic human speech much the same
- as a parrot does. I have yet to discover the exact mechanism behind this, so I am unable to say more at
- this time. Socially, they are pack animals with a very rigid code of ethics. They are led by an 'alpha
- male' who rules with the mutual consent of the pack. They appear to be extremely loyal to the pack as a
- whole, treating it as a family unit rather than having individual families as humans do.}
+{160}{}{A halálkarmoknak nincsenek hangszálaik, mégis képesek utánozni a beszédet, nagyjából egy papagáj módjára. A pontos mûködést még meg kell vizsgálnom, így errõl nem szolgálhatok több információval. Társadalmi szempontból csoportosan élõ állatok, nagyon, de nagyon szigorú viselkedésformákkal. A falka kölcsönös beleegyezésével egy ún. "alfa hím" vezeti õket. Elképesztõen hûek a falkához, inkább családként kezelik, minthogy emberi mintára különálló családjaik lennének.}
 {161}{}{A jó és rossz iránti érzékük nagyon fejlett. Szigorú erkölcsi kódex szerint élnek, amit az egész falka betart. Sosem oldják meg problémáikat erõszakkal, legalábbis én még nem láttam rá példát. Itt nem követnek el 'fõbenjáró bûnöket', tehát nem tudom, hogy kezelik az ilyesmit. Hmmm... Ez minden, ami eszembe jutott. Remélem, a hasznodra válik.}
-{162}{}{I answered that I respected all life and would do my best to heal the injured, regardless of who
- or what they were. I thought it was some thief or raider who had gotten himself hurt and needed
- a doctor. You can't begin to imagine my surprise when a couple of Deathclaws stepped out of the
- night with an injured companion. Somebody had shot him up real good. I told them I couldn't work on him
- where we were, so they blindfolded me and brought me here. I've been here from that day forward.}
+{162}{}{Azt válaszoltam, hogy mindenféle életet tisztelek, és mindent megtennék, hogy meggyógyítsam a sérültet, függetlenül attól, kirõl vagy mirõl van szó. Azt hittem, hogy valami tolvaj vagy fosztogató, aki megsérült és orvosra van szüksége. Képzelheted, hogy meglepõdtem, amikor néhány halálkarom lépett elõ a sötétbõl az egyik sérült társukkal. Valaki nagyon csúnyán meglõtte. Megmondtam nekik, hogy helyben nem tudok mit tenni vele, tehát bekötötték a szemem és idevezettek. Azóta élek itt.}

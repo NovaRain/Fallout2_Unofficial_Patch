@@ -11,13 +11,11 @@
 {110}{}{Poszukaj w archiwach jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
 {111}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {112}{}{Wyloguj siê z terminala.}
-{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, drugs, and implants.}
+{113}{}{W bazie tej nie znajdujesz ¿adnych wzmianek na temat Krypt. S¹ tam g³ównie informacje medyczne dotycz¹ce anatomii, znanych chorób, leczenia, leków i implantów.}
 {114}{}{Poszukaj w archiwum jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
 {115}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {116}{}{Wyloguj siê z terminala.}
-{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, drugs, and implants.}
+{117}{}{W bazie tej nie znajdujesz ¿adnych wzmianek na temat GECKa. S¹ tam g³ównie informacje medyczne dotycz¹ce anatomii, znanych chorób, leczenia, leków i implantów.}
 {118}{}{Poszukaj w archiwum lokalizacji ró¿nych Krypt.}
 {119}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {120}{}{Wyloguj siê z terminala.}

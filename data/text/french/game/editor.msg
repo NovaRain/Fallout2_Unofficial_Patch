@@ -70,18 +70,18 @@
 {207}{}{Super}
 {208}{}{Exclt}
 {209}{}{Héros}
-{300}{editor}{Hit Points}
+{300}{editor}{PI}
 {301}{}{Points d'action}
-{302}{editor}{Armor Class}
+{302}{editor}{Classe d'armure}
 {303}{}{Dégâts en Corps à Corps}
 {304}{}{Dégâts en Rixe}
 {305}{}{Rés. dégâts}
 {306}{}{Rés. poison}
 {307}{}{Rés. radiations}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{308}{editor}{Séquence}
+{309}{editor}{Vit. guérison}
+{310}{editor}{Coups critiques}
+{311}{editor}{Charge max.}
 {312}{}{Empoisonnement}
 {313}{}{Irradiation}
 {314}{}{Blessure à l'oeil }

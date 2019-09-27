@@ -1617,7 +1617,7 @@
 {6211}{}{Alcuni cacciatori di taglie.}
 {6212}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {6213}{}{Resti dell'Esercito del Master.}
-{6214}{}{Un branco di Deathclaw.}
+{6214}{}{Un branco di deathclaw.}
 {6215}{}{Uno sciame di mantidi.}
 {6216}{}{I resti di una balena.}
 {6217}{}{Una testa di pietra gigante.}
@@ -1629,7 +1629,7 @@
 {6223}{}{Il Caffe' dei Sogni Infranti.}
 {6250}{}{Una pattuglia dell'Enclave.}
 {6251}{}{Resti dell'Esercito del Master.}
-{6252}{}{Un branco di Deathclaw.}
+{6252}{}{Un branco di deathclaw.}
 {6253}{}{Uno sciame di mantidi.}
 {6254}{}{Alcuni cacciatori di taglie.}
 {6255}{}{Alcuni cacciatori di taglie.}

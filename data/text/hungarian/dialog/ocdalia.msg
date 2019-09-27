@@ -20,7 +20,7 @@
 {119}{}{Kösz. Én menni.}
 {120}{}{Rab vagy?}
 {121}{}{Bármikor elmehetsz innen?}
-{122}{}{What can you tell me about the Deathclaws?}
+{122}{}{Mit tudnál mondani a halálkarmokról?}
 {123}{}{Hogyan kerültél ide?}
 {124}{}{Miért gondolod, hogy kell egy biztonságos hely?}
 {125}{}{Kösz. Majd késõbb beszélünk.}
@@ -52,9 +52,5 @@
 {151}{}{Üdv! Hogy s mint?}
 {152}{}{Nincs köztünk nézeteltérés.}
 {153}{}{? Remélem, minden úgy alakult, ahogy a földfoglalóknál eltervezted.}
-{154}{}{So, I sneak up on this camp site and there are these two Deathclaws sitting around the fire just
- chatting away. Idiot that I am, I let out a little cry of surprise, jumped up, and turned to run -- right
- into the arms of another Deathclaw standing right behind me. Anyway, to make a long story short, it
- took awhile for me to realize that I wasn't about to be put on a spit and barbecued. Instead, I was
- brought here and 'interviewed' by Gruthar. Now I can live here if I want.}
+{154}{}{Nos, miután belopakodtam a táborba, megláttam, hogy két Halálkarom ül a ropogó tûz mellett. Akkora idióta voltam, hogy felnyögtem ijedtemben, aztán felugrottam, és gyors hátraarccal futásnak eredtem... egyenesen a mögöttem álló Halálkarom kezei közé. Rövidre fogva: eltartott egy darabig, mire felfogtam, hogy nem vagyok szétszabdalva, péppé zúzva. Helyette idehoztak, ahol Gruthar kikérdezett. Most már itt élhetek, ha akarok.}
 {155}{}{. Nagy kõ esett le a szívemrõl.}

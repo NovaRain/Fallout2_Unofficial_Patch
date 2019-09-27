@@ -8,4 +8,4 @@
 {107}{}{Nézd! Ez}
 {108}{}{. Mi megy.}
 {109}{}{Furcsa. Rossz dolgok beszélni?}
-{110}{}{Talking Deathclaws? That's weird...}
+{110}{}{Beszélõ Halálkarmok. Ez furcsa...}

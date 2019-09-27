@@ -1,6 +1,6 @@
-{100}{}{Vedi un Deathclaw. Ti guarda con degli occhi stranamente intelligenti.}
+{100}{}{Vedi un deathclaw. Ti guarda con occhi dall'aspetto stranamente intelligente.}
 {101}{}{Vedi Jul, il Deathclaw.}
-{102}{}{Vedi un tipico Deathclaw. La creatura e' enorme, con un corpo possente, denti aguzzi, e lunghi artigli.}
+{102}{}{Vedi un tipico deathclaw. Questa creatura e' grossa, con un corpo possente, denti affilati e lunghi artigli.}
 {103}{}{Ferma. Tu no va qui. Questo posto essere vietato.}
 {104}{}{Okay. Me va via.}
 {105}{}{Cosa essere questo posto?}

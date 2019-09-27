@@ -64,7 +64,7 @@
 {413}{}{Vidíš nìco dobrýho?}
 {414}{}{Nic moc.}
 {415}{}{Tubby by potøeboval nìjaký lepší dodavatele.}
-{416}{}{You need drugs? Tubby is normally well stocked.}
+{416}{}{Potøebuješ drogy? Tubby má vždycky dobrý zásoby.}
 {430}{}{Kvùli èemu jsi zabil Tubbyho?}
 {431}{}{Žádná velká ztráta, ale Tubby vedl jedinej opravdovej obchod ve mìstì.}
 {432}{}{Èím tì Tubby tak nasral?}

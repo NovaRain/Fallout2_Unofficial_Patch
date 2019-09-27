@@ -70,18 +70,18 @@
 {207}{}{Genial}
 {208}{}{Exclnt}
 {209}{}{Heróico}
-{300}{editor}{Hit Points}
+{300}{editor}{Puntos de Salud}
 {301}{}{Ptos acción}
-{302}{editor}{Armor Class}
+{302}{editor}{Clase de armadura}
 {303}{}{Daño desarmado}
 {304}{}{Daño melee}
 {305}{}{Resist daño}
 {306}{}{Resis veneno}
 {307}{}{Resis radiación}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{308}{editor}{Capacidad de reacción}
+{309}{editor}{Ritmo de curación}
+{310}{editor}{Posibilidad de críticos}
+{311}{editor}{Peso máximo soportado}
 {312}{}{Envenenado}
 {313}{}{Irradiado}
 {314}{}{Ojo dañado}

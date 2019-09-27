@@ -68,7 +68,7 @@
 {330}{}{(Przygl¹da ci siê przez chwilê) No dobrze. To, ¿e nie nale¿ysz do rodziny, mo¿e siê nawet przydaæ. (Grymas blednie) Masz dzieci?}
 {331}{}{Z tego, co wiem, to nie.}
 {332}{}{Z tego, co wiem, to nie. Nie mam a¿ tak dziurawej pamiêci.}
-{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
+{340}{}{Jeden z moich synów... mój ch³opiec, Richard, niedawno odszed³. Przedawkowanie prochów. Jet.}
 {341}{}{Jak mogê pomóc?}
 {342}{}{Uch... naprawdê nie wiem, jak mog...}
 {350}{}{Chcê wiedzieæ, który dealer da³ Richardowi to GÓWNO i zmusi³ go, ¿eby je za¿y³. Moi ch³opcy wracaj¹ z niczym, zawsze gdy ich wysy³am, by siê czegoœ dowiedzieli. Mo¿e ktoœ, kto nie jest Wrightem, da³by radê coœ wskóraæ.}
@@ -76,7 +76,7 @@
 {352}{}{Wezmê tê robotê.}
 {353}{}{Nie, ta robota nie jest w moim stylu. Lepiej ju¿ pójdê.}
 {360}{}{(Jego twarz robi siê czerwona) Moi ch³opcy s¹ czyœci i dobrze wiedz¹, ¿eby siê trzymaæ z dala od tego gówna, bo inaczej ich zabijê. A¿ tu NAGLE Richie zostaje œ.p.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
+{361}{}{No tak... ale to nie znaczy, ¿e ktoœ inny ponosi odpowiedzialnoœæ. Twój syn móg³ wzi¹æ za du¿o. Jet bardzo silnie uzale¿nia.}
 {362}{}{Hmmm. Wezmê tê robotê.}
 {370}{}{(Kiwa g³ow¹) W porz¹dku. A teraz s³uchaj: jak znajdziesz tego skurwysyna, który zabi³ mojego ch³opca, to go nie zabijaj... po prostu wróæ tu i PODAJ mi imiê tego trupa. (P³omieñ w oczach) JU¯ JA siê nim zajmê.}
 {371}{}{Nie przedyskutowaliœmy jeszcze zap³aty.}
@@ -84,8 +84,7 @@
 {373}{}{ZnaleŸæ osobê, która da³a mu Jet, ale nie skrzywdziæ jej, tylko wróciæ tu i powiedzieæ. Rozumiem.}
 {380}{}{Racja, nie przedyskutowaliœmy zap³aty, bo nic TYLKO gadasz. Pozwalam ci dowieœæ swojej wartoœci. Wykonaj swoj¹ robotê, a nie bêdzie trzeba siê martwiæ o pieni¹dze. Masz na to s³owo Wrighta.}
 {383}{}{A wiêc zapomnij o tym. Tylko g³upcy pracuj¹ za darmo. Spadam st¹d.}
-{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
- drug pushers, see what they know. That Jet came from SOMEWHERE.}
+{390}{}{(P³omieñ w oczach) Nie... wszyscy siê zbyt boj¹, ¿eby gadaæ... w ka¿dym razie z Wrightem. Na twoim miejscu "przes³ucha³bym" paru dostawców prochów z Reno, zobaczy³bym, co wiedz¹. Ten Jet SK¥DŒ pochodzi.}
 {391}{}{Czy podejrzewasz któregoœ z dostawców?}
 {393}{}{Wiesz co, ta robota jest nie w moim stylu. Lepiej ju¿ pójdê.}
 {400}{}{Znowu ty. Wiesz ju¿, kto zabi³ mojego ch³opca?}
@@ -111,8 +110,8 @@
 {446}{}{Jeœli ci siê wydaje, ¿e mo¿esz ze mnie robiæ g³upka, to siê œmiertelnie mylisz. Mam DOSYÆ tego twojego kitu. (Zaczyna krzyczeæ) Ch³opcy! ChodŸcie tu!}
 {447}{}{Zrozumiano.}
 {448}{}{Nie nadajê siê do tej roboty panie Wright. Proszê znaleŸæ sobie kogoœ innego.}
-{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
+{449}{}{Jebaæ tê robotê, jebaæ twojego æpaj¹cego synka i ty te¿ idŸ siê jebaæ. Spadam st¹d.}
+{451}{}{DOŒÆ! Mam ju¿ po dziurki w nosie tych twoich bzdur. Zaraz do³¹czysz do swojego æpaj¹cego synka w piekle.}
 {453}{}{Wynoœ siê st¹d.}
 {465}{}{Tak siê sk³ada, ¿e niedawno natrafi³em na mapê wskazuj¹c¹ na istnienie starej bazy wojskowej w górach, niedaleko st¹d. Dostaniesz siê tam i zajmiesz siê wszystkim...}
 {466}{}{W porz¹siu panie Orderville.}
@@ -193,9 +192,7 @@
 {672}{}{Nie wiem, który z Salvatore to zrobi³. Renesco przyrz¹dzi³ dla nich trochê Jetu nie wiedz¹c, ¿e zostanie u¿yty, by otruæ twego syna.}
 {673}{}{Nie wiem.}
 {680}{}{No i po co do licha mieliby to robiæ?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
- be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
- Salvatores... all they have to worry about then is the Bishops.}
+{681}{}{Tak, jak ja to widzê, Mordino maj¹ kontrolê nad Jetem w Reno. Oczywiœcie obwinia³byœ ich za przedawkowanie narkotyku... a potem wybuch³aby wojna. GDYBY nawet jedna rodzina nie wykosi³a drugiej, bylibyœcie przynajmniej os³abieni walk¹. To by u³atwi³o ¿ycie Salvatore... musieliby siê ju¿ wtedy martwiæ tylko Bishopami.}
 {682}{}{Nie wiem. Mo¿e powinieneœ ich o to zapytaæ.}
 {690}{}{(Gapi siê na ciebie przez d³u¿szy czas, a¿ w koñcu wymyka mu siê z ust suche westchnienie) Dajesz mi odpowiedŸ, a ja nie mogê z ni¹ nic zrobiæ. Salvatore... szlag by to trafi³. (Bierze g³êboki oddech)}
 {691}{}{Coœ nie tak?}

@@ -1,6 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
-{101}{}{You see Jul, the Deathclaw.}
-{102}{}{Egy átlagos Halálkarom. Az állat óriási, erõs testû, és éles fogai, hosszú karmai vannak.}
+{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
+{101}{}{Jul, a Halálkarmok egyike.}
+{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, erõs testtel, éles fogakkal és karmokkal felvértezve..}
 {103}{}{Állsz! Nem mégy ide! Ez hely itten határ!}
 {104}{}{Okés. Elmegyek.}
 {105}{}{Mi lenni ez hely?}

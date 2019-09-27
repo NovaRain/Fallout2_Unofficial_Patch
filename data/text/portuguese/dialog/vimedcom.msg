@@ -12,13 +12,13 @@ e os dados parecem estar severamente danificados.}
 {110}{}{Pesquisar por arquivos que mencionam a GECK.}
 {111}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
 {112}{}{Deslogar do terminal.}
-{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, drugs, and implants.}
+{113}{}{Você não encontrou nenhuma mensão sobre as Vaults na base de dados.
+Tem apenas informações médicas relatando anatomia, doenças conhecidas, tratamentos, remédios e implantes.}
 {114}{}{Pesquisar por arquivos que mencionam a GECK.}
 {115}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
 {116}{}{Deslogar do terminal.}
-{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, drugs, and implants.}
+{117}{}{Você não encontrou nenhuma mensão sobre as Vaults na base de dados.
+Tem apenas informações médicas relatando anatomia, doenças conhecidas, tratamentos, remédios e implantes.}
 {118}{}{Pesquisar arquivos de localização das Vaults.}
 {119}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
 {120}{}{Deslogar do terminal.}

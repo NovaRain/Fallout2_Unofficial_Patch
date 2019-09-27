@@ -39,9 +39,7 @@
 {290}{}{You ain't heard of Family Wright? You musta been out in the desert too long. Family Wright
  is the biggest crime family in Reno. We're gonna rule this city.}
 {291}{}{Serio? Wygl¹da na to, ¿e macie wszystkie asy w rêkawie. Mo¿e przyda wam siê ktoœ taki jak ja?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
- other families.}
+{292}{}{Prawdê mówi¹c, odnoszê wra¿enie, ¿e to jedna z najs³abszych rodzin... No wiesz, zajmujecie siê wy³¹cznie alkoholem, nie macie kasyna, nie handlujecie prochami. No i nie jesteœcie zbyt liczni, w porównaniu z innymi rodzinami.}
 {293}{}{Skoro o rodzinie mowa, znam twoj¹ mamê.}
 {294}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
 {295}{}{Naprawdê? To bardzo ciekawe... s³uchaj, muszê ju¿ iœæ.}
@@ -131,8 +129,7 @@
 {486}{}{Hey, lady, thank YOU.}
 {487}{}{ Jeœli dowiesz siê kto za³atwi³ mojego brata, ca³a rodzina Wrightów bêdzie ci wdziêczna. A to nie jest ma³o, kapujesz?}
 {488}{}{Rozumiem. Pogadamy póŸniej, Chris.}
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules przy wejœciu do miasta te¿ sprzedaje Jet, ale g³ównie turystom... No i Ma³y Jesus Mordino móg³ spróbowaæ takiego numeru. Przesiaduje zwykle w Desperado.}
 {496}{}{Rozumiem. Mam jeszcze kilka pytañ...}
 {497}{}{Szramiasty Jimmy J, Renesco Rakieciarz, Jules i Ma³y Jesus... Pogadam z nimi. Dziêki za informacje, Chris.}
 {1200}{}{! Dobra robota z t¹ Enklaw¹!}

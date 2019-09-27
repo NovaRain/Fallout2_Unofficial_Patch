@@ -22,11 +22,11 @@
 {121}{}{Nem?}
 {122}{}{Hé, ne szlopáld be az összes piámat!}
 {123}{}{Rahhg!}
-{124}{}{It was back in '78 and me and Bessie - best 'bot a man ever had - we was u-ra-ni-um prospecting west o' here. We hadn't turned up a rad's worth o' beans when all of a sudden five - no, I'm sure it was ten - Deathclaws jumped us.}
+{124}{}{Még 78-ban, mikor én és Bessie - a legjobb robot, ami csak embernek lehet - u-rán-ér-cet kerestünk nyugatra innen. Még nem kapcsoltuk be a radioaktivitás-mérõket, mikor hirtelen öt - nem, legalább tíz - Halálkarom ugrott ránk.}
 {125}{}{Úgy harcoltak, mint az istennyila. Annyit lõttem, hogy leolvadt a puskám csöve, és éppen késsel indultam volna a karmok ellen, mikor az öreg Bessie utolsó áramköre is leolvadt. Hát megpróbáltam megmenteni, de nem használt semmit. Nem volt mit tenni, "fel a nyúlcipõt", és egész úton kövekkel kellett távol tartanom magamtól õket.}
 {126}{}{Hát, a dolgok már egész rosszul álltak, mikor belebotlottam abba a barlangba. Tutira biztos voltam benne, hogy meghalok. Rájöttem, hogy az a barlangjuk, és mivel nálam volt a fáklyám, beljebb merészkedtem. Háát, jó mély barlang volt, mondhatom. És akkor megláttam...}
 {127}{}{Egy irdatlan ajtó volt, mint amiket a régi filmeken látni. Nagy acélajtó, és egy hatalmas 13-as volt belevésve!}
-{128}{}{I knew I'd found it, the mother lode, the Vault 13. I sat right down and made me a map. Damn near died getting out o' there, past them Deathclaws and then the sun o' the desert and no water.}
+{128}{}{Tudtam, hogy magtaláltam a kincsesbányát, a 13-as Menedéket. Leültem és gyorsan csináltam magamnak egy térképet. Halálközeli élmény volt kijutni onnan, át a Halálkarmokon, aztán ott volt a sivatagi nap és víz egy szál se.}
 {129}{}{Mire elbotorkáltam Shady Sands-be, már majdnem kinyiffantam. Elvittek a dokihoz, aki viszont ellopta a térképemet. Ennél többet nem tudok mondani.}
 {130}{}{(Folytatás)}
 {131}{}{Teringettét, ez egy jó és tisztességes név, az bizony! A srácok megengedik, hogy néha fõzzek itt és ha nem lennél olyan kivagyi alak, tudnád ezt és azt is, hogyan tiszteld az idõseket.}

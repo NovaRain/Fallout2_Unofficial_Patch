@@ -24,20 +24,16 @@
 {123}{}{Mit csinálsz itt?}
 {124}{}{Rab vagy?}
 {125}{}{Mióta vagy itt?}
-{126}{}{What can you tell me about the Deathclaws here?}
+{126}{}{Mit tudsz mondani ezekrõl a Halálkarmokról?}
 {127}{}{Tudod, mi történt az emberekkel, akik valaha itt éltek a Menedékben?}
 {128}{}{Mit tudsz mondani Gruthar-ról?}
-{129}{}{Do you think the Deathclaws are a threat to humans?}
+{129}{}{Szerinted a Halálkarmok fenyegetést jelentenek az emberekre?}
 {130}{}{Van valami információd az általad említett Enklávéról?}
 {131}{}{Mit tudsz errõl a vírusról?}
 {132}{}{Említetted, hogy szeretnél utazni. Mit szólnál, ha csatlakoznál hozzám?}
 {133}{}{Sajnálom, de most mennem kell.}
 {134}{}{Hmm... Meg vagyok lepve, hogy Gruthar nem mondott neked semmit rólam. Hát, igen... }
-{135}{}{I'm a student of sorts. I'm trying to learn as much as I can about the world and the different
- cultures that have developed. Right now I'm studying the culture the Deathclaws are forming and
- comparing it to human development along similar lines. I've acquired just about all the information I
- need here. It would help my research a great deal if I could do some traveling. However, I don't want
- to go it alone, if you know what I mean.}
+{135}{}{Én mindenféléket tanulok itt. Megpróbálok minél többet megtanulni a világról és a különbözõ, fejlett kultúrákról. Jelenleg éppen a Halálkarmok kultúráját tanulmányozom, és megpróbálom felfedezni a hasonlóságokat az emberi kultúrával kapcsolatban. Ezügyben már az összes itt megszerezhetõ információ a birtokomban van. Sokat segítene a kutatásaimban, ha utazhatnék. Mindenesetre semmiképpen sem szeretnék egyedül menni, ha érted, mire gondolok.}
 {136}{}{Érdekes. Feltehetek még néhány kérdést?}
 {137}{}{Tehát tudós vagy... Ez elég nagy teljesítmény a mai világban.}
 {138}{}{Milyen unalmas!... Igazság szerint... úgy tékozlod el az életedet, ahogy gondolod. Mindenesetre több infóra van szükségem.}
@@ -49,12 +45,7 @@
 {144}{}{Hûha, elég új vagy itt te magad is. Ha nem bánod, lenne még kérdésem.}
 {145}{}{Hát ez nem volt túl kimerítõ válasz. Mondanál errõl többet?}
 {146}{}{Értem. Szeretnék még feltenni néhány kérdést.}
-{147}{}{These aren't your average Deathclaws, as I'm sure you noticed. They've had their intelligence
- enhanced by some means not understood by them. It was done by a group of humans known as 'The
- Enclave.' It seems this Enclave needed an army and they chose Deathclaws because of their ferocity,
- physical prowess, and... well, you get the picture. Anyway, the only thing lacking in Deathclaws was
- their intelligence. They needed to be smart enough to understand complex commands, but not so smart
- that they'd be a threat to 'those in charge.'}
+{147}{}{Ezek nem átlagos Halálkarmok, ahogy biztosan észrevetted már magad is. Az intelligenciájuk valahogy fel lett javítva, õk sem értik, hogyan. Ezt egy 'Enklávé' néven ismert emberi csoport követte el. Úgy tûnik, ennek a bizonyos Enklávénak hadseregre volt szüksége, és a Halálkarmokra esett a választás, elsõsorban a kegyetlenségük, a fizikai adottságaik, a bátorságuk, és... hát, el tudod képzelni, mi egyebek miatt. Mindenesetre csak egy dolog hiányzott a Halálkarmokból, az intelligencia. Elég okosnak kellett lenniük, hogy megértsenek bonyolult parancsokat is, de nem annyira, hogy veszélyt jelentsenek a parancsnokokra.}
 {148}{}{Ez a legnagyobb lószar, amit életemben valaha is hallottam!}
 {149}{}{Ez hihetetlen! Nagyon jól informáltnak tûnsz. Kérdezhetek még?}
 {150}{}{Hmm... Oké.}
@@ -64,14 +55,14 @@
  humans were taken alive, but who knows what has happened to them since?}
 {152}{}{(Sóhajt) Egy 'Enklávé' néven ismert csoport elfogta õket. Gruthart és a falka többi tagját kényszerítették, hogy segítsen nekik az elfogásukban. Nem volt más választásuk, mert rabszolgák voltak akkoriban. Azóta az emberek sorsa hatalmas súlyként nehezedik Gruthar vállára. Sosem bocsátotta meg magának, hogy bûnrészes volt az ügyben. Az embereket élve vitték el, de ki tudja, mi történt azóta velük?}
 {153}{}{Hmm... Lenne még néhány kérdésem.}
-{154}{}{I knew the damn Deathclaws were responsible somehow! I need some more information, though.}
+{154}{}{Tudtam, hogy valahogy az istenverte Halálkarmok felelõsek ezért! Mindenesetre több információra van szükségem.}
 {155}{}{Néha rajtunk kívülálló okok arra kényszerítenek, hogy undorító dolgokat cselekedjünk. Grutharnak meg kell tanulnia megbocsátani magának.}
 {156}{}{Gruthar egyáltalán nem szörnyeteg, még ha annak tûnik is. Õszintén törõdik mindannyiunkkal, és mindent megtesz, amit csak tud, hogy gondoskodjon a biztonságunkról és a túlélésünkrõl. Mi itt mindannyian rábíztuk az életünket. Nem tudom, mit mondhatnék még róla. Meg kellene ismerned õt személyesen, és utána dönts róla magad.}
 {157}{}{Nem fogok elhamarkodottan dönteni róla. Ennél többet érdemel.}
 {158}{}{Rendben. Beszéljünk másról!}
-{159}{}{He's a Deathclaw. I find it hard to believe that he can have any redeeming qualities.}
+{159}{}{Hiszen õ egy Halálkarom. Nehezen tudom elképzelni, hogy van bármilyen jó tulajdonsága.}
 {160}{}{Nos... a lehetõség adott, kiváltképp, ha számításba veszed az új intelligenciájukat. Ennek ellenére nem hiszem, hogy Gruthar és a falkája színlel. Úgy tûnik, az életet és a személyes szabadságot tisztelik mindenek felett. Nem várom el, hogy elhidd nekem. Döntsd el magad. Mások is élnek itt, akiktõl megkérdezheted.}
-{161}{}{Only a dumbass would fail to see the threat potential of these Deathclaws!}
+{161}{}{Csak egy segghülye nem látja, milyen fenyegetést jelentenek ezek a Halálkarmok!}
 {162}{}{Köszönöm a tanácsot, körbe fogok kérdezõsködni. Feltehetek még néhány kérdést?}
 {163}{}{Hmm... Oké, jöhet még néhány kérdés?}
 {164}{}{Nem, csak annyit tudok, amit már elmondtam. Várj, van még valami. Az Enklávé nagyon érdeklõdött valami romok felõl, ami innen nyugatra van. Nem tudom, miért. Ez minden.}
@@ -116,12 +107,9 @@
 {203}{}{Hé, éppen útitársakat keresek. Készen állsz?}
 {204}{}{Mit tehetek érted, }
 {205}{}{Te lenni rossz! Miért nem mond?}
-{206}{}{You're a Deathclaw? Is there a reason you didn't mention this to me?}
+{206}{}{Te is Halálkarom vagy? Esetleg van valami oka, hogy ezt nem említetted nekem?}
 {207}{}{Hogy is mondjam... Rossz dolog te öl, nem beszél. Én nem mond el senkinek, én csinál jót neked. Te nem öl meg engem. Én maradni veled?}
-{208}{}{I'm sorry to have deceived you, but humans have a habit of shooting Deathclaws on sight. I felt
- that it would be to my advantage to hide my identity until you could see for yourself that I am on your
- side in this venture. If you want me to leave, I'll do so. But I would rather stay and help you on your
- quest. I want to show that humans and Deathclaws can work together as friends, not enemies.}
+{208}{}{Elnézést, hogy félrevezettelek, de az embereknek megvan az a rossz szokásuk, hogy agyonlõnek minden Halálkarmot, akit meglátnak. Úgy éreztem, elõnyömre válhat, ha elrejtem a valódi énemet, amíg rá nem jössz magadtól, hogy én a te oldaladon állok ebben a vállalkozásban. Ha még most is azt akarod, hogy távozzak, megteszem. De szívesebben maradnék, és segítenélek az utadon. Be akarom bizonyítani, hogy az emberek és a Halálkarmok tudnak barátként is együtt létezni, nem csak ellenségként.}
 {209}{}{Nekem nem tetszeni, te menni.}
 {210}{}{Oké, te maradni.}
 {211}{}{Sajnálom, de nem szeretem, ha félrevezetnek. Távozz!}
@@ -130,16 +118,12 @@
 {214}{}{ vagyok. Igen, a Menedéken kívülrõl jöttem.}
 {215}{}{ vagyok.}
 {216}{}{?}
-{217}{}{So, the Enclave started messing with a virus, or some such thing, and injected the Deathclaws
- with it. This virus was known to mutate humans into some sort of super beings, so the Enclave wanted
- to see what it would do to Deathclaws. Well, the result was a breed of Deathclaws so smart that they
- could see they were destined for slavery. So, they played dumb until they could gain their freedom.
- And here they are!}
-{218}{}{I am against attacking any Deathclaw.}
+{217}{}{Nos, az Enklávé elkezdett kísérletezni egy vírussal vagy valami ilyesmivel, és beoltotta vele a Halálkarmokat. Ez a vírus arról volt ismert, hogy az embereket valamiféle szuper lénnyé változtatja, így arra voltak kíváncsiak, vajon mit fog mûvelni a Halálkarmokkal. Nos, az eredmény egy értelmes Halálkarom-faj lett, olyannyira értelmes, hogy rádöbbentek saját rabszolga mivoltukra. Így egész egyszerûen hülyének kezdték tettetni magukat, amíg szabaddá nem váltak. Most itt vannak!}
+{218}{}{Én ellenzem a Halálkarmok megtámadását.}
 {219}{}{Hirtelen elfogott az érzés, hogy bajban van a falkám. Sajnálom, hogy el kell hagynom téged, de meg kell néznem, mi van a testvéreimmel.}
 {220}{}{Oké.}
 {221}{}{A biztonsági kamerák felvettek mindent, ami történt. Meg kellene nézned.}
-{222}{}{You see a gray Deathclaw. It's Goris.}
+{222}{}{Egy szürke Halálkarmot látsz. Goris az.}
 {223}{}{Egy humanoid alakot látsz. Hosszú ujjú, csuklyás köpenyt visel. Goris az.}
 {1000}{}{Igen, }
 {1001}{}{Te gyógyítani magad!}
@@ -151,7 +135,7 @@
 {1011}{}{Kérlek, várj itt, amíg vissza nem jövök!}
 {1012}{}{Ne legyen kéznél fegyvered, oké?}
 {1016}{}{Gyerünk!}
-{1017}{}{You're a Deathclaw? Is there a reason you didn't mention this to me before?}
+{1017}{}{Te is Halálkarom vagy? Esetleg van valami oka, hogy ezt nem említetted nekem?}
 {1018}{}{Mára ennyi.}
 {1019}{}{Egészséges vagyok, és készen állok az indulásra.}
 {1020}{}{Már majdnem teljesen egészséges vagyok, }

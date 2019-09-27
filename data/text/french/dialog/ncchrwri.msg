@@ -80,8 +80,7 @@
 {400}{}{Probablement assez pour dévaster l'endroit... au moins. Ensuite, elle nous passerait un savon et on aurait le droit à des sermons pendant plusieurs jours. Hé.}
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hum. Merci. }
-{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with drugs until he was dead.}
+{410}{}{Richard ? Oh, tu sais, on l'a trouvé mort, comme l'un des ces accros au Jet. Tout ce qu'on sait pour l'instant, c'est que quelqu'un lui a refilé du matos jusqu'à ce qu'il en meure. }
 {411}{}{*Quelqu'un* ? Comment sais-tu qu'il n'a pas fait une overdose parce qu'IL en avait pris trop ?}
 {412}{}{D'après toi, qui a pu faire ça ?}
 {413}{}{Je regrette d'entendre ça. Mais dis-moi...}

@@ -136,7 +136,7 @@
 {492}{}{Egal, was du willst, süße kleine Schwester, Jules ist dein Mann. Wenn du fliegen willst, Jules weiß, wo man's herkriegt. Die Frage ist hier: WAS brauchst du?}
 {493}{}{Aber klar, klar... Ich weiß Bescheid, also WAS brauchst du?}
 {494}{}{Kannst du mir ein bißchen über New Reno erzählen?}
-{495}{}{Where can I get some drugs?}
+{495}{}{Wo kann ich das Zeug herkriegen?}
 {496}{}{Ich will ein paar schwere Waffen kaufen.}
 {497}{}{Ich brauch neue Vorräte.}
 {498}{}{Ich will jemanden flachlegen.}
@@ -184,7 +184,7 @@
 {615}{}{Da gibt es den Vater, Big Jesus Mordino und den Sohn, Lil' Jesus. Beide zusammen sind sie die gemeinsten Schweinehunde, die du je gesehen hast. Waren beide mal Sklaven hier, haben den Spieß aber vor ein paar Jahren umgedreht und sich ihr kleines Reich aufgebaut.}
 {616}{}{Wie groß ist denn das "Reich"?}
 {625}{}{Ihnen gehört das Desperado hier die Straße runter. Kannste nicht verfehlen. Außerdem haben sie die größten Jet-Vorräte in GANZ New Reno. Also wenn du mal fliegen willst...}
-{626}{}{Speaking of which, do you know where can I get some drugs around here?}
+{626}{}{Apropos, wo kann ich denn hier etwas Jet kriegen?}
 {627}{}{Und wieso haben die Mordinos die größten Jet-Vorräte?}
 {628}{}{Erzähl mir was über die anderen Familien.}
 {635}{}{Die sind eben ganz oben, das ist auch schon der Grund. Denen gehört die Fabrik, sie haben den Hersteller und den Verkauf unter sich. Die sind fast schon eine Fluggesellschaft mit dem ganzen Jet, was sie haben. }
@@ -225,15 +225,14 @@
 {810}{}{(Beugt sich zu dir.) Also, ich will ja hier nicht nur von den UNERFREULICHEN Orten in New Reno erzählen... aber da gibt es in einem Gebäude im Norden der Stadt, den Ställen, einen Haufen Weißkittel, die sich genau wie du anhören. Werden schwer bewacht von Mordinos Leuten.}
 {811}{}{Was machen die denn da?}
 {825}{}{Neue Jet-Arten testen, soweit ich weiß. Ich sag dir das jetzt streng VERTRAULICH, OK: schnüffel da nicht rum... die Mordinos haben nicht gerne Besuch. Außerdem... Jules kann dir alles an Jet besorgen, was du brauchst.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
-{827}{}{Who do the Mordinos test the drugs on?}
+{826}{}{Warum testen die Mordinos Jet denn immer noch? Das macht doch jetzt schon abhängig genug, oder?}
+{827}{}{An wem testen die Mordinos das Jet denn?}
 {828}{}{Weißt du, wie ich in die Ställe reinkomme?}
 {840}{}{Meistens an Sklaven. Die werden in Pferchen gehalten wie Brahmin. }
 {841}{}{Die Mordinos haben ein paar von Sklavenhändlern gekauft, die hier vorbeikamen.}
 {842}{}{Die Mordinos haben ein paar von Sklavenhändlern wie dir gekauft, die hier in New Reno vorbeikamen. }
 {843}{}{Die kaufen auch ganz schön viele, weil die Sklaven immer krank werden, abhauen... oder sterben. Die meisten sterben eigentlich.}
-{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
- BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
+{860}{}{Um es noch weiter zu verbessern, glaub ich, den Prozeß und das Jet selbst. Jet ist zwar schon gut, aber wenn man es noch BESSER machen kann... ist dann wohl der Unterschied zwischen ein bißchen Hüpfen und zum Mond fliegen.}
 {880}{}{Jetzt warte mal eben - da würde ich nicht im TRAUM dran denken, wenn ich du wäre. Die Mordinos bewachen das Haus wie tollwütige Hunde. Schlag dir das lieber aus dem Kopf.}
 {881}{}{Es muß doch einen Weg da rein geben...}
 {886}{}{OK, OK, ist ja schon gut. Danke für die Informationen.}
@@ -259,23 +258,20 @@
 {987}{}{Du süße kleine Schwester, da brauchst du gar nicht weiter zu gehen als bis zum alten Jules. }
 {988}{}{Ich hab ALLES und wenn ich's nicht hab, dann willst du es auch nicht. Sollen wir mal zum geschäftlichen Teil übergehen?}
 {989}{}{Klar. Fangen wir mal an.}
-{990}{}{What kind of drugs can I get in New Reno?}
+{990}{}{Welches Zeug kann ich hier in New Reno kriegen?}
 {991}{}{Im Moment nicht. Ich hätte da ein paar andere Fragen...}
-{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
-{1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
+{992}{}{Eigentlich bin ich jetzt im Moment gar nicht an Zeug interessiert. Ich muß auch weg.}
+{1005}{}{Alle MÖGLICHEN Arten von dem Zeug. Ich hab was, davon wirst du geil, oder deine Frau wird geil, du wirst hart, etwas, das dich glücklich macht, stark oder klug... und natürlich hab ich auch DAS Zeug überhaupt, mit dem du fliegen kannst... Jet.}
 {1006}{}{Alle MÖGLICHEN Arten von dem Zeug. Ich hab was, davon wirst du geil, oder feucht, oder trocken, etwas, das dich beruhigt, dich sexy macht, etwas, das dich glücklich macht, stark oder klug... und natürlich hab ich auch DAS Zeug überhaupt, mit dem du FLIEGEN kannst... Jet.}
 {1008}{}{Wo kommt Jet eigentlich her? Gab es das schon immer?}
 {1025}{}{Tja... hmm... Jet kommt von hier... aus Reno, meine ich jetzt. Das gibt es zwar noch nicht lange, aber der BEDARF ist groß, kapiert? (Zwinkert.) Ist der Hauptgrund dafür, daß wir hier Touristen wie dich kriegen.}
-{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
+{1026}{}{Also, ich bin zum kaufen hier. Laß uns mal anfangen.}
 {1027}{}{Aber warum kommt Jet von hier?}
-{1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making drugs. He MADE Jet.}
+{1035}{}{Also... die Mordinos hatten eines Tages das Glück, dieses verrückte Genie von Myron zu finden. Der ist ein Naturtalent, was die Herstellung von dem Zeug angeht. Er hat Jet ERFUNDEN.}
 {1036}{}{Myron, soso? Wo kann ich den denn finden?}
 {1045}{}{(Beugt sich zu dir.) Also, ich will ja hier nicht nur von den UNERFREULICHEN Orten in New Reno erzählen... Da gibt es ein Gebäude im Norden der Stadt, die Ställe. Wird schwer bewacht von Mordinos Leuten. Da ist Myron auch drin.}
 {1046}{}{Ställe vor der Stadt?}
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
- was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
+{1055}{}{Genau, die Mordinos halten ihren Goldjungen da. Er kriegt Chips, Dirnen, was er will, solange er nur weiter das Zeug herstellt. Jet ist sein MEISTERSTÜCK. Ich hab lange nichts mehr gesehen, was so abhängig macht. Hat Reno ganz schön umgekrempelt.}
 {1056}{}{Könnte ich mit diesem Myron wohl mal sprechen?}
 {1065}{}{(Jules hält inne und sieht dich von oben bis unten an.)}
 {1066}{}{Jules? Hallo? Ich hab gefragt, ob ich diesen Myron wohl mal treffen könnte. }
@@ -304,10 +300,9 @@
 {1147}{}{Ich hab dich ganz gut verstanden, Schwester. Wenn du das Beste willst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, daß du von mir kommst.}
 {1148}{}{Süße, dein Körper IST schon eine ganz nette Waffe. Aber wenn du noch mehr brauchst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, daß du von mir kommst.}
 {1150}{}{Danke für den Tip. Und jetzt geh ich mal besser.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
- from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
+{1165}{}{Vorräte brauchst du? Also, du KANNST zu Renesco im Westend gehen... aber der Laden hat einen Haken: Kauf ihm bloß kein Zeug ab, die sind nämlich nicht SICHER. Er hat gute Vorräte, aber für das Zeug wendest du dich lieber an mich.}
 {1166}{}{Ich werd dran denken. Hör mal, ich hatte da noch ein paar Fragen...}
-{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{Was, sein Zeug ist nicht sicher? Na, dann danke für den Tip. Ich geh jetzt mal besser.}
 {1175}{}{Ich hab dich schon verstanden, Mann. Also, die meisten TOURISTEN wandern ja die Virgin Street entlang und werden von einer billigen Dirne aufgegabelt, die es für 2 Chips oder so macht. Du siehst aber ein bißchen anspruchsvoller aus, geh doch mal zur Cat's Paw gegenüber. Und sag ihnen, daß du von Jules kommst.}
 {1176}{}{Ich hab dich schon verstanden, Schwester. Also, die meisten TOURISTEN wandern ja die Virgin Street entlang und landen da bei so einem Glitzer-Boy. Du siehst aber ein bißchen anspruchsvoller aus, geh doch mal zur Cat's Paw gegenüber. Und sag ihnen, daß du von Jules kommst.}
 {1177}{}{(Lächelt und breitet die Arme aus.) Deine Suche ist zu Ende, meine Süße. Jules steht dir zur Verfügung!}
@@ -317,15 +312,14 @@
 {1190}{}{Du meinst Vault City, oder? Das liegt im Nordosten von hier. Kannst du gar nicht verfehlen, alle Karawanenwege führen da hin.}
 {1191}{}{Alles klar. Hör mal, ich hatte da noch ein paar Fragen...}
 {1192}{}{Danke für den Tip. Und jetzt geh ich mal besser.}
-{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
+{1200}{}{Was für ein Garten? Ist das eine Art Jet? Was kann dieses "Gartendings" denn so? Kann man davon fliegen?}
 {1201}{}{Nein, da ist... ach egal. Ich hatte noch ein paar Fragen...}
 {1202}{}{Macht nichts. Ich geh jetzt wirklich besser.}
 {1210}{}{Da weiß ich nichts drüber. Mein Beileid. Vielleicht waren's Sklavenhändler?}
 {1211}{}{Könnte sein. Ich hatte da noch ein paar Fragen...}
 {1220}{}{Ein was?}
 {1221}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
- to live for without being given impure shit.}
+{1230}{}{Äh... einer von den Wrights? Ja, hab ich von gehört. Eine Schande war das. Ein Kind in seinem Alter sollte die Finger vom Jet lassen. Kinder haben eh noch so viel vor sich, da brauchen sie nicht auch noch verschnittenes Jet zu nehmen.}
 {1231}{}{Wo wir gerade von verschnittenem Jet reden, Renesco hat gesagt, daß du mit Arsen versetztes Jet verkaufst.}
 {1232}{}{Was meinst du mit "verschnittenem Jet"?}
 {1233}{}{Was weißt du über diesen leeren Jet-Kanister?}

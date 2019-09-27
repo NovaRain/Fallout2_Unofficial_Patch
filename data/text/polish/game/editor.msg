@@ -70,18 +70,18 @@
 {207}{}{Œwietnie}
 {208}{}{Ideal.}
 {209}{}{Epicko}
-{300}{editor}{Hit Points}
+{300}{editor}{PW}
 {301}{}{Punkty akcji}
-{302}{editor}{Armor Class}
+{302}{editor}{Klasa pancerza}
 {303}{}{Obra¿enia bez broni}
 {304}{}{Obr. w walce wrêcz}
 {305}{}{Odp. na obr.}
 {306}{}{Odp. na truc.}
 {307}{}{Odp. na prom.}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{308}{editor}{Inicjatywa}
+{309}{editor}{Tempo zdrowienia}
+{310}{editor}{Szansa na trafienie krytyczne}
+{311}{editor}{UdŸwig}
 {312}{}{Zatrucie}
 {313}{}{Napromieniowanie}
 {314}{}{Wzrok}

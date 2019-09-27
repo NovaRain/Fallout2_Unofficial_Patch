@@ -62,6 +62,6 @@
 {161}{}{Il loro concetto di "giusto" e "sbagliato" e' molto ben definito. Seguono un codice morale che e' rafforzato dall'unita' del branco. La violenza non viene mai usata per risolvere i problemi interni, almeno da quanto ho visto finora. Non sono mai stati commessi crimini "capitali", per cui non saprei dirti come vengono affrontati casi del genere. Hmmm. Questo e' tutto quello che mi viene in mente al momento. Spero ti sia d'aiuto.}
 {162}{}{I answered that I respected all life and would do my best to heal the injured, regardless of who
  or what they were. I thought it was some thief or raider who had gotten himself hurt and needed
- a doctor. You can't begin to imagine my surprise when a couple of Deathclaws stepped out of the
+ a doctor. You can't begin to imagine my surprise when a couple of deathclaws stepped out of the
  night with an injured companion. Somebody had shot him up real good. I told them I couldn't work on him
  where we were, so they blindfolded me and brought me here. I've been here from that day forward.}

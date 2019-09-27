@@ -70,18 +70,18 @@
 {207}{}{Klasse}
 {208}{}{Super}
 {209}{}{Spitze}
-{300}{editor}{Hit Points}
+{300}{editor}{Trefferpk.}
 {301}{}{Aktionspunkte}
-{302}{editor}{Armor Class}
+{302}{editor}{Rüstung}
 {303}{}{Schaden ohne Bewaffnung}
 {304}{}{Schaden im Nahkampf}
 {305}{}{Verletz.-Res.}
 {306}{}{Giftresistenz}
 {307}{}{Strahlungsres.}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{308}{editor}{Reaktion}
+{309}{editor}{Heilung}
+{310}{editor}{Kritische Treffer}
+{311}{editor}{Tragekapazität}
 {312}{}{Vergiftet}
 {313}{}{Verstrahlt}
 {314}{}{Augenverletzung}

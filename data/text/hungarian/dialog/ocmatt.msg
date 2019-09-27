@@ -18,7 +18,7 @@
 {117}{}{Hmm. Én menni elfele.}
 {118}{}{Oké, éppen indulok.}
 {119}{}{Nem igazán.}
-{120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the Deathclaws.
+{120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the deathclaws.
  They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
 {121}{}{Miért?}
 {122}{}{Oké.}
@@ -45,7 +45,7 @@
 {143}{}{Úgy tûnik, nagy szarban vagy!}
 {144}{}{Aha. Elpusztítottam a hangvezérlõ modult, és letiltottam minden billentyûzetrõl történõ adatbevitelt.}
 {145}{}{Miért?}
-{146}{}{With the mainframe offline the vault will eventually shut down. Without food or water the Deathclaws will be forced to begin raiding human lands for their needs. Eventually they will be discovered and their threat to humanity can be dealt with.}
+{146}{}{A szuperszámítógép kikapcsolásával a menedék szép lassan le fog állni. Táplálék és víz nélkül a halálkarmok rá lesznek kényszerítve, hogy szükségleteiket rablás útján elégítsék ki. Végül aztán felfedezik õket, és le lehet számolni az emberiséget fenyegetõ veszéllyel.}
 {147}{}{Mások lenni itt. Nekik kell kaja, víz. Te nem érdekelni õk?}
 {148}{}{Mi van azokkal, akik itt élnek? Egyáltalán nem érdekel a sorsuk?}
 {149}{}{A legkevésbé sem. Õk egyszerûen a háború áldozatai.}

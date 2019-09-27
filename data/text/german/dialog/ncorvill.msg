@@ -68,7 +68,7 @@
 {330}{}{(Sieht dich einen Augenblick genau an.) Also gut. Es könnte vielleicht von Vorteil sein, daß du keiner aus der Familie bist. (Der Blick wird freundlicher.) Hast du Kinder?}
 {331}{}{Nicht, daß ich wüßte. }
 {332}{}{Nicht, daß ich wüßte. Daran würde ich mich, glaube ich, erinnern.}
-{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
+{340}{}{Einer meiner Söhne...mein Junge, Richard, ist kürzlich gestorben. Überdosis. Jet.}
 {341}{}{Wie kann ich helfen?}
 {342}{}{Äh...ich weiß wirklich nicht, wie ich -}
 {350}{}{Ich will wissen, welcher Dealer Richard diesen DRECK gegeben hat und ihn gezwungen hat, es zu nehmen. Immer, wenn ich meine Jungs losschicke, das herauszufinden, kommen sie mit leeren Händen zurück. Vielleicht könnte jemand, durch dessen Adern kein Wright-Blut fließt, die Antworten finden.}
@@ -76,7 +76,7 @@
 {352}{}{Ich nehme den Job an.}
 {353}{}{Nein, das ist nicht mein Stil. Ich geh wohl besser.}
 {360}{}{(Gesicht wird rot.) Meine Jungs sind clean, und sie wissen, daß sie besser die Finger von dem Zeug lassen sollten, weil ich sie sonst umbringe. Und dann PLÖTZLICH stirbt Richard einer Überdosis. Jemand hat eine Tonne Jet in ihn reingepumpt, so viel, daß aus seiner Nase die Dämpfe kamen.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
+{361}{}{Tja...das heißt ja nicht, daß jemand anderes Schuld hat. Dein Sohn könnte zuviel genommen haben. Jet macht ganz schön abhängig.}
 {362}{}{Hmmm. Ich nehm den Job.}
 {370}{}{(Nickt.) Also gut. Hör zu: Wenn du den Mistkerl findest, der meinen Sohn umgebracht hat, rühr ihn nicht an...komm einfach zurück und SAG mir, wie der tote Mann heißt. (Augen glühen.) ICH kümmer mich dann schon darum.}
 {371}{}{Wir haben noch nicht über Geld geredet.}
@@ -84,8 +84,7 @@
 {373}{}{Ich finde heraus, wer ihm das Jet gegeben hat, tu ihnen nichts, sondern komm einfach zurück und sag dir, wer es war. Verstanden.}
 {380}{}{Richtig, wir haben noch nicht über Geld geredet, weil du die bisher NUR geredet hast. Ich laß dich beweisen, was du wert bist. Tu deine Arbeit, dann mußt du dir um Geld keine Sorgen mehr machen. Ich geb dir mein Wort als ein Wright.}
 {383}{}{Dann vergiß es. Nur Idioten arbeiten umsonst. Ich gehe.}
-{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
- drug pushers, see what they know. That Jet came from SOMEWHERE.}
+{390}{}{(Augen glühen.) Nein...es sind alle zu ängstlich zu reden...jedenfalls mit einem Wright. Wenn ich du wäre, würde ich 'n paar der Drogendealer von Reno befragen, mal hören, was sie so wissen. Das Jet ist von IRGENDWO her gekommen.}
 {391}{}{Hast du einen bestimmten Dealer in Verdacht?}
 {393}{}{Hör mal, das ist nicht mein Stil. Ich geh dann wohl besser.}
 {400}{}{Du schon wieder. Hast du herausgefunden, wer meinen Jungen getötet hat?}
@@ -111,8 +110,8 @@
 {446}{}{Wenn du glaubst, daß du so mit mir umspringen kannst, hast du dich gewaltig geirrt. Ich hab GENUG von diesem Mist. (Beginnt zu brüllen.) Jungs! Kommt mal rein!}
 {447}{}{Verstanden.}
 {448}{}{Ich bin nicht geeignet für diesen Job, Mr. Wright. Da muß jemand anderes ran.}
-{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
+{449}{}{Zur Hölle mit diesem Job, mit deinem toten drogenabhängigen Sohn und mit dir. Ich hau ab.}
+{451}{}{Jetzt REICHT's mir! Ich hab genug von diesem Mist. Du kannst deinem toten drogenabhängigen Sohn Gesellschaft leisten.}
 {453}{}{Verschwinde.}
 {465}{}{Zufällig hab ich vor 'ner Weile 'ne Karte gefunden, die eine alte Armeebasis in den Bergen nicht weit von hier zeigt. Finde einen Weg dahin, und ich sorge dafür, daß es dir gut geht...}
 {466}{}{Alles klar, Mr. Orderville}
@@ -193,9 +192,7 @@
 {672}{}{Ich weiß nicht, wer von den Salvatores es getan hat. Renesco hat etwas Jet für sie versetzt, aber nicht gewußt, daß sie damit deinen Sohn vergiften wollten.}
 {673}{}{Ich weiß es nicht.}
 {680}{}{Und warum zum Teufel würden sie das tun?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
- be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
- Salvatores... all they have to worry about then is the Bishops.}
+{681}{}{So wie ich das sehe, kontrollieren die Mordinos den Jet-Handel in Reno. Natürlich würdest du ihnen die Schuld an einer Überdosis Jet geben...und dann gäbe es einen Krieg. FALLS eure Familien sich nicht gegenseitig ausrotten, wärt ihr wenigstens vom Kampf geschwächt. Dadurch wird das Leben einfacher für die Salvatores...sie müßten sich dann nur noch um die Bishops kümmern.}
 {682}{}{Ich weiß es nicht. Vielleicht solltest du sie fragen.}
 {690}{}{(Starrt dich lange an, dann kichert er trocken.) Du gibst mir die Antwort, und ich kann nichts tun. Die Salvatores...so 'n Mist. (Atmet tief ein.)}
 {691}{}{Was ist denn los?}

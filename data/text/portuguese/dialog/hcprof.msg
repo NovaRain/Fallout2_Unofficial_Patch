@@ -45,7 +45,8 @@
 {141}{}{Entendi. Conseguiu fazer algo que funciona?}
 {142}{}{Quero fazer um teste.}
 {143}{}{Isso é tudo que queria saber.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
+{144}{}{Claro que consegui! Já ouviu falar do "Mentats"? Ajudei no desenvolvimento de um método para facilitar 
+a produção em massa dessa droga! E de tantas outras!}
 {145}{}{Beleza, não estressa. Diz aí, queria testar minhas habilidades contra seu escorpião.}
 {146}{}{Tudo bem, acredito em você. Não está mais aqui quem falou.}
 {147}{}{Como você foi capaz de matar meu escorpião? Eu estava tão perto... tão perto...}
