@@ -110,26 +110,18 @@ variable should_explode := false;
          end
       end
 
-      if (should_explode) then begin
-         set_shitter_blown;
+      if should_explode then begin
          debug_msg("setting set_shitter_blown");
-         if (leaving_shitter) then begin
-            debug_msg("doing leaving_shitter");
-            set_did_fade_out;
-            gfade_out(5);
-            remove_rocks(EXP_BLOW_UP_ROCKS);
-         end else begin
-            set_global_var(GVAR_MODOC_SHITTY_DEATH, 1);
-            debug_msg("variable being set!");
-            debug_msg("doing death_explostion");
-            add_explosion(0);
-            add_explosion(1);
-            add_explosion(2);
-            add_explosion(3);
-            add_explosion(4);
-            add_explosion(5);
-            add_explosion(6);
-            add_explosion(7);
+         set_shitter_blown;
+         debug_msg("doing death_explostion");
+         add_explosion(0);
+         add_explosion(1);
+         add_explosion(2);
+         add_explosion(3);
+         add_explosion(4);
+         add_explosion(5);
+         add_explosion(6);
+         add_explosion(7);
          end
       end
    end
