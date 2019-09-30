@@ -122,7 +122,6 @@ variable should_explode := false;
          add_explosion(5);
          add_explosion(6);
          add_explosion(7);
-         end
       end
    end
 end
