@@ -17,7 +17,7 @@
 *********************************************************/
 
 // include files that are needed after other declarations are made.
-#include "..\headers\reppoint.h"
+#include "reppoint.h"
 
 
 /*********************************************************
