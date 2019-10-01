@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+    Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef ARTFID_H
@@ -102,7 +102,6 @@
 #define FID_MAGKO2  (16777283) //       Gecko (Silver/Little)
 #define FID_MAGCKO  (16777284) //       Gecko (Green/Golden)
 #define FID_NMVALT  (16777285) //       NPC Male Vault Jumpsuit
-//#define FID_MACYBR  (16777286) // Added Cyber Dog - duplicate - NR
 #define FID_HANPWR  (16777287) //       Hero Androgenous Advanced Power Armor
 #define FID_NMNICE  (16777288) // Added NPC Male Dressy Suit (President)
 #define FID_NFNICE  (16777289) // Added NPC Female Dressy Skirt (Kitty)
@@ -138,6 +137,7 @@
 
 // Added critters extracted from Fallout Tactics
 // Critter Packs plus Behemoth and Pacification Bots
+// Why are FIDs from FT are here, when they aren't even present in RP?
 
 #define FID_HMVBOY  (16777319) // Added Hero Male Vault Boy
 #define FID_MABULL  (16777320) // Added Brahmin Bull
