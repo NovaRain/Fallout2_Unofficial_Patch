@@ -539,7 +539,7 @@ procedure Node001 begin
    end else begin
       Reply(104); // bad or horrible
    end
-   NLowOption(106, Node234, 4);
+   NLowOption(106, Node234);
    if (local_var(LVAR_N5_cnt) == 0 and not san_fran_flag(SF_LEE_OK_FUEL_TANKER)) then
       NOption(107, Node005, 4);
    NOption(108, Node006, 4);
