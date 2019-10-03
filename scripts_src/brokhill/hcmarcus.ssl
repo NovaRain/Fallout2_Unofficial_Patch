@@ -35,9 +35,9 @@
 #define PARTY_NODE_X                   Node1000
 
 #include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\PartyBkg.h"
-#include "..\headers\NewReno.h"
+#include "..\headers\modreact.h"
+#include "..\headers\partybkg.h"
+#include "..\headers\newreno.h"
 
 /* Standard Script Procedures */
 procedure start;

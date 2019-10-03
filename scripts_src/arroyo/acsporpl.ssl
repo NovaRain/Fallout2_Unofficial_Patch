@@ -21,7 +21,7 @@
 /* Include Files */
 
 #include "..\headers\define.h"
-#include "..\headers\ARVillag.h"
+#include "..\headers\arvillag.h"
 
 #define NAME                    SCRIPT_ACSPORPL
 

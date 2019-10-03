@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "..\headers\define.h"
-#include "..\headers\VCtyVlt.h"
+#include "..\headers\vctyvlt.h"
 
 #define NAME                    SCRIPT_VIMEDCOM
 //#define TOWN_REP_VAR            (GVAR_TOWN_REP_)

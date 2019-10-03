@@ -38,7 +38,7 @@
 #define PARTY_NODE_X            Node1000
 
 #include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "..\headers\modreact.h"
 
 
 /* Standard Script Procedures */
