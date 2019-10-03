@@ -15,10 +15,10 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_NEWRVB
-#include "..\headers\command.h"
-#include "..\headers\newreno.h"
+#include "../headers/command.h"
+#include "../headers/newreno.h"
 
 #define LVAR_Flags               (0)
 

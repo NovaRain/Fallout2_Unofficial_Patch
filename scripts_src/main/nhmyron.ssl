@@ -14,13 +14,13 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_NHMYRON
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
-#include "..\headers\modreact.h"
-#include "..\headers\command.h"
-#include "..\headers\newreno.h"
-#include "..\headers\partybkg.h"
+#include "../headers/modreact.h"
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+#include "../headers/partybkg.h"
 
 /* Standard Script Procedures */
 procedure start;

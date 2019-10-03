@@ -4,5 +4,5 @@
 
 #define LOCKED_STATUS                   STATE_ACTIVE
 
-#include "..\generic\zimtldor.ssl"
-#include "..\headers\newreno.h"
+#include "../generic/zimtldor.ssl"
+#include "../headers/newreno.h"

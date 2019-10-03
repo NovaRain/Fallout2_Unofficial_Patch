@@ -9,13 +9,13 @@
    -rwh [2/23/1998]
 */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_OBJ_DUDE
 
-#include "..\headers\command.h"
-#include "..\headers\newreno.h"
-#include "..\headers\v13.h"
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+#include "../headers/v13.h"
 
 #define LVAR_Last_Digest_Time    (0)
 

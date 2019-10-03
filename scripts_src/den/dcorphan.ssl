@@ -17,16 +17,16 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                        SCRIPT_DCORPHAN
 #define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
 
-#include "..\headers\command.h"
-#include "..\headers\modreact.h"
-#include "..\headers\den.h"
-#include "..\headers\denbus1.h"
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/den.h"
+#include "../headers/denbus1.h"
 
 #define MIN_MONEY               (20)
 #define MAX_MONEY               (100)

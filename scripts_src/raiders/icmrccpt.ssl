@@ -15,11 +15,11 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_ICMRCCPT
 #define TOWN_REP_VAR            GVAR_TOWN_REP_RAIDERS
-#include "..\headers\command.h"
-#include "..\headers\raiders.h"
+#include "../headers/command.h"
+#include "../headers/raiders.h"
 
 /* Standard Script Procedures */
 procedure start;

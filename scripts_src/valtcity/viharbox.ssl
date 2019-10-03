@@ -19,12 +19,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VIHARBOX
 
-#include "..\headers\command.h"
-#include "..\headers\vctyctyd.h"
+#include "../headers/command.h"
+#include "../headers/vctyctyd.h"
 /* Defines and Macros */
 
 #define LVAR_Restock_Time                 (0)
