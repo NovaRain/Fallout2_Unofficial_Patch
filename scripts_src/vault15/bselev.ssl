@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "bselev"
 #include "../headers/define.h"
 
 //#define NAME                    SCRIPT_DOOR
@@ -327,7 +328,7 @@ procedure use_obj_on_p_proc begin
 
    if (Tool == KEY_CARD_PID) then begin
       script_overrides;
-      debug_msg("BSELEV: used v15 secret keycard on door");
+      ndebug("used v15 secret keycard on door");
       obj_unlock(self_obj);
       set_local_var(LVAR_Locked, STATE_INACTIVE);
       set_local_var(LVAR_Trapped, STATE_INACTIVE);

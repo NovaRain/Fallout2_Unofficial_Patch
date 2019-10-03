@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "rcstanwl"
 #include "../headers/define.h"
 #include "../headers/caravan.h"
 #include "../headers/bhrnddst.h"
@@ -494,7 +495,7 @@ procedure Node003 begin
 end
 
 procedure Node003a begin
-   debug_msg("Node 003 get_day == "+get_day);
+   ndebug("Node 003 get_day == "+get_day);
 
    if (get_day == START_DAY) then
        call Node015;
@@ -604,7 +605,7 @@ end
 procedure Node014a begin
    set_local_var(LVAR_Said_14,1);
 
-   debug_msg("Node 014 get_day == "+get_day);
+   ndebug("Node 014 get_day == "+get_day);
 
    if (get_day == START_DAY) then
        call Node015;
@@ -613,7 +614,7 @@ procedure Node014a begin
 end
 
 procedure Node015 begin
-   debug_msg("get_day == "+get_day);
+   ndebug("get_day == "+get_day);
 
    if (party_size > 1) then
        Reply(152);

@@ -30,6 +30,7 @@
 //#define NPC_REACTION_TYPE       REACTION_TC /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
 //#define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "wcdedbot"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -51,6 +52,6 @@ end
 procedure combat_p_proc begin
    if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
        script_overrides;
-       debug_msg("I am turned off and won't attack!");
+       ndebug("I am turned off and won't attack!");
    end
 end

@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "ecbescow"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECBESCOW
@@ -91,7 +92,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   debug_msg("ECBESCOW: calling description");
+   ndebug("calling description");
    display_msg(mstr(100));
 end
 

@@ -29,6 +29,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "ocjimmy"
 #include "../headers/define.h"
 #include "../headers/vault13.h"
 
@@ -478,7 +479,7 @@ procedure Node020 begin
 end
 
 procedure tvar_callback(variable currentTile) begin
-   debug_msg("OCJIMMY: callback called");
+   ndebug("callback called");
 
 end
 

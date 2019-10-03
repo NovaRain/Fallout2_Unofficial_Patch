@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "rcdrjohn"
 #include "../headers/define.h"
 #include "../headers/reddown.h" // seraph's code
 
@@ -173,11 +174,11 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DOCTOR);
    Doc_Johnson_Ptr:=self_obj;
 
-   debug_msg("local_var(LVAR_Gave_Antidote) == "+local_var(LVAR_Gave_Antidote));
+   ndebug("local_var(LVAR_Gave_Antidote) == "+local_var(LVAR_Gave_Antidote));
 
    if (((game_time - local_var(LVAR_Gave_Antidote)) > ONE_GAME_DAY) and (local_var(LVAR_Gave_Antidote) != 0)) then begin
        set_global_var(GVAR_REDDING_JET_LEVEL,JET_CURED);
-       debug_msg("Redding is Cured");
+       ndebug("Redding is Cured");
    end
 end
 

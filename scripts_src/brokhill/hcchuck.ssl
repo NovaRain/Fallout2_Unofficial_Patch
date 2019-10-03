@@ -30,6 +30,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "hcchuck"
 #include "../headers/define.h"
 #include "../headers/broken2.h"
 
@@ -140,7 +141,7 @@ procedure critter_p_proc begin
    //added by killap
    if( ( map_var( MVAR_Chuck_Awoke ) == 3 ) and ( tile_num( self_obj ) != 30758 ) and ( anim_busy( self_obj ) == false ) )then begin
       add_timer_event( self_obj, 1, 1 );
-      debug_msg("Chuck should be moving again");
+      ndebug("Chuck should be moving again");
    end
    //added by killap
 

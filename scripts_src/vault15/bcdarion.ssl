@@ -27,6 +27,7 @@
 */
 #define NPC_REACTION_TYPE       REACTION_TG
 
+#define SCRIPT_REALNAME "bcdarion"
 #include "../headers/define.h"
 #include "../headers/vault15.h"
 
@@ -126,7 +127,7 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
        set_map_var(MVAR_Darion_Attack,  1);
-       debug_msg("DARION: set darion attack");
+       ndebug("set darion attack");
    end
 
 end

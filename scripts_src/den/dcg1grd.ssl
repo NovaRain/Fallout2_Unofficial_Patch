@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcg1grd"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCG1GRD
 #define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
@@ -121,7 +122,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   ndebug("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
    if ((hostile) or (gang_hostile)) then begin
       call Node001;
    end else if (gangwar(state_gangwar_1won)) then begin

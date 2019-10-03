@@ -29,6 +29,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcyellow"
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/kladwtn.h"
@@ -284,7 +285,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   debug_msg("Node001");
+   ndebug("Node001");
    Reply(110);
 
    NLowOption(111,Node004);
@@ -298,7 +299,7 @@ procedure Node001 begin
 end
 
 procedure Node002 begin
-   debug_msg("Node002");
+   ndebug("Node002");
    set_local_var(LVAR_Befriend_YellowDog, 1);
    KC_REP_ADJUST(3)
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
@@ -321,7 +322,7 @@ procedure Node002 begin
 end
 
 procedure Node003 begin
-   debug_msg("Node003");
+   ndebug("Node003");
    Reply(130);
 
    NLowOption(131,Node004);
@@ -339,7 +340,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   debug_msg("Node004");
+   ndebug("Node004");
    k:=random(1,5);
    if (k == 1) then floater(201);
    else if (k == 2) then floater(202);

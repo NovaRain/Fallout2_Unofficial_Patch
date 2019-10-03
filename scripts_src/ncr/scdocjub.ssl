@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "scdocjub"
 #include "../headers/define.h"
 #include "../headers/ncr1.h"
 
@@ -198,7 +199,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   debug_msg("SCDOCJUB: LVAR_Sold_Paint: " + local_var(LVAR_Sold_Paint));
+   ndebug("LVAR_Sold_Paint: " + local_var(LVAR_Sold_Paint));
    if (dude_max_hits != dude_cur_hits) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;

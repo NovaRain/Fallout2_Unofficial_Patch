@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "eceric"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -130,7 +131,7 @@ procedure critter_p_proc begin
             reg_anim_begin();
             animate_run_to_tile(tile_behind_obj(i_robin_obj));
             reg_anim_end();
-            debug_msg("ECERIC: should be animating be hind robin");
+            ndebug("should be animating be hind robin");
          end
       end
    end

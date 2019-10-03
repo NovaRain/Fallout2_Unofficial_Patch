@@ -483,7 +483,7 @@
 #define set_anna_spoken                            set_den_flag_on(anna_spoken_bit, 3)
 
 #define mom_fingered_joey                          get_den_flag(mom_fingered_joey_bit, 3)
-#define set_mom_fingered_joey                      set_den_flag_on(mom_fingered_joey_bit, 3); debug_msg("set_mom_fingered_joey")
+#define set_mom_fingered_joey                      set_den_flag_on(mom_fingered_joey_bit, 3); ndebug("set_mom_fingered_joey")
 
 //#define joey_dead                                  get_den_flag(joey_dead_bit, 3)
 //#define set_joey_dead                              set_den_flag_on(joey_dead_bit, 3)
@@ -563,7 +563,7 @@
 #define state_still_quest_finished                 (4)
 #define still_quest(x)                             (global_var(GVAR_QUEST_MAGGIE_STILL) == x)
 #define set_still_quest(x)                         if (x > global_var(GVAR_QUEST_MAGGIE_STILL)) then set_global_var(GVAR_QUEST_MAGGIE_STILL, x);  \
-                                                   debug_msg("set_still_quest("+x+") == "+global_var(GVAR_QUEST_MAGGIE_STILL))
+                                                   ndebug("set_still_quest("+x+") == "+global_var(GVAR_QUEST_MAGGIE_STILL))
 
 #define state_becky_job_none                       (0)
 #define state_becky_job_collect                    (1)
@@ -574,7 +574,7 @@
 //#define state_becky_job_fix                        (4)
 #define becky_job(x)                               (global_var(GVAR_DEN_BECKY_JOB) == x)
 #define set_becky_job(x)                           if (x > global_var(GVAR_DEN_BECKY_JOB)) then set_global_var(GVAR_DEN_BECKY_JOB, x);  \
-                                                   debug_msg("set_becky_job("+x+") == "+global_var(GVAR_DEN_BECKY_JOB))
+                                                   ndebug("set_becky_job("+x+") == "+global_var(GVAR_DEN_BECKY_JOB))
 
 variable caught_thief;
 #define check_catch_thief                                                              \
@@ -640,7 +640,7 @@ variable caught_thief;
                                                    end                                                                        \
                                                    if (x > global_var(GVAR_DEN_GANGWAR)) then                                 \
                                                       set_global_var(GVAR_DEN_GANGWAR, x);                                    \
-                                                   debug_msg("set_gangwar("+x+") == "+global_var(GVAR_DEN_GANGWAR))
+                                                   ndebug("set_gangwar("+x+") == "+global_var(GVAR_DEN_GANGWAR))
 #define state_gang_trap_no                         (0)
 #define state_gang_trap_set                        (1)
 #define state_gang_trap_noshow                     (2)
@@ -673,7 +673,7 @@ variable caught_thief;
                                                    end else if (cur_map_index == MAP_DEN_ENTRANCE) then begin     \
                                                       inc_global_var(gang_2);                                     \
                                                    end                                                            \
-                                                   debug_msg("inc_gang_counter == " + global_var(the_gang) + " / cur_map_index == "+cur_map_index+"/"+MAP_DEN_ENTRANCE)
+                                                   ndebug("inc_gang_counter == " + global_var(the_gang) + " / cur_map_index == "+cur_map_index+"/"+MAP_DEN_ENTRANCE)
 
 #define dec_gang_counter(the_gang)                 if (the_gang == gang_1) then begin                                            \
                                                       dec_global_var(gang_1);                                                    \
@@ -688,7 +688,7 @@ variable caught_thief;
                                                          end                                                                     \
                                                       end                                                                        \
                                                    end                                                                           \
-                                                   debug_msg("dec_gang_counter == " + global_var(the_gang))
+                                                   ndebug("dec_gang_counter == " + global_var(the_gang))
 
 #define check_switch_gang_team(x)                  if (self_gang == gang_##x) then begin                                                \
                                                       if (gang_##x##_hostile) then begin                                                \

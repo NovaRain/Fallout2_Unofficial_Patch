@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "modinn"
 #include "../headers/define.h"
 #include "../headers/modinn.h"
 #include "../headers/updatmap.h"
@@ -66,7 +67,7 @@ procedure map_exit_p_proc;
                                        critter_injure(x, DAM_KNOCKED_DOWN);                  \
                                     end                                                      \
                                  end else begin                                              \
-                                    debug_msg("" + obj_name(x) + " PASSED AGILITY CHECK");   \
+                                    ndebug("" + obj_name(x) + " PASSED AGILITY CHECK");   \
                                  end                                                         \
                                  if (x == dude_obj) then begin                               \
                                     reg_anim_clear(x);                                       \

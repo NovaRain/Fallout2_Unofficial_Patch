@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "bscomp4"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_BSCOMP4
@@ -59,7 +60,7 @@ procedure talk_p_proc;
 /*******************************************************************
 *******                         PROCEDURES                   *******
 *******************************************************************/
-#define DEBUG(x) debug_msg("BSCOMP4: " + x)
+#define DEBUG(x) ndebug("BSCOMP4: " + x)
 
 procedure Node999;
 

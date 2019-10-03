@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "rccvndrv"
 #include "../headers/define.h"
 #include "../headers/caravan.h"
 
@@ -123,7 +124,7 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_good_critter
    rm_caravan_drivers(1);
-   debug_msg("Caravan Driver Killed.");
+   ndebug("Caravan Driver Killed.");
 
 /* Set global_variable for Enemy status*/
 end

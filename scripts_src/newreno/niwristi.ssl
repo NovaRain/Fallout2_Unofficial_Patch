@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "niwristi"
 #include "../headers/define.h"
 
 #define NAME                        SCRIPT_NIWRISTI
@@ -48,7 +49,7 @@ variable the_roll;
                script_overrides;                                                       \
                nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param); \
             end else begin                                                             \
-               debug_msg("wright child can't see dude");                               \
+               ndebug("wright child can't see dude");                               \
             end                                                                        \
          end
 

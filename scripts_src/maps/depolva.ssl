@@ -6,6 +6,7 @@
         Map Script for Sierra Army Base, Outside area
 */
 
+#define SCRIPT_REALNAME "depolva"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 
@@ -219,7 +220,7 @@ procedure Rebuild_Missile_Bots begin
    variable Critter_Hex:=0;
    variable Bot;
 
-   debug_msg("Restock Missile Bots: Level 1 == "+map_var(MVAR_Level1_Tough_Bots)+". Level 2 == "+map_var(MVAR_Level2_Tough_Bots)+". Level 3 == "+map_var(MVAR_Level3_Tough_Bots)+".");
+   ndebug("Restock Missile Bots: Level 1 == "+map_var(MVAR_Level1_Tough_Bots)+". Level 2 == "+map_var(MVAR_Level2_Tough_Bots)+". Level 3 == "+map_var(MVAR_Level3_Tough_Bots)+".");
 
    while (map_var(MVAR_Level1_Tough_Bots) > 0) do begin
        Critter_Hex:=0;
@@ -233,7 +234,7 @@ procedure Rebuild_Missile_Bots begin
    end
 
    if (map_var(MVAR_Level1_Tough_Bots) > 0) then begin
-       debug_msg("Error in While Loop Counter 1");
+       ndebug("Error in While Loop Counter 1");
    end
 
    Critter_Hex:=0;
@@ -250,7 +251,7 @@ procedure Rebuild_Missile_Bots begin
    end
 
    if (map_var(MVAR_Level2_Tough_Bots) > 0) then begin
-       debug_msg("Error in While Loop Counter 2");
+       ndebug("Error in While Loop Counter 2");
    end
 
    Critter_Hex:=0;
@@ -267,7 +268,7 @@ procedure Rebuild_Missile_Bots begin
    end
 
    if (map_var(MVAR_Level3_Tough_Bots) > 0) then begin
-       debug_msg("Error in While Loop Counter 3");
+       ndebug("Error in While Loop Counter 3");
    end
 
 end
@@ -277,7 +278,7 @@ procedure Rebuild_Robobrains begin
    variable Critter_Hex:=0;
    variable Bot;
 
-   debug_msg("Restock Robobrains: Level 1 == "+map_var(MVAR_Level1_Robobrain)+". Level 2 == "+map_var(MVAR_Level2_Robobrain)+". Level 3 == "+map_var(MVAR_Level3_Robobrain)+".");
+   ndebug("Restock Robobrains: Level 1 == "+map_var(MVAR_Level1_Robobrain)+". Level 2 == "+map_var(MVAR_Level2_Robobrain)+". Level 3 == "+map_var(MVAR_Level3_Robobrain)+".");
 
    while (map_var(MVAR_Level1_Robobrain) > 0) do begin
        Critter_Hex:=0;
@@ -291,7 +292,7 @@ procedure Rebuild_Robobrains begin
    end
 
    if (map_var(MVAR_Level1_Robobrain) > 0) then begin
-       debug_msg("Error in While Loop Counter 1");
+       ndebug("Error in While Loop Counter 1");
    end
 
    Critter_Hex:=0;
@@ -308,7 +309,7 @@ procedure Rebuild_Robobrains begin
    end
 
    if (map_var(MVAR_Level2_Robobrain) > 0) then begin
-       debug_msg("Error in While Loop Counter 2");
+       ndebug("Error in While Loop Counter 2");
    end
 
    Critter_Hex:=0;
@@ -325,7 +326,7 @@ procedure Rebuild_Robobrains begin
    end
 
    if (map_var(MVAR_Level3_Robobrain) > 0) then begin
-       debug_msg("Error in While Loop Counter 3");
+       ndebug("Error in While Loop Counter 3");
    end
 
 end
@@ -335,7 +336,7 @@ procedure Rebuild_Eyeballs begin
    variable Critter_Hex:=0;
    variable Bot;
 
-   debug_msg("Restock Eyeballs: Level 1 == "+map_var(MVAR_Level1_Eyeball)+". Level 2 == "+map_var(MVAR_Level2_Eyeball)+". Level 3 == "+map_var(MVAR_Level3_Eyeball)+".");
+   ndebug("Restock Eyeballs: Level 1 == "+map_var(MVAR_Level1_Eyeball)+". Level 2 == "+map_var(MVAR_Level2_Eyeball)+". Level 3 == "+map_var(MVAR_Level3_Eyeball)+".");
 
    while (map_var(MVAR_Level1_Eyeball) > 0) do begin
        Critter_Hex:=0;
@@ -349,7 +350,7 @@ procedure Rebuild_Eyeballs begin
    end
 
    if (map_var(MVAR_Level1_Eyeball) > 0) then begin
-       debug_msg("Error in While Loop Counter 1");
+       ndebug("Error in While Loop Counter 1");
    end
 
    Critter_Hex:=0;
@@ -366,7 +367,7 @@ procedure Rebuild_Eyeballs begin
    end
 
    if (map_var(MVAR_Level2_Eyeball) > 0) then begin
-       debug_msg("Error in While Loop Counter 2");
+       ndebug("Error in While Loop Counter 2");
    end
 
    Critter_Hex:=0;
@@ -383,7 +384,7 @@ procedure Rebuild_Eyeballs begin
    end
 
    if (map_var(MVAR_Level3_Tough_Bots) > 0) then begin
-       debug_msg("Error in While Loop Counter 3");
+       ndebug("Error in While Loop Counter 3");
    end
 
 end

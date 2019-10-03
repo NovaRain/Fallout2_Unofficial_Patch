@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncchpboy"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCCHPBOY
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
@@ -63,7 +64,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == attack_param) then begin
-      debug_msg("chop shop boy got car tamper");
+      ndebug("chop shop boy got car tamper");
       call Node006;
    end else if (combat_is_initialized == false) then begin
       if (random(1,5) == 1) then begin

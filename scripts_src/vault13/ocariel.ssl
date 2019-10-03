@@ -28,6 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        9 /* same as thief variable */
 
+#define SCRIPT_REALNAME "ocariel"
 #include "../headers/define.h"
 #include "../headers/vault13.h"
 
@@ -188,7 +189,7 @@ end
    In here, various things can happen. The most common response is instant hostility which
    will be remembered. */
 procedure pickup_p_proc begin
-   debug_msg("calling old pickup for some reason: source_obj:" + source_obj + "self_obj: " + self_obj+ " dude_obj: " + dude_obj);
+   ndebug("calling old pickup for some reason: source_obj:" + source_obj + "self_obj: " + self_obj+ " dude_obj: " + dude_obj);
 end
 
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go

@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mcbutchr"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MCBUTCHR
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_MODOC)
@@ -177,7 +178,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg(" my tile == "+self_tile);
+   ndebug(" my tile == "+self_tile);
    call Node001;
 end
 

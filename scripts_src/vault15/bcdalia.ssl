@@ -28,6 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TG
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "bcdalia"
 #include "../headers/define.h"
 #include "../headers/v15ent.h"
 
@@ -110,7 +111,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_DESTROY) then begin
-      debug_msg("BCDALIA: Dalia destroyed");
+      ndebug("Dalia destroyed");
       destroy_object(self_obj);
    end
 end

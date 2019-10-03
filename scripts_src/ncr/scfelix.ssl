@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "scfelix"
 #include "../headers/define.h"
 #include "../headers/ncr3.h"
 
@@ -173,7 +174,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   debug_msg("Felix_sent_by_westin: " + get_felix_seed(FELIX_SENT_BY_WESTIN) + " Felix_critters_accepty " + get_felix_seed(FELIX_CRITTERS_ACCEPT));
+   ndebug("Felix_sent_by_westin: " + get_felix_seed(FELIX_SENT_BY_WESTIN) + " Felix_critters_accepty " + get_felix_seed(FELIX_CRITTERS_ACCEPT));
    if (get_westin_flag(WESTIN_SNUFF_KNOWN)) then begin
       set_local_var(LVAR_Hostile, 2);
    end else if ( get_felix_seed(FELIX_SENT_BY_WESTIN) and not get_felix_seed(FELIX_CRITTERS_ACCEPT)) then begin

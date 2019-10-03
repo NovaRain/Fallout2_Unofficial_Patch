@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcardin"
 #include "../headers/define.h"
 #include "../headers/kladwtn.h"
 
@@ -270,7 +271,7 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    //display_msg("SMILEY = "+ global_var(GVAR_SMILEY_STATUS));
-   //debug_msg("SMILEY = "+ global_var(GVAR_SMILEY_STATUS));
+   //ndebug("SMILEY = "+ global_var(GVAR_SMILEY_STATUS));
    display_msg(mstr(100));
 end
 

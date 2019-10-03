@@ -28,6 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "fcsuze"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -161,7 +162,7 @@ procedure critter_p_proc begin
                end
             end
          end else if (self_tile == SAVE_TILE or self_tile == SAVE_TILE1) then begin
-            debug_msg("FCSUZE: should be warping");
+            ndebug("should be warping");
             set_local_var(LVAR_Follow_Dude, 0);
             move_to(self_obj, BADGER_GIRL_TILE, 0);
          end else begin

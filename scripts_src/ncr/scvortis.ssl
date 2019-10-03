@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "scvortis"
 #include "../headers/define.h"
 #include "../headers/ncrent.h"
 
@@ -229,7 +230,7 @@ procedure talk_p_proc begin
          gSay_End;
          end_dialogue;
       end else begin
-         debug_msg("SCVORTIS: local_var(LVAR_reaction_level): " + local_var(LVAR_reaction_level));
+         ndebug("local_var(LVAR_reaction_level): " + local_var(LVAR_reaction_level));
          if (horrible_critter_reaction) then begin
             start_gdialog(NAME,self_obj,4,-1,-1);
             gSay_Start;
@@ -246,7 +247,7 @@ procedure talk_p_proc begin
       end
    end
    if (warpPlayerOut == 1) then begin
-      debug_msg("VORTIS: warp out set");
+      ndebug("warp out set");
       warpPlayerOut := 0;
       node1count := 0;
       fdout;
@@ -602,7 +603,7 @@ end
 procedure checkTime begin
    variable time;
    time := game_time_hour;
-   debug_msg("VORTIS: gametime: " + time);
+   ndebug("gametime: " + time);
    if (time >= 800 and time <= 1600) then begin
 //local_var(LVAR_Vortis_Location)
       if (not anim_busy(self_obj)) then begin

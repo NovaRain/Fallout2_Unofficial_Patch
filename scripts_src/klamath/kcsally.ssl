@@ -26,6 +26,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcsally"
 #include "../headers/define.h"
 #include "../headers/kladwtn.h"
 
@@ -528,7 +529,7 @@ procedure Node017 begin
 end
 
 procedure Node018 begin
-   debug_msg("Setting map var");
+   ndebug("Setting map var");
    up_sex_status;
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(330);
@@ -540,7 +541,7 @@ procedure Node018 begin
 end
 
 procedure Node019 begin
-   debug_msg("Setting map var");
+   ndebug("Setting map var");
    up_sex_status;
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(340);
@@ -552,7 +553,7 @@ procedure Node019 begin
 end
 
 procedure Node020 begin
-   debug_msg("Setting map var");
+   ndebug("Setting map var");
    up_sex_status;
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(350);
