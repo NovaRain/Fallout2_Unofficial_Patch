@@ -2,7 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-//#define EXTRA_HEADER                "..\headers\NewReno.h"
+//#define EXTRA_HEADER                "../headers/newreno.h"
 
 #define WATCHER_OBJ                 Locker_Watcher
 #define ENTER_LOCK_CONDITION        (map_first_run)

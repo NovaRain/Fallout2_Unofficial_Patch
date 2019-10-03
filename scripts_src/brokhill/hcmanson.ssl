@@ -20,7 +20,7 @@
 
 /* Include Files */
 
-/* Note, the Following Lines need to be in this o#include "../headers/broken.h"rder so that
+/* Note, the Following Lines need to be in this order so that
    the script will be compilable. The define Name is referenced
    in a module from define.h and used in command.h. Please do
    not change the ordering.
