@@ -43,7 +43,7 @@
 
 procedure tvar_callback(variable currentTile);
 
-#include "..\vault13\waypnt.ssl"
+#include "../vault13/waypnt.ssl"
 
 
 /* Standard Script Procedures */
