@@ -20,7 +20,6 @@ env:
     - mod_name: upu
     - extra_dir: extra
     - bin_dir: extra/bin
-    - appearance_dir: appearance
     - release_dir: release
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
