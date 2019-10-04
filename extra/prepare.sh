@@ -10,10 +10,6 @@ mpack_url="https://sourceforge.net/projects/sfall/files/Modders%20pack/$mpack_fi
 compile_exe="compile.exe"
 mpack_compile="ScriptEditor/resources/$compile_exe"
 
-sfse_url="http://www.nma-fallout.com/resources/sfall-script-editor.77/download?version=181"
-sfse_file="sfse.rar"
-sfse_dir="Fallout sFall Script Editor/Resources"
-
 # directories
 cache_dir="$HOME/.cache/build"
 bin_dir="$(realpath extra/bin)"
@@ -30,16 +26,3 @@ mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
 7z x "$mpack_7z" "scripting_docs/headers"
 mv "scripting_docs/headers" "scripts_src/sfall"
-
-# wcc, check cache
-if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then
-  wget -q "$sfse_url" -O "$sfse_file"
-  for f in wcc386.exe wccd386.dll dat2.exe; do
-    7z e "$sfse_file" "$sfse_dir/$f"
-    mv -f "$f" "$cache_dir/"
-  done
-fi
-# copy
-for f in wcc386.exe wccd386.dll dat2.exe; do
-  cp -f "$cache_dir/$f" "$bin_dir/"
-done

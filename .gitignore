@@ -2,5 +2,6 @@
 *.tmp
 *.err
 *.log
-extra/bin
+extra/bin/*
+!extra/bin/dat2.exe
 scripts_src/sfall
