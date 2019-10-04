@@ -21,8 +21,8 @@ sudo apt-get -q -y --no-install-recommends install wine-stable wine32 p7zip more
 
 # compile.exe, no cache (mpack version may change)
 wget -q "$mpack_url" -O "$mpack_7z"
-7z e "$mpack_7z" "$mpack_compile"
+7zr e "$mpack_7z" "$mpack_compile"
 mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
-7z x "$mpack_7z" "scripting_docs/headers"
+7zr x "$mpack_7z" "scripting_docs/headers"
 mv "scripting_docs/headers" "scripts_src/sfall"
