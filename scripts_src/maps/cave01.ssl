@@ -190,7 +190,7 @@ procedure LoadCritterPos begin
    variable obj;
 
    count := total_encounter_mobs;
-   ndebug("CAVE01: count " + count);
+   ndebug("count " + count);
    while (count > 0) do begin
       call Choose_Pid;
       call placeCritter(choose_enc_pid, choose_enc_sid, AREA_1);
