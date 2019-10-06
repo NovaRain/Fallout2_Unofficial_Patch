@@ -64,7 +64,6 @@ procedure map_enter_p_proc begin
    end
    //end added by killap
 
-   ndebug("map_var(MVAR_Made_Car): " + map_var(MVAR_Made_Car) + " global_var(GVAR_PLAYER_GOT_CAR): " + global_var(GVAR_PLAYER_GOT_CAR) + "V15AREA: " + AREA_VAULT_15);
    if (global_var(GVAR_V15_NCR_DEAL) == 2 and global_var(GVAR_NCR_V15_DARION_DEAD)) then begin
       /*if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0) then begin
          Dest_Car(CAR_VAULT_15_HEX, CAR_VAULT_15_ELEV)
