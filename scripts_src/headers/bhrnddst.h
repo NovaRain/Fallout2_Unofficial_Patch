@@ -5,7 +5,6 @@
 #ifndef BHRNDDST_H
 #define BHRNDDST_H
 
-#endif
 #define MVAR_Hostile_Total                      (1)
 
 
