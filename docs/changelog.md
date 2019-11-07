@@ -1,11 +1,29 @@
 ## Changelog
 
+- [Version 9](#version-9)
 - [Version 8](#version-8)
 - [Version 7](#version-7)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 9
+- General:
+  - Added missing siptbox2 script.
+  - Standartized 'deathclaw' spelling.
+  - Various under the hood changes: better debug, code cleanup, switched to gcc for preprocessing, removed unused d3d dlls.
+  - Added patchinf script, now UP version is visible in-game, like RP.
+- Den:
+  - Fixed "Error" in Tubby's dialog.
+- Modoc:
+  - Disabled stuck Modoc shitty death narration (not intended to work in UP).
+- NCR:
+  - Fixed fadein/out in Vortis' dialog.
+- Enclave:
+  - Fixed final slideshow not playing.
+- Vault City:
+  - Fixed Cassidy stage 0 armor bonus.
 
 ### Version 8
 - General:
