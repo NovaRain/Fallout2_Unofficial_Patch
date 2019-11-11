@@ -13,6 +13,12 @@ lang_dir="data/text"
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
 
+# update current version in patchinf
+version="$(echo $TRAVIS_TAG | tr 'v' 'u')"
+for f in $lang_dir/*/dialog/patchinf.msg; do
+  sed -i "s|1\.02\.31u[0-9]*\.|1.02.31${version}.|" "$f"
+done
+
 # duplicate cuts for english language, otherwise sfall won't display them in english
 cp -r "$lang_dir"/english/cuts{,_female}
 
@@ -22,8 +28,8 @@ for d in $(ls $lang_dir | grep -v english); do
   mv "$lang_dir/$d" "$trans_dir/$d/text/"
 done
 
+# package into dats
 version="$TRAVIS_TAG"
-
 cd "$trans_dir"
 for d in $(ls); do
   dat="${mod_name}_${version}_$d.dat"
