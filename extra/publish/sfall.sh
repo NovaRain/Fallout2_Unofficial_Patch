@@ -16,5 +16,5 @@ done
 
 crudini --merge "$release_ini" < "$up_ini"
 version="$(echo $TRAVIS_TAG | tr 'v' 'u')"
-crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.31u${version}"
+crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.31${version}"
 unix2dos "$release_ini"
