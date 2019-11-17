@@ -12,4 +12,4 @@
 - The best way to get the issue fixed is to submit a pull request.
 - One issue per problem.
 - Attach the files directly on Github, don't use external file sharing sites.
-- Some bugs may be better illustrated with a gif or a video, you can do that.
+- Some bugs can be better illustrated with a gif or a video, you can do that. Youtube, [loom](https://www.loom.com/), etc.
