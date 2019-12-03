@@ -193,7 +193,6 @@ procedure critter_p_proc begin
 
    else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 1)) then begin
        set_map_var(MVAR_Stealing_From_Shaman,2);
-       //floater(218);
        floater(300);
    end
    else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 3)) then begin
@@ -342,14 +341,6 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-
-/*   else if (local_var(LVAR_Herebefore) == 0) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node000;
-       gSay_End;
-       end_dialogue;
-   end -comment out by killap */
 
    else begin
        start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
