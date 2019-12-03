@@ -263,6 +263,7 @@ procedure talk_p_proc begin
    end
 
    else if ( (check_general_rep < 0) or (local_var(LVAR_reaction_level) <= REACTION_LEVEL_BAD)) then begin //killap fix: changed to <=
+       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
        gSay_Start;
          //added by killap
          if ((global_var(GVAR_KILL_EVIL_PLANTS) == QUEST_COMPLETED) and (local_var(LVAR_One_Reward) == 0)) then begin
