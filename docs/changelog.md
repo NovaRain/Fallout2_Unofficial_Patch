@@ -1,5 +1,6 @@
 ## Changelog
 
+- [Version 10](#version-10)
 - [Version 9](#version-9)
 - [Version 8](#version-8)
 - [Version 7](#version-7)
@@ -7,6 +8,12 @@
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 10
+- General:
+  - Fixed crash when trying to talk to Pariah dog (introduced in [v9](#version-9)).
+- Arroyo:
+  - Fixed crash when talking to Hakunin with low karma.
 
 ### Version 9
 - General:
