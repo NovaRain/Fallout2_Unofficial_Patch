@@ -25,7 +25,7 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 ### Update
 
 * You can install UPU on top of UP 1.02.31 to make use of the fixes.
-* You can update from an older UPU version by deleting it from `mods` subdirectory and extracting the new version into it.
+* To update from an older UPU version, extract and overwrite the following files: `mods/upu.dat`, `ddraw.dll`, `sfall.dat`.
 
 In both cases, you won't see some of the fixes on the already visited maps. Other than that, savegames should be compatible, but no guarantees.
 
