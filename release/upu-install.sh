@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd -- "$(dirname "$BASH_SOURCE")"
+
 bdir="backup/upu"
 mkdir -p $bdir/data
 
