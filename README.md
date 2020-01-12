@@ -21,13 +21,13 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 1. **Launch** `upu-install.bat` (or `upu-install.sh`, if you're on Linux/MacOS).
 
 **Notes:**
-1. UPU does not _require_ starting a new game. See [update](#update) about that.
+1. UPU _requires_ starting a new game. (One exception is [updating](#update) from UP or a previous UPU version.)
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 
 ### Update
 
 * You can install UPU on top of UP 1.02.31 to make use of the fixes.
-* To update from an older UPU version, extract and overwrite the following files: `mods/upu.dat`, `ddraw.dll`, `sfall.dat`.
+* You can update from an older UPU version. To do that, extract and overwrite the following files/dirs: `mods/`, `ddraw.dll`, `sfall.dat`.
 
 In both cases, you won't see some of the fixes on the already visited maps. Other than that, savegames should be compatible, but no guarantees.
 
