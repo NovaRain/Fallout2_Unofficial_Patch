@@ -322,14 +322,6 @@ procedure Node003 begin
    ENDOPTION;
 end
 
-/*procedure Node004 begin
-   Reply(113);
-   NOption(114, Node008, 4);
-   NOption(115, Node005, 4);
-   NOption(116, Node999, 4);
-end*/
-
-//new code by killap
 procedure Node004 begin
    Reply(113);
 
@@ -341,7 +333,6 @@ procedure Node004 begin
       NOption(116, Node999, 4);
    end
 end
-//end
 
 procedure Node005 begin
    Reply(117);
@@ -377,7 +368,3 @@ procedure Node009 begin
    Reply(135);
    ENDOPTION;
 end
-
-
-
-//xxxxxxxxxxxxxxxxxxxx

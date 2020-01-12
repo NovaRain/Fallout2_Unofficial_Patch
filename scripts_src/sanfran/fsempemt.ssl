@@ -218,9 +218,9 @@ procedure use_obj_on_p_proc begin
       set_global_var(GLOBAL_NOTIFY, 3);
    end
 
-   if ( ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) and (not FIELD_DESTROYED) ) then begin //added super_tool_kit - killap
+   if ( ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) and (not FIELD_DESTROYED) ) then begin
       script_overrides;
-      if (skill_success(source_obj,SKILL_REPAIR,TOOL_BONUS)) then begin //edit by killap: was SKILL_SCIENCE
+      if (skill_success(source_obj,SKILL_REPAIR,TOOL_BONUS)) then begin
          if (FIELD_ON) then begin
             SET_FIELD_DELAY;
             if (source_obj == dude_obj) then begin
@@ -273,7 +273,7 @@ procedure damage_p_proc begin
       SET_FIELD_FLICKER;
    end
 
-   set_san_fran_flag(SF_SHI_ENEMY); //added by killap
+   set_san_fran_flag(SF_SHI_ENEMY);
 
    if (MAP_NOTIFY != -1) then begin
       set_map_var(MAP_NOTIFY, 2);
