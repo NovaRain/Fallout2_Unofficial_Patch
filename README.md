@@ -12,6 +12,8 @@
 
 This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
+[Original readme](docs/up-readme.txt).
+
 ### Installation
 1. Start with a clean humongous installation of the game.
 1. Download the latest UPU [release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest).

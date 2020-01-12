@@ -1,0 +1,944 @@
+**SPOILER WARNING**
+**This list of corrections made to the game may contain spoilers.**
+
+
+==============================
+Full List of Corrections: 
+Last updated on: JULY/05/2014
+==============================
+
+Arroyo:
+-------
+• Hakunin no longer forgets he is mad at you if you continue to insult him hundreds of times.
+• If you find Vault 13 but don't enter it, Arroyo won't change, but Hakunin's description and dialogue will! - this has been corrected
+• If you complete Hakunin's quest before getting the bonus training from Cameron, you won't get the training. This has been corrected. 
+• The Elder should no longer "forget" being mad at you.
+• Telling Nagor you won't find smoke would cause him to run into the wilds and die, but the quest would never be set to failed (crossed out)
+• Corrected an instance in several of Arroyo's scripts that could cause unending combat. (that is combat until everyone is killed)
+• Correct a problem which caused Klint and Cameron to be over-friendly and never attack the player even if the entire map is hostile.
+• Looking at Cameron no longer displays "warrior" instead of his actual name, "Cameron."
+• The dialog line "Thank you for your help." was incorrectly labeled as a "Bad" response.
+• Door to exit Arroyo temple is now correctly unlocked by Cameron just like it would if you had used the key on it.
+• Corrected a raised plate in the Temple of Trials that was detected behind the door you blow through with explosives. Before it was detectable despite there being a solid door (no hole in it yet) in front of you.
+• Fixed issue of getting multiple pieces of flint from Aunt Morlis.
+• Smoke now correctly disappears during the 4th dream sequence.
+• It was possible for the inner door to Cameron's chamber to remain locked even after completing the Temple of Trials.
+• It was possible for critters in the Temple of Trials to wander outside player reachable areas.
+• Corrected a dialogue inconsistency with Hakunin about his garden when you have negative karma.
+
+
+Klamath:
+-------- 
+• Telling Sajag about Whiskey Bob's still will now correctly display a gain of 100xp in the message window.
+• Slim Picket:
+  *You now lose money (50 or 100) if you chose to pay for learning about Geckos/the Great outdoors.
+  *Playing as a woman and talking with Slim now displays correct dialogue lines
+  *Various other corrections to the dialogue tree within the script.
+• Dunton Brothers:
+  *Convincing the Duntons that someone is watching them now correctly displays a gain of 250xp in the message window.
+  *The Dunton brothers no longer spawn spiked knuckles each time you enter combat.
+  *Buck Dunton no longer gets angry at you when you call him Buck.
+  *Fixed a bug that would cause the Dunton's script to crash if you save and reload the game.
+  *Talking to the Duntons in town about work, turning them down and leaving the map will no longer cause Torr to disappear.
+  *Fixed some scripting bugs when talking to the Duntons about work after first refusing to help.
+  *The Dunton's shop inventory transfer to their bodies only when on the main town map.
+• Whiskey Bob:
+  *He now gives you $65 when you convince him to pay you more. (He gave you $55 instead before)   
+  *He now, as was intended, snubs you off if you have a negative town reputation.
+• Unlocked dialogue options for Maida Buckner during the Torr rescue quest. (prevented by bad scripting before)
+• Guard brahmin quest would never get crossed off if you decide to rustle the brahmin instead. (this has been corrected)
+• Obtaining the Fuel Cell Regulator now correctly displays a gain of 200xp in the message window.
+• Killing Torr or any of the brahmin will set the quest to failed and cause the Duntons to run off. If you told Torr to run away and then   attack the brahmin, you would see a float over the invisible Torr after combat ends. This no longer happens.
+• After scaring off the Duntons (thereby failing the rustle quest), you can NO longer tell Torr to run away as well which would allow you to   get the quest to rescue Torr which should only be gotten after a successful rustle quest.  Several script flukes occurred as the result of   this but no longer after applying this patch.
+• Fixed a dialogue bug in Maida's script (while talking about the Den) that would cause the script to bypass a check concerning the release   of Sulik. 
+• If you use repair skill on the car in Klamath (the one with Fuel Cell) it could display "Error" in the message window.
+• Maida Buckner now says Redding is to the south east rather than south west.
+• If you had exactly $124 and asked for the bath that costs $125 in Klamath, then the money check would pass and you would get the bath. No   money would be removed from you inventory, however.
+• Fixed crash with using the bulletin board during combat.
+• Fixed dialogue loop in Ardin’s script which prevented Rescue Torr quest from getting crossed off.
+• Torr no longer thanks you for saving his Brahmin with red (angry) text. He now says it in the normal float color text.
+• Trappers in Trapper town no longer have all their float text in red. Their floats are now the default float color.
+• Killing the newly obtained brahmin by the Duntons, which were obtained upon successfully rustling the brahmin from Torr, no longer   prematurely ends the game as if you had killed the brahmin in Arroyo
+• Klamath yellow dog no longer barks (happily) with red text.
+• Telling Torr that you are not ready for his quest and then asking him again would cause him to no longer offer the quest. This is no longer  the case.
+• If the player agreed to help Torr, then talk to the Dunton brothers and agree to rustle the brahmins, then talk to Toor and make him  runaway and THEN kill all radscorpions before talking with the Duntons again, they leave the map without rewarding the player. This is no longer the case.
+• Completing the rustle quest but not accepting the reward no longer leaves the guard brahmin quest as incomplete.
+• It was impossible to obtain XP for freeing Sulik through Maida's dialogue. This is no longer the case.
+  *Also possible to get XP for freeing Sulik through the quest. 
+• When attempting to scare off Torr with Empathy all of his lines are blue- even the ones where you won't help him. This has been corrected.
+• A dialogue option regarding geckos was being displayed for Smiley even if he never spoke about it.
+• Asking Whiskey Bob to give you a drink (after passing a speech check) would cause the conversation to end prematurely. The reason for this was that the game was attempting to use a dialog line only for dumb characters and thus anyone who had an int >3 could never continue the conversation.
+• Bodies no longer age on the Cliff map allowing the bodies there to be looted at any time.
+• If you tell Torr you CAN help but then say you can't right now, the quest still appears in your status screen. This is no longer the case.
+• If you leave the map and return, the robot turns non-hostile. This is no longer the case.
+• If you work through the dialog tree until Slim offers training but decline, from then on he treats you as if your skill is too high to be trained. This locks off any possible training in the event you asked about it, but just didn't have the cash to spend the first time, etc. This is no longer the case.
+• It is no longer possible to exploit a bug by which if Mrs. Buckner frees Sulik as a quest reward, you can talk to Sulik *before* talking to Maida and give him $350, gaining 500 EXP.  If you then talk to Maida, she frees Sulik again (since it was a pending reward), gaining you another 500 EXP.  
+• Looking at Smiley after having found him now displays a proper description.
+• Whiskey Bob's still now becomes non operation after the player betrays him and tells Sajag about it. This was done to fit the dialogue Bob gives you complaining about his still being smashed up by someone.
+• It is no longer possible for Maida to keep asking to find Torr once you tell her he is dead. This would sometimes cause the quest to reactivate as well.
+• Removed a duplicate dialogue option regarding Smiley's death when speaking with Mrs. Buckner.
+• It is no longer possible to ask about Vic once he is in your party.
+• Clicking on Sajag when an enemy of the town now correctly causes him to give an angry float and attack you.
+• Party member backgrounds were the same no matter if you're in the woods, in town, or in the caves. This is no longer the case.
+• When you call the Duntons dumb and ugly they will now correctly attack you.
+• Completion of bartering with the Duntons would result in a blank response screen and an option of done which then takes you to the correct end barter response message from the Duntons. This is no longer the case and the irrelevant blank response has been removed.
+• You can no longer ask Whiskey Bob about quests you've already completed.
+• Sulik no longer keeps talking about Smiley's being missing, despite the player have already rescued him.
+• Dialogue no longer ends abruptly when asking Maida Buckner for a drink.
+• Goo in toxic caves no longer mutates you if you are wearing any type of power armor (before you would only be protected with just regular power armor)
+• If you drive the car to Toxic Cave, you won't be able to access the car trunk. This has been fixed.
+• The description of the broken down car with the regulator in the backseat did not change even after picking up the item.
+• Offering to buy Whiskey Bob a drink with < $5 would end the dialogue prematurely. This has been corrected.
+• Maida no longer keeps asking about Torr after his death.
+
+
+Den:
+----
+• Tubby NOW tells you about Redding and mentions something about it - modified dialogue
+• Having sex with Joey will no longer cause him to disappear when you leave the map and return back to it.
+• You can now get different rewards ($500, $1000, or full $2000 + stuff) from Fred depending on how much you let him initially keep. – before  only got best reward
+• Anna's Ghost:
+  *Killing Anna's ghost no longer triggers a bug that would remove various dialogue options to ask people about Vic.
+  *You now gain the correct amount of xp for burying Anna's bones (600 xp)
+• Major dialogue fixes when talking to Rebecca about the death(s) of Fred and Derek.
+• The orphans outside each store NO longer continue to accumulate items after the death of the shopkeeper they deliver their stolen items to.
+• Fixed a bug in how your barter skill affects the amount Metzger pays for your companions.
+• The members of Tyler's gang should now attack you if you attack whoever's guarding the church door.
+• Fixed an error in One• Tooth Billy's float dialogue.
+• Removed the tent roof tiles that were scattered on one of the Den slaver run maps.
+• You no longer call Cassidy "MacRae" when selling him to Metzger.
+• The game no longer says you've helped Lara's gang when you help Tyler's gang.
+• You now get the correct message and EXP for helping Lara's gang.
+• After you complete the "get 200 back from Fred" quest, the quest "Get book from Derek" would show in pipboy even when you didn't ask Becky for more work.
+• Sometimes a message would show up in the message window about trying to access the brotherhood outside door even if you were nowhere near it. This is no longer the case.
+• You can no longer enter the unfinished residential area of the Den.
+• Corrected issue with the door to Metzger's storage building that would cause them to relock upon leaving the map. (they would be open, but the caption would say there were securely locked)
+• Obtaining a bad reaction from Tubby would cause him to alter his prices when you barter. The modifier was set incorrectly, however, so instead of charging more, he would charge less.
+• It can no longer take Rebecca years to repair he still.
+• Corrected display message when looking at Rebecca's still
+• You no longer incorrectly get xp for delivering Smitty's meal late. Also made it so that the variable is set to the correct state (failed) rather than finished. It is now also possible to get a new dialog line from Mom about her complaining that you delivered the meal late. At the same time, a bug was corrected here which caused this line to always be displayed.
+• Mom no longer reintroduces herself every time you talk with her.
+• Killing Anna the ghost now sets her quest to failure.
+• After saving Vic, if you talk to him with having a full party, he says that he'll wait for you at Mom's but he would never leave the room. This has been corrected.
+• Unlocked dialog float when Vic enters his house in Klamath (this was unobtainable before due to 1 missing line of code.)
+• After attempting to steal from you, the orphans' animations would appear to become stuck. This would cause them to appear to not have death animations if you killed them when they are in this state. This has been corrected.
+• Karl in the Den had an INT 10 check that shouldn't have been one - was a typo on the devs part.
+• Rebecca will now correctly attack you if you are a childkiller.
+• Dumb characters will now give an appropriate float when banishing Anna from her house.
+• Becky's Still:
+  *Using a tool to destroy the still no longer displays a nonsensical "That does nothing" message right after saying the still was destroyed.
+  *When one approaches Becky's still after getting Frankie's quest the message that she has a still appears even though the player already knows this. This has been corrected.
+• Frankie
+  *There is now a pipboy quest entry regarding Frankie's request to find out how Becky sells her drinks so cheaply.
+  *Tweaked/fixed how his script handles the destroy still quest.
+• One Tooth Billy:
+  *Fixed a bug that would cause his script to crash
+  *Fixed issue preventing him from correctly going home to bed at night and returning in the morning.
+• It is no longer possible to ask the Slaver at the door of the Guild about joining the Slavers once the player has already become one.
+• Lara's gang no longer remains on the player's team once the player helps them win the fight against Tyler's gang.
+• Rebecca is no longer set as an evil critter. The reason for this change is that killing her counts as killing a good critter and all dialogue with her points to her being a fairly good person (she really hates slavery, so makes sense...)
+• It is no longer possible to use the "barter exploit" to keep Vic's radio.
+• The door in the north-eastern wall in Flick's room can now be locked/lockpicked like all the other doors.
+• Fixed dialogue bug with Metzger regarding Vic fixing the radio.
+• Hopefully fixed townspeople in the Den from becoming unresponsive when they travel between locations.
+• If you talk to Vic for the first time while stupid, you'll go to the wrong dialogue node. This is no longer the case.
+• Fixed issue where choosing the combat dialogue option when talking with Tyler about entering the church would not close the dialogue screen correctly and would render it unclosable.
+• When you sleep with Sheyla, she initiates dialogue shortly afterwards. If you talk with her again before that and choose to sleep with her a second time, the game then locks up. This is no longer the case.
+• Attempting to talk to Metzger (clicking on him) in combat and then killing him causes his script to break.
+• Joey now walks back to his gang after having sex with the player.
+• Having sex with Karl would not update your sex status. This has been corrected.
+
+
+Redding:
+--------
+• Sheriff:
+  *You no longer can keep getting the reward from a previous quest by declining the next one and talking with him again.
+• Bar brawl quest:
+  *You can now end the bar brawl peacefully. - You MUST speak with BOTH of the miners to end it peacefully.
+  *A message is now correctly displayed in the message window telling you that you "broke up the bar brawl." - did not do so before.
+  *Now if you talk with just one of the miners and for some reason report back to Marion, things no longer get "messy" in the scripts
+  *Sheriff no longer says that you jailed one of McGrew's miners when you jailed one of Marge LeBarge's miners to stop the bar brawl.
+• A greeting message is now displayed when you first enter Redding.
+• Going down the well in Redding (not main map well) now takes you to the correct area.
+• Marge no longer says that Dan supports NCR.
+• If you finish the Widow Rooney quest by talking to the mayor, you would miss out on the xp you should get by finishing the quest.
+• Music now plays while in the tunnels under Redding (typo prevented a music track from ever being called)
+• Music now plays on the underground entrance map to the Redding Mine
+• Killing all the molerats will no longer cause Jackpot Jane to remain stuck in "fight commentator" mode.
+• You can now get a town reputation greater than or less than neutral.
+• The Sheriff should recognize that you're a ranger even after you've completed his quests.
+• Arguing with the Sheriff about letting the "whore cutter" go will no longer lead to dialogue that starts all of his quests over again.
+• Lou now has a dialogue option in her main speech tree to leave dialogue. Before you had to ask her something before being able to leave dialogue.
+• It is now possible to get all the town reps in Redding.
+• Town map for the mining camp now correctly displays the name of "Mining Camp" instead of "Mine Entrance" which is what is displayed  when you are in the entrance map to the Great Wanamingo Mine.
+• Altered dialogue of Caravan "castle" guy to greater clarify when the caravans should arrive.
+• Fixed some scripting issues with Josh regarding is dialogue about valuables.
+• It is no longer possible to ask James Hoffy about the GECK after already finding one.
+• Giving the chip to McGrew no longer puts it in his inventory like as is done with LeBarge.
+• Madam Modjeska no longer greets you like it is the first time after already having spoken to her.
+• Looking at townspeople would sometimes give a description of "Error". This is no longer the case.
+
+
+Vault City:
+-----------
+• Autodoc:
+  *Now malfunctions for stupid characters.
+  *Fixed various dialogue errors.
+• Medic Andrew (courtyard):
+  *Fixed numerous dialogue errors involving the combat armor implants.
+  *Phoenix implants now take only two days as that is how long he says they take.
+• You now get the XP for having both the account book AND the bishop holodisk - before only got the disk xp if you had both in your inven.
+• You can no longer gain (or lose) infinite karma by commenting on Martin's singing in the Vault.
+• Barkus no longer initially says he will pay you $250 for Davin (was a typo and should read $200)
+• Gate guards of Vault City now correctly tell that Marcus is a mutant and Lenny is a Ghoul - If you are a citizen AND if you are not one.
+• When talking with Dr. Troy in Vault city you no longer say you are poisoned when you are irradiated and vice versa.
+• Thomas Moore in Vault City no longer rants when he is not on the map anymore. (You would see text floating, but not Mr. Moore)
+• Fixed issue of Randal charging you more if you fooled him with your fake citizenship papers.  (I believe this is part of the same issue when he would charge you more if you were a real citizen, captain of the guard, etc)
+• The guards in the courtyard of Vault City now acknowledge your status as Captain of the Guard (before they just called you a citizen).
+• Fixed a bug in Happy Harry's stock, where he still has a bunch of expensive items in his inventory after you end dialogue.
+• Fixed a bug that causes you to become trapped in Vault City's armory if you try to break in as a servant.
+• Fixed a bug causes Valerie to just give you back a new cattle prod instead of an upgraded one if you ask her for a discount.
+• Fixed a bug that made it difficult to get Dr. Troy to ask you to bring him some jet after the v1.02 patch.
+• Fixed the bug in the Vault City Amenities Sub• Officers that caused them to charge less if you weren't a citizen.
+• Randal's prices are now higher (since the person who programmed Vault City wrote all of the barter modifiers so that they did the exact opposite of what was intended).
+• Stark must now actually see Marcus or Lenny before making a fuss about bringing them into the city.
+• It's now possible to get the Autodoc Enhanced/Lowered Hitpoints II perks from the Autodoc in the Vault City courtyard.
+• Val will no longer do the conversation with Vic even if she is not present (at night)
+• Added case in McClure's script so that if you already repaired and optimized the plant, you can still talk with him about the econ disk.
+• Guard in the house at the left of main gate now has the correct script attached.
+• Talking with Randal in Vault City after the first time will no longer cause him to reintroduce himself and call you "stranger"
+• Vault City's vault computer will only refer to Gordon being "right about the plant information" if you talked with him about it.
+• Finally got to the bottom of the door in the Vault City's vault remaining closed, despite having opened it with bare strength/crowbar.
+• Floating text no longer appears in Cassidy's bar in Vault City when the bar is closed and no one is supposed to be around.
+• Before it was impossible to steal from Charlie in Vault City. This is no longer the case.
+• Buying the false citizen papers from Wallace and then turning him in no longer prevents you from ever becoming a real citizen.
+• The Raider's account book is now removed from your inventory after you show it to Lynette in Vault City.
+• It should no longer be possible to lose the back end of your car by leaving it at the gate, going to another town, saving/loading and returning to Vault City.
+• You can no longer get unlimited xp from the VC computer after you beat the game.
+• Unlocked spoken dialogue with Lynette (regarding the Raiders) which was never said before because a global var was never being set.
+• Dr. Troy's initial dialog was never being displayed. Now when you speak with him for the first time you will get his correct initial dialog.
+• Vault City Main computer will now raise your electrical damage if you are a dumb character - this was broken before. Thanks to Timeslip and his tweaks this issue finally became fixable.
+• It is no longer possible to sneak into the Vault in Vault City in combat mode when you are not a citizen.
+• It is no longer possible to "use" explosives on the stuck vault door. This would cause some dialogue inconsistencies to occur. Instead, the door acts as other doors do. You physically place the explosive in front in the attempt to destroy it.
+• Bar patrons in the Vault City council area no longer stand around at night giving floats as if they are asleep.
+• Harry's shelf will no longer keep restocking after he dies.
+• It is no longer possible to stand behind Wallace's locker and take the Day Pass from there.
+• As long as Puking Charlie lies on the ground we can keep using the Rad-Aways on him getting 100 exp each time. This is no longer possible.
+• Corrected an instance where Lynette's voiced dialogue did not match her subtitles.
+• Corrected an instance when talking with the gate guards as a dumb character two dialogue options with the same text would but would lead to different outcomes. This has been corrected and the correct dialogue option is now displayed.
+• In Vault City's Vault the background while talking to party members is no longer the incorrect one.
+• The player no longer stands with his back turned when listening to the Vic/Val conversation.
+• When playing as a dumb character the player's float when finding the wrench buried under the rocks is now appropriate.
+• When playing as a dumb character the player's float when repairing broken vent in the Vault on level 2 is now appropriate.
+• You can't ask Dr Andrew for healing if you have crippled limbs but full HP. This also goes for Lenny, Dr Fung and some but not all dialogue nodes of Dr Troy. This has been addressed.
+• Party members now use the Adobe background like is used with Lynette.
+• Stark will no longer give text floats to the player despite not being able to see the player.
+• Repairing the powerplant and telling Lynette you did this will now grant you citizenship. Due to a bug, this wasn't possible before.
+• If you insert the hydro-mag part into the powerplant's maintenance terminal AND then log-off immediately, on another log-in the part is not there anymore. In that cause, it's impossible to repair the reactor. This is no longer the case.
+• Fixed an instance where you could get a dialogue line when talking with Skeev about showing citizenship papers but yet you don't actually have them.
+• Fixed bug that prevented Lydia from giving her end of game dialogue.
+• Tweaked the triggering for conversations with Vic and his daughter. They shouldn't happen with Vic outside the building.
+
+
+New Reno:
+---------
+• Salvatore
+  *Salvatore no longer locks up when you click on him after becoming a made man, nor if you decline a mission he gives.
+  *Salvatore no longer freaks out if you talk to him after he just gave you a mission. He now says the correct message of "Go see Mason."
+• Bishop (Carlson quest)
+  *Now get $750 if you ask for $750 rather than luckily getting $1000
+  *It is now a bit harder to get the $1000 - before it was easier than the $740
+  *Can now get the $500 - before got nothing
+  *Changed a speech option that was marked as neutral but was really a bad one.
+  *No longer duplicate lines asking about his health
+  *When asking about his health, Westin's name no longer comes up
+• If you sell your NPCs to Big Jesus they now actually disappear
+• The comedian now correctly says the 2nd of the two new routines he has after you beat the Enclave. This one occurs if you got Angela Bishop pregnant. Before he would just explode and never say the line.  Now he correctly displays the line and then blows up to the cheering of the audience. (I guess that is what happens to you when you mock the daughter of the boss's you are in...you get shot in the head! ;0)
+• All bugs (dialogue, crashes, etc) with T-Ray should be fixed. (Thanks to Seraph for the work he already did)
+• Fixed a glitch in how the car is handled in New Reno after you get it back from T-Ray.
+• Fixed a bug where if you would come to the Chop Shop on foot, your car would appear there.
+• Old Man McGee and his slot machine (Bishop casino) have been added and are now perfect. His proto was on the map, but his script was not assigned to him.
+• Mr. Bishop's safe should no longer cause crashing when trying to rig it with explosives.
+• You are now be able to find the map to the SAD from Sam Pritchard's map. (prevented before by bad scripting)
+• If you have a family quest active when you turn that family hostile, the quest will be crossed out (set to failed) in your quest list. If you manage to talk to your employer without him attacking you may get some unexpected dialogue in this case. This has been corrected.
+• After wiping out the raiders and speaking with Bishop he may say that you had Skynet with you even if you don't have the robot. He actually means Sulik since the variables are mixed up.  This has been corrected.
+• Discount modifier is no longer incorrectly applied with Renesco which allowed you to get all of his goods for $0
+• "When you've completed the secret transaction job Salvatore has given to you, go talk to him with Intelligence 3 or less. When he asks you to join their family, because you're dumb you can't talk to him and the dialogue screen closes. You don't join the family, you gain the   job's xp, plus you can repeat this. Every time you talk to him, it happens as if you have done the job again and you get 1000 xp for free."   This has been corrected.
+• If you didn't also perform quest 9 for Bishop you won't get to be a Made Man if you ask for more work after this, but you will if you pick the "pleasure doing business" line. This has been corrected and you must (as was intended) complete every quest from Bishop to become a mademan.
+• If you talk to Bishop after delivering the briefcase, without being a Made Man or having an active quest, and he doesn't have any job to  give you, Bishop will accuse you of screwing up the Westin assassination. This has been corrected.
+• Minor scripting fixes to Mason and how variables are handled.
+• You get the briefcase from Moore in Vault City to give to Mr. Bishop, but if you kill Bishop, steal his files, and complete the eliminate-  the-raiders quest trail, this never gets crossed off your action list for Vault City. (If you go back to Moore, he keeps telling you to  deliver it to Mr. Bishop. This has been corrected.
+• NPCs NO longer disappear forever after sleeping with either/both of the bishop women and then returning downstairs. (JOY!)
+• Issue with variable being set regarding the stash in Golgotha told by Myron
+• You can no longer get an infinite amount of free jet from Jagged Jimmy J by exploiting a script error.
+• Corrected a bug where Myron's guards would be called into the room but would just follow you around forever rather than attacking you.
+• Several bug fixes with Eldridge:
+  *He will no longer attack you if you ask him for upgrades after beating the Enclave.
+  *He no longer grossly overcharges you.
+  *He no longer upgrades your weapons for free when your barter skill is greater than 90%.
+• The New Reno bartenders now charge you LESS (instead of MORE) when you're a prizefighter or have beaten the Enclave.
+• Killing Myron or convincing him to leave will now lower the Mordinos' power instead of increasing it.
+• The hole in the wall of the Cat's Paw has been filled in so you can no longer run through it.
+• Fixed a bug that causes what was meant to be a debug message appear in the display when you pay Renesco money for the mine part.
+• Fixed the bug where Miss Kitty would always charge $703 for dramatic requests, regardless of the many modifiers that lower her price.
+• You can now get the secret stash under the "Trash" cross in Golgotha without knowing about the grenades hidden in a toilet in the Mordino Casino.
+• The street band now actually sings.
+• Wright's daughters no longer display error in the message box when you look at their description.
+• Myron is no longer equipped with Needler ammo when you first enter his combat options screen.
+• Fixes to Wright's and Bishop's safes.
+• The Masticator in New Reno no longer displays "error" when you look at his description.
+• The doors to New Reno Arms now have scripts attached to them.
+• You no longer have to sleep with Mrs. Bishop to lockpick her safe.
+• Drug dealers in New Reno now charge less rather than more when you defeated the Enclave or are a made man, prize fighter, or pornstar. The modifier was backwards.
+• Jules will no longer acknowledge your car if you left it on Commercial Row and go to Virgin Street on foot.
+• It is now possible to peacefully let Lloyd go. Before both end options led to combat.
+• Getting knife training (as a male) from Lil Jesus no longer increments the sex counter. This should only happen if you play a female character and actually sleep with him, but for some reason the same would occur if you were a male. (even though you don't sleep with him)
+• Boxing fixes:
+  *Boxing names are now set properly for stupid characters.
+  *You can no longer get infinite boxing rematches if you box for the first time after defeating the enclave.
+  *Boxing name, "Lightning" no longer has an addition space after it in all the float messages.
+  *It no longer says you beat the masticator if you fight and defeat his replacement
+  *Camera now centers on the announcer when the match first begins (no longer is the opponent outside of view)
+  *Stuart Little no longer disappears when you lose against the Masticator, say you want to rest, leave the map, and return.
+  *Becoming a prize fighter now correctly displays the message that you have become "Heavyweight champion of New Reno" 
+  *Becoming a Prize fighter now correctly raises your damage resistance by 5. This now works thanks to Timeslip's engine tweaks.	
+• If you enter New Reno via Commercial Row you will start in the upper left corner while your car is in the lower right. The same thing happens in the east side of The Den. Both instances have been corrected.
+• Lil Jesus no longer chastises your Melee skill if it is extremely high (295+)
+• Bishop's guards at the bottom of the stairs now recognize you if you are doing quests for Bishop.
+• Tweaked Bishop's safe so it no longer says ("you cannot repair") when you change the combination or ("you find no traps") when you do indeed find and disarm traps.
+• It is no longer possible to tell Mason you solved the Lloyd situation before ever speaking with Lloyd.
+• Fixed message error when damaging Wright's still. There was a duplicate line which could potentially cause a crash. In addition, the line that you destroyed the Wright still was never being displayed.
+• When digging up the ghoul on Gologotha, there is some grey text which goes by too quickly to read. This text was actually part of the float he gives before you dig him up and thus was not supposed to be displayed anywhere. This has been fixed.
+• Going down Lloyd's hole by means other than dialog would cause your NPCs not to follow you down the hole.
+• Angela Bishop fixes:
+   *She no longer yells at you for killing her father when you have destroyed the Enclave and are a female.
+   *She no longer only gives float dialogue when you click on her and are wearing Power Armor.
+• Craps/roulette dealers in the casinos were not being set correctly with the family they work for.
+• Myron will now correctly carry more (10 lbs) when he promises to do so if you ask him to wait. - this was broken before. Thanks to Timeslip and his tweaks this issue finally became fixable.
+• Going on date with Miss Kitty after defeating the Enclave now correctly increases you agility by 1.
+• Going to see Myron as a hooker (through Miss Kitty) now enables you to see Myron. Before, going to see Myron this way did not give you any advantage. 
+• Fallout 2 hintbook now correctly updates all your stats to 10s, your skills to 300, and your hit points to 999. Thanks to Timeslip's tweaks this finally became fixable.
+• Having an NPC (who is not able to have sex) when talking with Miss Kitty would bring up dialog options about NPCs having sex leading to a dead end in the dialog tree.
+• It is now possible to learn about Myron's hookers from Jules. His script would never set the variable before.
+• Female boxing fans are now correctly labeled as females.
+• Corrected a bug in Myron's guard's scripts when talking with them as a stupid character. Duplicate options would be displayed with both pointing to different nodes. The correct dialogue lines are now displayed.
+• When choosing your name as a made man, the option for "Killer" is no longer displayed twice.
+• Salvatore's guards on the desert transaction are correctly stocked with 5mm JHP instead of .223 ammunition.
+• Junkies no longer continually accumulate Jet due to being unable to use it on themselves.
+• It's no longer possible to get infinite boxing rematches before winning the game by *failing* a speech check..
+• Corrected an instance where Myron would display an incorrect dialogue option when he won't join you because you have CH 1.
+• It now takes time to go to and return from the Salvatore-Enclave transaction.
+• During boxing matches, the boxers you fight now correctly display the right descriptions. Before they were all described as generic boxers.
+• Some dialogue float errors with Myron
+  *He would not display the correct float when Lenny was in your party
+  *There was a script error that prevented a float line from being displayed when Marcus was in your party
+• Corrected incorrect floats by the boxing fans during boxing matches depending on whether the player was male or female.
+• When playing as a dumb character the player's float when finding out that the car's missing is now appropriate.
+• If Lloyd becomes hostile in the basement it is no longer possible to enter peaceful dialogue with him as if nothing happened.
+• Fixed various scripting issues with Lloyd and how his script handles going to Golgotha with/without him.
+• Casino dealers now correctly return to their tables after combat.
+• The talking slot machines in the "Desperado" sometimes give error messages when your character is drunk/drugged. This has been corrected.
+• Fixed a dialogue scripting error when asking Majorie Reed about Jet.
+• Fixed a scripting bug which prevented Stuart Little from giving the correct special dialogue lines when choosing a specific boxing name.
+• Fixed several scripting bugs with T-Ray and getting the car back which caused inconsistencies in receiving xp/rep.
+• T-ray now gives the correct floats when you tamper with his belongings/lockers.
+• Reoriented a table in T-Rays shop to make it accessible to the player.
+• Reoriented ammo found on the 2nd floor of the Shark Club which was out of reach of the player.
+• Corsican Brothers now correctly give special dialogue lines when selecting specific Porn Star names.
+• Casino girls no longer give floats in red.
+• Casino girls' floats for prizefighters and porn stars are no longer reversed.
+• If the player is a slaver, it is no longer impossible to complete Mordino's second quest.
+• Using lockpick on locked doors at the Desperado basement or the second floor of Bishop's casino no longer cause the message "That does nothing." to come up regardless of whether or not you succeed in your lockpicking attempt.
+• The temporary bonus given by Miss Kitty to NPCs during sex is now correctly applied.
+• The singing trio at second street no longer have different names depending upon whether you "look" or "examine" them.
+• If you completed Salvatore quest 3: Enclave transaction (but do not go hostile) and cancel your Made Man Salvatore by killing all Salvatore & his men, you could join the Wright family children insect quest, where you meet the transaction again. This is no longer possible.
+• Some of the slot machines in New Reno casinos can not be accessed because 'somebody blocks them' - even though nobody is. This has finally been addressed!
+• Attempting to talk to Pretty Boy Lloyd (clicking on him) in combat and then killing him causes his script to break.
+• Fixed minor dialogue error after asking Myron to take off his armor.
+• Fixed a minor dialgoue error with Jagged Jimmy J where playing as a dumb character you could get a normal character dialgoue line.
+• Enclave soldiers at the secret transaction had the plural 'Soldiers' in scrname.msg rather than the singular.
+• Fixed dialogue bug when talking with Chris Wright choosing options (1-4-1-4). The dialogue would end prematurely.
+• You now need a respect level of >= 15 rather than > 15 to become fully respected by Salvatore. Before it was impossible to reach this level without exploiting the dialogue.
+• Fixed bug where a dialogue float was never displayed when you have Miria/Davin work as a fluffer.
+• It is possible for some dialogue paths with Renesco to prevent you from asking about mine purifier parts when you really shouldn't be prevented from asking him.
+
+
+Sierra Army Depot:
+------------------
+• The terminal on the second floor of the Sierra Army Depot now correctly disables the force fields and shock plates.
+• Fixed a continuity error with a couple of the dates given by Skynet.
+• When you activate the alarm on level 1 of S.A.D., it will now correctly activate the alarm and release the brain bots within the adjacent secret room, instead of giving you a permanent artificial RadAway addiction.
+• You can no longer turn off the alarm on level 2 of S.A.D. by both attempting to disable it and hacking into the computer, thus giving you the EXP for both.
+• You can no longer walk on top of the pot on level 3 containing a holodisk.
+• You can now correctly guess the password to disable the shock plates on level 2 of the S.A.D.
+• Cleaned up errors with the computer when constructing the brain bot (would display the status of the bot incorrectly)
+• Disabling the Robot repair terminal now displays a message saying you did.
+• Extracting a brain from Skynet should now return the specific brain that was installed.
+• Robots on Level 4 are now released from their enclosure when Skynet gets angry.
+• If you release one of the viruses the game says you have 4 minutes to evacuate but the game kills you after only 1 minute. This is no longer the case. The original intent was that you have a minute per level of the SAD to evacuate. Thus 1 minute to exit level 4 before dying, 1 minute for level 3, etc. This was broken but now works as it should.
+  *Fixed a message error that caused an incorrect line to be displayed when you hit the end of the timer.
+• You no longer get xp from the lvl 1 computer by pressing help and then not running the diagnostic test.
+• Fixed a message display issue with electric floor plates and robots stepping on them. Wouldn't attach the object name to the message.
+• Security bots no longer make dialogue floats after having first become active due to an alarm going off and then later inactive (eventually going invisible too) when the alarms are reset.
+• If you anger Skynet (the terminal), then talk to it and ask why you should help it, the message says the door to the room slams shut, but in reality it doesn't. The door now correctly closes.
+• Evil Skynet now kills your entire party rather than just stopping after killing only one party member.
+• Robot eyebots didn't spawn with any weapons. They now spawn with Robo Melee Weapon 1. Robot eyebots at the Enclave used Robo Melee Weapon 2, so this correction seems reasonable.
+• Fixed inconsistency in how the lights flash after setting off the alarm.
+• Fixed scripting errors with the Munitions Access Terminal and disabling force fields.
+• Fixed a bug which caused a crash when trying to destroy a previously destroyed emitter using explosives.
+• Robots on level 4 now correctly remain hidden until an alarm is raised like is done with the robots on the other levels.
+• Fixed a bug which caused robots not in the enclosures to go invisible after the alarm is reset.
+• When Skynet joins your team, he now correctly disables the security on level 4, like he does to the other levels.
+• One of the mines near the shack with a howitzer can't be disarmed or triggered. This has been fixed.
+
+
+NCR:
+----
+• Killing (ok killing) or stopping Jack in the power plant now correctly displays a gain of 3000 xp in the message window.
+• Nording will now say he gives you $50 instead of $500 if you fail - (Caravan runs)
+• Merk now steals stuff from your car if you blow off the guy who can guard your car. (Never fully implemented by the original designers)
+• Myron now disappears when you sell him to Merk
+• Fergus(NCR) no longer walks out of the building and disappears forever when you try and use any type of skill on him.
+• The guards that follow Merk should now always be present when he is on the map. Before, this was not always the case.
+• If you save while Merk is moving to his next destination, and then reload, his script would freeze and you would be unable to speak with  him until you leave the map. This has been corrected.
+• Due to a dialogue bug, you could become a ranger without ever completing the quest to free the slaves. This has been corrected.
+• Clicking on Hal during the caravan rides would cause the variables used during the ride to reset thus preventing the caravan from ever ending. This has been corrected as well as three minor dialogue lines added so that Hal at least says something when you click on him.
+• IN<4: You can get the Spy Holodisk from the computer and even tell Tandi about it, but you can't report to Gunther and get the reward because of the IN requirement.
+  * Added 3 lines of dialogue allowing you to get the deserved xp. (You were told to go get the money so you should)
+• All issues associated the fight with Lenny in Merk's basement
+  *ALL NPCs now remain hidden during the fight and reappear after the fight.
+  *Saving and reloading during the fight no longer causes the player to become stuck in the ring
+  *There was a pretty nasty bug that if you had multiple slots filled with a same type of gun (ie different amounts of ammo in each one) you would end up with more guns than you started. This has been corrected.
+• The stairway in Merk's basement has been fixed so it doesn't appear to be going through the wall.
+• The Stockman's Association sign is now in Duppo's shop.
+• The townsfolk will no longer display "Error" as floating text.
+• You can no longer have conversations with the sink at the entrance.
+• Issues with variables not being set for Doofus to watch you car.
+• NCR now has a entrance greeting message
+• You could continue to threaten Dr. Henry in NCR about getting his papers even after completing the quest
+• Using the mutant serum on Lenny during the fight no longer causes you to become stuck in the fighting ring.
+• Forcefield to Westin's farm now turns on and off correctly.
+• Dialogue screen should no longer keep popping up if teammates or other npcs try to access the door Duppo's store.
+• Geiger counter in the shelf behind the NCR guard in the house on the Bazar map is no longer turned on.
+• Asking Duppo about finding Carlson will no longer lead to the incorrect node hence to the incorrect response.
+• Completing the serum quest for Dr. Henry and talking to the robotic dog, but not taking it with you would reset the quest allowing you to redo it an infinite number of times. This is no longer the case.
+• Having fixed the Vault 13 computer and then asking Westin for the guard job (and getting accepted) directly after reporting Bishop is dead is no longer possible.
+• When Jack goes to jail, he is no longer armed. His gun was going to a locker that did not exist, and thus his gun would never get removed.
+• Merk will now recognize the fact that you have killed Doofus when he tells you to go do it.
+• The overseer in Vortis' building should no longer attack the player when he is in the main room.
+• Talking with a patrolling slaver guard in from behind the fence no longer causes him to think you are trespassing.
+• Threatening Dr. Henry and failing a speech check now causes guards to come running. This was broken before.
+• The policeman (Deputy Karl) who opens the door to Oswald no longer gets stuck in certain cases.
+  *Added dialog for dumb characters to speak with Oswald (dumb characters have the option to speak with him, yet this is impossible since dumb characters can never get dialog with Karl to see Oswald)
+  *Fixed bug where dumb character would talk with him and if party members were not present, Karl would refer to them.
+• Doofus in NCR is no longer named Skeeter when you hit the review button.
+• Vortis will no longer get stuck in his room or on the way to his room.
+  *Added dialog line when you speak with him when he was on his way to the back room. He would attack you if you talked claiming you are breaking in the back room even though you are talking with him in the main room. Now he will tell you to come back in the morning if you talk with him as he moves to the back room. Once he hits the back room (and you enter it) he will yell at you and call for guards like he did before.
+• Duppo:
+  *Fixed bug for dumb players which would cause the Duppo to talk about cattle drives rather than Weston
+  *Fixed bug which caused stupid characters to get the smart line about Carlson and smart characters to get the stupid line.
+•"Take care of Officer Jack" for Mira quest no longer pops up when Jack dies even if it wasn't active before.
+• Fixed bug with Westin and him reoffering you the quest to guard the brahmin if you already are doing it.
+• If you do not have the science skill to disable the Slave Pens, it is now possible to still complete the quest by destroying the doors. Before, destroying the doors would do nothing and the slaves would stand there despite there being a missing door.
+• NCR guard warning floats are now displayed in red.
+• Carlson's kid:
+  *Fixed some issues with threatening Carlson's kid and him not reacting properly. 
+  *Fixed an incorrect dialogue option being given.
+• You can no longer get multiple copies of the NCR history holodisk if you keep asking Tandi about 'shadeesands'. 
+• Talking with Westin as a dumb character and choosing the option about Vault 13 no longer prematurely ends dialogue.
+• Talking with Doctor Jubilee about the Mother Lode\saying "Ask more" no longer prematurely ends dialogue.
+• Playing as a dumb character and asking Tandi about NCR history prematurely ends conversation. This is no longer the case.
+• Corrected an incorrect dialogue option from being displayed when speaking with Vortis as a dumb character.
+• You can no longer ask Buster about the GECK after you already find one.
+• Hal is no longer on the player's team while in town.
+• If you abandon the NCR cattle drive you can are no longer able to pick up a reward.
+• The guy who pays you for the NCR brahmin quest is no longer on the player's team.
+• When playing as a dumb character the player's conversation with the "talking door" in the Stockman's Association is now appropriate.
+• When playing as a dumb character the dialogue options with the Bulletin Board is now appropriate.
+• Pressing 0 in dialogue with Buster interferes with his inventory swap. This has been corrected.
+• Telling the Hubologist that you won't kill her for Merk causes you to get the letter quest without any message or explanation. This is no longer the case.
+• Party members now use the Adobe background like is used with Tandi.
+• Fixed a useless skill tag check in the Enlightened One's script.
+• The three inferior Brain Bots are now checked for weapons.
+• Offending the Enlightened one no longer causes the dialogue to exit without any warning.
+• It is no longer possible to fight Lenny again despite having killed him with the serum (would result in a crash)
+• Fixed rare bug which caused Merk to reoffer the quest to retrieve Dr. Henry's papers.
+• Fixed a bug which caused Merk to reoffer the quest to kill Doofus.
+• Merk now correctly reacts to the player having killed Doofus.
+• Doofus is no longer incorrectly labeled as an evil critter. He is now considered neutral.
+• Attempting to repair the power plant terminal before dealing with Officer Jack would cause several bugs to arise. This has been corrected.
+• Corrected scripting errors with Mira and the quest to kill Jack for her.
+• Mira now correctly gives you booze on the house after telling her what happened to Jack.
+• Killing Lenny no longer blocks some dialogue options for Mira from showing up.
+• Dusty no longer continues to give you free booze everytime you talk with him for having beaten up Hoss.
+• If you beat up Hoss so he becomes unconscious, Dusty is now aware of this unlike before where he only becomes aware of this when Hoss wakes back up.
+• Picking the lock to Westin's house would result in Felix yelling at you despite the fact that he may not see you at all. This is no longer the case.
+• Tandi no longer talks about Westin after he has been killed.
+• Peasants in NCR Downtown can no longer walk out the gates of NCR during daytime.
+• Fixed the issue where Oswald's jail cell can be locked and yet opened thus preventing Karl from reclosing the door.
+• Grant, a guard to Westins' ranch, now correctly faces the right direction after letting you in.
+• Fixed issue where you have to provide the door password to Duppo's backroom to exit the backdoor even though you're already inside.
+• Fixed issues with Mikey not properly selling all types of iguana on a stick.
+• Fixed instance where retrieving the computer parts from V15 before completing the 'deal with NCR' questline would prevent you from speaking to Tandi and truly completing that questline.
+• Vortis would threaten to kill you if you touch the door after several attempts. He now lives up to his promise.
+• Fixed instance where asking Buster about Westin leads to the comment he would offer if instead asked about Carlson, and asking about Carlson leads to the comment he should offer about Westin.
+• Fixed a crash with Hoss when he's trying to fight you and you don't have a weapon in your hands.
+• Corrected instances where Tandi or Buster would refer to Roger Westin as Frank Westin.
+• Fix for Chosen One having the car but leaving it behind and arriving in NCR by joining a caravan.
+• Ratch no longer initially keeps saying he installed the blower in your car each time you enter the map.
+
+
+San Francisco:
+--------------
+• You can now copy the vertibird plans by hacking into the Shi physics database yourself - can do this only once.
+• Bar on the Oil Tanker
+  *No longer closed 24/7
+  *Various dialogue error fixes
+  *Bartender now actually carries booze
+  *Bartender now restocks booze, etc every couple days
+• Badger will now actually turn the Hubologists hostile if you either hurt a vagrant or him (He said he did but nothing happened)
+• Various fixes to the physics, chemistry, and biology terminals.
+• Vikki and Juan:
+  *Leaving the map during scripted sequence between Vikki and Juan and then returning will no longer cause their script to freeze.
+  *Fixed dialogue error when talking about the "Hub's latest book"
+  *Should no longer be able to go through their scripted sequence multiple times.
+• Fixed a dialogue error with the Hubologist's main computer.
+• AHS-9 will no longer keep giving stupid characters xp for getting fuel.
+• Dr. Fung:
+  *Acquiring of implants works perfectly.
+  *You no longer can get the regular implants after you get the enhanced ones - thereby causing you to have BOTH regular and enhanced.
+• You can now finish the spleen quest by assassinating Dr. Wong within one day after his refusing to give you the spleen and then going to Dr. Fung as usual. (This was prevented by a bug before)
+• Stupid characters can now get one training session for the Dragon/Lo Pan in SF - was prevented by bad scripting before.
+• Leaving the map before the scripted fight with Lopan and Dragon ends no longer causes Lopan to remain stuck inside the ring.
+• You can NO longer get double experience by taking advantage of a glitch with Badger and delivering fuel.
+• If Handy hacks the Shi computer for the fuel it would trigger Badger's death sequence as if he was the one who did the hacking. This is no longer the case.
+• If you deliver the armor to Jing in exchange for money or tanker fuel, every time you talk to Crocket afterwards he would whine about not getting any fuel even if you never promised him anything.  Variables were incorrectly being used here but has been corrected.
+• You can pay Crocket to upgrade multiple armors as long as you don't leave dialogue, and lose money (assuming you pay, that is) and one Power Armor each time, but naturally when he's done you only get one back. This would be sort of the opposite of bug exploitation though  but has been corrected anyway.
+• All bugs associated with the ring fighting have been fixed. (i.e., no more crashes, scripts wigging out, becoming stuck in the ring, opponents becoming stuck, etc)
+• Matt (Brotherhood guy) no longer disappears right in front of you.
+• The Captain of the tanker will no longer say that your people are on the oil rig if you weren't even aware that they were abducted..
+• Several holes in the walls in the Hubologists' base were filled in so you can no longer run through them.
+• Fixed a hole in one of the walls in the BOS base.
+• You can no longer use the chemistry workstations to get fuel for both the tanker and the Hubologists.
+• Your party members will now be hidden when you watch the tape of Horrigan killing Matt.
+• Fixed a bug where Chip would get mad at you for asking him for information when in reality you did no such thing.
+• Dr. Fung will no longer cause the game to freeze when you ask him for stimpaks after he refuses to heal you because you don't have the money to pay him.
+• You now have to actually mention Doc Holliday before Dr. Fung will put Chip's spleen back in for free.
+• Killing all the Hubologists now sets the "get fuel for them" quest to failed.
+• Corrected an instance that would cause Matt to reask for help even after already accepting the quest.
+• NPCs should no longer be able to walk out of the foyer of the tanker (and thus walk around parts of the map that are impossible to get to)
+• Corrected a script error that caused Dave to no longer display useful dialogue options (such as those regarding fuel)
+• Having Badger siphon the fuel from the Hobbologist to the tanker no longer sets the variable of successfully completing the quest to get fuel for the Hubbologists. Instead the variable for filling the tanker is set.
+• There is now a greeting text when you enter.
+• If you happen to have both the quest to kill the Emperor and AHS-9 active, completing one will automatically cause the other to be crossed out (failure - since you become the enemy of the other side now)
+• Corrected a bug with Hubologist hard drive formatting. You could do it an infinite number of times and gain an infinite amount of karma.
+• Slowed down the floating text over AHS-7's head when he gives you a zeta scan. It was almost impossible to read before.
+• Peasants no longer move about (thus use turns) while you fight in the ring.
+• If you get the hardened armor from Crocket but remove it from your inventory and speak with Dr. Jing again, you could reinitiate dialog and get the quest all over again.
+• Accepting the quest to get Chip's spleen back, telling him Dr. Wong has it, Refusing to help put back it in, refusing again when Chips pleads for help, and then finally accepting would cause Chip to continue being mad at your for refusing (despite you finally accepting) and the dialogue option with Dr. Fung would never appear.
+• Getting fuel from the Hubologist by means of Badger would not set the Hub fuel reserves to empty and thus using their main computer would still show fuel in the shuttle.
+• Added means to direct fuel from the Hubologist computer (given the player directed fuel to the hubs in the first place) in the event the player gets stuck and cannot get fuel to the tanker by any other means.
+• Fixed issue with getting permission from Ken Lee to use the computer by getting a good reaction as a stupid character. (a bit pointless since dumb characters cannot use the Emperor, but it was a bug that needed to be fixed nevertheless)
+• You no longer have a dialog option with Chip to talk about you missing Tribe if you do not know that your tribe has gone missing.
+• It is no longer possible to ask about your missing tribe with various NPCs before you know it actually happened.
+• Speaking with Lo Pan about training as a dumb character would display non dumb end conversation options. This has been corrected.
+• The Shi Guards in the room with the Emperor now react when the player breaks through the forcefield.
+• It is no longer possible to get xp from both Matt and AHS-9 for preparing the tanker when playing as a dumb character.
+• Jing will no longer add the delivered armor to his inventory so you can't steal it back.
+• The red and blue guards in the Steel Palace are now on the same teams.
+• Having the Hardened Power Armor quest bypasses Crocket's check to see if he's out of chemicals. This is no longer the case.
+• "I got the quest to retrieve verti plans for Shi, then for Hubologists, as I already have the plans I gave it to Hubologists and then retrieved it with Badger's help along with the fuel. Then I killed AHS-9 (with super stims) gave plans to the Shi doctor, and then talked to Ken Lee. He congratulated me killing AHS-9 but didn't mention the plans. The quest to get the plans from Navarro for Shi didn't cross out." This is no longer the case.
+• "When one helps the rocket supervisor from Hubologists to retrieve both verti plans and fuel he's all happy. I managed however to copy the plans and steal the fuel for the tanker using Badger's help and he still says that he needs help but no option to grant it is available." This is no longer the case and a new line of dialogue was added to be said by him in this case.
+• If you drop the Vertibird Plans after getting Handy to copy them from you, you can ask him to do it again. This is no longer the case.
+• "Even though Badger will get the vertibird plans for you if you have the Brotherhood quest active and gave the plans away, it won't allow you to ask Badger for hacking in the first place." This has been corrected.
+• Corrected an instance where available options when speaking with Ken Lee would lead to him telling the player the Emperor is a computer and no option would be avaiable to the player to express surprise about this. This has been corrected.
+• You were getting more karma than you should have when you kill Lopan without specifically getting a quest to do so. This is no longer the case.
+• When playing as a dumb character it is no longer possible to get the Tanker fueled and ready to go AND install the NavCom ("again") despite it already being installed.
+• After completing Dragon's quest to challenge Lo Pan, Lo Pan's quest (if obtained as well) doesn't cross out and vice versa. This is no longer the case.
+• Lo Pan no longer displays a nonsensical dialogue option after having taught the player four times and the player asking for training once more.
+• Added prevention so it is no longer possible to set off explosives during the Badger cutscene.
+• Fixed various issues with Ken Lee in regards to gaining access to the Emperor and killing AHS-9
+• Some entries in the Chemistry and Physics terminal now correctly advance time after reading them.
+• Chip no longer disappears forever after his spleen has been restored.
+• Corrected Chip's orientation when he returns back to the Tanker after getting a new spleen.
+• Fixed a dialogue issue with Chip and getting Dr. Fung to help for free.
+• Fixed dialogue issues with Suze during and after rescuing her.
+• The Shi people now properly give their dialog floats when you kill ASH-9, rather than always giving the floats about the challenge between Lo Pan / Dragon.
+
+
+Raiders' Base:
+--------------
+• Car no longer disappears when you go down the manhole in the secret entrance and then come back up.
+• Corrected one mine which could only be seen after already stepping on it.
+• The player will now stop when a pit trap is noticed. (just like what is done when a mine is spotted)
+• Base now has a button on the world map menu.
+
+
+Vault 13:
+---------
+• You are now able to get Goris to join your group after the Vault 13 massacre. - would keep leaving you saying the pack was in trouble.
+• Gruthar no longer turns hostile if you use any type of skill on him. Was setting the hostile variable for some reason.
+• Joseph in Vault 13 will no longer double your radiation when you ask him to cure you.
+• Your party members will now be hidden when you watch the tape of Horrigan killing Gruthar.
+• Fixed potential crash occurring in Vault 13 after the death of Matt
+• Corrected an incorrect dialogue option from being displayed when speaking with Ariel as a dumb character.
+• It is now possible to receive the "Talk to Goris" quest from Gordon.
+• It was possible for Dalia to be killed by the Enclave despite you having not sent her away from Vault 15.
+• A few doors were pickable only with lockpick skill and not lockpick tools. This has been fixed.
+• Fixed some dialogue issues with Goris when playing as a dumb character.
+
+
+Vault 15:
+---------
+• No matter where you would enter the Vault 15 map (world map, elevator entrance, underground), you always end up at the southern end of the 1st map. This has been corrected.
+• Zeke is no longer pissed off when you come back to see him after being annexed by NCR.
+• The guard on level 3 with the H&K P90c now has the correct ammunition.
+• You can no longer have conversations with the sinks on level 2.
+• Vault 15 entrance map now has a greeting message upon first arriving.
+• Fixed glitch with the forcefield in the Vault that made it impossible to disable.
+• It is no longer possible to barter with Darion in Vault 15.
+• With extreme Traps you can't open the outside elevator door after Lockpicking it because you keep detecting an undetrappable trap. This is no longer the case.
+• The guard on level 2 with the hunting rifle now has the correct ammunition.
+
+
+Enclave:
+--------
+• The terminal in the entrance area to the Enclave can now be hacked if you don't have the presidential pass key. Requires HIGH science skills.
+• You can no longer return to the Enclave after you beat the game and destroy it.
+• If you are a stupid character and talk with President Richardson he would call the guards on you, but no one would come.  This has been corrected as well as a few other instances when guards should have been called but never were.
+• Horrigan should no longer be able to shoot through doorway/doors during the final fight scene.
+• You can no longer tell Murray to disable the reactor, then do it yourself and get double xp.
+• The Elder can no longer run through the forcefield.
+• You can no longer get a "back to log on" option in the terminal if you lack the prerequisites to get "log on" in the first place.
+• Sergeant Granite now displays the correct animation frames for holding the pulse rifle.
+• Corrected dialogue scripting bugs with Murray.
+• Convincing Murray to shut down the reactor, no longer causes him to still say "What's the alarm ringing about?"
+• It is no longer possible to stand on a computer terminal directly northwest of Murray. 
+• Added rockets to a rocketbot in the barracks area. Unlike the other bots, it carried no extras.
+• Corrected issues with the computer terminal at the entrance.
+  *If you kill the President and swipe his passkey, but return and activate the Counter Insurgency Protocol before blowing up the reactor (i.e. Frank Horrigan hasn't shown up yet), then the terminal will still claim that it has located a target. This has been addressed.
+  *The terminal no longer incorrectly checks your sneak skill when it should have been your science skill
+  *Fixed some oddities related to logging in as Smith, J
+• Fixed some minor dialogue errors with Martin and talking about saving your tribe/blowing up the reactor.
+• The Elder no longer gives an incorrect dialogue response when asking her about the effects of FEV.
+• Corrected a dialogue error with Dr. Curling when talking about the player's claim of humanity.	
+• Corrected a dialogue error with the President when taking about releasing the toxin on the world.
+• Corrected a dialogue error when trying to take the President hostage.
+• Corrected issues with the President and the dialogue responses given depending on the type of armor the player is wearing.
+• Blowing up the reactor's controlling terminal now correctly damages K-9, Dogmeat, and other forgotten NPCs.
+• The Elder no longer has the Arroyo background when talking to her at the Enclave.
+
+
+Navarro:
+--------
+• Navarro male sergeant is no longer using the female proto.
+• Talking to the gate guard as a dumb character would eventually make his talking head disappear. This is no longer the case.
+• Mines have been fixed so that they can actually be spotted. Before they would only be spotted after you stepped on them.
+• Corrected an incomplete conditional check with Xarn that allowed the player to get xp in three different ways.
+• Corrected an error that could cause Chris in Navarro to end up in a looping dialogue.
+• When hanging around the locker with the K-9 motivator, it no longer says you "received the k-9 motivator" when you are carrying the FOB.
+• The quartermaster now correctly directs you to the Power Armor locker. Before he would just keep telling you to come back later. A very dumb bug caused this to occur.
+• It was possible to get stuck in combat even when you were not in view of anyone/anything.
+• It was possible for dialogue to end with Cookie and then suddenly reopen again without the intent of the player.
+• Chris now carries a radio with him. (since he uses it to call for help)
+• If you Super Stim the Navarro Commander to death and then tell the guard outside you're there to clean the commander's room or retrieve the FOB the guard speaks to the dead commander to inform him of this. Some code was added to check that the commander is alive and thus act accordingly.
+• Fixing K-9 as an evil character caused two floating text lines to appear right on top of each other after dialog ended, making both impossible to read. This is no longer the case.
+• The door to Chris' shack can now be blow up with explosives. This will of course cause Chris to become hostile
+• Tweaked Xarn's script and how he reacts to you coming through the door from the vents or from the main door to the room.
+• When playing as a dumb character the player's dialogue option about the radio after talking to Chris in Navarro is now appropriate.
+• Corrected party backgrounds. Underground backgrounds are now Military Base instead of Junktown. Above ground backgrounds are now Wasteland instead of Military Base. Junktown is now used at the Gas Station.
+• Chris no longer keeps calling you a stranger and acts surprised at seeing your car (if you have it) each time you talk with him.
+
+
+Gecko:
+------
+• All known issues associated with Gordon of Gecko have been corrected.
+• All known issues associated with The Brain have been corrected.
+• All known issues associated with Harold have been corrected.
+• Corrected an instance when you could no longer get the good ending for Gecko after fixing the power plant.
+• Entering an incorrect sequence into the robot command terminal would cause the same affect as entering in the "wrong" command which causes the meltdown. This has been corrected.
+• Talking with Lenny about the G.E.C.K would set a variable that is also used by Harold thus preventing you from ever obtaining the reward from him for fixing the powerplant.  This has been corrected and Lenny is now using a different variable.
+• Fixed a bug that made Skeeter upgrade your weapons for free if your barter skill is greater than 90%.
+• Fixed some bugs in Gecko Power Plant Desk Guard's dialogue:
+  *A loop where you can't end dialogue.
+  *An instance where you say you want to ask about something else twice in a row.
+  *Several instances where a dialog option would send you to the wrong dialogue node.
+• Your car no longer disappears when you go directly to the junkyard from the world map.
+• Harold no longer starts talking about skin when you ask him why he called you Vault Dweller.
+• The Brain's dialogue now correctly changes after fixing the Reactor.
+• Unlocked dialogue with the Brain if you stole a talisman rather than being given one.
+• Added Econ disk quest to pipboy
+• Filled in missing dialogue in Wooz's script
+• After you give Cheesy Poofs to Brain, no longer starts to talk about Hydro Magneto Regulator, even if the power plant is already fixed.
+• You can no longer get three plasma transformers from Jeremy in Gecko.
+• Hank in Gecko powerplant would think you are carrying the reactor part if you were in fact carrying a crowbar. This is no longer the case.
+• Lumpy and the dogs in Gecko now evacuate the location after the reactor blows. The lacked the code to do so before.
+• Lumpy will now move around the Gecko junkyard map as was originally intended. He will either be in his house, in Skeeter's workshop, or by the brahmin. This was the original intent by the devs, but the code was broken/incomplete.
+• Lenny's responses when pushed are no longer in red.
+• Corrected an instance where the voiced dialogue for the Enclave soldier on the network did not match his subtitles.
+• You can no longer ask Lenny for healing before you learn he's a doctor.
+• If Lenny heals you for free because you didn't have enough money he doesn't inform you of this. This has been corrected.
+• Wooz has no in depth dumb character dialogue so the fact that a player could ask for booze was incorrect.
+• Playing as a dumb character will no longer cause NPCs to give floats in red when they clearly are not angry.
+• Party members now use the Hub background like is used with Harold.
+• All the residents of Gecko now become hostile when you start making a ruckus. Before, only the Brain and his minions would.
+• Fixed a bug/oversight in the Gecko reactor control computer script that lets you bypass the access code sequence.
+• Saving your game in the Gecko junkyard no longer causes Lumpy to teleport on game reload.
+• Wandering ghouls on the main Settlement map no longer wander through the reactor doors into the area beyond it, making them inaccessible to the player.
+• After getting the replacement part of the reactor, Festus no longer addresses the players who never spoke to him with dialogue intended for players that have already talked with him.
+• You need to first know about Skeeter before you can ask Lumpy about him.
+• Fixed bug where Lumpy would always say that Skeeter is in the workshop next to him.
+
+
+Modoc:
+------
+• When you take the watch to either Cornelius or Farrel you now NO LONGER can do the quest again when talking with Cornelius. (If you had a million of these watches you could actually redo this quest a million times and get millions of xp from Cornelius.)
+• Fixed all the stuff with Miria and Davin. You should now have no problems sleeping with either of them.
+• Bess no longer disappears forever when you go down the Shitter or Well.  (Still not a 100% perfect, but at least she is no longer lost forever.)
+• Laddie now leaves your party when you become an enemy of Modoc.
+• If Grisham is killed during the battle with the Slags, he will no longer reappear back in Modoc.
+• ALL crashes (infinite fadeouts) have been fixed for the Grisham family. (if you lock the door to the room though, there are issues of Grisham's script crapping out.  Also, if Jo AND Grisham are killed, Bo never appears at the wedding, but the wedding still goes on.)
+• Fixed glitch where when if you have one of the Grisham kids in your party and you save on the Modoc main street map and then reload the game, they would appear back in their house rather than beside you (thereby causing them to run back to wherever you may be on the map)
+• Jo now places Gecko on your map after he tells you the location of it.
+• Grisham - It appeared that if you saved every Brahmin, you would never see the message that you saved the brahmin, get the 250xp point for it, or an increase of 2 rep points in the town. This has all been corrected now.
+• Fixed a bug that caused Grisham to keep asking for $1500 to compensate for his brahmin, regardless of whether you've already paid him.
+• Fixed a bug that caused your followers to stop following you around town if you successfully convince Grisham that you were just giving Miria or Davin a physical when he catches you having sex with them.
+• Disappearing/Shifting door bug in Modoc
+• Safe in Farrel's house can now be opened if he is dead and but his body is still visible
+• The guards outside the Ghost Farm will now ALWAYS force dialogue with you.
+• Fixed a bug that prevented you from telling Balthas about finding Jonny if you brought Laddie to Jonny at the Ghost Farm.
+• Guarding the Brahmin now has a Pipboy entry.
+• Brahmin no longer get stuck in the pen when you let them escape.
+• Fixed bug where Bess would get outside the gates, but not off the map which wouldn't trigger the reputation and karma change.
+• Laddie would follow you around invisible if you did not fully complete the Find Johnny quest.
+• Karl now appears back in Modoc when you tell him to go home.
+  *everything was set up in his script to do this but he was never placed on the Modoc map. I added him to the map where the original devs wanted him - Modoc Main street.
+• The wedding with Miria or Davin will now really be a "shotgun wedding" Before Grisham would disarm during the wedding despite having had a shotgun in his hands before.
+• It is no longer possible to talk with Karl normally (as if nothing happened) once he becomes hostile.
+• If you begin to ask Jo about a GECK, but at any point select an option that ends dialog before actually getting the quest, when you subsequently talk to Jo, this branch is missing from dialog options, so there is apparently no way to activate it again. This is no longer the case.
+• Jo's shop no longer keeps restocking after he dies. 
+• Cleaned up the gate script attached to the brahmin pens. They now correctly stay open when you are near them allowing the brahmin or other critters to exit freely.
+• Laddie no longer vanishes when you blow up the outhouse.
+• Guarding the brahmin now displays a message in the window saying that all the dogs are dead.
+• Corrected a duplicate global bit being used by the guy in the slaughter house which would cause Farrel's garden quest to break.
+• Rearranged nonsensical farewell dialog options in Farrel's script
+• Balthas's check for considering you a good character has been modified. Not only does he check your rep in Modoc like he did before, but he also checks to see if your global reputation (karma) is below or equal to -500. If one of these conditions is satisfied, he refuses to disclose information to you.
+• Playing as a dumb character now correctly sets the variable for delivering the slag message to Jo in Modoc. This means that Vegeir no longer keeps asking you to deliver the message and it is now possible to get the rifle from him for your services.
+• Using a Doctor's Bag on Bess heals her leg and now correctly makes he get up like if you healed with your doctor skill.
+• Fixed a scripting error with Davin's script regarding sex.
+• Added prevention so it is less likely (hopefully impossible) to set off dynamite during the wedding.
+• After completing the quest, you can no longer still tell Cornelius that Farrel has the watch in his safe.
+• Grisham no longer refers to Davin as his daughter after you marry him as a female player. The dialogue lines were mixed up.
+• Bess can no longer be crippled when the player goes down the toilet. She never follows you down anyway, so why should she get hurt.
+• If you married Davin/Miria before telling Grisham about the outcome of guarding the brahmin, you would never be able to complete the quest. This has been addressed.
+• Grisham no longer appears back in Modoc after being killed at the Ghost farm.
+
+
+Military Base:
+--------------
+• Before, Goris was the only one who can highlight this on your world map even though Chris in Navarro and Jimmy in Vault 13 both tell you the location of it.  Now all three place it on you map.
+• Melchior the Magnificent's text lines no longer fly across the screen thereby making them unreadable.
+• You can no longer use lockpick, traps, or science to repair to repair the generator on the first level. Only repair skill works (or repair tools).
+
+
+Broken Hills:
+------------- 
+• Fixed an infinite money bug in Broken Hills, where the Refinery Supervisor would keep giving you money to let him keep the refined uranium. 
+• Patched a hole in one of the houses in Broken Hills.
+• Fixed a bug that caused you to become stuck in dialogue mode with Liz.
+• Doc Holiday will no longer take money from stupid players without healing them.
+• Chuck Stodgers will no longer freeze and stop responding/moving if his path is blocked when he is running away.
+• Brian and Liz now move to their sleeping areas when it is night (prevented before by bad scripting)
+• Fixed infinite karma bug when talking with Eric in Broken Hills (due to variable being reset after being rejected by powerplant dude)
+• You can no longer barter with the jail guard thus "buying" the cell key for $1.
+• Telling Marcus about the missing people will no longer cause him to send the conspirators to jail as if you completed the other quest.
+• The jail guard will no longer complain about the escaped convicts being missing if you double cross them and send them back to jail.
+• Talking to Phil the bartender and choosing "Whats there to do around here" as a female character no longer makes him reply with "You look like a pretty burly guy."
+• You now correctly get experience points for breaking into Liz's stash.
+• Tipping Phil now correctly deducts the tip from your inventory.
+• Destroying the cell door with explosives now causes the guard to become hostile.
+• Liz's shop inventory no longer keeps restocking after she dies.
+• The quarreling couple will no longer keep quarreling during combat.
+• Elmo will now correctly disappear when all the mutants die.
+• Henchmen in will no longer make non-combat floats in combat.
+• Phil no longer treats dumb characters as if they have visited him before when first meeting with him.
+• When playing as a dumb character the player's float when running over Lumpy with the car is now appropriate.
+• The old ghouls will no longer make old ghoul floats during combat.
+• Fixed dialogue scripting errors with Liz.
+• Fixed issue with Liz and entering her secret stash.
+• Fixed dialogue scripting bug with Franc which would cause dialogue of other npcs to be displayed in his dialogue window.
+• Fixed dialogue scripting bugs with Dan.
+• Dan now correctly leaves Broken Hills after you persuade him to leave.
+• When asking Phil about things to do around town, he no longer tells you about things you have already done.
+• Phil no longer says there are people in jail when you did the jailbreak or that the purifier is busted even though you fixed it.
+• Added a missing script to a door in Marcus' house.
+• The jail doors now correctly relock when you throw the anarchists back into jail.
+• Fixed bug where the cell door to the jail was left open after putting all the conspirators in jail.
+• Changed Eric's description from "You see a greasy, sweating man." to "You see a greasy, sweating ghoul."
+• Fixed issue where you could no longer ask Francis about arm wrestling or the miner note once you tell Marcus about the NCR scientist's plans.
+• If your reputation is low enough, Liz in the General Store says she won't sell you anything, yet you can still Barter if you press the button on the right. This is no longer the case.
+• Liz's shelves still restock even after she dies. This no longer happens.
+• You could still fail a steal check on Liz's shelf even after she is dead. This is no longer the case.
+• Tweaked the way Doc Holiday checks for hurt followers to be in line with other doctors in the game.
+• Confronting Francis about the missing people now properly removes the note you find on one of them.
+• You can no longer exploit infinite free healings out of doc holiday by listening to his ramblings.
+• Fixed bug where Manson and Franc would teleport out of jail after saving and reloading the game after persuading the jail guard to give you the key.
+• Ants or other creatures in the mine won't trigger finding the secret area with Chuck.
+
+
+Misc:
+-----
+• K-9's armor definition is no longer bugged where it would lose its innate AC bonus after it levels up.
+• Unnamed Wrights will no longer address you as a Prizefighter if you're a Made Man for them and vice versa.
+• Various instances of the so called barter-upgrade exploit - Fixed for Morlis and the flint; acquiring of combat implants in Redding, and Elridge in New Reno and all his upgrades that he can perform.  See Per's guide for specifics on how one can "utilize" this exploit
+• The Bridgekeeper’s robes were not being accounted for when a character in the game determined what you were wearing.  This trigged a bug that caused characters to think you were wearing just your Vault 13 suit when actually you had the bridgekeeper’s robes on.
+  *Fixed for: Wallace, Lynette, President, Dogmeat, Tandi, and Marcus.
+• The "infamous" 1 NPC bug (where you could take 1 NPC in Navarro or Enclave) as well as doctors not healing your 1 NPC should now be corrected. - Recompiled the needed scripts using the corrected party.h file by Haen
+• The flint now looks like a rock when you drop it (instead of a large crate)
+• Countless spelling corrections.  I have checked every single .msg file that the game uses and fixed all that needed to be corrected.
+• Poison now actually poisons you
+• Drinking Gamma Gulp beer or Roetgen Rum will now radiate you (Gamma 5 and Roetgen Rum 10)
+• Telling Karl to come home is now displayed in the pipboy
+• Various cosmetic fixes to some of the pipboy entries
+• Wording for gaining of experience points should now be consistent. It should always read "You gain x experience points"
+• You should no longer have conversations with sinks in the game - all random encounter traveler scripts have been removed from them
+• Caravans should work much better.
+• Endorphin blockers quest should now be crossed off after you speak with Dr. Troy about them.
+• It is now possible to get a town rep besides Neutral at the Ghost farm.
+• Viewing AutoDoc and Alcohol Hitpoint perks on the character sheet will no longer crash the game.
+• Stuttering issue when wearing combat/regular leather jacket.
+• m60 and bozar sounds no longer switched.
+• World map slowed down and encounters should be more frequent with higher cpus. (also updated exe for future support of the addon pack)
+• Removed random potential death due to misplaced code from Dr. Troy's script
+• Vault-Tec spellings
+• Description of the 10mm gun - now says cylinder.
+• Numerous misc script fixes: incorrect calls, syntax errors, etc.
+• The Light Step perk is now used with every single mine found in the game. Before only a select few utilized this Perk.
+• Pretty much all barter price inconsistencies should be dealt with. (meaning that prices going through the script as opposed to just using the barter button should now be the same)
+• Recompiled the 12 or so scripts that had wrong animations defined due to an error in the original definition of them.
+• Increased the count for variables to be assigned for a good dozen scripts that did not have enough being set. (this change was done in the scripts.lst file)  This should fix several "random" bugs that may occur in these scripts.
+• Skynet should not longer behave weirdly after completing the game (like turning hostile and repeating the same message over and over)
+• Wright murder should no longer trigger if you never got the quest or head about Richard Wright.
+• Added use of expanded lockpick, electronic lockpick MkII, and supertool kit to all scripts that use the basic lockpick/toolkits.
+• Goris no longer displays a dialogue option to heal when he is already at full health.
+• Vic no longer displays a dialogue option to ask where Ed is after you have met Ed.
+• Sulik should no longer uses melee weapons when he has ranged weapons in his inventory and you told him to use ranged.
+• Corrected an error in the end game script for New Reno regarding checks for the Jet antidote quests.
+• You can now install the fuel cell regulator yourself rather than having Smitty do it.
+• Time now passes when going from San Fran to the Enclave and back again. (1 day each way)  Before this happened instantaneously.
+• Edited party.txt so Sulik and Lenny can now use grenades. Didn't seems like there was any reason that they should not have been able to do so before. This has been tested with Sulin and he uses them just fine. He is pretty good with them too.
+• Fixed various instances where the player has no message for completing quests - Lynette and Westin delivering Holodisk, Dr Troy and all jet quests for example.
+• It is now possible to get the combat implants using Combat Armor II and Brotherhood armor. Regular combat armor takes precedence.
+• Bartering is disallowed for Festus in Gecko.
+• Fixed some issues with Marcus and how he goes hostile if attacked.
+• If Cassidy dies (before he is recruited) his bar would never close and would continue to operate without him. This is no longer the case.
+• If you run out of gas on a town circle, entering the town will make you appear so you can refuel. Thus, no longer should you lose your car by running out of fuel over a town circle.
+• Sharpshooter Perk should now behave as it should. Thanks ravachol!!
+• Corrected a bug in several scripts that prevented text from being displayed in the message screen. (Could potentially crash the game as well.
+• Several special encounter around Den/Klamath would show up as error.
+• Fixed issue with inc_childkiller - would increase karma by (15) in some cases.
+• Fixed bugs with the display messages for using items/skills on doors, objects, etc. (Would say "this does nothing" but the door would be unlocked, etc.)
+• Corrected issue with a general script bug concerning those few critters that make use of the game's detailed reaction system. About 50 scripts had the issue. You should notice a better reaction (good or bad) from many characters now. Karma and playing a good/bad characters now plays an even great impact in the game.
+• Several doors (such as the slave pen doors in NCR could be destroyed just by punching them. I added a conditional for explosives like all the other doors in the game check.
+• Added a preventive towards the "too many items bug" - shopkeepers now wipe their inventory during each restocking time. Game critical items will not be cleared out though.
+• Several children in the game counted for two child kills instead of just one.
+• Some scripts were displaying incorrect colors (when using the empathy perk) for several dialog lines. Lenny and Salavtore are such examples.
+• Cyberdog now correctly has 117 HP when it is level 3.
+• Vic now has 90 HP when he is level 3.
+• Marcus, the Brain Bot and Myron no longer lose armor when leveling up.
+• The K-9 motivator no longer has multiple uses to it. (like a medkit would)
+• The way how the game handles the various major points of progress of the player would cause the check to see if the player's tribe is missing to return false if the player is in the process of fueling the tanker. All instances of checks to the missing tribe have been redone to correctly work with all the stages of the game.
+• Using Small energy cells or micro fusion cells on a non-car party member no longer refuels the car.
+• Gold nugget can now be used to punch as was originally intended.
+• Fixed team ai issues with Dogmeat.
+• Perhaps fixed NPC apathy bug (Myron, Vic, etc)
+• When stopping your car and not being out of gas, there is no party background defined, so it uses the last one. This has been corrected and the Wasteland background is now used.
+• The original Brain Bot has no EMP protection at all, but it jumps to 500% as soon as it gains a level. It is now protected from the start.
+• Flares cost 0 AP to throw, which is increased to the minimum of 1 whether you aim your throws or not. The cost is now 1 so that aimed throws cost 1 more.
+• Fixed the save/load bug with the bonus move perk. This now works as intended thanks to Timeslip's engine tweaks.
+• Fixed skilldex button from turning black after reading too many entries in the pipboy. Thanks to Timeslip and his tweaks!
+• All party members now give text floats when crippled, radiated, poisoned, etc.
+• Cause of the infamous "too many items bug" may have been found and fixed. Hoarders rejoice!
+• Finally got to the bottom of Cassidy's combat settings resetting. This should no longer happen.
+• You can now have more than 10 save game slots. Thanks to Mash and Timeslip!
+• Critically failing to disarm traps now properly sets them off.
+• It was possible to anger Harry or AHS-7 and not have guards come after you. This has been fixed.
+• Added workaround for shopkeepers no longer restocking after 7 years.
+
+
+Random Encounter Fixes:
+-----------------------
+• Pariah encounter should now work correctly. - Thanks to Timeslip and his tweaks this finally became 100% fixable.
+  *Luck set to 1 if you don't have Gifted perk, or luck set to 2 if you do have Gifted perk.
+  *Luck correctly returns to your true luck values when you kill the dog
+• Fixed the Holy Hand Grenade encounter. You can now get the encounter and find the grenade!
+• Fixed the Cafe of Broken Dreams encounter popping up over and over.
+• Several random encounters unlocked.
+• Mysterious stranger now talks to you when you click on him.
+• Fire Geckos are now skinable.
+• Looking at prospectors now says "You see a Prospector" rather than just "Prospector" The same was done to several other scripts. Done for consistency.
+• Random traveler from the traveler encounter no longer marks the location of the sierra army depot when the description of the location given is clearly for the Military Base.
+• Bug in Sir Robin's script that could potentially cause a freeze in the game if he was killed in combat? (not verified)
+• The level 9-13 Mysterious Stranger loads a Hunting Rifle in one place where it should be a Shotgun.
+• Having sex with a trapper now raises your sex status like it would if you would have sex with any of NPC in the game.
+• Lone Traveler had a missing dialog line when she gives directions.
+• When you encounter "Holy People" combat could never end until everyone is dead (even if you were out of view)
+  *They now have descriptions when you 'look at' them.
+• Slaver and Marauder random encounters will now have NPCs which are able to use the HK Caws that are given to them. Before they used models which could not fire the guns.
+• Wild Brahmin encounters modified: Now wild brahmin scripts will do stuff (ie "mooo", wander around, etc) Before the script for wild brahmin had nothing in it and thus the brahmin would stand around and do absolutely nothing.
+• Merchant Guards from Den Caravan's are no longer acting independent of their master. 
+  *Hopefully this should also fix up issues with encounters of Den caravans fighting other caravans.
+• It is no longer possible to slide off the map when the Big Stone head kills you.
+• Cleaned up random encounter table
+  *Fixed incorrect scripts being used for silver gecko, mole rat, matis, and deathclaw desert encounters.
+• Brahmin poo (as excreted by the brahmin) should now always appear on the same level the brahmin is on. Before this was not the case.
+• If you kill King Aruthur and his knights you no longer get the second encounter.
+• It is no longer possible to get every location from a Random Encounter traveler. Before if you ask the traveler for directions, the traveler will say that he/she only knows of these locations. Leaving dialog and then reentering would produce a new set of locations that the traveler only knew about. This did not make sense. Thus, with this patch the traveler will no have the same set of locations for that specific encounter. If you encounter another traveler, he/she will have a new set of locations like in the past, but it won't change each time you talk in the specific encounter.
+• Homeless people in Random encounters counted towards your death count (thereby making you a berserker) when someone else killed them and you no doing so.
+• Corrected issues of critters not being on the same team
+ -Morton brothers
+ -Farmers and their children
+• Female Homesteaders now use the correct scripts.
+• Corrected AI issues with various critters which caused them to get as close as possible despite using a gun.
+  *Highwaymen
+  *Rogues
+  *Claim Jumpers
+  *Raiders
+• Killing trappers no longer counts as killing an evil critter. Instead they are considered neutral critters.
+• Gangs no longer have a 100% taunt chance so causing them to make red floats in every round in addition to their normal combat taunts. It has now been decreased to 50%.
+• Corrected instances where NPCs would have incorrect weapons or ammo types.
+  *Robbers in caves now have the correct ammo for their HK P90c.
+  *Female prospectors no longer use HK Caws, female bootlegger no longer use pistols or SMGs, and male and female homesteaders no longer use SMGs. This change was made since these NPCs are unable to use these weapons due to the protos they use.
+• Corrected a possible infinite ammo exploit with the Mysterious Stranger.
+• When playing as a dumb character the player's float when entering the random Bridge encounter is now appropriate.
+• When playing as a dumb character the player's conversation with the Stone Monument is now appropriate.
+• Fixed bug where trappers would charge you the price of silver geckos when you buy the golden geckos.
+• Cavern maps use cavern lighting outside the cave, not outdoor lighting. This has been corrected.
+• Party members in the Unwashed Villagers and Cafe of Broken Dreams encounters now use the Necropolis background.
+
+
+Map Fixes:
+----------
+• Fixed some spots in Klamath where you could walk on tables
+• You can no longer go off screen in the NCR pasture map thereby following the Deathclaws to Vault 13 when you are not actually supposed to.
+• Fixes to the Oil Tanker map in San Francisco that corresponds to the changes made in the bar (ie carrying of liquor, etc)
+• Den - Smitty's house (his wooden floor stopped before it hit the wall) - this is now fixed
+• Den - You can no longer walk into the shelf in Metzger's room.
+• New Reno map (Wright house area) - You no longer are able to walk on some of the tables/desks
+• Changed the lit flares to normal ones (Hubologist's Base) 
+• Brahmin in Gecko now have generic brahmin scripts assigned ot them (before they were scriptless)
+• When you enter the map of "Car outta power" it no longer displays a message that you are standing in front of the Arroyo bridge.
+• Various other map fixes to prevent walking through tables, desks, etc.
+• You can no longer walk on a pot in one of the Enclave maps.
+• The fence was extended at the entrance of Broken Hills to prevent players from getting around the outside of the map thus reaching the lockboxes that contains all the goods from the NPCs on the map.
+• Patched a small hole in a wall on the second floor of Bishop's casino.
+• Patched a hole in a shelf in T-Ray's office, and added a missing corner to the southern building of the chop shop.
+• Added missing script to 2 guards in Becky's casino
+• Added missing script to one guard in the Slaver building in NCR.
+• Numerous map fixes: missing tiles, holes in walls, walking into tables, etc.
+• Missing roof tiles in New Reno.
+• In Klamath you can no longer walk on the car to the left of the three trappers in Trappertown.
+• Fixed the starting position of the Vorpal Rat map so that npcs are not longer stuck when you come there with the car.
+• Fixed a table in Valerie's workshop which was inaccessible.
+• You can no longer walk into the lower table in Myron's living room.
+• Several maps had incorrect lighting settings. This has been corrected.

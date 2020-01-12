@@ -1,5 +1,7 @@
 ## Changelog
 
+This file lists changes for UPU only. See original UP changelog [here](up-changelog.txt).
+
 - [Version 10](#version-10)
 - [Version 9](#version-9)
 - [Version 8](#version-8)
