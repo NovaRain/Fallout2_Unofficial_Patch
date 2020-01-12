@@ -79,6 +79,7 @@ Repacked into .dat file.
     - Robobrain now has intelligence 10, combat armor stats but 0% EMP resistance on all stages.
     - Various under the hood changes, optimizations and cleanups.
     - Corrected a plethora of typos.
+    - Getting weapon upgrades won't reload them with free ammo anymore.
 
 - Spelling standartization
     - Stockman's Association (instead of Stockmen's).
