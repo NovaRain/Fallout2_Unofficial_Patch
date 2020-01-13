@@ -10,9 +10,7 @@
 * [Discord](https://discord.gg/4Yqfggm)
 * [Changelog](docs/changelog.md)
 
-This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
-
-[Original readme](docs/up-readme.txt).
+This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2. [Original readme](docs/up-readme.txt).
 
 ### Installation
 1. Start with a clean humongous installation of the game.
