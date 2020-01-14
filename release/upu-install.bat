@@ -24,3 +24,5 @@ ren tmp2.cfg fallout2.cfg
 
 echo UPU installed. Backup is in %bdir%
 pause
+del /s upu-install.sh upu-install.bat > nul 2>&1
+(goto) 2>nul & del "%~f0"

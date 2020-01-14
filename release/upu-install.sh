@@ -21,4 +21,6 @@ sed -i.bak 's|music_path1=.*|music_path1=data\\sound\\music\\|' fallout2.cfg
 sed -i.bak 's|music_path2=.*|music_path2=sound\\music\\|' fallout2.cfg
 rm -f fallout2.cfg.bak
 
+rm -f -- upu-install.bat upu-install.command upu-install.sh
+
 echo "UPU installed. Backup is in $bdir."
