@@ -16,4 +16,5 @@ done
 
 crudini --merge "$release_ini" < "$custom_ini"
 crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.31${uversion}"
+sed -i "s|^\([[:alnum:]]\+\) = |\1=|" # crudini adds spaces arouns the values, need to remove them
 unix2dos "$release_ini"
