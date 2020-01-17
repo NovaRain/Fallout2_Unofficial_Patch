@@ -2,15 +2,14 @@
 
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
+[![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
-* [Download](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
-* [Installation](#installation), [update](#update)
-* [Reporting issues](#reporting-issues) (read this)
-* [Translations](#translations) (you can help)
-* [Discord](https://discord.gg/4Yqfggm)
-* [Changelog](docs/changelog.md)
+[__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
+| [__Install__](#installation)
+| [__Report issues__](#reporting-issues)
+| [__Translate__](#translations)
 
-This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2. [Original readme](docs/up-readme.txt).
+This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2. [Original readme](docs/up-readme.txt), [changelog](docs/changelog.md).
 
 ### Installation
 1. Start with a clean humongous installation of the game.
