@@ -9,7 +9,9 @@
 | [__Report issues__](#reporting-issues)
 | [__Translate__](#translations)
 
-This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2. [Original readme](docs/up-readme.txt), [changelog](docs/changelog.md).
+This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
+
+Docs: [new](docs/changelog.md) changelog, [old readme](docs/up-readme.txt), [old](docs/up-changelog.txt) changelog.
 
 ### Installation
 1. Start with a clean humongous installation of the game.
@@ -30,7 +32,7 @@ In both cases, you won't see some of the fixes on the already visited maps. Othe
 
 ### Translations
 If you want to play a localized version:
-1. Grab the corresponding language file from the latest release. Drop it into `mods` subdirectory.
+1. Grab the corresponding language file from the [latest release page](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest). Drop it into `mods` subdirectory.
 1. Change `language=english` in `fallout2.cfg` to your selected language.
 
 Most translations are incomplete, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Details are [here](docs/translations.md).
