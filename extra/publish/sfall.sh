@@ -15,6 +15,5 @@ for f in ddraw.dll ddraw.ini sfall.dat; do
 done
 
 crudini --merge "$release_ini" < "$custom_ini"
-version="$(echo $TRAVIS_TAG | tr 'v' 'u')"
-crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.31${version}"
+crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.31${uversion}"
 unix2dos "$release_ini"
