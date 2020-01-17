@@ -19,6 +19,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
  - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
  - Install script now removes itself after installation.
+ - Sfall updated to 4.2.2.
 
 ### Version 10
 - General:
