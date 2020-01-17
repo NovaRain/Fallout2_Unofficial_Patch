@@ -11,7 +11,7 @@
 
 This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
-Docs: [new](docs/changelog.md) changelog, [old readme](docs/up-readme.txt), [old](docs/up-changelog.txt) changelog.
+Docs: [changelog](docs/changelog.md), [old readme](docs/up-readme.txt), [old changelog](docs/up-changelog.txt).
 
 ### Installation
 1. Start with a clean humongous installation of the game.
