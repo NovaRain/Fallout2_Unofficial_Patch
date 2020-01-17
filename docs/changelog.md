@@ -2,6 +2,10 @@
 
 This file lists changes for UPU only. See original UP changelog [here](up-changelog.txt).
 
+All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
+Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
+
+- [Version 12](#version-12)
 - [Version 10](#version-10)
 - [Version 9](#version-9)
 - [Version 8](#version-8)
@@ -10,6 +14,11 @@ This file lists changes for UPU only. See original UP changelog [here](up-change
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 12
+ - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
+ - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
+ - Install script now removes itself after installation.
 
 ### Version 10
 - General:

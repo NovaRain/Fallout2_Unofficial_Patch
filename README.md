@@ -16,7 +16,7 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 1. Start with a clean humongous installation of the game.
 1. Download the latest UPU [release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest).
 1. Extract the archive into the main game directory, overwriting files when asked.
-1. **Launch** `upu-install.bat` (or `upu-install.sh`, if you're on Linux/MacOS).
+1. **Launch** `upu-install.bat` (or `upu-install.sh / upu-install.command`, if you're on Linux/MacOS).
 
 **Notes:**
 1. UPU _requires_ starting a new game. (One exception is [updating](#update) from UP or a previous UPU version.)
