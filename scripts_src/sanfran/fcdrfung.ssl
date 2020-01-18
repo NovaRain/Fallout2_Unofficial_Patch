@@ -137,22 +137,11 @@ end
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_SHI);
 
-   //added by killap - fix for game_time going negative after 7 years
-   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-      set_local_var(LVAR_Restock_Time, game_time - 1);
-      set_local_var(LVAR_Restock_Time_Fix, 1);
-   end
-   //end added
-
+   restock_fix
    if (game_time > local_var(LVAR_Restock_Time)) then begin
       check_restock_item(PID_STIMPAK, 5, 7, 100)
       check_restock_item(PID_FIRST_AID_KIT, 1, 3, 60)

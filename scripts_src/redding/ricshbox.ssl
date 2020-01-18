@@ -47,20 +47,9 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    CashBox_Ptr:=self_obj;
 
-   //added by killap - fix for game_time going negative after 7 years
-   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-      set_local_var(LVAR_Restock_Time, game_time - 1);
-      set_local_var(LVAR_Restock_Time_Fix, 1);
-   end
-   //end added
-
+   restock_fix
    if (local_var(LVAR_Restock_Time) < game_time) then begin
        set_local_var(LVAR_Restock_Time, (game_time + (2*ONE_GAME_WEEK)));
        check_restock_item(PID_BOTTLE_CAPS,1000,5000,100)

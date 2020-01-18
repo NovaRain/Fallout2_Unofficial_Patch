@@ -24,7 +24,7 @@ end
 #define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
 #define ndebug(message)    debug_msg(SCRIPT_REALNAME + ": " + message + "\n")
 
-//fix for game_time going negative after 7 years
+//a workaround for game_time going negative after 7 years
 #define restock_fix \
   if ( (game_time < 0) and (local_var(LVAR_Restock_Time_Fix) == 0) ) then begin \
     set_local_var(LVAR_Restock_Time, game_time - 1); \
