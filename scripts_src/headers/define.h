@@ -24,7 +24,7 @@
 #include "reaction.h"
 
 #include "../sfall/sfall.h"
-
+#include "upu.h"
 
 // script.h: Script Procedure Types //
 #define no_proc           (0)

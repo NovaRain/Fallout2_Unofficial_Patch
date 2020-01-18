@@ -1241,23 +1241,4 @@ variable removed_qty;
 //end added by killap
 // raiders macros end
 
-procedure create_and_use_itempid_on(variable target, variable itempid) begin
-   variable item;
-   item := create_object(itempid, tile_num(target), elevation(target));
-   set_self(target);
-   set_self(target);
-   use_obj_on_obj(item, target);
-   set_self(0);
-end
-
-procedure is_human(variable who) begin
-   variable type;
-   type := critter_kill_type(who);
-   if type == KILL_TYPE_men_kills or type == KILL_TYPE_women_kills or type == KILL_TYPE_children_kills then return true;
-   return false;
-end
-
-#define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
-#define ndebug(message)    debug_msg(SCRIPT_REALNAME + ": " + message + "\n")
-
 #endif // COMMAND_H
