@@ -957,34 +957,6 @@ end
 #endif
 
 
-
-/*
-// this will debug messages if there are characters that violation the anti-barter act of 1998
-#define check_barterable                     if (critter_can_barter(self_obj)) then begin                      \
-                                                ndebug("BARTER SHIT ERROR: name == "+obj_name(self_obj));   \
-                                             end
-#define check_barterable_float               if (critter_can_barter(self_obj)) then begin                                                                                               \
-                                                float_msg(self_obj, "GET A SCRIPTER, I'M FUCKED UP!!! HELP, MY NAME IS "+obj_name(self_obj)+"!!! PHEW, THANKS!!!", FLOAT_COLOR_NORMAL); \
-                                             end
-
-// global map enters
-procedure map_enter_p_proc begin
-   check_barterable
-   call old_map_enter_p_proc;
-end
-
-#define map_enter_p_proc        old_map_enter_p_proc
-
-// global critter procs
-procedure critter_p_proc begin
-   check_barterable_float
-   else call old_critter_p_proc;
-end
-
-#define critter_p_proc        old_critter_p_proc
-*/
-
-
 //Misc commands
 #define obj_get_rot(obj)  (has_trait(TRAIT_OBJECT, obj, OBJECT_CUR_ROT))
 
