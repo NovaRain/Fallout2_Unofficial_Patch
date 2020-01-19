@@ -24,7 +24,6 @@
 #include "reaction.h"
 
 #include "../sfall/sfall.h"
-#include "upu.h"
 
 // script.h: Script Procedure Types //
 #define no_proc           (0)
@@ -990,6 +989,7 @@ end
 #define obj_get_rot(obj)  (has_trait(TRAIT_OBJECT, obj, OBJECT_CUR_ROT))
 
 //late includes go here
+#include "upu.h"
 #include "party2.h"
 
 #endif // DEFINE_H
