@@ -22,7 +22,6 @@ procedure is_human(variable who) begin
 end
 
 #define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
-#define ndebug(message)    debug_msg(SCRIPT_REALNAME + ": " + message + "\n")
 
 //a workaround for game_time going negative after 7 years
 #define restock_fix \
