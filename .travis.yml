@@ -22,6 +22,7 @@ before_install:
   - ./extra/prepare.sh
 
 script:
+  - ./extra/check_headers.sh
   - ./extra/buildall.sh
   - ./extra/publish.sh
 
