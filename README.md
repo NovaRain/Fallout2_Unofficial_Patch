@@ -28,7 +28,7 @@ Docs: [changelog](docs/changelog.md), [old readme](docs/up-readme.txt), [old cha
 * You can install UPU on top of UP 1.02.31 to make use of the fixes.
 * You can update from an older UPU version. To do that, extract and overwrite the following files/dirs: `mods/`, `ddraw.dll`, `sfall.dat`.
 
-In both cases, you won't see some of the fixes on the already visited maps. Other than that, savegames should be compatible, but no guarantees.
+In both cases, you won't see some of the fixes on already visited maps. Other than that, savegames should be compatible, but no guarantees.
 
 ### Translations
 If you want to play a localized version:
