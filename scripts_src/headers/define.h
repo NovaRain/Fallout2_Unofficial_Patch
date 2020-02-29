@@ -197,9 +197,8 @@
 
 
 // Trait defines //
-#define TRAIT_PERK  (0)
-#define TRAIT_OBJECT (1)
-#define TRAIT_TRAIT  (2)
+#include "define_pre.h" // ReRefine needs this
+
 // Perk Trait Types
 #define PERK_bonus_awareness      (0)
 #define PERK_bonus_hth_attacks    (1)
