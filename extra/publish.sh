@@ -45,7 +45,7 @@ cd ..
 # final package
 pushd .
 cd "$release_dir"
-zip -r "${mod_name}_${vversion}.zip" * # our package
+7zr a -r "${mod_name}_${vversion}.zip" * # our package
 popd
 mv "$release_dir/${mod_name}_${vversion}.zip" .
 
