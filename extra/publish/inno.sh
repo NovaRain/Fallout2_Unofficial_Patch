@@ -12,6 +12,7 @@ inno_install_bin="is.exe"
 inno_url="https://jrsoftware.org/download.php/$inno_install_bin"
 
 #install innosetup
+wget -q "$inno_url"
 wine "$inno_install_bin" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /DIR="$inno_dir"
 rm -f "$inno_install_bin"
 
