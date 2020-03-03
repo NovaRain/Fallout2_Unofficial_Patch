@@ -10,7 +10,7 @@ inno_dir=~/.wine/drive_c/programs/inno
 inno_bin="$inno_dir/ISCC.exe"
 inno_install_bin="innosetup-5.6.1.exe"
 inno_install_dir="C:\programs\inno"
-inno_url="wget http://files.jrsoftware.org/is/5/$inno_install_bin"
+inno_url="http://files.jrsoftware.org/is/5/$inno_install_bin"
 
 #install innosetup
 wineboot --update
