@@ -2,8 +2,6 @@
 
 set -xeu -o pipefail
 
-release_dir="$(realpath $release_dir)"
-extra_dir="$(realpath $extra_dir)"
 release_ini="$release_dir/ddraw.ini"
 custom_ini="$extra_dir/publish/ddraw.ini"
 
