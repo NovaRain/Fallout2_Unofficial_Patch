@@ -26,7 +26,7 @@ before_install:
   - ./extra/prepare.sh
   - wget http://files.jrsoftware.org/is/5/innosetup-5.6.1.exe
   - wineboot --update
-  - wine innosetup-5.6.1.exe /VERYSILENT /SUPPRESSMSGBOXES /LOG="inno.log" /SP- /NORESTART || true
+  - wine innosetup-5.6.1.exe /VERYSILENT /LOG="inno.log" /SP- /NORESTART || true
   - cat inno.log
   - false
 
