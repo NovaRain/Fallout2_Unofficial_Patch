@@ -6,6 +6,9 @@ cache:
   directories:
     - $HOME/.cache/build
 
+services:
+  - xvfb
+
 addons:
   apt:
     update: true
@@ -17,7 +20,6 @@ addons:
       - p7zip
       - wine-stable
       - wine32
-      - xvfb
 
 before_install:
   - ./extra/prepare.sh
