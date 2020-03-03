@@ -8,9 +8,9 @@ release_dir="$(realpath release_dir)"
 install_iss="$extra_dir/inno/inno.iss"
 inno_dir=~/.wine/drive_c/programs/inno
 inno_bin="$inno_dir/ISCC.exe"
-inno_install_bin="is.exe"
+inno_install_bin="innosetup-portable-win32-6.0.3-2-setup.exe"
 inno_install_dir="C:\programs\inno"
-inno_url="https://jrsoftware.org/download.php/$inno_install_bin"
+inno_url="https://github.com/portapps/innosetup-portable/releases/download/6.0.3-2/$inno_install_bin"
 
 #install innosetup
 wget -q "$inno_url"
