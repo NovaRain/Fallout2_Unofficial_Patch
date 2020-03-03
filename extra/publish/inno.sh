@@ -14,13 +14,12 @@ inno_url="https://jrsoftware.org/download.php/$inno_install_bin"
 
 #install innosetup
 wget -q "$inno_url"
-Xvfb :0 -screen 0 800x600x16
-DISPLAY=:0.0 wine "$inno_install_bin" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /DIR="$inno_install_dir"
+wine "$inno_install_bin" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /DIR="$inno_install_dir"
 rm -f "$inno_install_bin"
 
 # delete unnecessary files
 rm -f "$release_dir"/{upu-install.sh,upu-install.command}
 sed -i "s|define uversion .*|define uversion \"${uversion}\"|" "$install_iss"
 sed -i "s|define vversion .*|define vversion \"${vversion}\"|" "$install_iss"
-DISPLAY=:0.0 wine "$inno_bin" "$install_iss"
+wine "$inno_bin" "$install_iss"
 mv "$extra_dir"/inno/Output/*.exe .
