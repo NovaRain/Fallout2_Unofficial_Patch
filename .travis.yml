@@ -6,7 +6,7 @@ cache:
   directories:
     - $HOME/.cache/build
 
-    services:
+services:
   - xvfb
 
 addons:
@@ -26,9 +26,7 @@ before_install:
   - ./extra/prepare.sh
   - wget http://files.jrsoftware.org/is/5/innosetup-5.6.1.exe
   - wineboot --update
-#  - Xvfb :0 -screen 0 1024x768x16 &
   - wine innosetup-5.6.1.exe /VERYSILENT /SUPPRESSMSGBOXES /LOG="inno.log" /SP- /NORESTART || true
-#  - DISPLAY=:0.0 wine innosetup-5.6.1.exe /VERYSILENT /SUPPRESSMSGBOXES /LOG="inno.log" /SP- /NORESTART || true
   - cat inno.log
   - false
 
