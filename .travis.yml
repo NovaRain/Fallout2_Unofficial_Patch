@@ -1,4 +1,4 @@
-language: minimal
+language: java
 dist: bionic
 
 services: xvfb
