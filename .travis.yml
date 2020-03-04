@@ -2,6 +2,7 @@ sudo: required
 language: java
 dist: bionic
 install: true
+services: xvfb
 addons:
   apt:
     packages:
@@ -18,8 +19,7 @@ cache:
 before_install:
   - wget http://files.jrsoftware.org/is/5/innosetup-5.6.1.exe
   - wineboot --update
-  - Xvfb :0 -screen 0 1024x768x16 &
-  - DISPLAY=:0.0 wine innosetup-5.6.1.exe /VERYSILENT /SUPPRESSMSGBOXES
+  - wine innosetup-5.6.1.exe /VERYSILENT /SUPPRESSMSGBOXES
 
 script:
   - echo "script"
