@@ -5,7 +5,8 @@ install: true
 addons:
   apt:
     packages:
-    - wine
+    - wine-stable
+    - wine32
     - xvfb
 before_cache:
   - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
