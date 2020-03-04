@@ -1,8 +1,8 @@
 #define install_dir "C:\Games\Fallout2"
 #define backup_dir "backup\upu"
 #define mods_dir "{app}\mods"
-#define uversion 0
-#define vversion 0
+#define uversion "u0"
+#define vversion "v0"
 
 [Setup]
 AppName=Fallout 2 Unofficial Patch
@@ -10,7 +10,7 @@ AppVerName=Fallout 2 Unofficial Patch 1.02.31{#uversion}
 AppId=Fallout 2 Unofficial Patch
 AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
-AppSupportURL=https://github.com/BGforgeNet/Fallout2_Unofficial_Patch
+AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Unofficial_Patch
 DefaultDirName={#install_dir}
 DisableProgramGroupPage=yes
@@ -18,6 +18,7 @@ OutputBaseFilename=upu_{#vversion}
 Compression=lzma
 DirExistsWarning=no
 Uninstallable=no
+InfoBeforeFile=before.rtf
 
 [Files]
 Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
