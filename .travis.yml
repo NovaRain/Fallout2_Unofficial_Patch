@@ -1,63 +1,26 @@
-language: minimal
-dist: bionic
-sudo: false
-
-cache:
-  directories:
-    - $HOME/.cache/build
-
-services:
-  - xvfb
-
+sudo: required
+language: java
+dist: trusty
+install: true
 addons:
   apt:
-    update: true
     packages:
-      - crudini
-      - dos2unix
-      - gcc
-      - moreutils
-      - p7zip
-      - wine-stable
-      - wine32
-      - xvfb
-
+    - wine
+    - xvfb
+before_cache:
+  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
+  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+cache:
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
 before_install:
-  - ./extra/prepare.sh
   - wget http://files.jrsoftware.org/is/5/innosetup-5.6.1.exe
   - wineboot --update
-  - wine innosetup-5.6.1.exe /VERYSILENT /LOG="inno.log" /SP- /NORESTART || true
-  - cat inno.log
-  - false
+  - Xvfb :0 -screen 0 1024x768x16 &
+  - DISPLAY=:0.0 wine innosetup-5.6.1.exe /VERYSILENT /SUPPRESSMSGBOXES
 
-script:
-  - ./extra/check_headers.sh
-  - ./extra/buildall.sh
-  - ./extra/publish.sh
-
-env:
-  global:
-    - sfall_version: 4.2.2
-    - mpack_version: 4.2.2
-    - mod_name: upu
-    - extra_dir: extra
-    - bin_dir: extra/bin
-    - release_dir: release
-    - trans_dir: translations
-    - mods_dir: release/mods
-    - mpack_7z: mpack.7z
-    - WINEARCH: win32
-    - WINEDEBUG: -all
-
-deploy:
-  provider: releases
-  api_key: $GITHUB_TOKEN
-  file_glob: true
-  file:
-    - upu*.zip
-    - upu*.dat
-    - upu*.exe
-  skip_cleanup: true
-  on:
-    tags: true
-    branch: master
+  script:
+  - echo "script"
+before_deploy:
+  - echo "before deploy"
