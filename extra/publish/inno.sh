@@ -8,16 +8,14 @@ release_dir="$(realpath release_dir)"
 install_iss="$extra_dir/inno/inno.iss"
 inno_dir=~/.wine/drive_c/programs/inno
 inno_bin="$inno_dir/ISCC.exe"
-inno_install_bin="innosetup-5.6.1.exe"
+inno_install_bin="is.exe"
 inno_install_dir="C:\programs\inno"
-inno_url="http://files.jrsoftware.org/is/5/$inno_install_bin"
+inno_url="https://jrsoftware.org/download.php/$inno_install_bin"
 
 #install innosetup
-# wineboot --update
-# wget -q "$inno_url"
-# Xvfb :0 -screen 0 1024x768x16 &
-# DISPLAY=:0.0 wine "$inno_install_bin" /VERYSILENT /SUPPRESSMSGBOXES
-# rm -f "$inno_install_bin"
+wget -q "$inno_url"
+wine "$inno_install_bin" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /DIR="$inno_install_dir"
+rm -f "$inno_install_bin"
 
 # delete unnecessary files
 rm -f "$release_dir"/{upu-install.sh,upu-install.command}
