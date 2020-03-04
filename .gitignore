@@ -5,3 +5,5 @@
 extra/bin/*
 !extra/bin/dat2.exe
 scripts_src/sfall
+translations/*.dat
+extra/inno/Output

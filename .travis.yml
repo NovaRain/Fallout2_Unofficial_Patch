@@ -1,10 +1,13 @@
-language: minimal
+language: java
 dist: bionic
 sudo: false
 
 cache:
   directories:
     - $HOME/.cache/build
+
+services:
+  - xvfb
 
 addons:
   apt:
@@ -34,6 +37,7 @@ env:
     - extra_dir: extra
     - bin_dir: extra/bin
     - release_dir: release
+    - trans_dir: translations
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
     - WINEARCH: win32
@@ -46,6 +50,7 @@ deploy:
   file:
     - upu*.zip
     - upu*.dat
+    - upu*.exe
   skip_cleanup: true
   on:
     tags: true
