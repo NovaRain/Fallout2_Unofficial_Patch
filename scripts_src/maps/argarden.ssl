@@ -169,9 +169,6 @@ procedure Kill_Brat begin
    variable gecko;
    variable spear;
 
-   // comment out by killap - acdog.int now makes the dog go invisible, rather than killing him
-   //kill_critter_type(PID_DOG, KILL_DONT_LEAVE_BODY);
-
    cousin := create_object(PID_PRIMITIVE_VILLAGER_MALE, 0, 0);
    gecko := create_object(PID_TOUGH_GECKO_SMALL, 0, 0);
    spear := create_object(PID_SPEAR, 0, 0);
