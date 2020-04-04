@@ -24,6 +24,7 @@ addons:
 before_install:
   - ./extra/prepare.sh
   - wineboot
+  - ls ~/.wine
   - cat ~/.wine/system.reg | grep -m 1 '#arch' | cut -d '=' -f2
   - /usr/lib/wine/wineserver32 -p
 
