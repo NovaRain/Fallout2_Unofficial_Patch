@@ -27,6 +27,6 @@ mv "scripting_docs/headers" "scripts_src/sfall"
 sudo dpkg --add-architecture i386
 wget -nc https://dl.winehq.org/wine-builds/winehq.key
 sudo apt-key add winehq.key
-sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
-sudo add-apt-repository ppa:cybermax-dexter/sdl2-backport
-sudo apt install winehq-stable
+sudo add-apt-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
+sudo add-apt-repository -y ppa:cybermax-dexter/sdl2-backport
+sudo apt install -y --no-install-recommends winehq-stable
