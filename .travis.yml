@@ -18,7 +18,6 @@ addons:
       - gcc
       - moreutils
       - p7zip
-      - winehq-stable
 
 before_install:
   - ./extra/prepare.sh
