@@ -24,12 +24,10 @@ addons:
 before_install:
   - ./extra/prepare.sh
   - wineboot
-  - ls ~/.wine
-  - cat ~/.wine/system.reg | grep -m 1 '#arch' | cut -d '=' -f2
-  - /usr/lib/wine/wineserver32 -d2 -f
+  - wineserver -d2 -f
 
 after_success:
-  - /usr/lib/wine/wineserver32 -k
+  - wineserver -k
 
 script:
   - ./extra/check_headers.sh
@@ -47,8 +45,8 @@ env:
     - trans_dir: translations
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
-    - WINEARCH: win32
-    - WINEDEBUG: -all
+#    - WINEARCH: win32
+#    - WINEDEBUG: -all
 
 deploy:
   provider: releases
