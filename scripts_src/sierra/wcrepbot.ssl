@@ -108,26 +108,26 @@ variable Bot_Tile;
 
 procedure start begin
    if (local_var(LVAR_Home_Tile) == 0) then begin
-       set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+       set_local_var(LVAR_Home_Tile,self_tile);
    end
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SIERRA_REPAIR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_REPAIR_BOT);
+   set_self_team(TEAM_SIERRA_REPAIR);
+   set_self_ai(AI_REPAIR_BOT);
 end
 
 procedure critter_p_proc begin
    variable max_hp;
    variable cur_hp;
 
-   if ((local_var(LVAR_Have_Request_Num) == 0) and (tile_num(self_obj) == local_var(LVAR_Home_Tile) and (map_var(MVAR_Free_Bots) > 0))) then begin
+   if ((local_var(LVAR_Have_Request_Num) == 0) and (self_tile == local_var(LVAR_Home_Tile) and (map_var(MVAR_Free_Bots) > 0))) then begin
        set_local_var(LVAR_Go_Home,0);
        if (local_var(LVAR_Get_Request) == 0) then begin
            set_local_var(LVAR_Get_Request,1);
            add_timer_event(self_obj,game_ticks(random(3,7)),3);
        end
    end
-   else if ((local_var(LVAR_Have_Request_Num) == 0) and (tile_num(self_obj) != local_var(LVAR_Home_Tile))) then begin
-       ndebug("Current Tile == "+tile_num(self_obj)+". Home Tile == "+local_var(LVAR_Home_Tile));
+   else if ((local_var(LVAR_Have_Request_Num) == 0) and (self_tile != local_var(LVAR_Home_Tile))) then begin
+       ndebug("Current Tile == "+self_tile+". Home Tile == "+local_var(LVAR_Home_Tile));
        call GetMeHome;
    end
 
@@ -135,11 +135,11 @@ procedure critter_p_proc begin
        call RepairTravel;
    end
 
-   else if ((tile_num(self_obj) == local_var(LVAR_Home_Tile)) and (local_var(LVAR_Have_Request_Num) != 0)) then begin
+   else if ((self_tile == local_var(LVAR_Home_Tile)) and (local_var(LVAR_Have_Request_Num) != 0)) then begin
        call PrepareBot;
    end
 
-/*   else if ((tile_num(self_obj) == local_var(LVAR_Home_Tile)) and (local_var(LVAR_Have_Request_Num) != 0)) then begin
+/*   else if ((self_tile == local_var(LVAR_Home_Tile)) and (local_var(LVAR_Have_Request_Num) != 0)) then begin
        call ReplaceBot;
    end
 */
@@ -155,8 +155,8 @@ procedure critter_p_proc begin
        end
    end
 */
-   cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
-   max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+   cur_hp:=self_cur_hp;
+   max_hp:=self_max_hp;
 
    if (local_var(LVAR_Self_Repair) == 0) then begin
        if (max_hp > cur_hp) then begin
@@ -171,8 +171,8 @@ procedure timed_event_p_proc begin
    variable cur_hp;
 
    if (fixed_param == 1) then begin
-       cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
-       max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+       cur_hp:=self_cur_hp;
+       max_hp:=self_max_hp;
 
        if (max_hp > cur_hp) then begin
            critter_heal(self_obj,1);
@@ -380,13 +380,13 @@ procedure Repair1 begin
    variable Ammo;
    variable JunkBot;
 
-   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request1)) < 2) and
-       (elevation(self_obj) == map_var(MVAR_Elevation_Request1))) then begin
+   if ((tile_distance(self_tile,map_var(MVAR_Tile_Request1)) < 2) and
+       (self_elevation == map_var(MVAR_Elevation_Request1))) then begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request1),map_var(MVAR_Elevation_Request1),map_var(MVAR_Pid_Request1))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request1),map_var(MVAR_Elevation_Request1),map_var(MVAR_Pid_Request1));
 
-           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
-           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+           Bot_Max_Hp:=get_max_hp(Bot);
+           Bot_Cur_Hp:=get_cur_hp(Bot);
 
            if (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -446,13 +446,13 @@ procedure Repair2 begin
    variable Ammo;
    variable JunkBot;
 
-   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request2)) < 2) and
-       (elevation(self_obj) == map_var(MVAR_Elevation_Request2))) then begin
+   if ((tile_distance(self_tile,map_var(MVAR_Tile_Request2)) < 2) and
+       (self_elevation == map_var(MVAR_Elevation_Request2))) then begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request2),map_var(MVAR_Elevation_Request2),map_var(MVAR_Pid_Request2))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request2),map_var(MVAR_Elevation_Request2),map_var(MVAR_Pid_Request2));
 
-           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
-           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+           Bot_Max_Hp:=get_max_hp(Bot);
+           Bot_Cur_Hp:=get_cur_hp(Bot);
 
            if (map_var(MVAR_Repair_Request2) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -513,13 +513,13 @@ procedure Repair3 begin
    variable Ammo;
    variable JunkBot;
 
-   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request3)) < 2) and
-       (elevation(self_obj) == map_var(MVAR_Elevation_Request3))) then begin
+   if ((tile_distance(self_tile,map_var(MVAR_Tile_Request3)) < 2) and
+       (self_elevation == map_var(MVAR_Elevation_Request3))) then begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request3),map_var(MVAR_Elevation_Request3),map_var(MVAR_Pid_Request3))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request3),map_var(MVAR_Elevation_Request3),map_var(MVAR_Pid_Request3));
 
-           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
-           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+           Bot_Max_Hp:=get_max_hp(Bot);
+           Bot_Cur_Hp:=get_cur_hp(Bot);
 
            if (map_var(MVAR_Repair_Request3) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -580,13 +580,13 @@ procedure Repair4 begin
    variable Ammo;
    variable JunkBot;
 
-   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request4)) < 2) and
-       (elevation(self_obj) == map_var(MVAR_Elevation_Request4))) then begin
+   if ((tile_distance(self_tile,map_var(MVAR_Tile_Request4)) < 2) and
+       (self_elevation == map_var(MVAR_Elevation_Request4))) then begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request4),map_var(MVAR_Elevation_Request4),map_var(MVAR_Pid_Request4))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request4),map_var(MVAR_Elevation_Request4),map_var(MVAR_Pid_Request4));
 
-           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
-           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+           Bot_Max_Hp:=get_max_hp(Bot);
+           Bot_Cur_Hp:=get_cur_hp(Bot);
 
            if (map_var(MVAR_Repair_Request4) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -647,13 +647,13 @@ procedure Repair5 begin
    variable JunkBot;
    variable Ammo;
 
-   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request5)) < 2) and
-       (elevation(self_obj) == map_var(MVAR_Elevation_Request5))) then begin
+   if ((tile_distance(self_tile,map_var(MVAR_Tile_Request5)) < 2) and
+       (self_elevation == map_var(MVAR_Elevation_Request5))) then begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5));
 
-           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
-           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+           Bot_Max_Hp:=get_max_hp(Bot);
+           Bot_Cur_Hp:=get_cur_hp(Bot);
 
            if (map_var(MVAR_Repair_Request5) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -714,13 +714,13 @@ procedure Repair6 begin
    variable JunkBot;
    variable Ammo;
 
-   if ((tile_distance(tile_num(self_obj),map_var(MVAR_Tile_Request6)) < 2) and
-       (elevation(self_obj) == map_var(MVAR_Elevation_Request6))) then begin
+   if ((tile_distance(self_tile,map_var(MVAR_Tile_Request6)) < 2) and
+       (self_elevation == map_var(MVAR_Elevation_Request6))) then begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6));
 
-           Bot_Max_Hp:=get_critter_stat(Bot,STAT_max_hp);
-           Bot_Cur_Hp:=get_critter_stat(Bot,STAT_current_hp);
+           Bot_Max_Hp:=get_max_hp(Bot);
+           Bot_Cur_Hp:=get_cur_hp(Bot);
 
            if (map_var(MVAR_Repair_Request6) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -779,10 +779,10 @@ procedure Travel1 begin
    variable tile;
    variable Tile2;
 
-   if (elevation(self_obj) != map_var(MVAR_Elevation_Request1)) then begin
+   if (self_elevation != map_var(MVAR_Elevation_Request1)) then begin
        call FindElevator;
-       if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(map_var(MVAR_Elevation_Request1));
@@ -791,10 +791,10 @@ procedure Travel1 begin
 
    else begin
        Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request1),random(0,5),1);
-       if (elevation(self_obj) != elevation(dude_obj)) then
-           move_to(self_obj,Tile2,elevation(self_obj));
+       if (self_elevation != dude_elevation) then
+           move_to(self_obj,Tile2,self_elevation);
        else
-           animate_move_to_tile(Tile2);
+           self_walk_to_tile(Tile2);
    end
 end
 
@@ -802,10 +802,10 @@ procedure Travel2 begin
    variable tile;
    variable Tile2;
 
-   if (elevation(self_obj) != map_var(MVAR_Elevation_Request2)) then begin
+   if (self_elevation != map_var(MVAR_Elevation_Request2)) then begin
        call FindElevator;
-       if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(map_var(MVAR_Elevation_Request1));
@@ -814,10 +814,10 @@ procedure Travel2 begin
 
    else begin
        Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request2),random(0,5),1);
-       if (elevation(self_obj) != elevation(dude_obj)) then
-           move_to(self_obj,Tile2,elevation(self_obj));
+       if (self_elevation != dude_elevation) then
+           move_to(self_obj,Tile2,self_elevation);
        else
-           animate_move_to_tile(Tile2);
+           self_walk_to_tile(Tile2);
    end
 end
 
@@ -825,10 +825,10 @@ procedure Travel3 begin
    variable tile;
    variable Tile2;
 
-   if (elevation(self_obj) != map_var(MVAR_Elevation_Request3)) then begin
+   if (self_elevation != map_var(MVAR_Elevation_Request3)) then begin
        call FindElevator;
-       if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(map_var(MVAR_Elevation_Request1));
@@ -837,10 +837,10 @@ procedure Travel3 begin
 
    else begin
        Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request3),random(0,5),1);
-       if (elevation(self_obj) != elevation(dude_obj)) then
-           move_to(self_obj,Tile2,elevation(self_obj));
+       if (self_elevation != dude_elevation) then
+           move_to(self_obj,Tile2,self_elevation);
        else
-           animate_move_to_tile(Tile2);
+           self_walk_to_tile(Tile2);
    end
 end
 
@@ -848,10 +848,10 @@ procedure Travel4 begin
    variable tile;
    variable Tile2;
 
-   if (elevation(self_obj) != map_var(MVAR_Elevation_Request4)) then begin
+   if (self_elevation != map_var(MVAR_Elevation_Request4)) then begin
        call FindElevator;
-       if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(map_var(MVAR_Elevation_Request1));
@@ -860,10 +860,10 @@ procedure Travel4 begin
 
    else begin
        Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request4),random(0,5),1);
-       if (elevation(self_obj) != elevation(dude_obj)) then
-           move_to(self_obj,Tile2,elevation(self_obj));
+       if (self_elevation != dude_elevation) then
+           move_to(self_obj,Tile2,self_elevation);
        else
-           animate_move_to_tile(Tile2);
+           self_walk_to_tile(Tile2);
    end
 end
 
@@ -871,10 +871,10 @@ procedure Travel5 begin
    variable tile;
    variable Tile2;
 
-   if (elevation(self_obj) != map_var(MVAR_Elevation_Request5)) then begin
+   if (self_elevation != map_var(MVAR_Elevation_Request5)) then begin
        call FindElevator;
-       if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(map_var(MVAR_Elevation_Request1));
@@ -883,10 +883,10 @@ procedure Travel5 begin
 
    else begin
        Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request5),random(0,5),1);
-       if (elevation(self_obj) != elevation(dude_obj)) then
-           move_to(self_obj,Tile2,elevation(self_obj));
+       if (self_elevation != dude_elevation) then
+           move_to(self_obj,Tile2,self_elevation);
        else
-           animate_move_to_tile(Tile2);
+           self_walk_to_tile(Tile2);
    end
 end
 
@@ -894,10 +894,10 @@ procedure Travel6 begin
    variable tile;
    variable Tile2;
 
-   if (elevation(self_obj) != map_var(MVAR_Elevation_Request6)) then begin
+   if (self_elevation != map_var(MVAR_Elevation_Request6)) then begin
        call FindElevator;
-       if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(map_var(MVAR_Elevation_Request1));
@@ -906,18 +906,18 @@ procedure Travel6 begin
 
    else begin
        Tile2:=tile_num_in_direction(map_var(MVAR_Tile_Request6),random(0,5),1);
-       if (elevation(self_obj) != elevation(dude_obj)) then
-           move_to(self_obj,Tile2,elevation(self_obj));
+       if (self_elevation != dude_elevation) then
+           move_to(self_obj,Tile2,self_elevation);
        else
-           animate_move_to_tile(Tile2);
+           self_walk_to_tile(Tile2);
    end
 end
 
 procedure FindElevator begin
-   if (elevation(self_obj) == 0) then begin
+   if (self_elevation == 0) then begin
        Elevator_Tile:=ELEVATOR_1;
    end
-   else if (elevation(self_obj) == 1) then begin
+   else if (self_elevation == 1) then begin
        Elevator_Tile:=ELEVATOR_2;
    end
    else begin
@@ -945,7 +945,7 @@ procedure ReplaceBot begin
        ndebug("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
 //       if (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP_COMPLETE) then begin
            Bot:=create_object_sid(map_var(MVAR_Pid_Request1),0,0,SCRIPT_WCSECBOT);
-           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           Dest_Tile:=tile_num_in_direction(self_tile,random(3,5),2);
            critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
            ndebug("Created Bot 1.");
            set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
@@ -954,7 +954,7 @@ procedure ReplaceBot begin
            Bot_Elevation:=map_var(MVAR_Elevation_Request1);
            Bot_Tile:=map_var(MVAR_Tile_Request1);
            call GetRobotHome;
-/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request1)) then begin
+/*           if (self_elevation != map_var(MVAR_Elevation_Request1)) then begin
                call GetRobotHome;
            end
            else begin
@@ -968,7 +968,7 @@ procedure ReplaceBot begin
        ndebug("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
 //       if (map_var(MVAR_Tile_Request2) == REPAIR_PICKUP_COMPLETE) then begin
            Bot:=create_object_sid(map_var(MVAR_Pid_Request2),0,0,SCRIPT_WCSECBOT);
-           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           Dest_Tile:=tile_num_in_direction(self_tile,random(3,5),2);
            critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
            ndebug("Created Bot 2.");
            set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
@@ -977,7 +977,7 @@ procedure ReplaceBot begin
            Bot_Elevation:=map_var(MVAR_Elevation_Request2);
            Bot_Tile:=map_var(MVAR_Tile_Request2);
            call GetRobotHome;
-/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request3)) then begin
+/*           if (self_elevation != map_var(MVAR_Elevation_Request3)) then begin
                call GetRobotHome;
            end
            else begin
@@ -991,7 +991,7 @@ procedure ReplaceBot begin
        ndebug("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
 //       if (map_var(MVAR_Tile_Request3) == REPAIR_PICKUP_COMPLETE) then begin
            Bot:=create_object_sid(map_var(MVAR_Pid_Request3),0,0,SCRIPT_WCSECBOT);
-           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           Dest_Tile:=tile_num_in_direction(self_tile,random(3,5),2);
            critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
            ndebug("Created Bot 3.");
            set_map_var(MVAR_Repair_Request3,REPAIR_COMPLETE);
@@ -1000,7 +1000,7 @@ procedure ReplaceBot begin
            Bot_Elevation:=map_var(MVAR_Elevation_Request3);
            Bot_Tile:=map_var(MVAR_Tile_Request3);
            call GetRobotHome;
-/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request3)) then begin
+/*           if (self_elevation != map_var(MVAR_Elevation_Request3)) then begin
                call GetRobotHome;
            end
            else begin
@@ -1014,7 +1014,7 @@ procedure ReplaceBot begin
        ndebug("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
 //       if (map_var(MVAR_Tile_Request4) == REPAIR_PICKUP_COMPLETE) then begin
            Bot:=create_object_sid(map_var(MVAR_Pid_Request4),0,0,SCRIPT_WCSECBOT);
-           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           Dest_Tile:=tile_num_in_direction(self_tile,random(3,5),2);
            critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
            ndebug("Created Bot 4.");
            set_map_var(MVAR_Repair_Request4,REPAIR_COMPLETE);
@@ -1023,7 +1023,7 @@ procedure ReplaceBot begin
            Bot_Elevation:=map_var(MVAR_Elevation_Request4);
            Bot_Tile:=map_var(MVAR_Tile_Request4);
            call GetRobotHome;
-/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request4)) then begin
+/*           if (self_elevation != map_var(MVAR_Elevation_Request4)) then begin
                call GetRobotHome;
            end
            else begin
@@ -1037,7 +1037,7 @@ procedure ReplaceBot begin
        ndebug("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
 //       if (map_var(MVAR_Tile_Request5) == REPAIR_PICKUP_COMPLETE) then begin
            Bot:=create_object_sid(map_var(MVAR_Pid_Request5),0,0,SCRIPT_WCSECBOT);
-           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           Dest_Tile:=tile_num_in_direction(self_tile,random(3,5),2);
            critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
            ndebug("Created Bot 5.");
            set_map_var(MVAR_Repair_Request5,REPAIR_COMPLETE);
@@ -1046,7 +1046,7 @@ procedure ReplaceBot begin
            Bot_Elevation:=map_var(MVAR_Elevation_Request5);
            Bot_Tile:=map_var(MVAR_Tile_Request5);
            call GetRobotHome;
-/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request5)) then begin
+/*           if (self_elevation != map_var(MVAR_Elevation_Request5)) then begin
                call GetRobotHome;
            end
            else begin
@@ -1060,7 +1060,7 @@ procedure ReplaceBot begin
        ndebug("Need to Make new bot "+local_var(LVAR_Have_Request_Num));
 //       if (map_var(MVAR_Tile_Request6) == REPAIR_PICKUP_COMPLETE) then begin
            Bot:=create_object_sid(map_var(MVAR_Pid_Request6),0,0,SCRIPT_WCSECBOT);
-           Dest_Tile:=tile_num_in_direction(tile_num(self_obj),random(3,5),2);
+           Dest_Tile:=tile_num_in_direction(self_tile,random(3,5),2);
            critter_attempt_placement(Bot,Dest_Tile,HOME_ELEVATION);
            ndebug("Created Bot 6.");
            set_map_var(MVAR_Repair_Request6,REPAIR_COMPLETE);
@@ -1069,7 +1069,7 @@ procedure ReplaceBot begin
            Bot_Elevation:=map_var(MVAR_Elevation_Request6);
            Bot_Tile:=map_var(MVAR_Tile_Request6);
            call GetRobotHome;
-/*           if (elevation(self_obj) != map_var(MVAR_Elevation_Request6)) then begin
+/*           if (self_elevation != map_var(MVAR_Elevation_Request6)) then begin
                call GetRobotHome;
            end
            else begin
@@ -1087,22 +1087,22 @@ procedure GetMeHome begin
 
    ndebug("Trying to go Home");
 
-   if (elevation(self_obj) != HOME_ELEVATION) then begin
+   if (self_elevation != HOME_ELEVATION) then begin
        call FindElevator;
-       if (elevation(self_obj) != elevation(dude_obj)) then
+       if (self_elevation != dude_elevation) then
            move_to(self_obj,ELEVATOR_2,HOME_ELEVATION);
-       else if (tile_num(self_obj) != Elevator_Tile) then begin
-           animate_move_to_tile(Elevator_Tile);
+       else if (self_tile != Elevator_Tile) then begin
+           self_walk_to_tile(Elevator_Tile);
        end
        else begin
            Move_Elevator(HOME_ELEVATION);
        end
    end
    else begin
-       if (elevation(self_obj) != elevation(dude_obj)) then
+       if (self_elevation != dude_elevation) then
            move_to(self_obj,local_var(LVAR_Home_Tile),HOME_ELEVATION);
        else
-           animate_move_to_tile(local_var(LVAR_Home_Tile));
+           self_walk_to_tile(local_var(LVAR_Home_Tile));
    end
 end
 

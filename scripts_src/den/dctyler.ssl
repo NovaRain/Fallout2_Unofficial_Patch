@@ -266,14 +266,14 @@ end
 procedure Node999 begin
 end
 procedure Node990 begin
-   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)))) then begin
+   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0)))) then begin
       call Node009;
    end else begin
       call Node008;
    end
 end
 procedure Node989 begin
-   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,5)))) then begin
+   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,5)))) then begin
       call Node009;
    end else begin
       call Node008;
@@ -282,21 +282,21 @@ end
 procedure Node988 begin
    if (dude_strength > 7) then begin
       call Node010;
-   end else if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,5))) then begin
+   end else if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,5))) then begin
       call Node009;
    end else begin
       call Node011;
    end
 end
 procedure Node987 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,20))) then begin
       call Node009;
    end else begin
       call Node015;
    end
 end
 procedure Node986 begin
-   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,5)))) then begin
+   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,5)))) then begin
       call Node009;
    end else begin
       call Node015;

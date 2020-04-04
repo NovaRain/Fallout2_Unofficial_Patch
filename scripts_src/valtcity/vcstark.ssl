@@ -199,8 +199,8 @@ end
 procedure map_enter_p_proc begin
    Stark_Ptr := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_TOUGH_GUARD);
 
    add_timer_event( self_obj, game_ticks( random(20, 40) ), 1 );
 end
@@ -246,7 +246,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -458,7 +458,7 @@ procedure Node010 begin
 
    BOption(123, Node004, 004);
    BOption(124, Node011, 004);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then
       NOption(125, Node029, 004);
 end
 
@@ -600,7 +600,7 @@ procedure Node018 begin
       Reply(380);
    end
 
-   if( ( dude_charisma > 7 ) or ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) ) then
+   if( ( dude_charisma > 7 ) or ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) ) then
       NOption(165, Node019, 004);
    NOption(166, Node064, 004);
    NOption(167, Node999, 004);
@@ -688,7 +688,7 @@ procedure Node024a begin
 end
 
 procedure Node025 begin
-   item_caps_adjust( dude_obj, 500 );
+   dude_caps_adjust( 500);
    display_msg( mstr(386) );
    give_xp( EXP_VAULT_PULLED_RANK );
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_PULLED_RANK_ON_STARK ) );
@@ -736,7 +736,7 @@ end
 procedure Node028 begin
    Reply(203);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then
       NOption(204, Node029, 004);
    NOption(205, Node064, 004);
    NOption(206, Node999, 004);
@@ -760,15 +760,15 @@ procedure Node029a begin
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
    set_global_var(GVAR_VAULT_CITIZENSHIP,0);
    set_global_var(GVAR_DAY_PASS_SHOWN, 0);
-   DayPass_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_DAY_PASS);
+   DayPass_KickOutCount := dude_item_count(PID_DAY_PASS);
    if( DayPass_KickOutCount > 0 ) then begin
-      DayPass_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_DAY_PASS);
+      DayPass_KickOutObj := dude_item(PID_DAY_PASS);
       KickOutTemp := rm_mult_objs_from_inven(dude_obj, DayPass_KickOutObj, DayPass_KickOutCount );
       destroy_object(DayPass_KickOutObj); //added by killap
    end
-   CitizenPapers_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_FAKE_CITIZENSHIP);
+   CitizenPapers_KickOutCount := dude_item_count(PID_FAKE_CITIZENSHIP);
    if( CitizenPapers_KickOutCount > 0 ) then begin
-      CitizenPapers_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_FAKE_CITIZENSHIP);
+      CitizenPapers_KickOutObj := dude_item(PID_FAKE_CITIZENSHIP);
       KickOutTemp := rm_mult_objs_from_inven(dude_obj, CitizenPapers_KickOutObj, CitizenPapers_KickOutCount );
       destroy_object(CitizenPapers_KickOutObj); //added by killap
    end
@@ -1080,7 +1080,7 @@ procedure Node056a begin
 end
 
 procedure Node057 begin
-   item_caps_adjust( dude_obj, 300 );
+   dude_caps_adjust( 300);
    set_global_var( GVAR_VAULT_STARK_RECON, RECON_GECKO_DONE );
    display_msg( mstr(388) );
    give_xp( EXP_VAULT_GECKO_RECON );
@@ -1151,7 +1151,7 @@ procedure Node061 begin
 
    item := create_object( PID_MOTION_SENSOR, 0, 0 );
    add_obj_to_inven( dude_obj, item );
-   item_caps_adjust( dude_obj, 500 );
+   dude_caps_adjust( 500);
    set_global_var( GVAR_VAULT_STARK_RECON, RECON_NCR_DONE );
    display_msg( mstr(389) );
    give_xp( EXP_VAULT_NCR_RECON );

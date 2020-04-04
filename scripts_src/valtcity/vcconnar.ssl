@@ -35,7 +35,7 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 
-#define GATE_TILE               (tile_num(self_obj))
+#define GATE_TILE               (self_tile)
 
 /* Standard Script Procedures */
 procedure start;
@@ -113,8 +113,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_VILLAGERS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_VILLAGERS);
+   set_self_ai(AI_COWARD);
 end
 
 
@@ -127,12 +127,12 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_CITY) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if (((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_CITY) == 1)) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Initiated_Talk) == 0) and (tile_distance(tile_num(dude_obj),GATE_TILE) <= 6)) then begin
+   if ((local_var(LVAR_Initiated_Talk) == 0) and (tile_distance(dude_tile,GATE_TILE) <= 6)) then begin
        set_local_var(LVAR_Initiated_Talk,1);
        dialogue_system_enter;
    end
@@ -381,8 +381,8 @@ procedure Node013 begin
 end
 
 procedure Node013a begin
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_SHOTGUN)) and
-       (obj_is_carrying_obj_pid(dude_obj,PID_ASSAULT_RIFLE) > 2)) then
+   if ((dude_item_count(PID_SHOTGUN)) and
+       (dude_item_count(PID_ASSAULT_RIFLE) > 2)) then
        call Node015;
    else
        call Node014;
@@ -399,8 +399,8 @@ procedure Node015 begin
    variable item1;
    variable item2;
 
-   item1:=obj_carrying_pid_obj(dude_obj,PID_SHOTGUN);
-   item2:=obj_carrying_pid_obj(dude_obj,PID_ASSAULT_RIFLE);
+   item1:=dude_item(PID_SHOTGUN);
+   item2:=dude_item(PID_ASSAULT_RIFLE);
 
    item:=rm_mult_objs_from_inven(dude_obj,item1,1);
    item:=rm_mult_objs_from_inven(dude_obj,item2,3);

@@ -171,8 +171,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_SHAMAN);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_ARROYO_SHAMAN);
 
    if (cur_map_index == MAP_DESTROYED_ARROYO_BRIDGE) then begin
        anim(self_obj,ANIM_fall_front_sf,ANIMATE_FORWARD);
@@ -197,7 +197,7 @@ procedure critter_p_proc begin
        end
    end
 
-   if (obj_can_see_obj(self_obj, dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (global_var(GVAR_ENEMY_ARROYO) == 1) then begin
          attack(dude_obj);
       end
@@ -383,7 +383,7 @@ procedure Node995 begin
 end
 
 procedure Node996 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then begin
+   if (dude_charisma >= 8) then begin
        call Node010;
    end
 
@@ -393,7 +393,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then begin
+   if (dude_charisma >= 8) then begin
        call Node010;
    end
 
@@ -697,8 +697,8 @@ procedure Node023 begin
 
    Reply(203);
 
-   root:=obj_is_carrying_obj_pid(dude_obj,PID_XANDER_ROOT);
-   flower:=obj_is_carrying_obj_pid(dude_obj,PID_BROC_FLOWER);
+   root:=dude_item_count(PID_XANDER_ROOT);
+   flower:=dude_item_count(PID_BROC_FLOWER);
 
    if ((root == 0) or (flower == 0)) then begin
        call Node024;
@@ -709,8 +709,8 @@ procedure Node023 begin
        else
            total_healing:=root;
 
-       flower_ptr:=obj_carrying_pid_obj(dude_obj,PID_BROC_FLOWER);
-       root_ptr:=obj_carrying_pid_obj(dude_obj,PID_XANDER_ROOT);
+       flower_ptr:=dude_item(PID_BROC_FLOWER);
+       root_ptr:=dude_item(PID_XANDER_ROOT);
 
        item:=create_object(PID_HEALING_POWDER,0,0);
        add_mult_objs_to_inven(dude_obj,item,total_healing);

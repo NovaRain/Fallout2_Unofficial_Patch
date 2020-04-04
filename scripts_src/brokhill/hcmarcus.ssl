@@ -182,7 +182,7 @@ procedure Node2019;
 
 procedure Put_Conspiracy_In_Jail;
 
-#define check_bad_area(map, elev)         ((cur_map_index == map) and ((elevation(self_obj) == elev) or (elev == -1)))
+#define check_bad_area(map, elev)         ((cur_map_index == map) and ((self_elevation == elev) or (elev == -1)))
 #define marcus_doesnt_like_area            ((check_bad_area(MAP_RAIDERS_CAMP1, -1)) or           \
                                            (check_bad_area(MAP_KLAMATH_TOXICCAVES, -1)) or              \
                                            (check_bad_area(MAP_KLAMATH_RATCAVES, -1)) or            \
@@ -192,7 +192,7 @@ procedure Put_Conspiracy_In_Jail;
                                            (check_bad_area(MAP_SIERRA_BATTLE, -1)))      // *** finish
 
 #define marcus_is_poisoned                    (get_poison(self_obj))
-#define marcus_is_irradiated                  (get_critter_stat(self_obj, STAT_current_rad))
+#define marcus_is_irradiated                  (self_rads)
 #define marcus_is_crippled                    ((critter_state(self_obj) bwand DAM_CRIP_LEG_LEFT)  or \
                                                 (critter_state(self_obj) bwand DAM_CRIP_LEG_RIGHT) or \
                                                 (critter_state(self_obj) bwand DAM_CRIP_ARM_LEFT)  or \
@@ -200,7 +200,7 @@ procedure Put_Conspiracy_In_Jail;
 
 #define marcus_joins_party                party_add_self;                                                   \
                                           add_timer_event(self_obj,game_ticks(1),1);                             \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+                                          set_self_team(TEAM_PLAYER)
 #define dude_has_free_slot_for_marcus        ((dude_at_max_party_size == false) and (Marcus_In_Party == false))
 #define marcus_party_member_options          party_member_default_options
 
@@ -268,7 +268,7 @@ procedure map_enter_p_proc begin
    end
    else begin
       Perform_Critter_Float := 0;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+      set_self_team(TEAM_BROKEN_HILLS);
 
       if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
          set_obj_visibility( self_obj, true );
@@ -293,7 +293,7 @@ procedure timed_event_p_proc begin
                call Node2000;
             else if( marcus_is_crippled ) then
                call Node2009;
-            else if( get_critter_stat(self_obj, STAT_current_hp) <= ( (get_critter_stat(self_obj, STAT_max_hp) * 3)/4) ) then
+            else if( self_cur_hp <= ( (self_max_hp * 3)/4) ) then
                call Node2010;
             //added and (random(1,2) == 1) to the below checks - this way having one npc doesn't prohibit responses to other npcs - killap
             else if( (Cyberdog_Ptr != 0 ) and (random(1,2) == 1) ) then
@@ -342,7 +342,7 @@ procedure critter_p_proc begin
       party_member_follow_dude
    end
    //else if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
-   else if ( (cur_town == AREA_BROKEN_HILLS) and ( ((global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) or (local_var(LVAR_Hostile) == 2)) and (obj_can_see_obj(self_obj,dude_obj)) ) ) then begin //edit by killap (now only become hostile on BH maps)
+   else if ( (cur_town == AREA_BROKEN_HILLS) and ( ((global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) or (local_var(LVAR_Hostile) == 2)) and (self_can_see_dude) ) ) then begin //edit by killap (now only become hostile on BH maps)
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -435,7 +435,7 @@ procedure talk_p_proc begin
                 call Node001;
              end
              else begin
-                if (dude_iq <= 3) then begin
+                if (dude_is_stupid) then begin
                    call Node006;
                 end
                 else begin
@@ -454,7 +454,7 @@ procedure talk_p_proc begin
    if( Perform_Party_Remove == 1 ) then begin
       Perform_Party_Remove := 0;
       set_party_waiting;
-      critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_BROKEN_HILLS);
+      set_self_team(TEAM_BROKEN_HILLS);
    end*/
    //end comment out by killap
    if( Perform_Jailing == 1 ) then begin
@@ -846,7 +846,7 @@ procedure Node025a begin
    Perform_Jailing := 1;
    if (global_var(GVAR_BH_MISSING) == MISSING_DISCOVERED_CASH) then begin
       set_global_var( GVAR_BH_MISSING, MISSING_REWARDED );
-      item_caps_adjust( dude_obj, 500 );
+      dude_caps_adjust( 500);
       Reply( 198 ); //multiple replies ...check with Colin, need priority
    end
    else if (global_var(GVAR_BH_MISSING) == MISSING_DISCOVERED_FREE) then begin
@@ -1026,7 +1026,7 @@ procedure Node043 begin
 end
 
 procedure Node043a begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) then
       call Node044;
    else begin
       if( local_var(LVAR_Down_React_5) == 0 ) then begin

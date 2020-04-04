@@ -25,8 +25,8 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_ELRONOLOGISTS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DOCTOR);
+   set_self_team(TEAM_RND_ELRONOLOGISTS);
+   set_self_ai(AI_DOCTOR);
 end
 
 procedure look_at_p_proc begin

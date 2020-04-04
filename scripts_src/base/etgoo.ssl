@@ -40,7 +40,7 @@ end
 
 procedure spatial_p_proc begin
    if (obj_no_goo_effect(source_obj) == false) then begin
-      if (tile_has_rad_goo(tile_num(source_obj), self_elevation)) then begin
+      if (tile_has_rad_goo(source_tile, self_elevation)) then begin
          if (source_obj == dude_obj) then begin
             if (local_var(LVAR_Goo_Message) == false) then begin
                set_local_var(LVAR_Goo_Message, true);

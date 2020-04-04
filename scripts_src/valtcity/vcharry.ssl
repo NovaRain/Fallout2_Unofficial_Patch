@@ -107,8 +107,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    Harry_Ptr := self_obj;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 procedure map_update_p_proc begin
@@ -124,7 +124,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -266,16 +266,16 @@ procedure Node003 begin
 
    NOption(109,Node003a,004);
    NOption(110,Node003b,004);
-   if (item_caps_total(dude_obj) < 800) then
+   if (dude_caps < 800) then
        NOption(111,Node999,004);
    else
        BOption(112,Node003c,004);
 end
 
 procedure Node003a begin
-   if ((has_skill(dude_obj,SKILL_BARTER) > 50) and (item_caps_total(dude_obj) >= 600)) then begin
-       item_caps_adjust(dude_obj,-600);
-       item_caps_adjust(self_obj,600);
+   if ((has_skill(dude_obj,SKILL_BARTER) > 50) and (dude_caps >= 600)) then begin
+       dude_caps_adjust(-600);
+       self_caps_adjust(600);
        call Node004;
    end
    else
@@ -283,9 +283,9 @@ procedure Node003a begin
 end
 
 procedure Node003b begin
-   if (item_caps_total(dude_obj) >= 800) then begin
-       item_caps_adjust(dude_obj,-800);
-       item_caps_adjust(self_obj,800);
+   if (dude_caps >= 800) then begin
+       dude_caps_adjust(-800);
+       self_caps_adjust(800);
        call Node004;
    end
    else
@@ -306,7 +306,7 @@ procedure Node005 begin
    Reply(115);
 
    NOption(110,Node003b,004);
-   if (item_caps_total(dude_obj) < 800) then
+   if (dude_caps < 800) then
        NOption(111,Node999,004);
    else
        BOption(112,Node003c,004);
@@ -323,10 +323,10 @@ procedure Node007 begin
 
    gfade_out(600);
 
-   if( not( obj_is_visible_flag( plow1 ) ) ) then begin
+   if( not( is_visible( plow1 ) ) ) then begin
       set_obj_visibility( plow1, false );
    end
-   if( obj_is_visible_flag( plow2 ) ) then begin
+   if( is_visible( plow2 ) ) then begin
       set_obj_visibility( plow2, true );
    end
 

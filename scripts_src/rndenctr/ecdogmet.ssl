@@ -135,7 +135,7 @@ procedure timed_event_p_proc begin
 
    if (self_visible) then begin
          if (Dogmeat_In_Party) then begin
-            if ( (Is_Crippled(self_obj)) or (get_critter_stat(self_obj, STAT_current_rad)) or (get_poison(self_obj)) ) then begin
+            if ( (Is_Crippled(self_obj)) or (self_rads) or (get_poison(self_obj)) ) then begin
                floater(random(300,301));
             end
          end
@@ -155,10 +155,10 @@ procedure map_enter_p_proc begin
    party_member_map_enter;
 
    if (Dogmeat_In_Party) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end else begin
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
+      set_self_team(TEAM_RND_BAR);
    end
 
    add_timer_event(self_obj, random(25, 40), 0); //added by killap
@@ -168,7 +168,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -206,13 +206,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        party_remove_self;
        set_local_var(LVAR_Hostile,1);
 
        if (not local_var(LVAR_Mel)) then begin
          tile := tile_num_in_direction(self_tile, Random(0, 5), 1);
-         mel := create_object_sid(PID_MYST_STRANGER_MALE_21, tile, elevation(self_obj), SCRIPT_ECMEL);
+         mel := create_object_sid(PID_MYST_STRANGER_MALE_21, tile, self_elevation, SCRIPT_ECMEL);
          set_local_var(LVAR_Mel, mel);
 
          flame := create_object(PID_HK_G11E, 0, 0);
@@ -220,8 +220,8 @@ procedure critter_p_proc begin
          add_mult_objs_to_inven(mel, create_object(PID_4_7MM_CASELESS, 0, 0), 4);
          wield_obj_critter(mel, flame);
 
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
-         critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
+         set_self_team(TEAM_RND_BAR);
+         set_team(mel,TEAM_RND_BAR);
 
          //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
          //critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
@@ -242,14 +242,14 @@ procedure critter_p_proc begin
          if (game_time > doWalking) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tile_num_in_direction(dude_obj, Random(0, 5), Random(5, 10)));
+            self_walk_to_tile(tile_num_in_direction(dude_obj, Random(0, 5), Random(5, 10)));
             reg_anim_end();
             doWalking := game_time + game_ticks(Random(10, 40));
          end
       end
 
       if (party_is_waiting == true) then begin
-         if (obj_can_see_obj(self_obj, dude_obj)) then begin
+         if (self_can_see_dude) then begin
             if (game_time > lastHowelTime) then begin
                float_msg(self_obj, mstr(135), FLOAT_MSG_BLUE);
                lastHowelTime := game_time + game_ticks(Random(30, 90));

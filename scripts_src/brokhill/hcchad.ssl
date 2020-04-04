@@ -117,11 +117,11 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    // Chad is on your team during caravans.
    if( cur_map_index == MAP_BH_RND_DESERT ) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+      set_self_team(TEAM_BROKEN_HILLS);
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    if( global_var( GVAR_CHAD_DEAD ) == 1 ) then begin
       if( self_visible ) then
@@ -182,7 +182,7 @@ procedure timed_event_p_proc begin
    end
    else if( fixed_param == 2 ) then begin
       gfade_out(600);
-      tile := tile_num( self_obj );
+      tile := self_tile;
       move_to( self_obj, 0, 0 );
       set_obj_visibility( self_obj, true );
       move_to( self_obj, tile, 0 );
@@ -200,7 +200,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -250,7 +250,7 @@ procedure talk_p_proc begin
    end else if( ( global_var(GVAR_BH_CARAVAN) == CARAVAN_STATUS_SUCCESS ) or
             ( global_var(GVAR_BH_CARAVAN) == CARAVAN_STATUS_ON_JOB ) ) then begin
       set_global_var( GVAR_BH_CARAVAN, CARAVAN_STATUS_NONE );
-      item_caps_adjust( dude_obj, 200 );
+      dude_caps_adjust( 200);
       add_timer_event( self_obj, 1, 1 );
    end else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -337,7 +337,7 @@ procedure Node920 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -350,7 +350,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;

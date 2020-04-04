@@ -157,7 +157,7 @@ procedure Node2022;
 #define LVAR_Mentioned_Vault            (13)
 #define LVAR_Joined_Party_Before        (14)
 
-#define check_bad_area(map, elev)         ((cur_map_index == map) and ((elevation(self_obj) == elev) or (elev == -1)))
+#define check_bad_area(map, elev)         ((cur_map_index == map) and ((self_elevation == elev) or (elev == -1)))
 #define cassidy_doesnt_like_area            ((check_bad_area(MAP_RAIDERS_CAMP2, -1)) or           \
                                            (check_bad_area(MAP_KLAMATH_TOXICCAVES, -1)) or              \
                                            (check_bad_area(MAP_KLAMATH_RATCAVES, -1)) or            \
@@ -168,7 +168,7 @@ procedure Node2022;
                                            (check_bad_area(MAP_SIERRA_BATTLE, -1)))      // *** finish
 
 #define cassidy_is_poisoned                    (get_poison(self_obj))
-#define cassidy_is_irradiated                  (get_critter_stat(self_obj, STAT_current_rad))
+#define cassidy_is_irradiated                  (self_rads)
 #define cassidy_is_crippled                    ((critter_state(self_obj) bwand DAM_CRIP_LEG_LEFT)  or \
                                                 (critter_state(self_obj) bwand DAM_CRIP_LEG_RIGHT) or \
                                                 (critter_state(self_obj) bwand DAM_CRIP_ARM_LEFT)  or \
@@ -201,7 +201,7 @@ procedure map_enter_p_proc begin
    else
       Perform_Critter_Float := 0;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+   set_self_team(TEAM_SLAVES);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
 
    //rm_timer_event( self_obj ); - comment out by killap
@@ -211,7 +211,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -250,7 +250,7 @@ procedure timed_event_p_proc begin
                call Node2008;
             else if( Is_Crippled( MacRae_Ptr ) ) then
                call Node2022;
-            else if( get_critter_stat(self_obj, STAT_current_hp) <= ( (get_critter_stat(self_obj, STAT_max_hp) * 3)/4) ) then
+            else if( self_cur_hp <= ( (self_max_hp * 3)/4) ) then
                call Node2010;
             else if( ( Cyberdog_Ptr != 0 ) and (random(1,2) == 1) ) then
                call Node2013;
@@ -297,7 +297,7 @@ procedure critter_p_proc begin
          call Node2006;
       else if( cur_map_index == MAP_BROKEN_HILLS1 ) then
          call Node2007;
-      else if( ( cur_map_index == MAP_VAULTCITY_DOWNTOWN ) and ( tile_distance( tile_num( self_obj ), 16056 ) <= 10 ) ) then
+      else if( ( cur_map_index == MAP_VAULTCITY_DOWNTOWN ) and ( tile_distance( self_tile, 16056 ) <= 10 ) ) then
          call Node2018;
    end
 
@@ -398,7 +398,7 @@ procedure talk_p_proc begin
    if( Perform_Party_Remove == 1 ) then begin
       Perform_Party_Remove := 0;
       set_party_waiting;
-      critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_SLAVES);
+      set_self_team(TEAM_SLAVES);
       rm_timer_event( self_obj );
       add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
    end*/
@@ -505,21 +505,21 @@ procedure Node004 begin
 
    if( Fallout2_vault13_looking ) then
       NOption(119, Node003, 004);
-   if( item_caps_total( dude_obj ) >= 20 ) then
+   if( dude_caps >= 20) then
       NOption(120, Node004a, 004);
-   if( item_caps_total( dude_obj ) >= 30 ) then
+   if( dude_caps >= 30) then
       NOption(121, Node004b, 004);
    NOption(122, Node005, 004);
    NOption(123, Node999, 004);
 end
 
 procedure Node004a begin
-   item_caps_adjust( dude_obj, -20 );
+   dude_caps_adjust( -20);
    call Node006;
 end
 
 procedure Node004b begin
-   item_caps_adjust( dude_obj, -30 );
+   dude_caps_adjust( -30);
    call Node006;
 end
 

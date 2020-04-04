@@ -350,7 +350,7 @@ procedure Node010 begin
    NOption(303, Node999, 004);
 end
 procedure Node011 begin
-   item_caps_adjust(dude_obj, 200);
+   dude_caps_adjust(200);
    Reply(310);
    NOption(311, Node012, 006);
    NOption(312, Node015, 004);
@@ -402,7 +402,7 @@ procedure Node019 begin
    NOption(402, Node999, 004);
 end
 procedure Node020 begin
-   item_caps_adjust(dude_obj, 50);
+   dude_caps_adjust(50);
    Reply(410);
    NOption(411, Node023, 004);
    NOption(412, Node021, 004);
