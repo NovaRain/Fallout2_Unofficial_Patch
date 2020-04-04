@@ -44,8 +44,8 @@ env:
     - trans_dir: translations
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
-   - WINEARCH: win32
-   - WINEDEBUG: -all
+    - WINEARCH: win32
+    - WINEDEBUG: -all
 
 deploy:
   provider: releases
