@@ -23,6 +23,10 @@ addons:
 
 before_install:
   - ./extra/prepare.sh
+  - wineserver -p
+
+after_success:
+  - wineserver -k
 
 script:
   - ./extra/check_headers.sh
