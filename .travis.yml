@@ -24,7 +24,7 @@ addons:
 before_install:
   - ./extra/prepare.sh
   - wineboot
-  - wineserver -p
+  - wineserver -f -d10
 
 after_success:
   - wineserver -k
