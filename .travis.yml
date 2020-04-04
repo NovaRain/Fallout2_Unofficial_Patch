@@ -24,10 +24,10 @@ addons:
 before_install:
   - ./extra/prepare.sh
   - wineboot
-  - wineserver -f -d10
+  - /usr/lib/wine/wineserver32 -p
 
 after_success:
-  - wineserver -k
+  - /usr/lib/wine/wineserver32 -k
 
 script:
   - ./extra/check_headers.sh
