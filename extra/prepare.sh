@@ -24,8 +24,8 @@ mv -f "$compile_exe" "$bin_dir/"
 mv "scripting_docs/headers" "scripts_src/sfall"
 
 # new wine
-dpkg --add-architecture i386
+sudo dpkg --add-architecture i386
 wget -nc https://dl.winehq.org/wine-builds/winehq.key
-apt-key add winehq.key
-apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
-apt install winehq-stable
+sudo apt-key add winehq.key
+sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
+sudo apt install winehq-stable
