@@ -26,7 +26,7 @@ before_install:
   - wineboot
   - ls ~/.wine
   - cat ~/.wine/system.reg | grep -m 1 '#arch' | cut -d '=' -f2
-  - /usr/lib/wine/wineserver32 -p
+  - /usr/lib/wine/wineserver32 -d2 -f
 
 after_success:
   - /usr/lib/wine/wineserver32 -k
