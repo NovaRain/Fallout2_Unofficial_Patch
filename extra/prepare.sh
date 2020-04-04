@@ -22,11 +22,3 @@ mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
 7zr x "$mpack_7z" "scripting_docs/headers"
 mv "scripting_docs/headers" "scripts_src/sfall"
-
-# new wine
-sudo dpkg --add-architecture i386
-wget -nc https://dl.winehq.org/wine-builds/winehq.key
-sudo apt-key add winehq.key
-sudo add-apt-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
-sudo add-apt-repository -y ppa:cybermax-dexter/sdl2-backport
-sudo apt install -y --no-install-recommends winehq-stable
