@@ -193,8 +193,8 @@ procedure combat_p_proc begin
          cur := 0;
          ndebug("critter was dead..." + max + " cur: " + cur);
       end else begin
-         max := get_max_hp(obj);
-         cur := get_cur_hp(obj);
+         max := get_max_hits(obj);
+         cur := get_cur_hits(obj);
          ndebug("critter wasn't dead... " + max + " cur: " + cur);
       end
 
@@ -322,8 +322,8 @@ procedure critter_p_proc begin
          cur := 0;
          ndebug("critter was dead..." + max + " cur: " + cur);
       end else begin
-         max := get_max_hp(obj);
-         cur := get_cur_hp(obj);
+         max := get_max_hits(obj);
+         cur := get_cur_hits(obj);
          ndebug("critter wasn't dead... " + max + " cur: " + cur);
       end
 

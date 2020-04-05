@@ -289,7 +289,7 @@ end
 
 procedure NodeFighting begin
    //float_msg(self_obj, mstr(Random(131, 136)), FLOAT_MSG_RED);
-   float_msg(self_obj, mstr(Random(131, (135 + critter_is_male))), FLOAT_MSG_RED); //edit by killap, added critter_is_male
+   float_msg(self_obj, mstr(Random(131, (135 + self_is_male))), FLOAT_MSG_RED); //edit by killap, added self_is_male
 end
 
 

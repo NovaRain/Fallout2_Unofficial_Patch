@@ -185,7 +185,7 @@ end
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
    script_overrides;
-   if (critter_is_male) then begin
+   if (self_is_male) then begin
        display_msg(mstr(100));
    end else begin
        display_msg(mstr(101));

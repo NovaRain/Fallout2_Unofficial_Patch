@@ -348,8 +348,8 @@ procedure Node001 begin
    variable currentHP;
    variable maxHP;
 
-   currentHP := dude_cur_hp;
-   maxHP := dude_max_hp;
+   currentHP := dude_cur_hits;
+   maxHP := dude_max_hits;
 
    if( currentHP == maxHP ) then begin
       // These are being set here because we have to have a rate to heal the other

@@ -28,7 +28,7 @@
 #define sequence(who)           get_critter_stat(who,STAT_sequence)
 #define armour(who)             get_critter_stat(who,STAT_ac)
 #define max_ap(who)             get_critter_stat(who,STAT_max_move_points)
-#define max_hp(who)             get_max_hp(who)
+#define max_hp(who)             get_max_hits(who)
 #define roll_to_hit(who1,who2)  roll_vs_skill(who1,SKILL_UNARMED_COMBAT,-armour(who2))
 
 // Fixed Params for Timed_Event

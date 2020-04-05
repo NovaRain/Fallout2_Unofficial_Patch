@@ -335,7 +335,7 @@ procedure Node009a begin
       set_pc_extra_stat(STAT_dmg_resist_electrical, elc_rest); //added by killap
       //set_critter_stat(dude_obj,STAT_dmg_resist_electrical,elc_rest); - comment out by killap
 
-      critter_dmg( dude_obj, dude_cur_hp - 1, ( DMG_electrical BWOR DMG_NOANIMATE ) );
+      critter_dmg( dude_obj, dude_cur_hits - 1, ( DMG_electrical BWOR DMG_NOANIMATE ) );
 
    end
 

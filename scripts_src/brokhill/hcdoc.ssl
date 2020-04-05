@@ -479,7 +479,7 @@ end
 procedure Node003a begin
    variable health;
 
-   health := get_cur_hp( member);
+   health := get_cur_hits( member);
    if( Is_Crippled( member ) ) then begin
       Heal_Cost := 300;
       call Node016;

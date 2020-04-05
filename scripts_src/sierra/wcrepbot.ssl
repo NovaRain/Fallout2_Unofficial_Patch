@@ -155,8 +155,8 @@ procedure critter_p_proc begin
        end
    end
 */
-   cur_hp:=self_cur_hp;
-   max_hp:=self_max_hp;
+   cur_hp:=self_cur_hits;
+   max_hp:=self_max_hits;
 
    if (local_var(LVAR_Self_Repair) == 0) then begin
        if (max_hp > cur_hp) then begin
@@ -171,8 +171,8 @@ procedure timed_event_p_proc begin
    variable cur_hp;
 
    if (fixed_param == 1) then begin
-       cur_hp:=self_cur_hp;
-       max_hp:=self_max_hp;
+       cur_hp:=self_cur_hits;
+       max_hp:=self_max_hits;
 
        if (max_hp > cur_hp) then begin
            critter_heal(self_obj,1);
@@ -385,8 +385,8 @@ procedure Repair1 begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request1),map_var(MVAR_Elevation_Request1),map_var(MVAR_Pid_Request1))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request1),map_var(MVAR_Elevation_Request1),map_var(MVAR_Pid_Request1));
 
-           Bot_Max_Hp:=get_max_hp(Bot);
-           Bot_Cur_Hp:=get_cur_hp(Bot);
+           Bot_Max_Hp:=get_max_hits(Bot);
+           Bot_Cur_Hp:=get_cur_hits(Bot);
 
            if (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -451,8 +451,8 @@ procedure Repair2 begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request2),map_var(MVAR_Elevation_Request2),map_var(MVAR_Pid_Request2))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request2),map_var(MVAR_Elevation_Request2),map_var(MVAR_Pid_Request2));
 
-           Bot_Max_Hp:=get_max_hp(Bot);
-           Bot_Cur_Hp:=get_cur_hp(Bot);
+           Bot_Max_Hp:=get_max_hits(Bot);
+           Bot_Cur_Hp:=get_cur_hits(Bot);
 
            if (map_var(MVAR_Repair_Request2) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -518,8 +518,8 @@ procedure Repair3 begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request3),map_var(MVAR_Elevation_Request3),map_var(MVAR_Pid_Request3))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request3),map_var(MVAR_Elevation_Request3),map_var(MVAR_Pid_Request3));
 
-           Bot_Max_Hp:=get_max_hp(Bot);
-           Bot_Cur_Hp:=get_cur_hp(Bot);
+           Bot_Max_Hp:=get_max_hits(Bot);
+           Bot_Cur_Hp:=get_cur_hits(Bot);
 
            if (map_var(MVAR_Repair_Request3) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -585,8 +585,8 @@ procedure Repair4 begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request4),map_var(MVAR_Elevation_Request4),map_var(MVAR_Pid_Request4))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request4),map_var(MVAR_Elevation_Request4),map_var(MVAR_Pid_Request4));
 
-           Bot_Max_Hp:=get_max_hp(Bot);
-           Bot_Cur_Hp:=get_cur_hp(Bot);
+           Bot_Max_Hp:=get_max_hits(Bot);
+           Bot_Cur_Hp:=get_cur_hits(Bot);
 
            if (map_var(MVAR_Repair_Request4) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -652,8 +652,8 @@ procedure Repair5 begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5));
 
-           Bot_Max_Hp:=get_max_hp(Bot);
-           Bot_Cur_Hp:=get_cur_hp(Bot);
+           Bot_Max_Hp:=get_max_hits(Bot);
+           Bot_Cur_Hp:=get_cur_hits(Bot);
 
            if (map_var(MVAR_Repair_Request5) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);
@@ -719,8 +719,8 @@ procedure Repair6 begin
        if (tile_contains_obj_pid(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6))) then begin
            Bot:=tile_contains_pid_obj(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6));
 
-           Bot_Max_Hp:=get_max_hp(Bot);
-           Bot_Cur_Hp:=get_cur_hp(Bot);
+           Bot_Max_Hp:=get_max_hits(Bot);
+           Bot_Cur_Hp:=get_cur_hits(Bot);
 
            if (map_var(MVAR_Repair_Request6) == REPAIR_PICKUP_ANSWER) then begin
                destroy_object(Bot);

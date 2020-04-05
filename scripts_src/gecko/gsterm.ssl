@@ -514,8 +514,8 @@ procedure Node023 begin
       else if (local_var(LVAR_23_before) > 7) then begin
          Reply(376); //inflict 35 pts of electric damage on pc, end
          //added by killap
-         if ( dude_cur_hp < 35) then
-            critter_dmg( dude_obj, dude_cur_hp - 1, DMG_electrical);
+         if ( dude_cur_hits < 35) then
+            critter_dmg( dude_obj, dude_cur_hits - 1, DMG_electrical);
          else
             critter_dmg( dude_obj, 35, DMG_electrical );
          //end added

@@ -275,8 +275,8 @@ procedure use_skill_on_p_proc begin
            set_local_var(LVAR_Active,1);
        end
        else begin
-           cur_hp:=self_cur_hp;
-           max_hp:=self_max_hp;
+           cur_hp:=self_cur_hits;
+           max_hp:=self_max_hits;
            display_msg(mstr(151));
            critter_heal(self_obj,max_hp-cur_hp);
            if (local_var(LVAR_Gave_Exp) == 0) then begin
@@ -311,8 +311,8 @@ procedure use_obj_on_p_proc begin
            set_local_var(LVAR_Active,1);
        end
        else begin
-           cur_hp:=self_cur_hp;
-           max_hp:=self_max_hp;
+           cur_hp:=self_cur_hits;
+           max_hp:=self_max_hits;
            display_msg(mstr(151));
            critter_heal(self_obj,max_hp-cur_hp);
            if (local_var(LVAR_Gave_Exp) == 0) then begin
@@ -425,8 +425,8 @@ procedure RepairMe begin
    variable max_hp;
    variable cur_hp;
 
-   cur_hp:=self_cur_hp;
-   max_hp:=self_max_hp;
+   cur_hp:=self_cur_hits;
+   max_hp:=self_max_hits;
 
    call CheckRequest;
 
@@ -486,7 +486,7 @@ procedure Security begin
                attack(dude_obj);
            end
        end
-       else if ((self_cur_hp == self_max_hp) and
+       else if ((self_cur_hits == self_max_hits) and
                 ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
            if (self_elevation == dude_elevation) then begin
                if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then

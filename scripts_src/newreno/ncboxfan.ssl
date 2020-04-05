@@ -146,7 +146,7 @@ end
 procedure description_p_proc begin
    script_overrides;
    //if (dude_is_female) then begin
-   if (critter_is_female) then begin //edit by killap
+   if (self_is_female) then begin //edit by killap
       display_mstr_rand(152, 153);
    end else begin
       display_mstr_rand(150, 151);
@@ -217,7 +217,7 @@ end
 procedure Node007 begin
    //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
       // watching fight
-      if (((dude_score > boxer_score) or (dude_cur_hits > get_cur_hp(prize_fighter_obj))) and (random(1,3) != 2)) then begin
+      if (((dude_score > boxer_score) or (dude_cur_hits > get_cur_hits(prize_fighter_obj))) and (random(1,3) != 2)) then begin
          floater_rand_with_check(256, 264, prizefighter_name, 1000);
       end else begin
          floater_rand_with_check(256, 264, vs_boxer_name, 1000);

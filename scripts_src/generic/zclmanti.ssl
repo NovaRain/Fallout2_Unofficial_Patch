@@ -85,7 +85,7 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       rm_obj_from_inven(source_obj,obj_being_used_with);
       destroy_object(obj_being_used_with);
-      critter_dmg(self_obj,self_cur_hp+10,DMG_explosion);
+      critter_dmg(self_obj,self_cur_hits+10,DMG_explosion);
    end
 end
 
