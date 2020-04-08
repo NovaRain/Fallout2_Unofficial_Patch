@@ -197,7 +197,7 @@
 
 
 // Trait defines //
-#include "define_pre.h" // ReRefine needs this
+#include "define_pre.h" // ReDefine needs this
 
 // Perk Trait Types
 #define PERK_bonus_awareness      (0)
