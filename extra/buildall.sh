@@ -13,6 +13,7 @@ mkdir -p "$dst"
 # single file compile
 function process_file() {
   set -eu -o pipefail
+  sleep 0.1 # a little delay for wineserver
   f="$1"
   dst="$2"
   script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
