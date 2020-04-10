@@ -305,6 +305,7 @@ variable step_tile;
 #define dude_rads                           get_rads(dude_obj)
 #define self_rads                           get_rads(self_obj)
 
+#define get_cur_rot(cr)                     has_trait(TRAIT_OBJECT,cr,OBJECT_CUR_ROT)
 #define dude_cur_rot                        (has_trait(TRAIT_OBJECT,dude_obj,OBJECT_CUR_ROT))
 #define dude_inv_rot                        ((dude_cur_rot + 3)%6)
 #define dude_tile                           (tile_num(dude_obj))
