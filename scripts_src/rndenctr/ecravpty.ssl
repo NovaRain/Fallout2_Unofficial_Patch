@@ -411,7 +411,7 @@ procedure Node32Aa begin
    if (dude_caps >= 560) then begin
       dude_caps_adjust(-560);
       self_caps_adjust(560);
-      call create_and_use_itempid_on(dude_obj, PID_MENTATS)
+      call create_and_use_itempid_on(dude_obj, PID_MENTATS);
       call Node002A;
    end else begin
       call Node003A;
@@ -422,7 +422,7 @@ procedure Node32Ab begin
    if (dude_caps >= 400) then begin
       dude_caps_adjust(-400);
       self_caps_adjust(400);
-      call create_and_use_itempid_on(dude_obj, PID_BUFFOUT)
+      call create_and_use_itempid_on(dude_obj, PID_BUFFOUT);
       call Node002A;
    end else begin
       call Node003A;
@@ -433,7 +433,7 @@ procedure Node32Ac begin
    if (dude_caps >= 800) then begin
       dude_caps_adjust(-800);
       self_caps_adjust(800);
-      call create_and_use_itempid_on(dude_obj, PID_PSYCHO)
+      call create_and_use_itempid_on(dude_obj, PID_PSYCHO);
       call Node002A;
    end else begin
       call Node003A;
@@ -467,7 +467,7 @@ end
 procedure Node005Aa begin
    dude_caps_adjust(-1000);
    self_caps_adjust(1000);
-   call create_and_use_itempid_on(dude_obj, PID_MENTATS)
+   call create_and_use_itempid_on(dude_obj, PID_MENTATS);
    call Node005A;
 end
 
