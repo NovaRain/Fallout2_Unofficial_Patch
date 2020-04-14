@@ -35,8 +35,8 @@ script:
 
 env:
   global:
-    - sfall_version: 4.2.3
-    - mpack_version: 4.2.3
+    - sfall_version: 4.2.4
+    - mpack_version: 4.2.4
     - mod_name: upu
     - extra_dir: extra
     - bin_dir: extra/bin
