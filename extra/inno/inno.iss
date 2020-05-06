@@ -19,6 +19,7 @@ Compression=lzma
 DirExistsWarning=no
 Uninstallable=no
 InfoBeforeFile=before.rtf
+SetupIconFile=nuclear.ico
 
 [Files]
 Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
