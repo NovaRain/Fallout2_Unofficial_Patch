@@ -13,7 +13,7 @@ export file_list="file.list"
 
 # release?
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
-  export version = "$(echo $TRAVIS_TAG | tr -d 'v')" # numeric
+  export version="$(echo $TRAVIS_TAG | tr -d 'v')" # numeric
   export vversion="$TRAVIS_TAG"
   export uversion="$(echo $TRAVIS_TAG | tr 'v' 'u')" # in-game
 else
