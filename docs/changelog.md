@@ -5,6 +5,8 @@ This file lists changes for UPU only. See original UP changelog [here](up-change
 All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+
+- [Version 13](#version-13)
 - [Version 12](#version-12)
 - [Version 10](#version-10)
 - [Version 9](#version-9)
@@ -14,6 +16,22 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 13
+- General:
+  - Code overhauled using [ReDefine](https://github.com/rotators/ReDefine), more files converged with RPU.
+  - Fixed issues with fonts in main menu and some translations (English, Spanish, French, maybe others too).
+  - Added a GUI installer.
+  - More robust drug application in various scripts (Rebecca, Frankie, Myron, Hank) - before it could fail.
+  - Sfall updated to 4.2.4.
+  - Multiple 'all ready' > 'already' typos fixed.
+- Arroyo:
+  - Fixed Arroyo Garden plant respawn behaviour (respawn with geckos, not daily).
+- Klamath:
+  - Fixed Sajag's reputation check, now he reacts well if the dude has high rep in town.
+  - Aldo's dialog now correctly checks amount of money on dude.
+- Sierra:
+  - Angry Skynet will no longer join the party. And it won't forget its enemy status if party has left the area before Skynet could burst a party member.
 
 ### Version 12
  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
