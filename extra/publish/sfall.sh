@@ -15,7 +15,7 @@ sfall.dat
 wget -q "$sfall_url" -O sfall.7z
 for f in $files; do
   7zr e sfall.7z "$f"
-  mv "$f" "$release_dir/"
+  mv "$(basename $f)" "$release_dir/"
 done
 
 crudini --merge "$release_ini" < "$custom_ini"
