@@ -46,6 +46,13 @@ Translations are included in the [automatic installer](#windows). Only if you in
 1. Download `upu_v*_translations.zip` from the [latest release page](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest). Extract the archive, copy _only_ the desired language `dat` file into `mods` subdirectory.
 1. Change `language=english` in `fallout2.cfg` to your selected language. (Example: `language=spanish`).
 
+### Additional mods
+For various QoL features, check out these mods:
+- [High quality music](https://github.com/BGforgeNet/Fallout2-HQ-music)
+- [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance)
+- [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
+- [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
+
 ### Reporting issues
 If you've found an issue:
 
