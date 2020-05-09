@@ -51,6 +51,7 @@ For various QoL features, check out these mods:
 - [High quality music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance)
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
+- [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
 
 ### Reporting issues
