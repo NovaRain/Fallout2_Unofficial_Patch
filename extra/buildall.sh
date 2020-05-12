@@ -24,6 +24,7 @@ function process_file() {
   result_code="$?"
   set -e
   if [[ "$result_code" != "0" ]]; then
+    set -x
     if echo "$result_text" | grep -q "recvmsg: Connection reset by peer"; then
       sleep 1
       wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # 1 retry
@@ -32,6 +33,7 @@ function process_file() {
       echo "$result_text"
       exit 1
     fi
+    set +x
   fi
   rm -f "$f.tmp"
 }
