@@ -20,6 +20,7 @@ function process_file() {
   wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
 }
+export -f process_file
 
 # compile all
 for d in $(ls $src); do
@@ -34,10 +35,7 @@ for d in $(ls $src); do
     done
     set -x # enabling output again
     if [[ -n "$files" ]]; then
-      for f in $files; do
-        process_file "$f" "$dst"
-        sleep 1 # wine client error:0: recvmsg: Connection reset by peer
-      done
+      parallel -j2 -i bash -c "process_file {} $dst" -- $files
     fi
     cd ..
   fi
