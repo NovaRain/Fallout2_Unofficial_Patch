@@ -18,7 +18,7 @@ function process_file() {
   script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
   gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
 
-  # retry on wine connection reset
+  # retry on wine connection reset, 1 time should be enough
   set +e
   result_text="$(wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" 2>&1)" # compile
   result_code="$?"
