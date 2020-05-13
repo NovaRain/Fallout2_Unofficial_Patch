@@ -18,7 +18,16 @@ for f in $files; do
   mv "$(basename $f)" "$release_dir/"
 done
 
+# uncomment ini settings to preserve options' placement in ddraw.ini
+entries="$(cat $custom_ini | grep '=' | awk -F '=' '{print $1}')"
+for e in $entries; do
+  sed -i "s|^;$e=|$e=|" "$release_ini"
+done
+# then merge custom settings
 crudini --merge "$release_ini" < "$custom_ini"
+# set version string
 crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.31${uversion}"
-sed -i "s|^\([[:alnum:]]\+\) = |\1=|" "$release_ini" # crudini adds spaces arouns the values, need to remove them
+# crudini adds spaces arouns the values, need to remove them
+sed -i "s|^\([[:alnum:]]\+\) = |\1=|" "$release_ini"
+# for windows users
 unix2dos "$release_ini"
