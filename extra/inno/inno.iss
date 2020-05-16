@@ -1,18 +1,19 @@
-#define basename "upu"
+#include "vars.iss"
 #define install_dir "C:\Games\Fallout2"
 #define backup_dir "backup\" + basename
 #define mods_dir "{app}\mods"
+; build process shenanigans, see inno.sh
 #define uversion "u0"
 #define vversion "v0"
 
 [Setup]
-AppName=Fallout 2 Unofficial Patch
-AppVerName=Fallout 2 Unofficial Patch 1.02.31{#uversion}
-AppId=Fallout 2 Unofficial Patch
-AppPublisher=BGforge
-AppPublisherURL=https://bgforge.net
-AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
-AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Unofficial_Patch
+AppName={#app_name}
+AppVerName={#app_ver_name} + {#uversion}
+AppId={#app_id}
+AppPublisher={#app_publisher}
+AppPublisherURL={#app_publisher_url}
+AppSupportURL={#app_support_url}
+AppUpdatesURL={#app_updates_url}
 DefaultDirName={#install_dir}
 DisableProgramGroupPage=yes
 OutputBaseFilename={#basename}_{#vversion}
@@ -30,15 +31,7 @@ Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreve
 #include "files_translations.iss"
 
 [INI]
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "czech";  Components: translation\czech;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "french";  Components: translation\french;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "german";  Components: translation\german;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "hungarian";  Components: translation\hungarian;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "italian";  Components: translation\italian;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "polish";  Components: translation\polish;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "portuguese";  Components: translation\portuguese;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "russian";  Components: translation\russian;
-FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "spanish";  Components: translation\spanish;
+#include "ini_translations.iss"
 
 [Dirs]
 Name: "{app}\{#backup_dir}"
@@ -49,16 +42,7 @@ Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 
 [Components]
 Name: "core"; Description: "All the fixes"; Types: "custom"; Flags: fixed;
 Name: "translation"; Description: "Language"; Types: "custom";
-Name: "translation\english"; Description: "English"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\czech"; Description: "Czech"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\french"; Description: "French"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\german"; Description: "German"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\hungarian"; Description: "Hungarian"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\italian"; Description: "Italian"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\polish"; Description: "Polish"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\portuguese"; Description: "Portuguese"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\russian"; Description: "Russian"; Flags: exclusive disablenouninstallwarning;
-Name: "translation\spanish"; Description: "Spanish"; Flags: exclusive disablenouninstallwarning;
+#include "components_translations.iss"
 
 [Types]
 Name: "custom"; Description: "Custom Selection"; Flags: iscustom

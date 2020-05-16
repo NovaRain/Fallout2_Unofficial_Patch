@@ -1,0 +1,8 @@
+#define basename "upu"
+#define app_name "Fallout 2 Unofficial Patch"
+#define app_ver_name "Fallout 2 Unofficial Patch 1.02.31{#uversion}"
+#define app_id "Fallout 2 Unofficial Patch"
+#define app_updates_url "https://github.com/BGforgeNet/Fallout2_Unofficial_Patch"
+#define app_publisher "BGforge"
+#define app_publisher_url "https://bgforge.net"
+#define app_support_url "https://forums.bgforge.net/viewforum.php?f=34"
