@@ -1,6 +1,7 @@
 *.int
 *.tmp
 *.err
+*.exe
 *.log
 extra/bin/*
 !extra/bin/dat2.exe
