@@ -40,8 +40,8 @@ Name: "{app}\{#backup_dir}"
 Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 2>&1"; WorkingDir: "{app}"; Description: "install script";
 
 [Components]
-Name: "core"; Description: "All the fixes"; Types: "custom"; Flags: fixed;
-Name: "qol"; Description: "QoL features"; Types: "custom";
+Name: "core"; Description: "Fixes"; Types: "custom"; Flags: fixed;
+Name: "qol"; Description: "Enable QoL features"; Types: "custom";
 Name: "translation"; Description: "Language"; Types: "custom";
 #include "components_translations.iss"
 
