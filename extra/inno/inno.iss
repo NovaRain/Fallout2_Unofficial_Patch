@@ -1,4 +1,5 @@
 #define basename "upu"
+#define install_dir "C:\Games\Fallout2"
 #define backup_dir "backup\" + basename
 #define mods_dir "{app}\mods"
 ; build process shenanigans, see inno.sh
