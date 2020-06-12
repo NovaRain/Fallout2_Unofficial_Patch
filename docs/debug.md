@@ -1,6 +1,6 @@
 In `fallout2.cfg`, find and enable the following settings:
 
-```
+```ini
 [debug]
 mode=environment
 output_map_data_info=1
@@ -15,7 +15,7 @@ debug_sfxc=1
 
 In `ddraw.ini`:
 
-```
+```ini
 [Debugging]
 DebugMode=2
 Init=1
