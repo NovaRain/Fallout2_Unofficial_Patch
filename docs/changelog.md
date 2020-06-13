@@ -19,7 +19,14 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 1](#version-1)
 
 ### Version 15
-- Fixed `AllowSoundForFloats` placement in `ddraw.ini`.
+- General:
+  - Fixed `AllowSoundForFloats` placement in `ddraw.ini`.
+  - The installer now tries to preserve setting placement in the ini when enabling them.
+  - Fixed installation routine deleting data dir and not restoring some files because of that.
+  - IniConfig dir in `ddraw.ini` now defaults to `mods`, for ease of use.
+  - Added a component to enabled certain QoL sfall features.
+- Arroyo:
+  - Reverted plant respawn behaviour fix introduced in v13, it was causing more issues than solving.
 
 ### Version 14
 Fixed auto installer not allowing to select a directory in some cases.
