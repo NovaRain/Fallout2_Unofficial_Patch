@@ -138,10 +138,10 @@
 {596}{}{El coche ya está lleno de energía.}
 {597}{}{La puerta parece bloqueada.}
 {620}{}{Ganas %d puntos de experiencia por matar: %s.}
-{621}{}{%s ganas %d puntos de experiencia.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Por derrotar a tus enemigos,}
 {623}{}{Por asesinar a tus enemigos,}
-{624}{}{Por salir vencedor en combate,}
+{624}{}{For being victorious in combat,}
 {625}{}{Por aplastar a tus enemigos,}
 {626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
 {650}{}{[HECHO]}
