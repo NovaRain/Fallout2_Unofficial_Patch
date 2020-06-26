@@ -59,3 +59,9 @@ deploy:
   on:
     tags: true
     branch: master
+
+addons:
+  artifacts:
+    paths:
+    - $(ls upu*.exe)
+    - $(ls upu*.zip)
