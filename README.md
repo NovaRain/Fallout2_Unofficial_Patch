@@ -28,6 +28,7 @@ Start with a clean humongous installation of the game.
 - You can follow the procedure for Windows, launching the exe with wine.
 - Alternatively, you can perform the installation manually:
   1. Download `upu_v*.zip` from the [latest release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) page.
+  1. If the game resides on a case-sensitive filesystem, lowercase game directory recursively.
   1. Extract the archive into the main game directory, overwriting files when asked.
   1. Launch `upu-install.sh` (Linux) or `upu-install.command` (MacOS).
 
@@ -42,7 +43,7 @@ In both cases, you won't see some of the fixes on already visited maps. Other th
 ### Translations
 Most translations are **incomplete**, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). Details are [here](docs/translations.md).
 
-Translations are included in the [automatic installer](#windows). Only if you install _manually_ and want to play a localized version:
+Translations are **already included** in the [automatic installer](#windows). Only if you install [manually](#linux--macos) _and_ want to play a localized version:
 1. Download `upu_v*_translations.zip` from the [latest release page](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest). Extract the archive, copy _only_ the desired language `dat` file into `mods` subdirectory.
 1. Change `language=english` in `fallout2.cfg` to your selected language. (Example: `language=spanish`).
 
