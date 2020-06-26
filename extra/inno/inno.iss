@@ -42,7 +42,7 @@ Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 
 [Components]
 Name: "core"; Description: "Fixes"; Types: "custom"; Flags: fixed;
 Name: "qol"; Description: "Enable QoL features"; Types: "custom";
-Name: "translation"; Description: "Language"; Types: "custom";
+Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
 #include "components_translations.iss"
 
 [Types]
