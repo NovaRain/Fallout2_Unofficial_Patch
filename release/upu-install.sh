@@ -4,6 +4,14 @@ set -eu
 
 cd -- "$(dirname "$BASH_SOURCE")"
 
+# is FS case sensitive?
+touch fs_testx fs_testX
+if [[ "$(ls upu_test* | wc -l)" == "2" ]]; then
+  rm -f fs_testx fs_testX
+  echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
+  exit 1
+fi
+
 bdir="backup/upu"
 mkdir -p "$bdir"/data/sound
 
