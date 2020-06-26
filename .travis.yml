@@ -20,6 +20,10 @@ addons:
       - p7zip
       - wine-stable
       - wine32
+  artifacts:
+    paths:
+    - $(ls upu*.exe | tr "\n" ":")
+    - $(ls upu*.zip | tr "\n" ":")
 
 before_install:
   - ./extra/prepare.sh
@@ -55,6 +59,7 @@ deploy:
     - upu*.zip
     - upu*.dat
     - upu*.exe
+  skip_cleanup: true
   on:
     tags: true
     branch: master
