@@ -8,11 +8,11 @@ if exist patch000.dat (
 
 :: I don't know how to iterate over files in batch properly, so just moving back and forth
 move /y data %bdir%\
-mkdir data
+mkdir data\sound
 move /y %bdir%\data\savegame data\
 move /y %bdir%\data\*.txt data\
 move /y %bdir%\data\*.gcd data\
-move /y %bdir%\data\sound data\
+move /y %bdir%\data\sound\music data\sound\
 
 :: sound path fix
 initool.exe s fallout2.cfg sound music_path1 data\sound\music\ > tmp.cfg
