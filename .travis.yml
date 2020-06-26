@@ -22,8 +22,8 @@ addons:
       - wine32
   artifacts:
     paths:
-    - $(ls upu*.exe)
-    - $(ls upu*.zip)
+    - $(ls upu*.exe | tr "\n" ":")
+    - $(ls upu*.zip | tr "\n" ":")
 
 before_install:
   - ./extra/prepare.sh
