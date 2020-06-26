@@ -1,9 +1,11 @@
 #!/bin/bash
 
+set -eu
+
 cd -- "$(dirname "$BASH_SOURCE")"
 
 bdir="backup/upu"
-mkdir -p $bdir/data/sound
+mkdir -p "$bdir"/data/sound
 
 if [[ -f patch000.dat ]]; then
   mv patch000.dat "$bdir"/
