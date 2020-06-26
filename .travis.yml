@@ -59,7 +59,6 @@ deploy:
     - upu*.zip
     - upu*.dat
     - upu*.exe
-  cleanup: false
   on:
     tags: true
     branch: master
