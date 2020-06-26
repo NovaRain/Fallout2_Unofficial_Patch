@@ -20,11 +20,13 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 ### Version 15
 - General:
-  - Fixed `AllowSoundForFloats` placement in `ddraw.ini`.
-  - The installer now tries to preserve setting placement in the ini when enabling them.
-  - Fixed installation routine deleting data dir and not restoring some files because of that.
+  - Fixed `AllowSoundForFloats` placement in `ddraw.ini` and moved it into QoL component.
+  - More QoL settings in the corresponding component: `DisplayBonusDamage`, `SpeedInterfaceCounterAnims`, `StackEmptyWeapons`, fixed values for `NumSoundBuffers` and `SpeedInventoryPCRotation`.
+  - The installer now tries to preserve setting placement in the `ddraw.ini` when enabling them.
+  - Fixed installation routine deleting `data` dir and not restoring some files because of that.
   - IniConfig dir in `ddraw.ini` now defaults to `mods`, for ease of use.
   - Added a component to enabled certain QoL sfall features.
+  - Updated sfall to 4.2.5.1.
 - Arroyo:
   - Reverted plant respawn behaviour fix introduced in v13, it was causing more issues than solving.
 
