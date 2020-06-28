@@ -6,7 +6,7 @@ cd -- "$(dirname "$BASH_SOURCE")"
 
 # is FS case sensitive?
 touch fs_testx fs_testX
-if [[ "$(ls upu_test* | wc -l)" == "2" ]]; then
+if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
   rm -f fs_testx fs_testX
   echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
   exit 1
@@ -19,8 +19,8 @@ if [[ -f patch000.dat ]]; then
   mv patch000.dat "$bdir"/
 fi
 
-# keep savegames, sound, character files
-for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
+# keep savegames, character files
+for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$"); do
   mv data/"$i" "$bdir"/data/
 done
 # only need music from sound
