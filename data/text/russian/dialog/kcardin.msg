@@ -107,7 +107,7 @@
 {380}{}{Ну, почему-то это меня совсем не удивляет. О Боже, я всегда так орала на бедного мальчика, даже когда он был совсем ни в чем не виноват. (Всхлипывает) Чертовы Дантоны, на этот раз я их прищучу. Они зашли слишком далеко.}
 {381}{}{Мне очень жаль. Как вы думаете, куда Торр мог пойти?}
 {390}{}{Ладно.}
-{400}{}{Что? Мой Смайли...}
+{400}{}{What? My Smiley is...}
 {401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}

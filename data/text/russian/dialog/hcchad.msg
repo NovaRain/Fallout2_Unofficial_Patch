@@ -33,7 +33,7 @@
 {144}{}{Типа каких?}
 {145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
 {146}{}{Да так, ничего. Пока.}
-{147}{}{Мне не нравится люди обвиняющие меня чём-то, в чём они сами не разбираются. Я предлагаю тебе уйти.}
+{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
 {150}{}{I'm going to find the truth. Bye.}
 {156}{}{Поговори с Биллом, он тебе поможет.}
 {157}{}{У меня есть еще вопросы.}
