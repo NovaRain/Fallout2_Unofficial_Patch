@@ -28,7 +28,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Added a component to enabled certain QoL sfall features.
   - Updated sfall to 4.2.5.1.
 - Arroyo:
-  - Reverted plant respawn behaviour fix introduced in v13, it was causing more issues than solving.
+  - Reverted plant respawn behaviour fix introduced in v13, it was causing more issues than solving #52.
+- San Francisco:
+  - Fixed intermittent crash during Lo Pan apprentices fights #44.
 
 ### Version 14
 Fixed auto installer not allowing to select a directory in some cases.
