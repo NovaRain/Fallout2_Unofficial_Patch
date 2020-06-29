@@ -17,6 +17,7 @@ In `ddraw.ini`:
 
 ```ini
 [Debugging]
+Enable=1
 DebugMode=2
 Init=1
 Hook=1
