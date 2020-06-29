@@ -25,7 +25,7 @@ for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
 done
 # only need music from sound
 for i in $(ls data/sound | grep -vi "^music$"); do
-  mv data/"$i" "$bdir"/data/sound/
+  mv data/sound/"$i" "$bdir"/data/sound/
 done
 
 # sound path fix
