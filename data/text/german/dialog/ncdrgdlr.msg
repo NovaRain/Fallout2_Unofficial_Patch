@@ -1,6 +1,6 @@
 {150}{}{Du siehst einen Mann in zerknitterten Kleidern. Er reibt sich die Nase und sieht sich
  verstohlen um.}
-{151}{}{You see a drug dealer.}
+{151}{}{Du siehst einen Drogendealer.}
 {152}{}{Du siehst einen Jet-Händler. Sieht so aus, als sehe er sich nach Kundschaft um.}
 {200}{}{Hey, Held! Willste mit 'n bißchen Jet feiern? Sprich mit mir!}
 {201}{}{War 'ne reife Leistung, die Enklave in den Hintern zu treten, Held! Willste jetzt 'n

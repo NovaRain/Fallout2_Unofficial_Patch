@@ -445,7 +445,7 @@
 {22800}{}{Technische Anleitung}
 {22801}{}{Eine Reparaturanleitung für die Powerrüstung T-51b.}
 {22900}{}{Kleines Maschinenteil}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Eine beschädigte Powerrüstung. Sie wirkt einwandfrei und könnte eine Art Trophäe sein.}
 {23000}{}{Vaultaufzeichnungen}
 {23001}{}{Zusammenstellung von Ereignissen und wichtigen Aufzeichnungen eines Vault-Computersystems. Möglicherweise beschädigt.}
 {23100}{}{Sicherheitscode der Militärbasis}

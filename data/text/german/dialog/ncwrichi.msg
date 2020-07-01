@@ -1,10 +1,10 @@
 {100}{}{Du siehst eins von Wrights Kindern. }
 {150}{}{Du siehst einen kleinen, schwarzhaarigen Jungen.}
-{151}{}{You see a black-haired little girl. Her hair is cropped short, so much so that you almost mistook her for a boy.}
+{151}{}{Du siehst ein kleines schwarzhaariges Mädchen. Ihr Haar ist so kurz geschnitten, dass du es fast für einen Jungen hieltest.}
 {155}{}{Er streckt dir die Zunge raus.}
 {156}{}{Er ist was dich anbelangt sehr mürrisch.}
 {157}{}{Sie steckt dir die Zunge raus.}
-{158}{}{Her black hair is cropped short so that she can conveniently use the male child character model.}
+{158}{}{Ihr schwarzes Haar ist kurz geschnitten, so dass sie bequem das männliche Kindercharaktermodell verwenden kann.}
 {159}{}{Sie schaut dich sehr mürrisch an.}
 {175}{}{Fallout 2 wurde dir durch den Buchstaben Z gebracht.}
 {176}{}{Hey! }

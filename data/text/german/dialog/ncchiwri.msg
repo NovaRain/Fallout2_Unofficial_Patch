@@ -23,7 +23,7 @@
 {249}{}{Muttah. Mann is' Muttah!}
 {250}{}{Huubajuubiie}
 {251}{}{[Verschwinde]}
-{252}{}{Wer bist du?}
+{252}{}{Wer sind Sie?}
 {253}{}{Eigentlich schon. Ich suche Arbeit. Stellt die Wright-Familie jemanden ein?}
 {254}{}{Sag mal, ich bin deiner Ma begegnet.}
 {255}{}{Kannst du mir was über Richard erzählen?}
@@ -107,14 +107,14 @@
 {420}{}{Weil er ein ordentlicher Junge war. Wenigstens dazu hat ihn Mutter erzogen. Und falls du anderer Meinung bist, können
  wir das gern an Ort und Stelle klären.}
 {421}{}{So hab ich das nicht gemeint. Tut mir leid, daß ich danach gefragt habe.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Du solltest die Möglichkeit nicht ausschließen, daß er es doch noch genommen hat. Jet macht extrem abhängig.}
 {423}{}{Hör mal, KLEINER, wenn du weißt, was gut für dich ist, hörst du besser auf, jedes Mal gleich die Flinte ins Korn zu
  werfen, wenn dir eine unangenehme Wahrheit über den Weg läuft.}
 {424}{}{Wer, glaubst du, könnte das getan haben?}
 {425}{}{Ich will keinen Streß. Ich geh lieber. }
 {435}{}{Ja...na ja, paß besser auf. Das ist wie 'ne Kampfansage an die Wrights, also reiß lieber deine Klappe nicht so weit
  auf, klar?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{Du solltest die Möglichkeit nicht ausschließen, daß er es doch noch genommen hat. Jet macht extrem abhängig.}
 {437}{}{Hör mal, *Kleiner*, fang jetzt nicht so mit mir an. Wenn du weißt, was gut für dich ist, hörst du besser auf, jedes
  Mal gleich die Flinte ins Korn zu werfen, wenn dich eine unangenehme Wahrheit in den Hintern beißt.}
 {438}{}{Tut mir leid, ich wollte dir nicht auf die Füße treten. Sag mal, ich hab da noch ein paar Fragen...}

@@ -11,7 +11,7 @@
  that you can be arrested. You're going down.}
 {126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
  that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
-{127}{}{Wer bist du?}
+{127}{}{Wer sind Sie?}
 {128}{}{Erzähl mir was über diesen Ort.}
 {129}{}{Nichts. Tschüß.}
 {130}{}{Was das Ödland so alles hierherweht! Tut mir leid Kumpel, ich kann dir auch nicht helfen.}
@@ -34,7 +34,7 @@
 {144}{}{Wie zum Beispiel?}
 {145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
 {146}{}{Nicht wirklich, Tschüß.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
+{147}{}{Hör mal, ich mag es nicht, wenn man mich wegen etwas beschuldigt, von dem ich nichts weiß. Du gehst besser.}
 {150}{}{I'm going to find the truth. Bye.}
 {156}{}{Red mal mit Bill. Der wird dir helfen.}
 {157}{}{Ich habe noch weitere Fragen.}

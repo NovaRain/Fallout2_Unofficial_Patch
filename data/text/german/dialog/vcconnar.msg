@@ -32,8 +32,8 @@
  einjagst, rennen die wie die Karnickel. Mit ein paar Waffen könnten wir sie uns bestimmt
  vom Leib halten.}
 {127}{}{What sort of guns?}
-{128}{}{Well, I'm good with a shotgun, and we have some people in here that can handle a rifle. I think
- three of those would do.}
+{128}{}{Nun, ich kann gut mit einer Schrotflinte umgehen, und wir haben hier drinnen einige Leute,
+die mit einem Gewehr umgehen können. Ich denke, drei davon müssten reichen.}
 {129}{}{Ich werd sehen, was ich tun kann.}
 {130}{}{Du bist hier unerwünscht. Los verschwinde.}
 {131}{}{Ich hab's mir anders überlegt. Wie kann ich euch helfen?}

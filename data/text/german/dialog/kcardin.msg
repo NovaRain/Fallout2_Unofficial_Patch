@@ -108,7 +108,7 @@
 {380}{}{Ich muß sagen, irgendwie überrascht mich das nicht. Mein Gott, ich hab meinen armen Jungen angeschrien, obwohl es nicht mal seine Schuld war. (Schluchz) Ich werde diese Duntons kriegen. Diesmal sind sie zu weit gegangen.}
 {381}{}{Das tut mir leid. Wo, glaubst du, ist Torr hingegangen?}
 {390}{}{OK.}
-{400}{}{What? My Smiley is...}
+{400}{}{Was? Mein Smiley ist...}
 {401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}

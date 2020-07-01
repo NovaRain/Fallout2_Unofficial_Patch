@@ -136,7 +136,7 @@
 {183}{}{Ja, ich suche nach dem GECK. Mir wurde gesagt, ich könnte es hier finden. Weißt du, wo es
  ist?}
 {184}{}{Nein danke. Ich habe alles, was ich brauche.}
-{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Ja, da war ein GEEK im Lagerraum des Tresors. Er gehört dir mit großem Dank.}
 {186}{}{Ja, da war ein GECK im Vaultlagerraum. Aber es ist verschwunden. Tut mir leid, daß ich
  es dir nicht als Belohnung für deine großzügige Hilfe geben kann.}
 {187}{}{Danke auch!}

@@ -7,7 +7,7 @@
 {104}{mcs1b}{Was willst du, Mensch?}
 {105}{mcs1c}{Willst du sonst noch was?}
 {106}{}{Aggie.}
-{107}{}{Wer bist du?}
+{107}{}{Wer sind Sie?}
 {108}{}{Was ist hier eigentlich los?}
 {109}{}{Warum greift ihr Mutanten mich nicht an?}
 {110}{}{Was gibt's Neues?}
@@ -111,7 +111,7 @@
  dich vielleicht.}
 {191}{}{Ein Wissenschaftler aus der NCR will ein Experiment mit einer Substanz durchführen, die
  alle Mutanten umbringt. Paß auf, was du ißt oder trinkst.}
-{192}{}{Chad took $6000 from the rep in Gecko. The rep was complaining about the price... said it'd been going up.}
+{192}{}{Chad nahm dem Vertreter in Gecko 6000 Dollar ab. Der Vertreter beschwerte sich über den Preis... sagte, er sei gestiegen.}
 {193}{}{Chad hat ungefähr $1000 von der letzten Uranlieferung für sich behalten. Er will sich demnächst absetzen. 
  Ich hab hier eine Aktentasche mit Aufzeichnungen darüber.}
 {194}{}{Nichts, vergiß es.}

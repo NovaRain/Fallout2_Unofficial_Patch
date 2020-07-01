@@ -149,7 +149,7 @@
 {7500}{}{Felsen}
 {7501}{}{Du läßt die Felsen nicht aus dem Auge, damit sie dich nicht angreifen.}
 {7600}{}{Car Wall Floor}
-{7601}{}{REMOVED}
+{7601}{}{ENTFERNT}
 {7700}{}{Tor}
 {7701}{}{Ein Holztor.}
 {7800}{}{Felsen}
@@ -1454,9 +1454,9 @@
 {76400}{}{Monitore}
 {76401}{}{Da so viel Glibber auf den Bildschirm gespritzt ist, kannst du nichts auf dem Monitor lesen.}
 {76500}{}{Boden}
-{76501}{}{You would swear that there is something moving on the floor.}
+{76501}{}{Du könntest schwören, dass sich etwas auf dem Boden bewegt.}
 {76600}{}{Podest}
-{76601}{}{The pedestal looks as if it were slowly breathing in and out.}
+{76601}{}{Das Podest sieht aus, als würde es langsam ein- und ausatmen.}
 {76700}{}{Boden}
 {76800}{}{Bombe}
 {76801}{}{Dies ist eine Atombombe. Sie sieht hier ziemlich gefährlich aus, wie sie so daliegt.}
@@ -1580,7 +1580,7 @@
 {82800}{}{Leicht}
 {82801}{}{Eine Sicherheitsleuchte.}
 {82900}{}{Pfeiler}
-{82901}{}{This pillar is the show piece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
+{82901}{}{Dieser Pfeiler ist das Prunkstück des Shady Sands Platzes. Er erzählt Geschichten, um die Menschen an Hoffnung und Frieden zu erinnern.}
 {83000}{}{Ladestation für Roboter}
 {83001}{}{Dies ist eine Ladegerät für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
 {83100}{}{Ladestation für Roboter}

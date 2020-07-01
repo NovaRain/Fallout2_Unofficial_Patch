@@ -22,7 +22,7 @@
 {249}{}{Muttah. Mann is' Muttah!}
 {250}{}{Huubajuubiie}
 {251}{}{[Verschwinde]}
-{252}{}{Wer bist du?}
+{252}{}{Wer sind Sie?}
 {253}{}{Ich suche Arbeit. Stellt die Familie Wright Leute ein?}
 {254}{}{Sag mal, ich bin deiner Ma begegnet.}
 {255}{}{Kannst du mir was über Richard erzählen?}
@@ -36,7 +36,7 @@
 {280}{}{Eigentlich nicht. Entschuldige die Störung.}
 {290}{}{Du hast noch nicht von der Familie *Wright* gehört? Du mußt dich zu lange in der Wüste aufgehalten haben. Die Familie Wright ist die größte Mafia-Familie in Reno. Wir werden diese Stadt beherrschen.}
 {291}{}{Wirklich? Klingt so, als ob die Wright-Familie alle Karten in der Hand hält. Stellt ihr jemanden ein?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
+{292}{}{Eigentlich hatte ich den Eindruck, daß ihr eine der schwächsten Familien seid... ich meine, ihr handelt nur mit Alkohol, ihr habt kein Kasino und kein Bein im Drogenhandel, und ihr seid viel weniger Leute als in anderen Familien.}
 {293}{}{Wo wir gerade von Familie reden, ich bin deiner Ma begegnet.}
 {295}{}{Wirklich? Wie interessant... tja, hör mal, ich muß gehen.}
 {296}{}{Die Familie Wright ist die größte der kriminellen Familien in Reno. Wir werden die ganze Stadt beherrschen.}
@@ -87,7 +87,7 @@
 {414}{}{Schlimm. Hör mal, ich muß gehen.}
 {420}{}{Weil er eigentlich clean war... SO viel hat Ma ihm schon beigebracht. Und wenn du jetzt etwas anderes behaupten möchtest, sollten wir beide das vielleicht gleich jetzt klären, hm?!}
 {421}{}{So hab ich das nicht gemeint. Tut mir leid, daß ich danach gefragt habe.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Du solltest die Möglichkeit nicht ausschließen, daß er es doch noch genommen hat. Jet macht extrem abhängig.}
 {423}{}{Hör mal, *Kleiner*, wenn du weißt, was gut für dich ist, hörst du besser auf, jedes Mal gleich die Flinte ins Korn zu werfen, wenn dir eine unangenehme Wahrheit über den Weg läuft.}
 {425}{}{Ich will keinen Streß. Ich geh lieber. }
 {435}{}{Ja... na ja, paß besser auf. Das ist wie 'ne Kampfansage an die Wrights, also reiß lieber deine Klappe nicht so weit auf, klar?}
@@ -110,7 +110,7 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiß. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben, als Rich allein draußen war. Er hängt im Desperado rum.}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }
 {1200}{}{! Was 'ne Art, der Enklave eins überzuziehen!}

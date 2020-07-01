@@ -30,7 +30,7 @@
 {280}{}{Schieß los. Was willst du wissen?}
 {281}{}{Fuuuuuuh fuh fuh fuuuuh}
 {282}{}{[Verschwinde]}
-{283}{}{Wer bist du?}
+{283}{}{Wer sind Sie?}
 {284}{}{Was ist das hier für ein Kasino?}
 {285}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {286}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
@@ -61,18 +61,18 @@
 {329}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {335}{}{This is [CN]. Need anything, just ask.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
-{337}{}{Wer bist du?}
+{337}{}{Wer sind Sie?}
 {338}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {339}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {340}{}{[Der Blick des Aufsehers bleibt auf die Spieltische gerichtet.] Was kann ich für dich tun, Kumpel?}
 {341}{}{[Der Blick des Aufsehers bleibt auf die Spieltische gerichtet.] Was kann ich für dich tun, Baby?}
 {342}{}{Fuuuuuuh fuh fuh fuuuuh}
 {343}{}{[Verschwinde]}
-{344}{}{Wer bist du?}
+{344}{}{Wer sind Sie?}
 {345}{}{Das geilste Kasino in der ganzen Stadt...bin da aber nicht ganz objektiv, das geb ich zu. [Lacht.] Sonst noch
  Fragen?}
 {346}{}{Das geilst Kasino in der ganzen Stadt...die besten Tische...aber warum probierst du's nicht einfach selber aus?}
-{347}{}{Wer bist du?}
+{347}{}{Wer sind Sie?}
 {348}{}{Wer ist der Eigentümer?}
 {349}{}{Gut, besten Dank. Entschuldige die Störung. [Ab.].}
 {350}{}{Danke. Braucht ihr für heute Abend eine Tänzerin? Ich wär grade mal frei.}
@@ -81,14 +81,14 @@
 {353}{}{Wollte nur mal nach dem Rechten sehen. Laß dich nicht stören.}
 {355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
-{357}{}{Wer bist du?}
+{357}{}{Wer sind Sie?}
 {358}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {359}{}{Ah ja. Besten Dank für die Auskunft.}
 {360}{}{Hey, schau mal, wer da ist! Hey, }
 {361}{}{. Welcome to [CN]. Love your films.}
 {362}{}{Fuuuuuuh fuh fuh fuuuuh}
 {363}{}{[Verschwinde]}
-{364}{}{Wer bist du?}
+{364}{}{Wer sind Sie?}
 {365}{}{Der da? Der alte McGee? Total durchgeknallt, der Typ...der steht schon seit Jahren an diesem Automat und wartet auf
  den großen Jackpot. Dürfte inzwischen so ziemlich sein ganzes Vermögen an das Ding verfüttert haben. Hat noch nie auch nur
  einen müden Dollar davon wiedergesehen.}

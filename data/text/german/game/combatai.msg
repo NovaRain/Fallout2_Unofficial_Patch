@@ -3387,10 +3387,10 @@
 {44548}{}{Angriff ausführen.}
 {44549}{}{Bedrohung wird eliminiert.}
 {44560}{}{Engaging evasive maneuvers.}
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
+{44561}{}{Defensivprotokoll Beta initialisiert.}
+{44562}{}{Zielgenauigkeit des Feindes gering. Neubewertung des Bedrohungsgrades.}
 {44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
+{44564}{}{Analyse: Effektivität des Feindes minimal.}
 {44565}{}{Analysis: evasive maneuvers successful.}
 {44566}{}{Unit is undamaged.}
 {44800}{}{Hab 'nen ziemlich dicken Schädel, aber das hat trotzdem weh getan.}
