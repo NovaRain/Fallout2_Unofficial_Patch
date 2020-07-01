@@ -20,7 +20,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 1](#version-1)
 
 ### Version 16
-Fixed Linux install script not allowing to proceed even after the directory was lowercased.
+Fixed Linux install script not allowing to proceed even after the directory was lowercased (introduced in v15).
 
 ### Version 15
 - General:
