@@ -39,9 +39,8 @@
 {290}{}{Du hast noch nie was von der Familie Wright gehört? Du hast dich wohl zu lang draußen in der Wüste rumgetrieben, wie?
  Die Familie Wright ist die größte Mafia-Familie in Reno. Wir werden diese Stadt beherrschen}
 {291}{}{Wirklich? Klingt so, als ob die Wright-Familie alle Karten in der Hand hält. Stellt ihr jemanden ein?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
- other families.}
+{292}{}{Eigentlich hatte ich den Eindruck, daß ihr eine der schwächsten Familien seid...ich meine, ihr handelt nur mit
+ Alkohol, ihr habt kein Kasino und kein Bein im Drogenhandel und ihr seid viel weniger Leute als in anderen Familien.}
 {293}{}{Wo wir gerade von Familie reden, ich bin deiner Ma begegnet.}
 {294}{}{Kannst du mir sagen, was deinem Bruder Richard zugestoßen ist?}
 {295}{}{Wirklich? Wie interessant... tja, hör mal, ich muß gehen.}
@@ -59,8 +58,7 @@
 {317}{}{Tritt ihn mit dem Stiefel, auf den er dir gespuckt hat.}
 {318}{}{Verzieh dich}
 {319}{}{Geh, und laß die Sache auf sich beruhen. Für diesmal.}
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Na ja… Ich… ich meine, die Wright-Familie... meine Familie... könnte da was haben. Ich verspreche dir nichts, aber geh zu dem Herrenhaus im Süden von hier, such da meinen Bruder Keith, und sag ihm, daß ich dich schicke. Mein Name ist Chris. Chris Wright.}
 {326}{}{Äh, Familie Wright? Wer is' das denn?}
 {327}{}{Wright, hm? Ich bin deiner Ma begegnet.}
 {328}{}{Kannst du mir sagen, was deinem Bruder Richard zugestoßen ist?}
@@ -87,19 +85,19 @@
 {380}{}{Sie läuft rum und predigt so 'n Quatsch über Sünden und so 'n Zeug, aber sie weiß nicht mal richtig, was Papa macht.
  Entweder das, oder sie ignoriert es.}
 {381}{}{Was macht denn dein Vater?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
 {383}{}{Interessant. Na, ich muß dann mal los.}
 {390}{}{Er brennt Alkohol, handelt mit Waffen, macht Leute fertig, die ihm was wollen...typischer Familienkram halt. Ma würde
  es ganz schön stinken, wenn sie mal wahrnähme, was hier so abgeht. Und ganz besonders, wenn sie diese Brennerei hier fände.}
 {391}{}{Wie sehr würde es ihr stinken?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
 {393}{}{Interessant. Na, ich muß dann mal los.}
 {400}{}{Wahrscheinlich genug, um den ganzen Laden auseinanderzunehmen...mindestens. Dann würde sie und allen 'ne Rede halten
  und eine tagelange Predigt. Hä.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {402}{}{Hmmmmm. Danke. }
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Richard? Tja, weißt du, man hat ihn gefunden wie einen dieser Jet-Toten, in der Gosse. Soweit wir es uns erklären
+ können, hat ihn jemand so lange mit Drogen vollgepumpt, bis er tot war.}
 {411}{}{"Jemand" hat ihm zuviel gegeben? Woher willst du wissen, daß er nicht SELBST zuviel genommen hat?}
 {412}{}{Wer, glaubst du, könnte das getan haben?}
 {413}{}{Hm, sehr bedauerlich. Ich hätte da noch ein paar weitere Fragen...}
@@ -137,8 +135,8 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiß. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules verkauft auch Jet, aber fast nur an Touristen. Und dann wär da noch Little Jesus Mordino: Von dem könnte
+ Richard das Zeug gekriegt haben, als er allein unterwegs war. Treibt sich im Desperado rum.}
 {496}{}{Verstehe. Sag mal, ich hab da noch ein paar Fragen...}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }

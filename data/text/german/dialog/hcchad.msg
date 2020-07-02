@@ -7,10 +7,11 @@
 {122}{}{Dierk diegler!}
 {123}{}{Du wer?}
 {124}{}{Marcus hat ein paar Fragen über dich gestellt.}
-{125}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. You're going down.}
-{126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills
+ bestimmt war, gestohlen hast. Du bist verloren.}
+{126}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills
+ bestimmt war, gestohlen hast. Gib mir $1000, dann sorg ich dafür, daß du
+ abhauen kannst.}
 {127}{}{Wer sind Sie?}
 {128}{}{Erzähl mir was über diesen Ort.}
 {129}{}{Nichts. Tschüß.}
@@ -18,24 +19,25 @@
 {131}{}{Schüssi!}
 {132}{}{Ich heiße Chad. }
 {133}{}{Ich hab leider sehr viel zu tun. Such dir jemand anderen, und geh dem auf die Nerven.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade
- routes. These days I'm focusing primarily on Gecko. }
+{134}{}{Ich bin der Karawanenmeister der Stadt. Ich kümmere mich um die Geschäfte am anderen Ende
+ der Handelswege, in letzter Zeit hauptsächlich um Gecko. }
 {135}{}{OK!}
 {136}{}{Ich würde gern für dich arbeiten.}
 {137}{}{Hört sich interessant an.}
 {138}{}{Das hört sich aber langweilig an.}
 {139}{}{Ich habe noch weitere Fragen.}
 {140}{}{Danke. Tschüß.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Dir was über Broken Hills erzählen? Tja... ich bin vor ein paar Jahren hierhergezogen.
+ Hab eine Stelle bei Bill bekommen, das ist unser Ausstatter hier. Hab mich dann bis hierhin
+ hochgearbeitet. Ich unterstehe Marcus und Bill, aber ich bin für das Wohlergehen der Stadt
+ verantwortlich.}
 {142}{}{Ich habe noch weitere Fragen.}
 {143}{}{Tschüß.}
 {144}{}{Wie zum Beispiel?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{Er verdächtigt dich, dass du Geld abzweigst, das für Broken Hills bestimmt ist.}
 {146}{}{Nicht wirklich, Tschüß.}
 {147}{}{Hör mal, ich mag es nicht, wenn man mich wegen etwas beschuldigt, von dem ich nichts weiß. Du gehst besser.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{Ich krieg die Wahrheit schon noch raus, Tschüß.}
 {156}{}{Red mal mit Bill. Der wird dir helfen.}
 {157}{}{Ich habe noch weitere Fragen.}
 {158}{}{Danke. Tschüß.}

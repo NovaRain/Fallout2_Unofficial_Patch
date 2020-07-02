@@ -11,7 +11,7 @@
 {110}{}{Nichts.}
 {111}{}{Ich bin der Kapitän. Ich kommandiere dieses Schiff. Falls du noch mehr Fragen hast, geh zu einem der Shi oder zu Dachs oder so. Ich habe keine Zeit für dich. }
 {112}{}{[Erledigt]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
+{113}{}{Dieses Schiff ist ein Poseidon-Tanker. Es ist mit einer Technik ausgerüstet, die von vor dem Krieg stammt. Es hat einen SHS, mit dem man in den Navigationscomputerraum gelangt und einen IFF-Transponder, der es vor Poseidon-Gewehren schützt.}
 {114}{}{Woher weißt du das alles?}
 {115}{}{Was ist ein IFF-Transponder?}
 {116}{}{Wie bringst du ihn zum Laufen?}
@@ -21,7 +21,7 @@
 {120}{}{Was genau ist eigentlich die Enklave?}
 {121}{}{Wie bringt man dieses Ding in Gang?}
 {122}{}{Tschüß.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{Wie man diesen Kahn steuert? Füll ihn mit Sprit - frag mal bei den Hubologen oder den Shi, wenn du alles andere erledigt hast - und drück auf den Knopf. Den Rest macht der Computer, falls er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern und zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du mußt nur dafür sorgen, daß du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
 {124}{}{Klar. Woher weißt du das alles?}
 {125}{}{Was ist ein IFF-Transponder und ein SHS?}
 {126}{}{Was für eine Bohrinsel?}
@@ -50,7 +50,7 @@
 {149}{}{Ach so. Also, wie soll ich das Ding noch mal steuern?}
 {150}{}{Danke. Tschüß.}
 {151}{}{Du hast einen großen Fehler gemacht, als du dich mit dem Kapitän und seinen Freunden angelegt hast...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{152}{}{Wie du diesen Kahn steuerst? Wie ich sehe, hast du ihn schon vollgetankt. Wenn du alles andere erledigt hast, mußt du nur auf den Knopf drücken. Den Rest macht der Computer, wenn er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern - falls ihn das alte U-Boot nicht in die Luft jagt. Aber zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du mußt nur dafür sorgen, daß du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
 {153}{}{Oh ja. Du mußt auch den Navigationscomputer funktionstüchtig machen. Ich wette du findest in den alten Vaults die Teile.}
 {154}{}{Schön, dich wiederzusehen, Was brauchst du?}
 {155}{}{, und ich Wette, das deine Freunde auch dort sind.}

@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Du siehst einen von zwei sich sehr ähnelnden Männern — sie könnten Zwillinge sein. Sie sind beide ziemlich muskulös und haben buschige Augenbrauen.}
 {101}{}{Du siehst entweder Chuck oder Buck Dunton - sie sehen sich so ähnlich, daß du nicht sicher bist, welcher von beiden es ist.}
 {102}{}{Du siehst einen großen, sehr muskulösen Mann, dessen Gesicht unter den buschigen Augenbrauen ständig zu einem tyrannischen, finsteren Grinsen verzerrt ist. Er sieht genauso aus wie sein Bruder.}
 {110}{}{Du verkrümelst dich besser, oder mein Bruder und ich machen dich zu Brei.}
@@ -150,7 +149,7 @@
 {371}{}{Was zum Teufel machst du hier? Willst du uns helfen oder nicht? Wenn du interessiert bist, hätten wir vielleicht einen Job für dich.}
 {372}{}{Yeah, ich bin interessiert. Erzählt mir, was das für ein Job ist.}
 {373}{}{Ich glaube nicht, daß ich etwas mit euch beiden zu tun haben möchte. Tschüß.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{Ich dachte, ich hätte dort drüben einen Haufen Wanzenteile gesehen. Wißt ihr, was das ist?}
 {380}{}{Was zum Teufel willst du? Hast du vergessen, was du eigentlich tun solltest?}
 {381}{}{Nein. Ich kann mich sehr gut erinnern. Ich werde mich um unseren Plan kümmern.}
 {382}{}{Seid ihr wahnsinnig? Sie sind hinter uns her. Ich bin gekommen, um euch zu warnen, die Sache abzublasen. Ich wette, sie beobachten uns in diesem Augenblick.}

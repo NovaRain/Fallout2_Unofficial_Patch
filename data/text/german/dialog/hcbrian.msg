@@ -20,13 +20,13 @@
 {119}{}{Uranblöcke?}
 {120}{}{Sehr interessant, Tschüß dann,}
 {121}{}{Ein GECK? Noch nie gehört. Ich kann mir auch nicht vorstellen, daß sonst jemand weiß, was das ist. Klingt wie ein Tier oder etwas mit scharfen Klauen.}
-{122}{}{No, not really. I have more questions.}
+{122}{}{Nein, nicht ganz. Ich hätte da ein paar Fragen...}
 {123}{}{Darum geht es doch gar nicht. Tschüß.}
 {124}{}{Eric will mehr Strom? Eric KANN aber nicht mehr Strom haben. Wir haben hier ein sehr empfindliches Gleichgewicht der Energien und wenn Eric mehr Strom kriegt, dann hat das Krankenhaus keinen Strom. Oder die Beleuchtung macht schlapp. Oder die Mine macht zu. Das geht einfach nicht.}
 {125}{}{Wenn dieser Generator von Uranblöcken angetrieben wird, dann habt ihr mehr als genug Energie für diese Stadt UND New Reno, ohne daß der Energieverlust weiter auffällt. Also her damit.}
 {126}{}{Aber...er leidet doch.}
 {127}{}{Es gibt also gar keine Möglichkeit, ein paar Änderungen vorzunehmen?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{[Er schaut mißmutig auf sein Schaltpult und sagt leise] Du bist gemein.}
 {129}{}{Jau. Tschüß!}
 {130}{}{He! Pack ja nichts an! Das sind empfindliche Geräte! Raus hier! Raus! Jetzt hau schon ab!}
 {131}{}{Ooooh! Nöpfe!}
@@ -39,7 +39,7 @@
 {138}{}{OK. Wiedersehn.}
 {139}{}{Ja ja, technisch gesehen stimmt das schon, aber...}
 {140}{}{Aber gar nichts. Du bist ja nur faul. Beweg dich mal.}
-{141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
+{141}{}{Du brauchst gar nicht so gemein zu sein. [Er zieht den Kopf ein und dreht an einem Schalter] Hier. Jetzt sag ihm auch, er soll sich nicht mehr beschweren.}
 {142}{}{Du hast ja im Grunde doch ein weiches Herz, was?}
 {143}{}{Steck's dir sonstwohin. Du hast das alles schwieriger als notwendig gemacht.}
 {144}{}{Vielleicht sollte er ein bißchen öfter baden. Auf Wiedersehen.}

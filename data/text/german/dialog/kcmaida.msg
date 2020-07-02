@@ -42,7 +42,7 @@
 {271}{}{Äh, wahrscheinlich. Erzähl mir was anderes.}
 {272}{}{Herrjeh, ich glaub von euch kann ich viel lernen. Ich würd auch gern zivilisiert sein, eines Tages.}
 {273}{}{Zivilisiert? Du glaubst, ihr seid zivilisiert, weil ihr in den ausgebrannten Ruinen einer Stadt aus den alten Zeiten wohnt? Erzähl mir was andres.}
-{274}{}{I think I've heard just about enough. Goodbye.}
+{274}{}{Ich glaube, ich habe jetzt genug gehört. Auf Wiedersehen.}
 {280}{}{Also, kann ich sonst noch was für dich tun?}
 {281}{}{Ich hab für die nächste Zeit mit Gecko-Häuten ausgesorgt. Kann ich sonst noch was für dich tun?}
 {282}{}{Eigentlich wollte ich noch was anderes erstehen.}
@@ -91,9 +91,8 @@
 {400}{}{Zurück, was? Ich hoffe, du kümmerst dich um Sulik. Ich bin sicher, er ist verloren, wenn ich ihm nicht sag, was er tun muß.}
 {401}{}{Ich bin zurück, weil ich was brauche.}
 {402}{}{Naja, wahrscheinlich kann ich nicht so gut auf ihn aufpassen wie du, aber ich werd's versuchen.}
-{420}{}{Well, you'd be better off asking momma about what's going on right here in town.}
-{421}{}{You'd be better off asking momma about things here in town. Have you seen Torr anywhere? It
- seems as though he's run off, and we're sure worried.}
+{420}{}{Nun, da fragst du am besten Mammi, was in der Stadt derzeit so abgeht.}
+{421}{}{Du fragst am besten Mammi, was in der Stadt derzeit so abgeht. Hast du Torr irgendwo gesehn? Scheinbar ist er davongelaufen, und wir machen uns echt Sorgen.}
 {422}{}{OK, darüber werd ich dann mit Mrs. Buckner reden. Ich möcht dich aber noch was anderes fragen.}
 {423}{}{Nein, ich hab Torr nirgends gesehn. Wenn er mir über den Weg läuft, laß ich's dich wissen. Ich möcht dich aber noch was anderes fragen.}
 {430}{}{Danke, daß du meinen Bruder Torr gefunden hast. Ma und ich haben uns solche Sorgen gemacht. Was kann ich für dich tun?}

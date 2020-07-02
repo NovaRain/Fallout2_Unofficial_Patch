@@ -89,11 +89,10 @@
 {340}{}{Ich weiß nicht mehr genau, was er alles gesagt hat, aber er konnte es kaum erwarten zu gehen. Ich hätte ihn nicht gehen lassen sollen. Er ist schon zwei Wochen länger weg als geplant. Ich mach mir wirklich Sorgen.}
 {341}{}{Ich würde gern helfen. Ich könnte nach ihm suchen.}
 {342}{}{Das tut mir leid. Kann ich noch eine Frage stellen?}
-{343}{}{That's too bad, Mrs. Buckner. Maybe he just ran out on you. I think I know why he would, too.
- Goodbye.}
+{343}{}{Pech, Mrs. Buckner. Vielleicht ist er einfach davongelaufen. Würd ich an seiner Stelle auch. Tschüß. }
 {350}{}{Oh, vielen Dank. Ich werde auf der Karte markieren, wo er suchen wollte. Ich hoffe wirklich, daß du ihn findest. Er ist niemand besonderes, aber ich liebe ihn immer noch und vermisse ihn mehr, als ich es für möglich gehalten hätte. Bitte finde ihn.}
 {351}{}{Ich werde tun, was ich kann. Ich habe allerdings noch eine Frage.}
-{352}{}{I'll do my best, Mrs. Buckner. Goodbye.}
+{352}{}{Ich werde mein Möglichstes tun, Mrs. Buckner. Wiedersehn.}
 {353}{}{Ich glaube nicht, daß ich dir jetzt helfen kann. Wiedersehn.}
 {360}{}{Hast du meinen Smiley gefunden?}
 {361}{}{Tut mir leid, Mrs. Buckner. Ich suche immer noch nach ihm. Ich würde allerdings zuerst gerne noch was fragen.}
@@ -109,11 +108,11 @@
 {381}{}{Das tut mir leid. Wo, glaubst du, ist Torr hingegangen?}
 {390}{}{OK.}
 {400}{}{Was? Mein Smiley ist...}
-{401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
-{402}{}{Yes, he's dead. He was eaten by geckos.}
-{403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
+{401}{}{Wen? Sagte ich Smiley? Oh, äh, nein. Keine Ahnung, wo er hin ist. Äh, hör mal, ich hätte da noch 'ne Frage.}
+{402}{}{Ja, er ist tot. Er wurde von Geckos gefressen.}
+{403}{}{Ich hab nur gescherzt. Ich, äh, hab ihn gesehen. Er sagte, er würd mit 'ner andern Frau durchbrennen. Uahh! Oje, es ist spät geworden. Ich muß mich sputen.}
 {404}{}{Äh, ich, äh, das heißt... Äh, nein. Ich bin immer noch am Suchen. Aber ich bin sicher, daß er in den nächsten Tagen auftauchen wird. Äh, auf Wiedersehen.}
-{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
+{410}{}{Von Geckos gefressen? Das glaub ich einfach nicht. Geckos würden mein Smiley niemals kriegen. Dafür ist er ein viel zu guter Fallensteller. Du mußt dich irren.}
 {411}{}{Ja, vielleicht hast du recht. Tut mir leid, wenn ich dich erschreckt habe. Aber ich hätte da 'ne Frage an dich.}
 {412}{}{Nee. Ich hab ihn gesehen. Oder jedenfalls das, was noch von ihm übrig war. War kein schöner Anblick. Naja, bis demnächst. Tschüß.}
 {413}{}{Erwischt! Hä, ha, wollte dich nur auf 'n Arm nehmen. Ja, das war's. Mach's mal gut.}
@@ -132,7 +131,7 @@
 {680}{}{Gurrgel blubb?}
 {690}{}{Aber bitte - keine Ursache, Madame. Auf Wiedersehen.}
 {700}{}{Torr ist tot.}
-{710}{}{Smiley's dead.}
+{710}{}{Smileys Essen}
 {720}{}{Ich, äh, ich weiß nicht, wo sie sind. Hör mal, darf ich dir 'ne Frage stellen?}
 {730}{}{Sind beide mausetot.}
 {740}{}{Torr ist weg? Was meinst du damit?}

@@ -16,7 +16,7 @@
 {240}{}{Reicht dir das, Kumpel?}
 {241}{}{Eigentlich würd ich gern noch mal einen Blick auf deine Ware werfen.}
 {242}{}{Eigentlich würd ich dich gern etwas fragen.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{Das reicht. Also Flick, bis dann.}
 {260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Daß ich ein guter Samurai bin?}
 {261}{}{Sag, was ist?}
 {262}{}{Ja, äh, nun... ich möcht dich noch was anderes fragen.}
@@ -31,7 +31,8 @@
 {301}{}{Äh, nein.}
 {302}{}{Oh, OK. Dann möcht ich dich was anderes fragen.}
 {303}{}{Ah, ich verstehe. Nun, ich will dich nicht, äh, einschränken. Wiedersehn.}
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.
+Dafür kümmere ich mich um sie.}
 {316}{}{Hört sich ja nach einer guten Abmachung an.}
 {325}{}{[Flick zuckt mit den Schultern.] Ich komm ganz gut zurecht.}
 {326}{}{Ich will dich dann noch was anderes fragen.}

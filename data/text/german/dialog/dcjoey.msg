@@ -16,7 +16,7 @@
 {162}{}{Hast du ein Medaillon aus dem Spukhaus gestohlen?}
 {163}{}{Nichts. Vergiß es.}
 {164}{}{Ach, vergiß es. Ich bring dich jetzt um, und kümmer mich später um die Einzelheiten.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Ich... Ich weiß nicht, wovon du sprichst.}
 {166}{}{Oh, ich glaube doch. Du hast das Medaillon eines toten Mädchens gestohlen und jetzt kann ihr
  Geist keine Ruhe finden.}
 {167}{}{Dann nehme ich es mir mit Gewalt!}
@@ -111,11 +111,10 @@
 {254}{}{Vergiß es. Kann ich dich was fragen?}
 {255}{}{OK, ich kaufe es.}
 {256}{}{Macht nichts. Tschüß.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Bunker...Bunker...Bunker 13? Nö, noch nie gehört. Erzähl mir bloß nicht, die ham schon wieder 'ne neue Droge erfunden! Jet ist unschlagbar!}
 {258}{}{Nein, du Idiot!}
 {259}{}{Nein, es ist ein Ort. Kann ich dich was anderes fragen?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Ja, eine wunderbare Droge.}
 {261}{}{Nein, Tschüß.}
 {262}{}{Joey ist nicht unbedingt das, was man redselig nennt.}
 {300}{}{Wahrscheinlich nicht. Tschüß.}

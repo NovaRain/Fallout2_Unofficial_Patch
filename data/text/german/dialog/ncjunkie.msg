@@ -88,8 +88,7 @@
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
 {297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
- I LOVE that one.}
+{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit erhöhtem Stoffwechsel. Wirklich! Nimm den Perk! Ich LIEBE ihn.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}
 {301}{}{[Singt.] "We don't need another hero, we don't need to know the way home..."}
@@ -206,7 +205,7 @@
 {483}{}{Jagged Jimmys Stoff ist der Beste. du wirst so high du kommst gar nicht wieder runter.}
 {484}{}{Du redest mit mir? Du redest mit mir?!}
 {485}{}{Willst du hiervon was?! Na?}
-{486}{}{::Glares at you past drug-hazed eyes::}
+{486}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {487}{}{Willste mit mir fliegen?}
 {488}{}{Hey, Champ, wasiss los?!}
 {489}{}{Willst du mit mir boxen? Na los komm doch!}
@@ -224,7 +223,7 @@
 {510}{}{Du redest mit mir? Du redest mit mir?!}
 {511}{}{Willste dich mit mir anlegen, Gangster? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {512}{}{willst du was davon Gangster?! Häh?}
-{513}{}{::Glares at you past drug-hazed eyes::}
+{513}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {520}{}{Puhh... wo bist DU denn drauf? Kann ich was abhaben?}
 {521}{}{Und ich hab gedacht, *ich* wär fertig.}
 {522}{}{Hey, Freund... teilst du dein Zeug mit mir.}
@@ -248,7 +247,7 @@
 {544}{}{Wenn du für Renesco arbeitest, sag ihm er bekommt sein Geld morgen.}
 {545}{}{Jagged Jimmys Stoff ist der Beste. du wirst so high du kommst gar nicht wieder runter.}
 {546}{}{Du redest mit mir? Du redest mit mir?!}
-{547}{}{::Glares at you past drug-hazed eyes::}
+{547}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {548}{}{Schau jetzt nicht hin, Mann, aber da folgt dir ein Mutant.}
 {549}{}{Oh Mann. Ich muß was Schlechtes genommen haben... Hier rennen ja überall Mutanten herum.}
 {550}{}{Ich bin so high, oder ist dein Freund wirklich über 2 Meter groß?}
@@ -278,7 +277,7 @@
 {575}{}{Du redest mit mir? Du redest mit mir?!}
 {576}{}{Willste dich mit mir anlegen, Typ? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {577}{}{Willst du hiervon was?! Na?}
-{578}{}{::Glares at you past drug-hazed eyes::}
+{578}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {600}{}{Nett...}
 {601}{}{Mmmm...}
 {602}{}{Du bist ein echter Freund.}

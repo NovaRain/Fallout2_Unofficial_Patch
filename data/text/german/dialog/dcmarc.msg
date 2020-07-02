@@ -2,7 +2,7 @@
 {101}{}{Du siehst Marc, eine Wache.}
 {102}{}{Du siehst Marc, eine von Tylers Wachen.}
 {150}{}{Hey Tyler!}
-{200}{}{What the...?}
+{200}{}{Was zum...?}
 {225}{}{Ich wußte, daß wir diese Weicheier erledigen können.}
 {226}{}{Danke für den Tip, das hat Spaß gemacht.}
 {227}{}{Schade, daß wir sie alle umgebracht haben. Was machen wir jetzt?}
@@ -10,7 +10,7 @@
 {229}{}{Wir sind einfach gut.}
 {230}{}{Die haben wir sauber aufgemischt! Yeah!}
 {250}{}{Du mußt mit Tyler reden, nicht mit mir, junge Dame.}
-{251}{}{What's up. You need something, you gotta talk to Tyler here.}
+{251}{}{Was gibt's? Wenn du etwas brauchst, musst du mit Tyler hier reden.}
 {252}{}{Was starrst du denn?}
 {253}{}{Du mußt mit Tyler reden, nicht mit mir, junger Mann.}
 {255}{}{Wir werden heute Abend mal so richtig aufmischen!}

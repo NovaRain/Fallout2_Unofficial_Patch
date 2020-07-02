@@ -34,7 +34,7 @@
 {181}{}{Bin beeindruckt.}
 {182}{}{Na, dann will ich dich nicht aufhalten. Tschüß.}
 {190}{}{Naja, wär schon ganz praktisch, wenn ich ein bißchen Unterstützung bekäm. Aber es hat eben niemand meine Qualifikationen. Die kennen sich doch nicht mal mit den einfachsten Grundlagen aus.}
-{191}{}{How could anyone hope to keep up with you? You're above everyone.}
+{191}{}{Wie könnte je jemand mit dir mithalten? Du stehst über allen anderen.}
 {192}{}{Kein Zweifel - du bist wirklich was Besonderes. Tschüß.}
 {200}{}{Allerdings - das siehst du doch. Ich seh schon, du verstehst wirklich was von solchen Dingen. Wenn ich hier nicht so beschäftigt wär, würd ich ganz Gecko verwalten. Und ich würd meine Sache ziemlich gut machen.}
 {201}{}{Du würdest auch die Stadt verwalten?}
@@ -58,8 +58,7 @@
 {261}{}{Wenn das 'ne Bombe wär, hättest du das mit deinem technischen Sachverstand doch schon lang gemerkt. Installier das Teil einfach, OK?}
 {262}{}{Du hast wahrscheinlich recht. Es muß 'ne andere Möglichkeit geben, das Teil einzubauen.}
 {270}{}{OK, ich bin hier. Aber ich bin echt nicht sicher, ob das das richtige Teil ist oder irgendeine Falle. Ich bin viel zu wertvoll für so ein riskantes Spiel. Vielleicht sollte sich einfach jemand anders drum kümmern ... später... viel später.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Es muß aber jetzt gemacht werden. Und du bist der einzige, der das kann. Komm schon, die Zukunft von ganz Gecko hängt von dir ab!}
 {272}{}{Du hast wahrscheinlich recht. Es muß 'ne andere Möglichkeit geben, das Teil einzubauen.}
 {300}{}{Naja, braucht schon recht viel Uran. Und es tritt auch was aus. Ich hab auch schon gefragt, ob's jemand reparieren kann. Aber keiner hört mir zu}
 {301}{}{Ich hab gehört, daß das Grundwasser verstrahlt wird. Stimmt das?}
@@ -75,7 +74,7 @@
 {340}{}{Hast du zufällig einen hydroelektrischen Magnetosphären-Regulator dabei?}
 {341}{}{Weißt du überhaupt, was das ist?}
 {342}{}{Klar. Kannst du ihn einbauen?}
-{350}{}{Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.}
+{350}{}{Überrascht? Bezweifle nie meine Kenntnisse über Atomkraftwerke. Ich weiß alles, was es über sie zu wissen gibt.}
 {351}{}{Nachdem du ja weißt, was es ist, weißt du sicher auch, wie man es einbaut.}
 {352}{}{Ich hab dir schon viel zu lang zugehört. Tschüß.}
 {360}{}{Klar. Kein Problem für jemanden mit meiner Erfahrung und meiner Begabung. Ich hab schon als Kleinkind mit Magnetosphären-Regulatoren gespielt.}
