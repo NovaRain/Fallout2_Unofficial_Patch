@@ -80,9 +80,9 @@
 {364}{}{Präsidenten Bereich}
 {365}{}{Reaktor}
 {366}{}{Fallenraum}
-{370}{}{Error:Blank}
-{380}{}{Error:Blank}
-{390}{}{Error:Blank}
+{370}{}{Fehler:Leer}
+{380}{}{Fehler:Leer}
+{390}{}{Fehler:Leer}
 {400}{}{Die Geisterstadt}
 {401}{}{Haupthöhle}
 {402}{}{Unterirdischer See}
@@ -210,7 +210,7 @@
 {3316}{}{Einer Gruppe Ratten.}
 {3317}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3318}{}{Einer Gruppe von Ameisen.}
-{3319}{}{A hunting party fighting some radscorpions.}
+{3319}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
 {3320}{}{Einer kleinen Gruppe Schweineratten.}
 {3321}{}{Einer kleinen Gruppe Radskorpione.}
 {3322}{}{Einer kleinen Gruppe Ameisen.}
@@ -240,7 +240,7 @@
 {3369}{}{Einer Gruppe Ratten.}
 {3370}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3371}{}{Einer Gruppe von Ameisen.}
-{3372}{}{A hunting party fighting some radscorpions.}
+{3372}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
 {3373}{}{Einer kleinen Gruppe Schweineratten.}
 {3374}{}{Einer kleinen Gruppe Radskorpione.}
 {3375}{}{Einer kleinen Gruppe Ameisen.}
@@ -272,7 +272,7 @@
 {3416}{}{Einer Gruppe Ratten.}
 {3417}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3418}{}{Einer Gruppe von Ameisen.}
-{3419}{}{A hunting party fighting some radscorpions.}
+{3419}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
 {3420}{}{Einer kleinen Gruppe Schweineratten.}
 {3421}{}{Einer kleinen Gruppe Radskorpione.}
 {3422}{}{Einer kleinen Gruppe Ameisen.}
@@ -355,8 +355,8 @@
 {3574}{}{Einigen Banditen, die Obdachlose in einen Hinterhalt locken.}
 {3575}{}{Einigen Obdachlosen, die Farmer abschlachten.}
 {3576}{}{Einigen Banditen, die Bauern angreifen.}
-{3577}{}{Some farmers fending off some radscorpions.}
-{3578}{}{Some trappers fighting some radscorpions.}
+{3577}{}{Einigen Bauern, die Skorpione abwehren.}
+{3578}{}{Einigen Fallenstellern im Kampf gegen Skorpione.}
 {3579}{}{Einigen Fallenstellern, die Schweineratten angreifen.}
 {3580}{}{Einigen Bauern, die ein Nest von Schweineratten ausheben.}
 {3581}{}{Einigen Bauern.}
@@ -392,8 +392,8 @@
 {3621}{}{Einigen Banditen, die Obdachlose in einen Hinterhalt locken.}
 {3622}{}{Einigen Obdachlosen, die Farmer abschlachten.}
 {3623}{}{Einigen Banditen, die Bauern angreifen.}
-{3624}{}{Some farmers fending off some radscorpions.}
-{3625}{}{Some trappers fighting some radscorpions.}
+{3624}{}{Einigen Bauern, die Skorpione abwehren.}
+{3625}{}{Einigen Fallenstellern im Kampf gegen Skorpione.}
 {3626}{}{Einigen Fallenstellern, die Schweineratten angreifen.}
 {3627}{}{Einigen Bauern, die ein Nest von Schweineratten ausheben.}
 {3628}{}{Einigen Bauern.}
@@ -422,8 +422,8 @@
 {3669}{}{Einer Familie von Maulwurfsratten.}
 {3670}{}{Einigen Banditen.}
 {3671}{}{Einer Truppe Fallensteller, die versuchen, Goldgeckos zu fangen.}
-{3672}{}{Some radscorpions fighting some golden geckos.}
-{3673}{}{Some radscorpions attacking some molerats and pig rats.}
+{3672}{}{Einigen Skorpionen im Kampf gegen Goldgeckos.}
+{3673}{}{Einigen Skorpionen, die Maulwurfs- und Schweineratten angreifen.}
 {3674}{}{Einigen Fallenstellern und einer Händlergruppe, die sich gegen Banditen wehren.}
 {3675}{}{Einigen Geckos.}
 {3676}{}{Einigen Fallenstellern im Kampf gegen Maulwurfs- und Schweineratten.}
@@ -550,7 +550,7 @@
 {3900}{}{Einigen Wegelagerern und Räubern.}
 {3901}{}{Einigen Straßenräubern.}
 {3902}{}{Einem großen Rudel Goldgeckos.}
-{3903}{}{Some radscorpions hiding in the spore plants.}
+{3903}{}{Einigen Skorpionen, versteckt zwischen Sporenpflanzen.}
 {3904}{}{Ein paar Kopfgeldjägern.}
 {3905}{}{Ein paar Kopfgeldjägern.}
 {3906}{}{Ein paar Kopfgeldjägern.}
@@ -560,7 +560,7 @@
 {3910}{}{Ein paar Kopfgeldjägern.}
 {3911}{}{Ein paar Kopfgeldjägern.}
 {3912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{3913}{}{Some robbers fighting some radscorpions.}
+{3913}{}{Einigen Räubern im Kampf gegen Skorpione.}
 {3914}{}{Einigen Räubern.}
 {3915}{}{Einer Gruppe von Kaufleuten, die von Wegelagerern angegriffen wird.}
 {3916}{}{Einer Gruppe von Kaufleuten, die von Räubern überfallen wird.}

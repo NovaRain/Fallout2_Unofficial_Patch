@@ -97,7 +97,7 @@
 {4900}{}{Ausgangsmarkierung}
 {4901}{}{Ausgangsmarkierung}
 {5000}{}{Luftaufbereitungsanlage}
-{5001}{}{An APU cleans the old air to provide new air for the complex. This one is broken.}
+{5001}{}{Eine LAA reinigt die verbrauchte Luft, um dem Komplex frische Luft zuzuführen. Diese ist kaputt.}
 {5100}{}{Stuhl}
 {5101}{}{Ein Stuhl. Nur schade, daß du keine Zeit zum Hinsetzen und Entspannen hast.}
 {5200}{}{Stuhl}
@@ -148,7 +148,7 @@
 {7401}{}{Du beobachtest die Felsen eine Zeitlang, doch sie bewegen sich nicht.}
 {7500}{}{Felsen}
 {7501}{}{Du läßt die Felsen nicht aus dem Auge, damit sie dich nicht angreifen.}
-{7600}{}{Car Wall Floor}
+{7600}{}{Auto Wand Boden}
 {7601}{}{ENTFERNT}
 {7700}{}{Tor}
 {7701}{}{Ein Holztor.}
@@ -362,7 +362,7 @@
 {18800}{}{Schild der Ebene "Drei"}
 {18801}{}{Das heißt wohl, daß du auf Ebene Drei der Brotherhood bist.}
 {18900}{}{Schild der Ebene "Vier"}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{Du musst auf Ebene Vier der Brotherhood sein.}
 {19000}{}{Etagenbett}
 {19001}{}{Ein Etagenbett im Militärstil. Sieht sehr unbequem aus. Sieht auch so aus, als würde eine aufs Bett geworfene Münze vom Bettlaken abprallen.}
 {19100}{}{Etagenbett}
@@ -398,9 +398,9 @@
 {20700}{}{Alte Matratze.}
 {20701}{}{Selbst wenn du allein auf dem Ding schlafen würdest, wärst du nicht einsam.}
 {20800}{}{Bett}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{Ein provisorisches Bett. Das Material wurde aus anderen Quellen zusammengesammelt.}
 {20900}{}{Bett}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{Ein provisorisches Bett. Das Material wurde aus anderen Quellen zusammengesammelt.}
 {21000}{}{Bett}
 {21001}{}{Dieses Bett hat schon bessere Tage gesehen (und Nächte wahrscheinlich auch).}
 {21100}{}{Bett}
@@ -1126,8 +1126,8 @@
 {59501}{}{Der Metalltisch ist mit einer Art Biomasse bedeckt.}
 {59600}{}{Schwarzes Brett}
 {59601}{}{Stellenangebote sind an das Brett geheftet. Es sieht häufig gebraucht aus.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Wachhäuschen}
+{59701}{}{Das Wachhäuschen ist über hundert Jahre alt, ist aber immer noch in ausgezeichnetem Zustand.}
 {59800}{}{Schild}
 {59801}{}{Auf dem Schild steht: Gemischtwaren.}
 {59900}{}{Schild}
@@ -2000,8 +2000,8 @@
 {114500}{}{Sarg}
 {114600}{}{Stahlgitter}
 {114700}{}{Stahlgitter}
-{114800}{}{Steel Window Cover}
-{114900}{}{Steel Window Cover}
+{114800}{}{Stahlfenstergitter}
+{114900}{}{Stahlfenstergitter}
 {115000}{}{Laserstolperdraht}
 {115100}{}{Laserstolperdraht}
 {115200}{}{Lore}
@@ -2027,7 +2027,7 @@
 {116900}{}{Tür}
 {117000}{}{Tür}
 {117100}{}{Rohre}
-{117101}{}{A set of pipes going into the reactor.}
+{117101}{}{Eine paar Rohre, die in den Reaktor führen.}
 {117200}{}{Panzer}
 {117300}{}{Tanke}
 {117400}{}{Tanke}
@@ -2246,7 +2246,7 @@
 {136400}{}{Tempel}
 {136500}{}{Feuerstelle}
 {136600}{}{Feuerstelle}
-{136700}{}{Howitizer}
+{136700}{}{Haubitze}
 {136701}{}{Diese seltsame Kanone sieht aus wie ein Überbleibsel aus der Vorkriegszeit. Du fragst dich, wie sie hierher kommt.}
 {136800}{}{Tempel}
 {136900}{}{Tempel}
@@ -2262,11 +2262,11 @@
 {137600}{}{Fackel}
 {137601}{}{Eine brennende Fackel in einer Wandhalterung.}
 {137700}{}{Vertibird}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{BRAUCHE LANGE BESCHREIBUNG.}
 {137800}{}{Zerstörte Tür}
-{137801}{}{The power station door is destroyed.}
+{137801}{}{Die Kraftwerkstür ist kaputt.}
 {137900}{}{Zerstörte Tür}
-{137901}{}{The power station door is destroyed.}
+{137901}{}{Die Kraftwerkstür ist kaputt.}
 {138000}{}{Wand}
 {138100}{}{Wand}
 {138200}{}{Wand}
@@ -2596,12 +2596,12 @@
 {169400}{}{Schatten}
 {169500}{}{Schatten}
 {169600}{}{Schatten}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Seltsame Maschine, abgestürzt}
+{169800}{}{Seltsame Maschine, abgestürzt}
+{169900}{}{Seltsame Maschine, abgestürzt}
+{170000}{}{Seltsame Maschine, abgestürzt}
+{170100}{}{Seltsame Maschine, abgestürzt}
+{170200}{}{Seltsame Maschine, abgestürzt}
 {170300}{}{Schatten}
 {170400}{}{Schatten}
 {170500}{}{Schatten}

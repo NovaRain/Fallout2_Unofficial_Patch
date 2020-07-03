@@ -163,19 +163,19 @@
 {653}{}{ ::: Fähigkeiten :::                ::: Opfer :::}
 {654}{}{ ::: Inventar :::}
 {655}{}{                                      Gesamtgewicht:}
-{656}{}{ ::: Reliances :::}
+{656}{}{ ::: Abhängigkeiten :::}
 {657}{}{ ::: Ansehen :::}
 {1000}{}{Ansehen (Allgemein) }
 {1001}{}{Berserker}
 {1002}{}{Champion}
 {1003}{}{Kindermörder}
-{1004}{}{Nuka Cola reliance}
-{1005}{}{Buffout reliance}
-{1006}{}{Mentats reliance}
-{1007}{}{Psycho reliance}
-{1008}{}{RadAway reliance}
-{1009}{}{Alcohol reliance}
-{1010}{}{Jet reliance}
+{1004}{}{Nuka-Cola Abhängigkeit}
+{1005}{}{Buffout Abhängigkeit}
+{1006}{}{Mentats Abhängigkeit}
+{1007}{}{Psycho Abhängigkeit}
+{1008}{}{RadAway Abhängigkeit}
+{1009}{}{Alkohol Abhängigkeit}
+{1010}{}{Jet Abhängigkeit}
 {1011}{}{Tragische Abhängigkeit}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperte}
@@ -196,13 +196,13 @@
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{Du bist von der Droge Buffout abhängig. Du mußt es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
+{1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du mußt es nehmen, sonst leidest du an Entzugserscheinungen.}
+{1107}{}{Du hast eine Drogenabhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
+{1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du mußt es regelmäßig nehmen.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1110}{}{Du hast eine Drogenabhängigkeit. Du mußt regelmäßig Jet einnehmen.}
+{1111}{}{Tragischerweise bist du abhängig vom Sammeln. Du bist ständig auf der Suche nach neuen Erweiterungen.}
 {1112}{}{TEMPORÄR - Was ist das?}
 {1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, daß er mehr will.}
 {1114}{}{Du bist Schwergewichtsmeister von Nordkalifornien. Du hast Ruhm, Respekt und die Liebe Tausender erlangt...und außerdem einen Bonus für deine Härte und Schlagkraft ohne Waffen.}
@@ -241,9 +241,9 @@
 {3007}{}{Geißel des Ödlands}
 {3008}{}{Teufelsbrut}
 {4000}{}{Ansehen}
-{4001}{}{Reliance}
+{4001}{}{Abhängigkeit}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Dinge, von denen du abhängig bist.}
 {5000}{}{Bedaure, Drucken der }
 {5001}{}{Figur geht nur in der Vollversion.}
 {5002}{}{Bedaure, Speichern der}

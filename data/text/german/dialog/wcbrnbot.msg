@@ -2,10 +2,11 @@
 {101}{}{Ein kleines Meisterwerk der Ingenieurskunst, mit dem sich die Grenze zwischen Mensch und
  Roboter weiter verwischt.}
 {102}{}{Skynet wird mit dir reisen.}
-{103}{}{Skynet thanks the human.                                      Skynet wishes to ask favor.                                      Skynet wishes to travel with human.}
+{103}{}{Skynet dankt dem Menschen.                                         Skynet möchte um Gefallen bitten.
+                                Skynet möchte mit dem Menschen reisen.}
 {104}{}{}
 {105}{}{}
-{106}{}{                                    [This contraption could be useful.]}
+{106}{}{                         [Diese Gerätschaft könnte sich als praktisch erweisen.]}
 {107}{}{Roboter mitnehmen.}
 {108}{}{Roboter zurücklassen.}
 {109}{}{Beenden}
@@ -46,7 +47,7 @@
 {143}{}{Tschüß.}
 {144}{}{Agh.}
 {145}{}{Skynet hat alle benötigten Informationen zu dieser Umgebung erfaßt.}
-{146}{}{Waaaaa......tinnnnnng.}
+{146}{}{Waaaaar.....tennnnnnn.}
 {147}{}{[Er ist noch genau dort, wo du ihn zurückgelassen hast.]}
 {148}{}{Dann lass uns mal Tyler kalt stellen.}
 {149}{}{Bleib hier, ich komm zurück.}
@@ -107,7 +108,7 @@
 {197}{}{Tschüß.}
 {198}{}{Skynet wird die Erfassung von Daten selbständig fortsetzen. Skynet dankt dem Menschen für
  Skynets Befreiung.}
-{199}{}{Gooooo......innnnnnng.}
+{199}{}{Geeeee.....hennnnnnnnn}
 {200}{}{Tschüß.}
 {201}{}{Skynet reist mit dem Menschen.}
 {202}{}{Ooooo......kaaaaaaay.}

@@ -43,7 +43,7 @@
 {129}{}{Hier ist dein Geld, Doc. Dann mal los.}
 {130}{}{Das können wir uns, glaub ich, im Moment nicht leisten. Tut mir leid, Doc, vielleicht
  ein anderes Mal.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, was? Vielleicht lassen wir das später mal machen. Wiedersehn, Doc.}
 {132}{}{Sieht so aus, als ob es dir nicht allzu gut geht. Ich kann dein Leiden für $100 heilen.
  Willst du, daß ich es mal probiere?}
 {133}{}{Deinem Freund geht es aber gar nicht gut. Ich glaube, ich kann sein Leiden für $100
@@ -156,9 +156,10 @@
 {206}{}{McClure aus Vault City hat's mir erzählt.}
 {207}{}{Ich hab nur ein Gerücht gehört, das ist alles.}
 {208}{}{Ist nicht so wichtig. Laß mich dich noch etwas fragen.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno verkauft Jet ziemlich billig. Jet macht richtig süchtig, schlimmer als alles,
+ was du je gesehen hast. Die denken sich, wenn erst mal genug Leute in einer Gegend Jet nehmen,
+ werden sie alles tun, um mehr zu bekommen. Das bedeutet, daß sie de facto die Kontrolle über so
+ eine Gegend haben - wie in Redding.}
 {210}{}{Ach so. Laß mich dich noch etwas fragen, Doc.}
 {211}{}{Wenn du also nicht möchtest, daß New Reno Redding kontrolliert, wer soll dann deiner
  Meinung nach das Ruder hier übernehmen?}
@@ -177,8 +178,9 @@
  was fragen, Doc.}
 {220}{}{Gut, ich wette, die Sache könnte ziemlich häßlich werden, wenn sie jemals Verdacht
  schöpfen. Na dann, Wiedersehn, Doc.}
-{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
- by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
+{221}{}{Naja, jeder will einen Teil des Goldes hier in Redding, also werden wir über kurz oder
+ lang von irgend jemandem kontrolliert werden. Ich möchte nur, daß jemand über Redding
+ entscheidet, der das Beste für uns tut.}
 {222}{}{Und wer glaubst du, ist das?}
 {223}{}{So wie ich das sehe, hat Redding die beste Chance, wenn Vault City hier das Ruder
  übernimmt. Da komme ich her, ich habe also wahrscheinlich Vorurteile, aber ich glaube wirklich,
@@ -201,9 +203,10 @@
 {232}{}{Ich bin mir nicht so sicher, wie die Leute hier in Redding auf eine Vault City
  Herrschaft reagieren würden.}
 {233}{}{Ja, zweifellos. Wiedersehn, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+{234}{}{Füllen und Verteilen der Jet-Ampullen ist ein Gefallen für die Leute von Redding. Ich
+ mache damit keine Geschäfte. Wenn ich es nicht täte, würde irgendso ein Quacksalber die Droge
+ mit verkeimter, rostiger Ausrüstung aufbereiten. Danach würde ich die Bevölkerung nie wieder
+ gesund kriegen.}
 {235}{}{Was für'n netter Kerl du doch bist, Doc. Das finde ich toll. Laß mich dich noch etwas
  fragen.}
 {236}{}{Wie *nobel* von dir, Doc.}

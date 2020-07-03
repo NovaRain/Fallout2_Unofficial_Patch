@@ -54,7 +54,7 @@
 {322}{}{Oh.}
 {340}{}{New Reno ist die Jet-Metropole hier in der Gegend. Sie müssen die Rohstoffe für ihr Zeug ja
  irgendwoher bekommen, ne? Wie es aussieht, bekommen sie einen Teil oder sogar alles aus
- Bunkerstadt.}
+ Vault City.}
 {341}{}{Wo ist New Reno?}
 {342}{}{Okay, danke.}
 {350}{}{Bin mir nicht ganz sicher. Irgendwo im Süden, nehm ich an. Ich war nie dort. Ich seh nur

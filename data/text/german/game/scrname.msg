@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{Pro-Konsul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Assistenzärztin Phyllis}
 {219}{}{Randal}
 {220}{}{Glibber}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Wolf}
 {444}{}{Generator}
 {445}{}{Tür}
-{446}{}{Super mutant}
+{446}{}{Supermutant}
 {447}{}{Salvatores Mann}
 {448}{}{Bishops Mann}
 {449}{}{Mordinos Mann}
@@ -416,7 +416,7 @@
 {516}{}{"Drei Karten" Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bishop's Bodyguard}
+{519}{}{Bishops Wache}
 {520}{}{John Bishop}
 {521}{}{Glücksspielautomat}
 {522}{}{Chop Shop Boy}
@@ -503,7 +503,7 @@
 {603}{}{Hausbesetzer}
 {604}{}{Sklavenbefreier}
 {605}{}{Schmuggler}
-{606}{}{Super mutant}
+{606}{}{Supermutant}
 {607}{}{Fischer}
 {608}{}{Sklavenhändler}
 {609}{}{Fallensteller}
@@ -715,7 +715,7 @@
 {815}{}{Map Script}
 {816}{}{Vorpal-Ratte}
 {817}{}{Hund}
-{818}{}{Drill Sergeant}
+{818}{}{Ausbildungsfeldwebel}
 {819}{}{Wächter}
 {820}{}{Facharbeiter}
 {821}{}{Kommandant}
@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry the Rocketman}
+{1067}{}{Harry der Rocketman}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1033,8 +1033,8 @@
 {1133}{}{Vertibird}
 {1134}{}{Salvatore-Wache}
 {1135}{}{Salvatore-Wache}
-{1136}{}{Soldier}
-{1137}{}{Soldier}
+{1136}{}{Soldat}
+{1137}{}{Soldat}
 {1138}{}{Kiste}
 {1139}{}{Mr. Handy}
 {1140}{}{Salvatore-Wache}
@@ -1055,7 +1055,7 @@
 {1155}{}{Quartiermeister}
 {1156}{}{Wächter}
 {1157}{}{Kybernetischer Hund}
-{1158}{}{Doctor Schreber}
+{1158}{}{Doktor Schreber}
 {1159}{}{Facharbeiter}
 {1160}{}{Facharbeiter}
 {1161}{}{Wächter}
@@ -1099,7 +1099,7 @@
 {1199}{}{Klaxon}
 {1200}{}{Mine}
 {1201}{}{Grube}
-{1202}{}{Cal}
+{1202}{}{Auto}
 {1203}{}{Slim}
 {1204}{}{Jenna}
 {1205}{}{}

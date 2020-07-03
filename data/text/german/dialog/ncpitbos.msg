@@ -60,7 +60,7 @@
 {328}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {329}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {335}{}{This is [CN]. Need anything, just ask.}
-{336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
+{336}{}{Das is [CN]. Steht zumindest draußen auf dem Schild, soweit ich mich erinnern kann. Also, was kann ich für dich tun?}
 {337}{}{Wer sind Sie?}
 {338}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {339}{}{Nichts weiter, danke. Entschuldige die Störung.}
@@ -80,12 +80,12 @@
 {352}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {353}{}{Wollte nur mal nach dem Rechten sehen. Laß dich nicht stören.}
 {355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
-{356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
+{356}{}{Die [CA] Familie. Was dagegen einzuwenden? Wenn du nicht zum Spielen hier bist, bist du an der falschen Adresse. Kapiert?}
 {357}{}{Wer sind Sie?}
 {358}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {359}{}{Ah ja. Besten Dank für die Auskunft.}
 {360}{}{Hey, schau mal, wer da ist! Hey, }
-{361}{}{. Welcome to [CN]. Love your films.}
+{361}{}{. Willkommen bei [CN]. Ich steh auf deine Filme.}
 {362}{}{Fuuuuuuh fuh fuh fuuuuh}
 {363}{}{[Verschwinde]}
 {364}{}{Wer sind Sie?}
@@ -126,10 +126,10 @@
 {435}{}{[Schüttelt den Kopf.] Nein, wir erholen uns grade noch von deiner letzten Show. Frag mal in den anderen Kasinos nach.}
 {436}{}{Geht in Ordnung, danke. Paß mal auf, ich wollte dich noch was fragen...}
 {437}{}{Okay...aber verlaß dich drauf, ich komm wieder.}
-{445}{}{You count up the evening's tally. chips. Not a bad haul.}
-{446}{}{The leather was a nice touch.}
-{447}{}{That ball gag you had with you didn't hurt, either.}
-{448}{}{I'll do even better next time...}
+{445}{}{Du zählst die Chips des Abends zusammen. Keine schlechte Ausbeute.}
+{446}{}{Das mit dem Leder kam gut. }
+{447}{}{Die Spielchen mit dem Ballknebel waren auch nicht von schlechten Eltern. }
+{448}{}{Nächstes Mal wird's noch besser...}
 {455}{}{Ja, der stinkt nach Brahminkacke, nur noch schlimmer. Und du willst trotzdem...? [Nimmt eine skeptische Musterung
  deiner Person vor.] Zum Teufel, warum eigentlich nicht. Kann nicht schaden, so eine kleine Showeinlage. Aber mit dem
  Publikum ist nicht zu spaßen. Will hoffen, daß du's drauf hast.}

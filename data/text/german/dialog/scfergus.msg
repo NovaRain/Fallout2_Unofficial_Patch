@@ -3,7 +3,7 @@
 {102}{}{An diesem Typ ist alles normal - der Inbegriff eines Bürohengstes.}
 {103}{}{Willkommen im Kongreßgebäude. Was kann ich für dich tun?}
 {104}{}{Aha, da bist du ja wieder. Wie kann ich dir diesmal helfen?}
-{105}{}{Now, what can I do for you?}
+{105}{}{Nun, was kann ich für dich tun?}
 {106}{}{Ähhh...}
 {107}{}{Ich zu Tandi?}
 {108}{}{Ich zu Tandi?}

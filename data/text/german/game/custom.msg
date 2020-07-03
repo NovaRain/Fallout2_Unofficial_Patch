@@ -3,7 +3,7 @@
 {2}{}{Bevorzugte Waffe}
 {3}{}{Abstand}
 {4}{}{Wen angreifen}
-{5}{}{Drug Use}
+{5}{}{Drogengebrauch}
 {10}{}{[Fertig]}
 {11}{}{Abbrechen}
 {99}{}{Nicht anwendbar}
@@ -37,5 +37,5 @@
 {600}{}{Ich bin sauber}
 {601}{}{Stimpaks, wenn etwas verletzt}
 {602}{}{Stimpaks, wenn schwer verletzt}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Gelegentlich irgendeine Droge}
+{604}{}{Jederzeit irgendeine Droge}

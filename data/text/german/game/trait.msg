@@ -9,8 +9,8 @@
 {108}{}{Wilder Kämpfer}
 {109}{}{Verhext}
 {110}{}{Umgänglich}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Drogenabhängig}
+{112}{}{Drogenresistent}
 {113}{}{Sex Appeal}
 {114}{}{Versiert}
 {115}{}{Begabt}
@@ -25,8 +25,8 @@
 {208}{}{Die Ironie des Schicksals will es, daß Menschen um dich herum gewaltsam sterben und du immer Zeuge eines besonders grausamen Tods wirst.}
 {209}{}{Das Gute ist, daß alle um dich herum im Kampf böse Fehler machen. Das Schlechte ist, daß auch dir das passiert!}
 {210}{}{Du hast in deiner Jugend weniger Kampffähigkeiten erlernt, so daß du mit niedrigeren Anfangswerten beginnst. Dafür sind deine Fähigkeiten 'Erste Hilfe', 'Arzt', 'Reden' und 'Handeln' besser ausgebildet.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be reliant by drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
+{211}{}{Du wirst leichter von den Drogen, die du einnimmst, abhängig. Die Wahrscheinlichkeit, daß du abhängig wirst, ist doppelt so hoch wie normal, dafür erholst du dich aber auch schneller von den Nebenwirkungen.}
+{212}{}{Die Drogen, die du einnimmst, wirken auf dich nur halb so lange wie normal, und die Wahrscheinlichkeit, daß du abhängig wirst, ist ebenfalls nur halb so hoch.}
 {213}{}{Du hast den Stoff, aus dem die Helden sind. Das andere Geschlecht fühlt sich zu dir hingezogen, währenddessen Leute vom selben Geschlecht ziemlich eifersüchtig auf dich sind.}
 {214}{}{Du hast viel Zeit in die Ausbildung deiner Fähigkeiten gesteckt, so daß du mit höheren Anfangswerten beginnst. Dafür erhältst du weniger zusätzliche Fähigkeiten und nur alle vier Level einen Bonus.}
 {215}{}{Du verfügst über mehr angeborene Fähigkeiten als andere. Daher sind alle deine Anfangswerte um einen Punkt höher, aber du verlierst am Anfang bei allen Fähigkeiten 10 % und erhältst pro Level 5 Fähigkeitspunkte weniger.}

@@ -2770,7 +2770,7 @@
 {40964}{}{Deine Schießkunst ist 'n Witz. Meine Treffer sind tödlich.}
 {40965}{}{Um mich unterzukriegen, mußt du schon früher aufstehen...}
 {40966}{}{Bist anscheinend blöd UND blind.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Hast mich um ein paar Prozente verfehlt.}
 {40968}{}{Hast wohl Augen aus Beton, du Mistkerl.}
 {40969}{}{Jetzt ist Schluß mit den Zielübungen. Der nächste Schuß trifft deinem Kopf.}
 {40970}{}{Verdammt, ich bin ein Dinosaurier und hau trotzdem noch härter zu als du.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Systemversagen!}
 {44437}{}{Energieversorgung instabil. Aktiviere Notenergie...}
 {44438}{}{Rumpfintegrität beeinträchtigt. Hauptschaltkreise freigelegt.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Energieregler beschädigt Leistungskapazität jetzt bei 75 Prozent.}
 {44460}{}{Rechter Motivator getroffen. Minimaler Schaden.}
 {44461}{}{Rechtes Fahrwerk dejustiert.}
 {44462}{}{Rechtes Antriebsrad beschädigt.}
@@ -3386,13 +3386,13 @@
 {44547}{}{Waffen auf Ziel neu ausrichten...}
 {44548}{}{Angriff ausführen.}
 {44549}{}{Bedrohung wird eliminiert.}
-{44560}{}{Engaging evasive maneuvers.}
+{44560}{}{Fluchtmanöver eingeleitet.}
 {44561}{}{Defensivprotokoll Beta initialisiert.}
 {44562}{}{Zielgenauigkeit des Feindes gering. Neubewertung des Bedrohungsgrades.}
-{44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
+{44563}{}{Gegner verfehlt. Neubewertung der Angriffsfähigkeit des Zielobjekts.}
 {44564}{}{Analyse: Effektivität des Feindes minimal.}
-{44565}{}{Analysis: evasive maneuvers successful.}
-{44566}{}{Unit is undamaged.}
+{44565}{}{Analyse: Defensivprogramm erfolgreich.}
+{44566}{}{Einheit unbeschädigt.}
 {44800}{}{Hab 'nen ziemlich dicken Schädel, aber das hat trotzdem weh getan.}
 {44801}{}{Hab höllische Kopfschmerzen}
 {44802}{}{Umpf. Nicht den Kopf!}

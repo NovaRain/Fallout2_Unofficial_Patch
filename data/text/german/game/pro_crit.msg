@@ -499,4 +499,4 @@
 {48100}{}{Besonderer Gecko}
 {48200}{}{Sensenmann}
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard.}
+{48301}{}{Der Bodyguard des Präsidenten}

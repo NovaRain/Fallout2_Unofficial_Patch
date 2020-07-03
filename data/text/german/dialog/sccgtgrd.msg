@@ -11,4 +11,4 @@
 {110}{}{Ich in im Dienst. Keine Zeit für ein Schwätzchen.}
 {111}{}{Hey, hübsche Schuhe.}
 {112}{}{Kümmer dich um deinen eigenen Kram.}
-{113}{}{There you are, sir. Have a good day.}
+{113}{}{Bitte sehr. Schönen Tag.}
