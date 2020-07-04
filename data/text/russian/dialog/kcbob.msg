@@ -61,7 +61,7 @@
 {283}{}{Нет, спасибо, Боб. Кажется, я знаю все, что мне нужно знать.}
 {290}{}{All sorts of things going on hereabouts lately. We've got brahmin mutilators, walking spirits,
  gigantical rats, and missing people. Some even say the Den's involved.}
-{291}{}{Tell me about the brahmin mutilations.}
+{291}{}{Кто калечит браминов?}
 {292}{}{Расскажи мне о бродячих духах.}
 {293}{}{Гигантские крысы? Ну-ка, с этого момента подробнее.}
 {294}{}{Дыра? Какая такая дыра?}
