@@ -30,7 +30,7 @@
 {280}{}{Schieß los. Was willst du wissen?}
 {281}{}{Fuuuuuuh fuh fuh fuuuuh}
 {282}{}{[Verschwinde]}
-{283}{}{Wer sind Sie?}
+{283}{}{Wer bist du?}
 {284}{}{Was ist das hier für ein Kasino?}
 {285}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {286}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
@@ -61,34 +61,34 @@
 {329}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {335}{}{This is [CN]. Need anything, just ask.}
 {336}{}{Das is [CN]. Steht zumindest draußen auf dem Schild, soweit ich mich erinnern kann. Also, was kann ich für dich tun?}
-{337}{}{Wer sind Sie?}
+{337}{}{Wer bist du?}
 {338}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {339}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {340}{}{[Der Blick des Aufsehers bleibt auf die Spieltische gerichtet.] Was kann ich für dich tun, Kumpel?}
 {341}{}{[Der Blick des Aufsehers bleibt auf die Spieltische gerichtet.] Was kann ich für dich tun, Baby?}
 {342}{}{Fuuuuuuh fuh fuh fuuuuh}
 {343}{}{[Verschwinde]}
-{344}{}{Wer sind Sie?}
+{344}{}{Wer bist du?}
 {345}{}{Das geilste Kasino in der ganzen Stadt...bin da aber nicht ganz objektiv, das geb ich zu. [Lacht.] Sonst noch
  Fragen?}
 {346}{}{Das geilst Kasino in der ganzen Stadt...die besten Tische...aber warum probierst du's nicht einfach selber aus?}
-{347}{}{Wer sind Sie?}
+{347}{}{Wer bist du?}
 {348}{}{Wer ist der Eigentümer?}
 {349}{}{Gut, besten Dank. Entschuldige die Störung. [Ab.].}
 {350}{}{Danke. Braucht ihr für heute Abend eine Tänzerin? Ich wär grade mal frei.}
 {351}{}{Danke, das werd ich.}
 {352}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {353}{}{Wollte nur mal nach dem Rechten sehen. Laß dich nicht stören.}
-{355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{355}{}{Die [CA]-Familie. Sie haben viel Leben in diesen Ort gepumpt, ihn zu einem richtigen Anziehungspunkt gemacht, einem leuchtenden Juwel in New Reno.}
 {356}{}{Die [CA] Familie. Was dagegen einzuwenden? Wenn du nicht zum Spielen hier bist, bist du an der falschen Adresse. Kapiert?}
-{357}{}{Wer sind Sie?}
+{357}{}{Wer bist du?}
 {358}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {359}{}{Ah ja. Besten Dank für die Auskunft.}
 {360}{}{Hey, schau mal, wer da ist! Hey, }
 {361}{}{. Willkommen bei [CN]. Ich steh auf deine Filme.}
 {362}{}{Fuuuuuuh fuh fuh fuuuuh}
 {363}{}{[Verschwinde]}
-{364}{}{Wer sind Sie?}
+{364}{}{Wer bist du?}
 {365}{}{Der da? Der alte McGee? Total durchgeknallt, der Typ...der steht schon seit Jahren an diesem Automat und wartet auf
  den großen Jackpot. Dürfte inzwischen so ziemlich sein ganzes Vermögen an das Ding verfüttert haben. Hat noch nie auch nur
  einen müden Dollar davon wiedergesehen.}

@@ -5,7 +5,7 @@
 {104}{}{Dagi nuh?}
 {105}{}{Du wer?}
 {106}{}{Ich habe gehört, daß du die Milz von jemandem hast.}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Was machst du hier?}
 {109}{}{Nein danke. Das ist alles.}
 {110}{}{Ich muß gestehen, daß ich deine Sprache nicht spreche. Vielleicht solltest du mit Ken Lee

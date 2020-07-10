@@ -5,7 +5,7 @@
 {104}{}{Was willst du?}
 {105}{}{Was kann ich für dich tun?}
 {106}{}{Du?}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Was ist das alles hier?}
 {109}{}{Ich bin auf der Suche nach einigen Vermißten aus meinem Dorf.}
 {110}{}{Ich brauche Benzin.}
@@ -76,12 +76,16 @@
 {175}{}{Jo. Tschüß.}
 {176}{}{Ich bin gespannt auf das Ergebnis. Auf Wiedersehen.  }
 {177}{}{Auf Wiedersehen.}
-{178}{}{Kritisieren? Jeder Narr, der seine Nachforschungen richtig angestellt hat, weiß, daß das U-Boot Wrack das Fundament von Shi-Town ist. Es bringt einfach nichts mit denen zu streiten, die meinen, es gäbe kein U-Boot.}
+{178}{}{Kritisieren? Jeder Narr, der seine Nachforschungen richtig angestellt hat, weiß, daß das U-Boot Wrack
+ das Fundament von Shi-Town ist. Es bringt einfach nichts mit denen zu streiten, die meinen, es gäbe kein U-Boot.}
 {179}{}{Das ist sehr besonnen von dir.}
 {180}{}{Das ist es. Und ich habe täglich mit diesen Leuten zu tun. Leider!}
 {181}{}{Mmh, ich habe noch weitere Fragen.}
 {182}{}{Ja, du Armer. Mach's gut.}
-{183}{}{Du bist ein wahrhaft würdiger Empfänger unseres Benzins. Ich denke, ich kann dich getrost in unsere Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum Kaisercomputer herstellen. Der Kaiser kann unser Benzin dahin leiten, wo du es brauchst.}
+{183}{}{Du bist ein wahrhaft würdiger Empfänger unseres Benzins. Ich denke, ich kann dich getrost in unsere
+ Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist
+ ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum
+ Kaisercomputer herstellen. Der Kaiser kann unser Benzin dahin leiten, wo du es brauchst.}
 {184}{}{Danke.}
 {185}{}{Wachen! Der Feind ist unter uns! Wachen!}
 {186}{}{Wirklich? Sicher möchtest du den Spieß umdrehen? Unsere Hilfe ist dir sicher, wenn du bereit bist, AHS-9 zu töten. }
@@ -126,5 +130,9 @@
 {500}{}{Entferne dich, oder ich rufe die Wachen!}
 {501}{}{Verschwinde! Das ist die vorletzte Warnung.}
 {502}{}{Ich warne dich zum letzten Mal.}
-{1430}{}{Der Kaiser ist neugierigen Augen verborgen und meine Aufgabe ist es, den Kaiser abzuschirmen. Allerdings hast du dich als Freund der Shi erwiesen. Ich denke, ich kann dich getrost in unsere Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum Kaisercomputer herstellen. Ich hoffe, das wird dir von Nutzen sein.}
+{1430}{}{Der Kaiser ist neugierigen Augen verborgen und meine Aufgabe ist es, den Kaiser abzuschirmen.
+ Allerdings hast du dich als Freund der Shi erwiesen. Ich denke, ich kann dich getrost in unsere
+ Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer.
+ Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung
+ zum Kaisercomputer herstellen. Ich hoffe, das wird dir von Nutzen sein.}
 {2001}{}{Ich...verstehe. Also danke, daß du dir die Zeit genommen hast. Ich habe jetzt ein Dorf zu retten.}

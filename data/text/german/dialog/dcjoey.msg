@@ -111,7 +111,8 @@
 {254}{}{Vergiß es. Kann ich dich was fragen?}
 {255}{}{OK, ich kaufe es.}
 {256}{}{Macht nichts. Tschüß.}
-{257}{}{Vault...Vault...Vault 13? Nö, noch nie gehört. Erzähl mir bloß nicht, die ham schon wieder 'ne neue Droge erfunden! Jet ist unschlagbar!}
+{257}{}{Vault...Vault...Vault 13? Nö, noch nie gehört. Erzähl mir bloß nicht, die ham schon
+ wieder 'ne neue Droge erfunden! Jet ist unschlagbar!}
 {258}{}{Nein, du Idiot!}
 {259}{}{Nein, es ist ein Ort. Kann ich dich was anderes fragen?}
 {260}{}{Ja, eine wunderbare Droge.}
