@@ -1,23 +1,23 @@
 {100}{}{Du siehst eine gelangweilte Gestalt in einer Lederrüstung.}
 {101}{}{Du siehst Max, den Karawanenwächter.}
 {102}{}{Du siehst eine staubige, gelangweilte Gestalt in einer Lederrüstung. Dem Brahmin-Gestank
- und dem selbstbewußten Gang nach ist es eindeutig ein Karawanenwächter.}
+ und dem selbstbewussten Gang nach ist es eindeutig ein Karawanenwächter.}
 {103}{}{Kann ich dir irgendwie helfen?}
 {104}{}{Är?}
 {105}{}{Hier arbeiten!}
 {106}{}{Wer bist du?}
 {107}{}{Was kannst du mir über Chad erzählen?}
-{108}{}{Ich hab leider keine Zeit für Idioten. Tut mir leid, aber du mußt dir jemand anderen zum
+{108}{}{Ich hab leider keine Zeit für Idioten. Tut mir leid, aber du musst dir jemand anderen zum
  Spielen suchen.}
 {109}{}{::schnüff::}
 {110}{}{Ich heiße Max. Ich bin ein Karawanenwächter.}
 {111}{}{Was kannst du mir über Chad erzählen?}
-{112}{}{Danke. Tschüß.}
+{112}{}{Danke. Tschüss.}
 {113}{}{Ich mag ihn nicht besonders. Er scheint immer extra Geld aus seinen Karawanenjobs zu bekommen. Das ist wirklich unfair.}
 {114}{}{Nun, Marcus vermutet, dass er etwas von dem Geld abzweigt, das nach Broken Hills gehen sollte.}
-{115}{}{Danke. Tschüß.}
+{115}{}{Danke. Tschüss.}
 {116}{}{Danke. Ich bin froh, dass das endlich ein Ende hat. Du solltest allerdings auf der Hut sein.}
-{117}{}{Tschüß.}
+{117}{}{Tschüss.}
 {118}{}{Der Feind! Stirb!}
 {119}{}{Hoppla.}
 {120}{}{(Senkt seine Stimme und schaut sich um) Das muss es sein. Ich habe selbst einmal gesehen, dass er einen "Teil" des Geldes, das er von der Uranlieferung von Gecko bekommen hat, mitgenommen hat.}
