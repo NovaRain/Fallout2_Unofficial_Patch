@@ -32,7 +32,7 @@
 {125}{}{Was ist ein IFF-Transponder und ein SHS?}
 {126}{}{Was für eine Bohrinsel?}
 {127}{}{Ja. Tschüss.}
-{128}{}{IFF: Identifiziere Freund oder Feind. Das bedeutet, dass dieses Schiff als Freund identifiziert wird und andere Poseidon-Stationen, wie zum Beispiel eine Bohrinsel, nicht auf dich feuern, wenn du in Schußweite kommst. Ach so, und ein SHS ist eine Art Technologie der Enklave, mit der du eine Tür elektronisch öffnen kannst. Wahrscheinlich wirst du einen in einer ihrer Basen finden.}
+{128}{}{IFF: Identifiziere Freund oder Feind. Das bedeutet, dass dieses Schiff als Freund identifiziert wird und andere Poseidon-Stationen, wie zum Beispiel eine Bohrinsel, nicht auf dich feuern, wenn du in Schussweite kommst. Ach so, und ein SHS ist eine Art Technologie der Enklave, mit der du eine Tür elektronisch öffnen kannst. Wahrscheinlich wirst du einen in einer ihrer Basen finden.}
 {129}{}{Woher weißt du das alles?}
 {130}{}{Was für eine Bohrinsel?}
 {131}{}{Danke. Tschüss.}

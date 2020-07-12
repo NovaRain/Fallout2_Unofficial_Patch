@@ -26,7 +26,7 @@
  ein paar gute Nachrichten für deinen alten Freund Ian?}
 {120}{}{Ian?}
 {121}{}{Ja, Ian. Kennst du mich nicht mehr? Ist schon 'n paar Jährchen her. Aber normalerweise
- vergisst man doch seinen besten Kumpel nicht. Naja, bis auf die Sache mit dem Schuß in den
+ vergisst man doch seinen besten Kumpel nicht. Naja, bis auf die Sache mit dem Schuss in den
  Rücken. Du, ich sag's noch mal: Tut mir wirklich leid.}
 {122}{}{Tut mir leid, aber du hältst mich wohl für den Vaultbewohner. Mein Dorf wurde
  von ihm gegründet.}

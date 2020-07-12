@@ -55,7 +55,7 @@
 {154}{}{Nein.}
 {155}{}{Ich habe gehört, dass du es warst, der die Sklaven vor den Toren der Stadt befreit hat. Das war eine gute Tat. Lass mich dir die Hand reichen.}
 {156}{}{Danke.}
-{157}{}{Ganz einfach. Unser Ziel ist, die Sklaverei auszurotten und dafür tun wir alles. Wir haben in der NCR eine Menge einflußreicher Freunde und ihnen verdanken wir, dass die Sklaverei im Süden bereits verboten ist. Jetzt wollen wir das gleiche auch im Norden durchsetzen.}
+{157}{}{Ganz einfach. Unser Ziel ist, die Sklaverei auszurotten und dafür tun wir alles. Wir haben in der NCR eine Menge einflussreicher Freunde und ihnen verdanken wir, dass die Sklaverei im Süden bereits verboten ist. Jetzt wollen wir das gleiche auch im Norden durchsetzen.}
 {158}{}{Ich werde stolz darauf sein, zu den Rangern zu gehören. Nehmt mich bei euch auf.}
 {159}{}{Interessant... Ich werde mir das mal durch den Kopf gehen lassen.}
 {160}{}{Schwörst du, bei jeder sich bietenden Gelegenheit gegen die Sklaverei zu kämpfen und deinen in Not geratenen Rangerkameraden beizustehen?}
@@ -73,7 +73,7 @@
 {172}{}{OK.}
 {173}{}{Wenn das so ist, muss ich dich auffordern, mir aus den Augen zu gehen. Und zwar sofort!}
 {174}{}{OK.}
-{175}{}{Ein Sklavenhändler! Mach, dass du dich hier verpißt, sonst puste ich dir deine Tätowierung mit 'ner Kugel weg!}
+{175}{}{Ein Sklavenhändler! Mach, dass du dich hier verpisst, sonst puste ich dir deine Tätowierung mit 'ner Kugel weg!}
 {176}{}{Sicher.}
 {177}{}{Versuch's!}
 {178}{}{Wir haben in einigen Städten im Norden Agenten und Sympathisanten. Wir werben für unsere Auffassungen und knöpfen uns alle Sklavenhändler vor, deren wir habhaft werden können.}
