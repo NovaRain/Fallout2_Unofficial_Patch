@@ -30,6 +30,17 @@ for i in $(ls data/sound | grep -vi "^music$"); do
   mv data/sound/"$i" "$bdir"/data/sound/
 done
 
+# sfall mods
+mkdir -p data/scripts
+scripts="
+gl_ammomod.int
+gl_highlighting.int
+gl_partycontrol.int
+"
+for f in $scripts; do
+  mv "$f" data/scripts/
+done
+
 # sound path fix
 rm -f camlrt.dll initool.exe
 cp fallout2.cfg "$bdir"/
