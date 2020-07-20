@@ -18,6 +18,14 @@ if [[ ! -f master.dat ]]; then
   echo "File master.dat not found. This is not Fallout 2 directory. Aborting."
   exit 1
 fi
+if [[ -f data/scripts/glkagako.int ]]; then
+  echo "RP installation detected. UPU cannot be installed on RP. Aborting. Re-start with a fresh Fallout 2 installation."
+  exit 1
+fi
+if [[ -f mods/rpu.dat ]]; then
+  echo "RPU installation detected. UPU cannot be installed on RPU. Aborting. Re-start with a fresh Fallout 2 installation."
+  exit 1
+fi
 
 bdir="backup/upu"
 mkdir -p "$bdir"/data/sound
