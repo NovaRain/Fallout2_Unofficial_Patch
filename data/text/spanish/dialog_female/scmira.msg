@@ -7,7 +7,7 @@
 {106}{}{¿Refugio 13?}
 {107}{}{GECK?}
 {108}{}{No me importa. Dame el especial de la casa.}
-{109}{}{Gimme a beer.}
+{109}{}{Dame una cerveza.}
 {110}{}{Información.}
 {111}{}{Estoy buscando trabajo.}
 {112}{}{¡Bien, no eres la única! Es sólo la forma en que me gustan.}
@@ -22,10 +22,10 @@
 {121}{}{Sí.}
 {122}{}{No.}
 {123}{}{¡Sirviendo un Radesperdicio! 10 dólares.}
-{124}{}{De acuerdo.}
+{124}{}{Vale.}
 {125}{}{¿Diez pavos? Demasiado para mí.}
 {126}{}{Claro, un pavo.}
-{127}{}{De acuerdo.}
+{127}{}{Vale.}
 {128}{}{Demasiado dinero para mí.}
 {129}{}{Puedes probar con Merk, en la sala de ahí atrás.}
 {130}{}{Aquí no hay nada para ti, forastera.}

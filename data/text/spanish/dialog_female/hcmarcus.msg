@@ -188,7 +188,7 @@
 {287}{}{Lo tengo. Sólo para que lo sepas.}
 {288}{}{Humph. Algo no ha ido bien.}
 {289}{mcs109}{¿Quieres que vuelva ahora?}
-{290}{}{De acuerdo.}
+{290}{}{Vale.}
 {291}{}{Aún no. Adiós.}
 {292}{mcs110}{¿Qué quieres?}
 {293}{}{¿Cómo te sientes?}
@@ -216,7 +216,7 @@
 {315}{}{No me preguntes. No lo sé. }
 {316}{}{Sí.}
 {317}{}{Eso es.}
-{318}{}{No.}
+{318}{}{¡No!}
 {319}{}{¿Por qué me estás hablando así?}
 {320}{}{No es muy agradable.}
 {321}{}{Gracias. }
@@ -243,7 +243,7 @@
 {342}{}{¿Vas a abrir esto?}
 {343}{}{Puede que quiera volver aquí más tarde.}
 {344}{}{No comprendo.}
-{345}{}{No sé.}
+{345}{}{No tengo ni idea.}
 {346}{}{Ay.}
 {347}{}{Eso realmente duele.}
 {348}{}{Eso tiene que doler…}

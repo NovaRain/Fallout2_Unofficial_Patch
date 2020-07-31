@@ -6,7 +6,7 @@
 {105}{}{¿Qué puedo hacer por ti?}
 {106}{}{¿Tú?}
 {107}{}{¿Quién eres?}
-{108}{}{¿Qué es este lugar?}
+{108}{}{¿Qué lugar es éste?}
 {109}{}{Estoy buscando a unos tribales perdidos.}
 {110}{}{Necesito combustible.}
 {111}{}{Me gustaría hablar con el Emperador.}
@@ -63,7 +63,7 @@
 {162}{}{Me parece bien.}
 {163}{}{Olvídalo.}
 {164}{}{¿Reconsiderarás pasar nuestra prueba?}
-{165}{}{No.}
+{165}{}{¡No!}
 {166}{}{Oh, está bien. Lo haré.}
 {167}{}{¿Tribales perdidos? No he escuchado nada sobre eso. Tal vez el Emperador podría saber algo sobre ellos.}
 {168}{}{Tengo más preguntas.}
