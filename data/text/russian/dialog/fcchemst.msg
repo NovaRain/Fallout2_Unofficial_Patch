@@ -31,7 +31,7 @@
 {130}{}{¬ообще-то именно это мен€ и интересует. ћне нужно топливо дл€ посейдоновского танкера.}
 {131}{}{ƒержу пари, что это заинтересовало бы хабологов. »м нужно топливо.}
 {132}{}{ѕока что нет. Ќо € еще вернусь.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship.  It is the one called Crockett that you will wish to speak with.}
+{133}{}{јх вот как, им нужно топливо? Ќу что ж, они, конечно, сильно раздражают, но и от них есть польза. ћне говорили, что они разработали какую-то систему усовершенствовани€ силовой брони, от чего она становитс€ еще более непробиваемой. ≈сли бы они усовершенствовали дл€ мен€ комплект такой брони, € бы перекачал им топливо. ѕолагаю, это дл€ их игрушечного космического корабл€.  Ќайдите у них человека по имени  рокетт и поговорите с ним.}
 {134}{}{я так и сделаю.}
 {135}{}{Ќичего не могу обещать.}
 {136}{}{” мен€ уже есть такой комплект.}
