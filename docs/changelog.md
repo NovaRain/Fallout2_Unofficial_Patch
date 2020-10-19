@@ -5,6 +5,7 @@ This file lists changes for UPU only. See original UP changelog [here](up-change
 All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 17](#version-17)
 - [Version 16](#version-16)
 - [Version 15](#version-15)
 - [Version 14](#version-14)
@@ -18,6 +19,14 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 17
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/54) Slags trying to use non-existent animation, let them 'pick up' stuff from the ground instead.
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/55) formatting of some strings in dialog with Big Jesus.
+- [Added](https://forums.bgforge.net/viewtopic.php?f=34&p=760) sfall translation files to releases.
+- Default sfall scripts are [added](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/59) to releases as well.
+- More sanity checks [added](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/60) for installer.
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/63) crash in Broken Hills mines ([sfall](https://github.com/phobos2077/sfall/issues/337) bug).
 
 ### Version 16
 Fixed Linux install script not allowing to proceed even after the directory was lowercased (introduced in v15).
