@@ -5,6 +5,7 @@ This file lists changes for UPU only. See original UP changelog [here](up-change
 All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 18](#version-18)
 - [Version 17](#version-17)
 - [Version 16](#version-16)
 - [Version 15](#version-15)
@@ -19,6 +20,10 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 18
+- Fixed automatic installer appending extra dir when selecting game directory.
+- Updated sfall to 4.2.8.1
 
 ### Version 17
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/54) Slags trying to use non-existent animation, let them 'pick up' stuff from the ground instead.
