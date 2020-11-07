@@ -54,6 +54,7 @@ For various QoL features, check out these mods:
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
 - [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
+- [Inventory filter](https://nma-fallout.com/threads/inventory-filter.214445/)
 
 ### Reporting issues
 If you've found an issue:
