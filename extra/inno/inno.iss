@@ -14,7 +14,7 @@ AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Unofficial_Patch
 DefaultDirName=C:\Games\Fallout2
-AppendDefaultDirName=False
+AppendDefaultDirName=no
 DisableProgramGroupPage=yes
 OutputBaseFilename={#basename}_{#vversion}
 Compression=lzma
