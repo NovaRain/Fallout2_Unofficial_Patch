@@ -46,7 +46,6 @@ done
 # sfall mods
 mkdir -p data/scripts
 scripts="
-gl_ammomod.int
 gl_highlighting.int
 gl_partycontrol.int
 "
