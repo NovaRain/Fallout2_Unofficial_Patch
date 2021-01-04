@@ -33,7 +33,6 @@ after_success:
   - wineserver -k
 
 script:
-  - ./extra/check_headers.sh
   - ./extra/buildall.sh
   - ./extra/publish.sh
 
