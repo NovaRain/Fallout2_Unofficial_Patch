@@ -1448,3 +1448,4 @@ procedure Super_Set_Lockpick_Lock begin
 
    call Lock_Door;
 end
+#include "../headers/doors2.h"

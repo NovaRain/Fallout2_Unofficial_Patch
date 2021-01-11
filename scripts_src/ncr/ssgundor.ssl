@@ -1490,3 +1490,4 @@ procedure checkPartyMembers begin
    CHECKMEMBER(Robobrain_In_Party, Robobrain_Ptr)
    return 0;
 end
+#include "../headers/doors2.h"
