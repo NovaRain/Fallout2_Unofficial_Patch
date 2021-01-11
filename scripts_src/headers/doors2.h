@@ -6,18 +6,16 @@
 
 procedure Damage_Critter begin
    variable Trap_Damage;
-   script_overrides; //added by killap
+
    Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
 
    if (source_obj == dude_obj) then begin
-       script_overrides; //added by killap
        critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
 /* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
        display_msg(mstr(166)+Trap_Damage+mstr(167));
    end
 
    else begin
-       script_overrides; //added by killap
        critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
 /* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
        display_msg(obj_name(source_obj)+mstr(168)+Trap_Damage+mstr(169));
