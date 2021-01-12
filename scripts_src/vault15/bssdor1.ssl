@@ -1461,6 +1461,7 @@ end
    was taken, and remove the trap.
 **************************************************************************************/
 
+#define custom_Damage_Critter
 procedure Damage_Critter begin
    variable Trap_Damage;
 
@@ -1499,3 +1500,5 @@ procedure Super_Set_Lockpick_Lock begin
 
    call Lock_Door;
 end
+
+#include "../headers/doors2.h"

@@ -7,7 +7,7 @@
    be called to deal damage to the critter, display a message stating how much damage
    was taken, and remove the trap.
 **************************************************************************************/
-
+#ifndef custom_Damage_Critter
 procedure Damage_Critter begin
    variable Trap_Damage;
 
@@ -28,3 +28,4 @@ procedure Damage_Critter begin
 /* The trap is now disarmed and should never go off again.                           */
    set_local_var(LVAR_Trapped, STATE_INACTIVE);
 end
+#endif
