@@ -2,6 +2,7 @@
    #define box_mstr(x)         message_str(SCRIPT_CONTAINR,x)
 #endif
 
+
 /**************************************************************************************
    Should the trap go off for any reason by critter influence, then this procedure will
    be called to deal damage to the critter, display a message stating how much damage
@@ -28,6 +29,7 @@ procedure Damage_Critter begin
    set_local_var(LVAR_Trapped, STATE_INACTIVE);
 end
 
+
 /***************************************************************************
    This procedure is used should the player try to pry the door open using a
    crowbar or some similar instrument.
@@ -42,11 +44,11 @@ procedure Pry_Door begin
        obj_unlock(self_obj);
 
        if (source_obj == dude_obj) then begin
-           display_msg(mstr(176));
+           display_msg(box_mstr(176));
        end
 
        else begin
-           display_msg(mstr(181));
+           display_msg(box_mstr(181));
        end
    end
 
@@ -55,29 +57,29 @@ procedure Pry_Door begin
 
        if (source_obj == dude_obj) then begin
            if (Crowbar_Strain == 1) then begin
-               display_msg(mstr(177));
+               display_msg(box_mstr(177));
            end
            else begin
-               display_msg(mstr(178)+Crowbar_Strain+mstr(179));
+               display_msg(box_mstr(178)+Crowbar_Strain+box_mstr(179));
            end
        end
 
        else begin
            if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
-                   display_msg(mstr(182));
+                   display_msg(box_mstr(182));
                end
                else begin
-                   display_msg(mstr(183)+Crowbar_Strain+mstr(184));
+                   display_msg(box_mstr(183)+Crowbar_Strain+box_mstr(184));
                end
            end
 
            else begin
                if (Crowbar_Strain == 1) then begin
-                   display_msg(mstr(186));
+                   display_msg(box_mstr(186));
                end
                else begin
-                   display_msg(mstr(187)+Crowbar_Strain+mstr(188));
+                   display_msg(box_mstr(187)+Crowbar_Strain+box_mstr(188));
                end
            end
        end
@@ -85,11 +87,11 @@ procedure Pry_Door begin
 
    else begin
        if (source_obj == dude_obj) then begin
-           display_msg(mstr(180));
+           display_msg(box_mstr(180));
        end
 
        else begin
-           display_msg(mstr(185));
+           display_msg(box_mstr(185));
        end
    end
 end
