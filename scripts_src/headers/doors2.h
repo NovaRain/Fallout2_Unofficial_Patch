@@ -1,8 +1,12 @@
 /* Some common procedures for doors.
     1. They can be overriden on per scrpt basis using custom_X defines.
     2. ziwoddor has its own set, because it uses obj_locked instead of LVAR_Locked.
+    3 This MUST be included at the END of the script so that custom procedures work.
 */
+#ifndef DOORS2_H
+#define DOORS2_H
 
+#include "../headers/doors.h" // So that scripts without custom procedures don't need to include doors.h individually
 
 #ifndef door_mstr
    #define door_mstr(x)                    message_str(SCRIPT_DOOR, x)
@@ -115,47 +119,7 @@ procedure use_obj_on_p_proc begin
 
    Tool:=obj_pid(obj_being_used_with);
 
-   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-       if (Tool == PID_LOCKPICKS) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-           end
-           else begin
-               call Set_Lockpick_Lock;
-           end
-       end
-       else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-           end
-           else begin
-               call Super_Set_Lockpick_Lock;
-           end
-       end
-   end
-
-   else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
-       if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-           end
-           else begin
-               call Set_Lockpick_Lock;
-           end
-       end
-       else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-           end
-           else begin
-               call Super_Set_Lockpick_Lock;
-           end
-       end
-   end
+   full_lockpick_block
 
    else if (Tool == PID_CROWBAR) then begin
        script_overrides; //added by killap
@@ -169,3 +133,5 @@ procedure use_obj_on_p_proc begin
 
 end
 #endif
+
+#endif // DOORS2_H

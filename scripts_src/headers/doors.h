@@ -23,4 +23,44 @@ procedure trap_search_result(variable found_trap, variable who) begin
    end
 end
 
+#define full_lockpick_block \
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin \
+      if (Tool == PID_LOCKPICKS) then begin \
+         script_overrides; \
+         if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin \
+            call Lockpick_Lock; \
+         end else begin \
+            call Set_Lockpick_Lock; \
+         end \
+      end \
+      else if (Tool == PID_EXP_LOCKPICK_SET) then begin \
+         script_overrides; \
+         if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin \
+            call Super_Lockpick_Lock; \
+         end else begin \
+            call Super_Set_Lockpick_Lock; \
+         end \
+      end \
+   end \
+   \
+   else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin \
+      if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin \
+         script_overrides; \
+         if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin \
+            call Lockpick_Lock; \
+         end else begin \
+            call Set_Lockpick_Lock; \
+         end \
+      end \
+      else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin \
+         script_overrides; \
+         if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin \
+            call Super_Lockpick_Lock; \
+         end else begin \
+            call Super_Set_Lockpick_Lock; \
+         end \
+      end \
+   end
+
+
 #endif // DOORS_H

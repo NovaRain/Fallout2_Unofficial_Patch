@@ -302,16 +302,6 @@ procedure use_skill_on_p_proc begin
 
 end
 
-
-/**********************************************************************************
-   This is called when the player is using an object on the door. When the check is
-   made to find out what is being used, obj_pid(obj_being_used_with) will need to
-   be checked against a prototype.
-**********************************************************************************/
-
-
-
-
 /******************************************************************************************
    Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
    or any other forms of damage), this procedure will be called to destroy the door and
