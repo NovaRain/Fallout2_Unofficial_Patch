@@ -34,6 +34,7 @@ end
    This procedure is used should the player try to pry the door open using a
    crowbar or some similar instrument.
 ***************************************************************************/
+#ifndef custom_Pry_Door
 procedure Pry_Door begin
    variable Stat_Roll;
 
@@ -95,7 +96,7 @@ procedure Pry_Door begin
        end
    end
 end
-
+#endif
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is

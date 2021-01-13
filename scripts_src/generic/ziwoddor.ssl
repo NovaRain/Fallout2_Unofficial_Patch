@@ -1391,7 +1391,7 @@ end
    This procedure is used should the player try to pry the door open using a
    crowbar or some similar instrument.
 ***************************************************************************/
-
+#define custom_Pry_Door
 procedure Pry_Door begin
    variable Stat_Roll;
    script_overrides;
