@@ -1411,7 +1411,7 @@ end
 procedure Super_Set_Lockpick_Lock
 begin
   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Exd_Lockpick_Bonus);
-
   call Lock_Door;
 end
+
 #include "../headers/doors2.h"

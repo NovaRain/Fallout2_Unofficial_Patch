@@ -1,3 +1,9 @@
+/* Some common procedures for doors.
+    1. They can be overriden on per scrpt basis using custom_X defines.
+    2. ziwoddor has its own set, because it uses obj_locked instead of LVAR_Locked.
+*/
+
+
 #ifndef door_mstr
    #define door_mstr(x)                    message_str(SCRIPT_DOOR, x)
 #endif
