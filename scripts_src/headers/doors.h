@@ -59,14 +59,16 @@ end
       end \
    end \
 
-#define full_lockpick_block \
-   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin \
-      std_lockpick_inner_block \
-   end \
-   \
+#define elec_lockpick_outer_block \
    else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin \
       elec_lockpick_inner_block \
    end
 
+
+#define full_lockpick_block \
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin \
+      std_lockpick_inner_block \
+   end \
+   elec_lockpick_outer_block
 
 #endif // DOORS_H
