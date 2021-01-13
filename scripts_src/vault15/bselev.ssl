@@ -28,6 +28,7 @@
 #define NAME                      SCRIPT_BSELEV
 
 #include "../headers/command.h"
+#include "../headers/doors.h"
 #include "../headers/v15.h"
 
 /* Defines and Macros */
@@ -340,23 +341,7 @@ procedure use_obj_on_p_proc begin
       reg_anim_end();
    end
 
-   else if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-      script_overrides; //added by killap
-      if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-         call Lockpick_Lock;
-      end else begin
-         call Set_Lockpick_Lock;
-      end
-   end else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-      script_overrides; //added by killap
-      if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-         call Super_Lockpick_Lock;
-      end
-      else begin
-         call Super_Set_Lockpick_Lock;
-      end
-   end
-
+   else elec_lockpick_inner_block
 end
 
 

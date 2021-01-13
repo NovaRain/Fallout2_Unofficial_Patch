@@ -28,6 +28,7 @@
 #define NAME                    SCRIPT_DOOR
 
 #include "../headers/command.h"
+#include "../headers/doors.h"
 
 /* Defines and Macros */
 
@@ -344,48 +345,7 @@ procedure use_obj_on_p_proc begin
        set_map_var(MVAR_Using_Locked_Door,3);
    end
 
-   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-       if (Tool == PID_LOCKPICKS) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-           end
-           else begin
-               call Set_Lockpick_Lock;
-           end
-       end
-       else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-           end
-           else begin
-               call Super_Set_Lockpick_Lock;
-           end
-       end
-   end
-
-   else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
-       if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-           end
-           else begin
-               call Set_Lockpick_Lock;
-           end
-       end
-       else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-           end
-           else begin
-               call Super_Set_Lockpick_Lock;
-           end
-       end
-   end
-
+   full_lockpick_block
    else if (Tool == PID_CROWBAR) then begin
        script_overrides; //added by killap
        call Pry_Door;

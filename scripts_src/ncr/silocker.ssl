@@ -26,6 +26,7 @@
 #define NAME                    SCRIPT_CONTAINR
 
 #include "../headers/command.h"
+#include "../headers/containers.h"
 
 /* Defines and Macros */
 
@@ -301,52 +302,7 @@ procedure use_obj_on_p_proc begin
    i_locker_tamper += 1;
    Tool:=obj_pid(obj_being_used_with);
 
-   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-       if (Tool == PID_LOCKPICKS) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-           end
-           else begin
-               call Set_Lockpick_Lock;
-           end
-       end
-       //added by killap
-       else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-            script_overrides; //added by killap
-            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-            end
-            else begin
-               call Super_Set_Lockpick_Lock;
-            end
-       end
-       //end added by killap
-   end
-
-   else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
-       if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-           end
-           else begin
-               call Set_Lockpick_Lock;
-           end
-       end
-       //added by killap
-       else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-           script_overrides; //added by killap
-           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-           end
-           else begin
-               call Super_Set_Lockpick_Lock;
-           end
-       end
-       //end added by killap
-   end
-
+   full_lockpick_block
    else if (Tool == PID_CROWBAR) then begin
        script_overrides; //added by killap
        call Pry_Door;
@@ -1374,4 +1330,4 @@ end
 
 
 
-#include "../headers/containers.h"
+#include "../headers/containers2.h"

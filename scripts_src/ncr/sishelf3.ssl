@@ -26,6 +26,7 @@
 #define NAME                    SCRIPT_SISHELF3
 
 #include "../headers/command.h"
+#include "../headers/containers.h"
 
 /* Defines and Macros */
 
@@ -1222,4 +1223,4 @@ end
 
 
 
-#include "../headers/containers.h"
+#include "../headers/containers2.h"

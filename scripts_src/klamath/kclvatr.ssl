@@ -26,6 +26,7 @@
 #define NAME                    SCRIPT_DOOR
 
 #include "../headers/command.h"
+#include "../headers/doors.h"
 
 /* Defines and Macros */
 
@@ -224,25 +225,8 @@ procedure use_obj_on_p_proc begin
 
       Tool:=obj_pid(obj_being_used_with);
 
+      elec_lockpick_inner_block
 
-      if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-          script_overrides; //added by killap
-          if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-              call Lockpick_Lock;
-          end
-          else begin
-              call Set_Lockpick_Lock;
-          end
-      end
-      else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-          script_overrides; //added by killap
-          if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-              call Super_Lockpick_Lock;
-          end
-          else begin
-              call Super_Set_Lockpick_Lock;
-          end
-      end
       else if (Tool == PID_CROWBAR) then begin
          script_overrides; //added by killap
          call Pry_Door;

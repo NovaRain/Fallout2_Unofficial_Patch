@@ -27,6 +27,7 @@
 #define NAME                    SCRIPT_SISLVDOR
 
 #include "../headers/command.h"
+#include "../headers/doors.h"
 
 #include "../headers/ncr.h"
 #include "../headers/ncrent.h"

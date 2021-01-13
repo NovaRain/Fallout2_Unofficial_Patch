@@ -1,23 +1,21 @@
-/* Some common procedures for doors.
+/* Some common procedures for containers.
     1. They can be overriden on per scrpt basis using custom_X defines.
-    2. ziwoddor has its own set, because it uses obj_locked instead of LVAR_Locked.
-    3. This MUST be included at the END of the script so that custom procedures work.
+    2. This MUST be included at the END of the script so that custom procedures work.
 */
-#ifndef DOORS2_H
-#define DOORS2_H
 
-#include "../headers/doors.h" // So that scripts without custom procedures don't need to include doors.h individually
+#ifndef CONTAINERS2_H
+#define CONTAINERS2_H
 
-#ifndef door_mstr
-   #define door_mstr(x)                    message_str(SCRIPT_DOOR, x)
+#ifndef box_mstr
+   #define box_mstr(x)         message_str(SCRIPT_CONTAINR,x)
 #endif
+
 
 /**************************************************************************************
    Should the trap go off for any reason by critter influence, then this procedure will
    be called to deal damage to the critter, display a message stating how much damage
    was taken, and remove the trap.
 **************************************************************************************/
-#ifndef custom_Damage_Critter
 procedure Damage_Critter begin
    variable Trap_Damage;
 
@@ -26,19 +24,19 @@ procedure Damage_Critter begin
    if (source_obj == dude_obj) then begin
        critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
 /* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
-       display_msg(door_mstr(166)+Trap_Damage+door_mstr(167));
+       display_msg(box_mstr(166)+Trap_Damage+box_mstr(167));
    end
 
    else begin
        critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
 /* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
-       display_msg(obj_name(source_obj)+door_mstr(168)+Trap_Damage+door_mstr(169));
+       display_msg(obj_name(source_obj)+box_mstr(168)+Trap_Damage+box_mstr(169));
    end
 
 /* The trap is now disarmed and should never go off again.                           */
    set_local_var(LVAR_Trapped, STATE_INACTIVE);
 end
-#endif
+
 
 /***************************************************************************
    This procedure is used should the player try to pry the door open using a
@@ -55,11 +53,11 @@ procedure Pry_Door begin
        obj_unlock(self_obj);
 
        if (source_obj == dude_obj) then begin
-           display_msg(door_mstr(176));
+           display_msg(box_mstr(176));
        end
 
        else begin
-           display_msg(door_mstr(181));
+           display_msg(box_mstr(181));
        end
    end
 
@@ -68,29 +66,29 @@ procedure Pry_Door begin
 
        if (source_obj == dude_obj) then begin
            if (Crowbar_Strain == 1) then begin
-               display_msg(door_mstr(177));
+               display_msg(box_mstr(177));
            end
            else begin
-               display_msg(door_mstr(178)+Crowbar_Strain+door_mstr(179));
+               display_msg(box_mstr(178)+Crowbar_Strain+box_mstr(179));
            end
        end
 
        else begin
            if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
-                   display_msg(door_mstr(182));
+                   display_msg(box_mstr(182));
                end
                else begin
-                   display_msg(door_mstr(183)+Crowbar_Strain+door_mstr(184));
+                   display_msg(box_mstr(183)+Crowbar_Strain+box_mstr(184));
                end
            end
 
            else begin
                if (Crowbar_Strain == 1) then begin
-                   display_msg(door_mstr(186));
+                   display_msg(box_mstr(186));
                end
                else begin
-                   display_msg(door_mstr(187)+Crowbar_Strain+door_mstr(188));
+                   display_msg(box_mstr(187)+Crowbar_Strain+box_mstr(188));
                end
            end
        end
@@ -98,11 +96,11 @@ procedure Pry_Door begin
 
    else begin
        if (source_obj == dude_obj) then begin
-           display_msg(door_mstr(180));
+           display_msg(box_mstr(180));
        end
 
        else begin
-           display_msg(door_mstr(185));
+           display_msg(box_mstr(185));
        end
    end
 end
@@ -119,7 +117,47 @@ procedure use_obj_on_p_proc begin
 
    Tool:=obj_pid(obj_being_used_with);
 
-   full_lockpick_block
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
+       if (Tool == PID_LOCKPICKS) then begin
+           script_overrides; //added by killap
+           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+               call Lockpick_Lock;
+           end
+           else begin
+               call Set_Lockpick_Lock;
+           end
+       end
+       else if (Tool == PID_EXP_LOCKPICK_SET) then begin
+           script_overrides; //added by killap
+           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+               call Super_Lockpick_Lock;
+           end
+           else begin
+               call Super_Set_Lockpick_Lock;
+           end
+       end
+   end
+
+   else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
+       if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
+           script_overrides; //added by killap
+           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+               call Lockpick_Lock;
+           end
+           else begin
+               call Set_Lockpick_Lock;
+           end
+       end
+       else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
+           script_overrides; //added by killap
+           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+               call Super_Lockpick_Lock;
+           end
+           else begin
+               call Super_Set_Lockpick_Lock;
+           end
+       end
+   end
 
    else if (Tool == PID_CROWBAR) then begin
        script_overrides; //added by killap
@@ -134,4 +172,4 @@ procedure use_obj_on_p_proc begin
 end
 #endif
 
-#endif // DOORS2_H
+#endif // CONTAINERS2_H

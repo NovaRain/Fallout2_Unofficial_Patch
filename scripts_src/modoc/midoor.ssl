@@ -369,35 +369,8 @@ procedure use_obj_on_p_proc begin
    if (Tool != -1) then begin
       Tool:=obj_pid(obj_being_used_with);
 
-      if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-         if (Tool == PID_LOCKPICKS) then begin
-            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-            end else begin
-               call Set_Lockpick_Lock;
-            end
-         end else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-            end else begin
-               call Super_Set_Lockpick_Lock;
-            end
-         end
-      end else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
-         if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Lockpick_Lock;
-            end else begin
-               call Set_Lockpick_Lock;
-            end
-         end else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               call Super_Lockpick_Lock;
-            end else begin
-               call Super_Set_Lockpick_Lock;
-            end
-         end
-      end else if (Tool == PID_CROWBAR) then begin
+      full_lockpick_block
+      else if (Tool == PID_CROWBAR) then begin
          call Pry_Door;
       end else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
          call Set_Trap;

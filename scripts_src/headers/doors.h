@@ -41,6 +41,11 @@ end
       end \
    end
 
+#define std_lockpick_outer_block \
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin \
+      std_lockpick_inner_block \
+   end
+
 #define elec_lockpick_inner_block \
    if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin \
       script_overrides; \
@@ -66,9 +71,7 @@ end
 
 
 #define full_lockpick_block \
-   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin \
-      std_lockpick_inner_block \
-   end \
+   std_lockpick_outer_block \
    elec_lockpick_outer_block
 
 #endif // DOORS_H
