@@ -293,6 +293,7 @@ end
    be checked against a prototype.
 **********************************************************************************/
 
+#define custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
