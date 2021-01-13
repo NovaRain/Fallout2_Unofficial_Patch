@@ -1224,13 +1224,5 @@ procedure Lock_Door begin
 end
 
 
-/***************************************************************************
-   This procedure is used should the player try to pry the door open using a
-   crowbar or some similar instrument.
-***************************************************************************/
-
-
-
-
-
+#define box_mstr(x) message_str(NAME,x) // custom message file for this box
 #include "../headers/containers2.h"
