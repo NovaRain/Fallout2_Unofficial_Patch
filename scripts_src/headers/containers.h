@@ -102,6 +102,7 @@ end
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
    be checked against a prototype.
 **********************************************************************************/
+#ifndef custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
@@ -160,3 +161,4 @@ procedure use_obj_on_p_proc begin
    end
 
 end
+#endif
