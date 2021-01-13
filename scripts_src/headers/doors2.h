@@ -45,11 +45,11 @@ procedure Pry_Door begin
        obj_unlock(self_obj);
 
        if (source_obj == dude_obj) then begin
-           display_msg(mstr(176));
+           display_msg(door_mstr(176));
        end
 
        else begin
-           display_msg(mstr(181));
+           display_msg(door_mstr(181));
        end
    end
 
@@ -58,29 +58,29 @@ procedure Pry_Door begin
 
        if (source_obj == dude_obj) then begin
            if (Crowbar_Strain == 1) then begin
-               display_msg(mstr(177));
+               display_msg(door_mstr(177));
            end
            else begin
-               display_msg(mstr(178)+Crowbar_Strain+mstr(179));
+               display_msg(door_mstr(178)+Crowbar_Strain+door_mstr(179));
            end
        end
 
        else begin
            if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
-                   display_msg(mstr(182));
+                   display_msg(door_mstr(182));
                end
                else begin
-                   display_msg(mstr(183)+Crowbar_Strain+mstr(184));
+                   display_msg(door_mstr(183)+Crowbar_Strain+door_mstr(184));
                end
            end
 
            else begin
                if (Crowbar_Strain == 1) then begin
-                   display_msg(mstr(186));
+                   display_msg(door_mstr(186));
                end
                else begin
-                   display_msg(mstr(187)+Crowbar_Strain+mstr(188));
+                   display_msg(door_mstr(187)+Crowbar_Strain+door_mstr(188));
                end
            end
        end
@@ -88,11 +88,11 @@ procedure Pry_Door begin
 
    else begin
        if (source_obj == dude_obj) then begin
-           display_msg(mstr(180));
+           display_msg(door_mstr(180));
        end
 
        else begin
-           display_msg(mstr(185));
+           display_msg(door_mstr(185));
        end
    end
 end
