@@ -324,5 +324,9 @@ procedure use_obj_on_p_proc begin
 end
 #endif
 
+#ifndef custom_start
+procedure start begin end
+#endif
+
 
 #endif // DOORS_H

@@ -48,7 +48,7 @@ procedure checkPartyMembers;
 
 
 
-
+#define custom_start
 #include "../headers/doors.h"
 
 import variable i_cell_door_obj;

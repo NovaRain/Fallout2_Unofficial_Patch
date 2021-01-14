@@ -54,7 +54,7 @@ procedure Destroy_P_Proc;
    prepended by LVAR_
 */
 
-
+#define custom_start
 #define custom_use_obj_on_p_proc
 #include "../headers/doors.h"
 

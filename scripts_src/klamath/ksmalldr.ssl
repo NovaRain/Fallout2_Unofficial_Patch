@@ -56,8 +56,6 @@ procedure key_lock_door;
 
 
 
-procedure start begin
-end
 
 /********************************************************************
    Any time that a critter tries to use this door will call this

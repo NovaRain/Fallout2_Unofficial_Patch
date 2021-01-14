@@ -62,8 +62,6 @@ variable last_source_obj;
 
 
 
-procedure start begin
-end
 
 procedure timed_event_p_proc begin
    if (obj_is_open(self_obj)) then begin

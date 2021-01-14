@@ -57,7 +57,7 @@ procedure key_unlock_door;
 procedure key_lock_door;
 
 
-
+#define custom_start
 #define custom_use_obj_on_p_proc
 #include "../headers/doors.h"
 
