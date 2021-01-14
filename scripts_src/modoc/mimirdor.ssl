@@ -68,8 +68,6 @@ procedure Destroy_P_Proc;
    Local variables which do not need to be saved between map changes.
 */
 
-variable Locks_Roll;
-variable Traps_Roll;
 variable last_source_obj;
 import variable cage_door_obj;
 import variable coup_door_obj;

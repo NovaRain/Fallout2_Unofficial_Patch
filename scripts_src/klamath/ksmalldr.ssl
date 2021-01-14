@@ -61,8 +61,6 @@ procedure key_lock_door;
    Local variables which do not need to be saved between map changes.
 *******************************************************************/
 
-variable Locks_Roll;
-variable Traps_Roll;
 
 
 /*******************************************************************

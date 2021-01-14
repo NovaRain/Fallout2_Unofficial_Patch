@@ -92,8 +92,6 @@ import variable slvdor_g4d3;
    Local variables which do not need to be saved between map changes.
 *******************************************************************/
 
-variable Locks_Roll;
-variable Traps_Roll;
 
 
 /*******************************************************************

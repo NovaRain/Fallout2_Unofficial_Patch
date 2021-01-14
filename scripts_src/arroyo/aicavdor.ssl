@@ -67,8 +67,6 @@
    Local variables which do not need to be saved between map changes.
 *******************************************************************/
 
-variable Locks_Roll;
-variable Traps_Roll;
 variable last_source_obj;
 
 

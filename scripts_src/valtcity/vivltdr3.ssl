@@ -78,8 +78,6 @@
 *******************************************************************/
 
 import variable vault_city_martin_obj; // Seraph's Code
-variable Locks_Roll;
-variable Traps_Roll;
 variable last_source_obj;
 
 

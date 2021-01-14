@@ -112,14 +112,12 @@ procedure Pry_Door;
 procedure Damage_Critter;
 procedure Super_Lockpick_Lock;
 procedure Super_Set_Lockpick_Lock;
-
-
+procedure trap_search_result(variable found_trap, variable who);
 
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_
 *****************************************************************/
-
 #define LVAR_Locked                     (0)
 #define LVAR_Trapped                    (1)
 #define LVAR_Found_Trap                 (2)
@@ -128,8 +126,13 @@ procedure Super_Set_Lockpick_Lock;
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+variable Locks_Roll;
+variable Traps_Roll;
 
-procedure trap_search_result(variable found_trap, variable who);
+
 procedure trap_search_result(variable found_trap, variable who) begin
    if (found_trap == 0) then begin // can't see trap
       if (who == dude_obj) then begin
