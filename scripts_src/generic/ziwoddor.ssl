@@ -124,7 +124,7 @@ procedure Damage_Critter;
 
 #define custom_use_obj_on_p_proc
 #define custom_Pry_Door
-#include "../headers/doors.h"
+#include "../headers/doors2.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
