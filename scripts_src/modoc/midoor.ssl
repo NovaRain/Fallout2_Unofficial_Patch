@@ -24,7 +24,6 @@
 #define SCRIPT_REALNAME "midoor"
 #include "../headers/modoc.h"
 
-/* Defines and Macros */
 
 
 /* Sets whether the door is locked or trapped or closing */

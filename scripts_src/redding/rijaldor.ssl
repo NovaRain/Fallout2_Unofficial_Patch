@@ -23,7 +23,6 @@
 /* Include Files */
 #define SCRIPT_REALNAME "rijaldor"
 
-/* Defines and Macros */
 
 
 /* Sets whether the door is locked or trapped or closing */
@@ -56,39 +55,18 @@
 
 
 
-/*****************************************************************
-   Local Variables which are saved. All Local Variables need to be
-   prepended by LVAR_
-*****************************************************************/
 
 
 #include "../headers/doors.h"
 
-/*******************************************************************
-   Imported variables from the Map scripts. These should only be
-   pointers and variables that need not be saved. If a variable
-   Needs to be saved, make it a map variable (MVAR_)
-*******************************************************************/
 
 
 
-/*******************************************************************
-   Local variables which do not need to be saved between map changes.
-*******************************************************************/
 
 variable last_source_obj;
 
 
-/*******************************************************************
-*******                         PROCEDURES                   *******
-*******************************************************************/
 
-
-/*******************************************************************
-   The start procedure is the first procedure called when the map is
-   first entered. Any initial information that needs to be set up
-   should be placed in here.
-*******************************************************************/
 
 procedure start begin
 end
