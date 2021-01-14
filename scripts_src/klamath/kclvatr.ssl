@@ -87,13 +87,6 @@ procedure Super_Set_Lockpick_Lock;
    prepended by LVAR_
 *****************************************************************/
 
-#define LVAR_Locked                     (0)
-#define LVAR_Trapped                    (1)
-#define LVAR_Found_Trap                 (2)
-#define LVAR_Set_Door_Status            (3)
-#define LVAR_Explosion_Attempts         (4)
-#define LVAR_Gave_Locks_XP              (5)
-#define LVAR_Gave_Traps_XP              (6)
 
 #define custom_Pry_Door
 #define custom_use_obj_on_p_proc

@@ -22,6 +22,20 @@
 #define door_mstr(x) (message_str(SCRIPT_DOOR,x))
 
 
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Locked                     (0)
+#define LVAR_Trapped                    (1)
+#define LVAR_Found_Trap                 (2)
+#define LVAR_Set_Door_Status            (3)
+#define LVAR_Explosion_Attempts         (4)
+#define LVAR_Gave_Locks_XP              (5)
+#define LVAR_Gave_Traps_XP              (6)
+
+
 procedure trap_search_result(variable found_trap, variable who);
 procedure trap_search_result(variable found_trap, variable who) begin
    if (found_trap == 0) then begin // can't see trap
