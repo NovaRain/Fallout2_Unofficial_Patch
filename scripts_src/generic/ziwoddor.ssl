@@ -27,7 +27,6 @@
 #define NAME                    SCRIPT_DOOR
 
 #include "../headers/command.h"
-#include "../headers/doors.h"
 
 /* Defines and Macros */
 
@@ -123,6 +122,9 @@ procedure Damage_Critter;
 #define LVAR_Gave_Locks_XP              (4)
 #define LVAR_Gave_Traps_XP              (5)
 
+#define custom_use_obj_on_p_proc
+#define custom_Pry_Door
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -318,7 +320,6 @@ end
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
    be checked against a prototype.
 **********************************************************************************/
-#define custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
@@ -1392,7 +1393,6 @@ end
    This procedure is used should the player try to pry the door open using a
    crowbar or some similar instrument.
 ***************************************************************************/
-#define custom_Pry_Door
 procedure Pry_Door begin
    variable Stat_Roll;
    script_overrides;
@@ -1455,4 +1455,3 @@ procedure Pry_Door begin
    end
 end
 
-#include "../headers/doors2.h"

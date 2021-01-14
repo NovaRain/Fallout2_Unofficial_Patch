@@ -26,7 +26,6 @@
 #define NAME                    SCRIPT_DOOR
 
 #include "../headers/command.h"
-#include "../headers/doors.h"
 
 /* Defines and Macros */
 
@@ -112,6 +111,8 @@ procedure Super_Set_Lockpick_Lock; //added by killap
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+#define custom_use_obj_on_p_proc
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -280,7 +281,6 @@ end
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
    be checked against a prototype.
 **********************************************************************************/
-#define custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
@@ -1341,4 +1341,3 @@ end
 
 
 
-#include "../headers/doors2.h"

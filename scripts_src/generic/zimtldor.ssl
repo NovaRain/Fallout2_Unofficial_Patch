@@ -124,6 +124,7 @@ procedure Damage_Critter;
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -1337,4 +1338,3 @@ end
 
 
 
-#include "../headers/doors2.h"

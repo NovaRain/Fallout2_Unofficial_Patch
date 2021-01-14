@@ -30,7 +30,6 @@
 //    NOTE: use door_mstr() to get the generic door messages
 #define DOOR_NAME                    SCRIPT_DOOR
 #include "../headers/command.h"
-#include "../headers/doors.h"
 
 /* Defines and Macros */
 
@@ -100,8 +99,6 @@ procedure Damage_Critter;
 procedure Super_Lockpick_Lock; //added by killap
 procedure Super_Set_Lockpick_Lock; //added by killap
 
-#define door_mstr(x)              message_str(DOOR_NAME,x)
-
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_
@@ -115,6 +112,7 @@ procedure Super_Set_Lockpick_Lock; //added by killap
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -1268,4 +1266,3 @@ procedure Lock_Door begin
    end
 end
 
-#include "../headers/doors2.h"

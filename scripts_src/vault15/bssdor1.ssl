@@ -27,8 +27,6 @@
 #define NAME                    SCRIPT_DOOR
 
 #include "../headers/command.h"
-#include "../headers/doors.h"
-
 #include "../headers/v15sent.h"
 #include "../headers/v15.h"
 
@@ -125,6 +123,9 @@ procedure Super_Lockpick_Lock;
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+#define custom_use_obj_on_p_proc
+#define custom_Damage_Critter
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -325,7 +326,6 @@ end
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
    be checked against a prototype.
 **********************************************************************************/
-#define custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
@@ -1382,8 +1382,6 @@ end
    be called to deal damage to the critter, display a message stating how much damage
    was taken, and remove the trap.
 **************************************************************************************/
-
-#define custom_Damage_Critter
 procedure Damage_Critter begin
    variable Trap_Damage;
 
@@ -1423,4 +1421,3 @@ procedure Super_Set_Lockpick_Lock begin
    call Lock_Door;
 end
 
-#include "../headers/doors2.h"

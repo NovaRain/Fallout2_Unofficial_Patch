@@ -27,7 +27,6 @@
 #define NAME                    SCRIPT_SISLVDOR
 
 #include "../headers/command.h"
-#include "../headers/doors.h"
 
 #include "../headers/ncr.h"
 #include "../headers/ncrent.h"
@@ -69,8 +68,6 @@
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
 #define Traps_Exp                       EXP_TRAPS_NORMAL
-
-#define door_mstr(x)                    message_str(SCRIPT_DOOR, x)
 
 #define NUM_OF_PENS                     (13)
 
@@ -115,6 +112,8 @@ procedure destroy_p_proc;
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+#define custom_use_obj_on_p_proc
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -306,7 +305,6 @@ end
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
    be checked against a prototype.
 **********************************************************************************/
-#define custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
@@ -1349,4 +1347,3 @@ procedure Lock_Door begin
 end
 
 
-#include "../headers/doors2.h"

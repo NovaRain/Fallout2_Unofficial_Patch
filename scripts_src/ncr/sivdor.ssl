@@ -28,7 +28,6 @@
 #define NAME                    SCRIPT_DOOR
 
 #include "../headers/command.h"
-#include "../headers/doors.h"
 
 /* Defines and Macros */
 
@@ -128,6 +127,8 @@ procedure Damage_Critter;
 #define LVAR_Gave_Traps_XP              (6)
 #define LVAR_Vortis_Warn                (7)
 
+#define custom_use_obj_on_p_proc
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -335,7 +336,6 @@ end
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
    be checked against a prototype.
 **********************************************************************************/
-#define custom_use_obj_on_p_proc
 procedure use_obj_on_p_proc begin
    variable Tool;
 
@@ -1387,4 +1387,3 @@ end
    This is to check to see if there are any party members within range of the door
    so it doesn't close.
 ****************************************************************************************/
-#include "../headers/doors2.h"

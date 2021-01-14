@@ -112,6 +112,7 @@ procedure Super_Set_Lockpick_Lock;
 #define LVAR_Gave_Locks_XP              (5)
 #define LVAR_Gave_Traps_XP              (6)
 
+#include "../headers/doors.h"
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -1307,4 +1308,3 @@ procedure Super_Set_Lockpick_Lock begin
 
    call Lock_Door;
 end
-#include "../headers/doors2.h"

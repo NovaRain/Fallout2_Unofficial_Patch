@@ -123,6 +123,8 @@ procedure Damage_Critter;
 #define LVAR_Gave_Traps_XP              (6)
 
 
+#include "../headers/doors.h"
+
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -1340,4 +1342,3 @@ end
    This is to check to see if there are any party members within range of the door
    so it doesn't close.
 ****************************************************************************************/
-#include "../headers/doors2.h"
