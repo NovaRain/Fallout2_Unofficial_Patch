@@ -58,30 +58,6 @@
 #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
 #define Traps_Exp                       EXP_TRAPS_NORMAL
 
-/* Standard Script Procedures */
-procedure start;
-procedure use_p_proc;
-procedure look_at_p_proc;
-procedure description_p_proc;
-procedure use_skill_on_p_proc;
-procedure use_obj_on_p_proc;
-procedure damage_p_proc;
-procedure map_enter_p_proc;
-procedure map_update_p_proc;
-
-/* Script Specific Procedure Calls */
-procedure Look_Locks;
-procedure Unlock_Lock;
-procedure Lockpick_Lock;
-procedure Lockpick_Door;
-procedure Lock_Door;
-procedure Set_Lock;
-procedure Set_Lockpick_Lock;
-procedure Pry_Door;
-procedure Super_Lockpick_Lock;
-procedure Super_Set_Lockpick_Lock;
-
-
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_

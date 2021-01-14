@@ -21,6 +21,36 @@
 
 #define door_mstr(x) (message_str(SCRIPT_DOOR,x))
 
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Look_Traps_And_Locks;
+procedure Look_Traps;
+procedure Look_Locks;
+procedure Skill_Disarm_Traps;
+procedure Disarm_Traps;
+procedure Unlock_Lock;
+procedure Lockpick_Lock;
+procedure Lockpick_Door;
+procedure Lock_Door;
+procedure Set_Lock;
+procedure Set_Lockpick_Lock;
+procedure Set_Trap;
+procedure Pry_Door;
+procedure Damage_Critter;
+procedure Super_Lockpick_Lock;
+procedure Super_Set_Lockpick_Lock;
+
+
 
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
