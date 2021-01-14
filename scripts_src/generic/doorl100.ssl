@@ -21,17 +21,6 @@
 
 /* Include Files */
 #define SCRIPT_REALNAME "doorl100"
-#include "../headers/define.h"
-
-// this can be changed to reflect any local script you make
-//    NOTE: use mstr() to get the message strings
-#define NAME                         SCRIPT_DOOR
-// this should NOT be changed so that it can still read the generic door messages
-//    NOTE: use door_mstr() to get the generic door messages
-#define DOOR_NAME                    SCRIPT_DOOR
-#include "../headers/command.h"
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -50,7 +39,7 @@
 
 
 
-
+#define custom_look_at_p_proc
 #include "../headers/doors.h"
 
 
@@ -105,23 +94,8 @@ procedure use_p_proc begin
    end
 end
 
-/***************************************************************************
-   This is cursory glance description that the player will receive should
-   he just pass the Action Cursor over. Examines which give more information
-   need to be in the description_p_proc procedure.
-***************************************************************************/
-
 procedure look_at_p_proc begin
-/*   script_overrides;
-
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(door_mstr(100));
-   end
-
-   else begin
-       display_msg(door_mstr(101));
-   end
-*/end
+end
 
 
 /**********************************************************************************

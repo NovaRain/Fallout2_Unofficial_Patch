@@ -140,23 +140,6 @@ procedure use_p_proc begin
 
 end
 
-/***************************************************************************
-   This is cursory glance description that the player will receive should
-   he just pass the Action Cursor over. Examines which give more information
-   need to be in the description_p_proc procedure.
-***************************************************************************/
-
-procedure look_at_p_proc begin
-   script_overrides;
-
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(mstr(100));
-   end
-
-   else begin
-       display_msg(mstr(101));
-   end
-end
 
 
 /**********************************************************************************

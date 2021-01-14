@@ -7,8 +7,8 @@
 #include "define.h"
 #ifndef NAME
    #define NAME                    SCRIPT_DOOR
-   #include "../headers/command.h"
 #endif
+#include "../headers/command.h"
 
 /* Defines and Macros */
 
@@ -328,5 +328,21 @@ end
 procedure start begin end
 #endif
 
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+#ifndef custom_look_at_p_proc
+procedure look_at_p_proc begin
+   script_overrides;
+   if (DOOR_STATUS == STATE_WOOD) then begin
+       display_msg(door_mstr(100));
+   end
+   else begin
+       display_msg(door_mstr(101));
+   end
+end
+#endif
 
 #endif // DOORS_H

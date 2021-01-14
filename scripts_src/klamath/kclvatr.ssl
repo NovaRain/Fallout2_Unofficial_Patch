@@ -41,7 +41,7 @@
 
 
 
-
+#define custom_look_at_p_proc
 #define custom_Pry_Door
 #define custom_use_obj_on_p_proc
 #include "../headers/doors.h"

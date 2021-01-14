@@ -23,9 +23,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "sislvdor"
 #include "../headers/define.h"
-
 #define NAME                    SCRIPT_SISLVDOR
-
 #include "../headers/command.h"
 
 #include "../headers/ncr.h"
@@ -128,25 +126,6 @@ procedure use_p_proc begin
       script_overrides;
    end
 end
-
-/***************************************************************************
-   This is cursory glance description that the player will receive should
-   he just pass the Action Cursor over. Examines which give more information
-   need to be in the description_p_proc procedure.
-***************************************************************************/
-
-procedure look_at_p_proc begin
-   script_overrides;
-
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(door_mstr(100));
-   end
-
-   else begin
-       display_msg(door_mstr(101));
-   end
-end
-
 
 /**********************************************************************************
    Should the player examine the door closely, then he should be allowed a lockpick

@@ -25,12 +25,6 @@
 #include "../headers/define.h"
 #include "../headers/ncrent.h" // added by killap
 
-#define NAME                    SCRIPT_DOOR
-
-#include "../headers/command.h"
-
-
-
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_INACTIVE
 #define TRAPPED_STATUS                  STATE_INACTIVE
@@ -150,23 +144,6 @@ procedure use_p_proc begin
    end
 end
 
-/***************************************************************************
-   This is cursory glance description that the player will receive should
-   he just pass the Action Cursor over. Examines which give more information
-   need to be in the description_p_proc procedure.
-***************************************************************************/
-
-procedure look_at_p_proc begin
-   script_overrides;
-
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_mstr(100);
-   end
-
-   else begin
-       display_mstr(101);
-   end
-end
 
 
 /**********************************************************************************

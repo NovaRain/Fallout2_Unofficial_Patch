@@ -23,10 +23,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "bselev"
 #include "../headers/define.h"
-
-//#define NAME                    SCRIPT_DOOR
 #define NAME                      SCRIPT_BSELEV
-
 #include "../headers/command.h"
 #include "../headers/v15.h"
 
@@ -55,7 +52,7 @@
 
 
 
-
+#define custom_look_at_p_proc
 #define custom_use_obj_on_p_proc
 #define custom_Damage_Critter
 #include "../headers/doors.h"
