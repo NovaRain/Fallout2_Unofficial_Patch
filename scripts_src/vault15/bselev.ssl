@@ -55,6 +55,7 @@
 #define custom_look_at_p_proc
 #define custom_use_obj_on_p_proc
 #define custom_Damage_Critter
+#define custom_Lock_Door
 #include "../headers/doors.h"
 
 

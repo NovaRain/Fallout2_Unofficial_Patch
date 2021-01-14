@@ -345,4 +345,40 @@ procedure look_at_p_proc begin
 end
 #endif
 
+/***************************************************************************
+   This procedure will actively set the lock on the door and set all of
+   the coresponding varaibles for it.
+***************************************************************************/
+#ifndef custom_Lock_Door
+procedure Lock_Door begin
+   if (is_success(Locks_Roll)) then begin
+       set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
+       obj_lock(self_obj);                                      // engine unlock door
+
+       if (source_obj == dude_obj) then begin
+           display_msg(door_mstr(189));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+door_mstr(191));
+       end
+
+       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
+           set_local_var(LVAR_Gave_Locks_XP,1);
+           give_xp(Lockpick_Exp);
+       end
+   end
+
+   else begin
+       if (source_obj == dude_obj) then begin
+           display_msg(door_mstr(190));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+door_mstr(192));
+       end
+   end
+end
+#endif
+
 #endif // DOORS_H

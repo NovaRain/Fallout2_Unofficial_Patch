@@ -1180,35 +1180,6 @@ end
    the coresponding varaibles for it.
 ***************************************************************************/
 
-procedure Lock_Door begin
-   if (is_success(Locks_Roll)) then begin
-       set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
-       obj_lock(self_obj);                                      // engine unlock door
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(189));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(191));
-       end
-
-       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
-           set_local_var(LVAR_Gave_Locks_XP,1);
-           give_xp(Lockpick_Exp);
-       end
-   end
-
-   else begin
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(190));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(192));
-       end
-   end
-end
 
 
 /***************************************************************************
