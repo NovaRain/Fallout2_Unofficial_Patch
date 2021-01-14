@@ -21,11 +21,6 @@
 
 /* Include Files */
 #define SCRIPT_REALNAME "eslkdor"
-#include "../headers/define.h"
-
-#define NAME                    SCRIPT_DOOR
-
-#include "../headers/command.h"
 
 /* Defines and Macros */
 

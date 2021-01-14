@@ -4,6 +4,11 @@
 //Doors functions
 
 #include "scripts.h"
+#include "define.h"
+#ifndef NAME
+   #define NAME                    SCRIPT_DOOR
+   #include "../headers/command.h"
+#endif
 
 /* Defines and Macros */
 

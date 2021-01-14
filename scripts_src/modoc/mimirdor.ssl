@@ -22,11 +22,6 @@
 
 /* Include Files */
 #define SCRIPT_REALNAME "mimirdor"
-#include "../headers/define.h"
-
-#define NAME                    SCRIPT_DOOR
-
-#include "../headers/command.h"
 #include "../headers/modoc.h"
 
 /* Defines and Macros */
