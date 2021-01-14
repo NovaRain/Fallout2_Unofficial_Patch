@@ -38,20 +38,13 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
-#define Lockpick_Bonus                  (0)
-#define Exd_Lockpick_Bonus              (20) //added by killap
 
 /* Penalties for disarming the trap */
-#define Trap_Bonus                      (0)
-#define Trap_Set_Bonus                  (-10)
 
 
 
 
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
-#define Traps_Exp                       EXP_TRAPS_NORMAL
 #define RAT_KEY                         PID_TRAPPER_TOWN_KEY
 
 procedure key_unlock_door;

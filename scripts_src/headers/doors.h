@@ -18,9 +18,26 @@
 #define STATE_DOOR_CLOSE                (1)
 #define STATE_DOOR_NOCLOSE              (0)
 
-
 #define door_mstr(x) (message_str(SCRIPT_DOOR,x))
 
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#ifndef Lock_Bonus
+   #define Lock_Bonus                      (0)
+#endif
+#ifndef Lockpick_Bonus
+   #define Lockpick_Bonus                  (Lock_Bonus+20)
+#endif
+#ifndef Exd_Lockpick_Bonus
+   #define Exd_Lockpick_Bonus              (Lock_Bonus+40)
+#endif
+
+/* Penalties for disarming the trap */
+#ifndef Trap_Bonus
+   #define Trap_Bonus                      (0)
+#endif
+#ifndef Trap_Set_Bonus
+   #define Trap_Set_Bonus                  (Trap_Bonus-10)
+#endif
 /* Experience Points for Skills */
 #ifndef Lockpick_Exp
    #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL

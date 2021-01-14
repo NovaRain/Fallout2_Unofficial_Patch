@@ -41,12 +41,7 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-80)
-#define Lockpick_Bonus                  (Lock_Bonus+20)
-#define Exd_Lockpick_Bonus              (Lock_Bonus+40)
 
-/* Penalties for disarming the trap */
-#define Trap_Bonus                      (0)
-#define Trap_Set_Bonus                  (Trap_Bonus-10)
 
 
 
@@ -54,7 +49,6 @@
 
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
-#define Traps_Exp                       EXP_TRAPS_NORMAL
 
 #define PARTY_CLOSE_DIST                (5)
 /* How far do party members have to be from the door before it closes */

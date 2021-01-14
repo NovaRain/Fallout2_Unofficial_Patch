@@ -42,20 +42,15 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-220)
-#define Lockpick_Bonus                  (Lock_Bonus+20)
 
 /* Penalties for disarming the trap */
 #define Trap_Bonus                      (-210)
-#define Trap_Set_Bonus                  (Trap_Bonus-10)
 
 /* Penalties for forcing the door open using strength */
 #define Crowbar_Bonus                   (-200)
 
 #define DOOR_STRENGTH                   (200)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
-#define Traps_Exp                       EXP_TRAPS_NORMAL
 
 
 
