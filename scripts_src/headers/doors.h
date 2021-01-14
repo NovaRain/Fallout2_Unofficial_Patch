@@ -381,4 +381,45 @@ procedure Lock_Door begin
 end
 #endif
 
+/***************************************************************************
+   This procedure will allow the source_obj to lock the door that he had
+   just unlocked.
+***************************************************************************/
+#ifndef custom_Unlock_Lock
+procedure Unlock_Lock begin
+   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
+   call Lockpick_Door;
+end
+#endif
+#ifndef custom_Lockpick_Lock
+procedure Lockpick_Lock begin
+   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);
+   call Lockpick_Door;
+end
+#endif
+#ifndef custom_Set_Lock
+procedure Set_Lock begin
+   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
+   call Lock_Door;
+end
+#endif
+#ifndef custom_Set_Lockpick_Lock
+procedure Set_Lockpick_Lock begin
+   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);
+   call Lock_Door;
+end
+#endif
+#ifndef custom_Super_Lockpick_Lock
+procedure Super_Lockpick_Lock begin
+  Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Exd_Lockpick_Bonus);
+  call Lockpick_Door();
+end
+#endif
+#ifndef custom_Super_Set_Lockpick_Lock
+procedure Super_Set_Lockpick_Lock begin
+   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Exd_Lockpick_Bonus);
+   call Lock_Door;
+end
+#endif
+
 #endif // DOORS_H

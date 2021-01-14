@@ -1051,42 +1051,14 @@ procedure Disarm_Traps begin
 end
 
 
-/***************************************************************************
-   This procedure will just do a standard lockpick roll to see if the player
-   can lockpick the door
-***************************************************************************/
-
-procedure Unlock_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
-
-   call Lockpick_Door;
-end
 
 
-/***************************************************************************
-   This procedure will do a lockpick roll if the player or NPC uses lockpick
-   on the door. There will be a modifer from the standard roll, because the
-   player will have proper tools.
-***************************************************************************/
 
-procedure Lockpick_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);
 
-   call Lockpick_Door;
-end
 
-procedure Super_Lockpick_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Exd_Lockpick_Bonus);
 
-   call Lockpick_Door;
-end
+
+
 
 
 /***************************************************************************
@@ -1136,56 +1108,12 @@ procedure Lockpick_Door begin
    end
 end
 
-/***************************************************************************
-   This procedure will allow the source_obj to lock the door that he had
-   just unlocked.
-***************************************************************************/
-
-procedure Set_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
-
-   call Lock_Door;
-end
-
-
-/***************************************************************************
-   This procedure will allow the source_obj to lock the door that he had
-   just unlocked using its lockpicks to accomplish this deed.
-***************************************************************************/
-
-procedure Set_Lockpick_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);
-
-   call Lock_Door;
-end
-
-procedure Super_Set_Lockpick_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Exd_Lockpick_Bonus);
-
-   call Lock_Door;
-end
-
-
-/***************************************************************************
-   This procedure will actively set the lock on the door and set all of
-   the coresponding varaibles for it.
-***************************************************************************/
 
 
 
-/***************************************************************************
-   This procedure is used should the player try to pry the door open using a
-   crowbar or some similar instrument.
-***************************************************************************/
+
+
+
 
 
 
