@@ -47,14 +47,9 @@
 #define Trap_Bonus                      (0)
 #define Trap_Set_Bonus                  (Trap_Bonus-10)
 
-/* Penalties for forcing the door open using strength */
-#define Crowbar_Bonus                   (0)
 
-/* Max and Min damage for the trap */
-#define DOOR_STRENGTH                   (2)
-#define MIN_DAMAGE                      (10)
-#define MAX_DAMAGE                      (20)
-#define Crowbar_Strain                  (2)
+
+
 
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
@@ -64,8 +59,7 @@
 #define DOOR_CLOSE_DIST                 (3)
 /* How far do you want the last object that used the door to get away before it closes */
 
-/* Timer id's */
-#define TIMER_CLOSE                     (1)
+
 
 
 

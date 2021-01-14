@@ -21,6 +21,47 @@
 
 #define door_mstr(x) (message_str(SCRIPT_DOOR,x))
 
+/* Experience Points for Skills */
+#ifndef Lockpick_Exp
+   #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+#endif
+#ifndef Traps_Exp
+   #define Traps_Exp                       EXP_TRAPS_NORMAL
+#endif
+
+/* Door close distance */
+#ifndef DOOR_CLOSE_DIST
+   #define DOOR_CLOSE_DIST                 (2)
+/* How far do you want the last object that used the door to get away before it closes */
+#endif
+
+/* Timer id's */
+#ifndef TIMER_CLOSE
+   #define TIMER_CLOSE                     (1)
+#endif
+
+/* Penalties for forcing the door open using strength */
+#ifndef Crowbar_Bonus
+   #define Crowbar_Bonus                   (0)
+#endif
+#ifndef Crowbar_Strain
+   #define Crowbar_Strain                  (2)
+#endif
+
+/* How many blasts can the door take before destorying */
+#ifndef DOOR_STRENGTH
+   #define DOOR_STRENGTH                   (2)
+#endif
+
+/* Max and Min damage for the trap */
+#ifndef MIN_DAMAGE
+   #define MIN_DAMAGE                      (10)
+#endif
+#ifndef MAX_DAMAGE
+   #define MAX_DAMAGE                      (20)
+#endif
+
+
 /* Standard Script Procedures */
 procedure start;
 procedure use_p_proc;
