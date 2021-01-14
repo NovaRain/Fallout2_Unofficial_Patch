@@ -5,7 +5,22 @@
 
 #include "scripts.h"
 
+/* Defines and Macros */
+
+/* Door States */
+#define STATE_ACTIVE                    (0)
+#define STATE_INACTIVE                  (1)
+#define STATE_WOOD                      (0)
+#define STATE_METAL                     (1)
+#define STATE_NON_DESTROY               (2)
+#define STATE_STANDARD_LOCK             (0)
+#define STATE_ELECTRIC_LOCK             (1)
+#define STATE_DOOR_CLOSE                (1)
+#define STATE_DOOR_NOCLOSE              (0)
+
+
 #define door_mstr(x) (message_str(SCRIPT_DOOR,x))
+
 
 procedure trap_search_result(variable found_trap, variable who);
 procedure trap_search_result(variable found_trap, variable who) begin

@@ -32,16 +32,6 @@
 
 /* Defines and Macros */
 
-/* Door States */
-#define STATE_ACTIVE                    (0)
-#define STATE_INACTIVE                  (1)
-#define STATE_WOOD                      (0)
-#define STATE_METAL                     (1)
-#define STATE_NON_DESTROY               (2)
-#define STATE_STANDARD_LOCK             (0)
-#define STATE_ELECTRIC_LOCK             (1)
-#define STATE_DOOR_CLOSE                (1)
-#define STATE_DOOR_NOCLOSE              (0)
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
