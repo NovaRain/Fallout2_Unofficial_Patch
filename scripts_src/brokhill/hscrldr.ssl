@@ -1024,63 +1024,6 @@ procedure Skill_Disarm_Traps begin
 end
 
 
-/*********************************************************************************
-   This procedure will allow the player to set traps on doors behind him. The door
-   will need to be closed, as all traps are set to go off if the door is openned.
-*********************************************************************************/
-
-procedure Set_Trap begin
-   variable Explosive;
-   variable Removal_Counter;
-
-/* Trap_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Set_Bonus);
-
-   Explosive:=obj_being_used_with;
-
-   if (obj_is_open(self_obj)) then begin
-       script_overrides;
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(206));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(207));
-       end
-   end
-
-   else begin
-       script_overrides;
-       Removal_Counter:=rm_mult_objs_from_inven(source_obj,Explosive,1);
-
-       if (is_success(Traps_Roll)) then begin
-           set_local_var(LVAR_Trapped,STATE_ACTIVE);
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(208));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+mstr(210));
-           end
-       end
-
-       else if (is_critical(Traps_Roll)) then begin
-           call Damage_Critter;
-       end
-
-       else begin
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(209));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+mstr(211));
-           end
-       end
-   end
-end
 
 
 
