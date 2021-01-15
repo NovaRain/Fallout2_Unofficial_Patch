@@ -23,7 +23,11 @@
 #define STATE_DOOR_CLOSE                (1)
 #define STATE_DOOR_NOCLOSE              (0)
 
-#define door_mstr(x) (message_str(SCRIPT_DOOR,x))
+#ifdef custom_mstr
+    #define door_mstr(x) (message_str(custom_mstr,x))
+#else
+    #define door_mstr(x) (message_str(SCRIPT_DOOR,x))
+#endif
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #ifndef Lock_Bonus
@@ -585,5 +589,101 @@ procedure Skill_Disarm_Traps begin
    call Disarm_Traps;
 end
 #endif
-   
+
+/*********************************************************************************
+   This is the set of conditions for when you look at a locked door, based on your
+   lockpick skill and perception to notice the lock.
+*********************************************************************************/
+#ifndef custom_Look_Locks
+procedure Look_Locks begin
+   variable Perception_Check;
+   variable Locks_Check;
+
+   Perception_Check:=do_check(dude_obj,STAT_pe,0);
+   Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
+
+   if (is_success(Perception_Check)) then begin
+       if (is_critical(Perception_Check)) then begin
+           if (is_success(Locks_Check)) then begin
+               if (is_critical(Locks_Check)) then begin
+                   display_msg(door_mstr(114));
+               end                                              // Critical Success (Locks)
+
+               else begin
+                   display_msg(door_mstr(115));
+               end                                              // Regular Success (Locks)
+           end
+
+           else if (is_critical(Locks_Check)) then begin
+               display_msg(door_mstr(116));
+           end                                                  // Critical Failure (Locks)
+
+           else begin
+               display_msg(door_mstr(117));
+           end                                                  // Regular Failure (Locks)
+       end                                                      // Critical Success (Stat_Pe)
+
+       else begin
+           if (is_success(Locks_Check)) then begin
+               if (is_critical(Locks_Check)) then begin
+                   display_msg(door_mstr(130));
+               end                                              // Critical Success (Locks)
+
+               else begin
+                   display_msg(door_mstr(131));
+               end                                              // Regular Success (Locks)
+           end
+
+           else if (is_critical(Locks_Check)) then begin
+               display_msg(door_mstr(132));
+           end                                                  // Critical Failure (Locks)
+
+           else begin
+               display_msg(door_mstr(133));
+           end                                                  // Regular Failure (Locks)
+       end                                                      // Regular Success (Stat_pe)
+   end
+
+   else if (is_critical(Perception_Check)) then begin
+       if (is_success(Locks_Check)) then begin
+           if (is_critical(Locks_Check)) then begin
+               display_msg(door_mstr(146));
+           end                                                  // Critical Success (Locks)
+
+           else begin
+               display_msg(door_mstr(147));
+           end                                                  // Regular Success (Locks)
+       end
+
+       else if (is_critical(Locks_Check)) then begin
+           display_msg(door_mstr(148));
+       end                                                      // Critical Failure (Locks)
+
+       else begin
+           display_msg(door_mstr(149));
+       end                                                      // Regular Failure (Locks)
+   end                                                          // Critical Failure (Stat_pe)
+
+   else begin
+       if (is_success(Locks_Check)) then begin
+           if (is_critical(Locks_Check)) then begin
+               display_msg(door_mstr(162));
+           end                                                  // Critical Success (Locks)
+
+           else begin
+               display_msg(door_mstr(163));
+           end                                                  // Regular Success (Locks)
+       end
+
+       else if (is_critical(Locks_Check)) then begin
+           display_msg(door_mstr(164));
+       end                                                      // Critical Failure (Locks)
+
+       else begin
+           display_msg(door_mstr(165));
+       end                                                      // Regular Failure (Locks)
+   end                                                          // Regular Failure (Stat_Pe)
+end
+#endif
+
 #endif // DOORS_H
