@@ -58,9 +58,9 @@
 #define LVAR_Used_Key                   (7)
 
 #define custom_use_obj_on_p_proc
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
 #include "../headers/doors.h"
-
-//import variable Entrance_Door_Ptr;
 
 
 

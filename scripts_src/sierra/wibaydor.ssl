@@ -55,7 +55,7 @@ procedure Check_Repair(variable Cur_Var);
 
 
 
-
+#define custom_map_update_p_proc
 #include "../headers/doors.h"
 
 
@@ -205,45 +205,6 @@ procedure use_skill_on_p_proc begin
    end                                                          // End of Skill_Traps
 
 end
-
-
-/**********************************************************************************
-   This is called when the player is using an object on the door. When the check is
-   made to find out what is being used, obj_pid(obj_being_used_with) will need to
-   be checked against a prototype.
-**********************************************************************************/
-
-
-
-
-
-
-/***************************************************************************************
-   Whenever the map is first entered, this procedure will be called. The main purpose of
-   this procedure is to lock the door from the outset, rather than having to worry about
-   it through Mapper. After the door has been unlocked, it will remain as such, unless
-   the player locks it once more.
-***************************************************************************************/
-
-procedure map_enter_p_proc begin
-
-/* Set up the door state when the player first enters the map */
-   if (local_var(LVAR_Set_Door_Status) == 0) then begin
-       set_local_var(LVAR_Set_Door_Status,1);
-       set_local_var(LVAR_Locked,LOCKED_STATUS);
-       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
-   end
-
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_close(self_obj);
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
-   end
-end
-
 
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make

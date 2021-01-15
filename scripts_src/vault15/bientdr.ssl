@@ -42,33 +42,12 @@
 #define MIN_DAMAGE                      (5)
 #define MAX_DAMAGE                      (20)
 
-
-
-
-
-/* Standard Script Procedures */
-
-
-/* Script Specific Procedure Calls */
-
-
-
-
-
-
+#define custom_map_enter_p_proc
 #include "../headers/doors.h"
 
 #include "../headers/v15.h"
 
-
-
-
-
 variable last_source_obj;
-
-
-
-
 
 procedure timed_event_p_proc begin
    if (obj_is_open(self_obj)) then begin
@@ -241,22 +220,7 @@ procedure map_enter_p_proc begin
 end
 
 
-/**************************************************************************************
-   This procedure gets called roughly every 30 seconds of real time. It is used to make
-   sure that the door does not lock on it's own and that the player will be able to get
-   through once he has unlocked the door. Once more, this is so that locking and
-   unlocking do not need to be done in Mapper.
-**************************************************************************************/
 
-procedure map_update_p_proc begin
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
-   end
-end
 
 
 

@@ -57,6 +57,8 @@ procedure Destroy_P_Proc;
 #define custom_start
 #define custom_use_obj_on_p_proc
 #define custom_Lock_Door
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
 #include "../headers/doors.h"
 
 /*

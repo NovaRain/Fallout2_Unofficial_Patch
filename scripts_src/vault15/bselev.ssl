@@ -57,6 +57,7 @@
 #define custom_Lockpick_Door
 #define custom_mstr NAME
 #define custom_damage_p_proc
+#define custom_map_enter_p_proc
 #include "../headers/doors.h"
 
 variable last_source_obj;
@@ -279,22 +280,7 @@ procedure map_enter_p_proc begin
 end
 
 
-/**************************************************************************************
-   This procedure gets called roughly every 30 seconds of real time. It is used to make
-   sure that the door does not lock on it's own and that the player will be able to get
-   through once he has unlocked the door. Once more, this is so that locking and
-   unlocking do not need to be done in Mapper.
-**************************************************************************************/
 
-procedure map_update_p_proc begin
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
-   end
-end
 
 
 

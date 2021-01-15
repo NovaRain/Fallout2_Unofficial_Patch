@@ -50,6 +50,8 @@ procedure checkPartyMembers;
 
 #define custom_start
 #define custom_damage_p_proc
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
 #include "../headers/doors.h"
 
 import variable i_cell_door_obj;
@@ -289,15 +291,7 @@ end
 **************************************************************************************/
 
 procedure map_update_p_proc begin
-   i_cell_door_obj := self_obj; //added by killap
-
-   /*if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
-   end
-
-   else begin
-       obj_unlock(self_obj);
-   end*/
+   i_cell_door_obj := self_obj;
 end
 
 
