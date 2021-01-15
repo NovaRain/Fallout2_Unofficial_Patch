@@ -18,7 +18,6 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "kidbox"
 #include "../headers/define.h"
@@ -81,7 +80,6 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
 
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make

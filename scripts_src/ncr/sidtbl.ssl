@@ -18,7 +18,6 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "sidtbl"
 
@@ -38,28 +37,16 @@
 #define custom_map_enter_p_proc
 #include "../headers/containers.h"
 
-
 #define LVAR_Restock_Time               (7)
 #define LVAR_Restock_Time_Fix           (8) //added by killap
-
-
 
 import variable i_duppo_table;
 import variable i_duppo_talk;
 import variable i_duppo_obj;
 
-
-
-
-
-
-
-
 procedure start begin
    i_duppo_table := self_obj;
 end
-
-
 
 /********************************************************************
    Any time that a critter tries to use this door will call this
@@ -121,7 +108,6 @@ end
 procedure look_at_p_proc begin
 end
 
-
 /**********************************************************************************
    Should the player examine the door closely, then he should be allowed a lockpick
    roll, a traps roll and a perception roll. Depending on which rolls are made will
@@ -130,13 +116,6 @@ end
 
 procedure description_p_proc begin
 end
-
-
-
-
-
-
-
 
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
@@ -227,45 +206,8 @@ procedure map_enter_p_proc begin
    end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure is used should the player try to pry the door open using a
    crowbar or some similar instrument.
 ***************************************************************************/
-
-
-
-
 

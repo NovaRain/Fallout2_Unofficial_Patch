@@ -18,7 +18,6 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "simbox"
 #include "../headers/define.h"
@@ -27,19 +26,11 @@
 
 #include "../headers/command.h"
 
-
-
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
 #define TRAPPED_STATUS                  STATE_ACTIVE
 #define DOOR_STATUS                     STATE_WOOD
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
-
-
-
-
-
-
 
 #define LVAR_Restock_Time               (7)
 #define LVAR_Restock_Time_Fix           (8) //added by killap
@@ -49,36 +40,11 @@
 #define custom_mstr NAME
 #include "../headers/containers.h"
 
-
 import variable scmikey_inventory_box_obj;
-
-
-
-
-
 
 procedure start begin
    scmikey_inventory_box_obj := self_obj;
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
@@ -111,27 +77,4 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

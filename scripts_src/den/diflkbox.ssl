@@ -18,7 +18,6 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "diflkbox"
 #include "../headers/define.h"
@@ -26,7 +25,6 @@
 #define NAME                    SCRIPT_DIFLKBOX
 
 #include "../headers/command.h"
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -37,7 +35,6 @@
 #define LVAR_Restock_Time               (7)
 #define LVAR_Restock_Time_Fix           (8) //added by killap
 
-
 #define custom_start
 #define custom_map_enter_p_proc
 #define custom_map_update_p_proc
@@ -45,30 +42,9 @@
 
 import variable den_flick_box_obj;
 
-
-
-
 procedure start begin
    den_flick_box_obj := self_obj;
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
@@ -110,7 +86,6 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
 
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make

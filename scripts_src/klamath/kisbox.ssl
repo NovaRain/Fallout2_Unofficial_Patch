@@ -18,13 +18,11 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "kisbox"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_KISBOX
 #include "../headers/command.h"
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -90,7 +88,6 @@ procedure map_enter_p_proc begin
    end
 end
 
-
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make
    sure that the door does not lock on it's own and that the player will be able to get
@@ -108,6 +105,4 @@ procedure map_update_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
-
 

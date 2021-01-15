@@ -18,10 +18,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "witrpbx1"
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE

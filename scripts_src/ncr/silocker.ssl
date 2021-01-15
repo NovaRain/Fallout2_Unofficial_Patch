@@ -18,13 +18,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "silocker"
-
-
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -32,32 +27,13 @@
 #define DOOR_STATUS                     STATE_METAL
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 
-
-
-
-
-
 #define custom_use_obj_on_p_proc
 #define custom_use_p_proc
 #define custom_use_skill_on_p_proc
 #define custom_Lockpick_Door
 #include "../headers/containers.h"
 
-
 import variable i_locker_tamper;
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /********************************************************************
    Any time that a critter tries to use this door will call this
@@ -104,12 +80,6 @@ procedure use_p_proc begin
    end
 end
 
-
-
-
-
-
-
 /**********************************************************************************
    Should the player try using a skill on the door, here are where the skill rolls
    will be made. The ones which need to be in here are: Lockpick and Traps. Science
@@ -150,7 +120,6 @@ procedure use_skill_on_p_proc begin
 
 end
 
-
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
@@ -175,37 +144,6 @@ procedure use_obj_on_p_proc begin
 
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
    source_object will unlock the door and display the appropriate messages
@@ -216,10 +154,8 @@ procedure Lockpick_Door begin
        //Added in for the guards
        i_locker_tamper := 10; //This will force all guards to attack
 
-
        set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
        obj_unlock(self_obj);                                    // engine unlock door
-
 
        if (source_obj == dude_obj) then begin
            display_msg(mstr(170));
@@ -257,10 +193,4 @@ procedure Lockpick_Door begin
        end
    end
 end
-
-
-
-
-
-
 

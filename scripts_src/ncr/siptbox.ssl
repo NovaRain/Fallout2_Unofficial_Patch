@@ -18,12 +18,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "siptbox"
-
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -31,46 +27,10 @@
 #define DOOR_STATUS                     STATE_WOOD
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 
-
-
-
 #define custom_map_enter_p_proc
 #include "../headers/containers.h"
 
-
-
-
-
 import variable playerTmpBox;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
@@ -99,45 +59,8 @@ procedure map_enter_p_proc begin
    end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure is used should the player try to pry the door open using a
    crowbar or some similar instrument.
 ***************************************************************************/
-
-
-
-
 
