@@ -1005,62 +1005,7 @@ procedure Set_Trap begin
 end
 
 
-/***************************************************************************
-   This procedure will do a skill check vs traps to determine if the player
-   or NPC finds the trap. If the trap is found, then it will check to see if
-   the player or NPC set off the trap or disarms it.
-***************************************************************************/
 
-procedure Disarm_Traps begin
-   if (is_success(Traps_Roll)) then begin
-       if (local_var(LVAR_Found_Trap) == 0) then begin
-           set_local_var(LVAR_Found_Trap,1);
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(194));
-           end
-
-           else begin
-               display_msg(mstr(199));
-           end
-
-           if (local_var(LVAR_Gave_Traps_XP) == 0) then begin
-               set_local_var(LVAR_Gave_Traps_XP,1);
-               give_xp(Traps_Exp);
-           end
-       end
-
-       else begin
-           set_local_var(LVAR_Trapped,STATE_INACTIVE);
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(196));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+mstr(201));
-           end
-       end
-   end
-
-   else if (is_critical(Traps_Roll)) then begin
-       call Damage_Critter;
-   end
-
-   else begin
-       if (local_var(LVAR_Found_Trap) == 0) then begin
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(195));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+mstr(200));
-           end
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(202));
-       end
-   end
-end
 
 
 
