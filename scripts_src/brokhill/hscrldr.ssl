@@ -54,6 +54,7 @@ procedure key_lock_door;
 #define custom_start
 #define custom_use_obj_on_p_proc
 #define custom_Lockpick_Door
+#define custom_damage_p_proc
 #include "../headers/doors.h"
 
 import variable Jail_Door_1;

@@ -53,6 +53,7 @@
 
 
 #define custom_use_obj_on_p_proc
+#define custom_damage_p_proc
 #include "../headers/doors.h"
 
 

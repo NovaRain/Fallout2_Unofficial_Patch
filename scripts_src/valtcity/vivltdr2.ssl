@@ -204,57 +204,6 @@ procedure use_skill_on_p_proc begin
 end
 
 
-/******************************************************************************************
-   Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
-   or any other forms of damage), this procedure will be called to destroy the door and
-   free up the space.
-******************************************************************************************/
-
-procedure damage_p_proc begin
-   variable Trap_Damage;
-
-  /************ Wood Door ****************/
-
- if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
-           set_local_var(LVAR_Trapped, STATE_INACTIVE);
-           set_local_var(LVAR_Locked, STATE_INACTIVE);
-           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(self_tile, self_elevation, Trap_Damage);
-           destroy_object(self_obj);
-       end
-
-       else begin
-           set_local_var(LVAR_Trapped, STATE_INACTIVE);
-           set_local_var(LVAR_Locked, STATE_INACTIVE);
-           destroy_object(self_obj);
-       end
-   end
-
-  /************ Metal Door ****************/
-
-   else if (DOOR_STATUS == STATE_METAL) then begin
-       set_local_var(LVAR_Explosion_Attempts,local_var(LVAR_Explosion_Attempts)+1);
-       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
-           set_local_var(LVAR_Locked, STATE_INACTIVE);
-           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(self_tile, self_elevation, Trap_Damage);
-       end
-
-       else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
-           set_local_var(LVAR_Trapped, STATE_INACTIVE);
-           set_local_var(LVAR_Locked,STATE_INACTIVE);
-           destroy_object(self_obj);
-       end
-   end
-
-end
-
-   else begin
-       display_msg(mstr(193));
-   end
-end
 
 
 /***************************************************************************************
