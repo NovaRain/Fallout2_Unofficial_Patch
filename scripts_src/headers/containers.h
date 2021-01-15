@@ -21,10 +21,11 @@
 #define STATE_STANDARD_LOCK             (0)
 #define STATE_ELECTRIC_LOCK             (1)
 
+#define box_mstr(x) (message_str(SCRIPT_CONTAINR,x))
 #ifdef custom_mstr
-    #define box_mstr(x) (message_str(custom_mstr,x))
+    #define my_mstr(x) (message_str(custom_mstr,x))
 #else
-    #define box_mstr(x) (message_str(SCRIPT_CONTAINR,x))
+    #define my_mstr box_mstr
 #endif
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
@@ -198,13 +199,13 @@ procedure Damage_Critter begin
    if (source_obj == dude_obj) then begin
        critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
 /* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
-       display_msg(box_mstr(166)+Trap_Damage+box_mstr(167));
+       display_msg(my_mstr(166)+Trap_Damage+my_mstr(167));
    end
 
    else begin
        critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
 /* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
-       display_msg(obj_name(source_obj)+box_mstr(168)+Trap_Damage+box_mstr(169));
+       display_msg(obj_name(source_obj)+my_mstr(168)+Trap_Damage+my_mstr(169));
    end
 
 /* The trap is now disarmed and should never go off again.                           */
@@ -251,13 +252,13 @@ procedure start begin end
 procedure look_at_p_proc begin
     script_overrides; 
     if (DOOR_STATUS == STATE_WOOD) then begin
-        display_msg(box_mstr(100));
+        display_msg(my_mstr(100));
     end
     else if (DOOR_STATUS == STATE_FRIDGE) then begin
-        display_msg(box_mstr(212));
+        display_msg(my_mstr(212));
     end
     else begin
-        display_msg(box_mstr(101));
+        display_msg(my_mstr(101));
     end
 end
 #endif
@@ -273,11 +274,11 @@ procedure Lock_Door begin
        obj_lock(self_obj);                                      // engine unlock door
 
        if (source_obj == dude_obj) then begin
-           display_msg(box_mstr(189));
+           display_msg(my_mstr(189));
        end
 
        else begin
-           display_msg(obj_name(source_obj)+box_mstr(191));
+           display_msg(obj_name(source_obj)+my_mstr(191));
        end
 
        if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
@@ -288,11 +289,11 @@ procedure Lock_Door begin
 
    else begin
        if (source_obj == dude_obj) then begin
-           display_msg(box_mstr(190));
+           display_msg(my_mstr(190));
        end
 
        else begin
-           display_msg(obj_name(source_obj)+box_mstr(192));
+           display_msg(obj_name(source_obj)+my_mstr(192));
        end
    end
 end
@@ -350,11 +351,11 @@ procedure Lockpick_Door begin
        obj_unlock(self_obj);                                    // engine unlock door
 
        if (source_obj == dude_obj) then begin
-           display_msg(box_mstr(170));
+           display_msg(my_mstr(170));
        end
 
        else begin
-           display_msg(obj_name(source_obj)+box_mstr(173));
+           display_msg(obj_name(source_obj)+my_mstr(173));
        end
 
        if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
@@ -367,21 +368,21 @@ procedure Lockpick_Door begin
        jam_lock(self_obj);
 
        if (source_obj == dude_obj) then begin
-           display_msg(box_mstr(171));
+           display_msg(my_mstr(171));
        end
 
        else begin
-           display_msg(obj_name(source_obj)+box_mstr(174));
+           display_msg(obj_name(source_obj)+my_mstr(174));
        end
    end
 
    else begin
        if (source_obj == dude_obj) then begin
-           display_msg(box_mstr(172));
+           display_msg(my_mstr(172));
        end
 
        else begin
-           display_msg(obj_name(source_obj)+box_mstr(175));
+           display_msg(obj_name(source_obj)+my_mstr(175));
        end
    end
 end
@@ -398,11 +399,11 @@ procedure Disarm_Traps begin
         if (local_var(LVAR_Found_Trap) == 0) then begin
             set_local_var(LVAR_Found_Trap,1);
             if (source_obj == dude_obj) then begin
-                display_msg(box_mstr(194));
+                display_msg(my_mstr(194));
             end
  
             else begin
-                display_msg(box_mstr(199));
+                display_msg(my_mstr(199));
             end
  
             if (local_var(LVAR_Gave_Traps_XP) == 0) then begin
@@ -414,11 +415,11 @@ procedure Disarm_Traps begin
         else begin
             set_local_var(LVAR_Trapped,STATE_INACTIVE);
             if (source_obj == dude_obj) then begin
-                display_msg(box_mstr(196));
+                display_msg(my_mstr(196));
             end
  
             else begin
-                display_msg(obj_name(source_obj)+box_mstr(201));
+                display_msg(obj_name(source_obj)+my_mstr(201));
             end
         end
     end
@@ -430,16 +431,16 @@ procedure Disarm_Traps begin
     else begin
         if (local_var(LVAR_Found_Trap) == 0) then begin
             if (source_obj == dude_obj) then begin
-                display_msg(box_mstr(195));
+                display_msg(my_mstr(195));
             end
  
             else begin
-                display_msg(obj_name(source_obj)+box_mstr(200));
+                display_msg(obj_name(source_obj)+my_mstr(200));
             end
         end
  
         else begin
-            display_msg(obj_name(source_obj)+box_mstr(202));
+            display_msg(obj_name(source_obj)+my_mstr(202));
         end
     end
 end 
@@ -464,11 +465,11 @@ procedure Set_Trap begin
    if (obj_is_open(self_obj)) then begin
        script_overrides;
        if (source_obj == dude_obj) then begin
-           display_msg(box_mstr(206));
+           display_msg(my_mstr(206));
        end
 
        else begin
-           display_msg(obj_name(source_obj)+box_mstr(207));
+           display_msg(obj_name(source_obj)+my_mstr(207));
        end
    end
 
@@ -479,11 +480,11 @@ procedure Set_Trap begin
        if (is_success(Traps_Roll)) then begin
            set_local_var(LVAR_Trapped,STATE_ACTIVE);
            if (source_obj == dude_obj) then begin
-               display_msg(box_mstr(208));
+               display_msg(my_mstr(208));
            end
 
            else begin
-               display_msg(obj_name(source_obj)+box_mstr(210));
+               display_msg(obj_name(source_obj)+my_mstr(210));
            end
        end
 
@@ -493,11 +494,11 @@ procedure Set_Trap begin
 
        else begin
            if (source_obj == dude_obj) then begin
-               display_msg(box_mstr(209));
+               display_msg(my_mstr(209));
            end
 
            else begin
-               display_msg(obj_name(source_obj)+box_mstr(211));
+               display_msg(obj_name(source_obj)+my_mstr(211));
            end
        end
    end
@@ -533,40 +534,40 @@ procedure Look_Locks begin
        if (is_critical(Perception_Check)) then begin
            if (is_success(Locks_Check)) then begin
                if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(114));
+                   display_msg(my_mstr(114));
                end                                              // Critical Success (Locks)
 
                else begin
-                   display_msg(box_mstr(115));
+                   display_msg(my_mstr(115));
                end                                              // Regular Success (Locks)
            end
 
            else if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(116));
+               display_msg(my_mstr(116));
            end                                                  // Critical Failure (Locks)
 
            else begin
-               display_msg(box_mstr(117));
+               display_msg(my_mstr(117));
            end                                                  // Regular Failure (Locks)
        end                                                      // Critical Success (Stat_Pe)
 
        else begin
            if (is_success(Locks_Check)) then begin
                if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(130));
+                   display_msg(my_mstr(130));
                end                                              // Critical Success (Locks)
 
                else begin
-                   display_msg(box_mstr(131));
+                   display_msg(my_mstr(131));
                end                                              // Regular Success (Locks)
            end
 
            else if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(132));
+               display_msg(my_mstr(132));
            end                                                  // Critical Failure (Locks)
 
            else begin
-               display_msg(box_mstr(133));
+               display_msg(my_mstr(133));
            end                                                  // Regular Failure (Locks)
        end                                                      // Regular Success (Stat_pe)
    end
@@ -574,40 +575,40 @@ procedure Look_Locks begin
    else if (is_critical(Perception_Check)) then begin
        if (is_success(Locks_Check)) then begin
            if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(146));
+               display_msg(my_mstr(146));
            end                                                  // Critical Success (Locks)
 
            else begin
-               display_msg(box_mstr(147));
+               display_msg(my_mstr(147));
            end                                                  // Regular Success (Locks)
        end
 
        else if (is_critical(Locks_Check)) then begin
-           display_msg(box_mstr(148));
+           display_msg(my_mstr(148));
        end                                                      // Critical Failure (Locks)
 
        else begin
-           display_msg(box_mstr(149));
+           display_msg(my_mstr(149));
        end                                                      // Regular Failure (Locks)
    end                                                          // Critical Failure (Stat_pe)
 
    else begin
        if (is_success(Locks_Check)) then begin
            if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(162));
+               display_msg(my_mstr(162));
            end                                                  // Critical Success (Locks)
 
            else begin
-               display_msg(box_mstr(163));
+               display_msg(my_mstr(163));
            end                                                  // Regular Success (Locks)
        end
 
        else if (is_critical(Locks_Check)) then begin
-           display_msg(box_mstr(164));
+           display_msg(my_mstr(164));
        end                                                      // Critical Failure (Locks)
 
        else begin
-           display_msg(box_mstr(165));
+           display_msg(my_mstr(165));
        end                                                      // Regular Failure (Locks)
    end                                                          // Regular Failure (Stat_Pe)
 end
@@ -629,40 +630,40 @@ procedure Look_Traps begin
        if (is_critical(Perception_Check)) then begin
            if (is_success(Traps_Check)) then begin
                if (is_critical(Traps_Check)) then begin
-                   display_msg(box_mstr(104));
+                   display_msg(my_mstr(104));
                end                                              // Critical Success (traps)
 
                else begin
-                   display_msg(box_mstr(108));
+                   display_msg(my_mstr(108));
                end                                              // Regular Success (Traps)
            end
 
            else if (is_critical(Traps_Check)) then begin
-               display_msg(box_mstr(112));
+               display_msg(my_mstr(112));
            end                                                  // Critical Failure (Traps)
 
            else begin
-               display_msg(box_mstr(116));
+               display_msg(my_mstr(116));
            end                                                  // Regular Failure (Traps)
        end                                                      // Critical Success (Stat_Pe)
 
        else begin
            if (is_success(Traps_Check)) then begin
                if (is_critical(Traps_Check)) then begin
-                   display_msg(box_mstr(120));
+                   display_msg(my_mstr(120));
                end                                              // Critical Success (traps)
 
                else begin
-                   display_msg(box_mstr(124));
+                   display_msg(my_mstr(124));
                end                                              // Regular Success (Traps)
            end
 
            else if (is_critical(Traps_Check)) then begin
-               display_msg(box_mstr(128));
+               display_msg(my_mstr(128));
            end                                                  // Critical Failure (Traps)
 
            else begin
-               display_msg(box_mstr(132));
+               display_msg(my_mstr(132));
            end                                                  // Regular Failure (Traps)
        end                                                      // Regular Success (Stat_pe)
    end
@@ -670,40 +671,40 @@ procedure Look_Traps begin
    else if (is_critical(Perception_Check)) then begin
        if (is_success(Traps_Check)) then begin
            if (is_critical(Traps_Check)) then begin
-               display_msg(box_mstr(136));
+               display_msg(my_mstr(136));
            end                                                  // Critical Success (traps)
 
            else begin
-               display_msg(box_mstr(140));
+               display_msg(my_mstr(140));
            end                                                  // Regular Success (Traps)
        end
 
        else if (is_critical(Traps_Check)) then begin
-           display_msg(box_mstr(144));
+           display_msg(my_mstr(144));
        end                                                      // Critical Failure (Traps)
 
        else begin
-           display_msg(box_mstr(148));
+           display_msg(my_mstr(148));
        end                                                      // Regular Failure (Traps)
    end                                                          // Critical Failure (Stat_pe)
 
    else begin
        if (is_success(Traps_Check)) then begin
            if (is_critical(Traps_Check)) then begin
-               display_msg(box_mstr(152));
+               display_msg(my_mstr(152));
            end                                                  // Critical Success (traps)
 
            else begin
-               display_msg(box_mstr(156));
+               display_msg(my_mstr(156));
            end                                                  // Regular Success (Traps)
        end
 
        else if (is_critical(Traps_Check)) then begin
-           display_msg(box_mstr(160));
+           display_msg(my_mstr(160));
        end                                                      // Critical Failure (Traps)
 
        else begin
-           display_msg(box_mstr(164));
+           display_msg(my_mstr(164));
        end                                                      // Regular Failure (Traps)
    end                                                          // Regular Failure (Stat_Pe)
 
@@ -741,20 +742,20 @@ procedure Look_Traps_And_Locks begin
 
                    if (is_success(Locks_Check)) then begin
                        if (is_critical(Locks_Check)) then begin
-                           display_msg(box_mstr(102));
+                           display_msg(my_mstr(102));
                        end                                      // critical success (Locks)
 
                        else begin
-                           display_msg(box_mstr(103));
+                           display_msg(my_mstr(103));
                        end                                      // regular success (Locks)
                    end
 
                    else if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(104));
+                       display_msg(my_mstr(104));
                    end                                          // critical Failure (Locks)
 
                    else begin
-                       display_msg(box_mstr(105));
+                       display_msg(my_mstr(105));
                    end                                          // end of regular failure (Locks)
                end                                              // critical success (Traps)
 
@@ -763,20 +764,20 @@ procedure Look_Traps_And_Locks begin
                else begin
                    if (is_success(Locks_Check)) then begin
                        if (is_critical(Locks_Check)) then begin
-                           display_msg(box_mstr(106));
+                           display_msg(my_mstr(106));
                        end                                      // critical success (Locks)
 
                        else begin
-                           display_msg(box_mstr(107));
+                           display_msg(my_mstr(107));
                        end                                      // regular success (Locks)
                    end
 
                    else if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(108));
+                       display_msg(my_mstr(108));
                    end                                          // critical Failure (Locks)
 
                    else begin
-                       display_msg(box_mstr(109));
+                       display_msg(my_mstr(109));
                    end                                          // end of regular failure (Locks)
                end                                              // regular success (Traps)
            end
@@ -786,20 +787,20 @@ procedure Look_Traps_And_Locks begin
            else if (is_critical(Traps_Check)) then begin
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(110));
+                       display_msg(my_mstr(110));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(111));
+                       display_msg(my_mstr(111));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(112));
+                   display_msg(my_mstr(112));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(113));
+                   display_msg(my_mstr(113));
                end                                              // end of regular failure (Locks)
           end                                                   // critical Failure (Traps)
 
@@ -808,20 +809,20 @@ procedure Look_Traps_And_Locks begin
            else begin
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(114));
+                       display_msg(my_mstr(114));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(115));
+                       display_msg(my_mstr(115));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(116));
+                   display_msg(my_mstr(116));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(117));
+                   display_msg(my_mstr(117));
                end                                              // end of regular failure (Locks)
            end                                                  // regular failure (Traps)
        end                                                      // critical success (Stat_Pe)
@@ -842,20 +843,20 @@ procedure Look_Traps_And_Locks begin
 
                    if (is_success(Locks_Check)) then begin
                        if (is_critical(Locks_Check)) then begin
-                           display_msg(box_mstr(118));
+                           display_msg(my_mstr(118));
                        end                                      // critical success (Locks)
 
                        else begin
-                           display_msg(box_mstr(119));
+                           display_msg(my_mstr(119));
                        end                                      // regular success (Locks)
                    end
 
                    else if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(120));
+                       display_msg(my_mstr(120));
                    end                                          // critical Failure (Locks)
 
                    else begin
-                       display_msg(box_mstr(121));
+                       display_msg(my_mstr(121));
                    end                                          // end of regular failure (Locks)
                end                                              // critical success (Traps)
 
@@ -864,20 +865,20 @@ procedure Look_Traps_And_Locks begin
                else begin
                    if (is_success(Locks_Check)) then begin
                        if (is_critical(Locks_Check)) then begin
-                           display_msg(box_mstr(122));
+                           display_msg(my_mstr(122));
                        end                                      // critical success (Locks)
 
                        else begin
-                           display_msg(box_mstr(123));
+                           display_msg(my_mstr(123));
                        end                                      // regular success (Locks)
                    end
 
                    else if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(124));
+                       display_msg(my_mstr(124));
                    end                                          // critical Failure (Locks)
 
                    else begin
-                       display_msg(box_mstr(125));
+                       display_msg(my_mstr(125));
                    end                                          // end of regular failure (Locks)
                end                                              // regular success (Traps)
            end
@@ -887,20 +888,20 @@ procedure Look_Traps_And_Locks begin
            else if (is_critical(Traps_Check)) then begin
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(126));
+                       display_msg(my_mstr(126));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(127));
+                       display_msg(my_mstr(127));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(128));
+                   display_msg(my_mstr(128));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(129));
+                   display_msg(my_mstr(129));
                end                                              // end of regular failure (Locks)
            end                                                  // critical Failure (Traps)
 
@@ -909,20 +910,20 @@ procedure Look_Traps_And_Locks begin
            else begin
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(130));
+                       display_msg(my_mstr(130));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(131));
+                       display_msg(my_mstr(131));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(132));
+                   display_msg(my_mstr(132));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(133));
+                   display_msg(my_mstr(133));
                end                                              // end of regular failure (Locks)
            end                                                  // regular failure (Traps)
        end                                                      // regular success (Stat_pe)
@@ -944,20 +945,20 @@ procedure Look_Traps_And_Locks begin
 
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(134));
+                       display_msg(my_mstr(134));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(135));
+                       display_msg(my_mstr(135));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(136));
+                   display_msg(my_mstr(136));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(137));
+                   display_msg(my_mstr(137));
                end                                              // end of regular failure (Locks)
            end                                                  // critical success (Traps)
 
@@ -966,20 +967,20 @@ procedure Look_Traps_And_Locks begin
            else begin
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(138));
+                       display_msg(my_mstr(138));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(139));
+                       display_msg(my_mstr(139));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(140));
+                   display_msg(my_mstr(140));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(141));
+                   display_msg(my_mstr(141));
                end                                              // end of regular failure (Locks)
            end                                                  // regular success (Traps)
        end
@@ -989,20 +990,20 @@ procedure Look_Traps_And_Locks begin
        else if (is_critical(Traps_Check)) then begin
            if (is_success(Locks_Check)) then begin
                if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(142));
+                   display_msg(my_mstr(142));
                end                                              // critical success (Locks)
 
                else begin
-                   display_msg(box_mstr(143));
+                   display_msg(my_mstr(143));
                end                                              // regular success (Locks)
            end
 
            else if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(144));
+               display_msg(my_mstr(144));
            end                                                  // critical Failure (Locks)
 
            else begin
-               display_msg(box_mstr(145));
+               display_msg(my_mstr(145));
            end                                                  // end of regular failure (Locks)
        end                                                      // critical Failure (Traps)
 
@@ -1011,20 +1012,20 @@ procedure Look_Traps_And_Locks begin
        else begin
            if (is_success(Locks_Check)) then begin
                if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(146));
+                   display_msg(my_mstr(146));
                end                                              // critical success (Locks)
 
                else begin
-                   display_msg(box_mstr(147));
+                   display_msg(my_mstr(147));
                end                                              // regular success (Locks)
            end
 
            else if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(148));
+               display_msg(my_mstr(148));
            end                                                  // critical Failure (Locks)
 
            else begin
-               display_msg(box_mstr(149));
+               display_msg(my_mstr(149));
            end                                                  // end of regular failure (Locks)
        end                                                      // regular failure (Traps)
    end                                                          // Critical Failure (Stat_pe)
@@ -1045,20 +1046,20 @@ procedure Look_Traps_And_Locks begin
 
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(150));
+                       display_msg(my_mstr(150));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(151));
+                       display_msg(my_mstr(151));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(152));
+                   display_msg(my_mstr(152));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(153));
+                   display_msg(my_mstr(153));
                end                                              // end of regular failure (Locks)
            end                                                  // critical success (Traps)
 
@@ -1067,20 +1068,20 @@ procedure Look_Traps_And_Locks begin
            else begin
                if (is_success(Locks_Check)) then begin
                    if (is_critical(Locks_Check)) then begin
-                       display_msg(box_mstr(154));
+                       display_msg(my_mstr(154));
                    end                                          // critical success (Locks)
 
                    else begin
-                       display_msg(box_mstr(155));
+                       display_msg(my_mstr(155));
                    end                                          // regular success (Locks)
                end
 
                else if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(156));
+                   display_msg(my_mstr(156));
                end                                              // critical Failure (Locks)
 
                else begin
-                   display_msg(box_mstr(157));
+                   display_msg(my_mstr(157));
                end                                              // end of regular failure (Locks)
            end                                                  // regular success (Traps)
        end
@@ -1090,20 +1091,20 @@ procedure Look_Traps_And_Locks begin
        else if (is_critical(Traps_Check)) then begin
            if (is_success(Locks_Check)) then begin
                if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(158));
+                   display_msg(my_mstr(158));
                end                                              // critical success (Locks)
 
                else begin
-                   display_msg(box_mstr(159));
+                   display_msg(my_mstr(159));
                end                                              // regular success (Locks)
            end
 
            else if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(160));
+               display_msg(my_mstr(160));
            end                                                  // critical Failure (Locks)
 
            else begin
-               display_msg(box_mstr(161));
+               display_msg(my_mstr(161));
            end                                                  // end of regular failure (Locks)
        end                                                      // critical Failure (Traps)
 
@@ -1112,20 +1113,20 @@ procedure Look_Traps_And_Locks begin
        else begin
            if (is_success(Locks_Check)) then begin
                if (is_critical(Locks_Check)) then begin
-                   display_msg(box_mstr(162));
+                   display_msg(my_mstr(162));
                end                                              // critical success (Locks)
 
                else begin
-                   display_msg(box_mstr(163));
+                   display_msg(my_mstr(163));
                end                                              // regular success (Locks)
            end
 
            else if (is_critical(Locks_Check)) then begin
-               display_msg(box_mstr(164));
+               display_msg(my_mstr(164));
            end                                                  // critical Failure (Locks)
 
            else begin
-               display_msg(box_mstr(165));
+               display_msg(my_mstr(165));
            end                                                  // end of regular failure (Locks)
        end                                                      // regular failure (Traps)
    end                                                          // Regular Failure (Stat_pe)
@@ -1180,7 +1181,7 @@ procedure damage_p_proc begin
     end
   end
     else begin
-        display_msg(box_mstr(193));
+        display_msg(my_mstr(193));
     end
  end
 #endif
@@ -1254,11 +1255,11 @@ procedure use_skill_on_p_proc begin
        end
        else begin
            if (source_obj == dude_obj) then begin
-               display_msg(box_mstr(195));
+               display_msg(my_mstr(195));
            end
 
            else begin
-               display_msg(obj_name(source_obj)+box_mstr(200));
+               display_msg(obj_name(source_obj)+my_mstr(200));
            end
        end
    end                                                          // End of Skill_Traps
@@ -1283,13 +1284,13 @@ procedure description_p_proc begin
         call Look_Locks;
     end
     else if (DOOR_STATUS == STATE_WOOD) then begin
-        display_msg(box_mstr(100));
+        display_msg(my_mstr(100));
     end
     else if (DOOR_STATUS == STATE_FRIDGE) then begin
-        display_msg(box_mstr(212));
+        display_msg(my_mstr(212));
     end
     else begin
-        display_msg(box_mstr(101));
+        display_msg(my_mstr(101));
     end
 end
 #endif
@@ -1312,17 +1313,17 @@ procedure use_p_proc begin
            reg_anim_clear(source_obj);
 
            if (source_obj == dude_obj) then begin
-               display_msg(box_mstr(204));
+               display_msg(my_mstr(204));
            end
            else begin
-               display_msg(box_mstr(205));
+               display_msg(my_mstr(205));
            end
        end
 
        else begin
            if (obj_is_locked(self_obj)) then begin
                script_overrides;
-               display_msg(box_mstr(203));
+               display_msg(my_mstr(203));
                call Damage_Critter;
            end
            else begin
@@ -1333,7 +1334,7 @@ procedure use_p_proc begin
 
    else if (obj_is_locked(self_obj)) then begin
        script_overrides;
-       display_msg(box_mstr(203));
+       display_msg(my_mstr(203));
    end
 end
 #endif
