@@ -24,8 +24,6 @@
 #define SCRIPT_REALNAME "aitemdor"
 #include "../headers/arcaves.h"
 
-
-
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_INACTIVE
 #define TRAPPED_STATUS                  STATE_INACTIVE
@@ -36,13 +34,8 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-90)
 
-
-
-
 /* Max and Min damage for the trap */
 #define DOOR_STRENGTH                   (3)
-#define MIN_DAMAGE                      (10)
-#define MAX_DAMAGE                      (20)
 #define Crowbar_Strain                  (3)
 
 /* Experience Points for Skills */
@@ -157,18 +150,3 @@ procedure map_update_p_proc begin
        set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
    end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

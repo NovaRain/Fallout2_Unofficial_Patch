@@ -34,14 +34,6 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-50)
 
-#define PARTY_CLOSE_DIST                (5)
-
-
-
-procedure checkPartyMembers;
-
-
-
 #define custom_start
 #define custom_damage_p_proc
 #define custom_map_enter_p_proc
@@ -145,29 +137,4 @@ end
 
 procedure map_update_p_proc begin
    i_cell_door_obj := self_obj;
-end
-
-
-
-#define CHECKMEMBER(inparty, obj)                                           \
-   if (inparty) then begin                                                  \
-      if (tile_distance_objs(self_obj, obj) <= PARTY_CLOSE_DIST) then begin \
-         return 1;                                                          \
-      end                                                                   \
-   end
-
-procedure checkPartyMembers begin
-   CHECKMEMBER(Vic_In_Party, Vic_Ptr)
-   CHECKMEMBER(Myron_In_Party, Myron_Ptr)
-   CHECKMEMBER(Marcus_In_Party, Marcus_Ptr)
-   CHECKMEMBER(MacRae_In_Party, MacRae_Ptr)
-   CHECKMEMBER(Sulik_In_Party, Sulik_Ptr)
-   CHECKMEMBER(Lenny_In_Party, Lenny_Ptr)
-   CHECKMEMBER(Cyberdog_In_Party, Cyberdog_Ptr)
-   CHECKMEMBER(Doc_In_Party, Doc_Ptr)
-   CHECKMEMBER(Goris_In_Party, Goris_Ptr)
-   CHECKMEMBER(Davin_In_Party, Davin_Ptr)
-   CHECKMEMBER(Miria_In_Party, Miria_Ptr)
-   CHECKMEMBER(Robobrain_In_Party, Robobrain_Ptr)
-   return 0;
 end

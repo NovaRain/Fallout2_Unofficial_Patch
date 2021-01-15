@@ -38,23 +38,6 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
 
-
-
-
-
-
-
-#define PARTY_CLOSE_DIST                (5)
-/* How far do party members have to be from the door before it closes */
-
-
-
-
-procedure checkPartyMembers;
-
-
-
-
 #define custom_use_obj_on_p_proc
 #define custom_damage_p_proc
 #define custom_use_skill_on_p_proc
@@ -241,81 +224,4 @@ end
    else begin
        display_msg(mstr(193));
    end
-end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/***************************************************************************************
-   This is to check to see if there are any party members within range of the door
-   so it doesn't close.
-****************************************************************************************/
-
-#define CHECKMEMBER(inparty, obj)                                           \
-   if (inparty) then begin                                                  \
-      if (tile_distance_objs(self_obj, obj) <= PARTY_CLOSE_DIST) then begin \
-         return 1;                                                          \
-      end                                                                   \
-   end
-
-procedure checkPartyMembers begin
-   CHECKMEMBER(Vic_In_Party, Vic_Ptr)
-   CHECKMEMBER(Myron_In_Party, Myron_Ptr)
-   CHECKMEMBER(Marcus_In_Party, Marcus_Ptr)
-   CHECKMEMBER(MacRae_In_Party, MacRae_Ptr)
-   CHECKMEMBER(Sulik_In_Party, Sulik_Ptr)
-   CHECKMEMBER(Lenny_In_Party, Lenny_Ptr)
-   CHECKMEMBER(Cyberdog_In_Party, Cyberdog_Ptr)
-   CHECKMEMBER(Doc_In_Party, Doc_Ptr)
-   CHECKMEMBER(Goris_In_Party, Goris_Ptr)
-   CHECKMEMBER(Davin_In_Party, Davin_Ptr)
-   CHECKMEMBER(Miria_In_Party, Miria_Ptr)
-   CHECKMEMBER(Robobrain_In_Party, Robobrain_Ptr)
-   return 0;
 end

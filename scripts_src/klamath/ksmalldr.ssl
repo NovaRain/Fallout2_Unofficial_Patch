@@ -33,12 +33,6 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
 
-/* Penalties for disarming the trap */
-
-
-
-
-
 #define RAT_KEY                         PID_TRAPPER_TOWN_KEY
 
 procedure key_unlock_door;
@@ -47,24 +41,6 @@ procedure key_lock_door;
 
 #define custom_use_obj_on_p_proc
 #include "../headers/doors.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /**********************************************************************************
@@ -121,49 +97,3 @@ procedure key_lock_door begin
       display_msg(mstr(301));
    end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-
-
-
-
-
-
-
-
-
-
-
-

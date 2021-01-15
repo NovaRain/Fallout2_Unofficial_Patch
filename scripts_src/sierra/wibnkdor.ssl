@@ -39,10 +39,8 @@
 
 
 /* Max and Min damage for the trap */
-#define DOOR_STRENGTH                   (2)
 #define MIN_DAMAGE                      (20)
 #define MAX_DAMAGE                      (40)
-#define Crowbar_Strain                  (2)
 
 
 #define PARTY_CLOSE_DIST                (5)
