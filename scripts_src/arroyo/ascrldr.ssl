@@ -122,74 +122,10 @@ procedure look_at_p_proc begin
 */end
 
 
-/**********************************************************************************
-   Should the player examine the door closely, then he should be allowed a lockpick
-   roll, a traps roll and a perception roll. Depending on which rolls are made will
-   determine how much information about the door will be given.
-**********************************************************************************/
-
-procedure description_p_proc begin
-   script_overrides;
-   if ((local_var(LVAR_Locked) == STATE_ACTIVE) and (local_var(LVAR_Trapped) == STATE_ACTIVE)) then begin
-       call Look_Traps_And_Locks;
-   end
-
-   else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
-       call Look_Traps;
-   end
-
-   else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       call Look_Locks;
-   end
-
-   else if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(mstr(100));
-   end
-
-   else begin
-       display_msg(mstr(101));
-   end
-end
 
 
-/**********************************************************************************
-   Should the player try using a skill on the door, here are where the skill rolls
-   will be made. The ones which need to be in here are: Lockpick and Traps. Science
-   and Repair can be added to this list to give more information about the door.
-**********************************************************************************/
 
-procedure use_skill_on_p_proc begin
-   variable Skill_Used;
 
-   Skill_Used:=action_being_used;
-
-   if (Skill_Used == SKILL_LOCKPICK) then begin
-       script_overrides; //added by killap
-       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-           call Unlock_Lock;
-       end
-       else begin
-           call Set_Lock;
-       end
-   end                                                          // End of Skill_Lockpick
-
-   else if (Skill_Used == SKILL_TRAPS) then begin
-       script_overrides; //added by killap
-       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
-           call Skill_Disarm_Traps;
-       end
-       else begin
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(195));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+mstr(200));
-           end
-       end
-   end                                                          // End of Skill_Traps
-
-end
 
 
 
