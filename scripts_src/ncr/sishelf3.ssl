@@ -1216,4 +1216,3 @@ end
 
 
 #define box_mstr(x) message_str(NAME,x) // custom message file for this box
-#include "../headers/containers2.h"
