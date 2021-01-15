@@ -19,11 +19,9 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "vivltdr3"
 #include "../headers/vctyvlt.h"
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -35,10 +33,8 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-50)
 
-
 #define PARTY_CLOSE_DIST                (5)
 /* How far do party members have to be from the door before it closes */
-
 
 #define custom_use_obj_on_p_proc
 #define custom_use_skill_on_p_proc
@@ -46,7 +42,6 @@
 #include "../headers/doors.h"
 
 import variable vault_city_martin_obj; // Seraph's Code
-
 
 /********************************************************************
    Any time that a critter tries to use this door will call this
@@ -104,11 +99,6 @@ procedure use_p_proc begin
       add_timer_event(self_obj, 10, TIMER_CLOSE);
    end
 end
-
-
-
-
-
 
 /**********************************************************************************
    Should the player try using a skill on the door, here are where the skill rolls
@@ -170,7 +160,6 @@ procedure use_skill_on_p_proc begin
    end                                                          // End of Skill_Traps
 
 end
-
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
@@ -301,56 +290,10 @@ procedure use_obj_on_p_proc begin
 
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
    source_object will unlock the door and display the appropriate messages
 ***************************************************************************/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************************
    This is to check to see if there are any party members within range of the door

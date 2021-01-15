@@ -19,15 +19,12 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "bselev"
 #include "../headers/define.h"
 #define NAME                      SCRIPT_BSELEV
 #include "../headers/command.h"
 #include "../headers/v15.h"
-
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -46,11 +43,6 @@
 #define Crowbar_Bonus                   (-200)
 
 #define DOOR_STRENGTH                   (200)
-
-
-
-
-
 
 #define custom_use_obj_on_p_proc
 #define custom_Damage_Critter
@@ -106,7 +98,6 @@ procedure use_skill_on_p_proc begin
 
 end
 
-
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
@@ -134,7 +125,6 @@ procedure use_obj_on_p_proc begin
    else elec_lockpick_inner_block
 end
 
-
 /******************************************************************************************
    Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
    or any other forms of damage), this procedure will be called to destroy the door and
@@ -146,7 +136,6 @@ procedure damage_p_proc begin
       display_mstr(193);
    end
 end
-
 
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
@@ -163,7 +152,6 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Trapped, STATE_INACTIVE);
     end
 
-
 /* Set up the door state when the player first enters the map */
    if (local_var(LVAR_Set_Door_Status) == 0) then begin
        set_local_var(LVAR_Set_Door_Status,1);
@@ -179,31 +167,6 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
@@ -260,8 +223,6 @@ procedure Lockpick_Door begin
        end
    end
 end
-
-
 
 /**************************************************************************************
    Should the trap go off for any reason by critter influence, then this procedure will

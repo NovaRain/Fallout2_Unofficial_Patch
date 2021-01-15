@@ -19,7 +19,6 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "sislvdor"
 #include "../headers/define.h"
@@ -28,8 +27,6 @@
 
 #include "../headers/ncr.h"
 #include "../headers/ncrent.h"
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -40,17 +37,9 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
 
-
-
-
-
-
-
 #define NUM_OF_PENS                     (13)
 
 procedure destroy_p_proc;
-
-
 
 #define custom_use_obj_on_p_proc
 #define custom_map_enter_p_proc
@@ -118,7 +107,6 @@ procedure use_skill_on_p_proc begin
    end                                                          // End of Skill_Traps
 
 end
-
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
@@ -199,6 +187,4 @@ procedure map_enter_p_proc begin
    else if (self_tile == SLVDORG4D3) then
       set_slave_door(g4d3);
 end
-
-
 

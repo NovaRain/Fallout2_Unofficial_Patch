@@ -19,10 +19,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "sikdoor"
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -41,7 +39,6 @@
 #include "../headers/doors.h"
 
 import variable i_cell_door_obj;
-
 
 procedure start begin
    i_cell_door_obj := self_obj;
@@ -100,7 +97,6 @@ procedure damage_p_proc begin
    end
 end
 
-
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
    this procedure is to lock the door from the outset, rather than having to worry about
@@ -126,7 +122,6 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
 
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make

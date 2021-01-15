@@ -19,12 +19,9 @@
            Updated:
 */
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "midavdor"
 #include "../headers/modoc.h"
-
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_INACTIVE
@@ -35,15 +32,6 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
-
-
-
-
-
-
-
-
-
 
 procedure map_exit_p_proc;
 procedure Destroy_P_Proc;
@@ -74,12 +62,10 @@ procedure Destroy_P_Proc;
    Local variables which do not need to be saved between map changes.
 */
 
-
 import variable cage_door_obj;
 import variable coup_door_obj;
 import variable modoc_death_claw_obj;
 import variable slag_guard_obj;
-
 
 /*
                          PROCEDURES
@@ -117,8 +103,6 @@ procedure timed_event_p_proc begin
       end
    end
 end
-
-
 
 /**
    Any time that a critter tries to use this door will call this
@@ -209,7 +193,6 @@ procedure description_p_proc begin
    end
 end
 
-
 /*
    Should the player try using a skill on the door, here are where the skill rolls
    will be made. The ones which need to be in here are: Lockpick and Traps. Science
@@ -264,7 +247,6 @@ variable tamper := false;
 
 end
 
-
 /*
    This is called when the player is using an object on the door. When the check is
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
@@ -311,9 +293,6 @@ procedure use_obj_on_p_proc begin
       end
    end
 end
-
-
-
 
 /*
    Whenever the map is first entered, this procedure will be called. The main purpose of
@@ -411,12 +390,6 @@ procedure Lock_Door begin
       end
    end
 end
-
-
-
-
-
-
 
 procedure destroy_p_proc begin
    if (cage_door) then begin

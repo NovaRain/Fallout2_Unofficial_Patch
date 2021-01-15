@@ -18,11 +18,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "ascrldr"
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -35,32 +32,12 @@
 
 /* Penalties for disarming the trap */
 
-
-
-
-
-
 /* Standard Script Procedures */
-
 
 /* Script Specific Procedure Calls */
 
-
-
-
 #define custom_look_at_p_proc
 #include "../headers/doors.h"
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************
    This is cursory glance description that the player will receive should
@@ -80,48 +57,8 @@ procedure look_at_p_proc begin
    end
 */end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
    source_object will unlock the door and display the appropriate messages
 ***************************************************************************/
-
 

@@ -18,11 +18,9 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "hscrldr"
 #include "../headers/broken1.h"
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -35,11 +33,6 @@
 
 /* Penalties for disarming the trap */
 
-
-
-
-
-
 //added by killap - makes for easier changes in the future
 #define JAIL_DOOR_1_HEX 10890
 #define JAIL_DOOR_2_HEX 10886
@@ -49,7 +42,6 @@
 procedure timed_event_p_proc;
 procedure key_unlock_door;
 procedure key_lock_door;
-
 
 #define custom_start
 #define custom_use_obj_on_p_proc
@@ -65,11 +57,6 @@ procedure key_lock_door;
 import variable Jail_Door_1;
 import variable Jail_Door_2;
 import variable Guard_Ptr;
-
-
-
-
-
 
 procedure start begin
    if( self_tile == JAIL_DOOR_1_HEX) then
@@ -140,11 +127,6 @@ procedure use_p_proc begin
    end
 end
 
-
-
-
-
-
 /**********************************************************************************
    Should the player try using a skill on the door, here are where the skill rolls
    will be made. The ones which need to be in here are: Lockpick and Traps. Science
@@ -191,7 +173,6 @@ procedure use_skill_on_p_proc begin
    end                                                          // End of Skill_Traps
 
 end
-
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
@@ -254,7 +235,6 @@ procedure key_lock_door begin
    end
 end
 
-
 /******************************************************************************************
    Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
    or any other forms of damage), this procedure will be called to destroy the door and
@@ -305,7 +285,6 @@ procedure damage_p_proc begin
    end
 end
 
-
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
    this procedure is to lock the door from the outset, rather than having to worry about
@@ -341,7 +320,6 @@ procedure map_enter_p_proc begin
       Jail_Door_2 := self_obj;
 end
 
-
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make
    sure that the door does not lock on it's own and that the player will be able to get
@@ -368,28 +346,6 @@ procedure map_update_p_proc begin
    else if( self_tile == JAIL_DOOR_2_HEX) then
       Jail_Door_2 := self_obj;
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
@@ -443,21 +399,4 @@ procedure Lockpick_Door begin
        end
    end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

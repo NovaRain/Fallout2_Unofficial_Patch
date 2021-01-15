@@ -19,11 +19,9 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "rivltdor"
 #include "../headers/reddown.h"
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -35,16 +33,13 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-60)
 
-
 #define DOOR_STRENGTH                   (4)
-
 
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NEG_40
 
 #define PARTY_CLOSE_DIST                (5)
 /* How far do party members have to be from the door before it closes */
-
 
 #define custom_use_obj_on_p_proc
 #define custom_damage_p_proc
@@ -107,11 +102,6 @@ procedure use_p_proc begin
    end
 end
 
-
-
-
-
-
 /**********************************************************************************
    Should the player try using a skill on the door, here are where the skill rolls
    will be made. The ones which need to be in here are: Lockpick and Traps. Science
@@ -120,7 +110,6 @@ end
 
 procedure use_skill_on_p_proc begin
    variable Skill_Used;
-
 
    if (map_var(MVAR_Using_Locked_Door) == 0) then begin
        set_map_var(MVAR_Using_Locked_Door,1);
@@ -159,7 +148,6 @@ procedure use_skill_on_p_proc begin
 
 end
 
-
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
@@ -190,7 +178,6 @@ procedure use_obj_on_p_proc begin
 
 end
 
-
 /******************************************************************************************
    Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
    or any other forms of damage), this procedure will be called to destroy the door and
@@ -200,9 +187,7 @@ end
 procedure damage_p_proc begin
    variable Trap_Damage;
 
-
    set_map_var(MVAR_Using_Locked_Door,3);
-
 
   /************ Wood Door ****************/
 

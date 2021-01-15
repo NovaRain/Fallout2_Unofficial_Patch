@@ -19,14 +19,11 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "ssgundor"
 #define TRU_NAME                SCRIPT_SSGUNDOR
 #include "../headers/ncr2.h"
 #include "../headers/ncr.h"
-
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_INACTIVE
@@ -43,7 +40,6 @@
 #define custom_use_skill_on_p_proc
 #define custom_use_p_proc
 #include "../headers/doors.h"
-
 
 import variable i_gunther_obj;
 
@@ -94,11 +90,6 @@ procedure use_p_proc begin
    end
 end
 
-
-
-
-
-
 /**********************************************************************************
    Should the player try using a skill on the door, here are where the skill rolls
    will be made. The ones which need to be in here are: Lockpick and Traps. Science
@@ -142,7 +133,6 @@ procedure use_skill_on_p_proc begin
    end
 end
 
-
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
    made to find out what is being used, obj_pid(obj_being_used_with) will need to
@@ -170,7 +160,6 @@ procedure use_obj_on_p_proc begin
    end
 
 end
-
 
 /******************************************************************************************
    Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,

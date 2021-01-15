@@ -19,11 +19,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "bssdor1"
-
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -34,17 +31,6 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
-
-
-
-
-
-
-
-
-
-
-
 
 #define custom_start
 #define custom_use_obj_on_p_proc
@@ -58,13 +44,6 @@
 #include "../headers/v15.h"
 
 import variable i_cell_door;
-
-
-
-
-
-
-
 
 procedure start begin
    if (self_tile == CELL_DOOR_TILE) then begin
@@ -89,8 +68,6 @@ procedure timed_event_p_proc begin
       set_local_var(LVAR_Trapped, STATE_INACTIVE);
    end
 end
-
-
 
 /********************************************************************
    Any time that a critter tries to use this door will call this
@@ -142,14 +119,6 @@ procedure use_p_proc begin
    set_map_var(MVAR_Khans_Check, 1);
 
 end
-
-
-
-
-
-
-
-
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
@@ -207,33 +176,6 @@ procedure use_obj_on_p_proc begin
 
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
    source_object will unlock the door and display the appropriate messages
@@ -285,19 +227,6 @@ procedure Lockpick_Door begin
    end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /**************************************************************************************
    Should the trap go off for any reason by critter influence, then this procedure will
    be called to deal damage to the critter, display a message stating how much damage
@@ -324,7 +253,4 @@ procedure Damage_Critter begin
 /* The trap is now disarmed and should never go off again.                           */
    set_local_var(LVAR_Trapped, STATE_INACTIVE);
 end
-
-
-
 

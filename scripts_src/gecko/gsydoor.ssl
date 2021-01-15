@@ -18,13 +18,9 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "gsydoor"
 #include "../headers/geckpwpl.h"
-
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -37,25 +33,17 @@
 
 /* Penalties for disarming the trap */
 
-
-
-
-
 #define REACTOR_KEY                     PID_YELLOW_PASS_KEY
-
 
 procedure timed_event_p_proc;
 procedure key_lock_door;
 procedure key_unlock_door;
 procedure anger;
 
-
 #define custom_use_obj_on_p_proc
 #define custom_use_skill_on_p_proc
 #define custom_timed_event_p_proc
 #include "../headers/doors.h"
-
-
 
 procedure timed_event_p_proc begin
    set_map_var(MVAR_Lockpick_Attempt,0);
@@ -105,7 +93,6 @@ procedure use_skill_on_p_proc begin
    end                                                          // End of Skill_Traps
 
 end
-
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is

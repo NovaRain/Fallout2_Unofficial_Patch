@@ -18,12 +18,9 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "gsrdoor"
 #include "../headers/geckpwpl.h"
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -40,8 +37,6 @@ procedure timed_event_p_proc;
 procedure key_lock_door;
 procedure key_unlock_door;
 procedure anger;
-
-
 
 #define custom_use_obj_on_p_proc
 #define custom_use_skill_on_p_proc
@@ -96,7 +91,6 @@ procedure use_skill_on_p_proc begin
    end                                                          // End of Skill_Traps
 
 end
-
 
 /**********************************************************************************
    This is called when the player is using an object on the door. When the check is
@@ -153,56 +147,8 @@ procedure key_lock_door begin
    end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
    source_object will unlock the door and display the appropriate messages
 ***************************************************************************/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

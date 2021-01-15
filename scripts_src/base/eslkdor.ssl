@@ -18,11 +18,8 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "eslkdor"
-
-
 
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -35,7 +32,5 @@
 
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NEG_30
-
-
 
 #include "../headers/doors.h"

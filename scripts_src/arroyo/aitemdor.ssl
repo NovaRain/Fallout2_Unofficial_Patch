@@ -19,7 +19,6 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "aitemdor"
 #include "../headers/arcaves.h"
@@ -40,7 +39,6 @@
 
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NEG_90
-
 
 #define LVAR_Used_Key                   (7)
 
@@ -84,7 +82,6 @@ procedure use_obj_on_p_proc begin
 
 end
 
-
 /***************************************************************************************
    Whenever the map is first entered, this procedure will be called. The main purpose of
    this procedure is to lock the door from the outset, rather than having to worry about
@@ -112,7 +109,6 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
    end
 end
-
 
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make

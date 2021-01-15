@@ -19,12 +19,9 @@
            Updated:
 ******************************************************************************************/
 
-
 /* Include Files */
 #define SCRIPT_REALNAME "wibaydor"
 #include "../headers/depolva.h"
-
-
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE
@@ -36,50 +33,16 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-80)
 
-
-
-
-
-
 /* Experience Points for Skills */
 #define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
 
 #define PARTY_CLOSE_DIST                (5)
 /* How far do party members have to be from the door before it closes */
 
-
-
-
-
 procedure Check_Repair(variable Cur_Var);
-
-
 
 #define custom_map_update_p_proc
 #include "../headers/doors.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /**************************************************************************************
    This procedure gets called roughly every 30 seconds of real time. It is used to make
@@ -106,46 +69,10 @@ procedure map_update_p_proc begin
    call Check_Repair(MVAR_Repair_Request6);
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***************************************************************************
    This procedure will check against the roll_vs_lockpick to see if the
    source_object will unlock the door and display the appropriate messages
 ***************************************************************************/
-
-
-
-
-
-
-
-
-
-
-
-
 
 procedure Check_Repair(variable Cur_Var) begin
    if (cur_map_index == MAP_SIERRA_123) then begin
@@ -155,9 +82,6 @@ procedure Check_Repair(variable Cur_Var) begin
        end
    end
 end
-
-
-
 
 /***************************************************************************************
    This is to check to see if there are any party members within range of the door
