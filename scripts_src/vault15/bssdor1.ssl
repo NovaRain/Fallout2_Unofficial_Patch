@@ -50,6 +50,8 @@
 #define custom_use_obj_on_p_proc
 #define custom_Damage_Critter
 #define custom_Lockpick_Door
+#define custom_timed_event_p_proc
+#define custom_use_p_proc
 #include "../headers/doors.h"
 
 #include "../headers/v15sent.h"
@@ -59,7 +61,7 @@ import variable i_cell_door;
 
 
 
-variable last_source_obj;
+
 
 
 

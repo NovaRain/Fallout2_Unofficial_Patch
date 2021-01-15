@@ -33,13 +33,6 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-60)
 
-/* Penalties for disarming the trap */
-
-
-
-
-
-
 
 #define custom_look_at_p_proc
 #define custom_Pry_Door
@@ -48,14 +41,8 @@
 #define custom_damage_p_proc
 #define custom_description_p_proc
 #define custom_use_skill_on_p_proc
+#define custom_use_p_proc
 #include "../headers/doors.h"
-
-
-
-
-
-
-
 
 
 /********************************************************************
@@ -167,39 +154,13 @@ end
    or any other forms of damage), this procedure will be called to destroy the door and
    free up the space.
 ******************************************************************************************/
-
 procedure damage_p_proc begin
    script_overrides; //you cannot destroy this door
 end
 
-
-
-
-
-
-
-/*********************************************************************************
-   This is the set of conditions for when you look at a locked door, based on your
-   lockpick skill and perception to notice the lock.
-*********************************************************************************/
-
 procedure Look_Locks begin
    display_msg(mstr(503));
 end
-
-
-
-
-
-
-
-
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-
-
 
 procedure Pry_Door begin
    display_msg(mstr(500));

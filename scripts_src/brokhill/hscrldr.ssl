@@ -58,6 +58,8 @@ procedure key_lock_door;
 #define custom_map_enter_p_proc
 #define custom_map_update_p_proc
 #define custom_use_skill_on_p_proc
+#define custom_timed_event_p_proc
+#define custom_use_p_proc
 #include "../headers/doors.h"
 
 import variable Jail_Door_1;

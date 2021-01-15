@@ -55,6 +55,9 @@
    #define Traps_Exp                       EXP_TRAPS_NORMAL
 #endif
 
+#ifndef CLOSE_STATUS
+    #define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
+#endif
 /* Door close distance */
 #ifndef DOOR_CLOSE_DIST
    #define DOOR_CLOSE_DIST                 (2)
@@ -135,7 +138,7 @@ procedure trap_search_result(variable found_trap, variable who);
 *******************************************************************/
 variable Locks_Roll;
 variable Traps_Roll;
-
+variable last_source_obj;
 
 procedure trap_search_result(variable found_trap, variable who) begin
    if (found_trap == 0) then begin // can't see trap
@@ -1369,5 +1372,75 @@ procedure description_p_proc begin
 end
 #endif
 
+// auto close timer
+#ifndef custom_timed_event_p_proc
+    #if (CLOSE_STATUS == STATE_DOOR_CLOSE)
+        procedure timed_event_p_proc begin
+           if (obj_is_open(self_obj)) then begin
+              if not combat_is_initialized then begin
+                 if ((tile_distance_objs(dude_obj, self_obj) > DOOR_CLOSE_DIST) and
+                     (checkPartyMembersNearDoor == false) and
+                     ((tile_distance_objs(self_obj, last_source_obj) > DOOR_CLOSE_DIST) or
+                      (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
+                    obj_close(self_obj);
+                 end else begin
+                    add_timer_event(self_obj, 10, TIMER_CLOSE);
+                 end
+              end else begin
+                 add_timer_event(self_obj, 10, TIMER_CLOSE);
+              end
+           end
+        end
+            
+    #endif
+#endif
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+#ifndef custom_use_p_proc
+procedure use_p_proc begin
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+
+   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+
+   if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+       if (is_success(Traps_Roll)) then begin
+           script_overrides;
+           set_local_var(LVAR_Found_Trap,1);
+           reg_anim_clear(source_obj);
+
+           if (source_obj == dude_obj) then begin
+               display_msg(door_mstr(204));
+           end
+           else begin
+               display_msg(door_mstr(205));
+           end
+       end
+
+       else begin
+           if (obj_is_locked(self_obj)) then begin
+               script_overrides;
+               display_msg(door_mstr(203));
+               call Damage_Critter;
+           end
+           else begin
+               call Damage_Critter;
+           end
+       end
+   end
+
+   else if (obj_is_locked(self_obj)) then begin
+       script_overrides;
+       display_msg(door_mstr(203));
+   end
+   if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin
+      last_source_obj := source_obj;
+      add_timer_event(self_obj, 10, TIMER_CLOSE);
+   end
+end
+#endif
 
 #endif // DOORS_H

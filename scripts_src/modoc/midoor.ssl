@@ -36,16 +36,6 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
 
-
-
-
-
-
-
-
-
-
-
 procedure map_exit_p_proc;
 procedure Destroy_P_Proc;
 
@@ -61,6 +51,9 @@ procedure Destroy_P_Proc;
 #define custom_map_update_p_proc
 #define custom_use_skill_on_p_proc
 #define custom_description_p_proc
+#define custom_timed_event_p_proc
+#define custom_use_obj_on_p_proc
+#define custom_use_p_proc
 #include "../headers/doors.h"
 
 /*
@@ -73,7 +66,7 @@ procedure Destroy_P_Proc;
    Local variables which do not need to be saved between map changes.
 */
 
-variable last_source_obj;
+
 import variable cage_door_obj;
 import variable coup_door_obj;
 import variable modoc_death_claw_obj;
