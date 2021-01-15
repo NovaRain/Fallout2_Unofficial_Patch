@@ -52,23 +52,13 @@
 
 
 
-#define custom_look_at_p_proc
 #define custom_use_obj_on_p_proc
 #define custom_Damage_Critter
-#define custom_Lock_Door
 #define custom_Lockpick_Door
 #define custom_mstr NAME
 #include "../headers/doors.h"
 
-
-
-
-
 variable last_source_obj;
-
-
-
-
 
 procedure timed_event_p_proc begin
    if (obj_is_open(self_obj)) then begin
@@ -137,25 +127,6 @@ procedure use_p_proc begin
       add_timer_event(self_obj, 10, TIMER_CLOSE);
    end
 end
-
-/***************************************************************************
-   This is cursory glance description that the player will receive should
-   he just pass the Action Cursor over. Examines which give more information
-   need to be in the description_p_proc procedure.
-***************************************************************************/
-
-procedure look_at_p_proc begin
-   script_overrides;
-
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(mstr(100));
-   end
-
-   else begin
-       display_msg(mstr(101));
-   end
-end
-
 
 /**********************************************************************************
    Should the player examine the door closely, then he should be allowed a lockpick
@@ -959,46 +930,6 @@ procedure Lockpick_Door begin
        end
    end
 end
-
-
-
-
-
-
-
-
-procedure Lock_Door begin
-   if (is_success(Locks_Roll)) then begin
-       set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
-       obj_lock(self_obj);                                      // engine unlock door
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(189));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(191));
-       end
-
-       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
-           set_local_var(LVAR_Gave_Locks_XP,1);
-           give_xp(Lockpick_Exp);
-       end
-   end
-
-   else begin
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(190));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(192));
-       end
-   end
-end
-
-
-
 
 
 
