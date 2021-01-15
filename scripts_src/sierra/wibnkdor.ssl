@@ -40,13 +40,3 @@
 /* How far do party members have to be from the door before it closes */
 
 #include "../headers/doors.h"
-
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-
-/***************************************************************************************
-   This is to check to see if there are any party members within range of the door
-   so it doesn't close.
-****************************************************************************************/

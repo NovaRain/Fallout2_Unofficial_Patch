@@ -71,9 +71,3 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 end
-
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-

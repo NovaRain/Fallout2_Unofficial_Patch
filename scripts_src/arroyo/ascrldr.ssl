@@ -30,35 +30,11 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
 
-/* Penalties for disarming the trap */
-
-/* Standard Script Procedures */
-
 /* Script Specific Procedure Calls */
 
 #define custom_look_at_p_proc
 #include "../headers/doors.h"
 
-/***************************************************************************
-   This is cursory glance description that the player will receive should
-   he just pass the Action Cursor over. Examines which give more information
-   need to be in the description_p_proc procedure.
-***************************************************************************/
-
 procedure look_at_p_proc begin
    script_overrides;
-
-/*   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(mstr(100));
-   end
-
-   else begin
-       display_msg(mstr(101));
-   end
-*/end
-
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-
+end

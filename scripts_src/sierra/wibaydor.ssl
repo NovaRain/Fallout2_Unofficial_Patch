@@ -82,8 +82,3 @@ procedure Check_Repair(variable Cur_Var) begin
        end
    end
 end
-
-/***************************************************************************************
-   This is to check to see if there are any party members within range of the door
-   so it doesn't close.
-****************************************************************************************/

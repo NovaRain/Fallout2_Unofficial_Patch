@@ -30,7 +30,4 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-60)
 
-/* Penalties for disarming the trap */
-
 #include "../headers/doors.h"
-
