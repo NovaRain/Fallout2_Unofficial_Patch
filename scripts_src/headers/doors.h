@@ -573,4 +573,17 @@ procedure Set_Trap begin
 end
 #endif
 
+/*********************************************************************************
+   This procedure will do a standard Traps roll to see if the player can
+   find and remove traps from the door.
+*********************************************************************************/
+#ifndef custom_Skill_Disarm_Traps
+procedure Skill_Disarm_Traps begin
+   /* Trap_Roll is a global variable to this script, defined at the beginning
+      of the script. */   
+   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+   call Disarm_Traps;
+end
+#endif
+   
 #endif // DOORS_H
