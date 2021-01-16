@@ -203,7 +203,6 @@ end
       elec_lockpick_inner_block \
    end
 
-
 #define full_lockpick_block \
    std_lockpick_outer_block \
    elec_lockpick_outer_block
