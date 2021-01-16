@@ -259,26 +259,23 @@ be checked against a prototype.
 #ifndef custom_use_obj_on_p_proc
   procedure use_obj_on_p_proc begin
     variable Tool;
-    
     Tool:=obj_pid(obj_being_used_with);
-    
-    full_lockpick_block
-    
-    else if (Tool == PID_CROWBAR) then begin
-      script_overrides; //added by killap
+
+    if (Tool == PID_CROWBAR) then begin
+      script_overrides;
       call Pry_Door;
     end
-    
-    else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
-      script_overrides; //added by killap
+    if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
+      script_overrides;
       call Set_Trap;
     end
     
+    full_lockpick_block
   end
 #endif
 
 #ifndef custom_start
-procedure start begin end
+  procedure start begin end
 #endif
 
 /***************************************************************************
