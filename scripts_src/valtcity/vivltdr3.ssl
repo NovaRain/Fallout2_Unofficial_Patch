@@ -181,71 +181,13 @@ procedure use_obj_on_p_proc begin
   variable Tool;
   
   Tool:=obj_pid(obj_being_used_with);
-  
-  if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-    if (Tool == PID_LOCKPICKS) then begin
-      martin_sees_lockpick_block
-      else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-        script_overrides; // DJS
-        call Lockpick_Lock;
-      end
-      else begin
-        script_overrides; // DJS
-        call Set_Lockpick_Lock;
-      end
-    end
-    else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-      martin_sees_lockpick_block
-      else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-        script_overrides; // DJS
-        call Super_Lockpick_Lock;
-      end
-      else begin
-        script_overrides; // DJS
-        call Super_Set_Lockpick_Lock;
-      end
-    end
-  end
-  
-  else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
-    if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-      martin_sees_lockpick_block
-      else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-        script_overrides; // DJS
-        call Lockpick_Lock;
-      end
-      else begin
-        script_overrides; // DJS
-        call Set_Lockpick_Lock;
-      end
-    end
-    else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-      martin_sees_lockpick_block
-      else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-        script_overrides; // DJS
-        call Super_Lockpick_Lock;
-      end
-      else begin
-        script_overrides; // DJS
-        call Super_Set_Lockpick_Lock;
-      end
-    end
-  end
-  
-  else if (Tool == PID_CROWBAR) then begin
+  if ( (LOCK_STATUS == STATE_STANDARD_LOCK) and (Tool == PID_LOCKPICKS or Tool == PID_EXP_LOCKPICK_SET) )
+  or ( (LOCK_STATUS == STATE_ELECTRIC_LOCK) and (Tool == PID_ELECTRONIC_LOCKPICKS or Tool == PID_ELEC_LOCKPICK_MKII) )
+  or ( Tool == PID_CROWBAR or Tool == PID_DYNAMITE or Tool == PID_PLASTIC_EXPLOSIVES)
+  then begin
     martin_sees_lockpick_block
-    else begin
-      script_overrides; // DJS
-      call Pry_Door;
-    end
+    return;
   end
-  
-  else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
-    martin_sees_lockpick_block
-    else begin
-      script_overrides; // DJS
-      call Set_Trap;
-    end
-  end
-  
+  pry_trap_block
+  full_lockpick_block
 end
