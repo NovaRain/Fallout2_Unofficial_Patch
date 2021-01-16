@@ -288,6 +288,7 @@
 {187}{}{ strains her back while trying to bust the lock and takes }
 {188}{}{ points of damage.}
 
+{601}{}{It is open, dummy.}
 #############################################################
 #  Damage done to the door due to explosives.               #
 #############################################################

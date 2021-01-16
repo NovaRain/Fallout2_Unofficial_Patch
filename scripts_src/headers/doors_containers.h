@@ -190,7 +190,12 @@ crowbar or some similar instrument.
 #ifndef custom_Pry_Door
   procedure Pry_Door begin
     variable Stat_Roll;
-    
+
+    if not obj_is_locked(self_obj) then begin
+      display_msg(my_mstr(601));
+      return;
+    end
+
     Stat_Roll:=do_check(source_obj,STAT_st,Crowbar_Bonus);
     
     if (is_success(Stat_Roll)) then begin
