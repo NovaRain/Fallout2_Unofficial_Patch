@@ -166,16 +166,7 @@ procedure use_obj_on_p_proc begin
    end
 
    full_lockpick_block
-   else if (Tool == PID_CROWBAR) then begin
-       script_overrides; //added by killap
-       call Pry_Door;
-   end
-
-   else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
-       script_overrides; //added by killap
-       call Set_Trap;
-   end
-
+   pry_trap_block
 end
 
 /******************************************************************************************

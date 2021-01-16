@@ -101,7 +101,7 @@ procedure use_obj_on_p_proc begin
    variable Tool;
 
    Tool:=obj_pid(obj_being_used_with);
-
+   pry_trap_block
    std_lockpick_outer_block
 
    else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
@@ -116,17 +116,6 @@ procedure use_obj_on_p_proc begin
        end
        else elec_lockpick_inner_block
    end
-
-   else if (Tool == PID_CROWBAR) then begin
-       script_overrides; //added by killap
-       call Pry_Door;
-   end
-
-   else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
-       script_overrides; //added by killap
-       call Set_Trap;
-   end
-
 end
 
 procedure key_unlock_door begin

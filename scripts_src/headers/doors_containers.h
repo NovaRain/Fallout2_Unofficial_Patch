@@ -153,7 +153,19 @@ end
 std_lockpick_outer_block \
 elec_lockpick_outer_block
 
-
+#define pry_block \
+  if (Tool == PID_CROWBAR) then begin \
+    script_overrides; \
+    call Pry_Door; \
+  end
+#define trap_block \
+  if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin \
+    script_overrides; \
+    call Set_Trap; \
+  end
+#define pry_trap_block \
+  pry_block \
+  trap_block
 
 /**************************************************************************************
 Should the trap go off for any reason by critter influence, then this procedure will
@@ -265,16 +277,7 @@ be checked against a prototype.
   procedure use_obj_on_p_proc begin
     variable Tool;
     Tool:=obj_pid(obj_being_used_with);
-
-    if (Tool == PID_CROWBAR) then begin
-      script_overrides;
-      call Pry_Door;
-    end
-    if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
-      script_overrides;
-      call Set_Trap;
-    end
-    
+    pry_trap_block
     full_lockpick_block
   end
 #endif
