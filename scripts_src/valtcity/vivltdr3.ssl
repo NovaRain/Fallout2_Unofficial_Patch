@@ -43,6 +43,17 @@
 
 import variable vault_city_martin_obj; // Seraph's Code
 
+// Detect if the player is caught by Martin. Martin is not on
+// the map at night, so make sure to check his Map Var.
+#define martin_sees_lockpick_block \
+  if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and \
+    ( obj_can_see_obj( vault_city_martin_obj, source_obj ) ) and \
+    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and \
+    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin \
+      script_overrides; \
+      set_map_var( MVAR_Martin_Sees_Lockpick, 1 ); \
+  end
+
 /********************************************************************
 Any time that a critter tries to use this door will call this
 procedure. it will check to see if the door is trapped and locked.
@@ -54,15 +65,7 @@ procedure use_p_proc begin
   
   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
   
-  // Detect if the player is caught by Martin. Martin is not on
-  // the map at night, so make sure to check his Map Var.
-  if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and
-  ( obj_can_see_obj( vault_city_martin_obj, source_obj ) ) and  //killap - added martin_obj
-  ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and
-  ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin
-    script_overrides;
-    set_map_var( MVAR_Martin_Sees_Lockpick, 1 );
-  end
+  martin_sees_lockpick_block
   else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
     if (is_success(Traps_Roll)) then begin
       script_overrides;
@@ -113,15 +116,7 @@ procedure use_skill_on_p_proc begin
   
   if (Skill_Used == SKILL_LOCKPICK) then begin
     
-    // Detect if the player is caught by Martin. Martin is not on
-    // the map at night, so make sure to check his Map Var.
-    if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and
-    ( obj_can_see_obj( vault_city_martin_obj, source_obj ) ) and //killap - added martin_obj
-    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and
-    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin
-      script_overrides;
-      set_map_var( MVAR_Martin_Sees_Lockpick, 1 );
-    end
+    martin_sees_lockpick_block
     else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
       script_overrides; // DJS
       call Unlock_Lock;
@@ -134,15 +129,7 @@ procedure use_skill_on_p_proc begin
   
   else if (Skill_Used == SKILL_TRAPS) then begin
     
-    // Detect if the player is caught by Martin. Martin is not on
-    // the map at night, so make sure to check his Map Var.
-    if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and
-    ( obj_can_see_obj( vault_city_martin_obj, source_obj ) ) and //killa - added martin_obj
-    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and
-    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin
-      script_overrides;
-      set_map_var( MVAR_Martin_Sees_Lockpick, 1 );
-    end
+    martin_sees_lockpick_block
     else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
       script_overrides; // DJS
       call Skill_Disarm_Traps;
@@ -166,16 +153,6 @@ This is called when the player is using an object on the door. When the check is
 made to find out what is being used, obj_pid(obj_being_used_with) will need to
 be checked against a prototype.
 **********************************************************************************/
-// Detect if the player is caught by Martin. Martin is not on
-// the map at night, so make sure to check his Map Var.
-#define martin_sees_lockpick_block \
-  if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and \
-    ( obj_can_see_obj( vault_city_martin_obj, source_obj ) ) and \
-    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and \
-    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin \
-      script_overrides; \
-      set_map_var( MVAR_Martin_Sees_Lockpick, 1 ); \
-  end
 
 procedure use_obj_on_p_proc begin
   variable Tool;
