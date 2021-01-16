@@ -105,8 +105,8 @@ procedure Set_Lockpick_Lock;
 procedure Set_Trap;
 procedure Pry_Door;
 procedure Damage_Critter;
-procedure Super_Lockpick_Lock; //added by killap
-procedure Super_Set_Lockpick_Lock; //added by killap
+procedure Super_Lockpick_Lock;
+procedure Super_Set_Lockpick_Lock;
 
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
