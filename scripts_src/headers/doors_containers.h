@@ -89,6 +89,7 @@ variable Locks_Roll;
 variable Traps_Roll;
 
 // display mstr, depending on who's the object
+// needs "my_mstr"
 #define pc_npc_dmstr(who, pc_line, npc_line) \
   if (who == dude_obj) then begin \
     display_msg(my_mstr(pc_line)); \
@@ -99,17 +100,9 @@ variable Traps_Roll;
 
 procedure trap_search_result(variable found_trap, variable who) begin
   if (found_trap == 0) then begin // can't see trap
-    if (who == dude_obj) then begin
-      display_msg(my_mstr(195));
-    end else begin
-      display_msg(obj_name(who) + my_mstr(200));
-    end
+    pc_npc_dmstr(who, 195, 200)
   end else begin // found trap
-    if (who == dude_obj) then begin
-      display_msg(my_mstr(198));
-    end else begin
-      display_msg(obj_name(who) + my_mstr(200));
-    end
+    pc_npc_dmstr(who, 198, 200)
   end
 end
 
