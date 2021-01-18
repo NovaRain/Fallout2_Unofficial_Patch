@@ -88,6 +88,15 @@ Local variables which do not need to be saved between map changes.
 variable Locks_Roll;
 variable Traps_Roll;
 
+// display mstr, depending on who's the object
+#define pc_npc_dmstr(who, pc_line, npc_line) \
+  if (who == dude_obj) then begin \
+    display_msg(my_mstr(pc_line)); \
+  end else begin \
+    display_msg(obj_name(who) + my_mstr(npc_line)); \
+  end
+
+
 procedure trap_search_result(variable found_trap, variable who) begin
   if (found_trap == 0) then begin // can't see trap
     if (who == dude_obj) then begin
@@ -458,6 +467,7 @@ the player or NPC set off the trap or disarms it.
 // explosion that uses real item stats
 procedure real_explosion(variable explosive) begin
   variable dmg = get_explosion_damage(obj_pid(explosive));
+  pc_npc_dmstr(source_obj, 610, 611)
   explosion(source_tile, self_elevation, random(dmg[0], dmg[1]));
 end
 
@@ -472,10 +482,10 @@ will need to be closed, as all traps are set to go off if the door is openned.
     
     /* Trap_Roll is a global variable to this script, defined at the beginning
     of the script. */
-    
     Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Set_Bonus);
     
     Explosive:=obj_being_used_with;
+
     if (obj_is_open(self_obj)) then begin
       script_overrides;
       if (source_obj == dude_obj) then begin
