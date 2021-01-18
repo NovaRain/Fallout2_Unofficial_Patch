@@ -90,19 +90,26 @@ variable Traps_Roll;
 
 // display mstr, depending on who's the object
 // needs "my_mstr"
-#define pc_npc_dmstr(who, pc_line, npc_line) \
+#define pcnpc_display_line(who, pc_line, npc_line) \
   if (who == dude_obj) then begin \
     display_msg(my_mstr(pc_line)); \
   end else begin \
     display_msg(obj_name(who) + my_mstr(npc_line)); \
   end
+// same, but uses ready mstrs
+#define pcnpc_display_str(who, pc_mstr, npc_mstr) \
+  if (who == dude_obj) then begin \
+    display_msg(pc_mstr); \
+  end else begin \
+    display_msg(obj_name(who) + npc_mstr); \
+  end
 
 
 procedure trap_search_result(variable found_trap, variable who) begin
   if (found_trap == 0) then begin // can't see trap
-    pc_npc_dmstr(who, 195, 200)
+    pcnpc_display_line(who, 195, 200)
   end else begin // found trap
-    pc_npc_dmstr(who, 198, 200)
+    pcnpc_display_line(who, 198, 200)
   end
 end
 
@@ -178,21 +185,9 @@ was taken, and remove the trap.
 #ifndef custom_Damage_Critter
   procedure Damage_Critter begin
     variable Trap_Damage;
-    
     Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-    
-    if (source_obj == dude_obj) then begin
-      critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
-      /* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
-      display_msg(my_mstr(166)+Trap_Damage+my_mstr(167));
-    end
-    
-    else begin
-      critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
-      /* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
-      display_msg(obj_name(source_obj)+my_mstr(168)+Trap_Damage+my_mstr(169));
-    end
-    
+    critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+    pcnpc_display_str(source_obj, my_mstr(166)+Trap_Damage+my_mstr(167), my_mstr(168)+Trap_Damage+my_mstr(169)))
     /* The trap is now disarmed and should never go off again.                           */
     set_local_var(LVAR_Trapped, STATE_INACTIVE);
   end
@@ -216,11 +211,9 @@ crowbar or some similar instrument.
     if (is_success(Stat_Roll)) then begin
       set_local_var(LVAR_Locked, STATE_INACTIVE);
       obj_unlock(self_obj);
-      
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(176));
       end
-      
       else begin
         display_msg(my_mstr(181));
       end
@@ -298,14 +291,7 @@ the coresponding varaibles for it.
     if (is_success(Locks_Roll)) then begin
       set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
       obj_lock(self_obj);                                      // engine unlock door
-      
-      if (source_obj == dude_obj) then begin
-        display_msg(my_mstr(189));
-      end
-      
-      else begin
-        display_msg(obj_name(source_obj)+my_mstr(191));
-      end
+      pcnpc_display_line(source_obj, 189, 191)
       
       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
         set_local_var(LVAR_Gave_Locks_XP,1);
@@ -460,7 +446,7 @@ the player or NPC set off the trap or disarms it.
 // explosion that uses real item stats
 procedure real_explosion(variable explosive) begin
   variable dmg = get_explosion_damage(obj_pid(explosive));
-  pc_npc_dmstr(source_obj, 610, 611)
+  pcnpc_display_line(source_obj, 610, 611)
   explosion(source_tile, self_elevation, random(dmg[0], dmg[1]));
 end
 
