@@ -268,7 +268,7 @@ procedure use_obj_on_p_proc begin
    end
    if (Tool != -1) then begin
       Tool:=obj_pid(obj_being_used_with);
-
+      pry_trap_block
       if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
          if (Tool == PID_LOCKPICKS) then begin
             script_overrides; //added by killap
@@ -286,7 +286,6 @@ procedure use_obj_on_p_proc begin
             display_msg("There is no lock on this door.");
          end
       end
-      pry_trap_block
    end
 end
 

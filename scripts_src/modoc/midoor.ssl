@@ -270,9 +270,8 @@ procedure use_obj_on_p_proc begin
    end
    if (Tool != -1) then begin
       Tool:=obj_pid(obj_being_used_with);
-
-      full_lockpick_block
       pry_trap_block
+      full_lockpick_block
    end
 end
 

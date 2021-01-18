@@ -127,12 +127,10 @@ end
 **********************************************************************************/
 procedure use_obj_on_p_proc begin
    variable Tool;
-
    i_locker_tamper += 1;
    Tool:=obj_pid(obj_being_used_with);
-
-   full_lockpick_block
    pry_trap_block
+   full_lockpick_block
 end
 
 /***************************************************************************

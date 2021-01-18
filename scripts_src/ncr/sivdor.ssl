@@ -164,8 +164,8 @@ procedure use_obj_on_p_proc begin
       set_local_var(LVAR_Vortis_Warn, 1);
       add_timer_event(i_vortis_obj, 0, VORTIS_TIMER_DOOR_CHECK);
    end else begin
-      full_lockpick_block
       pry_trap_block
+      full_lockpick_block
    end
 end
 

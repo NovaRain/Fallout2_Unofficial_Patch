@@ -159,8 +159,8 @@ procedure use_obj_on_p_proc begin
          POSTGLOBALTIMER(i_felix_obj, NCR_TIMER_PLAYER_WARN);
       end
    end else begin
-      full_lockpick_block
       pry_trap_block
+      full_lockpick_block
    end
 
 end

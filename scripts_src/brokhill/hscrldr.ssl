@@ -189,6 +189,8 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       set_map_var( MVAR_Lockpick_Attempt, 1 );
    end
+   else trap_block
+   else pry_block
    else if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
        if (Tool == PID_CELL_DOOR_KEY) then begin
           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
@@ -202,9 +204,7 @@ procedure use_obj_on_p_proc begin
        end
        else std_lockpick_inner_block
    end
-
    elec_lockpick_outer_block
-   pry_trap_block
 end
 
 procedure key_unlock_door begin

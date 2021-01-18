@@ -146,15 +146,14 @@ end
 **********************************************************************************/
 procedure use_obj_on_p_proc begin
    variable Tool;
-
    Tool:=obj_pid(obj_being_used_with);
-
    if (i_fergus_obj != -1) then begin
       script_overrides;
       POSTGLOBALTIMER(i_fergus_obj, NCR_TIMER_PLAYER_WARN);
    end else begin
-      full_lockpick_block
       pry_trap_block
+      full_lockpick_block
+   end
 end
 
 /******************************************************************************************

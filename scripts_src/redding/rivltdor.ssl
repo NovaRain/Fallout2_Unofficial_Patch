@@ -165,8 +165,8 @@ procedure use_obj_on_p_proc begin
        set_map_var(MVAR_Using_Locked_Door,3);
    end
 
-   full_lockpick_block
    pry_trap_block
+   full_lockpick_block
 end
 
 /******************************************************************************************

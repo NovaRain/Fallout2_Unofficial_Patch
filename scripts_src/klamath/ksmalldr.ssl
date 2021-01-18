@@ -60,9 +60,8 @@ procedure use_obj_on_p_proc begin
        end
        else std_lockpick_inner_block
    end
-
-   elec_lockpick_outer_block
    pry_trap_block
+   elec_lockpick_outer_block
 end
 
 procedure key_unlock_door begin
