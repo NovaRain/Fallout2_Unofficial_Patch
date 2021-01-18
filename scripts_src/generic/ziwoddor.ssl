@@ -1394,7 +1394,7 @@ procedure Pry_Door begin
   script_overrides;
 
   if not obj_is_locked(self_obj) then begin
-    display_msg(my_mstr(601));
+    display_msg(mstr(601));
     return;
   end
 
