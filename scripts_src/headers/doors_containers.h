@@ -68,6 +68,7 @@ procedure Damage_Critter;
 procedure Super_Lockpick_Lock;
 procedure Super_Set_Lockpick_Lock;
 procedure trap_search_result(variable found_trap, variable who);
+procedure real_explosion(variable explosive);
 
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
@@ -454,6 +455,12 @@ the player or NPC set off the trap or disarms it.
   end
 #endif
 
+// explosion that uses real item stats
+procedure real_explosion(variable explosive) begin
+  variable dmg = get_explosion_damage(obj_pid(explosive));
+  explosion(source_tile, self_elevation, random(dmg[0], dmg[1]));
+end
+
 /*********************************************************************************
 This procedure will allow the player to set traps on doors behind him. The door
 will need to be closed, as all traps are set to go off if the door is openned.
@@ -469,7 +476,6 @@ will need to be closed, as all traps are set to go off if the door is openned.
     Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Set_Bonus);
     
     Explosive:=obj_being_used_with;
-    
     if (obj_is_open(self_obj)) then begin
       script_overrides;
       if (source_obj == dude_obj) then begin
@@ -480,27 +486,25 @@ will need to be closed, as all traps are set to go off if the door is openned.
         display_msg(obj_name(source_obj)+my_mstr(207));
       end
     end
-    
     else begin
       script_overrides;
       Removal_Counter:=rm_mult_objs_from_inven(source_obj,Explosive,1);
-      
+
       if (is_success(Traps_Roll)) then begin
+        destroy_object(Explosive);
         set_local_var(LVAR_Trapped,STATE_ACTIVE);
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(208));
         end
-        
         else begin
           display_msg(obj_name(source_obj)+my_mstr(210));
         end
       end
       
-      else if (is_critical(Traps_Roll)) then begin
-        call Damage_Critter;
-      end
-      
-      else begin
+      else if (is_critical(Traps_Roll)) then begin // crit fail, explode
+        call real_explosion(Explosive);
+      end else begin
+        move_to(Explosive, source_tile, self_elevation); // drop
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(209));
         end
@@ -512,6 +516,7 @@ will need to be closed, as all traps are set to go off if the door is openned.
     end
   end
 #endif
+
 
 /*********************************************************************************
 This procedure will do a standard Traps roll to see if the player can
