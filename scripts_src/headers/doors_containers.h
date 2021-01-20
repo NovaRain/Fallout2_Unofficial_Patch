@@ -186,9 +186,9 @@ was taken, and remove the trap.
   procedure Damage_Critter begin
     variable Trap_Damage;
     Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+    explosion(self_tile, self_elevation, 0); // just the animation
     critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
-    pcnpc_display_str(source_obj, my_mstr(166)+Trap_Damage+my_mstr(167), my_mstr(168)+Trap_Damage+my_mstr(169)))
-    /* The trap is now disarmed and should never go off again.                           */
+    pcnpc_display_str(source_obj, my_mstr(166)+Trap_Damage+my_mstr(167), my_mstr(168)+Trap_Damage+my_mstr(169))
     set_local_var(LVAR_Trapped, STATE_INACTIVE);
   end
 #endif
@@ -207,7 +207,7 @@ crowbar or some similar instrument.
     end
 
     Stat_Roll:=do_check(source_obj,STAT_st,Crowbar_Bonus);
-    
+
     if (is_success(Stat_Roll)) then begin
       set_local_var(LVAR_Locked, STATE_INACTIVE);
       obj_unlock(self_obj);

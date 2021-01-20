@@ -110,7 +110,8 @@ procedure Super_Set_Lockpick_Lock;
 procedure Set_Trap;
 procedure Pry_Door;
 procedure Damage_Critter;
-
+procedure trap_search_result(variable found_trap, variable who);
+procedure real_explosion(variable explosive);
 
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
@@ -145,6 +146,28 @@ variable last_source_obj;
 *******                         PROCEDURES                   *******
 *******************************************************************/
 
+// display mstr, depending on who's the object
+// needs "door_mstr"
+#define pcnpc_display_line(who, pc_line, npc_line) \
+  if (who == dude_obj) then begin \
+    display_msg(door_mstr(pc_line)); \
+  end else begin \
+    display_msg(obj_name(who) + door_mstr(npc_line)); \
+  end
+// same, but uses ready mstrs
+#define pcnpc_display_str(who, pc_mstr, npc_mstr) \
+  if (who == dude_obj) then begin \
+    display_msg(pc_mstr); \
+  end else begin \
+    display_msg(obj_name(who) + npc_mstr); \
+  end
+procedure trap_search_result(variable found_trap, variable who) begin
+  if (found_trap == 0) then begin // can't see trap
+    pcnpc_display_line(who, 195, 200)
+  end else begin // found trap
+    pcnpc_display_line(who, 198, 200)
+  end
+end
 
 /*******************************************************************
 The start procedure is the first procedure called when the map is
@@ -171,8 +194,6 @@ procedure timed_event_p_proc begin
     end
   end
 end
-
-
 
 /********************************************************************
 Any time that a critter tries to use this door will call this
@@ -1108,6 +1129,14 @@ procedure Skill_Disarm_Traps begin
 end
 
 
+
+// explosion that uses real item stats
+procedure real_explosion(variable explosive) begin
+  variable dmg = get_explosion_damage(obj_pid(explosive));
+  pcnpc_display_line(source_obj, 610, 611)
+  explosion(source_tile, self_elevation, random(dmg[0], dmg[1]));
+end
+
 /*********************************************************************************
 This procedure will allow the player to set traps on doors behind him. The door
 will need to be closed, as all traps are set to go off if the door is openned.
@@ -1119,11 +1148,10 @@ procedure Set_Trap begin
   
   /* Trap_Roll is a global variable to this script, defined at the beginning
   of the script. */
-  
   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Set_Bonus);
   
   Explosive:=obj_being_used_with;
-  
+
   if (obj_is_open(self_obj)) then begin
     script_overrides;
     if (source_obj == dude_obj) then begin
@@ -1134,27 +1162,25 @@ procedure Set_Trap begin
       display_msg(obj_name(source_obj)+mstr(207));
     end
   end
-  
   else begin
     script_overrides;
     Removal_Counter:=rm_mult_objs_from_inven(source_obj,Explosive,1);
-    
+
     if (is_success(Traps_Roll)) then begin
+      destroy_object(Explosive);
       set_local_var(LVAR_Trapped,STATE_ACTIVE);
       if (source_obj == dude_obj) then begin
         display_msg(mstr(208));
       end
-      
       else begin
         display_msg(obj_name(source_obj)+mstr(210));
       end
     end
     
-    else if (is_critical(Traps_Roll)) then begin
-      call Damage_Critter;
-    end
-    
-    else begin
+    else if (is_critical(Traps_Roll)) then begin // crit fail, explode
+      call real_explosion(Explosive);
+    end else begin
+      move_to(Explosive, source_tile, self_elevation); // drop
       if (source_obj == dude_obj) then begin
         display_msg(mstr(209));
       end
@@ -1458,21 +1484,9 @@ end
 
 procedure Damage_Critter begin
   variable Trap_Damage;
-  
   Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-  
-  if (source_obj == dude_obj) then begin
-    critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
-    /* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
-    display_msg(door_mstr(166)+Trap_Damage+door_mstr(167));
-  end
-  
-  else begin
-    critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
-    /* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
-    display_msg(obj_name(source_obj)+door_mstr(168)+Trap_Damage+door_mstr(169));
-  end
-  
-  /* The trap is now disarmed and should never go off again.                           */
+  explosion(self_tile, self_elevation, 0); // just the animation
+  critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+  pcnpc_display_str(source_obj, door_mstr(166)+Trap_Damage+door_mstr(167), door_mstr(168)+Trap_Damage+door_mstr(169))
   set_local_var(LVAR_Trapped, STATE_INACTIVE);
 end
