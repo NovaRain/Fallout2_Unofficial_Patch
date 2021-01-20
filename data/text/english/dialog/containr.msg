@@ -330,3 +330,8 @@
 # NPC tries to set a trap on a closed door
 {210}{}{ skillfully sets a trap on the container.}
 {211}{}{ fails to properly set the trap in the container.}
+
+# PC critically fails to set a trap
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+# NPC critically fails to set a trap
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

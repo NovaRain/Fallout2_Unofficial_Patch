@@ -329,6 +329,11 @@
 {210}{}{ skillfully sets a trap in the door frame.}
 {211}{}{ fails to properly set the trap in the door frame.}
 
+# PC critically fails to set a trap
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+# NPC critically fails to set a trap
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+
 {300}{}{You unlock the door.}
 {301}{}{You lock the door.}
 {302}{}{You are unable to lock this door while it is open.}
