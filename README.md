@@ -32,6 +32,9 @@ Start with a clean humongous installation of the game.
   1. Extract the archive into the main game directory, overwriting files when asked.
   1. Launch `upu-install.sh` (Linux) or `upu-install.command` (MacOS).
 
+Special note for _Linux/MacOS_ users:
+When launching the game, you **must** set dll overrides: `WINEDLLOVERRIDES='ddraw.dll=n,b' wine fallout2.exe` (or use wine preferences to configure this). If you don't do that, the game will not work correctly.
+
 ### Update
 Make sure to **backup your saves** or better yet, the entire game directory **before** updating.
 
