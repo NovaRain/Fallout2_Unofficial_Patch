@@ -33,6 +33,7 @@ after_success:
   - wineserver -k
 
 script:
+  - ./extra/tests.sh
   - ./extra/buildall.sh
   - ./extra/publish.sh
 
