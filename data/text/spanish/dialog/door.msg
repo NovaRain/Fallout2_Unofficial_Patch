@@ -148,8 +148,8 @@
 {201}{}{ hábilmente desactiva la trampa.}
 {202}{}{ no consigue desarmar la trampa.}
 {203}{}{La puerta parece estar bloqueada.}
-{204}{}{Notas una trampa en el marco de la puerta.}
-{205}{}{ nota una trampa en el marco de la puerta.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{No puedes poner una trampa en esta puerta, porque
  está abierta.}
 {207}{}{ no consigue poner una trampa en esta puerta, porque

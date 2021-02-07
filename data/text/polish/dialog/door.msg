@@ -101,8 +101,8 @@
 {201}{}{ zrêcznie rozbraja pu³apkê.}
 {202}{}{ nie potrafi rozbroiæ pu³apki.}
 {203}{}{Te drzwi wydaj¹ siê byæ zamkniête.}
-{204}{}{You notice a trap in the door jam.}
-{205}{}{ notices a trap in the door jam.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{Nie mo¿esz zastawiæ pu³apki w tych drzwiach, poniewa¿ s¹ one otwarte.}
 {207}{}{ nie mo¿e zastawiæ pu³apki w tych drzwiach, poniewa¿ s¹ one otwarte.}
 {208}{}{Umiejêtnie zastawiasz pu³apkê we framudze.}
