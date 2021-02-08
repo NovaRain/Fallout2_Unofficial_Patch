@@ -27,15 +27,12 @@ jobs:
           sudo apt-get install -qq -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32 >/dev/null 2>&1
           wineboot >/dev/null 2>&1
 
-      - name: Prepare assets
+      - name: Build and package
         run: |
           . extra/env.sh
           ./extra/prepare.sh
-
-      - name: Build
-        run: |
-          . extra/env.sh
           ./extra/buildall.sh
+          ./extra/package.sh
 
       # - name: Upload release artifacts
       #   uses: actions/upload-artifact@v2
