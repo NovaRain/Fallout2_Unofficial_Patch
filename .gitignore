@@ -16,7 +16,7 @@ release/ddraw.dll
 release/ddraw.ini
 release/sfall-mods.ini
 release/translations/
-mods/
+release/mods/
 
 extra/bin/*
 !extra/bin/dat2.exe
