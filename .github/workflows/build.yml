@@ -34,11 +34,14 @@ jobs:
           ./extra/buildall.sh
           ./extra/package.sh
 
-      # - name: Upload release artifacts
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: release
-      #     path: build/int2ssl
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: artifacts
+          path: |
+            upu*.zip
+            upu*.dat
+            upu*.exe
 
       - name: Release
         uses: softprops/action-gh-release@v1
