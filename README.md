@@ -1,6 +1,6 @@
 ## Fallout 2 Unofficial Patch, updated
 
-[![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Unofficial_Patch)
+[![Build status](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 [![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
