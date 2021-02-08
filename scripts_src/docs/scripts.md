@@ -15,44 +15,29 @@ Included in this file is the directory structure and update procedures for scrip
 Below is the directory structure for SourceSafe and the network drive for the scripts and files which pertain to them. Please, make sure that files go into the proper directory, as it could cause confusion at a later times, should anyone need to find specific files.
 
 ### Scripts
-- `scripts`
-	This is where text files explaining directory structure, script procedures, and anything else would be stored. No scripts	should be placed in here.
-- `scripts\arroyo`
-	This is were all of the scripts for Arroyo are located.
-- `scripts\generic`
-	This is where generic scripts would be placed. This would be mainly for things like locked doors, trapped doors, locked and trapped doors, containers, and so forth.
-- `scripts\headers`
-	This is where any includable files would be added. Primarily, these would be: `define.h`, `scripts.h`, `global.h`, `itempid.h`, `scenepid.h`, `critrpid.h`, `teams.h`, `aipack.h`, `reppoint.h`, `exppoint.h`, `modreact.ssl` (or `modreact.h`), and `commands.h`.
-- `scripts\main`
-	This is where the scripts for the heads would be placed. 
--	`scripts\maps`
-	This is where all the map scripts would be placed for the game.
--	`scripts\party`
-	Anyone who could be part of the party will be placed here. 
-- `scripts\rndenctr`
-	All random encounter map scripts, special scripts made for random encounters, etc. will be placed here.
--	`scripts\template`
-	All templates for scripting will be placed here. Most importantly will be the dialog scripts, locked containers, trapped containers, locked and trapped doors, etc. 
+- `scripts`: this is where text files explaining directory structure, script procedures, and anything else would be stored. No scripts	should be placed in here.
+- `scripts\arroyo`: this is were all of the scripts for Arroyo are located.
+- `scripts\generic`: generic scripts. This would be mainly for things like locked doors, trapped doors, locked and trapped doors, containers, and so forth.
+- `scripts\headers`: includable files. Primarily, these would be: `define.h`, `scripts.h`, `global.h`, `itempid.h`, `scenepid.h`, `critrpid.h`, `teams.h`, `aipack.h`, `reppoint.h`, `exppoint.h`, `modreact.ssl` (or `modreact.h`), and `commands.h`.
+- `scripts\main`: scripts for the heads. 
+- `scripts\maps`: map scripts.
+- `scripts\party`: anyone who could be part of the party will be placed here. 
+- `scripts\rndenctr`: all random encounter map scripts, special scripts made for random encounters, etc.
+- `scripts\template`: templates for scripting will be placed here. Most importantly will be the dialog scripts, locked containers, trapped containers, locked and trapped doors, etc. 
 
 ### Data
-- `data`
-	Scripters should not place anything in this directory.
-- `data\data`
-	This is where the global variable `.gam` file and the `AI.txt` file are kept.
-- `data\maps`
-	This is where all the map variable `.gam` files will be placed. The actual maps are placed in an alternate SourceSafe.
-- `data\scripts`
-	This is where the `scripts.lst` file will be placed. The only other files which can be placed in here would be the binaries from compiled scripts.
-- `data\text\english\eialog`
-	This is where all the message files for scripts are kept.
--	`data\text\english\game`
-	This is where all the game message files are kepts. 
+- `data`: scripters should not place anything in this directory.
+- `data\data`: this is where the global variable `.gam` file and the `AI.txt` file are kept.
+- `data\maps`: this is where all the map variable `.gam` files will be placed. The actual maps are placed in an alternate SourceSafe.
+- `data\scripts`: this is where the `scripts.lst` file will be placed. The only other files which can be placed in here would be the binaries from compiled scripts.
+- `data\text\english\dialog`: message files for scripts.
+- `data\text\english\game`: game message files.
 
 ## Naming conventions
 Below are the naming conventions which should be followed for variable names and script names.
 
 ### Vars
-#### Global vars
+#### Global
 Global Vars will be stored in a header file called `global.h`, located in the `scripts\headers` directory. All global vars will be prepended with `GVAR_`.
 
 #### Map vars
@@ -65,7 +50,7 @@ Local vars will be stored in the script itself. The total number of Local vars m
 
 #### Naming scripts
 All scripts will follow the same naming convention whether they are spatial scripts, critters, or scenery. The conventions which is to be used is:
--	First character is the City name
+- First character is the City name
 - Second character is the Type name
 - Remaining six characters are the Name
 
@@ -112,15 +97,9 @@ W == Walls		(Default Walls)
 ```
 
 ### Defines
-- PID
-	All prototypes which are placed in their corresponding header files (scenery in `scenepid.h`, items in `itempid.h`, and critters in `critrpid.h`) will have a prepended `PID_` to their names.
-- Experience points
-	Stored in `exppoint.h`, prepended with `EXP_`.
-- Reputation points
-	Stored in `reppoint.h`, prepended with `REP_`.
-- AI packets
-	Stored in `aipack.h`, prepended by `AI_`.
-- Teams
-	Stored in the file `teams.h`, prepended by `TEAM_`.
-- Script names
-	All script Name defines will come directly from `scripts.lst` in the exact order in which `scripts.lst` is in. The defines will be stored in the file `scripts.h`. Prepended with `SCRIPT_`.
+- PID. All prototypes which are placed in their corresponding header files (scenery in `scenepid.h`, items in `itempid.h`, and critters in `critrpid.h`) will have a prepended `PID_` to their names.
+- Experience points. Stored in `exppoint.h`, prepended with `EXP_`.
+- Reputation points. Stored in `reppoint.h`, prepended with `REP_`.
+- AI packets. Stored in `aipack.h`, prepended by `AI_`.
+- Teams. Stored in the file `teams.h`, prepended by `TEAM_`.
+- Script names. All script name defines will come directly from `scripts.lst` in the exact order in which `scripts.lst` is in. The defines will be stored in the file `scripts.h`. Prepended with `SCRIPT_`.
