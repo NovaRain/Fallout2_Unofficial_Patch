@@ -41,7 +41,7 @@ Below are the naming conventions which should be followed for variable names and
 Global Vars will be stored in a header file called `global.h`, located in the `scripts\headers` directory. All global vars will be prepended with `GVAR_`.
 
 #### Map vars
-Map Vvrs will be stored in header files in the format of `<map name>.h` and be located in the `scripts\headers` directory. All vars will be prepended with `MVAR_`.
+Map vars will be stored in header files in the format of `<map name>.h` and be located in the `scripts\headers` directory. All vars will be prepended with `MVAR_`.
 
 #### Local vars
 Local vars will be stored in the script itself. The total number of Local vars must be added into `scripts.lst` so that they may be allocated memory in the game. `scripts.lst` is located in the `data\scripts` directory. All vars will be prepended with `LVAR_`.
