@@ -23,3 +23,5 @@ extra/bin/*
 scripts_src/sfall
 translations/*.dat
 extra/inno/Output
+extra/inno/release
+extra/inno/translations

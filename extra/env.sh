@@ -11,5 +11,6 @@ export sfall_version=${sfall_version:-4.2.9}
 export WINEARCH=win32
 export WINEDEBUG=-all
 export mod_name=upu
+export trans_dir="$(realpath translations)"
 
 set +xeu +o pipefail
