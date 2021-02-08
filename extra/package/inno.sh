@@ -2,10 +2,7 @@
 
 set -xeu -o pipefail
 
-bin_dir="$(realpath $bin_dir)"
-mods_dir="$(realpath $mods_dir)"
-release_dir="$(realpath release_dir)"
-install_iss="$extra_dir/inno/inno.iss"
+install_iss="extra/inno/inno.iss" # inno doesn't like absolute path
 inno_dir=~/.wine/drive_c/programs/inno
 inno_bin="$inno_dir/ISCC.exe"
 inno_install_bin="is.exe"

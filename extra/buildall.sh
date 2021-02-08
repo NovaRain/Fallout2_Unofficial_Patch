@@ -2,16 +2,15 @@
 
 set -xeu -o pipefail
 
-src="$(realpath scripts_src)"
-dst="$(realpath data/scripts)"
-extra_dir="$(realpath extra)"
-export bin_dir="$extra_dir/bin"
+# exporting for subshell
+export src="$(realpath scripts_src)"
+export dst="$(realpath data/scripts)"
+export scripts_lst="$dst/scripts.lst"
 export compile_exe="$bin_dir/compile.exe"
-scripts_lst="$(realpath $dst/scripts.lst)"
 
 # wine doesn't return proper error code on missing file
 if [[ ! -f $compile_exe ]]; then
-  echo "compile.exe missing, failing"
+  echo "compile.exe missing, failed"
   exit 1
 fi
 
