@@ -16,7 +16,7 @@ export uversion="$version" # in game
 
 if [[ ! -z "${GITHUB_REF-}" ]]; then # github build
   if echo "$GITHUB_REF" | grep "refs/tags"; then # tagged
-    version="$(echo $GITHUB_REF | sed 's|\/refs\/tags\/v||')"
+    version="$(echo $GITHUB_REF | sed 's|refs\/tags\/v||')"
     export version
     export vversion="v$version"
     export uversion="u$version" # in game
