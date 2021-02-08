@@ -23,7 +23,7 @@ jobs:
         run: |
           sudo dpkg --add-architecture i386
           sudo apt -qq update
-          sudo apt -qq remove parallel containderd.io docker.io
+          sudo apt -qq remove parallel containerd.io docker.io
           sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32 docker.io
           #sudo apt-get install -qq -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32 docker.io >/dev/null 2>&1
           wineboot >/dev/null 2>&1
