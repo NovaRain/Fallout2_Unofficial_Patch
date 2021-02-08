@@ -19,21 +19,22 @@ jobs:
       - name: Run tests
         run: ./extra/tests.sh
 
-      - name: Set env vars
-        run: ./extra/env.sh
-
       - name: Install packages
         run: |
           sudo dpkg --add-architecture i386
           sudo apt -qq update
-          sudo apt-get install -qq -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32
+          sudo apt-get install -qq -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32 >/dev/null 2>&1
           wineboot >/dev/null 2>&1
 
       - name: Prepare assets
-        run: ./extra/prepare.sh
+        run: |
+          . extra/env.sh
+          ./extra/prepare.sh
 
       - name: Build
-        run: ./extra/buildall.sh
+        run: |
+          . extra/env.sh
+          ./extra/buildall.sh
 
       # - name: Upload release artifacts
       #   uses: actions/upload-artifact@v2
