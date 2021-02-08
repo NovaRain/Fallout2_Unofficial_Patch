@@ -12,7 +12,10 @@ inno_url="https://jrsoftware.org/download.php/$inno_install_bin"
 #install innosetup
 if [[ ! -f $inno_bin ]]; then
   wget -nv "$inno_url"
-  wine "$inno_install_bin" /SP- /NORESTART /DIR="$inno_install_dir"
+  set +e
+  wine "$inno_install_bin" /SP- /NORESTART /LOG="inno.log" /DIR="$inno_install_dir" || true
+  cat inno.log
+  exit 1
   rm -f "$inno_install_bin"
 fi
 
