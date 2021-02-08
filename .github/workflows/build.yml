@@ -12,10 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get tag name
-        uses: little-core-labs/get-git-tag@v3.0.2
-        id: tagName
-
       - name: Run tests
         run: ./extra/tests.sh
 
