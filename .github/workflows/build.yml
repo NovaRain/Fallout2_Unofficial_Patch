@@ -5,7 +5,6 @@ on: [push]
 env:
   sfall_version: 4.2.8.1
   mpack_version: 4.2.8.1
-  mod_name: upu
 
 jobs:
   build:
