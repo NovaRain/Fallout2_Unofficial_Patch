@@ -34,14 +34,29 @@ jobs:
           ./extra/buildall.sh
           ./extra/package.sh
 
-      - name: Upload artifacts
+      - name: Upload artifacts - exe
         uses: actions/upload-artifact@v2
         with:
-          name: artifacts
-          path: |
-            upu*.zip
-            upu*.dat
-            upu*.exe
+          path: upu*.exe
+
+      - name: Upload artifacts - translations zip
+        uses: actions/upload-artifact@v2
+        with:
+          path: upu*_translations.zip
+
+      # so that main glob doesn't catch it
+      - name: Remove translation zip
+        run: rm -f upu*_translations.zip
+
+      - name: Upload artifacts - main zip
+        uses: actions/upload-artifact@v2
+        with:
+          path: upu*.zip
+
+      - name: Upload artifacts - dat
+        uses: actions/upload-artifact@v2
+        with:
+          path: upu*.dat
 
       - name: Release
         uses: softprops/action-gh-release@v1
