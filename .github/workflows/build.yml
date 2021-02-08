@@ -37,11 +37,13 @@ jobs:
       - name: Upload artifacts - exe
         uses: actions/upload-artifact@v2
         with:
+          name: upu.exe
           path: upu*.exe
 
       - name: Upload artifacts - translations zip
         uses: actions/upload-artifact@v2
         with:
+          name: upu_translations.zip
           path: upu*_translations.zip
 
       # so that main glob doesn't catch it
@@ -51,11 +53,13 @@ jobs:
       - name: Upload artifacts - main zip
         uses: actions/upload-artifact@v2
         with:
+          name: upu.zip
           path: upu*.zip
 
       - name: Upload artifacts - dat
         uses: actions/upload-artifact@v2
         with:
+          name: upu_russian_sound.dat
           path: upu*.dat
 
       - name: Release
