@@ -101,8 +101,8 @@
 {201}{}{ entschärft die Falle geschickt.}
 {202}{}{ schafft es nicht, die Falle zu entschärfen.}
 {203}{}{Die Tür ist verschlossen.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Du bemerkst eine Falle die die Tür blockiert.}
+{205}{}{ bemerkt eine Falle die die Tür blockiert.}
 {206}{}{Du kannst an einer geöffneten Tür keine Falle anbringen.}
 {207}{}{ kann an einer geöffneten Tür keine Falle anbringen.}
 {208}{}{Du bringst geschickt eine Falle am Türrahmen an.}
@@ -124,6 +124,6 @@
 {501}{}{Sieht aus, als müsstest du zuerst den Generator zum Laufen bringen.}
 {502}{}{Du siehst: Fahrstuhltür.}
 {503}{}{Sieht aus, als bräuchtest du ein elektrisches Gerät, um das Schloss aufzukriegen.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
-{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+{601}{}{Verschlossen.}
+{610}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
+{611}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
