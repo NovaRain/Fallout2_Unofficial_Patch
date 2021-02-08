@@ -27,7 +27,7 @@ UsePreviousAppDir=no
 AlwaysShowDirOnReadyPage=yes
 
 [Files]
-Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
+Source: "release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
 #include "files_translations.iss"
 
 [INI]
