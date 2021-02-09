@@ -10,7 +10,7 @@ export file_list="file.list"
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged
-export version="git$short_sha" 
+export version="git$short_sha"
 export vversion="$version" # in package names
 export uversion="$version" # in game
 

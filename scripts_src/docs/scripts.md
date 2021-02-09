@@ -19,9 +19,9 @@ Below is the directory structure for SourceSafe and the network drive for the sc
 - `scripts\arroyo`: this is were all of the scripts for Arroyo are located.
 - `scripts\generic`: generic scripts. This would be mainly for things like locked doors, trapped doors, locked and trapped doors, containers, and so forth.
 - `scripts\headers`: includable files. Primarily, these would be: `define.h`, `scripts.h`, `global.h`, `itempid.h`, `scenepid.h`, `critrpid.h`, `teams.h`, `aipack.h`, `reppoint.h`, `exppoint.h`, `modreact.ssl` (or `modreact.h`), and `commands.h`.
-- `scripts\main`: scripts for the heads. 
+- `scripts\main`: scripts for the heads.
 - `scripts\maps`: map scripts.
-- `scripts\party`: anyone who could be part of the party will be placed here. 
+- `scripts\party`: anyone who could be part of the party will be placed here.
 - `scripts\rndenctr`: all random encounter map scripts, special scripts made for random encounters, etc.
 - `scripts\template`: templates for scripting will be placed here. Most importantly will be the dialog scripts, locked containers, trapped containers, locked and trapped doors, etc. 
 
