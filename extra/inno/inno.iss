@@ -41,8 +41,8 @@ Name: "{app}\{#backup_dir}"
 Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 2>&1"; WorkingDir: "{app}"; Description: "install script";
 
 [Components]
-Name: "core"; Description: "Fixes"; Types: "custom"; Flags: fixed;
-Name: "qol"; Description: "Enable some sfall QoL features";
+Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
+Name: "qol"; Description: "Enable sfall QoL features"; Flags: fixed;
 Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
 #include "components_translations.iss"
 
