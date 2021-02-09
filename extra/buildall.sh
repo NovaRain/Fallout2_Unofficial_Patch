@@ -54,6 +54,9 @@ for d in $(ls $src); do
       if grep -qi "^$int " "$scripts_lst"; then # if file is in scripts.lst
         files="$files $f"
       fi
+      if [[ "$d" == "global" ]]; then # or if it's a global script
+        files="$files $f"
+      fi
     done
     set -x # enabling output again
     if [[ -n "$files" ]]; then
