@@ -288,39 +288,33 @@ variable reaction_bonus_karma:=0;
 #define GetReaction                     if (local_var(LVAR_got_reaction) == 0) then begin                                       \
                                             set_local_var(LVAR_got_reaction,1);                                                 \
                                             set_local_var(LVAR_base_reaction,REACTION_BONUS_CHARISMA);                          \
-                                            ndebug("Base Reaction == "+local_var(LVAR_base_reaction));                       \
+                                            ndebug("Base Reaction == "+local_var(LVAR_base_reaction));                          \
                                         end                                                                                     \
                                         Static_Reaction:=0;                                                                     \
                                         set_local_var(LVAR_reaction,0);                                                         \
-                                        ndebug("Start Reaction == "+local_var(LVAR_reaction));                               \
-                                        if (REACTION_BONUS_COMP_KARMA >= 0) then                                                \
-                                            reaction_bonus_karma:=(REACTION_BONUS_COMP_KARMA/KARMA_MODIFIER);                   \
-                                        else                                                                                    \
-                                            reaction_bonus_karma:=-1*(-1*REACTION_BONUS_COMP_KARMA/KARMA_MODIFIER);             \
-                                        if (TOWN_REPUTATION >= 0) then                                                          \
-                                            reaction_bonus_town_rep:=(TOWN_REPUTATION/TOWN_REP_MODIFIER);                       \
-                                        else                                                                                    \
-                                            reaction_bonus_town_rep:=-1*(-1*TOWN_REPUTATION/TOWN_REP_MODIFIER);                 \
+                                        ndebug("Start Reaction == "+local_var(LVAR_reaction));                                  \
+                                        reaction_bonus_karma:=(REACTION_BONUS_COMP_KARMA/KARMA_MODIFIER);                       \
+                                        reaction_bonus_town_rep:=(TOWN_REPUTATION/TOWN_REP_MODIFIER);                           \
                                         if (has_sex_appeal) then begin                                                          \
                                             if (get_critter_stat(dude_obj,STAT_gender) == get_critter_stat(self_obj,STAT_gender)) then    \
                                                 Static_Reaction:=Static_Reaction + SAME_SEX_APPEAL;                             \
                                             else                                                                                \
                                                 Static_Reaction:=Static_Reaction + OPPOSITE_SEX_APPEAL;                         \
-                                            ndebug("Sex Appeal Bonus == "+Static_Reaction);                                  \
+                                            ndebug("Sex Appeal Bonus == "+Static_Reaction);                                     \
                                         end                                                                                     \
                                         else                                                                                    \
-                                            ndebug("Sex Appeal Bonus == 0");                                                 \
+                                            ndebug("Sex Appeal Bonus == 0");                                                    \
                                         if (Evil_Critter == 1) then begin                                                       \
                                             if (reaction_bonus_karma >= 0) then                                                 \
                                                 Static_Reaction:=Static_Reaction - reaction_bonus_karma;                        \
                                             else                                                                                \
                                                 Static_Reaction:=Static_Reaction + reaction_bonus_karma;                        \
-                                            ndebug("Karma Reaction Bonus == "+Static_Reaction);                              \
+                                            ndebug("Karma Reaction Bonus == "+Static_Reaction);                                 \
                                             if (reaction_bonus_town_rep >= 0) then                                              \
                                                 Static_Reaction:=Static_Reaction - reaction_bonus_town_rep;                     \
                                             else                                                                                \
                                                 Static_Reaction:=Static_Reaction + reaction_bonus_town_rep;                     \
-                                            ndebug("Town Rep Bonus == "+Static_Reaction);                                    \
+                                            ndebug("Town Rep Bonus == "+Static_Reaction);                                       \
                                             CheckKarma;                                                                         \
                                             if (has_rep_holy_warrior) then                                                      \
                                                 Static_Reaction:=Static_Reaction - REACTION_BONUS_HOLY;                         \
