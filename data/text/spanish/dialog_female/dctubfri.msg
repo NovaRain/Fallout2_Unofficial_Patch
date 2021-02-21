@@ -1,4 +1,4 @@
-{100}{}{You see a drug addict.}
+{100}{}{Ves a un drogadicto.}
 {110}{}{Ves a una puta enganchada al jet.}
 {111}{}{Ves a una de las putas de Tubby.}
 {150}{}{Parece ser un amigo de Tubby.}
@@ -38,7 +38,7 @@
 {254}{}{Maldición, eso ha sido algo horrible.}
 {255}{}{Caray, amiga. Han matado a Tubby.}
 {260}{}{Ooooohh, siii… Buena mierda.}
-{261}{}{¿Qué tienes para hacer?}
+{261}{}{¿Qué es eso?}
 {262}{}{Oh, sí. Estoy volando.}
 {263}{}{Oh, qué bien.}
 {264}{}{Es tan guapa.}
