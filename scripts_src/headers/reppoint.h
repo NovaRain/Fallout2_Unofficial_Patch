@@ -24,7 +24,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 
  III. Reputation for Champion of Towns
 
- IV. Reputaion for completing seeds
+ IV. Reputation for completing seeds
 --------------------------------------------------*/
 
 
@@ -33,15 +33,15 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 *********************************************************/
 // macros for general town status
 // good
-#define town_rep_is_idolized                       (global_var(TOWN_REP_VAR) >= 30)
-#define town_rep_is_liked                          (global_var(TOWN_REP_VAR) >= 15)
-#define town_rep_is_accepted                       (global_var(TOWN_REP_VAR) >= 1)
+#define town_rep_is_idolized                       ((global_var(TOWN_REP_VAR) >= 30) or (dude_has_cult and (global_var(TOWN_REP_VAR) <= -30)))
+#define town_rep_is_liked                          ((global_var(TOWN_REP_VAR) >= 15) or (dude_has_cult and (global_var(TOWN_REP_VAR) <= -15)))
+#define town_rep_is_accepted                       ((global_var(TOWN_REP_VAR) >=  1) or (dude_has_cult and (global_var(TOWN_REP_VAR) <=  -1)))
 // neutral
 #define town_rep_is_neutral                        (global_var(TOWN_REP_VAR) == 0)
 // bad
-#define town_rep_is_antipaty                       (global_var(TOWN_REP_VAR) <= -1)
-#define town_rep_is_hated                          (global_var(TOWN_REP_VAR) <= -15)
-#define town_rep_is_vilified                       (global_var(TOWN_REP_VAR) <= -30)
+#define town_rep_is_antipaty                       ((global_var(TOWN_REP_VAR) <=  -1) and not dude_has_cult)
+#define town_rep_is_hated                          ((global_var(TOWN_REP_VAR) <= -15) and not dude_has_cult)
+#define town_rep_is_vilified                       ((global_var(TOWN_REP_VAR) <= -30) and not dude_has_cult)
 
 #define REP_BONUS_KILLED_GOOD_CRITTER       (-10)
 #define REP_BONUS_KILLED_CHILD              (-15)
@@ -151,23 +151,6 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define has_rep_sword           (global_var(GVAR_KARMA_SWORD_OF_DESPAIR) == 1)
 #define has_rep_scourge         (global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES) == 1)
 #define has_rep_demon_spawn     (global_var(GVAR_KARMA_DEMON_SPAWN) == 1)
-
-// effective reputation for critter reaction/lines (Reply). NOT for dude resposnses (NOption, etc).
-procedure effective_rep begin
-    variable rep := global_var(GVAR_PLAYER_REPUTATION);
-    if has_trait(TRAIT_PERK, dude_obj, PERK_karma_beacon_perk) then rep := rep * 2;
-    if has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality) and rep < 0 then rep = -1 * rep;
-    return rep;
-end
-
-// Allows to check both negative and positive titles sanely.
-// Original sometimes checks > vs >=, I think it's a typo. Either you have the title, or not.
-procedure effective_title(variable title) begin
-    variable rep := effective_rep;
-    if title >= 0 and rep >= title then return true;
-    if title < 0 and rep <= title then return true;
-    return false;
-end
 
 /*-----------------9/16/97 7:40:M-------------------
  The following will add or remove the reputations of champion or berserker
