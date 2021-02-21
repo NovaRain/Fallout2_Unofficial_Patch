@@ -666,10 +666,10 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define REP_BONUS_SOLVED_V15                    (25)
 
 //San Fran Related
-#define REP_BOUNS_KILL_LOPAN_ON_MISSION         (50)
-#define REP_BOUNS_KILL_LOPAN                    (25)
-#define REP_BOUNS_KILL_DRAGON_ON_MISSION        (-50)
-#define REP_BOUNS_KILL_DRAGON                   (-25)
+#define REP_BONUS_KILL_LOPAN_ON_MISSION         (50)
+#define REP_BONUS_KILL_LOPAN                    (25)
+#define REP_BONUS_KILL_DRAGON_ON_MISSION        (-50)
+#define REP_BONUS_KILL_DRAGON                   (-25)
 #define REP_BONUS_SAN_FRAN_SAVE_GIRL_DEAD        5
 #define REP_BONUS_SAN_FRAN_SAVE_GIRL_ALIVE       15
 #define REP_BONUS_SAN_FRAN_KILL_LOPAN            15
