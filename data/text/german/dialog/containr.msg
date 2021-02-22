@@ -111,6 +111,6 @@
 {211}{}{ schafft es nicht, die Falle richtig an der Ecke anzubringen.}
 {212}{}{Du siehst einen Kühlschrank.}
 {400}{}{Du sperrst den Behälter auf.}
-{601}{}{Verschlossen.}
-{610}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
-{611}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
+{601}{}{Es ist offen, Dummkopf.}
+{610}{}{Du versagst spektakulär und der Sprengstoff geht zu früh hoch.}
+{611}{}{versagt spektakulär und der Sprengstoff geht zu früh hoch.}

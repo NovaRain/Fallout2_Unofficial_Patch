@@ -101,8 +101,8 @@
 {201}{}{ entschärft die Falle geschickt.}
 {202}{}{ schafft es nicht, die Falle zu entschärfen.}
 {203}{}{Die Tür ist verschlossen.}
-{204}{}{Du bemerkst eine Falle die die Tür blockiert.}
-{205}{}{ bemerkt eine Falle die die Tür blockiert.}
+{204}{}{Du bemerkst eine Falle am Türpfosten.}
+{205}{}{ bemerkt eine Falle am Türpfosten.}
 {206}{}{Du kannst an einer geöffneten Tür keine Falle anbringen.}
 {207}{}{ kann an einer geöffneten Tür keine Falle anbringen.}
 {208}{}{Du bringst geschickt eine Falle am Türrahmen an.}
@@ -124,6 +124,6 @@
 {501}{}{Sieht aus, als müsstest du zuerst den Generator zum Laufen bringen.}
 {502}{}{Du siehst: Fahrstuhltür.}
 {503}{}{Sieht aus, als bräuchtest du ein elektrisches Gerät, um das Schloss aufzukriegen.}
-{601}{}{Verschlossen.}
-{610}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
-{611}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
+{601}{}{Es ist offen, Dummkopf.}
+{610}{}{Du versagst spektakulär und der Sprengstoff geht zu früh hoch.}
+{611}{}{versagt spektakulär und der Sprengstoff geht zu früh hoch.}
