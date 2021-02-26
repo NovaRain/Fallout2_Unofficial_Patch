@@ -326,23 +326,15 @@ variable reaction_bonus_karma:=0;
                                             if (has_rep_slaver) then                                                            \
                                                 Static_Reaction:=Static_Reaction - REACTION_BONUS_SLAVER;                       \
                                         end                                                                                     \
-                                        ndebug("Slaver + Aligned Reaction == "+Static_Reaction);                             \
+                                        ndebug("Slaver + Aligned Reaction == " + Static_Reaction);                              \
                                         Static_Reaction:=Static_Reaction + REACTION_BONUS_PRESENCE;                             \
-                                        ndebug("Presence Reaction == "+Static_Reaction);                                     \
+                                        ndebug("Presence Reaction == " + Static_Reaction);                                      \
                                         if (has_rep_childkiller) then                                                           \
                                             Static_Reaction:=Static_Reaction + REACTION_BONUS_CHILDKILLER;                      \
-                                        ndebug("Childkiller Reaction == "+Static_Reaction);                                  \
-                                        if (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) then begin               \
-                                            if (Evil_Critter == 1) then begin                                                   \
-                                                if (Static_Reaction > 0) then                                                   \
-                                                    Static_Reaction := Static_Reaction * -1;                                    \
-                                            end else begin                                                                      \
-                                                if (Static_Reaction < 0) then                                                   \
-                                                    Static_Reaction := Static_Reaction * -1;                                    \
-                                            end                                                                                 \
-                                        end                                                                                     \
+                                        ndebug("Childkiller Reaction == " + Static_Reaction);                                   \
+                                        if dude_has_cult then Static_Reaction = abs(Static_Reaction);                           \
                                         set_local_var(LVAR_reaction,(local_var(LVAR_base_reaction) + Static_Reaction));         \
-                                        ndebug("Initial Reaction == "+local_var(LVAR_reaction))
+                                        ndebug("Initial Reaction == " + local_var(LVAR_reaction))
 
 #undef check_barterable
 #define check_barterable
