@@ -56,7 +56,7 @@ end
 /* Reputation */
 #define dude_has_cult has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)
 
-// effective reputation for critter reaction or lines (Reply). NOT for dude resposnses (NOption, etc).
+// effective reputation for critter reaction or lines (Reply). NOT for dude responses (NOption, etc).
 procedure effective_rep begin
   variable rep := global_var(GVAR_PLAYER_REPUTATION);
   if has_trait(TRAIT_PERK, dude_obj, PERK_karma_beacon_perk) then rep := rep * 2;
