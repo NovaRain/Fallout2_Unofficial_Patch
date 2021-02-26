@@ -9,22 +9,6 @@
 it will find out what the reaction level is in terms of Good, Neutral, or Bad.
 It will also write in how to modify the reaction level by a level. */
 
-/* Old Fallout 1 Stuff */
-
-/*
-#define NO_REACTION                     (0)
-#define BAD                             (1)
-#define NEUTRAL                         (2)
-#define GOOD                            (3)
-
-#define BASE_REACTION                   (50)
-#define LOW_REACTION                    (25)
-#define HIGH_REACTION                   (75)
-
-#define MIN_REACTION                    (0)
-#define MAX_REACTION                    (100)
-*/
-
 variable Static_Reaction:=0;            // This adds in Reputations, Perks, Karma, and such
 variable Evil_Critter:=0;               // 0 == Good Critter, 1 == Bad Critter
 variable Slavery_Tolerant:=2;           // 0 == very intolerant, 1 == intolerant, 2 == tolerant, 3 == Happy
