@@ -97,10 +97,15 @@ procedure self_is_evil begin
   return false;
 end
 
-// Negative rep is liked by evil critters
-procedure effective_rep begin
+// account for karma beacon
+procedure beacon_rep begin
   variable rep = global_var(GVAR_PLAYER_REPUTATION);
   if has_trait(TRAIT_PERK, dude_obj, PERK_karma_beacon_perk) then rep = rep * 2;
+  return rep;
+end
+// account for Evil_Critter
+procedure cult_rep begin
+  variable rep = beacon_rep;
   if dude_has_cult then begin
     rep = abs(rep);
     if self_is_evil then return -rep;
@@ -109,22 +114,22 @@ procedure effective_rep begin
   return rep;
 end
 
-#define rep_positive (effective_rep > 0)
-#define rep_negative (effective_rep < 0)
+#define rep_positive (cult_rep > 0)
+#define rep_negative (cult_rep < 0)
 
 // normal mode: critter likes dude if he has title, taking Evil_Critter into account
 procedure check_title(variable title) begin
-  variable rep := effective_rep;
+  variable rep := cult_rep;
   if not self_is_evil and rep >= title then return true;
-  if self_is_evil == 1 and rep <= title then return true;
+  if self_is_evil and rep <= title then return true;
   return false;
 end
 // inverse mode: critter dislikes dude if he has title, taking Evil_Critter into account
 procedure check_title_bad(variable title) begin
-  variable rep := effective_rep;
-  if not self_is_evil and rep >= title then return false;
-  if self_is_evil and rep <= title then return false;
-  return true;
+  variable rep := cult_rep;
+  if not self_is_evil and rep <= title then return true;
+  if self_is_evil and rep >= title then return true;
+  return false;
 end
 
 
