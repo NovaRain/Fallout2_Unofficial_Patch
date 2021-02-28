@@ -1,10 +1,15 @@
-## Translation
-
+## Translations
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 
-Different languages are completed to different degrees. They are released as is. If you use an incomplete translation, you'll see bits of English in the game.
+- Most translations are **incomplete**, they are provided as is. If you use an incomplete translation, you'll see bits of English in the game.
+- You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). For additional info, see [forums](https://forums.bgforge.net/viewtopic.php?f=9&t=21).
 
-**You personally** can [help completing](https://tra.bgforge.net/projects/fallout/up/) them. Discussion is [here](https://forums.bgforge.net/viewtopic.php?f=9&t=21).
+
+### Installation
+- Translations are **already included** into Windows installer. If you use it, no special configuration is required.
+- If you install [manually](linux.md) _and_ want to play a localized version:
+  1. Download `upu_v*_translations.zip` from the [latest release page](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest). Extract the archive, copy _only_ the desired language `dat` file into `mods` subdirectory.
+  1. Change `language=english` in `fallout2.cfg` to your selected language. (Example: `language=spanish`).
 
 Current languages:
 

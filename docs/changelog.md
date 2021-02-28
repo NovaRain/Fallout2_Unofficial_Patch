@@ -1,6 +1,6 @@
 ## Changelog
 
-This file lists changes for UPU only. See original UP changelog [here](up-changelog.txt).
+This file lists changes for UPU only (since UP 1.02.31).
 
 All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
@@ -20,6 +20,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+- killap's UP 1.02.31
+  - [Changelog](up-changelog.txt)
+  - [Readme](up-readme.txt)
 
 ### Version 18
 - Fixed automatic installer appending extra dir when selecting game directory.
