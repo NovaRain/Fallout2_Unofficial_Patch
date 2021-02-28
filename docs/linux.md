@@ -1,4 +1,4 @@
-## Installation on Linux/MacOs
+## Installation on Linux/MacOS
 
 - You can follow the procedure for Windows, launching the exe with wine.
 - Alternatively, you can perform the installation manually:
