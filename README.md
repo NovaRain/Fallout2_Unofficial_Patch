@@ -1,10 +1,8 @@
-## Fallout 2 Unofficial Patch, updated
+## Fallout 2 Unofficial Patch, updated <img align="right" src="extra/bin/fallout2_logo.png" width="30%" alt="Fallout 2 logo"/>
 
 [![Build status](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 [![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
-
-<p align="center"><img src="extra/bin/fallout2_logo.png" alt="Fallout 2 logo" style="max-width: 50%;"/></p>
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 | [__Installation__](#installation)
