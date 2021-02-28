@@ -136,18 +136,18 @@ procedure talk_p_proc begin
    else if (Personality < 0) then
        call Node015;
 
-   else if ((CITY_START >= 0) and ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   else if ((CITY_START >= 0) and self_rep_negative) then begin
        call Node012;
    end
 
-   else if ((CITY_START <= 0) and (check_general_rep >= 0)) then begin
+   else if ((CITY_START <  0) and self_rep_negative) then begin
        call Node009;
    end
 
    else begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
-           if ((CITY_START >= 0) and (check_general_rep >= 0)) then
+           if ((CITY_START >= 0) and self_rep_positive) then
                call Node010;
            else
                call Node011;
@@ -162,7 +162,11 @@ end
 procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
-   inc_good_critter
+   #if CITY_START >= 0
+      inc_good_critter
+   #else
+      inc_evil_critter
+   #endif
 
 /* Set global_variable for Enemy status*/
 end
@@ -264,7 +268,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if (check_general_rep > 0) then
+   if not self_is_evil then
        call Node010;
    else
        call Node011;

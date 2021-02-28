@@ -68,6 +68,7 @@ procedure self_is_evil begin
     "bcgengrd",
     "bckarla",
     "bcphil",
+    "ecmstnew",
     "fcdaveh",
     "fcelrind",
     "fcjuavki",
@@ -103,19 +104,24 @@ procedure beacon_rep begin
   if has_trait(TRAIT_PERK, dude_obj, PERK_karma_beacon_perk) then rep = rep * 2;
   return rep;
 end
-// account for Evil_Critter
+// account for Evil_Critter, aligned with critter's good/evil. For good, more is better. For evil, less is better.
 procedure cult_rep begin
   variable rep = beacon_rep;
   if dude_has_cult then begin
     rep = abs(rep);
-    if self_is_evil then return -rep;
-    else return rep;
+    if self_is_evil then rep = -rep;
   end
   return rep;
 end
-
-#define rep_positive (cult_rep > 0)
-#define rep_negative (cult_rep < 0)
+// account for Evil_Critter, absolute "good" value. More is better.
+procedure self_rep begin
+  variable rep = beacon_rep;
+  if rep < 0 and self_is_evil then rep = abs(rep);
+  if dude_has_cult then rep = abs(rep);
+  return rep;
+end
+#define self_rep_positive (self_rep > 0)
+#define self_rep_negative (self_rep < 0)
 
 // normal mode: critter likes dude if he has title, taking Evil_Critter into account
 procedure check_title(variable title) begin
