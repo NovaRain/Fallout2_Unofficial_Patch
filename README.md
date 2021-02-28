@@ -8,9 +8,9 @@
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 | [__Installation__](#installation)
-| [__Bug reports__](#bug-reports)
-| [__Translations__](#translations)
-| [__Changelog__](docs/changelog.md)
+| [__Bug reports__](#bug-reports-feature-requests)
+| [__Translations__](docs/translations.md)
+| [__Additional mods__](#additional-mods)
 
 This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
@@ -23,7 +23,7 @@ Start with a clean humongous installation of the game.
 
 #### Windows
 1. Download `upu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) page.
-1. Launch, point the installer to the game directory, select the desired language.
+1. Launch, point the installer to the game directory, choose language and options.
 
 #### Linux / MacOS
 Follow the [instruction](docs/linux.md).
@@ -49,3 +49,8 @@ For various QoL features, check out these mods:
 1. Go to [github issues](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=39).
 2. Open an issue/topic, describe the bug. Report each bug **separately**.
 3. Attach savegame and screenshot.
+
+### Additional info
+[__Changelog__](docs/changelog.md)
+| [__Known issues__](docs/known.md)
+| [__Reporting crashes__](docs/crash.md)
