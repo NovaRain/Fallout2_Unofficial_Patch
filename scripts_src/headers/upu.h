@@ -68,6 +68,7 @@ procedure self_is_evil begin
     "bcgengrd",
     "bckarla",
     "bcphil",
+    "ecmstden",
     "ecmstnew",
     "fcdaveh",
     "fcelrind",

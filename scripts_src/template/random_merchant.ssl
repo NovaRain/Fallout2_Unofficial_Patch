@@ -168,6 +168,9 @@ procedure destroy_p_proc begin
       inc_evil_critter
    #endif
 
+   #ifdef custom_destroy_post
+      custom_destroy_post
+   #endif
 /* Set global_variable for Enemy status*/
 end
 
