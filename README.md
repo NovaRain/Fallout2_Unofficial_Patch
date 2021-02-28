@@ -1,4 +1,4 @@
-## Fallout 2 Unofficial Patch, updated <a href="#"><img align="right" src="extra/bin/fallout2_logo.png" width="40%" alt="Fallout 2 logo"/></a>
+## Fallout 2 Unofficial Patch, updated <a href="#"><img align="right" src="extra/bin/fallout2_logo.png" width="35%" alt="Fallout 2 logo"/></a>
 
 [![Build status](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
