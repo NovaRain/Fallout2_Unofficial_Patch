@@ -13,12 +13,10 @@
 This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
 ### Installation
-Start with a clean humongous installation of the game.
+- UPU must be installed on vanilla game. 
+- UPU requires starting a **new game** after installation.
 
-**Notes:**
-- UPU requires starting a **new game**. (One exception is [updating](#update) from UP or a previous UPU version.)
-- If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
-
+(One exception is [updating](#update) from UP or a previous UPU version).
 #### Windows
 1. Download `upu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) page.
 1. Launch, point the installer to the game directory, choose language and options.
@@ -33,6 +31,8 @@ Make sure to **backup your saves** or better yet, the entire game directory **be
 - You can install UPU on top of UP 1.02.31 to make use of the fixes.
 
 In both cases, you won't see some of the fixes on already visited maps. Other than that, savegames should be compatible, but **no guarantees**.
+
+If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 
 ### Additional mods
 For various QoL features, check out these mods:
