@@ -177,11 +177,11 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if ((CITY_START >= 0) and ( (check_general_rep <= 0) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if ((CITY_START >= 0) and self_rep_negative) then begin
        call Node014;
    end
 
-   else if ((CITY_START <= 0) and (check_general_rep >= 0)) then begin
+   else if ((CITY_START < 0) and self_rep_negative) then begin
        call Node015;
    end
 
@@ -302,7 +302,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if (check_general_rep > 0) then
+   if self_is_evil then
        call Node010;
    else
        call Node011;
