@@ -34,7 +34,7 @@
 {127}{}{Welche Art von Waffen?}
 {128}{}{Nun, ich kann gut mit einer Schrotflinte umgehen, und wir haben hier drinnen einige Leute,
  die mit einem Gewehr umgehen können. Ich denke, drei davon müssten reichen.}
-{129}{}{Ich werd sehen, was ich tun kann.}
+{129}{}{Ich werde sehen, was ich tun kann.}
 {130}{}{Du bist hier unerwünscht. Los verschwinde.}
 {131}{}{Ich hab's mir anders überlegt. Wie kann ich euch helfen?}
 {132}{}{Hör zu, die wirst hier trotzdem gleich verschwinden.}

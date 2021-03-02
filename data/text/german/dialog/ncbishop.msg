@@ -24,7 +24,7 @@
 {228}{}{Ich dachte, du könntest vielleicht Arbeit für mich haben.}
 {229}{}{Tut mir leid — falsches Zimmer.}
 {240}{}{(Sieht dich prüfend an.) Selbst unter dem ganzen Putz siehst du noch aus wie eins von diesen Sippenwesen. (Schnaubt.) Die Jungs sagen, du hast 'ne Aktentasche für mich. Von einem gemeinsamen "Bekannten". Lass mal sehen.}
-{241}{}{Bitte.}
+{241}{}{Bitte schön.}
 {242}{}{Äh... komisch, das... sieht so aus, als ob ich sie irgendwo zwischen der Tür und hier verlegt habe.}
 {243}{}{Eigentlich behalte ich sie lieber. Ich bring sie in 'ner Weile noch mal wieder.}
 {250}{}{((Öffnet die Aktentasche, überprüft den Inhalt, schnappt sie wieder zu.) Sie ist wirklich von Moore. Nur sagt dieser Zettel hier, dass man dir nicht weiter trauen kann, als 'ne Schlange pinkelt. Du bist in das FALSCHE Zimmer spaziert, Sippling.}

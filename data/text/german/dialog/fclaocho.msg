@@ -13,9 +13,9 @@
 {112}{}{::Kopfnicken::}
 {113}{}{::Kopfschütteln::}
 {114}{}{Hier siehst du, was wir haben.}
-{115}{}{[Erledigt]}
+{115}{}{[Fertig]}
 {116}{}{Tja, dann kann ich dir wohl leider nicht weiterhelfen. Guten Tag.}
-{117}{}{[Erledigt]}
+{117}{}{[Fertig]}
 {118}{}{Ich bin Lao Chou. Mir gehört dieser Laden, Fliegender 8. Drache heißt er, ein Laden für alles. Aber ich handle vor allem mit... Informationen.}
 {119}{}{Was für Informationen?}
 {120}{}{Aha. Ich hätte gern eine Ausrüstung.}
