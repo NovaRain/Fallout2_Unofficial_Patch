@@ -16,7 +16,7 @@ fi
 
 # single file compile
 function process_file() {
-  set -eu -o pipefail
+  set -xeu -o pipefail
   f="$1"
   dst="$2"
   script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
@@ -28,7 +28,6 @@ function process_file() {
   result_code="$?"
   set -e
   if [[ "$result_code" != "0" ]]; then
-    set -x
     if echo "$result_text" | grep -q "recvmsg: Connection reset by peer"; then
       sleep 1
       wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # 1 retry
@@ -37,7 +36,6 @@ function process_file() {
       echo "$result_text"
       exit 1
     fi
-    set +x
   fi
   rm -f "$f.tmp"
 }
@@ -48,7 +46,6 @@ for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
     cd "$src/$d"
     files=""
-    set +x # ok this is too verbose
     for f in $(ls | grep -i "\.ssl$"); do # build file list
       int="$(echo $f | sed 's|\.ssl$|.int|')"
       if grep -qi "^$int " "$scripts_lst"; then # if file is in scripts.lst
@@ -58,7 +55,6 @@ for d in $(ls $src); do
         files="$files $f"
       fi
     done
-    set -x # enabling output again
     if [[ -n "$files" ]]; then
       parallel -j20 -i bash -c "process_file {} $dst" -- $files
     fi
