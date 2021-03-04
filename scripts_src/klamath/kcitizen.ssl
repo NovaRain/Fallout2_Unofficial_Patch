@@ -123,23 +123,9 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   //GetReaction;
-
-
-   //CURRENTLY KLAMATH CHILDREN JUST HAVE RANDOM DIALOGUE
-   //IF THIS CHANGES IN FUTURE THEN JUST UNCOMMENT GETREACTION AND DIALOGUE -nbk
-   if (TOWN_REPUTATION < 6) then call Node901;
-   else if (TOWN_REPUTATION > 14) then call Node903;
+   if town_rep_worse_than(6) then call Node901;
+   else if town_rep_is_liked then call Node903;
    else call Node902;
-   /*
-   end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
-      gSay_Start;
-         call Node000;
-      gSay_End;
-      end_dialogue;
-   end
-   */
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

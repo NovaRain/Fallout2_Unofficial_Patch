@@ -44,10 +44,7 @@
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse
 
-#define rep_check_pass ( \
-   (TOWN_REPUTATION > 5) or \
-   (TOWN_REPUTATION < -5 and dude_perk(PERK_cult_of_personality)) \
-)
+#define rep_check_pass town_rep_better_than(5)
 
 /* Standard Script Procedures */
 procedure start;
@@ -519,16 +516,6 @@ procedure Node005 begin
       call Node006;
    end
 end
-
-/*
-procedure Node005 begin
-   Reply(150);
-//subtract $5, if player doesn't have enough goto 6
-   NOption(151,Node007,004);
-   NOption(152,Node009,004);
-   NOption(153,Node999,004);
-end
-*/
 
 procedure Node006 begin
    if rep_check_pass then
