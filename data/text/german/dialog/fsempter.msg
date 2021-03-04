@@ -6,7 +6,7 @@
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{[Hack dich in den Computer]}
+{108}{}{::hack dich in den Computer::}
 {109}{}{Abmelden}
 {110}{}{Identität bestätigt.}
 {111}{}{Auf welche Funktion möchtest du zugreifen?}
@@ -15,8 +15,8 @@
 {114}{}{Prognosen.}
 {115}{}{Keine.}
 {116}{}{Bitte mit Systemverwalter in Verbindung setzen. Auf Wiedersehen.}
-{117}{}{[Hack dich in den Computer]}
-{118}{}{[Geh]}
+{117}{}{::hack dich in den Computer::}
+{118}{}{::verlassen::}
 {119}{}{Eindringling in System. Alarm. Sitzung wird beendet. Auf Wiedersehen.}
 {120}{}{[Fertig]}
 {121}{}{Diagnosefunktionen?}

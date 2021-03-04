@@ -17,9 +17,9 @@
 {116}{}{CHAR PUNKTE}
 {117}{}{FÄHIGKEITEN}
 {118}{}{Du musst alle Figurenpunkte verwenden,}
-{119}{}{ um mit dem Spiel zu beginnen!}
-{120}{}{Figurenpunkte}
-{121}{}{Anzahl der freien Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
+{119}{}{um mit dem Spiel zu beginnen!}
+{120}{}{Charakterpunkte}
+{121}{}{Anzahl verfügbarer Charakterpunkte, die zu einem Grundwert hinzugefügt werden können.}
 {122}{}{Näch. Level}
 {123}{}{Die Anzahl der Erfahrungspunkte, die für den nächsten Level erforderlich sind.}
 {124}{}{Bonus}
@@ -41,7 +41,7 @@
 {140}{}{Du besitzt schon die Höchstzahl von}
 {141}{}{drei Spezialtalenten!}
 {142}{}{Spezialtalente müssen ausgewählt}
-{143}{}{ um mit dem Spiel zu beginnen!}
+{143}{}{um mit dem Spiel zu beginnen!}
 {144}{}{Spezialtalente}
 {145}{}{Spezialtalente sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jedes Spezialtalent bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialtalente aussuchen.}
 {146}{}{Zusatzmerkmale}
@@ -56,7 +56,7 @@
 {155}{}{NEUES SPEZIALTALENT WÄHLEN}
 {156}{}{MERKMALE}
 {157}{}{ Alle Werte müssen zwischen 1 und 10 liegen}
-{158}{}{ um mit dem Spiel zu beginnen!}
+{158}{}{um mit dem Spiel zu beginnen!}
 {160}{}{ Du hast den Spielernamen nicht geändert.}
 {161}{}{ Soll diese Spielerfigur dennoch verwendet werden?}
 {175}{}{Näch. Lvl:}
