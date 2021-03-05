@@ -189,7 +189,7 @@ procedure thanks begin
 end
 
 procedure saysomething begin
-   if (TOWN_REPUTATION < 0) then begin
+   if town_rep_is_antipaty then begin
       call Node001;
    end
    else begin

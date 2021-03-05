@@ -27,7 +27,7 @@
  nie gesehen. Kannst du dich ausweisen?}
 {123}{}{Du willst meine Papiere sehen? Dann hol sie dir.}
 {124}{}{Ich habe meine Papiere momentan nicht bei mir.}
-{125}{}{Bitte.}
+{125}{}{Bitte schön.}
 {126}{}{Dann bin ich fertig mit dir, "Bürger". Fort mit dir.}
 {127}{}{Für heute ist Schluss mit Erledigungen. Und jetzt fort mit dir.}
 {128}{}{Ich rühr mich nicht von der Stelle. Wenn du mich anfasst, dann knallt's.}
@@ -63,7 +63,7 @@
 {156}{}{Gangster?}
 {157}{}{Wegen diesen Gangstern...}
 {158}{}{Kann ich dir einige Fragen stellen?}
-{159}{}{Vielen Dank. Auf Wiedersehn.}
+{159}{}{Danke. Auf Wiedersehn.}
 {160}{}{Was immer du willst. Nur zu.}
 {161}{}{Gestattet.}
 {162}{}{Nein. Zuerst wollte ich dir noch ein paar Fragen stellen.}
@@ -126,7 +126,7 @@
 {199}{}{Kann ich dich noch etwas anderes fragen?}
 {200}{}{Aber ich bin doch Bürger.}
 {201}{}{Wie wird man denn Bürger?}
-{202}{}{Vielen Dank. Auf Wiedersehn.}
+{202}{}{Danke. Auf Wiedersehn.}
 {203}{}{Das soll ich dir glauben? Ich kenne jeden einzelnen Bürger von Vault City und dich hab
  ich noch nie gesehen. }
 {204}{}{Hier ist mein Pass. Es ist alles in Ordnung, überzeug dich selbst.}

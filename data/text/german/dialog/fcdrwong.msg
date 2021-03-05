@@ -69,7 +69,7 @@
 {156}{}{Ja, es ist eine menschliche Milz.}
 {157}{}{Genaugenommen hätte ich etwas dagegen. Du hast nicht gerade bewiesen, dass du einen guten
  Charakter hast. Warum rede ich überhaupt mit dir? Wiedersehn.}
-{158}{}{[Erledigt]}
+{158}{}{[Fertig]}
 {159}{}{Aargh! Wachen! Der Lao Wai ist hier!}
 {160}{}{Hast du die Blaupausen für mich?}
 {161}{}{Ken Lee bat mich, dir das zu geben.}
