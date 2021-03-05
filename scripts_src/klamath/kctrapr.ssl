@@ -158,7 +158,7 @@ procedure talk_p_proc begin
       call Node004;
    end
 
-   else town_rep_worse_than(5) then begin
+   else if town_rep_worse_than(5) then begin
       call Node001;
    end
 
