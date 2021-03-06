@@ -1004,7 +1004,7 @@
 {1086}{}{Wanted Sign}                   # ZSWsign.int     ; Generic Wanted Sign
 {1087}{}{Dr. Wong}                      # FCDrWong.int    ; Dr. Wong in San Fran area
 {1088}{}{Table}                         # FIlaotbl.int    ; Lao Cho's stock tables in san Fran
-{1089}{}{Door}                          # WILv1Dor.int    ; Locked Door on Level 1 Entrance               # local_vars=8
+{1089}{}{Door}                          # WILv1Dor.int    ; Locked Door on Level 1 Entrance         # local_vars=8
 {1090}{}{Punk}                          # FCFemPnk.int    ; San Fran Female punk
 {1091}{}{Punk}                          # FCMalPnk.int    ; San Fran Male Punk
 {1092}{}{Ryan}                          # FCRyan.int      ; San Fran Punk Ryan
@@ -1072,7 +1072,7 @@
 {1154}{}{Quincy}                        # CcQuincy.int    ; Quincy in Navarro
 {1155}{}{Quartermaster}                 # CcQmstr.int     ; Quartermaster in Navarro
 {1156}{}{Guard}                         # CcMedGrd.int    ; Med Lab Guard in Navarro
-{1157}{}{Cybernetic Dog}                # CcK9.int        ; K9 in Navarro
+{1157}{}{K-9}                           # CcK9.int        ; K9 in Navarro
 {1158}{}{Doctor Schreber}               # CcDoctor.int    ; Dr Shreber in Navarro
 {1159}{}{Technician}                    # CcATech.int     ; Air Tech in Navarro
 {1160}{}{Technician}                    # CcACon.int      ; Air Control in Navarro
@@ -1117,9 +1117,9 @@
 {1199}{}{Klaxon}                        # QIKlaxon.int    ; Klaxon Lights for Enclave when under alert
 {1200}{}{Mine}                          # IIMine.int      ; Mines in Raiders Cave
 {1201}{}{Pit}                           # IIPit.int       ; Pits in the Raiders Cave
-{1202}{}{Cal}		                # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
-{1203}{}{Slim}		                # FCTnkBar.int    ; Tanker Bar Tender
-{1204}{}{Jenna}		                # FCTnkMer.int    ; Tanker Merchant
+{1202}{}{Cal}		                        # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
+{1203}{}{Slim}		                      # FCTnkBar.int    ; Tanker Bar Tender
+{1204}{}{Jenna}		                      # FCTnkMer.int    ; Tanker Merchant
 {1205}{}{}                              # FITGunTb.int    ; Tanker Gun Mer's table
 {1206}{}{}                              # FITMerTb.int    ; Tanker Merchant's Table
 {1207}{}{Emitter}                       # FSPemtr1.int    ; Palace Emitter 1

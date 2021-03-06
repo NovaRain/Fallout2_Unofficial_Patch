@@ -348,21 +348,21 @@
 {18100}{}{Elevator Top}
 {18101}{}{You are looking at a portion of an elevator.}
 {18200}{}{Computer Console}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Computer Console}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Emblem}
 {18401}{}{The symbol of the Brotherhood. The gears represent their engineering knowledge, the sword is their will to defend themselves and the wings are the uplifting hope.}
 {18500}{}{Emblem}
 {18501}{}{The symbol of the Brotherhood. The gears represent their engineering knowledge, the sword is their will to defend themselves and the wings are the uplifting hope.}
 {18600}{}{Level 'One' Sign}
-{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Level 'Two' Sign}
-{18701}{}{You are on level two of the Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Level 'Three' Sign}
-{18801}{}{This must mean that you are on level three of the Brotherhood.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Level 'Four' Sign}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{Bunk Bed}
 {19001}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
 {19100}{}{Bunk Bed}
@@ -1126,8 +1126,8 @@
 {59501}{}{The metal table is covered by some kind of biomass.}
 {59600}{}{Bulletin Board}
 {59601}{}{Notices for employment are stapled to the board. It looks well used.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Sign}
 {59801}{}{This sign says: General Store.}
 {59900}{}{Sign}
@@ -2626,7 +2626,9 @@
 {172200}{}{Bullet Proof Glass}
 {172300}{}{Bullet Proof Glass}
 {172400}{}{Heavy Laser Turret}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Heavy Laser Turret}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Rocks}
 {172700}{}{Rocks}
 {172800}{}{Rocks}

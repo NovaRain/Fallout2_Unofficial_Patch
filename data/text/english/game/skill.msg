@@ -33,16 +33,16 @@
 {205}{}{The skill of muscle-propelled ranged weapons, such as throwing knives, spears and grenades.}
 {206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
 {207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{Quiet movement, and the ability to remain unnoticed. If successful, you will be much harder to locate. You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key. The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
 {210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
 {211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Covers a variety of high technology skills, such as computers, biology, physics and geology.}
 {213}{}{The practical application of the Science skill for fixing broken equipment, machinery and electronics.}
-{214}{}{The ability to communicate in a practical and efficient manner. The skill of convincing others that your position is correct. The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks. The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering. The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land. The knowledge of plants and animals.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 #
 #   SKILL ATTRIBUTES
 #
@@ -96,7 +96,7 @@
 {571}{}{You steal the %s.}
 {572}{}{You're caught planting the %s.}
 {573}{}{You plant the %s.}
-{590}{}{You've taxed your ability with that skill.  Wait a while.}
+{590}{}{You've taxed your ability with that skill. Wait a while.}
 {591}{}{You're too tired.}
 {592}{}{The strain might kill you.}
 

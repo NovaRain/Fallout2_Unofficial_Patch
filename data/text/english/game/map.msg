@@ -3,8 +3,6 @@
 # Messages for Maps
 #
 
-
-
 #
 # Map Names for (Automap) Descriptions
 #	Note: This order must *NOT* change!
@@ -723,9 +721,9 @@
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
 {1516}{}{The Enclave}
-{1517}{}{Desert}         # Abbey
-{1518}{}{Desert}         # Primitive Tribe
-{1519}{}{Desert}         # EPA
+{1517}{}{Desert}        # Abbey
+{1518}{}{Desert}        # Primitive Tribe
+{1519}{}{Desert}        # EPA
 {1520}{}{Ghost Farm}
 {1521}{}{Car Outta Power}
 {1522}{}{Arroyo}

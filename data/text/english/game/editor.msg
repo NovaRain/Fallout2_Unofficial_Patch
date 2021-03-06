@@ -1,11 +1,11 @@
 #
-# �����������������������������������������������������������������������������
+# #############################################################################
 #
 # Text labels and messages used by EDITOR.C
 #
 # (These MUST match "text message" enumeration on the top of EDITOR.C)
 #
-# �����������������������������������������������������������������������������
+# #############################################################################
 #
 #
 {100}{}{DONE}
@@ -282,7 +282,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{You know sex. You know foreplay. You know how to please a member of the opposite sex and leave them hungry for more.}
 {1114}{}{You are the heavyweight champion of Northern California. You have gained fame, respect, the love of thousands... and a bonus to your toughness and unarmed skill.}
@@ -334,7 +334,7 @@
 # Karma section titles.
 #
 {4000}{}{Reputation}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 
 #
 # Karma section descriptions.

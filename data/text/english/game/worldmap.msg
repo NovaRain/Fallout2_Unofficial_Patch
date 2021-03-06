@@ -1,9 +1,9 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# #############################################################################
 #
 # Text labels and messages used by town and world map
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# #############################################################################
 #
 
 #
@@ -258,7 +258,7 @@
 # Fake Vault 13 B
 {650}{}{Cavern}
 #
-# Shadow Areas (Those which fit nowhere else
+# Shadow Areas (Those which fit nowhere else)
 {660}{}{Coastline}
 {661}{}{Coastline}
 {662}{}{Desert}
@@ -287,7 +287,7 @@
 {1500}{}{You gained 10,000 experience points!}
 {1501}{}{Ruins}
 {1502}{}{The car is out of power.}
-{1503}{}{This is a car.  It doesn't look like it's running.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 
 
 

@@ -223,7 +223,7 @@
 {11200}{}{Urn}
 {11201}{}{A beautiful golden urn, with the name "Harriet" inscribed on the front and ashes inside.}
 {11300}{}{Robes}
-{11301}{}{Robes from the Children of the Cathedral.}
+{11301}{}{Worn-looking robes.}
 {11400}{}{Tangler's Hand}
 {11401}{}{A cybernetic manipulator, in the shape and form of a hand. Damaged due to the sloppy nature of the removal process.}
 {11500}{}{Super Sledge}
