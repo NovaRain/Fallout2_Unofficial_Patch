@@ -25,6 +25,7 @@ jobs:
 
       - name: Build and package
         run: |
+          set -xeu -o pipefail
           . extra/env.sh
           ./extra/prepare.sh
           set -xeu -o pipefail
