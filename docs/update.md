@@ -1,0 +1,10 @@
+## Update
+
+Make sure to **backup your saves** or better yet, the entire game directory **before** updating.
+
+- You can update from an older UPU version.
+- You can install UPU on top of UP 1.02.31 to make use of the fixes.
+
+In both cases, you won't see some of the fixes on already visited maps. Other than that, savegames should be compatible, but **no guarantees**.
+
+If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
