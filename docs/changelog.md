@@ -28,7 +28,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 ### Version 19
 - Fixed minor issue with installation on Linux.
 - Skynet won't get [poisoned](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/72) in Broken Hills mine anymore.
-- Doors and containers nan be [pryed and trapped](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/61).
+- Doors and containers can be [trapped and/or pried open](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/61).
 - Setting off a door trap no longer shows [double](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/64) damage message.
 - NCR-Redding brahmin drive is [repeatable](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/69) like all others.
 - In a random encounter with Den slavers, they are [able to use](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/80) their weapons.
