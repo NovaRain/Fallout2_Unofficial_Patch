@@ -2,7 +2,7 @@
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 
 - Most translations are **incomplete**, they are provided as is. If you use an incomplete translation, you'll see bits of English in the game.
-- You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). For additional info, see [forums](https://forums.bgforge.net/viewtopic.php?f=9&t=21).
+- You can [help with completion](https://tra.bgforge.net/projects/fallout/up/). For additional info, see the [forums](https://forums.bgforge.net/viewtopic.php?f=9&t=21).
 
 
 ### Installation

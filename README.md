@@ -13,7 +13,7 @@
 This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
 ### Installation
-- UPU must be installed on vanilla game. 
+- UPU must be installed on vanilla game.
 - UPU requires starting a **new game** after installation.
 
 (One exception is [updating](docs/update.md) from UP or a previous UPU version).
