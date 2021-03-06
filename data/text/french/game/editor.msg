@@ -163,20 +163,20 @@
 {653}{}{ ::: Compétences :::                ::: Victimes :::}
 {654}{}{ ::: Inventaire :::}
 {655}{}{                                      Charge totale :}
-{656}{}{ ::: Reliances :::}
+{656}{}{ ::: Addictions :::}
 {657}{}{ ::: Réputation :::}
 {1000}{}{Réputation (générale) }
 {1001}{}{Folie Furieuse !}
 {1002}{}{Champion}
 {1003}{}{Tueur d'enfants}
-{1004}{}{Nuka Cola reliance}
-{1005}{}{Buffout reliance}
-{1006}{}{Mentats reliance}
-{1007}{}{Psycho reliance}
-{1008}{}{RadAway reliance}
-{1009}{}{Alcohol reliance}
-{1010}{}{Jet reliance}
-{1011}{}{Tragic reliance}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Bête de sexe}
 {1014}{}{Boxeur}
@@ -196,12 +196,12 @@
 {1102}{}{Tes actions ont fait de toi un champion. Ta lutte contre le mal et l'infamie est largement reconnue. Cela peut t'attirer les faveurs de personnes honorables.}
 {1103}{}{Tu as tué des jeunes gens, des jeunes du désert, ce qui est très mal vu. Tu es un être diabolique.}
 {1104}{}{Tu raffoles de Nuka-Cola, le soda du monde post-nucléaire.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tu as un problème avec la bouteille. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORAIRE - Qu'est-ce que c'est que ça ?}
 {1113}{}{Le sexe, les préliminaires, ça te connaît. Tu sais donner du plaisir à une personne du sexe opposé de sorte qu'elle en redemande.}
@@ -241,9 +241,9 @@
 {3007}{}{Fléau du Désert}
 {3008}{}{Enfant du Démon}
 {4000}{}{Réputation}
-{4001}{}{Reliance}
+{4001}{}{Addiction}
 {4100}{}{Il s'agit de ta réputation en fonction d'un lieu donné.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Imprimer un personnage n'est}
 {5001}{}{possible que dans la version complète.}
 {5002}{}{Sauvegarder un personnage n'est}

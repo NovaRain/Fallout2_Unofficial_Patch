@@ -163,20 +163,20 @@
 {653}{}{ ::: Képzettségek :::        ::: Hullák :::}
 {654}{}{ ::: Tárgylista :::}
 {655}{}{                   Össz tömeg:}
-{656}{}{ ::: Függõségek :::}
+{656}{}{ ::: Addictions :::}
 {657}{}{ ::: Hírnév :::}
 {1000}{}{Hírnév (Általános) }
 {1001}{}{Berzerker}
 {1002}{}{Bajnok}
 {1003}{}{Gyerekgyilkos}
-{1004}{}{Nuka-Cola függõség}
-{1005}{}{Buffout függõség}
-{1006}{}{Mentát függõség}
-{1007}{}{Pszicho függõség}
-{1008}{}{RadAway függõség}
-{1009}{}{Alkohol függõség}
-{1010}{}{Jet-függõség}
-{1011}{}{Tragic kártyafüggõség}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Szexpert}
 {1014}{}{Bokszoló}
@@ -196,12 +196,12 @@
 {1102}{}{A tetteid miatt az emberek Bajnoka lettél. A gonosz elleni harcodról mindenfelé hallott. A tisztességes emberek jobban kedvelnek.}
 {1103}{}{Gyerekeket öltél meg, a Pusztaság fiatalságát. Ez bizony nagyon rossz dolog. Te nagyon, nagyon rossz ember vagy.}
 {1104}{}{Iszonyúan élvezed a Nuka-Kólát, a poszt-nukleáris világ üdítõitalát.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Problémád van az alkohollal. Pontosabban az ivással.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragic kártyajáték függõ vagy. Állandóan új kártyákat akarsz szerezni.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Tudod, mi az a szex, és tudod, mi az az elõjáték. Van fogalmad róla, hogyan kell kielégíteni az ellenkezõ nem tagjait.}
@@ -241,9 +241,9 @@
 {3007}{}{A Puszta Ostora}
 {3008}{}{Sátánfajzat}
 {4000}{}{Hírnév}
-{4001}{}{függõségek}
+{4001}{}{Addiction}
 {4100}{}{Megmutatja, milyen a hírneved az adott helyen.}
-{4101}{}{Ezekre a dolgokra vagy függõ.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}

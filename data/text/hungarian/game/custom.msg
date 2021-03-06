@@ -29,11 +29,11 @@
 {402}{}{Maradj távol az ellenségtõl!}
 {403}{}{Ahogy neked tetszik.}
 {404}{}{Maradj ahol vagy!}
-{500}{}{Aki engem támad.}
+{500}{}{Whoever is attacking me}
 {501}{}{A legerõsebbet.}
 {502}{}{A leggyengébbet.}
 {503}{}{Akit akarsz.}
-{504}{}{Aki a legközelebb van.}
+{504}{}{Whoever is closest}
 {600}{}{Tiszta vagyok.}
 {601}{}{Stimpakkot, ha fáj egy kicsit.}
 {602}{}{Stimpakkot, ha nagyon fáj.}

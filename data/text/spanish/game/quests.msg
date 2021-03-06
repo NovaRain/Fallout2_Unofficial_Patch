@@ -113,7 +113,7 @@
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
 {1516}{}{Consíguele a la Hermandad del Acero los planos del vertibird.}
 {1600}{}{Encárgate de la Garra mortal.}
-{1601}{}{Repara a K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}
 {1800}{}{}

@@ -113,7 +113,7 @@
 {1515}{}{Szerezz egy megerõsített erõpáncélt Crockettõl!}
 {1516}{}{Szerezd meg a gépmadár tervrajzát az Acél Testvérisége számára !}
 {1600}{}{Intézd el a halálkarmot!}
-{1601}{}{Javítsd meg K9-et!}
+{1601}{}{Fix K-9.}
 {1602}{}{Szerezd meg az FBK-t a támaszpont parancsnokától!}
 {1700}{}{}
 {1800}{}{}

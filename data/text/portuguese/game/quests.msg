@@ -113,7 +113,7 @@
 {1515}{}{Get some hardened power armor from Crockett.}
 {1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
 {1600}{}{Deal with the deathclaw.}
-{1601}{}{Fix K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 {1700}{}{}
 {1800}{}{}

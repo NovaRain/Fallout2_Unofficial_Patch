@@ -915,7 +915,7 @@
 {48200}{}{drzwi}
 {48201}{}{Te drzwi na 100 kilometrów œmierdz¹ ci magazynem.}
 {48300}{}{wiatrowskaz}
-{48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{o³tarz}
 {48401}{}{Prosty o³tarz wykonany z malowanego drewna.}
 {48500}{}{mównica}
@@ -2246,7 +2246,7 @@
 {136400}{}{œwi¹tynia}
 {136500}{}{palenisko}
 {136600}{}{palenisko}
-{136700}{}{Howitizer}
+{136700}{}{haubica}
 {136701}{}{To dziwne dzia³o wygl¹da na zabytek z przed wojny. Zastanawiasz siê, jak mog³o tu trafiæ.}
 {136800}{}{œwi¹tynia}
 {136900}{}{œwi¹tynia}
@@ -2262,7 +2262,7 @@
 {137600}{}{pochodnia}
 {137601}{}{Do œciany przyczepiono tu zapalon¹ pochodniê.}
 {137700}{}{Latacz}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{A large military aircraft.}
 {137800}{}{zniszczone drzwi}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{zniszczone drzwi}

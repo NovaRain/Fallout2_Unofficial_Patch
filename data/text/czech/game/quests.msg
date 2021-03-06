@@ -113,7 +113,7 @@
 {1515}{}{Získej od Crocketta tvrzenou energo zbroj.}
 {1516}{}{Pøines Bratrstvu Oceli konstrukèní plány vertibirdu.}
 {1600}{}{Vypoøádej se s páraèem.}
-{1601}{}{Fix K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Získej FOB od velitele základny.}
 {1700}{}{}
 {1800}{}{}

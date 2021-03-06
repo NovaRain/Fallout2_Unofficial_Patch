@@ -118,7 +118,7 @@
 {218}{}{Chances de K.O accrues avec l'utilisation d'une arme.}
 {219}{}{La-Poisse}
 {1101}{}{Grâce à l'Intuition, tu recevras des informations détaillées sur toutes les créatures que tu examineras. Tu peux ainsi connaître leur nombre exact de points d'impact et obtenir des informations sur leurs armes.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Ton expérience du Corps à Corps fait de toi un adversaire redoutable. A chaque niveau de cette aptitude, tes attaques au Corps à Corps ou en Mêlée infligent +2 points de dégâts à ton adversaire.}
 {1104}{}{A chaque niveau de cette aptitude, tu reçois 2 PA gratuits à chaque tour, uniquement utilisables pour te déplacer. Autrement dit, tu peux te déplacer de deux cases gratuitement pour chaque niveau de cette aptitude.}
 {1105}{}{Ton expérience des armes à feu et des autres armes à distance te rend redoutable. A chaque niveau de cette aptitude, tu infliges +2 points de dégâts avec des armes à distance.}

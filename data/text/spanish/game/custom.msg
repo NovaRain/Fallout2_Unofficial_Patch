@@ -29,11 +29,11 @@
 {402}{}{Dispara al enemigo desde lejos.}
 {403}{}{Como quieras.}
 {404}{}{Quédate donde estás.}
-{500}{}{A cualquiera que me ataque a mí.}
+{500}{}{Whoever is attacking me}
 {501}{}{Al más fuerte.}
 {502}{}{Al más débil.}
 {503}{}{Al que tú quieras.}
-{504}{}{Al que esté más cerca.}
+{504}{}{Whoever is closest}
 {600}{}{Nada.}
 {601}{}{Estimulantes si estás herido.}
 {602}{}{Estimulantes si estás gravemente herido.}

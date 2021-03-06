@@ -915,7 +915,7 @@
 {48200}{}{Puerta}
 {48201}{}{Esta puerta se parece sospechosamente a la que encontrarías en un almacén.}
 {48300}{}{Veleta}
-{48301}{}{Esta veleta ayuda a la gente de Arenas Sombrías a estudiar el clima.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Altar}
 {48401}{}{Un simple altar hecho de madera pintada.}
 {48500}{}{Estrado}
@@ -2246,7 +2246,7 @@
 {136400}{}{Templo}
 {136500}{}{Fuego}
 {136600}{}{Fuego}
-{136700}{}{Cañón Howitzer}
+{136700}{}{Howitzer}
 {136701}{}{Este extraño cañón parece una reliquia de los días previos a la guerra. Te preguntas cómo llegó aquí.}
 {136800}{}{Templo}
 {136900}{}{Templo}
@@ -2262,7 +2262,7 @@
 {137600}{}{Antorcha}
 {137601}{}{Una pequeña antorcha en la pared.}
 {137700}{}{Vertibird}
-{137701}{}{NECESARIA DESCRIPCIÓN LARGA.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Puerta destruida}
 {137801}{}{La puerta de la central eléctrica está destruida.}
 {137900}{}{Puerta destruida}

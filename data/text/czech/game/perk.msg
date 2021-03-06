@@ -118,7 +118,7 @@
 {218}{}{Zbraò nepøítele omráèí. All critical hits cause knockout in addition to their regular effects. Characters with 9 ST have a 1% chance of causing knockout on a regular hit. Characters with 10 ST have a 2% chance of causing knockout on a regular hit. Not used by any weapons in the unmodded game.}
 {219}{}{Poznamenaný}
 {1101}{}{Všímáš si více detailù o lidech kolem tebe. Když nìkoho prozkoumáš, díky perku "Všímavost" se o nìm dozvíš více podrobnìjších informací. Zjistíš èím je ozbrojen i pøesný poèet jeho hit bodù.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Tvoje zkušenosti v boji zblízka z tebe udìlaly pìknì ostrého protivníka. Za každý stupeò tohoto perku zpùsobíš soupeøi pøi boji beze zbranì a pøi boji s chladnými zbranìmi o 2 body poškození navíc.}
 {1104}{}{Za každý stupeò tohoto perku dostaneš ve svém tahu o 2 akèní body víc. Tyto body ale mohou být využity pouze pro pohyb. Jinými slovy, za každou úroveò tohoto perku se ve svém tahu budeš moci pohnout o 2 hexy navíc.}
 {1105}{}{Tvùj trénink se zbranìmi v boji na dlouhou vzdálenost z tebe dìlá smrtelnì nebezpeèného protivníka. Za každou úroveò tohoto perku zpùsobíš o 2 body poškození navíc.}

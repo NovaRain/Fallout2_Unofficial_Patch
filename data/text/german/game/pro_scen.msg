@@ -915,7 +915,7 @@
 {48200}{}{Tür}
 {48201}{}{Diese Tür ähnelt verdächtig Türen, die man in einem Lagerhaus finden würde.}
 {48300}{}{Wetterfahne}
-{48301}{}{Mit Hilfe dieser einfachen Wetterfahne beobachten die Einwohner von Shady Sands das Wetter.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Altar}
 {48401}{}{Ein einfacher Altar aus bemalten Holz.}
 {48500}{}{Pult}
@@ -2262,7 +2262,7 @@
 {137600}{}{Fackel}
 {137601}{}{Eine brennende Fackel in einer Wandhalterung.}
 {137700}{}{Vertibird}
-{137701}{}{BRAUCHE LANGE BESCHREIBUNG.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Zerstörte Tür}
 {137801}{}{Die Kraftwerkstür ist kaputt.}
 {137900}{}{Zerstörte Tür}

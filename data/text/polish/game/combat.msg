@@ -496,7 +496,7 @@
 {2037}{}{w skrzyd³a}
 {2038}{}{wolisz nie wiedzieæ co}
 {5000}{}{. To j¹ naprawdê boli}
-{5001}{}{. Serious pain is inflicted}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{, jako ¿e nie chroni go pancerz}
 {5003}{}{. To straszliwe uderzenie pozbawia go przytomnoœci}
 {5004}{}{. Ten cios go powala}
@@ -534,7 +534,7 @@
 {5036}{}{. Cierpienie jest dla niego nie do zniesienia, tote¿ po chwili osuwa siê on w dó³ jak szmaciana lalka}
 {5037}{}{. Mamrocze "Mamo", gdy oczy uciekaj¹ mu w ty³ czaszki}
 {5100}{}{. To j¹ naprawdê boli}
-{5101}{}{. That inflicted some serious pain}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{, jako ¿e nie chroni jej pancerz}
 {5103}{}{. To straszliwe uderzenie pozbawia j¹ przytomnoœci}
 {5104}{}{. Ten cios j¹ powala}

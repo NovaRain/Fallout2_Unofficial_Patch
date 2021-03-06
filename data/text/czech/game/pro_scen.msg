@@ -915,7 +915,7 @@
 {48200}{}{Dveøe}
 {48201}{}{Tyto dveøe nápadnì pøipomínají dveøe do skladištì.}
 {48300}{}{Korouhvièka}
-{48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Oltáø}
 {48401}{}{Jednoduchý oltáø ze zdobeného døeva.}
 {48500}{}{Pódium}
@@ -2246,7 +2246,7 @@
 {136400}{}{Chrám}
 {136500}{}{Ohništì}
 {136600}{}{Ohništì}
-{136700}{}{Howitizer}
+{136700}{}{Houfnice}
 {136701}{}{Toto podivnì vypadající dìlo vypadá jako nìjaký pozùstatek z doby pøed Válkou. Zajímalo by tì, jak se sem dostalo.}
 {136800}{}{Chrám}
 {136900}{}{Chrám}
@@ -2262,7 +2262,7 @@
 {137600}{}{Pochodeò}
 {137601}{}{Do železného kruhu pøipevnìného na zdi je zasazena hoøící pochodeò.}
 {137700}{}{Vertibird}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Znièené dveøe}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{Znièené dveøe}

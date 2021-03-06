@@ -163,20 +163,20 @@
 {653}{}{ ::: Dovednosti :::                ::: Záøezy :::}
 {654}{}{  ::: Inventáø :::}
 {655}{}{  Celková váha:}
-{656}{}{ ::: Reliances :::}
+{656}{}{ ::: Addictions :::}
 {657}{}{   ::: Reputace :::}
 {1000}{}{Reputace (Obecnì) }
 {1001}{}{Berserk}
 {1002}{}{Šampión}
 {1003}{}{Vrah dìtí}
-{1004}{}{Nuka Cola reliance}
-{1005}{}{Buffout reliance}
-{1006}{}{Mentats reliance}
-{1007}{}{Psycho reliance}
-{1008}{}{RadAway reliance}
-{1009}{}{Alcohol reliance}
-{1010}{}{Jet reliance}
-{1011}{}{Tragic reliance}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexpert}
 {1014}{}{Profesionální boxer}
@@ -196,12 +196,12 @@
 {1102}{}{Tvé èiny z tebe udìlaly v oèích lidí šampióna. Tvùj boj se zlem a hanebností je všeobecnì známı. Èestní lidé si tì váí a uznávají tì.}
 {1103}{}{Co ti k tomu mám øíct? Zabíjíš nevinné a neozbrojené dìti. Chceš opravdu slyšet, co si o tobì myslíme?}
 {1104}{}{Umíš si dùkladnì vychutnat Nuka Colu, nealko nápoj postnukleárního svìta. Moná a moc dùkladnì. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Máš menší problém s alkoholem. No, vlastnì je to spíš vìtší problém. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Víš o sexu všechno. Obzvláš pøedehra je tvou silnou stránkou. Víš, jak potìšit pøíslušníka opaèného pohlaví a vzbudit v nìm touhu si to s tebou zopakovat.}
@@ -241,9 +241,9 @@
 {3007}{}{Postrach pouštì}
 {3008}{}{Ïáblùv spratek}
 {4000}{}{Reputace}
-{4001}{}{Reliance}
+{4001}{}{Addiction}
 {4100}{}{Tato poloka pøedstavuje tvou povìst v rùznıch lokacích.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Litujeme, ale svou postavu mùeš}
 {5001}{}{pouze v plné verzi hry.}
 {5002}{}{Litujeme, ale pozici mùeš uloit}

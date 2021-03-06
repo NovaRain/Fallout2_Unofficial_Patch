@@ -163,20 +163,20 @@
 {653}{}{ ::: Навыки :::                ::: Убито :::}
 {654}{}{ ::: Снаряжение :::}
 {655}{}{                                Общ. вес:}
-{656}{}{ ::: Reliances :::}
+{656}{}{ ::: Addictions :::}
 {657}{}{ ::: Репутация :::}
 {1000}{}{Репутация (общая)}
 {1001}{}{Кровожадный Берсерк}
 {1002}{}{Великий Герой}
 {1003}{}{Убийца детей}
-{1004}{}{Nuka Cola reliance}
-{1005}{}{Buffout reliance}
-{1006}{}{Mentats reliance}
-{1007}{}{Psycho reliance}
-{1008}{}{RadAway reliance}
-{1009}{}{Alcohol reliance}
-{1010}{}{Jet reliance}
-{1011}{}{Привыкание к Трэджику}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Секс-эксперт}
 {1014}{}{Профессиональный боец}
@@ -196,12 +196,12 @@
 {1102}{}{Ваши действия сделали вас народным героем. Весть о войне, которую вы объявили злу и подлости, разнеслась широко. Честные люди будут больше уважать вас.}
 {1103}{}{Вы убивали детей, цветы на развалинах мира. Такие поступки вообще-то не приветствуются. Вы плохой, плохой человек.}
 {1104}{}{Вы просто балдеете от Ядер-Колы - напитка пост-ядерного мира.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{У вас проблема с алкоголем. То есть - много проблем из-за постоянного пьянства.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Вы понимаете в сексе. Вы знаете, что такое прелюдия. Вы знаете, как доставить удовольствие партнеру противоположного пола и заставить его хотеть еще.}
@@ -241,9 +241,9 @@
 {3007}{}{Проклятие Пустоши}
 {3008}{}{Сатанинское отродье}
 {4000}{}{Репутация}
-{4001}{}{Reliance}
+{4001}{}{Addiction}
 {4100}{}{Отражает вашу репутацию в данном районе.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Простите, распечатать персонаж}
 {5001}{}{можно только в полной версии.}
 {5002}{}{Простите, сохранить персонаж}

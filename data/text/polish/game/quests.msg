@@ -113,7 +113,7 @@
 {1515}{}{Zdob¹dŸ ulepszony pancerz wspomagany od Crocketta.}
 {1516}{}{Zdob¹dŸ plany latacza dla Bractwa Stali.}
 {1600}{}{Uwolnij szpona œmierci.}
-{1601}{}{Fix K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Zdob¹dŸ kartê dostêpu od dowódcy bazy.}
 {1700}{}{}
 {1800}{}{}

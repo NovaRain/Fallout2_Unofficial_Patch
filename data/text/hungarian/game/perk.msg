@@ -118,7 +118,7 @@
 {218}{}{Extra Fegyver}
 {219}{}{Balszerencse}
 {1101}{}{A Megfigyeléssel minden lényrõl részletes információt kapsz, ha megvizsgálod õket. Láthatod, hogy pontosan hány életpontja van, és milyen fegyvert tart a kezében.}
-{1102}{}{Ismered a keleti harcmûvészeteket, vagy ha jobban tetszik, egyszerûen gyorsabban ütsz. Akárhogy is, a pusztakezes támadásid 1 AP-val kevesebbe kerülnek.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Az ökölharcban szerzett jártasságod elõnyt jelent, mikor sebzel. E képesség minden szintjével +2 ponttal nõ az Ökölharc és a Közelharci sebzésed.}
 {1104}{}{Az Extra Mozgás minden szintjéért +2 Akciópontot kapsz, amit csak mozgásra használhatsz fel, azaz két hexagonnal többet léphetsz körönként.}
 {1105}{}{A sok lõfegyverrel és egyéb távolsági fegyverrel való gyakorlás meghozta gyümölcsét. E képesség minden szintje +2 pont sebzést jelent távolsági fegyverekkel.}

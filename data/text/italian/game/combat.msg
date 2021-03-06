@@ -496,7 +496,7 @@
 {2037}{}{alle ali}
 {2038}{}{uncalled}
 {5000}{}{. Fa veramente male}
-{5001}{}{. Serious pain is inflicted}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{ in un punto non protetto dall'armatura}
 {5003}{}{. Il violento colpo lo fa cadere senza sensi al suolo}
 {5004}{}{. Il colpo lo manda al tappeto}
@@ -534,7 +534,7 @@
 {5036}{}{. Il dolore e' troppo forte e crolla a terra come un sacco}
 {5037}{}{. Mormora "Mamma", mentre i suoi occhi si girano all'indietro}
 {5100}{}{. Fa veramente male}
-{5101}{}{. That inflicted some serious pain}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{ in un punto non protetto dall'armatura}
 {5103}{}{. Il violento colpo la fa cadere senza sensi al suolo}
 {5104}{}{. Il colpo la manda al tappeto}

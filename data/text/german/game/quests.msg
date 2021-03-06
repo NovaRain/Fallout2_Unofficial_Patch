@@ -113,7 +113,7 @@
 {1515}{}{Besorg eine gehärtete Powerrüstung von Crockett.}
 {1516}{}{Hol die Vertibird-Pläne von der Brotherhood of Steel.}
 {1600}{}{Kümmere dich um die Deathclaw.}
-{1601}{}{Repariere K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Hol den SHS vom Kommandanten der Basis zurück.}
 {1700}{}{}
 {1800}{}{}

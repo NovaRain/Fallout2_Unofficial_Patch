@@ -163,20 +163,20 @@
 {653}{}{ ::: Fähigkeiten :::                ::: Opfer :::}
 {654}{}{ ::: Inventar :::}
 {655}{}{                                      Gesamtgewicht:}
-{656}{}{ ::: Abhängigkeiten :::}
+{656}{}{ ::: Addictions :::}
 {657}{}{ ::: Ansehen :::}
 {1000}{}{Ansehen (Allgemein) }
 {1001}{}{Berserker}
 {1002}{}{Champion}
 {1003}{}{Kindermörder}
-{1004}{}{Nuka-Cola Abhängigkeit}
-{1005}{}{Buffout Abhängigkeit}
-{1006}{}{Mentats Abhängigkeit}
-{1007}{}{Psycho Abhängigkeit}
-{1008}{}{RadAway Abhängigkeit}
-{1009}{}{Alkohol Abhängigkeit}
-{1010}{}{Jet Abhängigkeit}
-{1011}{}{Tragische Abhängigkeit}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperte}
 {1014}{}{Preisboxer}
@@ -196,12 +196,12 @@
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
-{1105}{}{Du bist von der Droge Buffout abhängig. Du musst es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
-{1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du musst es nehmen, sonst leidest du an Entzugserscheinungen.}
-{1107}{}{Du hast eine Drogenabhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
-{1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du musst es regelmäßig nehmen.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
-{1110}{}{Du hast eine Drogenabhängigkeit. Du musst regelmäßig Jet einnehmen.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragischerweise bist du abhängig vom Sammeln. Du bist ständig auf der Suche nach neuen Erweiterungen.}
 {1112}{}{TEMPORÄR - Was ist das?}
 {1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, dass er mehr will.}
@@ -241,9 +241,9 @@
 {3007}{}{Geißel des Ödlands}
 {3008}{}{Teufelsbrut}
 {4000}{}{Ansehen}
-{4001}{}{Abhängigkeit}
+{4001}{}{Addiction}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
-{4101}{}{Dinge, von denen du abhängig bist.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Bedaure, Drucken der }
 {5001}{}{Figur geht nur in der Vollversion.}
 {5002}{}{Bedaure, Speichern der}

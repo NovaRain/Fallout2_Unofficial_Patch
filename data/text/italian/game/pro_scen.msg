@@ -915,7 +915,7 @@
 {48200}{}{Porta}
 {48201}{}{Questa porta assomiglia sospettosamente a una porta che potresti trovare in un magazzino.}
 {48300}{}{Banderuola}
-{48301}{}{Questa semplice banderuola aiuta la gente di Shady Sands a studiare le condizioni meteorologiche.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Altare}
 {48401}{}{Un semplice altare fatto con legno dipinto.}
 {48500}{}{Podio}
@@ -2262,7 +2262,7 @@
 {137600}{}{Torcia}
 {137601}{}{Una torcia accesa, posta in un sostegno a muro.}
 {137700}{}{Vertibird}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Porta Distrutta}
 {137801}{}{La porta per la centralina energetica e' distrutta.}
 {137900}{}{Porta Distrutta}

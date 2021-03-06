@@ -118,7 +118,7 @@
 {218}{}{Wzmocniona si³a uderzenia}
 {219}{}{Pechowiec}
 {1101}{}{£atwiej ci dostrzegaæ szczegó³y dotycz¹ce innych osób. Dziêki temu, poprzez obserwacjê uzyskujesz bardziej dok³adne informacje na ich temat, ³¹cznie z liczb¹ punktów wytrzyma³oœci i u¿ywan¹ broni¹.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Doœwiadczenie w walce wrêcz pozwala ci uzyskaæ w niej przewagê. Za ka¿dy poziom tego profitu stopieñ obra¿eñ zadawanych w trakcie walki bezpoœredniej roœnie o 2 pkt.}
 {1104}{}{Za ka¿dy poziom Szybkich stóp, co turê walki otrzymujesz 2 punkty akcji, przeznaczone wy³¹cznie na ruch. Innymi s³owy, za ka¿dy poziom tego profitu, w ka¿dej turze walki mo¿esz za darmo przemieœciæ siê o 2 pola.}
 {1105}{}{Praktyka w u¿ywaniu broni palnej sprawia, ¿e wyró¿niasz siê œmierteln¹ skutecznoœci¹. Za ka¿dy poziom tego profitu wyrz¹dzasz o 2 pkt. obra¿eñ wiêcej, gdy u¿ywasz broni do walki na dystans.}

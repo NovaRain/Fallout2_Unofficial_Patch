@@ -496,7 +496,7 @@
 {2037}{}{nas asas}
 {2038}{}{lugar indefinido}
 {5000}{}{. Essa doeu}
-{5001}{}{. Um ferimento sério é inflingido}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{ sem a proteção da armadura}
 {5003}{}{. Ele foi nocauteado pelo violento ataque}
 {5004}{}{. Ele cai no chão, nocauteado pelo golpe}
@@ -534,7 +534,7 @@
 {5036}{}{. A dor é tanta que ele desmaia, caindo no chão feito um saco de merda}
 {5037}{}{. Ele susurra "Mamãe", enquanto seus olhos giram para trás de sua cabeça}
 {5100}{}{. Essa doeu}
-{5101}{}{. That inflicted some serious pain}
+{5101}{}{. Um ferimento sério é inflingido}
 {5102}{}{ sem a proteção da armadura}
 {5103}{}{. Ela foi nocauteada pelo violento ataque}
 {5104}{}{. Ela cai no chão, nocauteada pelo golpe}

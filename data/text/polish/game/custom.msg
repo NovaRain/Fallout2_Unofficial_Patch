@@ -29,11 +29,11 @@
 {402}{}{Trzymaj dystans}
 {403}{}{Stój gdzie chcesz}
 {404}{}{Stój gdzie stoisz}
-{500}{}{Whomever is attacking me}
+{500}{}{Whoever is attacking me}
 {501}{}{Najsilniejszego}
 {502}{}{Najs³abszego}
 {503}{}{Kogokolwiek chcesz}
-{504}{}{Whomever is closest}
+{504}{}{Whoever is closest}
 {600}{}{Jestem czysty}
 {601}{}{Stimpaki, gdy trochê boli}
 {602}{}{Stimpaki, gdy bardzo boli}

@@ -169,14 +169,14 @@
 {1001}{}{Berserker}
 {1002}{}{Campeón}
 {1003}{}{Infanticida}
-{1004}{}{Adicto a la Nuka Cola}
-{1005}{}{Adicto a los Esteroides}
-{1006}{}{Adicto a los Mentats}
-{1007}{}{Adicto al Psico}
-{1008}{}{Adicto al RadAway}
-{1009}{}{Adicto al Alcohol}
-{1010}{}{Adicto al Jet}
-{1011}{}{Adicto a Tragic}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Gigoló}
 {1014}{}{Campeón de Boxeo}
@@ -196,12 +196,12 @@
 {1102}{}{Tus acciones te han revelado como el campeón de la gente. Tu guerra contra el mal y la villanía es largamente conocida. La gente honorable te respetará más.}
 {1103}{}{Has matado a niños, el futuro del Yermo. Esto es considerado como algo realmente malo. Mala, mala persona.}
 {1104}{}{Disfrutas sin parar del sabor de Nuka-Cola, el refresco del mundo post-nuclear.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Desgraciadamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Sabes de sexo y de sus prolegómenos. Sabes como complacer a un miembro del sexo opuesto y dejarle con ganas de más.}
@@ -241,9 +241,9 @@
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}
 {4000}{}{Reputación}
-{4001}{}{Adicciones}
+{4001}{}{Addiction}
 {4100}{}{Representa tu reputación en un lugar concreto.}
-{4101}{}{Cosas a las que te has vuelto adicto.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}

@@ -915,7 +915,7 @@
 {48200}{}{Ajtó}
 {48201}{}{Hm, ezt az ajtót mintha egy raktárházon láttad volna utoljára.}
 {48300}{}{Szélkakas}
-{48301}{}{Ez a szélkakas segít a helybelieknek elõre jelezni az idõt.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Oltár}
 {48401}{}{Nem egy túlcizellált munkadarab. Csak festék és fa.}
 {48500}{}{Pódium}
@@ -2262,7 +2262,7 @@
 {137600}{}{Fáklya}
 {137601}{}{A fáklya vígan ég a falra illesztett tartójában.}
 {137700}{}{Gépmadár}
-{137701}{}{HOSSZÚ.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Lerombolt ajtó}
 {137801}{}{Valahogy tönkrement az energiaállomás bejárata.}
 {137900}{}{Lerombolt ajtó}

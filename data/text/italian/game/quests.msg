@@ -113,7 +113,7 @@
 {1515}{}{Prendi qualche Power-Armor rinforzata da Crockett.}
 {1516}{}{Recupera i piani per un vertibird per la Confraternita d'Acciaio.}
 {1600}{}{Occupati del Deathclaw.}
-{1601}{}{Ripara K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
 {1700}{}{}
 {1800}{}{}

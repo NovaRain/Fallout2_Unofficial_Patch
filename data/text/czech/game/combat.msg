@@ -496,7 +496,7 @@
 {2037}{}{køídla}
 {2038}{}{uncalled}
 {5000}{}{ a ošklivì ji to zabolelo}
-{5001}{}{. Serious pain is inflicted}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{, protože na sobì nemá zbroj}
 {5003}{}{. Drtivá rána ho zcela omráèila}
 {5004}{}{. Rána ho srazila na zem}
@@ -534,7 +534,7 @@
 {5036}{}{. Bolest ze zranìní byla tak silná, že se zhroutil jako panák z hadrù}
 {5037}{}{. Zamumlal "Mami" a jeho oèi se pomalu obrátily v sloup}
 {5100}{}{ a ošklivì ji to zabolelo}
-{5101}{}{. That inflicted some serious pain}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{, protože na sobì nemá zbroj}
 {5103}{}{. Drtivá rána ji zcela omráèila}
 {5104}{}{. Rána ji srazila k zemi}

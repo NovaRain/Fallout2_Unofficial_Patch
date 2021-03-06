@@ -915,7 +915,7 @@
 {48200}{}{Porta}
 {48201}{}{Esta porta é suspeita, comum como em qualquer loja.}
 {48300}{}{Cata-vento}
-{48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Altar}
 {48401}{}{Um altar simples feito de madeira pintada.}
 {48500}{}{Pódio}
@@ -2246,7 +2246,7 @@
 {136400}{}{Templo}
 {136500}{}{Fogo}
 {136600}{}{Fogo}
-{136700}{}{Howitizer}
+{136700}{}{Canhão Howitzer}
 {136701}{}{Este estranho canhão parece uma relíquia dos dias antes da guerra. Você queria saber como ele veio parar aqui.}
 {136800}{}{Templo}
 {136900}{}{Templo}
@@ -2262,7 +2262,7 @@
 {137600}{}{Tocha}
 {137601}{}{Uma tocha acesa em um canto da parede.}
 {137700}{}{Vertibird}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Porta destruída}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{Porta destruída}

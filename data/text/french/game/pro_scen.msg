@@ -915,7 +915,7 @@
 {48200}{}{Porte}
 {48201}{}{Cette porte ressemble étrangement à la porte d'un entrepôt.}
 {48300}{}{Girouette}
-{48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Autel}
 {48401}{}{Simple autel en bois peint.}
 {48500}{}{Podium}
@@ -2246,7 +2246,7 @@
 {136400}{}{Temple}
 {136500}{}{Brasier}
 {136600}{}{Brasier}
-{136700}{}{Howitizer}
+{136700}{}{Obusier}
 {136701}{}{Ce drôle de canon doit dater d'avant la guerre. C'est à se demander comment il a atterri ici.}
 {136800}{}{Temple}
 {136900}{}{Temple}
@@ -2262,7 +2262,7 @@
 {137600}{}{Torche}
 {137601}{}{Une torche allumée dans un support mural.}
 {137700}{}{Hélico}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Porte détruite}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{Porte détruite}

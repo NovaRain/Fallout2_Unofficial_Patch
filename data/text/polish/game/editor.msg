@@ -163,20 +163,20 @@
 {653}{}{ ::: Umiejêtnoœci :::                ::: Zabici :::}
 {654}{}{ ::: Ekwipunek :::}
 {655}{}{                                      Ca³kowity ciê¿ar:}
-{656}{}{ ::: Reliances :::}
+{656}{}{ ::: Addictions :::}
 {657}{}{ ::: Reputacja :::}
 {1000}{}{Ogólna reputacja: }
 {1001}{}{Zabijaka}
 {1002}{}{Bohater}
 {1003}{}{Dzieciobójca}
-{1004}{}{Nuka Cola reliance}
-{1005}{}{Buffout reliance}
-{1006}{}{Mentats reliance}
-{1007}{}{Psycho reliance}
-{1008}{}{RadAway reliance}
-{1009}{}{Alcohol reliance}
-{1010}{}{Jet reliance}
-{1011}{}{Tragic reliance}
+{1004}{}{Nuka Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcohol addiction}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sekspert}
 {1014}{}{Bokser zawodowy}
@@ -196,12 +196,12 @@
 {1102}{}{Twoje czyny sprawi³y, ¿e dla wielu ludzi jesteœ kimœ w rodzaju bohatera. Twoja krucjata przeciwko z³u i niegodziwoœci jest powszechnie znana. Ludzie honoru bêd¹ ciê w zwi¹zku z tym bardziej szanowaæ.}
 {1103}{}{Z twej rêki zginê³o wiele dzieci, m³ody kwiat Pustkowi. Nie zjedna ci to raczej powszechnej sympatii. Paskudna osoba z ciebie.}
 {1104}{}{Wprost uwielbiasz Nuka-Colê, popularny napój postnuklearnego œwiata.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Masz powa¿ny problem z alkoholem. W³aœciwie to masz wiele problemów zwi¹zanych z twoimi pijackimi nawykami.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TYMCZASOWE - Co to jest?}
 {1113}{}{Znasz siê na seksie. Znasz siê na grze wstêpnej. Wiesz, jak zadowoliæ przedstawicieli p³ci przeciwnej i sprawiæ, by b³agali o wiêcej.}
@@ -241,9 +241,9 @@
 {3007}{}{Plaga Pustkowi}
 {3008}{}{Diabelski Pomiot}
 {4000}{}{Reputacja}
-{4001}{}{Reliance}
+{4001}{}{Addiction}
 {4100}{}{Opisuje poziom twojej reputacji w konkretnym miejscu.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Things you have become addicted to.}
 {5000}{}{Przepraszamy, mo¿esz wydrukowaæ}
 {5001}{}{swoj¹ postaæ tylko w pe³nej wersji gry.}
 {5002}{}{Przepraszamy, zapisaæ }
