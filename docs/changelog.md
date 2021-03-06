@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 19](#version-19)
 - [Version 18](#version-18)
 - [Version 17](#version-17)
 - [Version 16](#version-16)
@@ -23,6 +24,26 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 19
+- Fixed minor issue with installation on Linux.
+- Skynet won't get [poisoned](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/72) in Broken Hills mine anymore.
+- Doors and containers nan be [pryed and trapped](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/61).
+- Setting off a door trap no longer shows [double](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/64) damage message.
+- NCR-Redding brahmin drive is [repeatable](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/69) like all others.
+- In a random encounter with Den slavers, they are [able to use](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/80) their weapons.
+- Thomas Moore [can be exposed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/66) as NCR agent even if the Bishops were made hostile.
+- Balthas [correctly checks](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/67) PC general reputation instead of town one. He'll also tell off the PC with bad reputation.
+- Navarro turrets will no longer [keep combat going](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/68) if PC is out of range.
+- Myron's guards will [recognize and allow to pass](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/84) a Mordino Made Man.
+- Enabled sfall QoL features by default in the installer.
+- Multiple [Sierra changes](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/70):
+  - Klaxons will correctly turn off when Skynet resets base security.
+  - Security bots will no longer display floats when inactive.
+  - Level 3 secret door will release the bots when level security is on.
+- Marcus' French line in German translation is [replaced](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/71) by a suitable German one.
+- Cult of Personality and Karma Beacon are [properly accounted for](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/4) in Arroyo, Klamath, Den and random encounters with merchants. This also includes town reputation checks.
+- Multiple spelling fixes, and restoration of censored lines.
 
 ### Version 18
 - Fixed automatic installer appending extra dir when selecting game directory.
