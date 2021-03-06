@@ -2,7 +2,7 @@
 
 This file lists changes for UPU only (since UP 1.02.31).
 
-All applicable changes are also present in corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
+All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
 - [Version 19](#version-19)
