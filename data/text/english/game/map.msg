@@ -24,9 +24,9 @@
 {103}{}{Arroyo}                           // arcaves.MAP
 {104}{}{Arroyo}                           // arvillag.MAP
 {105}{}{Arroyo}                           // arbridge.MAP
-{106}{}{The Den}                              // denbus1.MAP
-{107}{}{The Den}                              // denbus2.MAP
-{108}{}{The Den}                              // denres1.MAP
+{106}{}{The Den}                          // denbus1.MAP
+{107}{}{The Den}                          // denbus2.MAP
+{108}{}{The Den}                          // denres1.MAP
 {109}{}{Klamath}                          // .MAP  ;Downtown
 {110}{}{Klamath}                          // .MAP  ;Mall
 {111}{}{Klamath}                          // .MAP  ;Rat Caves
@@ -694,7 +694,7 @@
 {650}{}{Desert}
 {651}{}{Desert}
 {652}{}{Desert}
-# 151. Abbey
+# 151. Abbey Entrance
 {653}{}{Entrance}
 {654}{}{Downstairs}
 {655}{}{Desert}
@@ -723,9 +723,9 @@
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
 {1516}{}{The Enclave}
-{1517}{}{Desert}           # Abbey
-{1518}{}{Desert}           # Primitive Tribe
-{1519}{}{Desert}           # EPA
+{1517}{}{Desert}         # Abbey
+{1518}{}{Desert}         # Primitive Tribe
+{1519}{}{Desert}         # EPA
 {1520}{}{Ghost Farm}
 {1521}{}{Car Outta Power}
 {1522}{}{Arroyo}

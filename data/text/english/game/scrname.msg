@@ -771,7 +771,7 @@
 {853}{}{Shi Lab Tech}                   # FCslabte.int    ; San Fran Shi Lab techs
 {854}{}{Child}                          # FCSkids.int     ; San Fran Shi Kids
 {855}{}{Ghoul}                          # GCWander.int    ; wandering ghouls in Gecko
-{856}{}{Dr. Fung}                        # FCDrFung.int    ; San Fran Dr Fung
+{856}{}{Dr. Fung}                       # FCDrFung.int    ; San Fran Dr Fung
 {857}{}{Jul}                            # OCJul.int       ; Vault 13 Denmother Guard
 {858}{}{Kerith}                         # OCKerith.int    ; Vault 13 Den Mother
 {859}{}{Chest}                          # AITemCst.int    ; Temple Chest to hold the players things
@@ -941,7 +941,7 @@
 {1023}{}{Computer Terminal}             # FSBioSta.int    ; Biology computer station in San Fran
 {1024}{}{Computer Terminal}             # FSCheSta.int    ; Chemistry computer station in San Fran
 {1025}{}{Lao Chou}                      # FCLaoCho.int    ; Merchant in San Fran
-{1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine should only be put on one of the peaces.
+{1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine into password note. Should only be put on one of the pieces.
 {1027}{}{Ventilation Shaft}             # CSVent.int      ; Ventilation shaft for Navarro
 {1028}{}{Map Script}                    # EncTrp.int      ; Map Script for Enclave Trap Rooms
 {1029}{}{Dead Body}                     # HtBody.int      ; Script for dead bodies in Broken Hills

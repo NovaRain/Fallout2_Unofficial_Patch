@@ -53,11 +53,11 @@
 #
 # Attack who options.
 #
-{500}{}{Whomever is attacking me}
+{500}{}{Whoever is attacking me}
 {501}{}{The strongest}
 {502}{}{The weakest}
 {503}{}{Whomever you want}
-{504}{}{Whomever is closest}
+{504}{}{Whoever is closest}
 
 #
 # Drug use options.

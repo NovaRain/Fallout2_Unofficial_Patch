@@ -915,7 +915,7 @@
 {48200}{}{Door}
 {48201}{}{This door looks suspiciously like the door you would find in a warehouse.}
 {48300}{}{Weather Vane}
-{48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Altar}
 {48401}{}{A simple altar made from painted wood.}
 {48500}{}{Podium}
@@ -2246,7 +2246,7 @@
 {136400}{}{Temple}
 {136500}{}{Firepit}
 {136600}{}{Firepit}
-{136700}{}{Howitizer}
+{136700}{}{Howitzer}
 {136701}{}{This strange-looking cannon looks like a relic from the pre-War days. You wonder how it ended up here.}
 {136800}{}{Temple}
 {136900}{}{Temple}
@@ -2262,7 +2262,7 @@
 {137600}{}{Torch}
 {137601}{}{A lit torch in a wall sconce.}
 {137700}{}{Vertibird}
-{137701}{}{NEED LONG DESCRIPTION.}
+{137701}{}{A large military aircraft.}
 {137800}{}{Destroyed Door}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{Destroyed Door}

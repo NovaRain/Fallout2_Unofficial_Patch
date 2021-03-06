@@ -182,7 +182,7 @@
 #
 #1515, ...
 {1600}{}{Deal with the deathclaw.}
-{1601}{}{Fix K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 
 #
