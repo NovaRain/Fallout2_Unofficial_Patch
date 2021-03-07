@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Quartiermeister}
 {1156}{}{Wächter}
-{1157}{}{Kybernetischer Hund}
+{1157}{}{K-9}
 {1158}{}{Doktor Schreber}
 {1159}{}{Facharbeiter}
 {1160}{}{Facharbeiter}

@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Oficial de intendencia}
 {1156}{}{Guardia}
-{1157}{}{Perro cibernético}
+{1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Técnico}
 {1160}{}{Técnico}

@@ -348,21 +348,21 @@
 {18100}{}{dach windy}
 {18101}{}{Patrzysz na element konstrukcji windy.}
 {18200}{}{konsola komputerowa}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{konsola komputerowa}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{emblemat}
 {18401}{}{Symbol Bractwa Stali. Ko³a zêbate symbolizuj¹ wiedzê in¿ynieryjn¹ Bractwa, miecz - wolê samoobrony, a skrzyd³a - podnosz¹c¹ na duchu nadziejê.}
 {18500}{}{emblemat}
 {18501}{}{Symbol Bractwa Stali. Ko³a zêbate symbolizuj¹ wiedzê in¿ynieryjn¹ Bractwa, miecz - wolê samoobrony, a skrzyd³a - podnosz¹c¹ na duchu nadziejê.}
 {18600}{}{oznaczenie poziomu pierwszego}
-{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{oznaczenie poziomu drugiego}
-{18701}{}{You are on level two of the Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{oznaczenie poziomu trzeciego}
-{18801}{}{This must mean that you are on level three of the Brotherhood.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{oznaczenie poziomu czwartego}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{koja}
 {19001}{}{Wojskowe ³ó¿ko. Wygl¹da na bardzo niewygodne, podobnie jak poœciel.}
 {19100}{}{koja}
@@ -1126,8 +1126,8 @@
 {59501}{}{Metalowy stó³ pokryty jak¹œ biologiczn¹ tkank¹.}
 {59600}{}{tablica og³oszeñ}
 {59601}{}{Na tej tablicy wywieszane s¹ oferty pracy. Wygl¹da na czêsto u¿ywan¹.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{znak}
 {59801}{}{Magazyn}
 {59900}{}{znak}
@@ -2626,7 +2626,9 @@
 {172200}{}{szk³o kuloodporne}
 {172300}{}{szk³o kuloodporne}
 {172400}{}{ciê¿ka wie¿a laserowa}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{ciê¿ka wie¿a laserowa}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{kamienie}
 {172700}{}{kamienie}
 {172800}{}{kamienie}

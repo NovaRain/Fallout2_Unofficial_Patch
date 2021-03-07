@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Nádherná zlatá urna s nápisem "Harriet".}
 {11300}{}{Róba}
-{11301}{}{Robes from the Children of the Cathedral.}
+{11301}{}{Worn-looking robes.}
 {11400}{}{Tanglerova ruka}
 {11401}{}{Robotický manipulátor ve tvaru a podobì ruky. Byl poškozen pøi neodborném pokusu o rozebrání.}
 {11500}{}{Super Kladivo}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Velmi úèinný metamfetamin, který stimuluje centrální nervový systém. Poèáteèní euforie odezní již po nìkolika minutách, ale bìhem této doby je konzument naplnìn pøívalem síly a energie.}
 {26000}{}{Protilátka na Jet}
-{26001}{}{Tato protilátka dokáže vyléèit závislost na Jetu.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonnyho vzduchovka}
 {26101}{}{Vzduchovka znaèky Red Ryder. Na pažbì je vyškrábané jméno 'Jonny'. Min. SÍ: 3.}
 {26200}{}{Gumové holínky}

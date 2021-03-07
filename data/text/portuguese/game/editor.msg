@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Você tem um problema com Álcool. Na verdade, você tem muitos problemas com seus hábitos de consumo.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Você sabe fazer sexo. Você sabe preliminares. Você sabe como agradar um membro do sexo oposto e deixá-los com fome para mais.}
 {1114}{}{Você é o campeão dos pesos pesados do norte da Califórnia. Você ganhou fama, respeito e o amor de milhares... e um bônus para sua resistência e habilidade desarmado.}
@@ -241,7 +241,7 @@
 {3007}{}{Praga dos Oprimidos}
 {3008}{}{Semente do Mal}
 {4000}{}{Reputação}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Representa a sua reputação de um determinado local.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}

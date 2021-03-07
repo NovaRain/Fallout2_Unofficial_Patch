@@ -167,7 +167,7 @@
 {1500}{}{You gained 10,000 experience points!}
 {1501}{}{Ruínas}
 {1502}{}{The car is out of power.}
-{1503}{}{This is a car.  It doesn't look like it's running.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{You encounter:}
 {2999}{}{Do you wish to encounter:}
 {3000}{}{A party of raiders.}

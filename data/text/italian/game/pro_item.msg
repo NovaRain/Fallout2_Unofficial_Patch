@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Una splendida urna dorata, con il nome "Harriet" inciso sul davanti e con un pugno di cenere all'interno.}
 {11300}{}{Saio}
-{11301}{}{Saio dei Figli della Cattedrale.}
+{11301}{}{Worn-looking robes.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
 {11500}{}{Super Sledge}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Il Jet e' una potente metanfetamina che stimola il sistema nervoso centrale. L'iniziale scarica euforica raramente dura piu' di qualche minuto, ma, durante questo periodo, chi l'assume e' pieno di energie.}
 {26000}{}{Antidoto al Jet}
-{26001}{}{Questo antidoto cura gli effetti della dipendenza da Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Fucile ad Aria Compressa di Jonny}
 {26101}{}{Un fucile ad aria compressa Red Ryder con il nome 'Jonny' inciso sul calcio. Min FZ: 3.}
 {26200}{}{Stivali di Gomma}

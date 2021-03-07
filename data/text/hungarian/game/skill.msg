@@ -24,16 +24,16 @@
 {205}{}{Hajítófegyverek használatának képzettsége - dobókések, lándzsák és gránátok.}
 {206}{}{A gyógyítás legalapvetõbb ismeretei. Könnyebb sebek, horzsolások és egyéb kisebb betegségek ellátása. Több ÉP-t gyógyíthat, mint az ugyanannyi ideig tartó pihenés.}
 {207}{}{Súlyos sérülések, sérült végtagok gyógyítása. Enélkül sokkal több idõ kell a sérült végtagok gyógyulásához.}
-{208}{}{A csendes mozgás és az észrevétlenség képessége. Ha sikeres, sokkal nehezebben vesznek észre. Nem tudsz egyszerre futni és lopakodni.}
-{209}{}{Zárak kinyitása a megfelelõ kulcs híján. Tolvajkulcs vagy elektromos zárnyitó használata jelentõsen növeli ezt a képzettséget.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
 {210}{}{Mások dolgainak eltulajdonítása. Tárgyak ellopása emberektõl, vagy különbözõ helyekrõl.}
 {211}{}{Csapdák megtalálásának és hatástalanításának, valamint robbanóanya-gok használatának képzettsége.}
 {212}{}{Tudományok, ismeretek gyûjtõképzettsége, mint például a számítás-technika, biológia, fizika és geológia.}
 {213}{}{A Tudományok képzettség gyakorlati alkalmazása lerobbant, hibás berendezések, gépek vagy elektronikus eszközök javítására.}
-{214}{}{A kommunikáció célratörõ és hatásos módja. Mások meggyõzése arról, hogy amit te mondasz az úgy is van. A leleplezõdés nélküli hazudozás képzettsége.}
-{215}{}{Kereskedelem és minden hozzá kapcsolódó feladat. A megfelelõ képzettség, hogy drágán adj el, és olcsón vásárolj.}
-{216}{}{A fogadás mikéntjének ismerete és gyakorlati alkalmazása. Kártya, kocka és egyéb hazárdjátékok ûzése.}
-{217}{}{A pusztákon való túlélés gyakorlati alkalmazása. Magában foglalja az állatok és növények ismeretét.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x ÜG)}
 {301}{}{+ (2 x ÜG)}
 {302}{}{+ (2 x ÜG)}
@@ -78,7 +78,7 @@
 {571}{}{Sikerült ellopnod: %s.}
 {572}{}{Miközben a tiltott %s becsempészésén ügyködtél, sikeresen lebuktál.}
 {573}{}{Sikerült becsempészned: %s.}
-{590}{}{Kimerítetted a képzettséged, próbáld meg késõbb!}
+{590}{}{You've taxed your ability with that skill. Wait a while.}
 {591}{}{Túl fáradt vagy.}
 {592}{}{Belehalnál az erõfeszítésbe.}
 {600}{}{Nem vagy elég képzett ilyen sérülések gyógyítására.}

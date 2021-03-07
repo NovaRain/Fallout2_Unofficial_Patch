@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Masz powa¿ny problem z alkoholem. W³aœciwie to masz wiele problemów zwi¹zanych z twoimi pijackimi nawykami.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TYMCZASOWE - Co to jest?}
 {1113}{}{Znasz siê na seksie. Znasz siê na grze wstêpnej. Wiesz, jak zadowoliæ przedstawicieli p³ci przeciwnej i sprawiæ, by b³agali o wiêcej.}
 {1114}{}{Jesteœ mistrzem Pó³nocnej Kalifornii w wadze ciê¿kiej. Cieszysz siê s³aw¹, szacunkiem, mi³oœci¹ t³umów... oraz premiami do umiejêtnoœci krzepa i walka wrêcz.}
@@ -241,7 +241,7 @@
 {3007}{}{Plaga Pustkowi}
 {3008}{}{Diabelski Pomiot}
 {4000}{}{Reputacja}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Opisuje poziom twojej reputacji w konkretnym miejscu.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Przepraszamy, mo¿esz wydrukowaæ}

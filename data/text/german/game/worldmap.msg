@@ -167,7 +167,7 @@
 {1500}{}{Du erhälst 10,000 Erfahrungspunkte!}
 {1501}{}{Ruins}
 {1502}{}{Das Auto hat keinen Strom mehr.}
-{1503}{}{Ein Auto. Es sieht nicht so aus, als ob es funktionieren würde.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{Du begegnest:}
 {2999}{}{Du möchtest begegnen:}
 {3000}{}{Einem Gangstertrupp.}

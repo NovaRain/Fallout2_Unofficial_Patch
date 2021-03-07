@@ -223,7 +223,7 @@
 {11200}{}{Urne}
 {11201}{}{Une magnifique urne en or, comportant le nom « Harriet » à l'extérieur et des cendres à l'intérieur.}
 {11300}{}{Aubes}
-{11301}{}{Robes from the Children of the Cathedral.}
+{11301}{}{Worn-looking robes.}
 {11400}{}{Main de Tangler}
 {11401}{}{Un manipulateur cybernétique, qui à la forme exacte d'une main. Endommagé du fait d'un manque d'expertise au démontage.}
 {11500}{}{Super Luge}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Le Jet est une méta amphétamine puissante stimulant le système nerveux central. La montée initiale d'euphorie dure rarement plus de quelques minutes. Pendant ce temps, l'utilisateur ressent une force et une euphorie incroyables.}
 {26000}{}{Antidote contre le Jet}
-{26001}{}{Cette antidote permet de guérir la dépendance au Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Carabine de Jonny}
 {26101}{}{Une carabine à air Red Ryder. On a gravé tant bien que mal « Jonny » sur le manche. FO min : 3.}
 {26200}{}{Bottes en caoutchouc}

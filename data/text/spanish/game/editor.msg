@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Desgraciadamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Sabes de sexo y de sus prolegómenos. Sabes como complacer a un miembro del sexo opuesto y dejarle con ganas de más.}
 {1114}{}{Eres el campeón de los pesos pesados del norte de California. Te has ganado fama, respeto, el amor de miles... y un bonus a tu resistencia y habilidad sin armas.}
@@ -241,7 +241,7 @@
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}
 {4000}{}{Reputación}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Representa tu reputación en un lugar concreto.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}

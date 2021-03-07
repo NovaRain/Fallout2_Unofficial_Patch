@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Kwatermistrz}
 {1156}{}{Wartownik}
-{1157}{}{Cyberpies}
+{1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}

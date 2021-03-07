@@ -167,7 +167,7 @@
 {1500}{}{Zdobywasz 10000 PD!}
 {1501}{}{ruiny}
 {1502}{}{Samochód dalej nie pojedzie.}
-{1503}{}{Widzisz samochód. Nie wygl¹da na to, ¿eby by³ na chodzie.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{Natrafiasz na}
 {2999}{}{Czy chcesz napotkaæ:}
 {3000}{}{Grupê oprychów.}

@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Ubytovatel}
 {1156}{}{Stráž}
-{1157}{}{Kyberpes}
+{1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}

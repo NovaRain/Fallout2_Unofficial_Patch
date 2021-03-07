@@ -348,21 +348,21 @@
 {18100}{}{Vršek výtahu}
 {18101}{}{Díváš se na horní èást výtahu.}
 {18200}{}{Poèítaèová konzole}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Poèítaèová konzole}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Emblém}
 {18401}{}{Erb Bratrstva. Ozubená kola symbolizují technické vìdomosti Bratrstva, meè jejich odhodlání se bránit a køídla znamenají nadìji, která umírá poslední.}
 {18500}{}{Emblém}
 {18501}{}{Erb Bratrstva. Ozubená kola symbolizují technické vìdomosti Bratrstva, meè jejich odhodlání se bránit a køídla znamenají nadìji, která umírá poslední.}
 {18600}{}{Oznaèení 'Jednièka'}
-{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Oznaèení 'Dvojka'}
-{18701}{}{You are on level two of the Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Oznaèení 'Trojka'}
-{18801}{}{This must mean that you are on level three of the Brotherhood.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Oznaèení 'Ètyøi'}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{Palanda}
 {19001}{}{Vojenská palanda. Vypadá velmi nepohodlnì a prostìradlo je napnuté jako kšandy.}
 {19100}{}{Palanda}
@@ -1126,8 +1126,8 @@
 {59501}{}{Kovový stùl pokrytý jakousi biomasou.}
 {59600}{}{Nástìnka}
 {59601}{}{Na nástìnce je pøipíchnuto množství zpráv pro zamìstnance. Vypadá používanì.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Cedule}
 {59801}{}{Cedule s nápisem: Smíšené zboží.}
 {59900}{}{Cedule}
@@ -2626,7 +2626,9 @@
 {172200}{}{Neprùstøelné sklo}
 {172300}{}{Neprùstøelné sklo}
 {172400}{}{Tìžká laserová vìž}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Tìžká laserová vìž}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Kameny}
 {172700}{}{Kameny}
 {172800}{}{Kameny}

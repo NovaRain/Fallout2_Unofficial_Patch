@@ -167,7 +167,7 @@
 {1500}{}{10000 tapasztalati pontot kaptál!}
 {1501}{}{Romok}
 {1502}{}{Az autó lemerült.}
-{1503}{}{Ez egy autó. Nem igazán mûködik.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{Mindig jön valami...}
 {2999}{}{Közelebb húzódsz?}
 {3000}{}{Egy csapat fosztogató.}

@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Uma bonita urna dourada com o nome de "Harriet" inscrito na parte da frente e de cor cinzas no interior.}
 {11300}{}{Robes}
-{11301}{}{Robes from the Children of the Cathedral.}
+{11301}{}{Worn-looking robes.}
 {11400}{}{Tangler's Hand}
 {11401}{}{Um manipulador cibernética, na forma e forma de uma mão. Danificado devido à natureza malfeita do processo de remoção.}
 {11500}{}{Super Sledge}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet é uma poderosa metanfetamina que estimula o sistema nervoso central. A euforia inicial raramente dura mais do que alguns minutos, mas durante esse tempo, o usuário é preenchido com uma onda de energia e força.}
 {26000}{}{Antídoto de Jet}
-{26001}{}{Este antídoto curar os efeitos da dependência de Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonny's BB Gun}
 {26101}{}{Uma espingarda Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
 {26200}{}{Botas de borracha}

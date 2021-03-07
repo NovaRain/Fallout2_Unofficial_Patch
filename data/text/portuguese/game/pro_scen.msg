@@ -348,21 +348,21 @@
 {18100}{}{Parte superior do elevador}
 {18101}{}{Você está olhando para uma parte de um Elevador.}
 {18200}{}{Gabinete do computador}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Gabinete do computador}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Emblema}
 {18401}{}{O símbolo da Irmandade. A roda representa o seu conhecimento em engenharia, a espada é a sua vontade de defender-se, e as asas são a esperança do fortalecimento.}
 {18500}{}{Emblema}
 {18501}{}{O símbolo da Irmandade. A roda representa o seu conhecimento em engenharia, a espada é a sua vontade de defender-se, e as asas são a esperança do fortalecimento.}
 {18600}{}{Cartaz de 'nível um'}
-{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Cartaz de 'nível dois'}
-{18701}{}{You are on level two of the Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Cartaz de 'nível três'}
-{18801}{}{This must mean that you are on level three of the Brotherhood.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Cartaz de 'nível quatro'}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{Beliche}
 {19001}{}{Uma beliche no estilo militar. Parece muito desconfortável. Eles também parecem saltar umas moedas em suas roupas.}
 {19100}{}{Beliche}
@@ -1126,8 +1126,8 @@
 {59501}{}{A mesa de metal  esta coberta por algum tipo de biomassa.}
 {59600}{}{Quadro de avisos}
 {59601}{}{Há ofertas de emprego grampeados na placa. Parece muito usado.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Cartaz}
 {59801}{}{O cartaz diz: Armazém Geral.}
 {59900}{}{Cartaz}
@@ -2626,7 +2626,9 @@
 {172200}{}{Vidro aprova de bala}
 {172300}{}{Vidro aprova de bala}
 {172400}{}{Torre de Laser}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Torre de Laser}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Rochas}
 {172700}{}{Rochas}
 {172800}{}{Rochas}

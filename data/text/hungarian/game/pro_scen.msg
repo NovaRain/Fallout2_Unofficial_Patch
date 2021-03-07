@@ -348,21 +348,21 @@
 {18100}{}{Lift tetõ}
 {18101}{}{A lift egyik részét látod.}
 {18200}{}{Konzol}
-{18201}{}{Ez egy néma terminál, amit egy kábel köt hozzá a központi számítógéphez. Az Acél Testvériség tervein alapul.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Konzol}
-{18301}{}{Ez egy néma terminál, amit egy kábel köt hozzá a központi számítógéphez. Az Acél Testvériség tervein alapul.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Embléma}
 {18401}{}{A Testvériség címere. A fogaskerekek a hozzáértést, a kard a harcosságot, a szárnyak pedig a reményt jelentik.}
 {18500}{}{Embléma}
 {18501}{}{A Testvériség címere. A fogaskerekek a hozzáértést, a kard a harcosságot, a szárnyak pedig a reményt jelentik.}
 {18600}{}{'Elsõ szint' tábla}
-{18601}{}{Arra gondolsz, hogy ez valószínûleg azt jelenti, hogy az épület elsõ szintjén vagy.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{'Második szint' tábla}
-{18701}{}{A komplexum második szintjén vagy. A tábla szerint.}
+{18701}{}{You are on level two.}
 {18800}{}{'Harmadik szint' tábla}
-{18801}{}{Minden bizonnyal a harmadik szinten vagy az egész kócerájon belül.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{'Negyedik szint' tábla}
-{18901}{}{Kétségtelen, hogy ez a negyedik szintet jelzi.}
+{18901}{}{You must be on level four.}
 {19000}{}{Emeletes ágy}
 {19001}{}{Egy katonai emeletes ágy. Kényelmetlen. Még a visszajárót is visszaadja.}
 {19100}{}{Emeletes ágy}
@@ -1126,8 +1126,8 @@
 {59501}{}{Az asztal fémbõl van, a tetején leledzõ biomassza pedig nem tudom mibõl.}
 {59600}{}{Hirdetõtábla}
 {59601}{}{Különbözõ munkahirdetés van felragasztva a táblára. Látszólag elég gyakran használják.}
-{59700}{}{Õrbódé}
-{59701}{}{Ez az õrbódé már vagy száz éves, de még mindig(!) kitûnõ(!!) állapotban van!!!}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Tábla}
 {59801}{}{A táblán lévõ felirat a "Szatócsbolt".}
 {59900}{}{Tábla}
@@ -2626,7 +2626,9 @@
 {172200}{}{Golyóálló üveg}
 {172300}{}{Golyóálló üveg}
 {172400}{}{Nehézlézer-löveg}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Nehézlézer-löveg}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Kövek}
 {172700}{}{Kövek}
 {172800}{}{Kövek}

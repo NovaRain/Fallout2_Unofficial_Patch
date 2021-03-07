@@ -348,21 +348,21 @@
 {18100}{}{Oberteil des Aufzugs}
 {18101}{}{Du siehst den Teil eines Aufzugs.}
 {18200}{}{Computerkonsole}
-{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. Technologie der Brotherhood.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Computerkonsole}
-{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. Technologie der Brotherhood.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Emblem}
 {18401}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18500}{}{Emblem}
 {18501}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18600}{}{Schild der Ebene "Eins"}
-{18601}{}{Das könnte wohl bedeuten, dass du dich auf Ebene Eins der Brotherhood befindest.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Schild der Ebene "Zwei"}
-{18701}{}{Du bist auf Ebene Zwei der Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Schild der Ebene "Drei"}
-{18801}{}{Das heißt wohl, dass du auf Ebene Drei der Brotherhood bist.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Schild der Ebene "Vier"}
-{18901}{}{Du musst auf Ebene Vier der Brotherhood sein.}
+{18901}{}{You must be on level four.}
 {19000}{}{Etagenbett}
 {19001}{}{Ein Etagenbett im Militärstil. Sieht sehr unbequem aus. Sieht auch so aus, als würde eine aufs Bett geworfene Münze vom Bettlaken abprallen.}
 {19100}{}{Etagenbett}
@@ -1126,8 +1126,8 @@
 {59501}{}{Der Metalltisch ist mit einer Art Biomasse bedeckt.}
 {59600}{}{Schwarzes Brett}
 {59601}{}{Stellenangebote sind an das Brett geheftet. Es sieht häufig gebraucht aus.}
-{59700}{}{Wachhäuschen}
-{59701}{}{Das Wachhäuschen ist über hundert Jahre alt, ist aber immer noch in ausgezeichnetem Zustand.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Schild}
 {59801}{}{Auf dem Schild steht: Gemischtwaren.}
 {59900}{}{Schild}
@@ -2626,7 +2626,9 @@
 {172200}{}{Kugelsicheres Glas}
 {172300}{}{Kugelsicheres Glas}
 {172400}{}{Schwerer Lasergeschützturm}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Schwerer Lasergeschützturm}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Felsen}
 {172700}{}{Felsen}
 {172800}{}{Felsen}

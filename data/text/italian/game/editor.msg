@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati dalle tue abitudini nel bere.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragicamente, sei dipendente da "L'Accozzaglia". Sei continuamente alla ricerca di nuove espansioni.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Conosci il sesso. Conosci le tecniche. Sai come far godere una persona di sesso opposto e lasciarla con una voglia matta di rifarlo.}
 {1114}{}{Sei il campione dei pesi massimi del Nord California. Hai ottenuto fama, rispetto, l'amore delle folle... e un bonus per la resistenza fisica e l'abilita' Disarmato.}
@@ -241,7 +241,7 @@
 {3007}{}{Flagello delle Lande}
 {3008}{}{Figlio del Demonio}
 {4000}{}{Reputazione}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Rappresenta la tua reputazione in una data locazione.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}

@@ -24,16 +24,16 @@
 {205}{}{Capacité à lancer des armes à la main, telles que des couteaux, des lances et des grenades.}
 {206}{}{Capacité à pratiquer les premiers soins. Traitement des coupures légères, écorchures et autres maux bénins. La compétence Secourisme permet de guérir des points d'impact plus facilement que par un simple repos.}
 {207}{}{Capacité à traiter les lésions importantes et à soigner les membres estropiés.  Sans cette compétence, la durée d'attente avant de pouvoir retrouver l'usage des membres estropiés est beaucoup plus importante.}
-{208}{}{Mouvement furtif permettant de passer inaperçu. En cas de succès, il devient plus difficile de te localiser. Il est impossible de courir et de se déplacer furtivement en même temps.}
-{209}{}{Capacité à ouvrir les serrures sans la bonne clé. L'utilisation de passe-partout classiques ou électroniques améliore nettement cette compétence.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
 {210}{}{Faculté de s'approprier ce qui appartient à autrui. S'applique aux personnes et aux lieux.}
 {211}{}{Capacité à repérer et retirer les pièges posés. Permet également de poser des explosifs.}
 {212}{}{Recouvre diverses compétences scientifiques, notamment en informatique, biologie, physique et géologie.}
 {213}{}{Mise en application de la compétence Science. Réparation des équipements, mécanismes et appareils électroniques endommagés.}
-{214}{}{Capacité à communiquer de manière pratique et efficace. Capacité à se montrer persuasif, à mentir et à ne pas se faire prendre.}
-{215}{}{Sens du commerce. Capacité à tout marchander, à la vente comme à l'achat.}
-{216}{}{L'art et la manière de parier. Talent aux jeux de cartes, de dés et autres.}
-{217}{}{Connaissance pratique de la vie en plein air et capacité à survivre en milieu hostile. Connaissance de la flore et de la faune.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -78,7 +78,7 @@
 {571}{}{Tu as volé : %s.}
 {572}{}{Tu t'es fait surprendre en train de déposer : %s.}
 {573}{}{Tu as déposé : %s.}
-{590}{}{Tu as épuisé tes compétences en la matière. Attends un moment.}
+{590}{}{You've taxed your ability with that skill. Wait a while.}
 {591}{}{Tu es à bout de forces.}
 {592}{}{Le surmenage, c'est mauvais pour le coeur.}
 {600}{}{Tu ne disposes pas du niveau de compétence permettant de guérir les membres estropiés.}

@@ -24,16 +24,16 @@
 {205}{}{Umiejêtnoœæ pos³ugiwania siê broni¹ miotan¹ - ciskanymi no¿ami, w³óczniami i granatami.}
 {206}{}{Podstawowa umiejêtnoœæ medyczna, wykorzystywana do leczenia skaleczeñ, otaræ i innych pomniejszych dolegliwoœci. Opatrzenie ran jest na krótk¹ metê w stanie zniwelowaæ wiêcej obra¿eñ ni¿ sam odpoczynek.}
 {207}{}{Sztuka uzdrawiania powa¿nych ran i okaleczonych koñczyn. Bez zastosowania umiejêtnoœci leczenia, powrót tych ostatnich do pe³nej sprawnoœci trwa o wiele d³u¿ej.}
-{208}{}{Zdolnoœæ skrytego przemieszczania siê, po³¹czona z bieg³oœci¹ w kamufla¿u. Umiejêtnie zastosowane, powa¿nie utrudni twoje wykrycie. Podczas skradania tryb biegu nie jest dostêpny.}
-{209}{}{Umiejêtnoœæ otwierania zamków bez w³aœciwego klucza. Pos³ugiwanie siê wytrychami (klasycznymi lub elektronicznymi) bardzo w tym pomaga.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
 {210}{}{Zdolnoœæ czynienia cudzych rzeczy w³asnymi. Okradaæ mo¿na zarówno osoby (najlepiej zakradaj¹c siê od ty³u), jak i miejsca.}
 {211}{}{Umiejêtnoœæ wykrywania i usuwanie pu³apek, jak równie¿ podk³adania ³adunków wybuchowych.}
 {212}{}{Obejmuj¹ wiele zaawansowanych dziedzin, takich jak m.in. informatyka, biologia, fizyka i geologia.}
 {213}{}{Praktyczne zastosowanie znajomoœci nauk œcis³ych. Naprawianie zepsutego wyposa¿enia, maszyn oraz urz¹dzeñ elektronicznych.}
-{214}{}{Sztuka efektywnego komunikowania siê, przekonywania innych do w³asnego zdania, oraz ³gania w sposób wykluczaj¹cy przy³apanie.}
-{215}{}{Umiejêtnoœæ uzyskiwania lepszych cen na sprzedawane i kupowane przedmioty.}
-{216}{}{Teoria i praktyka zak³adów. Umiejêtnoœæ grania w karty, koœci i inne gry hazardowe.}
-{217}{}{Praktyczna znajomoœæ zasad ¿ycia na niezamieszka³ych terenach, umiejêtnoœæ korzystania z darów natury (i materia³ów rozszczepialnych). Wiedza o florze i faunie.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x ZR)}
 {301}{}{+ (2 x ZR)}
 {302}{}{+ (2 x ZR)}
@@ -78,7 +78,7 @@
 {571}{}{£up (%s) niepostrze¿enie staje siê twoj¹ w³asnoœci¹.}
 {572}{}{Z³apano ciê na podk³adaniu ³adunku (%s).}
 {573}{}{Niepostrze¿enie podk³adasz ³adunek (%s).}
-{590}{}{Twoja zdolnoœæ pos³ugiwania siê t¹ umiejêtnoœci¹ zosta³a nadwerê¿ona. Odczekaj chwilê.}
+{590}{}{You've taxed your ability with that skill. Wait a while.}
 {591}{}{Odczuwasz teraz zbyt du¿e zmêczenie.}
 {592}{}{Ten wysi³ek móg³by ciê zabiæ.}
 {600}{}{Nie posiadasz wystarczaj¹cych umiejêtnoœci, by leczyæ powa¿ne rany.}

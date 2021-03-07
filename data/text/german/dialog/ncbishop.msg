@@ -109,7 +109,7 @@
 {455}{}{Naja... man sagt, dass er nicht viel ausgeht. Ich glaube, ich hab mal gehört, dass er ein schwaches Herz hat, und deshalb vermeidet er Anstrengungen. (Schnaubt.) Entweder das, oder er mag die Sonne nicht.}
 {456}{}{Hmmmm. Ich hab da noch ein paar Fragen über Westin...}
 {457}{}{'N schwaches Herz, was? Hat er einen Arzt? Nimmt er irgendwelche Medikamente?}
-{465}{}{(Lächelt.) Ich mag das, wie du mitdenkst, Sippling... tja, ich weiß nicht, ob er irgendwelche Medikamente für sein Herz nimmt, aber ich weiß, dass er mit dem Herz besser aufpassen sollte, WAS er überhaupt schluckt.}
+{465}{}{(Lächelt.) Ich mag das, wie du mitdenkst, Wilder... tja, ich weiß nicht, ob er irgendwelche Medikamente für sein Herz nimmt, aber ich weiß, dass er mit dem Herz besser aufpassen sollte, WAS er überhaupt schluckt.}
 {475}{}{(Runzelt die Stirn.) Er ist ein Brahmin-Rancher. Ein Viehzüchter. Und?}
 {476}{}{Also gut. Ich hab da noch ein paar Fragen über Westin...}
 {477}{}{Nein, er ist noch etwas MEHR. Sonst hätten wir diese Unterhaltung jetzt nicht.}

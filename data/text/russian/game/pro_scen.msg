@@ -348,21 +348,21 @@
 {18100}{}{Крыша лифта}
 {18101}{}{Вы смотрите на часть лифта.}
 {18200}{}{Компьютерная консоль}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Компьютерная консоль}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Эмблема}
 {18401}{}{Символ Братства. Шестеренки представляют его технические знания, меч - стремление защитить себя, а крылья - воспаряющую надежду.}
 {18500}{}{Эмблема}
 {18501}{}{Символ Братства. Шестеренки представляют его технические знания, меч - стремление защитить себя, а крылья - воспаряющую надежду.}
 {18600}{}{Знак первого уровня}
-{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Знак второго уровня}
-{18701}{}{You are on level two of the Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Знак третьего уровня}
-{18801}{}{This must mean that you are on level three of the Brotherhood.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Знак четвертого уровня}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{Двухъярусная кровать}
 {19001}{}{Двухъярусная кровать казарменного типа. Судя по виду, очень неудобная. А судя по виду простыней, их можно поставить на пол.}
 {19100}{}{Двухъярусная кровать}
@@ -1126,8 +1126,8 @@
 {59501}{}{Этот металлический стол покрыт какой-то биомассой.}
 {59600}{}{Доска объявлений}
 {59601}{}{К доске приколоты объявления о работе. Похоже, ее часто использовали.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Знак}
 {59801}{}{Этот знак гласит: Универсальный Магазин.}
 {59900}{}{Знак}
@@ -2626,7 +2626,9 @@
 {172200}{}{Пуленепробиваемое стекло}
 {172300}{}{Пуленепробиваемое стекло}
 {172400}{}{Тяжелая лазерная турель}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Тяжелая лазерная турель}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Камни}
 {172700}{}{Камни}
 {172800}{}{Камни}

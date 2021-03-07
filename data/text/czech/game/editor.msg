@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Máš menší problém s alkoholem. No, vlastnì je to spíš vìtší problém. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Víš o sexu všechno. Obzvláš pøedehra je tvou silnou stránkou. Víš, jak potìšit pøíslušníka opaèného pohlaví a vzbudit v nìm touhu si to s tebou zopakovat.}
 {1114}{}{Jsi šampiónem severní Kalifornie v tìké váze. Získal sis slávu, obdiv i lásku tisícù fanouškù... a taky bonus k "Odolnosti vùèi poškození" a dovednosti "Boj beze zbranì".}
@@ -241,7 +241,7 @@
 {3007}{}{Postrach pouštì}
 {3008}{}{Ïáblùv spratek}
 {4000}{}{Reputace}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Tato poloka pøedstavuje tvou povìst v rùznıch lokacích.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Litujeme, ale svou postavu mùeš}

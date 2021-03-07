@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Raktáros}
 {1156}{}{Õr}
-{1157}{}{Kibernetikus kutya}
+{1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Technikus}
 {1160}{}{Technikus}

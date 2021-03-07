@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Problémád van az alkohollal. Pontosabban az ivással.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragic kártyajáték függõ vagy. Állandóan új kártyákat akarsz szerezni.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Tudod, mi az a szex, és tudod, mi az az elõjáték. Van fogalmad róla, hogyan kell kielégíteni az ellenkezõ nem tagjait.}
 {1114}{}{Te vagy Észak-Kalifornia nehézsúlyú bokszbajnoka. Hírnevet és elismerést szereztél... és egy kis bónuszt a keménységedhez valamint a pusztakezes képzettségedhez.}
@@ -241,7 +241,7 @@
 {3007}{}{A Puszta Ostora}
 {3008}{}{Sátánfajzat}
 {4000}{}{Hírnév}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Megmutatja, milyen a hírneved az adott helyen.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}

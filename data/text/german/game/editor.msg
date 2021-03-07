@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragischerweise bist du abhängig vom Sammeln. Du bist ständig auf der Suche nach neuen Erweiterungen.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORÄR - Was ist das?}
 {1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, dass er mehr will.}
 {1114}{}{Du bist Schwergewichtsmeister von Nordkalifornien. Du hast Ruhm, Respekt und die Liebe Tausender erlangt...und außerdem einen Bonus für deine Härte und Schlagkraft ohne Waffen.}
@@ -241,7 +241,7 @@
 {3007}{}{Geißel des Ödlands}
 {3008}{}{Teufelsbrut}
 {4000}{}{Ansehen}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Bedaure, Drucken der }

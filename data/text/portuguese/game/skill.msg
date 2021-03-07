@@ -24,16 +24,16 @@
 {205}{}{A habilidade de lançar varias armas como: facas, lanças e granadas.}
 {206}{}{Habilidade geral de cura. Usado para curar pequenos cortes, arranhões e outros males menores. Em termos de jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que apenas descansar.}
 {207}{}{A cura de ferimentos e principais membros mutilados. Sem essa habilidade, ele vai ter um período muito longo de tempo para restaurar membros mutilados.}
-{208}{}{Movimento silencioso, habilidade de passar desapercebido. Se for bem sucedido, você dificilmente será notado. Você não pode correr e esgueirar-se ao mesmo tempo.}
-{209}{}{A habilidade de abrir fechaduras sem a chave adequada. O uso de gazuas ou lockpicks eletrônicas vai aumentar muito essa habilidade.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
 {210}{}{A capacidade de roubar coisas. Pode ser usado para roubar de pessoas ou lugares.}
 {211}{}{A descoberta e remoção de armadilhas. Além disso, ajustes dos explosivos para fins de demolição.}
 {212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, física e geologia.}
 {213}{}{A aplicação prática da habilidade ciência para a fixação de equipamentos quebrados, máquinas e eletrônicos.}
-{214}{}{A capacidade de comunicar de uma maneira prática e eficiente. A habilidade de convencer os outros de que sua posição é correta. A capacidade de mentir e não ser pego.}
-{215}{}{Negociação e tarefas relacionadas com o comércio. A capacidade de obter melhores preços para os itens que você vende e os preços mais baixos para os itens que você comprar.}
-{216}{}{Os conhecimentos e habilidades práticas relacionadas com apostas. A habilidade de cartas, dados e outros jogos.}
-{217}{}{Conhecimento prático do ar livre, habilidade de sobrevivência. O conhecimento das plantas e dos animais.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -78,7 +78,7 @@
 {571}{}{Você rouba %s.}
 {572}{}{Você foi pego plantando %s.}
 {573}{}{Você planta %s.}
-{590}{}{Você já forçou a sua capacidade com essa habilidade. Espere um pouco.}
+{590}{}{You've taxed your ability with that skill. Wait a while.}
 {591}{}{Você está muito cansado.}
 {592}{}{O cansaço pode matá-lo.}
 {600}{}{Não tem habilidade suficiente para curar ossos quebrados.}

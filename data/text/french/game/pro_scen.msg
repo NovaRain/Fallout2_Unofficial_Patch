@@ -348,21 +348,21 @@
 {18100}{}{Haut de l'ascenseur}
 {18101}{}{Tu regardes une partie de l'ascenseur.}
 {18200}{}{Console informatique}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Console informatique}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Emblème}
 {18401}{}{Le symbole de la Confrérie. Les mécanismes représentent leurs connaissances en ingénierie, l'épée leur volonté à se défendre et les ailes l'espoir enrichissant.}
 {18500}{}{Emblème}
 {18501}{}{Le symbole de la Confrérie. Les mécanismes représentent leurs connaissances en ingénierie, l'épée leur volonté à se défendre et les ailes l'espoir enrichissant.}
 {18600}{}{Pancarte de l'étage 'Un'}
-{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Pancarte de l'étage 'Deux'}
-{18701}{}{You are on level two of the Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Pancarte de l'étage 'Trois'}
-{18801}{}{This must mean that you are on level three of the Brotherhood.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Pancarte de l'étage 'Quatre'}
-{18901}{}{You must be on level four of the Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{Lits superposés}
 {19001}{}{Lits superposés de style militaire. Ils n'ont pas l'air confortable.}
 {19100}{}{Lits superposés}
@@ -1126,8 +1126,8 @@
 {59501}{}{Cette table en métal est recouverte de biomasse.}
 {59600}{}{Tableau d'affichage}
 {59601}{}{Des informations d'embauche sont agrafées sur le tableau. Il semble très utilisé.}
-{59700}{}{Guard Shack}
-{59701}{}{This guard shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Shack}
+{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Panneau}
 {59801}{}{Le panneau indique : Magasin.}
 {59900}{}{Panneau}
@@ -2626,7 +2626,9 @@
 {172200}{}{Verre blindé}
 {172300}{}{Verre blindé}
 {172400}{}{Tourelle laser lourde}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Tourelle laser lourde}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{Rochers}
 {172700}{}{Rochers}
 {172800}{}{Rochers}

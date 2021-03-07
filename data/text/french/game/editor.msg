@@ -202,7 +202,7 @@
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tu as un problème avec la bouteille. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORAIRE - Qu'est-ce que c'est que ça ?}
 {1113}{}{Le sexe, les préliminaires, ça te connaît. Tu sais donner du plaisir à une personne du sexe opposé de sorte qu'elle en redemande.}
 {1114}{}{Tu es le champion de Californie du Nord catégorie poids lourd. Tu as droit à la gloire, au respect, à l'amour des foules... Ainsi qu'un bonus à la résistance et à la compétence Corps à Corps.}
@@ -241,7 +241,7 @@
 {3007}{}{Fléau du Désert}
 {3008}{}{Enfant du Démon}
 {4000}{}{Réputation}
-{4001}{}{Addiction}
+{4001}{}{Addictions}
 {4100}{}{Il s'agit de ta réputation en fonction d'un lieu donné.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Imprimer un personnage n'est}

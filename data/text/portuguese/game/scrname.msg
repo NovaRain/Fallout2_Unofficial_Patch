@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Quartermaster}
 {1156}{}{Guard}
-{1157}{}{Cybernetic Dog}
+{1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Technician}
 {1160}{}{Technician}

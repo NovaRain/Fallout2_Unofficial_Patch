@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{il Furiere}
 {1156}{}{una Guardia}
-{1157}{}{un Cane Cybernetico}
+{1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{un Tecnico}
 {1160}{}{un Tecnico}
