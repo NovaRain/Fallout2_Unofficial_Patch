@@ -1,6 +1,7 @@
 {100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
 {101}{}{Ves a Dar, la Garra mortal.}
-{102}{}{Ves a una típica Garra mortal. La criatura es enorme, con un cuerpo poderoso, dientes afilados y largas garras.}
+{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+ garras.}
 {103}{}{Hola, humana.}
 {104}{}{¿Qué quieres?}
 {105}{}{Hola. ¿Quién tú?}

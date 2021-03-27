@@ -9,7 +9,7 @@
 {179}{}{Klurgggg}
 {180}{}{Oog}
 {200}{}{Yo amigo de Monte. ¿TÚ amigo de Monte?}
-{201}{}{Me hit people Monte tell me to.}
+{201}{}{Golpeo a gente que Monte me dice.}
 {202}{}{Me golpeó a la gente.}
 {203}{}{Me pegó con los puños como tocar el tambor.}
 {204}{}{Me gusta golpear.}
@@ -19,8 +19,8 @@
 {208}{}{Grunt.}
 {209}{}{Grrr - Grrr}
 {210}{}{No gusto hablar.}
-{211}{}{Yoo smell guuud.}
+{211}{}{Tú hueles biiien.}
 {212}{}{Yoo huele a mamá.}
 {213}{}{Yoo lindo. No Me golpeó.}
-{214}{}{Yoo make me blush.}
+{214}{}{Tú me haces ruborizar.}
 {215}{}{Uhhh...Yo Rico...}

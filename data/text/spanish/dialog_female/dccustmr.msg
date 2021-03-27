@@ -64,7 +64,7 @@
 {413}{}{¿Ves algo bueno?}
 {414}{}{No hay mucho por aquí.}
 {415}{}{Tubby necesita conseguir mejores proveedores.}
-{416}{}{You need drugs? Tubby is normally well stocked.}
+{416}{}{¿Necesitas drogas? Normalmente Tubby suele estar bien surtido.}
 {430}{}{¿Qué te había hecho Tubby para que tuvieras que matarlo?}
 {431}{}{No es una gran perdida, pero la de Tubby era la única tienda de verdad del pueblo.}
 {432}{}{¿Qué había hecho Tubby para cabrearte de ese modo?}

@@ -9,7 +9,7 @@
 {108}{}{Hola.}
 {109}{}{¡Vete ahora!}
 {110}{}{¡Vuelve por donde has venido!}
-{111}{}{¡Fuera de aquí!}
+{111}{}{¡Lárgate al carajo de aquí!}
 {112}{}{Ahora estamos seguros.}
 {113}{}{Gracias.}
 {114}{}{Bendito seas, errante.}

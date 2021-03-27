@@ -163,20 +163,20 @@
 {653}{}{ ::: Skills :::                ::: Kills :::}
 {654}{}{ ::: Inventory :::}
 {655}{}{                                      Total Weight:}
-{656}{}{ ::: Addictions :::}
+{656}{}{ ::: Adicciones :::}
 {657}{}{ ::: Reputation :::}
 {1000}{}{Reputación (General) }
 {1001}{}{Berserker}
 {1002}{}{Campeón}
 {1003}{}{Infanticida}
-{1004}{}{Nuka Cola addiction}
-{1005}{}{Buffout addiction}
-{1006}{}{Mentats addiction}
-{1007}{}{Psycho addiction}
-{1008}{}{RadAway addiction}
-{1009}{}{Alcohol addiction}
-{1010}{}{Jet addiction}
-{1011}{}{Tragic addiction}
+{1004}{}{Adicto a la Nuka-Cola}
+{1005}{}{Adicto a los esteroides}
+{1006}{}{Adicto a los Mentats}
+{1007}{}{Adicto al Psico}
+{1008}{}{Adicto al Rad-Away}
+{1009}{}{Adicto al alcohol}
+{1010}{}{Adicto al Jet}
+{1011}{}{Adicto al Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Gigoló}
 {1014}{}{Campeón de Boxeo}
@@ -196,13 +196,13 @@
 {1102}{}{Tus acciones te han revelado como el campeón de la gente. Tu guerra contra el mal y la villanía es largamente conocida. La gente honorable te respetará más.}
 {1103}{}{Has matado a niños, el futuro del Yermo. Esto es considerado como algo realmente malo. Mala, mala persona.}
 {1104}{}{Disfrutas sin parar del sabor de Nuka-Cola, el refresco del mundo post-nuclear.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrirás los efectos de la abstinencia.}
+{1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrirás los efectos de la abstinencia.}
+{1107}{}{Eres adicto al psico. Si no lo tomas regularmente, sufrirás. Si lo tomas, sufrirán los demás.}
+{1108}{}{Eres adicto al Rad-Away. Si bien no pone en peligro tu vida, debes tomarlo con regularidad.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
+{1110}{}{Eres adicto al Jet. Debes tomarlo regularmente.}
+{1111}{}{Trágicamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Sabes de sexo y de sus prolegómenos. Sabes como complacer a un miembro del sexo opuesto y dejarle con ganas de más.}
 {1114}{}{Eres el campeón de los pesos pesados del norte de California. Te has ganado fama, respeto, el amor de miles... y un bonus a tu resistencia y habilidad sin armas.}
@@ -241,9 +241,9 @@
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}
 {4000}{}{Reputación}
-{4001}{}{Addictions}
+{4001}{}{Adicciones}
 {4100}{}{Representa tu reputación en un lugar concreto.}
-{4101}{}{Things you have become addicted to.}
+{4101}{}{Cosas a las que te has vuelto adicto.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}

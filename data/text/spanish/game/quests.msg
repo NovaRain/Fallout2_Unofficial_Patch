@@ -8,12 +8,12 @@
 {202}{}{Sabotea la destilería de Becky.}
 {203}{}{Consíguele a Smitty la pieza del coche.}
 {204}{}{Devuélvele a Anna su medallón.}
-{205}{}{Consigue de Fred el dinero de Rebecca.}
-{206}{}{Consigue de Derek el libro de Rebecca.}
+{205}{}{Recoger el dinero de Rebecca de Fred.}
+{206}{}{Conseguir el libro de Rebecca de Derek.}
 {207}{}{Entrégale a Smitty un almuerzo de Mamá.}
 {208}{}{Lara quiere saber qué hay guardado en la iglesia.}
 {209}{}{Consigue permiso de Metzger para la guerra de bandas.}
-{210}{}{Encuentra un punto flaco en la banda de Tyler que vigila la iglesia.}
+{210}{}{Encuentra un punto débil en la banda de Tyler que vigila la iglesia.}
 {211}{}{Ayuda a Lara a atacar a la banda de Tyler.}
 {300}{}{Reabastece de combustible el alambique.}
 {301}{}{Rescata a Smiley el Trampero.}
@@ -113,7 +113,7 @@
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
 {1516}{}{Consíguele a la Hermandad del Acero los planos del vertibird.}
 {1600}{}{Encárgate de la Garra mortal.}
-{1601}{}{Fix K-9.}
+{1601}{}{Repara a K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}
 {1800}{}{}

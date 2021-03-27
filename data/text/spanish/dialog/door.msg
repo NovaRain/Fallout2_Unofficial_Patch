@@ -148,8 +148,8 @@
 {201}{}{ hábilmente desactiva la trampa.}
 {202}{}{ no consigue desarmar la trampa.}
 {203}{}{La puerta parece estar bloqueada.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Notas una trampa en el marco de la puerta.}
+{205}{}{ nota una trampa en el marco de la puerta.}
 {206}{}{No puedes poner una trampa en esta puerta, porque
  está abierta.}
 {207}{}{ no consigue poner una trampa en esta puerta, porque
@@ -176,5 +176,5 @@
 {502}{}{Ves: Puerta de ascensor.}
 {503}{}{Parece que necesitas un aparato eléctrico para abrir esta cerradura.}
 {601}{}{Está cerrado, idiota.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
+{610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
+{611}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}

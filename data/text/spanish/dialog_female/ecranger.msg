@@ -21,9 +21,9 @@
 {120}{}{No.}
 {121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}
 {122}{}{Eres una mentirosa de mierda. ¡A por ella!}
-{123}{}{Saludos, forasteras. Somos los Rangers de la RNC. ¿Quién eres tú?}
+{123}{}{Saludos, forastera. Somos los Rangers de la RNC. ¿Quién eres tú?}
 {124}{}{No es asunto tuyo.}
-{125}{}{Sí, he oído hablar de ti. Eres un Ranger, ¿no?}
+{125}{}{Sí, he oído hablar de ti. Eres una Ranger, ¿no?}
 {126}{}{Sí.}
 {127}{}{No es asunto tuyo.}
 {128}{}{Bien, sé todo lo antisocial que quieras. Al menos no eres una esclavista. Adiós.}

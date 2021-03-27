@@ -496,7 +496,7 @@
 {2037}{}{las alas}
 {2038}{}{un lugar indefinido}
 {5000}{}{. Eso realmente duele}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Grave dolor infligido.}
 {5002}{}{ traspasando su armadura}
 {5003}{}{. El ataque lo deja inconsciente}
 {5004}{}{. El golpe lo tira al suelo}

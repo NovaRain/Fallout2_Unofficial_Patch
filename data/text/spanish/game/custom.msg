@@ -3,7 +3,7 @@
 {2}{}{Pref. de armas}
 {3}{}{Distancia}
 {4}{}{¿Atacar a?}
-{5}{}{Drug Use}
+{5}{}{Drogas}
 {10}{}{Hecho}
 {11}{}{Cancelar}
 {99}{}{No aplicable.}
@@ -29,13 +29,13 @@
 {402}{}{Dispara al enemigo desde lejos.}
 {403}{}{Como quieras.}
 {404}{}{Quédate donde estás.}
-{500}{}{Whoever is attacking me}
+{500}{}{A cualquiera que me ataque a mí.}
 {501}{}{Al más fuerte.}
 {502}{}{Al más débil.}
 {503}{}{Al que tú quieras.}
-{504}{}{Whoever is closest}
+{504}{}{Al que esté más cerca.}
 {600}{}{Nada.}
 {601}{}{Estimulantes si estás herido.}
 {602}{}{Estimulantes si estás gravemente herido.}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Cualquier droga algunas veces.}
+{604}{}{Cualquier droga en cualquier momento.}

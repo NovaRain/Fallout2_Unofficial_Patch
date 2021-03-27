@@ -167,7 +167,7 @@
 {1500}{}{¡Has ganado 10.000 puntos de experiencia!}
 {1501}{}{Ruinas}
 {1502}{}{Se le acabó el combustible al coche.}
-{1503}{}{This is a car. It doesn't look like it's running.}
+{1503}{}{Es un coche. No parece que que pueda ponerse en marcha.}
 {2998}{}{Encuentras:}
 {2999}{}{¿Deseas tropezarte con este encuentro?:}
 {3000}{}{Una banda de saqueadores.}
