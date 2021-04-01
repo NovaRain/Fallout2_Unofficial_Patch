@@ -30,7 +30,7 @@
 {150}{}{Me alegro de que no todos los pieles suaves sean como los de Ciudad Refugio.}
 {151}{}{Si los de Ciudad Refugio fuesen como tú, no tendríamos problemas con ellos.}
 {160}{}{Hmmph, otra piel suave traicionero.}
-{161}{}{¿Que tal, piel suave?}
+{161}{}{Hola, piel suave.}
 {162}{}{Hola a todos.}
 {163}{}{¿Cómo te va?}
 {164}{}{Pórtate bien mientras estés en el pueblo.}
