@@ -127,7 +127,7 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {217}{}{1 second, don't remove Barkus' float yet.}
 {218}{}{¡Ref-fugio! ¡Gechkk!}
 {219}{}{2 segundos}
-{220}{}{Bien...hmmm. Supongo que esperas una comisión, claro.}
+{220}{}{Bien... hmmm. Supongo que esperas una comisión, claro.}
 {221}{}{2 segundos}
 {222}{}{¿Se comen los forasteros sus propias heces? CLARO Que quiero una comisión.}
 {223}{}{1 second, Don't remove Skeev's float}
