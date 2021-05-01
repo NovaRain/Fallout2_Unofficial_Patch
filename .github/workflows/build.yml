@@ -15,6 +15,13 @@ jobs:
       - name: Run tests
         run: ./extra/tests.sh
 
+      - name: Run ScanMsg
+        uses: wipe2238/ScanMsg@master
+        with:
+          path: data/text
+          relaxed: true
+          no-exitcode: false
+
       - name: Install packages
         run: |
           sudo dpkg --add-architecture i386
