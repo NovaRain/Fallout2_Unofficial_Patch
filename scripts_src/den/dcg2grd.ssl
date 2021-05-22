@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+       Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 /*
@@ -112,6 +112,8 @@ procedure combat_p_proc begin
 end
 
 procedure critter_p_proc begin
+   if not self_obj then return;
+
    gang_critter_p_proc
 end
 

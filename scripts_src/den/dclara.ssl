@@ -192,6 +192,7 @@ procedure combat_p_proc begin
 end
 
 procedure critter_p_proc begin
+   if not self_obj then return;
    gang_critter_p_proc
 end
 
