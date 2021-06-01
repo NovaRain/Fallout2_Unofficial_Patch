@@ -480,6 +480,11 @@ will need to be closed, as all traps are set to go off if the door is openned.
       script_overrides;
       Removal_Counter:=rm_mult_objs_from_inven(source_obj,Explosive,1);
 
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+        reg_anim_animate(dude_obj,ANIM_magic_hands_middle,-1);
+      reg_anim_end();
+
       if (is_success(Traps_Roll)) then begin
         destroy_object(Explosive);
         set_local_var(LVAR_Trapped,STATE_ACTIVE);
@@ -494,7 +499,6 @@ will need to be closed, as all traps are set to go off if the door is openned.
       else if (is_critical(Traps_Roll)) then begin // crit fail, explode
         call real_explosion(Explosive);
       end else begin
-        move_to(Explosive, source_tile, self_elevation); // drop
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(209));
         end
