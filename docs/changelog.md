@@ -43,12 +43,11 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Broken Hills
   - Skynet won't get [poisoned](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/72) in Broken Hills mine anymore.
 - Modoc
-  - Balthas [correctly checks](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/67) PC general reputation instead of town one. He'll also tell off 
+  - Balthas [correctly checks](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/67) PC general reputation instead of town one. He'll also tell off the PC with bad reputation.
 - Navarro
   - Navarro turrets will no longer [keep combat going](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/68) if PC is out of range.
 - NCR
   - Thomas Moore [can be exposed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/66) as NCR agent even if the Bishops were made hostile.
-the PC with bad reputation.
 - New Reno
   - Myron's guards will [recognize and allow to pass](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/84) a Mordino Made Man.
   - Fixed Masticator knockout [not working](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/97) with sfall 4.2.9.
