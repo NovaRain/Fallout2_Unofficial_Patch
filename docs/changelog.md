@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 21](#version-21)
 - [Version 20](#version-20)
 - [Version 19](#version-19)
 - [Version 18](#version-18)
@@ -25,6 +26,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 21
+Updated sfall to 4.3.0.1.
 
 ### Version 20
 Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/80) by Lexx.
