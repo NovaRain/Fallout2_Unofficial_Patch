@@ -2,8 +2,7 @@
 {101}{}{Tu vois Metzger, le Maître des esclavagistes.}
 {150}{}{Metzger est le chef de la Guilde des esclavagistes.}
 {200}{}{Tu paieras pour ça.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Que veux tu ? Ici, c'est la Guilde des esclavagistes, pas un refuge pour les allumés au Jet dans ton genre !}
 {211}{}{Que veux-tu ?! Ici, c'est la Guilde des esclavagistes, pas un bordel !}
 {212}{}{Que veux-tu ?! Ici, c'est la Guilde des esclavagistes, pas une maison de passe !}
 {213}{}{Tu commences à me gonfler. Qu'est-ce tu veux ?}
@@ -152,9 +151,9 @@
 {540}{}{Voilà $}
 {541}{}{Voici tes $}
 {542}{}{C'est du bon boulot. Voilà }
-{543}{}{Voici ton argent : $}
+{543}{}{Voici ton argent : }
 {544}{}{$}
-{545}{}{Bon, ça fait $}
+{545}{}{Bon, ça fait}
 {546}{}{Ce n'était pas assez brutal cette fois. Pas d'erreurs la prochaine fois. Voilà }
 {547}{}{$}
 {548}{}{Allez ! }
@@ -230,12 +229,12 @@
 {1542}{}{.}
 {1543}{}{. $}
 {1544}{}{Il n'y a pas de quoi se moquer mais tu peux faire mieux que ça.}
-{1545}{}{ cette fois. C'est pas mal du tout.}
+{1545}{}{$ cette fois. C'est pas mal du tout.}
 {1546}{}{.}
 {1547}{}{ ? Pas mal.}
 {1548}{}{ $ ? Tu peux mieux faire !}
 {1549}{}{.}
-{1550}{}{ ! C'est vraiment pitoyable ! Reprends-toi ou je t'éclate.}
+{1550}{}{ $ ! C'est vraiment pitoyable ! Reprends-toi ou je t'éclate.}
 {1551}{}{, et sors d'ici.}
 {2540}{}{.}
 {2543}{}{.}
