@@ -100,7 +100,7 @@
 {392}{}{Hmm, interessante. vamos falar sobre outras coisas.}
 {393}{}{Por enquanto isso é o suficiente pra mim. Até mais, Whiskey Bob.}
 {400}{}{Pensei que você iria manter sua palavra, você não reabasteceu meu alambique a tempo e meu último lote de Whisky se perdeu! Não quero voltar a fazer negócios com você e espero que ninguém mais queira.}
-{401}{}{Mas eu, eu pensei que tivesse mais tempo?}
+{401}{}{Mas eu, eu pensei que tivesse mais tempo...}
 {402}{}{Ele provavelmente teria o mesmo gosto eu reabastecendo ou não.}
 {403}{}{De qualquer forma, seu whisky tem gosto de mijo de cachorro.}
 {404}{}{O combustível parece não fornecer uma temperatura adequada para a fermentação adequada.}
