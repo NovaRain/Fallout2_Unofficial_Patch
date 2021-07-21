@@ -320,7 +320,7 @@ procedure critter_p_proc begin
          call Node070;
          ndebug("Bad Karma");
       end
-      else if ( (has_rep_childkiller) ) then begin
+      else if has_rep_childkiller then begin
          call Node071;
          ndebug("Childkiller");
       end
