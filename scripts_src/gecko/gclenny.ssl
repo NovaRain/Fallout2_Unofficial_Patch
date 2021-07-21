@@ -805,8 +805,7 @@ procedure Node940 begin
 end
 
 procedure Node951 begin
-//   call Node021;
-   if ( (check_general_rep > 0) and (local_var(LVAR_reaction) > 30) ) then begin
+   if (self_rep_positive and (local_var(LVAR_reaction) > 30) ) then begin
       call Node021;
    end
    else begin
