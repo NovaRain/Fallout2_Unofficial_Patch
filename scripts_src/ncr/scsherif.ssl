@@ -294,7 +294,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if bad_critter_reaction or has_rep_childkiller or has_rep_berserker or town_rep_negative then begin
+   if bad_critter_reaction or has_rep_childkiller or has_rep_berserker or town_rep_negative then
       Reply(178);
    else if (jack_state != JACK_SURRENDER) then
       Reply(123);
