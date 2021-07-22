@@ -176,7 +176,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if (TOWN_REPUTATION < -30) then begin
+   if town_rep_is_vilified then begin
        floater(107);
    end
    else begin

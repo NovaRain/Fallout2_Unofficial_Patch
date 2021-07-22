@@ -294,15 +294,15 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if ( bad_critter_reaction or has_rep_childkiller or has_rep_berserker or global_var(TOWN_REP_VAR) < 0) then
+   if bad_critter_reaction or has_rep_childkiller or has_rep_berserker or town_rep_negative then begin
       Reply(178);
    else if (jack_state != JACK_SURRENDER) then
       Reply(123);
    else
       Reply(124);
 
-
-   if ( (not ((bad_critter_reaction or has_rep_childkiller or has_rep_berserker or global_var(TOWN_REP_VAR) < 0))) ) then begin
+   if not (bad_critter_reaction or has_rep_childkiller or has_rep_berserker or town_rep_negative) then begin
+      NOption(125, Node016, 4);
    end
    NOption(126, Node018, 4);
    NOption(127, Node999, 4);
