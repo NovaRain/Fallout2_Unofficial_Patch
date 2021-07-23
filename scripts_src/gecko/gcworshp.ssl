@@ -136,7 +136,7 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_GECKO_BRAIN_FRIEND) == 2) then begin //2=FRIEND
       call Node002;
    end
-   else if (TOWN_REPUTATION < -2) then begin
+   else if town_rep_worse_than(-2) then begin
       call Node003;
    end
    else begin

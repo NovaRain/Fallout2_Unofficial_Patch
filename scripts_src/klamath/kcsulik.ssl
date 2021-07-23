@@ -316,19 +316,19 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
    else if (Sulik_In_Party) then begin
-      if ( (global_var(GVAR_PLAYER_REPUTATION) < SULIK_BAD_KARMA) ) then begin
+      if self_rep < SULIK_BAD_KARMA then begin
          call Node70a;
          ndebug("Evil Spirit");
       end
-      else if ( (has_rep_childkiller) ) then begin
+      else if has_rep_childkiller then begin
          call Node074;
          ndebug("Child Destroyer");
       end
-      else if ( (has_rep_berserker) ) then begin
+      else if has_rep_berserker then begin
          call Node70a;
          ndebug("Crazed Spirit");
       end
-      else if ( (has_rep_slaver) ) then begin
+      else if has_rep_slaver then begin
          call Node071;
          ndebug("Spirit Enslaver");
       end
@@ -399,7 +399,7 @@ procedure talk_p_proc begin
       if ((dude_iq <= (0-LOW_IQ))) then begin
          call Node001;
       end
-      else if ( (has_rep_slaver) ) then begin
+      else if has_rep_slaver then begin
          call Node002;
       end
       else if ( (global_var(GVAR_SULIK_FREE) == 0) and ( (global_var(GVAR_ARDIN_FREEDOM) == 0) or (global_var(GVAR_ARDIN_FREEDOM) == 1) ) ) then begin //edit by killap - added (global_var(GVAR_ARDIN_FREEDOM) == 0/1)
@@ -411,50 +411,22 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end
-/*
-   else if (Sulik on Primitive Tribe map) then begin
-      if (sister not found) then begin
-         call Node089;
-      end
-      else if (sister found) then begin
-         call Node086;
-      end
-      else begin
-         call Node091;
-      end
-   end
-
-
-  else if (Sulik in Party) then begin
-     call Node065;
-  end
-
-*/
-   else if ( (has_rep_childkiller) ) then begin
+   else if has_rep_childkiller then begin
       call Node074;
    end
-   else if ( (has_rep_slaver) ) then begin
+   else if has_rep_slaver then begin
       call Node071;
    end
-   else if ( (global_var(GVAR_PLAYER_REPUTATION) < SULIK_BAD_KARMA) ) then begin
+   else if self_rep < SULIK_BAD_KARMA then begin
       call Node70a;
    end
    else if ((Sulik_In_Party) or (party_is_waiting)) then begin
       start_gdialog(NAME,self_obj,4,HEAD_SULIK,PartyMemberBackground);
       gSay_Start;
          call Node1000;
-         //call Node065;
       gSay_End;
       end_dialogue;
    end
-/*
-   else if (sulik in party) then begin
-      if (just told to leave) then
-         call Node075;
-      else
-         call Node035;
-   end
-*/
    else if (global_var(GVAR_SULIK_FREE) == 0) then begin
       start_gdialog(NAME,self_obj,4,HEAD_SULIK,PartyMemberBackground);
       gSay_Start;
