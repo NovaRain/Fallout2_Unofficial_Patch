@@ -40,12 +40,14 @@ cd ..
 # sfall
 "$extra_dir"/package/sfall.sh
 
-# final package
+# manual package: linux/mac os
 pushd .
 cd "$release_dir"
 zip -r "${mod_name}_${vversion}.zip" * # our package
 popd
 mv "$release_dir/${mod_name}_${vversion}.zip" .
+# bat is only used by innosetup
+zip -d "${mod_name}_${vversion}.zip" "release/upu-install.bat"
 
 # exe installer
 "$extra_dir"/package/inno.sh
