@@ -41,10 +41,6 @@ for d in $(ls); do
 done
 cd ..
 
-cp "$trans_dir"/${mod_name}_russian.dat ${mod_name}_russian_sound.dat # Russian includes speech, it's much larger than others, so packaged separately
-$dat2 d -r "$trans_dir"/${mod_name}_russian.dat 'sound\speech\*'
-$dat2 k "$trans_dir"/${mod_name}_russian.dat
-
 pushd .
 cd "$trans_dir"
 zip -r "${mod_name}_${vversion}_translations.zip" *.dat # all translations, just text and graphics
