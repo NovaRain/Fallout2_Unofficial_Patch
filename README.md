@@ -20,9 +20,10 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 #### Windows
 1. Download `upu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) page.
 1. Launch, point the installer to the game directory, choose language and options.
+1. AP ammo fix is not enabled by default. See `DamageFormula` in `ddraw.ini` for options, or consider [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks#damage-mod) implementation.
 
 #### Linux / MacOS
-Follow the [instruction](docs/linux.md).
+Follow the [instruction](docs/linux.md). AP ammo note from above also applies.
 
 ### Additional mods
 For various QoL features, check out these mods:
