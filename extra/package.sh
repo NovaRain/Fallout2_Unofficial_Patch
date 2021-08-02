@@ -40,6 +40,9 @@ cd ..
 # sfall
 "$extra_dir"/package/sfall.sh
 
+# ammo mod from sfall
+"$extra_dir"/package/ammo.sh
+
 # manual package: linux/mac os
 pushd .
 cd "$release_dir"

@@ -8,7 +8,7 @@ cd -- "$(dirname "$BASH_SOURCE")"
 touch fs_testx fs_testX
 if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
   rm -f fs_testx fs_testX
-  if [[ "$(find . -name "[[:upper:]]*" | wc -l)" != "0" ]]; then
+  if [[ "$(find . -name "[[:upper:]]*" | grep -v "mods/AmmoGlovz.ini" | grep -v "mods/AmmoYAAM.ini" | wc -l)" != "0" ]]; then
     echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
     exit 1
   fi
@@ -46,6 +46,7 @@ done
 # sfall mods
 mkdir -p data/scripts
 scripts="
+gl_ammomod.int
 gl_highlighting.int
 gl_partycontrol.int
 "
