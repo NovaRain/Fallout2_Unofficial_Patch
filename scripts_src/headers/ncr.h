@@ -5,6 +5,7 @@
 #ifndef NCR_H
 #define NCR_H
 
+#include "../headers/define.h"
 #include "../headers/command.h"
 #include "../headers/caravan.h"
 //General
