@@ -24,6 +24,7 @@ cp -r "$lang_dir"/english/cuts{,_female}
 
 # move texts to translation package dir
 for d in $(ls $lang_dir | grep -v english); do
+  rm -rf "$trans_dir/$d/text"
   mkdir -p "$trans_dir/$d/text"
   mv "$lang_dir/$d" "$trans_dir/$d/text/"
 done

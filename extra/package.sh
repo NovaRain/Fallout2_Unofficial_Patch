@@ -6,7 +6,7 @@ export comp_dir="components"
 export dat2="wine $bin_dir/dat2.exe"
 export dat2a="wine $bin_dir/dat2.exe a -1"
 export trans_dir="$(realpath translations)"
-export file_list="../file.list"
+export file_list="/tmp/file.list"
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged

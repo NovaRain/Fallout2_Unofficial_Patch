@@ -5,6 +5,7 @@
 *.log
 *.zip
 *.dat
+*.7z
 
 # used to build dat files
 file.list
