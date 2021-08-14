@@ -36,7 +36,7 @@ for d in $(ls); do
   dat="${mod_name}_$d.dat"
   cd "$d"
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-  $dat2a "$dat" @"$file_list" 2>&1 | grep -v "wine: Read access denied for device" # wine pollutes the log
+  $dat2a "$dat" @"$file_list"
   mv $dat ..
   cd ..
 done
