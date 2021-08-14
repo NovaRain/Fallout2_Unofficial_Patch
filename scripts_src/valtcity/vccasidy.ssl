@@ -177,6 +177,9 @@ procedure Node2022;
 #define cassidy_party_member_options    \
            party_member_default_options
 
+#define head_frm "art\\heads\\casdybf1.frm"
+#define HEAD_CASSIDY 13
+
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
 variable Perform_Party_Add:=0;
@@ -356,6 +359,13 @@ procedure use_obj_on_p_proc begin
       call Node2021;
 end
 
+
+procedure has_head begin
+   variable file = fs_copy(head_frm, head_frm);
+   if file == -1 then return false;
+   return true;
+end
+
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
@@ -363,46 +373,19 @@ procedure talk_p_proc begin
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION1;
-
    CheckKarma;
-
    GetReaction;
-
    find_party_background;
 
-   if ( ( MacRae_Ptr != 0 ) or ( party_is_waiting ) ) then begin
-       //start_gdialog(NAME,self_obj,4,HEAD_CASSIDY,PartyMemberBackground);
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node019;
-       gSay_End;
-       end_dialogue;
-   end
-   else begin
-       //start_gdialog(NAME,self_obj,4,HEAD_CASSIDY,PartyMemberBackground);
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node001;
-       gSay_End;
-       end_dialogue;
-   end
-   set_local_var( LVAR_Herebefore, 1 );
+   if has_head then start_gdialog(NAME, self_obj, 4, HEAD_CASSIDY, PartyMemberBackground);
+   else start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      if (MacRae_Ptr != 0) or (party_is_waiting) then call Node019;
+      else call Node001;
+   gSay_End;
+   end_dialogue;
 
-   //comment out by killap
-   /*if( Perform_Party_Add == 1 ) then begin
-      Perform_Party_Add := 0;
-      party_add_self;
-      rm_timer_event( self_obj );
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
-   end
-   if( Perform_Party_Remove == 1 ) then begin
-      Perform_Party_Remove := 0;
-      set_party_waiting;
-      set_self_team(TEAM_SLAVES);
-      rm_timer_event( self_obj );
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
-   end*/
-   //end comment out by killap
+   set_local_var(LVAR_Herebefore, 1);
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -542,7 +525,6 @@ end
 
 procedure Node007 begin
    Reply(132);
-
    NOption(133, Node008, 004);
 end
 
@@ -611,7 +593,7 @@ procedure Node015 begin
 
    if (self_rep >= -100) and (not has_rep_slaver) and (not has_rep_childkiller) and (dude_charisma > 1) then
       NOption(161, Node999, 004);
-      if (self_rep < -100) or has_rep_slaver or has_rep_childkiller or (dude_charisma == 1)  then begin
+   if (self_rep < -100) or has_rep_slaver or has_rep_childkiller or (dude_charisma == 1)  then begin
       BOption(162, Node999, 004);
       NOption(163, Node999, 004);
    end
@@ -727,9 +709,6 @@ procedure Node1009 begin
    cassidy_party_member_options;
 end
 procedure Node1010 begin
-   // weapons that can be used
-   //Reply("TEMP MESSAGE: CAN USE...");
-   //cassidy_party_member_options;
    call Node1102;
 end
 
