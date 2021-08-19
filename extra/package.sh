@@ -48,6 +48,9 @@ find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list" # repla
 $dat2a "$mods_dir/$dat" @"$file_list"
 cd ..
 
+# cassidy mod compatibility check
+"$extra_dir"/package/cassidy_head.sh
+
 # sfall
 "$extra_dir"/package/sfall.sh
 
