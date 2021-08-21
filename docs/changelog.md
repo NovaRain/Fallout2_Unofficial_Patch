@@ -55,8 +55,6 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   11. Hal's drive will start correctly [#110](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/111).
   12. Stanwell's appearance conditions in Redding are consistent (`map_enter_p_proc/map_update_p_proc`).
   13. It's possible to go with Hal on drive if player told him "no" in the first interaction.
-- Umbra Tribe
-  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108) black screen upon entering in German version.
 
 ### Version 21
 Updated sfall to 4.3.0.1.
