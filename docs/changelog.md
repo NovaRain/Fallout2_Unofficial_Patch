@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 22](#version-22)
 - [Version 21](#version-21)
 - [Version 20](#version-20)
 - [Version 19](#version-19)
@@ -26,6 +27,36 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 22
+- General:
+  - Updated sfall to 4.3.0.2.
+  - Karma perks implementation is pretty much complete.
+  - Sfall's AP ammo mod is included (but not enabled by default).
+  - Added support for [Cassidy talking head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head) mod (not included, needs to be downloaded separately).
+- Animations
+  - All [gore animations](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/106) (aka "bloodpatch" for German version) are included.
+  - Pistol anims with muzzle flashes for some critters from RPU are [included](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/107).
+  - Goris quick de-robing setting now is in UPU as well.
+  - [Added](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/107) a setting to speed up slow walking animations for some critters.
+- Modoc
+  - Bess can now be [healed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/105) with Doctor's bag.
+- NCR/Redding caravans
+  1. There should be no more no empty encounters.
+  2. The last cart is still shown with 1 brahma left.
+  3. `set_self_(in)visible` macros are reverted to previous value, fixing some issues with critter visibility introduced in v20 with changes for [#100](c), which borked NCR/Redding caravans.
+  4. Carts are filled with blocking hexes, so that critters don't accidentally get stuck inside.
+  5. It is now possible to do brahmin drive from NCR repeatedly, provided that the corresponding setting is enabled in `upu.ini`.
+  6. Redding enter hex changed so that player can face the payout master more naturally.
+  7. Brahmin are no longer appear missing from encounter when caravan master is dead.
+  8. If brahmin drive is set to repeatable and Hal is alive, he will pay in Redding personally. Otherwise, it will be the payout master.
+  9. Payout master will notice that Hal is dead.
+  10. Hal will appear in NCR when the time is right, without the need to re-enter the map.
+  11. Hal's drive will start correctly [#110](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/111).
+  12. Stanwell's appearance conditions in Redding are consistent (`map_enter_p_proc/map_update_p_proc`).
+  13. It's possible to go with Hal on drive if player told him "no" in the first interaction.
+- Umbra Tribe
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108) black screen upon entering in German version.
 
 ### Version 21
 Updated sfall to 4.3.0.1.
