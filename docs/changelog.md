@@ -44,7 +44,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - NCR/Redding caravans
   1. There should be no more no empty encounters.
   2. The last cart is still shown with 1 brahma left.
-  3. `set_self_(in)visible` macros are reverted to previous value, fixing some issues with critter visibility introduced in v20 with changes for [#100](c), which borked NCR/Redding caravans.
+  3. `set_self_(in)visible` macros are reverted to previous value, fixing some issues with critter visibility introduced in v20 with changes for [#100](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/100), which borked NCR/Redding caravans.
   4. Carts are filled with blocking hexes, so that critters don't accidentally get stuck inside.
   5. It is now possible to do brahmin drive from NCR repeatedly, provided that the corresponding setting is enabled in `upu.ini`.
   6. Redding enter hex changed so that player can face the payout master more naturally.
