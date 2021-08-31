@@ -13,5 +13,3 @@ export WINEARCH=win32
 export WINEDEBUG=-all
 export mod_name=upu
 export trans_dir="$(realpath translations)"
-
-set +xeu +o pipefail
