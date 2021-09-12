@@ -358,7 +358,7 @@
 {18600}{}{Cartaz de 'nível um'}
 {18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Cartaz de 'nível dois'}
-{18701}{}{You are on level two.}
+{18701}{}{Você está no nível dois.}
 {18800}{}{Cartaz de 'nível três'}
 {18801}{}{This must mean that you are on level three.}
 {18900}{}{Cartaz de 'nível quatro'}
@@ -1126,7 +1126,7 @@
 {59501}{}{A mesa de metal  esta coberta por algum tipo de biomassa.}
 {59600}{}{Quadro de avisos}
 {59601}{}{Há ofertas de emprego grampeados na placa. Parece muito usado.}
-{59700}{}{Shack}
+{59700}{}{Posto de Guarda}
 {59701}{}{This shack is over a hundred years old, but still in excellent condition.}
 {59800}{}{Cartaz}
 {59801}{}{O cartaz diz: Armazém Geral.}
@@ -2262,7 +2262,7 @@
 {137600}{}{Tocha}
 {137601}{}{Uma tocha acesa em um canto da parede.}
 {137700}{}{Vertibird}
-{137701}{}{A large military aircraft.}
+{137701}{}{Um grande avião militar.}
 {137800}{}{Porta destruída}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{Porta destruída}
@@ -2626,9 +2626,9 @@
 {172200}{}{Vidro aprova de bala}
 {172300}{}{Vidro aprova de bala}
 {172400}{}{Torre de Laser}
-{172401}{}{The turret rotates in a menacing way.}
+{172401}{}{A torreta gira de forma ameaçadora.}
 {172500}{}{Torre de Laser}
-{172501}{}{The turret rotates in a menacing way.}
+{172501}{}{A torreta gira de forma ameaçadora.}
 {172600}{}{Rochas}
 {172700}{}{Rochas}
 {172800}{}{Rochas}
