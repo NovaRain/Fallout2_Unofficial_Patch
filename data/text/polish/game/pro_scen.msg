@@ -10,8 +10,8 @@
 {501}{}{Stara, stalowa beka.}
 {600}{}{metalowa beczka}
 {601}{}{Stara, stalowa beka.}
-{700}{}{sterta opon}
-{701}{}{Sterta staro¿ytnych gumowych opon. Wulkanizowane i utwardzone, prawdopodobnie pod wp³ywem wysokiej temperatury.}
+{700}{}{stos opon}
+{701}{}{Stos prastarych gumowych opon, stwardnia³ych i nawulkanizowanych z powodu gor¹ca.}
 {800}{}{zabezpieczone drzwi}
 {801}{}{Te drzwi wygl¹daj¹ na wyj¹tkowo solidne. Ich zadaniem jest ochrona przed ¿ywio³ami œwiata zewnêtrznego i niebezpiecznymi istotami.}
 {900}{}{komputer}
@@ -31,15 +31,15 @@
 {1600}{}{ekrany}
 {1601}{}{Trzy monitory wyœwietlaj¹ce ró¿ne fragmenty danych.}
 {1700}{}{ekrany}
-{1701}{}{Trzy monitory wyœwietlaj¹ce ró¿ne fragmenty danych dotycz¹cych Krypty.}
+{1701}{}{Trzy monitory wyœwietlaj¹ce ró¿ne fragmenty danych dotycz¹cych krypty.}
 {1800}{}{drzwi}
 {1801}{}{Nawet bli¿sze oglêdziny tego przedmiotu nie zmieniaj¹ twojej opinii o nim. To nadal drzwi.}
 {1900}{}{drzwi}
 {1901}{}{Nawet bli¿sze oglêdziny tego przedmiotu nie zmieniaj¹ twojej opinii o nim. To nadal drzwi.}
-{2000}{}{wentylacja.}
-{2001}{}{Wentylacja, dostarcza przetworzone i oczyszczone powietrze do ca³ego kompleksu.}
-{2100}{}{wentylacja.}
-{2101}{}{Wentylacja, dostarcza przetworzone i oczyszczone powietrze do ca³ego kompleksu.}
+{2000}{}{otwór wentylacyjny}
+{2001}{}{Otwór kana³u wentylacyjnego dostarczaj¹cego oczyszczone powietrze do ca³ego kompleksu.}
+{2100}{}{otwór wentylacyjny}
+{2101}{}{Otwór kana³u wentylacyjnego dostarczaj¹cego oczyszczone powietrze do ca³ego kompleksu.}
 {2200}{}{wrota Krypty 13}
 {2201}{}{Potê¿ne drzwi zaprojektowane po to, aby przetrwaæ wszelkiego rodzaju uszkodzenia.}
 {2300}{}{wrota Krypty 13}
@@ -54,16 +54,16 @@
 {2701}{}{Kratownica pod³ogowa.}
 {2800}{}{rury}
 {2801}{}{Kilka rur. Ich bli¿sze oglêdziny nie wp³ywaj¹ ani na ich wygl¹d, ani na stan twojej wiedzy.}
-{2900}{}{wentylacja.}
-{2901}{}{Standardowy system wentylacji Krypt-Techu.}
+{2900}{}{otwór wentylacyjny}
+{2901}{}{Standardowy element systemu wentylacyjnego firmy KrypTech.}
 {3000}{}{kolumna}
-{3001}{}{Standardowy element systemu budowlanego firmy Krypt-Tech.}
+{3001}{}{Standardowy element systemu budowlanego firmy KrypTech.}
 {3100}{}{kolumna}
-{3101}{}{Standardowy element systemu budowlanego firmy Krypt-Tech.}
-{3200}{}{wentylacja.}
-{3201}{}{Standardowy system wentylacji Krypt-Techu.}
-{3300}{}{wentylacja.}
-{3301}{}{Standardowy system wentylacji Krypt-Techu.}
+{3101}{}{Standardowy element systemu budowlanego firmy KrypTech.}
+{3200}{}{otwór wentylacyjny}
+{3201}{}{Standardowy element systemu wentylacyjnego firmy KrypTech.}
+{3300}{}{otwór wentylacyjny}
+{3301}{}{Standardowy element systemu wentylacyjnego firmy KrypTech.}
 {3400}{}{³ó¿ko}
 {3401}{}{To ³ó¿ko wygl¹da bardzo wygodnie w porównaniu z tym, na czym zdarza³o ci siê ostatnio sypiaæ.}
 {3500}{}{³ó¿ko}
@@ -94,12 +94,12 @@
 {4701}{}{Monitor wyœwietlaj¹cy ró¿ne fragmenty danych.}
 {4800}{}{monitor}
 {4801}{}{Monitor wyœwietlaj¹cy ró¿ne fragmenty danych.}
-{4900}{}{Znacznik pola wyjœciowego.}
+{4900}{}{znacznik pola wyjœciowego}
 {4901}{}{Znacznik pola wyjœciowego.}
 {5000}{}{agregat oczyszczaj¹cy powietrze}
-{5001}{}{An APU cleans the old air to provide new air for the complex. This one is broken.}
+{5001}{}{Ten agregat ma za zadanie oczyszczanie powietrza dla kompleksu. Niestety, ten egzemplarz nie dzia³a.}
 {5100}{}{krzes³o}
-{5101}{}{Krzes³o jak krzes³o - szkoda tylko, ¿e nie masz czasu usi¹œæ i odpocz¹æ.}
+{5101}{}{Krzes³o jak krzes³o -  szkoda tylko, ¿e nie masz czasu usi¹œæ i odpocz¹æ.}
 {5200}{}{krzes³o}
 {5201}{}{Krzes³o jak krzes³o - szkoda tylko, ¿e nie masz czasu usi¹œæ i odpocz¹æ.}
 {5300}{}{krzes³o}
@@ -140,25 +140,25 @@
 {7001}{}{Naturalne wybrzuszenie skalnego pod³o¿a.}
 {7100}{}{krwawa plama}
 {7101}{}{Krwawa plama - nic nadzwyczajnego. Tyle tylko, ¿e ktoœ lub coœ musia³o tutaj zgin¹æ, aby powsta³a...}
-{7200}{}{kamienna kolumna}
+{7200}{}{kamianna kolumna}
 {7201}{}{Ta gruba kolumna skalna ³¹czy pod³o¿e ze sklepieniem.}
 {7300}{}{kamienna kolumna}
 {7301}{}{Ta gruba kolumna skalna ³¹czy pod³o¿e ze sklepieniem.}
-{7400}{}{kamienie}
+{7400}{}{ska³y}
 {7401}{}{Mimo twoich najszczerszych chêci nie udaje ci siê poruszyæ si³¹ woli nawet najmniejszego kamyka.}
-{7500}{}{kamienie}
+{7500}{}{ska³y}
 {7501}{}{Bacznie przygl¹dasz siê ska³om - na wszelki wypadek, gdyby mia³y zaatakowaæ.}
-{7600}{}{Car Wall Floor}
-{7601}{}{REMOVED}
+{7600}{}{pod³oga samochodu}
+{7601}{}{USUNIÊTE}
 {7700}{}{brama}
 {7701}{}{Drewniana brama.}
-{7800}{}{kamienie}
+{7800}{}{ska³y}
 {7801}{}{Du¿a sterta kamieni. Pe³no ich w tej okolicy.}
-{7900}{}{kamienie}
+{7900}{}{ska³y}
 {7901}{}{Ma³a sterta kamieni.}
-{8000}{}{kamienie}
+{8000}{}{ska³y}
 {8001}{}{Ma³a sterta kamieni.}
-{8100}{}{kamienie}
+{8100}{}{ska³y}
 {8101}{}{Du¿a sterta kamieni.}
 {8200}{}{koœci}
 {8201}{}{Du¿a sterta zbiela³ych koœci zwierzêcych. A w ka¿dym razie tobie siê wydaje, ¿e s¹ to koœci zwierzêce...}
@@ -176,13 +176,13 @@
 {8801}{}{Drewniana brama.}
 {8900}{}{brama}
 {8901}{}{Drewniana brama.}
-{9000}{}{kamienie}
+{9000}{}{ska³y}
 {9001}{}{Bardzo du¿a sterta kamieni. Wydaje ci siê, ¿e grozi ci z jej strony niebezpieczeñstwo.}
-{9100}{}{kamienie}
+{9100}{}{ska³y}
 {9101}{}{Du¿a sterta kamieni. Po bli¿szych oglêdzinach wydaje ci siê, ¿e boki kamieni s¹ w rzeczywistoœci twarzami ma³ych, starych ludzików.}
-{9200}{}{kamienie}
+{9200}{}{ska³y}
 {9201}{}{Ska³y, ska³y, ska³y! Gdzie nie spojrzeæ, tylko ska³y!}
-{9300}{}{kamienie}
+{9300}{}{ska³y}
 {9301}{}{Ma³a sterta kamieni.}
 {9400}{}{bar}
 {9401}{}{W ka¿dej chwili mo¿na tu sobie zamówiæ jeden z szerokiej gamy trunków.}
@@ -208,15 +208,15 @@
 {10401}{}{Jakiœ chwast pustynny.}
 {10500}{}{chwast}
 {10501}{}{Jakiœ chwast pustynny.}
-{10600}{}{œmieci}
+{10600}{}{z³om}
 {10601}{}{Prze¿arte rdz¹ drzwi samochodowe opieraj¹ siê o prze¿art¹ rdz¹ metalow¹ beczkê. Korozja wydaje siê byæ najpopularniejszym procesem w tej okolicy.}
-{10700}{}{œmieci}
+{10700}{}{z³om}
 {10701}{}{Pêkniêta muszla klozetowa do po³owy zakopana w piasku. Najpierw wszyscy na ciebie ca³e ¿ycie szczaj¹ a potem jeszcze ciê dobrze nie zakopi¹...}
 {10800}{}{chwasty}
 {10801}{}{Jakieœ pustynne chwasty. Nawet jeœli jeszcze niedawno ros³y, to teraz ju¿ nie trzeba siê tego obawiaæ.}
-{10900}{}{œmieci}
+{10900}{}{z³om}
 {10901}{}{Zakopana w piasku opona samochodowa. Ktoœ usypa³ dooko³a niej ma³y kopczyk z kamyków.}
-{11000}{}{kamienie}
+{11000}{}{ska³y}
 {11001}{}{Dziêki bli¿szym oglêdzinom dochodzisz do wniosku, ¿e to raczej kawa³ki skamienia³ego drewna.}
 {11100}{}{ziemia}
 {11101}{}{Ma³y kopczyk ziemi z którego wystaje ³odyga martwego chwasta.}
@@ -228,11 +228,11 @@
 {11401}{}{Ma³y kopczyk ziemi.}
 {11500}{}{chwast}
 {11501}{}{Ma³y kopczyk ziemi z którego wystaje ³odyga martwego chwasta.}
-{11600}{}{œmieci}
+{11600}{}{z³om}
 {11601}{}{Powykrêcany w dziwne kszta³ty kawa³ek zardzewia³ego metalu.}
-{11700}{}{œmieci}
+{11700}{}{z³om}
 {11701}{}{Po³amane kawa³ki jakiegoœ drewna.}
-{11800}{}{œmieci}
+{11800}{}{z³om}
 {11801}{}{Ma³a sterta ró¿nych œmieci.}
 {11900}{}{ziemia}
 {11901}{}{Ma³y kopczyk ziemi.}
@@ -260,13 +260,13 @@
 {13300}{}{œciana}
 {13400}{}{œciana}
 {13500}{}{studzienka œciekowa}
-{13501}{}{Z tego kolektora kanalizacyjnego wydobywa siê cuchn¹cy, obrzydliwy zapach. Po paru chwilach nie pachnie a¿ tak Ÿle.}
+{13501}{}{Strasznie tu œmierdzi - robi ci siê niedobrze, za kilka minut jednak uczucie obrzydzenia mija.}
 {13600}{}{studzienka œciekowa}
 {13601}{}{Z trudem wy³awiasz poruszenia po drugiej stronie kratki. Patrz¹ na ciebie ma³e, czerwone oczka. Szczurze oczka.}
 {13700}{}{studzienka œciekowa}
-{13701}{}{DŸwiêki bulgotania wody wydobywaj¹ siê z tego odp³ywu, przynosz¹c ze sob¹ naprawdê pod³y smród.}
+{13701}{}{Z tej studzienki wydobywa siê dŸwiêk p³yn¹cej wody. Oraz potworny sw¹d.}
 {13800}{}{studzienka œciekowa}
-{13801}{}{DŸwiêki bulgotania wody pochodz¹ z innego odp³ywu, przynosz¹c ze sob¹ naprawdê pod³y smród.}
+{13801}{}{Z tej studzienki wydobywa siê dŸwiêk p³yn¹cej wody. Oraz potworny sw¹d.}
 {13900}{}{drabina}
 {13901}{}{Stara, rachityczna drabina. Zapewne z trudem poradzi sobie z twoj¹ wag¹.}
 {14000}{}{klapa œciekowa}
@@ -309,9 +309,9 @@
 {15900}{}{monitor}
 {15901}{}{Monitor komputerowy, wykonany w technologii Bractwa.}
 {16000}{}{komputer}
-{16001}{}{Komputerowa baza danych. Coœ takiego nie mog³oby istnieæ bez technologii Bractwa.}
+{16001}{}{Komputerowa baza danych. Coœ takiego nie mog³o by istnieæ bez technologii Bractwa.}
 {16100}{}{komputer}
-{16101}{}{Komputerowa baza danych. Coœ takiego nie mog³oby istnieæ bez technologii Bractwa.}
+{16101}{}{Komputerowa baza danych. Coœ takiego nie mog³o by istnieæ bez technologii Bractwa.}
 {16200}{}{komputer}
 {16201}{}{Zaawansowany technicznie komputer zapisuj¹cy dane na nowoczesnych taœmach zamiast przestarza³ych kart wsadowych.}
 {16300}{}{komputer}
@@ -330,14 +330,14 @@
 {16901}{}{Kolumna podporowa.}
 {17000}{}{kolumna}
 {17001}{}{Kolumna podporowa.}
-{17100}{}{komputer dostêpowy drzwi}
-{17101}{}{Ten komputer steruje wrotami Krypty. Nale¿y wprowadziæ odpowiedni kod dostêpu ¿eby komputer zadzia³a³.}
+{17100}{}{komputer wejœciowy}
+{17101}{}{Ten komputer kontroluje g³ówne wrota Krypty. Nie bêdzie dzia³a³, jeœli nie wpiszesz odpowiedniego kodu dostêpu.}
 {17200}{}{szyld kasyna}
 {17201}{}{Reklama Kasyna Gizma.}
 {17300}{}{zewnêtrzne wrota Krypty 13}
-{17301}{}{Te ogromne wrota ³¹cz¹ Kryptê ze œwiatem zewnêtrznym.}
+{17301}{}{Te wielkie wrota stanowi¹ po³¹czenie Krypty ze œwiatem zewnêtrznym.}
 {17400}{}{zewnêtrzne wrota Krypty 13}
-{17401}{}{Te ogromne wrota ³¹cz¹ Kryptê ze œwiatem zewnêtrznym.}
+{17401}{}{Te wielkie wrota stanowi¹ po³¹czenie Krypty ze œwiatem zewnêtrznym.}
 {17500}{}{szyld kasyna}
 {17501}{}{Ta czêœæ reklamy sk³ada siê z elektrycznego silnika obracaj¹cego powoli neonowy znak.}
 {17600}{}{strza³ka w dó³}
@@ -348,21 +348,21 @@
 {18100}{}{dach windy}
 {18101}{}{Patrzysz na element konstrukcji windy.}
 {18200}{}{konsola komputerowa}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Terminal pod³¹czony do du¿ego komputera. Technologia Bractwa.}
 {18300}{}{konsola komputerowa}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Terminal pod³¹czony do du¿ego komputera. Technologia Bractwa.}
 {18400}{}{emblemat}
 {18401}{}{Symbol Bractwa Stali. Ko³a zêbate symbolizuj¹ wiedzê in¿ynieryjn¹ Bractwa, miecz - wolê samoobrony, a skrzyd³a - podnosz¹c¹ na duchu nadziejê.}
 {18500}{}{emblemat}
 {18501}{}{Symbol Bractwa Stali. Ko³a zêbate symbolizuj¹ wiedzê in¿ynieryjn¹ Bractwa, miecz - wolê samoobrony, a skrzyd³a - podnosz¹c¹ na duchu nadziejê.}
 {18600}{}{oznaczenie poziomu pierwszego}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Ten znak chyba ma na celu informowanie wszystkich, ¿e znajduj¹ siê na poziomie pierwszym kompleksu Bractwa.}
 {18700}{}{oznaczenie poziomu drugiego}
-{18701}{}{You are on level two.}
+{18701}{}{Jesteœ na drugim poziomie kompleksu Bractwa.}
 {18800}{}{oznaczenie poziomu trzeciego}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Ten znak z pewnoœci¹ oznacza, ¿e znajdujesz siê na poziomie trzecim kompleksu Bractwa.}
 {18900}{}{oznaczenie poziomu czwartego}
-{18901}{}{You must be on level four.}
+{18901}{}{Jesteœ na czwartym poziomie kompleksu Bractwa.}
 {19000}{}{koja}
 {19001}{}{Wojskowe ³ó¿ko. Wygl¹da na bardzo niewygodne, podobnie jak poœciel.}
 {19100}{}{koja}
@@ -383,28 +383,28 @@
 {19901}{}{Z tego miejsca wyg³asza siê mowy. Nie kojarzy ci siê jednak z przemyœlanymi wypowiedziami.}
 {20000}{}{³awa}
 {20001}{}{Ta ³awa wygl¹da dok³adnie tak, jak j¹ sobie zawsze wyobra¿a³eœ.}
-{20100}{}{drogowskaz}
+{20100}{}{znak}
 {20101}{}{Wygl¹da na nieco zardzewia³y.}
-{20200}{}{drogowskaz}
+{20200}{}{znak}
 {20201}{}{Wygl¹da na nieco zardzewia³y.}
-{20300}{}{drogowskaz}
+{20300}{}{znak}
 {20301}{}{Wygl¹da na nieco zardzewia³y.}
-{20400}{}{drogowskaz}
+{20400}{}{znak}
 {20401}{}{Wygl¹da na nieco zardzewia³y.}
-{20500}{}{drogowskaz}
+{20500}{}{znak}
 {20501}{}{Wygl¹da na nieco zardzewia³y.}
 {20600}{}{stary materac}
 {20601}{}{Stary, zniszczony materac. Chyba uda³oby siê w nim znaleŸæ trochê robactwa.}
 {20700}{}{stary materac}
 {20701}{}{Nawet jeœli po³o¿ysz siê na niego bez towarzystwa, to robactwo ci go z pewnoœci¹ dotrzyma.}
 {20800}{}{³ó¿ko}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{£ó¿ko domowej roboty. Poszczególne czêœci pochodz¹ z ró¿nych innych sprzêtów.}
 {20900}{}{³ó¿ko}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{£ó¿ko domowej roboty. Poszczególne czêœci pochodz¹ z ró¿nych innych sprzêtów.}
 {21000}{}{³ó¿ko}
 {21001}{}{To ³ó¿ko zdecydowanie ma najlepsze czasy za sob¹.}
 {21100}{}{³ó¿ko}
-{21101}{}{Po bli¿szych oglêdzinach, mo¿na okreœliæ, ¿e poœciel nie zosta³a zmieniona bardzo, bardzo d³ugo.}
+{21101}{}{Przypatrujesz siê bli¿ej temu ³ó¿ku i stwierdzasz, ¿e poœciel nie by³a zmieniana ju¿ od bardzo, bardzo dawna.}
 {21200}{}{³ó¿ko}
 {21201}{}{Ten s³u¿¹cy zwykle do spania sprzêt wyró¿nia siê kilkoma plamami w¹tpliwego pochodzenia.}
 {21300}{}{³ó¿ko}
@@ -434,15 +434,15 @@
 {22800}{}{samochód}
 {22801}{}{Nawet Adam S³odowy nie zrobi³by nic z t¹ kup¹ z³omu.}
 {22900}{}{krzes³o}
-{22901}{}{Wygodny fotel.}
+{22901}{}{Wygodne krzes³o.}
 {23000}{}{krzes³o}
-{23001}{}{Ten fotel chyba wygl¹da³ ju¿ lepiej.}
+{23001}{}{To krzes³o chyba wygl¹da³o ju¿ lepiej.}
 {23100}{}{krzes³o}
-{23101}{}{Ten fotel wygl¹da obrzydliwie i tak te¿ œmierdzi.}
+{23101}{}{To krzes³o wygl¹da obrzydliwie i tak te¿ œmierdzi.}
 {23200}{}{krzes³o}
-{23201}{}{Ten fotel ju¿ nied³ugo zakoñczy sw¹ walkê z czasem.}
+{23201}{}{To krzes³o ju¿ nied³ugo zakoñczy sw¹ walkê z czasem.}
 {23300}{}{krzes³o}
-{23301}{}{W tym fotelu móg³byœ usi¹œæ w drodze wyj¹tku tylko pod warunkiem, ¿e a) ktoœ ci za to zap³aci i b) móg³byœ wczeœniej za³o¿yæ stalowe porciêta.}
+{23301}{}{Na tym krzeœle móg³byœ usi¹œæ w drodze wyj¹tku tylko pod warunkiem, ¿e a) ktoœ ci za to zap³aci i b) móg³byœ wczeœniej za³o¿yæ stalowe porciêta.}
 {23400}{}{krzes³o}
 {23401}{}{Stare krzes³o biurowe - mimo up³ywu lat nadal w dobrym stanie.}
 {23500}{}{krzes³o}
@@ -474,15 +474,15 @@
 {25001}{}{Dzia³aj¹ca latarnia.}
 {25100}{}{brama}
 {25101}{}{Zamek tej bramy jest zablokowany tak, ¿e nie da siê go otworzyæ, a kraty sprawiaj¹ wra¿enie niezwykle solidnych.}
-{25200}{}{œmieci}
+{25200}{}{z³om}
 {25201}{}{Te œmieci z ca³¹ pewnoœci¹ do niczego siê nie nadaj¹.}
-{25300}{}{œmieci}
+{25300}{}{z³om}
 {25301}{}{Te œmieci z ca³¹ pewnoœci¹ do niczego siê nie nadaj¹.}
-{25400}{}{œmieci}
+{25400}{}{z³om}
 {25401}{}{Te œmieci z ca³¹ pewnoœci¹ do niczego siê nie nadaj¹.}
-{25500}{}{œmieci}
+{25500}{}{z³om}
 {25501}{}{Te œmieci z ca³¹ pewnoœci¹ do niczego siê nie nadaj¹.}
-{25600}{}{œmieci}
+{25600}{}{z³om}
 {25601}{}{Te œmieci z ca³¹ pewnoœci¹ do niczego siê nie nadaj¹.}
 {25700}{}{skrzynka na listy}
 {25701}{}{Ta skrzynka jest pusta i to prawdopodobnie od d³u¿szego czasu.}
@@ -526,9 +526,9 @@
 {27601}{}{Sterta starych kartonowych pude³.}
 {27700}{}{œmieci}
 {27701}{}{To coœ mog³o byæ materacem zanim nie zajê³o siê nim otoczenie.}
-{27800}{}{kamienie}
-{27900}{}{kamienie}
-{28000}{}{kamienie}
+{27800}{}{ska³y}
+{27900}{}{ska³y}
+{28000}{}{ska³y}
 {28100}{}{usypisko}
 {28101}{}{Ma³a sterta pot³uczonych kamieni i ska³. Patrz pod nogi!}
 {28200}{}{zlew}
@@ -563,9 +563,9 @@
 {29601}{}{Ta lampa oœwietla³aby ulice po zmroku, gdyby nie by³a ca³kowicie zniszczona.}
 {29700}{}{lampa uliczna}
 {29701}{}{Ta lampa oœwietla³aby ulice po zmroku, gdyby nie by³a ca³kowicie zniszczona.}
-{29800}{}{drogowskaz}
+{29800}{}{znak}
 {29801}{}{Ten znak powinien informowaæ przechodnia, na jakiej ulicy siê znajduje. Niestety, litery s¹ ju¿ ca³kowicie niewidoczne.}
-{29900}{}{drogowskaz}
+{29900}{}{znak}
 {29901}{}{Ten znak powinien informowaæ przechodnia, na jakiej ulicy siê znajduje. Niestety, litery s¹ ju¿ ca³kowicie niewidoczne.}
 {30000}{}{stó³}
 {30001}{}{Drewniany stó³ w solidnym stanie.}
@@ -581,13 +581,13 @@
 {30501}{}{To coœ wygl¹da na stary stolik na kawê, zaprojektowany specjalnie dla tych bardzo niskich mutantów.}
 {30600}{}{stó³}
 {30601}{}{To coœ wygl¹da na stary stolik na kawê, zaprojektowany specjalnie dla tych bardzo niskich mutantów.}
-{30700}{}{toaleta}
+{30700}{}{sedes}
 {30701}{}{Zaostrzone brzegi muszli sprawi³yby du¿o bólu komukolwiek, kto zdecydowa³by siê na niej usi¹œæ.}
-{30800}{}{toaleta}
+{30800}{}{sedes}
 {30801}{}{Ta muszla jest pêkniêta.}
-{30900}{}{toaleta}
+{30900}{}{sedes}
 {30901}{}{Fuj! Ktokolwiek korzysta³ z niego ostatni, nie spuœci³ po sobie wody!}
-{31000}{}{toaleta}
+{31000}{}{sedes}
 {31001}{}{Ta muszla jest pêkniêta. Z pewnoœci¹ nie bêdzie z niej mog³a korzystaæ ¿adna kobieta.}
 {31100}{}{œmieci}
 {31101}{}{Popêkane, na wpó³ zakopane w ziemi rury. Nic ciekawego. Olej to i idŸ dalej.}
@@ -625,8 +625,8 @@
 {32901}{}{To tylko pisuar. Nic ciekawego.}
 {33000}{}{pisuar}
 {33001}{}{To tylko pisuar. Nic ciekawego.}
-{33100}{}{zbiornik z wod¹}
-{33101}{}{Du¿y zbiornik na ciecze. W tym wypadku, wydaje ci siê, ¿e by³ u¿ywany do przechowywania wody.}
+{33100}{}{zbiornik na wodê}
+{33101}{}{Du¿y zbiornik do przechowywania p³ynów. W tym wypadku chyba wody.}
 {33200}{}{drzwi}
 {33201}{}{Drewniane drzwi. Nie ma siê nawet czemu przygl¹daæ.}
 {33300}{}{drzwi}
@@ -693,7 +693,7 @@
 {36400}{}{miska}
 {36401}{}{Starannie wykonana drewniana miska.}
 {36500}{}{dzban}
-{36501}{}{£adnie zrobiony dzban.}
+{36501}{}{Starannie wykonany dzban.}
 {36600}{}{roœlina}
 {36601}{}{To coœ wygl¹da na zmutowanego kabaczka. NajwyraŸniej s³u¿y mu ten upa³.}
 {36700}{}{roœlina}
@@ -714,12 +714,12 @@
 {37401}{}{Te grabie nale¿¹ do swojego w³aœciciela. Trudno ci nawet wymyœliæ dla nich jakieœ zastosowanie.}
 {37500}{}{grabie}
 {37501}{}{Te grabie nale¿¹ do swojego w³aœciciela. Trudno ci nawet wymyœliæ dla nich jakieœ zastosowanie.}
-{37600}{}{szmata}
-{37601}{}{Prosty zu¿yty dywan. Tkacz by³ oczywiœcie bardzo utalentowany.}
-{37700}{}{szmata}
-{37701}{}{Prosty zu¿yty dywan. Tkacz by³ oczywiœcie bardzo utalentowany.}
-{37800}{}{szmata}
-{37801}{}{Prosty zu¿yty dywan. Tkacz by³ oczywiœcie bardzo utalentowany.}
+{37600}{}{dywan}
+{37601}{}{Prosty dywan. Osoba, która go utka³a mia³a niew¹tpliwie spory talent.}
+{37700}{}{dywan}
+{37701}{}{Prosty dywan. Osoba, która go utka³a mia³a niew¹tpliwie spory talent.}
+{37800}{}{dywan}
+{37801}{}{Prosty dywan. Osoba, która go utka³a mia³a niew¹tpliwie spory talent.}
 {37900}{}{³opata}
 {37901}{}{Ta ³opata nale¿y do swojego w³aœciciela. Trudno ci nawet wymyœliæ dla niej jakieœ zastosowanie.}
 {38000}{}{³opata}
@@ -729,7 +729,7 @@
 {38200}{}{waza}
 {38201}{}{Bardzo ³adna gliniana waza.}
 {38300}{}{studnia}
-{38301}{}{Typowa studnia jak¹ mo¿na znaleŸæ na pustkowiach.}
+{38301}{}{Typowa na Pustkowiach studnia.}
 {38400}{}{s³upek}
 {38401}{}{Ten s³upek podtrzymuje jurtê.}
 {38500}{}{s³upek}
@@ -745,7 +745,7 @@
 {39000}{}{wrota Krypty}
 {39001}{}{Te wrota to ju¿ w tej chwili tylko ciê¿ki kawa³ z³omu.}
 {39100}{}{œciana}
-{39101}{}{Mechanizm otwieraj¹cy i zamykaj¹cy wrota Krypty zosta³ uszkodzony i nie da siê go naprawiæ.}
+{39101}{}{Mechanizm s³u¿¹cy do otwierania i zamykania drzwi zosta³ bezpowrotnie zniszczony.}
 {39200}{}{podpora}
 {39201}{}{Podpora wspieraj¹ca mur obronny.}
 {39300}{}{podpora}
@@ -762,7 +762,7 @@
 {39801}{}{DŸwiêk, jaki wydaj¹ po uderzeniu sugeruje, ¿e s¹ puste.}
 {39900}{}{metalowe beczki}
 {39901}{}{DŸwiêk, jaki wydaj¹ po uderzeniu sugeruje, ¿e s¹ puste.}
-{40000}{}{szyb wentylacji}
+{40000}{}{otwór wentylacyjny}
 {40001}{}{Otwór wentylacyjny jakiegoœ podziemnego kompleksu.}
 {40100}{}{skrzynia}
 {40101}{}{Drewniana skrzynia. Nie wygl¹da najgorzej!}
@@ -776,7 +776,7 @@
 {40501}{}{Proste biurko z komputerem.}
 {40600}{}{drzwi}
 {40601}{}{Drewniane drzwi w nienajgorszym stanie.}
-{40700}{}{jaskinia}
+{40700}{}{zawa³}
 {40701}{}{Du¿o ska³. Znacznie wiêcej, ni¿ mo¿na by odgarn¹æ.}
 {40800}{}{samochód}
 {40801}{}{Ten zanurzony pojazd nie nadaje siê do naprawy.}
@@ -792,7 +792,7 @@
 {41301}{}{Szeroki wybór ró¿nych bezu¿ytecznych przedmiotów.}
 {41400}{}{rury}
 {41401}{}{Te rury s³u¿y³y do pompowania paliwa z podziemnego zbiornika do warsztatu, jednak od d³u¿szego czasu nikt z nich nie korzysta³.}
-{41500}{}{rura}
+{41500}{}{rury}
 {41501}{}{Te rury s³u¿y³y do pompowania paliwa z podziemnego zbiornika do warsztatu, jednak od d³u¿szego czasu nikt z nich nie korzysta³.}
 {41600}{}{rury}
 {41601}{}{Te rury s³u¿y³y do pompowania paliwa z podziemnego zbiornika do warsztatu, jednak od d³u¿szego czasu nikt z nich nie korzysta³.}
@@ -813,21 +813,21 @@
 {42500}{}{skrzynia}
 {42600}{}{skrzynia}
 {42700}{}{skrzynia}
-{42800}{}{kamienie}
-{42801}{}{Sterta kamieni. Niezbyt interesuj¹ce.}
-{42900}{}{kamienie}
-{42901}{}{Sterta kamieni. Niezbyt interesuj¹ce.}
-{43000}{}{kamienie}
-{43001}{}{Ma³a sterta kamieni. Ani trochê ciê nie interesuj¹ca.}
-{43100}{}{kamienie}
+{42800}{}{ska³y}
+{42801}{}{Sterta kamieni. Nic ciekawego.}
+{42900}{}{ska³y}
+{42901}{}{Sterta kamieni. Nic ciekawego.}
+{43000}{}{ska³y}
+{43001}{}{Ma³a sterta kamieni. Nie interesuje ciê to nic a nic.}
+{43100}{}{ska³y}
 {43101}{}{Bardzo ma³a sterta kamieni.}
-{43200}{}{kamienie}
+{43200}{}{ska³y}
 {43201}{}{Bardzo ma³a sterta kamieni.}
-{43300}{}{kamienie}
+{43300}{}{ska³y}
 {43301}{}{Bardzo ma³a sterta kamieni.}
-{43400}{}{kamienie}
+{43400}{}{ska³y}
 {43401}{}{Bardzo ma³a sterta kamieni.}
-{43500}{}{kamienie}
+{43500}{}{ska³y}
 {43501}{}{Bardzo ma³a sterta kamieni.}
 {43600}{}{wrota Krypty}
 {43601}{}{Te wrota s¹ bardzo podobne do tych w Krypcie 13, ktoœ jednak wy³¹czy³ mechanizm ich zamykania.}
@@ -856,7 +856,7 @@
 {44801}{}{Zabezpieczone drzwi. Sprawiaj¹ wra¿enie potê¿nie opancerzonych.}
 {44900}{}{g³owica nuklearna}
 {45000}{}{studnia}
-{45001}{}{Typowa studnia jak¹ mo¿na znaleŸæ na pustkowiach.}
+{45001}{}{Typowa na Pustkowiach studnia.}
 {45100}{}{stó³ do gry w koœci}
 {45101}{}{Stó³ do hazardu.}
 {45200}{}{stó³ do gry w koœci}
@@ -915,7 +915,7 @@
 {48200}{}{drzwi}
 {48201}{}{Te drzwi na 100 kilometrów œmierdz¹ ci magazynem.}
 {48300}{}{wiatrowskaz}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Ten prosty wiatrowskaz pomaga mieszkañcom Cienistych Piasków badaæ pogodê.}
 {48400}{}{o³tarz}
 {48401}{}{Prosty o³tarz wykonany z malowanego drewna.}
 {48500}{}{mównica}
@@ -1023,9 +1023,9 @@
 {54300}{}{³aweczka}
 {54301}{}{Urz¹dzenie treningowe.}
 {54400}{}{drewniane deski}
-{54401}{}{Te solidne drewniane deski s¹ ze sob¹ mocno zwi¹zane.}
+{54401}{}{Mocne drewniane deski, niezwykle solidnie ze sob¹ po³¹czone.}
 {54500}{}{drewniane deski}
-{54501}{}{Te solidne drewniane deski s¹ ze sob¹ mocno zwi¹zane.}
+{54501}{}{Mocne drewniane deski, niezwykle solidnie ze sob¹ po³¹czone.}
 {54600}{}{stó³ do ruletki}
 {54601}{}{Stó³ do hazardu.}
 {54700}{}{stó³ do ruletki}
@@ -1044,12 +1044,12 @@
 {55301}{}{Komputer. Wygl¹da na bardzo nowoczesny.}
 {55400}{}{komputer}
 {55401}{}{Komputer. Wygl¹da na bardzo nowoczesny.}
-{55500}{}{zbiornik zawieszenia}
+{55500}{}{zbiornik}
 {55501}{}{Jakiœ aparat do eksperymentów medycznych. S¹dz¹c z rozmiarów, bez problemu zmieœci³oby siê do œrodka ludzkie lub nawet wiêksze cia³o.}
 {55600}{}{pêkniêty zbiornik}
 {55601}{}{Zepsute urz¹dzenie. Nie ma szans na jego naprawê.}
 {55700}{}{komputer centralny}
-{55701}{}{Ogromny superkomputer. Chyba najszybszy, jaki ci siê zdarzy³o widzieæ.}
+{55701}{}{Ogromny superkomputer. Chyba najszybszy, jaki w ¿yciu widzisz.}
 {55800}{}{platforma}
 {55801}{}{Ta platforma utrzymuje superkomputer ponad zbiornikami z p³ynem ch³odniczym.}
 {55900}{}{nie u¿ywaæ}
@@ -1064,7 +1064,7 @@
 {56401}{}{Wygl¹da na jakiœ kabel szeregowy.}
 {56500}{}{przewód}
 {56501}{}{Wygl¹da na jakiœ kabel szeregowy.}
-{56600}{}{znak}
+{56600}{}{tabliczka}
 {56601}{}{Napis sk³ada siê z trzech liter - B, A i R. Jego znaczenie jest chyba oczywiste.}
 {56700}{}{belka}
 {56701}{}{Ktoœ zamontowa³ tê mocn¹ belkê dok³adnie nad otworem krateru.}
@@ -1096,7 +1096,7 @@
 {58001}{}{Dobry widok zewnêtrznej czêœci Katedry.}
 {58100}{}{drzwi}
 {58101}{}{Te drzwi doskonale pasuj¹ do celi.}
-{58200}{}{znak}
+{58200}{}{tabliczka}
 {58201}{}{Czytasz, ¿e ten sklep nazywa siê 'U Killiana'.}
 {58300}{}{drabina}
 {58301}{}{Drabina prowadzi w dó³ mrocznej czeluœci.}
@@ -1126,13 +1126,13 @@
 {59501}{}{Metalowy stó³ pokryty jak¹œ biologiczn¹ tkank¹.}
 {59600}{}{tablica og³oszeñ}
 {59601}{}{Na tej tablicy wywieszane s¹ oferty pracy. Wygl¹da na czêsto u¿ywan¹.}
-{59700}{}{Shack}
-{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
-{59800}{}{znak}
-{59801}{}{Magazyn}
-{59900}{}{znak}
-{59901}{}{Magazyn}
-{60000}{}{znak}
+{59700}{}{domek stra¿y}
+{59701}{}{Mimo ponad stu lat istnienia domek ten nadal jest w znakomitym stanie.}
+{59800}{}{tabliczka}
+{59801}{}{SKLEP }
+{59900}{}{tabliczka}
+{59901}{}{SKLEP }
+{60000}{}{tabliczka}
 {60001}{}{RYNEK }
 {60100}{}{jeziorko œluzu}
 {60101}{}{To coœ nie wygl¹da zdrowo. Zanim do tego wejdziesz, lepiej za³ó¿ pancerne k¹pielówki.}
@@ -1164,11 +1164,11 @@
 {61401}{}{Poœwiêcasz chwilê swojemu odbiciu.}
 {61500}{}{zlew}
 {61501}{}{Dzia³aj¹cy zlew. Wyczyszczony na wysoki po³ysk.}
-{61600}{}{toaleta}
+{61600}{}{sedes}
 {61601}{}{Ta muszla jest bardzo czysta, a na dodatek dzia³a.}
 {61700}{}{pisuar}
 {61701}{}{Ten pisuar dzia³a.}
-{61800}{}{toaleta}
+{61800}{}{sedes}
 {61801}{}{Ta muszla z pewnoœci¹ przypad³aby do gustu fetyszyœcie toalet.}
 {61900}{}{zlew}
 {61901}{}{Ten zlew wydaje siê dzia³aæ bez zarzutu.}
@@ -1238,8 +1238,8 @@
 {65400}{}{rura}
 {65500}{}{rura}
 {65600}{}{generator}
-{65601}{}{Generator Wattz ElectroBox. Przed wojn¹ doœæ czêsto u¿ywany jako generator awaryjny.}
-{65700}{}{Czo³g}
+{65601}{}{Generator energii firmy Wattz. Szeroko wykorzystywany przed wojn¹.}
+{65700}{}{zbiornik}
 {65701}{}{Du¿y zbiornik na wodê. Ktoœ najwyraŸniej o niego dba - to chyba dobrze.}
 {65800}{}{skrzynka policyjna}
 {65801}{}{Brytyjska skrzynka policyjna, rocznik 1960.}
@@ -1299,24 +1299,24 @@
 {68501}{}{Przydatna kuchnia opalana drewnem.}
 {68600}{}{z³amana latarnia}
 {68700}{}{zniszczone wejœcie}
-{68800}{}{kamienie}
+{68800}{}{ska³y}
 {68801}{}{Du¿a formacja skalna. W ¿adnym wypadku nie powsta³a ona naturalnie.}
-{68900}{}{kamienie}
+{68900}{}{ska³y}
 {68901}{}{Du¿a formacja skalna. W ¿adnym wypadku nie powsta³a ona naturalnie.}
 {69000}{}{toaleta}
 {69001}{}{Prymitywna toaleta, kilka liœci wrzuconych do otworu ma na celu zwalczanie smrodu.}
-{69100}{}{Góra}
-{69101}{}{To zbocze góry wygl¹da na bardzo niedostêpne.}
-{69200}{}{Góra}
-{69201}{}{To zbocze góry wygl¹da na bardzo niedostêpne.}
-{69300}{}{Góra}
-{69301}{}{To zbocze góry wygl¹da na bardzo niedostêpne.}
-{69400}{}{Góra}
-{69401}{}{To zbocze góry wygl¹da na bardzo niedostêpne.}
-{69500}{}{Góra}
-{69501}{}{To zbocze góry wygl¹da na bardzo niedostêpne.}
-{69600}{}{Góra}
-{69601}{}{To zbocze góry wygl¹da na bardzo niedostêpne.}
+{69100}{}{góra}
+{69101}{}{Ta grañ wydaje siê byæ nie do przebycia.}
+{69200}{}{góra}
+{69201}{}{Ta grañ wydaje siê byæ nie do przebycia.}
+{69300}{}{góra}
+{69301}{}{Ta grañ wydaje siê byæ nie do przebycia.}
+{69400}{}{góra}
+{69401}{}{Ta grañ wydaje siê byæ nie do przebycia.}
+{69500}{}{góra}
+{69501}{}{Ta grañ wydaje siê byæ nie do przebycia.}
+{69600}{}{góra}
+{69601}{}{Ta grañ wydaje siê byæ nie do przebycia.}
 {69700}{}{œwiñstwo}
 {69701}{}{Widzisz jakieœ dziwne i z pewnoœci¹ szkodliwe biologiczne œwiñstwo.}
 {69800}{}{œwiñstwo}
@@ -1454,9 +1454,9 @@
 {76400}{}{monitory}
 {76401}{}{Nic nie widzisz - monitory s¹ dokumentnie zachlapane jakimœ œwiñstwem.}
 {76500}{}{pod³oga}
-{76501}{}{You would swear that there is something moving on the floor.}
+{76501}{}{Jeszcze przed chwil¹ wydawa³o ci siê, ¿e na pod³odze coœ siê poruszy³o.}
 {76600}{}{piedesta³}
-{76601}{}{The pedestal looks as if it were slowly breathing in and out.}
+{76601}{}{Piedesta³ wydaje siê powoli oddychaæ.}
 {76700}{}{pod³oga}
 {76800}{}{bomba}
 {76801}{}{To bomba atomowa. Nawet tylko le¿¹c w tym miejscu wygl¹da niebezpiecznie.}
@@ -1482,13 +1482,13 @@
 {77801}{}{To krzes³o nie wyró¿nia siê niczym wyj¹tkowym.}
 {77900}{}{krzes³o}
 {77901}{}{To krzes³o nie wyró¿nia siê niczym wyj¹tkowym.}
-{78000}{}{kolumna}
+{78000}{}{filar}
 {78001}{}{Kolumna podporowa.}
-{78100}{}{kolumna}
+{78100}{}{filar}
 {78101}{}{Kolumna podporowa.}
-{78200}{}{kolumna}
+{78200}{}{filar}
 {78201}{}{Kolumna podporowa.}
-{78300}{}{kolumna}
+{78300}{}{filar}
 {78301}{}{Kolumna podporowa.}
 {78400}{}{³ó¿ko}
 {78401}{}{£ó¿ko w op³akanym stanie.}
@@ -1506,13 +1506,13 @@
 {79001}{}{Te monitory s¹ potrzaskane i nie dzia³aj¹.}
 {79100}{}{monitory}
 {79101}{}{Te monitory s¹ potrzaskane i nie dzia³aj¹.}
-{79200}{}{wentylacja.}
+{79200}{}{otwór wentylacyjny}
 {79201}{}{Przepuszcza bardzo ma³o œwie¿ego powietrza.}
-{79300}{}{wentylacja.}
+{79300}{}{otwór wentylacyjny}
 {79301}{}{Prawie wcale nie przepuszcza œwie¿ego powietrza.}
-{79400}{}{wentylacja.}
+{79400}{}{otwór wentylacyjny}
 {79401}{}{Wcale nie przepuszcza œwie¿ego powietrza.}
-{79500}{}{wentylacja.}
+{79500}{}{otwór wentylacyjny}
 {79501}{}{Przepuszcza jedynie œladowe iloœci œwie¿ego powietrza.}
 {79600}{}{stó³}
 {79601}{}{Jedyn¹ godn¹ uwagi cech¹ tego sto³u jest fakt, ¿e zaraz siê rozpadnie.}
@@ -1544,11 +1544,11 @@
 {80901}{}{To krzes³o to ruina.}
 {81000}{}{krzes³o}
 {81001}{}{To krzes³o to ruina.}
-{81100}{}{wentylacja.}
+{81100}{}{otwór wentylacyjny}
 {81101}{}{Ten otwór wentylacyjny jest ca³kowicie bezu¿yteczny.}
-{81200}{}{wentylacja.}
+{81200}{}{otwór wentylacyjny}
 {81201}{}{Ten otwór wentylacyjny jest powa¿nie uszkodzony i nie da siê go naprawiæ.}
-{81300}{}{wentylacja.}
+{81300}{}{otwór wentylacyjny}
 {81301}{}{Ten otwór wentylacyjny nie spe³nia swojej funkcji.}
 {81400}{}{komputer}
 {81401}{}{Ten komputer chyba jeszcze dzia³a.}
@@ -1580,7 +1580,7 @@
 {82800}{}{lampka}
 {82801}{}{Lampka alarmowa.}
 {82900}{}{kolumna}
-{82901}{}{This pillar is the show piece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
+{82901}{}{Centrum g³ównego placu Cienistych Piasków. Na tej kolumnie wyryto wiele opowieœci o pokoju i nadziei.}
 {83000}{}{komora robotów}
 {83001}{}{Komora spoczynkowa robotów. Nieu¿ywane automaty uzupe³niaj¹ tu swoje zapasy energii.}
 {83100}{}{komora robotów}
@@ -1612,13 +1612,13 @@
 {84901}{}{Zwyk³e drewniane drzwi.}
 {85000}{}{drzwi}
 {85001}{}{Zwyk³e drewniane drzwi.}
-{85100}{}{znak}
+{85100}{}{tabliczka}
 {85101}{}{'Przyjazne Towarzystwo Po¿yczkowe'}
 {85200}{}{emblemat}
 {85201}{}{Emblemat religijny jakiegoœ rodzaju.}
 {85300}{}{stó³ medyczny}
 {85301}{}{To coœ wygl¹da na stó³ do sekcji.}
-{85400}{}{znak}
+{85400}{}{szyld}
 {85401}{}{Neonowy szyld Soko³a Maltañskiego.}
 {85500}{}{graffiti}
 {85600}{}{graffiti}
@@ -1634,23 +1634,23 @@
 {86600}{}{graffiti}
 {86700}{}{graffiti}
 {86800}{}{graffiti}
-{86900}{}{znak}
+{86900}{}{szyld}
 {86901}{}{BROÑ. Czy¿by sprzedawali tu broñ?}
-{87000}{}{znak}
+{87000}{}{tabliczka}
 {87001}{}{Napis g³osi: Policja.}
-{87100}{}{znak}
+{87100}{}{szyld}
 {87101}{}{'Wszêdobylscy Handlowcy'}
-{87200}{}{znak}
+{87200}{}{szyld}
 {87201}{}{'Zbrojeniowcy'}
-{87300}{}{znak}
+{87300}{}{szyld}
 {87301}{}{Oznaczenie firmy handlowej 'Karmazynowa Karawana'.}
-{87400}{}{znak}
+{87400}{}{tabliczka}
 {87401}{}{Znak okreœla ten budynek jako Szpital. To chyba przydatna budowla.}
-{87500}{}{znak}
+{87500}{}{szyld}
 {87501}{}{'Noclegownia'}
-{87600}{}{znak}
+{87600}{}{szyld}
 {87601}{}{Ten dziwny znak okreœla ten zak³ad jako 'Komis Samochodowy Boba'.}
-{87700}{}{znak}
+{87700}{}{szyld}
 {87701}{}{Znak Kupców Wodnych, kompanii handlowej.}
 {87800}{}{skorupki}
 {87801}{}{Kawa³ki po³amanych skorupek jaj.}
@@ -1670,26 +1670,26 @@
 {88501}{}{Kawa³ki po³amanych skorupek jaj.}
 {88600}{}{latarnia}
 {88601}{}{Latarnia. Wydaje siê pracowaæ bez zarzutu.}
-{88700}{}{znak}
+{88700}{}{szyld}
 {88701}{}{Napis g³osi: Motel.}
 {88800}{}{grzyby}
 {88801}{}{Tê donicê wype³niono z nieznanych przyczyn nawozem i teraz rosn¹ sobie w niej radoœnie grzyby.}
 {88900}{}{grzyby}
 {88901}{}{Tê donicê wype³niono z nieznanych przyczyn nawozem i teraz rosn¹ sobie w niej radoœnie grzyby.}
 {89000}{}{szkielet}
-{89100}{}{znak}
+{89100}{}{szyld}
 {89101}{}{Znak okreœla ten budynek jako Wiêzienie.}
-{89200}{}{znak}
+{89200}{}{szyld}
 {89201}{}{Szyld baru Skum Pitt.}
-{89300}{}{znak}
+{89300}{}{szyld}
 {89301}{}{Reklama ¿yletek marki Ostrza.}
 {89400}{}{prysznic}
 {89401}{}{Dosyæ typowa kabina prysznicowa.}
 {89500}{}{prysznic}
 {89501}{}{Dosyæ typowa kabina prysznicowa.}
-{89600}{}{znak}
+{89600}{}{szyld}
 {89601}{}{Znak Przyjaznego Towarzystwa Po¿yczkowego.}
-{89700}{}{znak}
+{89700}{}{szyld}
 {89701}{}{Znak Przyjaznego Towarzystwa Po¿yczkowego.}
 {89800}{}{plakat}
 {89801}{}{Plakat reklamuj¹cy przedwojenny horror.}
@@ -1700,7 +1700,7 @@
 {90100}{}{szyb windy}
 {90101}{}{Z góry szybu zwisa lina.}
 {90200}{}{szyb windy}
-{90201}{}{W szybie jest lina przewieszona przez krawêdŸ.}
+{90201}{}{Z brzegu szybu zwisa lina.}
 {90300}{}{³ó¿ko medyczne}
 {90301}{}{W to ³ó¿ko wbudowano ekran umo¿liwiaj¹cy monitorowanie stanu zdrowia pacjenta.}
 {90400}{}{pompa wodna}
@@ -1727,18 +1727,18 @@
 {92000}{}{lina}
 {92100}{}{lina}
 {92200}{}{lina}
-{92300}{}{Kanion}
-{92400}{}{Kanion}
-{92500}{}{Kanion}
-{92600}{}{Kanion}
-{92700}{}{Kanion}
-{92800}{}{Kanion}
-{92900}{}{Kanion}
-{93000}{}{Kanion}
+{92300}{}{kanion}
+{92400}{}{kanion}
+{92500}{}{kanion}
+{92600}{}{kanion}
+{92700}{}{kanion}
+{92800}{}{kanion}
+{92900}{}{kanion}
+{93000}{}{kanion}
 {93100}{}{pod³o¿e jaskini}
 {93200}{}{wrota nie do przejœcia}
 {93201}{}{Tych wrót chyba nie zaopatrzono w ¿aden mechanizm otwieraj¹cy.}
-{93300}{}{zniszczone drzwi}
+{93300}{}{zniszczone wrota}
 {93301}{}{Ktoœ wysadzi³ te wrota.}
 {93400}{}{drzwi}
 {93401}{}{Te drzwi zaopatrzono w skomplikowany zamek.}
@@ -1803,7 +1803,7 @@
 {97600}{}{zawalona pod³oga}
 {97601}{}{Fragment pod³ogi w tym miejscu zawali³ siê, ukazuj¹c ni¿szy poziom.}
 {97700}{}{drabina w dó³}
-{97701}{}{Sztuczny otwór z drabin¹ prowadz¹c¹ w dó³.}
+{97701}{}{Zrobiona przez cz³owieka dziura z prowadz¹c¹ w jej g³¹b drabin¹.}
 {97800}{}{drzwi}
 {97900}{}{œciana}
 {98000}{}{oznaczenie Reaktora 5}
@@ -1846,7 +1846,7 @@
 {100601}{}{Poch³aniacz Klasy Saturn reaktora.}
 {100700}{}{kontroler pompy elektrowni}
 {100701}{}{Uk³ad pompowania p³ynu ch³odniczego elektrowni.}
-{100800}{}{bok braminy}
+{100800}{}{bok bramina}
 {100900}{}{samochód}
 {101000}{}{samochód firmy Chrysalis Motors}
 {101001}{}{Ten wóz jest w ca³kiem niez³ym stanie jak na swoje lata.}
@@ -1862,9 +1862,9 @@
 {101600}{}{nagrobek}
 {101601}{}{nagrobek}
 {101700}{}{p³ug}
-{101701}{}{P³ug stworzony z myœl¹ o ci¹gniêciu przez braminê.}
+{101701}{}{P³ug stworzony z myœl¹ o ci¹gniêciu przez bramina.}
 {101800}{}{p³ug}
-{101801}{}{P³ug stworzony z myœl¹ o ci¹gniêciu przez braminê.}
+{101801}{}{P³ug stworzony z myœl¹ o ci¹gniêciu przez bramina.}
 {101900}{}{woda}
 {102000}{}{znak}
 {102001}{}{Oznaczenie pocz¹tku terytorium Nowego Reno.}
@@ -2000,8 +2000,8 @@
 {114500}{}{trumna}
 {114600}{}{stalowe sztaby}
 {114700}{}{stalowe sztaby}
-{114800}{}{Steel Window Cover}
-{114900}{}{Steel Window Cover}
+{114800}{}{stalowa okiennica}
+{114900}{}{stalowa okiennica}
 {115000}{}{laserowy potykacz}
 {115100}{}{laserowy potykacz}
 {115200}{}{wózek górniczy}
@@ -2027,19 +2027,19 @@
 {116900}{}{drzwi}
 {117000}{}{drzwi}
 {117100}{}{rury}
-{117101}{}{A set of pipes going into the reactor.}
-{117200}{}{Czo³g}
-{117300}{}{Dziêki.}
-{117400}{}{Dziêki.}
-{117500}{}{Dziêki.}
-{117600}{}{wentylacja.}
-{117700}{}{wentylacja.}
+{117101}{}{Zestaw rur wychodz¹cych z reaktora.}
+{117200}{}{zbiornik}
+{117300}{}{zbiorniki}
+{117400}{}{zbiorniki}
+{117500}{}{zbiorniki}
+{117600}{}{otwór wentylacyjny}
+{117700}{}{otwór wentylacyjny}
 {117800}{}{znak harfy}
 {117900}{}{kozio³ do drewna}
 {118000}{}{kozio³ do drewna}
 {118100}{}{kozio³ do drewna}
-{118200}{}{wentylacja.}
-{118300}{}{wentylacja.}
+{118200}{}{otwór wentylacyjny}
+{118300}{}{otwór wentylacyjny}
 {118400}{}{oznaczenie sklepu z maszynami}
 {118500}{}{tabliczka biura kierownika}
 {118600}{}{oznaczenie pokoju zaopatrzeniowego}
@@ -2047,7 +2047,7 @@
 {118800}{}{para}
 {118900}{}{maszyna}
 {118901}{}{Mniej wa¿ny element wyposa¿enia elektrowni.}
-{119000}{}{Czo³g}
+{119000}{}{zbiornik}
 {119100}{}{ogieñ}
 {119200}{}{woda}
 {119300}{}{oznaczenie Osady Traperów}
@@ -2097,7 +2097,7 @@
 {122601}{}{Ten pal jakby czeka³ na nieszczêsn¹ ofiarê.}
 {122700}{}{pal}
 {122701}{}{Ten pal jakby czeka³ na nieszczêsn¹ ofiarê.}
-{122800}{}{list goñczy}
+{122800}{}{plakat 'poszukiwany'}
 {122801}{}{Obrazek mu towarzysz¹cy w dziwny sposób przypomina ci twoj¹ w³asn¹ twarz!}
 {122900}{}{pod³oga}
 {123000}{}{wy³¹czony mózg robota}
@@ -2250,8 +2250,8 @@
 {136701}{}{To dziwne dzia³o wygl¹da na zabytek z przed wojny. Zastanawiasz siê, jak mog³o tu trafiæ.}
 {136800}{}{œwi¹tynia}
 {136900}{}{œwi¹tynia}
-{137000}{}{Góra}
-{137100}{}{Jaskinia}
+{137000}{}{góra}
+{137100}{}{jaskinia}
 {137200}{}{tor drzwi}
 {137300}{}{pochodnia}
 {137301}{}{Do œciany przyczepiono tu zapalon¹ pochodniê.}
@@ -2261,12 +2261,12 @@
 {137501}{}{Do œciany przyczepiono tu zapalon¹ pochodniê.}
 {137600}{}{pochodnia}
 {137601}{}{Do œciany przyczepiono tu zapalon¹ pochodniê.}
-{137700}{}{Latacz}
-{137701}{}{A large military aircraft.}
+{137700}{}{latacz}
+{137701}{}{D£UUUUUGI OPIS. I bardzo skomplikowany.}
 {137800}{}{zniszczone drzwi}
-{137801}{}{The power station door is destroyed.}
+{137801}{}{Drzwi do si³owni zosta³y zniszczone.}
 {137900}{}{zniszczone drzwi}
-{137901}{}{The power station door is destroyed.}
+{137901}{}{Drzwi do si³owni zosta³y zniszczone.}
 {138000}{}{œciana}
 {138100}{}{œciana}
 {138200}{}{œciana}
@@ -2390,8 +2390,8 @@
 {149700}{}{lampka œcienna}
 {149800}{}{œciana}
 {149900}{}{œciana}
-{150000}{}{wentylator}
-{150100}{}{wentylator}
+{150000}{}{wiatrak}
+{150100}{}{wiatrak}
 {150200}{}{gaœnica}
 {150300}{}{gaœnica}
 {150400}{}{rura}
@@ -2406,8 +2406,8 @@
 {151300}{}{œciana}
 {151400}{}{œciana}
 {151500}{}{œciana}
-{151600}{}{drewniane panele}
-{151700}{}{drewniane panele}
+{151600}{}{boazeria}
+{151700}{}{boazeria}
 {151800}{}{rura}
 {151900}{}{rura}
 {152000}{}{rura}
@@ -2419,8 +2419,8 @@
 {152600}{}{rura}
 {152700}{}{rura}
 {152800}{}{rura}
-{152900}{}{szyb wentylacji}
-{153000}{}{szyb wentylacji}
+{152900}{}{otwór wentylacyjny}
+{153000}{}{otwór wentylacyjny}
 {153100}{}{drzwi}
 {153200}{}{drzwi}
 {153300}{}{drzwi}
@@ -2441,7 +2441,7 @@
 {154800}{}{pole si³owe}
 {154900}{}{pole si³owe}
 {155000}{}{automat do usuwania organów}
-{155001}{}{Najnowszy przedstawiciel chirurgicznej serii 'Zrób to sam' firmy Krypt-Tech. Za jednym naciœniêciem guzika usuwa organy wewnêtrzne.}
+{155001}{}{Najnowszy przedstawiciel chirurgicznej serii 'Zrób to sam' firmy KrypTech. Za jednym naciœniêciem guzika usuwa organy wewnêtrzne.}
 {155100}{}{prom}
 {155200}{}{prom}
 {155300}{}{prom}
@@ -2468,8 +2468,8 @@
 {157400}{}{drzwi}
 {157500}{}{drzwi}
 {157600}{}{drzwi}
-{157700}{}{szyb wentylacji}
-{157800}{}{Auto-Doc}
+{157700}{}{otwór wentylacyjny}
+{157800}{}{lekarz automatyczny}
 {157801}{}{Lekarz automatyczny ma za zadanie leczenie chorób i wydawanie leków.}
 {157900}{}{pos¹g}
 {157901}{}{Ma³y pomnik s³ynnego Przybysza z Krypty.}
@@ -2482,21 +2482,21 @@
 {158301}{}{Dalsz¹ drogê zagradza ci pole si³owe.}
 {158400}{}{pole si³owe}
 {158401}{}{Dalsz¹ drogê zagradza ci pole si³owe.}
-{158500}{}{Tankowiec}
-{158600}{}{Tankowiec}
-{158700}{}{Tankowiec}
-{158800}{}{Tankowiec}
-{158900}{}{Tankowiec}
-{159000}{}{Tankowiec}
-{159100}{}{Tankowiec}
-{159200}{}{Tankowiec}
-{159300}{}{Tankowiec}
-{159400}{}{Tankowiec}
-{159500}{}{Tankowiec}
-{159600}{}{Tankowiec}
-{159700}{}{Tankowiec}
-{159800}{}{Tankowiec}
-{159900}{}{Tankowiec}
+{158500}{}{tankowiec}
+{158600}{}{tankowiec}
+{158700}{}{tankowiec}
+{158800}{}{tankowiec}
+{158900}{}{tankowiec}
+{159000}{}{tankowiec}
+{159100}{}{tankowiec}
+{159200}{}{tankowiec}
+{159300}{}{tankowiec}
+{159400}{}{tankowiec}
+{159500}{}{tankowiec}
+{159600}{}{tankowiec}
+{159700}{}{tankowiec}
+{159800}{}{tankowiec}
+{159900}{}{tankowiec}
 {160000}{}{œciana}
 {160100}{}{œciana}
 {160200}{}{zag³êbienie w pod³odze}
@@ -2587,29 +2587,29 @@
 {168500}{}{kopalniana winda}
 {168600}{}{kopalniana winda}
 {168700}{}{kopalniana winda}
-{168800}{}{Latacz}
-{168900}{}{Latacz}
-{169000}{}{Latacz}
-{169100}{}{Latacz}
-{169200}{}{Latacz}
+{168800}{}{latacz}
+{168900}{}{latacz}
+{169000}{}{latacz}
+{169100}{}{latacz}
+{169200}{}{latacz}
 {169300}{}{cieñ}
 {169400}{}{cieñ}
 {169500}{}{cieñ}
 {169600}{}{cieñ}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{rozbity latacz}
+{169800}{}{rozbity latacz}
+{169900}{}{rozbity latacz}
+{170000}{}{rozbity latacz}
+{170100}{}{rozbity latacz}
+{170200}{}{rozbity latacz}
 {170300}{}{cieñ}
 {170400}{}{cieñ}
 {170500}{}{cieñ}
-{170600}{}{Zniszczony most}
+{170600}{}{zniszczony most}
 {170601}{}{Widzisz resztki mostu Arroyo. Teraz nie ma ju¿ ¿adnego sposobu na dostanie siê do wioski.}
-{170700}{}{Zniszczony most}
+{170700}{}{zniszczony most}
 {170701}{}{Widzisz resztki mostu Arroyo. Teraz nie ma ju¿ ¿adnego sposobu na dostanie siê do wioski.}
-{170800}{}{Kanion}
+{170800}{}{kanion}
 {170900}{}{drzwi}
 {171000}{}{drzwi}
 {171100}{}{œciana}
@@ -2620,26 +2620,24 @@
 {171600}{}{œciana}
 {171700}{}{œciana}
 {171800}{}{œciana}
-{171900}{}{szyb wentylacji}
-{172000}{}{szyb wentylacji}
+{171900}{}{otwór wentylacyjny}
+{172000}{}{otwór wentylacyjny}
 {172100}{}{szk³o kuloodporne}
 {172200}{}{szk³o kuloodporne}
 {172300}{}{szk³o kuloodporne}
-{172400}{}{ciê¿ka wie¿a laserowa}
-{172401}{}{The turret rotates in a menacing way.}
-{172500}{}{ciê¿ka wie¿a laserowa}
-{172501}{}{The turret rotates in a menacing way.}
-{172600}{}{kamienie}
-{172700}{}{kamienie}
-{172800}{}{kamienie}
-{172900}{}{kamienie}
-{173000}{}{kamienie}
-{173100}{}{kamienie}
-{173200}{}{kamienie}
-{173300}{}{kamienie}
-{173400}{}{kamienie}
-{173500}{}{kamienie}
-{173600}{}{kamienie}
+{172400}{}{ciê¿ka wie¿yczka laserowa}
+{172500}{}{ciê¿ka wie¿yczka laserowa}
+{172600}{}{ska³y}
+{172700}{}{ska³y}
+{172800}{}{ska³y}
+{172900}{}{ska³y}
+{173000}{}{ska³y}
+{173100}{}{ska³y}
+{173200}{}{ska³y}
+{173300}{}{ska³y}
+{173400}{}{ska³y}
+{173500}{}{ska³y}
+{173600}{}{ska³y}
 {173700}{}{szyld kasyna Becky}
 {173800}{}{szyld Becky}
 {173900}{}{szyld kasyna 'Ostatni Dech'}
@@ -2649,12 +2647,12 @@
 {174300}{}{szyld Tubby'ego}
 {174400}{}{szyld Tubby'ego}
 {174500}{}{drzwi kopalnianej windy}
-{174600}{}{wentylator}
-{174700}{}{wentylator}
+{174600}{}{wiatrak}
+{174700}{}{wiatrak}
 {174800}{}{drzwi do gabinetu prezydenta}
 {174900}{}{tablica okulistyczna}
 {175000}{}{ruiny}
-{175100}{}{Stra¿nik Wiecznoœci}
+{175100}{}{Stró¿ Wiecznoœci}
 {175200}{}{szyld 'Nie dzia³a'}
 {175300}{}{zawalona pod³oga}
 {175400}{}{toaleta}
@@ -2715,10 +2713,10 @@
 {180100}{}{kawa³ wieloryba}
 {180101}{}{Kawa³ek wielorybiego cia³a!}
 {180200}{}{nogi bossa}
-{180300}{}{kamienie}
-{180400}{}{kamienie}
-{180500}{}{kamienie}
-{180600}{}{kamienie}
+{180300}{}{ska³y}
+{180400}{}{ska³y}
+{180500}{}{ska³y}
+{180600}{}{ska³y}
 {180700}{}{szyld garbarni}
 {180800}{}{szyld knajpy u Rose}
 {180900}{}{szyld Vortis Holding}
@@ -2751,10 +2749,10 @@
 {183500}{}{schody}
 {183600}{}{mapa œwiata}
 {183700}{}{mapa sytuacyjna}
-{183800}{}{stó³ pokoju planowania}
+{183800}{}{stó³ w pokoju planowania}
 {183900}{}{stó³ w pokoju rady}
 {184000}{}{stó³ w pokoju rady}
-{184100}{}{stó³ pokoju planowania}
+{184100}{}{stó³ w pokoju planowania}
 {184200}{}{drzewo}
 {184300}{}{drzewo}
 {184400}{}{rampa}

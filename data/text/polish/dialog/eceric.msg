@@ -1,4 +1,4 @@
-{100}{}{Widzisz mê¿czyznê.}
-{101}{}{To jest Eryk.}
-{102}{}{Stuka dwiema po³ówkami kokosa.}
+{100}{}{Mê¿czyzna.}
+{101}{}{Eryk.}
+{102}{}{Uderza dwiema po³ówkami orzecha kokosowego.}
 {103}{}{Klip! Klap!}

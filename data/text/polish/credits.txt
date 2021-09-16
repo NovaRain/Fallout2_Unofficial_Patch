@@ -1,0 +1,479 @@
+#PROGRAMOWANIE
+
+@G≥Ûwny programista
+Jesse Reynolds
+
+@Programiúci
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Dodatkowe programowanie
+Tim Cain
+John Price
+Michael Bernstein
+
+@Technologia filmowa
+Paul Edelstein
+
+@Instalator/Autoplay
+Darren Monahan
+
+
+#GRAFIKA
+
+@G≥Ûwni graficy
+Gary Platner
+Tramell Ray Isaac
+
+@Graficy
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Dodatkowe grafiki
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Grafiki wnÍtrz
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Oryginalna grafika gry
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#PROJEKT
+
+@G≥Ûwni projektanci
+Feargus Urquhart
+Matthew J. Norton
+
+@Projektanci
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Projektanci techniczni
+Scott Everts
+
+@Projekty poziomÛw
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Dodatkowe projekty
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Projekty/Dialogi
+Mark O'Green
+
+@Oryginalny projekt gry
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@Projekt systemu gry SPECIAL
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#PRODUKCJA
+
+@Dyrektor
+Feargus Urquhart
+
+@Producenci
+Eric Demilt
+Feargus Urquhart
+
+@ZastÍpcy producentÛw
+Fred Hatch
+Douglas Avery
+
+@ZastÍpca dyrektora
+Jeremy Barnes
+
+@Koordynatorzy synchronizacji ruchu ust
+Jason G. Suinn
+Dave Hendee
+
+@Synchronizacja ruchu ust
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#KONTROLA JAKOåCI
+
+@Kierownik kontroli jakoúci
+Chad Allison
+
+@Asystenci kontroli jakoúci
+Steve Victory
+Colin Totman
+
+@NadzÛr wersji PC
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@G≥Ûwni testerzy wersji PC
+Dennis Presnell
+Chad Nicholas
+Dave Simon
+
+@Testerzy wersji PC
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@KompatybilnoúÊ
+Frank Pimentel
+
+@G≥Ûwny technik
+Bill Delk
+
+@Technik
+Tom Quast
+
+@Administrator bazy danych - kompatybilnoúÊ
+Steve Cabiness
+
+@Technicy kompatybilnoúci
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#DèWI K
+
+@Reøyser düwiÍku
+Charles Deenen
+
+@Edycja düwiÍku
+Craig Duman
+
+@Kierownik nagraÒ
+Jamie Thomason
+
+@Koordynator nagraÒ
+Julie Morgavi
+
+@NadzÛr nad nagraniami
+Chris Borders
+
+@Edytorzy nagraÒ
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@NagraÒ g≥osÛw dokonano w Marc Graue Studio
+
+@Projekt düwiÍku
+Paul Menichini
+Tim Walston
+
+@Projekt düwiÍku
+David Farmer
+
+@Miksowanie
+Charles Deenen
+
+@Zmiksowane w systemie Dolby [TM] Surround w Interplay Audio
+
+@Administrator düwiÍku
+Gloria Soto
+
+@Dodatkowy projekt düwiÍku
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Inøynierowie nagraÒ
+Wes Smith
+Julian Cook
+of Marc Graue Studios
+
+@Muzyka
+Mark Morgan
+@for
+Four Bars Intertainment
+@oraz
+Rick Jackson
+
+@Producent nagraÒ
+Fred Hatch
+
+
+@G≥osÛw uøyczyli
+
+Charlie Adler
+@Harold
+
+Ron Perlman
+@Narrator
+
+Dwight Schultz
+@Hakunin
+
+Jason Marsden
+@Myron
+
+Cree Summer
+@Lynette
+
+Kevin Michael Richardson
+@Oficer Com
+
+Peter Jason
+@Sierøant od musztry
+
+Peter Jason
+@Straønik bramy
+
+Flo DiRe
+@Starszy
+
+Tress MacNeille
+@Tandi
+
+Greg Eagles
+@Sulik
+
+Michael Dorn
+@Marcus
+
+Michael Dorn
+@Frank Horrigan
+
+Jeffrey Jones
+@Prezydent
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Wykonanie: Louie Armstrong
+@Za zgodπ: GRP Records
+@Na licencji UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Napisane przez Berta Kalmera, Harry'ego Ruby'ego i Oscara Hammersteina II
+@(C) 1935, 1951 reedycja 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Prawa przypisane EMI CATALOGUE PARTNERSHIP
+@Wszelkie prawa kontrolowane i zarzπdzane przez EMI MILLER CATALOG INC.
+@Wszelkie prawa zastrzeøone. Chronione miÍdzynarodowym prawem autorskim.
+@Uøycie za zgodπ.
+
+
+@OSTRZEØENIE: Kopiowanie, powielanie lub reprodukowanie
+@tego Programu albo jakichkolwiek jego czÍúci bez pisemnej
+@zgody w≥aúciciela jest naruszeniem prawa autorskiego.
+
+
+#VIDEO
+
+@Us≥ugi Video
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#MARKETING
+
+@Kierownik marketingu
+Paul Sackman
+
+@Managerowie marketingu
+Mike Markin
+Greg Peterson
+
+@WspÛ≥praca
+Greg Bauman
+
+@PR Manager
+Krys Card
+
+@Managerowie handlowi
+Thom Dohner
+Paul Naftalis
+
+
+
+
+@PodziÍkowania dla:
+@(Dave H.) The Unwashed Villagers, the Dyer Family,
+@Jamba Juice, The Tick, Southpark;
+@(Chris A.) mojego "kumpla" Thuy Dang, Eileen Suh
+@oraz Mamy i Taty Avellone;
+@(T.Ray) mojej mamy, mojego taty, mojego syna
+@i mojego brata oraz dla wszystkich moich fanÛw
+@za kupienie tej gry;
+@(Rob H.) Becky Warner i Billiego Rydera;
+@(Matt N.) Meine DieMonika und der kater;
+@(Jesse R.) "Dla Taty, by≥eú dla mnie inspiracjπ
+@przez ca≥e øycie. Zawsze bÍdÍ za Tobπ tÍskni≥."
+
+@Specjalne podziÍkowania dla:
+@Cz≥onkÛw forÛw Fallout and Fallout 2.
+@DziÍkujemy za wasze komentarze, sugestie i inne ezoteria!
+@Pokoju Video firmy Interplay, za pracÍ ponad
+@i poza zewem @obowiπzku!
+
+@Fallout 2 zosta≥ dla was stworzony przez Interplay Productions,
+@Team Fallout 2, literkÍ Q oraz numerki 42 i 20.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Dobra, spoko, skoro naprawdÍ musicie...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Znaleüliúcie wszystkie spotkania losowe?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Szukajcie dalej...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@A moøe znajdziecie Soko≥a MaltaÒskiego?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Ha! Mi≥ej zabawy...

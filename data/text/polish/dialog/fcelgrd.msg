@@ -1,5 +1,5 @@
 {100}{}{Widzisz dobrze uzbrojonego stra¿nika.}
-{101}{}{You see an Hubologist guard.}
+{101}{}{Widzisz stra¿nika Centrologów.}
 {102}{}{Widzisz dobrze uzbrojon¹ osobê z okrutnym wyrazem oczu.}
 {103}{}{Intruz!}
 {104}{}{£apaæ intruza!}

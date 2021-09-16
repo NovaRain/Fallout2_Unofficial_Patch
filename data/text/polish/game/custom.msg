@@ -1,41 +1,69 @@
-{0}{}{Atak}
+#
+# Messages used in gdialog.c for custom NPC combat control.
+#
+{0}{}{Seria}
 {1}{}{Ucieczka}
-{2}{}{Broñ}
+{2}{}{Wybór broni}
 {3}{}{Dystans}
-{4}{}{Cel Ataku}
-{5}{}{Drug Use}
-{10}{}{GOTOWE}
+{4}{}{Kogo atakowaæ}
+{5}{}{U¿ycie chemikaliów}
+
+{10}{}{Gotowe}
 {11}{}{Anuluj}
-{99}{}{Nie dotyczy}
+
+#
+# Burst options.
+#
+{99}{}{Nie da siê.}
 {100}{}{Zawsze!}
-{101}{}{Czasem nie martw siê, ¿e mnie zranisz}
-{102}{}{Miej pewnoœæ, ¿e mnie nie zranisz}
-{103}{}{Staraj siê mnie nie zraniæ}
-{104}{}{Miej absolutn¹ pewnoœæ, ¿e mnie nie zranisz}
-{200}{}{Nikczemny Tchórz}
+{101}{}{Czasami, nie martw siê, ¿e mnie zranisz}
+{102}{}{Upewnij siê, ¿e mnie nie zranisz}
+{103}{}{Postaraj siê mnie nie zraniæ}
+{104}{}{B¹dŸ absolutnie pewny, ¿e mnie nie zranisz}
+
+#
+# Run away options.
+#
+{200}{}{Nêdzny tchórz}
 {201}{}{Boli ciê palec}
 {202}{}{Lekko krwawisz}
 {203}{}{Nie czujesz siê za dobrze}
-{204}{}{Potrzebujesz lekarza}
+{204}{}{Potrzebujesz opatrunku}
 {205}{}{Nigdy!}
+
+#
+# Weapon pref options.
+#
 {300}{}{Brak}
 {301}{}{Bia³a}
-{302}{}{Bia³a potem Dystansowa}
-{303}{}{Dystansowa potem Bia³a}
+{302}{}{Bia³a, potem dystansowa}
+{303}{}{Dystansowa, potem bia³a}
 {304}{}{Dystansowa}
 {305}{}{Bez broni}
-{400}{}{Trzymaj siê blisko mnie}
-{401}{}{Atakuj!}
-{402}{}{Trzymaj dystans}
-{403}{}{Stój gdzie chcesz}
-{404}{}{Stój gdzie stoisz}
-{500}{}{Whoever is attacking me}
+
+#
+# Distance options.
+#
+{400}{}{Zostañ blisko mnie}
+{401}{}{Atak!}
+{402}{}{Celuj do wroga}
+{403}{}{Wybierz samodzielnie}
+{404}{}{Zostañ tam, gdzie jesteœ}
+
+#
+# Attack who options.
+#
+{500}{}{Ka¿dego, kto mnie atakuje}
 {501}{}{Najsilniejszego}
 {502}{}{Najs³abszego}
 {503}{}{Kogokolwiek chcesz}
-{504}{}{Whoever is closest}
+{504}{}{Najbli¿szego}
+
+#
+# Chem use options.
+#
 {600}{}{Jestem czysty}
-{601}{}{Stimpaki, gdy trochê boli}
-{602}{}{Stimpaki, gdy bardzo boli}
-{603}{}{Cokolwiek chcesz, raz na jakiœ czas}
-{604}{}{Cokolwiek chcesz, kiedy tylko mo¿esz}
+{601}{}{Stimpaki przy niewielkich obra¿eniach}
+{602}{}{Stimpaki przy powa¿nych obra¿eniach}
+{603}{}{Dowolna substancja raz na jakiœ czas}
+{604}{}{Dowolna substancja w dowolnej chwili}

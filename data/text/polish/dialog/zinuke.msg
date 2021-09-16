@@ -1,5 +1,5 @@
-{100}{}{Widzisz automat Nuka-Coli. Zastanawiasz siê, czy wci¹¿ dzia³a.}
-{101}{}{[bum bum cza-czing... zziuuu]}
+{100}{}{Widzisz automat z Nuka-Col¹. Zastanawiasz siê, czy wci¹¿ dzia³a.}
+{101}{}{[bum bum miêdlenie... zziuuu]}
 {102}{}{Dostajesz nie tak bardzo œwie¿¹ butelkê Nuka-Coli.}
 {103}{}{Uuuuuoj!}
 {104}{}{Uchylasz siê przed puszk¹ Nuka-Coli.}

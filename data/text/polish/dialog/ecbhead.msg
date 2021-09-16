@@ -1,5 +1,5 @@
 {100}{}{Dostrzegasz wielk¹, wykut¹ z kamienia g³owê, która, hmm... mamrocze do siebie?}
-{101}{}{Widzisz wykut¹ z kamienia podobiznê g³owy Mieszkañca Krypty. Jej twórca wyraŸnie schlebia³ orygina³owi, poniewa¿ w¹tpisz, aby g³owa Mieszkañca Krypty by³a a¿ tak wielka.}
+{101}{}{Widzisz wykut¹ z kamienia podobiznê g³owy Przybysza z Krypty. Jej twórca wyraŸnie schlebia³ orygina³owi, poniewa¿ w¹tpisz, aby g³owa Przybysza z Krypty by³a a¿ tak wielka.}
 {102}{}{Widzisz wielki kamienny pos¹g.}
 {103}{}{Widzisz wykut¹ z kamienia podobiznê g³owy Mieszkañca Krypty. Jej twórca wyraŸnie schlebia³ orygina³owi, poniewa¿ w¹tpisz, aby g³owa Mieszkañca Krypty by³a a¿ tak wielka.}
 {104}{}{Cholerni turyœci...}
@@ -32,15 +32,15 @@
 {131}{}{*TY* ?! DZIECKIEM PRZEZNACZENIA ?!}
 {132}{}{MÓJ MA£Y PALEC JEST WIÊKSZY OD CIEBIE!}
 {133}{}{NIE JESTEŒ DZIECKIEM PRZEZNACZENIA.}
-{134}{}{Jestem.}
+{134}{}{Ale¿ jestem.}
 {135}{}{NIE, NIE JESTEŒ.}
 {136}{}{Jestem.}
-{137}{}{UHU.}
-{138}{}{Uhuh.}
+{137}{}{AHA.}
+{138}{}{Aha.}
 {139}{}{UHU.}
-{140}{}{Uhuh.}
+{140}{}{Uhu.}
 {141}{}{AHAAAA}
-{142}{}{Uh...huh...}
+{142}{}{Ech... Uch...}
 {143}{}{UCH... DOSYÆ TEGO!}
 {144}{}{NO DOBRZE! MASZ RACJÊ!}
 {145}{}{JESTEŒ DZIECKIEM PRZEZNACZENIA!}
@@ -55,11 +55,5 @@
 {154}{}{CO?! OKRAŒÆ MNIE CHCIA£EŒ?!}
 {155}{}{GIÑ!}
 {156}{}{Gracz ginie anihilowany wybuchem plazmy.}
-{200}{}{[12 godzin póŸniej]}
-{1129}{}{Ja Dziecko Przeznacznia.}
-{1134}{}{Ja tu te¿.}
-{1136}{}{Ja te¿!}
-{1138}{}{Uhuh.}
-{1140}{}{Uhuh.}
-{1142}{}{Uh...huh...}
-{1148}{}{Cysterna!}
+
+{200}{}{(12 godzin póŸniej)}

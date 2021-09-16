@@ -15,6 +15,6 @@
 {114}{}{Homo.}
 {115}{}{Peda³.}
 {116}{}{Ciota.}
-{117}{}{Lesbijka.}
-{118}{}{Lezba.}
+{117}{}{Lezba.}
+{118}{}{Homo.}
 {119}{}{To chyba jest }

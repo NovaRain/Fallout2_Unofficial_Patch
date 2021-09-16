@@ -58,7 +58,7 @@
 {157}{}{Tak? Ten Marion jest ca³kiem przystojny. Dobra, dla niego damy spokój tym pedziom na jakiœ czas.}
 {158}{}{Dziêki. Cieszê siê, ¿e te¿ tak to widzisz. Do widzenia.}
 {159}{}{Nie myœl, ¿e jesteœ jakimœ zajebistym kowbojem. Nie podoba mi siê takie kurewskie podejœcie.}
-{160}{}{Nie musi ci siê podobaæ. Pójdziesz ze mn¹ do paki, albo zaci¹gnê tam twoje zw³oki. Twój wybór.}
+{160}{}{Nie musi siê podobaæ. Pójdziesz ze mn¹ do paki, albo zaci¹gnê tam twoje zw³oki. Twój wybór.}
 {161}{}{Przepraszam za moj¹ niegrzecznoœæ. Ju¿ sobie idê. Do widzenia.}
 {162}{}{Tak? Dobra, zrobimy tak: pójdê, jeœli zapuszkujesz te¿ tego dupka Caminetto.}
 {163}{}{To ju¿ nie twoja decyzja.}
@@ -76,8 +76,6 @@
 {175}{}{Chyba masz trochê bystrzejszy umys³ ni¿ na to wygl¹da. Ale w koñcu musisz mieæ, bo stoisz na nogach. Po prostu biegnij do mamusi i powiedz, ¿e nic nie da³o siê zrobiæ.}
 {176}{}{Dobra. Mam doœæ twojego gadania. Ostatnia szansa: chodŸ ze mn¹, albo rozerwê ciê na kawa³ki.}
 {177}{}{Tak te¿ zrobiê. W koñcu nie chcê nikogo krzywdziæ. Do widzenia.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{178}{}{Widze, do czego to zmierza. Okej, mo¿esz aresztowaæ i mnie i Caminetto. [do Caminetta] Prawda, mój ty ma³y pierdolcu?}
 {179}{}{No, tak ju¿ lepiej.}
 {180}{}{Teraz nigdzie ju¿ nie pójdziecie... Zaraz zacznie siê niez³a jatka... }
-{181}{}{Przypuszczam, ¿e skopiê dupê Cominetto kiedy indziej.}

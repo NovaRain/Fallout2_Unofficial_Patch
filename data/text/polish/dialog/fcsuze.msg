@@ -8,13 +8,13 @@
 {107}{}{Powstrzymaj je! Aaaaa!}
 {108}{}{Czy to Borsuk ciê przys³a³? Wiedzia³am, ¿e tak zrobi. Kamieñ spad³ mi z serca.}
 {109}{}{Aaggg.}
-{110}{}{Co tam robi³aœ na dole?}
+{110}{}{Co tu robi³aœ?}
 {111}{}{Ta. IdŸ za mn¹.}
-{112}{}{Och, moje ty biedne. Radiacja i pustkowia nie s¹ mi³e, prawda? Mam nadziejê, ¿e ktoœ bêdzie móg³ ci pomóc.}
+{112}{}{Och, moje ty biedne. Radiacja i pustkowia nie s¹ mi³e, prawda? Mam nadziejê, ¿e ktoœ bêdzie ci w stanie pomóc.}
 {113}{}{Wiesz, to trochê g³upie. Zwiedza³am sobie, bo Borsuk by³ zajêty komputerem. Posz³am na dó³, zgubi³am siê, a zaraz potem otoczy³y mnie potwory. Dobrze, ¿e tu jesteœ.}
 {114}{}{Mam wiêcej pytañ.}
 {115}{}{Tak, to prawda. Znalaz³aœ coœ ciekawego?}
-{116}{}{Tak masz racjê. ChodŸmy.}
+{116}{}{Masz racjê. ChodŸmy.}
 {117}{}{Znalaz³am pokój, w którym by³am. No i ten pokój, który wygl¹da³ mi na pomieszczenie paliwowe. Nie dotar³am du¿o dalej, z powodu potworów.}
 {118}{}{Mam wiêcej pytañ.}
 {119}{}{Sk¹d jesteœ?}
@@ -33,5 +33,5 @@
 {132}{}{Sk¹d jesteœ?}
 {133}{}{Jak pozna³aœ Borsuka?}
 {134}{}{Na razie nie mam ¿adnych. Na razie.}
-{135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
+{135}{}{O Bo¿e... Borsuk nie ¿yje... nie wiem, co robiæ... nie mam tu przyjació³... ca³a moja rodzina nie ¿yje... o Bo¿e...}
 {136}{}{Dziêki za ca³¹ okazan¹ pomoc. Idê poszukaæ Borsuka.}

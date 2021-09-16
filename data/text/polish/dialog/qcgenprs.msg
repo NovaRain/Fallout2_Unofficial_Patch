@@ -1,10 +1,10 @@
-{100}{}{Widzisz osowia³¹ osobê w kombinezonie Krypty.}
+{100}{}{Widzisz osowia³¹ osobê w kombinezonie krypty.}
 {101}{}{Widzisz wiêznia z Krypty 13.}
-{102}{}{Widzisz bardzo blad¹ osobê nasz¹c¹ kombinezon Krypty.}
+{102}{}{Widzisz bardzo blad¹ osobê nasz¹c¹ kombinezon krypty.}
 {103}{}{Widzisz cz³onka twojego plemienia.}
 {104}{}{Widzisz wspó³plemieñca.}
 {105}{}{Widzisz cz³onka twojego plemienia, który nie wygl¹da zbyt dobrze.}
-{106}{}{To miejsce jest zbyt zardzewia³e, aby byæ Krypt¹.}
+{106}{}{To miejsce jest zbyt zardzewia³e, aby byæ krypt¹.}
 {107}{}{Chyba s³yszê ocean. }
 {108}{}{Czy Martin Frobisher rozmawia³ z tob¹?}
 {109}{}{Porozmawiaj lepiej z Martinem.}
@@ -15,15 +15,15 @@
 {114}{}{Œwietnie, teraz strasz¹ nas jakimiœ dziwnymi dzikusami.}
 {115}{}{Uda³o ci siê uciec?}
 {116}{}{Jak ci siê uda³o wydostaæ?}
-{117}{}{Brzmisz jak Dziecko Przeznaczenia.}
+{117}{}{Wygl¹dasz na Dziecko Przeznaczenia.}
 {118}{}{Czy jesteœ... czy jesteœ Dzieckiem Przeznaczenia?}
 {119}{}{Porozmawiaj lepiej ze Starsz¹.}
 {120}{}{Starsza powiedzia³a, ¿e nas uratujesz!}
-{121}{}{Czy Starsza rozmawia³a ju¿ z tob¹?}
+{121}{}{Czy Starsza ju¿ rozmawia³a z tob¹?}
 {122}{}{Starsza jest w pierwszej celi. Porozmawiaj z ni¹.}
 {123}{}{Porozmawiaj ze Starsz¹.}
-{124}{}{Uwolnijcie nas!}
-{125}{}{Wydostañ nas st¹d.}
+{124}{}{Uwolnij nas!}
+{125}{}{Uciekaj st¹d.}
 {126}{}{Nie mogê ju¿ wytrzymaæ tych œcian dooko³a.}
 {127}{}{Po prostu wyjê, aby poczuæ znowu wiatr na twarzy.}
 {128}{}{Uwolnij nas, Dziecko Przeznaczenia!}
@@ -42,14 +42,14 @@
 {141}{}{Odetnij zasilanie!}
 {142}{}{Uwolnij nas.}
 {143}{}{IdŸ, zabierz nas st¹d!}
-{144}{}{Proszê, pomó¿ nam!}
+{144}{}{Pomó¿ nam!}
 {145}{}{Jesteœ nasz¹ jedyn¹ nadziej¹!}
 {146}{}{Proszê, ju¿ d³u¿ej tego nie wytrzymam.}
 {147}{}{Nie chcê ju¿ wiêcej leków. Nie, nie. Nieeeeeeee!}
-{148}{}{Niech nas duchy broni¹!}
+{148}{}{Niech na duchy broni¹!}
 {149}{}{Gdzie¿ s¹ duchy, gdy ich potrzebujesz?}
-{150}{}{Pomó¿cie nam!}
-{151}{}{Uwolnijcie nas!}
+{150}{}{Pomó¿ nam!}
+{151}{}{Uwolnij nas!}
 {152}{}{Chcê do domu.}
 {153}{}{Najpierw susza, a teraz to.}
 {154}{}{Tylko nie ig³y, nie ig³y!}
@@ -60,8 +60,8 @@
 {159}{}{Jak obraziliœmy te z³e duchy?}
 {160}{}{Nie dbam o to bardzo.}
 {161}{}{Gdzie jest Martin?}
-{162}{}{To mimo wszystko nie jest Krypta.}
-{163}{}{Zabierz nas st¹d!}
+{162}{}{To mimo wszystko nie jest krypta.}
+{163}{}{Wydostañ nas st¹d!}
 {164}{}{Halo? Halo!}
 {165}{}{Nalegam na moje uwolnienie.}
 {166}{}{Jestem obywatelem Stanów Zjednoczonych i ¿¹dam widzenia siê z tym, kto tu dowodzi.}

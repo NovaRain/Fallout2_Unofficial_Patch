@@ -19,9 +19,9 @@
 {118}{}{Pragnê spotkaæ siê ze Starym Carlsonem. Znasz kogoœ, kto móg³by mi pomóc?}
 {119}{}{Czy masz GECK?}
 {120}{}{To mi³e z twojej strony, ale ja nie jestem organizacj¹ charytatywn¹.}
-{121}{}{Mo¿e. Móg³bym mieæ celownik Triveld x10 - akurat pasowa³by do karabinu myœliwskiego, gdyby znalaz³ siê ktoœ zainteresowany. Puszczê go tanio - 500$.}
+{121}{}{Mo¿e. Móg³bym mieæ celownik Triveld x10 - akurat pasowa³by do karabinu myœliwskiego, gdyby znalaz³ siê ktoœ zainteresowany. Puszczê go tanio - $500.}
 {122}{}{Hej, nic mi ju¿ nie zosta³o.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Dobra, umowa stoi.}
 {124}{}{Nie, dziêki.}
 {125}{}{Republika Nowej Kalifornii - oto czym jest. Prezydent Tandi i jej zgraja mówi¹, ¿e próbuj¹ przywróciæ dawne dni. Ja myœlê, ¿e oni tylko próbuj¹ zgarn¹æ, co siê da. Cholera, nie mam na co narzekaæ - dawne dni by³y d³ugo przed moimi czasami. Ale i tak strasznie z nich pruderyjna banda - nie lubi¹ niewolnictwa, hazardu, niczego. To dlatego siedzê tu, na zewn¹trz. Nie lubiê zasad - nigdy nie lubi³em.}
 {126}{}{Rozumiem.}
@@ -29,7 +29,7 @@
 {128}{}{Nie zadzieram z panem Merkiem i nie zawracam sobie g³owy plotkami o nim. Jeœli masz jakieœ pytania, zapytaj o niego w Rawhide.}
 {129}{}{Rozumiem.}
 {130}{}{Do widzenia.}
-{131}{}{Frank Westin? Masz na myœli tego goœcia z Kongresu? Usadzi³ siê na zachód od miasta. To cz³owiek od bramin - du¿a szycha w Stowarzyszeniu Chodowców Byd³a. Jeœli szukasz pracy, to on zawsze kogoœ szuka.}
+{131}{}{Frank Westin? Masz na myœli tego goœcia z Kongresu? Usadzi³ siê na zachód od miasta. To cz³owiek od braminów - du¿a szycha w Stowarzyszeniu Chodowców Byd³a. Jeœli szukasz pracy, to on zawsze kogoœ szuka.}
 {132}{}{Rozumiem.}
 {133}{}{Do widzenia.}
 {134}{}{Ciekawe, ¿e pytasz o to po tym, co siê przytrafi³o Frankowi Westinowi. Nie ¿ebym coœ wiedzia³, ale jest taki facet w Rawhide - Merk - mo¿e on by³by w stanie ci pomóc.}

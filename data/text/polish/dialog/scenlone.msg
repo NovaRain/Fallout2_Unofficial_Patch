@@ -5,7 +5,7 @@
 {104}{}{[œlinotok]}
 {105}{}{Jasne, czemu nie?}
 {106}{}{Có¿, jestem Dzieckiem Przeznaczenia.}
-{107}{}{Um, naprawdê nie wiem, o czym ty mówisz.}
+{107}{}{Ee, naprawdê nie wiem, o czym mówisz.}
 {108}{}{A wiêc to ty jesteœ tym wrzodem na ty³ku Merka!}
 {109}{}{Tak.}
 {110}{}{Nie.}
@@ -14,9 +14,9 @@
 {113}{}{Gee.}
 {114}{}{Ktoœ nie ma.}
 {115}{}{Ojej, Poziom Pierwszy. Wci¹¿ uwiêziony w swoim prymitywnym stanie. Mo¿e pomo¿e ci uszeregowanie zeta-skanem. Chcesz tego?}
-{116}{}{Zej-ta!}
-{117}{}{Ne!}
-{118}{}{Proszê, nie szydŸ z Koœcio³a Centrologicznego. To w³aœnie tacy jak ty s¹ utrapieniem dla reszty z nas. Ojej. Ca³a jestem teraz roztrzêsiona!}
+{116}{}{Zeta-d¿ons ta!}
+{117}{}{Nie!}
+{118}{}{Proszê, nie nachodŸ Koœcio³a Centrologicznego. To w³aœnie tacy jak ty s¹ utrapieniem dla reszty z nas. Ojej. Ca³a jestem teraz roztrzêsiona!}
 {119}{}{Dziecko Przeznaczenia? Chyba masz na myœli Dziecko Centrum? Tak w³aœciwie to z jakiego tekstu korzystasz?}
 {120}{}{To proste. Jestem Dzieckiem Przeznaczenia, poniewa¿ tak musi byæ.}
 {121}{}{Dziecko Centrum?}
@@ -27,17 +27,17 @@
 {126}{}{Nie, szukam GECKa.}
 {127}{}{Pomóc? Jak?}
 {128}{}{Wyrzutnia rakiet daje mi ca³y spokój duchowy, jakiego potrzebujê, paniusiu.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Prawdziwie zrozum" to (poka¿ jej œrodkowy palec)}
 {130}{}{Merk? Czego on chce?}
 {131}{}{To proste. Chcê twojej œmierci. Powiedz pa pa.}
-{132}{}{Nie wiem, co zrobi³aœ, ale mam na pani¹ zlecenie. Dobranoc.}
+{132}{}{Nie wiem, co zrobi³aœ, ale mam na ciebie kontrakt od niego.}
 {133}{}{Wspaniale, bracie. Jaki masz poziom?}
 {134}{}{Moje pytanie by³o pierwsze.}
 {135}{}{Jaki masz poziom?}
 {136}{}{Och. A wiêc nie mo¿esz zobaczyæ mojej aury. Przepraszam.}
 {137}{}{Och. A wiêc nie mo¿esz zobaczyæ mojej aury. Przepraszam.}
-{138}{}{}
-{139}{}{Ale¿ oczywiœcie, ¿e nale¿ê do Oœwieconych.}
+{138}{}{ }
+{139}{}{Ale¿ oczywiœcie, ¿e nale¿ê do oœwieconych.}
 {140}{}{Eee... czy to nie jest naprawdê nieuprzejmie rozmawiaæ o poziomach?}
 {141}{}{Naprawdê! Nie wiem, czego oni oczekuj¹, ¿e osi¹gnê otoczona takim miêchem!}
 {142}{}{Ach, co za entuzjazm. ChodŸ ze mn¹.}
@@ -70,17 +70,19 @@
 {169}{}{Szeregowanie raz, poproszê.}
 {170}{}{Potrzebujê informacji. Krypta 13 - co o niej wiesz?}
 {171}{}{Jak leci?}
-{172}{}{Zapomnij o tym. Bez urazy. To wszystko.}
-{173}{}{}
-{174}{}{Nareszcie!}
-{175}{}{}
+{172}{}{Zapomnij o tym, bez urazy. To wszystko.}
+{173}{}{ }
+{174}{}{Tak!}
+{175}{}{ }
+
+
 {176}{}{Oœwieconych? Zaprawdê, jak niby mam tutaj g³osiæ s³owo, je¿eli nawet nie informuj¹ mnie na bie¿¹co o ostatniej obowi¹zuj¹cej doktrynie!?}
-{177}{}{[Dalej.]}
+{177}{}{[dalej]}
 {178}{}{Co to, spa³o siê na indoktrynacji? Hmm - nie nale¿ysz do oœwieconych!}
 {179}{}{A wiêc twierdzisz, ¿e jest jakaœ si³a wy¿sza, która stworzy³a nas dla jakiegoœ celu, a potem tak po prostu opuœci³a nas? Nie mogê uwierzyæ, ¿e ktoœ móg³by byæ tak bezduszny. ChodŸ, przyjmij Koœció³ Centrologiczny. Pozwól pokazaæ sobie prawdziw¹ drogê.}
 {180}{}{Jak¹ prawdziw¹ drogê?}
-{181}{}{Nie, dziêkujê.}
-{182}{}{Jednak¿e bez kontroli nad swoim w³asnym ¿ycie, jakie to ma znaczenie? Nic, co robisz, nie ma znaczenia. Czy wstanie dzisiejszego ranka by³o twoj¹ w³asn¹ decyzj¹? Nie, wed³ug twojej filozofii jesteœ tylko kukie³k¹. Zaœ Koœció³ Centrologiczny zna prawdziw¹ odpowiedŸ.}
+{181}{}{Nie, dziêki.}
+{182}{}{Jednak¿e bez kontroli na swoim w³asnym ¿ycie, jakie to ma znaczenie? Nic, co robisz, nie ma znaczenia. Czy wstanie dzisiejszego ranka by³o twoj¹ w³asn¹ decyzj¹? Nie, wed³ug twojej filozofii jesteœ tylko kukie³k¹. Zaœ Koœció³ Centrologiczny zna prawdziw¹ odpowiedŸ.}
 {183}{}{To znaczy?}
 {184}{}{Oczywiœcie, ¿e znacie.}
 {185}{}{Och, có¿ za smutna i pusta filozofia. Nawet gdyby tak by³o, jedyn¹ œcie¿k¹ dla ciebie by³by rozwój siebie. To jest jedyna rzecz, nad któr¹ masz kontrolê. Koœció³ Centrologiczny mo¿e ci pomóc..}
@@ -89,7 +91,7 @@
 {188}{}{Krypta 13? Nasi naukowcy szukali jej gdzieœ na zachodzie. To wszystko, co wiem. Na pewno nie chcesz poddaæ siê szeregowaniu?}
 {189}{}{Jasne, czemu nie.}
 {190}{}{Nie, dziêki. Ze mn¹ w porz¹dku.}
-{191}{}{Mówiê ci, g³oszenie s³owa Centrologii jest trudniejsze, ni¿ to sobie mo¿esz wyobraziæ! UKC-9 po prostu nie rozumie tej trudnoœci. Nawet to wszystko spisa³am. S³uchaj, czy zgodzisz siê dostarczyæ to UKC-9 w San Francisco? Nie mogê obiecaæ ¿adnej nagrody, ale wiem, ¿e UKC-9 doceni to.}
+{191}{}{Mówiê ci, roznoszenie s³owa Centrologii jest trudniejsze, ni¿ to sobie mo¿esz wyobraziæ! UKC-9 po prostu nie rozumie tej trudnoœci. Nawet to wszystko spisa³am. S³uchaj, czy zgodzisz siê dostarczyæ to UKC-9 w San Francisco? Nie mogê obiecaæ ¿adnej nagrody, ale wiem, ¿e UKC-9 doceni to.}
 {192}{}{Jasne, czemu nie?}
 {193}{}{Nie, dziêki. Nie chcê siê w to mieszaæ.}
 {194}{}{Wspaniale. Tutaj masz list. A teraz, czy mogê ci pomóc w czymœ jeszcze? Zeta-skan?}
@@ -99,7 +101,7 @@
 {198}{}{Witam ponownie. W jaki sposób mo¿e ci pomóc Koœció³ Centrologiczny?}
 {199}{}{[œlinotok]}
 {200}{}{A wiêc to ty jesteœ tym wrzodem na ty³ku Merka!}
-{201}{}{Um, naprawdê nie wiem, o czym ty mówisz.}
+{201}{}{Ee, naprawdê nie wiem, o czym ty mówisz.}
 {202}{}{Co robi koœció³?}
 {203}{}{Ups. Z³e drzwi.}
 {204}{}{Zabicie mnie by³oby bezcelowe. Nie jestem zagro¿eniem dla Merka, po prostu irytujê go z powodu moich przekonañ. Mam nadziejê, ¿e odmówisz spe³nienia kontraktu.}
@@ -107,14 +109,15 @@
 {206}{}{Zapomnij o tym. Ju¿ jesteœ martwa.}
 {207}{}{Nie mam czasu dla idiotów. OdejdŸ, proszê.}
 {208}{}{Wynoœ siê, niewierna istoto!}
-{209}{}{Nie ma niczego, co mo¿esz powiedzieæ aby uzyskaæ ³askê Koœcio³a Centrologicznego, bluŸnierco.}
+{209}{}{Nie ma nic, co mo¿esz powiedzieæ, aby twoje bluŸnierstwo zmieni³o siê w ³askê Koœcio³a Centrologicznego.}
 {210}{}{Zamknij oczy. To nie bêdzie bola³o.}
 {211}{}{Proszê. Wymazaliœmy kilka ohydnych piêtn! Jesteœ teraz UKC-1. A teraz, jeœli wybaczysz, muszê zaj¹æ siê koœcio³em.}
 {212}{}{Witaj. Nie ma ju¿ niczego wiêcej, co mog³abym dla ciebie uczyniæ. Musisz samodzielnie kontynuowaæ swoj¹ wyprawê jako UKC-1.}
 {213}{}{Koœció³ jest zamkniêty. PrzyjdŸ jutro.}
 {214}{}{Bardzo chcia³abym ci pomóc, ale nawet UKC-4 musi kiedyœ spaæ. PrzyjdŸ, gdy wzejdzie s³oñce.}
 {215}{}{Intruz! Zamierzasz zbezczeœciæ to miejsce? Won!}
-{216}{}{Wspaniale, siostro. A jaki ty masz poziom?}
-{217}{}{}
-{218}{}{Zyskujesz }
+
+{216}{}{Wspaniale, siostro. Jaki masz poziom?}
+{217}{}{ }
+{218}{}{Zdobywasz }
 {219}{}{PD za zajêcie siê Centrologiem dla Merka.}

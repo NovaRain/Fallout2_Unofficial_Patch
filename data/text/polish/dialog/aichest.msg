@@ -1,3 +1,8 @@
+#############################################################
+# The following lines are for describing the item when #
+# glanced and and examined. #
+#############################################################
+
 {100}{}{Widzisz prost¹ wazê.}
 {101}{}{Widzisz ma³¹ skrzyniê.}
 {102}{}{Widzisz gliniany dzban.}

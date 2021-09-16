@@ -6,7 +6,7 @@
 {108}{}{ ulega pora¿eniu przez pole si³owe.}
 {109}{}{Nie udaje ci siê wy³¹czyæ pola si³owego.}
 {110}{}{ nie daje rady wy³¹czyæ pola si³owego.}
-{111}{}{S³yszysz ha³aœliwe dŸwiêki dochodz¹ce z g³oœnika: Uwaga! Wykryto Intruza! Uruchomiæ Systemy Bezpieczeñstwa.}
+{111}{}{S³yszysz ha³aœliwe dŸwiêki dochodz¹ce z g³oœnika: Uwaga! Intruzi! Uruchomiæ Systemy Bezpieczeñstwa.}
 {112}{}{Wy³¹czasz pole si³owe.}
 {113}{}{ wy³¹cza pole si³owe.}
 {114}{}{W³¹czasz pole si³owe.}

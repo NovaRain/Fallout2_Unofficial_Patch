@@ -1,4 +1,4 @@
-{100}{}{Widzisz terminal komputerowy.}
+{100}{}{Widzisz terminal.}
 {101}{}{Widzisz terminal z dostêpem g³osowym.}
 {102}{}{Widzisz standardowy terminal przystosowany do przyjmowania poleceñ g³osowych.}
 {103}{}{Ogl¹dasz terminal, ale nie zauwa¿asz niczego, co by³oby w oczywisty sposób niew³aœciwe. Co teraz?}
@@ -20,11 +20,11 @@
 {119}{}{Zosta³o ju¿ tylko zajrzeæ do œrodka.}
 {120}{}{Zostaw go w spokoju.}
 {121}{}{Przygl¹daj¹c siê uwa¿nie tej ca³ej masie kabli i uk³adów scalonych, zauwa¿asz, ¿e system niew¹tpliwie pad³ ofiar¹ sabota¿u. Jednej z p³yt, modu³u rozpoznawania g³osu, nie da siê naprawiæ i musi zostaæ wymieniona. Teraz wszystko, co trzeba zrobiæ, to znaleŸæ odpowiedni¹ czêœæ zamienn¹.}
-{122}{}{W porz¹dku.}
-{123}{}{W porz¹dku.}
+{122}{}{Dalej.}
+{123}{}{Dalej.}
 {124}{}{Montujesz modu³ w terminalu. System zosta³ naprawiony.}
-{125}{}{Terminal potrzebuje modu³u rozpoznawania mowy, zanim znów bêdzie mo¿na go u¿ywaæ.}
-{126}{}{W porz¹dku.}
+{125}{}{Terminal potrzebuje modu³u rozpoznawania pamiêci, zanim znów bêdzie mo¿na go u¿ywaæ.}
+{126}{}{Koniec.}
 {127}{}{System dzia³a teraz bez zarzutu.}
 {128}{}{Przeszukujê zdjêcia z kamer bezpieczeñstwa, rozpoczynam odtwarzanie holograficzne...}
 {129}{}{Gruthar, ju¿ tylko ty zosta³eœ. Plama twojego rodu zostanie niebawem wyczyszczona.}
@@ -32,5 +32,5 @@
 {131}{}{Tak, tak. Nigdy nie by³eœ niczym wiêcej ni¿ gadaj¹cym zwierzakiem.}
 {132}{}{Byæ mo¿e, ale powstaliœmy na skutek waszych eksperymentów. Daliœcie nam ¿ycie!}
 {133}{}{A teraz dam ci œmieræ.}
-{134}{}{Zabierz jego cia³o. Doktor chcia³ dostaæ próbkê.}
-{135}{}{Ich krew bêdzie p³ynê³a jak Nil!}
+{134}{}{Zabierzcie jego cia³o. Doktor chcia³ dostaæ próbkê.}
+{135}{}{Ich krew sp³ynie rzek¹!}

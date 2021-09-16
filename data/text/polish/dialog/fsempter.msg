@@ -1,12 +1,15 @@
+#{100}{}{Widzisz potê¿ny komputer.} //This is for the computer object itself
+#{101}{}{Widzisz Cesarski Komputer.}
+#{102}{}{Widzisz du¿y, szumi¹cy, w pe³ni sprawny komputer, ktry na spodzie obudowy ma napis: "Cesarz v8.8".}
 {100}{}{Widzisz terminal komputerowy.}
 {101}{}{Widzisz terminal Cesarskiego Komputera.}
 {102}{}{Widzisz komputer z wbudowanym ekranem dotykowym. Na boku wyryto napis - "Terminal komputerowy - Cesarz v8.8".}
-{103}{}{Witamy. Proszê potwierdziæ swoj¹ to¿samoœæ.}
+{103}{}{Witaj. Podaj has³o, aby potwierdziæ swoj¹ to¿samoœæ.}
 {104}{}{::œlinisz siê::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{[W³am siê do komputera.]}
+{108}{}{::w³am siê do komputera::}
 {109}{}{Wyloguj siê.}
 {110}{}{To¿samoœæ potwierdzona.}
 {111}{}{Do której funkcji chcesz mieæ dostêp?}
@@ -14,11 +17,11 @@
 {113}{}{Baza danych.}
 {114}{}{Prognozy.}
 {115}{}{Nic.}
-{116}{}{Has³o nieprawid³owe. Proszê skontaktowaæ siê z administratorem systemu. Do widzenia.}
-{117}{}{[W³am siê do komputera.]}
-{118}{}{[OdejdŸ.]}
-{119}{}{Intruz wykryty, alarm aktywowany. Wy³¹czenie systemu. Mi³ego dnia ¿yczê.}
-{120}{}{[Zrobione]}
+{116}{}{Prosze skontaktowaæ siê z administratorem systemu. Do widzenia.}
+{117}{}{::w³am siê do systemu::}
+{118}{}{::wyjdŸ::}
+{119}{}{Intruz wykryty - uruchomiono alarm. Wy³¹czam siê. Mi³ego dnia.}
+{120}{}{[Dalej]}
 {121}{}{Funkcje diagnostyczne?}
 {122}{}{Skanowanie sieci.}
 {123}{}{Formatowanie twardego dysku.}
@@ -33,9 +36,9 @@
 {132}{}{Dzieci miasta Shi s¹ w niebezpieczenstwie. 50% szans, ¿e wsród nich porusza siê morderca.}
 {133}{}{Miasto Shi w niebezpieczenstwie. 75% szans na skrzywdzenie mieszkanców.}
 {134}{}{Wystrzelenie statku kosmicznego Centrologów oceniane na 95% pora¿ki. Czynniki: brak paliwa, niew³aœciwe uszczelnienie, kiepskie dowodzenie, brak inicjatywy.}
-{135}{}{15% szans na powodzenie misji obiektu "Dziecko Przeznaczenia".}
+{135}{}{15% szans na powodzenie misji obiektu o kryptonimie "Dziecko Przeznaczenia".}
 {136}{}{Wprowadzone dane wskazuj¹ na to, ¿e "Enklawa" jest potê¿niejsza, ni¿ pocz¹tkowo przypuszczano: nie dokonywaæ kontaktu.}
-{137}{}{Chances of submarine reappearing in this game: 0%}
+{137}{}{Szansa na ponowne ukazanie siê ³odzi podwodnej w tej grze: 0%.}
 {138}{}{W³óczêdzy z tankowca maj¹ 0% szans na oczyszczenie statku z wra¿ych istot bez pomocy z zewn¹trz. Obliczanie po¿¹dania udzielenia pomocy w toku.}
 {139}{}{Dane wejœciowe: Tankowiec roponoœny Posejdon niezdatny do podró¿y. Wymagane dalsze dane.}
 {140}{}{Brak przetwarzania. Wymagane dalsze dane.}
@@ -66,21 +69,21 @@
 {165}{}{Tak.}
 {166}{}{Nie.}
 {167}{}{Formatowanie w toku... formatowanie w toku... formatowanie zakoñczone. Bootowanie wymaga ponownej instalacji. Wy³¹czam systemy. Zamykanie... systemu... zakoñczone...}
-{168}{}{[Zrobione]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{168}{}{[Dalej]}
+{169}{}{Dane do znalezienia: - program botaniczny - program genetyczny - program ksenotyczny.}
 {170}{}{Program botaniczny.}
 {171}{}{Program genetyczny.}
-{172}{}{Program kseno.}
+{172}{}{Program ksenotyczny.}
 {173}{}{Wróæ.}
-{174}{}{(Po dwudziestu minutach odkrywasz, ¿e pocz¹tkowe wyniki botanicznego rozpraszania radiacji s¹ nieobiecuj¹ce. Dr Sheng wyhodowa³ roœlinn¹ formê ¿ycia odporn¹ na promieniowanie - z nieprzyjemnymi skutkami ubocznymi. Uzyskana roœlinna forma ¿ycia uwa¿ana jest za zbyt niebezpieczn¹. Sheng nalega na dalsze badania w tym kierunku i po³¹czenie ich z programem genetycznym.)}
+{174}{}{(Po dwudziestu minutach odkrywasz, ¿e pocz¹tkowe wyniki zak³ócania radiacji botanicznej s¹ nieobiecuj¹ce. Dr Sheng wyhodowa³ roœlinn¹ formê ¿ycia odporn¹ na promieniowanie - z nieprzyjemnymi skutkami ubocznymi. Uzyskana roœlinna forma ¿ycia uwa¿ana jest za zbyt niebezpieczn¹. Sheng nalega na dalsze badania w tym kierunku i po³¹czenie ich z programem genetycznym.)}
 {175}{}{Program genetyczny.}
-{176}{}{Program kseno.}
+{176}{}{Program ksenotyczny.}
 {177}{}{Wróæ.}
 {178}{}{(Po dwudziestu minutach wy³ania ci siê przed oczyma nastêpujacy obraz: U¿ywaj¹c podstaw wirusa FEV, dr Long Wang jest przekonany o powodzeniu tworzenia zmutowanych ¿o³nierzy. Stwarza serum daj¹ce interesuj¹ce rezultaty w eksperymentach na gryzoniach. Nastêpnie wstrzykuje je sobie i rozpuszcza siê w ka³u¿y mazi. Dr Sheng wstrzymuje dochodzenie. Wraz ze œmierci¹ dr Longa, dr Sheng zostaje szefem. Sheng domaga siê skupienia na poch³aniaj¹cej promieniowanie roœlinnej formie ¿ycia.)}
 {179}{}{Program botaniczny.}
-{180}{}{Program kseno.}
+{180}{}{Program ksenotyczny.}
 {181}{}{Wróæ.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Obiekt, na którym mieliœmy nadziejê przeprowadziæ seriê znacz¹cych eksperymentów znikn¹³, zapewne albo zniszczony, albo skradziony przez Centrologów. Dalsze dochodzenie nie przynios³o rezultatów. Do czasu znalezienia dalszych obiektów badañ ta baza danych pozostanie nieaktywna." - dr Sheng}
 {183}{}{Program botaniczny.}
 {184}{}{Program genetyczny.}
 {185}{}{Wróæ.}
@@ -88,36 +91,38 @@
 {187}{}{Paliwo i pochodne.}
 {188}{}{Polimery.}
 {189}{}{Wróæ.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Po przekopaniu siê przez z³o¿one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, ¿e Shi stworzyli rodzaj paliwa z wyci¹gu z roslin i organizmów morskich. Wygl¹da równie¿ na to, ¿e przy³¹czyli siê do istniej¹cych ju¿ uprzednio ruroci¹gów, dziêki czemu mog¹ transportowaæ paliwo do wielu miejsc.)}
 {191}{}{(Napotykasz ogromn¹ iloœæ skomplikowanych formu³ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoœci, co to wszystko mo¿e znaczyæ.)}
-{192}{}{Skieruj paliwo do tankowca Posejdona.}
+{192}{}{Skieruj paliwo do tankowca Posejdon.}
 {193}{}{Skieruj paliwo do Centrologów.}
 {194}{}{Wróæ.}
-{195}{}{(Po przerzuceniu dyskusji technicznych i symboliki odkrywasz, ¿e Shi pracuj¹ nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarówno na ogieñ, jak i na przebicie. Min¹ jednak lata, zanim zostanie ukoñczony. Widzisz tak¿e wzmianki o nowym uzbrojeniu i mo¿liwoœciach konstrukcyjnych. Najwidoczniej Shi maj¹ jakieœ plany na przysz³oœæ.)}
+{195}{}{(Po przebiciu siê przez dyskusje techniczne i symbolikê odkrywasz, ¿e Shi pracuj¹ nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarówno na ogieñ, jak i na przebicie. Min¹ jednak lata, zanim zostanie ukoñczony. Widzisz tak¿e wzmianki o nowym uzbrojeniu i mo¿liwoœciach konstrukcyjnych. Najwidoczniej Shi maj¹ jakieœ plany na przysz³oœæ.)}
 {196}{}{Wróæ.}
 {197}{}{Paliwo przekierowane zgodnie z planem. Zbiorniki puste. Zamykam program.}
-{198}{}{[Zrobione]}
+{198}{}{[Dalej]}
 {199}{}{Paliwo przekierowane zgodnie z planem. Zbiorniki puste. Zamykam program.}
-{200}{}{[Zrobione]}
+{200}{}{[Dalej]}
 {201}{}{Fizyczna baza danych: Badania - Teoria}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Badania.}
+{203}{}{Teoria.}
 {204}{}{Wróæ.}
 {205}{}{"Wraz z niedawnym uzyskaniem planów lataczy, mo¿liwoœæ stworzenia praktycznej maszyny lataj¹cej przybli¿y³a siê o wiele lat. Oczekujemy stworzenia dzia³aj¹cego prototypu do koñca tego roku, a mo¿liwoœci masowej produkcji w ci¹gu dwóch lat." - dr Wong}
 {206}{}{::skopiuj plany:: Wróæ.}
 {207}{}{Wróæ.}
 {208}{}{"Wci¹¿ przygotowujemy dzia³aj¹cy model maszyny latajacej. ¯aden z naszych dotychczasowych projektów nie by³ ani bezpieczny, ani aerodynamiczny. Byæ mo¿e gdybyœmy mieli dostêp do planów naszych przodków..." - dr Wong}
 {209}{}{Wróæ.}
-{210}{}{(Po przejrzeniu wstêpu i podstaw matematycznych dowiadujesz siê, ¿e Shi ucz¹ siê po raz kolejny u¿ywaæ energii atomowej, odbudowaæ teoriê lotów kosmicznych staro¿ytnych - i bij¹ w tym Centrologów na g³owê - i wykorzystywaæ energiê s³oñca, wiatru, morza. A przynajmniej tak tam jest napisane.)}
+{210}{}{(Po przejrzeniu wstêpu i podstaw matematycznych dowiadujesz siê, ¿e Shi ucz¹ siê od nowa u¿ywaæ energii atomowej, odbudowuj¹ teoriê lotów kosmicznych staro¿ytnych - i bij¹ w tym Centrologów na g³owê - wykorzystywaæ energiê s³oñca, wiatru, morza. A przynajmniej tak tam jest napisane.)}
 {211}{}{Wróæ.}
 {212}{}{Serwer uaktywniony.}
 {213}{}{Wróæ.}
 {214}{}{Ten terminal komputerowy nie umie chyba tego obs³ugiwaæ.}
 {215}{}{Ten terminal komputerowy chyba nie dzia³a.}
+
 {216}{}{Nast¹pi³o w³amanie do systemu. Rozkaz - atakowaæ!}
 {217}{}{Atakowaæ intruza!}
 {218}{}{Czas zap³aciæ za swoje czyny, lao wai!}
 {219}{}{W naszych szeregach jest zdrajca!}
+
 {220}{}{Geolokalizacja.}
 {221}{}{Co/kogo pragniesz zlokalizowaæ?}
 {222}{}{Mieszkañców mojej wioski.}

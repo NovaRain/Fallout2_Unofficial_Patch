@@ -25,7 +25,7 @@
 {124}{}{Co to - jakaœ sztuczka? Zwodzisz Jacka, a¿ twoi kumple przyjd¹ i go zabij¹?}
 {125}{}{Kto chce ciê zabiæ?}
 {126}{}{Nie bój siê, nikt ciê nie skrzywdzi.}
-{127}{}{Na przyk³ad ta cholerna suka, moja by³a ¿ona Mira. Ona chce mnie ukatrupiæ.}
+{127}{}{Na przyk³ad ta cholerna suka, moja by³a ¿ona. Chce mnie ukatrupiæ.}
 {128}{}{A wiêc pozwól, aby zajê³o siê ni¹ prawo. A nie w ten sposób, Jack.}
 {129}{}{Masz racjê. Wynajê³a mnie, ¿eby ciê zabiæ. A wiêc, co na to powiesz, co? Co ty na to, Jack?}
 {130}{}{Kim do cholery jest Mira?}
@@ -59,5 +59,5 @@
 {158}{}{To nie jest twoja walka. Zostaw mnie w spokoju.}
 {159}{}{Albo siê wysadzê, albo ty mnie zabijesz. Co za ró¿nica?}
 {160}{}{Nie próbujê ciê skrzywdziæ. Chcê tylko, aby pamiêtali...}
-{161}{}{Zyskujesz }
+{161}{}{Otrzymujesz }
 {162}{}{ PD za zajêcie siê Jackiem dla Miry.}

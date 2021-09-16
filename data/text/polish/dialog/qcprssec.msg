@@ -4,7 +4,7 @@
 {103}{}{Tka? Czym mogê s³u¿yæ, skarbie?}
 {104}{}{Nie teraz! W³aœnie skoñczy³am czyœciæ sukienkê.}
 {105}{}{No i co porabia Pan Wa¿niak?}
-{106}{}{They don't call him *Dick* Richardson for nuthin'}
+{106}{}{Nie bez powodu mówi¹, ¿e jest *prê¿nym * politykiem.}
 {107}{}{A w³aœnie, ¿e umiem pisaæ na maszynie.}
 {108}{}{A zapukaæ to nie³aska.}
 {109}{}{Muszê umyæ zêby.}

@@ -22,7 +22,7 @@
 {121}{}{[Lumpy w milczeniu patrzy ci w oczy. Mruga. Mruga jeszcze raz.]}
 {122}{}{Yyyy... g³upi pytania. Ta?}
 {123}{}{Biorê to za tak.}
-{124}{}{Masz racjê do cholery, tak! Ledwo mogê siê ruszaæ! Ale zauwa¿, nie narzekam. Mia³em ju¿ gorsze rany. To nie ma nawet porównania z moim tete-a-tete z ciê¿arówk¹ Coli lata temu daleko na po³udnie. Dzieciaku, szkoda, ¿e ciebie tam nie by³o! Wszêdzie kapsle!}
+{124}{}{Masz racjê do cholery, tak! Ledwo mogê siê ruszaæ! Ale zauwa¿, nie narzekam. Mia³em ju¿ gorsze rany. To nie ma nawet porównania z moim tete-a-tete z ciê¿arówk¹ Coli lata temu daleko na po³udnie. Dzieciaku, szkoda ¿e ciebie tam nie by³o! Wszêdzie kapsle!}
 {125}{}{Aaach. Œmiszneee!}
 {126}{}{Super! WyobraŸ sobie kogoœ natykaj¹cego siê na to na pustyni! By³by bogaty!}
 {127}{}{Jasne. A³! O³! Nie chcia³bym przerywaæ tej porywaj¹cej konwersacji, ale twoja pomoc by³aby nieoceniona przy wyci¹ganiu mnie spod tego zderzaka.}
@@ -33,10 +33,11 @@
 {132}{}{W porz¹dku. Przygotuj siê!}
 {133}{}{Tak, ups! Kto do cholery uczy³ ciê prowadziæ?}
 {134}{}{Moja sama.}
-{135}{}{Có¿, tak w³aœciwie, to jestem samoukiem.}
+{135}{}{Co¿, tak w³aœciwie, to jestem samoukiem.}
 {136}{}{To widaæ. Uwierz mi.}
 {137}{}{Och. Ty OK?}
 {138}{}{Och... có¿, ja... hmmmm. Czy... wszystko w porz¹dku?}
 {139}{}{Mówi³em im. Powtarza³em: "Potrzebujemy znaków drogowych". Ale czy mnie us³uchali? Nieeeee.... po co s³uchaæ starego Lumpyego!}
+
+# Player float
 {200}{}{O, cholera!}
-{201}{}{Uh, oh. Ja trafiæ œmierdziela.}

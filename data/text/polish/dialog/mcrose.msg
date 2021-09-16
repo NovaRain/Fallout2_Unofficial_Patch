@@ -1,5 +1,5 @@
-{100}{}{Widzisz sympatyczna kobietê przy koœci.}
-{101}{}{Widzisz Rose.}
+{100}{}{Sympatyczna kobieta przy koœci.}
+{101}{}{To Rose.}
 {102}{}{Jej siwe w³osy s¹ spiête w luŸny kok, a ona sama chodzi ko³ysz¹c siê lekko na boki. W jej obecnoœci czujesz siê dziwnie spokojnie.}
 {150}{}{Przykro mi, ale jest zamkniête. Niedawno by³ pogrzeb w rodzinie. [poci¹ga nosem]}
 {151}{}{Hej! Tylko ja mogê przegl¹daæ pud³o rzeczy znalezionych!}
@@ -50,10 +50,10 @@
 {200}{}{Och, to moja specjalnoœæ. Mam nadziejê, ¿e nadal czujesz g³ód. Jestem pewna, ¿e po raz pierwszy jesz tak dobry omlet. [Wychodzi i wraca z najwiêkszym widzianym przez ciebie kiedykolwiek omletem]}
 {201}{}{[Po tak obfitym posi³ku czujesz siê w pe³ni si³]}
 {202}{}{[Znika za lad¹ i szybko wraca z twoim zamówieniem]}
-{203}{}{Mogê ci zadaæ kilka pytañ?}
+{203}{}{Czy mogê zadaæ kilka pytañ?}
 {204}{}{Przykro mi, kochanie. Jestem zajêta innymi klientami. Mo¿e bêdê mog³a chwilê pogawêdziæ, jeœli zamówisz coœ jeszcze.}
 {205}{}{W takim wypadku nadaj czujê g³ód. Co mo¿esz mi poleciæ?}
-{206}{}{Pewnie, ale poœpiesz siê, kochanie. Inni klienci te¿ czekaj¹.}
+{206}{}{Pewnie, ale pospiesz siê, kochanie. Inni klienci te¿ czekaj¹.}
 {207}{}{Co mo¿esz mi powiedzieæ o znikniêciu zegarka Corneliusa?}
 {208}{}{S³ysza³aœ kiedyœ o czymœ takim jak GECK?}
 {209}{}{Co wiesz o Nawiedzonej Farmie?}

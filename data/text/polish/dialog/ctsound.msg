@@ -1,1 +1,1 @@
-{100}{}{To laboratorium wydaje siê byæ dzwiêkoszczelne.}
+{100}{}{To laboratorium wydaje siê byæ dzwiêkoszczelnym.}

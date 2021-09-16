@@ -1,36 +1,60 @@
+#
+# Quest descriptons
+#
+# Please leave space between the areas (like 100 or so)
+#
+
+
+#
+# Arroyo Quests
+#
 {100}{}{Zabij z³oœliwe chwasty, które rozpleni³y siê w ogrodzie Hakuninna.}
 {110}{}{Zdob¹dŸ krzemieñ dla Mynoca, ¿eby móg³ naostrzyæ twoj¹ w³óczniê.}
 {120}{}{Odszukaj psa Nagora, który zagin¹³ w dziczy.}
-{130}{}{Zdob¹dŸ GECK dla Arroyo.}
+{130}{}{Zdob¹dŸ GECK dla swojego obozu.}
 {140}{}{ZnajdŸ handlarza imieniem Vic.}
-{200}{}{Ureguluj nale¿noœci Vica przez przyniesienie radia z jego domu w Klamath i sp³acenie Metzgera.}
-{201}{}{Dowiedz siê dlaczego Becky mo¿e sprzedawaæ gorza³ê tak tanio.}
-{202}{}{Zepsuj aparaturê Becky.}
-{203}{}{Zdob¹dŸ czêœci samochodowe dla Smitty'ego.}
-{204}{}{Zwróæ medalion Anny.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
-{207}{}{Zanieœ Smitty'emu jedzenie od Mamuœki.}
-{208}{}{Lara chce wiedzieæ, co jest przechowywane w koœciele.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
-{211}{}{Pomó¿ Larze zaatakowaæ gang Tylera.}
+
+#
+# Den Quests
+#
+{200}{}{Ureguluj nale¿noœci Vica. Przynieœ radio z jego domu w Klamath i zap³aæ Metzgerowi.}
+{201}{}{Zepsuj aparaturê Becky.}
+{202}{}{Zdob¹dŸ czêœci samochodowe dla Smitty'ego.}
+{203}{}{Zwróæ medalion Anny.}
+{204}{}{Zbierz pieni¹dze od Freda.}
+{205}{}{Zdob¹dŸ ksi¹¿kê od Dereka.}
+{206}{}{Zanieœ Smitty'emu jedzenie od Mamuœki.}
+{207}{}{Lara chce wiedzieæ, co jest przechowywane w koœciele.}
+{208}{}{Uzyskaj pozwolenie na wojnê gangów od Metzgera.}
+{209}{}{ZnajdŸ s³abe punkty gangu Tylera, strzeg¹cego koœcio³a.}
+{210}{}{Pomó¿ Larze zaatakowaæ gang Tylera.}
+
+#
+# Klamath Quests
+#
 {300}{}{Pod³ó¿ ogieñ pod aparaturê destylacyjn¹.}
 {301}{}{Uratuj trapera imieniem Smiley.}
-{302}{}{Pilnuj bramin.}
+{302}{}{Pilnuj braminów.}
 {303}{}{Ukradnij braminy.}
 {304}{}{Zabij króla szczurów.}
 {305}{}{Ocal Torra.}
+
+#
+# Modoc Quests
+#
 {400}{}{Na farmie po³o¿onej na pó³nocny wschód od Modoc dzieje siê coœ dziwnego. Zbadaj sprawê i z³ó¿ relacjê Jo.}
 {401}{}{Cornelius zgubi³ swój z³oty zegarek kieszonkowy. ZnajdŸ go i zwróæ w³aœcicielowi.}
 {402}{}{Farrel chce, ¿ebyœ znalaz³ z³oty zegarek kieszonkowy Corneliusa. ZnajdŸ go i zwróæ Farrelowi.}
 {403}{}{Jonny zagin¹³. ZnajdŸ go i przyprowadŸ do domu, do Balthasa.}
 {404}{}{Jonny jest w jaskiniach. ZnajdŸ sposób, ¿eby doprowadziæ Jonny'ego do domu, do Balthasa.}
 {405}{}{Farrel ma w swoim ogrodzie problem z chwastami. Pozb¹dŸ siê ich.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Dostarcz wiadomoœæ do Jo w Modoc.}
 {407}{}{Jo jest podejrzliwy wobec ¯u¿lowców. Dowiedz siê, sk¹d pochodz¹ martwe cia³a na Nawiedzonej Farmie, a tak¿e co przytrafi³o siê Karlowi.}
 {408}{}{IdŸ do Nory powiedz Karlowi, ¿e mo¿e ju¿ wróciæ do domu.}
-{409}{}{Pilnuj bramin Grishama.}
+
+#
+# Vault City Quests
+#
 {500}{}{Zdob¹dŸ p³ug dla Pana Smitha.}
 {501}{}{Dostarcz aktówkê Moore'a Panu Bishopowi w Nowym Reno.}
 {502}{}{Dostarcz próbkê narkotyku Jet doktorowi Troy.}
@@ -41,13 +65,20 @@
 {507}{}{ZnajdŸ kombinerki (narzêdzia) i klucz francuski dla Valerie.}
 {508}{}{Zbadaj osiem sektorów otaczaj¹cych Gecko i wróæ do Starka.}
 {509}{}{WejdŸ do RNK i wróæ do Starka.}
+
+#
+# Gecko Quests
+#
 {600}{}{Rozwi¹¿ problem z elektrowni¹ w Gecko.}
 {601}{}{Napraw elektrowniê.}
 {602}{}{Zoptymalizuj pracê elektrowni.}
-{603}{}{Zdob¹dŸ dysk z danymi ekonomicznymi i dostarcz go McCluremu w Kryptopolis.}
-{604}{}{Zdob¹dŸ super zestaw naprawczy od Skeetera.}
-{605}{}{Zdob¹dŸ trójfazowy transformator plazmowy dla Skeetera.}
-{606}{}{Poszukaj ghula Woody'ego dla Percy'ego. Spróbuj w Norze.}
+{603}{}{Zdob¹dŸ super zestaw naprawczy od Skeetera.}
+{604}{}{Zdob¹dŸ trójfazowy transformator plazmowy dla Skeetera.}
+{605}{}{Poszukaj ghula Woody'ego dla Percy'ego. Spróbuj w Norze.}
+
+#
+# Broken Hills Quests
+#
 {700}{}{}
 {701}{}{Napraw system oczyszczania powietrza w kopalni.}
 {702}{}{ZnajdŸ zaginionych ludzi dla Marcusa.}
@@ -55,6 +86,10 @@
 {704}{}{Odbij Mansona i Francisa z wiêzienia.}
 {705}{}{WysadŸ system oczyszczania powietrza w kopalni.}
 {706}{}{Skieruj wiêcej mocy elektrycznej do domu Erica.}
+
+#
+# New Reno Quests
+#
 {800}{}{Odzyskaj swój skradziony samochód.}
 {801}{}{ZnajdŸ winnego przedawkowania przez Richarda Wrighta.}
 {802}{}{     Podejrzany: Jimmy J}
@@ -74,27 +109,54 @@
 {816}{}{Dostarcz paczkê Du¿ego Jesusa Ramirezowi, w Stajniach.}
 {817}{}{Zbierz op³aty od Braci Corsican.}
 {818}{}{Zlikwiduj Pana Salvatore dla Du¿ego Jesusa Mordino.}
+
+#
+# Sierra Army Base Quests
+#
 {900}{}{}
+
+#
+# Vault 15 Quests
+# Moved it to 3000 on accedent
 {1000}{}{}
+
+#
+# New California Republic Quests
+#
 {1100}{}{Zdob¹dŸ czêœci/uzyskaj dostêp do Krypty 15.}
 {1101}{}{Zaopiekuj siê "oficerem Jackiem" dla Miry.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Skoñcz sprawê z braminami.}
+{1103}{}{Odbierz papiery od dr Henry'ego.}
+{1104}{}{SprawdŸ dzia³anie serum mutagenicznego na super-mutancie. Spróbuj w Broken Hills.}
 {1105}{}{Wyeliminuj Pana Bishopa.}
 {1106}{}{Dostarcz holodysk Westina do Lynette w Kryptopolis.}
 {1107}{}{Zdob¹dŸ dla Vortisa £owcy Niewolników mapê od Stra¿ników RNK.}
-{1108}{}{Uwolnij niewolników z zagrody (dla Stra¿ników RNK).}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
-{1110}{}{Zabij Centrologa w RNK dla Merka.}
-{1111}{}{Powstrzymaj uprowadzenia bramin.}
+{1108}{}{Uwolnij niewolników z zagrody (dla Stra¿ników).}
+{1109}{}{Dostarcz raport polowy centrologów do UKC-9 w San Francisco.}
+{1110}{}{Zabij centrologa w RNK dla Merka.}
+{1111}{}{Powstrzymaj uprowadzenia braminów.}
+#
+# Vault 13 Quests
+#
 {1200}{}{Napraw komputer Krypty 13.}
 {1201}{}{Porozmawiaj z Gorisem.}
+
+#
+# Military Base Quests
+#
 {1300}{}{}
-{1400}{}{ZnajdŸ procesor do maszyny górniczej.}
-{1401}{}{Przerwij rozróbê w barze.}
-{1402}{}{Dowiedz siê, kto poci¹³ dziwkê.}
+
+#
+# Redding Quests
+#
+{1400}{}{Dowiedz siê, kto poci¹³ dziwkê.}
+{1401}{}{ZnajdŸ procesor do maszyny górniczej.}
+{1402}{}{Przerwij rozróbê w barze.}
 {1403}{}{Zabij ¯abê Mortona.}
+
+#
+# San Francisco Quests
+#
 {1500}{}{Tankowiec potrzebuje paliwa.}
 {1501}{}{Komputer nawigacyjny potrzebuje uk³adu nawigacyjnego, ¿eby móc dzia³aæ.}
 {1502}{}{Musisz u¿yæ karty wejœciowej, ¿eby uzyskaæ dostêp do komputera nawigacyjnego.}
@@ -109,28 +171,97 @@
 {1511}{}{ZnajdŸ dziewczynê Badgera w ³adowni pod statkiem.}
 {1512}{}{Smok chce, ¿ebyœ pozby³ siê Lo Pana - najlepiej w walce wrêcz.}
 {1513}{}{Lo Pan chce, ¿ebyœ pozby³ siê Smoka - najlepiej w walce wrêcz, je¿eli to mo¿liwe.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Zdob¹dŸ œledzionê dla Chipa.}
 {1515}{}{Zdob¹dŸ ulepszony pancerz wspomagany od Crocketta.}
 {1516}{}{Zdob¹dŸ plany latacza dla Bractwa Stali.}
+#
+# Navarro Quests
+#
+#1515, ...
 {1600}{}{Uwolnij szpona œmierci.}
-{1601}{}{Fix K-9.}
+{1601}{}{Napraw K9.}
 {1602}{}{Zdob¹dŸ kartê dostêpu od dowódcy bazy.}
+
+#
+# The Enclave Quests
+#
 {1700}{}{}
+
+#
+# The Abbey Quests
+#
 {1800}{}{}
+
+#
+# Primitive Tribe Quests
+#
 {1900}{}{}
+
+#
+# EPA Quests
+#
 {2000}{}{}
+
+#
+# Ghost Town Quests
+#
 {2100}{}{}
+
+#
+# Car outta Gas Quests
+#
 {2200}{}{}
+
+#
+# Destroyed Arroyo Quests
+#
 {2300}{}{}
+
+#
+# Toxic Caves Quests
+#
 {2400}{}{}
+
+#
+# Den Slave Run Quests
+#
 {2500}{}{}
+
+#
+# Raiders Quests
+#
 {2600}{}{}
+
+#
+# Desert Encounter Quests
+#
 {2700}{}{}
+
+#
+# Mountain Encounter Quests
+#
 {2800}{}{}
+
+#
+# Ruined City Encounter Quests
+#
 {2900}{}{}
+
+#
+# Coast Encounter Quests
+#
 {3000}{}{}
+
+#
+# Golgotha Quests
+#
 {3100}{}{}
+
+
+#
+# Vault 15 Quests
+#
 {3200}{}{Ocal Chrissy}
 {3201}{}{Zabij Dariona}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Zfinalizuj transakcjê z RNK.}
+{3203}{}{Przeka¿ holodysk szpiegowski odpowiednim w³adzom w RNK.}

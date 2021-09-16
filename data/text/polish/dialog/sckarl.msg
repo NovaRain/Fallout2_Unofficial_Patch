@@ -1,13 +1,13 @@
-{100}{}{Widzisz m³odego cz³owieka z odznak¹ policji RNK.}
+{100}{}{Widzisz m³odego cz³owieka z odznaka policji RNK}
 {101}{}{To Karl, zastêpca szeryfa.}
 {102}{}{Widzisz m³odego cz³owieka, który dopiero co z wyszed³ z lat m³odzieñczych. Wygl¹da na chêtnego do pomocy.}
 {103}{}{Witaj, przybyszu. Jestem Karl, zastêpca szeryfa. Co mogê dla ciebie zrobiæ?}
-{104}{}{To znaczy?}
+{104}{}{Na przyk³ad?}
 {105}{}{Hm.....}
 {106}{}{Jestem pierwszy raz w RNK. Co mo¿esz mi powiedzieæ o tym mieœcie?}
 {107}{}{Có¿, poszukuje Krypty 13.}
 {108}{}{Przys³a³a mnie tu Prezydent Tandi. Mam porozmawiaæ z jednym z twych wiêŸniów.}
-{109}{}{Nazywam siê}
+{109}{}{Nazywam siê }
 {110}{}{Szukam goœcia, który nazywa siê Jack. Niektórzy mówi¹ mu Szurniêty Jack.}
 {111}{}{Gdzie mogê spotkaæ Rogera Westina?}
 {112}{}{Hmm, wczoraj by³a niez³a balanga, co? S³uchaj, tam z ty³u mam otwart¹ celê. Tam mo¿esz siê odrobinkê zdrzemn¹æ.}
@@ -21,14 +21,14 @@
 {120}{}{Nazywa siê Oswald. To wszystko, co z niego wyci¹gnêliœmy. Ponoæ jest bezdomnym, z Krypty 15, ale... w¹tpiê. Jest na to odrobinkê za twardy. Wiesz o co mi chodzi?}
 {121}{}{Twardziel, co?}
 {122}{}{Co macie z nim zamiar zrobiæ?}
-{123}{}{S³uchaj, czy ja o tobie czasem nie s³ysza³em? Ach tak pamiêtam - wiele dobrych rzeczy. Znam tu kilku ludzi, którym przyda³by siê ktoœ taki, jak ty. IdŸ do sklepu samochodowego i zapytaj o Elise. Powiedz jej, ¿e Karl przesy³a pozdrowienia.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{123}{}{S³uchaj, czy ja o tobie czasem nie s³ysza³em? Ach tak pamiêtam - wiele dobrych rzeczy. Znam tu kilku ludzi, którym przyda³by siê ktoœ taki, jak ty. IdŸ do sklepu samochodowego i zapytaj o Elize. Powiedz jej, ¿e Karl przesy³a pozdrowienia.}
+{124}{}{Praca? Stowarzyszenie Wolarzy poszukuje stra¿ników. NajeŸdŸcy ponawiaj¹ swoje ataki na ich transporty byd³a. S³ysza³em te¿, ¿e pani prezydent szuka kogoœ "obdarzonego", jak to okreœla. Pomog³o?}
 {125}{}{Có¿, mam inne pytania.}
 {126}{}{Odrobinê. Dziêki.}
 {127}{}{To jest oficer Jack. Jeden z naszych ludzi. Nie rozmawia³eœ z Mir¹, prawda?}
 {128}{}{Tak.}
 {129}{}{Kim jest Mira?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Ten sukinkot? Ma rancho tu¿ za miastem. Po prostu skrêæ w drogê obok Wolarzy.}
 {131}{}{Za bardzo go nie lubisz.}
 {132}{}{Có¿, mam inne pytania.}
 {133}{}{Dziêki.}
@@ -48,8 +48,6 @@
 {147}{}{Muszê ju¿ lecieæ. Zaraz za miastem, tak?}
 {148}{}{Nie ma sprawy. Masz piêæ minut. ChodŸ za mn¹.}
 {149}{}{Jasne, ale co ci to da?}
-{150}{}{Kilka lat temu mia³ zawa³. Teraz doktor Jubilee trzyma go na jakimœ leku. Ale co ci do tego?}
+{150}{}{Kilka lat temu mia³ zawal. Teraz doktor Jubilee trzyma go na jakimœ leku. Ale co ci do tego?}
 {151}{}{Nic, tak tylko pytam. Przestanê marnowaæ twój czas.}
 {152}{}{. Szukam uczciwej pracy.}
-{153}{}{Tandi mówi, ¿e dorwa³eœ tutaj z³ego cz³owieka.}
-{154}{}{Chcê zobaczyæ z³ego cz³owieka.}

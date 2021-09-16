@@ -1,17 +1,18 @@
 {100}{}{Widzisz brudnego, nieogolonego mê¿czyznê.}
+{200}{}{Widzisz brudn¹, zaniedban¹ kobietê.}
 {101}{}{Traper.}
 {102}{}{Lepiej siê do niego nie zbli¿aæ. Insekty buszuj¹ce w jego ubraniu mog¹ zechcieæ przenieœæ siê do czystszego mieszkania.}
-{103}{}{Witaj. Nieczêsto spotykam ludzi na tym pustkowiu. Czego chcesz?}
+{103}{}{Witaj. Nie czêsto spotykam ludzi na tym pustkowiu. Czego chcesz?}
 {104}{}{Masz jakieœ skórki na sprzeda¿?}
-{105}{}{Ja tylko przechodzê.}
+{105}{}{Niczego.}
 {106}{}{Ug.}
 {107}{}{Có¿, chyba mogê odsprzedaæ ci kilka skórek. I tak nie mam ochoty wybieraæ siê chwilowo do miasta.}
 {108}{}{Co tam masz?}
 {109}{}{Niewa¿ne.}
 {110}{}{Ug.}
-{111}{}{Here's what I got:}
-{112}{}{regular gecko pelts.}
-{113}{}{golden gecko pelts.}
+{111}{}{Oto co mam. Skórki zwyk³ych gekonów:}
+{112}{}{. Skórki z³ocistych gekonów:}
+{113}{}{.}
 {114}{}{Wezmê wszystko.}
 {115}{}{Mo¿e innym razem. Pa.}
 {116}{}{Mi³o robiæ z tob¹ interesów. Trzymaj siê.}
@@ -32,9 +33,10 @@
 {131}{}{To moje tereny ³owieckie. OdejdŸ!}
 {132}{}{Obedrê ciê ze skóry!}
 {133}{}{Zrobiê sobie naszyjnik z twoich zêbów.}
+
 {134}{}{Jedna zwyk³a skórka gekona: $}
 {135}{}{Jedna skórka gekona z³ocistego: $}
+
 {136}{}{Dobra. Twoje gór¹.}
 {137}{}{Masz szczêœcie, muszê siê zaj¹æ moimi sid³ami.}
 {138}{}{Chyba mama mnie wo³a.}
-{200}{}{Widzisz brudn¹, zaniedban¹ kobietê.}

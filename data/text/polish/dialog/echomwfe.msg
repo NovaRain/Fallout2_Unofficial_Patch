@@ -1,15 +1,11 @@
-{100}{}{Widzisz pochylon¹, opalona kobietê.}
-{101}{}{Widzisz farmerkê.}
-{102}{}{Zauwa¿asz, ¿e farmerka ma opaleniznê od pracy w polu.}
-{200}{}{To mój dom.}
-{201}{}{Przeklêci bandyci.}
-{202}{}{Zostawcie nas w spokoju!}
-{203}{}{Nienawidzê bandytów.}
-{204}{}{Nie mamy tu nic, co mo¿na by ukraœæ.}
-{205}{}{Nie zabijajcie mnie.}
-{206}{}{Mam ju¿ doœæ.}
-{207}{}{Bierz co chcesz.}
-{208}{}{B³agam, nie zabijaj mnie.}
-{209}{}{I tak nie lubiê pracy na farmie.}
-{210}{}{Tylko nie spalcie mojego domu.}
-{220}{}{Nie zawracaj mi g³owy.}
+{100}{}{To mój dom.}
+{101}{}{Przeklêci bandyci.}
+{102}{}{Zostawcie nas w spokoju!}
+{103}{}{Nienawidzê bandytów.}
+{104}{}{Nie mamy tu nic, co mo¿na by ukraœæ.}
+{105}{}{Nie zabijajcie mnie.}
+{106}{}{Mam ju¿ doœæ.}
+{107}{}{Bierz co chcesz.}
+{108}{}{B³agam, nie zabijaj mnie.}
+{109}{}{I tak nie lubiê pracy na farmie.}
+{110}{}{Tylko nie spalcie mojego domu.}

@@ -4,5 +4,5 @@
 {103}{}{Zdob¹dŸ GECK jak najszybciej.}
 {104}{}{Niech twoje podró¿e bêd¹ bezpieczne.}
 {105}{}{Wróæ do nas z tym, co siê nam nale¿y.}
-{106}{}{Musisz siê poœpieszyæ, Dziecko Przeznaczenia.}
-{107}{}{Nasze modlitwy s¹ z tob¹, Dziecko Przeznaczenia.}
+{106}{}{Dziecko Przeznaczenia, musisz siê poœpieszyæ.}
+{107}{}{Dziecko Przeznaczenia, modlimy siê za ciebie.}

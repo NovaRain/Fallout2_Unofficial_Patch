@@ -7,4 +7,4 @@
 {121}{}{Z silnika zosta³a tylko kupa rdzy, która rozpada siê pod najl¿ejszym dotkniêciem.}
 {122}{}{Ten sprzêt z pewnoœci¹ da siê naprawiæ. Po prostu trzeba posiadaæ odpowiednie umiejêtnoœci.}
 {123}{}{Wóz jest ju¿ niemal gotowy do drogi! Jeszcze tylko kilka obrotów tej œruby... (Instynktownie odskakujesz do ty³u. Silnik wypada z samochodu i rozsypuje siê w drobny mak.)}
-{130}{}{Na tylnym siedzeniu znajdujesz regulator ogniw zasilaj¹cych.}
+{130}{}{Na tylnym siedzeniu znajdujesz uk³ad wtrysku paliwa.}

@@ -14,25 +14,25 @@
 {113}{}{To jest Ranczo Westina, dom radnego Westina.}
 {114}{}{Moja musieæ zobaczyæ.}
 {115}{}{OK. Czeœæ.}
-{116}{}{Proszê, muszê siê zobaczyæ z radnym.}
+{116}{}{Muszê siê zobaczyæ z radnym.}
 {117}{}{Rozumiem. Có¿, pójdê ju¿ sobie.}
 {118}{}{Jaka sprawê masz do pana Westina?}
 {119}{}{Ja chcieæ praca.}
 {120}{}{Chcieæ tylko ga...wêdziæ.}
 {121}{}{Uch...}
-{122}{}{Nikogo.}
+{122}{}{Niewa¿ne.}
 {123}{}{Szukam pracy. Podobno chce kogoœ zatrudniæ.}
 {124}{}{Chcê tylko pogawêdziæ z panem Westinem.}
 {125}{}{Niewa¿ne, wpadnê tu póŸniej.}
 {126}{}{Hmm... Coœ sobie przypominam o wolnej posadzie. W porz¹dku, wejdŸ. Tylko nie sprawiaj ¿adnych k³opotów, bêdê ciê mia³ na oku.}
 {127}{}{Moja dziêkowaæ.}
 {128}{}{Dziêki.}
-{129}{}{Pan Westin nie 'gawêdzi' z nikim z ulicy. Jeœli nie masz do niego konkretnej sprawy sugeruje, odejœæ dopóki to siê nie zmieni. A teraz idŸ st¹d, proszê.}
-{130}{}{[Zrobione]}
+{129}{}{Pan Westin nie 'gawêdzi' z nikim z ulicy. Jeœli nie masz do niego konkretnej sprawy sugeruje, abyœ odszed³ do czasu, a¿ takow¹ znajdziesz. A teraz odejdŸ, proszê.}
+{130}{}{[Dalej]}
 {131}{}{(wzdycha) S³ysza³em, ¿e pan Westin ma s³aboœæ do ludzi twojego pokroju. WejdŸ.}
-{132}{}{Moja dziêkuje.}
+{132}{}{Moja dziêkowaæ.}
 {133}{}{Tak, tak. Chyba widzisz, ¿e jestem zajêty.}
-{134}{}{Hej, odejdŸ stamt¹d!}
+{134}{}{Hej, spadaj st¹d!}
 {135}{}{Musisz zapytaæ o pozwolenie jeœli chcesz siê bawiæ rzeczami, które nie nale¿¹ do ciebie.}
 {136}{}{Witaj. Chcesz siê ponownie zobaczyæ z panem Westinem?}
 {137}{}{Tak.}

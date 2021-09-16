@@ -1,1 +1,1 @@
-{100}{}{Na zachód od Bazy Wojskowej zdaje siê byæ jakieœ miasto. Zaznaczasz jego pozycjê na mapie w Pip-Boju.}
+{100}{}{Na zachód od Bazy wojskowej zdaje siê byæ jakieœ miasto. Notujesz jego pozycjê w Pip-Boyu.}

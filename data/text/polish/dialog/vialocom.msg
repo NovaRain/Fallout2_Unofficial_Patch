@@ -1,6 +1,6 @@
-{100}{}{Terminal komputera wyœwietla mnóstwo, mnóstwo informacji.}
+{100}{}{Terminal komputera wyswietla mnóstwo, mnóstwo informacji.}
 {101}{}{Widzisz terminal. }
-{102}{}{Terminal komputera wyœwietla mnóstwo, mnóstwo informacji.}
+{102}{}{Terminal komputera wyswietla mnóstwo, mnóstwo informacji.}
 {103}{}{Widzisz Komputer Lokacyjny Kryptopolis.}
 {104}{}{Widzisz terminal.}
 {105}{}{Widzisz Komputer Lokacyjny Kryptopolis.}

@@ -6,7 +6,7 @@
 {105}{}{Ty kto?}
 {106}{}{Kim jesteœ?}
 {107}{}{Co mo¿esz mi powiedzieæ o tym tankowcu?}
-{108}{}{Czym siê zajmujesz?}
+{108}{}{Czym siê tu zajmujesz?}
 {109}{}{Chcê, ¿ebyœ w³ama³ siê dla mnie do komputera.}
 {110}{}{Jak tam idzie hackowanie?}
 {111}{}{Nic takiego. £adne bekniêcie.}
@@ -20,15 +20,15 @@
 {119}{}{A co robisz z tymi komputerami?}
 {120}{}{Za³o¿ê siê, ¿e twój zespó³ by³ do dupy.}
 {121}{}{Dobry by³ ten wasz zespó³?}
-{122}{}{Dziêki. Pa.}
+{122}{}{Dziêki. Nara.}
 {123}{}{Ee... dobra.}
-{124}{}{Pa!}
+{124}{}{Na razie!}
 {125}{}{O tym nale¿y rozmawiaæ z Markiem lub z Kapitanem.}
 {126}{}{Gdzie mogê znaleŸæ Marka?}
 {127}{}{Gdzie mogê znaleŸæ Kapitana?}
 {128}{}{Jestem tutejszym geniuszem komputerowym.}
 {129}{}{A co robisz z tymi komputerami?}
-{130}{}{Dziêki. Pa.}
+{130}{}{Dziêki. Nara.}
 {131}{}{Nie wkurzaj mnie ::pierdzi:: Pracujê nad tym, nie?}
 {132}{}{Dobra, dobra. Tylko daj mi znaæ, jak skoñczysz.}
 {133}{}{Có¿. Powiedzmy, ¿e jestem specjalist¹ od wydobywania informacji.}
@@ -56,7 +56,7 @@
 {155}{}{Rozumiem. Dziêki.}
 {156}{}{Tak, warto by by³o. Tak czy siak, muszê wracaæ do roboty.}
 {157}{}{Czekaj, mam jeszcze kilka pytañ.}
-{158}{}{Dziêki. Do zobaczenia.}
+{158}{}{Dziêki. Na razie.}
 {159}{}{Chyba lubiê ciê na tyle, ¿eby to dla ciebie zrobiæ. Kogo mam odwiedziæ?}
 {160}{}{Centrologów.}
 {161}{}{Shi.}
@@ -75,7 +75,7 @@
 {174}{}{Có¿, ¿yczê szczêœcia. Mam trochê pytañ.}
 {175}{}{Powodzenia. Wrócê tu póŸniej.}
 {176}{}{Hej, znajdŸ moj¹ panienkê, to pogadamy.}
-{177}{}{Dobra ju¿, dobra.}
+{177}{}{Dobra, dobra.}
 {178}{}{Nie ¿yje? Nie ¯YJE? Jak zginêla? Nie, czekaj... nic nie mów. Daj mi kilka godzin, muszê siê pozbieraæ.}
 {179}{}{Oczywiœcie.}
 {180}{}{Otrz¹œnij siê Mistrzuniu. Mamy kupê roboty.}
@@ -112,7 +112,7 @@
 {211}{}{Czy mo¿esz przelaæ paliwo i zdobyæ plany?}
 {212}{}{Tak, potrzebujê tego, co oni maj¹.}
 {213}{}{Nie, znajdê inny sposób.}
-{214}{}{Ta, ale gówno mo¿e wpaœæ w wentylator.}
+{214}{}{Ta, ale gówno mo¿e wpaœæ w wiatrak.}
 {215}{}{Czy mo¿esz przenieœæ paliwo z ich rezerw do tankowca?}
 {216}{}{Niewa¿ne, zrobiê to inaczej.}
 {217}{}{Niewa¿ne.}

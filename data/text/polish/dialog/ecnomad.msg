@@ -1,4 +1,4 @@
-{100}{}{Widzisz Nomada.}
+{100}{}{Nomad.}
 {101}{}{Witaj, chyba pierwszy raz ciê tu widzê.}
 {102}{}{Musisz porozmawiaæ z wodzem.}
 {103}{}{Wczoraj chyba by³o jeszcze bardziej gor¹co.}
@@ -9,4 +9,4 @@
 {108}{}{Jak œmiesz ur¹gaæ naszej goœcinnoœci!}
 {109}{}{OdejdŸ st¹d!}
 {110}{}{Zostaw nas.}
-{111}{}{Jesteœmy pokojowym plemieniem.}
+{111}{}{¯yjemy w pokoju.}

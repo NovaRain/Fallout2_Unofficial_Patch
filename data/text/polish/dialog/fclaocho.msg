@@ -7,15 +7,15 @@
 {106}{}{Toffar!}
 {107}{}{Kim jesteœ?}
 {108}{}{Szukam pewnego sprzêtu.}
-{109}{}{Szukam informacji.}
-{110}{}{Pa.}
+{109}{}{Poszukujê pewnych informacji.}
+{110}{}{Do widzenia.}
 {111}{}{Chcesz coœ kupiæ?}
-{112}{}{[Pokiwaj g³ow¹.]}
-{113}{}{[Pokrêæ g³ow¹.]}
+{112}{}{[pokiwaj g³ow¹]}
+{113}{}{[pokrêæ g³ow¹]}
 {114}{}{A wiêc oto, co mam.}
-{115}{}{[Zrobione]}
+{115}{}{[dalej]}
 {116}{}{Có¿, obawiam siê wiêc, ¿e to ju¿ wszystko, co mogê dla ciebie zrobiæ. Mi³ego dnia.}
-{117}{}{[Zrobione]}
+{117}{}{[dalej]}
 {118}{}{Jestem Lao Chou. Prowadzê sklep wielobran¿owy, Lataj¹cy Smok 8. Znany jestem z wymiany... informacjami.}
 {119}{}{Jakimi informacjami?}
 {120}{}{Rozumiem. Chcê coœ kupiæ.}
@@ -27,32 +27,32 @@
 {126}{}{Potrzebujê pewnych czêœci do PMV Valdeza.}
 {127}{}{Szukam œledziony.}
 {128}{}{Podobno jakieœ lataj¹ce maszyny przywioz³y tu pe³no ludzi z wioski.}
-{129}{}{Niczego. Czeœæ.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
-{131}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{132}{}{Dziêki. Pa.}
+{129}{}{Nic. Do widzenia.}
+{130}{}{Porozmawiaj z Crocketem z obozu Centrologów. Jest ich g³ównym naukowcem.}
+{131}{}{Dziêki. Potrzebujê wiêcej informacji.}
+{132}{}{Dziêki. Na razie.}
 {133}{}{Szukaj na pó³noc, w Navarro. Jest tam ukryta baza w pobli¿u stacji benzynowej.}
-{134}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{135}{}{Dziêki. Pa.}
+{134}{}{Dziêki. Potrzebujê wiêcej informacji.}
+{135}{}{Dziêki. Na razie.}
 {136}{}{Mo¿e warto by poszukaæ w starych Kryptach. Podobno s¹ skarbnic¹ informacji i technologii staro¿ytnych.}
-{137}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{138}{}{Dziêki. Pa.}
+{137}{}{Dziêki. Potrzebujê wiêcej informacji.}
+{138}{}{Dziêki. Na razie.}
 {139}{}{Œledziony? Cha cha! Tak, Chip z Valdeza straci³ œledzionê w trakcie jednej z partyjek gry karcianej. Sprzeda³em j¹ dr Wongowi. By³ ni¹ zafascynowany.}
 {140}{}{Dr Wong? Gdzie mogê go znaleŸæ?}
 {141}{}{Jak mo¿na straciæ œledzionê?}
-{142}{}{Dziêki. Mam jeszcze kilka pytañ.}
+{142}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {143}{}{Ach tak. Na razie.}
 {144}{}{Dr Wong jest g³ównym naukowcem Stalowego Pa³acu. Tam go szukaj.}
 {145}{}{Tak przy okazji, to jak mo¿na straciæ œledzionê?}
-{146}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{147}{}{Dziêki. Pa.}
+{146}{}{Dziêki. Potrzebujê wiêcej informacji.}
+{147}{}{Dziêki. Na razie.}
 {148}{}{By³ pijany. Bardzo, bardzo pijany. Ca³¹ noc mia³ obsesjê na punkcie swojej œledziony. No i j¹ postawi³.}
 {149}{}{Wiêc wzi¹³eœ jego ŒLEDZIONÊ?}
-{150}{}{Rozumiem. Mam tak¿e inne pytania.}
+{150}{}{Rozumiem. Có¿, mam inne pytania.}
 {151}{}{Tak. Taki by³ zak³ad. On jest honorowym cz³owiekiem.}
 {152}{}{Rozumiem. Có¿, mam inne pytania.}
 {153}{}{Ale z ciebie chory, prymitywny drañ, nie?}
-{154}{}{Tak. Na razie.}
+{154}{}{Ta. Na razie.}
 {155}{}{Jesteœ osob¹ bez honoru. Nie chcê ciê mieæ w moim sklepie. Wróæ kiedy indziej.}
 {156}{}{Jak chcesz.}
 {157}{}{Nie. Przyby³y z pó³nocy i przelecia³y nad nami, udaj¹c siê za morze.}
@@ -63,19 +63,19 @@
 {162}{}{Dziêki za "pomoc". Idê zdobyæ jak¹œ rozs¹dn¹ radê.}
 {163}{}{...chyba ¿e uda ci siê zmusiæ ten stary tankowiec w dokach do dzia³ania. To stary statek, ale zapewne wci¹¿ jeszcze dzia³a, je¿eli trochê siê nad nim popracuje. Poproœ punków o wiêcej informacji.}
 {164}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{165}{}{Dziêki. Pa.}
+{165}{}{Dziêki. Na razie.}
 {166}{}{Mówi siê, ¿e ostatnio Centrolodzy weszli w posiadanie du¿ej iloœci paliwa. Dogadaj siê z nimi.}
 {167}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{168}{}{Dziêki. Pa.}
+{168}{}{Dziêki. Na razie.}
 {169}{}{Mo¿esz spróbowaæ popytaæ naukowców Shi w Stalowym Pa³acu. Byæ mo¿e bêd¹ ci w stanie pomóc z twoim zapotrzebowaniem na paliwo.}
 {170}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
-{171}{}{Dziêki. Pa.}
+{171}{}{Dziêki. Na razie.}
 {172}{}{Jesteœ wrogiem mojego ludu. Giñ!}
 {173}{}{Zabicie UKC-9 by³o dobrym uczynkiem dla naszego ludu. Mam nadziejê, ¿e bêdê ci w stanie w jakiœ sposób pomóc.}
 {174}{}{Kim jesteœ?}
 {175}{}{Szukam pewnego sprzêtu.}
-{176}{}{Szukam informacji.}
-{177}{}{Pa.}
+{176}{}{Poszukujê pewnych informacji.}
+{177}{}{Do widzenia.}
 {178}{}{Dostali je ju¿ od ciebie Centrolodzy, nie?}
 {179}{}{A tak... e... Mogê spytaæ o coœ innego?}
 {180}{}{A tak... na razie.}

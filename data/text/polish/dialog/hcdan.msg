@@ -3,7 +3,7 @@
 {102}{}{Widzisz dobrze ubranego mê¿czyznê. Jego twarz wskazuje na to, ¿e jest na skraju histerii.}
 {103}{}{Kim jesteœ? Co robisz w moim domu?}
 {104}{}{Ack? Oop?}
-{105}{}{To ja jestem }
+{105}{}{Nazywam siê }
 {106}{}{Nikim wa¿nym.}
 {107}{}{Jestem tu, aby ciê okraœæ.}
 {108}{}{Nic. Nikim. ¯egnam.}
@@ -18,16 +18,16 @@
 {117}{}{Co bêdê z tego mieæ?}
 {118}{}{Rozejrzê siê. Jak ona wygl¹da?}
 {119}{}{Nie ma mowy. Mam du¿o spraw na g³owie.}
-{120}{}{Dam ci 500$. To wszystkie moje oszczêdnoœci.}
+{120}{}{Dam ci $500. To wszystkie moje oszczêdnoœci.}
 {121}{}{To wystarczy. Zrobiê to.}
 {122}{}{Nie. Nic z tego.}
 {123}{}{Proszê. B³agam. Moja ¿ona... ona jest dla mnie wszystkim. Proszê.}
 {124}{}{Nie!}
-{125}{}{Fine. Fine, just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.	}
+{125}{}{Dobra, dobra, zrobiê to, tylko przestañ ju¿ siê przede mn¹ p³aszczyæ.}
+{126}{}{Masz tu pieni¹dze. A teraz proszê, proszê, PROSZÊ... znajdŸ moj¹ ¿onê i powiedz mi, gdzie jest. Niewa¿ne czy mnie zostawi³a, czy zamieszka³a u kogoœ innego... ja po prostu muszê wiedzieæ.}
 {127}{}{Masz to jak w banku, koleœ. Jak ona wygl¹da?}
 {128}{}{Oczywiœcie. Zrobiê, co w mojej mocy.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.    }
+{129}{}{[Traci nad sob¹ kontrolê i przez chwilê g³êboko szlocha] W porz¹dku. IdŸ. I wiedz, ¿e mam z³amane serce.}
 {130}{}{No to na razie, frajerze.}
 {131}{}{Jest wysok¹, seksown¹ blondynk¹ o najwspanialszym g³osie, jaki kiedykolwiek s³ysza³em... Ostatnio widziano j¹ spaceruj¹c¹ w tej okolicy. Nigdy nie lubi³a mutantów i ghuli, wiêc raczej nie bêdzie w okolicy ich domów. Nikt nie wie, gdzie posz³a. To tak, jakby po prostu zniknê³a.}
 {132}{}{To mi wystarczy.}
@@ -42,7 +42,7 @@
 {141}{}{Czy to by³a taka laska bez nóg?}
 {142}{}{W tunelach pod miastem jest grupka martwych osób. Twoja ¿ona jest wœród nich. Przykro mi.}
 {143}{}{Co? Nie! Mia³a fantastyczne nogi!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.	}
+{144}{}{O. Jasne. No có¿, teraz ju¿ ich nie ma. Zosta³a potraktowana naprawdê okropnie - urwano jej nogi. Wykrwawi³a siê na œmieræ, ale wczeœniej musia³a naprawdê strasznie cierpieæ.}
 {145}{}{Jasne. Có¿, myœlê, ¿e wiem, gdzie jest. Le¿y poœród cia³ w tunelach pod miastem. Ona nie ¿yje. Strasznie mi przykro.}
 {146}{}{Dziêki za informacjê. Teraz, jeœli pozwolisz, muszê siê iœæ wyp³akaæ.}
 {147}{}{Taa, idŸ sobie p³akaæ, ty lalusiu.}

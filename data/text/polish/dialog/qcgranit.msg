@@ -8,13 +8,13 @@
 {107}{}{Wykoñczmy tê ofiarê!}
 {108}{}{Podziurawmy go.}
 {109}{}{Jestem gotowy.}
-{110}{}{No to walimy!}
+{110}{}{Jazda!}
 {111}{}{Podpalê to dziwad³o!}
 {112}{}{Nie lubiê zabijaæ przyg³upów.}
 {113}{}{Mo¿esz iœæ.}
 {114}{}{Ja tam nic nie widzia³em.}
 {115}{}{To nie tych droidów szukamy.}
-{116}{}{Ruszaj siê.}
+{116}{}{Nie zatrzymuj siê.}
 {117}{}{Mam ju¿ doœæ zabijania.}
 {118}{}{No ju¿, do dzie³a!}
 {119}{}{Spocznij.}
@@ -22,7 +22,7 @@
 {121}{}{¯yczê szczêœcia, mutancie. Przyda ci siê.}
 {122}{}{Stój! Czego tu szukasz?}
 {123}{}{Chcê wróciæ do mojego ludu.}
-{124}{}{Nie twój zasrany interes.}
+{124}{}{Nie twój interes.}
 {125}{}{Nie mam czasu na twoje pytania.}
 {126}{}{A kim ty jesteœ?}
 {127}{}{No wiesz, ten œwir, Agent Horrigan, mija³ mnie przed chwil¹. On tylko czeka, ¿eby ktoœ spróbowa³ st¹d zwiaæ.}
@@ -54,7 +54,7 @@
 {153}{}{To tylko oœwietlenie awaryjne. Wiem, gdzie *by³* ten komputer. On nie jest zepsuty, jego po prostu *nie ma.* Mówiê ci, za parê minut bêdzie tutaj piek³o...}
 {154}{}{Nie mam czasu na k³ótnie. Mam nadziejê, ¿e dobrzy z was p³ywacy. ¯egnam.}
 {155}{}{Przestañ mi tu bajaæ. Rozœmieszasz mnie tylko. Ale wiesz co? Wygl¹dasz mi na kogo, kto wytrzyma z Horriganem ca³¹ minutê. To bêdzie nowy rekord. Powodzenia, mutancie.}
-{156}{}{Jej, ale szczodroœæ z twojej strony. Chyba muszê siê najpierw rozgrzaæ. Najlepiej na tobie i twoich ludziach.}
+{156}{}{Jej, jakiœ ty mi³y. Chyba muszê siê najpierw rozgrzaæ. Najlepiej na tobie i twoich ludziach.}
 {157}{}{Zrzuæ tê zbrojê, bêdzie ci ³atwiej p³yn¹æ do brzegu. ¯egnaj.}
 {158}{}{Dobra, dobra. Nie mogê mówiæ za wszystkich, ale mój oddzia³ i ja zrobimy co w naszej mocy, ¿eby wykoñczyæ tego œwira Horrigana. Nie zamierzam tu zdychaæ jak szczur.}
 {159}{}{M¹dra decyzja. Bierzmy siê do roboty. Nie mamy du¿o czasu.}

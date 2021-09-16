@@ -30,13 +30,13 @@
 {129}{}{Witaj, siostro. Szukasz pracy?}
 {130}{}{Tak... Przyjecha³em do ciebie.}
 {131}{}{Pracy? Jakiej pracy?}
-{132}{}{Tak tylko siê rozgl¹dam. Do widzenia.}
-{133}{}{Jakiœ ty s³odziutki. Jesteœ taki nieœmia³y i w ogóle. Taka wizyta bêdzie ciê kosztowaæ 60$, z³otko.}
-{134}{}{Mo¿e tym razem podzia³asz trochê d³u¿ej, kochanie. Dziêki temu te 60$ bêdzie bardziej wartoœciowe dla ciebie.}
-{135}{}{Delikatnie i powoli, ma³y. Poka¿ê ci, jak siê dobrze zabawiæ za 60$.}
-{136}{}{60$, powiadasz? Niez³a cena. Masz tu pieni¹dze.}
+{132}{}{Tak tylko siê rozgl¹dam... Do widzenia.}
+{133}{}{Jakiœ ty s³odziutki. Jesteœ taki nieœmia³y i w ogóle. Taka wizyta bêdzie ciê kosztowaæ $60, z³otko.}
+{134}{}{Mo¿e tym razem podzia³asz trochê d³u¿ej, kochanie. Dziêki temu te $60 bêdzie bardziej wartoœciowe dla ciebie.}
+{135}{}{Delikatnie i powoli, ma³y. Poka¿ê ci, jak siê dobrze zabawiæ za $60.}
+{136}{}{$60, powiadasz? Niez³a cena. Masz tu pieni¹dze.}
 {137}{}{Dziêkujê za ofertê, ale mo¿e innym razem. Do widzenia.}
-{138}{}{60$? Dziêkujê za tak¹ wizytê... Do widzenia.}
+{138}{}{$60? Dziêkujê za tak¹ wizytê... Do widzenia.}
 {139}{}{By³eœ dla mnie taki mi³y. Zdawa³o mi siê, ¿e naprawdê coœ do mnie czujesz, gdy to robiliœmy. Chcia³abym, aby zawsze tak by³o.}
 {140}{}{Gdy jesteœ ze mn¹, to rzeczywiœcie coœ do ciebie czujê.}
 {141}{}{Naprawdê potrafisz nieŸle gadaæ.}
@@ -47,8 +47,8 @@
 {146}{}{Ile wiêcej?}
 {147}{}{Czy twój ch³opak nie mo¿e ci pomóc?}
 {148}{}{To smutna historia, ale powinnaœ ju¿ wkrótce mieæ potrzebn¹ ci kasê, jeœli tylko bêdziesz grzecznie le¿eæ na materacykach. Do widzenia.}
-{149}{}{Brakuje mi ju¿ tylko 200$. Potem zabieram siê st¹d z moim ch³opakiem. Nigdy wiêcej dziwnych, niechlujnych ludzi obmacuj¹cych mnie dniami i nocami. Bez obrazy...}
-{150}{}{Nie gniewam siê. Przecie¿ ciê nie obmacywa³em, nie? W ka¿dym razie, mogê za ciebie zap³aciæ. Masz te 200$.}
+{149}{}{Brakuje mi ju¿ tylko $200. Potem zabieram siê st¹d z moim ch³opakiem. Nigdy wiêcej dziwnych, niechlujnych ludzi obmacuj¹cych mnie dniami i nocami. Bez obrazy...}
+{150}{}{Nie gniewam siê. Przecie¿ ciê nie obmacywa³em, nie? W ka¿dym razie, mogê za ciebie zap³aciæ. Masz te $200.}
 {151}{}{To smutne... Idê siê czymœz zaj¹æ. Do widzenia.}
 {152}{}{Dziêki ci, dziêki! Nie myœla³am, ¿e ktoœ taki jak ty ¿yje poza moimi snami. Jesteœ super! Jeszcze raz dziêki! Chcesz numerek za darmo?}
 {153}{}{Jasne, Fannie. Myœlê, ¿e skorzystam z tej oferty.}
@@ -67,7 +67,7 @@
 {166}{}{Tak, wiem. I jestem ci wdziêczna... ale wygl¹da na to, ¿e wisia³am Lou wiêcej ni¿ myœla³am. Potrzebujê wiêcej pieniêdzy.}
 {167}{}{Nie do wiary! Ile ty jeszcze potrzebujesz tych pieniêdzy, by siê st¹d wydostaæ?!?}
 {168}{}{Mój limit ju¿ siê wyczerpa³. Do widzenia.}
-{169}{}{W porz¹dku, ma³y. Ju¿ wystarczaj¹co pomog³eœ. [poci¹ga nosem] Potrzebujê jeszcze tylko 150$.}
+{169}{}{W porz¹dku, ma³y. Ju¿ wystarczaj¹co pomog³eœ. [poci¹ga nosem] Potrzebujê jeszcze tylko $150.}
 {170}{}{No dobrze, skoro tylko tyle potrzebujesz. Ale wiêcej ci nie dam! Na serio!}
 {171}{}{Ale¿ tak, oczywiœcie. Spadam.}
 {172}{}{Hej, wróci³eœ. Chcesz siê zabawiæ, czy tylko daæ mi wiêcej kasy dla Lou?}
@@ -84,15 +84,3 @@
 {183}{}{W tej pracy przydaje siê ma³o wra¿liwy nos. Ci górnicy chyba nie przepadaj¹ za myd³em i wod¹.}
 {184}{}{Na serio? Mo¿e jednak nie powinnam. Ale dziêki za ofertê. Do widzenia.}
 {185}{}{Taki zapaszek musi œcinaæ z nóg. Pewnie dlatego pracujesz-na-plecach. Do widzenia.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need for Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
-{187}{}{Bêdê o tym pamiêtaæ. Dziêki, Fannie.}
-{188}{}{Dziêkujê, jeszcze raz. (cmok) Pamiêtaj, zawsze na koszt firmy. (mrugniêcie)}
-{189}{}{Witaj! Chcesz spêdziæ trochê czasu z Fannie? Bez op³aty oczywiœcie. (uœmiech)}
-{190}{}{Sory s³onko...Nie czuje siê za dobrze. Ale zapytaj póŸniej.}
-{191}{}{Masz teraz trochê wolnego czasu?}
-{192}{}{Wracaj kiedy tylko zechcesz! Zawsze mi³o powtórzyæ "biznes".}
-{193}{}{[Zrobione]}
-{200}{}{Uda³o ci siê podrzuciæ odtrutkê na Jet do drinka Fannie Mae.}

@@ -1,3 +1,3 @@
 {100}{}{Jesteœ przy jaskini znajduj¹cej siê w zboczu jednej z gór.}
-{101}{}{You have come across a circle of wrecked shacks. In the middle is an old well with a ladder leading down.}
-{102}{}{Uda³o ci siê pozbawiæ najeŸdŸców ich przewagi. Nie bêd¹ ju¿ zdolni atakowaæ w tej okolicy.}
+{101}{}{Jesteœ przy okrêgu porozwalanych chatek. W œrodku jest jakaœ stara drabina prowadz¹ca pod ziemiê.}
+{102}{}{Uda³o ci siê z³amaæ potêgê najeŸdŸców. Ju¿ nie bêd¹ w stanie naje¿d¿aæ na miasta i wioski w tym rejonie.}

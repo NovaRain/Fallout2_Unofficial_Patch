@@ -6,8 +6,8 @@
 {105}{}{Spadaj.}
 {106}{}{Odczep siê. Nie bêdê z tob¹ gadaæ.}
 {107}{}{Och, eee, czeœæ Kapitanie. £adny dzisiaj dzieñ, prawda?}
-{108}{}{Proszê, proszê, czy to nie nasz nowy Obywatel?}
-{109}{}{Siemanko, "Obywatelu".}
+{108}{}{Proszê, proszê, czy to nie nasz nowy obywatel?}
+{109}{}{Siemanko, "obywatelu".}
 {110}{}{Nie mo¿esz w³aziæ tu z tym mutantem.}
 {111}{}{Nie mo¿esz w³aziæ tu z tym ghulem.}
 {112}{}{W nocy nie masz tu czego szukaæ. PrzyjdŸ rano.}
@@ -33,47 +33,47 @@
 {132}{}{Daj mu $100.}
 {133}{}{Pewnie nie dosyæ, ¿eby zawracaæ ci g³owê. Wrócê, jak siê trochê dorobiê.}
 {134}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{135}{}{No wiêc, mo¿esz zrobiæ kilka rzeczy. Jedna z nich, to zostaæ Obywatelem. Obywateli siê nie przeszukuje. Oczywiœcie, twoje szanse zostania Obywatelem s¹ prawie ¿adne.}
+{135}{}{No wiêc, mo¿esz zrobiæ kilka rzeczy. Jedna z nich, to zostaæ obywatelem. Obywateli siê nie przeszukuje. Oczywiœcie, twoje szanse zostania obywatelem s¹ prawie ¿adne.}
 {136}{}{Czemu?}
 {137}{}{Co jeszcze da siê zrobiæ?}
 {138}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{139}{}{Jeœli nie jesteœ urodzonym Obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na Obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
-{140}{}{Na czym polega ten egzamin?}
+{139}{}{Jeœli nie jesteœ urodzonym obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
+{140}{}{Na czym polega egzamin?}
 {141}{}{Co jeszcze mo¿na zrobiæ dla ominiêcia kontroli celnej?}
 {142}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{143}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ Obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ Obywateli mia³aby z nim k³opoty.}
+{143}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ obywateli mia³aby z nim k³opoty.}
 {144}{}{Co sprawia, ¿e egzamin jest tak trudny?}
-{145}{}{Co oprócz zostawania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
+{145}{}{Co oprócz zostania obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
 {146}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{147}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ Obywatelami.}
-{148}{}{Co oprócz zostawania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
+{147}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ obywatelami.}
+{148}{}{Co oprócz zostawania obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
 {149}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {150}{}{Przemyæ towar za pomoc¹ niewolników... to znaczy "S³u¿¹cych". Widzisz, mentalnoœæ Kryptopolis jest taka, ¿e nikomu tutaj nie przyjdzie do g³owy, ¿e ktoœ móg³by powierzyæ S³u¿¹cemu coœ wa¿nego... albo podejrzanego. SprawdŸ to sobie.}
 {151}{}{Jakieœ inne mo¿liwoœci?}
 {152}{}{Rozumiem. Dziêki.}
-{153}{}{W sumie to MO¯ESZ zostaæ Obywatelem... nieoficjalnie.}
+{153}{}{W sumie to MO¯ESZ zostaæ obywatelem... nieoficjalnie.}
 {154}{}{O czym ty mówisz?}
 {155}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {156}{}{Jeœli masz kasê, mogê zdradziæ wiêcej. W przeciwnym razie...}
 {157}{}{Mam pieni¹dze. Co sprzedajesz?}
 {158}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {159}{}{Za dwieœcie dolców papiery s¹ twoje.}
-{160}{}{Za dwieœcie dolców mogê zrobiæ z ciebie pe³noprawnego Obywatela. Bêdziesz mieæ wolny wstêp za bramê, bez ¿adnych przykroœci. W ci¹gu piêciu minut mogê wydrukowaæ wszystkie dokumenty i zarejestrowaæ twój numer identyfikacyjny.}
+{160}{}{Za dwieœcie dolców mogê zrobiæ z ciebie pe³noprawnego obywatela. Bêdziesz mieæ wolny wstêp za bramê, bez ¿adnych przykroœci. W ci¹gu piêciu minut mogê wydrukowaæ wszystkie dokumenty i zarejestrowaæ twój numer identyfikacyjny.}
 {161}{}{A co, gdybym powiedzia³ komuœ, ¿e wciskasz ludziom lewe obywatelstwo?}
 {162}{}{Brzmi nieŸle. Oto $200.}
 {163}{}{Hmm, $200 to trochê du¿o. Mam tylko 150.}
 {164}{}{Nie mam teraz kasy na tego rodzaju wydatki. Mo¿e kiedy indziej.}
 {165}{}{Nie, dziêki. Mo¿e kiedy indziej.}
-{166}{}{To proste. NIE UWIERZ¥ ci. Ty jesteœ z zewn¹trz, a ja jestem Obywatelem. Zgadnij, komu uwierz¹?}
-{167}{}{W takim razie wezmê te papiery.}
+{166}{}{To proste. NIE UWIERZ¥ ci. Ty jesteœ z zewn¹trz, a ja jestem obywatelem. Zgadnij, komu uwierz¹?}
+{167}{}{W takim razie kupiê te papiery.}
 {168}{}{Kupiê papiery... ale za 150, nie za 200.}
-{169}{}{Có¿, 200 dolców to dla mnie trochê za du¿o. Mo¿e wrócê, jak siê trochê dorobiê.}
+{169}{}{Có¿, $200 to dla mnie trochê za du¿o. Mo¿e wrócê, jak bêdê mieæ wiêcej wolnej kasy.}
 {170}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {171}{}{Hmmm. No dobra, mam dziœ ochotê na trochê dobroczynnoœci. Ale nie mów ¿adnemu ze swoich obcych przyjació³, ¿e sprzeda³em ci je tak tanio.}
-{172}{}{No dobra.}
+{172}{}{Dobrze.}
 {173}{}{Po prostu daj mi te cholerne papiery.}
-{174}{}{Dobra, ju¿ wszystko gotowe. Oto twoje papiery... "Obywatelu". I nikomu o tym nie mów, W SZCZEGÓLNOŒCI Wallace'owi, dobrze?}
-{175}{}{Nie ma sprawy. Nigdy nie zrobi³bym czegoœ takiego tak wspania³emu Obywatelowi jak ty, szczególnie teraz, kiedy dowód twoich nielegalnych poczynañ le¿y sobie w mojej kieszeni.}
+{174}{}{Dobra, ju¿ wszystko gotowe. Oto twoje papiery... "obywatelu". I nikomu o tym nie mów, W SZCZEGÓLNOŒCI Wallace'owi, dobrze?}
+{175}{}{Nie ma sprawy. Nigdy nie zrobi³bym czegoœ takiego tak wspania³emu obywatelowi jak ty, szczególnie teraz, kiedy dowód twoich nielegalnych poczynañ le¿y sobie w mojej kieszeni.}
 {176}{}{Kumam. Nie ma sprawy.}
 {177}{}{Co do...?! Nikt ci nie uwierzy, przybyszu! Moje s³owo przewa¿y nad twoim!}
 {178}{}{Normalnie tak by by³o. Ale te papiery mówi¹ same za siebie. I bêd¹ mówiæ, chyba ¿e zap³acisz za ich milczenie.}
@@ -111,7 +111,7 @@
 {210}{}{Barkusie, znalaz³em tê bandê, gdy pêtali siê po pustkowiach. Ten obcy tutaj wygl¹da na dobry materia³ na S³u¿¹cego.}
 {211}{}{2 Sekundy}
 {212}{}{Musisz ¯ARTOWAÆ. To to jest przecie¿ ca³kiem bezmózgie.}
-{213}{}{1 Sekunda, Nie za³atwiaj jeszcze Barkusa.}
+{213}{}{1 Sekunda, nie za³atwiaj jeszcze Bakusa.}
 {214}{}{Cal-Kiem-Martwe! Buuuum!}
 {215}{}{2 Sekundy}
 {216}{}{Daj spokój. Potrzebujesz kogoœ do pracy w Krypcie, no nie?}
@@ -129,8 +129,8 @@
 {228}{}{Heej. Jak uda³o ci siê uciec? Lepiej wracaj do œrodka, zanim Barkus siê wœcieknie. No ju¿...}
 {229}{}{Ob-raa}
 {230}{}{OdejdŸ, jak gdyby nigdy nic.}
-{231}{}{Jak ju¿ wspomina³em, mogê zrobiæ z ciebie pe³noprawnego Obywatela za $200. Bêdziesz mieæ wolny wstêp za bramê, bez ¿adnych przykroœci. W ci¹gu piêciu minut mogê wydrukowaæ wszystkie dokumenty i zarejestrowaæ twój numer identyfikacyjny.}
-{232}{}{Co trzeba zrobiæ, ¿eby zostaæ prawdziwym Obywatelem?}
+{231}{}{Jak ju¿ wspomina³em, mogê zrobiæ z ciebie pe³noprawnego obywatela za $200. Bêdziesz mieæ wolny wstêp za bramê, bez ¿adnych przykroœci. W ci¹gu piêciu minut mogê wydrukowaæ wszystkie dokumenty i zarejestrowaæ twój numer identyfikacyjny.}
+{232}{}{Co trzeba zrobiæ, ¿eby zostaæ prawdziwym obywatelem?}
 {233}{}{No i co? Mogê pójœæ do niego i powiedzieæ, ¿e sprzedajesz lewe obywatelstwa.}
 {234}{}{Mam tak¹ nadziejê. Potrafiê dzia³aæ ca³kiem przekonuj¹co.}
 {235}{}{Jeszcze zobaczymy.}
@@ -140,20 +140,20 @@
 {239}{}{W takim razie wezmê te papiery.}
 {240}{}{Có¿, 200 dolców to dla mnie trochê za du¿o. Mo¿e wrócê, jak siê trochê dorobiê.}
 {241}{}{Nie, dziêki. Mo¿e innym razem.}
-{242}{}{Co trzeba zrobiæ, ¿eby zostaæ prawdziwym Obywatelem?}
+{242}{}{Co trzeba zrobiæ, ¿eby zostaæ prawdziwym obywatelem?}
 {243}{}{Hmmm. Jeszcze raz - ile chcia³eœ za to obywatelstwo?}
 {244}{}{Jeœli bêdzie trzeba wyrywaæ j¹ z jego martwych palców, zrobiê to.}
-{245}{}{Jak siê zostaje prawdziwym Obywatelem?}
+{245}{}{Jak siê zostaje prawdziwym obywatelem?}
 {246}{}{Niewa¿ne. Nie zawracaj sobie g³owy.}
 {247}{}{Nie, dziêki. Mo¿e innym razem.}
-{248}{}{Jeœli nie jesteœ urodzonym Obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na Obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
+{248}{}{Jeœli nie jesteœ urodzonym obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
 {249}{}{Na czym polega ten egzamin?}
 {250}{}{Rozumiem. Jeszcze raz - ile za te papiery?}
 {251}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{252}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ Obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ Obywateli mia³aby z nim k³opoty.}
+{252}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ obywateli mia³aby z nim k³opoty.}
 {253}{}{Co sprawia, ¿e egzamin jest tak trudny?}
 {254}{}{Rozumiem. Jeszcze raz - ile za te papiery?}
 {255}{}{Hmmm. Mo¿e póŸniej pogadamy.}
-{256}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ Obywatelami.}
+{256}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ obywatelami.}
 {257}{}{Rozumiem. Jeszcze raz - ile za te papiery?}
 {258}{}{Hmmm. Mo¿e póŸniej pogadamy.}

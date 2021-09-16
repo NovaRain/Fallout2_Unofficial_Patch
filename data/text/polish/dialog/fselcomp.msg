@@ -3,12 +3,12 @@
 {102}{}{Widzisz komputer. Pomimo ¿e jest prymitywny, wygl¹da na dobrze utrzymany.}
 {103}{}{Ta jednostka nie przyjmuje komend. Do widzenia.}
 {104}{}{[Pomimo wszystkich twoich prób nie udaje ci siê z³amaæ kodu, który kontroluje ten komputer]}
-{105}{}{Wyloguj.}
+{105}{}{Wyloguj siê.}
 {106}{}{Witamy w CentroLinku.}
 {107}{}{Proszê teraz wprowadziæ komendy.}
 {108}{}{Udostêpnij bazê danych.}
 {109}{}{Udostêpnij sterowanie.}
-{110}{}{Wyloguj.}
+{110}{}{Wyloguj siê.}
 {111}{}{Wybierz bazê danych.}
 {112}{}{Badania.}
 {113}{}{Przysz³e cele.}
@@ -29,13 +29,11 @@
 {128}{}{Wróæ.}
 {129}{}{Wyloguj siê.}
 {130}{}{Operacja wymaga wy¿szych uprawnieñ. Skontaktuj siê z administratorem systemu. Wylogowujê siê. Do widzenia.}
-{131}{}{[Zrobione]}
-{132}{}{Nie widzisz do tego interfejsu.}
+{131}{}{[dalej]}
+{132}{}{Nie widzisz dla tego interfejsu.}
+
 {133}{}{ESS Quetzel zatankowany i gotowy do startu.}
 {134}{}{ESS Quetzel niezatankowany.}
 {135}{}{G³ówny uk³ad w³¹czony. Ruroci¹g dzia³a. Stacje badawcze w³¹czone. Centrum naprawcze sprawne. Kamery aktywne.}
 {136}{}{Wróæ.}
-{137}{}{Wyloguj.}
-{250}{}{Skieruj paliwo do tankowca Posejdona.}
-{251}{}{Paliwo przekierowane zgodnie z planem. Zbiorniki puste. Zamykam program.}
-{252}{}{[Zrobione]}
+{137}{}{Wyloguj siê.}
