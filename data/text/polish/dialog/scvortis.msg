@@ -1,11 +1,11 @@
 {100}{}{Widzisz wychudzonego starca z piórem zatkniêtym za ucho i okularami balansuj¹cymi na koñcu nosa.}
 {101}{}{To Vortis, w³aœciciel tego obozu niewolników.}
 {102}{}{Ma co najwy¿ej trzy zêby. Jego palce i koszula s¹ ubrudzone niebieskim atramentem. Na jego czole widzisz porz¹dnie zamazany tatua¿ ³owcy niewolników.}
-{103}{}{Wiêc, czego chcesz?}
+{103}{}{No, czego chcesz?}
 {104}{}{Bracie, witaj w domu Vortisa. Jak mogê ci pomóc?}
 {105}{}{Zaczynasz mnie denerwowaæ.}
 {106}{}{To miejsce nale¿y do mnie, a ja, Vortis, prowadzê uczciwy i legalny interes bez wzglêdu na to, co mówi¹ ci dranie z RNK. Poniewa¿ RNK nie zezwala na trzymanie niewolników wewn¹trz, ja opiekuje siê nimi dla ludzi, którzy pracuj¹ w mieœcie.}
-{107}{}{G³upi jesteœ, czy co? To jest obóz niewolników. Mam na niego licencje.}
+{107}{}{G³upi jesteœ, czy co? To jest obóz niewolników. Mam na niego licencjê.}
 {108}{}{}
 {109}{}{Mam tylko kilka pytañ.}
 {110}{}{Szukam pracy.}
@@ -26,7 +26,7 @@
 {125}{}{Tak.}
 {126}{}{Nie.}
 {127}{}{Pierdol siê. Ch³opcy, eskortujcie tego palanta do drzwi.}
-{128}{}{Poca³uj mnie gdzieœ!}
+{128}{}{Poca³uj mnie w dupê!}
 {129}{}{Krypta 13! Spadaj st¹d. To przeklête miejsce to mit. Krypta 13, te¿ coœ.}
 {130}{}{Kolejne pytanie...}
 {131}{}{Có¿, dziêki za nic.}
@@ -42,10 +42,10 @@
 {141}{}{Taa, byæ mo¿e mam pewne odczucia co do Stra¿ników. Szukasz pracy?}
 {142}{}{Tak.}
 {143}{}{Nie.}
-{144}{}{Nie, nie wolno ci siê tu szwêdaæ, pojebie! To nie jest muzeum!}
+{144}{}{Nie, nie wolno ci siê tu szwendaæ, pojebie! To nie jest muzeum!}
 {145}{}{Kolejne pytanie...}
 {146}{}{Przestañ mnie ci¹gle obra¿aæ. Spadam st¹d.}
-{147}{}{W takim razie musisz wiedzieæ, ¿e dla niektórych s¹ Ÿród³em nieustannych problemów. By³oby cholernie fajnie mieæ w posiadaniu mapê ich kryjówek na pó³nocy - w Nowym Reno, Klamath, gdziekolwiek. Zap³acê ci, powiedzmy, $500 za coœ takiego. Myœlisz, ¿e mo¿esz to dla mnie zdobyæ?}
+{147}{}{W takim razie musisz wiedzieæ, ¿e dla niektórych s¹ Ÿród³em nieustannych problemów. By³oby cholernie fajnie mieæ w posiadaniu mapê ich kryjówek na pó³nocy - w Nowym Reno, Klamath, gdziekolwiek. Zap³acê ci, powiedzmy, 500$ za coœ takiego. Myœlisz, ¿e mo¿esz to dla mnie zdobyæ?}
 {148}{}{Jasne.}
 {149}{}{Nie wydaje mi siê.}
 {150}{}{W takim razie ci powiem. Ci Stra¿nicy postanowili skoñczyæ raz na zawsze z nami i niewolnictwem. Sprawiaj¹ du¿o k³opotu ciê¿ko pracuj¹cym ludziom.}
@@ -75,3 +75,4 @@
 {174}{}{W porz¹dku, ³apiê o co biega.}
 {175}{}{Co do cholery? Stra¿e! Mamy intruza!}
 {176}{}{WejdŸ tam, a rozpierdolê ci ³eb. Kapujesz?}
+{177}{}{Jest ju¿ póŸno, mamy zamkniête. Wróæ rano.}

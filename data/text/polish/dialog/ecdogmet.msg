@@ -1,25 +1,25 @@
 {100}{}{Widzisz straaasznie groŸnie wygl¹daj¹cego psa.}
 {101}{}{Widzisz Dogmeata.}
 {102}{}{Widzisz Dogmeata.}
-{103}{}{Pies cichutko skamle, gdy dostrzega strój z krypty. Chyba chce iœæ z tob¹.}
-{104}{}{[Zagwizdaj]}
+{103}{}{Pies cichutko skamle, gdy dostrzega strój z Krypty. Chyba chce iœæ z tob¹.}
+{104}{}{[Zagwizdaj.]}
 {105}{}{Nie mogie cie wzi¹æ piesek - mieæ za du¿o ludziów.}
 {106}{}{Y y, piesek. Zostaæ.}
 {107}{}{ChodŸ, piesku. Czas na odrobinê akcji.}
 {108}{}{Nie martw siê, piesku. Wrócê, jak tylko bêdzie w mojej dru¿ynie puste miejsce.}
 {109}{}{Przykro mi, Dogmeat. Nie tym razem.}
 {110}{}{Pies chciwie po³yka iguanê na patyku i spogl¹da na ciebie z wyczekiwaniem.}
-{111}{}{[Zagwizdaj]}
+{111}{}{[Zagwizdaj.]}
 {112}{}{Nie mogie cie wzi¹æ piesek - mieæ za du¿o ludziów.}
 {113}{}{Y y, piesek. Zostaæ.}
 {114}{}{ChodŸ, piesku. Czas na odrobinê akcji.}
 {115}{}{Nie martw siê, piesku. Wrócê, jak tylko bêdzie w mojej dru¿ynie puste miejsce.}
 {116}{}{Przykro mi, Dogmeat. Nie tym razem.}
 {117}{}{Widzisz straaasznie groŸnie wygl¹daj¹cego psa.}
-{118}{}{[Zagwizdaj]}
+{118}{}{[Zagwizdaj.]}
 {119}{}{Nie mogie cie wzi¹æ piesek - mieæ za du¿o ludziów.}
 {120}{}{Czekaæ, piesek. Nie ruszaæ.}
-{121}{}{[Oddal siê]}
+{121}{}{OdejdŸ bez s³owa.}
 {122}{}{ChodŸ, piesku. Czas na odrobinê akcji.}
 {123}{}{Nie martw siê, piesku. Wrócê, jak tylko bêdzie w mojej dru¿ynie puste miejsce.}
 {124}{}{Trzymaj siê blisko mnie, w porz¹dku, piesku?}
@@ -37,4 +37,7 @@
 {136}{}{A³uuuuuuuuuuu}
 {137}{}{Co jest brachu, przypieprzasz siê do mego psiaka.}
 {138}{}{Grrrrr....}
-{139}{}{(Ciekawe, czy uda³oby mi siê namówiæ Dogmeata do pod¹¿ania za mn¹ w jakiœ inny sposób?)}
+{139}{}{[Ciekawe, czy uda³oby mi siê namówiæ Dogmeata do pod¹¿ania za mn¹ w jakiœ inny sposób?]}
+{300}{}{*Skowyt*}
+{301}{}{A³uuuuuuuuuuu! *skowyt*}
+{1110}{}{Pies chciwie po³yka zawartoœæ puszki karmy dla psów i spogl¹da na ciebie z wyczekiwaniem.}

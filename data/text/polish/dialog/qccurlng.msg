@@ -10,7 +10,7 @@
 {109}{}{Jak ci siê uda³o tutaj dostaæ?}
 {110}{}{Wynocha z mojego laboratorium, ¿o³nierzu.}
 {111}{}{Tego obszaru nie mia³eœ patrolowaæ.}
-{112}{}{Wynoœ siê st¹d albo zamelduje twojemu sier¿antowi..}
+{112}{}{Wynoœ siê st¹d albo zamelduje twojemu sier¿antowi.}
 {113}{}{Ruszajcie, ¿o³nierzu.}
 {114}{}{Nie zg³asza³em ¿adnych k³opotów.}
 {115}{}{Witam w Wydziale Chemicznym, ¿o³nierzu. Jestem por. dr Charles Curling. Teraz skoro ju¿ siê znamy - wynocha z mojego laboratorium.}
@@ -55,7 +55,7 @@
 {154}{}{I co z tego, ¿e nasze DNA jest odrobinê inne?}
 {155}{}{Nie do koñca pana zrozumia³em, ale te zmiany chyba nie s¹ a¿ tak powa¿ne?}
 {156}{}{Nie, nie ca³kiem. Jesteœcie odmieñcami, a to was wyklucza. Wasze DNA ró¿ni siê znacznie od naszego. Nieszczêœliwy efekt silnego promieniowania, jak s¹dzê.}
-{157}{}{I co z tego, ¿e nasze DNA jest inne?}
+{157}{}{I co z tego, ¿e nasze DNA jest odrobinê inne?}
 {158}{}{Nie do koñca pana zrozumia³em, ale te zmiany chyba nie s¹ a¿ tak powa¿ne?}
 {159}{}{Och, zmiany w waszym DNA nie s¹ *drobne*. S¹ naprawdê powa¿ne. Gdyby nie to, ¿e ludzie kieruj¹cy Projektem dali mi tak ma³o czasu, chêtnie przeprowadzi³bym mnóstwo testów, by dok³adnie przestudiowaæ zmiany, jakich F.E.V. dokona³ w waszych organizmach. Doprawdy fascynuj¹ce.}
 {160}{}{Czego chcia³eœ siê dowiedzieæ?}
@@ -66,14 +66,14 @@
 {165}{}{G³ównie jest tam trochê bardzo delikatnych zmian. Nie mia³em jednak jeszcze czasu sprawdziæ wszystkich odga³êzieñ tych mutacji. Musia³bym równie¿ cofn¹æ siê wstecz, aby wyizolowaæ wasz pocz¹tkowy genom, zanim bêdê móg³ zaryzykowaæ stwierdzenie w jakim kierunku posz³y zmiany. Ale informacja, któr¹ otrzyma³em, jest wystarczaj¹co jasna.}
 {166}{}{Co jest jasne? Jaka informacja?}
 {167}{}{Tak, byæ mo¿e. Pozwól, ¿e zapytam ciê o coœ innego, doktorku.}
-{168}{}{Informacja, ¿e ty i twoje plemiê nie jesteœcie ju¿ ludŸmi. Znajdowaliœcie siê poza krypt¹ (Krypt¹ 13, tak?) od oko³o osiemdziesiêciu lat. Ka¿dy musia³ ulec mutacji. Obawiam siê, ¿e wniosek jest nieunikniony.}
+{168}{}{Informacja, ¿e ty i twoje plemiê nie jesteœcie ju¿ ludŸmi. Znajdowaliœcie siê poza Krypt¹ (Krypt¹ 13, tak?) od oko³o osiemdziesiêciu lat. Ka¿dy musia³ ulec mutacji. Obawiam siê, ¿e wniosek jest nieunikniony.}
 {169}{}{Wniosek? Jaki wniosek?}
 {170}{}{Có¿, myœla³em, ¿e wyrazi³em siê jasno. Wniosek, ¿e ty i wszyscy twojego pokroju nie jesteœcie ju¿ ludŸmi i musicie zostaæ wyeliminowani, by prawdziwi, nieska¿eni ludzie, tacy jak my, mogli zaj¹æ nale¿ne nam miejsce.}
 {171}{}{Wyeliminowani? Co masz na myœli?}
 {172}{}{Projekt, który Enklawa przygotowywa³a przez ostatnie kilka dekad, polega na przygotowaniu terenów dawnych Stanów Zjednoczonych do zasiedlenia przez ludzi. Bo¿e b³ogos³aw Amerykê!}
 {173}{}{To nie brzmi tak, jakby mia³o zaj¹æ ca³e dekady.}
 {174}{}{Mam ju¿ dosyæ. Pozwól, ¿e zapytam ciê o coœ innego.}
-{175}{}{Och, przygotowanie placówki nie trwa d³ugo. Ju¿ dokonaliœmy tego w Navarro. D³ugo zajê³o nam przygotowanie odpowiedniej metody oczyszczania.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Oczyszczania?}
 {177}{}{Oczywiœcie, nie mo¿emy tak po prostu zejœæ na l¹d ryzykuj¹c, ¿e zarazimy siê od mutantów. By Stany Zjednoczone by³y bezpieczne dla ludzkoœci, mutanty musz¹ zostaæ wyeliminowane.}
 {178}{}{Co!?! Zwariowa³eœ? To potworne!}
@@ -85,16 +85,16 @@
 {184}{}{Nigdy nie myœla³em o tym w ten sposób... Daj mi minutê na przemyœlenie tego wszystkiego jeszcze raz.}
 {185}{}{Proszê bardzo. Mamy czas doktorze, a pan ma du¿o spraw do przemyœlenia.}
 {186}{}{Nie masz nawet minuty. Twój czas w³aœnie siê skoñczy³. ¯egnaj dupku.}
-{187}{}{To niedorzeczne. Jesteœmy do siebie podobni jak dwug³owa krowa do swojej poprzedniczki..}
+{187}{}{To niedorzeczne. Jesteœmy do siebie podobni jak dwug³owa krowa do swojej poprzedniczki.}
 {188}{}{Je¿eli kiedykolwiek istnia³y jednog³owe krowy - to dawno wyginê³y. Ale krowa jako gatunek wyewoluowa³a - sta³a siê silniejsza i odporniejsza. Zmiany i mutacje s¹ integraln¹ czêœci¹ naturalnego porz¹dku.}
 {189}{}{Wybijanie wszystkich na kontynencie nie rozwi¹¿e waszych problemów.}
 {190}{}{Mêczy mnie ta twoja gadka. Czas byœ pozna³ swego stwórcê, doktorku.}
 {191}{}{Twój gatunek nie jest po prostu w stanie zrozumieæ tego, co usi³ujê ci przekazaæ. To beznadziejne. Lepiej ju¿ odejdŸ.}
 {192}{}{No có¿, moje próby zawiod³y. Czas umieraæ, fanatyku.}
 {193}{}{W porz¹dku, idê. Jeden z nas ma przerypane - i to nie jestem ja. ¯egnam.}
-{194}{}{Toksykologiczne studia nad efektywnoœci¹ toksyny F.E.V. tak.}
+{194}{}{Toksykologiczne badania nad efektywnoœci¹ toksyny F.E.V. tak.}
 {195}{}{Toksyna F.E.V.? Co to takiego?}
-{196}{}{Pozwól, ¿e zapytam o coœ innego.}
+{196}{}{Mogê ciê zapytaæ o coœ jeszcze?}
 {197}{}{Toksyna F.E.V. to idealne rozwi¹zanie wszystkich naszych problemów.}
 {198}{}{Czym jest toksyna F.E.V.?}
 {199}{}{Chwileczkê. Pozwól, ¿e zapytam o coœ innego.}
@@ -102,10 +102,10 @@
 {201}{}{Tak, wiem dobrze gdzie to znaleŸliœcie, ale co to robi?}
 {202}{}{F.E.V. zosta³ zaprojektowany jako wirus maj¹cy za zadanie zmieniaæ zwyk³ych ludzi w super-¿o³nierzy. Tamten eksperyment zakoñczy³ siê fiaskiem. Pomimo to dokona³em pewnych modyfikacji i w tej postaci przetestowa³em na jednym z naszych agentów - odnios³em nawet czêœciowy sukces.}
 {203}{}{Brawo, ale jaki to ma zwi¹zek z planami eksterminacji kogokolwiek?}
-{204}{}{Ach tak, có¿, w³aœnie do tego przechodzi³em... Wi¹zanie wirusa F.E.V. jest bardzo specyficzne, powi¹zuje siê tylko z ludzkimi glikoproteinami. Potrzbowa³em tylko kilku lat, aby uczyniæ F.E.V bardziej zabójczym, ni¿ by³ do tej pory. Rezultat by³ perfekcyjny w ka¿dym calu.}
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfekcyjny? Jak to?}
 {206}{}{Czy to nie oczywiste, mój zmutowany przyjacielu? F.E.V, dziêki mnie, jest œmierteln¹ trucizn¹, a dziêki jakiemuœ tajemniczemu geniuszowi, nazywaj¹cemu siê, raczej dramatycznie, Mistrzem, dzia³a tylko na ludzi, zmutowanych lub nie.}
-{207}{}{Wiêc?}
+{207}{}{I co z tego?}
 {208}{}{To znaczy, ¿e mamy doskona³¹ maszynkê do oczyszczania dla wszystkich prawie ludzkich mutantów infekuj¹cych Ziemiê. }
 {209}{}{Wci¹¿ nie rozumiem, jak to mo¿e byæ *doskona³e*.}
 {210}{}{Muszê ciê spytaæ o jakieœ inne twoje szalone pomys³y.}
@@ -148,12 +148,12 @@
 {247}{}{Gdy gwiazdami zap³aka³o,}
 {248}{}{Czy szczêœliwy pracê z³o¿y³?}
 {249}{}{Pan Baranka - ciebie stworzy³?}
-{250}{}{Co?}
+{250}{}{Hê?}
 {251}{}{Och, tylko coœ, co przypomnia³em sobie z dawno zmar³ego poety. Ciekawe, czy wci¹¿ jest miejsce dla tych, którzy pracowali tak d³ugo dla tak ciemnego koñca. Nasz czas jest skoñczony, wasz siê dopiero zacz¹³. IdŸ ju¿!}
 {252}{}{Och, w porz¹dku, dziêkujê za ca³¹ twoj¹ pomoc, doktorze. Jesteœ odwa¿nym cz³owiekiem.}
 {253}{}{Jesteœ wariatem - ale u¿ytecznym wariatem. ¯egnaj.}
 {254}{}{IdŸ ju¿!}
-{255}{}{Uciekaj st¹d.}
+{255}{}{Wynoœ siê st¹d.}
 {256}{}{Rusz siê!}
 {257}{}{Nie masz na to czasu!}
 {258}{}{IdŸ, gdy jeszcze mo¿esz!}

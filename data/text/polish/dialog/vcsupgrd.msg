@@ -41,11 +41,11 @@
 {140}{}{Czy mo¿esz mi powiedzieæ, gdzie jest G³ówny Komputer Krypty?}
 {141}{}{Aha. Œwietnie siê z tob¹ rozmawia³o. Na razie.}
 {142}{}{O-on je-jezd t-tutaj. To t-t-ten ga-ga-gad¹jacy ko-komputer.}
-{143}{}{(On jest tutaj. To ten gadaj¹cy komputer.}
+{143}{}{(On jest tutaj. To ten gadaj¹cy komputer.)}
 {144}{}{Co masz tutaj do roboty?}
-{145}{}{Dziêki. Na razie.}
-{146}{}{Rzuæ cz-czasem o-okiem na rz-rzeczy tu magazynofane. U-U-pewnij ziem, ¿e fszystkie drzwi s¹ zam-zamkniete.}
-{147}{}{(Rzuæ czasem okiem na rzeczy tu zmagazynowane. Upewnij siê, ¿e wszystkie drzwi s¹ zamkniête.)}
+{145}{}{Dziêki. Do zobaczenia.}
+{146}{}{Rzuciæ cz-czasem o-okiem na rz-rzeczy tu magazynofane. U-U-pewniæ ziem, ¿e fszystkie drzwi s¹ zam-zamkniete.}
+{147}{}{(Rzuciæ czasem okiem na rzeczy tu zmagazynowane. Upewniæ siê, ¿e wszystkie drzwi s¹ zamkniête.)}
 {148}{}{Masz klucz?}
 {149}{}{Co tutaj przechowujecie?}
 {150}{}{Zobaczymy siê nied³ugo. Czeœæ.}
@@ -61,7 +61,7 @@
 {160}{}{(Rudê z Redding. Nie ma jej obecnie tak du¿o.)}
 {161}{}{Nie ma du¿o rudy z Redding? Dlaczego?}
 {162}{}{Aha. Dziêki za informacje.}
-{163}{}{Ni-nie wiem. Mak-MakLure jezd powa¿nie za-zaniepokojony w zw-zwi¹zku z tom sytuacjom.}
+{163}{}{Ni-nie wiem. Mak-MakKlure jezd powa¿nie za-zaniepokojony w zw-zwi¹zku z tom sytuacjom.}
 {164}{}{(Nie wiem. McClure jest powa¿nie zaniepokojony w zwi¹zku z t¹ sytuacj¹.)}
 {165}{}{Czy mo¿esz mi powiedzieæ, gdzie jest G³ówny Komputer?}
 {166}{}{Wobec tego mo¿e porozmawiam w³aœnie z nim. Dziêki.}
@@ -69,12 +69,12 @@
 {168}{}{(Witaj ponownie. Potrzebujesz czegoœ?)}
 {169}{}{Geeechk}
 {170}{}{Czy móg³byœ ju¿ przestaæ œpiewaæ, do jasnej cholery?! Oszaleje przez to.}
-{171}{}{Masz wymarzony glos do œpiewania. Powiniennes wiêcej æwiczyæ.}
+{171}{}{Masz wymarzony g³os do œpiewania. Powinieneœ wiêcej æwiczyæ.}
 {172}{}{Powiedz mi raz jeszcze, co masz tutaj do roboty?}
 {173}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}
 {174}{}{Dz-dziêki! Za-zawsze mi-mi³o u-us³yszeæ coŸ takiego.}
 {175}{}{Powiedz mi raz jeszcze, co masz tutaj do roboty?}
-{176}{}{Pomyœla³em po prostu, ¿e bêdziesz wiedzia³. Trzymaj siê.}
+{176}{}{Po prostu przysz³o mi do g³owy, ¿e powinieneœ wiedzieæ. Trzymaj siê.}
 {177}{}{P-p-pewnie. Z-z-zaraz pszestane.}
 {178}{}{(Pewnie. Zaraz przestanê.)}
 {179}{}{Aha... powiedz mi raz jeszcze, co masz tutaj do roboty?}

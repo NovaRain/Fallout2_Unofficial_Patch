@@ -1,6 +1,5 @@
 {100}{}{Widzisz stra¿nika mostu.}
 {101}{}{Widzisz Mynoca, stra¿nika mostu.}
-
 {150}{}{Przed tob¹ stoi wielki wojownik z twojej wioski, trzymaj¹cy w³ócznie.}
 {151}{}{[ROZMAWIAJ]}
 {152}{}{Witaj, Dziecko Przeznaczenia. Wyruszasz, by odnaleŸæ GECK?}
@@ -25,9 +24,9 @@
 {171}{}{Dziêkujê. Muszê iœæ. Do zobaczenia.}
 {172}{}{Mam nadziejê.}
 {173}{}{Przez tw¹ zarozumia³oœæ wszyscy cierpimy! ¯egnaj!}
-{174}{}{Do widzenia.}
+{174}{}{¯egnaj.}
 {175}{}{Dlaczego? Rozejrzyj siê - nasza wioska umiera. Ogrody usychaj¹ a ka¿dego dnia dzieci i starcy s³abn¹. Musisz pomóc nam stworzyæ tu Cudown¹ Krainê zanim bêdzie za póŸno!}
-{176}{}{Zajmê siê tym. Do zobaczenia.}
+{176}{}{And I will take care of it.  Goodbye.}
 {177}{}{Jestem Dzieckiem Przeznaczenia - "muszê" robiæ tylko to na co mam ochotê. ¯egnaj.}
 {178}{}{Nie pamiêtam jego imienia. Wiem tylko, ¿e by³ stary i ha³aœliwy - zbyt ha³aœliwy jak na dobrze wychowanego cz³owieka - ale wiedzia³ du¿o rzeczy. Pochodzi³ z Klamath, to na wschód st¹d.}
 {179}{}{Dziêkujê, do widzenia.}
@@ -48,12 +47,12 @@
 {194}{}{Robi mi siê niedobrze od twego nieustannego zrzêdzenia.}
 {195}{}{Dlaczego wiêc rozmawiasz ze mn¹? Porozmawiaj z nimi i przynieœ nam GECK.}
 {196}{}{Zrobiê to - wszystko w swoim czasie, przyjacielu.}
-{197}{}{Mam doœæ twojego ci¹g³ego zrzêdzenia.}
+{197}{}{Robi mi siê niedobrze od twego nieustannego zrzêdzenia.}
 {198}{}{I co z GECKiem, Dziecko?}
 {199}{}{Wiem, gdzie jest Krypta!}
 {200}{}{Nie uda³o mi siê odnaleŸæ Krypty 13.}
 {201}{}{No popatrz, to¿ to Dziecko Przeznaczenia.}
-{202}{}{Witaj.}
+{202}{}{Czeœæ.}
 {203}{}{Zamknij siê.}
 {204}{}{Czy mogê ci zadaæ pytanie?}
 {205}{}{Nie, nie mam dla ciebie czasu.}
@@ -67,7 +66,6 @@
 {213}{}{Twoja zdrada zgubi nasz lud.}
 {214}{}{Dlaczego to robisz?}
 {215}{}{Starsza siê myli³a. Widzê z³o w twoich oczach.}
-
 {300}{}{Ojciec nauczy³ mnie, jak uczyniæ ostrze silniejszym. Daj mi kawa³ek krzemienia, a naostrzê równie¿ twoj¹ w³óczniê. Przyda ci siê na Pustkowiach.}
 {301}{}{Gdzie mogê znaleŸæ krzemieñ?}
 {302}{}{Podobno twoja ciotka Morlis ma kawa³ek. Jest tak wredna, ¿e nie s¹dzê, aby ktoœ j¹ o to pyta³. Oczywiœcie wiedŸma bêdzie chcia³a czegoœ w zamian.}
@@ -76,15 +74,13 @@
 {305}{}{Tak, mam tu kawa³ek.}
 {306}{}{Jeszcze nie.}
 {307}{}{Powinien siê nadaæ. Daj mi swoj¹ w³óczniê.}
-{308}{}{Proszê bardzo.}
+{308}{}{Trzymaj.}
 {309}{}{Nie mam w³óczni.}
 {310}{}{Robi siê to tak...}
 {311}{}{Dziecko Przeznaczenia bez w³óczni? Có¿, bêdê musia³ daæ ci jedn¹ ze swoich. A teraz do dzie³a...}
 {312}{}{Oto twoja nowa w³ócznia.}
 {313}{}{Dziêki, przyjacielu - ta w³ócznia bardzo mi siê przyda.}
 {314}{}{Tak, ale zastanawia mnie twoja w³ócznia. Wygl¹da trochê nietypowo.}
-
-# added in for time limit
 {400}{}{Witaj w domu, Dziecko! Uda³o ci siê odnaleŸæ Kryptê? Masz GECK?}
 {401}{}{Moja nie go ma.}
 {402}{}{Nie, jeszcze go nie mam.}
@@ -116,12 +112,7 @@
 {428}{}{Przykro mi, wci¹¿ nie wiem, gdzie jest GECK.}
 {429}{}{Mam tego doœæ.}
 {430}{}{Ludzie umieraj¹, a ty siê spokojnie przechadzasz. Mo¿e lepiej bêdzie jak poszukasz gdzieœ indziej zamiast ci¹gle wracaæ tutaj.}
-
 {500}{}{Czy Starsza rozmawia³a ju¿ z tob¹?}
-
-#############################################################
-# TELL - ME - ABOUTS #
-#############################################################
 {1000}{}{Starsza}
 {1001}{}{Za³o¿yciel}
 {1002}{}{Przybysz z Krypty}
@@ -134,7 +125,6 @@
 {1009}{}{Proszek Leczniczy}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-
 {1100}{}{Starsza jest nasz¹ matk¹ i przywódczyni¹.}
 {1101}{}{To nasz wielki przodek, który da³ nam wiedzê.}
 {1102}{}{Pierwszy, który walczy³ i zwyciê¿y³ chaos.}

@@ -16,29 +16,29 @@
 {115}{}{Witam, jestem doktor Johnson. Bêdê musia³ bli¿ej przyjrzeæ siê twoim przyjacio³om, je¿eli chcesz, abym siê nimi zaj¹³. Nie wygl¹daj¹ zbyt dobrze.}
 {116}{}{Cokolwiek z³apaliœcie, przyjaciele, jestem pewny, ¿e mogê to wyleczyæ. Jestem doktor Johnson.}
 {117}{}{NieŸle siê balowa³o, nie? Có¿, niech doktor Johnson rzuci na to oko. Spokojnie, jestem profesjonalist¹.}
-{118}{}{Ch³opaki, w co wyœcie siê wpakowali? Pozwólcie staremu doktorowi Johnsonowi spojrzeæ na to.}
+{118}{}{Ludzie, w co wyœcie siê wpakowali? Pozwólcie staremu doktorowi Johnsonowi spojrzeæ na to.}
 {119}{}{Dziêki, doktorze. Ile to bêdzie kosztowa³o?}
 {120}{}{Chcê tylko kupiæ pewne towary.}
 {121}{}{Nie potrzebujê w tej chwili leczenia a¿ tak bardzo, jak odpowiedzi na pewne pytania.}
 {122}{}{Mi³o mi poznaæ, ale nie s¹dzê, aby obecnie potrzebne mi by³o jakieœ leczenie. Mimo wszystko dziêki, doktorze. Do widzenia.}
-{123}{}{To bêdzie kosztowaæ $50, a bêdziesz jak nowo narodzone niemowlê.}
-{124}{}{Za wyleczenie twojego przyjaciela wezmê $50. Gwarantujê, ¿e bêdzie jak nowy.}
+{123}{}{To bêdzie kosztowaæ 50$, a bêdziesz jak nowo narodzone niemowlê.}
+{124}{}{Za wyleczenie twojego przyjaciela wezmê 50$. Gwarantujê, ¿e bêdzie jak nowy.}
 {125}{}{Oto pieni¹dze, doktorze.}
 {126}{}{Chyba nie mogê sobie na to pozwoliæ w tej chwili. Przykro mi, doktorze, mo¿e innym razem.}
-{127}{}{$50, co? Mo¿e za³atwiê to póŸniej. Do zobaczenia, doktorze.}
-{128}{}{Powiem ci tak: dam wam grupowy upust, szczególnie widz¹c, jak wygl¹dacie. Za $100 doprowadzê was do normalnoœci.}
+{127}{}{50$, co? Mo¿e za³atwiê to póŸniej. Do zobaczenia, doktorze.}
+{128}{}{Powiem ci tak: dam wam grupowy upust, szczególnie widz¹c, jak wygl¹dacie. Za 100$ doprowadzê was do normalnoœci.}
 {129}{}{Oto twoje pieni¹dze, doktorze. Ulecz nas.}
 {130}{}{Chyba nie mo¿emy sobie na to pozwoliæ w tej chwili. Przykro mi, doktorze, mo¿e innym razem.}
-{131}{}{$100, co? Mo¿e za³atwimy to póŸniej. Do zobaczenia, doktorze.}
-{132}{}{Wygl¹da na to, ¿e nie czujesz siê zbyt dobrze. Mogê zlikwidowaæ tê dolegliwoœæ za $100. Chcesz, abym spróbowa³?}
-{133}{}{Twój kumpel nie czuje siê zbyt dobrze. Chyba mogê mu pomóc za $100. Chcesz, abym spróbowa³?}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{132}{}{Wygl¹da na to, ¿e nie czujesz siê zbyt dobrze. Mogê zlikwidowaæ tê dolegliwoœæ za 100$. Chcesz, abym spróbowa³?}
+{133}{}{Twój kumpel nie czuje siê zbyt dobrze. Chyba mogê mu pomóc za 100$. Chcesz, abym spróbowa³?}
 {134}{}{Mam nadziejê, ¿e to bêdzie wiêcej ni¿ próba, doktorze. Oto twoje pieni¹dze.}
 {135}{}{Chyba nie mogê sobie na to pozwoliæ w tej chwili. Przykro mi, doktorze, mo¿e innym razem.}
-{136}{}{$100, co? Mo¿e za³atwiê to póŸniej. Do zobaczenia, doktorze.}
-{137}{}{Co za banda chorych ptaszków. Có¿, mogê spróbowaæ was uleczyæ i usun¹æ dolegliwoœci, ale bêdzie to was kosztowaæ $150. Mam siê tym zaj¹æ?}
+{136}{}{100$, co? Mo¿e za³atwiê to póŸniej. Do zobaczenia, doktorze.}
+{137}{}{Co za banda chorych ptaszków. Có¿, mogê spróbowaæ was uleczyæ i usun¹æ dolegliwoœci, ale bêdzie to was kosztowaæ 150$. Mam siê tym zaj¹æ?}
 {138}{}{Tak, proszê. Oto pieniadzê, doktorze.}
 {139}{}{Chyba nie mo¿emy sobie na to pozwoliæ w tej chwili. Przykro mi, doktorze, mo¿e innym razem.}
-{140}{}{$150, co? Mo¿e za³atwiê to póŸniej. Do zobaczenia, doktorze.}
+{140}{}{150$, co? Mo¿e za³atwiê to póŸniej. Do zobaczenia, doktorze.}
 {141}{}{Bardzo chcia³bym ci pomóc, ale nie masz pieniêdzy, aby pokryæ rachunek. Sprzêt i medykamenty niestety kosztuj¹.}
 {142}{}{Ej, doktorku, zrób to dla nas. Przecie¿ widzisz, ¿e potrzebujemy twojej pomocy.}
 {143}{}{Wrócê z potrzebnymi pieniêdzmi. Do zobaczenia.}
@@ -80,7 +80,8 @@
 {179}{}{Ee, dobra, pomyœlê nad tym. Do widzenia, doktorze.}
 {180}{}{Ostatnio wydaje siê, ¿e wiêcej górników zajmuje siê odlotem po Jecie, ni¿ wydobywaniem. Je¿eli tak dalej bêdzie, to produkcja z³ota w Redding zostanie wstrzymana. Ale Nowe Reno nie wygl¹da na bardzo przejête.}
 {181}{}{Wszyscy tutejsi górnicy pracuj¹ tylko tyle, aby wystarczy³o im na nastêpn¹ dzia³kê Jetu. Tutejsza produkcja naprawdê zwolni³a tempo. Je¿eli tak dalej pójdzie, Nowe Reno zaw³adnie Redding.}
-{182}{}{Ostatnio jedyne, co robi¹ tutaj górnicy, to bycie na haju. Praktycznie nikt ju¿ nie wydobywa z³ota. Bojê siê, ¿e Nowe Reno przejmie to miasto. Chcia³bym bardzo, aby by³ jakiœ sposób na powstrzymanie tego uzale¿nienia od Jetu.}
+{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{A co ma z tym wspólnego Nowe Reno?}
 {184}{}{Sk¹d pochodzi Jet?}
 {185}{}{Rozumiem. Pozwól, ¿e spytam o coœ innego.}
@@ -101,13 +102,16 @@
 {200}{}{Co Nowe Reno mia³o z tym wspólnego?}
 {201}{}{Cieszê siê, ¿e zadzia³a³o, doktorze. Do zobaczenia.}
 {202}{}{Rozwi¹zanie? Co masz na myœli?}
-{203}{}{To znaczy, ¿e mam antidotum na Jet. Zsyntezowa³ je dr Troy z Kryptopolis, powinno rozwi¹zaæ tutejszy problem uzale¿nienia od Jetu.}
+{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
+ Jet-addiction problem that you have here.}
 {204}{}{Ach, nic takiego. Pozwól, ¿e spytam o coœ innego, doktorze.}
 {205}{}{O tak. Za du¿o Jetu, za ma³o pracy... ale kto ci o tym powiedzia³?}
 {206}{}{McClure w Kryptopolis.}
 {207}{}{Po prostu zas³yszana plotka, to wszystko.}
 {208}{}{To nie jest takie wa¿ne. Pozwól, ¿e zadam ci inne pytania.}
-{209}{}{Nowe Reno sprzedaje Jet doœæ tanio. Jet jest bardzo uzale¿ni¹jacy, jak nic, co kiedykolwiek mog³o ci byæ znane. Doszli do wniosku, ¿e je¿eli uda im siê na jakimœ terenie przekonaæ do brania wystarczaj¹c¹ liczbê ludzi, to ci ludzie zrobi¹ wszystko, aby dostaæ wiêcej. To de facto daje im kontrolê nad takim terenem - jak Redding.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Rozumiem. Spytam ciê o coœ jeszcze, doktorze.}
 {211}{}{A wiêc je¿eli nie chcesz, aby Nowe Reno kontrolowa³o Redding, to kogo widzia³byœ na jego czele?}
 {212}{}{Dziêki za twoje wyjaœnienia. Do widzenia, doktorze.}
@@ -124,7 +128,7 @@
 {223}{}{Tak, jak ja to widzê, najlepsz¹ szans¹ dla Redding by³oby przejêcie w³adzy przez Kryptopolis. Stamt¹d pochodzê - wiêc mogê byæ stronniczy - ale naprawdê uwa¿am, ¿e Kryptopolis mo¿e lepiej pomóc obywatelom Redding.}
 {224}{}{Dlaczego?}
 {225}{}{Dlatego, ¿e oni zawiaduj¹ Kryptopolis w sprawiedliwy i humanitarny sposób. To samo zrobiliby dla Redding. Jestem tego pewny.}
-{226}{}{Kryptopolis dobrze opiekuje siê swoimi obywatelami, ale nie-obywateli traktuj¹ jak œmieci.}
+{226}{}{Kryptopolis dobrze opiekuje siê swoimi Obywatelami, ale nie-obywateli traktuj¹ jak œmieci.}
 {227}{}{Rozumiem, doktorze. To z pewnoœci¹ ma sens.}
 {228}{}{Szybko zrozumiej¹ korzyœci. Jestem pewny, ¿e powitaj¹ rz¹dy Kryptopolis z otwartymi ramionami, ee... z biegiem czasu.}
 {229}{}{Rozumiem. Pozwól, ¿e spytam ciê o coœ nie zwi¹zanego z polityk¹.}
@@ -132,7 +136,9 @@
 {231}{}{Nonsens. Kryptopolis daje specjalne przywileje mieszkañcom, ale tylko dlatego, ¿e s¹ bardziej stworzeni do cieszenia siê tymi rzeczami, ni¿ nieokrzesani nie-obywatele. Poza tym ka¿dy mo¿e otrzymaæ obywatelstwo, je¿eli przejdzie test.}
 {232}{}{Nie wiem, jak ludzie zareaguj¹ tutaj w Redding na rz¹dy Kryptopolis.}
 {233}{}{Ta, bez w¹tpienia. Do zobaczenia, doktorze.}
-{234}{}{Nape³niam inhalatory Jetem, a potem rozprowadzam go z czystego obywatelskiego obowi¹zku. Nie zarabiam na tym. Gdyby nie ja, to jakiœ inny palant przygotowywa³by narkotyk u¿ywaj¹c pe³nego zarazków, zardzewia³ego sprzêtu. Nigdy bym po czymœ takim nie uwolni³ tej spo³ecznoœci od zarazy.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Jaki mi³y z ciebie facet, doktorze. To wspania³e. W takim razie zapytam ciê o coœ innego.}
 {236}{}{Jak¿e *szlachetnie* z twojej strony, doktorze.}
 {237}{}{Interesuj¹ce. Zobaczymy siê póŸniej, doktorze. Do widzenia.}
@@ -142,7 +148,7 @@
 {241}{}{Dr Troy? Znam go. Niezwykle utalentowany lekarz. Pracowaliœmy razem, gdy by³em jeszcze w Kryptopolis. Powiedz mi o tym antidotum.}
 {242}{}{Pracowa³eœ w Kryptopolis?}
 {243}{}{Dr Troy powiedzia³, ¿e mam przynieœæ ci antidotum, i ¿e bêdziesz wiedzia³, co z nim zrobiæ.}
-{244}{}{Tak, to tam otrzyma³em wykszta³cenie medyczne. Jestem obywatelem Kryptopolis. Odkry³em, ¿e jest wiele miejsc na œwiecie, gdzie moja wiedza medyczna bêdzie bardziej przydatna ni¿ tam. Tak siê tu znalaz³em. A teraz, co do tego antidotum...}
+{244}{}{Tak, to tam otrzyma³em wykszta³cenie medyczne. Jestem Obywatelem Kryptopolis. Odkry³em, ¿e jest wiele miejsc na œwiecie, gdzie moja wiedza medyczna bêdzie bardziej przydatna ni¿ tam. Tak siê tu znalaz³em. A teraz, co do tego antidotum...}
 {245}{}{Dr Troy powiedzia³, ¿e mam przynieœæ ci antidotum, i ¿e bêdziesz wiedzia³, co z nim zrobiæ.}
 {246}{}{Rzeczywiœcie. Daj mi je.}
 {247}{}{Oto ono, doktorze.}
@@ -155,11 +161,11 @@
 {254}{}{Czy nie bêd¹ ciê podejrzewaæ, doktorze?}
 {255}{}{Cieszê siê, ¿e mogê pomóc. Pozwól, ¿e ciê jeszcze o coœ spytam, doktorze.}
 {256}{}{Dobrze. Nie cierpiê tych cholernych "pilotów" Jetu... non-stop na odlocie. Do widzenia, doktorze, ¿yczê szczêœcia.}
-{257}{}{Dobra, masz mnie w garœci. Dam ci za nie $2000. To wszystko, co mam.}
+{257}{}{Dobra, masz mnie w garœci. Dam ci za nie 2000$. To wszystko, co mam.}
 {258}{}{Chyba bêdzie musia³o wystarczyæ. W porz¹dku, oto ono, doktorku.}
 {259}{}{Chyba siê jeszcze z tym wstrzymam. Na razie, doktorku.}
 {260}{}{Mo¿esz tak zrobiæ, ale ode mnie ju¿ wiêcej nie wyci¹gniesz. To naprawdê wszystko, co mam.}
-{261}{}{Có¿, w porz¹dku, chyba wezmê te $2000. Oto antidotum, doktorku.}
+{261}{}{Có¿, w porz¹dku, chyba wezmê te 2000$. Oto antidotum, doktorku.}
 {262}{}{Zobaczymy. Na razie, doktorku.}
 {263}{}{Znam McClure'a. Jest w radzie Kryptopolis. Co ci powiedzia³?}
 {264}{}{¯e produkcja w kopalni le¿y, a ceny z³ota siêgaj¹ zenitu.}
@@ -195,35 +201,36 @@
 {294}{}{Ulepszone implanty os³onowe typu Phoenix.}
 {295}{}{Doktorze, chyba jednak spytam o coœ mniej... ee, inwazyjnego.}
 {296}{}{Raczej w tej chwili nie chcê s³yszeæ o ¿adnej operacji. Do widzenia.}
-{297}{}{Wed³ug tego, co przeczyta³em, podskórny pancerz ochronny zapewnia 5% odpornoœæ na obra¿enia zwyk³e i od wybuchów - ponad to, co daje jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera dwa dni, potrzebny jest jeden pancerz bojowy (na czêœci), i bêdzie ciê to kosztowaæ $5000. Ta operacja powinna byæ doœæ prosta... tak s¹dzê. Hmm, byæ mo¿e nawet nie bêdzie a¿ tyle blizn.}
+{297}{}{Wed³ug tego, co przeczyta³em, podskórny pancerz ochronny zapewnia 5% odpornoœæ na obra¿enia zwyk³e i od wybuchów - ponad to, co daje jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera dwa dni, potrzebny jest jeden pancerz bojowy (na czêœci), i bêdzie ciê to kosztowaæ 5000$. Ta operacja powinna byæ doœæ prosta... tak s¹dzê. Hmm, byæ mo¿e nawet nie bêdzie a¿ tyle blizn.}
 {298}{}{Brzmi wspaniale, doktorze. Zróbmy to. Po prostu nie znoszê ci¹g³ego postrzeliwania, dŸgania i wysadzania w powietrze mojej osoby.}
 {299}{}{Powiedz mi coœ o innych operacjach, doktorze.}
 {300}{}{Wrócê, gdy bêdê mieæ wiêcej pieniedzy, doktorze. Do widzenia}
 {301}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
 {302}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
-{303}{}{Musisz mieæ podskórny pancerz ochronny, zanim bêdê mogl wszczepic ci wersjê ulepszon¹. Ale powiem ci, co ci to powinno daæ. Ulepszenie powinno w sumie daæ ci 10% odpornoœci na obra¿enia zwyk³e i od wybuchów - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje $30000. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich p³yt uderzeniowych pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco kanciasto, ale w op³ywowy sposób. Ale któ¿ nie lubi wygl¹du nowoczesnych samochodów? Spróbujê nie dodawaæ ci z ty³u stateczników.}
-{304}{}{Ulepszony podskórny pancerz ochronny powinien w sumie daæ ci 10% odpornoœci na obra¿enia zwyk³e i od wybuchów - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje $30000. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich p³yt uderzeniowych pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco kanciasto, ale w op³ywowy sposób. Ale któ¿ nie lubi wygl¹du nowoczesnych samochodów? Spróbujê nie dodawaæ ci z ty³u stateczników. Mo¿emy zaczynaæ?}
+{303}{}{Musisz mieæ podskórny pancerz ochronny, zanim bêdê mogl wszczepic ci wersjê ulepszon¹. Ale powiem ci, co ci to powinno daæ. Ulepszenie powinno w sumie daæ ci 10% odpornoœci na obra¿enia zwyk³e i od wybuchów - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 30000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich p³yt uderzeniowych pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco kanciasto, ale w op³ywowy sposób. Ale któ¿ nie lubi wygl¹du nowoczesnych samochodów? Spróbujê nie dodawaæ ci z ty³u stateczników.}
+{304}{}{Ulepszony podskórny pancerz ochronny powinien w sumie daæ ci 10% odpornoœci na obra¿enia zwyk³e i od wybuchów - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 30000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich p³yt uderzeniowych pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco kanciasto, ale w op³ywowy sposób. Ale któ¿ nie lubi wygl¹du nowoczesnych samochodów? Spróbujê nie dodawaæ ci z ty³u stateczników. Mo¿emy zaczynaæ?}
 {305}{}{To wspania³e, doktorze. Zróbmy to. Wci¹¿ jestem w boju i nie przejmujê siê czêœci¹ estetyczn¹.}
 {306}{}{Powiedz mi coœ o innych operacjach, doktorze.}
-{307}{}{Wrócê, gdy bêdê mieæ wiêcej pieniêdzy, doktorze. Do widzenia}
+{307}{}{Wrócê, gdy bêdê mieæ wiêcej pieniedzy, doktorze. Do widzenia}
 {308}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
 {309}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
-{310}{}{Wed³ug raportów, implanty os³onowe typu Phoenix zapewniaj¹ 5% odpornoœæ na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co daje jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni, potrzebny jest jeden pancerz bojowy (dla membran rozpraszaj¹cych ciep³o), i bêdzie ciê to kosztowaæ $8000. Nie martw siê jednak. Ta operacja *powinna* stworzyæ tylko niewielkie blizny - przynajmniej tak czyta³em.}
+{310}{}{Wed³ug raportów, implanty os³onowe typu Phoenix zapewniaj¹ 5% odpornoœæ na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co daje jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni, potrzebny jest jeden pancerz bojowy (dla membran rozpraszaj¹cych ciep³o), i bêdzie ciê to kosztowaæ 8000$. Nie martw siê jednak. Ta operacja *powinna* stworzyæ tylko niewielkie blizny - przynajmniej tak czyta³em.}
 {311}{}{To wspania³e, doktorze. Z pewnoœci¹ nie bêdzie mi ju¿ potrzebny ¿aden ekstra krem z filtrem do twarzy.}
 {312}{}{Powiedz mi coœ o innych operacjach, doktorze.}
-{313}{}{Wrócê, gdy bêdê mieæ wiêcej pieniêdzy, doktorze. Do widzenia}
+{313}{}{Wrócê, gdy bêdê mieæ wiêcej pieniedzy, doktorze. Do widzenia}
 {314}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
 {315}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
-{316}{}{Musisz mieæ implanty os³onowe typu Phoenix zanim bêdê móg³ wszczepiæ ci ulepszon¹ wersjê. Ale powiem ci, co ci to powinno daæ. Ulepszenie powinno w sumie daæ ci 10% odpornoœci na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje $48000. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich rozpraszaczy ciep³a pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco bry³owato, trochê jak przetuczony knur.}
-{317}{}{Ulepszone implanty os³onowe typu Phoenix powinny w sumie daæ ci 10% odpornoœci na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje $48000. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich rozpraszaczy ciep³a pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹d¹æ nieco bry³owato, trochê jak przetuczony knur. Mo¿emy zaczynaæ?}
+{316}{}{Musisz mieæ implanty os³onowe typu Phoenix zanim bêdê móg³ wszczepiæ ci ulepszon¹ wersjê. Ale powiem ci, co ci to powinno daæ. Ulepszenie powinno w sumie daæ ci 10% odpornoœci na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 48000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich rozpraszaczy ciep³a pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco bry³owato, trochê jak przetuczony knur.}
+{317}{}{Ulepszone implanty os³onowe typu Phoenix powinny w sumie daæ ci 10% odpornoœci na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 48000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich rozpraszaczy ciep³a pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹d¹æ nieco bry³owato, trochê jak przetuczony knur. Mo¿emy zaczynaæ?}
 {318}{}{To wspania³e, doktorze. Zróbmy to.}
 {319}{}{Powiedz mi coœ o innych operacjach, doktorze.}
-{320}{}{Wrócê, gdy bêdê mieæ wiêcej pieniêdzy, doktorze. Do widzenia}
-{321}{}{Wrócê, gdy wydobêdê sk¹dœ Pancerz Bojowy, doktorze. Do widzenia.}
+{320}{}{Wrócê, gdy bêdê mieæ wiêcej pieniedzy, doktorze. Do widzenia}
+{321}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
 {322}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
 {323}{}{No, to powinno wystarczyæ. Operacja uda³a siê. Koniec z przejmowaniem siê tak bardzo guzami i siniakami. To pocenie i s³aboœæ min¹ po kilku dniach.}
 {324}{}{Nie s¹dzi³em, ¿e twoja skóra przyjmie tak wiele tych p³yt uderzeniowych, ale mo¿esz wyruszaæ do akcji. Nie tylko, ¿e wygl¹dasz nieco jak Frankenstein, ale i jesteœ chyba równie wytrzyma³y. Ee, unikaj s³oñca, dopóki nie odpadn¹ strupy.}
 {325}{}{Wysz³o chyba dobrze. Implanty os³onowe typu Phoenix wszczepi³y siê o wiele ³adniej, ni¿ przewidywa³em. To uczucie palenia i swêdzenia zapewne minie w ci¹gu paru tygodni... gdy tylko twoje wnêtrznoœci przyzwyczaj¹ siê do w³ókien.}
-{326}{}{Zachodzimy, co? Twoje cia³o napakowane jest rozpraszaczami i membranami rozpraszaj¹cymi ciep³o. Za kilka tygodni przestaniesz wygl¹daæ jak kloc, ale ju¿ raczej nie wygrasz ¿adnego konkursu piêknoœci. Staraj siê nie ruszaæ ropy z przetok, dopóki nie przestan¹ jej wydzielaæ.}
+{326}{}{Dochodzimy do siebie, co? Twoje cia³o napakowane jest rozpraszaczami i membranami rozpraszaj¹cymi ciep³o. Za kilka tygodni przestaniesz wygl¹daæ jak kloc, ale ju¿ raczej nie wygrasz ¿adnego konkursu piêknoœci. Staraj siê nie ruszaæ ropy z naciêæ drena¿owych, dopóki nie przestanie wyp³ywaæ.}
 {327}{}{Dziêki za radê, doktorze. To wspania³e. Hej, pozwól, ¿e spytam o coœ innego.}
 {328}{}{Dziêki za twoj¹ pracê, doktorze. Lepiej ju¿ pójdê. Do zobaczenia.}
+{329}{}{You deliver the Jet antidote to Dr. John.}

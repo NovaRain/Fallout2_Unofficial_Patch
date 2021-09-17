@@ -1,4 +1,4 @@
-{100}{}{Mê¿czyzna.}
-{101}{}{Concorde.}
-{102}{}{Zderza ze sob¹ dwie po³ówki kokosa.}
+{100}{}{Widzisz mê¿czyznê.}
+{101}{}{To jest Concorde.}
+{102}{}{Stuka dwiema po³ówkami orzecha kokosowego.}
 {103}{}{Klip! Klap!}

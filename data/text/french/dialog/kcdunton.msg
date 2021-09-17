@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Tu vois l'un de deux hommes qui se ressemblent comme deux gouttes d'eau. Tous deux ont une musculature très développée et les sourcils broussailleux.}
 {101}{}{Tu vois Chuck Dunton... ou alors c'est peut-être Buck Dunton. En tout cas, c'est l'un des deux.}
 {102}{}{Tu vois un homme grand et très musclé dont le visage, sous ses sourcils broussailleux, affiche un air de brute renfrognée. Exactement comme son frère.}
 {110}{}{T'as intérêt à décamper, sinon mon frère et moi, on va mettre ta petite tête en charpie.}

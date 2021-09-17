@@ -27,7 +27,7 @@
 {136}{}{::Te regarde puis secoue la tête::}
 {137}{}{::Fait un mouvement subtil mais vulgaire::}
 {138}{}{C'est sûrement toi qui est responsable des mutilations de Brahmines.}
-{139}{}{Some of our hunters' have gone missing; you're prob'ly why.}
+{139}{}{Certains de nos chasseurs ont disparu. Tu te demandes peut-être pourquoi.}
 {140}{}{Des Hommeinsectes rôdent autour de la ville.}
 {141}{}{Un Esprit plane sur le canyon à l'Est de la ville.}
 {142}{}{Te laisse pas prendre par l'Esprit Ambulant !}

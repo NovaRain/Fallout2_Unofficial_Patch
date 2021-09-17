@@ -1,10 +1,9 @@
-{100}{}{Ma³y ch³opiec.}
-{101}{}{To Jonny.}
+{100}{}{Widzisz ma³ego ch³opca.}
+{101}{}{Widzisz Jonnyego}
 {102}{}{Blond w³osy, niebieskie oczy... Klasyczny przyk³ad amerykañskiego dzieciaka.}
-
 {150}{}{£aaaaa!}
 {151}{}{Chcê z powrotem mojego psa!}
-{152}{}{Miêczak...}
+{152}{}{Whimper... }
 {153}{}{Obcy!}
 {154}{}{Nareszcie jesteœ, Laddie! Têskni³em za tob¹, ma³y. Dziêki za przyprowadzenie mi mojego psiaka.}
 {155}{}{Hej, nie widzia³em ciê tu wczeœniej.}
@@ -16,7 +15,7 @@
 {166}{}{Twoi rodzice wys³ali mnie za tob¹ na poszukiwania.}
 {168}{}{Czy Vegeir ju¿ wie o tym, ¿e mam wróciæ?}
 {169}{}{Tak. Powiedzia³, ¿e chce, aby twoi rodzice przyszli tu po ciebie.}
-{170}{}{Jeszcze nie.}
+{170}{}{Nie, jeszcze nie.}
 {171}{}{Tatuœ mówi³, ¿e Laddie poszed³ z tob¹, aby mnie szukaæ. Gdzie teraz jest? Têskniê za nim.}
 {172}{}{Przykro mi, Jonny. Laddie zgin¹³, kiedy szukaliœmy ciebie.}
 {173}{}{Rose obieca³a poszukaæ twojego psa.}
@@ -46,14 +45,12 @@
 {197}{}{Tak! Sk¹d wiesz? Pewnie Laddie ci powiedzia³. To taki m¹dry piesek.}
 {199}{}{Pójdziesz ze mn¹, ma³y. Chcê zebraæ nagrodê za przyprowadzenie ciê do domu.}
 {200}{}{Tak, myœlê, ¿e tak bêdzie najlepiej. Wierzê ci, ale s¹dzê, ¿e Vegeir po prostu chce siê upewniæ, ¿e trafiê bezpiecznie do domu. Dziêki za pomoc.}
-{201}{}{Pospiesz siê, proszê. Chcê do domu.}
+{201}{}{Poœpiesz siê, proszê. Chcê do domu.}
 {202}{}{Nie! K³amiesz! Chcê mojego psa! [£aaaaa!]}
 {203}{}{Och nie! Nie wiesz, ¿e Rose robi z psów jedzenie! Laddie jest ju¿ pewnie potrawk¹!}
-
 {300}{}{Laddie!!!}
-
-{400}{}{Dziêkujê panu za uratowanie mnie.}
+{400}{}{Dziêkujê, ¿e mnie pan uratowa³.}
 {401}{}{Jak to dobrze byæ znowu w domu!!}
 {402}{}{Juhuu...}
 {403}{}{Wiesz, ju¿ nie bojê siê ciemnoœci!}
-{404}{}{Dziêkujê pani za uratowanie mnie.}
+{404}{}{Dziêkujê, ¿e mnie pani uratowa³a.}

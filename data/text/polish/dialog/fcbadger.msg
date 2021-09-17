@@ -6,7 +6,7 @@
 {105}{}{Ty kto?}
 {106}{}{Kim jesteœ?}
 {107}{}{Co mo¿esz mi powiedzieæ o tym tankowcu?}
-{108}{}{Czym siê tu zajmujesz?}
+{108}{}{Czym siê tutaj zajmujesz?}
 {109}{}{Chcê, ¿ebyœ w³ama³ siê dla mnie do komputera.}
 {110}{}{Jak tam idzie hackowanie?}
 {111}{}{Nic takiego. £adne bekniêcie.}
@@ -20,7 +20,7 @@
 {119}{}{A co robisz z tymi komputerami?}
 {120}{}{Za³o¿ê siê, ¿e twój zespó³ by³ do dupy.}
 {121}{}{Dobry by³ ten wasz zespó³?}
-{122}{}{Dziêki. Nara.}
+{122}{}{Dziêki. Na razie.}
 {123}{}{Ee... dobra.}
 {124}{}{Na razie!}
 {125}{}{O tym nale¿y rozmawiaæ z Markiem lub z Kapitanem.}
@@ -28,7 +28,7 @@
 {127}{}{Gdzie mogê znaleŸæ Kapitana?}
 {128}{}{Jestem tutejszym geniuszem komputerowym.}
 {129}{}{A co robisz z tymi komputerami?}
-{130}{}{Dziêki. Nara.}
+{130}{}{Dziêki. Na razie.}
 {131}{}{Nie wkurzaj mnie ::pierdzi:: Pracujê nad tym, nie?}
 {132}{}{Dobra, dobra. Tylko daj mi znaæ, jak skoñczysz.}
 {133}{}{Có¿. Powiedzmy, ¿e jestem specjalist¹ od wydobywania informacji.}
@@ -42,21 +42,21 @@
 {141}{}{Ee. Jasne. Mam kilka innych pytañ.}
 {142}{}{Za³o¿ê, siê, ¿e dawaliœcie nieŸle... dupy.}
 {143}{}{Marka zazwyczaj mo¿na znaleŸæ w barze.}
-{144}{}{Dziêki. Mam jeszcze kilka pytañ.}
+{144}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {145}{}{Dziêki. To wszystko.}
 {146}{}{Kapitan jest zazwyczaj na mostku. Schodami przez bar.}
-{147}{}{Dziêki. Mam jeszcze kilka pytañ.}
+{147}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {148}{}{Dziêki. To wszystko.}
 {149}{}{Dobra, ale bêdzie ciê to kosztowaæ.}
 {150}{}{Ile?}
 {151}{}{Dobra, jak chcesz. Muszê lecieæ.}
 {152}{}{To znaczy, ¿e mogê znaleŸæ dane, których potrzebujesz.}
-{153}{}{Mo¿esz coœ dla mnie zrobiæ?}
+{153}{}{Zrobisz coœ dla mnie?}
 {154}{}{Rozumiem. Fajnie. Mam jeszcze inne pytania.}
 {155}{}{Rozumiem. Dziêki.}
 {156}{}{Tak, warto by by³o. Tak czy siak, muszê wracaæ do roboty.}
 {157}{}{Czekaj, mam jeszcze kilka pytañ.}
-{158}{}{Dziêki. Na razie.}
+{158}{}{Dziêki. Trzymaj siê.}
 {159}{}{Chyba lubiê ciê na tyle, ¿eby to dla ciebie zrobiæ. Kogo mam odwiedziæ?}
 {160}{}{Centrologów.}
 {161}{}{Shi.}
@@ -69,14 +69,14 @@
 {168}{}{Za³atwione. Na razie.}
 {169}{}{Zapomnij. Nara.}
 {170}{}{Jakbym krad³ dziecku cukierki. Nigdy mnie nie znajd¹. Czego od nich chcesz?}
-{171}{}{Œwietnie. Mam jeszcze kilka pytañ.}
+{171}{}{Œwietnie. Mam wiêcej pytañ.}
 {172}{}{Œwietnie. Czekaj tu na mnie.}
-{173}{}{Mogê siê do nich dobraæ. NieŸle broni¹ swoich danych, a ich maszyny doskonale zabezpieczaj¹ programy. Na pewno mam siê tam dostaæ?}
+{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines.  Are you sure you want me to go after them?}
 {174}{}{Có¿, ¿yczê szczêœcia. Mam trochê pytañ.}
 {175}{}{Powodzenia. Wrócê tu póŸniej.}
 {176}{}{Hej, znajdŸ moj¹ panienkê, to pogadamy.}
-{177}{}{Dobra, dobra.}
-{178}{}{Nie ¿yje? Nie ¯YJE? Jak zginêla? Nie, czekaj... nic nie mów. Daj mi kilka godzin, muszê siê pozbieraæ.}
+{177}{}{Dobra ju¿, dobra.}
+{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me.  Give me a few hours to get myself together.}
 {179}{}{Oczywiœcie.}
 {180}{}{Otrz¹œnij siê Mistrzuniu. Mamy kupê roboty.}
 {181}{}{W porz¹dku. Ju¿ mi lepiej.}
@@ -99,7 +99,7 @@
 {198}{}{Dobrze ciê znowu widzieæ.}
 {199}{}{Szukam paliwa.}
 {200}{}{S³ysza³em, ¿e Centrologowie maj¹ paliwo. Móg³bym dla ciebie zajrzeæ do ich komputera.}
-{201}{}{Shi krêc¹ tu ca³ym paliwem. Móg³bym zerkn¹æ dla ciebie do ich g³ównego komputera.}
+{201}{}{The Shi have all the fuel around here.  I could take a gander at their mainframe for you.}
 {202}{}{Móg³byœ?}
 {203}{}{Czego do cholery chcesz?}
 {204}{}{Punk Badger, jak s¹dzê?}
@@ -112,11 +112,11 @@
 {211}{}{Czy mo¿esz przelaæ paliwo i zdobyæ plany?}
 {212}{}{Tak, potrzebujê tego, co oni maj¹.}
 {213}{}{Nie, znajdê inny sposób.}
-{214}{}{Ta, ale gówno mo¿e wpaœæ w wiatrak.}
+{214}{}{Ta, ale gówno mo¿e wpaœæ w wentylator.}
 {215}{}{Czy mo¿esz przenieœæ paliwo z ich rezerw do tankowca?}
 {216}{}{Niewa¿ne, zrobiê to inaczej.}
 {217}{}{Niewa¿ne.}
-{218}{}{Dobra. PrzyjdŸ tu za dzieñ lub dwa, a ja dam ci znaæ.}
+{218}{}{Alright.  Check back with me in a day or so and I'll let you know.}
 {219}{}{Zdoby³eœ czego potrzebowa³em?}
 {220}{}{Tia, mam paliwo.}
 {221}{}{Tia, mam plany lataczy.}

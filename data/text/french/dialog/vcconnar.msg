@@ -28,8 +28,7 @@
 {125}{}{Y a-t-il quelque chose que je puisse faire pour aider ?}
 {126}{}{Les gars de la Cité de l'Abri ne sont pas les plus valeureux. Tu leur montres le début d'une résistance et ils détalent comme des lapins. Si nous avions quelques armes, je pense qu'on pourrait les repousser.}
 {127}{}{What sort of guns?}
-{128}{}{Well, I'm good with a shotgun, and we have some people in here that can handle a rifle. I think
- three of those would do.}
+{128}{}{Eh bien, je suis bon avec un fusil de chasse, et nous avons quelques personnes ici qui savent utiliser un fusil. Je pense que trois d'entre eux feraient l'affaire.}
 {129}{}{Je vais voir ce que je peux faire.}
 {130}{}{On ne veut pas de toi ici. Pars maintenant.}
 {131}{}{J'ai changé d'avis. Que puis-je faire pour vous aider ?}

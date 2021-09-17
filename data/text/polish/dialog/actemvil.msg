@@ -22,7 +22,7 @@
 {121}{}{Potrzebujê paru chwil, ¿eby siê przygotowaæ.}
 {122}{}{Droga Dziecka Przeznaczenia nie jest prost¹ œcie¿k¹, }
 {123}{}{. W swoim ¿yciu napotkasz wiele wyzwañ, a najtrudniejszymi z nich bêd¹ te, w których staniesz naprzeciw swoich w³asnych towarzyszy. Nadejd¹ czasy, gdy dyplomacja i uprzejmoœæ oka¿¹ siê bezu¿yteczne i trzeba bêdzie podnieœæ na drugiego rêkê. To wyzwanie przygotowuje ciê na spotkanie twarz¹ w twarz z innym cz³owiekiem oraz potrzebê spojrzenia mu prosto w oczy i zdania sobie sprawy, ¿e byæ mo¿e trzeba bêdzie go zabiæ.}
-{124}{}{Dobra.}
+{124}{}{W porz¹dku.}
 {125}{}{Rozumiem.}
 {126}{}{Nie, musisz mnie tylko pokonaæ. Gdy nadejdzie stosowny czas, zakoñczymy walkê.}
 {127}{}{Moja rozumie.}
@@ -33,7 +33,7 @@
 {132}{}{Rozumiem.}
 {133}{}{Doskonale. Czy mo¿emy zaczynaæ?}
 {134}{}{Moja gotowa.}
-{135}{}{Nie, ja siê najpierw przygotowaæ.}
+{135}{}{Nie, moja musi najpierw siê przygotuje.}
 {136}{}{Zaczynajmy.}
 {137}{}{Nie, potrzebujê chwilkê, ¿eby siê przygotowaæ.}
 {138}{}{Dobrze. Wróæ tu i daj mi znaæ, kiedy siê przygotujesz.}
@@ -68,13 +68,10 @@
 {170}{}{Hmm... rozumiem twój punkt widzenia. Jednak¿e i tak musimy walczyæ. Po prostu postaram siê nie zrobiæ ci zbyt du¿ej krzywdy.}
 {171}{}{Dziêki! Zobaczymy siê w wiosce.}
 {172}{}{Rozumiem.}
-
 {200}{}{Nie przypominam sobie naszej ostatniej walki, Dziecko Przeznaczenia. Nigdy nie przestanê zastanawiaæ siê, jak uda³o ci siê mnie omin¹æ.}
 {201}{}{Masz jêzyk z najczystszego srebra, Dziecko. Twoje umiejêtnoœci w pos³ugiwaniu siê s³owem otworz¹ ci jeszcze wiele drzwi.}
-
 {300}{}{Ja tobie równie¿, Dziecko. Niech duchy poprowadz¹ ciê w twojej misji.}
 {301}{}{Dziêki, Cameronie.}
-
 {302}{}{Dziecko, muszê niestety zauwa¿yæ, ¿e brak ci umiejêtnoœci bojowych. Z mojego doœwiadczenia wynika, ¿e nie zawsze bêdziesz w stanie zapewniæ sobie bezpieczeñstwo z pomoc¹ sprytu i s³ów. Za twoim pozwoleniem nauczê ciê kilku rzeczy, które, jak s¹dzê, oka¿¹ siê bardzo przydatne.}
 {303}{}{Tak, ty uczyæ.}
 {304}{}{Nie, moja nie musi.}
@@ -84,5 +81,5 @@
 {308}{}{Ja dziêkuje Cameron.}
 {309}{}{Dziêkujê, Cameronie. Zapamiêtam twoje s³owa.}
 {310}{}{Niech tak bêdzie. Wróæ, kiedy zmienisz zdanie.}
-{311}{}{Moja dziêkuje Cameron.}
+{311}{}{Ja dziêkuje Cameron.}
 {312}{}{Dziêkujê, Cameronie. Zapamiêtam twoj¹ propozycjê.}

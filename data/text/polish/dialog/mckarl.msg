@@ -1,5 +1,5 @@
 {100}{}{Pewna bardzo pijana osoba. [Ma tabliczkê: "Mogê pracowaæ za jedzenie"]}
-{101}{}{To Karl.}
+{101}{}{Widzisz Karla.}
 {102}{}{Jest on tak brudny, i¿ mo¿na dostrzec jakieœ dzikie kwiaty rosn¹ce w jego w³osach.}
 {150}{}{Hej, masz piwo.}
 {151}{}{Hej, masz butelkê czegoœ mocniejszego.}
@@ -20,24 +20,24 @@
 {167}{}{Tu dro-obne?}
 {168}{}{Œmieeeeszne.}
 {169}{}{Och, jaka mi³a i hojna osoba. [hik] Jak Karl mo¿e ci dziœ pomóc? [hik] [Zdejmuje swoj¹ czapkê i wyci¹ga przed siebie d³oñ]}
-{170}{}{Masz. Oto $100.}
+{170}{}{Masz. Tu 100$.}
 {173}{}{Wybacz, ale nie mam niczego dla ciebie. Do widzenia.}
-{174}{}{Wiesz mo¿e, gdzie móg³bym odnaleŸæ GECK?}
+{174}{}{Wiesz mo¿e, gdzie znajdê GECKa?}
 {175}{}{Wspomnia³eœ coœ wczeœniej o ogrodzie. Opowiedz mi o tym wiêcej.}
-{178}{}{Moja iœæ.}
+{178}{}{Ja iœæ.}
 {179}{}{Hej, sknero! [hik] Daj spokój, wiem, ¿e masz jakieœ pieni¹dze... [hik] Jakieœ drobne... [hik] cokolwiek, cokolwiek! Oka¿ trochê wspó³czucia.}
-{180}{}{Masz. Oto $25.}
-{184}{}{Masz. Oto $1.}
-{185}{}{Tu kasia.}
-{186}{}{Nie kasia.}
-{187}{}{Czego sobie ¿yczysz?}
+{180}{}{Masz. Tu 25$.}
+{184}{}{Masz. Tu 1$.}
+{185}{}{Tu pin¹dz.}
+{186}{}{Nie pin¹dz.}
+{187}{}{Czego chcesz?}
 {188}{}{[Powtórz Karlowi, co powiedzia³ Jo.]}
 {189}{}{Karl, duchy... one s¹ wszêdzie. Patrz, widzê tam jednego!}
 {190}{}{Gibba gibba.}
 {191}{}{Jesteœ tu [hik] aby siê nabijaæ z biednego Karla? [hik] No dalej, na co czekasz? [hik] Miejmy to ju¿ za sob¹!}
-{198}{}{[Nieco be³kotliwym g³osem.] Mi³o z twojej strony... [hik] $1000 pofffinien mi wyyystarczyæ.}
+{198}{}{[Nieco be³kotliwym g³osem.] Mi³o z twojej strony... [hik] 1000$ pofffinien mi wyyystarczyæ.}
 {199}{}{Jasne, nie ma sprawy.}
-{200}{}{Chyba na rok? Nie ma mowy, dam ci $25.}
+{200}{}{Chyba na rok? Nie ma mowy, dam ci 25$.}
 {201}{}{Myœlisz, ¿e nie mam rozumu? Idê st¹d.}
 {202}{}{[Ze zdumienia Karlowi a¿ opad³a szczêka.] Dziêki! Jesteœ bardzo [hik] hojn¹ osob¹... [hik] Jeœli jezd cokolwiek w czym móg³bym ci pomóc, to wal do mnie œmia³o. Przy okazji, [hik] siê nazywam Karl.}
 {203}{}{Dobra, Karl. W zasadzie ju¿ teraz skorzystam z twojej oferty - szukam przedmiotu o nazwie GECK. Masz jakiœ pomys³, gdzie mogê go znaleŸæ?}
@@ -72,17 +72,17 @@
 {235}{}{No tak, mia³em najwiêkszy ogród [hik] jaki mog³em sobie wymarzyæ. Z jednym wyj¹tkiem - tam, sk¹d pochodzê, nazywamy to farm¹...}
 {236}{}{Nie pamiêtasz? Rozmawialiœmy o GECKu, kiedy wspomnia³eœ o ogrodzie.}
 {237}{}{Niewa¿ne. To nas prowadzi do nik¹d.}
-{238}{}{Hej! [hik] Masz ca³kiem zgrabne cia³ko! ChodŸmy na ty³y [hik] i zapoznajmy siê ze sob¹ dok³adniej. Mogê ci zap³aciæ... mam $1000. [Karl zaczyna rozbieraæ ciê wzrokiem]}
+{238}{}{Hej! [hik] Masz ca³kiem zgrabne cia³ko! ChodŸmy na ty³y [hik] i zapoznajmy siê ze sob¹ dok³adniej. Mogê ci zap³aciæ... mam 1000$. [Karl zaczyna rozbieraæ ciê wzrokiem.]}
 {239}{}{Zdajesz sobie sprawê, ¿e mówisz do mê¿czyzny, prawda?}
-{240}{}{Jasne, ale bêdzie ciê to kosztowa³o $1000.}
+{240}{}{Jasne, ale bêdzie ciê to kosztowa³o 1000$.}
 {241}{}{Dziêki za propozycje, ale wolê porozmawiaæ o GECKu.}
 {242}{}{Po moim trupie!}
 {243}{}{Ale z ciebie dewotka... [hik] Jeœli nie bêdziesz nic mówiæ, ja te¿ nic nie powiem. [hik]}
 {244}{}{[Ledwo mo¿esz siê powstrzymaæ od zwymiotowania.] Muszê ju¿ iœæ.}
-{245}{}{OK, $1000.}
+{245}{}{DOBRA, 1000$.}
 {246}{}{[Ty i Karl wymykacie siê na szybki numerek. Ku twojemu zdziwieniu, by³o to ca³kiem przyjemne.]}
 {247}{}{[Szybko trzeŸwieje i zaczyna swoj¹ opowieœæ.] Zanim tu przyby³em, by³em niegdyœ praworz¹dnym obywatelem. Nie wadz¹c nikomu, pracowa³em na farmie - ciê¿ko, jak nikt inny - do momentu, kiedy one zaczê³y siê pokazywaæ w nocy. By³y ca³e œwiec¹ce, z blad¹ skór¹... Wystraszy³y mnie jak jasna cholera, serio. Noc po nocy ukazywa³y mi siê, krad³y zbo¿e i byd³o. Nie mog³em nic zrobiæ. Wiem, ¿e zaraz powiesz - "Dlaczego nie poprosi³eœ nikogo o pomoc?" Prosi³em, naprawdê! Nikt mi nie chcia³ uwierzyæ, ludzie myœleli, ¿e oszala³em. W koñcu to zaczê³o mnie przerastaæ. NIE MOG£EM TEGO D£U¯EJ ZNIEŒÆ! Wynios³em siê stamt¹d i przyby³em tutaj - i jestem tu od tamtego czasu. [Karl zaczyna gwa³townie szlochaæ. Postanawiasz zostawiæ go z jego problemami.]}
-{248}{}{O jeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Proszê, oto $}
+{248}{}{O jeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Proszê, oto }
 {249}{}{.}
 {250}{}{Hrrr.}
 {251}{}{Hrrrrrr.}
@@ -90,8 +90,8 @@
 {253}{}{Hrrrrrrrrrrrrrrrrr.}
 {254}{}{Hrrrrrrrrrrrrrrrrrrrrrrrrr.}
 {255}{}{*Hhr* *Khhh* *Hrrr*}
-{260}{}{O jeeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Oto $}
-{261}{}{. To wszystko co mam.}
+{260}{}{O jeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Proszê, oto }
+{261}{}{$. To wszystko co mam.}
 {262}{}{O jeeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Przepraszam bardzo, i tak by³o fajnie.}
 {300}{}{Wracam do domu, dziêki tobie!}
 {400}{}{Uda³o ci siê odes³aæ Karla z powrotem do Modoc.}

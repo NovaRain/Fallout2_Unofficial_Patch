@@ -7,11 +7,11 @@
 {106}{}{Toffar!}
 {107}{}{Kim jesteœ?}
 {108}{}{Szukam pewnego sprzêtu.}
-{109}{}{Poszukujê pewnych informacji.}
-{110}{}{Do widzenia.}
+{109}{}{Szukam informacji.}
+{110}{}{Bywaj.}
 {111}{}{Chcesz coœ kupiæ?}
-{112}{}{[pokiwaj g³ow¹]}
-{113}{}{[pokrêæ g³ow¹]}
+{112}{}{[Pokiwaj g³ow¹.]}
+{113}{}{[Pokrêæ g³ow¹.]}
 {114}{}{A wiêc oto, co mam.}
 {115}{}{[dalej]}
 {116}{}{Có¿, obawiam siê wiêc, ¿e to ju¿ wszystko, co mogê dla ciebie zrobiæ. Mi³ego dnia.}
@@ -27,8 +27,8 @@
 {126}{}{Potrzebujê pewnych czêœci do PMV Valdeza.}
 {127}{}{Szukam œledziony.}
 {128}{}{Podobno jakieœ lataj¹ce maszyny przywioz³y tu pe³no ludzi z wioski.}
-{129}{}{Nic. Do widzenia.}
-{130}{}{Porozmawiaj z Crocketem z obozu Centrologów. Jest ich g³ównym naukowcem.}
+{129}{}{Nic takiego. Na razie.}
+{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
 {131}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {132}{}{Dziêki. Na razie.}
 {133}{}{Szukaj na pó³noc, w Navarro. Jest tam ukryta baza w pobli¿u stacji benzynowej.}
@@ -48,7 +48,7 @@
 {147}{}{Dziêki. Na razie.}
 {148}{}{By³ pijany. Bardzo, bardzo pijany. Ca³¹ noc mia³ obsesjê na punkcie swojej œledziony. No i j¹ postawi³.}
 {149}{}{Wiêc wzi¹³eœ jego ŒLEDZIONÊ?}
-{150}{}{Rozumiem. Có¿, mam inne pytania.}
+{150}{}{Rozumiem. Mam tak¿e inne pytania.}
 {151}{}{Tak. Taki by³ zak³ad. On jest honorowym cz³owiekiem.}
 {152}{}{Rozumiem. Có¿, mam inne pytania.}
 {153}{}{Ale z ciebie chory, prymitywny drañ, nie?}
@@ -62,20 +62,20 @@
 {161}{}{Chyba ¿e...?}
 {162}{}{Dziêki za "pomoc". Idê zdobyæ jak¹œ rozs¹dn¹ radê.}
 {163}{}{...chyba ¿e uda ci siê zmusiæ ten stary tankowiec w dokach do dzia³ania. To stary statek, ale zapewne wci¹¿ jeszcze dzia³a, je¿eli trochê siê nad nim popracuje. Poproœ punków o wiêcej informacji.}
-{164}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
+{164}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {165}{}{Dziêki. Na razie.}
 {166}{}{Mówi siê, ¿e ostatnio Centrolodzy weszli w posiadanie du¿ej iloœci paliwa. Dogadaj siê z nimi.}
-{167}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
+{167}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {168}{}{Dziêki. Na razie.}
 {169}{}{Mo¿esz spróbowaæ popytaæ naukowców Shi w Stalowym Pa³acu. Byæ mo¿e bêd¹ ci w stanie pomóc z twoim zapotrzebowaniem na paliwo.}
-{170}{}{Dziêki. Chcê ciê spytaæ o coœ jeszcze.}
+{170}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {171}{}{Dziêki. Na razie.}
 {172}{}{Jesteœ wrogiem mojego ludu. Giñ!}
 {173}{}{Zabicie UKC-9 by³o dobrym uczynkiem dla naszego ludu. Mam nadziejê, ¿e bêdê ci w stanie w jakiœ sposób pomóc.}
 {174}{}{Kim jesteœ?}
 {175}{}{Szukam pewnego sprzêtu.}
-{176}{}{Poszukujê pewnych informacji.}
-{177}{}{Do widzenia.}
+{176}{}{Szukam informacji.}
+{177}{}{Bywaj.}
 {178}{}{Dostali je ju¿ od ciebie Centrolodzy, nie?}
 {179}{}{A tak... e... Mogê spytaæ o coœ innego?}
 {180}{}{A tak... na razie.}

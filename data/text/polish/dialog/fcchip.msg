@@ -10,7 +10,7 @@
 {109}{}{Czy masz dla mnie jakieœ informacje o moich ludziach?}
 {110}{}{Oooch, moje flaki. Boli mnie. Zostaw mnie w spokoju, proszê.}
 {111}{}{Oki-doki.}
-{112}{}{Co ze mn¹? Powiem ci: w zesz³ym tygodniu zala³em siê, zacz¹³em graæ z Lao Chou i przegra³em. By³em tak nawalony, ¿e postawi³em moj¹ œledzionê. Teraz on j¹ ma, a ja potrzebujê jej z powrotem.}
+{112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen.  Now he has it, and I need it back.}
 {113}{}{SPRZEDA£EŒ w³asn¹ œledzionê?}
 {114}{}{Jaka szkoda.}
 {115}{}{Ale z ciebie gamoñ.}
@@ -34,7 +34,7 @@
 {133}{}{Informacje? Ja tu cierpiê, a ty chcesz informacje?}
 {134}{}{Co z tob¹?}
 {135}{}{Boli ciê? Cha cha cha.}
-{136}{}{Niewa¿ne.}
+{136}{}{Zapomnij o tym.}
 {137}{}{Czy wiesz ju¿, gdzie jest moja œledziona?}
 {138}{}{Tak. Ma j¹ dr Wong Yi Tze i zwróci ci j¹. IdŸ z nim o tym porozmawiaæ.}
 {139}{}{Tak. IdŸ poszukaæ przy trupie dra Wonga.}
@@ -43,11 +43,11 @@
 {142}{}{Nie, jeszcze nie. Ale znajdê j¹.}
 {143}{}{Nie. W sumie, to nawet jej nie szukam.}
 {144}{}{W porz¹dku [dyszy] Zanim jednak to zrobiê, mo¿e powinniœmy ustaliæ sposób, w jaki j¹ dostanê z powrotem. Porozmawiaj o tym z dr Fungiem, dobrze? Dziêki.}
-{145}{}{W porz¹dku.}
+{145}{}{Dobrze.}
 {146}{}{Nie.}
 {147}{}{Naprawdê doceniam to, co dla mnie robisz. Nie zapomnê ci tego.}
 {148}{}{Nie ma sprawy.}
-{149}{}{S³uchaj, naprawdê nie mogê siê przemieszczaæ bez ogromnego wysi³ku. Mam przesrane, je¿eli mi nie pomo¿esz.}
+{149}{}{Dude, I can't really get places without a lot of effort.  If you can't help me, I'm screwed.}
 {150}{}{Dobra. Pogadam z Fungiem.}
 {151}{}{No i co. I tak gówno mnie obchodzisz.}
 {152}{}{Je¿eli mo¿esz coœ z tym zrobiæ... zabiæ go, albo przemówiæ mu do rozs¹dku, albo coœ... bez niej umrê.}
@@ -58,7 +58,7 @@
 {157}{}{Pokryjê koszty. IdŸ do Funga.}
 {158}{}{Nie ma sprawy. Powodzenia.}
 {159}{}{Uda³o ci siê namówiæ Funga?}
-{160}{}{Ta, powiedzia³, ¿e wstawi ci j¹ z friko.}
+{160}{}{Ta, powiedzia³, ¿e wstawi ci j¹ za friko.}
 {161}{}{Ta, i wystawi³ mi rachunek na $1000.}
 {162}{}{}
 {163}{}{Rany. Masz niez³e powi¹zania. Wróæ jutro, a zobaczê, w czym bêdê ci móg³ pomóc.}
@@ -78,23 +78,22 @@
 {177}{}{Teraz niczego, dziêki i na razie.}
 {178}{}{Spytaj Kapitana. Mieszka w gabinecie kapitañskim na górze.}
 {179}{}{Dziêki. Kilka innych pytañ...}
-{180}{}{Dziêki. Do zobaczenia.}
+{180}{}{Dziêki. Na razie.}
 {181}{}{Mówi siê, ¿e zabrano ich na zachód, przez wodê. Najlepiej jeœli uda ci siê jakoœ uruchomiæ tê ³ajbê.}
 {182}{}{Dziêki. Kilka innych pytañ...}
-{183}{}{Dziêki. Do zobaczenia.}
+{183}{}{Dziêki. Na razie.}
 {184}{}{Rêki informatyka? Je¿eli nie mo¿esz za³atwiæ tego u Shi albo u Centrologów, to na pewno chcesz rozmawiaæ z Borsukiem. To geniusz komputerowy.}
 {185}{}{Dziêki. Kilka innych pytañ...}
-{186}{}{Dziêki. Do zobaczenia.}
+{186}{}{Dziêki. Na razie.}
 {187}{}{Cholera. Pogadaj z Centrologami, albo z Shi. Nie mam pojêcia, teraz gdy Borsuk nie ¿yje.}
 {188}{}{Dziêki. Kilka innych pytañ...}
-{189}{}{Dziêki. Do zobaczenia.}
+{189}{}{Dziêki. Na razie.}
 {190}{}{Kupa gówna.}
 {191}{}{Bêdziesz potrzebowaæ œrodków przeciwbólowych.}
 {192}{}{Œcierwo. Za³atwiê ciê.}
 {193}{}{Widzisz ³ysego punka.}
 {194}{}{Widzisz Chipa. Wygl¹da na to, ¿e cierpi.}
 {195}{}{Widzisz ³ysego punka. Trzyma siê za bok i sapie z bólu.}
-
 {196}{}{W porz¹dku. Porozmawiam z Fungiem.}
 {197}{}{Jak tam szczêœcie z moj¹ œledzion¹?}
 {198}{}{Ta, i za¿yczy³ sobie $1000 - ju¿ zap³acone.}

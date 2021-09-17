@@ -9,7 +9,7 @@
 {108}{}{Chcê wiedzieæ, co siê sta³o z ludŸmi, którzy tu kiedyœ mieszkali.}
 {109}{}{Szukam przedmiotu, który nazywa siê GECK. Powiedziano mi, ¿e mogê go tu znaleŸæ.}
 {110}{}{Poproszono mnie o oczyszczenie nory niebezpiecznych szponów œmierci...}
-{111}{}{Prowadzê œledztwo w sprawie napadów na okoliczne rancza braminów. Czy wiesz coœ na ten temat?}
+{111}{}{Prowadzê œledztwo w sprawie napadów na okoliczne rancza bramin. Czy wiesz coœ na ten temat?}
 {112}{}{Myœlê, ¿e ju¿ sobie pójdê.}
 {113}{}{Nie jesteœ idiot¹, cz³owieku. Widzê prawdê w twoich oczach. Proszê, nie próbuj mnie oszukaæ. Nie mam cierpliwoœci do takich gier.}
 {114}{}{Bardzo dobrze. Jeœli ¿yczysz sobie, aby uwa¿ano ciê za idiotê, to niech tak bêdzie. Wróæ do mnie, gdy zmienisz zdanie.}
@@ -18,14 +18,14 @@
 {117}{}{Rozumiem.}
 {118}{}{Nie chcê siê narzucaæ, jednak z pewnoœci¹ rozumiesz moje zainteresowanie w tej kwestii.}
 {119}{}{Jasne, a mo¿e jednak pozwól mi zdecydowaæ, co wnosi, a co nie wnosi?}
-{120}{}{Tak, zdecydowanie rozumiem. Bardzo dobrze. Jeœli rozstaniemy siê jak przyjaciele, cz³owieku, to polecam ci rozmowê z Gorisem. On ma wiêcej zrozumienia dla tych kwestii ni¿ ja. Zwykle mo¿na go znaleŸæ w bibliotece krypty.}
+{120}{}{Tak, zdecydowanie rozumiem. Bardzo dobrze. Jeœli rozstaniemy siê jak przyjaciele, cz³owieku, to polecam ci rozmowê z Gorisem. On ma wiêcej zrozumienia dla tych kwestii ni¿ ja. Zwykle mo¿na go znaleŸæ w bibliotece Krypty.}
 {121}{}{Dziêkujê. Z niecierpliwoœci¹ oczekujê spotkania z Gorisem.}
 {122}{}{Nie mam zamiaru dodawaæ szpona œmierci do listy moich przyjació³. ¯egnaj!}
-{123}{}{W porz¹dku.}
+{123}{}{Dobrze.}
 {124}{}{Nie ma ich tu, cz³owieku. Nie zabiliœmy ich, by zabraæ im dom. To nie jest sposób, w jaki postêpujemy. Rozumiem, ¿e mo¿esz mi nie uwierzyæ, ale mam nadziejê, ¿e bêdziesz mnie s¹dziæ po moich czynach wobec ciebie, a nie po w³asnych uprzedzeniach i lêku.}
 {125}{}{Hej, mo¿e ci przyjdzie do ³ba, ¿e mogê skopaæ twój ty³ek?}
 {126}{}{Grutharze, sprawiasz wra¿enie istoty postêpuj¹cej zgodnie z zasadami honoru.}
-{127}{}{Jasne, ja myœlê.}
+{127}{}{Ta, chyba tak.}
 {128}{}{GECK. Czy to nie jest ma³a jaszczurka... nie, zaczekaj... to gekon. Przykro mi, ale nie wiem, czym jest GECK, ani gdzie mo¿na go znaleŸæ.}
 {129}{}{Tak, wydaje mi siê, ¿e ju¿ wczeœniej o tym rozmawialiœmy. Nie wiem, czym jest GECK, ani gdzie mo¿na go znaleŸæ.}
 {130}{}{Czy wpuœcisz mnie i pozwolisz mi go poszukaæ?}
@@ -34,7 +34,7 @@
 {133}{}{Szczerze mówi¹c ja te¿ nie mam ca³kowitej pewnoœci, co to jest. Czy bêdzie to w porz¹dku, jeœli go tu poszukam?}
 {134}{}{Przykro mi, ale nie pozwalam ka¿demu chodziæ po tych korytarzach. Jestem odpowiedzialny za bezpieczeñstwo tych, którzy tu ¿yj¹ i muszê zachowaæ ostro¿noœæ. Jednak¿e poszukam tego GECKa i jeœli go znajdê, dam ci znaæ.}
 {135}{}{Przykro mi, ale nie pozwalam ka¿demu chodziæ po tych korytarzach. Jestem odpowiedzialny za bezpieczeñstwo tych, którzy tu ¿yj¹ i muszê zachowaæ ostro¿noœæ.}
-{136}{}{S³uchaj. Nie jesteœ w³aœcicielem tego miejsca. Mo¿e lepiej rozejrzê siê wokó³ bez wzglêdu na to, czy ci siê to podoba, czy nie!}
+{136}{}{S³uchaj. Nie jesteœ w³aœcicielem tego miejsca. Mo¿e rozejrzê siê wokó³ bez wzglêdu na to, czy ci siê to podoba, czy nie!}
 {137}{}{Rozumiem to Grutharze i uszanujê wasz¹ potrzebê prywatnoœci.}
 {138}{}{Rozumiem to. Nie znasz mnie wystarczaj¹co dobrze, by mi zaufaæ. A mo¿e pomogê wam jakoœ, a w zamian za to ty pozwolisz mi siê rozejrzeæ?}
 {139}{}{[Gruthar przez chwilê uporczywie wpatruje siê w ciebie] Czy mo¿e ciê interesowaæ pomaganie nam? Tak, wyczuwam, ¿e niewiele w tobie z³a. Bardzo dobrze, zaufam ci.}
@@ -69,13 +69,13 @@
 {168}{}{Rozumiem...}
 {169}{}{Nie podoba mi siê twoja decyzja, ale akceptujê j¹. Mo¿esz odejœæ, ale proszê, wróæ tu, jeœli zmienisz zdanie.}
 {170}{}{Koniec.}
-{171}{}{Witaj} // Goes to 231
+{171}{}{Witaj}
 {172}{}{Nie, ale ju¿ siê za to zabieram.}
 {173}{}{Przykro mi, Grutharze. Zepsu³ siê modu³ rozpoznawania mowy. Muszê pójœæ znaleŸæ jakiœ.}
-{174}{}{Nie rozumiem, jak dzia³aj¹ takie rzeczy, ale ci ufam,} // 232
+{174}{}{Nie rozumiem, jak dzia³aj¹ takie rzeczy, ale ci ufam,}
 {175}{}{Koniec.}
 {176}{}{Jeszcze wrócê, masz moje s³owo.}
-{177}{}{Witaj} // 233
+{177}{}{Witaj}
 {178}{}{Nie, wci¹¿ szukam.}
 {179}{}{Tak, oto ona!}
 {180}{}{}
@@ -83,7 +83,7 @@
 {182}{}{Powiedzia³eœ, ¿e dasz mi znaæ, jeœli znajdziesz GECKa. Uda³o ci siê go zlokalizowaæ?}
 {183}{}{Tak, szukam GECKa. Powiedziano mi, ¿e mo¿na tu takowy znaleŸæ. Wiesz, gdzie siê znajduje?}
 {184}{}{Nie, dziêkujê. Mam wszystko, czego potrzebujê.}
-{185}{}{Tak, w magazynie by³ jeden GECK. Jest twój wraz z podziêkowaniami.}
+{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
 {186}{}{Tak, w magazynie znajdowa³ siê jeden GECK. Niestety, znikn¹³. Przykro mi, ¿e nie mogê ci go ofiarowaæ jako nagrodê za twoj¹ szczodr¹ pomoc.}
 {187}{}{Dziêki!}
 {188}{}{Uch... nic nie szkodzi. Spróbujê znaleŸæ go gdzieœ indziej.}
@@ -93,14 +93,14 @@
 {192}{}{Uch, ja przepraszaæ.}
 {193}{}{Witaj, cz³owieku. Czy twoje zdanie uleg³o zmianie? Pomo¿esz nam?}
 {194}{}{Kurde, nie. Chcê tylko jeszcze trochê pos³uchaæ, jak zarzynasz jêzyk.}
-{195}{}{No, nie s¹dzê.}
+{195}{}{Nie, nie s¹dzê.}
 {196}{}{Tak Grutharze. Pomogê wam.}
 {197}{}{Witam ciê z przyjaŸni¹. Czy wiesz ju¿, co siê sta³o maszynie?}
 {198}{}{Jeszcze nie, ale zaraz siê za to zabiorê.}
 {199}{}{Witam ciê z przyjaŸni¹. Stado zawdziêcza ci ratunek i dziêkujemy ci za to.}
 {200}{}{}
 {201}{}{}
-{202}{}{Giñ, zdradziecki cz³owieku!}
+{202}{}{Giñ, zdradziecki cz³ecze!}
 {203}{}{}
 {204}{}{}
 {205}{}{Nie mam z tob¹ zatargów, cz³owieku i nie chcê ich mieæ. Staram siê odnosiæ do ciebie w cywilizowany sposób. Proszê, odwzajemnij tê uprzejmoœæ!}
@@ -125,16 +125,14 @@
 {224}{}{}
 {225}{}{W tej chwili nie ¿yczymy sobie ciê tu widzieæ. Mo¿esz odejœæ.}
 {226}{}{¯egnam}
-{227}{}{¯egnam.}
+{227}{}{¯egnam}
 {228}{}{Koniec.}
 {229}{}{Przeprosiny przyjête, cz³owieku. Mi³ego dnia!}
 {230}{}{Koniec.}
 {231}{}{. Czy wiesz ju¿, co siê sta³o maszynie?}
 {232}{}{. Poczekam, a¿ wrócisz.}
 {233}{}{. Czy masz ju¿ czêœæ potrzebn¹ do naprawienia maszyny?}
-
-#added later
-{234}{}{Uch, dobrze.}
+{234}{}{Uhm, w porz¹dku.}
 {235}{}{Mam nadziejê, ¿e podoba ci siê u nas.}
 {236}{}{Niestety musia³o do tego dojœæ. Pozwoli³em mu zostaæ bez szwanku tak d³ugo, jak nie przedstawia³ zagro¿enia dla stada. Sam wybra³ swoj¹ œcie¿kê. Mam nadziejê, ¿e rozumiesz.}
 {237}{}{Ty z³y.}

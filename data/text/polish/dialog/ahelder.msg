@@ -3,7 +3,7 @@
 {102}{}{Starsza jest dok³adnie tym - star¹ kobiet¹. Tak star¹, ¿e nie pamiêtasz, ¿eby kiedykolwiek by³a m³oda. Mimo to, wci¹¿ tli siê w niej ogieñ i si³a potrzebne do przewodzenia wiosce w tych trudnych czasach.}
 {103}{aeld1}{Gratulujê, Dziecko Przeznaczenia. Uda³o ci siê przejœæ przez Œwi¹tyniê Prób. Czy jesteœ w stanie wyruszyæ w drogê?}
 {104}{}{Co to mia³o byæ - chcieliœcie mnie zabiæ w tej œwi¹tyni?}
-{105}{}{Oczywiœcie.}
+{105}{}{Spoko.}
 {106}{}{Muszê to jeszcze przemyœleæ.}
 {107}{aeld2a}{Jestem z ciebie dumna, Dziecko Przeznaczenia. To musia³o byæ dla ciebie trudne. Teraz musisz pójœæ i odszukaæ Kryptê 13. Krypta 13. Przynieœ tu GECK. GECK. Tu masz ma³¹ b³yszcz¹c¹ buteleczkê. Da³ nam j¹ Vic. Vic. To kupiec z Klamath. Klamath. IdŸ do Vica. ZnajdŸ Kryptê 13. ZnajdŸ GECK. Wróæ. Postaraj siê, dziecko.}
 {112}{aeld2b}{Nadal nie wiesz gdzie jest Krypta. ZnajdŸ Kryptê! Krypta 13.}
@@ -19,7 +19,7 @@
 {122}{}{Jeszcze raz - co jest moim zadaniem?}
 {123}{}{Wyruszam w tej chwili.}
 {124}{aeld5}{To dobra wiadomoœæ, ale to nie wystarczy, ¿eby nas uratowaæ. Musisz prêdko wróciæ tu z GECKiem, albo ca³y nasz lud umrze!}
-{125}{}{Muszê dowiedzieæ siê jeszcze kilku rzeczy.}
+{125}{}{Potrzebujê dowiedzieæ siê jeszcze kilku rzeczy.}
 {126}{}{Dobrze, wyruszê tam natychmiast.}
 {127}{aeld6}{Uda³o ci siê przetrwaæ. Dziecko Przeznaczenia nie mo¿e byæ s³abe, bo oznacza³oby to nasz¹ zag³adê. Czy jesteœ w stanie wyruszyæ ze swoj¹ misj¹?}
 {128}{}{Mój test zosta³ ukoñczony pomyœlnie. Oczywiœcie, ¿e mogê wyruszyæ, choæby zaraz.}
@@ -52,7 +52,7 @@
 {156}{aeld14b}{To zdrada!}
 {157}{aeld14c}{Czemu to robisz?}
 {158}{aeld14d}{Wiedzia³am, ¿e twa dusza jest mroczna!}
-{159}{aeld15}{Wiêc weŸ tê manierkê. Pochodzi ze œwiêtej Krypty 13. Da³ nam j¹ Vic, kupiec z Klamath. Byæ mo¿e on wie, gdzie znajduje siê krypta. Mo¿e te¿ przydaæ ci siê to coœ, co oni nazywaj¹ pieniêdzmi. Proszê.}
+{159}{aeld15}{Wiêc weŸ tê manierkê. Pochodzi ze œwiêtej Krypty 13. Da³ nam j¹ Vic, kupiec z Klamath. Byæ mo¿e on wie, gdzie znajduje siê Krypta. Mo¿e te¿ przydaæ ci siê to coœ, co oni nazywaj¹ pieniêdzmi. Proszê.}
 {160}{}{Uch... jeszcze raz, jakie jest moje zadanie?}
 {161}{}{Czy mo¿esz powiedzieæ mi coœ jeszcze?}
 {162}{}{¯ycz mi szczêœcia, Starsza. Nie zawiodê ciê.}
@@ -73,12 +73,10 @@
 {177}{}{Zrobiê wszystko, co w mojej mocy, by znaleŸæ GECK i uratowaæ wioskê.}
 {178}{}{Nie dra¿nij mnie starucho. Robiê co mogê.}
 {179}{aeld20}{Dziecko. Jesteœmy w wiêkszej potrzebie ni¿ kiedykolwiek wczeœniej. Ludzie choruj¹, braminy zdychaj¹, a zapasy jedzenia prawie siê wyczerpa³y. Niep³odnoœæ ziemi mo¿e zostaæ uleczona tylko za pomoc¹ GECKa. ZnajdŸ GECK i uratuj nas.}
-{180}{}{Moja rozumieæ.}
-{181}{}{Wyruszam natychmiast.}
+{180}{}{Moja rozumie.}
+{181}{}{Ju¿ idê.}
 {182}{}{Wybacz mi. Znajdê GECK najszybciej, jak to tylko mo¿liwe.}
 {183}{}{Dobrze ju¿, dobrze. Zaczynasz rzêziæ jak zepsuty holodysk...}
-
-
 {200}{eeld1}{Dziecko Przeznaczenia! Jak uda³o ci siê tu dostaæ?}
 {201}{}{Uuch... duh?}
 {202}{}{Przybywam, by was uratowaæ.}
@@ -90,14 +88,14 @@
 {208}{eeld3}{O bogowie... S³uchaj - idŸ na dó³. ZnajdŸ maszynê, która daje moc. Zabij maszynê. Zabij z³ych ludzi. Zabij wszystkich! Ty zabijasz, my idziemy do domu. Poza tym, jeœli nie masz GECKa, to poszukaj go gdzieœ tutaj. Musimy mieæ GECK, by uratowaæ wioskê! Wolnoœæ jest niczym, jeœli nie masz dok¹d wróciæ. Rozumiesz? Och, bogowie.}
 {209}{}{Uch -huh!}
 {210}{eeld4}{Uwa¿aj, nie dotykaj œwiec¹cej œciany. Myœlê, ¿e maszyna, która j¹ ¿ywi, jest gdzieœ pod nami. Zniszcz j¹, abyœmy mogli uciec. Jak uda³o ci siê tu dotrzeæ?}
-{211}{}{Mam okrêt. }
+{211}{}{Mam statek. }
 {212}{eeld5}{Do naszej wioski zawitali ludzie w lataj¹cych maszynach i zabrali nas stamt¹d. Byli te¿ inni, tak¿e ze œwiêtej Trzynastki! Myœla³am, ¿e jesteœmy uratowani. Myœla³am, ¿e pójdziemy do raju. (westchnienie)}
 {213}{}{I co?}
 {214}{eeld5a}{I przywiedli nas tutaj, do piek³a. Zabili wiêkszoœæ z nas czymœ, co nazywaj¹ ef-e-fau. Nied³ugo zabij¹ nas wszystkich! Czy wiesz, co nale¿y teraz zrobiæ, Dziecko?}
 {215}{}{Ef-e-fau?}
 {216}{}{Tak.}
 {217}{}{Nie.}
-{218}{eeld6}{Jeœli zniszczysz maszynê, sami znajdziemy statek. Pospiesz siê, nie zosta³o nas ju¿ zbyt wielu. }
+{218}{eeld6}{Jeœli zniszczysz maszynê, sami znajdziemy statek. Poœpiesz siê, nie zosta³o nas ju¿ zbyt wielu. }
 {219}{}{Co siê sta³o?}
 {220}{}{Rozumiem.}
 {221}{eeld7}{Musisz zniszczyæ maszynê i zabiæ wszystkie demony, które tu ¿yj¹. Spotkamy siê na zewn¹trz! I pamiêtaj, Dziecko - jeœli jeszcze nie masz GECKa, poszukaj go gdzieœ tutaj. Wolnoœæ na nic nam siê nie zda, jeœli nie zdo³amy uratowaæ naszej wioski. IdŸ ju¿!}

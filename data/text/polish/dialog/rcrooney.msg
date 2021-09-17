@@ -1,7 +1,7 @@
 {100}{}{Widzisz chud¹ staruszkê, która najlepsze lata ma ju¿ za sob¹.}
 {101}{}{Widzisz wdowê Rooney.}
 {102}{}{Widzisz star¹, chud¹ kobietê z kurzajkami i w¹sikiem.}
-{103}{}{OdejdŸ ode mnie.}
+{103}{}{Odczep siê ode mnie.}
 {104}{}{Czy ju¿ nie doœæ przez ciebie wycierpia³am?}
 {105}{}{A teraz, mo¿e mnie zabijesz?}
 {106}{}{Wykopywaæ star¹ kobietê na bruk?}
@@ -21,7 +21,7 @@
 {120}{}{No có¿, mam dla pani z³e wieœci.}
 {121}{}{Zwiedzam w³aœnie okolicê i zastanowi³o mnie, kto tu mo¿e mieszkaæ? Mi³o mi pani¹ poznaæ, pani Rooney.}
 {123}{}{Och, niczego nie potrzebujê. Tak sobie zwiedzam okolicê. Do widzenia.}
-{124}{}{Nie jestem twoj¹ cholern¹ mamuœk¹. Ju¿ mam jednego bramina, którym muszê siê opiekowaæ i jeszcze jeden zwierzak nie jest mi potrzebny. Sio, wynocha.}
+{124}{}{Nie jestem twoj¹ cholern¹ mamuœk¹. Ju¿ mam jedn¹ braminê, któr¹ muszê siê opiekowaæ i jeszcze jeden zwierzak nie jest mi potrzebny. Sio, wynocha.}
 {125}{}{Pa, pa. Mamo.}
 {126}{}{Rozumiem, ¿e teraz ty odwalasz ca³¹ brudn¹ robotê za burmistrza Ascortiego. I co teraz? Zabijesz mnie? Czy wykopiesz z domu na mróz?}
 {127}{}{Mam nadziejê, ¿e to uspokoi twoje sumienie.}
@@ -31,7 +31,7 @@
 {131}{}{Mi³o mi ciê poznaæ. Nieczêsto mam grzecznych goœci. Najczêœciej przychodz¹ tu groziæ mi.}
 {132}{}{Ludzie gro¿¹ ci? Dlaczego?}
 {133}{}{No có¿, oni te¿ musz¹ jakoœ zarobiæ. Do widzenia.}
-{134}{}{No có¿, zalegam z czynszem od 6 miesiecy. $120 za tê borsucz¹ norê. Ja po prostu nie mam tych pieniêdzy. Bo niby sk¹d? Kilka z moich braminów zachorowa³o i zdech³o, wiêc nie mog³am zap³aciæ. Jeœli wkrótce nie sp³acê d³ugu, Ascorti rozka¿e szeryfowi wykopaæ mnie z domu.}
+{134}{}{No có¿, zalegam z czynszem od 6 miesiecy. $120 za tê borsucz¹ norê. Ja po prostu nie mam tych pieniêdzy. Bo niby sk¹d? Kilka z moich bramin zachorowa³o i zdech³o, wiêc nie mog³am zap³aciæ. Jeœli wkrótce nie sp³acê d³ugu, Ascorti rozka¿e szeryfowi wykopaæ mnie z domu.}
 {135}{}{Aktualnie to ja wykonujê obowi¹zki szeryfa. I to w³aœnie ja mam ciebie st¹d wyrzuciæ.}
 {136}{}{Wysiedliæ tak¹ nieszkodliw¹, star¹ babuniê? To nie jest dobre. Kto by chcia³ to uczyniæ?}
 {137}{}{By³oby mi naprawdê przykro, gdybyœ straci³a swoje mieszkanie. Mo¿e ja sp³acê twój d³ug? Mam niewielki po¿ytek z pieniêdzy. Jestem Dzieckiem Przeznaczenia.}

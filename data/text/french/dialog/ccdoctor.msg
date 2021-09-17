@@ -97,7 +97,7 @@
 {196}{}{Je ne suis pas hostile, ne me tue pas !}
 {197}{}{Je ne me suis pas engagé pour me battre, laisse-moi tranquille.}
 {198}{}{Merde à la fin ! Je suis un docteur, pas un soldat !!}
-{200}{}{[More]}
+{200}{}{[Plus]}
 {201}{}{Je voulais te poser quelques questions.}
 {202}{}{Pas maintenant. Je regrette.}
 {800}{}{Tu as tué le Docteur Schreber.}

@@ -1,4 +1,3 @@
 {100}{}{Tu vois un vieil agenda.}
-{101}{}{The old diary is too frail to keep handling. The information has been
- downloaded into the Pip-Boy.}
-{102}{}{The diary is stored in the Pip-Boy.}
+{101}{}{Le vieil agenda est trop vieux pour être manipulé. Les informations ont été téléchargées dans le Pip-Boy.}
+{102}{}{Le journal intime est stocké dans le Pip-Boy.}

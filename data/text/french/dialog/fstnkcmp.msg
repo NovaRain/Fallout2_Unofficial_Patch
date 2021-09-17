@@ -20,4 +20,4 @@
 {119}{}{You see a PoseidoNet Navigation Computer.}
 {129}{}{[Tu lances rapidement la séquence de largage et le navire part comme une flèche en direction de la plate-forme pétrolière.]}
 {130}{}{[Terminé]}
-{131}{}{Navigation computer on-line.}
+{131}{}{Ordinateur de navigation en ligne.}

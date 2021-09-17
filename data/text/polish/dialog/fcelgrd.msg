@@ -1,5 +1,5 @@
 {100}{}{Widzisz dobrze uzbrojonego stra¿nika.}
-{101}{}{Widzisz stra¿nika Centrologów.}
+{101}{}{You see an Hubologist guard.}
 {102}{}{Widzisz dobrze uzbrojon¹ osobê z okrutnym wyrazem oczu.}
 {103}{}{Intruz!}
 {104}{}{£apaæ intruza!}
@@ -28,7 +28,7 @@
 {127}{}{Twoja obecnoœæ jest mile widziana... ale tam.}
 {128}{}{Centrum zostawi³ nas, abyœmy dbali o jego stado.}
 {129}{}{Gwiezdny Ojciec dba o ciebie. Dlatego da³ ci nas.}
-{130}{}{Jesteœmy lojalni wobec UKC-9.}
+{130}{}{Jesteœmy lojalni wobec AHS-9.}
 {131}{}{B¹dŸ pos³uszny.}
 {132}{}{Œpij.}
 {133}{}{JedŸ.}

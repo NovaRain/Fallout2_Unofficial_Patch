@@ -5,20 +5,20 @@
 {104}{}{Uurmph}
 {105}{}{Ech}
 {106}{}{Potrzebie}
-{107}{}{Zmiataj}
+{107}{}{OdejdŸ bez s³owa.}
 {108}{}{Nie, raczej nie.}
 {109}{}{A ty jesteœ...?}
 {110}{}{Nie. I nie muszê. ¯egnam. }
 {111}{}{S³owo... To s³owo to EGOIZM. Co otrzymamy po dodaniu arogancji? Kryptopolis! Przy ca³ej swojej praworz¹dnoœci, gloryfikuje handel niewolnikami.}
 {112}{}{Czemu tu mieszkasz, skoro ci siê tu nie podoba?}
 {113}{}{Amen, bracie!}
-{114}{}{Chyba mam doœæ. ¯egnam.}
+{114}{}{Przykro mi, nie tym razem. Do zobaczenia.}
 {115}{}{Sprzedawaj szajbê komuœ innemu, kolego... Ja mam jej dosyæ.}
 {116}{}{Tak! }
 {117}{}{Nadszed³ CZAS us³yszeæ naszych braci, czekaj¹cych za murami i wpuœciæ ich! Jesteœmy w stanie ich wy¿ywiæ i utrzymaæ... Nie wolno nam siê bogaciæ, gdy jest tylu BIEDNYCH.}
 {118}{}{S³yszê ciê!}
 {119}{}{Nareszcie ktoœ tu mówi do rzeczy! Czemu inni musz¹ cierpieæ, skoro tu mo¿na im pomóc?}
-{120}{}{Mam doœæ. ¯egnam.}
+{120}{}{To mi wystarczy. ¯egnaj.}
 {121}{}{Gdy patrzê na ciebie, widzê SI£Ê. Widzê WIARÊ. Czy oczy mnie zwodz¹? Czy te¿ widz¹ pokrewn¹ duszê, która jest po mojej stronie?}
 {122}{}{A pewnie!}
 {123}{}{Tak! Wiem, ¿e ju¿ CZAS... Czas, by to miasto, zbudowane na grzechu i niewolnictwie, otworzy³o bramy dla wszystkich! }
@@ -32,8 +32,8 @@
 {131}{}{Wszystko, co potrzeba, by uwolniæ braci z okowów!}
 {132}{}{Nie wiem... A co mam wed³ug ciebie zrobiæ?}
 {133}{}{Hmmm. Có¿, skoro tak stawiasz sprawê, to chyba nie. Mi³ego dnia.}
-{134}{}{(Nachylaj¹c siê) Mam tu teczkê... Z informacjami wa¿nymi dla naszej sprawy. Czy dostarczysz j¹ dla mnie do Nowego Reno? Sam bym to zrobi³, ale tutejsi obywatele mnie obserwuj¹...}
-{135}{}{Wiêc masz zwi¹zki z Nowym Reno, tak? To bêdzie ciê s³ono kosztowa³o... "Przyjacielu."}
+{134}{}{(Nachylaj¹c siê.) Mam tu teczkê... Z informacjami wa¿nymi dla naszej sprawy. Czy dostarczysz j¹ dla mnie do Nowego Reno? Sam bym to zrobi³, ale tutejsi Obywatele mnie obserwuj¹...}
+{135}{}{Wiêc, przyznajesz siê do zwi¹zków z Nowym Reno, tak? To bêdzie ciê s³ono kosztowa³o... "Przyjacielu."}
 {136}{}{Jasne. Daj mi j¹.}
 {137}{}{Nie, dziêkujê... To trochê zbyt ryzykowne. Nie wchodzê w to.}
 {138}{}{Proszê... Dostarcz j¹ do Johna Bishopa z Nowego Reno. Uwa¿aj na siebie, moje dziecko, i g³oœ s³owo.}
@@ -43,11 +43,11 @@
 {142}{}{Ee, nie, nie dzisiaj, dziêki. ¯egnam.}
 {143}{}{Nawet ci, którzy zdaj¹ siê byæ niewinni, mog¹ zwieœæ g³osz¹cego s³owo... Sk¹d mam wiedzieæ, ¿e NAPRAWDÊ w nie wierzysz?}
 {144}{}{Uwierzysz, jak wsadzê ci nogê w ty³ek!}
-{145}{}{NAPRAWDÊ wierzê, bracie. Jak ma to udowodniæ?}
+{145}{}{NAPRAWDÊ wierzê, bracie. Jak mogê udowodniæ moje oddanie?}
 {146}{}{Wiem, ¿e to miasto powsta³o na fundamencie grzechu i niewolnictwa. Tylko praworz¹dni mog¹ je naprawiæ!}
 {147}{}{Wiesz, mo¿e po prostu pogadamy póŸniej.}
 {148}{}{Pogañskie ignoranctwo! Masz uszy, ale nie s³uchasz! Masz oczy, ale s¹ one œlepe! ZejdŸ mi z oczu, brudna œwinio!}
-{149}{}{Brudna... Ee... Swi... Co? Nikt nie bêdzie tak do mnie mówiæ! Mam nadziejê, ¿e nie masz rodziny, która by za tob¹ têskni³a, trupie...}
+{149}{}{Brudna... Ee... Œwi... Co? Nikt nie bêdzie tak do mnie mówiæ! Mam nadziejê, ¿e nie masz rodziny, która by za tob¹ têskni³a, trupie...}
 {150}{}{Nikt nie bêdzie tak do mnie mówiæ! A ju¿ na pewno nie jakiœ domoros³y kaznodzieja. Chyba czas, byœ dosta³ nauczkê, trupie.}
 {151}{}{Spokojnie. Ju¿ sobie idê.}
 {152}{}{Hmmmmmm. Strzec siê trzeba wê¿y, które s³owa prawdy powtarzaj¹, lecz fa³sz i ob³udê w swych sercach kryj¹.}
@@ -58,7 +58,7 @@
 {157}{}{Porozmawiajmy o zap³acie, dobrze?}
 {158}{}{Có¿... Komu nale¿y g³osiæ kazania, jeœli nie tym, którzy ich najbardziej potrzebuj¹?}
 {159}{}{Chyba masz racjê. Kim jesteœ?}
-{160}{}{Udowodnij to! G³oœ s³owo!}
+{160}{}{Udowodnij je, bracie! G³oœ s³owo!}
 {161}{}{Dok³adnie! To miasto powsta³o na fundamencie grzechu i niewolnictwa. Tylko praworz¹dni mog¹ je naprawiæ!}
 {162}{}{Ee... Racja. Có¿, mi³o by³o pogadaæ. ¯egnam.}
 {163}{}{Masz... W walizce jest numer mojego konta. Zanieœ j¹ do Johna Bishopa z Nowego Reno, a on pozwoli ci skorzystaæ z konta.}
@@ -68,7 +68,7 @@
 {167}{}{Widzê, ¿e natura ju¿ ciê ukara³a, ³owco niewolników. Mo¿e któregoœ dnia siê nawrócisz.}
 {168}{}{Ech... Nie nadajesz siê. Uwa¿aj na siebie na Pustkowiu.}
 {169}{}{Urf}
-{170}{}{I co? Uda³o ci siê przemyœleæ sprawê?}
+{170}{}{I co? Uda³o ci siê przemyœleæ sprawê??}
 {171}{}{Owszem i wysz³o mi, ¿e utrzymanie twojej tajemnicy bêdzie ciê du¿o kosztowa³o. Rozumiesz?}
 {172}{}{Widzê œwiat³o, bracie... Co mam zrobiæ?}
 {173}{}{Przykro mi, ale nie. Mi³ego dnia.}
@@ -81,7 +81,7 @@
 {180}{}{Mam pytanie: sk¹d w Kryptopolis niewolnicy? To podobno wolne miasto.}
 {181}{}{Chcê us³yszeæ s³owo, bracie!}
 {182}{}{To miasto zbudowano na grzechu i niewolnictwie, a ja chcê to naprawiæ!}
-{183}{}{Dzisiaj nic, dziêki.}
+{183}{}{Dziêki, ale dziœ nie skorzystam.}
 {184}{}{Wiem, ¿e staraj¹ siê o prawdê i sprawiedliwoœæ, a my nawet nie kiwamy palcem, by im pomóc.}
 {185}{}{Có¿ mo¿emy zrobiæ?}
 {186}{}{To brzmi jak zdrada.}
@@ -91,7 +91,7 @@
 {190}{}{Hmm... No nie wiem. Jest tu ca³kiem dobrze. Czy naprawdê s¹ nam tu potrzebni? W koñcu obni¿¹ nam standard ¿ycia... Mo¿e nawet nas zatruj¹.}
 {191}{}{Hmmm. Có¿, warto to przemyœleæ. ¯egnam.}
 {192}{}{Nie odpowiem na to, gdy¿ miasto wyros³e dziêki niewolnictwu, nigdy nie bêdzie naprawdê wolne.}
-{193}{}{Owszem, ale nieŸle siê wzbogaca, nie?}
+{193}{}{Owszem, ale nieŸle siê wzbogac¹, nie?}
 {194}{}{Twoje s³owa... Coœ we mnie poruszy³y. Mo¿e uwolnienie niewolników i przyjêcie ich do spo³ecznoœci bêdzie dla Kryptopolis najlepsze.}
 {195}{}{Powinniœmy wyzwoliæ niewolników i traktowaæ ich jak naszych braci!}
 {196}{}{Ej, nie wciskaj mi tego braminiego gówna. Niewolnictwo... i Kryptopolis... Oba bêd¹ jeszcze d³ugo istnieæ.}
@@ -100,7 +100,7 @@
 {199}{}{Uurmph}
 {200}{}{Ech}
 {201}{}{Potrzebie}
-{202}{}{Zmiataj}
+{202}{}{OdejdŸ bez s³owa.}
 {203}{}{Tylko udajê ³owcê, ¿eby zdobyæ informacje.}
 {204}{}{Có¿, chcê o coœ zapytaæ: sk¹d w Kryptopolis niewolnicy? To podobno wolne miasto.}
 {205}{}{Szlachetny cel uœwiêca nawet najgorsze œrodki.}
@@ -109,8 +109,8 @@
 {208}{}{Udaj¹c ³owcê, nie jest siê lepszym ni¿ bêd¹c nim. OdejdŸ.}
 {209}{}{Ale teraz rozumiem swoj¹ pomy³kê!}
 {210}{}{Doœæ tego. Czas ciê rozkroiæ i zobaczyæ, co masz w œrodku...}
-{211}{}{W porz¹dku.}
-{212}{}{Nie mam o czym rozmawiaæ z kimœ w tak marnym stanie. OdejdŸ.}
+{211}{}{No to trudno.}
+{212}{}{I have  nothing to say to one of such foul disposition. Leave.}
 {213}{}{Chcesz marnego stanu? POKA¯E ci marny stan...}
 {214}{}{Rozumiem ju¿ moje b³êdy. Chcê za nie odpokutowaæ i us³yszeæ s³owo!}
 {215}{}{Moje serce zosta³o rozdarte, gdy ujrza³o krzywdy, wyrz¹dzane ludziom przez ludzi!}
@@ -135,7 +135,7 @@
 {234}{}{Tak, tak, daruj sobie ten kit pod tytu³em "jestem-bardziej-œwiêty-ni¿-ty". Dawaj kasê, albo ciê wydam.}
 {235}{}{Muszê o tym pomyœleæ. Czeœæ.}
 {236}{}{Proszê, dostarcz tê teczkê do Nowego Reno. Liczy siê czas!}
-{237}{}{Co zrobiæ? G³oszenie s³owa wystarczy. Uwa¿aj na siebie tam, na Pustkowiu. Gdy s³owo bêdzie ciê prowadziæ, nie zb³¹dzisz.}
+{237}{}{Co zrobiæ? G³oœ s³owo, to wystarczy. Krocz ostro¿nie i z rozmys³em po Pustkowiu. Gdy s³owo bêdzie ci œwiat³em, nie zb³¹dzisz.}
 {238}{}{Dziêkujê, bracie. Uczyniê jak mówisz.}
 {239}{}{Czy znasz ju¿ s³owo?}
 {240}{}{Poznaj s³owo! S³owo ciê uwolni!}

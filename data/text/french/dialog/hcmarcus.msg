@@ -90,7 +90,7 @@
 {189}{}{Jacob et Hélène m'ont demandé d'aider deux personnes à s'évader. Je pense qu'ils ont un plan.}
 {190}{}{Jacob et Hélène veulent que je fasse exploser la mine. J'ai pensé que ça t'intéresserait...}
 {191}{}{Un scientifique de la RNC veut tester une drogue expérimentale qui exterminera les mutants. Fais attention à ce que tu avales !}
-{192}{}{Chad took $6000 from the rep in Gecko. The rep was complaining about the price... said it'd been going up.}
+{192}{}{Chad a pris 6000 dollars au représentant de Gecko. Le représentant se plaignait du prix... il disait qu'il avait augmenté.}
 {193}{}{Chad a pris environ $1 000 sur le dernier convoi d'uranium. Il a prévu de quitter la ville très bientôt. J'ai une mallette pleine de documents qui le prouvent.}
 {194}{}{Rien. Laisse tomber.}
 {195}{mcs24}{Des tunnels ?! Tu m'diras, c'est pas étonnant, avec toutes les mines qu'il y a par ici. Tu continues à chercher, d'accord ?}

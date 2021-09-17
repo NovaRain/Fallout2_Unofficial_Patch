@@ -60,7 +60,7 @@
 {159}{}{Je le laisse.}
 {160}{}{Ok. Laisse tomber. Non merci.}
 {161}{}{Peu importe.}
-{162}{}{Hi, friend! }
+{162}{}{Salut, mon ami !}
 {163}{}{Oh, good. It's you again. }
 {164}{}{Salut.}
 {165}{}{Je savais que ces salauds de Franc, Manson, Jacob et Hélène nous attendaient au tournant. Félicitations ! Alors...}

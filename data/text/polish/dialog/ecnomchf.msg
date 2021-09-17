@@ -1,23 +1,23 @@
-{100}{}{Nomad.}
-{101}{}{Wódz Nomadów.}
-{102}{}{S¹dz¹c po stroju i sposobie zachowania, widzisz zapewne wodza Nomadów.}
-{103}{}{Ach, goœæ z dalekich stron. Witaj w moim skromnym namiocie. Spocznij w jego cieniu.}
-{104}{}{Dziêkujê ci za goœcinê. Chêtnie chwilê odpocznê.}
-{105}{}{Niestety, muszê odmówiæ. Bardzo siê spieszê.}
+{100}{}{Widzisz Nomada.}
+{101}{}{On wygl¹da na przywódcê Nomadów.}
+{102}{}{S¹dz¹c po stroju i sposobie zachowania, najprawdopodobniej jest przywódc¹.}
+{103}{}{Oh, podró¿nik. B¹dŸ pozdrowiony, w moim skromnym namiocie. Skryj siê w jego cieniu przed pal¹cym s³oñcem pustkowi.}
+{104}{}{Dziêki ci; z wdziêcznoœci¹ przyjmuje twoj¹ ofertê cienia.}
+{105}{}{Muszê odmówiæ. Bardzo siê œpieszê.}
 {106}{}{Uuga.}
-{107}{}{Zatem spocznij. Od dawna nie odwiedzaliœmy 'cywilizowanych' krain. Potrzebujemy wielu rzeczy. Mo¿e zechcesz siê z nami wymieniæ?}
-{108}{}{A co mo¿ecie mi zaoferowaæ?}
-{109}{}{Przykro mi. Nie mam nic na wymianê.}
-{110}{}{Có¿, mo¿e innym razem? Niech nad tw¹ drog¹ zawsze czuwaj¹ dobre duchy.}
-{111}{}{¯egnaj.}
-{112}{}{Wielka szkoda. Tak czy inaczej - rozgoœæ siê i odpoczywaj ile zechcesz.}
-{113}{}{¯egnaj.}
-{114}{}{Widzê, ¿e moja oferta jest spóŸniona. S³oñce zd¹¿y³o ju¿ wypaliæ s³owa z twojej g³owy. Lud pustyni ze wspó³czuciem traktuje braci i siostry o chorych umys³ach. Proszê, rozgoœæ siê. Nie zaznasz od nas krzywdy.}
-{115}{}{¯egnaj.}
+{107}{}{B¹dŸ wiêc pozdrowiony podró¿niku. D³ugo byliœmy z dala od "cywilizowanych" krain. Potrzebujemy pewnych przedmiotów. Mo¿e bêdziemy mogli pohandlowaæ?}
+{108}{}{Co macie na wymianê?}
+{109}{}{Nie mam nic do zaoferowania. Przepraszam.}
+{110}{}{Có¿, mo¿e innym razem? Niech twoje podró¿e bêd¹ wolne od niebezpieczeñstw.}
+{111}{}{Bywaj.}
+{112}{}{To niefortunne. Wiêc rozgoœæ siê i odpocznij w moim obozie.}
+{113}{}{Bywaj.}
+{114}{}{Widzê, ¿e moja oferta cienia jest spóŸniona. S³oñce zd¹¿y³o ju¿ wypaliæ s³owa z twojej g³owy. Lud pustyni ze wspó³czuciem traktuje braci i siostry o chorych umys³ach. Zostañ jak d³ugo zechcesz w moim obozie, o wolnomyœl¹cy.}
+{115}{}{Bywaj.}
 {116}{}{Niewierny pies!}
 {117}{}{Dlaczego nas atakujesz?}
-{118}{}{Poœwiêcê ¿ycie dla mojego plemienia!}
-{119}{}{To pogwa³cenie naszej goœcinnoœci.}
+{118}{}{Oddam ¿ycie za moje plemiê!}
+{119}{}{Jak œmiesz odrzucaæ nasz¹ goœcinnoœæ.}
 {120}{}{OdejdŸ st¹d!}
-{121}{}{Zostaw nas w spokoju.}
-{122}{}{Nie chcemy wojny.}
+{121}{}{Zostaw nas.}
+{122}{}{Jesteœmy pokojowym plemieniem.}

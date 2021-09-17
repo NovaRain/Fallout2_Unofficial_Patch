@@ -11,12 +11,12 @@
 {110}{}{W twoim ogrodzie wyros³o kilka wrednych roœlin - trzeba by³o je wyplewiæ.}
 {111}{hak001a}{Proszê, wyjaw zamglonym oczom cel swego przybycia.}
 {112}{}{Hê? }
-{113}{}{Przychodzê, aby siê po¿egnaæ. Wyruszam ze œwiêt¹ misj¹. }
-{114}{}{Odchodzê st¹d. Przysz³o mi na myœl, ¿e mo¿e chocia¿ ten jeden raz bêdziesz gadaæ jak prawdziwa osoba. }
-{115}{}{Bierzesz za du¿o prochów. Wynoszê siê st¹d. }
+{113}{}{Przychodzê, ¿eby siê po¿egnaæ. Wyruszam ze œwiêt¹ misj¹. }
+{114}{}{Odchodzê st¹d. Przysz³o mi na myœl, ¿e mo¿e chocia¿ ten jeden raz bêdziesz gadaæ jak cz³owiek. }
+{115}{}{Za du¿o grzebiesz siê w prochach. Wynoszê siê st¹d. }
 {116}{}{W twoim ogrodzie wyros³o kilka wrednych roœlin - trzeba by³o je wyplewiæ.}
 {117}{hak002}{Ziemia œpiewa o nadejœciu nowej duszy bohatera... mo¿e przed odejœciem wyœwiadczysz mi grzecznoœæ?}
-{118}{}{Pewnie. Czego potrzebujesz?}
+{118}{}{Jasne. Czego potrzebujesz?}
 {119}{}{To zale¿y... co mi dasz?}
 {120}{hak002a}{Na œwiat mo¿na patrzeæ z wielu ró¿nych stron - to lekcja, której ju¿ nied³ugo doœwiadczysz... mo¿e przed odejœciem wyœwiadczysz mi grzecznoœæ?}
 {121}{}{Czy w³aœnie poprosi³eœ mnie o przys³ugê? Jeœli tak, to czemu nie?}
@@ -25,7 +25,7 @@
 {124}{}{Uch-huh. }
 {125}{}{Neech-ech. Tyyyy. Daj. To boli.}
 {126}{hak004}{Niech twa aura rozœwietli me ¿ycie, gdy... och, stañ u mych drzwi, gdy ju¿ skoñczysz, a dam ci coœ dobrego.}
-{127}{}{Urgh.}
+{127}{}{Argggg!}
 {128}{hak005}{Roœliny o mrocznych duszach znów rozpleni³y siê w moim ogrodzie. Wiele wiosen dotyka³o mych koœci i jestem zbyt kruchy, by stan¹æ do tej walki, która w naturze nigdy siê nie koñczy. Proszê ciê o pomoc.}
 {129}{}{Nie mogê. Muszê natychmiast rozpocz¹æ sw¹ misjê.}
 {130}{}{Wiem, ¿e nie jesteœ z³ym facetem, ale mnie i tak ju¿ boli g³owa, wiêc chyba raczej dam sobie z tym spokój.}
@@ -33,7 +33,7 @@
 {132}{}{By³oby to dla mnie zaszczytem, œwiêty ojcze.}
 {133}{}{Czy poprosi³eœ mnie w³aœnie o wytêpienie chwastów z twojego ogrodu? Jeœli tak, to nie ma sprawy.}
 {134}{}{Za op³at¹.}
-{135}{hak006}{¯¹daæ zap³aty za prezent przynosi mniej ni¿ sam podarunek. Dam ci to i dodam nauczkê w postaci rozczarowania ciê przy odbiorze przez twoj¹ w³asn¹ osobê.}
+{135}{hak006}{To ask payment for a gift will bring you less than the gift itself.  I will give you such and add the lesson of your self-disappointment at the receiving.}
 {136}{}{Mo¿e byæ. Gdzie jest ogród?}
 {137}{}{Wiesz, mi³ym prezentem by³oby, gdybyœ zacz¹³ MÓWIÆ PO LUDZKU!}
 {138}{}{A co jeœli dam ci nauczkê w postaci rozczarowania wychodz¹c st¹d natychmiast? ¯egnam.}
@@ -49,7 +49,7 @@
 {148}{hak008}{Brzemiê, które dŸwigasz, bêdzie ciê mêczy³o coraz bardziej.}
 {149}{hak009}{Niech bogowie wspomog¹ twoje wysi³ki, Dziecko Przeznaczenia. Niech twa aura rozœwietli mój byt, gdy ziemia znów odetchnie pe³n¹ piersi¹.}
 {150}{}{Rozumiem, ¿e chcesz mnie znowu zobaczyæ, gdy ju¿ skoñczê... wiesz, mog³eœ to po prostu powiedzieæ.}
-{151}{}{Do widzenia.}
+{151}{}{¯egnaj.}
 {152}{hak010}{Ha! ¯yje w tobie duch Za³o¿yciela. Skup siê na umacnianiu siebie, by rozszerzaæ wielkoœæ i umo¿liwiæ jej dotkniêcie œwiata. Oczywiœcie, nagroda bêdzie wiêcej niŸli tylko duchowa. }
 {153}{}{Brzmi interesuj¹co. Wrócê, gdy skoñczê.}
 {154}{}{A wiêc dostanê jak¹œ zap³atê. Mo¿e byæ. Na razie.}
@@ -85,7 +85,7 @@
 {184}{}{Dziêkujê.}
 {185}{}{Prawie mi przykro, ¿e muszê ju¿ iœæ. Ju¿ niemal potrafiê ciê zrozumieæ. Do widzenia.}
 {186}{hak019}{Ach, Dziecko, mój ogród ma siê dobrze, a twój?}
-{187}{}{Wszystko w porz¹dku.}
+{187}{}{Chyba tak.}
 {188}{}{Potrzebujê uzdrowienia.}
 {189}{}{Mówi³eœ, ¿e gdzie s¹ te roœliny?}
 {190}{}{Nie mam ¿adnego ogrodu - o czym u licha gadasz tym razem?}
@@ -94,19 +94,19 @@
 {193}{}{Ouu?}
 {194}{}{Uuug! Bak!}
 {195}{hak020}{Wype³nia mnie radoœæ z tych s³ów. Zaprawdê, bogowie szepcz¹ do mnie. Do widzenia.}
-{196}{}{Do widzenia.}
+{196}{}{Bywaj.}
 {197}{}{Wci¹¿ mieszasz jakieœ dziwne zio³a, co? Na razie.}
 {198}{hak021}{Wszyscy mamy swoje ogrody. Niech twoje czyny s³u¿¹ dogl¹daniu twego. Nich ci siê dobrze wiedzie. Tymczasem bêdê zabiega³ o ³askê bogów.}
-{199}{}{Na razie.}
+{199}{}{Czeœæ.}
 {200}{}{Za³o¿ê siê, ¿e ci¹gasz ze sob¹ to swoje towarzystwo, gdziekolwiek pójdziesz. Trzymaj siê.}
 {201}{hak022}{Spójrz na pó³noc, Dziecko, a droga stanie otworem.}
-{202}{}{Dobra. Dziêki.}
+{202}{}{Dobra, dziêki.}
 {203}{hak023}{Czujê siê zaszczycony, ¿e mogê s³u¿yæ Dziecku Przeznaczenia.}
 {204}{hak024}{Takie jest ¿ycie. Dwoje tworzy trzecie. Do stworzenia leczniczego proszku bêd¹ ci potrzebne korzeñ xandrowy i kwiat Broca.}
 {205}{}{Och. Dziêki.}
 {206}{}{Puu.}
 {207}{hak025}{Oby nigdy nie zasz³a potrzeba jego u¿ycia.}
-{208}{}{Dobra. Dziêki.}
+{208}{}{Dobra, dziêki.}
 {209}{}{Uch!}
 {210}{hak026}{Zdrowie do ciebie powróci³o.}
 {211}{}{Dziêkujê.}
@@ -121,30 +121,30 @@
 {220}{hak028b}{Niech Wody umilaj¹ tw¹ podró¿.}
 {221}{hak028c}{Niech Wiatr prowadzi ciê do twego celu.}
 {222}{hak028d}{Niech Ogieñ sma¿y twoje siedzenie, a¿ ukoñczysz to zadanie.}
-{223}{}{Dziêki.}
+{223}{}{Dziêkujê.}
 {224}{}{¯e co?!}
 {225}{}{Uch.}
 {226}{}{Huh?!}
 {227}{hak029}{Witaj z powrotem, Dziecko. Z wyrazu twej twarzy czytam, ¿e ocalenie przez GECK nie jest jeszcze naszym udzia³em. Nie ustawaj w d¹¿eniach jak pracowita mrówka, dopóki nasze rezerwy siê nie wyczerpi¹. Jesteœ nasz¹ ostatni¹ nadziej¹.}
-{228}{}{Uch-huh.}
+{228}{}{Yhy.}
 {229}{}{Staram siê. Ciekawe, czy jest jakaœ mrówka, która przesz³a tyle mil co ja.}
 {230}{}{Robiê co mogê.}
 {231}{}{Podwojê swoje wysi³ki, œwiêty ojcze. Nie zawiodê ciê.}
 {232}{}{Jasne, jasne. Ju¿ to mówi³eœ.}
 {233}{hak030}{Dziecko - wioska p³acze z rozpaczy. Ludzie s³abn¹ z g³odu. Proszê, nie wytrzymamy ju¿ zbyt d³ugo.}
-{234}{}{Uch-huh.}
+{234}{}{Yhy.}
 {235}{}{Staram siê. Staram siê! Dajcie mi wszyscy spokój!}
 {236}{}{Znajdê GECK, o œwiêty. Masz moje s³owo.}
 {237}{}{Zrobiê co tylko bêdê w stanie, by odnaleŸæ GECK.}
 {238}{hak031}{Dziecko, zosta³o nam ju¿ tylko kilka ziaren z ca³ego piasku czasu. Proszê, przynieœ szybko GECK i spraw, by przysz³oœæ naszej wioski przypomina³a pla¿ê nad oceanem. Szybko, zanim ostatnie ziarno siê przesypie.}
-{239}{}{Uch-huh.}
+{239}{}{Yhy.}
 {240}{}{W porz¹dku. Wyruszam na poszukiwania.}
 {241}{}{¯ycie jest pla¿¹, co?}
 {242}{}{Znajdê GECK, o œwiêty. Nie zawiodê naszego ludu.}
 {243}{hak032}{Dziecko, duchy naszych przodków prowadz¹ mnie przez œwiat snów, abym móg³ dotkn¹æ twych myœli. Bez œwiêtego GECKa nasza wioska cierpi. Twoje d³onie trzymaj¹ pasma naszego ¿ycia tak, jak ojciec trzyma swoje dzieci.}
 {244}{hak033}{Kolejny raz mój duch dotyka ciê poprzez pustkê, Dziecko Przeznaczenia. Nasze uprawy usychaj¹, a nasze zapasy s¹ bardzo skromne. Wróæ do nas z GECKiem. Twoja pora¿ka zgasi ostatni promieñ nadziei.}
-{245}{hak034}{Dziecko. Wioska s³abnie. Dotykanie twych snów staje siê coraz trudniejsze. Musisz siê pospieszyæ, albo wszyscy...}
-{246}{hak035}{Dziecko? Dziecko? Czy mnie s³yszysz? Wioska umiera. Ca³a nasza przysz³oœæ umiera razem z ni¹. Niewiele nam ju¿ zosta³o czasu i ducha... Pospiesz siê. Pospiesz siê...}
+{245}{hak034}{Dziecko. Wioska s³abnie. Dotykanie twych snów staje siê coraz trudniejsze. Musisz siê poœpieszyæ, albo wszyscy...}
+{246}{hak035}{Dziecko? Dziecko? Czy mnie s³yszysz? Wioska umiera. Ca³a nasza przysz³oœæ umiera razem z ni¹. Niewiele nam ju¿ zosta³o czasu i ducha... Poœpiesz siê. Poœpiesz siê...}
 {247}{hak101}{Dziecko - cieñ mroku nadci¹gn¹³ przed tob¹.}
 {248}{}{Auuuu!}
 {249}{}{Co siê sta³o?}
@@ -156,13 +156,13 @@
 {255}{hak104}{Nie! Nie b³yszczy ³adnie! Porwali nasz lud i zabrali go na po³udniowy zachód.}
 {256}{}{Auu.}
 {257}{hak105}{Tak. Wielki smutek i ból. Stojê miêdzy œwiatami, by ci to powiedzieæ, Dziecko Przeznaczenia. Uratuj swój lud.}
-{258}{}{Uch?}
+{258}{}{Hm?}
 {259}{hak106}{Dziecko, pozwól moim s³owom dotkn¹æ twojej duszy. IdŸ na po³udniowy zachód. Po³udnie i zachód. Uratuj nasz lud. Uratuj nasz lud.}
 {260}{}{Uch-huh..}
 {261}{hak107}{Dziêkujmy przodkom. Teraz moja dusza mo¿e do³¹czyæ do wiecznej pieœni. Bezpiecznej podró¿y, Dziecko.}
 {262}{}{Iœæ?}
 {263}{hak108}{IdŸ!...}
-{264}{}{Pa pa.}
+{264}{}{PA PA.}
 {265}{hak109}{Nadesz³y mroczne dusze. Zabrali wszystkich.}
 {266}{}{Mroczne dusze? Co masz na myœli?}
 {267}{hak110}{Zerwa³ siê nag³y wiatr. Nadlecia³y wielkie wa¿ki pluj¹ce ogniem. li ludzie wype³zli z brzuchów potworów i przynieœli œmieræ naszym wojownikom.}
@@ -187,6 +187,6 @@
 {286}{hak120}{Ocean ³ez wyp³akanych przez matkê za swoje dzieci.}
 {287}{}{Och, ocean. Ale co mam zrobiæ?}
 {288}{hak121}{Dziwna mg³a ukrad³a ich myœli i wys³a³a ich do krainy Snu. li ludzie wêdrowali miêdzy œni¹cymi, ale sami nie œnili.}
-{289}{}{A potem?}
+{289}{}{I co?}
 {290}{hak122}{Zbyt wiele lat i zbyt wiele ran, Dziecko. Zamiast tego musisz pos³uchaæ.}
 {291}{}{Dobrze.}

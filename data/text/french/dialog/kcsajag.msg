@@ -80,14 +80,11 @@
 {282}{}{Tout le plaisir est pour moi. Et puis, les $50 ne m'ont pas fait de mal.}
 {283}{}{Bon, je dormirai mieux maintenant que Klamath est débarrassée de la gnôle de Bob.}
 {284}{}{Ca me fait ni chaud, ni froid.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
- brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
- become a real hot spot lately.}
+{290}{}{Eh bien, voyons voir. Il se passe toutes sortes de choses en ville ces derniers temps. (compte sur ses doigts) Il y a des hommes insecte mutilant des brahmines, des rongeurs d'une taille inhabituelle, un esprit qui marche, et un chasseur disparu. Klamath est devenu vraiment chaud ces derniers temps.}
 {291}{}{Parle-moi des Hommeinsectes qui mutilent des Brahmines.}
 {292}{}{Parle-moi des rongeurs gigantesques.}
 {293}{}{Parle-moi de l'Esprit Ambulant.}
-{294}{}{I'm not surprised that a hunter's gone missing with all this excitement, but tell me about him,
- too.}
+{294}{}{Avec tous ces événements, c'est pas étonnant qu'un trappeur ait disparu. Parle-moi de lui.}
 {295}{}{J'aimerais te poser d'autres questions.}
 {296}{}{Je ne veux pas en savoir plus.}
 {300}{}{Eh bien, les frères Dunton sont toujours à la recherche de quelqu'un pour faire le sale boulot à leur place. Et, à ce propos, Torr, le fils Buckner, a peur d'aller garder les Brahmines la nuit à cause des Hommeinsectes.}

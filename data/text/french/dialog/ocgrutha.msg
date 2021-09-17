@@ -83,7 +83,7 @@
 {182}{}{Tu as dit que tu me dirais si tu trouvais un J.E.K ici. En as-tu repéré un ?}
 {183}{}{Oui, je cherche un J.E.K. On m'a dit que je pourrais en trouver un ici. Sais-tu où il se trouve ?}
 {184}{}{Non, merci. Je n'ai besoin de rien.}
-{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Oui, il y avait un J.E.K dans l'abri. Il est à toi avec tous mes remerciements.}
 {186}{}{Oui, il y avait un J.E.K dans la salle de stockage de l'abri. Mais il n'a plus l'air d'être là. Je regrette de ne pouvoir te le donner pour te récompenser de ton aide généreuse.}
 {187}{}{Merci !}
 {188}{}{Euh... Tant pis. Je vais essayer d'en trouver un ailleurs.}

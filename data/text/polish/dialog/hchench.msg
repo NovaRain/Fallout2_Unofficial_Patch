@@ -14,7 +14,7 @@
 {113}{}{Myœleliœmy, ¿e po tylu latach prób ucywilizowania tych pustkowi bêdziemy nieco bli¿ej naszego celu.}
 {114}{}{Mam doœæ tych ci¹g³ych przepychanek miedzy ludŸmi, a mutantami. Czy nie powinniœmy dawaæ przyk³ad?}
 {115}{}{Czego chcesz? Nie widzisz, ¿e odpoczywam?}
-{116}{}{Kiedy odchodzi nastêpna karawana?}
+{116}{}{Kiedy wyrusza kolejna karawana?}
 {117}{}{Patrole, patrole, patrole... ci¹gle tylko to.}
 {118}{}{Chyba siê zdrzemnê.}
 {119}{}{Zas³ugujê na podwy¿kê. To przecie¿ niebezpieczna s³u¿ba.}

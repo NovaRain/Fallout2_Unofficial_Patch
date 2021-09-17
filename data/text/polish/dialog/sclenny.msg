@@ -1,4 +1,4 @@
-{100}{}{Mutant i to na dodatek uleg³y.}
+{100}{}{Widzisz mutanta i to na dodatek uleg³ego.}
 {101}{}{To Lenny, pamiêtasz? Ten niemi³y.}
 {102}{}{O, ch³opie ten goœæ wygl¹da co najmniej podejrzanie. Poza tym, ¿e jest zielony i brzydki, ma na sobie wiêcej blizn ni¿ stara dziwka. To musi byæ wojownik.}
 {103}{}{Jestem Lenny, a ty jesteœ œcierwo, wiêc zje¿d¿aj st¹d.}

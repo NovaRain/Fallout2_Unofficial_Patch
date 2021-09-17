@@ -23,7 +23,7 @@
 {122}{}{Powiem ci, co chcesz wiedzieæ.}
 {123}{}{Mam na imiê Martin.}
 {124}{}{Mogê powiedzieæ ci, co siê sta³o.}
-{125}{}{Witaj, nazywam siê Martin Frobisher. Mówiê w imieniu tych ludzi. Dziêki bogu jesteœ tu.}
+{125}{}{Witaj, nazywam siê Martin Frobisher. Mówiê w imieniu tych ludzi. Dziêki Bogu jesteœ tu.}
 {126}{}{Co chcesz wiedzieæ?}
 {127}{}{Niez³e ubranka, podobne do mojego. Kim jesteœcie?}
 {128}{}{Co tu robicie?}
@@ -40,25 +40,25 @@
 {139}{}{Szczêœciarze. Mo¿e teraz poznacie ból, jaki odczuwa³ mój przodek, Przybysz z Krypty. Mam nadziejê, ¿e wszyscy sp³oniecie. ¯egnaj.}
 {140}{}{Nazywaj¹ go toksyn¹ F.E.V. Robi z ludŸmi okropne rzeczy, zanim ich zabije. Jedyn¹ "dobr¹" stron¹ jest to, ¿e umiera siê szybko. Niestety, bardzo boleœnie.}
 {141}{}{To brzmi okropnie. Dlaczego u¿ywaj¹ was do testów?}
-{142}{}{Zabrali nas z naszej krypty, poniewa¿ chcieli przetestowaæ szczepionkê. Potrzebowali ludzi spoza Enklawy, którzy byliby jednak ludŸmi czystej krwi. Zabrali wiêc nas.}
+{142}{}{Zabrali nas z naszej Krypty, poniewa¿ chcieli przetestowaæ szczepionkê. Potrzebowali ludzi spoza Enklawy, którzy byliby jednak ludŸmi czystej krwi. Zabrali wiêc nas.}
 {143}{}{Zabrali was? Jak, sk¹d?}
-{144}{}{Przybyli do g³ównych drzwi krypty. Znali sk¹dœ kod dostêpu. Po prostu otworzyli drzwi i ich opancerzeni ¿o³nierze zapêdzili nas do lataczy i przywieŸli tu. Wtedy zaczê³y siê eksperymenty. (Zaczyna siê trz¹œæ)}
+{144}{}{Przybyli do g³ównych drzwi Krypty. Znali sk¹dœ kod dostêpu. Po prostu otworzyli drzwi i ich opancerzeni ¿o³nierze zapêdzili nas do lataczy i przywieŸli tu. Wtedy zaczê³y siê eksperymenty. (Zaczyna siê trz¹œæ)}
 {145}{}{To okropne. Pozwól, ¿e zapytam ciê o coœ jeszcze.}
-{146}{}{Krypta? Z której krypty jesteœcie?}
+{146}{}{Krypta? Z której Krypty jesteœcie?}
 {147}{}{Z Krypty 13, oczywiœcie.}
 {148}{}{Znam to miejsce, przywiod³a mnie tam moja misja, poszukiwanie GECKa.}
 {149}{}{Znam to miejsce, przywiod³a mnie tam moja misja, poszukiwanie GECKa, który móg³by ocaliæ mój lud. Was tam ju¿ nie by³o. By³ jednak GECK.}
 {150}{}{Taka by³a moja misja. Hej, jesteœ Nadzorc¹?}
 {151}{}{GECK? Mieliœmy parê. Na pewno dosta³byœ go od nas. Chyba widzia³em, jak ¿o³nierze Enklawy nieœli jednego do latacza.}
 {152}{}{Widzia³eœ, jak bior¹ GECK? Czy wiesz, co z nim zrobili?}
-{153}{}{W porz¹dku. Wzi¹³em ju¿ sobie GECKa z krypty. Pozwól, ¿e spytam ciê o coœ innego.}
+{153}{}{W porz¹dku. Wzi¹³em ju¿ sobie GECKa z Krypty. Pozwól, ¿e spytam ciê o coœ innego.}
 {154}{}{Nie wiem dok³adnie, gdzie go umieœcili, ale z tego, co s³ysza³em, myœlê, ¿e jest na [barrier level], zaraz pod nami.}
 {155}{}{To œwietnie. Dziêki. Lepiej ju¿ pójdê.}
 {156}{}{Ach, Rozumiem. Pozwól, ¿e spytam ciê o coœ jeszcze.}
 {157}{}{Zaczekaj! Musisz nas st¹d wydostaæ.}
 {158}{}{Mam taki zamiar. Idê na dó³, do elektrowni, aby wy³¹czyæ zasilanie. Gdy pola si³owe zostan¹ wy³¹czone, biegnijcie na górê, do mojego statku.}
 {159}{}{Jak mam to zrobiæ?}
-{160}{}{Powinniœcie pomyœleæ o tym *zanim* wykopaliœcie z krypty mojego przodka. Mam nadziejê, ¿e wszyscy tu zgnijecie. ¯egnaj.}
+{160}{}{Powinniœcie pomyœleæ o tym *zanim* wykopaliœcie z Krypty mojego przodka. Mam nadziejê, ¿e wszyscy tu zgnijecie. ¯egnaj.}
 {161}{}{Dziêkujê. Niech prowadzi ciê opatrznoœæ bo¿a i szczêœcie.}
 {162}{}{Powodzenia i ¿egnaj.}
 {163}{}{Dziêki, ale pozwól, ¿e zapytam ciê o coœ jeszcze.}
@@ -70,16 +70,16 @@
 {169}{}{Œwietny pomys³, ale nie wiem, jak wysadziæ reaktor. Nie mam ¿adnych ³adunków wybuchowych.}
 {170}{}{Jestem pewien, ¿e gdziekolwiek stra¿nicy maj¹ swoj¹ siedzibê, musz¹ mieæ tam równie¿ arsena³. Jestem pewien, ¿e znajdziesz tam ³adunki wybuchowe.}
 {171}{}{Niez³y pomys³. Znajdê ³adunki wybuchowe i wysadzê komputer. Biegnijcie wtedy do mojego statku. Bêdê zaraz za wami.}
-{172}{}{Nie u¿ywamy ju¿ tego okreœlenia. Kiedyœ mieliœmy nadzorcê, wiele lat temu, lecz pope³ni³ niegodziwy czyn i wielu z nas opuœci³o kryptê - zapewne by zgin¹æ na pustkowiach. Zosta³ os¹dzony i skazany na œmieræ za sw¹ zbrodnê. Od tego czasu nie u¿ywamy tytu³u nadzorcy.}
-{173}{}{Nie obwiniam was. Nadzorca wygna³ z krypty mojego przodka, Mieszkañca Krypty, by zgin¹³ na pustkowiach. }
+{172}{}{Nie u¿ywamy ju¿ tego okreœlenia. Kiedyœ mieliœmy nadzorcê, wiele lat temu, lecz pope³ni³ niegodziwy czyn i wielu z nas opuœci³o Kryptê - zapewne by zgin¹æ na pustkowiach. Zosta³ os¹dzony i skazany na œmieræ za sw¹ zbrodnê. Od tego czasu nie u¿ywamy tytu³u nadzorcy.}
+{173}{}{Nie obwiniam was. Nadzorca wygna³ z Krypty mojego przodka, Mieszkañca Krypty, by zgin¹³ na pustkowiach. }
 {174}{}{Mieszkañca Krypty? Jak dawno? Powiedzmy, osiemdziesi¹t lat temu?}
 {175}{}{Tak, to by³o osiemdziesi¹t lat temu. Sk¹d to wiesz?}
-{176}{}{Osiemdziesi¹t lat temu bohater ocali³ nasz¹ kryptê, zaœ Nadzorca go wygna³. Inni pod¹¿yli za nim i od tego czasu o nich nie s³yszeliœmy. Pamiêtamy te wydarzenia ze wstydem.}
+{176}{}{Osiemdziesi¹t lat temu bohater ocali³ nasz¹ Kryptê, zaœ Nadzorca go wygna³. Inni pod¹¿yli za nim i od tego czasu o nich nie s³yszeliœmy. Wspominamy te wydarzenia ze wstydem.}
 {177}{}{Hej! Mówisz o *moim* przodku i ludziach, którzy za³o¿yli moj¹ wioskê. Pochodzili ze Œwiêtej Krypty Trzynastej.}
 {178}{}{I tak byæ powinno. Pozwól, ¿e spytam ciê o coœ jeszcze.}
 {179}{}{W takim razie powinniœcie nadal za to cierpieæ. ¯egnaj.}
-{180}{}{To przecie¿ nasza krypta! Jeszcze raz lud Krypty musi polegaæ na - uch, tym razem - prawnuku Mieszkañca Krypty, który nas ocali.}
-{181}{}{To przecie¿ nasza krypta! Jeszcze raz lud Krypty musi polegaæ na - uch, tym razem - prawnuczce Mieszkañca Krypty, która nas ocali.}
+{180}{}{To przecie¿ nasza Krypta! Jeszcze raz lud Krypty musi polegaæ na - uch, tym razem - prawnuku Mieszkañca Krypty, który nas ocali.}
+{181}{}{To przecie¿ nasza Krypta! Jeszcze raz lud Krypty musi polegaæ na - uch, tym razem - prawnuczce Mieszkañca Krypty, która nas ocali.}
 {182}{}{Mam nadziejê, ¿e znajdê sposób, aby was ocaliæ.}
 {183}{}{Pomyœlê o tym.}
 {184}{}{Có¿ za dziwny zbieg okolicznoœci! Pozwól, ¿e spytam ciê o coœ jeszcze.}

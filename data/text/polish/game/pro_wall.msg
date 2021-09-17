@@ -55,38 +55,38 @@
 {5300}{}{œciana}
 {5400}{}{œciana}
 {5500}{}{stalowa rama okienna}
-{5600}{}{rura}
-{5700}{}{rura}
-{5800}{}{rura}
+{5600}{}{rury}
+{5700}{}{rury}
+{5800}{}{rury}
 {5900}{}{osprzêt}
 {5901}{}{}
-{6000}{}{rura}
-{6100}{}{rura}
-{6200}{}{rura}
-{6300}{}{rura}
-{6400}{}{rura}
-{6500}{}{rura}
-{6600}{}{rura}
+{6000}{}{rury}
+{6100}{}{rury}
+{6200}{}{rury}
+{6300}{}{rury}
+{6400}{}{rury}
+{6500}{}{rury}
+{6600}{}{rury}
 {6700}{}{rury}
 {6800}{}{rury}
 {6900}{}{rury}
-{7000}{}{rura}
-{7100}{}{rura}
-{7200}{}{rura}
-{7300}{}{rura}
-{7400}{}{rura}
+{7000}{}{rury}
+{7100}{}{rury}
+{7200}{}{rury}
+{7300}{}{rury}
+{7400}{}{rury}
 {7500}{}{osprzêt}
 {7501}{}{}
 {7600}{}{rury}
 {7700}{}{osprzêt}
 {7701}{}{}
-{7800}{}{rura}
+{7800}{}{rury}
 {7900}{}{rury}
 {8000}{}{rury}
-{8100}{}{rura}
+{8100}{}{rury}
 {8200}{}{rury}
-{8300}{}{rura}
-{8400}{}{rura}
+{8300}{}{rury}
+{8400}{}{rury}
 {8500}{}{Gizmo}
 {8600}{}{drewniane ogrodzenie}
 {8700}{}{drewniane ogrodzenie}
@@ -125,7 +125,7 @@
 {12000}{}{drewniana œciana}
 {12100}{}{drewniana œciana}
 {12200}{}{drewniana œciana}
-{12300}{}{rama okienna}
+{12300}{}{okno}
 {12400}{}{drewniana œciana}
 {12500}{}{drewniana œciana}
 {12600}{}{drewniana œciana}
@@ -566,7 +566,7 @@
 {56100}{}{œciana}
 {56200}{}{przejœcie}
 {56300}{}{przejœcie}
-{56400}{}{rama okienna}
+{56400}{}{okno}
 {56500}{}{œciana}
 {56600}{}{œciana}
 {56700}{}{œciana}
@@ -586,7 +586,7 @@
 {58100}{}{œciana}
 {58200}{}{przejœcie}
 {58300}{}{przejœcie}
-{58400}{}{rama okienna}
+{58400}{}{okno}
 {58500}{}{œciana}
 {58600}{}{œciana}
 {58700}{}{œciana}
@@ -640,14 +640,14 @@
 {63500}{}{œciana}
 {63600}{}{œciana}
 {63700}{}{œciana}
-{63800}{}{rama okienna}
-{63900}{}{rama okienna}
-{64000}{}{rama okienna}
-{64100}{}{rama okienna}
-{64200}{}{rama okienna}
-{64300}{}{rama okienna}
-{64400}{}{rama okienna}
-{64500}{}{rama okienna}
+{63800}{}{okno}
+{63900}{}{okno}
+{64000}{}{okno}
+{64100}{}{okno}
+{64200}{}{okno}
+{64300}{}{okno}
+{64400}{}{okno}
+{64500}{}{okno}
 {64600}{}{œciana}
 {64700}{}{œciana}
 {64800}{}{œciana}
@@ -666,8 +666,8 @@
 {66100}{}{przejœcie}
 {66200}{}{przejœcie}
 {66300}{}{przejœcie}
-{66400}{}{rama okienna}
-{66500}{}{rama okienna}
+{66400}{}{okno}
+{66500}{}{okno}
 {66600}{}{œciana}
 {66700}{}{œciana}
 {66800}{}{œciana}
@@ -841,10 +841,10 @@
 {83600}{}{œciana}
 {83700}{}{œciana}
 {83800}{}{œciana}
-{83900}{}{rama okienna}
-{84000}{}{rama okienna}
-{84100}{}{rama okienna}
-{84200}{}{rama okienna}
+{83900}{}{okno}
+{84000}{}{okno}
+{84100}{}{okno}
+{84200}{}{okno}
 {84300}{}{œciana}
 {84400}{}{filar}
 {84500}{}{przejœcie}
@@ -1536,34 +1536,34 @@
 {152200}{}{œciana}
 {152300}{}{œciana}
 {152400}{}{œciana}
-{152500}{}{wejœcie do kopalni}
-{152600}{}{wejœcie do kopalni}
+{152500}{}{Wejœcie do kopalni}
+{152600}{}{Wejœcie do kopalni}
 {152700}{}{przejœcie}
 {152800}{}{przejœcie}
 {152900}{}{przejœcie}
 {153000}{}{przejœcie}
-{153100}{}{œciana wahad³owca}
-{153200}{}{œciana wahad³owca}
-{153300}{}{œciana wahad³owca}
-{153400}{}{œciana wahad³owca}
-{153500}{}{œciana wahad³owca}
-{153600}{}{œciana wahad³owca}
-{153700}{}{œciana wahad³owca}
-{153800}{}{œciana wahad³owca}
-{153900}{}{œciana wahad³owca}
-{154000}{}{œciana wahad³owca}
-{154100}{}{œciana wahad³owca}
-{154200}{}{œciana wahad³owca}
-{154300}{}{œciana wahad³owca}
-{154400}{}{œciana wahad³owca}
-{154500}{}{œciana wahad³owca}
-{154600}{}{œciana wahad³owca}
-{154700}{}{œciana wahad³owca}
-{154800}{}{œciana wahad³owca}
-{154900}{}{œciana wahad³owca}
-{155000}{}{œciana wahad³owca}
-{155100}{}{œciana wahad³owca}
-{155200}{}{œciana wahad³owca}
+{153100}{}{œciana promu}
+{153200}{}{œciana promu}
+{153300}{}{œciana promu}
+{153400}{}{œciana promu}
+{153500}{}{œciana promu}
+{153600}{}{œciana promu}
+{153700}{}{œciana promu}
+{153800}{}{œciana promu}
+{153900}{}{œciana promu}
+{154000}{}{œciana promu}
+{154100}{}{œciana promu}
+{154200}{}{œciana promu}
+{154300}{}{œciana promu}
+{154400}{}{œciana promu}
+{154500}{}{œciana promu}
+{154600}{}{œciana promu}
+{154700}{}{œciana promu}
+{154800}{}{œciana promu}
+{154900}{}{œciana promu}
+{155000}{}{œciana promu}
+{155100}{}{œciana promu}
+{155200}{}{œciana promu}
 {155300}{}{emiter pola si³owego}
 {155400}{}{œciana}
 {155500}{}{œciana}

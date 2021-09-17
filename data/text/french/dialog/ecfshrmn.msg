@@ -1,6 +1,6 @@
 {100}{}{Tu vois un Pêcheur.}
 {101}{}{Tu arrives juste à temps pour être témoin des grâces de la Déesse de la mer.}
-{102}{}{[More]}
+{102}{}{[Plus]}
 {103}{}{}
 {104}{}{Juste avant un grand orage, nous jetons des lances dans la mer pour montrer notre courage face aux éléments. Si nous avons été braves, la Déesse nous récompense de ses fruits.}
 {105}{}{A la saison des orages, on jette des fleurs de Broc à la mer. Ensuite, la Déesse opère sa magie et elle nous renvoie les fleurs de Broc transformées en précieuses racines de Xandre.}

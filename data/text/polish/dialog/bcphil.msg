@@ -32,26 +32,25 @@
 {131}{}{Niby czemu mia³bym to dla ciebie zrobiæ?}
 {132}{}{Zrobisz dobry uczynek.}
 {133}{}{Bo jestem najgorsz¹ rzecz¹, jaka mo¿e ciê z ¿yciu spotkaæ. Oddaj j¹, albo dowiesz siê, ile bólu mo¿e znieœæ cz³owiek.}
-{134}{}{Bo jeœli bêdziemy walczyæ, ktoœ mo¿e zgin¹æ, a nie wiem jak tobie, ale mi do œmierci nie spieszno. Za³atwmy to po przyjacielsku, dobra?}
+{134}{}{Bo jeœli bêdziemy walczyæ, ktoœ mo¿e zgin¹æ, a nie wiem jak tobie, ale mi do œmierci nieœpieszno. Za³atwmy to po przyjacielsku, dobra?}
 {135}{}{Pieprzyæ to.}
 {136}{}{}
 {137}{}{}
 {138}{}{To ma byæ wyzwanie, tak? Przyjmujê!!!}
 {139}{}{}
 {140}{}{}
-{141}{}{Hmm... Ja... No tak, dobra. Masz tu klucz do jej celi, jest z ty³u, w szopie. Bierz j¹ i wynoœ siê st¹d. ¯ebym ciê tu wiêcej nie widzia³. Nastêpnym razem nie bêdzie czasu na pogawêdki.}
+{141}{}{Hmm... Ja... No tak, dobra. Masz tu klucz do jej celi, jest z ty³u, w szopie. Bierz j¹ i wynoœ siê st¹d. ¯ebym ciê tu wiêcej nie widzia³. Ale jeœli kiedyœ tu wrócisz, to przekonamy siê kto zginie.}
 {142}{}{No to przekonajmy siê kto wyjdzie z tego ¿ywy.}
 {143}{}{Dziêki, m¹dry z ciebie goœæ.}
 {144}{}{Wyjdziesz st¹d tylko nogami do przodu, w drewnianej jesionce.}
 {145}{}{}
 {146}{}{}
 {147}{}{Masz na myœli tê zamkniêt¹ z ty³u, z któr¹ siê ostatnio zabawiamy? Nie, nie widzia³em jej.}
-{148}{}{Twoja chora w g³ówkê. Moja zabraæ ci g³ówkê.}
+{148}{}{Twoja chora w g³owa. Moja zabraæ ci g³owa.}
 {149}{}{Jak to mieæ z ni¹ zabawy?}
 {150}{}{Och, moja ju¿ iœæ.}
 {151}{}{Niez³y z ciebie œwir. Chyba pora ciê uœpiæ, kundlu.}
-{152}{}{Fajnie. ¯yczê mi³ej zabawy, muszê ju¿ iœæ.}
-{153}{}{Oddaj dziewczyn¹, a nikomu nie stanie siê krzywda.}
-
+{152}{}{Fajnie, to bawcie siê dalej, ja ju¿ sobie pójdê.}
+{153}{}{Oddaj dziewczynê, to mo¿e pozwolê ci odejœæ.}
 {154}{}{Znowu tu jesteœ? Dobra, przekonajmy siê kto do¿yje jutra.}
 {155}{}{Zabiliœmy tê kurewkê, Chrissy! Teraz twoja kolej!!!}

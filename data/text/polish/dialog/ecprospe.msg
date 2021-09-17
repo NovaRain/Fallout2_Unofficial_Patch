@@ -1,4 +1,4 @@
-{100}{}{Poszukiwacz z³ota}
+{100}{}{Widzisz poszukiwacza z³ota}
 {101}{}{Hej, ty tam! Stój! Z regu³y nie zaczepiam nieznajomych, ale potrzebujê zapasów, a nie mogê zostawiæ swojej dzia³ki bez opieki. Chcesz coœ sprzedaæ?}
 {102}{}{Jasne.}
 {103}{}{Przykro mi, nie mam nic na sprzeda¿.}

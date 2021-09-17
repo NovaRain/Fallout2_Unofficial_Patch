@@ -1,5 +1,5 @@
-{100}{}{Widzisz dziecko.}
-{101}{}{Dziecko.}
+{100}{}{Widzisz dzieciaka.}
+{101}{}{Widzisz dziecko.}
 {102}{}{Dziecko, jak ka¿de inne.}
 {103}{}{Wygl¹dasz groŸnie.}
 {104}{}{Nie rób mi krzywdy, dobra?}
@@ -24,7 +24,7 @@
 {123}{}{Patrzcie na tego pajaca!}
 {124}{}{Czy to twoja mama?}
 {125}{}{Ratunku! Goni mnie ogromniasty robot!}
-{126}{}{Pomocy! Goni mnie robot!}
+{126}{}{Ratunku! Goni mnie ogromniasty robot!}
 {127}{}{Nie jest ci w tym za gor¹co? Halo? Jest tam kto?}
 {128}{}{Co to takiego? Jesteœ cz³owiekiem?}
 {129}{}{Ale olbrzym.}
@@ -32,4 +32,3 @@
 {131}{}{Nie rób mi krzywdy!}
 {132}{}{::p³acze::}
 {133}{}{Mamo, ratunku!}
-

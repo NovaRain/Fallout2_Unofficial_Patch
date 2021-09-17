@@ -10,16 +10,16 @@
 {109}{}{Aaggg.}
 {110}{}{Co tu robi³aœ?}
 {111}{}{Ta. IdŸ za mn¹.}
-{112}{}{Och, moje ty biedne. Radiacja i pustkowia nie s¹ mi³e, prawda? Mam nadziejê, ¿e ktoœ bêdzie ci w stanie pomóc.}
+{112}{}{Och, moje ty biedne. Radiacja i pustkowia nie s¹ mi³e, prawda? Mam nadziejê, ¿e ktoœ bêdzie móg³ ci pomóc.}
 {113}{}{Wiesz, to trochê g³upie. Zwiedza³am sobie, bo Borsuk by³ zajêty komputerem. Posz³am na dó³, zgubi³am siê, a zaraz potem otoczy³y mnie potwory. Dobrze, ¿e tu jesteœ.}
 {114}{}{Mam wiêcej pytañ.}
 {115}{}{Tak, to prawda. Znalaz³aœ coœ ciekawego?}
-{116}{}{Masz racjê. ChodŸmy.}
-{117}{}{Znalaz³am pokój, w którym by³am. No i ten pokój, który wygl¹da³ mi na pomieszczenie paliwowe. Nie dotar³am du¿o dalej, z powodu potworów.}
+{116}{}{Tak masz racjê. ChodŸmy.}
+{117}{}{I found the room I was in. I also found a room that looked like a fueling area.  I didn't get much farther because of the monsters.}
 {118}{}{Mam wiêcej pytañ.}
 {119}{}{Sk¹d jesteœ?}
 {120}{}{Super. Na razie to wszystko.}
-{121}{}{Pochodzê z miejsca na po³udnie od Gruzów i Blasku. By³o to niedaleko morza. By³am niañk¹, ale potem dzieci zmutowa³y w potwory.}
+{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea.  I used to be a nanny, but then the kids mutated into monsters.}
 {122}{}{Mam wiêcej pytañ.}
 {123}{}{Jak pozna³aœ Borsuka?}
 {124}{}{Fascynuj¹ce. To na razie wszystko.}
@@ -28,10 +28,10 @@
 {127}{}{To wszystko. Dziêki.}
 {128}{}{Zawdziêczam ci ¿ycie. Odpowiem na wszystkie twoje pytania.}
 {129}{}{Taaa.}
-{130}{}{Co tam robi³aœ na dole?}
+{130}{}{Co tu robi³aœ?}
 {131}{}{Czy znalaz³aœ coœ ciekawego?}
 {132}{}{Sk¹d jesteœ?}
 {133}{}{Jak pozna³aœ Borsuka?}
 {134}{}{Na razie nie mam ¿adnych. Na razie.}
-{135}{}{O Bo¿e... Borsuk nie ¿yje... nie wiem, co robiæ... nie mam tu przyjació³... ca³a moja rodzina nie ¿yje... o Bo¿e...}
+{135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
 {136}{}{Dziêki za ca³¹ okazan¹ pomoc. Idê poszukaæ Borsuka.}

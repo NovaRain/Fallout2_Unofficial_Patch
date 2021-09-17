@@ -3,7 +3,7 @@
 {102}{}{Nie wygl¹da na uzbrojonego, ani w broñ, ani w umys³.}
 {103}{}{Hej ty, gównojadzie. Nie podobasz mi siê. Chyba musisz postawiæ mi drinka.}
 {104}{}{Hej cipcia, chodŸ tu, a dam ci du¿ego z jêzyczkiem.}
-{105}{}{<pierd!>}
+{105}{}{<Pierd!>}
 {106}{}{Poca³uj mnie gdzieœ.}
 {107}{}{Nie chcê k³opotów.}
 {108}{}{Wiêc myœlisz, ¿eœ twardziel? Zamiotê twoj¹ dup¹ pod³ogê. Go³e pieœci, tu i teraz.}

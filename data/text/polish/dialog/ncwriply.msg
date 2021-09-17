@@ -1,16 +1,9 @@
-# 0. QUICK LOOK
 {100}{}{Widzisz jedno z dzieci Wrightów.}
-
-# 0. LOOK [ENCLAVE_DESTROYED = TRUE] (WTG)
 {150}{}{Widzisz ma³e, czarnow³ose dziecko z garnkiem na g³owie. Celuje palcem w jakichœ wyimaginowanych agentów Enklawy i ci¹gle powtarza "PIF PAF".}
 {151}{}{Widzisz jedno z dzieci Wrightów z garnkiem na g³owie.}
 {152}{}{Widzisz jedno z dzieci Wrightów z garnkiem na g³owie. Celuje palcem w jakichœ wyimaginowanych agentów Enklawy i ci¹gle powtarza "PIF PAF".}
-
-# 1. LOOK (NORMAL) (WTG)
 {200}{}{Widzisz ma³e, czarnow³ose dziecko z garnkiem na g³owie.}
 {201}{}{Widzisz jedno z dzieci Wrightów z garnkiem na g³owie. Ci¹gle robi *bzzzzzzzzz* jak jakiœ szerszeñ.}
-
-# 2. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
 {210}{}{Popatrz na mnie, jestem potomkiem Przybysza z Krypty! Chwalcie Kryptê!}
 {211}{}{Chcê wyruszyæ z misj¹ odnalezienia Krypty 13!}
 {212}{}{Pif paf! Giñcie enklawiste je³opy!}
@@ -27,11 +20,9 @@
 {223}{}{A macie, wy enklawiste dupog³ówki!}
 {224}{}{Zabi³em twojego tatê, ty Enklawo-kochasiu!}
 {225}{}{Niech te enklawiste Skuhhfyzszynny posmakuj¹ mojego metalu.}
-{226}{}{A ja mam na sobie utwardzon¹ zbrojê wspomagan¹! Ta kul¹ siê odbi³a!}
-{227}{}{Giñ, Eklawowcu!}
+{226}{}{A ja mam na sobie utwardzon¹ zbrojê wspomagan¹! Ta kula siê odbi³a!}
+{227}{}{Giñ, Enklawowcu!}
 {228}{}{Arrggggh... dosta³em...}
-
-# 3. FLOAT [WRIGHT CHILDREN PLAYING, NORMAL] (WTG)
 {240}{}{Popatrz, popatrz, jestem metalowym owadem! Bzzzzzz}
 {241}{}{Pif paf!}
 {242}{}{Uwa¿aj, nadci¹ga metalowy owad!}
@@ -40,139 +31,93 @@
 {245}{}{Bum bum!}
 {246}{}{Chcê byæ metalowym owadem w nastêpnej grze!}
 {247}{}{Na-na! Nie trafi³eœ!}
-{248}{}{Tak-tak! Mam ciê! Mam ciê!}
+{248}{}{Ach-ach! Mam ciê! Mam ciê!}
 {249}{}{Bzzzzzzz}
 {250}{}{Zabi³em ci tatê!}
 {251}{}{Zzzziiuuuuu}
 {252}{}{Skuhhfyzszynn posmakuje mojego metalu.}
 {253}{}{Mia³em w³¹czone pole si³owe!}
 {254}{}{Giñ ty przebrzyd³y Salvatore!}
-{255}{}{Arrgggggh... dosta³em...}
-
-# 4. CLICK [ENCLAVE_DESTROYED = TRUE] (WTG)
+{255}{}{Arrggggh... dosta³em...}
 {270}{}{Szkoda mi Dogmeata z Fallouta 1.}
 {271}{}{Myœlisz, ¿e wyjdzie Fallout 3? Chcê byæ jego g³ównym bohaterem!}
-{272}{}{Obejrzeliœcie Fallout 2 dziêki literce Z.}
+{272}{}{Tê czêœæ gry Fallout sponsorowa³a literka Z.}
 {273}{}{Enklawa mo¿e mnie poca³owaæ w mój siedmioletni ty³ek. Co za palanty.}
 {274}{}{Enklawa to by³y prawdziwe pacany, co? Raany.}
 {275}{}{Czy spotkanie z Prezydentem by³o straszne? Czy mia³ wielkie czu³ki i szczypce?}
 {276}{}{Szkoda, ¿e nie mog³em pomóc ci zniszczyæ Enklawê. Wcale bym siê nie ba³, o nie.}
 {277}{}{Hej! }
-{5277}{}{! Opowiedz nam bajkê o Enklawie! P³ooooosie?}
 {278}{}{}
-{5278}{}{! Jeeeeej!}
-{279}{}{Dzienks za ratunek, }
-{5279}{}{!}
+{279}{}{Dziêki za uratowanie œwiata, }
 {280}{}{Chcê uratowaæ œwiat tak jak ty, gdy dorosnê.}
-{281}{}{Czy mogê te¿ zostaæ wielkim bohaterem, gdy dorosnê?}
-{282}{}{Chcê byæ taki jak }
-{5282}{}{, kiedy dorosnê.}
-
-# 5. CLICK [POWER ARMOR] (WTG)
+{281}{}{Czy ja te¿ mogê zostaæ bohaterem, kiedy dorosnê?}
+{282}{}{Chcê byæ jak }
 {300}{}{Aaaaaaj! To jeden z metalowych ludzi! Chodu!}
 {301}{}{To jeden z tych metalowych ludzi! ZnaleŸli nas! Chodu!}
 {302}{}{Przepraszamy! Przapraszamy! Nie spuszczajcie na nas swoich metalowych owadów! Prosimy!}
-
-# 6. CLICK [SLAVER OR BAD REP] (WTG)
-{310}{}{Lepiej uciekaj, zanim mój Tata ciê zobaczy.}
-{311}{}{Lepiej uciekaj, zanim któryœ z moich braci ciê zobaczy.}
-{312}{}{Ty jezdeœ z³¹ osob¹. Lepiej odejdŸ, zanim siê na ciebie poskar¿ê.}
-
-# 7. INTRO (WTG)
+{310}{}{Zmykaj st¹d, zanim mój tatuœ ciê zobaczy.}
+{311}{}{Uciekaj st¹d, zanim moi bracia ciê zobacz¹.}
+{312}{}{IdŸ sobie, albo poskar¿ê moim rodzicom, ¿e tu jesteœ.}
 {320}{}{(Dziecko przestaje bzzzzykaæ i podnosi garnek, ¿eby na ciebie popatrzeæ.)}
 {321}{}{Moæe }
-{5321}{}{ bawiæ siê teee¿?}
 {322}{}{Wybbaacz. Ty jednak nie garnek. Paaaa}
 {323}{}{Czemu masz garnek na g³owie?}
 {324}{}{W co siê bawicie?}
 {325}{}{Gdzie s¹ twoi rodzice?}
 {326}{}{(Pozwól mu siê bawiæ dalej.)}
-
-# 8. CAN [X] PLAY TOO? (7)
 {330}{}{No... dobra. (Ogl¹da ciê od góry do do³u) Ale to JA jestem tym razem metalowym owadem!}
 {331}{}{Obrzee dobrzee ma³a pszczó³ko}
 {332}{}{ w porz¹dku.}
 {333}{}{Jakim odawem?}
 {334}{}{Nie! }
-{5334}{}{ chce byæ odawem!}
 {335}{}{Oooooch... co takiego?}
-
-# 9. OKEE DOKEE/X CAN DO THAT/[X] OKAY WITH THAT (8)
 {340}{}{(Dzieciak pozwala, ¿eby garnek spad³ mu z powrotem na g³owê i znowu bzzzzzyczy biegaj¹c w kó³ko.)}
 {341}{}{Pobiegaj trochê za nim bzzzzykaj¹c.}
 {342}{}{OdejdŸ bez s³owa.}
 {343}{}{(OdejdŸ.)}
-
-# 10. WHAT INCEST? (8)
 {350}{}{OWADEM, g³uu-pku! WIDZIELIŒMY jednego jak byliœmy na pustyni! By³ du¿y... (Bierze g³êboki wdech) ...tak du¿y jak DOM!}
-{351}{}{Na-ha}
+{351}{}{Nia nia.}
 {352}{}{Nie mów na mnie g³uu-pku}
 {353}{}{Nie krzycz. }
-{5353}{}{ nie lubi krzycz.}
 {354}{}{Ty k³amaæ }
-{5354}{}{. Ty siê ŒMIAÆ z }
-{6354}{}{. }
-{7354}{}{ nie lubi.}
 {355}{}{ zabiæ du¿o ma³y g³oœny ludzik jak ty... mo¿e ty nastêpny?}
-{356}{}{OdejdŸ.}
-
-# 11. NUH-UH 1 (10)
+{356}{}{[OdejdŸ]}
 {360}{}{A-HA. Widzieliœmy.}
 {362}{}{Ach-ach-ach-ach}
 {363}{}{Ha-ha-ha-ha}
 {364}{}{OdejdŸ, aby pomêczyæ kogoœ innego swoim achaniem.}
-
-# 12. NUH-UH 2 (11)
 {370}{}{A-cha! Poka¿ê ci! Kilku z nas idzie tam dziœ jak siê zrobi NAPRAWDÊ ciemno. }
 {371}{}{A-cha! Poka¿ê ci! Kilku z nas idzie tam dziœ w nocy.}
 {372}{}{Chesz iœæ? (Ma³a osóbka patrzy na ciebie robi¹c zeza) Ale musisz byæ baaaardzo cicho. Baaaaaardzo cicho.}
 {373}{}{Dobrze (IdŸ za nim)}
 {374}{}{Dobrze, ja iœæ za... ooooch, ten piasek tam?}
-
-# 13. DON'T SHOUT. X NO LIKE SHOUT. (10, 13, 21)
 {380}{}{Nie lubiê ciê. Jesteœ wielk¹ pó³g³ówk¹! (Pokazuje jêzyk) Wynoœ siê st¹d, g³upia pó³g³ówko!}
 {381}{}{NIE MÓW JA G£UUPEK! TY G£UUPI! TY G£UUPI!}
 {382}{}{Nie krzycz! Nie krzycz na }
-{5382}{}{! }
-{6382}{}{ ZGNIECIE!}
 {383}{}{Wytrzyj ³zy i uciekaj}
 {384}{}{Niech bêdzie... tym razem. Nie przesadzaj z Jetem dzieciaku.}
-
-# 14. UH-UH-UH-UH/HUH-HUH-HUH-HUH (11)
 {390}{}{(Zezuje na ciebie) Wydajesz odg³osy jak moja Mama i Tato, gdy id¹ do ³ó¿ka.}
 {391}{}{Gdzie ty zobaczyæ odaw? Ja te¿ chcê zobaczyæ}
-
-# 15. YOU LIE TO [X]. YOU MAKE FUN OF [X]. [X] NOT LIKE. (10)
 {400}{}{Nie k³amie, g³upku! Idziemy tam dziœ jak tylko siê zrobi NAPRAWDÊ ciemno. }
 {401}{}{Nie k³amie, g³upku! Idziemy tam dziœ w nocy. }
 {403}{}{NIE mów ja g³uupku, G£UUPKU}
 {404}{}{Ach-cha (IdŸ za nim.)}
 {405}{}{Dobrze, ja iœæ za... ooooch, ten piasek tam?}
-
-# 16. WHERE HE SEE INCEST? I WANNA SEE IT TOO (14)
 {410}{}{Kilku z nas wybierze siê tam jak tylko zrobi siê NAPRAWDÊ ciemno. }
 {411}{}{Kilku z nas wybiera siê tam dziœ w nocy. }
 {412}{}{Chesz iœæ? (Patrzy na ciebie robi¹c zeza) Ale musisz byæ baaaardzo cicho. Baaaaaardzo cicho.}
-
-# 17. WHY DO YOU HAVE A POT ON YOUR HEAD? (7, 32)
 {420}{}{To nie garnek G£UPKU! To mój he³m!}
 {421}{}{Ojej, wybacz mi, o przera¿aj¹cy wojowniku w he³mie.}
 {422}{}{Jeszcze raz nazwij mnie g³upkiem gówniarzu, a zobaczymy, na co ci siê przyda twój "he³m", gdy zrobiê ci dziurê w g³owie.}
-{423}{}{(Pozwól mu dalej bawiæ siê swoim "he³mem".)}
-
-# 18. WHOA, SORRY THERE, FEARSOME HELMED WARRIOR. (17)
+{423}{}{[Pozwól mu dalej bawiæ siê jego "he³mem".]}
 {430}{}{(Patrzy na ciebie z podejrzliwoœci¹) Czego chcesz?}
 {432}{}{Chcê tylko wiedzieæ, w jak¹ grê siê bawicie. Wygl¹da na dobr¹ zabawê!}
 {433}{}{Uch... gdzie s¹ wasi rodzice?}
-{434}{}{Niczego.}
-
-# 19. CALL ME STUPID AGAIN... / NO SHOUT! NO SHOUT AT X! X SMASH! (10, 13, 17)
-{440}{}{(Ch³opak robi siê ca³y bia³y, cofa siê jeden krok, odwraca i ucieka wydzieraj¹c w niebog³osy.)}
-{441}{}{(Dzieciak robi siê ca³y bia³y, cofa siê jeden krok, odwraca i ucieka wydzieraj¹c w niebog³osy.)}
+{434}{}{Nic nic.}
+{440}{}{(Ch³opak robi siê ca³y bia³y, cofa siê jeden krok, odwraca i ucieka wydzieraj¹c wniebog³osy.)}
+{441}{}{(Dzieciak robi siê ca³y bia³y, cofa siê jeden krok, odwraca i ucieka wydzieraj¹c wniebog³osy.)}
 {442}{}{H³ee h³ee... uciekaj, ma³y cz³owieczku! UCIEKAJ!}
 {443}{}{Smarkacz...}
-
-# 20. WHAT ARE YOU PLAYING? (7, 18, 32)
 {450}{}{W metalowe owady i ¿o³nierzy. }
 {451}{}{(Patrzy na twój ekwipunek, dostrzegaj¹c jeden z twoich pistoletów) Mogê pobawiæ siê twoj¹ spluw¹?}
 {452}{}{Nie, nie... jest zbyt niebezpieczna, ¿eby siê ni¹ bawiæ, dzieciaku.}
@@ -182,113 +127,87 @@
 {456}{}{"Metalowe owady?"}
 {457}{}{Dziêki. Czysta ciekawoœæ.}
 {458}{}{Nieeee... lepiej ju¿ pójdê.}
-
-# 21. NO, TOO DANGEROUS. NO GUN FOR YOU (20, 21)
 {470}{}{(Gapi siê na ciebie) Noo, na pewno umiem u¿ywaæ takich splów jak ta! Jestem z Rodziny Wrightów! Poka¿ mi j¹! Prooooszê?}
 {471}{}{Pos³uchaj: w niepowo³anych rêkach spluwa to zabójcza broñ. To znaczy, chodzi mi o to, ¿e to ZAWSZE jest zabójcza broñ, ale w niepowo³anych rêkach... jest, no... zabójcza... chwileczkê, pozwól mi zacz¹æ od nowa.}
 {472}{}{S³uchaj, gdyby twoja rodzina wierzy³a w twoje umiejêtnoœci, to by ci jak¹œ spluwê da³a. Nie ma mowy.}
 {473}{}{Nie obchodzi mnie, ¿e jesteœ z Rodziny Dupków, nie dostaniesz tej broni.}
-{474}{}{No dobrze. (Daj mu nieza³adowany pistolet.)}
-{475}{}{No dobrze. (Daj mu za³adowany pistolet.)}
+{474}{}{No dobrze. [Daj mu nieza³adowany pistolet.]}
+{475}{}{No dobrze. [Daj mu za³adowany pistolet.]}
 {476}{}{Mowy nie ma. IdŸ pobaw siê z kolegami.}
-
-# 22. METAL INSECTS? TELL ME ABOUT THE METAL INSECTS. (28)
 {485}{}{Taak, metalowe owady! WIDZIELIŒMY jednego jak byliœmy na pustyni! By³ wielki... (Bierze g³êboki wdech) ...tak wielki jak DOM! No i mia³ w œrodku metalowych LUDZI.}
 {486}{}{Serio? £ojej! Gdzie go widzieliœcie?}
 {487}{}{K³amiesz!}
 {488}{}{Nie wierzê ci. K³amiesz.}
 {489}{}{Oj dzieciaku, lepiej uwa¿aj z Jetem. To œwiñstwo ciê kiedyœ zabije. Na razie.}
 {490}{}{Serio? Zadziwiaj¹ce. Muszê kiedyœ te¿ tam pójœæ i zobaczyæ na w³asne oczy. Pa pa.}
-
-# 23. REALLY? WOW! WHERE DID YOU SEE IT? DON'T TRUST (22)
 {500}{}{Na pustyni. (Patrzy na ciebie podejrzliwie) Ale ju¿ go tam pewnie nie ma.}
 {501}{}{A na pewno nie chcia³byœ mi go pokazaæ?}
 {502}{}{Mo¿esz pokazaæ mi chocia¿, gdzie go widzia³eœ?}
 {503}{}{Oh, no dobrze. Na razie.}
-
-# 24. REALLY? WOW! WHERE DID YOU SEE IT? TRUST (22)
 {510}{}{Na pustyni. (Rozgl¹da siê wokó³, zaczyna szeptaæ) Kilku z nas wybiera siê tam, jak siê zrobi NAPRAWDÊ ciemno. }
 {511}{}{Na pustyni. (Rozgl¹da siê wokó³, zaczyna szeptaæ) Kilku z nas wybiera siê tam tej nocy. }
 {513}{}{Nigdy nie jestem cicho na takich wycieczkach. Ale ten jeden jedyny raz...}
 {514}{}{Bêdê cichutko. ProwadŸ, MacDuffie.}
 {515}{}{Uch, chyba ju¿ nigdy nie zobaczycie tego "metalowego owada". Tak naprawdê to by³ helikopter.}
 {516}{}{Dziêki, ale nie dziœ w nocy. Jutro wczesnym rankiem.}
-
-# 25. IT WAS A HELICOPTER (24, 27)
 {530}{}{Hê? (Marszczy brwi i poprawia garnek na g³owie) Co to jest hello-kopter?}
 {531}{}{To jest... lataj¹ca maszyna. Mo¿e woziæ w œrodku ludzi i takie tam.}
 {532}{}{Helikopter to... podejrzewam, ¿e najbli¿sze podobieñstwo, które coœ ci powie, to "samochód". Helikopter jest jak samochód, który mo¿e unosiæ siê nad ziemi¹ za pomoc¹ obracaj¹cych siê w osi pionowej ³opat. Silnik helikoptera obraca ³opaty tak szybko, ¿e utrzymuje maszynê w powietrzu. Czy¿ to nie niesamowite?}
 {533}{}{Niewa¿ne. Po prostu nie krêæcie siê wiêcej poza miastem. Moglibyœcie zgin¹æ.}
-
-# 26. YOU'RE LYING! DON'T TRUST (22)
 {540}{}{NIE k³amiê! WIDZIELIŒMY go na pustyni! (Nagle zaczyna siê na ciebie gapiæ.)}
 {541}{}{Hmmm. Mo¿e RZECZYWIŒCIE mówisz prawdê. Mo¿esz mi pokazaæ, gdzie go widzieliœcie?}
 {542}{}{Dobra, wierzê ci. Poka¿esz mi, gdzie go widzieliœcie?}
 {543}{}{Dobra dobra. Niewa¿ne. Wracaj do swojej zabawy.}
-
-# 27. YOU'RE LYING! TRUST (22)
 {550}{}{NIE k³amiê! WIDZIELIŒMY go na pustyni! Mogê to UDOWODNIÆ! (Gapi siê na ciebie) Kilku z nas wybiera siê tam, jak tylko siê trochê œciemni. }
 {551}{}{NIE k³amiê! WIDZIELIŒMY go na pustyni! Mogê to UDOWODNIÆ! (Gapi siê na ciebie) Kilku z nas wybiera siê tam dziœ w nocy. }
 {552}{}{ChodŸ z nami, to ci go poka¿ê. (Uœmiecha siê szyderczo) Jeœli siê nie BOISZ.}
 {556}{}{Nie, dziêki. Wracaj do swojej zabawy.}
-
-# 28. SURE CAN./GIVE PISTOL (20, 21)
 {560}{}{(Wyjmujesz z plecaka swoj¹ najbadziewniejsz¹ spluwê i dajesz j¹ dzieciakowi. Ch³opiec uœmiecha siê i patrzy na ni¹ z uwielbieniem) MOJA spluwa! Super! }
 {561}{}{I wiem, sk¹d wzi¹æ do niej amunicjê!}
 {562}{}{Uch, nie mo¿esz jej zatrzymaæ. To tylko po¿yczka...}
 {563}{}{Tia, ca³a twoja. A teraz opowiedz mi o tych metalowych owadach...}
 {564}{}{Wystarczy za³adowaæ i odbezpieczyæ. Wiesz co... czemu nie pójdziesz pokazaæ swoj¹ now¹ spluwê tacie? Pamiêtaj, ¿eby du¿o ni¹ wymachiwaæ i nacisn¹æ ten ma³y guzik pod luf¹, o tutaj.}
 {565}{}{Pewnie. Baw siê dobrze. PóŸniej pogadamy.}
-
-# 29. UH, YOU CAN'T KEEP IT. (28)
 {570}{}{Plemienny dawca! Jest moja! Dosta³em j¹ od ciebie! To moja spluwa!}
 {571}{}{Oddaj j¹ gówniarzu!}
 {572}{}{Nie, jest moja. Wielu ludziom sta³a siê krzywda z jej powodu. Proooooszê, mogê j¹ dostaæ z powrotem?}
 {573}{}{Och, do diab³a. Ten postnuklearny œwiat nie mo¿e staæ siê ju¿ gorszy. Baw siê t¹ spluw¹ ile chcesz.}
-
-# 30. GIVE IT BACK, YOU LITTLE SHIT/NO, IT'S MINE. CAN I PLEEEEASE HAVE IT BACK? (29)
 {580}{}{Nnn-mmm! (Ucieka razem z twoj¹ spluw¹)}
 {581}{}{Wracaj tu, gówniarzu!}
-
-# 31. WHY DON'T YOU GO POINT IT AT DADDY? (28)
 {590}{}{Dobrze! (Odbiega)}
 {591}{}{No có¿, to musi potrwaæ zanim TEN malutki z³y uczynek wyda owoce... lepiej opuœæ na razie ten teren i wróæ póŸniej.}
-{592}{}{(Spokojnie opuœæ okolicê niewinnie pogwizduj¹c.)}
-
-# 32. WHERE ARE YOUR PARENTS? (7, 18)
+{592}{}{[Spokojnie opuœæ okolicê niewinnie pogwizduj¹c.]}
 {600}{}{(Wzrusza ramionami) Tata jest w domu, a mama w koœciele.}
 {603}{}{Aha. Tylko tak pytam z ciekawoœci. Dziêki.}
-
-# 33. LEAVE HIM AND LET HIM PLAY./WANDER OFF. (27)
 {610}{}{(Dzieciak pozwala, ¿eby garnek z powrotem zakry³ mu g³owê i wraca do swojego bzzzzzyczenia.)}
-
-# 34. SHRUG. (24, 25, 27)
 {620}{}{(Dzieciak wzrusza ramionami, a potem pozwala, ¿eby garnek z powrotem zakry³ mu g³owê i wraca do swojego bzzzzzyczenia.)}
-
-# 35. "VIGOROUS" NO (23, 26)
 {630}{}{(Dzieciak energicznie krêci g³ow¹. Potem pozwala, ¿eby garnek z powrotem zakry³ mu g³owê i wraca do swojego bzzzzzyczenia.)}
-{631}{}{Uch, no dobrze.}
+{631}{}{Uhm, w porz¹dku.}
 {632}{}{Ty ma³y szczeniaku... zobaczymy, czy ciebie te¿ uratujê jak bêdê ratowaæ œwiat...}
-
-# 36. GO OUT INTO DESERT (12, 15, 16, 24, 27)
 {640}{}{Czekasz, a¿ zrobi siê trochê ciemniej... }
 {641}{}{Czakasz, a¿ zrobi siê ciemno... }
 {642}{}{...a potem idziesz na pustyniê za dzieciakami.}
-
-# 37. SCREAMING
 {700}{}{ODSUÑ SIÊ ODE MNIE!}
 {701}{}{Aaach...}
 {702}{}{Pomocy, pomocy...}
 {703}{}{Z£Y CZ£OWIEK! ID SOBIE!}
-{704}{}{ODCZEP SIÊ ODE MNIE!}
-
-# 38. THANKS
+{704}{}{ODSUÑ SIÊ ODE MNIE!}
 {710}{}{Hej, proszê pana, dziêki za fajn¹ spluwê.}
 {711}{}{Czy mówi³em ci ju¿, ¿e kocham spluwê, któr¹ od ciebie dosta³em?}
-{711}{}{Hej, proszê pani, dziêki za fajn¹ spluwê.}
-
-# 39. LOST GUN
+{712}{}{Hej, proszê pani, dziêki za fajn¹ spluwê.}
 {720}{}{Czy któryœ z was durnie zabra³ moj¹ spluwê, któr¹ da³ mi ten facet?}
 {721}{}{Gdzie jest moja spluwa?}
 {722}{}{Wiem, ¿e dosta³em od ciebie spluwê, ale co z ni¹ zrobi³em?}
 {723}{}{Czy któryœ z was durnie zabra³ moj¹ spluwê, któr¹ da³a mi ta pani?}
+{5277}{}{! Opowiedz nam o Enklawie! Proooszê?}
+{5278}{}{! Jeeej!}
+{5279}{}{!}
+{5282}{}{ jak dorosnê.}
+{5321}{}{ bawiæ siê teee¿?}
+{5334}{}{ chce byæ odawem!}
+{5353}{}{ nie lubi krzycz.}
+{5354}{}{. Ty siê ŒMIAÆ z }
+{5382}{}{! }
+{6354}{}{. }
+{6382}{}{ ZGNIECIE!}
+{7354}{}{ nie lubi.}

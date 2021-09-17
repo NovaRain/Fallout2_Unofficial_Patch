@@ -3387,10 +3387,10 @@
 {44548}{}{Lancement de l'attaque.}
 {44549}{}{Elimination de l'ennemi en cours.}
 {44560}{}{Engaging evasive maneuvers.}
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
+{44561}{}{Protocole de défense Bêta initié.}
+{44562}{}{La capacité de ciblage de l'ennemi est basse. Réévaluation du niveau de menace.}
 {44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
+{44564}{}{Analyse : efficacité de l'ennemi minimum.}
 {44565}{}{Analysis: evasive maneuvers successful.}
 {44566}{}{Unit is undamaged.}
 {44800}{}{J'ai la tête dure mais ça fait quand même mal.}

@@ -101,8 +101,8 @@
 {201}{}{ désactive adroitement le piège.}
 {202}{}{ ne réussit pas à désactiver le piège.}
 {203}{}{La porte est verrouillée.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Tu remarques un piège dans le montant de la porte.}
+{205}{}{ remarque un piège dans le montant de la porte.}
 {206}{}{Tu es incapable de placer un piège sur cette porte, parce qu'elle est ouverte.}
 {207}{}{ est incapable de placer un piège sur cette porte, parce qu'elle est ouverte.}
 {208}{}{Tu réussis à placer un piège sur l'encadrement de la porte.}

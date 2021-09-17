@@ -89,9 +89,7 @@
 {381}{}{Et puis ?}
 {390}{}{J'ai rampé dehors. Et alors que je commençais à guérir, j'ai remarqué que j'avais changé. J'ai essayé de communiquer avec les gens, mais ils ont tous essayé de me tuer. Les humains sont trop violents pour survivre à leur propre domination, mais ça c'est une autre histoire. La première étape consiste à réparer le réacteur.}
 {391}{}{Réparer le réacteur ?}
-{400}{}{Yes. You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Oui. Tu dois te procurer un Régulateur de Magnétosphère Hydroélectrique à la Cité de l'Abri pour réparer le réacteur de Gecko. Si tu ne le fais pas, la Cité de l'Abri va certainement attaquer Gecko. Bien sûr, en détruisant le réacteur, ils vont se condamner à long terme.}
 {401}{}{Se condamner ? Que veux-tu dire ?}
 {402}{}{Pourquoi la Cité de l'Abri me donnerait-elle une pièce pour réparer la centrale atomique de Gecko ?}
 {410}{}{Tu dois leur prouver que c'est dans leur intérêt. Les gens sont facilement manipulables lorsqu'il s'agit de leurs intérêts.}

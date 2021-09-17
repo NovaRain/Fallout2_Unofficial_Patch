@@ -107,12 +107,12 @@
 {380}{}{D'une certaine manière, cela ne me surprend pas trop. Et moi, j'ai accusé mon pauvre garçon alors que ce n'était même pas sa faute. [Sanglots...] Je les aurai ces Dunton ! Cette fois, ils sont allés trop loin.}
 {381}{}{C'est bien triste. Où pensez-vous que Torr soit allé ?}
 {390}{}{Ok.}
-{400}{}{What? My Smiley is...}
-{401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
-{402}{}{Yes, he's dead. He was eaten by geckos.}
-{403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
+{400}{}{Quoi ? Mon Souriant est...}
+{401}{}{Qui ? J'ai dit Souriant ? Oh, euh, non. Je sais pas où il est parti. Euh, dites, je peux vous demander autre chose ?}
+{402}{}{Oui, il est mort... Mangé par des geckos.}
+{403}{}{Je déconne. Je... l'ai vu. Il m'a dit qu'il était parti avec une autre femme. Ouah ! Regardez l'heure, faut que j'y aille !}
 {404}{}{Euh, je... En fait, je le cherche encore... Il se pointera sûrement un jour ou l'autre, pas vrai ? Au revoir.}
-{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
+{410}{}{Mangé par les geckos ? Impossible. Jamais ils attraperaient mon Souriant, il est trop bon chasseur pour ça. Tu dois faire erreur.}
 {411}{}{Ouais, vous avez sans doute raison. Mes excuses pour la peur. Je peux vous demander quelque chose ?}
 {412}{}{Non, je l'ai vu, ou du moins ce qu'il en restait. Pas joli joli. Bon, à plus.}
 {413}{}{Ah, on peut rien vous cacher. Hé, hé, je vous mettais, hé, hé, en boîte. Ouais, c'est ça. Bon, au revoir.}

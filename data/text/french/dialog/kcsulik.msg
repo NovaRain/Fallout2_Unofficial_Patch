@@ -400,10 +400,10 @@
 {1021}{}{Toi avoir beaucoup problèmes avec les gens. Nous revenir quand toi avoir résolu tout ça.}
 {1023}{}{Nous et tueur d'enfants, jamais amis. Jamais. }
 {1025}{}{Toi avoir fait grabuge à Klamath. Nous partir.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Esprits nous accompagner.}
+{2301}{}{Nous partir maintenant.}
 {2302}{}{Ok, ne t'emballe pas.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Pas de problème, nous partir maintenant.}
 {2304}{}{Nous penser toi avoir besoin te reposer. Grand-père Esprit des Os dire toi en faire trop. Toi prendre la vie plus tranquille.}
 {2305}{}{We be movin' an' groovin'.}
 {2306}{}{Nous aller là maintenant.}
@@ -459,7 +459,7 @@
 {3058}{}{Oui.}
 {3059}{}{Non, je crois qu'il est temps que tu la recherches tout seul.}
 {3060}{slk90}{Peut-être. Moi souvent penser à toi. Que bons esprits accompagner toi.}
-{3061}{}{Thanks, Sulik. Goodbye.}
+{3061}{}{Merci, Sulik. Au revoir.}
 {3062}{}{Tu devrais peut-être continuer avec moi. On a peut-être une chance de trouver ta soeur.}
 {3063}{slk91a}{Toi vouloir compagnie finalement ?}
 {3064}{slk91b}{C'est bon d'être rentré à la maison.}

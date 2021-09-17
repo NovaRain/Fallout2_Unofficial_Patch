@@ -445,7 +445,7 @@
 {22800}{}{Manuel technique}
 {22801}{}{Un manuel technique pour la réparation de la SuperArmure T5-51b.}
 {22900}{}{Petite pièce mécanique}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Une pièce endommagée de SuperArmure. Elle est très propre et pourrait servir de trophée.}
 {23000}{}{Enregistrements de l'Abri}
 {23001}{}{Une combinaison d'événements et d'enregistrements importants issus d'un ordinateur de l'Abri. Probablement endommagée.}
 {23100}{}{Code de sécurité de la base militaire}

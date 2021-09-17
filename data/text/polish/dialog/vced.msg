@@ -5,7 +5,7 @@
 {104}{}{Coœ interes ostatnio podupada.}
 {105}{}{Nie mam pojêcia sk¹d siê bierze tyle tego braminowego gówna. Co rano jest go wiêcej.}
 {106}{}{Witam, witam. Jestem Ed, tutejszy handlarz braminami. Mogê w czymœ pomóc?}
-{107}{}{Mi³o ciê znów widzieæ. Co mogê dla ciebie zrobiæ?}
+{107}{}{Good to see you again.  What can I do you for?}
 {108}{}{Znasz kupca imieniem Vic? Podobno kupi³ od ciebie tê manierkê z Krypty.}
 {109}{}{Znasz kupca imieniem Vic?}
 {110}{}{Mój przyjaciel, Vic twierdzi, ¿e kupi³ od ciebie pewn¹ manierkê.}
@@ -13,7 +13,7 @@
 {112}{}{Szukam Krypty.}
 {113}{}{Opowiedz mi o Kryptopolis?}
 {114}{}{Czym siê zajmujesz?}
-{115}{}{Do widzenia.}
+{115}{}{¯egnaj.}
 {116}{}{Vic?}
 {117}{}{Sprzeda³ ci manierkê? Tak¹ z du¿¹ trzynastk¹?}
 {118}{}{Niewa¿ne. Muszê ju¿ iœæ.}
@@ -41,27 +41,27 @@
 {140}{}{Krypta 13 znajduje siê za murami?}
 {141}{}{Dziêki za informacje.}
 {142}{}{Có¿, nie wiem, czy akurat "13", ale jakaœ Krypta jest tam na pewno. Nawet jeœli nie jest to ta, której szukasz, to centralny komputer powinien wiedzieæ, gdzie s¹ pozosta³e. Ta maszyna wie prawie wszystko.}
-{143}{}{Mam jeszcze kilka pytañ...}
-{144}{}{Dziêki za informacjê.}
+{143}{}{Mam kilka innych pytañ...}
+{144}{}{Dziêki za informacje.}
 {145}{}{Jasne. Co chcesz wiedzieæ?}
 {146}{}{Znasz kupca imieniem Vic? Podobno kupi³ od ciebie tê manierkê z Krypty.}
 {147}{}{Znasz kupca imieniem Vic?}
 {148}{}{Mój przyjaciel, Vic twierdzi, ¿e kupi³ od ciebie pewn¹ manierkê.}
-{149}{}{Przypomnia³eœ sobie mo¿e sk¹d wzi¹³eœ tê manierkê?}
+{149}{}{Przypomnia³eœ sobie sk¹d wzi¹³eœ tê manierkê?}
 {150}{}{Szukam Krypty.}
-{151}{}{Opowiedz mi o Kryptopolis.}
+{151}{}{Opowiedz mi o Kryptopolis?}
 {152}{}{Czym siê zajmujesz?}
-{153}{}{Do widzenia.}
+{153}{}{¯egnaj.}
 {154}{}{Có¿... mamy tu Kryptê w g³ównej czêœci miasta. Mo¿e to ta, której szukasz?}
 {155}{}{Có¿... mamy tu Kryptê w g³ównej czêœci miasta. Tego szukasz?}
 {156}{}{Mo¿e. Mam jeszcze kilka pytañ...}
 {157}{}{Mo¿liwe. Dziêki za informacje.}
-{158}{}{Spoko miejsce... jeœli wiesz, jak obchodziæ siê z obywatelami. Nie podzielam czêœci ich pogl¹dów, ale da siê tu jakoœ wy¿yæ.}
-{159}{}{Mam jeszcze kilka pytañ...}
+{158}{}{Spoko miejsce... jeœli wiesz, jak obchodziæ siê z Obywatelami. Nie podzielam czêœci ich pogl¹dów, ale da siê tu jakoœ wy¿yæ.}
+{159}{}{Mam kilka innych pytañ...}
 {160}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{161}{}{Sprzedajê braminy ludziom, którzy chc¹ je kupiæ. Trzeba jakoœ p³aciæ rachunki.}
-{162}{}{Mam jeszcze kilka pytañ...}
+{161}{}{I sell brahmin to people who need them.  Helps me pay rent on this place.}
+{162}{}{Mam kilka innych pytañ...}
 {163}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{164}{}{Znam braminy m¹drzejsze od ciebie. Spadaj.}
+{164}{}{I got brahmin smarter than you.  Move along.}
 {165}{}{To chyba dom Eda. To od niego kupi³em tê manierkê.}
 {166}{}{Wiesz ju¿ sk¹d pochodzi manierka.}

@@ -3,9 +3,9 @@
 {102}{}{S¹dz¹c po tym ca³ym smarze i brudzie, który j¹ pokrywa, jest kimœ w typie z³otej r¹czki, tym bardziej, ¿e ci¹gle za ni¹ ³azi robot konserwacyjny.}
 {103}{}{O Bo¿e, ktoœ musi coœ zrobiæ! Co ja teraz zrobiê? Potrzebujê pomocy i to zaraz.}
 {104}{}{Hê? Gugu?}
-{105}{}{Co siê sta³o?}
+{105}{}{Co siê tu dzieje?}
 {106}{}{Ty chodŸ. Zatrzymaj z³ego cz³owieka. Zatrzymaj go niech nie psuje maszyna. Dobra?}
-{107}{}{Dobra.}
+{107}{}{W porz¹dku.}
 {108}{}{Nie, nie iœæ.}
 {109}{}{O Bo¿e, to Jack. Grozi, ¿e wysadzi elektrowniê. Nie ma czasu, musisz mi pomóc i zatrzymaæ go. Potrafisz to zrobiæ, prawda?}
 {110}{}{Nie marnujmy czasu. ProwadŸ.}
@@ -24,7 +24,7 @@
 {123}{}{Uda³o ci siê to naprawiæ? Bez ¿adnych czêœci? To niesamowite! Gdzie ciê tego nauczyli?}
 {124}{}{Huh-huh!}
 {125}{}{Po prostu jakoœ tak wysz³o i ju¿.}
-{126}{}{Kumam. Nale¿ysz do tych wariatów - jak ich zw¹? Uczeni idioci. No tak, idiota czy nie, nale¿y ci siê nagroda. Ty - NA-GRODA. Dam ci œliczne ksi¹¿ki. Popatrz. WeŸ pieni¹dze. Dobrze... pewnie i tak nie umiesz czytaæ.}
+{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books.  You see. Get money. Good... Not like you can read, after all.}
 {127}{}{No tak, to nie za wiele, ale mam kilka ksi¹¿ek - starych instrukcji obs³ugi. S¹ twoje. WeŸ je.}
 {128}{}{Hej, popatrz Toto. To ten nieznajomy, który nam pomóg³. Dziêkujemy panu.}
 {129}{}{Kurde! Ca³y obwód siê sfajczy³. Naprawienie tego zajmie wieki. Nie mam czasu na rozmowê. ChodŸ Toto.}
@@ -40,10 +40,8 @@
 {139}{}{Naprawdê go od tego odwiod³eœ? To niesamowite! Miasto ma wobec ciebie wielki d³ug. Wiem, ¿e to nie za wiele, ale mam tu uzbierane kilka instrukcji. Mo¿e dasz radê je komuœ sprzedaæ, albo co.}
 {140}{}{Chcê ci tylko powiedzieæ, ¿e wci¹¿ jestem pod wra¿eniem tego, jak uda³o ci siê poradziæ z Jackiem. Musimy ju¿ zmykaæ razem z Toto. Na razie!}
 {141}{}{Kurrrde! Mam dla ciebie s³owo dobrej rady - WIEJ!}
-
 {142}{}{Hej, popatrz Toto. To ta nieznajoma, która nam pomog³a. Dziêkujemy pani.}
 {143}{}{Naprawdê go od tego odwiod³aœ? To niesamowite! Miasto ma wobec ciebie wielki d³ug siostro. Wiem, ¿e to nie za wiele, ale mam tu uzbierane kilka instrukcji. Mo¿e dasz radê je komuœ sprzedaæ, albo co.}
-
 {144}{}{Nie marnuj czasu! On mówi powa¿nie.}
 {145}{}{Muszê natychmiast coœ zrobiæ!}
 {146}{}{Nie stój tak - powstrzymaj go!}

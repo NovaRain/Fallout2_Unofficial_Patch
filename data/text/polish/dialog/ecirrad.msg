@@ -1,1 +1,1 @@
-{100}{}{Otrzymujesz ma³¹ dawkê promieniowania.}
+{100}{}{Otrzymujesz dawkê promieniowania.}

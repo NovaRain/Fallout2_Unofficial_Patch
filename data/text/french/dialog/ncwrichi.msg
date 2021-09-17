@@ -1,10 +1,10 @@
 {100}{}{Tu vois un des enfants des Wright.}
 {150}{}{Tu vois un petit garçon aux cheveux noirs.}
-{151}{}{You see a black-haired little girl. Her hair is cropped short, so much so that you almost mistook her for a boy.}
+{151}{}{Tu vois une petite fille aux cheveux noirs. Ses cheveux sont coupés courts, à tel point que tu l'as presque prise pour un garçon.}
 {155}{}{Tu vois un des enfants des Wright. Il te tire la langue.}
 {156}{}{Tu vois un des enfants des Wright. Il te regarde.}
 {157}{}{Tu vois un des enfants des Wright. Elle te tire la langue.}
-{158}{}{Her black hair is cropped short so that she can conveniently use the male child character model.}
+{158}{}{Ses cheveux noirs sont coupés courts afin de pouvoir utiliser le modèle de personnage masculin enfant.}
 {159}{}{Tu vois un des enfants des Wright. Elle te regarde.}
 {175}{}{Fallout 2 vous a été présenté par Nuka Cola.}
 {176}{}{Hé ! }

@@ -37,7 +37,7 @@
 {136}{}{D'accord.}
 {137}{}{Toi ! Mais qu'est-ce que tu fais ? Barre-toi de là vite fait !}
 {138}{}{Tu vas ranger tes armes maintenant.}
-{139}{}{You again? Do you actually need something?}
+{139}{}{Encore toi ? Tu as vraiment besoin de quelque chose ?}
 {140}{}{Je ne fais que passer.}
 {141}{}{Euh... non, pas vraiment.}
 {142}{}{Ouais. Je suis là pour parler à tes prisonniers.}

@@ -5,9 +5,10 @@
 {104}{}{Mogê zobaczyæ twoj¹ przepustkê?}
 {105}{}{To jest w³asnoœæ rz¹dowa. Proszê odejœæ.}
 {106}{}{To o tobie wspomina³ Merk? No dobra ch³opaki, puœæcie go.}
-{107}{}{Odsuñcie siê ch³opaki.}
+{107}{}{W porz¹dku. Odsuñcie siê ch³opaki.}
 {108}{}{Dobra, jesteœ w porz¹dku. Ch³opaki, otwórzcie bramê.}
 {109}{}{To o tobie wspomina³ Merk? No dobra ch³opaki, puœæcie j¹.}
 {110}{}{Jestem na s³u¿bie. Nie mam czasu na spoufalanie siê.}
 {111}{}{Hej, ³adne buty.}
 {112}{}{Pilnuj swojego interesu.}
+{113}{}{There you are, sir. Have a good day.}

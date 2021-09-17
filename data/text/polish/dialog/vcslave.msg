@@ -1,9 +1,9 @@
 {100}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Intensywnie wpatruje siê w ziemiê.}
 {101}{}{Widzisz niewolnika Kryptopolis.}
-{102}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Jego oczy intensywnie wpatruj¹ siê w ziemiê.}
+{102}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Intensywnie wpatruje siê w ziemiê.}
 {103}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Intensywnie wpatruje siê w ziemiê.}
 {104}{}{Widzisz niewolnika Kryptopolis.}
-{105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Jej oczy intensywnie wpatruj¹ siê w ziemiê.}
+{105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Intensywnie wpatruje siê w ziemiê.}
 {106}{}{S³yszeliœmy o twoich wspania³ych wyczynach. To zadziwiaj¹ce, ¿e chcia³o ci siê ryzykowaæ ¿ycie dla Kryptopolis... i ca³ego œwiata.}
 {107}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
 {108}{}{Chcielibyœmy podarowaæ ci coœ, za twoje niesamowite wyczyny. Nie mamy jednak nic... prócz naszych szczerych podziêkowañ.}
@@ -14,11 +14,11 @@
 {113}{}{Kapitanie, czy ma Pan dla mnie jakieœ polecenia?}
 {114}{}{Przykro mi Kapitanie. Postaram siê pracowaæ ciê¿ej.}
 {115}{}{Przykro mi Kapitanie. Postaramy siê byæ bardziej uwa¿ni.}
-{116}{}{Tak, obywatelu?}
+{116}{}{Tak, Obywatelu?}
 {117}{}{Obywatelu?}
 {118}{}{Obywatelu, co mogê dla ciebie zrobiæ?}
 {119}{}{Obywatelu, czy masz dla mnie jakieœ zadanie?}
-{120}{}{Przykro mi, obywatelu. Postaram siê pracowaæ ciê¿ej.}
+{120}{}{Przykro mi, Obywatelu. Postaram siê pracowaæ ciê¿ej.}
 {121}{}{Przykro mi. Postaramy siê byæ bardziej uwa¿ni.}
 {122}{}{Mutanty nie maj¹ prawa wstêpu do miasta!}
 {123}{}{Je¿eli stra¿nik zobaczy z tob¹ jakiegokolwiek mutanta ka¿e ci opuœciæ miasto!}
@@ -30,12 +30,12 @@
 {129}{}{Proszê zostaw mnie. Jestem na s³u¿bie dla Kryptopolis.}
 {130}{}{B³agam ciê, proszê, pomó¿ mi: dwójka dzieci... ciemnow³osych... mówi ci to coœ...? Zosta³y pojmane przez handlarzy jakieœ dwa lata temu i sprzedani gdzieœ na pó³nocy.}
 {131}{}{Przykro mi, ale... nie mam pozwolenia na rozmawianie z kimkolwiek.}
-{132}{}{Je¿eli obywatele z³api¹ mnie na rozmawianiu z handlarzem to w³adze miasta surowo mnie ukarz¹.}
+{132}{}{Je¿eli Obywatele z³api¹ mnie na rozmawianiu z handlarzem to w³adze miasta surowo mnie ukarz¹.}
 {133}{}{Stra¿nicy zostan¹ powiadomieni o tobie, je¿eli zaraz nie przestaniesz ze mn¹ rozmawiaæ.}
 {134}{}{Nie mogê z tob¹ rozmawiaæ. Mam pilne obowi¹zki.}
 {135}{}{OdejdŸ natychmiast. Nie chcê tutaj ¿adnych problemów.}
 {136}{}{Uciekaæ? Ja... nigdy nawet przez myœl nie przesz³a mi próba ucieczki z tego miejsca. ¯ycie jest tutaj naprawdê wspania³e.}
-{137}{}{Mieszkañcy powiedzieli mi, ¿e je¿eli bêdê pracowa³ ciê¿ej, pewnego dnia zostanê pe³noprawnym obywatelem.}
+{137}{}{Mieszkañcy powiedzieli mi, ¿e je¿eli bêdê pracowa³ ciê¿ej, pewnego dnia zostanê pe³noprawnym Obywatelem.}
 {138}{}{Obywatele nauczyli nas, ¿e praca jest dla nas najwspanialsz¹ nagrod¹.}
 {139}{}{Obywatele powiedzieli nam, ¿e nasza praca pozwala im zaoszczêdziæ mnóstwo czasu i mog¹ zaj¹æ siê innymi sprawami.}
 {140}{}{Kryptopolis potrzebowa³o s³u¿¹cych i to by³a praca dla mnie. Inaczej mój koniec mia³by miejsce w Nowym Reno.}

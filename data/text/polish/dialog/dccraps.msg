@@ -1,1 +1,1 @@
-{100}{}{Przykro mi - szefostwo mówi, ¿e nie mo¿emy pozwoliæ ci tu dalej graæ.}
+{100}{}{Przepraszam, szef mówi, ¿e nie mo¿emy pozwoliæ ci tu wiêcej graæ.}

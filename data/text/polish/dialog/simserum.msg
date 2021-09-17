@@ -1,3 +1,2 @@
 {100}{}{Masz tego u¿yæ na supermutancie.}
-{101}{}{Otrzymujesz }
-{102}{}{PD za u¿ycie Serum Mutagennego.}
+{101}{}{Zu¿ywasz Serum Mutagenne. }

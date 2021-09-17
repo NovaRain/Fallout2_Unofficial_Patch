@@ -33,7 +33,7 @@
 {144}{}{Comme quoi ?}
 {145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
 {146}{}{Apparemment rien, salut.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
+{147}{}{Ecoute, je n'aime pas que les gens m'accusent de quelque chose dont je ne sais rien. Je te suggère de partir.}
 {150}{}{I'm going to find the truth. Bye.}
 {156}{}{Vois avec Bill. Il te donnera un coup de main.}
 {157}{}{J'ai d'autres questions.}

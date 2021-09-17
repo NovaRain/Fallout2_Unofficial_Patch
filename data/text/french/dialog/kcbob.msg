@@ -59,8 +59,7 @@
 {281}{}{Merci. Ca m'aura coûté 65 $ mais au moins ça m'évite d'y aller avec ma patte folle... Tiens, voilà ton argent. Tu as des questions à me poser ?}
 {282}{}{Oui, dis-moi un peu ce qui se passe en ville en ce moment.}
 {283}{}{Non, merci Bob. Je sais tout ce que je dois savoir pour le moment.}
-{290}{}{All sorts of things going on hereabouts lately. We've got brahmin mutilators, walking spirits,
- gigantical rats, and missing people. Some even say the Den's involved.}
+{290}{}{Il se passe toutes sortes de choses par ici ces derniers temps. Nous avons des mutilateurs de brahmines, des esprits ambulants, des rats gigantesques et des personnes disparues. Certains disent même que la Fosse est impliquée.}
 {291}{}{Parle-moi des mutilations de Brahmines.}
 {292}{}{Parle-moi des Esprits ambulants.}
 {293}{}{Des rats géants ? J'aimerais en savoir plus.}

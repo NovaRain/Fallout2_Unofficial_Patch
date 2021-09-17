@@ -234,5 +234,5 @@ pouco mais fora da cidade fazem minha fama.}
 {700}{}{Não tenho mais nada a dizer a você.}
 {701}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
 {702}{}{I'm on it.}
-{703}{}{Umm... yeah, maybe later.}
+{703}{}{Eh, talvez mais tarde. Tchau.}
 {4211}{}{Uh, I guess I better go get that disk from Gordon. Goodbye.}

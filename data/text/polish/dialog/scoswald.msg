@@ -13,6 +13,6 @@
 {112}{}{Okej, okej! Co chcesz wiedzieæ? Tylko nie rób mi ju¿ wiêcej krzywdy.}
 {113}{}{Krypta 15 - ty gadaæ.}
 {114}{}{Co wiesz o Krypcie 15?}
-{115}{}{S³uchaj, jestem tylko zwyk³ym goœciem, nie kierujê tu niczym - to Darion. To jego szukasz. Ma coœ do Cienistych Piasków i do tej starej suki Tandi. Kryjówkê ma w Krypcie 15, nawet zamiesza³ lokalnych tak, i¿ myœl¹, ¿e jest po ich stronie. To wszystko, co wiem. S³owo!}
+{115}{}{Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side.  That's all I know. Honest!}
 {116}{}{Naprawdê, nie wiem nic wiêcej! Powiedzia³em ci wszystko, co wiem, s³owo! Nie rób mi wiêcej krzywdy.}
 {117}{}{Nie ma mowy! Nie dam siê nabraæ na ten numer. BUM! - Zastrzelony podczas próby ucieczki. Zapomnij o tym!}

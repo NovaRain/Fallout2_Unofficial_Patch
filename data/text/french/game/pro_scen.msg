@@ -149,7 +149,7 @@
 {7500}{}{Rochers}
 {7501}{}{Tu surveilles de près ces rochers, au cas où ils se mettraient bouger pour t'attaquer.}
 {7600}{}{Car Wall Floor}
-{7601}{}{REMOVED}
+{7601}{}{SUPPRIMÉ}
 {7700}{}{Portail}
 {7701}{}{Un portail en bois.}
 {7800}{}{Rochers}
@@ -1456,7 +1456,7 @@
 {76500}{}{Plancher}
 {76501}{}{You would swear that there is something moving on the floor.}
 {76600}{}{Socle}
-{76601}{}{The pedestal looks as if it were slowly breathing in and out.}
+{76601}{}{Le piédestal donne l'impression d'inspirer et d'expirer lentement.}
 {76700}{}{Plancher}
 {76800}{}{Bombe}
 {76801}{}{Voici une bombe nucléaire. Rester ici devient dangereux.}
@@ -1580,7 +1580,7 @@
 {82800}{}{Faible}
 {82801}{}{Un voyant de sécurité.}
 {82900}{}{Pilier}
-{82901}{}{This pillar is the show piece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
+{82901}{}{Ce pilier, sur la place des Sables Ombragés, est très important. Il raconte des histoires pour rappeler aux gens l'espoir et la paix.}
 {83000}{}{Logement à robots}
 {83001}{}{Voici une baie de rechargement pour robots. Lorsqu'ils ne sont pas en service, les robots s'arriment ici pour se recharger.}
 {83100}{}{Logement à robots}
@@ -2262,7 +2262,7 @@
 {137600}{}{Torche}
 {137601}{}{Une torche allumée dans un support mural.}
 {137700}{}{Hélico}
-{137701}{}{A large military aircraft.}
+{137701}{}{Un gros avion militaire.}
 {137800}{}{Porte détruite}
 {137801}{}{The power station door is destroyed.}
 {137900}{}{Porte détruite}
@@ -2626,9 +2626,9 @@
 {172200}{}{Verre blindé}
 {172300}{}{Verre blindé}
 {172400}{}{Tourelle laser lourde}
-{172401}{}{The turret rotates in a menacing way.}
+{172401}{}{La tourelle tourne d'une manière menaçante.}
 {172500}{}{Tourelle laser lourde}
-{172501}{}{The turret rotates in a menacing way.}
+{172501}{}{La tourelle tourne d'une manière menaçante.}
 {172600}{}{Rochers}
 {172700}{}{Rochers}
 {172800}{}{Rochers}
