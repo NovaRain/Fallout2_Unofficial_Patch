@@ -1,6 +1,6 @@
 {100}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
 {101}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
-{102}{}{Good luck!  I must get back to my training.}
+{102}{}{Powodzenia! Muszê wracaæ do swojego treningu.}
 {103}{}{Hello Chosen One.  I see you're in need of a little training.  Can I be of help?}
 {104}{}{Jasne.}
 {105}{}{Nie, dziêki.}

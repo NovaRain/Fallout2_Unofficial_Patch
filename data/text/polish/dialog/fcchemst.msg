@@ -23,7 +23,7 @@
 {122}{}{Interesuje mnie, czym siê tu zajmujesz.}
 {123}{}{Jestem tu, aby zdobyæ paliwo dla Centrologów.}
 {124}{}{Nie. W tej chwili wychodzê.}
-{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
+{125}{}{Chcesz paliwo do tankowca? Ja chcê wzmocniony pancerz wspomagany. Jak pamiêtam jeden z Centrologów, nazwiskiem Crockett, zna sposób na ulepszenie zwyk³ego pancerza wspomaganego. Zdob¹dŸ dla mnie taki ubiór, a ja zobaczê, co da siê zrobiæ z paliwem.}
 {126}{}{Zrobiê to.}
 {127}{}{Nie mogê nic obiecywaæ.}
 {128}{}{W³aœnie mam takie coœ przy sobie.}
@@ -56,7 +56,7 @@
 {155}{}{Tak zrobiê. Do widzenia.}
 {156}{}{Marne szanse. Na razie.}
 {157}{}{Stra¿e! Stra¿e! Intruz wróci³! Zabiæ go!}
-{158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
+{158}{}{Czy uda³o ci siê rozmówiæ z Centrologiem, który nazywa siê Crockett, i zdobyæ pancerz?}
 {159}{}{Nie, jeszcze nie.}
 {160}{}{No to po co ci¹gle wracasz i zawracasz mi g³owê?}
 {161}{}{Bo mam kilka pytañ.}
