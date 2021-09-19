@@ -400,12 +400,12 @@
 {1021}{}{Masz du¿o problemów z ludŸmi. Jak sobie z nimi poradzisz - my wrócimy.}
 {1023}{}{Zabójca dzieci nie bêdzie nasz kumpel.}
 {1025}{}{Przez ciebie k³opoty w Klamath. Idziemy sobie.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Niech duchy nas wspieraj¹.}
+{2301}{}{My i ja idziemy.}
 {2302}{}{W porz¹dku, spokojnie.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Nie obawiaj siê. My i ja idziemy.}
 {2304}{}{Myœlimy - weŸ sobie trochê wolnego. Odpocznij. Koœæ Dziadunia mówi - ty za bardzo siê starasz. Musisz wolniej iœæ przez ¿ycie.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{My idziemy i dajemy czadu.}
 {2306}{}{My i ja pójdziemy tutaj.}
 {2307}{}{Spokojnie, ju¿ idziemy.}
 {3000}{}{Na pó³noc.}
