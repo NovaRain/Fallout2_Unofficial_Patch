@@ -1,6 +1,6 @@
 {100}{}{You see Three-Card Monte.}
 {150}{}{You see a spindly-looking old man with a sunburned face. He's so thin he looks like he's made out of twigs.}
-{200}{}{Don't see how I lost...}
+{200}{}{Não entendo como perdi...}
 {205}{}{Heeeey! Hero! You all right, you all right.}
 {215}{}{Where the hell are my cards? I JUST had them.}
 {220}{}{Yo, pal, don't bother with the casinos. Come play with Monte.}

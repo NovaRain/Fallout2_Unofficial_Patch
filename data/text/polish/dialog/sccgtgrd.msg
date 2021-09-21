@@ -11,4 +11,4 @@
 {110}{}{Jestem na s³u¿bie. Nie mam czasu na spoufalanie siê.}
 {111}{}{Hej, ³adne buty.}
 {112}{}{Pilnuj swojego interesu.}
-{113}{}{There you are, sir. Have a good day.}
+{113}{}{Proszê, sir. ¯yczê mi³ego dnia.}

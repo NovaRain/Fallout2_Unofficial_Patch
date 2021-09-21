@@ -30,7 +30,7 @@
 {140}{slk6a}{Espíritos comigo, amigo. Eles estar todos ao meu redor. Às vezes eles fala.}
 {141}{}{Parece que você andou fumando algumas, hein?}
 {142}{}{Que espíritos?}
-{143}{}{Ok... Can I ask you something else?}
+{143}{}{Ok... Posso perguntar mais alguma coisa?}
 {150}{slk6b}{Isso ser engraçado, amigo. Vovô Osso acha. Ele diz que você espirituoso. Diz que vai precisar disso.}
 {151}{}{Por quê?}
 {152}{}{Quem é Vovô Osso?}
