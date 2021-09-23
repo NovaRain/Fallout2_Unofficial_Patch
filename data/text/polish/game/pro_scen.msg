@@ -55,15 +55,15 @@
 {2800}{}{rury}
 {2801}{}{Kilka rur. Ich bli¿sze oglêdziny nie wp³ywaj¹ ani na ich wygl¹d, ani na stan twojej wiedzy.}
 {2900}{}{otwór wentylacyjny}
-{2901}{}{Standardowy element systemu wentylacyjnego firmy Krypt-Tech.}
+{2901}{}{Standardowy element systemu wentylacyjnego firmy KrypTech.}
 {3000}{}{kolumna}
-{3001}{}{Standardowy element systemu budowlanego firmy Krypt-Tech.}
+{3001}{}{Standardowy element systemu budowlanego firmy KrypTech.}
 {3100}{}{kolumna}
-{3101}{}{Standardowy element systemu budowlanego firmy Krypt-Tech.}
+{3101}{}{Standardowy element systemu budowlanego firmy KrypTech.}
 {3200}{}{otwór wentylacyjny}
-{3201}{}{Standardowy element systemu wentylacyjnego firmy Krypt-Tech.}
+{3201}{}{Standardowy element systemu wentylacyjnego firmy KrypTech.}
 {3300}{}{otwór wentylacyjny}
-{3301}{}{Standardowy element systemu wentylacyjnego firmy Krypt-Tech.}
+{3301}{}{Standardowy element systemu wentylacyjnego firmy KrypTech.}
 {3400}{}{³ó¿ko}
 {3401}{}{To ³ó¿ko wygl¹da bardzo wygodnie w porównaniu z tym, na czym zdarza³o ci siê ostatnio sypiaæ.}
 {3500}{}{³ó¿ko}
@@ -398,9 +398,9 @@
 {20700}{}{stary materac}
 {20701}{}{Nawet jeœli po³o¿ysz siê na niego bez towarzystwa, to robactwo ci go z pewnoœci¹ dotrzyma.}
 {20800}{}{³ó¿ko}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{£ó¿ko domowej roboty. Poszczególne czêœci pochodz¹ z ró¿nych innych sprzêtów.}
 {20900}{}{³ó¿ko}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{£ó¿ko domowej roboty. Poszczególne czêœci pochodz¹ z ró¿nych innych sprzêtów.}
 {21000}{}{³ó¿ko}
 {21001}{}{To ³ó¿ko zdecydowanie ma najlepsze czasy za sob¹.}
 {21100}{}{³ó¿ko}
@@ -2441,7 +2441,7 @@
 {154800}{}{pole si³owe}
 {154900}{}{pole si³owe}
 {155000}{}{automat do usuwania organów}
-{155001}{}{Najnowszy przedstawiciel chirurgicznej serii 'Zrób to sam' firmy Krypt-Tech. Za jednym naciœniêciem guzika usuwa organy wewnêtrzne.}
+{155001}{}{Najnowszy przedstawiciel chirurgicznej serii 'Zrób to sam' firmy KrypTech. Za jednym naciœniêciem guzika usuwa organy wewnêtrzne.}
 {155100}{}{prom}
 {155200}{}{prom}
 {155300}{}{prom}
@@ -2596,12 +2596,12 @@
 {169400}{}{cieñ}
 {169500}{}{cieñ}
 {169600}{}{cieñ}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Dziwna maszyna, rozbita}
+{169800}{}{Dziwna maszyna, rozbita}
+{169900}{}{Dziwna maszyna, rozbita}
+{170000}{}{Dziwna maszyna, rozbita}
+{170100}{}{Dziwna maszyna, rozbita}
+{170200}{}{Dziwna maszyna, rozbita}
 {170300}{}{cieñ}
 {170400}{}{cieñ}
 {170500}{}{cieñ}
