@@ -1,7 +1,7 @@
 {100}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
 {101}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
 {102}{}{Powodzenia! Muszê wracaæ do swojego treningu.}
-{103}{}{Hello Chosen One.  I see you're in need of a little training.  Can I be of help?}
+{103}{}{Witaj, Dziecko Przeznaczenia. Widzê, ¿e przyda³by ci siê ma³y trening. Mogê w czymœ pomóc?}
 {104}{}{Jasne.}
 {105}{}{Nie, dziêki.}
 {106}{}{To zajmie chwilkê.}
