@@ -103,8 +103,10 @@
 {203}{}{Drzwi zdaj¹ siê byæ zamkniête.}
 {204}{}{You notice a trap in the door jam.}
 {205}{}{ notices a trap in the door jam.}
-{206}{}{Nie mo¿esz umieœciæ pu³apki na tych drzwiach. S¹ otwarte!}
-{207}{}{ nie mo¿e umieœciæ pu³apki na tych drzwiach. S¹ otwarte!}
+{206}{}{Nie mo¿esz umieœciæ pu³apki na tych drzwiach, poniewa¿
+ s¹ otwarte.}
+{207}{}{ nie mo¿e umieœciæ pu³apki na tych drzwiach, poniewa¿
+ s¹ otwarte.}
 {208}{}{Sprawnie umieszczasz pu³apkê na drzwiach.}
 {209}{}{Nie udaje ci siê poprawnie za³o¿yæ pu³apki na drzwi.}
 {210}{}{ sprawnie umieszcza pu³apkê na drzwiach.}
