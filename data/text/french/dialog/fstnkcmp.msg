@@ -17,7 +17,7 @@
 {116}{}{ERROR: Navagation Computer non Functional.}
 {117}{}{Réservoirs de carburant : Vides - Cale : Vide - Ordinateur de navigation : Opérationnel - Câbles d'amarrage : Attachés}
 {118}{}{Réservoirs de carburant : pleins - Cale : Vide - Ordinateur de navigation : Opérationnel - Câbles d'amarrage : Attachés}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Tu vois un ordinateur de navigation PoséidoNet.}
 {129}{}{[Tu lances rapidement la séquence de largage et le navire part comme une flèche en direction de la plate-forme pétrolière.]}
 {130}{}{[Terminé]}
 {131}{}{Ordinateur de navigation en ligne.}

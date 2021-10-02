@@ -88,7 +88,7 @@
 {187}{}{Carburant et dérivés.}
 {188}{}{Polymères.}
 {189}{}{[Retour]}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{[Après avoir passé au crible la formule chimique complexe et les notes du laboratoire, tu en conclus que les Shis ont créé une sorte de carburant à partir d'extraits de plantes et de composants marins. Apparemment, ils ont utilisé les anciens pipelines pour transporter le carburant vers des destinations nombreuses et variées.]}
 {191}{}{[Tu découvres de nombreuses formules chimiques et des notes de laboratoire. Tu ne sais pas vraiment ce que tout cela signifie.]}
 {192}{}{Transférer carburant vers pétrolier Poséidon.}
 {193}{}{Transférer carburant vers Hubologistes.}
