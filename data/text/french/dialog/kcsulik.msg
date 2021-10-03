@@ -405,7 +405,7 @@
 {2302}{}{Ok, ne t'emballe pas.}
 {2303}{}{Pas de problème, nous partir maintenant.}
 {2304}{}{Nous penser toi avoir besoin te reposer. Grand-père Esprit des Os dire toi en faire trop. Toi prendre la vie plus tranquille.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{Nous bouger pas cadencé.}
 {2306}{}{Nous aller là maintenant.}
 {2307}{}{Relax, toi t'amuser, nous partir.}
 {3000}{}{Vers le Nord.}
