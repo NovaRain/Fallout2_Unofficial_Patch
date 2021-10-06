@@ -34,7 +34,7 @@
 {181}{}{Martw siê tylko mostem, przyjacielu, ja sobie radê dam.}
 {182}{}{W³aœnie wychodzi³em. Do zobaczenia, przyjacielu.}
 {183}{}{Nie bêdê z tob¹ rozmawiaæ ani chwili d³u¿ej, zarozumia³a œwinio!}
-{184}{}{Czy mogê zadaæ ci kolejne pytanie?}
+{184}{}{Chcia³bym zapytaæ ciê o coœ jeszcze.}
 {185}{}{To by³o szybkie! Uda³o ci siê odnaleŸæ œwiêt¹ Kryptê 13?}
 {186}{}{Tak.}
 {187}{}{Nie, jeszcze nie.}

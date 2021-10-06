@@ -26,7 +26,7 @@
 {125}{}{To Smoke! Dziêkujê ci! Smoke, jesteœ niedobrym pieskiem!}
 {126}{}{Nie ma sprawy. Pa.}
 {127}{}{Jeszcze raz dziêkujê. Mam nadziejê, ¿e podczas swojej podró¿y bêdziesz siê dobrze bawiæ!}
-{128}{}{Têskniê za nim. Dlaczego siê boisz? Przecie¿ jesteœ Dzieckiem Przeznaczenia!}
+{128}{}{Têskniê za nim. Dlaczego siê boisz? Przecie¿ jesteœ Dzieckiem Przeznaczenia.}
 {129}{}{Nie teraz, Dziecko G³upoty. IdŸ siê bawiæ gdzie indziej.}
 {130}{}{Moja iœæ.}
 {131}{}{Idê po Smoke'a.}
