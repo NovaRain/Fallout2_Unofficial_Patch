@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 24](#version-24)
 - [Version 22](#version-22)
 - [Version 21](#version-21)
 - [Version 20](#version-20)
@@ -27,6 +28,13 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 24
+- Restored batch file for manual install on older Windows machines where Innosetup doesn't work for some reason.
+- Disabled sfall debug by default, so that missing animations don't spam PDA.
+- Polish: translation greatly progressed by loading strings from existing [translation package](https://fallout-corner.pl/pliki/), as well as contributions by JaidenIsPink. Also included proper fonts and premade bios.
+- Fixed [molerat fight freezing game](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/124) if PC decided not to watch it.
+- Fixed [Vault City courtyard residents starting combat upon first entering the area](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/125) (introduced in v22).
 
 ### Version 22
 - General:
