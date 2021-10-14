@@ -16,7 +16,7 @@
 {115}{}{::sair::}
 {116}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
 {117}{}{-pronto-}
-{118}{}{"With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years." -Dr. Wong}
+{118}{}{“Com a recente aquisição dos planos do vertibird, a possibilidade de criar uma máquina voadora prática deu um salto quântico. Esperamos ter um protótipo funcionando até o final do ano e a capacidade de produzir esses veículos em massa em dois anos. " -Dr. Wong}
 {119}{}{::copy plans::}
 {120}{}{Voltar.}
 {121}{}{"We are still preparing a working model of an aerial vehicle. None of the designs we have created have proven to be safe or aerodynamic. Perhaps if we had access to the plans of the ancients..."-Dr. Wong}
