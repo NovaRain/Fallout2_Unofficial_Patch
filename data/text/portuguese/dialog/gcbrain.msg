@@ -128,7 +128,7 @@
 {400}{}{Yes. You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
  then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
  themselves in the long run, as well.}
-{401}{}{Doom themselves? How do you mean?}
+{401}{}{Eles vão se condenar? O que quer dizer?}
 {402}{}{Por que Vault City me daria uma peça da Usina de Gecko??}
 {410}{}{Você tem que mostrá-los que isso os ajuda em seus interesses. Pessoas são fácilmente
  manipuladas quando se diz respeito a interesse próprio.}
@@ -194,7 +194,7 @@
 {608}{}{O que houve com o reator?}
 {609}{}{Dar a quem?}
 {610}{}{Ah sim. Bem, vou indo então. Tchau.}
-{611}{}{You need to get that Hydroelectric Magnetosphere Regulator installed before the plant is operational again.}
+{611}{}{Você precisa instalar o Regulador Hidrelétrico da Magnetosfera antes que a usina esteja operacional novamente.}
 {620}{}{Eu sou conhecido simplesmente como O Cérebro. Um tributo à minha genialidade. Algumas coisas em Gecko e apenas um 
 pouco mais fora da cidade fazem minha fama.}
 {621}{}{Mas você é apenas um rato gigante.}
@@ -232,7 +232,7 @@ pouco mais fora da cidade fazem minha fama.}
  progresso nele.}
 {671}{}{Volte mais tarde. Estou me comunicando com uma força maior, ou algo assim (hunf).}
 {700}{}{Não tenho mais nada a dizer a você.}
-{701}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
-{702}{}{I'm on it.}
+{701}{}{Parece que Gordon já deu a vocês este disco de dados econômicos de que falo. Leve-o para Vault City imediatamente.}
+{702}{}{Eu estou trabalhando nisso.}
 {703}{}{Eh, talvez mais tarde. Tchau.}
-{4211}{}{Uh, I guess I better go get that disk from Gordon. Goodbye.}
+{4211}{}{Uh, acho melhor eu ir buscar o disco do Gordon. Adeus.}
