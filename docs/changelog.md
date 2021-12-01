@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 25](#version-25)
 - [Version 24](#version-24)
 - [Version 22](#version-22)
 - [Version 21](#version-21)
@@ -28,6 +29,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 25
+Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in permanent stat loss.
 
 ### Version 24
 - Restored batch file for manual install on older Windows machines where Innosetup doesn't work for some reason.
