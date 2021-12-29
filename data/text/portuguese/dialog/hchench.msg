@@ -14,7 +14,7 @@
 {113}{}{You'd think after all this time tryin' to civilize the wasteland we'd be a little closer to our goal.}
 {114}{}{I'm sick of all this human/mutant squabbling. Ain't we supposed to be an example?}
 {115}{}{Whaddya' want? Can't you see I'm resting?}
-{116}{}{When's the next caravan leave?}
+{116}{}{Quando a próxima caravana sai?}
 {117}{}{Patrol, patrol, patrol... all I ever do around here.}
 {118}{}{I think I need a nap.}
 {119}{}{I deserve a raise. This is hazardous duty.}

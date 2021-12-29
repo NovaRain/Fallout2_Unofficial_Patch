@@ -1,23 +1,23 @@
-{100}{}{You see a bored person dressed in leather armor.}
-{101}{}{You see Max, the caravan guard.}
-{102}{}{You see a dusty, bored person wearing leather armor. From the brahmin stench and the confident
- walk, this person is clearly a caravan guard.}
-{103}{}{Can I help you with something?}
+{100}{}{Você vê uma pessoa entediada usando uma armadura de couro.}
+{101}{}{Você vê Max, o guarda da caravana.}
+{102}{}{Você vê uma pessoa empoeirada e entediada usando uma armadura de couro. Pelo cheiro de brahmin 
+ e pelo andar confiante, é claramente um guarda de caravana.}
+{103}{}{Posso te ajudar com alguma coisa?}
 {104}{}{Urg?}
-{105}{}{Ny work here!}
+{105}{}{Tra-balho aqui!}
 {106}{}{Quem é você?}
-{107}{}{What can you tell me about Chad?}
-{108}{}{I got no patience for idiots. Sorry, pal, but you'll have to find someone else to play with.}
+{107}{}{O que você pode me dizer sobre Chad?}
+{108}{}{Não tenho paciência para idiotas. Foi mal, amigo, vai achar outro pateta pra brincar com você.}
 {109}{}{::sniff::}
-{110}{}{I'm Max. I'm one of the caravan guards.}
-{111}{}{What can you tell me about Chad?}
+{110}{}{Sou o Max. Sou um dos guardas da caravana.}
+{111}{}{O que você pode me dizer sobre Chad?}
 {112}{}{Obrigado. Tchau.}
 {113}{}{I don't like him much. He seems to get always some extra money from his caravan jobs. It's really unfair.}
 {114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
 {115}{}{Obrigado. Tchau.}
 {116}{}{Thanks. I'm sure glad that this is over. You better watch your back thought.}
 {117}{}{Adeus.}
-{118}{}{It's the enemy! Die!}
+{118}{}{Ele é um inimigo! Morra!}
 {119}{}{Oops.}
 {120}{}{(Lowers his voice and looks around) That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
 {121}{}{Really? Then why you haven't tell about it to Marcus then?}
