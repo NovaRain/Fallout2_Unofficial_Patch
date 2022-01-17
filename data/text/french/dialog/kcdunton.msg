@@ -172,7 +172,7 @@
 {423}{}{Pas question. Je m'en vais. Salut.}
 {424}{}{Retournes-y et débarrasse-nous de cet imbécile de Torr !}
 {430}{}{Tu délires. Ce ne sont que des restes de radscorpions qu'on a tués. Oui, c'est ça. C'est tout à fait ça. On... heu, hum, on a utilisé leur venin dans la composition secrète de notre recette de viande séchée.}
-{431}{}{Ouais, bien sûr. Je vous croirai le jour où les poules auront des dents, c'est des conneries tout ça.}
+{431}{}{Ouais, bien sûr. Je vous croirais le jour où les poules auront des dents, c'est des conneries tout ça.}
 {432}{}{Bon, si tu le dis. Ca me suffit. Au revoir.}
 {440}{}{T'as intérêt à la boucler si tu tiens à rester en vie.}
 {441}{}{Hé ! Du calme. Je voulais simplement te dire que ton idée était géniale. Relax, Max.}
