@@ -27,7 +27,7 @@
 {180}{}{Je me fiche de savoir comment tu l'as eu. La question est de savoir si tu vas nous rejoindre et le porter avec ferveur.}
 {181}{}{Vous rejoindre ? Que veux-tu dire ?}
 {182}{}{Plutôt nettoyer ta cage que devenir l'un d'entre vous.}
-{187}{}{Que voulez-vous que je fasse ?}
+{187}{}{Que veux tu que je fasse ?}
 {190}{}{Eh bien, conformément à mon plan visant à diriger le monde, j'ai l'intention de récompenser mes fidèles Goules en trouvant un moyen de restituer leur humanité.}
 {191}{}{Comment vas-tu t'y prendre ?}
 {200}{}{En unissant Gecko et la Cité de l'Abri sous ma direction, j'utiliserai les laboratoires médicaux de la Cité de l'Abri pour trouver un moyen de remédier aux effets radioactifs qui transforment les gens en Goules. Elles seront renouvelées et retrouveront leur humanité.}
