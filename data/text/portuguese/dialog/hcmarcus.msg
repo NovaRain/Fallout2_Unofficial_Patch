@@ -49,16 +49,16 @@
 {148}{}{De uma aldeia a noroeste.}
 {149}{}{Oh, erro meu. Bem, obrigado. Tchau.}
 {150}{mcs15a}{Noticias… noticias…}
-{151}{mcs15b}{Well, gettin' kind of worried about one of our caravan guys. Chad. He might be skimming. You up to checking him out for me?}
+{151}{mcs15b}{Estou desconfiado de um dos caras da nossa caravana. Chad. Talvez ele esteja embolsando umas coisas. Está a fim de dar uma olhada?}
 {152}{}{O quê tem pra mim?}
-{153}{}{Sure. I'll do it.}
-{154}{}{I'm a little busy.}
-{155}{}{You have anything else?}
-{156}{mcs16}{My undying gratitude. Right?}
-{157}{}{Good enough for me.}
-{158}{}{No good. I want something.}
+{153}{}{Claro, eu vou.}
+{154}{}{Estou um pouco ocupado.}
+{155}{}{Você tem alguma outra coisa?}
+{156}{mcs16}{Minha eterna gratidão. De acordo?}
+{157}{}{Já é o suficiente.}
+{158}{}{Não me interessa. Quero algo.}
 {159}{}{Que tal algumas perguntas enquanto eu penso sobre isso.}
-{160}{}{Let me think about it. Bye.}
+{160}{}{Deixe eu pensar sobre isso. Até.}
 {161}{mcs17}{That ain't good enough for you? Then get out.}
 {162}{}{Adeus.}
 {163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
