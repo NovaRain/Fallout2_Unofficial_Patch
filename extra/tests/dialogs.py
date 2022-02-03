@@ -19,7 +19,7 @@ for script in scripts:
     dialog = 'data/text/english/dialog/' + m.group(1) + '.msg'
     try:
         dialog_messages = []
-        with open(dialog) as fdialog:
+        with open(dialog, encoding='cp1252') as fdialog:
             for line in fdialog:
                 dialog_messages.extend(re.findall(r"\{(\d\d\d\d?)\}", line))
     except IOError:
