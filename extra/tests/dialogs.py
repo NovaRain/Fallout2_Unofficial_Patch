@@ -12,8 +12,9 @@ scripts = [y for x in os.walk('scripts_src/') for y in glob(os.path.join(x[0], '
 for script in scripts:
     script_messages = []
     with open(script) as fscript:
-        for line in fscript:
-            script_messages.extend(re.findall(r"^(?!//)(?:Reply|NOption|BOption)\((\d\d\d\d?)[^\d].*$", line.lstrip()))
+        lines = re.sub(r"/\*.+\*/", '', fscript.read(), flags=re.DOTALL).split('\n')
+        for line in lines:
+            script_messages.extend(re.findall(r"^(?!//) *(?:Reply|NOption|BOption) *\( *(\d\d\d\d?)[^\d].*$", line.lstrip()))
     script_messages = list(dict.fromkeys(script_messages))
     m = re.search('.+/(.+)\.ssl', script)
     dialog = 'data/text/english/dialog/' + m.group(1) + '.msg'
