@@ -7,24 +7,27 @@ import os
 from glob import glob
 import re
 
-scripts = [y for x in os.walk('scripts_src/') for y in glob(os.path.join(x[0], '*.ssl'))]
+script_paths = [y for x in os.walk('scripts_src/') for y in glob(os.path.join(x[0], '*.ssl'))]
 
-for script in scripts:
+for script_path in script_paths:
     script_messages = []
-    with open(script) as fscript:
-        lines = re.sub(r"/\*.+\*/", '', fscript.read(), flags=re.DOTALL).split('\n')
+    with open(script_path) as fscript:
+        script_text = fscript.read()
+        lines = re.sub(r"/\*.+\*/", '', script_text, flags=re.DOTALL).split('\n')
         for line in lines:
             script_messages.extend(re.findall(r"^(?!//) *(?:mstr|display_mstr|display_msg\(mstr|floater|floater_rand|Reply|Reply_Rand|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *(\d\d\d\d?) *[,\)].*$", line.lstrip()))
     script_messages = list(dict.fromkeys(script_messages))
-    m = re.search('.+/(.+)\.ssl', script)
-    dialog = 'data/text/english/dialog/' + m.group(1) + '.msg'
+    m = re.search(r'#define NAME +SCRIPT_([A-Z0-9]+)', script_text)
+    if not m:
+        m = re.search('.+/(.+)\.ssl', script_path)
+    dialog_path = 'data/text/english/dialog/' + m.group(1).lower() + '.msg'
     try:
         dialog_messages = []
-        with open(dialog, encoding='cp1252') as fdialog:
+        with open(dialog_path, encoding='cp1252') as fdialog:
             for line in fdialog:
                 dialog_messages.extend(re.findall(r"\{(\d\d\d\d?)\}", line))
     except IOError:
         continue
     script_only = [item for item in script_messages if item not in dialog_messages]
     if script_only:
-        print("Messages in " + script + " that missed in " + dialog + ": " + ' '.join(script_only))
+        print("Messages in " + script_path + " that missed in " + dialog_path + ": " + ' '.join(script_only))
