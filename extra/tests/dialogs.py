@@ -15,7 +15,13 @@ for script_path in script_paths:
         script_text = fscript.read()
         lines = re.sub(r"/\*.+\*/", '', script_text, flags=re.DOTALL).split('\n')
         for line in lines:
-            script_messages.extend(re.findall(r"^(?!//) *(?:mstr|display_mstr|display_msg\(mstr|floater|floater_rand|Reply|Reply_Rand|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *(\d\d\d\d?) *[,\)].*$", line.lstrip()))
+            script_messages.extend(re.findall(r"^(?!//) *(?:display_mstr|floater|Reply|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *(\d\d\d\d?) *[,\)].*$", line.lstrip()))
+        for line in lines:
+            script_messages.extend(re.findall(r"^(?!//).*\( *mstr *\( *(\d\d\d\d?) *\).*$", line.lstrip()))
+        for line in lines:
+            m = re.search(r"^(?!//) *(?:floater_rand|Reply_Rand) *\( *(\d\d\d\d?) *, *(\d\d\d\d?).*$", line.lstrip())
+            if m:
+                script_messages.extend([str(i) for i in range(int(m.group(1)), int(m.group(2))+1)])
     script_messages = list(dict.fromkeys(script_messages))
     m = re.search(r'#define NAME +SCRIPT_([A-Z0-9]+)', script_text)
     if not m:
