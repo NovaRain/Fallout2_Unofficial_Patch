@@ -76,8 +76,10 @@ procedure Node006;
 procedure Node007;
 procedure Node008;
 procedure Node009;
+/* comment out, procedures are not used
 procedure Node010;
 procedure Node011;
+*/
 procedure Node012;
 procedure Node013;
 procedure Node014;
@@ -451,6 +453,7 @@ procedure Node009 begin
    NOption(150,Node999,004);
 end
 
+/* comment out, procedures are not used
 procedure Node010 begin
    Reply(151);
    NOption(152,combat,004);
@@ -461,6 +464,7 @@ procedure Node011 begin
    NOption(154,combat,004); //Karma down 15
    NOption(155,Node999,004); //Chad=Fled
 end
+*/
 
 procedure Node012 begin
    fromWTG:=0;
