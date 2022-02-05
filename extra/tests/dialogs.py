@@ -14,7 +14,7 @@ for script in scripts:
     with open(script) as fscript:
         lines = re.sub(r"/\*.+\*/", '', fscript.read(), flags=re.DOTALL).split('\n')
         for line in lines:
-            script_messages.extend(re.findall(r"^(?!//) *(?:mstr|display_mstr|floater|floater_rand|Reply|Reply_Rand|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *(\d\d\d\d?) *[,\)].*$", line.lstrip()))
+            script_messages.extend(re.findall(r"^(?!//) *(?:mstr|display_mstr|display_msg\(mstr|floater|floater_rand|Reply|Reply_Rand|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *(\d\d\d\d?) *[,\)].*$", line.lstrip()))
     script_messages = list(dict.fromkeys(script_messages))
     m = re.search('.+/(.+)\.ssl', script)
     dialog = 'data/text/english/dialog/' + m.group(1) + '.msg'
