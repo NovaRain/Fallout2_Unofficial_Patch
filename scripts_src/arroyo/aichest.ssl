@@ -136,10 +136,10 @@ procedure use_skill_on_p_proc begin
        //display_msg(mstr(104));
          if (obj_is_locked(self_obj)) then begin
             obj_unlock(self_obj);
-            display_msg(mstr(106));
+            //display_msg(mstr(106)); // comment out, message doesn't exist
          end else begin
             obj_lock(self_obj);
-            display_msg(mstr(105));
+            //display_msg(mstr(105)); // comment out, message doesn't exist
          end
       end
       else begin
