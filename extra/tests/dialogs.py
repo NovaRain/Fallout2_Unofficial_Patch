@@ -9,6 +9,7 @@ import re
 
 script_paths = [y for x in os.walk('scripts_src/') for y in glob(os.path.join(x[0], '*.ssl'))]
 
+message_count = 0
 for script_path in script_paths:
     script_messages = []
     with open(script_path) as fscript:
@@ -37,3 +38,6 @@ for script_path in script_paths:
     script_only = [item for item in script_messages if item not in dialog_messages]
     if script_only:
         print("Messages in " + script_path + " that missed in " + dialog_path + ": " + ' '.join(script_only))
+    message_count += len(script_messages)
+
+print("Messages tested: " + str(message_count))
