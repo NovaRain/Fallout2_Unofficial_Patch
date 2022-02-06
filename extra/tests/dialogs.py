@@ -24,12 +24,12 @@ for script_path in script_paths:
             if m:
                 script_messages.extend([str(i) for i in range(int(m.group(1)), int(m.group(2))+1)])
     script_messages = list(dict.fromkeys(script_messages))
-    m = re.search(r'#define NAME +SCRIPT_([A-Z0-9]+)', script_text)
+    m = re.search(r'#define NAME +SCRIPT_([A-Z0-9_]+)', script_text)
     if not m:
         m = re.search('.+/(.+)\.ssl', script_path)
     dialog_path = 'data/text/english/dialog/' + m.group(1).lower() + '.msg'
+    dialog_messages = []
     try:
-        dialog_messages = []
         with open(dialog_path, encoding='cp1252') as fdialog:
             for line in fdialog:
                 dialog_messages.extend(re.findall(r"\{([0-9]{3,5})\}", line))
