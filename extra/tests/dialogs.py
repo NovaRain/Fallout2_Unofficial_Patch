@@ -15,11 +15,11 @@ for script_path in script_paths:
         script_text = fscript.read()
         lines = re.sub(r"/\*.+\*/", '', script_text, flags=re.DOTALL).split('\n')
         for line in lines:
-            script_messages.extend(re.findall(r"^(?!//) *(?:display_mstr|floater|Reply|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *([0-9]{3,5}) *[,\)].*$", line.lstrip()))
-        for line in lines:
-            script_messages.extend(re.findall(r"^(?!//).*\( *mstr *\( *([0-9]{3,5}) *\).*$", line.lstrip()))
-        for line in lines:
-            m = re.search(r"^(?!//) *(?:floater_rand|Reply_Rand) *\( *([0-9]{3,5}) *, *([0-9]{3,5}).*$", line.lstrip())
+            if line.lstrip().startswith('//'):
+                continue
+            script_messages.extend(re.findall(r"[^_]+(?:display_mstr|floater|Reply|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *([0-9]{3,5}) *[,\)]", line))
+            script_messages.extend(re.findall(r"[^_]+mstr *\( *([0-9]{3,5}) *\)", line))
+            m = re.search(r"[^_]+(?:floater_rand|Reply_Rand) *\( *([0-9]{3,5}) *, *([0-9]{3,5})", line)
             if m:
                 script_messages.extend([str(i) for i in range(int(m.group(1)), int(m.group(2))+1)])
     script_messages = list(dict.fromkeys(script_messages))
