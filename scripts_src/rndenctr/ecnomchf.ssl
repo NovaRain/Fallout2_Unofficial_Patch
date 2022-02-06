@@ -225,8 +225,10 @@ end
 
 procedure NodeBarter begin
    gdialog_barter;
+/* comment out, messade 203 doesn't exist
    Reply(203);
    NOption(204,Node999,004);
+*/
 end
 
 procedure Node001 begin
@@ -235,11 +237,13 @@ procedure Node001 begin
       NOption(104, Node002, 4);
       NOption(105, Node003, 4);
       NLowOption(106, Node005);
+/* comment out, message 200 doesn't exist
    end else begin
       Reply(200);
       NOption(201, Node002, 4);
       NOption(105, Node003, 4);
       NLowOption(106, Node005);
+*/
    end
 end
 
@@ -248,8 +252,10 @@ procedure Node002 begin
    NOption(108, NodeBarter, 4);
    if (On_Tent_Map) then
       NOption(109, Node004, 4);
+/* comment out, Node004a can't be used
    else
       NOption(109, Node004a, 4);
+*/
 end
 
 procedure Node003 begin
@@ -262,10 +268,12 @@ procedure Node004 begin
    NOption(113, Node999, 4);
 end
 
+/* comment out, message 202 doesn't exist
 procedure Node004a begin
    Reply(202);
    NOption(113, Node999, 4);
 end
+*/
 
 procedure Node005 begin
    Reply(114);
