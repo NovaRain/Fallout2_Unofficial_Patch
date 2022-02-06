@@ -25,7 +25,7 @@ for script_path in script_paths:
         for line in lines:
             if line.lstrip().startswith('//'):
                 continue
-            script_messages.extend(re.findall(r"[^_]+(?:display_mstr|floater|Reply|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *([0-9]{3,5}) *[,\)]", line))
+            script_messages.extend(re.findall(r"[^_]+(?:display_mstr|floater|dude_floater|Reply|GOption|GLowOption|NOption|NLowOption|BOption|BLowOption|GMessage|NMessage|BMessage) *\( *([0-9]{3,5}) *[,\)]", line))
             script_messages.extend(re.findall(r"[^_]+mstr *\( *([0-9]{3,5}) *\)", line))
             m = re.search(r"[^_]+(?:floater_rand|Reply_Rand) *\( *([0-9]{3,5}) *, *([0-9]{3,5})", line)
             if m:
