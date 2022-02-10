@@ -1,6 +1,6 @@
-{100}{}{You see Shadow-Who-Walks.}
-{150}{}{You see a heavily-muscled primitive with black scars covering his face. He is watching you silently.}
-{151}{}{You see Shadow-Who-Walks. His face is heavily scarred by ritual tattoos.}
-{200}{}{He just stares at you in silence.}
-{201}{}{He watches you silently.}
-{300}{}{Shhh... I'm huntin' wabbits.}
+{100}{}{Você vê a Sombra Ambulante.}
+{150}{}{Você vê um tribal musculoso com cicatrizes pretas cobrindo seu rosto. Ele está te encarando silenciosamente.}
+{151}{}{Você a Sombra Ambulante. Seu rosto está fortemente marcado com tatuagens rituais.}
+{200}{}{Ele apenas te encara em silêncio.}
+{201}{}{Ele te encara silenciosamente.}
+{300}{}{Shhh... Estou caçando coelhos.}
