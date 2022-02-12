@@ -137,7 +137,7 @@
 {470}{slk27ma}{Aqueles que permanece na frente ataca por trás.}
 {471}{slk27mb}{O chão brilhar com uma luz que não ser dos espíritos.}
 {480}{slk27na}{Você dever ser como uma ponte entre os lados.}
-{481}{slk27nb}{Quiet that which is under the water or the salvation of your tribe will also go under.}
+{481}{slk27nb}{Cale o que está debaixo d'água ou a salvação de sua tribo também irá afundar.}
 {482}{slk27nc}{Quietar aquele que estar sob a água ou a salvação da sua tribo também ficar sob ela}
 {483}{slk27nd}{Aquele que empurrar a grande árvore de aço para o céu deve ir para o berço da tribo.}
 {490}{}{Aqueles que parece ser espíritos mas não carregar muitos segredos.}
