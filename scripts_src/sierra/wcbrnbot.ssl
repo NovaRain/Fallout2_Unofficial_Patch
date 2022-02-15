@@ -704,7 +704,7 @@ procedure Node024 begin
       if (map_var(MVAR_Security_Level_4) == 1) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
           sierra_set_security_off;
-          floater(207);
+          //floater(207); // comment out, message doesn't exist
           set_map_var(MVAR_Security_Level_4,0);
       end
    end
