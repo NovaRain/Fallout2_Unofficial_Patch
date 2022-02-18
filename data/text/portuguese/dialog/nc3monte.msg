@@ -1,21 +1,21 @@
-{100}{}{You see Three-Card Monte.}
-{150}{}{You see a spindly-looking old man with a sunburned face. He's so thin he looks like he's made out of twigs.}
+{100}{}{Você vê um Monte de Três Cartas.}
+{150}{}{Você vê um velho magro com o rosto queimado de sol. Ele é tão magro que parece uma tripa escorrida.}
 {200}{}{Não entendo como perdi...}
-{205}{}{Heeeey! Hero! You all right, you all right.}
-{215}{}{Where the hell are my cards? I JUST had them.}
-{220}{}{Yo, pal, don't bother with the casinos. Come play with Monte.}
-{230}{}{Monte ain't open for games today, friend; my damn cards have gone missing.}
-{231}{}{(The old man smiles, and the skin around his eyes crinkles.) Looking to play, friend?}
-{250}{}{Get down to what? The game, of course!}
-{260}{}{(You hand over the cash. Monte nods, shows you the cards, then slaps them down on the ground and shuffles them for a few seconds.)}
+{205}{}{Heeeey! Herói! Você fez bem, muito bem.}
+{215}{}{Onde diabos estão minhas cartas? Estavam AGORA aqui.}
+{220}{}{Ei, amigo, não se preocupe com os cassinos, venha brincar com o Monte.}
+{230}{}{O Monte não está aberto para jogos hoje, amigo; minhas malditas cartas sumiram.}
+{231}{}{(O velho sorri e a pele ao redor dos olhos se enruga.) Quer brincar, amigo?}
+{250}{}{Descer para o quê? O jogo, claro!}
+{260}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas, depois as joga no chão e as embaralha por alguns segundos.)}
 {280}{}{(Monte turns over the card. It is the two of spades.)}
-{300}{}{(You hand over the cash. Monte nods, shows you the cards, then lays them on the ground. As he does, he palms a card, so quickly you almost miss it. He then proceeds to shuffle for a few seconds.)}
-{320}{}{WHAT did you say, pal?}
+{300}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas e as coloca no chão. Ao fazer, ele pega uma carta, tão rápido que você quase a perde. Ele então começa a embaralhar por alguns segundos.)}
+{320}{}{O que você disse, colega?}
 {330}{}{Look, I ain't got time for sore losers. You pay your money, you take your chances. If you
  wanna PLAY, fine, but if
  you're just gonna bitch when you lose, then get lost!}
 {340}{}{(You hand over the cash. Monte nods, then slaps the cards down and shuffles them for a few seconds.)}
-{360}{}{(You hand over the cash. Monte nods, shows you the cards, then slaps them down on the ground and shuffles them for a few seconds.)}
+{360}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas, depois as joga no chão e as embaralha por alguns segundos.)}
 {375}{}{(Monte turns over the card. It is the queen of hearts. He seems paralyzed with shock.) Uh...? Heh. Eh...}
 {385}{}{(Monte turns over the card. It is the queen of hearts. He looks shocked.) Uh...? Heh... uh...}
 {400}{}{(Looks pained.) Eh... well, I do have something... but it's worth WAY more than you won... still...}
