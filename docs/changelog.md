@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 26](#version-26)
 - [Version 25](#version-25)
 - [Version 24](#version-24)
 - [Version 22](#version-22)
@@ -29,6 +30,14 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 26
+- Sfall updated to version 4.3.3.1.
+- Fixed several dialog issues when PC is a stupid smooth talker:
+  - [barter with Liz](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/83)
+  - [barter with Mikey](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/86)
+  - [Mom](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/88)
+  - [Tubby, Metzger, Sheila](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/92)
 
 ### Version 25
 Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in permanent stat loss.
