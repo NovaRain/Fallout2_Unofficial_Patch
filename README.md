@@ -2,7 +2,9 @@
 
 [![Build status](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
-[![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
+[![Discord](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
+[![Telegram](https://img.shields.io/badge/TG-BGforge-brightgreen?logo=telegram)](https://t.me/bgforge)
+[![IRC](https://img.shields.io/badge/%23IRC-BGforge-brightgreen)](irc://rizon/bgforge)
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 | [__Installation__](#installation)
@@ -33,7 +35,6 @@ For various QoL features, check out these mods:
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
 - [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
-- [Inventory filter](https://nma-fallout.com/threads/inventory-filter.214445/)
 - [Cassidy talking head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head)
 
 ### Bug reports, feature requests
