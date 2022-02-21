@@ -11,41 +11,41 @@
 {280}{}{(Monte turns over the card. It is the two of spades.)}
 {300}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas e as coloca no chão. Ao fazer, ele pega uma carta, tão rápido que você quase a perde. Ele então começa a embaralhar por alguns segundos.)}
 {320}{}{O que você disse, colega?}
-{330}{}{Look, I ain't got time for sore losers. You pay your money, you take your chances. If you
- wanna PLAY, fine, but if
- you're just gonna bitch when you lose, then get lost!}
-{340}{}{(You hand over the cash. Monte nods, then slaps the cards down and shuffles them for a few seconds.)}
+{330}{}{Olha, eu não tenho tempo para perdedores bunda mole. Você paga seu dinheiro e arrisca,
+ só. Se você quer JOGAR, tudo bem, mas se você só vai ficar com graça quando perder,
+ então saia!}
+{340}{}{(Você entrega o dinheiro. Monte acena com a cabeça, depois bate as cartas e as embaralha por alguns segundos.)}
 {360}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas, depois as joga no chão e as embaralha por alguns segundos.)}
-{375}{}{(Monte turns over the card. It is the queen of hearts. He seems paralyzed with shock.) Uh...? Heh. Eh...}
-{385}{}{(Monte turns over the card. It is the queen of hearts. He looks shocked.) Uh...? Heh... uh...}
-{400}{}{(Looks pained.) Eh... well, I do have something... but it's worth WAY more than you won... still...}
-{405}{}{Eh... hmnnn... depends on what you want to know.}
-{415}{}{Eh... well... look, you ain't heard it from me, but my bets on Renesco, that asshole who runs the pharmacy on the west side.
- I don't know if he sold it TO the kid for sure, but he knows something. That's all I'm gonna say.}
-{420}{}{Eh... well... (looks like he's fighting an inner battle) ...look, you ain't heard it from me, but if I was you, I'd
- check out the basement of the Desperado.}
-{425}{}{(Narrows his eyes, leans in) I'd ask ol' Jules at the front of town. Nothing gets by him... and
- if it DID, then he had a finger in it, know what I'm saying?}
-{430}{}{Well... know that Eldridge fella that runs New Reno Arms? He says he does weapon upgrades, but I never see him do
- any work. Might be worthwhile to check out his place... but you didn't hear that from me.}
-{435}{}{(Monte frowns as he sees you.) Look, I ain't running no games today, all right? Blow.}
-{440}{}{Nope. Ain't gonna part with that. Period. It's GENUINE pre-war memorabilia... a little slice of history. No WAY.}
-{450}{}{You deaf? That amount ain't even enough to interest me.}
-{460}{}{Well, it ain't THAT dear to me. It's yours, pal. (He glances to the right and left, then reaches down and pulls off his
- boot. He twists off the heel and pulls out a playing card from inside.) Here ya go. Take care of it.}
-{465}{}{(Frowns) Whether I talk depends on what you want to know. And it's not gonna be cheap.}
-{475}{}{No way in Golgotha am I going to even TOUCH that subject. Piss off.}
-{490}{}{(Shakes his head.) No way. Talking about that could get somebody killed, startin' with me. Forget it.}
-{495}{}{Eh... well... that's a lot of chips. (Licks his lips. He looks like he's fighting an inner battle....but the battle is a brief one.) Look, you ain't heard it from me...}
-{500}{}{(Sneers) Maybe I heard something, maybe I didn't. Name a price.}
-{510}{}{Ha! You couldn't buy a bucket of piss for that much. Forget it.}
-{515}{}{Thaaaat's about right. (Grins evilly.) Look, you ain't heard it from me, but if I was you, I'd check out the basement of the Desperado on Virgin Street. There's a lot of "rats" there, if you catch my drift.}
-{520}{}{(Shrugs) Maybe I know something about that, maybe I don't. Tell me a price and I might have something to say.}
-{530}{}{(Narrows his eyes, leans in) For that amount, I don't know nothing.}
-{535}{}{That's about right... (narrows his eyes, leans in) ...I'd ask ol' Jules at the front of town. Nothing
- gets by him... and if it DID, then he had a finger in it, know what I'm saying?}
-{540}{}{(Shrugs) I hear things, I see things. For 200 chips, maybe you can get the benefit of my experience, know what I'm saying?}
-{550}{}{You deaf? I SAID 200 chips, n' I meant it.}
+{375}{}{(Monte vira a carta. É a rainha de copas. O bixo ficou em choque.) Uh...? Heh. Eh...}
+{385}{}{(Monte vira a carta. É a rainha de copas. Ele fica em choque.) Uh...? Eh... ah...}
+{400}{}{(Parece aflito.) Eh... bem, eu tenho algo... mas vale MUITO mais do que você ganhou... ainda assim...}
+{405}{}{Eh... hmnnn... depende do que você quer saber.}
+{415}{}{Eh... bem... olhe, você não ouviu nada de mim, mas eu aposto no Renesco, aquele babaca que tem a farmácia no lado oeste.
+ Não tenho certeza se ele vendeu para o garoto, mas ele sabe de alguma coisa. Isso é tudo que eu vou dizer.}
+{420}{}{Eh... bem... (parece que ele tem uma luta interior) ...olha, você não ouviu isso de mim, mas se eu fosse
+ você, daria uma olhada no porão do Desperado.}
+{425}{}{(Aperta os olhos e se inclina) Eu perguntaria ao velho Jules na frente da cidade. Nada passa
+ sem ele saber... e se aconteceu, então ele teria um dedo nisso, entendeu o que estou dizendo?}
+{430}{}{Bem... conhece aquele tal Eldridge que dirige a New Reno Arms? Ele diz que faz upgrades em armas, mas nunca o
+ vejo fazer nada da vida. Talvez seja bom dar uma olhada na casa dele... mas você não ouviu isso de mim.}
+{435}{}{(Monte franze a testa quando te vê.) Olha, não vou fazer nenhum jogo hoje, certo? Saia.}
+{440}{}{Não, não vou me livrar disso, esquece. É um item AUTENTICO do pré-guerra... um pedacinho da história. NEM VEM.}
+{450}{}{Está surdo? Essa quantia nem é suficiente para me interessar.}
+{460}{}{Bem, não é tão caro para mim. É seu, amigo. (Ele olha para a direita e para a esquerda, depois se abaixa e tira a
+ bota. Ele torce o calcanhar e tira uma carta de baralho de dentro.) Aqui está. Tome conta disso.}
+{465}{}{(Carranca) O que eu digo depende do que você quer saber. E não será barato.}
+{475}{}{Não vou tocar nesse assunto da Gólgota. Vá dar uma passeada.}
+{490}{}{(Balança a cabeça.) De jeito nenhum. Falar sobre isso pode matar alguém, começando por mim. Esqueça.}
+{495}{}{Eh... bem... isso é um monte de fichas. (Lambe os lábios. Ele parece estar lutando uma batalha interna... mas dura pouco.) Olha, você não ouviu isso de mim...}
+{500}{}{(Risos) Talvez eu tenha ouvido alguma coisa, talvez não. Diga um preço.}
+{510}{}{Ah! Você não pode comprar um balde de mijo com isso. Esqueça.}
+{515}{}{Tá certo. (Sorri maliciosamente.) Olha, você não ouviu isso de mim, mas se eu fosse você, eu olharia o porão do Desperado na Virgin Street. Há muitos "ratos" lá, se você me entende.}
+{520}{}{(Encolhe os ombros) Talvez eu saiba algo sobre isso, talvez não. Me fale um preço e talvez eu tenha algo a dizer.}
+{530}{}{(Aperta os olhos, se inclina) Por essa quantia, não sei de nada.}
+{535}{}{Isso mesmo... (cerra os olhos, se inclina) ...eu perguntaria ao velho Jules na frente da cidade.
+ Nada passa por ele... e se aconteceu, então deve ter um dedo nele, entendeu o que eu disse?}
+{540}{}{(Dá de ombros) Eu ouço coisas, eu vejo coisas. Por 200 fichas, talvez você possa ouvir um pouco da minha experiência, entendeu o que eu disse?}
+{550}{}{Você é surdo? EU DISSE 200 fichas, só com isso.}
 {555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
  weapon upgrades, but I never see him do any work. You might want to check out his place... but
   you didn't hear that from me.}
