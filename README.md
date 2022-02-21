@@ -4,7 +4,7 @@
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
 [![Discord](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 [![Telegram](https://img.shields.io/badge/TG-BGforge-brightgreen?logo=telegram)](https://t.me/bgforge)
-[![IRC](https://img.shields.io/badge/%23IRC-BGforge-brightgreen)](irc://rizon/bgforge)
+[![IRC](https://img.shields.io/badge/%23IRC-BGforge-brightgreen)](https://bgforge.net/irc)
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 | [__Installation__](#installation)
