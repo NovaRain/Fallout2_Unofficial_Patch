@@ -49,8 +49,8 @@
 {555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
  weapon upgrades, but I never see him do any work. You might want to check out his place... but
   you didn't hear that from me.}
-{560}{}{Boneyard south of town. Stinks ta high heaven, it does.}
-{565}{}{My bets on Renesco, that old asshole who runs the pharmacy on the west side. I don't know
- if he sold it TO the kid for sure, but he knows SOMETHING. (Glances around) That's all I'm gonna say.}
-{570}{}{(He glances around, then reaches down and pulls off his boot. He twists off the heel and pulls out a card... on the card
- is a man with a strange hat, wielding a club.) Interested? It's genuine pre-war memorabilia.}
+{560}{}{O cemitério ao sul da cidade. Fede até quase você perder a consciência, isso é certo.}
+{565}{}{Minhas apostas são em Renesco, aquele velho fudido que gerencia a farmácia na zona
+ oeste. Eu não tenho certeza se ele vendeu algo para o garoto, mas ele sabe de ALGUMA COISA. (Olha ao redor) Isso é tudo que vou dizer.}
+{570}{}{(Ele olha ao redor, depois se abaixa e tira a bota. Ele torce o calcanhar e tira um cartão... no cartão está um homem com
+ um chapéu estranho, empunhando um porrete.) Interessado? São lembranças genuínas do pré-guerra.}
