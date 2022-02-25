@@ -2,9 +2,10 @@
 
 [![Build status](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/up/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/up/)
-[![Discord](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
-[![Telegram](https://img.shields.io/badge/TG-BGforge-brightgreen?logo=telegram)](https://t.me/bgforge)
-[![IRC](https://img.shields.io/badge/%23IRC-BGforge-brightgreen)](https://bgforge.net/irc)
+
+[![Telegram](https://img.shields.io/badge/telegram-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange?logo=telegram)](https://t.me/bgforge)
+[![Discord](https://img.shields.io/discord/420268540700917760?logo=discord&label=discord&color=blue&logoColor=FEE75C)](https://discord.gg/4Yqfggm)
+[![IRC](https://img.shields.io/badge/%23IRC-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange)](https://bgforge.net/irc)
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 | [__Installation__](#installation)
