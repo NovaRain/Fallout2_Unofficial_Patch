@@ -50,7 +50,7 @@
 {149}{}{Ragazzo, andare in giro sarebbe uno sforzo troppo grande per me. Se non puoi aiutarmi tu, sono fottuto.}
 {150}{}{Bene. Andro' a parlare con Fung.}
 {151}{}{Bene. Tanto non me ne frega un cazzo di te.}
-{152}{}{Se tu potessi fare qualcosa... non so... ucciderlo, o convincerlo in qualche modo... senza milza moriro'!}
+{152}{}{Se tu potessi fare qualcosa... non so... ucciderlo, o convincerlo in qualche modo... senza milza moriro'.}
 {153}{}{Vedro' di fare il possibile.}
 {154}{}{Spiacente, amico... credo tu sia fottuto. Non posso aiutarti.}
 {155}{}{Senza una milza moriro'. Grazie comunque per l'aiuto.}
