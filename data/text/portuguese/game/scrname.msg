@@ -1144,14 +1144,14 @@
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Map Script}
-{1247}{}{Dermal Pip-Boy}
-{1248}{}{Pooch}
+{1247}{}{PipBoy dermal}
+{1248}{}{Catioro}
 {1249}{}{Rattray}
-{1250}{}{Spouse}
-{1251}{}{LoPan Guard}
+{1250}{}{Esposa}
+{1251}{}{Guarda de Lo Pan}
 {1252}{}{Map Script}
 {1253}{}{Porta}
-{1254}{}{Cybernetic Dog}
+{1254}{}{Cão Cibernético}
 {1255}{}{Luke}
 {1256}{}{Joshua}
 {1257}{}{Portão}
@@ -1165,7 +1165,7 @@
 {1265}{}{Chuck Stodgers}
 {1266}{}{}
 {1267}{}{Terminal}
-{1268}{}{Gang Thug}
+{1268}{}{Bandido de gangue}
 {1269}{}{Cheater}
 {1270}{}{}
 {1271}{}{Peasant}
@@ -1184,13 +1184,13 @@
 {1284}{}{}
 {1285}{}{}
 {1286}{}{Typhon}
-{1287}{}{Bodyguard}
+{1287}{}{Guarda-costas}
 {1288}{}{Map Script}
 {1289}{}{Armário}
 {1290}{}{Poço}
 {1291}{}{Micky}
 {1292}{}{Torreta}
-{1293}{}{Old Ghoul}
+{1293}{}{Ghoul velho}
 {1294}{}{Capanga}
 {1295}{}{Elmo}
 {1296}{}{Banheiro}
@@ -1201,7 +1201,7 @@
 {1301}{}{Generator}
 {1302}{}{Porta}
 {1303}{}{Porta}
-{1304}{}{Medical Pip-Boy}
+{1304}{}{PipBoy médico}
 {1305}{}{Armário}
 {1306}{}{Armário}
 {1307}{}{Armário}
@@ -1223,17 +1223,17 @@
 {1323}{}{Armário}
 {1324}{}{Armário}
 {1325}{}{Map Script}
-{1326}{}{You can't see me}
+{1326}{}{Você não pode me ver}
 {1327}{}{Tin Woodsman}
 {1328}{}{Map Script}
-{1329}{}{Stone Formation}
+{1329}{}{Formação de pedra}
 {1330}{}{}
 {1331}{}{Terminal}
 {1332}{}{Armário}
 {1333}{}{}
 {1334}{}{Map Script}
-{1335}{}{Security Bot}
-{1336}{}{Security Bot}
+{1335}{}{Robo de seguraça}
+{1336}{}{Robo de seguraça}
 {1337}{}{Armário}
 {1338}{}{Armário}
 {1339}{}{Armário}
@@ -1254,17 +1254,17 @@
 {1354}{}{Armário}
 {1355}{}{Armário}
 {1356}{}{Armário}
-{1357}{}{Dock Squatter}
-{1358}{}{Dock Kid}
+{1357}{}{Invasor de doca}
+{1358}{}{Garoto da doca}
 {1359}{}{Map Script}
 {1360}{}{Percy Crump}
 {1361}{}{Caixa}
 {1362}{}{Caixa}
 {1363}{}{Porta}
-{1364}{}{The Great Ananias}
+{1364}{}{O Grande Ananias}
 {1365}{}{Map Script}
-{1366}{}{Unwashed Villager}
-{1367}{}{Spammer}
+{1366}{}{Aldeão sujo}
+{1367}{}{Mensageiro}
 {1368}{}{Mapa}
 {1369}{}{Map Script}
 {1370}{}{Map Script}
@@ -1273,9 +1273,9 @@
 {1373}{}{Máquina de Nuka-Cola}
 {1374}{}{Dock}
 {1375}{}{Porta}
-{1376}{}{Land Mine}
-{1377}{}{Land Mine}
-{1378}{}{Your Ex}
+{1376}{}{Mina}
+{1377}{}{Mina}
+{1378}{}{Ex}
 {1379}{}{Mel}
 {1380}{}{Duto de ventilação}
 {1381}{}{Kevin}
