@@ -1,8 +1,8 @@
 {100}{}{Widzisz starszego mê¿czyznê z g³êbokimi zmarszczkami na twarzy. Nawet jeœli widzi, ¿e mu siê przygl¹dasz, to nie okazuje tego.}
 {101}{}{Widzisz Cassidy'ego.}
 {102}{}{Widzisz starszego mê¿czyznê z g³êbokimi zmarszczkami na twarzy. Kiwa do ciebie g³ow¹.}
-{103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
-{104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
+{103}{Cas0103}{No, proszê. Nie widzia³em ciê tu jeszcze. Nazywam siê Cassidy. Prowadzê tê spelunê. Co mogê dla ciebie zrobiæ?}
+{104}{Cas0104}{No proszê, to znowu ty. Co mogê dzisiaj dla ciebie zrobiæ?}
 {105}{}{Ug Nog?}
 {106}{}{OdejdŸ bez s³owa.}
 {107}{}{Szukam Krypty.}
@@ -10,69 +10,68 @@
 {109}{}{Co masz do picia?}
 {110}{}{Dzieje siê tutaj coœ ciekawego?}
 {111}{}{Dziêki, ale dziœ nie skorzystam.}
-{112}{Cas0112}{Hit on the head a little too often, eh? Sorry, I don't speak imbecile.}
+{112}{Cas0112}{Zbyt wiele uderzeñ w g³owê, co? Przykro mi, nie mówiê po debilnemu.}
 {113}{}{Ne-mu?}
-{114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
+{114}{Cas0114}{Krypty? Jedyna jak¹ znam jest w mieœcie. Wielgachna dziura... Nie przeoczysz jej - wierz mi.}
 {115}{}{Masz coœ do picia?}
 {116}{}{Dzieje siê tutaj coœ ciekawego?}
 {117}{}{Dziêki za wskazówki. Powodzenia.}
-{118}{Cas0118}{Beer for $20, shot of whiskey for $30. Nothing special. Why, you want something?}
+{118}{Cas0118}{Piwo za 20$, kolejka whisky za 30$. Nic szczególnego. A co? Chcesz coœ?}
 {119}{}{Szukam Krypty.}
 {120}{}{Poproszê piwo.}
 {121}{}{Strzelê sobie setê.}
 {122}{}{Dzieje siê tutaj coœ ciekawego?}
 {123}{}{Nieszczególnie. Ale dziêki.}
-{124}{Cas0124}{"Interesting?" Heh. Friend, Vault City ain't an "interesting" place... unless the guards get bored, then you
- better take cover. Why you asking? You looking for something in this sinkhole?}
+{124}{Cas0124}{"Ciekawego"? Ech, przyjacielu. Kryptopolis nie jest "ciekawym" miejscem... Chyba ¿e stra¿nicy siê nudz¹ - wtedy lepiej siê kryæ. Czemu pytasz? Szukasz czegoœ w tej dziurze?}
 {125}{}{Masz coœ do picia?}
 {126}{}{W³aœciwie, szukam Krypty.}
 {127}{}{Nie mo¿e tu byæ a¿ tak Ÿle.}
 {128}{}{Nieszczególnie. Ale dziêki.}
-{129}{Cas0129}{Here you go. Drink up. It might help you forget where you are.}
+{129}{Cas0129}{Proszê bardzo, napij siê. Mo¿e dziêki temu zapomnisz gdzie jesteœ.}
 {130}{}{Nie mo¿e tu byæ a¿ tak Ÿle.}
 {131}{}{Dziêki za drinka. Muszê lecieæ.}
-{132}{Cas0132}{Oh, really? Well, hell then, I must be mistaken, considering YOU'RE the authority and all. Guess you must have been napping during the raid last week?}
+{132}{Cas0132}{Doprawdy? Cholera, wiêc muszê siê myliæ, bo przecie¿ to TY jesteœ w tej sprawie autorytetem. Domyœlam siê, ¿e nie by³o ciê tu podczas nalotu w zesz³ym tygodniu?}
 {133}{}{Nalotu?}
-{134}{Cas0134}{Aw, yeah, a beautiful sight it was. A guard patrol broke in here looking for "illegal substances." They busted down the door, busted up my stock, then busted up a few of my customers, too.}
+{134}{Cas0134}{A tak, to by³ piêkny widok. Patrol stra¿ników wparowa³ tu, szukaj¹c "nielegalnych substancji". Rozwalili drzwi, rozwalili moje zapasy, a potem przy³o¿yli te¿ paru klientom.}
 {135}{}{A co siê sta³o potem?}
 {136}{}{Przykro mi to s³yszeæ. Pogadamy póŸniej.}
-{137}{Cas0137}{After they hauled away this one guy, Joshua, for resisting arrest, they fined my ass for finding - get this - REAL whiskey on the premises. Nevermind that I got a permit from Stark three months before. Bastards.}
+{137}{Cas0137}{Jak ju¿ zgarnêli tego goœcia, Joshue, za opór przy aresztowaniu, wlepili mi grzywnê za posiadanie - wyobraŸ sobie - prawdziwej whisky! I nie obchodzi³o ich, ¿e trzy miesi¹ce temu dosta³em na ni¹ pozwolenie od Starka. Dranie.}
 {138}{}{Rany... Bez jaj...}
 {139}{}{Przykro mi to s³yszeæ. Pogadamy póŸniej.}
-{140}{Cas0140}{It gets better. Now I'm in debt to the guards for the fine, an' I had to buy a new case of alcohol from a merchant at triple my standard rate. I'm expecting the guards to come knocking again soon, just to bust my chops. }
+{140}{Cas0140}{Jest jeszcze lepiej. Teraz zalegam stra¿nikom za grzywnê i musia³em kupiæ now¹ skrzynkê alkoholu od handlarza, który wzi¹³ za ni¹ trzy razy wiêcej ni¿ zwykle. A stra¿nicy pewnie nied³ugo znowu wpadn¹, choæby po to, by mi trochê dokopaæ. }
 {141}{}{Jak tu zwykle jest?}
 {142}{}{Mam nadziejê, ¿e sprawy siê wyprostuj¹. Do zobaczenia.}
-{143}{Cas0143}{Even the good days ain't worth a damn. The Citizens don't drink much, so I'm stuck here pouring drinks for merchants. The next cheap sonuvabitch who haggles for a drink is going to be wearing his ass as a hat.}
+{143}{Cas0143}{Nawet w udane dni jest tu kiepsko. Obywatele ma³o pij¹, wiêc ¿yjê z handlarzy. Jeœli jeszcze jakiœ sukinsyn bêdzie siê targowa³ o cenê drinka, wyjdzie st¹d nosz¹c w³asn¹ dupê jako kapelusz.}
 {144}{}{Dlaczego tu siedzisz, skoro tak nienawidzisz tego miejsca?}
 {145}{}{Przykro mi to s³yszeæ. Szukam Krypty. Mo¿esz mi pomóc?}
 {146}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e sytuacja siê poprawi.}
-{147}{Cas0147}{I have a bad heart. Need cardio booster shots to keep it beating. This city's the only place to get real medical care, so I thought I'd settle here, try and make a living.}
+{147}{Cas0147}{Mam chore serce. Potrzebne mi zastrzyki kardio-dopalacza, by nie przesta³o biæ. To miasto jest jedynym miejscem, które ma jakieœ mo¿liwoœci medyczne, wiêc wymyœli³em sobie, ¿e osiedlê siê tu i spróbujê jakoœ zarobiæ na ¿ycie.}
 {148}{}{Zdaje siê masz ju¿ ca³kiem doœæ tego miejsca.}
 {149}{}{Rozumiem. S³uchaj, szukam Krypty. Mo¿esz mi w tym pomóc?}
 {150}{}{Mam nadziejê, ¿e sprawy siê wyprostuj¹. Do zobaczenia.}
-{151}{Cas0151}{Makes me want to close up shop and let this City rot. Screw 'em all.}
+{151}{Cas0151}{Mam ochotê zwin¹æ interes i pozwoliæ, by to miasto zgni³o. Pieprzê ich.}
 {152}{}{Wiêc czemu nie odejdziesz?}
 {153}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e sprawy jakoœ siê u³o¿¹.}
-{154}{Cas0154}{Go into the wastes by myself? Ha! I'm sick of this place, but I ain't stupid.}
+{154}{Cas0154}{Mam sam iœæ na Pustkowie? Ha! Mam doœæ tego miejsca, ale nie jestem g³upi!}
 {155}{}{Wybieram siê nied³ugo w podró¿. Chcia³byœ siê przy³¹czyæ?}
 {156}{}{Có¿, wobec tego - powodzenia.}
-{157}{Cas0157}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{158}{Cas0158}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{159}{Cas0159}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{160}{Cas0160}{Naw... you look like you got enough of a crowd already.}
+{157}{Cas0157}{Bez urazy i tak dalej, ale nie wygl¹dasz na kogoœ, kto móg³by przewodziæ wyprawie. Pustkowie ciê zabije.}
+{158}{Cas0158}{Nie, nie zadaje siê z ³owcami niewolników. Maj¹ paskudny nawyk sprzedania ciê, gdy zabraknie im kasy. Bez urazy.}
+{159}{Cas0159}{Nie. Wygl¹dasz na kogoœ, kto jedn¹ nog¹ stoi w grobie, a druga w piekle. Nie zamierzam jeszcze bardziej szargaæ swojej reputacji.}
+{160}{Cas0160}{Nie... Wygl¹da na to, ¿e i tak jest wokó³ ciebie t³oczno.}
 {161}{}{W porz¹dku. Trzymaj siê.}
 {162}{}{Zapomnij o tym pytaniu, dupku. Wracaj do swojego gównianego baru.}
 {163}{}{Wobec tego niewa¿ne. Twoja strata.}
-{164}{Cas0164}{Heh. You serious?}
+{164}{Cas0164}{Co? Powa¿nie?}
 {165}{}{Pewnie. Czemu nie? Wygl¹dasz na kogoœ, kto umie zadbaæ o siebie w walce.}
 {166}{}{Z drugiej strony, jest tam jednak zbyt niebezpiecznie, zw³aszcza dla kogoœ z chorym sercem. Tutaj bêdzie ci lepiej.}
-{167}{Cas0167}{All right, count me in.}
+{167}{Cas0167}{W porz¹dku. Wchodzê w to.}
 {168}{}{Do dzie³a.}
 {169}{}{}
 {170}{}{}
-{171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
-{172}{Cas0172}{Yeah?}
-{173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
+{171}{Cas0171}{Co jest? Znowu masz tê minê typu "muszê powiedzieæ ci coœ, co ci siê nie spodoba".}
+{172}{Cas0172}{Taak?}
+{173}{Cas0173}{Co jest? Znowu masz tê minê typu "to ja tu rz¹dzê".}
 {174}{}{Mam do ciebie kilka pytañ...}
 {175}{}{Wygl¹da na to, ¿e trochê oberwa³eœ. U¿yj stimpaków, by siê podleczyæ.}
 {176}{}{Cassidy, zaczekaj tutaj na mój powrót.}
@@ -82,60 +81,60 @@
 {180}{}{Musimy siê trochê rozsun¹æ.}
 {181}{}{ChodŸ, Cassidy, czas na nas.}
 {182}{}{Nic, niewa¿ne.}
-{261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
-{262}{Cas0262}{What's on your mind?}
+{261}{Cas0261}{Chcesz, bym wpakowa³ kulkê w ³eb Myrona, prawda? ¯aden problem. Powiedz tylko s³owo.}
+{262}{Cas0262}{Co masz na myœli?}
 {263}{}{Po co ci ten Myron?}
 {264}{}{Na jakiej broni siê znasz?}
 {265}{}{W³aœciwie, chcê ¿ebyœ jeszcze coœ zrobi³...}
 {266}{}{W³aœciwie, chcê ¿ebyœ coœ zrobi³...}
 {267}{}{Niewa¿ne. Ruszajmy.}
 {268}{}{Nie, nie rób krzywdy Myronowi. Przynajmniej nie dzisiaj. Dam znaæ, jeœli bêdzie trzeba.}
-{269}{Cas0269}{Well, shotguns and rifles, mostly... just personal preference. I ain't a bad shot with pistols, neither.}
+{269}{Cas0269}{Có¿ g³ównie strzelb i karabinków... Takie mam gusta. Z pistoletami te¿ sobie nieŸle radzê.}
 {270}{}{Coœ jeszcze?}
 {271}{}{Dobra. Mam inne pytanie...}
 {272}{}{W porz¹dku. Tylko sprawdzam.}
-{273}{Cas0273}{If you ever need to learn somebody some manners up close and personal, slip me some brass knuckles, and I can tapdance on their face with my fists.}
+{273}{Cas0273}{A jeœli kiedyœ bêdzie trzeba nauczyæ kogoœ dobrych manier, daj mi kastet, to dopasujê twarz delikwenta do moich piêœci.}
 {274}{}{Œwietnie. Coœ jeszcze?}
 {275}{}{Dobra. Mam inne pytanie...}
 {276}{}{W porz¹dku. Tylko sprawdzam.}
-{277}{Cas0277}{Uh, well... just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when... fact I'm alive and they ain't might tell you something.}
+{277}{Cas0277}{Có¿... Mówi¹c miedzy nami, nieŸle sobie radzê tak¿e z dzidami. Razem z kumplami polowaliœmy kiedyœ dzidami na radskorpiony, kiedy... Fakt, ¿e ja ¿yjê, a one nie, mo¿e o czymœ œwiadczyæ.}
 {278}{}{Nie ma nic z³ego w u¿ywaniu dzidy.}
 {279}{}{Dobra. Mam inne pytanie...}
 {280}{}{W porz¹dku. Tylko sprawdzam.}
-{281}{Cas0281}{Says you. Just don't be calling me no tribal, and we'll get along just fine.}
-{282}{Cas0282}{Don't want people mistaking me for ol' Bone-nose over there. Heh-heh. I ain't never seen no tribal do something as dumb as jam a bone in his nose.}
-{283}{Cas0283}{Of course there isn't. Spear's a fine weapon. Lots of tribal friends of mine use 'em.}
+{281}{Cas0281}{To ty tak mówisz. Tylko nie nazywaj mnie dzikusem, a jakoœ siê dogadamy.}
+{282}{Cas0282}{Nie chce, by mylili mnie z tym tutaj, z koœci¹ w nosie. He he. Jeszcze nie widzia³em dzikusa na tyle g³upiego, by wbija³ sobie koœæ w nos.}
+{283}{Cas0283}{Pewnie, ¿e nie. Dzida to dobra broñ. Wielu moich przyjació³ - dzikusów ich u¿ywa.}
 {284}{}{A wiesz, ¿e ja te¿ jestem "dzikusem"?}
 {285}{}{Hmmm. Mam inne pytanie...}
 {286}{}{W porz¹dku. Dziêki za raport.}
-{287}{Cas0287}{Aw, don't be playing with ol' Cassidy now. You ain't no tribal.}
+{287}{Cas0287}{Ej, nie ¿artuj sobie z Cassidym. Nie jesteœ dzikusem.}
 {288}{}{Tak, dok³adnie.}
 {289}{}{Wszystko jedno. Mam inne pytanie...}
 {290}{}{Niewa¿ne. Nie chcê tego teraz roztrz¹saæ.}
-{291}{Cas0291}{Uh, well... damn it all, you can have my apology right here and now. I didn't mean any offense.}
+{291}{Cas0291}{Ech, có¿... Niech to diabli... Mogê ciê zaraz przeprosiæ. Nie chcia³em ciê uraziæ.}
 {292}{}{Jasne, ¿e nie. Mam inne pytanie...}
 {293}{}{Zapomnij o tym. ChodŸmy.}
-{294}{Cas0294}{Well, now, before you go, I got a question for you. What are we doing out here? We seem to be running all over the place looking for something. Have we got some sort of plan?}
+{294}{Cas0294}{Zanim ruszymy, to ja zadam pytanie tobie. Co robimy? Biegamy dooko³a, najwyraŸniej czegoœ szukaj¹c. Mamy jakiœ plan?}
 {295}{}{Szukamy GECKa - Generatora Ekosystemu Cudownej Krainy. Jest potrzebny mojej wiosce, by mog³a siê wy¿ywiæ.}
 {296}{}{Pójdziemy do Krypty, a potem zaniesiemy GECK do wioski.}
 {297}{}{Mieszkañców mojej wioski porwano. Próbujê ustaliæ, co siê z nimi sta³o.}
-{298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
-{299}{Cas0299}{Huh. All right then, just checking.}
-{300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
+{298}{Cas0298}{Rozdaj¹ teraz Cudowne Krainy w zestawach? Rany, a Carroll nic o tym u siebie nie wspomina, prawda? No dobra, zapolujmy.}
+{299}{Cas0299}{Aha. No dobra, tylko sprawdza³em.}
+{300}{Cas0300}{Chêtnie podziurawiê paru porywaczy. Drobny lincz nikomu jeszcze nie zaszkodzi³... A przynajmniej nie mnie.}
 {301}{}{W porz¹dku. ChodŸmy.}
-{302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
-{303}{Cas0303}{Especially a woman's.}
+{302}{Cas0302}{Od tego, co on mówi, a¿ uszy wiêdn¹.}
+{303}{Cas0303}{Zw³aszcza kobiece.}
 {304}{}{Rany, Cassidy, nie wiedzia³am, ¿e zwracasz na to uwagê. A¿ mi cieplej na sercu.}
 {305}{}{No i? Co masz na myœli?}
 {306}{}{Wiesz, sam te¿ sporo przeklinasz, Cassidy.}
 {307}{}{A pewnie. Ruszajmy.}
-{308}{Cas0308}{Yeah, but when I do it, it's got style. He's just a little trash mouth.}
-{309}{Cas0309}{And I don't like the way he looks at you, neither.}
+{308}{Cas0308}{Owszem, ale ja to robiê z klas¹. On po prostu rzuca miêsem.}
+{309}{Cas0309}{Nie podoba mi siê te¿ sposób, w jaki na ciebie patrzy.}
 {310}{}{Rany, Cassidy, nie wiedzia³am, ¿e zwracasz na to uwagê. A¿ mi cieplej na sercu.}
 {311}{}{No i? Co masz na myœli?}
 {312}{}{A pewnie. Ruszajmy.}
-{313}{Cas0313}{Now hold on, I didn't mean it like that.}
-{314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
+{313}{Cas0313}{Zaraz, nie tak to mia³o zabrzmieæ.}
+{314}{Cas0314}{Mówiê tylko, ¿e ten ma³y, zarozumia³y dupek któregoœ dnia dostanie za swoje, kiedy bêdziemy tylko ja, on i dziura na pustyni.}
 {315}{}{Có¿ ¿ycie potrafi byæ surowym nauczycielem. Mam inne pytanie...}
 {316}{}{Có¿, i tak ugryzie. Nie przejmuj siê.}
 {317}{}{Spokojnie, Cassidy. Zostaw Myrona w spokoju.}
@@ -194,24 +193,24 @@
 {370}{}{Cassidy umiera na atak serca.}
 {371}{}{Uda³o ci siê przekonaæ Cassidy'ego ¿eby przy³¹czy³ siê do twojej dru¿yny.}
 {372}{}{Pozwól mi najpierw po³kn¹æ tabletkê na serce...}
-{1000}{Cas1000}{Well... all right, then. I'll wait here 'til you get back. }
-{1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
-{1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
-{1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}
-{1400}{Cas1400}{All right, I'll be watching your back. You need me, holler, and I'll come running.}
-{2000}{Cas2000}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
-{2400}{Cas2400}{All right, then.}
+{1000}{Cas1000}{No dobra. Zaczekam, a¿ wrócisz.}
+{1100}{Cas1100}{Jasne. Ale nie mogê obiecaæ, ¿e jej nie wyci¹gnê, jeœli wpadniemy w k³opoty.}
+{1200}{Cas1200}{Dobra, bêdê trzymaæ siê blisko. Pewnie spodziewasz siê k³opotów.}
+{1300}{Cas1300}{Dobra, bêdê siê trzyma³ dalej. Dziêki temu bêdê mia³ lepszy wgl¹d na sytuacjê.}
+{1400}{Cas1400}{Dobra, bêdê pilnowa³ ty³ów. Jeœli bêdê potrzebny, zawo³aj, a przybiegnê.}
+{2000}{Cas2000}{Bez urazy i tak dalej, ale nie wygl¹dasz na kogoœ, kto móg³by przewodziæ wyprawie. Pustkowie ciê zabije.}
+{2100}{Cas2100}{Nie, nie zadaje siê z ³owcami niewolników. Maj¹ paskudny nawyk sprzedania ciê, gdy zabraknie im kasy. Bez urazy.}
+{2200}{Cas2200}{Nie. Wygl¹dasz na kogoœ, kto jedn¹ nog¹ stoi w grobie, a druga w piekle. Nie zamierzam jeszcze bardziej szargaæ swojej reputacji.}
+{2300}{Cas2300}{Nie... Wygl¹da na to, ¿e i tak jest wokó³ ciebie t³oczno.}
+{2400}{Cas2400}{W takim razie w porz¹dku.}
 {2999}{}{W porz¹dku. Uwa¿aj na siebie.}
 {3000}{}{Idziemy.}
 {3100}{}{Wiêc zapomnij o tym, dupku.}
 {3200}{}{No to niewa¿ne. Twoja strata.}
-{4100}{Cas4100}{Okay, everything's stitched up. I'm good to go.}
-{4200}{Cas4200}{Okay, pretty much everything is patched up.}
-{4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
-{4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
+{4100}{Cas4100}{Dobra, wszystko pozszywane, mogê iœæ.}
+{4200}{Cas4200}{Dobra, wszystko pozalepiane.}
+{4300}{Cas4300}{To mi ca³kiem dobrze zrobi³o, ale przyda³oby siê jeszcze parê stimów.}
+{4400}{Cas4400}{Zu¿y³em to, co mia³em, ale nadal ze mn¹ kiepsko. Mogê chodziæ, ale jeœli masz jeszcze parê stimpaków, chêtnie z nich skorzystam.}
 {9999}{}{Mam do ciebie kilka pytañ...}
 {10001}{}{WeŸ trochê stymulantów i podlecz siê.}
 {10002}{}{Cassidy, zaczekaj tutaj na mój powrót.}
@@ -221,9 +220,9 @@
 {10006}{}{Musimy siê trochê rozsun¹æ.}
 {10007}{}{No to idziemy.}
 {10100}{}{ChodŸ, Cassidy, czas na nas.}
-{20000}{Cas20000}{All right, I'm listening.}
-{20001}{Cas20001}{My gear? What about it?}
-{20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
+{20000}{Cas20000}{W porz¹dku, s³ucham.}
+{20001}{Cas20001}{Mój sprzêt? Co z nim?}
+{20002}{Cas20002}{Nie ma sprawy. I tak jest za gor¹co na takie wdzianko. Spoci³em siê w nim jak dziwka w Nowym Reno.}
 {20003}{}{Zmieñmy szyk.}
 {20004}{}{Muszê z tob¹ porozmawiaæ o walce.}
 {20005}{}{Niewa¿ne. Zostañmy przy tym szyku.}
