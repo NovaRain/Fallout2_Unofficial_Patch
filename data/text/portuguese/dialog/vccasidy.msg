@@ -63,10 +63,10 @@
 {161}{}{All right. Well, good luck.}
 {162}{}{Forget I asked then, asshole. Go back to tending bar in this shitwater burg.}
 {163}{}{Nevermind then. Your loss.}
-{164}{Cas0164}{Sim. Você responder pergunta?}
+{164}{Cas0164}{Ei, tá falando sério?}
 {165}{}{Sure. Why the hell not? You look like you know how to take care of yourself in a fight.}
 {166}{}{On second thought, it's pretty dangerous out there, especially for someone with heart trouble. You'd be better off here.}
-{167}{Cas0167}{Está certo então.}
+{167}{Cas0167}{Tudo bem, conte comigo.}
 {168}{}{Let's hit it.}
 {169}{}{}
 {170}{}{}
@@ -83,7 +83,7 @@
 {181}{}{C'mon, Cassidy. Time to head out.}
 {182}{}{Nada, esquece.}
 {261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
-{262}{Cas0262}{Qual é o seu nome?}
+{262}{Cas0262}{O que tem em mente?}
 {263}{}{Why do you want to cap Myron?}
 {264}{}{What weapons are you skilled with?}
 {265}{}{Actually, I had something else I wanted you to do...}
@@ -120,7 +120,7 @@
 {296}{}{We're going to the Vault, then return the GECK to my village.}
 {297}{}{My village has been kidnapped. I'm trying to find out what happened to them.}
 {298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
-{299}{Cas0299}{, huh? Pois muito bem, }
+{299}{Cas0299}{Ok, certo, apenas verificando.}
 {300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
 {301}{}{All right. Let's go.}
 {302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
@@ -134,7 +134,7 @@
 {310}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}
 {311}{}{So? What are you saying?}
 {312}{}{Tell me about it. Let's get going.}
-{313}{Cas0313}{Não, eu não queria dizer isso!}
+{313}{Cas0313}{Espere um pouco, eu não quis dizer nada disso.}
 {314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
 {315}{}{Well, life can be a harsh teacher on its own. I had some other questions for you...}
 {316}{}{Well, he's bound to bite it any time now anyway. I wouldn't worry about it.}
