@@ -130,7 +130,7 @@
 {306}{}{You know, you cuss a lot, too, Cassidy.}
 {307}{}{Tell me about it. Let's get going.}
 {308}{Cas0308}{Yeah, but when I do it, it's got style. He's just a little trash mouth.}
-{309}{Cas0309}{Não há trabalho pra você aqui.}
+{309}{Cas0309}{E eu também não gosto do jeito que ele olha para você.}
 {310}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}
 {311}{}{So? What are you saying?}
 {312}{}{Tell me about it. Let's get going.}
@@ -203,13 +203,13 @@
 {2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
 {2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
 {2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
-{2400}{Cas2400}{Está certo então.}
+{2400}{Cas2400}{Tudo bem, então.}
 {2999}{}{All right. Take care, then.}
 {3000}{}{Vamos sair.}
 {3100}{}{Esqueça que eu disse, idiota.}
 {3200}{}{Never mind, then. Your loss.}
-{4100}{Cas4100}{Oh, não importa. Eu tenho que ir.}
-{4200}{Cas4200}{Oh, não importa. Eu tenho que ir.}
+{4100}{Cas4100}{Ok, está tudo remendado. Estou pronto para ir.}
+{4200}{Cas4200}{Ok, praticamente tudo está remendado.}
 {4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
 {4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
 {9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
@@ -221,8 +221,8 @@
 {10006}{}{Devemos espalhar um pouco.}
 {10007}{}{Vamos sair.}
 {10100}{}{C'mon, Cassidy. Time to head out.}
-{20000}{Cas20000}{Muito bem, estou saindo.}
-{20001}{Cas20001}{O que tem ele?}
+{20000}{Cas20000}{Tudo bem, estou ouvindo.}
+{20001}{Cas20001}{Meu equipamento? O que tem ele?}
 {20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
 {20003}{}{Let's try a different formation.}
 {20004}{}{Eu preciso falar com você sobre seu equipamento.}
