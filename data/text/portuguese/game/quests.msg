@@ -65,56 +65,56 @@
 {807}{}{Localize Pretty Boy Lloyd, recupere o dinheiro roubado e faça dele um... exemplo.}
 {808}{}{Visite Renesco the Rocketman e colete o tributo de $1000 do Sr. Salvatore.}
 {809}{}{Ajude a proteger uma transação secreta que acontece no deserto.}
-{810}{}{Find some endorphin blockers to make a cure for Jet.}
-{811}{}{Bust up Wright's still beneath the train station.}
-{812}{}{Assassinate Westin in NCR without making it look like a murder.}
-{813}{}{Murder Carlson in NCR.}
-{814}{}{Deliver ten Cat's Paw magazines to Miss Kitty.}
-{815}{}{Deliver a laser pistol to Eldridge.}
-{816}{}{Deliver Big Jesus' package to Ramirez at the Stables.}
-{817}{}{Collect tribute from the Corsican Brothers.}
-{818}{}{Assassinate Boss Salvatore for Big Jesus Mordino.}
+{810}{}{Encontre alguns bloqueadores de endorfina para fazer uma cura para jet.}
+{811}{}{Destrua a destilaria dos Wright debaixo da estação de trem.}
+{812}{}{Assassinar Westin na NCR sem fazer parecer um assassinato}
+{813}{}{Assassinar Carlson na NCR.}
+{814}{}{Entregue dez revistas "A Garra da Gata" para Miss Kitty.}
+{815}{}{Entregue uma pistola laser para Eldridge.}
+{816}{}{Entregue o pacote do Grande Jesus para Ramirez nos estábulos.}
+{817}{}{Colete o tributo dos Irmãos Corsican.}
+{818}{}{Assassine o líder dos Salvatore para o Grande Jesus.}
 {900}{}{}
 {1000}{}{}
-{1100}{}{Retrieve Parts/Gain Access to Vault 15.}
-{1101}{}{"Take care of" Officer Jack for Mira.}
-{1102}{}{Complete the brahmin drive.}
+{1100}{}{Recuperar peças/consiga acesso ao Vault 15.}
+{1101}{}{Mira pediu para você "cuidar" do policial Jack.}
+{1102}{}{Complete a viagem dos brahmins.}
 {1103}{}{Recupere os papéis do Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
-{1105}{}{Eliminate Mr. Bishop.}
-{1106}{}{Deliver Westin's holodisk to Lynette in Vault City.}
-{1107}{}{Get the map from the NCR Rangers, for Vortis the slaver.}
-{1108}{}{Free the slaves in the slave pen, for the Rangers.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
-{1110}{}{Kill the Hubologist for Merk.}
-{1111}{}{Stop the brahmin raids.}
-{1200}{}{Fix the Vault 13 computer.}
-{1201}{}{Talk to Goris.}
+{1104}{}{Teste o soro mutagênico em um supermutante. Procure em Broken Hills.}
+{1105}{}{Elimine o Sr. Bishop.}
+{1106}{}{Entregue o holodisco de Westin para Lynette em Vault City.}
+{1107}{}{Pegue o mapa dos NCR Rangers, para Vortis, o traficante de escravos.}
+{1108}{}{Liberte os escravos no curral de escravos, para os Rangers.}
+{1109}{}{Entregue o relatório de campo dos Hubologistas ao AHS-9 em San Francisco.}
+{1110}{}{Mate o Hubologista para Merk.}
+{1111}{}{Pare os ataques contra os brahmins.}
+{1200}{}{Conserte o computador da Vault 13.}
+{1201}{}{Fale com Goris.}
 {1300}{}{}
-{1400}{}{Find the excavator chip.}
-{1401}{}{Break up the bar brawl.}
-{1402}{}{Find out who cut the whore.}
-{1403}{}{Kill Frog Morton.}
-{1500}{}{The tanker needs fuel.}
-{1501}{}{The navigation computer needs the NavComp part to work.}
-{1502}{}{You need to use a FOB to access the navigation computer.}
-{1503}{}{Kill the Shi Emperor.}
-{1504}{}{The Hubologists need plans for a vertibird from Navarro.}
-{1505}{}{Steal the vertibird plans from the Shi.}
-{1506}{}{The Hubologists need fuel for their spaceship.}
-{1507}{}{Kill Badger so the tanker vagrants will embrace the Hub.}
-{1508}{}{Kill the AHS-9.}
-{1509}{}{The Shi need plans for a vertibird from Navarro.}
-{1510}{}{Steal the vertibird plans from the Hubologists.}
-{1511}{}{Find Badger's girlfriend in the hold below the ship.}
-{1512}{}{The Dragon wants you to take out Lo Pan - hand to hand.}
-{1513}{}{Lo Pan wants you to take out the Dragon - hand to hand, if possible.}
+{1400}{}{Encontre o chip da escavadeira.}
+{1401}{}{Bote um fim na briga do bar.}
+{1402}{}{Descubra quem cortou a prostituta.}
+{1403}{}{Mate o Sapo Morton.}
+{1500}{}{O petroleiro precisa de combustível.}
+{1501}{}{O computador de navegação precisa do circuito NavComp para funcionar.}
+{1502}{}{Você precisa usar um FOB para acessar o computador de navegação.}
+{1503}{}{Mate o Imperador Shi.}
+{1504}{}{Os Hubologistas precisam de planos para um vertibird de Navarro.}
+{1505}{}{Roube os planos de vertibird dos Shi.}
+{1506}{}{Os Hubologistas precisam de combustível para sua nave espacial.}
+{1507}{}{Mate bagder para que os vagabundos do petroleiro se unam ao Hub.}
+{1508}{}{Mate o AHS-9.}
+{1509}{}{Os Shi precisam de planos para um vertibird de Navarro.}
+{1510}{}{Roube os planos de vertibird dos Hubologistas.}
+{1511}{}{Encontre a namorada de Badger no porão do navio.}
+{1512}{}{O Dragão quer que você derrote Lo Pan - mano a mano.}
+{1513}{}{Lo Pan quer que você derrote o Dragão - mano a mano, se possível.}
 {1514}{}{Pegue o baço de Chip de volta.}
-{1515}{}{Get some hardened power armor from Crockett.}
-{1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
+{1515}{}{Obtenha uma Power Armor melhorada de Crockett.}
+{1516}{}{Obtenha os planos de vertibird para a Brotherhood of Steel.}
 {1600}{}{Lide com o deathclaw.}
-{1601}{}{Fix K-9.}
-{1602}{}{Retrieve the FOB from the base Commander.}
+{1601}{}{Repare K-9.}
+{1602}{}{Recupere o FOB do Comandante da base.}
 {1700}{}{}
 {1800}{}{}
 {1900}{}{}
@@ -130,7 +130,7 @@
 {2900}{}{}
 {3000}{}{}
 {3100}{}{}
-{3200}{}{Rescue Chrissy.}
-{3201}{}{Kill Darion.}
+{3200}{}{Resgate Crissy.}
+{3201}{}{Mate Darion.}
 {3202}{}{Complete o acordo com a NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3203}{}{Entregue o Holodisco do espião para as autoridades da NCR.}
