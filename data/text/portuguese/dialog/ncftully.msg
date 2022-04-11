@@ -260,50 +260,49 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
 Só os Mordinos sabem onde ficam os estabulos.}
 {792}{}{O que você estava dizendo sobre Redding?}
 {794}{}{Os Mordinos estão testando Jet em escravos, é? Interessante. Obrigado, padre.}
-{800}{}{I wuz talking 'bout the Salvatores? (Blinks, shrugs, then drinks.) Can't imagine what I was saying. Family's as silent as
- death. An' you don't wanna cross 'em, either... know why?}
-{803}{}{Don't really need to know why right now, Father. Can I ask you some other questions?}
+{800}{}{Eu fllava duss Salvatores? (Pisca, dá de ombros, depois bebe.) Eu nem imagino porque tava falano desses ai. A famia é
+ silenciosa como a morte. E você também vai querer s-se meter... sabe por quê?}
+{803}{}{Não preciso saber por que agora, padre. Posso te fazer outras perguntas?}
 {804}{}{Olha, talvez eu volte quando voce estiver sobrio.}
-{810}{}{(Lumbers on drunkenly.) Cuz they got weapons like fires from heaven, weapons no one's ever SEEN before in New Reno or
- nowhere. Shoot beams of light, cut a man in two, leave him twitching in the dust.}
-{811}{}{Shoot beams of light?}
-{812}{}{Shoot beams of light? You mean laser weapons?}
-{814}{}{Wow... maybe I should try and get a hold of one. Well, thanks for talking with me.}
-{820}{}{Thaz what I heard them call them... lay-sers... but ta me, those weapons are the devil's own, foul lightbringers, tools
- meant for nuthin but death!}
-{821}{}{Yes, of course, Father. Tools of the devil and all that. What do the other families think of these 'lightbringers?'}
-{823}{}{Tools of the devil, huh? Maybe I should try and get a hold of one. Well, thanks for talking with me.}
-{830}{}{One of them lightbringers can kill a dozen men... Other families useta fight with th' Salvatores, but now no one messes
- with 'em. Itz a peace of sorts... good as long azzit holds out, I s'pose.}
-{831}{}{Who's in charge of the Salvatores, Father?}
-{833}{}{I suppose. Well, thanks for talking with me, Father.}
-{840}{}{Louie... LOUIS... Salvatore runz th' show. (Drains bottle, coughs slightly.) Cripple. Needz an oxygen tank ta keep breathin'... his
- lungs are messed up. Stays in th' top floor of his establishment, never comes out.}
-{841}{}{Interesting. Can I ask you some other questions, Father?}
-{842}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
-{850}{}{That poor boy... Jet took him from his family, it did. That damnable stuff! Worst mind poison ever made...}
-{852}{}{Do you know where Richard got the Jet that killed him?}
+{810}{}{(Cambaleia.) Porrque eles têm armas como fogos nu ceu, armas que ningueem jamais VIU antes em Nuew Rino ou em otro
+ lugar. Atira raios de luuz, corta um homem em dois, o dexa se contorcendo na poeira.}
+{811}{}{Atira raios de luz?}
+{812}{}{Atira raios de luz? Voce quer dizer armas laser?}
+{814}{}{Uau... talvez eu devesse tentar conseguir uma. Bem, obrigado por falar comigo.}
+{820}{}{Isso é u que eu os ouvi que chamam... leei-zerss... mas, pra mi, essas armas são do próprio DIABO, imundas portadoras
+ de luz, f-ferrametas deestinadas pra nada além da morte!}
+{821}{}{Sim, claro, padre, ferramentas do diabo e tudo mais. O que as outras famílias pensam desses 'portadores de luz?'}
+{823}{}{Ferramentas do diabo, é? Talvez eu devesse tentar conseguir uma. Bem, obrigado por falar comigo.}
+{830}{}{Uma dezass portadoras da luiz pode matar uma duzia de homens... Outras famílias costumavam brigar cus Salvatores,
+ mas agora ninguem mais mexi cus homi. É uma espécie de paz... bom enquanto da praguentar, acho.}
+{831}{}{Quem está no comando dos Salvatores, padre?}
+{833}{}{Suponho que sim. Bem, obrigado por falar comigo, padre.}
+{840}{}{Louie... LOUIS... Salvatore comanda o s-show. (Esvazia a garrafa, tosse levemente.) Alejado. Precisa di um tanque de oxisscigenio
+ pra continuar respirando... seus pulmoes tao uma draga. Fica no ultimo andar do seu estabilec-cimento, nunca sai.}
+{841}{}{Interessante. Posso fazer mais algumas perguntas, padre?}
+{842}{}{Hmmmm. Tanque de oxigênio, é? Interessante. Bem, obrigado por falar comigo, padre.}
+{850}{}{Aquele probri garoto... Jet o tirou da sua família, foi o gue aconteceu. Aquela coisa maldita! Pior veneno mental já feito...}
+{852}{}{Você sabe onde Richard conseguiu o jet que o matou?}
 {853}{}{Eu tenho mais algumas perguntas...}
-{854}{}{I see. Thanks for talking with me, Father.}
-{860}{}{He coulda gotten it from anyone in New Reno! There's a pharmacy jest cross th' street run by a drug dealer, and if
- he's not selling, stop an' ask anyone on th' street! Damn Jet!}
-{862}{}{The pharmacy across the street? I'll check it out. Thanks for talking with me, Father.}
+{854}{}{Entendo. Obrigado por falar comigo, padre.}
+{860}{}{Ele proderia ter conseguido com qualquer pessoa em New Reno! Tem uma farmacia atravesssand-do a rua comandada por um traficante, e se ele num tive vendendo, so pergunta pra qualque que tive na rua! Maldito jet!}
+{862}{}{A farmácia do outro lado da rua? Vou ver. Obrigado por falar comigo, padre.}
 {957}{}{Tudo bem, es-escuta...}
-{958}{}{::Takes a drink::}
-{959}{}{::Keeps drinking, drains bottle::}
-{960}{}{...by the power divested in me, I divorce ye.}
-{961}{}{You may now kick the bride. Groom. Watever.}
-{962}{}{::Makes a sweeping motion::}
+{958}{}{::Toma uma trago::}
+{959}{}{::Continua bebendo, esvazia a garrafa::}
+{960}{}{...pelo poder que me fooi c-concedido, eu te divorcio.}
+{961}{}{Agora pode chutar a noiva. Opora, tanto faiz.}
+{962}{}{::Faz um movimento de varrer::}
 {963}{}{Ughhhhh}
-{964}{}{Zzzzsnorezzzzz}
-{967}{}{Zzzzsnorezzzzz}
-{968}{}{Oh, stop Missus Wright, stop... sznnzzzz}
-{969}{}{Zzzstop, Missuz Wright, ah'm a man of th' chursh}
-{970}{}{Wickednezz... zzz... sin... zzzz... so musch fun}
-{971}{}{Of coursh ah've been zzzober}
-{1000}{}{Oh bless you my... *BLEEECHH*}
-{1001}{}{Drank too damn much of that blood of... OH CHRIST, *HUUUURRRRRRLLLL*.}
-{1002}{}{Oh God, *ELCHHHH*}
-{1003}{}{Oh Jesus, Mary, and Joseph, I'm never drinking that much again.}
-{1004}{}{I better get up early and go to confession.}
-{1005}{}{Maybe I'll just lay down for a little while.}
+{964}{}{Zzzzroncandozzzzz}
+{967}{}{Zzzzroncandozzzzz}
+{968}{}{Oh, pare Sra. Wrriight, pare... sznnzzzz}
+{969}{}{Zzzpare, Sinhora Wright, sou um homem da igreja}
+{970}{}{Malditooozz... zzz... pecado... zzzz... por que tao divertido}
+{971}{}{Claro que to sssobrio}
+{1000}{}{Oh, louvado seja... *AAAHH*}
+{1001}{}{Uhhh bebi dimais daquele sangue de... OH CRISTO, *HUUUURRRRRRRLLLL*.}
+{1002}{}{Oh Deus, *ELCHHHH*}
+{1003}{}{Oh Jesus, Maria e Jose, nunca mais vou beber tanto.}
+{1004}{}{É melhor eu acordar cedo para ir confessar.}
+{1005}{}{Acho que vou me deitar mais um pouco.}
