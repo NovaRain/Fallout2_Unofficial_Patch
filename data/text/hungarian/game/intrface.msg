@@ -1,5 +1,5 @@
-{100}{}{LOPÓZÁS}
-{101}{}{SZINTLÉPÉS}
-{102}{}{FÜGG?SÉG}
-{103}{}{MÉRGEZÉS}
-{104}{}{SUGÁRFERT?ZÉS}
+{100}{}{LOPÃ“ZÃS}
+{101}{}{SZINTLÃ‰PÃ‰S}
+{102}{}{FÃœGG?SÃ‰G}
+{103}{}{MÃ‰RGEZÃ‰S}
+{104}{}{SUGÃRFERT?ZÃ‰S}

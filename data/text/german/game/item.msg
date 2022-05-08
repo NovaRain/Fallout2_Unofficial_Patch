@@ -1,15 +1,15 @@
-{1}{}{Du erhältst %d %s.}
+{1}{}{Du erhÃ¤ltst %d %s.}
 {2}{}{Du verlierst %d %s.}
 {3}{}{Dir geht es besser.}
-{4}{}{Du erleidest einen tödlichen Herzanfall aufgrund einer Drogenüberdosis.}
+{4}{}{Du erleidest einen tÃ¶dlichen Herzanfall aufgrund einer DrogenÃ¼berdosis.}
 {5}{}{%s hat keine Ladung mehr.}
 {6}{}{%s ist eingeschaltet.}
 {7}{}{%s ist ausgeschaltet.}
-{8}{}{Du tastest deinen Körper mit dem Geigerzähler ab. Als Rem-Wert erhältst du: %d}
+{8}{}{Du tastest deinen KÃ¶rper mit dem GeigerzÃ¤hler ab. Als Rem-Wert erhÃ¤ltst du: %d}
 {9}{}{Dieses Objekt kann nur von der Symbolleiste aus eingesetzt werden.}
 {10}{}{Nichts passiert.}
 {50}{}{Das sah nach garnicht so viel aus.}
-{500}{}{Es gibt nicht genügend Licht, um dieses Objekt nachzuladen.}
+{500}{}{Es gibt nicht genÃ¼gend Licht, um dieses Objekt nachzuladen.}
 {600}{}{%s erliegt den Nebenwirkungen von Drogen.}
 {800}{Weapon Damage}{Leicht}
 {801}{}{Mittel}

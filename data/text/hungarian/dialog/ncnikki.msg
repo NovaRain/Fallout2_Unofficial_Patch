@@ -1,34 +1,34 @@
-{100}{}{Ez itt Édes Nikki.}
-{125}{}{? a kaszinó egyik kártyaosztója.}
-{150}{}{Ez itt Édes Nikki.}
-{160}{}{Ez itt Édes Nikki. Int, hogy menj közelebb, és játssz.}
-{170}{}{? a kaszinó egyik kártyaosztója.}
-{180}{}{? a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
-{200}{}{::Éljenez::}
-{210}{}{Helló, [MM]. Van valami, amiben... segíthetnék?}
-{220}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{230}{}{Hé, izomagy! Nem akarsz egy kis pénzt kockára tenni?}
-{250}{}{Helló, mozisztár! Nem akarsz itthagyni egy kis pénzt?}
-{270}{}{Szia, édesem. El akarsz költeni egy kis pénzt?}
-{290}{}{Asszem, elment az eszed, hogy idejöttél, de... tedd csak meg a tétedet. A legkisebb tét 5 dolcsi. Tedd meg a tétedet...}
-{310}{}{Ööö, jól van, uram. Jöjjön máskor is.}
-{320}{}{Jól van, uram. Jöjjön vissza minél hamarabb!}
-{330}{}{Sajnálom, uram. Legközelebb biztos nagyobb szerencséje lesz.}
-{340}{}{Nyert! Gratulálok, uram!}
-{350}{}{Nyert! Megduplázta a pénzét! Gratulálok, uram!}
-{360}{}{Nyert! Ön megtriplázta a pénzét! A szerencse beköltözött a házba! Gratulálok, uram!}
-{370}{}{Most akkor mi lesz? Az id?met akarod vesztegetni, vagy megteszel valami tétet?}
-{380}{}{Igen, azt hallottam, hogy MEGHALT. Ezt akartad hallani, te gyilkos?! He?! Most akkor játszol vagy csesztetsz még egy kicsit?}
-{390}{}{Ne vegyél rá mérget, kedvesem! Persze ha olyan hülye vagy, mint amilyen ronda, nyugodtan törd csak a fejed ilyesmin. Azóta nem láttam azt a csavargót, hogy átejtette Mr. Salvatorét.}
-{400}{}{Kedvesem, már mondtam, hogy nem tudom, hova t?nt. Nézd, nekem itt DOLGOM van, szóval menj és csináld azt, ami...}
-{410}{}{Ha egy ujjal hozzámérsz, Mr. Salvatore elevenen fog megnyúzatni.}
-{420}{}{Mir?l beszélsz?}
-{430}{}{Figyelj, AMINT AZT MÁR MONDTAM, nem tudom, hol van. Mintha *rémlene* viszont, hogy volt egy szobája a Desperadóban. Esetleg ott utána nézhetsz. Most pedig, ha nem haragszol, dolgom van.}
-{440}{}{Nézd, én csak nemrég dolgozom itt, és nem tudok minden besétáló kártyazsongl?rt meg ruppótlan csalót felismerni. A hozzád hasonló szar alakokhoz viszont elég jó a szemem.}
-{450}{}{Hát persze, beszedsz egy rakás Jetet, és rögtön mindenre gyanakodni kezdesz, mi?}
-{460}{}{Na, húzz innen a francba! Nincs mit mondanom neked!}
-{470}{}{Fel van vágva a nyelved, mint egy kígyónak. Lehet, hogy tudom, hol van Lloyd, lehet, hogy nem. Van 500 dollárod a nemes célra?}
-{480}{}{LEHET, hogy Lloyd még mindig a zsebében tartja a részemet, és valszeg húzódozni fog, hogy odaadja. Ezért NEM LEHETETLEN, hogy 500 dolcsiért elmondhatnám, hol húzta meg magát.}
-{490}{}{(Zsebre vágja a pénzt.) Nézz be a Desperado alagsorában lév? kazánházba! Az a pondró mindig oda menekül, ha forrósodni kezd a lába alatt a talaj.}
-{500}{}{Lennél szíves lekopni? Ha az emberek így látnak együtt minket, rögtön beindul a szóbeszéd. Érthet??}
-{510}{}{Akkor menj a büdös francba! Bel?lem soha többet ki nem húzol semmit!}
+{100}{}{Ez itt Ã‰des Nikki.}
+{125}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja.}
+{150}{}{Ez itt Ã‰des Nikki.}
+{160}{}{Ez itt Ã‰des Nikki. Int, hogy menj kÃ¶zelebb, Ã©s jÃ¡tssz.}
+{170}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja.}
+{180}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja. Int, hogy menj kÃ¶zelebb, Ã©s jÃ¡tssz.}
+{200}{}{::Ã‰ljenez::}
+{210}{}{HellÃ³, [MM]. Van valami, amiben... segÃ­thetnÃ©k?}
+{220}{}{Ez itt mÃ¡r Ã©ppen elÃ©ggÃ© kockÃ¡ra tette az Ã©letÃ©t.}
+{230}{}{HÃ©, izomagy! Nem akarsz egy kis pÃ©nzt kockÃ¡ra tenni?}
+{250}{}{HellÃ³, mozisztÃ¡r! Nem akarsz itthagyni egy kis pÃ©nzt?}
+{270}{}{Szia, Ã©desem. El akarsz kÃ¶lteni egy kis pÃ©nzt?}
+{290}{}{Asszem, elment az eszed, hogy idejÃ¶ttÃ©l, de... tedd csak meg a tÃ©tedet. A legkisebb tÃ©t 5 dolcsi. Tedd meg a tÃ©tedet...}
+{310}{}{Ã–Ã¶Ã¶, jÃ³l van, uram. JÃ¶jjÃ¶n mÃ¡skor is.}
+{320}{}{JÃ³l van, uram. JÃ¶jjÃ¶n vissza minÃ©l hamarabb!}
+{330}{}{SajnÃ¡lom, uram. LegkÃ¶zelebb biztos nagyobb szerencsÃ©je lesz.}
+{340}{}{Nyert! GratulÃ¡lok, uram!}
+{350}{}{Nyert! MegduplÃ¡zta a pÃ©nzÃ©t! GratulÃ¡lok, uram!}
+{360}{}{Nyert! Ã–n megtriplÃ¡zta a pÃ©nzÃ©t! A szerencse bekÃ¶ltÃ¶zÃ¶tt a hÃ¡zba! GratulÃ¡lok, uram!}
+{370}{}{Most akkor mi lesz? Az id?met akarod vesztegetni, vagy megteszel valami tÃ©tet?}
+{380}{}{Igen, azt hallottam, hogy MEGHALT. Ezt akartad hallani, te gyilkos?! He?! Most akkor jÃ¡tszol vagy csesztetsz mÃ©g egy kicsit?}
+{390}{}{Ne vegyÃ©l rÃ¡ mÃ©rget, kedvesem! Persze ha olyan hÃ¼lye vagy, mint amilyen ronda, nyugodtan tÃ¶rd csak a fejed ilyesmin. AzÃ³ta nem lÃ¡ttam azt a csavargÃ³t, hogy Ã¡tejtette Mr. SalvatorÃ©t.}
+{400}{}{Kedvesem, mÃ¡r mondtam, hogy nem tudom, hova t?nt. NÃ©zd, nekem itt DOLGOM van, szÃ³val menj Ã©s csinÃ¡ld azt, ami...}
+{410}{}{Ha egy ujjal hozzÃ¡mÃ©rsz, Mr. Salvatore elevenen fog megnyÃºzatni.}
+{420}{}{Mir?l beszÃ©lsz?}
+{430}{}{Figyelj, AMINT AZT MÃR MONDTAM, nem tudom, hol van. Mintha *rÃ©mlene* viszont, hogy volt egy szobÃ¡ja a DesperadÃ³ban. Esetleg ott utÃ¡na nÃ©zhetsz. Most pedig, ha nem haragszol, dolgom van.}
+{440}{}{NÃ©zd, Ã©n csak nemrÃ©g dolgozom itt, Ã©s nem tudok minden besÃ©tÃ¡lÃ³ kÃ¡rtyazsongl?rt meg ruppÃ³tlan csalÃ³t felismerni. A hozzÃ¡d hasonlÃ³ szar alakokhoz viszont elÃ©g jÃ³ a szemem.}
+{450}{}{HÃ¡t persze, beszedsz egy rakÃ¡s Jetet, Ã©s rÃ¶gtÃ¶n mindenre gyanakodni kezdesz, mi?}
+{460}{}{Na, hÃºzz innen a francba! Nincs mit mondanom neked!}
+{470}{}{Fel van vÃ¡gva a nyelved, mint egy kÃ­gyÃ³nak. Lehet, hogy tudom, hol van Lloyd, lehet, hogy nem. Van 500 dollÃ¡rod a nemes cÃ©lra?}
+{480}{}{LEHET, hogy Lloyd mÃ©g mindig a zsebÃ©ben tartja a rÃ©szemet, Ã©s valszeg hÃºzÃ³dozni fog, hogy odaadja. EzÃ©rt NEM LEHETETLEN, hogy 500 dolcsiÃ©rt elmondhatnÃ¡m, hol hÃºzta meg magÃ¡t.}
+{490}{}{(Zsebre vÃ¡gja a pÃ©nzt.) NÃ©zz be a Desperado alagsorÃ¡ban lÃ©v? kazÃ¡nhÃ¡zba! Az a pondrÃ³ mindig oda menekÃ¼l, ha forrÃ³sodni kezd a lÃ¡ba alatt a talaj.}
+{500}{}{LennÃ©l szÃ­ves lekopni? Ha az emberek Ã­gy lÃ¡tnak egyÃ¼tt minket, rÃ¶gtÃ¶n beindul a szÃ³beszÃ©d. Ã‰rthet??}
+{510}{}{Akkor menj a bÃ¼dÃ¶s francba! Bel?lem soha tÃ¶bbet ki nem hÃºzol semmit!}

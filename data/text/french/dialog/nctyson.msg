@@ -1,10 +1,10 @@
 {100}{}{Tu vois un boxeur.}
-{101}{}{Tu vois Mike « le Mastiquateur ».}
-{150}{}{Il a des bras aussi épais que des troncs d'arbre.}
+{101}{}{Tu vois Mike Â« le Mastiquateur Â».}
+{150}{}{Il a des bras aussi Ã©pais que des troncs d'arbre.}
 {151}{}{Chacun de ses bras est si gros qu'il semble pouvoir soulever un tank.}
-{152}{}{Quand il bouge, on croirait voir un océan de muscles.}
-{153}{}{Il regarde ton oreille avec appétit.}
-{154}{}{Son visage ressemble à un morceau de viande crue.}
+{152}{}{Quand il bouge, on croirait voir un ocÃ©an de muscles.}
+{153}{}{Il regarde ton oreille avec appÃ©tit.}
+{154}{}{Son visage ressemble Ã  un morceau de viande crue.}
 {158}{}{Hurgghhh}
 {159}{}{<Gunhrrhh>}
 {160}{}{Mike smash.}
@@ -23,11 +23,11 @@
 {173}{}{<Snrggg>}
 {174}{}{Me hate Robbin' Givens.}
 {175}{}{<Grrrrrgrrrrgrrr...> <Grrr...> <Grrr...> <Grr !> <Grr !> <Grrr ?>}
-{176}{}{Quoi « pourcentage » vouloir dire ?}
+{176}{}{Quoi Â« pourcentage Â» vouloir dire ?}
 {200}{}{::Mike tremble lorsque tu t'approches::}
-{201}{}{::Mike gémit lorsque tu t'approches::}
+{201}{}{::Mike gÃ©mit lorsque tu t'approches::}
 {202}{}{::Mike fait signe qu'il se rend lorsque tu t'approches::}
 {203}{}{You cute.}
 {204}{}{Me like your ears.}
-{205}{}{Assez parlé. Au lit.}
+{205}{}{Assez parlÃ©. Au lit.}
 {206}{}{Robin ? C'est toi ?}

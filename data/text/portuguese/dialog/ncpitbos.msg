@@ -4,33 +4,33 @@
 {200}{}{Uh... you'll need to remove that armor.}
 {201}{}{Uh, sir... or ma'am... you'll need to remove that armor.}
 {202}{}{Sir... ma'am... you can't wear that in the casino.}
-{205}{}{Uh, por que você está se esgueirando, senhor?}
-{206}{}{Uh, você está disfarçado, senhor?}
-{210}{}{Uh, por que você está se esgueirando, senhora?}
-{211}{}{Uh, você está disfarçada, senhora?}
+{205}{}{Uh, por que vocÃª estÃ¡ se esgueirando, senhor?}
+{206}{}{Uh, vocÃª estÃ¡ disfarÃ§ado, senhor?}
+{210}{}{Uh, por que vocÃª estÃ¡ se esgueirando, senhora?}
+{211}{}{Uh, vocÃª estÃ¡ disfarÃ§ada, senhora?}
 {215}{}{Good evening, }
 {216}{}{Evening, }
 {220}{}{Good evening, }
 {221}{}{Evening, }
 {225}{}{Good day, }
 {230}{}{Good day, }
-{235}{}{Amigo, você está entrando no cassino errado.}
-{236}{}{É melhor você sair. Agora.}
-{237}{}{Este não é um lugar para brincar com sua vida. É melhor ir embora.}
-{238}{}{Ô Biscate, entrou no cassino errado.}
-{245}{}{Senhor, sinto muito, você terá que guardar essa arma.}
-{250}{}{Senhora, sinto muito, você terá que guardar essa arma.}
-{255}{}{Querida, desculpe, você não pode levar armas para o cassino. Heh-heh... você já é mortífera o suficiente.}
-{260}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
-{265}{}{Tribal, é melhor você guardar essa arma AGORA.}
-{270}{}{Tribal, é melhor você parar com essa merda AGORA.}
-{275}{}{Ei, ei... Myron! Não te vejo fora do laboratório há muito tempo.}
-{276}{}{Você veio aqui para provar algumas das novas mercadorias, Myron?}
+{235}{}{Amigo, vocÃª estÃ¡ entrando no cassino errado.}
+{236}{}{Ã‰ melhor vocÃª sair. Agora.}
+{237}{}{Este nÃ£o Ã© um lugar para brincar com sua vida. Ã‰ melhor ir embora.}
+{238}{}{Ã” Biscate, entrou no cassino errado.}
+{245}{}{Senhor, sinto muito, vocÃª terÃ¡ que guardar essa arma.}
+{250}{}{Senhora, sinto muito, vocÃª terÃ¡ que guardar essa arma.}
+{255}{}{Querida, desculpe, vocÃª nÃ£o pode levar armas para o cassino. Heh-heh... vocÃª jÃ¡ Ã© mortÃ­fera o suficiente.}
+{260}{}{Querida, com um corpo desse, vocÃª nÃ£o poderÃ¡ se esgueirar para lugar nenhum.}
+{265}{}{Tribal, Ã© melhor vocÃª guardar essa arma AGORA.}
+{270}{}{Tribal, Ã© melhor vocÃª parar com essa merda AGORA.}
+{275}{}{Ei, ei... Myron! NÃ£o te vejo fora do laboratÃ³rio hÃ¡ muito tempo.}
+{276}{}{VocÃª veio aqui para provar algumas das novas mercadorias, Myron?}
 {277}{}{Ei! Myron, chega mais.}
 {280}{}{Shoot. What d'you want to know?}
 {281}{}{Fooooooo foo foo fooooo}
 {282}{}{Cai fora}
-{283}{}{Quem é você?}
+{283}{}{Quem Ã© vocÃª?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
 {286}{}{You know somebody named Pretty Boy Lloyd?}
@@ -41,14 +41,14 @@
 {291}{}{Nada, obrigado. Desculpe te incomodar.}
 {292}{}{Just checking on things. Carry on.}
 {295}{}{Nada de droides.}
-{296}{}{Nós não servimos droides.}
-{297}{}{Sem droides. Ele espera lá fora.}
+{296}{}{NÃ³s nÃ£o servimos droides.}
+{297}{}{Sem droides. Ele espera lÃ¡ fora.}
 {300}{}{Uh, you better run along now, sir.}
 {301}{}{Uh, you better run along now, ma'am.}
 {302}{}{Get outta here, retard.}
 {303}{}{Mom says I was speshal}
 {304}{}{Cai fora}
-{305}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
+{305}{}{NÃ£o posso conversar enquanto estiver em serviÃ§o, mas me alegro que vocÃª deu um chute no cu da Enclave.}
 {306}{}{Ei, }
 {315}{}{Yeah, yer Mom said I was special, too. Now take a hike... maybe she's along Virgin street somewhere.}
 {316}{}{Oh goodie! Bye bye}
@@ -60,17 +60,17 @@
 {329}{}{Nada, obrigado. Desculpe te incomodar.}
 {335}{}{This is [CN]. Need anything, just ask.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
-{337}{}{Quem é você?}
+{337}{}{Quem Ã© vocÃª?}
 {338}{}{Can you tell me a little about the casino?}
 {339}{}{Nada, obrigado. Desculpe te incomodar.}
 {340}{}{What can I do for you, pal?}
 {341}{}{What can I do for you, hon?}
 {342}{}{Fooooooo foo foo fooooo}
 {343}{}{Cai fora}
-{344}{}{Quem é você?}
+{344}{}{Quem Ã© vocÃª?}
 {345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
 {346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
-{347}{}{Quem é você?}
+{347}{}{Quem Ã© vocÃª?}
 {348}{}{Who owns this casino?}
 {349}{}{Okay, thanks. Sorry to bother you.}
 {350}{}{Thanks. Do you need a dancer for the night? I'm open for a limited engagement.}
@@ -79,14 +79,14 @@
 {353}{}{Just checking on things. Carry on.}
 {355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
-{357}{}{Quem é você?}
+{357}{}{Quem Ã© vocÃª?}
 {358}{}{Can you tell me a little about the casino?}
 {359}{}{Eu vejo. Obrigado pelo seu tempo.}
 {360}{}{Hey, look who's here! Hey, }
 {361}{}{. Welcome to [CN]. Love your films.}
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Cai fora}
-{364}{}{Quem é você?}
+{364}{}{Quem Ã© vocÃª?}
 {365}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine
  there for the past few years, waiting for the big jackpot. His life fortune
  must be sitting in that thing, but it won't give him a single chip.}
@@ -94,31 +94,31 @@
  Sure was pissed about you winning his fortune. I'd be careful around him.}
 {367}{}{Is the machine rigged?}
 {368}{}{Eu tenho mais algumas perguntas...}
-{369}{}{Obrigado pela informação.}
+{369}{}{Obrigado pela informaÃ§Ã£o.}
 {370}{}{Thanks, I'm flattered. Just stopped by to say hello.}
 {375}{}{Nope, it's just stubborn... just like him. It could probably use a little repair work, but we ain't got no slot
  mechanics that can fix that damn thing.}
 {376}{}{Eu tenho mais algumas perguntas...}
-{377}{}{Interessante. Obrigado pela informação.}
+{377}{}{Interessante. Obrigado pela informaÃ§Ã£o.}
 {385}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed.
  Don't know where he is now, but he used to have a room at the Desperado.}
 {386}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed
  a few days ago and nobody saw him leave.}
 {387}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
 {388}{}{Eu tenho mais algumas perguntas...}
-{389}{}{Obrigado pela informação.}
+{389}{}{Obrigado pela informaÃ§Ã£o.}
 {395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
-{396}{}{Sem problemas. Só queria conhecê-la. Só tenho algumas perguntas...}
-{397}{}{Obrigado pela informação.}
+{396}{}{Sem problemas. SÃ³ queria conhecÃª-la. SÃ³ tenho algumas perguntas...}
+{397}{}{Obrigado pela informaÃ§Ã£o.}
 {405}{}{Her name WAS Nikki. She used to work here but she got aced... not too long ago.}
-{406}{}{Hmmm. Você se importa se eu te fizer outras perguntas...?}
-{407}{}{Interessante. Obrigado pela informação.}
+{406}{}{Hmmm. VocÃª se importa se eu te fizer outras perguntas...?}
+{407}{}{Interessante. Obrigado pela informaÃ§Ã£o.}
 {415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
-{416}{}{Você se importa se eu te fizer outras perguntas...}
-{417}{}{Interessante. Obrigado pela informação.}
+{416}{}{VocÃª se importa se eu te fizer outras perguntas...}
+{417}{}{Interessante. Obrigado pela informaÃ§Ã£o.}
 {425}{}{Sure, be good for business. Dressing room's in the back...}
 {426}{}{Excellent. I'll be on stage in a few minutes...}
-{427}{}{Não agora. Eu tenho outras perguntas...}
+{427}{}{NÃ£o agora. Eu tenho outras perguntas...}
 {428}{}{Not right now, but I'll be back.}
 {435}{}{No, we're still recovering from your last gig. You might want to check some of the other casinos.}
 {436}{}{Que bom, obrigado. Olha, eu tenho outras perguntas...}

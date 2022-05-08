@@ -1,20 +1,20 @@
-{100}{}{Widzisz osobê trzymaj¹c¹ potê¿n¹ broñ.}
-{101}{}{Widzisz cz³onka korpusu handlu i ochrony Broken Hills.}
-{102}{}{Widzisz osobê trzymaj¹c¹ potê¿na broñ i pokryt¹ kurzem ze szlaku.}
-{103}{}{Mówiê ci, jeszcze jedna grupa bandytów, a na nastêpn¹ wyprawê zabieram dynamit.}
-{104}{}{Przyda³aby siê pomoc przy karawanach.}
-{105}{}{Rany... Praca w Patrolu Jednoœci staje siê naprawdê nudna.}
-{106}{}{No i wtedy widzê, jak ten dzikus podchodzi i... zreszt¹ niewa¿ne.}
-{107}{}{Jeszcze jedna aluzja do "S³onecznego Patrolu" i chyba kogoœ zastrzelê.}
-{108}{}{Przysiêgam, ¿e jeœli bandyci stan¹ siê gorsi, to nie do¿yjemy nastêpnej jesieni.}
-{109}{}{Z jakiej zapad³ej dziury jesteœ?}
-{110}{}{Kupisz ciê¿ko pracuj¹cemu cz³owiekowi drinka?}
-{111}{}{Po tej pracy przy karawanach nie mam si³y na rozmowê.}
-{112}{}{Jak czegoœ potrzebujesz, to idŸ do zaopatrzeniowca - nazywa siê Bill.}
-{113}{}{Myœleliœmy, ¿e po tylu latach prób ucywilizowania tych pustkowi bêdziemy nieco bli¿ej naszego celu.}
-{114}{}{Mam doœæ tych ci¹g³ych przepychanek miedzy ludŸmi, a mutantami. Czy nie powinniœmy dawaæ przyk³ad?}
-{115}{}{Czego chcesz? Nie widzisz, ¿e odpoczywam?}
+{100}{}{Widzisz osobÄ™ trzymajÄ…cÄ… potÄ™Å¼nÄ… broÅ„.}
+{101}{}{Widzisz czÅ‚onka korpusu handlu i ochrony Broken Hills.}
+{102}{}{Widzisz osobÄ™ trzymajÄ…cÄ… potÄ™Å¼na broÅ„ i pokrytÄ… kurzem ze szlaku.}
+{103}{}{MÃ³wiÄ™ ci, jeszcze jedna grupa bandytÃ³w, a na nastÄ™pnÄ… wyprawÄ™ zabieram dynamit.}
+{104}{}{PrzydaÅ‚aby siÄ™ pomoc przy karawanach.}
+{105}{}{Rany... Praca w Patrolu JednoÅ›ci staje siÄ™ naprawdÄ™ nudna.}
+{106}{}{No i wtedy widzÄ™, jak ten dzikus podchodzi i... zresztÄ… niewaÅ¼ne.}
+{107}{}{Jeszcze jedna aluzja do "SÅ‚onecznego Patrolu" i chyba kogoÅ› zastrzelÄ™.}
+{108}{}{PrzysiÄ™gam, Å¼e jeÅ›li bandyci stanÄ… siÄ™ gorsi, to nie doÅ¼yjemy nastÄ™pnej jesieni.}
+{109}{}{Z jakiej zapadÅ‚ej dziury jesteÅ›?}
+{110}{}{Kupisz ciÄ™Å¼ko pracujÄ…cemu czÅ‚owiekowi drinka?}
+{111}{}{Po tej pracy przy karawanach nie mam siÅ‚y na rozmowÄ™.}
+{112}{}{Jak czegoÅ› potrzebujesz, to idÅº do zaopatrzeniowca - nazywa siÄ™ Bill.}
+{113}{}{MyÅ›leliÅ›my, Å¼e po tylu latach prÃ³b ucywilizowania tych pustkowi bÄ™dziemy nieco bliÅ¼ej naszego celu.}
+{114}{}{Mam doÅ›Ä‡ tych ciÄ…gÅ‚ych przepychanek miedzy ludÅºmi, a mutantami. Czy nie powinniÅ›my dawaÄ‡ przykÅ‚ad?}
+{115}{}{Czego chcesz? Nie widzisz, Å¼e odpoczywam?}
 {116}{}{Kiedy wyrusza kolejna karawana?}
-{117}{}{Patrole, patrole, patrole... ci¹gle tylko to.}
-{118}{}{Chyba siê zdrzemnê.}
-{119}{}{Zas³ugujê na podwy¿kê. To przecie¿ niebezpieczna s³u¿ba.}
+{117}{}{Patrole, patrole, patrole... ciÄ…gle tylko to.}
+{118}{}{Chyba siÄ™ zdrzemnÄ™.}
+{119}{}{ZasÅ‚ugujÄ™ na podwyÅ¼kÄ™. To przecieÅ¼ niebezpieczna sÅ‚uÅ¼ba.}

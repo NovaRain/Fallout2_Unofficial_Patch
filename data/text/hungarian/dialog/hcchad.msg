@@ -1,54 +1,54 @@
-{100}{}{Egy barátságos arcú, szikár embert látsz.}
-{101}{}{Chad, a karavánvezet?.}
-{102}{}{Egy szikár embert látsz, arcán olyan mosollyal, akár egy pajzs. Ruhája teljesen jellegtelen, és úgy járkál fel-alá, mintha aki tudja, mit csinál.}
-{120}{}{Hahó, barátom! Mit tehetek érted?}
-{121}{}{Még több kérdés? Meglátom, mit tehetek érted a válaszok terén.}
-{122}{}{Dörk digglerr!}
+{100}{}{Egy barÃ¡tsÃ¡gos arcÃº, szikÃ¡r embert lÃ¡tsz.}
+{101}{}{Chad, a karavÃ¡nvezet?.}
+{102}{}{Egy szikÃ¡r embert lÃ¡tsz, arcÃ¡n olyan mosollyal, akÃ¡r egy pajzs. RuhÃ¡ja teljesen jellegtelen, Ã©s Ãºgy jÃ¡rkÃ¡l fel-alÃ¡, mintha aki tudja, mit csinÃ¡l.}
+{120}{}{HahÃ³, barÃ¡tom! Mit tehetek Ã©rted?}
+{121}{}{MÃ©g tÃ¶bb kÃ©rdÃ©s? MeglÃ¡tom, mit tehetek Ã©rted a vÃ¡laszok terÃ©n.}
+{122}{}{DÃ¶rk digglerr!}
 {123}{}{Te ki lenni?}
-{124}{}{Marcus kérdez?sködik fel?led.}
-{125}{}{Elég bizonyítékom van arra, hogy pénzt loptál Broken Hills városától. Le leszel tartóztatva. Mész a sittre!}
-{126}{}{Elég bizonyítékom van arra, hogy pénzt loptál Broken Hills városától. Le leszel tartóztatva, de ha megkensz egy ezressel hagyom, hogy elmenekülj.}
+{124}{}{Marcus kÃ©rdez?skÃ¶dik fel?led.}
+{125}{}{ElÃ©g bizonyÃ­tÃ©kom van arra, hogy pÃ©nzt loptÃ¡l Broken Hills vÃ¡rosÃ¡tÃ³l. Le leszel tartÃ³ztatva. MÃ©sz a sittre!}
+{126}{}{ElÃ©g bizonyÃ­tÃ©kom van arra, hogy pÃ©nzt loptÃ¡l Broken Hills vÃ¡rosÃ¡tÃ³l. Le leszel tartÃ³ztatva, de ha megkensz egy ezressel hagyom, hogy elmenekÃ¼lj.}
 {127}{}{Ki vagy te?}
 {128}{}{Mondj valamit err?l a helyr?l!}
-{129}{}{Semmit. Viszlát!}
-{130}{}{Nézd már, mit fújt be a sivatagi szél a városba! Bocs, haver, nem tudok rajtad segíteni.}
-{131}{}{Szióka!}
+{129}{}{Semmit. ViszlÃ¡t!}
+{130}{}{NÃ©zd mÃ¡r, mit fÃºjt be a sivatagi szÃ©l a vÃ¡rosba! Bocs, haver, nem tudok rajtad segÃ­teni.}
+{131}{}{SziÃ³ka!}
 {132}{}{Chad vagyok. }
-{133}{}{Bocs, elég sok dolgom van. Keress valaki mást!}
-{134}{}{Én vagyok a város karavánmestere. Én kötöm az üzleteket a karavánutak túlsó végén. Mostanában leginkább Gekkóra koncentrálok.}
-{135}{}{Okké!}
-{136}{}{Lenne valami munka a számomra?}
+{133}{}{Bocs, elÃ©g sok dolgom van. Keress valaki mÃ¡st!}
+{134}{}{Ã‰n vagyok a vÃ¡ros karavÃ¡nmestere. Ã‰n kÃ¶tÃ¶m az Ã¼zleteket a karavÃ¡nutak tÃºlsÃ³ vÃ©gÃ©n. MostanÃ¡ban leginkÃ¡bb GekkÃ³ra koncentrÃ¡lok.}
+{135}{}{OkkÃ©!}
+{136}{}{Lenne valami munka a szÃ¡momra?}
 {137}{}{Izgalmas lehet.}
 {138}{}{Unalmas lehet.}
-{139}{}{Volna még néhány kérdésem.}
-{140}{}{Kösz. Viszlát!}
+{139}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{140}{}{KÃ¶sz. ViszlÃ¡t!}
 {141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
-{142}{}{Volna még néhány kérdésem.}
-{143}{}{Viszlát!}
-{144}{}{Úgymint?}
+{142}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{143}{}{ViszlÃ¡t!}
+{144}{}{Ãšgymint?}
 {145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
 {146}{}{Nothing really, Bye.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
 {150}{}{I'm going to find the truth. Bye.}
-{156}{}{Beszélj Billel! ? tud segíteni.}
-{157}{}{Volna még néhány kérdésem.}
-{158}{}{Kösz. Viszlát!}
-{159}{}{Igen, az. Nem is gondolnád, de sokat kell utaznom, így láthatom a világot... és úgy érzem, ezzel hozzájárulok a város el?relépéséhez. Jó élet ez.}
-{160}{}{Jól hangzik. Szeretnék egy ilyen állást.}
-{161}{}{Hát, ez elég unalmasan hangzik.}
-{162}{}{Volna még néhány kérdésem.}
-{163}{}{Viszlát!}
-{164}{}{Szerintem százszor izgalmasabb, mint amit te csinálsz az életeddel, seggfej!}
-{165}{}{Igen, persze. Mást kérdeznék.}
-{166}{}{Ha ha ha ha! Hát persze. Viszlát, te vesztes!}
-{167}{}{Egyszer megfizetsz ezért, te tet?!}
+{156}{}{BeszÃ©lj Billel! ? tud segÃ­teni.}
+{157}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{158}{}{KÃ¶sz. ViszlÃ¡t!}
+{159}{}{Igen, az. Nem is gondolnÃ¡d, de sokat kell utaznom, Ã­gy lÃ¡thatom a vilÃ¡got... Ã©s Ãºgy Ã©rzem, ezzel hozzÃ¡jÃ¡rulok a vÃ¡ros el?relÃ©pÃ©sÃ©hez. JÃ³ Ã©let ez.}
+{160}{}{JÃ³l hangzik. SzeretnÃ©k egy ilyen Ã¡llÃ¡st.}
+{161}{}{HÃ¡t, ez elÃ©g unalmasan hangzik.}
+{162}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{163}{}{ViszlÃ¡t!}
+{164}{}{Szerintem szÃ¡zszor izgalmasabb, mint amit te csinÃ¡lsz az Ã©leteddel, seggfej!}
+{165}{}{Igen, persze. MÃ¡st kÃ©rdeznÃ©k.}
+{166}{}{Ha ha ha ha! HÃ¡t persze. ViszlÃ¡t, te vesztes!}
+{167}{}{Egyszer megfizetsz ezÃ©rt, te tet?!}
 {168}{}{T?nj innen, te mocsok!}
-{169}{}{Ezt jól elbaltáztad, barátom. Ennyit a pénzedr?l.}
-{170}{}{Hát, ezt rendesen elcseszted, haver. Sok sikert ahhoz, hogy másik munkát találj Broken Hillsben!}
-{171}{}{Szép munka volt! Itt a 200 dolcsid.}
-{172}{}{T?nj innen! Nincs szükségünk többé a segítségedre!}
+{169}{}{Ezt jÃ³l elbaltÃ¡ztad, barÃ¡tom. Ennyit a pÃ©nzedr?l.}
+{170}{}{HÃ¡t, ezt rendesen elcseszted, haver. Sok sikert ahhoz, hogy mÃ¡sik munkÃ¡t talÃ¡lj Broken Hillsben!}
+{171}{}{SzÃ©p munka volt! Itt a 200 dolcsid.}
+{172}{}{T?nj innen! Nincs szÃ¼ksÃ©gÃ¼nk tÃ¶bbÃ© a segÃ­tsÃ©gedre!}
 {173}{}{Tartsd nyitva a szemed!}
-{174}{}{Hátulról fedezlek!}
-{175}{}{Ne engedd a mocskokat közel magadhoz!}
+{174}{}{HÃ¡tulrÃ³l fedezlek!}
+{175}{}{Ne engedd a mocskokat kÃ¶zel magadhoz!}

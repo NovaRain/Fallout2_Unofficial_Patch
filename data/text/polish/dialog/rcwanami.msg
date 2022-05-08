@@ -1,2 +1,2 @@
 {100}{}{Widzisz wanamingo.}
-{101}{}{Wanamingo nie wygl¹da na zbyt zadowolonego z niezapowiedzianych goœci.}
+{101}{}{Wanamingo nie wyglÄ…da na zbyt zadowolonego z niezapowiedzianych goÅ›ci.}

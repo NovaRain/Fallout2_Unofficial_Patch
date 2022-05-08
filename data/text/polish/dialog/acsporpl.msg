@@ -1,6 +1,6 @@
-{100}{}{Widzisz roœlinê o mrocznej duszy.}
+{100}{}{Widzisz roÅ›linÄ™ o mrocznej duszy.}
 {101}{}{These plants aren't just harmful to the garden.  They also have the ability to attack humans
  and other creatures.}
-{102}{}{Te roœliny o mrocznej duszy to dziwna mutacja. W¹tpliwe, by zmutowa³y z przyczyn naturalnych.}
-{103}{}{Nie widzisz nic nadzwyczajnego w tych roœlinach - oprócz faktu, ¿e atakuj¹ ludzi.}
-{150}{}{Roœliny o mrocznej duszy zosta³y zniszczone.}
+{102}{}{Te roÅ›liny o mrocznej duszy to dziwna mutacja. WÄ…tpliwe, by zmutowaÅ‚y z przyczyn naturalnych.}
+{103}{}{Nie widzisz nic nadzwyczajnego w tych roÅ›linach - oprÃ³cz faktu, Å¼e atakujÄ… ludzi.}
+{150}{}{RoÅ›liny o mrocznej duszy zostaÅ‚y zniszczone.}

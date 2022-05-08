@@ -1,9 +1,9 @@
 #PROGRAMOWANIE
 
-@G³ówny programista
+@GÅ‚Ã³wny programista
 Jesse Reynolds
 
-@Programiœci
+@ProgramiÅ›ci
 Chris Jones
 Nick Kesting
 Robert Hertenstein 2
@@ -25,7 +25,7 @@ Darren Monahan
 
 #GRAFIKA
 
-@G³ówni graficy
+@GÅ‚Ã³wni graficy
 Gary Platner
 Tramell Ray Isaac
 
@@ -45,7 +45,7 @@ Justin Sweet
 Vance Kovacs
 Tim Donley
 
-@Grafiki wnêtrz
+@Grafiki wnÄ™trz
 Charles M. Gregory
 Daniel Jacobs
 John Jacobs
@@ -63,7 +63,7 @@ Sharon Shellman
 
 #PROJEKT
 
-@G³ówni projektanci
+@GÅ‚Ã³wni projektanci
 Feargus Urquhart
 Matthew J. Norton
 
@@ -78,7 +78,7 @@ Colin McComb
 @Projektanci techniczni
 Scott Everts
 
-@Projekty poziomów
+@Projekty poziomÃ³w
 John Deiley
 Scott Everts
 Jason G. Suinn
@@ -114,11 +114,11 @@ Feargus Urquhart
 Eric Demilt
 Feargus Urquhart
 
-@Zastêpcy producentów
+@ZastÄ™pcy producentÃ³w
 Fred Hatch
 Douglas Avery
 
-@Zastêpca dyrektora
+@ZastÄ™pca dyrektora
 Jeremy Barnes
 
 @Koordynatorzy synchronizacji ruchu ust
@@ -135,21 +135,21 @@ Colin McComb
 
 
 
-#KONTROLA JAKOŒCI
+#KONTROLA JAKOÅšCI
 
-@Kierownik kontroli jakoœci
+@Kierownik kontroli jakoÅ›ci
 Chad Allison
 
-@Asystenci kontroli jakoœci
+@Asystenci kontroli jakoÅ›ci
 Steve Victory
 Colin Totman
 
-@Nadzór wersji PC
+@NadzÃ³r wersji PC
 Greg "Moose" Baumeister
 Steve McLafferty
 Darrell Jones
 
-@G³ówni testerzy wersji PC
+@GÅ‚Ã³wni testerzy wersji PC
 Dennis Presnell
 Chad Nicholas
 Dave Simon
@@ -172,19 +172,19 @@ Jeremy Seely
 Henry Lee
 Scott Humphreys
 
-@Kompatybilnoœæ
+@KompatybilnoÅ›Ä‡
 Frank Pimentel
 
-@G³ówny technik
+@GÅ‚Ã³wny technik
 Bill Delk
 
 @Technik
 Tom Quast
 
-@Administrator bazy danych - kompatybilnoœæ
+@Administrator bazy danych - kompatybilnoÅ›Ä‡
 Steve Cabiness
 
-@Technicy kompatybilnoœci
+@Technicy kompatybilnoÅ›ci
 Derek Gibbs
 John Parker
 Ed Robles
@@ -192,35 +192,35 @@ Louie Iturzaeta
 
 
 
-#DWIÊK
+#DÅ¹WIÄ˜K
 
-@Re¿yser dŸwiêku
+@ReÅ¼yser dÅºwiÄ™ku
 Charles Deenen
 
-@Edycja dŸwiêku
+@Edycja dÅºwiÄ™ku
 Craig Duman
 
-@Kierownik nagrañ
+@Kierownik nagraÅ„
 Jamie Thomason
 
-@Koordynator nagrañ
+@Koordynator nagraÅ„
 Julie Morgavi
 
-@Nadzór nad nagraniami
+@NadzÃ³r nad nagraniami
 Chris Borders
 
-@Edytorzy nagrañ
+@Edytorzy nagraÅ„
 Frank Szick
 Kevin Frayser
 Ron Valdez
 
-@Nagrañ g³osów dokonano w Marc Graue Studio
+@NagraÅ„ gÅ‚osÃ³w dokonano w Marc Graue Studio
 
-@Projekt dŸwiêku
+@Projekt dÅºwiÄ™ku
 Paul Menichini
 Tim Walston
 
-@Projekt dŸwiêku
+@Projekt dÅºwiÄ™ku
 David Farmer
 
 @Miksowanie
@@ -228,17 +228,17 @@ Charles Deenen
 
 @Zmiksowane w systemie Dolby [TM] Surround w Interplay Audio
 
-@Administrator dŸwiêku
+@Administrator dÅºwiÄ™ku
 Gloria Soto
 
-@Dodatkowy projekt dŸwiêku
+@Dodatkowy projekt dÅºwiÄ™ku
 Larry Peacock
 Weddington
 EFX
 Eight Ball Sound
 Charles Deenen
 
-@In¿ynierowie nagrañ
+@InÅ¼ynierowie nagraÅ„
 Wes Smith
 Julian Cook
 of Marc Graue Studios
@@ -250,11 +250,11 @@ Four Bars Intertainment
 @oraz
 Rick Jackson
 
-@Producent nagrañ
+@Producent nagraÅ„
 Fred Hatch
 
 
-@G³osów u¿yczyli
+@GÅ‚osÃ³w uÅ¼yczyli
 
 Charlie Adler
 @Harold
@@ -275,10 +275,10 @@ Kevin Michael Richardson
 @Oficer Com
 
 Peter Jason
-@Sier¿ant od musztry
+@SierÅ¼ant od musztry
 
 Peter Jason
-@Stra¿nik bramy
+@StraÅ¼nik bramy
 
 Flo DiRe
 @Starszy
@@ -302,26 +302,26 @@ Jeffrey Jones
 
 "A KISS TO BUILD A DREAM ON"
 @Wykonanie: Louie Armstrong
-@Za zgod¹: GRP Records
+@Za zgodÄ…: GRP Records
 @Na licencji UNIVERSAL MUSIC SPECIAL MARKETS
 
 "A KISS TO BUILD A DREAM ON"
 @Napisane przez Berta Kalmera, Harry'ego Ruby'ego i Oscara Hammersteina II
 @(C) 1935, 1951 reedycja 1963, 1979 METRO GOLDWYN MAYER, INC.
 @Prawa przypisane EMI CATALOGUE PARTNERSHIP
-@Wszelkie prawa kontrolowane i zarz¹dzane przez EMI MILLER CATALOG INC.
-@Wszelkie prawa zastrze¿one. Chronione miêdzynarodowym prawem autorskim.
-@U¿ycie za zgod¹.
+@Wszelkie prawa kontrolowane i zarzÄ…dzane przez EMI MILLER CATALOG INC.
+@Wszelkie prawa zastrzeÅ¼one. Chronione miÄ™dzynarodowym prawem autorskim.
+@UÅ¼ycie za zgodÄ….
 
 
-@OSTRZE¯ENIE: Kopiowanie, powielanie lub reprodukowanie
-@tego Programu albo jakichkolwiek jego czêœci bez pisemnej
-@zgody w³aœciciela jest naruszeniem prawa autorskiego.
+@OSTRZEÅ»ENIE: Kopiowanie, powielanie lub reprodukowanie
+@tego Programu albo jakichkolwiek jego czÄ™Å›ci bez pisemnej
+@zgody wÅ‚aÅ›ciciela jest naruszeniem prawa autorskiego.
 
 
 #VIDEO
 
-@Us³ugi Video
+@UsÅ‚ugi Video
 Dave Cravens
 Stephen Miller
 Bill Stoudt
@@ -337,7 +337,7 @@ Paul Sackman
 Mike Markin
 Greg Peterson
 
-@Wspó³praca
+@WspÃ³Å‚praca
 Greg Bauman
 
 @PR Manager
@@ -350,29 +350,27 @@ Paul Naftalis
 
 
 
-@Podziêkowania dla:
+@PodziÄ™kowania dla:
 @(Dave H.) The Unwashed Villagers, the Dyer Family,
 @Jamba Juice, The Tick, Southpark;
 @(Chris A.) mojego "kumpla" Thuy Dang, Eileen Suh
 @oraz Mamy i Taty Avellone;
 @(T.Ray) mojej mamy, mojego taty, mojego syna
-@i mojego brata oraz dla wszystkich moich fanów
+@i mojego brata oraz dla wszystkich moich fanÃ³w
 @za kupienie tej gry;
 @(Rob H.) Becky Warner i Billiego Rydera;
 @(Matt N.) Meine DieMonika und der kater;
-@(Jesse R.) "Dla Taty, by³eœ dla mnie inspiracj¹
-@przez ca³e ¿ycie. Zawsze bêdê za Tob¹ têskni³."
+@(Jesse R.) "Dla Taty, byÅ‚eÅ› dla mnie inspiracjÄ…
+@przez caÅ‚e Å¼ycie. Zawsze bÄ™dÄ™ za TobÄ… tÄ™skniÅ‚."
 
-@Specjalne podziêkowania dla:
-@Cz³onków forów Fallout and Fallout 2.
-@Dziêkujemy za wasze komentarze, sugestie i inne ezoteria!
-@Pokoju Video firmy Interplay, za pracê ponad
-@i poza zewem @obowi¹zku!
+@Specjalne podziÄ™kowania dla:
+@CzÅ‚onkÃ³w forÃ³w Fallout and Fallout 2.
+@DziÄ™kujemy za wasze komentarze, sugestie i inne ezoteria!
+@Pokoju Video firmy Interplay, za pracÄ™ ponad
+@i poza zewem @obowiÄ…zku!
 
-@Fallout 2 zosta³ dla was stworzony przez Interplay Productions,
-@Team Fallout 2, literkê Q oraz numerki 42 i 20.
-
-
+@Fallout 2 zostaÅ‚ dla was stworzony przez Interplay Productions,
+@Team Fallout 2, literkÄ™ Q oraz numerki 42 i 20.
 
 
 
@@ -403,7 +401,9 @@ Paul Naftalis
 
 
 
-@Dobra, spoko, skoro naprawdê musicie...
+
+
+@Dobra, spoko, skoro naprawdÄ™ musicie...
 
 
 
@@ -420,7 +420,7 @@ Paul Naftalis
 
 
 
-@ZnaleŸliœcie wszystkie spotkania losowe?
+@ZnaleÅºliÅ›cie wszystkie spotkania losowe?
 
 
 
@@ -457,7 +457,7 @@ Paul Naftalis
 
 
 
-@A mo¿e znajdziecie Soko³a Maltañskiego?
+@A moÅ¼e znajdziecie SokoÅ‚a MaltaÅ„skiego?
 
 
 
@@ -476,4 +476,4 @@ Paul Naftalis
 
 
 
-@Ha! Mi³ej zabawy...
+@Ha! MiÅ‚ej zabawy...

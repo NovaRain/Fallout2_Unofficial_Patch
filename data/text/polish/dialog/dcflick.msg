@@ -1,56 +1,56 @@
-{100}{}{Widzisz chudego mê¿czyznê o niemi³ej powierzchownoœci.}
-{150}{}{Widzisz Flicka. Zapamiêtale drapie swoje klejnoty rodowe.}
-{151}{}{Widzisz niezbyt domytego mê¿czyznê o nieprzyjemnej twarzy.}
-{200}{}{Uciekaj st¹d, g³upolu.}
-{201}{}{Hej przyg³upie! Tak, do ciebie mówiê! Smykaj st¹d, sio!}
-{202}{}{Nies³y s ciebie g³upol, co?}
-{203}{}{Szczym masz problem, hê?!}
-{204}{}{Uciekaj st¹d, sio!}
+{100}{}{Widzisz chudego mÄ™Å¼czyznÄ™ o niemiÅ‚ej powierzchownoÅ›ci.}
+{150}{}{Widzisz Flicka. ZapamiÄ™tale drapie swoje klejnoty rodowe.}
+{151}{}{Widzisz niezbyt domytego mÄ™Å¼czyznÄ™ o nieprzyjemnej twarzy.}
+{200}{}{Uciekaj stÄ…d, gÅ‚upolu.}
+{201}{}{Hej przygÅ‚upie! Tak, do ciebie mÃ³wiÄ™! Smykaj stÄ…d, sio!}
+{202}{}{NiesÅ‚y s ciebie gÅ‚upol, co?}
+{203}{}{Szczym masz problem, hÄ™?!}
+{204}{}{Uciekaj stÄ…d, sio!}
 {220}{}{Heja, jestem Flick. Czego tu do cholery szukasz?}
-{221}{}{I co teras? Marnujesz mój czas.}
+{221}{}{I co teras? Marnujesz mÃ³j czas.}
 {222}{}{O co chodzi z tym akcentem, Flick?}
 {223}{}{Co ty tu do cholery robisz?}
-{224}{}{Szukam Krypty - no i kupca imieniem Vic. Wiesz gdzie go mo¿na znaleŸæ?}
-{225}{}{Chcê z tob¹ pohandlowaæ.}
-{240}{}{To jak, chcesz jeszcze coœ?}
-{241}{}{Jeœli mo¿na, chêtnie jeszcze raz rzucê okiem na twoj¹ ofertê.}
-{242}{}{W zasadzie chcê ciê tylko o coœ zapytaæ.}
-{243}{}{To ju¿ wszystko. Do zobaczenia Flick.}
-{260}{}{Ja tu kurna handlujê, a co myœlisz? Jestem jak taki Samurajtanin, nie?}
-{261}{}{¯e co?}
-{262}{}{No tak... mogê ciê zapytaæ o coœ jeszcze?}
-{263}{}{A, tak. W porz¹dku. ¯egnaj, Flick.}
-{280}{}{Dbam o te ma³e urwipo³cie.}
-{281}{}{Handlujesz miêsem, tak?}
-{290}{}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
+{224}{}{Szukam Krypty - no i kupca imieniem Vic. Wiesz gdzie go moÅ¼na znaleÅºÄ‡?}
+{225}{}{ChcÄ™ z tobÄ… pohandlowaÄ‡.}
+{240}{}{To jak, chcesz jeszcze coÅ›?}
+{241}{}{JeÅ›li moÅ¼na, chÄ™tnie jeszcze raz rzucÄ™ okiem na twojÄ… ofertÄ™.}
+{242}{}{W zasadzie chcÄ™ ciÄ™ tylko o coÅ› zapytaÄ‡.}
+{243}{}{To juÅ¼ wszystko. Do zobaczenia Flick.}
+{260}{}{Ja tu kurna handlujÄ™, a co myÅ›lisz? Jestem jak taki Samurajtanin, nie?}
+{261}{}{Å»e co?}
+{262}{}{No tak... mogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{263}{}{A, tak. W porzÄ…dku. Å»egnaj, Flick.}
+{280}{}{Dbam o te maÅ‚e urwipoÅ‚cie.}
+{281}{}{Handlujesz miÄ™sem, tak?}
+{290}{}{UrwipoÅ‚cie! No, kumasz, dzieci. Moje dzieci!}
 {291}{}{Twoje dzieci?}
-{292}{}{Có¿, nie interesuje mnie zbytnio dokarmianie dzieci. Chcê ciê zapytaæ o coœ innego.}
-{300}{}{No tak! Dzieci, które dla mnie pracuj¹. Pszynosz¹ mi szeczy. Ró¿ne takie pierdu³y. No wiesz!}
+{292}{}{CÃ³Å¼, nie interesuje mnie zbytnio dokarmianie dzieci. ChcÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego.}
+{300}{}{No tak! Dzieci, ktÃ³re dla mnie pracujÄ…. PszynoszÄ… mi szeczy. RÃ³Å¼ne takie pierduÅ‚y. No wiesz!}
 {301}{}{Ee, nie.}
-{302}{}{W porz¹dku. Chcê ciê jeszcze o coœ zapytaæ.}
-{303}{}{Ach, rozumiem. No to nie bêdê ci przeszkadzaæ. ¯egnaj.}
+{302}{}{W porzÄ…dku. ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{303}{}{Ach, rozumiem. No to nie bÄ™dÄ™ ci przeszkadzaÄ‡. Å»egnaj.}
 {315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
-{316}{}{To chyba niez³y uk³ad.}
-{325}{}{[Flick wzrusza ramionami] Jakoœ sobie wspólnie radzimy.}
-{326}{}{To mo¿e zapytam ciê o coœ innego?}
-{327}{}{Na pewno przynosz¹ ci ró¿ne ciekawe rzeczy. Zobaczmy co tam masz.}
-{328}{}{Tylko pytam. Có¿, ¿egnaj Flick.}
-{340}{}{O czym ty gadasz?! Co ja ci wygl¹dam, jak pirla? Jakiœ g³upi filio di puttana? Masz mnie sa b³asna? Myœlisz, sze jestem sajebiœcie sabawny, tak?}
-{341}{}{Ale¿ sk¹d. Przepraszam, pytam tylko z ciekawoœci. Mogê ciê zapytaæ o coœ innego?}
-{342}{}{W³aœnie tak. A nic nie rozbawi mnie bardziej, ni¿ twoje wyprute na ziemiê bebechy.}
-{343}{}{Cholera, jeœli zamierzasz siê z³oœciæ o byle co, to ja wychodzê.}
-{360}{}{Krypta, co? Mo¿e Mamuœka coœ o tym wie, bo ja nie mam pojêcia. Ale ten ca³y Vic - jego snam. Metsger dorwa³ tego porca pistola.}
-{361}{}{Vic? A to nie jest ten goœæ s tob¹? Biota. Ale Mamuœka... j¹ znam.}
+{316}{}{To chyba niezÅ‚y ukÅ‚ad.}
+{325}{}{[Flick wzrusza ramionami] JakoÅ› sobie wspÃ³lnie radzimy.}
+{326}{}{To moÅ¼e zapytam ciÄ™ o coÅ› innego?}
+{327}{}{Na pewno przynoszÄ… ci rÃ³Å¼ne ciekawe rzeczy. Zobaczmy co tam masz.}
+{328}{}{Tylko pytam. CÃ³Å¼, Å¼egnaj Flick.}
+{340}{}{O czym ty gadasz?! Co ja ci wyglÄ…dam, jak pirla? JakiÅ› gÅ‚upi filio di puttana? Masz mnie sa bÅ‚asna? MyÅ›lisz, sze jestem sajebiÅ›cie sabawny, tak?}
+{341}{}{AleÅ¼ skÄ…d. Przepraszam, pytam tylko z ciekawoÅ›ci. MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego?}
+{342}{}{WÅ‚aÅ›nie tak. A nic nie rozbawi mnie bardziej, niÅ¼ twoje wyprute na ziemiÄ™ bebechy.}
+{343}{}{Cholera, jeÅ›li zamierzasz siÄ™ zÅ‚oÅ›ciÄ‡ o byle co, to ja wychodzÄ™.}
+{360}{}{Krypta, co? MoÅ¼e MamuÅ›ka coÅ› o tym wie, bo ja nie mam pojÄ™cia. Ale ten caÅ‚y Vic - jego snam. Metsger dorwaÅ‚ tego porca pistola.}
+{361}{}{Vic? A to nie jest ten goÅ›Ä‡ s tobÄ…? Biota. Ale MamuÅ›ka... jÄ… znam.}
 {362}{}{Kim jest Metzger?}
-{363}{}{Kim jest Mamuœka?}
-{364}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{365}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
-{380}{}{Mamuœka prowadzi restauracjê we wschodniej czêœci miasta. Saras sa Cmentarzem. Fajne miejsce, dobre spaghetti, Mama mia.}
-{381}{}{Dziêki, a co z tym Metsgerem, który przetrzymuje Vica?}
-{382}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{383}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
-{400}{}{A, tak! Metsger, ten stronzo, ju¿ nie ¿yje. Nie wiem co siê sta³o z Vicem.}
-{401}{}{Ten Metsger, to prawdziwy rompiballe. Prowadzi gildiê ³owców niewolników. To na wschodzie, saras na pó³noc od Mamuœki. To on uwiêzi³ Vica.}
-{402}{}{Dziêki, a co z Mamuœk¹?}
-{403}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{404}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
+{363}{}{Kim jest MamuÅ›ka?}
+{364}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{365}{}{DziÄ™ki, to juÅ¼ chyba wszystko. Do widzenia.}
+{380}{}{MamuÅ›ka prowadzi restauracjÄ™ we wschodniej czÄ™Å›ci miasta. Saras sa Cmentarzem. Fajne miejsce, dobre spaghetti, Mama mia.}
+{381}{}{DziÄ™ki, a co z tym Metsgerem, ktÃ³ry przetrzymuje Vica?}
+{382}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{383}{}{DziÄ™ki, to juÅ¼ chyba wszystko. Do widzenia.}
+{400}{}{A, tak! Metsger, ten stronzo, juÅ¼ nie Å¼yje. Nie wiem co siÄ™ staÅ‚o z Vicem.}
+{401}{}{Ten Metsger, to prawdziwy rompiballe. Prowadzi gildiÄ™ Å‚owcÃ³w niewolnikÃ³w. To na wschodzie, saras na pÃ³Å‚noc od MamuÅ›ki. To on uwiÄ™ziÅ‚ Vica.}
+{402}{}{DziÄ™ki, a co z MamuÅ›kÄ…?}
+{403}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{404}{}{DziÄ™ki, to juÅ¼ chyba wszystko. Do widzenia.}

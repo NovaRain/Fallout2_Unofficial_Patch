@@ -1,42 +1,42 @@
 {100}{}{Ves un terminal de computadora.}
 {101}{}{Ves la interfaz de voz del terminal.}
-{102}{}{Ves un terminal de computadora estándar, modificado para recibir comandos por voz.}
-{103}{}{Examinas el terminal, pero no puedes encontrar nada que esté obviamente mal. ¿Qué
+{102}{}{Ves un terminal de computadora estÃ¡ndar, modificado para recibir comandos por voz.}
+{103}{}{Examinas el terminal, pero no puedes encontrar nada que estÃ© obviamente mal. Â¿QuÃ©
  haces?}
 {104}{}{Golpearlo con tu 'toque especial'.}
 {105}{}{Patearlo en ese lugar 'especial'.}
-{106}{}{Ejecutar el programa de diagnóstico.}
+{106}{}{Ejecutar el programa de diagnÃ³stico.}
 {107}{}{Abrirlo y mirar en su interior.}
 {108}{}{Dejarlo.}
-{109}{}{Miras la consola un rato y decides el mejor lugar para darle un puñetazo. Después de darle tu mejor golpe 'reparalotodo', el monitor parpadea un par de veces y luego se estabiliza. No hay ningún otro efecto. ¿Qué haces?}
+{109}{}{Miras la consola un rato y decides el mejor lugar para darle un puÃ±etazo. DespuÃ©s de darle tu mejor golpe 'reparalotodo', el monitor parpadea un par de veces y luego se estabiliza. No hay ningÃºn otro efecto. Â¿QuÃ© haces?}
 {110}{}{Patearlo en ese lugar 'especial'.}
-{111}{}{Ejecutar el programa de diagnóstico.}
+{111}{}{Ejecutar el programa de diagnÃ³stico.}
 {112}{}{Abrirlo y mirar en su interior.}
 {113}{}{Dejarlo.}
-{114}{}{Este bien conocido método de reparación produce dos resultados. Primero, el monitor parece descomponerse durante
- varios segundos, y después se estabiliza. Segundo, escuchas un sonido metálico y el panel que has
- pateado cae al suelo. ¿Qué haces?}
-{115}{}{Ejecutar el programa de diagnóstico.}
-{116}{}{La maldita cosa está abierta. También podría mirar dentro.}
+{114}{}{Este bien conocido mÃ©todo de reparaciÃ³n produce dos resultados. Primero, el monitor parece descomponerse durante
+ varios segundos, y despuÃ©s se estabiliza. Segundo, escuchas un sonido metÃ¡lico y el panel que has
+ pateado cae al suelo. Â¿QuÃ© haces?}
+{115}{}{Ejecutar el programa de diagnÃ³stico.}
+{116}{}{La maldita cosa estÃ¡ abierta. TambiÃ©n podrÃ­a mirar dentro.}
 {117}{}{Dejarlo.}
-{118}{}{Estás seguro de que el sistema debería tener un conjunto de rutinas de diagnóstico disponibles. Sin embargo, el
- teclado parece haber sido desactivado. La unidad sólo acepta comandos por voz. ¿Qué haces?}
-{119}{}{Lo único que queda es mirar dentro.}
+{118}{}{EstÃ¡s seguro de que el sistema deberÃ­a tener un conjunto de rutinas de diagnÃ³stico disponibles. Sin embargo, el
+ teclado parece haber sido desactivado. La unidad sÃ³lo acepta comandos por voz. Â¿QuÃ© haces?}
+{119}{}{Lo Ãºnico que queda es mirar dentro.}
 {120}{}{Dejarlo.}
-{121}{}{Rebuscando entre el montón de cables y placas de circuito, descubres que el sistema ha sido saboteado deliberadamente.
- Una de las placas de circuito, el módulo de reconocimiento de voz, no se puede reparar y debe reemplazarse.
- Ahora, todo lo que necesitas es encontrar un módulo de reemplazo.}
+{121}{}{Rebuscando entre el montÃ³n de cables y placas de circuito, descubres que el sistema ha sido saboteado deliberadamente.
+ Una de las placas de circuito, el mÃ³dulo de reconocimiento de voz, no se puede reparar y debe reemplazarse.
+ Ahora, todo lo que necesitas es encontrar un mÃ³dulo de reemplazo.}
 {122}{}{Hecho.}
 {123}{}{Hecho.}
-{124}{}{Instalas el módulo en el terminal. El sistema está reparado.}
-{125}{}{El terminal necesita un módulo de reconocimiento de voz instalado para que pueda ser operativo.}
+{124}{}{Instalas el mÃ³dulo en el terminal. El sistema estÃ¡ reparado.}
+{125}{}{El terminal necesita un mÃ³dulo de reconocimiento de voz instalado para que pueda ser operativo.}
 {126}{}{Hecho.}
 {127}{}{Ahora el sistema funciona correctamente.}
-{128}{}{Accediendo a ficheros de seguridad, cargando reproducción holográfica...}
-{129}{}{Eres el último, Gruthar. La mancha de los de tu clase pronto será limpiada.}
-{130}{}{Dile a tu llamado Presidente que arderá por esto.}
-{131}{}{Lo que sea. Nunca fuiste más que un animal parlante.}
-{132}{}{Tal vez, pero fuimos creados por tus experimentos. ¡Tú nos diste la vida!}
+{128}{}{Accediendo a ficheros de seguridad, cargando reproducciÃ³n hologrÃ¡fica...}
+{129}{}{Eres el Ãºltimo, Gruthar. La mancha de los de tu clase pronto serÃ¡ limpiada.}
+{130}{}{Dile a tu llamado Presidente que arderÃ¡ por esto.}
+{131}{}{Lo que sea. Nunca fuiste mÃ¡s que un animal parlante.}
+{132}{}{Tal vez, pero fuimos creados por tus experimentos. Â¡TÃº nos diste la vida!}
 {133}{}{Y ahora os doy la muerte.}
-{134}{}{Toma su cuerpo. El doctor quería una muestra.}
-{135}{}{¡Su sangre correrá como el Nilo!}
+{134}{}{Toma su cuerpo. El doctor querÃ­a una muestra.}
+{135}{}{Â¡Su sangre correrÃ¡ como el Nilo!}

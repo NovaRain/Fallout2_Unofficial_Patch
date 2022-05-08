@@ -1,57 +1,57 @@
-{100}{}{Widzisz kogoœ nosz¹cego kapitañsk¹ czapkê.}
+{100}{}{Widzisz kogoÅ› noszÄ…cego kapitaÅ„skÄ… czapkÄ™.}
 {101}{}{Widzisz Kapitana A. Rona Meyersa.}
-{102}{}{Widzisz punka w znoszonym ubraniu nosz¹cego kapitañsk¹ czapkê.}
-{103}{}{Czego do cholery chcesz? Nie rozmawiam z nikim, chyba ¿e to przyjaciele albo dobrzy ludzie. Zrób coœ dla jednego z moich kumpli, a wtedy mo¿esz przyjœæ i porozmawiaæ.}
+{102}{}{Widzisz punka w znoszonym ubraniu noszÄ…cego kapitaÅ„skÄ… czapkÄ™.}
+{103}{}{Czego do cholery chcesz? Nie rozmawiam z nikim, chyba Å¼e to przyjaciele albo dobrzy ludzie. ZrÃ³b coÅ› dla jednego z moich kumpli, a wtedy moÅ¼esz przyjÅ›Ä‡ i porozmawiaÄ‡.}
 {104}{}{[dalej]}
-{105}{}{S³ysza³em o twojej pomocy dla moich ludzi. Dziêkujê. Jak mogê ci pomóc?}
+{105}{}{SÅ‚yszaÅ‚em o twojej pomocy dla moich ludzi. DziÄ™kujÄ™. Jak mogÄ™ ci pomÃ³c?}
 {106}{}{Ty kto?}
-{107}{}{Podobny ty jesteœ tym, kto wie wszystko o tym statku.}
-{108}{}{Dlaczego nazywaj¹ ciê Kapitanem?}
-{109}{}{Jak ten okrêt wprawiæ w ruch?}
+{107}{}{Podobny ty jesteÅ› tym, kto wie wszystko o tym statku.}
+{108}{}{Dlaczego nazywajÄ… ciÄ™ Kapitanem?}
+{109}{}{Jak ten okrÄ™t wprawiÄ‡ w ruch?}
 {110}{}{Nic nic.}
-{111}{}{Jestem Kapitanem. Dowodzê tym statkiem. Inne pytania mo¿esz iœæ zadaæ któremuœ z Shi, Borsukowi lub komuœ innemu. Ja nie mam dla ciebie czasu.}
+{111}{}{Jestem Kapitanem. DowodzÄ™ tym statkiem. Inne pytania moÅ¼esz iÅ›Ä‡ zadaÄ‡ ktÃ³remuÅ› z Shi, Borsukowi lub komuÅ› innemu. Ja nie mam dla ciebie czasu.}
 {112}{}{[dalej]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
-{114}{}{Sk¹d ty to wszystko wiesz?}
+{114}{}{SkÄ…d ty to wszystko wiesz?}
 {115}{}{Co to jest transponder IFF?}
-{116}{}{Jak go wprawiæ w ruch?}
-{117}{}{Dziêki. Na razie.}
-{118}{}{Kiedyœ s³u¿y³em w Enklawie. Potem zrozumia³em, ¿e to nie dla USA walczê, lecz dla bogatych, starych drani, którzy nie chc¹ oddaæ swojej w³adzy. Zdezerterowa³em i ¿yjê teraz z bardziej uczciwymi ludŸmi.}
+{116}{}{Jak go wprawiÄ‡ w ruch?}
+{117}{}{DziÄ™ki. Na razie.}
+{118}{}{KiedyÅ› sÅ‚uÅ¼yÅ‚em w Enklawie. Potem zrozumiaÅ‚em, Å¼e to nie dla USA walczÄ™, lecz dla bogatych, starych drani, ktÃ³rzy nie chcÄ… oddaÄ‡ swojej wÅ‚adzy. ZdezerterowaÅ‚em i Å¼yjÄ™ teraz z bardziej uczciwymi ludÅºmi.}
 {119}{}{Bardziej uczciwymi? Tymi tutaj?}
-{120}{}{Co to dok³adnie jest ta Enklawa?}
-{121}{}{Jak ten okrêt wprawiæ w ruch?}
+{120}{}{Co to dokÅ‚adnie jest ta Enklawa?}
+{121}{}{Jak ten okrÄ™t wprawiÄ‡ w ruch?}
 {122}{}{Bywaj.}
 {123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{124}{}{Jasne. Sk¹d to wszystko wiesz?}
+{124}{}{Jasne. SkÄ…d to wszystko wiesz?}
 {125}{}{Co to jest transponder IFF i KD?}
 {126}{}{Jakiej platformy wiertniczej?}
 {127}{}{Tak. Na razie.}
-{128}{}{IFF: Identyfikacja Friend or Foe - Przyjaciel czy Wróg. Oznacza to, ¿e ten statek jest rozpoznawany jako przyjaciel, wiêc inne jednostki Posejdona - jak na przyk³ad platforma wiertnicza - nie bêd¹ strzelaæ do ciebie, gdy ju¿ znajdziesz siê w ich zasiêgu. Aha, no i KD to taka technologia Enklawy, która pozwala ci otwieraæ elektronicznie drzwi za pomoc¹ karty. Zapewne takie coœ mo¿na by znaleŸæ w jednej z ich baz, czy w podobnym miejscu.}
-{129}{}{Sk¹d ty to wszystko wiesz?}
+{128}{}{IFF: Identyfikacja Friend or Foe - Przyjaciel czy WrÃ³g. Oznacza to, Å¼e ten statek jest rozpoznawany jako przyjaciel, wiÄ™c inne jednostki Posejdona - jak na przykÅ‚ad platforma wiertnicza - nie bÄ™dÄ… strzelaÄ‡ do ciebie, gdy juÅ¼ znajdziesz siÄ™ w ich zasiÄ™gu. Aha, no i KD to taka technologia Enklawy, ktÃ³ra pozwala ci otwieraÄ‡ elektronicznie drzwi za pomocÄ… karty. Zapewne takie coÅ› moÅ¼na by znaleÅºÄ‡ w jednej z ich baz, czy w podobnym miejscu.}
+{129}{}{SkÄ…d ty to wszystko wiesz?}
 {130}{}{Jakiej platformy wiertniczej?}
-{131}{}{Dziêki. Na razie.}
-{132}{}{Tak. Z tymi ludŸmi przynajmniej wiesz dok³adnie, na czym stoisz. Oni nie bawi¹ siê w ró¿ne gierki. Enklawa przypomina stado hien - w sekundê obróciliby siê przeciwko tobie.}
-{133}{}{Co to dok³adnie jest ta Enklawa?}
-{134}{}{Jak siê do nich przy³¹czy³eœ?}
-{135}{}{Enklawa to pozosta³oœæ po starych czasach. Je¿eli zabierzesz tê ³ajbê przez wodê na platformê, to zobaczysz na w³asne oczy, o czym mówiê.}
-{136}{}{Jak siê ni¹ p³ywa?}
-{137}{}{Jak¹ platformê?}
-{138}{}{Doœæ ³atwo. Po prostu pewnego dnia opuœci³em bazê w Navarro i skierowa³em siê tutaj. Pomyœla³em sobie, ¿e to jest ostatnie miejsce, gdzie ktokolwiek by mnie szuka³. A poza tym nie jestem a¿ tak wa¿ny dla Enklawy, ¿eby mnie szukaæ - po co marnowaæ si³y na zbuntowan¹ p³otkê.}
-{139}{}{Co to dok³adnie jest ta Enklawa?}
-{140}{}{Dziêki. Na razie.}
-{141}{}{Kawa³ od brzegu znajduje siê du¿a platforma wiertnicza Posejdona. To jest ostateczna baza Enklawy}
-{142}{}{Sk¹d ty to wszystko wiesz?}
-{143}{}{Co jeszcze dzieje siê tam, na platformie?}
-{144}{}{Dziêki. Na razie.}
-{145}{}{S³owa siê roznosz¹.}
-{146}{}{Rozumiem. Co jeszcze dzieje siê tam, na platformie?}
+{131}{}{DziÄ™ki. Na razie.}
+{132}{}{Tak. Z tymi ludÅºmi przynajmniej wiesz dokÅ‚adnie, na czym stoisz. Oni nie bawiÄ… siÄ™ w rÃ³Å¼ne gierki. Enklawa przypomina stado hien - w sekundÄ™ obrÃ³ciliby siÄ™ przeciwko tobie.}
+{133}{}{Co to dokÅ‚adnie jest ta Enklawa?}
+{134}{}{Jak siÄ™ do nich przyÅ‚Ä…czyÅ‚eÅ›?}
+{135}{}{Enklawa to pozostaÅ‚oÅ›Ä‡ po starych czasach. JeÅ¼eli zabierzesz tÄ™ Å‚ajbÄ™ przez wodÄ™ na platformÄ™, to zobaczysz na wÅ‚asne oczy, o czym mÃ³wiÄ™.}
+{136}{}{Jak siÄ™ niÄ… pÅ‚ywa?}
+{137}{}{JakÄ… platformÄ™?}
+{138}{}{DoÅ›Ä‡ Å‚atwo. Po prostu pewnego dnia opuÅ›ciÅ‚em bazÄ™ w Navarro i skierowaÅ‚em siÄ™ tutaj. PomyÅ›laÅ‚em sobie, Å¼e to jest ostatnie miejsce, gdzie ktokolwiek by mnie szukaÅ‚. A poza tym nie jestem aÅ¼ tak waÅ¼ny dla Enklawy, Å¼eby mnie szukaÄ‡ - po co marnowaÄ‡ siÅ‚y na zbuntowanÄ… pÅ‚otkÄ™.}
+{139}{}{Co to dokÅ‚adnie jest ta Enklawa?}
+{140}{}{DziÄ™ki. Na razie.}
+{141}{}{KawaÅ‚ od brzegu znajduje siÄ™ duÅ¼a platforma wiertnicza Posejdona. To jest ostateczna baza Enklawy}
+{142}{}{SkÄ…d ty to wszystko wiesz?}
+{143}{}{Co jeszcze dzieje siÄ™ tam, na platformie?}
+{144}{}{DziÄ™ki. Na razie.}
+{145}{}{SÅ‚owa siÄ™ roznoszÄ….}
+{146}{}{Rozumiem. Co jeszcze dzieje siÄ™ tam, na platformie?}
 {147}{}{Rozumiem. Do zobaczenia.}
-{148}{}{Nie mam pojêcia. By³em technikiem w Navarro, a nie operatorem na platformie. Rozmawialiœmy tylko przez linie komunikacyjne... To tyle, je¿eli chodzi o nasz kontakt.}
-{149}{}{Rozumiem. Jeszcze raz, jak siê p³ywa tym statkiem?}
-{150}{}{Dziêki. Na razie.}
-{151}{}{To du¿y b³¹d zadzieraæ z Kapitanem i jego przyjació³mi...}
+{148}{}{Nie mam pojÄ™cia. ByÅ‚em technikiem w Navarro, a nie operatorem na platformie. RozmawialiÅ›my tylko przez linie komunikacyjne... To tyle, jeÅ¼eli chodzi o nasz kontakt.}
+{149}{}{Rozumiem. Jeszcze raz, jak siÄ™ pÅ‚ywa tym statkiem?}
+{150}{}{DziÄ™ki. Na razie.}
+{151}{}{To duÅ¼y bÅ‚Ä…d zadzieraÄ‡ z Kapitanem i jego przyjaciÃ³Å‚mi...}
 {152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {153}{}{Oh, yeah. You gotta get the navigation computer working as well.  I bet you'd find parts for it in one of those old vaults.}
-{154}{}{Dobrze ciê znowu widzieæ. Czego potrzebujesz?}
-{155}{}{, i o ile siê nie mylê, tam te¿ s¹ twoi przyjaciele.}
+{154}{}{Dobrze ciÄ™ znowu widzieÄ‡. Czego potrzebujesz?}
+{155}{}{, i o ile siÄ™ nie mylÄ™, tam teÅ¼ sÄ… twoi przyjaciele.}
 {156}{}{.}

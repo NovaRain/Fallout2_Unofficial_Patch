@@ -1,3 +1,3 @@
-{100}{}{Ez egy régi napló.}
-{101}{}{Ez a régi napló túl törékeny, hogy kézben hordozd. Az információt letöltötted a PipBoyba.}
-{102}{}{A naplót most már a PipBoy tárolja.}
+{100}{}{Ez egy rÃ©gi naplÃ³.}
+{101}{}{Ez a rÃ©gi naplÃ³ tÃºl tÃ¶rÃ©keny, hogy kÃ©zben hordozd. Az informÃ¡ciÃ³t letÃ¶ltÃ¶tted a PipBoyba.}
+{102}{}{A naplÃ³t most mÃ¡r a PipBoy tÃ¡rolja.}

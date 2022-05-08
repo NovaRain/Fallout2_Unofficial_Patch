@@ -1,1 +1,1 @@
-{100}{}{Odnajdujesz star¹ stacjê benzynow¹.}
+{100}{}{Odnajdujesz starÄ… stacjÄ™ benzynowÄ….}

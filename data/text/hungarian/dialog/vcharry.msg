@@ -1,20 +1,20 @@
-{100}{}{Egy alacsony, mosolygós férfit látsz.}
+{100}{}{Egy alacsony, mosolygÃ³s fÃ©rfit lÃ¡tsz.}
 {101}{}{Boldog Harry, a bolt tulaja.}
-{102}{}{Üdvözöllek, barátom! Mondd, mit tehetek érted?}
-{103}{}{Vásárolni szeretnék. Láthatnám a kínálatot?}
-{104}{}{Van kint egy eke. Eladó?}
-{105}{}{Én vesz}
-{106}{}{Kösz, egyel?re elleszek magam is.}
-{107}{}{Sajnálom barátom, nem tudok segíteni.}
-{108}{}{Természetesen, nyolcszázért a tiéd lehet. Biztosíthatlak, pompás darab.}
-{109}{}{Nyolcszáz?! Hatszázat adok érte.}
+{102}{}{ÃœdvÃ¶zÃ¶llek, barÃ¡tom! Mondd, mit tehetek Ã©rted?}
+{103}{}{VÃ¡sÃ¡rolni szeretnÃ©k. LÃ¡thatnÃ¡m a kÃ­nÃ¡latot?}
+{104}{}{Van kint egy eke. EladÃ³?}
+{105}{}{Ã‰n vesz}
+{106}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{107}{}{SajnÃ¡lom barÃ¡tom, nem tudok segÃ­teni.}
+{108}{}{TermÃ©szetesen, nyolcszÃ¡zÃ©rt a tiÃ©d lehet. BiztosÃ­thatlak, pompÃ¡s darab.}
+{109}{}{NyolcszÃ¡z?! HatszÃ¡zat adok Ã©rte.}
 {110}{}{Rendben van, megveszem.}
-{111}{}{Nyolcszáz? Rendben, mindjárt hozom a pénzt.}
-{112}{}{Az túl sok! Smith-ék pusztuljanak csak éhen!}
-{113}{}{Nagyszer? [elteszi a pénzt]. Házhozszállítást is kérsz? Ingyen van.}
-{114}{}{Házhozszállítás? Ingyen? Remek! Kérlek, vitesd el Smith-ékhez!}
-{115}{}{Sajnálom, barátom. Nyolcszáz az ára, egy centtel se kevesebb.}
-{119}{}{Ez sajnos nem lesz elég, barátom!}
-{120}{}{Értem. Hamarosan visszajövök a teljes összeggel.}
-{121}{}{Rendben van, azonnal intézkedem. Mindent a kedves vev?ért.}
-{122}{}{Azt hiszed, csak úgy elviheted? Piszkos csirkefogó! ?rség! ?rség!!!}
+{111}{}{NyolcszÃ¡z? Rendben, mindjÃ¡rt hozom a pÃ©nzt.}
+{112}{}{Az tÃºl sok! Smith-Ã©k pusztuljanak csak Ã©hen!}
+{113}{}{Nagyszer? [elteszi a pÃ©nzt]. HÃ¡zhozszÃ¡llÃ­tÃ¡st is kÃ©rsz? Ingyen van.}
+{114}{}{HÃ¡zhozszÃ¡llÃ­tÃ¡s? Ingyen? Remek! KÃ©rlek, vitesd el Smith-Ã©khez!}
+{115}{}{SajnÃ¡lom, barÃ¡tom. NyolcszÃ¡z az Ã¡ra, egy centtel se kevesebb.}
+{119}{}{Ez sajnos nem lesz elÃ©g, barÃ¡tom!}
+{120}{}{Ã‰rtem. Hamarosan visszajÃ¶vÃ¶k a teljes Ã¶sszeggel.}
+{121}{}{Rendben van, azonnal intÃ©zkedem. Mindent a kedves vev?Ã©rt.}
+{122}{}{Azt hiszed, csak Ãºgy elviheted? Piszkos csirkefogÃ³! ?rsÃ©g! ?rsÃ©g!!!}

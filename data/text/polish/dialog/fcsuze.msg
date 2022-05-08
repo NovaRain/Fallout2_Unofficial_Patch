@@ -1,37 +1,37 @@
-{100}{}{Widzisz kobietê o zatroskanej minie.}
+{100}{}{Widzisz kobietÄ™ o zatroskanej minie.}
 {101}{}{Widzisz Suze.}
-{102}{}{Widzisz kobietê o zatroskanej minie.}
+{102}{}{Widzisz kobietÄ™ o zatroskanej minie.}
 {103}{}{Aaaaaa! Ratunku!}
-{104}{}{Ocal mnie! Proszê!}
-{105}{}{Próbuj¹ mnie zabiæ!}
-{106}{}{Prosz¹! Zabij¹ mnie!}
+{104}{}{Ocal mnie! ProszÄ™!}
+{105}{}{PrÃ³bujÄ… mnie zabiÄ‡!}
+{106}{}{ProszÄ…! ZabijÄ… mnie!}
 {107}{}{Powstrzymaj je! Aaaaa!}
-{108}{}{Czy to Borsuk ciê przys³a³? Wiedzia³am, ¿e tak zrobi. Kamieñ spad³ mi z serca.}
+{108}{}{Czy to Borsuk ciÄ™ przysÅ‚aÅ‚? WiedziaÅ‚am, Å¼e tak zrobi. KamieÅ„ spadÅ‚ mi z serca.}
 {109}{}{Aaggg.}
-{110}{}{Co tu robi³aœ?}
-{111}{}{Ta. IdŸ za mn¹.}
-{112}{}{Och, moje ty biedne. Radiacja i pustkowia nie s¹ mi³e, prawda? Mam nadziejê, ¿e ktoœ bêdzie móg³ ci pomóc.}
-{113}{}{Wiesz, to trochê g³upie. Zwiedza³am sobie, bo Borsuk by³ zajêty komputerem. Posz³am na dó³, zgubi³am siê, a zaraz potem otoczy³y mnie potwory. Dobrze, ¿e tu jesteœ.}
-{114}{}{Mam wiêcej pytañ.}
-{115}{}{Tak, to prawda. Znalaz³aœ coœ ciekawego?}
-{116}{}{Tak masz racjê. ChodŸmy.}
+{110}{}{Co tu robiÅ‚aÅ›?}
+{111}{}{Ta. IdÅº za mnÄ….}
+{112}{}{Och, moje ty biedne. Radiacja i pustkowia nie sÄ… miÅ‚e, prawda? Mam nadziejÄ™, Å¼e ktoÅ› bÄ™dzie mÃ³gÅ‚ ci pomÃ³c.}
+{113}{}{Wiesz, to trochÄ™ gÅ‚upie. ZwiedzaÅ‚am sobie, bo Borsuk byÅ‚ zajÄ™ty komputerem. PoszÅ‚am na dÃ³Å‚, zgubiÅ‚am siÄ™, a zaraz potem otoczyÅ‚y mnie potwory. Dobrze, Å¼e tu jesteÅ›.}
+{114}{}{Mam wiÄ™cej pytaÅ„.}
+{115}{}{Tak, to prawda. ZnalazÅ‚aÅ› coÅ› ciekawego?}
+{116}{}{Tak masz racjÄ™. ChodÅºmy.}
 {117}{}{I found the room I was in. I also found a room that looked like a fueling area.  I didn't get much farther because of the monsters.}
-{118}{}{Mam wiêcej pytañ.}
-{119}{}{Sk¹d jesteœ?}
+{118}{}{Mam wiÄ™cej pytaÅ„.}
+{119}{}{SkÄ…d jesteÅ›?}
 {120}{}{Super. Na razie to wszystko.}
 {121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea.  I used to be a nanny, but then the kids mutated into monsters.}
-{122}{}{Mam wiêcej pytañ.}
-{123}{}{Jak pozna³aœ Borsuka?}
-{124}{}{Fascynuj¹ce. To na razie wszystko.}
-{125}{}{Przyby³ na po³udnie i zajrza³ do klubu, do którego i ja zwyk³am chadzaæ. Wiêc kiedy sprawy zaczê³y marnie wygl¹daæ, pomyœla³am, ¿e to bêdzie dobre miejsce na mój nowy dom.}
-{126}{}{Mam wiêcej pytañ.}
-{127}{}{To wszystko. Dziêki.}
-{128}{}{Zawdziêczam ci ¿ycie. Odpowiem na wszystkie twoje pytania.}
+{122}{}{Mam wiÄ™cej pytaÅ„.}
+{123}{}{Jak poznaÅ‚aÅ› Borsuka?}
+{124}{}{FascynujÄ…ce. To na razie wszystko.}
+{125}{}{PrzybyÅ‚ na poÅ‚udnie i zajrzaÅ‚ do klubu, do ktÃ³rego i ja zwykÅ‚am chadzaÄ‡. WiÄ™c kiedy sprawy zaczÄ™Å‚y marnie wyglÄ…daÄ‡, pomyÅ›laÅ‚am, Å¼e to bÄ™dzie dobre miejsce na mÃ³j nowy dom.}
+{126}{}{Mam wiÄ™cej pytaÅ„.}
+{127}{}{To wszystko. DziÄ™ki.}
+{128}{}{ZawdziÄ™czam ci Å¼ycie. Odpowiem na wszystkie twoje pytania.}
 {129}{}{Taaa.}
-{130}{}{Co tu robi³aœ?}
-{131}{}{Czy znalaz³aœ coœ ciekawego?}
-{132}{}{Sk¹d jesteœ?}
-{133}{}{Jak pozna³aœ Borsuka?}
-{134}{}{Na razie nie mam ¿adnych. Na razie.}
+{130}{}{Co tu robiÅ‚aÅ›?}
+{131}{}{Czy znalazÅ‚aÅ› coÅ› ciekawego?}
+{132}{}{SkÄ…d jesteÅ›?}
+{133}{}{Jak poznaÅ‚aÅ› Borsuka?}
+{134}{}{Na razie nie mam Å¼adnych. Na razie.}
 {135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
-{136}{}{Dziêki za ca³¹ okazan¹ pomoc. Idê poszukaæ Borsuka.}
+{136}{}{DziÄ™ki za caÅ‚Ä… okazanÄ… pomoc. IdÄ™ poszukaÄ‡ Borsuka.}

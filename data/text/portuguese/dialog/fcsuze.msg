@@ -1,37 +1,37 @@
-{100}{}{Você vê uma mulher com uma expressão preocupada.}
-{101}{}{Você vê Suze.}
-{102}{}{Você vê uma mulher com uma expressão preocupada.}
+{100}{}{VocÃª vÃª uma mulher com uma expressÃ£o preocupada.}
+{101}{}{VocÃª vÃª Suze.}
+{102}{}{VocÃª vÃª uma mulher com uma expressÃ£o preocupada.}
 {103}{}{Aaahh! Socorro!}
 {104}{}{Me salve! Por favor!}
-{105}{}{Estão tentando me matar!}
-{106}{}{Por favor! Vão me matar!}
+{105}{}{EstÃ£o tentando me matar!}
+{106}{}{Por favor! VÃ£o me matar!}
 {107}{}{Pare eles! Aaahh!}
-{108}{}{Badger mandou você? Eu sabia que sim. Estou salvo.}
+{108}{}{Badger mandou vocÃª? Eu sabia que sim. Estou salvo.}
 {109}{}{Aagggh.}
-{110}{}{O que está fazendo aí embaixo?}
+{110}{}{O que estÃ¡ fazendo aÃ­ embaixo?}
 {111}{}{Sim. Me segue.}
-{112}{}{Oh, coitadinho. A radiação e o deserto não são legais, né? Espero que alguém possa te ajudar.}
-{113}{}{Foi estupidez, na realidade. Eu estava explorando porque Badger foi até o computador e eu desci as escadas e acabei me perdendo, a próxima coisa que você sabe, cercado por monstros. Agradeço por vir.}
+{112}{}{Oh, coitadinho. A radiaÃ§Ã£o e o deserto nÃ£o sÃ£o legais, nÃ©? Espero que alguÃ©m possa te ajudar.}
+{113}{}{Foi estupidez, na realidade. Eu estava explorando porque Badger foi atÃ© o computador e eu desci as escadas e acabei me perdendo, a prÃ³xima coisa que vocÃª sabe, cercado por monstros. AgradeÃ§o por vir.}
 {114}{}{Eu tenho mais perguntas.}
-{115}{}{Sim, isso é. Encontrou algo interessante?}
-{116}{}{Sim, isso. Vamos lá.}
+{115}{}{Sim, isso Ã©. Encontrou algo interessante?}
+{116}{}{Sim, isso. Vamos lÃ¡.}
 {117}{}{I found the room I was in. I also found a room that looked like a fueling area.  I didn't get much farther because of the monsters.}
 {118}{}{Eu tenho mais perguntas.}
-{119}{}{De onde você é?}
-{120}{}{Ótimo. Isso é tudo por enquanto.}
+{119}{}{De onde vocÃª Ã©?}
+{120}{}{Ã“timo. Isso Ã© tudo por enquanto.}
 {121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea.  I used to be a nanny, but then the kids mutated into monsters.}
 {122}{}{Eu tenho mais perguntas.}
-{123}{}{Como você conheceu Badger?}
-{124}{}{Fascinante. Isso é tudo por enquanto.}
-{125}{}{Ele desceu para o sul e foi a um clube que eu frequentava. Então, quando tudo desmoronou ao meu redor, pensei que este seria o lugar para ir.}
+{123}{}{Como vocÃª conheceu Badger?}
+{124}{}{Fascinante. Isso Ã© tudo por enquanto.}
+{125}{}{Ele desceu para o sul e foi a um clube que eu frequentava. EntÃ£o, quando tudo desmoronou ao meu redor, pensei que este seria o lugar para ir.}
 {126}{}{Eu tenho mais perguntas.}
-{127}{}{Isso é tudo. Obrigado.}
-{128}{}{Você salvou minha vida. Pode fazer quantas perguntas quiser.}
+{127}{}{Isso Ã© tudo. Obrigado.}
+{128}{}{VocÃª salvou minha vida. Pode fazer quantas perguntas quiser.}
 {129}{}{Yaaaah.}
-{130}{}{O que está fazendo aí embaixo?}
+{130}{}{O que estÃ¡ fazendo aÃ­ embaixo?}
 {131}{}{Achou algo interessante?}
-{132}{}{De onde você é?}
-{133}{}{Como você conheceu Badger?}
+{132}{}{De onde vocÃª Ã©?}
+{133}{}{Como vocÃª conheceu Badger?}
 {134}{}{Nada agora. Tchau.}
 {135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
 {136}{}{Obrigado pela sua ajuda. Eu vou encontrar Badger.}

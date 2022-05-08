@@ -1,47 +1,47 @@
-{100}{}{Egy koszos, izmos férfit látsz.}
-{101}{}{Connar-t látod.}
-{102}{}{Hé te! Mit csinálsz?}
-{103}{}{Ne mozdulj vándor! Mit keresel itt?}
-{104}{}{Legyilkolom ezeket a szörnyeket.}
-{105}{}{Miért? Mit ártottak neked?}
+{100}{}{Egy koszos, izmos fÃ©rfit lÃ¡tsz.}
+{101}{}{Connar-t lÃ¡tod.}
+{102}{}{HÃ© te! Mit csinÃ¡lsz?}
+{103}{}{Ne mozdulj vÃ¡ndor! Mit keresel itt?}
+{104}{}{Legyilkolom ezeket a szÃ¶rnyeket.}
+{105}{}{MiÃ©rt? Mit Ã¡rtottak neked?}
 {106}{}{Mert csak!}
-{107}{}{Fogadni mernék, hogy azok a rohadékok küldtek Menedékvárosból. Jobban tennéd, ha lelépnél és békén hagynál minket!}
-{108}{}{Hát, ezzel elkéstél.}
-{109}{}{Miért?}
+{107}{}{Fogadni mernÃ©k, hogy azok a rohadÃ©kok kÃ¼ldtek MenedÃ©kvÃ¡rosbÃ³l. Jobban tennÃ©d, ha lelÃ©pnÃ©l Ã©s bÃ©kÃ©n hagynÃ¡l minket!}
+{108}{}{HÃ¡t, ezzel elkÃ©stÃ©l.}
+{109}{}{MiÃ©rt?}
 {110}{}{Bocs, de a munka az munka.}
-{111}{}{Azoknak az állatoknak köszönhetjük, hogy még nem vagyunk Menedékváros úgynevezett "szolgái".}
-{112}{}{Bocs, de fizetnek érte, hogy végezzek a szörnyekkel és meg is teszem.}
-{113}{}{Err?l nem szóltak.}
-{114}{}{Fizetnek, hogy kipucoljam a helyet. Már végeztem is velük.}
-{115}{}{Te idióta! Mi a francért csináltad ezt?}
-{116}{}{Kellett a pénz.}
+{111}{}{Azoknak az Ã¡llatoknak kÃ¶szÃ¶nhetjÃ¼k, hogy mÃ©g nem vagyunk MenedÃ©kvÃ¡ros Ãºgynevezett "szolgÃ¡i".}
+{112}{}{Bocs, de fizetnek Ã©rte, hogy vÃ©gezzek a szÃ¶rnyekkel Ã©s meg is teszem.}
+{113}{}{Err?l nem szÃ³ltak.}
+{114}{}{Fizetnek, hogy kipucoljam a helyet. MÃ¡r vÃ©geztem is velÃ¼k.}
+{115}{}{Te idiÃ³ta! Mi a francÃ©rt csinÃ¡ltad ezt?}
+{116}{}{Kellett a pÃ©nz.}
 {117}{}{Ugye tudod, hogy elvisznek minket, ha megteszed?}
-{118}{}{Nem az én bajom.}
-{119}{}{Akkor dögölj meg! Hamarosan jönnek értünk.}
-{120}{}{Nem tudtam, hogy ezért olyan fontos nekik.}
-{121}{}{Aha, persze. Különben sem tárgyalok ilyen szar alakkal, mint te.}
+{118}{}{Nem az Ã©n bajom.}
+{119}{}{Akkor dÃ¶gÃ¶lj meg! Hamarosan jÃ¶nnek Ã©rtÃ¼nk.}
+{120}{}{Nem tudtam, hogy ezÃ©rt olyan fontos nekik.}
+{121}{}{Aha, persze. KÃ¼lÃ¶nben sem tÃ¡rgyalok ilyen szar alakkal, mint te.}
 {122}{}{Bocs, de nem hagyhatjuk.}
 {123}{}{Tedd amit tenned kell.}
-{124}{}{Megvettek kilóra? Még sokat kell tanulnod a világról, barátom.}
-{125}{}{Segíthetek bármiben?}
-{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár l?fegyverünk, azt hiszem, elbírnánk velük.}
+{124}{}{Megvettek kilÃ³ra? MÃ©g sokat kell tanulnod a vilÃ¡grÃ³l, barÃ¡tom.}
+{125}{}{SegÃ­thetek bÃ¡rmiben?}
+{126}{}{A menedÃ©kvÃ¡rosi srÃ¡cok elÃ©g beszariak. CsinÃ¡lsz egy-kÃ©t figurÃ¡t Ã©s mÃ¡r futnak is a hegyekbe. Ha lenne pÃ¡r l?fegyverÃ¼nk, azt hiszem, elbÃ­rnÃ¡nk velÃ¼k.}
 {127}{}{Milyen fegyverekre gondolsz?}
-{128}{}{Hát, én jól bánok a sörétessel és van pár emberem, akik  boldogulnak az uzival. Szerintem három darab elég lenne.}
-{129}{}{Megnézem, mit tehetek.}
-{130}{}{Nem vagy közénk való. Tünj el!}
-{131}{}{Meggondoltam magam. Tudok segíteni?}
-{132}{}{Aha, a legjobb ha minél hamarabb lelépsz.}
-{133}{}{Aggódom.}
-{134}{}{Hát visszajöttél! Sikerült fegyvereket szerezned?}
-{135}{}{Mi kell már megint?}
+{128}{}{HÃ¡t, Ã©n jÃ³l bÃ¡nok a sÃ¶rÃ©tessel Ã©s van pÃ¡r emberem, akik  boldogulnak az uzival. Szerintem hÃ¡rom darab elÃ©g lenne.}
+{129}{}{MegnÃ©zem, mit tehetek.}
+{130}{}{Nem vagy kÃ¶zÃ©nk valÃ³. TÃ¼nj el!}
+{131}{}{Meggondoltam magam. Tudok segÃ­teni?}
+{132}{}{Aha, a legjobb ha minÃ©l hamarabb lelÃ©psz.}
+{133}{}{AggÃ³dom.}
+{134}{}{HÃ¡t visszajÃ¶ttÃ©l! SikerÃ¼lt fegyvereket szerezned?}
+{135}{}{Mi kell mÃ¡r megint?}
 {136}{}{Ja, itt vannak.}
-{137}{}{Kell három uzi és egy sörétes puska. Minél el?bb, annál jobb.}
-{138}{}{Oké.}
-{139}{}{Most végre kezdhetünk valamit ezzel a hellyel. Ha kell egy vacok ahol meg akarsz pihenni, mi mindig szívesen látunk.}
-{140}{}{Szóra sem érdemes.}
-{141}{}{Üdv újra. Jól mennek a dolgok, épp a falu b?vítésén dolgozunk.}
-{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van id?d!}
-{143}{}{Még mindig épitkezünk. Ha minden jól megy, jöv? hónapban megemeljük a falakat.}
-{144}{}{Üdv! A falu megint b?vült. Örülünk, hogy újra itt vagy!}
-{145}{}{Nincs többé félnivalónk Menedékvárostól, így végre békében élhetünk. Mégegyszer köszönjük, vándor!}
-{146}{}{Csak ne gyilkolássz itt semmit, te gyökér!}
+{137}{}{Kell hÃ¡rom uzi Ã©s egy sÃ¶rÃ©tes puska. MinÃ©l el?bb, annÃ¡l jobb.}
+{138}{}{OkÃ©.}
+{139}{}{Most vÃ©gre kezdhetÃ¼nk valamit ezzel a hellyel. Ha kell egy vacok ahol meg akarsz pihenni, mi mindig szÃ­vesen lÃ¡tunk.}
+{140}{}{SzÃ³ra sem Ã©rdemes.}
+{141}{}{Ãœdv Ãºjra. JÃ³l mennek a dolgok, Ã©pp a falu b?vÃ­tÃ©sÃ©n dolgozunk.}
+{142}{}{Ãœdv Ãºjra. JÃ³l mennek a dolgok, mint lÃ¡tod. NÃ©zz kÃ¶rÃ¼l, ha van id?d!}
+{143}{}{MÃ©g mindig Ã©pitkezÃ¼nk. Ha minden jÃ³l megy, jÃ¶v? hÃ³napban megemeljÃ¼k a falakat.}
+{144}{}{Ãœdv! A falu megint b?vÃ¼lt. Ã–rÃ¼lÃ¼nk, hogy Ãºjra itt vagy!}
+{145}{}{Nincs tÃ¶bbÃ© fÃ©lnivalÃ³nk MenedÃ©kvÃ¡rostÃ³l, Ã­gy vÃ©gre bÃ©kÃ©ben Ã©lhetÃ¼nk. MÃ©gegyszer kÃ¶szÃ¶njÃ¼k, vÃ¡ndor!}
+{146}{}{Csak ne gyilkolÃ¡ssz itt semmit, te gyÃ¶kÃ©r!}

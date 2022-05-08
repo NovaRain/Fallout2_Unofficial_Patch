@@ -1,22 +1,22 @@
-{100}{}{Egy b?rpáncélos, unatkozó embert látsz.}
+{100}{}{Egy b?rpÃ¡ncÃ©los, unatkozÃ³ embert lÃ¡tsz.}
 {101}{}{You see Max, the caravan guard.}
-{102}{}{Egy b?rpáncélos, unatkozó embert látsz. A brahminb?zb?l, ami körüllengi, és a magabiztos járásából egyértelm?en látszik, hogy karavánkísér?.}
-{103}{}{Segíthetek valamiben?}
-{104}{}{Örgh?}
-{105}{}{Énn dolgozni!}
+{102}{}{Egy b?rpÃ¡ncÃ©los, unatkozÃ³ embert lÃ¡tsz. A brahminb?zb?l, ami kÃ¶rÃ¼llengi, Ã©s a magabiztos jÃ¡rÃ¡sÃ¡bÃ³l egyÃ©rtelm?en lÃ¡tszik, hogy karavÃ¡nkÃ­sÃ©r?.}
+{103}{}{SegÃ­thetek valamiben?}
+{104}{}{Ã–rgh?}
+{105}{}{Ã‰nn dolgozni!}
 {106}{}{Ki vagy te?}
-{107}{}{Mit tudsz nekem mondani Chadról?}
-{108}{}{Nincs id? hülyegyerekekre. Bocs, haver, de keress mást, akivel játszhatsz!}
+{107}{}{Mit tudsz nekem mondani ChadrÃ³l?}
+{108}{}{Nincs id? hÃ¼lyegyerekekre. Bocs, haver, de keress mÃ¡st, akivel jÃ¡tszhatsz!}
 {109}{}{::szipp::}
 {110}{}{I'm Max. I'm one of the caravan guards.}
-{111}{}{Mit tudsz nekem mondani Chadról?}
-{112}{}{Kösz. Viszlát!}
+{111}{}{Mit tudsz nekem mondani ChadrÃ³l?}
+{112}{}{KÃ¶sz. ViszlÃ¡t!}
 {113}{}{I don't like him much. He seems to get always some extra money from his caravan jobs. It's really unfair.}
 {114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
-{115}{}{Kösz. Viszlát!}
+{115}{}{KÃ¶sz. ViszlÃ¡t!}
 {116}{}{Thanks. I'm sure glad that this is over. You better watch your back thought.}
-{117}{}{Viszlát!}
-{118}{}{Itt az ellenség! Pusztulj!}
+{117}{}{ViszlÃ¡t!}
+{118}{}{Itt az ellensÃ©g! Pusztulj!}
 {119}{}{Ajjaj!}
 {120}{}{(Lowers his voice and looks around) That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
 {121}{}{Really? Then why you haven't tell about it to Marcus then?}

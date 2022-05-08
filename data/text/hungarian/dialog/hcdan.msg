@@ -1,58 +1,58 @@
-{100}{}{Egy aggódó embert látsz.}
-{101}{}{Dan, az aggódó férj.}
-{102}{}{Egy jólöltözött férfit látsz, akinek az arcvonásai küszöbön álló hisztériáról árulkodnak.}
-{103}{}{Ki vagy te? Mit csinálsz a házamban?}
-{104}{}{Akk? Úúp?}
-{105}{}{Én }
-{106}{}{Én? Senki.}
-{107}{}{Azért jöttem, hogy kiraboljalak.}
-{108}{}{Semmit. Senki. Viszlát!}
-{109}{}{Ne az én házamban, kérlek! Ott az utca. Ott aludhatsz, vagy csinálhatsz bármit, amit a magadfajta különös emberek csinálnak.}
+{100}{}{Egy aggÃ³dÃ³ embert lÃ¡tsz.}
+{101}{}{Dan, az aggÃ³dÃ³ fÃ©rj.}
+{102}{}{Egy jÃ³lÃ¶ltÃ¶zÃ¶tt fÃ©rfit lÃ¡tsz, akinek az arcvonÃ¡sai kÃ¼szÃ¶bÃ¶n Ã¡llÃ³ hisztÃ©riÃ¡rÃ³l Ã¡rulkodnak.}
+{103}{}{Ki vagy te? Mit csinÃ¡lsz a hÃ¡zamban?}
+{104}{}{Akk? ÃšÃºp?}
+{105}{}{Ã‰n }
+{106}{}{Ã‰n? Senki.}
+{107}{}{AzÃ©rt jÃ¶ttem, hogy kiraboljalak.}
+{108}{}{Semmit. Senki. ViszlÃ¡t!}
+{109}{}{Ne az Ã©n hÃ¡zamban, kÃ©rlek! Ott az utca. Ott aludhatsz, vagy csinÃ¡lhatsz bÃ¡rmit, amit a magadfajta kÃ¼lÃ¶nÃ¶s emberek csinÃ¡lnak.}
 {110}{}{Thppt!}
-{111}{}{Nagyszer?! Örülök, hogy találkoztunk. [Zavartan bámul] Hé, te... te amolyan kalandozó fajta vagy, nem?}
+{111}{}{Nagyszer?! Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. [Zavartan bÃ¡mul] HÃ©, te... te amolyan kalandozÃ³ fajta vagy, nem?}
 {112}{}{Igen.}
-{113}{}{Nem ismered fel a Kiválasztottat?}
+{113}{}{Nem ismered fel a KivÃ¡lasztottat?}
 {114}{}{Nem.}
-{115}{}{Mi közöd hozzá?}
-{116}{}{Azért kérdeztem, mert amint láthatod, a feleségem elt?nt. Nem tudom, hol lehet. Több napja elveszett már. Körbekérdeztem a városban, de senki sem látta. Nem keresnéd meg?}
+{115}{}{Mi kÃ¶zÃ¶d hozzÃ¡?}
+{116}{}{AzÃ©rt kÃ©rdeztem, mert amint lÃ¡thatod, a felesÃ©gem elt?nt. Nem tudom, hol lehet. TÃ¶bb napja elveszett mÃ¡r. KÃ¶rbekÃ©rdeztem a vÃ¡rosban, de senki sem lÃ¡tta. Nem keresnÃ©d meg?}
 {117}{}{Mi esik le nekem ebb?l?}
-{118}{}{Körülnézek. Hogy néz ki a feleséged?}
+{118}{}{KÃ¶rÃ¼lnÃ©zek. Hogy nÃ©z ki a felesÃ©ged?}
 {119}{}{Nem. Sok a dolgom.}
-{120}{}{Van 500 dollárom. A spórolt pénzem.}
-{121}{}{Annyi elég lesz. Megkeresem a feleséged.}
-{122}{}{Sajnálom. Nem vállalom.}
-{123}{}{Kérlek, kérlek! A feleségem... ? jelent mindent számomra. Kérlek!}
+{120}{}{Van 500 dollÃ¡rom. A spÃ³rolt pÃ©nzem.}
+{121}{}{Annyi elÃ©g lesz. Megkeresem a felesÃ©ged.}
+{122}{}{SajnÃ¡lom. Nem vÃ¡llalom.}
+{123}{}{KÃ©rlek, kÃ©rlek! A felesÃ©gem... ? jelent mindent szÃ¡momra. KÃ©rlek!}
 {124}{}{Azt mondtam, nem!}
-{125}{}{Jól van, jól van, csak hagyj végre békén a sirámaiddal!}
-{126}{}{Itt a pénz. Kérlek, kérlek, KÉRLEK... találd meg a feleségem! Talán összeállt valaki mással, talán elhagyott... de tudnom kell.}
-{127}{}{Rendben, haver. Hogy néz ki?}
+{125}{}{JÃ³l van, jÃ³l van, csak hagyj vÃ©gre bÃ©kÃ©n a sirÃ¡maiddal!}
+{126}{}{Itt a pÃ©nz. KÃ©rlek, kÃ©rlek, KÃ‰RLEK... talÃ¡ld meg a felesÃ©gem! TalÃ¡n Ã¶sszeÃ¡llt valaki mÃ¡ssal, talÃ¡n elhagyott... de tudnom kell.}
+{127}{}{Rendben, haver. Hogy nÃ©z ki?}
 {128}{}{Rendicsek. Megteszem, amit tudok.}
-{129}{}{::önkéntelenül szipog pár másodpercig:: Rendben. Menj csak! És vedd észre, hogy elvetted az utolsó reményemet is!}
-{130}{}{Viszlát, vesztes!}
-{131}{}{Sz?ke, szexi és csodálatos énekhangja van... utoljára errefelé látam ?t. Nem szereti a mutánsokat és a ghoulokat, szóval nem hiszem, hogy közel lenne hozzájuk. Senki nem tudja, hova mehetett. Mintha egyszer?en elt?nt volna.}
-{132}{}{Ennyi elég lesz..}
-{133}{}{Nos? Megtaláltad? A szívem minden pillanatban sajog.}
-{134}{}{Sajnálom, haver, még keresem.}
-{135}{}{Igen, megtaláltam.}
-{136}{}{Nem, még nem. Folytatom a keresést.}
-{137}{}{Ó, a fájó szívem. Kérlek, azonnal szólj, ha megtaláltad!}
-{138}{}{Persze, magától értet?dik.}
-{139}{}{Az igazat megvallva, nem akarom tovább keresni.}
-{140}{}{Megtaláltad? ::egészen felvillanyozódik:: Hol?}
-{141}{}{Ugye nem voltak lábai?}
-{142}{}{Egy rakás holttestet találtam a város alatti alagutakban. Ott volt közöttük. Nagyon sajnálom.}
-{143}{}{Mi? Nem! Szép hosszú lábai voltak!}
-{144}{}{Óh. Értem. Hát, most már nincsenek szép hosszú lábai. Brutálisan megölték, a lábait pedig LEVÁGTÁK. Tökéletesen halott és sokat szenvedett a halála el?tt.}
-{145}{}{Értem. Azt hiszem, megtaláltam ?t a város alatti alagútrendszerben. Meghalt. Nagyon sajnálom.}
-{146}{}{Köszönöm, hogy elmondtad. Azt hiszem, megyek és sírok egyet...}
-{147}{}{Ez az, menj csak b?gni, te szánalmas vesztes!}
-{148}{}{Sajnálom, haver.}
-{149}{}{Utállak! Mindenki utál! Dögölj meg! ::szipp::}
-{150}{}{Találtam egy levelet a feleséged mellett. Kiderül bel?le, hogy valószín?leg részese volt egy a Broken Hills mutánsai ellen irányuló összesküvésnek.}
-{151}{}{Istenem! Nem... nem tudom elhinni... Ez nem... [Mélyet sóhajt]. Azt hiszem igaz, amit mondasz. Úgy t?nt, nem kedveli a mutánsokat és a ghoulokat. Sohasem tudtam, miért.}
-{152}{}{Talán igaz, de akkor vigyáznod kell, hátha a gyilkosok nem állnak meg a feleségednél! Ha ? b?nrészes volt, te is lehetsz célpont.}
-{153}{}{Csak nem gondolod, hogy én is veszélyben vagyok? Ó, jaj! Talán igazad van. Éjszakánként zajokat hallok odakintr?l. Suttogást és csoszogást.}
-{154}{}{Azt hiszem, jobban tennéd, ha elmennél Broken Hillsb?l. Vigyázz magadra! Sok szerencsét!}
-{155}{}{Köszönöm a segítséget. Nem maradok itt tovább!}
-{156}{}{Értesítetted Dant a felesége haláláról.}
+{129}{}{::Ã¶nkÃ©ntelenÃ¼l szipog pÃ¡r mÃ¡sodpercig:: Rendben. Menj csak! Ã‰s vedd Ã©szre, hogy elvetted az utolsÃ³ remÃ©nyemet is!}
+{130}{}{ViszlÃ¡t, vesztes!}
+{131}{}{Sz?ke, szexi Ã©s csodÃ¡latos Ã©nekhangja van... utoljÃ¡ra errefelÃ© lÃ¡tam ?t. Nem szereti a mutÃ¡nsokat Ã©s a ghoulokat, szÃ³val nem hiszem, hogy kÃ¶zel lenne hozzÃ¡juk. Senki nem tudja, hova mehetett. Mintha egyszer?en elt?nt volna.}
+{132}{}{Ennyi elÃ©g lesz..}
+{133}{}{Nos? MegtalÃ¡ltad? A szÃ­vem minden pillanatban sajog.}
+{134}{}{SajnÃ¡lom, haver, mÃ©g keresem.}
+{135}{}{Igen, megtalÃ¡ltam.}
+{136}{}{Nem, mÃ©g nem. Folytatom a keresÃ©st.}
+{137}{}{Ã“, a fÃ¡jÃ³ szÃ­vem. KÃ©rlek, azonnal szÃ³lj, ha megtalÃ¡ltad!}
+{138}{}{Persze, magÃ¡tÃ³l Ã©rtet?dik.}
+{139}{}{Az igazat megvallva, nem akarom tovÃ¡bb keresni.}
+{140}{}{MegtalÃ¡ltad? ::egÃ©szen felvillanyozÃ³dik:: Hol?}
+{141}{}{Ugye nem voltak lÃ¡bai?}
+{142}{}{Egy rakÃ¡s holttestet talÃ¡ltam a vÃ¡ros alatti alagutakban. Ott volt kÃ¶zÃ¶ttÃ¼k. Nagyon sajnÃ¡lom.}
+{143}{}{Mi? Nem! SzÃ©p hosszÃº lÃ¡bai voltak!}
+{144}{}{Ã“h. Ã‰rtem. HÃ¡t, most mÃ¡r nincsenek szÃ©p hosszÃº lÃ¡bai. BrutÃ¡lisan megÃ¶ltÃ©k, a lÃ¡bait pedig LEVÃGTÃK. TÃ¶kÃ©letesen halott Ã©s sokat szenvedett a halÃ¡la el?tt.}
+{145}{}{Ã‰rtem. Azt hiszem, megtalÃ¡ltam ?t a vÃ¡ros alatti alagÃºtrendszerben. Meghalt. Nagyon sajnÃ¡lom.}
+{146}{}{KÃ¶szÃ¶nÃ¶m, hogy elmondtad. Azt hiszem, megyek Ã©s sÃ­rok egyet...}
+{147}{}{Ez az, menj csak b?gni, te szÃ¡nalmas vesztes!}
+{148}{}{SajnÃ¡lom, haver.}
+{149}{}{UtÃ¡llak! Mindenki utÃ¡l! DÃ¶gÃ¶lj meg! ::szipp::}
+{150}{}{TalÃ¡ltam egy levelet a felesÃ©ged mellett. KiderÃ¼l bel?le, hogy valÃ³szÃ­n?leg rÃ©szese volt egy a Broken Hills mutÃ¡nsai ellen irÃ¡nyulÃ³ Ã¶sszeskÃ¼vÃ©snek.}
+{151}{}{Istenem! Nem... nem tudom elhinni... Ez nem... [MÃ©lyet sÃ³hajt]. Azt hiszem igaz, amit mondasz. Ãšgy t?nt, nem kedveli a mutÃ¡nsokat Ã©s a ghoulokat. Sohasem tudtam, miÃ©rt.}
+{152}{}{TalÃ¡n igaz, de akkor vigyÃ¡znod kell, hÃ¡tha a gyilkosok nem Ã¡llnak meg a felesÃ©gednÃ©l! Ha ? b?nrÃ©szes volt, te is lehetsz cÃ©lpont.}
+{153}{}{Csak nem gondolod, hogy Ã©n is veszÃ©lyben vagyok? Ã“, jaj! TalÃ¡n igazad van. Ã‰jszakÃ¡nkÃ©nt zajokat hallok odakintr?l. SuttogÃ¡st Ã©s csoszogÃ¡st.}
+{154}{}{Azt hiszem, jobban tennÃ©d, ha elmennÃ©l Broken Hillsb?l. VigyÃ¡zz magadra! Sok szerencsÃ©t!}
+{155}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. Nem maradok itt tovÃ¡bb!}
+{156}{}{Ã‰rtesÃ­tetted Dant a felesÃ©ge halÃ¡lÃ¡rÃ³l.}
 {157}{}{ vagyok.}

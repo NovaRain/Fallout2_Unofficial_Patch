@@ -1,22 +1,22 @@
-{100}{}{Widzisz znudzonego goœcia ubranego w skórzany pancerz.}
-{101}{}{Widzisz Maxa, stra¿nika karawany.}
-{102}{}{Widzisz brudnego, znudzonego goœcia ubranego w skórzany pancerz. Po zapachu byd³a i pewnym kroku poznajesz w nim stra¿nika karawany.}
-{103}{}{Mogê ci w czymœ pomóc?}
-{104}{}{Hê?}
-{105}{}{Ny tu pracowaæ!}
-{106}{}{Kim jesteœ?}
-{107}{}{Co mo¿esz mi powiedzieæ o Chadzie?}
-{108}{}{Nie mam cierpliwoœci dla idiotów. Przykro mi, koleœ. Musisz sobie znaleŸæ kogoœ innego do zabawy.}
+{100}{}{Widzisz znudzonego goÅ›cia ubranego w skÃ³rzany pancerz.}
+{101}{}{Widzisz Maxa, straÅ¼nika karawany.}
+{102}{}{Widzisz brudnego, znudzonego goÅ›cia ubranego w skÃ³rzany pancerz. Po zapachu bydÅ‚a i pewnym kroku poznajesz w nim straÅ¼nika karawany.}
+{103}{}{MogÄ™ ci w czymÅ› pomÃ³c?}
+{104}{}{HÄ™?}
+{105}{}{Ny tu pracowaÄ‡!}
+{106}{}{Kim jesteÅ›?}
+{107}{}{Co moÅ¼esz mi powiedzieÄ‡ o Chadzie?}
+{108}{}{Nie mam cierpliwoÅ›ci dla idiotÃ³w. Przykro mi, koleÅ›. Musisz sobie znaleÅºÄ‡ kogoÅ› innego do zabawy.}
 {109}{}{::chlip::}
-{110}{}{Jestem Max. Jestem stra¿nikiem karawany.}
-{111}{}{Co mo¿esz mi powiedzieæ o Chadzie?}
-{112}{}{Dziêki. Na razie.}
+{110}{}{Jestem Max. Jestem straÅ¼nikiem karawany.}
+{111}{}{Co moÅ¼esz mi powiedzieÄ‡ o Chadzie?}
+{112}{}{DziÄ™ki. Na razie.}
 {113}{}{I don't like him much. He seems to get always some extra money from his caravan jobs. It's really unfair.}
 {114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
-{115}{}{Dziêki. Na razie.}
+{115}{}{DziÄ™ki. Na razie.}
 {116}{}{Thanks. I'm sure glad that this is over. You better watch your back thought.}
 {117}{}{Bywaj.}
-{118}{}{To nasz wróg! Zabiæ go!}
+{118}{}{To nasz wrÃ³g! ZabiÄ‡ go!}
 {119}{}{Ups.}
 {120}{}{(Lowers his voice and looks around) That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
 {121}{}{Really? Then why you haven't tell about it to Marcus then?}

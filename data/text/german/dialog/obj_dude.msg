@@ -1,9 +1,9 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Deine Füße jucken fürchterlich.}
-{120}{}{Du entdeckst störende Schwellungen an jedem Fuß.}
-{130}{}{Deine Schuhe sind plötzlich zu eng, diese Schwellungen entzünden sich.}
-{140}{}{Diese Schwellungen an den Füßen scheinen sich zu einem sechsten Zeh auszuwachsen. Aber zumindest ist der ständige brennende Schmerz weg.}
+{110}{}{Deine FÃ¼ÃŸe jucken fÃ¼rchterlich.}
+{120}{}{Du entdeckst stÃ¶rende Schwellungen an jedem FuÃŸ.}
+{130}{}{Deine Schuhe sind plÃ¶tzlich zu eng, diese Schwellungen entzÃ¼nden sich.}
+{140}{}{Diese Schwellungen an den FÃ¼ÃŸen scheinen sich zu einem sechsten Zeh auszuwachsen. Aber zumindest ist der stÃ¤ndige brennende Schmerz weg.}
 {141}{}{Oh mein Gott, das ist ja Bess!}
-{150}{}{Du erhältst }
+{150}{}{Du erhÃ¤ltst }
 {151}{}{ Erfahrungspunkte, weil du das GECK gefunden hast.}

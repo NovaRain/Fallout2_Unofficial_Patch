@@ -1,81 +1,81 @@
-{100}{}{Você vê um homem que se parece muito com um lojista.}
-{101}{}{Você vê Lao Chou, o lojista.}
-{102}{}{Você vê um homem em roupas funcionais e confortáveis.}
-{103}{}{Saudações! Bem vindo à minha loja, Flying Dragon 8.}
-{104}{}{O que posso fazer por você?}
+{100}{}{VocÃª vÃª um homem que se parece muito com um lojista.}
+{101}{}{VocÃª vÃª Lao Chou, o lojista.}
+{102}{}{VocÃª vÃª um homem em roupas funcionais e confortÃ¡veis.}
+{103}{}{SaudaÃ§Ãµes! Bem vindo Ã  minha loja, Flying Dragon 8.}
+{104}{}{O que posso fazer por vocÃª?}
 {105}{}{Pastel de Flango!}
 {106}{}{Coisas!}
-{107}{}{Quem é você?}
+{107}{}{Quem Ã© vocÃª?}
 {108}{}{Estou procurando por algum equipamento.}
-{109}{}{Estou procurando por alguma informação.}
+{109}{}{Estou procurando por alguma informaÃ§Ã£o.}
 {110}{}{Adeus.}
-{111}{}{Você quer comprar algo?}
-{112}{}{:: acene com a cabeça ::}
-{113}{}{::balançar a cabeça::}
-{114}{}{Isso é o que temos, então.}
+{111}{}{VocÃª quer comprar algo?}
+{112}{}{:: acene com a cabeÃ§a ::}
+{113}{}{::balanÃ§ar a cabeÃ§a::}
+{114}{}{Isso Ã© o que temos, entÃ£o.}
 {115}{}{[FEITO]}
-{116}{}{Bem, temo que é tudo que posso fazer por você. Tenha um bom dia. }
+{116}{}{Bem, temo que Ã© tudo que posso fazer por vocÃª. Tenha um bom dia. }
 {117}{}{[FEITO]}
-{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Flying Dragon 8, uma loja geral. Eu sou conhecido por trocar ... informação.}
-{119}{}{Que tipo de informação?}
+{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Flying Dragon 8, uma loja geral. Eu sou conhecido por trocar ... informaÃ§Ã£o.}
+{119}{}{Que tipo de informaÃ§Ã£o?}
 {120}{}{Entendo. Eu gostaria de algum equipamento.}
-{121}{}{Pouco acontece nesta cidade que eu não conheço. Claro, você deve saber a pergunta certa a se fazer, sim? O que você precisa saber?}
-{122}{}{Estou procurando algumas atualizações no meu equipamento.}
+{121}{}{Pouco acontece nesta cidade que eu nÃ£o conheÃ§o. Claro, vocÃª deve saber a pergunta certa a se fazer, sim? O que vocÃª precisa saber?}
+{122}{}{Estou procurando algumas atualizaÃ§Ãµes no meu equipamento.}
 {123}{}{Onde posso encontrar planos de vertibird?}
-{124}{}{Eu preciso encontrar combustível para o PMV Valdez.}
+{124}{}{Eu preciso encontrar combustÃ­vel para o PMV Valdez.}
 {125}{}{Eu entendo que preciso de um FOB para acessar o computador do Valdez.}
-{126}{}{Eu preciso de algumas peças de computador para o PMV Valdez.}
-{127}{}{Estou procurando por um baço.}
-{128}{}{Eu ouvi que algumas máquinas voadoras trouxeram uma carga de aldeões por este caminho.}
+{126}{}{Eu preciso de algumas peÃ§as de computador para o PMV Valdez.}
+{127}{}{Estou procurando por um baÃ§o.}
+{128}{}{Eu ouvi que algumas mÃ¡quinas voadoras trouxeram uma carga de aldeÃµes por este caminho.}
 {129}{}{Nada. Tchau.}
-{130}{}{Fale com Crockett, no acampamento Hubologista. Ele é o cientista chefe deles.}
-{131}{}{Obrigado. Eu preciso de mais informação.}
+{130}{}{Fale com Crockett, no acampamento Hubologista. Ele Ã© o cientista chefe deles.}
+{131}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {132}{}{Obrigado. Tchau.}
-{133}{}{Olhe para o norte, em Navarro. Há uma base escondida perto do posto de gasolina.}
-{134}{}{Obrigado. Eu preciso de mais informação.}
+{133}{}{Olhe para o norte, em Navarro. HÃ¡ uma base escondida perto do posto de gasolina.}
+{134}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {135}{}{Obrigado. Tchau.}
-{136}{}{Você já tentou procurar nos antigos Refúgios? Eu ouvi dizer que eles são uma riqueza de informações e tecnologia dos antigos.}
-{137}{}{Obrigado. Eu preciso de mais informação.}
+{136}{}{VocÃª jÃ¡ tentou procurar nos antigos RefÃºgios? Eu ouvi dizer que eles sÃ£o uma riqueza de informaÃ§Ãµes e tecnologia dos antigos.}
+{137}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {138}{}{Obrigado. Tchau.}
-{139}{}{Um baço? Ha ha! Sim, Chip do Valdez perdeu o baço em um jogo de cartas no outro dia. Eu vendi para o Dr. Wong. Ele ficou fascinado por isso.}
-{140}{}{Dr. Wong? Onde posso encontrá-lo?}
-{141}{}{Como você perde um baço?}
+{139}{}{Um baÃ§o? Ha ha! Sim, Chip do Valdez perdeu o baÃ§o em um jogo de cartas no outro dia. Eu vendi para o Dr. Wong. Ele ficou fascinado por isso.}
+{140}{}{Dr. Wong? Onde posso encontrÃ¡-lo?}
+{141}{}{Como vocÃª perde um baÃ§o?}
 {142}{}{Obrigado. Eu tenho mais perguntas.}
-{143}{}{Ah, então Tchau.}
-{144}{}{O Dr. Wong é o cientista chefe do Palácio de Aço. Procure-o lá.}
-{145}{}{Como você perde um baço, aliás?}
-{146}{}{Obrigado. Eu preciso de mais informação.}
+{143}{}{Ah, entÃ£o Tchau.}
+{144}{}{O Dr. Wong Ã© o cientista chefe do PalÃ¡cio de AÃ§o. Procure-o lÃ¡.}
+{145}{}{Como vocÃª perde um baÃ§o, aliÃ¡s?}
+{146}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {147}{}{Obrigado. Tchau.}
-{148}{}{Ele estava bêbado. Muito, muito bêbado. Ele estava obcecado com o baço a noite toda. E então ele o aposta.}
-{149}{}{Então você pegou o BAÇO dele?}
+{148}{}{Ele estava bÃªbado. Muito, muito bÃªbado. Ele estava obcecado com o baÃ§o a noite toda. E entÃ£o ele o aposta.}
+{149}{}{EntÃ£o vocÃª pegou o BAÃ‡O dele?}
 {150}{}{Eu vejo. Bem, eu tenho mais perguntas.}
-{151}{}{Sim. Foi uma dívida. Ele é um homem honrado.}
-{152}{}{Entendo. Eu preciso de mais informações.}
-{153}{}{Você é um bastardo rude e doente, não é?}
+{151}{}{Sim. Foi uma dÃ­vida. Ele Ã© um homem honrado.}
+{152}{}{Entendo. Eu preciso de mais informaÃ§Ãµes.}
+{153}{}{VocÃª Ã© um bastardo rude e doente, nÃ£o Ã©?}
 {154}{}{Direito. Tchau.}
-{155}{}{Você é uma pessoa desonrosa. Eu não quero você na minha loja. Volte outra hora.}
+{155}{}{VocÃª Ã© uma pessoa desonrosa. Eu nÃ£o quero vocÃª na minha loja. Volte outra hora.}
 {156}{}{Seja o que for.}
-{157}{}{Não. Eles vieram do norte e voaram sobre nós, indo para o mar.}
-{158}{}{Além do horizonte? Como diabos eu chego lá?}
-{159}{}{Sim, eles fizeram. Diga-me onde eles estão antes de eu abrir você como uma lata de sardinha.}
-{160}{}{Bem... nenhum dos nossos barcos é capaz de percorrer essa distância. A menos que...}
+{157}{}{NÃ£o. Eles vieram do norte e voaram sobre nÃ³s, indo para o mar.}
+{158}{}{AlÃ©m do horizonte? Como diabos eu chego lÃ¡?}
+{159}{}{Sim, eles fizeram. Diga-me onde eles estÃ£o antes de eu abrir vocÃª como uma lata de sardinha.}
+{160}{}{Bem... nenhum dos nossos barcos Ã© capaz de percorrer essa distÃ¢ncia. A menos que...}
 {161}{}{A menos que...?}
 {162}{}{Obrigado pela "ajuda". Eu vou procurar um conselho de verdade.}
-{163}{}{... a menos que você consiga colocar o velho petroleiro nas docas funcionando. É um navio antigo, mas provavelmente ainda funciona com um pouquinho de trabalho em cima dele. Pergunte aos punks para mais informações.}
-{164}{}{Obrigado. Eu preciso de mais informação.}
+{163}{}{... a menos que vocÃª consiga colocar o velho petroleiro nas docas funcionando. Ã‰ um navio antigo, mas provavelmente ainda funciona com um pouquinho de trabalho em cima dele. Pergunte aos punks para mais informaÃ§Ãµes.}
+{164}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {165}{}{Obrigado. Tchau.}
-{166}{}{Dizem que os Hubologistas conseguiram uma grande quantidade de combustível recentemente. Negocie com eles.}
-{167}{}{Obrigado. Eu preciso de mais informação.}
+{166}{}{Dizem que os Hubologistas conseguiram uma grande quantidade de combustÃ­vel recentemente. Negocie com eles.}
+{167}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {168}{}{Obrigado. Tchau.}
-{169}{}{Você pode tentar alguns dos cientistas Shi no Palácio de Aço. Talvez eles possam ajudá-lo com suas necessidades de combustível.}
-{170}{}{Obrigado. Eu preciso de mais informação.}
+{169}{}{VocÃª pode tentar alguns dos cientistas Shi no PalÃ¡cio de AÃ§o. Talvez eles possam ajudÃ¡-lo com suas necessidades de combustÃ­vel.}
+{170}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {171}{}{Obrigado. Tchau.}
-{172}{}{Você é um inimigo do meu povo. Morra!}
-{173}{}{Você fez bem para o meu pessoal ao matar o AHS-9. Espero poder ajudá-lo de alguma forma.}
-{174}{}{Quem é você?}
+{172}{}{VocÃª Ã© um inimigo do meu povo. Morra!}
+{173}{}{VocÃª fez bem para o meu pessoal ao matar o AHS-9. Espero poder ajudÃ¡-lo de alguma forma.}
+{174}{}{Quem Ã© vocÃª?}
 {175}{}{Estou procurando por algum equipamento.}
-{176}{}{Estou procurando por alguma informação.}
+{176}{}{Estou procurando por alguma informaÃ§Ã£o.}
 {177}{}{Adeus.}
-{178}{}{Você já entregou aos Hubologistas. Não?}
+{178}{}{VocÃª jÃ¡ entregou aos Hubologistas. NÃ£o?}
 {179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
 {180}{}{Ah sim...Tchau}

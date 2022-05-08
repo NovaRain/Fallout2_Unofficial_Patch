@@ -1,23 +1,23 @@
 {100}{}{Ves una computadora PoseidoNet.}
 {101}{}{Ves una computadora PoseidoNet.}
 {102}{}{Ves una computadora PoseidoNet.}
-{103}{}{::bip:: Mal funcionamiento del terminal. Se necesita instalación de CompNav. ::bip::}
+{103}{}{::bip:: Mal funcionamiento del terminal. Se necesita instalaciÃ³n de CompNav. ::bip::}
 {104}{}{[HECHO]}
-{105}{}{Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre un petrolero -PMV Valdez- y el muelle. ¿Orden?}
+{105}{}{Bienvenido a PoseidoNet. Este terminal estÃ¡ limitado a la transmisiÃ³n entre un petrolero -PMV Valdez- y el muelle. Â¿Orden?}
 {106}{}{Adelante.}
 {107}{}{Comprobar estado.}
 {108}{}{Desconectarse.}
-{109}{}{-Depósitos de combustible: Vacíos- -Bodega de carga: Vacía- -Computadora de navegación: No Funcional- -Amarras: Acopladas-}
+{109}{}{-DepÃ³sitos de combustible: VacÃ­os- -Bodega de carga: VacÃ­a- -Computadora de navegaciÃ³n: No Funcional- -Amarras: Acopladas-}
 {110}{}{[VOLVER]}
 {111}{}{Desconectarse.}
-{112}{}{-Depósitos de combustible: Llenos- -Bodega de carga: Vacía- -Computadora de navegación: No Funcional- Amarras: Acopladas-}
+{112}{}{-DepÃ³sitos de combustible: Llenos- -Bodega de carga: VacÃ­a- -Computadora de navegaciÃ³n: No Funcional- Amarras: Acopladas-}
 {113}{}{[VOLVER]}
 {114}{}{Desconectarse.}
-{115}{}{ERROR: Depósitos de combustible vacíos.}
-{116}{}{ERROR: Computadora de navegación no funcional.}
-{117}{}{-Depósitos de combustible: Vacíos- -Bodega de carga: Vacía- -Computadora de navegación: Funcional- -Amarras: Acopladas-}
-{118}{}{-Depósitos de combustible: Llenos- -Bodega de carga: Vacía- -Computadora de navegación: Funcional- -Amarras: Acopladas-}
-{119}{}{Ves una computadora de navegación PoseidoNet.}
-{129}{}{[Activas la secuencia de liberación rápidamente, y los cohetes del barco se alejan del embarcadero].}
+{115}{}{ERROR: DepÃ³sitos de combustible vacÃ­os.}
+{116}{}{ERROR: Computadora de navegaciÃ³n no funcional.}
+{117}{}{-DepÃ³sitos de combustible: VacÃ­os- -Bodega de carga: VacÃ­a- -Computadora de navegaciÃ³n: Funcional- -Amarras: Acopladas-}
+{118}{}{-DepÃ³sitos de combustible: Llenos- -Bodega de carga: VacÃ­a- -Computadora de navegaciÃ³n: Funcional- -Amarras: Acopladas-}
+{119}{}{Ves una computadora de navegaciÃ³n PoseidoNet.}
+{129}{}{[Activas la secuencia de liberaciÃ³n rÃ¡pidamente, y los cohetes del barco se alejan del embarcadero].}
 {130}{}{[HECHO]}
-{131}{}{Computadora de navegación activa.}
+{131}{}{Computadora de navegaciÃ³n activa.}

@@ -4,16 +4,16 @@
 {130}{}{Consigue el G.E.C.K.}
 {140}{}{Encuentra a Vic, el mercader.}
 {200}{}{Libera a Vic de su deuda consiguiendo la radio de su casa en Klamath y pagando a Metzger.}
-{201}{}{Descubre cÛmo Becky puede vender su licor a precio tan bajo.}
-{202}{}{Sabotea la destilerÌa de Becky.}
-{203}{}{ConsÌguele a Smitty la pieza del coche.}
-{204}{}{DevuÈlvele a Anna su medallÛn.}
+{201}{}{Descubre c√≥mo Becky puede vender su licor a precio tan bajo.}
+{202}{}{Sabotea la destiler√≠a de Becky.}
+{203}{}{Cons√≠guele a Smitty la pieza del coche.}
+{204}{}{Devu√©lvele a Anna su medall√≥n.}
 {205}{}{Recoger el dinero de Rebecca de Fred.}
 {206}{}{Conseguir el libro de Rebecca de Derek.}
-{207}{}{EntrÈgale a Smitty un almuerzo de Mam·.}
-{208}{}{Lara quiere saber quÈ hay guardado en la iglesia.}
+{207}{}{Entr√©gale a Smitty un almuerzo de Mam√°.}
+{208}{}{Lara quiere saber qu√© hay guardado en la iglesia.}
 {209}{}{Consigue permiso de Metzger para la guerra de bandas.}
-{210}{}{Encuentra un punto dÈbil en la banda de Tyler que vigila la iglesia.}
+{210}{}{Encuentra un punto d√©bil en la banda de Tyler que vigila la iglesia.}
 {211}{}{Ayuda a Lara a atacar a la banda de Tyler.}
 {300}{}{Reabastece de combustible el alambique.}
 {301}{}{Rescata a Smiley el Trampero.}
@@ -21,83 +21,83 @@
 {303}{}{Robar los brahmines.}
 {304}{}{Mata al Dios Rata.}
 {305}{}{Rescata a Torr.}
-{400}{}{Algo extraÒo ocurre en la granja al nordeste de Modoc. InvestÌgalo e informa a Jo.}
-{401}{}{Cornelius ha perdido su reloj de oro. EncuÈntralo y devuÈlveselo.}
-{402}{}{Farrel quiere que encuentres el reloj de oro de Cornelius. EncuÈntralo y d·selo a Farrel.}
-{403}{}{Jonny ha desaparecido. EncuÈntralo y tr·elo de nuevo a casa con Balthas.}
-{404}{}{Jonny est· en la cueva de los Escorias. Encuentra una forma de devolver a Jonny a casa con Balthas.}
+{400}{}{Algo extra√±o ocurre en la granja al nordeste de Modoc. Invest√≠galo e informa a Jo.}
+{401}{}{Cornelius ha perdido su reloj de oro. Encu√©ntralo y devu√©lveselo.}
+{402}{}{Farrel quiere que encuentres el reloj de oro de Cornelius. Encu√©ntralo y d√°selo a Farrel.}
+{403}{}{Jonny ha desaparecido. Encu√©ntralo y tr√°elo de nuevo a casa con Balthas.}
+{404}{}{Jonny est√° en la cueva de los Escorias. Encuentra una forma de devolver a Jonny a casa con Balthas.}
 {405}{}{Farrel tiene un problema de roedores en su huerto. Elimina la plaga.}
 {406}{}{Entrega el mensaje de los Escorias a Jo en Modoc.}
-{407}{}{Jo sospecha de los Escorias. Encuentra los cuerpos muertos en la Granja Fantasma y averigua quÈ le ha ocurrido a Karl.}
+{407}{}{Jo sospecha de los Escorias. Encuentra los cuerpos muertos en la Granja Fantasma y averigua qu√© le ha ocurrido a Karl.}
 {408}{}{Ve a La Guarida y dile a Karl que puede volver a casa.}
 {409}{}{Guarda los brahmines de Grisham.}
-{500}{}{ConsÌguele un arado al seÒor Smith.}
-{501}{}{Entrega el maletÌn de Moore al seÒor Bishop en Nuevo Reno.}
+{500}{}{Cons√≠guele un arado al se√±or Smith.}
+{501}{}{Entrega el malet√≠n de Moore al se√±or Bishop en Nuevo Reno.}
 {502}{}{Entrega una muestra de Jet al doctor Troy.}
 {503}{}{Resuelve el problema de la central nuclear de Gecko.}
-{504}{}{EntrÈgale el holodisco de Lynette a Westin en la RNC.}
+{504}{}{Entr√©gale el holodisco de Lynette a Westin en la RNC.}
 {505}{}{Rescata a Joshua, el marido de Amanda.}
-{506}{}{EntrÈgale a Lydia 10 cervezas y 10 botellas de licor.}
-{507}{}{EntrÈgale a Valerie unos alicates y una llave inglesa.}
+{506}{}{Entr√©gale a Lydia 10 cervezas y 10 botellas de licor.}
+{507}{}{Entr√©gale a Valerie unos alicates y una llave inglesa.}
 {508}{}{Registra los ocho sectores alrededor de Gecko e informa a Stark.}
 {509}{}{Entra en la RNC e informa a Stark.}
 {600}{}{Resuelve el problema de la central nuclear de Gecko.}
 {601}{}{Repara la central nuclear.}
 {602}{}{Optimiza la central nuclear.}
-{603}{}{Recupera el disco de datos econÛmicos y lo entrega a McClure en Ciudad Refugio.}
-{604}{}{ConsÌguele a Skeeter el super-set de reparaciÛn.}
-{605}{}{ConsÌguele a Skeeter un transformador trif·sico de plasma.}
-{606}{}{Percy te ha pedido que encuentres a Woody el necrÛfago. Busca en La Guarida.}
+{603}{}{Recupera el disco de datos econ√≥micos y lo entrega a McClure en Ciudad Refugio.}
+{604}{}{Cons√≠guele a Skeeter el super-set de reparaci√≥n.}
+{605}{}{Cons√≠guele a Skeeter un transformador trif√°sico de plasma.}
+{606}{}{Percy te ha pedido que encuentres a Woody el necr√≥fago. Busca en La Guarida.}
 {700}{}{}
 {701}{}{Arregla el purificador de aire de la mina.}
 {702}{}{Encuentra a la gente desaparecida para Marcus.}
 {703}{}{Vence a Francis en un pulso.}
-{704}{}{Libera a Manson y Franc de la prisiÛn.}
+{704}{}{Libera a Manson y Franc de la prisi√≥n.}
 {705}{}{Destruye el purificador de aire de la mina.}
-{706}{}{DesvÌa m·s electricidad a la casa de Eric.}
+{706}{}{Desv√≠a m√°s electricidad a la casa de Eric.}
 {800}{}{Recupera tu coche robado.}
 {801}{}{Encuentra al responsable de la muerte de Richard Wright.}
 {802}{}{     Sospechoso: Jeta Jimmy J}
 {803}{}{     Sospechoso: Jules}
-{804}{}{     Sospechoso: PequeÒo Jes˙s Mordino}
+{804}{}{     Sospechoso: Peque√±o Jes√∫s Mordino}
 {805}{}{     Sospechoso: Renesco}
-{806}{}{Encuentra una forma de entrar en el almacÈn Sierra.}
+{806}{}{Encuentra una forma de entrar en el almac√©n Sierra.}
 {807}{}{Persigue a Lloyd, recupera el dinero, y... que sirva de ejemplo.}
 {808}{}{Recauda de Renesco el tributo de Don Salvatore.}
-{809}{}{Ayuda a proteger la transacciÛn secreta.}
+{809}{}{Ayuda a proteger la transacci√≥n secreta.}
 {810}{}{Encuentra algunos bloqueadores de endorfinas para fabricar una cura para el Jet.}
-{811}{}{Destruye la destilerÌa de Wright bajo la estaciÛn de tren.}
+{811}{}{Destruye la destiler√≠a de Wright bajo la estaci√≥n de tren.}
 {812}{}{Asesina a Westin en RNC: que parezca un accidente.}
 {813}{}{Mata a Carlson en la RNC.}
 {814}{}{Lleva 10 revistas 'La Garra de la Gata' a Miss Kitty.}
-{815}{}{Entrega una pistola l·ser a Eldridge.}
-{816}{}{Entrega el paquete de Gran Jes˙s a Ramirez en los Establos.}
+{815}{}{Entrega una pistola l√°ser a Eldridge.}
+{816}{}{Entrega el paquete de Gran Jes√∫s a Ramirez en los Establos.}
 {817}{}{Recauda el tributo de los Hermanos Corsican.}
-{818}{}{Asesina al lÌder de los Salvatore.}
+{818}{}{Asesina al l√≠der de los Salvatore.}
 {900}{}{}
 {1000}{}{}
 {1100}{}{Recupera las piezas/Consigue acceso al Refugio 15.}
 {1101}{}{Mira te ha pedido que te "ocupes" del oficial Jack.}
 {1102}{}{Completa el viaje de los brahmines.}
 {1103}{}{Recupera los papeles del doctor Henry.}
-{1104}{}{Prueba el suero mutagÈnico en un supermutante. Busca en Broken Hills.}
-{1105}{}{Elimina al seÒor Bishop.}
-{1106}{}{EntrÈgale a Lynette el holodisco de Westin en Ciudad Refugio.}
-{1107}{}{ConsÌguele a Vortis el esclavista el mapa de los Rangers de la RNC.}
+{1104}{}{Prueba el suero mutag√©nico en un supermutante. Busca en Broken Hills.}
+{1105}{}{Elimina al se√±or Bishop.}
+{1106}{}{Entr√©gale a Lynette el holodisco de Westin en Ciudad Refugio.}
+{1107}{}{Cons√≠guele a Vortis el esclavista el mapa de los Rangers de la RNC.}
 {1108}{}{Los Rangers te han pedido que liberes a los esclavos del redil de esclavos.}
 {1109}{}{Entrega el informe de campo de los Hubologistas a AHS-9 en San Francisco.}
 {1110}{}{Mata al Hubologista para Merk.}
-{1111}{}{DetÈn los ataques contra los brahmines.}
+{1111}{}{Det√©n los ataques contra los brahmines.}
 {1200}{}{Repara la computadora del Refugio 13.}
 {1201}{}{Habla con Goris.}
 {1300}{}{}
-{1400}{}{Encuentra el chip de excavaciÛn.}
+{1400}{}{Encuentra el chip de excavaci√≥n.}
 {1401}{}{Pon fin a la pelea del bar.}
-{1402}{}{Averigua quien rajÛ a la prostituta.}
+{1402}{}{Averigua quien raj√≥ a la prostituta.}
 {1403}{}{Mata a Rana Morton.}
 {1500}{}{El petrolero necesita combustible.}
-{1501}{}{La computadora de navegaciÛn necesita un circuito CompNav.}
-{1502}{}{Se necesita un FOB para acceder a la computadora de navegaciÛn.}
+{1501}{}{La computadora de navegaci√≥n necesita un circuito CompNav.}
+{1502}{}{Se necesita un FOB para acceder a la computadora de navegaci√≥n.}
 {1503}{}{Mata al Emperador Shi.}
 {1504}{}{Los Hubologistas necesitan los planos de un vertibird de Navarro.}
 {1505}{}{Roba los planos del vertibird de los Shi.}
@@ -107,12 +107,12 @@
 {1509}{}{Los Shi necesitan los planos de un Vertibird de Navarro.}
 {1510}{}{Roba los planos del vertibird de los Hubologistas.}
 {1511}{}{Encuentra a la novia de Badger en la bodega del barco.}
-{1512}{}{El DragÛn quiere que te encargues de Lo Pan... cara a cara.}
-{1513}{}{Lo Pan quiere que te encargues de El DragÛn... cara a cara, si es posible.}
+{1512}{}{El Drag√≥n quiere que te encargues de Lo Pan... cara a cara.}
+{1513}{}{Lo Pan quiere que te encargues de El Drag√≥n... cara a cara, si es posible.}
 {1514}{}{Recupera el bazo de Chip.}
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
-{1516}{}{ConsÌguele a la Hermandad del Acero los planos del vertibird.}
-{1600}{}{Enc·rgate de la Garra mortal.}
+{1516}{}{Cons√≠guele a la Hermandad del Acero los planos del vertibird.}
+{1600}{}{Enc√°rgate de la Garra mortal.}
 {1601}{}{Repara a K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}
@@ -133,4 +133,4 @@
 {3200}{}{Rescata a Chrissy.}
 {3201}{}{Mata a Darion.}
 {3202}{}{Completa el acuerdo con la RNC.}
-{3203}{}{Dale el holodisco del espÌa a las autoridades de la RNC.}
+{3203}{}{Dale el holodisco del esp√≠a a las autoridades de la RNC.}

@@ -1,35 +1,35 @@
-{100}{}{Armes légères}
+{100}{}{Armes lÃ©gÃ¨res}
 {101}{}{Armes lourdes}
-{102}{}{Armes à énergie}
-{103}{}{Corps à corps.}
-{104}{}{Armes de Mêlée}
+{102}{}{Armes Ã  Ã©nergie}
+{103}{}{Corps Ã  corps.}
+{104}{}{Armes de MÃªlÃ©e}
 {105}{}{Projectiles}
 {106}{}{First Aid}
-{107}{}{Médecine}
+{107}{}{MÃ©decine}
 {108}{}{Esquive}
 {109}{}{Crochetage}
 {110}{}{Voleur}
-{111}{}{Pièges}
+{111}{}{PiÃ¨ges}
 {112}{}{Science}
-{113}{}{Réparation}
+{113}{}{RÃ©paration}
 {114}{}{Discours}
 {115}{}{Troc}
 {116}{}{Jeu}
 {117}{}{Vie en plein air}
-{200}{}{Maniement, entretien et connaissance générale des petites armes à feu. - Pistolets, mitraillettes et carabines.}
+{200}{}{Maniement, entretien et connaissance gÃ©nÃ©rale des petites armes Ã  feu. - Pistolets, mitraillettes et carabines.}
 {201}{}{Fonctionnement et entretien de l'armement lourd. - Mini-canons, lance-roquettes, lance-flammes et autres.}
-{202}{}{Entretien et chargement des armes à énergie. Comment armer et manier des armes utilisant des techniques au laser ou au plasma.}
-{203}{}{Divers arts martiaux, combats de boxe et Corps à Corps. Coups de pieds et coups de poings. Cela inclut les poings américains et les gants.}
-{204}{}{Capacité à combattre avec des armes blanches. Couteaux, massues, lances, matraques, etc.}
-{205}{}{Capacité à lancer des armes à la main, telles que des couteaux, des lances et des grenades.}
-{206}{}{Capacité à pratiquer les premiers soins. Traitement des coupures légères, écorchures et autres maux bénins. La compétence Secourisme permet de guérir des points d'impact plus facilement que par un simple repos.}
-{207}{}{Capacité à traiter les lésions importantes et à soigner les membres estropiés.  Sans cette compétence, la durée d'attente avant de pouvoir retrouver l'usage des membres estropiés est beaucoup plus importante.}
+{202}{}{Entretien et chargement des armes Ã  Ã©nergie. Comment armer et manier des armes utilisant des techniques au laser ou au plasma.}
+{203}{}{Divers arts martiaux, combats de boxe et Corps Ã  Corps. Coups de pieds et coups de poings. Cela inclut les poings amÃ©ricains et les gants.}
+{204}{}{CapacitÃ© Ã  combattre avec des armes blanches. Couteaux, massues, lances, matraques, etc.}
+{205}{}{CapacitÃ© Ã  lancer des armes Ã  la main, telles que des couteaux, des lances et des grenades.}
+{206}{}{CapacitÃ© Ã  pratiquer les premiers soins. Traitement des coupures lÃ©gÃ¨res, Ã©corchures et autres maux bÃ©nins. La compÃ©tence Secourisme permet de guÃ©rir des points d'impact plus facilement que par un simple repos.}
+{207}{}{CapacitÃ© Ã  traiter les lÃ©sions importantes et Ã  soigner les membres estropiÃ©s.  Sans cette compÃ©tence, la durÃ©e d'attente avant de pouvoir retrouver l'usage des membres estropiÃ©s est beaucoup plus importante.}
 {208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
 {209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{Faculté de s'approprier ce qui appartient à autrui. S'applique aux personnes et aux lieux.}
-{211}{}{Capacité à repérer et retirer les pièges posés. Permet également de poser des explosifs.}
-{212}{}{Recouvre diverses compétences scientifiques, notamment en informatique, biologie, physique et géologie.}
-{213}{}{Mise en application de la compétence Science. Réparation des équipements, mécanismes et appareils électroniques endommagés.}
+{210}{}{FacultÃ© de s'approprier ce qui appartient Ã  autrui. S'applique aux personnes et aux lieux.}
+{211}{}{CapacitÃ© Ã  repÃ©rer et retirer les piÃ¨ges posÃ©s. Permet Ã©galement de poser des explosifs.}
+{212}{}{Recouvre diverses compÃ©tences scientifiques, notamment en informatique, biologie, physique et gÃ©ologie.}
+{213}{}{Mise en application de la compÃ©tence Science. RÃ©paration des Ã©quipements, mÃ©canismes et appareils Ã©lectroniques endommagÃ©s.}
 {214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
 {215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
 {216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
@@ -52,44 +52,44 @@
 {315}{}{+ (4 x CR)}
 {316}{}{+ (5 x CH)}
 {317}{}{+ (2 x (EN+IN))}
-{500}{}{Tu guéris %d points d'impact.}
+{500}{}{Tu guÃ©ris %d points d'impact.}
 {501}{}{Tu n'as pas besoin de soins.}
 {502}{}{%s n'a pas besoin de soins.}
-{503}{}{Tu ne parviens pas à guérir.}
-{505}{}{Tu mérites %d PE pour avoir su affiner tes compétences.}
-{510}{}{\nskill_use: compétence utilisée incorrecte.}
+{503}{}{Tu ne parviens pas Ã  guÃ©rir.}
+{505}{}{Tu mÃ©rites %d PE pour avoir su affiner tes compÃ©tences.}
+{510}{}{\nskill_use: compÃ©tence utilisÃ©e incorrecte.}
 {512}{}{On ne peut plus rien pour les morts.}
-{513}{}{Les morts ont droit au repos éternel.}
-{514}{}{Dieu ait son âme ! Il faut se faire une raison.}
+{513}{}{Les morts ont droit au repos Ã©ternel.}
+{514}{}{Dieu ait son Ã¢me ! Il faut se faire une raison.}
 {520}{}{Tu soignes : %s.}
 {521}{}{Tu soignes : %s.}
-{525}{}{Tu n'as pas réussi à soigner : %s.}
-{526}{}{Tu n'as pas réussi à soigner : %s.}
-{530}{}{Oeil crevé}
-{531}{}{bras gauche estropié}
-{532}{}{bras droit estropié}
-{533}{}{jambe droite estropiée}
-{534}{}{jambe gauche estropiée}
-{550}{}{Tu n'as pas réussi à forcer la serrure.}
-{551}{}{Tu n'as réussi à repérer aucun piège.}
+{525}{}{Tu n'as pas rÃ©ussi Ã  soigner : %s.}
+{526}{}{Tu n'as pas rÃ©ussi Ã  soigner : %s.}
+{530}{}{Oeil crevÃ©}
+{531}{}{bras gauche estropiÃ©}
+{532}{}{bras droit estropiÃ©}
+{533}{}{jambe droite estropiÃ©e}
+{534}{}{jambe gauche estropiÃ©e}
+{550}{}{Tu n'as pas rÃ©ussi Ã  forcer la serrure.}
+{551}{}{Tu n'as rÃ©ussi Ã  repÃ©rer aucun piÃ¨ge.}
 {552}{}{Tu n'as rien appris.}
-{553}{}{Réparation impossible.}
+{553}{}{RÃ©paration impossible.}
 {570}{}{Tu t'es fait surprendre en train de voler : %s.}
-{571}{}{Tu as volé : %s.}
-{572}{}{Tu t'es fait surprendre en train de déposer : %s.}
-{573}{}{Tu as déposé : %s.}
+{571}{}{Tu as volÃ© : %s.}
+{572}{}{Tu t'es fait surprendre en train de dÃ©poser : %s.}
+{573}{}{Tu as dÃ©posÃ© : %s.}
 {590}{}{You've taxed your ability with that skill. Wait a while.}
-{591}{}{Tu es à bout de forces.}
+{591}{}{Tu es Ã  bout de forces.}
 {592}{}{Le surmenage, c'est mauvais pour le coeur.}
-{600}{}{Tu ne disposes pas du niveau de compétence permettant de guérir les membres estropiés.}
-{601}{}{L'unité robotique n'est pas réparable.}
+{600}{}{Tu ne disposes pas du niveau de compÃ©tence permettant de guÃ©rir les membres estropiÃ©s.}
+{601}{}{L'unitÃ© robotique n'est pas rÃ©parable.}
 {1000}{}{Laisse-moi t'aider.}
-{1001}{}{Pas de problèmes.}
+{1001}{}{Pas de problÃ¨mes.}
 {1002}{}{Je m'en occupe.}
-{1003}{}{Ca m'a fait plaisir d'être utile.}
+{1003}{}{Ca m'a fait plaisir d'Ãªtre utile.}
 {1004}{}{Ok.}
 {1005}{}{Je vais essayer.}
-{1100}{}{En cas de problème, appelle-moi.}
+{1100}{}{En cas de problÃ¨me, appelle-moi.}
 {1101}{}{Tu t'en charges ?}
 {1102}{}{Bon, si tu veux.}
 {1103}{}{Vas-y, essaie.}

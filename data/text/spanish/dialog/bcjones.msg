@@ -1,69 +1,69 @@
 {100}{}{Ves a un hombre bajito que lleva un libro en las manos.}
 {101}{}{Ves a Doc Jones, el doctor.}
-{102}{}{Ves a un hombre pequeño que lleva un libro titulado "Así que quieres ser Doctor".}
-{103}{}{Hola, soy el doctor Jones. Puedes llamarme Doc. ¿Puedo ayudarte?}
-{104}{}{Tengo pupita. ¿Tú curas?}
-{105}{}{Estoy malito. ¿Tú curas?}
-{106}{}{Falta trozo, ¿tú curas?}
-{107}{}{Hago preguntas. ¿Vale?}
+{102}{}{Ves a un hombre pequeÃ±o que lleva un libro titulado "AsÃ­ que quieres ser Doctor".}
+{103}{}{Hola, soy el doctor Jones. Puedes llamarme Doc. Â¿Puedo ayudarte?}
+{104}{}{Tengo pupita. Â¿TÃº curas?}
+{105}{}{Estoy malito. Â¿TÃº curas?}
+{106}{}{Falta trozo, Â¿tÃº curas?}
+{107}{}{Hago preguntas. Â¿Vale?}
 {108}{}{Siento, yo marcho.}
-{109}{}{Estoy herido. ¿Puedes ayudarme?}
-{110}{}{Me siento enfermo. ¿Puedes ayudarme?}
-{111}{}{Estoy mutilado. ¿Puedes ayudarme?}
-{112}{}{Me gustaría hacerte algunas preguntas.}
-{113}{}{Sólo quería saludar.}
-{114}{}{Sí, claro. Toma, te daremos un poco de esto -te dolerá un poco- ahora una venda, y... ya estás.}
-{115}{}{Agradezco yo. Adiós.}
+{109}{}{Estoy herido. Â¿Puedes ayudarme?}
+{110}{}{Me siento enfermo. Â¿Puedes ayudarme?}
+{111}{}{Estoy mutilado. Â¿Puedes ayudarme?}
+{112}{}{Me gustarÃ­a hacerte algunas preguntas.}
+{113}{}{SÃ³lo querÃ­a saludar.}
+{114}{}{SÃ­, claro. Toma, te daremos un poco de esto -te dolerÃ¡ un poco- ahora una venda, y... ya estÃ¡s.}
+{115}{}{Agradezco yo. AdiÃ³s.}
 {116}{}{Gracias, Doc. Me siento mucho mejor.}
-{117}{}{Sí, seguro. Toma, bébete esto... todo, ya sé que sabe fatal. Ahora, échate en esa cama de ahí y te despertaré por la mañana.}
-{118}{}{Siento bien. Adiós.}
+{117}{}{SÃ­, seguro. Toma, bÃ©bete esto... todo, ya sÃ© que sabe fatal. Ahora, Ã©chate en esa cama de ahÃ­ y te despertarÃ© por la maÃ±ana.}
+{118}{}{Siento bien. AdiÃ³s.}
 {119}{}{Gracias Doc, ya me encuentro bien.}
-{120}{}{Lo siento, pero no tengo las instalaciones apropiadas para realizar una operación quirúrgica. Te sugiero que vayas a unas de las grandes ciudades y veas a un cirujano. Prueba en Ciudad Refugio. Está al norte de aquí.}
-{121}{}{Vale. Adiós.}
+{120}{}{Lo siento, pero no tengo las instalaciones apropiadas para realizar una operaciÃ³n quirÃºrgica. Te sugiero que vayas a unas de las grandes ciudades y veas a un cirujano. Prueba en Ciudad Refugio. EstÃ¡ al norte de aquÃ­.}
+{121}{}{Vale. AdiÃ³s.}
 {122}{}{De acuerdo. Gracias de todos modos.}
-{123}{}{¿Qué es lo que quieres saber?}
-{124}{}{¿Trabajas para Darion?}
-{125}{}{¿Puedes irte si quieres?}
-{126}{}{¿Sabes de Darion?}
-{127}{}{¿Cómo vienes aquí?}
-{128}{}{¿Darion tiene perrito?}
+{123}{}{Â¿QuÃ© es lo que quieres saber?}
+{124}{}{Â¿Trabajas para Darion?}
+{125}{}{Â¿Puedes irte si quieres?}
+{126}{}{Â¿Sabes de Darion?}
+{127}{}{Â¿CÃ³mo vienes aquÃ­?}
+{128}{}{Â¿Darion tiene perrito?}
 {129}{}{Yo irme ahora.}
-{130}{}{¿Trabajas para Darion?}
-{131}{}{¿Puedes marcharte si lo deseas?}
-{132}{}{¿Qué puedes contarme de Darion?}
-{133}{}{¿Cómo llegaste aquí en principio?}
-{134}{}{¿Has mencionado que Darion tiene un perro?}
-{135}{}{Gracias por la información. Me dirigiré afuera.}
-{136}{}{Bueno, sí y no. No lo hago por elección. Soy un prisionero. Darion ya está entrado en años y necesita un médico que le cuide. Los Nuevos Khans me mantienen aquí para sus necesidades. Preferiría estar con la gente de la aldea. Ellos no tienen ningún tipo de asistencia médica, y podría hacer mucho para ayudarles.}
-{137}{}{Vale. Necesito saber más.}
-{138}{}{Gracias. Adiós.}
+{130}{}{Â¿Trabajas para Darion?}
+{131}{}{Â¿Puedes marcharte si lo deseas?}
+{132}{}{Â¿QuÃ© puedes contarme de Darion?}
+{133}{}{Â¿CÃ³mo llegaste aquÃ­ en principio?}
+{134}{}{Â¿Has mencionado que Darion tiene un perro?}
+{135}{}{Gracias por la informaciÃ³n. Me dirigirÃ© afuera.}
+{136}{}{Bueno, sÃ­ y no. No lo hago por elecciÃ³n. Soy un prisionero. Darion ya estÃ¡ entrado en aÃ±os y necesita un mÃ©dico que le cuide. Los Nuevos Khans me mantienen aquÃ­ para sus necesidades. PreferirÃ­a estar con la gente de la aldea. Ellos no tienen ningÃºn tipo de asistencia mÃ©dica, y podrÃ­a hacer mucho para ayudarles.}
+{137}{}{Vale. Necesito saber mÃ¡s.}
+{138}{}{Gracias. AdiÃ³s.}
 {139}{}{Eso dice mucho de ti.}
 {140}{}{Ya veo. Me voy ahora.}
-{141}{}{¡Son okupas! Que se mueran. Sigue con tu vida.}
-{142}{}{No, estoy atrapado aquí. Ni siquiera puedo salir para reponer mis suministros médicos. Darion envía a los suyos a por todo lo que necesito.}
+{141}{}{Â¡Son okupas! Que se mueran. Sigue con tu vida.}
+{142}{}{No, estoy atrapado aquÃ­. Ni siquiera puedo salir para reponer mis suministros mÃ©dicos. Darion envÃ­a a los suyos a por todo lo que necesito.}
 {143}{}{Lo tengo. Marcho ahora.}
-{144}{}{Necesito preguntar más.}
+{144}{}{Necesito preguntar mÃ¡s.}
 {145}{}{Supongo que no eres lo suficientemente digno de confianza como para que te permitan ir libremente.}
 {146}{}{De acuerdo. Lo siento, pero tengo que irme.}
-{147}{}{Siento oír eso.}
-{148}{}{Lo de Darion es algo mental, lisa y llanamente. Tiene más fantasmas en su cabeza que pulgas su perro. Hasta donde he podido averiguar, fue un miembro de otra banda llamada los Khans. Raptaron a una chica, Tandi, y pidieron rescate por ella. Su padre no se lo tomó muy bien y contrató a un mercenario para que la trajera de vuelta. Darion fue el único que salió vivo de ahí.}
+{147}{}{Siento oÃ­r eso.}
+{148}{}{Lo de Darion es algo mental, lisa y llanamente. Tiene mÃ¡s fantasmas en su cabeza que pulgas su perro. Hasta donde he podido averiguar, fue un miembro de otra banda llamada los Khans. Raptaron a una chica, Tandi, y pidieron rescate por ella. Su padre no se lo tomÃ³ muy bien y contratÃ³ a un mercenario para que la trajera de vuelta. Darion fue el Ãºnico que saliÃ³ vivo de ahÃ­.}
 {149}{}{Eh... lo que has dicho.}
 {150}{}{Tengo que ir ahora yo.}
 {151}{}{Oh oh. Bien, me marcho.}
 {152}{}{Caray; estoy impresionado con tu conocimiento.}
 {153}{}{Parece la clase de gente que me gusta.}
-{154}{}{Me secuestraron. Estaba viajando de Ciudad Refugio a Nuevo Reno para unas merecidas vacaciones. Me fui a la cama una noche y la mañana siguiente desperté atado y amordazado. Una semana después, me encontraba aquí. Y aquí he estado desde entonces.}
+{154}{}{Me secuestraron. Estaba viajando de Ciudad Refugio a Nuevo Reno para unas merecidas vacaciones. Me fui a la cama una noche y la maÃ±ana siguiente despertÃ© atado y amordazado. Una semana despuÃ©s, me encontraba aquÃ­. Y aquÃ­ he estado desde entonces.}
 {155}{}{Ugh.}
 {156}{}{Gracias. Marcho ahora.}
-{157}{}{Con frecuencia los débiles suelen ser presa de los fuertes.}
-{158}{}{Siento oír eso.}
+{157}{}{Con frecuencia los dÃ©biles suelen ser presa de los fuertes.}
+{158}{}{Siento oÃ­r eso.}
 {159}{}{Interesante, pero debo irme.}
-{160}{}{Sí, tiene un perro. Personalmente, creo que es la criatura más vil y malvada sobre la faz de la tierra. Pero parece amar a Darion, así que supongo que no puede ser tan malo.}
-{161}{}{Pregunto más.}
-{162}{}{Uh, adiós.}
+{160}{}{SÃ­, tiene un perro. Personalmente, creo que es la criatura mÃ¡s vil y malvada sobre la faz de la tierra. Pero parece amar a Darion, asÃ­ que supongo que no puede ser tan malo.}
+{161}{}{Pregunto mÃ¡s.}
+{162}{}{Uh, adiÃ³s.}
 {163}{}{Ya veo. Bien, gracias por el aviso.}
 {164}{}{Ah. Bien, tengo que irme.}
-{165}{}{No ayudaré a alguien como tú. Márchate.}
-{166}{}{De acuerdo, bien, cuídate y vuelve si necesitas algo.}
+{165}{}{No ayudarÃ© a alguien como tÃº. MÃ¡rchate.}
+{166}{}{De acuerdo, bien, cuÃ­date y vuelve si necesitas algo.}
 {167}{}{Hecho.}
-{168}{}{Ahora está paranoico. Cree que Tandi va tras él. Está obsesionado con la venganza, y quiere a Tandi muerta. Está lleno de remordimientos porque huyó y vivió, en vez de morir con su banda... y la lista sigue y sigue.}
+{168}{}{Ahora estÃ¡ paranoico. Cree que Tandi va tras Ã©l. EstÃ¡ obsesionado con la venganza, y quiere a Tandi muerta. EstÃ¡ lleno de remordimientos porque huyÃ³ y viviÃ³, en vez de morir con su banda... y la lista sigue y sigue.}

@@ -1,33 +1,33 @@
-{100}{}{Widzisz starego mê¿czyznê z dzikim b³yskiem w oku.}
-{101}{}{Widzisz Starego Joe, miejscowego uczonego idiotê.}
-{102}{}{Hej. Dawno ciê nie widzia³em.}
-{103}{}{Czy my siê znamy?}
-{104}{}{O tak. Kopê lat. Co przez ten czas robi³eœ?}
-{105}{}{Racja, tyle lat minê³o. Czym siê teraz zajmujesz?}
-{106}{}{Bywa³o siê tu i tam. Sk¹d mnie znasz?}
-{107}{}{S³uchaj staruchu, nie mam pojêcia kim jesteœ.}
-{108}{}{O tak. Wiesz, krêci³em siê po okolicy, a¿ w koñcu znalaz³em siê w tym przeklêtym miejscu. Nie jak za dawnych czasów, o nie.}
-{109}{}{Ech, stare dobre czasy. Pamiêtasz jak kiedyœ...}
-{110}{}{Nic teraz nie jest takie jak dawniej, o nie. A teraz powiedz mi... co takiego razem zrobiliœmy?}
-{111}{}{Nie pamiêtasz mnie, prawda? Rzeczywiœcie, wygl¹dasz za m³odo.}
-{112}{}{Co chcesz przez to powiedzieæ?}
-{113}{}{A jednak wygl¹dasz tak znajomo. Ach, to pewnie przez ten mój wzrok. Dobrego dnia ¿yczê.}
-{114}{}{Uch, pewnie... mi³ego dnia.}
-{115}{}{Pewnie, nieŸle dokopaliœmy Mistrzowi, prawda? Ale kiedy ciebie zabrak³o, wszystko siê posypa³o. Musia³em siê przeprowadziæ i zmieniæ imiê. A gdzie ciebie ponios³o?}
-{116}{}{Opiekowano siê mn¹ w ma³ej wiosce.}
-{117}{}{Wiesz, lepiej uwa¿aj tutaj na siebie. Nic nie jest takie ³atwe jak kiedyœ. Lepiej dobrze siê pilnuj.}
-{118}{}{Dobra, dziêki.}
-{119}{}{Szuka³em przez jakiœ czas twojej Krypty, ale nigdy jej nie znalaz³em. Masz mo¿e jakieœ ciekawe historie dla swojego starego przyjaciela Iana?}
+{100}{}{Widzisz starego mÄ™Å¼czyznÄ™ z dzikim bÅ‚yskiem w oku.}
+{101}{}{Widzisz Starego Joe, miejscowego uczonego idiotÄ™.}
+{102}{}{Hej. Dawno ciÄ™ nie widziaÅ‚em.}
+{103}{}{Czy my siÄ™ znamy?}
+{104}{}{O tak. KopÄ™ lat. Co przez ten czas robiÅ‚eÅ›?}
+{105}{}{Racja, tyle lat minÄ™Å‚o. Czym siÄ™ teraz zajmujesz?}
+{106}{}{BywaÅ‚o siÄ™ tu i tam. SkÄ…d mnie znasz?}
+{107}{}{SÅ‚uchaj staruchu, nie mam pojÄ™cia kim jesteÅ›.}
+{108}{}{O tak. Wiesz, krÄ™ciÅ‚em siÄ™ po okolicy, aÅ¼ w koÅ„cu znalazÅ‚em siÄ™ w tym przeklÄ™tym miejscu. Nie jak za dawnych czasÃ³w, o nie.}
+{109}{}{Ech, stare dobre czasy. PamiÄ™tasz jak kiedyÅ›...}
+{110}{}{Nic teraz nie jest takie jak dawniej, o nie. A teraz powiedz mi... co takiego razem zrobiliÅ›my?}
+{111}{}{Nie pamiÄ™tasz mnie, prawda? RzeczywiÅ›cie, wyglÄ…dasz za mÅ‚odo.}
+{112}{}{Co chcesz przez to powiedzieÄ‡?}
+{113}{}{A jednak wyglÄ…dasz tak znajomo. Ach, to pewnie przez ten mÃ³j wzrok. Dobrego dnia Å¼yczÄ™.}
+{114}{}{Uch, pewnie... miÅ‚ego dnia.}
+{115}{}{Pewnie, nieÅºle dokopaliÅ›my Mistrzowi, prawda? Ale kiedy ciebie zabrakÅ‚o, wszystko siÄ™ posypaÅ‚o. MusiaÅ‚em siÄ™ przeprowadziÄ‡ i zmieniÄ‡ imiÄ™. A gdzie ciebie poniosÅ‚o?}
+{116}{}{Opiekowano siÄ™ mnÄ… w maÅ‚ej wiosce.}
+{117}{}{Wiesz, lepiej uwaÅ¼aj tutaj na siebie. Nic nie jest takie Å‚atwe jak kiedyÅ›. Lepiej dobrze siÄ™ pilnuj.}
+{118}{}{Dobra, dziÄ™ki.}
+{119}{}{SzukaÅ‚em przez jakiÅ› czas twojej Krypty, ale nigdy jej nie znalazÅ‚em. Masz moÅ¼e jakieÅ› ciekawe historie dla swojego starego przyjaciela Iana?}
 {120}{}{Ian?}
-{121}{}{Ta, Ian. Nie pamiêtasz mnie? To ju¿ tyle lat. Myœla³by kto, ¿e nie zapomnisz swego najlepszego kumpla. No... mo¿e oprócz tego ca³ego strzelania w plecy. Jeszcze raz przepraszam.}
-{122}{}{Przykro mi, ale chyba wzi¹³eœ mnie za Przybysza z Krypty. Moja wioska zosta³a za³o¿ona przez osobê, która pochodzi³a z Krypty.}
-{123}{}{No, teraz to siê trochê lepiej trzyma kupy. Dobrze wiedzieæ, ¿e mój przyjaciel sobie poradzi³. Stary Ian ma dla ciebie radê. Uwa¿aj tu na siebie. To miejsce nie jest takie s³odkie, na jakie wygl¹da. }
-{124}{}{Co tu siê dzieje?}
-{125}{}{Widzisz, Obywatele Kryptopolis bardzo sobie ceni¹ swój rodowód i nie interesuj¹ siê zbytnio takimi jak ja czy ty. WeŸ to. Pomo¿e ci jeœli sprawy wymkn¹ siê spod kontroli. Chyba bêdzie lepiej, ¿eby nikt ciê nie widzia³ jak rozmawiasz ze starym wariatem. Lepiej ju¿ ruszaj.}
-{126}{}{Dziêkujemy za pomoc.}
-{127}{}{Pozwól staruszkowi odpocz¹æ.}
-{128}{}{Takie podobieñstwo...}
+{121}{}{Ta, Ian. Nie pamiÄ™tasz mnie? To juÅ¼ tyle lat. MyÅ›laÅ‚by kto, Å¼e nie zapomnisz swego najlepszego kumpla. No... moÅ¼e oprÃ³cz tego caÅ‚ego strzelania w plecy. Jeszcze raz przepraszam.}
+{122}{}{Przykro mi, ale chyba wziÄ…Å‚eÅ› mnie za Przybysza z Krypty. Moja wioska zostaÅ‚a zaÅ‚oÅ¼ona przez osobÄ™, ktÃ³ra pochodziÅ‚a z Krypty.}
+{123}{}{No, teraz to siÄ™ trochÄ™ lepiej trzyma kupy. Dobrze wiedzieÄ‡, Å¼e mÃ³j przyjaciel sobie poradziÅ‚. Stary Ian ma dla ciebie radÄ™. UwaÅ¼aj tu na siebie. To miejsce nie jest takie sÅ‚odkie, na jakie wyglÄ…da. }
+{124}{}{Co tu siÄ™ dzieje?}
+{125}{}{Widzisz, Obywatele Kryptopolis bardzo sobie ceniÄ… swÃ³j rodowÃ³d i nie interesujÄ… siÄ™ zbytnio takimi jak ja czy ty. WeÅº to. PomoÅ¼e ci jeÅ›li sprawy wymknÄ… siÄ™ spod kontroli. Chyba bÄ™dzie lepiej, Å¼eby nikt ciÄ™ nie widziaÅ‚ jak rozmawiasz ze starym wariatem. Lepiej juÅ¼ ruszaj.}
+{126}{}{DziÄ™kujemy za pomoc.}
+{127}{}{PozwÃ³l staruszkowi odpoczÄ…Ä‡.}
+{128}{}{Takie podobieÅ„stwo...}
 {129}{}{Zostaw mnie teraz samego.}
-{130}{}{Lepiej ju¿ idŸ.}
-{131}{}{Jeœli bêdziemy d³u¿ej rozmawiaæ, ktoœ mo¿e nabraæ podejrzeñ.}
-{132}{}{No ju¿, idŸ. Uczyñ mojego przyjaciela dumnym.}
+{130}{}{Lepiej juÅ¼ idÅº.}
+{131}{}{JeÅ›li bÄ™dziemy dÅ‚uÅ¼ej rozmawiaÄ‡, ktoÅ› moÅ¼e nabraÄ‡ podejrzeÅ„.}
+{132}{}{No juÅ¼, idÅº. UczyÅ„ mojego przyjaciela dumnym.}

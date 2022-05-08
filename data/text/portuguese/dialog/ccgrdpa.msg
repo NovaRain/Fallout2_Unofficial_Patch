@@ -1,45 +1,45 @@
-{100}{}{Você vê um guarda.}
-{101}{}{Você vê um guarda em armadura de poder.}
-{102}{}{Você vê alguém vestindo armadura de energia de um design incomum. Há uma insígnia no peitoral que você não conhece.}
+{100}{}{VocÃª vÃª um guarda.}
+{101}{}{VocÃª vÃª um guarda em armadura de poder.}
+{102}{}{VocÃª vÃª alguÃ©m vestindo armadura de energia de um design incomum. HÃ¡ uma insÃ­gnia no peitoral que vocÃª nÃ£o conhece.}
 {103}{}{Nada a assinalar.}
-{104}{}{Nada de errado comigo, que tal você?}
-{105}{}{Não deveria estar no seu posto, soldado? Não é bom para passear aqui.}
-{106}{}{Você está fora do uniforme.}
-{107}{}{É melhor informar o Sargento e se adequar.}
-{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
-{109}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{104}{}{Nada de errado comigo, que tal vocÃª?}
+{105}{}{NÃ£o deveria estar no seu posto, soldado? NÃ£o Ã© bom para passear aqui.}
+{106}{}{VocÃª estÃ¡ fora do uniforme.}
+{107}{}{Ã‰ melhor informar o Sargento e se adequar.}
+{108}{}{VocÃª estÃ¡ tendo uma grande chance de estar fora de uniforme. Melhor vocÃª informar ao fornecimento.}
+{109}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos!}
 {110}{}{Temos sido infiltrados! Alerta!}
-{111}{}{Vários intrusos! Soar o alarme!}
-{112}{}{Alerta de segurança! Selo de base!}
-{113}{}{Proteja todas as estações! Estamos em alerta!}
-{114}{}{Alerta de intrusão! Vá código vermelho!}
-{115}{}{Nós vamos colocá-lo abaixo!}
+{111}{}{VÃ¡rios intrusos! Soar o alarme!}
+{112}{}{Alerta de seguranÃ§a! Selo de base!}
+{113}{}{Proteja todas as estaÃ§Ãµes! Estamos em alerta!}
+{114}{}{Alerta de intrusÃ£o! VÃ¡ cÃ³digo vermelho!}
+{115}{}{NÃ³s vamos colocÃ¡-lo abaixo!}
 {116}{}{O Enclave vai dominar o mundo!}
-{117}{}{Você morre para que o Enclave sobreviva!}
+{117}{}{VocÃª morre para que o Enclave sobreviva!}
 {200}{}{...imbecil...}
-{201}{}{...sim, é MELHOR você ir embora...}
+{201}{}{...sim, Ã© MELHOR vocÃª ir embora...}
 {202}{}{... o que um caipira marrom...}
 {203}{}{...sim, senhor! fuckin' senhor!...}
-{300}{}{Aguarde lá. O que você acha que está fazendo com essa aeronave? Não há vôos programados por vários dias.}
+{300}{}{Aguarde lÃ¡. O que vocÃª acha que estÃ¡ fazendo com essa aeronave? NÃ£o hÃ¡ vÃ´os programados por vÃ¡rios dias.}
 {301}{}{Nrg?}
 {302}{}{Eu estou ciente disso.}
-{303}{}{Sinto muito. Eu só estava procurando. Eu vou estar indo agora.}
-{304}{}{Houve uma mudança de planos. Eu estou tomando esta aeronave.}
-{310}{}{O que? Oh, eu vejo. Olhe, mas não toque. Tudo bem? Toque novamente e você morre.}
+{303}{}{Sinto muito. Eu sÃ³ estava procurando. Eu vou estar indo agora.}
+{304}{}{Houve uma mudanÃ§a de planos. Eu estou tomando esta aeronave.}
+{310}{}{O que? Oh, eu vejo. Olhe, mas nÃ£o toque. Tudo bem? Toque novamente e vocÃª morre.}
 {311}{}{(Sorriso, em seguida, atacar.)}
 {312}{}{(Ir embora.)}
-{315}{}{Oh merda, parece que nos conseguimos um intruso. Código vermelho! Eu repito, código vermelho!}
-{316}{}{Isso soa como uma boa ideia. Toque a aeronave novamente e eu vou colocar uma bala em sua cabeça.}
-{320}{}{Certo. E, portanto, você é ...}
-{321}{}{Prestes a sair. Desculpe incomodá-lo.}
+{315}{}{Oh merda, parece que nos conseguimos um intruso. CÃ³digo vermelho! Eu repito, cÃ³digo vermelho!}
+{316}{}{Isso soa como uma boa ideia. Toque a aeronave novamente e eu vou colocar uma bala em sua cabeÃ§a.}
+{320}{}{Certo. E, portanto, vocÃª Ã© ...}
+{321}{}{Prestes a sair. Desculpe incomodÃ¡-lo.}
 {322}{}{Para entregar uma mensagem importante para a base principal.}
-{323}{}{Sério? E o que esta mensagem diz.}
-{324}{}{É super secreto. Eu não posso contar a você.}
-{325}{}{Eu vou lhe dizer, mas é absolutamente essencial que você não divulgue essas informações a mais ninguém, por medo de um
-  pânico em massa. Você vê, chamou a atenção para mim que uma das recentes expedições de escravos está infectada com algo desconhecido, e
-  altamente mortal, algum vírus. Eu * devo * chegar à base imediatamente, ou todas as nossas vidas podem ser perdidas. Agora pare de desperdiçar meu tempo,
-  pois não há um momento de sobra.}
-{326}{}{Sim, eu acredito em você. Parece que temos de nós mesmos um intruso...}
+{323}{}{SÃ©rio? E o que esta mensagem diz.}
+{324}{}{Ã‰ super secreto. Eu nÃ£o posso contar a vocÃª.}
+{325}{}{Eu vou lhe dizer, mas Ã© absolutamente essencial que vocÃª nÃ£o divulgue essas informaÃ§Ãµes a mais ninguÃ©m, por medo de um
+Â  pÃ¢nico em massa. VocÃª vÃª, chamou a atenÃ§Ã£o para mim que uma das recentes expediÃ§Ãµes de escravos estÃ¡ infectada com algo desconhecido, e
+Â  altamente mortal, algum vÃ­rus. Eu * devo * chegar Ã  base imediatamente, ou todas as nossas vidas podem ser perdidas. Agora pare de desperdiÃ§ar meu tempo,
+Â  pois nÃ£o hÃ¡ um momento de sobra.}
+{326}{}{Sim, eu acredito em vocÃª. Parece que temos de nÃ³s mesmos um intruso...}
 {327}{}{Droga! Ah, seja o que for. Nunca me dizem nada por aqui. Bem. Esteja a caminho.}
-{328}{}{Woah, isso parece ruim. É melhor você se mandar, então, não quero essa merda em minhas mãos. Ah, e não se preocupe, não vou contar a ninguém.}
+{328}{}{Woah, isso parece ruim. Ã‰ melhor vocÃª se mandar, entÃ£o, nÃ£o quero essa merda em minhas mÃ£os. Ah, e nÃ£o se preocupe, nÃ£o vou contar a ninguÃ©m.}
 {329}{}{[FEITO]}

@@ -1,5 +1,5 @@
-{100}{}{Das ist ein kybernetischer Behälter. Es sieht so aus, als könnte man ihn mit den
+{100}{}{Das ist ein kybernetischer BehÃ¤lter. Es sieht so aus, als kÃ¶nnte man ihn mit den
  richtigen Ersatzteilen reparieren.}
 {101}{}{Du tauschst den defekten Motivator aus.}
-{102}{}{Du schließt das Gehirn an die Nervenschnittstelle des Behälters an.}
-{103}{}{Die Behälter für das Bio-Gel sind nun voll.}
+{102}{}{Du schlieÃŸt das Gehirn an die Nervenschnittstelle des BehÃ¤lters an.}
+{103}{}{Die BehÃ¤lter fÃ¼r das Bio-Gel sind nun voll.}

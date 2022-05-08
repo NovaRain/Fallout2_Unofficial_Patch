@@ -1,7 +1,7 @@
-{100}{}{Widzisz du¿ego oprycha.}
+{100}{}{Widzisz duÅ¼ego oprycha.}
 {101}{}{Widzisz Rico.}
-{150}{}{Widzisz ogromnego mê¿czyznê o nieprzyjaznym wyrazie twarzy. Wygl¹da jakby na œniadanie jada³ gwoŸdzie.}
-{151}{}{Widzisz Rico, ochroniarza Monty'ego. Wygl¹da jakby na œniadanie jada³ gwoŸdzie.}
+{150}{}{Widzisz ogromnego mÄ™Å¼czyznÄ™ o nieprzyjaznym wyrazie twarzy. WyglÄ…da jakby na Å›niadanie jadaÅ‚ gwoÅºdzie.}
+{151}{}{Widzisz Rico, ochroniarza Monty'ego. WyglÄ…da jakby na Å›niadanie jadaÅ‚ gwoÅºdzie.}
 {175}{}{Harggg}
 {176}{}{Hnrfff}
 {177}{}{Snffff}
@@ -10,17 +10,17 @@
 {180}{}{Oog}
 {200}{}{Ja kumpel Monte. TY kumpel Monte?}
 {201}{}{Me hit people Monte tell me to.}
-{202}{}{Ja biæ ludzia.}
-{203}{}{Ja biæ ludzia pi¹œæmi jak graæ na bêben.}
-{204}{}{Ja lubi biæ.}
-{205}{}{::Szczerzy siê w bezzêbnym uœmiechu::}
-{206}{}{::Drapie siê::}
-{207}{}{::Napina miêœnie::}
+{202}{}{Ja biÄ‡ ludzia.}
+{203}{}{Ja biÄ‡ ludzia piÄ…Å›Ä‡mi jak graÄ‡ na bÄ™ben.}
+{204}{}{Ja lubi biÄ‡.}
+{205}{}{::Szczerzy siÄ™ w bezzÄ™bnym uÅ›miechu::}
+{206}{}{::Drapie siÄ™::}
+{207}{}{::Napina miÄ™Å›nie::}
 {208}{}{Wrrr}
 {209}{}{Wrrr - Wrrr.}
-{210}{}{Ja nie chce rozmawiaæ.}
+{210}{}{Ja nie chce rozmawiaÄ‡.}
 {211}{}{Yoo smell guuud.}
-{212}{}{Tyy pachnieæ jak mama.}
-{213}{}{Tyy s³odka. Ja ty nie biæ.}
+{212}{}{Tyy pachnieÄ‡ jak mama.}
+{213}{}{Tyy sÅ‚odka. Ja ty nie biÄ‡.}
 {214}{}{Yoo make me blush.}
 {215}{}{Uuuch... ja Rico...}

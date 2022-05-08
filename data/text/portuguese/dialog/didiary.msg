@@ -1,4 +1,4 @@
-{100}{}{Você vê um velho diário.}
+{100}{}{VocÃª vÃª um velho diÃ¡rio.}
 {101}{}{The old diary is too frail to keep handling. The information has been
  downloaded into the Pip-Boy.}
-{102}{}{O diário é armazenado no Pip-Boy.}
+{102}{}{O diÃ¡rio Ã© armazenado no Pip-Boy.}

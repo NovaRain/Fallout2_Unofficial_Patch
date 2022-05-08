@@ -1,67 +1,67 @@
-{100}{}{Widzisz niskiego, okr¹g³ego Shi.}
+{100}{}{Widzisz niskiego, okrÄ…gÅ‚ego Shi.}
 {101}{}{Widzisz dr Wonga Yi Tze.}
-{102}{}{Widzisz niskiego, okr¹g³ego Shi.}
-{103}{}{Czy mogê ci w czymœ pomóc?}
+{102}{}{Widzisz niskiego, okrÄ…gÅ‚ego Shi.}
+{103}{}{Czy mogÄ™ ci w czymÅ› pomÃ³c?}
 {104}{}{Dagi nu?}
 {105}{}{Ty kto?}
-{106}{}{Podobno posiadasz cudz¹ œledzionê.}
-{107}{}{Kim jesteœ?}
-{108}{}{Czym siê tutaj zajmujesz?}
-{109}{}{Nie, dziêki. To wszystko.}
-{110}{}{Muszê przyznaæ, ¿e nie mówiê w twoim jêzyku. Mo¿esz spróbuj porozmawiaæ z Kenem Lee, on zna wiele ró¿nych jêzyków.}
+{106}{}{Podobno posiadasz cudzÄ… Å›ledzionÄ™.}
+{107}{}{Kim jesteÅ›?}
+{108}{}{Czym siÄ™ tutaj zajmujesz?}
+{109}{}{Nie, dziÄ™ki. To wszystko.}
+{110}{}{MuszÄ™ przyznaÄ‡, Å¼e nie mÃ³wiÄ™ w twoim jÄ™zyku. MoÅ¼esz sprÃ³buj porozmawiaÄ‡ z Kenem Lee, on zna wiele rÃ³Å¼nych jÄ™zykÃ³w.}
 {111}{}{Aag!}
-{112}{}{Jestem dr Wong. Jestem szefem tej placówki.}
-{113}{}{Jeszcze kilka pytañ, proszê.}
-{114}{}{Dziêki. Na razie.}
-{115}{}{Nadzorujê eksperymenty naukowe, które tu tworzymy i przeprowadzamy. Jestem te¿ odpowiedzialny za sieæ komputerow¹.}
+{112}{}{Jestem dr Wong. Jestem szefem tej placÃ³wki.}
+{113}{}{Jeszcze kilka pytaÅ„, proszÄ™.}
+{114}{}{DziÄ™ki. Na razie.}
+{115}{}{NadzorujÄ™ eksperymenty naukowe, ktÃ³re tu tworzymy i przeprowadzamy. Jestem teÅ¼ odpowiedzialny za sieÄ‡ komputerowÄ….}
 {116}{}{Co planujecie?}
-{117}{}{Jak dostaæ siê do sieci komputerowej?}
+{117}{}{Jak dostaÄ‡ siÄ™ do sieci komputerowej?}
 {118}{}{Mam inne pytania.}
 {119}{}{Rozumiem. Do zobaczenia.}
-{120}{}{Ach, ale je¿eli zdradzê ci nasze plany, to wszyscy je bêd¹ znali. Obawiam siê, ¿e na razie s¹ one tajne.}
-{121}{}{W porz¹dku, nie ma sprawy. Mam inne pytania.}
-{122}{}{Dziêki. Na razie.}
-{123}{}{A co, je¿eli przy³o¿ê ci pistolet do g³owy i zmuszê do mówienia?}
-{124}{}{Có¿, albo ucz¹c siê, jak siê tam w³amaæ, albo zaprzyjaŸniaj¹c siê z jednym z moich podw³adnych. Oczywiœcie ¿artujê na temat tego w³amywania siê - w takim wypadku musia³bym kogoœ za tob¹ wys³aæ, ¿eby ciê zabi³. [Uœmiecha siê, aby pokazaæ, ¿e nie chcia³ ciê obraziæ]}
-{125}{}{Naprawdê byœ mnie zabi³?}
-{126}{}{A wiêc nie mia³byœ ¿adnych wiêkszych obiekcji, gdyby ktoœ, np. ja, zajrza³ do komputera?}
+{120}{}{Ach, ale jeÅ¼eli zdradzÄ™ ci nasze plany, to wszyscy je bÄ™dÄ… znali. Obawiam siÄ™, Å¼e na razie sÄ… one tajne.}
+{121}{}{W porzÄ…dku, nie ma sprawy. Mam inne pytania.}
+{122}{}{DziÄ™ki. Na razie.}
+{123}{}{A co, jeÅ¼eli przyÅ‚oÅ¼Ä™ ci pistolet do gÅ‚owy i zmuszÄ™ do mÃ³wienia?}
+{124}{}{CÃ³Å¼, albo uczÄ…c siÄ™, jak siÄ™ tam wÅ‚amaÄ‡, albo zaprzyjaÅºniajÄ…c siÄ™ z jednym z moich podwÅ‚adnych. OczywiÅ›cie Å¼artujÄ™ na temat tego wÅ‚amywania siÄ™ - w takim wypadku musiaÅ‚bym kogoÅ› za tobÄ… wysÅ‚aÄ‡, Å¼eby ciÄ™ zabiÅ‚. [UÅ›miecha siÄ™, aby pokazaÄ‡, Å¼e nie chciaÅ‚ ciÄ™ obraziÄ‡]}
+{125}{}{NaprawdÄ™ byÅ› mnie zabiÅ‚?}
+{126}{}{A wiÄ™c nie miaÅ‚byÅ› Å¼adnych wiÄ™kszych obiekcji, gdyby ktoÅ›, np. ja, zajrzaÅ‚ do komputera?}
 {127}{}{Mam inne pytanie.}
-{128}{}{Oczywiœcie. Na razie.}
-{129}{}{Wtedy musia³bym uznaæ to za zagro¿enie i ostrzec ciê, ¿e takie dzia³anie mo¿e byæ niebezpieczne dla twojego zdrowia.}
-{130}{}{SprawdŸmy to.}
-{131}{}{To by³ tylko ¿art. Mam inne pytania.}
-{132}{}{[Uœmiecha siê] Musimy broniæ naszego honoru, lao wai.}
-{133}{}{Yy, jasne. A wiêc mia³byœ jakieœ wiêksze obiekcje, gdyby ktoœ, np. ja, zajrza³ do komputera?}
+{128}{}{OczywiÅ›cie. Na razie.}
+{129}{}{Wtedy musiaÅ‚bym uznaÄ‡ to za zagroÅ¼enie i ostrzec ciÄ™, Å¼e takie dziaÅ‚anie moÅ¼e byÄ‡ niebezpieczne dla twojego zdrowia.}
+{130}{}{SprawdÅºmy to.}
+{131}{}{To byÅ‚ tylko Å¼art. Mam inne pytania.}
+{132}{}{[UÅ›miecha siÄ™] Musimy broniÄ‡ naszego honoru, lao wai.}
+{133}{}{Yy, jasne. A wiÄ™c miaÅ‚byÅ› jakieÅ› wiÄ™ksze obiekcje, gdyby ktoÅ›, np. ja, zajrzaÅ‚ do komputera?}
 {134}{}{Jaaasne. Mam inne pytania.}
-{135}{}{Nie w¹tpiê. Na razie.}
-{136}{}{Je¿eli przekonasz do tego moich podw³adnych. Ale ja na pewno nie.}
-{137}{}{A co gdyby tak nagle pod twoim nosem pojawi³a siê spluwa?}
-{138}{}{Wspaniale. Có¿, mam inne pytania.}
-{139}{}{Hmm. Rozumiem. Có¿, do zobaczenia.}
-{140}{}{Ach, tak! Dok³adnie. Przygotujê j¹ sobie z czerwon¹ fasolk¹ i doskona³ym chianti.}
-{141}{}{Wci¹¿ j¹ masz? To dobrze. Chip potrzebuje jej z powrotem.}
-{142}{}{To ludzka œledziona, ty kopniêty draniu!}
-{143}{}{Zdajesz sobie sprawê, ¿e do tego wina powinno siê podawaæ w¹trobê, a nie œledzionê, prawda?}
-{144}{}{Wiesz, to ludzka œledziona.}
-{145}{}{Kto to jest ten Chip? To teraz moja œledziona i zjem j¹ sobie na obiad.}
-{146}{}{Chip to pierwszy w³aœciciel tej œledziony. By³ pijany i sprzeda³ j¹ Lao Chou.}
-{147}{}{Wiesz, potrzebuje jej do prze¿ycia. Pochodzi z jego cia³a.}
-{148}{}{Wiêc mo¿e lepiej, jeœli ciê dla niej zabijê.}
-{149}{}{Umowa to umowa. Nie mo¿e jej dostaæ z powrotem. Przykro mi, ale ubiliœmy interes, wiêc to, ¿e Chip ¿a³uje swojej decyzji nie oznacza wcale, ¿e mo¿e teraz cofaæ dane s³owo.}
+{135}{}{Nie wÄ…tpiÄ™. Na razie.}
+{136}{}{JeÅ¼eli przekonasz do tego moich podwÅ‚adnych. Ale ja na pewno nie.}
+{137}{}{A co gdyby tak nagle pod twoim nosem pojawiÅ‚a siÄ™ spluwa?}
+{138}{}{Wspaniale. CÃ³Å¼, mam inne pytania.}
+{139}{}{Hmm. Rozumiem. CÃ³Å¼, do zobaczenia.}
+{140}{}{Ach, tak! DokÅ‚adnie. PrzygotujÄ™ jÄ… sobie z czerwonÄ… fasolkÄ… i doskonaÅ‚ym chianti.}
+{141}{}{WciÄ…Å¼ jÄ… masz? To dobrze. Chip potrzebuje jej z powrotem.}
+{142}{}{To ludzka Å›ledziona, ty kopniÄ™ty draniu!}
+{143}{}{Zdajesz sobie sprawÄ™, Å¼e do tego wina powinno siÄ™ podawaÄ‡ wÄ…trobÄ™, a nie Å›ledzionÄ™, prawda?}
+{144}{}{Wiesz, to ludzka Å›ledziona.}
+{145}{}{Kto to jest ten Chip? To teraz moja Å›ledziona i zjem jÄ… sobie na obiad.}
+{146}{}{Chip to pierwszy wÅ‚aÅ›ciciel tej Å›ledziony. ByÅ‚ pijany i sprzedaÅ‚ jÄ… Lao Chou.}
+{147}{}{Wiesz, potrzebuje jej do przeÅ¼ycia. Pochodzi z jego ciaÅ‚a.}
+{148}{}{WiÄ™c moÅ¼e lepiej, jeÅ›li ciÄ™ dla niej zabijÄ™.}
+{149}{}{Umowa to umowa. Nie moÅ¼e jej dostaÄ‡ z powrotem. Przykro mi, ale ubiliÅ›my interes, wiÄ™c to, Å¼e Chip Å¼aÅ‚uje swojej decyzji nie oznacza wcale, Å¼e moÅ¼e teraz cofaÄ‡ dane sÅ‚owo.}
 {150}{}{[KONTYNUUJ]}
-{151}{}{To jest ludzka œledziona? Lao Chou nic mi o tym nie mówi³!}
-{152}{}{Pomimo to, z powodu bezczelnoœci pos³añca, s¹dzê, ¿e dalej bêdê trzyma³ siê ca³oœci umowy. Bêdê na niej eksperymentowa³.}
-{153}{}{Powiedz swojemu przyjacielowi, ¿eby przyszed³ tu w ci¹gu nastêpnego dnia, a ja z chêci¹ mu j¹ zwrócê. Mam tylko nadziejê, ¿e znajdziesz jakiœ sposób na w³o¿enie mu jej z powrotem na czas.}
+{151}{}{To jest ludzka Å›ledziona? Lao Chou nic mi o tym nie mÃ³wiÅ‚!}
+{152}{}{Pomimo to, z powodu bezczelnoÅ›ci posÅ‚aÅ„ca, sÄ…dzÄ™, Å¼e dalej bÄ™dÄ™ trzymaÅ‚ siÄ™ caÅ‚oÅ›ci umowy. BÄ™dÄ™ na niej eksperymentowaÅ‚.}
+{153}{}{Powiedz swojemu przyjacielowi, Å¼eby przyszedÅ‚ tu w ciÄ…gu nastÄ™pnego dnia, a ja z chÄ™ciÄ… mu jÄ… zwrÃ³cÄ™. Mam tylko nadziejÄ™, Å¼e znajdziesz jakiÅ› sposÃ³b na wÅ‚oÅ¼enie mu jej z powrotem na czas.}
 {154}{}{Dobrze.}
-{155}{}{Cha cha! Tak, ja te¿ ogl¹da³em ten stary film. Chwila... chcesz powiedzieæ? Czy chcesz powiedzieæ, ¿e...?}
-{156}{}{Tak, to jest ludzka œledziona}
-{157}{}{W³aœciwie, to nie zgodzi³bym siê na to. Nie uda³o ci siê pokazaæ siebie z dobrej strony. Tak naprawdê, to nawet nie wiem, po co z tob¹ rozmawiam. Dobrego dnia ¿yczê.}
+{155}{}{Cha cha! Tak, ja teÅ¼ oglÄ…daÅ‚em ten stary film. Chwila... chcesz powiedzieÄ‡? Czy chcesz powiedzieÄ‡, Å¼e...?}
+{156}{}{Tak, to jest ludzka Å›ledziona}
+{157}{}{WÅ‚aÅ›ciwie, to nie zgodziÅ‚bym siÄ™ na to. Nie udaÅ‚o ci siÄ™ pokazaÄ‡ siebie z dobrej strony. Tak naprawdÄ™, to nawet nie wiem, po co z tobÄ… rozmawiam. Dobrego dnia Å¼yczÄ™.}
 {158}{}{[dalej]}
-{159}{}{Ratunku! Stra¿e! Intruz lao wai jest tutaj!}
+{159}{}{Ratunku! StraÅ¼e! Intruz lao wai jest tutaj!}
 {160}{}{Masz dla mnie pewne schematy?}
-{161}{}{Ken Lee powiedzia³ mi, aby ci to oddaæ.}
-{162}{}{Tak. A co dostanê w zamian?}
+{161}{}{Ken Lee powiedziaÅ‚ mi, aby ci to oddaÄ‡.}
+{162}{}{Tak. A co dostanÄ™ w zamian?}
 {163}{}{Nie, jeszcze nie.}
-{164}{}{Porozmawiaj z Kenem Lee, a przedyskutuje z tob¹, co siê stanie w twojej przysz³oœci. Dziêkujê ci. Dziêki temu bêdziemy mogli sprawdziæ niektóre z naszych eksperymentalnych danych. Do widzenia.}
-{165}{}{Mam jeszcze tylko kilka pytañ.}
+{164}{}{Porozmawiaj z Kenem Lee, a przedyskutuje z tobÄ…, co siÄ™ stanie w twojej przyszÅ‚oÅ›ci. DziÄ™kujÄ™ ci. DziÄ™ki temu bÄ™dziemy mogli sprawdziÄ‡ niektÃ³re z naszych eksperymentalnych danych. Do widzenia.}
+{165}{}{Mam jeszcze tylko kilka pytaÅ„.}
 {166}{}{Do widzenia.}

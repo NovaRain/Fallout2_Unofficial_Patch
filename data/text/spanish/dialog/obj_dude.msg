@@ -1,10 +1,10 @@
 {100}{}{}
 {101}{}{}
 {110}{}{Tus pies te pican mucho.}
-{120}{}{Te está saliendo un horrible juanete en cada pie.}
-{130}{}{Tus zapatos te aprietan mucho; esos juanetes están realmente hinchados.}
+{120}{}{Te estÃ¡ saliendo un horrible juanete en cada pie.}
+{130}{}{Tus zapatos te aprietan mucho; esos juanetes estÃ¡n realmente hinchados.}
 {140}{}{El asqueroso juanete en cada pie parece haberse convertido en un dedo extra. Pero, al menos, 
- esa persistente comezón ha desaparecido.}
-{141}{}{¡Oh, Dios mío, es Bess!}
+ esa persistente comezÃ³n ha desaparecido.}
+{141}{}{Â¡Oh, Dios mÃ­o, es Bess!}
 {150}{}{Ganas }
 {151}{}{ puntos de experiencia por conseguir el GECK.}

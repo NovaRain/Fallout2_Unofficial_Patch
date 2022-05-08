@@ -1,15 +1,15 @@
-{100}{}{Egy falubélit látsz.}
-{101}{}{Egy falubélit látsz.}
-{102}{}{Helló!}
-{103}{}{Minden jót!}
-{104}{}{Üdvözöllek a falunkban.}
-{105}{}{Szörnyek oltalmaznak minket.}
+{100}{}{Egy falubÃ©lit lÃ¡tsz.}
+{101}{}{Egy falubÃ©lit lÃ¡tsz.}
+{102}{}{HellÃ³!}
+{103}{}{Minden jÃ³t!}
+{104}{}{ÃœdvÃ¶zÃ¶llek a falunkban.}
+{105}{}{SzÃ¶rnyek oltalmaznak minket.}
 {106}{}{Siess vissza!}
-{107}{}{Hamarosan szükségünk lesz a fegyverekre.}
-{108}{}{Helló!}
+{107}{}{Hamarosan szÃ¼ksÃ©gÃ¼nk lesz a fegyverekre.}
+{108}{}{HellÃ³!}
 {109}{}{Menj!}
-{110}{}{Menj vissza oda, ahonnan jöttél!}
+{110}{}{Menj vissza oda, ahonnan jÃ¶ttÃ©l!}
 {111}{}{Menj innen a francba!}
-{112}{}{Most biztonságban vagyunk.}
-{113}{}{Köszönöm!}
-{114}{}{Légy áldott, vándor!}
+{112}{}{Most biztonsÃ¡gban vagyunk.}
+{113}{}{KÃ¶szÃ¶nÃ¶m!}
+{114}{}{LÃ©gy Ã¡ldott, vÃ¡ndor!}

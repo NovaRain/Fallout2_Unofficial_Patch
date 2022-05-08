@@ -1,6 +1,6 @@
-{100}{}{Widzisz Cieñ Który Chodzi.}
-{150}{}{Widzisz silnie umiêœnionego prymitywa z czarnymi szramami pokrywaj¹cymi jego twarz. Obserwuje ciê w milczeniu.}
-{151}{}{Widzisz Cieñ Który Chodzi. Jego twarz jest poznaczona licznymi rytualnymi tatua¿ami.}
-{200}{}{Tylko siê na ciebie w ciszy gapi.}
-{201}{}{W milczeniu obserwuje ciê.}
-{300}{}{Szzzzz... Polujê na k³óliki.}
+{100}{}{Widzisz CieÅ„ KtÃ³ry Chodzi.}
+{150}{}{Widzisz silnie umiÄ™Å›nionego prymitywa z czarnymi szramami pokrywajÄ…cymi jego twarz. Obserwuje ciÄ™ w milczeniu.}
+{151}{}{Widzisz CieÅ„ KtÃ³ry Chodzi. Jego twarz jest poznaczona licznymi rytualnymi tatuaÅ¼ami.}
+{200}{}{Tylko siÄ™ na ciebie w ciszy gapi.}
+{201}{}{W milczeniu obserwuje ciÄ™.}
+{300}{}{Szzzzz... PolujÄ™ na kÅ‚Ã³liki.}

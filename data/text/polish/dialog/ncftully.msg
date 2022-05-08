@@ -1,269 +1,269 @@
 {100}{}{Widzisz Ojca Tully'ego.}
-{150}{}{Widzisz starszego mê¿czyznê w br¹zowych szatach, o pijackich wypiekach na twarzy. Wyglonda na trooochie wcientego.}
-{151}{}{Widzisz Ojca Tully'ego. Chyba waln¹³ sobie dziœ parê g³êbszych.}
-{200}{}{Jezdem przeb³ogos³awiony.}
+{150}{}{Widzisz starszego mÄ™Å¼czyznÄ™ w brÄ…zowych szatach, o pijackich wypiekach na twarzy. Wyglonda na trooochie wcientego.}
+{151}{}{Widzisz Ojca Tully'ego. Chyba walnÄ…Å‚ sobie dziÅ› parÄ™ gÅ‚Ä™bszych.}
+{200}{}{Jezdem przebÅ‚ogosÅ‚awiony.}
 {201}{}{I lud kobiecy winien... winny... wino!}
-{202}{}{Wypêdzê z siebie szatana, choæbym mia³ u-utopiæ go w gorzzzale!}
-{203}{}{Prawdziwe kazanie nie potszebuje s³óf.}
+{202}{}{WypÄ™dzÄ™ z siebie szatana, choÄ‡bym miaÅ‚ u-utopiÄ‡ go w gorzzzale!}
+{203}{}{Prawdziwe kazanie nie potszebuje sÅ‚Ã³f.}
 {204}{}{Spiritus... ach, spiritus.}
-{205}{}{Niech to, zaczynam tszeŸŸwieæ. M-muszê siê napiæ.}
-{206}{}{Acz... Acz... A czemu ziemia siê rusza?!}
-{207}{}{Nic tak nie rozwi¹zuje jêzyka jak... butelka whisky.}
-{208}{}{Piêædziesi¹tka... to wszystko, czego potszebue. No, mo¿e sssetka!}
-{209}{}{Aaaach. Ju¿ od godziny nic nie pi³em...}
-{210}{}{Na trzeŸwo nic z tego nie kapujê...}
-{211}{}{Zdrówko! Pijê za wszystko co œwiête!}
-{220}{}{Chcesz wiedzieæ, co koœció³ myœli o fellatio?}
-{221}{}{Grzech!!! Z³o!!! Eee... co robisz wieczorem?}
-{222}{}{Ladacznica! Córa Koryntu! Eee... cco robisz wieczorem?}
-{225}{}{Jaœœmasz? My siê znamy?}
-{226}{}{Wit-tam... cco Ojczulek Tully mo¿e dla ciebie zrobidŸ... }
+{205}{}{Niech to, zaczynam tszeÅºÅºwieÄ‡. M-muszÄ™ siÄ™ napiÄ‡.}
+{206}{}{Acz... Acz... A czemu ziemia siÄ™ rusza?!}
+{207}{}{Nic tak nie rozwiÄ…zuje jÄ™zyka jak... butelka whisky.}
+{208}{}{PiÄ™Ä‡dziesiÄ…tka... to wszystko, czego potszebue. No, moÅ¼e sssetka!}
+{209}{}{Aaaach. JuÅ¼ od godziny nic nie piÅ‚em...}
+{210}{}{Na trzeÅºwo nic z tego nie kapujÄ™...}
+{211}{}{ZdrÃ³wko! PijÄ™ za wszystko co Å›wiÄ™te!}
+{220}{}{Chcesz wiedzieÄ‡, co koÅ›ciÃ³Å‚ myÅ›li o fellatio?}
+{221}{}{Grzech!!! ZÅ‚o!!! Eee... co robisz wieczorem?}
+{222}{}{Ladacznica! CÃ³ra Koryntu! Eee... cco robisz wieczorem?}
+{225}{}{JaÅ›Å›masz? My siÄ™ znamy?}
+{226}{}{Wit-tam... cco Ojczulek Tully moÅ¼e dla ciebie zrobidÅº... }
 {227}{}{No n-no, tosz to... pogrromca Enklawy, nie? Prrawdziwy bohater!}
 {228}{}{Moja bater}
 {229}{}{Moja pa}
-{230}{}{Walczy³em z Enklaw¹, to fakt. Oni to zaczêli - ja to skoñczy³em. Ale nie zrozum mnie Ÿle, Ojcze. Jestem tylko cz³owiekiem, który próbuje przetrwaæ w tym surowym œwiecie... Nie jestem bohaterem.}
-{231}{}{Walczy³am z Enklaw¹, to fakt. Oni to zaczêli - ja to skoñczy³am. Ale nie zrozum mnie Ÿle, Ojcze. Jestem tylko kobiet¹, która próbuje przetrwaæ w tym surowym œwiecie... Nie jestem bohaterem.}
-{232}{}{Muszê ju¿ iœæ, Ojcze. Mi³o siê z tob¹... rozmawia³o.}
-{235}{}{Jezdeœ BOHATEREM! Mam tu coœ dla ciebie. Na p-pocz¹tku nie wiedzia³em co to, ale thobie siê pewno przyda.}
-{236}{}{Moja weŸmie}
-{237}{}{Moja nie chce... moja chce wyjœæ}
-{238}{}{Œwietnie. Chêtnie przyjmê twój prezent, Ojcze. Eee, o ile jest... przyzwoity.}
-{239}{}{Eee... mo¿e innym razem, Ojczulku. Muszê ju¿ iœæ.}
-{240}{}{(Tully podchodzi do koœcielnej ³awy, wyrywa z siedzenia deskê i wyci¹ga sfatygowan¹ ksi¹¿kê w miêkkiej oprawie.) Prosze ciê bardzo. Troch siê pobrudzi³a, aaale... (Daje ci ksi¹¿kê)}
+{230}{}{WalczyÅ‚em z EnklawÄ…, to fakt. Oni to zaczÄ™li - ja to skoÅ„czyÅ‚em. Ale nie zrozum mnie Åºle, Ojcze. Jestem tylko czÅ‚owiekiem, ktÃ³ry prÃ³buje przetrwaÄ‡ w tym surowym Å›wiecie... Nie jestem bohaterem.}
+{231}{}{WalczyÅ‚am z EnklawÄ…, to fakt. Oni to zaczÄ™li - ja to skoÅ„czyÅ‚am. Ale nie zrozum mnie Åºle, Ojcze. Jestem tylko kobietÄ…, ktÃ³ra prÃ³buje przetrwaÄ‡ w tym surowym Å›wiecie... Nie jestem bohaterem.}
+{232}{}{MuszÄ™ juÅ¼ iÅ›Ä‡, Ojcze. MiÅ‚o siÄ™ z tobÄ…... rozmawiaÅ‚o.}
+{235}{}{JezdeÅ› BOHATEREM! Mam tu coÅ› dla ciebie. Na p-poczÄ…tku nie wiedziaÅ‚em co to, ale thobie siÄ™ pewno przyda.}
+{236}{}{Moja weÅºmie}
+{237}{}{Moja nie chce... moja chce wyjÅ›Ä‡}
+{238}{}{Åšwietnie. ChÄ™tnie przyjmÄ™ twÃ³j prezent, Ojcze. Eee, o ile jest... przyzwoity.}
+{239}{}{Eee... moÅ¼e innym razem, Ojczulku. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{240}{}{(Tully podchodzi do koÅ›cielnej Å‚awy, wyrywa z siedzenia deskÄ™ i wyciÄ…ga sfatygowanÄ… ksiÄ…Å¼kÄ™ w miÄ™kkiej oprawie.) Prosze ciÄ™ bardzo. Troch siÄ™ pobrudziÅ‚a, aaale... (Daje ci ksiÄ…Å¼kÄ™)}
 {241}{}{Dzienk.}
-{242}{}{Dziêki, Ojcze. Eeee... chyba.}
-{245}{}{JESTEŒ bohater! Nalle¿y ci siê. Nie wielu graczy KOÑCZY gry w dzisiejszych czasach, a ty TAK! Jezdem s ciebie dumny. Ca³e NOWE RENO jezt s ciebie dumne.}
+{242}{}{DziÄ™ki, Ojcze. Eeee... chyba.}
+{245}{}{JESTEÅš bohater! NalleÅ¼y ci siÄ™. Nie wielu graczy KOÅƒCZY gry w dzisiejszych czasach, a ty TAK! Jezdem s ciebie dumny. CaÅ‚e NOWE RENO jezt s ciebie dumne.}
 {246}{}{Dzienk, Ojciec. Paaa}
-{247}{}{Dziêki, Ojcze. Uwa¿aj na siebie, dobrze?}
-{250}{}{Wiiitaj, mój synu. Co Ojciec Tully mo¿e dla ciebie zrobiæ w tak piêkn¹ noc?}
-{251}{}{Wiitaj, mój synu. Co Ojciec Tully mo¿e dla ciebie zrobiæ w tak piêkny dzieñ?}
-{252}{}{Hi hi. Ty œmierdzi jak wódka. Ty œmierdzi jak siuœki!}
-{253}{}{Moja lubi pan s³oneczko.}
+{247}{}{DziÄ™ki, Ojcze. UwaÅ¼aj na siebie, dobrze?}
+{250}{}{Wiiitaj, mÃ³j synu. Co Ojciec Tully moÅ¼e dla ciebie zrobiÄ‡ w tak piÄ™knÄ… noc?}
+{251}{}{Wiitaj, mÃ³j synu. Co Ojciec Tully moÅ¼e dla ciebie zrobiÄ‡ w tak piÄ™kny dzieÅ„?}
+{252}{}{Hi hi. Ty Å›mierdzi jak wÃ³dka. Ty Å›mierdzi jak siuÅ›ki!}
+{253}{}{Moja lubi pan sÅ‚oneczko.}
 {254}{}{Branoc!}
-{255}{}{Eee, w zasadzie, to jest dzieñ, Ojcze.}
+{255}{}{Eee, w zasadzie, to jest dzieÅ„, Ojcze.}
 {256}{}{Eee, w zasadzie, to jest noc, Ojcze.}
-{257}{}{Kim jesteœ?}
-{258}{}{Jesteœ pijany?}
-{259}{}{'Ojciec' Tully, co? Udzielasz rozwodów?}
-{261}{}{Mam ze sob¹ trochê gorza³ki, Ojczulku. Mo¿emy chwilê porozmawiaæ...?}
-{262}{}{W niczym. Nie chcê ci przeszkadzaæ.}
-{270}{}{(Obw¹chuje swoje pachy, a potem swoje szaty) A n-niech mnie, rzeczywiœcie trochê mnie czuæ, co? Cholera, Œmierdzê gorza³¹ na milê! Muszê siê umyæ, zzanim wpadnê na Pani¹ Wright...}
-{271}{}{Pa pa, siuœkowy cz³owiek}
-{275}{}{Niech to diabli, musia³em zaspaæ... inaczej bym zauwa¿y³... Cco to ja mia³em?}
-{290}{}{Ojciec Tully, d-do us³ug. Jestem duchowym doradc¹ dobrych lu... eee, ludzi z Nowego Reno.}
-{291}{}{I w tym celu ur¿n¹³eœ siê jak œwinia?}
-{292}{}{Mam parê pytañ odnoœnie Nowego Reno...}
-{295}{}{Rozumiem. Dziêki za rozmowê.}
-{300}{}{Alesz sk¹d! W PSZESZ£OŒCI mia³em pewne... sk³onnoœci do alkoholu, ale Unia WstszemienŸliwoœci pomog³a mi zerwaæ z tym paskudnym na³ogiem!}
+{257}{}{Kim jesteÅ›?}
+{258}{}{JesteÅ› pijany?}
+{259}{}{'Ojciec' Tully, co? Udzielasz rozwodÃ³w?}
+{261}{}{Mam ze sobÄ… trochÄ™ gorzaÅ‚ki, Ojczulku. MoÅ¼emy chwilÄ™ porozmawiaÄ‡...?}
+{262}{}{W niczym. Nie chcÄ™ ci przeszkadzaÄ‡.}
+{270}{}{(ObwÄ…chuje swoje pachy, a potem swoje szaty) A n-niech mnie, rzeczywiÅ›cie trochÄ™ mnie czuÄ‡, co? Cholera, ÅšmierdzÄ™ gorzaÅ‚Ä… na milÄ™! MuszÄ™ siÄ™ umyÄ‡, zzanim wpadnÄ™ na PaniÄ… Wright...}
+{271}{}{Pa pa, siuÅ›kowy czÅ‚owiek}
+{275}{}{Niech to diabli, musiaÅ‚em zaspaÄ‡... inaczej bym zauwaÅ¼yÅ‚... Cco to ja miaÅ‚em?}
+{290}{}{Ojciec Tully, d-do usÅ‚ug. Jestem duchowym doradcÄ… dobrych lu... eee, ludzi z Nowego Reno.}
+{291}{}{I w tym celu urÅ¼nÄ…Å‚eÅ› siÄ™ jak Å›winia?}
+{292}{}{Mam parÄ™ pytaÅ„ odnoÅ›nie Nowego Reno...}
+{295}{}{Rozumiem. DziÄ™ki za rozmowÄ™.}
+{300}{}{Alesz skÄ…d! W PSZESZÅOÅšCI miaÅ‚em pewne... skÅ‚onnoÅ›ci do alkoholu, ale Unia WstszemienÅºliwoÅ›ci pomogÅ‚a mi zerwaÄ‡ z tym paskudnym naÅ‚ogiem!}
 {301}{}{Unia...?}
 {302}{}{Och. Nie wiedz...}
-{303}{}{Zerwaæ z na³o...}
-{305}{}{Unia WstrzemiêŸliwoœci, Pani Wright... jedno i tto samo. Próbuje posprz¹taæ w Nowym Reno. Baardzo mi pomog³a.}
-{306}{}{Naturalnie. Mam jeszcze kilka pytañ...}
-{315}{}{Pchytania, co? Nie znam siê na pchytaniach, ale pytaj œmia³o.}
-{316}{}{S³ysza³eœ cokolwiek o Krypcie 13?}
-{317}{}{Szukam mojego plemienia. Mój lud zosta³ uprowadzony z naszej wioski.}
-{318}{}{Nie znasz siê pewnie na naprawianiu tankowców, co?}
-{319}{}{S³ysza³eœ kiedyœ o Generatorze Ekosystemu Cudownej Krainy?}
-{320}{}{Mo¿esz mi opowiedzieæ o Nowym Reno?}
-{323}{}{Mo¿e wrócê, kiedy ju¿ trochê... wytrzeŸwiejesz.}
+{303}{}{ZerwaÄ‡ z naÅ‚o...}
+{305}{}{Unia WstrzemiÄ™ÅºliwoÅ›ci, Pani Wright... jedno i tto samo. PrÃ³buje posprzÄ…taÄ‡ w Nowym Reno. Baardzo mi pomogÅ‚a.}
+{306}{}{Naturalnie. Mam jeszcze kilka pytaÅ„...}
+{315}{}{Pchytania, co? Nie znam siÄ™ na pchytaniach, ale pytaj Å›miaÅ‚o.}
+{316}{}{SÅ‚yszaÅ‚eÅ› cokolwiek o Krypcie 13?}
+{317}{}{Szukam mojego plemienia. MÃ³j lud zostaÅ‚ uprowadzony z naszej wioski.}
+{318}{}{Nie znasz siÄ™ pewnie na naprawianiu tankowcÃ³w, co?}
+{319}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o Generatorze Ekosystemu Cudownej Krainy?}
+{320}{}{MoÅ¼esz mi opowiedzieÄ‡ o Nowym Reno?}
+{323}{}{MoÅ¼e wrÃ³cÄ™, kiedy juÅ¼ trochÄ™... wytrzeÅºwiejesz.}
 {325}{}{Eee... Reno... jest... no, jest... taa... no, widzisz...}
-{326}{}{Gerantator Systemu? N-nie. Pierwsze s³ysze. E, s³uchaj...}
-{327}{}{Krypta 13, tak? Nie mam bladego... znaczy, na pó³nocny wschód st¹d jest Kryptopolis. Mo¿e tego szukasz, he? Hmmmm... wiesz...}
-{328}{}{Mo¿e £owcy Niewolników? Podobno tak zdobywaj¹ wiêkszoœæ swojego... towaru... eee... s³uchaj...}
-{329}{}{Tankowiec? No, na tankowaniu to siê trochê znam... Ale n-na tankowcach... nie... umm... s³uchaj...}
+{326}{}{Gerantator Systemu? N-nie. Pierwsze sÅ‚ysze. E, sÅ‚uchaj...}
+{327}{}{Krypta 13, tak? Nie mam bladego... znaczy, na pÃ³Å‚nocny wschÃ³d stÄ…d jest Kryptopolis. MoÅ¼e tego szukasz, he? Hmmmm... wiesz...}
+{328}{}{MoÅ¼e Åowcy NiewolnikÃ³w? Podobno tak zdobywajÄ… wiÄ™kszoÅ›Ä‡ swojego... towaru... eee... sÅ‚uchaj...}
+{329}{}{Tankowiec? No, na tankowaniu to siÄ™ trochÄ™ znam... Ale n-na tankowcach... nie... umm... sÅ‚uchaj...}
 {330}{}{Tak...?}
-{335}{}{Daruj, ¿e pytam, ale n-nie masz przypadkiem jakiejœ marnej butelczyny? Potrzebujê do mszy... no i zasch³o mi troszkê w gardle.}
-{336}{}{Jasne. Proszê bardzo.}
-{337}{}{Obawiam siê, ¿e nie.}
-{338}{}{Jeœli chcesz, mogê poszukaæ...}
-{440}{}{Teraz jusz wogle nie pijê, dziêki Pani Wright... niech jej Bóg da zdrowie. Nie wypi³em ani kr-ops, kropelki od... eee, miesi¹ca. A mo¿e od tygodnia? A, diabli tam, nie pamiêtam. }
-{441}{}{Tydzieñ to chyba lekka przesada. S³uchaj, mam kilka pytañ...}
-{442}{}{TrzeŸwy, co? A ile palców tu widzisz?}
-{443}{}{Unia WstrzemiêŸliwoœci?}
+{335}{}{Daruj, Å¼e pytam, ale n-nie masz przypadkiem jakiejÅ› marnej butelczyny? PotrzebujÄ™ do mszy... no i zaschÅ‚o mi troszkÄ™ w gardle.}
+{336}{}{Jasne. ProszÄ™ bardzo.}
+{337}{}{Obawiam siÄ™, Å¼e nie.}
+{338}{}{JeÅ›li chcesz, mogÄ™ poszukaÄ‡...}
+{440}{}{Teraz jusz wogle nie pijÄ™, dziÄ™ki Pani Wright... niech jej BÃ³g da zdrowie. Nie wypiÅ‚em ani kr-ops, kropelki od... eee, miesiÄ…ca. A moÅ¼e od tygodnia? A, diabli tam, nie pamiÄ™tam. }
+{441}{}{TydzieÅ„ to chyba lekka przesada. SÅ‚uchaj, mam kilka pytaÅ„...}
+{442}{}{TrzeÅºwy, co? A ile palcÃ³w tu widzisz?}
+{443}{}{Unia WstrzemiÄ™ÅºliwoÅ›ci?}
 {444}{}{Pani Wright?}
-{445}{}{Mo¿e wrócê, jak ju¿ trochê... och³oniesz.}
-{450}{}{(Tully toczy siê w kierunku urny na datki i przez chwilê gmera w œrodku.) }
-{451}{}{Eee... hmmnn. (Wyci¹ga pust¹ d³oñ) Chyyyba jednak jezdem sp³ukany.}
-{452}{}{Hmnnn. Proszê bardzo... (Podaje ci kilka ¿etonów) B³ogos³awieni niech bêdom biedni. IdŸcie i wydawajcie, g³osi pismo.}
-{453}{}{Mimo to, dziêki Ojczulku. Spróbujê za³atwiæ ci coœ na przep³ukanie gard³a.}
-{454}{}{Dziêki, Ojcze. Wrócê, jak tylko znajdê jakiœ alkohol.}
-{460}{}{Uwa¿aj na jego ¿-¿onê i córkê... Nic dziwnego, ¿e obie wychowa³y siê w dziczy. He-he... no wiesz, w konfesjonale mo¿na siê dowiedzieæ c-ciekawych rzeczy...}
-{461}{}{Czy¿by? A co takiego mówi w konfesjonale pan Bishop?}
-{462}{}{Czy¿by? A co takiego mówi w konfesjonale pani Bishop?}
-{463}{}{A co pani Bishop mówi w konfesjonale? Chyba nie mówi³a ksiêdzu o mnie?!... Eee, to znaczy - nie ma o czym mówiæ, oczywiœcie. To wszystko k³amstwo.}
-{464}{}{Czy¿by? A co mówi w konfesjonale córka Bishopa?}
-{465}{}{A co córka Bishopa mówi w konfesjonale? Mam nadziejê, ¿e nic o mnie... eee, mam nadziejê, ¿e nic z³ego.}
-{466}{}{Domyœlam siê. Mogê ciê jeszcze o coœ zapytaæ, Ojcze?}
-{470}{}{Nieee. Kryptopolis kaza³o mu poca³owaæ siê w zadek. No i... wkrótce potem zaczê³y siê napady na miasto. Szybkie. Brutalne. A tu proszê - Bishop mówi im "MÓG£BYM wam pomóc, gdybyœcie po³¹czyli si³y z Nowym Reno."}
-{471}{}{Hmmm. Co jeszcze mo¿esz mi powiedzieæ o rodzinie Bishopa?}
-{472}{}{A wiêc Bishop bawi siê w szanta¿ystê? Parê najazdów, parê trupów, i Kryptopolis chêtniej spojrzy na przymierze z Nowym Reno. Ma³o wyszukane, ale skuteczne. Co jeszcze mo¿esz mi powiedzieæ o rodzinie Bishopa?}
-{473}{}{Dziwna strategia... Chyba Kryptopolis poszuka sobie innych sojuszników, nim pomyœli o kumaniu siê z Bishopem? Co jeszcze mo¿esz mi powiedzieæ o rodzinie Bishopa?}
-{474}{}{Dziwna strategia... Chyba Kryptopolis poszuka sobie innych sojuszników... jak choæby RNK... nim pomyœli o kumaniu siê z Bishopem. Co jeszcze mo¿esz mi powiedzieæ o rodzinie Bishopa?}
-{475}{}{Mogê ciê jeszcze o coœ zapytaæ, Ojcze?}
-{476}{}{Ciekawe. Dziêki za rozmowê.}
-{480}{}{(Wpatruje siê intensywnie w twoj¹ d³oñ) Szepœæ? A mmo¿e czszy...}
-{481}{}{Brawo. Obydwie odpowiedzi s¹ prawid³owe. Mam jeszcze kilka pytañ...}
-{482}{}{Udzielasz rozwodów?}
-{484}{}{Mo¿e zajrzê do ciebie póŸniej, jak ju¿ wytrzeŸwiejesz.}
-{490}{}{A niech mnie piek³o... jasne, ¿e tak! Reno by³o mekk¹ przysz³ych rozwodników jeszcze przed Wybuchem. }
-{491}{}{To z t¹ œlicznotk¹ chcesz siê rozchajtaæ?}
-{492}{}{To z tym przystojniakiem chcesz siê rozhajtaæ? }
-{493}{}{(Przygl¹da siê wam przez d³u¿sz¹ chwilê. Potem wzrusza ramionami.)}
-{494}{}{W³aœnie tak. Mo¿emy od razu przyst¹piæ do rzeczy?}
-{495}{}{Mo¿e... Jeszcze siê zastanowiê. Mo¿e siê jeszcze odezwê.}
-{500}{}{Có¿, gdzieœ mi wciê³o ksi¹¿eczkê z ca³ym tym owicyalnym be³kotem...}
-{501}{}{W cholerê z ksi¹¿k¹. Masz tu trochê gorza³ki. Mo¿esz improwizowaæ?}
-{502}{}{Masz tu trochê gorza³ki. Mo¿esz improwizowaæ?}
-{503}{}{W cholerê z ksi¹¿k¹. Jeœli przyniosê ci jak¹œ flaszkê, dasz radê coœ wyimprowizowaæ?}
-{504}{}{Jeœli przyniosê ci jak¹œ flaszkê, dasz radê coœ wyimprowizowaæ?}
-{505}{}{No có¿, mo¿e ksi¹¿ka siê jeszcze znajdzie...}
-{510}{}{To by by³o nie w porz¹dku... No, chyba, ¿e wódka by³aby prima sort.}
-{511}{}{Spokojna g³owa. Odezwê siê póŸniej.}
-{512}{}{Coœ siê znajdzie, ale potrzebujê paru ¿etonów.}
-{520}{}{Jasne! Czekaj, tylko walnê sobie na rozgrzewkê... (Opró¿nia butelkê w zastraszaj¹cym tempie) ...D-dobra. Zapraszam was pod pulpit...}
-{521}{}{Proszê za mn¹...}
-{530}{}{Ach. Trudno. Zzapytaæ musia³em... No to... eee... Przepraszam, kim ty w³aœciwie jesteœ?}
-{531}{}{Jeœli chcesz, mogê poszukaæ dla ciebie czegoœ do picia.}
-{540}{}{To ci d-dopiero fantastyczny pomys³! Niech ciê bozia...! Ech... Znam takie miejsce, we wschodniej czêœci miasta, przy starej stacji kolleyowej... gdzie sprzedaj¹ wspania³¹... wodê œwiêcon¹.}
-{541}{}{Œwietnie. Nied³ugo wrócê.}
-{542}{}{Œwietnie. Nied³ugo wrócê. Ale potrzebujê najpierw paru ¿etonów.}
-{550}{}{Jaaasne, jasne... ¿etony, tak, tak... gdzie ja je... (Jego wzrok pada na urnê na datki) Ach! Cz-czemu wczeœniej na to nie wpad³em... Czekaj no chwiluniê...}
-{551}{}{Przygl¹daj siê biernie, jak Ojczulek wyci¹ga pieni¹dze z urny na datki.}
-{552}{}{Eee, niewa¿ne, Ojcze. Ja stawiam.}
-{560}{}{(Ojciec Tully przygl¹da siê z odraz¹... pustej butelce) Nie chcê byæ nieuprzejmy, ale n-nie masz pszypadkiem jeszcze jednej buteleczki tej ambrozji? Od tego gadania zasch³o mi w gardle.}
-{570}{}{Piêknie dziêkujê! (Bierze butelkê, poci¹ga z niej solidnie) Aaach... przepraszam... o czym to ja?}
-{571}{}{Ech... no tak, oczywiœcie! (Bierze butelkê) Z regu³y omijam to œwiñstwo szerokim ³ukiem... (Wypija duszkiem po³owê) ...aaach... uhm, przepraszam, o czym to ja?}
-{572}{}{Ech... cholernie mi³o z twojej strony! (Bierze butelkê) Zazwyczaj tyle nie pijê... (Wychyla duszkiem po³owê) Aaaach... Wybacz, Co to ja mia³em?}
-{573}{}{Rozmawialiœmy o rodzinie Bishopa.}
-{574}{}{Rozmawialiœmy o rodzinie Wrightów.}
-{575}{}{Rozmawialiœmy o rodzinie Mordino.}
-{576}{}{Rozmawialiœmy o rodzinie Salvatore.}
-{578}{}{Rozmawialiœmy o œmierci Richarda Wrighta.}
-{579}{}{Wrócê, kiedy trochê wytrzeŸwiejesz.}
-{590}{}{Hê? A, tak Bishopowie, racja... ¿¹dni w³adzy, to ch-hyba rodzinne. Problem w tym, ¿e John Bishop jest tak poch³oniêty kontrolowaniem WSZYSTKIEGO, ¿e nie troszczy siê ju¿ o sprawy na w³asnym potwo... powtu... podwórku!}
-{591}{}{Na w³asnym podwórku?}
-{600}{}{Có¿, niewiele, ale poza konfesjona³em mo¿na o nim us³yszeæ to i owo. Cwany diabe³. Ma jaja ze stali... a¿ dziwne, ¿e nie brzêcz¹, kiedy chodzi, he he. ¯a³o¿ê siê, ¿e to on sstoi za tymi napadami na Kryptopolis... Znasz tê historiê?}
+{445}{}{MoÅ¼e wrÃ³cÄ™, jak juÅ¼ trochÄ™... ochÅ‚oniesz.}
+{450}{}{(Tully toczy siÄ™ w kierunku urny na datki i przez chwilÄ™ gmera w Å›rodku.) }
+{451}{}{Eee... hmmnn. (WyciÄ…ga pustÄ… dÅ‚oÅ„) Chyyyba jednak jezdem spÅ‚ukany.}
+{452}{}{Hmnnn. ProszÄ™ bardzo... (Podaje ci kilka Å¼etonÃ³w) BÅ‚ogosÅ‚awieni niech bÄ™dom biedni. IdÅºcie i wydawajcie, gÅ‚osi pismo.}
+{453}{}{Mimo to, dziÄ™ki Ojczulku. SprÃ³bujÄ™ zaÅ‚atwiÄ‡ ci coÅ› na przepÅ‚ukanie gardÅ‚a.}
+{454}{}{DziÄ™ki, Ojcze. WrÃ³cÄ™, jak tylko znajdÄ™ jakiÅ› alkohol.}
+{460}{}{UwaÅ¼aj na jego Å¼-Å¼onÄ™ i cÃ³rkÄ™... Nic dziwnego, Å¼e obie wychowaÅ‚y siÄ™ w dziczy. He-he... no wiesz, w konfesjonale moÅ¼na siÄ™ dowiedzieÄ‡ c-ciekawych rzeczy...}
+{461}{}{CzyÅ¼by? A co takiego mÃ³wi w konfesjonale pan Bishop?}
+{462}{}{CzyÅ¼by? A co takiego mÃ³wi w konfesjonale pani Bishop?}
+{463}{}{A co pani Bishop mÃ³wi w konfesjonale? Chyba nie mÃ³wiÅ‚a ksiÄ™dzu o mnie?!... Eee, to znaczy - nie ma o czym mÃ³wiÄ‡, oczywiÅ›cie. To wszystko kÅ‚amstwo.}
+{464}{}{CzyÅ¼by? A co mÃ³wi w konfesjonale cÃ³rka Bishopa?}
+{465}{}{A co cÃ³rka Bishopa mÃ³wi w konfesjonale? Mam nadziejÄ™, Å¼e nic o mnie... eee, mam nadziejÄ™, Å¼e nic zÅ‚ego.}
+{466}{}{DomyÅ›lam siÄ™. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡, Ojcze?}
+{470}{}{Nieee. Kryptopolis kazaÅ‚o mu pocaÅ‚owaÄ‡ siÄ™ w zadek. No i... wkrÃ³tce potem zaczÄ™Å‚y siÄ™ napady na miasto. Szybkie. Brutalne. A tu proszÄ™ - Bishop mÃ³wi im "MÃ“GÅBYM wam pomÃ³c, gdybyÅ›cie poÅ‚Ä…czyli siÅ‚y z Nowym Reno."}
+{471}{}{Hmmm. Co jeszcze moÅ¼esz mi powiedzieÄ‡ o rodzinie Bishopa?}
+{472}{}{A wiÄ™c Bishop bawi siÄ™ w szantaÅ¼ystÄ™? ParÄ™ najazdÃ³w, parÄ™ trupÃ³w, i Kryptopolis chÄ™tniej spojrzy na przymierze z Nowym Reno. MaÅ‚o wyszukane, ale skuteczne. Co jeszcze moÅ¼esz mi powiedzieÄ‡ o rodzinie Bishopa?}
+{473}{}{Dziwna strategia... Chyba Kryptopolis poszuka sobie innych sojusznikÃ³w, nim pomyÅ›li o kumaniu siÄ™ z Bishopem? Co jeszcze moÅ¼esz mi powiedzieÄ‡ o rodzinie Bishopa?}
+{474}{}{Dziwna strategia... Chyba Kryptopolis poszuka sobie innych sojusznikÃ³w... jak choÄ‡by RNK... nim pomyÅ›li o kumaniu siÄ™ z Bishopem. Co jeszcze moÅ¼esz mi powiedzieÄ‡ o rodzinie Bishopa?}
+{475}{}{MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡, Ojcze?}
+{476}{}{Ciekawe. DziÄ™ki za rozmowÄ™.}
+{480}{}{(Wpatruje siÄ™ intensywnie w twojÄ… dÅ‚oÅ„) SzepÅ›Ä‡? A mmoÅ¼e czszy...}
+{481}{}{Brawo. Obydwie odpowiedzi sÄ… prawidÅ‚owe. Mam jeszcze kilka pytaÅ„...}
+{482}{}{Udzielasz rozwodÃ³w?}
+{484}{}{MoÅ¼e zajrzÄ™ do ciebie pÃ³Åºniej, jak juÅ¼ wytrzeÅºwiejesz.}
+{490}{}{A niech mnie piekÅ‚o... jasne, Å¼e tak! Reno byÅ‚o mekkÄ… przyszÅ‚ych rozwodnikÃ³w jeszcze przed Wybuchem. }
+{491}{}{To z tÄ… Å›licznotkÄ… chcesz siÄ™ rozchajtaÄ‡?}
+{492}{}{To z tym przystojniakiem chcesz siÄ™ rozhajtaÄ‡? }
+{493}{}{(PrzyglÄ…da siÄ™ wam przez dÅ‚uÅ¼szÄ… chwilÄ™. Potem wzrusza ramionami.)}
+{494}{}{WÅ‚aÅ›nie tak. MoÅ¼emy od razu przystÄ…piÄ‡ do rzeczy?}
+{495}{}{MoÅ¼e... Jeszcze siÄ™ zastanowiÄ™. MoÅ¼e siÄ™ jeszcze odezwÄ™.}
+{500}{}{CÃ³Å¼, gdzieÅ› mi wciÄ™Å‚o ksiÄ…Å¼eczkÄ™ z caÅ‚ym tym owicyalnym beÅ‚kotem...}
+{501}{}{W cholerÄ™ z ksiÄ…Å¼kÄ…. Masz tu trochÄ™ gorzaÅ‚ki. MoÅ¼esz improwizowaÄ‡?}
+{502}{}{Masz tu trochÄ™ gorzaÅ‚ki. MoÅ¼esz improwizowaÄ‡?}
+{503}{}{W cholerÄ™ z ksiÄ…Å¼kÄ…. JeÅ›li przyniosÄ™ ci jakÄ…Å› flaszkÄ™, dasz radÄ™ coÅ› wyimprowizowaÄ‡?}
+{504}{}{JeÅ›li przyniosÄ™ ci jakÄ…Å› flaszkÄ™, dasz radÄ™ coÅ› wyimprowizowaÄ‡?}
+{505}{}{No cÃ³Å¼, moÅ¼e ksiÄ…Å¼ka siÄ™ jeszcze znajdzie...}
+{510}{}{To by byÅ‚o nie w porzÄ…dku... No, chyba, Å¼e wÃ³dka byÅ‚aby prima sort.}
+{511}{}{Spokojna gÅ‚owa. OdezwÄ™ siÄ™ pÃ³Åºniej.}
+{512}{}{CoÅ› siÄ™ znajdzie, ale potrzebujÄ™ paru Å¼etonÃ³w.}
+{520}{}{Jasne! Czekaj, tylko walnÄ™ sobie na rozgrzewkÄ™... (OprÃ³Å¼nia butelkÄ™ w zastraszajÄ…cym tempie) ...D-dobra. Zapraszam was pod pulpit...}
+{521}{}{ProszÄ™ za mnÄ…...}
+{530}{}{Ach. Trudno. ZzapytaÄ‡ musiaÅ‚em... No to... eee... Przepraszam, kim ty wÅ‚aÅ›ciwie jesteÅ›?}
+{531}{}{JeÅ›li chcesz, mogÄ™ poszukaÄ‡ dla ciebie czegoÅ› do picia.}
+{540}{}{To ci d-dopiero fantastyczny pomysÅ‚! Niech ciÄ™ bozia...! Ech... Znam takie miejsce, we wschodniej czÄ™Å›ci miasta, przy starej stacji kolleyowej... gdzie sprzedajÄ… wspaniaÅ‚Ä…... wodÄ™ Å›wiÄ™conÄ….}
+{541}{}{Åšwietnie. NiedÅ‚ugo wrÃ³cÄ™.}
+{542}{}{Åšwietnie. NiedÅ‚ugo wrÃ³cÄ™. Ale potrzebujÄ™ najpierw paru Å¼etonÃ³w.}
+{550}{}{Jaaasne, jasne... Å¼etony, tak, tak... gdzie ja je... (Jego wzrok pada na urnÄ™ na datki) Ach! Cz-czemu wczeÅ›niej na to nie wpadÅ‚em... Czekaj no chwiluniÄ™...}
+{551}{}{PrzyglÄ…daj siÄ™ biernie, jak Ojczulek wyciÄ…ga pieniÄ…dze z urny na datki.}
+{552}{}{Eee, niewaÅ¼ne, Ojcze. Ja stawiam.}
+{560}{}{(Ojciec Tully przyglÄ…da siÄ™ z odrazÄ…... pustej butelce) Nie chcÄ™ byÄ‡ nieuprzejmy, ale n-nie masz pszypadkiem jeszcze jednej buteleczki tej ambrozji? Od tego gadania zaschÅ‚o mi w gardle.}
+{570}{}{PiÄ™knie dziÄ™kujÄ™! (Bierze butelkÄ™, pociÄ…ga z niej solidnie) Aaach... przepraszam... o czym to ja?}
+{571}{}{Ech... no tak, oczywiÅ›cie! (Bierze butelkÄ™) Z reguÅ‚y omijam to Å›wiÅ„stwo szerokim Å‚ukiem... (Wypija duszkiem poÅ‚owÄ™) ...aaach... uhm, przepraszam, o czym to ja?}
+{572}{}{Ech... cholernie miÅ‚o z twojej strony! (Bierze butelkÄ™) Zazwyczaj tyle nie pijÄ™... (Wychyla duszkiem poÅ‚owÄ™) Aaaach... Wybacz, Co to ja miaÅ‚em?}
+{573}{}{RozmawialiÅ›my o rodzinie Bishopa.}
+{574}{}{RozmawialiÅ›my o rodzinie WrightÃ³w.}
+{575}{}{RozmawialiÅ›my o rodzinie Mordino.}
+{576}{}{RozmawialiÅ›my o rodzinie Salvatore.}
+{578}{}{RozmawialiÅ›my o Å›mierci Richarda Wrighta.}
+{579}{}{WrÃ³cÄ™, kiedy trochÄ™ wytrzeÅºwiejesz.}
+{590}{}{HÄ™? A, tak Bishopowie, racja... Å¼Ä…dni wÅ‚adzy, to ch-hyba rodzinne. Problem w tym, Å¼e John Bishop jest tak pochÅ‚oniÄ™ty kontrolowaniem WSZYSTKIEGO, Å¼e nie troszczy siÄ™ juÅ¼ o sprawy na wÅ‚asnym potwo... powtu... podwÃ³rku!}
+{591}{}{Na wÅ‚asnym podwÃ³rku?}
+{600}{}{CÃ³Å¼, niewiele, ale poza konfesjonaÅ‚em moÅ¼na o nim usÅ‚yszeÄ‡ to i owo. Cwany diabeÅ‚. Ma jaja ze stali... aÅ¼ dziwne, Å¼e nie brzÄ™czÄ…, kiedy chodzi, he he. Å»aÅ‚oÅ¼Ä™ siÄ™, Å¼e to on sstoi za tymi napadami na Kryptopolis... Znasz tÄ™ historiÄ™?}
 {601}{}{Nie.}
 {602}{}{Tak.}
-{603}{}{Ciszej, Ojczulku. Za tak¹ gadkê mo¿na w tym mieœcie oberwaæ kulkê...}
-{604}{}{S³uchaj, mo¿e wrócimy do tej rozmowy, kiedy trochê wytrzeŸwiejesz...}
-{610}{}{(Ignoruje ciê) Widzisz, parê miesiêcy temu, stary Bishop wysy³a karawanê do Kryptoplolis, SUGERUJ¥C ma³¿eñstwo z rozs¹dku pomiêdzy nimi a Nowym Reno.}
+{603}{}{Ciszej, Ojczulku. Za takÄ… gadkÄ™ moÅ¼na w tym mieÅ›cie oberwaÄ‡ kulkÄ™...}
+{604}{}{SÅ‚uchaj, moÅ¼e wrÃ³cimy do tej rozmowy, kiedy trochÄ™ wytrzeÅºwiejesz...}
+{610}{}{(Ignoruje ciÄ™) Widzisz, parÄ™ miesiÄ™cy temu, stary Bishop wysyÅ‚a karawanÄ™ do Kryptoplolis, SUGERUJÄ„C maÅ‚Å¼eÅ„stwo z rozsÄ…dku pomiÄ™dzy nimi a Nowym Reno.}
 {611}{}{I zawarli porozumienie?}
-{612}{}{Zak³adam, ¿e siê jednak nie dogadali?}
-{620}{}{To, czego mo¿na siê spodziewaæ po zaniedbywanej ¿onie o kszta³tach, których widok móg³by uleczyæ umieraj¹cego. G³ównie o zdradach ma³¿eñskich. Kuurdê, wystarczy na ni¹ sspojrzeæ. A niech mnie!}
-{621}{}{Hmm... co jeszcze mo¿esz mi powiedzieæ o Bishopach, Ojcze?}
-{622}{}{W rzeczy samej, niez³a z niej... Znaczy... podobno. Eee, co jeszcze mo¿esz mi powiedzieæ o Bishopach, Ojcze?}
-{623}{}{Er... chyba nie mówi³a, z kim dopuszcza siê tych zdrad, co Ojcze?}
-{625}{}{Zgoda. Có¿, mi³o siê rozmawia³o.}
-{630}{}{Oooch, s-s³odka ma³a Angela? DIABE£ WCIELONY! M-mówiê ci, ta dziewczyna ma diab³a pod spódnic¹! Ci¹gle siê gdzieœ szlaja, króliczy siê z pomocnikami swojego tatusia, i szprycuje siê jetem pod sam sssufit...}
-{631}{}{Króliczy siê z pomocnikami? Ale nie mówi³a z kim konkretnie?}
+{612}{}{ZakÅ‚adam, Å¼e siÄ™ jednak nie dogadali?}
+{620}{}{To, czego moÅ¼na siÄ™ spodziewaÄ‡ po zaniedbywanej Å¼onie o ksztaÅ‚tach, ktÃ³rych widok mÃ³gÅ‚by uleczyÄ‡ umierajÄ…cego. GÅ‚Ã³wnie o zdradach maÅ‚Å¼eÅ„skich. KuurdÄ™, wystarczy na niÄ… sspojrzeÄ‡. A niech mnie!}
+{621}{}{Hmm... co jeszcze moÅ¼esz mi powiedzieÄ‡ o Bishopach, Ojcze?}
+{622}{}{W rzeczy samej, niezÅ‚a z niej... Znaczy... podobno. Eee, co jeszcze moÅ¼esz mi powiedzieÄ‡ o Bishopach, Ojcze?}
+{623}{}{Er... chyba nie mÃ³wiÅ‚a, z kim dopuszcza siÄ™ tych zdrad, co Ojcze?}
+{625}{}{Zgoda. CÃ³Å¼, miÅ‚o siÄ™ rozmawiaÅ‚o.}
+{630}{}{Oooch, s-sÅ‚odka maÅ‚a Angela? DIABEÅ WCIELONY! M-mÃ³wiÄ™ ci, ta dziewczyna ma diabÅ‚a pod spÃ³dnicÄ…! CiÄ…gle siÄ™ gdzieÅ› szlaja, krÃ³liczy siÄ™ z pomocnikami swojego tatusia, i szprycuje siÄ™ jetem pod sam sssufit...}
+{631}{}{KrÃ³liczy siÄ™ z pomocnikami? Ale nie mÃ³wiÅ‚a z kim konkretnie?}
 {632}{}{Jetem?}
-{633}{}{Niez³a rodzinka. Co jeszcze mo¿esz mi powiedzieæ o Bishopach?}
-{634}{}{Mam jeszcze parê pytañ, Ojcze...}
-{635}{}{Có¿, dzieci musz¹ siê wyszumieæ. Dziêkujê za rozmowê.}
-{640}{}{Co? A, oczywiœcie, ¿e mówi³a. Tyle, ¿e ³atwiej w-wymieniæ ludzi, z którymi tego NIE rrrobi³a. Ch-chwali siê tym na l-lewo i na prrawo. Zaraz... jak ty siê n-nazywasz?}
-{641}{}{Uhm, to niewa¿ne... co jeszcze mo¿esz mi powiedzieæ o Bishopach, Ojcze?}
-{642}{}{Ja? Cnotliwi mnisi tacy jak ja nie maj¹ imion. Mam jeszcze kilka pytañ, Ojcze...}
-{643}{}{Ja? Cnotliwe zakonnice takie jak ja nie maj¹ imion. Mam jeszcze kilka pytañ, ojcze...}
-{644}{}{Porozmawiamy póŸniej, Ojcze.}
-{650}{}{Diabelska krew! Szatañski wynalazek! Plugawy wyci¹g z pr¹cia szatana!}
-{651}{}{Rozumiem, ¿e nie przepada Ojciec za Jetem?}
-{652}{}{No tak. Pr¹cie szatana. Mogê ciê jeszcze o coœ zapytaæ, Ojcze?}
-{653}{}{W porz¹dku. Odezwê siê jeszcze. Do zobaczenia.}
-{660}{}{Ten narkotyk zabije nas wszystkich. Nie znam innej u¿ywki... (Poci¹ga z butelki, beka) ...która czyni³aby takie spustoszenie w organizmie... Zzabija cia³o i umys³. Cholerni Mordino...}
-{661}{}{Wspomnia³ Ojciec o Mordino?}
-{663}{}{Radzê Ojcu nieco oszczêdniej ci¹gn¹æ z tego gwinta. ¯egnam.}
-{670}{}{He-he! Wright, co? (Uœmiecha siê, unosi brwi) Powiem ci co nieco o Wrightach... to kombinacja napalonych alkoholików i zatwardzia³ych purytanów, ot co!}
-{671}{}{Czy¿by?}
-{672}{}{Chyba doœæ ju¿ mi powiedzia³eœ. Dziêkujê za rozmowê.}
-{680}{}{Ci Wrightowie mno¿¹ siê jak króliki... Stary Orville Wright chce chyba ponownie zaludniæ ca³y œwiat. Ciekawe, jak d³ugo Pani Wright wytrzyma takie tempo. He-he. A co oni wygaduj¹ w konfesjonale...}
-{681}{}{Czy¿by? Co takiego mówi w konfesjonale pani Wright?}
-{682}{}{Czy¿by? Co takiego mówi w konfesjonale Orville Wright?}
-{683}{}{Jak¹ czêœæ Nowego Reno kontroluje rodzina Wrightów?}
-{684}{}{No tak, za³o¿ê siê, ¿e mówi¹ mnóstwo ciekawych rzeczy. Porozmawiamy o tym przy innej okazji.}
-{690}{}{Ethyl Wright? Wspania³a kobieta! To dziêki niej zerwa³em z gorza³¹. (Poci¹ga z butelki) Potrafi wypêdziæ diab³a z ka¿dego... ehm, ale... o czym to ja?}
+{633}{}{NiezÅ‚a rodzinka. Co jeszcze moÅ¼esz mi powiedzieÄ‡ o Bishopach?}
+{634}{}{Mam jeszcze parÄ™ pytaÅ„, Ojcze...}
+{635}{}{CÃ³Å¼, dzieci muszÄ… siÄ™ wyszumieÄ‡. DziÄ™kujÄ™ za rozmowÄ™.}
+{640}{}{Co? A, oczywiÅ›cie, Å¼e mÃ³wiÅ‚a. Tyle, Å¼e Å‚atwiej w-wymieniÄ‡ ludzi, z ktÃ³rymi tego NIE rrrobiÅ‚a. Ch-chwali siÄ™ tym na l-lewo i na prrawo. Zaraz... jak ty siÄ™ n-nazywasz?}
+{641}{}{Uhm, to niewaÅ¼ne... co jeszcze moÅ¼esz mi powiedzieÄ‡ o Bishopach, Ojcze?}
+{642}{}{Ja? Cnotliwi mnisi tacy jak ja nie majÄ… imion. Mam jeszcze kilka pytaÅ„, Ojcze...}
+{643}{}{Ja? Cnotliwe zakonnice takie jak ja nie majÄ… imion. Mam jeszcze kilka pytaÅ„, ojcze...}
+{644}{}{Porozmawiamy pÃ³Åºniej, Ojcze.}
+{650}{}{Diabelska krew! SzataÅ„ski wynalazek! Plugawy wyciÄ…g z prÄ…cia szatana!}
+{651}{}{Rozumiem, Å¼e nie przepada Ojciec za Jetem?}
+{652}{}{No tak. PrÄ…cie szatana. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡, Ojcze?}
+{653}{}{W porzÄ…dku. OdezwÄ™ siÄ™ jeszcze. Do zobaczenia.}
+{660}{}{Ten narkotyk zabije nas wszystkich. Nie znam innej uÅ¼ywki... (PociÄ…ga z butelki, beka) ...ktÃ³ra czyniÅ‚aby takie spustoszenie w organizmie... Zzabija ciaÅ‚o i umysÅ‚. Cholerni Mordino...}
+{661}{}{WspomniaÅ‚ Ojciec o Mordino?}
+{663}{}{RadzÄ™ Ojcu nieco oszczÄ™dniej ciÄ…gnÄ…Ä‡ z tego gwinta. Å»egnam.}
+{670}{}{He-he! Wright, co? (UÅ›miecha siÄ™, unosi brwi) Powiem ci co nieco o Wrightach... to kombinacja napalonych alkoholikÃ³w i zatwardziaÅ‚ych purytanÃ³w, ot co!}
+{671}{}{CzyÅ¼by?}
+{672}{}{Chyba doÅ›Ä‡ juÅ¼ mi powiedziaÅ‚eÅ›. DziÄ™kujÄ™ za rozmowÄ™.}
+{680}{}{Ci Wrightowie mnoÅ¼Ä… siÄ™ jak krÃ³liki... Stary Orville Wright chce chyba ponownie zaludniÄ‡ caÅ‚y Å›wiat. Ciekawe, jak dÅ‚ugo Pani Wright wytrzyma takie tempo. He-he. A co oni wygadujÄ… w konfesjonale...}
+{681}{}{CzyÅ¼by? Co takiego mÃ³wi w konfesjonale pani Wright?}
+{682}{}{CzyÅ¼by? Co takiego mÃ³wi w konfesjonale Orville Wright?}
+{683}{}{JakÄ… czÄ™Å›Ä‡ Nowego Reno kontroluje rodzina WrightÃ³w?}
+{684}{}{No tak, zaÅ‚oÅ¼Ä™ siÄ™, Å¼e mÃ³wiÄ… mnÃ³stwo ciekawych rzeczy. Porozmawiamy o tym przy innej okazji.}
+{690}{}{Ethyl Wright? WspaniaÅ‚a kobieta! To dziÄ™ki niej zerwaÅ‚em z gorzaÅ‚Ä…. (PociÄ…ga z butelki) Potrafi wypÄ™dziÄ‡ diabÅ‚a z kaÅ¼dego... ehm, ale... o czym to ja?}
 {691}{}{O pani Wright w konfesjonale...}
-{692}{}{Rozmawialiœmy o rodzinie Wrigthów...}
-{693}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{694}{}{O niczym wa¿nym. Dziêki za rozmowê.}
-{700}{}{A, tak, tak. Có¿, uhm, w konfesjonale nie ma za du¿o do powiedzenia. Czujê siê winna œmierci ka¿dego rozdeptanego robala... albo obawia siê, ¿e seks z jej ch³opem sprawia jej zbyt wielk¹ przyjemnoœæ. He-he. (Poci¹ga z butelki) Uwieeelbiam poczucie winy.}
-{701}{}{Mam jeszcze kilka pytañ odnoœnie Wrightów...}
-{702}{}{Rozumiem. Mam kilka innych pytañ...}
-{703}{}{To widaæ. Dziêki za rozmowê.}
-{710}{}{Nasz Orville? Ten to dopiero ma siê z czego spowiadaæ. Pomyœlmy - obieca³ pani Wright zerwaæ z alkoholem, ale na stacji kolejowej za domem ma w³asn¹ rozlewniê! Jak siê stara dowie, spierze go, ¿e ho ho...}
-{711}{}{He he, a tu jest zabawna czêœæ... widzisz, stary pan Wright obieca³ pani Wright, ¿e rzuci w cholerê handel alkoholem, ale na stacji kolejowej za domem ma w³asn¹ rozlewniê! Jak siê stara dowie, spierze go, ¿e ho ho...}
+{692}{}{RozmawialiÅ›my o rodzinie WrigthÃ³w...}
+{693}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{694}{}{O niczym waÅ¼nym. DziÄ™ki za rozmowÄ™.}
+{700}{}{A, tak, tak. CÃ³Å¼, uhm, w konfesjonale nie ma za duÅ¼o do powiedzenia. CzujÄ™ siÄ™ winna Å›mierci kaÅ¼dego rozdeptanego robala... albo obawia siÄ™, Å¼e seks z jej chÅ‚opem sprawia jej zbyt wielkÄ… przyjemnoÅ›Ä‡. He-he. (PociÄ…ga z butelki) Uwieeelbiam poczucie winy.}
+{701}{}{Mam jeszcze kilka pytaÅ„ odnoÅ›nie WrightÃ³w...}
+{702}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{703}{}{To widaÄ‡. DziÄ™ki za rozmowÄ™.}
+{710}{}{Nasz Orville? Ten to dopiero ma siÄ™ z czego spowiadaÄ‡. PomyÅ›lmy - obiecaÅ‚ pani Wright zerwaÄ‡ z alkoholem, ale na stacji kolejowej za domem ma wÅ‚asnÄ… rozlewniÄ™! Jak siÄ™ stara dowie, spierze go, Å¼e ho ho...}
+{711}{}{He he, a tu jest zabawna czÄ™Å›Ä‡... widzisz, stary pan Wright obiecaÅ‚ pani Wright, Å¼e rzuci w cholerÄ™ handel alkoholem, ale na stacji kolejowej za domem ma wÅ‚asnÄ… rozlewniÄ™! Jak siÄ™ stara dowie, spierze go, Å¼e ho ho...}
 {712}{}{Opowiedz mi o pani Wright...}
-{713}{}{Opowiedz mi jeszcze o rodzinie Wrightów...}
-{715}{}{Ukryta rozlewnia na stacji za domem, tak? Bardzo ciekawe, Ojczulku. Dziêki za informacjê.}
-{720}{}{¯-¿adn¹! (Poci¹ga z butelki) To najs³absza z rodzin, bo zajmuj¹ siê tylko gorza³¹. Ledwie wi¹¿¹ koniec z koñcem. Pozosta³e rodziny kupuj¹ od nich wódê z litoœci.}
-{721}{}{Sk¹d pochodzi ten alkohol?}
-{722}{}{To ciekawe. Opowiedz mi coœ jeszcze o Wrightach...}
-{724}{}{To bardzo ciekawe, Ojcze. Dziêkujê za informacje.}
-{730}{}{Mordino? (Pokazuje ci trzy palce) Jest ich dwóch. (Unosi rêkê do góry) Duu¿y Jeezus... (Opuszcza rêkê) ...i Maa³y Jeezus. Ojciec i Syn. Kontroluj¹ handel prochami i ladacznice.}
-{731}{}{Opowiedz mi o Du¿ym Jesusie.}
-{732}{}{Opowiedz mi o Ma³ym Jesusie.}
-{733}{}{Mówisz, ¿e to oni handluj¹ narkotykami i alfonsuj¹ dziwkom?}
-{740}{}{Jesus? To ci dopiero z³y skur... (Poci¹ga z butelki) Handluje niewolnikami, Jetem i dziwkami. To chyba jedyna osoba gorsza od jego synalka.}
+{713}{}{Opowiedz mi jeszcze o rodzinie WrightÃ³w...}
+{715}{}{Ukryta rozlewnia na stacji za domem, tak? Bardzo ciekawe, Ojczulku. DziÄ™ki za informacjÄ™.}
+{720}{}{Å»-Å¼adnÄ…! (PociÄ…ga z butelki) To najsÅ‚absza z rodzin, bo zajmujÄ… siÄ™ tylko gorzaÅ‚Ä…. Ledwie wiÄ…Å¼Ä… koniec z koÅ„cem. PozostaÅ‚e rodziny kupujÄ… od nich wÃ³dÄ™ z litoÅ›ci.}
+{721}{}{SkÄ…d pochodzi ten alkohol?}
+{722}{}{To ciekawe. Opowiedz mi coÅ› jeszcze o Wrightach...}
+{724}{}{To bardzo ciekawe, Ojcze. DziÄ™kujÄ™ za informacje.}
+{730}{}{Mordino? (Pokazuje ci trzy palce) Jest ich dwÃ³ch. (Unosi rÄ™kÄ™ do gÃ³ry) DuuÅ¼y Jeezus... (Opuszcza rÄ™kÄ™) ...i MaaÅ‚y Jeezus. Ojciec i Syn. KontrolujÄ… handel prochami i ladacznice.}
+{731}{}{Opowiedz mi o DuÅ¼ym Jesusie.}
+{732}{}{Opowiedz mi o MaÅ‚ym Jesusie.}
+{733}{}{MÃ³wisz, Å¼e to oni handlujÄ… narkotykami i alfonsujÄ… dziwkom?}
+{740}{}{Jesus? To ci dopiero zÅ‚y skur... (PociÄ…ga z butelki) Handluje niewolnikami, Jetem i dziwkami. To chyba jedyna osoba gorsza od jego synalka.}
 {741}{}{Synalka?}
-{742}{}{A wiêc Jesus Mordino Senior handluje prochami i alfonsuje dziwkom?}
-{743}{}{Co za rodzinka. Mogê ciê jeszcze o coœ zapytaæ?}
-{744}{}{Jaki ojciec, taki syn. Dziêkujê za rozmowê, Ojcze.}
-{750}{}{Ma³y Jezus? Bêkart! Jest jak pijawka, wysysa krew ze swojego starego. Jeœli kiedyœ przejmie po nim schedê, w Nowym Reno rozpêta siê piek³o. M³ody nie da sobie z tym wszystkim rady: prochy, dziwki... wszystko siê rozleci.}
-{752}{}{Mordino handluj¹ narkotykami i alfonsuj¹ dziwkom?}
-{754}{}{Zupe³nie jak ty, za parê minut. Dziêki za rozmowê.}
-{760}{}{(Tully przygl¹da ci siê uwa¿nie) }
-{761}{}{Taak... (Uœmiecha siê, oblizuje) ...dziiiwki... (Zaczyna g³askaæ szyjkê butelki)}
+{742}{}{A wiÄ™c Jesus Mordino Senior handluje prochami i alfonsuje dziwkom?}
+{743}{}{Co za rodzinka. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{744}{}{Jaki ojciec, taki syn. DziÄ™kujÄ™ za rozmowÄ™, Ojcze.}
+{750}{}{MaÅ‚y Jezus? BÄ™kart! Jest jak pijawka, wysysa krew ze swojego starego. JeÅ›li kiedyÅ› przejmie po nim schedÄ™, w Nowym Reno rozpÄ™ta siÄ™ piekÅ‚o. MÅ‚ody nie da sobie z tym wszystkim rady: prochy, dziwki... wszystko siÄ™ rozleci.}
+{752}{}{Mordino handlujÄ… narkotykami i alfonsujÄ… dziwkom?}
+{754}{}{ZupeÅ‚nie jak ty, za parÄ™ minut. DziÄ™ki za rozmowÄ™.}
+{760}{}{(Tully przyglÄ…da ci siÄ™ uwaÅ¼nie) }
+{761}{}{Taak... (UÅ›miecha siÄ™, oblizuje) ...dziiiwki... (Zaczyna gÅ‚askaÄ‡ szyjkÄ™ butelki)}
 {762}{}{Ojcze? A co z tymi narkotykami?}
-{763}{}{Chyba ju¿ sobie pójdê. Dziêki za rozmowê, Ojcze.}
-{770}{}{Hê? Narkotyki... tak, narkotyki. Jet. Przeklêty Jet. Robi¹ z nim straszne rzeczy, potworne... Redding... Stajnie. (Poci¹ga z butelki) Wszystko za z³oto...}
+{763}{}{Chyba juÅ¼ sobie pÃ³jdÄ™. DziÄ™ki za rozmowÄ™, Ojcze.}
+{770}{}{HÄ™? Narkotyki... tak, narkotyki. Jet. PrzeklÄ™ty Jet. RobiÄ… z nim straszne rzeczy, potworne... Redding... Stajnie. (PociÄ…ga z butelki) Wszystko za zÅ‚oto...}
 {772}{}{Co z Redding?}
 {773}{}{Jakie stajnie?}
-{775}{}{Ciekawe. Dziêki za rozmowê, Ojcze.}
-{780}{}{(Przebiera dwoma palcami) Jet opuszcza miasto, trafia do Redding. Z³oto opuszcza Redding, trafia do Mordino. (Poci¹ga z butelki) Górnicy gin¹, Mordino pij¹.}
-{782}{}{Wspomnia³ Ojciec coœ o stajniach?}
-{784}{}{A wiêc Mordino sprzedaj¹ Jet do Redding, tak? Ciekawe. Dziêki, Ojcze.}
-{790}{}{Mordino maj¹... farmê... za miastem. Trzymaj¹ tam niewolników. Testuj¹... na nich... Jet. Niewolnicy padaj¹ jak muchy. (Wzrusza ramionami) Tylko Mordino wiedz¹, gdzie to dok³adnie jest.}
-{792}{}{Wspomnia³ Ojciec o Redding?}
-{794}{}{ Mordinos testuj¹ Jet na niewolnikach, tak? Ciekawe. Dziêki, Ojcze.}
-{800}{}{Mówi³em o Salvatore? (Mruga, wzrusza ramionami, poci¹ga z butelki) Nie wiem, co móg³bym o nich powiedzieæ. Rodzina siedzi cicho jak mysz pod miot³¹. Ale lepiej nie w³aziæ im w drogê... wiesz czemu?}
-{803}{}{Chwilowo mnie to nie obchodzi, Ojczulku. Mogê ciê zapytaæ o coœ innego?}
-{804}{}{S³uchaj, mo¿e wrócimy do tej rozmowy, kiedy trochê wytrzeŸwiejesz...}
-{810}{}{(Chwieje siê) Bo maj¹ broñ, co miota ogieñ piekielny. Broñ, jakiej Nowe Reno jeszcze nie widzia³o. Strzela promieniami œwiat³a, które przecinaj¹ cz³owieka na pó³ nim zd¹¿y choæby zamrugaæ.}
-{811}{}{Strzela promieniami œwiat³a?}
-{812}{}{Strzela promieniami œwiat³a? Masz na myœli broñ laserow¹?}
-{814}{}{Jej... Chyba spróbujê zdobyæ takie cacko dla siebie. Có¿, dziêki za rozmowê.}
-{820}{}{Tak w³aœnie na nie mówi¹... lesery... Ale po mojemu, to diabelskie narzêdzia! Jak nic - dzie³o szatana zes³ane na ziemiê by wyniszczyæ ludzkoœæ!}
-{821}{}{Masz oczywiœcie racjê, Ojcze. Narzêdzia szatana i takie tam. A co myœl¹ o tym pozosta³e rodziny?}
-{823}{}{Diabelskie narzêdzia, tak? Chyba spróbujê zdobyæ takie cacko dla siebie. Dziêkujê za rozmowê.}
-{830}{}{Jedno takie cacko mo¿e rozp³ataæ dziesiêciu ch³opa... Dawniej pozosta³e rodziny walczy³y z Salvatore, ale teraz boj¹ siê z nimi zadzieraæ. Taki pssseudo pokój... có¿, lepsze to ni¿ nic, nie?!}
+{775}{}{Ciekawe. DziÄ™ki za rozmowÄ™, Ojcze.}
+{780}{}{(Przebiera dwoma palcami) Jet opuszcza miasto, trafia do Redding. ZÅ‚oto opuszcza Redding, trafia do Mordino. (PociÄ…ga z butelki) GÃ³rnicy ginÄ…, Mordino pijÄ….}
+{782}{}{WspomniaÅ‚ Ojciec coÅ› o stajniach?}
+{784}{}{A wiÄ™c Mordino sprzedajÄ… Jet do Redding, tak? Ciekawe. DziÄ™ki, Ojcze.}
+{790}{}{Mordino majÄ…... farmÄ™... za miastem. TrzymajÄ… tam niewolnikÃ³w. TestujÄ…... na nich... Jet. Niewolnicy padajÄ… jak muchy. (Wzrusza ramionami) Tylko Mordino wiedzÄ…, gdzie to dokÅ‚adnie jest.}
+{792}{}{WspomniaÅ‚ Ojciec o Redding?}
+{794}{}{ Mordinos testujÄ… Jet na niewolnikach, tak? Ciekawe. DziÄ™ki, Ojcze.}
+{800}{}{MÃ³wiÅ‚em o Salvatore? (Mruga, wzrusza ramionami, pociÄ…ga z butelki) Nie wiem, co mÃ³gÅ‚bym o nich powiedzieÄ‡. Rodzina siedzi cicho jak mysz pod miotÅ‚Ä…. Ale lepiej nie wÅ‚aziÄ‡ im w drogÄ™... wiesz czemu?}
+{803}{}{Chwilowo mnie to nie obchodzi, Ojczulku. MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego?}
+{804}{}{SÅ‚uchaj, moÅ¼e wrÃ³cimy do tej rozmowy, kiedy trochÄ™ wytrzeÅºwiejesz...}
+{810}{}{(Chwieje siÄ™) Bo majÄ… broÅ„, co miota ogieÅ„ piekielny. BroÅ„, jakiej Nowe Reno jeszcze nie widziaÅ‚o. Strzela promieniami Å›wiatÅ‚a, ktÃ³re przecinajÄ… czÅ‚owieka na pÃ³Å‚ nim zdÄ…Å¼y choÄ‡by zamrugaÄ‡.}
+{811}{}{Strzela promieniami Å›wiatÅ‚a?}
+{812}{}{Strzela promieniami Å›wiatÅ‚a? Masz na myÅ›li broÅ„ laserowÄ…?}
+{814}{}{Jej... Chyba sprÃ³bujÄ™ zdobyÄ‡ takie cacko dla siebie. CÃ³Å¼, dziÄ™ki za rozmowÄ™.}
+{820}{}{Tak wÅ‚aÅ›nie na nie mÃ³wiÄ…... lesery... Ale po mojemu, to diabelskie narzÄ™dzia! Jak nic - dzieÅ‚o szatana zesÅ‚ane na ziemiÄ™ by wyniszczyÄ‡ ludzkoÅ›Ä‡!}
+{821}{}{Masz oczywiÅ›cie racjÄ™, Ojcze. NarzÄ™dzia szatana i takie tam. A co myÅ›lÄ… o tym pozostaÅ‚e rodziny?}
+{823}{}{Diabelskie narzÄ™dzia, tak? Chyba sprÃ³bujÄ™ zdobyÄ‡ takie cacko dla siebie. DziÄ™kujÄ™ za rozmowÄ™.}
+{830}{}{Jedno takie cacko moÅ¼e rozpÅ‚ataÄ‡ dziesiÄ™ciu chÅ‚opa... Dawniej pozostaÅ‚e rodziny walczyÅ‚y z Salvatore, ale teraz bojÄ… siÄ™ z nimi zadzieraÄ‡. Taki pssseudo pokÃ³j... cÃ³Å¼, lepsze to niÅ¼ nic, nie?!}
 {831}{}{Kto stoi na czele rodziny Salvatore?}
-{833}{}{Pewnie tak. Có¿, dziêkujê za rozmowê.}
-{840}{}{Louie... Louis... Salvatore krêci ca³ym biznesem. (Opró¿nia butelkê, kaszle) Kaleka. Bez butli tlenowej nie mo¿e oddychaæ... Ma coœ nie tak z p³ucami. Siedzi na najwy¿szym piêtrze swojej budy. Nigdy nie wychodzi na zewn¹trz.}
-{841}{}{Ciekawe. Mogê ciê jeszcze o coœ zapytaæ?}
-{842}{}{Hmmmm. Butla z tlenem, tak? Ciekawe. Có¿, dziêki za rozmowê, Ojcze.}
-{850}{}{Biedny ch³opak... To wszystko przez ten przeklêty Jet. Piekielna u¿ywka! Najgorsza trucizna w historii...}
-{852}{}{Wie mo¿e Ojciec sk¹d Richard wzi¹³ Jet?}
-{853}{}{Mam kilka innych pytañ...}
-{854}{}{Rozumiem. Dziêkujê za rozmowê, Ojcze.}
-{860}{}{Móg³ go dostaæ od ka¿dego mieszkañca Reno! Po drugiej stronie ulicy jest apteka, w której mo¿na dostaæ towar. A jeœli tam zabraknie, zapytaj dowoln¹ osobê na ulicy! Cholerny Jet!}
-{862}{}{Apteka po drugiej stronie ulicy? Zajrzê tam. Dziêkujê za rozmowê.}
-{957}{}{Dobra, sss³uchajcie...}
+{833}{}{Pewnie tak. CÃ³Å¼, dziÄ™kujÄ™ za rozmowÄ™.}
+{840}{}{Louie... Louis... Salvatore krÄ™ci caÅ‚ym biznesem. (OprÃ³Å¼nia butelkÄ™, kaszle) Kaleka. Bez butli tlenowej nie moÅ¼e oddychaÄ‡... Ma coÅ› nie tak z pÅ‚ucami. Siedzi na najwyÅ¼szym piÄ™trze swojej budy. Nigdy nie wychodzi na zewnÄ…trz.}
+{841}{}{Ciekawe. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{842}{}{Hmmmm. Butla z tlenem, tak? Ciekawe. CÃ³Å¼, dziÄ™ki za rozmowÄ™, Ojcze.}
+{850}{}{Biedny chÅ‚opak... To wszystko przez ten przeklÄ™ty Jet. Piekielna uÅ¼ywka! Najgorsza trucizna w historii...}
+{852}{}{Wie moÅ¼e Ojciec skÄ…d Richard wziÄ…Å‚ Jet?}
+{853}{}{Mam kilka innych pytaÅ„...}
+{854}{}{Rozumiem. DziÄ™kujÄ™ za rozmowÄ™, Ojcze.}
+{860}{}{MÃ³gÅ‚ go dostaÄ‡ od kaÅ¼dego mieszkaÅ„ca Reno! Po drugiej stronie ulicy jest apteka, w ktÃ³rej moÅ¼na dostaÄ‡ towar. A jeÅ›li tam zabraknie, zapytaj dowolnÄ… osobÄ™ na ulicy! Cholerny Jet!}
+{862}{}{Apteka po drugiej stronie ulicy? ZajrzÄ™ tam. DziÄ™kujÄ™ za rozmowÄ™.}
+{957}{}{Dobra, sssÅ‚uchajcie...}
 {958}{}{::Pije::}
-{959}{}{::Wci¹¿ pije, opró¿nia butelkê::}
-{960}{}{...na mocy z³o¿onej we mnie, jesteœcie rozwiedzeni.}
-{961}{}{Mo¿esz teraz kopn¹æ pannê m³od¹. Pana m³odego. Cokolwiek.}
-{962}{}{::Macha rêk¹::}
+{959}{}{::WciÄ…Å¼ pije, oprÃ³Å¼nia butelkÄ™::}
+{960}{}{...na mocy zÅ‚oÅ¼onej we mnie, jesteÅ›cie rozwiedzeni.}
+{961}{}{MoÅ¼esz teraz kopnÄ…Ä‡ pannÄ™ mÅ‚odÄ…. Pana mÅ‚odego. Cokolwiek.}
+{962}{}{::Macha rÄ™kÄ…::}
 {963}{}{Uuuugh}
 {964}{}{Zzzzchrrrzzzzz}
 {967}{}{Zzzzchrrrzzzzz}
-{968}{}{Och, pani Wright, proszê przestaæ... sznnzzzz}
-{969}{}{Zzzstop, pani Wright, jestem ksiêdzem!}
+{968}{}{Och, pani Wright, proszÄ™ przestaÄ‡... sznnzzzz}
+{969}{}{Zzzstop, pani Wright, jestem ksiÄ™dzem!}
 {970}{}{Grzech... zzz... kara... zzzz... ale jazda!}
-{971}{}{Oczzzywiszcie, ¿e nic nie pppi³em.}
-{1000}{}{Ach, dziêkujê moje... *BEKNIÊCIE*}
-{1001}{}{Chyba mam ju¿ doœæ tej krwi... O CHRYSTE, *£UUUUP*.}
-{1002}{}{O Bo¿e, *JÊK*}
-{1003}{}{Jezusie, Maryjo i Józefie. Ju¿ nigdy tyle nie wypijê.}
-{1004}{}{Muszê wstaæ wczeœniej i pójœæ do spowiedzi.}
-{1005}{}{Mo¿e tu sobie chwilkê pole¿ê.}
+{971}{}{Oczzzywiszcie, Å¼e nic nie pppiÅ‚em.}
+{1000}{}{Ach, dziÄ™kujÄ™ moje... *BEKNIÄ˜CIE*}
+{1001}{}{Chyba mam juÅ¼ doÅ›Ä‡ tej krwi... O CHRYSTE, *ÅUUUUP*.}
+{1002}{}{O BoÅ¼e, *JÄ˜K*}
+{1003}{}{Jezusie, Maryjo i JÃ³zefie. JuÅ¼ nigdy tyle nie wypijÄ™.}
+{1004}{}{MuszÄ™ wstaÄ‡ wczeÅ›niej i pÃ³jÅ›Ä‡ do spowiedzi.}
+{1005}{}{MoÅ¼e tu sobie chwilkÄ™ poleÅ¼Ä™.}

@@ -1,1 +1,1 @@
-{100}{}{Você encontrou um antigo posto de gasolina.}
+{100}{}{VocÃª encontrou um antigo posto de gasolina.}

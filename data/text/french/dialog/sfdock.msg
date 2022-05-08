@@ -1,1 +1,1 @@
-{100}{}{Tu entres sur les quais de San Francisco. Juste devant toi, tu aperçois un gros pétrolier flottant sur l'eau. On entend le bruit des mouettes dans le ciel.}
+{100}{}{Tu entres sur les quais de San Francisco. Juste devant toi, tu aperÃ§ois un gros pÃ©trolier flottant sur l'eau. On entend le bruit des mouettes dans le ciel.}

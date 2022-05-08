@@ -1,77 +1,77 @@
 {100}{}{Ves a un tipo viejo y agradable.}
 {101}{}{Es el doctor Jubilee.}
 {102}{}{Es un anciano de barba blanca como la nieve y mirada ligeramente ausente.}
-{103}{}{Soy el doctor Jubilee. ¿Qué ocurre, jovencita?}
-{104}{}{¿Qué ocurre, jovencita?}
+{103}{}{Soy el doctor Jubilee. Â¿QuÃ© ocurre, jovencita?}
+{104}{}{Â¿QuÃ© ocurre, jovencita?}
 {105}{}{Yo herida.}
 {106}{}{Necesito un doctor.}
-{107}{}{¿Por qué no coges unas pastillas o algo y dejas de aburrirme con esa cháchara?}
+{107}{}{Â¿Por quÃ© no coges unas pastillas o algo y dejas de aburrirme con esa chÃ¡chara?}
 {108}{}{Demonios, tienes una gran hemorragia.}
-{109}{}{No sé. No creo que pueda salvarla. Quizás debamos amputar esa pierna.}
-{110}{}{Estás bromeando.}
+{109}{}{No sÃ©. No creo que pueda salvarla. QuizÃ¡s debamos amputar esa pierna.}
+{110}{}{EstÃ¡s bromeando.}
 {111}{}{Ja ja.}
-{112}{}{Ahí tienes, hija.}
+{112}{}{AhÃ­ tienes, hija.}
 {113}{}{Otra vez.}
-{114}{}{Gracias, doctor. Quizás puedas ayudarme con algunas respuestas.}
-{115}{}{Adiós.}
-{116}{}{Te costará 50 dólares.}
-{117}{}{Tú solo cúrame.}
-{118}{}{No me quedo aquí.}
+{114}{}{Gracias, doctor. QuizÃ¡s puedas ayudarme con algunas respuestas.}
+{115}{}{AdiÃ³s.}
+{116}{}{Te costarÃ¡ 50 dÃ³lares.}
+{117}{}{TÃº solo cÃºrame.}
+{118}{}{No me quedo aquÃ­.}
 {119}{}{Te has recuperado.}
 {120}{}{Yo irme ahora.}
 {121}{}{No. Nunca bromeo. Mejor que ampute esa pierna antes de que se gangrene.}
-{122}{}{Ni hablar, no amputarás nada, ¿entendido?}
+{122}{}{Ni hablar, no amputarÃ¡s nada, Â¿entendido?}
 {123}{}{Eso es, me largo.}
 {124}{}{Bueno, si se infecta, no me culpes.}
-{125}{}{No dirijo un hospital de la caridad. Necesitarás tener algo de dinero antes de que haga nada.}
-{126}{}{Entonces, ¿que puedo hacer por ti?}
+{125}{}{No dirijo un hospital de la caridad. NecesitarÃ¡s tener algo de dinero antes de que haga nada.}
+{126}{}{Entonces, Â¿que puedo hacer por ti?}
 {127}{}{Dispara.}
-{128}{}{¿Refugio 13?}
-{129}{}{¿Sabes donde puedo encontrar el Refugio 13?}
-{130}{}{He oído decir que el señor Westin no está bien. ¿Es cierto? Me preocupa que algo pueda sucederle. Me debe dinero.}
-{131}{}{Ese tipo, Cecina Bob, dice que tú le robaste un mapa. ¿Cual es el problema?}
-{132}{}{Estoy buscando trabajo. ¿Sabes de alguno?}
-{133}{}{Doctor, no sabrás nada sobre un grupo que lucha contra esos malvados esclavistas, ¿verdad?}
-{134}{}{Pues no deberías preocuparte, hija. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro está, si alguna vez decide entre mis cuidados médicos o sus medicamentos.}
-{135}{}{Bien, es bueno saberlo. Hay algo más que me estaba preguntando.}
+{128}{}{Â¿Refugio 13?}
+{129}{}{Â¿Sabes donde puedo encontrar el Refugio 13?}
+{130}{}{He oÃ­do decir que el seÃ±or Westin no estÃ¡ bien. Â¿Es cierto? Me preocupa que algo pueda sucederle. Me debe dinero.}
+{131}{}{Ese tipo, Cecina Bob, dice que tÃº le robaste un mapa. Â¿Cual es el problema?}
+{132}{}{Estoy buscando trabajo. Â¿Sabes de alguno?}
+{133}{}{Doctor, no sabrÃ¡s nada sobre un grupo que lucha contra esos malvados esclavistas, Â¿verdad?}
+{134}{}{Pues no deberÃ­as preocuparte, hija. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro estÃ¡, si alguna vez decide entre mis cuidados mÃ©dicos o sus medicamentos.}
+{135}{}{Bien, es bueno saberlo. Hay algo mÃ¡s que me estaba preguntando.}
 {136}{}{Gracias, Doctor.}
-{137}{}{¡Ese viejo borracho! Lo único que conseguí de él fue mi cuadro "Elvis de Terciopelo": como fianza de pago.}
-{138}{}{¿Elvis de Terciopelo? ¿Podría verlo?}
-{139}{}{No es exactamente un mapa, ¿eh? Bien, déjame emplear tu sesera en alguna otra cosa.}
+{137}{}{Â¡Ese viejo borracho! Lo Ãºnico que conseguÃ­ de Ã©l fue mi cuadro "Elvis de Terciopelo": como fianza de pago.}
+{138}{}{Â¿Elvis de Terciopelo? Â¿PodrÃ­a verlo?}
+{139}{}{No es exactamente un mapa, Â¿eh? Bien, dÃ©jame emplear tu sesera en alguna otra cosa.}
 {140}{}{Bien. Tengo que ponerme en marcha.}
-{141}{}{No había oído mencionar nada hasta que trajeron aquí al viejo Cecina. Una insolación. Ardió por la fiebre durante tres días, estuvo todo el tiempo delirando sobre cómo había encontrado el Refugio 13, su veta madre.}
-{142}{}{¿Veta madre?}
-{143}{}{Así que, ¿dónde está?}
-{144}{}{¿Donde refugio?}
-{145}{}{No podría decírtelo. Cecina siempre presume de tener un mapa, pero nadie lo ha visto nunca.}
-{146}{}{¿Cecina?}
+{141}{}{No habÃ­a oÃ­do mencionar nada hasta que trajeron aquÃ­ al viejo Cecina. Una insolaciÃ³n. ArdiÃ³ por la fiebre durante tres dÃ­as, estuvo todo el tiempo delirando sobre cÃ³mo habÃ­a encontrado el Refugio 13, su veta madre.}
+{142}{}{Â¿Veta madre?}
+{143}{}{AsÃ­ que, Â¿dÃ³nde estÃ¡?}
+{144}{}{Â¿Donde refugio?}
+{145}{}{No podrÃ­a decÃ­rtelo. Cecina siempre presume de tener un mapa, pero nadie lo ha visto nunca.}
+{146}{}{Â¿Cecina?}
 {147}{}{Preguntar mas.}
-{148}{}{Bueno, es más de lo que tenía antes.}
-{149}{}{Sí. Cecina Bob es un viejo buscador de uranio: para ser más precisos, un borracho. Ahora vive en las afueras de la hacienda de los Westin.}
+{148}{}{Bueno, es mÃ¡s de lo que tenÃ­a antes.}
+{149}{}{SÃ­. Cecina Bob es un viejo buscador de uranio: para ser mÃ¡s precisos, un borracho. Ahora vive en las afueras de la hacienda de los Westin.}
 {150}{}{Otra pregunta...}
 {151}{}{Gracias por la historia.}
-{152}{}{Bien, esperaba conseguir algo de dinero. Lo soltaré por }
-{153}{}{Puede que más tarde, otra pregunta...}
-{154}{}{Quizá más tarde, me tengo que ir.}
+{152}{}{Bien, esperaba conseguir algo de dinero. Lo soltarÃ© por }
+{153}{}{Puede que mÃ¡s tarde, otra pregunta...}
+{154}{}{QuizÃ¡ mÃ¡s tarde, me tengo que ir.}
 {155}{}{Cecina es un viejo buscador de uranio. Ahora vive en las afueras de la hacienda de los Westin.}
 {156}{}{Otra pregunta...}
 {157}{}{Gracias por la historia.}
-{158}{}{Mejor que vayas a hablar con la presidente Tandi. He oído que está buscando un tipo especial de persona.}
+{158}{}{Mejor que vayas a hablar con la presidente Tandi. He oÃ­do que estÃ¡ buscando un tipo especial de persona.}
 {159}{}{Otra pregunta...}
 {160}{}{Gracias.}
-{161}{}{Podría... Hay un grupo enfrentado al esclavismo, así como a la mayoría de los otros vicios. A veces los puedes encontrar en la tienda grande, trabajando en algún automóvil.}
+{161}{}{PodrÃ­a... Hay un grupo enfrentado al esclavismo, asÃ­ como a la mayorÃ­a de los otros vicios. A veces los puedes encontrar en la tienda grande, trabajando en algÃºn automÃ³vil.}
 {162}{}{Otra pregunta...}
 {163}{}{Gracias.}
-{164}{}{¡Eh, quítale a eso las manos de encima, gamberra!}
-{165}{}{¡Cuidado con eso! Solo hace falta una pequeña cantidad para exponerse.}
-{166}{}{¡Atrás! Te puedes herir gravemente con ese material.}
-{167}{}{Esas medicinas son para el señor Westin, no para ti. Devuélvelas.}
-{168}{}{Aléjate de ahí. Debes tener cuidado, ¿vale? No querrás que el señor Westin se tome las medicinas equivocadas.}
-{169}{}{¡Cuidado! Acabo de medir la dosis del señor Westin.}
-{170}{}{Soy el doctor Jubilee. ¿Qué ocurre, señorita?}
-{171}{}{¿Qué ocurre, señorita?}
-{172}{}{Ahí tienes, señorita.}
-{173}{}{Pues no deberías preocuparte, señorita. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro está, si alguna vez decide entre mis cuidados médicos o sus medicamentos.}
-{174}{}{Claro. Aquí están los }
+{164}{}{Â¡Eh, quÃ­tale a eso las manos de encima, gamberra!}
+{165}{}{Â¡Cuidado con eso! Solo hace falta una pequeÃ±a cantidad para exponerse.}
+{166}{}{Â¡AtrÃ¡s! Te puedes herir gravemente con ese material.}
+{167}{}{Esas medicinas son para el seÃ±or Westin, no para ti. DevuÃ©lvelas.}
+{168}{}{AlÃ©jate de ahÃ­. Debes tener cuidado, Â¿vale? No querrÃ¡s que el seÃ±or Westin se tome las medicinas equivocadas.}
+{169}{}{Â¡Cuidado! Acabo de medir la dosis del seÃ±or Westin.}
+{170}{}{Soy el doctor Jubilee. Â¿QuÃ© ocurre, seÃ±orita?}
+{171}{}{Â¿QuÃ© ocurre, seÃ±orita?}
+{172}{}{AhÃ­ tienes, seÃ±orita.}
+{173}{}{Pues no deberÃ­as preocuparte, seÃ±orita. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro estÃ¡, si alguna vez decide entre mis cuidados mÃ©dicos o sus medicamentos.}
+{174}{}{Claro. AquÃ­ estÃ¡n los }
 {175}{}{Gracias, he intentado sacarle el dinero a ese Cecina, pero el condenado nunca tiene nada.}
 {176}{}{.}

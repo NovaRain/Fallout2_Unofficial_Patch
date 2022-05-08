@@ -1,3 +1,3 @@
-{100}{}{Você vê um poço.}
-{101}{}{Você pode estar enganado, mas enquanto você olha para o fundo do poço, você sente o calor que vem da escuridão.}
-{102}{}{Você toma um grande gole da água do poço. Está atipicamente morna.}
+{100}{}{VocÃª vÃª um poÃ§o.}
+{101}{}{VocÃª pode estar enganado, mas enquanto vocÃª olha para o fundo do poÃ§o, vocÃª sente o calor que vem da escuridÃ£o.}
+{102}{}{VocÃª toma um grande gole da Ã¡gua do poÃ§o. EstÃ¡ atipicamente morna.}

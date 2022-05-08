@@ -3,7 +3,7 @@
 {102}{}{Bonjour.}
 {103}{}{Au revoir.}
 {104}{}{Welcome to our Village.}
-{105}{}{Les monstres nous protègent.}
+{105}{}{Les monstres nous protÃ¨gent.}
 {106}{}{Hurry back.}
 {107}{}{We'll need those guns soon.}
 {108}{}{Bonjour.}

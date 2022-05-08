@@ -1,22 +1,22 @@
-{100}{}{Tu vois un homme mince à l'apparence graisseuse.}
+{100}{}{Tu vois un homme mince Ã  l'apparence graisseuse.}
 {150}{}{Tu vois Flick. Il se gratte furieusement entre les cuisses.}
-{151}{}{Tu vois un type pas propre dont le visage est agité par un tic.}
-{200}{}{Barre-toi d'là, imbécile !}
-{201}{}{Hé, gros tas ! Hé toi ! Barre-toi d'là !}
-{202}{}{T'es bête ou quoi ?}
-{203}{}{C'est quoi ton problème, hein ?}
+{151}{}{Tu vois un type pas propre dont le visage est agitÃ© par un tic.}
+{200}{}{Barre-toi d'lÃ , imbÃ©cile !}
+{201}{}{HÃ©, gros tas ! HÃ© toi ! Barre-toi d'lÃ  !}
+{202}{}{T'es bÃªte ou quoi ?}
+{203}{}{C'est quoi ton problÃ¨me, hein ?}
 {204}{}{Casse-toi d'ici vite fait !}
-{220}{}{Hé ! Je m'appelle Flick. Qu'est-ce que tu veux bordel ? Hein ?}
+{220}{}{HÃ© ! Je m'appelle Flick. Qu'est-ce que tu veux bordel ? Hein ?}
 {221}{}{Quoi ? Tu me fais perdre mon temps.}
 {222}{}{C'est quoi cet accent minable, Flick ?}
 {223}{}{Que fous-tu ici ?}
-{224}{}{Je cherche un Abri, oh et un marchand, un certain Vic. Tu sais où il peut-être ?}
+{224}{}{Je cherche un Abri, oh et un marchand, un certain Vic. Tu sais oÃ¹ il peut-Ãªtre ?}
 {225}{}{J'aimerais faire des affaires avec toi.}
 {240}{}{Ce s'ra tout ?}
-{241}{}{En fait j'aimerais beaucoup jeter un coup d'oeil à tes marchandises.}
+{241}{}{En fait j'aimerais beaucoup jeter un coup d'oeil Ã  tes marchandises.}
 {242}{}{En fait, j'aimerais te poser une question.}
-{243}{}{A bientôt, Flick.}
-{260}{}{Je suis qu'un simple fournisseur, qu'est-ce tu crois ?! Comme un Bon Samouraïtain.}
+{243}{}{A bientÃ´t, Flick.}
+{260}{}{Je suis qu'un simple fournisseur, qu'est-ce tu crois ?! Comme un Bon SamouraÃ¯tain.}
 {261}{}{Quoi ?}
 {262}{}{Ouais, heu, ben... j'aimerais te poser une autre question.}
 {263}{}{Oh, heu. D'accord. Au revoir Flick.}
@@ -29,28 +29,28 @@
 {301}{}{Heu, non.}
 {302}{}{Oh, d'accord. J'aimerais te poser une autre question.}
 {303}{}{Bon. Je ne veux pas te faire perdre tous tes, euh, moyens. Salut. }
-{315}{}{Ils me ramènent les trucs qu'ils trouvent. De petites, petites choses. Des trucs que plus personne n'utilise aujourd'hui. En échange, je prends bien soin d'eux.}
+{315}{}{Ils me ramÃ¨nent les trucs qu'ils trouvent. De petites, petites choses. Des trucs que plus personne n'utilise aujourd'hui. En Ã©change, je prends bien soin d'eux.}
 {316}{}{On dirait un bon arrangement.}
-{325}{}{(Flick hausse les épaules.) Je m'en sors pas trop mal.}
+{325}{}{(Flick hausse les Ã©paules.) Je m'en sors pas trop mal.}
 {326}{}{J'aimerais te poser une autre question.}
-{327}{}{Ils ont dû te rapporter de sacrées belles affaires. Voyons un peu ce que tu as.}
+{327}{}{Ils ont dÃ» te rapporter de sacrÃ©es belles affaires. Voyons un peu ce que tu as.}
 {328}{}{J'faisais juste un tour dans le coin. Salut, Flick.}
-{340}{}{De quoi tu parles ? Tu me prends pour un pauvre pirla, un figlio di puttana débile ? Tu me prends pour un clown ? Et je suis là pour te faire rire, hein ?}
+{340}{}{De quoi tu parles ? Tu me prends pour un pauvre pirla, un figlio di puttana dÃ©bile ? Tu me prends pour un clown ? Et je suis lÃ  pour te faire rire, hein ?}
 {341}{}{Heu, non. Pardon, je voulais simplement savoir. J'aimerais te poser encore une question.}
-{342}{}{Ouais, c'est ça, tête de noeud. Et rien ne peut me faire plus rire que tes menaces.}
+{342}{}{Ouais, c'est Ã§a, tÃªte de noeud. Et rien ne peut me faire plus rire que tes menaces.}
 {343}{}{Eh ben si tu le prends sur ce ton, je m'en vais.}
-{360}{}{L'Abri, hein ? Mamma sait peut-être quelque chose, moi non. Mais je connais ce mec, Vic. C'est Metzger qui fait surveiller ce porca pistola.}
+{360}{}{L'Abri, hein ? Mamma sait peut-Ãªtre quelque chose, moi non. Mais je connais ce mec, Vic. C'est Metzger qui fait surveiller ce porca pistola.}
 {361}{}{Vic ? C'est pas lui qui est avec toi ? Biota. Mais la Mamma elle, elle doit savoir.}
 {362}{}{Qui c'est Metzger ?}
 {363}{}{Qui c'est la Mamma ?}
 {364}{}{Merci. Permets-moi de te demander autre chose.}
 {365}{}{Merci. C'est tout ce que je voulais savoir. Au revoir.}
-{380}{}{Mamma tient un restaurant dans le quartier Est de la ville, juste après le cimetière. L'endroit est chouette, et les pâtes... mamma mia !}
+{380}{}{Mamma tient un restaurant dans le quartier Est de la ville, juste aprÃ¨s le cimetiÃ¨re. L'endroit est chouette, et les pÃ¢tes... mamma mia !}
 {381}{}{Merci. Parle-moi de ce Metzger qui garde Vic prisonnier.}
 {382}{}{Merci. Permets-moi de te demander autre chose.}
 {383}{}{Merci. C'est tout ce que je voulais savoir. Au revoir.}
 {400}{}{Metzger, ce salaud, il est mort. Je ne sais pas ce que Vic est devenu.}
-{401}{}{Ce Metzger, c'est vraiment un casse-noix. Il dirige la Guilde des Esclavagistes, dans le quartier Est, au Nord de chez Mamma. C'est là que Vic est prisonnier, ça c'est sûr.}
+{401}{}{Ce Metzger, c'est vraiment un casse-noix. Il dirige la Guilde des Esclavagistes, dans le quartier Est, au Nord de chez Mamma. C'est lÃ  que Vic est prisonnier, Ã§a c'est sÃ»r.}
 {402}{}{Merci. Et Mamma ?}
 {403}{}{Merci. Permets-moi de te demander autre chose.}
 {404}{}{Merci. C'est tout ce que je voulais savoir. Au revoir.}

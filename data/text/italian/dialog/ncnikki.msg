@@ -5,12 +5,12 @@
 {170}{}{You see one of the casino dealers.}
 {180}{}{You see one of the casino dealers. She motions for you to come over and play.}
 {200}{}{::Cheers::}
-{210}{}{Hello, [MM]. Can I help you with…anything?}
+{210}{}{Hello, [MM]. Can I help you withâ€¦anything?}
 {220}{}{Looks like this one's already gambling with his life.}
 {230}{}{Hey, muscles. You looking to spend some chips?}
 {250}{}{Hey there, movie man. You looking to spend some chips?}
 {270}{}{Hey there, sweetie. You looking to spend some chips?}
-{290}{}{Well, you're crazy for coming in here, but…place your bets. Minimum bet 5 chips. Place your bets…}
+{290}{}{Well, you're crazy for coming in here, butâ€¦place your bets. Minimum bet 5 chips. Place your betsâ€¦}
 {310}{}{Uh, very well, sir. Come back soon.}
 {320}{}{Very well, sir. Come back soon.}
 {330}{}{Sorry, sir. Better luck next time.}

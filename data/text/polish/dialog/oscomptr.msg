@@ -1,36 +1,36 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{Widzisz terminal z dostêpem g³osowym.}
-{102}{}{Widzisz standardowy terminal przystosowany do przyjmowania poleceñ g³osowych.}
-{103}{}{Ogl¹dasz terminal, ale nie zauwa¿asz niczego, co by³oby w oczywisty sposób niew³aœciwe. Co teraz?}
-{104}{}{Uderz go w ten "wyj¹tkowy" sposób.}
-{105}{}{Kopnij go w to "wyj¹tkowe" miejsce.}
+{101}{}{Widzisz terminal z dostÄ™pem gÅ‚osowym.}
+{102}{}{Widzisz standardowy terminal przystosowany do przyjmowania poleceÅ„ gÅ‚osowych.}
+{103}{}{OglÄ…dasz terminal, ale nie zauwaÅ¼asz niczego, co byÅ‚oby w oczywisty sposÃ³b niewÅ‚aÅ›ciwe. Co teraz?}
+{104}{}{Uderz go w ten "wyjÄ…tkowy" sposÃ³b.}
+{105}{}{Kopnij go w to "wyjÄ…tkowe" miejsce.}
 {106}{}{Uruchom program diagnostyczny.}
-{107}{}{Otwórz go i zajrzyj do œrodka.}
+{107}{}{OtwÃ³rz go i zajrzyj do Å›rodka.}
 {108}{}{Zostaw go w spokoju.}
-{109}{}{Gapisz siê przez chwilê na konsolê, by zdecydowaæ, w które miejsce bêdzie najlepiej uderzyæ. Po otrzymaniu twojego najlepszego uderzenia z serii "to-powinno-zadzia³aæ", monitor kilka razy rozb³yska, po czym stabilizuje siê. Nie ma ¿adnego innego efektu. Co teraz?}
-{110}{}{Kopnij go w to "wyj¹tkowe" miejsce.}
+{109}{}{Gapisz siÄ™ przez chwilÄ™ na konsolÄ™, by zdecydowaÄ‡, w ktÃ³re miejsce bÄ™dzie najlepiej uderzyÄ‡. Po otrzymaniu twojego najlepszego uderzenia z serii "to-powinno-zadziaÅ‚aÄ‡", monitor kilka razy rozbÅ‚yska, po czym stabilizuje siÄ™. Nie ma Å¼adnego innego efektu. Co teraz?}
+{110}{}{Kopnij go w to "wyjÄ…tkowe" miejsce.}
 {111}{}{Uruchom program diagnostyczny.}
-{112}{}{Otwórz go i zajrzyj do œrodka.}
+{112}{}{OtwÃ³rz go i zajrzyj do Å›rodka.}
 {113}{}{Zostaw go w spokoju.}
-{114}{}{Ta szeroko znana metoda naprawcza powoduje dwa efekty. Po pierwsze, monitor przez kilka sekund wariuje, a potem stabilizuje siê. Po drugie, s³yszysz jeden z tych odg³osów ³amanego metalu, po czym kopniêta przez ciebie p³yta odpada na pod³ogê. Co teraz?}
+{114}{}{Ta szeroko znana metoda naprawcza powoduje dwa efekty. Po pierwsze, monitor przez kilka sekund wariuje, a potem stabilizuje siÄ™. Po drugie, sÅ‚yszysz jeden z tych odgÅ‚osÃ³w Å‚amanego metalu, po czym kopniÄ™ta przez ciebie pÅ‚yta odpada na podÅ‚ogÄ™. Co teraz?}
 {115}{}{Uruchom program diagnostyczny.}
-{116}{}{Ta cholerna rzecz siê otworzy³a. Nie zaszkodzi zajrzeæ do œrodka.}
+{116}{}{Ta cholerna rzecz siÄ™ otworzyÅ‚a. Nie zaszkodzi zajrzeÄ‡ do Å›rodka.}
 {117}{}{Zostaw go w spokoju.}
-{118}{}{Masz pewnoœæ, ¿e w takim systemie powinien byæ dostêpny zestaw procedur diagnostycznych. Jednak¿e wygl¹da na to, ¿e wejœcie klawiaturowe zosta³o unieczynnione. Ten terminal przyjmuje tylko polecenia g³osowe. Co teraz?}
-{119}{}{Zosta³o ju¿ tylko zajrzeæ do œrodka.}
+{118}{}{Masz pewnoÅ›Ä‡, Å¼e w takim systemie powinien byÄ‡ dostÄ™pny zestaw procedur diagnostycznych. JednakÅ¼e wyglÄ…da na to, Å¼e wejÅ›cie klawiaturowe zostaÅ‚o unieczynnione. Ten terminal przyjmuje tylko polecenia gÅ‚osowe. Co teraz?}
+{119}{}{ZostaÅ‚o juÅ¼ tylko zajrzeÄ‡ do Å›rodka.}
 {120}{}{Zostaw go w spokoju.}
-{121}{}{Przygl¹daj¹c siê uwa¿nie tej ca³ej masie kabli i uk³adów scalonych, zauwa¿asz, ¿e system niew¹tpliwie pad³ ofiar¹ sabota¿u. Jednej z p³yt, modu³u rozpoznawania g³osu, nie da siê naprawiæ i musi zostaæ wymieniona. Teraz wszystko, co trzeba zrobiæ, to znaleŸæ odpowiedni¹ czêœæ zamienn¹.}
+{121}{}{PrzyglÄ…dajÄ…c siÄ™ uwaÅ¼nie tej caÅ‚ej masie kabli i ukÅ‚adÃ³w scalonych, zauwaÅ¼asz, Å¼e system niewÄ…tpliwie padÅ‚ ofiarÄ… sabotaÅ¼u. Jednej z pÅ‚yt, moduÅ‚u rozpoznawania gÅ‚osu, nie da siÄ™ naprawiÄ‡ i musi zostaÄ‡ wymieniona. Teraz wszystko, co trzeba zrobiÄ‡, to znaleÅºÄ‡ odpowiedniÄ… czÄ™Å›Ä‡ zamiennÄ….}
 {122}{}{Zrobione.}
 {123}{}{Zrobione.}
-{124}{}{Montujesz modu³ w terminalu. System zosta³ naprawiony.}
-{125}{}{Terminal potrzebuje modu³u rozpoznawania mowy, zanim znów bêdzie mo¿na go u¿ywaæ.}
+{124}{}{Montujesz moduÅ‚ w terminalu. System zostaÅ‚ naprawiony.}
+{125}{}{Terminal potrzebuje moduÅ‚u rozpoznawania mowy, zanim znÃ³w bÄ™dzie moÅ¼na go uÅ¼ywaÄ‡.}
 {126}{}{Zrobione.}
-{127}{}{System dzia³a teraz bez zarzutu.}
-{128}{}{Przeszukujê zdjêcia z kamer bezpieczeñstwa, rozpoczynam odtwarzanie holograficzne...}
-{129}{}{Gruthar, ju¿ tylko ty zosta³eœ. Plama twojego rodu zostanie niebawem wyczyszczona.}
-{130}{}{Powiedz temu twojemu tak zwanemu prezydentowi, ¿e bêdzie siê za to sma¿y³.}
-{131}{}{Tak, tak. Nigdy nie by³eœ niczym wiêcej ni¿ gadaj¹cym zwierzakiem.}
-{132}{}{Byæ mo¿e, ale powstaliœmy na skutek waszych eksperymentów. Daliœcie nam ¿ycie!}
-{133}{}{A teraz dam ci œmieræ.}
-{134}{}{Zabierz jego cia³o. Doktor chcia³ dostaæ próbkê.}
-{135}{}{Ich krew bêdzie p³ynê³a jak Nil!}
+{127}{}{System dziaÅ‚a teraz bez zarzutu.}
+{128}{}{PrzeszukujÄ™ zdjÄ™cia z kamer bezpieczeÅ„stwa, rozpoczynam odtwarzanie holograficzne...}
+{129}{}{Gruthar, juÅ¼ tylko ty zostaÅ‚eÅ›. Plama twojego rodu zostanie niebawem wyczyszczona.}
+{130}{}{Powiedz temu twojemu tak zwanemu prezydentowi, Å¼e bÄ™dzie siÄ™ za to smaÅ¼yÅ‚.}
+{131}{}{Tak, tak. Nigdy nie byÅ‚eÅ› niczym wiÄ™cej niÅ¼ gadajÄ…cym zwierzakiem.}
+{132}{}{ByÄ‡ moÅ¼e, ale powstaliÅ›my na skutek waszych eksperymentÃ³w. DaliÅ›cie nam Å¼ycie!}
+{133}{}{A teraz dam ci Å›mierÄ‡.}
+{134}{}{Zabierz jego ciaÅ‚o. Doktor chciaÅ‚ dostaÄ‡ prÃ³bkÄ™.}
+{135}{}{Ich krew bÄ™dzie pÅ‚ynÄ™Å‚a jak Nil!}

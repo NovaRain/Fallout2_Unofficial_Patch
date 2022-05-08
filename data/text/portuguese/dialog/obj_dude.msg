@@ -5,6 +5,6 @@
 {130}{}{Your shoes feel really tight; those bunions are really getting inflamed.}
 {140}{}{That nasty bunion on each foot seems to have turned into an extra toe. But at least that
  persistent, burning itch has gone away.}
-{141}{}{Oh, meu Deus, é Bess!}
-{150}{}{Você ganhou }
+{141}{}{Oh, meu Deus, Ã© Bess!}
+{150}{}{VocÃª ganhou }
 {151}{}{ experience points for getting the GECK.}

@@ -1,132 +1,132 @@
 {100}{}{Widzisz szefa ochrony kasyna.}
-{150}{}{Widzisz elegancko ubranego mê¿czyznê. Rozgl¹da siê po kasynie.}
-{151}{}{Widzisz zarz¹dcê nadzoruj¹cego kasyno.}
-{200}{}{Hmmm... obawiam siê, ¿e musisz zdj¹æ tê zbrojê.}
-{201}{}{Uch, obawiam siê, ¿e musi pan... albo pani... zdj¹æ tê zbrojê.}
-{202}{}{Nie mo¿e pan... pani... nosiæ tego w kasynie.}
-{205}{}{Mogê wiedzieæ, czemu siê pan skrada?}
-{206}{}{Uch, czemu siê pan ukrywa?}
-{210}{}{Mogê wiedzieæ dlaczego siê pani skrada?}
-{211}{}{Uch, czemu siê pani ukrywa?}
+{150}{}{Widzisz elegancko ubranego mÄ™Å¼czyznÄ™. RozglÄ…da siÄ™ po kasynie.}
+{151}{}{Widzisz zarzÄ…dcÄ™ nadzorujÄ…cego kasyno.}
+{200}{}{Hmmm... obawiam siÄ™, Å¼e musisz zdjÄ…Ä‡ tÄ™ zbrojÄ™.}
+{201}{}{Uch, obawiam siÄ™, Å¼e musi pan... albo pani... zdjÄ…Ä‡ tÄ™ zbrojÄ™.}
+{202}{}{Nie moÅ¼e pan... pani... nosiÄ‡ tego w kasynie.}
+{205}{}{MogÄ™ wiedzieÄ‡, czemu siÄ™ pan skrada?}
+{206}{}{Uch, czemu siÄ™ pan ukrywa?}
+{210}{}{MogÄ™ wiedzieÄ‡ dlaczego siÄ™ pani skrada?}
+{211}{}{Uch, czemu siÄ™ pani ukrywa?}
 {215}{}{Ach, pan }
 {216}{}{Ach, to pan }
 {220}{}{Ach, pan }
 {221}{}{Ach, to pan }
 {225}{}{Ach, pan }
 {230}{}{Ach, pan }
-{235}{}{Chyba pomyli³y ci siê kasyna.}
-{236}{}{Lepiej idŸ st¹d. Ale ju¿.}
-{237}{}{To nie jest miejsce odpowiednie do grania w koœci ze œmierci¹. Lepiej odejdŸ.}
-{238}{}{Suko, w³azisz do z³ego kasyna.}
-{245}{}{Przepraszam pana, musi pan od³o¿yæ broñ.}
-{250}{}{Przepraszam pani¹, musi pani od³o¿yæ broñ.}
-{255}{}{Kochanie, wybacz, ale nie mo¿na wnosiæ broni do kasyna. He-he... i tak jesteœ wystarczaj¹co zabójcza.}
-{260}{}{Kociaku, z takim cia³em nie masz szans ukryæ siê w t³umie.}
-{265}{}{Dzikusie, lepiej od³ó¿ tê broñ, ale JU¯.}
-{270}{}{Dzikusie, lepiej przestañ siê tak skradaæ, ale JU¯.}
-{275}{}{Hej, hej... Myron! Dawno ju¿ nie widzia³em ciê poza laboratorium.}
-{276}{}{Przychodzisz tu z próbkami nowego towaru, co Myron?}
-{277}{}{Hej Myron! W³aŸ do nas.}
-{280}{}{Jasne. Co chcesz wiedzieæ?}
+{235}{}{Chyba pomyliÅ‚y ci siÄ™ kasyna.}
+{236}{}{Lepiej idÅº stÄ…d. Ale juÅ¼.}
+{237}{}{To nie jest miejsce odpowiednie do grania w koÅ›ci ze Å›mierciÄ…. Lepiej odejdÅº.}
+{238}{}{Suko, wÅ‚azisz do zÅ‚ego kasyna.}
+{245}{}{Przepraszam pana, musi pan odÅ‚oÅ¼yÄ‡ broÅ„.}
+{250}{}{Przepraszam paniÄ…, musi pani odÅ‚oÅ¼yÄ‡ broÅ„.}
+{255}{}{Kochanie, wybacz, ale nie moÅ¼na wnosiÄ‡ broni do kasyna. He-he... i tak jesteÅ› wystarczajÄ…co zabÃ³jcza.}
+{260}{}{Kociaku, z takim ciaÅ‚em nie masz szans ukryÄ‡ siÄ™ w tÅ‚umie.}
+{265}{}{Dzikusie, lepiej odÅ‚Ã³Å¼ tÄ™ broÅ„, ale JUÅ».}
+{270}{}{Dzikusie, lepiej przestaÅ„ siÄ™ tak skradaÄ‡, ale JUÅ».}
+{275}{}{Hej, hej... Myron! Dawno juÅ¼ nie widziaÅ‚em ciÄ™ poza laboratorium.}
+{276}{}{Przychodzisz tu z prÃ³bkami nowego towaru, co Myron?}
+{277}{}{Hej Myron! WÅ‚aÅº do nas.}
+{280}{}{Jasne. Co chcesz wiedzieÄ‡?}
 {281}{}{Fuuuuuuuuu fuu fuu fuuuuu}
-{282}{}{OdejdŸ}
-{283}{}{Kim jesteœ?}
+{282}{}{OdejdÅº}
+{283}{}{Kim jesteÅ›?}
 {284}{}{Co to za kasyno?}
-{285}{}{Czy mo¿esz opowiedzieæ mi coœ o tym kasynie?}
-{286}{}{Znasz mo¿e kogoœ, kto nazywa siê Œliczny Ch³opiec Lloyd?}
+{285}{}{Czy moÅ¼esz opowiedzieÄ‡ mi coÅ› o tym kasynie?}
+{286}{}{Znasz moÅ¼e kogoÅ›, kto nazywa siÄ™ Åšliczny ChÅ‚opiec Lloyd?}
 {287}{}{Kim jest ten stary facet przy automacie?}
-{288}{}{Ten komik, którego tu macie, jest kiepski. Mogê go zast¹piæ?}
-{289}{}{Dziêki. Potrzebujesz kogoœ, kto by zatanczy³ dziœ w nocy? Mogê siê zgodziæ na umowê czasow¹.}
-{290}{}{Dziêki, postaram siê.}
-{291}{}{Nic, dziêkujê. Mi³o siê rozmawia³o.}
-{292}{}{Tylko sprawdzam jak sprawy stoj¹. Trzym siê.}
-{295}{}{¯adnych robotów.}
-{296}{}{Nie obs³ugujemy robotów.}
-{297}{}{¯adnych robotów. Roboty musz¹ poczekaæ na zewn¹trz.}
-{300}{}{Sugerujê, ¿eby pan ju¿ sobie poszed³.}
-{301}{}{Uch, niech pani lepiej ju¿ pójdzie.}
-{302}{}{Wynoœ siê st¹d niedorozwoju.}
-{303}{}{Mama mówi ja wyj¹tkowe dziecko}
-{304}{}{OdejdŸ}
-{305}{}{W zasadzie nie wolno mi rozmawiaæ z goœæmi, ale ta zadyma w Enklawie to kawa³ dobrej roboty.}
+{288}{}{Ten komik, ktÃ³rego tu macie, jest kiepski. MogÄ™ go zastÄ…piÄ‡?}
+{289}{}{DziÄ™ki. Potrzebujesz kogoÅ›, kto by zatanczyÅ‚ dziÅ› w nocy? MogÄ™ siÄ™ zgodziÄ‡ na umowÄ™ czasowÄ….}
+{290}{}{DziÄ™ki, postaram siÄ™.}
+{291}{}{Nic, dziÄ™kujÄ™. MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{292}{}{Tylko sprawdzam jak sprawy stojÄ…. Trzym siÄ™.}
+{295}{}{Å»adnych robotÃ³w.}
+{296}{}{Nie obsÅ‚ugujemy robotÃ³w.}
+{297}{}{Å»adnych robotÃ³w. Roboty muszÄ… poczekaÄ‡ na zewnÄ…trz.}
+{300}{}{SugerujÄ™, Å¼eby pan juÅ¼ sobie poszedÅ‚.}
+{301}{}{Uch, niech pani lepiej juÅ¼ pÃ³jdzie.}
+{302}{}{WynoÅ› siÄ™ stÄ…d niedorozwoju.}
+{303}{}{Mama mÃ³wi ja wyjÄ…tkowe dziecko}
+{304}{}{OdejdÅº}
+{305}{}{W zasadzie nie wolno mi rozmawiaÄ‡ z goÅ›Ä‡mi, ale ta zadyma w Enklawie to kawaÅ‚ dobrej roboty.}
 {306}{}{Hej, }
-{315}{}{Jasne, twoja mama o mnie te¿ tak mówi³a. A teraz spadaj... mo¿e znajdziesz j¹ przy Alei Dziewic.}
+{315}{}{Jasne, twoja mama o mnie teÅ¼ tak mÃ³wiÅ‚a. A teraz spadaj... moÅ¼e znajdziesz jÄ… przy Alei Dziewic.}
 {316}{}{Ojejku! Pa pa}
-{317}{}{OdejdŸ}
-{325}{}{Jestem zarz¹dc¹. Co mogê dla ciebie zrobiæ?}
-{326}{}{Zarz¹dzam tym piêtrem kasyna. Jeœli czegoœ potrzebujesz, to powiedz.}
+{317}{}{OdejdÅº}
+{325}{}{Jestem zarzÄ…dcÄ…. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{326}{}{ZarzÄ…dzam tym piÄ™trem kasyna. JeÅ›li czegoÅ› potrzebujesz, to powiedz.}
 {327}{}{Co to za kasyno?}
-{328}{}{Czy mo¿esz opowiedzieæ mi coœ o tym kasynie?}
-{329}{}{Nic, dziêkujê. Mi³o siê rozmawia³o.}
-{335}{}{To jest [CN]. Jak bêdziesz czegoœ potrzebowaæ, przyjdŸ do mnie.}
+{328}{}{Czy moÅ¼esz opowiedzieÄ‡ mi coÅ› o tym kasynie?}
+{329}{}{Nic, dziÄ™kujÄ™. MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{335}{}{To jest [CN]. Jak bÄ™dziesz czegoÅ› potrzebowaÄ‡, przyjdÅº do mnie.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
-{337}{}{Kim jesteœ?}
-{338}{}{Czy mo¿esz opowiedzieæ mi coœ o tym kasynie?}
-{339}{}{Nic, dziêkujê. Mi³o siê rozmawia³o.}
-{340}{}{Czym mogê s³u¿yæ, koleœ?}
-{341}{}{Czym mogê s³u¿yæ, z³otko?}
+{337}{}{Kim jesteÅ›?}
+{338}{}{Czy moÅ¼esz opowiedzieÄ‡ mi coÅ› o tym kasynie?}
+{339}{}{Nic, dziÄ™kujÄ™. MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{340}{}{Czym mogÄ™ sÅ‚uÅ¼yÄ‡, koleÅ›?}
+{341}{}{Czym mogÄ™ sÅ‚uÅ¼yÄ‡, zÅ‚otko?}
 {342}{}{Fuuuuuuuuu fuu fuu fuuuuu}
-{343}{}{OdejdŸ}
-{344}{}{Kim jesteœ?}
-{345}{}{Najlepsze kasyno w mieœcie... ale jestem troszkê stronniczy. Chcesz wiedzieæ coœ jeszcze?}
-{346}{}{Najlepsze kasyno w mieœcie, najlepsze sto³y... ale dlaczego nie pójdziesz i ich nie wypróbujesz? Dobrze?}
-{347}{}{Kim jesteœ?}
-{348}{}{Kto jest w³aœcicielem kasyna?}
-{349}{}{Dziêki. Przepraszam za k³opot.}
-{350}{}{Dziêki. Potrzebujesz kogoœ, kto by zatanczy³ dziœ w nocy? Mogê siê zgodziæ na umowê czasow¹.}
-{351}{}{Dziêki, postaram siê.}
-{352}{}{Nic, dziêkujê. Mi³o siê rozmawia³o.}
-{353}{}{Tylko sprawdzam jak sprawy stoj¹. Trzym siê.}
-{355}{}{Rodziny [CA]. Wpakowali w ten lokal sporo kasy, ale op³aci³o siê. To jedna z lokalnych atrakcji Nowego Reno.}
+{343}{}{OdejdÅº}
+{344}{}{Kim jesteÅ›?}
+{345}{}{Najlepsze kasyno w mieÅ›cie... ale jestem troszkÄ™ stronniczy. Chcesz wiedzieÄ‡ coÅ› jeszcze?}
+{346}{}{Najlepsze kasyno w mieÅ›cie, najlepsze stoÅ‚y... ale dlaczego nie pÃ³jdziesz i ich nie wyprÃ³bujesz? Dobrze?}
+{347}{}{Kim jesteÅ›?}
+{348}{}{Kto jest wÅ‚aÅ›cicielem kasyna?}
+{349}{}{DziÄ™ki. Przepraszam za kÅ‚opot.}
+{350}{}{DziÄ™ki. Potrzebujesz kogoÅ›, kto by zatanczyÅ‚ dziÅ› w nocy? MogÄ™ siÄ™ zgodziÄ‡ na umowÄ™ czasowÄ….}
+{351}{}{DziÄ™ki, postaram siÄ™.}
+{352}{}{Nic, dziÄ™kujÄ™. MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{353}{}{Tylko sprawdzam jak sprawy stojÄ…. Trzym siÄ™.}
+{355}{}{Rodziny [CA]. Wpakowali w ten lokal sporo kasy, ale opÅ‚aciÅ‚o siÄ™. To jedna z lokalnych atrakcji Nowego Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
-{357}{}{Kim jesteœ?}
-{358}{}{Czy mo¿esz opowiedzieæ mi coœ o tym kasynie?}
-{359}{}{Rozumiem. Dziêki za poœwiêcenie mi czasu.}
-{360}{}{Hej, zobaczcie kto tu jest! Czeœæ }
+{357}{}{Kim jesteÅ›?}
+{358}{}{Czy moÅ¼esz opowiedzieÄ‡ mi coÅ› o tym kasynie?}
+{359}{}{Rozumiem. DziÄ™ki za poÅ›wiÄ™cenie mi czasu.}
+{360}{}{Hej, zobaczcie kto tu jest! CzeÅ›Ä‡ }
 {361}{}{. Welcome to [CN]. Love your films.}
 {362}{}{Fuuuuuuuuu fuu fuu fuuuuu}
-{363}{}{OdejdŸ}
-{364}{}{Kim jesteœ?}
-{365}{}{Tamten facet? Stary McGee? Stukniêty skurczybyk... gra ci¹gle na tej maszynie ju¿ od kilku lat, wci¹¿ w nadziei na g³ówn¹ wygran¹. Ca³y dorobek jego ¿ycia musi siedzieæ w tej maszynie, ale ona nie da mu ani jednego dolara.}
-{366}{}{Tamten facet? Stary McGee? Stukniêty skurczybyk, nie ma w¹tpliwoœci. Ha. Ale siê na ciebie wkurzy³ za zgarniêcie jego fortuny. Uwa¿aj na niego.}
+{363}{}{OdejdÅº}
+{364}{}{Kim jesteÅ›?}
+{365}{}{Tamten facet? Stary McGee? StukniÄ™ty skurczybyk... gra ciÄ…gle na tej maszynie juÅ¼ od kilku lat, wciÄ…Å¼ w nadziei na gÅ‚Ã³wnÄ… wygranÄ…. CaÅ‚y dorobek jego Å¼ycia musi siedzieÄ‡ w tej maszynie, ale ona nie da mu ani jednego dolara.}
+{366}{}{Tamten facet? Stary McGee? StukniÄ™ty skurczybyk, nie ma wÄ…tpliwoÅ›ci. Ha. Ale siÄ™ na ciebie wkurzyÅ‚ za zgarniÄ™cie jego fortuny. UwaÅ¼aj na niego.}
 {367}{}{Czy ta maszyna oszukuje?}
-{368}{}{Mam kilka innych pytañ...}
-{369}{}{Dziêki za informacje.}
-{370}{}{Dziêki za komplement. Wpadam tylko, ¿eby powiedzieæ dzieñ dobry.}
-{375}{}{Nie, jest po prostu uparta... zupe³nie jak on. Pewnie przyda³aby siê jej ma³a naprawa, ale nie mamy ¿adnego mechanika, który umia³by z t¹ cholern¹ maszyn¹ coœ zrobiæ.}
-{376}{}{Mam kilka innych pytañ...}
-{377}{}{Ciekawe. Dziêki za informacje.}
-{385}{}{Jasne, ten skurwysyn przyszed³ tu tak z tydzieñ temu, roz³o¿y³ jeden stolik na jakieœ tysi¹c dolarów, a potem znik³. Nie wiem, gdzie jest teraz, ale kiedyœ mia³ pokój w Desperado.}
-{386}{}{Jasne, facet o tym imieniu wynajmowa³ jeden z pokoi na górze... 204. Wszystkie rachunki mia³ uregulowane, ale znik³ nagle kilka dni temu i nikt go od tamtej pory nie widzia³.}
-{387}{}{Pan Salvatore wspomina³, ¿e Lloyd wygra³ te pieni¹dze u konkretnego krupiera. Kto to by³?}
-{388}{}{Mam kilka innych pytañ...}
-{389}{}{Dziêki za informacje.}
-{395}{}{Nikki? Jasne, jest tam, przy œrodkowym stoliku. Jakiœ problem?}
-{396}{}{¯adnych problemów. Chcê tylko z ni¹ pogadaæ. Mam kilka innych pytañ...}
-{397}{}{Dziêki za informacje.}
-{405}{}{MIA£A na imiê Nikki. Pracowa³a tu kiedyœ, ale dosta³a w czapê... nie tak dawno temu.}
-{406}{}{Hmmm. Czy bêdziesz mia³ coœ przeciwko, jeœli zadam nastêpne pytanie...?}
-{407}{}{Ciekawe. Dziêki za informacje.}
-{415}{}{Nazywa³a siê Nikki. Pracowa³a u nas, ale niedawno da³a nogê. Wziê³a swoje rzeczy i œlad po niej zagin¹³.}
-{416}{}{Czy bêdziesz mia³ coœ przeciwko, jeœli zadam nastêpne pytanie...?}
-{417}{}{Ciekawe. Dziêki za informacje.}
-{425}{}{Jasne, to przyci¹gnie klientów. Przebieralnia jest na zapleczu...}
-{426}{}{Doskonale. Bêdê na scenie za kilka minut...}
-{427}{}{Nie teraz, mam kilka innych pytañ...}
-{428}{}{Nie teraz. Ale wrócê.}
-{435}{}{Nie, wci¹¿ podnosimy siê z upadku po twoich ostatnich wyczynach. Mo¿e lepiej spróbuj w innych kasynach.}
-{436}{}{Dobra, dziêki. Wiesz co, mam kilka innych pytañ...}
-{437}{}{Dobra... ale jeszcze tu wrócê.}
+{368}{}{Mam kilka innych pytaÅ„...}
+{369}{}{DziÄ™ki za informacje.}
+{370}{}{DziÄ™ki za komplement. Wpadam tylko, Å¼eby powiedzieÄ‡ dzieÅ„ dobry.}
+{375}{}{Nie, jest po prostu uparta... zupeÅ‚nie jak on. Pewnie przydaÅ‚aby siÄ™ jej maÅ‚a naprawa, ale nie mamy Å¼adnego mechanika, ktÃ³ry umiaÅ‚by z tÄ… cholernÄ… maszynÄ… coÅ› zrobiÄ‡.}
+{376}{}{Mam kilka innych pytaÅ„...}
+{377}{}{Ciekawe. DziÄ™ki za informacje.}
+{385}{}{Jasne, ten skurwysyn przyszedÅ‚ tu tak z tydzieÅ„ temu, rozÅ‚oÅ¼yÅ‚ jeden stolik na jakieÅ› tysiÄ…c dolarÃ³w, a potem znikÅ‚. Nie wiem, gdzie jest teraz, ale kiedyÅ› miaÅ‚ pokÃ³j w Desperado.}
+{386}{}{Jasne, facet o tym imieniu wynajmowaÅ‚ jeden z pokoi na gÃ³rze... 204. Wszystkie rachunki miaÅ‚ uregulowane, ale znikÅ‚ nagle kilka dni temu i nikt go od tamtej pory nie widziaÅ‚.}
+{387}{}{Pan Salvatore wspominaÅ‚, Å¼e Lloyd wygraÅ‚ te pieniÄ…dze u konkretnego krupiera. Kto to byÅ‚?}
+{388}{}{Mam kilka innych pytaÅ„...}
+{389}{}{DziÄ™ki za informacje.}
+{395}{}{Nikki? Jasne, jest tam, przy Å›rodkowym stoliku. JakiÅ› problem?}
+{396}{}{Å»adnych problemÃ³w. ChcÄ™ tylko z niÄ… pogadaÄ‡. Mam kilka innych pytaÅ„...}
+{397}{}{DziÄ™ki za informacje.}
+{405}{}{MIAÅA na imiÄ™ Nikki. PracowaÅ‚a tu kiedyÅ›, ale dostaÅ‚a w czapÄ™... nie tak dawno temu.}
+{406}{}{Hmmm. Czy bÄ™dziesz miaÅ‚ coÅ› przeciwko, jeÅ›li zadam nastÄ™pne pytanie...?}
+{407}{}{Ciekawe. DziÄ™ki za informacje.}
+{415}{}{NazywaÅ‚a siÄ™ Nikki. PracowaÅ‚a u nas, ale niedawno daÅ‚a nogÄ™. WziÄ™Å‚a swoje rzeczy i Å›lad po niej zaginÄ…Å‚.}
+{416}{}{Czy bÄ™dziesz miaÅ‚ coÅ› przeciwko, jeÅ›li zadam nastÄ™pne pytanie...?}
+{417}{}{Ciekawe. DziÄ™ki za informacje.}
+{425}{}{Jasne, to przyciÄ…gnie klientÃ³w. Przebieralnia jest na zapleczu...}
+{426}{}{Doskonale. BÄ™dÄ™ na scenie za kilka minut...}
+{427}{}{Nie teraz, mam kilka innych pytaÅ„...}
+{428}{}{Nie teraz. Ale wrÃ³cÄ™.}
+{435}{}{Nie, wciÄ…Å¼ podnosimy siÄ™ z upadku po twoich ostatnich wyczynach. MoÅ¼e lepiej sprÃ³buj w innych kasynach.}
+{436}{}{Dobra, dziÄ™ki. Wiesz co, mam kilka innych pytaÅ„...}
+{437}{}{Dobra... ale jeszcze tu wrÃ³cÄ™.}
 {445}{}{You count up the evening's tally. chips. Not a bad haul.}
 {446}{}{The leather was a nice touch.}
 {447}{}{That ball gag you had with you didn't hurt, either.}
 {448}{}{I'll do even better next time...}
-{455}{}{Pewnie, œmierdzi gorzej ni¿ braminie ³ajno. No ale ty...? A do licha, czemu nie. Ma³a improwizacja nie zaszkodzi, ale to jest trudna publicznoœæ... lepiej siê postaraj.}
-{456}{}{Och, to dla mnie proœcizna... tylko popatrz.}
+{455}{}{Pewnie, Å›mierdzi gorzej niÅ¼ braminie Å‚ajno. No ale ty...? A do licha, czemu nie. MaÅ‚a improwizacja nie zaszkodzi, ale to jest trudna publicznoÅ›Ä‡... lepiej siÄ™ postaraj.}
+{456}{}{Och, to dla mnie proÅ›cizna... tylko popatrz.}
 {1215}{}{. Witam pana.}
 {1216}{}{. Witam pana.}
-{1220}{}{. Witam pani¹.}
-{1221}{}{. Witam pani¹.}
+{1220}{}{. Witam paniÄ….}
+{1221}{}{. Witam paniÄ….}
 {1225}{}{. Witam pana.}
-{1230}{}{. Witam pani¹.}
-{1306}{}{. Odpocznij trochê od ratowania œwiata i zabaw siê.}
+{1230}{}{. Witam paniÄ….}
+{1306}{}{. Odpocznij trochÄ™ od ratowania Å›wiata i zabaw siÄ™.}

@@ -1,67 +1,67 @@
 {100}{}{Ves a un Shi bajo y corpulento.}
 {101}{}{Ves al doctor Wong Yi Tze.}
 {102}{}{Ves a un Shi bajo y corpulento.}
-{103}{}{¿Puedo ayudarte en algo?}
-{104}{}{¿Daghi nu?}
-{105}{}{¿Quién?}
-{106}{}{He oído que tienes el bazo de alguien.}
-{107}{}{¿Quién eres?}
-{108}{}{¿Qué haces aquí?}
+{103}{}{Â¿Puedo ayudarte en algo?}
+{104}{}{Â¿Daghi nu?}
+{105}{}{Â¿QuiÃ©n?}
+{106}{}{He oÃ­do que tienes el bazo de alguien.}
+{107}{}{Â¿QuiÃ©n eres?}
+{108}{}{Â¿QuÃ© haces aquÃ­?}
 {109}{}{No, gracias. Eso es todo.}
-{110}{}{Debo confesar que no hablo tu idioma. Quizá deberías hablar con Ken Lee, que comprende muchos idiomas distintos.}
-{111}{}{¡Aagh!}
-{112}{}{Soy el doctor Wong. Soy el científico jefe de esta instalación.}
-{113}{}{Más preguntas, por favor.}
-{114}{}{Gracias. Adiós.}
-{115}{}{Superviso los experimentos científicos que creamos y dirigimos aquí. También estoy a cargo de la red de computadoras.}
-{116}{}{¿Qué estáis planeando?}
-{117}{}{¿Cómo consigue uno acceso a la red de computadoras?}
+{110}{}{Debo confesar que no hablo tu idioma. QuizÃ¡ deberÃ­as hablar con Ken Lee, que comprende muchos idiomas distintos.}
+{111}{}{Â¡Aagh!}
+{112}{}{Soy el doctor Wong. Soy el cientÃ­fico jefe de esta instalaciÃ³n.}
+{113}{}{MÃ¡s preguntas, por favor.}
+{114}{}{Gracias. AdiÃ³s.}
+{115}{}{Superviso los experimentos cientÃ­ficos que creamos y dirigimos aquÃ­. TambiÃ©n estoy a cargo de la red de computadoras.}
+{116}{}{Â¿QuÃ© estÃ¡is planeando?}
+{117}{}{Â¿CÃ³mo consigue uno acceso a la red de computadoras?}
 {118}{}{Tengo otras preguntas.}
-{119}{}{Ya veo. Adiós.}
-{120}{}{Ah, pero si te cuento nuestros planes, entonces todo el mundo los sabrá. Me temo que son planes secretos, por ahora.}
+{119}{}{Ya veo. AdiÃ³s.}
+{120}{}{Ah, pero si te cuento nuestros planes, entonces todo el mundo los sabrÃ¡. Me temo que son planes secretos, por ahora.}
 {121}{}{Bien, bien. Tengo otras preguntas.}
-{122}{}{Gracias. Adiós.}
-{123}{}{¿Y qué tal si te pongo una pistola bajo la nariz y te obligo a que me lo cuentes?}
-{124}{}{Pues uno aprende cómo piratearla, o cómo hacer amigos entre mis subordinados. Estoy bromeando, por supuesto, sobre lo de piratear: si fueras a hacer eso, tendría que enviar alguien tras de ti para matarte [sonríe para mostrar que no tiene ánimo de ofender].}
-{125}{}{¿Realmente me matarías?}
-{126}{}{¿Así que no tendrías ninguna auténtica objeción a que entrase en la computadora?}
+{122}{}{Gracias. AdiÃ³s.}
+{123}{}{Â¿Y quÃ© tal si te pongo una pistola bajo la nariz y te obligo a que me lo cuentes?}
+{124}{}{Pues uno aprende cÃ³mo piratearla, o cÃ³mo hacer amigos entre mis subordinados. Estoy bromeando, por supuesto, sobre lo de piratear: si fueras a hacer eso, tendrÃ­a que enviar alguien tras de ti para matarte [sonrÃ­e para mostrar que no tiene Ã¡nimo de ofender].}
+{125}{}{Â¿Realmente me matarÃ­as?}
+{126}{}{Â¿AsÃ­ que no tendrÃ­as ninguna autÃ©ntica objeciÃ³n a que entrase en la computadora?}
 {127}{}{Tengo algunas otras preguntas.}
-{128}{}{Por supuesto que lo harías. Adiós.}
-{129}{}{Entonces tendría que considerarlo como una amenaza y avisarte de que ese curso de acción podría resultar perjudicial para tu salud.}
+{128}{}{Por supuesto que lo harÃ­as. AdiÃ³s.}
+{129}{}{Entonces tendrÃ­a que considerarlo como una amenaza y avisarte de que ese curso de acciÃ³n podrÃ­a resultar perjudicial para tu salud.}
 {130}{}{Hagamos la prueba.}
-{131}{}{Sólo estaba bromeando. Tengo otras preguntas.}
-{132}{}{[Sonríe] Debemos proteger nuestro honor, forastero.}
-{133}{}{Err, bien. ¿Así que no tendrías ninguna auténtica objeción a que entrase en la computadora?}
+{131}{}{SÃ³lo estaba bromeando. Tengo otras preguntas.}
+{132}{}{[SonrÃ­e] Debemos proteger nuestro honor, forastero.}
+{133}{}{Err, bien. Â¿AsÃ­ que no tendrÃ­as ninguna autÃ©ntica objeciÃ³n a que entrase en la computadora?}
 {134}{}{Vaaaale. Tengo otras preguntas.}
-{135}{}{Apuesto a que sí. Adiós.}
-{136}{}{Si puedes convencer a mis subordinados para que lo hagan... pero ciertamente no será así.}
-{137}{}{¿Y si te pongo una pistola bajo la nariz?}
-{138}{}{Genial. Bueno, tengo más preguntas.}
+{135}{}{Apuesto a que sÃ­. AdiÃ³s.}
+{136}{}{Si puedes convencer a mis subordinados para que lo hagan... pero ciertamente no serÃ¡ asÃ­.}
+{137}{}{Â¿Y si te pongo una pistola bajo la nariz?}
+{138}{}{Genial. Bueno, tengo mÃ¡s preguntas.}
 {139}{}{Hmm. Ya veo. Bueno, hasta luego.}
-{140}{}{¡Ahh, sí! Ya lo creo. Lo prepararé con habas y un buen chianti.}
-{141}{}{¿Aún lo tienes? Bien. Chip lo necesita de vuelta.}
+{140}{}{Â¡Ahh, sÃ­! Ya lo creo. Lo prepararÃ© con habas y un buen chianti.}
+{141}{}{Â¿AÃºn lo tienes? Bien. Chip lo necesita de vuelta.}
 {142}{}{Es un bazo humano, enfermo hijo de puta!}
-{143}{}{Sabes que se supone que se sirve hígado con ese vino en lugar de bazo, ¿verdad?}
+{143}{}{Sabes que se supone que se sirve hÃ­gado con ese vino en lugar de bazo, Â¿verdad?}
 {144}{}{Es un bazo humano, sabes.}
-{145}{}{¿Quién es ese tal Chip? Ahora es mi bazo, y lo tengo para cenar.}
-{146}{}{Chip es el propietario original del bazo. Estaba borracho y se lo vendió a Lao Chou.}
-{147}{}{Lo necesita para sobrevivir, ¿sabes? Procede del interior de su cuerpo.}
-{148}{}{Entonces lo mejor será que te mate para conseguirlo.}
-{149}{}{Un trato es un trato. No puede tenerlo. Lo siento, pero hicimos un pacto y sólo porque Chip lo lamente ahora no significa que se pueda dar marcha atrás en el trato.}
-{150}{}{[MÁS]}
-{151}{}{¿Es un bazo humano? ¡Lao Chou no me dijo nada de eso!}
-{152}{}{Sin embargo, debido a la rudeza del mensajero, creo que me quedaré con todas las partes del trato. Así que me limitaré a experimentar con él.}
-{153}{}{Dile a tu amigo que se pase por aquí en los próximos días, y con gusto se lo devolveré. Tan solo espero que puedas encontrar una forma de recolocarlo en su cuerpo a tiempo.}
+{145}{}{Â¿QuiÃ©n es ese tal Chip? Ahora es mi bazo, y lo tengo para cenar.}
+{146}{}{Chip es el propietario original del bazo. Estaba borracho y se lo vendiÃ³ a Lao Chou.}
+{147}{}{Lo necesita para sobrevivir, Â¿sabes? Procede del interior de su cuerpo.}
+{148}{}{Entonces lo mejor serÃ¡ que te mate para conseguirlo.}
+{149}{}{Un trato es un trato. No puede tenerlo. Lo siento, pero hicimos un pacto y sÃ³lo porque Chip lo lamente ahora no significa que se pueda dar marcha atrÃ¡s en el trato.}
+{150}{}{[MÃS]}
+{151}{}{Â¿Es un bazo humano? Â¡Lao Chou no me dijo nada de eso!}
+{152}{}{Sin embargo, debido a la rudeza del mensajero, creo que me quedarÃ© con todas las partes del trato. AsÃ­ que me limitarÃ© a experimentar con Ã©l.}
+{153}{}{Dile a tu amigo que se pase por aquÃ­ en los prÃ³ximos dÃ­as, y con gusto se lo devolverÃ©. Tan solo espero que puedas encontrar una forma de recolocarlo en su cuerpo a tiempo.}
 {154}{}{Muy bien.}
-{155}{}{¡Ja ja! Sí, yo también vi esa vieja película. Espera... ¿qué estás diciendo? ¿Estás diciendo que...?}
-{156}{}{Sí, es un bazo humano.}
-{157}{}{En realidad, me opondría a eso. No has demostrado tener buen carácter. De hecho, no sé por qué estoy hablando contigo. Buenos días.}
+{155}{}{Â¡Ja ja! SÃ­, yo tambiÃ©n vi esa vieja pelÃ­cula. Espera... Â¿quÃ© estÃ¡s diciendo? Â¿EstÃ¡s diciendo que...?}
+{156}{}{SÃ­, es un bazo humano.}
+{157}{}{En realidad, me opondrÃ­a a eso. No has demostrado tener buen carÃ¡cter. De hecho, no sÃ© por quÃ© estoy hablando contigo. Buenos dÃ­as.}
 {158}{}{[HECHO]}
-{159}{}{¡Aaah! ¡Guardias! ¡El lao wai intruso está aquí!}
-{160}{}{¿Tienes ciertos esquemas que darme?}
+{159}{}{Â¡Aaah! Â¡Guardias! Â¡El lao wai intruso estÃ¡ aquÃ­!}
+{160}{}{Â¿Tienes ciertos esquemas que darme?}
 {161}{}{Ken Lee me dijo que te entregase esto.}
-{162}{}{Sí. Ahora, ¿qué hay para mí?}
-{163}{}{No, aún no.}
-{164}{}{Habla con Ken Lee, y él discutirá lo que pasa con tu futuro. Gracias. Con esto podremos verificar algunos de nuestros datos de prueba. Buenos días.}
-{165}{}{En realidad tenía otras preguntas.}
+{162}{}{SÃ­. Ahora, Â¿quÃ© hay para mÃ­?}
+{163}{}{No, aÃºn no.}
+{164}{}{Habla con Ken Lee, y Ã©l discutirÃ¡ lo que pasa con tu futuro. Gracias. Con esto podremos verificar algunos de nuestros datos de prueba. Buenos dÃ­as.}
+{165}{}{En realidad tenÃ­a otras preguntas.}
 {166}{}{Hasta la vista.}

@@ -1,8 +1,8 @@
 {100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst einen Hubologen-Computer.}
-{102}{}{Du siehst einen Computer. Er ist zwar recht primitiv, scheint aber funktionsfähig zu
+{102}{}{Du siehst einen Computer. Er ist zwar recht primitiv, scheint aber funktionsfÃ¤hig zu
  sein.}
-{103}{}{Dieses Gerät akzeptiert keine Befehle. Auf Wiedersehen.}
+{103}{}{Dieses GerÃ¤t akzeptiert keine Befehle. Auf Wiedersehen.}
 {104}{}{[Was immer du auch versuchst, du kannst den Code des Computers nicht knacken.]}
 {105}{}{Abmelden.}
 {106}{}{Willkommen im HubLink.}
@@ -10,43 +10,43 @@
 {108}{}{Zugang zur Datenbank.}
 {109}{}{Zugang zu den Steuerfunktionen.}
 {110}{}{Abmelden.}
-{111}{}{Datenbank auswählen.}
+{111}{}{Datenbank auswÃ¤hlen.}
 {112}{}{Forschung.}
 {113}{}{Zukunftsziele.}
 {114}{}{Finanzen.}
-{115}{}{Zurück.}
-{116}{}{[Nachdem du dich durch das religiöse Papperlapapp gewühlt hast, entdeckst du, dass die
- Hubologen ein Verfahren entwickelt haben, Powerrüstungen zu härten. Außerdem habe sie einen Weg
- gefunden, um  Raketenstarts, Umlaufbahnen und Ziele im Weltraum zu berechnen. Darüber hinaus
+{115}{}{ZurÃ¼ck.}
+{116}{}{[Nachdem du dich durch das religiÃ¶se Papperlapapp gewÃ¼hlt hast, entdeckst du, dass die
+ Hubologen ein Verfahren entwickelt haben, PowerrÃ¼stungen zu hÃ¤rten. AuÃŸerdem habe sie einen Weg
+ gefunden, um  Raketenstarts, Umlaufbahnen und Ziele im Weltraum zu berechnen. DarÃ¼ber hinaus
  scheinen sie an der Beeinflussung des Wetters zu arbeiten.]}
-{117}{}{Zurück.}
+{117}{}{ZurÃ¼ck.}
 {118}{}{Abmelden.}
 {119}{}{[Du studierst etwa eine halbe Stunde lang die Ziele, die sich AHS-9 gesteckt hat. Neben
  der Erleuchtung und der Vereinigung mit dem Sternenvater scheint dazu auch die skrupellose
- Vernichtung der Menschen zu gehören, die nicht von Anfang an auf seiner Seite standen. Er ist
- ein bisschen verrückt.]}
-{120}{}{Zurück.}
+ Vernichtung der Menschen zu gehÃ¶ren, die nicht von Anfang an auf seiner Seite standen. Er ist
+ ein bisschen verrÃ¼ckt.]}
+{120}{}{ZurÃ¼ck.}
 {121}{}{Abmelden.}
-{122}{}{[Die Hubologen-Kirche scheint sehr wohlhabend zu sein. Die reguläre Vorgehensweise ist,
+{122}{}{[Die Hubologen-Kirche scheint sehr wohlhabend zu sein. Die regulÃ¤re Vorgehensweise ist,
  einen neuen Bewerber aufzufordern, all seinen weltlichen Besitz als Zeichen seines Glaubens der
- Kirche zu überschreiben. Wenn jemand nicht dazu aufgefordert wird, dann spielen die Hubologen
- offensichtlich nicht fair. Sie haben irgendwo in der Wüste ein riesiges Beutelager. Du kommst
+ Kirche zu Ã¼berschreiben. Wenn jemand nicht dazu aufgefordert wird, dann spielen die Hubologen
+ offensichtlich nicht fair. Sie haben irgendwo in der WÃ¼ste ein riesiges Beutelager. Du kommst
  aber mit den Koordinaten nicht zurecht.]}
-{123}{}{Zurück.}
+{123}{}{ZurÃ¼ck.}
 {124}{}{Abmelden.}
-{125}{}{Zugang zu den Steuerfunktionen. Vorgang auswählen.}
+{125}{}{Zugang zu den Steuerfunktionen. Vorgang auswÃ¤hlen.}
 {126}{}{Festplatte formatieren.}
-{127}{}{Systemstatus prüfen.}
-{128}{}{Zurück.}
+{127}{}{Systemstatus prÃ¼fen.}
+{128}{}{ZurÃ¼ck.}
 {129}{}{Abmelden.}
 {130}{}{Unerlaubter Vorgang. Bitte mit Systemadministrator in Verbindung setzen. Abmelden. Auf Wiedersehen.}
 {131}{}{[Fertig]}
-{132}{}{Es scheint kein Interface dafür zu geben.}
+{132}{}{Es scheint kein Interface dafÃ¼r zu geben.}
 {133}{}{Raumschiff HSS Quetzel betankt und startbereit.}
 {134}{}{Raumschiff HSS Quetzel nicht betankt.}
-{135}{}{Großrechner einsatzbereit. Pipeline einsatzbereit. Forschungsstationen einsatzbereit.
+{135}{}{GroÃŸrechner einsatzbereit. Pipeline einsatzbereit. Forschungsstationen einsatzbereit.
  Reparaturzentrum einsatzbereit. Kameras einsatzbereit.}
-{136}{}{Zurück.}
+{136}{}{ZurÃ¼ck.}
 {137}{}{Abmelden.}
 {250}{}{Leite Benzin zum Poseidon-Tanker.}
 {251}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}

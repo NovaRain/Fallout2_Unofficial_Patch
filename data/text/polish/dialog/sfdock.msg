@@ -1,1 +1,1 @@
-{100}{}{Wchodzisz do doków San Francisco. Widzisz du¿y tankowiec unosz¹cy siê na wodzie przed tob¹. Nad sob¹ s³yszysz mewy.}
+{100}{}{Wchodzisz do dokÃ³w San Francisco. Widzisz duÅ¼y tankowiec unoszÄ…cy siÄ™ na wodzie przed tobÄ…. Nad sobÄ… sÅ‚yszysz mewy.}

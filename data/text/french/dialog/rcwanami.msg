@@ -1,2 +1,2 @@
-{100}{}{Tu aperçois un Wanamingo.}
-{101}{}{Le Wanamingo n'a pas l'air très ravi à la vue d'hôtes imprévus.}
+{100}{}{Tu aperÃ§ois un Wanamingo.}
+{101}{}{Le Wanamingo n'a pas l'air trÃ¨s ravi Ã  la vue d'hÃ´tes imprÃ©vus.}

@@ -1,3 +1,3 @@
-{100}{}{Widzisz studniê podmurza.}
-{101}{}{Mo¿esz siê myliæ, ale gdy spogl¹dasz w dó³ studni czujesz gor¹co emanuj¹ce z ciemnoœci.}
-{102}{}{Bierzesz du¿y ³yk wody ze studni. Jest nienaturalnie ciep³a.}
+{100}{}{Widzisz studniÄ™ podmurza.}
+{101}{}{MoÅ¼esz siÄ™ myliÄ‡, ale gdy spoglÄ…dasz w dÃ³Å‚ studni czujesz gorÄ…co emanujÄ…ce z ciemnoÅ›ci.}
+{102}{}{Bierzesz duÅ¼y Å‚yk wody ze studni. Jest nienaturalnie ciepÅ‚a.}

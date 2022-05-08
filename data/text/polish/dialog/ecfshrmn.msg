@@ -1,26 +1,26 @@
 {100}{}{Widzisz Rybaka.}
-{101}{}{Przybywasz w sam¹ porê, aby byæ œwiadkiem b³ogos³awieñstwa Bogini Morza.}
+{101}{}{Przybywasz w samÄ… porÄ™, aby byÄ‡ Å›wiadkiem bÅ‚ogosÅ‚awieÅ„stwa Bogini Morza.}
 {102}{}{[More]}
 {103}{}{}
-{104}{}{Tu¿ przed wielkim sztormem rzucamy w³óczniami w morze, ¿eby okazaæ nasze mêstwo wobec ¿ywio³u. Jeœli oka¿emy siê godni, Bogini nagrodzi nas owocami.}
+{104}{}{TuÅ¼ przed wielkim sztormem rzucamy wÅ‚Ã³czniami w morze, Å¼eby okazaÄ‡ nasze mÄ™stwo wobec Å¼ywioÅ‚u. JeÅ›li okaÅ¼emy siÄ™ godni, Bogini nagrodzi nas owocami.}
 {105}{}{When the season of storms begins, we throw Broc flowers out on the sea with the tide.  After
  the Goddess works her magic, she returns the Broc flowers as the rare Xander root. }
 {106}{}{We offer tribute to the Goddess of the Sea each year in the form of Xander root.  If the
  Goddess deems us worthy, she will turn the Xander root into Broc flowers. }
-{107}{}{Po obfitych zbiorach wznosimy do Bogini Morza modlitwê dziêkczynn¹, z proœb¹, aby mia³a nas w swojej opiece, a ona co roku nagradza nasze oddanie przysy³aj¹c nam w³ócznie jako znak, ¿e nad nami czuwa.}
-{108}{}{Mogê zobaczyæ, co zes³a³a wam Bogini Morza?}
+{107}{}{Po obfitych zbiorach wznosimy do Bogini Morza modlitwÄ™ dziÄ™kczynnÄ…, z proÅ›bÄ…, aby miaÅ‚a nas w swojej opiece, a ona co roku nagradza nasze oddanie przysyÅ‚ajÄ…c nam wÅ‚Ã³cznie jako znak, Å¼e nad nami czuwa.}
+{108}{}{MogÄ™ zobaczyÄ‡, co zesÅ‚aÅ‚a wam Bogini Morza?}
 {109}{}{Ug}
-{110}{}{Oto przedmioty, które otrzymaliœmy od Bogini w tym roku. Chêtnie podzielimy siê nimi z tob¹ za odpowiedni¹ cenê.}
-{111}{}{Z³om [10$]}
+{110}{}{Oto przedmioty, ktÃ³re otrzymaliÅ›my od Bogini w tym roku. ChÄ™tnie podzielimy siÄ™ nimi z tobÄ… za odpowiedniÄ… cenÄ™.}
+{111}{}{ZÅ‚om [10$]}
 {112}{}{Pistolet laserowy [10000$]}
 {113}{}{Zaostrzone kije [40$]}
 {114}{}{Owoc [5$]}
-{115}{}{Korzeñ Xandrowy [20$]}
+{115}{}{KorzeÅ„ Xandrowy [20$]}
 {116}{}{Kwiat Broca [10$]}
 {117}{}{Bywaj.}
-{118}{}{[Wyci¹ga rêkê w kierunku morza] IdŸ przed siebie. Bogini ¿yczy sobie spotkaæ siê z tob¹ osobiœcie.}
+{118}{}{[WyciÄ…ga rÄ™kÄ™ w kierunku morza] IdÅº przed siebie. Bogini Å¼yczy sobie spotkaÄ‡ siÄ™ z tobÄ… osobiÅ›cie.}
 {119}{}{[Koniec]}
-{120}{}{Niech b³ogos³awiona Bogini Morza czuwa nad twoimi œcie¿kami.}
+{120}{}{Niech bÅ‚ogosÅ‚awiona Bogini Morza czuwa nad twoimi Å›cieÅ¼kami.}
 {121}{}{[Koniec]}
 {122}{}{[He frowns as you fail to produce the required sum of money.]  Perhaps another time, then.}
 {123}{}{[Koniec]}

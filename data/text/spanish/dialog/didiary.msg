@@ -1,3 +1,3 @@
 {100}{}{Ves un viejo diario.}
-{101}{}{El viejo diario es demasiado fr·gil para continuar manipul·ndolo. La informaciÛn ha sido descargada en tu PipBoy.}
-{102}{}{El diario est· almacenado en tu PipBoy.}
+{101}{}{El viejo diario es demasiado fr√°gil para continuar manipul√°ndolo. La informaci√≥n ha sido descargada en tu PipBoy.}
+{102}{}{El diario est√° almacenado en tu PipBoy.}

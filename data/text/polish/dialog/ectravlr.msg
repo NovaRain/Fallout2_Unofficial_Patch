@@ -1,10 +1,10 @@
-{100}{}{Widzisz podró¿nika.}
-{101}{}{Nareszcie! Jakaœ przyjazna twarz.}
-{102}{}{Potrzebujê wskazówek. Mo¿esz mi pomóc?}
-{103}{}{A dok¹d zmierzasz?}
+{100}{}{Widzisz podrÃ³Å¼nika.}
+{101}{}{Nareszcie! JakaÅ› przyjazna twarz.}
+{102}{}{PotrzebujÄ™ wskazÃ³wek. MoÅ¼esz mi pomÃ³c?}
+{103}{}{A dokÄ…d zmierzasz?}
 {104}{}{Co tutaj robisz?}
 {105}{}{Ug.}
-{106}{}{No nie wiem. Nie znam zbyt dobrze tych stron. Wiem, gdzie le¿¹.}
+{106}{}{No nie wiem. Nie znam zbyt dobrze tych stron. Wiem, gdzie leÅ¼Ä….}
 {107}{}{Nowego Reno}
 {108}{}{Kryptopolis}
 {109}{}{Redding}
@@ -12,38 +12,38 @@
 {111}{}{San Francisco}
 {112}{}{Republika Nowej Kalifornii}
 {113}{}{Opuszczona kopalnia.}
-{114}{}{Nie, te miejsca ju¿ znam. Mimo to - dziêki.}
+{114}{}{Nie, te miejsca juÅ¼ znam. Mimo to - dziÄ™ki.}
 {115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling.  What more can one ask for?
  Here, let me show you where it is.}
-{116}{}{Dziêkujê.}
-{117}{}{Kryptopolis - to dopiero miasto kretynów. Wystarczy, ¿e wyroœnie ci dodatkowy palec i traktuj¹ ciê jak jakieœ dziwad³o. Nie by³em w œrodku, ale wiem gdzie to jest.}
-{118}{}{Dziêkujê.}
-{119}{}{Redding... Nie wiem zbyt wiele o tym mieœcie, poza tym, ¿e to osiedle górnicze. Le¿y na pó³nocy w samiutkim œrodku najgorszych gór jakie œwiat ogl¹da³.}
-{120}{}{Dziêkujê.}
-{121}{}{Lepiej trzymaj siê z dala od Nory. To miasto po prostu przyci¹ga najgorsze mêty pustkowi. Poka¿ê ci gdzie to jest, ale uprzedzam - omijaj Norê szerokim ³ukiem.}
-{122}{}{Dziêkujê.}
-{123}{}{San Francisco. Hmmmm... wiem tylko, ¿e ¿yj¹ tam dziwni ludzie. To na wybrze¿u.}
-{124}{}{Dziêkujê.}
-{125}{}{Republika Nowej Kalifornii... to ca³kiem mi³e miejsce. Chêtnie siê tam kiedyœ osiedlê. Czysto, mili ludzie, dobrze zarz¹dzane. Zaznaczê ci RNK na mapie.}
-{126}{}{Dziêkujê.}
-{127}{}{Tak, jakiœ czas temu zdarzy³o mi siê obozowaæ w starej osadzie górniczej. Niestety, wilki szybko mnie stamt¹d wyp³oszy³y. A szkoda, bo górnicy zwiewali chyba w pop³ochu i zostawili sporo sprzêtu. Nie zamierzam tam raczej wracaæ, wiêc chyba mogê pokazaæ ci gdzie to by³o.}
-{128}{}{Dziêkujê.}
-{129}{}{Och... to naprawdê nieistotne. Ot - zachcia³o mi siê kiedyœ wyruszyæ w podró¿ i... oto jestem.}
-{130}{}{Mo¿esz mi pomóc? Potrzebujê wskazówek.}
+{116}{}{DziÄ™kujÄ™.}
+{117}{}{Kryptopolis - to dopiero miasto kretynÃ³w. Wystarczy, Å¼e wyroÅ›nie ci dodatkowy palec i traktujÄ… ciÄ™ jak jakieÅ› dziwadÅ‚o. Nie byÅ‚em w Å›rodku, ale wiem gdzie to jest.}
+{118}{}{DziÄ™kujÄ™.}
+{119}{}{Redding... Nie wiem zbyt wiele o tym mieÅ›cie, poza tym, Å¼e to osiedle gÃ³rnicze. LeÅ¼y na pÃ³Å‚nocy w samiutkim Å›rodku najgorszych gÃ³r jakie Å›wiat oglÄ…daÅ‚.}
+{120}{}{DziÄ™kujÄ™.}
+{121}{}{Lepiej trzymaj siÄ™ z dala od Nory. To miasto po prostu przyciÄ…ga najgorsze mÄ™ty pustkowi. PokaÅ¼Ä™ ci gdzie to jest, ale uprzedzam - omijaj NorÄ™ szerokim Å‚ukiem.}
+{122}{}{DziÄ™kujÄ™.}
+{123}{}{San Francisco. Hmmmm... wiem tylko, Å¼e Å¼yjÄ… tam dziwni ludzie. To na wybrzeÅ¼u.}
+{124}{}{DziÄ™kujÄ™.}
+{125}{}{Republika Nowej Kalifornii... to caÅ‚kiem miÅ‚e miejsce. ChÄ™tnie siÄ™ tam kiedyÅ› osiedlÄ™. Czysto, mili ludzie, dobrze zarzÄ…dzane. ZaznaczÄ™ ci RNK na mapie.}
+{126}{}{DziÄ™kujÄ™.}
+{127}{}{Tak, jakiÅ› czas temu zdarzyÅ‚o mi siÄ™ obozowaÄ‡ w starej osadzie gÃ³rniczej. Niestety, wilki szybko mnie stamtÄ…d wypÅ‚oszyÅ‚y. A szkoda, bo gÃ³rnicy zwiewali chyba w popÅ‚ochu i zostawili sporo sprzÄ™tu. Nie zamierzam tam raczej wracaÄ‡, wiÄ™c chyba mogÄ™ pokazaÄ‡ ci gdzie to byÅ‚o.}
+{128}{}{DziÄ™kujÄ™.}
+{129}{}{Och... to naprawdÄ™ nieistotne. Ot - zachciaÅ‚o mi siÄ™ kiedyÅ› wyruszyÄ‡ w podrÃ³Å¼ i... oto jestem.}
+{130}{}{MoÅ¼esz mi pomÃ³c? PotrzebujÄ™ wskazÃ³wek.}
 {131}{}{Co tutaj robisz?}
-{132}{}{Mi³o siê rozmawia³o.}
-{133}{}{Pracujê dorywczo tu i tam. Ale g³ównie po prostu podró¿ujê.}
-{134}{}{Mo¿esz mi pomóc? Potrzebujê wskazówek.}
-{135}{}{Dok¹d zmierzasz?}
-{136}{}{Mi³o siê rozmawia³o.}
-{137}{}{Naprawdê muszê ju¿ iœæ. Mi³o siê gawêdzi³o.}
-{138}{}{Mo¿e siê jeszcze kiedyœ spotkamy.}
-{139}{}{Chcê dotrzeæ przed zmrokiem do jakiejœ osady. Muszê ju¿ iœæ.}
+{132}{}{MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{133}{}{PracujÄ™ dorywczo tu i tam. Ale gÅ‚Ã³wnie po prostu podrÃ³Å¼ujÄ™.}
+{134}{}{MoÅ¼esz mi pomÃ³c? PotrzebujÄ™ wskazÃ³wek.}
+{135}{}{DokÄ…d zmierzasz?}
+{136}{}{MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{137}{}{NaprawdÄ™ muszÄ™ juÅ¼ iÅ›Ä‡. MiÅ‚o siÄ™ gawÄ™dziÅ‚o.}
+{138}{}{MoÅ¼e siÄ™ jeszcze kiedyÅ› spotkamy.}
+{139}{}{ChcÄ™ dotrzeÄ‡ przed zmrokiem do jakiejÅ› osady. MuszÄ™ juÅ¼ iÅ›Ä‡.}
 {140}{}{I'd be going.}
-{141}{}{Pu³apka!}
-{142}{}{Nikomu ju¿ nie mo¿na ufaæ.}
-{143}{}{£amiesz honorowy kodeks podró¿nika.}
-{144}{}{Pora iœæ dalej.}
-{145}{}{No, to pora iœæ.}
-{146}{}{Pora ruszaæ w drogê.}
-{150}{}{Dziêki. Potrzebujê lokalizacji jeszcze kilku innych miejsc.}
+{141}{}{PuÅ‚apka!}
+{142}{}{Nikomu juÅ¼ nie moÅ¼na ufaÄ‡.}
+{143}{}{Åamiesz honorowy kodeks podrÃ³Å¼nika.}
+{144}{}{Pora iÅ›Ä‡ dalej.}
+{145}{}{No, to pora iÅ›Ä‡.}
+{146}{}{Pora ruszaÄ‡ w drogÄ™.}
+{150}{}{DziÄ™ki. PotrzebujÄ™ lokalizacji jeszcze kilku innych miejsc.}

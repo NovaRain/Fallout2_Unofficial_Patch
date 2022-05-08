@@ -1,26 +1,26 @@
-{100}{}{Widzisz kogoœ w pancerzu wspomaganym. }
-{101}{}{Widzisz dowódcê bazy Navarro.}
-{102}{}{Widzisz kogoœ w nietypowym pancerzu wspomaganym. Na napierœniku widnieje nieznany ci symbol.}
-{103}{}{Kim wy u diab³a jesteœcie... Alarm! Intruzi w bazie!}
-{104}{}{Nie mam czasu na pogaduszki z szeregowcami. Odmaszerowaæ.}
-{105}{}{Czas na œmieræ.}
-{106}{}{W porz¹dku.}
-{107}{}{Mówi³am, ¿e nie mam czasu na rozmowê z tob¹. Opuœæ to pomieszczenie i nie wracaj, jeœli po ciebie nie poœlê. Odmaszerowaæ!}
-{108}{}{Odmowa wykonania bezpoœredniego rozkazu starszego oficera jest zdrad¹. Nie mam teraz czasu, ¿eby zwo³ywaæ trybuna³, wiêc zajmê siê tym sama. Stra¿! Zabiæ tego kretyna!}
-{109}{}{W porz¹dku.}
-{110}{}{Pierdol siê!}
-{111}{}{KD znajduje siê w tej szafce. Powiedz oficerowi dy¿urnemu, ¿eby skontaktowa³ siê ze mn¹, gdy tylko zostanie zabezpieczona. Odmaszerowaæ!}
+{100}{}{Widzisz kogoÅ› w pancerzu wspomaganym. }
+{101}{}{Widzisz dowÃ³dcÄ™ bazy Navarro.}
+{102}{}{Widzisz kogoÅ› w nietypowym pancerzu wspomaganym. Na napierÅ›niku widnieje nieznany ci symbol.}
+{103}{}{Kim wy u diabÅ‚a jesteÅ›cie... Alarm! Intruzi w bazie!}
+{104}{}{Nie mam czasu na pogaduszki z szeregowcami. OdmaszerowaÄ‡.}
+{105}{}{Czas na Å›mierÄ‡.}
+{106}{}{W porzÄ…dku.}
+{107}{}{MÃ³wiÅ‚am, Å¼e nie mam czasu na rozmowÄ™ z tobÄ…. OpuÅ›Ä‡ to pomieszczenie i nie wracaj, jeÅ›li po ciebie nie poÅ›lÄ™. OdmaszerowaÄ‡!}
+{108}{}{Odmowa wykonania bezpoÅ›redniego rozkazu starszego oficera jest zdradÄ…. Nie mam teraz czasu, Å¼eby zwoÅ‚ywaÄ‡ trybunaÅ‚, wiÄ™c zajmÄ™ siÄ™ tym sama. StraÅ¼! ZabiÄ‡ tego kretyna!}
+{109}{}{W porzÄ…dku.}
+{110}{}{Pierdol siÄ™!}
+{111}{}{KD znajduje siÄ™ w tej szafce. Powiedz oficerowi dyÅ¼urnemu, Å¼eby skontaktowaÅ‚ siÄ™ ze mnÄ…, gdy tylko zostanie zabezpieczona. OdmaszerowaÄ‡!}
 {112}{}{Tak jest!}
-{113}{}{Poœpiesz siê, ¿o³nierzu, nie mam ca³ego dnia, ¿eby tak tu staæ.}
+{113}{}{PoÅ›piesz siÄ™, Å¼oÅ‚nierzu, nie mam caÅ‚ego dnia, Å¼eby tak tu staÄ‡.}
 {114}{}{Tak jest!}
-{115}{}{Zostaw moj¹ szafkê w spokoju, albo ukarzê ciê porz¹dn¹ dawk¹ bólu.}
+{115}{}{Zostaw mojÄ… szafkÄ™ w spokoju, albo ukarzÄ™ ciÄ™ porzÄ…dnÄ… dawkÄ… bÃ³lu.}
 {116}{}{Tak jest!}
-{117}{}{W tej bazie og³oszono alarm, a ja ciê nie poznajê. Poka¿ mi swoje papiery, ¿o³nierzu.}
+{117}{}{W tej bazie ogÅ‚oszono alarm, a ja ciÄ™ nie poznajÄ™. PokaÅ¼ mi swoje papiery, Å¼oÅ‚nierzu.}
 {118}{}{Jakie papiery?}
-{119}{}{Mo¿esz mi naskoczyæ!}
-{120}{}{Obawiam siê, ¿e nie mam ich przy sobie...}
-{121}{}{Papiery? Zaraz ci poka¿e papiery!}
-{122}{}{Z³a odpowiedŸ, robaku. Masz obowi¹zek nosiæ swoje papiery przy sobie przez ca³y czas. ¯o³nierz powinien to wiedzieæ.}
-{123}{}{IdŸ siê jebaæ.}
-{124}{}{Zostaw moj¹ szafkê w spokoju, albo ukarzê ciê porz¹dn¹ dawk¹ bólu.}
-{125}{}{Czas na œmieræ.}
+{119}{}{MoÅ¼esz mi naskoczyÄ‡!}
+{120}{}{Obawiam siÄ™, Å¼e nie mam ich przy sobie...}
+{121}{}{Papiery? Zaraz ci pokaÅ¼e papiery!}
+{122}{}{ZÅ‚a odpowiedÅº, robaku. Masz obowiÄ…zek nosiÄ‡ swoje papiery przy sobie przez caÅ‚y czas. Å»oÅ‚nierz powinien to wiedzieÄ‡.}
+{123}{}{IdÅº siÄ™ jebaÄ‡.}
+{124}{}{Zostaw mojÄ… szafkÄ™ w spokoju, albo ukarzÄ™ ciÄ™ porzÄ…dnÄ… dawkÄ… bÃ³lu.}
+{125}{}{Czas na Å›mierÄ‡.}

@@ -1,37 +1,37 @@
-{100}{}{A n? arcát aggodalom torzítja el.}
+{100}{}{A n? arcÃ¡t aggodalom torzÃ­tja el.}
 {101}{}{Suze.}
-{102}{}{A n? arcát aggodalom torzítja el.}
-{103}{}{Jajjajj! Segítség!}
-{104}{}{Ments meg! Légyszi!}
-{105}{}{Ezek meg akarnak ölni!}
-{106}{}{Légyszi! Ezek meg akarnak ölni engem!}
-{107}{}{Állítsd meg ?ket! Jajjajjajj!}
-{108}{}{A Borz küldött téged? Tudtam, hogy segíteni fog. Úgy megkönnyebbültem.}
+{102}{}{A n? arcÃ¡t aggodalom torzÃ­tja el.}
+{103}{}{Jajjajj! SegÃ­tsÃ©g!}
+{104}{}{Ments meg! LÃ©gyszi!}
+{105}{}{Ezek meg akarnak Ã¶lni!}
+{106}{}{LÃ©gyszi! Ezek meg akarnak Ã¶lni engem!}
+{107}{}{ÃllÃ­tsd meg ?ket! Jajjajjajj!}
+{108}{}{A Borz kÃ¼ldÃ¶tt tÃ©ged? Tudtam, hogy segÃ­teni fog. Ãšgy megkÃ¶nnyebbÃ¼ltem.}
 {109}{}{Aagggh.}
-{110}{}{Mit csináltál odalenn?}
-{111}{}{Igen. Gyere utánam!}
-{112}{}{Ó, szegénykém. A sugárzás meg a pusztaság nem egy leányálom, mi? Remélem, valaki segít rajtad.}
-{113}{}{Tudom, hogy hülyeséget csináltam. Kiváncsiságból nekiálltam kutakodni, mert a Borz számítógépezett. Lementem a lépcs?n és eltévedtem. Semmi perc alatt körbevettek a szörnyek. Nagyon jó, hogy jöttél.}
-{114}{}{Volna még néhány kérdésem.}
-{115}{}{Igen, az. Találtál valami érdekeset?}
+{110}{}{Mit csinÃ¡ltÃ¡l odalenn?}
+{111}{}{Igen. Gyere utÃ¡nam!}
+{112}{}{Ã“, szegÃ©nykÃ©m. A sugÃ¡rzÃ¡s meg a pusztasÃ¡g nem egy leÃ¡nyÃ¡lom, mi? RemÃ©lem, valaki segÃ­t rajtad.}
+{113}{}{Tudom, hogy hÃ¼lyesÃ©get csinÃ¡ltam. KivÃ¡ncsisÃ¡gbÃ³l nekiÃ¡lltam kutakodni, mert a Borz szÃ¡mÃ­tÃ³gÃ©pezett. Lementem a lÃ©pcs?n Ã©s eltÃ©vedtem. Semmi perc alatt kÃ¶rbevettek a szÃ¶rnyek. Nagyon jÃ³, hogy jÃ¶ttÃ©l.}
+{114}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{115}{}{Igen, az. TalÃ¡ltÃ¡l valami Ã©rdekeset?}
 {116}{}{Igen, az... Na, haladjunk...}
-{117}{}{Ugyebár rátaláltam arra a helyre, ahol meghúztam magam. Ezenkívül találtam egy helyiséget, ami úgy nézett ki, mint valami üzemanyagtölt? állomás. A szörnyek miatt nem jutottam messzire.}
-{118}{}{Volna még néhány kérdésem.}
-{119}{}{Hová való vagy?}
-{120}{}{Nagyszer?! Most elég lesz ennyi.}
-{121}{}{Egy Csonttelept?l délre fekv? helyr?l származom, délre az Izzástól. Nincs messze onnan a tenger. Régen óvón? voltam, de a gyerekek mind átmutálódtak szörnyekké.}
-{122}{}{Volna még néhány kérdésem.}
-{123}{}{Hogy találkoztál a Borzzal?}
-{124}{}{Elb?völ?. Most elég lesz ennyi.}
-{125}{}{A srác lejött délre és felbukkant abban a klubban, ahova én is jártam. Szóval amikor beütött a költözés ideje, úgy gondoltam, jó hely lesz ez itt majd kett?nknek.}
-{126}{}{Volna még néhány kérdésem.}
-{127}{}{Ez minden. Köszi.}
-{128}{}{Megmentetted az életem. Bármilyen kérdésedre válaszolok.}
+{117}{}{UgyebÃ¡r rÃ¡talÃ¡ltam arra a helyre, ahol meghÃºztam magam. EzenkÃ­vÃ¼l talÃ¡ltam egy helyisÃ©get, ami Ãºgy nÃ©zett ki, mint valami Ã¼zemanyagtÃ¶lt? Ã¡llomÃ¡s. A szÃ¶rnyek miatt nem jutottam messzire.}
+{118}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{119}{}{HovÃ¡ valÃ³ vagy?}
+{120}{}{Nagyszer?! Most elÃ©g lesz ennyi.}
+{121}{}{Egy Csonttelept?l dÃ©lre fekv? helyr?l szÃ¡rmazom, dÃ©lre az IzzÃ¡stÃ³l. Nincs messze onnan a tenger. RÃ©gen Ã³vÃ³n? voltam, de a gyerekek mind Ã¡tmutÃ¡lÃ³dtak szÃ¶rnyekkÃ©.}
+{122}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{123}{}{Hogy talÃ¡lkoztÃ¡l a Borzzal?}
+{124}{}{Elb?vÃ¶l?. Most elÃ©g lesz ennyi.}
+{125}{}{A srÃ¡c lejÃ¶tt dÃ©lre Ã©s felbukkant abban a klubban, ahova Ã©n is jÃ¡rtam. SzÃ³val amikor beÃ¼tÃ¶tt a kÃ¶ltÃ¶zÃ©s ideje, Ãºgy gondoltam, jÃ³ hely lesz ez itt majd kett?nknek.}
+{126}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{127}{}{Ez minden. KÃ¶szi.}
+{128}{}{Megmentetted az Ã©letem. BÃ¡rmilyen kÃ©rdÃ©sedre vÃ¡laszolok.}
 {129}{}{Jaaaaa.}
-{130}{}{Mit csináltál odalenn?}
-{131}{}{Találtál valami érdekeset?}
-{132}{}{Hová való vagy?}
-{133}{}{Hogy találkoztál a Borzzal?}
-{134}{}{Most nincs kérdésem. Szia.}
-{135}{}{Ó, istenem... a Borz meghalt ... nem tudom, most mit csinálok... Nincs itt egyetlen barátom se... az egész családom elpusztult... ó, istenem...}
-{136}{}{Köszönök mindent. Megyek, megkeresem a Borzot.}
+{130}{}{Mit csinÃ¡ltÃ¡l odalenn?}
+{131}{}{TalÃ¡ltÃ¡l valami Ã©rdekeset?}
+{132}{}{HovÃ¡ valÃ³ vagy?}
+{133}{}{Hogy talÃ¡lkoztÃ¡l a Borzzal?}
+{134}{}{Most nincs kÃ©rdÃ©sem. Szia.}
+{135}{}{Ã“, istenem... a Borz meghalt ... nem tudom, most mit csinÃ¡lok... Nincs itt egyetlen barÃ¡tom se... az egÃ©sz csalÃ¡dom elpusztult... Ã³, istenem...}
+{136}{}{KÃ¶szÃ¶nÃ¶k mindent. Megyek, megkeresem a Borzot.}

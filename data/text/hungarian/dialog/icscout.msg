@@ -1,6 +1,6 @@
-{100}{}{Árnyékban-Járó-t látod.}
-{150}{}{Egy izmos benszülöttet látsz, akinek fekete sebhelyek borítják az arcát. Csendben figyel téged.}
-{151}{}{Arnyékban-Járót-t látod. Az arca tele van karcolt törzsi tetoválásokkal.}
-{200}{}{::Csak némán bámul rád.::}
-{201}{}{::Csendben figyel téged.::}
-{300}{}{Psszt... Nyúlhra vhadászom.}
+{100}{}{ÃrnyÃ©kban-JÃ¡rÃ³-t lÃ¡tod.}
+{150}{}{Egy izmos benszÃ¼lÃ¶ttet lÃ¡tsz, akinek fekete sebhelyek borÃ­tjÃ¡k az arcÃ¡t. Csendben figyel tÃ©ged.}
+{151}{}{ArnyÃ©kban-JÃ¡rÃ³t-t lÃ¡tod. Az arca tele van karcolt tÃ¶rzsi tetovÃ¡lÃ¡sokkal.}
+{200}{}{::Csak nÃ©mÃ¡n bÃ¡mul rÃ¡d.::}
+{201}{}{::Csendben figyel tÃ©ged.::}
+{300}{}{Psszt... NyÃºlhra vhadÃ¡szom.}

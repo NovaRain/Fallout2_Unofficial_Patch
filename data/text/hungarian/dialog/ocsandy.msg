@@ -1,41 +1,41 @@
-{100}{}{Kislány, sárga ruhában.}
-{101}{}{Egy kisgyerek, akit Sandynek hívnak.}
-{102}{}{Egy sárga, virágos ruhát visel? kislány. Úgy nyávog mint egy macska. A ruháján egy felirat azt mondja: "Sandy".}
-{103}{}{Miau... miau... Cica vagyok. Olyan különleges er?m van, ami csak a cicáknak. Te mi vagy?}
-{104}{}{Én kutya! Vau! Vau! Te ki?}
+{100}{}{KislÃ¡ny, sÃ¡rga ruhÃ¡ban.}
+{101}{}{Egy kisgyerek, akit Sandynek hÃ­vnak.}
+{102}{}{Egy sÃ¡rga, virÃ¡gos ruhÃ¡t visel? kislÃ¡ny. Ãšgy nyÃ¡vog mint egy macska. A ruhÃ¡jÃ¡n egy felirat azt mondja: "Sandy".}
+{103}{}{Miau... miau... Cica vagyok. Olyan kÃ¼lÃ¶nleges er?m van, ami csak a cicÃ¡knak. Te mi vagy?}
+{104}{}{Ã‰n kutya! Vau! Vau! Te ki?}
 {105}{}{Hmmm? (zavarodott kutyus tekintet)}
-{106}{}{Te fura. Én menni.}
-{107}{}{Én az az ember vagyok, aki szétrúgja a seggedet, ha nem hagyod abba ezt a cica baromságot, és nem mondod meg a neved!}
-{108}{}{Én csak egy sima ember vagyok, akit egészen meghatott a te különös természeted. Megmondod a neved?}
-{109}{}{Értem.}
-{110}{}{(Kuncogás) Viccesen nézel ki! Miau... Sandy vagyok. Nem vagyok igaziból cica. Csak szeretem eljátszani, hogy az vagyok.}
-{111}{}{(Sikítás) Anyuu! Anyuu!! Anyuu!!}
-{112}{}{Sandy vagyok. Nem vagyok cica, csak szeretem eljátszani.}
-{113}{}{Én is játszani. Lehet kérdés t?led?}
+{106}{}{Te fura. Ã‰n menni.}
+{107}{}{Ã‰n az az ember vagyok, aki szÃ©trÃºgja a seggedet, ha nem hagyod abba ezt a cica baromsÃ¡got, Ã©s nem mondod meg a neved!}
+{108}{}{Ã‰n csak egy sima ember vagyok, akit egÃ©szen meghatott a te kÃ¼lÃ¶nÃ¶s termÃ©szeted. Megmondod a neved?}
+{109}{}{Ã‰rtem.}
+{110}{}{(KuncogÃ¡s) Viccesen nÃ©zel ki! Miau... Sandy vagyok. Nem vagyok igazibÃ³l cica. Csak szeretem eljÃ¡tszani, hogy az vagyok.}
+{111}{}{(SikÃ­tÃ¡s) Anyuu! Anyuu!! Anyuu!!}
+{112}{}{Sandy vagyok. Nem vagyok cica, csak szeretem eljÃ¡tszani.}
+{113}{}{Ã‰n is jÃ¡tszani. Lehet kÃ©rdÃ©s t?led?}
 {114}{}{Elmegyek.}
-{115}{}{Értem. Kérdezhetek pár dolgot?}
-{116}{}{Okés, én most felszívódok.}
-{117}{}{Mit szeretnél kérdezni?}
-{118}{}{Kötelez? itt lenned?}
-{119}{}{Jó itt neked?}
-{120}{}{Biztonságos itt?}
+{115}{}{Ã‰rtem. KÃ©rdezhetek pÃ¡r dolgot?}
+{116}{}{OkÃ©s, Ã©n most felszÃ­vÃ³dok.}
+{117}{}{Mit szeretnÃ©l kÃ©rdezni?}
+{118}{}{KÃ¶telez? itt lenned?}
+{119}{}{JÃ³ itt neked?}
+{120}{}{BiztonsÃ¡gos itt?}
 {121}{}{Semmi, elmegyek.}
-{122}{}{Kényszerítenek, hogy itt maradj?}
+{122}{}{KÃ©nyszerÃ­tenek, hogy itt maradj?}
 {123}{}{Szeretsz itt lenni?}
-{124}{}{Biztonságban vagy itt?}
+{124}{}{BiztonsÃ¡gban vagy itt?}
 {125}{}{Semmi, szia.}
-{126}{}{Aha. Anya mindig megmondja, hova mehetek, és hova nem. Megmondja, hol játsszak, mikor egyek, mikor menjek lefeküdni, mikor bilizzek, és mikor menjek suliba, meg minden. Szerintem nem szép dolog, hogy ? azt csinál amit akar, nekem meg mindig azt kell csinálnom, amit ? mond.}
-{127}{}{Oké.}
+{126}{}{Aha. Anya mindig megmondja, hova mehetek, Ã©s hova nem. Megmondja, hol jÃ¡tsszak, mikor egyek, mikor menjek lefekÃ¼dni, mikor bilizzek, Ã©s mikor menjek suliba, meg minden. Szerintem nem szÃ©p dolog, hogy ? azt csinÃ¡l amit akar, nekem meg mindig azt kell csinÃ¡lnom, amit ? mond.}
+{127}{}{OkÃ©.}
 {128}{}{Most kell menni.}
-{129}{}{Értem.}
-{130}{}{Azt hiszem, már eleget hallottam. Szia.}
-{131}{}{Tulképpen... Viszont hiányzik, hogy nem játszhatok más gyerekekkel, de anya azt mondta, minden máshogy lesz. Azt hiszi, más gyerekek is idejönnek majd lakni. Amíg nincsenek, addig Valdisszal szeretnék játszani. ? vicces, és lovagolhatok is rajta. Anyu azt mondja, hogy békén kellene hagynom. Sok dolga van, és nincs ideje játszani, de ha megkérem, mindig játszik velem. Nem mesélem el anyunak, és kész.}
+{129}{}{Ã‰rtem.}
+{130}{}{Azt hiszem, mÃ¡r eleget hallottam. Szia.}
+{131}{}{TulkÃ©ppen... Viszont hiÃ¡nyzik, hogy nem jÃ¡tszhatok mÃ¡s gyerekekkel, de anya azt mondta, minden mÃ¡shogy lesz. Azt hiszi, mÃ¡s gyerekek is idejÃ¶nnek majd lakni. AmÃ­g nincsenek, addig Valdisszal szeretnÃ©k jÃ¡tszani. ? vicces, Ã©s lovagolhatok is rajta. Anyu azt mondja, hogy bÃ©kÃ©n kellene hagynom. Sok dolga van, Ã©s nincs ideje jÃ¡tszani, de ha megkÃ©rem, mindig jÃ¡tszik velem. Nem mesÃ©lem el anyunak, Ã©s kÃ©sz.}
 {132}{}{Lovacska... (zavarodott kutyus tekintet)}
-{133}{}{Én menni elfele.}
+{133}{}{Ã‰n menni elfele.}
 {134}{}{Ez kedves.}
 {135}{}{Ok, szija.}
-{136}{}{Aha. Anya vigyáz rám, és Valdis sem hagyná, hogy bárki bántson. Itt biztonságban vagyok.}
-{137}{}{Oké. Most már menni.}
-{138}{}{Jó, akkor én megyek is.}
+{136}{}{Aha. Anya vigyÃ¡z rÃ¡m, Ã©s Valdis sem hagynÃ¡, hogy bÃ¡rki bÃ¡ntson. Itt biztonsÃ¡gban vagyok.}
+{137}{}{OkÃ©. Most mÃ¡r menni.}
+{138}{}{JÃ³, akkor Ã©n megyek is.}
 {139}{}{Szia!}
 {140}{}{Menj innen! Nem kedvellek!}

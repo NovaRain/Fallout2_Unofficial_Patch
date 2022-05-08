@@ -11,7 +11,7 @@
 {110}{}{Io sono Max. Sono una delle guardie della carovana.}
 {111}{}{Cosa puoi dirmi a proposito di Chad?}
 {112}{}{Grazie. Ciao.}
-{113}{}{Non mi va molto a genio. Ho come l'impressione che la sua paga sia sempre un po' più alta della mia. Non è giusto.}
+{113}{}{Non mi va molto a genio. Ho come l'impressione che la sua paga sia sempre un po' piÃ¹ alta della mia. Non Ã¨ giusto.}
 {114}{}{Beh, Marcus sospetta che Chad stia facendo la cresta sul denaro destinato a Broken Hills.}
 {115}{}{Grazie. Ciao.}
 {116}{}{Grazie. Sono davvero felice che sia finita. Tu pero' faresti bene a guardarti le spalle.}
@@ -20,7 +20,7 @@
 {119}{}{Oops.}
 {120}{}{(Abbassa la voce e si guarda attorno) Dev'essere proprio cosi'. Una volta l'ho visto con i miei occhi prendere una "parte" del denaro che aveva ottenuto da una spedizione di uranio a Gecko.}
 {121}{}{Davvero? E allora perche' non ne hai parlato con Marcus?}
-{122}{}{Ma sei scemo? Se facessi la spia, un sacco di gente qui in città non mi guarderebbe piu' in faccia. E poi posso sempre trovare un modo per vendicarmi.}
+{122}{}{Ma sei scemo? Se facessi la spia, un sacco di gente qui in cittÃ  non mi guarderebbe piu' in faccia. E poi posso sempre trovare un modo per vendicarmi.}
 {123}{}{Uhm... potrei dirlo io a Marcus. Tanto non mi fermero' a lungo da queste parti.}
 {124}{}{Ok. Fa' quel che vuoi, ma non dire ad anima viva che te l'ho detto io. Questa conversazione non c'e' mai stata, ok?}
 {125}{}{Non preoccuparti, non voglio certo farti finire nei guai. Addio.}

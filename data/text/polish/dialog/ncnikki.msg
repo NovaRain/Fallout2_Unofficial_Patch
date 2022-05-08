@@ -1,34 +1,34 @@
-{100}{}{Widzisz S³odk¹ Nikki.}
-{125}{}{Widzisz jedn¹ z krupierek kasyna.}
-{150}{}{Widzisz S³odk¹ Nikki.}
-{160}{}{Widzisz S³odk¹ Nikki. Zaprasza ciê gestem do swojego sto³u.}
-{170}{}{Widzisz jedn¹ z krupierek kasyna.}
-{180}{}{Widzisz jedn¹ z krupierek kasyna. Zaprasza ciê gestem do swojego sto³u.}
+{100}{}{Widzisz SÅ‚odkÄ… Nikki.}
+{125}{}{Widzisz jednÄ… z krupierek kasyna.}
+{150}{}{Widzisz SÅ‚odkÄ… Nikki.}
+{160}{}{Widzisz SÅ‚odkÄ… Nikki. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
+{170}{}{Widzisz jednÄ… z krupierek kasyna.}
+{180}{}{Widzisz jednÄ… z krupierek kasyna. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
 {200}{}{::Wiwatuje::}
 {210}{}{Hello, [MM]. Can I help you with... anything?}
-{220}{}{Hazard hazardem, ale tak ryzykowaæ w³asnym ¿yciem...}
-{230}{}{Hej, si³aczu. Chcesz przepuœciæ trochê ¿etonów?}
-{250}{}{Witaj, gwiazdorze. Chcesz przepuœciæ trochê ¿etonów?}
-{270}{}{Witaj, skarbie. Chcesz przepuœciæ trochê ¿etonów?}
-{290}{}{Có¿, jesteœ niespe³na rozumu, skoro tu przychodzisz, ale... Proszê obstawiaæ. Minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
-{310}{}{Eee... to œwietnie, proszê pana. Niech nas pan jeszcze odwiedzi.}
-{320}{}{Oczywiœcie. Niech nas pan jeszcze odwiedzi.}
-{330}{}{Przykro mi. Mo¿e nastêpnym razem bêdzie pan mia³ wiêcej szczêœcia.}
-{340}{}{Brawo! Gratulujê panu!}
-{350}{}{Brawo! Podwoi³ pan swoje pieni¹dze! Gratulujê!}
-{360}{}{Brawo! Potroi³ pan swoje pieni¹dze! Dzisiaj jest pana szczêœliwy dzieñ! Gratulujê!}
-{370}{}{A co ciê to obchodzi? Masz zamiar marnowaæ mój czas, czy coœ obstawiæ?}
-{380}{}{Tak, s³ysza³am, ¿e NIE ¯YJE. To chcesz us³yszeæ?! Co?! Chcesz coœ obstawiæ, czy bêdziesz dalej pieprzyæ?}
-{390}{}{Obawiam siê, ¿e PRZEGRASZ ten zak³ad, skarbie, ale jeœli twoja g³upota dorównuje brzydocie, i tak pewnie postawisz. Nie widzia³am tego ³ajdaka odk¹d oszuka³ pana Salvatore.}
-{400}{}{Skarbie, MÓWI£AM ci ju¿, ¿e nie wiem gdzie on jest. S³uchaj, ja tu PRACUJÊ, wiêc wracaj do swojej klatki i...}
-{410}{}{Dotknij mnie tylko, a pan Salvatore obedrze ciê ¿ywcem ze skóry.}
-{420}{}{O czym ty mówisz?}
-{430}{}{S³uchaj, JAK JU¯ MÓWI£AM, nie wiem gdzie on jest. Ale *mo¿e* s³ysza³am, ¿e kiedyœ wynajmowa³ pokój w Desperado. Poszukaj tam. A teraz, jeœli ³aska, chcê wróciæ do pracy.}
-{440}{}{S³uchaj, pracujê tu od niedawna i nie potrafiê rozpoznaæ ka¿dego szulera i oszusta, który tu wejdzie. Potrafiê natomiast rozpoznaæ takich przyg³upów jak ty.}
-{450}{}{Tak, wystarczy wzi¹æ doœæ Jetu i WSZYSTKO wydaje siê dziwne, nie?}
-{460}{}{Wynoœ siê st¹d natychmiast. Nie mam ci nic wiêcej do powiedzenia.}
-{470}{}{Masz giêtki jêzyk... jak w¹¿. MO¯E i wiem, gdzie jest Lloyd, MO¯E nie wiem. Masz te 500 ¿etonów?}
-{480}{}{MO¯LIWE, ¿e Lloyd jeszcze nie da³ mi mojej doli i nie mam pewnoœci, ¿e j¹ jeszcze kiedyœ zobaczê. A wiêc MO¯LIWE, ¿e - za 500 ¿etonów MOG£ABYM powiedzieæ ci gdzie ten zasmarkany k³amca siê ukrywa.}
-{490}{}{(Chowa pieni¹dze) Zajrzyj do kot³owni w piwnicy Desperado. Ten sukinsyn mia³ tam przeczekaæ, a¿ sprawa nieco przycichnie.}
-{500}{}{IdŸ sobie st¹d! Jeœli ludzie zobacz¹, ¿e rozmawiamy, zaczn¹ siê plotki. Rozumiesz?}
-{510}{}{Wiêc idŸ do diab³a! Ju¿ NIGDY siê do ciebie nie odezwê.}
+{220}{}{Hazard hazardem, ale tak ryzykowaÄ‡ wÅ‚asnym Å¼yciem...}
+{230}{}{Hej, siÅ‚aczu. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
+{250}{}{Witaj, gwiazdorze. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
+{270}{}{Witaj, skarbie. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
+{290}{}{CÃ³Å¼, jesteÅ› niespeÅ‚na rozumu, skoro tu przychodzisz, ale... ProszÄ™ obstawiaÄ‡. Minimalna stawka 5 Å¼etonÃ³w. ProszÄ™ obstawiaÄ‡...}
+{310}{}{Eee... to Å›wietnie, proszÄ™ pana. Niech nas pan jeszcze odwiedzi.}
+{320}{}{OczywiÅ›cie. Niech nas pan jeszcze odwiedzi.}
+{330}{}{Przykro mi. MoÅ¼e nastÄ™pnym razem bÄ™dzie pan miaÅ‚ wiÄ™cej szczÄ™Å›cia.}
+{340}{}{Brawo! GratulujÄ™ panu!}
+{350}{}{Brawo! PodwoiÅ‚ pan swoje pieniÄ…dze! GratulujÄ™!}
+{360}{}{Brawo! PotroiÅ‚ pan swoje pieniÄ…dze! Dzisiaj jest pana szczÄ™Å›liwy dzieÅ„! GratulujÄ™!}
+{370}{}{A co ciÄ™ to obchodzi? Masz zamiar marnowaÄ‡ mÃ³j czas, czy coÅ› obstawiÄ‡?}
+{380}{}{Tak, sÅ‚yszaÅ‚am, Å¼e NIE Å»YJE. To chcesz usÅ‚yszeÄ‡?! Co?! Chcesz coÅ› obstawiÄ‡, czy bÄ™dziesz dalej pieprzyÄ‡?}
+{390}{}{Obawiam siÄ™, Å¼e PRZEGRASZ ten zakÅ‚ad, skarbie, ale jeÅ›li twoja gÅ‚upota dorÃ³wnuje brzydocie, i tak pewnie postawisz. Nie widziaÅ‚am tego Å‚ajdaka odkÄ…d oszukaÅ‚ pana Salvatore.}
+{400}{}{Skarbie, MÃ“WIÅAM ci juÅ¼, Å¼e nie wiem gdzie on jest. SÅ‚uchaj, ja tu PRACUJÄ˜, wiÄ™c wracaj do swojej klatki i...}
+{410}{}{Dotknij mnie tylko, a pan Salvatore obedrze ciÄ™ Å¼ywcem ze skÃ³ry.}
+{420}{}{O czym ty mÃ³wisz?}
+{430}{}{SÅ‚uchaj, JAK JUÅ» MÃ“WIÅAM, nie wiem gdzie on jest. Ale *moÅ¼e* sÅ‚yszaÅ‚am, Å¼e kiedyÅ› wynajmowaÅ‚ pokÃ³j w Desperado. Poszukaj tam. A teraz, jeÅ›li Å‚aska, chcÄ™ wrÃ³ciÄ‡ do pracy.}
+{440}{}{SÅ‚uchaj, pracujÄ™ tu od niedawna i nie potrafiÄ™ rozpoznaÄ‡ kaÅ¼dego szulera i oszusta, ktÃ³ry tu wejdzie. PotrafiÄ™ natomiast rozpoznaÄ‡ takich przygÅ‚upÃ³w jak ty.}
+{450}{}{Tak, wystarczy wziÄ…Ä‡ doÅ›Ä‡ Jetu i WSZYSTKO wydaje siÄ™ dziwne, nie?}
+{460}{}{WynoÅ› siÄ™ stÄ…d natychmiast. Nie mam ci nic wiÄ™cej do powiedzenia.}
+{470}{}{Masz giÄ™tki jÄ™zyk... jak wÄ…Å¼. MOÅ»E i wiem, gdzie jest Lloyd, MOÅ»E nie wiem. Masz te 500 Å¼etonÃ³w?}
+{480}{}{MOÅ»LIWE, Å¼e Lloyd jeszcze nie daÅ‚ mi mojej doli i nie mam pewnoÅ›ci, Å¼e jÄ… jeszcze kiedyÅ› zobaczÄ™. A wiÄ™c MOÅ»LIWE, Å¼e - za 500 Å¼etonÃ³w MOGÅABYM powiedzieÄ‡ ci gdzie ten zasmarkany kÅ‚amca siÄ™ ukrywa.}
+{490}{}{(Chowa pieniÄ…dze) Zajrzyj do kotÅ‚owni w piwnicy Desperado. Ten sukinsyn miaÅ‚ tam przeczekaÄ‡, aÅ¼ sprawa nieco przycichnie.}
+{500}{}{IdÅº sobie stÄ…d! JeÅ›li ludzie zobaczÄ…, Å¼e rozmawiamy, zacznÄ… siÄ™ plotki. Rozumiesz?}
+{510}{}{WiÄ™c idÅº do diabÅ‚a! JuÅ¼ NIGDY siÄ™ do ciebie nie odezwÄ™.}

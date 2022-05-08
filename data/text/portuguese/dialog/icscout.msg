@@ -1,6 +1,6 @@
-{100}{}{Você vê a Sombra Que Caminha.}
-{150}{}{Você vê um tribal musculoso com cicatrizes pretas cobrindo seu rosto. Ele está te encarando silenciosamente.}
-{151}{}{Você a Sombra Que Caminha. Seu rosto está fortemente marcado com tatuagens rituais.}
-{200}{}{Ele apenas te encara em silêncio.}
+{100}{}{VocÃª vÃª a Sombra Que Caminha.}
+{150}{}{VocÃª vÃª um tribal musculoso com cicatrizes pretas cobrindo seu rosto. Ele estÃ¡ te encarando silenciosamente.}
+{151}{}{VocÃª a Sombra Que Caminha. Seu rosto estÃ¡ fortemente marcado com tatuagens rituais.}
+{200}{}{Ele apenas te encara em silÃªncio.}
 {201}{}{Ele te encara silenciosamente.}
-{300}{}{Shhh... Estou caçando coelhos.}
+{300}{}{Shhh... Estou caÃ§ando coelhos.}

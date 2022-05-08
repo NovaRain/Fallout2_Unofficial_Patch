@@ -1,3 +1,3 @@
-{100}{}{Egy hegy oldalában lév? barlang bejáratához érkeztél.}
-{101}{}{Néhány romos viskóra találtál. Közöttük egy régi kút látható, melyben egy létra vezet lefelé.}
-{102}{}{Megtörted a fosztogatók erejét. Többé nem terrorizálhatják a környéket.}
+{100}{}{Egy hegy oldalÃ¡ban lÃ©v? barlang bejÃ¡ratÃ¡hoz Ã©rkeztÃ©l.}
+{101}{}{NÃ©hÃ¡ny romos viskÃ³ra talÃ¡ltÃ¡l. KÃ¶zÃ¶ttÃ¼k egy rÃ©gi kÃºt lÃ¡thatÃ³, melyben egy lÃ©tra vezet lefelÃ©.}
+{102}{}{MegtÃ¶rted a fosztogatÃ³k erejÃ©t. TÃ¶bbÃ© nem terrorizÃ¡lhatjÃ¡k a kÃ¶rnyÃ©ket.}

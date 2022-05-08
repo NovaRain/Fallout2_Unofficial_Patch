@@ -1,20 +1,20 @@
-{100}{}{Egy embert látsz, aki egy szép, nagy fegyvert szorongat a kezében.}
-{101}{}{A Broken Hillsi keresked? és ?rz? testület egyik tagját látod.}
-{102}{}{Egy embert látsz, akit az út pora borít. Szép nagy fegyvert tart a kezében.}
-{103}{}{Én mondom, még egy csapat útonálló, és legközelebb dinamitot is viszek magammal!}
-{104}{}{Hasznát látnánk egy kis segítségnek a karavánoknál.}
-{105}{}{Haver... az "Összefogás" ?rjárat kezd nagyon, nagyon kiöregedni.}
-{106}{}{Szóval akkor jött az a törzsbéli, mire én... ööö, hagyjuk.}
-{107}{}{Még egy "Szivárvány ?rjárat" seggség, és valakit biztosan kinyírok!}
-{108}{}{Ha az útonálók bekeményítenek, jöv?re mind meghalunk, az tuti.}
-{109}{}{Milyen faluból jössz?}
-{110}{}{Nem vennél egy kis piát egy dolgozó embernek?}
-{111}{}{Túlságosan kifáraszt a karavánmunka, hogy még beszélgessek is.}
-{112}{}{Ha kell valami, beszélj Billel, a karavánok szervez?jével!}
-{113}{}{Talán ennyi id? után, amit a puszta civilizálásával töltöttünk, közelebb kerültünk a célunkhoz.}
-{114}{}{Elegem van ebb?l az ember-mutáns veszekedésb?l. Nem éppen nekünk kellene példát mutatnunk?}
-{115}{}{Mit akarsz? Nem látod, hogy pihenek?}
-{116}{}{Mikor indul a következ? karaván?}
-{117}{}{Jár?rözni, jár?rözni, jár?rözni... mindig ugyanaz a meló.}
-{118}{}{Kezdek álmos lenni.}
-{119}{}{Fizetésemelést követelek! Ez veszélyes munkakör.}
+{100}{}{Egy embert lÃ¡tsz, aki egy szÃ©p, nagy fegyvert szorongat a kezÃ©ben.}
+{101}{}{A Broken Hillsi keresked? Ã©s ?rz? testÃ¼let egyik tagjÃ¡t lÃ¡tod.}
+{102}{}{Egy embert lÃ¡tsz, akit az Ãºt pora borÃ­t. SzÃ©p nagy fegyvert tart a kezÃ©ben.}
+{103}{}{Ã‰n mondom, mÃ©g egy csapat ÃºtonÃ¡llÃ³, Ã©s legkÃ¶zelebb dinamitot is viszek magammal!}
+{104}{}{HasznÃ¡t lÃ¡tnÃ¡nk egy kis segÃ­tsÃ©gnek a karavÃ¡noknÃ¡l.}
+{105}{}{Haver... az "Ã–sszefogÃ¡s" ?rjÃ¡rat kezd nagyon, nagyon kiÃ¶regedni.}
+{106}{}{SzÃ³val akkor jÃ¶tt az a tÃ¶rzsbÃ©li, mire Ã©n... Ã¶Ã¶Ã¶, hagyjuk.}
+{107}{}{MÃ©g egy "SzivÃ¡rvÃ¡ny ?rjÃ¡rat" seggsÃ©g, Ã©s valakit biztosan kinyÃ­rok!}
+{108}{}{Ha az ÃºtonÃ¡lÃ³k bekemÃ©nyÃ­tenek, jÃ¶v?re mind meghalunk, az tuti.}
+{109}{}{Milyen falubÃ³l jÃ¶ssz?}
+{110}{}{Nem vennÃ©l egy kis piÃ¡t egy dolgozÃ³ embernek?}
+{111}{}{TÃºlsÃ¡gosan kifÃ¡raszt a karavÃ¡nmunka, hogy mÃ©g beszÃ©lgessek is.}
+{112}{}{Ha kell valami, beszÃ©lj Billel, a karavÃ¡nok szervez?jÃ©vel!}
+{113}{}{TalÃ¡n ennyi id? utÃ¡n, amit a puszta civilizÃ¡lÃ¡sÃ¡val tÃ¶ltÃ¶ttÃ¼nk, kÃ¶zelebb kerÃ¼ltÃ¼nk a cÃ©lunkhoz.}
+{114}{}{Elegem van ebb?l az ember-mutÃ¡ns veszekedÃ©sb?l. Nem Ã©ppen nekÃ¼nk kellene pÃ©ldÃ¡t mutatnunk?}
+{115}{}{Mit akarsz? Nem lÃ¡tod, hogy pihenek?}
+{116}{}{Mikor indul a kÃ¶vetkez? karavÃ¡n?}
+{117}{}{JÃ¡r?rÃ¶zni, jÃ¡r?rÃ¶zni, jÃ¡r?rÃ¶zni... mindig ugyanaz a melÃ³.}
+{118}{}{Kezdek Ã¡lmos lenni.}
+{119}{}{FizetÃ©semelÃ©st kÃ¶vetelek! Ez veszÃ©lyes munkakÃ¶r.}

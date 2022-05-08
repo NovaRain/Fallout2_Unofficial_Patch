@@ -1,44 +1,44 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz stra¿nika w pancerzu wspomaganym.}
-{102}{}{Widzisz kogoœ w nietypowym pancerzu wspomaganym. Na napierœniku widnieje nieznany ci symbol.}
-{103}{}{U mnie wszystko w porz¹dku.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz straÅ¼nika w pancerzu wspomaganym.}
+{102}{}{Widzisz kogoÅ› w nietypowym pancerzu wspomaganym. Na napierÅ›niku widnieje nieznany ci symbol.}
+{103}{}{U mnie wszystko w porzÄ…dku.}
 {104}{}{Nic mi nie jest, a tobie?}
-{105}{}{¯o³nierzu, mo¿e lepiej udaj siê na swój posterunek? Niedobrze jest siê tu krêciæ.}
+{105}{}{Å»oÅ‚nierzu, moÅ¼e lepiej udaj siÄ™ na swÃ³j posterunek? Niedobrze jest siÄ™ tu krÄ™ciÄ‡.}
 {106}{}{Nie masz muduru.}
-{107}{}{Lepiej zg³oœ siê do sier¿anta po wyposa¿enie.}
-{108}{}{Chodz¹c bez munduru du¿o ryzykujesz. Lepiej zg³oœ siê do zaopatrzenia.}
-{109}{}{Kim wy u licha jesteœcie... Alarm! Intruzi!}
-{110}{}{Zostaliœmy zinfiltrowani! Alarm!}
-{111}{}{Liczni intruzi! Og³osiæ alarm!}
-{112}{}{Alarm! Zamkn¹æ bazê!}
-{113}{}{Zabezpieczyæ wszystkie odcinki! Mamy alarm!}
+{107}{}{Lepiej zgÅ‚oÅ› siÄ™ do sierÅ¼anta po wyposaÅ¼enie.}
+{108}{}{ChodzÄ…c bez munduru duÅ¼o ryzykujesz. Lepiej zgÅ‚oÅ› siÄ™ do zaopatrzenia.}
+{109}{}{Kim wy u licha jesteÅ›cie... Alarm! Intruzi!}
+{110}{}{ZostaliÅ›my zinfiltrowani! Alarm!}
+{111}{}{Liczni intruzi! OgÅ‚osiÄ‡ alarm!}
+{112}{}{Alarm! ZamknÄ…Ä‡ bazÄ™!}
+{113}{}{ZabezpieczyÄ‡ wszystkie odcinki! Mamy alarm!}
 {114}{}{Alarm! Intruzi! Kod czerwony!}
-{115}{}{Rozgnieciemy ciê!}
-{116}{}{Enklawa bêdzie rz¹dziæ œwiatem!}
-{117}{}{Umrzesz, by Enklawa mog³a przetrwaæ!}
+{115}{}{Rozgnieciemy ciÄ™!}
+{116}{}{Enklawa bÄ™dzie rzÄ…dziÄ‡ Å›wiatem!}
+{117}{}{Umrzesz, by Enklawa mogÅ‚a przetrwaÄ‡!}
 {200}{}{...dupek...}
-{201}{}{...lepiej st¹d spadaj...}
+{201}{}{...lepiej stÄ…d spadaj...}
 {202}{}{...co za trep...}
 {203}{}{...tak jest, sir!-kurwa-sir!...}
-{300}{}{Staæ. Co robisz z tym samolotem? Nie ma zaplanowanych ¿adnych lotów przez nastêpnych kilka dni.}
-{301}{}{Hê?}
-{302}{}{Zdajê sobie z tego sprawê.}
-{303}{}{Przepraszam. Tylko patrzê. Muszê ju¿ iœæ.}
-{304}{}{Plany lotów siê zmieni³y. Zabieram ten samolot.}
-{310}{}{Co? Oh, rozumiem. S³uchaj, nie dotykaj. Dobra? Dotkniesz jeszcze raz to zginiesz.}
-{311}{}{[Uœmiechasz siê i ... atakujesz.]}
-{312}{}{(OdejdŸ.)}
-{315}{}{O kurwa, wygl¹da na to, ¿e mamy intruza. Kod czerwony! Powtarzam, kod czerwony!}
-{316}{}{To brzmi nieŸle. Dotknij tego samolotu jeszcze raz, a zarobisz kulkê w ³eb.}
-{320}{}{Racja. I oto jesteœ...}
-{321}{}{W³aœnie sobie idê. Przepraszam za k³opot.}
-{322}{}{Mam dostarczyæ wa¿n¹ informacje do g³ównej bazy.}
-{323}{}{O, naprawdê? I co to za wiadomoœæ.}
-{324}{}{Jest super tajna. Nie mogê powiedzieæ.}
-{325}{}{Dobra powiem ci, ale jest niezwykle wa¿ne ¿ebyœ nie zdradzi³ tej informacji nikomu innemu, chcê unikn¹æ zbiorowej paniki.
- Widzisz, nie usz³o mojej uwadze, ¿e ostatni transport niewolników by³ zara¿ony nieznan¹ chorob¹, szczep wirusa o du¿ej œmiertelnoœci zara¿onych.
- Ja *muszê* jak najszybciej dostaæ siê do bazy, albo wszyscy zginiemy. A teraz przestañ marnowaæ mój czas, nie mam ani chwili do stracenia.}
-{326}{}{Jaaasne, wierzê ci. Wygl¹da, ¿e mamy intruza...}
-{327}{}{Cholera! A, wszystko jedno. Nikt mi nigdy nic nie mówi. Dobra. Rób swoje.}
-{328}{}{¯e co? To nie brzmi dobrze. Ruszaj, nie chcê byæ za to odpowiedzialny. A i nie martw siê, nikomu nie powiem.}
+{300}{}{StaÄ‡. Co robisz z tym samolotem? Nie ma zaplanowanych Å¼adnych lotÃ³w przez nastÄ™pnych kilka dni.}
+{301}{}{HÄ™?}
+{302}{}{ZdajÄ™ sobie z tego sprawÄ™.}
+{303}{}{Przepraszam. Tylko patrzÄ™. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{304}{}{Plany lotÃ³w siÄ™ zmieniÅ‚y. Zabieram ten samolot.}
+{310}{}{Co? Oh, rozumiem. SÅ‚uchaj, nie dotykaj. Dobra? Dotkniesz jeszcze raz to zginiesz.}
+{311}{}{[UÅ›miechasz siÄ™ i ... atakujesz.]}
+{312}{}{(OdejdÅº.)}
+{315}{}{O kurwa, wyglÄ…da na to, Å¼e mamy intruza. Kod czerwony! Powtarzam, kod czerwony!}
+{316}{}{To brzmi nieÅºle. Dotknij tego samolotu jeszcze raz, a zarobisz kulkÄ™ w Å‚eb.}
+{320}{}{Racja. I oto jesteÅ›...}
+{321}{}{WÅ‚aÅ›nie sobie idÄ™. Przepraszam za kÅ‚opot.}
+{322}{}{Mam dostarczyÄ‡ waÅ¼nÄ… informacje do gÅ‚Ã³wnej bazy.}
+{323}{}{O, naprawdÄ™? I co to za wiadomoÅ›Ä‡.}
+{324}{}{Jest super tajna. Nie mogÄ™ powiedzieÄ‡.}
+{325}{}{Dobra powiem ci, ale jest niezwykle waÅ¼ne Å¼ebyÅ› nie zdradziÅ‚ tej informacji nikomu innemu, chcÄ™ uniknÄ…Ä‡ zbiorowej paniki.
+ Widzisz, nie uszÅ‚o mojej uwadze, Å¼e ostatni transport niewolnikÃ³w byÅ‚ zaraÅ¼ony nieznanÄ… chorobÄ…, szczep wirusa o duÅ¼ej Å›miertelnoÅ›ci zaraÅ¼onych.
+ Ja *muszÄ™* jak najszybciej dostaÄ‡ siÄ™ do bazy, albo wszyscy zginiemy. A teraz przestaÅ„ marnowaÄ‡ mÃ³j czas, nie mam ani chwili do stracenia.}
+{326}{}{Jaaasne, wierzÄ™ ci. WyglÄ…da, Å¼e mamy intruza...}
+{327}{}{Cholera! A, wszystko jedno. Nikt mi nigdy nic nie mÃ³wi. Dobra. RÃ³b swoje.}
+{328}{}{Å»e co? To nie brzmi dobrze. Ruszaj, nie chcÄ™ byÄ‡ za to odpowiedzialny. A i nie martw siÄ™, nikomu nie powiem.}
 {329}{}{[dalej]}

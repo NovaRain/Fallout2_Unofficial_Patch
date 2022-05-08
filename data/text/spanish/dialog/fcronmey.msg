@@ -1,57 +1,57 @@
-{100}{}{Ves a alguien que lleva una gorra de capitán.}
-{101}{}{Ves al capitán A. Ron Meyers.}
-{102}{}{Ves a un vagabundo con ropas harapientas que lleva una gorra de capitán.}
-{103}{}{¿Qué demonios quieres? No hablo con nadie a menos que sea amigo o buena gente. Haz algo por uno de mis colegas y entonces ven a hablar conmigo.}
+{100}{}{Ves a alguien que lleva una gorra de capitÃ¡n.}
+{101}{}{Ves al capitÃ¡n A. Ron Meyers.}
+{102}{}{Ves a un vagabundo con ropas harapientas que lleva una gorra de capitÃ¡n.}
+{103}{}{Â¿QuÃ© demonios quieres? No hablo con nadie a menos que sea amigo o buena gente. Haz algo por uno de mis colegas y entonces ven a hablar conmigo.}
 {104}{}{[HECHO]}
-{105}{}{He oído lo que hiciste por mis hombres. Gracias. ¿En qué puedo ayudarte?}
-{106}{}{¿Quién?}
-{107}{}{He oído que eres quien lo sabe todo sobre este barco.}
-{108}{}{¿Por qué te llaman capitán?}
-{109}{}{¿Cómo haces que esta cosa se mueva?}
+{105}{}{He oÃ­do lo que hiciste por mis hombres. Gracias. Â¿En quÃ© puedo ayudarte?}
+{106}{}{Â¿QuiÃ©n?}
+{107}{}{He oÃ­do que eres quien lo sabe todo sobre este barco.}
+{108}{}{Â¿Por quÃ© te llaman capitÃ¡n?}
+{109}{}{Â¿CÃ³mo haces que esta cosa se mueva?}
 {110}{}{Nada.}
-{111}{}{Soy el capitán. Dirijo el barco. Para más preguntas, ve a hablar con uno de los Shi o con Badger o con quien sea. No tengo tiempo para ti.}
+{111}{}{Soy el capitÃ¡n. Dirijo el barco. Para mÃ¡s preguntas, ve a hablar con uno de los Shi o con Badger o con quien sea. No tengo tiempo para ti.}
 {112}{}{[HECHO]}
-{113}{}{Este barco es un petrolero Poseidon. Está equipado con tecnología que sobrevivió a la guerra. Tiene un FOB que permite el acceso a la sala de la computadora de navegación, y también un transpondedor IAE que lo protege de las armas Poseidon.}
-{114}{}{¿Cómo sabes todo esto?}
-{115}{}{¿Qué es un transpondedor IAE?}
-{116}{}{¿Cómo haces para que zarpe?}
-{117}{}{Gracias. Adiós.}
-{118}{}{Serví con el Enclave. Pero llegué a comprender que no estaba luchando por Estados Unidos: lo estaba haciendo por unos viejos bastardos ricachones que no quieren renunciar a su poder. Deserté y ahora vivo aquí, con gente más honesta.}
-{119}{}{¿Gente más honesta? ¿Estos tipos?}
-{120}{}{¿Qué es exactamente el Enclave?}
-{121}{}{¿Cómo haces que esta cosa se mueva?}
-{122}{}{Adiós.}
-{123}{}{¿Cómo pilotas este petrolero? Lo llenas hasta arriba de combustible -prueba con los Hubologistas o los Shi después de que te hayas encargado de todo lo demás- y presiona el botón. La computadora se encargará del resto, si aún funciona. Navegará directamente hasta la plataforma petrolífera, y no te dispararán porque llevas el transpondedor IAE. Tan sólo asegúrate de que tienes todo lo que necesitas: FOB, una computadora funcional, y combustible. Bastante fácil, ¿eh?}
-{124}{}{Desde luego. ¿Cómo sabes todo esto?}
-{125}{}{¿Qué es un transpondedor IAE y un FOB?}
-{126}{}{¿Qué plataforma petrolífera?}
-{127}{}{Sí. Adiós.}
-{128}{}{IAE: Identificador Amigo o Enemigo. Significa que este barco está identificado como amigo, así que otros elementos de Poseidon - como, digamos, una plataforma petrolifera - no te dispararán en cuanto estés a tiro. Oh, y un FOB es alguna clase de tecnología del Enclave que te permite acceder a una puerta electrónica. Seguramente encontrarías una de esas en en una de sus bases o un lugar similar.}
-{129}{}{¿Cómo sabes todo esto?}
-{130}{}{¿Qué plataforma petrolífera?}
-{131}{}{Gracias. Adiós.}
-{132}{}{Sí. Con esta gente, sabes exactamente cuál es tu posición. Ellos no juegan. El Enclave era una manada de hienas: podrían volverse contra ti en un segundo.}
-{133}{}{¿Qué es exactamente el Enclave?}
-{134}{}{¿Cómo te uniste a ellos?}
-{135}{}{El Enclave es un remanente de los viejos tiempos. Si te diriges con esta cosa hasta la plataforma, te enterarás por ti mismo.}
-{136}{}{¿Cómo lo piloto?}
-{137}{}{¿Qué plataforma?}
-{138}{}{Es bastante simple. Un día simplemente abandoné la base Navarro y me dirigí aquí. Supuse que sería el último lugar en el que nadie miraría. Además, no soy lo bastante importante para el Enclave como para que me busquen: sólo soy un cabo suelto.}
-{139}{}{¿Qué es exactamente el Enclave?}
-{140}{}{Gracias. Adiós.}
-{141}{}{Hay una gran plataforma petrolífera Poseidon perdida en el mar. Es la última base del Enclave.}
-{142}{}{¿Cómo sabes todo esto?}
-{143}{}{¿Qué más está pasando por la plataforma?}
-{144}{}{Gracias. Adiós.}
+{113}{}{Este barco es un petrolero Poseidon. EstÃ¡ equipado con tecnologÃ­a que sobreviviÃ³ a la guerra. Tiene un FOB que permite el acceso a la sala de la computadora de navegaciÃ³n, y tambiÃ©n un transpondedor IAE que lo protege de las armas Poseidon.}
+{114}{}{Â¿CÃ³mo sabes todo esto?}
+{115}{}{Â¿QuÃ© es un transpondedor IAE?}
+{116}{}{Â¿CÃ³mo haces para que zarpe?}
+{117}{}{Gracias. AdiÃ³s.}
+{118}{}{ServÃ­ con el Enclave. Pero lleguÃ© a comprender que no estaba luchando por Estados Unidos: lo estaba haciendo por unos viejos bastardos ricachones que no quieren renunciar a su poder. DesertÃ© y ahora vivo aquÃ­, con gente mÃ¡s honesta.}
+{119}{}{Â¿Gente mÃ¡s honesta? Â¿Estos tipos?}
+{120}{}{Â¿QuÃ© es exactamente el Enclave?}
+{121}{}{Â¿CÃ³mo haces que esta cosa se mueva?}
+{122}{}{AdiÃ³s.}
+{123}{}{Â¿CÃ³mo pilotas este petrolero? Lo llenas hasta arriba de combustible -prueba con los Hubologistas o los Shi despuÃ©s de que te hayas encargado de todo lo demÃ¡s- y presiona el botÃ³n. La computadora se encargarÃ¡ del resto, si aÃºn funciona. NavegarÃ¡ directamente hasta la plataforma petrolÃ­fera, y no te dispararÃ¡n porque llevas el transpondedor IAE. Tan sÃ³lo asegÃºrate de que tienes todo lo que necesitas: FOB, una computadora funcional, y combustible. Bastante fÃ¡cil, Â¿eh?}
+{124}{}{Desde luego. Â¿CÃ³mo sabes todo esto?}
+{125}{}{Â¿QuÃ© es un transpondedor IAE y un FOB?}
+{126}{}{Â¿QuÃ© plataforma petrolÃ­fera?}
+{127}{}{SÃ­. AdiÃ³s.}
+{128}{}{IAE: Identificador Amigo o Enemigo. Significa que este barco estÃ¡ identificado como amigo, asÃ­ que otros elementos de Poseidon - como, digamos, una plataforma petrolifera - no te dispararÃ¡n en cuanto estÃ©s a tiro. Oh, y un FOB es alguna clase de tecnologÃ­a del Enclave que te permite acceder a una puerta electrÃ³nica. Seguramente encontrarÃ­as una de esas en en una de sus bases o un lugar similar.}
+{129}{}{Â¿CÃ³mo sabes todo esto?}
+{130}{}{Â¿QuÃ© plataforma petrolÃ­fera?}
+{131}{}{Gracias. AdiÃ³s.}
+{132}{}{SÃ­. Con esta gente, sabes exactamente cuÃ¡l es tu posiciÃ³n. Ellos no juegan. El Enclave era una manada de hienas: podrÃ­an volverse contra ti en un segundo.}
+{133}{}{Â¿QuÃ© es exactamente el Enclave?}
+{134}{}{Â¿CÃ³mo te uniste a ellos?}
+{135}{}{El Enclave es un remanente de los viejos tiempos. Si te diriges con esta cosa hasta la plataforma, te enterarÃ¡s por ti mismo.}
+{136}{}{Â¿CÃ³mo lo piloto?}
+{137}{}{Â¿QuÃ© plataforma?}
+{138}{}{Es bastante simple. Un dÃ­a simplemente abandonÃ© la base Navarro y me dirigÃ­ aquÃ­. Supuse que serÃ­a el Ãºltimo lugar en el que nadie mirarÃ­a. AdemÃ¡s, no soy lo bastante importante para el Enclave como para que me busquen: sÃ³lo soy un cabo suelto.}
+{139}{}{Â¿QuÃ© es exactamente el Enclave?}
+{140}{}{Gracias. AdiÃ³s.}
+{141}{}{Hay una gran plataforma petrolÃ­fera Poseidon perdida en el mar. Es la Ãºltima base del Enclave.}
+{142}{}{Â¿CÃ³mo sabes todo esto?}
+{143}{}{Â¿QuÃ© mÃ¡s estÃ¡ pasando por la plataforma?}
+{144}{}{Gracias. AdiÃ³s.}
 {145}{}{Las noticias vuelan.}
-{146}{}{Ya veo. ¿Qué más está pasando por la plataforma?}
-{147}{}{Ya veo. Adiós.}
-{148}{}{No sé. Yo era un técnico en Navarro, no un operario de plataforma petrolífera. Hablamos con ellos por las líneas de comunicación, y eso es todo lo que sé.}
-{149}{}{Ya veo. ¿Puedes repetirme cómo piloto esto?}
-{150}{}{Gracias. Adiós.}
-{151}{}{Has cometido un gran error metiéndote con el capitán y sus amigos...}
-{152}{}{¿Cómo pilotas este petrolero? Bueno, ya veo que lo has repostado. Cuando te hayas encargado de todo lo demás, simplemente presiona el botón. La computadora se encargará del resto, si aún funciona. Navegará directamente hasta la plataforma petrolífera, y no te dispararán porque llevas el transpondedor IAE. Tan sólo asegúrate de que tienes todo lo que necesitas: FOB, una computadora funcional, y combustible. Bastante fácil, ¿eh?}
-{153}{}{Oh, sí. También tienes que conseguir un circuito CompNav funcional. Apuesto a que encontrarás ese tipo de pieza en uno de esos viejos Refugios.}
-{154}{}{Me alegra verte de nuevo. ¿Qué necesitas?}
-{155}{}{, y a menos que pierda mi apuesta, que es donde están tus amigos, también.}
+{146}{}{Ya veo. Â¿QuÃ© mÃ¡s estÃ¡ pasando por la plataforma?}
+{147}{}{Ya veo. AdiÃ³s.}
+{148}{}{No sÃ©. Yo era un tÃ©cnico en Navarro, no un operario de plataforma petrolÃ­fera. Hablamos con ellos por las lÃ­neas de comunicaciÃ³n, y eso es todo lo que sÃ©.}
+{149}{}{Ya veo. Â¿Puedes repetirme cÃ³mo piloto esto?}
+{150}{}{Gracias. AdiÃ³s.}
+{151}{}{Has cometido un gran error metiÃ©ndote con el capitÃ¡n y sus amigos...}
+{152}{}{Â¿CÃ³mo pilotas este petrolero? Bueno, ya veo que lo has repostado. Cuando te hayas encargado de todo lo demÃ¡s, simplemente presiona el botÃ³n. La computadora se encargarÃ¡ del resto, si aÃºn funciona. NavegarÃ¡ directamente hasta la plataforma petrolÃ­fera, y no te dispararÃ¡n porque llevas el transpondedor IAE. Tan sÃ³lo asegÃºrate de que tienes todo lo que necesitas: FOB, una computadora funcional, y combustible. Bastante fÃ¡cil, Â¿eh?}
+{153}{}{Oh, sÃ­. TambiÃ©n tienes que conseguir un circuito CompNav funcional. Apuesto a que encontrarÃ¡s ese tipo de pieza en uno de esos viejos Refugios.}
+{154}{}{Me alegra verte de nuevo. Â¿QuÃ© necesitas?}
+{155}{}{, y a menos que pierda mi apuesta, que es donde estÃ¡n tus amigos, tambiÃ©n.}
 {156}{}{.}

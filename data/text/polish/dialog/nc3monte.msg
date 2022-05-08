@@ -1,46 +1,46 @@
 {100}{}{Widzisz Montego Trzy-Karty.}
-{150}{}{Widzisz wrzecionowatego starszego mê¿czyznê o twarzy spalonej s³oñcem. Jest tak chudy, ¿e wygl¹da, jakby by³ zrobiony z patyków.}
-{200}{}{Nie wiem jak mog³em przegraæ...}
-{205}{}{Heeeej! Bohaterze! Jesteœ w porz¹siu, w porz¹siu.}
-{215}{}{Gdzie do licha s¹ moje karty? Jeszcze PRZED CHWIL¥ je mia³em.}
-{220}{}{Jo, ch³opie, olej kasyna. ChodŸ zagraæ u Montego.}
-{230}{}{U Montego dzisiaj nieczynne. Te cholerne karty gdzieœ siê zapodzia³y.}
-{231}{}{(Staruszek uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, co?}
-{250}{}{W co? W grê oczywiœcie!}
-{260}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, pokazuje ci karty, potem k³adzie je na ziemi i przek³ada przez kilka sekund.}
+{150}{}{Widzisz wrzecionowatego starszego mÄ™Å¼czyznÄ™ o twarzy spalonej sÅ‚oÅ„cem. Jest tak chudy, Å¼e wyglÄ…da, jakby byÅ‚ zrobiony z patykÃ³w.}
+{200}{}{Nie wiem jak mogÅ‚em przegraÄ‡...}
+{205}{}{Heeeej! Bohaterze! JesteÅ› w porzÄ…siu, w porzÄ…siu.}
+{215}{}{Gdzie do licha sÄ… moje karty? Jeszcze PRZED CHWILÄ„ je miaÅ‚em.}
+{220}{}{Jo, chÅ‚opie, olej kasyna. ChodÅº zagraÄ‡ u Montego.}
+{230}{}{U Montego dzisiaj nieczynne. Te cholerne karty gdzieÅ› siÄ™ zapodziaÅ‚y.}
+{231}{}{(Staruszek uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, co?}
+{250}{}{W co? W grÄ™ oczywiÅ›cie!}
+{260}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, pokazuje ci karty, potem kÅ‚adzie je na ziemi i przekÅ‚ada przez kilka sekund.}
 {280}{}{(Monte turns over the card. It is the two of spades.)}
-{300}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, pokazuje ci karty i k³adzie je na ziemi. W tej samej chwili podmienia kartê tak szybko, ¿e ma³o brakowa³o, a by ciê zmyli³. Potem przek³ada je przez kilka sekund.)}
-{320}{}{COŒ ty, kolego powiedzia³?}
-{330}{}{S³uchaj, nie mam czasu dla p³aczków. P³acisz i dostajesz szansê. Jeœli chcesz GRAÆ, w porz¹dku, ale jeœli masz siê mazaæ, gdy przegrywasz, to spadaj!}
-{340}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, potem k³adzie karty i przek³ada je przez kilka chwil.)}
-{360}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, pokazuje ci karty, potem k³adzie je na ziemi i przek³ada przez kilka sekund.}
-{375}{}{(Monte odwraca kartê. Królowa kier. Wydaje siê, ¿e Monte dozna³ parali¿uj¹cego wstrz¹su.) Eee? He. Yyy... }
-{385}{}{(Monte odwraca kartê. Królowa kier. Wygl¹da na wstrz¹œniêtego.) Co? He... yyy... }
-{400}{}{(Coœ go chyba boli) Eee... no, mo¿e coœ mam... ale to jest warte o WIELE wiêcej ni¿ twoja wygrana... ale...}
-{405}{}{Eee... hmmmm... to zale¿y od tego, co chcesz wiedzieæ.}
-{415}{}{Eee... có¿... s³uchaj, ja ci tego nie mówi³em, ale za³o¿ê siê, ¿e to Renesco, ten dupek, który prowadzi aptekê w zachodniej dzielnicy. Nie mam pewnoœci, czy on to dzieciakowi SPRZEDA£, ale coœ wie. To wszystko, co zamierzam powiedzieæ.}
-{420}{}{Eee... no có¿... (wygl¹da jakby walczy³ sam ze sob¹) ...s³uchaj, ja ci tego nie mówi³em, ale na twoim miejscu sprawdzi³bym piwnicê pod Desperado.}
-{425}{}{(Mru¿y oczy i pochyla siê) Zapyta³bym Julesa przy wjeŸdzie do miasta. Nic siê obok niego nie przeœlizgnie... a jeœli siê PRZEŒLIZGNÊ£O, to on macza³ w tym palce, czaisz?}
-{430}{}{No có¿... znasz tego Eldridge'a, który prowadzi Bronie z Nowego Reno? Mówi, ¿e robi ulepszenia broni, ale nigdy nie widzia³em go przy racy. Mo¿e warto by kiedyœ obejrzeæ jego dom... ale ja ci tego nie mówi³em.}
-{435}{}{(Na twój widok Monte marszczy brwi) S³uchaj, dziœ nie ma ¿adnego grania, dobra? Znikaj.}
-{440}{}{Nie. Nie zamierzam siê jej pozbywaæ. Koniec, kropka. To AUTENTYCZNA pami¹tka sprzed wojny... ma³y kawa³ek historii. NIE MA MOWY.}
+{300}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, pokazuje ci karty i kÅ‚adzie je na ziemi. W tej samej chwili podmienia kartÄ™ tak szybko, Å¼e maÅ‚o brakowaÅ‚o, a by ciÄ™ zmyliÅ‚. Potem przekÅ‚ada je przez kilka sekund.)}
+{320}{}{COÅš ty, kolego powiedziaÅ‚?}
+{330}{}{SÅ‚uchaj, nie mam czasu dla pÅ‚aczkÃ³w. PÅ‚acisz i dostajesz szansÄ™. JeÅ›li chcesz GRAÄ†, w porzÄ…dku, ale jeÅ›li masz siÄ™ mazaÄ‡, gdy przegrywasz, to spadaj!}
+{340}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, potem kÅ‚adzie karty i przekÅ‚ada je przez kilka chwil.)}
+{360}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, pokazuje ci karty, potem kÅ‚adzie je na ziemi i przekÅ‚ada przez kilka sekund.}
+{375}{}{(Monte odwraca kartÄ™. KrÃ³lowa kier. Wydaje siÄ™, Å¼e Monte doznaÅ‚ paraliÅ¼ujÄ…cego wstrzÄ…su.) Eee? He. Yyy... }
+{385}{}{(Monte odwraca kartÄ™. KrÃ³lowa kier. WyglÄ…da na wstrzÄ…Å›niÄ™tego.) Co? He... yyy... }
+{400}{}{(CoÅ› go chyba boli) Eee... no, moÅ¼e coÅ› mam... ale to jest warte o WIELE wiÄ™cej niÅ¼ twoja wygrana... ale...}
+{405}{}{Eee... hmmmm... to zaleÅ¼y od tego, co chcesz wiedzieÄ‡.}
+{415}{}{Eee... cÃ³Å¼... sÅ‚uchaj, ja ci tego nie mÃ³wiÅ‚em, ale zaÅ‚oÅ¼Ä™ siÄ™, Å¼e to Renesco, ten dupek, ktÃ³ry prowadzi aptekÄ™ w zachodniej dzielnicy. Nie mam pewnoÅ›ci, czy on to dzieciakowi SPRZEDAÅ, ale coÅ› wie. To wszystko, co zamierzam powiedzieÄ‡.}
+{420}{}{Eee... no cÃ³Å¼... (wyglÄ…da jakby walczyÅ‚ sam ze sobÄ…) ...sÅ‚uchaj, ja ci tego nie mÃ³wiÅ‚em, ale na twoim miejscu sprawdziÅ‚bym piwnicÄ™ pod Desperado.}
+{425}{}{(MruÅ¼y oczy i pochyla siÄ™) ZapytaÅ‚bym Julesa przy wjeÅºdzie do miasta. Nic siÄ™ obok niego nie przeÅ›lizgnie... a jeÅ›li siÄ™ PRZEÅšLIZGNÄ˜ÅO, to on maczaÅ‚ w tym palce, czaisz?}
+{430}{}{No cÃ³Å¼... znasz tego Eldridge'a, ktÃ³ry prowadzi Bronie z Nowego Reno? MÃ³wi, Å¼e robi ulepszenia broni, ale nigdy nie widziaÅ‚em go przy racy. MoÅ¼e warto by kiedyÅ› obejrzeÄ‡ jego dom... ale ja ci tego nie mÃ³wiÅ‚em.}
+{435}{}{(Na twÃ³j widok Monte marszczy brwi) SÅ‚uchaj, dziÅ› nie ma Å¼adnego grania, dobra? Znikaj.}
+{440}{}{Nie. Nie zamierzam siÄ™ jej pozbywaÄ‡. Koniec, kropka. To AUTENTYCZNA pamiÄ…tka sprzed wojny... maÅ‚y kawaÅ‚ek historii. NIE MA MOWY.}
 {450}{}{Co z twoimi uszami? Ta suma nawet mnie nie zainteresuje.}
-{460}{}{No, w koñcu nie jest dla mnie A¯ TAK cenna. WeŸ j¹ sobie. (Spogl¹da na prawo, na lewo, po czym œci¹ga jeden z butów, odkrêca obcas i wyci¹ga ze œrodka kartê do gry) Masz. Dbaj o ni¹.}
-{465}{}{(Marszczy brwi) To, czy bêdê mówi³, zale¿y od tego, o co zapytasz. A nie jestem tani.}
-{475}{}{Za ¿adne skarby Golgoty nie bêdê nawet TYKAÆ tego tematu. Odwal siê.}
-{490}{}{(Potrz¹sa g³ow¹) Nie ma mowy. Paplanie o tym œci¹gnê³oby na kogoœ œmieræ, a na mnie pewnie w pierwszej kolejnoœci. Zapomnij.}
-{495}{}{Och... nooo... to mnóstwo dolarów. (Oblizuje usta. Wygl¹da jakby walczy³ sam z sob¹... ale ta walka nie trwa d³ugo.) S³uchaj, ja ci tego nie powiedzia³em...}
-{500}{}{(Uœmiecha siê drwi¹co) Mo¿e coœ s³ysza³em, a mo¿e nie. Podaj cenê.}
-{510}{}{Ha! Za tyle nie kupisz kub³a szczyn. Zapomnij.}
-{515}{}{Taaaaak, to rozumiem. (Szczerzy zêby.) S³uchaj, ja ci tego nie mówi³em, ale na twoim miejscu poszuka³bym w piwnicy pod Desperado w Alei Dziewic. Jest tam mnóstwo "szczurów", jeœli ³apiesz moj¹ aluzjê.}
-{520}{}{(Wzrusza ramionami) Mo¿e coœ o tym wiem, a mo¿e nie. Podaj cenê, a mo¿e bêdê mia³ coœ do powiedzenia.}
-{530}{}{(Mru¿¹c oczy pochyla siê nad tob¹.) Za tak¹ sumê nie wiem nic.}
-{535}{}{To ja rozumiem... (mru¿¹c oczy pochyla siê nad tob¹) ...zapyta³bym Julesa przy wjeŸdzie do miasta. Nic siê obok niego nie przeœlizgnie... a jeœli siê PRZEŒLIZGNÊ£O, to on macza³ w tym palce, kumasz?}
-{540}{}{(Wzrusza ramionami) Czasem coœ s³yszê, czasem coœ widzê. Byæ mo¿e za 200 dolców podzieli³bym siê swoimi doœwiadczeniami, ³apiesz?}
-{550}{}{Coœ z twoimi uszami? POWIEDZIA£EM 200 dolców i nie zmieniê zdania.}
+{460}{}{No, w koÅ„cu nie jest dla mnie AÅ» TAK cenna. WeÅº jÄ… sobie. (SpoglÄ…da na prawo, na lewo, po czym Å›ciÄ…ga jeden z butÃ³w, odkrÄ™ca obcas i wyciÄ…ga ze Å›rodka kartÄ™ do gry) Masz. Dbaj o niÄ….}
+{465}{}{(Marszczy brwi) To, czy bÄ™dÄ™ mÃ³wiÅ‚, zaleÅ¼y od tego, o co zapytasz. A nie jestem tani.}
+{475}{}{Za Å¼adne skarby Golgoty nie bÄ™dÄ™ nawet TYKAÄ† tego tematu. Odwal siÄ™.}
+{490}{}{(PotrzÄ…sa gÅ‚owÄ…) Nie ma mowy. Paplanie o tym Å›ciÄ…gnÄ™Å‚oby na kogoÅ› Å›mierÄ‡, a na mnie pewnie w pierwszej kolejnoÅ›ci. Zapomnij.}
+{495}{}{Och... nooo... to mnÃ³stwo dolarÃ³w. (Oblizuje usta. WyglÄ…da jakby walczyÅ‚ sam z sobÄ…... ale ta walka nie trwa dÅ‚ugo.) SÅ‚uchaj, ja ci tego nie powiedziaÅ‚em...}
+{500}{}{(UÅ›miecha siÄ™ drwiÄ…co) MoÅ¼e coÅ› sÅ‚yszaÅ‚em, a moÅ¼e nie. Podaj cenÄ™.}
+{510}{}{Ha! Za tyle nie kupisz kubÅ‚a szczyn. Zapomnij.}
+{515}{}{Taaaaak, to rozumiem. (Szczerzy zÄ™by.) SÅ‚uchaj, ja ci tego nie mÃ³wiÅ‚em, ale na twoim miejscu poszukaÅ‚bym w piwnicy pod Desperado w Alei Dziewic. Jest tam mnÃ³stwo "szczurÃ³w", jeÅ›li Å‚apiesz mojÄ… aluzjÄ™.}
+{520}{}{(Wzrusza ramionami) MoÅ¼e coÅ› o tym wiem, a moÅ¼e nie. Podaj cenÄ™, a moÅ¼e bÄ™dÄ™ miaÅ‚ coÅ› do powiedzenia.}
+{530}{}{(MruÅ¼Ä…c oczy pochyla siÄ™ nad tobÄ….) Za takÄ… sumÄ™ nie wiem nic.}
+{535}{}{To ja rozumiem... (mruÅ¼Ä…c oczy pochyla siÄ™ nad tobÄ…) ...zapytaÅ‚bym Julesa przy wjeÅºdzie do miasta. Nic siÄ™ obok niego nie przeÅ›lizgnie... a jeÅ›li siÄ™ PRZEÅšLIZGNÄ˜ÅO, to on maczaÅ‚ w tym palce, kumasz?}
+{540}{}{(Wzrusza ramionami) Czasem coÅ› sÅ‚yszÄ™, czasem coÅ› widzÄ™. ByÄ‡ moÅ¼e za 200 dolcÃ³w podzieliÅ‚bym siÄ™ swoimi doÅ›wiadczeniami, Å‚apiesz?}
+{550}{}{CoÅ› z twoimi uszami? POWIEDZIAÅEM 200 dolcÃ³w i nie zmieniÄ™ zdania.}
 {555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
  weapon upgrades, but I never see him do any work. You might want to check out his place... but
   you didn't hear that from me.}
-{560}{}{Umrzykowo na po³udnie od miasta. Œmierdzi jak diabli, o tak.}
-{565}{}{Stawia³bym na Renesco, tego starego dupka, który prowadzi aptekê w zachodzniej dzielnicy. Nie mam pewnoœci, czy SPRZEDA£ to dzieciakowi, ale COŒ wie. (Rozgl¹da siê) To wszystko, co mam do powiedzenia.}
-{570}{}{(Rozgl¹da siê, po czym zdejmuje jeden z butów, odkrêca obcas i wyjmuje ze œrodka kartê... na karcie widaæ mê¿czyznê w dziwnej czapce, trzymaj¹cego w rêku pa³kê.) No i jak? Autentyczna pami¹tka sprzed wojny.}
+{560}{}{Umrzykowo na poÅ‚udnie od miasta. Åšmierdzi jak diabli, o tak.}
+{565}{}{StawiaÅ‚bym na Renesco, tego starego dupka, ktÃ³ry prowadzi aptekÄ™ w zachodzniej dzielnicy. Nie mam pewnoÅ›ci, czy SPRZEDAÅ to dzieciakowi, ale COÅš wie. (RozglÄ…da siÄ™) To wszystko, co mam do powiedzenia.}
+{570}{}{(RozglÄ…da siÄ™, po czym zdejmuje jeden z butÃ³w, odkrÄ™ca obcas i wyjmuje ze Å›rodka kartÄ™... na karcie widaÄ‡ mÄ™Å¼czyznÄ™ w dziwnej czapce, trzymajÄ…cego w rÄ™ku paÅ‚kÄ™.) No i jak? Autentyczna pamiÄ…tka sprzed wojny.}

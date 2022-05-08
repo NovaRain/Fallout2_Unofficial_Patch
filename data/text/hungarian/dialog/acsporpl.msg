@@ -1,5 +1,5 @@
-{100}{}{Egy gonosz növényt látsz.}
-{101}{}{Ezek a növények nem csak a kertet, hanem más él?lényeket, köztük az embereket is képesek megtámadni.}
-{102}{}{Ezek a gonosz növények igen furcsák. Nem valószín?, hogy természtes módon mutálódtak ilyenné.}
-{103}{}{Semmi különöset nem veszel észre ezeken a növényeken - kivéve azt, hogy embereket is megtámadnak.}
-{150}{}{Kigyomláltad a kertb?l a gonosz növényeket.}
+{100}{}{Egy gonosz nÃ¶vÃ©nyt lÃ¡tsz.}
+{101}{}{Ezek a nÃ¶vÃ©nyek nem csak a kertet, hanem mÃ¡s Ã©l?lÃ©nyeket, kÃ¶ztÃ¼k az embereket is kÃ©pesek megtÃ¡madni.}
+{102}{}{Ezek a gonosz nÃ¶vÃ©nyek igen furcsÃ¡k. Nem valÃ³szÃ­n?, hogy termÃ©sztes mÃ³don mutÃ¡lÃ³dtak ilyennÃ©.}
+{103}{}{Semmi kÃ¼lÃ¶nÃ¶set nem veszel Ã©szre ezeken a nÃ¶vÃ©nyeken - kivÃ©ve azt, hogy embereket is megtÃ¡madnak.}
+{150}{}{KigyomlÃ¡ltad a kertb?l a gonosz nÃ¶vÃ©nyeket.}

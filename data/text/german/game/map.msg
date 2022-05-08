@@ -46,7 +46,7 @@
 {145}{}{Boneyard}
 {146}{}{Boneyard}
 {147}{}{Kathedrale}
-{148}{}{Militär}
+{148}{}{MilitÃ¤r}
 {149}{}{Mountains}
 {150}{}{Mountains}
 {151}{}{Desert}
@@ -78,8 +78,8 @@
 {212}{}{Dorf}
 {213}{}{}
 {214}{}{}
-{215}{}{Brücke}
-{216}{}{Zerstörte Brücke}
+{215}{}{BrÃ¼cke}
+{216}{}{ZerstÃ¶rte BrÃ¼cke}
 {217}{}{}
 {218}{}{Westseite}
 {219}{}{}
@@ -96,9 +96,9 @@
 {230}{}{Einkaufszentrum}
 {231}{}{Einkaufszentrum}
 {232}{}{}
-{233}{}{Rattenhöhlen}
-{234}{}{Rattenhöhlen}
-{235}{}{Rattenhöhlen}
+{233}{}{RattenhÃ¶hlen}
+{234}{}{RattenhÃ¶hlen}
+{235}{}{RattenhÃ¶hlen}
 {236}{}{Entrance}
 {237}{}{Abfalltunnel}
 {238}{}{Lager}
@@ -117,7 +117,7 @@
 {251}{}{Beratungsbereich}
 {252}{}{}
 {253}{}{}
-{254}{}{Hauptstraße}
+{254}{}{HauptstraÃŸe}
 {255}{}{}
 {256}{}{}
 {257}{}{Pension}
@@ -129,7 +129,7 @@
 {263}{}{Farrels Garten}
 {264}{}{}
 {265}{}{}
-{266}{}{Höhlen}
+{266}{}{HÃ¶hlen}
 {267}{}{}
 {268}{}{}
 {269}{}{Stadtbrunnen}
@@ -138,7 +138,7 @@
 {272}{}{Farm}
 {273}{}{}
 {274}{}{}
-{275}{}{Höhle}
+{275}{}{HÃ¶hle}
 {276}{}{}
 {277}{}{}
 {278}{}{Unterirdischer See}
@@ -186,7 +186,7 @@
 {320}{}{Level 1}
 {321}{}{Level 2}
 {322}{}{Level 3}
-{323}{}{Höhle}
+{323}{}{HÃ¶hle}
 {324}{}{}
 {325}{}{}
 {326}{}{Downtown}
@@ -270,27 +270,27 @@
 {404}{}{City}
 {405}{}{City}
 {406}{}{City}
-{407}{}{Im Ödland}
-{408}{}{Im Ödland}
-{409}{}{Im Ödland}
-{410}{}{Höhlen}
-{411}{}{Höhle}
-{412}{}{Höhle}
-{413}{}{Höhle}
-{414}{}{Höhle}
-{415}{}{Höhle}
-{416}{}{Höhle}
-{417}{}{Höhle}
-{418}{}{Höhle}
-{419}{}{Höhle}
-{420}{}{Höhle}
-{421}{}{Höhle}
-{422}{}{Im Ödland}
-{423}{}{Im Ödland}
-{424}{}{Im Ödland}
-{425}{}{Im Ödland}
-{426}{}{Im Ödland}
-{427}{}{Im Ödland}
+{407}{}{Im Ã–dland}
+{408}{}{Im Ã–dland}
+{409}{}{Im Ã–dland}
+{410}{}{HÃ¶hlen}
+{411}{}{HÃ¶hle}
+{412}{}{HÃ¶hle}
+{413}{}{HÃ¶hle}
+{414}{}{HÃ¶hle}
+{415}{}{HÃ¶hle}
+{416}{}{HÃ¶hle}
+{417}{}{HÃ¶hle}
+{418}{}{HÃ¶hle}
+{419}{}{HÃ¶hle}
+{420}{}{HÃ¶hle}
+{421}{}{HÃ¶hle}
+{422}{}{Im Ã–dland}
+{423}{}{Im Ã–dland}
+{424}{}{Im Ã–dland}
+{425}{}{Im Ã–dland}
+{426}{}{Im Ã–dland}
+{427}{}{Im Ã–dland}
 {428}{}{Coast}
 {429}{}{Coast}
 {430}{}{Coast}
@@ -303,9 +303,9 @@
 {437}{}{Wohngegend}
 {438}{}{Untergrund}
 {439}{}{Mine}
-{440}{}{Höhle}
-{441}{}{Höhle}
-{442}{}{Höhle}
+{440}{}{HÃ¶hle}
+{441}{}{HÃ¶hle}
+{442}{}{HÃ¶hle}
 {443}{}{Desert}
 {444}{}{Desert}
 {445}{}{Desert}
@@ -342,15 +342,15 @@
 {476}{}{Raider-Lager}
 {477}{}{Raider-Lager}
 {478}{}{Raider-Lager}
-{479}{}{Höhleneingang}
+{479}{}{HÃ¶hleneingang}
 {480}{}{Skorpionen Nest}
 {481}{}{Kaserne}
 {482}{}{Desert}
 {483}{}{Desert}
 {484}{}{Desert}
-{485}{}{Im Ödland}
-{486}{}{Im Ödland}
-{487}{}{Im Ödland}
+{485}{}{Im Ã–dland}
+{486}{}{Im Ã–dland}
+{487}{}{Im Ã–dland}
 {488}{}{Desert}
 {489}{}{Desert}
 {490}{}{Desert}
@@ -366,24 +366,24 @@
 {500}{}{Desert}
 {501}{}{Desert}
 {502}{}{Desert}
-{503}{}{Brücke des Todes}
-{504}{}{Brücke des Todes}
-{505}{}{Brücke des Todes}
-{506}{}{Café der geplatzten Träume}
-{507}{}{Café der geplatzten Träume}
-{508}{}{Café der geplatzten Träume}
+{503}{}{BrÃ¼cke des Todes}
+{504}{}{BrÃ¼cke des Todes}
+{505}{}{BrÃ¼cke des Todes}
+{506}{}{CafÃ© der geplatzten TrÃ¤ume}
+{507}{}{CafÃ© der geplatzten TrÃ¤ume}
+{508}{}{CafÃ© der geplatzten TrÃ¤ume}
 {509}{}{Desert}
 {510}{}{Desert}
 {511}{}{Desert}
-{512}{}{Im Ödland}
-{513}{}{Höhle}
-{514}{}{Höhle}
-{515}{}{Wächter}
+{512}{}{Im Ã–dland}
+{513}{}{HÃ¶hle}
+{514}{}{HÃ¶hle}
+{515}{}{WÃ¤chter}
 {516}{}{Vault 13}
 {517}{}{Vault 13}
-{518}{}{Giftmüllhalde}
-{519}{}{Giftmüllhalde}
-{520}{}{Giftmüllhalde}
+{518}{}{GiftmÃ¼llhalde}
+{519}{}{GiftmÃ¼llhalde}
+{520}{}{GiftmÃ¼llhalde}
 {521}{}{Desert}
 {522}{}{Desert}
 {523}{}{Desert}
@@ -393,15 +393,15 @@
 {527}{}{Tankstelle}
 {528}{}{Untergrund}
 {529}{}{Vertibird Basis}
-{530}{}{Küstenstrich}
-{531}{}{Küstenstrich}
-{532}{}{Küstenstrich}
-{533}{}{Küstenstrich}
-{534}{}{Küstenstrich}
-{535}{}{Küstenstrich}
-{536}{}{Küstenstrich}
-{537}{}{Küstenstrich}
-{538}{}{Küstenstrich}
+{530}{}{KÃ¼stenstrich}
+{531}{}{KÃ¼stenstrich}
+{532}{}{KÃ¼stenstrich}
+{533}{}{KÃ¼stenstrich}
+{534}{}{KÃ¼stenstrich}
+{535}{}{KÃ¼stenstrich}
+{536}{}{KÃ¼stenstrich}
+{537}{}{KÃ¼stenstrich}
+{538}{}{KÃ¼stenstrich}
 {539}{}{Desert}
 {540}{}{Desert}
 {541}{}{Desert}
@@ -417,36 +417,36 @@
 {551}{}{Desert}
 {552}{}{Desert}
 {553}{}{Desert}
-{554}{}{Höhle}
-{555}{}{Höhle}
-{556}{}{Höhle}
-{557}{}{Höhle}
-{558}{}{Höhle}
-{559}{}{Höhle}
-{560}{}{Höhle}
-{561}{}{Höhle}
-{562}{}{Höhle}
-{563}{}{Im Ödland}
-{564}{}{Im Ödland}
-{565}{}{Im Ödland}
-{566}{}{Im Ödland}
-{567}{}{Im Ödland}
-{568}{}{Im Ödland}
-{569}{}{Im Ödland}
-{570}{}{Im Ödland}
-{571}{}{Im Ödland}
-{572}{}{Im Ödland}
-{573}{}{Im Ödland}
-{574}{}{Im Ödland}
+{554}{}{HÃ¶hle}
+{555}{}{HÃ¶hle}
+{556}{}{HÃ¶hle}
+{557}{}{HÃ¶hle}
+{558}{}{HÃ¶hle}
+{559}{}{HÃ¶hle}
+{560}{}{HÃ¶hle}
+{561}{}{HÃ¶hle}
+{562}{}{HÃ¶hle}
+{563}{}{Im Ã–dland}
+{564}{}{Im Ã–dland}
+{565}{}{Im Ã–dland}
+{566}{}{Im Ã–dland}
+{567}{}{Im Ã–dland}
+{568}{}{Im Ã–dland}
+{569}{}{Im Ã–dland}
+{570}{}{Im Ã–dland}
+{571}{}{Im Ã–dland}
+{572}{}{Im Ã–dland}
+{573}{}{Im Ã–dland}
+{574}{}{Im Ã–dland}
 {575}{}{Verlassene Stadt}
-{576}{}{Im Ödland}
-{577}{}{Im Ödland}
+{576}{}{Im Ã–dland}
+{577}{}{Im Ã–dland}
 {578}{}{Tempel Eingang}
 {579}{}{Tempel Eingang}
 {580}{}{Tempel Eingang}
-{581}{}{Zerstörte Brücke}
-{582}{}{Zerstörte Brücke}
-{583}{}{Zerstörte Brücke}
+{581}{}{ZerstÃ¶rte BrÃ¼cke}
+{582}{}{ZerstÃ¶rte BrÃ¼cke}
+{583}{}{ZerstÃ¶rte BrÃ¼cke}
 {584}{}{Arrest Zelle}
 {585}{}{Arrest Zelle}
 {586}{}{Arrest Zelle}
@@ -459,18 +459,18 @@
 {593}{}{Kasernen}
 {594}{}{Kasernen}
 {595}{}{Kasernen}
-{596}{}{Präsidenten Bereich}
-{597}{}{Präsidenten Bereich}
-{598}{}{Präsidenten Bereich}
+{596}{}{PrÃ¤sidenten Bereich}
+{597}{}{PrÃ¤sidenten Bereich}
+{598}{}{PrÃ¤sidenten Bereich}
 {599}{}{Reaktor}
 {600}{}{Reaktor}
 {601}{}{Reaktor}
 {602}{}{Zugangskorridor}
 {603}{}{Zugangskorridor}
 {604}{}{Zugangskorridor}
-{605}{}{Öl Tanker}
-{606}{}{Öl Tanker}
-{607}{}{Öl Tanker}
+{605}{}{Ã–l Tanker}
+{606}{}{Ã–l Tanker}
+{607}{}{Ã–l Tanker}
 {608}{}{Hafen}
 {609}{}{Hafen}
 {610}{}{Hafen}
@@ -486,24 +486,24 @@
 {620}{}{Hubologen Basis}
 {621}{}{Hubologen Basis}
 {622}{}{Hubologen Basis}
-{623}{}{Zerstörte Stadt}
-{624}{}{Zerstörte Stadt}
-{625}{}{Zerstörte Stadt}
-{626}{}{Zerstörte Stadt}
-{627}{}{Zerstörte Stadt}
-{628}{}{Zerstörte Stadt}
-{629}{}{Zerstörte Stadt}
-{630}{}{Zerstörte Stadt}
-{631}{}{Zerstörte Stadt}
-{632}{}{Zerstörte Stadt}
-{633}{}{Zerstörte Stadt}
-{634}{}{Zerstörte Stadt}
-{635}{}{Zerstörte Stadt}
-{636}{}{Zerstörte Stadt}
-{637}{}{Zerstörte Stadt}
-{638}{}{Zerstörte Stadt}
-{639}{}{Zerstörte Stadt}
-{640}{}{Zerstörte Stadt}
+{623}{}{ZerstÃ¶rte Stadt}
+{624}{}{ZerstÃ¶rte Stadt}
+{625}{}{ZerstÃ¶rte Stadt}
+{626}{}{ZerstÃ¶rte Stadt}
+{627}{}{ZerstÃ¶rte Stadt}
+{628}{}{ZerstÃ¶rte Stadt}
+{629}{}{ZerstÃ¶rte Stadt}
+{630}{}{ZerstÃ¶rte Stadt}
+{631}{}{ZerstÃ¶rte Stadt}
+{632}{}{ZerstÃ¶rte Stadt}
+{633}{}{ZerstÃ¶rte Stadt}
+{634}{}{ZerstÃ¶rte Stadt}
+{635}{}{ZerstÃ¶rte Stadt}
+{636}{}{ZerstÃ¶rte Stadt}
+{637}{}{ZerstÃ¶rte Stadt}
+{638}{}{ZerstÃ¶rte Stadt}
+{639}{}{ZerstÃ¶rte Stadt}
+{640}{}{ZerstÃ¶rte Stadt}
 {641}{}{Vertibird Bereich}
 {642}{}{Vertibird Bereich}
 {643}{}{Vertibird Bereich}
@@ -534,7 +534,7 @@
 {1509}{}{Vault 15}
 {1510}{}{New California Republic}
 {1511}{}{Vault 13}
-{1512}{}{Militärbasis}
+{1512}{}{MilitÃ¤rbasis}
 {1513}{}{Redding}
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
@@ -545,31 +545,31 @@
 {1520}{}{Geister Farm}
 {1521}{}{Auto ohne Energie}
 {1522}{}{Arroyo}
-{1523}{}{Gifthöhlen}
+{1523}{}{GifthÃ¶hlen}
 {1524}{}{Den-Sklavenjagd}
 {1525}{}{Raiders}
 {1526}{}{Desert}
-{1527}{}{Im Ödland}
-{1528}{}{Im Ödland}
+{1527}{}{Im Ã–dland}
+{1528}{}{Im Ã–dland}
 {1529}{}{Coast}
 {1530}{}{Golgotha}
 {1531}{}{Gestrandeter Wal}
 {1532}{}{Blechmann}
 {1533}{}{Talking Head}
-{1534}{}{Shuttle der Föderation}
+{1534}{}{Shuttle der FÃ¶deration}
 {1535}{}{Ungewaschene Dorfbewohner}
-{1536}{}{Brücke}
-{1537}{}{Café der geplatzten Träume}
+{1536}{}{BrÃ¼cke}
+{1537}{}{CafÃ© der geplatzten TrÃ¤ume}
 {1538}{}{Paladine}
-{1539}{}{Vorpal-Rattenhöhle}
-{1540}{}{Wächter der Ewigkeit}
-{1541}{}{Giftmüllhalde}
+{1539}{}{Vorpal-RattenhÃ¶hle}
+{1540}{}{WÃ¤chter der Ewigkeit}
+{1541}{}{GiftmÃ¼llhalde}
 {1542}{}{Parias}
-{1543}{}{Tollwütiges Brahmin}
+{1543}{}{TollwÃ¼tiges Brahmin}
 {1544}{}{Karawane}
 {1545}{}{Vault 13}
 {1546}{}{Vault 13 Attrappe}
 {1547}{}{Zufallsbegegnung}
-{1548}{}{Ställe}
+{1548}{}{StÃ¤lle}
 {1549}{}{Abbey}
 {1550}{}{EPA}

@@ -1,2 +1,2 @@
 {100}{}{Du siehst einen Wanamingo.}
-{101}{}{Der Wanamingo sieht wirklich nicht sehr erfreut über den unerwarteten Besuch aus.}
+{101}{}{Der Wanamingo sieht wirklich nicht sehr erfreut Ã¼ber den unerwarteten Besuch aus.}

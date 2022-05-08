@@ -1,2 +1,2 @@
-{100}{}{Est醩 usando el parche no oficial de killap para F2. Versi髇 1.02.31u. Edici髇 en espa駉l. racias por instalar!}
-{101}{}{Est醩 usando el parche no oficial de killap para F2. Versi髇 1.02.31u. Edici髇 en espa駉l. racias por instalar!}
+{100}{}{Est谩s usando el parche no oficial de killap para F2. Versi贸n 1.02.31u. Edici贸n en espa帽ol. 隆Gracias por instalar!}
+{101}{}{Est谩s usando el parche no oficial de killap para F2. Versi贸n 1.02.31u. Edici贸n en espa帽ol. 隆Gracias por instalar!}

@@ -1,51 +1,51 @@
-{100}{}{Widzisz brudnego ale wygl¹daj¹cego na silnego mê¿czyznê.}
+{100}{}{Widzisz brudnego ale wyglÄ…dajÄ…cego na silnego mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz Connara.}
 {102}{}{Hey you! What are you doing!}
 {103}{}{Ani kroku dalej, przybyszu. Co tu robisz?}
 {104}{}{I'm killing off the monsters here.}
-{105}{}{A co ciê to obchodzi?}
+{105}{}{A co ciÄ™ to obchodzi?}
 {106}{}{Czemu ty krzyczy!}
 {107}{}{I bet those bastards at Vault City sent you. Well you best be off, and leave everything else
  alive.}
-{108}{}{Có¿, na to ju¿ chyba trochê za póŸno.}
+{108}{}{CÃ³Å¼, na to juÅ¼ chyba trochÄ™ za pÃ³Åºno.}
 {109}{}{Dlaczego?}
-{110}{}{Przykro mi, mam robotê do wykonania.}
+{110}{}{Przykro mi, mam robotÄ™ do wykonania.}
 {111}{}{Those creatures are the only thing that are stopping Vault City from making us their so-called
  servants.}
 {112}{}{Well they're paying me to get rid of the monsters, and that's what I'm going to do.}
 {113}{}{Tego mi nie powiedzieli.}
-{114}{}{Zap³acili mi za wytêpienie potworów, wiêc zosta³y wytêpione.}
-{115}{}{Odbi³o ci?! Dlaczego to robisz!}
-{116}{}{Potrzebujê pieniêdzy.}
-{117}{}{Wiedz, ¿e jeœli to zrobisz, przyjd¹ po nas i bêdziemy zgubieni.}
+{114}{}{ZapÅ‚acili mi za wytÄ™pienie potworÃ³w, wiÄ™c zostaÅ‚y wytÄ™pione.}
+{115}{}{OdbiÅ‚o ci?! Dlaczego to robisz!}
+{116}{}{PotrzebujÄ™ pieniÄ™dzy.}
+{117}{}{Wiedz, Å¼e jeÅ›li to zrobisz, przyjdÄ… po nas i bÄ™dziemy zgubieni.}
 {118}{}{To nie moja sprawa.}
-{119}{}{Wiêc ud³aw siê nimi! Wkrótce po nas przyjd¹, jesteœmy zgubieni.}
-{120}{}{Nie powiedzieli mi, ¿e o to im chodzi.}
-{121}{}{Ta. Có¿, i tak nie robiê interesów z takimi œmieciami jak wy.}
-{122}{}{Nie mo¿emy ci na to pozwoliæ.}
-{123}{}{Rób co uwa¿asz za konieczne.}
+{119}{}{WiÄ™c udÅ‚aw siÄ™ nimi! WkrÃ³tce po nas przyjdÄ…, jesteÅ›my zgubieni.}
+{120}{}{Nie powiedzieli mi, Å¼e o to im chodzi.}
+{121}{}{Ta. CÃ³Å¼, i tak nie robiÄ™ interesÃ³w z takimi Å›mieciami jak wy.}
+{122}{}{Nie moÅ¼emy ci na to pozwoliÄ‡.}
+{123}{}{RÃ³b co uwaÅ¼asz za konieczne.}
 {124}{}{You believed them at face value?  You've a lot to learn about the world, friend.}
-{125}{}{Mogê wam w jakiœ sposób pomóc?}
-{126}{}{Ch³opcy z Kryptopolis nie nale¿¹ do najodwa¿niejszych. Jak tylko zwêsz¹ jak¹œ rozróbê podkulaj¹ ogon i wiej¹ do domu. Gdybyœmy mieli jak¹œ broñ, moglibyœmy trzymaæ ich na dystans.}
+{125}{}{MogÄ™ wam w jakiÅ› sposÃ³b pomÃ³c?}
+{126}{}{ChÅ‚opcy z Kryptopolis nie naleÅ¼Ä… do najodwaÅ¼niejszych. Jak tylko zwÄ™szÄ… jakÄ…Å› rozrÃ³bÄ™ podkulajÄ… ogon i wiejÄ… do domu. GdybyÅ›my mieli jakÄ…Å› broÅ„, moglibyÅ›my trzymaÄ‡ ich na dystans.}
 {127}{}{What sort of guns?}
 {128}{}{Well, I'm good with a shotgun, and we have some people in here that can handle a rifle. I think
  three of those would do.}
-{129}{}{Zobaczê, co da siê zrobiæ.}
-{130}{}{Nie chcemy ciê tutaj. OdejdŸ.}
-{131}{}{Mo¿e jednak zmieniê zdanie. Jak mogê wam pomóc?}
-{132}{}{Ta. Có¿, i tak wkrótce was tu nie bêdzie.}
-{133}{}{Jakby mnie to obchodzi³o.}
-{134}{}{Ju¿ jesteœ! Masz dla nas broñ?}
-{135}{}{Mo¿esz mi jeszcze raz powiedzieæ czego potrzebujecie?}
-{136}{}{Tak, proszê bardzo.}
+{129}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{130}{}{Nie chcemy ciÄ™ tutaj. OdejdÅº.}
+{131}{}{MoÅ¼e jednak zmieniÄ™ zdanie. Jak mogÄ™ wam pomÃ³c?}
+{132}{}{Ta. CÃ³Å¼, i tak wkrÃ³tce was tu nie bÄ™dzie.}
+{133}{}{Jakby mnie to obchodziÅ‚o.}
+{134}{}{JuÅ¼ jesteÅ›! Masz dla nas broÅ„?}
+{135}{}{MoÅ¼esz mi jeszcze raz powiedzieÄ‡ czego potrzebujecie?}
+{136}{}{Tak, proszÄ™ bardzo.}
 {137}{}{We need three rifles and a shotgun. The sooner you can get them to us, the better.}
-{138}{}{W porz¹dku.}
+{138}{}{W porzÄ…dku.}
 {139}{}{With these, we'll be able to make something of this place over the next months. If you ever need
  a place to rest, you will always be welcome here.}
-{140}{}{Ca³a przyjemnoœæ po mojej stronie.}
+{140}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
 {141}{}{Welcome back. Things are going well. We're going to work on expanding the Village.}
-{142}{}{Witaj ponownie! Jak widzisz u nas wszystko w najlepszym porz¹dku. Rozejrzyj siê trochê jeœli masz czas.}
-{143}{}{Wci¹¿ budujemy. W przysz³ym miesi¹cu powinniœmy powiêkszyæ mury.}
+{142}{}{Witaj ponownie! Jak widzisz u nas wszystko w najlepszym porzÄ…dku. Rozejrzyj siÄ™ trochÄ™ jeÅ›li masz czas.}
+{143}{}{WciÄ…Å¼ budujemy. W przyszÅ‚ym miesiÄ…cu powinniÅ›my powiÄ™kszyÄ‡ mury.}
 {144}{}{Greetings! The village has expanded again as we have hoped. You are welcome as always.}
 {145}{}{We have nothing to fear from Vault City any longer, and will be able to live here in peace.
  Thank you again, wanderer.}

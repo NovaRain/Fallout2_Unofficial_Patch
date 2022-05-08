@@ -1,26 +1,26 @@
-{100}{}{Você vê alguém na armadura de energia. }
-{101}{}{Você vê o Comandante da base de Navarro.}
-{102}{}{Você vê alguém vestindo armadura de energia de um design incomum. Há uma insígnia no peitoral que você não conhece.}
-{103}{}{Quem diabos são vocês... Alerta! Intrusos na base!}
-{104}{}{Não tenho tempo para conversar com os grunhidos. Você está dispensado. }
+{100}{}{VocÃª vÃª alguÃ©m na armadura de energia. }
+{101}{}{VocÃª vÃª o Comandante da base de Navarro.}
+{102}{}{VocÃª vÃª alguÃ©m vestindo armadura de energia de um design incomum. HÃ¡ uma insÃ­gnia no peitoral que vocÃª nÃ£o conhece.}
+{103}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos na base!}
+{104}{}{NÃ£o tenho tempo para conversar com os grunhidos. VocÃª estÃ¡ dispensado. }
 {105}{}{Tempo para morrer.}
 {106}{}{Tudo bem.}
-{107}{}{Eu disse que não tenho tempo para você. Deixe este escritório e não volte aqui, a menos que eu envie para você. Dispensado!}
-{108}{}{A desobediência a uma ordem direta de um superior hierárquico é traição. Eu não tenho tempo para corte marcial de você, então eu vou lidar com isso sozinho. Guardas! Matem esse idiota!}
+{107}{}{Eu disse que nÃ£o tenho tempo para vocÃª. Deixe este escritÃ³rio e nÃ£o volte aqui, a menos que eu envie para vocÃª. Dispensado!}
+{108}{}{A desobediÃªncia a uma ordem direta de um superior hierÃ¡rquico Ã© traiÃ§Ã£o. Eu nÃ£o tenho tempo para corte marcial de vocÃª, entÃ£o eu vou lidar com isso sozinho. Guardas! Matem esse idiota!}
 {109}{}{Tudo bem.}
 {110}{}{Que se dane!}
-{111}{}{O Fob está no armário lá. Peça ao funcionário que me contacte quando estiver seguro. Dispensado!}
+{111}{}{O Fob estÃ¡ no armÃ¡rio lÃ¡. PeÃ§a ao funcionÃ¡rio que me contacte quando estiver seguro. Dispensado!}
 {112}{}{Sim, senhor!}
-{113}{}{Faça isso rápido soldado, eu não tenho o dia todo para isso.}
+{113}{}{FaÃ§a isso rÃ¡pido soldado, eu nÃ£o tenho o dia todo para isso.}
 {114}{}{Sim, senhor!}
-{115}{}{Deixe o meu armário sozinho ou vou causar uma dor séria.}
+{115}{}{Deixe o meu armÃ¡rio sozinho ou vou causar uma dor sÃ©ria.}
 {116}{}{Sim, senhor!}
-{117}{}{Esta base está em alerta e não reconheço você. Mostre-me seus papéis, soldado.}
+{117}{}{Esta base estÃ¡ em alerta e nÃ£o reconheÃ§o vocÃª. Mostre-me seus papÃ©is, soldado.}
 {118}{}{Que documentos?}
-{119}{}{Você me estoura!}
-{120}{}{Acho que não tenho eles comigo...}
+{119}{}{VocÃª me estoura!}
+{120}{}{Acho que nÃ£o tenho eles comigo...}
 {121}{}{Documentos? Eu tenho seus documentos bem aqui!}
-{122}{}{Resposta errada, verme. Você deve transportar os seus documentos com você em todos os momentos. Você deve saber disso!}
-{123}{}{Foda-se você.}
-{124}{}{Deixe o meu armário sozinho ou vou causar uma dor séria.}
+{122}{}{Resposta errada, verme. VocÃª deve transportar os seus documentos com vocÃª em todos os momentos. VocÃª deve saber disso!}
+{123}{}{Foda-se vocÃª.}
+{124}{}{Deixe o meu armÃ¡rio sozinho ou vou causar uma dor sÃ©ria.}
 {125}{}{Tempo para morrer.}

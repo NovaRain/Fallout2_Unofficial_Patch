@@ -1,44 +1,44 @@
-{100}{}{? nem más, mint Ittapiros-Holapiros.}
-{150}{}{Egy nyeszlett öregúrhoz van szerencséd. Arcát kicserzette a nap, és olyan vékony szegény, mintha az egész ember két törékeny gallyacska lenne.}
-{200}{}{Nem látja, hogy megkopasztottak?...}
-{205}{}{Hé, nagy ember! Igaza van, igaza van!}
-{215}{}{Hol a francba vannak a kártyácskáim? Nem tudok meglenni nélkülük!}
-{220}{}{Hela, kispajtás, fenébe a kaszinóval, játsszon inkább Ittapiros bácsival!}
-{230}{}{Ittapiros bácsi ma nem tud játszani, barátom. Elt?ntek a francos kártyáim.}
-{231}{}{(Az öregember mosolyog, miközben a szemei körül jócskán meggy?lnek a ráncok.) Játszhatnéka van, barátom?}
-{250}{}{Na, mégis mit gondol? Hát a játéknak!}
-{260}{}{(Átnyújtod a pénzt. Ittapiros bólint, megmutatja a lapokat, aztán leteríti ?ket a földre, és néhány másodpercig kevergeti ?ket.)}
-{280}{}{(Ittapiros megfordítja a lapot. A pikk kettest választottad.)}
-{300}{}{(Átnyújtod a pénzt. Ittapiros rábólint, megmutatja a lapokat, aztán leteríti ?ket a földre. Miközben ezt teszi, az egyik kártyát a tenyerébe rejti, de olyan villámsebesen, hogy majdnem elsiklasz felette. Ezután néhány másodpercig még folytatja a keverést .)}
+{100}{}{? nem mÃ¡s, mint Ittapiros-Holapiros.}
+{150}{}{Egy nyeszlett Ã¶regÃºrhoz van szerencsÃ©d. ArcÃ¡t kicserzette a nap, Ã©s olyan vÃ©kony szegÃ©ny, mintha az egÃ©sz ember kÃ©t tÃ¶rÃ©keny gallyacska lenne.}
+{200}{}{Nem lÃ¡tja, hogy megkopasztottak?...}
+{205}{}{HÃ©, nagy ember! Igaza van, igaza van!}
+{215}{}{Hol a francba vannak a kÃ¡rtyÃ¡cskÃ¡im? Nem tudok meglenni nÃ©lkÃ¼lÃ¼k!}
+{220}{}{Hela, kispajtÃ¡s, fenÃ©be a kaszinÃ³val, jÃ¡tsszon inkÃ¡bb Ittapiros bÃ¡csival!}
+{230}{}{Ittapiros bÃ¡csi ma nem tud jÃ¡tszani, barÃ¡tom. Elt?ntek a francos kÃ¡rtyÃ¡im.}
+{231}{}{(Az Ã¶regember mosolyog, mikÃ¶zben a szemei kÃ¶rÃ¼l jÃ³cskÃ¡n meggy?lnek a rÃ¡ncok.) JÃ¡tszhatnÃ©ka van, barÃ¡tom?}
+{250}{}{Na, mÃ©gis mit gondol? HÃ¡t a jÃ¡tÃ©knak!}
+{260}{}{(ÃtnyÃºjtod a pÃ©nzt. Ittapiros bÃ³lint, megmutatja a lapokat, aztÃ¡n leterÃ­ti ?ket a fÃ¶ldre, Ã©s nÃ©hÃ¡ny mÃ¡sodpercig kevergeti ?ket.)}
+{280}{}{(Ittapiros megfordÃ­tja a lapot. A pikk kettest vÃ¡lasztottad.)}
+{300}{}{(ÃtnyÃºjtod a pÃ©nzt. Ittapiros rÃ¡bÃ³lint, megmutatja a lapokat, aztÃ¡n leterÃ­ti ?ket a fÃ¶ldre. MikÃ¶zben ezt teszi, az egyik kÃ¡rtyÃ¡t a tenyerÃ©be rejti, de olyan villÃ¡msebesen, hogy majdnem elsiklasz felette. EzutÃ¡n nÃ©hÃ¡ny mÃ¡sodpercig mÃ©g folytatja a keverÃ©st .)}
 {320}{}{MIT mondott, pajti?}
-{330}{}{Nincsen énnekem id?m a zsír kezd?kre. Maga fizet, ezért esélyt kap a nyerésre. Ha játszani akar, benne vagyok, de t?njön innen, ha csak h?zöng itt nekem vesztéskor!}
-{340}{}{(Átnyújtod a pénzt. Ittapiros bólint, aztán leteríti a lapokat és egy darabig kevergeti ?ket.)}
-{360}{}{(Átnyújtod a pénzt. Ittapiros bólint, megmutatja a lapokat, aztán leteríti ?ket a földre, és néhány másodpercig kevergeti ?ket.)}
-{375}{}{(Ittapiros megfordítja a lapot, amely nem más, mint a k?r dáma. A férfi szinte lebénul a meglepetést?l.) Ah...? Ej...}
-{385}{}{(Ittapiros megfordítja a kártyát, amely nem más, mint a k?r dáma. Teljesen ki van akadva ett?l.) Ööö... Hát ez...}
-{400}{}{(Fájdalmas arcot vág.) Fenébe... azért még van valamim... SOKKAL többet ér, mint amennyit elnyert t?lem... egyel?re...}
-{405}{}{Eh... hmnnn... attól függ, mit akar tudni.}
-{415}{}{Eh... izé... hát nem t?lem hallotta, de szerintem Renesco a ludas. ? az a seggarc, aki a nyugati kerületben vezeti a gyógyszertárat. Biztos ugyan nem vagyok benne, hogy épp ? adta volna el a gyereknek, de hogy tud valamit, az tutti. Ennél többet nem mondok.}
-{420}{}{Hát... hogyismondjamcsak... (mintha magában vívódna)... hát nem t?lem hallotta, de a maga helyében lenéznék a Desperado alagsorába.}
-{425}{}{(Hunyorítva közelebb hajol) Kérdezgesse a vén Jules-t az el?városban. Mindenr?l tud... vagy ha mégsem, akkor benne van a keze. Gondolom, tudja mir?l beszélek.}
-{430}{}{Hát... azt tudta-e, hogy az az Eldridge fazon vezeti a New Reno-i Fegyverboltot? Azt állítja, hogy fegyvertuningolással is foglalkozik, de én még az életben nem láttam egyetlen munkáját se. Talán érdemes lenne benézni hozzá... persze nem t?lem hallotta.}
-{435}{}{(Amint meglát, Ittapiros összevonja a szemöldökét.) Ma nem szerencsejátékozunk itt, értve? Le lehet kopni.}
-{440}{}{Fenét! Én ugyan meg nem válok t?le. Pont. HAMISÍTATLAN háború el?tti ereklye... a történelem kis szelete. Haggyon engem békét ezzel!}
-{450}{}{Süket maga? Ez az összeg még csak meg sem birizgálja az érdekl?désemet.}
-{460}{}{Hát, igazán nem is ANNYIRA kell már. A magáé, pajtás. (Félve jobbra-balra tekinget, aztán lenyúl és lehúzza a csizmáját. Elcsavarja a sarkát, és el?vesz bel?le egy kártyalapot.) Tessék. Vigyázzon rá.}
-{465}{}{(Szemöldökét ráncolja) Az, hogy beszélek-e attól függ, mit akar tudni. Ráadásul nem lesz olcsó.}
-{475}{}{A Golgotát ne is említse, ÉRINT?LEG sem! Kopjon le!}
-{490}{}{(Megrázza a fejét.) Nincs az az isten! Már attól meghal valaki, ha beszélnek róla, lehet, hogy pont én. Üsse ki a fejéb?l!}
-{495}{}{Öö... izé... ez jó sok pééz. (Megnyalja az ajkait. Látszik, hogy vívódik magában... de csak rövid ideig.) Hát idefigyeljen, nem t?lem hallotta...}
-{500}{}{(Horkant) Lehet, hogy hallottam ezt-azt, lehet, hogy nem. A dolgoknak ára van.}
-{510}{}{Ha! Ennyiért egy vödör pisát sem kap. Hagyjon lógva!}
-{515}{}{Eeeez már valami! (Gonosz módon vigyorog.) Hát nem t?lem hallotta, de ha a maga helyében lennék, lenéznék a Sz?z utcai Desperado alagsorába. Egy csomó "patkány" van odalenn, ha veszi az adást.}
-{520}{}{(Vállat von) Lehet, hogy tudok róla valamit, lehet, hogy semmit se. Térjünk az anyagiakra, és akkor talán megnyílik a szám.}
-{530}{}{(Hunyorít és közelebb hajol) Azért az összegért én bizony nem tudok semmit.}
-{535}{}{Ez már döfi... (Hunyorít és közelebb hajol) ...én megkérdezném a vén Jules-t az el?városban. Mindenr?l tud... és ha mégsem, akkor nyakig benne van. Remélem, érti, mire gondolok.}
-{540}{}{(Vállat von) Hallok, látok ezt-azt. 200 dolcsiért hasznát veheti a tapasztalatomnak, ha érti, mire gondolok.}
-{550}{}{Maga süket? 200 dolcsit mondtam, és nem a leveg?be beszéltem.}
-{555}{}{Rendbe'. (Ittapiros közelebb hajol) Azt tudta-e, hogy az az Eldridge fazon vezeti a New Reno-i Fegyverboltot? Azt állítja, hogy foglalkozik fegyvertuningolással, de én még az életben nem láttam t?le semmit. Esetleg beugorhatna megnézni... persze nem t?lem hallotta.}
-{560}{}{Csontlerakat a várostól délre. B?zlik, mint a seggem, annyi szent.}
-{565}{}{Fogadnék, hogy Renesco a ludas. ? az a seggarc, aki a nyugati kerületben vezeti a gyógyszertárat. Biztos ugyan nem vagyok benne, hogy épp ? adta volna el a gyereknek, de hogy tud valamit, az tutti. (Körbeleseget.) Ennél többet nem mondok.}
-{570}{}{(Félve jobbra-balra tekinget, aztán lenyúl és lehúzza a csizmáját. Elcsavarja a sarkát, és el?vesz bel?le egy kártyát. A lapon egy fura fickó látható, kezében bunkóval.) Érdekli? Ez egy hamisítatlan háború el?tti ereklye.}
+{330}{}{Nincsen Ã©nnekem id?m a zsÃ­r kezd?kre. Maga fizet, ezÃ©rt esÃ©lyt kap a nyerÃ©sre. Ha jÃ¡tszani akar, benne vagyok, de t?njÃ¶n innen, ha csak h?zÃ¶ng itt nekem vesztÃ©skor!}
+{340}{}{(ÃtnyÃºjtod a pÃ©nzt. Ittapiros bÃ³lint, aztÃ¡n leterÃ­ti a lapokat Ã©s egy darabig kevergeti ?ket.)}
+{360}{}{(ÃtnyÃºjtod a pÃ©nzt. Ittapiros bÃ³lint, megmutatja a lapokat, aztÃ¡n leterÃ­ti ?ket a fÃ¶ldre, Ã©s nÃ©hÃ¡ny mÃ¡sodpercig kevergeti ?ket.)}
+{375}{}{(Ittapiros megfordÃ­tja a lapot, amely nem mÃ¡s, mint a k?r dÃ¡ma. A fÃ©rfi szinte lebÃ©nul a meglepetÃ©st?l.) Ah...? Ej...}
+{385}{}{(Ittapiros megfordÃ­tja a kÃ¡rtyÃ¡t, amely nem mÃ¡s, mint a k?r dÃ¡ma. Teljesen ki van akadva ett?l.) Ã–Ã¶Ã¶... HÃ¡t ez...}
+{400}{}{(FÃ¡jdalmas arcot vÃ¡g.) FenÃ©be... azÃ©rt mÃ©g van valamim... SOKKAL tÃ¶bbet Ã©r, mint amennyit elnyert t?lem... egyel?re...}
+{405}{}{Eh... hmnnn... attÃ³l fÃ¼gg, mit akar tudni.}
+{415}{}{Eh... izÃ©... hÃ¡t nem t?lem hallotta, de szerintem Renesco a ludas. ? az a seggarc, aki a nyugati kerÃ¼letben vezeti a gyÃ³gyszertÃ¡rat. Biztos ugyan nem vagyok benne, hogy Ã©pp ? adta volna el a gyereknek, de hogy tud valamit, az tutti. EnnÃ©l tÃ¶bbet nem mondok.}
+{420}{}{HÃ¡t... hogyismondjamcsak... (mintha magÃ¡ban vÃ­vÃ³dna)... hÃ¡t nem t?lem hallotta, de a maga helyÃ©ben lenÃ©znÃ©k a Desperado alagsorÃ¡ba.}
+{425}{}{(HunyorÃ­tva kÃ¶zelebb hajol) KÃ©rdezgesse a vÃ©n Jules-t az el?vÃ¡rosban. Mindenr?l tud... vagy ha mÃ©gsem, akkor benne van a keze. Gondolom, tudja mir?l beszÃ©lek.}
+{430}{}{HÃ¡t... azt tudta-e, hogy az az Eldridge fazon vezeti a New Reno-i Fegyverboltot? Azt Ã¡llÃ­tja, hogy fegyvertuningolÃ¡ssal is foglalkozik, de Ã©n mÃ©g az Ã©letben nem lÃ¡ttam egyetlen munkÃ¡jÃ¡t se. TalÃ¡n Ã©rdemes lenne benÃ©zni hozzÃ¡... persze nem t?lem hallotta.}
+{435}{}{(Amint meglÃ¡t, Ittapiros Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t.) Ma nem szerencsejÃ¡tÃ©kozunk itt, Ã©rtve? Le lehet kopni.}
+{440}{}{FenÃ©t! Ã‰n ugyan meg nem vÃ¡lok t?le. Pont. HAMISÃTATLAN hÃ¡borÃº el?tti ereklye... a tÃ¶rtÃ©nelem kis szelete. Haggyon engem bÃ©kÃ©t ezzel!}
+{450}{}{SÃ¼ket maga? Ez az Ã¶sszeg mÃ©g csak meg sem birizgÃ¡lja az Ã©rdekl?dÃ©semet.}
+{460}{}{HÃ¡t, igazÃ¡n nem is ANNYIRA kell mÃ¡r. A magÃ¡Ã©, pajtÃ¡s. (FÃ©lve jobbra-balra tekinget, aztÃ¡n lenyÃºl Ã©s lehÃºzza a csizmÃ¡jÃ¡t. Elcsavarja a sarkÃ¡t, Ã©s el?vesz bel?le egy kÃ¡rtyalapot.) TessÃ©k. VigyÃ¡zzon rÃ¡.}
+{465}{}{(SzemÃ¶ldÃ¶kÃ©t rÃ¡ncolja) Az, hogy beszÃ©lek-e attÃ³l fÃ¼gg, mit akar tudni. RÃ¡adÃ¡sul nem lesz olcsÃ³.}
+{475}{}{A GolgotÃ¡t ne is emlÃ­tse, Ã‰RINT?LEG sem! Kopjon le!}
+{490}{}{(MegrÃ¡zza a fejÃ©t.) Nincs az az isten! MÃ¡r attÃ³l meghal valaki, ha beszÃ©lnek rÃ³la, lehet, hogy pont Ã©n. Ãœsse ki a fejÃ©b?l!}
+{495}{}{Ã–Ã¶... izÃ©... ez jÃ³ sok pÃ©Ã©z. (Megnyalja az ajkait. LÃ¡tszik, hogy vÃ­vÃ³dik magÃ¡ban... de csak rÃ¶vid ideig.) HÃ¡t idefigyeljen, nem t?lem hallotta...}
+{500}{}{(Horkant) Lehet, hogy hallottam ezt-azt, lehet, hogy nem. A dolgoknak Ã¡ra van.}
+{510}{}{Ha! EnnyiÃ©rt egy vÃ¶dÃ¶r pisÃ¡t sem kap. Hagyjon lÃ³gva!}
+{515}{}{Eeeez mÃ¡r valami! (Gonosz mÃ³don vigyorog.) HÃ¡t nem t?lem hallotta, de ha a maga helyÃ©ben lennÃ©k, lenÃ©znÃ©k a Sz?z utcai Desperado alagsorÃ¡ba. Egy csomÃ³ "patkÃ¡ny" van odalenn, ha veszi az adÃ¡st.}
+{520}{}{(VÃ¡llat von) Lehet, hogy tudok rÃ³la valamit, lehet, hogy semmit se. TÃ©rjÃ¼nk az anyagiakra, Ã©s akkor talÃ¡n megnyÃ­lik a szÃ¡m.}
+{530}{}{(HunyorÃ­t Ã©s kÃ¶zelebb hajol) AzÃ©rt az Ã¶sszegÃ©rt Ã©n bizony nem tudok semmit.}
+{535}{}{Ez mÃ¡r dÃ¶fi... (HunyorÃ­t Ã©s kÃ¶zelebb hajol) ...Ã©n megkÃ©rdeznÃ©m a vÃ©n Jules-t az el?vÃ¡rosban. Mindenr?l tud... Ã©s ha mÃ©gsem, akkor nyakig benne van. RemÃ©lem, Ã©rti, mire gondolok.}
+{540}{}{(VÃ¡llat von) Hallok, lÃ¡tok ezt-azt. 200 dolcsiÃ©rt hasznÃ¡t veheti a tapasztalatomnak, ha Ã©rti, mire gondolok.}
+{550}{}{Maga sÃ¼ket? 200 dolcsit mondtam, Ã©s nem a leveg?be beszÃ©ltem.}
+{555}{}{Rendbe'. (Ittapiros kÃ¶zelebb hajol) Azt tudta-e, hogy az az Eldridge fazon vezeti a New Reno-i Fegyverboltot? Azt Ã¡llÃ­tja, hogy foglalkozik fegyvertuningolÃ¡ssal, de Ã©n mÃ©g az Ã©letben nem lÃ¡ttam t?le semmit. Esetleg beugorhatna megnÃ©zni... persze nem t?lem hallotta.}
+{560}{}{Csontlerakat a vÃ¡rostÃ³l dÃ©lre. B?zlik, mint a seggem, annyi szent.}
+{565}{}{FogadnÃ©k, hogy Renesco a ludas. ? az a seggarc, aki a nyugati kerÃ¼letben vezeti a gyÃ³gyszertÃ¡rat. Biztos ugyan nem vagyok benne, hogy Ã©pp ? adta volna el a gyereknek, de hogy tud valamit, az tutti. (KÃ¶rbeleseget.) EnnÃ©l tÃ¶bbet nem mondok.}
+{570}{}{(FÃ©lve jobbra-balra tekinget, aztÃ¡n lenyÃºl Ã©s lehÃºzza a csizmÃ¡jÃ¡t. Elcsavarja a sarkÃ¡t, Ã©s el?vesz bel?le egy kÃ¡rtyÃ¡t. A lapon egy fura fickÃ³ lÃ¡thatÃ³, kezÃ©ben bunkÃ³val.) Ã‰rdekli? Ez egy hamisÃ­tatlan hÃ¡borÃº el?tti ereklye.}

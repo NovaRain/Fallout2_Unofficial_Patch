@@ -1,38 +1,38 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{A hangmodul interfész-terminálja.}
-{102}{}{Egy átlagos, hétköznapi számítógép-terminált látsz, hangmodullal kiegészítve.}
-{103}{}{Megvizsgálod a gépet, de semmi érdekeset nem találsz. Mit teszel?}
-{104}{}{'Spéci' ütést mérek rá.}
-{105}{}{'Spéci' rúgást mérek rá.}
-{106}{}{Lefuttatom a diagnosztikát.}
-{107}{}{Szétszedem, és belenézek.}
-{108}{}{Békén hagyom.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{A hangmodul interfÃ©sz-terminÃ¡lja.}
+{102}{}{Egy Ã¡tlagos, hÃ©tkÃ¶znapi szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz, hangmodullal kiegÃ©szÃ­tve.}
+{103}{}{MegvizsgÃ¡lod a gÃ©pet, de semmi Ã©rdekeset nem talÃ¡lsz. Mit teszel?}
+{104}{}{'SpÃ©ci' Ã¼tÃ©st mÃ©rek rÃ¡.}
+{105}{}{'SpÃ©ci' rÃºgÃ¡st mÃ©rek rÃ¡.}
+{106}{}{Lefuttatom a diagnosztikÃ¡t.}
+{107}{}{SzÃ©tszedem, Ã©s belenÃ©zek.}
+{108}{}{BÃ©kÃ©n hagyom.}
 {109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
  it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
  no other effect. What do you do?}
-{110}{}{'Spéci' rúgást mérek rá.}
-{111}{}{Lefuttatom a diagnosztikát.}
-{112}{}{Szétszedem, és belenézek.}
-{113}{}{Békén hagyom.}
-{114}{}{Ez a jól-ismert javítási folyamat két dolgot eredményezett. A monitor látszólag kiakadt pár percre, aztán helyreállt a kép. Ezzel egyid?ben fémtörés-szer? hangot hallatott, majd a megrúgott panel leesett a földre. Mit teszel?}
-{115}{}{Lefuttatom a diagnosztikát.}
-{116}{}{Ez a vacak nyitva van. Akár bele is nézhetnék.}
-{117}{}{Békén hagyom.}
-{118}{}{Biztos vagy benne, hogy kell itt lennie valami diagnosztikai tesztnek. Mindenesetre úgy t?nik, a billenty?zet le van zárva. Az egység csak hangüzenetet fogad. Mit teszel?}
-{119}{}{Már csak egy dolog maradt hátra: belenézni.}
-{120}{}{Békén hagyom.}
-{121}{}{Ahogy beletúrsz a kábelrengetegbe, a kártyák közé, észreveszed, hogy a rendszert szándékosan tönkretették. Az egyik kártya, a hangazonosító modul, javításra szorul, ki kell cserélni. Már csak keresni kell egy pótkártyát.}
-{122}{}{Megbeszéltük.}
-{123}{}{Megbeszéltük.}
-{124}{}{Miután belehelyezted a modult a terminálba, a rendszer megjavult.}
-{125}{}{Ha esetleg használni szeretnéd a terminált, telepítened kell egy hangmodult.}
-{126}{}{Megbeszéltük.}
-{127}{}{A rendszer jól m?ködik.}
-{128}{}{Hozzáférés a biztonsági naplóhoz, holografikus felvétel betöltése...}
-{129}{}{Te vagy az utolsó, Gruthar. A hozzád hasonló szennyet hamarosan kiirtjuk a világból.}
-{130}{}{Mondd meg az úgynevezett "Elnöködnek", hogy ezt keservesen megbánja!}
-{131}{}{Jártasd csak a szád! Soha nem voltál több egy beszél? állatnál!}
+{110}{}{'SpÃ©ci' rÃºgÃ¡st mÃ©rek rÃ¡.}
+{111}{}{Lefuttatom a diagnosztikÃ¡t.}
+{112}{}{SzÃ©tszedem, Ã©s belenÃ©zek.}
+{113}{}{BÃ©kÃ©n hagyom.}
+{114}{}{Ez a jÃ³l-ismert javÃ­tÃ¡si folyamat kÃ©t dolgot eredmÃ©nyezett. A monitor lÃ¡tszÃ³lag kiakadt pÃ¡r percre, aztÃ¡n helyreÃ¡llt a kÃ©p. Ezzel egyid?ben fÃ©mtÃ¶rÃ©s-szer? hangot hallatott, majd a megrÃºgott panel leesett a fÃ¶ldre. Mit teszel?}
+{115}{}{Lefuttatom a diagnosztikÃ¡t.}
+{116}{}{Ez a vacak nyitva van. AkÃ¡r bele is nÃ©zhetnÃ©k.}
+{117}{}{BÃ©kÃ©n hagyom.}
+{118}{}{Biztos vagy benne, hogy kell itt lennie valami diagnosztikai tesztnek. Mindenesetre Ãºgy t?nik, a billenty?zet le van zÃ¡rva. Az egysÃ©g csak hangÃ¼zenetet fogad. Mit teszel?}
+{119}{}{MÃ¡r csak egy dolog maradt hÃ¡tra: belenÃ©zni.}
+{120}{}{BÃ©kÃ©n hagyom.}
+{121}{}{Ahogy beletÃºrsz a kÃ¡belrengetegbe, a kÃ¡rtyÃ¡k kÃ¶zÃ©, Ã©szreveszed, hogy a rendszert szÃ¡ndÃ©kosan tÃ¶nkretettÃ©k. Az egyik kÃ¡rtya, a hangazonosÃ­tÃ³ modul, javÃ­tÃ¡sra szorul, ki kell cserÃ©lni. MÃ¡r csak keresni kell egy pÃ³tkÃ¡rtyÃ¡t.}
+{122}{}{MegbeszÃ©ltÃ¼k.}
+{123}{}{MegbeszÃ©ltÃ¼k.}
+{124}{}{MiutÃ¡n belehelyezted a modult a terminÃ¡lba, a rendszer megjavult.}
+{125}{}{Ha esetleg hasznÃ¡lni szeretnÃ©d a terminÃ¡lt, telepÃ­tened kell egy hangmodult.}
+{126}{}{MegbeszÃ©ltÃ¼k.}
+{127}{}{A rendszer jÃ³l m?kÃ¶dik.}
+{128}{}{HozzÃ¡fÃ©rÃ©s a biztonsÃ¡gi naplÃ³hoz, holografikus felvÃ©tel betÃ¶ltÃ©se...}
+{129}{}{Te vagy az utolsÃ³, Gruthar. A hozzÃ¡d hasonlÃ³ szennyet hamarosan kiirtjuk a vilÃ¡gbÃ³l.}
+{130}{}{Mondd meg az Ãºgynevezett "ElnÃ¶kÃ¶dnek", hogy ezt keservesen megbÃ¡nja!}
+{131}{}{JÃ¡rtasd csak a szÃ¡d! Soha nem voltÃ¡l tÃ¶bb egy beszÃ©l? Ã¡llatnÃ¡l!}
 {132}{}{That may be, but we were created through your experimentation. You gave us life!}
-{133}{}{Most majd halált adok.}
-{134}{}{Hozdd a testét! A dokinak kell egy kis minta.}
-{135}{}{Úgy folyik majd a vérük, mint a Nílus!}
+{133}{}{Most majd halÃ¡lt adok.}
+{134}{}{Hozdd a testÃ©t! A dokinak kell egy kis minta.}
+{135}{}{Ãšgy folyik majd a vÃ©rÃ¼k, mint a NÃ­lus!}

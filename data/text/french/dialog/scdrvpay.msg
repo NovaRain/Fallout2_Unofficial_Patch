@@ -1,10 +1,10 @@
 {100}{}{You see a man dressed in working clothes.}
 {101}{}{C'est un acheteur de brahmine. Il attend la caravane de Hal.}
 {102}{}{He's smells of brahmin.}
-{113}{}{Oh, quelle merde ! J'ai bien peur qu'il n'y ait d'argent pour personne sur ce coup. Réjouis toi d'être en vie.}
-{114}{}{Les gars du ranch sont pas très contents, t'as décroché que $1000. Pas de chance.}
+{113}{}{Oh, quelle merde ! J'ai bien peur qu'il n'y ait d'argent pour personne sur ce coup. RÃ©jouis toi d'Ãªtre en vie.}
+{114}{}{Les gars du ranch sont pas trÃ¨s contents, t'as dÃ©crochÃ© que $1000. Pas de chance.}
 {115}{}{Well, you had little string of bad luck but did all right. Here's the $2000 you signed on for.}
-{116}{}{Putain, c'était super ! Voilà $1000 de bonus pour toi. Ca plus $2000 et comme ça ta paie est réglée. Redding a intérêt à faire attention ce soir.}
+{116}{}{Putain, c'Ã©tait super ! VoilÃ  $1000 de bonus pour toi. Ca plus $2000 et comme Ã§a ta paie est rÃ©glÃ©e. Redding a intÃ©rÃªt Ã  faire attention ce soir.}
 {118}{}{C'est l'excuse la plus minable que j'ai jamais vue pour un garde. Sortez d'ici.}
 {119}{}{Too bad Hal didn't make it.}
 {120}{}{Shame about Hal...}

@@ -1,172 +1,172 @@
-{100}{}{Você vê o guarda-ponte.}
-{101}{}{Você vê Mynoc, o guarda-ponte.}
-{150}{}{Antes de você encontra-se um grande guerreiro de sua aldeia,
-segurando uma lança.}
+{100}{}{VocÃª vÃª o guarda-ponte.}
+{101}{}{VocÃª vÃª Mynoc, o guarda-ponte.}
+{150}{}{Antes de vocÃª encontra-se um grande guerreiro de sua aldeia,
+segurando uma lanÃ§a.}
 {151}{}{[FALAR]}
-{152}{}{Olá, Escolhido. saindo para encontrar o GECK?}
+{152}{}{OlÃ¡, Escolhido. saindo para encontrar o GECK?}
 {153}{}{Sim.}
 {154}{}{Sim. Mas antes de ir, gostaria de lhe fazer algumas
-  perguntas.}
-{155}{}{Ainda não. Eu vou olhar em volta um pouco
-  um pouco mais.}
-{156}{}{Bem, talvez os deuses cuidem de você.}
+Â  perguntas.}
+{155}{}{Ainda nÃ£o. Eu vou olhar em volta um pouco
+Â  um pouco mais.}
+{156}{}{Bem, talvez os deuses cuidem de vocÃª.}
 {157}{}{Obrigado, adeus.}
-{158}{}{O que você quer saber?}
-{159}{}{O que você pode me dizer de homens que têm relações comerciais com a nossa aldeia?}
-{160}{}{O que você pode me dizer sobre esse objeto que eu tenho de
+{158}{}{O que vocÃª quer saber?}
+{159}{}{O que vocÃª pode me dizer de homens que tÃªm relaÃ§Ãµes comerciais com a nossa aldeia?}
+{160}{}{O que vocÃª pode me dizer sobre esse objeto que eu tenho de
 um cofre?}
 {161}{}{Nada, esquece.}
-{162}{}{Muito bem, mas não perca muito tempo. Sem o GECK,
+{162}{}{Muito bem, mas nÃ£o perca muito tempo. Sem o GECK,
 estamos lascados.}
-{163}{}{Eu sei, não se preocupe-eu tenho tudo sob controle.}
-{164}{}{Por quê?}
+{163}{}{Eu sei, nÃ£o se preocupe-eu tenho tudo sob controle.}
+{164}{}{Por quÃª?}
 {165}{}{Devo estar indo. Adeus.}
-{166}{}{Os comerciantes? Eles vêm de Klamath aproximadamente a cada dois meses. Lá
-  não virá outro aqui por um mês ou mais, mas Klamath é apenas alguns dias
-  a leste daqui.}
+{166}{}{Os comerciantes? Eles vÃªm de Klamath aproximadamente a cada dois meses. LÃ¡
+Â  nÃ£o virÃ¡ outro aqui por um mÃªs ou mais, mas Klamath Ã© apenas alguns dias
+Â  a leste daqui.}
 {167}{}{Obrigado. Adeus.}
-{168}{}{O que você pode me falar sobre esse objeto que eu tenho
-  do cofre sagrado?}
-{169}{}{Parece uma calabaza metálica de água. Talvez o
-  O vault nos enviou como um presságio.}
-{170}{}{Você pode me dizer quem trouxe esse item para a nossa aldeia?}
+{168}{}{O que vocÃª pode me falar sobre esse objeto que eu tenho
+Â  do cofre sagrado?}
+{169}{}{Parece uma calabaza metÃ¡lica de Ã¡gua. Talvez o
+Â  O vault nos enviou como um pressÃ¡gio.}
+{170}{}{VocÃª pode me dizer quem trouxe esse item para a nossa aldeia?}
 {171}{}{Obrigado. Devo estar indo. Adeus.}
-{172}{}{Eu espero que você faça.}
-{173}{}{Seu excesso de confiança nos faz sofrer todos nós! Adeus!}
+{172}{}{Eu espero que vocÃª faÃ§a.}
+{173}{}{Seu excesso de confianÃ§a nos faz sofrer todos nÃ³s! Adeus!}
 {174}{}{Adeus.}
-{175}{}{Por quê? Olhe à sua volta - nossa aldeia morre. Os jardins desaparecem e
-  Todos os dias, as crianças e os velhos colapsam. Você deve trazer o Éden para nós antes
-  q seja muito tarde!}
+{175}{}{Por quÃª? Olhe Ã  sua volta - nossa aldeia morre. Os jardins desaparecem e
+Â  Todos os dias, as crianÃ§as e os velhos colapsam. VocÃª deve trazer o Ã‰den para nÃ³s antes
+Â  q seja muito tarde!}
 {176}{}{E eu vou cuidar dele. Adeus.}
 {177}{}{Eu sou o Escolhido - eu "devo" fazer apenas como eu
-  por favor. Adeus.}
-{178}{}{Eu não lembro o nome dele, só que ele era velho e alto -- muito 
+Â  por favor. Adeus.}
+{178}{}{Eu nÃ£o lembro o nome dele, sÃ³ que ele era velho e alto -- muito 
 alto de boas maneiras-mas ele sabia muitas coisas. Ele era de Klamath, oriente 
 como eu disse.}
 {179}{}{Obrigado, adeus.}
-{180}{}{Você ainda está aqui? Você deve ir para encontrar o GECK. Ficar aqui
-não nos ajuda.}
-{181}{}{Esta ponte é tudo o que você precisa se preocupar,
-  amigos. Eu posso cuidar de mim mesmo.}
+{180}{}{VocÃª ainda estÃ¡ aqui? VocÃª deve ir para encontrar o GECK. Ficar aqui
+nÃ£o nos ajuda.}
+{181}{}{Esta ponte Ã© tudo o que vocÃª precisa se preocupar,
+Â  amigos. Eu posso cuidar de mim mesmo.}
 {182}{}{Eu estava apenas indo para fora. Adeus, meu amigo.}
-{183}{}{Já não falo com você, porco insubordinado!}
+{183}{}{JÃ¡ nÃ£o falo com vocÃª, porco insubordinado!}
 {184}{}{Eu gostaria de fazer outra pergunta.}
-{185}{}{Isso foi rápido! Você já encontrou o santo Vault 13?}
+{185}{}{Isso foi rÃ¡pido! VocÃª jÃ¡ encontrou o santo Vault 13?}
 {186}{}{Sim.}
-{187}{}{Não, ainda não.}
-{188}{}{Você tem? Maravilhoso! Você trouxe de volta o
-  GECK?}
-{189}{}{Não.}
-{190}{}{Não. Eu não falei com as pessoas do Vault ainda.}
-{191}{}{Eu não acredito que seja um negócio seu, meu amigo.}
-{192}{}{Não? Escolhido, três idosos morreram desde que você saiu. Você deve
-  não desperdice mais tempo.}
-{193}{}{Eu vou encontrá-lo, não se preocupe.}
-{194}{}{Estou ficando doente de sua constante irritação.}
-{195}{}{Bem, por que você está falando comigo? Fale com eles e pegue o GECK.}
+{187}{}{NÃ£o, ainda nÃ£o.}
+{188}{}{VocÃª tem? Maravilhoso! VocÃª trouxe de volta o
+Â  GECK?}
+{189}{}{NÃ£o.}
+{190}{}{NÃ£o. Eu nÃ£o falei com as pessoas do Vault ainda.}
+{191}{}{Eu nÃ£o acredito que seja um negÃ³cio seu, meu amigo.}
+{192}{}{NÃ£o? Escolhido, trÃªs idosos morreram desde que vocÃª saiu. VocÃª deve
+Â  nÃ£o desperdice mais tempo.}
+{193}{}{Eu vou encontrÃ¡-lo, nÃ£o se preocupe.}
+{194}{}{Estou ficando doente de sua constante irritaÃ§Ã£o.}
+{195}{}{Bem, por que vocÃª estÃ¡ falando comigo? Fale com eles e pegue o GECK.}
 {196}{}{Eu irei - tudo na hora certa, meu amigo.}
-{197}{}{Estou ficando doente de sua constante irritação.}
-{198}{}{Que notícias do GECK, Escolhido?}
+{197}{}{Estou ficando doente de sua constante irritaÃ§Ã£o.}
+{198}{}{Que notÃ­cias do GECK, Escolhido?}
 {199}{}{Eu encontrei o cofre!}
-{200}{}{Eu não tenho sido capaz de encontrar o Vault 13.}
-{201}{}{Bem, olhe, é o Escolhido.}
-{202}{}{Olá.}
+{200}{}{Eu nÃ£o tenho sido capaz de encontrar o Vault 13.}
+{201}{}{Bem, olhe, Ã© o Escolhido.}
+{202}{}{OlÃ¡.}
 {203}{}{Cale-se.}
 {204}{}{Posso fazer uma pergunta?}
-{205}{}{Não, eu não tenho tempo para você.}
-{206}{}{Seja o que for. Adeus, até logo.}
-{207}{}{Ah bem. Até a próxima.}
-{208}{}{Vá morrer.}
-{209}{}{Saudações, maçante! Veja a ponte? Você atravessa, você tenha cuidado.
-  Ponte perigosa. Você não quer cair. OK?}
+{205}{}{NÃ£o, eu nÃ£o tenho tempo para vocÃª.}
+{206}{}{Seja o que for. Adeus, atÃ© logo.}
+{207}{}{Ah bem. AtÃ© a prÃ³xima.}
+{208}{}{VÃ¡ morrer.}
+{209}{}{SaudaÃ§Ãµes, maÃ§ante! Veja a ponte? VocÃª atravessa, vocÃª tenha cuidado.
+Â  Ponte perigosa. VocÃª nÃ£o quer cair. OK?}
 {210}{}{Umm... Hein?}
-{211}{}{Desgraçado! Você falhou na aldeia!}
-{212}{}{Você nos traiu. Por isso você vai morrer!}
-{213}{}{Você é um traidor de seu próprio povo.}
-{214}{}{Por que você faz isso?}
-{215}{}{O Ancião estava errado. Você é mau.}
-{300}{}{Meu pai me ensinou como fazer lâminas mais fortes do que a maioria. Me pegue um pedaço
-  de pederneira e também consertarei sua lança. Você precisará dela na região selvagem.}
-{301}{}{Onde é que eu ia pegar um pouco dessa pedra?}
-{302}{}{Eles dizem que sua Tia Morlis esteve guardando um pedaço. Ela é tão
- mal-humorada, eu não acho que ninguém pediu. Claro, a bruxa vai querer 
+{211}{}{DesgraÃ§ado! VocÃª falhou na aldeia!}
+{212}{}{VocÃª nos traiu. Por isso vocÃª vai morrer!}
+{213}{}{VocÃª Ã© um traidor de seu prÃ³prio povo.}
+{214}{}{Por que vocÃª faz isso?}
+{215}{}{O AnciÃ£o estava errado. VocÃª Ã© mau.}
+{300}{}{Meu pai me ensinou como fazer lÃ¢minas mais fortes do que a maioria. Me pegue um pedaÃ§o
+Â  de pederneira e tambÃ©m consertarei sua lanÃ§a. VocÃª precisarÃ¡ dela na regiÃ£o selvagem.}
+{301}{}{Onde Ã© que eu ia pegar um pouco dessa pedra?}
+{302}{}{Eles dizem que sua Tia Morlis esteve guardando um pedaÃ§o. Ela Ã© tÃ£o
+ mal-humorada, eu nÃ£o acho que ninguÃ©m pediu. Claro, a bruxa vai querer 
 algo em troca.}
 {303}{}{Obrigado. Adeus.}
-{304}{}{Você falou com sua tia sobre seu sílex?}
+{304}{}{VocÃª falou com sua tia sobre seu sÃ­lex?}
 {305}{}{Sim, tenho algun aqui.}
-{306}{}{Ainda não.}
-{307}{}{É um bom pedaço. Dê-me a sua lança.}
-{308}{}{Aqui está.}
-{309}{}{Eu acho que eu não tenho um.}
-{310}{}{Agora, você pode colocar as peças assim...}
-{311}{}{O Escolhido sem uma lança? Bem, você terá que tomar uma das
-  minhas. Agora, vamos trabalhar ...}
-{312}{}{Aqui está a sua nova lança.}
+{306}{}{Ainda nÃ£o.}
+{307}{}{Ã‰ um bom pedaÃ§o. DÃª-me a sua lanÃ§a.}
+{308}{}{Aqui estÃ¡.}
+{309}{}{Eu acho que eu nÃ£o tenho um.}
+{310}{}{Agora, vocÃª pode colocar as peÃ§as assim...}
+{311}{}{O Escolhido sem uma lanÃ§a? Bem, vocÃª terÃ¡ que tomar uma das
+Â  minhas. Agora, vamos trabalhar ...}
+{312}{}{Aqui estÃ¡ a sua nova lanÃ§a.}
 {313}{}{- Obrigado, meu amigo, isso vai ajudar muito.}
-{314}{}{Sim, mas eu estava me perguntando sobre a sua lança. Parece um pouco
+{314}{}{Sim, mas eu estava me perguntando sobre a sua lanÃ§a. Parece um pouco
 diferente.}
-{400}{}{Bem-vindo a casa, Escolhido! Você encontrou o cofre? Você voltou com o GECK?}
-{401}{}{Não encontrei ainda.}
-{402}{}{Não, eu não encontrei ainda.}
-{403}{}{Eu não estou no humor para as suas perguntas. Adeus.}
-{404}{}{As coisas não estão indo bem, escolhido. A seca está piorando e nossas colheitas 
-certamente irão falhar. Estamos tentando salvar o que podemos para construir nossas reservas alimentares.}
-{405}{}{Por que não negociar com outras aldeias?}
+{400}{}{Bem-vindo a casa, Escolhido! VocÃª encontrou o cofre? VocÃª voltou com o GECK?}
+{401}{}{NÃ£o encontrei ainda.}
+{402}{}{NÃ£o, eu nÃ£o encontrei ainda.}
+{403}{}{Eu nÃ£o estou no humor para as suas perguntas. Adeus.}
+{404}{}{As coisas nÃ£o estÃ£o indo bem, escolhido. A seca estÃ¡ piorando e nossas colheitas 
+certamente irÃ£o falhar. Estamos tentando salvar o que podemos para construir nossas reservas alimentares.}
+{405}{}{Por que nÃ£o negociar com outras aldeias?}
 {406}{}{Estou fazendo o melhor que posso. Eu acho GECK. Eu volto.}
-{407}{}{Por que não podemos negociar com outras aldeias para os alimentos de que precisamos? }
+{407}{}{Por que nÃ£o podemos negociar com outras aldeias para os alimentos de que precisamos? }
 {408}{}{Eu estou fazendo o meu melhor. Quando eu encontrar o GECK eu vou voltar com ele.}
-{409}{}{Nós somos pessoas simples e temos pouco a oferecer no comércio. As poucas cidades que temos
-  contatado enquanto você estava ausente não mostraram interesse em nos ajudar.}
+{409}{}{NÃ³s somos pessoas simples e temos pouco a oferecer no comÃ©rcio. As poucas cidades que temos
+Â  contatado enquanto vocÃª estava ausente nÃ£o mostraram interesse em nos ajudar.}
 {410}{}{Eu vejo.}
 {411}{}{Eu vejo.}
-{412}{}{Você é a nossa única esperança, escolhido. Por favor, não falhe!}
-{413}{}{É bom ver você, escolhido. Qual a sua missão?}
+{412}{}{VocÃª Ã© a nossa Ãºnica esperanÃ§a, escolhido. Por favor, nÃ£o falhe!}
+{413}{}{Ã‰ bom ver vocÃª, escolhido. Qual a sua missÃ£o?}
 {414}{}{Eu ainda olho.}
 {415}{}{Eu ainda estou procurando.}
-{416}{}{Eu não quero falar sobre isso.}
-{417}{}{Você deve se apressar. As coisas estão ficando piores aqui em casa. Em breve haverá pouca comida e 
-o Ancião fala de um racionamento de energia que nós temos. Temo pelo futuro de Arroyo.}
-{418}{}{O escolhido! Diga-me que você completou sua missão. Nossa aldeia está morrendo, e assim
-  são nossas pessoas.}
-{419}{}{Não, eu ainda olho.}
-{420}{}{Não, eu ainda estou procurando.}
-{421}{}{Como estão as coisas?}
-{422}{}{Me desculpe, Escolheu, mas estou começando a questionar minha fé em você. A própria vida de
-  nosso povo está em suas mãos. Por favor, encontre o Santo Treze e volte para nós com o GECK!}
-{423}{}{Nossos cultivos falham, o brahmin morre, todo mundo está com fome agora. Os gritos das crianças à noite
-  não permitem que ninguém durma. Estamos nos tornando pessoas desesperadas.}
+{416}{}{Eu nÃ£o quero falar sobre isso.}
+{417}{}{VocÃª deve se apressar. As coisas estÃ£o ficando piores aqui em casa. Em breve haverÃ¡ pouca comida e 
+o AnciÃ£o fala de um racionamento de energia que nÃ³s temos. Temo pelo futuro de Arroyo.}
+{418}{}{O escolhido! Diga-me que vocÃª completou sua missÃ£o. Nossa aldeia estÃ¡ morrendo, e assim
+Â  sÃ£o nossas pessoas.}
+{419}{}{NÃ£o, eu ainda olho.}
+{420}{}{NÃ£o, eu ainda estou procurando.}
+{421}{}{Como estÃ£o as coisas?}
+{422}{}{Me desculpe, Escolheu, mas estou comeÃ§ando a questionar minha fÃ© em vocÃª. A prÃ³pria vida de
+Â  nosso povo estÃ¡ em suas mÃ£os. Por favor, encontre o Santo Treze e volte para nÃ³s com o GECK!}
+{423}{}{Nossos cultivos falham, o brahmin morre, todo mundo estÃ¡ com fome agora. Os gritos das crianÃ§as Ã  noite
+Â  nÃ£o permitem que ninguÃ©m durma. Estamos nos tornando pessoas desesperadas.}
 {424}{}{Eu continuo olhando.}
 {425}{}{Eu vou fazer o que posso.}
-{426}{}{Mais uma vez você retorna para nós, escolhido. Não é com as mãos vazias, espero?}
-{427}{}{Me desculpe, não encontrar GECK ainda.}
-{428}{}{Me desculpe, eu ainda não encontrei o GECK.}
-{429}{}{Eu já tive o suficiente disso.}
-{430}{}{As pessoas estão morrendo aqui, enquanto você passeia sobre as terras. Talvez você devesse estar procurando
+{426}{}{Mais uma vez vocÃª retorna para nÃ³s, escolhido. NÃ£o Ã© com as mÃ£os vazias, espero?}
+{427}{}{Me desculpe, nÃ£o encontrar GECK ainda.}
+{428}{}{Me desculpe, eu ainda nÃ£o encontrei o GECK.}
+{429}{}{Eu jÃ¡ tive o suficiente disso.}
+{430}{}{As pessoas estÃ£o morrendo aqui, enquanto vocÃª passeia sobre as terras. Talvez vocÃª devesse estar procurando
  em outro lugar, em vez de retornar aqui.}
-{500}{}{Você já conversou com o Ancião?}
-{1000}{}{Ancião}
+{500}{}{VocÃª jÃ¡ conversou com o AnciÃ£o?}
+{1000}{}{AnciÃ£o}
 {1001}{}{Fundador}
 {1002}{}{Morador do Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
 {1006}{}{Escolhido}
-{1007}{}{Xamã}
+{1007}{}{XamÃ£}
 {1008}{}{Hakunin}
-{1009}{}{Cura Em Pó}
+{1009}{}{Cura Em PÃ³}
 {1010}{}{Ponte}
 {1011}{}{Mynoc}
-{1100}{}{O Ancião é a sua mãe, e o nosso líder.}
+{1100}{}{O AnciÃ£o Ã© a sua mÃ£e, e o nosso lÃ­der.}
 {1101}{}{Nosso grande ancestral que nos deu conhecimento.}
-{1102}{}{O primeiro a lutar e a vitória sobre o caos.}
+{1102}{}{O primeiro a lutar e a vitÃ³ria sobre o caos.}
 {1103}{}{Essa seria a nossa bela aldeia.}
-{1104}{}{Esse é um posto comercial a poucos dias a leste daqui.}
-{1105}{}{O Vault é o paraíso.}
-{1106}{}{Você é o Escolhido.}
-{1107}{}{Ele nos cura com suas ervas e magia. Ele está na
-  parte norte da nossa aldeia.}
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está na parte norte da nossa aldeia.}
-{1109}{}{É um pó mágico que irá curá-lo, mas vai
-  fazer você ficar com sono.}
+{1104}{}{Esse Ã© um posto comercial a poucos dias a leste daqui.}
+{1105}{}{O Vault Ã© o paraÃ­so.}
+{1106}{}{VocÃª Ã© o Escolhido.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele estÃ¡ na
+Â  parte norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele estÃ¡ na parte norte da nossa aldeia.}
+{1109}{}{Ã‰ um pÃ³ mÃ¡gico que irÃ¡ curÃ¡-lo, mas vai
+Â  fazer vocÃª ficar com sono.}
 {1110}{}{A Grande Ponte sai da nossa aldeia no sul.}
 {1111}{}{Esse seria eu.}

@@ -1,81 +1,81 @@
-{100}{}{Widzisz mê¿czyznê, który wygl¹da ca³kiem jak sklepikarz.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™, ktÃ³ry wyglÄ…da caÅ‚kiem jak sklepikarz.}
 {101}{}{Widzisz Lao Choua, sklepikarza.}
-{102}{}{Widzisz mê¿czyznê w funkcjonalnym, wygodnym ubraniu.}
-{103}{}{Witaj! Witaj w moim sklepie, Lataj¹cym Smoku 8.}
-{104}{}{Co mogê dla ciebie zrobiæ?}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w funkcjonalnym, wygodnym ubraniu.}
+{103}{}{Witaj! Witaj w moim sklepie, LatajÄ…cym Smoku 8.}
+{104}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
 {105}{}{Da aggle oo!}
 {106}{}{Toffar!}
-{107}{}{Kim jesteœ?}
-{108}{}{Szukam pewnego sprzêtu.}
+{107}{}{Kim jesteÅ›?}
+{108}{}{Szukam pewnego sprzÄ™tu.}
 {109}{}{Szukam informacji.}
 {110}{}{Bywaj.}
-{111}{}{Chcesz coœ kupiæ?}
-{112}{}{[Pokiwaj g³ow¹.]}
-{113}{}{[Pokrêæ g³ow¹.]}
-{114}{}{A wiêc oto, co mam.}
+{111}{}{Chcesz coÅ› kupiÄ‡?}
+{112}{}{[Pokiwaj gÅ‚owÄ….]}
+{113}{}{[PokrÄ™Ä‡ gÅ‚owÄ….]}
+{114}{}{A wiÄ™c oto, co mam.}
 {115}{}{[dalej]}
-{116}{}{Có¿, obawiam siê wiêc, ¿e to ju¿ wszystko, co mogê dla ciebie zrobiæ. Mi³ego dnia.}
+{116}{}{CÃ³Å¼, obawiam siÄ™ wiÄ™c, Å¼e to juÅ¼ wszystko, co mogÄ™ dla ciebie zrobiÄ‡. MiÅ‚ego dnia.}
 {117}{}{[dalej]}
-{118}{}{Jestem Lao Chou. Prowadzê sklep wielobran¿owy, Lataj¹cy Smok 8. Znany jestem z wymiany... informacjami.}
+{118}{}{Jestem Lao Chou. ProwadzÄ™ sklep wielobranÅ¼owy, LatajÄ…cy Smok 8. Znany jestem z wymiany... informacjami.}
 {119}{}{Jakimi informacjami?}
-{120}{}{Rozumiem. Chcê coœ kupiæ.}
-{121}{}{W tym mieœcie ma³o dzieje siê takich spraw, o których bym nie wiedzia³. Oczywiœcie musisz znaæ odpowiednie pytanie do zadania, prawda? Co chcesz wiedzieæ?}
-{122}{}{Szukam jakichœ usprawnieñ do mojego sprzêtu.}
-{123}{}{Gdzie mogê zdobyæ plany lataczy?}
-{124}{}{Potrzebujê paliwa do PMV Valdeza.}
-{125}{}{Rozumiem, ¿e potrzebujê KD do tankowca, aby dostaæ siê do komputera na Valdezie.}
-{126}{}{Potrzebujê pewnych czêœci do PMV Valdeza.}
-{127}{}{Szukam œledziony.}
-{128}{}{Podobno jakieœ lataj¹ce maszyny przywioz³y tu pe³no ludzi z wioski.}
+{120}{}{Rozumiem. ChcÄ™ coÅ› kupiÄ‡.}
+{121}{}{W tym mieÅ›cie maÅ‚o dzieje siÄ™ takich spraw, o ktÃ³rych bym nie wiedziaÅ‚. OczywiÅ›cie musisz znaÄ‡ odpowiednie pytanie do zadania, prawda? Co chcesz wiedzieÄ‡?}
+{122}{}{Szukam jakichÅ› usprawnieÅ„ do mojego sprzÄ™tu.}
+{123}{}{Gdzie mogÄ™ zdobyÄ‡ plany lataczy?}
+{124}{}{PotrzebujÄ™ paliwa do PMV Valdeza.}
+{125}{}{Rozumiem, Å¼e potrzebujÄ™ KD do tankowca, aby dostaÄ‡ siÄ™ do komputera na Valdezie.}
+{126}{}{PotrzebujÄ™ pewnych czÄ™Å›ci do PMV Valdeza.}
+{127}{}{Szukam Å›ledziony.}
+{128}{}{Podobno jakieÅ› latajÄ…ce maszyny przywiozÅ‚y tu peÅ‚no ludzi z wioski.}
 {129}{}{Nic takiego. Na razie.}
-{130}{}{Porozmawiaj z Crockettem z obozu Centrologów. Jest ich g³ównym naukowcem.}
-{131}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{132}{}{Dziêki. Na razie.}
-{133}{}{Szukaj na pó³noc, w Navarro. Jest tam ukryta baza w pobli¿u stacji benzynowej.}
-{134}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{135}{}{Dziêki. Na razie.}
-{136}{}{Mo¿e warto by poszukaæ w starych Kryptach. Podobno s¹ skarbnic¹ informacji i technologii staro¿ytnych.}
-{137}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{138}{}{Dziêki. Na razie.}
-{139}{}{Œledziony? Cha cha! Tak, Chip z Valdeza straci³ œledzionê w trakcie jednej z partyjek gry karcianej. Sprzeda³em j¹ dr Wongowi. By³ ni¹ zafascynowany.}
-{140}{}{Dr Wong? Gdzie mogê go znaleŸæ?}
-{141}{}{Jak mo¿na straciæ œledzionê?}
-{142}{}{Dziêki. Potrzebujê wiêcej informacji.}
+{130}{}{Porozmawiaj z Crockettem z obozu CentrologÃ³w. Jest ich gÅ‚Ã³wnym naukowcem.}
+{131}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{132}{}{DziÄ™ki. Na razie.}
+{133}{}{Szukaj na pÃ³Å‚noc, w Navarro. Jest tam ukryta baza w pobliÅ¼u stacji benzynowej.}
+{134}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{135}{}{DziÄ™ki. Na razie.}
+{136}{}{MoÅ¼e warto by poszukaÄ‡ w starych Kryptach. Podobno sÄ… skarbnicÄ… informacji i technologii staroÅ¼ytnych.}
+{137}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{138}{}{DziÄ™ki. Na razie.}
+{139}{}{Åšledziony? Cha cha! Tak, Chip z Valdeza straciÅ‚ Å›ledzionÄ™ w trakcie jednej z partyjek gry karcianej. SprzedaÅ‚em jÄ… dr Wongowi. ByÅ‚ niÄ… zafascynowany.}
+{140}{}{Dr Wong? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{141}{}{Jak moÅ¼na straciÄ‡ Å›ledzionÄ™?}
+{142}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
 {143}{}{Ach tak. Na razie.}
-{144}{}{Dr Wong jest g³ównym naukowcem Stalowego Pa³acu. Tam go szukaj.}
-{145}{}{Tak przy okazji, to jak mo¿na straciæ œledzionê?}
-{146}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{147}{}{Dziêki. Na razie.}
-{148}{}{By³ pijany. Bardzo, bardzo pijany. Ca³¹ noc mia³ obsesjê na punkcie swojej œledziony. No i j¹ postawi³.}
-{149}{}{Wiêc wzi¹³eœ jego ŒLEDZIONÊ?}
-{150}{}{Rozumiem. Mam tak¿e inne pytania.}
-{151}{}{Tak. Taki by³ zak³ad. On jest honorowym cz³owiekiem.}
-{152}{}{Rozumiem. Có¿, mam inne pytania.}
-{153}{}{Ale z ciebie chory, prymitywny drañ, nie?}
+{144}{}{Dr Wong jest gÅ‚Ã³wnym naukowcem Stalowego PaÅ‚acu. Tam go szukaj.}
+{145}{}{Tak przy okazji, to jak moÅ¼na straciÄ‡ Å›ledzionÄ™?}
+{146}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{147}{}{DziÄ™ki. Na razie.}
+{148}{}{ByÅ‚ pijany. Bardzo, bardzo pijany. CaÅ‚Ä… noc miaÅ‚ obsesjÄ™ na punkcie swojej Å›ledziony. No i jÄ… postawiÅ‚.}
+{149}{}{WiÄ™c wziÄ…Å‚eÅ› jego ÅšLEDZIONÄ˜?}
+{150}{}{Rozumiem. Mam takÅ¼e inne pytania.}
+{151}{}{Tak. Taki byÅ‚ zakÅ‚ad. On jest honorowym czÅ‚owiekiem.}
+{152}{}{Rozumiem. CÃ³Å¼, mam inne pytania.}
+{153}{}{Ale z ciebie chory, prymitywny draÅ„, nie?}
 {154}{}{Ta. Na razie.}
-{155}{}{Jesteœ osob¹ bez honoru. Nie chcê ciê mieæ w moim sklepie. Wróæ kiedy indziej.}
+{155}{}{JesteÅ› osobÄ… bez honoru. Nie chcÄ™ ciÄ™ mieÄ‡ w moim sklepie. WrÃ³Ä‡ kiedy indziej.}
 {156}{}{Jak chcesz.}
-{157}{}{Nie. Przyby³y z pó³nocy i przelecia³y nad nami, udaj¹c siê za morze.}
-{158}{}{Za horyzont? A jak do diab³a mam siê tam dostaæ?}
-{159}{}{Ta, no oczywiœcie. A teraz gadaj mi gdzie s¹, zanim otworzê ciê jak puszkê sardynek.}
-{160}{}{Có¿... ¿adna z naszych ³odzi nie jest w stanie przebyæ takiej odleg³oœci. Chyba ¿e...}
-{161}{}{Chyba ¿e...?}
-{162}{}{Dziêki za "pomoc". Idê zdobyæ jak¹œ rozs¹dn¹ radê.}
-{163}{}{...chyba ¿e uda ci siê zmusiæ ten stary tankowiec w dokach do dzia³ania. To stary statek, ale zapewne wci¹¿ jeszcze dzia³a, je¿eli trochê siê nad nim popracuje. Poproœ punków o wiêcej informacji.}
-{164}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{165}{}{Dziêki. Na razie.}
-{166}{}{Mówi siê, ¿e ostatnio Centrolodzy weszli w posiadanie du¿ej iloœci paliwa. Dogadaj siê z nimi.}
-{167}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{168}{}{Dziêki. Na razie.}
-{169}{}{Mo¿esz spróbowaæ popytaæ naukowców Shi w Stalowym Pa³acu. Byæ mo¿e bêd¹ ci w stanie pomóc z twoim zapotrzebowaniem na paliwo.}
-{170}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{171}{}{Dziêki. Na razie.}
-{172}{}{Jesteœ wrogiem mojego ludu. Giñ!}
-{173}{}{Zabicie UKC-9 by³o dobrym uczynkiem dla naszego ludu. Mam nadziejê, ¿e bêdê ci w stanie w jakiœ sposób pomóc.}
-{174}{}{Kim jesteœ?}
-{175}{}{Szukam pewnego sprzêtu.}
+{157}{}{Nie. PrzybyÅ‚y z pÃ³Å‚nocy i przeleciaÅ‚y nad nami, udajÄ…c siÄ™ za morze.}
+{158}{}{Za horyzont? A jak do diabÅ‚a mam siÄ™ tam dostaÄ‡?}
+{159}{}{Ta, no oczywiÅ›cie. A teraz gadaj mi gdzie sÄ…, zanim otworzÄ™ ciÄ™ jak puszkÄ™ sardynek.}
+{160}{}{CÃ³Å¼... Å¼adna z naszych Å‚odzi nie jest w stanie przebyÄ‡ takiej odlegÅ‚oÅ›ci. Chyba Å¼e...}
+{161}{}{Chyba Å¼e...?}
+{162}{}{DziÄ™ki za "pomoc". IdÄ™ zdobyÄ‡ jakÄ…Å› rozsÄ…dnÄ… radÄ™.}
+{163}{}{...chyba Å¼e uda ci siÄ™ zmusiÄ‡ ten stary tankowiec w dokach do dziaÅ‚ania. To stary statek, ale zapewne wciÄ…Å¼ jeszcze dziaÅ‚a, jeÅ¼eli trochÄ™ siÄ™ nad nim popracuje. PoproÅ› punkÃ³w o wiÄ™cej informacji.}
+{164}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{165}{}{DziÄ™ki. Na razie.}
+{166}{}{MÃ³wi siÄ™, Å¼e ostatnio Centrolodzy weszli w posiadanie duÅ¼ej iloÅ›ci paliwa. Dogadaj siÄ™ z nimi.}
+{167}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{168}{}{DziÄ™ki. Na razie.}
+{169}{}{MoÅ¼esz sprÃ³bowaÄ‡ popytaÄ‡ naukowcÃ³w Shi w Stalowym PaÅ‚acu. ByÄ‡ moÅ¼e bÄ™dÄ… ci w stanie pomÃ³c z twoim zapotrzebowaniem na paliwo.}
+{170}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{171}{}{DziÄ™ki. Na razie.}
+{172}{}{JesteÅ› wrogiem mojego ludu. GiÅ„!}
+{173}{}{Zabicie UKC-9 byÅ‚o dobrym uczynkiem dla naszego ludu. Mam nadziejÄ™, Å¼e bÄ™dÄ™ ci w stanie w jakiÅ› sposÃ³b pomÃ³c.}
+{174}{}{Kim jesteÅ›?}
+{175}{}{Szukam pewnego sprzÄ™tu.}
 {176}{}{Szukam informacji.}
 {177}{}{Bywaj.}
-{178}{}{Dostali je ju¿ od ciebie Centrolodzy, nie?}
-{179}{}{A tak... e... Mogê spytaæ o coœ innego?}
+{178}{}{Dostali je juÅ¼ od ciebie Centrolodzy, nie?}
+{179}{}{A tak... e... MogÄ™ spytaÄ‡ o coÅ› innego?}
 {180}{}{A tak... na razie.}

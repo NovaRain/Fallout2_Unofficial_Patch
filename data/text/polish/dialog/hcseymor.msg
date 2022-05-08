@@ -1,13 +1,13 @@
 {100}{}{Widzisz sporofit.}
 {101}{}{Widzisz Seymoura, Sporofita.}
-{102}{}{Widzisz sporofit, od którego w jakiœ sposób bija aura inteligencji.}
-{103}{}{Czeœæ! £adna dziœ pogoda, prawda?}
-{104}{}{Twoja mówiæ?}
+{102}{}{Widzisz sporofit, od ktÃ³rego w jakiÅ› sposÃ³b bija aura inteligencji.}
+{103}{}{CzeÅ›Ä‡! Åadna dziÅ› pogoda, prawda?}
+{104}{}{Twoja mÃ³wiÄ‡?}
 {105}{}{Rrr?}
-{106}{}{Przepraszam, ale czy to mówi roœlina?}
-{107}{}{Czy jesteœ w jakiœ sposób zwi¹zany z tym naukowcem?}
+{106}{}{Przepraszam, ale czy to mÃ³wi roÅ›lina?}
+{107}{}{Czy jesteÅ› w jakiÅ› sposÃ³b zwiÄ…zany z tym naukowcem?}
 {108}{}{Bywaj.}
-{109}{}{Tak, mówiê. Wygl¹da na to, ¿e lepiej ni¿ niektórzy ludzie. Uœmiechn¹³bym siê do ciebie w tej chwili, ale niestety nie mam buzi. [œmieje siê] S³uchaj, mo¿esz mi wyœwiadczyæ pewn¹ wielk¹ dla mnie przys³ugê?}
+{109}{}{Tak, mÃ³wiÄ™. WyglÄ…da na to, Å¼e lepiej niÅ¼ niektÃ³rzy ludzie. UÅ›miechnÄ…Å‚bym siÄ™ do ciebie w tej chwili, ale niestety nie mam buzi. [Å›mieje siÄ™] SÅ‚uchaj, moÅ¼esz mi wyÅ›wiadczyÄ‡ pewnÄ… wielkÄ… dla mnie przysÅ‚ugÄ™?}
 {110}{}{'ak.}
 {111}{}{Nuch.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation.  I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
@@ -15,71 +15,71 @@
 {114}{}{Ne!}
 {115}{}{Jasne.}
 {116}{}{Chyba nie.}
-{117}{}{Wspaniale! Co musisz zrobiæ, to znaleŸæ ³opatê, wykopaæ mnie i tam zasadziæ - to wszystko. Gdy ju¿ to uczynisz, zdradzê ci pewn¹ tajemnicê.}
+{117}{}{Wspaniale! Co musisz zrobiÄ‡, to znaleÅºÄ‡ Å‚opatÄ™, wykopaÄ‡ mnie i tam zasadziÄ‡ - to wszystko. Gdy juÅ¼ to uczynisz, zdradzÄ™ ci pewnÄ… tajemnicÄ™.}
 {118}{}{Okej!}
 {119}{}{Y, y.}
-{120}{}{W porz¹dku. Có¿, eem... Zaczekam tu na ciebie. Wiesz, nie to ¿ebym mia³ wielki wybór. Na razie!}
+{120}{}{W porzÄ…dku. CÃ³Å¼, eem... Zaczekam tu na ciebie. Wiesz, nie to Å¼ebym miaÅ‚ wielki wybÃ³r. Na razie!}
 {121}{}{Paa!}
-{122}{}{Je¿eli jednak zmienisz zdanie, to wiesz, gdzie mnie szukaæ. Zapuœci³em tu korzenie. Cha cha cha! To tylko trochê roœlinnego humoru dla ciebie. Oj, nie zatrzymujê ciê ju¿ d³u¿ej. Do zobaczenia!}
+{122}{}{JeÅ¼eli jednak zmienisz zdanie, to wiesz, gdzie mnie szukaÄ‡. ZapuÅ›ciÅ‚em tu korzenie. Cha cha cha! To tylko trochÄ™ roÅ›linnego humoru dla ciebie. Oj, nie zatrzymujÄ™ ciÄ™ juÅ¼ dÅ‚uÅ¼ej. Do zobaczenia!}
 {123}{}{Bywaj.}
-{124}{}{Dobrze powiedziane, naprawdê dobrze! Jak to przyjemnie widzieæ homo sapiensa w pe³ni u¿ywaj¹cego swojego mózgu. Czy mo¿esz mi wyœwiadczyæ pewn¹ przys³ugê?}
+{124}{}{Dobrze powiedziane, naprawdÄ™ dobrze! Jak to przyjemnie widzieÄ‡ homo sapiensa w peÅ‚ni uÅ¼ywajÄ…cego swojego mÃ³zgu. Czy moÅ¼esz mi wyÅ›wiadczyÄ‡ pewnÄ… przysÅ‚ugÄ™?}
 {125}{}{'ak.}
 {126}{}{Ne!}
-{127}{}{Ale¿ tak! Dok³adnie! Bardzo przebiegle, bardzo. Widzê, ¿e nie od dziœ wypuszczasz pêdy! Mój wspaniale rozga³êziony przyjacielu, czy mo¿esz mi wyœwiadczyæ pewn¹ drobn¹ przys³ugê?}
+{127}{}{AleÅ¼ tak! DokÅ‚adnie! Bardzo przebiegle, bardzo. WidzÄ™, Å¼e nie od dziÅ› wypuszczasz pÄ™dy! MÃ³j wspaniale rozgaÅ‚Ä™ziony przyjacielu, czy moÅ¼esz mi wyÅ›wiadczyÄ‡ pewnÄ… drobnÄ… przysÅ‚ugÄ™?}
 {128}{}{Jasne.}
-{129}{}{Nie wydaje mi siê.}
-{130}{}{Wspaa-niale! Jestem bardzo, bardzo zadowolony. ZnajdŸ tylko ³opatê i wróæ z powrotem. Gdy ju¿ skoñczysz, byæ mo¿e zdradzê ci pewien sekret. Mam nadziejê, ¿e nadal bêdziesz rozkwitaæ.}
+{129}{}{Nie wydaje mi siÄ™.}
+{130}{}{Wspaa-niale! Jestem bardzo, bardzo zadowolony. ZnajdÅº tylko Å‚opatÄ™ i wrÃ³Ä‡ z powrotem. Gdy juÅ¼ skoÅ„czysz, byÄ‡ moÅ¼e zdradzÄ™ ci pewien sekret. Mam nadziejÄ™, Å¼e nadal bÄ™dziesz rozkwitaÄ‡.}
 {131}{}{Ee, tak. Na razie.}
 {132}{}{Raczej nie.}
 {133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
  am, he'd cut me into pieces to examine me.  So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
  Y'know, maybe get planted someplace else...}
-{134}{}{"Rozga³êziæ". No tak.}
+{134}{}{"RozgaÅ‚Ä™ziÄ‡". No tak.}
 {135}{}{Tak. Czego chcesz?}
-{136}{}{A... cha. Muszê ju¿ iœæ. Na razie.}
-{137}{}{A wiêc nadal ma tego skorpiona? Ta rzecz to bezlitosny gracz szachowy... pokazuje kleszcze i potrafi nieŸle uk¹siæ, jeœli wiesz, o czym mówiê... ale ja wiem, jak go pokonaæ. Je¿eli wyœwiadczysz mi przys³ugê, powiem ci jak.}
-{138}{}{Naprawdê? Jak?}
-{139}{}{Fascynuj¹ce. Roœlina graj¹ca w szachy. Jakie¿ to prozaiczne. Na razie.}
-{140}{}{Je¿eli przesadzisz mnie w pobli¿e tego domu ghulów, o tam, to z przyjemnoœci¹ podzielê siê z tob¹ moj¹ g³êboko zakorzenion¹ wiedz¹ szachow¹.}
+{136}{}{A... cha. MuszÄ™ juÅ¼ iÅ›Ä‡. Na razie.}
+{137}{}{A wiÄ™c nadal ma tego skorpiona? Ta rzecz to bezlitosny gracz szachowy... pokazuje kleszcze i potrafi nieÅºle ukÄ…siÄ‡, jeÅ›li wiesz, o czym mÃ³wiÄ™... ale ja wiem, jak go pokonaÄ‡. JeÅ¼eli wyÅ›wiadczysz mi przysÅ‚ugÄ™, powiem ci jak.}
+{138}{}{NaprawdÄ™? Jak?}
+{139}{}{FascynujÄ…ce. RoÅ›lina grajÄ…ca w szachy. JakieÅ¼ to prozaiczne. Na razie.}
+{140}{}{JeÅ¼eli przesadzisz mnie w pobliÅ¼e tego domu ghulÃ³w, o tam, to z przyjemnoÅ›ciÄ… podzielÄ™ siÄ™ z tobÄ… mojÄ… gÅ‚Ä™boko zakorzenionÄ… wiedzÄ… szachowÄ….}
 {141}{}{Umowa stoi.}
-{142}{}{Nie, dziêki. Zajmê siê skorpionem po swojemu.}
-{143}{}{Ach, mi³o ciê znowu widzieæ. To jest ca³kiem przyjemne miejsce. Cieñ jest idealny, a towarzystwo jest po prostu olœniewaj¹ce. Ten Typhon, co za charakter! Naprawdê zmusza moje intelektualne soki do ruchu!}
+{142}{}{Nie, dziÄ™ki. ZajmÄ™ siÄ™ skorpionem po swojemu.}
+{143}{}{Ach, miÅ‚o ciÄ™ znowu widzieÄ‡. To jest caÅ‚kiem przyjemne miejsce. CieÅ„ jest idealny, a towarzystwo jest po prostu olÅ›niewajÄ…ce. Ten Typhon, co za charakter! NaprawdÄ™ zmusza moje intelektualne soki do ruchu!}
 {144}{}{Szacha?}
-{145}{}{Wspomina³eœ coœ o szachach?}
+{145}{}{WspominaÅ‚eÅ› coÅ› o szachach?}
 {146}{}{Bywaj.}
-{147}{}{Có¿, chodzi³o o to, jak pokonaæ skorpiona profesora w szachach. Jest to genialne w swej prostocie. Atak Lataj¹cej W¹troby jest jak lep na tego szkodnika - wchodzi prosto do œrodka i nie mo¿e siê ju¿ z tego wypl¹taæ. Gwarantujê ci sukces.}
-{148}{}{'êki! Pa pa!}
-{149}{}{Dziêkujê za informacjê! Do zobaczenia!}
-{150}{}{Czy s³onko dobrze ci przyœwieca³o? Jak rozkwita ci dzieñ? Czy mo¿emy ju¿ zrobiæ przeprowadzkê? Nie mogê siê doczekaæ!}
+{147}{}{CÃ³Å¼, chodziÅ‚o o to, jak pokonaÄ‡ skorpiona profesora w szachach. Jest to genialne w swej prostocie. Atak LatajÄ…cej WÄ…troby jest jak lep na tego szkodnika - wchodzi prosto do Å›rodka i nie moÅ¼e siÄ™ juÅ¼ z tego wyplÄ…taÄ‡. GwarantujÄ™ ci sukces.}
+{148}{}{'Ä™ki! Pa pa!}
+{149}{}{DziÄ™kujÄ™ za informacjÄ™! Do zobaczenia!}
+{150}{}{Czy sÅ‚onko dobrze ci przyÅ›wiecaÅ‚o? Jak rozkwita ci dzieÅ„? Czy moÅ¼emy juÅ¼ zrobiÄ‡ przeprowadzkÄ™? Nie mogÄ™ siÄ™ doczekaÄ‡!}
 {151}{}{'ak!}
 {152}{}{Y, y! Nie wadzka!}
 {153}{}{Ruszajmy.}
-{154}{}{Jednak nie chcê ci pomóc.}
-{155}{}{Jestem tak podniecony, ¿e móg³bym wypuœciæ chmurê zarodników wokó³ siebie! Zaczynajmy!}
+{154}{}{Jednak nie chcÄ™ ci pomÃ³c.}
+{155}{}{Jestem tak podniecony, Å¼e mÃ³gÅ‚bym wypuÅ›ciÄ‡ chmurÄ™ zarodnikÃ³w wokÃ³Å‚ siebie! Zaczynajmy!}
 {156}{}{[dalej]}
-{157}{}{Wielka szkoda, wielka szkoda. Mam nadziejê, ¿e jednak kiedyœ zmienisz zdanie. Byæ mo¿e py³ek twojego niezdecydowania znowu kiedyœ zapyli moj¹ przeprowadzkê. Mi³ego dnia.}
+{157}{}{Wielka szkoda, wielka szkoda. Mam nadziejÄ™, Å¼e jednak kiedyÅ› zmienisz zdanie. ByÄ‡ moÅ¼e pyÅ‚ek twojego niezdecydowania znowu kiedyÅ› zapyli mojÄ… przeprowadzkÄ™. MiÅ‚ego dnia.}
 {158}{}{Uch.}
-{159}{}{I tobie mi³ego dnia.}
+{159}{}{I tobie miÅ‚ego dnia.}
 {160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
  those other plants.  Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
  maneuver: It's called the Flying Liver Attack, and the scorpion cannot stand against it.}
-{161}{}{'êki!}
-{162}{}{Dziêki. Wypróbujê go. Na razie!}
-{163}{}{Chcia³bym ci te¿ szepn¹æ, ¿e ghul Typhon ze œrodka tego budynku zna lokalizacjê ukrytego skarbu. Byæ mo¿e któregoœ dnia ci siê to przyda.}
-{164}{}{'êki! Pa pa!}
-{165}{}{Czy mo¿e jednak chcesz mi pomóc?}
+{161}{}{'Ä™ki!}
+{162}{}{DziÄ™ki. WyprÃ³bujÄ™ go. Na razie!}
+{163}{}{ChciaÅ‚bym ci teÅ¼ szepnÄ…Ä‡, Å¼e ghul Typhon ze Å›rodka tego budynku zna lokalizacjÄ™ ukrytego skarbu. ByÄ‡ moÅ¼e ktÃ³regoÅ› dnia ci siÄ™ to przyda.}
+{164}{}{'Ä™ki! Pa pa!}
+{165}{}{Czy moÅ¼e jednak chcesz mi pomÃ³c?}
 {166}{}{'ak!}
 {167}{}{Ne!}
 {168}{}{Jasne.}
 {169}{}{Chyba nie.}
-{170}{}{Wygl¹da jednak na to, ¿e nie masz ³opaty. Nie mogê iœæ, dopóki jakiejœ nie znajdziesz. Bêdê ciê oczekiwaæ z zapartym s³upkiem.}
+{170}{}{WyglÄ…da jednak na to, Å¼e nie masz Å‚opaty. Nie mogÄ™ iÅ›Ä‡, dopÃ³ki jakiejÅ› nie znajdziesz. BÄ™dÄ™ ciÄ™ oczekiwaÄ‡ z zapartym sÅ‚upkiem.}
 {171}{}{Bywaj.}
 {172}{}{Psst! Hej! Tutaj!}
-{173}{}{PodejdŸ no! Obiecujê, ¿e nic ci nie zrobiê.}
-{174}{}{No co ty. Boisz siê roœliny?}
-{175}{}{Tutaj! Rozmówmy siê!}
-{176}{}{Tak, jestem gadaj¹c¹ roœlin¹. Wiêc podejdŸ tu i pogadaj ze mn¹.}
-{177}{}{Chwileczkê. Nie zaczynaj jeszcze kopaæ, musimy najpierw przestudiowaæ ten manewr. Porozmawiajmy o tym.}
-{178}{}{Seymour zosta³ przez ciebie przesadzony obok domu starych ghuli.}
-{179}{}{Ma ³opa! I ta! Sadziæ tera!}
-{180}{}{Tak siê akurat sk³ada, ¿e mam przy sobie ³opatê. Zaczynajmy.}
+{173}{}{PodejdÅº no! ObiecujÄ™, Å¼e nic ci nie zrobiÄ™.}
+{174}{}{No co ty. Boisz siÄ™ roÅ›liny?}
+{175}{}{Tutaj! RozmÃ³wmy siÄ™!}
+{176}{}{Tak, jestem gadajÄ…cÄ… roÅ›linÄ…. WiÄ™c podejdÅº tu i pogadaj ze mnÄ….}
+{177}{}{ChwileczkÄ™. Nie zaczynaj jeszcze kopaÄ‡, musimy najpierw przestudiowaÄ‡ ten manewr. Porozmawiajmy o tym.}
+{178}{}{Seymour zostaÅ‚ przez ciebie przesadzony obok domu starych ghuli.}
+{179}{}{Ma Å‚opa! I ta! SadziÄ‡ tera!}
+{180}{}{Tak siÄ™ akurat skÅ‚ada, Å¼e mam przy sobie Å‚opatÄ™. Zaczynajmy.}

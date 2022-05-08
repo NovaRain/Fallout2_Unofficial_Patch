@@ -1,15 +1,15 @@
 {100}{}{Ves a una aldeana.}
 {101}{}{Ves a una aldeana.}
 {102}{}{Hola.}
-{103}{}{Buenos días.}
+{103}{}{Buenos dÃ­as.}
 {104}{}{Bienvenida a nuestro poblado.}
 {105}{}{Los monstruos nos protegen.}
 {106}{}{No tardes.}
 {107}{}{Pronto necesitaremos esas armas.}
 {108}{}{Hola.}
-{109}{}{¡Vete ahora!}
-{110}{}{¡Vuelve por donde has venido!}
-{111}{}{¡Lárgate al carajo de aquí!}
+{109}{}{Â¡Vete ahora!}
+{110}{}{Â¡Vuelve por donde has venido!}
+{111}{}{Â¡LÃ¡rgate al carajo de aquÃ­!}
 {112}{}{Ahora estamos seguros.}
 {113}{}{Gracias.}
 {114}{}{Bendito seas, errante.}

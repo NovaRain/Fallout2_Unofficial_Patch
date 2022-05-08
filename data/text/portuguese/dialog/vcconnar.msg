@@ -8,7 +8,7 @@
 {107}{}{I bet those bastards at Vault City sent you. Well you best be off, and leave everything else
  alive.}
 {108}{}{Well, it's a little late for that.}
-{109}{}{Por quê?}
+{109}{}{Por quÃª?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing that are stopping Vault City from making us their so-called
  servants.}
@@ -43,7 +43,7 @@
 {138}{}{Tudo bem.}
 {139}{}{With these, we'll be able to make something of this place over the next months. If you ever need
  a place to rest, you will always be welcome here.}
-{140}{}{Você é bem-vindo.}
+{140}{}{VocÃª Ã© bem-vindo.}
 {141}{}{Welcome back. Things are going well. We're going to work on expanding the Village.}
 {142}{}{Hello again! Things have been going well, as you can see. Look around if you have the time.}
 {143}{}{We're still building. We're hoping to expand the walls again in the next month.}

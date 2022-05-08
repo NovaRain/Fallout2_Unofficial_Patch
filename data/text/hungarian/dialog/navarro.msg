@@ -1,1 +1,1 @@
-{100}{}{Rátaláltál egy öreg benzinkútra.}
+{100}{}{RÃ¡talÃ¡ltÃ¡l egy Ã¶reg benzinkÃºtra.}

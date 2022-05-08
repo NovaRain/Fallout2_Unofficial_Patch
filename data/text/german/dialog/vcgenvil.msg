@@ -3,7 +3,7 @@
 {102}{}{Hallo.}
 {103}{}{Auf Wiedersehen.}
 {104}{}{Willkommen in unserem Dorf.}
-{105}{}{Die Monster beschützen uns.}
+{105}{}{Die Monster beschÃ¼tzen uns.}
 {106}{}{Komm schnell wieder.}
 {107}{}{Wir brauchen die Gewehre dringend.}
 {108}{}{Hallo.}

@@ -1,56 +1,56 @@
 {100}{}{Ves a un hombre delgado, de aspecto grasiento.}
 {150}{}{Ves a Flick, que se rasca el paquete con ganas.}
 {151}{}{Ves a un hombre sucio con un horrible tic nervioso.}
-{200}{}{Fora de aquí, cazzo di merda.}
-{201}{}{¡Eh, trozo de carne! Si, tú. Fora de aquí.}
-{202}{}{¿Sei tú un idiota o qué?}
-{203}{}{¿Qué problema tienes tú, eh?}
-{204}{}{Lárgate de hache ya.}
-{220}{}{Eh tú, io sono Flick. ¿Qué hostias quieres, eh?}
-{221}{}{¿Ahora qué? Mi haces perder el tiempo, tú.}
-{222}{}{¿Por qué ese acento tan raro, Flick?}
-{223}{}{¿Qué demonios haces tú aquí?}
-{224}{}{Estoy buscando un Refugio... ah, sí, y también a un mercader llamado Vic. ¿Sabes dónde pueden estar?}
-{225}{}{Me gustaría hacer negocios contigo.}
-{240}{}{¿Ti sembla bien, amigo?}
-{241}{}{La verdad, me gustaría echar otro vistazo a tu mercancía si no es molestia.}
-{242}{}{Lo cierto es que me gustaría hacerte una pregunta.}
+{200}{}{Fora de aquÃ­, cazzo di merda.}
+{201}{}{Â¡Eh, trozo de carne! Si, tÃº. Fora de aquÃ­.}
+{202}{}{Â¿Sei tÃº un idiota o quÃ©?}
+{203}{}{Â¿QuÃ© problema tienes tÃº, eh?}
+{204}{}{LÃ¡rgate de hache ya.}
+{220}{}{Eh tÃº, io sono Flick. Â¿QuÃ© hostias quieres, eh?}
+{221}{}{Â¿Ahora quÃ©? Mi haces perder el tiempo, tÃº.}
+{222}{}{Â¿Por quÃ© ese acento tan raro, Flick?}
+{223}{}{Â¿QuÃ© demonios haces tÃº aquÃ­?}
+{224}{}{Estoy buscando un Refugio... ah, sÃ­, y tambiÃ©n a un mercader llamado Vic. Â¿Sabes dÃ³nde pueden estar?}
+{225}{}{Me gustarÃ­a hacer negocios contigo.}
+{240}{}{Â¿Ti sembla bien, amigo?}
+{241}{}{La verdad, me gustarÃ­a echar otro vistazo a tu mercancÃ­a si no es molestia.}
+{242}{}{Lo cierto es que me gustarÃ­a hacerte una pregunta.}
 {243}{}{Me parece bien. Nos vemos, Flick.}
-{260}{}{Io sono un puto proveedor, ¿qué te crees? Soy como el buen Samurai-tano.}
-{261}{}{¿El qué?}
-{262}{}{Si, eh, bien... déjame hacerte otra pregunta.}
-{263}{}{Uh, oh. Vale. Adiós, Flick.}
+{260}{}{Io sono un puto proveedor, Â¿quÃ© te crees? Soy como el buen Samurai-tano.}
+{261}{}{Â¿El quÃ©?}
+{262}{}{Si, eh, bien... dÃ©jame hacerte otra pregunta.}
+{263}{}{Uh, oh. Vale. AdiÃ³s, Flick.}
 {280}{}{Les proveo a estos paisanos.}
-{281}{}{¿Qué les provees pianos?}
+{281}{}{Â¿QuÃ© les provees pianos?}
 {290}{}{Pai-sa-nos, sabes, los chicos. Mis chicos.}
-{291}{}{¿Tus chicos?}
-{292}{}{Mira, no me interesa si les das lecciones de piano a los chicos. Déjame preguntarte otra cosa.}
-{300}{}{Sí, bueno, trabajan para mí. Me traen cosas. Cosas piccoli. Ya sabes.}
+{291}{}{Â¿Tus chicos?}
+{292}{}{Mira, no me interesa si les das lecciones de piano a los chicos. DÃ©jame preguntarte otra cosa.}
+{300}{}{SÃ­, bueno, trabajan para mÃ­. Me traen cosas. Cosas piccoli. Ya sabes.}
 {301}{}{Uh, no.}
-{302}{}{Oh, vale. Entonces déjame preguntarte otra cosa.}
-{303}{}{Ah, ya veo. Bueno, je, por mí no te cortes. Eh... adiós.}
-{315}{}{Me traen lo que encuentran. Piccoli, pequeñas cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}
+{302}{}{Oh, vale. Entonces dÃ©jame preguntarte otra cosa.}
+{303}{}{Ah, ya veo. Bueno, je, por mÃ­ no te cortes. Eh... adiÃ³s.}
+{315}{}{Me traen lo que encuentran. Piccoli, pequeÃ±as cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}
 {316}{}{Parece un buen acuerdo.}
-{325}{}{(Flick se encoge de hombros) Supongo que sí.}
+{325}{}{(Flick se encoge de hombros) Supongo que sÃ­.}
 {326}{}{Otra pregunta, si no te importa.}
-{327}{}{Te deben traer verdaderas gangas. Déjame ver que tienes.}
-{328}{}{Sólo quería asegurarme. Bien, adiós Flick.}
-{340}{}{¿De qué parlas? ¿Te crees que soy un puto soplapollas, un pirla? ¿Un figlio di puttana? ¿Te crees que io sono un payaso? ¿Qué estoy pa divertirte, es eso?}
-{341}{}{Uh, no. Lo siento, sólo tenía curiosidad. Déjame preguntarte otra cosa.}
-{342}{}{Sí, así es, imbécil. Y nada me va a divertir más que ver como te mueres.}
-{343}{}{Bueno, si te vas a poner gruñón por eso, me marcho.}
-{360}{}{¿Refugio, eh? Quizás Mamá sepa de questo, porque yo no. Pero a ese Vic... le conozco. Metzger tiene a ese porco idiota.}
-{361}{}{¿Vic? ¿No estaba contigo? Idiota. Pero a Mamá, a ella la conozco.}
-{362}{}{¿Quién es Metzger?}
-{363}{}{¿Quién es Mamá?}
-{364}{}{Gracias. Deja que te pregunte algo más.}
-{365}{}{Gracias, era todo lo que quería saber. Adiós.}
-{380}{}{Mamá lleva un ristorante en la parte este del pueblo. Pasado el cementerio. Buen lugar, hace buena pasta, Mamma mía.}
-{381}{}{Gracias, ¿y ese tal Metzger que tiene a Vic?}
-{382}{}{Gracias. Deja que te pregunte algo más.}
-{383}{}{Gracias, era todo lo que quería saber. Adiós.}
-{400}{}{Así es, Metzger, ese stronzo, está muerto. No sé que le pasó a Vic.}
-{401}{}{Ese Metzger, es un verdadero rompiballe. Dirige el gremio de Esclavistas. Al este del pueblo, justo al norte del local de Mamá. De todos modos, tiene a Vic, lo sé.}
-{402}{}{Gracias, ¿y qué sabes de Mamá?}
-{403}{}{Gracias. Deja que te pregunte algo más.}
-{404}{}{Gracias, era todo lo que quería saber. Adiós.}
+{327}{}{Te deben traer verdaderas gangas. DÃ©jame ver que tienes.}
+{328}{}{SÃ³lo querÃ­a asegurarme. Bien, adiÃ³s Flick.}
+{340}{}{Â¿De quÃ© parlas? Â¿Te crees que soy un puto soplapollas, un pirla? Â¿Un figlio di puttana? Â¿Te crees que io sono un payaso? Â¿QuÃ© estoy pa divertirte, es eso?}
+{341}{}{Uh, no. Lo siento, sÃ³lo tenÃ­a curiosidad. DÃ©jame preguntarte otra cosa.}
+{342}{}{SÃ­, asÃ­ es, imbÃ©cil. Y nada me va a divertir mÃ¡s que ver como te mueres.}
+{343}{}{Bueno, si te vas a poner gruÃ±Ã³n por eso, me marcho.}
+{360}{}{Â¿Refugio, eh? QuizÃ¡s MamÃ¡ sepa de questo, porque yo no. Pero a ese Vic... le conozco. Metzger tiene a ese porco idiota.}
+{361}{}{Â¿Vic? Â¿No estaba contigo? Idiota. Pero a MamÃ¡, a ella la conozco.}
+{362}{}{Â¿QuiÃ©n es Metzger?}
+{363}{}{Â¿QuiÃ©n es MamÃ¡?}
+{364}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{365}{}{Gracias, era todo lo que querÃ­a saber. AdiÃ³s.}
+{380}{}{MamÃ¡ lleva un ristorante en la parte este del pueblo. Pasado el cementerio. Buen lugar, hace buena pasta, Mamma mÃ­a.}
+{381}{}{Gracias, Â¿y ese tal Metzger que tiene a Vic?}
+{382}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{383}{}{Gracias, era todo lo que querÃ­a saber. AdiÃ³s.}
+{400}{}{AsÃ­ es, Metzger, ese stronzo, estÃ¡ muerto. No sÃ© que le pasÃ³ a Vic.}
+{401}{}{Ese Metzger, es un verdadero rompiballe. Dirige el gremio de Esclavistas. Al este del pueblo, justo al norte del local de MamÃ¡. De todos modos, tiene a Vic, lo sÃ©.}
+{402}{}{Gracias, Â¿y quÃ© sabes de MamÃ¡?}
+{403}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{404}{}{Gracias, era todo lo que querÃ­a saber. AdiÃ³s.}

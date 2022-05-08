@@ -1,33 +1,33 @@
-{100}{}{Você vê um terminal de computador.}
-{101}{}{Você vê a estação de física.}
-{102}{}{Você vê um terminal de computador em funcionamento.}
-{103}{}{Olá. Por favor, confirme sua identidade.}
+{100}{}{VocÃª vÃª um terminal de computador.}
+{101}{}{VocÃª vÃª a estaÃ§Ã£o de fÃ­sica.}
+{102}{}{VocÃª vÃª um terminal de computador em funcionamento.}
+{103}{}{OlÃ¡. Por favor, confirme sua identidade.}
 {104}{}{[Oooh! Olhe todas essas luzes ofuscantes!]}
 {105}{}{::adivinhar a senha::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{::hackear o computador::}
 {108}{}{Sair.}
-{109}{}{Banco de dados de física: -Exploração- -Teoria-}
-{110}{}{Exploração...}
+{109}{}{Banco de dados de fÃ­sica: -ExploraÃ§Ã£o- -Teoria-}
+{110}{}{ExploraÃ§Ã£o...}
 {111}{}{Teoria...}
-{112}{}{Desativar estação.}
-{113}{}{Senha incorreta. Favor falar com o administrador do sistema. Até logo.}
+{112}{}{Desativar estaÃ§Ã£o.}
+{113}{}{Senha incorreta. Favor falar com o administrador do sistema. AtÃ© logo.}
 {114}{}{::hackear o computador::}
 {115}{}{::sair::}
 {116}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
 {117}{}{-pronto-}
-{118}{}{“Com a recente aquisição dos planos do vertibird, a possibilidade de criar uma máquina voadora prática deu um salto quântico. Esperamos ter um protótipo funcionando até o final do ano e a capacidade de produzir esses veículos em massa em dois anos. " -Dr. Wong}
+{118}{}{â€œCom a recente aquisiÃ§Ã£o dos planos do vertibird, a possibilidade de criar uma mÃ¡quina voadora prÃ¡tica deu um salto quÃ¢ntico. Esperamos ter um protÃ³tipo funcionando atÃ© o final do ano e a capacidade de produzir esses veÃ­culos em massa em dois anos. " -Dr. Wong}
 {119}{}{::copiar planos::}
 {120}{}{Voltar.}
-{121}{}{"Ainda estamos preparando um modelo funcional de um veículo aéreo. Nenhum dos projetos que criamos se mostrou seguro ou aerodinâmico. Talvez se tivéssemos acesso aos planos dos antigos..." - Dr. Wong}
+{121}{}{"Ainda estamos preparando um modelo funcional de um veÃ­culo aÃ©reo. Nenhum dos projetos que criamos se mostrou seguro ou aerodinÃ¢mico. Talvez se tivÃ©ssemos acesso aos planos dos antigos..." - Dr. Wong}
 {122}{}{Voltar.}
 {123}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea.  At least, that's what the notes read like.)}
 {124}{}{Voltar.}
-{125}{}{Estação desativada.}
-{126}{}{Ativar estação.}
+{125}{}{EstaÃ§Ã£o desativada.}
+{126}{}{Ativar estaÃ§Ã£o.}
 {127}{}{-sair-}
-{128}{}{Sabe-se lá como, você digita uma sequência qualquer de letras e acaba ganhando acesso! Como você pode ter tanta sorte?}
+{128}{}{Sabe-se lÃ¡ como, vocÃª digita uma sequÃªncia qualquer de letras e acaba ganhando acesso! Como vocÃª pode ter tanta sorte?}
 {129}{}{-mais-}
-{130}{}{O computador não responde a nenhum comando.}
-{131}{}{Você não consegue achar nenhum lugar pra colocar isso.}
-{132}{}{Copiando planos... Cópia concluída... Retornando a... Erro de E/S... GPF... Desativando terminal.}
+{130}{}{O computador nÃ£o responde a nenhum comando.}
+{131}{}{VocÃª nÃ£o consegue achar nenhum lugar pra colocar isso.}
+{132}{}{Copiando planos... CÃ³pia concluÃ­da... Retornando a... Erro de E/S... GPF... Desativando terminal.}
