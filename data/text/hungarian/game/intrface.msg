@@ -1,5 +1,5 @@
 {100}{}{LOPÓZÁS}
 {101}{}{SZINTLÉPÉS}
-{102}{}{FÜGG?SÉG}
+{102}{}{FÜGGŐSÉG}
 {103}{}{MÉRGEZÉS}
-{104}{}{SUGÁRFERT?ZÉS}
+{104}{}{SUGÁRFERTŐZÉS}

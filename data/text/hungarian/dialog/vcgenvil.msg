@@ -1,7 +1,7 @@
 {100}{}{Egy falubélit látsz.}
 {101}{}{Egy falubélit látsz.}
 {102}{}{Helló!}
-{103}{}{Minden jót!}
+{103}{}{Jó napot.}
 {104}{}{Üdvözöllek a falunkban.}
 {105}{}{Szörnyek oltalmaznak minket.}
 {106}{}{Siess vissza!}
@@ -11,5 +11,5 @@
 {110}{}{Menj vissza oda, ahonnan jöttél!}
 {111}{}{Menj innen a francba!}
 {112}{}{Most biztonságban vagyunk.}
-{113}{}{Köszönöm!}
+{113}{}{Köszönöm.}
 {114}{}{Légy áldott, vándor!}
