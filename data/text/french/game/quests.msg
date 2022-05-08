@@ -113,7 +113,7 @@
 {1515}{}{Procure-toi une SuperArmure renforcée auprès de Crockett.}
 {1516}{}{Procure-toi les plans d'hélico pour la Confrérie de l'Acier.}
 {1600}{}{Traite avec le Griffemort.}
-{1601}{}{Fix K-9.}
+{1601}{}{Répare K-9.}
 {1602}{}{Récupère le passe électronique auprès du commandant de la base.}
 {1700}{}{}
 {1800}{}{}

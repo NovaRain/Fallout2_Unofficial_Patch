@@ -29,11 +29,11 @@
 {402}{}{Canarde l'ennemi à distance.}
 {403}{}{Comme tu préfères.}
 {404}{}{Reste où tu es.}
-{500}{}{Whoever is attacking me}
+{500}{}{Mon attaquant.}
 {501}{}{Le plus fort.}
 {502}{}{Le plus faible.}
 {503}{}{Qui tu veux.}
-{504}{}{Whoever is closest}
+{504}{}{Le plus proche.}
 {600}{}{Je ne prends rien.}
 {601}{}{Utiliser un Stimpak dès que ça fait mal.}
 {602}{}{Utiliser un Stimpak quand ça fait très mal.}

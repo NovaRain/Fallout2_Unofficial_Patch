@@ -11,7 +11,7 @@
 {110}{}{Bocs, de a munka az munka.}
 {111}{}{Azoknak az állatoknak köszönhetjük, hogy még nem vagyunk Menedékváros úgynevezett "szolgái".}
 {112}{}{Bocs, de fizetnek érte, hogy végezzek a szörnyekkel és meg is teszem.}
-{113}{}{Errõl nem szóltak.}
+{113}{}{Err?l nem szóltak.}
 {114}{}{Fizetnek, hogy kipucoljam a helyet. Már végeztem is velük.}
 {115}{}{Te idióta! Mi a francért csináltad ezt?}
 {116}{}{Kellett a pénz.}
@@ -24,7 +24,7 @@
 {123}{}{Tedd amit tenned kell.}
 {124}{}{Megvettek kilóra? Még sokat kell tanulnod a világról, barátom.}
 {125}{}{Segíthetek bármiben?}
-{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár lõfegyverünk, azt hiszem, elbírnánk velük.}
+{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár l?fegyverünk, azt hiszem, elbírnánk velük.}
 {127}{}{Milyen fegyverekre gondolsz?}
 {128}{}{Hát, én jól bánok a sörétessel és van pár emberem, akik  boldogulnak az uzival. Szerintem három darab elég lenne.}
 {129}{}{Megnézem, mit tehetek.}
@@ -35,13 +35,13 @@
 {134}{}{Hát visszajöttél! Sikerült fegyvereket szerezned?}
 {135}{}{Mi kell már megint?}
 {136}{}{Ja, itt vannak.}
-{137}{}{Kell három uzi és egy sörétes puska. Minél elõbb, annál jobb.}
+{137}{}{Kell három uzi és egy sörétes puska. Minél el?bb, annál jobb.}
 {138}{}{Oké.}
 {139}{}{Most végre kezdhetünk valamit ezzel a hellyel. Ha kell egy vacok ahol meg akarsz pihenni, mi mindig szívesen látunk.}
 {140}{}{Szóra sem érdemes.}
-{141}{}{Üdv újra. Jól mennek a dolgok, épp a falu bõvítésén dolgozunk.}
-{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van idõd!}
-{143}{}{Még mindig épitkezünk. Ha minden jól megy, jövõ hónapban megemeljük a falakat.}
-{144}{}{Üdv! A falu megint bõvült. Örülünk, hogy újra itt vagy!}
+{141}{}{Üdv újra. Jól mennek a dolgok, épp a falu b?vítésén dolgozunk.}
+{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van id?d!}
+{143}{}{Még mindig épitkezünk. Ha minden jól megy, jöv? hónapban megemeljük a falakat.}
+{144}{}{Üdv! A falu megint b?vült. Örülünk, hogy újra itt vagy!}
 {145}{}{Nincs többé félnivalónk Menedékvárostól, így végre békében élhetünk. Mégegyszer köszönjük, vándor!}
 {146}{}{Csak ne gyilkolássz itt semmit, te gyökér!}

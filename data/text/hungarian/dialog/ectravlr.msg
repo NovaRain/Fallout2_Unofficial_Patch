@@ -18,32 +18,32 @@
 {116}{}{Köszi.}
 {117}{}{Menedékváros - idióták városa. Ha csak egy ujjal több van a kezeden, máris úgy kezelnek, mint egy korcsot. Soha nem voltam ott, de tudom, merre található.}
 {118}{}{Köszi.}
-{119}{}{Redding... Nem tudok róla sokat, csak annyit, hogy egy régi bányászváros. Fent van északon, a legmegmászhatatlanabb hegyek kellõs közepén.}
+{119}{}{Redding... Nem tudok róla sokat, csak annyit, hogy egy régi bányászváros. Fent van északon, a legmegmászhatatlanabb hegyek kell?s közepén.}
 {120}{}{Köszi.}
-{121}{}{A helyedben távol maradnék Rejtektõl. Vonzza a rosszéletûeket, akár egy mágnes. Megmutatom, hogy hol van, de nem ajánlom, hogy odamenj.}
+{121}{}{A helyedben távol maradnék Rejtekt?l. Vonzza a rosszélet?eket, akár egy mágnes. Megmutatom, hogy hol van, de nem ajánlom, hogy odamenj.}
 {122}{}{Köszi.}
 {123}{}{San Francisco. Ööö... csak annyit tudok róla mondani, hogy az emberek nagyon... furcsák arrafelé. A part mentén található.}
 {124}{}{Köszi.}
-{125}{}{Új Kalifornia Köztársaság... na, az egy jó hely. Ott szeretnék majd letelepedni egy szép napon. Ápolt, rendes emberek lakják, akik nem szûkölködnek semmiben. A térképen pont itt található.}
+{125}{}{Új Kalifornia Köztársaság... na, az egy jó hely. Ott szeretnék majd letelepedni egy szép napon. Ápolt, rendes emberek lakják, akik nem sz?kölködnek semmiben. A térképen pont itt található.}
 {126}{}{Köszi.}
-{127}{}{Igen, nemrég áthaladtam egy elhagyatott bányásztáboron. Gondoltam, hogy pihenek ott egy-két napot, de hirtelen farkasok jelentek meg a semmibõl, úgyhogy inkább gyorsan leléptem. Kár, mert úgy tûnt, hogy a bányászok sietve távoztak. Ott maradt egy csomó cuccuk. Nem tervezem, hogy visszamegyek, szóval azt hiszem, nyugodtan megmutathatom, hol találtam rá.}
+{127}{}{Igen, nemrég áthaladtam egy elhagyatott bányásztáboron. Gondoltam, hogy pihenek ott egy-két napot, de hirtelen farkasok jelentek meg a semmib?l, úgyhogy inkább gyorsan leléptem. Kár, mert úgy t?nt, hogy a bányászok sietve távoztak. Ott maradt egy csomó cuccuk. Nem tervezem, hogy visszamegyek, szóval azt hiszem, nyugodtan megmutathatom, hol találtam rá.}
 {128}{}{Köszi.}
-{129}{}{Ó... nincs konkrét célom. Csak egyszerûen elhatároztam, hogy utazni fogok. Hát, most itt vagyok.}
+{129}{}{Ó... nincs konkrét célom. Csak egyszer?en elhatároztam, hogy utazni fogok. Hát, most itt vagyok.}
 {130}{}{Talán tudsz segíteni. Meg tudnád mondani egy-két város helyét?}
 {131}{}{Mi a munkád?}
 {132}{}{Örülök, hogy találkoztunk.}
-{133}{}{Elvállalok néha egy-két munkát, hogy meglegyen a betevõ, de leginkább csak utazgatok.}
+{133}{}{Elvállalok néha egy-két munkát, hogy meglegyen a betev?, de leginkább csak utazgatok.}
 {134}{}{Talán tudsz segíteni. Meg tudnád mondani egy-két város helyét?}
 {135}{}{Mi az úticélod?}
 {136}{}{Örülök, hogy találkoztunk.}
 {137}{}{Most már igazán mennem kell. Örültem a beszélgetésnek.}
 {138}{}{Talán még találkozunk.}
-{139}{}{Még az éj beállta elõtt a következõ faluban szeretnék lenni. Jobb, ha indulok.}
+{139}{}{Még az éj beállta el?tt a következ? faluban szeretnék lenni. Jobb, ha indulok.}
 {140}{}{Jobb lesz, ha megyek.}
 {141}{}{Rajtaütés!}
 {142}{}{Manapság már senkiben sem lehet megbízni.}
 {143}{}{Megszegted az utazók íratlan törvényeit!}
 {144}{}{Ideje indulnom.}
-{145}{}{Túl sokáig idõztem itt.}
+{145}{}{Túl sokáig id?ztem itt.}
 {146}{}{Mennem kell.}
 {150}{}{Thanks. I need directions to some other places.}

@@ -29,11 +29,11 @@
 {402}{}{Atire no inimigo de longe.}
 {403}{}{Como quiser}
 {404}{}{Fique onde está}
-{500}{}{Whoever is attacking me}
+{500}{}{Quem está me atacando}
 {501}{}{O mais forte}
 {502}{}{O mais fraco}
 {503}{}{Quem você quizer}
-{504}{}{Whoever is closest}
+{504}{}{Quem estiver mais perto}
 {600}{}{Nada.}
 {601}{}{Stimpacks se estiver ferido}
 {602}{}{Stimpacks se estiver gravemente ferido}

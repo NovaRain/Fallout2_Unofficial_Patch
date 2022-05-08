@@ -174,7 +174,7 @@
 {1006}{}{Víciado em Mentats}
 {1007}{}{Víciado em Psycho}
 {1008}{}{Víciado em RadAway}
-{1009}{}{Alcohol addiction}
+{1009}{}{Víciado em Alcohol}
 {1010}{}{Víciado em Jet}
 {1011}{}{Víciado em Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
@@ -199,10 +199,10 @@
 {1105}{}{Você está viciado em Buffout. Você deve tomar este medicamento continuamente ou sofrerá os efeitos da abstinência.}
 {1106}{}{Você está sofrendo por conta do vicio em Mentat. Deve tomar o medicamento específico ou sofrer abstinência.}
 {1107}{}{Você é viciado em drogas. Se você não tomar Psycho regularmente, sofrerá. Se você fizer isso, outros sofrerão.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1108}{}{Você está viciado em Radaway. Você deve tomar isso regularmente ou vai sofrer os efeitos da abstinência.}
 {1109}{}{Você tem um problema com Álcool. Na verdade, você tem muitos problemas com seus hábitos de consumo.}
 {1110}{}{Você está viciado em drogas. Agora deve tomar Jet regularmente.}
-{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
+{1111}{}{Infelizmente, você está viciado no jogo Tragic: The Catering. Você está constantemente à procura de novas cartas.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Você sabe fazer sexo. Você sabe preliminares. Você sabe como agradar um membro do sexo oposto e deixá-los com fome para mais.}
 {1114}{}{Você é o campeão dos pesos pesados do norte da Califórnia. Você ganhou fama, respeito e o amor de milhares... e um bônus para sua resistência e habilidade desarmado.}
@@ -243,7 +243,7 @@
 {4000}{}{Reputação}
 {4001}{}{Vícios}
 {4100}{}{Representa a sua reputação de um determinado local.}
-{4101}{}{Things you have become addicted to.}
+{4101}{}{Coisas que você se vicia.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}

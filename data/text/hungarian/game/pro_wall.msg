@@ -55,38 +55,38 @@
 {5300}{}{Fal}
 {5400}{}{Fal}
 {5500}{}{Acél ablak}
-{5600}{}{Csõ}
-{5700}{}{Csõ}
-{5800}{}{Csõ}
+{5600}{}{Cs?}
+{5700}{}{Cs?}
+{5800}{}{Cs?}
 {5900}{}{Felszerelés}
 {5901}{}{}
 {6000}{}{Csövek}
-{6100}{}{Csõ}
-{6200}{}{Csõ}
-{6300}{}{Csõ}
-{6400}{}{Csõ}
-{6500}{}{Csõ}
-{6600}{}{Csõ}
+{6100}{}{Cs?}
+{6200}{}{Cs?}
+{6300}{}{Cs?}
+{6400}{}{Cs?}
+{6500}{}{Cs?}
+{6600}{}{Cs?}
 {6700}{}{Csövek}
 {6800}{}{Csövek}
 {6900}{}{Csövek}
-{7000}{}{Csõ}
-{7100}{}{Csõ}
-{7200}{}{Csõ}
-{7300}{}{Csõ}
-{7400}{}{Csõ}
+{7000}{}{Cs?}
+{7100}{}{Cs?}
+{7200}{}{Cs?}
+{7300}{}{Cs?}
+{7400}{}{Cs?}
 {7500}{}{Felszerelés}
 {7501}{}{}
 {7600}{}{Csövek}
 {7700}{}{Felszerelés}
 {7701}{}{}
-{7800}{}{Csõ}
+{7800}{}{Cs?}
 {7900}{}{Csövek}
 {8000}{}{Csövek}
-{8100}{}{Csõ}
+{8100}{}{Cs?}
 {8200}{}{Csövek}
-{8300}{}{Csõ}
-{8400}{}{Csõ}
+{8300}{}{Cs?}
+{8400}{}{Cs?}
 {8500}{}{Gizmó}
 {8600}{}{Fakerítés}
 {8700}{}{Fakerítés}
@@ -157,12 +157,12 @@
 {15200}{}{Fakerítés}
 {15300}{}{Bádogfal}
 {15400}{}{Bádogfal}
-{15500}{}{Kõfal}
-{15600}{}{Kõajtó}
-{15700}{}{Kõajtó}
-{15800}{}{Kõfal}
-{15900}{}{Kõfal}
-{16000}{}{Kõfal}
+{15500}{}{K?fal}
+{15600}{}{K?ajtó}
+{15700}{}{K?ajtó}
+{15800}{}{K?fal}
+{15900}{}{K?fal}
+{16000}{}{K?fal}
 {16100}{}{Acélrács}
 {16200}{}{Acélrács}
 {16300}{}{Acélrács}
@@ -1139,10 +1139,10 @@
 {113200}{}{Ajtókeret}
 {113300}{}{Ajtókeret}
 {113400}{}{Ajtókeret}
-{113500}{}{Erõtér-generátor}
-{113600}{}{Erõtér-generátor}
-{113700}{}{Erõtér-generátor}
-{113800}{}{Erõtér-generátor}
+{113500}{}{Er?tér-generátor}
+{113600}{}{Er?tér-generátor}
+{113700}{}{Er?tér-generátor}
+{113800}{}{Er?tér-generátor}
 {113900}{}{Fal}
 {114000}{}{Fal}
 {114100}{}{Fal}
@@ -1542,33 +1542,33 @@
 {152800}{}{Ajtókeret}
 {152900}{}{Ajtókeret}
 {153000}{}{Ajtókeret}
-{153100}{}{Az ûrsikló fala}
-{153200}{}{Az ûrsikló fala}
-{153300}{}{Az ûrsikló fala}
-{153400}{}{Az ûrsikló fala}
-{153500}{}{Az ûrsikló fala}
-{153600}{}{Az ûrsikló fala}
-{153700}{}{Az ûrsikló fala}
-{153800}{}{Az ûrsikló fala}
-{153900}{}{Az ûrsikló fala}
-{154000}{}{Az ûrsikló fala}
-{154100}{}{Az ûrsikló fala}
-{154200}{}{Az ûrsikló fala}
-{154300}{}{Az ûrsikló fala}
-{154400}{}{Az ûrsikló fala}
-{154500}{}{Az ûrsikló fala}
-{154600}{}{Az ûrsikló fala}
-{154700}{}{Az ûrsikló fala}
-{154800}{}{Az ûrsikló fala}
-{154900}{}{Az ûrsikló fala}
-{155000}{}{Az ûrsikló fala}
-{155100}{}{Az ûrsikló fala}
-{155200}{}{Az ûrsikló fala}
-{155300}{}{Erõtér-generátor}
+{153100}{}{Az ?rsikló fala}
+{153200}{}{Az ?rsikló fala}
+{153300}{}{Az ?rsikló fala}
+{153400}{}{Az ?rsikló fala}
+{153500}{}{Az ?rsikló fala}
+{153600}{}{Az ?rsikló fala}
+{153700}{}{Az ?rsikló fala}
+{153800}{}{Az ?rsikló fala}
+{153900}{}{Az ?rsikló fala}
+{154000}{}{Az ?rsikló fala}
+{154100}{}{Az ?rsikló fala}
+{154200}{}{Az ?rsikló fala}
+{154300}{}{Az ?rsikló fala}
+{154400}{}{Az ?rsikló fala}
+{154500}{}{Az ?rsikló fala}
+{154600}{}{Az ?rsikló fala}
+{154700}{}{Az ?rsikló fala}
+{154800}{}{Az ?rsikló fala}
+{154900}{}{Az ?rsikló fala}
+{155000}{}{Az ?rsikló fala}
+{155100}{}{Az ?rsikló fala}
+{155200}{}{Az ?rsikló fala}
+{155300}{}{Er?tér-generátor}
 {155400}{}{Fal}
 {155500}{}{Fal}
 {155600}{}{Fal}
-{155700}{}{Erõtér-generátor}
+{155700}{}{Er?tér-generátor}
 {155800}{}{Ajtókeret}
 {155900}{}{Ajtókeret}
 {156000}{}{Ajtókeret}
@@ -1586,16 +1586,16 @@
 {157200}{}{Ajtókeret}
 {157300}{}{Ajtókeret}
 {157400}{}{Fal}
-{157500}{}{Erõtér-generátor}
+{157500}{}{Er?tér-generátor}
 {157600}{}{Fal}
 {157700}{}{Fal}
-{157800}{}{Erõtér-generátor}
-{157900}{}{Erõtér-generátor}
-{158000}{}{Erõtér-generátor}
+{157800}{}{Er?tér-generátor}
+{157900}{}{Er?tér-generátor}
+{158000}{}{Er?tér-generátor}
 {158100}{}{Fal}
 {158200}{}{Fal}
-{158300}{}{Erõtér-generátor}
-{158400}{}{Erõtér-generátor}
+{158300}{}{Er?tér-generátor}
+{158400}{}{Er?tér-generátor}
 {158500}{}{Fal}
 {158600}{}{Fal}
 {158700}{}{Ajtókeret}

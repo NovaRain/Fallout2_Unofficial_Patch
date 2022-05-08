@@ -348,21 +348,21 @@
 {18100}{}{Vršek výtahu}
 {18101}{}{Díváš se na horní èást výtahu.}
 {18200}{}{Poèítaèová konzole}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Jednoduchý terminál propojený kabelem s hlavním poèítaèem.}
 {18300}{}{Poèítaèová konzole}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Jednoduchý terminál propojený kabelem s hlavním poèítaèem.}
 {18400}{}{Emblém}
 {18401}{}{Erb Bratrstva. Ozubená kola symbolizují technické vìdomosti Bratrstva, meè jejich odhodlání se bránit a køídla znamenají nadìji, která umírá poslední.}
 {18500}{}{Emblém}
 {18501}{}{Erb Bratrstva. Ozubená kola symbolizují technické vìdomosti Bratrstva, meè jejich odhodlání se bránit a køídla znamenají nadìji, která umírá poslední.}
 {18600}{}{Oznaèení 'Jednièka'}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Myslíš si, že by to mohlo znamenat, že jsi v prvním patøe.}
 {18700}{}{Oznaèení 'Dvojka'}
 {18701}{}{You are on level two.}
 {18800}{}{Oznaèení 'Trojka'}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Urèitì to znamená, že jsi ve tøetím patøe.}
 {18900}{}{Oznaèení 'Ètyøi'}
-{18901}{}{You must be on level four.}
+{18901}{}{Nejspíš budeš ve ètvrtém patøe.}
 {19000}{}{Palanda}
 {19001}{}{Vojenská palanda. Vypadá velmi nepohodlnì a prostìradlo je napnuté jako kšandy.}
 {19100}{}{Palanda}
@@ -915,7 +915,7 @@
 {48200}{}{Dveøe}
 {48201}{}{Tyto dveøe nápadnì pøipomínají dveøe do skladištì.}
 {48300}{}{Korouhvièka}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Jednoduchá korouhvièka, která umožòuje obyvatelùm pustin v omezené míøe pøedpovídat poèasí.}
 {48400}{}{Oltáø}
 {48401}{}{Jednoduchý oltáø ze zdobeného døeva.}
 {48500}{}{Pódium}
@@ -1127,7 +1127,7 @@
 {59600}{}{Nástìnka}
 {59601}{}{Na nástìnce je pøipíchnuto množství zpráv pro zamìstnance. Vypadá používanì.}
 {59700}{}{Shack}
-{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
+{59701}{}{Aèkoliv je tato bouda stará pøes sto let, je stále v perfektním stavu.}
 {59800}{}{Cedule}
 {59801}{}{Cedule s nápisem: Smíšené zboží.}
 {59900}{}{Cedule}

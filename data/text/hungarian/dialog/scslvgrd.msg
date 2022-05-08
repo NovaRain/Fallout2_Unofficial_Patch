@@ -1,4 +1,4 @@
-{100}{}{Nagy faszi + nagy puska + járkál = Õr.}
+{100}{}{Nagy faszi + nagy puska + járkál = ?r.}
 {101}{}{You still see a guard.}
 {102}{}{A homlokán ott van a rabszolga-hajcsárok tetkója, ami nem teszi intelligensebbé.}
 {103}{}{Beszélj Mr. Vortisszal, ne velem!}

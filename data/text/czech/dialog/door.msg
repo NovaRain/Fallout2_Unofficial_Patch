@@ -102,8 +102,8 @@
 {201}{}{ zkušenì odstraòuje past.}
 {202}{}{ se nepodaøilo zneškodnit past na dveøích.}
 {203}{}{Dveøe se zdají bıt zamèené.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Všímáš si pasti v zárubni dveøí.}
+{205}{}{ si všimne pasti v zárubni dveøí.}
 {206}{}{Nemùeš umístit past na dveøe, kdy jsou otevøené.}
 {207}{}{ nemùe umístit past na dveøe, kdy jsou otevøené.}
 {208}{}{Zkušenì umisuješ past na rám dveøí.}

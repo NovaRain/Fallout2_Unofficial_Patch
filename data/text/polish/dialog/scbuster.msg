@@ -18,7 +18,7 @@
 {117}{}{Co mo¿esz mi powiedzieæ o Franku Westinie?}
 {118}{}{Pragnê spotkaæ siê ze Starym Carlsonem. Znasz kogoœ, kto móg³by mi pomóc?}
 {119}{}{Masz mo¿e GECK?}
-{120}{}{That's nice stranger, but I ain't no charity.}
+{120}{}{To mi³e z twojej strony, ale ja nie jestem organizacj¹ charytatywn¹.}
 {121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested.  Let it go cheap -- $500.}
 {122}{}{Hej, nic mi ju¿ nie zosta³o.}
 {123}{}{Dobra, umowa stoi.}

@@ -348,21 +348,21 @@
 {18100}{}{Haut de l'ascenseur}
 {18101}{}{Tu regardes une partie de l'ascenseur.}
 {18200}{}{Console informatique}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Voici un terminal passif relié par un câble à l'ordinateur central.}
 {18300}{}{Console informatique}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Voici un terminal passif relié par un câble à l'ordinateur central.}
 {18400}{}{Emblème}
 {18401}{}{Le symbole de la Confrérie. Les mécanismes représentent leurs connaissances en ingénierie, l'épée leur volonté à se défendre et les ailes l'espoir enrichissant.}
 {18500}{}{Emblème}
 {18501}{}{Le symbole de la Confrérie. Les mécanismes représentent leurs connaissances en ingénierie, l'épée leur volonté à se défendre et les ailes l'espoir enrichissant.}
 {18600}{}{Pancarte de l'étage 'Un'}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Tu penses que cela peut signifier que tu te trouves au premier étage.}
 {18700}{}{Pancarte de l'étage 'Deux'}
 {18701}{}{You are on level two.}
 {18800}{}{Pancarte de l'étage 'Trois'}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Cela doit signifier que tu es au troisième niveau.}
 {18900}{}{Pancarte de l'étage 'Quatre'}
-{18901}{}{You must be on level four.}
+{18901}{}{Tu dois être au quatrième niveau.}
 {19000}{}{Lits superposés}
 {19001}{}{Lits superposés de style militaire. Ils n'ont pas l'air confortable.}
 {19100}{}{Lits superposés}
@@ -915,7 +915,7 @@
 {48200}{}{Porte}
 {48201}{}{Cette porte ressemble étrangement à la porte d'un entrepôt.}
 {48300}{}{Girouette}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Cette simple girouette aide les habitants des terres désolées à étudier le temps.}
 {48400}{}{Autel}
 {48401}{}{Simple autel en bois peint.}
 {48500}{}{Podium}
@@ -1127,7 +1127,7 @@
 {59600}{}{Tableau d'affichage}
 {59601}{}{Des informations d'embauche sont agrafées sur le tableau. Il semble très utilisé.}
 {59700}{}{Shack}
-{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
+{59701}{}{Cette guérite de gardien à plus de cent ans et elle est toujours en excellent état.}
 {59800}{}{Panneau}
 {59801}{}{Le panneau indique : Magasin.}
 {59900}{}{Panneau}

@@ -149,8 +149,8 @@ no alizar de porta.}
 {201}{}{ habilmente desarma a armadilha.}
 {202}{}{ falha para desarmar a armadilha.}
 {203}{}{A porta parece estar bloqueada.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Você percebe uma armadilha no batente da porta.}
+{205}{}{ percebe uma armadilha no batente da porta.}
 {206}{}{Você não conseguir colocar uma armadilha na porta, porque
 a porta está aberta.}
 {207}{}{ é incapaz de colocar uma armadilha nesta porta, porque 

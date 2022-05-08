@@ -348,21 +348,21 @@
 {18100}{}{Parte superior do elevador}
 {18101}{}{Você está olhando para uma parte de um Elevador.}
 {18200}{}{Gabinete do computador}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Este é um terminal remoto, conectado por um cabo a um computador principal. É a tecnologia da Irmandade.}
 {18300}{}{Gabinete do computador}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Este é um terminal remoto, conectado por um cabo a um computador principal. É a tecnologia da Irmandade.}
 {18400}{}{Emblema}
 {18401}{}{O símbolo da Irmandade. A roda representa o seu conhecimento em engenharia, a espada é a sua vontade de defender-se, e as asas são a esperança do fortalecimento.}
 {18500}{}{Emblema}
 {18501}{}{O símbolo da Irmandade. A roda representa o seu conhecimento em engenharia, a espada é a sua vontade de defender-se, e as asas são a esperança do fortalecimento.}
 {18600}{}{Cartaz de 'nível um'}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Você acha que isso pode significar que você está no nível um da Irmandade.}
 {18700}{}{Cartaz de 'nível dois'}
 {18701}{}{Você está no nível dois.}
 {18800}{}{Cartaz de 'nível três'}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Isto deve significar que você está no nível três da Irmandade.}
 {18900}{}{Cartaz de 'nível quatro'}
-{18901}{}{You must be on level four.}
+{18901}{}{Você deve estar no nível quatro da Irmandade.}
 {19000}{}{Beliche}
 {19001}{}{Uma beliche no estilo militar. Parece muito desconfortável. Eles também parecem saltar umas moedas em suas roupas.}
 {19100}{}{Beliche}
@@ -915,7 +915,7 @@
 {48200}{}{Porta}
 {48201}{}{Esta porta é suspeita, comum como em qualquer loja.}
 {48300}{}{Cata-vento}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Este cata-vento ajuda as pessoas a estudar o clima.}
 {48400}{}{Altar}
 {48401}{}{Um altar simples feito de madeira pintada.}
 {48500}{}{Pódio}
@@ -1127,7 +1127,7 @@
 {59600}{}{Quadro de avisos}
 {59601}{}{Há ofertas de emprego grampeados na placa. Parece muito usado.}
 {59700}{}{Posto de Guarda}
-{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
+{59701}{}{Este Posto de Guarda deve ter mais de cem anos de idade, mas ainda em excelente estado de conservação.}
 {59800}{}{Cartaz}
 {59801}{}{O cartaz diz: Armazém Geral.}
 {59900}{}{Cartaz}

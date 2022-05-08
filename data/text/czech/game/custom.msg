@@ -29,11 +29,11 @@
 {402}{}{Odstøeluj je pìknì z dálky}
 {403}{}{Jak je ti libo}
 {404}{}{Zùstaò na jednom místì}
-{500}{}{Whoever is attacking me}
+{500}{}{Toho, kdo útoèí na mì}
 {501}{}{Toho nejsilnìjšího}
 {502}{}{Toho neslabšího}
 {503}{}{Koho chceš}
-{504}{}{Whoever is closest}
+{504}{}{Toho, kdo je nejblíž}
 {600}{}{Nic neber}
 {601}{}{Stimpaky, kdykoliv máš zranìní}
 {602}{}{Stimpaky, když máš vážné zranìní}
