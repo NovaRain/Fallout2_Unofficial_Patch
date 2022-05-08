@@ -3,7 +3,7 @@
 {102}{}{You see a very old but still spry-looking ghoul.}
 
 {103}{hld1a}{I gotta tell ya, ol' Harold's a bit slow on the draw hisself. The two of us talkin' wouldn't get a whole lot done.}
-{104}{hld1b}{Ahh, ain't you cute.  I just don't have time to try understanding ya right now.}
+{104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
 {105}{hld1c}{Heh heh, ain't you a kick. }
 
 {106}{hld2a}{Hello there, smoothskin. The name's Harold. I help keep this town running.}
