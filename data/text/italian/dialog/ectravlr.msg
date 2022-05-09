@@ -5,12 +5,12 @@
 {104}{}{Che cosa fai?}
 {105}{}{Ug.}
 {106}{}{Beh... non saprei. Sono nuovo di queste parti e ho visitato solo queste zone.}
-{107}{}{New Reno}
-{108}{}{Vault City}
-{109}{}{Redding}
-{110}{}{Il Den}
-{111}{}{San Francisco}
-{112}{}{New California Republic}
+{107}{}{New Reno.}
+{108}{}{Vault City.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Una miniera abbandonata.}
 {114}{}{No, li' ci sono gia' stato. Grazie lo stesso.}
 {115}{}{New Reno -- un gran bel posto dove andare. Sesso, droghe e gioco d'azzardo. Cosa si puo' chiedere di piu'? Ecco, lascia che ti mostri dove si trova.}

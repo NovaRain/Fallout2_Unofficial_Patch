@@ -38,7 +38,8 @@
 {267}{}{(Ti studia.) Allora... come fai TU a conoscere Moore? Sta cercando di fare della politica all'interno delle tribu', adesso? Ah! Quel ragazzo ha sbagliato lavoro.}
 {268}{}{L'ho incontrato a Vault City, mentre diffondeva il verbo. Mi sono offerto di aiutarlo consegnandole questa valigetta.}
 {269}{}{L'ho incontrato casualmente durante il mio viaggio. Mi sono offerto di aiutarlo consegnando questa valigetta a lei.}
-{275}{}{Heh... dannatamente gentile da parte tua... con tutto quel suo predicare, il vecchio "Tomcat" Moore sembra proprio non avere l'opportunita' di scendere dal suo palco abbastanza a lungo da poter fare lavori che richiedano spostamenti. Eh eh... tuttavia, questo non lo rende differente da nessun altro tizio di NCR. }
+{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{Predica molto. Tuttavia, le sue parole sembrano avere senso.}
 {277}{}{Ha un certo... "stile", con le parole.}
 {278}{}{Certo, beh, ad un certo punto il lavoro deve essere fatto e io vengo chiamato per fare in modo che le cose vengano consegnate... proprio come quella valigetta.}

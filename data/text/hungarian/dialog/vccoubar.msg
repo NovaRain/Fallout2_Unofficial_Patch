@@ -130,7 +130,7 @@
 {229}{}{Értem. Mást kérdeznék.}
 {230}{}{Egy ital jót tenne. Mit ajánl?}
 {231}{}{Köszönöm az információt. Viszlát!}
-{232}{}{Ó... nem, nem... ez nem rabszolgaság. A városban dolgozó emberek csupán szolgák... magamat is beleértve. Nagyon jól bánnak velünk, megtanítottak írni és olvasni. Ezenkívül rendszeres orvosi ellátást, szálláshelyet és ételt is kapunk.}
+{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
 {233}{}{Mindent megkap... leszámítva a szabadságot, igaz?}
 {234}{}{Ha nem panaszkodik, nem lesz probléma. Felejtse el, hogy megkérdeztem!}
 {235}{}{Már semmit. Egy italt szeretnék. Mije van?}

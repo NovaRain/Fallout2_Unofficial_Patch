@@ -2,7 +2,7 @@
 {101}{}{You see a villager.}
 {102}{}{Ahoj.}
 {103}{}{Hezký den.}
-{104}{}{Welcome to our Village.}
+{104}{}{Vítej v naší vesnici.}
 {105}{}{Tyhle monstra nás chrání.}
 {106}{}{Hurry back.}
 {107}{}{We'll need those guns soon.}

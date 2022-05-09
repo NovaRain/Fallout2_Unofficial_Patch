@@ -150,7 +150,7 @@
 {251}{}{Klucz prezydencki rozpoznany, dzień dobry panie Prezydencie... Inicjuje Awaryjne Wyłączanie Systemów Obronnych... Wykonuję dokładną diagnostykę. Alfa... Bravo... Charlie...}
 {252}{}{(Z jakiegoś dziwnego powodu wydaje mi się, że na razie nie chcę tego robić.) Wróć.}
 {253}{}{(Lepiej zmykać, zanim to coś skończy tę całą diagnostykę.). Wyloguj.}
-{254}{}{Presidential Security Passkey not recognized.  Access denied.}
+{254}{}{Nie rozpoznano klucza prezydenckiego. Odmowa dostępu.}
 {255}{}{(Hmmm, ciekawe, czy dam radę oszukać skaner, że mam klucz, jeśli włamię się do pliku dostępowego. Chyba spróbuję.)}
 {256}{}{(No cóż, zawsze warto było spróbować.) Wróć.}
 {257}{}{Zanotowano awarię skanera kluczy dostępowych... Trwa ponowne uruchamianie skanera...}

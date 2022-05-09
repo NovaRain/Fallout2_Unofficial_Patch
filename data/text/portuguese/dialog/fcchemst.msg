@@ -31,7 +31,7 @@
 {130}{}{Na verdade, é de interesse. Eu gostaria de combustível para o Poseidon navio Petroleiro.}
 {131}{}{Aposto que seria de interesse para os Hubologistas. Eles querem combustível.}
 {132}{}{Não, ainda não. Mas eu vou estar de volta.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship.  It is the one called Crockett that you will wish to speak with.}
+{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
 {134}{}{Eu vou fazer isso.}
 {135}{}{Eu não posso fazer promessas.}
 {136}{}{Eu tenho uma aqui.}

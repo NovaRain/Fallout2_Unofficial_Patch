@@ -28,7 +28,7 @@
 {173}{}{Já vím, že to dokážu opravit. Potøebuju jenom nìjaký náhradní díly. V mojí chatì v Klamathu je starý rádio, který má v sobì pøesnì to, co potøebuju. Znáš to u bratrù Duntonových? Moje chata je... vlastnì byla na východ odtamtud.}
 {174}{}{Myslíš tohle rádio?}
 {175}{}{Pùjdu se po nìm podívat.}
-{176}{}{Hmmm...  I'll be back.}
+{176}{}{Hmmm... ještì se vrátím.}
 {177}{}{To je skvìlý! Hned to rádio opravím.}
 {178}{}{Dobøe, promluvím si s Metzgerem.}
 {179}{}{Díky.}

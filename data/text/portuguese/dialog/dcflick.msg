@@ -29,7 +29,7 @@
 {301}{}{Uh, não.}
 {302}{}{Ah, OK. Deixe-me perguntar-lhe algo mais.}
 {303}{}{Ah, eu vejo. Bem, eu não quero atrapalhar seu estilo. Adeus.}
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Eles me trazem coisas que eles acham. Pequenas e pequenas coisas. Coisas, ninguém já não usa mais. Em troca, eu cuido deles.}
 {316}{}{Soa como um bom arranjo.}
 {325}{}{(Flick dá de ombros) eu consigo OK.}
 {326}{}{Deixe-me perguntar sobre outra coisa, então.}

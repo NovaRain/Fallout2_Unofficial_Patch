@@ -115,8 +115,7 @@
 {481}{}{Eh... nenamáhej si mozek, ségro. Hlavnì si nìjak neubliž, jasný?}
 {482}{}{Hi tý hi tý hi tý hou.}
 {490}{}{Mùžu ti sehnat COKOLIV, brácho. Jestli se chceš proletìt a vznášet se v nebeskejch výšinách, Jules ví, kam jít. Takže moje otázka zní: Bez èeho nemùžeš dál žít?}
-{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOURS pleasure?}
+{491}{}{Jules ti sežene cokoliv budeš chtít, ségro. Jestli se chceš proletìt a vznášet se v nebeskejch výšinách, Jules ví, kam jít. Takže moje otázka zní: Bez èeho nemùžeš dál žít?}
 {492}{}{Jules ti sežene cokoliv budeš chtít, moje sladká sestøièko. Jestli se chceš proletìt a vznášet se v nebeskejch výšinách, Jules ví, kam jít. Takže moje otázka zní: Bez èeho nemùžeš dál žít?}
 {493}{}{Jasný, jasný... takže co potøebuješ?}
 {494}{}{Mùžeš mi øíct nìco o New Renu?}

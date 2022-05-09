@@ -43,7 +43,7 @@
 {157}{}{On dirait que le temps est en train de changer.}
 {158}{}{J'ai trouvé un bon filon au Sud d'ici.}
 {159}{}{Si t'en as dans la tête, tu ferais mieux d'éviter les frères Dunton.}
-{160}{}{If your anxious, try the Bathhouse.}
+{160}{}{Si t'es à bout, va faire un tour aux Bains.}
 {161}{}{Prends vers l'Ouest et va à Trapper Town, si tu veux trouver un endroit où pieuter.}
 {162}{}{Bienvenue.}
 {163}{}{J'espère que tu aimes notre ville.}

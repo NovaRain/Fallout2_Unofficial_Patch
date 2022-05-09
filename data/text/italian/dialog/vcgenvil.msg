@@ -2,7 +2,7 @@
 {101}{}{Vedi un'abitante del villaggio.}
 {102}{}{Salve.}
 {103}{}{Buona giornata.}
-{104}{}{Benvenuto nel nostro Villaggio.}
+{104}{}{Welcome to our village.}
 {105}{}{I mostri ci proteggono.}
 {106}{}{Vattene.}
 {107}{}{Quelle armi ci serviranno presto.}

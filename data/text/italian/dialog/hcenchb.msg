@@ -14,12 +14,12 @@
 {113}{}{Non mi va molto a genio. Ho come l'impressione che la sua paga sia sempre un po' piÃ¹ alta della mia. Non Ã¨ giusto.}
 {114}{}{Beh, Marcus sospetta che Chad stia facendo la cresta sul denaro destinato a Broken Hills.}
 {115}{}{Grazie. Ciao.}
-{116}{}{Grazie. Sono davvero felice che sia finita. Tu pero' faresti bene a guardarti le spalle.}
+{116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
 {117}{}{Addio.}
 {118}{}{Il nemico! Muori!}
 {119}{}{Oops.}
-{120}{}{(Abbassa la voce e si guarda attorno) Dev'essere proprio cosi'. Una volta l'ho visto con i miei occhi prendere una "parte" del denaro che aveva ottenuto da una spedizione di uranio a Gecko.}
-{121}{}{Davvero? E allora perche' non ne hai parlato con Marcus?}
+{120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
+{121}{}{Really? Then why didn't you report that to Marcus?}
 {122}{}{Ma sei scemo? Se facessi la spia, un sacco di gente qui in cittÃ  non mi guarderebbe piu' in faccia. E poi posso sempre trovare un modo per vendicarmi.}
 {123}{}{Uhm... potrei dirlo io a Marcus. Tanto non mi fermero' a lungo da queste parti.}
 {124}{}{Ok. Fa' quel che vuoi, ma non dire ad anima viva che te l'ho detto io. Questa conversazione non c'e' mai stata, ok?}

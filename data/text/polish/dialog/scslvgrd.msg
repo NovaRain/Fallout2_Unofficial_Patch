@@ -1,4 +1,4 @@
-{100}{}{Big guy - gun  -- standing around. Guard.}
+{100}{}{Duży facio - spluwa - stoi tu. Pilnuje.}
 {101}{}{Ciągle widzisz strażnika.}
 {102}{}{Na czole ma tatuaż łowcy niewolników, co nie przyczynia się do tego, aby wyglądał inteligentniej.}
 {103}{}{Gadaj z Panem Vortisem, nie ze mną.}

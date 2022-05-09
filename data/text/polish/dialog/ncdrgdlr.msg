@@ -19,7 +19,7 @@
 {215}{}{Chcesz uczcić zwycięstwo odrobiną Jetu? Przychodzisz we właściwe miejsce. Dla ciebie WSZYSTKO mam po specjalnej cenie.}
 {216}{}{Mogę zrobić przynajmniej tyle, że spuszczę dla ciebie ceny. To taki mały wyraz wdzięczności za ocalenie skóry.}
 {217}{}{Nie ma to skopać tyłek Enklawie i strzelić sobie Jetu, no nie? Dobrze mówię? Dla ciebie wszystkie moje towary po specjalnych cenach.}
-{218}{}{I got shit that'll help you kiss the sky, hero.  And for you: a nice discount. How does that sound?}
+{218}{}{Mam coś, co pomoże ci pocałować niebo. I specjalnie dla ciebie: ze zniżką. Co ty na to?}
 {219}{}{Masz cukierki? }
 {220}{}{Odejdź}
 {221}{}{Co masz?}
@@ -27,7 +27,7 @@
 {230}{}{Hej, hej... toż to klient wielkiego formatu. Dla CIEBIE stary mam specjalne ceny. Opowiedz o mnie swoim kumplom, dobra?}
 {231}{}{Chcesz się zabawić przy odrobinie Jetu, przyjacielu? Przychodzisz do właściwego człowieka. Dla ciebie WSZYSTKO mam po specjalnych cenach.}
 {232}{}{Mój drogi przyjacielu, mam tyle Jetu, że mógłbym wysłać cię na orbitę. I mam dla ciebie zniżkę. Pogadamy o cenie?}
-{233}{}{I got shit that'll help you kiss the sky, friend.  And for you: a discount. That sound all right?}
+{233}{}{Mam coś, co pomoże ci pocałować niebo. I mam dla ciebie zniżkę. Brzmi nieźle, co?}
 {234}{}{Mogę zrobić przynajmniej tyle, że spuszczę dla ciebie ceny. W ten sposób okazuję swą przyjaźń.}
 {235}{}{Wiesz, że masz klasę? Klasę. A kiedy ktoś z taką klasą jak ty zadaje się ze mną, dostaje zniżkę na moje towary, kumasz?}
 {236}{}{Daj mi znać, w jaki sposób mogę pomóc właśnie TOBIE, przyjacielu. Powiedz, czego chcesz, a dam ci to po najlepszych stawkach w mieście.}

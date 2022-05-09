@@ -33,7 +33,7 @@
 {132}{}{Byłoby to dla mnie zaszczytem, święty ojcze.}
 {133}{}{Czy poprosiłeś mnie właśnie o wytępienie chwastów z twojego ogrodu? Jeśli tak, to nie ma sprawy.}
 {134}{}{Za opłatą.}
-{135}{hak006}{To ask payment for a gift will bring you less than the gift itself.  I will give you such and add the lesson of your self-disappointment at the receiving.}
+{135}{hak006}{Żądać zapłaty za prezent przynosi mniej niż sam podarunek. Dam ci to i dodam nauczkę w postaci rozczarowania cię przy odbiorze przez twoją własną osobę.}
 {136}{}{Może być. Gdzie jest ogród?}
 {137}{}{Wiesz, miłym prezentem byłoby, gdybyś zaczął MÓWIĆ PO LUDZKU!}
 {138}{}{A co jeśli dam ci nauczkę w postaci rozczarowania wychodząc stąd natychmiast? Żegnam.}

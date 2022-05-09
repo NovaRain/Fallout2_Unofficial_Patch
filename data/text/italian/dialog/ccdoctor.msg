@@ -97,7 +97,7 @@
 {196}{}{Non sono pericoloso, non spararmi.}
 {197}{}{Non mi sono arruolato per combattere, lasciami in pace.}
 {198}{}{Dannazione! Sono un dottore, non un soldato!}
-{200}{}{[Avanti]}
+{200}{}{[AVANTI]}
 {201}{}{Vorrei farti delle domande.}
 {202}{}{Non adesso. Spiacente di averla disturbata.}
 {800}{}{Hai ucciso il dottor Schreber.}

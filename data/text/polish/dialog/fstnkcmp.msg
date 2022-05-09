@@ -14,10 +14,10 @@
 {113}{}{[Wróć.]}
 {114}{}{Wyloguj się.}
 {115}{}{BŁĄD: Zbiorniki paliwowe puste.}
-{116}{}{ERROR: Navagation Computer non Functional.}
+{116}{}{ERROR: Navigation Computer non Functional.}
 {117}{}{-Zbiorniki paliwowe: Puste- Ładownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
 {118}{}{-Zbiorniki paliwowe: Pełne- Ładownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
 {119}{}{Widzisz Komputer Nawigacyjny PosejdoNetu.}
 {129}{}{[Szybko wprowadzasz procedurę odbijania, a statek odpływa prędko od platformy.]}
 {130}{}{[dalej]}
-{131}{}{Navigation computer on-line.}
+{131}{}{Navigation Computer on-line.}

@@ -19,8 +19,8 @@
 {208}{}{Grunt}
 {209}{}{Grunt - Grunt.}
 {210}{}{Moi pas aimer parler}
-{211}{}{Yoo smell guuud.}
+{211}{}{Toi sentir bon}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo cute. Me no hit you.}
-{214}{}{Yoo make me blush.}
+{214}{}{Toi me faire rougir}
 {215}{}{Uhhh... Moi Rico...}

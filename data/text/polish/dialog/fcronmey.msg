@@ -51,7 +51,7 @@
 {150}{}{Dzięki. Na razie.}
 {151}{}{To duży błąd zadzierać z Kapitanem i jego przyjaciółmi...}
 {152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well.  I bet you'd find parts for it in one of those old vaults.}
+{153}{}{A tak. Musisz jeszcze zmusić komputer nawigacyjny do działania. Założę się, że znajdziesz części do niego w jednej z tych starych krypt.}
 {154}{}{Dobrze cię znowu widzieć. Czego potrzebujesz?}
 {155}{}{, i o ile się nie mylę, tam też są twoi przyjaciele.}
 {156}{}{.}

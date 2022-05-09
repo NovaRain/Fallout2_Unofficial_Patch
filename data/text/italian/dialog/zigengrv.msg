@@ -96,7 +96,7 @@
 {377}{}{"Sarah Smart: Oratrice, Autrice, Professoressa, De Amicitia."}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
 {379}{}{"Jughead - King of Queen Archie's World."}
-{380}{}{"R.I.P Casey Donahue. Morto il 6/8/98. Ucciso da una Spigola Mutante molto irritabile."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Piedi a Patata" Nielson. Musicista. Passato a miglior vita all'eta' di 104 anni, durante un assolo di tamburo."}
 {383}{}{"Nitsa - La ragione per cui Charles non ebbe il suo hockey."}

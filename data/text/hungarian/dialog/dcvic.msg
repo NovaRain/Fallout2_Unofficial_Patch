@@ -29,7 +29,7 @@
  My shack's... well, it was just east of their place.}
 {174}{}{Erre a rádióra gondolsz?}
 {175}{}{Megyek és megkeresem!}
-{176}{}{Hhmmm... Még visszanézek!}
+{176}{}{Hmmm... I'll be back.}
 {177}{}{Nagyszerű! Pillanatokon belül megjavítom a rádiót!}
 {178}{}{Oké, beszélek Metzgerrel.}
 {179}{}{Kösz.}

@@ -24,7 +24,7 @@
 {123}{}{Udało ci się to naprawić? Bez żadnych części? To niesamowite! Gdzie cię tego nauczyli?}
 {124}{}{Huh-huh!}
 {125}{}{Po prostu jakoś tak wyszło i już.}
-{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books.  You see. Get money. Good... Not like you can read, after all.}
+{126}{}{Kumam. Należysz do tych wariatów - jak ich zwą? Uczeni idioci. No tak, idiota czy nie, należy ci się nagroda. Ty - NA-GRODA. Dam ci śliczne książki. Popatrz. Weź pieniądze. Dobrze... pewnie i tak nie umiesz czytać.}
 {127}{}{No tak, to nie za wiele, ale mam kilka książek - starych instrukcji obsługi. Są twoje. Weź je.}
 {128}{}{Hej, popatrz Toto. To ten nieznajomy, który nam pomógł. Dziękujemy panu.}
 {129}{}{Kurde! Cały obwód się sfajczył. Naprawienie tego zajmie wieki. Nie mam czasu na rozmowę. Chodź Toto.}

@@ -19,7 +19,7 @@
 {118}{}{No. Ho delle altre domande.}
 {119}{}{Si', certo.}
 {120}{}{Io sviluppo nuove tecnologie e in cambio becco una parte dei privilegi riservati al culto, se capisci cosa intendo.}
-{121}{}{Dunque tu non sei Hubologista?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Ho capito. Ho delle altre domande.}
 {123}{}{No. Che cosa intendi?}
 {124}{}{Quali nuove tecnologie hai sviluppato?}

@@ -115,7 +115,8 @@
 {481}{}{Eh... ne akasszál hasba, kishugi. Mostan má' vigyázzál magadra, he?}
 {482}{}{Hé lá hé lá hé lá hó}
 {490}{}{Bármit szeretnél, én megszerzem neked, testvérem. "Ha épp repülni akarsz, hát betépsz s nem zavarsz, ha érzed a vágyat, én tudok egy ágyat. A lényeg a lényeg, nálam a kincs, az benne a jó, hogy lehetetlen nincs!"}
-{491}{}{Bármit is szeretnél, Jules a TE embered, húgocskám. "Ha épp repülni akarsz, hát betépsz s nem zavarsz, ha érzed a vágyat, én tudok egy ágyat. A lényeg a lényeg, nálam a kincs, az benne a jó, hogy lehetetlen nincs!"}
+{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
+ Question is: I gots the treasure, so what's YOUR pleasure?}
 {492}{}{Bármit is szeretnél, Jules a TE embered, édes kis húgom. "Ha épp repülni akarsz, hát betépsz s nem zavarsz, ha érzed a vágyat, én tudok egy ágyat. A lényeg a lényeg, nálam a kincs, az benne a jó, hogy lehetetlen nincs!"}
 {493}{}{Hogyne, hogyne... A lényeg a lényeg, nálam a kincs, az benne a jó, hogy lehetetlen nincs!}
 {494}{}{Mesélnél egy kicsit New Renóról?}

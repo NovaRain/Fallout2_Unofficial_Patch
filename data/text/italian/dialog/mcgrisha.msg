@@ -124,8 +124,8 @@
 {603}{}{Uhhh, e' morta.}
 {604}{}{Miria era viva quando l'ho lasciata, ma sono quasi sicuro che a quest'ora sia morta.}
 {605}{}{Davin era vivo quando l'ho lasciato, ma sono quasi sicuro che a quest'ora sia morto.}
-{606}{}{Davin, uhhh, non poteva viaggiare, ma gli diro' che lo saluti, quando lo rivedro'.}
-{607}{}{Miria, uhhh, non poteva viaggiare, ma le daro' un abbraccio da parte tua, quando la rivedro'.}
+{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
+{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
 {700}{}{Aggg... [Un'espressione scioccata compare sul volto di Grisham mentre, con una mano, improvvisamente si stringe il petto e crolla per terra.]}
 {750}{}{Beh, adesso devo tornare al lavoro. Ci vediamo.}
 {800}{}{Hai salvato i brahmin di Grisham.}

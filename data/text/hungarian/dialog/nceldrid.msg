@@ -167,7 +167,7 @@
 {610}{}{Felajánlom, hogy addig húzz onnan kifelé, amíg szarrá nem lőlek.}
 {700}{}{Rohadt kutyák! Hátra kell mennem aludni.}
 {701}{}{Idióta kutyái... Holnap az lesz az első, hogy mindannyiótokat elaltatlak...}
-{702}{}{Befognátok a szátokat, kutyák! Senki nem olyan hülye, hogy egy fegyverboltba törjön be!}
+{702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
 {800}{}{Szereztél egy lézerpisztolyt Eldridge számára.}
 {801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
 {802}{}{Come back when you got the money.}

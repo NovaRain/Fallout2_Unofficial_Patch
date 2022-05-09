@@ -36,7 +36,7 @@
 {127}{}{Analizowanie Polecenia Proszę Czekać...                            
  Polecenie Użytkownika Unieważnione                              
  Dostęp Zabroniony}
-{128}{}{[More]}
+{128}{}{[KONTYNUUJ]}
 {129}{}{Aby Wyłączyć Alarm Wciśnij - 1                                      
  Aby Uruchomić Program Diagnostyczny Wciśnij - 2             
  Aby Wyjść Wciśnij - 3}
@@ -70,7 +70,7 @@
  Dostęp do tego Terminala został Zakończony.}
 {145}{}{Wyjdź.}
 {146}{}{Zamykanie Programu Diagnostycznego.}
-{147}{}{[More]}
+{147}{}{[KONTYNUUJ]}
 {300}{}{                                       
  Tożsamość Potwierdzona: }
 {301}{}{                       

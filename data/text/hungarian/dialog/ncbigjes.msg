@@ -122,7 +122,7 @@
 {472}{}{Meg. Elvittem a csomagot Ramireznek.}
 {473}{}{Yes, I've been to the Stables and dropped off your package... do you know what they DO there? They're torturing
  slaves with drugs.}
-{474}{}{Igen, átadtam a csomagot annak a Ramirez nevű őrnek... azt tudta, Senor Mordino, hogy az a fickó egy Jet-kazán? Bűzlött a Jettől!}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Akkor mit keresel itt? (Nagy Jesus letörli a homlokát, aztán mély lélegzetet vesz.) MIÉRT nem szállítottad le a csomagot?}
 {481}{}{Előbb szeretnék feltenni néhány kérdést...}
 {482}{}{Indulok és most azonnal elviszem.}
@@ -191,7 +191,7 @@
 {664}{}{Salvatore barátunkat kegyetlenül őrzik. Azt hiszem, vissza kell mondanom ezt a megbízatást.}
 {670}{}{Ha... visszatáncolsz, meg kell hogy... ÖLESSELEK.}
 {671}{}{Hát ha ez a tényállás, akkor inkább megpróbálok valamit.}
-{672}{}{Próbáljon csak bármit, és rögtön csatlakozhat a Salvatorék által lemészárolt Mordinók népes táborához.}
+{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 {680}{}{Nekem is tudomásomra jutott. (Elismerően biccent.) Jól dolgoztál... Nem hiába vetettem beléd a bizalmam. Itt van a fizetséged. Ötszáz... dollár. }
 {681}{}{Kösz.}
 {682}{}{Ez, egyelőre... megteszi.}

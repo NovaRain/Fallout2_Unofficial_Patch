@@ -1,5 +1,5 @@
 {100}{}{A kutya egy border collie-nak tűnik.}
-{101}{}{Öcsi.}
+{101}{}{You see Laddie.}
 {102}{}{Ez a kutya szerfelett szemfülesnek és intelligensnek mutatkozik.}
 {103}{}{Nincs kétséged afelől, hogy ez a kutya valószínűleg agyasabb nálad.}
 {150}{}{Vaú!}

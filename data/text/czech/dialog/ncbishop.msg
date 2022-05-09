@@ -38,8 +38,7 @@
 {267}{}{(Prohlédne si tì.) Takže... odkud znáš Moora? Snaží se teï dìlat politiku mezi kmeny? Haha! Ten chlap se minul povoláním.}
 {268}{}{Potkal jsem ho ve Vault City, když šíøil svá slova. Nabídl jsem mu, že vám doruèím tenhle kuføík.}
 {269}{}{Narazil jsem na nìho pøi svých cestách. Nabídl jsem mu, že vám doruèím tenhle kuføík.}
-{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- to do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+{275}{}{Hehe... zatracený chlap... zdá se, že je starý Tomcat Moore natolik zaneprázdnìný tím svým kázáním, že ani nemùže na chvíli odejít, aby si nìco vyøídil. Hehe... ale stejnì se vùbec neliší od tìch chlápkù z NCR.}
 {276}{}{Je pravda, že káže èasto. A vìtšinou to i dává smysl.}
 {277}{}{Je pravda, že má svùj vlastní... zpùsob vyjadøování.}
 {278}{}{Jo no, práce se sama neudìlá a tak mì obèas nìkdo požádá o doruèení... napøíklad tohohle kuføíku.}

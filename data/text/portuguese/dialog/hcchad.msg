@@ -7,10 +7,8 @@
 {122}{}{Deerk deegler!}
 {123}{}{Você quem?}
 {124}{}{Marcus tem feito algumas perguntas sobre você.}
-{125}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. You're going down.}
-{126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
+{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
 {127}{}{Quem é você?}
 {128}{}{Conte-me sobre este lugar.}
 {129}{}{Nada. Tchau.}
@@ -18,8 +16,7 @@
 {131}{}{A-deus!}
 {132}{}{Eu sou Chad. }
 {133}{}{Olha, eu estou muito ocupado. Por favor encontre outra pessoa para importunar.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade
- routes. These days I'm focusing primarily on Gecko. }
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{Tudo bem!}
 {136}{}{Eu gostaria trabalhar com você.}
 {137}{}{Me sua interessante.}
@@ -32,10 +29,10 @@
 {142}{}{Eu tenho mais perguntas.}
 {143}{}{Adeus.}
 {144}{}{Como o quê?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Na verdade nada, adeus.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Fale com o Bill. Ele irá te ajudar.}
 {157}{}{Eu tenho mais perguntas.}
 {158}{}{Obrigado. Tchau.}

@@ -125,8 +125,8 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando o
 {603}{}{Uhhh, ela está morta.}
 {604}{}{Miria estava viva quando eu a deixei, mas tenho certeza que agora ela está morta.}
 {605}{}{Davin estava vivo quando eu o deixei, mas tenho certeza que ele está morto agora.}
-{606}{}{Davin , uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria , uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin , uhhh, não pode fazer a viagem, direi que você mandou um, "oi," quando vê-lo.}
+{607}{}{Miria , uhhh, não pode fazer a viagem, direi que você mandou um, "oi," quando vê-la.}
 {700}{}{Aggg... [Um olhar chocado passou pelo rosto de Grisham ele pôs a mão no peito e caiu no chão.]}
 {750}{}{Bem, Tenho que voltar ao trabalho. Vejo você por ai.}
 {800}{}{Você salvou os brahmins de Grisham.}

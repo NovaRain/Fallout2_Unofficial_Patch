@@ -23,7 +23,7 @@
 {115}{}{}
 {116}{}{}
 {117}{}{Ug}
-{118}{}{Wyjdź.}
+{118}{}{Wyjście.}
 {119}{}{Jestem Skynet. Projekt Sztucznej Inteligencji numer 59234.
  Główne zadanie to Badania i Rozwój. Poboczne zadanie to Ochrona Składu Wojskowego Sierra przed wrogimi bytami.
  Proszę Wprowadzić Tożsamość}
@@ -31,7 +31,7 @@
 {121}{}{Jestem Kapral Dixon.}
 {122}{}{Jestem }
 {123}{}{Jestem sprzymierzeńcem.}
-{124}{}{Wyjdź.}
+{124}{}{Wyjście.}
 {125}{}{Zdjęcie nie zgadza się z tym, które zamieszczono w aktach   
  Kaprala Dixona.                                                       
  Wniosek: Obiekt kłamie                                              
@@ -42,7 +42,7 @@
 {127}{}{}
 {128}{}{}
 {129}{}{}
-{130}{}{Wyjdź.}
+{130}{}{Wyjście.}
 {131}{}{Brak danych o takiej osobie w aktach osobowych                
  Trwa Skanowanie...                                                   
  Człowiek - Kobieta                                                  
@@ -59,14 +59,14 @@
 {136}{}{}
 {137}{}{}
 {138}{}{}
-{139}{}{Wyjdź.}
+{139}{}{Wyjście.}
 {140}{}{Definicja: Sprzymierzeniec                                            
  Rzeczownik - Ktoś, kto nie jest wrogiem                        
  Przejdź do sterowni w celu dalszej analizy                     
  -Koniec Transmisji-}
 {141}{}{}
 {142}{}{}
-{143}{}{Wyjdź.}
+{143}{}{Wyjście.}
 {200}{}{ nie może odczytać tego, co wyświetla monitor.}
 {300}{}{Komputer wydaje się mieć jakiś rodzaj mechanizmu obronnego.}
 {301}{}{Ulegasz porażeniu za }

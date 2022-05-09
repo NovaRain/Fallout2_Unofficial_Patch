@@ -38,9 +38,7 @@
 {535}{}{To ja rozumiem... (mrużąc oczy pochyla się nad tobą) ...zapytałbym Julesa przy wjeździe do miasta. Nic się obok niego nie prześlizgnie... a jeśli się PRZEŚLIZGNĘŁO, to on maczał w tym palce, kumasz?}
 {540}{}{(Wzrusza ramionami) Czasem coś słyszę, czasem coś widzę. Być może za 200 dolców podzieliłbym się swoimi doświadczeniami, łapiesz?}
 {550}{}{Coś z twoimi uszami? POWIEDZIAŁEM 200 dolców i nie zmienię zdania.}
-{555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
- weapon upgrades, but I never see him do any work. You might want to check out his place... but
-  you didn't hear that from me.}
+{555}{}{Stoi. (Monte pochyla się nad tobą) Widzisz, znasz tego faceta, co prowadzi Bronie z Ner Reno, Eldridge'a? On MÓWI, że ulepsza bronie, ale nigdy nie widziałem go przy pracy. Może warto by obejrzeć jego dom... ale ja ci tego nie mówiłem.}
 {560}{}{Umrzykowo na południe od miasta. Śmierdzi jak diabli, o tak.}
 {565}{}{Stawiałbym na Renesco, tego starego dupka, który prowadzi aptekę w zachodzniej dzielnicy. Nie mam pewności, czy SPRZEDAŁ to dzieciakowi, ale COŚ wie. (Rozgląda się) To wszystko, co mam do powiedzenia.}
 {570}{}{(Rozgląda się, po czym zdejmuje jeden z butów, odkręca obcas i wyjmuje ze środka kartę... na karcie widać mężczyznę w dziwnej czapce, trzymającego w ręku pałkę.) No i jak? Autentyczna pamiątka sprzed wojny.}

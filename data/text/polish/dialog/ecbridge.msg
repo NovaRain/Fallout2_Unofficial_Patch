@@ -65,7 +65,7 @@
 {164}{}{Dokładnie. Możesz przejść.}
 {165}{}{Pędol siem}
 {166}{}{Cacy}
-{167}{}{Oh, thank you.  Thank you very much.}
+{167}{}{Och, dziękuję. Dziękuję bardzo.}
 {168}{}{Tego nie wiem!}
 {169}{}{Gracz został zdezintegrowany.}
 {170}{}{He, he.}

@@ -1,12 +1,10 @@
 {100}{}{You see a cybernetic robot.}
 {101}{}{Szép mérnöki munka, ami tovább homályosítja a határt ember és robot között.}
 {102}{}{Skynet veled fog utazni.}
-{103}{}{Skynet köszöni az embernek.                                      
-   Skynet szeretne szívességet kérni.                             
- Skynet szeretne az emberrel utazni.}
+{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
 {104}{}{}
 {105}{}{}
-{106}{}{                             [Hmm... talán ez a szerkentyű még hasznos lehet.]}
+{106}{}{                              [This contraption could be useful.]}
 {107}{}{Magaddal viszed a robotot.}
 {108}{}{Mégis itt hagyod a robotot.}
 {109}{}{Befejezés}

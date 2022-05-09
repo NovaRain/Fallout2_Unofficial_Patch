@@ -32,7 +32,7 @@ escravista. O que você está fazendo aqui?}
   Minha barraca ... bem, estava exatamente a leste de seu lugar.}
 {174}{}{Você quer dizer esse rádio?}
 {175}{}{Eu irei procurá-lo.}
-{176}{}{Hmmm...  I'll be back.}
+{176}{}{Hmmm... eu vou estar de volta.}
 {177}{}{Isso é ótimo! Eu vou ter o rádio consertado em poco tempo.}
 {178}{}{Tudo bem, eu vou falar para Metzger.}
 {179}{}{Obrigado.}

@@ -37,7 +37,7 @@
 {261}{}{Znów szlag wszystko trafił!}
 {262}{}{Muszę wziąć jeszcze pare żetonów...}
 {263}{}{Psia twoja mać! Oddawaj żetona...}
-{270}{}{You done have my apology, stranger.  Luck be with ya.}
+{270}{}{Przepraszam kurmać najmocniej. Niech ci Bozia da zdrówko.}
 {271}{}{Znowu się zapomniałem. To przez to diabelne, pustynne słońce.}
 {272}{}{::Uchyla niewidzialnego kapelusza::}
 {275}{}{}

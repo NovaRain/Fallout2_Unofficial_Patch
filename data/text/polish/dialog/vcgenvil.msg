@@ -2,7 +2,7 @@
 {101}{}{You see a villager.}
 {102}{}{Cześć.}
 {103}{}{Do widzenia.}
-{104}{}{Welcome to our Village.}
+{104}{}{Witaj w naszej wiosce.}
 {105}{}{Potwory nas bronią.}
 {106}{}{Hurry back.}
 {107}{}{We'll need those guns soon.}

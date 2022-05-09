@@ -75,9 +75,7 @@
 {323}{}{Czy mogę jeszcze o coś zapytać?}
 {324}{}{Bywaj.}
 {330}{}{Ponieważ takie z ciebie miłe towarzystwo, zdradzę ci tajemnicę. To bardzo proste - mam destylator. Przyjaciel z sąsiedniego miasta nauczył mnie jak się nim posługiwać. No to jak, napijesz się jeszcze?}
-{331}{}{Sorry, it's a trade secret. Plus, I don't really know you that well. I wouldn't
- want Frankie finding out. He's enough trouble as it is.  Did you still want one? They
- really hit the spot.}
+{331}{}{Przykro mi, ale to tajemnica firmy. Poza tym nie znam cię aż tak dobrze. Nie chciałabym, żeby Frankie się dowiedział. Mam z nim wystarczająco dużo kłopotów. Dalej chcesz się napić? Ta whiskey naprawdę daje kopa.}
 {332}{}{Z chęcią. Poproszę jednego drinka.}
 {333}{}{Czy mogę jeszcze o coś zapytać?}
 {334}{}{Dobra, dzięki.}

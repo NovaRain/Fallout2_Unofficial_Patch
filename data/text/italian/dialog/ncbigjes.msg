@@ -120,7 +120,7 @@
 {471}{}{No, non ho ancora consegnato il pacco.}
 {472}{}{Si', l'ho consegnato a Ramirez come mi aveva chiesto.}
 {473}{}{Si', sono stato alle Stalle e ho consegnato il pacco... e sai cosa FANNO li' dentro? Torturano degli schiavi usando delle droghe.}
-{474}{}{Si', ho consegnato il suo pacco a quella guardia, Ramirez... Lo sa che quel tizio e' strafatto di Jet? PUZZA persino di Jet.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Allora... perche' sei qui? (Big Jesus si asciuga la fronte, poi prende un profondo respiro.) PERCHE' non hai consegnato il pacco?}
 {481}{}{Beh, prima avrei delle domande...}
 {482}{}{Vado subito a farlo.}
@@ -189,7 +189,7 @@
 {664}{}{Salvatore e' troppo ben sorvegliato. Mi vedo costretto a rinunciare al lavoro.}
 {670}{}{Se... rinunci a questo lavoro, saro' costretto ad... UCCIDERTI.}
 {671}{}{Dal momento che la metti su questo piano, tornero' quando sara' morto.}
-{672}{}{Provaci, e ti unirai ai Mordino massacrati dai Salvatore.}
+{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 {680}{}{Cosi' ho sentito anch'io. (Annuisce con rispetto.) Hai fatto un... buon lavoro. La mia fiducia in te non e' mal posta. Ecco il... tuo pagamento. Cinquemila... dollari. }
 {681}{}{Grazie.}
 {682}{}{Puo' bastare... per adesso.}

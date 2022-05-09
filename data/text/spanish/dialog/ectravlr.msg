@@ -5,12 +5,12 @@
 {104}{}{¿Qué haces?}
 {105}{}{Uhg.}
 {106}{}{Bueno... no lo sé. Soy nuevo por aquí y sólo he ido a las siguientes zonas.}
-{107}{}{Nuevo Reno}
-{108}{}{Ciudad Refugio}
-{109}{}{Redding}
-{110}{}{La Guarida}
-{111}{}{San Francisco}
-{112}{}{RNC}
+{107}{}{New Reno.}
+{108}{}{Ciudad Refugio.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Una mina abandonada.}
 {114}{}{No, ya he estado ahí antes. Gracias de todos modos.}
 {115}{}{New Reno.. ese es un gran sitio al que ir. Sexo, drogas y apuestas. ¿Qué más se puede pedir? Aquí, déjame señalarte el lugar.}

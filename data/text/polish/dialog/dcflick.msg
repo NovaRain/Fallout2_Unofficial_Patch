@@ -29,7 +29,7 @@
 {301}{}{Ee, nie.}
 {302}{}{W porządku. Chcę cię jeszcze o coś zapytać.}
 {303}{}{Ach, rozumiem. No to nie będę ci przeszkadzać. Żegnaj.}
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Pszynoszą mi wszystkie swoje snalesiska. Takie tam malutkie pierdułki. Takie, co to ich nikt inny nie potszebuje. A ja się nimi w samian opiekuję.}
 {316}{}{To chyba niezły układ.}
 {325}{}{[Flick wzrusza ramionami] Jakoś sobie wspólnie radzimy.}
 {326}{}{To może zapytam cię o coś innego?}

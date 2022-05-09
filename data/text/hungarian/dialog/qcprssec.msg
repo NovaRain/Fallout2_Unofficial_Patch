@@ -4,7 +4,7 @@
 {103}{}{Hé? Mit szeretnél édes?}
 {104}{}{Most nem lehet, az előbb tisztítottam le a ruhámat.}
 {105}{}{Ezúttal mit szeretne, Fontos úr?}
-{106}{}{Nem hiába jó *FASZ*i ez a Richardson.}
+{106}{}{They don't call him *Dick* Richardson for nuthin'.}
 {107}{}{Jobban gépelek, mint te.}
 {108}{}{Kopoghatnál is, mielőtt így berontasz.}
 {109}{}{Szájat kéne öblögetnem.}

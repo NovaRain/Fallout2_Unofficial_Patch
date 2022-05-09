@@ -130,7 +130,7 @@
 {229}{}{Hmmm. Chci se ještì na nìco zeptat...}
 {230}{}{Aha. No, dám si nìco k pití. Co tady toèíte?}
 {231}{}{Zajímavé. Díky za informace. Sbohem.}
-{232}{}{Oh, no, no... it's not slavery. Those people you seeing working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Ale ne, ne...to není otroctví. Ti lidé, které vidíte pracovat ve mìstì, jsou služebníci...vèetnì mì. Zacházejí s námi velmi dobøe. Uèí nás èíst, psát, máme kde bydlet a máme i jídlo a lékaøskou péèi.}
 {233}{}{Takže máte všechno kromì svobody, že?}
 {234}{}{Pokud vám to nevadí, tak je to v poøádku. Zapomeòte, že jsem se ptal.}
 {235}{}{Dám si nìco k pití. Co tady toèíte?}

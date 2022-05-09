@@ -20,7 +20,7 @@
 {119}{}{Gonić. Moja trupić.}
 {120}{}{Przykro mi, ale przepustka gdzieś mi zginęła, a o haśle nic mi nie wiadomo.}
 {121}{}{Wal się ty i wszyscy, którzy cię przypominają!}
-{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization.  Do I make myself clear?}
+{122}{gate5}{Lepiej będzie, jeśli natychmiast opuścisz ten kompleks i wrócisz tu dopiero z upoważnieniem. Czy jasno się wyrażam?}
 {123}{}{Tak.}
 {124}{gate6a}{Rozumiem. Hasło, proszę?}
 {125}{gate6b}{Rozumiem. (kładzie dłoń na broni) Wszyscy rekruci zgłaszają się do służby w pojedynkę. Lepiej będzie, jeśli opuścisz ten kompleks i wrócisz bez... eskorty. Czy wyrażam się jasno?}

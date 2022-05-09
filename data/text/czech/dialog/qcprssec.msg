@@ -4,7 +4,7 @@
 {103}{}{Ano? Co potøebuješ, kocourku?}
 {104}{}{Teï ne, zrovna jsem si vyèistila šaty.}
 {105}{}{Copak dìlá náš Pan Dùležitý?}
-{106}{}{They don't call him *Dick* Richardson for nuthin'}
+{106}{}{Neøíkají mu *Dick* Richardson pro nic za nic.}
 {107}{}{Umím psát i na stroji.}
 {108}{}{Pøíštì nejdøív zaklep než sem vtrhneš.}
 {109}{}{Potøebuju ústní vodu.}

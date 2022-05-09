@@ -104,7 +104,7 @@
 {203}{}{Jestem ACE, Aktywne Centrum Elektronowe. Jestem więcej niż maszyną, ale nie aż tak wysoko rozwiniętą, jak prawdziwa Sztuczna Inteligencja.}
 {204}{}{Yy... Co być Sztuczna Inteligencja?}
 {205}{}{Czy prawdziwa SI jest możliwa, czy też jest to obecnie nieosiągalna sztuka?}
-{206}{}{It is a machine with the same free will and sense of  'I am' that a human has.}
+{206}{}{To maszyna o wolnej woli i poczuciu własnego "ja" jakie ma człowiek.}
 {207}{}{Zrobić można? Maszyna myśleć człowiek?}
 {208}{}{Prawdziwa Sztuczna Inteligencja jest możliwa. Kilka takich systemów zostało ukończonych dla potrzeb wojskowych. Projekt jednak upadł.}
 {209}{}{Dlaczego?}

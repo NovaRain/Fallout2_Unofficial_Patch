@@ -9,9 +9,9 @@
 {108}{}{Mit tudsz felajánlani?}
 {109}{}{Nincs semmim, amit elcserélhetnék. Sajnálom.}
 {110}{}{Akkor talán máskor? Kívánom, hogy elkerüljön a veszély!}
-{111}{}{Viszlát!}
+{111}{}{Köszönöm. Viszlát!}
 {112}{}{Milyen kár. Akkor pihenj meg, és légy üdvözölve a táborunkban!}
-{113}{}{Viszlát!}
+{113}{}{Thank you. Bye.}
 {114}{}{A nap bizonyára elpárologtatta a szavakat az agyadból, de úgy illik, hogy kedves legyek a kevésbé szerencsésekhez is. Nyugodtan maradj a táborban, ameddig csak kedved tartja, egyszerű barátom!}
 {115}{}{Viszlát!}
 {116}{}{Hitetlen!}

@@ -60,8 +60,8 @@
 {159}{}{Nech si to.}
 {160}{}{Fajn, tak nechtìj. Díky za nic.}
 {161}{}{Nevadí.}
-{162}{}{Hi, friend! }
-{163}{}{Oh, good. It's you again. }
+{162}{}{Nazdar pøíteli!}
+{163}{}{A hele, to jsi zase ty.}
 {164}{}{Nazdárek.}
 {165}{}{Já vìdìl, že ti bastardi Franc, Manson, Jacob a Aileen proti nám nìco mají. Dobrá práce! Takže...}
 {166}{}{Doufám, že chceš vrátit mìstu tu rudu... takže...}

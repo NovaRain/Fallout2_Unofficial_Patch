@@ -84,10 +84,7 @@
 {183}{}{Eh bien, ça peut aider si ton nez n'est pas très sensible. Ces mineurs ne sont pas très portés sur l'eau et le savon.}
 {184}{}{Vraiment ? C'est peut-être pas mon truc, après tout. Merci quand même. Au revoir.}
 {185}{}{Je sais pas comment tu fais, mais j'imagine que t'as du mal à le supporter. Au revoir.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need for Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+{186}{}{[Fannie donne l'impression qu'un poids énorme vient de s'envoler de ses épaules.] Hé c'est toi ! Lou m'a raconté ce que tu as fait. Le truc qu'elle m'a filé à boire m'a rendu malade, mais je ne ressens plus aucun besoin de Jet à présent. [Elle t'embrasse sur la joue.] Je ne sais pas comment je pourrais te remercier... Hmm il y a bien un *moyen*. Chaque fois que tu te sentiras un peu seul, viens ici, ce sera gratuit. [Elle te fait un clin d'oeil.]}
 {187}{}{Je m'en souviendrai. Merci, Fannie.}
 {188}{}{Merci encore. N'oublie pas, c'est sur le compte de la maison pour toi. [Elle te fait un clin d'oeil.]}
 {189}{}{Hé salut ! Tu cherches à passer du bon temps avec Fannie ? Offert par la maison, bien sûr.}

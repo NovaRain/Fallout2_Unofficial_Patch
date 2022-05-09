@@ -1,5 +1,5 @@
 {100}{}{Pelo visto é um cão da raça collie.}
-{101}{}{Laddie.}
+{101}{}{You see Laddie.}
 {102}{}{Este cão realmente parece ser alerta e inteligente.}
 {103}{}{Você não tem dúvidas que este cão é mais inteligente que você.}
 {150}{}{Woof!}

@@ -1,10 +1,10 @@
 {100}{}{Um robô cibernético.}
 {101}{}{Um belo exemplo de engenharia que demonstra profundamente a mistura dos limites entre humanos e robôs.}
 {102}{}{Skynet irá viajar com você.}
-{103}{}{Skynet thanks the human.                                      Skynet wishes to ask favor.                                      Skynet wishes to travel with human.}
+{103}{}{Skynet agradece o humano.                                      Skynet deseja pedir um favor.                                      Skynet deseja viajar com humano..}
 {104}{}{}
 {105}{}{}
-{106}{}{                                    [This contraption could be useful.]}
+{106}{}{                                    [Essa geringonça pode ser útil.]}
 {107}{}{Levar o robô com você.}
 {108}{}{Deixar o robô.}
 {109}{}{Sair}

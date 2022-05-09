@@ -1,6 +1,6 @@
 {100}{}{Fischer.}
 {101}{}{Du kommst genau im richtigen Augenblick, um den Segen der Meeresgöttin mitzuerleben.}
-{102}{}{[Weiter]}
+{102}{}{[Mehr]}
 {103}{}{}
 {104}{}{Kurz vor einem großen Sturm werfen wir Speere ins Meer, um den Elementen unsere Tapferkeit zu beweisen. Wenn wir uns als würdig erweisen, belohnt uns die Göttin mit Früchten.}
 {105}{}{Wenn die Jahreszeit der Stürme anbricht, werfen wir Broc-Blumen mit der Flut ins Meer. Nachdem die Göttin ihren Zauber beendet hat, gibt sie uns die Broc-Blumen als seltene Xander-Wurzel zurück. }

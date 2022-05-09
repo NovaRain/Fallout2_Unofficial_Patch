@@ -96,7 +96,7 @@
 {377}{}{« Sarah Smart : Orateur, auteur, professeur. De Amicitia. »}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
 {379}{}{"Jughead - King of Queen Archie's World."}
-{380}{}{« Ici repose Casey Donahue tué le 6/8/98 par un mutant nommé *loup de mer grincheux*. »}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{« Jay Nielson, dit *pied de patate*. Musicien. Est mort à l'âge de 104 ans, en exécutant un solo de batterie. »}
 {383}{}{« Nitsa : La raison pour laquelle Charles n'a pas été chanceux. »}

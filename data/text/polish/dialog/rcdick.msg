@@ -83,9 +83,7 @@
 {182}{}{Bo widzisz, w kopalniach zazwyczaj kopały maszyny. Kurcze, kiedyś robili niezły sprzęt. Obydwie kopalnie mają je, ale ktoś, kto je projektował, zapomniał zrobić równie wytrzymałe procesory kontrolne. Żaden z tych, które mają obie kopalnie, nie działa. Hihi.}
 {183}{}{Nie bardzo rozumiem, do czego zmierzasz.}
 {184}{}{Im więcej części, tym szybciej coś się psuje. Dzięki za informację. Do widzenia.}
-{185}{}{Well, what I'm saying is that either mine owner would pay for one of these digger-control-chips.
- Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down  - or
- buy 'em out - in no time.}
+{185}{}{Zmierzam do tego, że każdy z właścicieli kopalni zapłaci sporo kasy za procesor kontrolny. Ha! Jeśli, któraś miałaby taki działający procesor, to mogłaby spokojnie wygryźć tę drugą z interesu lub wykupić.}
 {186}{}{Szkoda, że nikt nie wie, gdzie zdobyć taki procesor.}
 {187}{}{Muszę sprawdzić dokładnie, ile by zapłacili za tę zabawkę. Dzięki. Do widzenia.}
 {188}{}{Lepiej umyj sobie uszy! Przecież powiedziałem ci, gdzie szukać tego cholernego procesora. Nie słyszysz mnie czy jak? W kopalni Wanamingo były takie maszyny i działały, dopóki nie zamknięto jej. Procesory pewnie nadal w niej są i tylko czekają, aż ktoś je zgarnie!}

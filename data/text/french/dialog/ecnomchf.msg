@@ -9,9 +9,9 @@
 {108}{}{Quels produits proposez-vous ?}
 {109}{}{Je n'ai rien à échanger, je regrette.}
 {110}{}{Peut-être une autre fois, hein ? Que tes voyages se passent sans danger !}
-{111}{}{Salut.}
+{111}{}{Merci. Au revoir.}
 {112}{}{Quel dommage... Alors repose-toi et sois ici chez toi.}
-{113}{}{Salut.}
+{113}{}{Thank you. Bye.}
 {114}{}{Ma proposition est arrivée trop tard. Le soleil a déjà brûlé les mots dans ton cerveau. Je dois être bon avec les moins bien lotis que moi. Reste aussi longtemps qu'il te plaira dans mon campement, faible d'esprit...}
 {115}{}{Salut.}
 {116}{}{Infidèle !}

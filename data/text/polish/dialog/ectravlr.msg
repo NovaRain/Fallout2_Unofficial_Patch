@@ -5,16 +5,15 @@
 {104}{}{Co tutaj robisz?}
 {105}{}{Ug.}
 {106}{}{No nie wiem. Nie znam zbyt dobrze tych stron. Wiem, gdzie leżą.}
-{107}{}{Nowego Reno}
+{107}{}{New Reno.}
 {108}{}{Kryptopolis}
-{109}{}{Redding}
-{110}{}{Nory}
-{111}{}{San Francisco}
-{112}{}{Republika Nowej Kalifornii}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Opuszczona kopalnia.}
 {114}{}{Nie, te miejsca już znam. Mimo to - dzięki.}
-{115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling.  What more can one ask for?
- Here, let me show you where it is.}
+{115}{}{Nowe Reno - to dopiero wspaniałe miejsce. Seks, narkotyki i hazard. Czego więcej chcieć od życia? Czekaj, pokażę ci gdzie to jest.}
 {116}{}{Dziękuję.}
 {117}{}{Kryptopolis - to dopiero miasto kretynów. Wystarczy, że wyrośnie ci dodatkowy palec i traktują cię jak jakieś dziwadło. Nie byłem w środku, ale wiem gdzie to jest.}
 {118}{}{Dziękuję.}

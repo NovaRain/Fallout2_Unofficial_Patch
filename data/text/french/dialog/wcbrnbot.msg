@@ -1,10 +1,10 @@
 {100}{}{Tu vois un robot cybernétique.}
 {101}{}{Une belle réalisation technique contribuant au rapprochement entre humains et robots.}
 {102}{}{Skynet voyagera avec toi.}
-{103}{}{Skynet thanks the human.                                      Skynet wishes to ask favor.                                      Skynet wishes to travel with human.}
+{103}{}{Skynet remercie l'humain. Skynet veut demander un service. Skynet veut voyager avec l'humain. }
 {104}{}{}
 {105}{}{}
-{106}{}{                                    [This contraption could be useful.]}
+{106}{}{[Ce machin peut toujours être utile.]}
 {107}{}{[Emmener le robot avec toi]}
 {108}{}{[Laisser le robot]}
 {109}{}{[Quitter]}

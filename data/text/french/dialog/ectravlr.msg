@@ -5,12 +5,12 @@
 {104}{}{Que fais-tu ?}
 {105}{}{Ug.}
 {106}{}{Ben, j'sais pas. J'suis pas depuis longtemps dans le coin, je connais seulement les endroits suivants.}
-{107}{}{New Reno}
-{108}{}{La Cité de l'Abri}
-{109}{}{Redding}
-{110}{}{La Fosse}
-{111}{}{San Francisco}
-{112}{}{R.N.C.}
+{107}{}{New Reno.}
+{108}{}{La Cité de l'Abri.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Une mine abandonnée.}
 {114}{}{J'y suis déjà allé. Merci quand même.}
 {115}{}{New Reno, c'est une super ville. Le paradis du sexe, de la drogue et du jeu. Que demander de plus ? Regarde, je vais t'montrer où c'est...}

@@ -31,7 +31,7 @@
 {130}{}{Az a helyzet, hogy érdekel a dolog. Üzemanyagot szeretnék a Poseidon Olaj Tankerbe.}
 {131}{}{Le merném fogadni, hogy a Hubologistákat érdekelné. Üzemanyagra fáj a foguk.}
 {132}{}{Egyelőre valóban nem. Később viszont lehet. Majd még jövök!}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship.  It is the one called Crockett that you will wish to speak with.}
+{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
 {134}{}{Úgy lesz.}
 {135}{}{Nem ígérhetek semmit.}
 {136}{}{Épp itt van nálam egy.}

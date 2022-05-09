@@ -1,6 +1,6 @@
 {100}{}{Vidíš rybáøe.}
 {101}{}{Pøišel jsi právì vèas, aby ses stal svìdkem požehnání Bohynì moøe.}
-{102}{}{[More]}
+{102}{}{[Více]}
 {103}{}{}
 {104}{}{Tìsnì pøed velkou bouøí vrhneme své kopí do moøe, abychom prokázali svou odvahu proti živlùm. Pokud prokážeme, že jsme toho hodni, Bohynì nás odmìní plody.}
 {105}{}{Když zaène období bouøí, házíme do moøe kvìtiny Broc bìhem pøílivu. Bohynì je svými kouzly pøemìní na vzácný koøen Xander.}

@@ -3,8 +3,8 @@
 {102}{}{Vidíš Marca, jednoho z Tylerových stráží.}
 {150}{}{Nazdar, Tylere!}
 {200}{}{What the...?}
-{225}{}{Já vìdìl, že ty sraby dostanem.}
-{226}{}{Díky za tip. To byla fakt sranda.}
+{225}{}{Díky za tip. To byla fakt sranda.}
+{226}{}{Já vìdìl, že ty sraby dostanem.}
 {227}{}{Škoda, že jsme je všechny zabili. Co teï budeme dìlat?}
 {228}{}{Jsme skvìlý, že jo?}
 {229}{}{Jsme fakt dobrý.}

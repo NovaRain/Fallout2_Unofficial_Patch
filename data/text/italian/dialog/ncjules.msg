@@ -115,7 +115,8 @@
 {481}{}{Eh... non sforzare il cervello, sorellina. Pensa solo a non farti male, capito?}
 {482}{}{Hi tee hi tee hi tee ho}
 {490}{}{Puoi avere QUALSIASI cosa ti serva, fratello. Se vuoi farti un trip, sballare, tuffarti in un turbine di lussuria, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
-{491}{}{Qualunque siano i tuoi bisogni, Jules e' l'UOMO giusto, sorella. Se vuoi farti un trip, sballare, fare sesso, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
+{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
+ Question is: I gots the treasure, so what's YOUR pleasure?}
 {492}{}{Qualunque siano i tuoi bisogni, Jules e' l'UOMO giusto, dolce sorella. Se vuoi farti un trip, sballare, fare sesso, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
 {493}{}{Certamente, certamente... io ho i tesori, TU cosa desideri?}
 {494}{}{Puoi parlarmi un po' di New Reno?}

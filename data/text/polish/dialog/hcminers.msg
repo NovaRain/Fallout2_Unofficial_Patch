@@ -10,15 +10,13 @@
 {109}{}{Kim jesteś?}
 {110}{}{O, kurcze. Idiota. Dotknęła cię radiacja, co? Nie rozumiem cię. Nie mogę ci pomóc.}
 {111}{}{Powiedziałem, że nie mogę ci pomóc! Idź naprzykrzać się komuś innemu!}
-{112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
- works. There's the saloon. There's the caravaneers, and there's the general store.  That's about it.
- Wait... what were we talking about?}
+{112}{}{Co można robić? Cóż, kopalnia jest zamknięta, bo nie mamy działającego oczyszczacza powietrza. Jest saloon. Są goście od karawan, no i sklep wielobranżowy. To chyba wszystko. Chwila... o czym to mówiliśmy?}
 {113}{}{Z kim mam porozmawiać o kopalni?}
 {114}{}{Gdzie jest saloon?}
 {115}{}{Gdzie są te karawany?}
 {116}{}{Gdzie jest ten sklep?}
 {117}{}{Dzięki. Na razie.}
-{118}{}{Just one of the miners.  Do you want someone important?}
+{118}{}{Jednym z górników. Chcesz kogoś ważnego?}
 {119}{}{Tak.}
 {120}{}{Nie.}
 {121}{}{Bywaj.}

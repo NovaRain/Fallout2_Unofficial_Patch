@@ -56,7 +56,7 @@
 {155}{}{Bardzo mi to pomogło. Mam inne pytania.}
 {156}{}{Skąd ty to wszystko wiesz?}
 {157}{}{Dobra, dobra. Cześć.}
-{158}{}{Child, I am AHS-9.  I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
+{158}{}{Dziecko, jestem UKC-9. Widzę rzeczy, które przenikają do rzeczywistego świata. Czy masz jeszcze inne pytania, czy mogę powrócić do moich medytacji?}
 {159}{}{Więcej pytań.}
 {160}{}{Wróć do swoich medytacji. Nie mam więcej pytań.}
 {161}{}{Cesarz i jego słudzy zostali zabici?}
@@ -82,7 +82,7 @@
 {181}{}{Mój przeciwnik, Cesarz miasta Shi, powoduje, że moje życie staje się żałosne. Chcę, żeby jego życie już się zakończyło. W podzięce dopilnuję, aby twoja osoba znalazła się tam, gdzie musi.}
 {182}{}{Jasne, szefie. Na ra.}
 {183}{}{Raczej nie.}
-{184}{}{Seek out Badger, whose caustic presence holds those  pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
+{184}{}{Poszukaj Badgera, którego obrzydliwa obecność trzyma w kupie tych żałosnych włóczęgów z tankowca. Usuń tę skazę z naszego miasta. Gdy już to zrobisz, porozmawiaj z UKC-9.}
 {185}{}{Jasne, szefie. Na ra.}
 {186}{}{Raczej nie.}
 {187}{}{Chyba nie dałem do zrozumienia, że jest to moja PROŚBA, dziecko. Zabij go!}

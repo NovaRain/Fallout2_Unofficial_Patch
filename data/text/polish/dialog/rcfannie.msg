@@ -84,10 +84,7 @@
 {183}{}{W tej pracy przydaje się mało wrażliwy nos. Ci górnicy chyba nie przepadają za mydłem i wodą.}
 {184}{}{Na serio? Może jednak nie powinnam. Ale dzięki za ofertę. Do widzenia.}
 {185}{}{Taki zapaszek musi ścinać z nóg. Pewnie dlatego pracujesz-na-plecach. Do widzenia.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need for Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+{186}{}{[Fannie wygląda jak by jej ktoś zdjął z ramion ogromny ciężar] Hej, to ty! Lou powiedział mi o tym co udało ci się zrobić. Ten towar który mi podrzuciła nieźle odchorowałam, ale nie czułam głodu na Jet od tamtego czasu. (Całuje cię w policzek.) Nie wiem jak mogłaby ci się odwdzięczyć... cóż, no może znam jeden "sposób". Kiedy tylko będziesz w nastroju, nie wahaj się zajrzeć, nic nie policzę. (mrugnięcie)}
 {187}{}{Będę o tym pamiętać. Dzięki, Fannie.}
 {188}{}{Dziękuję, jeszcze raz. (cmok) Pamiętaj, zawsze na koszt firmy. (mrugnięcie)}
 {189}{}{Witaj! Chcesz spędzić trochę czasu z Fannie? Bez opłaty oczywiście. (uśmiech)}

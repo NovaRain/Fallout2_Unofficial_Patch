@@ -54,7 +54,7 @@
 {139}{}{Przeczytaj list "Handel"}
 {140}{}{Wróć do Menu Głównego}
 {141}{}{Wyjdź.}
-{142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks.  Thank you for your order.}
+{142}{}{To jest potwierdzenie przyjęcia Pańskiego zamówienia na Debbie w Armii i Głębokie Gardło część 1059. Zamówienie powinno nadejść pocztą w ciągu 2 do 4 tygodni. Dziękujemy za Pańskie zamówienie.}
 {143}{}{Przeczytaj inne listy}
 {144}{}{Wyjdź.}
 {145}{}{Ewakuacja Składu Wojskowego Sierra została przyśpieszona o tydzień. Wszystkie środki bezpieczeństwa muszą być uruchomione do tego czasu. Z rozkazu Generała Cliftona.}
@@ -62,7 +62,7 @@
 {147}{}{Wyjdź.}
 {148}{}{[Rozlega się ciche furkotanie i z terminala zaczynają wydobywać się kłęby dymu. Stoisz tak i patrzysz jak klawiatura zamienia się w lepką kałużę. Hm... to musiał być jeden z tych wirusów, o których ci tyle mówiono.]}
 {149}{}{Wyjdź.}
-{150}{}{This is Klinger from the 8063rd.  We're in desperate need of part number 102-53B.  I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
+{150}{}{Tu Klinger z 8063-ciej. Desperacko potrzebujemy części numer 102-53B. Gdybyś mógł wysłać dla nas zamówienie, to mam skrzynkę Chateau Lafayette z 2155. Odpisz mi ASAP.}
 {151}{}{Przeczytaj inne listy}
 {152}{}{Wyjdź.}
 {153}{}{[Cóż za nieprawdopodobne szczęście! Udało ci się zgadnąć     

@@ -3,8 +3,7 @@
 {102}{}{Na napierśniku ma jakieś oznaczenia, które różnią się od tych, które mają inni ludzie w tej okolicy. }
 {103}{}{<Skzzzt-spork> -zbrojownia!}
 {104}{}{Co do- <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor.  Well, all I got is one in for
- maintenance. Might have a few problems still, so take it easy. Just sign here.)}
+{105}{}{(No proszę. Przysłał cię sierżant. Coś, że niby potrzebujesz pancerza wspomaganego. Mam tu tylko jeden, wzięty do naprawy. Coś w nim może jeszcze nie działać, więc uważaj. Podpisz się tutaj.)}
 {106}{}{Uch... czy możesz to powtórzyć?}
 {107}{}{Myślę, że coś jest nie w porządku z twoim pancerzem.}
 {108}{}{Nie ma sprawy.}

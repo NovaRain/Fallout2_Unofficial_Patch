@@ -168,7 +168,7 @@
 {610}{}{Radši odsud hodnì rychle vypadni, nebo tì rozstøílím na cucky.}
 {700}{}{Zatracenı psi! Jdu si lehnout.}
 {701}{}{Pitomı psi! Zejtra ráno vás pìknì uspím.}
-{702}{}{Would you dogs be shut up! Nobody's stupid enough to break into a gun store!}
+{702}{}{Mùete u sklapnout, vy zatracenı psi? Nikdo pøece není tak blbej, aby se vloupal do obchodu se zbranìma!}
 {800}{}{Podaøilo se ti Eldridgemu doruèit laserovou pistoli.}
 {801}{}{Hele, vypadám snad jako nìkdo, kdo umí èarovat? Nejdøív potøebuješ bouchaèku, jestli chceš nìco vylepšit. Take teï vypadni a vra se, a nìjakou budeš mít... to jsou lidi!}
 {802}{}{Vra se, a budeš mít peníze.}

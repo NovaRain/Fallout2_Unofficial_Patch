@@ -103,7 +103,7 @@
 {202}{}{ non riesce a disattivare la trappola.}
 {203}{}{La porta si direbbe chiusa a chiave.}
 {204}{}{Noti una trappola nello stipite della porta.}
-{205}{}{ nota una trappola nello stipite della porta.}
+{205}{}{ noti una trappola nello stipite della porta.}
 {206}{}{Non sei in grado di piazzare una trappola su questa porta perche' la porta e' aperta.}
 {207}{}{ non e' in grado di piazzare una trappola su questa porta perche' la porta e' aperta.}
 {208}{}{Piazzi una trappola nello stipite.}

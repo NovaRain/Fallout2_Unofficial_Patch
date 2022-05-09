@@ -19,8 +19,8 @@
 {208}{}{Mmm.}
 {209}{}{Hmmm- mmm.}
 {210}{}{Já nerad mluvit.}
-{211}{}{Yoo smell guuud.}
+{211}{}{Ty vonìt dobže...}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo cute. Me no hit you.}
-{214}{}{Yoo make me blush.}
+{214}{}{Ty líbit Rico.}
 {215}{}{Ehhh... já Rico...}

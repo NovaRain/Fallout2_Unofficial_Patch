@@ -18,7 +18,7 @@
 {117}{}{Cosa puoi dirmi a proposito di Roger Westin?}
 {118}{}{Vorrei fissare un appuntamento con il vecchio Carlson. Conosci qualcuno che potrebbe aiutarmi?}
 {119}{}{Hai un GECK?}
-{120}{}{Molto bene, straniero, ma io non faccio la carita'.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Forse. Avrei qui un mirino telescopico Triveld x10 - sta benissimo su un fucile da caccia, se sei interessato. Ti faccio un prezzo basso -- 500$.}
 {122}{}{Ehi, mi hai gia' ripulito abbastanza.}
 {123}{}{Sure, it's a deal.}

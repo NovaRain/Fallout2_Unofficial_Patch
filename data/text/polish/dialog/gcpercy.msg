@@ -21,8 +21,7 @@
 {120}{}{Gu? Moja iść pa pa.}
 {121}{}{Chcę ci tylko po-gra-tulować z okazji naprawienia naszego cennego reaktora. Teraz chodzi jak zegarek! No, a poza tym, gdzieś wcięło mojego kumpla Woddy'ego.}
 {122}{}{Muszę ci podziękować za naprawienie naszego reaktora atomowego. Ten chooo-lerny głupol, Festus nigdy by sobie z tym nie poradził. No, a poza tym, gdzieś wcięło mojego kumpla Woody'ego.}
-{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day.  Heh, heh, hee.
- Anyhow's, t'other than that, my friend Woody's done gone missin'.}
+{123}{}{W mieście nie dzieje się zbyt wiele. Podobno Wooz wykopał jakiegoś żółtodzioba z knajpy. He he he. No, a poza tym, gdzieś wcięło mojego kumpla, Woody'ego.}
 {124}{}{Cóż, opowiedz mi o tym coś więcej.}
 {125}{}{Och, to fatalnie. Nie lubię smutnych opowieści. Na pewno wolisz być teraz sam. Do zobaczenia.}
 {126}{}{Jasne, że tak! Mam tu mnóstwo ciekawych rzeczy po bardzo przyzwoitych cenach.}

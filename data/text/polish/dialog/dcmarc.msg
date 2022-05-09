@@ -3,8 +3,8 @@
 {102}{}{Widzisz Marka, jednego ze strażników Tylera.}
 {150}{}{Hej, Tyler!}
 {200}{}{Co do...?}
-{225}{}{Dzięki za cynk. Była niezła zabawa.}
-{226}{}{Widziałem, że dokopiemy tym ciotom.}
+{225}{}{Widziałem, że dokopiemy tym ciotom.}
+{226}{}{Dzięki za cynk. Była niezła zabawa.}
 {227}{}{Szkoda, że wszystkich załatwiliśmy. Teraz będzie nudno, nie?}
 {228}{}{No i kto rządzi w tym mieście, co?}
 {229}{}{Jesteśmy najlepsi.}

@@ -247,7 +247,7 @@
 {346}{}{Eee... no dobrze, ale pamiętaj, że cię ostrzegałem. To nie jest bezpieczne!}
 {347}{}{ za was wszystkich i jesteśmy kwita. Nie mogę pomóc twojemu robomózgowi. Co ty na to?}
 {348}{}{Świetnie! Od dziecka marzę, żeby wyglądać jak robocop! Oto pieniądze i pancerz.}
-{349}{}{All right.  Here we go.}
+{349}{}{W porządku. Zaczynamy.}
 {350}{}{Tracisz -4 do maksymalnej liczby PW.}
 {351}{}{Cio? Ja ciągle czuć się nie dobrze. Ja iść teraz spać.}
 {352}{}{Uh...dbra. Czeeee.}

@@ -51,10 +51,7 @@
 {199}{}{Hmm... }
 {200}{}{I wtedy zaczęły się kłopoty. Karl zaczął opowiadać, że widział w nocy dziwne, jaśniejące postacie opiekujące się uprawami i karmiące zwierzęta. Wyśmialiśmy go, myśląc, że on to sobie wszystko wymyślił. Aż któregoś dnia Karl przestał odwiedzać miasto.}
 {201}{}{Co się z nim stało? Szukaliście go?}
-{202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
- tremble violently.] The horror.  Bodies strewn everywhere.  Some crucified, while others were
- left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
- images I saw that day.}
+{202}{}{Oczywiście, że szukaliśmy! Poszliśmy tam, jak tylko zaczęliśmy podejrzewać, że stało się coś niedobrego. [Jo zaczyna gwałtownie się trząść] Okropność. Wszędzie były trupy. Niektóre ukrzyżowano, inne pozostawiono, by gniły na słońcu. Wciąż budzę się z krzykiem w środku nocy, gdy przypominają mi się straszliwie widoki, które wtedy widziałem.}
 {203}{}{A więc pozwól, że zgadnę. Chcesz wysłać mnie na tę farmę, żeby dowiedzieć się, co się tam stało.}
 {204}{}{W normalnych okolicznościach zostawiłbym po prostu to przeklęte miejsce takim, jakim jest, ale z jakiegoś powodu uprawy na tej farmie kwitną pomimo suszy. Jeśli szybko nie zdobędziemy żywności, umrzemy z głodu. Pomożesz nam pozbyć się duchów z tej farmy?}
 {205}{}{Co będę z tego mieć?}

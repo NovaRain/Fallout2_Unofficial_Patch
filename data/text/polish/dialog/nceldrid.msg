@@ -167,7 +167,7 @@
 {610}{}{Więc sugeruję wyniesienie się stąd, zanim cię rozwalę.}
 {700}{}{Cholerne psy! Wracam do łóżka.}
 {701}{}{Durne psy! Jutro rano każę was uśpić.}
-{702}{}{Would you dogs be shut up! Nobody's stupid enough to break into a gun store!}
+{702}{}{Zamknijcie się wreszcie, cholerne kundle! Nikt nie jest aż tak głupi, żeby włamywać się do sklepu z bronią!}
 {800}{}{Dostarczasz pistolet Eldridgeowi.}
 {801}{}{Hej, czy ja ci wyglądam na magika? Musisz mieć broń, żeby ją modyfikować. A teraz idź już stąd i znajdź coś co mogę ulepszyć...Phi!}
 {802}{}{Wróć z pieniędzmi.}

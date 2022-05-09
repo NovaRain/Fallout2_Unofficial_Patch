@@ -9,9 +9,9 @@
 {108}{}{Che cosa avete?}
 {109}{}{Non ho niente da barattare. Mi dispiace.}
 {110}{}{Sara' per un'altra volta, allora. Possano i vostri viaggi essere liberi dai pericoli.}
-{111}{}{Addio.}
+{111}{}{Grazie. Ciao.}
 {112}{}{Che peccato. Allora riposatevi e siate il benvenuto nel mio accampamento.}
-{113}{}{Addio.}
+{113}{}{Thank you. Bye.}
 {114}{}{La mia offerta d'ombra e' giunta troppo tardi per te. Il sole deve averti bollito via le parole dal cervello. Devo essere gentile con quelli piu' sfortunati di me. Rimani nel mio accampamento per tutto il tempo che vuoi, Mente-ottenebrata.}
 {115}{}{Addio.}
 {116}{}{Infedele!}

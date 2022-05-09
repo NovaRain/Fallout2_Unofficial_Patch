@@ -20,7 +20,7 @@
 {124}{}{Errore!                                                         File del programma non presenti                               Riavviare computer}
 {126}{}{Esci}
 {127}{}{Analisi del comando in corso. Attendere prego...                Ignorato Comando dell'Utente                                  Accesso Negato}
-{128}{}{[Avanti]}
+{128}{}{[AVANTI]}
 {129}{}{Per disattivare l'allarme, premere - 1                          Per un controllo diagnostico, premere - 2                     Per uscire, premere - 3}
 {130}{}{Premi 1}
 {131}{}{Premi 2}
@@ -39,7 +39,7 @@
 {144}{}{Analisi del comando in corso. Attendere prego...                 Annullare All...                                             Ignorato da Skynet; Codice 667                                     L'accesso a questo terminale e' stato interrotto.}
 {145}{}{Esci}
 {146}{}{Uscita dal programma diagnostico in corso.}
-{147}{}{[Avanti]}
+{147}{}{[AVANTI]}
 {300}{}{ - Identita' confermata: }
 {301}{}{
             Ultimo accesso al terminale: }

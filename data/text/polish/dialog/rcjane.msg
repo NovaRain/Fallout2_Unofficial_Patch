@@ -73,7 +73,7 @@
 {172}{}{Duże jaszczury mnie przerażają. Lepiej będę się trzymać od tego z daleka. Dzięki za ostrzeżenie. Do zobaczenia. (myślisz do siebie) *Uff, było blisko*}
 {173}{}{Częścią sportową jest zakład dotyczący wyniku walki. Oto, jak to działa. Przychodzisz do mnie i mówisz, że chcesz postawić zakład. Ja mówię ci, które zwierzaki będą walczyły następne, a ty mi powiesz, na którego stawiasz.}
 {174}{}{Co się dzieje potem?}
-{175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah,  just to keep things nice an' easy, all bets are $100.}
+{175}{}{TO proste, jeżeli twój zwierzak wygra, podwajasz stawkę. Stawka rośnie POTRÓJNIE, jeżeli przeciwnik padnie w pierwszej rundzie! Jeżeli twój zwierzak przegra, pieniądze należą do mnie. Zazwyczaj każdego dnia odbywa się kilka walk. Dopóki zasób zwierząt się nie zmniejszy, możesz stawiać na nie wszystkie. Ale tylko jeden zakład na walkę. A, i żebyśmy sobie wszystko wyjaśnili, to wszystkie zakłady wynoszą $100.}
 {176}{}{OK. Rozumiem. Daj mi spróbować.}
 {177}{}{Rozumiem. Hmm, chyba spróbuję tego kiedy indziej. Do zobaczenia.}
 {178}{}{To będzie festiwal mocy. }

@@ -18,7 +18,7 @@
 {117}{}{Was weißt du über Roger Westin?}
 {118}{}{Ich möchte mich mit dem alten Carlson treffen. Kennst du jemand, der mir dabei helfen kann?}
 {119}{}{Hast du ein GECK?}
-{120}{}{Schön für dich, Fremdling, aber ich bin nicht die Wohlfahrt.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Schon möglich. Ich hätte da eventuell ein Zielfernrohr, Modell Triveld x10 - eignet sich ideal für Jagdgewehre, wenn das jemanden interessiert. Ich mach ein Sonderangebot: 500 Dollar.}
 {122}{}{Hey, du hast mich doch schon ausgenommen.}
 {123}{}{Ja, das geht klar.}

@@ -1,10 +1,10 @@
 {100}{}{Vidíš kybernetického robota.}
 {101}{}{Pìkný kousek techniky, který ještì více stírá rozdíly mezi lidmi a roboty.}
 {102}{}{Skynet pùjde s tebou.}
-{103}{}{Skynet thanks the human.                                      Skynet wishes to ask favor.                                      Skynet wishes to travel with human.}
+{103}{}{Skynet dìkuje èlovìku.                                        Skynet by chtìl požádat o laskavost.                         Skynet chce pokraèovat s èlovìkem.}
 {104}{}{}
 {105}{}{}
-{106}{}{                                    [This contraption could be useful.]}
+{106}{}{                           (Tahle mašinka by mohla být užiteèná.)}
 {107}{}{Vzít si robota s sebou.}
 {108}{}{Ponechat robota tady.}
 {109}{}{Konec.}

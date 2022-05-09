@@ -36,8 +36,7 @@
 {156}{}{Może jeżeli opowiem ci prawdziwą historię, to się zdecydujesz.}
 {157}{}{Dobra. Opowiadaj.}
 {158}{}{Nie, nie bardzo mnie to interesuje.}
-{159}{}{In that case, it's just great being here.  This town has everything you could want... mutant
- sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
+{159}{}{W takim razie to po prostu wspaniale tu być. To miasto ma wszystko, czego można zapragnąć... szeryfa mutanta, kopalnię uranu, szpital, sklep... Możesz to znaleźć praktycznie wszystko. Czy chcesz jeszcze czegoś?}
 {160}{}{Tak.}
 {161}{}{Nie.}
 {162}{}{Wspaniale. Na razie.}
@@ -131,7 +130,7 @@
 {298}{}{Oni mieli zostać wydostani z więzienia, a nie zabici! Co jest z tobą, do cholery!?}
 {299}{}{Przepraszam... Ja po prostu...}
 {300}{}{Po prostu nic. Czy to było przez przypadek, czy nie, nasze plany w tym mieście zostały skutecznie wydymane. Teraz za to zapłacisz.}
-{301}{}{Sorry, friend, but... I just lost my two best friends.  Those bastard muties killed them in prison.}
+{301}{}{Przykro mi, przyjacielu, ale... Właśnie straciłem moich dwóch najlepszych przyjaciół. Ci mutantcy dranie zabili ich w więzieniu.}
 {302}{}{Yyyych. Jaaaaka Szkooooda. Na razie.}
 {303}{}{Y... Jejku. Naprawdę mi przykro. Masz moje kondolencje. Na razie.}
 {304}{}{Ups.}

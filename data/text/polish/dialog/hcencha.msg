@@ -38,8 +38,7 @@
 {137}{}{Pogadaj z Billem, jak zwykle.}
 {138}{}{W porządku.}
 {139}{}{Po tym co spotkało Chada? Nie sądzę. Coś jeszcze?}
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day.  You'll
- earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
+{140}{}{Dotarliśmy. Oto twoje $500. Jeśli chcesz z nami wracać - spadamy stąd pod koniec dnia. Za powrót też zgarniesz kasę. Cokolwiek wybierzesz, my wyruszymy.}
 {141}{}{Cześć.}
 {142}{}{Możemy wyruszać?}
 {143}{}{Dzięki. Oto twoje $500. Jeśli znowu zechcesz się z nami gdzieś wybrać - pogadaj z Billem.}

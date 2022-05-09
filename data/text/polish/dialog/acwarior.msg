@@ -26,7 +26,7 @@
 {173}{}{Oon Ga.}
 {174}{}{ Bezpiecznej podróży, Dziecko Tępoty - dla naszego wspólnego dobra.}
 {175}{}{????}
-{176}{}{You betray us.  You must die.}
+{176}{}{Zdrada! Musisz umrzeć.}
 {177}{}{Zdradzasz swój własny lud!}
 {178}{}{Dlaczego to robisz?}
 {179}{}{Śmierć Dziecku Ciemności!}

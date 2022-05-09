@@ -3,8 +3,8 @@
 {102}{}{Du siehst Marc, eine von Tylers Wachen.}
 {150}{}{Hey Tyler!}
 {200}{}{Was zum...?}
-{225}{}{Ich wusste, dass wir diese Weicheier erledigen können.}
-{226}{}{Danke für den Tip, das hat Spaß gemacht.}
+{225}{}{Danke für den Tip, das hat Spaß gemacht.}
+{226}{}{Ich wusste, dass wir diese Weicheier erledigen können.}
 {227}{}{Schade, dass wir sie alle umgebracht haben. Was machen wir jetzt?}
 {228}{}{Sind wir nicht die Elite?}
 {229}{}{Wir sind einfach gut.}

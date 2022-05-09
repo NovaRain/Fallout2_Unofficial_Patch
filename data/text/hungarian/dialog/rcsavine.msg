@@ -41,7 +41,7 @@
 {140}{}{Hadd kérdezzek valami mást!}
 {141}{}{Kösz, így lesz. Viszlát!}
 {142}{}{Szoktunk karaván-őröket felfogadni, de még nem állunk készen az indulásra. 21-ére fogunk elkészülni. Ha kell a meló, gyere vissza akkor!}
-{143}{}{21-én, milyen időben?}
+{143}{}{Why on the 21st?}
 {144}{}{Mit szállít ez a karaván?}
 {145}{}{OK, kösz. Viszlát!}
 {146}{}{Hé, haver, tudnod kellene, mikor mondj nemet. *Én tudom*. Tehát NEM.}

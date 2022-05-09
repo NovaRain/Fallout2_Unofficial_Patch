@@ -1,7 +1,7 @@
 {100}{}{Egy zsírfoltos ruhájú embert látsz, valószínűleg szerelő.}
 {101}{}{Ő Rondo, a hely tulajdonosa.}
 {102}{}{Szerelőnek tűnik, de oldalfegyvert visel, ami kicsit furcsa.}
-{103}{}{Üdvözöllek, Felderítő. Remélem, nincs semmi gond.}
+{103}{}{Greetings, Ranger. Time's been good, I hope.}
 {104}{}{Egyszer majd kipucoljuk a rabszolgahajcsárokat.}
 {105}{}{Jól van, haver, a maradék hátul van. }
 {106}{}{Bocs, de már kiszálltunk az üzletből.}

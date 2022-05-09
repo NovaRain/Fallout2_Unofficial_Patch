@@ -6,10 +6,8 @@
 {122}{}{Diirk diigler!}
 {123}{}{Ty kto?}
 {124}{}{Marcus pytał o ciebie.}
-{125}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. You're going down.}
-{126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Istnieje wystarczająco dużo dowodów, żeby aresztować cię za kradzież pieniędzy, które należały do Broken Hills. Jesteś skończony.}
+{126}{}{Istnieje wystarczająco dużo dowodów, żeby aresztować cię za kradzież pieniędzy, które należały do Broken Hills. Odpal mi $1000, a załatwię ci ucieczkę z miasta.}
 {127}{}{Kim jesteś?}
 {128}{}{Opowiedz mi o tym miejscu.}
 {129}{}{Nic takiego. Na razie.}
@@ -17,8 +15,7 @@
 {131}{}{Po razie!}
 {132}{}{Jestem Chad. }
 {133}{}{Słuchaj, jestem bardzo zajęty. Proszę, idź poprzeszkadzać komuś innemu.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade
- routes. These days I'm focusing primarily on Gecko. }
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{Oki!}
 {136}{}{Chcę zdobyć u ciebie pracę.}
 {137}{}{Fascynujące.}
@@ -31,10 +28,10 @@
 {142}{}{Mam więcej pytań.}
 {143}{}{Bywaj.}
 {144}{}{Na przykład?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Właściwie to nic. Cześć.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{Dowiem się prawdy. Cześć.}
 {156}{}{Porozmawiaj z Billem. On ci pomoże.}
 {157}{}{Mam więcej pytań.}
 {158}{}{Dzięki. Na razie.}

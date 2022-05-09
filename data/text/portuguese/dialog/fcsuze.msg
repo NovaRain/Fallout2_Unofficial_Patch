@@ -15,11 +15,11 @@
 {114}{}{Eu tenho mais perguntas.}
 {115}{}{Sim, isso é. Encontrou algo interessante?}
 {116}{}{Sim, isso. Vamos lá.}
-{117}{}{I found the room I was in. I also found a room that looked like a fueling area.  I didn't get much farther because of the monsters.}
+{117}{}{I found the room I was in. I also found a room that looked like a fueling area. I didn't get much farther because of the monsters.}
 {118}{}{Eu tenho mais perguntas.}
 {119}{}{De onde você é?}
 {120}{}{Ótimo. Isso é tudo por enquanto.}
-{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea.  I used to be a nanny, but then the kids mutated into monsters.}
+{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea. I used to be a nanny, but then the kids mutated into monsters.}
 {122}{}{Eu tenho mais perguntas.}
 {123}{}{Como você conheceu Badger?}
 {124}{}{Fascinante. Isso é tudo por enquanto.}
@@ -33,5 +33,5 @@
 {132}{}{De onde você é?}
 {133}{}{Como você conheceu Badger?}
 {134}{}{Nada agora. Tchau.}
-{135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
+{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
 {136}{}{Obrigado pela sua ajuda. Eu vou encontrar Badger.}

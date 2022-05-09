@@ -130,7 +130,7 @@
 {229}{}{Hmmm. I was curious about something else...}
 {230}{}{I see. Well, I could use a drink. What have you got on tap?}
 {231}{}{Interesting. Thanks for the information. Goodbye.}
-{232}{}{Oh, no, no... it's not slavery. Those people you seeing working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
 {233}{}{Everything except your freedom, huh?}
 {234}{}{If you've no complaints, then it's no problem. Forget I asked.}
 {235}{}{Never mind. I wanted a drink. What have you got on tap?}

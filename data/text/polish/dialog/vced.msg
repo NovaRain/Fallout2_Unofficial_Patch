@@ -5,7 +5,7 @@
 {104}{}{Coś interes ostatnio podupada.}
 {105}{}{Nie mam pojęcia skąd się bierze tyle tego braminowego gówna. Co rano jest go więcej.}
 {106}{}{Witam, witam. Jestem Ed, tutejszy handlarz braminami. Mogę w czymś pomóc?}
-{107}{}{Good to see you again.  What can I do you for?}
+{107}{}{Miło cię znów widzieć. Co mogę dla ciebie zrobić?}
 {108}{}{Znasz kupca imieniem Vic? Podobno kupił od ciebie tę manierkę z Krypty.}
 {109}{}{Znasz kupca imieniem Vic?}
 {110}{}{Mój przyjaciel, Vic twierdzi, że kupił od ciebie pewną manierkę.}
@@ -59,9 +59,9 @@
 {158}{}{Spoko miejsce... jeśli wiesz, jak obchodzić się z Obywatelami. Nie podzielam części ich poglądów, ale da się tu jakoś wyżyć.}
 {159}{}{Mam kilka innych pytań...}
 {160}{}{Rozumiem. Dzięki za informacje. Do zobaczenia.}
-{161}{}{I sell brahmin to people who need them.  Helps me pay rent on this place.}
+{161}{}{Sprzedaję braminy ludziom, którzy chcą je kupić. Trzeba jakoś płacić rachunki.}
 {162}{}{Mam kilka innych pytań...}
 {163}{}{Rozumiem. Dzięki za informacje. Do zobaczenia.}
-{164}{}{I got brahmin smarter than you.  Move along.}
+{164}{}{Znam braminy mądrzejsze od ciebie. Spadaj.}
 {165}{}{To chyba dom Eda. To od niego kupiłem tę manierkę.}
 {166}{}{Wiesz już skąd pochodzi manierka.}

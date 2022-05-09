@@ -14,10 +14,10 @@
 {113}{}{[ZURÜCK]}
 {114}{}{Abmelden.}
 {115}{}{FEHLER: Treibstofftanks leer.}
-{116}{}{FEHLER: Navigationscomputer nicht in Bereitschaft.}
+{116}{}{ERROR: Navigation Computer non Functional.}
 {117}{}{-Treibstofftanks: Leer- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {118}{}{-Treibstofftanks: Voll- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {119}{}{Du siehst einen PoseidoNet-Navigationscomputer.}
 {129}{}{[Du gibst schnell die Sequenz zum Lösen der Leinen ein und das Schiff bewegt sich vom Landesteg weg.]}
 {130}{}{[Fertig]}
-{131}{}{Navigationscomputer online.}
+{131}{}{Navigation Computer on-line.}

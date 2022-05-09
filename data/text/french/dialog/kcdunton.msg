@@ -1,4 +1,5 @@
-{100}{}{Tu vois l'un de deux hommes qui se ressemblent comme deux gouttes d'eau. Tous deux ont une musculature très développée et les sourcils broussailleux.}
+{100}{}{You see one of two very similar looking men -- they could be twins.
+ Both are heavily muscled and have beetling brows.}
 {101}{}{Tu vois Chuck Dunton... ou alors c'est peut-être Buck Dunton. En tout cas, c'est l'un des deux.}
 {102}{}{Tu vois un homme grand et très musclé dont le visage, sous ses sourcils broussailleux, affiche un air de brute renfrognée. Exactement comme son frère.}
 {110}{}{T'as intérêt à décamper, sinon mon frère et moi, on va mettre ta petite tête en charpie.}
@@ -149,7 +150,7 @@
 {371}{}{Qu'est-ce que tu fous ici ? T'es là pour nous aider, oui ou non ? On a peut-être un boulot pour toi si ça t'intéresse.}
 {372}{}{Ouais, ça m'intéresse. C'est quoi ce boulot ?}
 {373}{}{Je ne veux rien avoir affaire avec vous deux. Au revoir.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{J'ai cru voir une paire de pinces géantes de radscorpion par là-bas. Vous savez ce que c'est ?}
 {380}{}{Que veux-tu ? T'as oublié ce que tu devais faire ?}
 {381}{}{Non, je me rappelle. Je vais m'y mettre.}
 {382}{}{Vous êtes fous  ? Ils connaissent nos projets. Je suis là pour vous prévenir qu'il faut tout arrêter. Ils nous regardent sûrement en ce moment-même.}

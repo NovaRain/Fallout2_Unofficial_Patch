@@ -130,7 +130,7 @@
 {229}{}{Hum. Il y a autre chose que je voulais savoir...}
 {230}{}{Je vois. Bon, je prendrais bien un verre. Qu'avez-vous à la pression ?}
 {231}{}{Je vois. Merci et au revoir.}
-{232}{}{Oh, no, no... it's not slavery. Those people you seeing working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Oh, non, non... Ce n'est pas de l'esclavage. Ces gens qui travaillent dans la Cité sont des domestiques... comme moi. On est très bien traités ici, on nous apprend à lire et à écrire, on nous assure des soins, un logement et la nourriture.}
 {233}{}{Tout sauf la liberté, hein ?}
 {234}{}{Si personne se plaint, alors c'est parfait.}
 {235}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}

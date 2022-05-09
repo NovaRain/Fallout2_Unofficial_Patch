@@ -29,7 +29,7 @@
 {301}{}{Eh, ne.}
 {302}{}{Aha, dobøe. Chci se ještì na nìco zeptat.}
 {303}{}{Aha, chápu. No, nebudu rušit tvùj, eh, styl. Sbohem.}
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Nosej mi vìci, kerý najdou. Malý vìci. Vìci, kerý už nikdo nepoužívá. Na oplátku se starám já o nì.}
 {316}{}{To zní jako dobrá dohoda.}
 {325}{}{(Flick pokrèí rameny) Vyhovuje mi to.}
 {326}{}{Chci se ještì na nìco zeptat.}

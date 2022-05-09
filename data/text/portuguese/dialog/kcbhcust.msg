@@ -43,7 +43,7 @@
 {157}{}{Parece que as coisas vão mudar.}
 {158}{}{Tenho algumas armadilhar ao sul daqui.}
 {159}{}{Se você for esperto ficara longe dos Duntons.}
-{160}{}{If your anxious, try the Bathhouse.}
+{160}{}{Se estiver inquieto vá a casa de banho(Bathhouse).}
 {161}{}{A oeste esta o bairro dos caçadores(Trapper Town), se estiver procurando um lugar para dormir.}
 {162}{}{Bem vindo, amigo.}
 {163}{}{Espero que goste da nossa cidade.}

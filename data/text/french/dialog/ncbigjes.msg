@@ -120,7 +120,7 @@
 {471}{}{Non, je n'ai pas encore livré le paquet.}
 {472}{}{Oui, je l'ai livré à Ramirez comme tu l'as demandé.}
 {473}{}{Oui, j'ai été aux Etables et j'ai déposé ton paquet... Tu sais ce qu'ils FONT là-bas ? Ils torturent des esclaves avec des stimulants !}
-{474}{}{Oui, j'ai donné ton paquet à ce garde, Ramirez... Tu sais que ce type s'éclate au Jet ? Il PUAIT le Jet à cent mètres !}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Et... que fais-tu là ? [Big Jésus s'essuie le front et prend une profonde inspiration.] POURQUOI t'as pas livré le paquet ?}
 {481}{}{Eh bien, je voulais d'abord te poser des questions...}
 {482}{}{Je vais le faire tout de suite.}
@@ -189,7 +189,7 @@
 {664}{}{Salvatore est trop bien protégé. Je vais devoir renoncer à cette mission.}
 {670}{}{Si tu... ne termines pas ce travail, je te ferai... TUER !}
 {671}{}{Si tu le prends comme ça, je reviendrai quand il sera mort.}
-{672}{}{Try anything, and you'll be joining the Mordinos the Salvatores butchered.}
+{672}{}{Touche-moi, et tu rejoindras les Mordino massacrés par les Salvatore.}
 {680}{}{J'ai bien entendu. [Il hoche respectueusement la tête.] Tu as... réussi. Je ne suis pas déçu de t'avoir fait confiance. Voici... ton paiement. Cinq cent... jetons.}
 {681}{}{Merci.}
 {682}{}{Ca suffira... pour l'instant.}

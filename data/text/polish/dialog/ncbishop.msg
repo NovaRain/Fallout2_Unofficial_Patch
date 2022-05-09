@@ -38,8 +38,7 @@
 {267}{}{(Przygląda ci się uważnie) A wieć... skąd ktoś taki jak TY zna Moore'a? Stary bawi się teraz w politykę u dzikusów? Ha! Gość rozminął się z powołaniem.}
 {268}{}{Spotkaliśmy się w Kryptopolis. Poprosił mnie o dostarczenie ci tej walizki.}
 {269}{}{Spotkaliśmy się zupełnym przypadkiem. Poprosił mnie o dostarczenie ci tej walizki.}
-{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- to do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+{275}{}{He... jakie to miłe... przez to jego nauczanie stary Moore chyba odzwyczaił się od chodzenia. He... czyli w sumie jest dokładnie taki sam jak reszta RNK.}
 {276}{}{Rzeczywiście, dużo naucza, ale wiele z tego co mówi ma sens.}
 {277}{}{On ma specyficzny... sposób wysławiania się.}
 {278}{}{No tak, ale ktoś musi wreszcie odwalić całą robotę. Dlatego tu jestem. Na mnie można polegać.}

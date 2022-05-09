@@ -1,6 +1,6 @@
 {100}{}{Vedi un pescatore.}
 {101}{}{Sei arrivato giusto in tempo per vedere di persona i doni della Dea del Mare.}
-{102}{}{[Avanti]}
+{102}{}{[AVANTI]}
 {103}{}{}
 {104}{}{Quando si avvicina una grande tempesta, noi scagliamo delle lance nel mare per dimostrare il nostro coraggio nei confronti degli elementi. Se ci siamo dimostrati degni, la Dea ci ricompensa con dei frutti.}
 {105}{}{All'inizio della stagione delle pioggie, noi lanciamo dei fiori di Broc nel mare quando cala la marea. Dopo che la Dea ha compiuto la sua magia, Ella ci restituisce i fiori di Broc sottoforma di rare radici di Xander. }

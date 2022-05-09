@@ -6,10 +6,8 @@
 {122}{}{Všiváku prašivej!}
 {123}{}{Kdo ty?}
 {124}{}{Marcus se na tebe ptal.}
-{125}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. You're going down.}
-{126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Mám dost dùkazù na to, abys byl zatèen za krádež penìz urèených pro Broken Hills. Máš to spoèítaný.}
+{126}{}{Je tu dost dùkazù na to, abys byl zatèen za krádež penìz urèených pro Broken Hills. Naval $1000 a zajistím ti bezpeèný útìk z mìsta.}
 {127}{}{Kdo jsi?}
 {128}{}{Povìz mi nìco o tomhle místì.}
 {129}{}{Nic. Nashle.}
@@ -17,8 +15,7 @@
 {131}{}{Naskle!}
 {132}{}{Jsem Chad.}
 {133}{}{Podívej, mám moc práce. Bìž prosím otravovat nìkoho jiného.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade
- routes. These days I'm focusing primarily on Gecko. }
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{To fajn!}
 {136}{}{Chci pro tebe pracovat.}
 {137}{}{To zní skvìle.}
@@ -31,10 +28,10 @@
 {142}{}{Mám další otázky.}
 {143}{}{Nashle.}
 {144}{}{Napøíklad?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Vlastnì na nic. Sbohem.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{Jdu zjistit, jak to doopravdy je. Sbohem.}
 {156}{}{Promluv si s Billem. On ti pomùže.}
 {157}{}{Mám další otázky.}
 {158}{}{Dík. Naskle.}

@@ -3,8 +3,8 @@
 {102}{}{Tu vois Marc, l'un des gardes de Tyler.}
 {150}{}{Hé ho, Tyler !}
 {200}{}{Mais qu'est-ce... ?}
-{225}{}{Je savais qu'on les aurait ces mauviettes !}
-{226}{}{Merci du conseil. C'était très... divertissant.}
+{225}{}{Merci du conseil. C'était très... divertissant.}
+{226}{}{Je savais qu'on les aurait ces mauviettes !}
 {227}{}{Dommage qu'on les ait tous tués, parce que maintenant, que fait-on ?}
 {228}{}{On assure à mort, hein ?}
 {229}{}{On est vraiment trop bons !}

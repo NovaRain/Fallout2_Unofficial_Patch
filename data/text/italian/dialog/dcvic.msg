@@ -26,7 +26,7 @@
 {173}{}{So di potercela fare; mi servono solo alcuni pezzi di ricambio. C'e' una vecchia ricetrasmittente nella mia baracca, a Klamath, che e' proprio quello che mi serve. Hai presente la casa dei Dunton? La mia baracca... ecco, e' proprio a est della loro abitazione.}
 {174}{}{Stai parlando di questa ricetrasmittente?}
 {175}{}{Andro' a cercarla.}
-{176}{}{Hmmm... Tornero'.}
+{176}{}{Hmmm... I'll be back.}
 {177}{}{Splendido! Riparero' questa ricetrasmittente in un batter d'occhio.}
 {178}{}{Okay, parlero' con Metzger.}
 {179}{}{Grazie.}

@@ -6,8 +6,8 @@
 {122}{}{Dörk digglerr!}
 {123}{}{Te vagyol ki?}
 {124}{}{Marcus kérdezősködik felőled.}
-{125}{}{Elég bizonyítékom van arra, hogy pénzt loptál Broken Hills városától. Le leszel tartóztatva. Mész a sittre!}
-{126}{}{Elég bizonyítékom van arra, hogy pénzt loptál Broken Hills városától. Le leszel tartóztatva, de ha megkensz egy ezressel hagyom, hogy elmenekülj.}
+{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
+{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
 {127}{}{Ki vagy?}
 {128}{}{Meséljen erről a helyről!}
 {129}{}{Semmit. Viszlát!}
@@ -15,7 +15,7 @@
 {131}{}{Szióka!}
 {132}{}{Chad vagyok. }
 {133}{}{Bocs, elég sok dolgom van. Keress valaki mást!}
-{134}{}{Én vagyok a város karavánmestere. Én kötöm az üzleteket a karavánutak túlsó végén. Mostanában leginkább Gekkóra koncentrálok.}
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{Okké!}
 {136}{}{Lenne valami munka a számomra?}
 {137}{}{Izgalmas lehet.}
@@ -28,10 +28,10 @@
 {142}{}{Mást szeretnék kérdezni.}
 {143}{}{Viszlát!}
 {144}{}{Úgymint?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Nothing really, Bye.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Beszélj Billel! Ő tud segíteni.}
 {157}{}{Mást szeretnék kérdezni.}
 {158}{}{Köszönöm. Viszlát!}

@@ -21,7 +21,7 @@
 {115}{}{}
 {116}{}{}
 {117}{}{Uh!}
-{118}{}{Befejezés}
+{118}{}{Kilépés.}
 {119}{}{Skynet vagyok. 59234-es számú Mesterséges Intelligencia projekt.
                                                      Elsődleges cél: Kutatás és fejlesztés. 
                            Másodlagos cél: Megvédeni a Sierra Hadiraktárat az ellenséges lényekkel szemben.
@@ -30,7 +30,7 @@
 {121}{}{Én Dixon tizedes vagyok.}
 {122}{}{A nevem }
 {123}{}{A barátod vagyok.}
-{124}{}{Befejezés}
+{124}{}{Kilépés.}
 {125}{}{Figyelem! A letapogatott kép nem egyezik a Dixon tizedes személyes adataiban találhatóval.
                          Következtetés: Az Alany hazudik.
                          Következtetés: Ellenség
@@ -41,7 +41,7 @@
 {127}{}{}
 {128}{}{}
 {129}{}{}
-{130}{}{Befejezés}
+{130}{}{Kilépés.}
 {131}{}{A személyi fájlok között nem található ilyen azonosító.
          Szkennelés...
                                                            Ember  - Nő
@@ -60,7 +60,7 @@
 {136}{}{}
 {137}{}{}
 {138}{}{}
-{139}{}{Befejezés}
+{139}{}{Kilépés.}
 {140}{}{Meghatározás: Barát
                                                    Főnév - Valaki, aki nem ellenség.
                                    További analízisre menj a vezérlőterembe!
@@ -68,7 +68,7 @@
  -Átvitel Vége-}
 {141}{}{}
 {142}{}{}
-{143}{}{Befejezés}
+{143}{}{Kilépés.}
 {200}{}{ képtelen elolvasni, mi van a képernyőn.}
 {300}{}{Úgy látszik, a számítógép védelmi mechanizmussal van ellátva.}
 {301}{}{Áramütés ért, ezért -}

@@ -130,7 +130,7 @@ ou animais.}
 {196}{}{Eu não sou hostil, não atire em mim.}
 {197}{}{Eu não me inscrevi para o combate, então me deixe em paz.}
 {198}{}{Caramba! Eu sou um médico, não um soldado!}
-{200}{}{[More]}
+{200}{}{[MAIS]}
 {201}{}{Eu queria pedir-lhe algumas perguntas.}
 {202}{}{Não agora. Desculpe incomodá-lo.}
 {800}{}{Você matou Médico Schreber.}

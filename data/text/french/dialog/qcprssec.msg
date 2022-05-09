@@ -4,7 +4,7 @@
 {103}{}{Oui ? Qu'es'tu veux mon chou ?}
 {104}{}{Pas encore, je viens juste de nettoyer ma robe.}
 {105}{}{Que fabrique M. Important ?}
-{106}{}{They don't call him *Dick* Richardson for nuthin'}
+{106}{}{On l'appelle pas *Dirty Dick* Richardson pour rien !}
 {107}{}{Mais je sais aussi taper !}
 {108}{}{Tu peux pas frapper avant d'entrer ?}
 {109}{}{Il me faut un bain de bouche.}

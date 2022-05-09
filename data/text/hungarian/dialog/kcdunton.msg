@@ -1,4 +1,5 @@
-{100}{}{Két nagyon hasonlóan festő embert látsz. Valószínűleg ikrek. Mindkettő nagyon izmos, és bozontos a szemöldökük.}
+{100}{}{You see one of two very similar looking men -- they could be twins.
+ Both are heavily muscled and have beetling brows.}
 {101}{}{Chuck és Buck Dunton. Annyira hasonlítanak egymásra, hogy nem vagy benne biztos, melyiket is látod épp.}
 {102}{}{Egy magas, nagyon izmos embert látsz, akinek bozontos szemöldöke alatt olyan az arca, mint egy bikáé.}
 {110}{}{You just better push off, or my brother and I are going to pound your little head into jam.}
@@ -149,7 +150,7 @@
 {371}{}{Mit a fenét csinálsz te itt? Segítesz nekünk vagy nem? Lenne egy munkánk a számodra, ha érdekel.}
 {372}{}{Érdekel. Mondd el mi a munka!}
 {373}{}{Nem hiszem, hogy bármit is akarok veletek csinálni. Viszlát!}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
 {380}{}{Mi a fenét akarsz? Elfelejtetted, mit kell tenned?}
 {381}{}{Nem, emlékszem. Megyek is és elfoglalom magam.}
 {382}{}{Megőrültél? Figyelnek minket! Azért is jöttem, hogy megmondjam, ne csináld! Fogadjunk, hogy most is épp figyelnek minket.}

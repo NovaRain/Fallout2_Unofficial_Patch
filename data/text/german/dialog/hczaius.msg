@@ -85,8 +85,8 @@
 {159}{}{Ich lass es sein.}
 {160}{}{Wie du willst. Dann eben nicht. Nein, danke.}
 {161}{}{Wie du willst.}
-{162}{}{Hi, wie geht's! }
-{163}{}{Och, ganz gut. Du schon wieder. }
+{162}{}{Hi, friend!}
+{163}{}{Oh, good. It's you again.}
 {164}{}{Huhu.}
 {165}{}{Ich wusste doch, dass diese Schweine Franc, Manson, Jacob und Aileen uns ans Leder wollten.
  Gut gemacht! So...}

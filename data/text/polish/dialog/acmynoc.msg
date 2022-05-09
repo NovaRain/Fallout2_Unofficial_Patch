@@ -26,7 +26,7 @@
 {173}{}{Przez twą zarozumiałość wszyscy cierpimy! Żegnaj!}
 {174}{}{Żegnaj.}
 {175}{}{Dlaczego? Rozejrzyj się - nasza wioska umiera. Ogrody usychają a każdego dnia dzieci i starcy słabną. Musisz pomóc nam stworzyć tu Cudowną Krainę zanim będzie za późno!}
-{176}{}{And I will take care of it.  Goodbye.}
+{176}{}{Zajmę się tym. Do zobaczenia.}
 {177}{}{Jestem Dzieckiem Przeznaczenia - "muszę" robić tylko to na co mam ochotę. Żegnaj.}
 {178}{}{Nie pamiętam jego imienia. Wiem tylko, że był stary i hałaśliwy - zbyt hałaśliwy jak na dobrze wychowanego człowieka - ale wiedział dużo rzeczy. Pochodził z Klamath, to na wschód stąd.}
 {179}{}{Dziękuję, do widzenia.}

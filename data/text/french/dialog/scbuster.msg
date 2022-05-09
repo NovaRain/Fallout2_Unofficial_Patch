@@ -18,7 +18,7 @@
 {117}{}{Que peux-tu me dire à propos de Roger Westin ?}
 {118}{}{Je voudrais rencontrer le Vieux Carlson. Tu connais quelqu'un qui pourrait m'aider ?}
 {119}{}{As-tu un J.E.K ?}
-{120}{}{C'est bien beau tout ça, mais ici, c'est pas la charité.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{J'ai peut-être un viseur Triveld x20 qui irait très bien sur un fusil de chasse, si quelqu'un était intéressé. Je le laisse pour pas cher : $500.}
 {122}{}{Hé ! Tu m'as déjà vidé les poches !}
 {123}{}{Sure, it's a deal.}

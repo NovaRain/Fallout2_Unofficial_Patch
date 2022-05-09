@@ -19,8 +19,8 @@
 {208}{}{Wrrr}
 {209}{}{Wrrr - Wrrr.}
 {210}{}{Ja nie chce rozmawiać.}
-{211}{}{Yoo smell guuud.}
+{211}{}{Tyy ładnie pachnieć}
 {212}{}{Tyy pachnieć jak mama.}
 {213}{}{Tyy słodka. Ja ty nie bić.}
-{214}{}{Yoo make me blush.}
+{214}{}{Przez ty ja się rumieni.}
 {215}{}{Uuuch... ja Rico...}

@@ -97,7 +97,7 @@
 {196}{}{Já nejsem nepøítel, nezabíjej mì.}
 {197}{}{Nejsem žádný voják, tak mì nech být.}
 {198}{}{Zatracenì! Já jsem doktor, ne voják!}
-{200}{}{[More]}
+{200}{}{[Více]}
 {201}{}{Chci se tì na nìco zeptat.}
 {202}{}{Teï ne. Promiòte, že obtìžuju.}
 {800}{}{Doktora Schreber byl zabit.}

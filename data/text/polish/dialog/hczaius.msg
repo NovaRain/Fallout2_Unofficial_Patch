@@ -60,8 +60,8 @@
 {159}{}{Nie ma mowy.}
 {160}{}{Nie bierzesz? Jak chcesz.}
 {161}{}{Jak chcesz.}
-{162}{}{Hi, friend! }
-{163}{}{Oh, good. It's you again. }
+{162}{}{Cześć, przyjacielu! }
+{163}{}{Och, to znowu ty. }
 {164}{}{Jak się masz.}
 {165}{}{Wiesz, wiedziałem, że te skurwysyny Franc, Manson, Jacob i Aileen coś szykowali. Dobra robota! A więc... }
 {166}{}{Mam nadzieję, że myślisz już nad sposobem odzyskaniu rudy... A więc...}

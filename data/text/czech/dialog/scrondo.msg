@@ -1,7 +1,7 @@
 {100}{}{Vidíš muže v umazaném obleèení, nejspíš mechanika.}
 {101}{}{Vidíš Ronda, majitele tohoto podniku.}
 {102}{}{Myslíš si, že je to mechanik, ale nosí u sebe zbraò, což je trochu zvláštní.}
-{103}{}{Greetings, ranger. Time's been good, I hope.}
+{103}{}{Vítej, Rangere. Doufám, že se ti daøí.}
 {104}{}{Jednou ty otrokáøe úplnì vyhladíme.}
 {105}{}{Musím jít zase nìkdy na lov otrokáøù.}
 {106}{}{Promiò, ale máme zavøeno.}

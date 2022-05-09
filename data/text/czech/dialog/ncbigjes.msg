@@ -120,7 +120,7 @@
 {471}{}{Ne, ještì jsem ten balík nedoruèil.}
 {472}{}{Ano, doruèil jsem ho Ramirezovi, pøesnì jak jste chtìl.}
 {473}{}{Ano, byl jsem ve Stájích a odevzdal jsem ten balík... víte, co tam DÌLAJÍ? Oni tam používají otroky na testování drog.}
-{474}{}{Ano, dal jsem ten balík Ramirezovi... víte, že je ten chlap závislý na Jetu? SMRDÌL výparama z Jetu.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Tak... proè jsi ještì tady? (Velkej Ježíš si utøe èelo a zhluboka se sípavì nadechne.) PROÈ jsi ten balík ještì nedoruèil?}
 {481}{}{No, nejdøív se chci na nìco zeptat...}
 {482}{}{Jdu to hned vyøídit.}
@@ -189,7 +189,7 @@
 {664}{}{Salvatore je velmi dobøe hlídán. O tuhle práci už nemám zájem.}
 {670}{}{Jestli... uteèeš od tohohle úkolu, tak tì nechám... ZABÍT.}
 {671}{}{No, když to øeknete takhle, tak to se radìji vrátím, až bude mrtvý.}
-{672}{}{Try anything, and you'll be joining the Mordinos the Salvatores butchered.}
+{672}{}{Jestli se o nìco pokusíte, budete si moct promluvit se svými muži, které Salvatore zmasakroval.}
 {680}{}{Slyšel jsem. (Uctivì pøikývne.) Odvedl jsi dobrou... práci. Moje dùvìra v tebe nebyla pošetilá. Tady je... tvoje výplata. Pìt set... babek. }
 {681}{}{Díky.}
 {682}{}{To bude staèit... prozatím.}

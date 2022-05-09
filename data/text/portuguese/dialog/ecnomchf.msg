@@ -10,9 +10,9 @@
 {108}{}{O que você tem para negociar?}
 {109}{}{Eu não tenho nada para negociar. Desculpe.}
 {110}{}{Talvez outra vez, então? Que suas viagens estejam livres de perigo.}
-{111}{}{Adeus.}
+{111}{}{Obrigado. Tchau.}
 {112}{}{Que pena. Então descanse e seja bem vindo no meu acampamento.}
-{113}{}{Adeus.}
+{113}{}{Thank you. Bye.}
 {114}{}{Minha oferta de sombra chegou muito tarde para você. O sol deve ter fervido as palavras do seu
   cérebro. Eu devo ser gentil com aqueles menos afortunados do que eu. Fique o tempo que você gosta no meu acampamento, maldito.}
 {115}{}{Adeus.}

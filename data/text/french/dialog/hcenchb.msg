@@ -14,12 +14,12 @@
 {113}{}{Je ne l'aime pas beaucoup. On dirait qu'il a toujours de l'argent en plus grâce à son travail avec les caravanes. C'est vraiment injuste.}
 {114}{}{Marcus le soupçonne de détourner une partie de l'argent qui est censé aller à Broken Hills.}
 {115}{}{Merci. Au revoir.}
-{116}{}{Thanks. I'm sure glad that this is over. You better watch your back thought.}
+{116}{}{Merci. Non, vraiment. Merci d'avoir fait foirer nos primes. Les seules personnes auxquelles Chad faisait du mal sont celles avec lesquelles on commerçait. Il nous aidait, et t'as tout fait foirer. Minable !}
 {117}{}{Salut.}
 {118}{}{L'ennemi est là ! Crève !}
 {119}{}{Oh là là !}
-{120}{}{(Parle doucement et regarde autour de lui) Ça doit être ça. J'ai vu une fois qu'il prenait une "part" de l'argent qu'il a obtenu de la cargaison d'uranium de Gecko.}
-{121}{}{Really? Then why you haven't tell about it to Marcus then?}
+{120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
+{121}{}{Vraiment ? Alors pourquoi ne pas en avoir parlé à Marcus ?}
 {122}{}{Tu es sourd ? Si je vais le raconter, beaucoup de gens dans cette ville ne me regarderont même plus. En plus, je pourrais subir une sorte de vengeance.}
 {123}{}{Hmm, I could tell it about to Marcus, cause I don't plan to stay here too long anyway.}
 {124}{}{Ok. Do what you want, but don't tell anything about me. And we never had this conversation, ok?}

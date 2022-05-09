@@ -1,5 +1,5 @@
 {100}{}{Du siehst eine schwer bewaffnete Wache.}
-{101}{}{Du siehst eine Wache der Hubologen.}
+{101}{}{You see a Hubologist guard.}
 {102}{}{Du siehst eine schwer bewaffnete Gestalt, der die Grausamkeit ins Gesicht geschrieben steht}
 {103}{}{Einbrecher!}
 {104}{}{Schnappt euch den Eindringling!}

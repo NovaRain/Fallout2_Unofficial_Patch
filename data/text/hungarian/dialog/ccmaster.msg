@@ -3,7 +3,7 @@
 {102}{}{A fickó az erőpáncél különös verzióját viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
 {103}{}{<Skzzzt-spork> - a fegyvertárba!}
 {104}{}{Mi a - <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor.  Well, all I got is one in for
+{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
  maintenance. Might have a few problems still, so take it easy. Just sign here.)}
 {106}{}{Öhm... ismételni meg!}
 {107}{}{Azt hiszem, van néhány probléma a páncéloddal.}

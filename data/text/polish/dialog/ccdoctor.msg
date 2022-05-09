@@ -97,7 +97,7 @@
 {196}{}{Nie jestem wrogiem, nie strzelaj do mnie.}
 {197}{}{Nie zgłaszałem się tu dla walki, więc zostaw mnie w spokoju.}
 {198}{}{Cholera! Jestem lekarzem, a nie żołnierzem!}
-{200}{}{[More]}
+{200}{}{[KONTYNUUJ]}
 {201}{}{Chcę ci zadać kilka pytań.}
 {202}{}{Nie w tej chwili. Przepraszam za kłopot.}
 {800}{}{Doktor Schreber został zabity.}

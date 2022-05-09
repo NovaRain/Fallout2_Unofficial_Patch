@@ -19,12 +19,12 @@
 {118}{}{Nie. Mam jeszcze kilka pytań.}
 {119}{}{Jasne.}
 {120}{}{Wynajduję nowe technologie i korzystam nieco z kultystycznego garnuszka, jeżeli wiesz, o co mi chodzi.}
-{121}{}{A więc nie jesteś Centrologiem?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Rozumiem. Mam też inne pytania.}
 {123}{}{Nie. Co masz na myśli?}
 {124}{}{Jakie nowe technologie udało ci się wynaleźć?}
 {125}{}{Jasno i wyraźnie. Na razie.}
-{126}{}{Well... I *guess* that'll have to do.  It's a deal. Do you have the armor to be hardened on you?}
+{126}{}{Cóż... *chyba* będzie musiało wystarczyć. Umowa stoi. Masz ten pancerz do utwardzenia?}
 {127}{}{Tak.}
 {128}{}{Nie.}
 {129}{}{Wspaniale. Będzie cię to kosztować 10000$, od razu, bez targowania się. Potrzebuję trochę nowego sprzętu.}

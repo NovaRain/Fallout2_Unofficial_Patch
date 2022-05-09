@@ -21,7 +21,7 @@
 {120}{}{Voltar.}
 {121}{}{"Ainda estamos preparando um modelo funcional de um veículo aéreo. Nenhum dos projetos que criamos se mostrou seguro ou aerodinâmico. Talvez se tivéssemos acesso aos planos dos antigos..." - Dr. Wong}
 {122}{}{Voltar.}
-{123}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea.  At least, that's what the notes read like.)}
+{123}{}{(Depois de contornar a introdução e a matemática, você descobre que os Shi estão aprendendo a desenvolver a energia nuclear novamente, reconstruindo as teorias de viagens espaciais antigas - e eles zombam dos Hubologistas ao fazer - e aproveitando a energia do sol, do vento e do mar. Pelo menos, é assim que as notas se parecem.)}
 {124}{}{Voltar.}
 {125}{}{Estação desativada.}
 {126}{}{Ativar estação.}

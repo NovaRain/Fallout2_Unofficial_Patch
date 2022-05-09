@@ -29,7 +29,7 @@
 {301}{}{Uh, no.}
 {302}{}{Oh, OK. Lascia che ti chieda qualcos'altro, allora.}
 {303}{}{Ah, capisco. Beh, non vorrei rovinarti gli, ehm, affari, stando qui. Ci vediamo.}
-{315}{}{I me porta ea roba che i trova. Picole, picole cosse. Roba che nisuni usa piu'. In cambio, mi me prendo cura de lori.}
+{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {316}{}{Sembra che vi siate sistemati bene.}
 {325}{}{(alza le spalle) No me lamento.}
 {326}{}{Lascia che ti chieda qualcos'altro, allora.}

@@ -33,7 +33,7 @@
 {126}{}{Beenden}
 {127}{}{Befehl wird ausgewertet - bitte warten...                         
  Benutzerbefehl wird übergangen                                   Zugriff verweigert}
-{128}{}{[Weiter]}
+{128}{}{[Mehr]}
 {129}{}{Zum Deaktivieren des Alarms - 1 drücken                          Zum Einleiten einer Diagnoseprüfung - 2 drücken
                Zum Beenden - 3 drücken}
 {130}{}{1 drücken}
@@ -63,7 +63,7 @@
                                Zugriff auf dieses Terminal wurde gesperrt.}
 {145}{}{Beenden}
 {146}{}{Diagnoseprogramm wird beendet.}
-{147}{}{[Weiter]}
+{147}{}{[Mehr]}
 {300}{}{ - ID bestätigt: }
 {301}{}{
    Letzter Zugriff: }

@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Você vê dois homens muito parecidos...eles podem ser gêmeos. Ambos são musculosos e têm sobrancelhas bem grossas.}
 {101}{}{Você quer ver Chuck ou Buck Dunton, eles se parecem tanto que você não tem certeza de qual deles está olhando agora.}
 {102}{}{Você vê um homem alto e musculoso, que, debaixo dessa testa marrenta, se mostra um valentão. Ele se parece com seu irmão.}
 {110}{}{É melhor não empurrar, ou meu irmão e eu vamos esmagar sua cabeça.}
@@ -154,7 +153,7 @@
  estiver interessado.}
 {372}{}{Sim, estou interessado. Fale sobre o trabalho.}
 {373}{}{Eu não quero dever nada a vocês dois. Tchau.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{Eu encontrei um monte de partes de insetos nesse pequeno barraco. Sabe me dizer pra que são?}
 {380}{}{O que diabos você quer? Esqueceu-se o que você deveria estar fazendo?}
 {381}{}{Não. Eu me lembro. Farei conforme nosso plano.}
 {382}{}{Você está louco!? Eles sabem de tudo. Estou aqui para avisá-lo para não seguir com o plano. Aposto que

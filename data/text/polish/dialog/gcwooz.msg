@@ -186,7 +186,7 @@
 {716}{}{Hmmm...Może powinieneś dać już sobie dzisiaj spokój i odłożyć te karty do Tragica. Myślę, że wystarczy tego grania na dzisiaj.}
 {717}{}{NIGDY! NIECH ROZPOCZNIE SIĘ ZGROMADZENIE!}
 {718}{}{BUAHAHAHA!!! WYGRAŁEM!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!?  Ahhhgghhhgh.}
+{719}{}{NIEEE!! JAK MOGŁEM PRZEGRAĆ!? Aaaaaaa!.}
 {720}{}{Taa...po prostu nie mogę przestać. Jeszcze tylko jedna partyjka...}
 {721}{}{Taaa, Daj piwo Promienny Łyk. Głuchy czy co?}
 {722}{}{Tak, jest. Jeden Promienny Łyk.}

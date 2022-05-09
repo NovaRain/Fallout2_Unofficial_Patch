@@ -26,7 +26,7 @@
 {173}{}{Wiem co trzeba zrobić, potrzebuję tylko odpowiednich części. W mojej szopie w Klamath mam stare radio, które mogłoby mi się przydać. Wiesz gdzie urzędują Duntonowie? Moja szopa jest... no, na wschód od nich.}
 {174}{}{Masz na myśli to radio?}
 {175}{}{Poszukam go.}
-{176}{}{Hmmm...  I'll be back.}
+{176}{}{Hmmm... Jeszcze tu wrócę.}
 {177}{}{Świetnie! Teraz naprawię radio bez żadnych kłopotów.}
 {178}{}{Dobra, pogadam z Metzgerem.}
 {179}{}{Dziękuję.}

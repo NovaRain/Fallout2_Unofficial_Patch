@@ -9,9 +9,9 @@
 {108}{}{Co máš k obchodování?}
 {109}{}{Nemám nic ke smìnìní. Je mi líto.}
 {110}{}{Tak snad nìkdy jindy. A jsou tvé cesty prosty nebezpeèí.}
-{111}{}{Nashle.}
+{111}{}{Dík. Naskle.}
 {112}{}{Jaká škoda. Odpoèiò si tedy a vítej v našem táboøe.}
-{113}{}{Nashle.}
+{113}{}{Thank you. Bye.}
 {114}{}{Vidím, e moje nabídka stínu pøišla pøíliš pozdì. Slunce ti u nejspíš vypálilo mozek. Musím bıt pøívìtivı k tìm, kteøí v ivotì nemají tolik štìstí. Zùstaò v mém táboøe, jak dlouho budeš chtít, zabednìnèe.}
 {115}{}{Nashle.}
 {116}{}{Nevìøící!}

@@ -43,7 +43,7 @@
 {157}{}{Azt hiszem, hamarosan megváltozik az idő.}
 {158}{}{Találtam egy jó helyet a csapdáknak nem messze innen, délre.}
 {159}{}{Ha van eszed, távol tartod magad a Duntonoktól.}
-{160}{}{Ha nyugtalan vagy, próbáld ki a Fürdőt!}
+{160}{}{If you're anxious, try the Bathhouse.}
 {161}{}{Ha zsákmányt keresel, nézz körül a Prémvadászok Városában.}
 {162}{}{Üdvözöllek, barátom!}
 {163}{}{Remélem, tetszik a városunk.}

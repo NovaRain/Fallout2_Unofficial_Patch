@@ -43,7 +43,7 @@
 {157}{}{Myslím, že se brzo zmìní poèasí.}
 {158}{}{Mám na jihu odsud fakt dobrou past.}
 {159}{}{Jestli ti mùžu poradit, drž se dál od bratrù Duntonù.}
-{160}{}{If your anxious, try the Bathhouse.}
+{160}{}{Jestli jseš utahanej, zkus láznì.}
 {161}{}{Jestli se chceš nìkde vyspat, bìž na západ do Lovecký ètvrti.}
 {162}{}{Vítej, pøíteli.}
 {163}{}{Doufám, že se ti naše mìsto líbí.}

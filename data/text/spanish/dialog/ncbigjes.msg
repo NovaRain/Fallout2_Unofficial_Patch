@@ -133,7 +133,7 @@
 {471}{}{No, aún no he entregado el paquete.}
 {472}{}{Sí, le entregué a Ramirez lo que usted pidió.}
 {473}{}{Sí, he estado en el Establo y he tirado su paquete… ¿sabe lo que están HACIENDO allí? Están torturando a esclavos con drogas.}
-{474}{}{Sí, le entregué su paquete a ese guardia, Ramirez… ¿sabe que ese tipo está colgado por el Jet? APESTABA a vapor de Jet.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Entonces... ¿por qué estás aquí? (Gran Jesús se seca la frente, y luego respira profundamente) ¿POR QUÉ no entregaste el paquete?}
 {481}{}{Bueno, primero tenía ciertas preguntas...}
 {482}{}{Voy a hacerlo ahora mismo.}
@@ -213,7 +213,7 @@
 {664}{}{Salvatore está demasiado bien protegido. Voy a tener que cancelar este trabajo.}
 {670}{}{Si... abandonas este trabajo, tendré que... MATARTE.}
 {671}{}{Viéndolo desde ese punto de vista, volveré cuando esté muerto.}
-{672}{}{Intenta algo, y te unirás a los Mordino masacrados por los Salvatore.}
+{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 {680}{}{Eso he oído. (Se inclina respetuosamente) Lo has hecho... bien. Mi fe en ti no era infundada. Aquí está... tu
  pago. Quinientas... fichas. }
 {681}{}{Gracias.}

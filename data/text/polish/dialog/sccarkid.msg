@@ -15,7 +15,7 @@
 {114}{}{Jest w środku. W gabinecie. Zawsze tam jest.}
 {115}{}{Gdzie jest jego gabinet?}
 {116}{}{Dobra, dzięki.}
-{117}{}{By the water tank. I play over there sometimes.  I peek on him while he's working.}
+{117}{}{Obok zbiornika z wodą. Czasem się tam bawię. Podglądam go, jak pracuje.}
 {118}{}{Jesteś wyjątkowo upierdliwym bachorem, co nie?}
 {119}{}{Dzięki dzieciaku, to mi bardzo pomogło.}
 {120}{}{Nie jesteś miłym człowiekiem, jesteś złym człowiekiem! Powiem tacie!}

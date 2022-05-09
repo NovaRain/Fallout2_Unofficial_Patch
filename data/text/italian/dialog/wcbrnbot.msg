@@ -1,10 +1,10 @@
 {100}{}{Vedi un robot cibernetico.}
 {101}{}{Un bell'esempio di bio-ingegneria applicata che rende ancora piu' sottile il confine tra l'uomo e il robot.}
 {102}{}{Skynet viaggera' con te.}
-{103}{}{Skynet ringrazia l'umano.                                      Skynet vorrebbe chiedere un favore.                          Skynet vorrebbe viaggiare con l'umano.}
+{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
 {104}{}{}
 {105}{}{}
-{106}{}{[Questo marchingegno potrebbe rivelarsi utile.]}
+{106}{}{                              [This contraption could be useful.]}
 {107}{}{Prendi il robot con te.}
 {108}{}{Lascia il robot.}
 {109}{}{Esci}

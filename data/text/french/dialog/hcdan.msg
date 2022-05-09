@@ -23,11 +23,11 @@
 {122}{}{Non non. J'peux pas.}
 {123}{}{Je t'en prie. S'il te plaît. Ma femme... elle est tout pour moi.}
 {124}{}{J'ai dit non !}
-{125}{}{Fine. Fine, just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.	}
+{125}{}{D'accord. D'accord, mais arrête de me harceler.}
+{126}{}{Voici l'argent. Maintenant s'il te plaît, S'IL TE PLAIT... retrouve ma femme et dis-moi où elle est. Peut-être qu'elle crèche avec quelqu'un d'autre, qu'elle m'a quitté... mais je dois savoir.}
 {127}{}{C'est bon, mon pote. A quoi elle ressemble ?}
 {128}{}{Bien sûr. Je vais faire de mon mieux.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.    }
+{129}{}{[Il sanglote de manière incontrôlée pendant quelques instants.] Très bien. Va-t'en. Et sache que tu as brisé mon coeur.}
 {130}{}{A une prochaine, minable.}
 {131}{}{Elle est blonde et sexy et elle a une voix extraordinaire... La dernière fois que je l'ai vue, c'était par ici. Elle aimait pas les mutants ni les Goules, elle pourrait pas être avec l'un d'entre eux. Personne ne sait où elle est. Elle s'est évanouie dans la nature.}
 {132}{}{Ca devrait suffire.}
@@ -42,7 +42,7 @@
 {141}{}{C'était une chaude sans jambes ?}
 {142}{}{J'ai trouvé des cadavres dans les tunnels sous la ville. Elle était parmi eux. Je regrette.}
 {143}{}{Quoi ? Non ! Elle a des jambes superbes !}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.	}
+{144}{}{Oh. D'accord. Bon, elle en a plus des jambes superbes. Elle a été sauvagement attaquée, et elle n'a PLUS de jambes. Elle est même complètement morte, et elle a souffert avant de mourir.}
 {145}{}{D'accord. Bon, je crois que je l'ai trouvée dans les tunnels sous la ville. Morte. Je regrette.}
 {146}{}{Merci de m'avoir prévenu. Je crois qu'il faut que j'aille pleurer.}
 {147}{}{Ouais, c'est ça, espèce de chochotte.}

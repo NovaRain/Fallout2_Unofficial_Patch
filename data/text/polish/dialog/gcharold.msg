@@ -2,7 +2,7 @@
 {101}{}{Widzisz Harolda.}
 {102}{}{Widzisz bardzo starego, ale wciąż żwawego ghula.}
 {103}{hld1a}{Muszę ci to rzec, stary Harold sam jezd niezbyt szybki. Gadając ze sobą nigdy nie doszlibyśmy do końca.}
-{104}{hld1b}{Ahh, ain't you cute.  I just don't have time to try understanding ya right now.}
+{104}{hld1b}{Aach, czyż to nie słodkie? Wisz, ja nie mam czasu, żeby próbować cię zrozumić.}
 {105}{hld1c}{He he, nie ma co, dajesz do pieca.}
 {106}{hld2a}{Hejka gładkoskórku. Harold jestem. Trzymam to miasto na nogach.}
 {107}{hld2a1}{Czegóż ci trza, młodziku?}
@@ -40,7 +40,7 @@
 {139}{}{To brzmi groźnie.}
 {140}{hld7}{O taak, to by było groźne. No, wszystko zostało naprawione na czas, ale byliśmy bliscy zejścia. Potrzeba im kogoś, co by ich pilnował.}
 {141}{}{Na szczęście jesteś tu, żeby im pomóc.}
-{142}{hld8}{Who'd a thought I'd be making things right?  Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
+{142}{hld8}{Któż by pomyślał, że zrobię to jak trzeba? Tym niemniej jeżeli szybko nie dostaniemy Hydroelektrycznego Regulatora Magnetosfery, to będą kłopoty.}
 {143}{}{A co to u licha jest Hydra-negoregutor-magnacośtam?}
 {144}{}{Hmm, rzeczywiście, to brzmi jak prawdziwy problem. Pozwól, że zapytam cię o coś innego.}
 {145}{}{Kłopoty? Jakiego rodzaju kłopoty?}
@@ -54,7 +54,7 @@
 {153}{}{Dzięki. Mam nadzieję, że dorównam mojemu przodkowi. Póki jednak tu jestem, pozwól, że zapytam o coś, co mogłoby mi pomóc.}
 {154}{}{Miło było pomóc. Pozwól jednak, że zapytam o coś innego.}
 {155}{}{Wiesz, to naprawdę zwykła, codzienna robota. No, ale muszę już lecieć. Wiesz, ludzie do uratowania, potwory do ukatrupienia, katastrofy do zapobieżenia i takie tam. Do widzenia.}
-{156}{hld14}{You cut with the dull edge of the knife, don't ya?  You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
+{156}{hld14}{Tniesz tępą stroną noża, czyż nie? Nie wyglądasz jak pomarańczowa pestka wystawiona przez cały dzień na słońce. Twoja skóra wciąż jest gładka i zdrowa.}
 {157}{}{Tu mnie masz. Postaram się, żeby następne pytanie było mądrzejsze.}
 {158}{}{Och. Rzeczywiście. Hej, pozwól, że zapytam o coś jeszcze.}
 {159}{}{Lepiej, żebyś nie miał żadnych śmiesznych pomysłów na temat mojej gładkiej skóry.}

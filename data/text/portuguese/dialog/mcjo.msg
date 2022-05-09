@@ -67,7 +67,7 @@
  achamos que eram só histórias bestas. Então, um dia, Karl parou de vir à cidade.}
 {201}{}{O que aconteceu com ele? Você o procurou?}
 {202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
- tremble violently.] The horror.  Bodies strewn everywhere.  Some crucified, while others were
+ tremble violently.] The horror. Bodies strewn everywhere. Some crucified, while others were
  left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
  images I saw that day.}
 {203}{}{Então, deixe-me adivinhar. Você quer que eu vá a esta fazenda e descubra o que aconteceu.}

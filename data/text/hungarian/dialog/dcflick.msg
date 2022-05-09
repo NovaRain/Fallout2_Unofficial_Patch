@@ -29,7 +29,7 @@
 {301}{}{Öö, nincs.}
 {302}{}{Aha, oké. Akkor hadd kérdezzek valami mást!}
 {303}{}{Értem már. Nem akarlak ööö... kellemetlen helyzetbe hozni. Viszlát!}
-{315}{}{Ide hozzák cuccokat, amit talá'nak. Ici-pici dógokat. Ami má' senkinek se nem kő. Cserébe gongyukat viselem nekijjük.}
+{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {316}{}{Remek egyezségnek látszik.}
 {325}{}{(Flick vállat von). E'vagyunk, mint befőtt...}
 {326}{}{Akkor hadd kérdezzek valami mást!}

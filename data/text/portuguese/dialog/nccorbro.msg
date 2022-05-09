@@ -206,7 +206,7 @@
  ainda em pé e funcionando no mundo. Mas chega de explicações... está procurando emprego, cara? PRECISAMOS de talentos como você.}
 {654}{}{Esse lugar? Isso aqui é o Globo de Ouro, um estúdio de CINEMA, amigo, o único em Reno, provavelmente o ÚNICO
  ainda em pé e funcionando no mundo. Mas chega de explicações... está procurando emprego, querida?}
-{655}{}{How do you "film?"  I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
+{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
 {657}{}{Não, obrigado. Eu tenho que ir.}
 {658}{}{Apenas checando. Me sinto meio esgotado ultimamente.}
 {670}{}{Tivemos sorte... nós não PRECISAMOS dessa porcaria da idade da pedra. Nos deparamos com um projetor gráfico pornô... er, holo...

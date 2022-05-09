@@ -78,8 +78,7 @@
 {177}{}{Czujesz się trochę dziwnie. Nie, zaraz! Czujesz się CHOLERNIE dziwnie. Prawdę mówiąc, czujesz się, jakby twoje serce gwałtownie przyspieszyło, albo cały świat nagle zwolnił i ty nie wiesz już zupełnie co się z tobą dzieje i czy ktoś mógłby ci pomóc bo ty chyba już TRACISZ ZMYSŁY!!! }
 {178}{}{Krzywisz się z niesmakiem. Nagle czujesz straszliwe pieczenie w żołądku. Auu. AUU! AUU!!! To coś przeżera ci wnętrzności! }
 {179}{}{Trochę mętny, ale da się przełknąć. Dziwne, ale czujesz się po nim trochę lepiej.}
-{180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
- spitting and gagging.  You've been irradiated!}
+{180}{}{A co tam! Mimo niezbyt zachęcającego wyglądu postanawiasz wypić miksturę. Nagle zaczynasz kaszleć i pluć, czujesz się fatalnie. Nie ma wątpliwości - to napromieniowanie!}
 {181}{}{[dalej]}
 {182}{}{Raz się żyje. Pamiętając wszystkie te świństwa, które wmuszano w ciebie w dzieciństwie śmiało wypijasz zawartość fiolki. Twój żołądek gwałtownie protestuje, kręci ci się w głowie. Czujesz się jak po ukąszeniu radskorpiona.}
 {183}{}{Hej, wygląda jak woda, więc pewnie nie jest groźne, co? Błąd! Płyn pali cię boleśnie. Wszystko cię boli, i będzie bolało jeszcze bardzo, bardzo długo.}

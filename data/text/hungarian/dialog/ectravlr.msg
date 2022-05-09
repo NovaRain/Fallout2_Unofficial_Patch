@@ -5,15 +5,15 @@
 {104}{}{Mivel foglalkozol?}
 {105}{}{Aghhh!}
 {106}{}{Hát... nem biztos, hogy tudok segíteni. Új vagyok ezen a környéken, még csak az alábbi helyeken voltam.}
-{107}{}{New Reno érdekelne.}
-{108}{}{Menedékváros}
-{109}{}{Hol találom Reddinget?}
-{110}{}{Hogy jutok el Rejtekbe?}
-{111}{}{Merre van San Francisco?}
-{112}{}{Uj Kalifornia Koztarsasag}
+{107}{}{New Reno.}
+{108}{}{Menedékváros.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Egy elhagyatott bánya.}
 {114}{}{Most ennyi elég is lesz. Köszönöm.}
-{115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling.  What more can one ask for?
+{115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
  Here, let me show you where it is.}
 {116}{}{Kösz.}
 {117}{}{Menedékváros - idióták városa. Ha csak egy ujjal több van a kezeden, máris úgy kezelnek, mint egy korcsot. Soha nem voltam ott, de tudom, merre található.}

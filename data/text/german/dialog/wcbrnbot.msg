@@ -2,11 +2,10 @@
 {101}{}{Ein kleines Meisterwerk der Ingenieurskunst, mit dem sich die Grenze zwischen Mensch und
  Roboter weiter verwischt.}
 {102}{}{Skynet wird mit dir reisen.}
-{103}{}{Skynet dankt dem Menschen.                                         Skynet möchte um Gefallen bitten.
-                                Skynet möchte mit dem Menschen reisen.}
+{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
 {104}{}{}
 {105}{}{}
-{106}{}{                         [Diese Gerätschaft könnte sich als praktisch erweisen.]}
+{106}{}{                              [This contraption could be useful.]}
 {107}{}{Roboter mitnehmen.}
 {108}{}{Roboter zurücklassen.}
 {109}{}{Beenden}

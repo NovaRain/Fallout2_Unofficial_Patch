@@ -78,7 +78,7 @@
 {571}{}{Você rouba %s.}
 {572}{}{Você foi pego plantando %s.}
 {573}{}{Você planta %s.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
+{590}{}{Você já forçou a sua capacidade com essa habilidade. Espere um pouco.}
 {591}{}{Você está muito cansado.}
 {592}{}{O cansaço pode matá-lo.}
 {600}{}{Não tem habilidade suficiente para curar ossos quebrados.}

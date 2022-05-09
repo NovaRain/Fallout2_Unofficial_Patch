@@ -1,5 +1,5 @@
 {100}{}{Elle ressemble à un colley.}
-{101}{}{Laddie.}
+{101}{}{You see Laddie.}
 {102}{}{Ce chien a l'air très vif et intelligent.}
 {103}{}{Il n'y pas de doute, ce chien est sûrement plus malin que toi.}
 {150}{}{Wouaf !}

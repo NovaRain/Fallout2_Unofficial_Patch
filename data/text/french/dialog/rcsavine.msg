@@ -41,7 +41,7 @@
 {140}{}{Je voudrais te demander autre chose.}
 {141}{}{D'accord, merci. Au revoir.}
 {142}{}{On cherche souvent des gardes, mais je ne suis pas encore prêt à partir. Je le serai le 21. Reviens si tu veux du boulot.}
-{143}{}{When on the 21st?}
+{143}{}{Why on the 21st?}
 {144}{}{Que transporte cette caravane ?}
 {145}{}{D'accord, merci. Au revoir.}
 {146}{}{Hé, tu dois apprendre à dire non. *Moi* j'ai appris. NON c'est NON !}

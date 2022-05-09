@@ -115,8 +115,7 @@
 {481}{}{Hé... Ne réfléchis pas trop, soeurette. Tu risquerais de te faire du mal.}
 {482}{}{<Héhé hoho héhé ohoho>}
 {490}{}{Je peux te fournir TOUT ce que tu veux, frère. Que ce soit planer, monter au plus haut ou descendre au plus bas, Jules sait où trouver TON bonheur. Je peux t'avoir le plaisir, mais quel est ton désir ?}
-{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOURS pleasure?}
+{491}{}{Jules peux t'avoir TOUT ce que tu veux, soeurette. Que ce soit planer, monter au plus haut ou descendre au plus bas, Jules sait où trouver TON bonheur. Je peux t'avoir le plaisir, mais quel est ton désir ?}
 {492}{}{Jules peux t'avoir TOUT ce que tu veux, ma douce. Que ce soit planer, monter au plus haut ou descendre au plus bas, Jules sait où trouver TON bonheur. Je peux t'avoir le plaisir, mais quel est ton désir ?}
 {493}{}{Bien sûr, bien sûr. Je peux t'avoir le plaisir, mais quel est ton désir ?}
 {494}{}{Peux-tu m'en dire un peu plus sur New Reno ?}

@@ -132,7 +132,8 @@
 {481}{}{He... streng das Gehirn nicht so an, kleine Schwester. Und tu dir nicht weh, OK?}
 {482}{}{Hei-tie-dei-tie-dei-tie-du}
 {490}{}{Ich kann dir ALLES besorgen, Mann. Wenn du fliegen willst, Jules weiß, wo man's herkriegt. Die Frage ist hier: WAS brauchst du?}
-{491}{}{Egal, was du willst, Schwester, Jules ist dein Mann. Wenn du fliegen willst, Jules weiß, wo man's herkriegt. Die Frage ist hier: WAS brauchst du?}
+{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
+ Question is: I gots the treasure, so what's YOUR pleasure?}
 {492}{}{Egal, was du willst, süße kleine Schwester, Jules ist dein Mann. Wenn du fliegen willst, Jules weiß, wo man's herkriegt. Die Frage ist hier: WAS brauchst du?}
 {493}{}{Aber klar, klar... Ich weiß Bescheid, also WAS brauchst du?}
 {494}{}{Kannst du mir ein bisschen über New Reno erzählen?}

@@ -18,7 +18,7 @@
 {117}{}{Co mi mùžeš øíct o Rogeru Westinovi?}
 {118}{}{Chci se sejít se starým Carlsonem. Nevíš o nìkom, kdo by mi s tím mohl pomoct?}
 {119}{}{Nemáš GECK?}
-{120}{}{To je sice hezký, cizinèe, ale já nejsem žádná charita.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Možná. Mám tady optickej zamìøovaè Triveld x10 - perfektnì sedí na loveckou pušku, jestli máš zájem. Jenom za $500.}
 {122}{}{Už nic nemám.}
 {123}{}{Sure, it's a deal.}

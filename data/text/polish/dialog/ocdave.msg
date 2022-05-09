@@ -1,7 +1,6 @@
 {100}{}{Widzisz smutnego, starszego mężczyznę.}
 {101}{}{Widzisz Dave'a, "Pana Nieszczęście".}
-{102}{}{You see a grumpy, older man in his early sixties.  He has a weathered face and looks as if he
- has had his fair share of abuse.}
+{102}{}{Widzisz gderliwego, starszego mężczyznę w wieku około sześćdziesięciu lat. Jego twarz przecinają liczne zmarszczki. Los go chyba zbytnio nie oszczędzał.}
 {103}{}{Och. Nie zauważyłem cię.}
 {104}{}{Jak to nie? Moja duża.}
 {105}{}{Ty smutna. Czemu?}
@@ -15,10 +14,7 @@
 {113}{}{Na przykład?}
 {114}{}{Nieciekawe podejście do życia. Dlaczego tak uważasz?}
 {115}{}{W takim razie wolę nie stać zbyt długo koło ciebie.}
-{116}{}{I was born two months premature.  When I was one, I was dropped on the porch. When I was two, I
- had pneumonia. When I was three, I got the chicken pox. When I was four, I fell down the stairs and broke
- six ribs. When I was five, my uncle was decapitated by a watermelon.  When I was six, my parents hit me
- in the head with a shovel. When I was seven, I lost my right index finger to my pet rat.}
+{116}{}{Urodziłem się dwa miesiące za wcześnie. Kiedy miałem rok upuszczono mnie na podłogę. W wieku dwóch lat zachorowałem na zapalenie płuc, rok później - na ospę. Kiedy miałem cztery lata spadłem ze schodów i złamałem sobie sześć żeber. W dzień moich piątych urodzin mój wujek stracił głowę w wyniku uderzenia arbuzem. W wieku sześciu lat tato uderzył mnie w głowę łopatą. Rok później mój udomowiony szczur odgryzł mi palec wskazujący.}
 {117}{}{Uch, moja słyszy - ktoś woła. Pa!}
 {118}{}{Przykro, niedobrze.}
 {119}{}{To dawno, zapomnieć. Teraz cacy?}
@@ -36,7 +32,7 @@
 {131}{}{Twoja już nie mówić! Moja iść.}
 {132}{}{Mam już dość tej historii. Nie zbliżaj się do mnie pod żadnym pozorem!}
 {133}{}{Cholera, powiedz mi, że nie masz żadnych dzieci.}
-{134}{}{Nope.  When I turned twenty-two this strange fungus started to grow on my test...}
+{134}{}{Nie. Kiedy miałem dwadzieścia dwa, wyrósł mi taki dziwny grzyb na jądr...}
 {135}{}{Aaaarr! Twoja cicho! Moja iść!}
 {136}{}{Stój! Nie chcę tego słyszeć!}
 {137}{}{Och. Cześć. Co mogę dla ciebie zrobić?}

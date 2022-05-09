@@ -126,7 +126,7 @@
 {196}{}{Ich bin kein Feind, nicht schießen.}
 {197}{}{Ich habe mich nicht für den Kampfeinsatz gemeldet, also lass mich in Ruhe.}
 {198}{}{Verdammt! Ich bin Arzt, kein Soldat!}
-{200}{}{[Weiter]}
+{200}{}{[Mehr]}
 {201}{}{Ich möchte dich was fragen.}
 {202}{}{Jetzt nicht. 'Tschuldige das ich störe.}
 {800}{}{Du hast Doktor Schreber getötet.}

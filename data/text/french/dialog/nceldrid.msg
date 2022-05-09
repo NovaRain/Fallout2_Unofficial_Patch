@@ -167,7 +167,7 @@
 {610}{}{Je te suggère de foutre le camp d'ici, sinon je te tue.}
 {700}{}{Foutus chiens ! Je retourne me coucher.}
 {701}{}{Imbéciles de chiens ! Demain, je vous fais tous piquer !}
-{702}{}{Would you dogs be shut up! Nobody's stupid enough to break into a gun store!}
+{702}{}{Les chiens, fermez vos gueules ! Personne n'est assez bête pour attaquer une armurerie !}
 {800}{}{Tu as livré un pistolet laser à Eldridge.}
 {801}{}{Hé, est-ce que je ressemble à un magicien ? Tu vas avoir besoin d'un flingue si tu veux l'améliorer. Maintenant barre-toi et va trouver un fusil que je peux améliorer... Allez, ouste !}
 {802}{}{Reviens quand tu auras l'argent.}

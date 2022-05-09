@@ -14,10 +14,10 @@
 {113}{}{[BACK]}
 {114}{}{Kilépés.}
 {115}{}{HIBA: Az üzemanyagtartály üres.}
-{116}{}{ERROR: Navagation Computer non Functional.}
+{116}{}{ERROR: Navigation Computer non Functional.}
 {117}{}{-Üzemanyag tartály: Üres- -Raktér: Üres- -Navigációs Számítógép: Működik- -Dokkoló kötél: Kivetve-}
 {118}{}{-Üzemanyag tartály: Teli- -Raktér: Üres- -Navigációs Számítógép: Működik- -Dokkoló kötél: Kivetve-}
 {119}{}{You see a PoseidoNet Navigation Computer.}
 {129}{}{[Sietve átfutsz a kidokkolási procedúrán, mire a hajó leválik a dokkról...]}
 {130}{}{[DONE]}
-{131}{}{Navigation computer on-line.}
+{131}{}{Navigation Computer on-line.}

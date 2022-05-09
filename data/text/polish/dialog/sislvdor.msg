@@ -101,8 +101,8 @@
 {201}{}{ sprawnie rozbraja pułapkę.}
 {202}{}{ nie może rozbroić pułapki.}
 {203}{}{Drzwi zdają się być zamknięte.}
-{204}{}{You notice a trap in the door jam.}
-{205}{}{ notices a trap in the door jam.}
+{204}{}{Dostrzegasz pułapkę w zepsutym zamku.}
+{205}{}{ dostrzega pułapkę w zepsutym zamku.}
 {206}{}{Nie możesz umieścić pułapki na tych drzwiach, ponieważ
  są otwarte.}
 {207}{}{ nie może umieścić pułapki na tych drzwiach, ponieważ

@@ -24,7 +24,7 @@
  Mas, por outro lado, meu amigo Woody está desaparecido.}
 {122}{}{Tenho que agradecer por consertar nosso Reator Atômico. Aquele idiota do Festus não faria nada certo.
  Mas, por outro lado, meu amigo Woody está desaparecido.}
-{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day.  Heh, heh, hee.
+{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day. Heh, heh, hee.
  Anyhow's, t'other than that, my friend Woody's done gone missin'.}
 {124}{}{Bem, me conte mais sobre isso.}
 {125}{}{Oh isso é muito ruim. Eu odeio contos tristes. Vou deixá-lo sozinho com sua dor. Adeus.}

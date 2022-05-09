@@ -1,7 +1,6 @@
 {100}{}{Widzisz małą dziewczynkę ubraną w żółtą sukienkę.}
 {101}{}{Widzisz dziecko o imieniu Sandy.}
-{102}{}{You see a small girl wearing a yellow dress with flowers on it.  She appears to be meowing like
- a cat.  She has on a name tag that says "Sandy".}
+{102}{}{Widzisz małą dziewczynkę ubraną w żółtą sukienkę w kwiatki, która miauczy jak kot. Ma kartkę z napisem "Sandy".}
 {103}{}{Miau... miau... jestem kotem. Posiadam specjalne moce, które mają tylko koty. A ty czym jesteś?}
 {104}{}{Ja piesek! Hau! Hau! Kto ty?}
 {105}{}{Urrrgh? [spojrzenie zdezorientowanego szczeniaka]}

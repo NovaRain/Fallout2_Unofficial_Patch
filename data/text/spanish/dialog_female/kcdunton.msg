@@ -1,4 +1,5 @@
-{100}{}{Ves a dos hombres muy parecidos... podrían ser gemelos. Ambos son cejijuntos y bastante musculosos.}
+{100}{}{You see one of two very similar looking men -- they could be twins.
+ Both are heavily muscled and have beetling brows.}
 {101}{}{Ves a Chuck o a Buck Dunton. Ambos se parecen tanto que no estás segura de a cuál de los dos estás mirando.}
 {102}{}{Ves a un hombre alto y musculoso cuyo rostro, debajo de su única ceja, mantiene la típica mueca de suficiencia de matón. Es idéntico a su hermano.}
 {110}{}{Quítate de en medio, o mi hermano y yo vamos a convertir tu pequeña cabecita en pulpa.}

@@ -5,12 +5,12 @@
 {104}{}{Was machst'n du so?}
 {105}{}{Agh.}
 {106}{}{Nun... Keine Ahnung. Ich bin ziemlich neu hier in der Gegend und kam bisher nur an folgenden Orten vorbei.}
-{107}{}{New Reno}
-{108}{}{Vault City}
-{109}{}{Redding}
-{110}{}{Den}
-{111}{}{San Francisco}
-{112}{}{New California Republic}
+{107}{}{New Reno.}
+{108}{}{Vault City.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Eine aufgegebenen Mine.}
 {114}{}{Ne, da war ich schon. Trotzdem danke.}
 {115}{}{New Reno -- Das ist ne Stadt Mann. Sex, Drogen und Glücksspiel. Was kann man da noch verlangen? Lass mich dir zeigen wo es liegt.}

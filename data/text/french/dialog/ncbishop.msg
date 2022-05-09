@@ -38,8 +38,7 @@
 {267}{}{[Il t'observe.] Alors... Où l'as-tu connu Moore ? Il fait de la politique chez les tribals maintenant ? Ha ! Ce garçon a raté sa vocation !}
 {268}{}{Je l'ai rencontré à la Cité de l'Abri, il répandait la bonne parole. Je lui ai proposé de l'aider en t'apportant cette sacoche.}
 {269}{}{Je l'ai rencontré au cours de mes voyages. Je lui ai proposé de l'aider en t'apportant cette sacoche.}
-{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- to do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+{275}{}{Hé... saleté d'humain... Encore les même sermons du vieux coureur de jupon de Moore. Il n'arrête pas son baratin, mais il ne fait pas grand-chose. Hé... Il n'est pas différent des autres gars de la RNC. }
 {276}{}{Il fait beaucoup de sermons. Mais tout ça n'a pas beaucoup de sens.}
 {277}{}{C'est un beau... parleur.}
 {278}{}{Ouais, mais un jour ou l'autre, le boulot doit être fait. Et on m'appelle pour être sûr que tout arrive à bon port... comme cette sacoche.}

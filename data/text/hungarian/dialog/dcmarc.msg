@@ -3,8 +3,8 @@
 {102}{}{Marcot látod. Tyler egyik őrét.}
 {150}{}{Hé, Tyler!}
 {200}{}{What the...?}
-{225}{}{Tudtam, hogy elbánunk azokkal a nyápicokkal.}
-{226}{}{Kösz a tippet. Jót mulattunk.}
+{225}{}{Kösz a tippet. Jót mulattunk.}
+{226}{}{Tudtam, hogy elbánunk azokkal a nyápicokkal.}
 {227}{}{Kár, hogy mindet kinyírtuk. Most mit csináljunk?}
 {228}{}{Királyok vagyunk, nem igaz?}
 {229}{}{Túl jók vagyunk.}

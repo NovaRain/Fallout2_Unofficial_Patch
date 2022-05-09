@@ -23,11 +23,11 @@
 {122}{}{Ne, opravdu to nejde.}
 {123}{}{Prosím, prosím... má žena je pro mì vším.}
 {124}{}{Jsi hluchý? Øekl jsem, že ne!}
-{125}{}{Fine. Fine, just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.	}
+{125}{}{Dobøe, dobøe, pøestaò kòuèet.}
+{126}{}{Tady máš peníze. A teï prosím, PROSÍM... najdi mou ženu a øekni mi, kde je. Možná žije s nìkým jiným, možná mì opustila... ale musím to vìdìt.}
 {127}{}{Dobøe, máš to mít. Jak vypadá?}
 {128}{}{Žádný problém. Udìlám, co budu moct.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.    }
+{129}{}{::nìkolikrát neovladatalnì zavzlyká:: No dobøe, tak bìž. A vìø, že jsi mi zlomil srdce.}
 {130}{}{Mìj se, nulo.}
 {131}{}{Je to blondýnka, docela sexy a má fantastický hlas... naposled jsem ji vidìl támhle. Nemá ráda mutanty a ghouly, takže ji mezi nimi nehledej. Nikdo neví, kam šla. Prostì zmizela.}
 {132}{}{To mi bude jako popis staèit.}
@@ -42,7 +42,7 @@
 {141}{}{Nebyla to kráska bez nohou?}
 {142}{}{V chodbách pod mìstem je spousta mrtvých tìl. Byla mezi nimi. Je mi to líto.}
 {143}{}{Cože? Ne! Mìla krásné nohy!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.	}
+{144}{}{Aha, dobøe. Tak teï už nemá krásné nohy. Byla surovì napadena a teï je BEZ nohou. Je doèista mrtvá a pøed smrtí dost trpìla.}
 {145}{}{Aha. No, myslím, že je v chodbách pod mìstem. Je mrtvá. Je mi to líto.}
 {146}{}{Díky za pomoc. Myslím, že se pùjdu vybreèet.}
 {147}{}{Tak bìž, ty jelimane.}

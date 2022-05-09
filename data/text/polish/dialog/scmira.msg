@@ -96,7 +96,7 @@
 {195}{}{Moja iść już}
 {196}{}{Dzięki - mam nadzieję. Słuchaj, masz czas by odpowiedzieć mi na kilka pytań?}
 {197}{}{Dzięki. Po prostu uważam, że powinnaś o tym wiedzieć.}
-{198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside.  It's yours now - as far as I'm concerned you earned it.}
+{198}{}{Co? O, gdybym nie była w pracy, wspięłabym się na bar i... cóż, pocałowała cię. Ta mała gnida zasłużyła sobie na to. Nie mów nikomu, ale miałam nadzieję znaleźć jakiegoś głupiego osiłka żeby to dla mnie załatwił. Mam nawet nagrodę. Jest twoja. Z tego co słyszałam, w pełni na nią zasługujesz.}
 {199}{}{Dzięki - mam nadzieję. Słuchaj, masz czas by odpowiedzieć mi na kilka pytań?}
 {200}{}{Dzięki. Po prostu uważam, że powinnaś o tym wiedzieć.}
 {201}{}{Osiołku, sprawiasz, że jestem najszczęśliwszą kobietą w okolicy! W nagrodę mam dla ciebie niespodziankę, tutaj za barem. Jest twoja.}

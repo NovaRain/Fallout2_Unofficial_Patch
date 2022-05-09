@@ -60,8 +60,8 @@
 {159}{}{Itthagyom.}
 {160}{}{Rendben. Akkor ne fogadd el!}
 {161}{}{Jól van, jól van...}
-{162}{}{Helló, haver! }
-{163}{}{Ó, te vagy az? }
+{162}{}{Hi, friend!}
+{163}{}{Oh, good. It's you again.}
 {164}{}{Szevasz.}
 {165}{}{Tudtam hogy ezek a mocskok, Franc, Manson, Jacob és Aileen terveznek valamit ellenünk. Szép munka! Naszóval...}
 {166}{}{Remélem, gondolkoztál azon, hogy azt az ércet visszaadd a városnak... Naszóval...}

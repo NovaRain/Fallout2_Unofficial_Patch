@@ -128,11 +128,10 @@
  Wiedersehn.}
 {185}{}{Ich weiß ja nicht, wie du das durchstehst, aber wahrscheinlich tust du das ja nie.
  Stehen, meine ich. Tschüss.}
-{186}{}{[Fannie scheint eine große Last von den Schultern zu fallen.] Hey, du bist's! Lou hat
- mir schon erzählt was du getan hast. Das Zeug was sie mir eingeflößt haben hat mich sicher krank gemacht, aber
- seitdem hatte ich kein Bedürfnis mehr nach Jet. [Sie küsst dich auf die Wange.] Ich stehe für immer in deiner Schuld...
- vielleicht kann ich wenigstens ein wenig davon begleichen auf eine *ganz besondere* Art. 
- Wann immer du in Stimmung bist, komm einfach vorbei. [wink]}
+{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
+ me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since
+ then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
+ Whenever you're in the mood, just come on by; free of charge. (wink)}
 {187}{}{Ich werd darauf zurückkommen. Danke, Fannie.}
 {188}{}{Nochmal danke. [Verführerisch] Und denk daran, bei dir geht alles aufs Haus. [wink]}
 {189}{}{Hey! Lust Fannie zu besuchen? Auf Kosten des Hauses natürlich. [grinst]}

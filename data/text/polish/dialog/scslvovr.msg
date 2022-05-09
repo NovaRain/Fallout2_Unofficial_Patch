@@ -29,7 +29,7 @@
 {128}{}{Wiesz coś o organizacji zwanej Enklawa?}
 {129}{}{Szukam pracy. Nie wiesz przypadkiem, kto mi może ją dać?}
 {130}{}{Zapomnij. Nie chcę ci zabierać czasu.}
-{131}{}{Those bastards killed my brother and then said it was for the good of the people!  I want them dead. If you can help, talk to Vortis.}
+{131}{}{Ci dranie zabili mi brata, a potem powiedzieli, że to dla dobra ludzi! Chcę ich martwych. Jeśli chcesz pomóc, pogadaj z Vortisem.}
 {132}{}{Wydaje mi się, że to jest bardzo dobry pomysł.}
 {133}{}{Vortis, tak? Jesteś fontanną mądrości. Co jeszcze wiesz?}
 {134}{}{Super. Myślę, że tak właśnie zrobię.}

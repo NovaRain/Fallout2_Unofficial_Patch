@@ -3,8 +3,8 @@
 {102}{}{Você vê Marc, um dos guardas de Tyler.}
 {150}{}{Yo, Tyler!}
 {200}{}{Mas o que...?}
-{225}{}{Eu sabia que poderia pegar os bichanos.}
-{226}{}{Obrigado pela dica. Essa foi uma coisa divertida.}
+{225}{}{Obrigado pela dica. Essa foi uma coisa divertida.}
+{226}{}{Eu sabia que poderia pegar os bichanos.}
 {227}{}{Pena que matou todos eles. Agora o que vamos fazer?}
 {228}{}{Está quente ou o que?}
 {229}{}{Nós somos muito bons.}

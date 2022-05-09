@@ -19,7 +19,7 @@
 {118}{}{Milyen kísérletről beszél?}
 {119}{}{Mi ez a kibergenetika dolog?}
 {120}{}{Azt várja, hogy elhiggyem ezt? Maga most szökött a zártosztályról!}
-{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem.  You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
+{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
 {122}{}{Természetesen az egyszerű gondolkodású kollégáim a lehető legdurvább módon próbálják megoldani a problémát. Megtisztulás a javából! Elismerem, hogy voltak korai nehézségek, de mostanra már elimináltuk őket... szerintem.}
 {123}{}{}
 {124}{}{Folytatás}

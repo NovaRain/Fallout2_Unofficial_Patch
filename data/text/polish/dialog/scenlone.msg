@@ -74,7 +74,7 @@
 {173}{}{}
 {174}{}{Tak!}
 {175}{}{}
-{176}{}{Transcendency?  Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
+{176}{}{Oświeconych? Zaprawdę, jak niby mam tutaj głosić słowo, jeżeli nawet nie informują mnie na bieżąco o ostatniej obowiązującej doktrynie!?}
 {177}{}{(Dalej)}
 {178}{}{Co to, spało się na indoktrynacji? Hmm - nie należysz do oświeconych!}
 {179}{}{A więc twierdzisz, że jest jakaś siła wyższa, która stworzyła nas dla jakiegoś celu, a potem tak po prostu opuściła nas? Nie mogę uwierzyć, że ktoś mógłby być tak bezduszny. Chodź, przyjmij Kościół Centrologiczny. Pozwól pokazać sobie prawdziwą drogę.}

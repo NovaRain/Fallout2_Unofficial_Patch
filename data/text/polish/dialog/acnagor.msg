@@ -1,6 +1,6 @@
 {100}{}{Widzisz swego młodego kuzyna, Nagora. Ciekawe, gdzie podziewa się jego pies - Smoke.}
 {101}{}{Znasz Nagora od małego, zawsze pomagaliście sobie nawzajem.}
-{102}{}{Cousin, am I glad to see you!  I need your help.}
+{102}{}{Kuzynie! Jestem taki szczęśliwy, że cię widzę. Czy mógłbyś mi w czymś pomóc?}
 {103}{}{Wybacz, nie mam teraz czasu.}
 {104}{}{Tak, o co chodzi?}
 {105}{}{W takim razie pójdę tam sam!}
@@ -47,4 +47,4 @@
 {214}{}{Przykro mi, kuzynie. Odkąd ostatnio odszedłeś jest tu coraz gorzej. Ludzie chorują, braminy zdychają i... ja... mój pies, Smoke umarł. Morlis zmuszona była go ugotować. Tak za nim tęsknię... Przepraszam... naprawdę nie mogę dłużej o tym rozmawiać..}
 {215}{}{Przykro mi kuzynko. Odkąd ostatnio odeszłaś jest tu coraz gorzej. Ludzie chorują, braminy zdychają i... ja... mój pies, Smoke umarł. Morlis zmuszona była go ugotować. Tak za nim tęsknię... Przepraszam... naprawdę nie mogę dłużej o tym rozmawiać..}
 {300}{}{Widzisz Nagora.}
-{302}{}{Cousin, am I glad to see you!  I need your help.}
+{302}{}{Kuzynie! Jestem taki szczęśliwy, że cię widzę. Czy mógłbyś mi w czymś pomóc?}

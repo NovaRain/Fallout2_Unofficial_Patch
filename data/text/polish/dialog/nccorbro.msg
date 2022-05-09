@@ -186,7 +186,7 @@
 {652}{}{To miejsce? To jest, kochanie, Golden Globes, studio FILMOWE, jedyne w Reno, prawdopodobnie JEDYNE postawione i wciąż stojące, łapiesz? To jak, będziesz gadać, aż mi zwiędną uszy, czy chcesz tę robotę?}
 {653}{}{To stare miejsce? To jest Golden Globes, studio FILMOWE, prawdopodobnie jedyne wciąż stojące w całym świecie. Ale dość już gadania o tym miejscu... szukasz pracy, kolego? POTRZEBNY nam ktoś z takim talentem jak twój.}
 {654}{}{To stare miejsce? To jest Golden Globes, studio FILMOWE, prawdopodobnie jedyne wciąż stojące w całym świecie. Ale dość już gadania o tym miejscu... Słodziutka, szukasz pracy?}
-{655}{}{How do you "film?"  I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
+{655}{}{A jak "filmujecie"? To znaczy, no wiesz... potrzebne by wam były kamery, taśma, wyświetlacze... skąd wzięlibyście ten cały sprzęt?}
 {657}{}{Nie, dzięki. Muszę już iść.}
 {658}{}{Tylko sprawdzam. Ostatnio nie czuję się zbytnio na siłach.}
 {670}{}{Mieliśmy kupę szczęścia... nie POTRZEBUJEMY tych wszystkich przedpotopowych śmieci. Nadzialiśmy się na DZIAŁAJĄCY wyświetlacz porno... ee, holo...graficzny. Żadnego ciężkiego sprzętu, żadnego tłoku... i żadnego zbędnego bałaganu.}

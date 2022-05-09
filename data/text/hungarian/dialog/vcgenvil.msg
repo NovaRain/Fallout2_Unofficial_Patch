@@ -2,7 +2,7 @@
 {101}{}{Egy falubélit látsz.}
 {102}{}{Helló!}
 {103}{}{Jó napot.}
-{104}{}{Üdvözöllek a falunkban.}
+{104}{}{Welcome to our village.}
 {105}{}{Szörnyek oltalmaznak minket.}
 {106}{}{Siess vissza!}
 {107}{}{Hamarosan szükségünk lesz a fegyverekre.}

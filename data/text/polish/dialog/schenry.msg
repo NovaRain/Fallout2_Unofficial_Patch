@@ -9,17 +9,17 @@
 {108}{}{Słyszałeś może kiedyś o miejscu zwanym Enklawą?}
 {109}{}{Nie twój interes.}
 {110}{}{Hmm, wykształcone instynkty zwierzęce... zatrzymany rozwój intelektualny. Jednakże żadnych większych fizycznych mutacji. Nie, obawiam się, że po prostu się nie nadajesz. Miłego dnia.}
-{111}{}{The Chosen One? Of course, that makes sense.  Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
+{111}{}{Dziecko Przeznaczenia? Oczywiście, to ma sens. Interesujące... Obawiam się, że nie mogę ci pomóc. Przydzielono mnie do badań nad cybergenetyką, a nie do Projektu Behawioralnego Krypt.}
 {112}{}{O czym ty mówisz?}
 {113}{}{Projekt Behawioralny Krypt?}
 {114}{}{Cybergenetyka? Nie przypominam sobie znajomości tej dziedziny.}
 {115}{}{Tak. Jesteś tak zakręcony jak słoiczek. Do widzenia.}
 {116}{}{O rany, już powiedziałem więcej, niż powinienem. Nieważne, a gdyby ktoś pytał, to ja nic nie mówiłem.}
-{117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment.  Sloppy work, I'd say.}
+{117}{}{Coś o ekstremalnych warunkach socjologicznych. Miej na uwadze, że myślałem, iż to wszystko jakieś czary-mary, żadnej w tym prawdziwej nauki. Ale słyszałem coś o 13, że musi być improwizowana w trakcie trwania eksperymentu. Według mnie to brudna robota.}
 {118}{}{Eksperyment? Jaki eksperyment?}
 {119}{}{A co z tą cybergenetyką?}
 {120}{}{Sądzisz, że ci w to wszystko uwierzę? Jesteś szurnięty.}
-{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem.  You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
+{121}{}{Och, to kompletnie nowa dziedzina - bardzo interesująca. W tej chwili właśnie pracuję nad kilkoma projektami - radykalnie nowe podejście do problemu mutantów. Widzisz, to jest naprawdę całkiem proste - mutacje nie są wyrokiem. Da się je wyleczyć.}
 {122}{}{Oczywiście moi jednowymiarowi koledzy chcą rozwiązać cały ten problem w najbrutalniejszy możliwy sposób. Oczyszczanie, tak. Przyznaję, że pojawiły się na początku pewne problemy, ale teraz już je wszystkie rozwiązałem... Tak sądzę.}
 {123}{}{}
 {124}{}{Kontynuuj.}
@@ -48,7 +48,7 @@
 {147}{}{I... Jak zadziałało?}
 {148}{}{Zabiło go! Mówiłeś, że to uleczy mutanty!}
 {149}{}{Nie żyje, Jim.}
-{150}{}{You misunderstood. I said it would remove their mutagenic potential. The process does seem violent on the system, though.  Oh well, more refining to do.}
+{150}{}{Źle się zrozumieliśmy. Powiedziałem, że to usunie ich mutagenny potencjał. Ten proces wydaje się jednak być bardzo brutalnym wobec systemu. No cóż, trzeba będzie bardziej oczyścić.}
 {151}{}{A co z moją zapłatą?}
 {152}{}{Jesteś potworem! Nie chcę mieć z tobą nic wspólnego.}
 {153}{}{Wciąż jakieś błędy, rozumiem. Cóż, próbuj, wciąż próbuj.}

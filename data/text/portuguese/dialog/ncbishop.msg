@@ -43,7 +43,7 @@
 {268}{}{Eu o conheci em Vault City, espalhando a palavra. Eu me ofereci para ajudá-lo entregando esta pasta para você.}
 {269}{}{Cruzei com ele durante minhas viagens. Eu me ofereci para ajudá-lo entregando esta pasta para você.}
 {275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- to do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{Ele prega muito. Ainda assim, parece fazer muito sentido.}
 {277}{}{Ele tem um certo... talento com as palavras.}
 {278}{}{Sim, bem, em algum momento um trabalho precisa ser feito, e eles me ligam para garantir que as coisas

@@ -77,9 +77,9 @@
 {354}{}{Przepraszam. Nie wiem co mi strzeliło do głowy.}
 {360}{}{Spieprzaj stąd zanim się rozmyślę.}
 {361}{}{W porządku.}
-{370}{}{What? Oh, you must be looking for Mom's. You're one building off.  She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
+{370}{}{Co? A, szukasz lokalu Mamuśki. To o jeden budynek dalej. Znajdziesz ją na południe stąd. P-o-ł-u-d-n-i-e. Tam. [Wskazuje kierunek.]}
 {371}{}{He? Yyy... Eee.}
-{380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's  gonna start now.}
+{380}{}{Może i się nadasz, ale Metzger jeszcze nigdy nie zatrudnił babki. Nie wiem czemu, ale chyba nie zacznie ot tak sobie.}
 {381}{}{Chyba się nie nadasz, poza tym Metzger jeszcze nigdy nie zatrudnił babki. Nie wiem czemu, ale chyba nie zacznie ot tak sobie.}
 {382}{}{Kazałem ci pogadać z Metzgerem.}
 {383}{}{Kim jest Metzger?}

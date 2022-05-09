@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Widzisz jednego z dwóch bardzo podobnych do siebie mężczyzn - mogliby być bliźniakami. Obaj są dobrze umięśnieni i mają nastroszone brwi.}
 {101}{}{Widzisz Chucka, a może Bucka Duntona - obaj są do siebie tak podobni, że nie umiesz powiedzieć, na którego z nich w tej chwili patrzysz.}
 {102}{}{Widzisz wysokiego, dobrze umięśnionego mężczyznę. Poniżej krzaczastych brwi dostrzegasz twarz powykręcaną w typowy dla awanturnika pogardliwy, acz nieco przygłupi uśmieszek. Mężczyzna wygląda dokładnie tak samo jak jego brat.}
 {110}{}{Lepiej stąd zmiataj, albo razem z bratem zrobimy sobie z twojej małej główki grzechotkę.}
@@ -150,7 +149,7 @@
 {371}{}{Co ty tu robisz do ciężkiego licha? Chcesz pomóc, czy nie? Moglibyśmy mieć dla ciebie robotę, jeśli cię to interesuje.}
 {372}{}{Interesuje mnie. Opowiedz mi o tym.}
 {373}{}{Nie chcę mieć z wami dwoma nic wspólnego. Żegnam.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{Te części radskorpionów były w tamtej chatce. Wiesz do czego służą?}
 {380}{}{Czego u licha chcesz od nas? Zapomniało ci się, po co tu jesteś?}
 {381}{}{Nie. Pamiętam. Zaraz się tym zajmę.}
 {382}{}{Zwariowaliście? Oni są na naszym tropie. Przychodzę, żeby was ostrzec, żebyście dali sobie z tym spokój. Założę się, że jesteśmy obserwowani.}

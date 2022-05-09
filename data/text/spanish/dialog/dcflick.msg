@@ -29,7 +29,7 @@
 {301}{}{Uh, no.}
 {302}{}{Oh, vale. Entonces déjame preguntarte otra cosa.}
 {303}{}{Ah, ya veo. Bueno, je, por mí no te cortes. Eh... adiós.}
-{315}{}{Me traen lo que encuentran. Piccoli, pequeñas cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}
+{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {316}{}{Parece un buen acuerdo.}
 {325}{}{(Flick se encoge de hombros) Supongo que sí.}
 {326}{}{Otra pregunta, si no te importa.}

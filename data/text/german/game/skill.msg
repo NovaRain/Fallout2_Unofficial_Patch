@@ -24,16 +24,16 @@
 {205}{}{Das Werfen von Waffen aus eigener Kraft - Wurfmesser, Speere und Granaten.}
 {206}{}{Allgemeine Heilfertigkeit. Unterstützt die Heilung kleiner Schnitt- und Schürfwunden und anderer kleinerer Leiden. Im Spiel heilt der Einsatz Erster Hilfe mit der Zeit mehr Trefferpunkte als bloßes Ausruhen.}
 {207}{}{Das Heilen großer Wunden und schwer verletzter Glieder. Ohne diese Fähigkeit dauert es viel länger, bis schwer verletzte Körperteile heilen.}
-{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{208}{}{Unauffälliges Bewegen und die Fähigkeit, unerkannt zu bleiben. Im Erfolgsfall bist du schwerer ausfindig zu machen. Gleichzeitiges Laufen und Schleichen ist nicht möglich.}
+{209}{}{Die Fähigkeit, Schlösser ohne den richtigen Schlüssel zu öffnen. Die Verwendung mechanischer oder elektronischer Dietriche steigert diese Fähigkeit erheblich.}
 {210}{}{Die Fähigkeit, den Besitz anderer zu deinem zu machen. Kann zum Bestehlen von Personen oder Orten eingesetzt werden.}
 {211}{}{Finden und Entfernen von Fallen. Ebenso Einsatz von Sprengstoffen zum Abbruch.}
 {212}{}{Beinhaltet eine Vielfalt von Hi-Tech-Fähigkeiten wie den Umgang mit Computern und Kenntnissen in Biologie, Physik und Geologie.}
 {213}{}{Die praktische Anwendung der Fähigkeit Wissenschaft. Das Reparieren defekter Geräte, Maschinen und elektronischer Bauteile.}
-{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
+{214}{}{Die Fähigkeit, sachlich und effizient zu kommunizieren und dabei andere von der Richtigkeit seiner Position zu überzeugen. Die Fähigkeit, zu lügen und dabei nicht erwischt zu werden.}
+{215}{}{Handel treiben und damit verwandte Aufgaben. Die Fähigkeit, einen höheren Verkaufspreis und einen niedrigeren Einkaufspreis auszuhandeln.}
+{216}{}{Das Wissen und die praktische Kenntnis des Glücksspiels. Karten spielen, Würfeln und andere Glücksspiele.}
+{217}{}{Praktisches Wissen über die Natur. Die Fähigkeit, sich von den Gaben der Natur zu ernähren. Das Wissen über Pflanzen und Tiere.}
 {300}{}{+ (4 x BE)}
 {301}{}{+ (2 xBE}
 {302}{}{+ (2 xBE}
@@ -78,7 +78,7 @@
 {571}{}{Du stiehlst %s.}
 {572}{}{Du wirst erwischt, als du %s anbringst.}
 {573}{}{Du bringst %s an.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
+{590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bisschen.}
 {591}{}{Du bist zu müde.}
 {592}{}{Die Anstrengung könnte dich umbringen.}
 {600}{}{Du verfügst nicht über die Fähigkeiten, schwere Verletzungen zu heilen.}

@@ -18,7 +18,7 @@
 {117}{}{What can you tell me about Roger Westin?}
 {118}{}{Az öreg Carlsonnal kellene találkoznom. Nem tudsz valakit, aki ismeri?}
 {119}{}{Nincs egy ÉLETED?}
-{120}{}{Ez mind szép és jó, de én nem vagyok információs iroda.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Talán. Akad itt egy Triveld 10x puskatávcső - tökéletesen ráillik egy vadászpuskára, csak eddig nem akadt rá vevő. Olcsón adom, 500 dolcsiért.}
 {122}{}{Hé, már kitisztítottál haver.}
 {123}{}{Sure, it's a deal.}
@@ -29,7 +29,7 @@
 {128}{}{Nem akarok Mr. Merk ügyeibe belekeveredni és amúgy sem kifizetődő pletykákat elhinteni róla. Ha kérdésed van, beszélj vele magad a Rawhide-ban.}
 {129}{}{Értem.}
 {130}{}{Viszlát!}
-{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town.  Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
 {132}{}{Értem.}
 {133}{}{Viszlát!}
 {134}{}{Funny you go asking that after what happened to Roger Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}

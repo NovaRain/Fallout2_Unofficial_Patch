@@ -167,7 +167,7 @@
 {1500}{}{Tu as gagné 10 000 points d'expérience !}
 {1501}{}{Ruines}
 {1502}{}{La voiture est à court d'énergie.}
-{1503}{}{This is a car. It doesn't look like it's running.}
+{1503}{}{C'est une voiture. On dirait qu'elle est en panne.}
 {2998}{}{Tu rencontres :}
 {2999}{}{Veux-tu rencontrer :}
 {3000}{}{un groupe de pillards.}

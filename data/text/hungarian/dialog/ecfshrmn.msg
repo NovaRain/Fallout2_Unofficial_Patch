@@ -1,6 +1,6 @@
 {100}{}{You see a Fisherman.}
 {101}{}{Épp időben érkeztél, hogy saját szemeddel lásd a Tenger Istennőjének áldását.}
-{102}{}{[Tovább]}
+{102}{}{[TOVÁBBI LEHETŐSÉG]}
 {103}{}{}
 {104}{}{Minden nagy vihar előtt lándzsákat hajítunk a tengerbe, hogy megmutassuk az elemeknek a bátorságunkat. Ha méltónak találtatunk, az Istennő gyümölccsel ajándékoz meg minket.}
 {105}{}{Az viharos évszak kezdetekor broc-virágokat szórunk a tengerbe dagály idején. Az Istennő mágiájának hatására a virágok helyett nagyon ritka xander gyökereket sodornak partra a hullámok.}

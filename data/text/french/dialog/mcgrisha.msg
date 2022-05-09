@@ -124,8 +124,8 @@
 {603}{}{Euh, elle est morte.}
 {604}{}{Miria était en vie quand je l'ai quittée, mais elle doit être morte, maintenant.}
 {605}{}{Davin était en vie quand je l'ai quitté, mais il doit être mort, maintenant.}
-{606}{}{Davin , uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria , uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin, euh, n'a pas pu faire le voyage, mais je lui transmettrai ton salut quand je le verrai.}
+{607}{}{Miria, euh, n'a pas pu faire le voyage, mais je lui transmettrai ton salut quand je la verrai.}
 {700}{}{Arrgh... [Le choc se lit sur le visage de Grisham, alors qu'il se tient soudain la poitrine et s'effondre.]}
 {750}{}{Bon, il faut que je retourne au travail, maintenant. A plus tard.}
 {800}{}{Tu as sauvé la Brahmine de Grisham.}

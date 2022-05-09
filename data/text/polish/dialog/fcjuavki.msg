@@ -19,7 +19,7 @@
 {118}{}{On: Widzisz? Nauki Centrum znowu pokazały swoją wartość!}
 {119}{}{Mam kilka pytań.}
 {120}{}{Dzięki! Na razie!}
-{121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber".  That's what makes us celebrities.}
+{121}{}{Ona: Ależ działamy w biznesie filmowym w Nowym Reno. Nakręciliśmy setki filmów, wiele z nich jest już klasykami, jak "Top gan", "Ryśka biznes", czy "Mission possible 2". Oto, co czyni z nas gwiazdy.}
 {122}{}{On: Ale, jako osoba związana z tym Przemysłem, już o tym dawno wiesz.}
 {123}{}{Miło jest w końcu skojarzyć twarze z nazwiskami.}
 {124}{}{Co z tego, że WY popieracie Centrologię? Przecież decyzja o tym, czy będę ją popierać, należy do mnie!}
@@ -92,7 +92,7 @@
 {191}{}{On: Ta decyzja zmieni twoje życie. Ona: I, niestety, jest to zła decyzja. Oboje: Straże! Straże!}
 {192}{}{Cholera.}
 {193}{}{On: Witaj,}
-{194}{}{A więc co mam robić teraz, gdy już należę do Centrologów?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{Umówilibyście się ze mną?}
 {196}{}{To mi wystarczy. Na razie!}
 {197}{}{}

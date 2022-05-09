@@ -14,7 +14,7 @@
 {116}{}{Opa!}
 {117}{}{Desça lá embaixo. Mostre para o AHS-7, que está trabalhando no portão agora, e ele a levará para você ou o guiará para o AHS-9. Agora posso voltar ao trabalho, carne?}
 {118}{}{Com certeza.}
-{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post.  Now, either get downstairs or get out of here.}
+{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
 {120}{}{Ta bom, fio. Não precisa se exaltar.}
 {121}{}{Na verdade, é problema meu. Esta é minha nave e estes são meus guardas - agora, quem é você e o que está fazendo aqui?}
 {122}{}{Eu sou}
@@ -58,7 +58,7 @@
 {191}{}{Até logo!}
 {192}{}{Primeiro, precisamos dos planos do vertibird para nos assegurar que a aerodinâmica está bem. Se você pode fazer isso, verifique com o Shi ou suba aquela antiga base em Navarro.}
 {193}{}{Lembre-se, você está encontrando os planos dos vertibirds para nós. Tente com os Shi ou aquela antiga base de Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro.  Have you reconsidered helping us?}
+{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
 {195}{}{Lembre-se, recruta! As miseráveis dos Shi possuem os planos.}
 {196}{}{Tenho os planos para o vertibird.}
 {197}{}{Esqueça.}

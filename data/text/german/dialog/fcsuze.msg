@@ -39,6 +39,5 @@
 {132}{}{Woher bist du?}
 {133}{}{Wie hast du Dachs kennengelernt?}
 {134}{}{Jetzt nicht. Bis dann.}
-{135}{}{Oh mein Gott...Dachs ist tot...ich weiß nicht, was ich jetzt tun soll...Ich hab hier
- keine Freunde...meine ganze Familie ist tot...oh mein Gott.}
+{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
 {136}{}{Danke für deine Hilfe. Ich werde jetzt Dachs suchen.}

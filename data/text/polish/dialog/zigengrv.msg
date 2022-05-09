@@ -42,7 +42,7 @@
 {323}{}{"Scott Campbell. Nie ten od zupy."}
 {324}{}{"Tu spoczywa Scott Everts. Spóźniał się do pracy. Zdążył na swą śmierć."}
 {325}{}{"Scott Rodenhizer. Twórca trójwymiarowych głów."}
-{326}{}{"Thomas French:  Died while attempting to master the Flying Guillotine."}
+{326}{}{"Thomas French: Zginął próbując opanować Latającą Gilotynę."}
 {327}{}{"Tim Cain. Założyciel, Kochanek, Wojownik, Programista."}
 {328}{}{"Tramell Ray Isaac: Tu spoczywa jeden z najciężej pracujących ludzi w branży. Animator par excellence (jak się to pisze?). Tak myślę. Spoczywaj w pokoju T-Ray."}
 {329}{}{"Zeb - Wciąż Starszy Niż Brud."}
@@ -56,7 +56,7 @@
 {337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, lat 25. Zginął młodo od pocisków zawistnego losu." }
 {339}{}{"Tu spoczywa Doug "Skully" Finch (Data nie jest ważna). Zabity za palenie w supermarkecie. Ostatnie słowa - `A możecie mi...!'"}
-{340}{}{"Here lies Donnie Cornwell, good and dead.  In an extra large coffin to fit his extra large head."}
+{340}{}{"Tu spoczywa Donnie Cornwell, dobry i martwy. W ekstra dużej trumnie, żeby pomieściła jego ekstra dużą głowę."}
 {341}{}{"Rob Giampa wiódł takie życie, jakie lubił kobiety: szybkie, tanie i łatwe."}
 {342}{}{"T. D. Hamilton: Tu leży śmierdząca szmata, która powinna była umrzeć dawno temu? Smaż się w piekle, SUKO!"}
 {343}{}{"Kolejna ofiara ostatecznego terminu."}
@@ -69,7 +69,7 @@
 {350}{}{"Reg Arnedo: echo jego głosu wciąż rozbrzmiewa w korytarzach."}
 {351}{}{"Shanna SanPaolo."}
 {352}{}{"Brahmin Wrangler."}
-{353}{}{"Josh Walters, 1971-2011.  Died of complications during his fifth liver transplant."}
+{353}{}{"Josh Walters, 1971-2011. Umarł w wyniku komplikacji po piątym przeszczepie wątroby."}
 {354}{}{"Doug Avery. Znienawidził wojnę za zniszczenie osiedla przyczep campingowych, na którym mieszkał."}
 {355}{}{"Tu spoczywa Ezekial Aikle, lat 102. Tylko dobrzy umierają młodo."}
 {356}{}{"Tu spoczywa Ann Mann, która żyła jako stara panna, ale umarł jako stary mężczyzna. 8 grudnia, 1767"}
@@ -96,9 +96,9 @@
 {377}{}{"Sarah Smart: Oratorka, Autorka, Profesorka, De Amicitia."}
 {378}{}{"Tim Winkle - Nie zniosę niczyjej hipokryzji, poza swoją."}
 {379}{}{"Jughead - King of Queen Archie's World."}
-{380}{}{"R.I.P Casey Donahue Died 8/6/98  Killed by Mutated Ill-Tempered Sea Bass."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nietoperz' Jones: zapalony zielarz."}
-{382}{}{"Jay "Potato Feet" Nielson.  Musician.  Passed on at the age of 104, during a drum solo."}
+{382}{}{"Jay "Kartoflane Stopy" Nielson. Muzyk. Zmarł w wieku 104 lat, podczas solówki na perkusji."}
 {383}{}{"Nitsa - Powód, dla którego Charles NIE DOSTAŁ hokeja."}
 {384}{}{"Thuy Dang. Niech Bóg zlituje się nad jego nazwiskiem."}
 {500}{}{Zręcznie zastawiasz pułapkę na grobie.}

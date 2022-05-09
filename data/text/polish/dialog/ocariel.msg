@@ -1,6 +1,6 @@
 {100}{}{Widzisz niską, szczupłą kobietę ubraną w niebieską, aksamitną sukienkę.}
 {101}{}{Widzisz wdowę Ariel.}
-{102}{}{You see a short, slender woman wearing a blue velvet sun dress.  She appears to be sad.}
+{102}{}{Widzisz niską, szczupłą kobietę ubraną w niebieską, aksamitną sukienkę letnią. Wygląda na zasmuconą.}
 {103}{}{Witaj, jestem Ariel. Chyba cię tu wcześniej nie widziałam. Kim jesteś?}
 {104}{}{Ja}
 {105}{}{Uch... ty smutna. Czemu?}

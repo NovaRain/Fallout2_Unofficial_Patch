@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Vidíš jednoho ze dvou velmi podobnì vypadajících mužù. Nejspíš dvojèata. Oba jsou poøádnì svalnatí a pøeènívá jim oboèí.}
 {101}{}{Vidíš buï Chucka nebo Bucka Duntona. Jsou si však natolik podobní, že nevíš jistì, na kterého z nich se zrovna díváš.}
 {102}{}{Vidíš vysokého, velmi svalnatého muže, jehož výraz ve tváøi pøipomíná zamraèeného rváèe. Vypadá stejnì jako jeho bratr.}
 {110}{}{Bude lepší, když odsud vypadneš, nebo ti já a mùj bratr rozmlátíme ciferník na kaši.}
@@ -150,7 +149,7 @@
 {371}{}{Co tu ksakru dìláš? Chceš nám pomoct nebo ne? Možná pro tebe máme práci, jestli máš zájem.}
 {372}{}{Jo, mám zájem. Povìzte mi o té práci.}
 {373}{}{Myslím, že s vámi dvìma nechci nic mít. Sbohem.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{Támhle v té chatrèi ležela hromada nìjakých èástí broukù. Na co je máte?}
 {380}{}{Co sakra chceš? Nepamatuješ si, co máš udìlat?}
 {381}{}{Pamatuju. Pustím se do našeho plánu.}
 {382}{}{Zbláznili jste se? Jdou po nás. Chci vás varovat a ne pokoušet štìstí. Vsadím se, že nás teï právì sledují.}

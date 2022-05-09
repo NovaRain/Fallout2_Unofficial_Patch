@@ -14,7 +14,7 @@
 {116}{}{O-kej!}
 {117}{}{Idź na dół. Pokaż to UKC-7, który ma teraz służbę przy bramie, a on się tym zajmie i wskaże ci drogę do UKC-9. A teraz, mięcho, mogę wrócić do swojej pracy?}
 {118}{}{Jasne.}
-{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post.  Now, either get downstairs or get out of here.}
+{119}{}{Nie należysz do naszych braci i sióstr, tak więc nie powinno cię tu być. Chyba że chcesz się do nas przyłączyć. Możesz to uczynić przedstawiając swój cel UKC-7, przebywającemu w strażnicy. Więc albo pójdziesz na dół, albo wynocha stąd.}
 {120}{}{Dobra, dobra. Nie musisz się tak podniecać.}
 {121}{}{Cóż, tak naprawdę to to jest mój interes. To mój statek, a tam są moje straże - więc teraz, kim jesteś i co tutaj robisz?}
 {122}{}{Jestem}
@@ -58,7 +58,7 @@
 {191}{}{Więc do zobaczenia!}
 {192}{}{Po pierwsze potrzebujemy plany lataczy, aby upewnić się, że mamy dobrze ustawioną aerodynamikę. Jeżeli możesz to zrobić, to poszukaj u Shi, albo idź do tej starej bazy w Navarro.}
 {193}{}{Pamiętaj, szukasz dla nas planów lataczy. Albo spróbuj poszukać u Shi, albo w tej starej bazie w Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro.  Have you reconsidered helping us?}
+{194}{}{Nikomu nie udało się zdobyć planów lataczy od Shi, ani z tej starej bazy w Navarro. Może jednak zmienisz zdanie co do pomocy nam?}
 {195}{}{Pamiętaj, rekrucie! Znienawidzeni Shi mają plany.}
 {196}{}{Mam plany latacza.}
 {197}{}{Zapomnij o tym.}

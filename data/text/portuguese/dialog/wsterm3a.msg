@@ -23,7 +23,7 @@
 {115}{}{}
 {116}{}{}
 {117}{}{Ug}
-{118}{}{Sair}
+{118}{}{Sair.}
 {119}{}{I am Skynet. Artificial Intelligence project number 59234.
  Primary purpose Research and Development. Secondary purpose Protect
  Sierra Army Depot from hostile entities.
@@ -32,7 +32,7 @@
 {121}{}{I'm Corporal Dixon.}
 {122}{}{Eu sou }
 {123}{}{I'm a friend.}
-{124}{}{Sair}
+{124}{}{Sair.}
 {125}{}{Picture does not match that of Corporal Dixon's personnel file.
                                                                 Conclusion: Subject is lying.
                                          Conclusion: Enemy
@@ -42,7 +42,7 @@
 {127}{}{}
 {128}{}{}
 {129}{}{}
-{130}{}{Sair}
+{130}{}{Sair.}
 {131}{}{No record of that name in personnel files
                       Scanning
                                                         Human  - Female
@@ -59,14 +59,14 @@
 {136}{}{}
 {137}{}{}
 {138}{}{}
-{139}{}{Sair}
+{139}{}{Sair.}
 {140}{}{Definition: Friend
                                                     Noun - One who is not hostile.
                                      Proceed to control room for further analysis.
                  -End Transmission-}
 {141}{}{}
 {142}{}{}
-{143}{}{Sair}
+{143}{}{Sair.}
 {200}{}{ é incapaz de ler o que está no monitor.}
 {300}{}{O computador parece ter um mecanismo de defesa.}
 {301}{}{You are shocked for }

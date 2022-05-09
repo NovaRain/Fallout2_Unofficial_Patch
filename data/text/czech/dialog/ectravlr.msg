@@ -5,12 +5,12 @@
 {104}{}{Co dìláš?}
 {105}{}{Eh.}
 {106}{}{No... nevím. Jsem tu docela nová a byla jsem jen na následujících místech.}
-{107}{}{New Rena}
-{108}{}{Vault City}
-{109}{}{Reddingu}
-{110}{}{Denu}
-{111}{}{San Francisca}
-{112}{}{New California Republic}
+{107}{}{New Reno.}
+{108}{}{Vault City.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{Nìjaký opuštìný dùl.}
 {114}{}{Ne, tam už jsem byl. Každopádnì díky.}
 {115}{}{New Reno... to je super místo. Sex, drogy a hazard. Co víc si èlovìk mùže pøát?

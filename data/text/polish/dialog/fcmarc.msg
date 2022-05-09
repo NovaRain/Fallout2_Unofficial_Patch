@@ -11,7 +11,7 @@
 {110}{}{Nic takiego. Na razie.}
 {111}{}{Hmm. Nie, sorry, w tym ci nie pomogę. Może spróbuj u kogoś innego.}
 {112}{}{Ęki?}
-{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all.  ::he smiles::}
+{113}{}{Jestem Mark, tutejszy mądrala i wszystkowiedzący. [uśmiecha się]}
 {114}{}{A. Mam inne pytania.}
 {115}{}{Bywaj.}
 {116}{}{To statek marynarki Posejdona Valdez - zwany też PMV Valdez. Jak chcesz więcej informacji o Valdezie, to najlepiej pogadać z Kapitanem.}
@@ -25,7 +25,7 @@
 {124}{}{Kapitan to taki twardy wojskowy. Siedzi na górze i pilnuje tu wszystkiego. Ma wszechstronną wiedzę o tym statku.}
 {125}{}{Dzięki. Potrzebuję więcej informacji.}
 {126}{}{Dzięki. Na razie.}
-{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war.  You want to hear more?}
+{127}{}{Ach, z całego pustkowia. Słyszeliśmy różne rzeczy o San Francisco, przekazane nam przez starszych. Niektórzy z nas mają przodków, którzy mieszkali tu przed wielką wojną. Chcesz o tym usłyszeć więcej?}
 {128}{}{Tak.}
 {129}{}{Nie, ale chcę cię zapytać o coś jeszcze.}
 {130}{}{Nie, to wszystko.}

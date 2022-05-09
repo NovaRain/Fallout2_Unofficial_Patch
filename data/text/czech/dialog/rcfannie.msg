@@ -84,10 +84,7 @@
 {183}{}{V tom pøípadì doufám, že nemáš moc vybíravej nosánek, protože horníci nemaj zrovna moc v lásce vodu a mýdlo.}
 {184}{}{Opravdu? No, možná to pro mì tak úplnì není. Ale díky za nabídku. Sbohem.}
 {185}{}{Nechápu, jak to mùžeš vydržet, ale hádám, že taky asi nevydržíš. Tím myslím ten smrad. Sbohem.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need for Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+{186}{}{(Fannie vypadá, jako kdyby z ní spadlo tìžké bøemeno, které ji pøedtím tížilo.) Hej, to jsi ty! Lou mi øekla, co jsi udìlal. Z toho, co mi nalila do pití, se mi udìlalo pìknì blbì, ale od tý doby nemám vùbec nutkání si vzít další dávku Jetu. (Políbí tì na tváø.) Ani nevím, jak bych se ti mohla odvdìèit... teda, vìdìla bych o jedný *vìci*. Kdykoliv budeš mít náladu, tak se zastav. Bez placení. (mrkne)}
 {187}{}{Budu na to myslet. Díky, Fannie.}
 {188}{}{Ještì jednou díky. (olízne si ret) A pamatuj, pro tebe je to vždycky na úèet podniku. (mrkne)}
 {189}{}{Zdravím! Nechceš strávit nìkolik pøíjemnejch chvilek s Fannie? Na úèet podniku, samozøejmì. (ušklíbne se)}

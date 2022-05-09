@@ -121,7 +121,7 @@
 {490}{}{Eu posso conseguir QUALQUER COISA que voce precisa, irmao. Se voce precisa voar, ficar alto, usar um bagulho FORTE,
  Jules sabe onde voce precisa ir. O negocio e o seguinte: eu tenho a solucao, entao, qual é o SEU problema?}
 {491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOURS pleasure?}
+ Question is: I gots the treasure, so what's YOUR pleasure?}
 {492}{}{Qualquer coisa que voce precise, Jules é o seu HOMEM, docinho. Se voce precisa voar, subir alto, usar um bagulho FORTE, Jules
  sabe onde voce PRECISA ir. O negocio e o seguinte: eu tenho a solucao, entao, qual e o SEU problema?}
 {493}{}{Com certeza, com certeza... Eu tenho a solucao, entao, qual e o seu problema?}

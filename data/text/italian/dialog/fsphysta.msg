@@ -21,7 +21,7 @@
 {120}{}{Indietro.}
 {121}{}{"Stiamo ancora lavorando ad un modello funzionante di un veicolo aereo. Nessuno dei progetti che abbiamo creato si e' dimostrato sicuro o aerodinamico. Se solo potessimo entrare in possesso dei documenti degli antenati..." -Dr. Wong}
 {122}{}{Indietro.}
-{123}{}{(Dopo aver letto con gran fatica l'introduzione e la parte dedicata alla matematica, scopri che gli Shi stanno imparando a sfruttare nuovamente l'energia nucleare, stanno rispolverando le teorie degli antenati sul viaggio spaziale - e facendo questo lanciano una sfida agli Hubologisti - e che sono in grado di imbrigliare l'energia del sole, del vento e del mare. Almeno, questo e' quanto ti pare dicano i documenti.)}
+{123}{}{(Dopo aver faticosamente letto l'introduzione e la parte dedicata alla matematica, scopri che gli Shi stanno imparando a sfruttare nuovamente l'energia nucleare, sono a buon punto nella riscoperta delle teorie degli antenati sul viaggio spaziale - una vera e propria sfida agli Hubologisti - e sono prossimi ad imbrigliare l'energia del sole, del vento e del mare. Almeno, questo e' quanto ti pare dicano questi dati.)}
 {124}{}{Indietro.}
 {125}{}{Postazione disattivata.}
 {126}{}{Attivare postazione.}

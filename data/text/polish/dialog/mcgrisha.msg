@@ -124,8 +124,8 @@
 {603}{}{Eeeee, ona nie żyje.}
 {604}{}{Przed moim odejściem Miria była jeszcze żywa ale mam przeczucie, że teraz jest już martwa.}
 {605}{}{Przed moim odejściem Davin był jeszcze żywy ale mam przeczucie, że teraz jest już martwy.}
-{606}{}{Davin , uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria , uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin, eeee, nie mógł udać się w podróż ale kiedy się tylko z nim zobaczę, to przekażę mu twoje pozdrowienia.}
+{607}{}{Miria, eeee, nie mogła udać się w podróż ale kiedy się tylko z nią zobaczę, to uściskam ją od ciebie.}
 {700}{}{Aaach... [Twarz Grishama wykrzywia się w paroksyzmie bólu, po czym łapie się on za serce i pada na podłogę]}
 {750}{}{Cóż, muszę teraz wrócić do pracy. Do zobaczenia.}
 {800}{}{Udało ci się uratować braminy Grishama.}

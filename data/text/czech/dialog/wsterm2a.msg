@@ -23,7 +23,7 @@
 {127}{}{Analyzuji pøíkaz, prosím èekejte...
                               Obcházím uživatelský pøíkaz
                                           Pøístup odepøen}
-{128}{}{[More]}
+{128}{}{[Více]}
 {129}{}{K deaktivaci poplachu stisknìte 1                                    Pro diagnostický program stisknìte 2                             Pro ukonèení stisknìte 3}
 {130}{}{Stisknout 1.}
 {131}{}{Stisknout 2.}
@@ -42,7 +42,7 @@
 {144}{}{Analyzuji pøíkaz, prosím èekejte...                           Ukonèit vše...                                                      Pøerušeno kódem 667 - Skynet                                  Pøístup k tomuto terminálu byl ukonèen.}
 {145}{}{Konec.}
 {146}{}{Ukonèení diagnostického programu.}
-{147}{}{[More]}
+{147}{}{[Více]}
 {300}{}{ - ID: }
 {301}{}{                     Poslední pøístup: }
 {303}{}{Desátník Dixon}

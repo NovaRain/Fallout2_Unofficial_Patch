@@ -1,5 +1,5 @@
 {100}{}{Vidíš dobøe ozbrojenou strá.}
-{101}{}{You see an Hubologist guard.}
+{101}{}{Vidíš strá Hubologistù.}
 {102}{}{Vidíš dobøe ozbrojenou osobu s krutım pohledem v oèích.}
 {103}{}{Vetøelec!}
 {104}{}{Chyte vetøelce!}

@@ -6,10 +6,8 @@
 {122}{}{Deerk deugleu !}
 {123}{}{Toi qui ?}
 {124}{}{Marcus se pose quelques questions à ton sujet.}
-{125}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. You're going down.}
-{126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Il existe suffisamment d'éléments prouvant que tu as volé de l'argent censé revenir aux Collines Brisées pour t'arrêter. T'es cuit.}
+{126}{}{Il existe suffisamment d'éléments prouvant que tu as volé de l'argent censé revenir aux Collines Brisées pour t'arrêter. File-moi $1 000 et je ferai en sorte que tu puisses t'enfuir de la ville.}
 {127}{}{Qui es-tu ?}
 {128}{}{Parle-moi de cet endroit.}
 {129}{}{Rien. Salut.}
@@ -17,8 +15,7 @@
 {131}{}{Heu r'voir !}
 {132}{}{Je m'appelle Chad.}
 {133}{}{Ecoute, je suis très occupé. Va embêter quelqu'un d'autre.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade
- routes. These days I'm focusing primarily on Gecko. }
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{D'OOkK !}
 {136}{}{Je voudrais travailler pour toi.}
 {137}{}{Ca a l'air excitant.}
@@ -29,10 +26,10 @@
 {142}{}{J'ai d'autres questions.}
 {143}{}{Salut.}
 {144}{}{Comme quoi ?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Apparemment rien, salut.}
 {147}{}{Ecoute, je n'aime pas que les gens m'accusent de quelque chose dont je ne sais rien. Je te suggère de partir.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{Je finirai par découvrir la vérité. Salut.}
 {156}{}{Vois avec Bill. Il te donnera un coup de main.}
 {157}{}{J'ai d'autres questions.}
 {158}{}{Merci. Au revoir.}

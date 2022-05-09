@@ -31,7 +31,7 @@
 {130}{}{In realta' mi interessa. Vorrei del carburante per la petroliera Poseidon Oil.}
 {131}{}{Scommetto che interesserebbe molto agli Hubologisti. Vogliono del carburante.}
 {132}{}{No, non ancora. Ma tornero'.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship.  It is the one called Crockett that you will wish to speak with.}
+{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
 {134}{}{Lo faro'.}
 {135}{}{Non posso promettere nulla.}
 {136}{}{Ne ho una proprio qui.}

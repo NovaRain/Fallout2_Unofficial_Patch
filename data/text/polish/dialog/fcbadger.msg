@@ -71,12 +71,12 @@
 {170}{}{Jakbym kradł dziecku cukierki. Nigdy mnie nie znajdą. Czego od nich chcesz?}
 {171}{}{Świetnie. Mam więcej pytań.}
 {172}{}{Świetnie. Czekaj tu na mnie.}
-{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines.  Are you sure you want me to go after them?}
+{173}{}{Mogę się do nich dobrać. Nieźle bronią swoich danych, a ich maszyny doskonale zabezpieczają programy. Na pewno mam się tam dostać?}
 {174}{}{Cóż, życzę szczęścia. Mam trochę pytań.}
 {175}{}{Powodzenia. Wrócę tu później.}
 {176}{}{Hej, znajdź moją panienkę, to pogadamy.}
 {177}{}{Dobra już, dobra.}
-{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me.  Give me a few hours to get myself together.}
+{178}{}{Nie żyje? Nie ŻYJE? Jak zginęla? Nie, czekaj... nic nie mów. Daj mi kilka godzin, muszę się pozbierać.}
 {179}{}{Oczywiście.}
 {180}{}{Otrząśnij się Mistrzuniu. Mamy kupę roboty.}
 {181}{}{W porządku. Już mi lepiej.}
@@ -99,7 +99,7 @@
 {198}{}{Dobrze cię znowu widzieć.}
 {199}{}{Szukam paliwa.}
 {200}{}{Słyszałem, że Centrologowie mają paliwo. Mógłbym dla ciebie zajrzeć do ich komputera.}
-{201}{}{The Shi have all the fuel around here.  I could take a gander at their mainframe for you.}
+{201}{}{Shi kręcą tu całym paliwem. Mógłbym zerknąć dla ciebie do ich głównego komputera.}
 {202}{}{Mógłbyś?}
 {203}{}{Czego do cholery chcesz?}
 {204}{}{Punk Badger, jak sądzę?}
@@ -116,7 +116,7 @@
 {215}{}{Czy możesz przenieść paliwo z ich rezerw do tankowca?}
 {216}{}{Nieważne, zrobię to inaczej.}
 {217}{}{Nieważne.}
-{218}{}{Alright.  Check back with me in a day or so and I'll let you know.}
+{218}{}{Dobra. Przyjdź tu za dzień lub dwa, a ja dam ci znać.}
 {219}{}{Zdobyłeś czego potrzebowałem?}
 {220}{}{Tia, mam paliwo.}
 {221}{}{Tia, mam plany lataczy.}

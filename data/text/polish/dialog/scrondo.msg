@@ -1,7 +1,7 @@
 {100}{}{Widzisz człowieka w poplamionym smarami ubraniu, prawdopodobnie mechanika.}
 {101}{}{To Rondo, właściciel tego interesu.}
 {102}{}{Sądzisz, że jest mechanikiem, ale nosi broń, co wydaje się nieco dziwne.}
-{103}{}{Greetings, ranger. Time's been good, I hope.}
+{103}{}{Witaj strażniku. Mam nadzieję, że wszystko w porządku.}
 {104}{}{Któregoś dnia wytłuczemy tych łowców niewolników.}
 {105}{}{Potrzebuje upolować więcej łowców niewolników.}
 {106}{}{Przykro mi, ale wypadliśmy z interesu.}

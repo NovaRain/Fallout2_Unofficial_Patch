@@ -43,7 +43,7 @@
 {157}{}{Chyba pogoda niebawem się zmieni.}
 {158}{}{Na południu zastawiłem całą sieć pułapek.}
 {159}{}{Jeśli masz choć trochę rozumu w głowie, to trzymaj się z daleka od Duntonów.}
-{160}{}{If your anxious, try the Bathhouse.}
+{160}{}{Jeśli chcesz się odprężyć, zajrzyj do Łaźni.}
 {161}{}{Idź na zachód do Miasteczka Traperów, jeśli poszukujesz miejsca do zagrzania.}
 {162}{}{Witaj, przyjacielu.}
 {163}{}{Mam nadzieję, że lubisz nasze miasto.}

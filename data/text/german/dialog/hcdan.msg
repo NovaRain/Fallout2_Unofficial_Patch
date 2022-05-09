@@ -28,14 +28,11 @@
 {122}{}{Nee, mach ich nicht.}
 {123}{}{Bitte. Meine Frau...sie bedeutet mir alles. Also bitte.}
 {124}{}{Ich hab nein gesagt!}
-{125}{}{Schon gut, schon gut, lass mich nur in Ruhe.}
-{126}{}{Hier ist das Geld. Und jetzt find BITTE meine Frau und sag mir, wo sie ist. Vielleicht
- hat sie sich mit einem anderen eingelassen und hat mich verlassen...aber ich muss wissen, was los
- ist.}
+{125}{}{Fine! Fine! Just stop pestering me.}
+{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
 {127}{}{Alles klar, Mann. Wie sieht sie denn aus?}
 {128}{}{Kein Problem. Ich werd mein Bestes tun.}
-{129}{}{::Er schluchzt einen Augenblick lang hemmungslos:: Ich hab verstanden. Geh. Dir ist
- hoffentlich klar, dass du mein Herz gebrochen hast.    }
+{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
 {130}{}{Bis dann, du Verlierer.}
 {131}{}{Sie ist blond, sexy und hat eine unglaubliche Singstimme... Ich hab sie zuletzt hier im
  Viertel gesehen. Sie konnte Mutanten und Ghuls nicht leiden, denen wär sie also nicht zu nahe
@@ -53,8 +50,7 @@
 {142}{}{Ich hab mehrere Tote in den Tunnels unter der Stadt gefunden. Sie war auch dabei. Tut mir
  leid.}
 {143}{}{Was? Nein, sie hatte tolle Beine!}
-{144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde übel mitgespielt und
- Ihre beine sind AB. Sie ist tot und Sie litt bevor Sie starb.}
+{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
 {145}{}{Ja, ja. Ich hab sie in den Tunnels unter der Stadt gefunden. Sie ist tot. Tut mir leid.}
 {146}{}{Danke, dass du es mir gesagt hast. Jetzt muss ich mich ausweinen.}
 {147}{}{Ja, wein ruhig, du Heulsuse.}

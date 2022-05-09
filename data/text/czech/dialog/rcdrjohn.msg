@@ -233,4 +233,4 @@
 {326}{}{Á, vidím, že jste koneènì vzhùru. Právì jste doslova nacpaný rozptylovaèi tepla a tepelnými membránami. Za pár týdnù už sice nebudete vypadat tak hrbolatì, ale i tak zapomeòte na úèast v soutìži krásy. Jo a zkuste se neškrábat kolem drenáží, dokud z nich nepøestane vytékat hnis.}
 {327}{}{Díky za radu, doktore. Je to skvìlé. Poslyšte, chci se ještì na nìco zeptat.}
 {328}{}{Díky za operaci, doktore. Už musím jít. Sbohem.}
-{329}{}{You deliver the Jet antidote to Dr. John.}
+{329}{}{You deliver the Jet antidote to Dr. Johnson.}

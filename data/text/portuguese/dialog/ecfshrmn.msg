@@ -1,6 +1,6 @@
 {100}{}{Você vê um pescador.}
 {101}{}{Você está apenas em tempo de testemunhar as bênçãos da Deusa do Mar.}
-{102}{}{[More]}
+{102}{}{[MAIS]}
 {103}{}{}
 {104}{}{Pouco antes de uma grande tempestade, lançamos lanças no mar para mostrar nossa bravura contra os elementos.
   Se nos provamos ser dignos, a Deusa nos recompensa com frutos.}

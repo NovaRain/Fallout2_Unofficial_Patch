@@ -2,7 +2,7 @@
 {101}{}{Você vê Harold.}
 {102}{}{Você vê um ghoul muito velho, mas com uma aparência ágil.}
 {103}{hld1a}{Preciso te dizer, o velho Harold é um pouco lento entender. Nós dois conversando não resolveríamos nada.}
-{104}{hld1b}{Ahh, ain't you cute.  I just don't have time to try understanding ya right now.}
+{104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
 {105}{hld1c}{Heh heh, que coisas você vê. }
 {106}{hld2a}{Olá, pele lisa. Meu nome é Harold. Eu ajudo a manter esta cidade funcionando.}
 {107}{hld2a1}{Do que precisa, jovem?}
@@ -40,7 +40,7 @@
 {139}{}{Isso soa mal.}
 {140}{hld7}{Uh, sim, isso seria ruim. Agora, eu consertei as coisas a tempo, mas chegamos perto do fim. Eles precisam de alguém para cuidar deles.}
 {141}{}{Que bom que você está aqui para ajudá-los.}
-{142}{hld8}{Who'd a thought I'd be making things right?  Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
+{142}{hld8}{Who'd a thought I'd be making things right? Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
 {143}{}{Mas que porra é um Regulador Hidrelétrico de sei lá o que?}
 {144}{}{Hmm, parece um problema real, sim. Deixe eu perguntar outra coisa.}
 {145}{}{Problema? Que tipo de problema?}
@@ -54,7 +54,7 @@
 {153}{}{Obrigado. Espero viver de acordo com meu ancestral. Deixa eu aproveitar para perguntar sobre outra coisa.}
 {154}{}{Feliz por ajudar. Deixa eu perguntar sobre outra coisa.}
 {155}{}{Bem, tudo em um dia de trabalho, na verdade. Mas eu preciso ir agora. Pessoas para salvar, monstros para matar, desastres para evitar, você sabe, esse tipo de coisa. Adeus.}
-{156}{hld14}{You cut with the dull edge of the knife, don't ya?  You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
+{156}{hld14}{You cut with the dull edge of the knife, don't ya? You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
 {157}{}{Entendi. Vou tentar fazer com que minha próxima pergunta valha mais a pena.}
 {158}{}{Oh. Sim. Ei, deixe-me perguntar outra coisa.}
 {159}{}{É melhor você não ter nenhuma ideia engraçada sobre minha pele macia.}

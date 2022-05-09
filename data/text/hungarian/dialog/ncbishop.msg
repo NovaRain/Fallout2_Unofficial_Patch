@@ -38,7 +38,8 @@
 {267}{}{(Végigtanulmányoz.) Tehát... HONNAN is ismered Moore-t? Most épp megpróbál politizálni a nép egyszerű fiai között? Ha! A srácnak mindig máson jár az esze, mint amihez ért.}
 {268}{}{Menedékvárosban találkoztunk, épp az igét terjesztette. Felajánlottam, hogy eljuttatom magának az aktatáskáját.}
 {269}{}{Véletlenül belebotlottam az utazásaim során. Felajánlottam, hogy eljuttatom magának az aktatáskáját.}
-{275}{}{Heh... ez annyira tipikus... prédikáció ide vagy oda, a vén Tomcat Moore úgy tűnik, inkább parancsokat osztogat, mintsem, hogy egy fűszálat is keresztbe tegyen. Heh... szakasztott olyan, mint a többi ÚKK-s.}
+{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{Valóban sokat prédikál, viszont elég értelmeseket tud mondani.}
 {277}{}{Hát van egy sajátos... beszédstílusa.}
 {278}{}{Igen, de valakinek a kétkezi munkát is el kell végezni, és akkor lépek én a képbe... itt van például ez az aktatáska dolog.}

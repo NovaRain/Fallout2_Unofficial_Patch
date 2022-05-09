@@ -36,7 +36,7 @@
 {127}{}{Parancs megvizsgálása - Kérem, várjon...
                            Felülbírált felhasználói parancs
                                      Belépés elutasítva}
-{128}{}{[Tovább]}
+{128}{}{[TOVÁBBI LEHETŐSÉG]}
 {129}{}{A Riasztó kikapcsolásához nyomja meg az 1-est!
                  Diagnosztikához nyomja meg a 2-est!
                              Kilépéshez nyomja meg a 3-ast!}
@@ -70,7 +70,7 @@
                     Hozzáférés ehhez a terminálhoz: Elutasítva.}
 {145}{}{Befejezés}
 {146}{}{Diagnosztikai Program befejezése.}
-{147}{}{[Tovább]}
+{147}{}{[TOVÁBBI LEHETŐSÉG]}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }

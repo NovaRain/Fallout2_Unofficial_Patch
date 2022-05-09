@@ -120,7 +120,7 @@
 {471}{}{Nie, paczka jeszcze nie jest dostarczona.}
 {472}{}{Tak, paczka została dostarczona do Ramireza, tak jak prosiłeś.}
 {473}{}{Tak, paczka jest już w Stajniach... czy wiesz, co oni tam ROBIĄ z ludźmi? Torturują niewolników narkotykami.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a Jet head? He was REEKING of Jet fumes.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Więc... czemu tu jesteś? (Duży Jesus przeciera czoło i bierze głęboki wdech) DLACZEGO przesyłka nie została dostarczona?}
 {481}{}{Mam jeszcze kilka pytań...}
 {482}{}{Wyruszam z nią w tej chwili.}
@@ -189,7 +189,7 @@
 {664}{}{Salvatore jest zbyt dobrze chroniony. Muszę niestety zrezygnować z tej pracy.}
 {670}{}{Jeśli... uciekniesz od tej pracy, każę cię... ZABIĆ.}
 {671}{}{Skoro tak stawiasz sprawę, wrócę, gdy tylko umrze.}
-{672}{}{Try anything, and you'll be joining the Mordinos the Salvatores butchered.}
+{672}{}{Spróbuj czegokolwiek, a dołączysz do tych Mordino, których zarżnęli Salvatore.}
 {680}{}{Tak słyszałem. (Kiwa głową z uznaniem) Udało... ci się. Nie pomyliłem się ufając ci. Oto... twoja zapłata. Pięćset... dolców. }
 {681}{}{Dziękuję.}
 {682}{}{To wystarczy... na razie.}

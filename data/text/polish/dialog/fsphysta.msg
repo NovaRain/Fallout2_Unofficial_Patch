@@ -21,7 +21,7 @@
 {120}{}{Wróć.}
 {121}{}{"Wciąż przygotowujemy działający model maszyny latającej. Żaden z naszych dotychczasowych projektów nie był ani bezpieczny, ani aerodynamiczny. Być może gdybyśmy mieli dostęp do planów naszych przodków..." - dr Wong}
 {122}{}{Wróć.}
-{123}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea.  At least, that's what the notes read like.)}
+{123}{}{(Po przejrzeniu wstępu i podstaw matematycznych dowiadujesz się, że Shi uczą się po raz kolejny używać energii atomowej, odbudować teorię lotów kosmicznych starożytnych - i biją w tym Centrologów na głowę - i wykorzystywać energię słońca, wiatru, morza. A przynajmniej tak tam jest napisane.)}
 {124}{}{Wróć.}
 {125}{}{Stacja wyłączona.}
 {126}{}{Włącz stację.}

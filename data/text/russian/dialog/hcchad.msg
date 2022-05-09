@@ -6,10 +6,8 @@
 {122}{}{Нако то-овец!}
 {123}{}{Ты кто?}
 {124}{}{Маркус о тебе спрашивал.}
-{125}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. You're going down.}
-{126}{}{There's enough evidence that you've been stealing money that's supposed to go to Broken Hills
- that you can be arrested. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{У меня есть очень веские доказательства того, что ты присваиваешь деньги, которые должны были пойти на нужды Брокен Хиллс. Вполне достаточно для ареста. Пошли в тюрягу.}
+{126}{}{У меня есть очень веские доказательства того, что ты присваиваешь деньги, которые должны были пойти на нужды Брокен Хиллс. Вполне достаточно для ареста. С тебя $1000, и я дам тебе бежать из города.}
 {127}{}{Кто вы?}
 {128}{}{Расскажи мне об этом месте.}
 {129}{}{Ничего. Пока.}
@@ -17,8 +15,7 @@
 {131}{}{Босвиданя!}
 {132}{}{Я Чед. }
 {133}{}{У меня очень много дел. Докучай кому-нибудь другому.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade
- routes. These days I'm focusing primarily on Gecko. }
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{Ладно!}
 {136}{}{Есть для меня работа?}
 {137}{}{Звучит впечатляюще.}
@@ -29,10 +26,10 @@
 {142}{}{У меня есть еще вопросы.}
 {143}{}{Пока.}
 {144}{}{Типа каких?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Да так, ничего. Пока.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
-{150}{}{I'm going to find the truth. Bye.}
+{150}{}{Я еще докопаюсь до правды. Пока.}
 {156}{}{Поговори с Биллом, он тебе поможет.}
 {157}{}{У меня есть еще вопросы.}
 {158}{}{Спасибо. Пока.}

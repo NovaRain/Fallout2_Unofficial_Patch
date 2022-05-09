@@ -130,7 +130,7 @@
 {229}{}{Hmmm. Interesuje mnie coś jeszcze...}
 {230}{}{Rozumiem. Cóż, chętnie się czegoś napiję. Co tu serwujecie?}
 {231}{}{To ciekawe. Dzięki za informacje. Do zobaczenia.}
-{232}{}{Oh, no, no... it's not slavery. Those people you seeing working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Ależ nie... to nie niewolnictwo. Ci ludzie... łącznie ze mną, to służba a nie niewolnicy! Jesteśmy tu traktowani bardzo dobrze: uczą nas czytać i pisać, zapewniają opiekę medyczną i dach nad głową.}
 {233}{}{Jednym słowem macie wszystko oprócz wolności, tak?}
 {234}{}{Skoro nie narzekacie, to rzeczywiście nie ma problemu.}
 {235}{}{Nieważne. Chcę się czegoś napić. Co tu serwujecie?}

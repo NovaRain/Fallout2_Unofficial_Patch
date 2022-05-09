@@ -11,7 +11,7 @@
 {110}{}{Nada. Tchau.}
 {111}{}{Hmm. Esquece, foi mal, não posso te ajudar com isso. Talvez um outro dia.}
 {112}{}{Aleu?}
-{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all.  ::he smiles::}
+{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}
 {114}{}{Oh. Eu tenho outras perguntas.}
 {115}{}{Adeus.}
 {116}{}{Esse é um navio do Poseidon, o PMV Valdez. Se precisar de mais informações sobre o navio, é melhor procurar o capitão.}
@@ -25,7 +25,7 @@
 {124}{}{O capitão é um militar durão. Ele fica lá em cima e verifica o lugar. Ele tem um bom conhecimento completo sobre o navio.}
 {125}{}{Obrigado. Eu tenho mais perguntas.}
 {126}{}{Obrigado. Tchau.}
-{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war.  You want to hear more?}
+{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
 {128}{}{Sim.}
 {129}{}{Não, mas queria te perguntar outra coisa.}
 {130}{}{Não, isso é tudo.}

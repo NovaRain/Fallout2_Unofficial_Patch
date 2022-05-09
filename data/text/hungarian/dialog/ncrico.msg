@@ -19,8 +19,8 @@
 {208}{}{Grunt.}
 {209}{}{Horkant néhányat.}
 {210}{}{Én nem szeret beszéd}
-{211}{}{Yoo smell guuud.}
+{211}{}{Yoo smell guuud...}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo cute. Me no hit you.}
-{214}{}{Yoo make me blush.}
+{214}{}{Yoo make me blush...}
 {215}{}{Ööö... én Rico...}

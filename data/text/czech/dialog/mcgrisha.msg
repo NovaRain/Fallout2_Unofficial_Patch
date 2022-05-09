@@ -124,8 +124,8 @@
 {603}{}{Ehmm, je mrtvá.}
 {604}{}{Miria byla naživu, když jsme se rozešli, ale myslím, že teï už bude urèitì mrtvá.}
 {605}{}{Davin byl naživu, když jsme se rozešli, ale myslím, že teï už bude urèitì mrtvý.}
-{606}{}{Davin , uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria , uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin... ehm, nemohl se mnou jít, ale vyøídím mu tvùj pozdrav, až ho zase uvidím.}
+{607}{}{Miria... ehm, nemohla se mnou jít, ale vyøídím jí jak moc ji milujete, až ji zase uvidím.}
 {700}{}{Ááááá... (Grishama popadne šok, poté se najednou chytí za prsa a zhroutí se na zem.)}
 {750}{}{Musím zpátky do práce. Uvidíme se pozdìji.}
 {800}{}{Grishamovy brahmíny byly ochránìny.}

@@ -6,8 +6,8 @@
 {122}{}{¡Deerk deegler!}
 {123}{}{¿Quién?}
 {124}{}{Marcus ha estado haciendo algunas preguntas sobre ti.}
-{125}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Broken Hills, como para ser arrestado. Estás jodido.}
-{126}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Broken Hills, como para ser arrestado. Suelta 1.000 dólares y me aseguraré de que puedas largarte de la ciudad.}
+{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
+{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
 {127}{}{¿Quién eres?}
 {128}{}{Háblame sobre este lugar.}
 {129}{}{Nada. Adiós.}
@@ -15,7 +15,7 @@
 {131}{}{¡A-adiós!}
 {132}{}{Soy Chad.}
 {133}{}{Mira, ahora estoy muy ocupado. Búscate a otro a quien molestar.}
-{134}{}{Soy el organizador de caravanas de la ciudad. Me ocupo de los negocios al otro extremo de las rutas comerciales. Estos días estoy centrado mayoritariamente en Gecko.}
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
 {135}{}{¡Vale!}
 {136}{}{Me gustaría trabajar contigo.}
 {137}{}{Suena excitante.}
@@ -26,10 +26,10 @@
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
-{145}{}{Él sospecha que está rociando el dinero que se supone que va a Broken Hills.}
+{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
 {147}{}{Mira, no me gusta que la gente me acuse de algo de lo que no sé nada. Te sugiero que te vayas.}
-{150}{}{Voy a encontrar la verdad. Adiós.}
+{150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}

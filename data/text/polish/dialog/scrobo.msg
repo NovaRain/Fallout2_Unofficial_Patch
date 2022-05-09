@@ -6,7 +6,7 @@
 {105}{}{Wrrrrr... Nie jestem Szarik.}
 {106}{}{Grrrrrrrrrrrrrrrr...}
 {107}{}{Hau! Ha-ha-ha-<klikk>hau.}
-{108}{}{<sprzzzt>  Meow... error.}
+{108}{}{<sprzzzt> Miauuu... błąd.}
 {109}{}{Barkbarkbarkbarkbarkbarkbark!}
 {110}{}{Grrr...}
 {111}{}{Hał-ałuuuu! <klik-klikk> Auuuuuu!}

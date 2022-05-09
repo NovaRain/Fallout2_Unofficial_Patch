@@ -24,16 +24,16 @@
 {205}{}{Dovednost zacházení s vrhacími zbranìmi jako napø. vrhací noe, oštìpy a granáty.}
 {206}{}{Obecné léèitelské znalosti pouívané k vyléèení drobnìjších øeznıch ran, odøenin a všeobecnì lehèích zranìní. Jednoduše øeèeno, pouití první pomoci mùe za kratší èas vyléèit více hit bodù ne spánek.}
 {207}{}{Léèení vánıch zranìní a zmrzaèenıch konèetin. Bez pouití této dovednosti bude trvat mnohem déle, ne se zmrzaèené konèetiny vyléèí natolik, aby byly znovu pouitelné.}
-{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{208}{}{Dovednost se tiše a nepozorovanì pohybovat. Pro ostatní je mnohem tìší tì odhalit. Plíení a bìh není moné pouívat najednou.}
+{209}{}{Dovednost otevírat zámky bez klíèe. Pouití paklíèe nebo elektronického paklíèe znaènì zvyšuje tuto dovednost a tedy šanci na úspìšné otevøení zámku.}
 {210}{}{Dovednost pøivlastnit si cizí vìci. Pouívá se pro okrádání lidí nebo vylupování skøíní, stolù apod.}
 {211}{}{Dovednost nalézt a odstranit pasti. Zahrnuje rovnì zacházení s vıbušninami urèenıch k demolièním úèelùm.}
 {212}{}{Zahrnuje znalosti celé škály vyspìlıch technologií jako napø. poèítaèe, biologie, fyzika a geologie.}
 {213}{}{Praktické aplikování technickıch znalostí k opravì znièenıch zaøízení, strojù a elektroniky.}
-{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
+{214}{}{Dovednost prakticky a efektivnì komunikovat. Umìní pøesvìdèit ostatní, e tvùj názor je ten správnı. Schopnost lhát a nebıt odhalen. Nezbytná dovednost kadého politika.}
+{215}{}{Obchodování a pøíbuzné aktivity. Schopnost získat vyšší ceny za vìci, které prodáváš a niší za ty, které kupuješ.}
+{216}{}{Znalosti a praktické dovednosti tıkající se sázení a hazardních her. Zruènost v hraní karet, kostek a ostatních hrách.}
+{217}{}{Praktické znalosti pøírody a dovednost pøeití ve volné pøírodì. Znalost rostlin a zvíøat.}
 {300}{}{+ 4 x HB}
 {301}{}{+ 2 x HB}
 {302}{}{+ 2 x HB}
@@ -78,7 +78,7 @@
 {571}{}{Podaøilo se ti ukrást objekt: %s.}
 {572}{}{Pøistihli tì pøi umisování objektu: %s.}
 {573}{}{Podaøilo se ti umístit objekt: %s.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
+{590}{}{Pøemohla tì únava, proto teï tuto dovednost nemùeš pouit. Musíš chvíli poèkat.}
 {591}{}{Únava ti nedovolí dále pokraèovat v této èinnosti.}
 {592}{}{Únava je pøíliš velká. Další vypìtí by tì mohlo zabít.}
 {600}{}{Nemáš dost zkušeností pro léèbu zmrzaèení.}

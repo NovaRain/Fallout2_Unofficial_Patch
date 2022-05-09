@@ -60,8 +60,8 @@
 {159}{}{Lascio.}
 {160}{}{Bene. Lascia pure, allora. Non aspettarti un grazie.}
 {161}{}{Vabbe'.}
-{162}{}{Ehila', amico! }
-{163}{}{Oh, bene... Ancora tu. }
+{162}{}{Hi, friend!}
+{163}{}{Oh, good. It's you again.}
 {164}{}{Ehila'.}
 {165}{}{Lo sapevo che quei bastardi di Franc, Manson, Jacob e Aileen stavano tramando alle nostre spalle. Ben fatto! Allora... }
 {166}{}{Spero che tu abbia preso una decisione, riguardo al restituire l'uranio alla citta'... allora... }

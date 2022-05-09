@@ -41,7 +41,7 @@
 {140}{}{Chci se ještì na nìco zeptat.}
 {141}{}{Díky, stavím se. Sbohem.}
 {142}{}{Vìtšinou hledáme strážce karavan, ale teï stejnì nemùžeme vyrazit. Odjíždíme až 21. Stav se pak u mì, jestli budeš chtít práci.}
-{143}{}{When on the 21st?}
+{143}{}{Why on the 21st?}
 {144}{}{Co tahle karavana pøeváží?}
 {145}{}{Dobøe, díky. Sbohem.}
 {146}{}{Poslyš, kámo, nìkdy musíš umìt øíct ne. A *já* øíkám NE!}

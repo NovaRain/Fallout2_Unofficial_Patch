@@ -9,9 +9,9 @@
 {108}{}{¿Qué tienes para comprar?}
 {109}{}{No tengo nada con qué comerciar. Lo siento.}
 {110}{}{Quizás la próxima vez, ¿eh? Que tus viajes estén libres de peligro.}
-{111}{}{Adiós.}
+{111}{}{Gracias. Adiós.}
 {112}{}{Qué desgraciada. Entonces descansa y sé bienvenida a mi campamento.}
-{113}{}{Adiós.}
+{113}{}{Thank you. Bye.}
 {114}{}{Mi oferta de sombra ha llegado demasiado tarde para ti. El sol ha debido evaporar las palabras de tu cerebro. Debo ser atento con aquellos menos afortunados que yo. Quédate tanto tiempo como quieras en mi campamento, querido cortito.}
 {115}{}{Adiós.}
 {116}{}{¡Infiel!}

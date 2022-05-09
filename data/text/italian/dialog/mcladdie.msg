@@ -1,5 +1,5 @@
 {100}{}{Sembra essere un Border Collie.}
-{101}{}{Laddie.}
+{101}{}{You see Laddie.}
 {102}{}{Questo cane sembra essere davvero sveglio e intelligente.}
 {103}{}{Non hai dubbi sul fatto che questo cane sia probabilmente piu' intelligente di te.}
 {150}{}{Uff!}

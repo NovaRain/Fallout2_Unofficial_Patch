@@ -2,7 +2,7 @@
 {101}{}{Du siehst einen Dorfbewohner.}
 {102}{}{Hallo.}
 {103}{}{Auf Wiedersehen.}
-{104}{}{Willkommen in unserem Dorf.}
+{104}{}{Welcome to our village.}
 {105}{}{Die Monster beschützen uns.}
 {106}{}{Komm schnell wieder.}
 {107}{}{Wir brauchen die Gewehre dringend.}

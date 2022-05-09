@@ -101,7 +101,7 @@
 {196}{}{Nem vagyok ellenség, ne lőj le!}
 {197}{}{Nem veszek részt csatákban, szóval hagyj békén!}
 {198}{}{A szentségit! Orvos vagyok, nem katona!}
-{200}{}{[Tovább]}
+{200}{}{[TOVÁBBI LEHETŐSÉG]}
 {201}{}{Fel szeretnék tenni néhány kérdést.}
 {202}{}{Nem, most nem. Sajnálom, hogy zavartalak.}
 {800}{}{Megölted Dr. Schrebert.}

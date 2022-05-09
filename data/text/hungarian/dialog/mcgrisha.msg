@@ -127,8 +127,8 @@
 {603}{}{Hát... meghalt.}
 {604}{}{Miria élt, amikor otthagytam, de most már biztos, hogy meghalt.}
 {605}{}{Davin élt, amikor otthagytam, de most már biztos, hogy meghalt.}
-{606}{}{Davin, öööö... szóval nem bírta az utat, de ha találkozunk, átadom az üdvözletét.}
-{607}{}{Miria, öööö... szóval nem bírta az utat, de ha találkozunk, átadom az üdvözletét.}
+{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
+{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
 {700}{}{Arghh... [Grisham megdöbbent arcot vág, aztán a szívéhez kap és összeesik.]}
 {750}{}{Most vissza kell térnem a munkámhoz. Viszlát bármikor.}
 {800}{}{Megóvtad Grisham brahminjait.}

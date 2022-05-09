@@ -83,8 +83,7 @@
 {324}{}{Nem láttam semmit...}
 {325}{}{Nem hallottam semmit...}
 {326}{}{Kérlek, menj el!}
-{327}{}{Hölgyem, nincs sok kedvem beszélgetni. Kibaszottul fáj a fejem.
-}
+{327}{}{Hölgyem, nincs sok kedvem beszélgetni. Kibaszottul fáj a fejem.}
 {340}{}{Elmész te a picsába!}
 {341}{}{Miért kellett tönkrevágni egy tökéletes betépést?}
 {342}{}{Ember, ez fájt!}

@@ -40,7 +40,8 @@
 {267}{}{(Te estudia) Entonces… ¿de dónde CONOCES a Moore? ¿Ahora juega a la política entre los tribales? ¡Ja! Ese muchacho confundió su vocación.}
 {268}{}{Le conocí en Ciudad Refugio, extendiendo la palabra. Me ofrecí a ayudarlo entregándote este maletín.}
 {269}{}{Simplemente me lo encontré durante mi viaje. Me ofrecí a ayudarlo entregándote este maletín.}
-{275}{}{Je… qué puñetero… a pesar de toda su prédica, el viejo Tomcat Moore no parece que pueda bajarse de la tribuna el tiempo suficiente como para hacer un trabajo de campo. Je… aún así, eso no supone ninguna diferencia con cualquier otro muchacho de la RNC.}
+{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{Predica mucho. De hecho, parece tener mucho sentido.}
 {277}{}{Tiene cierto… talento con las palabras.}
 {278}{}{Sí, bueno, en algún momento ha de hacerse el trabajo, y me llaman para asegurarme de que las cosas se entregan… como ese maletín.}

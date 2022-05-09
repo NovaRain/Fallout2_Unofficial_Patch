@@ -110,7 +110,7 @@
 {209}{}{Ale teraz rozumiem swoją pomyłkę!}
 {210}{}{Dość tego. Czas cię rozkroić i zobaczyć, co masz w środku...}
 {211}{}{No to trudno.}
-{212}{}{I have  nothing to say to one of such foul disposition. Leave.}
+{212}{}{Nie mam o czym rozmawiać z kimś w tak marnym stanie. Odejdź.}
 {213}{}{Chcesz marnego stanu? POKAŻE ci marny stan...}
 {214}{}{Rozumiem już moje błędy. Chcę za nie odpokutować i usłyszeć słowo!}
 {215}{}{Moje serce zostało rozdarte, gdy ujrzało krzywdy, wyrządzane ludziom przez ludzi!}

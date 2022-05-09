@@ -6,7 +6,7 @@
 {105}{}{Daj se spokój z tymi bzdetami.}
 {106}{}{Walić to.}
 {107}{}{Spróbuj włamać się do systemu.}
-{108}{}{Welcome to the Enclave.  You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
+{108}{}{Witamy w Enklawie. W tej chwili masz ograniczone uprawnienia systemowe. Dla ułatwienia obsługi wyposażono ten system w parser potocznego języka angielskiego. Proszę wprowadzać wszystkie polecenia w postaci zdań w języku angielskim.}
 {109}{}{W czym mogę pomóc?}
 {110}{}{Gdzie plany latacza?}
 {111}{}{Gdzie główna baza Enklawa?}

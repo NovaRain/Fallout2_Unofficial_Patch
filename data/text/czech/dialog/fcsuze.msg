@@ -33,5 +33,5 @@
 {132}{}{Odkud jseš?}
 {133}{}{Jak jsi potkala Badgera?}
 {134}{}{To bude všechno. Nashle.}
-{135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
+{135}{}{Mùj bože... Badger je mrtvý ... nevím co budu dìlat... nemám tu žádné pøátele... celá moje rodina je mrtvá... mùj bože...}
 {136}{}{Díky za pomoc. Pùjdu najít Badgera.}

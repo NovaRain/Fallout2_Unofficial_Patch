@@ -18,8 +18,8 @@
 {117}{}{Co możesz mi powiedzieć o Franku Westinie?}
 {118}{}{Pragnę spotkać się ze Starym Carlsonem. Znasz kogoś, kto mógłby mi pomóc?}
 {119}{}{Masz może GECK?}
-{120}{}{To miłe z twojej strony, ale ja nie jestem organizacją charytatywną.}
-{121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested.  Let it go cheap -- $500.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
+{121}{}{Może. Mógłbym mieć celownik Triveld x10 - akurat pasowałby do karabinu myśliwskiego, gdyby znalazł się ktoś zainteresowany. Puszczę go tanio - 500$.}
 {122}{}{Hej, nic mi już nie zostało.}
 {123}{}{Dobra, umowa stoi.}
 {124}{}{Nie, dzięki.}
@@ -29,7 +29,7 @@
 {128}{}{Nie zadzieram z panem Merkiem i nie zawracam sobie głowy plotkami o nim. Jeśli masz jakieś pytania, zapytaj o niego w Rawhide.}
 {129}{}{Rozumiem.}
 {130}{}{Żegnaj.}
-{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town.  Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{Frank Westin? Masz na myśli tego gościa z Kongresu? Usadził się na zachód od miasta. To człowiek od bramin - duża szycha w Stowarzyszeniu Chodowców Bydła. Jeśli szukasz pracy, to on zawsze kogoś szuka.}
 {132}{}{Rozumiem.}
 {133}{}{Żegnaj.}
 {134}{}{Ciekawe, że pytasz o to po tym, co się przytrafiło Frankowi Westinowi. Nie żebym coś wiedział, ale jest taki facet w Rawhide - Merk - może on byłby w stanie ci pomóc.}

@@ -373,4 +373,4 @@ zusätzlichen Sonnenschutz machen.}
 {327}{}{Danke für den guten Rat, Doc. Das ist toll. Hey, lass mich dich noch was fragen.}
 {328}{}{Danke für die prima Handarbeit, Doc. Ich mach mich dann mal lieber auf den Weg.
  Wiedersehn.}
-{329}{}{Du bringst das Jet-Heilmittel zu Dr. John.}
+{329}{}{You deliver the Jet antidote to Dr. Johnson.}

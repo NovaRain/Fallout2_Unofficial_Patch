@@ -115,8 +115,7 @@
 {481}{}{Ech... nie wysilaj łepetyny, siostrzyczko. Tylko nie zrób sobie krzywdy, dobrze?}
 {482}{}{Hej ti hej ti he ti ho}
 {490}{}{Bracie, mogę załatwić ci WSZYSTKO, czego tylko potrzebujesz. Jeśli chcesz latać, wzbić się wysoko, upaść nisko w ramiona słodziutkiej kurewki, Jules wie gdzie musisz IŚĆ. Pytanie brzmi: znajdę wszystko z łatwością, lecz co jest TWOJĄ przyjemnością?}
-{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOURS pleasure?}
+{491}{}{Siostro, jeśli tylko czegoś potrzebujesz, Jules jest FACETEM, którego ci trzeba. Jeśli chcesz latać, wznieść się wysoko i upaść nisko, Jules wie, dokąd IŚĆ. Pytanie brzmi: znajdę wszystko z łatwością, lecz co jest TWOJĄ przyjemnością?}
 {492}{}{Jeśli tylko czegoś potrzebujesz, Jules jest FACETEM, którego ci trzeba, słodka siostrzyczko. Jeśli chcesz latać, wznieść się wysoko i upaść nisko, Jules wie, dokąd IŚĆ. Pytanie brzmi: znajdę wszystko z łatwością, lecz co jest TWOJĄ przyjemnością?}
 {493}{}{Pewnie, pewnie... znajdę wszystko z łatwością, lecz co jest TWOJĄ przyjemnością?}
 {494}{}{Możesz opowiedzieć mi trochę o Nowym Reno?}

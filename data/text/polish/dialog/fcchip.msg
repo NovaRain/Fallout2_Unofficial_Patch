@@ -10,7 +10,7 @@
 {109}{}{Czy masz dla mnie jakieś informacje o moich ludziach?}
 {110}{}{Oooch, moje flaki. Boli mnie. Zostaw mnie w spokoju, proszę.}
 {111}{}{Oki-doki.}
-{112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen.  Now he has it, and I need it back.}
+{112}{}{Co ze mną? Powiem ci: w zeszłym tygodniu zalałem się, zacząłem grać z Lao Chou i przegrałem. Byłem tak nawalony, że postawiłem moją śledzionę. Teraz on ją ma, a ja potrzebuję jej z powrotem.}
 {113}{}{SPRZEDAŁEŚ własną śledzionę?}
 {114}{}{Jaka szkoda.}
 {115}{}{Ale z ciebie gamoń.}
@@ -47,7 +47,7 @@
 {146}{}{Nie.}
 {147}{}{Naprawdę doceniam to, co dla mnie robisz. Nie zapomnę ci tego.}
 {148}{}{Nie ma sprawy.}
-{149}{}{Dude, I can't really get places without a lot of effort.  If you can't help me, I'm screwed.}
+{149}{}{Słuchaj, naprawdę nie mogę się przemieszczać bez ogromnego wysiłku. Mam przesrane, jeżeli mi nie pomożesz.}
 {150}{}{Dobra. Pogadam z Fungiem.}
 {151}{}{No i co. I tak gówno mnie obchodzisz.}
 {152}{}{Jeżeli możesz coś z tym zrobić... zabić go, albo przemówić mu do rozsądku, albo coś... bez niej umrę.}

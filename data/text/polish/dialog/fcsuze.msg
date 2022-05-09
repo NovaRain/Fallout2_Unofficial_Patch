@@ -15,11 +15,11 @@
 {114}{}{Mam więcej pytań.}
 {115}{}{Tak, to prawda. Znalazłaś coś ciekawego?}
 {116}{}{Tak masz rację. Chodźmy.}
-{117}{}{I found the room I was in. I also found a room that looked like a fueling area.  I didn't get much farther because of the monsters.}
+{117}{}{Znalazłam pokój, w którym byłam. No i ten pokój, który wyglądał mi na pomieszczenie paliwowe. Nie dotarłam dużo dalej, z powodu potworów.}
 {118}{}{Mam więcej pytań.}
 {119}{}{Skąd jesteś?}
 {120}{}{Super. Na razie to wszystko.}
-{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea.  I used to be a nanny, but then the kids mutated into monsters.}
+{121}{}{Pochodzę z miejsca na południe od Gruzów i Blasku. Było to niedaleko morza. Byłam niańką, ale potem dzieci zmutowały w potwory.}
 {122}{}{Mam więcej pytań.}
 {123}{}{Jak poznałaś Borsuka?}
 {124}{}{Fascynujące. To na razie wszystko.}
@@ -33,5 +33,5 @@
 {132}{}{Skąd jesteś?}
 {133}{}{Jak poznałaś Borsuka?}
 {134}{}{Na razie nie mam żadnych. Na razie.}
-{135}{}{Oh my god... Badger is dead ... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
+{135}{}{O Boże... Borsuk nie żyje... nie wiem, co robić... nie mam tu przyjaciół... cała moja rodzina nie żyje... o Boże...}
 {136}{}{Dzięki za całą okazaną pomoc. Idę poszukać Borsuka.}

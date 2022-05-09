@@ -10,7 +10,7 @@
 {109}{}{Tak, mówię. Wygląda na to, że lepiej niż niektórzy ludzie. Uśmiechnąłbym się do ciebie w tej chwili, ale niestety nie mam buzi. [śmieje się] Słuchaj, możesz mi wyświadczyć pewną wielką dla mnie przysługę?}
 {110}{}{'ak.}
 {111}{}{Nuch.}
-{112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation.  I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
+{112}{}{Szukam dla siebie lepszego miejsca. Tu jest fajnie, i w ogóle, ale szczerze mówiąc, nie potrafię jakoś nawiązać z tymi tu roślinami konwersacji. Myślałem o tamtym miejscu, przy budynku z tymi wszystkimi ghulami w środku... Czy możesz mnie przesadzić?}
 {113}{}{'ak!}
 {114}{}{Ne!}
 {115}{}{Jasne.}
@@ -31,9 +31,7 @@
 {130}{}{Wspaa-niale! Jestem bardzo, bardzo zadowolony. Znajdź tylko łopatę i wróć z powrotem. Gdy już skończysz, być może zdradzę ci pewien sekret. Mam nadzieję, że nadal będziesz rozkwitać.}
 {131}{}{Ee, tak. Na razie.}
 {132}{}{Raczej nie.}
-{133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
- am, he'd cut me into pieces to examine me.  So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
- Y'know, maybe get planted someplace else...}
+{133}{}{A tak, Profesor. Wyhodował mnie z malutkiego zarodnika... ale jeszcze w młodym wieku zrozumiałem, że jeśli będę zachowywać się tak mądrze, jak naprawdę byłem, to potnie mnie na kawałeczki do badań. Więc udawałem głupka i zasadzono mnie tutaj. Miło tu... ale chciałbym się rozgałęzić. Wiesz, może zmienić miejsce na inne...}
 {134}{}{"Rozgałęzić". No tak.}
 {135}{}{Tak. Czego chcesz?}
 {136}{}{A... cha. Muszę już iść. Na razie.}
@@ -60,9 +58,7 @@
 {157}{}{Wielka szkoda, wielka szkoda. Mam nadzieję, że jednak kiedyś zmienisz zdanie. Być może pyłek twojego niezdecydowania znowu kiedyś zapyli moją przeprowadzkę. Miłego dnia.}
 {158}{}{Uch.}
 {159}{}{I tobie miłego dnia.}
-{160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
- those other plants.  Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
- maneuver: It's called the Flying Liver Attack, and the scorpion cannot stand against it.}
+{160}{}{Oooch... tę ziemię czuję... inaczej. Jakoś czyściej. Być może dlatego, że nie muszę jej dzielić z innymi roślinami. Aaach. A tak! Jeżeli kiedykolwiek natkniesz się na Profesora i na jego skorpiona, to zapamiętaj ten gambit szachowy: nazywa się Atak Latającej Wątroby, skorpion nie potrafi się przed nim wybronić.}
 {161}{}{'ęki!}
 {162}{}{Dzięki. Wypróbuję go. Na razie!}
 {163}{}{Chciałbym ci też szepnąć, że ghul Typhon ze środka tego budynku zna lokalizację ukrytego skarbu. Być może któregoś dnia ci się to przyda.}

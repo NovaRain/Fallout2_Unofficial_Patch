@@ -4,7 +4,7 @@
 {103}{}{Tka? Czym mogę służyć, skarbie?}
 {104}{}{Nie teraz! Właśnie skończyłam czyścić sukienkę.}
 {105}{}{No i co porabia Pan Ważniak?}
-{106}{}{They don't call him *Dick* Richardson for nuthin'}
+{106}{}{Nie bez powodu mówią, że jest *prężnym * politykiem.}
 {107}{}{A właśnie, że umiem pisać na maszynie.}
 {108}{}{A zapukać to niełaska.}
 {109}{}{Muszę umyć zęby.}

@@ -104,7 +104,7 @@
 {203}{}{Eu sou ECA, uma Entidade Consciente Artificial. Sou mais do que uma máquina, mas não tão desenvolvido quanto uma verdadeira inteligência artificial.}
 {204}{}{Uh... O que é uma inteligência artif-ficial?}
 {205}{}{Uma verdadeira Inteligência Artificial é possível ou você é o que tem de mais recente nessa área agora?}
-{206}{}{It is a machine with the same free will and sense of  'I am' that a human has.}
+{206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
 {207}{}{Pode ser feito? Uma máquina que pensa como humano?}
 {208}{}{Uma verdadeira inteligência artificial é possível. Alguns desses sistemas foram concluídos para fins militares. O projeto foi descontinuado.}
 {209}{}{Por quê?}
