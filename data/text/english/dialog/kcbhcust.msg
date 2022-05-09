@@ -46,7 +46,7 @@
 {157}{}{Weather's getting ready to turn, I guess.}
 {158}{}{Got me a good trapline south of here.}
 {159}{}{If you're smart, you'll stay away from the Duntons.}
-{160}{}{If your anxious, try the Bathhouse.}
+{160}{}{If you're anxious, try the Bathhouse.}
 {161}{}{Head west to Trapper Town, if you want a place to sack out later.}
 {162}{}{Welcome, friend.}
 {163}{}{Hope you like our city.}

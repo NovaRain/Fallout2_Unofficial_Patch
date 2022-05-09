@@ -58,7 +58,7 @@
 
 # 6. HERE YOU GO. . . (5)
 {275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- to do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{He does preach a lot. Still, he seems to make a lot of sense.}
 {277}{}{He does have a certain... way with words.}
 {278}{}{Yeah, well, at some point the work's gotta be done, and they call me to make sure things get delivered... like

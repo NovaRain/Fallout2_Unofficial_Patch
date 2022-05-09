@@ -51,7 +51,7 @@
 {150}{}{Thanks. Bye.}
 {151}{}{You made a bad mistake messin' with the Captain and his friends...}
 {152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well.  I bet you'd find parts for it in one of those old vaults.}
+{153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
 {154}{}{Good to see you again. What do you need?}
 # Begin Seraph's Code
 {155}{}{, and unless I miss my bet, that's where your friends are, too.}

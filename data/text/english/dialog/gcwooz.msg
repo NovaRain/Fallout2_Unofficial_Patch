@@ -287,7 +287,7 @@
 {716}{}{Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
 {717}{}{NEVER! BRING FORTH THE GARNERING!}
 {718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!?  Ahhhgghhhgh.}
+{719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
 {720}{}{Yeah... just can't seem to stop. Just one more game...}
 
 

@@ -62,7 +62,7 @@
 
 {139}{}{After what happened to Chad? I don't think so. Anything else?}
 
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day.  You'll
+{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
  earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
 {141}{}{See ya.}
 

@@ -1,4 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
+{100}{}{You see one of two very similar looking men -- they could be twins.
  Both are heavily muscled and have beetling brows.}
 {101}{}{You see either Chuck or Buck Dunton, they both look so much alike that you're not sure which one you're looking at right now.}
 {102}{}{You see a tall, heavily muscled man whose face, beneath his beetling brow, is habitually
@@ -213,7 +213,7 @@
  if you're interested.}
 {372}{}{Yeah, I'm interested. Tell me about this job.}
 {373}{}{I don't think I want anything to do with you two. Goodbye.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
 
 {380}{}{What the heck do you want? Did you forget what you're supposed to be doing?}
 {381}{}{No. I remember. I'll get busy with our plan.}

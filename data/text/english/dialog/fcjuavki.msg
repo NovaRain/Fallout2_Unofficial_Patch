@@ -19,7 +19,7 @@
 {118}{}{Him: Ah, you see? The teachings of the Hub have demonstrated their worth again!}
 {119}{}{I have some questions.}
 {120}{}{Thanks! Bye!}
-{121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber".  That's what makes us celebrities.}
+{121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
 {122}{}{Him: But then, as a member of the industry, you already knew that.}
 {123}{}{It's nice to finally put faces to the names.}
 {124}{}{Who cares if YOU endorse it? Shouldn't I make my own choices?}
@@ -92,7 +92,7 @@
 {191}{}{Him: You made a life-altering decision. Her: And sadly, it was the wrong one. Both: Guards! Guards!}
 {192}{}{Damn.}
 {193}{}{Him: Greetings,}
-{194}{}{So what do I do now that I'm an Hubologist?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{How can I hook up with you guys?}
 {196}{}{That's pretty much all I wanted. So long!}
 {197}{}{}

@@ -5,15 +5,15 @@
 {104}{}{What do you do?}
 {105}{}{Ug.}
 {106}{}{Well... I don't know. I'm pretty new to this area and I've only been to the following areas.}
-{107}{}{New Reno}
-{108}{}{Vault City}
-{109}{}{Redding}
-{110}{}{The Den}
-{111}{}{San Francisco}
-{112}{}{New California Republic}
+{107}{}{New Reno.}
+{108}{}{Vault City.}
+{109}{}{Redding.}
+{110}{}{The Den.}
+{111}{}{San Francisco.}
+{112}{}{New California Republic.}
 {113}{}{An abandoned mine.}
 {114}{}{No, I've been there already. Thanks anyway.}
-{115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling.  What more can one ask for?
+{115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
  Here, let me show you where it is.}
 {116}{}{Thanks.}
 {117}{}{Vault City -- now that's a city of morons. Grow an extra finger and they treat you like some kind

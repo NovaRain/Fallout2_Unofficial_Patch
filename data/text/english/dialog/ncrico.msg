@@ -26,9 +26,8 @@
 {208}{}{Grunt.}
 {209}{}{Grunt - Grunt.}
 {210}{}{Me no like talk.}
-{211}{}{Yoo smell guuud.}
+{211}{}{Yoo smell guuud...}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo cute. Me no hit you.}
-{214}{}{Yoo make me blush.}
+{214}{}{Yoo make me blush...}
 {215}{}{Uhhh... Me Rico...}
-

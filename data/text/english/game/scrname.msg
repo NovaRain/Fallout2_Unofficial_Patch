@@ -1324,4 +1324,3 @@
 {1406}{}{}                          # SIPtbox2.int    ; box where Merk hides your car trunk stuff
 {1407}{}{}                          # sfshutl1.int    ; map script to Hubologist entrance (shuttle)
 {1408}{}{}                          # patchinf.int    ; patchinf
-{1409}{}{}                          # nijjbox.int     ; Jagged Jimmy J Inventory Box

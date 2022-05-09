@@ -47,7 +47,7 @@
 {303}{}{Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.}
 
 # 8. They bring you things? (7)
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {316}{}{Sounds like a nice arrangement.}
 
 # 9. Nice arrangement (8)

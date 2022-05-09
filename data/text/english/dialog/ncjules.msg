@@ -158,7 +158,7 @@
 {490}{}{I can get you ANYTHING you need, brother. If you need to fly, get high, slide down low in a luscious ho, Jules knows
  where to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
 {491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOURS pleasure?}
+ Question is: I gots the treasure, so what's YOUR pleasure?}
 {492}{}{Anything you need, Jules is the MAN, my sweet sister. If you need to fly, get high, slide down low, Jules knows where
  to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
 {493}{}{Sure thing, sure thing... I gots the treasure, so what's YOUR pleasure?}

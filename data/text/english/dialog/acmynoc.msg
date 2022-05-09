@@ -66,7 +66,7 @@
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
  it is too late!}
-{176}{}{And I will take care of it.  Goodbye.}
+{176}{}{And I will take care of it. Goodbye.}
 {177}{}{I am the Chosen One -- I "must" do only as I
  please. Goodbye.}
 {178}{}{I don't remember his name, just that he was old and loud -- too

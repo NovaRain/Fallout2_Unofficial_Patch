@@ -99,8 +99,8 @@
 {160}{}{Fine. Leave it, then. No thanks.}
 {161}{}{Whatever.}
 
-{162}{}{Hi, friend! }
-{163}{}{Oh, good. It's you again. }
+{162}{}{Hi, friend!}
+{163}{}{Oh, good. It's you again.}
 {164}{}{Howdy.}
 {165}{}{Y'know, I knew those bastards Franc, Manson, Jacob, and Aileen had it out for us. Well done! So...}
 {166}{}{I hope you've given some thought to giving the ore back to the town... so...}

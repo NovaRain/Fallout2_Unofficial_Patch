@@ -182,7 +182,7 @@
 {472}{}{Yes, I delivered it to Ramirez as you asked.}
 {473}{}{Yes, I've been to the Stables and dropped off your package... do you know what they DO there? They're torturing
  slaves with drugs.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a Jet head? He was REEKING of Jet fumes.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 
 # 22. HAVE YOU DONE AS I ASKED (21)
 {480}{}{Then... why are you here? (Big Jesus wipes his forehead, then takes a deep breath.) WHY did you not deliver the package?}
@@ -302,7 +302,7 @@
 # 40. TRY AND QUIT SALVATORE JOB (39)
 {670}{}{If you... run from this job, I will have you... KILLED.}
 {671}{}{Since you put it that way, I shall return when he's dead.}
-{672}{}{Try anything, and you'll be joining the Mordinos the Salvatores butchered.}
+{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 
 # 41. SALVATORE JOB, SUCCEED (39)
 {680}{}{So I have heard. (Nods respectfully.) You have done... well. My faith in you is not misplaced. Here is... your
@@ -366,7 +366,7 @@
  a deep, rattling breath.) I have NO work for you.}
 {771}{}{C'mon, give me a chance. Give me a job, any job... I can do it.}
 
-# 51. RAMIREZ IS A JET HEAD (24)
+# 51. RAMIREZ IS A JETHEAD (24)
 {780}{}{Not everyone at the Stables... KNOWS they are test subjects.}
 {781}{}{Uh... come again?}
 {782}{}{Oh. Uh, about my payment then...}

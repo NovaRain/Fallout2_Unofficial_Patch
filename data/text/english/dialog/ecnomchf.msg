@@ -10,9 +10,9 @@
 {108}{}{What do you have to trade?}
 {109}{}{I have nothing to trade. Sorry.}
 {110}{}{Perhaps another time, then? May your travels be free of danger.}
-{111}{}{Bye.}
+{111}{}{Thanks. Bye.}
 {112}{}{How unfortunate. Then rest and be welcome in my camp.}
-{113}{}{Bye.}
+{113}{}{Thank you. Bye.}
 {114}{}{My offer of shade has come too late for you. The sun must have boiled away words from your
  brain. I must be kind to those less fortunate than I. Stay as long you like in my camp, dimwitted one.}
 {115}{}{Bye.}
