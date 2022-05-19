@@ -104,7 +104,6 @@ procedure Node027;
 procedure Node028;
 procedure Node029;
 procedure Node030;
-//procedure Node031; // comment out, procedure is not used
 procedure Node038;
 procedure Node039;
 procedure Node040;
@@ -668,14 +667,6 @@ procedure Node030 begin
       BOption(412,Node043,004); //KARMA -10
       NOption(413,Node044,004); //KARMA +5
 end
-
-/* comment out, procedure is not used
-procedure Node031 begin
-   Reply(420);
-      NOption(421,Node007,004);
-      BOption(422,Node999,004);
-end
-*/
 
 procedure Node038 begin
    set_local_var(LVAR_Ardin_Angry,1);
