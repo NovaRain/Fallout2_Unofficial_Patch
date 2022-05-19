@@ -105,6 +105,7 @@
 {204}{}{Desactivando toda la seguridad - Nivel 1}
 {205}{}{Desactivando toda la seguridad - Nivel 2}
 {206}{}{Desactivando toda la seguridad - Nivel 3}
+{207}{}{Deactivating all Security - Level 4}
 {306}{}{[Este artilugio podría ser útil.]}
 {400}{}{Guarda tu arma.}
 {410}{}{Rrrrrr}
