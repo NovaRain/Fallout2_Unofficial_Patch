@@ -1,20 +1,20 @@
-{100}{}{Vidíš osobu se silnou zbraní.}
-{101}{}{Vidíš hlídaèe karavan z Broken Hills.}
-{102}{}{Vidíš osobu se silnou zbraní a v zaprášeném obleèením.}
-{103}{}{Nìco ti øeknu, ještì jednou potkám skupinu potulnejch zabijákù a na pøíští cestu si beru dynamit.}
-{104}{}{Hodila by se nám nìjaká pomoc na hlídání karavan.}
-{105}{}{Do háje... práce hlídky u mi leze krkem.}
-{106}{}{Pak jsem uvidìl, jak se blíí nìjakej divoch a... to je jedno.}
-{107}{}{Ještì jednou nás bude chtít nìkdo obrat, tak ho zabiju.}
-{108}{}{Pøísahám, e jestli banditi ještì jednou nìco zkusí, tak pøíští rok všichni zemøeme.}
-{109}{}{Z jakıpak díry jsi to vylez?}
-{110}{}{Koupíš pracujícímu drink?}
-{111}{}{Jsem tak unavenej hlídáním karavan, e u nemùu ani mluvit.}
-{112}{}{Jestli nìco potøebuješ, promluv si s vetešníkem Billem.}
-{113}{}{Èlovìk by si myslel, e budem po všem tom civilizování pustiny blí cíli.}
-{114}{}{Tyhle války mezi lidma a mutantama u mì nudí. Nemìli bysme jít pøíkladem?}
-{115}{}{Co chceš? Nevidíš, e odpoèívám?}
-{116}{}{Kdy odjídí další karavana?}
-{117}{}{Hlídat, hlídat a zase hlídat... to je to jedinı, co tady dìlám.}
-{118}{}{Myslím, e si potøebuju dáchnout.}
-{119}{}{Zaslouím si dostat pøidáno, tohle je nebezpeèná práce.}
+{100}{}{VidÃ­Å¡ osobu se silnou zbranÃ­.}
+{101}{}{VidÃ­Å¡ hlÃ­daÄe karavan z Broken Hills.}
+{102}{}{VidÃ­Å¡ osobu se silnou zbranÃ­ a v zaprÃ¡Å¡enÃ©m obleÄenÃ­m.}
+{103}{}{NÄ›co ti Å™eknu, jeÅ¡tÄ› jednou potkÃ¡m skupinu potulnejch zabijÃ¡kÅ¯ a na pÅ™Ã­Å¡tÃ­ cestu si beru dynamit.}
+{104}{}{Hodila by se nÃ¡m nÄ›jakÃ¡ pomoc na hlÃ­dÃ¡nÃ­ karavan.}
+{105}{}{Do hÃ¡je... prÃ¡ce hlÃ­dky uÅ¾ mi leze krkem.}
+{106}{}{Pak jsem uvidÄ›l, jak se blÃ­Å¾Ã­ nÄ›jakej divoch a... to je jedno.}
+{107}{}{JeÅ¡tÄ› jednou nÃ¡s bude chtÃ­t nÄ›kdo obrat, tak ho zabiju.}
+{108}{}{PÅ™Ã­sahÃ¡m, Å¾e jestli banditi jeÅ¡tÄ› jednou nÄ›co zkusÃ­, tak pÅ™Ã­Å¡tÃ­ rok vÅ¡ichni zemÅ™eme.}
+{109}{}{Z jakÃ½pak dÃ­ry jsi to vylez?}
+{110}{}{KoupÃ­Å¡ pracujÃ­cÃ­mu drink?}
+{111}{}{Jsem tak unavenej hlÃ­dÃ¡nÃ­m karavan, Å¾e uÅ¾ nemÅ¯Å¾u ani mluvit.}
+{112}{}{Jestli nÄ›co potÅ™ebujeÅ¡, promluv si s veteÅ¡nÃ­kem Billem.}
+{113}{}{ÄŒlovÄ›k by si myslel, Å¾e budem po vÅ¡em tom civilizovÃ¡nÃ­ pustiny blÃ­Å¾ cÃ­li.}
+{114}{}{Tyhle vÃ¡lky mezi lidma a mutantama uÅ¾ mÄ› nudÃ­. NemÄ›li bysme jÃ­t pÅ™Ã­kladem?}
+{115}{}{Co chceÅ¡? NevidÃ­Å¡, Å¾e odpoÄÃ­vÃ¡m?}
+{116}{}{Kdy odjÃ­Å¾dÃ­ dalÅ¡Ã­ karavana?}
+{117}{}{HlÃ­dat, hlÃ­dat a zase hlÃ­dat... to je to jedinÃ½, co tady dÄ›lÃ¡m.}
+{118}{}{MyslÃ­m, Å¾e si potÅ™ebuju dÃ¡chnout.}
+{119}{}{ZaslouÅ¾Ã­m si dostat pÅ™idÃ¡no, tohle je nebezpeÄnÃ¡ prÃ¡ce.}

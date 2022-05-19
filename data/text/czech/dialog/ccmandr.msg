@@ -1,26 +1,26 @@
-{100}{}{Vidíš osobu v energo zbroji.}
-{101}{}{Vidíš velitele základny Navarro.}
-{102}{}{Vidíš osobu v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Kdo k èertu jste? Poplach! Vetøelci pronikli na základnu!}
-{104}{}{Nemám èas tlachat s pìšáky. Odchod.}
-{105}{}{Èas zemøít.}
-{106}{}{Dobøe.}
-{107}{}{U jsem øekl, e na tebe nemám èas. Vypadni z mojí kanceláøe a nevracej se, dokud tì nezavolám. Odchod!}
-{108}{}{Neuposlechnutí pøímého rozkazu nadøízeného dùstojníka je povaováno za zradu. Na váleènı soud nemám èas, take to vyøídím sám. Stráe! Zabijte toho idiota!}
-{109}{}{Dobøe.}
+{100}{}{VidÃ­Å¡ osobu v energo zbroji.}
+{101}{}{VidÃ­Å¡ velitele zÃ¡kladny Navarro.}
+{102}{}{VidÃ­Å¡ osobu v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Kdo k Äertu jste? Poplach! VetÅ™elci pronikli na zÃ¡kladnu!}
+{104}{}{NemÃ¡m Äas tlachat s pÄ›Å¡Ã¡ky. Odchod.}
+{105}{}{ÄŒas zemÅ™Ã­t.}
+{106}{}{DobÅ™e.}
+{107}{}{UÅ¾ jsem Å™ekl, Å¾e na tebe nemÃ¡m Äas. Vypadni z mojÃ­ kancelÃ¡Å™e a nevracej se, dokud tÄ› nezavolÃ¡m. Odchod!}
+{108}{}{NeuposlechnutÃ­ pÅ™Ã­mÃ©ho rozkazu nadÅ™Ã­zenÃ©ho dÅ¯stojnÃ­ka je povaÅ¾ovÃ¡no za zradu. Na vÃ¡leÄnÃ½ soud nemÃ¡m Äas, takÅ¾e to vyÅ™Ã­dÃ­m sÃ¡m. StrÃ¡Å¾e! Zabijte toho idiota!}
+{109}{}{DobÅ™e.}
 {110}{}{Polib si!}
-{111}{}{FOB je v támhleté skøíòce. A mì vedoucí kontaktuje, jakmile bude zabezpeèen. Odchod!}
+{111}{}{FOB je v tÃ¡mhletÃ© skÅ™Ã­Åˆce. AÅ¥ mÄ› vedoucÃ­ kontaktuje, jakmile bude zabezpeÄen. Odchod!}
 {112}{}{Ano, pane!}
-{113}{}{Pohni s tím, vojáku. Nemám na to celı den.}
+{113}{}{Pohni s tÃ­m, vojÃ¡ku. NemÃ¡m na to celÃ½ den.}
 {114}{}{Ano, pane!}
-{115}{}{Nech moji skøíòku na pokoji, nebo ti ukáu co je to opravdová bolest.}
+{115}{}{Nech moji skÅ™Ã­Åˆku na pokoji, nebo ti ukÃ¡Å¾u co je to opravdovÃ¡ bolest.}
 {116}{}{Ano, pane!}
-{117}{}{Na základnì je vyhlášen poplach a já vás nepoznávám. Vaše doklady, vojáku.}
-{118}{}{Jaké doklady?}
+{117}{}{Na zÃ¡kladnÄ› je vyhlÃ¡Å¡en poplach a jÃ¡ vÃ¡s nepoznÃ¡vÃ¡m. VaÅ¡e doklady, vojÃ¡ku.}
+{118}{}{JakÃ© doklady?}
 {119}{}{Ty vyhulit mi!}
-{120}{}{Zdá se, e je nemám u sebe...}
-{121}{}{Doklady? Mám vaše doklady pøímo tady!}
-{122}{}{Špatná odpovìï, èerve. Doklady bys mìl mít vdy u sebe. To bys mìl vìdìt!}
+{120}{}{ZdÃ¡ se, Å¾e je nemÃ¡m u sebe...}
+{121}{}{Doklady? MÃ¡m vaÅ¡e doklady pÅ™Ã­mo tady!}
+{122}{}{Å patnÃ¡ odpovÄ›Ä, Äerve. Doklady bys mÄ›l mÃ­t vÅ¾dy u sebe. To bys mÄ›l vÄ›dÄ›t!}
 {123}{}{Jdi do prdele.}
-{124}{}{Nech moji skøíòku na pokoji, nebo ti ukáu co je to opravdová bolest.}
-{125}{}{Èas zemøít.}
+{124}{}{Nech moji skÅ™Ã­Åˆku na pokoji, nebo ti ukÃ¡Å¾u co je to opravdovÃ¡ bolest.}
+{125}{}{ÄŒas zemÅ™Ã­t.}

@@ -1,3 +1,3 @@
-{100}{}{Pøicházíš k jeskyni otevírající se na úboèí jednoho z kopcù.}
+{100}{}{PÅ™ichÃ¡zÃ­Å¡ k jeskyni otevÃ­rajÃ­cÃ­ se na ÃºboÄÃ­ jednoho z kopcÅ¯.}
 {101}{}{You have come across a circle of wrecked shacks. In the middle is an old well with a ladder leading down.}
-{102}{}{Podaøilo se ti odstranit velkou vıhodu nájezdníkù. U nikdy nebudou napadat tuto oblast.}
+{102}{}{PodaÅ™ilo se ti odstranit velkou vÃ½hodu nÃ¡jezdnÃ­kÅ¯. UÅ¾ nikdy nebudou napadat tuto oblast.}

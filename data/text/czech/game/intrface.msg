@@ -1,5 +1,5 @@
-{100}{}{PL͎EN�}
-{101}{}{NOV� �ROVE�}
-{102}{}{Z�VISLOST}
+{100}{}{PLÍŽENÍ}
+{101}{}{NOVÁ ÚROVEŇ}
+{102}{}{ZÁVISLOST}
 {103}{}{OTRAVA}
-{104}{}{OZ��EN�}
+{104}{}{OZÁŘENÍ}

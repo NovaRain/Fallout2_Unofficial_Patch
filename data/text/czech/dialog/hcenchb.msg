@@ -1,25 +1,25 @@
-{100}{}{Vidíš znudìnou osobu v koené zbroji.}
-{101}{}{Vidíš Maxe, stráce karavany.}
-{102}{}{Vidíš zaprášenou, znudìnou osobu v koené zbroji. Podle zápachu brahmín a sebejisté chùze je jasné, e je stráce karavan.}
-{103}{}{Mùu ti nìjak pomoct?}
+{100}{}{VidÃ­Å¡ znudÄ›nou osobu v koÅ¾enÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Maxe, strÃ¡Å¾ce karavany.}
+{102}{}{VidÃ­Å¡ zaprÃ¡Å¡enou, znudÄ›nou osobu v koÅ¾enÃ© zbroji. Podle zÃ¡pachu brahmÃ­n a sebejistÃ© chÅ¯ze je jasnÃ©, Å¾e je strÃ¡Å¾ce karavan.}
+{103}{}{MÅ¯Å¾u ti nÄ›jak pomoct?}
 {104}{}{He?}
-{105}{}{Já pracovat tady!}
+{105}{}{JÃ¡ pracovat tady!}
 {106}{}{Kdo jsi?}
-{107}{}{Co mi mùeš øíct o Chadovi?}
-{108}{}{S idioty nemám strpení. Promiò kámo, ale budeš si muset najít na hraní nìkoho jiného.}
+{107}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Chadovi?}
+{108}{}{S idioty nemÃ¡m strpenÃ­. PromiÅˆ kÃ¡mo, ale budeÅ¡ si muset najÃ­t na hranÃ­ nÄ›koho jinÃ©ho.}
 {109}{}{::smrk::}
-{110}{}{Jsem Max, jeden ze strácù karavan.}
-{111}{}{Co mi mùeš øíct o Chadovi?}
-{112}{}{Dík. Naskle.}
+{110}{}{Jsem Max, jeden ze strÃ¡Å¾cÅ¯ karavan.}
+{111}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Chadovi?}
+{112}{}{DÃ­k. Naskle.}
 {113}{}{I don't like him much. He seems to get always some extra money from his caravan jobs. It's really unfair.}
 {114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
-{115}{}{Dík. Naskle.}
-{116}{}{Díky. Jsem opravdu rád, e je to vyøízené. Ale mìl by sis teï hlídat záda.}
+{115}{}{DÃ­k. Naskle.}
+{116}{}{DÃ­ky. Jsem opravdu rÃ¡d, Å¾e je to vyÅ™Ã­zenÃ©. Ale mÄ›l by sis teÄ hlÃ­dat zÃ¡da.}
 {117}{}{Nashle.}
-{118}{}{Nepøítel! Chcípni!}
+{118}{}{NepÅ™Ã­tel! ChcÃ­pni!}
 {119}{}{A sakra.}
 {120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
-{121}{}{Opravdu? Tak proè jsi o tom neøekl nic Marcusovi?}
+{121}{}{Opravdu? Tak proÄ jsi o tom neÅ™ekl nic Marcusovi?}
 {122}{}{Are you duff? If I go to tell it, a lot of people in this town won't even look at me. Besides I might get some kind of revenge.}
 {123}{}{Hmm, I could tell it about to Marcus, cause I don't plan to stay here too long anyway.}
 {124}{}{Ok. Do what you want, but don't tell anything about me. And we never had this conversation, ok?}

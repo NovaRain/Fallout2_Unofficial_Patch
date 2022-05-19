@@ -1,36 +1,36 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál s hlasovım rozhraním.}
-{102}{}{Vidíš bìnı poèítaèovı terminál upravenı pro hlasové povely.}
-{103}{}{Zkoumáš poèítaèovı terminál, ale nevidíš, e by s ním bylo nìco špatnì. Co udìláš?}
-{104}{}{Udeøíš ho 'speciálním' zpùsobem.}
-{105}{}{Kopneš ho do 'speciálního' místa.}
-{106}{}{Spustíš diagnostickı program.}
-{107}{}{Otevøeš ho a podíváš se dovnitø.}
-{108}{}{Necháš ho bıt.}
-{109}{}{Chvíli zíráš na konzoli a vybíráš nejvhodnìjší místo, kam zasadit úder. Poté, co ho zasáhneš svım nejlepším úderem typu 'to opraví vše', monitor nìkolikrát problikne a poté se vrátí zpìt do normálního stavu. Nic víc se nestalo. Co udìláš?}
-{110}{}{Kopneš ho do 'speciálního' místa.}
-{111}{}{Spustíš diagnostickı program.}
-{112}{}{Otevøeš ho a podíváš se dovnitø.}
-{113}{}{Necháš ho bıt.}
-{114}{}{Tato osvìdèená opravná metoda vyústí ve dva vısledky. Zaprvé, monitor se na nìkolik sekund zblázní a poté se vrátí zpìt do normálního stavu. Zadruhé, uslyšíš zvuky øinèícího kovu a ten panel, do kterého jsi kopl, spadne na zem. Co udìláš?}
-{115}{}{Spustíš diagnostickı program.}
-{116}{}{Ta zatracená vìc je teï otevøená, take se podívám dovnitø.}
-{117}{}{Necháš ho bıt.}
-{118}{}{Víš urèitì, e by mìl mít systém k dispozici nìkolik diagnostickıch programù. Bohuel to vypadá, e je vstup pøes klávesnici vypnutı. Terminál pøijímá pouze hlasové povely. Co udìláš?}
-{119}{}{U zbıvá se jen podívat dovnitø.}
-{120}{}{Necháš ho bıt.}
-{121}{}{Po dùkladném prolezení kabeláe a plošnıch spojù se ti podaøilo pøijít na to, e byl systém úmyslnì sabotován. Jeden z plošnıch spojù, modul pro rozpoznávání hlasu, nelze opravit a musí se vymìnit. Teï u jen potøebuješ najít náhradní modul.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l s hlasovÃ½m rozhranÃ­m.}
+{102}{}{VidÃ­Å¡ bÄ›Å¾nÃ½ poÄÃ­taÄovÃ½ terminÃ¡l upravenÃ½ pro hlasovÃ© povely.}
+{103}{}{ZkoumÃ¡Å¡ poÄÃ­taÄovÃ½ terminÃ¡l, ale nevidÃ­Å¡, Å¾e by s nÃ­m bylo nÄ›co Å¡patnÄ›. Co udÄ›lÃ¡Å¡?}
+{104}{}{UdeÅ™Ã­Å¡ ho 'speciÃ¡lnÃ­m' zpÅ¯sobem.}
+{105}{}{KopneÅ¡ ho do 'speciÃ¡lnÃ­ho' mÃ­sta.}
+{106}{}{SpustÃ­Å¡ diagnostickÃ½ program.}
+{107}{}{OtevÅ™eÅ¡ ho a podÃ­vÃ¡Å¡ se dovnitÅ™.}
+{108}{}{NechÃ¡Å¡ ho bÃ½t.}
+{109}{}{ChvÃ­li zÃ­rÃ¡Å¡ na konzoli a vybÃ­rÃ¡Å¡ nejvhodnÄ›jÅ¡Ã­ mÃ­sto, kam zasadit Ãºder. PotÃ©, co ho zasÃ¡hneÅ¡ svÃ½m nejlepÅ¡Ã­m Ãºderem typu 'to opravÃ­ vÅ¡e', monitor nÄ›kolikrÃ¡t problikne a potÃ© se vrÃ¡tÃ­ zpÄ›t do normÃ¡lnÃ­ho stavu. Nic vÃ­c se nestalo. Co udÄ›lÃ¡Å¡?}
+{110}{}{KopneÅ¡ ho do 'speciÃ¡lnÃ­ho' mÃ­sta.}
+{111}{}{SpustÃ­Å¡ diagnostickÃ½ program.}
+{112}{}{OtevÅ™eÅ¡ ho a podÃ­vÃ¡Å¡ se dovnitÅ™.}
+{113}{}{NechÃ¡Å¡ ho bÃ½t.}
+{114}{}{Tato osvÄ›dÄenÃ¡ opravnÃ¡ metoda vyÃºstÃ­ ve dva vÃ½sledky. ZaprvÃ©, monitor se na nÄ›kolik sekund zblÃ¡znÃ­ a potÃ© se vrÃ¡tÃ­ zpÄ›t do normÃ¡lnÃ­ho stavu. ZadruhÃ©, uslyÅ¡Ã­Å¡ zvuky Å™inÄÃ­cÃ­ho kovu a ten panel, do kterÃ©ho jsi kopl, spadne na zem. Co udÄ›lÃ¡Å¡?}
+{115}{}{SpustÃ­Å¡ diagnostickÃ½ program.}
+{116}{}{Ta zatracenÃ¡ vÄ›c je teÄ otevÅ™enÃ¡, takÅ¾e se podÃ­vÃ¡m dovnitÅ™.}
+{117}{}{NechÃ¡Å¡ ho bÃ½t.}
+{118}{}{VÃ­Å¡ urÄitÄ›, Å¾e by mÄ›l mÃ­t systÃ©m k dispozici nÄ›kolik diagnostickÃ½ch programÅ¯. BohuÅ¾el to vypadÃ¡, Å¾e je vstup pÅ™es klÃ¡vesnici vypnutÃ½. TerminÃ¡l pÅ™ijÃ­mÃ¡ pouze hlasovÃ© povely. Co udÄ›lÃ¡Å¡?}
+{119}{}{UÅ¾ zbÃ½vÃ¡ se jen podÃ­vat dovnitÅ™.}
+{120}{}{NechÃ¡Å¡ ho bÃ½t.}
+{121}{}{Po dÅ¯kladnÃ©m prolezenÃ­ kabelÃ¡Å¾e a ploÅ¡nÃ½ch spojÅ¯ se ti podaÅ™ilo pÅ™ijÃ­t na to, Å¾e byl systÃ©m ÃºmyslnÄ› sabotovÃ¡n. Jeden z ploÅ¡nÃ½ch spojÅ¯, modul pro rozpoznÃ¡vÃ¡nÃ­ hlasu, nelze opravit a musÃ­ se vymÄ›nit. TeÄ uÅ¾ jen potÅ™ebujeÅ¡ najÃ­t nÃ¡hradnÃ­ modul.}
 {122}{}{Beru.}
 {123}{}{Beru.}
-{124}{}{Podaøilo se ti nainstalovat modul do terminálu. Systém je opraven.}
-{125}{}{Terminál nemùe fungovat, dokud nemá nainstalovanı modul pro rozpoznávání hlasu.}
+{124}{}{PodaÅ™ilo se ti nainstalovat modul do terminÃ¡lu. SystÃ©m je opraven.}
+{125}{}{TerminÃ¡l nemÅ¯Å¾e fungovat, dokud nemÃ¡ nainstalovanÃ½ modul pro rozpoznÃ¡vÃ¡nÃ­ hlasu.}
 {126}{}{Beru.}
-{127}{}{Systém ji pracuje v poøádku.}
-{128}{}{Pøistupuji k bezpeènostním záznamùm, nahrávám holografickı záznam...}
-{129}{}{Jsi poslední, Gruthare. Brzy po tvém druhu nezbude ani flek.}
-{130}{}{Vzka svému takzvanému Prezidentovi, e za tohle shoøí v pekle.}
-{131}{}{To je jedno. Nikdy jsi nebyl nic víc ne jen mluvící zvíøe.}
-{132}{}{To je moné, ale stvoøili jste nás vy pøi svıch experimentech. Dali jste nám ivot!}
-{133}{}{A teï ti dám smrt.}
-{134}{}{Vezmìte jeho tìlo. Doktor ho chce podrobnì prozkoumat.}
-{135}{}{Jejich krev poteèe jako øeka Nil!}
+{127}{}{SystÃ©m jiÅ¾ pracuje v poÅ™Ã¡dku.}
+{128}{}{PÅ™istupuji k bezpeÄnostnÃ­m zÃ¡znamÅ¯m, nahrÃ¡vÃ¡m holografickÃ½ zÃ¡znam...}
+{129}{}{Jsi poslednÃ­, Gruthare. Brzy po tvÃ©m druhu nezbude ani flek.}
+{130}{}{VzkaÅ¾ svÃ©mu takzvanÃ©mu Prezidentovi, Å¾e za tohle shoÅ™Ã­ v pekle.}
+{131}{}{To je jedno. Nikdy jsi nebyl nic vÃ­c neÅ¾ jen mluvÃ­cÃ­ zvÃ­Å™e.}
+{132}{}{To je moÅ¾nÃ©, ale stvoÅ™ili jste nÃ¡s vy pÅ™i svÃ½ch experimentech. Dali jste nÃ¡m Å¾ivot!}
+{133}{}{A teÄ ti dÃ¡m smrt.}
+{134}{}{VezmÄ›te jeho tÄ›lo. Doktor ho chce podrobnÄ› prozkoumat.}
+{135}{}{Jejich krev poteÄe jako Å™eka Nil!}

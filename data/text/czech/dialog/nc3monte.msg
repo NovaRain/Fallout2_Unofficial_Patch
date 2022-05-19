@@ -1,44 +1,44 @@
-{100}{}{Vidíš "Tøi karty" Monteho.}
-{150}{}{Vidíš vyhublého mue s tváøí spálenou od slunce. Je hubenı jako proutek.}
-{200}{}{Nechápu, jak jsem mohl prohrát...}
-{205}{}{Heeeej! Hrdino! Jseš v pohodì, jseš fakt v pohodì.}
-{215}{}{Kde jsou sakra moje karty? Vdy jsem je ještì pøed CHVÍLÍ mìl!}
-{220}{}{Hej, kámo, vykašli se na kasína. Pojï si zahrát s Montem.}
-{230}{}{Monte má dneska zavøenej krám, pøíteli, ztratil jsem svı blbı karty.}
-{231}{}{(Starı mu se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, pøíteli?}
-{250}{}{Na co? No pøece na hru!}
-{260}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty a poté je poloí na stùl a nìkolik vteøin s nimi míchá.)}
+{100}{}{VidÃ­Å¡ "TÅ™i karty" Monteho.}
+{150}{}{VidÃ­Å¡ vyhublÃ©ho muÅ¾e s tvÃ¡Å™Ã­ spÃ¡lenou od slunce. Je hubenÃ½ jako proutek.}
+{200}{}{NechÃ¡pu, jak jsem mohl prohrÃ¡t...}
+{205}{}{Heeeej! Hrdino! JseÅ¡ v pohodÄ›, jseÅ¡ fakt v pohodÄ›.}
+{215}{}{Kde jsou sakra moje karty? VÅ¾dyÅ¥ jsem je jeÅ¡tÄ› pÅ™ed CHVÃLÃ mÄ›l!}
+{220}{}{Hej, kÃ¡mo, vykaÅ¡li se na kasÃ­na. PojÄ si zahrÃ¡t s Montem.}
+{230}{}{Monte mÃ¡ dneska zavÅ™enej krÃ¡m, pÅ™Ã­teli, ztratil jsem svÃ½ blbÃ½ karty.}
+{231}{}{(StarÃ½ muÅ¾ se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, pÅ™Ã­teli?}
+{250}{}{Na co? No pÅ™ece na hru!}
+{260}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty a potÃ© je poloÅ¾Ã­ na stÅ¯l a nÄ›kolik vteÅ™in s nimi mÃ­chÃ¡.)}
 {280}{}{(Monte turns over the card. It is the two of spades.)}
-{300}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty, poloí je na stùl a pøitom vytáhne jednu kartu tak rychle, e to nebylo skoro vidìt. Poté je pár sekund míchá.)}
-{320}{}{CO JSI to øíkal, kámo?}
-{330}{}{Poslyš, nemám èas na tvùj brekot. Zaplatíš, zkusíš štìstí. Jestli chceš HRÁT dál, tak fajn, ale jestli mi tu budeš breèet, kdy prohraješ, tak se ztra!}
-{340}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty a poté je poloí na stùl a nìkolik vteøin s nimi míchá.)}
-{360}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty a poté je poloí na stùl a nìkolik vteøin s nimi míchá.)}
-{375}{}{(Monte otoèí kartu. Je to srdcová královna. Celı šokovanì ztuhne.) Eh...? Hehe. Eh...}
-{385}{}{(Monte otoèí kartu. Je to srdcová královna. Vypadá šokovanì.) Eh...? Hehe. Eh...}
-{400}{}{(Vypadá mrzutì.) Eh... no, nìco bych tu mìl... ale má to MNOHEM vìtší cenu ne tvoje vıhra... take...}
-{405}{}{Eh... hmnnn... to záleí na tom, co chceš vìdìt.}
-{415}{}{No... poslyš, ode mì to nemáš, ale vsadím se, e to byl ten sráè Renesco, co prodává léky v Obchodní ètvrti. Nevím jistì, jestli TO prodal tomu klukovi, ale urèitì nìco ví. To je všechno.}
-{420}{}{Eh... no... (Zdá se, e bojuje se svım svìdomím.) ...poslyš, ode mì to nemáš, ale bejt tebou, tak se podívám do suterénu v podniku Desperado.}
-{425}{}{(Zamhouøí oèima a nakloní se k tobì.) Zeptal bych se starıho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom má prsty. Chápeš, co tím myslím?}
-{430}{}{No... znáš Eldridge, co má obchod se zbranìmi Lovecké potøeby? Tvrdí, e upravuje zbranì, ale v ivotì jsem ho nevidìl pracovat. Moná by stálo za to omrknout jeho obchod... ale ode mì to nemáš.}
-{435}{}{(Monte se na tebe zamraèí.) Poslyš, dneska u ádnı hry, jasnı? Odpal.}
-{440}{}{Ne. Ten ti nedám. Teèka. Je to PRAVÁ pøedváleèná památka... kousek historie. Prostì NE.}
-{450}{}{Sedíš si na uších? Takovı smìšnı sumy mì nezajímají.}
-{460}{}{No, zase a TAK mi na nìm nezáleí. Je tvùj, kámo. (Rychle se podívá nalevo a napravo, poté se sehne a sundá si botu. Odšroubuje patu a z dutiny uvnitø vyndá balíèek karet.) Tady ho máš a dávej na nìj pozor.}
-{465}{}{(Zamraèí se.) To záleí na tom, co chceš vìdìt. A taky to nebude lacinı.}
-{475}{}{U Golgoty, tohohle tématu se v ádnım pøípadì ani NEDOTKNU. Jdi do hajzlu.}
-{490}{}{(Zakroutí hlavou.) V ádnım pøípadì. Mluvit o nìèem takovım je k smrti nebezpeènı, obzvláš pro mì. Zapomeò na to.}
-{495}{}{Eh... no... to je hodnì penìz. (Olizuje si rty. Vypadá to, e nad tím hodnì pøemıšlí... ale jen nakrátko.) Poslyš, ode mì to nemáš...}
-{500}{}{(Ušklíbne se.) Moná jsem nìco slyšel, moná taky ne. Øekni cenu.}
-{510}{}{Ha! Tak za to si nekoupím ani pytel sraèek. Zapomeò na to.}
-{515}{}{Noooo, to je tak akorát. (Zlomyslnì se ušklíbne.) Poslyš, ode mì to nemáš, ale bıt tebou, tak se zajdu podívat do suterénu v podniku Desperado v ulici Panen. Je tam hodnì "krys", jestli mi rozumíš.}
-{520}{}{(Pokrèí rameny.) Moná o nìèem vím, moná taky ne. Øekni cenu a tøeba ti nìco povím.}
-{530}{}{(Zamhouøí oèima a nakloní se k tobì.) Tak za tenhle obnos vím leda tak kulovı.}
-{535}{}{To je tak akorát... (Zamhouøí oèima a nakloní se k tobì.) ...zeptal bych se starıho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom má prsty. Chápeš, co tím myslím?}
-{540}{}{(Pokrèí rameny.) Slyším vìci, vidím vìci. Za 200 babek se mi moná osvìí pamì, jestli mi rozumíš.}
-{550}{}{Sedíš si na uších? ØÍKÁM 200 babek a myslím to vánì.}
-{555}{}{Beru. (Monte se k tobì nakloní.) Znáš Eldridge, co má obchod se zbranìmi Lovecké potøeby? Tvrdí, e upravuje zbranì, ale v ivotì jsem ho nevidìl pracovat. Moná by stálo za to omrknout jeho obchod... ale ode mì to nemáš.}
-{560}{}{To je pohøebištì jinì od mìsta. Smrdí to tam jak v prdeli.}
-{565}{}{Vsadím se, e to byl ten starej kretén, co prodává léky v Obchodní ètvrti. Nevím jistì, jestli TO prodal tomu klukovi, ale urèitì nìco ví. To je všechno.}
-{570}{}{(Rychle se podívá nalevo a napravo, poté se sehne a sundá si botu. Odšroubuje patu a z dutiny uvnitø vyndá balíèek karet... na kartì je mu v podivném klobouku drící palici.) Máš zájem? Je to pravá pøedváleèná památka.}
+{300}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty, poloÅ¾Ã­ je na stÅ¯l a pÅ™itom vytÃ¡hne jednu kartu tak rychle, Å¾e to nebylo skoro vidÄ›t. PotÃ© je pÃ¡r sekund mÃ­chÃ¡.)}
+{320}{}{CO JSI to Å™Ã­kal, kÃ¡mo?}
+{330}{}{PoslyÅ¡, nemÃ¡m Äas na tvÅ¯j brekot. ZaplatÃ­Å¡, zkusÃ­Å¡ Å¡tÄ›stÃ­. Jestli chceÅ¡ HRÃT dÃ¡l, tak fajn, ale jestli mi tu budeÅ¡ breÄet, kdyÅ¾ prohrajeÅ¡, tak se ztraÅ¥!}
+{340}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty a potÃ© je poloÅ¾Ã­ na stÅ¯l a nÄ›kolik vteÅ™in s nimi mÃ­chÃ¡.)}
+{360}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty a potÃ© je poloÅ¾Ã­ na stÅ¯l a nÄ›kolik vteÅ™in s nimi mÃ­chÃ¡.)}
+{375}{}{(Monte otoÄÃ­ kartu. Je to srdcovÃ¡ krÃ¡lovna. CelÃ½ Å¡okovanÄ› ztuhne.) Eh...? Hehe. Eh...}
+{385}{}{(Monte otoÄÃ­ kartu. Je to srdcovÃ¡ krÃ¡lovna. VypadÃ¡ Å¡okovanÄ›.) Eh...? Hehe. Eh...}
+{400}{}{(VypadÃ¡ mrzutÄ›.) Eh... no, nÄ›co bych tu mÄ›l... ale mÃ¡ to MNOHEM vÄ›tÅ¡Ã­ cenu neÅ¾ tvoje vÃ½hra... takÅ¾e...}
+{405}{}{Eh... hmnnn... to zÃ¡leÅ¾Ã­ na tom, co chceÅ¡ vÄ›dÄ›t.}
+{415}{}{No... poslyÅ¡, ode mÄ› to nemÃ¡Å¡, ale vsadÃ­m se, Å¾e to byl ten srÃ¡Ä Renesco, co prodÃ¡vÃ¡ lÃ©ky v ObchodnÃ­ Ätvrti. NevÃ­m jistÄ›, jestli TO prodal tomu klukovi, ale urÄitÄ› nÄ›co vÃ­. To je vÅ¡echno.}
+{420}{}{Eh... no... (ZdÃ¡ se, Å¾e bojuje se svÃ½m svÄ›domÃ­m.) ...poslyÅ¡, ode mÄ› to nemÃ¡Å¡, ale bejt tebou, tak se podÃ­vÃ¡m do suterÃ©nu v podniku Desperado.}
+{425}{}{(ZamhouÅ™Ã­ oÄima a naklonÃ­ se k tobÄ›.) Zeptal bych se starÃ½ho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom mÃ¡ prsty. ChÃ¡peÅ¡, co tÃ­m myslÃ­m?}
+{430}{}{No... znÃ¡Å¡ Eldridge, co mÃ¡ obchod se zbranÄ›mi LoveckÃ© potÅ™eby? TvrdÃ­, Å¾e upravuje zbranÄ›, ale v Å¾ivotÄ› jsem ho nevidÄ›l pracovat. MoÅ¾nÃ¡ by stÃ¡lo za to omrknout jeho obchod... ale ode mÄ› to nemÃ¡Å¡.}
+{435}{}{(Monte se na tebe zamraÄÃ­.) PoslyÅ¡, dneska uÅ¾ Å¾Ã¡dnÃ½ hry, jasnÃ½? Odpal.}
+{440}{}{Ne. Ten ti nedÃ¡m. TeÄka. Je to PRAVÃ pÅ™edvÃ¡leÄnÃ¡ pamÃ¡tka... kousek historie. ProstÄ› NE.}
+{450}{}{SedÃ­Å¡ si na uÅ¡Ã­ch? TakovÃ½ smÄ›Å¡nÃ½ sumy mÄ› nezajÃ­majÃ­.}
+{460}{}{No, zase aÅ¾ TAK mi na nÄ›m nezÃ¡leÅ¾Ã­. Je tvÅ¯j, kÃ¡mo. (Rychle se podÃ­vÃ¡ nalevo a napravo, potÃ© se sehne a sundÃ¡ si botu. OdÅ¡roubuje patu a z dutiny uvnitÅ™ vyndÃ¡ balÃ­Äek karet.) Tady ho mÃ¡Å¡ a dÃ¡vej na nÄ›j pozor.}
+{465}{}{(ZamraÄÃ­ se.) To zÃ¡leÅ¾Ã­ na tom, co chceÅ¡ vÄ›dÄ›t. A taky to nebude lacinÃ½.}
+{475}{}{U Golgoty, tohohle tÃ©matu se v Å¾Ã¡dnÃ½m pÅ™Ã­padÄ› ani NEDOTKNU. Jdi do hajzlu.}
+{490}{}{(ZakroutÃ­ hlavou.) V Å¾Ã¡dnÃ½m pÅ™Ã­padÄ›. Mluvit o nÄ›Äem takovÃ½m je k smrti nebezpeÄnÃ½, obzvlÃ¡Å¡Å¥ pro mÄ›. ZapomeÅˆ na to.}
+{495}{}{Eh... no... to je hodnÄ› penÄ›z. (Olizuje si rty. VypadÃ¡ to, Å¾e nad tÃ­m hodnÄ› pÅ™emÃ½Å¡lÃ­... ale jen nakrÃ¡tko.) PoslyÅ¡, ode mÄ› to nemÃ¡Å¡...}
+{500}{}{(UÅ¡klÃ­bne se.) MoÅ¾nÃ¡ jsem nÄ›co slyÅ¡el, moÅ¾nÃ¡ taky ne. Å˜ekni cenu.}
+{510}{}{Ha! Tak za to si nekoupÃ­m ani pytel sraÄek. ZapomeÅˆ na to.}
+{515}{}{Noooo, to je tak akorÃ¡t. (ZlomyslnÄ› se uÅ¡klÃ­bne.) PoslyÅ¡, ode mÄ› to nemÃ¡Å¡, ale bÃ½t tebou, tak se zajdu podÃ­vat do suterÃ©nu v podniku Desperado v ulici Panen. Je tam hodnÄ› "krys", jestli mi rozumÃ­Å¡.}
+{520}{}{(PokrÄÃ­ rameny.) MoÅ¾nÃ¡ o nÄ›Äem vÃ­m, moÅ¾nÃ¡ taky ne. Å˜ekni cenu a tÅ™eba ti nÄ›co povÃ­m.}
+{530}{}{(ZamhouÅ™Ã­ oÄima a naklonÃ­ se k tobÄ›.) Tak za tenhle obnos vÃ­m leda tak kulovÃ½.}
+{535}{}{To je tak akorÃ¡t... (ZamhouÅ™Ã­ oÄima a naklonÃ­ se k tobÄ›.) ...zeptal bych se starÃ½ho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom mÃ¡ prsty. ChÃ¡peÅ¡, co tÃ­m myslÃ­m?}
+{540}{}{(PokrÄÃ­ rameny.) SlyÅ¡Ã­m vÄ›ci, vidÃ­m vÄ›ci. Za 200 babek se mi moÅ¾nÃ¡ osvÄ›Å¾Ã­ pamÄ›Å¥, jestli mi rozumÃ­Å¡.}
+{550}{}{SedÃ­Å¡ si na uÅ¡Ã­ch? Å˜ÃKÃM 200 babek a myslÃ­m to vÃ¡Å¾nÄ›.}
+{555}{}{Beru. (Monte se k tobÄ› naklonÃ­.) ZnÃ¡Å¡ Eldridge, co mÃ¡ obchod se zbranÄ›mi LoveckÃ© potÅ™eby? TvrdÃ­, Å¾e upravuje zbranÄ›, ale v Å¾ivotÄ› jsem ho nevidÄ›l pracovat. MoÅ¾nÃ¡ by stÃ¡lo za to omrknout jeho obchod... ale ode mÄ› to nemÃ¡Å¡.}
+{560}{}{To je pohÅ™ebiÅ¡tÄ› jiÅ¾nÄ› od mÄ›sta. SmrdÃ­ to tam jak v prdeli.}
+{565}{}{VsadÃ­m se, Å¾e to byl ten starej kretÃ©n, co prodÃ¡vÃ¡ lÃ©ky v ObchodnÃ­ Ätvrti. NevÃ­m jistÄ›, jestli TO prodal tomu klukovi, ale urÄitÄ› nÄ›co vÃ­. To je vÅ¡echno.}
+{570}{}{(Rychle se podÃ­vÃ¡ nalevo a napravo, potÃ© se sehne a sundÃ¡ si botu. OdÅ¡roubuje patu a z dutiny uvnitÅ™ vyndÃ¡ balÃ­Äek karet... na kartÄ› je muÅ¾ v podivnÃ©m klobouku drÅ¾Ã­cÃ­ palici.) MÃ¡Å¡ zÃ¡jem? Je to pravÃ¡ pÅ™edvÃ¡leÄnÃ¡ pamÃ¡tka.}

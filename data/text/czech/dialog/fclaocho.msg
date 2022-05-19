@@ -1,81 +1,81 @@
-{100}{}{Vidíš mue, kterı vypadá jako prodavaè.}
-{101}{}{Vidíš prodavaèe Lao Choua.}
-{102}{}{Vidíš mue v pohodlném pracovním obleèení.}
-{103}{}{Zdravím! Vítej v mém obchodì Flying Dragon 8.}
-{104}{}{Co pro tebe mohu udìlat?}
+{100}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ vypadÃ¡ jako prodavaÄ.}
+{101}{}{VidÃ­Å¡ prodavaÄe Lao Choua.}
+{102}{}{VidÃ­Å¡ muÅ¾e v pohodlnÃ©m pracovnÃ­m obleÄenÃ­.}
+{103}{}{ZdravÃ­m! VÃ­tej v mÃ©m obchodÄ› Flying Dragon 8.}
+{104}{}{Co pro tebe mohu udÄ›lat?}
 {105}{}{Da aggle oo!}
-{106}{}{Vìcièky!}
+{106}{}{VÄ›ciÄky!}
 {107}{}{Kdo jsi?}
-{108}{}{Hledám nìjaké vybavení.}
-{109}{}{Sháním nìjaké informace.}
+{108}{}{HledÃ¡m nÄ›jakÃ© vybavenÃ­.}
+{109}{}{ShÃ¡nÃ­m nÄ›jakÃ© informace.}
 {110}{}{Nashle.}
-{111}{}{Chceš nìco koupit?}
-{112}{}{::kıvnout hlavou::}
-{113}{}{::zavrtìt hlavou::}
-{114}{}{Tohle máme na skladì.}
+{111}{}{ChceÅ¡ nÄ›co koupit?}
+{112}{}{::kÃ½vnout hlavou::}
+{113}{}{::zavrtÄ›t hlavou::}
+{114}{}{Tohle mÃ¡me na skladÄ›.}
 {115}{}{[KONEC]}
-{116}{}{No, obávám se, e víc u pro tebe nemùu udìlat. Pìknı den.}
+{116}{}{No, obÃ¡vÃ¡m se, Å¾e vÃ­c uÅ¾ pro tebe nemÅ¯Å¾u udÄ›lat. PÄ›knÃ½ den.}
 {117}{}{[KONEC]}
-{118}{}{Jsem Lao Chou. Provozuju tenhle obchod, Flying Dragon 8. Jsem známı tím, e obchoduju i... s informacemi.}
-{119}{}{S jakımi informacemi?}
-{120}{}{Aha. Potøebuju nìjaké vybavení.}
-{121}{}{V tomhle mìstì se stane jen málo vìcí, o kterıch bych nevìdìl. Samozøejmì se také musíš umìt správnì zeptat, e? Co potøebuješ vìdìt?}
-{122}{}{Hledám nìjaké vylepšení pro svoje vybavení.}
-{123}{}{Kde najdu plány vertibirdu?}
-{124}{}{Potøebuju najít palivo pro PMV Valdez.}
-{125}{}{Potøebuju nìjakı FOB k pøístupu do poèítaèe Valdezu.}
-{126}{}{Potøebuju nìjaké souèásti do poèítaèe PMV Valdezu.}
-{127}{}{Hledám slezinu.}
-{128}{}{Prı tudy pøeváeli nìjaké létající stroje náklad vesnièanù.}
+{118}{}{Jsem Lao Chou. Provozuju tenhle obchod, Flying Dragon 8. Jsem znÃ¡mÃ½ tÃ­m, Å¾e obchoduju i... s informacemi.}
+{119}{}{S jakÃ½mi informacemi?}
+{120}{}{Aha. PotÅ™ebuju nÄ›jakÃ© vybavenÃ­.}
+{121}{}{V tomhle mÄ›stÄ› se stane jen mÃ¡lo vÄ›cÃ­, o kterÃ½ch bych nevÄ›dÄ›l. SamozÅ™ejmÄ› se takÃ© musÃ­Å¡ umÄ›t sprÃ¡vnÄ› zeptat, Å¾e? Co potÅ™ebujeÅ¡ vÄ›dÄ›t?}
+{122}{}{HledÃ¡m nÄ›jakÃ© vylepÅ¡enÃ­ pro svoje vybavenÃ­.}
+{123}{}{Kde najdu plÃ¡ny vertibirdu?}
+{124}{}{PotÅ™ebuju najÃ­t palivo pro PMV Valdez.}
+{125}{}{PotÅ™ebuju nÄ›jakÃ½ FOB k pÅ™Ã­stupu do poÄÃ­taÄe Valdezu.}
+{126}{}{PotÅ™ebuju nÄ›jakÃ© souÄÃ¡sti do poÄÃ­taÄe PMV Valdezu.}
+{127}{}{HledÃ¡m slezinu.}
+{128}{}{PrÃ½ tudy pÅ™evÃ¡Å¾eli nÄ›jakÃ© lÃ©tajÃ­cÃ­ stroje nÃ¡klad vesniÄanÅ¯.}
 {129}{}{Nic. Nashle.}
 {130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
-{131}{}{Díky. Potøebuju víc informací.}
-{132}{}{Dík. Naskle.}
-{133}{}{Hledej na severu, v Navarru. Je tam skrytá základna poblí benzínové pumpy.}
-{134}{}{Díky. Potøebuju víc informací.}
-{135}{}{Dík. Naskle.}
-{136}{}{Co se zkusit podívat do starıch Vaultù? Slyšel jsem, e je uvnitø spousta informací a starobylıch technologií.}
-{137}{}{Díky. Potøebuju víc informací.}
-{138}{}{Dík. Naskle.}
-{139}{}{Slezinu? Haha! Ano, Chip z Valdezu prohrál svoji slezinu v kartách. Prodal jsem ji Dr. Wongovi. Fascinovala ho.}
+{131}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{132}{}{DÃ­k. Naskle.}
+{133}{}{Hledej na severu, v Navarru. Je tam skrytÃ¡ zÃ¡kladna poblÃ­Å¾ benzÃ­novÃ© pumpy.}
+{134}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{135}{}{DÃ­k. Naskle.}
+{136}{}{Co se zkusit podÃ­vat do starÃ½ch VaultÅ¯? SlyÅ¡el jsem, Å¾e je uvnitÅ™ spousta informacÃ­ a starobylÃ½ch technologiÃ­.}
+{137}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{138}{}{DÃ­k. Naskle.}
+{139}{}{Slezinu? Haha! Ano, Chip z Valdezu prohrÃ¡l svoji slezinu v kartÃ¡ch. Prodal jsem ji Dr. Wongovi. Fascinovala ho.}
 {140}{}{Dr. Wong? Kde ho najdu?}
-{141}{}{Jak se dá prohrát slezina?}
-{142}{}{Díky. Mám další otázky.}
+{141}{}{Jak se dÃ¡ prohrÃ¡t slezina?}
+{142}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {143}{}{Aha. Nashle.}
-{144}{}{Dr. Wong je hlavní vìdec v Ocelovém Paláci. Tam ho zastihneš.}
-{145}{}{Jak se dá prohrát slezina?}
-{146}{}{Díky. Potøebuju víc informací.}
-{147}{}{Dík. Naskle.}
-{148}{}{Byl opilı. Velmi, velmi opilı. Celı veèer se chlubil svojí slezinou a pak ji vsadil.}
-{149}{}{Take ty jsi mu vzal jeho SLEZINU?}
-{150}{}{Chápu. No, mám další otázky.}
-{151}{}{Ano. Dluil mi. Je to èestnı mu.}
-{152}{}{Aha. Potøebuju víc informací.}
+{144}{}{Dr. Wong je hlavnÃ­ vÄ›dec v OcelovÃ©m PalÃ¡ci. Tam ho zastihneÅ¡.}
+{145}{}{Jak se dÃ¡ prohrÃ¡t slezina?}
+{146}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{147}{}{DÃ­k. Naskle.}
+{148}{}{Byl opilÃ½. Velmi, velmi opilÃ½. CelÃ½ veÄer se chlubil svojÃ­ slezinou a pak ji vsadil.}
+{149}{}{TakÅ¾e ty jsi mu vzal jeho SLEZINU?}
+{150}{}{ChÃ¡pu. No, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{151}{}{Ano. DluÅ¾il mi. Je to ÄestnÃ½ muÅ¾.}
+{152}{}{Aha. PotÅ™ebuju vÃ­c informacÃ­.}
 {153}{}{Jsi hnusnej nevychovanej hajzl.}
-{154}{}{Jasnì. Nashle.}
-{155}{}{Jsi neèestná osoba. Nechci tì teï ve svém obchodì. Pøijï nìkdy jindy.}
-{156}{}{Nevadí.}
-{157}{}{Tudy ne. Pøiletìli ze severu, proletìli nad našimi hlavami a pokraèovali dál pøes moøe.}
-{158}{}{A za obzor? Jak se tam sakra dostanu?}
-{159}{}{Jo, to urèitì. Øekni mi, kde jsou, nebo tì otevøu jako plechovku sardinek.}
-{160}{}{Mno... ádná z našich lodí není schopná urazit takovou vzdálenost. Ledae...}
-{161}{}{Ledae...?}
-{162}{}{Díky za "pomoc". Radìji se poohlédnu po nìjaké opravdové radì.}
-{163}{}{...ledae by se ti podaøilo zprovoznit ten starı tanker v pøístavu. Je to sice stará loï, ale kdyby se na ní udìlalo pár oprav, tak bude moná ještì fungovat. Zeptej se tulákù v tankeru, øeknou ti toho víc.}
-{164}{}{Díky. Potøebuju víc informací.}
-{165}{}{Dík. Naskle.}
-{166}{}{Slyšel jsem, e Hubologisté nedávno pøišli k velkému mnoství paliva. Domluv se s nimi.}
-{167}{}{Díky. Potøebuju víc informací.}
-{168}{}{Dík. Naskle.}
-{169}{}{Zkus se zeptat nìjakého vìdce Shi v Ocelovém Paláci. Moná by ti s tím palivem mohli pomoct.}
-{170}{}{Díky. Potøebuju víc informací.}
-{171}{}{Dík. Naskle.}
-{172}{}{Jsi nepøítel mého lidu. Chcípni!}
-{173}{}{Náš lid je ti za zabití AHS-9 velmi vdìènı. Doufám, e ti budu moct nìjak pomoct.}
+{154}{}{JasnÄ›. Nashle.}
+{155}{}{Jsi neÄestnÃ¡ osoba. Nechci tÄ› teÄ ve svÃ©m obchodÄ›. PÅ™ijÄ nÄ›kdy jindy.}
+{156}{}{NevadÃ­.}
+{157}{}{Tudy ne. PÅ™iletÄ›li ze severu, proletÄ›li nad naÅ¡imi hlavami a pokraÄovali dÃ¡l pÅ™es moÅ™e.}
+{158}{}{AÅ¾ za obzor? Jak se tam sakra dostanu?}
+{159}{}{Jo, to urÄitÄ›. Å˜ekni mi, kde jsou, nebo tÄ› otevÅ™u jako plechovku sardinek.}
+{160}{}{Mno... Å¾Ã¡dnÃ¡ z naÅ¡ich lodÃ­ nenÃ­ schopnÃ¡ urazit takovou vzdÃ¡lenost. LedaÅ¾e...}
+{161}{}{LedaÅ¾e...?}
+{162}{}{DÃ­ky za "pomoc". RadÄ›ji se poohlÃ©dnu po nÄ›jakÃ© opravdovÃ© radÄ›.}
+{163}{}{...ledaÅ¾e by se ti podaÅ™ilo zprovoznit ten starÃ½ tanker v pÅ™Ã­stavu. Je to sice starÃ¡ loÄ, ale kdyby se na nÃ­ udÄ›lalo pÃ¡r oprav, tak bude moÅ¾nÃ¡ jeÅ¡tÄ› fungovat. Zeptej se tulÃ¡kÅ¯ v tankeru, Å™eknou ti toho vÃ­c.}
+{164}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{165}{}{DÃ­k. Naskle.}
+{166}{}{SlyÅ¡el jsem, Å¾e HubologistÃ© nedÃ¡vno pÅ™iÅ¡li k velkÃ©mu mnoÅ¾stvÃ­ paliva. Domluv se s nimi.}
+{167}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{168}{}{DÃ­k. Naskle.}
+{169}{}{Zkus se zeptat nÄ›jakÃ©ho vÄ›dce Shi v OcelovÃ©m PalÃ¡ci. MoÅ¾nÃ¡ by ti s tÃ­m palivem mohli pomoct.}
+{170}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{171}{}{DÃ­k. Naskle.}
+{172}{}{Jsi nepÅ™Ã­tel mÃ©ho lidu. ChcÃ­pni!}
+{173}{}{NÃ¡Å¡ lid je ti za zabitÃ­ AHS-9 velmi vdÄ›ÄnÃ½. DoufÃ¡m, Å¾e ti budu moct nÄ›jak pomoct.}
 {174}{}{Kdo jsi?}
-{175}{}{Hledám nìjaké vybavení.}
-{176}{}{Sháním nìjaké informace.}
+{175}{}{HledÃ¡m nÄ›jakÃ© vybavenÃ­.}
+{176}{}{ShÃ¡nÃ­m nÄ›jakÃ© informace.}
 {177}{}{Nashle.}
-{178}{}{U jsi je dal Hubologistùm. Nebo ne?}
-{179}{}{A jo... eh... mùu se zeptat na nìco jiného?}
+{178}{}{UÅ¾ jsi je dal HubologistÅ¯m. Nebo ne?}
+{179}{}{A jo... eh... mÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
 {180}{}{A jo... nashle.}

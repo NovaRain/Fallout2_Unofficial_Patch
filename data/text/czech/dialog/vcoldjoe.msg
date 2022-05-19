@@ -1,33 +1,33 @@
-{100}{}{Vidíš staøíka se známkami šílenství.}
-{101}{}{Vidíš Starého Joea, místního blázna.}
-{102}{}{Ahoj. Dlouho jsme se nevidìli.}
-{103}{}{My se známe?}
-{104}{}{Jo, jasnì. U to bude nìjaká doba. Co jsi celou tu dobu dìlal?}
-{105}{}{No, u to bude nìjaká doba. Co jsi celou tu dobu dìlal?}
-{106}{}{To a taky tamto. Odkud mì znáš?}
-{107}{}{Podívej, staøíku, vùbec nevím, kdo sakra jsi.}
-{108}{}{Jo, to teda. No, potuloval jsem se všude monì a nakonec jsem skonèil tady na tomhle bohem zapomenutım místì. U to není jako za starejch dobrejch èasù. U ne, kamaráde.}
-{109}{}{Jó, starı dobrı èasy. Vzpomínáš, jak jsme tenkrát...}
-{110}{}{U to není jako døív, to teda ne. Poslyš... co máme vlastnì spoleèného?}
-{111}{}{Ty si na mì nevzpomínáš, e ne? No, zdáš se mi trošku moc mladej.}
-{112}{}{Co se mi tím snaíš øíct?}
-{113}{}{Ale vypadáš tak povìdomì. Ach, moje oèi u nejsou to, co bıvaly. No nic, pøeju hezkej den.}
+{100}{}{VidÃ­Å¡ staÅ™Ã­ka se znÃ¡mkami Å¡Ã­lenstvÃ­.}
+{101}{}{VidÃ­Å¡ StarÃ©ho Joea, mÃ­stnÃ­ho blÃ¡zna.}
+{102}{}{Ahoj. Dlouho jsme se nevidÄ›li.}
+{103}{}{My se znÃ¡me?}
+{104}{}{Jo, jasnÄ›. UÅ¾ to bude nÄ›jakÃ¡ doba. Co jsi celou tu dobu dÄ›lal?}
+{105}{}{No, uÅ¾ to bude nÄ›jakÃ¡ doba. Co jsi celou tu dobu dÄ›lal?}
+{106}{}{To a taky tamto. Odkud mÄ› znÃ¡Å¡?}
+{107}{}{PodÃ­vej, staÅ™Ã­ku, vÅ¯bec nevÃ­m, kdo sakra jsi.}
+{108}{}{Jo, to teda. No, potuloval jsem se vÅ¡ude moÅ¾nÄ› a nakonec jsem skonÄil tady na tomhle bohem zapomenutÃ½m mÃ­stÄ›. UÅ¾ to nenÃ­ jako za starejch dobrejch ÄasÅ¯. UÅ¾ ne, kamarÃ¡de.}
+{109}{}{JÃ³, starÃ½ dobrÃ½ Äasy. VzpomÃ­nÃ¡Å¡, jak jsme tenkrÃ¡t...}
+{110}{}{UÅ¾ to nenÃ­ jako dÅ™Ã­v, to teda ne. PoslyÅ¡... co mÃ¡me vlastnÄ› spoleÄnÃ©ho?}
+{111}{}{Ty si na mÄ› nevzpomÃ­nÃ¡Å¡, Å¾e ne? No, zdÃ¡Å¡ se mi troÅ¡ku moc mladej.}
+{112}{}{Co se mi tÃ­m snaÅ¾Ã­Å¡ Å™Ã­ct?}
+{113}{}{Ale vypadÃ¡Å¡ tak povÄ›domÄ›. Ach, moje oÄi uÅ¾ nejsou to, co bÃ½valy. No nic, pÅ™eju hezkej den.}
 {114}{}{Eh, jo... sbohem.}
-{115}{}{Jo, udìlali jsme Vùdci ze ivota peklo, e jo? Ale po tvım odchodu to šlo pìknì do sraèek. Musel jsem se pøestìhovat a zmìnit si jméno. Co se stalo s tebou?}
-{116}{}{Uíval jsem si ivota v jedné malé vesnièce.}
-{117}{}{No, radši si tu dávej na sebe bacha. U to není taková sranda jako døív. Radši si hlídej zadek.}
-{118}{}{Dobøe, díky.}
-{119}{}{Jo, chvíli jsem hledal ten tvùj Vault, ale nikdy jsem ho nenašel. Máš nìjakı zajímavı historky pro svıho starıho pøítele Iana?}
+{115}{}{Jo, udÄ›lali jsme VÅ¯dci ze Å¾ivota peklo, Å¾e jo? Ale po tvÃ½m odchodu to Å¡lo pÄ›knÄ› do sraÄek. Musel jsem se pÅ™estÄ›hovat a zmÄ›nit si jmÃ©no. Co se stalo s tebou?}
+{116}{}{UÅ¾Ã­val jsem si Å¾ivota v jednÃ© malÃ© vesniÄce.}
+{117}{}{No, radÅ¡i si tu dÃ¡vej na sebe bacha. UÅ¾ to nenÃ­ takovÃ¡ sranda jako dÅ™Ã­v. RadÅ¡i si hlÃ­dej zadek.}
+{118}{}{DobÅ™e, dÃ­ky.}
+{119}{}{Jo, chvÃ­li jsem hledal ten tvÅ¯j Vault, ale nikdy jsem ho nenaÅ¡el. MÃ¡Å¡ nÄ›jakÃ½ zajÃ­mavÃ½ historky pro svÃ½ho starÃ½ho pÅ™Ã­tele Iana?}
 {120}{}{Iana?}
-{121}{}{Jo, Ian. Nevzpomínáš si na mì? U je to pár let. Èlovìk by si myslel, e se nedá zapomenout na svıho nejlepšího kámoše. Teda... a na to støílení do zad. Za to se ti ještì jednou omlouvám.}
-{122}{}{Promiò, ale ty si nejspíš myslíš, e jsem Zakladatel. Moje vesnice byla zaloena èlovìkem, kterı pocházel z Vaultu.}
-{123}{}{Aha, tak teï u to dává trošku vìtší smysl. No, jsem rád, e mìl mùj pøítel dobrej ivot. Starej Ian má pro tebe radu. Dávej tam venku na sebe pozor. Tohle místo není tak skvìlı, jak se zdá. }
-{124}{}{Co se tady dìje?}
-{125}{}{No, Obèané Vault City si o sobì hodnì myslí a moc se nezajímají o lidi, jako jsem já nebo ty. Tohle si vezmi. Ochrání tì, kdy se vìci trochu vymknou z ruky. Poslyš, asi by tì nemìli vidìt, jak mluvíš se starım šílencem, take bude lepší, kdy u pùjdeš.}
-{126}{}{Díky za pomoc.}
-{127}{}{Nech starıho mue odpoèívat.}
-{128}{}{Vypadáš tak povìdomì...}
-{129}{}{Nech mì teï o samotì.}
-{130}{}{Radši odejdi.}
-{131}{}{Budou tì podezírat, jestli spolu budeme dál mluvit.}
-{132}{}{Bì u. A je na tebe mùj starı pøítel hrdej.}
+{121}{}{Jo, Ian. NevzpomÃ­nÃ¡Å¡ si na mÄ›? UÅ¾ je to pÃ¡r let. ÄŒlovÄ›k by si myslel, Å¾e se nedÃ¡ zapomenout na svÃ½ho nejlepÅ¡Ã­ho kÃ¡moÅ¡e. Teda... aÅ¾ na to stÅ™Ã­lenÃ­ do zad. Za to se ti jeÅ¡tÄ› jednou omlouvÃ¡m.}
+{122}{}{PromiÅˆ, ale ty si nejspÃ­Å¡ myslÃ­Å¡, Å¾e jsem Zakladatel. Moje vesnice byla zaloÅ¾ena ÄlovÄ›kem, kterÃ½ pochÃ¡zel z Vaultu.}
+{123}{}{Aha, tak teÄ uÅ¾ to dÃ¡vÃ¡ troÅ¡ku vÄ›tÅ¡Ã­ smysl. No, jsem rÃ¡d, Å¾e mÄ›l mÅ¯j pÅ™Ã­tel dobrej Å¾ivot. Starej Ian mÃ¡ pro tebe radu. DÃ¡vej tam venku na sebe pozor. Tohle mÃ­sto nenÃ­ tak skvÄ›lÃ½, jak se zdÃ¡. }
+{124}{}{Co se tady dÄ›je?}
+{125}{}{No, ObÄanÃ© Vault City si o sobÄ› hodnÄ› myslÃ­ a moc se nezajÃ­majÃ­ o lidi, jako jsem jÃ¡ nebo ty. Tohle si vezmi. OchrÃ¡nÃ­ tÄ›, kdyÅ¾ se vÄ›ci trochu vymknou z ruky. PoslyÅ¡, asi by tÄ› nemÄ›li vidÄ›t, jak mluvÃ­Å¡ se starÃ½m Å¡Ã­lencem, takÅ¾e bude lepÅ¡Ã­, kdyÅ¾ uÅ¾ pÅ¯jdeÅ¡.}
+{126}{}{DÃ­ky za pomoc.}
+{127}{}{Nech starÃ½ho muÅ¾e odpoÄÃ­vat.}
+{128}{}{VypadÃ¡Å¡ tak povÄ›domÄ›...}
+{129}{}{Nech mÄ› teÄ o samotÄ›.}
+{130}{}{RadÅ¡i odejdi.}
+{131}{}{Budou tÄ› podezÃ­rat, jestli spolu budeme dÃ¡l mluvit.}
+{132}{}{BÄ›Å¾ uÅ¾. AÅ¥ je na tebe mÅ¯j starÃ½ pÅ™Ã­tel hrdej.}

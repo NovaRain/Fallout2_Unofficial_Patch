@@ -1,124 +1,124 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál poèítaèe Císaø.}
-{102}{}{Vídíš poèítaè se zabudovanou dotykovou obrazovkou, která slouí jako rozhraní. Na boku má vyryto "Císaø v8.8 Poèítaèovı Terminál".}
-{103}{}{Zdravím. Prosím zadejte heslo pro ovìøení totonosti.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l poÄÃ­taÄe CÃ­saÅ™.}
+{102}{}{VÃ­dÃ­Å¡ poÄÃ­taÄ se zabudovanou dotykovou obrazovkou, kterÃ¡ slouÅ¾Ã­ jako rozhranÃ­. Na boku mÃ¡ vyryto "CÃ­saÅ™ v8.8 PoÄÃ­taÄovÃ½ TerminÃ¡l".}
+{103}{}{ZdravÃ­m. ProsÃ­m zadejte heslo pro ovÄ›Å™enÃ­ totoÅ¾nosti.}
 {104}{}{::slintat::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{::hacknout se do poèítaèe::}
-{109}{}{Odhlásit se.}
+{108}{}{::hacknout se do poÄÃ­taÄe::}
+{109}{}{OdhlÃ¡sit se.}
 {110}{}{Identita potvrzena.}
-{111}{}{Kterou funkci si pøejete zpøístupnit?}
-{112}{}{Diagnostické funkce.}
-{113}{}{Databáze.}
-{114}{}{Pøedpovìdi.}
-{115}{}{Odhlásit se.}
-{116}{}{Prosím, obrate se na správce systému. Nashledanou.}
-{117}{}{::hacknout se do poèítaèe::}
-{118}{}{::odejít::}
-{119}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
+{111}{}{Kterou funkci si pÅ™ejete zpÅ™Ã­stupnit?}
+{112}{}{DiagnostickÃ© funkce.}
+{113}{}{DatabÃ¡ze.}
+{114}{}{PÅ™edpovÄ›di.}
+{115}{}{OdhlÃ¡sit se.}
+{116}{}{ProsÃ­m, obraÅ¥te se na sprÃ¡vce systÃ©mu. Nashledanou.}
+{117}{}{::hacknout se do poÄÃ­taÄe::}
+{118}{}{::odejÃ­t::}
+{119}{}{ZaznamenÃ¡n nepovolenÃ½ pÅ™Ã­stup. AutomatickÃ© vypnutÃ­. PÅ™eji hezkÃ½ den.}
 {120}{}{[KONEC]}
-{121}{}{Diagnostické funkce?}
-{122}{}{Procházet sí.}
-{123}{}{Zformátovat disk.}
-{124}{}{Zkontrolovat integritu pevného disku.}
-{125}{}{Zpìt.}
-{126}{}{Kterou databázi si pøejete provìøit?}
+{121}{}{DiagnostickÃ© funkce?}
+{122}{}{ProchÃ¡zet sÃ­Å¥.}
+{123}{}{ZformÃ¡tovat disk.}
+{124}{}{Zkontrolovat integritu pevnÃ©ho disku.}
+{125}{}{ZpÄ›t.}
+{126}{}{Kterou databÃ¡zi si pÅ™ejete provÄ›Å™it?}
 {127}{}{Biologie.}
 {128}{}{Chemie.}
 {129}{}{Fyzika.}
 {130}{}{Historie.}
-{131}{}{Zpìt.}
-{132}{}{Dìti mìsta Shi jsou v nebezpeèí. Je 50% pravdìpodobnost, e se mezi nimi pohybuje vrah.}
-{133}{}{Ve mìstì Shi se objevilo nebezpeèí. Je 75% pravdìpodobnost, e nìkdo pøijde k úrazu.}
-{134}{}{Start Hubologistù do vesmíru z 95% zkrachuje. Faktory: bez paliva, nevhodné tìsnìní, špatné vedení, nedostatek iniciativy.}
-{135}{}{Je 15% pravdìpodobnost, e urèenı "Vyvolenı" uspìje ve svém úkolu.}
-{136}{}{Fakta naznaèují, e je "Enkláva" mnohem silnìjší ne se pùvodnì pøedpokládalo; nepøibliovat se.}
+{131}{}{ZpÄ›t.}
+{132}{}{DÄ›ti mÄ›sta Shi jsou v nebezpeÄÃ­. Je 50% pravdÄ›podobnost, Å¾e se mezi nimi pohybuje vrah.}
+{133}{}{Ve mÄ›stÄ› Shi se objevilo nebezpeÄÃ­. Je 75% pravdÄ›podobnost, Å¾e nÄ›kdo pÅ™ijde k Ãºrazu.}
+{134}{}{Start HubologistÅ¯ do vesmÃ­ru z 95% zkrachuje. Faktory: bez paliva, nevhodnÃ© tÄ›snÄ›nÃ­, Å¡patnÃ© vedenÃ­, nedostatek iniciativy.}
+{135}{}{Je 15% pravdÄ›podobnost, Å¾e urÄenÃ½ "VyvolenÃ½" uspÄ›je ve svÃ©m Ãºkolu.}
+{136}{}{Fakta naznaÄujÃ­, Å¾e je "EnklÃ¡va" mnohem silnÄ›jÅ¡Ã­ neÅ¾ se pÅ¯vodnÄ› pÅ™edpoklÃ¡dalo; nepÅ™ibliÅ¾ovat se.}
 {137}{}{Chances of submarine reappearing in this game: 0%}
-{138}{}{Tuláci v tankeru mají pravdìpodobnost 0%, e vyèistí zamoøení pøíšerami bez cizí pomoci. Zpracovávám vhodnost poskytnutí pomoci.}
-{139}{}{Fakt: Ropnı tanker Poseidon nevhodnı pro cestu. Vyaduji více informací.}
-{140}{}{ádné procesy. Vyaduji vstup.}
-{141}{}{[Více]}
-{142}{}{Zpìt.}
-{143}{}{Biologická stanice: Aktivní}
-{144}{}{Biologická stanice: Neaktivní}
-{145}{}{Chemická stanice: Aktivní}
-{146}{}{Chemická stanice: Neaktivní}
-{147}{}{Fyzikální stanice: Aktivní}
-{148}{}{Fyzikální stanice: Neaktivní}
+{138}{}{TulÃ¡ci v tankeru majÃ­ pravdÄ›podobnost 0%, Å¾e vyÄistÃ­ zamoÅ™enÃ­ pÅ™Ã­Å¡erami bez cizÃ­ pomoci. ZpracovÃ¡vÃ¡m vhodnost poskytnutÃ­ pomoci.}
+{139}{}{Fakt: RopnÃ½ tanker Poseidon nevhodnÃ½ pro cestu. VyÅ¾aduji vÃ­ce informacÃ­.}
+{140}{}{Å½Ã¡dnÃ© procesy. VyÅ¾aduji vstup.}
+{141}{}{[VÃ­ce]}
+{142}{}{ZpÄ›t.}
+{143}{}{BiologickÃ¡ stanice: AktivnÃ­}
+{144}{}{BiologickÃ¡ stanice: NeaktivnÃ­}
+{145}{}{ChemickÃ¡ stanice: AktivnÃ­}
+{146}{}{ChemickÃ¡ stanice: NeaktivnÃ­}
+{147}{}{FyzikÃ¡lnÃ­ stanice: AktivnÃ­}
+{148}{}{FyzikÃ¡lnÃ­ stanice: NeaktivnÃ­}
 {149}{}{Deaktivovat Biologickou Stanici.}
 {150}{}{Deaktivovat Chemickou Stanici.}
-{151}{}{Deaktivovat Fyzikální Stanici.}
-{152}{}{Zpøístupnit Biologickou Stanici.}
-{153}{}{Zpøístupnit Chemickou Stanici.}
-{154}{}{Zpøístupnit Fyzikální Stanici.}
+{151}{}{Deaktivovat FyzikÃ¡lnÃ­ Stanici.}
+{152}{}{ZpÅ™Ã­stupnit Biologickou Stanici.}
+{153}{}{ZpÅ™Ã­stupnit Chemickou Stanici.}
+{154}{}{ZpÅ™Ã­stupnit FyzikÃ¡lnÃ­ Stanici.}
 {155}{}{Aktivovat Biologickou Stanici.}
 {156}{}{Aktivovat Chemickou Stanici.}
-{157}{}{Aktivovat Fyzikální Stanici.}
-{158}{}{Zpìt.}
-{159}{}{Formátování disku: Všechna data budou ztracena. Pøejete si pokraèovat?}
+{157}{}{Aktivovat FyzikÃ¡lnÃ­ Stanici.}
+{158}{}{ZpÄ›t.}
+{159}{}{FormÃ¡tovÃ¡nÃ­ disku: VÅ¡echna data budou ztracena. PÅ™ejete si pokraÄovat?}
 {160}{}{Ano.}
 {161}{}{Ne.}
-{162}{}{Funkèní integrita tohoto systému je 92% Stínìní jádra poèítaèe Císaø je 100% Integrita dat je 100% Pøedpovìdní uzel trpí menšími vıpadky energie - pøedpokládanı èas oprav 6 dní. Pøedpovìdi z 15% funkèní.}
-{163}{}{Zpìt.}
-{164}{}{Opravdu si pøejete zformátovat tuto jednotku? Proces je nevratnı.}
+{162}{}{FunkÄnÃ­ integrita tohoto systÃ©mu je 92% StÃ­nÄ›nÃ­ jÃ¡dra poÄÃ­taÄe CÃ­saÅ™ je 100% Integrita dat je 100% PÅ™edpovÄ›dnÃ­ uzel trpÃ­ menÅ¡Ã­mi vÃ½padky energie - pÅ™edpoklÃ¡danÃ½ Äas oprav 6 dnÃ­. PÅ™edpovÄ›di z 15% funkÄnÃ­.}
+{163}{}{ZpÄ›t.}
+{164}{}{Opravdu si pÅ™ejete zformÃ¡tovat tuto jednotku? Proces je nevratnÃ½.}
 {165}{}{Ano.}
 {166}{}{Ne.}
-{167}{}{Formátuji... formátuji... formátování dokonèeno. Restart vyaduje plnou instalaci. Vypínání. Vypnutí... poèítaèe... dokonèeno...}
+{167}{}{FormÃ¡tuji... formÃ¡tuji... formÃ¡tovÃ¡nÃ­ dokonÄeno. Restart vyÅ¾aduje plnou instalaci. VypÃ­nÃ¡nÃ­. VypnutÃ­... poÄÃ­taÄe... dokonÄeno...}
 {168}{}{[KONEC]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
-{170}{}{Botanickı program.}
-{171}{}{Genetickı program.}
+{170}{}{BotanickÃ½ program.}
+{171}{}{GenetickÃ½ program.}
 {172}{}{Xeno program.}
-{173}{}{Zpìt.}
-{174}{}{(Po dvaceti minutách se ti podaøilo objevit toto: Poèáteèní vısledky rušení radiace pomocí rostlin se ukázaly jako málo slibné. Dr. Sheng vyvinul rostlinnı ivot odolnı vùèi radiaci -- s nepøíjemnımi vedlejšími úèinky. Vıslednı rostlinnı ivot je povaován za pøíliš nebezpeènı. Sheng trvá na dalším zkoumání v kombinaci s genetickım programem.)}
-{175}{}{Genetickı program.}
+{173}{}{ZpÄ›t.}
+{174}{}{(Po dvaceti minutÃ¡ch se ti podaÅ™ilo objevit toto: PoÄÃ¡teÄnÃ­ vÃ½sledky ruÅ¡enÃ­ radiace pomocÃ­ rostlin se ukÃ¡zaly jako mÃ¡lo slibnÃ©. Dr. Sheng vyvinul rostlinnÃ½ Å¾ivot odolnÃ½ vÅ¯Äi radiaci -- s nepÅ™Ã­jemnÃ½mi vedlejÅ¡Ã­mi ÃºÄinky. VÃ½slednÃ½ rostlinnÃ½ Å¾ivot je povaÅ¾ovÃ¡n za pÅ™Ã­liÅ¡ nebezpeÄnÃ½. Sheng trvÃ¡ na dalÅ¡Ã­m zkoumÃ¡nÃ­ v kombinaci s genetickÃ½m programem.)}
+{175}{}{GenetickÃ½ program.}
 {176}{}{Xeno program.}
-{177}{}{Zpìt.}
-{178}{}{(Po dvaceti minutách se ti podaøilo poskládat dohromady tuto informaci: Dr. Long Wang byl pøesvìdèen o úspìchu vytvoøení zmutovanıch vojákù s pouitím základní struktury viru FEV. Vytvoøil sérum, které pøi pokusech s hlodavci vykazovalo zajímavé vısledky. Pøi aplikaci séra na sobì se zmìnil na rozplizlou mazlavou hmotu. Dr. Sheng ukonèil tuto oblast vızkumu. Po smrti Dr. Longa se stal Dr. Sheng vedoucím. Sheng poaduje, aby se vızkum soustøedil na rostlinnı ivot pohlcující radiaci.)}
-{179}{}{Botanickı program.}
+{177}{}{ZpÄ›t.}
+{178}{}{(Po dvaceti minutÃ¡ch se ti podaÅ™ilo posklÃ¡dat dohromady tuto informaci: Dr. Long Wang byl pÅ™esvÄ›dÄen o ÃºspÄ›chu vytvoÅ™enÃ­ zmutovanÃ½ch vojÃ¡kÅ¯ s pouÅ¾itÃ­m zÃ¡kladnÃ­ struktury viru FEV. VytvoÅ™il sÃ©rum, kterÃ© pÅ™i pokusech s hlodavci vykazovalo zajÃ­mavÃ© vÃ½sledky. PÅ™i aplikaci sÃ©ra na sobÄ› se zmÄ›nil na rozplizlou mazlavou hmotu. Dr. Sheng ukonÄil tuto oblast vÃ½zkumu. Po smrti Dr. Longa se stal Dr. Sheng vedoucÃ­m. Sheng poÅ¾aduje, aby se vÃ½zkum soustÅ™edil na rostlinnÃ½ Å¾ivot pohlcujÃ­cÃ­ radiaci.)}
+{179}{}{BotanickÃ½ program.}
 {180}{}{Xeno program.}
-{181}{}{Zpìt.}
+{181}{}{ZpÄ›t.}
 {182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
-{183}{}{Botanickı program.}
-{184}{}{Genetickı program.}
-{185}{}{Zpìt.}
-{186}{}{Chemické Databáze: Palivo a deriváty - Polymery}
-{187}{}{Paliva a deriváty.}
+{183}{}{BotanickÃ½ program.}
+{184}{}{GenetickÃ½ program.}
+{185}{}{ZpÄ›t.}
+{186}{}{ChemickÃ© DatabÃ¡ze: Palivo a derivÃ¡ty - Polymery}
+{187}{}{Paliva a derivÃ¡ty.}
 {188}{}{Polymery.}
-{189}{}{Zpìt.}
+{189}{}{ZpÄ›t.}
 {190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
-{191}{}{(Narazil jsi na veliké mnoství sloitıch chemickıch vzorcù a laboratorních zápiskù. Nejsi si úplnì jistı, co všechno znamenají.)}
-{192}{}{Pøevést palivo do tankeru Poseidon.}
-{193}{}{Pøevést palivo k Hubologistùm.}
-{194}{}{Zpìt.}
-{195}{}{(Po pøelouskání symbologie a technické dokumentace se ti podaøilo zjistit, e Shi pracují na nové polymerické zbroji, která je odolná vùèi ohni a prùbojnım støelám. Dokonèení je však stále v nedohlednu. Také si všímáš zmínky o novıch zbraních a konstrukèních monostech. Oèividnì mají Shi nìjaké plány do budoucna.)}
-{196}{}{Zpìt.}
-{197}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
+{191}{}{(Narazil jsi na velikÃ© mnoÅ¾stvÃ­ sloÅ¾itÃ½ch chemickÃ½ch vzorcÅ¯ a laboratornÃ­ch zÃ¡piskÅ¯. Nejsi si ÃºplnÄ› jistÃ½, co vÅ¡echno znamenajÃ­.)}
+{192}{}{PÅ™evÃ©st palivo do tankeru Poseidon.}
+{193}{}{PÅ™evÃ©st palivo k HubologistÅ¯m.}
+{194}{}{ZpÄ›t.}
+{195}{}{(Po pÅ™elouskÃ¡nÃ­ symbologie a technickÃ© dokumentace se ti podaÅ™ilo zjistit, Å¾e Shi pracujÃ­ na novÃ© polymerickÃ© zbroji, kterÃ¡ je odolnÃ¡ vÅ¯Äi ohni a prÅ¯bojnÃ½m stÅ™elÃ¡m. DokonÄenÃ­ je vÅ¡ak stÃ¡le v nedohlednu. TakÃ© si vÅ¡Ã­mÃ¡Å¡ zmÃ­nky o novÃ½ch zbranÃ­ch a konstrukÄnÃ­ch moÅ¾nostech. OÄividnÄ› majÃ­ Shi nÄ›jakÃ© plÃ¡ny do budoucna.)}
+{196}{}{ZpÄ›t.}
+{197}{}{Palivo pÅ™evedeno dle poÅ¾adavku. SkladovacÃ­ nÃ¡drÅ¾e = PrÃ¡zdnÃ©. UkonÄuji program.}
 {198}{}{[KONEC]}
-{199}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
+{199}{}{Palivo pÅ™evedeno dle poÅ¾adavku. SkladovacÃ­ nÃ¡drÅ¾e = PrÃ¡zdnÃ©. UkonÄuji program.}
 {200}{}{[KONEC]}
-{201}{}{Fyzikální databáze: Vızkum - Teorie}
+{201}{}{FyzikÃ¡lnÃ­ databÃ¡ze: VÃ½zkum - Teorie}
 {202}{}{Exploration.}
 {203}{}{Theory.}
-{204}{}{Zpìt.}
-{205}{}{"Díky nedávnému získání plánù k vertibirdu se kvantovım skokem zvıšila šance na sestrojení praktického létajícího stroje. Oèekáváme, e koncem roku budeme mít funkèní prototyp a do dvou let budeme moci zahájit hromadnou vırobu." -Dr. Wong}
-{206}{}{::zkopírovat plány:: Zpìt.}
-{207}{}{Zpìt.}
-{208}{}{"Stále pøipravujeme funkèní model vzdušného stroje. ádnı z našich návrhù se neosvìdèil jako bezpeènı nebo aerodynamickı. Moná kdybychom mìli pøístup ke starodávnım plánùm..." -Dr. Wong}
-{209}{}{Zpìt.}
-{210}{}{(Po pøelouskání úvodu a matematiky zjišuješ, e se Shi opìt snaí zkoumat nukleární energii. Oivují tak teorii vesmírnıch letù našich pøedkù - a pøitom se vysmívají Hubologistùm - a vyuívají energii slunce, vìtru a moøe. Tohle je v tìch zápiskách opravdu napsáno.)}
-{211}{}{Zpìt.}
-{212}{}{Stanice aktivována.}
-{213}{}{Zpìt.}
-{214}{}{Poèítaèovı terminál pro tohle nemá rozhraní.}
-{215}{}{Poèítaèovı terminál vypadá, e není v provozu.}
-{216}{}{Systém byl napaden. Pøíkazy jsou zaútoèit!}
-{217}{}{Zaútoète na vetøelce!}
-{218}{}{Je èas zaplatit za své èiny, lao wai!}
-{219}{}{Mezi námi je zrádce!}
-{220}{}{Zemìpisná lokace.}
-{221}{}{Co si pøejete lokalizovat?}
-{222}{}{Vesnièany z mého domova.}
-{223}{}{Celkem 97% pravdìpodobnost - vesnièané lokalizováni na souøadnicích komplexu Enklávy.}
+{204}{}{ZpÄ›t.}
+{205}{}{"DÃ­ky nedÃ¡vnÃ©mu zÃ­skÃ¡nÃ­ plÃ¡nÅ¯ k vertibirdu se kvantovÃ½m skokem zvÃ½Å¡ila Å¡ance na sestrojenÃ­ praktickÃ©ho lÃ©tajÃ­cÃ­ho stroje. OÄekÃ¡vÃ¡me, Å¾e koncem roku budeme mÃ­t funkÄnÃ­ prototyp a do dvou let budeme moci zahÃ¡jit hromadnou vÃ½robu." -Dr. Wong}
+{206}{}{::zkopÃ­rovat plÃ¡ny:: ZpÄ›t.}
+{207}{}{ZpÄ›t.}
+{208}{}{"StÃ¡le pÅ™ipravujeme funkÄnÃ­ model vzduÅ¡nÃ©ho stroje. Å½Ã¡dnÃ½ z naÅ¡ich nÃ¡vrhÅ¯ se neosvÄ›dÄil jako bezpeÄnÃ½ nebo aerodynamickÃ½. MoÅ¾nÃ¡ kdybychom mÄ›li pÅ™Ã­stup ke starodÃ¡vnÃ½m plÃ¡nÅ¯m..." -Dr. Wong}
+{209}{}{ZpÄ›t.}
+{210}{}{(Po pÅ™elouskÃ¡nÃ­ Ãºvodu a matematiky zjiÅ¡Å¥ujeÅ¡, Å¾e se Shi opÄ›t snaÅ¾Ã­ zkoumat nukleÃ¡rnÃ­ energii. OÅ¾ivujÃ­ tak teorii vesmÃ­rnÃ½ch letÅ¯ naÅ¡ich pÅ™edkÅ¯ - a pÅ™itom se vysmÃ­vajÃ­ HubologistÅ¯m - a vyuÅ¾Ã­vajÃ­ energii slunce, vÄ›tru a moÅ™e. Tohle je v tÄ›ch zÃ¡piskÃ¡ch opravdu napsÃ¡no.)}
+{211}{}{ZpÄ›t.}
+{212}{}{Stanice aktivovÃ¡na.}
+{213}{}{ZpÄ›t.}
+{214}{}{PoÄÃ­taÄovÃ½ terminÃ¡l pro tohle nemÃ¡ rozhranÃ­.}
+{215}{}{PoÄÃ­taÄovÃ½ terminÃ¡l vypadÃ¡, Å¾e nenÃ­ v provozu.}
+{216}{}{SystÃ©m byl napaden. PÅ™Ã­kazy jsou zaÃºtoÄit!}
+{217}{}{ZaÃºtoÄte na vetÅ™elce!}
+{218}{}{Je Äas zaplatit za svÃ© Äiny, lao wai!}
+{219}{}{Mezi nÃ¡mi je zrÃ¡dce!}
+{220}{}{ZemÄ›pisnÃ¡ lokace.}
+{221}{}{Co si pÅ™ejete lokalizovat?}
+{222}{}{VesniÄany z mÃ©ho domova.}
+{223}{}{Celkem 97% pravdÄ›podobnost - vesniÄanÃ© lokalizovÃ¡ni na souÅ™adnicÃ­ch komplexu EnklÃ¡vy.}

@@ -1,20 +1,20 @@
-{100}{}{Vidíš malého veselého mue.}
-{101}{}{Vidíš Šastného Harryho, majitele obchodu.}
-{102}{}{Zdravíèko... co pro tebe mùu udìlat?}
-{103}{}{Chci obchodovat. Mùu vidìt, co nabízíš?}
-{104}{}{Ten pluh venku je poøád na prodej?}
-{105}{}{Já koupit.}
-{106}{}{Dnes nic, díky.}
-{107}{}{Promiò. Nemùu ti pomoct, sousede.}
-{108}{}{Ano, je. Mùu ti ho nechat za... øeknìme, osm set.}
-{109}{}{Dám ti za nìj šest set.}
+{100}{}{VidÃ­Å¡ malÃ©ho veselÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Å Å¥astnÃ©ho Harryho, majitele obchodu.}
+{102}{}{ZdravÃ­Äko... co pro tebe mÅ¯Å¾u udÄ›lat?}
+{103}{}{Chci obchodovat. MÅ¯Å¾u vidÄ›t, co nabÃ­zÃ­Å¡?}
+{104}{}{Ten pluh venku je poÅ™Ã¡d na prodej?}
+{105}{}{JÃ¡ koupit.}
+{106}{}{Dnes nic, dÃ­ky.}
+{107}{}{PromiÅˆ. NemÅ¯Å¾u ti pomoct, sousede.}
+{108}{}{Ano, je. MÅ¯Å¾u ti ho nechat za... Å™eknÄ›me, osm set.}
+{109}{}{DÃ¡m ti za nÄ›j Å¡est set.}
 {110}{}{Dohodnuto. To beru.}
-{111}{}{Eh, osm set? Vydr, vrátím se... s penìzi.}
-{112}{}{Zapomeò na to. Jen a si Smithovi hladoví.}
-{113}{}{Je tvùj. (Dá si do kapsy peníze.) Vezmeš si ho hned, nebo ho chceš nìkam dopravit?}
-{114}{}{Doprav ho ke Smithovım.}
-{115}{}{Promiò, pøíteli. Bude tì to stát osm set.}
-{119}{}{Na zaplacení potøebuješ peníze, pøíteli.}
-{120}{}{Vrátím se s penìzi.}
-{121}{}{ádnı problém. Hned ho tam nechám dopravit.}
-{122}{}{Chtìli jsme si pøilepšit, co? Zatracenej zlodìji... stráe! Stráe!}
+{111}{}{Eh, osm set? VydrÅ¾, vrÃ¡tÃ­m se... s penÄ›zi.}
+{112}{}{ZapomeÅˆ na to. Jen aÅ¥ si Smithovi hladovÃ­.}
+{113}{}{Je tvÅ¯j. (DÃ¡ si do kapsy penÃ­ze.) VezmeÅ¡ si ho hned, nebo ho chceÅ¡ nÄ›kam dopravit?}
+{114}{}{Doprav ho ke SmithovÃ½m.}
+{115}{}{PromiÅˆ, pÅ™Ã­teli. Bude tÄ› to stÃ¡t osm set.}
+{119}{}{Na zaplacenÃ­ potÅ™ebujeÅ¡ penÃ­ze, pÅ™Ã­teli.}
+{120}{}{VrÃ¡tÃ­m se s penÄ›zi.}
+{121}{}{Å½Ã¡dnÃ½ problÃ©m. Hned ho tam nechÃ¡m dopravit.}
+{122}{}{ChtÄ›li jsme si pÅ™ilepÅ¡it, co? Zatracenej zlodÄ›ji... strÃ¡Å¾e! StrÃ¡Å¾e!}

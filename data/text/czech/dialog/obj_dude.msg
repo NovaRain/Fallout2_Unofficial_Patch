@@ -1,9 +1,9 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Svrbí tì chodidla.}
-{120}{}{Na nohou se ti zaèínají tvoøit ošklivé puchıøe.}
-{130}{}{Boty ti zaèínají bıt tìsné. Ty puchıøe zaèínají bıt zanícené.}
-{140}{}{Zdá se, e se puchıø na kadé noze zmìnil v další prst. Ale aspoò, e to hrozné svìdìní pøestalo.}
-{141}{}{Mùj boe, to je Bess!}
-{150}{}{Získáváš }
-{151}{}{ zkušenostních bodù za nalezení GECKu.}
+{110}{}{SvrbÃ­ tÄ› chodidla.}
+{120}{}{Na nohou se ti zaÄÃ­najÃ­ tvoÅ™it oÅ¡klivÃ© puchÃ½Å™e.}
+{130}{}{Boty ti zaÄÃ­najÃ­ bÃ½t tÄ›snÃ©. Ty puchÃ½Å™e zaÄÃ­najÃ­ bÃ½t zanÃ­cenÃ©.}
+{140}{}{ZdÃ¡ se, Å¾e se puchÃ½Å™ na kaÅ¾dÃ© noze zmÄ›nil v dalÅ¡Ã­ prst. Ale aspoÅˆ, Å¾e to hroznÃ© svÄ›dÄ›nÃ­ pÅ™estalo.}
+{141}{}{MÅ¯j boÅ¾e, to je Bess!}
+{150}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{151}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za nalezenÃ­ GECKu.}

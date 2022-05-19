@@ -1,2 +1,2 @@
-{100}{}{Vidíš wanaminga.}
-{101}{}{Zdá se, e wanamingo není z neèekaného hosta pøíliš nadšen.}
+{100}{}{VidÃ­Å¡ wanaminga.}
+{101}{}{ZdÃ¡ se, Å¾e wanamingo nenÃ­ z neÄekanÃ©ho hosta pÅ™Ã­liÅ¡ nadÅ¡en.}

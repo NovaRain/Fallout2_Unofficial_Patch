@@ -1,52 +1,52 @@
-{100}{}{Vidíš špinavého, silnì vypadajícího mue.}
-{101}{}{Vidíš Connara.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho, silnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Connara.}
 {102}{}{Hey you! What are you doing!}
-{103}{}{Zùstaò, kde jsi, venkovane. Co tady pohledáváš?}
+{103}{}{ZÅ¯staÅˆ, kde jsi, venkovane. Co tady pohledÃ¡vÃ¡Å¡?}
 {104}{}{I'm killing off the monsters here.}
-{105}{}{Proè, co je ti po tom?}
-{106}{}{Proè ty øvát?}
+{105}{}{ProÄ, co je ti po tom?}
+{106}{}{ProÄ ty Å™vÃ¡t?}
 {107}{}{I bet those bastards at Vault City sent you. Well you best be off, and leave everything else
  alive.}
-{108}{}{No, na to u je trochu pozdì.}
+{108}{}{No, na to uÅ¾ je trochu pozdÄ›.}
 {109}{}{Jak to?}
-{110}{}{Promiò, ale je to moje práce.}
+{110}{}{PromiÅˆ, ale je to moje prÃ¡ce.}
 {111}{}{Those creatures are the only thing that are stopping Vault City from making us their so-called
  servants.}
 {112}{}{Well they're paying me to get rid of the monsters, and that's what I'm going to do.}
-{113}{}{To mi neøekli.}
-{114}{}{Zaplatili mi za jejich vyhubení a u je to hotové.}
-{115}{}{Ty idiote! Proè jsi to k èertu udìlal!}
-{116}{}{Potøebuju peníze.}
-{117}{}{Víš, jestli to udìláš, tak si pro nás pøijdou.}
-{118}{}{To není mùj problém.}
-{119}{}{V tom pøípadì doufám, e se nimi udusíš. Brzy si pro nás pøijdou.}
-{120}{}{Nevìdìl jsem, e to chtìli udìlat kvùli tomu.}
-{121}{}{Jo, stejnì nejednám s takovım póvlem, jako jsi ty.}
-{122}{}{To ti nemùeme dovolit.}
-{123}{}{Kdy musíš, tak musíš.}
-{124}{}{A ty jim to opravdu vìøíš? Máš se ještì co uèit, pøíteli.}
-{125}{}{Mùu nìjak pomoct?}
-{126}{}{Stráe Vault City nepatøí k nejstateènìjším. Staèí se jen zmínit o souboji a uteèou daleko za humny. Kdybychom mìli pár zbraní, mohli bychom se jim postavit.}
+{113}{}{To mi neÅ™ekli.}
+{114}{}{Zaplatili mi za jejich vyhubenÃ­ a uÅ¾ je to hotovÃ©.}
+{115}{}{Ty idiote! ProÄ jsi to k Äertu udÄ›lal!}
+{116}{}{PotÅ™ebuju penÃ­ze.}
+{117}{}{VÃ­Å¡, jestli to udÄ›lÃ¡Å¡, tak si pro nÃ¡s pÅ™ijdou.}
+{118}{}{To nenÃ­ mÅ¯j problÃ©m.}
+{119}{}{V tom pÅ™Ã­padÄ› doufÃ¡m, Å¾e se nimi udusÃ­Å¡. Brzy si pro nÃ¡s pÅ™ijdou.}
+{120}{}{NevÄ›dÄ›l jsem, Å¾e to chtÄ›li udÄ›lat kvÅ¯li tomu.}
+{121}{}{Jo, stejnÄ› nejednÃ¡m s takovÃ½m pÃ³vlem, jako jsi ty.}
+{122}{}{To ti nemÅ¯Å¾eme dovolit.}
+{123}{}{KdyÅ¾ musÃ­Å¡, tak musÃ­Å¡.}
+{124}{}{A ty jim to opravdu vÄ›Å™Ã­Å¡? MÃ¡Å¡ se jeÅ¡tÄ› co uÄit, pÅ™Ã­teli.}
+{125}{}{MÅ¯Å¾u nÄ›jak pomoct?}
+{126}{}{StrÃ¡Å¾e Vault City nepatÅ™Ã­ k nejstateÄnÄ›jÅ¡Ã­m. StaÄÃ­ se jen zmÃ­nit o souboji a uteÄou daleko za humny. Kdybychom mÄ›li pÃ¡r zbranÃ­, mohli bychom se jim postavit.}
 {127}{}{What sort of guns?}
 {128}{}{Well, I'm good with a shotgun, and we have some people in here that can handle a rifle. I think
  three of those would do.}
-{129}{}{Uvidím, co se dá dìlat.}
-{130}{}{Nechceme tì tu. Odejdi.}
-{131}{}{Myslím, e ne. S èím vám mùu pomoct?}
-{132}{}{Jo, stejnì tu u nebudeš moc dlouho.}
-{133}{}{Jako by mì to zajímalo.}
-{134}{}{Vítej zpátky! Máš pro nás ty zbranì?}
-{135}{}{Co e to vlastnì potøebujete?}
+{129}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{130}{}{Nechceme tÄ› tu. Odejdi.}
+{131}{}{MyslÃ­m, Å¾e ne. S ÄÃ­m vÃ¡m mÅ¯Å¾u pomoct?}
+{132}{}{Jo, stejnÄ› tu uÅ¾ nebudeÅ¡ moc dlouho.}
+{133}{}{Jako by mÄ› to zajÃ­malo.}
+{134}{}{VÃ­tej zpÃ¡tky! MÃ¡Å¡ pro nÃ¡s ty zbranÄ›?}
+{135}{}{Co Å¾e to vlastnÄ› potÅ™ebujete?}
 {136}{}{Jo, tady jsou.}
 {137}{}{We need three rifles and a shotgun. The sooner you can get them to us, the better.}
-{138}{}{Dobøe.}
+{138}{}{DobÅ™e.}
 {139}{}{With these, we'll be able to make something of this place over the next months. If you ever need
  a place to rest, you will always be welcome here.}
-{140}{}{Není zaè.}
+{140}{}{NenÃ­ zaÄ.}
 {141}{}{Welcome back. Things are going well. We're going to work on expanding the Village.}
-{142}{}{Zdravíèko! Jak vidíš, jde to docela dobøe. Klidnì se porozhlédni kolem, pokud máš èas.}
-{143}{}{Poøád ještì stavíme. Doufáme, e pøíští mìsíc opìt rozšíøíme zdi.}
+{142}{}{ZdravÃ­Äko! Jak vidÃ­Å¡, jde to docela dobÅ™e. KlidnÄ› se porozhlÃ©dni kolem, pokud mÃ¡Å¡ Äas.}
+{143}{}{PoÅ™Ã¡d jeÅ¡tÄ› stavÃ­me. DoufÃ¡me, Å¾e pÅ™Ã­Å¡tÃ­ mÄ›sÃ­c opÄ›t rozÅ¡Ã­Å™Ã­me zdi.}
 {144}{}{Greetings! The village has expanded again as we have hoped. You are welcome as always.}
 {145}{}{We have nothing to fear from Vault City any longer, and will be able to live here in peace.
  Thank you again, wanderer.}
-{146}{}{Ne e tam nìco zabiješ, hlupáku.}
+{146}{}{Ne Å¾e tam nÄ›co zabijeÅ¡, hlupÃ¡ku.}

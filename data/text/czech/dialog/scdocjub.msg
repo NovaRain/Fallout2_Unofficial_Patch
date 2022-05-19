@@ -1,77 +1,77 @@
-{100}{}{Vidíš starého, pøátelsky vypadajícího chlapíka.}
-{101}{}{Vidíš doktora Jubilee.}
-{102}{}{Je to starı mu s bílou bradkou a lehce prázdnım pohledem.}
-{103}{}{Jsem doktor Jubilee. Co se dìje, mladı mui?}
-{104}{}{Co se dìje, mladı mui?}
-{105}{}{Já zranìn.}
-{106}{}{Potøebuju doktora.}
-{107}{}{Nemùete si vzít nìjakı pilulky nebo nìco a pøestat mì otravovat s takovıma blbostma?}
-{108}{}{Ale prdlajz, vdy sotva krvácíte.}
-{109}{}{No nevím. Myslím, e tu nohu nedokáu zachránit. Moná ji budu muset amputovat.}
-{110}{}{To si dìláte srandu!}
+{100}{}{VidÃ­Å¡ starÃ©ho, pÅ™Ã¡telsky vypadajÃ­cÃ­ho chlapÃ­ka.}
+{101}{}{VidÃ­Å¡ doktora Jubilee.}
+{102}{}{Je to starÃ½ muÅ¾ s bÃ­lou bradkou a lehce prÃ¡zdnÃ½m pohledem.}
+{103}{}{Jsem doktor Jubilee. Co se dÄ›je, mladÃ½ muÅ¾i?}
+{104}{}{Co se dÄ›je, mladÃ½ muÅ¾i?}
+{105}{}{JÃ¡ zranÄ›n.}
+{106}{}{PotÅ™ebuju doktora.}
+{107}{}{NemÅ¯Å¾ete si vzÃ­t nÄ›jakÃ½ pilulky nebo nÄ›co a pÅ™estat mÄ› otravovat s takovÃ½ma blbostma?}
+{108}{}{Ale prdlajz, vÅ¾dyÅ¥ sotva krvÃ¡cÃ­te.}
+{109}{}{No nevÃ­m. MyslÃ­m, Å¾e tu nohu nedokÃ¡Å¾u zachrÃ¡nit. MoÅ¾nÃ¡ ji budu muset amputovat.}
+{110}{}{To si dÄ›lÃ¡te srandu!}
 {111}{}{Haha.}
 {112}{}{Tak a je to, synku.}
 {113}{}{Znova.}
-{114}{}{Díky, doktore. Moná byste mi mohl ještì zodpovìdìt pár otázek.}
+{114}{}{DÃ­ky, doktore. MoÅ¾nÃ¡ byste mi mohl jeÅ¡tÄ› zodpovÄ›dÄ›t pÃ¡r otÃ¡zek.}
 {115}{}{Sbohem.}
-{116}{}{Bude vás to stát $50.}
-{117}{}{Prostì mì uzdravte.}
-{118}{}{Mizím odsud.}
-{119}{}{Ty dìlat líp.}
-{120}{}{Já teï jít.}
-{121}{}{Ne. Nikdy neertuju. Radši tu nohu uøíznu døív, ne se do rány dostane snì.}
-{122}{}{V ádném pøípadì se nebude nic øezat, rozumíte?}
-{123}{}{Tak a dost, odcházím.}
-{124}{}{Dobrá, ale jestli to zaène hnisat, tak to na mì nesvádìjte.}
-{125}{}{Nedìlám to pro charitu. Budete muset sehnat nìjaké peníze, ne pro vás nìco udìlám.}
-{126}{}{Take, co pro vás mùu udìlat?}
+{116}{}{Bude vÃ¡s to stÃ¡t $50.}
+{117}{}{ProstÄ› mÄ› uzdravte.}
+{118}{}{MizÃ­m odsud.}
+{119}{}{Ty dÄ›lat lÃ­p.}
+{120}{}{JÃ¡ teÄ jÃ­t.}
+{121}{}{Ne. Nikdy neÅ¾ertuju. RadÅ¡i tu nohu uÅ™Ã­znu dÅ™Ã­v, neÅ¾ se do rÃ¡ny dostane snÄ›Å¥.}
+{122}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› se nebude nic Å™ezat, rozumÃ­te?}
+{123}{}{Tak a dost, odchÃ¡zÃ­m.}
+{124}{}{DobrÃ¡, ale jestli to zaÄne hnisat, tak to na mÄ› nesvÃ¡dÄ›jte.}
+{125}{}{NedÄ›lÃ¡m to pro charitu. Budete muset sehnat nÄ›jakÃ© penÃ­ze, neÅ¾ pro vÃ¡s nÄ›co udÄ›lÃ¡m.}
+{126}{}{TakÅ¾e, co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
 {127}{}{Mluvte.}
 {128}{}{Vault 13?}
-{129}{}{Nevíte, kde najdu Vault 13?}
-{130}{}{Prı na tom pan Westin není dobøe. Je to pravda? Bojím se, aby se mu nìco nestalo. Dluí mi peníze.}
-{131}{}{Slaneèek tvrdí, e jste mu ukradl mapu. O co jde?}
-{132}{}{Hledám práci. Nevíte o nìèem?}
-{133}{}{Doktore, nevíte nìco o skupinì, která bojuje s tìmi zlımi otrokáøi?}
-{134}{}{Nemusíte se obávat, synku. Pokud nebude svùj organismus pøetìovat, tak nás pravdìpodobnì všechny pøeije. Samozøejmì by mì ale musel nìkdy poslouchat nebo brát své léky.}
-{135}{}{To je dobrá zpráva. Chci se ještì na nìco zeptat.}
-{136}{}{Díky, doktore.}
-{137}{}{Ten starej opilec! Jediná vìc, kterou od nìj mám, je obraz s "Velvet Elvii", místo dluhu.}
-{138}{}{Velvet Elvii? Mùu ho vidìt?}
-{139}{}{Náhodou nevypadá jako mapa, e? No nic, zamìstnám váš mozek nìèím jinım.}
-{140}{}{No, u musím jít.}
-{141}{}{O tom jsem neslyšel od té doby, co sem pøinesli starıho Slaneèka. S úpalem. Leel v horeèkách tøi dny a celou dobu blouznil o tom, jak našel Vault 13, svoji mateøskou ílu.}
-{142}{}{Mateøskou ílu?}
-{143}{}{Take kde to je?}
+{129}{}{NevÃ­te, kde najdu Vault 13?}
+{130}{}{PrÃ½ na tom pan Westin nenÃ­ dobÅ™e. Je to pravda? BojÃ­m se, aby se mu nÄ›co nestalo. DluÅ¾Ã­ mi penÃ­ze.}
+{131}{}{SlaneÄek tvrdÃ­, Å¾e jste mu ukradl mapu. O co jde?}
+{132}{}{HledÃ¡m prÃ¡ci. NevÃ­te o nÄ›Äem?}
+{133}{}{Doktore, nevÃ­te nÄ›co o skupinÄ›, kterÃ¡ bojuje s tÄ›mi zlÃ½mi otrokÃ¡Å™i?}
+{134}{}{NemusÃ­te se obÃ¡vat, synku. Pokud nebude svÅ¯j organismus pÅ™etÄ›Å¾ovat, tak nÃ¡s pravdÄ›podobnÄ› vÅ¡echny pÅ™eÅ¾ije. SamozÅ™ejmÄ› by mÄ› ale musel nÄ›kdy poslouchat nebo brÃ¡t svÃ© lÃ©ky.}
+{135}{}{To je dobrÃ¡ zprÃ¡va. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{136}{}{DÃ­ky, doktore.}
+{137}{}{Ten starej opilec! JedinÃ¡ vÄ›c, kterou od nÄ›j mÃ¡m, je obraz s "Velvet Elvii", mÃ­sto dluhu.}
+{138}{}{Velvet Elvii? MÅ¯Å¾u ho vidÄ›t?}
+{139}{}{NÃ¡hodou nevypadÃ¡ jako mapa, Å¾e? No nic, zamÄ›stnÃ¡m vÃ¡Å¡ mozek nÄ›ÄÃ­m jinÃ½m.}
+{140}{}{No, uÅ¾ musÃ­m jÃ­t.}
+{141}{}{O tom jsem neslyÅ¡el od tÃ© doby, co sem pÅ™inesli starÃ½ho SlaneÄka. S Ãºpalem. LeÅ¾el v horeÄkÃ¡ch tÅ™i dny a celou dobu blouznil o tom, jak naÅ¡el Vault 13, svoji mateÅ™skou Å¾Ã­lu.}
+{142}{}{MateÅ™skou Å¾Ã­lu?}
+{143}{}{TakÅ¾e kde to je?}
 {144}{}{Kde vault?}
-{145}{}{To nedokáu øíct. Slaneèek poøád tvrdil, e má mapu, ale nikdo ji nikdy nevidìl.}
-{146}{}{Slaneèek?}
-{147}{}{Ptát se víc.}
-{148}{}{No, aspoò vím víc ne pøedtím.}
-{149}{}{A velikou. Slaneèek je starı hledaè uranu, pøesnìji øeèeno opilec. Momentálnì ije u Westina.}
-{150}{}{Další otázka...}
-{151}{}{Díky za pøíbìh.}
-{152}{}{No, doufal jsem, e za nìj dostanu nìjaké peníze. Nechám vám ho za $}
-{153}{}{Moná pozdìji, další otázka...}
-{154}{}{Moná pozdìji, teï musím jít.}
-{155}{}{Slaneèek je starı hledaè uranu. Momentálnì ije u Westina.}
-{156}{}{Další otázka...}
-{157}{}{Díky za pøíbìh.}
-{158}{}{Nejlepší bude, kdy si promluvíte s prezidentkou Tandi. Slyšel jsem, e hledá nìkoho speciálního.}
-{159}{}{Další otázka...}
-{160}{}{Díky.}
-{161}{}{Moná jo... existuje skupinka, která bojuje proti otrokáøství a, no, vìtšinì neøestí. Nìkdy jsou k vidìní u toho velkého obchodu jak pracují na nìjakém autì.}
-{162}{}{Další otázka...}
-{163}{}{Díky.}
-{164}{}{Hej, dej od toho pracky pryè, hajzle!}
-{165}{}{Opatrnì! I nepatrné mnoství je nebezpeèné.}
-{166}{}{Vrate to zpátky! Mùete si tím dost ublíit.}
-{167}{}{Ty léky jsou pro pana Westina, ne pro vás. Vrate je zpátky.}
-{168}{}{Jdìte od toho. Musím bıt opatrnı, víte. Nechci, aby pan Westin dostal špatné léky.}
-{169}{}{Dávejte pozor! Právì jsem odmìøil dávku pro pana Westina.}
-{170}{}{Jsem doktor Jubilee. Co se dìje, sleèno?}
-{171}{}{Co se dìje, sleèno?}
-{172}{}{Tak a je to, sleèno.}
-{173}{}{Nemusíte se bát, sleèno. Pokud nebude svùj organismus pøetìovat, tak nás pravdìpodobnì všechny pøeije. Samozøejmì by mì ale musel nìkdy poslouchat nebo brát své léky.}
-{174}{}{Jasnì. Tady je $}
-{175}{}{Díky, pokoušel jsem se dostat peníze ze Slaneèka, ale ten pobuda nikdy ádné nemìl.}
+{145}{}{To nedokÃ¡Å¾u Å™Ã­ct. SlaneÄek poÅ™Ã¡d tvrdil, Å¾e mÃ¡ mapu, ale nikdo ji nikdy nevidÄ›l.}
+{146}{}{SlaneÄek?}
+{147}{}{PtÃ¡t se vÃ­c.}
+{148}{}{No, aspoÅˆ vÃ­m vÃ­c neÅ¾ pÅ™edtÃ­m.}
+{149}{}{A velikou. SlaneÄek je starÃ½ hledaÄ uranu, pÅ™esnÄ›ji Å™eÄeno opilec. MomentÃ¡lnÄ› Å¾ije u Westina.}
+{150}{}{DalÅ¡Ã­ otÃ¡zka...}
+{151}{}{DÃ­ky za pÅ™Ã­bÄ›h.}
+{152}{}{No, doufal jsem, Å¾e za nÄ›j dostanu nÄ›jakÃ© penÃ­ze. NechÃ¡m vÃ¡m ho za $}
+{153}{}{MoÅ¾nÃ¡ pozdÄ›ji, dalÅ¡Ã­ otÃ¡zka...}
+{154}{}{MoÅ¾nÃ¡ pozdÄ›ji, teÄ musÃ­m jÃ­t.}
+{155}{}{SlaneÄek je starÃ½ hledaÄ uranu. MomentÃ¡lnÄ› Å¾ije u Westina.}
+{156}{}{DalÅ¡Ã­ otÃ¡zka...}
+{157}{}{DÃ­ky za pÅ™Ã­bÄ›h.}
+{158}{}{NejlepÅ¡Ã­ bude, kdyÅ¾ si promluvÃ­te s prezidentkou Tandi. SlyÅ¡el jsem, Å¾e hledÃ¡ nÄ›koho speciÃ¡lnÃ­ho.}
+{159}{}{DalÅ¡Ã­ otÃ¡zka...}
+{160}{}{DÃ­ky.}
+{161}{}{MoÅ¾nÃ¡ jo... existuje skupinka, kterÃ¡ bojuje proti otrokÃ¡Å™stvÃ­ a, no, vÄ›tÅ¡inÄ› neÅ™estÃ­. NÄ›kdy jsou k vidÄ›nÃ­ u toho velkÃ©ho obchodu jak pracujÃ­ na nÄ›jakÃ©m autÄ›.}
+{162}{}{DalÅ¡Ã­ otÃ¡zka...}
+{163}{}{DÃ­ky.}
+{164}{}{Hej, dej od toho pracky pryÄ, hajzle!}
+{165}{}{OpatrnÄ›! I nepatrnÃ© mnoÅ¾stvÃ­ je nebezpeÄnÃ©.}
+{166}{}{VraÅ¥te to zpÃ¡tky! MÅ¯Å¾ete si tÃ­m dost ublÃ­Å¾it.}
+{167}{}{Ty lÃ©ky jsou pro pana Westina, ne pro vÃ¡s. VraÅ¥te je zpÃ¡tky.}
+{168}{}{JdÄ›te od toho. MusÃ­m bÃ½t opatrnÃ½, vÃ­te. Nechci, aby pan Westin dostal Å¡patnÃ© lÃ©ky.}
+{169}{}{DÃ¡vejte pozor! PrÃ¡vÄ› jsem odmÄ›Å™il dÃ¡vku pro pana Westina.}
+{170}{}{Jsem doktor Jubilee. Co se dÄ›je, sleÄno?}
+{171}{}{Co se dÄ›je, sleÄno?}
+{172}{}{Tak a je to, sleÄno.}
+{173}{}{NemusÃ­te se bÃ¡t, sleÄno. Pokud nebude svÅ¯j organismus pÅ™etÄ›Å¾ovat, tak nÃ¡s pravdÄ›podobnÄ› vÅ¡echny pÅ™eÅ¾ije. SamozÅ™ejmÄ› by mÄ› ale musel nÄ›kdy poslouchat nebo brÃ¡t svÃ© lÃ©ky.}
+{174}{}{JasnÄ›. Tady je $}
+{175}{}{DÃ­ky, pokouÅ¡el jsem se dostat penÃ­ze ze SlaneÄka, ale ten pobuda nikdy Å¾Ã¡dnÃ© nemÄ›l.}
 {176}{}{.}

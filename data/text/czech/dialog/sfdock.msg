@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do pøístavní èásti San Francisca. Pøed sebou vidíš mohutnı ropnı tanker a v dáli je slyšet køik rackù létajících na obloze.}
+{100}{}{VstupujeÅ¡ do pÅ™Ã­stavnÃ­ ÄÃ¡sti San Francisca. PÅ™ed sebou vidÃ­Å¡ mohutnÃ½ ropnÃ½ tanker a v dÃ¡li je slyÅ¡et kÅ™ik rackÅ¯ lÃ©tajÃ­cÃ­ch na obloze.}

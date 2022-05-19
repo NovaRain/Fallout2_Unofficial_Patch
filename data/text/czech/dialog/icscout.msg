@@ -1,6 +1,6 @@
-{100}{}{Vidíš Stín-kterı-kráèí.}
-{150}{}{Vidíš svalnatého primitiva s èernımi jizvami na tváøi. Tiše tì pozoruje.}
-{151}{}{Vidíš Stín-kterı-kráèí. Na tváøi má spoustu rituálních tetování.}
-{200}{}{Tiše na tebe zírá.}
-{201}{}{Tiše tì pozoruje.}
-{300}{}{Pšššt... vovím kválíky.}
+{100}{}{VidÃ­Å¡ StÃ­n-kterÃ½-krÃ¡ÄÃ­.}
+{150}{}{VidÃ­Å¡ svalnatÃ©ho primitiva s ÄernÃ½mi jizvami na tvÃ¡Å™i. TiÅ¡e tÄ› pozoruje.}
+{151}{}{VidÃ­Å¡ StÃ­n-kterÃ½-krÃ¡ÄÃ­. Na tvÃ¡Å™i mÃ¡ spoustu rituÃ¡lnÃ­ch tetovÃ¡nÃ­.}
+{200}{}{TiÅ¡e na tebe zÃ­rÃ¡.}
+{201}{}{TiÅ¡e tÄ› pozoruje.}
+{300}{}{PÅ¡Å¡Å¡t... vovÃ­m kvÃ¡lÃ­ky.}

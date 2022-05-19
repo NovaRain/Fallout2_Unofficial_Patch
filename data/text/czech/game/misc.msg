@@ -1,126 +1,126 @@
-{0}{}{Opravdu chceš hru ukonèit?}
+{0}{}{Opravdu chceÅ¡ hru ukonÄit?}
 {1}{}{Demo verze}
-{2}{}{Bude pouit pøednastavenı charakter.}
-{3}{}{Screenshot byl uloen.}
-{4}{}{Hra byla úspìšnì naètena.}
-{5}{}{Hra byla úspìšnì uloena.}
-{6}{}{Èasovı limit demoverze vypršel.}
+{2}{}{Bude pouÅ¾it pÅ™ednastavenÃ½ charakter.}
+{3}{}{Screenshot byl uloÅ¾en.}
+{4}{}{Hra byla ÃºspÄ›Å¡nÄ› naÄtena.}
+{5}{}{Hra byla ÃºspÄ›Å¡nÄ› uloÅ¾ena.}
+{6}{}{ÄŒasovÃ½ limit demoverze vyprÅ¡el.}
 {7}{}{Pip-Boy not available in combat!}
-{8}{}{Chyba pøi ukládání screenshotu.}
-{9}{}{ÚVOD}
-{10}{}{NOVÁ HRA}
-{11}{}{NAÈÍST HRU}
+{8}{}{Chyba pÅ™i uklÃ¡dÃ¡nÃ­ screenshotu.}
+{9}{}{ÃšVOD}
+{10}{}{NOVÃ HRA}
+{11}{}{NAÄŒÃST HRU}
 {12}{}{VOLBY}
-{13}{}{AUTOØI}
+{13}{}{AUTOÅ˜I}
 {14}{}{KONEC}
-{15}{}{Akèní body}
+{15}{}{AkÄnÃ­ body}
 {16}{}{Hit body}
-{17}{}{Detektor pohybu není nainstalován.}
-{18}{}{Detektor pohybu je vybitı.}
+{17}{}{Detektor pohybu nenÃ­ nainstalovÃ¡n.}
+{18}{}{Detektor pohybu je vybitÃ½.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}
-{30}{}{Chceš hrát dál?}
-{50}{}{Ke spuštìní Falloutu potøebuješ CD!}
-{100}{}{Chyba pøi ukládání nastavení!}
-{101}{}{Nastavení hry nebylo uloeno.}
-{1000}{}{Zvedá se ti aludek.}
-{1001}{}{Zvedá se ti aludek a zaèínáš zvracet. Cítíš únavu.}
-{1002}{}{Cítíš velkou únavu, nepøestáváš zvracet a stále èastìji si potøebuješ odpoèinout.}
-{1003}{}{Silnì krvácíš. Je ti velmi špatnì a zaèaly ti vypadávat vlasy.}
-{1004}{}{Nepøetritì silnì krvácíš. Ve tvıch zvratcích se objevuje krev. Kùe se ti loupe po celém tìle.}
-{1005}{}{Trpíš vnitøním krvácením a silnım prùjmem. Oteklo ti celé tìlo a zmítáš se v tìké agónii.}
-{1006}{}{Umíráš v agónii na nemoc z ozáøení.}
-{1007}{}{Zasáhla tì silná dávka radiace.}
-{1008}{}{Geigerùv pøístroj pípá.}
-{1009}{}{Geigerùv pøístroj divoce pípá.}
-{2000}{}{Sem se nemùeš dostat.}
-{2001}{}{Zámek je zaseknutı.}
-{3000}{}{Dostáváš otravu!}
-{3001}{}{Jed ti zpùsobil zranìní.}
-{3002}{}{Cítíš se o trochu lépe.}
-{3003}{}{Cítíš se lépe.}
-{4000}{}{Kvùli tvému neodbornému zacházení vıbušnina pøedèasnì explodovala.}
-{5000}{}{pouívá:}
-{5001}{}{nemá náboje pro zbraò:}
-{5002}{}{nabíjí zbraò:}
+{30}{}{ChceÅ¡ hrÃ¡t dÃ¡l?}
+{50}{}{Ke spuÅ¡tÄ›nÃ­ Falloutu potÅ™ebujeÅ¡ CD!}
+{100}{}{Chyba pÅ™i uklÃ¡dÃ¡nÃ­ nastavenÃ­!}
+{101}{}{NastavenÃ­ hry nebylo uloÅ¾eno.}
+{1000}{}{ZvedÃ¡ se ti Å¾aludek.}
+{1001}{}{ZvedÃ¡ se ti Å¾aludek a zaÄÃ­nÃ¡Å¡ zvracet. CÃ­tÃ­Å¡ Ãºnavu.}
+{1002}{}{CÃ­tÃ­Å¡ velkou Ãºnavu, nepÅ™estÃ¡vÃ¡Å¡ zvracet a stÃ¡le ÄastÄ›ji si potÅ™ebujeÅ¡ odpoÄinout.}
+{1003}{}{SilnÄ› krvÃ¡cÃ­Å¡. Je ti velmi Å¡patnÄ› a zaÄaly ti vypadÃ¡vat vlasy.}
+{1004}{}{NepÅ™etrÅ¾itÄ› silnÄ› krvÃ¡cÃ­Å¡. Ve tvÃ½ch zvratcÃ­ch se objevuje krev. KÅ¯Å¾e se ti loupe po celÃ©m tÄ›le.}
+{1005}{}{TrpÃ­Å¡ vnitÅ™nÃ­m krvÃ¡cenÃ­m a silnÃ½m prÅ¯jmem. Oteklo ti celÃ© tÄ›lo a zmÃ­tÃ¡Å¡ se v tÄ›Å¾kÃ© agÃ³nii.}
+{1006}{}{UmÃ­rÃ¡Å¡ v agÃ³nii na nemoc z ozÃ¡Å™enÃ­.}
+{1007}{}{ZasÃ¡hla tÄ› silnÃ¡ dÃ¡vka radiace.}
+{1008}{}{GeigerÅ¯v pÅ™Ã­stroj pÃ­pÃ¡.}
+{1009}{}{GeigerÅ¯v pÅ™Ã­stroj divoce pÃ­pÃ¡.}
+{2000}{}{Sem se nemÅ¯Å¾eÅ¡ dostat.}
+{2001}{}{ZÃ¡mek je zaseknutÃ½.}
+{3000}{}{DostÃ¡vÃ¡Å¡ otravu!}
+{3001}{}{Jed ti zpÅ¯sobil zranÄ›nÃ­.}
+{3002}{}{CÃ­tÃ­Å¡ se o trochu lÃ©pe.}
+{3003}{}{CÃ­tÃ­Å¡ se lÃ©pe.}
+{4000}{}{KvÅ¯li tvÃ©mu neodbornÃ©mu zachÃ¡zenÃ­ vÃ½buÅ¡nina pÅ™edÄasnÄ› explodovala.}
+{5000}{}{pouÅ¾Ã­vÃ¡:}
+{5001}{}{nemÃ¡ nÃ¡boje pro zbraÅˆ:}
+{5002}{}{nabÃ­jÃ­ zbraÅˆ:}
 {6000}{}{Zeptat se na co?}
 {7000}{}{You aren't wearing the Pip-Boy!}
-{8000}{}{Neseš toho pøíliš mnoho.}
-{8001}{}{%s nese pøíliš mnoho.}
-{8500}{}{Získáváš %d zkušenostních bodù za úspìšné pouití schopnosti "Pøeití v pustinì".}
-{9000}{}{%s postupuje na vyšší úroveò.}
-{9010}{}{Páni. Z nièeho nic jsem ucítil velikı nával zkušeností.}
-{9011}{}{Další level, kotì! Další level!}
-{9012}{}{Cítím veliké narušení síly, jako by všechny mé dovednosti získaly procenta navíc.}
-{9013}{}{Cítím se odolnìjší. Silnìjší. Chytøejší.}
-{9020}{}{Páni! Cítím, e díky všem tìm novım zkušenostem vzrostla i moje síla!}
-{9021}{}{Aaach! Moje svaly... jsou najednou silnìjší... dovednosti... vzrostly... postoupil jsem na další úroveò...}
-{9022}{}{Chci diplom a tu legraèní ètverhrannou èepièku se støapcem, protoe jsem právì odpromoval!}
-{9023}{}{Hej, cítím se najednou nìjak silnìjší! Znamená to, e dostanu pøidáno?}
-{9030}{}{Všechno se mi to najednou znova vybavuje...}
-{9031}{}{Hehe. Vypadá to, e i takovej starej pes jako já se mùe nauèit pár novejm kouskùm.}
-{9032}{}{Zdá se, e se mi všechno to toulání vyplatilo.}
-{9033}{}{Nauèil jsem se pár novejch fíglù.}
-{9040}{}{Dìd nás uèit. My poslouchat.}
-{9041}{}{Duchové nás nauèit mnoho nového, pøítela.}
-{9042}{}{My se teï uèiti.}
-{9043}{}{Do Sulika teï vstoupit mocná duch.}
-{9044}{}{My se teï stát èástí našeho Dìdka Kostìja, pøítela.}
-{9045}{}{My teï bıt jako náš Dìdek Kostìj.}
-{9050}{}{Ach, mùj boe...já jsem se opravdu nìco nauèil.}
-{9051}{}{Tolik mrtvıch...ach, mùj boe, leí na mnì veliká vina.}
-{9052}{}{Nemùu uvìøit, e jsem dokázal pøeít tak dlouho.}
+{8000}{}{NeseÅ¡ toho pÅ™Ã­liÅ¡ mnoho.}
+{8001}{}{%s nese pÅ™Ã­liÅ¡ mnoho.}
+{8500}{}{ZÃ­skÃ¡vÃ¡Å¡ %d zkuÅ¡enostnÃ­ch bodÅ¯ za ÃºspÄ›Å¡nÃ© pouÅ¾itÃ­ schopnosti "PÅ™eÅ¾itÃ­ v pustinÄ›".}
+{9000}{}{%s postupuje na vyÅ¡Å¡Ã­ ÃºroveÅˆ.}
+{9010}{}{PÃ¡ni. Z niÄeho nic jsem ucÃ­til velikÃ½ nÃ¡val zkuÅ¡enostÃ­.}
+{9011}{}{DalÅ¡Ã­ level, kotÄ›! DalÅ¡Ã­ level!}
+{9012}{}{CÃ­tÃ­m velikÃ© naruÅ¡enÃ­ sÃ­ly, jako by vÅ¡echny mÃ© dovednosti zÃ­skaly procenta navÃ­c.}
+{9013}{}{CÃ­tÃ­m se odolnÄ›jÅ¡Ã­. SilnÄ›jÅ¡Ã­. ChytÅ™ejÅ¡Ã­.}
+{9020}{}{PÃ¡ni! CÃ­tÃ­m, Å¾e dÃ­ky vÅ¡em tÄ›m novÃ½m zkuÅ¡enostem vzrostla i moje sÃ­la!}
+{9021}{}{Aaach! Moje svaly... jsou najednou silnÄ›jÅ¡Ã­... dovednosti... vzrostly... postoupil jsem na dalÅ¡Ã­ ÃºroveÅˆ...}
+{9022}{}{Chci diplom a tu legraÄnÃ­ Ätverhrannou ÄepiÄku se stÅ™apcem, protoÅ¾e jsem prÃ¡vÄ› odpromoval!}
+{9023}{}{Hej, cÃ­tÃ­m se najednou nÄ›jak silnÄ›jÅ¡Ã­! ZnamenÃ¡ to, Å¾e dostanu pÅ™idÃ¡no?}
+{9030}{}{VÅ¡echno se mi to najednou znova vybavuje...}
+{9031}{}{Hehe. VypadÃ¡ to, Å¾e i takovej starej pes jako jÃ¡ se mÅ¯Å¾e nauÄit pÃ¡r novejm kouskÅ¯m.}
+{9032}{}{ZdÃ¡ se, Å¾e se mi vÅ¡echno to toulÃ¡nÃ­ vyplatilo.}
+{9033}{}{NauÄil jsem se pÃ¡r novejch fÃ­glÅ¯.}
+{9040}{}{DÄ›d nÃ¡s uÄit. My poslouchat.}
+{9041}{}{DuchovÃ© nÃ¡s nauÄit mnoho novÃ©ho, pÅ™Ã­tela.}
+{9042}{}{My se teÄ uÄiti.}
+{9043}{}{Do Sulika teÄ vstoupit mocnÃ¡ duch.}
+{9044}{}{My se teÄ stÃ¡t ÄÃ¡stÃ­ naÅ¡eho DÄ›dka KostÄ›ja, pÅ™Ã­tela.}
+{9045}{}{My teÄ bÃ½t jako nÃ¡Å¡ DÄ›dek KostÄ›j.}
+{9050}{}{Ach, mÅ¯j boÅ¾e...jÃ¡ jsem se opravdu nÄ›co nauÄil.}
+{9051}{}{Tolik mrtvÃ½ch...ach, mÅ¯j boÅ¾e, leÅ¾Ã­ na mnÄ› velikÃ¡ vina.}
+{9052}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsem dokÃ¡zal pÅ™eÅ¾Ã­t tak dlouho.}
 {9060}{}{Haf!}
 {9061}{}{Haf!}
 {9062}{}{Haf!}
 {9063}{}{Haf!}
 {9064}{}{HAF! HAF!}
-{9070}{}{Umím pár novıch vìcí!}
-{9071}{}{Umím pár novıch vìcí!}
-{9080}{}{Myslím, e jsem získal nové znalosti!}
-{9081}{}{Vìdomosti jsou dar.}
-{9082}{}{Zdá se, e se dobøe vyvíjím.}
-{9083}{}{Ve svıch znalostech u pøedèím dokonce i Gruthara.}
-{9084}{}{U jsem silnìjší ne vìtšina mé smeèky.}
-{9085}{}{Teï u jsem ve smeèce nejmocnìjší.}
-{9090}{}{Umím pár novıch vìcí!}
-{9091}{}{Umím pár novıch vìcí!}
-{9100}{}{Umím pár novıch vìcí!}
-{9101}{}{Umím pár novıch vìcí!}
-{9110}{}{Umím pár novıch vìcí!}
-{9111}{}{Umím pár novıch vìcí!}
-{9120}{}{ANALİZA DAT KOMPLETNÍ. PROVÁDÍM UPGRADE VŠECH SYSTÉMÙ.}
-{9121}{}{KOMPLETACE NOVİCH DAT UKONÈENA. VYLEPŠUJI ZAMÌØOVACÍ SYSTÉMY.}
-{9122}{}{MODERNIZACE SYSTÉMU DOKONÈENA.}
-{9123}{}{PROVÁDÍM PØEKALIBROVÁNÍ ZAMÌØOVACÍHO SYSTÉMU. PØESNOST ZÁSAHU ZVİŠENA O 20%.}
-{9124}{}{DOSAEN OPTIMÁLNÍ VİKON CELÉHO SYSTÉMU.}
-{9130}{}{Šéfe! Myslím, e tomu koneènì pøicházím na kloub.}
-{9131}{}{Já se opravdu zlepšuju! Øíkal jsem ti, e tì nezklamu, šéfe.}
-{9132}{}{Hej... poèkat... u jsem na to pøišel. Myslím, e musím jen líp míøit.}
-{9133}{}{Vidíš, šéfe? I starı pes se mùe nauèit novım kouskùm!}
-{9134}{}{Víš, co se stalo, šéfe? Myslím, e jsem se doopravdy nauèil nìco nového.}
-{9135}{}{Zaèínám v tom bıt docela dobrı. Já to øíkal, šéfe. Všechno dobré se postupem èasu zlepší.}
-{9140}{}{Umím pár novıch vìcí!}
-{9141}{}{Umím pár novıch vìcí!}
-{9150}{}{Umím pár novıch vìcí!}
-{9151}{}{Umím pár novıch vìcí!}
-{9160}{}{Umím pár novıch vìcí!}
-{9161}{}{Umím pár novıch vìcí!}
-{9170}{}{Umím pár novıch vìcí!}
-{9171}{}{Umím pár novıch vìcí!}
-{9180}{}{Umím pár novıch vìcí!}
-{9181}{}{Umím pár novıch vìcí!}
+{9070}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9071}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9080}{}{MyslÃ­m, Å¾e jsem zÃ­skal novÃ© znalosti!}
+{9081}{}{VÄ›domosti jsou dar.}
+{9082}{}{ZdÃ¡ se, Å¾e se dobÅ™e vyvÃ­jÃ­m.}
+{9083}{}{Ve svÃ½ch znalostech uÅ¾ pÅ™edÄÃ­m dokonce i Gruthara.}
+{9084}{}{UÅ¾ jsem silnÄ›jÅ¡Ã­ neÅ¾ vÄ›tÅ¡ina mÃ© smeÄky.}
+{9085}{}{TeÄ uÅ¾ jsem ve smeÄce nejmocnÄ›jÅ¡Ã­.}
+{9090}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9091}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9100}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9101}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9110}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9111}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9120}{}{ANALÃZA DAT KOMPLETNÃ. PROVÃDÃM UPGRADE VÅ ECH SYSTÃ‰MÅ®.}
+{9121}{}{KOMPLETACE NOVÃCH DAT UKONÄŒENA. VYLEPÅ UJI ZAMÄšÅ˜OVACÃ SYSTÃ‰MY.}
+{9122}{}{MODERNIZACE SYSTÃ‰MU DOKONÄŒENA.}
+{9123}{}{PROVÃDÃM PÅ˜EKALIBROVÃNÃ ZAMÄšÅ˜OVACÃHO SYSTÃ‰MU. PÅ˜ESNOST ZÃSAHU ZVÃÅ ENA O 20%.}
+{9124}{}{DOSAÅ½EN OPTIMÃLNÃ VÃKON CELÃ‰HO SYSTÃ‰MU.}
+{9130}{}{Å Ã©fe! MyslÃ­m, Å¾e tomu koneÄnÄ› pÅ™ichÃ¡zÃ­m na kloub.}
+{9131}{}{JÃ¡ se opravdu zlepÅ¡uju! Å˜Ã­kal jsem ti, Å¾e tÄ› nezklamu, Å¡Ã©fe.}
+{9132}{}{Hej... poÄkat... uÅ¾ jsem na to pÅ™iÅ¡el. MyslÃ­m, Å¾e musÃ­m jen lÃ­p mÃ­Å™it.}
+{9133}{}{VidÃ­Å¡, Å¡Ã©fe? I starÃ½ pes se mÅ¯Å¾e nauÄit novÃ½m kouskÅ¯m!}
+{9134}{}{VÃ­Å¡, co se stalo, Å¡Ã©fe? MyslÃ­m, Å¾e jsem se doopravdy nauÄil nÄ›co novÃ©ho.}
+{9135}{}{ZaÄÃ­nÃ¡m v tom bÃ½t docela dobrÃ½. JÃ¡ to Å™Ã­kal, Å¡Ã©fe. VÅ¡echno dobrÃ© se postupem Äasu zlepÅ¡Ã­.}
+{9140}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9141}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9150}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9151}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9160}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9161}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9170}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9171}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9180}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
+{9181}{}{UmÃ­m pÃ¡r novÃ½ch vÄ›cÃ­!}
 {9190}{}{Haf HAF!}
-{9191}{}{Òaf HAF VHÚÚÚ!}
-{9192}{}{Òaf HAF VHÚÚÚ!}
-{9193}{}{Òaf HAF VHÚÚÚ!}
-{9194}{}{Òaf HAF VHÚÚÚ!}
-{9195}{}{Òaf-Vhúú!}
+{9191}{}{Å‡af HAF VHÃšÃšÃš!}
+{9192}{}{Å‡af HAF VHÃšÃšÃš!}
+{9193}{}{Å‡af HAF VHÃšÃšÃš!}
+{9194}{}{Å‡af HAF VHÃšÃšÃš!}
+{9195}{}{Å‡af-VhÃºÃº!}
 {9200}{}{}
 {9210}{}{}
 {9220}{}{}
 {9230}{}{}
-{9240}{}{Inicializuji aktualizaci programu, pane... upgrade dokonèen.}
-{9241}{}{Upgraduji software, pane... verze 2.0 byla nainstalována.}
-{9242}{}{Provádím modifikace hardwaru, pane... všechny systémy jsou funkèní.}
-{9243}{}{Provádím modifikace hardwaru, pane... všechny systémy bìí v optimálním reimu!}
+{9240}{}{Inicializuji aktualizaci programu, pane... upgrade dokonÄen.}
+{9241}{}{Upgraduji software, pane... verze 2.0 byla nainstalovÃ¡na.}
+{9242}{}{ProvÃ¡dÃ­m modifikace hardwaru, pane... vÅ¡echny systÃ©my jsou funkÄnÃ­.}
+{9243}{}{ProvÃ¡dÃ­m modifikace hardwaru, pane... vÅ¡echny systÃ©my bÄ›Å¾Ã­ v optimÃ¡lnÃ­m reÅ¾imu!}
 {9250}{}{}

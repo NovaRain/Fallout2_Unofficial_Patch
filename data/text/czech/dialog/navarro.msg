@@ -1,1 +1,1 @@
-{100}{}{Nacházíš starou benzínovou pumpu.}
+{100}{}{NachÃ¡zÃ­Å¡ starou benzÃ­novou pumpu.}

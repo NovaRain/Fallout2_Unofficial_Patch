@@ -1,9 +1,9 @@
 {100}{}{You see a villager.}
 {101}{}{You see a villager.}
 {102}{}{Ahoj.}
-{103}{}{Hezk˝ den.}
-{104}{}{VÌtej v naöÌ vesnici.}
-{105}{}{Tyhle monstra n·s chr·nÌ.}
+{103}{}{Hezk√Ω den.}
+{104}{}{V√≠tej v na≈°√≠ vesnici.}
+{105}{}{Tyhle monstra n√°s chr√°n√≠.}
 {106}{}{Hurry back.}
 {107}{}{We'll need those guns soon.}
 {108}{}{Ahoj.}
@@ -11,5 +11,5 @@
 {110}{}{Go back to where you came from!}
 {111}{}{Vypadni sakra odsud!}
 {112}{}{We're safe now.}
-{113}{}{DÌky.}
+{113}{}{D√≠ky.}
 {114}{}{Bless you, wanderer.}

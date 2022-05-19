@@ -1,57 +1,57 @@
-{100}{}{Vidíš pocestného.}
-{101}{}{Stùj, bratøe pocestnı!}
-{102}{}{Potøebuju ukázat cestu. Pomùeš mi?}
-{103}{}{Kam máš namíøeno?}
-{104}{}{Co dìláš?}
+{100}{}{VidÃ­Å¡ pocestnÃ©ho.}
+{101}{}{StÅ¯j, bratÅ™e pocestnÃ½!}
+{102}{}{PotÅ™ebuju ukÃ¡zat cestu. PomÅ¯Å¾eÅ¡ mi?}
+{103}{}{Kam mÃ¡Å¡ namÃ­Å™eno?}
+{104}{}{Co dÄ›lÃ¡Å¡?}
 {105}{}{Eh.}
-{106}{}{No... nevím. Jsem tu docela nová a byla jsem jen na následujících místech.}
+{106}{}{No... nevÃ­m. Jsem tu docela novÃ¡ a byla jsem jen na nÃ¡sledujÃ­cÃ­ch mÃ­stech.}
 {107}{}{New Reno.}
 {108}{}{Vault City.}
 {109}{}{Redding.}
 {110}{}{The Den.}
 {111}{}{San Francisco.}
 {112}{}{New California Republic.}
-{113}{}{Nìjakı opuštìnı dùl.}
-{114}{}{Ne, tam u jsem byl. Kadopádnì díky.}
-{115}{}{New Reno... to je super místo. Sex, drogy a hazard. Co víc si èlovìk mùe pøát?
- Hned ti ukáu, kde to je.}
-{116}{}{Díky.}
-{117}{}{Vault City... to je mìsto hlupákù. Naroste ti extra prst a hned se na tebe dívají jako na nìjakou zrùdu.
- Nikdy jsem tam nebyla, ale vím, kde to je.}
-{118}{}{Díky.}
-{119}{}{Redding... moc toho o tomhle mìstì nevím. Snad jenom to, e je to staré hornické mìsto. Rozprostírá se na severu.
- Je to taková malá teèka uprostøed tìch nejkrutìjších hor, které jsi kdy vidìl.}
-{120}{}{Díky.}
-{121}{}{Bıt tebou, tak se drím dál od Denu. Je to magnet na všechen póvl v okolí. Ukáu ti,
- kde to je, ale nedoporuèuji ti tam chodit.}
-{122}{}{Díky.}
-{123}{}{San Francisco. Hm... jediné, co mùu øíct, je to, e lidé jsou tam... divní. Nachází se na
- pobøeí.}
-{124}{}{Díky.}
-{125}{}{New California Republic... tak to je hezké místo. Ráda bych se tam jednou usadila.
- Èistí, pøíjemní lidé a dobøe udrované místo. Na tvé mapì je to pøesnì tady.}
-{126}{}{Díky.}
-{127}{}{No, nedávno jsem narazila na osadu u opuštìného dolu. Myslela jsem, e tam tak den dva zùstanu,
- ale pak se objevili vlci a já usoudila, e bude lepší zmizet. Byla to smùla. Zdá se, e horníci odešli ve spìchu.
- Nechali tam po sobì hodnì vìcí. Nemám v úmyslu se tam vrátit,
- take ti mùu ukázat, kde to je.}
-{128}{}{Díky.}
-{129}{}{No... to je jedno. Jednoho dne jsem se rozhodla, e budu cestovat, a tak jsem tady.}
-{130}{}{Moná bys mi mohla pomoct. Potøebuju ukázat cestu.}
-{131}{}{Co dìláš?}
-{132}{}{Bylo fajn si s tebou povídat.}
-{133}{}{Sem tam dìlám pøíleitostnou práci. Ale vìtšinou jenom cestuju.}
-{134}{}{Moná bys mi mohla pomoct. Potøebuju ukázat cestu.}
-{135}{}{Kam máš namíøeno?}
-{136}{}{Bylo fajn si s tebou povídat.}
-{137}{}{Tak teï u opravdu budu muset jít. Bylo fajn si s tebou povídat.}
-{138}{}{Tøeba se ještì nìkdy potkáme.}
-{139}{}{Chci se dostat do nejblišího mìsta ještì pøed setmìním. Radìji vyrazím.}
+{113}{}{NÄ›jakÃ½ opuÅ¡tÄ›nÃ½ dÅ¯l.}
+{114}{}{Ne, tam uÅ¾ jsem byl. KaÅ¾dopÃ¡dnÄ› dÃ­ky.}
+{115}{}{New Reno... to je super mÃ­sto. Sex, drogy a hazard. Co vÃ­c si ÄlovÄ›k mÅ¯Å¾e pÅ™Ã¡t?
+ Hned ti ukÃ¡Å¾u, kde to je.}
+{116}{}{DÃ­ky.}
+{117}{}{Vault City... to je mÄ›sto hlupÃ¡kÅ¯. Naroste ti extra prst a hned se na tebe dÃ­vajÃ­ jako na nÄ›jakou zrÅ¯du.
+ Nikdy jsem tam nebyla, ale vÃ­m, kde to je.}
+{118}{}{DÃ­ky.}
+{119}{}{Redding... moc toho o tomhle mÄ›stÄ› nevÃ­m. Snad jenom to, Å¾e je to starÃ© hornickÃ© mÄ›sto. RozprostÃ­rÃ¡ se na severu.
+ Je to takovÃ¡ malÃ¡ teÄka uprostÅ™ed tÄ›ch nejkrutÄ›jÅ¡Ã­ch hor, kterÃ© jsi kdy vidÄ›l.}
+{120}{}{DÃ­ky.}
+{121}{}{BÃ½t tebou, tak se drÅ¾Ã­m dÃ¡l od Denu. Je to magnet na vÅ¡echen pÃ³vl v okolÃ­. UkÃ¡Å¾u ti,
+ kde to je, ale nedoporuÄuji ti tam chodit.}
+{122}{}{DÃ­ky.}
+{123}{}{San Francisco. Hm... jedinÃ©, co mÅ¯Å¾u Å™Ã­ct, je to, Å¾e lidÃ© jsou tam... divnÃ­. NachÃ¡zÃ­ se na
+ pobÅ™eÅ¾Ã­.}
+{124}{}{DÃ­ky.}
+{125}{}{New California Republic... tak to je hezkÃ© mÃ­sto. RÃ¡da bych se tam jednou usadila.
+ ÄŒistÃ­, pÅ™Ã­jemnÃ­ lidÃ© a dobÅ™e udrÅ¾ovanÃ© mÃ­sto. Na tvÃ© mapÄ› je to pÅ™esnÄ› tady.}
+{126}{}{DÃ­ky.}
+{127}{}{No, nedÃ¡vno jsem narazila na osadu u opuÅ¡tÄ›nÃ©ho dolu. Myslela jsem, Å¾e tam tak den dva zÅ¯stanu,
+ ale pak se objevili vlci a jÃ¡ usoudila, Å¾e bude lepÅ¡Ã­ zmizet. Byla to smÅ¯la. ZdÃ¡ se, Å¾e hornÃ­ci odeÅ¡li ve spÄ›chu.
+ Nechali tam po sobÄ› hodnÄ› vÄ›cÃ­. NemÃ¡m v Ãºmyslu se tam vrÃ¡tit,
+ takÅ¾e ti mÅ¯Å¾u ukÃ¡zat, kde to je.}
+{128}{}{DÃ­ky.}
+{129}{}{No... to je jedno. Jednoho dne jsem se rozhodla, Å¾e budu cestovat, a tak jsem tady.}
+{130}{}{MoÅ¾nÃ¡ bys mi mohla pomoct. PotÅ™ebuju ukÃ¡zat cestu.}
+{131}{}{Co dÄ›lÃ¡Å¡?}
+{132}{}{Bylo fajn si s tebou povÃ­dat.}
+{133}{}{Sem tam dÄ›lÃ¡m pÅ™Ã­leÅ¾itostnou prÃ¡ci. Ale vÄ›tÅ¡inou jenom cestuju.}
+{134}{}{MoÅ¾nÃ¡ bys mi mohla pomoct. PotÅ™ebuju ukÃ¡zat cestu.}
+{135}{}{Kam mÃ¡Å¡ namÃ­Å™eno?}
+{136}{}{Bylo fajn si s tebou povÃ­dat.}
+{137}{}{Tak teÄ uÅ¾ opravdu budu muset jÃ­t. Bylo fajn si s tebou povÃ­dat.}
+{138}{}{TÅ™eba se jeÅ¡tÄ› nÄ›kdy potkÃ¡me.}
+{139}{}{Chci se dostat do nejbliÅ¾Å¡Ã­ho mÄ›sta jeÅ¡tÄ› pÅ™ed setmÄ›nÃ­m. RadÄ›ji vyrazÃ­m.}
 {140}{}{I'd be going.}
-{141}{}{Pøepadení!}
-{142}{}{Dneska u nemùeš vìøit nikomu.}
-{143}{}{Porušil jsi nepsanı zákon pocestného.}
-{144}{}{Je èas jít.}
-{145}{}{U jsem tady déle ne je zdrávo.}
-{146}{}{Musím vyrazit.}
-{150}{}{Díky. Potøebuju nasmìrovat na nìjaká další místa.}
+{141}{}{PÅ™epadenÃ­!}
+{142}{}{Dneska uÅ¾ nemÅ¯Å¾eÅ¡ vÄ›Å™it nikomu.}
+{143}{}{PoruÅ¡il jsi nepsanÃ½ zÃ¡kon pocestnÃ©ho.}
+{144}{}{Je Äas jÃ­t.}
+{145}{}{UÅ¾ jsem tady dÃ©le neÅ¾ je zdrÃ¡vo.}
+{146}{}{MusÃ­m vyrazit.}
+{150}{}{DÃ­ky. PotÅ™ebuju nasmÄ›rovat na nÄ›jakÃ¡ dalÅ¡Ã­ mÃ­sta.}

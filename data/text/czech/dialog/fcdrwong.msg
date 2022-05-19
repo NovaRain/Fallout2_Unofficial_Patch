@@ -1,67 +1,67 @@
-{100}{}{Vidíš malého tlustého Shi mue.}
-{101}{}{Vidíš Dr. Wong Yi Tze.}
-{102}{}{Vidíš malého tlustého Shi mue.}
-{103}{}{Mohu vám s nìèím pomoci?}
+{100}{}{VidÃ­Å¡ malÃ©ho tlustÃ©ho Shi muÅ¾e.}
+{101}{}{VidÃ­Å¡ Dr. Wong Yi Tze.}
+{102}{}{VidÃ­Å¡ malÃ©ho tlustÃ©ho Shi muÅ¾e.}
+{103}{}{Mohu vÃ¡m s nÄ›ÄÃ­m pomoci?}
 {104}{}{Daghi nu?}
 {105}{}{Kdo ty?}
-{106}{}{Prı máte nìèí slezinu.}
+{106}{}{PrÃ½ mÃ¡te nÄ›ÄÃ­ slezinu.}
 {107}{}{Kdo jsi?}
-{108}{}{Co tady dìláš?}
-{109}{}{Ne, díky. To bude všechno.}
-{110}{}{Musím se pøiznat, e nehovoøím vaší øeèí. Zkuste si pohovoøit s Kenem Lee, ten rozumí mnoha rùznım jazykùm.}
+{108}{}{Co tady dÄ›lÃ¡Å¡?}
+{109}{}{Ne, dÃ­ky. To bude vÅ¡echno.}
+{110}{}{MusÃ­m se pÅ™iznat, Å¾e nehovoÅ™Ã­m vaÅ¡Ã­ Å™eÄÃ­. Zkuste si pohovoÅ™it s Kenem Lee, ten rozumÃ­ mnoha rÅ¯znÃ½m jazykÅ¯m.}
 {111}{}{Aha!}
-{112}{}{Jmenuji se Dr. Wong a jsem hlavní vìdec tohoto zaøízení.}
-{113}{}{Další otázky, prosím.}
-{114}{}{Dík. Naskle.}
-{115}{}{Dohlíím na vìdecké pokusy, jen se zde provádìjí. Jsem také zodpovìdnı za poèítaèovou sí.}
-{116}{}{Co plánujete?}
-{117}{}{Jak získám pøístup do poèítaèové sítì?}
-{118}{}{Mám další otázky.}
+{112}{}{Jmenuji se Dr. Wong a jsem hlavnÃ­ vÄ›dec tohoto zaÅ™Ã­zenÃ­.}
+{113}{}{DalÅ¡Ã­ otÃ¡zky, prosÃ­m.}
+{114}{}{DÃ­k. Naskle.}
+{115}{}{DohlÃ­Å¾Ã­m na vÄ›deckÃ© pokusy, jenÅ¾ se zde provÃ¡dÄ›jÃ­. Jsem takÃ© zodpovÄ›dnÃ½ za poÄÃ­taÄovou sÃ­Å¥.}
+{116}{}{Co plÃ¡nujete?}
+{117}{}{Jak zÃ­skÃ¡m pÅ™Ã­stup do poÄÃ­taÄovÃ© sÃ­tÄ›?}
+{118}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {119}{}{Aha. Nashle.}
-{120}{}{Hm, kdy vám øeknu naše plány, tak je poté bude znát kadı. Obávám se, e jsou prozatím tajné.}
-{121}{}{Dobøe, dobøe. Mám další otázky.}
-{122}{}{Dík. Naskle.}
-{123}{}{A co kdy vám strèím pistoli pod rypák a pøinutím vás mi to øíct?}
-{124}{}{Hm, nìkdo se nauèí, jak se do ní hacknout a nìkdo se spøátelí s jedním z mıch podøízenıch. O tom hackování samozøejmì ertuji. Pokud se o to pokusíte, pošlu nìkoho, aby vás zabil. (Usmìje se, aby dokázal, e to nemyslí vánì.)}
-{125}{}{Vy byste mì opravdu nechal zabít?}
-{126}{}{Take vám nebude vadit, kdy hacknu nìjakı poèítaè?}
-{127}{}{Mám ještì nìjaké otázky.}
+{120}{}{Hm, kdyÅ¾ vÃ¡m Å™eknu naÅ¡e plÃ¡ny, tak je potÃ© bude znÃ¡t kaÅ¾dÃ½. ObÃ¡vÃ¡m se, Å¾e jsou prozatÃ­m tajnÃ©.}
+{121}{}{DobÅ™e, dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{122}{}{DÃ­k. Naskle.}
+{123}{}{A co kdyÅ¾ vÃ¡m strÄÃ­m pistoli pod rypÃ¡k a pÅ™inutÃ­m vÃ¡s mi to Å™Ã­ct?}
+{124}{}{Hm, nÄ›kdo se nauÄÃ­, jak se do nÃ­ hacknout a nÄ›kdo se spÅ™Ã¡telÃ­ s jednÃ­m z mÃ½ch podÅ™Ã­zenÃ½ch. O tom hackovÃ¡nÃ­ samozÅ™ejmÄ› Å¾ertuji. Pokud se o to pokusÃ­te, poÅ¡lu nÄ›koho, aby vÃ¡s zabil. (UsmÄ›je se, aby dokÃ¡zal, Å¾e to nemyslÃ­ vÃ¡Å¾nÄ›.)}
+{125}{}{Vy byste mÄ› opravdu nechal zabÃ­t?}
+{126}{}{TakÅ¾e vÃ¡m nebude vadit, kdyÅ¾ hacknu nÄ›jakÃ½ poÄÃ­taÄ?}
+{127}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
 {128}{}{O tom nepochybuju. Nashle.}
-{129}{}{Pak bych to musel pokládat za hrozbu a varovat vás, e by taková èinnost mohla uškodit vašemu zdraví.}
-{130}{}{Tak to vyzkoušíme.}
-{131}{}{Jenom si dìlám legraci. Mám další otázky.}
-{132}{}{(Usmìje se.) Musíme si chránit vlastní èest, cizinèe.}
-{133}{}{Eh, jasnì. Take vám nebude vadit, kdy hacknu nìjakı poèítaè?}
-{134}{}{Jasnì. Mám další otázky.}
-{135}{}{Tak to kadopádnì. Nashle.}
-{136}{}{Pokud se vám podaøí pøesvìdèit mé podøízené, aby to pro vás udìlali, tak klidnì, ale já to rozhodnì neudìlám.}
-{137}{}{A co kdy vám strèím pistoli pod rypák?}
-{138}{}{Skvìlé. No, mám další otázky.}
-{139}{}{Hmm. Chápu. No, tak zatím.}
-{140}{}{Ach, ano! To vskutku mám. Chci si ji pøipravit s hráškem a dobrım Chianti.}
-{141}{}{Vy ji poøád máte? To je dobøe. Chip ji potøebuje vrátit.}
-{142}{}{To je lidská slezina, ty prašivej parchante!}
-{143}{}{Víte doufám, e se to víno má podávat s játry místo sleziny?}
-{144}{}{Víte, to je lidská slezina.}
-{145}{}{Kdo je ten Chip? Teï je to moje slezina a budu ji mít k veèeøi.}
-{146}{}{Chip je pùvodní vlastník sleziny. Byl opilı a prodal ji Lao Chouovi.}
-{147}{}{Potøebuje ji, aby pøeil, víte. Je z jeho tìla.}
-{148}{}{V tom pøípadì vás kvùli ní nejspíš zabiju.}
-{149}{}{Dohoda je dohoda. Nemùe ji dostat zpìt. Lituji, ale dohodli jsme se spolu a to, e toho teï Chip lituje, ještì neznamená, e mùe z té dohody couvnout.}
-{150}{}{[Více]}
-{151}{}{To je lidská slezina? To mi Lao Chou neøekl!}
-{152}{}{Hmm, v tom pøípadì na ní budu místo toho provádìt pokusy.}
-{153}{}{Øeknìte vašemu kamarádovi, aby se pro ni bìhem zítøka stavil a já mu ji rád vrátím zpìt. Jenom doufám, e najdete zpùsob, jak mu ji voperovat vèas zpátky.}
-{154}{}{Tak dobrá.}
-{155}{}{Hehe! Ano, také jsem ten starı film vidìl. Poèkat... co tím myslíte? Chcete øíct, e... ?}
-{156}{}{Ano, je to lidská slezina.}
-{157}{}{Vlastnì mám vùèi tomu námitky. Nepodaøilo se vám dokázat, e máte dobrı charakter. Vskutku nevím, proè se s vámi vùbec bavím. Nashle.}
+{129}{}{Pak bych to musel poklÃ¡dat za hrozbu a varovat vÃ¡s, Å¾e by takovÃ¡ Äinnost mohla uÅ¡kodit vaÅ¡emu zdravÃ­.}
+{130}{}{Tak to vyzkouÅ¡Ã­me.}
+{131}{}{Jenom si dÄ›lÃ¡m legraci. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{132}{}{(UsmÄ›je se.) MusÃ­me si chrÃ¡nit vlastnÃ­ Äest, cizinÄe.}
+{133}{}{Eh, jasnÄ›. TakÅ¾e vÃ¡m nebude vadit, kdyÅ¾ hacknu nÄ›jakÃ½ poÄÃ­taÄ?}
+{134}{}{JasnÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{135}{}{Tak to kaÅ¾dopÃ¡dnÄ›. Nashle.}
+{136}{}{Pokud se vÃ¡m podaÅ™Ã­ pÅ™esvÄ›dÄit mÃ© podÅ™Ã­zenÃ©, aby to pro vÃ¡s udÄ›lali, tak klidnÄ›, ale jÃ¡ to rozhodnÄ› neudÄ›lÃ¡m.}
+{137}{}{A co kdyÅ¾ vÃ¡m strÄÃ­m pistoli pod rypÃ¡k?}
+{138}{}{SkvÄ›lÃ©. No, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{139}{}{Hmm. ChÃ¡pu. No, tak zatÃ­m.}
+{140}{}{Ach, ano! To vskutku mÃ¡m. Chci si ji pÅ™ipravit s hrÃ¡Å¡kem a dobrÃ½m Chianti.}
+{141}{}{Vy ji poÅ™Ã¡d mÃ¡te? To je dobÅ™e. Chip ji potÅ™ebuje vrÃ¡tit.}
+{142}{}{To je lidskÃ¡ slezina, ty praÅ¡ivej parchante!}
+{143}{}{VÃ­te doufÃ¡m, Å¾e se to vÃ­no mÃ¡ podÃ¡vat s jÃ¡try mÃ­sto sleziny?}
+{144}{}{VÃ­te, to je lidskÃ¡ slezina.}
+{145}{}{Kdo je ten Chip? TeÄ je to moje slezina a budu ji mÃ­t k veÄeÅ™i.}
+{146}{}{Chip je pÅ¯vodnÃ­ vlastnÃ­k sleziny. Byl opilÃ½ a prodal ji Lao Chouovi.}
+{147}{}{PotÅ™ebuje ji, aby pÅ™eÅ¾il, vÃ­te. Je z jeho tÄ›la.}
+{148}{}{V tom pÅ™Ã­padÄ› vÃ¡s kvÅ¯li nÃ­ nejspÃ­Å¡ zabiju.}
+{149}{}{Dohoda je dohoda. NemÅ¯Å¾e ji dostat zpÄ›t. Lituji, ale dohodli jsme se spolu a to, Å¾e toho teÄ Chip lituje, jeÅ¡tÄ› neznamenÃ¡, Å¾e mÅ¯Å¾e z tÃ© dohody couvnout.}
+{150}{}{[VÃ­ce]}
+{151}{}{To je lidskÃ¡ slezina? To mi Lao Chou neÅ™ekl!}
+{152}{}{Hmm, v tom pÅ™Ã­padÄ› na nÃ­ budu mÃ­sto toho provÃ¡dÄ›t pokusy.}
+{153}{}{Å˜eknÄ›te vaÅ¡emu kamarÃ¡dovi, aby se pro ni bÄ›hem zÃ­tÅ™ka stavil a jÃ¡ mu ji rÃ¡d vrÃ¡tÃ­m zpÄ›t. Jenom doufÃ¡m, Å¾e najdete zpÅ¯sob, jak mu ji voperovat vÄas zpÃ¡tky.}
+{154}{}{Tak dobrÃ¡.}
+{155}{}{Hehe! Ano, takÃ© jsem ten starÃ½ film vidÄ›l. PoÄkat... co tÃ­m myslÃ­te? Chcete Å™Ã­ct, Å¾e... ?}
+{156}{}{Ano, je to lidskÃ¡ slezina.}
+{157}{}{VlastnÄ› mÃ¡m vÅ¯Äi tomu nÃ¡mitky. NepodaÅ™ilo se vÃ¡m dokÃ¡zat, Å¾e mÃ¡te dobrÃ½ charakter. Vskutku nevÃ­m, proÄ se s vÃ¡mi vÅ¯bec bavÃ­m. Nashle.}
 {158}{}{[KONEC]}
-{159}{}{Ajéje! Stráe! Je tady Lao wai vetøelec!}
-{160}{}{Nemáte pro mì jistá schémata?}
-{161}{}{Ken Lee mi øekl, a vám je pøedám.}
+{159}{}{AjÃ©je! StrÃ¡Å¾e! Je tady Lao wai vetÅ™elec!}
+{160}{}{NemÃ¡te pro mÄ› jistÃ¡ schÃ©mata?}
+{161}{}{Ken Lee mi Å™ekl, aÅ¥ vÃ¡m je pÅ™edÃ¡m.}
 {162}{}{Ano, ale co za to dostanu?}
-{163}{}{Ne, ještì ne.}
-{164}{}{Promluvte si s Kenem Lee a on projedná vaši budoucnost. Dìkuji vám. Díky tìmto schématùm si budeme moci ovìøit nìkterá naše data z testù. Pøeji hezkı den.}
-{165}{}{Vlastnì mám na vás další otázky.}
-{166}{}{Zatím.}
+{163}{}{Ne, jeÅ¡tÄ› ne.}
+{164}{}{Promluvte si s Kenem Lee a on projednÃ¡ vaÅ¡i budoucnost. DÄ›kuji vÃ¡m. DÃ­ky tÄ›mto schÃ©matÅ¯m si budeme moci ovÄ›Å™it nÄ›kterÃ¡ naÅ¡e data z testÅ¯. PÅ™eji hezkÃ½ den.}
+{165}{}{VlastnÄ› mÃ¡m na vÃ¡s dalÅ¡Ã­ otÃ¡zky.}
+{166}{}{ZatÃ­m.}
