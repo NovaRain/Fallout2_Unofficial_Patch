@@ -278,7 +278,7 @@ procedure Node002 begin
       Only_Once := 1;
    end
 
-   Reply(100);
+   Reply(106);
    NOption(1107 + one, checkChoiceOne, 4);
    NOption(1107 + two, checkChoiceTwo, 4);
    NOption(115, Node999, 4);
