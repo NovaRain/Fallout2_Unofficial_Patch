@@ -73,7 +73,7 @@ end
 procedure start begin
   if game_loaded then begin
     enabled := upu_msetting(set_walking_speed);
-    if enabled then begin
+    if enabled != 0 then begin
       variable fs_override := check_filesystem_override;
       if fs_override then begin
         variable frm, frms, file, path, cur_frames_per_dir;
