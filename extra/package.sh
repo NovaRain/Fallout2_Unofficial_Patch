@@ -38,6 +38,9 @@ fi
 # translations packaged first, to get extra text out of the way
 "$extra_dir"/package/translations.sh
 
+# alternative animations
+"$extra_dir"/package/animation_fixes.sh
+
 # data
 dat="$mod_name.dat"
 mkdir -p "$mods_dir"
