@@ -34,9 +34,9 @@
 {132}{}{Programa genético.}
 {133}{}{Notas personales recientes.}
 {134}{}{Atrás.}
-{135}{}{Dr. Wong: nuevo jefe del proyecto biológico, junto con investigación en Física.
-Dr. Sheng: líder del proyecto biológico hasta hace dos meses. Un mes sabático con el nuevo "suero de sensibilidad botánica" tenido en cuenta; posterior ausencia sin resolver. Dr. Wong asume control del programa biológico.
-Dr. Long: Recientemente fallecido debido a suero VEF.}
+{135}{}{El Dr. Wong: Nuevo jefe de Biología del Proyecto, además de la Investigación de la Física.
+El Dr. Sheng: Biología Jefe de Proyecto hasta hace dos meses. Un mes sabático con la nueva botánica percepción de suero" tenidos en cuenta; además de la ausencia de un rompecabezas. El Dr. Wong asume el control de la Biología Programa.
+El Dr. Largo: Recientemente fallecido a través de la FEV suero.}
 {136}{}{Programa botánico.}
 {137}{}{Programa genético.}
 {138}{}{Programa Xeno.}
