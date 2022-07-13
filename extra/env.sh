@@ -13,4 +13,4 @@ export WINEARCH=win32
 export WINEDEBUG=-all
 export mod_name=upu
 export trans_dir="$(realpath translations)"
-export optional_dir"$(realpath optional)"
+export optional_dir="$(realpath optional)"
