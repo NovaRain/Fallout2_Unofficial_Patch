@@ -72,16 +72,16 @@ end
 
 procedure start begin
   if game_loaded then begin
-    enabled := upu_msetting(set_walking_speed);
+    enabled = upu_msetting(set_walking_speed);
     if enabled != 0 then begin
-      variable fs_override := check_filesystem_override;
+      variable fs_override = check_filesystem_override;
       if fs_override then begin
         variable frm, frms, file, path, cur_frames_per_dir;
         frms = get_slow_frms;
         ndebug("initializing");
         foreach frm in frms begin
-          path := "art\\critters\\" + frm + "b.frm";
-          file := fs_copy(path, path);
+          path = "art\\critters\\" + frm + "b.frm";
+          file = fs_copy(path, path);
           fs_seek(file, frame_count_offset);
           cur_frame_count = fs_read_short(file);
           if cur_frame_count > 8 then begin
