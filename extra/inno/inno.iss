@@ -52,7 +52,7 @@ Name: "walk_speed"; Description: "Walk speed fix"; Types: "custom";
 Name: "walk_speed\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
 Name: "walk_speed\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
 
-Name: "goris"; Description: "Goris faster derobing"; Types: "custom";
+Name: "goris"; Description: "Faster derobing for Goris"; Types: "custom";
 Name: "goris\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
 Name: "goris\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
 
