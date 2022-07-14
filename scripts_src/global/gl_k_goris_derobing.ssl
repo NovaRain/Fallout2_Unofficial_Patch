@@ -2,6 +2,9 @@
 #include "../headers/define.h"
 #include "../headers/upu.h"
 
+#define min_frame_count 25  // original marobeag.frm has 25 frames
+#define frame_count_offset 0x8
+
 procedure start;
 variable enabled;
 
@@ -19,13 +22,23 @@ procedure start begin
           "marobeag"
         ];
         ndebug("initialized");
+
         foreach frm in frms begin
+          variable cur_frame_count;
           path := "art\\critters\\" + frm + ".frm";
           file := fs_copy(path, path);
-          fs_seek(file, fps_offset);
-          fs_write_short(file, fps);
-          ndebug("set fps to " + fps + " in " + path);
+
+          fs_seek(file, frame_count_offset);
+          cur_frame_count = fs_read_short(file);
+          if cur_frame_count >= min_frame_count then begin
+            fs_seek(file, fps_offset);
+            fs_write_short(file, fps);
+            ndebug("set fps to " + fps + " in " + path);
+          end else begin
+            ndebug("low frame count detected in " + path + ", not boosting fps");
+          end
         end
+
       end
     end
   end
