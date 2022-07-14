@@ -10,14 +10,14 @@ variable enabled;
 
 procedure start begin
   if game_loaded then begin
-    enabled := upu_msetting(set_goris_derobing);
+    enabled = upu_msetting(set_goris_derobing);
     if enabled then begin
-      variable fs_override := check_filesystem_override;
+      variable fs_override = check_filesystem_override;
       if fs_override then begin
         variable frm, file, path;
-        variable fps_offset := 0x4;
-        variable fps := 0x32;
-        variable frms := [
+        variable fps_offset = 0x4;
+        variable fps = 0x32;
+        variable frms = [
           "madethag",
           "marobeag"
         ];
@@ -25,8 +25,8 @@ procedure start begin
 
         foreach frm in frms begin
           variable cur_frame_count;
-          path := "art\\critters\\" + frm + ".frm";
-          file := fs_copy(path, path);
+          path = "art\\critters\\" + frm + ".frm";
+          file = fs_copy(path, path);
 
           fs_seek(file, frame_count_offset);
           cur_frame_count = fs_read_short(file);
