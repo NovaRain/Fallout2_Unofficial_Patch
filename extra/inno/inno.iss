@@ -37,7 +37,7 @@ Source: "optional\goris_fast_derobing_low_fps.dat"; DestDir: "{#mods_dir}"; Comp
 #include "ini_qol.iss"
 #include "ini_debug.iss"
 #include "ini_sound.iss"
-FileName: "{app}\mods\upu.ini"; Section: "Main"; Key: "goris_quick_derobing"; String: "0"; Components: goris\skip;
+FileName: "{app}\mods\upu.ini"; Section: "Main"; Key: "goris_derobing_speed"; String: "0"; Components: goris\skip;
 
 [Dirs]
 Name: "{app}\{#backup_dir}"
