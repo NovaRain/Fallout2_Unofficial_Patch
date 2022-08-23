@@ -284,7 +284,7 @@ end
       rm_obj_from_inven(source_obj, crowbar);
       destroy_object(crowbar);
       if source_obj == dude_obj then display_msg(my_mstr(620));
-      else display_msg(obj_name(source_oj) + my_mstr(621));
+      else display_msg(obj_name(source_obj) + my_mstr(621));
     end
 
     // regular failure
