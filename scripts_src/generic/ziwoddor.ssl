@@ -1450,7 +1450,6 @@ procedure Pry_Door begin
   pry_success = roll_pry_success();
 
   if pry_success then begin
-    set_local_var(LVAR_Locked, STATE_INACTIVE);
     obj_unlock(self_obj);
     if (source_obj == dude_obj) then begin
       display_msg(mstr(176));
