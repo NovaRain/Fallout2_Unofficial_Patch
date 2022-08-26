@@ -270,7 +270,7 @@ procedure map_enter_p_proc begin
       Perform_Critter_Float := 0;
       set_self_team(TEAM_BROKEN_HILLS);
 
-      if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+      if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
          set_obj_visibility( self_obj, true );
       else begin
          set_obj_visibility( self_obj, false );
@@ -577,7 +577,7 @@ end
 procedure Node001a begin
    if ( ( (global_var(GVAR_BH_MINE) == MINE_FIXED_CASH) or (global_var(GVAR_BH_MINE) == MINE_FIXED_FREE) or (global_var(GVAR_BH_MINE) == MINE_REWARDED) ) and
         ( (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) or
-          (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS) or (global_var(GVAR_BH_FTM) == FTM_EXPOSED) ) and
+          (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS) ) and
          self_rep_positive and
         ( dude_has_free_slot_for_marcus ) ) then
       call Node030;
@@ -822,10 +822,6 @@ procedure Node023 begin
            ( global_var(GVAR_BH_JAIL) == JAIL_COINCIDENTAL ) ) ) then
       NOption(430,Node116,004);
 
-   // Scientist at NCR
-   if( global_var(GVAR_BH_FTM) == FTM_ENLISTED ) then
-      NOption(440,Node117,004);
-
    NOption(194,Node999,004);
 end
 
@@ -869,13 +865,6 @@ procedure Node026 begin
    inc_general_rep( REP_BONUS_CONSPIRACY_EXPOSED );
    Reply(201);
    NOption(202,Node999,004);
-end
-
-procedure Node027 begin
-   //inc_general_rep( REP_BONUS_FTM_EXPOSED );
-   set_global_var( GVAR_BH_FTM, FTM_EXPOSED );
-   Reply(203);
-   NOption(204,Node999,004);
 end
 
 procedure Node028 begin

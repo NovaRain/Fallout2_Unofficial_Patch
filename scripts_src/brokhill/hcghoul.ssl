@@ -151,22 +151,6 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
       call Node012;
    end
-/*
-   else if (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) then begin
-      call Node002;
-   end
-   else if (global_var(GVAR_BH_CHAD) == CHAD_KILLED) then begin
-      call Node003;
-   end
-
-   else if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then begin
-      call Node004;
-   end
-
-   else if (global_var(GVAR_BH_FTM) == FTM_EXPOSED) then begin
-      call Node005;
-   end
-*/
    else if (global_var(GVAR_BH_JAIL) == JAIL_FORCE) then begin
       call Node006;
    end

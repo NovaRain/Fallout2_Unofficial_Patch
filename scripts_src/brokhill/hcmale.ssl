@@ -58,10 +58,6 @@ procedure Node999;                                      // This Node is Always E
 //~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
 
 procedure Node001;
-procedure Node002;
-procedure Node003;
-procedure Node004;
-procedure Node005;
 procedure Node006;
 procedure Node007;
 procedure Node008;
@@ -244,22 +240,6 @@ end
 
 procedure Node001 begin
    floater(random(252,261));
-end
-
-procedure Node002 begin
-   // Chad removed
-end
-
-procedure Node003 begin
-   // Chad removed
-end
-
-procedure Node004 begin //FtM successful
-   // FTM removed
-end
-
-procedure Node005 begin
-   // FTM removed
 end
 
 procedure Node006 begin

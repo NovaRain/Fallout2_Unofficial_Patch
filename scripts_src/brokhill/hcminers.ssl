@@ -79,7 +79,6 @@ procedure Node014;
 procedure Node015;
 procedure Node016;
 procedure Node017;
-procedure Node018;
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -113,7 +112,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_BROKEN_HILLS);
    set_self_ai(AI_TOUGH_CITIZEN);
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
       set_obj_visibility( self_obj, true );
    else
       set_obj_visibility( self_obj, false );
@@ -134,7 +133,7 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then begin
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then begin
       if( self_visible ) then
          set_obj_visibility( self_obj, true );
    end
@@ -231,23 +230,6 @@ procedure talk_p_proc begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node017;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then begin
-       //mutant miners erased from map (should be in map script)
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node017;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (global_var(GVAR_BH_FTM) == FTM_EXPOSED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node018;
        gSay_End;
        end_dialogue;
    end
@@ -508,11 +490,3 @@ procedure Node017 begin
    NOption(142,Node05a,001);
    NOption(143,Node010,001);
 end
-
-procedure Node018 begin
-   Reply(144);
-   NOption(145,Node005,001);
-   NOption(146,Node05a,001);
-   NOption(147,Node010,001);
-end
-//xxxxxxxxxxxxxxxxxxxx

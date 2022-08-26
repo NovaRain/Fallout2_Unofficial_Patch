@@ -292,7 +292,7 @@
 // Broken Hills Information
 #define GVAR_BROKEN_HILLS_FRAUD              (147)
 #define GVAR_BH_CHAD                         (300)
-#define GVAR_BH_FTM                          (301)
+#define GVAR_BH_FTM                          (301) // Fight The Mutants? Cut quest.
 #define GVAR_BH_MINE                         (302)
 #define GVAR_BH_JAIL                         (303)
 #define GVAR_BH_CONSPIRACY                   (304)

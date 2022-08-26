@@ -69,7 +69,6 @@ procedure Node002;
 procedure Node003;
 procedure Node003a;
 procedure Node004;
-//procedure Node005;
 procedure Node006;
 procedure Node007;
 procedure Node007a;
@@ -81,17 +80,11 @@ procedure Node012;
 procedure Node013;
 procedure Node014;
 procedure Node015;
-//procedure Node016;
-//procedure Node017;
-//procedure Node018;
 procedure Node019;
-//procedure Node020;
-//procedure Node021;
 procedure Node022;
 procedure Node023;
 procedure Node024;
 procedure Node025;
-procedure Node026;
 procedure Node027;
 procedure Node028;
 procedure Node029;
@@ -230,13 +223,6 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   else if( ( local_var( LVAR_Caravan ) == NCR ) and ( get_day == 11 ) and ( global_var(GVAR_BH_FTM) == FTM_EXPOSED ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node026;
-       gSay_End;
-       end_dialogue;
-   end
    else if( ( local_var( LVAR_Caravan ) == NCR ) and ( get_day == 11 ) ) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -346,21 +332,15 @@ procedure Node003 begin
    else if( local_var( LVAR_Crap_Shoveled ) < 5 ) then begin
       if (dude_iq < 4) then
          Reply(114);
-      else begin
-         if( global_var(GVAR_BH_FTM) != FTM_EXPOSED ) then
-            Reply(115);
-         else
-            Reply(192);
+      else
+         Reply(115);
       end
    end
    else begin
       if (dude_iq < 4) then
          Reply(188);
       else begin
-         if( global_var(GVAR_BH_FTM) != FTM_EXPOSED ) then
-            Reply(189);
-         else
-            Reply(191);
+         Reply(189);
       end
    end
 
@@ -379,8 +359,6 @@ procedure Node003 begin
       if (local_var(LVAR_Caravan) == 0) then begin
          NOption(119,Node009,004);
          NOption(121,Node011,004);
-      end
-      if ( (local_var(LVAR_Caravan) == 0) and (global_var(GVAR_BH_FTM) != FTM_EXPOSED) ) then
          NOption(120,Node010,004);
       if (local_var(LVAR_Caravan) != 0) then
          NOption(195, Node003a, 004);
@@ -409,15 +387,6 @@ procedure Node004 begin
    Reply(210);
    NOption(211, Node013, 004);
 end
-
-/*
-procedure Node005 begin
-   Reply(125);
-   NOption(126,Node016,004);
-   NOption(127,Node017,004);
-   NOption(128,Node018,004);
-end
-*/
 
 procedure Node006 begin
    Reply(129);
@@ -513,14 +482,6 @@ procedure Node012 begin
    Reply(142);
    NOption(143,Node003,004);
    NOption(144,Node004,004);
-/*
-   if (global_var(GVAR_BH_CHAD) == CHAD_RUMOR_GECKO) then
-      NOption(145,Node005,004);
-   if (global_var(GVAR_BH_CHAD) == CHAD_KILLED) then
-      NOption(146,Node020,004);
-   if ( (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) or (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_GECKO) or (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) ) then
-      NOption(147,Node021,004);
-*/
    NOption(148,Node006,004);
 end
 
@@ -541,45 +502,9 @@ procedure Node015 begin
    NOption(139,Node999,004);
 end
 
-/*
-procedure Node016 begin
-   Reply(154);
-   NOption(155,Node005,004);
-   NOption(156,Node012,004);
-   NOption(157,Node999,004);
-end
-
-procedure Node017 begin
-   Reply(158);
-   NOption(159,Node005,004);
-   NOption(160,Node012,004);
-   NOption(161,Node999,004);
-end
-
-procedure Node018 begin
-   Reply(162);
-   NOption(163,Node005,004);
-   NOption(164,Node012,004);
-   NOption(165,Node999,004);
-end
-*/
-
 procedure Node019 begin
    floater(166);
 end
-
-/*
-procedure Node020 begin
-   Reply(167); //set outfitter=banned
-   NOption(158,Node999,004);
-end
-
-procedure Node021 begin
-   Reply(169);
-   NOption(138,Node012,004);
-   NOption(139,Node999,004);
-end
-*/
 
 procedure Node022 begin
    Reply(170);
@@ -607,13 +532,6 @@ procedure Node025 begin
    NOption(139,Node027,004);
 end
 
-procedure Node026 begin
-   set_local_var(LVAR_Caravan,0);
-   Reply(174);
-   NOption(138,Node012,004);
-   NOption(139,Node999,004);
-end
-
 procedure Node027 begin
    Reply(175);
    NOption(176,Node028,004);
@@ -631,7 +549,7 @@ end
 procedure Node029 begin
    set_local_var(LVAR_Caravan,0);
    Reply(179);
-   NOption(180,Node010,004); //if FtM=Exposed goto 26,else10
+   NOption(180,Node010,004);
    NOption(181,Node009,004);
    NOption(182,Node011,004);
    NOption(203,Node999,004);
@@ -707,33 +625,4 @@ procedure StartCaravan begin
                                     //however to put caravan in center of map
    end
 
-////////
-/*
-   if (global_var(GVAR_CARAVAN_ENCOUNTERS_TOTAL) == 0) then begin
-       Caravan_Guards:=random(2,4);
-       set_caravan_guards(Caravan_Guards);
-       if (global_var(GVAR_CARAVAN_END) ==  CARAVAN_VAULT_CITY) then begin
-           game_time_advance(24*ONE_GAME_DAY);
-           //load_map(TARGET_TOWN,CURRENT_CARAVAN_LEADER);
-       end
-       else begin
-           game_time_advance(24*ONE_GAME_DAY);
-           //load_map(MAPSTR_REDMENT,CURRENT_CARAVAN_LEADER);
-       end
-   end
-   else begin
-       Caravan_Carts:=random(1,3);
-       Caravan_Guards:=random(2,4);
-
-       set_caravan_masters(1);
-       set_caravan_guards(Caravan_Guards);
-       set_caravan_carts(Caravan_Carts);
-       set_caravan_brahmin(2*Caravan_Carts);
-       set_caravan_drivers(Caravan_Carts);
-
-       load_map(MAPSTR_BHRNDDST,CURRENT_CARAVAN_LEADER);
-   end
-  */
 end
-
-//XXXXXXXXXXXXXXXXXX
