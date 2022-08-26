@@ -43,7 +43,3 @@
 {141}{}{Kim jesteś?}
 {142}{}{Co można tutaj robić?}
 {143}{}{Nic nic.}
-{144}{}{Mamy u ciebie dług za uratowanie nas przed tymi draniami z RNK. Dziękuję, przyjacielu. Co mogę dla ciebie zrobić?}
-{145}{}{Kim jesteś?}
-{146}{}{Co można tutaj robić?}
-{147}{}{Nic nic.}

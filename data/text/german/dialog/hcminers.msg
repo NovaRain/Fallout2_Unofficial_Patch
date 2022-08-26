@@ -42,7 +42,3 @@
 {141}{}{Wer bist du?}
 {142}{}{Was kann man hier in der Stadt machen?}
 {143}{}{Nichts.}
-{144}{}{Wir stehen in deiner Schuld, weil du uns vor den Bastarden aus der NCR bewahrt hast. Noch mal Danke! Was kann ich für dich tun?}
-{145}{}{Wer bist du?}
-{146}{}{Was kann man hier in der Stadt machen?}
-{147}{}{Nichts.}

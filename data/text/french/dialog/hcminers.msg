@@ -42,7 +42,3 @@
 {141}{}{Qui es-tu ?}
 {142}{}{Qu'y a-t-il à faire dans cette ville ?}
 {143}{}{Rien.}
-{144}{}{Tu nous as sauvés de ces salauds de la RNC. Merci. On te doit beaucoup. Que puis-je faire pour toi ?}
-{145}{}{Qui es-tu ?}
-{146}{}{Qu'y a-t-il à faire dans cette ville ?}
-{147}{}{Rien.}

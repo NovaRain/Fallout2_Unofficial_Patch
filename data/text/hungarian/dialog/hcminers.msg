@@ -43,7 +43,3 @@
 {141}{}{Ki vagy?}
 {142}{}{Mit lehet csinálni ebben a városban?}
 {143}{}{Semmi.}
-{144}{}{Jövünk neked eggyel, amiért megmentettél minket azoktól az ÚKK-s mocskoktól. Kösz, haver! Tehetek érted valamit?}
-{145}{}{Ki vagy?}
-{146}{}{Mit lehet csinálni ebben a városban?}
-{147}{}{Semmi.}

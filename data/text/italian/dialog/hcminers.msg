@@ -43,7 +43,3 @@
 {141}{}{Chi sei?}
 {142}{}{Cosa c'e' da fare in questa citta'?}
 {143}{}{Nulla.}
-{144}{}{Ti siamo riconoscenti per averci salvato da quei bastardi di NCR. Grazie, amico. Cosa posso fare per te?}
-{145}{}{Chi sei?}
-{146}{}{Cosa c'e' da fare in questa citta'?}
-{147}{}{Nulla.}

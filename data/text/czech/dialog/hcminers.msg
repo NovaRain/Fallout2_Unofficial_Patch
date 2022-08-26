@@ -43,7 +43,3 @@
 {141}{}{Kdo jsi?}
 {142}{}{Co se dá v tomhle městě dělat?}
 {143}{}{No nic.}
-{144}{}{Jsme ti vděční za záchranu před těma krysama z NCR. Opravdu díky. Co pro tebe můžu udělat?}
-{145}{}{Kdo jsi?}
-{146}{}{Co se dá v tomhle městě dělat?}
-{147}{}{No nic.}

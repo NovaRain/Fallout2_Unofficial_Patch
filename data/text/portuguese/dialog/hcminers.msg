@@ -54,7 +54,3 @@
 {141}{}{Quem é você?}
 {142}{}{O que há para fazer nesta cidade?}
 {143}{}{Nada.}
-{144}{}{Devemos a você por nos salvar daqueles babacas da NCR. Valeu, cara. O que posso fazer por você?}
-{145}{}{Quem é você?}
-{146}{}{O que há para fazer nesta cidade?}
-{147}{}{Nada.}

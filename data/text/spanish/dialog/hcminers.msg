@@ -42,7 +42,3 @@
 {141}{}{¿Quién eres?}
 {142}{}{¿Qué hay para hacer en este pueblo?}
 {143}{}{Nada.}
-{144}{}{Te debemos una por salvarnos de esos bastardos de la RNC. Gracias, amigo. ¿Qué puedo hacer por ti?}
-{145}{}{¿Quién eres?}
-{146}{}{¿Qué hay para hacer en este pueblo?}
-{147}{}{Nada.}
