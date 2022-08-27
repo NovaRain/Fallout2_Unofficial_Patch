@@ -35,9 +35,6 @@
 
 #define DOOR_STRENGTH                   (4)
 
-#define PARTY_CLOSE_DIST                (5)
-/* How far do party members have to be from the door before it closes */
-
 #define custom_use_obj_on_p_proc
 #define custom_damage_p_proc
 #define custom_use_skill_on_p_proc
