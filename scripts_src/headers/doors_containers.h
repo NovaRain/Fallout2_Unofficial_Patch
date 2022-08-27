@@ -18,7 +18,36 @@
 #endif
 /* Experience Points for Skills */
 #ifndef Lockpick_Exp
-  #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+  #if Lock_Bonus == 0
+    #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+  #endif
+  #if Lock_Bonus == (-10)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_10
+  #endif
+  #if Lock_Bonus == (-20)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
+  #endif
+  #if Lock_Bonus == (-30)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_30
+  #endif
+  #if Lock_Bonus == (-40)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_40
+  #endif
+  #if Lock_Bonus == (-50)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_50
+  #endif
+  #if Lock_Bonus == (-60)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
+  #endif
+  #if Lock_Bonus == (-70)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_70
+  #endif
+  #if Lock_Bonus == (-80)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_80
+  #endif
+  #if Lock_Bonus == (-90)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_90
+  #endif
 #endif
 #ifndef Traps_Exp
   #define Traps_Exp                       EXP_TRAPS_NORMAL

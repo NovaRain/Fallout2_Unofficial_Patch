@@ -85,7 +85,7 @@
 #define MAX_DAMAGE                      (20)
 
 /* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+#define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
 #define Traps_Exp                       EXP_TRAPS_NORMAL
 
 /* Door close distance */
