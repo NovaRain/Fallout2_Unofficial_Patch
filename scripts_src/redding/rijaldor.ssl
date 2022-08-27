@@ -32,7 +32,8 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-60)
 
-/* Max and Min damage for the trap */
+// jail door is heavy
+#define Crowbar_Bonus                   (-2)
 #define Crowbar_Strain                  (4)
 
 /* Experience Points for Skills */
