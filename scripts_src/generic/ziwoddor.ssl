@@ -126,6 +126,7 @@ procedure Pry_Door;
 procedure Damage_Critter;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
+procedure roll_critical;
 
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
@@ -1533,4 +1534,11 @@ procedure Damage_Critter begin
   pcnpc_display_str(source_obj, door_mstr(166)+Trap_Damage+door_mstr(167), door_mstr(168)+Trap_Damage+door_mstr(169))
   critter_heal(source_obj, -Trap_Damage);
   set_local_var(LVAR_Trapped, STATE_INACTIVE);
+end
+
+// standard critical, used for stat checks - they can't crit on their own
+procedure roll_critical begin
+  variable rnd = random(1,20);
+  if rnd == 20 then return true;
+  return false;
 end
