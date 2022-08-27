@@ -1,11 +1,6 @@
 name: build
 
-on:
-  push:
-    paths-ignore:
-      - 'data/text/**'
-    tags:
-    - '*'
+on: [push]
 
 env:
   sfall_version: 4.3.4
