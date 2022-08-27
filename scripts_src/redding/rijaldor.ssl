@@ -36,9 +36,6 @@
 #define Crowbar_Bonus                   (-2)
 #define Crowbar_Strain                  (4)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
-
 #define PARTY_CLOSE_DIST                (5)
 /* How far do party members have to be from the door before it closes */
 
