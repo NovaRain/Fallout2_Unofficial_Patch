@@ -334,9 +334,7 @@ procedure Node003 begin
          Reply(114);
       else
          Reply(115);
-      end
-   end
-   else begin
+   end else begin
       if (dude_iq < 4) then
          Reply(188);
       else begin
