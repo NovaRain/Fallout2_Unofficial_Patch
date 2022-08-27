@@ -1482,7 +1482,7 @@ procedure Pry_Door begin
   end
   
   // failure: damage
-  pry_strain = roll_pry_strain();
+  pry_strain = roll_critical();
   if pry_strain then begin
     critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
     
