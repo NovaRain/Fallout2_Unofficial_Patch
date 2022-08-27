@@ -360,6 +360,7 @@ procedure Node003 begin
          NOption(119,Node009,004);
          NOption(121,Node011,004);
          NOption(120,Node010,004);
+      end
       if (local_var(LVAR_Caravan) != 0) then
          NOption(195, Node003a, 004);
       NOption(122,Node012,004);
