@@ -9,6 +9,7 @@
 #define upu_msetting(setting) get_ini_setting(upu_ini + "|" + sec_main + "|" + setting)
 #define set_goris_derobing "goris_derobing_speed"
 #define repeatable_brahmin_drive upu_setting("ncr", "repeatable_brahmin_drive")
+#define wipe_inventory upu_setting("main", "wipe_inventory")
 
 procedure check_filesystem_override begin
   variable fs_override := get_ini_setting("ddraw.ini|Misc|UseFileSystemOverride");
@@ -164,5 +165,76 @@ procedure check_title_bad(variable title) begin
   return false;
 end
 
+// call before restock
+procedure move_critical_items begin
+  if wipe_inventory != 1 then return 0;
+  variable tmp_box = create_object(PID_FOOTLOCKER_CLEAN_LEFT,5,0);
+  variable pid;
+  variable pids = [
+    PID_ACCOUNT_BOOK,
+    PID_ANNA_GOLD_LOCKET,
+    PID_BECKY_BOOK,
+    PID_BISHOPS_HOLODISK,
+    PID_BLUE_PASS_KEY,
+    PID_CAR_FUEL_CELL,
+    PID_CAR_FUEL_CELL_CONTROLLER,
+    PID_CAR_FUEL_INJECTION,
+    PID_CELL_DOOR_KEY,
+    PID_COMPUTER_VOICE_MODULE,
+    PID_CORNELIUS_GOLD_WATCH,
+    PID_DAY_PASS,
+    PID_DR_HENRY_PAPERS,
+    PID_ECON_HOLODISK,
+    PID_ENLIGHTENED_ONE_LETTER,
+    PID_EXCAVATOR_CHIP,
+    PID_GECK,
+    PID_GECKO_DATA_DISK,
+    PID_GOLD_LOCKET,
+    PID_HY_MAG_PART,
+    PID_K9_MOTIVATOR,
+    PID_LYNETTE_HOLO,
+    PID_NAV_COMPUTER_PARTS,
+    PID_MOORE_BAD_BRIEFCASE,
+    PID_MOORE_GOOD_BRIEFCASE,
+    PID_FAKE_CITIZENSHIP,
+    PID_REACTOR_DATA_DISK,
+    PID_PLASMA_TRANSFORMER,
+    PID_PRES_ACCESS_KEY,
+    PID_PRESIDENTIAL_PASS,
+    PID_RAMIREZ_BOX_CLOSED,
+    PID_RAMIREZ_BOX_OPEN,
+    PID_RED_PASS_KEY,
+    PID_SMITTY_MEAL,
+    PID_SPY_HOLO,
+    PID_TANKER_FOB,
+    PID_TRAPPER_TOWN_KEY,
+    PID_VAULT_13_SHACK_KEY,
+    PID_VERTIBIRD_PLANS,
+    PID_VIC_RADIO,
+    PID_VIC_WATER_FLASK,
+    PID_V15_COMPUTER_PART,
+    PID_WESTIN_HOLO,
+    PID_YELLOW_PASS_KEY,
+    PID_YELLOW_REACTOR_KEYCARD
+  ];
+  foreach pid in pids begin
+    if (obj_is_carrying_obj_pid(self_obj, pid ) > 0) then begin
+      variable special_item = obj_carrying_pid_obj(self_obj, pid);
+      rm_obj_from_inven(self_obj, special_item);
+      add_obj_to_inven(tmp_box, special_item);
+    end
+  end
+  variable trash_box = create_object(PID_FOOTLOCKER_CLEAN_LEFT,0,0);
+  move_obj_inven_to_obj(self_obj, trash_box);                     \
+  destroy_object(trash_box);
+  return tmp_box;
+end
+// call after restock
+procedure restore_critical_items(variable tmp_box) begin
+  if wipe_inventory != 1 then return;
+  if tmp_box == 0 then return;
+  move_obj_inven_to_obj(tmp_box, self_obj);
+  destroy_object(tmp_box);
+end
 
 #endif  // UPU_H
