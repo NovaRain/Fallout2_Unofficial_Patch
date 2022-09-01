@@ -231,7 +231,6 @@ procedure move_critical_items begin
 end
 // call after restock
 procedure restore_critical_items(variable tmp_box) begin
-  if wipe_inventory != 1 then return;
   if tmp_box == 0 then return;
   move_obj_inven_to_obj(tmp_box, self_obj);
   destroy_object(tmp_box);
