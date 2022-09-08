@@ -8,7 +8,7 @@
 {107}{}{Who are you?}
 {108}{}{I'm looking for some equipment.}
 {109}{}{I'm looking for some information.}
-{110}{}{Bye.}
+{110}{}{Hej då.}
 {111}{}{You want to buy something?}
 {112}{}{::nod head::}
 {113}{}{::shake head::}
@@ -75,7 +75,7 @@
 {174}{}{Who are you?}
 {175}{}{I'm looking for some equipment.}
 {176}{}{I'm looking for some information.}
-{177}{}{Bye.}
+{177}{}{Hej då.}
 {178}{}{You have already given them to the Hubologists. No?}
 {179}{}{Oh yeah... ah... Can I ask something else?}
 {180}{}{Oh yeah... Bye.}

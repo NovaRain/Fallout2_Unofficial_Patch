@@ -1,7 +1,7 @@
 {100}{}{You see a male villager.}
 {101}{}{You see a female villager.}
 {150}{}{A kindly member of your village.}
-{151}{}{[TALK]}
+{151}{}{[TALA]}
 {152}{}{Hello! I hear you are the Chosen One. Now, perhaps, our village can be saved.}
 {153}{}{Can you tell me where I can find more healing powder?}
 {154}{}{What can you tell me of the traders who trade with us?}
@@ -42,17 +42,17 @@
 {302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know.}
 {303}{}{Chosen One, our village is almost dead... you're our only hope. Is there anything
  I could tell you that would aide you in our salvation?}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Äldste}
+{1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{Valv}
 {1006}{}{Chosen One}
 {1007}{}{Shaman}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1010}{}{Bro}
 {1011}{}{Mynoc}
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}
