@@ -120,5 +120,5 @@
 {190}{}{Sorry honey... I'm not feelin' too good right now. Check back later.}
 {191}{}{Got a little free time right now?}
 {192}{}{Come back anytime! Always nice to get some repeat business.}
-{193}{}{[DONE]}
+{193}{}{[KLAR]}
 {200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}

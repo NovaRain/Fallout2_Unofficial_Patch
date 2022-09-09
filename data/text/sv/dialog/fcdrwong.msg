@@ -48,7 +48,7 @@
 {147}{}{He needs it to survive, you know. It came from inside his body.}
 {148}{}{Then maybe I'd better kill you for it.}
 {149}{}{A deal is a deal. He can't have it. Sorry, but we made a bargain and just because Chip regrets it now doesn't mean he can go back on his deal.}
-{150}{}{[MORE]}
+{150}{}{[MER]}
 {151}{}{It's a human spleen? Lao Chou didn't tell me that!}
 {152}{}{Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.}
 {153}{}{Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.}
@@ -56,7 +56,7 @@
 {155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
 {156}{}{Yes, it's a human spleen.}
 {157}{}{Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.}
-{158}{}{[DONE]}
+{158}{}{[KLAR]}
 {159}{}{Aiee! Guards! The lao wai intruder is here!}
 {160}{}{You have certain schematics to give to me?}
 {161}{}{Ken Lee told me to give these to you.}
