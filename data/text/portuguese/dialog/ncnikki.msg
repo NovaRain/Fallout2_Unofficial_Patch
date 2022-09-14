@@ -11,16 +11,16 @@
 {250}{}{Olá, estrela. Você quer gastar algumas tampas?}
 {270}{}{Ei, querida. Você quer gastar algumas tampas?}
 {290}{}{Bem, você está louco para entrar aqui, mas… faça suas apostas. A aposta mínima é de 5 tampas. Faça suas apostas…}
-{310}{}{Uh, very well, sir. Come back soon.}
-{320}{}{Very well, sir. Come back soon.}
-{330}{}{Sorry, sir. Better luck next time.}
-{340}{}{Winner! Well done, sir!}
-{350}{}{Winner! You've doubled your money! Well done, sir!}
-{360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
-{380}{}{Yeah, I heard he's DEAD. That what you want to hear, killer?! Huh?! Now you gonna place a bet or bullshit me some more?}
-{390}{}{Then that's a bet you'd LOSE, sweetheart, but if you're as stupid as you are ugly, you'd probably bet anyway. I ain't
- seen that bum since he conned Mr. Salvatore.}
+{310}{}{Muito bem, senhor. Volte logo.}
+{320}{}{Muito bem, senhor. Volte logo.}
+{330}{}{Desculpe, senhor. Mais sorte da próxima vez.}
+{340}{}{Vencedor! Muito bem, senhor!}
+{350}{}{Vencedor! Você dobrou seu dinheiro! Muito bem, senhor!}
+{360}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
+{370}{}{O que você quer agora? Está aqui para me fazer perder tempo, ou vai fazer uma aposta?}
+{380}{}{Sim, ouvi dizer que ele está MORTO. É isso que você quer ouvir, seu assassino?! Huh?! Agora você vai fazer uma aposta continuar com suas besteiras?}
+{390}{}{Então essa aposta você PERDERIA, docinho, mas se você é tão estúpido quanto é feio, provavelmente apostaria de
+ qualquer maneira. Não vejo aquele canalha desde que ele roubou o Sr. Salvatore.}
 {400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
 {410}{}{You touch me, and Mr. Salvatore will skin you alive.}
 {420}{}{Do que você está falando?}

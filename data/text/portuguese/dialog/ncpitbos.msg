@@ -33,7 +33,7 @@
 {283}{}{Quem é você?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
-{286}{}{You know somebody named Pretty Boy Lloyd?}
+{286}{}{Você conhece alguém chamado Lloyd Bonitão?}
 {287}{}{Who's that old guy at the slot machine?}
 {288}{}{That comic you got on stage is weak. Mind if I try?}
 {289}{}{Thanks. Do you need a dancer for the night? I'm open for a limited engagement.}
