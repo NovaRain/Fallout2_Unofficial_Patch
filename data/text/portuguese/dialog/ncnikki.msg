@@ -21,8 +21,8 @@
 {380}{}{Sim, ouvi dizer que ele está MORTO. É isso que você quer ouvir, seu assassino?! Huh?! Agora você vai fazer uma aposta continuar com suas besteiras?}
 {390}{}{Então essa aposta você PERDERIA, docinho, mas se você é tão estúpido quanto é feio, provavelmente apostaria de
  qualquer maneira. Não vejo aquele canalha desde que ele roubou o Sr. Salvatore.}
-{400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
-{410}{}{You touch me, and Mr. Salvatore will skin you alive.}
+{400}{}{Docinho, eu disse a você que não sei onde ele está. Agora, escuta, estou TRABALHANDO aqui, então volte para onde quer que seja...}
+{410}{}{Encosta em mim, e o Sr. Salvatore te esfola vivo.}
 {420}{}{Do que você está falando?}
 {430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
  something there. Now, if you don't mind, I got to get back to work.}
