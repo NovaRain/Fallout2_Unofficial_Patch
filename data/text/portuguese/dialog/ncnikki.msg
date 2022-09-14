@@ -1,15 +1,15 @@
-{100}{}{You see Darlin' Nikki.}
-{125}{}{You see one of the casino dealers.}
-{150}{}{You see Darlin' Nikki.}
-{160}{}{You see Darlin' Nikki. She motions for you to come over and play.}
-{170}{}{You see one of the casino dealers.}
-{180}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{100}{}{Você vê a linda Nikki.}
+{125}{}{Você vê um dos crupiês do cassino.}
+{150}{}{Você vê a linda Nikki.}
+{160}{}{Você vê a linda Nikki. Ela gesticula para que você venha brincar.}
+{170}{}{Você vê um dos crupiês do cassino.}
+{180}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
 {200}{}{::Assobios::}
 {210}{}{Hello, [MM]. Can I help you with... anything?}
-{220}{}{Looks like this one's already gambling with his life.}
-{230}{}{Hey, muscles. You looking to spend some chips?}
-{250}{}{Hey there, movie man. You looking to spend some chips?}
-{270}{}{Hey there, sweetie. You looking to spend some chips?}
+{220}{}{Parece que este já está jogando com a vida.}
+{230}{}{Ei, músculos. Você quer gastar algumas tampas?}
+{250}{}{Olá, estrela. Você quer gastar algumas tampas?}
+{270}{}{Ei, querida. Você quer gastar algumas tampas?}
 {290}{}{Well, you're crazy for coming in here, but... place your bets. Minimum bet 5 chips. Place your bets...}
 {310}{}{Uh, very well, sir. Come back soon.}
 {320}{}{Very well, sir. Come back soon.}
