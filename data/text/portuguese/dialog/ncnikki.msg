@@ -10,7 +10,7 @@
 {230}{}{Ei, músculos. Você quer gastar algumas tampas?}
 {250}{}{Olá, estrela. Você quer gastar algumas tampas?}
 {270}{}{Ei, querida. Você quer gastar algumas tampas?}
-{290}{}{Well, you're crazy for coming in here, but... place your bets. Minimum bet 5 chips. Place your bets...}
+{290}{}{Bem, você está louco para entrar aqui, mas… faça suas apostas. A aposta mínima é de 5 tampas. Faça suas apostas…}
 {310}{}{Uh, very well, sir. Come back soon.}
 {320}{}{Very well, sir. Come back soon.}
 {330}{}{Sorry, sir. Better luck next time.}
