@@ -60,7 +60,7 @@
 {159}{}{Festplatte formatieren. Bei diesem Vorgang werden alle Daten gelöscht. Soll Laufwerk wirklich formatiert werden?}
 {160}{}{Ja.}
 {161}{}{Nein.}
-{162}{}{Die Funktionalität dieses Systems liegt bei 92%.  Im abgeschirmten Kern des Kaisercomputers bei 100%. Die Integrität der Daten beträgt 100%. Stromversorgungsprobleme am Prognoseknotenpunkt - zur Reparatur veranschlagte Zeit: 6 Tage. Prognose zu 15% einsatzbereit.}
+{162}{}{Die Funktionalität dieses Systems liegt bei 92%. Im abgeschirmten Kern des Kaisercomputers bei 100%. Die Integrität der Daten beträgt 100%. Stromversorgungsprobleme am Prognoseknotenpunkt - zur Reparatur veranschlagte Zeit: 6 Tage. Prognose zu 15% einsatzbereit.}
 {163}{}{Zurück.}
 {164}{}{Soll diese Einheit wirklich formatiert werden? Dieser Vorgang ist unumkehrbar.}
 {165}{}{Ja.}
@@ -88,7 +88,7 @@
 {187}{}{Benzin und Derivate}
 {188}{}{Polymere}
 {189}{}{Zurück.}
-{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
+{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
 {191}{}{(Du entdeckst eine unglaubliche Masse komplexer chemischer Formeln und Laboraufzeichnungen. Du weißt nicht genau, was das alles zu bedeuten hat.}
 {192}{}{Leite Benzin zum Poseidon-Tanker.}
 {193}{}{Leite Benzin zu Hubologen.}
