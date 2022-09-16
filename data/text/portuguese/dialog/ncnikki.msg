@@ -24,8 +24,8 @@
 {400}{}{Docinho, eu disse a você que não sei onde ele está. Agora, escuta, estou TRABALHANDO aqui, então volte para onde quer que seja...}
 {410}{}{Encosta em mim, e o Sr. Salvatore te esfola vivo.}
 {420}{}{Do que você está falando?}
-{430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
- something there. Now, if you don't mind, I got to get back to work.}
+{430}{}{Olha, COMO EU DISSE, eu não sei onde ele está. Mas *talvez* eu tenha ouvido que ele costuma ter um quarto no Desperado, você pode
+ encontrar alguma coisa lá. Agora, se você não se importa, eu tenho que voltar ao trabalho.}
 {440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
  I gotta pretty good line on shitheads like you, though.}
 {450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
