@@ -32,7 +32,8 @@
 {126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
 {127}{}{Alles klar, Mann. Wie sieht sie denn aus?}
 {128}{}{Kein Problem. Ich werd mein Bestes tun.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
+{129}{}{::schluchzt einen Augenblick lang hemmungslos:: Ich hab verstanden. Geh. Dir ist
+ hoffentlich klar, dass du mein Herz gebrochen hast. }
 {130}{}{Bis dann, du Verlierer.}
 {131}{}{Sie ist blond, sexy und hat eine unglaubliche Singstimme... Ich hab sie zuletzt hier im
  Viertel gesehen. Sie konnte Mutanten und Ghuls nicht leiden, denen wär sie also nicht zu nahe

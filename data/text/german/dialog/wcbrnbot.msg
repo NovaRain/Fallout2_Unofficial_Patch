@@ -5,7 +5,7 @@
 {103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
 {104}{}{}
 {105}{}{}
-{106}{}{                              [This contraption could be useful.]}
+{106}{}{                              [Diese Gerätschaft könnte sich als praktisch erweisen.]}
 {107}{}{Roboter mitnehmen.}
 {108}{}{Roboter zurücklassen.}
 {109}{}{Beenden}
@@ -47,7 +47,7 @@
 {144}{}{Agh.}
 {145}{}{Skynet hat alle benötigten Informationen zu dieser Umgebung erfasst.}
 {146}{}{Waaaaar.....tennnnnnn.}
-{147}{}{[Er ist noch genau dort, wo du ihn zurückgelassen hast.]}
+{147}{}{        [Er ist noch genau dort, wo du ihn zurückgelassen hast.]}
 {148}{}{Dann lass uns mal Tyler kalt stellen.}
 {149}{}{Bleib hier, ich komm zurück.}
 {150}{}{Skynet ist erfreut, diesen Menschen wiederzusehen.}

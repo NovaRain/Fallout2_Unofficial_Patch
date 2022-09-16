@@ -67,9 +67,9 @@
  cause they make the most Jet. Me, I'm bettin' it was one of them.}
 {431}{}{What dealers do you suspect?}
 {432}{}{Can you tell me a little about Richard?}
-{440}{}{Bunch of 'em: Jagged Jimmy J on 2nd Street, that old sonuvabitch Renesco in the West End... and Jules
- deals, too, at th' fronta town, but mostly to dumb tourists. Then there's Little Jesus Mordino.}
-{441}{}{Little Jesus Mordino?}
+{440}{}{Bando deles: Jagged Jimmy J na Segunda Rua, aquele velho filho da puta do Renesco no Oeste... e Jules tambem
+ negocia de frente na cidade , mas principalmente para turistas burros. Ah, e tem o Lil' Jesus Mordino.}
+{441}{}{Lil' Jesus Mordino?}
 {442}{}{Can you tell me a little more about Richard?}
 {443}{}{Thanks for the info, Keith.}
 {450}{}{Quiet kid, clean kid. Kept outta trouble, and for a Wright, that's something. We buried
@@ -84,8 +84,8 @@
 {470}{}{Hold on. (Knocks on door behind him.) Pa? (He sticks his head in, there's some mumbling, then he comes back and nods at the door.)
  You ken go in, but watch out. Dad's in a pissy mood.}
 {471}{}{Obrigado.}
-{480}{}{He's Big Jesus' son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
- Jet outta spite. You looking for him, check out the Desperado. Little Jesus hangs out there with his old man.}
+{480}{}{Ele e filho do Grande Jesus. Um bastardo, como o pai. Ele pode ter pego Richard sozinho, entao enfiado jet
+ a força. Se quiser procurar por ele, confira o Desperado. O Lil' Jesus anda por ai com seu velho.}
 {1220}{}{. What's goin' on?}
 {1252}{}{. Everybody treating you all right? Anything I can do for you?}
 {1253}{}{. We owe you big, and the Wrights always pay their debts. What can I do for you?}

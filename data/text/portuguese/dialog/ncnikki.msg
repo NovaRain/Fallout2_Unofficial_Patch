@@ -1,28 +1,28 @@
-{100}{}{You see Darlin' Nikki.}
-{125}{}{You see one of the casino dealers.}
-{150}{}{You see Darlin' Nikki.}
-{160}{}{You see Darlin' Nikki. She motions for you to come over and play.}
-{170}{}{You see one of the casino dealers.}
-{180}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{100}{}{Você vê a linda Nikki.}
+{125}{}{Você vê um dos crupiês do cassino.}
+{150}{}{Você vê a linda Nikki.}
+{160}{}{Você vê a linda Nikki. Ela gesticula para que você venha brincar.}
+{170}{}{Você vê um dos crupiês do cassino.}
+{180}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
 {200}{}{::Assobios::}
 {210}{}{Hello, [MM]. Can I help you with... anything?}
-{220}{}{Looks like this one's already gambling with his life.}
-{230}{}{Hey, muscles. You looking to spend some chips?}
-{250}{}{Hey there, movie man. You looking to spend some chips?}
-{270}{}{Hey there, sweetie. You looking to spend some chips?}
-{290}{}{Well, you're crazy for coming in here, but... place your bets. Minimum bet 5 chips. Place your bets...}
-{310}{}{Uh, very well, sir. Come back soon.}
-{320}{}{Very well, sir. Come back soon.}
-{330}{}{Sorry, sir. Better luck next time.}
-{340}{}{Winner! Well done, sir!}
-{350}{}{Winner! You've doubled your money! Well done, sir!}
-{360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
-{380}{}{Yeah, I heard he's DEAD. That what you want to hear, killer?! Huh?! Now you gonna place a bet or bullshit me some more?}
-{390}{}{Then that's a bet you'd LOSE, sweetheart, but if you're as stupid as you are ugly, you'd probably bet anyway. I ain't
- seen that bum since he conned Mr. Salvatore.}
-{400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
-{410}{}{You touch me, and Mr. Salvatore will skin you alive.}
+{220}{}{Parece que este já está jogando com a vida.}
+{230}{}{Ei, músculos. Você quer gastar algumas tampas?}
+{250}{}{Olá, estrela. Você quer gastar algumas tampas?}
+{270}{}{Ei, querida. Você quer gastar algumas tampas?}
+{290}{}{Bem, você está louco para entrar aqui, mas… faça suas apostas. A aposta mínima é de 5 tampas. Faça suas apostas…}
+{310}{}{Muito bem, senhor. Volte logo.}
+{320}{}{Muito bem, senhor. Volte logo.}
+{330}{}{Desculpe, senhor. Mais sorte da próxima vez.}
+{340}{}{Vencedor! Muito bem, senhor!}
+{350}{}{Vencedor! Você dobrou seu dinheiro! Muito bem, senhor!}
+{360}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
+{370}{}{O que você quer agora? Está aqui para me fazer perder tempo, ou vai fazer uma aposta?}
+{380}{}{Sim, ouvi dizer que ele está MORTO. É isso que você quer ouvir, seu assassino?! Huh?! Agora você vai fazer uma aposta continuar com suas besteiras?}
+{390}{}{Então essa aposta você PERDERIA, docinho, mas se você é tão estúpido quanto é feio, provavelmente apostaria de
+ qualquer maneira. Não vejo aquele canalha desde que ele roubou o Sr. Salvatore.}
+{400}{}{Docinho, eu disse a você que não sei onde ele está. Agora, escuta, estou TRABALHANDO aqui, então volte para onde quer que seja...}
+{410}{}{Encosta em mim, e o Sr. Salvatore te esfola vivo.}
 {420}{}{Do que você está falando?}
 {430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
  something there. Now, if you don't mind, I got to get back to work.}

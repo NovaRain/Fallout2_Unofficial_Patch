@@ -3,5 +3,5 @@
 {102}{}{Ves un jarrón de barro cocido al sol.}
 {103}{}{Ves un cofre para las hierbas del chamán.}
 {104}{}{Robas hábilmente las cosas del chamán.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{105}{}{Logras bloquear el cofre.}
+{106}{}{Logras desbloquear el cofre.}
