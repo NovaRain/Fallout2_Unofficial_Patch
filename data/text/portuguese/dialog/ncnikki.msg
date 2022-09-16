@@ -26,8 +26,8 @@
 {420}{}{Do que você está falando?}
 {430}{}{Olha, COMO EU DISSE, eu não sei onde ele está. Mas *talvez* eu tenha ouvido que ele costuma ter um quarto no Desperado, você pode
  encontrar alguma coisa lá. Agora, se você não se importa, eu tenho que voltar ao trabalho.}
-{440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
- I gotta pretty good line on shitheads like you, though.}
+{440}{}{Olha, acabo de COMEÇAR a trabalhar aqui, não consigo reconhecer cada contador de cartas e trapaceiro de que me
+ aparece pela frente.}
 {450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
 {460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
 {470}{}{You talk smooth... but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
