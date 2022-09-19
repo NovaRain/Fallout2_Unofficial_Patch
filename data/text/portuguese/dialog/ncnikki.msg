@@ -28,8 +28,8 @@
  encontrar alguma coisa lá. Agora, se você não se importa, eu tenho que voltar ao trabalho.}
 {440}{}{Olha, acabo de COMEÇAR a trabalhar aqui, não consigo reconhecer cada contador de cartas e trapaceiro de que me
  aparece pela frente.}
-{450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
-{460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
+{450}{}{Certo, se você tomar bastante Jet, tudo vai parecer suspeito, certo?}
+{460}{}{De o fora daqui agora. Não tenho mais nada para te dizer.}
 {470}{}{You talk smooth... but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
 {480}{}{COULD be that Lloyd still has my take, and I ain't sure he's gonna give it to me. So COULD be that - for 500 chips - I
  COULD tell you where his lying ass is hanging out.}
