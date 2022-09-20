@@ -30,10 +30,10 @@
  aparece pela frente.}
 {450}{}{Certo, se você tomar bastante Jet, tudo vai parecer suspeito, certo?}
 {460}{}{De o fora daqui agora. Não tenho mais nada para te dizer.}
-{470}{}{You talk smooth... but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
-{480}{}{COULD be that Lloyd still has my take, and I ain't sure he's gonna give it to me. So COULD be that - for 500 chips - I
- COULD tell you where his lying ass is hanging out.}
-{490}{}{(Pockets the money) Check the boiler room in the basement of the Desperado. That's where the son of a bitch was
- going to run if things got hot.}
-{500}{}{Would you get outta here?! People see us talking like this, then THEY'RE gonna talk. Understand?}
-{510}{}{Go to hell, then! I ain't got nothing else to say to you, EVER.}
+{470}{}{Sua fala é suave... igual a das cobras. TALVEZ eu saiba onde Lloyd está, TALVEZ não. Você tem 500 tampas?}
+{480}{}{PODE ser que Lloyd ainda tenha minha parte, mas não tenho certeza se ele vai me dar. Então PODERIA ser que - por 500 tampas
+ - EU PODERIA te dizer onde esse rato mentiroso está.}
+{490}{}{(Embolsa o dinheiro) De uma olhada na sala das caldeiras no porão do Desperado. É para onde o filho da puta iria correr se as 
+coisas esquentassem.}
+{500}{}{Você quer sair daqui?! Se as pessoas nos virem falando sobre isso, ELAS falarão mais ainda. Você entendeu?}
+{510}{}{Vai pro inferno, então! Não tenho mais nada para te dizer, NUNCA.}
