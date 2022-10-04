@@ -16,7 +16,7 @@
 {114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
 {115}{}{Thanks. Bye.}
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
-{117}{}{Hej då.}
+{117}{}{Hej dÃ¥.}
 {118}{}{It's the enemy! Die!}
 {119}{}{Oops.}
 {120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}

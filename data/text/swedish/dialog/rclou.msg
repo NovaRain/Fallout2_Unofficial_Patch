@@ -170,4 +170,4 @@
 {233}{}{I'm interested in getting something here.}
 {234}{}{What's going on in this town?}
 {300}{}{You helped cure Fannie's addiction.}
-{301}{}{Farv‰l.}
+{301}{}{Farv√§l.}

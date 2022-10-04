@@ -20,12 +20,12 @@
 {162}{}{Very well, but don't waste too much time. Without the GECK,
  we're doomed.}
 {163}{}{I know, don't worry -- I've got it all under control.}
-{164}{}{Varför?}
+{164}{}{VarfÃ¶r?}
 {165}{}{I must be going. Goodbye.}
 {166}{}{The traders? They come from Klamath about every two months. There
  won't be another here for a month or more, but Klamath's only a few days
  east of here.}
-{167}{}{Tack. Hej då.}
+{167}{}{Tack. Hej dÃ¥.}
 {168}{}{What can you tell me about this object I have from
  the sacred vault?}
 {169}{}{Looks like a metal water gourd. Maybe the
@@ -34,7 +34,7 @@
 {171}{}{Thank you. I must be going. Goodbye.}
 {172}{}{I hope you do.}
 {173}{}{Your overconfidence makes all of us suffer! Goodbye!}
-{174}{}{Farväl.}
+{174}{}{FarvÃ¤l.}
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
  it is too late!}
@@ -145,7 +145,7 @@
 {430}{}{People are dying here while you stroll about the lands. Perhaps you should be searching
  elsewhere instead of returning here.}
 {500}{}{Have you talked to the Elder yet?}
-{1000}{}{Äldste}
+{1000}{}{Ã„ldste}
 {1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
