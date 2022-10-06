@@ -108,28 +108,28 @@
 {451}{}{Oh, bem, acho que calculei errado...}
 {455}{}{(Salvatore nods as you give him the money, but he holds up his hands halfway
  through the transaction.) The... remaining half is yours.}
-{456}{}{Hey, thanks.}
-{468}{}{Thank you, Mr. Salvatore.}
+{456}{}{Ei, obrigado.}
+{468}{}{Obrigado, Sr. Salvatore.}
 {475}{}{(Mr. Salvatore takes a breath from the mask.) I have another... matter that requires your attention.}
 {476}{}{Sure, why not? What's the job -- another kill and fetch assignment?}
 {477}{}{I am interested in the job, Mr. Salvatore. What do you want me to do?}
-{478}{}{No, I'm done doing hit jobs. I'm making a clean break.}
-{479}{}{No more jobs for me, Mr. Salvatore. I have to be going.}
+{478}{}{Não, já chega dos trabalhos de assassinato. Estou dando uma pausa.}
+{479}{}{Não há mais trabalho para mim, Sr. Salvatore. Eu preciso ir.}
 {485}{}{A constituent in my... district has not paid me... tribute... for the services I provide.
  Collect it. If he objects, inform him you are my... representative in this matter. Talk to
  Mason for the details.}
-{487}{}{Yes, Mr. Salvatore. I'll go see him.}
-{488}{}{No thanks, I don't do extortion jobs.}
-{495}{}{You are... lying to me. I know that he still lives.}
-{500}{}{Have you done as I asked?}
+{487}{}{Sim, Sr. Salvatore. Eu vou vê-lo.}
+{488}{}{Não, obrigado, não faço trabalhos de extorsão.}
+{495}{}{Você está... mentindo para mim. Eu sei que ele ainda vive.}
+{500}{}{Você fez como eu pedi?}
 {501}{}{Yes, Mr. Salvatore, I have the tribute you asked me to collect.}
-{502}{}{Yeah, the 'tribute' is right here.}
+{502}{}{Sim, o 'tributo' está bem aqui.}
 {503}{}{Not yet. I haven't got the old guy to cough it up yet.}
 {504}{}{Not yet, Mr. Salvatore. When I return, I shall have it with me.}
 {515}{}{You told Mason you had collected my tribute. Have you not done this?}
-{525}{}{Very well. (He waits.)}
-{527}{}{Give him 900 chips.}
-{528}{}{Give him 800 chips.}
+{525}{}{Muito bem. (Ele espera.)}
+{527}{}{Dê a ele 900 tampas.}
+{528}{}{Dê a ele 800 tampas.}
 {529}{}{Na verdade, eu não tenho o tributo PARA mim...}
 {540}{}{This amount... is not the amount that was stolen
  from me. Perhaps you don't know how much the required tribute is. Or perhaps you are
@@ -141,18 +141,18 @@
 {555}{}{(Takes a breath from his mask.) You have... done as I asked. I have no
  further need of your... services. (Points to the exit.) Leave now.}
 {556}{}{Hum... ok.}
-{557}{}{Could I have one of those laser pistols as part of my payment before I go?}
+{557}{}{Eu poderia ter uma dessas pistolas a laser como parte do meu pagamento antes de ir?}
 {565}{}{(Takes a deep breath from the mask.) I have another... matter that I could
  use your assistance with.}
 {566}{}{Sure, why not? What's the job - more extortion?}
 {568}{}{No, I'm done doing extortion jobs. I'm making a clean break.}
 {575}{}{A... sensitive transaction will be taking place soon. I am in need of an extra... guard
  to insure that the transaction goes smoothly. You will speak with Mason and do as he directs you.}
-{576}{}{What is this transaction?}
-{577}{}{Where is this transaction taking place?}
-{578}{}{Can I have one of those laser weapons you use?}
+{576}{}{Qual é essa transação?}
+{577}{}{Onde está ocorrendo essa transação?}
+{578}{}{Posso ter uma dessas armas a laser que você usa?}
 {579}{}{I can't do this mission right now, Mr. Salvatore. I must be going.}
-{585}{}{Mason will have... the details. Go now.}
+{585}{}{Mason te dará... os detalhes. Vá agora.}
 {595}{}{Yesss. This time, yes. But you will
  carry other armaments as well. Talk to Mason about the details. He will give you
  one of the lightbringers.}

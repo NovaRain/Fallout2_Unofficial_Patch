@@ -58,7 +58,7 @@
 {327}{}{Qual cassino é esse?}
 {328}{}{Você pode me dizer um pouco sobre o cassino?}
 {329}{}{Nada, obrigado. Desculpe te incomodar.}
-{335}{}{This is [CN]. Need anything, just ask.}
+{335}{}{Este é [CN]. Se precisar de alguma coisa, é só pedir.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
 {337}{}{Quem é você?}
 {338}{}{Você pode me dizer um pouco sobre o cassino?}
@@ -71,8 +71,8 @@
 {345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
 {346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
 {347}{}{Quem é você?}
-{348}{}{Who owns this casino?}
-{349}{}{Okay, thanks. Sorry to bother you.}
+{348}{}{Quem é o dono desse cassino?}
+{349}{}{Ok, obrigado. Desculpe incomodá-lo.}
 {350}{}{Obrigado. Você precisa de alguém que dance essa noite? Posso fazer por um tempo limitado.}
 {351}{}{Obrigado, eu vou.}
 {352}{}{Nada, obrigado. Desculpe te incomodar.}
@@ -92,7 +92,7 @@
  must be sitting in that thing, but it won't give him a single chip.}
 {366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
  Sure was pissed about you winning his fortune. I'd be careful around him.}
-{367}{}{Is the machine rigged?}
+{367}{}{A máquina é modificada?}
 {368}{}{Eu tenho mais algumas perguntas...}
 {369}{}{Obrigado pela informação.}
 {370}{}{Obrigado, estou lisonjeado. Só passei para dizer olá.}
@@ -100,40 +100,40 @@
  de slot que possam consertar essa porcaria.}
 {376}{}{Eu tenho mais algumas perguntas...}
 {377}{}{Interessante. Obrigado pela informação.}
-{385}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed.
- Don't know where he is now, but he used to have a room at the Desperado.}
-{386}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed
- a few days ago and nobody saw him leave.}
-{387}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
+{385}{}{Sim, aquele filho da puta veio aqui faz uma semana mais ou menos, roubou uma mesa de umas mil tampas, depois saiu.
+ Não sei onde ele está agora, mas costumava ter um quarto no Desperado.}
+{386}{}{Sim, um cara com esse nome estava alugando um dos quartos lá em cima... 204. Ele pagou tudo, mas saiu há poucos
+ dias sem que ninguém o tivesse visto.}
+{387}{}{O Sr. Salvatore mencionou que havia um crupiê em particular de quem Lloyd ganhou o dinheiro. E quem foi?}
 {388}{}{Eu tenho mais algumas perguntas...}
 {389}{}{Obrigado pela informação.}
-{395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
+{395}{}{Nikki? Sim, ela está ali, na mesa do meio. Que tipo de problema estamos falando?}
 {396}{}{Sem problemas. Só queria conhecê-la. Só tenho algumas perguntas...}
 {397}{}{Obrigado pela informação.}
-{405}{}{Her name WAS Nikki. She used to work here but she got aced... not too long ago.}
+{405}{}{O nome dela era Nikki. Ela costumava trabalhar aqui, mas foi presa... não faz muito tempo.}
 {406}{}{Hmmm. Você se importa se eu te fizer outras perguntas...?}
 {407}{}{Interessante. Obrigado pela informação.}
-{415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
+{415}{}{O nome dela era Nikki. Ela costumava trabalhar aqui, mas ela vazou não faz muito tempo. Só fez as malas e saiu.}
 {416}{}{Você se importa se eu te fizer outras perguntas...}
 {417}{}{Interessante. Obrigado pela informação.}
-{425}{}{Sure, be good for business. Dressing room's in the back...}
-{426}{}{Excellent. I'll be on stage in a few minutes...}
+{425}{}{Claro, seria bom para os negócios. O vestiário fica nos fundos...}
+{426}{}{Excelente. Estarei no palco em alguns minutos...}
 {427}{}{Não agora. Eu tenho outras perguntas...}
-{428}{}{Not right now, but I'll be back.}
-{435}{}{No, we're still recovering from your last gig. You might want to check some of the other casinos.}
+{428}{}{Não agora, mas voltarei.}
+{435}{}{Não, ainda estamos nos recuperando da sua última apresentação. Você pode querer tentar em um dos outros cassinos.}
 {436}{}{Que bom, obrigado. Olha, eu tenho outras perguntas...}
 {437}{}{Certo... Mas eu voltarei.}
 {445}{}{You count up the evening's tally. chips. Not a bad haul.}
 {446}{}{The leather was a nice touch.}
 {447}{}{That ball gag you had with you didn't hurt, either.}
 {448}{}{I'll do even better next time...}
-{455}{}{Yeah, he stinks worse than brahmin shit. Still, you...? Aw, why the hell not. A little improv ain't gonna hurt, but
- it's a rough crowd... better hope you're good.}
-{456}{}{Oh, I'm good... just watch me go.}
-{1215}{}{, sir.}
-{1216}{}{, sir.}
-{1220}{}{, ma'am.}
-{1221}{}{, ma'am.}
-{1225}{}{, sir.}
-{1230}{}{, ma'am.}
+{455}{}{Sim, ele fede pior do que merda de brahmin. Então você...? Ótimo, por que não? Um pouco de improvisação deve bastar,
+ mas é uma multidão difícil... espero que você esteja bem.}
+{456}{}{Ah, eu estou bem... apenas observe.}
+{1215}{}{, senhor.}
+{1216}{}{, senhor.}
+{1220}{}{, senhora.}
+{1221}{}{, senhora.}
+{1225}{}{, senhor.}
+{1230}{}{, senhora.}
 {1306}{}{. Take a rest from saving the world and have some fun.}
