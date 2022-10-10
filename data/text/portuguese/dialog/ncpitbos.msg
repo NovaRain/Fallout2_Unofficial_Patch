@@ -68,8 +68,8 @@
 {342}{}{Fooooooo foo foo fooooo}
 {343}{}{Cai fora}
 {344}{}{Quem é você?}
-{345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
-{346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
+{345}{}{O melhor cassino da cidade... mas pareço um pouco tendencioso. Mais alguma coisa que você queira saber?}
+{346}{}{O melhor cassino da cidade, a melhores das melhores mesas... então, por que você não vai dar uma olhada? Certo?}
 {347}{}{Quem é você?}
 {348}{}{Quem é o dono desse cassino?}
 {349}{}{Ok, obrigado. Desculpe incomodá-lo.}
@@ -77,7 +77,7 @@
 {351}{}{Obrigado, eu vou.}
 {352}{}{Nada, obrigado. Desculpe te incomodar.}
 {353}{}{Apenas verificando as coisas. Continue.}
-{355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{355}{}{A família [CA]. Eles deram muita vida a este lugar, fizeram dele um verdadeiro ponto da noite, uma joia brilhante em New Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
 {357}{}{Quem é você?}
 {358}{}{Você pode me dizer um pouco sobre o cassino?}
@@ -87,11 +87,11 @@
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Cai fora}
 {364}{}{Quem é você?}
-{365}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine
- there for the past few years, waiting for the big jackpot. His life fortune
- must be sitting in that thing, but it won't give him a single chip.}
-{366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
- Sure was pissed about you winning his fortune. I'd be careful around him.}
+{365}{}{Esse cara? Velho McGee? Totalmente louco... ele tem jogado naquela máquina
+ lá nos últimos anos, esperando o grande prêmio. Toda sua fortuna deve
+ estar naquela coisa, mas não lhe dará uma única tampinha.}
+{366}{}{Aquele cara? Velho McGee? Completamente louco, certeza. Heh.
+ Claro que ficou chateado por você ter ganhado a fortuna dele. Eu tomaria cuidado.}
 {367}{}{A máquina é modificada?}
 {368}{}{Eu tenho mais algumas perguntas...}
 {369}{}{Obrigado pela informação.}
@@ -136,4 +136,4 @@
 {1221}{}{, senhora.}
 {1225}{}{, senhor.}
 {1230}{}{, senhora.}
-{1306}{}{. Take a rest from saving the world and have some fun.}
+{1306}{}{. Descanse de salvar o mundo e divirta-se.}
