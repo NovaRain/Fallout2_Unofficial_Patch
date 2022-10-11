@@ -109,7 +109,7 @@ tentando reconstruir. Vender Jet parece… contra-produtivo a essa
 reconstrução.}
 {378}{}{Bem, Seja o que for. Eu preciso ir agora.}
 {385}{}{Assim. De que maneira. Ninguém esta FORÇANDO esses idiotas a inalar Jet. Ninguém esta indo por aí e enfiando isso goela abaixo!}
-{386}{}{Can I see -}
+{386}{}{Me parece -}
 {387}{}{Mas não -}
 {388}{}{Esse é seu -}
 {395}{}{Esses quebradores de pedra com cabeça de lâmpada em Redding SABEM o 
@@ -506,8 +506,8 @@ fedor… o único ALÉM do seu próprio.}
 {1042}{}{Continue falando carinhosamente desse jeito, Renesco, e você vai 
 agonizar por muito tempo.}
 {1043}{}{OBRIGADO, Renesco.}
-{1526}{}{And sometimes the elder gets upset at little things, like... heh-heh... that one night when I ignored my vow of
- chastity and snuck out with Kor - Who - Thunders - Like - a - Thousand - Stallions to the Arroyo canyon...}
+{1526}{}{As vezes o ancião fica chateado com coisinhas, tipo... heh-heh... aquela noite quando eu abandonei meu voto
+ de castidade e me enfiei com Kor - Que - Ruge- Como - a - Mil - Garanhões para o desfiladeiro de Arroyo...}
 {1536}{}{Foi como ontem. O corpo de Kor agitou-se que nem bronze na luz da 
 Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez goste da anciã. 
 Ela tem quase a sua idade.}
