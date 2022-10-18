@@ -53,4 +53,4 @@
 {140}{}{Thanks for fixing the mine for us. We really owe you for this. What can I do for you?}
 {141}{}{Who are you?}
 {142}{}{What's there to do in this town?}
-{143}{}{Nothing.}
+{143}{}{Ingenting.}
