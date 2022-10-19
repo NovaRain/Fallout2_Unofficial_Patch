@@ -255,7 +255,7 @@
 {355}{}{Bookshelf}
 {356}{}{Raider}
 {357}{}{Peasant}
-{358}{}{Merchant}
+{358}{}{Köpman}
 {359}{}{Guard}
 {360}{}{Rawhide Patron}
 {361}{}{Floor}
@@ -515,7 +515,7 @@
 {615}{}{Door}
 {616}{}{Computer}
 {617}{}{Brahmn}
-{618}{}{Deathclaw}
+{618}{}{Dödsklo}
 {619}{}{Exit Grid}
 {620}{}{Computer}
 {621}{}{Feargus}
@@ -559,7 +559,7 @@
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
 {661}{}{Door}
-{662}{}{Deathclaw}
+{662}{}{Dödsklo}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -738,9 +738,9 @@
 {838}{}{Patrol Member}
 {839}{}{Traveler}
 {840}{}{Smoke}
-{841}{}{Trader}
+{841}{}{Handlare}
 {842}{}{Scavenger}
-{843}{}{Merchant}
+{843}{}{Köpman}
 {844}{}{Peasant}
 {845}{}{Arroyo Temple}
 {846}{}{Dock Worker}
@@ -813,7 +813,7 @@
 {913}{}{Ferndown}
 {914}{}{The Dragon}
 {915}{}{Stable Boy}
-{916}{}{Trader}
+{916}{}{Handlare}
 {917}{}{Townsperson}
 {918}{}{Slag}
 {919}{}{Slag}
