@@ -21,7 +21,7 @@
 {251}{}{His name's Vic - some merchant that broke something of the boss's, or something like that. Not too sure.}
 {252}{}{Oh, him? Yeah, some merchant. I think he broke something, but I'm not sure. Why? You know him?}
 {253}{}{Oh, him? Yeah, some merchant. I think he broke something, but I'm not sure. Why? You know him?}
-{254}{}{Yeah?}
+{254}{}{Visst?}
 {255}{}{Why are you guarding him?}
 {256}{}{Who's your boss?}
 {257}{}{Can I see him?}
@@ -49,7 +49,7 @@
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
 {313}{}{Okay, thanks.}
 {320}{}{Where? No, never heard of it. This is the Den. Not sure about that place, but I don't get out much. Sorry.}
-{321}{}{Moron.}
+{321}{}{Idiot.}
 {322}{}{Uh, okay. Thanks.}
 {330}{}{Damn, man. Metzger's the slaver master. He runs things around here.}
 {331}{}{Damn, lady. This is the last place a lady like you would want to be. Metzger's the slaver master.}
