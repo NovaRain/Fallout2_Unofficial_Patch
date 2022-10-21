@@ -31,7 +31,7 @@
 {140}{}{Debería marcharme ya. Ha estado bien hablar contigo.}
 {141}{}{Quizás nos volvamos a ver.}
 {142}{}{Quiero llegar al próximo pueblo al anochecer. Mejor me marcho ya.}
-{143}{}{I'd better be going.}
+{143}{}{Mejor será que me vaya.}
 {144}{}{¡Emboscada!}
 {145}{}{En estos días no se puede confiar en nadie.}
 {146}{}{Has roto el código del viajero.}
@@ -39,10 +39,10 @@
 {148}{}{No quiero ser un pesado.}
 {149}{}{Debo partir.}
 {150}{}{Gracias. Necesito indicaciones para otros lugares.}
-{1107}{}{New Reno.}
+{1107}{}{Nuevo Reno.}
 {1108}{}{Ciudad Refugio.}
 {1109}{}{Redding.}
-{1110}{}{The Den.}
+{1110}{}{La Guarida.}
 {1111}{}{San Francisco.}
-{1112}{}{New California Republic.}
+{1112}{}{República de Nueva California.}
 {1113}{}{Una mina abandonada.}
