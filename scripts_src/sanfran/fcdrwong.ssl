@@ -198,6 +198,8 @@ procedure talk_p_proc begin
       callGuards := 0;
       call doCallGuards;
    end
+
+   set_local_var(LVAR_Herebefore, 1);
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
