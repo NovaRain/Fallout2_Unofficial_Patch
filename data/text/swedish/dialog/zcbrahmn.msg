@@ -3,7 +3,7 @@
  early exposure of radation to what used to be called a
  cow.}
 {102}{}{Du lägger inte märke till något ovanligt med brahminen.}
-{103}{}{Brahmin aren't much for conversations.}
+{103}{}{Brahminer är inte mycket för samtal.}
 {104}{}{Have you nothing better to do than sit around talking
  to a two headed cow?}
 {105}{}{It's a brahmin. It has two heads.}
