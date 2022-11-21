@@ -6,7 +6,7 @@
 
 ### Formatting
 1. Fallout's code mostly uses uncommon 3-space indentation. It can be changed to a more common 4-space.
-1. Multiline defines better use line break right away, to save a long of horizontal space:
+1. Multiline defines better use line break right away, to save a lot of horizontal space:
     ```pascal
     #define Follow_Dude_Run_Only(X,Y)           if (Current_Distance_From_Dude > X) then begin                  \
                                                    animate_run_to_tile(Future_Distance_From_Dude(Y));           \
