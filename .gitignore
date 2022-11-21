@@ -26,3 +26,5 @@ translations/*.dat
 extra/inno/Output
 extra/inno/release
 extra/inno/translations
+
+.venv/
