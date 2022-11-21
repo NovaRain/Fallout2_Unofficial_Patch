@@ -11,6 +11,7 @@ h_by_num = {}  # num > name
 h_by_name = {}  # name > num
 lst_by_num = {}  # linenum > name
 lst_by_name = {}  # name > linenum
+warning = False
 
 with open(scripts_h) as f:
     for line in f:
@@ -30,13 +31,14 @@ with open(scripts_lst) as f:
 # search dupes in scripts.lst
 lst_names = [lst_by_num[x] for x in lst_by_num]
 lst_duped_names = sorted(set([x for x in lst_names if lst_names.count(x) > 1]))
+lst_duped_names = [x for x in lst_duped_names if x != "RESERVED"]
 for n in lst_duped_names:
     duped_lines = [x for x in lst_by_num if lst_by_num[x] == n]
     dupes_str = ", ".join([str(x) for x in duped_lines])
     print("Dupe: {} is defined on lines {} in scripts.lst".format(n, dupes_str))
+    warning = True
 
 # search mismatched names and missing scripts.h defines
-warning = False
 for i in range(1, len(lst_by_num)):
     try:
         if lst_by_num[i] != h_by_num[i]:
@@ -47,7 +49,7 @@ for i in range(1, len(lst_by_num)):
             )
             warning = True
     except:
-        if lst_by_num[i] not in h_by_name:
+        if (lst_by_num[i] not in h_by_name) and (lst_by_num[i] != "RESERVED"):
             print(
                 "Missing: script {}.int, line number {} in scripts.lst is absent from scripts.h".format(
                     lst_by_num[i], i
