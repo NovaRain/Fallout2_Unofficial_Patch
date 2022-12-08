@@ -93,12 +93,12 @@
 {192}{}{Bem, vamos dar uma olhada... primeiro, vamos ver se... ah, muito bem, vejo que você pegou esse, que tal... ora, sim, você carregou os dois, muito esperto, muito esperto... mas por que você... ah, você aplicou a derivada em #5... brilhante!}
 {193}{}{Mas é CLARO que fui brilhante.}
 {194}{}{Bem... você passou! Parabéns.}
-{195}{}{Great. So I'm a Citizen?}
-{196}{}{Well, we still have to perform the physical examination. Fortunately, I have all the equipment right here. You might want to take off your boots.}
+{195}{}{Excelente. Então eu sou um cidadão?}
+{196}{}{Bem, ainda temos que fazer o exame físico. Felizmente, tenho todo o equipamento aqui. Seria melhor você tirar suas botas.}
 {197}{}{Tudo bem.}
-{198}{}{You... you have a sixth toe! You're a mutant! How dare you even TRY to become one of us... you... you abomination! Get out! Out! And never come back!}
-{199}{}{Here comes the part when I lose my patience and kill every Citizen in Vault City for the fun of it. Starting with you.}
-{200}{}{I'm leaving, I'm leaving!}
+{198}{}{Você... você tem um sexto dedo! Você é um mutante! Como você ousa TENTAR se tornar um de nós... sua... sua abominação! Saia! Fora! E nunca mais volte!}
+{199}{}{Aí vem a parte em que perco a paciência e mato todos os cidadãos em Vault City para me divertir. Começando por você.}
+{200}{}{Vou embora, vou embora!}
 {201}{}{Your blood pressure looks good, no communicable diseases that I can find... congratulations, Citizen. Welcome to Vault City.}
 {202}{}{Thanks. It's good to be here.}
 {203}{}{You again. Can I help you?}
