@@ -1,16 +1,16 @@
-{100}{}{You see a sad, older man.}
-{101}{}{You see Dave, "Mr. Depression."}
+{100}{}{Você vê um homem mais velho e triste.}
+{101}{}{Você vê Dave, "Sr. Depressão".}
 {102}{}{You see a grumpy, older man in his early sixties. He has a weathered face and looks as if he
  has had his fair share of abuse.}
 {103}{}{Oh. I didn't see you standing there.}
-{104}{}{How not see? Me big.}
-{105}{}{Look sad. Why?}
-{106}{}{Me go bye bye.}
-{107}{}{That's ok, we all space out at times. Say, you look rather down. May I ask why?}
-{108}{}{Yeah, whatever. Why are you so down?}
-{109}{}{Should I hit you with a board to get your attention next time?}
-{110}{}{Whatever. I just remembered some place I've got to be.}
-{111}{}{Hey, shit happens -- and when it does, it happens to me.}
+{104}{}{Como não ver? Eu grande.}
+{105}{}{Parece triste. Por quê?}
+{106}{}{Eu vou, tchau.}
+{107}{}{Tudo bem, todos nós nos distanciamos às vezes. Diga, você parece um pouco pra baixo. Posso perguntar o por quê?}
+{108}{}{Sim, tanto faz. Por que você está tão para baixo?}
+{109}{}{Devo bater em você com uma tábua para chamar sua atenção da próxima vez?}
+{110}{}{Qualquer que seja. Acabei de me lembrar de um lugar onde devo estar.}
+{111}{}{Ei, merda acontece - e quando acontece, acontece comigo.}
 {112}{}{Uh... me be leaving now.}
 {113}{}{Como o quê?}
 {114}{}{Nice attitude. What caused it?}
