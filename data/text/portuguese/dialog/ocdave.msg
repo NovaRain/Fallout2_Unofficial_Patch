@@ -11,24 +11,24 @@
 {109}{}{Devo bater em você com uma tábua para chamar sua atenção da próxima vez?}
 {110}{}{Qualquer que seja. Acabei de me lembrar de um lugar onde devo estar.}
 {111}{}{Ei, merda acontece - e quando acontece, acontece comigo.}
-{112}{}{Uh... me be leaving now.}
+{112}{}{Uh... eu vou embora agora.}
 {113}{}{Como o quê?}
-{114}{}{Nice attitude. What caused it?}
-{115}{}{I can tell I want to be elsewhere.}
+{114}{}{Bela atitude. O que causou isso?}
+{115}{}{Posso dizer que quero estar em outro lugar.}
 {116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I
  had pneumonia. When I was three, I got the chicken pox. When I was four, I fell down the stairs and broke
  six ribs. When I was five, my uncle was decapitated by a watermelon.  When I was six, my parents hit me
  in the head with a shovel. When I was seven, I lost my right index finger to my pet rat.}
-{117}{}{Uh, me hear someone call. Bye!}
-{118}{}{Sorry things bad.}
-{119}{}{Past bad, no talk. Things good now?}
-{120}{}{Wow! I'm sure glad that I'm not you!}
-{121}{}{Ok, I get the picture. What's currently bothering you?}
-{122}{}{I'm truly sorry that you've had so much pain in your life. Hopefully things have gotten better?}
-{123}{}{Wait a minute. I forgot I have something else to do right now.}
-{124}{}{Yeah, well, shit happens -- and when it does, it happens to me.}
-{125}{}{What happen now?}
-{126}{}{Me hear before. Bye.}
+{117}{}{Uh, eu ouvi alguém chamar. Tchau!}
+{118}{}{Desculpe, as coisas ruins.}
+{119}{}{Passado ruim, sem conversa. As coisas estão boas agora?}
+{120}{}{Cara, ainda bem que eu não sou você!}
+{121}{}{Ok, entendi. O que está te incomodando agora?}
+{122}{}{Eu realmente sinto muito por você ter sofrido tanto em sua vida. As coisas estão melhorando?}
+{123}{}{Espere ai, esqueci que tenho outra coisa para fazer agora.}
+{124}{}{Sim, bem, merdas acontecem - e quando acontecem, acontecem comigo.}
+{125}{}{O que acontece agora?}
+{126}{}{Eu ouço antes. Tchau.}
 {127}{}{So what's going on now to upset you so much?}
 {128}{}{I really don't want to hear this. I think I'll be leaving.}
 {129}{}{Well, there I was, traveling through the desert, when suddenly my brahmin falls over dead. About
