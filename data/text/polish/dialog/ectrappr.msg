@@ -9,9 +9,9 @@
 {108}{}{Co tam masz?}
 {109}{}{Nieważne.}
 {110}{}{Ug.}
-{111}{}{Here's what I got:}
-{112}{}{regular gecko pelts.}
-{113}{}{golden gecko pelts.}
+{111}{}{Oto co mam:}
+{112}{}{skóry zwykłych gekonów.}
+{113}{}{skóry złocistych gekonów.}
 {114}{}{Wezmę wszystko.}
 {115}{}{Może innym razem. Pa.}
 {116}{}{Miło robić z tobą interesów. Trzymaj się.}

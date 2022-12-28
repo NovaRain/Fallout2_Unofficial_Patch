@@ -1,4 +1,4 @@
 {100}{}{Widzisz stary pamiętnik.}
-{101}{}{The old diary is too frail to keep handling. The information has been
- downloaded into the Pip-Boy.}
-{102}{}{The diary is stored in the Pip-Boy.}
+{101}{}{Stary pamiętnik jest zbyt kruchy, żeby go ciągle wertować. informacja została
+pobrana do Pip-Boya.}
+{102}{}{Dziennik jest przechowywany w Pip-Boyu.}

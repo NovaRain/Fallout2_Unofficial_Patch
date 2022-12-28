@@ -11,7 +11,7 @@
 {110}{}{Nic nic.}
 {111}{}{Jestem Kapitanem. Dowodzę tym statkiem. Inne pytania możesz iść zadać któremuś z Shi, Borsukowi lub komuś innemu. Ja nie mam dla ciebie czasu.}
 {112}{}{[dalej]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
+{113}{}{Tan statek to tankowiec Posejdona. Wyposażony jest w technikę, która przetrwała wojnę. Posiada KD, która pozwala na dostęp do pokoju nawigacji komputerowej, i transponder IFF, który broni go przed działami Posejdona.}
 {114}{}{Skąd ty to wszystko wiesz?}
 {115}{}{Co to jest transponder IFF?}
 {116}{}{Jak go wprawić w ruch?}
@@ -21,7 +21,7 @@
 {120}{}{Co to dokładnie jest ta Enklawa?}
 {121}{}{Jak ten okręt wprawić w ruch?}
 {122}{}{Bywaj.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{Jak pilotować tę krypę? Nalej do pełna paliwa - spróbuj u Centrologów lub u Shi po tym, jak już wszystko inne będzie załatwione - i naciśnij guzik. Resztą zajmie się już komputer, jeżeli wciąż działa. Popłynie prosto do platformy wiertniczej i nie będzie do ciebie strzelać, bo masz transponder IFF. Upewnij się tylko, że masz wszystko, co jest ci potrzebne: KD, działający komputer i paliwo. Proste, nie?}
 {124}{}{Jasne. Skąd to wszystko wiesz?}
 {125}{}{Co to jest transponder IFF i KD?}
 {126}{}{Jakiej platformy wiertniczej?}
@@ -50,7 +50,7 @@
 {149}{}{Rozumiem. Jeszcze raz, jak się pływa tym statkiem?}
 {150}{}{Dzięki. Na razie.}
 {151}{}{To duży błąd zadzierać z Kapitanem i jego przyjaciółmi...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{152}{}{Jak pilotować tę krypę? Nalej do pełna paliwa - spróbuj u Centrologów lub u Shi po tym, jak już wszystko inne będzie załatwione - i naciśnij guzik. Resztą zajmie się już komputer, jeżeli wciąż działa. Popłynie prosto do platformy wiertniczej i nie będzie do ciebie strzelać, bo masz transponder IFF. Upewnij się tylko, że masz wszystko, co jest ci potrzebne: KD, działający komputer i paliwo. Proste, nie?}
 {153}{}{A tak. Musisz jeszcze zmusić komputer nawigacyjny do działania. Założę się, że znajdziesz części do niego w jednej z tych starych krypt.}
 {154}{}{Dobrze cię znowu widzieć. Czego potrzebujesz?}
 {155}{}{, i o ile się nie mylę, tam też są twoi przyjaciele.}

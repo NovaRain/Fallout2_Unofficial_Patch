@@ -11,7 +11,7 @@
 {110}{}{Cóż, może innym razem? Niech twoje podróże będą wolne od niebezpieczeństw.}
 {111}{}{Dzięki. Na razie.}
 {112}{}{To niefortunne. Więc rozgość się i odpocznij w moim obozie.}
-{113}{}{Thank you. Bye.}
+{113}{}{Dziękuję. Bywaj.}
 {114}{}{Widzę, że moja oferta cienia jest spóźniona. Słońce zdążyło już wypalić słowa z twojej głowy. Lud pustyni ze współczuciem traktuje braci i siostry o chorych umysłach. Zostań jak długo zechcesz w moim obozie, o wolnomyślący.}
 {115}{}{Bywaj.}
 {116}{}{Niewierny pies!}
