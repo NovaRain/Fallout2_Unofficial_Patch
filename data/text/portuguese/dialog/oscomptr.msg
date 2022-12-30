@@ -19,7 +19,7 @@
  several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you
  kicked falls to the floor. What do you do?}
 {115}{}{Execute o programa de diagnóstico.}
-{116}{}{Damn thing's open. Might as well look inside.}
+{116}{}{A maldita coisa está aberta. Poderia muito bem olhar para dentro.}
 {117}{}{O deixa sozinho.}
 {118}{}{You are certain that the system should have a set of diagnostic routines available. However, the
  keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?}
@@ -38,7 +38,7 @@
 {129}{}{Você é o último, Gruthar. A mancha de sua espécie logo será limpa.}
 {130}{}{Diga ao seu suposto presidente que ele vai queimar por isso.}
 {131}{}{Qualquer que seja. Você nunca foi nada além de um animal falante.}
-{132}{}{That may be, but we were created through your experimentation. You gave us life!}
-{133}{}{And now I give you death.}
-{134}{}{Take his body. The doctor wanted a specimen.}
-{135}{}{Their blood will run like the Nile!}
+{132}{}{Talvez, mas fomos criados por meio dos seus experimentos. Você nos deu a vida!}
+{133}{}{E agora te dou a morte.}
+{134}{}{Pegue o corpo dele. O médico queria uma amostra.}
+{135}{}{O sangue deles correrá como o Nilo!}
