@@ -3,5 +3,5 @@
 {102}{}{Widzisz gliniany dzban.}
 {103}{}{Widzisz skrzynię z ziołami Szamana.}
 {104}{}{Zwinnie okradasz Szamana z jego rzeczy.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{105}{}{Zręcznie zamykasz skrzynię.}
+{106}{}{Zręcznie otwierasz skrzynię.}

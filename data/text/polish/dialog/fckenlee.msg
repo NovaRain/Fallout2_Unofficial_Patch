@@ -76,7 +76,7 @@
 {175}{}{Dobra. Cześć.}
 {176}{}{Nie mogę się doczekać wyniku twojej próby. Życzę miłego dnia.}
 {177}{}{Do widzenia.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say there is no submarine.}
+{178}{}{Naśmiewał z kogoś? Każdy głupiec, który trochę by pogrzebał, wiedziałby, że fundamentem miasta Shi jest wrak tej starej łodzi podwodnej. Kłótnia z tymi, którzy twierdzą, że nie było żadnej łodzi, wydaje się bezcelowa.}
 {179}{}{To bardzo spokojne słowa.}
 {180}{}{Z pewnością tak. A ja z takimi ludźmi mam codziennie do czynienia. Niestety!}
 {181}{}{Cóż, mam jeszcze kilka pytań.}

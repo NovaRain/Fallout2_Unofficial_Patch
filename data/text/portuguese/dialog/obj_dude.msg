@@ -1,10 +1,10 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Your feet really itch.}
-{120}{}{You're developing a nasty bunion on each foot.}
-{130}{}{Your shoes feel really tight; those bunions are really getting inflamed.}
-{140}{}{That nasty bunion on each foot seems to have turned into an extra toe. But at least that
- persistent, burning itch has gone away.}
+{110}{}{Seus pés realmente coçam.}
+{120}{}{Você está desenvolvendo um joanete desagradável em cada pé.}
+{130}{}{Seus sapatos parecem muito apertados; esses joanetes estão realmente ficando inflamados.}
+{140}{}{Aquele joanete desagradável em cada pé parece ter se transformado em um dedo extra. Mas pelo
+ menos aquela coceira persistente e ardente desapareceu.}
 {141}{}{Oh, meu Deus, é Bess!}
 {150}{}{Você ganhou }
-{151}{}{ experience points for getting the GECK.}
+{151}{}{ pontos de experiência por obter o GECK.}

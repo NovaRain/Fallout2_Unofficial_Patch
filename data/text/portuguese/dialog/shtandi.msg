@@ -65,10 +65,10 @@
 {164}{}{Is this the Shadeesands the Elder speaks of?}
 {165}{}{That's all for now. I'll be going.}
 {166}{tand8}{It's just east of here, an underground shelter from the war. Most families in NCR came from it, so it's rightfully ours.}
-{167}{}{Tell more.}
+{167}{}{Conte mais.}
 {168}{}{Continue.}
 {169}{tand9}{A couple of years ago some squatters moved in and built a shantytown on the surface. They call it 'The Squat.' They're nothing but dogs in the manger. They can't get into the vault but they keep us out.}
-{170}{}{Me got more questions.}
+{170}{}{Eu tenho mais perguntas.}
 {171}{}{I see. I need to ask you about a few other things.}
 {172}{tand10}{I tried. I sent some people down there but, after the first few, they stopped coming back. I can't prove the squatters are responsible either. My boys managed to capture one of 'em but he won't talk. Got 'em locked up downtown.}
 {173}{}{Need know more.}

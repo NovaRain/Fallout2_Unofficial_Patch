@@ -87,7 +87,8 @@ e uma armadilha no quadro da porta.}
 {147}{}{Você vê uma porta danificada com um bloqueio nele.}
 {148}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
 {149}{}{Você vê uma porta danificada com um bloqueio velho e enferrujado.}
-{150}{}{Você vê uma porta velha com um bloqueio, que pode ser colhida com gazua e uma armadilha altamente explosiva no quadro da porta.}
+{150}{}{Você vê uma porta velha com um bloqueio, que pode ser
+ colhida com gazua e uma armadilha altamente explosiva no quadro da porta.}
 {151}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
   armadilha explosiva no quadro da porta.}
 {152}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e

@@ -35,7 +35,7 @@
 {134}{}{Wystrzelenie statku kosmicznego Centrologów oceniane na 95% porażki. Czynniki: brak paliwa, niewłaściwe uszczelnienie, kiepskie dowodzenie, brak inicjatywy.}
 {135}{}{15% szans na powodzenie misji obiektu "Dziecko Przeznaczenia".}
 {136}{}{Wprowadzone dane wskazują na to, że "Enklawa" jest potężniejsza, niż początkowo przypuszczano: nie dokonywać kontaktu.}
-{137}{}{Chances of submarine reappearing in this game: 0%}
+{137}{}{Szansa na ponowne ukazanie się łodzi podwodnej w tej grze: 0%.}
 {138}{}{Włóczędzy z tankowca mają 0% szans na oczyszczenie statku z wrażych istot bez pomocy z zewnątrz. Obliczanie pożądania udzielenia pomocy w toku.}
 {139}{}{Dane wejściowe: Tankowiec roponośny Posejdon niezdatny do podróży. Wymagane dalsze dane.}
 {140}{}{Brak przetwarzania. Wymagane dalsze dane.}
