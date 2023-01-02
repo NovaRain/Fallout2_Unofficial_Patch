@@ -15,19 +15,19 @@
 {111}{}{Execute o programa de diagnóstico.}
 {112}{}{Abre e o olha por dentro.}
 {113}{}{O deixa sozinho.}
-{114}{}{This well-known repair method produces two results. First, the monitor seems to go haywire for
- several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you
- kicked falls to the floor. What do you do?}
+{114}{}{Este método de reparo bem conhecido alcança dois resultados. Primeiro, o monitor parece
+ enlouquecer por vários segundos e depois se estabiliza. Em segundo lugar, você ouve um tipo de som de
+ metal quebrando e o painel que você chutou cai no chão. O que você faz?}
 {115}{}{Execute o programa de diagnóstico.}
 {116}{}{A maldita coisa está aberta. Poderia muito bem olhar para dentro.}
 {117}{}{O deixa sozinho.}
-{118}{}{You are certain that the system should have a set of diagnostic routines available. However, the
- keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?}
+{118}{}{Você tem certeza de que o sistema deve ter um conjunto de rotinas de diagnóstico disponíveis.
+ No entanto, a entrada do teclado parece ter sido desativada. A unidade aceita apenas comandos de voz. O que você faz?}
 {119}{}{A única coisa que resta é olhar para dentro.}
 {120}{}{O deixa sozinho.}
-{121}{}{Peering into the mass of cables and circuit boards, you find that the system has been deliberately sabotaged.
- One of the circuit boards, the voice recognition module, is beyond repair and must be replaced.
- Now all you need to do is find a replacement module.}
+{121}{}{Olhando para o monte de cabos e placas de circuito, você descobre que o sistema foi sabotado deliberadamente.
+ Uma das placas de circuito, o módulo de reconhecimento de voz, não tem conserto e deve ser
+ substituída. Agora tudo que você precisa fazer é encontrar um módulo de substituição.}
 {122}{}{Feito.}
 {123}{}{Feito.}
 {124}{}{Você instala o módulo no terminal. O sistema é reparado.}
