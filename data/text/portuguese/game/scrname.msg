@@ -255,7 +255,7 @@
 {355}{}{Prateleiras}
 {356}{}{Raider}
 {357}{}{Campones}
-{358}{}{Merchant}
+{358}{}{Comerciante}
 {359}{}{Guarda}
 {360}{}{Cliente de Rawhide}
 {361}{}{Piso}
@@ -740,7 +740,7 @@
 {840}{}{Smoke}
 {841}{}{Comerciante}
 {842}{}{Carniceiro}
-{843}{}{Merchant}
+{843}{}{Comerciante}
 {844}{}{Campones}
 {845}{}{Templo de Arroyo}
 {846}{}{Trabalhador do Porto}
