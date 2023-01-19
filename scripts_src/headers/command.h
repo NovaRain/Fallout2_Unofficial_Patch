@@ -1297,9 +1297,6 @@ variable removed_qty;
 #define raiders_bonenose_bit                          bit_4
 #define raiders_alarm_bit                             bit_5
 #define know_raiders_trap_bit                         bit_6
-//begin added by killap
-#define raiders_scout_left_bit                        bit_7
-//end added by killap
 
 
 #define raiders_dead                                  gvar_bit(GVAR_RAIDERS_FLAGS, raiders_dead_bit)
@@ -1316,10 +1313,6 @@ variable removed_qty;
 #define know_raiders_trap                             gvar_bit(GVAR_RAIDERS_FLAGS, know_raiders_trap_bit)
 #define set_know_raiders_trap                         set_gvar_bit_on(GVAR_RAIDERS_FLAGS, know_raiders_trap_bit)
 #define off_know_raiders_trap                         set_gvar_bit_off(GVAR_RAIDERS_FLAGS, know_raiders_trap_bit)
-//added by killap
-#define raiders_scout_left                            gvar_bit(GVAR_RAIDERS_FLAGS, raiders_scout_left_bit)
-#define set_raiders_scout_left                        set_gvar_bit_on(GVAR_RAIDERS_FLAGS, raiders_scout_left_bit)
-//end added by killap
 // raiders macros end
 
 //see the file for disambiguation

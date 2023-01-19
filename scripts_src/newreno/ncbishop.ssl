@@ -905,10 +905,7 @@ procedure Node061 begin
 variable temp;
    previous_node := 61;
    set_bishop_warning
-   if (raiders_scout_left) then
-      temp := mstr(1805);
-   else
-      temp := mstr(805);
+   temp := mstr(805);
    if (raiders_marcus) then begin
       temp += mstr(806);
    end else if (raiders_bonenose) then begin
@@ -927,10 +924,7 @@ variable temp;
 end
 procedure Node062 begin
    previous_node := 62; // added by killap
-   if (raiders_scout_left) then begin
-      Reply(1820);
-   end
-   else if ((raiders_marcus) or (raiders_robobrain) or (raiders_bonenose)) then begin
+   if ((raiders_marcus) or (raiders_robobrain) or (raiders_bonenose)) then begin
       Reply(822);
    end else begin
       Reply(mstr(820 + dude_is_female) + mstr(822));
@@ -944,10 +938,7 @@ variable temp := "";
    if (previous_node == 61) then begin
       temp := mstr(835);
    end
-   if (raiders_scout_left) then
-      temp += mstr(1836);
-   else
-      temp += mstr(836);
+   temp += mstr(836);
    if ((westin_dead == false) or (carlson_dead == false)) then begin
       temp += mstr(837);
    end
@@ -956,9 +947,6 @@ variable temp := "";
    if ((westin_dead == false) or (carlson_dead == false)) then begin
       NOption(789, Node969, 004);
    end
-   if (raiders_scout_left) then
-      BOption(1840, Node001, 004);
-   else
-      BOption(840, Node001, 004);
+   BOption(840, Node001, 004);
    BOption(763, Node998, 004);
 end
