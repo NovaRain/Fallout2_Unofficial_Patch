@@ -6,6 +6,7 @@
 *.zip
 *.dat
 *.7z
+**/.tmp.ssl
 
 # used to build dat files
 file.list
