@@ -203,5 +203,5 @@
 {532}{}{Torr está haciendo pastar a sus brahmines justo al norte del centro del pueblo.}
 {533}{}{Cuando el idiota de Torr llegue aquí, será mejor que te libres de él.}
 {600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrón!}
-{601}{}{¿Listo para ir?}
+{601}{}{ ¿Listo para ir?}
 {700}{}{Has robado el ganado de Torr.}
