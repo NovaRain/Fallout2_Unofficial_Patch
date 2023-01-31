@@ -74,7 +74,7 @@
 {173}{}{¿Cómo fabricas esos tipos de alcohol sintetizado?}
 {174}{}{En realidad, buscaba algo de información.}
 {175}{}{Nada más hoy, gracias.}
-{176}{}{Los Auto-Docs de Ciudad Refugio pueden preparar sustitutos sintéticos de sustancias adictivas. Como yo lo veo, esos sintéticos se utilizaron como placebos para los adictos a las drogas de antes de la guerra.}
+{176}{}{Los Auto-Docs dentro de Ciudad Refugio pueden preparar sustitutos sintéticos de otras sustancias adictivas. Como yo lo veo, estos productos sintéticos se utilizaron como placebos para los drogadictos de antes de la guerra.}
 {177}{}{Parece que sabes mucho sobre estos sintetizados.}
 {178}{}{Eh, ¿no tienes ninguna bebida de verdad?}
 {179}{}{Oh. En fin, me quedaré con un poco de agua entonces.}
