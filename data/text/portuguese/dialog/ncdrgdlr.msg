@@ -19,7 +19,7 @@
 {215}{}{Então você está querendo celebrar com um Jet, herói? Você veio ao lugar certo. Para você, TUDO do meu estoque especial.}
 {216}{}{O mínimo que eu posso fazer é marcar o meu estoque para você, herói. É o meu jeito de dizer obrigado por nos salvar.}
 {217}{}{Nada melhor que usar um Jet depois de chutar a bunda da Enclave, né? Estou certo? Todo o meu estoque especial pra você.}
-{218}{}{Eu tenho a parada que vai ajudar você a beijar o céu, herói.  E para você: um ótimo desconto. O que você acha?}
+{218}{}{Eu tenho a parada que vai ajudar você a beijar o céu, herói. E para você: um ótimo desconto. O que você acha?}
 {219}{}{Você tem doce? }
 {220}{}{Cai fora}
 {221}{}{O que você tem?}
