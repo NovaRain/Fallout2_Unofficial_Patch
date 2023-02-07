@@ -30,4 +30,3 @@ Refer to the [original F2 dev docs](https://github.com/BGforgeNet/Fallout2_Unoff
 
 ### Tasks for bored hands
 1. Proper, consistent [formatting](#formatting).
-1. Full code review for `is_critical` checks in [stat rolls](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/101#issuecomment-1229143154). 
