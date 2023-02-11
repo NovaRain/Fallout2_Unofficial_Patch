@@ -75,4 +75,4 @@
 {174}{}{All right, I get the hint.}
 {175}{}{What the fuck? Guards! We got an intruder!}
 {176}{}{Go in there and I'll blow your head off. Understand?}
-{177}{}{It's late and we're closed. Come back in the morning.}
+{177}{}{Já é tarde e estamos fechados. Volte pela manhã.}
