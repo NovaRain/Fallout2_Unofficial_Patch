@@ -167,7 +167,7 @@
 {230}{}{E que diabos seria isso?}
 {231}{}{Vai tirar o vício do sistema dela. Da próxima vez que ela pedir uma bebida, coloque isso dentro dela.}
 {232}{}{Bem... tudo bem. Agora, há mais alguma coisa que você queria?}
-{233}{}{I'm interested in getting something here.}
-{234}{}{What's going on in this town?}
-{300}{}{You helped cure Fannie's addiction.}
+{233}{}{Estou interessado em obter algo aqui.}
+{234}{}{O que está acontecendo nesta cidade?}
+{300}{}{Você ajudou a curar o vício de Fannie.}
 {301}{}{Adeus.}
