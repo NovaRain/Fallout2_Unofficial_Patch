@@ -17,5 +17,5 @@
 {115}{}{Desculpe, amigo. Vai te custar oitocentos.}
 {119}{}{Você precisa do dinheiro para pegar, amigo.}
 {120}{}{Eu volto com o dinheiro.}
-{121}{}{Not a problem. I'll have it dropped off right now.}
-{122}{}{Thought you'd just help yourself, huh? Damn thief... guards! Guards!}
+{121}{}{Sem problemas. Tenho que entregar agora mesmo.}
+{122}{}{Pensou em colar, não é? Maldito ladrão... guardas! Guardas!}
