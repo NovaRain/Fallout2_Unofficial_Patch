@@ -1,2 +1,2 @@
-{100}{}{You see a wanamingo.}
-{101}{}{The wanamingo really does not look too happy at having unexpected guests.}
+{100}{}{Você vê um wanamingo.}
+{101}{}{O wanamingo com certeza não parece muito feliz em ver convidados inesperados.}
