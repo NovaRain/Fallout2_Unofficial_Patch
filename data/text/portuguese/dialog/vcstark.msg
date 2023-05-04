@@ -289,4 +289,4 @@
 {387}{}{The Vault's right outside the door... ma'am.}
 {388}{}{You have scouted Gecko for Vault City.}
 {389}{}{You have scouted NCR for Vault City.}
-{390}{}{Like what... ma'am?}
+{390}{}{Como o que... senhora?}
