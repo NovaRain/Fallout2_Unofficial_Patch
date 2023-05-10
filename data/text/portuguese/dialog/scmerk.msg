@@ -43,11 +43,11 @@
 {142}{}{Provar como?}
 {143}{}{Você conhece alguém que gostaria de um pouco de jet?}
 {144}{}{Escute, eu sou}
-{145}{}{Right. Like I got to prove myself to you. Forget you, slugwort.}
-{146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
-{147}{}{Deal.}
-{148}{}{Whoa - I'm not that cold-blooded!}
-{149}{}{And they're gonna say you were a dumb ass. Boys-}
+{145}{}{Certo, como se eu tivesse que me provar para você. Esqueça, escoria.}
+{146}{}{Foi aquele maldito Doofus, não foi? Aquele drogado fala bem mais do que deve. Vou te dizer uma coisa: silencie ele pra mim (considere isso um favor) e depois a gente conversa.}
+{147}{}{É um trato.}
+{148}{}{Opa, eu não sou tão sangue frio!}
+{149}{}{E vão dizer que você era um babaca. Pessoal...}
 {150}{}{Interesting. Now who'd go saying something like that?}
 {151}{}{Don't bullshit me, fat man. If I don't get back what's mine, somebody'll be shopping for your burial suit.}
 {152}{}{Cute. You gonna answer my question or not?}
@@ -67,7 +67,7 @@
 {166}{}{My friend here knows how to make it. Interested?}
 {167}{}{Something illegal? No, I wouldn't do that.}
 {168}{}{Intriguing. I'll give you $1000 for his services.}
-{169}{}{Deal.}
+{169}{}{É um trato.}
 {170}{}{No, I can't do that to a friend.}
 {171}{}{Looks like we can do business, friend. Here's the deal - there's a loopy scientist in town - Dr. Henry. He's got some papers I'd like. I'll pay $1000 for them. Oh, and I don't want no harm to come to Dr Henry. He's useful alive. Interested? }
 {172}{}{Eu estou trabalhando nisso.}
