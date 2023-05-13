@@ -103,10 +103,12 @@ procedure map_enter_p_proc begin
    restock_fix
    if (local_var(LVAR_Restock_Time) < game_time) then begin
       ndebug("Should have restocked");
+      variable tmp_box = move_critical_items();
       check_restock_item(PID_BOOZE, 10, 20, 100)
       check_restock_item(PID_BEER, 20, 30, 100)
       check_restock_item(PID_NUKA_COLA, 10, 20, 100)
       check_restock_item(PID_BOTTLE_CAPS, 30, 60, 100)
+      call restore_critical_items(tmp_box);
       set_local_var(LVAR_Restock_Time, (random(1,4) * ONE_GAME_DAY) + game_time);
    end
 end
