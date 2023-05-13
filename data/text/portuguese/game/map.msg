@@ -175,7 +175,7 @@
 {309}{}{Vault 15: Nivel 2}
 {310}{}{Vault 15: Nivel 3}
 {311}{}{Invasores}
-{312}{}{}
+{312}{}{Invasores}
 {313}{}{}
 {314}{}{Invasores}
 {315}{}{}
