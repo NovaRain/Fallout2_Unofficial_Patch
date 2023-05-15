@@ -158,7 +158,7 @@
 {666}{}{Montanha}
 {667}{}{Deserto}
 {668}{}{Deserto}
-{670}{}{Stables}
+{670}{}{Estábulo}
 {1000}{}{Deserto}
 {1001}{}{Montanhas}
 {1002}{}{Cidade}
