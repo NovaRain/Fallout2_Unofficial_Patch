@@ -1,4 +1,4 @@
-// This file is for command.g differences between UP and RP.
+// This file is for command.h differences between UP and RP.
 // Its purpose is to keep actual command.h identical between UP and RP, easing maintenance.
 // Non-command.h additions should go to rpu.h.
 

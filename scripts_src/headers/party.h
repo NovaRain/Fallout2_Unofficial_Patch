@@ -223,6 +223,7 @@ variable How_Many_Party_Members_Armed;
          attempt_place_party_member(Jonny_Ptr, the_tile, the_elev)                  \
          attempt_place_party_member(Lloyd_Ptr, the_tile, the_elev)
 
+
 //#define Party_Childkiller                   (global_var(GVAR_PARTY_CHILDKILLER) BWAND Party_Childkiller_Mask)
 
 #define Childkiller_Vic                     ((global_var(GVAR_PARTY_CHILDKILLER) BWAND bit_2) and (Vic_Ptr != 0))
@@ -261,7 +262,7 @@ variable PartyHealingItem;
                                                 end                                                                             \
                                                 PartyHealingItem:=obj_carrying_pid_obj(who,PID_SUPER_STIMPAK);                  \
                                                 use_obj_on_obj(PartyHealingItem,who);                                           \
-                                                ndebug(obj_name(who)+" used super stimpak.");                                \
+                                                ndebug(obj_name(who)+" used super stimpak.");                                   \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_STIMPAK)) then begin                      \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -270,7 +271,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_STIMPAK),who);                      \
-                                                ndebug(obj_name(who)+" used stimpak.");                                      \
+                                                ndebug(obj_name(who)+" used stimpak.");                                         \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_HEALING_POWDER)) then begin               \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -279,7 +280,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_HEALING_POWDER),who);               \
-                                                ndebug(obj_name(who)+" used healing powder.");                               \
+                                                ndebug(obj_name(who)+" used healing powder.");                                  \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_DOCTORS_BAG)) then begin                  \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -288,7 +289,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_DOCTORS_BAG),who);                  \
-                                                ndebug(obj_name(who)+" used doctor's bag kit.");                             \
+                                                ndebug(obj_name(who)+" used doctor's bag kit.");                                \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_FIRST_AID_KIT)) then begin                \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -297,7 +298,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_FIRST_AID_KIT),who);                \
-                                                ndebug(obj_name(who)+" used First Aid kit.");                                \
+                                                ndebug(obj_name(who)+" used First Aid kit.");                                   \
                                              end                                                                                \
                                              else if (has_skill(who,SKILL_DOCTOR) > has_skill(who,SKILL_FIRST_AID)) then begin  \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -307,7 +308,7 @@ variable PartyHealingItem;
                                                 end                                                                             \
                                                 if (is_success(roll_vs_skill(who,SKILL_DOCTOR,0))) then begin                   \
                                                     critter_heal(who,random(10,25));                                            \
-                                                    ndebug(obj_name(who)+" healed some using doctor skill.");                \
+                                                    ndebug(obj_name(who)+" healed some using doctor skill.");                   \
                                                 end                                                                             \
                                              end                                                                                \
                                              else begin                                                                         \
@@ -318,7 +319,7 @@ variable PartyHealingItem;
                                                 end                                                                             \
                                                 if (is_success(roll_vs_skill(who,SKILL_FIRST_AID,0))) then begin                \
                                                     critter_heal(who,random(5,15));                                             \
-                                                    ndebug(obj_name(who)+" healed some using first aid skill.");             \
+                                                    ndebug(obj_name(who)+" healed some using first aid skill.");                \
                                                 end                                                                             \
                                              end
 
@@ -330,7 +331,7 @@ variable PartyHealingItem;
                                                 end                                                                             \
                                                 PartyHealingItem:=obj_carrying_pid_obj(who,PID_SUPER_STIMPAK);                  \
                                                 use_obj_on_obj(PartyHealingItem,who);                                           \
-                                                ndebug(obj_name(who)+" used super stimpak.");                                \
+                                                ndebug(obj_name(who)+" used super stimpak.");                                   \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_STIMPAK)) then begin                      \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -339,7 +340,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_STIMPAK),who);                      \
-                                                ndebug(obj_name(who)+" used stimpak.");                                      \
+                                                ndebug(obj_name(who)+" used stimpak.");                                         \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_HEALING_POWDER)) then begin               \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -348,7 +349,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_HEALING_POWDER),who);               \
-                                                ndebug(obj_name(who)+" used healing powder.");                               \
+                                                ndebug(obj_name(who)+" used healing powder.");                                  \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_DOCTORS_BAG)) then begin                  \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -357,7 +358,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_DOCTORS_BAG),who);                  \
-                                                ndebug(obj_name(who)+" used doctor's bag kit.");                             \
+                                                ndebug(obj_name(who)+" used doctor's bag kit.");                                \
                                              end                                                                                \
                                              else if (obj_is_carrying_obj_pid(who,PID_FIRST_AID_KIT)) then begin                \
                                                 if ((global_temp == 0) and (combat_is_initialized == false)) then begin         \
@@ -366,7 +367,7 @@ variable PartyHealingItem;
                                                    gfade_in(600);                                                               \
                                                 end                                                                             \
                                                 use_obj_on_obj(obj_carrying_pid_obj(who,PID_FIRST_AID_KIT),who);                \
-                                                ndebug(obj_name(who)+" used First Aid kit.");                                \
+                                                ndebug(obj_name(who)+" used First Aid kit.");                                   \
                                              end
 
 
@@ -432,7 +433,7 @@ variable tmp_hidden;
          set_p_hidden_flag(x)                                                                \
          set_obj_visibility(x, 1);                                                           \
       end else begin                                                                         \
-         ndebug("PARTY.H:::: no party member hidden because they already are invisible"); \
+         ndebug("PARTY.H:::: no party member hidden because they already are invisible");    \
       end                                                                                    \
    end
 
@@ -444,11 +445,11 @@ variable tmp_hidden;
             unset_p_hidden_flag(x)                                                        \
             set_obj_visibility(x, 0);                                                     \
          end else begin                                                                   \
-            ndebug("PARTY.H:::: party member wasn't hidden by my macro");              \
+            ndebug("PARTY.H:::: party member wasn't hidden by my macro");                 \
          end                                                                              \
       end else begin                                                                      \
          unset_p_hidden_flag(x)                                                           \
-         ndebug("PARTY.H:::: party member wasn't hidden.. clearing my state");         \
+         ndebug("PARTY.H:::: party member wasn't hidden.. clearing my state");            \
       end                                                                                 \
    end
 
@@ -476,6 +477,7 @@ variable tmp_hidden;
           else get_p_hidden_flag_obj(x, Robobrain_Human_Ptr, hidden_robobrain_human_bit, hidden)         \
           else get_p_hidden_flag_obj(x, Robobrain_Abnormal_Ptr, hidden_robobrain_abnormal_bit, hidden)   \
           else get_p_hidden_flag_obj(x, Robobrain_Chimp_Ptr, hidden_robobrain_chimp_bit, hidden)
+
 #define party_member_hidden(x, result)                                           \
    if (x) then begin                                                             \
       if (obj_is_visible_flag(x) == 0) then begin                                \
@@ -484,7 +486,7 @@ variable tmp_hidden;
             result := 1;                                                         \
          end else begin                                                          \
             result := 0;                                                         \
-            ndebug("PARTY.H:::: party member hidden but not my my macro.. "); \
+            ndebug("PARTY.H:::: party member hidden but not my my macro.. ");    \
          end                                                                     \
       end                                                                        \
    end
@@ -516,10 +518,10 @@ variable tmp_hidden;
 #define party_member_hide(the_obj, the_bit)                                                        \
          if (the_obj) then begin                                                                   \
             if (obj_is_visible_flag(the_obj)) then begin                                           \
-               ndebug("set party member hidden: " + obj_name(the_obj));                         \
+               ndebug("set party member hidden: " + obj_name(the_obj));                            \
                set_party_bit_hidden(the_bit, the_obj);                                             \
             end else begin                                                                         \
-               ndebug("PARTY.H:::: no party member hidden because they already are invisible"); \
+               ndebug("PARTY.H:::: no party member hidden because they already are invisible");    \
             end                                                                                    \
          end
 #define party_member_hide_all                                                       \
@@ -551,11 +553,11 @@ variable tmp_hidden;
                if (party_bit_hidden(the_bit)) then begin                                        \
                   set_party_bit_unhidden(the_bit, the_obj);                                     \
                end else begin                                                                   \
-                  ndebug("PARTY.H:::: party member wasn't hidden by my macro");              \
+                  ndebug("PARTY.H:::: party member wasn't hidden by my macro");                 \
                end                                                                              \
             end else begin                                                                      \
                set_party_bit_unhidden(the_bit, the_obj);                                        \
-               ndebug("PARTY.H:::: party member wasn't hidden.. clearing my state");         \
+               ndebug("PARTY.H:::: party member wasn't hidden.. clearing my state");            \
             end                                                                                 \
          end
 #define party_member_unhide_all                                                        \
@@ -736,7 +738,7 @@ variable tmp_hidden;
 // party member abandons party macros
 #define abandoned_party                      (local_var(LVAR_TEAM) == -1)
 #define set_self_abandon_party               if (obj_in_party(self_obj)) then begin                                                \
-                                                ndebug("abandon party: " + self_name);                                          \
+                                                ndebug("abandon party: " + self_name);                                             \
                                                 party_remove_self;                                                                 \
                                              end                                                                                   \
                                              if ((self_pid == PID_MIRIA) or (self_pid == PID_DAVIN)) then begin                    \
