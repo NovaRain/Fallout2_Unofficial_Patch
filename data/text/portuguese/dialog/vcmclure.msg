@@ -242,6 +242,6 @@
  of the technicians at the Gecko plant would know how to optimize the plant?}
 {341}{}{Talvez. Eu tenho algumas outras perguntas...}
 {342}{}{Maybe so. I'll go see.}
-{343}{}{You told McClure about the Jet antidote delivery.}
-{344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
+{343}{}{Você contou a McClure sobre a entrega do antídoto do jet.}
+{344}{}{O disco mostra que, como a usina agora está totalmente funcional e otimizada, ela pode produzir uma grande quantidade de energia. Muito mais do que Gecko precisa. Vault City poderia usar essa energia. Acho que o conselho deveria considerar o que este disco tem a oferecer.}
 {345}{}{Isso é muito interessante.}
