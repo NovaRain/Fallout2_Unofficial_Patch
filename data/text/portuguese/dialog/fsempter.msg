@@ -35,7 +35,7 @@
 {134}{}{O lançamento espacial do Hubologist tem 95% de probabilidade de falhar. Fatores: Sem combustível, selante impróprio, liderança deficiente, falta de iniciativa.}
 {135}{}{15% de chance de o "Escolhido" designado ter sucesso na tarefa.}
 {136}{}{Os dados indicam que a "Enclave" é mais poderosa do que se acreditava anteriormente; não se aproxime.}
-{137}{}{Chances of submarine reappearing in this game: 0%}
+{137}{}{Chances do submarino reaparecer neste game: 0%}
 {138}{}{0% de chance de eliminar a infestação de criaturas no petroleiro sem ajuda externa. Processando conveniência para fornecer assistência.}
 {139}{}{Entrada: Petroleiro Poseidon impróprio para viagens. Requer mais informações.}
 {140}{}{Não processado. Requer mais dados.}

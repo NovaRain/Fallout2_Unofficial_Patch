@@ -11,7 +11,7 @@
 {110}{}{Nada.}
 {111}{}{Eu sou o Capitão. Dirijo esse barco. Se tiver mais perguntas, vá falar com um dos Shi ou Badger ou qualquer outro. Não tenho tempo pra você.}
 {112}{}{[FEITO]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
+{113}{}{Este navio é um petroleiro Poseidon. Está equipado com tecnologia que durou durante a guerra. Ele tem um FOB que permite o acesso à sala do computador de navegação e um transponder IFF que o protege dos canhões Poseidon.}
 {114}{}{Como você sabe tudo isso?}
 {115}{}{O que é um transpondedor IFF?}
 {116}{}{Como faz para zarpar?}
@@ -21,7 +21,7 @@
 {120}{}{O que exatamente é a Enclave?}
 {121}{}{Como você faz essa coisa funcionar?}
 {122}{}{Adeus.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{Como você pilota este equipamento? Encha-o com um pouco de gasolina - tente os Hubologistas ou o Shi depois de cuidar de todo o resto - e pressione o botão. O computador cuidará do resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo e eles não atirarão em você porque você tem o transponder IFF. Apenas certifique-se de ter o que precisa para acessar tudo: FOB, computador de trabalho e combustível. Fácil o bastante, né?}
 {124}{}{Certo. Como você sabe tudo isso?}
 {125}{}{O que seria um transpondedor IFF e um FOB?}
 {126}{}{Qual plataforma de petróleo?}
@@ -50,8 +50,8 @@
 {149}{}{Entendi. Pode repetir como posso pilotar?}
 {150}{}{Obrigado. Tchau.}
 {151}{}{Você cometeu um grande erro mexendo com o capitão e seus amigos...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
+{152}{}{Como você pilota este equipamento? Bem, vejo que você já o abasteceu. Depois de cuidar de todo o resto, basta pressionar o botão. O computador cuidará do resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo e eles não atirarão em você porque você tem o transponder IFF. Apenas certifique-se de ter o que precisa para acessar tudo: FOB, computador de trabalho e combustível. Fácil o bastante, né?}
+{153}{}{Oh, sim. Você tem que fazer o computador de navegação funcionar também. Aposto que você encontraria peças para ele em uma daquelas vaults antigas.}
 {154}{}{Eai, que bom te ver. Do que precisa?}
 {155}{}{, e a menos que eu perca minha aposta, seus amigos também estão lá.}
 {156}{}{.}

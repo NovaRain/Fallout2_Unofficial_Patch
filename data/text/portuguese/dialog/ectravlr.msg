@@ -52,5 +52,5 @@ algum dia. Limpo, boa gente, e muito bem conservado. Ele está localizado aqui n
 {1109}{}{Redding.}
 {1110}{}{The Den.}
 {1111}{}{San Francisco.}
-{1112}{}{New California Republic.}
+{1112}{}{República da Nova Califórnia.}
 {1113}{}{Uma mina abandonada.}
