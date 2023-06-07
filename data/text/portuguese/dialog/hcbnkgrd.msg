@@ -37,7 +37,7 @@
 {136}{}{Tudo certo.}
 {137}{}{Você! Mas que merda que tá fazendo? Saia já daqui!}
 {138}{}{É melhor ir guardando suas armas agora, amigo.}
-{139}{}{You again? Do you actually need something?}
+{139}{}{Você de novo? Você precisa de alguma coisa?}
 {140}{}{Apenas olhando por aí.}
 {141}{}{Err... Não, na verdade não.}
 {142}{}{Sim. Estou aqui para falar com seus prisioneiros.}

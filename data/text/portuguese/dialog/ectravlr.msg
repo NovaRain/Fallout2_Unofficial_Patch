@@ -39,7 +39,7 @@ algum dia. Limpo, boa gente, e muito bem conservado. Ele está localizado aqui n
 {140}{}{Eu realmente deveria ir agora. Foi legal conversar com você.}
 {141}{}{Talvez vamos nos encontrar novamente.}
 {142}{}{Eu quero chegar a próxima cidade ao cair da noite. É melhor eu ir.}
-{143}{}{I'd better be going.}
+{143}{}{É melhor eu ir.}
 {144}{}{Uma emboscada!}
 {145}{}{Não pode confiar em alguém nos dias de hoje.}
 {146}{}{Você quebrou o código do viajante.}
@@ -47,7 +47,7 @@ algum dia. Limpo, boa gente, e muito bem conservado. Ele está localizado aqui n
 {148}{}{Eu ultrapassei minha saudação.}
 {149}{}{Eu devo partir.}
 {150}{}{Obrigado. Preciso de direções para outros lugares.}
-{1107}{}{New Reno.}
+{1107}{}{New Reno}
 {1108}{}{Vault City.}
 {1109}{}{Redding.}
 {1110}{}{The Den.}

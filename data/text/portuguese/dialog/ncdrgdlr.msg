@@ -28,7 +28,7 @@
  bem?}
 {231}{}{Então você está procurando fazer uma festa com uns Jet, amigo? Você veio ao lugar certo. Para você, TUDO do estoque especial.}
 {232}{}{Eu tenho Jet suficiente pra te colocar em órbita, meu caro amigo. E para você: um desconto. Vamos falar de preços?}
-{233}{}{Eu tenho a parada que vai ajudar você a beijar o céu, amigo.  E para você: um desconto. O que você acha?}
+{233}{}{Eu tenho a parada que vai ajudar você a beijar o céu, amigo. E para você: um desconto. O que você acha?}
 {234}{}{O mínimo que eu posso fazer é marcar meu estoque para VOCÊ, amigo. É meu jeito de ser amigável.}
 {235}{}{Você tem classe, sabia disso? Classe. E quando alguém com classe negocia comigo, eles ganham um desconto no
  estoque, sabia?}
@@ -37,7 +37,7 @@
 {238}{}{Hey, Estou na presença do grandioso. Para VOCÊ, amigo, meu estoque especial. Fale de mim para todos os seus amigos, tudo bem?}
 {239}{}{Então você está procurando fazer uma festa com uns Jet, amiga? Você veio ao lugar certo. Para você, TUDO do estoque especial.}
 {240}{}{Eu tenho Jet suficiente pra te colocar em órbita, minha cara amiga. E para você: um desconto. Vamos falar de preços?}
-{241}{}{Eu tenho a parada que vai ajudar você a beijar o céu, moça.  E para você: um desconto. O que você acha?}
+{241}{}{Eu tenho a parada que vai ajudar você a beijar o céu, moça. E para você: um desconto. O que você acha?}
 {242}{}{O mínimo que eu posso fazer é marcar meu estoque para VOCÊ, moça. É meu jeito de ser amigável.}
 {247}{}{Eu sei o que você ta procurando, slaver, e eu tenho bem aqui. Todo o Jet que você PRECISA.}
 {248}{}{Por que andar quando você pode VOAR? Você quer Jet, eu tenho aqui.}

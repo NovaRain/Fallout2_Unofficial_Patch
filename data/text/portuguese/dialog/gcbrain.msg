@@ -32,7 +32,7 @@
 {180}{}{Não me importa onde você o encontrou. A questão é se você pretende juntar-se a nós e usá-lo
  seriamente. }
 {181}{}{Juntar-me a vocês? O que quer dizer com isso?}
-{182}{}{Eu prefiro limpar sua gaiola a  me juntar a vocês.}
+{182}{}{Eu prefiro limpar sua gaiola a me juntar a vocês.}
 {187}{}{O que você quer que eu faça?}
 {190}{}{Bem, como parte do meu plano de governar o mundo, eu pretendo recompensar meus seguidores ghouls achando um
  modo de recuperar a humanidade deles.}
@@ -83,8 +83,8 @@
  um relatório econômico que detalha como o reparo beneficia Vault City. Deixarei que
  nossos companheiros aqui de Gecko saibam de sua missão.}
 {282}{}{Isso é ótimo, mas quem em Vault City poderia ao menos pensar em ler essa coisa?}
-{283}{}{Por que você não fala com aquele velho chato, aquele saco fedido, o Festus, na  Usina e
- veja se ele cospe alguma informação útil daquele crânio podre. Ele deve saber os motivos para fazer a  otimização da Usina.
+{283}{}{Por que você não fala com aquele velho chato, aquele saco fedido, o Festus, na Usina e
+ veja se ele cospe alguma informação útil daquele crânio podre. Ele deve saber os motivos para fazer a otimização da Usina.
  Deixarei que nossos companheiros aqui de Gecko saberem da sua missão.}
 {284}{}{Isso parece ser um boa idéia. Tchau.}
 {290}{}{Acho que aquele McClure é o único membro do Concelho em Vault City com cérebro suficiente capaz de
@@ -200,7 +200,7 @@ pouco mais fora da cidade fazem minha fama.}
 {621}{}{Mas você é apenas um rato gigante.}
 {622}{}{Você disse algo sobre juntar-se a você?}
 {630}{}{As ações que eu proponho beneficiarão milhares de cidadãos de Vault City e Gecko. Você pode não 
- se importar comigo ou com meus motivos, mas ainda assim  os resultados
+ se importar comigo ou com meus motivos, mas ainda assim os resultados
  são promissores.}
 {631}{}{Você recebeu o Reactor Data disk, agora deve usá-lo.}
 {632}{}{Você teve o Reactor Data disk analisado, agora deve fazer algo com ele.}

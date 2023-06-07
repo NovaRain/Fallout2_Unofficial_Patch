@@ -7,9 +7,9 @@
 {106}{}{Hurry back.}
 {107}{}{We'll need those guns soon.}
 {108}{}{Olá.}
-{109}{}{Leave now!}
-{110}{}{Go back to where you came from!}
+{109}{}{Saia agora!}
+{110}{}{Volte para onde você veio!}
 {111}{}{Saia já daqui!}
-{112}{}{We're safe now.}
+{112}{}{Estamos seguros agora.}
 {113}{}{Obrigado.}
 {114}{}{Bless you, wanderer.}

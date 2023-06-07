@@ -76,7 +76,7 @@
 {159}{}{Eu vou embora.}
 {160}{}{Tá bom, deixe. Não, obrigado.}
 {161}{}{Seja o que for.}
-{162}{}{Hi, friend!}
+{162}{}{Olá, amigo!}
 {163}{}{Oh, good. It's you again.}
 {164}{}{Olá.}
 {165}{}{Você vê, eu sabia o que aqueles babacas do Franc, Manson, Jacob e Aileen tinham reservado para nós. Bem feito! Assim…}

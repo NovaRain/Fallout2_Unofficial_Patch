@@ -76,7 +76,7 @@
 {175}{}{É. Tchau.}
 {176}{}{Estou ansioso para ver o resultado da sua tentativa. Tenha um bom dia.}
 {177}{}{Bom dia.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say there is no submarine.}
+{178}{}{Repreendendo alguém? Qualquer tolo que tenha feito sua pesquisa pode ver que a base da cidade de Shi é o destroço desse submarino. Parece infrutífero argumentar com aqueles que diriam o contrário.}
 {179}{}{Você é muito bem humorado.}
 {180}{}{Certamente é. E eu lido com essas pessoas diariamente. Ai de mim!}
 {181}{}{Bem, eu tenho mais perguntas.}

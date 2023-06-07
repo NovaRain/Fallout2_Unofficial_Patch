@@ -58,7 +58,7 @@
 {191}{}{Até logo!}
 {192}{}{Primeiro, precisamos dos planos do vertibird para nos assegurar que a aerodinâmica está bem. Se você pode fazer isso, verifique com o Shi ou suba aquela antiga base em Navarro.}
 {193}{}{Lembre-se, você está encontrando os planos dos vertibirds para nós. Tente com os Shi ou aquela antiga base de Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
+{194}{}{Ninguém conseguiu obter planos para os vertibirds do Shi, ou daquela velha base em Navarro. Você reconsiderou nos ajudar?}
 {195}{}{Lembre-se, recruta! As miseráveis dos Shi possuem os planos.}
 {196}{}{Tenho os planos para o vertibird.}
 {197}{}{Esqueça.}
