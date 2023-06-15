@@ -29,9 +29,9 @@
 {142}{}{Eu tenho mais perguntas.}
 {143}{}{Adeus.}
 {144}{}{Como o quê?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
+{145}{}{Ele suspeita que você está desviando o dinheiro que deveria ir para Broken Hills.}
 {146}{}{Na verdade nada, adeus.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
+{147}{}{Olha, eu não gosto que me acusem de algo que eu não de nada. Sugiro que você saia.}
 {150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Fale com o Bill. Ele irá te ajudar.}
 {157}{}{Eu tenho mais perguntas.}
