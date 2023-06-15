@@ -90,7 +90,7 @@
 {189}{}{Jacob e Aileen me pediram para tirar duas pessoas da cadeia. Acho que eles têm um plano de como fazer isso.}
 {190}{}{Jacob e Aileen querem que eu exploda a mina. Achei que você gostaria de saber.}
 {191}{}{Um cientista da NCR quer testar uma droga experimental que vai acabar com os mutantes. Cuidado com o que você come e bebe.}
-{192}{}{Chad took $6000 from the rep in Gecko. The rep was complaining about the price... said it'd been going up.}
+{192}{}{Chad pegou $6.000 do representante em Gecko. O representante reclamou do preço... disse que estava subindo.}
 {193}{}{Chad embolsou US$ 1.000 do último carregamento de urânio e agora está planejando fugir da cidade. Eu tenho uma pasta com documentos que provam isso.}
 {194}{}{Nada. Esqueça.}
 {195}{mcs24}{Túneis por baixo da cidade? Não é tão surpreendente com sabendo das minas ao redor. Você vai continuar procurando por essas pessoas, certo? }

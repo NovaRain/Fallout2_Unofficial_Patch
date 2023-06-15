@@ -133,7 +133,7 @@
 {472}{}{Sim, entreguei a Ramirez como você pediu.}
 {473}{}{Sim, eu fui aos estábulos e deixei seu pacote... você sabe o que eles FAZEM lá? Eles estão torturando escravos
  com drogas.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Sim, eu dei seu pacote para aquele guarda, Ramirez... você sabe que aquele cara é viciado em jet? Ele até FEDIA fumaça daquilo.}
 {480}{}{Então por que você está aqui? (Grande Jesus enxuga a testa e respira fundo.) POR QUE você não entregou o pacote?}
 {481}{}{Bem, eu tinha algumas perguntas primeiro...}
 {482}{}{Vou fazer isso agora mesmo.}
@@ -209,11 +209,11 @@
 {660}{}{Louis Salvatore continua vivo. Por que você voltou?}
 {661}{}{(Uma gota de suor escorre pelo rosto de Mordino.) Você fez o que eu pedi? Louis Salvatore está morto?}
 {662}{}{Está morto. Sua família está vingada, Senor Mordino.}
-{663}{}{No, I shall return when I have killed him.}
+{663}{}{Não, voltarei quando o tiver matado.}
 {664}{}{Salvatore é muito bem protegido. Vou ter que cancelar este trabalho.}
 {670}{}{Se você... fugir desse trabalho, eu vou te matar... MATAR.}
 {671}{}{Já que é dessa forma, eu retornarei quando ele estiver morto.}
-{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
+{672}{}{Tente qualquer coisa e você se juntará aos Mordinos que os Salvatores massacraram.}
 {680}{}{Então eu ouvi. (Acena respeitosamente.) Você fez... bem. Minha fé em você não era atoa. Aqui esta o seu
  pagamento. Quinhentas... tampas.}
 {681}{}{Obrigado.}

@@ -59,8 +59,8 @@
 {281}{}{Obrigado. Agora não tenho que me arriscar lá fora -- mesmo que isso tenha me custado $65. Aqui esta seu dinheiro. Tem alguma pergunta que eu possa responder pra você?}
 {282}{}{Sim, diga-me o que está acontecendo na cidade ultimamente.}
 {283}{}{Não, muito obrigado, Bob. Acredito que já tenho tudo que preciso.}
-{290}{}{All sorts of things going on hereabouts lately. We've got brahmin mutilators, walking spirits,
- gigantical rats, and missing people. Some even say the Den's involved.}
+{290}{}{Todo tipo de coisa acontecendo por aqui ultimamente. Temos mutiladores de brahmins,
+ espíritos ambulantes, ratos gigantescos e pessoas desaparecidas. Alguns até dizem que o Den está envolvido.}
 {291}{}{Fale sobre as mutilações de brahmins.}
 {292}{}{Fale sobre os espíritos andantes.}
 {293}{}{Ratos gigantes!? Fale mais sobre eles.}

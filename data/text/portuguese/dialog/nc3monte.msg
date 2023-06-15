@@ -46,9 +46,9 @@
  Nada passa por ele... e se aconteceu, então deve ter um dedo nele, entendeu o que eu disse?}
 {540}{}{(Dá de ombros) Eu ouço coisas, eu vejo coisas. Por 200 fichas, talvez você possa ouvir um pouco da minha experiência, entendeu o que eu disse?}
 {550}{}{Você é surdo? EU DISSE 200 fichas, só com isso.}
-{555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
- weapon upgrades, but I never see him do any work. You might want to check out his place... but
-  you didn't hear that from me.}
+{555}{}{Feito. (Monte se aproxima) Bem, conhece aquele tal de Eldridge, que comanda em Armas de
+ New Reno? Ele DIZ que faz melhorias em armas, mas nunca o vejo fazer nenhum trabalho. Você
+ pode querer olhar a casa dele... mas você não ouviu isso de mim.}
 {560}{}{O cemitério ao sul da cidade. Fede até quase você perder a consciência, isso é certo.}
 {565}{}{Minhas apostas são em Renesco, aquele velho fudido que gerencia a farmácia na zona
  oeste. Eu não tenho certeza se ele vendeu algo para o garoto, mas ele sabe de ALGUMA COISA. (Olha ao redor) Isso é tudo que vou dizer.}

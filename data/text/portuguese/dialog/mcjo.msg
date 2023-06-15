@@ -66,10 +66,10 @@
  estranhas brilhantes cuidando das plantações e alimentando os animais à noite. Nós só rimos dele,
  achamos que eram só histórias bestas. Então, um dia, Karl parou de vir à cidade.}
 {201}{}{O que aconteceu com ele? Você o procurou?}
-{202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
- tremble violently.] The horror. Bodies strewn everywhere. Some crucified, while others were
- left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
- images I saw that day.}
+{202}{}{Claro que sim! Subimos lá assim que suspeitamos que algo estava errado. [Ele começa a tremer
+ violentamente.] Que horror. Corpos espalhados por toda parte. Alguns crucificados, enquanto
+ outros foram deixados para apodrecer ao sol. Ainda acordo gritando no meio da noite com as
+ imagens horríveis que vi naquele dia.}
 {203}{}{Então, deixe-me adivinhar. Você quer que eu vá a esta fazenda e descubra o que aconteceu.}
 {204}{}{Normalmente, eu deixaria aquele lugar maldito, mas por alguma razão as colheitas lá na fazenda
  estão florescendo apesar da seca. Vamos morrer de fome se não conseguirmos comida logo.

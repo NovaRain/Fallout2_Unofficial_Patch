@@ -11,15 +11,15 @@
 {109}{}{Quem é você?}
 {110}{}{Ah, bom, um idiota. Afetado pela radiação, hein, cara? Não consigo entender nada, não posso te ajudar.}
 {111}{}{Eu disse que não posso te ajudar! Vá embora e encha o saco de outro!}
-{112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
- works. There's the saloon. There's the caravaneers, and there's the general store. That's about it.
- Wait... what were we talking about?}
+{112}{}{O que tem para fazer? Bem, a mina fechou porque não temos um purificador de ar que
+ funcione. Ali tem o salão, tem os caravaneiros e o armazém geral. Isso é tudo. Espere, sobre o que
+ nós estávamos conversando?}
 {113}{}{Com quem eu falo sobre a mina?}
 {114}{}{Onde está o salão?}
 {115}{}{Onde estão os caravaneiros?}
 {116}{}{Onde fica o armazém geral?}
 {117}{}{Obrigado. Tchau.}
-{118}{}{Just one of the miners. Do you want someone important?}
+{118}{}{Só um dos mineiros. Procura alguém importante?}
 {119}{}{Sim.}
 {120}{}{Não.}
 {121}{}{Adeus.}

@@ -80,9 +80,9 @@
 {282}{}{Estou feliz por ter sido capaz de ajudá-lo; de fato, os $50 não machucaram também.}
 {283}{}{Bem, Tenho certeza de que dormirei mais fácil sabendo que Klamath está salvo da bebida do Bob.}
 {284}{}{Sem peso na minha consciência, camarada.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
- brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
- become a real hot spot lately.}
+{290}{}{Bem, vamos ver. Todo tipo de coisa acontece nessa cidade ultimamente. (Conta nos dedos)
+ Tem homens Inseto mutiladores de brahmins, roedores de tamanho incomum, um espírito ambulante e
+ um caçador desaparecido. Klamath se tornou um lugar problemático ultimamente.}
 {291}{}{Diga-me sobre os homens-inseto multiladores de brahmin, por favor.}
 {292}{}{Diga-me sobre os Ratos, por favor.}
 {293}{}{Diga-me sobre o espírito ambulante, por favor.}

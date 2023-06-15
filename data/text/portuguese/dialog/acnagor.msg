@@ -40,7 +40,7 @@
  falar muito sobre os tempos difíceis que estão por vir.}
 {201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi
  falar muito sobre os tempos difíceis que estão por vir.}
-{202}{}{Eu ainda olho, Nagor.}
+{202}{}{Eu ainda estou olhando, Nagor.}
 {203}{}{Eu ainda estou procurando, primo.}
 {204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já
  encontrou o vault treze e o GECK?}
