@@ -12,16 +12,16 @@
 {110}{}{Sou o Max. Sou um dos guardas da caravana.}
 {111}{}{O que você pode me dizer sobre Chad?}
 {112}{}{Obrigado. Tchau.}
-{113}{}{I don't like him much. He seems to get always some extra money from his caravan jobs. It's really unfair.}
-{114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
+{113}{}{Eu não gosto muito dele. Ele parece sempre conseguir algum dinheiro extra de seus trabalhos de caravana. É realmente injusto.}
+{114}{}{Bem, Marcus suspeita que está desviando parte do dinheiro que deveria ir para Broken Hills.}
 {115}{}{Obrigado. Tchau.}
-{116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
+{116}{}{Obrigado, estou muito feliz por isso ter acabado. É melhor você ver a sua volta.}
 {117}{}{Adeus.}
 {118}{}{Ele é um inimigo! Morra!}
 {119}{}{Oops.}
-{120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
+{120}{}{[Abaixa a voz e olha em volta] Deve ser isso. Uma vez eu vi que ele estava pegando uma "fatia" daquele dinheiro que conseguiu com o carregamento de urânio de Gecko.}
 {121}{}{Really? Then why didn't you report that to Marcus?}
-{122}{}{Are you duff? If I go to tell it, a lot of people in this town won't even look at me. Besides I might get some kind of revenge.}
-{123}{}{Hmm, I could tell it about to Marcus, cause I don't plan to stay here too long anyway.}
-{124}{}{Ok. Do what you want, but don't tell anything about me. And we never had this conversation, ok?}
+{122}{}{Você é idiota? Se eu for contar, muita gente nesta cidade nem vai olhar na minha cara. Além disso, poderia haver alguma vingança.}
+{123}{}{Hmm, eu poderia contar isso para Marcus, porque eu não pretendo ficar aqui por muito tempo de qualquer maneira.}
+{124}{}{OK. Faça o que quiser, mas não conte nada sobre mim. E nunca tivemos essa conversa, ok?}
 {125}{}{Don't worry, I don't want to get you in any trouble, bye.}

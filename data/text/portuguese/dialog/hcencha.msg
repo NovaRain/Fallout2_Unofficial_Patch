@@ -46,8 +46,8 @@
 {137}{}{Fale com o Bill, como sempre.}
 {138}{}{Tudo bem.}
 {139}{}{Depois do que aconteceu com Chad? Acho que não. Algo mais?}
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
- earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
+{140}{}{E estamos aqui, pegue seus $500. Se você quiser voltar, saímos no fim do dia. Você também
+ ganhará o dinheiro na volta, se quiser. De uma forma ou de outra, porém, vamos embora.}
 {141}{}{Até mais.}
 {142}{}{Você está pronto para sair?}
 {143}{}{Obrigado. Aqui estão seus $500. Se quiser outro trabalho é só falar com Bill.}

@@ -91,8 +91,8 @@
 {178}{}{Você faz uma careta ao sentir o gosto e então percebe que está queimando você por dentro. Ai. OUCH.
  DEUS DO CÉU!! Está derretendo suas tripas! }
 {179}{}{Parece farinha, mas você consegue engolir. Estranhamente, você se sente um pouco melhor agora.}
-{180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
- spitting and gagging. You've been irradiated!}
+{180}{}{Ah, que inferno. Apesar da aparência, você engoliu essa bebida desagradável. Você imediatamente
+ começa a cuspir e engasgar, acabou de ser irradiado!}
 {181}{}{[FEITO]}
 {182}{}{Bem... ok. Lembrando-se das coisas que você bebeu quando era pirralho, você
  inclina o jarro para trás e o deixa fluir. Esse liquido cai como uma bomba quando atinge o estômago. 
