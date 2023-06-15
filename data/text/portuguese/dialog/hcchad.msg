@@ -7,8 +7,8 @@
 {122}{}{Deerk deegler!}
 {123}{}{Você quem?}
 {124}{}{Marcus tem feito algumas perguntas sobre você.}
-{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
-{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Há provas suficientes para prendê-lo por roubar dinheiro que deveria ir para Broken Hills. Você vai se ferrar.}
+{126}{}{Há provas suficientes para te prender por roubar dinheiro que deveria ir para Broken Hills. Me pague US$ 1.000 e garanto que você pode fugir da cidade.}
 {127}{}{Quem é você?}
 {128}{}{Conte-me sobre este lugar.}
 {129}{}{Nada. Tchau.}
@@ -16,7 +16,7 @@
 {131}{}{A-deus!}
 {132}{}{Eu sou Chad. }
 {133}{}{Olha, eu estou muito ocupado. Por favor encontre outra pessoa para importunar.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
+{134}{}{Sou o chefe da caravana da cidade. Eu cuido dos negócios do outro lado das rotas comerciais. Hoje em dia estou me concentrando principalmente em Gecko.}
 {135}{}{Tudo bem!}
 {136}{}{Eu gostaria trabalhar com você.}
 {137}{}{Me sua interessante.}
