@@ -147,7 +147,7 @@
 #define GVAR_TORR_SEARCH_SUCCESS             (72)
 #define GVAR_TRAPPER_RETURNED                (73)
 //#define GVAR_DUNTONS_ANGRY                   (74) //this is unused - killap
-#define GVAR_TORR_BRAHMIN_KILLED             (74) //moved here - killap
+#define GVAR_TORR_BRAHMIN_KILLED             (74) //moved here by killap
 #define GVAR_RUSTLE_FAIL_VIOLENT             (75)
 #define GVAR_RUSTLE_FAIL                     (76)
 #define GVAR_RUSTLE_SUCCESS                  (77)
@@ -164,7 +164,7 @@
 #define GVAR_SMILEY_STATUS                   (197)
 #define GVAR_STILL_STATUS                    (198)
 #define GVAR_STILL_FAILURE                   (199)
-//#define GVAR_TORR_BRAHMIN_KILLED             (202) //moved - killap
+//#define GVAR_TORR_BRAHMIN_KILLED             (202)
 #define GVAR_ENEMY_TORR                      (203)
 #define GVAR_ENEMY_DUNTON                    (204)
 #define GVAR_ENEMY_SMILEY                    (205)
@@ -688,7 +688,7 @@
 #define GVAR_MUTATE_STAGE                   (193)
 #define GVAR_GRAVE_FLAGS_1                  (200)
 #define GVAR_GRAVE_FLAGS_2                  (201)
-#define GVAR_GRAVE_FLAGS_3                  (202) //was used for GVAR_TORR_BRAHMIN_KILLED
+#define GVAR_GRAVE_FLAGS_3                  (202)
 #define GVAR_8_BALL_TOILET_SECRET           (245) //was shared with GVAR_NCR_GENERIC_STATE, taking an unused gvar for this
 #define GVAR_8_BALL_TRASH_SECRET            (244)
 #define GVAR_8_BALL_VAULT_TERMINAL          (599)

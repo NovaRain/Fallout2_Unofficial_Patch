@@ -175,7 +175,7 @@
 {309}{}{Refugio 15: Nivel 2}
 {310}{}{Refugio 15: Nivel 3}
 {311}{}{Moradores}
-{312}{}{}
+{312}{}{Moradores}
 {313}{}{}
 {314}{}{Moradores}
 {315}{}{}
