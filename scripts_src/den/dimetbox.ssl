@@ -55,6 +55,7 @@ procedure map_enter_p_proc begin
             destroy_object(the_box_to_kill);
          end
 
+         variable tmp_box = move_critical_items();
          self_caps_adjust(random(5, 250) - self_caps);
          check_restock_item(PID_SPEAR, 0, 7, 100)
          check_restock_item(PID_KNIFE, 0, 11, 100)
@@ -65,6 +66,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_HEALING_POWDER, 0, 4, 100)
          check_restock_item(PID_XANDER_ROOT, 0, 13, 100)
          check_restock_item(PID_FLOWER, 0, 7, 100)
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (random(1,5) * ONE_GAME_DAY) + game_time);
       end
    end
