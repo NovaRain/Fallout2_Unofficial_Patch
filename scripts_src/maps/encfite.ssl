@@ -63,6 +63,7 @@ procedure map_enter_p_proc begin
 
    Enclave_Lighting;
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   mark_on_map(AREA_THE_ENCLAVE)  // player cannot see the world map while on the oil rig so it's fine
 end
 
 procedure map_update_p_proc begin
@@ -83,8 +84,9 @@ procedure map_exit_p_proc begin
    if (global_var(GVAR_ENCLAVE_FRANK_DEAD) == 1) then begin
       set_global_var(GVAR_ENCLAVE_FRANK_DEAD, 2);
       set_global_var(GVAR_ENCLAVE_COUNTDOWN, 0);
+      unmark_on_map(AREA_THE_ENCLAVE)  // no unreachable "Enclave" location circle on the world map
       gfade_out(600);
-      game_time_advance(ONE_GAME_DAY); //added by killap
+      game_time_advance(ONE_GAME_DAY);
       set_global_var(GVAR_ARROYO_RETURN_GECK,1);
       play_gmovie(DERRICK_MOVIE);
       endgame_slideshow;
