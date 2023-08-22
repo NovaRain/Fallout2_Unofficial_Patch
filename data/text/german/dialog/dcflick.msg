@@ -31,7 +31,7 @@
 {301}{}{Äh, nein.}
 {302}{}{Oh, OK. Dann möcht ich dich was anderes fragen.}
 {303}{}{Ah, ich verstehe. Nun, ich will dich nicht, äh, einschränken. Wiedersehn.}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht. Dafür kümmere ich mich um sie.}
 {316}{}{Hört sich ja nach einer guten Abmachung an.}
 {325}{}{[Flick zuckt mit den Schultern.] Ich komm ganz gut zurecht.}
 {326}{}{Ich will dich dann noch was anderes fragen.}

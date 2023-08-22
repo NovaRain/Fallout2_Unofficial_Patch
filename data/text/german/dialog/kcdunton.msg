@@ -1,5 +1,4 @@
-{100}{}{You see one of two very similar looking men -- they could be twins.
- Both are heavily muscled and have beetling brows.}
+{100}{}{Du siehst einen von zwei sich sehr ähnelnden Männern — sie könnten Zwillinge sein. Sie sind beide ziemlich muskulös und haben buschige Augenbrauen.}
 {101}{}{Du siehst entweder Chuck oder Buck Dunton - sie sehen sich so ähnlich, dass du nicht sicher bist, welcher von beiden es ist.}
 {102}{}{Du siehst einen großen, sehr muskulösen Mann, dessen Gesicht unter den buschigen Augenbrauen ständig zu einem tyrannischen, finsteren Grinsen verzerrt ist. Er sieht genauso aus wie sein Bruder.}
 {110}{}{Du verkrümelst dich besser, oder mein Bruder und ich machen dich zu Brei.}

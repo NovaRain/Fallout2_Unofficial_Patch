@@ -121,7 +121,7 @@
 {471}{}{Nein, ich hab das Paket noch nicht abgeliefert.}
 {472}{}{Ja, ich habe das Paket zu Ramirez gebracht, wie du es verlangt hast.}
 {473}{}{Ja, ich war in den Ställen und habe dein Paket abgegeben... weißt du, dass Sie Sklaven mit Jet quälen?}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Ja, ich habe dein Paket dem Wachposten Ramirez gegeben... Weißt du, dass dieser Kerl bis obenhin voll ist mit Jet? Er hat das Jet förmlich AUSGEDÜNSTET.}
 {480}{}{Was... willst du dann hier? (Big Jesus wischt sich die Stirn und holt tief Luft.) WARUM hast du das Paket nicht abgegeben?}
 {481}{}{Naja, ich hatte zuerst ein paar Fragen...}
 {482}{}{Ich werde es jetzt gleich machen.}
@@ -190,7 +190,7 @@
 {664}{}{Salvatore ist zu gut bewacht. Ich muss diesen Job wohl ablehnen.}
 {670}{}{Wenn du... vor diesem Job davonläufst, werde ich dich... TÖTEN lassen.}
 {671}{}{Wenn du es so siehst, werde ich zurückkommen, wenn er tot ist.}
-{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
+{672}{}{Wenn du versuchst, krumme Dinger zu drehen, kannst du den Mordinos Gesellschaft leisten, die von den Salvatores abgeschlachtet wurden.}
 {680}{}{Das habe ich gehört. (Nickt respektvoll.) Du hast es... gut gemacht. Mein Vertrauen in dich hat sich gelohnt. Hier ist... dein Geld. Fünfhundert... Chips. }
 {681}{}{Danke.}
 {682}{}{Das reicht... vorerst.}

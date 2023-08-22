@@ -31,7 +31,7 @@
 {140}{}{Ich sollte jetzt wirklich weiter. War nett mit dir Bekanntschaft zu machen.}
 {141}{}{Vielleicht sehen wir uns wieder.}
 {142}{}{Ich möchte noch vor Sonnenuntergang in der nächsten Stadt sein. Ich geh besser.}
-{143}{}{I'd better be going.}
+{143}{}{Ich solte jetzt gehen.}
 {144}{}{Hinterhalt!}
 {145}{}{Heutzutage kann man niemandem trauen.}
 {146}{}{Du hast die Regeln des Reisens gebrochen.}
@@ -42,7 +42,7 @@
 {1107}{}{New Reno.}
 {1108}{}{Vault City.}
 {1109}{}{Redding.}
-{1110}{}{The Den.}
+{1110}{}{Den.}
 {1111}{}{San Francisco.}
 {1112}{}{New California Republic.}
 {1113}{}{Eine aufgegebenen Mine.}

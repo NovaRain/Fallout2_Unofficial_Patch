@@ -1,5 +1,5 @@
 {100}{}{Sieht wie ein Border-Collie aus.}
-{101}{}{You see Laddie.}
+{101}{}{Du siehst Laddie.}
 {102}{}{Es scheint ein aufgeweckter, intelligenter Hund zu sein.}
 {103}{}{Zweifellos ist dieser Hund intelligenter als du.}
 {150}{}{Wuff!}

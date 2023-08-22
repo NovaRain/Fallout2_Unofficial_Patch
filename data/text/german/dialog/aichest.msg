@@ -3,5 +3,5 @@
 {102}{}{Du siehst eine ungebrannte Tonvase.}
 {103}{}{Du siehst eine Kiste mit Schamanenkräutern.}
 {104}{}{Du stiehlst flink etwas von den Dingen des Schamanen.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{105}{}{Du schließt die Truhe gekonnt.}
+{106}{}{Du öffnest die Truhe gekonnt.}
