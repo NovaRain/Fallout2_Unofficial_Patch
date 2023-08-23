@@ -29,11 +29,11 @@
 {402}{}{Aus dem Hinterhalt auf Gegner schießen}
 {403}{}{Nach eigenem ermessen}
 {404}{}{Bleib, wo du bist}
-{500}{}{Whoever is attacking me}
+{500}{}{Wer mich angreift}
 {501}{}{Den Stärksten}
 {502}{}{Den Schwächsten}
 {503}{}{Wen du willst}
-{504}{}{Whoever is closest}
+{504}{}{Wer am nächsten ist}
 {600}{}{Ich bin sauber}
 {601}{}{Stimpaks, wenn etwas verletzt}
 {602}{}{Stimpaks, wenn schwer verletzt}
