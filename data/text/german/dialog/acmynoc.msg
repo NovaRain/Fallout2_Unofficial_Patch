@@ -69,7 +69,7 @@
 {300}{}{Mein Vater hat mir beigebracht, wie man besonders stabile Klingen macht. Hol mir ein Stück Feuerstein, dann optimier ich auch deinen Speer. In der Wildnis wirst du ihn brauchen.}
 {301}{}{Wo finde ich Feuerstein?}
 {302}{}{Man sagt, deine Tante Morlis hat einen Vorrat. Sie ist so schlecht gelaunt, dass sie bestimmt noch niemand gefragt hat. Aber die Hexe will bestimmt etwas dafür haben.}
-{303}{}{Danke. Auf Wiedersehn.}
+{303}{}{Vielen Dank. Auf Wiedersehn.}
 {304}{}{Hast du Feuerstein von deiner Tante bekommen?}
 {305}{}{Ja, hier hab ich was.}
 {306}{}{Noch nicht.}
@@ -92,7 +92,7 @@
 {408}{}{Ich tue mein bestes. Wenn ich das GECK gefunden habe, komme ich zurück.}
 {409}{}{Wir sind ein kleines Volk und können nicht viel zum Handeln anbieten. Die wenigen Städte, mit denen wir während deiner Abwesenheit Kontakt aufgenommen haben, haben kein Interesse daran, uns zu helfen.}
 {410}{}{Ich verstehn.}
-{411}{}{Ich verstehe.}
+{411}{}{Verstehe.}
 {412}{}{Du bist unsere letzte Hoffnung, Auserwähltes Wesen. Lass uns nicht im Stich!}
 {413}{}{Gut dich zu sehen, Auserwähltes Wesen. Was macht deine Suche?}
 {414}{}{Ich noch suchen.}
@@ -103,7 +103,7 @@
 {419}{}{Nein, ich noch suchen.}
 {420}{}{Nein, ich suche noch immer.}
 {421}{}{Wie läuft es?}
-{422}{}{Tut mir leid, Auserwähltes Wesen, aber allmählich hab ich kein Vertrauen mehr. Die ganzen Leben unseres Volkes liegen in deinen Händen. Bitte finde die Heilige Dreizehn und komm mit dem GECK zurück! }
+{422}{}{Tut mir leid, Auserwähltes Wesen, aber allmählich hab ich kein Vertrauen mehr. Das Leben unseres Volkes liegt in deinen Händen. Bitte finde die Heilige Dreizehn und komm mit dem GECK zurück! }
 {423}{}{Unsere Ernte bleibt aus, die Brahmin sterben, alle leiden Hunger. Die Schreie der Kinder in der Nacht halten uns wach. Unser Volk ist am verzweifeln.}
 {424}{}{Ich weiter suchen.}
 {425}{}{Ich werde tun, was ich kann.}
@@ -118,7 +118,7 @@
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{(die) Vault}
 {1006}{}{Auserwähltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}
