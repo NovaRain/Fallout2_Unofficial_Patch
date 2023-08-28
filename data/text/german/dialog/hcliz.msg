@@ -80,6 +80,6 @@
 {181}{}{Das reicht jetzt! Her mit dir!}
 {182}{}{Womit willst du mir denn noch auf die Nerven gehen?}
 {183}{}{Danke.}
-{184}{}{[FORTSETZEN]}
+{184}{}{[Weiter]}
 {185}{}{Heh! Wer zum Teufel ist da draußen?}
 {186}{}{Ich weiß nicht wer du bist, aber ich komme und hol dich.}

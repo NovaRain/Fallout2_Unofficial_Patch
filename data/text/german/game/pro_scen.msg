@@ -348,21 +348,21 @@
 {18100}{}{Oberteil des Aufzugs}
 {18101}{}{Du siehst den Teil eines Aufzugs.}
 {18200}{}{Computerkonsole}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. }
 {18300}{}{Computerkonsole}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. }
 {18400}{}{Emblem}
 {18401}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18500}{}{Emblem}
 {18501}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18600}{}{Schild der Ebene "Eins"}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Das könnte wohl bedeuten, dass du dich auf Ebene Eins befindest.}
 {18700}{}{Schild der Ebene "Zwei"}
-{18701}{}{You are on level two.}
+{18701}{}{Du bist auf Ebene Zwei.}
 {18800}{}{Schild der Ebene "Drei"}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Das heißt wohl, dass du auf Ebene Drei bist.}
 {18900}{}{Schild der Ebene "Vier"}
-{18901}{}{You must be on level four.}
+{18901}{}{Du musst auf Ebene Vier sein.}
 {19000}{}{Etagenbett}
 {19001}{}{Ein Etagenbett im Militärstil. Sieht sehr unbequem aus. Sieht auch so aus, als würde eine aufs Bett geworfene Münze vom Bettlaken abprallen.}
 {19100}{}{Etagenbett}
@@ -915,7 +915,7 @@
 {48200}{}{Tür}
 {48201}{}{Diese Tür ähnelt verdächtig Türen, die man in einem Lagerhaus finden würde.}
 {48300}{}{Wetterfahne}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Mit Hilfe dieser einfachen Wetterfahne beobachten die Einwohner das Wetter.}
 {48400}{}{Altar}
 {48401}{}{Ein einfacher Altar aus bemalten Holz.}
 {48500}{}{Pult}
@@ -924,7 +924,7 @@
 {48700}{}{Monitor}
 {48701}{}{Ein großer Schwarz-Weiß-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, dass er ohne Antenne in einem Innenraum steht.}
 {48800}{}{Monitor}
-{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Figur in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
+{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Gestalt in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
 {48900}{}{Kraftfeld}
 {48901}{}{Dies ist ein mächtiges Energiefeld.}
 {49000}{}{Kraftfeld}
@@ -1126,8 +1126,8 @@
 {59501}{}{Der Metalltisch ist mit einer Art Biomasse bedeckt.}
 {59600}{}{Schwarzes Brett}
 {59601}{}{Stellenangebote sind an das Brett geheftet. Es sieht häufig gebraucht aus.}
-{59700}{}{Shack}
-{59701}{}{This shack is over a hundred years old, but still in excellent condition.}
+{59700}{}{Hütte}
+{59701}{}{Diese Hütte ist über hundert Jahre alt, aber noch immer in ausgezeichnetem Zustand.}
 {59800}{}{Schild}
 {59801}{}{Auf dem Schild steht: Gemischtwaren.}
 {59900}{}{Schild}
@@ -2262,7 +2262,7 @@
 {137600}{}{Fackel}
 {137601}{}{Eine brennende Fackel in einer Wandhalterung.}
 {137700}{}{Vertibird}
-{137701}{}{A large military aircraft.}
+{137701}{}{Ein großes militärisches Fluggerät.}
 {137800}{}{Zerstörte Tür}
 {137801}{}{Die Kraftwerkstür ist kaputt.}
 {137900}{}{Zerstörte Tür}
@@ -2626,9 +2626,9 @@
 {172200}{}{Kugelsicheres Glas}
 {172300}{}{Kugelsicheres Glas}
 {172400}{}{Schwerer Lasergeschützturm}
-{172401}{}{The turret rotates in a menacing way.}
+{172401}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {172500}{}{Schwerer Lasergeschützturm}
-{172501}{}{The turret rotates in a menacing way.}
+{172501}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {172600}{}{Felsen}
 {172700}{}{Felsen}
 {172800}{}{Felsen}

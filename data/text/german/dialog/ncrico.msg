@@ -19,8 +19,8 @@
 {208}{}{Grunz.}
 {209}{}{Grunz - Grunz.}
 {210}{}{Ich nix mag reden.}
-{211}{}{Yoo smell guuud...}
+{211}{}{Du riechen guuuuut...}
 {212}{}{Du riechen wie Mami.}
 {213}{}{Du süß. Ich nicht haun dich.}
-{214}{}{Yoo make me blush...}
+{214}{}{Du mich machen rot...}
 {215}{}{Öhh... Ich Rico...}

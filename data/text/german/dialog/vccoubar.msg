@@ -119,9 +119,7 @@
 {198}{}{Wenn du es sagst. Sag diesem Typen Jargon, dass ich mit ihm reden möchte, klar?
  Tschüss dann.}
 {199}{}{Wenn du das meinst, was im Ödland als Alkohol gilt: Nein!}
-{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen
- bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht...
-  so genau genommen.}
+{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht... so genau genommen.}
 {201}{}{Ich glaube, ich nehm lieber doch nur ein bisschen Wasser.}
 {202}{}{Also, Moment mal. Was für synthetische Alkoholsorten gibt es denn hier?}
 {203}{}{Ich brauche ein paar Auskünfte.}
@@ -162,7 +160,10 @@
 {229}{}{Hmmm. Mich würde da noch was anderes interessieren...}
 {230}{}{So, so. Tja, ich könnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
 {231}{}{Interessant. Danke für die Information. Tschüss.}
-{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Nein, nein, nein...das ist keine Sklaverei. Die Leute, die du in der Stadt arbeiten
+ siehst, sind Diener, genau wie ich. Wir werden hier sehr gut behandelt, lernen lesen und 
+ schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen genug zu
+ essen.}
 {233}{}{Alles, außer einem: Freiheit. Stimmt's?}
 {234}{}{Wenn's einem nichts ausmacht, ist es nicht so schlimm. Vergiss die Frage einfach.}
 {235}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}

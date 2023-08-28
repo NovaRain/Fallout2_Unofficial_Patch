@@ -30,7 +30,7 @@
 {1094}{}{Ich...kann nicht...atmen...}
 {1095}{}{Diese Schmerzen, diese Schmerzen...}
 {1100}{}{Verdammt!}
-{1101}{}{Mein Schädel schmerzt!}
+{1101}{}{Mir brummt der Schädel.}
 {1102}{}{Mein Gesicht! Mein Gesicht!}
 {1110}{}{Aggghhh! Mein Arm!}
 {1111}{}{Mein Arm!}
@@ -987,7 +987,7 @@
 {12391}{}{Jetzt kann ich nicht mehr damit angeben, dass ich ein Paar habe.}
 {12392}{}{Hab meine Hoden verloren.}
 {12393}{}{Entschuldige mich bitte einen Moment, muss mich nur kurz übergeben.}
-{12394}{}{Großartig. 'Ne Spielerfigur mit Hodenkomplex.}
+{12394}{}{Großartig. Ein Spielercharakter mit Hodenkomplex.}
 {12395}{}{Muss mich nur 'ne Sekunde hinlegen, dann komm ich dich töten.}
 {12396}{}{In die Vollen!}
 {26000}{}{Flieht! Flieht!}
@@ -1677,7 +1677,7 @@
 {44884}{}{Von jetzt an werd ich wohl 'ne Brille brauchen!}
 {44890}{}{Bauchschüsse sind echt 'ne ganz miese Tour!}
 {44891}{}{Nicht...unter...die...Gürtellinie!}
-{44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden  treffen würde?}
+{44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden treffen würde?}
 {44893}{}{Ich HASSE Unterleibsschüsse! Umpf...}
 {44894}{}{Unterleibsschuss...wie gut, dass ich kein Mensch bin!}
 {44900}{}{Zeit, abzuhauen!}

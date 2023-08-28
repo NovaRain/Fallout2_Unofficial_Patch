@@ -166,12 +166,12 @@
 {541}{}{Äh... nun, also...}
 {550}{}{Du hat mich nur EINMAL kurz angeschaut und wolltest gleich mein ganzes Leben beurteilen können. Du wärst nie darauf gekommen, dass jemand mit meiner Größe sich einen Namen im *Boxmanagement* machen könnte.}
 {551}{}{Tut mir leid, ich wollte dich nicht beleidigen.}
-{560}{}{Warum sollte ich beleidigt sein? Nur weil jeder in diesem Spiel gewohnheitsmäßig Blitzurteile über andere inaktive Figuren zu fällen scheint, die sich nur auf deren äußere Erscheinung stützen?}
+{560}{}{Warum sollte ich beleidigt sein? Nur weil jeder in diesem Spiel gewohnheitsmäßig Blitzurteile über andere NSCs zu fällen scheint, die sich nur auf deren äußere Erscheinung stützen?}
 {561}{}{Na, also ich weiß nicht, was daran ein BLITZURTEIL war...}
 {570}{}{Na, das hab ich ja mit dir zum Beispiel auch gemacht.}
 {571}{}{Ach?}
-{580}{}{(Sieht dich mitleidig an.) Aber siehst du denn nicht die TRAGÖDIE dahinter? Ich habe dich soeben fälschlich auf eine stereotype Karikatur reduziert, auf ein allgemeines Fallout-Modell, anstatt dich als einzigartige Spielfigur anzuerkennen.}
-{581}{}{Äh, aber Stuart, Ich BIN eine typische Heldenfigur. Ich bin sogar die Spielerfigur in diesem Spiel.}
+{580}{}{(Sieht dich mitleidig an.) Aber siehst du denn nicht die TRAGÖDIE dahinter? Ich habe dich soeben fälschlich auf eine stereotype Karikatur reduziert, auf ein allgemeines Fallout-Modell, anstatt dich als einzigartiger Spielcharakter anzuerkennen.}
+{581}{}{Äh, aber Stuart, Ich BIN eine typische Heldenfigur. Ich bin sogar der Spielercharakter in diesem Spiel.}
 {590}{}{Nicht alle Frauen stehen auf breitschultrige und übertrainierte männliche Charaktervorbilder. Du wärst überrascht, wie viele Frauen meine Größe verdammt VERLOCKEND finden.}
 {591}{}{Und du wärst überrascht, für wie viele Männer das ebenfalls gilt.}
 {600}{}{Ich hab jetzt deine lächerlich überdimensionierten Muskelpakete, deine äußerst wagemutige Möchtegern-Mad-Maxx-Show und deine einfallslose Punkteverteilung lange genug beobachtet, um dich als größenwahnsinnigen Wicht einstufen zu können.}

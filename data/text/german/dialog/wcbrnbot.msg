@@ -2,7 +2,8 @@
 {101}{}{Ein kleines Meisterwerk der Ingenieurskunst, mit dem sich die Grenze zwischen Mensch und
  Roboter weiter verwischt.}
 {102}{}{Skynet wird mit dir reisen.}
-{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
+{103}{}{Skynet dankt dem Menschen.                                         Skynet möchte um Gefallen bitten.
+                                Skynet möchte mit dem Menschen reisen.}
 {104}{}{}
 {105}{}{}
 {106}{}{                              [Diese Gerätschaft könnte sich als praktisch erweisen.]}
@@ -115,7 +116,7 @@
 {204}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 1}
 {205}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 2}
 {206}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 3}
-{207}{}{Deactivating all Security - Level 4}
+{207}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 4}
 {306}{}{[Diese Gerätschaft könnte sich als praktisch erweisen.]}
 {400}{}{Steck die Waffe weg.}
 {410}{}{Whirrr}
