@@ -21,8 +21,6 @@ move /y %bdir%\data\sound\music data\sound\
 :: sfall scripts
 mkdir %scripts_dir%
 move /y gl_ammomod.int %scripts_dir%\
-move /y gl_highlighting.int %scripts_dir%\
-move /y gl_partycontrol.int %scripts_dir%\
 
 del /s upu-install.sh upu-install.bat upu-install.command
 echo UPU installed. Backup is in %bdir%
