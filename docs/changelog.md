@@ -31,6 +31,46 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
+### Version next
+- General
+  `FadeBackgroundMusic` sfall option is now disabled by default due to multiple issues with it.
+  - [Cassidy's head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head) is no longer silent by default.
+  - Items can be now be [stolen and planted](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/95) onto Goris and Skynet.
+  - [Corrected](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/100) San Francisco and Mariposa positions on worldmap (off-by-1 pixel).
+  - Multiple fixes for [doors and containers](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/101):
+    - Critical rolls in Perception checks work, allowing to get more or less information about the lock, depending on the result.
+    - On a critical failure using a crowbar, the PC can strain their back, taking some damage, and/or destroy the crowbar.
+    - Lockpick XP rewards are standartized based on lock difficulty.
+    - Crowbar now works more consistently, it's more effective against wooded doors and containers, and has higher chance of being destoyed when used on metal ones.
+  - Fixed Dogmeat sometimes starting to [talk like a Hubologist](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/154) in combat.
+  - [Changed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/164) Phoenix implant description wording to clairfy they add resistance to all thermal-based attacks.
+- Installer:
+  - New option: damage mod fix.
+  - New option: allow to wipe merchant inventories on restock, UP-style.
+- Animations:
+  - Added alternative, [lower fps animations](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/97) fixes for Goris de-robing and walking speed of some critters as an installer option.
+  - Added Rocket Launcher Combat Armor Fix by Lexx, fixes the rocket launcher clipping through the backpack of the combat armor.
+- Translations
+  - Magyar: charset fixed, fonts and graphics assets added.
+- Klamath
+  - Fixed [spelling](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/163) in children's floats.
+- Modoc
+  - Children will no longer [mention](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/163) Torr.
+  - If PC has the car when escorting Jonny from Ghost Farm, it will be [moved](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/162) from the farm to Modoc properly.
+- NCR
+  - It's no longer possible to get [infinite experience via a dialog loop](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/98) when reporting the hubologist's death to Merk.
+  - Fixed crash when [locking slavers' door](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/151).
+  - Buster now [opens](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/167) at 8am sharp.
+- New Reno
+  - Fixed [`Error`](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/140) in Lil' Jesus' dialog.
+  - Fixed [gender mixup](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/158) in fluffer-related floats.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/166) INT requirement in Bishop's dialog for asking about Carson's health.
+- San Francisco
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/165) Dr. Wong missing detailed description, and forgetting talking to stupid characters.
+- Random encounters
+  - Fixed [incomprehensible dialog](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/99) with random traveler.
+  - Fixed an [inaccessible enemy](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/155) in a mountain cavern.
+
 ### Version 26
 - Sfall updated to version 4.3.3.1.
 - Fixed several dialog issues when PC is a stupid smooth talker:
