@@ -133,4 +133,4 @@
 {3200}{}{Rette Chrissy}
 {3201}{}{Töte Darion}
 {3202}{}{Schließ die Vereinbarung mit der NCR ab.}
-{3203}{}{Gib die Spion-Holodisk bei der Regierung der NCR ab.}
+{3203}{}{Gib die Spionen-Holo-Disk bei der Regierung der NCR ab.}
