@@ -50,12 +50,7 @@ done
 
 # sfall mods
 mkdir -p data/scripts
-scripts="
-gl_ammomod.int
-"
-for f in $scripts; do
-  mv "$f" data/scripts/
-done
+mv gl_ammomod.int data/scripts/
 
 # sound path fix
 rm -f camlrt.dll initool.exe
