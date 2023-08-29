@@ -86,7 +86,7 @@
 {173}{}{Wie wird synthetischer Alkohol denn hergestellt?}
 {174}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
 {175}{}{Das war's für heute. Besten Dank.}
-{176}{}{Die Autodocs in Vault City können ungefährliche synthetische Ersatzstoffe für
+{176}{}{Die Auto-Docs in Vault City können ungefährliche synthetische Ersatzstoffe für
  suchterzeugende Substanzen herstellen. Soweit ich weiß, wurden diese synthetischen Stoffe vor
  dem Krieg als Platzebos für Drogensüchtige eingesetzt.}
 {177}{}{Du scheinst dich aber gut mit diesem synthetischen Zeug auszukennen.}
