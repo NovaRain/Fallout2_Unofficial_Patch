@@ -52,24 +52,46 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Added Rocket Launcher Combat Armor Fix by Lexx, fixes the rocket launcher clipping through the backpack of the combat armor.
 - Translations
   - Magyar: charset fixed, fonts and graphics assets added.
+- Broken Hills
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/221) overly long time advances in dialog with Doc Holiday.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/228) hostility to dude if he happens to be seen outside the jail (through open doors) when warning timers are invoked.
+- Enclave
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/115) previously unavailable death slides when dying in Oil Rig.
+- Gecko
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/104) Gecko Brain missing floaters when a stupid character tries to talk to him.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/221) overly long time advances in dialogs with Festus and Lenny.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/224) reactor ambient becoming a cacophony after a few save/loads.
 - Klamath
   - Fixed [spelling](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/163) in children's floats.
 - Modoc
   - Children will no longer [mention](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/163) Torr.
   - If PC has the car when escorting Jonny from Ghost Farm, it will be [moved](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/162) from the farm to Modoc properly.
+  - Removed inaccessible rocks in the inn area.
+  - Fixed the stable boy's routine, before he could get stuck if player leaves the inn map then returns. He'd just stand in the same pen not moving anymore, only go back to his room at night but never resume his work.
+  - Jo will now [honor](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/222) the discount he promised on PC's return.
 - NCR
   - It's no longer possible to get [infinite experience via a dialog loop](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/98) when reporting the hubologist's death to Merk.
   - Fixed crash when [locking slavers' door](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/151).
   - Buster now [opens](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/167) at 8am sharp.
+  - Hoss will [no longer](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/185) terminate PC's combat with NCR police.
 - New Reno
   - Fixed [`Error`](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/140) in Lil' Jesus' dialog.
   - Fixed [gender mixup](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/158) in fluffer-related floats.
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/166) INT requirement in Bishop's dialog for asking about Carson's health.
-- San Francisco
-  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/165) Dr. Wong missing detailed description, and forgetting talking to stupid characters.
+  - Cat's Paw: tweak the position of the girl and bookshelf in the bottom room to align with RP's layout, so she doesn't stand too close to the door (nearly blocks the room, and looks kinda weird).
+  - Fixed bell sounds before each round when boxing in New Reno.
 - Random encounters
   - Fixed [incomprehensible dialog](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/99) with random traveler.
   - Fixed an [inaccessible enemy](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/155) in a mountain cavern.
+  - Killing "evil" merchants now results in karma increase.
+- San Francisco
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/165) Dr. Wong missing detailed description, and forgetting talking to stupid characters.
+- Vault City
+  - Curtis' doll can't be [stolen]( https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/177) anymore.
+  - Barkus and Skeeve will now correctly [teleport](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/107) a smart servant player.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/187) lockpicks not working on VC supply depot.
+- Vault 15
+  - Added missing elevation name for V15 Squatters map.
 
 ### Version 26
 - Sfall updated to version 4.3.3.1.
