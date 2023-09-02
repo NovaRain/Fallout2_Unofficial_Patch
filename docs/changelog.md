@@ -51,6 +51,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Added alternative, [lower fps animations](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/97) fixes for Goris de-robing and walking speed of some critters as an installer option.
   - Added Rocket Launcher Combat Armor Fix by Lexx, fixes the rocket launcher clipping through the backpack of the combat armor.
 - Translations
+  - French: [added](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/183) fonts, frms and splash from French transpack.
   - Magyar: charset fixed, fonts and graphics assets added.
 - Broken Hills
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/221) overly long time advances in dialog with Doc Holiday.
