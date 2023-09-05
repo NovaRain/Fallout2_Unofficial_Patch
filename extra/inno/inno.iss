@@ -13,6 +13,7 @@ AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Unofficial_Patch
+VersionInfoTextVersion=1.02.31{#uversion}
 DefaultDirName=C:\Games\Fallout2
 AppendDefaultDirName=no
 DisableProgramGroupPage=yes
