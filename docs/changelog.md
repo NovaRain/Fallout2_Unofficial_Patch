@@ -34,7 +34,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 ### Version 27
 - General
-  `FadeBackgroundMusic` sfall option is now disabled by default due to multiple issues with it.
+  - `FadeBackgroundMusic` sfall option is now disabled by default due to multiple issues with it.
   - [Cassidy's head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head) is no longer silent by default.
   - Items can be now be [stolen and planted](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/95) onto Goris and Skynet.
   - [Corrected](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/100) San Francisco and Mariposa positions on worldmap (off-by-1 pixel).
