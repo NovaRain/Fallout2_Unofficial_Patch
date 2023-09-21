@@ -18,20 +18,17 @@ This is an updated version of [killap's Unofficial Patch](http://killap.net/) fo
 ### Installation
 
 - UPU must be installed on vanilla game.
-- UPU requires starting a **new game** after installation.
-
-(One exception is [updating](docs/update.md) from UP or a previous UPU version).
+- UPU requires starting a new game after installation. (One exception is [updating](docs/update.md) from UP or a previous UPU version).
 
 #### Windows
 
 1. Download `upu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest) page.
 1. Launch, point the installer to the game directory, choose language and options.
-1. AP ammo fix is not enabled by default. See `DamageFormula` in `ddraw.ini` for options, or consider [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks#damage-mod) implementation.
 1. Check out [additional](#additional-mods) mods to add on top.
 
 #### Linux / MacOS
 
-Follow the [instruction](docs/linux.md). AP ammo note from above also applies.
+Follow the [instruction](docs/linux.md).
 
 ### Additional mods
 
