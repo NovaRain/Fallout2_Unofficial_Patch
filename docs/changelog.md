@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 28](#version-28)
 - [Version 27](#version-27)
 - [Version 26](#version-26)
 - [Version 25](#version-25)
@@ -32,7 +33,14 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
+### Version 28
+
+[Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/237) car disappearing if PC already has it when returning Jonny to his parents in Modoc.
+
+Introduced in v27. To hotfix, download and extract [this](https://github.com/BGforgeNet/Fallout2_Restoration_Project/files/12673833/modmain.int.zip) into `data/scripts`.
+
 ### Version 27
+
 - General
   - `FadeBackgroundMusic` sfall option is now disabled by default due to multiple issues with it.
   - [Cassidy's head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head) is no longer silent by default.
@@ -89,13 +97,14 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - San Francisco
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/165) Dr. Wong missing detailed description, and forgetting talking to stupid characters.
 - Vault City
-  - Curtis' doll can't be [stolen]( https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/177) anymore.
+  - Curtis' doll can't be [stolen](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/177) anymore.
   - Barkus and Skeeve will now correctly [teleport](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/107) a smart servant player.
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/187) lockpicks not working on VC supply depot.
 - Vault 15
   - Added missing elevation name for V15 Squatters map.
 
 ### Version 26
+
 - Sfall updated to version 4.3.3.1.
 - Fixed several dialog issues when PC is a stupid smooth talker:
   - [barter with Liz](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/83)
@@ -104,9 +113,11 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Tubby, Metzger, Sheila](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/92)
 
 ### Version 25
+
 Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in permanent stat loss.
 
 ### Version 24
+
 - Restored batch file for manual install on older Windows machines where Innosetup doesn't work for some reason.
 - Disabled sfall debug by default, so that missing animations don't spam PDA.
 - Polish: translation greatly progressed by loading strings from existing [translation package](https://fallout-corner.pl/pliki/), as well as contributions by JaidenIsPink. Also included proper fonts and premade bios.
@@ -114,6 +125,7 @@ Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in perma
 - Fixed [Vault City courtyard residents starting combat upon first entering the area](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/125) (introduced in v22).
 
 ### Version 22
+
 - General:
   - Updated sfall to 4.3.0.2.
   - Karma perks implementation is pretty much complete.
@@ -142,12 +154,15 @@ Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in perma
   13. It's possible to go with Hal on drive if player told him "no" in the first interaction.
 
 ### Version 21
+
 Updated sfall to 4.3.0.1.
 
 ### Version 20
+
 Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/80) by Lexx.
 
 ### Version 19
+
 - General
   - Fixed minor issue with installation on Linux.
   - Doors and containers can be [trapped and/or pried open](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/61).
@@ -181,10 +196,12 @@ Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoratio
   - Level 3 secret door will release the bots when level security is on.
 
 ### Version 18
+
 - Fixed automatic installer appending extra dir when selecting game directory.
 - Updated sfall to 4.2.8.1
 
 ### Version 17
+
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/54) Slags trying to use non-existent animation, let them 'pick up' stuff from the ground instead.
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/55) formatting of some strings in dialog with Big Jesus.
 - [Added](https://forums.bgforge.net/viewtopic.php?f=34&p=760) sfall translation files to releases.
@@ -193,9 +210,11 @@ Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoratio
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/63) crash in Broken Hills mines ([sfall](https://github.com/phobos2077/sfall/issues/337) bug).
 
 ### Version 16
+
 Fixed Linux install script not allowing to proceed even after the directory was lowercased (introduced in v15).
 
 ### Version 15
+
 - General:
   - Fixed `AllowSoundForFloats` placement in `ddraw.ini` and moved it into QoL component.
   - More QoL settings in the corresponding component: `DisplayBonusDamage`, `SpeedInterfaceCounterAnims`, `StackEmptyWeapons`, fixed values for `NumSoundBuffers` and `SpeedInventoryPCRotation`.
@@ -210,9 +229,11 @@ Fixed Linux install script not allowing to proceed even after the directory was 
   - Fixed intermittent crash during Lo Pan apprentices fights #44.
 
 ### Version 14
+
 Fixed auto installer not allowing to select a directory in some cases.
 
 ### Version 13
+
 - General:
   - Code overhauled using [ReDefine](https://github.com/rotators/ReDefine), more files converged with [RPU](https://github.com/BGforgeNet/Fallout2_Restoration_Project).
   - Fixed issues with fonts in main menu and some translations (English, Spanish, French, maybe others too).
@@ -229,18 +250,21 @@ Fixed auto installer not allowing to select a directory in some cases.
   - Angry Skynet will no longer join the party. And it won't forget its enemy status if party has left the area before Skynet could burst a party member.
 
 ### Version 12
- - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
- - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
- - Install script now removes itself after installation.
- - Sfall updated to 4.2.2.
+
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
+- [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
+- Install script now removes itself after installation.
+- Sfall updated to 4.2.2.
 
 ### Version 10
+
 - General:
   - Fixed crash when trying to talk to Pariah dog (introduced in [v9](#version-9)).
 - Arroyo:
   - Fixed crash when talking to Hakunin with low karma.
 
 ### Version 9
+
 - General:
   - Added missing siptbox2 script.
   - Standartized 'deathclaw' spelling.
@@ -258,12 +282,14 @@ Fixed auto installer not allowing to select a directory in some cases.
   - Fixed Cassidy stage 0 armor bonus.
 
 ### Version 8
+
 - General:
   - Fixed party proto issue introduced in v7.
 - Modoc:
   - Reverted Jonny's dialog faulty fix.
 
 ### Version 7
+
 - General:
   - Changed localizations to use proper language name from `fallout2.cfg`.
   - Enabled `AIBestWeaponFix`, `AIDrugUsePerfFix` and `StartGDialogFix` in sfall.
@@ -276,16 +302,20 @@ Fixed auto installer not allowing to select a directory in some cases.
   - Made Anna's ghost invulnerable, also disabled stealing.
 
 ### Version 4
+
 Added missing `scripts.lst`.
 
 ### Version 3
+
 - Created a complete package.
 - Added localizations.
 
 ### Version 2
+
 Repacked into .dat file.
 
 ### Version 1
+
 - General
   - Fixed Laddie being counted as a "strange" party member instead of K-9.
   - Added scr_return() for all scripts attached items in OBJ_DUDE, to prevent an issue that when you used a remove-after-use item, using other items without closing the inventory will make them being removed as well, even if they shouldn't be.
@@ -299,13 +329,13 @@ Repacked into .dat file.
   - Corrected a plethora of typos.
   - Getting weapon upgrades won't reload them with free ammo anymore.
 - Spelling standartization
-    - Stockman's Association (instead of Stockmen's).
-    - Auto-Doc.
-    - Pip-Boy.
-    - Jet, jethead.
-    - Robobrain.
-    - RobCo.
-    - BeatCo.
+  - Stockman's Association (instead of Stockmen's).
+  - Auto-Doc.
+  - Pip-Boy.
+  - Jet, jethead.
+  - Robobrain.
+  - RobCo.
+  - BeatCo.
 - Arroyo
   - Mynoc actually has a sharpened spear now.
 - Broken Hills
