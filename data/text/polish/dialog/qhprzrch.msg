@@ -154,7 +154,7 @@
 {253}{}{Dlaczego?}
 {254}{prs46b}{Niektórzy z członków twojego plemienia wykazują ogromnie interesujące zmiany. Gdyby niebezpieczeństwo dla prawdziwego człowieczeństwa nie było tak duże, pomyślałbym o przestudiowaniu ich. Ale nie to ma się stać.}
 {255}{}{Nie to ma się stać? Dlaczego nie?}
-{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{No dobra. Więc dlaczego musieliście porwać moich współplemieńców i ludzi z Krypty 13?}
 {258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the FEV toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
 {259}{}{Nie testujecie szczepienia na moich ludziach?}

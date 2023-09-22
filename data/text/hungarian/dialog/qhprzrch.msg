@@ -154,7 +154,7 @@
 {253}{}{Miért?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Miért nem lesz így?}
-{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{Oké. Akkor miért kellett elrabolni a törzsemet és a 13-as Menedékbeli embereket?}
 {258}{prs48}{Ők a tesztalanyok. A falubelijei mind Menedéklakók leszármazottai, s biztosnak kellett lennünk, hogy a FEV vírus még mindig hat. A 13-as Menedék lakóin teszteljük a FEV-et és a létrehozandó ellenanyagot.}
 {259}{}{Csak nem az én embereimen tesztelik az oltóanyagot?}
