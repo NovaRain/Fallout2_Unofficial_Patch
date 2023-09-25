@@ -23,7 +23,7 @@
 {143}{}{No eres como los otros pieles suaves.}
 {144}{}{¿Has visto algo interesante por el Yermo?}
 {145}{}{Hola.}
-{146}{}{¡Hola, amiga!}
+{146}{}{Hola, amiga.}
 {147}{}{Nuestro reactor nuclear me hace resplandecer con orgullo.}
 {148}{}{Aquí hemos dominado el poder del átomo.}
 {149}{}{Algún día, otros serán capaces de utilizar nuestra energía.}

@@ -73,7 +73,7 @@
 {172}{}{Le Projet auquel s'est attachée l'Enclave au cours des dernières décennies a été le rétablissement de la race humaine sur la partie continentale des Etats-Unis. Dieu bénisse l'Amérique.}
 {173}{}{Ca ne devrait pas prendre des décennies.}
 {174}{}{J'en ai assez entendu. J'ai une autre question à te poser.}
-{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
+{175}{}{Oh, l'établissement d'un poste avancé ne serait pas difficile. On a déjà fait ça à Navarro. C'est la procédure d'éradication qui demande plus de temps.}
 {176}{}{Procédure d'éradication ?}
 {177}{}{Eh bien oui, on ne peut pas revenir sur le continent en raison des risques de contamination par tous les presqu'humains. Pour rendre les Etats-Unis sûrs pour l'humanité, les mutants doivent d'abord être exterminés.}
 {178}{}{Quoi !?! Tu débloques ? C'est monstrueux !}
