@@ -154,7 +154,7 @@
 {253}{}{Dlaczego?}
 {254}{prs46b}{Niektórzy z członków twojego plemienia wykazują ogromnie interesujące zmiany. Gdyby niebezpieczeństwo dla prawdziwego człowieczeństwa nie było tak duże, pomyślałbym o przestudiowaniu ich. Ale nie to ma się stać.}
 {255}{}{Nie to ma się stać? Dlaczego nie?}
-{256}{prs47}{Och, ale to przecież jedna z zalet wirusa FEV Możemy go wypuścić tutaj, a prądy rozniosą go po całym świecie. Będzie miał mnóstwo czasu, aby oczyścić każdy zakątek na tej planecie.}
+{256}{prs47}{Och, ale to przecież jedna z zalet wirusa FEV. Możemy go wypuścić tutaj, a prądy rozniosą go po całym świecie. Będzie miał mnóstwo czasu, aby oczyścić każdy zakątek na tej planecie.}
 {257}{}{No dobra. Więc dlaczego musieliście porwać moich współplemieńców i ludzi z Krypty 13?}
 {258}{prs48}{Obiekty do badań. Wszyscy Twoi współplemieńcy pochodzą z zasobów Krypty, a my musieliśmy się upewnić, że toksyna FEV jest wciąż efektywna. Na obiektach z Krypty 13 testujemy i to i szczepienie przeciwko FEV.}
 {259}{}{Nie testujecie szczepienia na moich ludziach?}
