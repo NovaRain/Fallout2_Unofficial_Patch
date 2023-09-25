@@ -140,7 +140,7 @@
 {239}{}{Oczyszczenie z mutantów? To brzmi nieco drastycznie. Jak chcecie to zrobić?}
 {240}{prs41}{Odnaleźliśmy kompleks badawczy w działającym stanie sprzed około 70 lat. Była baza wojskowa, której użyto do badań nad specjalnym wirusem.}
 {241}{}{Wirusem?}
-{242}{prs42}{Yes, the FEV virus. It was originally developed to turn soldiers into super-warriors but it failed. The warriors were tough and strong, but far too stupid. However, our brilliant Chemical Corps altered it.}
+{242}{prs42}{Tak, wirusem F.E.V. Początkowo został on stworzony do zamieniania żołnierzy w super wojowników, ale to się nie udało. Wojownicy byli twardzi i silni, ale o wiele za głupi. Jednakże nasz genialny Oddział Chemiczny zmienił go.}
 {243}{}{Zmienił wirusa? Dlaczego?}
 {244}{prs43}{Aby zamienić go w niewyobrażalnie efektywnego zabójcę. Jakikolwiek humanoid, który nie zostanie wcześniej zaszczepiony przeciwko jego działaniu, zostanie zabity. Oto Projekt.}
 {245}{}{To szaleństwo.}
@@ -154,9 +154,9 @@
 {253}{}{Dlaczego?}
 {254}{prs46b}{Niektórzy z członków twojego plemienia wykazują ogromnie interesujące zmiany. Gdyby niebezpieczeństwo dla prawdziwego człowieczeństwa nie było tak duże, pomyślałbym o przestudiowaniu ich. Ale nie to ma się stać.}
 {255}{}{Nie to ma się stać? Dlaczego nie?}
-{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Och, ale to przecież jedna z zalet wirusa FEV Możemy go wypuścić tutaj, a prądy rozniosą go po całym świecie. Będzie miał mnóstwo czasu, aby oczyścić każdy zakątek na tej planecie.}
 {257}{}{No dobra. Więc dlaczego musieliście porwać moich współplemieńców i ludzi z Krypty 13?}
-{258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the FEV toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
+{258}{prs48}{Obiekty do badań. Wszyscy Twoi współplemieńcy pochodzą z zasobów Krypty, a my musieliśmy się upewnić, że toksyna FEV jest wciąż efektywna. Na obiektach z Krypty 13 testujemy i to i szczepienie przeciwko FEV.}
 {259}{}{Nie testujecie szczepienia na moich ludziach?}
 {260}{prs48a}{To praktycznie nie jest potrzebne. Z pewnością moglibyśmy i to by działało, ale nie ma powodu, aby tak robić.}
 {261}{}{Czy kiedykolwiek wydawało ci się, że to, co robisz, jest złe?}

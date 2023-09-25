@@ -6,8 +6,8 @@
 {105}{}{Czerwony mutant!}
 {106}{}{Zniszczono nas i to ty za to odpowiadasz.}
 {107}{}{Zapłacisz mi za swoje czyny.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{Ty (kaszel), ty nie należysz do zwycięzców. Ty i twoi zmutowani kumple dołączycie do mnie w wielkim grzybie atomowym. Właśnie uruchomiłem samozniszczenie. (rechot, kaszel...) Dzieło zostanie dokończone. Niczego nie udało ci się tu dokonać, oprócz podpisania własnego wyroku śmierci. Powinność, (kaszel) honor... odwaga... Semper Fiiiii...}
+{109}{ssa2}{Ty (kaszel), ty nie należysz do zwycięzców. Ty i twoi zmutowani kumple dołączycie do mnie w wielkim grzybie atomowym. Właśnie uruchomiłem samozniszczenie. (rechot, kaszel...) Dzieło zostanie dokończone. Niczego nie udało ci się tu dokonać, oprócz podpisania własnego wyroku śmierci. Powinność, (kaszel) honor... odwaga... Semper Fiiiii...}
 {110}{}{Uch-oh. Niedobre tu będzie. Ja szybko dobiec statek.}
 {111}{}{Lepiej wrócę na statek i wyniosę się stąd w cholerę.}
 {112}{ssa3alt}{Udało ci się dotrzeć dużo dalej, niż powinno, ale też dotąd nie stanął na twej drodze Frank Horrigan. Koniec jazdy, mutancie. Czas umrzeć.}

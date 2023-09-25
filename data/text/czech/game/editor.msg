@@ -163,20 +163,20 @@
 {653}{}{ ::: Dovednosti :::                ::: Zářezy :::}
 {654}{}{  ::: Inventář :::}
 {655}{}{  Celková váha:}
-{656}{}{ ::: Addictions :::}
+{656}{}{ ::: Závislosti :::}
 {657}{}{   ::: Reputace :::}
 {1000}{}{Reputace (Obecně) }
 {1001}{}{Berserk}
 {1002}{}{Šampión}
 {1003}{}{Vrah dětí}
-{1004}{}{Nuka-Cola addiction}
-{1005}{}{Buffout addiction}
-{1006}{}{Mentats addiction}
-{1007}{}{Psycho addiction}
-{1008}{}{RadAway addiction}
-{1009}{}{Alcohol addiction}
-{1010}{}{Jet addiction}
-{1011}{}{Tragic addiction}
+{1004}{}{Závislost na Nuka-Cole}
+{1005}{}{Závislost na Buffoutu}
+{1006}{}{Závislost na Mentats}
+{1007}{}{Závislost na Psycho}
+{1008}{}{Závislost na RadAway}
+{1009}{}{Závislost na alkoholu}
+{1010}{}{Závislost na Jetu}
+{1011}{}{Závislost na hře Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexpert}
 {1014}{}{Profesionální boxer}
@@ -196,12 +196,12 @@
 {1102}{}{Tvé činy z tebe udělaly v očích lidí šampióna. Tvůj boj se zlem a hanebností je všeobecně známý. Čestní lidé si tě váží a uznávají tě.}
 {1103}{}{Co ti k tomu mám říct? Zabíjíš nevinné a neozbrojené děti. Chceš opravdu slyšet, co si o tobě myslíme?}
 {1104}{}{Umíš si důkladně vychutnat Nuka-Colu, nealko nápoj postnukleárního světa. Možná až moc důkladně. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{Jsi závislý na chemikálii zvané Buffout. Musíš ho pravidelně brát, jinak pocítíš nepříjemné následky abstinenčních příznaků. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
+{1106}{}{Stal ses závislým na pilulkách Mentats. Musíš je pravidelně brát, jinak pocítíš nepříjemné následky abstinenčních příznaků. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
+{1107}{}{Jsi feťák. Pokud pravidelně nebereš svoje Psycho, trpíš. Pokud ano, trpí ostatní. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
 {1108}{}{Tvoje tělo potřebuje stálý přísun chemikálie RadAway. Nijak tě to sice neohrožuje na životě, nicméně ho musíš brát pravidelně. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
 {1109}{}{Máš menší problém s alkoholem. No, vlastně je to spíš větší problém. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
+{1110}{}{Jsi závislý na droze zvané Jet. Musíš ho pravidelně brát, jinak pocítíš nepříjemné následky abstinenčních příznaků. Pokud se chceš závislosti zbavit, pomůže ti jen protilátka. Abstinence v tomto případě nepomůže.}
 {1111}{}{Bohužel, už je to tak. Jsi závislý na karetní hře "Tragic the Garnering". Cítíš neustálé nutkání shánět nové a nové sady karet.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Víš o sexu všechno. Obzvlášť předehra je tvou silnou stránkou. Víš, jak potěšit příslušníka opačného pohlaví a vzbudit v něm touhu si to s tebou zopakovat.}
@@ -241,7 +241,7 @@
 {3007}{}{Postrach pouště}
 {3008}{}{Ďáblův spratek}
 {4000}{}{Reputace}
-{4001}{}{Addictions}
+{4001}{}{Závislosti}
 {4100}{}{Tato položka představuje tvou pověst v různých lokacích.}
 {4101}{}{Věci, na kterých ses stal závislý.}
 {5000}{}{Litujeme, ale svou postavu můžeš}

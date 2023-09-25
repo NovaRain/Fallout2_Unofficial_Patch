@@ -6,8 +6,8 @@
 {105}{}{¡Mutante rojo!}
 {106}{}{Nos has destruido a todos.}
 {107}{}{Pagarás por lo que hiciste.}
-{108}{ssa2}{Tú (tos), tú no has vencido aquí. Tú y tus bastardos amigos mutis os uniréis a mí en un gigantesco hongo nuclear. Acabo de activar la auto-destrucción. (je, je; tos, tos;…) Nuestro trabajo continuará. No has hecho nada aquí, excepto garantizar tu propia muerte. Deber, (tos) honor... coraje... Semper Fiiiii…}
-{109}{ssa2}{Tú (tos), tú no has vencido aquí. Tú y tus bastardos amigos mutis os uniréis a mí en un gigantesco hongo nuclear. Acabo de activar la auto-destrucción. (je, je; tos, tos;…) Nuestro trabajo continuará. No has hecho nada aquí, excepto garantizar tu propia muerte. Deber, (tos) honor... coraje... Semper Fiiiii…}
+{108}{ssa2}{Tú (tos), tú no has ganado aquí. Tú y tus bastardos amigos mutantes van a unirse a mí en un gran despedida con una nube en forma de hongo. Acabo de activar la autodestrucción. (Je, je; tos, tos-...) El trabajo continuará. No hiciste nada aquí, solo sellar tu sentencia de muerte. Deber, (tos), honor... coraje... Semper Fiiiii...}
+{109}{ssa2}{Tú (tos), tú no has ganado aquí. Tú y tus bastardos amigos mutantes van a unirse a mí en un gran despedida con una nube en forma de hongo. Acabo de activar la autodestrucción. (Je, je; tos, tos-...) El trabajo continuará. No hiciste nada aquí, solo sellar tu sentencia de muerte. Deber, (tos), honor... coraje... Semper Fiiiii...}
 {110}{}{Oh-oh. Pasará algo malo. Yo corro a barco ahora.}
 {111}{}{Mejor que me vaya al barco y me largue de aquí.}
 {112}{ssa3alt}{Has llegado más lejos de lo que deberías, pero hasta ahora no habías conocido a Frank Horrigan. El juego acabó, mutante. Hora de morir.}

@@ -194,7 +194,7 @@
 {683}{}{Je vois où ça va nous mener. Laisse tomber, Myron.}
 {690}{myn109}{En fait, quand j'ai rencontré la famille Mordino, ils faisaient la culture de cactus peyotl et essayaient de vendre ça aux touristes sous le nom *d'expérience Reno*. Tu parles...}
 {691}{}{Continue.}
-{692}{}{Forget this. I had some other questions...}
+{692}{}{Laisse tomber. J'ai d'autres questions à te poser...}
 {693}{}{Oublie ce que j'ai dit.}
 {700}{myn110}{Enfin le peyotl ? Ca a même pas la *moitié* de la puissance du bon vieux LSD.}
 {701}{}{Euh et à propos du Jet ?}
@@ -257,7 +257,7 @@
 {882}{}{Myron, tu es plus vicieux que l'ombre d'un serpent. Tuer des humains pour tester des stimulants... C'est la chose la plus horrible que j'aie entendue.}
 {883}{}{Myron, tu as tué plus d'une centaine de personnes pour tester des stimulants ? On t'as fait une lobotomie de la conscience quand t'étais petit ?}
 {884}{}{M'en parle pas. Le prix des esclaves n'arrête pas de grimper. Si seulement les humains pouvaient se reproduire plus vite. Bon, j'avais quelques questions encore...}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{Je vois. Ecoute, j'avais d'autres questions...}
 {886}{}{Je crois que j'en ai assez entendu.}
 {887}{}{Oh, alors dans ce cas, JE comprends. J'en ai assez entendu. Je me tire d'ici.}
 {890}{myn128}{Tu vas me faire un flan pour une poignée d'esclaves ? Hé, il fallait s'assurer que le Jet ne tuerait pas nos consommateurs.}
@@ -318,7 +318,7 @@
 {1050}{myn145a}{Va falloir des sacs de venin de radscorpion d'abord. Ironique non ?}
 {1051}{myn145b}{Ca serait avec plaisir, poupée, mais j'ai besoin de queues de radscorpions.}
 {1052}{}{Sais-tu fabriquer d'autres stimulants ?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{Laisse tomber. J'avais encore des questions...}
 {1060}{myn146a}{Ca devrait pas être trop difficile. Combien tu veux de flacons d'antidote ?}
 {1061}{myn146b}{Pour l'amour du ciel... T'as jamais pensé qu'il était plus facile d'éviter ces foutus radscorpions, génie ?! Combien t'en veux *cette* fois ?!!}
 {1062}{myn146c}{Eh mais tout c'que tu veux ma belle. Combien t'en veux ?}
@@ -333,7 +333,7 @@
 {1085}{}{Merci. Ecoute, j'avais encore des questions...}
 {1086}{}{Merci, Myron. T'es vraiment un pote.}
 {1095}{myn148}{Désolé, j'ai pas les... *matières premières* qu'il faut. Je préfère pas les avoir d'ailleurs.}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{Laisse tomber. J'ai d'autres questions à te poser...}
 {1098}{}{Très bien. Mille fois merci, Myron.}
 {1105}{myn149a}{Facile. Combien t'en veux ?}
 {1106}{myn149b}{Hé, l'génie. Ca t'a jamais traversé l'esprit que c'était plus facile de les éviter les ennuis ? Ok, combien ?}
@@ -544,7 +544,7 @@
 {1675}{myn240}{T'en poses beaucoup des questions toi. La réponse est, ouais, peut-être. Dis donc, où t'as appris tout ça d'abord ? T'es de la Cité de l'Abri ou quoi ?}
 {1676}{}{Pour répondre à ta question, ouais... PEUT-ETRE. Où as-TU appris tout ça ?}
 {1677}{}{Pas exactement. J'ai appris ça par moi-même. C'est assez facile, vraiment.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{Oh. J'ai encore d'autres questions...}
 {1679}{}{La Cité de l'Abri. Où est-ce ?}
 {1680}{}{Je te laisse deviner. Tu m'as déjà dit tout ce que je voulais savoir.}
 {1685}{myn241a}{Ouais, c'est ça continue à la ramener, monsieur-je-sais-tout. Je peux oxyder des cercles autour de toi. Je suis un vrai autodidacte. Je me la joue pas Cité de l'Abri « plus pur que moi tu meurs » moi !}
