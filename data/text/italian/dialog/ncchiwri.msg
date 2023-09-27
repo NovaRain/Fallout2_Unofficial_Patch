@@ -97,12 +97,12 @@
 {420}{}{Cause he was a clean kid…Mom taught him THAT much. And if you feel like saying any different, maybe you and I
  should settle it right here.}
 {421}{}{Non volevo insinuare nulla. Scusa se te ne ho parlato.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Non puoi fare finta che l'idea che abbia preso la droga di sua volonta' sia campata in aria. Il Jet crea una forte dipendenza.}
 {423}{}{Ascolta, *ragazzo*, se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {424}{}{Chi pensate possa averlo fatto?}
 {425}{}{Non voglio guai. Me ne vado. }
 {435}{}{Certo... beh, vedi di stare in guardia. Discorsi del genere farebbero arrabbiare qualsiasi Wright, percio' non andare a in giro a dire simili fesserie, okay?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{Non puoi fare finta che l'idea che abbia preso la droga di sua volonta' sia campata in aria. Il Jet crea una forte dipendenza.}
 {437}{}{Senti, RAGAZZO, non cercare di metterti contro uno come me. Se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {438}{}{Scusa, non intendevo offendervi. Ascolta, avrei qualche altra domanda…}
 {439}{}{Ho capito. Sara' meglio che vada. }

@@ -209,7 +209,7 @@
 {810}{}{(Si avvicina.) Beh, non vorrei dilungarmi troppo sul posto meno PIACEVOLE di New Reno, ma ci sono un sacco di camici bianchi che parlano come te in questo edificio, le Stalle, a nord della citta'. E' strettamente sorvegliato dagli uomini di Mordino.}
 {811}{}{Che cosa succede li' dentro?}
 {825}{}{Si testano nuovi tipi di Jet, da quel che ho sentito. Ora, te lo dico in CONFIDENZA, amico: non andare a ficcare il naso da quelle parti... ai Mordino non piacciono i visitatori. Inoltre... Jules puo' darti tutto il Jet di cui hai bisogno.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
+{826}{}{Perche' i Mordino continuano a testare il Jet? Sembra gia' creare abbastanza dipendenza cosi' com'e'.}
 {827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Sai per caso come potrei fare per introdurmi nelle Stalle?}
 {840}{}{Sugli schiavi, molto probabilmente. Li tengono all'interno di recinti nelle Stalle, come fossero brahmin. }

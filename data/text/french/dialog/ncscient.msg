@@ -22,8 +22,7 @@
 {170}{}{Vérifie son pouls. S'il est encore dans des limites tolérables, augmente la dose.}
 {171}{}{Pourquoi l'esclave du groupe témoin s'est-elle suicidée ? On ne s'est même pas servi d'elle pour faire des expériences !}
 {200}{}{Les tests se déroulent comme prévu, Myron.}
-{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
- willing to kill each other for it.}
+{201}{}{Chef, ce nouveau lot de Jet crée une forte dépendance. Les esclaves sont presque prêts à s'entre-tuer pour en avoir.}
 {202}{}{Les esclaves préfèrent prendre du Jet plutôt que se nourrir.}
 {203}{}{Qui sont ces gens Myron ? De nouveaux sujets ?}
 {204}{}{Chef, Myron, il semble que le troisième groupe soit le meilleur de tous.}

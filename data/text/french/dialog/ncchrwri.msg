@@ -87,7 +87,7 @@
 {414}{}{C'est bien triste. Ecoute, il faut que j'y aille. }
 {420}{}{Parce que c'était un gars *clean*... Maman l'avait bien éduqué. Et si tu as quelque chose à redire, on ferait mieux de régler nos comptes tout de suite !}
 {421}{}{Ce n'est pas ce que je voulais dire. Je regrette d'avoir amené ça sur le tapis.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Ne fais pas l'autruche. Tu sais très bien qu'il a pu en prendre. Le Jet rend les gens complètement accros.}
 {423}{}{Ecoute, *mon pote*, moi je serais à ta place, j'arrêterais de me mettre à trépigner à chaque fois qu'on me sort mes quatre vérités !}
 {425}{}{Je ne cherche pas les noises. Je m'en vais. }
 {435}{}{Ouais... eh bien, fais gaffe. Ce sont des paroles de défi pour chacun des Wright, alors ne va pas raconter des bobards comme ça, Ok ?}

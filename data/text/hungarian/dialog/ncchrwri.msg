@@ -88,7 +88,7 @@
 {414}{}{Mocskos dolog ez. Figyu, most mennem kell.}
 {420}{}{Mert az a gyerek tiszta volt... az anyám SOKMINDENRE megtanította. Ha pedig más lenne a véleményed, itt helyben lerendezhetjük.}
 {421}{}{Nem úgy gondoltam. Bocs, hogy felhoztam a témát.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Ne vakítson el a gondolat, hogy magának csinálta. A Jet hihetetlenül addiktív.}
 {423}{}{Nézd, KÖLYÖK, ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
 {425}{}{Én nem keresem a bajt. Csá...}
 {435}{}{Na, nehogy már! Ezt bármelyik Wright beszólásnak venné, szóval, ha lennél olyan szíves ne dobálózz itt a kemény szavakkal!}

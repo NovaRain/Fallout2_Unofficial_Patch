@@ -209,7 +209,7 @@
 {810}{}{(Közelebb hajol.) Nem nagyon akarok New Reno kevésbé kellemetes dolgairól beszélni, de a várostól észak felé eső Istállóban van egy rakás fehérköpenyes faszi, aki ugyanilyen dumát szokott megereszteni. Mordino emberei nagyon őrzik azt a helyet.}
 {811}{}{Mit csinálnak ott?}
 {825}{}{Tesztelik a legújabb Jeteket, amennyire hallottam. Amúgy BIZALMASAN megsúgom, barátom, hogy ne szaglássz ott... Mordinóék nem csípik a látogatókat. Meg amúgy is... Jules megszerzi neked a szükséges Jetet.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
+{826}{}{Miért tesztelik Mordinóék a Jetet? Amennyire tudom, éppen eléggé addiktív.}
 {827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Tudod, hogyan juthatnék el az Istállóba?}
 {840}{}{Leginkább rabszolgákon. Karámokban tartják őket, mint a brahminokat. }

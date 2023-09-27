@@ -167,8 +167,7 @@
 {761}{}{Honnan érkezik a Jet?}
 {762}{}{Jaja. Ellenben volna még néhány kérdésem...}
 {780}{}{A Jet egyenesen INNEN származik. Mi nem kutatunk az arany után, hanem egyenesen mi csináljuk. A Jet nem más, mint a folyékony arany. A bányászoknak mindent megér, és alig kerül valamibe az előállítása. Elvisszük szépen Reddingbe, ők belövik maguknak, elszállnak tőle, mi pedig elhozzuk az aranyukat. Pofonegyszerű.}
-{781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
- addictive.}
+{781}{}{Mióta folyik ez a gyakorlat? Ha a Jet annyira addiktív, akkor mostanra akár egész Észak Kaliforniát az uralmatok alá hajthattátok volna.}
 {800}{}{You're right about that... see, we didn't always HAVE Jet. But we stumbled across this kid - he took a look at the shitty
  drugs we was selling and said he could do 'better.' And he did. Now he works for us. That simple.}
 {801}{}{Milyen srácról beszélsz, és hol található?}

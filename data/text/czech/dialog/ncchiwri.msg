@@ -96,12 +96,12 @@
 {414}{}{To je nepříjemné. No, už musím jít.}
 {420}{}{Protože byl čistej...matka ho to naučila. A jestli na to máš jiný názor, můžeme to spolu vyřešit hned na místě.}
 {421}{}{Tak jsem to nemyslel. Promiň.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Nenech se zaslepit přehnanou vírou ve svého bratra. Klidně to mohl brát. Jet je vysoce návykový.}
 {423}{}{Poslyš, chlapče, jestli víš, co je pro tebe dobré, přestaň zavírat oči pokaždé, když se stane nějaká ošklivá událost a kopne tě do prdele.}
 {424}{}{Kdo myslíte, že to udělal?}
 {425}{}{Nestojím o problémy. Půjdu.}
 {435}{}{No, dávej si pozor. To jsou slova, který se nelíbí žádnýmu Wrightovi, takže je z huby radši nepouštěj, jasný?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{Nenech se zaslepit přehnanou vírou ve svého bratra. Klidně to mohl brát. Jet je vysoce návykový.}
 {437}{}{Poslyš, chlapče, nech mě na pokoji. Jestli víš, co je pro tebe dobré, přestaň zavírat oči pokaždé, když se stane nějaká ošklivá událost a kopne tě do prdele.}
 {438}{}{Promiň, neber si to špatně. Chci se ještě zeptat...}
 {439}{}{Rozumím. Raději půjdu.}

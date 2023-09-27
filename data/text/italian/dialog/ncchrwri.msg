@@ -88,7 +88,7 @@
 {414}{}{Terribile. Senti, adesso devo andare. }
 {420}{}{Perche' era una ragazzo pulito… La mamma l'aveva cresciuto BENE. E se non sei d'accordo, tu ed io possiamo risolvere subito la questione, che ne dici?!}
 {421}{}{Non volevo insinuare nulla. Scusa se te ne ho parlato.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Non puoi fare finta che l'idea che abbia preso la droga di sua volonta' sia campata in aria. Il Jet crea una forte dipendenza.}
 {423}{}{Ascolta, *ragazzo*, se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {425}{}{Non voglio guai. Me ne vado. }
 {435}{}{Okay... beh, vedi di stare in guardia. Discorsi del genere farebbero arrabbiare qualsiasi Wright, percio' non andare in giro a dire certe fesserie, okay?}
