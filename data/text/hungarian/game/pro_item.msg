@@ -171,7 +171,7 @@
 {8600}{}{Felderítők kézikönyve}
 {8601}{}{Egy könyv, mely a felderítés elvi és gyakorlati módszereit ismerteti. Hasznos tudnivalókat nyújt a szabadban való túléléshez.}
 {8700}{}{Buffout}
-{8701}{}{Highly advanced steroids. While in effect, they increase strength and reflexes. Very addictive.}
+{8701}{}{Fejlett szteroidkészítmény. Amikor hat, megnöveli az erőt és gyorsítja a reflexeket. Könnyen függőséget okoz.}
 {8800}{}{Karóra}
 {8801}{}{Egy értékes karóra. Nem működik, de még mindig jól néz ki.}
 {8900}{}{Motor}

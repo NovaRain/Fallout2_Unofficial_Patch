@@ -73,7 +73,7 @@
 {172}{}{Il Progetto, al quale l'Enclave si e' dedicata per interi decenni, ha come scopo il ritorno della razza umana sul territorio continentale degli Stati Uniti. Dio benedica l'America.}
 {173}{}{Non mi sembra una cosa cosi' complessa da richiedere tutti questi anni di lavoro.}
 {174}{}{Ho sentito abbastanza. Lasci che le chieda qualcos'altro.}
-{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
+{175}{}{Oh, stabilire un semplice avamposto non richiederebbe molto tempo. L'abbiamo gia' fatto con la base di Navarro. Ma e' stato necessario un periodo di tempo piu' lungo per trovare il procedimento adatto per la procedura di estirpazione.}
 {176}{}{Procedura di estirpazione?}
 {177}{}{Certamente; non possiamo tornare sul continente e correre il rischio che la nostra razza venga contaminata dai mutanti umanoidi che si trovano la'. Per rendere gli Stati Uniti un posto sicuro per l'umanita', i mutanti dovranno prima essere sterminati.}
 {178}{}{Cosa!?! Siete pazzi? E' un'idea abominevole!}

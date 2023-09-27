@@ -243,7 +243,7 @@
 {4000}{}{Hírnév}
 {4001}{}{Függőségek}
 {4100}{}{Megmutatja, milyen a hírneved az adott helyen.}
-{4101}{}{Things you have become addicted to.}
+{4101}{}{Ezekre a dolgokra vagy függő.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}
