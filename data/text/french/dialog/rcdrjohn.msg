@@ -80,8 +80,7 @@
 {179}{}{Euh, oui, j'y réfléchirai. Au revoir, Doc.}
 {180}{}{Ces temps-ci, on dirait que les mineurs passent plus de temps à planer au Jet qu'à bosser à la mine. Si ça continue, la production d'or à Redding va s'arrêter. New Reno n'a pas l'air de s'en faire, en tout cas.}
 {181}{}{Tous les mineurs du coin travaillent juste assez pour pouvoir se procurer leur Jet. La production a vraiment ralenti. Si ça continue, New Reno va s'emparer de Redding.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
+{182}{}{Ces derniers temps, les mineurs du coin planent en permanence. Plus personne ou presque n'exploite l'or. Je crains que New Reno ne s'approprie cette ville. J'aimerais trouver un moyen d'arrêter ce besoin constant de planer au Jet.}
 {183}{}{Quel est le rapport avec New Reno ?}
 {184}{}{D'où vient le Jet ?}
 {185}{}{Je vois. Puis-je te poser une autre question ?}
@@ -102,16 +101,13 @@
 {200}{}{Quel est le rapport avec New Reno ?}
 {201}{}{Si ça marche, tant mieux, Doc. A plus tard.}
 {202}{}{Une solution ? Que veux-tu dire ?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
+{203}{}{Je veux dire que j'ai un antidote contre le Jet. C'est le Dr Troy de la Cité de l'Abri qui l'a élaboré et il devrait résoudre votre problème de besoin constant qu'est le Jet.}
 {204}{}{Oh, rien. Puis-je te demander autre chose, Doc ?}
 {205}{}{Ca c'est sûr : trop de Jet, pas assez de travail... mais où as-tu entendu parler de ça ?}
 {206}{}{Je tiens ça de McClure à la Cité de l'Abri.}
 {207}{}{Une simple rumeur, c'est tout.}
 {208}{}{Ce n'est pas vraiment important. Je peux te demander autre chose ?}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno vend du Jet assez bon marché. Le Jet entraîne un besoin constant, rien de comparable à ce que tu as déjà pu voir. Ils pensent que si un nombre suffisant de personnes l'utilisent dans un endroit donné, elles feront n'importe quoi pour en avoir plus. Ils auraient ainsi de facto le contrôle d'une zone, Redding par exemple.}
 {210}{}{Je vois. Puis-je te demander autre chose, Doc ?}
 {211}{}{Donc si tu ne veux pas que New Reno contrôle Redding, qui devrait faire la loi ici ?}
 {212}{}{Merci pour ces explications, Doc. Au revoir.}

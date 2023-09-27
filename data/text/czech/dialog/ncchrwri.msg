@@ -87,7 +87,7 @@
 {414}{}{To je nepříjemné. No, už musím jít.}
 {420}{}{Protože byl čistej... matka ho to naučila. A jestli na to máš jinej názor, můžeme to spolu vyřešit hned teď.}
 {421}{}{Tak jsem to nemyslel. Promiň.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Nenech se zaslepit přehnanou vírou ve svého bratra. Klidně to mohl brát. Jet je vysoce návykový.}
 {423}{}{Poslyš, *chlapče*, jestli víš, co je pro tebe dobré, přestaň zavírat oči nad každou malou pravdou, která se objeví a dá ti facku.}
 {425}{}{Nestojím o problémy. Půjdu.}
 {435}{}{Jo... no, dávej si pozor. To jsou slova, který se nelíbí žádnýmu Wrightovi, takže je z huby radši nepouštěj, jasný?}

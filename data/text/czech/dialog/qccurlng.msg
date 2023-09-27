@@ -73,7 +73,7 @@
 {172}{}{Projekt, kterému jsme se zde v Enklávě věnovali několik posledních desetiletí, má za cíl obnovit lidskou rasu na pevnině Spojených států. Bůh žehnej Americe.}
 {173}{}{Nevidím důvod, proč by to mělo zabrat celá desetiletí.}
 {174}{}{Už to nebudu poslouchat. Chci se zeptat na něco jiného.}
-{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
+{175}{}{Ano, pouhé zřízení základny nezabere příliš dlouho. Vše již máme zřízeno a připraveno v Navarru. Ale dlouho nám trvalo vypracování spolehlivé metody vyhlazovacího postupu.}
 {176}{}{Vyhlazovacího postupu?}
 {177}{}{Ano, nemůžeme se přeci vrátit zpět na pevninu a riskovat nakažení od všech těch zmutovaných skoro-lidských bytostí. Aby byly Spojené státy pro lidstvo bezpečné, musí být nejdříve všichni mutanti vyhlazeni.}
 {178}{}{Cože!?! Zbláznil jste se? To je zrůdné!}

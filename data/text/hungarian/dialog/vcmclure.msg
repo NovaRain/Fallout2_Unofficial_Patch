@@ -234,7 +234,7 @@
 {333}{}{Van itt egy reaktor-lemez. Egy gekkói ... hmmm ... technikus szerint Menedékváros számítógépe optimalizálni tudná a működését, tovább növelve a teljesítményét és stabilitását.}
 {334}{}{Őrség! Őrség !!!}
 {335}{}{}
-{336}{}{You told McClure about the Redding Jet addiction problem.}
+{336}{}{Tájékoztattad McClure-t Redding Jet-függőségével kapcsolatban.}
 {337}{}{Átadtad a gazdálkodási adatlemezt McClure számára.}
 {338}{}{Még mindig keresem a módját, hogy lehetne optimalizálni az erőmű működését.}
 {339}{}{Még mindig keresem a módját, hogy lehetne optimalizálni az erőmű működését.}

@@ -105,8 +105,8 @@
 {444}{}{Uff.}
 {445}{}{Urseco?}
 {450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
-{451}{}{Drugs are bad for you, man.}
-{452}{}{Drugs are bad for you, lady.}
+{451}{}{A drogok ártanak neked, ember.}
+{452}{}{A drogok ártanak neked, kislány.}
 {453}{}{(Morog)}
 {460}{}{Igen? Miről van szó?}
 {461}{}{Nem adom ingyen.}
