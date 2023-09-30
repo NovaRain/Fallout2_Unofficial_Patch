@@ -46,7 +46,7 @@
 {271}{}{Le dernier combat était vraiment épique, chica.}
 {272}{}{Hé, où t'entraînes-tu ? T'as besoin d'un entraîneur ?}
 {273}{}{Attention au Mastiquateur. Il aime bouffer les oreilles. C'est un drôle de type.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hé, hé là ! Chica, tu veux que je range cette arme pour toi ?}
 {281}{}{Quoi, tu veux que je te taille un nouveau costard ? Allez, rengaine ton arme avant que je m'énerve.}
 {285}{}{Mais bordel, pourquoi te-te planques, }
 {290}{}{Dur d'échapper à l'oeil d'un Mordino avec un physique pareil, chica.}

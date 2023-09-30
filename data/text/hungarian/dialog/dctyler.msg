@@ -8,7 +8,7 @@
 {221}{}{Mintha csak birkákat vittünk volna a vágóhídra.}
 {222}{}{Végre meghalt az a kibaszott kurva!}
 {223}{}{Kösz a tippet, jól jött.}
-{230}{}{Where the hell were you?}
+{230}{}{Hol a pokolban voltál?}
 {231}{}{Nyald ki a seggem! Rohadt, hazug disznó!}
 {232}{}{Itt helyben kibelezlek!}
 {233}{}{Na, ennyit a tervekről, seggfej!}
@@ -104,7 +104,7 @@
 {443}{}{Semmi.}
 {444}{}{Uff.}
 {445}{}{Urseco?}
-{450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
+{450}{}{A francba, mi bajod van ma? Hagyd el a drogokat!}
 {451}{}{A drogok ártanak neked, ember.}
 {452}{}{A drogok ártanak neked, kislány.}
 {453}{}{(Morog)}
@@ -141,7 +141,7 @@
 {712}{}{You see this mark on my forehead? Let me in. Now!}
 {713}{}{Én vagyok az új kurvája, azért. Ha nem engedsz be most rögtön, biztos lehetsz benne, hogy az elintézendő listája elején találod magad.}
 {714}{}{Figyelj, haver! Metzger megnyúz, ha nem ellenőrzök le mindent gyorsan. Tudod, hogy milyen.}
-{715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
+{715}{}{Ez nem a te kibaszott dolgod. Ha a Főnök ellenőriztetni akarja ezt a szart, akkor én megcsinálom. Nem kérdezősködöm.}
 {716}{}{Rá se ránts!}
 {717}{}{Shaka?}
 {1255}{}{. menet!}

@@ -36,7 +36,7 @@
 {280}{}{Pas vraiment. Je m'excuse de te déranger.}
 {290}{}{Tu n'as pas entendu parler de la famille Wright ? Tu as séjourné dans le désert trop longtemps. La famille Wright est la plus grande famille criminelle de Reno. Nous allons devenir les maîtres de cette ville.}
 {291}{}{Ah bon ? La famille Wright semble avoir tous les atouts en main. Embauche-t-elle ? }
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
+{292}{}{En fait, j'avais l'impression qu'elle était l'une des familles les moins puissantes... C'est vrai, elle est juste impliquée dans le commerce de l'alcool, elle ne possède pas de casino et ne fait pas de trafic de stupéfiants, et elle a beaucoup moins de représentants que les autres familles.}
 {293}{}{En parlant de famille, j'ai rencontré ta mère.}
 {295}{}{Ah bon ? C'est intéressant... Ecoute, il faut que je file.}
 {296}{}{La famille Wright est la plus grande famille de gangsters de Reno. On va gouverner cette ville. }
@@ -73,12 +73,12 @@
 {370}{}{Probablement. Ecoute, il faut que j'y aille. }
 {380}{}{Elle va prêcher la bonne parole un peu partout, mais elle ne sait pas vraiment ce que papa fait. C'est ça ou alors elle fait semblant de ne pas savoir.}
 {381}{}{Que fait ton père ?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hum. D'accord, j'avais deux ou trois autres questions...}
 {383}{}{Intéressant. Bon, il faut que j'y aille. }
 {390}{}{Il fait de l'alcool, vend des armes, descend ceux qui lui cassent les pieds... Les affaires de famille habituelles. Maman serait révoltée si elle soupçonnait ce qui se passe. Et surtout si elle découvrait cette distillerie.}
 {391}{}{A quel point serait-elle révoltée ?}
 {400}{}{Probablement assez pour dévaster l'endroit... au moins. Ensuite, elle nous passerait un savon et on aurait le droit à des sermons pendant plusieurs jours. Hé.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Intéressant. J'avais d'autres questions...}
 {402}{}{Hum. Merci. }
 {410}{}{Richard ? Oh, tu sais, on l'a trouvé mort, comme l'un des ces accros au Jet. Tout ce qu'on sait pour l'instant, c'est que quelqu'un lui a refilé du matos jusqu'à ce qu'il en meure. }
 {411}{}{*Quelqu'un* ? Comment sais-tu qu'il n'a pas fait une overdose parce qu'IL en avait pris trop ?}
@@ -109,7 +109,7 @@
 {486}{}{Hé, ma pt'ite dame, merci.}
 {487}{}{Tu as découvert qui a tué mon frère et toute la famille Wright t'en remerciera. Et comme il se doit, tu vois ce que je veux dire ?}
 {488}{}{Je comprends. A plus tard, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules dirige la ville et vend également du Jet, mais principalement aux touristes... Et puis, il y a Petit Jésus Mordino : c'est sûrement lui qui fournissait Rich lorsqu'il sortait tout seul. Il traîne au Desperado.}
 {497}{}{Jimmy J l'édenté, Renesco l'homme fusée, Jules et Petit Jésus... Je vais aller voir ça. Merci pour l'info, Chris.}
 {1200}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}
 {1201}{}{Génial !}

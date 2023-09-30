@@ -140,7 +140,7 @@
 {535}{}{Les Familles. Elles aiment PAS qu'il y ait des problèmes à Reno, ça porterait un coup au tourisme et donc à leurs revenus. N'aie pas d'ennuis, paie tes dettes de jeu, et tu éviteras Golgotha.}
 {537}{}{Le Golgotha ?}
 {545}{}{Oui, c'est le cimetière en dehors de la ville. C'est là qu'on met les mauvais payeurs et les gens qui ont causé du souci aux familles. On les suspend à des poteaux et on les laisse mourir au soleil. Très peu pour moi. Et ça pue, là-bas.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Intéressant. J'avais d'autres questions...}
 {548}{}{Ca a l'air super. Merci du renseignement.}
 {555}{}{Une autre chose à SAVOIR, c'est qu'on a rien pour rien, à New Reno. Si c'est gratuit, méfie-toi.}
 {556}{}{Bon, ce genre d'information, c'est pas donné. Tu as des jetons ? Alors, je t'écoute.}

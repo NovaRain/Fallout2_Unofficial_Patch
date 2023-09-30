@@ -243,4 +243,4 @@
 {342}{}{Lehetséges. Majd meglátom.}
 {343}{}{Tudattad McClure-ral, hogy kézbesítetted a Jet-ellenszert.}
 {344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
-{345}{}{This is quite interesting.}
+{345}{}{Ez érdekes lesz.}

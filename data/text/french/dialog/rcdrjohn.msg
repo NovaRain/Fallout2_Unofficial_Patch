@@ -29,7 +29,7 @@
 {128}{}{Ecoute, je vais te faire un prix de groupe puisque je vois que vous êtes tous bien amochés. $100 pour le lot.}
 {129}{}{Voilà ton argent, Doc. Arrange-nous comme il faut.}
 {130}{}{On peut pas se payer ça maintenant. Je regrette Doc, plus tard peut-être.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, hein ? On verra ça plus tard. Au revoir, Doc.}
 {132}{}{J'ai l'impression que c'est pas vraiment la forme. Je peux te guérir pour $100. Veux-tu que j'essaie ?}
 {133}{}{Ton camarade ne va pas fort. Je peux le retaper pour $100. Veux-tu que j'essaie ?}
 {134}{}{J'espère que tu feras mieux qu'essayer, Doc. Voilà ton argent.}
@@ -132,9 +132,7 @@
 {231}{}{C'est n'importe quoi. La Cité de l'Abri accorde des privilèges spéciaux à ses citoyens, mais uniquement parce qu'ils sont plus aptes à profiter de ces choses que ces rustres de non-citoyens. En outre, n'importe qui peut demander la citoyenneté de la Cité de l'Abri à condition de réussir les tests.}
 {232}{}{Je ne sais pas comment les gens de Redding réagiraient à la domination de la Cité de l'Abri.}
 {233}{}{Ouais, sans doute. Salut, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+{234}{}{Je remplis les ampoules avec du Jet et je les distribue uniquement pour rendre service aux habitants de Redding. J'en tire aucun bénéfice. Si je ne le faisais pas, un charlatan préparerait ça avec du matériel rouillé, plein de germes. Et après ça, je ne pourrais plus les soigner.}
 {235}{}{T'es vraiment un chic type, Doc. C'est chouette. Puis-je te demander autre chose ?}
 {236}{}{Très *noble* de ta part, Docteur.}
 {237}{}{C'est intéressant. A plus tard, Doc. Au revoir.}
@@ -229,4 +227,4 @@
 {326}{}{On reprend connaissance, allez... Tu regorges de radiateurs thermiques et de membranes de dissipation. Ces protubérances auront disparu dans quelques semaines, mais ne compte pas non plus gagner un concours de beauté. Essaie de ne pas trop toucher les croûtes de pus près des incisions tant qu'elles n'ont pas cessé de suppurer.}
 {327}{}{Merci du conseil, Doc. C'est super. Eh, est-ce que je peux te demander autre chose ?}
 {328}{}{Merci pour ce travail de pro, Doc. Mieux vaut que je file. Au revoir !}
-{329}{}{You deliver the Jet antidote to Dr. Johnson.}
+{329}{}{Tu as délivré l'antidote au Jet au Doc Johnson.}

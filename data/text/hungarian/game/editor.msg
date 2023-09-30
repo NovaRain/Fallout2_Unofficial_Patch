@@ -163,7 +163,7 @@
 {653}{}{ ::: Képzettségek :::        ::: Hullák :::}
 {654}{}{ ::: Tárgylista :::}
 {655}{}{                   Össz tömeg:}
-{656}{}{ ::: Addictions :::}
+{656}{}{ ::: Függőségek :::}
 {657}{}{ ::: Hírnév :::}
 {1000}{}{Hírnév (Általános) }
 {1001}{}{Berzerker}
