@@ -36,7 +36,7 @@
 {280}{}{Ani ne. Sorry že sem otravoval.}
 {290}{}{Ty neznáš rodinu Wrightů? To jsi musel být v poušti asi pěkně dlouho. Wrightova rodina je největší zločinecká rodina v Renu. Brzy budem šéfovat celýmu městu.}
 {291}{}{Opravdu? To zní, jako kdyby měli všechny esa. Nabírají lidi?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
+{292}{}{Vlastně mi přijde, že jsou nejslabší rodina... chci říct, kšeftujou jenom s chlastem, nemají ani kasíno nebo fet a dohromady jich je mnohem méně než v ostatních rodinách.}
 {293}{}{Když už mluvíme o rodině, potkal jsem tvoji matku.}
 {295}{}{Opravdu? To je zajímavé... poslyš, už musím jít.}
 {296}{}{Wrightova rodina je největší zločinecká rodina v Renu. Brzy budem šéfovat celýmu městu.}
@@ -109,7 +109,7 @@
 {486}{}{Hej, dámo, DÍKY. }
 {487}{}{Díky tobě víme, kdo zabil Rika a celá rodina Wrigtů ti za to děkuje. A to nejsou žádný malý díky, jasný?}
 {488}{}{Rozumím. Uvidíme se později, Chrisi.}
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Ještě Jules na kraji města prodává Jet, ale většinou jen turistům... a pak je tady Malej Ježíš Mordino. Mohl ho napumpovat drogama, když byl Rich sám venku. Poflakuje se kolem Desperada.}
 {497}{}{Pořezanej Jimmy J, Renesco Rakeťák, Jules a Malej Ježíš...podívám se na ně. Díky za informace, Chrisi.}
 {1200}{}{! Takhle se nakopává Enklávě prdel!}
 {1201}{}{! Jseš nejlepší!}

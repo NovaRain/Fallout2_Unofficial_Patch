@@ -141,7 +141,7 @@
 {535}{}{A családok gondoskodnak arról, hogy minden a lehető legsimábban menjen. Nem szeretik a balhét, mert rossz hatással van a turizmusra, és ez kevesebb bevételt jelent nekik. Ne csinálj balhét, add meg a tartozásaidat, és akkor nem jutsz a Golgotára.}
 {537}{}{Miféle Golgotán?}
 {545}{}{Az egy városon kívüli temető. Az adósokat és a bajkeverőket oda szokták beutalni. Kikötözik őket egy karóhoz, és hagyják, hogy szép lassan megnyúvadjanak a napon. Nekem nem jön be ez a halálnem. Amúgy mocskos büdös van ott.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Érdekes. Inkább kérdezek mást...}
 {548}{}{Nagyszerűen hangzik. Kösz az információért.}
 {555}{}{Van valami, amit nem árt észbe vésni Renóban. Semmi nincs ingyen. Ha mégis, jól nézd meg, mit akarnak rádsózni.}
 {556}{}{Hát ez az infó nem olcsó mulatság. Van pénzed? Ha igen, akár rád is figyelhetek.}

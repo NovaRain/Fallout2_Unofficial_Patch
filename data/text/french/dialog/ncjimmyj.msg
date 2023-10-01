@@ -125,7 +125,7 @@
 {510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{Myron ?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Intéressant. J'avais d'autres questions...}
 {513}{}{Myron ? Et où puis-je voir ce... dieu vivant ?}
 {514}{}{Vraiment ? Alors je reviendrai t'en acheter. Merci Jimmy.}
 {520}{}{C'est le trésor de la famille Mordino. Il a CONCU le Jet. Se fournir auprès de Jimmy J, c'est comme se fournir auprès de Myron lui-même, tu vois ? C'est pour ça que J-J a le Jet le plus pur. Le MEILLEUR Jet.}

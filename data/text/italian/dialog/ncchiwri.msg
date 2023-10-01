@@ -79,17 +79,16 @@
 {370}{}{Lo immagino. Beh, adesso devo andare. }
 {380}{}{Va in giro a fare delle prediche sul peccato e robe del genere, ma non sa neppure cosa fa veramente nostro padre. O non lo sa, o fa finta di non saperlo.}
 {381}{}{Cosa fa tuo padre?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Okay, avrei delle altre domande...}
 {383}{}{Interessante. Beh, adesso devo andar. }
 {390}{}{Distilla alcol, si occupa degli affari sporchi, elimina le persone che cercano di fregarlo... le solite cose da famiglia. La mamma andrebbe fuori di testa se si accorgesse di quello che succede davvero. E soprattutto si arrabbierebbe se scoprisse questa distilleria.}
 {391}{}{E quanto potrebbe arrabbiarsi?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmm. Okay, avrei delle altre domande...}
 {393}{}{Interessante. Beh, adesso devo andar. }
 {400}{}{Probabilmente abbastanza da spaccare questo posto… come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh. }
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Interessante. Ho delle altre domande...}
 {402}{}{Hmmmmm. Grazie. }
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Rich? Aw, l'hanno trovato morto in un fosso, come uno strafatto di Jet qualsiasi. Da quel che sappiamo, qualcuno deve averlo imbottito di droghe finche' non e' morto.}
 {411}{}{'Qualcuno' gli ha dato troppa droga? Come fate a dire che non e' morto di overdose perche' LUI ha preso troppa droga?}
 {412}{}{Chi pensate possa averlo fatto?}
 {413}{}{Mi dispiace. Avrei delle altre domande...}
