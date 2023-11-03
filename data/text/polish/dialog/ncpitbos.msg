@@ -83,7 +83,7 @@
 {358}{}{Czy możesz opowiedzieć mi coś o tym kasynie?}
 {359}{}{Rozumiem. Dzięki za poświęcenie mi czasu.}
 {360}{}{Hej, zobaczcie kto tu jest! Cześć }
-{361}{}{. Welcome to [CN]. Love your films.}
+{361}{}{. Witamy w [CN]. Kochamy twoje filmy.}
 {362}{}{Fuuuuuuuuu fuu fuu fuuuuu}
 {363}{}{Odejdź}
 {364}{}{Kim jesteś?}
@@ -117,10 +117,10 @@
 {435}{}{Nie, wciąż podnosimy się z upadku po twoich ostatnich wyczynach. Może lepiej spróbuj w innych kasynach.}
 {436}{}{Dobra, dzięki. Wiesz co, mam kilka innych pytań...}
 {437}{}{Dobra... ale jeszcze tu wrócę.}
-{445}{}{You count up the evening's tally. chips. Not a bad haul.}
+{445}{}{Podliczasz dzisiejszy utarg. żetonów. Całkiem nieźle.}
 {446}{}{The leather was a nice touch.}
-{447}{}{That ball gag you had with you didn't hurt, either.}
-{448}{}{I'll do even better next time...}
+{447}{}{Ten kawał z piłką też był w porządku.}
+{448}{}{Następnym razem będzie jeszcze lepiej...}
 {455}{}{Pewnie, śmierdzi gorzej niż braminie łajno. No ale ty...? A do licha, czemu nie. Mała improwizacja nie zaszkodzi, ale to jest trudna publiczność... lepiej się postaraj.}
 {456}{}{Och, to dla mnie prościzna... tylko popatrz.}
 {1215}{}{. Witam pana.}
