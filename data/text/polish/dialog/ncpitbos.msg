@@ -59,7 +59,7 @@
 {328}{}{Czy możesz opowiedzieć mi coś o tym kasynie?}
 {329}{}{Nic, dziękuję. Miło się rozmawiało.}
 {335}{}{To jest [CN]. Jak będziesz czegoś potrzebować, przyjdź do mnie.}
-{336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
+{336}{}{To jest [CN]. W każdym razie tak było, gdy ostatnio patrzyłem na szyld. Co mogę dla ciebie zrobić?}
 {337}{}{Kim jesteś?}
 {338}{}{Czy możesz opowiedzieć mi coś o tym kasynie?}
 {339}{}{Nic, dziękuję. Miło się rozmawiało.}
@@ -78,7 +78,7 @@
 {352}{}{Nic, dziękuję. Miło się rozmawiało.}
 {353}{}{Tylko sprawdzam jak sprawy stoją. Trzym się.}
 {355}{}{Rodziny [CA]. Wpakowali w ten lokal sporo kasy, ale opłaciło się. To jedna z lokalnych atrakcji Nowego Reno.}
-{356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
+{356}{}{Rodzina [CA]. Jakiś problem? Bo jeśli nie jesteś tu dla hazardu, to to nie jest miejsce dla ciebie. Zrozumiano?}
 {357}{}{Kim jesteś?}
 {358}{}{Czy możesz opowiedzieć mi coś o tym kasynie?}
 {359}{}{Rozumiem. Dzięki za poświęcenie mi czasu.}
