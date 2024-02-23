@@ -29,7 +29,7 @@
 {128}{}{Vissza.}
 {129}{}{Kilépés.}
 {130}{}{Tiltott művelet. Lépjen kapcsolatba a rendszergazdával! Kilépés. Viszlát!}
-{131}{}{[DONE]}
+{131}{}{[RENDBEN]}
 {132}{}{Úgy tűnik, ehhez nincs interfész.}
 {133}{}{Az ESS Quetzel fel van töltve és készen áll a kilövésre.}
 {134}{}{Az ESS Quetzel üzemanyagtartályai üresek.}
@@ -38,4 +38,4 @@
 {137}{}{Kilépés.}
 {250}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
 {251}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
-{252}{}{[DONE]}
+{252}{}{[RENDBEN]}

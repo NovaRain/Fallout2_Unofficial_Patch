@@ -56,7 +56,7 @@
 {155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
 {156}{}{Igen, az bizony egy emberi lép.}
 {157}{}{Igazság szerint ellenkeznék ezzel. Maga nem bizonyult jó embernek. Azt sem tudom, miért beszélek magával egyáltalán. Minden jót!}
-{158}{}{[DONE]}
+{158}{}{[RENDBEN]}
 {159}{}{Aijjj! Őrség! Itt van a lao wai behatoló!}
 {160}{}{Vannak vázlatai, amit odaadna nekem?}
 {161}{}{Ken Lee mondta nekem, hogy adjam ezeket magának.}

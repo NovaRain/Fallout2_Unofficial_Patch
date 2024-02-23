@@ -2,7 +2,7 @@
 {101}{}{You see Captain A. Ron Meyers.}
 {102}{}{Ez a szakadt ruhát viselő punk Kapitány-sapkát visel.}
 {103}{}{Mi a fenét akarsz? Addig nem beszélek senkivel, amíg nem a barátom, vagy nem bizonyul jó embernek. Tégy valami jót valamelyik emberemmel, és akkor gyere vissza!}
-{104}{}{[DONE]}
+{104}{}{[RENDBEN]}
 {105}{}{Hallottam, mit tettél az emberemmel. Köszönöm neked. Miben segíthetek?}
 {106}{}{Te vagyol ki?}
 {107}{}{Úgy hallottam, te vagy az, aki mindent tud erről a hajóról.}
@@ -10,7 +10,7 @@
 {109}{}{Hogy lehetne ezt a teknőt mozgásra bírni?}
 {110}{}{Semmi.}
 {111}{}{Én vagyok a Kapitány, én működtetem ezt a hajót. Ha további kérdéseid vannak, keress meg egy Shi-t vagy a Borzot, vagy akárkit! Nincs időm rád!}
-{112}{}{[DONE]}
+{112}{}{[RENDBEN]}
 {113}{}{Ez a hajó egy Poseidon tanker. Olyan technológiával van felszerelve, ami túlélte a háborút. Van benne egy FBK, amely lehetővé teszi, hogy hozzáférj a navigációs számítógéphez, és van benne egy EBFR jeladó, amely megvédi a Poseidon ágyúitól.}
 {114}{}{Honnan tudsz te minderről?}
 {115}{}{Mi az az EBFR jeladó?}
