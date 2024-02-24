@@ -38,6 +38,6 @@
 {137}{}{Hela, ne csesztesd a kutyámat!}
 {138}{}{Grrrrr....}
 {139}{}{(Kiváncsi vagyok, rá tudnám-e venni Dogmeatet, hogy máshogy kövessen?)}
-{300}{}{*Wimper*}
-{301}{}{Awooooooooooo! *wimper*}
-{1110}{}{The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.}
+{300}{}{*nyüszít*}
+{301}{}{Vaúúúúúúúúúúú... *nyüszít*}
+{1110}{}{A kutya torkos módon bekebelezi a kutyakaja konzervet, utána várakozóan néz rád...}
