@@ -33,7 +33,7 @@
 {132}{}{Úgy tűnik, ehhez nincs interfész.}
 {133}{}{Az ESS Quetzel fel van töltve és készen áll a kilövésre.}
 {134}{}{Az ESS Quetzel üzemanyagtartályai üresek.}
-{135}{}{Mainframe operational. Pipeline operational. Research stations operational. Repair center operational. Cameras operational.}
+{135}{}{Központi számítógép működik. Csővezeték működik. Kutatóállomások működnek. Javítóközpont működik. Kamerák működnek.}
 {136}{}{Vissza.}
 {137}{}{Kilépés.}
 {250}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
