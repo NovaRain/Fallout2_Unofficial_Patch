@@ -6,8 +6,8 @@
 {122}{}{Dörk digglerr!}
 {123}{}{Te vagyol ki?}
 {124}{}{Marcus kérdezősködik felőled.}
-{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
-{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Elég bizonyítékom van arra, hogy pénzt loptál melyet Broken Hills városának szántak. Le leszel tartóztatva. Mész a sittre!}
+{126}{}{Elég bizonyítékom van arra, hogy pénzt loptál Broken Hills városától. Le kellene tartóztassalak, de ha megkensz egy ezressel hagyom, hogy elmenekülj.}
 {127}{}{Ki vagy?}
 {128}{}{Meséljen erről a helyről!}
 {129}{}{Semmit. Viszlát!}
@@ -15,23 +15,21 @@
 {131}{}{Szióka!}
 {132}{}{Chad vagyok. }
 {133}{}{Bocs, elég sok dolgom van. Keress valaki mást!}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
+{134}{}{Én vagyok a város karavánmestere. Én kötöm az üzleteket a karavánutak túlsó végén. Mostanában leginkább Gekkóra koncentrálok.}
 {135}{}{Okké!}
 {136}{}{Lenne valami munka a számomra?}
 {137}{}{Izgalmas lehet.}
 {138}{}{Unalmas lehet.}
 {139}{}{Mást szeretnék kérdezni.}
 {140}{}{Köszönöm. Viszlát!}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Meséljek Broken Hillsről? Hát... Pár évvel ezelőtt jöttem ide. Munkát szereztem Billnél... ő a karavánmester... és azóta ott tartok, ahol most. Marcusnak és Billnek kell jelentenem. Én felelek a város élelmiszer-ellásátásért.}
 {142}{}{Mást szeretnék kérdezni.}
 {143}{}{Viszlát!}
 {144}{}{Úgymint?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
-{146}{}{Nothing really, Bye.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
-{150}{}{I'm going to find out the truth. Bye.}
+{145}{}{Ő azt feltételezi, hogy sikkasztasz a pénzből amit Broken Hillsnek szánnak.}
+{146}{}{Semmi különös. Viszlát!}
+{147}{}{Nézd. Nem szeretem mikor emberek megvádolnak engem valamivel amiről semmit sem tudok. Azt javaslom távozz.}
+{150}{}{Rá fogok jönni az igazságra. Viszlát.}
 {156}{}{Beszélj Billel! Ő tud segíteni.}
 {157}{}{Mást szeretnék kérdezni.}
 {158}{}{Köszönöm. Viszlát!}

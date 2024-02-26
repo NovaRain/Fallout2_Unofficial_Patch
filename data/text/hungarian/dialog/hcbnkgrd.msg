@@ -37,7 +37,7 @@
 {136}{}{Értem.}
 {137}{}{Hé te! Mi a fenét csinálsz? Takarodj a pokolba innen!}
 {138}{}{Rakd el szépen a fegyvereidet, kispofám!}
-{139}{}{You again? Do you actually need something?}
+{139}{}{Megint te? Szeretnél valamit egyáltalán?}
 {140}{}{Csak nézelődök.}
 {141}{}{Ööö... nem, nem igazán.}
 {142}{}{Igen. A rabokkal szeretnék beszélni.}
