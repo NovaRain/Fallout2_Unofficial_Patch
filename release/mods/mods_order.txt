@@ -1,0 +1,12 @@
+upu.dat
+upu_czech.dat
+upu_french.dat
+upu_german.dat
+upu_hungarian.dat
+upu_italian.dat
+upu_polish.dat
+upu_portuguese.dat
+upu_russian.dat
+upu_spanish.dat
+walk_speed_fix_low_fps.dat
+goris_fast_derobing_low_fps.dat
