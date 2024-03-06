@@ -28,7 +28,8 @@ UsePreviousAppDir=no
 AlwaysShowDirOnReadyPage=yes
 
 [Files]
-Source: "release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
+Source: "release\*.*"; Excludes: "\mods\mods_order.txt"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
+Source: "release\mods\mods_order.txt"; DestDir: "{#mods_dir}"; Components: core; Flags: onlyifdoesntexist
 #include "files_translations.iss"
 Source: "optional\walk_speed_fix_low_fps.dat"; DestDir: "{#mods_dir}"; Components: walk_speed\low_fps; Flags: ignoreversion overwritereadonly
 Source: "optional\goris_fast_derobing_low_fps.dat"; DestDir: "{#mods_dir}"; Components: goris\low_fps; Flags: ignoreversion overwritereadonly

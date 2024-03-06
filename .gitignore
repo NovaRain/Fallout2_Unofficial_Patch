@@ -1,31 +1,32 @@
-*.int
-*.tmp
+*.7z
+*.dat
 *.err
 *.exe
+*.int
 *.log
+*.tmp
 *.zip
-*.dat
-*.7z
 **/.tmp.ssl
 
-# used to build dat files
-file.list
-
 translations/*/text
+translations/*.dat
 data/text/english/cuts_female
 
+release/data
 release/ddraw.dll
 release/ddraw.ini
 release/sfall-mods.ini
 release/translations/
-release/mods/
+
+release/mods/*
+!release/mods/f2_res.dat
+!release/mods/upu.ini
+!release/mods/mods_order.txt
 
 extra/bin/*
 !extra/bin/dat2.exe
-scripts_src/sfall
-translations/*.dat
 extra/inno/Output
 extra/inno/release
 extra/inno/translations
-
-.venv/
+scripts_src/sfall
+dat2.list
