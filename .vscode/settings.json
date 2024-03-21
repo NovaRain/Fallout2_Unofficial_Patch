@@ -1,3 +1,10 @@
 {
-    "python.formatting.provider": "black"
+    "files.associations": {
+        "**/data/ai.txt": "ini",
+        "**/data/aibdymsg.txt": "ini",
+        "**/data/aigenmsg.txt": "ini",
+        "**/data/city.txt": "ini",
+        "**/data/maps.txt": "ini",
+        "**/data/party.txt": "ini",
+    }
 }
