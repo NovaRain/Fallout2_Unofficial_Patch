@@ -40,6 +40,7 @@ For various QoL features, check out these mods:
 - [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
 - [Cassidy talking head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head)
+- [Inventory Filter](https://github.com/rotators/InventoryFilter)
 
 ### Bug reports, feature requests
 
