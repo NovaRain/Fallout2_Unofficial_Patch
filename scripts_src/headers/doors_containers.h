@@ -605,7 +605,7 @@ lockpick skill and perception to notice the lock.
     variable Perception_Check;
     variable Locks_Check;
 
-    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0)
+    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
 
     if (is_success(Perception_Check)) then begin
@@ -701,7 +701,7 @@ traps skill and perception to notice the trap.
     variable Perception_Check;
     variable Traps_Check;
 
-    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0)
+    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0);
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
 
     if (is_success(Perception_Check)) then begin
@@ -799,7 +799,7 @@ on your lockpick and traps skills and perception to notice things.
     variable Traps_Check;
     variable Locks_Check;
 
-    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0)
+    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0);
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
 
