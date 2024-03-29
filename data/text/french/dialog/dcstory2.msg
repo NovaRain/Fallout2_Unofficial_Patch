@@ -57,7 +57,7 @@
 {162}{}{Je peux comprendre ça.}
 {163}{}{Ceux-là étaient sauvages, mais je pense vraiment que c'est ce qui est arrivé à la mienne. Maintenant, je sais pourquoi maman gardait toujours un oeil sur elle.}
 {164}{}{C'est triste.}
-{165}{}{Quel dommage !}
+{165}{}{Quel dommage.}
 {166}{}{Oh...}
 {167}{}{Je suis triste rien que d'y penser...}
 {168}{}{Salut.}
