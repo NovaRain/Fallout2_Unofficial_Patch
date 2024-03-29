@@ -479,6 +479,9 @@ variable step_tile;
  * Like `roll_vs_skill`, but for stat roll checks.
  * Because `do_check` can't generate criticals.
  * Returns one of the ROLL_* constants, can be used in `is_critical`.
+ * Average luck of 5 provides DnD-like 1/20 chance to upgrade success to critical.
+ * For failures, engine doesn't use mods, we follow suit.
+ * Maybe Jinxed should work here too.
  * @arg {ObjPtr} who Critter
  * @arg {int} stat STAT_*
  * @arg {int} mod Difficulty mod
@@ -490,7 +493,7 @@ procedure roll_vs_stat(variable who, variable stat, variable mod) begin
    // success
    if stat_check then begin
        // critical
-       if (rnd + get_critter_stat(who, STAT_lu)) > 95 then return ROLL_CRITICAL_SUCCESS;
+       if (rnd + (get_critter_stat(who, STAT_lu) - 5)) > 95 then return ROLL_CRITICAL_SUCCESS;
        else return ROLL_SUCCESS;
    end else begin // failure
      // critical
