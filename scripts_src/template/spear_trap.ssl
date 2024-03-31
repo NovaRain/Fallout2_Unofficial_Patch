@@ -107,8 +107,8 @@ procedure spatial_p_proc begin
        if ((tile_distance_objs(self_obj,source_obj) == 0) and
            (local_var(LVAR_Trap_Exploded) == 0) and (map_var(TRAP_MVAR) == 0)) then begin
 
-            // Some trap scripts disable gameui, others don't.
-            // For consistensy, we keep it everywhere.
+            // Some trap scripts disable game ui, others don't.
+            // For consistency, commented it out everywhere.
             // Can be revisited later.
             // game_ui_disable;
 
