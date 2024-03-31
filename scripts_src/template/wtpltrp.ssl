@@ -1,11 +1,22 @@
 /*
-    Sierra trap template
+    Sierra trap template.
+
+    Purpose: This script is a spatial/scenery script any weapon to be
+        fired from any floor plate. Basically, trap will be hidden until the player
+        makes a successful stat roll (vs. Perception). Once
+        Found, the trap will become visible and the player
+        will have to try to disarm it.
 */
 
 /* Actual script should look like this.
 
 #define SCRIPT_REALNAME     "wtpltrp"
-#define NAME                SCRIPT_SPRTRP0  // don't change
+
+// This defines the corresponding msg file.
+// Many scripts use a shared value.
+// Pay attention to the actual values when refactoring.
+#define NAME                SCRIPT_SPRTRP0
+
 #include "../headers/define.h"
 #include "../headers/command.h"
 

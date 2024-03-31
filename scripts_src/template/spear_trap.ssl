@@ -12,8 +12,9 @@
 
 #define SCRIPT_REALNAME     "atsrtrp0"
 
-// For some reason, various scripts seem to use the same NAME.
-// That is not a hard rule. Pay attention to the actual values when refactoring.
+// This defines the corresponding msg file.
+// Many scripts use a shared value.
+// Pay attention to the actual values when refactoring.
 #define NAME                SCRIPT_SPRTRP0
 
 #include "../headers/define.h"
