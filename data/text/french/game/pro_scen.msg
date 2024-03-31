@@ -2605,9 +2605,9 @@
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
-{170600}{}{Pont détruit}
+{170600}{}{Pont detruit}
 {170601}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
-{170700}{}{Pont détruit}
+{170700}{}{Pont detruit}
 {170701}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
 {170800}{}{Canyon}
 {170900}{}{Porte}
@@ -2654,7 +2654,7 @@
 {174800}{}{Porte du bureau du Président}
 {174900}{}{Schéma de l'oeil}
 {175000}{}{Ruines}
-{175100}{}{Gardien de L'Eternité}
+{175100}{}{Gardien de L'Eternite}
 {175200}{}{Pancarte « En Dérangement »}
 {175300}{}{Sol effondré}
 {175400}{}{Siège de toilette}

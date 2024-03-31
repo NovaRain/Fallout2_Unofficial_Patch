@@ -74,7 +74,7 @@
 {340}{}{As-tu un régulateur de magnétosphère hydroélectrique sur toi ?}
 {341}{}{Tu sais de quoi il s'agit ?}
 {342}{}{Bien sûr. Peux-tu l'installer ?}
-{350}{}{Ca t'étonne ? Je t'ai dit que les centrales atomiques n'avaient pas de secrets pour moi. Tu aurais dû m'écouter.}
+{350}{}{Ca t'étonne ? Je t'ai dit que les centrales atomiques n'avaient pas de secrets pour moi. Tu devrais m'écouter.}
 {351}{}{Eh bien, puisque tu sais ce que c'est, tu dois savoir comment l'installer.}
 {352}{}{Je crois que je t'ai déjà trop écouté. Au revoir.}
 {360}{}{Certainement. C'est un jeu d'enfant pour quelqu'un d'aussi doué et expérimenté que moi. Je connais les régulateurs de magnétosphère depuis ma plus tendre enfance, tu sais...}
