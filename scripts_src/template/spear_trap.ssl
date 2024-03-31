@@ -1,20 +1,30 @@
 /*
-    Temple of Trials trap
+    Spear trap, used mostly in Temple of Trials.
+
+    Purpose: This script is a spatial/scenery script for a spear
+    trap. Basically, trap will be hidden until the player
+    makes a successful stat roll (vs. Perception). Once
+    Found, the trap will become visible and the player
+    will have to try to disarm it.
 */
 
 /* Actual script should look like this.
 
 #define SCRIPT_REALNAME     "atsrtrp0"
+
+// For some reason, various scripts seem to use the same NAME.
+// That is not a hard rule. Pay attention to the actual values when refactoring.
 #define NAME                SCRIPT_SPRTRP0
+
 #include "../headers/define.h"
 #include "../headers/command.h"
 
 #include "../headers/arcaves.h"
 #define CUR_SCRIPT          SCRIPT_ATSRTRP0
 #define TRAP_MVAR           MVAR_Arroyo_Trial_Spear0
-#define INITIAL_TILE        0       // Tile num spear is fired from
+#define INITIAL_TILE        0                           // Tile num spear is fired from
 
-#include "../template/atsrtrp.ssl"
+#include "../template/spear_trap.ssl"
 */
 
 #define TRAP_BONUS                      (0)
@@ -95,6 +105,11 @@ procedure spatial_p_proc begin
 
        if ((tile_distance_objs(self_obj,source_obj) == 0) and
            (local_var(LVAR_Trap_Exploded) == 0) and (map_var(TRAP_MVAR) == 0)) then begin
+
+            // Some trap scripts disable gameui, others don't.
+            // For consistensy, we keep it everywhere.
+            // Can be revisited later.
+            // game_ui_disable;
 
            ndebug("Set off the Trap!");
            Projectile:=create_object(PID_FLYING_SPEAR,INITIAL_TILE,self_elevation);
@@ -208,6 +223,9 @@ procedure timed_event_p_proc begin
        destroy_object(Projectile);
        Projectile:=create_object(PID_SHARPENED_POLE,Final_Hex,self_elevation);
        obj_rotate(Projectile,rotation_to_tile(INITIAL_TILE,Final_Hex));
+
+       // See game_ui_disable comment in this script.
+       // game_ui_enable;
    end
 end
 

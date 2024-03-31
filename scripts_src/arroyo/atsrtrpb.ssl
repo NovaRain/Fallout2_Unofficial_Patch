@@ -8,4 +8,4 @@
 #define TRAP_MVAR           MVAR_Arroyo_Trial_Spear15
 #define CUR_SCRIPT          SCRIPT_ATSRTRPB
 
-#include "../template/atsrtrp.ssl"
+#include "../template/spear_trap.ssl"
