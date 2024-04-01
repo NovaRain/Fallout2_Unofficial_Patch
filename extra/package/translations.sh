@@ -10,7 +10,8 @@ rm -rf "$lang_dir"/{po,readme.md,translation.patch}
 rm -f "$lang_dir/english/cuts/intro.sve"
 
 # update patchinf
-for lang in "$lang_dir"/*; do
+# shellcheck disable=SC2045  # Let it break if there are weird filenames.
+for lang in $(ls $lang_dir); do
   patchinf="$lang_dir/$lang/dialog/patchinf.msg"
   # display current version
   # shellcheck disable=SC2154  # from package.sh
