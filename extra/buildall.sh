@@ -20,13 +20,13 @@ if [[ ! -f $compile_exe ]]; then
 fi
 
 # compile all
-for d in "$src"/*; do
+# shellcheck disable=SC2045  # We shouldn't have non-alphanumeric names here.
+for d in $(ls "$src"); do
     if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
         cd "$src/$d"
+        # build file list
         # shellcheck disable=SC2010  # We shouldn't have non-alphanumeric names here.
-        for f in $(# build file list
-            ls | grep -i "\.ssl$"
-        ); do
+        for f in $(ls | grep -i "\.ssl$"); do
             # shellcheck disable=SC2001  # Simple replacement doesn't work, need regex.
             int="$(echo "$f" | sed 's|\.ssl$|.int|')"
             if grep -qi "^$int " "$scripts_lst" || [[ "$d" == "global" ]]; then # if file is in scripts.lst or a global script
