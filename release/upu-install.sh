@@ -2,13 +2,14 @@
 
 set -eu
 
-cd -- "$(dirname "$BASH_SOURCE")"
+cd -- "$(dirname "$0")"
 
 # is FS case sensitive?
 touch fs_testx fs_testX
+# shellcheck disable=SC2012  # Don't have non-alphanumberic filenames.
 if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
   rm -f fs_testx fs_testX
-  if [[ "$(find . -name "[[:upper:]]*" | grep -v "mods/AmmoGlovz.ini" | grep -v "mods/AmmoYAAM.ini" | wc -l)" != "0" ]]; then
+  if [[ "$(find . -name "[[:upper:]]*" | grep -vc "mods/AmmoGlovz.ini\|mods/AmmoYAAM.ini")" != "0" ]]; then
     echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
     exit 1
   fi
@@ -40,10 +41,12 @@ if [[ -f f2_res.dat ]]; then
 fi
 
 # keep savegames, character files, sound
+# shellcheck disable=SC2010  # Don't have non-alphanumberic filenames.
 for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
   mv data/"$i" "$bdir"/data/
 done
 # only need music from sound
+# shellcheck disable=SC2010  # Don't have non-alphanumberic filenames.
 for i in $(ls data/sound | grep -vi "^music$"); do
   mv data/sound/"$i" "$bdir"/data/sound/
 done

@@ -10,9 +10,10 @@ rm -rf "$lang_dir"/{po,readme.md,translation.patch}
 rm -f "$lang_dir/english/cuts/intro.sve"
 
 # update patchinf
-for lang in $(ls $lang_dir); do
+for lang in "$lang_dir"/*; do
   patchinf="$lang_dir/$lang/dialog/patchinf.msg"
   # display current version
+  # shellcheck disable=SC2154  # from package.sh
   sed -i "s|1\.02\.31u[0-9]*\.|1.02.31${uversion}.|" "$patchinf"
   # if the string is untranslated, still show correct language
   lang_name="${lang^}"
@@ -23,6 +24,7 @@ done
 cp -r "$lang_dir"/english/cuts{,_female}
 
 # move texts to translation package dir
+# shellcheck disable=SC2010  # shouldn't have non-alphanumeric filenames here
 for d in $(ls $lang_dir | grep -v english); do
   rm -rf "$trans_dir/$d/text"
   mkdir -p "$trans_dir/$d/text"
@@ -31,19 +33,23 @@ done
 
 # package into dats
 cd "$trans_dir"
-rm -f *.dat
-for d in $(ls); do
+rm -f ./*.dat
+for d in *; do
+  # shellcheck disable=SC2154  # from env.sh
   dat="${mod_name}_$d.dat"
   cd "$d"
-  find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
+  # shellcheck disable=SC2154  # from package.sh
+  find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list"
+  # shellcheck disable=SC2154  # from package.sh
   $dat2a "$dat" @"$file_list"
-  mv $dat ..
+  mv "$dat" ..
   cd ..
 done
 cd ..
 
 pushd .
 cd "$trans_dir"
-zip -r "${mod_name}_${vversion}_translations.zip" *.dat # all translations, just text and graphics
+# shellcheck disable=SC2154  # from package.sh
+zip -r "${mod_name}_${vversion}_translations.zip" -- *.dat # all translations, just text and graphics
 popd
 mv "$trans_dir/${mod_name}_${vversion}_translations.zip" .
