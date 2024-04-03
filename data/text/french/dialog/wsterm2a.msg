@@ -40,6 +40,7 @@
 {145}{}{[Quitter]}
 {146}{}{Quitter le programme de diagnostics.}
 {147}{}{[Plus]}
+{200}{}{L'ordinateur est en mode diagnostic. Veuillez patienter jusqu'à la fin de la routine de diagnostic.}
 {300}{}{ - IDENTITE confirmée}
 {301}{}{Dernier accès enregistré il y a : }
 {303}{}{Caporal Dixon}

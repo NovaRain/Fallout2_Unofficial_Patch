@@ -190,3 +190,5 @@
 {289}{}{A potom?}
 {290}{hak122}{Příliš mnoho let a příliš mnoho zranění, Vyvolený. Teď mě musíš poslouchat.}
 {291}{}{Tak dobře.}
+{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{301}{}{You must now pay for your sins, Chosen One.}
