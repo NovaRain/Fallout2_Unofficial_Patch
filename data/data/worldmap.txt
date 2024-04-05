@@ -2851,9 +2851,9 @@ enc_08=Chance:15%,Enc:(2-4) Bounty_Hunter_Low AMBUSH Player, If(Global(0) < -500
 enc_09=Chance:15%,Enc:(2-4) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_10=Chance:15%,Enc:(2-4) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 12) And If(Player(Level) < 19)
 enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 18)
-enc_11=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
-enc_12=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
-enc_13=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
+enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
+enc_13=Chance:5%,Counter:1,Special,Map:Special Bridge Encounter,Enc:Special1, If(Player(Level) > 9) And If(Global(605) < 1)
+enc_14=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If(Global(614) > 0) And If(Global(606) < 1)
 
 [Encounter Table 69]
 lookup_name=Wild6_D                                                                         ; Area between New Reno and NCR
