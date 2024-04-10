@@ -413,10 +413,11 @@ type_01=ratio:33%, pid:16777283, Item:21(wielded), Script:623   ; Strong Peasant
 type_02=ratio:15%, pid:16777279, Item:320, Script:623           ; Weak Peasant Male w/ Sharpened Pole
 type_03=ratio:15%, pid:16777280, Item:4, Script:623             ; Weak Peasant Female w/ Knife
 type_04=ratio:4%, pid:16777270, Script:623                      ; Male Loser - killap - adult male proto, so why child script?
-type_05=pid:16777269, Script:1129                                ; Female Child
-type_06=pid:16777268, Script:1129                                ; Male Child - killap - no longer uses adult proto with child script
+type_05=pid:16777269, Script:1129                               ; Female Child
+type_06=pid:16777268, Script:1129                               ; Male Child - killap - no longer uses adult proto with child script
 type_07=Dead, pid:16777298                                      ; Dead Dog
 position=Surrounding, Spacing:6, Distance:7
+team_num=131   ; TEAM_RND_HOMELESS
 
 [Encounter: KLA_Farmers]
 type_00=ratio:67%, pid:16777281, Item:9, Item:(0-3)71, Item:(0-10)41, Script:493    ; Average Peasant Male w/ 10mm SMG and Fruit
