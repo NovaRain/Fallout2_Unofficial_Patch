@@ -425,12 +425,7 @@ type_01=ratio:25%, pid:16777282, Item:299, Item:(1-2)71, Item:(0-10)41, Script:4
 type_02=ratio:4%, pid:16777269, Item:71, Script:785             ; Female Child w/ Fruit
 type_03=ratio:4%, pid:16777268, Script:785                      ; Male Child	-killap - no longer uses adult proto with child script
 type_04=Dead, pid:16777298                                      ; Dead Dog
-;position=Surrounding
-;position=straight_line, spacing:1
-;position=straight_line, spacing:2
-;position=double_line, spacing:1
-;position=wedge, spacing:2
-;position=cone, spacing:2
+team_num=183   ; TEAM_RND_FARMER
 position=huddle, spacing:1
 
 [Encounter: KLA_Golden_Geckos]
