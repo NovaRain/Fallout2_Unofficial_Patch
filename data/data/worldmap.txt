@@ -497,19 +497,13 @@ type_01=Dead, pid:16777221                                                      
 position=Surrounding, Spacing:3
 
 [Encounter: DEN_Slavers]
-type_00=ratio:20%, pid:16777433, Item:18(wielded), Item:(0-10)41, Item:40, Script:508          ; Male Slaver w/ Desert Eagle and Stimpak
+type_00=ratio:20%, pid:16777433, Item:18(wielded), Item:(0-10)41, Item:40, Script:508        ; Male Slaver w/ Desert Eagle and Stimpak
 type_01=ratio:20%, pid:16777434, Item:9(wielded), Item:(0-10)41, Item:40, Script:508         ; Female Slaver w/ Springer Rifle and Stimpak
 type_02=ratio:20%, pid:16777233, Script:628                                     ; Cute Female Slave
 type_03=ratio:20%, pid:16777238, Script:628                                     ; Strong Male Slave
 type_04=ratio:10%, pid:16777243, Script:628                                     ; Generic Female Slave
 type_05=ratio:10%, pid:16777244, Script:628                                     ; Generic Male Slave
-;position=Surrounding
-;position=straight_line, spacing:1
-;position=straight_line, spacing:2
-;position=double_line, spacing:1
 position=wedge, spacing:2
-;position=cone, spacing:2
-;position=huddle, spacing:1
 
 [Encounter: DEN_Slave_Run]
 type_00=ratio:50%, pid:16777433, Item:5(wielded), Item:(0-10)41, Script:627                    ; Male Slaver w/ Club
