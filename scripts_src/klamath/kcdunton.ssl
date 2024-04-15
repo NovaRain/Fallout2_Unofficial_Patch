@@ -235,7 +235,7 @@ procedure map_enter_p_proc begin
    set_self_ai(AI_DUNTON);
 
    if (cur_map_index == MAP_KLAMATH_1) then begin
-      set_self_team(TEAM_KLAMATH);
+      set_self_team(TEAM_KLAMATH_CROOKS);
       set_local_var(LVAR_THEX, 0);
       //active:=1;
    end
@@ -399,7 +399,6 @@ procedure checktile begin
    if (tile_distance(here,17926) < 5) then tile:=GOLDENGECKO;//these distances should be small
    else if (tile_distance(here,18100) < 4) then tile:=SHOP;//so the duntons wont block doorways
 end
-
 
 procedure checkarea begin
 //need to check what map they are on also
@@ -1240,9 +1239,10 @@ procedure Node008 begin
 
    if ( (global_var(GVAR_RUSTLE_REWARD) == 1) and (area != PASTURE) )then
       GOption(182,Node983,004);
-   if (global_var(GVAR_RUSTLE_REWARD) == 0) then
+   if (global_var(GVAR_RUSTLE_REWARD) == 0) then begin
       GOption(183,Node985,004);
-   BOption(184,Node988,004);
+      BOption(184,Node988,004); //moved into this conditional - killap
+   end
    NOption(185,Node999,004);
 end
 
@@ -1437,8 +1437,6 @@ procedure Node021 begin
    GOption(333, Node964, 004);
    NOption(334, Node003, 004);
    NOption(335, Node999, 004);
-   //if ( is_success(do_check(dude_obj,STAT_pe,0)) ) then //comment out by killap
-      //BOption(336, Node022, 004);
 end
 
 procedure Node022 begin
