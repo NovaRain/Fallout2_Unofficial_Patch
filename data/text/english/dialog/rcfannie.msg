@@ -123,5 +123,5 @@
 {192}{}{Come back anytime! Always nice to get some repeat business.}
 {193}{}{[DONE]}
 
-{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}
+{200}{}{You slipped the Jet antidote into Fannie Mae's drink.}
 # End Seraph's Code
