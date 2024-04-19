@@ -910,7 +910,7 @@
 {46601}{}{A sheet of folded paper with the word "TCHAIKOVSKY" written on it.}
 {46700}{}{Jesse's Container}
 {46800}{}{Smitty's Meal}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is Brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Rot Gut}
 {46901}{}{A very strong liquor or cleaning fluid, you decide.}
 {47000}{}{Ball Gag}
