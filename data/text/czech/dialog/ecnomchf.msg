@@ -21,3 +21,8 @@
 {120}{}{Zmiz!}
 {121}{}{Nech nás na pokoji.}
 {122}{}{Jsme mírumilovný kmen.}
+{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
+{201}{}{Thank you; I graciously accept your offer.}
+{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
+{203}{}{I do hope you found what you needed. Anything else?}
+{204}{}{Not today. I must be going.}

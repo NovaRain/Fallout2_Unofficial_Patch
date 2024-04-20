@@ -93,3 +93,4 @@
 {145}{}{Exit}
 {146}{}{Exiting Diagnostic Program.}
 {147}{}{[MORE]}
+{200}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}
