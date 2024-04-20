@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+   Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef SCRIPTS_H
@@ -60,7 +60,7 @@
 #define SCRIPT_DCJOEY           (41)    // DCJoey          ; Special thug in the Den
 #define SCRIPT_DCFLICK          (42)    // DCFlick         ; Kwik N Save store owner in the Den
 #define SCRIPT_DCG1GRD          (43)    // DCG1GRD         ; Gang 1 Guard in the Den
-//#define SCRIPT_DCPETEY          (44)    // DCPetey         ; Petey, the alley addict in the Den
+#define SCRIPT_DCPETEY          (44)    // DCPetey         ; Petey, the alley addict in the Den
 #define SCRIPT_DCSMITTY         (45)    // DCSmitty        ; Smitty the junkyard guy in the Den
 #define SCRIPT_DCMETZGE         (46)    // DCMetzge        ; Metzger the Slaver in the Den
 #define SCRIPT_DCSLAVER         (47)    // DCSlaver        ; Regular Slaver in the Den
