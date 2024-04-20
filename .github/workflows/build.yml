@@ -24,7 +24,7 @@ jobs:
           scripts_dir: scripts_src
           dialog_dir: data/text/english/dialog
           worldmap_path: data/data/worldmap.txt
-          worldmap_script_sets: 258,259 622,1129 623,1129, 493,785, 508,628
+          worldmap_script_sets: 258,259 622,1129 493,785, 508,628
 
       - name: Install wine
         uses: devopsx/gha-ubuntu-i386-fix@master
