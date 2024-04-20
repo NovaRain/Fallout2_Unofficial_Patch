@@ -190,3 +190,5 @@
 {289}{}{Aztán?}
 {290}{hak122}{Túl sok év és túl sok seb, Kiválasztott. Inkább figyelj!}
 {291}{}{Értem.}
+{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{301}{}{You must now pay for your sins, Chosen One.}

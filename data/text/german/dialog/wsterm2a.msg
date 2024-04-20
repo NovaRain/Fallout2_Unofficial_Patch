@@ -64,6 +64,8 @@
 {145}{}{Beenden}
 {146}{}{Diagnoseprogramm wird beendet.}
 {147}{}{[Mehr]}
+{200}{}{Computer befindet sich im Diagnosemodus. Bitte warten, bis die Diagnoseroutine
+ abgeschlossen ist.}
 {300}{}{ - ID bestätigt: }
 {301}{}{
    Letzter Zugriff: }
