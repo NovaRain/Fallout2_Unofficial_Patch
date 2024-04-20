@@ -21,15 +21,15 @@ mods/sfall-mods.ini
 translations
 "
 for f in $files; do
-  rm -rf "$f"
-  7zr x sfall.7z "$f"
+    rm -rf "$f"
+    7zr x sfall.7z "$f"
 done
 rm -f sfall.7z
 
 # uncomment ini settings to preserve options' placement in ddraw.ini
 entries="$(grep '=' "$custom_ini" | awk -F '=' '{print $1}')"
 for e in $entries; do
-  sed -i "s|^;$e=|$e=|" "$release_ini"
+    sed -i "s|^;$e=|$e=|" "$release_ini"
 done
 
 # then merge custom settings

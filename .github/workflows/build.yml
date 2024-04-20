@@ -3,8 +3,8 @@ name: build
 on: [push]
 
 env:
-  sfall_version: 4.4.2
-  mpack_version: 4.4.2
+  sfall_version: 4.4.3.1
+  mpack_version: 4.4.3
 
 jobs:
   build:
@@ -26,7 +26,8 @@ jobs:
           worldmap_path: data/data/worldmap.txt
           worldmap_script_sets: 258,259 622,1129 623,1129, 493,785, 508,628
 
-      - uses: devopsx/gha-ubuntu-i386-fix@master
+      - name: Install wine
+        uses: devopsx/gha-ubuntu-i386-fix@master
 
       - name: Install packages
         run: |
