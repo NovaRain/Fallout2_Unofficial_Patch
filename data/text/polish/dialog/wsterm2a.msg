@@ -71,7 +71,6 @@
 {145}{}{Wyjdź.}
 {146}{}{Zamykanie Programu Diagnostycznego.}
 {147}{}{[KONTYNUUJ]}
-{200}{}{Komputer znajduje się w trybie diagnostycznym. Proszę zaczekać, aż procedura diagnostyczna zostanie ukończona.}
 {300}{}{                                       
  Tożsamość Potwierdzona: }
 {301}{}{                       

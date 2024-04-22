@@ -72,7 +72,6 @@
 {145}{}{Sair}
 {146}{}{Sair do programa de diagnóstico.}
 {147}{}{[MAIS]}
-{200}{}{Computador em modo de diagnóstico. Aguarde até que a rotina de diagnóstico seja concluída.}
 {300}{}{ - ID confirmada: }
 {301}{}{
             Último Acesso ao Terminal: }

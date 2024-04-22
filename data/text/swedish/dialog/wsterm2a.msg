@@ -72,7 +72,6 @@
 {145}{}{Exit}
 {146}{}{Exiting Diagnostic Program.}
 {147}{}{[MER]}
-{200}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }

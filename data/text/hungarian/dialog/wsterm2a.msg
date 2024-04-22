@@ -71,7 +71,6 @@
 {145}{}{Befejezés}
 {146}{}{Diagnosztikai Program befejezése.}
 {147}{}{[TOVÁBBI LEHETŐSÉG]}
-{200}{}{A Számítógép Diagnosztikai Módban van. Kérem, várjon, amíg a Diagnosztikai Program futása befejeződik!}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }

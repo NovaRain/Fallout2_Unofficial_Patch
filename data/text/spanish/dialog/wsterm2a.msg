@@ -72,7 +72,6 @@
 {145}{}{Salir.}
 {146}{}{Saliendo de programa de diagnóstico.}
 {147}{}{[MÁS]}
-{200}{}{Ordenador en modo diagnóstico. Por favor, espere hasta que la rutina de diagnóstico haya finalizado.}
 {300}{}{ - ID Confirmada: }
 {301}{}{
        --  Último acceso al terminal: }

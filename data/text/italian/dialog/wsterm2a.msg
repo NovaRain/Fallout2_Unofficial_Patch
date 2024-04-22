@@ -40,7 +40,6 @@
 {145}{}{Esci}
 {146}{}{Uscita dal programma diagnostico in corso.}
 {147}{}{[AVANTI]}
-{200}{}{Il computer e' in modalita' diagnostica. Attendere il completamento della sequenza diagnostica.}
 {300}{}{ - Identita' confermata: }
 {301}{}{
             Ultimo accesso al terminale: }

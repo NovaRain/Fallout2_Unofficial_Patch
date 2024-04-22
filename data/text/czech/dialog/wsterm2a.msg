@@ -43,7 +43,6 @@
 {145}{}{Konec.}
 {146}{}{Ukončení diagnostického programu.}
 {147}{}{[Více]}
-{200}{}{Počítač je v diagnostickém režimu. Prosím vyčkejte, dokud proces neskončí.}
 {300}{}{ - ID: }
 {301}{}{                     Poslední přístup: }
 {303}{}{Desátník Dixon}
