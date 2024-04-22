@@ -955,7 +955,7 @@
 {4666}{}{une caravane de Redding repoussant des bandits.}
 {4667}{}{une caravane de New Reno repoussant des voleurs.}
 {4668}{}{une caravane de la Fosse repoussant des bandits.}
-{4669}{}{Des voleurs attaquant  une caravane.}
+{4669}{}{Des voleurs attaquant une caravane.}
 {4670}{}{une caravane de la Fosse attaquant une caravane de la Cité}
 {4671}{}{des bandits de grand chemin se battant contre des voleurs.}
 {4672}{}{une caravane de la Cité de l'Abri.}
@@ -983,7 +983,7 @@
 {4713}{}{une caravane de Redding repoussant des bandits.}
 {4714}{}{une caravane de New Reno repoussant des voleurs.}
 {4715}{}{une caravane de la Fosse repoussant des bandits.}
-{4716}{}{Des voleurs attaquant  une caravane.}
+{4716}{}{Des voleurs attaquant une caravane.}
 {4717}{}{une caravane de la Fosse attaquant une caravane de la Cité}
 {4718}{}{des bandits de grand chemin se battant contre des voleurs.}
 {4719}{}{une caravane de la Cité de l'Abri.}
