@@ -203,7 +203,7 @@ end
                                  gdialog_mod_barter(30);                                        \
                               else                                                              \
                                  gdialog_barter;                                                \
-                              Reply(" ");                                                       \
+                              Reply(520);                                                       \
                               NOption(179,Node999,-003);                                        \
                               if (local_var(LVAR_Penalty) > 0) then NOption(170,Node999,004);   \
                               else NOption(168,Node999,004);                                    \
