@@ -35,7 +35,7 @@
 {134}{}{Start Hubologistů do vesmíru z 95% zkrachuje. Faktory: bez paliva, nevhodné těsnění, špatné vedení, nedostatek iniciativy.}
 {135}{}{Je 15% pravděpodobnost, že určený "Vyvolený" uspěje ve svém úkolu.}
 {136}{}{Fakta naznačují, že je "Enkláva" mnohem silnější než se původně předpokládalo; nepřibližovat se.}
-{137}{}{Chances of submarine reappearing in this game: 0%}
+{137}{}{Pravděpodobnost, že se v této hře opět objeví ponorka: 0%}
 {138}{}{Tuláci v tankeru mají pravděpodobnost 0%, že vyčistí zamoření příšerami bez cizí pomoci. Zpracovávám vhodnost poskytnutí pomoci.}
 {139}{}{Fakt: Ropný tanker Poseidon nevhodný pro cestu. Vyžaduji více informací.}
 {140}{}{Žádné procesy. Vyžaduji vstup.}

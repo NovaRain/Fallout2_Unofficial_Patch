@@ -1,6 +1,6 @@
 {100}{}{Vidíš špinavého, neoholeného muže.}
 {101}{}{Lovec.}
-{102}{}{Radši nechoď moc blízko. Někteří živočichové v jeho oblečení už si hledají nový domov.}
+{102}{}{Radši nechoď moc blízko. Vypadá to, že si už někteří živočichové hledají nový domov v jeho oblečení.}
 {103}{}{Nazdar. Přes lovecký území moc lidi neprochází. Co potřebuješ?}
 {104}{}{Máš nějaké kůže geckonů na prodej?}
 {105}{}{Jenom tudy procházím.}
@@ -9,9 +9,9 @@
 {108}{}{Co nabízíš?}
 {109}{}{Zapomeň na to.}
 {110}{}{Eh.}
-{111}{}{Here's what I got:}
-{112}{}{regular gecko pelts.}
-{113}{}{golden gecko pelts.}
+{111}{}{Mám tohle:}
+{112}{}{kůží geckona.}
+{113}{}{kůží zlatého geckona.}
 {114}{}{Vezmu si všechno co máš.}
 {115}{}{Možná příště. Nashle.}
 {116}{}{Bylo mi potěšením s tebou obchodovat. Zatím.}
