@@ -59,3 +59,4 @@
 {510}{}{So, jetzt, Scotty.}
 {511}{}{Weißt du Scotty, du solltest echt mit dem Zeug aufhören.}
 {512}{}{Nimm das Scotty und hau ab von hier.}
+{520}{}{So machen die Geschäfte richtig Spaß.}

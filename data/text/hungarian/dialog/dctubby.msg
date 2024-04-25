@@ -54,3 +54,4 @@ Redding egy másik kiváló példa egy város drogoktól hajtva.
 {510}{}{Tessék, Petey...}
 {511}{}{Tudja, Petey, le kéne állnia ezzel a szarral!}
 {512}{}{Fogja és tűnjön innen a francba, Petey!}
+{520}{}{Öröm, ha együtt üzletelünk.}

@@ -51,3 +51,4 @@
 {510}{}{Ecco a te, Petey.}
 {511}{}{Sai, Petey, dovresti smetterla di prendere questa merda.}
 {512}{}{Prendi la tua roba e sparisci da qui, Petey.}
+{520}{}{E' stato un piacere fare affari con te.}

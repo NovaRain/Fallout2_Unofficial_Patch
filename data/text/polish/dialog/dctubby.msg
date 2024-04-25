@@ -51,3 +51,4 @@
 {510}{}{Proszę bardzo, Petey.}
 {511}{}{Wiesz co, Petey, powinieneś odstawić to gówno.}
 {512}{}{Masz, Petey, i zjeżdżaj stąd w cholerę.}
+{520}{}{Interesy z tobą to przyjemność.}

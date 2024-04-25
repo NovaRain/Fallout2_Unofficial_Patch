@@ -64,3 +64,4 @@ town may use grain or gold. Redding is another prime example of a town fueled by
 {510}{}{Here you go, Petey.}
 {511}{}{You know, Petey, you should kick this shit.}
 {512}{}{Take this and get the hell outta here, Petey.}
+{520}{}{Pleasure doing business.}

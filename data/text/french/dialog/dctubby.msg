@@ -51,3 +51,4 @@
 {510}{}{Et voilà, Pierrot.}
 {511}{}{Tu sais, Pierrot, tu devrais arrêter les stimulants.}
 {512}{}{Tiens Pierrot, prends ça et fiche-moi le camp d'ici.}
+{520}{}{Ce fût un plaisir.}

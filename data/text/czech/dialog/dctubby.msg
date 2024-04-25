@@ -51,3 +51,4 @@
 {510}{}{Tady máš, Petey.}
 {511}{}{Víš, Petey, měl bys toho nechat.}
 {512}{}{Vezmi si to a vypadni odsud, Petey.}
+{520}{}{Rádo se stalo.}

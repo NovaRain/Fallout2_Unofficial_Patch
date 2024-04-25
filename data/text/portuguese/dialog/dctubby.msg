@@ -64,3 +64,4 @@
 {510}{}{Aqui você vá, Petey.}
 {511}{}{Você sabe, Petey, você deveria chutar essa merda.}
 {512}{}{Pegue isso e saia daqui, Petey.}
+{520}{}{Prazer fazer negócios.}
