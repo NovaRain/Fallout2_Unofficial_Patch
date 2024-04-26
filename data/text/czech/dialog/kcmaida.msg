@@ -91,9 +91,8 @@
 {400}{}{Už jsi zpátky? Doufám, že se staráš o Sulika. Jsem si jistá, že beze mě vůbec neví, co má dělat.}
 {401}{}{Jsem zpátky, protože něco potřebuju.}
 {402}{}{No, určitě se o něj nestarám tak dobře jako ty, ale dělám co můžu.}
-{420}{}{Well, you'd be better off asking momma about what's going on right here in town.}
-{421}{}{You'd be better off asking momma about things here in town. Have you seen Torr anywhere? It
- seems as though he's run off, and we're sure worried.}
+{420}{}{Nuže, uděláš lépe, když se zeptáš mamky co se teď děje zajímavého ve městě.}
+{421}{}{Nuže, uděláš lépe, když se zeptáš mamky co se teď děje zajímavého ve městě. Neviděl jsi někde Torra? Nejspíš utekl z domu a děláme si o něj starosti.}
 {422}{}{Dobře, půjdu si o tom promluvit s paní Bucknerovou. Chci se zeptat na něco jiného.}
 {423}{}{Ne, Torra jsem nikde neviděl. Dám ti vědět, pokud na něj narazím. Chci se zeptat na něco jiného.}
 {430}{}{Děkuju ti za nalezení mého bratra Torra. S mámou jsme si opravdu dělali starosti. Co pro tebe můžu udělat?}

@@ -1,10 +1,10 @@
 {100}{}{Vidíš jedno z Wrightových dětí.}
 {150}{}{Vidíš černovlasého chlapce.}
-{151}{}{You see a black-haired little girl. Her hair is cropped short, so much so that you almost mistook her for a boy.}
+{151}{}{Vidíš černovlasou holčičku. Vlasy má ostříhané nakrátko, takže jste si ji málem spletli s chlapcem.}
 {155}{}{Vyplazuje na tebe jazyk.}
 {156}{}{Mrzutě se na tebe dívá.}
 {157}{}{Vyplazuje na tebe jazyk.}
-{158}{}{Her black hair is cropped short so that she can conveniently use the male child character model.}
+{158}{}{Její černé vlasy jsou ostříhané nakrátko, aby mohla pohodlně používat mužský model dětské postavy.}
 {159}{}{Mrzutě se na tebe dívá.}
 {175}{}{Fallout 2 vám přináší písmeno Z.}
 {176}{}{Hej! }

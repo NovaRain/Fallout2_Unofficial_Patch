@@ -80,14 +80,11 @@
 {282}{}{Jsem rád, že se to takhle vyřešilo. A těch $50 se taky celkem hodí.}
 {283}{}{No, taky se mi teď bude daleko klidněji spát, když už v Klamathu neuvidím Bobovu pálenku.}
 {284}{}{Je mi to fuk, kamaráde.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
- brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
- become a real hot spot lately.}
+{290}{}{Tak se na to podíváme. V poslední době se ve městě děje spousta věcí. (počítá na prstech). Jsou zde broukolidi mrzačící brahminy, hlodavci neobvyklých rozměrů, chodící duch a pohřešovaný lovec. Klamath se v poslední době stává opravdu zajímavým místem.}
 {291}{}{Pověz mi něco o těch lido-broucích mrzačící brahmíny, prosím.}
 {292}{}{Pověz mi něco o těch přerostlých hlodavcích, prosím.}
 {293}{}{Pověz mi něco o chodících duších, prosím.}
-{294}{}{I'm not surprised that a hunter's gone missing with all this excitement, but tell me about him,
- too.}
+{294}{}{Ani mě moc nepřekvapuje, že se v tak rušném městě ztratí lovec. Pověz mi o něm víc.}
 {295}{}{Chci se zeptat na něco jiného.}
 {296}{}{Myslím, že už jsme probrali všechno.}
 {300}{}{No, bratři Duntonovi pořád hledají někoho, kdo by pro ně dělal jejich špinavou práci. Doteď pro ně dělal Torr, syn paní Bucknerové, jenže se bojí hlídat brahmíny v noci kvůli lido-broukům.}

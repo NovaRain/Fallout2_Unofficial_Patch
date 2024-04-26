@@ -59,7 +59,7 @@
 {328}{}{Můžeš mi říct něco o tomhle kasínu?}
 {329}{}{Nic, díky. Promiň, že obtěžuju.}
 {335}{}{Tohle je [CN]. Něco chceš, ptej se.}
-{336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
+{336}{}{Toto je [CN]. Alespoň když jsem naposledy kontroloval nápis nade dveřmi. Co pro vás mohu udělat?}
 {337}{}{Kdo jsi?}
 {338}{}{Můžeš mi říct něco o tomhle kasínu?}
 {339}{}{Nic, díky. Promiň, že obtěžuju.}
@@ -78,12 +78,12 @@
 {352}{}{Nic, díky. Promiň, že obtěžuju.}
 {353}{}{Jenom se tak dívám. Pokračuj dál.}
 {355}{}{[CA] rodina. Vložili do toho velké množství práce a udělali z toho skvělý noční podnik, opravdový diamant New Rena.}
-{356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
+{356}{}{Rodina [CA]. Máš s tím snad nějaký problém? Protože jestli tu nejsi kvůli hazardu, zde není pro tebe místo. Rozumíš?}
 {357}{}{Kdo jsi?}
 {358}{}{Můžeš mi říct něco o tomhle kasínu?}
 {359}{}{Rozumím. Díky za tvůj čas.}
 {360}{}{Podívejte kdo tu je! Nazdar, }
-{361}{}{. Welcome to [CN]. Love your films.}
+{361}{}{. Vídejte do [CN]. Miluju tvoje filmy.}
 {362}{}{Fooooooo foo foo fooooo.}
 {363}{}{Odbelhat se.}
 {364}{}{Kdo jsi?}
@@ -117,10 +117,10 @@
 {435}{}{Ne, ještě jsme se nedostali z tvého posledního vystoupení. Zkus to v jiném kasínu.}
 {436}{}{Tak dobře, díky. Mám ještě nějaké otázky...}
 {437}{}{Dobře... ale myslím, že se ještě vrátím.}
-{445}{}{You count up the evening's tally. chips. Not a bad haul.}
-{446}{}{The leather was a nice touch.}
-{447}{}{That ball gag you had with you didn't hurt, either.}
-{448}{}{I'll do even better next time...}
+{445}{}{Spočítáš večerní bilanci a rozdáš žetony. To není špatný úlovek.}
+{446}{}{Ta kůže byla příjemná na dotek.}
+{447}{}{Ten roubík taky nebyl úplně k zahození.}
+{448}{}{Příště to zvládnu ještě lépe...}
 {455}{}{Jo, smrdí hůř než brahmíní hovno. A ty myslíš, že...? Ále, proč ne? Malé zlepšení by neškodilo, ale připrav se na to, že tohle je opravdu drsné publikum... doufám, že jsi dobrý.}
 {456}{}{Jsem přímo vynikající... dívej.}
 {1215}{}{, pane.}

@@ -5,7 +5,7 @@
 {170}{}{Vidíš jednu z rozdávaček karet v kasínu.}
 {180}{}{Vidíš jednu z rozdávaček karet v kasínu. Naznačuje ti, ať jdeš blíž a zahraješ si.}
 {200}{}{::Fandí::}
-{210}{}{Hello, [MM]. Can I help you with... anything?}
+{210}{}{Zdravím [MM]. Můžu vám s *něčím* pomoct?}
 {220}{}{Vypadáte jako někdo, kdo každodenně riskuje svůj život.}
 {230}{}{Ahoj, svalovče, nechceš utratit nějaké peníze?}
 {250}{}{Ahoj, filmová hvězdo. Nechceš utratit nějaké peníze?}

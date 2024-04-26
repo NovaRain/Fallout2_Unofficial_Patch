@@ -59,8 +59,7 @@
 {281}{}{Díky. Aspoň se tam teď nebudu muset belhat... i když mě to stálo $65. Tady máš svý peníze. Máš na mě nějaký otázky?}
 {282}{}{Ano. Pověz mi, co se děje poslední dobou ve městě.}
 {283}{}{Ne, díky, Bobe. Myslím, že to bude asi všechno.}
-{290}{}{All sorts of things going on hereabouts lately. We've got brahmin mutilators, walking spirits,
- gigantical rats, and missing people. Some even say the Den's involved.}
+{290}{}{V poslední době se tu dějí různé věci. Máme tu zmrzačené brahmíny, chodící duchy, obrovské krysy a pohřešované lidi. Někteří dokonce tvrdí, že je do toho zapleten Den.}
 {291}{}{Pověz mi víc o mrzačení brahmín.}
 {292}{}{Pověz mi víc o chodících duších.}
 {293}{}{Obrovské krysy? Tak o tomhle chci slyšet víc.}

@@ -27,7 +27,7 @@
 {136}{}{(Podívá se na tebe a zavrtí hlavou)}
 {137}{}{(Nenápadně dělá neslušná gesta)}
 {138}{}{Určitě máš na svědomí to mrzačení brahmín.}
-{139}{}{Some of our hunters' have gone missing; you're prob'ly why.}
+{139}{}{Pohřešujme pár našich lovců...určitě za to můžeš ty.}
 {140}{}{Poblíž města se potulujou lido-brouci.}
 {141}{}{V kaňonu na východ od města je nějakej duch.}
 {142}{}{Dej si pozor, ať tě nedostane kráčející duch!}

@@ -21,6 +21,6 @@
 {120}{}{[Ztiší hlas a rozhlédne se] To musí být ono. Sám jsem jednou viděl, že si bere nějaký "krajíc" z těch peněz, co dostal za dodávku uranu od Gecka.}
 {121}{}{Opravdu? Tak proč jsi o tom neřekl nic Marcusovi?}
 {122}{}{Máš to v hlavě v pořádku? Když to půjdu říct, spousta lidí v tomhle městě se na mě ani nepodívá. Navíc by se mi to mohlo nějak vymstít.}
-{123}{}{Hmm, I could tell it about to Marcus, cause I don't plan to stay here too long anyway.}
-{124}{}{Ok. Do what you want, but don't tell anything about me. And we never had this conversation, ok?}
-{125}{}{Don't worry, I don't want to get you in any trouble, bye.}
+{123}{}{Hmm, tak to nejspíš řeknu Marcusovi já. Stejně tu nehodlám zůstat delší dobu.}
+{124}{}{Dobře. Dělej si co chceš, jen mě do toho netahej. A nikdy jsem nevedly tento rozhovor, jasný?}
+{125}{}{Žádný strach, nechci tě zatahovat do žádných potíží, měj se.}

@@ -107,10 +107,10 @@
 {380}{}{No, to mě ani nepřekvapuje. Ach ne, křičela jsem na mého ubohého chlapce, i když to nebyla jeho chyba. (vzlyk) Já ty Duntonovi dostanu. Tentokrát zašli příliš daleko.}
 {381}{}{To je mi opravdu líto. Kam myslíte, že Torr šel?}
 {390}{}{Dobře.}
-{400}{}{What? My Smiley is...}
-{401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
-{402}{}{Yes, he's dead. He was eaten by geckos.}
-{403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
+{400}{}{Cože, Můj Smiley je ...}
+{401}{}{Kdo? Řekl jsem Smiley? Aha, eh, ne. Nevím, kam šel. Ehm, můžu se zeptat na něco jiného?}
+{402}{}{Je mrtvý. Sežrali ho geckoni.}
+{403}{}{Jen jsem žertoval. Já, eh, potkal jsem ho. Říkal, že utíká s jinou ženou. Páni! To je ale hodin. Musím běžet.}
 {404}{}{Eh, já, eh, my, to je... eh, ne. Pořád po něm pátrám. Určitě se brzy objeví. Eh, sbohem.}
 {410}{}{Sežrali ho geckoni? Tomu nevěřím. Geckoni by nikdy nedokázali chytit mého Smileyho, na to je příliš dobrý lovec. Určitě se mýlíte.}
 {411}{}{Jo, máte nejspíš pravdu. Promiňte, že jsem vás vylekal. Můžu se zeptat na něco jiného?}
@@ -131,7 +131,7 @@
 {680}{}{Gurrrrg bloop?}
 {690}{}{To nestálo za řeč, madam. Sbohem.}
 {700}{}{Torr je mrtvý.}
-{710}{}{Smiley's dead.}
+{710}{}{Smrt Smileyho.}
 {720}{}{Já, eh, nevím, kde jsou. Můžu se na něco zeptat?}
 {730}{}{Oba jsou dočista mrtví.}
 {740}{}{Torr zmizel? Co tím myslíte?}

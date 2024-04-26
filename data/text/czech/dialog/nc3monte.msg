@@ -8,7 +8,7 @@
 {231}{}{(Starý muž se usměje a kůže kolem očí se mu svraští.) Nechceš si zahrát, příteli?}
 {250}{}{Na co? No přece na hru!}
 {260}{}{(Dáš mu peníze, Monte přikývne, ukáže ti karty a poté je položí na stůl a několik vteřin s nimi míchá.)}
-{280}{}{(Monte turns over the card. It is the two of spades.)}
+{280}{}{(Monte otočí kartu. Jsou to dvě piky.)}
 {300}{}{(Dáš mu peníze, Monte přikývne, ukáže ti karty, položí je na stůl a přitom vytáhne jednu kartu tak rychle, že to nebylo skoro vidět. Poté je pár sekund míchá.)}
 {320}{}{CO JSI to říkal, kámo?}
 {330}{}{Poslyš, nemám čas na tvůj brekot. Zaplatíš, zkusíš štěstí. Jestli chceš HRÁT dál, tak fajn, ale jestli mi tu budeš brečet, když prohraješ, tak se ztrať!}

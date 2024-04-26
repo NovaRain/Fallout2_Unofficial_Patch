@@ -459,7 +459,7 @@
 {3058}{}{Ano.}
 {3059}{}{Ne. Myslím, že je načase, abys ji začal hledat sám.}
 {3060}{slk90}{Možná jo. Ty chyběti já a my. Dobrá duchové býti s tebou, přítela.}
-{3061}{}{Thanks, Sulik. Goodbye.}
+{3061}{}{Díky Suliku. Sbohem.}
 {3062}{}{No, možná bys mohl zůstat se mnou. Možná najdeme tvoji sestru.}
 {3063}{slk91a}{Ty potřebovati po tom všem nějaká společnost?}
 {3064}{slk91b}{Býti dobré zase býti zpátky doma.}

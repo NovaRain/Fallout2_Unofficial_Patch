@@ -90,7 +90,7 @@
 {189}{}{Jacob a Aileen mě požádali o osvobození dvou lidí z vězení. Myslím, že mají nějaký plán.}
 {190}{}{Jacob a Aileen po mě chtějí vyhodit důl do povětří. Myslím, že bys to měl vědět.}
 {191}{}{Jeden vědec z NCR chce vyzkoušet experimentální látku, která vyhladí mutanty. Dávej pozor na to, co jíš a piješ.}
-{192}{}{Chad took $6000 from the rep in Gecko. The rep was complaining about the price... said it'd been going up.}
+{192}{}{Chad převzal 6000 dolarů od zástupce z Gecka. Zástupce si stěžoval na cenu... říkal, že se zvyšuje.}
 {193}{}{Chad si nechal asi $1000 z poslední dodávky uranu. Chce zmizet z města. Mám kufřík s dokumenty, které to dokazují.}
 {194}{}{Žádný. Zapomeň na to.}
 {195}{mcs24}{Tunely pod městem? Ani se tomu nedivím, když je tady kolem tolik dolů. Podívej se tam po těch lidech, ano? }

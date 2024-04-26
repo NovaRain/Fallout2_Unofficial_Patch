@@ -1,4 +1,4 @@
-{100}{}{You see a medium-size man wearing dusty clothing.}
+{100}{}{Vidíš plnoštíhlého muže v zaprášeném oblečení.}
 {101}{}{Vidíš vetešníka Billa.}
 {102}{}{Vidíš plnoštíhlého muže v zaprášeném oblečení. Smrdí, jako kdyby choval brahmíny.}
 {103}{}{Nazdárek, kámo. Co pro tebe můžu udělat?}
