@@ -197,7 +197,7 @@
 {297}{}{Modocká studna}
 {298}{}{NCR Zóna 2}
 {299}{}{Zahrady Arroya}
-{300}{}{Gecka}
+{300}{}{Gecko}
 {301}{}{Květina Broc}
 {302}{}{Kořen Xander}
 {303}{}{Brahmína}
