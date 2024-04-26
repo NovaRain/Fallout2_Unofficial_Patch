@@ -112,7 +112,7 @@
 {402}{}{Yes, he's dead. He was eaten by geckos.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Eh, já, eh, my, to je... eh, ne. Pořád po něm pátrám. Určitě se brzy objeví. Eh, sbohem.}
-{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
+{410}{}{Sežrali ho geckoni? Tomu nevěřím. Geckoni by nikdy nedokázali chytit mého Smileyho, na to je příliš dobrý lovec. Určitě se mýlíte.}
 {411}{}{Jo, máte nejspíš pravdu. Promiňte, že jsem vás vylekal. Můžu se zeptat na něco jiného?}
 {412}{}{Kdepak, viděl jsem ho nebo spíše to, co z něj zbylo. Nebyl to hezký pohled. No, uvidíme se později. Sbohem.}
 {413}{}{Tak jo, dostala jste mě. Haha, jen vás tak tahám za, eh, nohu. Jo, tak je to. No, sbohem.}

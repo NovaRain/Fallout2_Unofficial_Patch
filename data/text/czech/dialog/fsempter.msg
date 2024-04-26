@@ -67,7 +67,7 @@
 {166}{}{Ne.}
 {167}{}{Formátuji... formátuji... formátování dokončeno. Restart vyžaduje plnou instalaci. Vypínání. Vypnutí... počítače... dokončeno...}
 {168}{}{[KONEC]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Vyhledat data: - Botanický program  - Genetický program - Xeno program.}
 {170}{}{Botanický program.}
 {171}{}{Genetický program.}
 {172}{}{Xeno program.}
@@ -80,7 +80,7 @@
 {179}{}{Botanický program.}
 {180}{}{Xeno program.}
 {181}{}{Zpět.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{Subjekt, na kterém jsme chtěli provést sérii významných pokusů, zmizel. Předpokládá se, že byl buď zničen, nebo odcizen Hubologisty. Další výzkumy se ukázaly jako marné. Dokud neobdržíme další exempláře, tato databáze zůstane mimo provoz." - Dr. Sheng.}
 {183}{}{Botanický program.}
 {184}{}{Genetický program.}
 {185}{}{Zpět.}
@@ -88,7 +88,7 @@
 {187}{}{Paliva a deriváty.}
 {188}{}{Polymery.}
 {189}{}{Zpět.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Po prostudování složitých chemických vzorců a laboratorních zápisků docházíš k závěru, že Shi vytvořili nový druh paliva z rostlinných extraktů a mořského života. Také se údajně napojili na dříve existující potrubí, aby mohli dopravovat palivo do vícero lokací.)}
 {191}{}{(Narazil jsi na veliké množství složitých chemických vzorců a laboratorních zápisků. Nejsi si úplně jistý, co všechno znamenají.)}
 {192}{}{Převést palivo do tankeru Poseidon.}
 {193}{}{Převést palivo k Hubologistům.}
@@ -100,8 +100,8 @@
 {199}{}{Palivo převedeno dle požadavku. Skladovací nádrže = Prázdné. Ukončuji program.}
 {200}{}{[KONEC]}
 {201}{}{Fyzikální databáze: Výzkum - Teorie}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Výzkum.}
+{203}{}{Teorie.}
 {204}{}{Zpět.}
 {205}{}{"Díky nedávnému získání plánů k vertibirdu se kvantovým skokem zvýšila šance na sestrojení praktického létajícího stroje. Očekáváme, že koncem roku budeme mít funkční prototyp a do dvou let budeme moci zahájit hromadnou výrobu." -Dr. Wong}
 {206}{}{::zkopírovat plány:: Zpět.}

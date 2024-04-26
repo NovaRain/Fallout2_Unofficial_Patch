@@ -400,12 +400,12 @@
 {1021}{}{Ty míti mnoho problémů s lidmi. My odejíti, dokud ty nevyřešit problém tento.}
 {1023}{}{My nikdy nebýti přítel se zabijákem dětí.}
 {1025}{}{Ty dělati probléma v Klamath. My odcházet.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Duchové pohybovati s námi.}
+{2301}{}{My a já se pohybovati.}
 {2302}{}{Dobře, ty brát to v pohodě.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Nestrachovat se, my a já se pohybovati.}
 {2304}{}{My myslet, že ty potřebovat občas čichnout ke květina. Dědek Kostěj říkati, že ty někdy příliš spěchati. Ty bráti života pomaleji.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{My se pohybovati a užívati.}
 {2306}{}{My a já jít teď támhletam.}
 {2307}{}{Relaxovat, štastná býti, my se teď pohybovati.}
 {3000}{}{Na sever.}
