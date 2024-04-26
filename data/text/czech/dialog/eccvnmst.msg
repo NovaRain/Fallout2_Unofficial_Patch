@@ -42,7 +42,7 @@
 {151}{}{zlatou rudu.}
 {152}{}{uranovou rudu.}
 {153}{}{farmářské zboží.}
-{154}{}{drugs.}
+{154}{}{drogy.}
 {155}{}{otroky.}
 {156}{}{různé věci.}
 {198}{}{New Reno}

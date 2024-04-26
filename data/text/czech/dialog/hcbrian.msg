@@ -20,7 +20,7 @@
 {119}{}{Uranovým článkům?}
 {120}{}{Zajímavé. Nashle.}
 {121}{}{GECK? O něčem takovém jsem v životě neslyšel. A myslím, že ani nikdo jiný odsud ne. Ale zní to jako nějaké zvíře nebo něco, co má ohavné pařáty.}
-{122}{}{No, not really. I have more questions.}
+{122}{}{Ne, ne tak docela. Mám nějaké otázky...}
 {123}{}{To není vůbec ono. Nashle.}
 {124}{}{Eric chce víc energie? Eric NEMŮŽE dostat víc energie. Máme nastavené přesně vyvážené množství energie a když dám Ericovi víc, přestane fungovat nemocnice nebo světla nebo důl. To nemůžu dopustit.}
 {125}{}{Jestli ten stroj funguje na uranové články, tak máte dost výkonu pro tohle město a JEŠTĚ New Reno a ani si toho nevšimnete. Přidej mu.}

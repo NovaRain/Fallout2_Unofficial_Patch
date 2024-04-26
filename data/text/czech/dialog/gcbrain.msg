@@ -89,9 +89,7 @@
 {381}{}{A potom?}
 {390}{}{Vyplazil jsem se ven. Když jsem se začal uzdravovat, všiml jsem si, že jsem se změnil. Snažil jsem se komunikovat s lidmi, ale oni se mě jen pokoušeli zabít. Lidé jsou příliš násilní na to, aby přežili pod vlastní vládou... ale to je na delší vyprávění. Prvním krokem je opravit reaktor.}
 {391}{}{Opravit reaktor?}
-{400}{}{Yes. You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Ano. Musíš získat hydroelektrický regulátor magnetosféry z Vault City k opravení reaktoru v Gecku. Pokud se ti to nepodaří, pak Vault City nepochybně napadne Gecko. Zničením reaktoru se samozřejmě časem zahubí také.}
 {401}{}{Zahubí se sami? Jak to myslíš?}
 {402}{}{Proč by mě Vault City mělo dát součástku pro atomovou elektrárnu Gecka?}
 {410}{}{Musíš je přesvědčit o tom, že je to v jejich nejlepším zájmu. Lidé jsou nejlépe ovlivnitelní skrze své vlastní zájmy.}

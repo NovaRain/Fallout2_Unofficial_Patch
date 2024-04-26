@@ -15,7 +15,7 @@
 {131}{}{Naskle!}
 {132}{}{Jsem Chad.}
 {133}{}{Podívej, mám moc práce. Běž prosím otravovat někoho jiného.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
+{134}{}{Jsem správce karavan tohohle města. Starám se o výměnu na druhém konci obchodních cest. Posledních pár dní jsem se zaměřoval hlavně na Gecko.}
 {135}{}{To fajn!}
 {136}{}{Chci pro tebe pracovat.}
 {137}{}{To zní skvěle.}
@@ -26,9 +26,9 @@
 {142}{}{Mám další otázky.}
 {143}{}{Nashle.}
 {144}{}{Například?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
+{145}{}{Má podezření, že si pro sebe ulíváš peníze, které jsou určené pro Broken Hills.}
 {146}{}{Vlastně na nic. Sbohem.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
+{147}{}{Podívejte, nemám rád, když mě lidé obviňují z něčeho, o čem nic nevím. Navrhuji, abyste odešel.}
 {150}{}{Jdu zjistit, jak to doopravdy je. Sbohem.}
 {156}{}{Promluv si s Billem. On ti pomůže.}
 {157}{}{Mám další otázky.}

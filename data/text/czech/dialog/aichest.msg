@@ -3,5 +3,5 @@
 {102}{}{Vidíš na slunci usušenou hliněnou vázu.}
 {103}{}{Vidíš truhlici se šamanovými bylinami.}
 {104}{}{Obratně kradeš šamanovy věci.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{105}{}{Zručně zamykáš zámek.}
+{106}{}{Zručně odemykáš zámek.}

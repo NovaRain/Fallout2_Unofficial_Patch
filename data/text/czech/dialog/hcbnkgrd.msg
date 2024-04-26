@@ -37,7 +37,7 @@
 {136}{}{Tak dobře.}
 {137}{}{Hej, ty! Co to sakra děláš? Vypadni odtamtud!}
 {138}{}{Teď schováš ty zbraně, příteli.}
-{139}{}{You again? Do you actually need something?}
+{139}{}{Zase ty? Skutečně něco potřebuješ?}
 {140}{}{Jenom se rozhlížím.}
 {141}{}{Eh... ne, ani ne.}
 {142}{}{Jo, chci mluvit s tvými vězni.}

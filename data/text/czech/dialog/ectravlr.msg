@@ -40,7 +40,7 @@
 {140}{}{Tak teď už opravdu budu muset jít. Bylo fajn si s tebou povídat.}
 {141}{}{Třeba se ještě někdy potkáme.}
 {142}{}{Chci se dostat do nejbližšího města ještě před setměním. Raději vyrazím.}
-{143}{}{I'd better be going.}
+{143}{}{Raději už půjdu.}
 {144}{}{Přepadení!}
 {145}{}{Dneska už nemůžeš věřit nikomu.}
 {146}{}{Porušil jsi nepsaný zákon pocestného.}
@@ -51,7 +51,7 @@
 {1107}{}{New Reno.}
 {1108}{}{Vault City.}
 {1109}{}{Redding.}
-{1110}{}{The Den.}
+{1110}{}{Den.}
 {1111}{}{San Francisco.}
 {1112}{}{New California Republic.}
 {1113}{}{Nějaký opuštěný důl.}

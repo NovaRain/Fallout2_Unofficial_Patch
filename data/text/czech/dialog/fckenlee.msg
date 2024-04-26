@@ -76,7 +76,7 @@
 {175}{}{Jo jo. Nashle.}
 {176}{}{Jsem celý nervózní z výsledku tvého pokusu. Hezký den.}
 {177}{}{Hezký den.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say there is no submarine.}
+{178}{}{Kritizoval? Každý hlupák, který to zkoumal, zjistil, že jsou základy města Shi vytvořené z trosek ponorky. Nemá smysl se dohadovat s těmi, kteří tvrdí něco jiného.}
 {179}{}{Bereš to dost na lehkou váhu.}
 {180}{}{To tedy ano. A já s těmito lidmi jednám každý den. Bohužel!}
 {181}{}{Dobře, mám další otázky.}

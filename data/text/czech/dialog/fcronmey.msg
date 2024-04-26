@@ -11,7 +11,7 @@
 {110}{}{No nic.}
 {111}{}{Jsem kapitán a řídím tuhle loď. Jestli máš nějaký otázky, tak si jdi promluvit s někým od Shi, s Badgerem a nebo s někým jiným. Nemám na tebe čas.}
 {112}{}{[KONEC]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
+{113}{}{Tahle loď je tanker Poseidon. Je vybavená technikou, která přežila válku. Má v sobě FOB, kterej umožňuje přístup k místnosti s navigačním počítačem a dále obsahuje IFF (identifikace přítel/nepřítel) radarovou rušičku, která ochraňuje před střelami Poseidonu.}
 {114}{}{Jak tohle všechno víš?}
 {115}{}{Co je to IFF radarová rušička?}
 {116}{}{Jak tuhle věc uvedeš do pohybu?}
@@ -21,7 +21,7 @@
 {120}{}{Co je přesně Enkláva?}
 {121}{}{Jak tuhle věc uvedeš do pohybu?}
 {122}{}{Nashle.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{Jak se tahle bárka ovládá? Nejdřív ji naplníš palivem. Zkus to u Hubologistů nebo u Shi a až budeš mít všechno ostatní hotový - zmáčkni knoflík. Počítač se postará o všechno ostatní, teda jestli to bude ještě fungovat. Loď popluje přímo k ropný plošině a nebudou po tobě střílet protože máš IFF odpovídač. Hlavně se ujisti, že máš všechno, co potřebuješ k přístupu: FOB, funkční navigační počítač a palivo. Jasný jako facka, ne?}
 {124}{}{Jasně. Jak tohle všechno víš?}
 {125}{}{Co je to IFF radarová rušička a ten FOB?}
 {126}{}{Jaká ropná plošina?}
@@ -50,7 +50,7 @@
 {149}{}{Aha. Jakže se tahle loď ovládá?}
 {150}{}{Dík. Naskle.}
 {151}{}{Udělal jsi chybu zahrávat si s kapitánem a jeho přáteli...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{152}{}{Jak se tahle bárka ovládá? Koukám, že už je naplněná palivem. Až budeš mít všechno ostatní hotový, zmáčkni knoflík. Počítač se postará o všechno ostatní, tedy jestli to ještě bude fungovat. Loď popluje přímo k ropný plošině, nebudou střílet, protože máš IFF odpovídač. Jen se ujisti, že máš všechno, co potřebuješ k přístupu: FOB, funkční navigační počítač a palivo. Jasný jako facka, ne?}
 {153}{}{Jo a musíš ještě zprovoznit navigační počítač. Vsadím se, že pro něj najdeš nějaký součástky v jednom z těch starejch vaultů.}
 {154}{}{Rád tě zase vidím. Co potřebuješ?}
 {155}{}{ a moc bych za to nedal, že tam jsou i tví přátelé.}
