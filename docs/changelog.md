@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 29](#version-29) (WIP)
 - [Version 28](#version-28)
 - [Version 27](#version-27)
 - [Version 26](#version-26)
@@ -32,6 +33,59 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 29
+
+- Installer
+  - Damage mod now can be selected during installation.
+  - More components are optional.
+- Inventory FRM fixes/adjustments.
+  - Patched a hole in sniper rifle's stock.
+  - Adjusted the barrel angle of Mauser pistol, which looked bent upwards.
+  - Adjusted hunting rifle's grip to make it look less bent sideways.
+  - Updated fire gecko pelt inventory FRM from RPU.
+- Translations
+  - Multiple spelling fixes in various languages.
+  - French: fixed fonts, added missing assets.
+  - Italian: added missing assets, bios.
+  - Polish: updated credits.txt.
+  - Portuguese: charset fixes.
+  - Started Vietnamese translation.
+- Party
+  - Fixed Cassidy losing all EMP DR when removing armor at level 0.
+  - ["Healing"](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/193) Robodog via dialog now uses Repair as base skill instead of Speech.
+- General
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/112) missing critical success rolls for doors, containers, traps.
+  - Experience gain messages now include bonus from Swift Learner.
+  - Added several lines missing from various dialogs and floats.
+  - Sfall updated to 4.3.3.1.
+
+- Broken Hills
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/205) player name missing in conversation with Zaius.
+- Den
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/251) Tyler dialog male/female lines confusion.
+- Enclave
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/206) Frank Horrigan vacillating between weapons when severely crippled.
+  - [Turrets](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/189) can now be temporarily disabled (by hacking the terminals, requires high enough Science).- NCR
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/111) Merk not talking on Carlson map.
+- Gecko
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/108) crash in dialog with Brain under certain conditions.
+- Klamath
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/276) Duntons sometimes freezing the game when running away.
+- Random encounters
+  - (Probably) [fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/258) certain deathclaw spawning inside cave walls.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/211) a random encounter box missing some loot under certain conditions.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/192) guards not protecting the merchant who hired them.
+  - Fixed Holy Hand Grenade effect on Vorpal Rat.
+  - Arroyo nomads now correctly have children around instead of branhmin.
+  - Klamath homeless children are now on the same team as the rest of the group. Same for the farmer encounter.
+  - Den slavers will protect their slaves if those are attacked. Slaves will fight back too.
+- Redding
+  - Fixed Lou missing her rant about Fanny dying.
+- San Francisco
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/175) Hubologist quest line hanging if Suze is killed after Badger.
+- Vault City
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/270) Dr. Andrew sometimes installing wrong implants.
 
 ### Version 28
 
