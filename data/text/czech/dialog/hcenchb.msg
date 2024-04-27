@@ -15,7 +15,7 @@
 {114}{}{Nuže, Marcus má podezření, že si pro sebe ulívá peníze, které jsou určené pro Broken Hills.}
 {115}{}{Dík. Měj se.}
 {116}{}{Díky. Jsem opravdu rád, že je to vyřízené. Ale měl by sis teď hlídat záda.}
-{117}{}{Nashle.}
+{117}{}{Čau.}
 {118}{}{Nepřítel! Chcípni!}
 {119}{}{A sakra.}
 {120}{}{[Ztiší hlas a rozhlédne se] To musí být ono. Sám jsem jednou viděl, že si bere nějaký "krajíc" z těch peněz, co dostal za dodávku uranu od Gecka.}
