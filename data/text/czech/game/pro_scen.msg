@@ -97,7 +97,7 @@
 {4900}{}{Východ z mapy}
 {4901}{}{Východ z mapy}
 {5000}{}{Čistička vzduchu}
-{5001}{}{An APU cleans the old air to provide new air for the complex. This one is broken.}
+{5001}{}{Zařízení APU čistí znečištěný vzduch a přivádí do komplexu čerstvý. Tato část je nefunkční.}
 {5100}{}{Židle}
 {5101}{}{Židle. Škoda, že nemáš čas si sednout a trochu relaxovat.}
 {5200}{}{Židle}
@@ -148,8 +148,8 @@
 {7401}{}{Chvíli kameny zkoumáš, ale nepohnuly se.}
 {7500}{}{Kameny}
 {7501}{}{Dej si na tyto kameny bedlivý pozor, třeba na tebe chtějí zaútočit.}
-{7600}{}{Car Wall Floor}
-{7601}{}{REMOVED}
+{7600}{}{Podlaha auta}
+{7601}{}{ODSTRANĚNO}
 {7700}{}{Brána}
 {7701}{}{Dřevěná brána.}
 {7800}{}{Kameny}
@@ -358,7 +358,7 @@
 {18600}{}{Označení 'Jednička'}
 {18601}{}{Myslíš si, že by to mohlo znamenat, že jsi v prvním patře.}
 {18700}{}{Označení 'Dvojka'}
-{18701}{}{You are on level two.}
+{18701}{}{Jsi ve druhém patře.}
 {18800}{}{Označení 'Trojka'}
 {18801}{}{Určitě to znamená, že jsi ve třetím patře.}
 {18900}{}{Označení 'Čtyři'}
@@ -1126,7 +1126,7 @@
 {59501}{}{Kovový stůl pokrytý jakousi biomasou.}
 {59600}{}{Nástěnka}
 {59601}{}{Na nástěnce je připíchnuto množství zpráv pro zaměstnance. Vypadá používaně.}
-{59700}{}{Shack}
+{59700}{}{Bouda}
 {59701}{}{Ačkoliv je tato bouda stará přes sto let, je stále v perfektním stavu.}
 {59800}{}{Cedule}
 {59801}{}{Cedule s nápisem: Smíšené zboží.}
@@ -1454,9 +1454,9 @@
 {76400}{}{Monitory}
 {76401}{}{Kvůli podivnému slizu rozteklému přes obrazovky nedokážeš z monitoru nic přečíst.}
 {76500}{}{Podlaha}
-{76501}{}{You would swear that there is something moving on the floor.}
+{76501}{}{Přísahal bys, že se na podlaze něco hýbe.}
 {76600}{}{Podstavec}
-{76601}{}{The pedestal looks as if it were slowly breathing in and out.}
+{76601}{}{Ten podstavec vypadá, jako by se pomalu nadechoval a vydechoval.}
 {76700}{}{Podlaha}
 {76800}{}{Bomba}
 {76801}{}{Toto je atomová bomba. Vypadá nebezpečně už jenom tím, jak si tu tiše leží.}
@@ -1580,7 +1580,7 @@
 {82800}{}{Lehké}
 {82801}{}{Bezpečnostní světlo.}
 {82900}{}{Sloup}
-{82901}{}{This pillar is the show piece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
+{82901}{}{Tento sloup je dominantou náměstí Shady Sands. Vypráví příběhy, které lidem připomínají naději a mír.}
 {83000}{}{Dobíjecí místnost}
 {83001}{}{Toto je napájecí dok pro roboty. Tady se dobíjí, když nejsou ve službě.}
 {83100}{}{Dobíjecí místnost}
@@ -2000,8 +2000,8 @@
 {114500}{}{Rakev}
 {114600}{}{Ocelové tyče}
 {114700}{}{Ocelové tyče}
-{114800}{}{Steel Window Cover}
-{114900}{}{Steel Window Cover}
+{114800}{}{Ocelový kryt okna}
+{114900}{}{Ocelový kryt okna}
 {115000}{}{Laserový paprsek}
 {115100}{}{Laserový paprsek}
 {115200}{}{Důlní vozík}
@@ -2027,7 +2027,7 @@
 {116900}{}{Dveře}
 {117000}{}{Dveře}
 {117100}{}{Potrubí}
-{117101}{}{A set of pipes going into the reactor.}
+{117101}{}{Trubky vedoucí dovnitř reaktoru.}
 {117200}{}{Tank}
 {117300}{}{Dík.}
 {117400}{}{Dík.}
@@ -2262,11 +2262,11 @@
 {137600}{}{Pochodeň}
 {137601}{}{Do železného kruhu připevněného na zdi je zasazena hořící pochodeň.}
 {137700}{}{Vertibird}
-{137701}{}{A large military aircraft.}
+{137701}{}{Velké vojenské letadlo.}
 {137800}{}{Zničené dveře}
-{137801}{}{The power station door is destroyed.}
+{137801}{}{Dveře elektrárny jsou zničené.}
 {137900}{}{Zničené dveře}
-{137901}{}{The power station door is destroyed.}
+{137901}{}{Dveře elektrárny jsou zničené.}
 {138000}{}{Stěna}
 {138100}{}{Stěna}
 {138200}{}{Stěna}
@@ -2626,9 +2626,9 @@
 {172200}{}{Neprůstřelné sklo}
 {172300}{}{Neprůstřelné sklo}
 {172400}{}{Těžká laserová věž}
-{172401}{}{The turret rotates in a menacing way.}
+{172401}{}{Věž se hrozivě otáčí.}
 {172500}{}{Těžká laserová věž}
-{172501}{}{The turret rotates in a menacing way.}
+{172501}{}{Věž se hrozivě otáčí.}
 {172600}{}{Kameny}
 {172700}{}{Kameny}
 {172800}{}{Kameny}

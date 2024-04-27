@@ -19,7 +19,7 @@
 {118}{}{Prezidentka Tandi?}
 {119}{}{Dobře. Jen zkouším štěstí. Díky.}
 {120}{}{Poslyš, já vedu prospěšný život a mám čistý rejstřík! Nemám žádný GECK ani cokoliv podobného.}
-{121}{}{So-rry! What do you know about Vault 13?}
+{121}{}{Pro-min!, Cože to víš o Vaultu 13?}
 {122}{}{Tak na to zapomeň. Už půjdu.}
 {123}{}{O něčem bych věděl, jestli máš zájem.}
 {124}{}{Děláš si srandu, ne? Po té události s Jackem? Myslím, že by se určitě nějaká slušná práce našla.}

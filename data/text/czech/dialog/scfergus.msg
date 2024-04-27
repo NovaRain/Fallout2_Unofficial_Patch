@@ -3,7 +3,7 @@
 {102}{}{Na tomhle chlápkovi není nic výjimečného. Vypadá jako ztělesnění nadějného byrokrata.}
 {103}{}{Vítejte v Kongresu. Jak vám mohu pomoci?}
 {104}{}{Á, zase zpátky? Jak vám mohu pomoci tentokrát?}
-{105}{}{Now, what can I do for you?}
+{105}{}{Takže, co pro tebe můžu udělat?}
 {106}{}{Ehhh...}
 {107}{}{Já vidět Tandi?}
 {108}{}{Já vidět Tandi?}

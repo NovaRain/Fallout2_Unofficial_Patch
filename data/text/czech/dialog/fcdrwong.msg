@@ -12,7 +12,7 @@
 {111}{}{Aha!}
 {112}{}{Jmenuji se Dr. Wong a jsem hlavní vědec tohoto zařízení.}
 {113}{}{Další otázky, prosím.}
-{114}{}{Dík. Naskle.}
+{114}{}{Dík. Měj se.}
 {115}{}{Dohlížím na vědecké pokusy, jenž se zde provádějí. Jsem také zodpovědný za počítačovou síť.}
 {116}{}{Co plánujete?}
 {117}{}{Jak získám přístup do počítačové sítě?}
@@ -20,7 +20,7 @@
 {119}{}{Aha. Nashle.}
 {120}{}{Hm, když vám řeknu naše plány, tak je poté bude znát každý. Obávám se, že jsou prozatím tajné.}
 {121}{}{Dobře, dobře. Mám další otázky.}
-{122}{}{Dík. Naskle.}
+{122}{}{Dík. Měj se.}
 {123}{}{A co když vám strčím pistoli pod rypák a přinutím vás mi to říct?}
 {124}{}{Hm, někdo se naučí, jak se do ní hacknout a někdo se spřátelí s jedním z mých podřízených. O tom hackování samozřejmě žertuji. Pokud se o to pokusíte, pošlu někoho, aby vás zabil. (Usměje se, aby dokázal, že to nemyslí vážně.)}
 {125}{}{Vy byste mě opravdu nechal zabít?}

@@ -1,15 +1,15 @@
-{100}{}{You see a villager.}
-{101}{}{You see a villager.}
+{100}{}{Vidíš jednoho z obyvatel vesnice.}
+{101}{}{Vidíš jednoho z obyvatel vesnice.}
 {102}{}{Ahoj.}
 {103}{}{Hezký den.}
 {104}{}{Vítej v naší vesnici.}
 {105}{}{Tyhle monstra nás chrání.}
-{106}{}{Hurry back.}
-{107}{}{We'll need those guns soon.}
+{106}{}{Pospěš si zpět.}
+{107}{}{Ty zbraně budeme už brzy potřebovat.}
 {108}{}{Ahoj.}
-{109}{}{Leave now!}
-{110}{}{Go back to where you came from!}
+{109}{}{Teď vypadni!}
+{110}{}{Vraťte se, odkud jste přišli.}
 {111}{}{Vypadni sakra odsud!}
-{112}{}{We're safe now.}
+{112}{}{Teď už jsme v bezpečí.}
 {113}{}{Díky.}
-{114}{}{Bless you, wanderer.}
+{114}{}{Bůh ti žehnej, poutníku.}

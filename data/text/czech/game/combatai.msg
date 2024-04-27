@@ -2770,7 +2770,7 @@
 {40964}{}{Ty míříš pro potěšení, já střílím pro zabíjení.}
 {40965}{}{Nemáš odvahu mě sundat.}
 {40966}{}{Vypadá to, že jseš blbej A ještě slepej!}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Tak tohle bylo jen o vlásek.}
 {40968}{}{Musíš bejt asi pěkně šilhavej zkurvysyn.}
 {40969}{}{Nějak ti to míření nejde. Dej si bacha, aby to příště neodnesla tvoje vlastní hlava.}
 {40970}{}{Sakra, ze mě je už páprda a stejně mířím líp než ty.}
@@ -3386,13 +3386,13 @@
 {44547}{}{Pokračuji v útoku na cíl.}
 {44548}{}{Zahajuji útok.}
 {44549}{}{Eliminuji hrozbu.}
-{44560}{}{Engaging evasive maneuvers.}
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
-{44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
-{44565}{}{Analysis: evasive maneuvers successful.}
-{44566}{}{Unit is undamaged.}
+{44560}{}{Zahájeny úhybné manévry.}
+{44561}{}{Zahájen obranný postup Beta.}
+{44562}{}{Nepřítel má sníženou schopnost zaměřování. Přehodnocení úrovně ohrožení.}
+{44563}{}{Nepřítel minul. Přepočítávám útočné schopnosti cíle.}
+{44564}{}{Rozbor: Efektivita nepřítele minimální. }
+{44565}{}{Rozbor: Úhybné manévry úspěšné.}
+{44566}{}{Jednotka je nepoškozena.}
 {44800}{}{Sice mám tvrdou lebku, ale stejně to bolelo.}
 {44801}{}{Mám pěkně silnou migrénu.}
 {44802}{}{Umph. Do hlavy ne!}

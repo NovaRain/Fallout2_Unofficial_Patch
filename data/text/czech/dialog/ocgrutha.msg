@@ -83,7 +83,7 @@
 {182}{}{Říkal jsi, že mi dáš vědět, pokud tu najdeš GECK. Našel jsi ho?}
 {183}{}{Ano, hledám GECK. Řekli mi, že by tu mohl být. Víš, kde je?}
 {184}{}{Ne, díky. Nic víc nepotřebuju.}
-{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Ano, jeden GECK byl dole ve skladišti. Je tvůj a tisícero díků.}
 {186}{}{Ano, jeden GECK byl ve skladišti, ale teď chybí. Je mi líto, že ti ho nemůžu dát jako odměnu za tvoji štědrou pomoc.}
 {187}{}{Díky!}
 {188}{}{Eh... to je dobrý. Zkusím ho najít někde jinde.}

@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Nádherná zlatá urna s nápisem "Harriet".}
 {11300}{}{Róba}
-{11301}{}{Worn-looking robes.}
+{11301}{}{Opotřebovaně vypadající roucha.}
 {11400}{}{Tanglerova ruka}
 {11401}{}{Robotický manipulátor ve tvaru a podobě ruky. Byl poškozen při neodborném pokusu o rozebrání.}
 {11500}{}{Super Kladivo}
@@ -445,7 +445,7 @@
 {22800}{}{Technický manuál}
 {22801}{}{Návod na údržbu a opravu energo zbroje T-51b.}
 {22900}{}{Malá součástka}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Poškozený kus energo zbroje. Blýská se a mohl by sloužit jako nějaká trofej.}
 {23000}{}{Záznamy Vaultu}
 {23001}{}{Souhrn událostí a důležitých záznamů z počítačového systému Vaultu. Pravděpodobně poškozeno.}
 {23100}{}{Bezpečnostní kód vojenské základny}
