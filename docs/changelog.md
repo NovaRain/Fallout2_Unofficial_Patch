@@ -47,6 +47,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Italian: added missing assets, bios.
   - Polish: updated credits.txt.
   - Portuguese: charset fixes.
+  - Russian: updated fonts, proper `а` and `ё` glyphs.
   - Started Vietnamese translation.
 - Party
   - Fixed Cassidy losing all EMP DR when removing armor at level 0.
