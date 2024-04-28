@@ -36,8 +36,6 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 ### Version 29
 
-- Installer
-  - Damage mod now can be selected during installation.
 - Inventory FRM fixes/adjustments.
   - Patched a hole in sniper rifle's stock.
   - Adjusted the barrel angle of Mauser pistol, which looked bent upwards.
@@ -58,7 +56,6 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Experience gain messages now include bonus from Swift Learner.
   - Added several lines missing from various dialogs and floats.
   - Sfall updated to 4.3.3.1.
-
 - Broken Hills
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/205) player name missing in conversation with Zaius.
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/208) mutant prison guard reappearing after blowing up the purifier.
