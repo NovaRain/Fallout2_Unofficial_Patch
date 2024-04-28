@@ -38,7 +38,6 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 - Installer
   - Damage mod now can be selected during installation.
-  - More components are optional.
 - Inventory FRM fixes/adjustments.
   - Patched a hole in sniper rifle's stock.
   - Adjusted the barrel angle of Mauser pistol, which looked bent upwards.
@@ -62,6 +61,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 - Broken Hills
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/205) player name missing in conversation with Zaius.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/208) mutant prison guard reappearing after blowing up the purifier.
 - Den
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/251) Tyler dialog male/female lines confusion.
 - Enclave
