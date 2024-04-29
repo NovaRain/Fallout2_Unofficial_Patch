@@ -49,7 +49,7 @@
 {261}{}{Ich würde gern bei einer Sklavenjagd mitmachen.}
 {262}{}{Macht nichts. Tschüss.}
 {263}{}{ will töten.}
-{264}{}{NNö.}
+{264}{}{Nö.}
 {270}{}{Kommst du damit klar? Ich nehme nicht jeden auf...aber was soll's. Wenn du Mist baust,
  verkauf ich dich. Du musst dich auf der Stirn tätowieren lassen, damit du für jeden als
  Sklavenhändler erkennbar bist. Die lässt sich dann nicht mehr wegmachen, also endgültig.}
