@@ -190,5 +190,5 @@
 {289}{}{Und dann?}
 {290}{hak122}{Zu viele Jahre und zu viele Wunden, Auserwähltes Wesen. Hör mir statt dessen lieber zu.}
 {291}{}{Also gut.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
-{301}{}{You must now pay for your sins, Chosen One.}
+{300}{}{Diejenigen, die stehlen, tragen eine große Last. Vergiss das nicht, Auserwähltes Wesen.}
+{301}{}{Du musst für deine Sünden zahlen, Auserwähltes Wesen.}

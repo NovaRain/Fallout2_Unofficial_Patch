@@ -23,8 +23,8 @@
 {120}{}{Verschwinde!}
 {121}{}{Hau ab.}
 {122}{}{Wir sind ein friedlicher Stamm.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
-{204}{}{Not today. I must be going.}
+{200}{}{Ah, ein Reisender. Es tut mir leid, dass wir kein Zelt haben, in dem du Schatten vor der unendlichen Hitze des Landes finden könntest. Ruhe dich einen Moment aus, damit wir uns unterhalten können.}
+{201}{}{Danke. Wohlwollend nehme ich euer Angebot an.}
+{202}{}{Wie Schade. Ruh dich aus und sei bei uns willkommen.}
+{203}{}{Ich hoffe, du hast alles, was du brauchst. Sonst noch was?}
+{204}{}{Heute nicht. Ich muss jetzt gehen.}
