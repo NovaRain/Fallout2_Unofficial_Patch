@@ -64,7 +64,8 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/251) Tyler dialog male/female lines confusion.
 - Enclave
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/206) Frank Horrigan vacillating between weapons when severely crippled.
-  - [Turrets](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/189) can now be temporarily disabled (by hacking the terminals, requires high enough Science).- NCR
+  - [Turrets](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/189) can now be temporarily disabled (by hacking the terminals, requires high enough Science).
+- NCR
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/111) Merk not talking on Carlson map.
 - Gecko
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/108) crash in dialog with Brain under certain conditions.
