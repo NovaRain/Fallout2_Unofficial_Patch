@@ -5,7 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
-- [Version 29](#version-29) (WIP)
+- [Version 29](#version-29)
 - [Version 28](#version-28)
 - [Version 27](#version-27)
 - [Version 26](#version-26)
