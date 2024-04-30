@@ -71,8 +71,8 @@
 {331}{}{Lass mal sehen: (Prüft Skript.) Auftritt Randy, er und Sylvia gehen ran... Christy geht ins Badezimmer, Peter hinterher, sie gehen ran. Auftritt Ron...}
 {345}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut ärgerlich hoch, sieht noch ein zweites Mal hin.) Hey... du warst doch vorhin schon mal da - du wolltest mit uns drehen, richtig?}
 {346}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du schon wieder. Hör zu, biste nun interessiert an der Rolle als Fluffer oder nicht?}
-{347}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch, sieht noch ein zweites Mal hin.) Bist DU der neue Fluffer?}
-{348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Bist der neue Fluffer?}
+{347}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch, sieht noch ein zweites Mal hin.) Bist DU die neue Fluffer?}
+{348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Bist du die neue Fluffer?}
 {349}{}{Ich Fluff.}
 {350}{}{Ich nix Fluff! Ich mich verpuff!}
 {351}{}{[Verschwinde]}
