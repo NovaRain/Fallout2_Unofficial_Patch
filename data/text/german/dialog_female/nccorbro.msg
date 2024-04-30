@@ -57,7 +57,7 @@
 {317}{}{Dieser Diggler-Typ war klasse.}
 {318}{}{Der Typ ist ja Dynamit!}
 {319}{}{Ich werde dich NICHT so aufnehmen.}
-{320}{}{Er ist ein Geschoß! Er ist eine Rakete! Er hebt gerade ab, Sid, ich sag's dir!}
+{320}{}{Er ist ein Geschoss! Er ist eine Rakete! Er hebt gerade ab, Sid, ich sag's dir!}
 {321}{}{Ab-so-lut!}
 {322}{}{Sag dem Idioten, er soll zur Hölle fahren!}
 {323}{}{Hör zu, wenn dieses Weichei hier noch mal vorbeikommt...}
@@ -72,7 +72,7 @@
 {345}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut ärgerlich hoch, sieht noch ein zweites Mal hin.) Hey... du warst doch vorhin schon mal da - du wolltest mit uns drehen, richtig?}
 {346}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du schon wieder. Hör zu, biste nun interessiert an der Rolle als Fluffer oder nicht?}
 {347}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch, sieht noch ein zweites Mal hin.) Bist DU die neue Fluffer?}
-{348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Bist du die neue Fluffer?}
+{348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Bist die neue Fluffer?}
 {349}{}{Ich Fluff.}
 {350}{}{Ich nix Fluff! Ich mich verpuff!}
 {351}{}{[Verschwinde]}
@@ -259,7 +259,7 @@
 {855}{}{Korsische Brüder zu deinen Diensten... (Schaut hoch.) Du schon wieder. Suchst du noch mehr Arbeit, Herr von Popp-und-Pimper?}
 {856}{}{Korsische Brüder zu deinen Diensten... (Schaut hoch.) Du schon wieder. Suchst du noch mehr Arbeit, Fräulein von Popp-und-Pimper?}
 {857}{}{Korsische Brüder zu deinen Diensten... (Schaut hoch.) Du! Was ist denn mit dir PASSIERT? Ich meine, es ist gut, es ist gut...Ich muss vorher was übersehen haben. Du wolltest hier mit uns drehen, nicht wahr?}
-{861}{}{Äh, was drehen?}
+{861}{}{Äh, was ist ein Fluffer?}
 {862}{}{Ja. Habt ihr noch mehr Arbeit für mich?}
 {875}{}{Korsische Brüder zu deinen Diensten... (Schaut hoch.) Hey! Hast du über mein Angebot nachgedacht? Hm?}
 {876}{}{Korsische Brüder zu deinen Diensten... (Schaut hoch.) Hey! Willst du's noch mal probieren? Ja?}
