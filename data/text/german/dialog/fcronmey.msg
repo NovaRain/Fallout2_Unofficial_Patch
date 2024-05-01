@@ -45,7 +45,7 @@
 {138}{}{Ganz einfach. Ich hab die Navarro-Basis eines Tages verlassen und bin hier runter gekommen, weil ich dachte, das ist bestimmt der letzte Ort, wo man mich suchen wird. Außerdem bin ich nicht wichtig genug, als dass die Enklave nach mir suchen würde. Ich bin nur ein kleiner Fisch. }
 {139}{}{Was genau ist eigentlich die Enklave?}
 {140}{}{Danke. Tschüss.}
-{141}{}{Es gibt noch eine große Poseidon-Bohrinsel draußen auf dem Wasser. Sie ist die letzte Basis der Enklave.}
+{141}{}{Es gibt noch eine große Poseidon-Bohrinsel draußen auf dem Wasser. Sie ist die letzte Basis der Enklave}
 {142}{}{Woher weißt du das alles?}
 {143}{}{Was passiert sonst noch da draußen auf der Bohrinsel?}
 {144}{}{Danke. Tschüss.}
@@ -63,5 +63,5 @@
  um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
 {153}{}{Oh ja. Du musst auch den Navigationscomputer funktionstüchtig machen. Ich wette du findest in den alten Vaults die Teile.}
 {154}{}{Schön, dich wiederzusehen, Was brauchst du?}
-{155}{}{, und ich Wette, das deine Freunde auch dort sind.}
+{155}{}{und ich wette, dass deine Freunde auch dort sind.}
 {156}{}{.}
