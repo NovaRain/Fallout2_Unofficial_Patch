@@ -161,10 +161,10 @@
 {651}{}{ ::: Perky :::}
 {652}{}{ ::: Karma :::}
 {653}{}{ ::: Dovednosti :::                ::: Zářezy :::}
-{654}{}{  ::: Inventář :::}
+{654}{}{ ::: Inventář :::}
 {655}{}{  Celková váha:}
 {656}{}{ ::: Závislosti :::}
-{657}{}{   ::: Reputace :::}
+{657}{}{ ::: Reputace :::}
 {1000}{}{Reputace (Obecně) }
 {1001}{}{Berserk}
 {1002}{}{Šampión}
