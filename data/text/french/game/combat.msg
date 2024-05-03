@@ -496,7 +496,7 @@
 {2037}{}{les ailes}
 {2038}{}{pas de nom}
 {5000}{}{. Ca fait vraiment mal}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Serious pain is inflicted}
 {5002}{}{ sans le bénéfice d'une armure}
 {5003}{}{. Cette attaque perverse le met K.O}
 {5004}{}{. Le coup le met à terre}
