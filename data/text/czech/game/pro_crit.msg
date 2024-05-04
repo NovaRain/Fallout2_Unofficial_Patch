@@ -90,7 +90,7 @@
 {7900}{}{Kyborg}
 {8000}{}{Malý geckon}
 {8100}{}{Odolný malý geckon}
-{8200}{}{Zdivočelé plemeno psa.}
+{8200}{}{Zdivočelé plemeno psa}
 {8201}{}{Zdivočelé plemeno psa.}
 {8300}{}{Zlatý geckon}
 {8400}{}{Párač}
