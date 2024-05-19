@@ -18,7 +18,7 @@
 {153}{}{Ich bin }
 {154}{}{. Was geht hier in der Stadt so ab?}
 {155}{}{Ich glaube nicht, dass mein Name dich was angeht.}
-{160}{}{Es ist immer nett, noch einen Saufkumpan zu finden. Willst du mir einen Drink spendieren? Vom Reden bekomme ich immer Durst.}
+{160}{}{Es ist immer nett, noch eine Saufkumpanin zu finden. Willst du mir einen Drink spendieren? Vom Reden bekomme ich immer Durst.}
 {161}{}{Klar, Bob. Mach ich gern.}
 {162}{}{Kann ich mir gerade nicht leisten.}
 {163}{}{Ich will dir keinen Drink ausgeben, Whiskey Bob.}
