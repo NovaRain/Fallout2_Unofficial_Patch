@@ -38,7 +38,7 @@
 {288}{}{Ce comique sur la scène n'est pas terrible. Tu veux bien que j'essaie ?}
 {289}{}{Merci. As-tu besoin d'une danseuse pour la nuit ? Je peux accepter un petit contrat.}
 {290}{}{Merci, j'y vais tout de suite.}
-{291}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{291}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {292}{}{Je vérifie juste quelques trucs. Continue ton boulot.}
 {295}{}{Pas de droïdes.}
 {296}{}{On accepte pas les droïdes.}
@@ -57,12 +57,12 @@
 {326}{}{Je veille à ce que tout aille bien au casino. Si tu as besoin de quoi que ce soit, n'hésite pas à me le demander.}
 {327}{}{C'est quel casino ici ?}
 {328}{}{Tu peux me parler un peu du casino ?}
-{329}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{329}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {335}{}{This is [CN]. Need anything, just ask.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
 {337}{}{Qui es-tu ?}
 {338}{}{Tu peux me parler un peu du casino ?}
-{339}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{339}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {340}{}{Que puis-je faire pour toi, l'ami ?}
 {341}{}{Que puis-je faire pour toi, mon chou ?}
 {342}{}{Fouuuuuuu fou fou fouuuu.}
@@ -75,7 +75,7 @@
 {349}{}{Ok, merci. Excuse-moi de t'avoir dérangé.}
 {350}{}{Merci. As-tu besoin d'une danseuse pour la nuit ? Je peux accepter un petit contrat.}
 {351}{}{Merci, j'y vais tout de suite.}
-{352}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{352}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {353}{}{Je vérifie juste quelques trucs. Continue ton boulot.}
 {355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
