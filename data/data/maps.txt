@@ -857,9 +857,9 @@ saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
 random_start_point_0=elev:0, tile_num:18474
-random_start_point_1=elev:1, tile_num:22091
-random_start_point_2=elev:2, tile_num:21701
-random_start_point_3=elev:3, tile_num:19906
+random_start_point_1=elev:0, tile_num:22091
+random_start_point_2=elev:0, tile_num:21701
+random_start_point_3=elev:0, tile_num:19906
 
 [Map 086]
 lookup_name=Coast Encounter 4
@@ -1080,7 +1080,7 @@ lookup_name=Special Guardian Encounter
 map_name=rndforvr
 music=16follow
 ;ambient_sfx=hmxxxxbg:100
-saved=No		; Verifed 8/18 -rwh2
+saved=Yes		; Verifed 8/18 -rwh2; modified by killap (was No)
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
 ;random_start_point_0=elev:0, tile_num:24777
@@ -1090,7 +1090,7 @@ lookup_name=Special Toxic Encounter
 map_name=rndtoxic
 music=08vats
 ;ambient_sfx=hmxxxxbg:100
-saved=No		; Verified 8/18	-rwh2
+saved=Yes		; Verified 8/18	-rwh2; modified by killap (was No)
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
 ;random_start_point_0=elev:0, tile_num:24777
@@ -1112,7 +1112,7 @@ map_name=rndexcow
 music=07desert
 ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
 ;ambient_sfx=hmxxxxbg:100
-saved=No		; Verified 8/18 -rwh2
+saved=Yes		; Verified 8/18 -rwh2; modified by killap (was No)
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
 ;random_start_point_0=elev:0, tile_num:24777
@@ -1155,7 +1155,7 @@ random_start_point_3=elev:0, tile_num:21288
 
 [Map 112]
 lookup_name=Coast Encounter 12
-map_name=07desert
+map_name=coast12
 music=08vats
 ambient_sfx=seawind1:25, seawind:25, gustwind:10, seagull:15, seagull1:15, gustwin1:10
 ;ambient_sfx=hmxxxxbg:100
@@ -1237,7 +1237,8 @@ random_start_point_4=elev:0, tile_num:20489
 
 [Map 118]
 lookup_name=Desert Encounter 13
-map_name=dsrt13
+;map_name=dsrt13
+map_name=desrt13
 music=07desert
 ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
 ;ambient_sfx=hmxxxxbg:100

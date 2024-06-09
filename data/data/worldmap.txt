@@ -59,6 +59,7 @@ map_08=Desert Encounter 9
 map_09=Desert Encounter 10
 map_10=Desert Encounter 11
 map_11=Desert Encounter 12
+map_12=Desert Encounter 13
 
 [Random Maps: Mountain]
 map_00=Cavern Encounter 0
@@ -2578,7 +2579,7 @@ enc_18=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If
 
 [Encounter Table 58]
 lookup_name=Fran_O                                                                   ; Areas around San Francisco
-maps=Coast Encounter 7, Coast Encounter 8, Coast Encounter 10, Coast Encounter 5, Coast Encounter 11
+maps=Coast Encounter 7, Coast Encounter 8, Coast Encounter 10, Coast Encounter 5, Coast Encounter 11, Coast Encounter 12
 enc_00=Chance:15%,Enc:(4-9) FRAN_Mercenaries AMBUSH Player
 enc_01=Chance:15%,Enc:(7-10) FRAN_Press_Gang AMBUSH Player
 enc_02=Chance:7%,Enc:(4-7) EPA_Deathclaws AMBUSH Player
