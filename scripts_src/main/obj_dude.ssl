@@ -98,6 +98,7 @@ end
 procedure map_update_p_proc begin
    variable x;
    variable days_since_exposed;
+
    // digest food
    x := amt_food_digested_in_time(local_var(LVAR_Last_Digest_Time));
    if (x > 0) then begin
@@ -138,7 +139,7 @@ procedure map_update_p_proc begin
    if (self_obj) then begin
       if (self_item(PID_GECK) and not global_var(GVAR_GAVE_GECK_EXP)) then begin
          set_global_var(GVAR_GAVE_GECK_EXP, 1);
-         display_msg(mstr(150) + EXP_GOT_GECK + mstr(151));
+         display_msg(mstr(150) + calc_actual_xp_gain(EXP_GOT_GECK) + mstr(151));
          give_exp_points(EXP_GOT_GECK);
       end
    end
@@ -146,7 +147,6 @@ end
 
 
 procedure critter_p_proc begin
-
    if (global_var(GVAR_DUDE_START_SEQ_1) != 0) then begin
       if (game_time > global_var(GVAR_DUDE_START_SEQ_1) and not v13_status(FLG_GRUTHAR_DEAD) and cur_map_index != MAP_VAULT_13) then begin
          ON_VAULT13_SEQ;

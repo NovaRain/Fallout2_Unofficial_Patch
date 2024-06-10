@@ -245,7 +245,7 @@ procedure destroy_p_proc begin
    set_mss(MSS_ELRON_DEAD);
    set_global_var(GVAR_NCR_KILL_ELRON_QST, 2);
    //give_exp_points(EXP_MERK_HUB_DEAD);
-   //display_msg(mstr(218) + EXP_MERK_HUB_DEAD + mstr(219));
+   //display_msg(mstr(218) + calc_actual_xp_gain(EXP_MERK_HUB_DEAD) + mstr(219));
 
    //set_merk_status(MERK_STATUS_PLEASED);
 
@@ -373,7 +373,7 @@ procedure Node008 begin
    if (Node8Rep == 1) then
       NOption(135, Node008, 4);
    if (dude_iq >= 8 or is_skill_tagged(SKILL_SPEECH)) then
-      NOption(136, Node019, 4);  //137 --edit by killap - had a int requirement of 8 before.
+      NOption(136, Node019, 4);  //137 --edit by killap - had an int requirement of 8 before.
    /*if (local_var(LVAR_Freeibe) == 0) then begin
       NOption(mstr(138) + " " + dude_level + mstr(217), Node020, 4);
    end*/

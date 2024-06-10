@@ -175,7 +175,7 @@ procedure timed_event_p_proc begin
       if (global_var(GVAR_NCR_MIRA_STATE) == MJOBTAKEN) then begin
          set_global_var(GVAR_NCR_MIRA_STATE, MJOBJACKEDWHACKED);
          give_exp_points(EXP_MIRA_JACK_DEAD);
-         display_msg(mstr(161) + EXP_MIRA_JACK_DEAD + mstr(162));
+         display_msg(mstr(161) + calc_actual_xp_gain(EXP_MIRA_JACK_DEAD) + mstr(162));
       end else begin
          set_global_var(GVAR_NCR_MIRA_STATE, MJACKDEAD);
       end
@@ -298,7 +298,7 @@ procedure destroy_p_proc begin
    if (global_var(GVAR_NCR_MIRA_STATE) == MJOBTAKEN) then begin
       set_global_var(GVAR_NCR_MIRA_STATE, MJOBJACKEDWHACKED);
       give_exp_points(EXP_MIRA_JACK_DEAD);
-      display_msg(mstr(161) + EXP_MIRA_JACK_DEAD + mstr(162));
+      display_msg(mstr(161) + calc_actual_xp_gain(EXP_MIRA_JACK_DEAD) + mstr(162));
    end else begin
       set_global_var(GVAR_NCR_MIRA_STATE, MJACKDEAD);
    end
