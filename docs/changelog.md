@@ -34,6 +34,11 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
+### Version 30 (WIP)
+
+- New Reno
+  - [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/295) Cody never talking again if PC left map before he calmed down.
+
 ### Version 29
 
 - Inventory FRM fixes/adjustments.
