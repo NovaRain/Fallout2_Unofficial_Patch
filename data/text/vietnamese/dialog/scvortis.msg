@@ -46,7 +46,7 @@
 {145}{}{Another question...}
 {146}{}{You're too touchy for me. I'm leaving.}
 {147}{}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you could get that for me?}
-{148}{}{Sure.}
+{148}{}{Đư?c thôi.}
 {149}{}{I don't think so.}
 {150}{}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
 {151}{}{They work in secret, especially up north.}
