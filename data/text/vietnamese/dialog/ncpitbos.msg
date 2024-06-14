@@ -30,7 +30,7 @@
 {280}{}{Shoot. What d'you want to know?}
 {281}{}{Fooooooo foo foo fooooo}
 {282}{}{Wander off}
-{283}{}{Who are you?}
+{283}{}{Ông là ai?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
 {286}{}{You know somebody named Pretty Boy Lloyd?}
@@ -60,17 +60,17 @@
 {329}{}{Nothing, thanks. Sorry to bother you.}
 {335}{}{This is [CN]. Need anything, just ask.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
-{337}{}{Who are you?}
+{337}{}{Ông là ai?}
 {338}{}{Can you tell me a little about the casino?}
 {339}{}{Nothing, thanks. Sorry to bother you.}
 {340}{}{What can I do for you, pal?}
 {341}{}{What can I do for you, hon?}
 {342}{}{Fooooooo foo foo fooooo}
 {343}{}{Wander off}
-{344}{}{Who are you?}
+{344}{}{Ông là ai?}
 {345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
 {346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
-{347}{}{Who are you?}
+{347}{}{Ông là ai?}
 {348}{}{Who owns this casino?}
 {349}{}{Okay, thanks. Sorry to bother you.}
 {350}{}{Thanks. Do you need a dancer for the night? I'm open for a limited engagement.}
@@ -79,14 +79,14 @@
 {353}{}{Just checking on things. Carry on.}
 {355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
-{357}{}{Who are you?}
+{357}{}{Ông là ai?}
 {358}{}{Can you tell me a little about the casino?}
 {359}{}{I see. Thanks for your time.}
 {360}{}{Hey, look who's here! Hey, }
 {361}{}{. Welcome to [CN]. Love your films.}
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Wander off}
-{364}{}{Who are you?}
+{364}{}{Ông là ai?}
 {365}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine
  there for the past few years, waiting for the big jackpot. His life fortune
  must be sitting in that thing, but it won't give him a single chip.}
