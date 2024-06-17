@@ -56,7 +56,7 @@
 {155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
 {156}{}{Yes, it's a human spleen.}
 {157}{}{Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.}
-{158}{}{[DONE]}
+{158}{}{[XONG]}
 {159}{}{Aiee! Guards! The lao wai intruder is here!}
 {160}{}{You have certain schematics to give to me?}
 {161}{}{Ken Lee told me to give these to you.}
