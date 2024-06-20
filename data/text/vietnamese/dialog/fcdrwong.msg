@@ -12,7 +12,7 @@
 {111}{}{Aagh!}
 {112}{}{I am Dr. Wong. I am the head scientist of this installation.}
 {113}{}{More questions, please.}
-{114}{}{Thanks. Bye.}
+{114}{}{Cám ơn. T?m bi?t.}
 {115}{}{I oversee the scientific experiments we create and run here. I also am in charge of the computer network.}
 {116}{}{What are you planning?}
 {117}{}{How does one get access to the computer network?}
@@ -20,7 +20,7 @@
 {119}{}{I see. Bye.}
 {120}{}{Ah, but if I tell you our plans, then everyone will know. I'm afraid they are secret plans, for now.}
 {121}{}{Fine, fine. I have other questions.}
-{122}{}{Thanks. Bye.}
+{122}{}{Cám ơn. T?m bi?t.}
 {123}{}{How about if I stick a gun under your nose and force you to tell me?}
 {124}{}{Why, one learns how to hack into it, or how to make friends with one of my underlings. I'm joking, of course, about hacking into it - if you were to do that, I'd send someone after you to kill you. [He smiles to show he means no offense.]}
 {125}{}{Would you really kill me?}
@@ -48,7 +48,7 @@
 {147}{}{He needs it to survive, you know. It came from inside his body.}
 {148}{}{Then maybe I'd better kill you for it.}
 {149}{}{A deal is a deal. He can't have it. Sorry, but we made a bargain and just because Chip regrets it now doesn't mean he can go back on his deal.}
-{150}{}{[MORE]}
+{150}{}{[THÊM]}
 {151}{}{It's a human spleen? Lao Chou didn't tell me that!}
 {152}{}{Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.}
 {153}{}{Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.}

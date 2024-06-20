@@ -176,4 +176,4 @@
 {542}{}{Oh, maybe I'll come back when I have more. Goodbye.}
 {550}{}{I'll sure be glad to have that damn (sob) tribal (sob) away (sob, sob) from
  here. (sob)}
-{600}{}{[MORE]}
+{600}{}{[THÊM]}
