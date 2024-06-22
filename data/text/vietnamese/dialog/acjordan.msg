@@ -1,6 +1,6 @@
-{100}{}{You see Jordan, twirling his spear as usual.}
-{101}{}{You see Jordan, twirling his spear as usual.}
-{102}{}{Good luck! Our village depends on you.}
+{100}{}{B?n th?y Jordan, đang múa ng?n giáo như m?i khi.}
+{101}{}{B?n th?y Jordan, đang múa ng?n giáo như m?i khi.}
+{102}{}{Chúc may m?n! Ngôi làng trông ch? vào c?u.}
 {103}{}{Chosen One, the way you use a spear, you'll be meat for the geckos
  in no time. I can show you a few tricks.}
 {104}{}{Đư?c thôi.}
