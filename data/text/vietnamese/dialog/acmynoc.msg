@@ -1,25 +1,24 @@
-{100}{}{You see the bridge guard.}
-{101}{}{You see Mynoc, the bridge guard.}
-{150}{}{Before you stands a large warrior of your village,
- holding a spear.}
-{151}{}{[TALK]}
-{152}{}{Hello, Chosen One. Off to find the GECK?}
-{153}{}{Yes.}
-{154}{}{Yes. But before I go, I would like to ask you some
- questions.}
-{155}{}{Not just yet. I'm going to look around a little
- bit more.}
-{156}{}{Well, may the gods watch over you.}
-{157}{}{Thank you, goodbye.}
-{158}{}{What do you want to know?}
-{159}{}{What can you tell me of the men who trade with our
- village?}
-{160}{}{What can you tell me about this object I have from
- a vault?}
-{161}{}{Nothing, never mind.}
-{162}{}{Very well, but don't waste too much time. Without the GECK,
- we're doomed.}
-{163}{}{I know, don't worry -- I've got it all under control.}
+{100}{}{B?n th?y ngư?i gác c?u.}
+{101}{}{B?n th?y Mynoc, ngư?i gác c?u.}
+{150}{}{Đ?ng trư?c b?n là m?t chi?n binh cao to c?a làng,
+n?m trong tay m?t ng?n giáo.}
+{151}{}{[NÓI CHUY?N]}
+{152}{}{Chào, C?u tinh. Đi t?m GECK h??}
+{153}{}{Đúng v?y.}
+{154}{}{Đúng v?y. Nhưng trư?c khi đi, tôi mu?n h?i vài câu.}
+{155}{}{Chưa. Tôi đang đi v?ng quanh xem xét thêm
+m?t lát đ?.}
+{156}{}{?, c?u các th?n phù h? cho c?u.}
+{157}{}{Cám ơn, t?m bi?t.}
+{158}{}{Mu?n bi?t g? nào?}
+{159}{}{Anh có th? nói cho tôi bi?t v? ngư?i trao đ?i hàng hóa
+v?i làng chúng ta không?}
+{160}{}{Anh có th? nói g? v? th? mà tôi có đư?c t? m?t
+h?m không?}
+{161}{}{Không, không có g?.}
+{162}{}{Đư?c r?i, nhưng đ?ng có m?t nhi?u th?i gian quá. Không có
+GECK, chúng ta tiêu tùng đ?y.}
+{163}{}{Tôi bi?t, đ?ng lo -- M?i chuy?n đ?u trong t?m ki?m soát.}
 {164}{}{Why?}
 {165}{}{I must be going. Goodbye.}
 {166}{}{The traders? They come from Klamath about every two months. There
@@ -44,7 +43,7 @@
 {178}{}{I don't remember his name, just that he was old and loud -- too
  loud for proper manners -- but he knew many things. He was from Klamath, east
  like I said.}
-{179}{}{Thank you, goodbye.}
+{179}{}{Cám ơn, t?m bi?t.}
 {180}{}{Are you still here? You must go find the GECK. Staying here
  doesn't help us.}
 {181}{}{This bridge is all you need to worry about,
@@ -53,7 +52,7 @@
 {183}{}{I will speak to you no longer, insubordinate pig!}
 {184}{}{I would like to ask you another question.}
 {185}{}{That was quick! Have you found the holy Vault 13?}
-{186}{}{Yes.}
+{186}{}{Đúng v?y.}
 {187}{}{No, not yet.}
 {188}{}{You have? Wonderful! Did you bring back the
  GECK?}
