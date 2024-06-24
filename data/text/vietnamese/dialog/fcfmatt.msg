@@ -77,10 +77,10 @@
 {176}{}{Hello. Have you thought about my offer?}
 {177}{}{No. Me not think yet.}
 {178}{}{Yes. Me take job.}
-{179}{}{No, not yet.}
+{179}{}{Chưa.}
 {180}{}{Yeah, I think I'll take the job.}
 {181}{}{Hello. Have you changed your mind about my offer?}
-{182}{}{No.}
+{182}{}{Không.}
 {183}{}{Yes. Me take.}
 {184}{}{No, I haven't.}
 {185}{}{Yes, I'll take the job.}
