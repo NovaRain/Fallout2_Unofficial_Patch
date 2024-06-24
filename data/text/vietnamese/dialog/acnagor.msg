@@ -1,11 +1,11 @@
-{100}{}{You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.}
-{101}{}{You've known Nagor since he was an infant, and have always helped him when you could.}
-{102}{}{Cousin, am I glad to see you! I need your help.}
-{103}{}{Sorry, but I don't have the time.}
-{104}{}{What do you need help with?}
-{105}{}{Then I'll go out in the wilds myself!}
-{106}{}{Hold on there... what was it you need help with?}
-{107}{}{You do that.}
+{100}{}{B?n th?y c?u em h? Nagor. B?n không th?y con chó Smoke c?a c?u ta đâu c?.}
+{101}{}{B?n bi?t Nagor t? h?i c?n bé tí, và luôn giúp đ? c?u ta khi nào có th?.}
+{102}{}{Anh h?, r?t vui đư?c g?p anh! Em c?n anh giúp.}
+{103}{}{Th? l?i nhưng tôi không có th?i gian.}
+{104}{}{C?u c?n giúp g??}
+{105}{}{V?y th? em s? t? đi đ?n đ?t hoang!}
+{106}{}{Ch? đ?... c?u c?n giúp g? th??}
+{107}{}{C? đi đi.}
 {108}{}{Smoke ran off into the hunting grounds and hasn't come back and now Morlis
  won't let me go find him. She says it's too dangerous and he's just a dog, but I was
  going to go anyway. But now you're here and you could do it and I wouldn't get in
@@ -26,7 +26,7 @@
  Morlis says, I'm going to find him.}
 {121}{}{Nagor, what if something happens to you? Morlis would be alone and that would
  make her real sad. You don't want to make her sad, do you?}
-{122}{}{You do that.}
+{122}{}{C? đi đi.}
 {123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
 {124}{}{Smoke will be okay. Goodbye.}
 {125}{}{You found Smoke! Thanks! Smoke, you're a bad dog!}
@@ -63,4 +63,4 @@
  the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
  talk any more...}
 {300}{}{You see Nagor.}
-{302}{}{Cousin, am I glad to see you! I need your help.}
+{302}{}{Anh h?, r?t vui đư?c g?p anh! Em c?n anh giúp.}
