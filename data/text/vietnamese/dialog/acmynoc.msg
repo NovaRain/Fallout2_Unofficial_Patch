@@ -128,22 +128,22 @@ s?p héo h?t r?i. Chúng ta đang c? hái h?t nh?ng g? c?n sót l?i đ? tích tr
 Trư?ng l?o nói chúng ta ph?i dè s?n. Tôi th?y lo cho tương lai c?a Arroyo.}
 {418}{}{C?u tinh! Làm ơn nói v?i tôi là c?u đ? hoàn thành nhi?m v? đi. Ngôi làng đang ch?t d?n, m?i
 ngư?i c?ng th?.}
-{419}{}{No, me still look.}
-{420}{}{No, I'm still looking.}
-{421}{}{How are things?}
-{422}{}{I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
- our people are in your hands. Please find the holy Thirteen and return to us with the GECK!}
-{423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
- allow no one any sleep. We are becoming a desperate people.}
-{424}{}{Me continue look.}
-{425}{}{I'll do what I can.}
-{426}{}{Once again you return to us, Chosen One. Not empty-handed, I hope?}
-{427}{}{Me sorry, no find GECK yet.}
-{428}{}{I'm sorry, I still haven't found the GECK.}
-{429}{}{I've had enough of this.}
-{430}{}{People are dying here while you stroll about the lands. Perhaps you should be searching
- elsewhere instead of returning here.}
-{500}{}{Have you talked to the Elder yet?}
+{419}{}{Không, ng? v?n t?m.}
+{420}{}{Không, tôi v?n đang t?m.}
+{421}{}{M?i chuy?n th? nào r?i?}
+{422}{}{Tôi r?t ti?c, C?u tinh, nhưng tôi b?t đ?u th?y m?t ni?m in vào c?u. Cu?c s?ng c?a c? b? t?c
+n?m trong tay c?u. Làm ơn đi t?m s? 13 th?n thánh và mang GECK v? cho chúng ta!}
+{423}{}{Cây tr?ng héo úa, đàn b? ch?t d?n, m?i ngư?i đ?u đói. Ti?ng tr? con khóc đêm làm không ai
+ng? đư?c. Chúng ta đang đi đ?n đư?ng cùng r?i.}
+{424}{}{Ng? ti?p t?c t?m.}
+{425}{}{Tôi s? làm nh?ng g? có th?.}
+{426}{}{C?u tinh, c?u l?i m?t l?n n?a quay v?. Tôi hi v?ng không ph?i tay tr?ng ch??}
+{427}{}{Ng? xin l?i, không th?y GECK chưa.}
+{428}{}{Tôi xin l?i, tôi v?n chưa t?m th?y GECK.}
+{429}{}{Đ? l?m r?i.}
+{430}{}{M?i ngư?i đang ch?t c?n c?u th? c? d?o quanh làng. Có l? c?u nên đi t?m ch? khác thay v?
+quay l?i đây.}
+{500}{}{C?u đ? nói chuy?n v?i Trư?ng l?o chưa?}
 {1000}{}{Elder}
 {1001}{}{Founder}
 {1002}{}{Vault Dweller}
