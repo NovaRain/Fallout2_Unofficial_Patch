@@ -39,7 +39,7 @@
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. Me go.}
-{141}{}{Me got questions.}
+{141}{}{Ng? mu?n h?i.}
 {142}{}{All right. I'm off.}
 {143}{}{I'd like to ask you some questions.}
 {144}{tand7a}{Well, I got a little time to spare.}
@@ -113,7 +113,7 @@
 {212}{}{Ok, on to other things.}
 {213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
 {214}{}{Ng? th?y.}
-{215}{}{All right.}
+{215}{}{Đư?c r?i.}
 {216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
 {217}{}{Humph.}
 {218}{}{Who Westin?}

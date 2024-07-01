@@ -9,7 +9,7 @@
 {107}{}{Things are fine, but I've got to go.}
 {108}{}{Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help
  you with?}
-{109}{}{Me got questions.}
+{109}{}{Ng? mu?n h?i.}
 {110}{}{Nothing. Me say hi.}
 {111}{}{Tôi có vài câu h?i.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
@@ -30,7 +30,7 @@
  me to stay for a while.}
 {127}{}{Okay.}
 {128}{}{Chào.}
-{129}{}{All right.}
+{129}{}{Đư?c r?i.}
 {130}{}{I see. Well, I'll be going then.}
 {131}{}{Yeah, I've been told I'm free to go or stay. I'm staying for now.}
 {132}{}{Ng? th?y.}

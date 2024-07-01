@@ -29,7 +29,7 @@
  has more understanding in this matter than I. He can usually be found in the vault library.}
 {121}{}{Thank you. I look forward to meeting Goris.}
 {122}{}{I have no intention of adding a deathclaw to my list of friends. Bye!}
-{123}{}{All right.}
+{123}{}{Đư?c r?i.}
 {124}{}{They are gone, human. We did not kill them and take their home. It is not our way to kill. I
  understand that you may not believe me, but I hope that you will judge me by my actions toward you and
  not out of fear or prejudice.}

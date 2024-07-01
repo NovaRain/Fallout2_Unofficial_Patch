@@ -51,7 +51,7 @@
  you my new master?}
 {139}{}{Okay.}
 {140}{}{Không.}
-{141}{}{All right.}
+{141}{}{Đư?c r?i.}
 {142}{}{No thanks.}
 {143}{}{You are not my master. I cannot speak to you. Good bye.}
 {144}{}{Okay.}

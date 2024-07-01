@@ -22,7 +22,7 @@
 {120}{}{Yes, there are more mothers. Should anything happen to me, one will be chosen to take my place.
  The pack must survive.}
 {121}{}{Uh, me understand.}
-{122}{}{I understand.}
+{122}{}{Tôi hi?u r?i.}
 {123}{}{These eggs were sired by Gruthar, the pack leader. It is Gruthar who decides who will mate and
  who will not. The pack will be made strong by Gruthar.}
 {124}{}{Uh, okay.}
@@ -47,7 +47,7 @@
 {138}{}{The guard was added after this incident occurred. We were more trusting back then. Now we are
  more careful.}
 {139}{}{What happen to human?}
-{140}{}{Me got it.}
+{140}{}{Ng? hi?u r?i.}
 {141}{}{What happened to this person?}
 {142}{}{Hi?u r?i.}
 {143}{}{We built the cave portion, and a human friend installed the door. He got the parts from a settlement

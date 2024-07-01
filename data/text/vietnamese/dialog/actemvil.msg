@@ -1,49 +1,49 @@
-{100}{}{You see Cameron, a fellow tribesman.}
-{101}{}{You see Cameron.}
+{100}{}{B?n th?y Cameron, m?t ngư?i đ?ng t?c.}
+{101}{}{B?n th?y Cameron.}
 {102}{}{B?n th?y m?t c?u trai tr? có cơ b?p cu?n cu?n v?i dáng v? r?t t? tin.}
-{103}{}{Greetings, }
-{104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
- me in unarmed combat. Shall we begin?}
-{105}{}{Me got questions.}
-{106}{}{Okay, we fight.}
-{107}{}{No, me get ready first.}
-{108}{}{I've got some questions for you first.}
-{109}{}{Sure, let's party.}
-{110}{}{I think I need a moment to prepare for this.}
-{111}{}{What would you like to know? }
-{112}{}{Why we fight?}
-{113}{}{We fight to death?}
-{114}{}{We fight unarmed?}
-{115}{}{Okay, we fight now.}
-{116}{}{Me need get ready.}
-{117}{}{Why do we have to fight?}
-{118}{}{Is this a fight to the death?}
-{119}{}{You say that we are to fight unarmed?}
-{120}{}{Let's get this fight over with.}
-{121}{}{I need a moment to prepare for the fight.}
-{122}{}{The path of the Chosen One is not an easy trail to walk, }
-{123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
- of these will be dealing with your fellow man. There will come a time when diplomacy and tact
- will prove to be useless and your hand must be raised instead. This challenge prepares you to face
- another human, look him in the eyes, and know that you may have to kill him.}
+{103}{}{Xin chào,}
+{104}{}{. Tôi có vinh d? đư?c làm th? thách cu?i cùng c?a anh. Đ? ti?p t?c nhi?m v?, anh ph?i th?ng
+tôi trong cu?c đ?u tay không. Chúng ta b?t đ?u đư?c ch??}
+{105}{}{Ng? mu?n h?i.}
+{106}{}{Đư?c, ta đánh.}
+{107}{}{Không, ng? s?n sàng trư?c.}
+{108}{}{Tôi có m?y câu c?n h?i trư?c.}
+{109}{}{Đư?c r?i, nh?y nào.}
+{110}{}{Tôi ngh? là m?nh c?n chu?n b? m?t chút.}
+{111}{}{Anh mu?n bi?t g? nào?}
+{112}{}{Sao ta l?i đánh?}
+{113}{}{Ta đánh đ?n ch?t?}
+{114}{}{Ta đánh tay không?}
+{115}{}{Okê, đánh thôi.}
+{116}{}{Ng? c?n s?n sàng.}
+{117}{}{T?i sao chúng ta l?i ph?i đánh nhau?}
+{118}{}{Chúng ta có c?n đánh nhau đ?n ch?t không?}
+{119}{}{Anh nói là chúng ta s? đánh tay không à?}
+{120}{}{H?y b?t đ?u tr?n đ?u nào.}
+{121}{}{Tôi c?n chu?n b? cho tr?n đ?u m?t chút.}
+{122}{}{Ch?ng đư?ng c?a C?u tinh không h? d? dàng,}
+{123}{}{. Anh s? ph?i đ?i di?n v?i r?t nhi?u th? thách trong su?t cu?c đ?i, và th? thách khó khăn nh?t
+chính là đ?i đ?u v?i ngư?i đ?ng t?c. S? có lúc l?i nói và ng? đi?u không có tác d?ng g? c?, ch? có
+th? gi?i quy?t b?ng n?m đ?m mà thôi. Th? thách này giúp anh đ?i m?t v?i ngư?i khác, nh?n th?ng
+vào m?t c?a h?n ta và bi?t r?ng anh có th? c?n ph?i gi?t h?n.}
 {124}{}{Okay.}
 {125}{}{Hi?u r?i.}
-{126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
-{127}{}{Me understand.}
-{128}{}{All right.}
-{129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
- against others. When you strike another human being with your bare fist, you both see and feel the
- pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
- you, }
+{126}{}{Không đâu, b?n tôi ơi. Anh ch? c?n đánh th?ng tôi. Đ?n lúc đó, chúng ta s? k?t thúc tr?n đ?u.}
+{127}{}{Ng? hi?u.}
+{128}{}{Đư?c r?i.}
+{129}{}{Đúng v?y. V? khí khi?n chúng ta gi? kho?ng cách v?i chi?n tr?n và không c?n ngh? v? h?u qu? c?a
+hành đ?ng c?a m?nh cho ngư?i khác. Khi dùng tay tr?n đ?m ngư?i khác, anh v?a nh?n th?y v?a
+c?m nh?n đư?c n?i đau đ?n mà m?nh gây ra. Tr?n đ?u s? tr? nên r?t th?t và mang tính cá nhân. Đây
+là m?t bài h?c quan tr?ng dành cho anh, }
 {130}{}{.}
-{131}{}{Me got it.}
-{132}{}{I understand.}
-{133}{}{Very well. Shall we begin?}
-{134}{}{Me ready.}
-{135}{}{No, me get ready first.}
-{136}{}{I'm ready.}
-{137}{}{No, I need some time to prepare.}
-{138}{}{Very well. Return and tell me when you are ready for your challenge.}
+{131}{}{Ng? hi?u r?i.}
+{132}{}{Tôi hi?u r?i.}
+{133}{}{Đư?c r?i. Chúng ta b?t đ?u đư?c ch??}
+{134}{}{Ng? s?n sàng.}
+{135}{}{Không, ng? s?n sàng trư?c.}
+{136}{}{Tôi đ? s?n sàng.}
+{137}{}{Chưa, tôi c?n chu?n b? m?t chút.}
+{138}{}{Đư?c r?i. Quay l?i b?o tôi khi nào anh đ? s?n sàng cho th? thách.}
 {139}{}{Are you ready for your challenge, }
 {140}{}{?}
 {141}{}{Me ready. }

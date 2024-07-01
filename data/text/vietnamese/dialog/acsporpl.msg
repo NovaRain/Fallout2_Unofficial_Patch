@@ -1,7 +1,7 @@
-{100}{}{You see a plant of dark soul.}
-{101}{}{These plants aren't just harmful to the garden. They also have the ability to attack humans
- and other creatures.}
-{102}{}{These plants of dark soul are an odd mutation. It is doubtful that they mutated this way as
- a result of natural causes.}
-{103}{}{You notice nothing extra about these plants - other than the fact that they attack humans.}
-{150}{}{You have rid the garden of all the plants of dark soul.}
+{100}{}{B?n th?y m?t cái cây c?a linh h?n h?c ám.}
+{101}{}{Nh?ng cái cây này không ch? gây h?i cho khu vư?n. Chúng c?n có kh? năng t?n công con ngư?i
+và các đ?ng v?t khác.}
+{102}{}{Nh?ng cái cây c?a linh h?n h?c ám là m?t bi?n ch?ng d? bi?t. Th?t khó đ? coi đây là k?t qu?
+c?a s? bi?n d? t? nhiên.}
+{103}{}{B?n không nh?n th?y có đi?u g? đ?c bi?t v? nh?ng cái cây này – tr? vi?c chúng t?n công con ngư?i.}
+{150}{}{B?n đ? lo?i tr? h?t cây linh h?n h?c ám kh?i khu vư?n.}

@@ -31,10 +31,10 @@
 {130}{}{That's all I wanted. Great. Thanks. Bye.}
 {131}{}{Yeah, but maybe we should be. Right now, they are. And they're staying there until someone can show me a better reason to let them out. Now... get out.}
 {132}{}{Không.}
-{133}{}{All right.}
+{133}{}{Đư?c r?i.}
 {134}{}{So they're going to stay in jail for now. We gotta protect society. Now... get out.}
 {135}{}{Không.}
-{136}{}{All right.}
+{136}{}{Đư?c r?i.}
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}
 {139}{}{You again? Do you actually need something?}

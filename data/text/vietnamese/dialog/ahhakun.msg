@@ -189,6 +189,6 @@
 {288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
 {289}{}{And then?}
 {290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
-{291}{}{All right.}
+{291}{}{Đư?c r?i.}
 {300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
 {301}{}{You must now pay for your sins, Chosen One.}
