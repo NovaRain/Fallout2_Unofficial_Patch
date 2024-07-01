@@ -9,7 +9,7 @@
 {108}{}{Đây là nơi nào?}
 {109}{}{Hi, I'm new here.}
 {110}{}{I'm here to clean the commander's office.}
-{111}{}{Never mind.}
+{111}{}{Không có g?.}
 {112}{}{This is the base commander's office. This area is off limits to all personnel. I'll have to ask you to leave, sir.}
 {113}{}{Me have business with commander.}
 {114}{}{Fine.}

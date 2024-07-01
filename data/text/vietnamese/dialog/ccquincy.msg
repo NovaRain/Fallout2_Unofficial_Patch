@@ -6,7 +6,7 @@
 {104}{}{Me need ask you something.}
 {105}{}{Nothing.}
 {106}{}{Hi. I need to ask you something.}
-{107}{}{Never mind.}
+{107}{}{Không có g?.}
 {108}{}{All right, but make it quick. I have inventory to do.}
 {109}{}{What do you need to know?}
 {110}{}{What this place?}
@@ -38,7 +38,7 @@
  paperwork.}
 {133}{}{Look, Einstein, I can't give you the plans without authorization, okay?
  So, go back to whoever sent you here and get the proper paperwork.}
-{134}{}{Okay, me go.}
+{134}{}{Đư?c, ng? đi.}
 {135}{}{No, me shoot you first, find plans second, then... what come after two?}
 {136}{}{Hey, you got it.}
 {137}{}{No, I think I'll shoot you instead and look around for the plans while

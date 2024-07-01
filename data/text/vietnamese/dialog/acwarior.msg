@@ -1,31 +1,31 @@
-{100}{}{You see a tribesman.}
-{101}{}{You see a tribeswoman.}
-{150}{}{Before you stands a large warrior of your village, wearing
- pants fashioned from animal hides.}
+{100}{}{B?n th?y m?t ngư?i đàn ông trong t?c.}
+{101}{}{B?n th?y m?t ph? n? trong t?c.}
+{150}{}{Đ?ng trư?c m?t b?n là m?t chi?n binh to l?n m?c chi?c qu?n
+đư?c làm t? da thú.}
 {151}{}{[NÓI CHUY?N]}
-{152}{}{Hello, Chosen One, can I help you in your quest?}
-{153}{}{I'm just looking around the village one last time before I leave.}
-{154}{}{What can you tell me of the traders who trade with us?}
-{155}{}{Could you tell me where I can find more healing powder?}
-{156}{}{Gods give you speed to bring back Eden before it is too late.}
-{157}{}{I do have a question for you.}
-{158}{}{Goodbye, my friend.}
-{159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
- medicines.}
+{152}{}{Chào, C?u tinh. Ta có th? giúp g? cho c?u đây?}
+{153}{}{Tôi ch? ngó quanh làng l?n cu?i trư?c khi đi thôi.}
+{154}{}{Nói cho tôi bi?t v? thương gia hay đ?n đây mua bán đư?c không?}
+{155}{}{Có th? nói cho tôi bi?t ch? ki?m b?t ch?a thương không?}
+{156}{}{C?u các th?n phù h? cho c?u s?m đưa vư?n Đ?a đàng v? trư?c khi quá mu?n.}
+{157}{}{Tôi có câu h?i này.}
+{158}{}{Chào nhé, b?n tôi.}
+{159}{}{?, c?u gi?n tôi r?i. H?y đi đ?n ch? Hakunin ? góc phía B?c ngôi làng. Ông ta là ngư?i ch?
+thu?c cho chúng ta.}
 {160}{}{Cám ơn. T?m bi?t.}
-{161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
- Talk to him at the Great Bridge.}
+{161}{}{?, tôi có th?y h? khi Mynoc b?o chúng tôi gác c?u, nhưng anh ta mua bán m?i th?.
+Đ?n nói chuy?n v?i anh ta ? Cây c?u l?n.}
 {162}{}{Cám ơn. T?m bi?t.}
-{163}{}{Could tell me where the Great Bridge is located?}
-{164}{}{One more question, if I may.}
-{165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
- you've been there many times.}
+{163}{}{Cây c?u l?n n?m ? đâu?}
+{164}{}{Tôi h?i thêm câu n?a nhé.}
+{165}{}{C?u tinh à? Cây c?u l?n n?m ? cu?i khu phía Nam c?a ngôi làng. C?u đ?n đó
+bao nhiêu l?n r?i cơ mà.}
 {166}{}{Cám ơn. T?m bi?t.}
-{167}{}{One more question, if I may.}
-{168}{}{Of course, what is it?}
-{169}{}{Could you tell me where I can find some healing herbs?}
-{170}{}{What can you tell me of the traders who trade with us?}
-{171}{}{Never mind.}
+{167}{}{Tôi h?i thêm câu n?a nhé.}
+{168}{}{D? nhiên r?i, g? th??}
+{169}{}{Tôi có th? t?m th?o dư?c ? đâu đư?c?}
+{170}{}{Nói cho tôi bi?t v? thương gia hay đ?n đây mua bán đư?c không?}
+{171}{}{Không có g?.}
 {172}{}{Ah, dull one. They say you are the Chosen One. I must say the spirit
  of the Founder works in strange ways.}
 {173}{}{Oon Ga.}
@@ -37,9 +37,9 @@
 {179}{}{Death to the evil one!}
 {180}{}{They are nothing to us! They scavenge the dying corpse
  of the wastes to live.}
-{181}{}{Could you tell me where I can find some healing herbs?}
+{181}{}{Tôi có th? t?m th?o dư?c ? đâu đư?c?}
 {182}{}{Cám ơn. T?m bi?t.}
-{183}{}{One more question, if I may.}
+{183}{}{Tôi h?i thêm câu n?a nhé.}
 {300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
 {301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
 {302}{}{Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.}
@@ -76,4 +76,4 @@
 {1109}{}{It is a magic powder which will heal you, but will make
  you sleepy.}
 {1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
-{1111}{}{He guards the bridge leading into our village.}
+{1111}{}{Anh ta canh gác cây c?u d?n vào làng chúng ta.}

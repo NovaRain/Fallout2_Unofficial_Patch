@@ -69,7 +69,7 @@
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
+{1109}{}{Đây là b?t ch?a thương có th? ch?a lành cho anh, nhưng s? khi?n
+anh th?y bu?n ng?.}
 {1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
-{1111}{}{He guards the bridge leading into our village.}
+{1111}{}{Anh ta canh gác cây c?u d?n vào làng chúng ta.}

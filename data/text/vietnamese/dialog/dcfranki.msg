@@ -72,7 +72,7 @@
 {217}{}{What do you mean?}
 {218}{}{Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too.}
 {219}{}{I don't want to do this.}
-{220}{}{Never mind.}
+{220}{}{Không có g?.}
 {221}{}{Look, I just want her still destroyed. Will you do it?}
 {222}{}{Alright, I will.}
 {223}{}{No, I won't. Good bye.}
