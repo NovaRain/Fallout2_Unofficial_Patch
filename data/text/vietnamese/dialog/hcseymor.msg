@@ -61,7 +61,7 @@
 {156}{}{-done-}
 {157}{}{That's a pity, that's a pity indeed. I do hope you'll change your mind at some point. Perhaps the pollen of your
  indecision will blow my way again. Good day.}
-{158}{}{Uh.}
+{158}{}{?.}
 {159}{}{Good day indeed.}
 {160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
  those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess

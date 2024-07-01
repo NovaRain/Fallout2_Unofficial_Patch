@@ -53,7 +53,7 @@
 {303}{}{Hey! Not my problem. What was I supposed to do? Fight them? Little green men, big pointy teeth! Fuck! Ouch! Stop that!}
 {304}{}{My head hurts! What... who said that?}
 {305}{}{That helps a lot.}
-{306}{}{Uh.}
+{306}{}{?.}
 {310}{}{What? Are you mocking me! Screw you! I'm not unstable! I can cook! I don't have voices in my head!}
 {311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
 {312}{}{Hey! Sto- do... fuck.}

@@ -123,7 +123,7 @@
 {222}{hak028d}{May the Fire toast your bottom until you get this done.}
 {223}{}{Cám ơn.}
 {224}{}{Say what?!}
-{225}{}{Uh.}
+{225}{}{?.}
 {226}{}{Huh?!}
 {227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
 {228}{}{Uh-huh.}

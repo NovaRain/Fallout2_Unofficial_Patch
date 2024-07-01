@@ -827,12 +827,12 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {820}{}{Good day, Citizen.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
-{823}{}{I don't know anything about that.}
+{823}{}{Tôi không bi?t g? v? chuy?n đó.}
 {824}{}{I don't know.}
 {825}{}{Đúng v?y.}
 {826}{}{Không.}
 {827}{}{Certainly.}
-{828}{}{Of course.}
+{828}{}{D? nhiên r?i.}
 {829}{}{Correct.}
 {830}{}{Exactly.}
 {831}{}{Right.}

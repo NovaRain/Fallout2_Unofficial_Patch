@@ -69,11 +69,11 @@
 {360}{}{Thanks a lot for covering for me. It really meant a lot to me, to be trusted by a complete stranger. Let me give you this.}
 {361}{}{Okay.}
 {362}{}{You shouldn't have.}
-{363}{}{Uh.}
+{363}{}{?.}
 {370}{}{I owe you a lot. You trusted me when I was down on my luck. As a small gesture of gratitude I have something for you.}
 {371}{}{Okay.}
 {372}{}{You shouldn't have.}
-{373}{}{Uh.}
+{373}{}{?.}
 {380}{}{Here. [Fred give you $1000.] I hope this helps. I'm sure you'll find someplace to spend it.}
 {381}{}{Sorry, I can't accept this.}
 {382}{}{Cám ơn.}

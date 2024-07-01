@@ -1,47 +1,47 @@
-{100}{}{You see the Elder of your village.}
-{101}{}{It is the Elder.}
-{102}{}{The Elder is just that - old, older than you can remember. Still, she has the
- strength and fire to lead the village through these hard times.}
-{103}{aeld1}{Congratulations, Chosen One, you have survived the Temple of Trials. Are
- you ready for your quest?}
-{104}{}{What were you doing - trying to get me killed in the temple?}
-{105}{}{Of course.}
-{106}{}{I'd like to think about it some more.}
-{107}{aeld2a}{I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
- 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
- He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
- your best, child.}
-{112}{aeld2b}{You not find vault. Find vault! Vault 13.}
-{113}{}{Uh.}
-{114}{aeld3}{Chosen One, do you wish us all dead? You must find the Vault!}
-{115}{}{I'm sorry, Elder. I will not fail.}
-{116}{}{Yeah, yeah. Stop yelling.}
-{117}{aeld4}{Chosen One, why are you here?}
-{118}{}{I know where Vault 13 is!}
-{119}{}{I am ready for the holy quest.}
-{120}{}{I need some more info.}
-{121}{}{I'm not going to get myself killed!}
-{122}{}{What was I supposed to do again?}
-{123}{}{I'm going now.}
-{124}{aeld5}{That is good news, but not enough to save us. You must come back soon with the
- GECK or our people will die!}
-{125}{}{I need some more info.}
-{126}{}{Fine, I'm going now.}
-{127}{aeld6}{You survived. The Chosen One cannot be weak or we are all doomed. Are you
- prepared for your quest?}
-{128}{}{I've passed the test. Of course, I'm ready.}
-{129}{}{I need to think about this.}
-{130}{}{I'm not going to get myself killed!}
-{131}{aeld7}{Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader
- from Klamath, brought us the flask from the holy Thirteen. Start your search with him.
- The disk will remind you of your task. May the gods of the Vault watch over you.}
-{133}{}{Before I go, I have some questions.}
-{134}{}{Goodbye. I will not fail the tribe.}
-{135}{aeld8}{Very well. See me when you decide - but do not wait too long.}
+{100}{}{B?n th?y Trư?ng l?o c?a làng.}
+{101}{}{Đây là Trư?ng l?o.}
+{102}{}{Trư?ng l?o r?t - già, già hơn c? nh?ng g? b?n nh? đư?c. Tuy nhiên, bà v?n
+gi? đư?c s?c l?c và tinh th?n đ? d?n d?t ngôi làng vư?t qua th?i đi?m khó khăn.}
+{103}{aeld1}{Chúc m?ng, C?u tinh, con đ? s?ng sót qua Ngôi đ?n th? thách. Con đ? s?n sàng
+đi làm nhi?m v? chưa?}
+{104}{}{Bà làm g? đ?y - c? gi?t tôi trong đ?n à?}
+{105}{}{D? nhiên r?i.}
+{106}{}{Con mu?n ngh? thêm m?t chút v? vi?c đó.}
+{107}{aeld2a}{Ta r?t t? hào v? con, C?u tinh. Con đ? vư?t qua nhi?u th?. Bây gi?, con ph?i đi t?m Vault 13.
+Vault 13. C?m GECK v?. GECK. Đây là m?t cái b?nh sáng bóng. Vic đ? mang đ?n đây. Vic. L?o ta
+là thương nhân ? Klamath. Klamath. Đi t?m Vic. T?m Vault 13. T?m GECK. V? nhà. H?y
+c? h?t s?c, con ta.}
+{112}{aeld2b}{Con chưa t?m đư?c h?m. T?m căn h?m! Vault 13.}
+{113}{}{?.}
+{114}{aeld3}{C?u tinh, con mu?n t?t c? chúng ta đ?u ch?t à? Con ph?i đi t?m Vault!}
+{115}{}{Con xin l?i, Trư?ng l?o. Con s? thành công.}
+{116}{}{?, ?. Im m?m đi.}
+{117}{aeld4}{C?u tinh, sao con l?i ? đây?}
+{118}{}{Con bi?t Vault 13 ? đâu!}
+{119}{}{Con đ? s?n sàng làm nhi?m v? th?n thánh.}
+{120}{}{Con c?n thêm thông tin.}
+{121}{}{Con s? không đi t?m ch?t đâu!}
+{122}{}{Con c?n làm cái g? ?y nh??}
+{123}{}{Con đi đây.}
+{124}{aeld5}{Tin t?t đ?y, nhưng chưa đ? đ? c?u chúng ta. Con c?n ph?i s?m c?m GECK v?, 
+n?u không m?i ngư?i s? ch?t!}
+{125}{}{Con c?n thêm thông tin.}
+{126}{}{R?i, con đi gi? đây.}
+{127}{aeld6}{Con đ? s?ng sót. C?u tinh không th? y?u đu?i đư?c, n?u không chúng ta s? tiêu đ?i.
+Con đ? s?n sàng đi làm nhi?m v? chưa?}
+{128}{}{Con đ? vư?t qua th? thách. D? nhiên là con s?n sàng r?i.}
+{129}{}{Con c?n ngh? v? vi?c đó.}
+{130}{}{Con s? không đi t?m ch?t đâu!}
+{131}{aeld7}{Nghe này. H?y đi t?m Vault 13 th?n thành và c?m GECK v? đây. Vic, thương nhân
+t? Klamath đ? đưa cái b?ch nư?c t? s? 13 th?n thánh đ?n đây. B?t đ?u t?m ki?m t?
+ch? ông ta. Chi?c đ?a này s? nh?c nh? con v? nhi?m v?. C?u các th?n Vault phù h? cho con.}
+{133}{}{Trư?c khi đi, con có m?y câu h?i.}
+{134}{}{T?m bi?t. Con s? c?u đư?c b? t?c.}
+{135}{aeld8}{Đư?c r?i. H?y đ?n g?p ta khi nào con quy?t đ?nh - nhưng đ?ng đ? lâu quá.}
 {136}{}{T?m bi?t.}
-{137}{aeld9}{I cannot help much. So much has been lost from the Long Ago. What wisdom do you seek?}
-{138}{aeld9b}{What do you need?}
-{139}{}{Tell me more about the GECK.}
+{137}{aeld9}{Ta không giúp đư?c nhi?u đâu. R?t nhi?u th? t? th?i Xa xưa đ? không c?n n?a. Con mu?n bi?t v? vi?c g??}
+{138}{aeld9b}{Con c?n g??}
+{139}{}{Nói thêm v? GECK đi.}
 {140}{}{How do I get to Klamath?}
 {141}{}{Where is Vault 13?}
 {142}{}{On second thought, I don't need any help now. Goodbye.}

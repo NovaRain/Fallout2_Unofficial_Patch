@@ -40,7 +40,7 @@
 {270}{}{Ah, a bloodthirsty one. Well... Talk to the boss. We might have a place for ya. Go through the back door.}
 {271}{}{Metzger's never had a bitch slaver, but if you're really that bloodthirsty, check with him. He's right through that door.}
 {272}{}{Okke.}
-{273}{}{Uh.}
+{273}{}{?.}
 {274}{}{Krook}
 {280}{}{Talk ta Metzger about that. He doesn't normally sell to the public. Has his hands full with... bigger customers.}
 {281}{}{Who's Metzger?}

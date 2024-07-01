@@ -90,7 +90,7 @@
 {325}{}{Get a move on it then.}
 {326}{}{Good. See me when you're done.}
 {327}{}{Okay.}
-{328}{}{Uh.}
+{328}{}{?.}
 {340}{}{Just kill all the hostile ones. If they attack you, kill them. I don't
  want to deal with them anymore, too big of a fucking hassle. Once you're done,
  the other slavers will round up and tag the rest.}
