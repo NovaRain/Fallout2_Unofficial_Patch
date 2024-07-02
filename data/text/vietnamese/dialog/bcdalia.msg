@@ -7,7 +7,7 @@
 {105}{}{Uh, who you?}
 {106}{}{What you do here?}
 {107}{}{You look like guard.}
-{108}{}{Me go now.}
+{108}{}{Ng? đi gi?.}
 {109}{}{Just saying hello.}
 {110}{}{Ông là ai?}
 {111}{}{What are you doing?}

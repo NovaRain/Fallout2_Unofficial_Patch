@@ -27,7 +27,7 @@
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
-{129}{}{All right, I'm going.}
+{129}{}{Đư?c r?i, con đi đây.}
 {130}{}{Captain. Can I help you... sir?}
 {131}{}{Can I help you, Citizen?}
 {132}{}{Mu?n g??}

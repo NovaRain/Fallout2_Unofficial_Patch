@@ -13,13 +13,13 @@
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
 {113}{}{Who you?}
-{114}{}{Me go now.}
+{114}{}{Ng? đi gi?.}
 {115}{}{I'll be leaving then.}
 {116}{}{Ông là ai?}
 {117}{}{I'd like to speak to the mother.}
 {118}{}{I Jul. Pack warrior. I guard hatchery. I guard mother.}
 {119}{}{Me}
-{120}{}{Me go now.}
+{120}{}{Ng? đi gi?.}
 {121}{}{Guard mother important job. You important.}
 {122}{}{I'm}
 {123}{}{Guarding mother is a position of great responsibility. You must be an important pack member.}

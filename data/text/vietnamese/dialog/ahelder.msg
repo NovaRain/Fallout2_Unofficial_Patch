@@ -37,63 +37,62 @@ t? Klamath đ? đưa cái b?ch nư?c t? s? 13 th?n thánh đ?n đây. B?t đ?u t
 ch? ông ta. Chi?c đ?a này s? nh?c nh? con v? nhi?m v?. C?u các th?n Vault phù h? cho con.}
 {133}{}{Trư?c khi đi, con có m?y câu h?i.}
 {134}{}{T?m bi?t. Con s? c?u đư?c b? t?c.}
-{135}{aeld8}{Đư?c r?i. H?y đ?n g?p ta khi nào con quy?t đ?nh - nhưng đ?ng đ? lâu quá.}
+{135}{aeld8}{Đư?c r?i. H?y đ?n g?p ta khi nào con quy?t đ?nh – nhưng đ?ng đ? lâu quá.}
 {136}{}{T?m bi?t.}
 {137}{aeld9}{Ta không giúp đư?c nhi?u đâu. R?t nhi?u th? t? th?i Xa xưa đ? không c?n n?a. Con mu?n bi?t v? vi?c g??}
 {138}{aeld9b}{Con c?n g??}
 {139}{}{Nói thêm v? GECK đi.}
-{140}{}{How do I get to Klamath?}
-{141}{}{Where is Vault 13?}
-{142}{}{On second thought, I don't need any help now. Goodbye.}
-{143}{aeld10}{It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
- will make our lands green and our village prosperous. It will save us. More, I do not know.}
-{144}{}{There's more I want to know.}
+{140}{}{Đi Klamath đư?ng nào th??}
+{141}{}{Vault 13 ch? nào ?y nh??}
+{142}{}{Mà thôi, con không c?n giúp n?a. T?m bi?t.}
+{143}{aeld10}{Đó là m?t món b?o v?t th?n thánh – B? t?o Vư?n Đ?a đàng. Chi?c đ?a ghi r?ng th? này s? mang đ?n
+màu xanh và s? sung túc cho làng. Nó s? c?u chúng ta. C?n l?i th? ta không r?.}
+{144}{}{Con mu?n bi?t thêm.}
 {145}{}{T?m bi?t.}
-{146}{aeld11}{Klamath is to the east.}
-{147}{}{There are other things I would learn.}
-{148}{}{I am ready. Goodbye.}
-{149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
- the sound of a perilous journey. }
-{150}{}{I see. There is much I need to know.}
-{151}{}{Goodbye, Elder.}
-{152}{aeld13}{Being a coward will kill us all! Including you. You passed
- the Temple Trials. We have faith in you. We need you.}
-{153}{}{Not so fast, old woman. I need time to think about this!}
-{154}{}{As you wish, Elder.}
-{155}{aeld14a}{You've betrayed us. You will perish.}
-{156}{aeld14b}{You are a traitor!}
-{157}{aeld14c}{Why do you do this?}
-{158}{aeld14d}{I knew you had the soul of darkness!}
-{159}{aeld15}{Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
- brought it to us. He may know where the vault is. You may also need some of what they
- call money. Here.}
-{160}{}{Uh... What was my quest again?}
-{161}{}{Is there more you can tell me?}
-{162}{}{Wish me luck, Elder, and I will not fail you.}
-{163}{aeld16}{Find Vic in Klamath. We are counting on you.}
-{164}{aeld17}{It's good to see you again, Child. I don't mean to be abrupt but I see you
- haven't completed your quest to find the holy Thirteen. Please, let's not waste time
- talking. The need of our people is great. Go find the Vault!}
-{165}{}{Me go now.}
-{166}{}{All right, I'm going.}
-{167}{}{I will not fail you elder.}
-{168}{}{I'm working on it, Ok?}
-{169}{aeld18}{Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
- need becomes greater with the passage of time. Go find the holy Thirteen!}
-{170}{}{Ok, me go now.}
-{171}{}{Yes, Elder.}
-{172}{}{I will not fail you or our people, Elder.}
-{173}{}{Look. If you think you can do better... }
-{174}{aeld19}{Chosen One, things are not well here. We need the GECK if our village is to
- survive. Our people grow weak with hunger and our food reserves will not last much
- longer. Please, find the holy Thirteen and return to us. Go now.}
+{146}{aeld11}{Klamath đi v? phía Đông.}
+{147}{}{Con mu?n bi?t v? nh?ng vi?c khác.}
+{148}{}{Con s?n sàng r?i. T?m bi?t.}
+{149}{aeld12}{S? 13 th?n thánh? Ta không giúp g? đư?c. Ch? có C? t? t? Vault m?i bi?t thôi. Theo l?i
+ông th? đó là m?t cu?c hành tr?nh đ?y gian nan.}
+{150}{}{V?y à. V?n c?n nhi?u th? con mu?n bi?t.}
+{151}{}{T?m bi?t, Trư?ng l?o.}
+{152}{aeld13}{S? hèn nhát s? gi?t ch?t t?t c? chúng ta! K? c? con n?a. Con đ?
+vư?t qua Ngôi đ?n th? thách. Chúng ta tin con. Chúng ta c?n con.}
+{153}{}{T? t? đ?, bà già. Tôi c?n thêm th?i gian đ? suy ngh? v? vi?c này!}
+{154}{}{C? theo ? ngư?i đi, Trư?ng l?o.}
+{155}{aeld14a}{Mày đ? ph?n b?i chúng ta. Mày ph?i ch?t.}
+{156}{aeld14b}{Đ? ph?n b?i!}
+{157}{aeld14c}{T?i sao mày l?i làm th??}
+{158}{aeld14d}{Ta bi?t là mày có tâm đ?a x?u xa mà!}
+{159}{aeld15}{V?y th? c?m l?y cái b?ch này, v?n t? Vault 13 th?n thánh. Vic, thương nhân đ?n t?
+Klamath đ? mang nó đ?n đây. Ông ta có th? bi?t căn h?m đó ? đâu. Con c?ng s? c?n
+m?t ít th? b?n h? g?i là ti?n. Đây.}
+{160}{}{?m... Nhi?m v? c?a con là g? ?y nh??}
+{161}{}{Con có c?n bi?t thêm g? không?}
+{162}{}{H?y chúc con may m?n đi, Trư?ng l?o. Con s? thành công.}
+{163}{aeld16}{T?m Vic ? Klamath. Chúng ta trông ch? vào con.}
+{164}{aeld17}{R?t vui đư?c g?p l?i con. Ta không có ? ném đá đâu nhưng ta th?y là con v?n
+chưa hoàn thành nhiêm v? đi t?m s? 13 th?n thánh. Đ?ng l?ng phí th?i gian
+tán nh?m n?a. M?i ngư?i đang trông ngóng t?ng ngày. H?y đi t?m Vault!}
+{165}{}{Ng? đi gi?.}
+{166}{}{Đư?c r?i, con đi đây.}
+{167}{}{Con s? thành công, Trư?ng l?o.}
+{168}{}{Tôi đang làm r?i, Ô x? kê?}
+{169}{aeld18}{V?y là con l?i v? mà không có GECK. Cây tr?ng đang héo tàn r?i, C?u tinh. Chúng ta
+đang ngày càng nguy c?p hơn. H?y đi t?m s? 13 th?n thánh!}
+{170}{}{Ok, ng? đi gi?.}
+{171}{}{Vâng, thưa Trư?ng l?o.}
+{172}{}{Con s? c?u đư?c m?i ngư?i, Trư?ng l?o.}
+{173}{}{Này, n?u bà ngh? là bà có th? làm t?t hơn... }
+{174}{aeld19}{C?u tinh, m?i th? ? làng đ?u b?t ?n. Ngôi làng c?n có GECK đ? t?n t?i. M?i ngư?i
+đang ch?t đói, c?n kho lương d? tr? ch?ng m?y n?a. Làm ơn đi, h?y đi t?m s? 13
+th?n thánh và tr? v? đây. Gi? th? đi đi.}
 {175}{}{Ng? đi.}
-{176}{}{Very well. I'm on my way.}
-{177}{}{I will do my best to find the GECK and save our village.}
-{178}{}{Don't push me, old woman. I'm doing my best.}
-{179}{aeld20}{Child, our need is greater than ever before. Our people sicken, the brahmin
- are dying, and our food is all but gone. The blight of the land can only be cured with
- the GECK. Go, find the GECK and save our people.}
+{176}{}{Đư?c r?i. Con lên đư?ng đây.}
+{177}{}{Con s? c? h?t s?c đi t?m GECK và c?u ngôi làng.}
+{178}{}{Đ?ng có gi?c, bà già. Tôi đang c? h?t s?c đây.}
+{179}{aeld20}{Con ơi, chúng ta đang c?n hơn bao gi? h?t. M?i ngư?i đ?u y?u r?i, đàn gia súc
+ch?t d?n, lương th?c th? c?n ki?t. Đ?t b?c màu h?t và ch? có GECK m?i có th? c?u}
 {180}{}{Ng? hi?u.}
 {181}{}{I'm on my way.}
 {182}{}{Forgive me Elder. I will find the GECK without delay.}
