@@ -109,7 +109,7 @@
  It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand...}
 {421}{}{Ti?p t?c đi.}
 {422}{}{...DOES produce something useful.}
-{423}{}{I've heard enough.}
+{423}{}{Tôi nghe đ? r?i.}
 {430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates
  that talk when they should listen. No wonder you all still use spears...}
 {431}{}{Not all of us. For example, I use a variety of weapons to kill people... let me show you.}
