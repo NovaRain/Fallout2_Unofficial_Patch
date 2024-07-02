@@ -57,7 +57,7 @@
 {207}{}{OK. Bye.}
 {208}{}{Yeah, right.}
 {209}{}{Whoo!}
-{210}{}{See ya.}
+{210}{}{G?p l?i sau.}
 {211}{}{Chào.}
 {212}{}{Bye bye.}
 {213}{}{It will cost $}

@@ -815,7 +815,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {808}{}{To the Southwest}
 {809}{}{To the Southeast}
 {810}{}{I don't want that.}
-{811}{}{Thank you.}
+{811}{}{Cám ơn.}
 {812}{}{Thanks for your time.}
 {813}{}{Guards!}
 {814}{}{I love Scott Rodenhiser.}

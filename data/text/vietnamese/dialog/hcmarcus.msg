@@ -13,11 +13,11 @@
 {112}{}{You wanna travel with me?}
 {113}{}{Chào.}
 {114}{mcs3}{Yeah, I'm a ugly mutant. I also run this place. You got a problem with that?}
-{115}{}{Uh!}
-{116}{}{Nuh.}
+{115}{}{?!}
+{116}{}{N?.}
 {117}{mcs4}{You wanna fight me?}
-{118}{}{Uh!}
-{119}{}{Nuh.}
+{118}{}{?!}
+{119}{}{N?.}
 {120}{mcs5}{Take your best shot, human.}
 {121}{mcs6a}{Good.}
 {122}{mcs6b}{Keep your nose clean and you won't get into trouble.}

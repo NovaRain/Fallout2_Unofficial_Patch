@@ -102,7 +102,7 @@
 {321}{slk26b}{The spirits are sometimes hard to understand. They see things you and we can't.}
 {322}{slk26c}{Spirits be willing to talk. What you want?}
 {323}{}{Uh?}
-{324}{}{Nuh.}
+{324}{}{N?.}
 {325}{}{Nuh-uh.}
 {326}{}{What do they tell you about this place?}
 {327}{}{What do they tell you about our chances?}

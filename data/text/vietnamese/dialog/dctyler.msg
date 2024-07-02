@@ -84,7 +84,7 @@
 {391}{}{Yeah, he's throwing a party tonight at his place. Should be a blast. I'd invite you, honey, but it's only for his closest friends.}
 {392}{}{Down a few brews for me.}
 {393}{}{I understand, thanks. Have fun.}
-{394}{}{See ya.}
+{394}{}{G?p l?i sau.}
 {400}{}{You better believe it! We're going to drink until we drop!}
 {401}{}{Chào.}
 {410}{}{What the fuck do you care. Beat it.}
