@@ -125,70 +125,70 @@
 {224}{}{Cái đm?!}
 {225}{}{?.}
 {226}{}{H??!}
-{227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
+{227}{hak029}{Chào m?ng tr? l?i, C?u tinh. Ta có th? th?y qua bi?u c?m c?a con là s? c?u r?i c?a GECK v?n c?n xa v?i. H?y như con ki?n lao đ?ng không m?i trư?c khi kho lương c?a chúng ta c?n ki?t. Con là ni?m hi v?ng cu?i cùng c?a chúng ta.}
 {228}{}{Uh-huh.}
-{229}{}{I'm trying. I'd like to see the ant covering the miles I am.}
-{230}{}{I'm doing my best.}
-{231}{}{I'll double my efforts, holy one. I will not let you down.}
-{232}{}{Yeah, yeah. I've heard it all before.}
-{233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
+{229}{}{Tôi đang c? đây. Tôi mu?n xem có con ki?n nào đi đư?c qu?ng đư?ng như tôi không.}
+{230}{}{Tôi đang c? h?t s?c.}
+{231}{}{Tôi s? c? g?p đôi, thưa thánh nhân. Tôi s? không khi?n ngư?i phi?n n?o.}
+{232}{}{? ?. Tôi đ? nghe m?y l?i này r?i.}
+{233}{hak030}{C?u tinh – Ngôi làng đang kêu c?u trong tuy?t v?ng. Đám tr? đói l? c? ngư?i. Làm ơn đi, chúng ta không c?n gi? đư?c lâu hơn n?a đâu.}
 {234}{}{Uh-huh.}
-{235}{}{I'm trying. I'm trying! Give me a break!}
-{236}{}{I'll find the GECK, holy one. You have my word.}
-{237}{}{I'll do my best to find the GECK.}
-{238}{hak031}{Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.}
+{235}{}{Tôi đang c?. Tôi đang c? đây! V?i th? đéo nào đư?c!}
+{236}{}{Tôi s? t?m GECK, thưa thánh nhân. Tôi h?a đ?y.}
+{237}{}{Tôi s? c? h?t s?c đi t?m GECK.}
+{238}{hak031}{C?u tinh, đ?n cát th?i gian ch? c?n l?i vài h?t. Làm ơn đi. H?y s?m đưa GECK v? và bi?n tương lai c?a ngôi làng gi?ng như b?i b? c?a bi?n. Nhanh lên, trư?c khi h?t cát cu?i cùng rơi xu?ng.}
 {239}{}{Uh-huh.}
-{240}{}{All right. I'm off to find it.}
-{241}{}{Life's a beach, huh?}
-{242}{}{I will find the GECK, holy one. I will not let our people down.}
-{243}{hak032}{Chosen, the spirits of our ancestors guide me to a world of dreams that I may touch thoughts. Our village suffers without the holy GECK. Your hands hold our lives as a father holds his children.}
-{244}{hak033}{Once again my spirit touches you from the void, Chosen. Our crops fail, our reserves are meager. Return to us with the GECK. Your failure is our last light.}
-{245}{hak034}{Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...}
-{246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
-{247}{hak101}{Chosen - the shadow of darkness arrived before you.}
-{248}{}{Owwww!}
+{240}{}{Đư?c r?i. Tôi đi t?m đây.}
+{241}{}{Cu?c s?ng ch?ng khác nào b?i ch?ch, h??}
+{242}{}{Tôi s? đi t?m GECK, thưa thánh nhân. Tôi s? không đ? m?i ngư?i th?t v?ng đâu.}
+{243}{hak032}{C?u tinh, các linh h?n t? tiên đ? d?n l?i cho ta đ?n th? gi?i gi?c mơ, nơi ta có th? ch?m vào ? th?c. Ngôi làng s? tàn l?i n?u thi?u GECK th?n thánh. Con đang n?m gi? v?n m?nh c?a chúng ta trong tay ch?ng khác nào ngư?i cha b? ?m đ?a con thơ.}
+{244}{hak033}{Linh h?n c?a ta m?t l?n n?a liên l?c v?i con t? c?i hư không, C?u tinh. Mùa màng đang th?t bát, lương th?c d? tr? ch?ng c?n m?y. H?y mang GECK v? cho chúng ta. Th?t b?i c?a con s? khi?n chúng ta ch?m vào đêm đen.}
+{245}{hak034}{C?u tinh. Ngôi làng đang suy ki?t. Càng lúc càng khó bư?c vào gi?c mơ c?a con. Con ph?i nhanh lên, n?u không th? m?i ngư?i...}
+{246}{hak035}{C?u tinh? C?u tinh? Con có nghe th?y g? không? Ngôi làng mà ch?t th? toàn b? tương lai c?a chúng ta c?ng không c?n. Chúng ta đang ki?t qu? c? th?i gian l?n tinh th?n... Nhanh lên. Nhanh lên...}
+{247}{hak101}{C?u tinh – bóng đen c?a h?c ám đ? đ?n trư?c con.}
+{248}{}{? ? ?!}
 {249}{}{Chuy?n g? đ? x?y ra th??}
-{250}{}{You look bad. Let me help.}
-{251}{hak102}{Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.}
-{252}{}{Uhh?}
-{253}{hak103}{Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins. }
-{254}{}{Ooo! Shiny Purty!}
-{255}{hak104}{No! Not shiny pretty! They kidnapped our people and took them to the southwest.}
-{256}{}{Ow.}
-{257}{hak105}{Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.}
-{258}{}{Uh?}
-{259}{hak106}{Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.}
-{260}{}{Uh-huh..}
-{261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
-{262}{}{Go?}
-{263}{hak108}{Go!...}
-{264}{}{Bye bye.}
-{265}{hak109}{Dark souls came. They took everyone.}
-{266}{}{Dark souls? What do you mean?}
-{267}{hak110}{A rush of wind came. On it were great dragonflies that spat flame. Evil men crawled from the beasts' bellies and brought death to our warriors.}
-{268}{}{Our warriors couldn't stop them?}
-{269}{hak112}{The spirit was willing, but the spearheads were weak. The evil ones burned our warriors with the lights of hell.}
-{270}{}{They killed everyone?}
-{271}{hak113}{All were dead or taken. My spirit returned to flesh only to reveal the truth to the Chosen.}
-{272}{}{What happened to the ones taken?}
-{273}{hak114}{The beasts swallowed all, then took to the winds.}
-{274}{}{Uh, which way were the winds that they followed going?}
-{275}{hak115}{Did you never listen when I taught you the yearly dance of the wind spirits? South, of course.}
-{276}{}{Your descriptions were so vivid and powerful, great Hakunin, that I was often stricken senseless for the duration of your lessons.}
-{277}{}{Oh, those winds. Of course. }
-{278}{hak116}{Yes, they traveled the wind south. I overheard the dark souls speaking. They planned to rest their beasts at a place named Navarro before crossing the great basin of our earth-mother's tears.}
-{279}{}{What shall I do?}
-{280}{}{Basin of tears?}
-{281}{hak117}{For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.}
-{282}{}{I will try.}
-{283}{hak118}{You are the Chosen. You must do.}
+{250}{}{Trông l?o t? quá. Đ? tôi giúp.}
+{251}{hak102}{Đ?a con c?a Thiên nhiên, làm sao mà chúng ta l?i đ?t gánh n?ng này lên vai con ch?? (th? dài) M?i ngư?i đ? b? b?t đi r?i.}
+{252}{}{H??}
+{253}{hak103}{Đúng v?y. Đi r?i. R?t nhi?u linh h?n h?c ám đ? đ?n, cư?i trên nh?ng con chim s?t như b?y côn trùng đói hung hăng, che kín s? hung ác b?ng l?p v? sáng bóng.}
+{254}{}{?! Sáng bóng đ?p!}
+{255}{hak104}{Không! Không sáng đ?p! Chúng đ? b?t cóc m?i ngư?i và đưa h? v? phía Tây Nam.}
+{256}{}{?.}
+{257}{hak105}{Đúng v?y. N?i đau đ?n t?n cùng. Ta đ?ng ch? ? gi?a hai th? gi?i đ? nói v?i con, C?u tinh. H?y c?u m?i ngư?i.}
+{258}{}{??}
+{259}{hak106}{C?u tinh, làm ơn h?y nghe l?i ta. Đi v? phía Tây Nam. Tây và Nam. C?u m?i ngư?i. C?u m?i ngư?i.}
+{260}{}{Uh-huh...}
+{261}{hak107}{Cám ơn t? tiên. Gi? th? linh h?n ta có th? h?a vào khúc ca v?nh h?ng r?i. Lên đư?ng an toàn, C?u tinh.}
+{262}{}{Đi?}
+{263}{hak108}{Đi đi!...}
+{264}{}{Chào nhé.}
+{265}{hak109}{Linh h?n h?c ám đ? đ?n. Chúng b?t m?i ngư?i.}
+{266}{}{Linh h?n h?c ám? Ông nói g? th??}
+{267}{hak110}{M?t con gió ?p đ?n. Cùng v?i đó là nh?ng con chu?n chu?n b? phun l?a. Nh?ng k? x?u xa nh?y ra t? b?ng c?a con quái v?t và mang di?t vong đ?n cho nh?ng chi?n binh c?a chúng ta.}
+{268}{}{Các chi?n binh c?a chúng ta không th? ngăn chúng sao?}
+{269}{hak112}{Tinh th?n h?ng h?c, nhưng ng?n giáo l?i y?u đu?i. Nh?ng k? hung tàn đ? thiêu đ?t các chi?n binh b?ng th? ánh sáng đ?a ng?c.}
+{270}{}{Chúng đ? gi?t t?t c? m?i ngư?i?}
+{271}{hak113}{T?t c? đ?u đ? ch?t ho?c b? b?t đi. Linh h?n c?a ta đ? tr? l?i thân xác ch? đ? khai m? s? th?t cho con, C?u tinh.}
+{272}{}{Chuy?n g? đ? x?y ra v?i nh?ng ngư?i b? b?t đi?}
+{273}{hak114}{B?y quái v?t đ? nu?t t?t c?, sau đó cư?i lên cơn gió.}
+{274}{}{?, con gió mà chúng cư?i lên th?i theo hư?ng nào?}
+{275}{hak115}{Con có bao gi? nghe l?i ta d?y trong nh?ng bu?i nh?y múa c?a gió th?n h?ng năm không v?y? D? nhiên là v? phía Nam r?i.}
+{276}{}{L?i c?a l?o luôn hào hùng và m?nh m?, Hakunin v? đ?i à, đ?n m?c tôi thư?ng đ? ra trong các bu?i gi?ng c?a l?o.}
+{277}{}{?, m?y cơn gió đó. D? nhiên r?i.}
+{278}{hak116}{Đúng v?y, chúng cư?i theo gió Nam. Ta đ? nghe l? linh h?n h?c ám đó nói chuy?n. Chúng d? đ?nh s? cho đám quái v?t ngh? t?i m?t nơi g?i là Navarro trư?c khi vư?t qua đ?i h?i ch?t ch?a nư?c m?t c?a m? trái đ?t.}
+{279}{}{Tôi c?n làm g??}
+{280}{}{Đ?i h?i nư?c m?t?}
+{281}{hak117}{V?i ta, ch?ng g? c?. C?u tinh, con ph?i đi t?m v?t đuôi c?a bè l? h?c ám và gi?i c?u m?i ngư?i.}
+{282}{}{Tôi s? th?.}
+{283}{hak118}{Con là C?u tinh. Con ph?i làm v?y.}
 {284}{}{Hakunin?}
-{285}{}{First time I understood what you meant.}
-{286}{hak120}{An ocean of tears, cried by a mother for her children.}
-{287}{}{Oh, the ocean. But what shall I do?}
-{288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
+{285}{}{Đây là l?n đ?u tôi hi?u l?o nói g? đ?y.}
+{286}{hak120}{Bi?n nư?c m?t, do ngư?i m? khóc v? nh?ng đ?a con c?a m?nh.}
+{287}{}{?, là bi?n. Nhưng tôi c?n làm g??}
+{288}{hak121}{M?t màn sương k? l? xâm chi?m tâm h?n và g?i h? đ?n vùng đ?t c?a Gi?c ng?. Nh?ng k? x?u xa đi gi?a nh?ng ngư?i say gi?c, nhưng l?i không h? mơ màng.}
 {289}{}{R?i sau đó?}
-{290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
+{290}{hak122}{Quá nhi?u mùa và thương quá n?ng. C?u tinh. Con ph?i nghe đây.}
 {291}{}{Đư?c r?i.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
-{301}{}{You must now pay for your sins, Chosen One.}
+{300}{}{Nh?ng k? ăn tr?m ph?i vác n?ng trên vai. H?y nh? l?y, C?u tinh.}
+{301}{}{Gi? th? con ph?i tr? giá cho t?i l?i c?a m?nh, C?u tinh.}

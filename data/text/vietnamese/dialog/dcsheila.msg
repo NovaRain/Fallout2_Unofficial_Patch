@@ -47,7 +47,7 @@
 {197}{}{That's it?}
 {198}{}{OK. Bye}
 {199}{}{It was good.}
-{200}{}{Bye bye.}
+{200}{}{Chào nhé.}
 {201}{}{I don't get paid enough for this.}
 {202}{}{It's not like you were worth the money anyhow.}
 {203}{}{You'll miss me.}
@@ -59,7 +59,7 @@
 {209}{}{Whoo!}
 {210}{}{G?p l?i sau.}
 {211}{}{Chào.}
-{212}{}{Bye bye.}
+{212}{}{Chào nhé.}
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}
 {215}{}{Follow me.}

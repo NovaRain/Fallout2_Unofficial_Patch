@@ -4,7 +4,7 @@
  confident, composed demeanor.}
 {103}{}{.}
 {104}{slk1}{Hey, fren. Our name be Sulik. What you be needin'.}
-{105}{}{Uh?}
+{105}{}{??}
 {107}{slk2a}{Oh, no. Don't be talking at us. One of you took our sis. Bad karma... for you.}
 {108}{slk2b}{Oh, no. We and I don't talk to no slave owner.}
 {109}{slk3}{Most people have evil spirits. You? You have stupid spirits.
@@ -18,7 +18,7 @@
 {116}{slk5a}{Ah, shit, fren. Slavers took our sister. We went drinking, then went breaking. Now paying off Maida. When
  that done, we go find sis.}
 {117}{slk5b}{Now we be getting ready to leave. Go look for sis. She snatched by slavers.}
-{118}{}{Uh?}
+{118}{}{??}
 {119}{}{Hmm, how much do you have to pay before you can go free?}
 {120}{}{Uh-huh.}
 {121}{}{I'm looking for something. Maybe you could join me.}
@@ -61,7 +61,7 @@
 {223}{}{I guess that's all I need to know for now. Goodbye.}
 {230}{slk8}{We and I thank you. Name's Sulik. How can we repay?}
 {231}{}{?.}
-{232}{}{Bye bye.}
+{232}{}{Chào nhé.}
 {233}{}{Who's "we?"}
 {234}{}{I was happy to help, Sulik. Tell me about yourself.}
 {235}{}{How about telling me what's going on in town?}
@@ -101,7 +101,7 @@
 {320}{slk26a}{They don't want to talk right now.}
 {321}{slk26b}{The spirits are sometimes hard to understand. They see things you and we can't.}
 {322}{slk26c}{Spirits be willing to talk. What you want?}
-{323}{}{Uh?}
+{323}{}{??}
 {324}{}{N?.}
 {325}{}{Nuh-uh.}
 {326}{}{What do they tell you about this place?}
@@ -375,7 +375,7 @@
 {923}{slk74}{No way we be frens with Child Killer.}
 {924}{slk75}{We think you're making a big mistake, but OK.}
 {925}{slk76}{We be hearing you helping Torr. Him losing any more Brahmin is big trouble.}
-{926}{}{Uh?}
+{926}{}{??}
 {927}{}{Uh. Bye.}
 {928}{}{Well, he sure looked as though he needed help. I have some questions for you.}
 {929}{}{He needed the help all right. I need some local information.}

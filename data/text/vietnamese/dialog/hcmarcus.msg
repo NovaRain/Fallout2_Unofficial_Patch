@@ -21,7 +21,7 @@
 {120}{mcs5}{Take your best shot, human.}
 {121}{mcs6a}{Good.}
 {122}{mcs6b}{Keep your nose clean and you won't get into trouble.}
-{123}{}{Uh?}
+{123}{}{??}
 {124}{mcs7}{I'm Marcus. Helped build the place. Now I'm sheriff.}
 {125}{}{You helped build this place? That must have been a long time ago...}
 {126}{}{Bullshit. How could you have been around that long?}
@@ -244,7 +244,7 @@
 {343}{}{Might want to come back here later.}
 {344}{}{I don't understand.}
 {345}{}{I dunno.}
-{346}{}{Ow.}
+{346}{}{?.}
 {347}{}{That really hurts.}
 {348}{}{That can't feel good...}
 {349}{}{Uh... when you said 'I hope she doesn't get pregnant' in the Cat's Paw in New Reno,
