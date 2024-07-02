@@ -37,7 +37,7 @@
 {142}{}{Cám ơn.}
 {143}{}{They would be located in maintenance, next to air traffic control. }
 {144}{}{Okay.}
-{145}{}{Got it.}
+{145}{}{Hi?u r?i.}
 {155}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {157}{}{Why are you out of uniform?}
