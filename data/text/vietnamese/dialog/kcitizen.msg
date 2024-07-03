@@ -46,30 +46,30 @@
 {202}{}{Howdy, stranger.}
 {203}{}{Watch out for those Duntons; they're dangerous.}
 {204}{}{Trapper Town sure has a lot of rats.}
-{1000}{}{Trư?ng l?o}
-{1001}{}{Ngư?i m? làng}
-{1002}{}{C? t? t? Vault}
+{1000}{}{Trưởng lão}
+{1001}{}{Người mở làng}
+{1002}{}{Cụ tổ từ Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{C?u tinh}
-{1007}{}{Th?y cúng}
+{1006}{}{Cứu tinh}
+{1007}{}{Thầy cúng}
 {1008}{}{Hakunin}
-{1009}{}{B?t ch?a thương}
-{1010}{}{C?u}
+{1009}{}{Bột chữa thương}
+{1010}{}{Cầu}
 {1011}{}{Mynoc}
-{1100}{}{Trư?ng l?o là m? c?u đ?ng th?i là trư?ng làng.}
-{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
-{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
-{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
+{1100}{}{Trưởng lão là mẹ cậu đồng thời là trưởng làng.}
+{1101}{}{Cụ tổ vĩ đại đã truyền kiến thức cho chúng ta.}
+{1102}{}{Người đầu tiên chiến đấu và chiến thắng cái xấu.}
+{1103}{}{Đó là ngôi làng xinh đẹp của chúng ta.}
 {1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{Vault là thiên đư?ng.}
-{1106}{}{C?u là C?u tinh.}
+{1105}{}{Vault là thiên đường.}
+{1106}{}{Cậu là Cứu tinh.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
-{1109}{}{Đây là b?t ch?a thương có th? ch?a lành cho anh, nhưng s? khi?n
-anh th?y bu?n ng?.}
-{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
-{1111}{}{Anh ta canh gác cây c?u d?n vào làng chúng ta.}
+{1109}{}{Đây là bột chữa thương có thể chữa lành cho anh, nhưng sẽ khiến
+anh thấy buồn ngủ.}
+{1110}{}{Cây Cầu Lớn dẫn ra ngoài làng ở phía Nam.}
+{1111}{}{Anh ta canh gác cây cầu dẫn vào làng chúng ta.}

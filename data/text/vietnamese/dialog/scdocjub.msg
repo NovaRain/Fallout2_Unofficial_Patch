@@ -11,14 +11,14 @@
 {110}{}{You're kidding.}
 {111}{}{Ha-ha.}
 {112}{}{There you are, sonny.}
-{113}{}{Thêm m?t l?n n?a.}
+{113}{}{Thêm một lần nữa.}
 {114}{}{Thanks, Doc. Maybe you can help me out with some answers.}
-{115}{}{T?m bi?t.}
+{115}{}{Tạm biệt.}
 {116}{}{It'll cost you $50.}
 {117}{}{Just heal me.}
 {118}{}{I'm not staying here.}
 {119}{}{You make better.}
-{120}{}{Ng? đi gi?.}
+{120}{}{Ngộ đi giờ.}
 {121}{}{Nope. Never joke. Best I cut that leg off before gangrene sets in.}
 {122}{}{No way you're cutting anything off, understand?}
 {123}{}{That's it, I'm leaving.}
@@ -49,13 +49,13 @@
 {148}{}{Well, that's more than what I had before.}
 {149}{}{The big one. Saltbeef's an old uranium prospector - more accurately, a drunk. Lives out on the Westin spread these days.}
 {150}{}{Another question...}
-{151}{}{Cám ơn v? câu chuy?n.}
+{151}{}{Cám ơn về câu chuyện.}
 {152}{}{Well, I was really hoping to get some money for it. I'll let it go for $}
 {153}{}{Maybe later, another question...}
 {154}{}{Maybe later, I have to go.}
 {155}{}{Saltbeef's an old uranium prospector. Lives out on the Westin spread these days.}
 {156}{}{Another question...}
-{157}{}{Cám ơn v? câu chuy?n.}
+{157}{}{Cám ơn về câu chuyện.}
 {158}{}{You best go talk to President Tandi. I've heard she's looking for a special type of person.}
 {159}{}{Another question...}
 {160}{}{Cám ơn.}

@@ -3,7 +3,7 @@
 {102}{}{Silver and turquoise rings, silver belt buckle, pistol at his side, this guy's clearly used to having money and having his own way.}
 {103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
 {104}{}{You again? What do you want?}
-{105}{}{Mu?n g??}
+{105}{}{Muốn gì?}
 {106}{}{Duh...}
 {107}{}{Me look Vault 13. You help?}
 {108}{}{I'm looking for Vault 13. Can you help me?}
@@ -20,7 +20,7 @@
 {119}{}{Fine. Be that way.}
 {120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
 {121}{}{What do you mean?}
-{122}{}{Câm m?m đi.}
+{122}{}{Câm mồm đi.}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Uh-huh.}
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
@@ -36,7 +36,7 @@
 {135}{}{Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.}
 {136}{}{Anything else I can do for you?}
 {137}{}{Thanks. Maybe you can help me out. I'm trying to find Vault 13.}
-{138}{}{T?m bi?t.}
+{138}{}{Tạm biệt.}
 {139}{}{Dumont recommended you? Well, that's good enough for me. Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.}
 {140}{}{Sounds like easy work. I'll do it.}
 {141}{}{I've decided against it.}
@@ -55,7 +55,7 @@
 {154}{}{Me tank you!}
 {155}{}{Cám ơn.}
 {156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
-{157}{}{Đúng v?y.}
+{157}{}{Đúng vậy.}
 {158}{}{Không.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
 {160}{}{I have some other questions.}

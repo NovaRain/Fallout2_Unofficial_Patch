@@ -5,17 +5,17 @@
 {150}{}{The grave site has been covered.}
 {151}{}{The grave site has been uncovered.}
 {200}{}{You see a headstone.}
-{201}{}{B?n th?y m?t bia m?.}
+{201}{}{Bạn thấy một bia mộ.}
 {250}{}{There are no markings on this headstone.}
 {251}{}{The name on the headstone has been scratched out.}
 {252}{}{The name on the headstone reads John Doe.}
-{253}{}{Tên và ngày tháng trên t?m bia đá đ? b? th?i gian bào m?n.}
-{260}{}{Không có d?u tích nào trên bia m? này.}
+{253}{}{Tên và ngày tháng trên tấm bia đá đã bị thời gian bào mòn.}
+{260}{}{Không có dấu tích nào trên bia mộ này.}
 {261}{}{The name on the grave marker has been scratched out.}
-{262}{}{Trên bia m? ghi tên John Doe.}
-{263}{}{Tên và ngày tháng trên t?m bia đá đ? b? th?i gian bào m?n.}
+{262}{}{Trên bia mộ ghi tên John Doe.}
+{263}{}{Tên và ngày tháng trên tấm bia đá đã bị thời gian bào mòn.}
 {275}{}{The headstone reads: }
-{276}{}{Trên bia m? vi?t:}
+{276}{}{Trên bia mộ viết:}
 {300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
 {301}{}{"Chris Jones. Nightwing."}
 {302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
@@ -74,11 +74,11 @@
 {355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
 {356}{}{"Here lies Ann Mann, who lived an old maid but died an old Mann. Dec. 8, 1767"}
 {357}{}{"The children of Israel wanted bread and the Lord sent them manna, old clerk Wallace wanted a wife, and the Devil sent him Anna."}
-{358}{}{"Johnny 12 gi? an ngh? nơi đây. Xin l?i v? đ? không lên đư?c."}
+{358}{}{"Johnny 12 giờ an nghỉ nơi đây. Xin lỗi vì đã không lên được."}
 {359}{}{"Here lies the body of Jonathan Blake stepped on the gas instead of the brake."}
 {360}{}{"Here lays Butch, we planted him raw. He was quick on the trigger, but slow on the draw."}
 {361}{}{"Sacred to the memory of my husband John Barnes who died January 3, 1803. His comely young widow, aged 23, has many qualifications of a good wife, and yearns to be comforted."}
-{362}{}{"Ngài John Strange, v? lu?t sư chính tr?c an ngh? nơi đây. Đúng là L? th?t."}
+{362}{}{"Ngài John Strange, vị luật sư chính trực an nghỉ nơi đây. Đúng là LẠ thật."}
 {363}{}{"I was somebody. Who, is no business of yours."}
 {364}{}{"Here lies Lester Moore, four slugs from a .44, no less, no more."}
 {365}{}{"I told you I was sick!"}
@@ -109,7 +109,7 @@
 {516}{}{You do not find any traps on the grave.}
 {520}{}{ finds a trap on the grave.}
 {521}{}{ does not find any traps on the grave.}
-{525}{}{B?n khéo léo vô hi?u hóa b?y.}
-{526}{}{B?n không vô hi?u hóa đư?c b?y.}
-{530}{}{ khéo léo vô hi?u hóa b?y.}
+{525}{}{Bạn khéo léo vô hiệu hóa bẫy.}
+{526}{}{Bạn không vô hiệu hóa được bẫy.}
+{530}{}{ khéo léo vô hiệu hóa bẫy.}
 {531}{}{ fail to disarm the trap.}

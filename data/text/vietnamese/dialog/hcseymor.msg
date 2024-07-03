@@ -9,11 +9,11 @@
 {108}{}{Chào.}
 {109}{}{Yes, I do talk. Better than some people, it seems. I'd smile at you right now, but I just don't have a mouth. [it laughs] Say, could you do me a big favor?}
 {110}{}{'Es.}
-{111}{}{N?.}
+{111}{}{Nồ.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{'Es!}
 {114}{}{Nuh!}
-{115}{}{Đư?c thôi.}
+{115}{}{Được thôi.}
 {116}{}{I think not.}
 {117}{}{Great! All you have to do is find a shovel, dig me up, and plant me over there. When you do, I'll tell you a secret.}
 {118}{}{Okay!}
@@ -26,7 +26,7 @@
 {125}{}{'Es.}
 {126}{}{Nuh!}
 {127}{}{Why, yes! Yes, it is! Very astute, friend, very astute. I can see you didn't germinate yesterday! My fine-stemmed companion, would you be so kind as to do me a favor?}
-{128}{}{Đư?c thôi.}
+{128}{}{Được thôi.}
 {129}{}{I don't think so.}
 {130}{}{Deee-lightful! I'm very, very pleased. Just find yourself a shovel and come on back. When you're done, maybe I can tell you a secret. My friend, I do hope you continue to flower.}
 {131}{}{Um, right. So long.}
@@ -61,7 +61,7 @@
 {156}{}{-done-}
 {157}{}{That's a pity, that's a pity indeed. I do hope you'll change your mind at some point. Perhaps the pollen of your
  indecision will blow my way again. Good day.}
-{158}{}{?.}
+{158}{}{Ừ.}
 {159}{}{Good day indeed.}
 {160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
  those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
@@ -74,7 +74,7 @@
 {165}{}{Have you had time to reconsider? Would you like to help me?}
 {166}{}{'Es!}
 {167}{}{Nuh!}
-{168}{}{Đư?c thôi.}
+{168}{}{Được thôi.}
 {169}{}{I think not.}
 {170}{}{Alas, you do not appear to have a shovel. Until you can find one, I can't go. I await your return with bated pistil.}
 {171}{}{Chào.}

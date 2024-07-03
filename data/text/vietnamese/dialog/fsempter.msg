@@ -23,13 +23,13 @@
 {122}{}{Network scan.}
 {123}{}{Format drive.}
 {124}{}{Check hard drive integrity.}
-{125}{}{Tr? l?i.}
+{125}{}{Trở lại.}
 {126}{}{Which database would you like to check?}
 {127}{}{Biology.}
 {128}{}{Chemistry.}
 {129}{}{Physics.}
 {130}{}{History.}
-{131}{}{Tr? l?i.}
+{131}{}{Trở lại.}
 {132}{}{The children of Shi-town are in danger. 50% chance of slayer moving among them.}
 {133}{}{Danger has come to Shi-town. 75% probability of harm coming to residents.}
 {134}{}{The Hubologist space launch is 95% likely to fail. Factors: No fuel, improper sealant, poor leadership, lack of initiative.}
@@ -40,7 +40,7 @@
 {139}{}{Input: Poseidon Oil tanker unfit for travel. Require more input.}
 {140}{}{Not processing. Require input.}
 {141}{}{[THÊM]}
-{142}{}{Tr? l?i.}
+{142}{}{Trở lại.}
 {143}{}{Biology station: Active}
 {144}{}{Biology station: Inactive}
 {145}{}{Chemistry station: Active}
@@ -56,14 +56,14 @@
 {155}{}{Activate Biology Station.}
 {156}{}{Activate Chemistry Station.}
 {157}{}{Activate Physics Station.}
-{158}{}{Tr? l?i.}
+{158}{}{Trở lại.}
 {159}{}{Format drive: All data will be lost. Are you sure?}
-{160}{}{Đúng v?y.}
+{160}{}{Đúng vậy.}
 {161}{}{Không.}
 {162}{}{The functional integrity of this system is 92%. The shielded core of the Emperor Computer is 100%. The integrity of the data is 100%. The forecasting node is suffering minor power lags - projected time to repair 6 days. Forecast 15% operational.}
-{163}{}{Tr? l?i.}
+{163}{}{Trở lại.}
 {164}{}{Are you sure you wish to format this unit? This is an irreversible process.}
-{165}{}{Đúng v?y.}
+{165}{}{Đúng vậy.}
 {166}{}{Không.}
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
 {168}{}{[XONG]}
@@ -71,30 +71,30 @@
 {170}{}{Botany program.}
 {171}{}{Genetic program.}
 {172}{}{Xeno program.}
-{173}{}{Tr? l?i.}
+{173}{}{Trở lại.}
 {174}{}{(After about twenty minutes, you discover this: Initial results of botanical radiation disruption prove unpromising. Dr. Sheng develops radiation resistant plant-life - unpleasant side-effects follow. Resultant plant life deemed too dangerous. Sheng insists on pursuing line and mixing it with genetic program.)}
 {175}{}{Genetic program.}
 {176}{}{Xeno program.}
-{177}{}{Tr? l?i.}
+{177}{}{Trở lại.}
 {178}{}{(After about twenty minutes you piece together this information: Using the basics of the FEV virus, Dr. Long Wang is convinced of success in creating mutant soldiers. He creates a serum providing interesting results with rodent experiments. He injects himself and dissolves into a puddle of goo. Dr. Sheng disables line of inquiry. With the death of Dr. Long, Dr. Sheng is in charge. Sheng demands focus on radiation-consuming plant life.)}
 {179}{}{Botany program.}
 {180}{}{Xeno program.}
-{181}{}{Tr? l?i.}
+{181}{}{Trở lại.}
 {182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
 {183}{}{Botany program.}
 {184}{}{Genetic program.}
-{185}{}{Tr? l?i.}
+{185}{}{Trở lại.}
 {186}{}{Chemistry Database: Fuel and derivatives - Polymers}
 {187}{}{Fuel and derivatives.}
 {188}{}{Polymers.}
-{189}{}{Tr? l?i.}
+{189}{}{Trở lại.}
 {190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
 {191}{}{(You come across a vast array of complex chemical formulae and lab notes. You're not quite sure what all of this means.)}
 {192}{}{Direct fuel to Poseidon tanker.}
 {193}{}{Direct fuel to Hubologists.}
-{194}{}{Tr? l?i.}
+{194}{}{Trở lại.}
 {195}{}{(Once you have waded past the symbology and technical discussion, you discover that the Shi are working on a new kind of polymeric combat armor that is resistant to both flame and penetration. It is still years from completion. You also see mention of new weaponry and construction capabilities. Apparently the Shi have some plans for the future.)}
-{196}{}{Tr? l?i.}
+{196}{}{Trở lại.}
 {197}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
 {198}{}{[XONG]}
 {199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
@@ -102,16 +102,16 @@
 {201}{}{Physics database: Exploration - Theory}
 {202}{}{Exploration.}
 {203}{}{Theory.}
-{204}{}{Tr? l?i.}
+{204}{}{Trở lại.}
 {205}{}{"With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years." -Dr. Wong}
 {206}{}{::copy plans:: Back.}
-{207}{}{Tr? l?i.}
+{207}{}{Trở lại.}
 {208}{}{"We are still preparing a working model of an aerial vehicle. None of the designs we have created have proven to be safe or aerodynamic. Perhaps if we had access to the plans of the ancients..." -Dr. Wong}
-{209}{}{Tr? l?i.}
+{209}{}{Trở lại.}
 {210}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea. At least, that's what the notes read like.)}
-{211}{}{Tr? l?i.}
+{211}{}{Trở lại.}
 {212}{}{Station activated.}
-{213}{}{Tr? l?i.}
+{213}{}{Trở lại.}
 {214}{}{The computer terminal doesn't seem to have an interface for that.}
 {215}{}{The computer terminal appears non-operational.}
 {216}{}{There has been a compromise in the system. Orders are to attack!}

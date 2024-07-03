@@ -1,5 +1,5 @@
 {100}{}{Greetings, human. I am the warrior Xarn. Are you to be my executioner?}
-{101}{}{Đúng v?y.}
+{101}{}{Đúng vậy.}
 {102}{}{No, me here rescue you.}
 {103}{}{Not know. Me want know why you here.}
 {104}{}{Yes I am.}
@@ -67,7 +67,7 @@
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
 {143}{}{Chào.}
-{144}{}{T?m bi?t.}
+{144}{}{Tạm biệt.}
 {145}{}{I would ask you to help me escape this place. Will you?}
 {146}{}{Yes, me do.}
 {147}{}{Me think about it.}
@@ -85,19 +85,19 @@
 {159}{}{No. I'll be leaving now.}
 {160}{}{All right, let's get it over with.}
 {161}{}{Hello again. Have you changed your mind? Will you help me?}
-{162}{}{Đúng v?y.}
+{162}{}{Đúng vậy.}
 {163}{}{Không.}
 {164}{}{Hello again. Have you changed your mind? Will you help me?}
-{165}{}{Đúng v?y.}
+{165}{}{Đúng vậy.}
 {166}{}{No. Me still think about it.}
 {167}{}{No. Me not help.}
 {168}{}{No, I'm still thinking.}
 {169}{}{I don't want to help you.}
 {170}{}{Hello again. Have you found the key to the door?}
 {171}{}{Yes, me open for you.}
-{172}{}{Ng? v?n t?m.}
+{172}{}{Ngộ vẫn tìm.}
 {173}{}{Yeah, I've got it. I'll open the door for you.}
-{174}{}{Tôi v?n đang t?m.}
+{174}{}{Tôi vẫn đang tìm.}
 {175}{}{Thank you. I will not forget this.}
 {176}{}{You welcome.}
 {177}{}{You are welcome.}

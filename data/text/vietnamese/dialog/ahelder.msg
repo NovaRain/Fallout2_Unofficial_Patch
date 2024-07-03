@@ -1,141 +1,141 @@
-{100}{}{B?n th?y Trư?ng l?o c?a làng.}
-{101}{}{Đây là Trư?ng l?o.}
-{102}{}{Trư?ng l?o r?t - già, già hơn c? nh?ng g? b?n nh? đư?c. Tuy nhiên, bà v?n
-gi? đư?c s?c l?c và tinh th?n đ? d?n d?t ngôi làng vư?t qua th?i đi?m khó khăn.}
-{103}{aeld1}{Chúc m?ng, C?u tinh, con đ? s?ng sót qua Ngôi đ?n th? thách. Con đ? s?n sàng
-đi làm nhi?m v? chưa?}
-{104}{}{Bà làm g? đ?y - c? gi?t tôi trong đ?n à?}
-{105}{}{D? nhiên r?i.}
-{106}{}{Con mu?n ngh? thêm m?t chút v? vi?c đó.}
-{107}{aeld2a}{Ta r?t t? hào v? con, C?u tinh. Con đ? vư?t qua nhi?u th?. Bây gi?, con ph?i đi t?m Vault 13.
-Vault 13. C?m GECK v?. GECK. Đây là m?t cái b?nh sáng bóng. Vic đ? mang đ?n đây. Vic. L?o ta
-là thương nhân ? Klamath. Klamath. Đi t?m Vic. T?m Vault 13. T?m GECK. V? nhà. H?y
-c? h?t s?c, con ta.}
-{112}{aeld2b}{Con chưa t?m đư?c h?m. T?m căn h?m! Vault 13.}
-{113}{}{?.}
-{114}{aeld3}{C?u tinh, con mu?n t?t c? chúng ta đ?u ch?t à? Con ph?i đi t?m Vault!}
-{115}{}{Con xin l?i, Trư?ng l?o. Con s? thành công.}
-{116}{}{?, ?. Im m?m đi.}
-{117}{aeld4}{C?u tinh, sao con l?i ? đây?}
-{118}{}{Con bi?t Vault 13 ? đâu!}
-{119}{}{Con đ? s?n sàng làm nhi?m v? th?n thánh.}
-{120}{}{Con c?n thêm thông tin.}
-{121}{}{Con s? không đi t?m ch?t đâu!}
-{122}{}{Con c?n làm cái g? ?y nh??}
+{100}{}{Bạn thấy Trưởng lão của làng.}
+{101}{}{Đây là Trưởng lão.}
+{102}{}{Trưởng lão rất - già, già hơn cả những gì bạn nhớ được. Tuy nhiên, bà vẫn
+giữ được sức lực và tinh thần để dẫn dắt ngôi làng vượt qua thời điểm khó khăn.}
+{103}{aeld1}{Chúc mừng, Cứu tinh, con đã sống sót qua Ngôi đền thử thách. Con đã sẵn sàng
+đi làm nhiệm vụ chưa?}
+{104}{}{Bà làm gì đấy - cố giết tôi trong đền à?}
+{105}{}{Dĩ nhiên rồi.}
+{106}{}{Con muốn nghĩ thêm một chút về việc đó.}
+{107}{aeld2a}{Ta rất tự hào về con, Cứu tinh. Con đã vượt qua nhiều thứ. Bây giờ, con phải đi tìm Vault 13.
+Vault 13. Cầm GECK về. GECK. Đây là một cái bình sáng bóng. Vic đã mang đến đây. Vic. Lão ta
+là thương nhân ở Klamath. Klamath. Đi tìm Vic. Tìm Vault 13. Tìm GECK. Về nhà. Hãy
+cố hết sức, con ta.}
+{112}{aeld2b}{Con chưa tìm được hầm. Tìm căn hầm! Vault 13.}
+{113}{}{Ừ.}
+{114}{aeld3}{Cứu tinh, con muốn tất cả chúng ta đều chết à? Con phải đi tìm Vault!}
+{115}{}{Con xin lỗi, Trưởng lão. Con sẽ thành công.}
+{116}{}{Ờ, ờ. Im mồm đi.}
+{117}{aeld4}{Cứu tinh, sao con lại ở đây?}
+{118}{}{Con biết Vault 13 ở đâu!}
+{119}{}{Con đã sẵn sàng làm nhiệm vụ thần thánh.}
+{120}{}{Con cần thêm thông tin.}
+{121}{}{Con sẽ không đi tìm chết đâu!}
+{122}{}{Con cần làm cái gì ấy nhỉ?}
 {123}{}{Con đi đây.}
-{124}{aeld5}{Tin t?t đ?y, nhưng chưa đ? đ? c?u chúng ta. Con c?n ph?i s?m c?m GECK v?, 
-n?u không m?i ngư?i s? ch?t!}
-{125}{}{Con c?n thêm thông tin.}
-{126}{}{R?i, con đi gi? đây.}
-{127}{aeld6}{Con đ? s?ng sót. C?u tinh không th? y?u đu?i đư?c, n?u không chúng ta s? tiêu đ?i.
-Con đ? s?n sàng đi làm nhi?m v? chưa?}
-{128}{}{Con đ? vư?t qua th? thách. D? nhiên là con s?n sàng r?i.}
-{129}{}{Con c?n ngh? v? vi?c đó.}
-{130}{}{Con s? không đi t?m ch?t đâu!}
-{131}{aeld7}{Nghe này. H?y đi t?m Vault 13 th?n thành và c?m GECK v? đây. Vic, thương nhân
-t? Klamath đ? đưa cái b?ch nư?c t? s? 13 th?n thánh đ?n đây. B?t đ?u t?m ki?m t?
-ch? ông ta. Chi?c đ?a này s? nh?c nh? con v? nhi?m v?. C?u các th?n Vault phù h? cho con.}
-{133}{}{Trư?c khi đi, con có m?y câu h?i.}
-{134}{}{T?m bi?t. Con s? c?u đư?c b? t?c.}
-{135}{aeld8}{Đư?c r?i. H?y đ?n g?p ta khi nào con quy?t đ?nh – nhưng đ?ng đ? lâu quá.}
-{136}{}{T?m bi?t.}
-{137}{aeld9}{Ta không giúp đư?c nhi?u đâu. R?t nhi?u th? t? th?i Xa xưa đ? không c?n n?a. Con mu?n bi?t v? vi?c g??}
-{138}{aeld9b}{Con c?n g??}
-{139}{}{Nói thêm v? GECK đi.}
-{140}{}{Đi Klamath đư?ng nào th??}
-{141}{}{Vault 13 ch? nào ?y nh??}
-{142}{}{Mà thôi, con không c?n giúp n?a. T?m bi?t.}
-{143}{aeld10}{Đó là m?t món b?o v?t th?n thánh – B? t?o Vư?n Đ?a đàng. Chi?c đ?a ghi r?ng th? này s? mang đ?n
-màu xanh và s? sung túc cho làng. Nó s? c?u chúng ta. C?n l?i th? ta không r?.}
-{144}{}{Con mu?n bi?t thêm.}
-{145}{}{T?m bi?t.}
-{146}{aeld11}{Klamath đi v? phía Đông.}
-{147}{}{Con mu?n bi?t v? nh?ng vi?c khác.}
-{148}{}{Con s?n sàng r?i. T?m bi?t.}
-{149}{aeld12}{S? 13 th?n thánh? Ta không giúp g? đư?c. Ch? có C? t? t? Vault m?i bi?t thôi. Theo l?i
-ông th? đó là m?t cu?c hành tr?nh đ?y gian nan.}
-{150}{}{V?y à. V?n c?n nhi?u th? con mu?n bi?t.}
-{151}{}{T?m bi?t, Trư?ng l?o.}
-{152}{aeld13}{S? hèn nhát s? gi?t ch?t t?t c? chúng ta! K? c? con n?a. Con đ?
-vư?t qua Ngôi đ?n th? thách. Chúng ta tin con. Chúng ta c?n con.}
-{153}{}{T? t? đ?, bà già. Tôi c?n thêm th?i gian đ? suy ngh? v? vi?c này!}
-{154}{}{C? theo ? ngư?i đi, Trư?ng l?o.}
-{155}{aeld14a}{Mày đ? ph?n b?i chúng ta. Mày ph?i ch?t.}
-{156}{aeld14b}{Đ? ph?n b?i!}
-{157}{aeld14c}{T?i sao mày l?i làm th??}
-{158}{aeld14d}{Ta bi?t là mày có tâm đ?a x?u xa mà!}
-{159}{aeld15}{V?y th? c?m l?y cái b?ch này, v?n t? Vault 13 th?n thánh. Vic, thương nhân đ?n t?
-Klamath đ? mang nó đ?n đây. Ông ta có th? bi?t căn h?m đó ? đâu. Con c?ng s? c?n
-m?t ít th? b?n h? g?i là ti?n. Đây.}
-{160}{}{?m... Nhi?m v? c?a con là g? ?y nh??}
-{161}{}{Con có c?n bi?t thêm g? không?}
-{162}{}{H?y chúc con may m?n đi, Trư?ng l?o. Con s? thành công.}
-{163}{aeld16}{T?m Vic ? Klamath. Chúng ta trông ch? vào con.}
-{164}{aeld17}{R?t vui đư?c g?p l?i con. Ta không có ? ném đá đâu nhưng ta th?y là con v?n
-chưa hoàn thành nhiêm v? đi t?m s? 13 th?n thánh. Đ?ng l?ng phí th?i gian
-tán nh?m n?a. M?i ngư?i đang trông ngóng t?ng ngày. H?y đi t?m Vault!}
-{165}{}{Ng? đi gi?.}
-{166}{}{Đư?c r?i, con đi đây.}
-{167}{}{Con s? thành công, Trư?ng l?o.}
-{168}{}{Tôi đang làm r?i, Ô x? kê?}
-{169}{aeld18}{V?y là con l?i v? mà không có GECK. Cây tr?ng đang héo tàn r?i, C?u tinh. Chúng ta
-đang ngày càng nguy c?p hơn. H?y đi t?m s? 13 th?n thánh!}
-{170}{}{Ok, ng? đi gi?.}
-{171}{}{Vâng, thưa Trư?ng l?o.}
-{172}{}{Con s? c?u đư?c m?i ngư?i, Trư?ng l?o.}
-{173}{}{Này, n?u bà ngh? là bà có th? làm t?t hơn... }
-{174}{aeld19}{C?u tinh, m?i th? ? làng đ?u b?t ?n. Ngôi làng c?n có GECK đ? t?n t?i. M?i ngư?i
-đang ch?t đói, c?n kho lương d? tr? ch?ng m?y n?a. Làm ơn đi, h?y đi t?m s? 13
-th?n thánh và tr? v? đây. Gi? th? đi đi.}
-{175}{}{Ng? đi.}
-{176}{}{Đư?c r?i. Con lên đư?ng đây.}
-{177}{}{Con s? c? h?t s?c đi t?m GECK và c?u ngôi làng.}
-{178}{}{Đ?ng có gi?c, bà già. Tôi đang c? h?t s?c đây.}
-{179}{aeld20}{Con ơi, chúng ta đang c?n hơn bao gi? h?t. M?i ngư?i đ?u y?u r?i, đàn gia súc
-ch?t d?n, lương th?c th? c?n ki?t. Đ?t b?c màu h?t và ch? có GECK m?i có th? gi?i quy?t
-đư?c. Đi đi, t?m GECK và c?u l?y chúng ta.}
-{180}{}{Ng? hi?u.}
+{124}{aeld5}{Tin tốt đấy, nhưng chưa đủ để cứu chúng ta. Con cần phải sớm cầm GECK về, 
+nếu không mọi người sẽ chết!}
+{125}{}{Con cần thêm thông tin.}
+{126}{}{Rồi, con đi giờ đây.}
+{127}{aeld6}{Con đã sống sót. Cứu tinh không thể yếu đuối được, nếu không chúng ta sẽ tiêu đời.
+Con đã sẵn sàng đi làm nhiệm vụ chưa?}
+{128}{}{Con đã vượt qua thử thách. Dĩ nhiên là con sẵn sàng rồi.}
+{129}{}{Con cần nghĩ về việc đó.}
+{130}{}{Con sẽ không đi tìm chết đâu!}
+{131}{aeld7}{Nghe này. Hãy đi tìm Vault 13 thần thành và cầm GECK về đây. Vic, thương nhân
+từ Klamath đã đưa cái bịch nước từ số 13 thần thánh đến đây. Bắt đầu tìm kiếm từ
+chỗ ông ta. Chiếc đĩa này sẽ nhắc nhở con về nhiệm vụ. Cầu các thần Vault phù hộ cho con.}
+{133}{}{Trước khi đi, con có mấy câu hỏi.}
+{134}{}{Tạm biệt. Con sẽ cứu được bộ tộc.}
+{135}{aeld8}{Được rồi. Hãy đến gặp ta khi nào con quyết định – nhưng đừng để lâu quá.}
+{136}{}{Tạm biệt.}
+{137}{aeld9}{Ta không giúp được nhiều đâu. Rất nhiều thứ từ thời Xa xưa đã không còn nữa. Con muốn biết về việc gì?}
+{138}{aeld9b}{Con cần gì?}
+{139}{}{Nói thêm về GECK đi.}
+{140}{}{Đi Klamath đường nào thế?}
+{141}{}{Vault 13 chỗ nào ấy nhỉ?}
+{142}{}{Mà thôi, con không cần giúp nữa. Tạm biệt.}
+{143}{aeld10}{Đó là một món bảo vật thần thánh – Bộ tạo Vườn Địa đàng. Chiếc đĩa ghi rằng thứ này sẽ mang đến
+màu xanh và sự sung túc cho làng. Nó sẽ cứu chúng ta. Còn lại thì ta không rõ.}
+{144}{}{Con muốn biết thêm.}
+{145}{}{Tạm biệt.}
+{146}{aeld11}{Klamath đi về phía Đông.}
+{147}{}{Con muốn biết về những việc khác.}
+{148}{}{Con sẵn sàng rồi. Tạm biệt.}
+{149}{aeld12}{Số 13 thần thánh? Ta không giúp gì được. Chỉ có Cụ tổ từ Vault mới biết thôi. Theo lời
+ông thì đó là một cuộc hành trình đầy gian nan.}
+{150}{}{Vậy à. Vẫn còn nhiều thứ con muốn biết.}
+{151}{}{Tạm biệt, Trưởng lão.}
+{152}{aeld13}{Sự hèn nhát sẽ giết chết tất cả chúng ta! Kể cả con nữa. Con đã
+vượt qua Ngôi đền thử thách. Chúng ta tin con. Chúng ta cần con.}
+{153}{}{Từ từ đã, bà già. Tôi cần thêm thời gian để suy nghĩ về việc này!}
+{154}{}{Cứ theo ý người đi, Trưởng lão.}
+{155}{aeld14a}{Mày đã phản bội chúng ta. Mày phải chết.}
+{156}{aeld14b}{Đồ phản bội!}
+{157}{aeld14c}{Tại sao mày lại làm thế?}
+{158}{aeld14d}{Ta biết là mày có tâm địa xấu xa mà!}
+{159}{aeld15}{Vậy thì cầm lấy cái bịch này, vốn từ Vault 13 thần thánh. Vic, thương nhân đến từ
+Klamath đã mang nó đến đây. Ông ta có thể biết căn hầm đó ở đâu. Con cũng sẽ cần
+một ít thứ bọn họ gọi là tiền. Đây.}
+{160}{}{Ừm... Nhiệm vụ của con là gì ấy nhỉ?}
+{161}{}{Con có cần biết thêm gì không?}
+{162}{}{Hãy chúc con may mắn đi, Trưởng lão. Con sẽ thành công.}
+{163}{aeld16}{Tìm Vic ở Klamath. Chúng ta trông chờ vào con.}
+{164}{aeld17}{Rất vui được gặp lại con. Ta không có ý ném đá đâu nhưng ta thấy là con vẫn
+chưa hoàn thành nhiêm vụ đi tìm số 13 thần thánh. Đừng lãng phí thời gian
+tán nhảm nữa. Mọi người đang trông ngóng từng ngày. Hãy đi tìm Vault!}
+{165}{}{Ngộ đi giờ.}
+{166}{}{Được rồi, con đi đây.}
+{167}{}{Con sẽ thành công, Trưởng lão.}
+{168}{}{Tôi đang làm rồi, Ô xừ kê?}
+{169}{aeld18}{Vậy là con lại về mà không có GECK. Cây trồng đang héo tàn rồi, Cứu tinh. Chúng ta
+đang ngày càng nguy cấp hơn. Hãy đi tìm số 13 thần thánh!}
+{170}{}{Ok, ngộ đi giờ.}
+{171}{}{Vâng, thưa Trưởng lão.}
+{172}{}{Con sẽ cứu được mọi người, Trưởng lão.}
+{173}{}{Này, nếu bà nghĩ là bà có thể làm tốt hơn... }
+{174}{aeld19}{Cứu tinh, mọi thứ ở làng đều bất ổn. Ngôi làng cần có GECK để tồn tại. Mọi người
+đang chết đói, còn kho lương dự trữ chẳng mấy nữa. Làm ơn đi, hãy đi tìm số 13
+thần thánh và trở về đây. Giờ thì đi đi.}
+{175}{}{Ngộ đi.}
+{176}{}{Được rồi. Con lên đường đây.}
+{177}{}{Con sẽ cố hết sức đi tìm GECK và cứu ngôi làng.}
+{178}{}{Đừng có giục, bà già. Tôi đang cố hết sức đây.}
+{179}{aeld20}{Con ơi, chúng ta đang cần hơn bao giờ hết. Mọi người đều yếu rồi, đàn gia súc
+chết dần, lương thực thì cạn kiệt. Đất bạc màu hết và chỉ có GECK mới có thể giải quyết
+được. Đi đi, tìm GECK và cứu lấy chúng ta.}
+{180}{}{Ngộ hiểu.}
 {181}{}{Con đi đây.}
-{182}{}{Th? l?i cho con, Trư?ng l?o. Con s? đi t?m GECK ngay.}
-{183}{}{R?i, r?i. Bà b?t đ?u ca c?m ch?ng khác nào cái đ?a k?t c?...}
-{200}{eeld1}{C?u tinh! Làm th? nào mà con l?i đ?n đây th??}
-{201}{}{?.. đ??}
-{202}{}{Con đ?n đ? c?u ngư?i.}
-{203}{}{Chuy?n quái g? đang di?n ra th??}
-{204}{eeld2}{Đ? quái v?t! Mày c?ng đ?n đ? gi?t tao à?}
-{205}{}{? ??}
-{206}{}{Không ph?i, là con đây, C?u tinh đây!}
-{207}{}{?, im m?m đi, bà già khó tính! Là tôi, C?u tinh c?a bà đây.}
-{208}{eeld3}{Ôi, th?n linh ơi... Nghe này, đi xu?ng dư?i. H?y t?m cái máy t?o ra đi?n. Gi?t máy. Gi?t ngư?i x?u. Gi?t t?t! Con gi?t, chúng ta v? nhà. C?n n?a, n?u chưa có GECK th? t?m GECK ? đây. C?n có GECK đ? c?u làng! T? do đ? làm g? n?u nhà không c?n. Hi?u chưa? Ôi, th?n linh.}
-{209}{}{? h?!}
-{210}{eeld4}{C?n th?n, đ?ng ch?m vào tư?ng lung linh. Ta ngh? là cái máy c?p đi?n ? bên dư?i chúng ta. H?y phá h?y nó đ? chúng ta có th? tr?n thoát. Làm sao con l?i đ?n đư?c đây?}
+{182}{}{Thứ lỗi cho con, Trưởng lão. Con sẽ đi tìm GECK ngay.}
+{183}{}{Rồi, rồi. Bà bắt đầu ca cẩm chẳng khác nào cái đĩa kẹt cả...}
+{200}{eeld1}{Cứu tinh! Làm thế nào mà con lại đến đây thế?}
+{201}{}{Ờ.. đờ?}
+{202}{}{Con đến để cứu người.}
+{203}{}{Chuyện quái gì đang diễn ra thế?}
+{204}{eeld2}{Đồ quái vật! Mày cũng đến để giết tao à?}
+{205}{}{Ờ ờ?}
+{206}{}{Không phải, là con đây, Cứu tinh đây!}
+{207}{}{Ồ, im mồm đi, bà già khó tính! Là tôi, Cứu tinh của bà đây.}
+{208}{eeld3}{Ôi, thần linh ơi... Nghe này, đi xuống dưới. Hãy tìm cái máy tạo ra điện. Giết máy. Giết người xấu. Giết tất! Con giết, chúng ta về nhà. Còn nữa, nếu chưa có GECK thì tìm GECK ở đây. Cần có GECK để cứu làng! Tự do để làm gì nếu nhà không còn. Hiểu chưa? Ôi, thần linh.}
+{209}{}{Ừ hứ!}
+{210}{eeld4}{Cẩn thận, đừng chạm vào tường lung linh. Ta nghĩ là cái máy cấp điện ở bên dưới chúng ta. Hãy phá hủy nó để chúng ta có thể trốn thoát. Làm sao con lại đến được đây?}
 {211}{}{Con có cái tàu. }
-{212}{eeld5}{Đám ngư?i này đ?n làng b?ng máy bi?t bay và b?t chúng ta. Có c? nh?ng ngư?i khác n?a – t? s? 13 th?n thánh! Ta tư?ng chúng ta đư?c c?u r?i. Ta tư?ng là chúng ta s?p đư?c lên thiên đư?ng. (th? dài)}
-{213}{}{R?i sau đó?}
-{214}{eeld5a}{Sau đó h? đưa chúng ta đ?n đây, đ?n đ?a ng?c. Chúng đ? gi?t g?n h?t b?n ta b?ng th? mà chúng g?i là ép e vi. Chúng s? gi?t h?t chúng ta
-trư?c khi th? đó hoàn thi?n! Con bi?t c?n ph?i làm g? r?i ch?, C?u tinh?}
+{212}{eeld5}{Đám người này đến làng bằng máy biết bay và bắt chúng ta. Có cả những người khác nữa – từ số 13 thần thánh! Ta tưởng chúng ta được cứu rồi. Ta tưởng là chúng ta sắp được lên thiên đường. (thở dài)}
+{213}{}{Rồi sau đó?}
+{214}{eeld5a}{Sau đó họ đưa chúng ta đến đây, đến địa ngục. Chúng đã giết gần hết bọn ta bằng thứ mà chúng gọi là ép e vi. Chúng sẽ giết hết chúng ta
+trước khi thứ đó hoàn thiện! Con biết cần phải làm gì rồi chứ, Cứu tinh?}
 {215}{}{Ép e vi?}
-{216}{}{Đúng v?y.}
+{216}{}{Đúng vậy.}
 {217}{}{Không.}
-{218}{eeld6}{N?u con phá h?y cái máy, chúng ta s? đi t?m tàu. Nhanh lên, chúng ta không c?n bao nhiêu ngư?i đâu.}
-{219}{}{Chuy?n g? đ? x?y ra th??}
-{220}{}{Tôi hi?u r?i.}
-{221}{eeld7}{Con ph?i phá h?y cái máy và tiêu di?t ác qu? nơi này. Chúng ta s? g?p con ? bên ngoài! À mà C?u tinh ơi, n?u con v?n chưa t?m th?y GECK th? h?y t?m ? đây. T? do đ? làm g? n?u chúng ta không th? c?u đư?c ngôi làng. Gi? th? đi đi!}
-{222}{}{T?m bi?t.}
-{223}{eeld8}{Ta v?n là Trư?ng l?o đ?y. Đ?ng có h?n! Xin l?i ngay ho?c ta s? không giúp ngươi n?a đâu.}
-{224}{}{Xin l?i, bà không ph?i bà già khó tính. Chuy?n g? đang x?y ra th??}
-{225}{}{Bà ? trong đó th? giúp cái đéo g?? Cu?n xéo r?i ch?t đi.}
-{226}{eeld9}{Cút đi. Mày ch?ng khác g? đám qu? đó c?. Ta tuyên b? mày không c?n là C?u tinh n?a.}
-{227}{eeld10}{Sao con l?i ? đây? M?i phút con l?ng phí là l?i có thêm ngư?i trong t?c b? gi?t. Và đ?ng có quên GECK đ?y! Chúng ta c?n th? đó.}
+{218}{eeld6}{Nếu con phá hủy cái máy, chúng ta sẽ đi tìm tàu. Nhanh lên, chúng ta không còn bao nhiêu người đâu.}
+{219}{}{Chuyện gì đã xảy ra thế?}
+{220}{}{Tôi hiểu rồi.}
+{221}{eeld7}{Con phải phá hủy cái máy và tiêu diệt ác quỷ nơi này. Chúng ta sẽ gặp con ở bên ngoài! À mà Cứu tinh ơi, nếu con vẫn chưa tìm thấy GECK thì hãy tìm ở đây. Tự do để làm gì nếu chúng ta không thể cứu được ngôi làng. Giờ thì đi đi!}
+{222}{}{Tạm biệt.}
+{223}{eeld8}{Ta vẫn là Trưởng lão đấy. Đừng có hỗn! Xin lỗi ngay hoặc ta sẽ không giúp ngươi nữa đâu.}
+{224}{}{Xin lỗi, bà không phải bà già khó tính. Chuyện gì đang xảy ra thế?}
+{225}{}{Bà ở trong đó thì giúp cái đéo gì? Cuốn xéo rồi chết đi.}
+{226}{eeld9}{Cút đi. Mày chẳng khác gì đám quỷ đó cả. Ta tuyên bố mày không còn là Cứu tinh nữa.}
+{227}{eeld10}{Sao con lại ở đây? Mỗi phút con lãng phí là lại có thêm người trong tộc bị giết. Và đừng có quên GECK đấy! Chúng ta cần thứ đó.}
 {228}{}{Nuh??}
-{229}{}{Con c?n ph?i đi đâu?}
-{230}{}{Trêu tí thôi, con đi đây. Đ?ng lo.}
-{231}{eeld11}{(Th? dài) Đi xu?ng dư?i. Gi?t. Đ?p máy. Gi? th? đi đi!}
-{232}{eeld12}{L?n này th? nghe cho k?! Đi xu?ng t?ng bên dư?i. T?m cái máy t?o đi?n. D?ng nó l?i và chúng ta có th? thoát ra. Nh?ng k? ? đây không ph?i là Vault trong mơ đích th?c. Chúng là ác qu?. C?n n?a, n?u con v?n chưa t?m th?y GECK, h?y t?m ? đây. T? do đ? làm g? n?u không th? c?u đư?c ngôi làng. Gi? th? đi đi!}
-{233}{}{Hi?u r?i.}
-{234}{eeld13}{Chúng g?i nó như v?y. Chúng ch?c kim vào ngư?i chúng ta, gi?ng như stimpak, nhưng nh?ng th? kh?ng khi?p x?y ra. Sau đó... (n?c ngh?n)}
-{235}{}{Sau đó th? sao?}
-{236}{}{Th? đó kinh kh?ng l?m ph?i không?}
-{237}{eeld13a}{Sau đó trên da sôi lên như có gi?i ? trong. S?i b?t và v? tung. Máu phun ra t? l? tai, lư?i th? ph?ng lên. Nh?ng ngư?i ch?t đi c?n may. Nh?ng ngư?i không ch?t th?...}
-{238}{}{B?n chúng s? ph?i tr? giá.}
-{239}{}{Đúng là kinh vl. Con ph?i làm g? đây?}
+{229}{}{Con cần phải đi đâu?}
+{230}{}{Trêu tí thôi, con đi đây. Đừng lo.}
+{231}{eeld11}{(Thở dài) Đi xuống dưới. Giết. Đập máy. Giờ thì đi đi!}
+{232}{eeld12}{Lần này thì nghe cho kĩ! Đi xuống tầng bên dưới. Tìm cái máy tạo điện. Dừng nó lại và chúng ta có thể thoát ra. Những kẻ ở đây không phải là Vault trong mơ đích thực. Chúng là ác quỷ. Còn nữa, nếu con vẫn chưa tìm thấy GECK, hãy tìm ở đây. Tự do để làm gì nếu không thể cứu được ngôi làng. Giờ thì đi đi!}
+{233}{}{Hiểu rồi.}
+{234}{eeld13}{Chúng gọi nó như vậy. Chúng chọc kim vào người chúng ta, giống như stimpak, nhưng những thứ khủng khiếp xảy ra. Sau đó... (nấc nghẹn)}
+{235}{}{Sau đó thì sao?}
+{236}{}{Thứ đó kinh khủng lắm phải không?}
+{237}{eeld13a}{Sau đó trên da sôi lên như có giòi ở trong. Sủi bọt và vỡ tung. Máu phun ra từ lỗ tai, lưỡi thì phồng lên. Những người chết đi còn may. Những người không chết thì...}
+{238}{}{Bọn chúng sẽ phải trả giá.}
+{239}{}{Đúng là kinh vl. Con phải làm gì đây?}

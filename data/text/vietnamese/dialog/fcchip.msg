@@ -43,7 +43,7 @@
 {142}{}{No, not yet. But I will.}
 {143}{}{No. Actually, I'm not looking.}
 {144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.}
-{145}{}{Đư?c r?i.}
+{145}{}{Được rồi.}
 {146}{}{Không.}
 {147}{}{I really appreciate what you're doing for me. I won't forget it.}
 {148}{}{No prob.}
@@ -51,7 +51,7 @@
 {150}{}{Fine. I'll go talk to Fung.}
 {151}{}{Fine. I don't give a crap about you anyway.}
 {152}{}{If you could do something about it... kill him, or talk some sense into him, or something... I'll die without it.}
-{153}{}{Đ? tôi xem tôi có th? làm g?.}
+{153}{}{Để tôi xem tôi có thể làm gì.}
 {154}{}{Sorry, man... I think you're screwed. I can't help.}
 {155}{}{With no spleen, I'm going to die. Thanks for your help anyway.}
 {156}{}{I found it. Go over to Dr. Wong's place.}
@@ -78,16 +78,16 @@
 {177}{}{Nothing right now, thanks. Bye.}
 {178}{}{Check with the Captain. He lives in the captain's office upstairs.}
 {179}{}{Thanks. More questions...}
-{180}{}{Cám ơn. T?m bi?t.}
+{180}{}{Cám ơn. Tạm biệt.}
 {181}{}{Word has it they got taken west, across the water. Your best bet in getting there is getting this tub running.}
 {182}{}{Thanks. More questions...}
-{183}{}{Cám ơn. T?m bi?t.}
+{183}{}{Cám ơn. Tạm biệt.}
 {184}{}{Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.}
 {185}{}{Thanks. More questions...}
-{186}{}{Cám ơn. T?m bi?t.}
+{186}{}{Cám ơn. Tạm biệt.}
 {187}{}{Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.}
 {188}{}{Thanks. More questions...}
-{189}{}{Cám ơn. T?m bi?t.}
+{189}{}{Cám ơn. Tạm biệt.}
 {190}{}{Scumbag.}
 {191}{}{You're going to need some painkillers.}
 {192}{}{Dirtball. I'm going to work you over.}

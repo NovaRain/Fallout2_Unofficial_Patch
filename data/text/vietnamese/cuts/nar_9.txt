@@ -1,7 +1,7 @@
-1:Đ? xong.
-2:Vault 13 thu?c v? Kh?i Đoàn k?t và Ông Trùm.
-3:S? hi?u bi?t c?a b?n v? h? th?ng ph?ng th? trong Vault đ? c?u r?t nhi?u m?ng s?ng ngư?i đ?t bi?n trong cu?c t?n công.
-4:B?n t? m?nh đưa ra đ?n k?t li?u đ? l?y đi m?ng s?ng c?a Ngư?i giám sát.
-5:B?n ch?c ch?n s? tr? thành m?t trong nh?ng chi?n binh gi?i nh?t c?a Kh?i Đoàn k?t, k? năng c?a b?n s? mang đ?n r?t nhi?u ph?n thư?ng cho b?n trong tương lai.
-6:B?n th?y h?nh phúc.
-7:Nhưng ?n sâu bên trong n?i v?n vương v? ch? n?u...
+1:Đã xong.
+2:Vault 13 thuộc về Khối Đoàn kết và Ông Trùm.
+3:Sự hiểu biết của bạn về hệ thống phòng thủ trong Vault đã cứu rất nhiều mạng sống người đột biến trong cuộc tấn công.
+4:Bạn tự mình đưa ra đòn kết liễu để lấy đi mạng sống của Người giám sát.
+5:Bạn chắc chắn sẽ trở thành một trong những chiến binh giỏi nhất của Khối Đoàn kết, kĩ năng của bạn sẽ mang đến rất nhiều phần thưởng cho bạn trong tương lai.
+6:Bạn thấy hạnh phúc.
+7:Nhưng ẩn sâu bên trong nỗi vấn vương về chữ nếu...

@@ -23,7 +23,7 @@
 {122}{}{Patshhh? Patshh! Take moneee, fixx leaks.}
 {123}{}{Bye-bye.}
 {124}{}{Not nuff moneee. Bye-bye.}
-{125}{}{Đư?c r?i.}
+{125}{}{Được rồi.}
 {126}{}{That's pretty steep. How about }
 {127}{}{?}
 {128}{}{Never mind. How about my friend instead?}
@@ -59,7 +59,7 @@
 {158}{}{All right... from the looks of it, it's gonna cost }
 {159}{}{ bucks. You got the cash, then you're good to go.}
 {160}{}{No guarantees with the ol' Doctor in the back room, of course...}
-{161}{}{Đư?c r?i.}
+{161}{}{Được rồi.}
 {162}{}{That's pretty steep. How about }
 {163}{}{?}
 {164}{}{Never mind. How about me instead?}
@@ -69,7 +69,7 @@
 {168}{}{I've changed my mind. Maybe some other time.}
 {169}{}{Well, now... tell you what. }
 {170}{}{ bucks for the whole lot of you, and we'll call it even. What do you say?}
-{171}{}{Đư?c r?i.}
+{171}{}{Được rồi.}
 {172}{}{I don't know. That's a little steep. How about }
 {173}{}{ bucks?}
 {174}{}{Can you heal just me instead?}
@@ -135,7 +135,7 @@
 {234}{}{7000? Uh, 5000 bucks is all I have.}
 {235}{}{Hmmm. Tell me about the other implants.}
 {236}{}{Never mind. I had some other questions...}
-{237}{}{Tôi s? quay l?i khi nào có ti?n.}
+{237}{}{Tôi sẽ quay lại khi nào có tiền.}
 {238}{}{I'll come back when I get a set of Combat Armor.}
 {239}{}{I see. Maybe some other time.}
 {240}{}{Well, technically, "high impact" is standard Dermal Impact Armor with extra assault-issue impact plates crammed under your skin.}
@@ -161,7 +161,7 @@
 {260}{}{I don't know. 40K's pretty steep. I do have $30,000 on me, though.}
 {261}{}{Tell me about the other implants.}
 {262}{}{Never mind. I had some other questions.}
-{263}{}{Tôi s? quay l?i khi nào có ti?n.}
+{263}{}{Tôi sẽ quay lại khi nào có tiền.}
 {264}{}{I'll come back when I get a suit of Combat Armor.}
 {265}{}{I see. Maybe some other time.}
 {266}{}{The Phoenix Implants take the bite outta fire, lasers and plasma burns... about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
@@ -169,7 +169,7 @@
 {268}{}{$10,000's a bit out of my league. How about $8000?}
 {269}{}{Tell me about the other implants.}
 {270}{}{Never mind. I had some other questions.}
-{271}{}{Tôi s? quay l?i khi nào có ti?n.}
+{271}{}{Tôi sẽ quay lại khi nào có tiền.}
 {272}{}{I'll come back when I get a suit of combat armor.}
 {273}{}{I see. Maybe some other time.}
 {274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes.}
@@ -188,7 +188,7 @@
 {287}{}{40,000 and it's a deal.}
 {288}{}{Tell me about the other implants.}
 {289}{}{Never mind. I had some other questions.}
-{290}{}{Tôi s? quay l?i khi nào có ti?n.}
+{290}{}{Tôi sẽ quay lại khi nào có tiền.}
 {291}{}{I'll come back when I have another set of combat armor.}
 {292}{}{I see. Maybe some other time.}
 {293}{}{Well... that sounds fair.}

@@ -48,7 +48,7 @@
 {278}{}{I'm one of the new personnel assigned here.}
 {279}{}{I'm looking for Myron. Is he around?}
 {280}{}{Are those test results you have on that clipboard? Can I see them?}
-{282}{}{Không có g?. Xin l?i đ? làm phi?n.}
+{282}{}{Không có gì. Xin lỗi đã làm phiền.}
 {295}{}{This area is not open for... visitors. Leave or I will call the guards.}
 {296}{}{But hey, I had some questions for you...}
 {298}{}{Are those test results you have on that clipboard? Can I see them? I'm something of a researcher myself.}
@@ -66,7 +66,7 @@
  could be of some assistance in your studies.}
 {328}{}{I have to be going.}
 {335}{}{Ha! I think I'll just watch you go, period. Leave before I call the guards.}
-{336}{}{Đư?c r?i.}
+{336}{}{Được rồi.}
 {337}{}{I'm going...::mumble::...you bald-headed bitch.}
 {345}{}{Hmmmm. All right then. Let me give you a run-down on what we do here: we test the effects and potency of a metamphetamine
  called Jet.}

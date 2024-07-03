@@ -7,7 +7,7 @@
 {105}{}{You! Me! Go!}
 {106}{}{Ông là ai?}
 {107}{}{Why are you in jail?}
-{108}{}{Ông có th? nói g? v? nơi này?}
+{108}{}{Ông có thể nói gì về nơi này?}
 {109}{}{What can you tell me about Marcus?}
 {110}{}{I got no idea what you're saying, freak. Get out of my sight.}
 {111}{}{Oooooh...}
@@ -35,12 +35,12 @@
 {127}{}{Damn mutants. Just as I thought.}
 {128}{}{Yeah, I am a tough guy. If I weren't in jail, I'd prove it to you. You think you're tough?
  Think you can prove it, loser?}
-{129}{}{D? nhiên r?i.}
+{129}{}{Dĩ nhiên rồi.}
 {130}{}{I don't have anything to prove to you, lowlife.}
 {131}{}{Get the hell out of my sight, you jerk! I'd kill you if I had the chance!}
 {132}{}{Chào.}
 {133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
-{134}{}{Đúng v?y.}
+{134}{}{Đúng vậy.}
 {135}{}{Không.}
 {136}{}{Yeah? Then go talk to Jacob, the chemist. I'll catch you later.}
 {137}{}{Mutie-lover! Get outta here! I don't want to breathe the same air as you!}
@@ -56,7 +56,7 @@
 {147}{}{You went and screwed that all up! You gotta die now, pal!}
 {148}{}{Lets' get out of here.}
 {149}{}{Nutting. ByeBye.}
-{150}{}{Không có g?. Xin chào.}
+{150}{}{Không có gì. Xin chào.}
 {151}{}{This ain't justice. You oughta be ashamed of yourself.}
 {152}{}{Thanks for your help, friend. Let's go talk to Jacob and Aileen.}
 {153}{}{You have successfully performed the jailbreak.}

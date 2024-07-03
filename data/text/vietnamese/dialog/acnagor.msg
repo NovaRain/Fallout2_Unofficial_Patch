@@ -1,66 +1,66 @@
-{100}{}{B?n th?y c?u em h? Nagor. B?n không th?y con chó Smoke c?a c?u ta đâu c?.}
-{101}{}{B?n bi?t Nagor t? h?i c?n bé tí, và luôn giúp đ? c?u ta khi nào có th?.}
-{102}{}{Anh h?, r?t vui đư?c g?p anh! Em c?n anh giúp.}
-{103}{}{Th? l?i nhưng tôi không có th?i gian.}
-{104}{}{C?u c?n giúp g??}
-{105}{}{V?y th? em s? t? đi đ?n đ?t hoang!}
-{106}{}{Ch? đ?... c?u c?n giúp g? th??}
-{107}{}{C? đi đi.}
-{108}{}{Smoke đ? ch?y vào khu săn và v?n chưa quay v?. Gi? th? Morlis không đ? em đi t?m.
-M? b?o ch? đó quá nguy hi?m và nó ch? là chó thôi, nhưng em đ?nh có th? nào em 
-c?ng ph?i đi. Nhưng gi? có anh r?i. Anh có th? đi giúp và em s? không g?p
-r?c r?i n?a.}
-{109}{}{H?n r?i. Nhưng khu săn ? ch? nào?}
-{110}{}{Đư?c r?i. Đ? tôi đi t?m nó gi? đây.}
-{111}{}{Quên đi, tôi đâu có r?nh.}
-{112}{}{Anh làm sao th?, b? ăn đá ch?i vào đ?u à? Khu săn n?m cách xa l?u c?a
-Hakunin, phía B?c c?a làng.}
-{113}{}{Tôi s? s?m đưa nó quay v?.}
-{114}{}{Anh đ? t?m th?y Smoke chưa?}
-{115}{}{V?n chưa. C?u nói khu săn ? đâu th? nh??}
+{100}{}{Bạn thấy cậu em họ Nagor. Bạn không thấy con chó Smoke của cậu ta đâu cả.}
+{101}{}{Bạn biết Nagor từ hồi còn bé tí, và luôn giúp đỡ cậu ta khi nào có thể.}
+{102}{}{Anh họ, rất vui được gặp anh! Em cần anh giúp.}
+{103}{}{Thứ lỗi nhưng tôi không có thời gian.}
+{104}{}{Cậu cần giúp gì?}
+{105}{}{Vậy thì em sẽ tự đi đến đất hoang!}
+{106}{}{Chờ đã... cậu cần giúp gì thế?}
+{107}{}{Cứ đi đi.}
+{108}{}{Smoke đã chạy vào khu săn và vẫn chưa quay về. Giờ thì Morlis không để em đi tìm.
+Mẹ bảo chỗ đó quá nguy hiểm và nó chỉ là chó thôi, nhưng em định có thế nào em 
+cũng phải đi. Nhưng giờ có anh rồi. Anh có thể đi giúp và em sẽ không gặp
+rắc rối nữa.}
+{109}{}{Hẳn rồi. Nhưng khu săn ở chỗ nào?}
+{110}{}{Được rồi. Để tôi đi tìm nó giờ đây.}
+{111}{}{Quên đi, tôi đâu có rảnh.}
+{112}{}{Anh làm sao thế, bị ăn đá chọi vào đầu à? Khu săn nằm cách xa lều của
+Hakunin, phía Bắc của làng.}
+{113}{}{Tôi sẽ sớm đưa nó quay về.}
+{114}{}{Anh đã tìm thấy Smoke chưa?}
+{115}{}{Vẫn chưa. Cậu nói khu săn ở đâu thế nhỉ?}
 {116}{}{Chưa.}
-{117}{}{Anh đ? t?m th?y Smoke chưa?}
-{118}{}{Chưa. Tôi s? s?m quay l?i thôi.}
-{119}{}{Tôi r?t ti?c nhưng nó ch?t r?i.}
-{120}{}{Anh ch? nói v?y v? anh không mu?n đi t?m th? có! Em đéo s? Morlis nói g?,
-em ph?i đi t?m nó đây.}
-{121}{}{Nagor, n?u có chuy?n g? v?i c?u th? sao? D? Morlis s? ch? c?n l?i m?t m?nh và s?
-bu?n l?m đ?y. C?u không mu?n làm d? bu?n ch?, đúng không?}
-{122}{}{C? đi đi.}
-{123}{}{Th?... không, em không mu?n làm vây. Đư?c r?i, em s? không đi, nhưng như v?y không công b?ng!}
-{124}{}{Smoke s? ?n thôi. T?m bi?t.}
-{125}{}{Anh t?m th?y Smoke r?i! Cám ơn! Smoke, đ? chó hư!}
-{126}{}{Không có g?. T?m bi?t.}
-{127}{}{Cám ơn l?n n?a. Hi v?ng anh có m?t chuy?n đi th?t vui!}
-{128}{}{Em nh? Smoke quá. Sao anh l?i không c?u nó ch?? Anh là C?u tinh cơ mà.}
-{129}{}{Tôi b?n, đ? đ?n. Đi ch? khác chơi đi.}
+{117}{}{Anh đã tìm thấy Smoke chưa?}
+{118}{}{Chưa. Tôi sẽ sớm quay lại thôi.}
+{119}{}{Tôi rất tiếc nhưng nó chết rồi.}
+{120}{}{Anh chỉ nói vậy vì anh không muốn đi tìm thì có! Em đéo sợ Morlis nói gì,
+em phải đi tìm nó đây.}
+{121}{}{Nagor, nếu có chuyện gì với cậu thì sao? Dì Morlis sẽ chỉ còn lại một mình và sẽ
+buồn lắm đấy. Cậu không muốn làm dì buồn chứ, đúng không?}
+{122}{}{Cứ đi đi.}
+{123}{}{Thì... không, em không muốn làm vây. Được rồi, em sẽ không đi, nhưng như vậy không công bằng!}
+{124}{}{Smoke sẽ ổn thôi. Tạm biệt.}
+{125}{}{Anh tìm thấy Smoke rồi! Cám ơn! Smoke, đồ chó hư!}
+{126}{}{Không có gì. Tạm biệt.}
+{127}{}{Cám ơn lần nữa. Hi vọng anh có một chuyến đi thật vui!}
+{128}{}{Em nhớ Smoke quá. Sao anh lại không cứu nó chứ? Anh là Cứu tinh cơ mà.}
+{129}{}{Tôi bận, đồ đần. Đi chỗ khác chơi đi.}
 {130}{}{Tôi đi.}
-{131}{}{Tôi s? đi t?m Smoke.}
-{200}{}{Xin chào anh h?... ?, ? em là C?u tinh. Em hi v?ng là anh đ? t?m th?y GECK. Em nghe
-m?i ngư?i nói nhi?u v? th?i k? khó khăn s?p đ?n r?i.}
-{201}{}{Xin chào anh h?... ?, ? em là C?u tinh. Em hi v?ng là anh đ? t?m th?y GECK. Em nghe
-m?i ngư?i nói nhi?u v? th?i k? khó khăn s?p đ?n r?i.}
-{202}{}{Ng? v?n t?m, Nagor.}
-{203}{}{Tôi v?n đang đi t?m, em h? ?.}
-{204}{}{Chào m?ng tr? v?, anh h?. M?i th? ? nhà đang hơi lo?n. Anh đ? t?m th?y s? 13 th?n thánh và
+{131}{}{Tôi sẽ đi tìm Smoke.}
+{200}{}{Xin chào anh họ... ừ, ý em là Cứu tinh. Em hi vọng là anh đã tìm thấy GECK. Em nghe
+mọi người nói nhiều về thời kì khó khăn sắp đến rồi.}
+{201}{}{Xin chào anh họ... ừ, ý em là Cứu tinh. Em hi vọng là anh đã tìm thấy GECK. Em nghe
+mọi người nói nhiều về thời kì khó khăn sắp đến rồi.}
+{202}{}{Ngộ vẫn tìm, Nagor.}
+{203}{}{Tôi vẫn đang đi tìm, em họ ạ.}
+{204}{}{Chào mừng trở về, anh họ. Mọi thứ ở nhà đang hơi loạn. Anh đã tìm thấy số 13 thần thánh và
 GECK chưa?}
-{205}{}{Chào m?ng tr? v?, anh h?. M?i th? ? nhà đang hơi lo?n. Anh đ? t?m th?y s? 13 th?n thánh và
+{205}{}{Chào mừng trở về, anh họ. Mọi thứ ở nhà đang hơi loạn. Anh đã tìm thấy số 13 thần thánh và
 GECK chưa?}
-{206}{}{Ng? không t?m. Xin l?i.}
-{207}{}{Tôi xin l?i, Nagor. Tôi v?n đang t?m.}
-{208}{}{Xin chào, anh h?. Em ch?c anh c?ng th?y là m?i th? nát như tương r?i. Làm ơn đi t?m
-GECK đi. Chúng ta nguy c?p l?m r?i!}
-{209}{}{Xin chào, anh h?. Em ch?c anh c?ng th?y là m?i th? nát như tương r?i. Làm ơn đi t?m
-GECK đi. Chúng ta nguy c?p l?m r?i!}
-{210}{}{Chào, em h?.}
-{211}{}{Chào, em h?.}
-{212}{}{C?u nghe không như m?i khi.}
-{213}{}{C?u nghe có v? không gi?ng như m?i khi.}
-{214}{}{Em xin l?i, anh h?. M?i th? đang ngày càng t? hơn sau khi anh đi. M?i ngư?i thi nhau b? b?nh,
-đàn b? th? ch?t và... em... con chó Smoke c?a em đ? ch?t - Morlis đ? n?u nó lên. Em nh? nó quá. Xin l?i,
-nhưng em không th? nói chuy?n thêm n?a...}
-{215}{}{Em xin l?i, anh h?. M?i th? đang ngày càng t? hơn sau khi anh đi. M?i ngư?i thi nhau b? b?nh,
-đàn b? th? ch?t và... em... con chó Smoke c?a em đ? ch?t. Em nh? nó quá. Xin l?i, nhưng em
-không th? nói chuy?n thêm n?a...}
-{300}{}{B?n th?y Nagor.}
-{302}{}{Anh h?, r?t vui đư?c g?p anh! Em c?n anh giúp.}
+{206}{}{Ngộ không tìm. Xin lỗi.}
+{207}{}{Tôi xin lỗi, Nagor. Tôi vẫn đang tìm.}
+{208}{}{Xin chào, anh họ. Em chắc anh cũng thấy là mọi thứ nát như tương rồi. Làm ơn đi tìm
+GECK đi. Chúng ta nguy cấp lắm rồi!}
+{209}{}{Xin chào, anh họ. Em chắc anh cũng thấy là mọi thứ nát như tương rồi. Làm ơn đi tìm
+GECK đi. Chúng ta nguy cấp lắm rồi!}
+{210}{}{Chào, em họ.}
+{211}{}{Chào, em họ.}
+{212}{}{Cậu nghe không như mọi khi.}
+{213}{}{Cậu nghe có vẻ không giống như mọi khi.}
+{214}{}{Em xin lỗi, anh họ. Mọi thứ đang ngày càng tệ hơn sau khi anh đi. Mọi người thi nhau bị bệnh,
+đàn bò thì chết và... em... con chó Smoke của em đã chết - Morlis đã nấu nó lên. Em nhớ nó quá. Xin lỗi,
+nhưng em không thể nói chuyện thêm nữa...}
+{215}{}{Em xin lỗi, anh họ. Mọi thứ đang ngày càng tệ hơn sau khi anh đi. Mọi người thi nhau bị bệnh,
+đàn bò thì chết và... em... con chó Smoke của em đã chết. Em nhớ nó quá. Xin lỗi, nhưng em
+không thể nói chuyện thêm nữa...}
+{300}{}{Bạn thấy Nagor.}
+{302}{}{Anh họ, rất vui được gặp anh! Em cần anh giúp.}

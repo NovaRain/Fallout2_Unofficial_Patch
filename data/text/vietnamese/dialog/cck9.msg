@@ -14,7 +14,7 @@
  English language. Therefore it is safe to assume that I am a talking dog. Now, do
  you intend to answer the question that I posed to you a moment ago?}
 {110}{}{Sorry, me forget question.}
-{111}{}{Đúng v?y.}
+{111}{}{Đúng vậy.}
 {112}{}{Không.}
 {113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
 {114}{}{Ready what?}
@@ -51,7 +51,7 @@
  you my new master?}
 {139}{}{Okay.}
 {140}{}{Không.}
-{141}{}{Đư?c r?i.}
+{141}{}{Được rồi.}
 {142}{}{No thanks.}
 {143}{}{You are not my master. I cannot speak to you. Good bye.}
 {144}{}{Okay.}

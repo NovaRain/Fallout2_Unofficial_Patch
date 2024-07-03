@@ -2,7 +2,7 @@
 {101}{}{You see Matthew.}
 {102}{}{You see a man wearing metal armor with a lightning bolt insignia on it.}
 {103}{}{Hello,}
-{104}{}{. Ta có th? giúp g? cho b?n?}
+{104}{}{. Ta có thể giúp gì cho bạn?}
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
 {107}{}{You can start by answering some questions.}
@@ -12,7 +12,7 @@
 {111}{}{Who you guys?}
 {112}{}{Why nobody mention you?}
 {113}{}{Why only one person here?}
-{114}{}{Ng? đi gi?.}
+{114}{}{Ngộ đi giờ.}
 {115}{}{Who are you guys?}
 {116}{}{Why is it that nobody around here mentions you?}
 {117}{}{Why do you have only one person here?}
@@ -98,7 +98,7 @@
 {197}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
 {198}{}{Okay.}
 {199}{}{You say you 'sources.' What they be?}
-{200}{}{Đư?c r?i.}
+{200}{}{Được rồi.}
 {201}{}{You mentioned your 'sources.' Who would they be?}
 {202}{}{I had an operative go and scout the base. Her reports recently stopped; I can only assume the worst. Please be careful}
 {203}{}{. I don't enjoy sending people to their deaths.}

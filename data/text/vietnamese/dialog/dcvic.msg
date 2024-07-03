@@ -2,7 +2,7 @@
 {101}{}{You see Vic.}
 {150}{}{This slave seems to be kept under tight surveillance.}
 {151}{}{This is Vic.}
-{152}{}{[NÓI CHUY?N]}
+{152}{}{[NÓI CHUYỆN]}
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
 {154}{}{My name is }
@@ -25,7 +25,7 @@
 {168}{}{Where can I get the parts?}
 {169}{}{Maybe I can repair it.}
 {170}{}{Can you use this radio I found?}
-{171}{}{Đ? tôi xem tôi có th? làm g?.}
+{171}{}{Để tôi xem tôi có thể làm gì.}
 {172}{}{Spa pa?}
 {173}{}{I know I can do it, I just need some spare parts. There is an old radio in
  my shack back in Klamath that has exactly what I need. You been to the Dunton's?
@@ -47,7 +47,7 @@
 {189}{}{Vault 13? There's a Vault City east of here. I trade there,
  sometimes.}
 {190}{}{Want to go there with me?}
-{191}{}{Cám ơn. T?m bi?t.}
+{191}{}{Cám ơn. Tạm biệt.}
 {192}{}{Sure, I'll join up with you! This old fart has one big adventure left
  in him. I'm sure of it! I'm pretty good at repairing things too, despite what
  Metzger says.}
@@ -93,7 +93,7 @@
  Only problem is that Metzger's got me locked up here until I fix this radio and
  I don't have the parts I need.}
 {753}{}{Where can I get the parts you need?}
-{754}{}{Đ? tôi xem tôi có th? làm g?.}
+{754}{}{Để tôi xem tôi có thể làm gì.}
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
  he expect me to fix it?}
@@ -174,13 +174,13 @@
 {2310}{}{He should be around here somewhere.}
 {2311}{}{Vault City. Check that fancy map thing of yours.}
 {2403}{}{Where did you get the Vault 13 water flask?}
-{2404}{}{Không có g?.}
+{2404}{}{Không có gì.}
 {2500}{}{Sure, Boss.}
 {2501}{}{Ask anything, Boss.}
 {2502}{}{I'll help you if I can, Boss.}
 {2503}{}{I'm not in trouble am I, Boss?}
 {2504}{}{Did I do something wrong, Boss?}
-{2505}{}{D? nhiên r?i.}
+{2505}{}{Dĩ nhiên rồi.}
 {2600}{}{What'll we do now, Boss?}
 {2601}{}{What's the plan, Boss?}
 {2602}{}{Doing my best, Boss.}
@@ -204,7 +204,7 @@
 {2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
 {2810}{}{Let's go.}
 {2811}{}{Stay here. I'll be right back.}
-{2812}{}{Ng? đi.}
+{2812}{}{Ngộ đi.}
 {3100}{}{What? Uh... okay, Boss. If you say so.}
 {3101}{}{Can I put something else on, Boss? I'm a little worried.}
 {3102}{}{Okay... you're not going to leave me here... Are you, Boss?}

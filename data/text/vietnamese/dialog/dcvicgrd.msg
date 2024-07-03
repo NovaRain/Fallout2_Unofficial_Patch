@@ -77,7 +77,7 @@
 {395}{}{Yes. Here.}
 {396}{}{No. I'll come back.}
 {397}{}{Who's your boss?}
-{398}{}{Không có g?. Xin chào.}
+{398}{}{Không có gì. Xin chào.}
 {410}{}{Stop bothering me. Go talk to Metzger. He's the boss.}
 {411}{}{Leave me alone! What's your problem?}
 {412}{}{I said talk to Metzger!}
@@ -88,7 +88,7 @@
 {431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man... but I'm sure you'll do.}
 {432}{}{Talk to Metzger.}
 {433}{}{Ruru?}
-{434}{}{??}
+{434}{}{Ừ?}
 {435}{}{Oh.}
 {450}{}{Get him, guys.}
 {451}{}{Get her, guys.}
@@ -99,7 +99,7 @@
 {470}{}{Well, uh... I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}
-{473}{}{Đư?c thôi.}
+{473}{}{Được thôi.}
 {474}{}{Sorry, can't afford that.}
 {480}{}{Fine, see if I care.}
 {481}{}{Okay.}

@@ -34,13 +34,13 @@
 {133}{}{I have no idea what you are talking about. Do you have real question?}
 {134}{}{I'm searching for Vault 13.}
 {135}{}{I understand the president has a job to be done.}
-{136}{}{Không có g?.}
+{136}{}{Không có gì.}
 {137}{}{Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.}
 {138}{}{Madam President is finished with you? How did things go?}
 {139}{}{Good. Me bye-bye.}
 {140}{}{Just fine. Now, I'm out of here.}
 {141}{}{Here to report the outcome of Vault 15?}
-{142}{}{Đúng v?y.}
+{142}{}{Đúng vậy.}
 {143}{}{Không.}
 {144}{}{Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?}
 {145}{}{Okay.}
@@ -57,7 +57,7 @@
 {156}{}{Let's see. Contract says $500. Here you are.}
 {157}{}{In fact, she just buzzed me to change your amount - seems you earned a bonus. Here it is, $900 and NCR's thanks. Now, there is work to be done, so goodbye.}
 {158}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}
-{159}{}{T?m bi?t.}
+{159}{}{Tạm biệt.}
 {160}{}{Feargus? I don't believe it!}
 {161}{}{Take a look at this disk.}
 {162}{}{Whatever. I'm out of here.}
@@ -66,7 +66,7 @@
 {165}{}{Thanks. Have a nice day.}
 {166}{}{Oh, it's you. Look, this is not a good time. In fact, I think Madam President would rather not get you involved in anything else. Thank you and good day.}
 {167}{}{Let me make myself clear. The President is not going to see you - now or ever. You've been paid. Now just leave.}
-{171}{}{Ng? đi.}
+{171}{}{Ngộ đi.}
 {172}{}{Absolutely nothing.}
 {173}{}{You bitch! Guards! Assassin. Murderer!}
 {174}{}{I've been to Vault 15 and I need to talk to your boss about it.}

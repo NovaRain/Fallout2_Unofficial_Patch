@@ -1,71 +1,71 @@
-{100}{}{B?n th?y m?t ngư?i đàn ông trong làng.}
-{101}{}{B?n th?y m?t ph? n? trong làng.}
-{150}{}{M?t thành viên t?t b?ng trong làng.}
-{151}{}{[NÓI CHUY?N]}
-{152}{}{Xin chào! Tôi nghe nói anh là C?u tinh. Có l? ngôi làng s?p đư?c c?u r?i.}
-{153}{}{Có th? nói cho tôi ch? t?m b?t ch?a thương đư?c không?}
-{154}{}{Nói cho tôi bi?t v? thương gia hay đ?n đây mua bán đư?c không?}
-{155}{}{Nói chuy?n vui l?m, nhưng tôi ph?i đi đây.}
-{156}{}{Các th?n phù h? cho hành tr?nh c?a anh.}
-{157}{}{Tôi có câu h?i này.}
-{158}{}{Chào nhé, b?n tôi.}
-{159}{}{Đ?n g?p Hakunin ? góc phía B?c ngôi làng. Ông ta s? giúp.}
-{160}{}{Cám ơn. T?m bi?t.}
-{161}{}{?, tôi không tr?c ti?p mua bán v?i ông ta. H?y đ?n nói chuy?n v?i Mynoc, ngư?i gác
-cây c?u l?n. Anh ta lo vi?c đón khách.}
-{162}{}{Cám ơn. T?m bi?t.}
-{163}{}{Cây c?u l?n ? ch? nào nh??}
-{164}{}{Tôi h?i thêm câu n?a nhé.}
-{165}{}{Đùa hay đ?y, C?u tinh! Ai c?ng bi?t mà. L?i đó -- v? phía Nam.}
-{166}{}{Cám ơn. T?m bi?t.}
-{167}{}{Tôi h?i thêm câu n?a nhé.}
-{168}{}{D? nhiên r?i, g? th??}
-{169}{}{Tôi có th? t?m th?o dư?c ? đâu đư?c?}
-{170}{}{Nói cho tôi bi?t v? thương gia hay đ?n đây mua bán đư?c không?}
-{171}{}{Không có g?.}
-{172}{}{Ơi các th?n linh -- c?u cho linh h?n c?a Ngư?i sáng l?p d?n đư?ng cho anh. N?u qu? th?c
-anh là C?u tinh th? chúng ta s? c?n đư?c phù h? như v?y.}
+{100}{}{Bạn thấy một người đàn ông trong làng.}
+{101}{}{Bạn thấy một phụ nữ trong làng.}
+{150}{}{Một thành viên tốt bụng trong làng.}
+{151}{}{[NÓI CHUYỆN]}
+{152}{}{Xin chào! Tôi nghe nói anh là Cứu tinh. Có lẽ ngôi làng sắp được cứu rồi.}
+{153}{}{Có thể nói cho tôi chỗ tìm bột chữa thương được không?}
+{154}{}{Nói cho tôi biết về thương gia hay đến đây mua bán được không?}
+{155}{}{Nói chuyện vui lắm, nhưng tôi phải đi đây.}
+{156}{}{Các thần phù hộ cho hành trình của anh.}
+{157}{}{Tôi có câu hỏi này.}
+{158}{}{Chào nhé, bạn tôi.}
+{159}{}{Đến gặp Hakunin ở góc phía Bắc ngôi làng. Ông ta sẽ giúp.}
+{160}{}{Cám ơn. Tạm biệt.}
+{161}{}{Ồ, tôi không trực tiếp mua bán với ông ta. Hãy đến nói chuyện với Mynoc, người gác
+cây cầu lớn. Anh ta lo việc đón khách.}
+{162}{}{Cám ơn. Tạm biệt.}
+{163}{}{Cây cầu lớn ở chỗ nào nhỉ?}
+{164}{}{Tôi hỏi thêm câu nữa nhé.}
+{165}{}{Đùa hay đấy, Cứu tinh! Ai cũng biết mà. Lối đó -- về phía Nam.}
+{166}{}{Cám ơn. Tạm biệt.}
+{167}{}{Tôi hỏi thêm câu nữa nhé.}
+{168}{}{Dĩ nhiên rồi, gì thế?}
+{169}{}{Tôi có thể tìm thảo dược ở đâu được?}
+{170}{}{Nói cho tôi biết về thương gia hay đến đây mua bán được không?}
+{171}{}{Không có gì.}
+{172}{}{Ơi các thần linh -- cầu cho linh hồn của Người sáng lập dẫn đường cho anh. Nếu quả thực
+anh là Cứu tinh thì chúng ta sẽ cần được phù hộ như vậy.}
 {173}{}{Ù gà.}
-{174}{}{Lên đư?ng an toàn.}
+{174}{}{Lên đường an toàn.}
 {175}{}{????}
-{176}{}{Chúng ta tiêu r?i! Anh đ? th?t b?i.}
-{177}{}{Anh không th? ti?p t?c th? này đư?c.}
-{180}{}{Mày đ? ph?n b?i chính nh?ng ngư?i đ?ng t?c.}
-{181}{}{T?i sao mày l?i làm th??}
-{182}{}{Mày là ác qu?. C?u tinh là ác qu?!}
-{183}{}{H? đ?n t? phía Đông, nhưng đ? c?a h? chán l?m.}
-{184}{}{Tôi có th? t?m th?o dư?c ? đâu đư?c?}
-{185}{}{Cám ơn. T?m bi?t.}
-{186}{}{Tôi h?i thêm câu n?a nhé.}
-{300}{}{Chào, C?u tinh. R?t vui đư?c g?p l?i. C?u cho nhi?m v? th?n thành luôn suôn s?. Tôi có th? giúp g? không?}
-{301}{}{C?u tinh, m?i ngư?i đang ch?t d?n. C?n ph?i đi t?m GECK th?n thánh nhanh lên. Tôi có th? giúp g? đ? giúp đ? nhi?m v? th?n thánh đây?}
-{302}{}{Chúng ta s?p h?t th?i gian r?i, C?u tinh ơi. Làm ơn s?m hoàn thành nhi?m v? th?n thánh đi. Chúng ta không ch? đư?c lâu hơn n?a đâu. N?u tôi có th? giúp g? đ? c?u chúng ta th? h?y nói đi.}
-{303}{}{C?u tinh, ngôi làng s?p tiêu r?i... Anh là ni?m hi v?ng duy nh?t c?a chúng ta. Li?u
-tôi có th? giúp g? đ? c?u chúng ta không?}
-{1000}{}{Trư?ng l?o}
-{1001}{}{Ngư?i m? làng}
-{1002}{}{C? t? t? Vault}
+{176}{}{Chúng ta tiêu rồi! Anh đã thất bại.}
+{177}{}{Anh không thể tiếp tục thế này được.}
+{180}{}{Mày đã phản bội chính những người đồng tộc.}
+{181}{}{Tại sao mày lại làm thế?}
+{182}{}{Mày là ác quỷ. Cứu tinh là ác quỷ!}
+{183}{}{Họ đến từ phía Đông, nhưng đồ của họ chán lắm.}
+{184}{}{Tôi có thể tìm thảo dược ở đâu được?}
+{185}{}{Cám ơn. Tạm biệt.}
+{186}{}{Tôi hỏi thêm câu nữa nhé.}
+{300}{}{Chào, Cứu tinh. Rất vui được gặp lại. Cầu cho nhiệm vụ thần thành luôn suôn sẻ. Tôi có thể giúp gì không?}
+{301}{}{Cứu tinh, mọi người đang chết dần. Cần phải đi tìm GECK thần thánh nhanh lên. Tôi có thể giúp gì để giúp đỡ nhiệm vụ thần thánh đây?}
+{302}{}{Chúng ta sắp hết thời gian rồi, Cứu tinh ơi. Làm ơn sớm hoàn thành nhiệm vụ thần thánh đi. Chúng ta không chờ được lâu hơn nữa đâu. Nếu tôi có thể giúp gì để cứu chúng ta thì hãy nói đi.}
+{303}{}{Cứu tinh, ngôi làng sắp tiêu rồi... Anh là niềm hi vọng duy nhất của chúng ta. Liệu
+tôi có thể giúp gì để cứu chúng ta không?}
+{1000}{}{Trưởng lão}
+{1001}{}{Người mở làng}
+{1002}{}{Cụ tổ từ Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{C?u tinh}
-{1007}{}{Th?y cúng}
+{1006}{}{Cứu tinh}
+{1007}{}{Thầy cúng}
 {1008}{}{Hakunin}
-{1009}{}{B?t ch?a thương}
-{1010}{}{C?u}
+{1009}{}{Bột chữa thương}
+{1010}{}{Cầu}
 {1011}{}{Mynoc}
-{1100}{}{Trư?ng l?o là m? c?u đ?ng th?i là trư?ng làng.}
-{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
-{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
-{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
-{1104}{}{Đó là m?t khu buôn bán cách nơi này vài ngày v? phía Đông.}
-{1105}{}{Vault là thiên đư?ng.}
-{1106}{}{C?u là C?u tinh.}
-{1107}{}{Ông ta ch?a thương b?ng th?o dư?c và phép thu?t. Ông ta ? khu
-phía B?c c?a ngôi làng.}
-{1108}{}{Ông ta ch?a thương b?ng th?o dư?c và phép thu?t. Ông ta ? khu
-phía B?c c?a ngôi làng.}
-{1109}{}{Đây là b?t ch?a thương có th? ch?a lành cho anh, nhưng s? khi?n
-anh th?y bu?n ng?.}
-{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
-{1111}{}{Anh ta canh gác cây c?u d?n vào làng chúng ta.}
+{1100}{}{Trưởng lão là mẹ cậu đồng thời là trưởng làng.}
+{1101}{}{Cụ tổ vĩ đại đã truyền kiến thức cho chúng ta.}
+{1102}{}{Người đầu tiên chiến đấu và chiến thắng cái xấu.}
+{1103}{}{Đó là ngôi làng xinh đẹp của chúng ta.}
+{1104}{}{Đó là một khu buôn bán cách nơi này vài ngày về phía Đông.}
+{1105}{}{Vault là thiên đường.}
+{1106}{}{Cậu là Cứu tinh.}
+{1107}{}{Ông ta chữa thương bằng thảo dược và phép thuật. Ông ta ở khu
+phía Bắc của ngôi làng.}
+{1108}{}{Ông ta chữa thương bằng thảo dược và phép thuật. Ông ta ở khu
+phía Bắc của ngôi làng.}
+{1109}{}{Đây là bột chữa thương có thể chữa lành cho anh, nhưng sẽ khiến
+anh thấy buồn ngủ.}
+{1110}{}{Cây Cầu Lớn dẫn ra ngoài làng ở phía Nam.}
+{1111}{}{Anh ta canh gác cây cầu dẫn vào làng chúng ta.}

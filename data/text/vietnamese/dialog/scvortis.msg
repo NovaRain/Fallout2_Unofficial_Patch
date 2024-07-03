@@ -9,7 +9,7 @@
 {108}{}{}
 {109}{}{Just got some questions.}
 {110}{}{I'm looking for work.}
-{111}{}{??}
+{111}{}{Ừ?}
 {112}{}{Not outhouse? Me go away.}
 {113}{}{What's this place do?}
 {114}{}{Nothing. Wrong place.}
@@ -23,7 +23,7 @@
 {122}{}{I heard there's these guys - New California Rangers. They been giving you any trouble?}
 {123}{}{Mind if I have a look around?}
 {124}{}{Work? Well... there might be something. You ever hear of the New California Rangers?}
-{125}{}{Đúng v?y.}
+{125}{}{Đúng vậy.}
 {126}{}{Không.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
 {128}{}{Bite me!}
@@ -40,13 +40,13 @@
 {139}{}{Another question...}
 {140}{}{Whatever you say. I'll be going.}
 {141}{}{Yeah, I may have some feelings about the Rangers. You looking for work?}
-{142}{}{Đúng v?y.}
+{142}{}{Đúng vậy.}
 {143}{}{Không.}
 {144}{}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
 {145}{}{Another question...}
 {146}{}{You're too touchy for me. I'm leaving.}
 {147}{}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you could get that for me?}
-{148}{}{Đư?c thôi.}
+{148}{}{Được thôi.}
 {149}{}{I don't think so.}
 {150}{}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
 {151}{}{They work in secret, especially up north.}
@@ -62,7 +62,7 @@
 {161}{}{Just a few more questions.}
 {162}{}{Alright. I'll be back.}
 {163}{}{You're back again. Did you get that map?}
-{164}{}{Đúng v?y.}
+{164}{}{Đúng vậy.}
 {165}{}{Không.}
 {166}{}{I'm still waiting for you to finish the first job!}
 {167}{}{Oh yeah, I forgot.}

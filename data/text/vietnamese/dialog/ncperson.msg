@@ -315,7 +315,7 @@
 {625}{}{Fortune's against me.}
 {626}{}{Glad they put that guy on the rack...}
 {627}{}{Filthy stinkard...}
-{628}{}{Mu?n g??}
+{628}{}{Muốn gì?}
 {629}{}{Bad luck, ill wind, not good times, not good times...}
 {630}{}{Reno's a-heating up, time ta move on.}
 {631}{}{That Bishop daughter is out of control.}
@@ -355,7 +355,7 @@
 {676}{}{Fortune's against me.}
 {677}{}{Glad they put that guy on the rack...}
 {678}{}{Filthy stinkard...}
-{679}{}{Mu?n g??}
+{679}{}{Muốn gì?}
 {680}{}{Bad luck, ill wind, not good times, not good times...}
 {681}{}{Reno's a-heating up, time ta move on.}
 {682}{}{That Bishop daughter is out of control.}
@@ -399,7 +399,7 @@
 {722}{}{Fortune's against me.}
 {723}{}{Glad they put that guy on the rack...}
 {724}{}{Filthy stinkard...}
-{725}{}{Mu?n g??}
+{725}{}{Muốn gì?}
 {726}{}{Bad luck, ill wind, not good times, not good times...}
 {727}{}{Reno's a-heating up, time ta move on.}
 {728}{}{That Bishop daughter is out of control.}

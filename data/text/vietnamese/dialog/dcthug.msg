@@ -4,7 +4,7 @@
 {152}{}{You lookin' for trouble?}
 {153}{}{Keep right on walking.}
 {154}{}{Not interested.}
-{155}{}{Bi?n đi.}
+{155}{}{Biến đi.}
 {200}{}{Hey punk.}
 {201}{}{You want some trouble?}
 {202}{}{Come here, sissy.}

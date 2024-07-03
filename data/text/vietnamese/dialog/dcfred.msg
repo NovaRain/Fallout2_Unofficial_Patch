@@ -43,7 +43,7 @@
 {295}{}{Huh? Do I know you? What do you want?}
 {296}{}{Why do you keep bothering me? I don't even know you. Go bug someone else.}
 {297}{}{I'm here to collect some money you owe someone.}
-{298}{}{Không có g?.}
+{298}{}{Không có gì.}
 {299}{}{Uk!}
 {300}{}{Chào.}
 {310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}
@@ -69,11 +69,11 @@
 {360}{}{Thanks a lot for covering for me. It really meant a lot to me, to be trusted by a complete stranger. Let me give you this.}
 {361}{}{Okay.}
 {362}{}{You shouldn't have.}
-{363}{}{?.}
+{363}{}{Ừ.}
 {370}{}{I owe you a lot. You trusted me when I was down on my luck. As a small gesture of gratitude I have something for you.}
 {371}{}{Okay.}
 {372}{}{You shouldn't have.}
-{373}{}{?.}
+{373}{}{Ừ.}
 {380}{}{Here. [Fred give you $1000.] I hope this helps. I'm sure you'll find someplace to spend it.}
 {381}{}{Sorry, I can't accept this.}
 {382}{}{Cám ơn.}
@@ -131,7 +131,7 @@
 {531}{}{Okay fine.}
 {532}{}{No deal.}
 {540}{}{Just $50. Please! It's all part of the master plan!}
-{541}{}{Đư?c r?i.}
+{541}{}{Được rồi.}
 {542}{}{But that'll only leave me with $50 to pay your $200 loan.}
 {543}{}{Không.}
 {550}{}{Wha- uh... Damn! You won't regret this! I'm good for it!}
@@ -150,7 +150,7 @@
 {590}{}{I don't remember... but Becky sure has helped me and my friends out in the past.}
 {591}{}{Hand over the $200.}
 {592}{}{Just give me the money.}
-{600}{}{Đ? tôi yên.}
+{600}{}{Để tôi yên.}
 {601}{}{Whatever.}
 {602}{}{Okay.}
 {610}{}{Uh. Hi again. So, uh, I suppose you want the money. Do you think you could cover me for half?}

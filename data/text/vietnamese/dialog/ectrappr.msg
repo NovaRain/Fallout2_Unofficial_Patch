@@ -9,7 +9,7 @@
 {107}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into
  town.}
 {108}{}{What do you have?}
-{109}{}{Không có g?.}
+{109}{}{Không có gì.}
 {110}{}{Ug.}
 {111}{}{Here's what I got:}
 {112}{}{regular gecko pelts.}
@@ -23,7 +23,7 @@
 {119}{}{Seems you're short on cash. How bout give'n me 5 minutes with yer man. You know what I mean. I can give you pelts in trade.}
 {120}{}{Seems you're short on cash. Tell you what, I've been in these woods for a LONG time, if you
  catch my drift. I'll make it worth your while.}
-{121}{}{Đư?c thôi.}
+{121}{}{Được thôi.}
 {122}{}{Not a chance. Bye.}
 {123}{}{[Miria will forgive you... eventually. But on the positive side, the trapper gave you some
  pelts.]}
@@ -32,7 +32,7 @@
 {126}{}{Chào.}
 {127}{}{[He holds up his right hand and says] How. Me mighty trapper. Hunt big geckos. Me no mean
  trespass on your land. Leave peacefully. [He hands you a gecko pelt as a gift.]}
-{128}{}{[K?T THÚC]}
+{128}{}{[KẾT THÚC]}
 {129}{}{I've got no more business with you.}
 {130}{}{Yellow bellied sapsucker!}
 {131}{}{This is my hunting territory. Leave!}

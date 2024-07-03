@@ -1,8 +1,8 @@
-{100}{}{B?n th?y m?t lính gác.}
+{100}{}{Bạn thấy một lính gác.}
 {150}{}{The guard is guarding the old church.}
-{151}{}{[NÓI CHUY?N]}
+{151}{}{[NÓI CHUYỆN]}
 {152}{}{How dare you show your face again!}
-{153}{}{[Đ? xong]}
+{153}{}{[Đã xong]}
 {154}{}{Ho! No one enters the Family Wright warehouse at night!}
 {155}{}{Well, Mr. Wright himself sent me on an errand. If you don't know about it, too bad.}
 {156}{}{I'll come back tomorrow.}
@@ -43,4 +43,4 @@
 {203}{}{Just finish up your business, thank you.}
 {250}{}{You know, pal, I've had enough of your shit!}
 {251}{}{You know, bitch, I've had enough of your shit!}
-{252}{}{[K?T THÚC]}
+{252}{}{[KẾT THÚC]}

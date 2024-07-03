@@ -25,14 +25,14 @@
 {173}{}{Sorry, I don't have anything for you. Bye.}
 {174}{}{Do you know where I can find a GECK?}
 {175}{}{You mentioned something about a garden earlier. Tell me more.}
-{178}{}{Ng? đi.}
+{178}{}{Ngộ đi.}
 {179}{}{Hey cheapskate! (hic) Come on, I know you gots money... (hic) Just some spare change then... (hic)
  something, anything! Show some compassion.}
 {180}{}{Here. Here's $25.}
 {184}{}{Here. Here's $1.}
 {185}{}{Here money.}
 {186}{}{No money.}
-{187}{}{Mu?n g??}
+{187}{}{Muốn gì?}
 {188}{}{[Tell Karl about what Jo said.]}
 {189}{}{Ghosts, Karl... they're everywhere. Look, there's one now!}
 {190}{}{Gibba gibba.}

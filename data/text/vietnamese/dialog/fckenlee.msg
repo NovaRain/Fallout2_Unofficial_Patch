@@ -2,7 +2,7 @@
 {101}{}{You see Ken Lee, advisor to the Emperor.}
 {102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
 {103}{}{What would you like, friend?}
-{104}{}{Mu?n g??}
+{104}{}{Muốn gì?}
 {105}{}{What can I do for you?}
 {106}{}{You?}
 {107}{}{Ông là ai?}
@@ -31,10 +31,10 @@
 {130}{}{If you wish to see the Emperor then you must give me your own name.}
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
-{133}{}{Đúng v?y.}
+{133}{}{Đúng vậy.}
 {134}{}{Forget it.}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
-{136}{}{Đúng v?y.}
+{136}{}{Đúng vậy.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
 {139}{}{[XONG]}
@@ -63,11 +63,11 @@
 {162}{}{You got it.}
 {163}{}{Forget it.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Không h?.}
+{165}{}{Không hề.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}
-{169}{}{Cám ơn. T?m bi?t.}
+{169}{}{Cám ơn. Tạm biệt.}
 {170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
 {171}{}{He's as good as dead.}
 {172}{}{No, I don't think so.}
@@ -93,7 +93,7 @@
 {192}{}{Then in that case, you can only be an enemy. Good day.}
 {193}{}{Good day.}
 {194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
-{195}{}{Đúng v?y.}
+{195}{}{Đúng vậy.}
 {196}{}{Not right now. I have other questions, though.}
 {197}{}{You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
 {198}{}{The Emperor is a COMPUTER?}

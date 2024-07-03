@@ -1,2 +1,2 @@
-{100}{}{You see a simple vase.}
-{101}{}{You see a sun-baked clay vase.}
+{100}{}{Bạn thấy một cái bình đơn giản.}
+{101}{}{Bạn thấy một cái bình sứ phơi nắng.}

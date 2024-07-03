@@ -6,7 +6,7 @@
 {105}{}{No, me come back later.}
 {106}{}{Very well. I have to live with you grunts so I might as well make
  an effort to get along with you.}
-{107}{}{Mu?n bi?t g? nào?}
+{107}{}{Muốn biết gì nào?}
 {108}{}{Who you?}
 {109}{}{What you do?}
 {110}{}{What this place?}
@@ -25,7 +25,7 @@
  other things. Don't bother with your name, soldier. All of you grunts look
  the same in that armor of yours.}
 {123}{}{Okay.}
-{124}{}{Hi?u r?i.}
+{124}{}{Hiểu rồi.}
 {125}{}{I work as the base physician but that's just a sideline. Actually,
  I'm a geneticist.}
 {126}{}{What that?}
@@ -48,7 +48,7 @@
  subjects. Sometimes they get a little vocal. The base commander found
  this to be disturbing so he had the soundproofing installed.}
 {136}{}{Oh...}
-{137}{}{Hi?u r?i.}
+{137}{}{Hiểu rồi.}
 {138}{}{Big, brown, and ugly? It's an experiment that I've recently
  completed. It's scheduled for termination.}
 {139}{}{What termination mean?}
@@ -115,13 +115,13 @@
  distasteful thing I do.}
 {180}{}{Oh...}
 {181}{}{He be fixed?}
-{182}{}{Hi?u r?i.}
+{182}{}{Hiểu rồi.}
 {183}{}{Can he be fixed?}
 {184}{}{Oh yes. I removed his motivator circuit and gave it to
  Raul up in maintenance. It could always be put back in... Maybe
  I'll do that someday just to see if he's changed his attitude.}
 {185}{}{Okay.}
-{186}{}{Đư?c r?i.}
+{186}{}{Được rồi.}
 {187}{}{Are you a civilian?}
 {188}{}{This is the med lab. The armory is down the hall on your left.}
 {189}{}{Why are you out of uniform?}

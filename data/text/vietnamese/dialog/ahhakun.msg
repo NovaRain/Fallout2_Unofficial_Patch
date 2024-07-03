@@ -1,194 +1,194 @@
-{100}{}{Trư?c m?t b?n là Hakunin, pháp sư c?a làng. L?o ta soi b?n b?ng c?p m?t thao láo, như th? đang nh?n t? m?t th? gi?i c?a riêng l?o v?y...}
-{101}{}{B?n th?y Hakunin đang n?m trên m?t đ?y. L?o ta b? thương r?t n?ng.}
-{102}{}{B?n th?y Hakunin. L?o ta g?n như ch?t r?i.}
-{103}{}{Hakunin b? b?ng r?t n?ng. Mùi ch?ng khác nào gà rán, nh?n như mi?ng th?t băm cháy r?i, và b?n không bi?t làm th? nào mà l?o v?n c?n s?ng đư?c đ?n gi?.}
-{104}{hak001}{Xin chào, C?u tinh. Sao kho?nh đ?t trư?c m?t ta l?i đư?c con d?m lên v?y?}
-{105}{}{??}
-{106}{}{Tôi đ?n đ? chào t?m bi?t. Tôi s?p lên đư?ng th?c hi?n nhi?m v? th?n thánh.}
-{107}{}{Tôi s?p đi. Tôi hi v?ng là l?n này l?o có th? nói chuy?n như ngư?i b?nh thư?ng.}
-{108}{}{L?o bú c?n quá đ? r?i đ?y. Tôi bi?n kh?i đây đây.}
-{109}{}{Tôi b? thương. L?o ch?a đư?c không?}
-{110}{}{Vư?n c?a l?o b? m?y cái cây t?m v?i m?c chen vào, tôi nh? s?ch chúng cho l?o r?i.}
-{111}{hak001a}{H?y cho c?p m?t m? đ?c này th?y con đư?ng c?a con.}
-{112}{}{??}
-{113}{}{Tôi đ?n đ? chào t?m bi?t. Tôi s?p lên đư?ng th?c hi?n nhi?m v? th?n thánh.}
-{114}{}{Tôi s?p đi. Tôi hi v?ng là l?n này l?o có th? nói chuy?n như ngư?i b?nh thư?ng.}
-{115}{}{L?o bú c?n quá đ? r?i đ?y. Tôi bi?n kh?i đây đây.}
-{116}{}{Vư?n c?a l?o b? m?y cái cây t?m v?i m?c chen vào, tôi nh? s?ch chúng cho l?o r?i.}
-{117}{hak002}{M?t đ?t ngân lên ti?ng ca v? v? anh hùng giáng th?... Có l? trư?c khi đi, con có th? th? hi?n s? hào hi?p đư?c chăng?}
-{118}{}{Đư?c ch?. L?o c?n g? nào?}
-{119}{}{Đ? xem... L?o s? tr? công tôi th? nào?}
-{120}{hak002a}{Có vô s? cách quan sát th? gi?i – đi?u mà con s? s?m h?c đư?c... Có l?, trư?c khi con hái qu? ng?t t? cây đ?i kinh nghi?m, con có th? th? hi?n s? hào hi?p chăng?}
-{121}{}{Ch?ng ph?i l?o v?a m?i nh? tôi giúp sao? N?u v?y th? đư?c r?i, sao l?i không ch??}
-{122}{}{Tôi s? giúp l?o, nhưng v? l?o c? huyên thuyên khó hi?u v?i nên giúp ph?i tính công đ?y.}
-{123}{hak003}{Các th?n phù h? con, con đúng là m?t đ?a tr? t?t b?ng. Li?u con có th? s? d?ng tài năng đ?c bi?t và gi?i thoát cho m?nh vư?n c?a ta kh?i nh?ng cái cây c?a linh h?n h?c ám?}
-{124}{}{? h?.}
-{125}{}{Khôn. L?ooo. Đưa. Đau đ?u.}
-{126}{hak004}{C?u cho hào quang c?a con r?i chi?u lên ta khi con xong... ?, quay l?i l?u c?a ta sau khi xong và ta s? đưa cho con đ? t?t.}
-{127}{}{Ch?c.}
-{128}{hak005}{Nh?ng cái cây c?a linh h?n h?c ám m?t l?n n?a l?i xâm chi?m m?nh vư?n c?a ta. Nh?ng đ?t xương này đ? già c?i sau nhi?u mùa và ta đ? tr? nên quá y?u trư?c cu?c chi?n trư?c thiên nhiên v?nh h?ng. Ta c?n con làm ngư?i b?o h?.}
-{129}{}{Tôi không ngh? v?y. Tôi c?n ph?i b?t đ?u nhi?m v? ngay bây gi?.}
-{130}{}{Tôi bi?t là l?o không ph?i là ngư?i x?u, nhưng tôi đau đ?u quá, nên ch?c là thôi nhé.}
-{131}{}{Quên đi. Tôi là trư?ng t?c tương lai cơ mà. Đâu l?i có chuy?n trư?ng t?c đi nh? c? cho l?o.}
-{132}{}{R?t vinh d?, thưa pháp sư th?n thánh.}
-{133}{}{L?o nh? tôi nh? c? trong vư?n à? N?u v?y th? đư?c thôi.}
-{134}{}{Tr? công nhé.}
-{135}{hak006}{Đ?i tr? công cho m?t món quà s? khi?n con ch?ng nh?n đư?c g? c?. Ta s? trao cho con như v?y, cùng v?i bài h?c v? s? th?t v?ng mà con c?n nh?n l?nh.}
-{136}{}{?n đ?y. Khu vư?n ? đâu th??}
-{137}{}{L?o bi?t đ?y, m?t món quà t?t th? c?n ph?i BI?T NÓI CHO ĐÚNG!}
-{138}{}{Th? th? sao tôi l?i không cho l?o bài h?c v? s? th?t v?ng và đi kh?i đây nh?? T?m bi?t.}
-{139}{}{?, n?u ông thái đ? th? tôi c?ng đ?ch quan tâm. Chào nhé.}
-{140}{hak006a}{N?u chúng ta nói cùng m?t t? th? li?u chúng có cùng m?t ngh?a không? M?i t? có luôn khi?n các linh h?n rung đ?ng như nhau không?}
-{141}{}{? đ?y. T?t hơn r?i đ?y. Cái tôi v?a h?c đư?c là thôi kh?i c?i và ch? c?n h?i khu vư?n ? đâu.}
-{142}{}{Th? th? th? t? này đi, "t?m bi?t". Nó có ngh?a là tôi đi đây.}
-{143}{hak007}{H?n con ph?i nh? là khu vư?n ? phía Đông B?c ch?, đ? đ?n.}
-{144}{}{Cám ơn đ? giúp.}
-{145}{}{Cám ơn. Nói v?y tôi l?i hi?u đ?y.}
-{146}{}{L?o dám g?i tôi là đ?n à? Th? th? tôi đéo mu?n giúp n?a đâu.}
-{147}{}{Tôi s? s?m quay l?i đ? l?y công.}
-{148}{hak008}{Gánh n?ng mà con mang trên m?nh gi? s? c?n n?ng hơn.}
-{149}{hak009}{C?u các th?n linh phù h? cho n? l?c c?a con, C?u tinh. C?u cho hào quang c?a con chi?u r?i lên m?nh ta sau khi m?nh đ?t đư?c thanh l?c tr? l?i.}
-{150}{}{Tôi coi đ?y là l?o mu?n g?p l?i sau khi tôi xong... L?o ch? c?n nói th?ng ra mà.}
-{151}{}{T?m bi?t.}
-{152}{hak010}{Ha! Linh h?n t? tiên s?ng trong con. H?y t?p trung b?i dư?ng b?n thân nh?m nâng cao khí l?c đ? khai m? h?ng ch?m đ?n gi?i giác ng?. D? nhiên, ph?n thư?ng s? không ch? là nh?ng đó c?a lin h?n.}
-{153}{}{?n đ?y. Tôi s? quay l?i khi nào xong.}
-{154}{}{V?y là tôi s? nh?n đư?c th? th?c t? g? đó à. ?n đ?y. G?p l?i l?o sau.}
-{155}{}{Tôi ngh? là l?o chơi v?i m?y cái cây trong vư?n nhi?u quá r?i đ?y. Đ? tránh b? như l?o, tôi s? tránh xa kh?i cái khu vư?n đó.}
-{156}{hak011}{Không th? l?ng phí hay ti?t ki?m th?i gian – chúng ta luôn s?ng ? hi?n t?i. Chính hành đ?ng là n?n t?ng xây d?ng cu?c s?ng c?a con.}
-{157}{}{?, ch?c th?. Như v?a nói, tôi ph?i đi đây. T?m bi?t.}
-{158}{}{L?o bi?t đ?y, nói chuy?n v?i l?o làm tôi t? h?i v? cái ? không nên l?ng phí th?i gian. Tôi bi?n đây.}
-{159}{}{Ư?c g? tôi có đư?c trí tu?, ngư?i thông thái. Th? l?i cho tôi – d? nhiên là tôi s? lo vi?c đó.}
-{160}{hak012}{Con có th? mang l?p v? C?u tinh, nhưng linh h?n x?u xa đang gào thét bên trong.}
-{161}{}{Tôi c?u xin s? tha th?, ? đ?ng th?n thánh. Làm th? nào tôi có th? g?t r?a linh h?n m?nh?}
-{162}{}{Đúng v?y, Hakunin, và l?o nên đ? khôn đ? không quên đi?u đó.}
-{163}{}{Nghe l?o nói làm tôi đau đ?u v?i. Bi?n thôi.}
-{164}{}{Ú ?a!}
-{165}{hak013}{H?y g?t r?a linh h?n trong lúc thanh tr? ác qu? kh?i m?nh vư?n c?a ta.}
-{166}{}{Nh?t đ?nh r?i, ngư?i thông thái. Tôi s? đ?n c?u s? tha th? sau khi đ? thanh t?y khu vư?n.}
-{167}{}{L?o đang mu?n nói r?ng nh? c? trong vư?n là t?t cho tôi, ph?i không? ?, đư?c r?i, đ? tôi th?.}
-{168}{}{Tôi thích linh h?n c?a m?nh như v?y. Chào.}
-{169}{}{Tôi không x?ng đáng như v?y. Tôi s? đi đây.}
-{170}{hak014}{C?u tinh, m?t l?n n?a s? hi?n di?n toàn v?n c?a con l?i mang đ?n s? phù h? c?a đ?t tr?i.}
+{100}{}{Trước mặt bạn là Hakunin, pháp sư của làng. Lão ta soi bạn bằng cặp mắt thao láo, như thể đang nhìn từ một thế giới của riêng lão vậy...}
+{101}{}{Bạn thấy Hakunin đang nằm trên mặt đấy. Lão ta bị thương rất nặng.}
+{102}{}{Bạn thấy Hakunin. Lão ta gần như chết rồi.}
+{103}{}{Hakunin bị bỏng rất nặng. Mùi chẳng khác nào gà rán, nhìn như miếng thịt băm cháy rụi, và bạn không biết làm thế nào mà lão vẫn còn sống được đến giờ.}
+{104}{hak001}{Xin chào, Cứu tinh. Sao khoảnh đất trước mặt ta lại được con dẫm lên vậy?}
+{105}{}{Ờ?}
+{106}{}{Tôi đến để chào tạm biệt. Tôi sắp lên đường thực hiện nhiệm vụ thần thánh.}
+{107}{}{Tôi sắp đi. Tôi hi vọng là lần này lão có thể nói chuyện như người bình thường.}
+{108}{}{Lão bú cần quá độ rồi đấy. Tôi biến khỏi đây đây.}
+{109}{}{Tôi bị thương. Lão chữa được không?}
+{110}{}{Vườn của lão bị mấy cái cây tởm vãi mọc chen vào, tôi nhổ sạch chúng cho lão rồi.}
+{111}{hak001a}{Hãy cho cặp mắt mờ đục này thấy con đường của con.}
+{112}{}{Ờ?}
+{113}{}{Tôi đến để chào tạm biệt. Tôi sắp lên đường thực hiện nhiệm vụ thần thánh.}
+{114}{}{Tôi sắp đi. Tôi hi vọng là lần này lão có thể nói chuyện như người bình thường.}
+{115}{}{Lão bú cần quá độ rồi đấy. Tôi biến khỏi đây đây.}
+{116}{}{Vườn của lão bị mấy cái cây tởm vãi mọc chen vào, tôi nhổ sạch chúng cho lão rồi.}
+{117}{hak002}{Mặt đất ngân lên tiếng ca về vị anh hùng giáng thế... Có lẽ trước khi đi, con có thể thể hiện sự hào hiệp được chăng?}
+{118}{}{Được chứ. Lão cần gì nào?}
+{119}{}{Để xem... Lão sẽ trả công tôi thế nào?}
+{120}{hak002a}{Có vô số cách quan sát thế giới – điều mà con sẽ sớm học được... Có lẽ, trước khi con hái quả ngọt từ cây đời kinh nghiệm, con có thể thể hiện sự hào hiệp chăng?}
+{121}{}{Chẳng phải lão vừa mới nhờ tôi giúp sao? Nếu vậy thì được rồi, sao lại không chứ?}
+{122}{}{Tôi sẽ giúp lão, nhưng vì lão cứ huyên thuyên khó hiểu vãi nên giúp phải tính công đấy.}
+{123}{hak003}{Các thần phù hộ con, con đúng là một đứa trẻ tốt bụng. Liệu con có thể sử dụng tài năng đặc biệt và giải thoát cho mảnh vườn của ta khỏi những cái cây của linh hồn hắc ám?}
+{124}{}{Ừ hứ.}
+{125}{}{Khôn. Lãooo. Đưa. Đau đầu.}
+{126}{hak004}{Cầu cho hào quang của con rọi chiếu lên ta khi con xong... Ồ, quay lại lều của ta sau khi xong và ta sẽ đưa cho con đồ tốt.}
+{127}{}{Chậc.}
+{128}{hak005}{Những cái cây của linh hồn hắc ám một lần nữa lại xâm chiếm mảnh vườn của ta. Những đốt xương này đã già cỗi sau nhiều mùa và ta đã trở nên quá yếu trước cuộc chiến trước thiên nhiên vĩnh hằng. Ta cần con làm người bảo hộ.}
+{129}{}{Tôi không nghĩ vậy. Tôi cần phải bắt đầu nhiệm vụ ngay bây giờ.}
+{130}{}{Tôi biết là lão không phải là người xấu, nhưng tôi đau đầu quá, nên chắc là thôi nhé.}
+{131}{}{Quên đi. Tôi là trưởng tộc tương lai cơ mà. Đâu lại có chuyện trưởng tộc đi nhổ cỏ cho lão.}
+{132}{}{Rất vinh dự, thưa pháp sư thần thánh.}
+{133}{}{Lão nhờ tôi nhổ cỏ trong vườn à? Nếu vậy thì được thôi.}
+{134}{}{Trả công nhé.}
+{135}{hak006}{Đòi trả công cho một món quà sẽ khiến con chẳng nhận được gì cả. Ta sẽ trao cho con như vậy, cùng với bài học về sự thất vọng mà con cần nhận lãnh.}
+{136}{}{Ổn đấy. Khu vườn ở đâu thế?}
+{137}{}{Lão biết đấy, một món quà tốt thì cần phải BIẾT NÓI CHO ĐÚNG!}
+{138}{}{Thế thì sao tôi lại không cho lão bài học về sự thất vọng và đi khỏi đây nhỉ? Tạm biệt.}
+{139}{}{Ồ, nếu ông thái độ thì tôi cũng đếch quan tâm. Chào nhé.}
+{140}{hak006a}{Nếu chúng ta nói cùng một từ thì liệu chúng có cùng một nghĩa không? Mỗi từ có luôn khiến các linh hồn rung động như nhau không?}
+{141}{}{Ồ đấy. Tốt hơn rồi đấy. Cái tôi vừa học được là thôi khỏi cãi và chỉ cần hỏi khu vườn ở đâu.}
+{142}{}{Thế thì thử từ này đi, "tạm biệt". Nó có nghĩa là tôi đi đây.}
+{143}{hak007}{Hẳn con phải nhớ là khu vườn ở phía Đông Bắc chứ, đồ đần.}
+{144}{}{Cám ơn đã giúp.}
+{145}{}{Cám ơn. Nói vậy tôi lại hiểu đấy.}
+{146}{}{Lão dám gọi tôi là đần à? Thế thì tôi đéo muốn giúp nữa đâu.}
+{147}{}{Tôi sẽ sớm quay lại để lấy công.}
+{148}{hak008}{Gánh nặng mà con mang trên mình giờ sẽ còn nặng hơn.}
+{149}{hak009}{Cầu các thần linh phù hộ cho nỗ lực của con, Cứu tinh. Cầu cho hào quang của con chiếu rọi lên mình ta sau khi mảnh đất được thanh lọc trở lại.}
+{150}{}{Tôi coi đấy là lão muốn gặp lại sau khi tôi xong... Lão chỉ cần nói thẳng ra mà.}
+{151}{}{Tạm biệt.}
+{152}{hak010}{Ha! Linh hồn tổ tiên sống trong con. Hãy tập trung bồi dưỡng bản thân nhằm nâng cao khí lực để khai mở hòng chạm đến giới giác ngộ. Dĩ nhiên, phần thưởng sẽ không chỉ là những đó của lin hồn.}
+{153}{}{Ổn đấy. Tôi sẽ quay lại khi nào xong.}
+{154}{}{Vậy là tôi sẽ nhận được thứ thực tế gì đó à. Ổn đấy. Gặp lại lão sau.}
+{155}{}{Tôi nghĩ là lão chơi với mấy cái cây trong vườn nhiều quá rồi đấy. Để tránh bị như lão, tôi sẽ tránh xa khỏi cái khu vườn đó.}
+{156}{hak011}{Không thể lãng phí hay tiết kiệm thời gian – chúng ta luôn sống ở hiện tại. Chính hành động là nền tảng xây dựng cuộc sống của con.}
+{157}{}{Ờ, chắc thế. Như vừa nói, tôi phải đi đây. Tạm biệt.}
+{158}{}{Lão biết đấy, nói chuyện với lão làm tôi tự hỏi về cái ý không nên lãng phí thời gian. Tôi biến đây.}
+{159}{}{Ước gì tôi có được trí tuệ, người thông thái. Thứ lỗi cho tôi – dĩ nhiên là tôi sẽ lo việc đó.}
+{160}{hak012}{Con có thể mang lớp vỏ Cứu tinh, nhưng linh hồn xấu xa đang gào thét bên trong.}
+{161}{}{Tôi cầu xin sự tha thứ, ồ đấng thần thánh. Làm thế nào tôi có thể gột rửa linh hồn mình?}
+{162}{}{Đúng vậy, Hakunin, và lão nên đủ khôn để không quên điều đó.}
+{163}{}{Nghe lão nói làm tôi đau đầu vãi. Biến thôi.}
+{164}{}{Ú òa!}
+{165}{hak013}{Hãy gột rửa linh hồn trong lúc thanh trừ ác quỷ khỏi mảnh vườn của ta.}
+{166}{}{Nhất định rồi, người thông thái. Tôi sẽ đến cầu sự tha thứ sau khi đã thanh tẩy khu vườn.}
+{167}{}{Lão đang muốn nói rằng nhổ cỏ trong vườn là tốt cho tôi, phải không? Ồ, được rồi, để tôi thử.}
+{168}{}{Tôi thích linh hồn của mình như vậy. Chào.}
+{169}{}{Tôi không xứng đáng như vậy. Tôi sẽ đi đây.}
+{170}{hak014}{Cứu tinh, một lần nữa sự hiện diện toàn vẹn của con lại mang đến sự phù hộ của đất trời.}
 {171}{}{Cám ơn.}
-{172}{}{? l?o là tôi đ? tr? nên t?t hơn, đúng ch??}
-{173}{hak015}{Đ? t?o nên cái toàn v?n c?n đ?n c?m giác tr?n v?n mà con đ? trí tu? đ? hi?u r?, C?u tinh.}
-{174}{}{Ch? đ?, đ?ng nói. Tôi tr? nên t?t hơn và ông cám th?y vui, đúng ch?. Cám ơn.}
-{175}{}{Ngư?i th?t là trí tu? và thánh thi?n, Đ?ng th?n thánh.}
-{176}{hak017}{B?ng cách nào ta có th? ch?m đ?n linh h?n c?u tinh đây, H?t gi?ng c?a T? tiên?}
-{177}{}{?, chính xác là m?nh vư?n ? đâu th??}
-{178}{}{Tôi b? thương. L?o ch?a đư?c không?}
-{179}{}{?, không có g?. T?m bi?t.}
-{180}{hak018}{À. Con đ? mang linh h?n c?a T? tiên tr? l?i v?i th? gi?i c?ng như mang n? cư?i đ?n v?i linh h?n c?a m?t ông l?o s?p ra đi. V? v?y, ta trao cho con ch? b?t ch?a thương này. H?y nh?, chúng s? làm lu m? tâm trí trong lúc thanh t?y cơ th?.}
+{172}{}{Ý lão là tôi đã trở nên tốt hơn, đúng chứ?}
+{173}{hak015}{Để tạo nên cái toàn vẹn cần đến cảm giác trọn vẹn mà con đủ trí tuệ để hiểu rõ, Cứu tinh.}
+{174}{}{Chờ đã, đừng nói. Tôi trở nên tốt hơn và ông cám thấy vui, đúng chứ. Cám ơn.}
+{175}{}{Người thật là trí tuệ và thánh thiện, Đấng thần thánh.}
+{176}{hak017}{Bằng cách nào ta có thể chạm đến linh hồn cứu tinh đây, Hạt giống của Tổ tiên?}
+{177}{}{Ờ, chính xác là mảnh vườn ở đâu thế?}
+{178}{}{Tôi bị thương. Lão chữa được không?}
+{179}{}{Ồ, không có gì. Tạm biệt.}
+{180}{hak018}{À. Con đã mang linh hồn của Tổ tiên trở lại với thế giới cũng như mang nụ cười đến với linh hồn của một ông lão sắp ra đi. Vì vậy, ta trao cho con chỗ bột chữa thương này. Hãy nhớ, chúng sẽ làm lu mờ tâm trí trong lúc thanh tẩy cơ thể.}
 {181}{}{Cám ơn.}
-{182}{hak018a}{Và c?n n?a, ta s? xào hoa broc cùng r? xander b?t c? lúc nào con mang c? hai đ?n cho ta. C?u cho con luôn bư?c trên con đư?ng đúng và gi? v?ng tâm h?n.}
-{183}{}{Tôi có th? t?m nh?ng th? này ? đâu?}
+{182}{hak018a}{Và còn nữa, ta sẽ xào hoa broc cùng rễ xander bất cứ lúc nào con mang cả hai đến cho ta. Cầu cho con luôn bước trên con đường đúng và giữ vững tâm hồn.}
+{183}{}{Tôi có thể tìm những thứ này ở đâu?}
 {184}{}{Cám ơn.}
-{185}{}{Tí n?a th? tôi đi m?t r?i. Gi? th? tôi hơi b?t đ?u hi?u l?o đ?y. T?m bi?t.}
-{186}{hak019}{À, C?u tinh, m?nh vư?n c?a ta v?n ?n, c?a con th? sao?}
-{187}{}{Tôi v?n ?n.}
-{188}{}{Tôi c?n tr? thương.}
-{189}{}{L?o nói m?y cái cây ? đâu th? nh??}
-{190}{}{Tôi làm g? có vư?n. L?o đang nói cái đéo g? th??}
-{191}{}{Tôi mu?n nh? l?o xào ít b?t ch?a thương.}
-{192}{}{?, không có g?. Tôi ph?i đi đây.}
-{193}{}{??}
-{194}{}{Ong! Bư?m!}
-{195}{hak020}{Nh?ng l?i này th?m đ?m tai khi?n ta th?t khoan khoái. Than ôi, các th?n linh đang th? th?m vào tai ta. T?m bi?t.}
+{185}{}{Tí nữa thì tôi đi mất rồi. Giờ thì tôi hơi bắt đầu hiểu lão đấy. Tạm biệt.}
+{186}{hak019}{À, Cứu tinh, mảnh vườn của ta vẫn ổn, của con thì sao?}
+{187}{}{Tôi vẫn ổn.}
+{188}{}{Tôi cần trị thương.}
+{189}{}{Lão nói mấy cái cây ở đâu thế nhỉ?}
+{190}{}{Tôi làm gì có vườn. Lão đang nói cái đéo gì thế?}
+{191}{}{Tôi muốn nhờ lão xào ít bột chữa thương.}
+{192}{}{Ồ, không có gì. Tôi phải đi đây.}
+{193}{}{Ớ?}
+{194}{}{Ong! Bướm!}
+{195}{hak020}{Những lời này thấm đẫm tai khiến ta thật khoan khoái. Than ôi, các thần linh đang thì thầm vào tai ta. Tạm biệt.}
 {196}{}{Chào.}
-{197}{}{V?n đang xào đ? à? G?p l?i l?o sau.}
-{198}{hak021}{T?t c? chúng ta đ?u có m?t khu vư?n. C?u cho hành tr?nh c?a con c?ng đư?c gi?ng như làm vư?n v?y. H?y gi? g?n. Ta ph?i đi c?u nguy?n các đ?ng th?n linh đây.}
-{199}{}{G?p l?i sau.}
-{200}{}{Tôi ch?c là đi đâu l?o c?ng luôn l?m b?m trong đ?u. B?o tr?ng.}
-{201}{hak022}{H?y nh?n v? phía B?c, C?u tinh à, và l?i đi s? m? ra.}
+{197}{}{Vẫn đang xào đồ à? Gặp lại lão sau.}
+{198}{hak021}{Tất cả chúng ta đều có một khu vườn. Cầu cho hành trình của con cũng được giống như làm vườn vậy. Hãy giữ gìn. Ta phải đi cầu nguyện các đấng thần linh đây.}
+{199}{}{Gặp lại sau.}
+{200}{}{Tôi chắc là đi đâu lão cũng luôn lẩm bẩm trong đầu. Bảo trọng.}
+{201}{hak022}{Hãy nhìn về phía Bắc, Cứu tinh à, và lối đi sẽ mở ra.}
 {202}{}{Okay. Cám ơn.}
-{203}{hak023}{Ta th?y th?t vinh d? đư?c ph?c v? C?u tinh.}
-{204}{hak024}{Cu?c s?ng là v?y. Hai t?o nên ba. Con s? c?n c? r? xander và hoa broc đ? ch? b?t ch?a thương.}
-{205}{}{?, cám ơn.}
-{206}{}{C?t.}
-{207}{hak025}{C?u cho th? này là không c?n thi?t.}
+{203}{hak023}{Ta thấy thật vinh dự được phục vụ Cứu tinh.}
+{204}{hak024}{Cuộc sống là vậy. Hai tạo nên ba. Con sẽ cần cả rễ xander và hoa broc để chế bột chữa thương.}
+{205}{}{Ồ, cám ơn.}
+{206}{}{Cứt.}
+{207}{hak025}{Cầu cho thứ này là không cần thiết.}
 {208}{}{Okay. Cám ơn.}
-{209}{}{?!}
-{210}{hak026}{Con ?n r?i.}
+{209}{}{Ừ!}
+{210}{hak026}{Con ổn rồi.}
 {211}{}{Cám ơn.}
-{212}{}{Không có bài h?c nào? C?ng ch?ng có l?i d?y vô ngh?a nào à? L?o có ch?c là l?o v?n ?n không th??}
-{213}{hak027}{Chào m?ng, C?u tinh. H?y ban cho chúng ta l?i truy?n r?ng GECK s? s?m đư?c t?m th?y. Ngôi làng đang y?u d?n, chúng ta c?n quá nhi?u, nhưng th?i gian l?i quá ng?n.}
-{214}{}{N?.}
-{215}{}{Và ông v?n không nói đư?c như ngư?i b?nh thư?ng. Tôi v?n đang c? đây.}
-{216}{}{Tôi v?n đang t?m.}
-{217}{}{Bi?n đi l?o già. Tôi đang c? h?t s?c đây.}
-{218}{}{Tôi v?n đang t?m, thưa thánh nhân. Tôi hi v?ng s? s?m t?m th?y GECK.}
-{219}{hak028a}{C?u cho Đ?t ti?p s?c cho bư?c chân c?a con.}
-{220}{hak028b}{C?u cho Nư?c xuôi d?ng cu?c hành tr?nh c?a con.}
-{221}{hak028c}{C?u cho Gió d?n đư?ng con đ?n đích.}
-{222}{hak028d}{C?u cho L?a đ?t cháy mông thôi thúc con cho đ?n khi hoàn thành.}
+{212}{}{Không có bài học nào? Cũng chẳng có lời dạy vô nghĩa nào à? Lão có chắc là lão vẫn ổn không thế?}
+{213}{hak027}{Chào mừng, Cứu tinh. Hãy ban cho chúng ta lời truyền rằng GECK sẽ sớm được tìm thấy. Ngôi làng đang yếu dần, chúng ta cần quá nhiều, nhưng thời gian lại quá ngắn.}
+{214}{}{Nồ.}
+{215}{}{Và ông vẫn không nói được như người bình thường. Tôi vẫn đang cố đây.}
+{216}{}{Tôi vẫn đang tìm.}
+{217}{}{Biến đi lão già. Tôi đang cố hết sức đây.}
+{218}{}{Tôi vẫn đang tìm, thưa thánh nhân. Tôi hi vọng sẽ sớm tìm thấy GECK.}
+{219}{hak028a}{Cầu cho Đất tiếp sức cho bước chân của con.}
+{220}{hak028b}{Cầu cho Nước xuôi dòng cuộc hành trình của con.}
+{221}{hak028c}{Cầu cho Gió dẫn đường con đến đích.}
+{222}{hak028d}{Cầu cho Lửa đốt cháy mông thôi thúc con cho đến khi hoàn thành.}
 {223}{}{Cám ơn.}
 {224}{}{Cái đm?!}
-{225}{}{?.}
-{226}{}{H??!}
-{227}{hak029}{Chào m?ng tr? l?i, C?u tinh. Ta có th? th?y qua bi?u c?m c?a con là s? c?u r?i c?a GECK v?n c?n xa v?i. H?y như con ki?n lao đ?ng không m?i trư?c khi kho lương c?a chúng ta c?n ki?t. Con là ni?m hi v?ng cu?i cùng c?a chúng ta.}
+{225}{}{Ừ.}
+{226}{}{Hả?!}
+{227}{hak029}{Chào mừng trở lại, Cứu tinh. Ta có thể thấy qua biểu cảm của con là sự cứu rỗi của GECK vẫn còn xa vời. Hãy như con kiến lao động không mỏi trước khi kho lương của chúng ta cạn kiệt. Con là niềm hi vọng cuối cùng của chúng ta.}
 {228}{}{Uh-huh.}
-{229}{}{Tôi đang c? đây. Tôi mu?n xem có con ki?n nào đi đư?c qu?ng đư?ng như tôi không.}
-{230}{}{Tôi đang c? h?t s?c.}
-{231}{}{Tôi s? c? g?p đôi, thưa thánh nhân. Tôi s? không khi?n ngư?i phi?n n?o.}
-{232}{}{? ?. Tôi đ? nghe m?y l?i này r?i.}
-{233}{hak030}{C?u tinh – Ngôi làng đang kêu c?u trong tuy?t v?ng. Đám tr? đói l? c? ngư?i. Làm ơn đi, chúng ta không c?n gi? đư?c lâu hơn n?a đâu.}
+{229}{}{Tôi đang cố đây. Tôi muốn xem có con kiến nào đi được quãng đường như tôi không.}
+{230}{}{Tôi đang cố hết sức.}
+{231}{}{Tôi sẽ cố gấp đôi, thưa thánh nhân. Tôi sẽ không khiến người phiền não.}
+{232}{}{Ờ ờ. Tôi đã nghe mấy lời này rồi.}
+{233}{hak030}{Cứu tinh – Ngôi làng đang kêu cứu trong tuyệt vọng. Đám trẻ đói lả cả người. Làm ơn đi, chúng ta không còn giữ được lâu hơn nữa đâu.}
 {234}{}{Uh-huh.}
-{235}{}{Tôi đang c?. Tôi đang c? đây! V?i th? đéo nào đư?c!}
-{236}{}{Tôi s? t?m GECK, thưa thánh nhân. Tôi h?a đ?y.}
-{237}{}{Tôi s? c? h?t s?c đi t?m GECK.}
-{238}{hak031}{C?u tinh, đ?n cát th?i gian ch? c?n l?i vài h?t. Làm ơn đi. H?y s?m đưa GECK v? và bi?n tương lai c?a ngôi làng gi?ng như b?i b? c?a bi?n. Nhanh lên, trư?c khi h?t cát cu?i cùng rơi xu?ng.}
+{235}{}{Tôi đang cố. Tôi đang cố đây! Vội thế đéo nào được!}
+{236}{}{Tôi sẽ tìm GECK, thưa thánh nhân. Tôi hứa đấy.}
+{237}{}{Tôi sẽ cố hết sức đi tìm GECK.}
+{238}{hak031}{Cứu tinh, đụn cát thời gian chỉ còn lại vài hạt. Làm ơn đi. Hãy sớm đưa GECK về và biến tương lai của ngôi làng giống như bãi bờ của biển. Nhanh lên, trước khi hạt cát cuối cùng rơi xuống.}
 {239}{}{Uh-huh.}
-{240}{}{Đư?c r?i. Tôi đi t?m đây.}
-{241}{}{Cu?c s?ng ch?ng khác nào b?i ch?ch, h??}
-{242}{}{Tôi s? đi t?m GECK, thưa thánh nhân. Tôi s? không đ? m?i ngư?i th?t v?ng đâu.}
-{243}{hak032}{C?u tinh, các linh h?n t? tiên đ? d?n l?i cho ta đ?n th? gi?i gi?c mơ, nơi ta có th? ch?m vào ? th?c. Ngôi làng s? tàn l?i n?u thi?u GECK th?n thánh. Con đang n?m gi? v?n m?nh c?a chúng ta trong tay ch?ng khác nào ngư?i cha b? ?m đ?a con thơ.}
-{244}{hak033}{Linh h?n c?a ta m?t l?n n?a liên l?c v?i con t? c?i hư không, C?u tinh. Mùa màng đang th?t bát, lương th?c d? tr? ch?ng c?n m?y. H?y mang GECK v? cho chúng ta. Th?t b?i c?a con s? khi?n chúng ta ch?m vào đêm đen.}
-{245}{hak034}{C?u tinh. Ngôi làng đang suy ki?t. Càng lúc càng khó bư?c vào gi?c mơ c?a con. Con ph?i nhanh lên, n?u không th? m?i ngư?i...}
-{246}{hak035}{C?u tinh? C?u tinh? Con có nghe th?y g? không? Ngôi làng mà ch?t th? toàn b? tương lai c?a chúng ta c?ng không c?n. Chúng ta đang ki?t qu? c? th?i gian l?n tinh th?n... Nhanh lên. Nhanh lên...}
-{247}{hak101}{C?u tinh – bóng đen c?a h?c ám đ? đ?n trư?c con.}
-{248}{}{? ? ?!}
-{249}{}{Chuy?n g? đ? x?y ra th??}
-{250}{}{Trông l?o t? quá. Đ? tôi giúp.}
-{251}{hak102}{Đ?a con c?a Thiên nhiên, làm sao mà chúng ta l?i đ?t gánh n?ng này lên vai con ch?? (th? dài) M?i ngư?i đ? b? b?t đi r?i.}
-{252}{}{H??}
-{253}{hak103}{Đúng v?y. Đi r?i. R?t nhi?u linh h?n h?c ám đ? đ?n, cư?i trên nh?ng con chim s?t như b?y côn trùng đói hung hăng, che kín s? hung ác b?ng l?p v? sáng bóng.}
-{254}{}{?! Sáng bóng đ?p!}
-{255}{hak104}{Không! Không sáng đ?p! Chúng đ? b?t cóc m?i ngư?i và đưa h? v? phía Tây Nam.}
-{256}{}{?.}
-{257}{hak105}{Đúng v?y. N?i đau đ?n t?n cùng. Ta đ?ng ch? ? gi?a hai th? gi?i đ? nói v?i con, C?u tinh. H?y c?u m?i ngư?i.}
-{258}{}{??}
-{259}{hak106}{C?u tinh, làm ơn h?y nghe l?i ta. Đi v? phía Tây Nam. Tây và Nam. C?u m?i ngư?i. C?u m?i ngư?i.}
+{240}{}{Được rồi. Tôi đi tìm đây.}
+{241}{}{Cuộc sống chẳng khác nào bãi chịch, hể?}
+{242}{}{Tôi sẽ đi tìm GECK, thưa thánh nhân. Tôi sẽ không để mọi người thất vọng đâu.}
+{243}{hak032}{Cứu tinh, các linh hồn tổ tiên đã dẫn lối cho ta đến thế giới giấc mơ, nơi ta có thể chạm vào ý thức. Ngôi làng sẽ tàn lụi nếu thiếu GECK thần thánh. Con đang nắm giữ vận mệnh của chúng ta trong tay chẳng khác nào người cha bế ẵm đứa con thơ.}
+{244}{hak033}{Linh hồn của ta một lần nữa liên lạc với con từ cõi hư không, Cứu tinh. Mùa màng đang thất bát, lương thực dự trữ chẳng còn mấy. Hãy mang GECK về cho chúng ta. Thất bại của con sẽ khiến chúng ta chìm vào đêm đen.}
+{245}{hak034}{Cứu tinh. Ngôi làng đang suy kiệt. Càng lúc càng khó bước vào giấc mơ của con. Con phải nhanh lên, nếu không thì mọi người...}
+{246}{hak035}{Cứu tinh? Cứu tinh? Con có nghe thấy gì không? Ngôi làng mà chết thì toàn bộ tương lai của chúng ta cũng không còn. Chúng ta đang kiệt quệ cả thời gian lẫn tinh thần... Nhanh lên. Nhanh lên...}
+{247}{hak101}{Cứu tinh – bóng đen của hắc ám đã đến trước con.}
+{248}{}{Ớ ớ ớ!}
+{249}{}{Chuyện gì đã xảy ra thế?}
+{250}{}{Trông lão tệ quá. Để tôi giúp.}
+{251}{hak102}{Đứa con của Thiên nhiên, làm sao mà chúng ta lại đặt gánh nặng này lên vai con chứ? (thở dài) Mọi người đã bị bắt đi rồi.}
+{252}{}{Hở?}
+{253}{hak103}{Đúng vậy. Đi rồi. Rất nhiều linh hồn hắc ám đã đến, cưỡi trên những con chim sắt như bầy côn trùng đói hung hăng, che kín sự hung ác bằng lớp vỏ sáng bóng.}
+{254}{}{Ồ! Sáng bóng đợp!}
+{255}{hak104}{Không! Không sáng đẹp! Chúng đã bắt cóc mọi người và đưa họ về phía Tây Nam.}
+{256}{}{Ớ.}
+{257}{hak105}{Đúng vậy. Nỗi đau đớn tận cùng. Ta đứng chờ ở giữa hai thế giới để nói với con, Cứu tinh. Hãy cứu mọi người.}
+{258}{}{Ừ?}
+{259}{hak106}{Cứu tinh, làm ơn hãy nghe lời ta. Đi về phía Tây Nam. Tây và Nam. Cứu mọi người. Cứu mọi người.}
 {260}{}{Uh-huh...}
-{261}{hak107}{Cám ơn t? tiên. Gi? th? linh h?n ta có th? h?a vào khúc ca v?nh h?ng r?i. Lên đư?ng an toàn, C?u tinh.}
+{261}{hak107}{Cám ơn tổ tiên. Giờ thì linh hồn ta có thể hòa vào khúc ca vĩnh hằng rồi. Lên đường an toàn, Cứu tinh.}
 {262}{}{Đi?}
 {263}{hak108}{Đi đi!...}
 {264}{}{Chào nhé.}
-{265}{hak109}{Linh h?n h?c ám đ? đ?n. Chúng b?t m?i ngư?i.}
-{266}{}{Linh h?n h?c ám? Ông nói g? th??}
-{267}{hak110}{M?t con gió ?p đ?n. Cùng v?i đó là nh?ng con chu?n chu?n b? phun l?a. Nh?ng k? x?u xa nh?y ra t? b?ng c?a con quái v?t và mang di?t vong đ?n cho nh?ng chi?n binh c?a chúng ta.}
-{268}{}{Các chi?n binh c?a chúng ta không th? ngăn chúng sao?}
-{269}{hak112}{Tinh th?n h?ng h?c, nhưng ng?n giáo l?i y?u đu?i. Nh?ng k? hung tàn đ? thiêu đ?t các chi?n binh b?ng th? ánh sáng đ?a ng?c.}
-{270}{}{Chúng đ? gi?t t?t c? m?i ngư?i?}
-{271}{hak113}{T?t c? đ?u đ? ch?t ho?c b? b?t đi. Linh h?n c?a ta đ? tr? l?i thân xác ch? đ? khai m? s? th?t cho con, C?u tinh.}
-{272}{}{Chuy?n g? đ? x?y ra v?i nh?ng ngư?i b? b?t đi?}
-{273}{hak114}{B?y quái v?t đ? nu?t t?t c?, sau đó cư?i lên cơn gió.}
-{274}{}{?, con gió mà chúng cư?i lên th?i theo hư?ng nào?}
-{275}{hak115}{Con có bao gi? nghe l?i ta d?y trong nh?ng bu?i nh?y múa c?a gió th?n h?ng năm không v?y? D? nhiên là v? phía Nam r?i.}
-{276}{}{L?i c?a l?o luôn hào hùng và m?nh m?, Hakunin v? đ?i à, đ?n m?c tôi thư?ng đ? ra trong các bu?i gi?ng c?a l?o.}
-{277}{}{?, m?y cơn gió đó. D? nhiên r?i.}
-{278}{hak116}{Đúng v?y, chúng cư?i theo gió Nam. Ta đ? nghe l? linh h?n h?c ám đó nói chuy?n. Chúng d? đ?nh s? cho đám quái v?t ngh? t?i m?t nơi g?i là Navarro trư?c khi vư?t qua đ?i h?i ch?t ch?a nư?c m?t c?a m? trái đ?t.}
-{279}{}{Tôi c?n làm g??}
-{280}{}{Đ?i h?i nư?c m?t?}
-{281}{hak117}{V?i ta, ch?ng g? c?. C?u tinh, con ph?i đi t?m v?t đuôi c?a bè l? h?c ám và gi?i c?u m?i ngư?i.}
-{282}{}{Tôi s? th?.}
-{283}{hak118}{Con là C?u tinh. Con ph?i làm v?y.}
+{265}{hak109}{Linh hồn hắc ám đã đến. Chúng bắt mọi người.}
+{266}{}{Linh hồn hắc ám? Ông nói gì thế?}
+{267}{hak110}{Một con gió ập đến. Cùng với đó là những con chuồn chuồn bự phun lửa. Những kẻ xấu xa nhảy ra từ bụng của con quái vật và mang diệt vong đến cho những chiến binh của chúng ta.}
+{268}{}{Các chiến binh của chúng ta không thể ngăn chúng sao?}
+{269}{hak112}{Tinh thần hừng hực, nhưng ngọn giáo lại yếu đuối. Những kẻ hung tàn đã thiêu đốt các chiến binh bằng thứ ánh sáng địa ngục.}
+{270}{}{Chúng đã giết tất cả mọi người?}
+{271}{hak113}{Tất cả đều đã chết hoặc bị bắt đi. Linh hồn của ta đã trở lại thân xác chỉ để khai mở sự thật cho con, Cứu tinh.}
+{272}{}{Chuyện gì đã xảy ra với những người bị bắt đi?}
+{273}{hak114}{Bầy quái vật đã nuốt tất cả, sau đó cưỡi lên cơn gió.}
+{274}{}{Ờ, con gió mà chúng cưỡi lên thổi theo hướng nào?}
+{275}{hak115}{Con có bao giờ nghe lời ta dạy trong những buổi nhảy múa của gió thần hằng năm không vậy? Dĩ nhiên là về phía Nam rồi.}
+{276}{}{Lời của lão luôn hào hùng và mạnh mẽ, Hakunin vĩ đại à, đến mức tôi thường đờ ra trong các buổi giảng của lão.}
+{277}{}{Ồ, mấy cơn gió đó. Dĩ nhiên rồi.}
+{278}{hak116}{Đúng vậy, chúng cưỡi theo gió Nam. Ta đã nghe lũ linh hồn hắc ám đó nói chuyện. Chúng dự định sẽ cho đám quái vật nghỉ tại một nơi gọi là Navarro trước khi vượt qua đại hải chất chứa nước mắt của mẹ trái đất.}
+{279}{}{Tôi cần làm gì?}
+{280}{}{Đại hải nước mắt?}
+{281}{hak117}{Với ta, chẳng gì cả. Cứu tinh, con phải đi tìm vết đuôi của bè lũ hắc ám và giải cứu mọi người.}
+{282}{}{Tôi sẽ thử.}
+{283}{hak118}{Con là Cứu tinh. Con phải làm vậy.}
 {284}{}{Hakunin?}
-{285}{}{Đây là l?n đ?u tôi hi?u l?o nói g? đ?y.}
-{286}{hak120}{Bi?n nư?c m?t, do ngư?i m? khóc v? nh?ng đ?a con c?a m?nh.}
-{287}{}{?, là bi?n. Nhưng tôi c?n làm g??}
-{288}{hak121}{M?t màn sương k? l? xâm chi?m tâm h?n và g?i h? đ?n vùng đ?t c?a Gi?c ng?. Nh?ng k? x?u xa đi gi?a nh?ng ngư?i say gi?c, nhưng l?i không h? mơ màng.}
-{289}{}{R?i sau đó?}
-{290}{hak122}{Quá nhi?u mùa và thương quá n?ng. C?u tinh. Con ph?i nghe đây.}
-{291}{}{Đư?c r?i.}
-{300}{}{Nh?ng k? ăn tr?m ph?i vác n?ng trên vai. H?y nh? l?y, C?u tinh.}
-{301}{}{Gi? th? con ph?i tr? giá cho t?i l?i c?a m?nh, C?u tinh.}
+{285}{}{Đây là lần đầu tôi hiểu lão nói gì đấy.}
+{286}{hak120}{Biển nước mắt, do người mẹ khóc về những đứa con của mình.}
+{287}{}{Ồ, là biển. Nhưng tôi cần làm gì?}
+{288}{hak121}{Một màn sương kì lạ xâm chiếm tâm hồn và gửi họ đến vùng đất của Giấc ngủ. Những kẻ xấu xa đi giữa những người say giấc, nhưng lại không hề mơ màng.}
+{289}{}{Rồi sau đó?}
+{290}{hak122}{Quá nhiều mùa và thương quá nặng. Cứu tinh. Con phải nghe đây.}
+{291}{}{Được rồi.}
+{300}{}{Những kẻ ăn trộm phải vác nặng trên vai. Hãy nhớ lấy, Cứu tinh.}
+{301}{}{Giờ thì con phải trả giá cho tội lỗi của mình, Cứu tinh.}

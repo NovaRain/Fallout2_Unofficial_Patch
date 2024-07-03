@@ -1,2 +1,2 @@
-{100}{}{Con gecko ch? gi?u b?n.}
-{101}{}{Con gecko ch? gi?u }
+{100}{}{Con gecko chế giễu bạn.}
+{101}{}{Con gecko chế giễu }

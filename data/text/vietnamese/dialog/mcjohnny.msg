@@ -11,12 +11,12 @@
 {157}{}{What's your name little boy?}
 {158}{}{Tell me your name you little monster.}
 {159}{}{Would you like some candy little kid.}
-{160}{}{Chào g?p l?i.}
+{160}{}{Chào gặp lại.}
 {161}{}{Is your name Jonny?}
 {162}{}{What's your name little boy?}
 {163}{}{Tell me your name you little monster.}
 {164}{}{Would you like some candy little kid.}
-{165}{}{Chào g?p l?i.}
+{165}{}{Chào gặp lại.}
 {166}{}{Your mother and father have sent me to find you.}
 {167}{}{Would you like some candy little kid.}
 {168}{}{Have you talked to Vegeir about me going home?}

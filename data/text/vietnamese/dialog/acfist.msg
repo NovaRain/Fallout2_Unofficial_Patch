@@ -1,34 +1,34 @@
-{100}{}{B?n th?y Lucas.}
-{101}{}{Lucas là chi?n binh trư?ng trong b? t?c.}
-{102}{}{C?u đây r?i, C?u tinh. H?m! Nhi?m v? c?a c?u đ?n đâu r?i?}
-{103}{}{V?n ?n.}
-{104}{}{Không ?n l?m.}
-{105}{}{??!}
-{106}{}{Tôi ph?i đi ti?p đây.}
-{107}{}{Có th? c?u c?n s? giúp đ? c?a m?t chi?n binh.}
-{108}{}{Ch?c ch?n r?i. Anh giúp g? đư?c tôi?}
-{109}{}{Không c?n. Tôi v?n ?n.}
-{110}{}{Tr? l?i hay l?m, đ? đ?n. Gi? th? câm mi?ng l?i trong lúc t?p.}
-{111}{}{? đư?c.}
-{112}{}{Ta bi?t cách chi?n đ?u b?ng chân và tay. C?u xem có h?c đư?c không?}
-{113}{}{Anh có th? d?y tôi cái g??}
-{114}{}{C?u cho gió luôn theo lưng c?u, C?u tinh.}
-{115}{}{T?m bi?t.}
-{116}{}{H?m -- ? m?t ngày c?nh ta và ta s? d?y cách đ?m đau hơn.}
-{117}{}{Đư?c. B?t đ?u đi.}
-{118}{}{Xin l?i, không có th?i gian.}
-{119}{}{C?u đ? bi?t t?t c? nh?ng g? ta có th? d?y, C?u tinh. Chúc hành tr?nh may m?n.}
-{120}{}{?, okay.}
-{121}{}{Hà! C?u tinh, c?u không đ? khéo léo đ? h?c th? g? c?a ta c?.}
-{122}{}{?, okay.}
-{123}{}{C?u đánh đ?m ch?m đ?n m?c bài t?p c?a ta c?ng không giúp đư?c, C?u tinh ?.}
-{124}{}{?, okay.}
-{125}{}{C?u c?n ph?i h?c thêm v? cách chi?n đ?u trư?c khi ta có th? giúp, em giai ?.}
-{126}{}{?, okay.}
-{127}{}{Ta có th? d?y c?u đá m?nh hơn. S? m?t c? m?t ngày đ?y.}
+{100}{}{Bạn thấy Lucas.}
+{101}{}{Lucas là chiến binh trưởng trong bộ tộc.}
+{102}{}{Cậu đây rồi, Cứu tinh. Hừm! Nhiệm vụ của cậu đến đâu rồi?}
+{103}{}{Vẫn ổn.}
+{104}{}{Không ổn lắm.}
+{105}{}{Ớ?!}
+{106}{}{Tôi phải đi tiếp đây.}
+{107}{}{Có thể cậu cần sự giúp đỡ của một chiến binh.}
+{108}{}{Chắc chắn rồi. Anh giúp gì được tôi?}
+{109}{}{Không cần. Tôi vẫn ổn.}
+{110}{}{Trả lời hay lắm, đồ đần. Giờ thì câm miệng lại trong lúc tập.}
+{111}{}{Ừ được.}
+{112}{}{Ta biết cách chiến đấu bằng chân và tay. Cậu xem có học được không?}
+{113}{}{Anh có thể dạy tôi cái gì?}
+{114}{}{Cầu cho gió luôn theo lưng cậu, Cứu tinh.}
+{115}{}{Tạm biệt.}
+{116}{}{Hừm -- ở một ngày cạnh ta và ta sẽ dạy cách đấm đau hơn.}
+{117}{}{Được. Bắt đầu đi.}
+{118}{}{Xin lỗi, không có thời gian.}
+{119}{}{Cậu đã biết tất cả những gì ta có thể dạy, Cứu tinh. Chúc hành trình may mắn.}
+{120}{}{Ồ, okay.}
+{121}{}{Hà! Cứu tinh, cậu không đủ khéo léo để học thứ gì của ta cả.}
+{122}{}{Ồ, okay.}
+{123}{}{Cậu đánh đấm chậm đến mức bài tập của ta cũng không giúp được, Cứu tinh ạ.}
+{124}{}{Ồ, okay.}
+{125}{}{Cậu cần phải học thêm về cách chiến đấu trước khi ta có thể giúp, em giai ạ.}
+{126}{}{Ồ, okay.}
+{127}{}{Ta có thể dạy cậu đá mạnh hơn. Sẽ mất cả một ngày đấy.}
 {128}{}{Okay.}
-{129}{}{Ta có th? d?y c?u đ? đ? chi?n đ?u t?t hơn. S? m?t m?t ngày đ?y.}
+{129}{}{Ta có thể dạy cậu đủ để chiến đấu tốt hơn. Sẽ mất một ngày đấy.}
 {130}{}{Okay.}
-{131}{}{C?u đ? h?c t?t l?m, C?u tinh. C?u cho gió luôn theo lưng c?u.}
-{132}{}{Cám ơn đ? giúp đ?.}
-{133}{}{Ta đ? d?y t?t c? nh?ng g? ta bi?t, C?u tinh. Chúc hành tr?nh may m?n.}
+{131}{}{Cậu đã học tốt lắm, Cứu tinh. Cầu cho gió luôn theo lưng cậu.}
+{132}{}{Cám ơn đã giúp đỡ.}
+{133}{}{Ta đã dạy tất cả những gì ta biết, Cứu tinh. Chúc hành trình may mắn.}

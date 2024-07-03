@@ -2,7 +2,7 @@
 {101}{}{He appears to be a nomad shaman.}
 {102}{}{The strong smell of herbs cling to this one's clothing.}
 {103}{}{Hello, stranger. I am the tribe shaman. I am skilled in the art of healing.}
-{104}{}{Chào g?p l?i.}
+{104}{}{Chào gặp lại.}
 {105}{}{I am in need of healing.}
 {106}{}{Can you combine the Xander root and the Broc flower?}
 {107}{}{Chào.}
@@ -33,9 +33,9 @@
  measured doses of the powder.]}
 {131}{}{Chào.}
 {132}{}{You seem to be short on cash. Return later when your purse is fatter.}
-{133}{}{[K?T THÚC]}
+{133}{}{[KẾT THÚC]}
 {134}{}{I do not have time for such nonsense. Leave!}
-{135}{}{[K?T THÚC]}
+{135}{}{[KẾT THÚC]}
 {136}{}{[Poisoned]}
 {137}{}{[Injured]}
 {138}{}{[Radiated]}

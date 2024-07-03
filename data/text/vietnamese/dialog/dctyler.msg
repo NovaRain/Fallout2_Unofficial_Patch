@@ -24,15 +24,15 @@
 {251}{}{So, what do you want this time?}
 {252}{}{Metzger sent me.}
 {253}{}{I'm here to inspect the church.}
-{254}{}{Không có g?. Xin chào.}
-{255}{}{Ng? }
+{254}{}{Không có gì. Xin chào.}
+{255}{}{Ngộ }
 {256}{}{Aruwa?}
 {260}{}{What the hell for? His stuff's not going anywhere.}
 {261}{}{His crap still hasn't moved an inch.}
 {262}{}{Oh, yeah. You're a slaver now, eh? So what did he want? It's not going anywhere - not like it could.}
 {263}{}{He wanted me to check it for him.}
 {264}{}{Well, he wants to be sure.}
-{265}{}{Không có g?.}
+{265}{}{Không có gì.}
 {270}{}{Sure he did. I've never seen you around here before. Now, beat it.}
 {271}{}{Let me in there now, before I have to get angry on your face!}
 {272}{}{Look, he had me come into town just to inspect his damn stuff. I could care less.}
@@ -53,7 +53,7 @@
 {310}{}{Beat it.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
-{322}{}{?...}
+{322}{}{Ừ...}
 {330}{}{Beat it, freak.}
 {331}{}{Sukyu!}
 {332}{}{Arug!}
@@ -84,7 +84,7 @@
 {391}{}{Yeah, he's throwing a party tonight at his place. Should be a blast. I'd invite you, honey, but it's only for his closest friends.}
 {392}{}{Down a few brews for me.}
 {393}{}{I understand, thanks. Have fun.}
-{394}{}{G?p l?i sau.}
+{394}{}{Gặp lại sau.}
 {400}{}{You better believe it! We're going to drink until we drop!}
 {401}{}{Chào.}
 {410}{}{What the fuck do you care. Beat it.}
@@ -148,6 +148,6 @@
 {713}{}{I'm his new bitch, that's why! If you don't let me in right now, I'll be sure you find yourself at the top of his shit list.}
 {714}{}{Look, buddy. Metzger's going to have my hide if I don't inspect everything soon. You know how he gets.}
 {715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
-{716}{}{Không có g?.}
+{716}{}{Không có gì.}
 {717}{}{Shaka?}
 {1255}{}{!}

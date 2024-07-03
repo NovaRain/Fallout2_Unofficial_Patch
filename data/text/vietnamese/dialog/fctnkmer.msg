@@ -1,4 +1,4 @@
-{100}{}{B?n th?y m?t thương gia.}
+{100}{}{Bạn thấy một thương gia.}
 {101}{}{You see Jenna, the merchant.}
 {102}{}{You see a pretty shop owner.}
 {103}{}{Hi! I'm Jenna. May I help you?}
@@ -9,19 +9,19 @@
 {108}{}{Sure, show me what you've got.}
 {109}{}{Not right now.}
 {110}{}{I've learned that the less you know, the longer you live. I have no other information for you. Would you like to see my goods?}
-{111}{}{Đúng v?y.}
+{111}{}{Đúng vậy.}
 {112}{}{Không.}
 {113}{}{Great. Have a look.}
 {114}{}{}
 {115}{}{Ok.}
 {116}{}{Anything else?}
-{117}{}{Đúng v?y.}
+{117}{}{Đúng vậy.}
 {118}{}{Không.}
 {119}{}{Well, you have a great day then.}
 {120}{}{}
 {121}{}{Ok.}
 {122}{}{Hello again. Is there something else I can help you with?}
-{123}{}{Đúng v?y.}
+{123}{}{Đúng vậy.}
 {124}{}{Không.}
 {125}{}{I'm sorry but I'm closed. I open at eight; please come back then.}
 {126}{}{}

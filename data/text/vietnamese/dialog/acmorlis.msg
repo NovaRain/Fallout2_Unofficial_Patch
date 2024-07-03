@@ -1,55 +1,55 @@
-{100}{}{B?n th?y Morlis, m?t ngư?i d? c?a b?n -- ngư?i ch?ng bao gi? ưu b?n.}
-{101}{}{Sao mày l?i đi làm phi?n tao h? cháu? Mày không th?y tao đang b?n à?}
-{102}{}{?m, okay. Xin l?i.}
-{103}{}{G? đ?y? Mày bi?t là tao b?n l?m mà!}
-{104}{}{?m, Mynoc nói là...}
-{105}{}{Mynoc nói g?? Nói nhanh lên nào, nhóc con!}
-{106}{}{Là, ?m, d? có đá mài.}
-{107}{}{Tao có đây. Mu?n m?t ít ch? g??}
-{108}{}{?, vâng.}
-{109}{}{R?i... Tao mu?n ba b?c b?t ch?a thương. Th?i đi?m khó khăn s?p t?i
-và tao c?n ph?i chu?n b?. H?y mang chúng đ?n đây và mày s? có đá mài.
-Gi? th? đi ki?m đi!}
-{110}{}{Vâng, thưa d?!}
-{111}{}{Đ?ng có làm m?t th?i gian c?a tao. Mày có b?t chưa?}
-{112}{}{Vâng, ? đây ?.}
-{113}{}{?m, ch?c là chưa ?.}
-{114}{}{Đá mài đây. Gi? th? bi?n đi! Tao không có th? gi? b?c phét đâu.}
-{115}{}{Cám ơn, D? Morlis.}
-{116}{}{L?i làm phi?n tao à, đ? cháu vô d?ng! Làm sao mà mày l?i tr? thành
-C?u tinh đư?c nh??}
-{117}{}{Vâng, D? Morlis.}
-{118}{}{?, D? Morlis, cháu có ba b?c ? đây.}
-{150}{}{D? Morlis, cháu đang th?c hi?n nhi?m v? đ?y hi?m nguy đ? c?u ngôi làng.
-Cháu s? có cơ h?i thành công cao hơn n?u gi? l?i b?t ch?a thương và d? đưa
-đá mài cho cháu. D? th?y có đúng không?}
-{151}{}{Mày đang ngh? g? th? h? nhóc? Đ?y không ph?i là cách mà C?u tinh làm. Gi? th? bi?n đi cho khu?t m?t tao!}
-{152}{}{N?u c?c đá mài quan tr?ng đ?n m?c mày s?n sàng làm nh?c cái tên C?u tinh th? đây. C?m l?y và bi?n đi
-cho khu?t m?t tao.}
-{153}{}{Vâng, D? Morlis.}
-{154}{}{?... ?, đư?c thôi. Đá mày đây. Ta chúc con hành tr?nh b?nh an.}
-{155}{}{Không h?. Gi? th? đ?ng có lèo nhèo m?t th?i gian và bi?n kh?i đây đi!}
-{156}{}{Vâng, D? Morlis.}
-{200}{}{V?y là mày đ? quay tr? l?i. Mày t?m đư?c s? 13 th?n thánh chưa?}
-{201}{}{Chưa, D? Morlis, cháu...}
-{202}{}{Th? th? cút kh?i đây và đi t?m đi! M?i ngư?i đang trông đ?i ? mày đ?y!}
-{203}{}{Vâng, D? Morlis.}
-{204}{}{Ài, mày l?i vác m?t v? đây à. Có ph?i mày l?i không th?c hi?n đư?c nhi?m v? thêm l?n n?a không?}
-{205}{}{Vâng, D? Morlis, nhưng...}
-{206}{}{V?y th? cút kh?i đây và đ?ng có v? ch?ng nào làm xong! Sao l?i m?t th?i gian quay v? khi mà có th? ti?p t?c đi t?m ch?!?}
-{207}{}{Vâng, D? Morlis.}
-{208}{}{Mày đang đ?ng ? đây ch?ng t? là mày đ? làm xong nhi?m v? r?i. Mày s? không phí ph?m th?i gian qu? báu đ? tr? v? tay không ch? h??}
-{209}{}{Vâng, D? Morlis. ? cháu là, không, D? Morlis, ?, cháu ph?i đi đây, D? Morlis.}
-{210}{}{V?y là, nhóc l?i m?t l?n n?a đ?ng trư?c m?t ta. L?i v? tay tr?ng à?}
-{211}{}{Vâng, D? Morlis.}
+{100}{}{Bạn thấy Morlis, một người dì của bạn -- người chẳng bao giờ ưu bạn.}
+{101}{}{Sao mày lại đi làm phiền tao hả cháu? Mày không thấy tao đang bận à?}
+{102}{}{Ừm, okay. Xin lỗi.}
+{103}{}{Gì đấy? Mày biết là tao bận lắm mà!}
+{104}{}{Ừm, Mynoc nói là...}
+{105}{}{Mynoc nói gì? Nói nhanh lên nào, nhóc con!}
+{106}{}{Là, ừm, dì có đá mài.}
+{107}{}{Tao có đây. Muốn một ít chứ gì?}
+{108}{}{Ờ, vâng.}
+{109}{}{Rồi... Tao muốn ba bọc bột chữa thương. Thời điểm khó khăn sắp tới
+và tao cần phải chuẩn bị. Hãy mang chúng đến đây và mày sẽ có đá mài.
+Giờ thì đi kiếm đi!}
+{110}{}{Vâng, thưa dì!}
+{111}{}{Đừng có làm mất thời gian của tao. Mày có bột chưa?}
+{112}{}{Vâng, ở đây ạ.}
+{113}{}{Ừm, chắc là chưa ạ.}
+{114}{}{Đá mài đây. Giờ thì biến đi! Tao không có thì giờ bốc phét đâu.}
+{115}{}{Cám ơn, Dì Morlis.}
+{116}{}{Lại làm phiền tao à, đồ cháu vô dụng! Làm sao mà mày lại trở thành
+Cứu tinh được nhỉ?}
+{117}{}{Vâng, Dì Morlis.}
+{118}{}{Ờ, Dì Morlis, cháu có ba bọc ở đây.}
+{150}{}{Dì Morlis, cháu đang thực hiện nhiệm vụ đầy hiểm nguy để cứu ngôi làng.
+Cháu sẽ có cơ hội thành công cao hơn nếu giữ lại bột chữa thương và dì đưa
+đá mài cho cháu. Dì thấy có đúng không?}
+{151}{}{Mày đang nghĩ gì thế hả nhóc? Đấy không phải là cách mà Cứu tinh làm. Giờ thì biến đi cho khuất mắt tao!}
+{152}{}{Nếu cục đá mài quan trọng đến mức mày sẵn sàng làm nhục cái tên Cứu tinh thì đây. Cầm lấy và biến đi
+cho khuất mắt tao.}
+{153}{}{Vâng, Dì Morlis.}
+{154}{}{Ờ... Ồ, được thôi. Đá mày đây. Ta chúc con hành trình bình an.}
+{155}{}{Không hề. Giờ thì đừng có lèo nhèo mất thời gian và biến khỏi đây đi!}
+{156}{}{Vâng, Dì Morlis.}
+{200}{}{Vậy là mày đã quay trở lại. Mày tìm được số 13 thần thánh chưa?}
+{201}{}{Chưa, Dì Morlis, cháu...}
+{202}{}{Thế thì cút khỏi đây và đi tìm đi! Mọi người đang trông đợi ở mày đấy!}
+{203}{}{Vâng, Dì Morlis.}
+{204}{}{Ài, mày lại vác mặt về đây à. Có phải mày lại không thực hiện được nhiệm vụ thêm lần nữa không?}
+{205}{}{Vâng, Dì Morlis, nhưng...}
+{206}{}{Vậy thì cút khỏi đây và đừng có về chừng nào làm xong! Sao lại mất thời gian quay về khi mà có thể tiếp tục đi tìm chứ!?}
+{207}{}{Vâng, Dì Morlis.}
+{208}{}{Mày đang đứng ở đây chứng tỏ là mày đã làm xong nhiệm vụ rồi. Mày sẽ không phí phạm thời gian quý báu để trở về tay không chứ hả?}
+{209}{}{Vâng, Dì Morlis. Ý cháu là, không, Dì Morlis, Ừ, cháu phải đi đây, Dì Morlis.}
+{210}{}{Vậy là, nhóc lại một lần nữa đứng trước mặt ta. Lại về tay trắng à?}
+{211}{}{Vâng, Dì Morlis.}
 {212}{}{Nghe này, }
-{213}{}{. Ngư?i th? ch?t d?n, b? c?ng ch?t d?n, cây tr?ng th? héo úa. M?i ngư?i ho?c là ch?t v? đói, ho?c b?nh, ho?c c? hai. Th?i gian s?p h?t r?i. N?u mày không s?m t?m th?y GECK th? chúng ta ch?t h?t. Mày có hi?u không?}
-{214}{}{Vâng, D? Morlis.}
-{215}{}{V?y th? cút kh?i đây và đi t?m GECK đi! M?i ngư?i đang trông ch? vào mày đ?y!}
-{216}{}{Vâng, D? Morlis.}
-{300}{}{Chà, có v? như tao đ? đá mài ch? khác r?i. ? ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m.}
-{301}{}{Sao mày l?i đi làm phi?n tao h? cháu? Mày không th?y tao đang b?n à?}
-{302}{}{Chà, t?m m?i không th?y đá mài. Ch?c ch?n là mày l?y tr?m lúc tao không canh ch?ng r?i. L?n trư?c c?ng th?. Gi? th? cút đi! Tao không có th?i gian đ? tán nh?m đâu.}
-{303}{}{Chà... ?, ta xin l?i nhưng ta không t?m th?y đá mài. Ta chúc con hành tr?nh b?nh an, nhóc ?.}
-{304}{}{Tao đ? đưa đá mài cho mày r?i, đ? ngu. Gi? th? đ?ng có làm m?t th?i gian c?a tao và bi?n đi!}
-{305}{}{Tao đ? đưa đá mài cho mày r?i, đ? ngu. ?, ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m đâu.}
+{213}{}{. Người thì chết dần, bò cũng chết dần, cây trồng thì héo úa. Mọi người hoặc là chết vì đói, hoặc bệnh, hoặc cả hai. Thời gian sắp hết rồi. Nếu mày không sớm tìm thấy GECK thì chúng ta chết hết. Mày có hiểu không?}
+{214}{}{Vâng, Dì Morlis.}
+{215}{}{Vậy thì cút khỏi đây và đi tìm GECK đi! Mọi người đang trông chờ vào mày đấy!}
+{216}{}{Vâng, Dì Morlis.}
+{300}{}{Chà, có vẻ như tao để đá mài chỗ khác rồi. Ồ ít nhất thì tao cũng có bột rồi. Giờ thì biến đi! Tao không có thời gian để tán nhảm.}
+{301}{}{Sao mày lại đi làm phiền tao hả cháu? Mày không thấy tao đang bận à?}
+{302}{}{Chà, tìm mãi không thấy đá mài. Chắc chắn là mày lấy trộm lúc tao không canh chừng rồi. Lần trước cũng thế. Giờ thì cút đi! Tao không có thời gian để tán nhảm đâu.}
+{303}{}{Chà... Ồ, ta xin lỗi nhưng ta không tìm thấy đá mài. Ta chúc con hành trình bình an, nhóc ạ.}
+{304}{}{Tao đã đưa đá mài cho mày rồi, đồ ngu. Giờ thì đừng có làm mất thời gian của tao và biến đi!}
+{305}{}{Tao đã đưa đá mài cho mày rồi, đồ ngu. Ồ, ít nhất thì tao cũng có bột rồi. Giờ thì biến đi! Tao không có thời gian để tán nhảm đâu.}

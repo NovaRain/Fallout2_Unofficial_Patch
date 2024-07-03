@@ -41,11 +41,11 @@
  and the New California Republic.}
 {134}{}{You send it all over the place?}
 {135}{}{Why did you call your mine Kokoweef?}
-{136}{}{Đ? tôi h?i chuy?n khác.}
+{136}{}{Để tôi hỏi chuyện khác.}
 {137}{}{I see. Thanks. That's all I need to know for now. Goodbye.}
 {138}{}{Sure do. Everyone likes gold. You should talk to the caravan master, James Hoffy, if you're real
  curious about it.}
-{139}{}{Đ? tôi h?i chuy?n khác.}
+{139}{}{Để tôi hỏi chuyện khác.}
 {140}{}{Thanks, I'll do that. Goodbye.}
 {141}{}{A Garden of Eden Creation Kit, huh? Sounds pretty impressive. If I had something like that you
  sure wouldn't find me grubbing around in the dirt to make ends meet, now would you?}

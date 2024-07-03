@@ -1,11 +1,11 @@
-{100}{}{B?n th?y m?t lính gác.}
+{100}{}{Bạn thấy một lính gác.}
 {101}{}{You see a guard for Becky's Casino Bar.}
 {150}{}{He seems to be keeping a close eye on this door.}
 {200}{}{You're not getting off that easy.}
 {210}{}{This is to Rebecca's room. No one's allowed in.}
 {211}{}{Hope you're enjoying yourself.}
 {212}{}{You looking for Becky? She's right there.}
-{213}{}{Hi.}
+{213}{}{Chào.}
 {214}{}{Enjoy the tables.}
 {215}{}{Becky's got the cheapest drinks in town.}
 {230}{}{Get away from that right now.}

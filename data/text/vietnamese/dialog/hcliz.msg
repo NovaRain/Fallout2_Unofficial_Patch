@@ -43,7 +43,7 @@
 {140}{}{Your secret's safe. I got it from a reliable source.}
 {141}{}{You might try the caves or the area near the homes. I understand there are plenty of monsters
  there.}
-{142}{}{Cám ơn. T?m bi?t.}
+{142}{}{Cám ơn. Tạm biệt.}
 {143}{}{Humanoids, eh? Any humanoids in particular?}
 {144}{}{Humans.}
 {145}{}{Ghouls.}
@@ -68,13 +68,13 @@
 {162}{}{If you're really interested in killing mutants, maybe you ought to go talk to Jacob the chemist.}
 {163}{}{Jacob, eh? Will do.}
 {164}{}{Thought you might be. Now get along.}
-{165}{}{Đư?c thôi.}
+{165}{}{Được thôi.}
 {166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
  small arsenal down there. Git going.}
 {167}{}{Cám ơn.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
-{169}{}{Đúng v?y.}
+{169}{}{Đúng vậy.}
 {170}{}{Không.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
 {172}{}{[XONG]}
@@ -87,6 +87,6 @@
 {181}{}{That's it! Get over here!}
 {182}{}{What else are you going to bother me with?}
 {183}{}{Cám ơn.}
-{184}{}{[TI?P T?C]}
+{184}{}{[TIẾP TỤC]}
 {185}{}{Hey! Who the hell is out there?}
 {186}{}{I don't know who you are, but I'm comin' for ya'.}

@@ -29,7 +29,7 @@
 {177}{}{I'll bet you're nicer than you look.}
 {178}{}{Let's play tag. You're it.}
 {179}{}{You don't smell that bad.}
-{180}{}{Chú có th?y b?n ma c?a cháu không?}
+{180}{}{Chú có thấy bạn ma của cháu không?}
 {181}{}{I want to travel the world when I'm as old as you.}
 {182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do bathe.}
@@ -38,7 +38,7 @@
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
 {188}{}{I've got a shiny pebble.}
-{189}{}{Chú có th?y b?n ma c?a cháu không?}
+{189}{}{Chú có thấy bạn ma của cháu không?}
 {190}{}{Can I join your tribe?}
 {191}{}{You're nice.}
 {192}{}{You look funny.}
@@ -73,30 +73,30 @@
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
 {223}{}{One, two, three... Weee!}
-{1000}{}{Trư?ng l?o}
-{1001}{}{Ngư?i m? làng}
-{1002}{}{C? t? t? Vault}
+{1000}{}{Trưởng lão}
+{1001}{}{Người mở làng}
+{1002}{}{Cụ tổ từ Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{C?u tinh}
-{1007}{}{Th?y cúng}
+{1006}{}{Cứu tinh}
+{1007}{}{Thầy cúng}
 {1008}{}{Hakunin}
-{1009}{}{B?t ch?a thương}
-{1010}{}{C?u}
+{1009}{}{Bột chữa thương}
+{1010}{}{Cầu}
 {1011}{}{Mynoc}
-{1100}{}{Trư?ng l?o là m? c?u đ?ng th?i là trư?ng làng.}
-{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
-{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
-{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
+{1100}{}{Trưởng lão là mẹ cậu đồng thời là trưởng làng.}
+{1101}{}{Cụ tổ vĩ đại đã truyền kiến thức cho chúng ta.}
+{1102}{}{Người đầu tiên chiến đấu và chiến thắng cái xấu.}
+{1103}{}{Đó là ngôi làng xinh đẹp của chúng ta.}
 {1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{Vault là thiên đư?ng.}
-{1106}{}{C?u là C?u tinh.}
+{1105}{}{Vault là thiên đường.}
+{1106}{}{Cậu là Cứu tinh.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
-{1109}{}{Đây là b?t ch?a thương có th? ch?a lành cho anh, nhưng s? khi?n
-anh th?y bu?n ng?.}
-{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
-{1111}{}{Anh ta canh gác cây c?u d?n vào làng chúng ta.}
+{1109}{}{Đây là bột chữa thương có thể chữa lành cho anh, nhưng sẽ khiến
+anh thấy buồn ngủ.}
+{1110}{}{Cây Cầu Lớn dẫn ra ngoài làng ở phía Nam.}
+{1111}{}{Anh ta canh gác cây cầu dẫn vào làng chúng ta.}

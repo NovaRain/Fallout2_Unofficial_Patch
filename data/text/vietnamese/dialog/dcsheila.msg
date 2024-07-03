@@ -1,6 +1,6 @@
 {100}{}{You see a prostitute.}
 {150}{}{This is your usual, run of the mill, prostitute.}
-{152}{}{[NÓI CHUY?N]}
+{152}{}{[NÓI CHUYỆN]}
 {153}{}{Hey, I don't do chicks!}
 {154}{}{Whatever.}
 {155}{}{Sorry.}
@@ -57,7 +57,7 @@
 {207}{}{OK. Bye.}
 {208}{}{Yeah, right.}
 {209}{}{Whoo!}
-{210}{}{G?p l?i sau.}
+{210}{}{Gặp lại sau.}
 {211}{}{Chào.}
 {212}{}{Chào nhé.}
 {213}{}{It will cost $}

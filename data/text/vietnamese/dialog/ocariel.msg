@@ -4,7 +4,7 @@
 {103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
 {104}{}{Me}
 {105}{}{Uh... you look sad. Why?}
-{106}{}{Ng? đi gi?.}
+{106}{}{Ngộ đi giờ.}
 {107}{}{Hello, Ariel, my name is}
 {108}{}{Hi. You're looking rather down. What's up?}
 {109}{}{You don't need to know my name, but I need some information from you.}
@@ -24,8 +24,8 @@
 {123}{}{Forgive me, but I don't have the time for someone with your attitude. Good-day.}
 {124}{}{}
 {125}{}{}
-{126}{}{Đư?c r?i.}
-{127}{}{Mu?n bi?t g? nào?}
+{126}{}{Được rồi.}
+{127}{}{Muốn biết gì nào?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
 {130}{}{Want leave?}
@@ -42,7 +42,7 @@
  anyone here against their will, as far as I know.}
 {141}{}{Uh, okay.}
 {142}{}{Got it. Me go.}
-{143}{}{Hi?u r?i.}
+{143}{}{Hiểu rồi.}
 {144}{}{I think you're lying, bitch.}
 {145}{}{I see. If you don't mind, I need to ask you about a few more things.}
 {146}{}{Yes. They provide me with food, water, shelter, and protection. I feel very safe here, and

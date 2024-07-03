@@ -1,7 +1,7 @@
 {100}{}{You see a pretty young woman dressed in combat clothes.}
 {101}{}{It's Elise.}
 {102}{}{She's got a no-nonsense air about her, like she's used to giving orders and having folks obey them.}
-{103}{}{Mu?n g??}
+{103}{}{Muốn gì?}
 {104}{}{You again?}
 {105}{}{Karl sent me.}
 {106}{}{Doc Jubilee said I should talk to you.}
@@ -47,11 +47,11 @@
 {146}{}{That's the kind of attitude that allows the atrocity of slavery to exist in the first place. I'm sorry, but there is no place for you in our organization.}
 {147}{}{Ok.}
 {148}{}{So, changed your mind? Ready to prove your worth?}
-{149}{}{Đư?c thôi.}
+{149}{}{Được thôi.}
 {150}{}{What was it you wanted done?}
 {151}{}{Shouldn't you be doing something? Don't come back here until the job's done.}
 {152}{}{I've heard the news already. You freed the slaves. Good work! So, you ready to become a Ranger?}
-{153}{}{Đúng v?y.}
+{153}{}{Đúng vậy.}
 {154}{}{Không.}
 {155}{}{I hear you're the one who freed all the slaves outside the city gates. That was a fine thing you did and I just want to shake your hand.}
 {156}{}{Cám ơn.}
@@ -59,7 +59,7 @@
 {158}{}{The Rangers sound like a group I'd be proud to join. Sign me up.}
 {159}{}{Interesting... I'll have to think about what you've said.}
 {160}{}{Do you swear to fight slavery whenever the opportunity arises and to help your fellow Rangers whenever they're in need?}
-{161}{}{Đúng v?y.}
+{161}{}{Đúng vậy.}
 {162}{}{Không.}
 {163}{}{Congratulations, you're now a Ranger.}
 {164}{}{Well-met, fellow Ranger. Afraid there's not much for you to do around here at this time. Most our people are already out on patrol. I'll spread the word that you're one of us now. I wouldn't want you getting shot by one of us.}
@@ -74,10 +74,10 @@
 {173}{}{That being the case, I have to ask you to get out of my sight. Now!}
 {174}{}{Ok.}
 {175}{}{A slaver! Get out of here before I remove that tattoo of yours with a bullet!}
-{176}{}{Đư?c thôi.}
+{176}{}{Được thôi.}
 {177}{}{Try it!}
 {178}{}{We've got agents and sympathizers in some of the towns up north. We're spreading the word and hitting slavers wherever we can.}
 {179}{}{Hello again. Have you changed your mind about joining us?}
-{180}{}{Không có g?.}
+{180}{}{Không có gì.}
 {181}{}{That doesn't belong to you. Now leave or I will get violent.}
 {182}{}{I don't know what you did to Gond, but you're going to pay!}

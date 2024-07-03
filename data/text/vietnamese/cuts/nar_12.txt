@@ -1,2 +1,2 @@
-1:Các ghoul c?a Necropolis tr?c ti?p hi?u đư?c th? nào là ki?t qu? cùng c?c, khi thành ph? c?a h? b? nh?n ch?m trong cát sa m?c c?n ngu?n nư?c th? c?n ki?t.
-2:H? không th? t?n t?i khi thi?u con chip đi?u khi?n h? th?ng l?c nư?c.
+1:Các ghoul của Necropolis trực tiếp hiểu được thế nào là kiệt quệ cùng cực, khi thành phố của họ bị nhấn chìm trong cát sa mạc còn nguồn nước thì cạn kiệt.
+2:Họ không thể tồn tại khi thiếu con chip điều khiển hệ thống lọc nước.

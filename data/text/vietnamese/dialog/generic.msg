@@ -1,7 +1,7 @@
 {100}{}{You gain }
 {101}{}{ experience points.}
 {102}{}{You successfully disarm the trap.}
-{103}{}{B?n không vô hi?u hóa đư?c b?y.}
+{103}{}{Bạn không vô hiệu hóa được bẫy.}
 {104}{}{You accidentally set off the trap.}
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}
@@ -12,22 +12,22 @@
 {203}{}{Thanks!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
-{206}{}{Đư?c thôi.}
-{207}{}{Đúng v?y.}
+{206}{}{Được thôi.}
+{207}{}{Đúng vậy.}
 {208}{}{Không.}
 {209}{}{OK.}
 {300}{}{Ug.}
 {301}{}{Og.}
 {302}{}{Ooga.}
 {303}{}{Urg.}
-{350}{}{[K?T THÚC]}
+{350}{}{[KẾT THÚC]}
 {351}{}{[BYE]}
 {352}{}{[THÊM]}
-{353}{}{[TI?P T?C]}
+{353}{}{[TIẾP TỤC]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
 {375}{}{Chào.}
-{376}{}{T?m bi?t.}
+{376}{}{Tạm biệt.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed

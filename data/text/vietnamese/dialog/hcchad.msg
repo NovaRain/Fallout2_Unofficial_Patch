@@ -22,7 +22,7 @@
 {137}{}{Sounds exciting.}
 {138}{}{Sounds boring.}
 {139}{}{I have more questions.}
-{140}{}{Cám ơn. T?m bi?t.}
+{140}{}{Cám ơn. Tạm biệt.}
 {141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
@@ -35,7 +35,7 @@
 {150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Talk to the Bill. He'll help you out.}
 {157}{}{I have more questions.}
-{158}{}{Cám ơn. T?m bi?t.}
+{158}{}{Cám ơn. Tạm biệt.}
 {159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world... and I feel I
  contribute to the town here. It's a good life.}
 {160}{}{Sounds great. I'd like a job like that.}

@@ -39,14 +39,14 @@
 {127}{}{}
 {128}{}{}
 {129}{}{Help Skynet.}
-{130}{}{Mu?n g??}
+{130}{}{Muốn gì?}
 {131}{}{Why have you been trying to kill me?}
 {132}{}{Artificial intelligence?}
 {133}{}{Waiting for me?}
 {134}{}{Thoát.}
 {135}{}{Thoát.}
 {136}{}{Proceed}
-{137}{}{Mu?n g??}
+{137}{}{Muốn gì?}
 {138}{}{Why have you been trying to kill me?}
 {139}{}{Artificial intelligence?}
 {140}{}{Waiting for me?}
@@ -81,7 +81,7 @@
 {162}{}{Skynet wants to leave this place.}
 {163}{}{Then why don't you leave?}
 {164}{}{It's nice to want.}
-{165}{}{Tôi giúp g? đư?c nh??}
+{165}{}{Tôi giúp gì được nhỉ?}
 {166}{}{I couldn't possibly carry you out of here.}
 {167}{}{Skynet needs a vessel to leave this location.}
 {168}{}{Vessel? I don't understand.}
@@ -93,7 +93,7 @@
 {174}{}{There is nothing more to learn here
                            Solution: Leave}
 {175}{}{}
-{176}{}{Tôi giúp g? đư?c nh??}
+{176}{}{Tôi giúp gì được nhỉ?}
 {177}{}{I'm sorry. I can't help you.}
 {178}{}{After you tried to kill me, you want me to help you? No way!}
 {179}{}{Proceed to Bio Storage - Level 4
@@ -131,7 +131,7 @@
 {199}{}{}
 {200}{}{}
 {201}{}{Then why don't you leave?}
-{202}{}{Tôi giúp g? đư?c nh??}
+{202}{}{Tôi giúp gì được nhỉ?}
 {203}{}{I couldn't possibly carry you out of here.}
 {204}{}{Skynet's primary purpose is research. A secondary program was introduced by the Makers to eliminate unauthorized entities. This program is a smaller version that is and yet is not Skynet. Outside of this room this secondary Skynet will remain true to its program.}
 {205}{}{Ask more questions.}

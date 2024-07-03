@@ -18,9 +18,9 @@
 {114}{}{Where's the saloon?}
 {115}{}{Where are the caravaneers?}
 {116}{}{Where's the general store?}
-{117}{}{Cám ơn. T?m bi?t.}
+{117}{}{Cám ơn. Tạm biệt.}
 {118}{}{Just one of the miners. Do you want someone important?}
-{119}{}{Đúng v?y.}
+{119}{}{Đúng vậy.}
 {120}{}{Không.}
 {121}{}{Chào.}
 {122}{}{The movers and shakers of the town are Marcus, who's kind of the mayor and sheriff, Zaius, who's
@@ -31,7 +31,7 @@
 {125}{}{Where can I find Cameron?}
 {126}{}{Where can I find Chad?}
 {127}{}{Where can I find Phil?}
-{128}{}{Cám ơn. T?m bi?t.}
+{128}{}{Cám ơn. Tạm biệt.}
 {129}{}{If you think you can help out at the mine, go talk to Zaius. He's usually in the foreman's hut
  outside the mine. He's in a bad mood because of the air purifier being shut down. Anything else?}
 {130}{}{Phil the ghoul runs the saloon. He's kinda the spokesman for the ghouls in town. You can find

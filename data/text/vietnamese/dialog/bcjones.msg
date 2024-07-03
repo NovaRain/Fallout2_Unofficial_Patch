@@ -30,7 +30,7 @@
 {126}{}{What you know about Darion?}
 {127}{}{How you be here?}
 {128}{}{You say Darion got doggie?}
-{129}{}{Ng? đi gi?.}
+{129}{}{Ngộ đi giờ.}
 {130}{}{Do you work for Darion?}
 {131}{}{Can you leave here if you want?}
 {132}{}{What can you tell me about Darion?}
@@ -42,7 +42,7 @@
  be here for the people in the town above. They have no medical help at all, and there is a lot I can
  do to aid them.}
 {137}{}{Okay. Need know more.}
-{138}{}{Cám ơn. T?m bi?t.}
+{138}{}{Cám ơn. Tạm biệt.}
 {139}{}{That's very commendable of you.}
 {140}{}{I see. I'll be going now.}
 {141}{}{They're squatters! Let 'em die. Get on with your life.}

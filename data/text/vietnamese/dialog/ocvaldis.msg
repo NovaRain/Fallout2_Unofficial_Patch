@@ -17,19 +17,19 @@
 {115}{}{Hey, I'm the one asking the questions here.}
 {116}{}{I've got to go.}
 {117}{}{Glad to meet you, I'm}
-{118}{}{Hi?u r?i.}
+{118}{}{Hiểu rồi.}
 {119}{}{I am currently guarding this area of the vault against any unauthorized personnel.}
 {120}{}{Un awe thor iced person el?}
 {121}{}{Uh... sure.}
 {122}{}{You talk funny. Me leave.}
 {123}{}{I'll be leaving now, Valdis.}
-{124}{}{Hi?u r?i.}
+{124}{}{Hiểu rồi.}
 {125}{}{Well, you certainly seem to know your job well.}
 {126}{}{Do you have the brains to decide who is or is not 'authorized?'}
 {127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have
  concluded that you excel in that category! Now, why don't you leave before I dance on your face for
  half an hour?}
-{128}{}{Đư?c r?i.}
+{128}{}{Được rồi.}
 {129}{}{Bad lizard. Now I have to shoot you.}
 {130}{}{Hey, I'm sorry. I'll watch my tongue from now on.}
 {131}{}{Yes. We are quite diverse in our levels of education. I am doing my best to continue mine in my

@@ -24,13 +24,13 @@
 {123}{}{Chào.}
 {124}{}{The Captain is a tough-ass ol' military guy. He sits upstairs there and checks the place out. He's got some thorough knowledge about this ship.}
 {125}{}{Thanks. I have more questions.}
-{126}{}{Cám ơn. T?m bi?t.}
+{126}{}{Cám ơn. Tạm biệt.}
 {127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
-{128}{}{Đúng v?y.}
+{128}{}{Đúng vậy.}
 {129}{}{No, but I wanted to ask you something else.}
 {130}{}{No, that's all.}
 {131}{}{We're a band of musicians, tekheads, geeks, and artists. We thought we'd come back to someplace famous for artistic and personal freedom. I came here to spawn. Wanna hear more still?}
-{132}{}{Đúng v?y.}
+{132}{}{Đúng vậy.}
 {133}{}{No, but I wanted to ask you something else.}
 {134}{}{No, that's all.}
 {135}{}{Well, when we got here, we figured we'd camp out here until we either figured out how to get this tanker moving again or until we thought of something else.}
@@ -38,7 +38,7 @@
 {137}{}{Tell me about the Hubologists.}
 {138}{}{Tell me about the Shi.}
 {139}{}{I have other questions.}
-{140}{}{Cám ơn. T?m bi?t.}
+{140}{}{Cám ơn. Tạm biệt.}
 {141}{}{I think the Captain's figured out how to do it - but we need several elements first. We've basically given up on taking it for ourselves, to tell the truth - we've got other plans now.}
 {142}{}{What are they?}
 {143}{}{Where can I find the Captain?}
@@ -57,12 +57,12 @@
 {156}{}{You want to know what our plans are? We're going to keep moving around until we can find a place that hasn't been screwed over by human greed and then we're going to try to set up a better society.}
 {157}{}{Do you know how you're going to do that?}
 {158}{}{I have other questions.}
-{159}{}{Cám ơn. T?m bi?t.}
+{159}{}{Cám ơn. Tạm biệt.}
 {160}{}{We're hoping that we can avoid society's mistakes. Hell, things can't get much worse.}
 {161}{}{Have you figured out to move the tanker?}
 {162}{}{Tell me about the Hubologists.}
 {163}{}{Tell me about the Shi.}
 {164}{}{I have other questions.}
-{165}{}{Cám ơn. T?m bi?t.}
+{165}{}{Cám ơn. Tạm biệt.}
 {166}{}{You seen Badger's girlfriend around?}
 {167}{}{I think I saw her go down below. There's a hole on the north side of this deck.}

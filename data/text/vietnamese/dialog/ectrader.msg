@@ -30,12 +30,12 @@
 {119}{}{[End]}
 {120}{}{Well, that was a wasted speech. $}
 {121}{}{Yup.}
-{122}{}{Không h?.}
+{122}{}{Không hề.}
 {123}{}{Hey, it's you again. I got some new stuff - you interested?}
 {124}{}{Sure, let's hear what you got.}
 {125}{}{Not a chance, Willy.}
 {126}{}{Yup.}
-{127}{}{Không h?.}
+{127}{}{Không hề.}
 {128}{}{Beat it! I'm busy.}
 {129}{}{Come back when you got some money.}
 {130}{}{GO AWAY!}

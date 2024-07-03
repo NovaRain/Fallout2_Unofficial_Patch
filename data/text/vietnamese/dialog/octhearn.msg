@@ -7,7 +7,7 @@
 {105}{}{Who you?}
 {106}{}{What you do?}
 {107}{}{How smart you?}
-{108}{}{Ng? đi gi?.}
+{108}{}{Ngộ đi giờ.}
 {109}{}{Ông là ai?}
 {110}{}{What are you doing here?}
 {111}{}{No offense, but just how smart are you?}
@@ -17,7 +17,7 @@
 {115}{}{Me leave.}
 {116}{}{I've got to go.}
 {117}{}{It's a pleasure to meet you, Thearn. I'm}
-{118}{}{Hi?u r?i.}
+{118}{}{Hiểu rồi.}
 {119}{}{Now that I think about it, I don't give a radrat's ass who you are.}
 {120}{}{I guard hall. Safety of pack goal.}
 {121}{}{Oh... Uh...}
@@ -29,7 +29,7 @@
 {127}{}{What are you guarding the hall against?}
 {128}{}{Intruder. Human, deathclaw, whatever. Pack threatened, I attack.}
 {129}{}{Ah.}
-{130}{}{Hi?u r?i.}
+{130}{}{Hiểu rồi.}
 {131}{}{I'd be surprised if you're smart enough to tell a friend from a foe.}
 {132}{}{I feel sorry for any intruders who happen upon you.}
 {133}{}{Never mind. I'll be seeing you.}

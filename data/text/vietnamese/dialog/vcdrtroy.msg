@@ -50,7 +50,7 @@
 {144}{}{No, I'm not.}
 {145}{}{A pleasure to meet you, }
 {146}{}{. If you are ever in need of my services, you can find me here.}
-{147}{}{Cám ơn. T?m bi?t.}
+{147}{}{Cám ơn. Tạm biệt.}
 {148}{}{You're not a Vault City native, though, am I right? I'm certain I would remember someone like
  you. Where are you from?}
 {149}{}{Hold on a moment... you're an Outsider, correct? Where are you from?}
@@ -158,7 +158,7 @@
 {229}{}{Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take
  blood samples from the brahmin in the courtyard, then... thank you, my friend.}
 {230}{}{No problem.}
-{231}{}{Đư?c thôi.}
+{231}{}{Được thôi.}
 {232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
 {233}{}{Tell me about it.}
@@ -235,7 +235,7 @@
 {295}{}{Nothing today. Good day, Doctor.}
 {296}{}{Certainly. I'm sorry... it's been some time since I actually had to administer them. Most
  Citizens received theirs many, many years ago. Let me prep the Auto-Doc for the procedure...}
-{297}{}{Đư?c r?i.}
+{297}{}{Được rồi.}
 {298}{}{All finished. A word of caution: This vaccination doesn't make you immune to poison and
  radiation, but it does bolster your natural resistance.}
 {299}{}{Much appreciated. Say, I had some other questions I wanted to ask you...}
@@ -306,7 +306,7 @@
  convenience. The risk is too great, and the implants are not a substantial improvement over standard
  combat armor.}
 {351}{}{Hmmm. Okay, I had some other questions...}
-{352}{}{?, d?u sao th? c?ng cám ơn.}
+{352}{}{Ồ, dẫu sao thì cũng cám ơn.}
 {353}{}{Well, thanks anyway. Maybe I can find somebody else to perform the operation.}
 {354}{}{I'm sorry. The facilities are only for Citizens, and a list of all patients is kept in the
  database... [Lowers voice.] However, the stimpaks in the lower level supply lockers would not be missed

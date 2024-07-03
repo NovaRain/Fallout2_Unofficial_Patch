@@ -38,7 +38,7 @@
 {137}{}{Shamble off}
 {138}{}{I'd like to get back into the city.}
 {139}{}{I wanted to ask you some questions...}
-{140}{}{Không có g?.}
+{140}{}{Không có gì.}
 {141}{}{Cease bothering me, you fool.}
 {142}{}{Me no FUL. YOU FUL.}
 {143}{}{Shamble off}
@@ -237,7 +237,7 @@
  Here you go. The pass is only good during the day; at night you will be asked to leave. Now go.}
 {329}{}{Before I leave, can I ask you another question?}
 {330}{}{I'll go do that.}
-{331}{}{Cám ơn. T?m bi?t.}
+{331}{}{Cám ơn. Tạm biệt.}
 {332}{}{Oh, uh, that's not my place to say. You'd have to speak with the First Citizen about such matters.}
 {333}{}{What were you saying about NCR?}
 {334}{}{What were you saying about raiders?}

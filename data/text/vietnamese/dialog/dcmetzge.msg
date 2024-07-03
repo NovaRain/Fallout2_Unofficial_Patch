@@ -74,7 +74,7 @@
 {303}{}{Oh, okay. Bye.}
 {310}{}{What do you know, you didn't even cry. I'm so proud of you... actually, that tat
  looks pretty good on you. Just give a holler when you're ready for your first slave run.}
-{311}{}{Cám ơn. T?m bi?t.}
+{311}{}{Cám ơn. Tạm biệt.}
 {312}{}{I'm ready right now.}
 {313}{}{Me Kill NOW!}
 {314}{}{Okey-Dokey.}
@@ -90,7 +90,7 @@
 {325}{}{Get a move on it then.}
 {326}{}{Good. See me when you're done.}
 {327}{}{Okay.}
-{328}{}{?.}
+{328}{}{Ừ.}
 {340}{}{Just kill all the hostile ones. If they attack you, kill them. I don't
  want to deal with them anymore, too big of a fucking hassle. Once you're done,
  the other slavers will round up and tag the rest.}
@@ -99,7 +99,7 @@
 {350}{}{Once they start tagging the slaves, you can head back if you like. It takes
  special training, so don't try to subdue the others yourself. You can do whatever
  you want just as long as you don't damage the goods.}
-{351}{}{Đư?c r?i.}
+{351}{}{Được rồi.}
 {352}{}{Uh huh.}
 {360}{}{Ah, yeah. She's pretty nice. I'll give you $}
 {361}{}{He's okay. I could probably take him off your hands for, oh, say $}
@@ -248,7 +248,7 @@
 {711}{}{What?}
 {712}{}{Oh boy...}
 {720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
-{721}{}{?...}
+{721}{}{Ừ...}
 {730}{}{Yes. It's a shame really. This person just doesn't seem to get it, but
  I think they are about to. [You see Metzger making a small hand gesture to his
  men.] Play time.}

@@ -1,25 +1,25 @@
-{100}{}{B?n th?y Klint, m?t ngư?i đ?ng t?c.}
-{101}{}{B?n th?y Klint.}
-{102}{}{B?n th?y m?t c?u trai tr? có cơ b?p cu?n cu?n v?i dáng v? r?t t? tin.}
+{100}{}{Bạn thấy Klint, một người đồng tộc.}
+{101}{}{Bạn thấy Klint.}
+{102}{}{Bạn thấy một cậu trai trẻ có cơ bắp cuồn cuộn với dáng vẻ rất tự tin.}
 {103}{}{Xin chào, }
-{104}{}{. Anh chưa hoàn thành th? thách c?a Trư?ng l?o nên không qua đây đư?c.}
-{105}{}{?...}
-{106}{}{Tôi c?n quay l?i làng.}
-{107}{}{Tôi có vài câu h?i.}
-{108}{}{Đư?c r?i, tôi đi làm th? thách đây.}
-{109}{}{(th? dài)}
-{110}{}{. Vào đ?n. Làm th? thách. Không quay l?i cho đ?n khi xong. Tuân l?i Trư?ng l?o. Đi đi!}
-{111}{}{Ng? đi.}
-{112}{}{Th? l?i cho tôi, }
-{113}{}{, nhưng tôi không đ? anh qua đư?c. N?u anh mu?n tr? l?i làng, h?y đi theo đư?ng hoàn thành th? thách trư?c m?t.}
-{114}{}{Hi?u r?i. Ch?c là tôi đi đây.}
-{115}{}{Tôi h?i vài câu đư?c không?}
-{116}{}{Tôi có th? đá đít c?u và đi kh?i đây.}
-{117}{}{Th? l?i cho tôi, nhưng tôi không tr? l?i đư?c. H?y th?c hi?n th? thách do Trư?ng l?o đ?t ra và ch?ng t? anh x?ng đáng d?n đ?u b? t?c.}
-{118}{}{Đư?c r?i.}
-{119}{}{C?n có hai ngư?i m?i có th? bê đư?c cây c?t này. M?t m?nh anh ch?c ch?n không đư?c đâu. Tôi s? không giúp anh cho đ?n khi anh vư?t qua th? thách c?a Trư?ng l?o.}
-{120}{}{? h?. Tôi hi?u r?i.}
-{121}{}{Xin chào, C?u tinh! R?t vui đư?c g?p anh. Tôi giúp g? đư?c đây?}
-{122}{}{Ng? chào. Th? thôi.}
-{123}{}{Chào h?i thôi. Tôi s?p lên đư?ng làm nhi?m v? r?i.}
-{124}{}{C?u cho linh h?n tiên t? phù h? anh, C?u tinh. Tôi chúc anh hành tr?nh t?t đ?p.}
+{104}{}{. Anh chưa hoàn thành thử thách của Trưởng lão nên không qua đây được.}
+{105}{}{Ừ...}
+{106}{}{Tôi cần quay lại làng.}
+{107}{}{Tôi có vài câu hỏi.}
+{108}{}{Được rồi, tôi đi làm thử thách đây.}
+{109}{}{(thở dài)}
+{110}{}{. Vào đền. Làm thử thách. Không quay lại cho đến khi xong. Tuân lời Trưởng lão. Đi đi!}
+{111}{}{Ngộ đi.}
+{112}{}{Thứ lỗi cho tôi, }
+{113}{}{, nhưng tôi không để anh qua được. Nếu anh muốn trở lại làng, hãy đi theo đường hoàn thành thử thách trước mặt.}
+{114}{}{Hiểu rồi. Chắc là tôi đi đây.}
+{115}{}{Tôi hỏi vài câu được không?}
+{116}{}{Tôi có thể đá đít cậu và đi khỏi đây.}
+{117}{}{Thứ lỗi cho tôi, nhưng tôi không trả lời được. Hãy thực hiện thử thách do Trưởng lão đặt ra và chứng tỏ anh xứng đáng dẫn đầu bộ tộc.}
+{118}{}{Được rồi.}
+{119}{}{Cần có hai người mới có thể bê được cây cột này. Một mình anh chắc chắn không được đâu. Tôi sẽ không giúp anh cho đến khi anh vượt qua thử thách của Trưởng lão.}
+{120}{}{Ừ hứ. Tôi hiểu rồi.}
+{121}{}{Xin chào, Cứu tinh! Rất vui được gặp anh. Tôi giúp gì được đây?}
+{122}{}{Ngộ chào. Thế thôi.}
+{123}{}{Chào hỏi thôi. Tôi sắp lên đường làm nhiệm vụ rồi.}
+{124}{}{Cầu cho linh hồn tiên tổ phù hộ anh, Cứu tinh. Tôi chúc anh hành trình tốt đẹp.}

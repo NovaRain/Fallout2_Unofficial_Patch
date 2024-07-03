@@ -1,6 +1,6 @@
 {100}{}{You see a member of the Slaver's Guild.}
 {150}{}{You see Metzger, head of the Slaver's Guild.}
-{151}{}{[NÓI CHUY?N]}
+{151}{}{[NÓI CHUYỆN]}
 {152}{}{Guards! Attack!}
 {153}{}{[done]}
 {154}{}{Come back in the morning damn it! I do my business during the day.}
@@ -92,7 +92,7 @@
 {236}{}{No way! I want double!}
 {237}{}{You drive a hard bargain. Here is your money!}
 {238}{}{Thanks. I have some more questions.}
-{239}{}{Cám ơn. T?m bi?t.}
+{239}{}{Cám ơn. Tạm biệt.}
 {240}{}{Anything else?}
 {241}{}{Yes, I have a question.}
 {242}{}{Nope. Bye.}
@@ -114,7 +114,7 @@
 {258}{}{Nothing. Never mind.}
 {259}{}{He is not for sale, yet.}
 {260}{}{Why not?}
-{261}{}{?, okay.}
+{261}{}{Ồ, okay.}
 {262}{}{He will cost $2000.}
 {263}{}{Here is your money.}
 {264}{}{That's a lot. Maybe later.}
@@ -122,7 +122,7 @@
 {266}{}{Here is your money.}
 {267}{}{Don't have that much yet. Bye.}
 {268}{}{Our radio is broken and he's in charge of fixing it.}
-{269}{}{Hi?u r?i.}
+{269}{}{Hiểu rồi.}
 {270}{}{You haven't got the money!}
 {271}{}{Too bad for me. Can I ask you a question?}
 {272}{}{Sorry, I'll come back.}
@@ -144,7 +144,7 @@
 {320}{}{Thank you. I will.}
 {321}{}{I don't know if I like this too much.}
 {322}{}{You need to improve your enslavement technique.}
-{323}{}{Tôi s? th?.}
+{323}{}{Tôi sẽ thử.}
 {324}{}{I apologize for my poor performance.}
 {325}{}{I think I'm good enough.}
 {326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.

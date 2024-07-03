@@ -1,8 +1,8 @@
-{100}{}{B?n th?y m?t con b? brahmin nuôi b?nh thư?ng.}
-{101}{}{Cái đ?u ph? c?a b? brahmin h?n là k?t qu? c?a b? thư?ng b?
-phơi nhi?m phóng x? quá s?m.}
-{102}{}{B?n không th?y con b? brahmin có g? b?t thư?ng.}
-{103}{}{B? brahmin không gi?i nói chuy?n l?m.}
-{104}{}{B?n không có vi?c g? t?t hơn đ? làm ngoài vi?c ng?i
-nói chuy?n v?i con b? hai đ?u à?}
-{105}{}{Brahmin là m?t chi b? đ?t bi?n.}
+{100}{}{Bạn thấy một con bò brahmin nuôi bình thường.}
+{101}{}{Cái đầu phụ của bò brahmin hẳn là kết quả của bò thường bị
+phơi nhiễm phóng xạ quá sớm.}
+{102}{}{Bạn không thấy con bò brahmin có gì bất thường.}
+{103}{}{Bò brahmin không giỏi nói chuyện lắm.}
+{104}{}{Bạn không có việc gì tốt hơn để làm ngoài việc ngồi
+nói chuyện với con bò hai đầu à?}
+{105}{}{Brahmin là một chi bò đột biến.}

@@ -1,4 +1,4 @@
-{100}{}{B?n th?y m?t lính gác.}
+{100}{}{Bạn thấy một lính gác.}
 {101}{}{You see Grant, the guard}
 {102}{}{You see a guard. His armor and weapons are in excellent condition.}
 {103}{}{This is private property, please move along.}
@@ -19,7 +19,7 @@
 {118}{}{What business do you have with Mr. Westin?}
 {119}{}{Me need job.}
 {120}{}{Just want chat.}
-{121}{}{?...}
+{121}{}{Ừ...}
 {122}{}{Nevermind.}
 {123}{}{I'm looking for work and I hear that he's hiring.}
 {124}{}{I would like to chat with Mr. Westin.}
@@ -35,7 +35,7 @@
 {134}{}{Hey, get away from there!}
 {135}{}{You should ask before you play with things that aren't yours.}
 {136}{}{Hello. Did you need to see Mr. Westin again?}
-{137}{}{Đúng v?y.}
+{137}{}{Đúng vậy.}
 {138}{}{Không.}
 {139}{}{Me have things from Vault City for Mr. Westin.}
 {140}{}{I have something from Vault City for Mr. Westin.}

@@ -100,7 +100,7 @@
 {525}{}{Ay-me-go?}
 {526}{}{Cheee-ka Cheeek-aaaah}
 {529}{}{I had some questions...}
-{530}{}{Không có g?. Xin l?i đ? làm phi?n.}
+{530}{}{Không có gì. Xin lỗi đã làm phiền.}
 {540}{}{}
 {541}{}{}
 {542}{}{Hey, hey, hey! You're }

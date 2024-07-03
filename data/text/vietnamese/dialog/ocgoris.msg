@@ -4,7 +4,7 @@
  about his stance, but you're not sure exactly what it is.}
 {103}{}{Hello, I'm Goris. I don't recognize you; are you new here?}
 {104}{}{Me}
-{105}{}{Ng? đi.}
+{105}{}{Ngộ đi.}
 {106}{}{Yeah, so what?}
 {107}{}{Hi. I'm}
 {108}{}{Hello, Goris. Gruthar said I should look you up. He seems to think you're the man with the
@@ -18,7 +18,7 @@
  look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around
  a bit and accomplished things. Am I right?}
 {114}{}{Uh... 'seasoned'?}
-{115}{}{Ng? đi.}
+{115}{}{Ngộ đi.}
 {116}{}{Sorry, but I think I'll be leaving.}
 {117}{}{Yes, I've had some adventures. Say, if you wouldn't mind answering some questions for me, I
  could tell you some of my adventures in return.}
@@ -50,7 +50,7 @@
 {139}{}{No, I can leave any time I like. I haven't done so because I don't want to travel alone. I'm
  pretty tough and can take care of myself, but I would still be one person alone in the desert if
  anything happened.}
-{140}{}{Hi?u r?i.}
+{140}{}{Hiểu rồi.}
 {141}{}{Ah, too much of a wimp to make it on your own. I got it.}
 {142}{}{I don't like traveling alone either, so I can't blame you.}
 {143}{}{Uh... a few months actually. I came here from the coast a while back.}
@@ -94,7 +94,7 @@
 {164}{}{No, only what I've told you. Wait, there is one other thing. The Enclave showed an interest in some ruins to the west of here. Why, I don't know. That's about it.}
 {165}{}{Well, every little bit of information helps, and I thank you for it.}
 {166}{}{This happens to be a very important subject to me and you've let me down!}
-{167}{}{Hi?u r?i.}
+{167}{}{Hiểu rồi.}
 {168}{}{I think it's called the FEV virus. The Enclave is, or was, doing extensive research on it. I'm
  sorry, but I don't know anything more.}
 {169}{}{That's okay; on to other things.}
@@ -119,7 +119,7 @@
 {185}{}{Yeah, you know, well traveled... knowledgeable... experienced... You don't have a clue what I'm
  talking about, do you? }
 {186}{}{Food seasoned, not me.}
-{187}{}{Ng? đi gi?.}
+{187}{}{Ngộ đi giờ.}
 {188}{}{Uh huh. Well, your IQ may be smaller than your shoe size, but you obviously have something
  going for you to have survived in the world this long... Ok, let's try this. Me want leave this place.
  Me want travel with you. Ok?}
@@ -127,7 +127,7 @@
  for you to have survived in the world this long... it must be that mean streak I can sense in you. Oh,
  well. Good-bye.}
 {190}{}{Uh... Okay.}
-{191}{}{Ng? đi.}
+{191}{}{Ngộ đi.}
 {192}{}{I'm sorry, I didn't mean to pry into your private affairs.}
 {193}{}{Yeah, well, see that you don't do it again!}
 {194}{}{Whatever. I need some information from you, though.}

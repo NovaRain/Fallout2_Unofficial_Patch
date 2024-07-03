@@ -13,9 +13,9 @@
 {222}{}{Ack.}
 {230}{}{The name doesn't ring a bell, but then again I don't keep track of who comes in and out of town. Check with Becky. Everyone ends up going through there. She might know.}
 {231}{}{Got any work?}
-{232}{}{Cám ơn. T?m bi?t.}
+{232}{}{Cám ơn. Tạm biệt.}
 {240}{}{If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.}
-{241}{}{?, okay.}
+{241}{}{Ồ, okay.}
 {242}{}{Got any work?}
 {243}{}{I can handle myself.}
 {244}{}{Okay, thanks.}
@@ -28,12 +28,12 @@
 {262}{}{Sure what's that?}
 {263}{}{Maybe later.}
 {270}{}{Let me know if you change your mind.}
-{271}{}{Đư?c r?i.}
+{271}{}{Được rồi.}
 {280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}
-{282}{}{Đư?c thôi.}
-{283}{}{Đ? tôi xem tôi có th? làm g?.}
+{282}{}{Được thôi.}
+{283}{}{Để tôi xem tôi có thể làm gì.}
 {290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
 {291}{}{No problem.}
 {292}{}{I'll be right back.}
@@ -53,7 +53,7 @@
 {350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
 {351}{}{Oh, okay. Thanks.}
 {360}{}{You looking for some more quick and easy cash? $50. Easy money.}
-{361}{}{Đư?c thôi.}
+{361}{}{Được thôi.}
 {362}{}{Make it quick.}
 {370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
 {371}{}{Why do you want me to ask?}
@@ -72,7 +72,7 @@
 {402}{}{Na.}
 {410}{}{Great. I was hoping as much. I hear he's been complaining about them lately. Here's your money.}
 {411}{}{I assume there's something else now?}
-{412}{}{Cám ơn. T?m bi?t.}
+{412}{}{Cám ơn. Tạm biệt.}
 {420}{}{I have one more job for you. I'm not sure how you'll do it, but since you were able to get inside maybe they trust you.}
 {421}{}{I snuck inside.}
 {422}{}{What is it?}
@@ -92,7 +92,7 @@
 {462}{}{This is pointless.}
 {470}{}{Did you find anything?}
 {471}{}{Yes. They're having a party tonight.}
-{472}{}{Chưa. Khi nào đi tôi s? báo.}
+{472}{}{Chưa. Khi nào đi tôi sẽ báo.}
 {473}{}{Gra.}
 {474}{}{Na.}
 {480}{}{Excellent! They're sure to leave a skeleton crew. Those should be good
@@ -119,7 +119,7 @@
 {524}{}{Sorry, you're not reliable.}
 {525}{}{I can't trust you.}
 {530}{}{We did it!}
-{531}{}{Cám ơn đ? giúp.}
+{531}{}{Cám ơn đã giúp.}
 {532}{}{Special thanks to you!}
 {533}{}{I've finally paid Tyler back for what he did to my brother.}
 {534}{}{Thank you again.}

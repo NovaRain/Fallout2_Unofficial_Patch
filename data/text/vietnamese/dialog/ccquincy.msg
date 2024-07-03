@@ -6,13 +6,13 @@
 {104}{}{Me need ask you something.}
 {105}{}{Nothing.}
 {106}{}{Hi. I need to ask you something.}
-{107}{}{Không có g?.}
+{107}{}{Không có gì.}
 {108}{}{All right, but make it quick. I have inventory to do.}
 {109}{}{What do you need to know?}
 {110}{}{What this place?}
 {111}{}{Me look for vertibird plans. Where find?}
 {112}{}{Me told by tech me find vertibird plans here.}
-{113}{}{Ng? đi gi?.}
+{113}{}{Ngộ đi giờ.}
 {114}{}{Đây là nơi nào?}
 {115}{}{I'm looking for vertibird plans. Do you know where I can find them?}
 {116}{}{I was told by a tech that I could find the vertibird plans here.}
@@ -38,7 +38,7 @@
  paperwork.}
 {133}{}{Look, Einstein, I can't give you the plans without authorization, okay?
  So, go back to whoever sent you here and get the proper paperwork.}
-{134}{}{Đư?c, ng? đi.}
+{134}{}{Được, ngộ đi.}
 {135}{}{No, me shoot you first, find plans second, then... what come after two?}
 {136}{}{Hey, you got it.}
 {137}{}{No, I think I'll shoot you instead and look around for the plans while

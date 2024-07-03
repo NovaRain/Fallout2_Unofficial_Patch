@@ -9,14 +9,14 @@
 {108}{}{Đây là nơi nào?}
 {109}{}{Hi, I'm new here.}
 {110}{}{I'm here to clean the commander's office.}
-{111}{}{Không có g?.}
+{111}{}{Không có gì.}
 {112}{}{This is the base commander's office. This area is off limits to all personnel. I'll have to ask you to leave, sir.}
 {113}{}{Me have business with commander.}
 {114}{}{Fine.}
 {115}{}{I have business with the commander.}
-{116}{}{Đư?c r?i.}
+{116}{}{Được rồi.}
 {117}{}{What is the nature of your business, sir?}
-{118}{}{?...}
+{118}{}{Ừ...}
 {119}{}{Shit. Me screw up...}
 {120}{}{Never mind. Me go.}
 {121}{}{Well...}

@@ -1,8 +1,8 @@
-{100}{}{B?n th?y cháu c?a m?nh, Feargus, đang khóc nhè như m?i khi.}
-{101}{}{Huhu!!! Làm ơn s?a cái gi?ng đi.}
-{102}{}{Huhu!!! Tôi khát quá nhưng cái gi?ng h?ng r?i!}
-{103}{}{Huhu!!! C?n ph?i s?a gi?ng.}
-{104}{}{Này, cám ơn đ? s?a gi?ng!}
-{105}{}{B?o tr?ng.}
-{106}{}{Gi?ng đư?c s?a r?i. S? m?t luôn!}
-{200}{}{B?n th?y cháu m?nh, Feargus.}
+{100}{}{Bạn thấy cháu của mình, Feargus, đang khóc nhè như mọi khi.}
+{101}{}{Huhu!!! Làm ơn sửa cái giếng đi.}
+{102}{}{Huhu!!! Tôi khát quá nhưng cái giếng hỏng rồi!}
+{103}{}{Huhu!!! Cần phải sửa giếng.}
+{104}{}{Này, cám ơn đã sửa giếng!}
+{105}{}{Bảo trọng.}
+{106}{}{Giếng được sửa rồi. Số một luôn!}
+{200}{}{Bạn thấy cháu mình, Feargus.}

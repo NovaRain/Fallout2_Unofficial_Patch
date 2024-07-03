@@ -1,3 +1,3 @@
-1:Vi?c t?i ưu hóa l? ph?n ?ng đ? giúp Gecko s?n xu?t th?ng dư năng lư?ng.
-2:H?i đ?ng Thành ph? Vault, v?n không th? m? r?ng v? b? gi?i h?n ngu?n cung năng lư?ng, đ? đ?u hàng trư?c s?c ép n?i b? và bu?c ph?i xâm chi?m Gecko đ? giành quy?n đi?u khi?n l? ph?n ?ng.
-3:Nh?ng cư dân ôn h?a c?a Gecko đ? tr? thành nô l? và s?ng n?t ph?n đ?i c?n l?i ph?c v? cho Thành ph? Vault.
+1:Việc tối ưu hóa lò phản ứng đã giúp Gecko sản xuất thặng dư năng lượng.
+2:Hội đồng Thành phố Vault, vốn không thể mở rộng vì bị giới hạn nguồn cung năng lượng, đã đầu hàng trước sức ép nội bộ và buộc phải xâm chiếm Gecko để giành quyền điều khiển lò phản ứng.
+3:Những cư dân ôn hòa của Gecko đã trở thành nô lệ và sống nốt phần đời còn lại phục vụ cho Thành phố Vault.

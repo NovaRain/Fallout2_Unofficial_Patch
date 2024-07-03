@@ -27,10 +27,10 @@
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
-{129}{}{Đư?c r?i, con đi đây.}
+{129}{}{Được rồi, con đi đây.}
 {130}{}{Captain. Can I help you... sir?}
 {131}{}{Can I help you, Citizen?}
-{132}{}{Mu?n g??}
+{132}{}{Muốn gì?}
 {133}{}{Yah!}
 {134}{}{Shamble off}
 {135}{}{Ông là ai?}
@@ -57,7 +57,7 @@
 {156}{}{Raiders?}
 {157}{}{About those Raiders...}
 {158}{}{Can I ask you some questions?}
-{159}{}{Cám ơn. T?m bi?t.}
+{159}{}{Cám ơn. Tạm biệt.}
 {160}{}{Permission to speak freely, sir.}
 {161}{}{Granted.}
 {162}{}{No. I had some other questions for you, first.}
@@ -100,7 +100,7 @@
 {199}{}{Can I ask you something else?}
 {200}{}{But I am a Citizen.}
 {201}{}{How do you become a citizen?}
-{202}{}{Cám ơn. T?m bi?t.}
+{202}{}{Cám ơn. Tạm biệt.}
 {203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
 {204}{}{Here's my papers. I think you'll find everything in order.}
 {205}{}{Uh, never mind. I had some other questions...}
@@ -213,7 +213,7 @@
 {312}{}{Yeah? Has it got a Northern California world map installed?}
 {313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
 {314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
-{315}{}{T?i sao?}
+{315}{}{Tại sao?}
 {316}{}{No problem. I've already scouted out the area.}
 {317}{}{All right. I'll come back when I've scouted the area.}
 {318}{}{On second thought, count me out. Goodbye.}
@@ -246,7 +246,7 @@
 {344}{}{I don't think I want this job. Maybe some other time.}
 {345}{}{That so? Heh.}
 {346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
-{347}{}{Đư?c r?i.}
+{347}{}{Được rồi.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
 {349}{}{What is it?}
 {350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}

@@ -5,7 +5,7 @@
  to have difficulty breathing.}
 {200}{}{*Ho*}
 {201}{}{::Wheeze::}
-{202}{}{*Ho kh?c kh?c*}
+{202}{}{*Ho khục khặc*}
 {210}{}{Guards! Gu...*cough* *cough*...Guards!}
 {215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
  of a second, then makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}
@@ -19,7 +19,7 @@
  a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}
 {231}{}{Me want... me no know what I want}
 {232}{}{Me want}
-{233}{}{Ng? }
+{233}{}{Ngộ }
 {234}{}{[Wander off.]}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}
@@ -62,7 +62,7 @@
 {339}{}{It could be a rough assignment: Can I have one of those laser weapons your family uses?}
 {340}{}{Uh, I don't do contract hits. I'll be leaving now.}
 {350}{}{Mason will have... the details. (Nods at exit.) Go now.}
-{351}{}{Đư?c r?i.}
+{351}{}{Được rồi.}
 {352}{}{Thank you, Mr. Salvatore. I will go ask Mason.}
 {360}{}{Then you are of... no use to me. Leave now.}
 {361}{}{Uh, waitaminute... I changed my mind. I'll do it.}
@@ -85,7 +85,7 @@
 {405}{}{(Puts his fingers together.) And... the money. Has it been recovered?}
 {406}{}{No, I couldn't find the money.}
 {407}{}{No, Lloyd already spent the money.}
-{408}{}{Đúng v?y.}
+{408}{}{Đúng vậy.}
 {410}{}{No, Mr. Salvatore, I couldn't find the money.}
 {411}{}{No, Mr. Salvatore, Lloyd already spent the money.}
 {412}{}{Yes, Mr. Salvatore.}

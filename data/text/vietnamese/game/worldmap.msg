@@ -1,4 +1,4 @@
-{200}{}{C?u}
+{200}{}{Cầu}
 {201}{}{Village}
 {202}{}{Temple Entrance}
 {203}{}{Wilderness}
@@ -40,7 +40,7 @@
 {282}{}{Depot Level 2: Storage Bay}
 {283}{}{Depot Level 3: Robotics Lab}
 {284}{}{Depot Level 4: Bio Research Lab}
-{290}{}{? mư?n}
+{290}{}{Ở mượn}
 {291}{}{Squatters}
 {292}{}{Squatters}
 {293}{}{Vault 15}
@@ -137,7 +137,7 @@
 {521}{}{Big Head}
 {530}{}{Crash Site}
 {540}{}{Desert}
-{550}{}{C?u}
+{550}{}{Cầu}
 {560}{}{Cafe of Broken Dreams}
 {570}{}{Desert}
 {580}{}{Cavern}

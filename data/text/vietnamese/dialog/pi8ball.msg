@@ -7,7 +7,7 @@
 {205}{}{Ask again later.}
 {206}{}{Most likely.}
 {207}{}{Cannot predict now.}
-{208}{}{Đúng v?y.}
+{208}{}{Đúng vậy.}
 {209}{}{Yes. Definitely.}
 {210}{}{Better not to tell you now.}
 {211}{}{It is certain.}

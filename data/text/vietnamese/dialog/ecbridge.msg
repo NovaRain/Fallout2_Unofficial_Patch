@@ -7,15 +7,15 @@
 {104}{}{Stop! Who would cross the Bridge of Death must answer me these questions three, 'ere the
  other side he see.}
 {105}{}{Cee... Deeee... Eee... Ffff... Gggg}
-{106}{}{T?t ngu?n.}
-{107}{}{Đư?c r?i.}
+{106}{}{Tắt nguồn.}
+{107}{}{Được rồi.}
 {108}{}{Ask me the questions, bridge keeper. I'm not afraid.}
 {109}{}{Maybe I'll just come back later.}
-{110}{}{Tên bà là g??}
+{110}{}{Tên bà là gì?}
 {111}{}{Hhhh....Eye... Jay... Kay... Lell...}
 {112}{}{?}
 {113}{}{Me}
-{114}{}{T?t ngu?n.}
+{114}{}{Tắt nguồn.}
 {115}{}{of Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakuin}

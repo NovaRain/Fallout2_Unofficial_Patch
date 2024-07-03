@@ -1,3 +1,3 @@
-{100}{}{B?n th?y m?t lính gác.}
+{100}{}{Bạn thấy một lính gác.}
 {101}{}{You see one of Darion's personal guards.}
 {102}{}{He has armor, weapons, and a bad attitude - not the type of guy who likes your company.}

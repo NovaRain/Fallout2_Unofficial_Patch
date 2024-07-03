@@ -1,8 +1,8 @@
-1:C?u tinh?
-2:C?u tinh?
-3:Con có nghe th?y g? không?
-4:Ngôi làng mà [ch?t]
-5:th? [toàn b?] tương lai c?a chúng ta c?ng không c?n.
-6:Chúng ta đang [ki?t qu? c? th?i gian] l?n tinh th?n.
+1:Cứu tinh?
+2:Cứu tinh?
+3:Con có nghe thấy gì không?
+4:Ngôi làng mà [chết]
+5:thì [toàn bộ] tương lai của chúng ta cũng không còn.
+6:Chúng ta đang [kiệt quệ cả thời gian] lẫn tinh thần.
 7:Nhanh lên.
 8:Nha-...

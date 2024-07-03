@@ -49,7 +49,7 @@
 {148}{}{How about some money? I think $}
 {149}{}{I decided I'd rather keep it.}
 {150}{}{Consider it done. I'll make the adjustments shortly. Now, if you'll excuse me, I must get back to work.}
-{151}{}{Cám ơn. T?m bi?t.}
+{151}{}{Cám ơn. Tạm biệt.}
 {152}{}{So much? Ah! Yet, for such a powerful suit of armor to study... very well. Here is your money.}
 {153}{}{Thanks. So long.}
 {154}{}{You want to keep it? Very well. If you should change your mind, let me know.}
@@ -62,7 +62,7 @@
 {161}{}{Because I have some questions.}
 {162}{}{I have no idea. Goodbye.}
 {163}{}{Do not try my patience.}
-{164}{}{Mu?n g??}
+{164}{}{Muốn gì?}
 {165}{}{What do you do here?}
 {166}{}{I'm here to obtain fuel for the Poseidon Oil Tanker.}
 {167}{}{I'm here to obtain fuel for the Hubologists.}

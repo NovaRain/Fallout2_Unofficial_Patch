@@ -15,7 +15,7 @@
  might understand you. Good luck!}
 {112}{}{Duhhhh...}
 {113}{}{That'd be }
-{114}{}{Đúng v?y.}
+{114}{}{Đúng vậy.}
 {115}{}{Không.}
 {116}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {117}{}{What's he like?}
@@ -48,7 +48,7 @@
 {139}{}{After what happened to Chad? I don't think so. Anything else?}
 {140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
  earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
-{141}{}{G?p l?i sau.}
+{141}{}{Gặp lại sau.}
 {142}{}{You ready to leave?}
 {143}{}{Thanks. Here's your $500. You want a new job, talk to Bill.}
 {144}{}{You sick loser! You're gonna die now!}

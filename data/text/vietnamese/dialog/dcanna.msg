@@ -2,7 +2,7 @@
 {101}{}{You see Anna the ghost.}
 {150}{}{This a ghost. That's not something you see every day.}
 {151}{}{She seems quite tormented.}
-{152}{}{[NÓI CHUY?N]}
+{152}{}{[NÓI CHUYỆN]}
 {153}{}{Oh, the pain! It burns so!}
 {154}{}{What's the matter?}
 {155}{}{Ông là ai?}
@@ -27,7 +27,7 @@
 {174}{}{OK.}
 {175}{}{Không.}
 {176}{}{My locket, my locket! I'm coming, Daddy! I'm coming!}
-{177}{}{T?m bi?t.}
+{177}{}{Tạm biệt.}
 {178}{}{Wait! Don't go!}
 {179}{}{Go into the light.}
 {200}{}{Where could it be?}

@@ -3,7 +3,7 @@
 {102}{}{You see a ghoul. Its skin looks like it's ready to slough off the creature. It also looks like
  it's readily accepted by the other townsfolk.}
 {103}{}{You're not supposed to be here!}
-{104}{}{Mu?n g??}
+{104}{}{Muốn gì?}
 {105}{}{Da yagga! Eep oop op!}
 {106}{}{Dunno.}
 {107}{}{I have some ore to be refined.}
@@ -37,7 +37,7 @@
 {133}{}{Great. Bye.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
  should do it. You want it or not?}
-{135}{}{Đúng v?y.}
+{135}{}{Đúng vậy.}
 {136}{}{Không.}
 {137}{}{Fine. You don't have any business here. Please leave so we can get our jobs done.}
 {138}{}{Chào.}

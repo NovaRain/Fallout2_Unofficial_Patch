@@ -1,1 +1,1 @@
-{100}{}{B?n đ? đ?n th? tr?n Broken Hills nh? bé.}
+{100}{}{Bạn đã đến thị trấn Broken Hills nhỏ bé.}

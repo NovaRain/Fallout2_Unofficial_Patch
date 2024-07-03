@@ -5,7 +5,7 @@
 {201}{}{That does not... belong to you.}
 {202}{}{Touch that again, and you shall... die on Golgotha.}
 {210}{}{::Wheeze::}
-{211}{}{*Ho kh?c kh?c*}
+{211}{}{*Ho khục khặc*}
 {212}{}{::Wipes sweat from forehead.::}
 {220}{}{You are the... *cough*... most valued of my men.}
 {221}{}{Are the people of Reno showing you... *cough*... proper respect?}
@@ -204,7 +204,7 @@
 {640}{}{(Nods.) That is good. The man is old... a cripple... he hides in his bar, "Salvatore's," near the Bishop Casino.
  He is a... coward and never leaves his room upstairs. When he is... dead, return.}
 {641}{}{Cripple?}
-{642}{}{Đư?c r?i.}
+{642}{}{Được rồi.}
 {650}{}{(Nods.) The butcher's legs... are weak. (Jesus wipes his forehead, then draws another weak breath.)
  He also has... difficulty... breathing. He takes air through an... oxygen tank.}
 {651}{}{Oxygen tank, huh? Hmmmm. All right.}

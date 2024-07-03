@@ -1,173 +1,173 @@
-{100}{}{B?n th?y ngư?i gác c?u.}
-{101}{}{B?n th?y Mynoc, ngư?i gác c?u.}
-{150}{}{Đ?ng trư?c b?n là m?t chi?n binh cao to c?a làng,
-n?m trong tay m?t ng?n giáo.}
-{151}{}{[NÓI CHUY?N]}
-{152}{}{Chào, C?u tinh. Đi t?m GECK h??}
-{153}{}{Đúng v?y.}
-{154}{}{Đúng v?y. Nhưng trư?c khi đi, tôi mu?n h?i vài câu.}
-{155}{}{Chưa. Tôi đang đi v?ng quanh xem xét thêm
-m?t lát đ?.}
-{156}{}{?, c?u các th?n phù h? cho c?u.}
-{157}{}{Cám ơn, t?m bi?t.}
-{158}{}{Mu?n bi?t g? nào?}
-{159}{}{Anh có th? nói cho tôi bi?t v? ngư?i trao đ?i hàng hóa
-v?i làng chúng ta không?}
-{160}{}{Anh có bi?t g? v? th? này mà tôi l?y đư?c t? h?m
+{100}{}{Bạn thấy người gác cầu.}
+{101}{}{Bạn thấy Mynoc, người gác cầu.}
+{150}{}{Đứng trước bạn là một chiến binh cao to của làng,
+nắm trong tay một ngọn giáo.}
+{151}{}{[NÓI CHUYỆN]}
+{152}{}{Chào, Cứu tinh. Đi tìm GECK hả?}
+{153}{}{Đúng vậy.}
+{154}{}{Đúng vậy. Nhưng trước khi đi, tôi muốn hỏi vài câu.}
+{155}{}{Chưa. Tôi đang đi vòng quanh xem xét thêm
+một lát đã.}
+{156}{}{Ồ, cầu các thần phù hộ cho cậu.}
+{157}{}{Cám ơn, tạm biệt.}
+{158}{}{Muốn biết gì nào?}
+{159}{}{Anh có thể nói cho tôi biết về người trao đổi hàng hóa
+với làng chúng ta không?}
+{160}{}{Anh có biết gì về thứ này mà tôi lấy được từ hầm
 không?}
-{161}{}{Không, không có g?.}
-{162}{}{Đư?c r?i, nhưng đ?ng có m?t nhi?u th?i gian quá. Không có
-GECK, chúng ta tiêu tùng đ?y.}
-{163}{}{Tôi bi?t, đ?ng lo -- M?i chuy?n đ?u trong t?m ki?m soát.}
-{164}{}{T?i sao?}
-{165}{}{Tôi ph?i đi đây. T?m bi?t.}
-{166}{}{Đám thương gia ?y h?? H? đ?n t? Klamath kho?ng 2 tháng m?t l?n. L?n
-ti?p theo c?n hơn m?t tháng n?a cơ, nhưng đi đ?n Klamath th? ch? m?t vài
-ngày v? phía Đông.}
-{167}{}{Cám ơn. T?m bi?t.}
-{168}{}{Anh có bi?t g? v? th? này mà tôi l?y đư?c t? h?m
-th?n không?}
-{169}{}{Trông gi?ng m?t b?u đ?ng nư?c b?ng kim lo?i. Có th?
-h?m g?i nó đ?n đây như m?t đi?m báo.}
-{170}{}{Anh có th? cho tôi bi?t ai đ? mang th? này đ?n làng chúng ta không?}
-{171}{}{Cám ơn. Tôi ph?i đi đây. T?m bi?t.}
-{172}{}{Hi v?ng là v?y.}
-{173}{}{C?u mà t? tin quá s? khi?n t?t c? chúng ta ph?i tr? giá đ?y! T?m bi?t!}
-{174}{}{T?m bi?t.}
-{175}{}{T?i sao à? Nh?n quanh xem -- Ngôi làng đang ch?t. Vư?n tư?c héo úa,
-ngày nào c?ng có tr? con và ngư?i già n?m xu?ng. C?u ph?i mang Đ?a đàng v?
-trư?c khi quá mu?n!}
-{176}{}{R?i tôi s? lo chuy?n đó. T?m bi?t.}
-{177}{}{Tôi là C?u tinh -- Tôi "ph?i" làm theo ? tôi.
-T?m bi?t.}
-{178}{}{Tôi không nh? tên, nhưng l?o ta già v?i to m?m l?m -- nói to ch?
-gi? ? g? c? -- nhưng l?o ta bi?t nhi?u l?m. L?o đ?n t? Klamath, v? phía Đông
-như tôi v?a nói.}
-{179}{}{Cám ơn, t?m bi?t.}
-{180}{}{Sao c?u v?n c?n ? đây? C?u ph?i đi t?m GECK. C?u ? đây
-ch?ng có ích g? đâu.}
-{181}{}{Anh ch? c?n lo gác c?u thôi, anh b?n ?. Tôi
-có th? t? lo thân đư?c.}
-{182}{}{Tôi chu?n b? đi đây. T?m bi?t, anh b?n.}
-{183}{}{Tôi không nói chuy?n v?i anh n?a đâu, đ? l?n khó b?o!}
-{184}{}{Tôi mu?n h?i thêm câu n?a.}
-{185}{}{Nhanh th?t đ?y! C?u đ? t?m th?y Vault 13 th?n thánh chưa?}
-{186}{}{Đúng v?y.}
+{161}{}{Không, không có gì.}
+{162}{}{Được rồi, nhưng đừng có mất nhiều thời gian quá. Không có
+GECK, chúng ta tiêu tùng đấy.}
+{163}{}{Tôi biết, đừng lo -- Mọi chuyện đều trong tầm kiểm soát.}
+{164}{}{Tại sao?}
+{165}{}{Tôi phải đi đây. Tạm biệt.}
+{166}{}{Đám thương gia ấy hả? Họ đến từ Klamath khoảng 2 tháng một lần. Lần
+tiếp theo còn hơn một tháng nữa cơ, nhưng đi đến Klamath thì chỉ mất vài
+ngày về phía Đông.}
+{167}{}{Cám ơn. Tạm biệt.}
+{168}{}{Anh có biết gì về thứ này mà tôi lấy được từ hầm
+thần không?}
+{169}{}{Trông giống một bầu đựng nước bằng kim loại. Có thể
+hầm gửi nó đến đây như một điềm báo.}
+{170}{}{Anh có thể cho tôi biết ai đã mang thứ này đến làng chúng ta không?}
+{171}{}{Cám ơn. Tôi phải đi đây. Tạm biệt.}
+{172}{}{Hi vọng là vậy.}
+{173}{}{Cậu mà tự tin quá sẽ khiến tất cả chúng ta phải trả giá đấy! Tạm biệt!}
+{174}{}{Tạm biệt.}
+{175}{}{Tại sao à? Nhìn quanh xem -- Ngôi làng đang chết. Vườn tược héo úa,
+ngày nào cũng có trẻ con và người già nằm xuống. Cậu phải mang Địa đàng về
+trước khi quá muộn!}
+{176}{}{Rồi tôi sẽ lo chuyện đó. Tạm biệt.}
+{177}{}{Tôi là Cứu tinh -- Tôi "phải" làm theo ý tôi.
+Tạm biệt.}
+{178}{}{Tôi không nhớ tên, nhưng lão ta già với to mồm lắm -- nói to chả
+giữ ý gì cả -- nhưng lão ta biết nhiều lắm. Lão đến từ Klamath, về phía Đông
+như tôi vừa nói.}
+{179}{}{Cám ơn, tạm biệt.}
+{180}{}{Sao cậu vẫn còn ở đây? Cậu phải đi tìm GECK. Cậu ở đây
+chẳng có ích gì đâu.}
+{181}{}{Anh chỉ cần lo gác cầu thôi, anh bạn ạ. Tôi
+có thể tự lo thân được.}
+{182}{}{Tôi chuẩn bị đi đây. Tạm biệt, anh bạn.}
+{183}{}{Tôi không nói chuyện với anh nữa đâu, đồ lợn khó bảo!}
+{184}{}{Tôi muốn hỏi thêm câu nữa.}
+{185}{}{Nhanh thật đấy! Cậu đã tìm thấy Vault 13 thần thánh chưa?}
+{186}{}{Đúng vậy.}
 {187}{}{Chưa.}
-{188}{}{Th?y r?i? Tuy?t quá! C?u có mang GECK v?
+{188}{}{Thấy rồi? Tuyệt quá! Cậu có mang GECK về
 không?}
 {189}{}{Không.}
-{190}{}{Chưa. Tôi v?n chưa nói chuy?n v?i đám ngư?i trong h?m.}
-{191}{}{Tôi th?y r?ng đ?y không ph?i là vi?c c?a anh, b?n tôi ?.}
-{192}{}{Chưa ư? C?u tinh, ba ngư?i già đ? ch?t k? t? lúc c?u r?i đi. C?u không
-đư?c l?ng phí thêm th?i gian n?a.}
-{193}{}{Tôi s? t?m th?y, đ?ng lo.}
-{194}{}{Tôi th?y m?t m?i v?i m?y l?i càu nhàu c?a anh l?m r?i.}
-{195}{}{?, th? th? sao c?u l?i đi nói chuy?n v?i tôi? Đ?n nói chuy?n v?i h? và l?y GECK đi.}
-{196}{}{Tôi s? làm mà -- th?t chó s? có m?m tôm, b?n tôi ơi.}
-{197}{}{Tôi th?y m?t m?i v?i m?y l?i càu nhàu c?a anh l?m r?i.}
-{198}{}{Có tin g? v? GECK chưa, C?u tinh?}
-{199}{}{Tôi đ? t?m th?y căn h?m!}
-{200}{}{Tôi chưa t?m th?y Vault 13.}
-{201}{}{?, nh?n này, C?u tinh v? r?i.}
+{190}{}{Chưa. Tôi vẫn chưa nói chuyện với đám người trong hầm.}
+{191}{}{Tôi thấy rằng đấy không phải là việc của anh, bạn tôi ạ.}
+{192}{}{Chưa ư? Cứu tinh, ba người già đã chết kể từ lúc cậu rời đi. Cậu không
+được lãng phí thêm thời gian nữa.}
+{193}{}{Tôi sẽ tìm thấy, đừng lo.}
+{194}{}{Tôi thấy mệt mỏi với mấy lời càu nhàu của anh lắm rồi.}
+{195}{}{Ồ, thế thì sao cậu lại đi nói chuyện với tôi? Đến nói chuyện với họ và lấy GECK đi.}
+{196}{}{Tôi sẽ làm mà -- thịt chó sẽ có mắm tôm, bạn tôi ơi.}
+{197}{}{Tôi thấy mệt mỏi với mấy lời càu nhàu của anh lắm rồi.}
+{198}{}{Có tin gì về GECK chưa, Cứu tinh?}
+{199}{}{Tôi đã tìm thấy căn hầm!}
+{200}{}{Tôi chưa tìm thấy Vault 13.}
+{201}{}{Ồ, nhìn này, Cứu tinh về rồi.}
 {202}{}{Chào.}
-{203}{}{Câm m?m đi.}
-{204}{}{Tôi h?i m?t câu đư?c không?}
-{205}{}{Không, tôi không có r?nh.}
-{206}{}{Sao c?ng đư?c. T?m bi?t.}
-{207}{}{? đư?c r?i. G?p l?i sau.}
-{208}{}{Đi ch?t đi.}
-{209}{}{Chào th?ng th?n! Th?y c?u ch?? Qua c?u, c?n th?n đ?y.
-C?u đáng s? l?m. Mày không mu?n ng? ch?. Okay?}
-{210}{}{?... H??}
-{211}{}{Kh?n n?n! Mày đ? khi?n c? làng th?t v?ng!}
-{212}{}{Mày đ? ph?n b?i chúng ta. Gi? th? ch?t đi!}
-{213}{}{Mày đ? ph?n b?i chính nh?ng ngư?i đ?ng t?c.}
-{214}{}{T?i sao mày l?i làm th??}
-{215}{}{Trư?ng l?o đ? nh?m. Mày đúng là ác qu?.}
-{300}{}{Cha tôi d?y tôi cách t?o ra lư?i dao s?c hơn. Ki?m cho tôi m?t c?c đá mài và
-tôi s? s?a giáo cho c?u. Nó s? có ích cho c?u ngoài hoang đ?a đ?y.}
-{301}{}{Tôi có th? ki?m đá mài ? đâu đư?c?}
-{302}{}{Có ngư?i b?o D? Morlis đang gi? m?t c?c. M? ta khó tính như ma
-nên tôi ch?c ch?ng ai bu?n h?i đâu. D? nhiên là m? già ?y s? mu?n đ?i
-l?y th? g? đó.}
-{303}{}{Cám ơn. T?m bi?t.}
-{304}{}{C?u đ? nói chuy?n v?i bà d? v? c?c đá mài chưa?}
-{305}{}{R?i, tôi có đá ? đây.}
+{203}{}{Câm mồm đi.}
+{204}{}{Tôi hỏi một câu được không?}
+{205}{}{Không, tôi không có rảnh.}
+{206}{}{Sao cũng được. Tạm biệt.}
+{207}{}{Ồ được rồi. Gặp lại sau.}
+{208}{}{Đi chết đi.}
+{209}{}{Chào thằng thộn! Thấy cầu chứ? Qua cầu, cẩn thận đấy.
+Cầu đáng sợ lắm. Mày không muốn ngã chứ. Okay?}
+{210}{}{Ờ... Hớ?}
+{211}{}{Khốn nạn! Mày đã khiến cả làng thất vọng!}
+{212}{}{Mày đã phản bội chúng ta. Giờ thì chết đi!}
+{213}{}{Mày đã phản bội chính những người đồng tộc.}
+{214}{}{Tại sao mày lại làm thế?}
+{215}{}{Trưởng lão đã nhầm. Mày đúng là ác quỷ.}
+{300}{}{Cha tôi dạy tôi cách tạo ra lưỡi dao sắc hơn. Kiếm cho tôi một cục đá mài và
+tôi sẽ sửa giáo cho cậu. Nó sẽ có ích cho cậu ngoài hoang địa đấy.}
+{301}{}{Tôi có thể kiếm đá mài ở đâu được?}
+{302}{}{Có người bảo Dì Morlis đang giữ một cục. Mụ ta khó tính như ma
+nên tôi chắc chẳng ai buồn hỏi đâu. Dĩ nhiên là mụ già ấy sẽ muốn đổi
+lấy thứ gì đó.}
+{303}{}{Cám ơn. Tạm biệt.}
+{304}{}{Cậu đã nói chuyện với bà dì về cục đá mài chưa?}
+{305}{}{Rồi, tôi có đá ở đây.}
 {306}{}{Chưa.}
-{307}{}{C?c này t?t đ?y. Đưa giáo cho tôi.}
+{307}{}{Cục này tốt đấy. Đưa giáo cho tôi.}
 {308}{}{Đây.}
-{309}{}{Ch?c là tôi không có r?i.}
-{310}{}{Gi? th? đ?t viên đá vào đây...}
-{311}{}{C?u tinh mà không có giáo á? Đây, c?u l?y m?t cái c?a tôi mà dùng.
-Gi? th? b?t đ?u vào vi?c nào...}
-{312}{}{Giáo m?i c?a c?u đây.}
-{313}{}{Cám ơn b?n tôi -- Th? này r?t có ích đ?y.}
-{314}{}{?, nhưng tôi mu?n h?i v? cây giáo c?a anh. Trông nó có v? hơi
+{309}{}{Chắc là tôi không có rồi.}
+{310}{}{Giờ thì đặt viên đá vào đây...}
+{311}{}{Cứu tinh mà không có giáo á? Đây, cậu lấy một cái của tôi mà dùng.
+Giờ thì bắt đầu vào việc nào...}
+{312}{}{Giáo mới của cậu đây.}
+{313}{}{Cám ơn bạn tôi -- Thứ này rất có ích đấy.}
+{314}{}{Ừ, nhưng tôi muốn hỏi về cây giáo của anh. Trông nó có vẻ hơi
 khác.}
-{400}{}{Chào m?ng v? đ?n nhà, C?u tinh! C?u t?m th?y căn h?m chưa? C?u có mang GECK v? không?}
-{401}{}{Ng? không th?y chưa.}
-{402}{}{Chưa, tôi chưa t?m th?y.}
-{403}{}{Tôi không r?nh đ? tr? l?i câu h?i c?a anh. Chào.}
-{404}{}{M?i th? không ?n r?i, C?u tinh à. Cơn h?n hán càng ngày càng t?, cây tr?ng c?a chúng ta
-s?p héo h?t r?i. Chúng ta đang c? hái h?t nh?ng g? c?n sót l?i đ? tích tr? lương th?c.}
-{405}{}{Sao không trao đ?i v?i làng khác?}
-{406}{}{Ng? làm t?t nh?t ng? làm. Ng? t?m GECK. Ng? v?.}
-{407}{}{T?i sao chúng ta không trao đ?i v?i các ngôi làng khác đ? l?y lương th?c c?n thi?t?}
-{408}{}{Tôi đang c? h?t s?c đây. Tôi s? tr? l?i khi nào t?m th?y GECK.}
-{409}{}{Chúng ta s?ng đơn gi?n nên g?n như không có g? đ? trao đ?i. M?y th? tr?n mà chúng ta
-đ? liên l?c trong lúc c?u đi v?ng không mu?n giúp đ? chúng ta.}
-{410}{}{Ng? th?y.}
-{411}{}{Hi?u r?i.}
-{412}{}{C?u là hi v?ng duy nh?t c?a chúng ta, C?u tinh ?. Đ?ng khi?n chúng ta th?t v?ng!}
-{413}{}{R?t vui đư?c g?p l?i c?u, C?u tinh. Nhi?m v? c?a c?u đ?n đâu r?i?}
-{414}{}{Ng? v?n t?m.}
-{415}{}{Tôi v?n đang t?m.}
-{416}{}{Tôi không mu?n nói v?i anh.}
-{417}{}{C?u ph?i nhanh lên. M?i th? ? làng đang ngày càng x?u đi. Lương th?c s?p c?n r?i,
-Trư?ng l?o nói chúng ta ph?i dè s?n. Tôi th?y lo cho tương lai c?a Arroyo.}
-{418}{}{C?u tinh! Làm ơn nói v?i tôi là c?u đ? hoàn thành nhi?m v? đi. Ngôi làng đang ch?t d?n, m?i
-ngư?i c?ng th?.}
-{419}{}{Không, ng? v?n t?m.}
-{420}{}{Không, tôi v?n đang t?m.}
-{421}{}{M?i chuy?n th? nào r?i?}
-{422}{}{Tôi r?t ti?c, C?u tinh, nhưng tôi b?t đ?u th?y m?t ni?m in vào c?u. Cu?c s?ng c?a c? b? t?c
-n?m trong tay c?u. Làm ơn đi t?m s? 13 th?n thánh và mang GECK v? cho chúng ta!}
-{423}{}{Cây tr?ng héo úa, đàn b? ch?t d?n, m?i ngư?i đ?u đói. Ti?ng tr? con khóc đêm làm không ai
-ng? đư?c. Chúng ta đang đi đ?n đư?ng cùng r?i.}
-{424}{}{Ng? ti?p t?c t?m.}
-{425}{}{Tôi s? làm nh?ng g? có th?.}
-{426}{}{C?u tinh, c?u l?i m?t l?n n?a quay v?. Tôi hi v?ng không ph?i tay tr?ng ch??}
-{427}{}{Ng? xin l?i, không th?y GECK chưa.}
-{428}{}{Tôi xin l?i, tôi v?n chưa t?m th?y GECK.}
-{429}{}{Đ? l?m r?i.}
-{430}{}{M?i ngư?i đang ch?t c?n c?u th? c? d?o quanh làng. Có l? c?u nên đi t?m ch? khác thay v?
-quay l?i đây.}
-{500}{}{C?u đ? nói chuy?n v?i Trư?ng l?o chưa?}
-{1000}{}{Trư?ng l?o}
-{1001}{}{Ngư?i m? làng}
-{1002}{}{C? t? t? Vault}
+{400}{}{Chào mừng về đến nhà, Cứu tinh! Cậu tìm thấy căn hầm chưa? Cậu có mang GECK về không?}
+{401}{}{Ngộ không thấy chưa.}
+{402}{}{Chưa, tôi chưa tìm thấy.}
+{403}{}{Tôi không rảnh để trả lời câu hỏi của anh. Chào.}
+{404}{}{Mọi thứ không ổn rồi, Cứu tinh à. Cơn hạn hán càng ngày càng tệ, cây trồng của chúng ta
+sắp héo hết rồi. Chúng ta đang cố hái hết những gì còn sót lại để tích trữ lương thực.}
+{405}{}{Sao không trao đổi với làng khác?}
+{406}{}{Ngộ làm tốt nhất ngộ làm. Ngộ tìm GECK. Ngộ về.}
+{407}{}{Tại sao chúng ta không trao đổi với các ngôi làng khác để lấy lương thực cần thiết?}
+{408}{}{Tôi đang cố hết sức đây. Tôi sẽ trở lại khi nào tìm thấy GECK.}
+{409}{}{Chúng ta sống đơn giản nên gần như không có gì để trao đổi. Mấy thị trấn mà chúng ta
+đã liên lạc trong lúc cậu đi vắng không muốn giúp đỡ chúng ta.}
+{410}{}{Ngộ thấy.}
+{411}{}{Hiểu rồi.}
+{412}{}{Cậu là hi vọng duy nhất của chúng ta, Cứu tinh ạ. Đừng khiến chúng ta thất vọng!}
+{413}{}{Rất vui được gặp lại cậu, Cứu tinh. Nhiệm vụ của cậu đến đâu rồi?}
+{414}{}{Ngộ vẫn tìm.}
+{415}{}{Tôi vẫn đang tìm.}
+{416}{}{Tôi không muốn nói với anh.}
+{417}{}{Cậu phải nhanh lên. Mọi thứ ở làng đang ngày càng xấu đi. Lương thực sắp cạn rồi,
+Trưởng lão nói chúng ta phải dè sẻn. Tôi thấy lo cho tương lai của Arroyo.}
+{418}{}{Cứu tinh! Làm ơn nói với tôi là cậu đã hoàn thành nhiệm vụ đi. Ngôi làng đang chết dần, mọi
+người cũng thế.}
+{419}{}{Không, ngộ vẫn tìm.}
+{420}{}{Không, tôi vẫn đang tìm.}
+{421}{}{Mọi chuyện thế nào rồi?}
+{422}{}{Tôi rất tiếc, Cứu tinh, nhưng tôi bắt đầu thấy mất niềm in vào cậu. Cuộc sống của cả bộ tộc
+nằm trong tay cậu. Làm ơn đi tìm số 13 thần thánh và mang GECK về cho chúng ta!}
+{423}{}{Cây trồng héo úa, đàn bò chết dần, mọi người đều đói. Tiếng trẻ con khóc đêm làm không ai
+ngủ được. Chúng ta đang đi đến đường cùng rồi.}
+{424}{}{Ngộ tiếp tục tìm.}
+{425}{}{Tôi sẽ làm những gì có thể.}
+{426}{}{Cứu tinh, cậu lại một lần nữa quay về. Tôi hi vọng không phải tay trắng chứ?}
+{427}{}{Ngộ xin lỗi, không thấy GECK chưa.}
+{428}{}{Tôi xin lỗi, tôi vẫn chưa tìm thấy GECK.}
+{429}{}{Đủ lắm rồi.}
+{430}{}{Mọi người đang chết còn cậu thì cứ dạo quanh làng. Có lẽ cậu nên đi tìm chỗ khác thay vì
+quay lại đây.}
+{500}{}{Cậu đã nói chuyện với Trưởng lão chưa?}
+{1000}{}{Trưởng lão}
+{1001}{}{Người mở làng}
+{1002}{}{Cụ tổ từ Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{C?u tinh}
-{1007}{}{Th?y cúng}
+{1006}{}{Cứu tinh}
+{1007}{}{Thầy cúng}
 {1008}{}{Hakunin}
-{1009}{}{B?t ch?a thương}
-{1010}{}{C?u}
+{1009}{}{Bột chữa thương}
+{1010}{}{Cầu}
 {1011}{}{Mynoc}
-{1100}{}{Trư?ng l?o là m? c?u đ?ng th?i là trư?ng làng.}
-{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
-{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
-{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
-{1104}{}{Đó là m?t khu buôn bán cách nơi này vài ngày v? phía Đông.}
-{1105}{}{Vault là thiên đư?ng.}
-{1106}{}{C?u là C?u tinh.}
-{1107}{}{Ông ta tr? thương b?ng th?o dư?c và phép thu?t. Ông ta
-? khu phía B?c c?a ngôi làng.}
-{1108}{}{Ông ta tr? thương b?ng th?o dư?c và phép thu?t. Ông ta
-? khu phía B?c c?a ngôi làng.}
-{1109}{}{Đây là m?t túi b?t phép có th? tr? thương cho c?u,
-nhưng c?u s? th?y bu?n ng? khi dùng.}
-{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
+{1100}{}{Trưởng lão là mẹ cậu đồng thời là trưởng làng.}
+{1101}{}{Cụ tổ vĩ đại đã truyền kiến thức cho chúng ta.}
+{1102}{}{Người đầu tiên chiến đấu và chiến thắng cái xấu.}
+{1103}{}{Đó là ngôi làng xinh đẹp của chúng ta.}
+{1104}{}{Đó là một khu buôn bán cách nơi này vài ngày về phía Đông.}
+{1105}{}{Vault là thiên đường.}
+{1106}{}{Cậu là Cứu tinh.}
+{1107}{}{Ông ta trị thương bằng thảo dược và phép thuật. Ông ta
+ở khu phía Bắc của ngôi làng.}
+{1108}{}{Ông ta trị thương bằng thảo dược và phép thuật. Ông ta
+ở khu phía Bắc của ngôi làng.}
+{1109}{}{Đây là một túi bột phép có thể trị thương cho cậu,
+nhưng cậu sẽ thấy buồn ngủ khi dùng.}
+{1110}{}{Cây Cầu Lớn dẫn ra ngoài làng ở phía Nam.}
 {1111}{}{Đó là tôi.}

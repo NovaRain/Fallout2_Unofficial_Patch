@@ -16,7 +16,7 @@
  I have so much to learn from women like you.}
 {210}{}{Hello there, my name's Maida Buckner. I help my mother run Buckner house. Can I help you?}
 {211}{}{Ungh?}
-{212}{}{Ng? }
+{212}{}{Ngộ }
 {213}{}{Unker Rouse?}
 {220}{}{Hmm - seems as though your elevator doesn't rise all the way to the top floor. Why don't you
  talk to my brother, Torr? He's a little closer to your speed. Goodbye.}
@@ -28,7 +28,7 @@
 {233}{}{What may I help you with?}
 {234}{}{Well, you just better be more civil from now on. Just what do you want anyway? What can I help
  you with here?}
-{235}{}{Tôi có vài câu h?i.}
+{235}{}{Tôi có vài câu hỏi.}
 {236}{}{I was looking for someplace to stay.}
 {237}{}{I need to buy some things.}
 {238}{}{I'd like a drink.}

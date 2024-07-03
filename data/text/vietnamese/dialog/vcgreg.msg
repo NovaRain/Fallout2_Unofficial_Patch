@@ -66,17 +66,17 @@
 {165}{}{Thanks for your time. Goodbye.}
 {166}{}{You wish to take the test? Excellent, excellent! Nothing pleases me more than testing potential applicants... but I must warn you, the test is several hours long. Do you wish to take it now?}
 {167}{}{Well, anyone may take the test. I think in your case, however, it would be a waste of time... for both of us. Someone of your caliber is simply not Citizen material.}
-{168}{}{Đư?c thôi.}
+{168}{}{Được thôi.}
 {169}{}{Not now. Can I ask you some other questions?}
 {170}{}{Maybe some other time.}
 {171}{}{I'd like to take the test anyway.}
 {172}{}{Just give me the damn test.}
 {173}{}{Forget it then. Can I ask you some other questions?}
 {174}{}{Whatever. I'm outta here.}
-{175}{}{Đư?c r?i.}
+{175}{}{Được rồi.}
 {176}{}{Hmmm. Well, that is your right, though I doubt it will matter.}
 {177}{}{Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
-{178}{}{Đư?c r?i.}
+{178}{}{Được rồi.}
 {179}{}{Finished already? Are you certain you don't want to double-check your answers?}
 {180}{}{All right, time's up. Let's see your form.}
 {181}{}{Already did. Here.}
@@ -120,7 +120,7 @@
 {219}{}{Gecko? It's a filthy shantytown to the north, inhabited by those creatures, those... "ghouls." They're responsible for poisoning our groundwater, you know! It's an obvious act of terrorism against Vault City!}
 {220}{}{How are they poisoning the water?}
 {221}{}{Hmmm. Can I ask you some other questions?}
-{222}{}{Cám ơn, t?m bi?t.}
+{222}{}{Cám ơn, tạm biệt.}
 {223}{}{Their shantytown is built around the remains of an old atomic power plant... a plant they SOMEHOW started up again and that is now leaking radiation! Those creatures need to be driven out and that plant shut down!}
 {224}{}{Hmmm. Can I ask you some other questions?}
 {225}{}{Thanks for the information. Goodbye.}

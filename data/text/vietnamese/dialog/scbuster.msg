@@ -8,7 +8,7 @@
 {107}{}{What do you got?}
 {108}{}{Maybe you can fix me up something special?}
 {109}{}{I've got some questions.}
-{110}{}{T?m bi?t.}
+{110}{}{Tạm biệt.}
 {111}{}{A fine choice!}
 {112}{}{Well, you got yourself a steal there, partner.}
 {113}{}{Not to rush you, stranger, but I got work to do.}
@@ -24,23 +24,23 @@
 {123}{}{Sure, it's a deal.}
 {124}{}{Không, cám ơn.}
 {125}{}{New California Republic - that's what it is. President Tandi and the bunch say they're trying to rebuild the old days; I figure they're just trying to grab whatever they can. Hell, I got no complaint with them - the old days is all before my time. They're kind of a prissy bunch, though - don't like slaves, gambling, whatnot. That's why I set up out here. Don't like rules - never have.}
-{126}{}{Hi?u r?i.}
-{127}{}{T?m bi?t.}
+{126}{}{Hiểu rồi.}
+{127}{}{Tạm biệt.}
 {128}{}{I don't mess with Mr. Merk and it don't pay to go gossiping about him. You got questions, go ask about him at the Rawhide.}
-{129}{}{Hi?u r?i.}
-{130}{}{T?m bi?t.}
+{129}{}{Hiểu rồi.}
+{130}{}{Tạm biệt.}
 {131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
-{132}{}{Hi?u r?i.}
-{133}{}{T?m bi?t.}
+{132}{}{Hiểu rồi.}
+{133}{}{Tạm biệt.}
 {134}{}{Funny you go asking that after what happened to Roger Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}
-{135}{}{Hi?u r?i.}
-{136}{}{T?m bi?t.}
+{135}{}{Hiểu rồi.}
+{136}{}{Tạm biệt.}
 {137}{}{That one of them pre-war imports? Let me guess, 14mm ammo? Nope, ain't got one.}
-{138}{}{Hi?u r?i.}
-{139}{}{T?m bi?t.}
+{138}{}{Hiểu rồi.}
+{139}{}{Tạm biệt.}
 {140}{}{Look, I can't do this on anything but a hunting rifle. It's the way the mount's built, understand?}
-{141}{}{Hi?u r?i.}
-{142}{}{T?m bi?t.}
+{141}{}{Hiểu rồi.}
+{142}{}{Tạm biệt.}
 {143}{}{The joint's closed. Bug off.}
 {144}{}{God! Come back at a decent hour, will ya?}
 {145}{}{Come back when I'm open - and close the tent flap behind ya.}

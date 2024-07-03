@@ -1,5 +1,5 @@
 {100}{}{Welcome. I am ACE, the medical computer. Are you in need of medical assistance?}
-{101}{}{Đúng v?y.}
+{101}{}{Đúng vậy.}
 {102}{}{Không.}
 {103}{}{Me got question. You answer?}
 {104}{}{I've got some questions. Can you answer them?}
@@ -24,14 +24,14 @@
 {123}{}{I don't really need anything at this time.}
 {124}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The healing process will require 5 minutes time.}
 {125}{}{Okay.}
-{126}{}{Không có g?.}
-{127}{}{Đư?c r?i.}
+{126}{}{Không có gì.}
+{127}{}{Được rồi.}
 {128}{}{Forget it.}
 {129}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The poison will first be analyzed and then an antidote will be synthesized. Tissue damage will then be repaired. This process will require 30 minutes.}
 {130}{}{Ok.}
 {131}{}{Không.}
-{132}{}{Đư?c thôi.}
-{133}{}{Không có g?.}
+{132}{}{Được thôi.}
+{133}{}{Không có gì.}
 {134}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Anti-radiation compounds will be administered and then tissue damage will be repaired. This process will require 60 minutes.}
 {135}{}{Ok.}
 {136}{}{Không.}
@@ -107,7 +107,7 @@
 {206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
 {207}{}{Can be done? Machine think human?}
 {208}{}{A true artificial intelligence is possible. A few such systems were completed for military purposes. The project was discontinued.}
-{209}{}{T?i sao?}
+{209}{}{Tại sao?}
 {210}{}{The suicide rate among true artificial intelligence machines was extremely high. When given full sensory capability the machines became depressed over their inability to go out into the world and experience it. When deprived of full sensory input the machines began to develop severe mental disorders similar to those among humans who are forced to endure sensory deprivation. The few machines that survived these difficulties became incredibly bored and began to create situations in the outside world for their amusement. It is theorized by some that this was the cause of the war that nearly destroyed mankind.}
 {211}{}{Uh... How you feel?}
 {212}{}{Me change subject.}
@@ -120,7 +120,7 @@
 {219}{}{Ok.}
 {220}{}{That's interesting.}
 {221}{}{The Brotherhood of Steel is a paramilitary organization dedicated to the salvation of mankind through the proper use of technology. All other information is classified.}
-{222}{}{Tr? l?i.}
+{222}{}{Trở lại.}
 {223}{}{What happened to Matt?}
 {224}{}{Loading sequence...}
 {225}{}{Replay it now.}

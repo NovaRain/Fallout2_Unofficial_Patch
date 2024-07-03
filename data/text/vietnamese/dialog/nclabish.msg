@@ -193,7 +193,7 @@
 {473}{}{Uh, thanks for the advice. I had some other, safer, questions...}
 {474}{}{I will. Goodbye.}
 {475}{}{Thanks for your time... and your advice, Mrs. Bishop.}
-{480}{}{*Th? dài*}
+{480}{}{*Thở dài*}
 {481}{}{Another BEAUTIFUL Reno day. The devil must be dancing a jig.}
 {482}{}{Judging from the crowd in the casino, looks like more human sewage has washed into Reno...}
 {483}{}{Reno... "the biggest little cesspool in the world." Hmmmph.}
@@ -372,7 +372,7 @@
  in your eye.}
 {735}{}{(Her expression crumbles for a moment, then she rolls over so you can't see her.)
  Don't mention that place.}
-{736}{}{Chuy?n g? đ? x?y ra th??}
+{736}{}{Chuyện gì đã xảy ra thế?}
 {740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
 {741}{}{And?}
 {745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries

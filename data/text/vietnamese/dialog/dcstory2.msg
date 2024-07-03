@@ -4,7 +4,7 @@
 {103}{}{Stop it!}
 {104}{}{How could you?}
 {105}{}{Get away from me!}
-{106}{}{T?i sao?}
+{106}{}{Tại sao?}
 {107}{}{Please stop!}
 {108}{}{You murderer!}
 {109}{}{Poor Mom! You'll pay for that!}
@@ -13,7 +13,7 @@
 {112}{}{Sorry, can't think of anything else interesting.}
 {113}{}{My brains all dried up.}
 {114}{}{That's it.}
-{115}{}{Hi.}
+{115}{}{Chào.}
 {116}{}{Have you said hi to Mom yet?}
 {117}{}{Oh, hi.}
 {118}{}{Oh, you again.}
@@ -32,12 +32,12 @@
 {137}{}{Yeah, Cuddles. She was such a sweet cat. I really don't feel like talking about it... Well, unless you'd like to buy me a drink. That might help.}
 {138}{}{As I said, I would prefer not to talk about it right now. If you'd like to buy me a drink, it might loosen my tongue.}
 {139}{}{Of course I will. I'd love to hear about it.}
-{140}{}{Đư?c thôi.}
+{140}{}{Được thôi.}
 {141}{}{Sorry, I can't spare $10 right now.}
 {142}{}{Obviously.}
 {143}{}{Do you think you're funny or something? Get a better line.}
 {144}{}{So why the glum face?}
-{145}{}{Sao c?ng đư?c, t?m bi?t.}
+{145}{}{Sao cũng được, tạm biệt.}
 {146}{}{I hear there used to be ones that were as big as you and me. They used to eat animals as big as a brahmin. Now that's scary stuff.}
 {147}{}{That's nothing.}
 {148}{}{Yeah, it is.}
@@ -47,9 +47,9 @@
 {152}{}{Strange.}
 {153}{}{Cuddles always used to help me go to sleep at night. I think of her every night when I try to go to sleep.}
 {154}{}{Sounds nice.}
-{155}{}{Ti?p t?c đi.}
+{155}{}{Tiếp tục đi.}
 {156}{}{I had her when I was a kid, but she disappeared. I didn't know then what happened to her, I was too young.}
-{157}{}{T?i sao?}
+{157}{}{Tại sao?}
 {158}{}{Well, food was awfully scarce back then and people had to eat. It's quite sad really...}
 {159}{}{What?}
 {160}{}{People would hunt them because they were such easy prey. None of them are around anymore because of it.}

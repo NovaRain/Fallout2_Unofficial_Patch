@@ -1,5 +1,5 @@
 {100}{}{You see a someone wearing combat armor.}
-{101}{}{B?n th?y m?t lính gác.}
+{101}{}{Bạn thấy một lính gác.}
 {102}{}{He looks to be standing here waiting for something to happen.}
 {103}{}{Yeah, yeah. Move along.}
 {104}{}{You make sure you're nice to Mr. Buster so we don't have to waste any ammo.}

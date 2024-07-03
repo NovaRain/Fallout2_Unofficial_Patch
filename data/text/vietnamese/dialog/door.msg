@@ -1,200 +1,200 @@
-{100}{}{B?n th?y m?t cái c?a g?.}
-{101}{}{B?n th?y m?t cái c?a s?t.}
-{102}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?) và b?y thu?c n? nh?y trên khung c?a,
-mà b?n có th? th? c?y m?.}
-{103}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
-thu?c n? nh?y trên khung c?a, mà b?n có th?
-th? c?y m?.}
-{104}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
-và b?y thu?c n? nh?y trên khung c?a, mà b?n có th?
-th? c?y m?.}
-{105}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét và
-b?y thu?c n? nh?y trên khung c?a, mà b?n có th? th? c?y m?.}
-{106}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?) và b?y trên khung c?a, mà b?n có th?
-th? c?y m?.}
-{107}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
-trên khung c?a, mà b?n có th? th? c?y m?.}
-{108}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
-và b?y trên khung c?a, mà b?n có th? th? c?y m?.}
-{109}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
-và b?y trên khung c?a, mà b?n có th? th? c?y m?.}
-{110}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng c?y khóa
-đ? m?) và đo?n dây thép b? c?t trên khung c?a, mà b?n có th?
-th? c?y m?.}
-{111}{}{B?n th?y m?t cánh c?a kiên c? có khóa và đo?n dây
-thép b? đ?t trên khung c?a, mà b?n có th? th? c?y m?.}
-{112}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
-và đo?n dây thép b? đ?t trên khung c?a, mà b?n có th? th?
-c?y m?.}
-{113}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
-và đo?n dây thép b? c?t trên khung c?a, mà b?n có th?
-th? c?y m?.}
-{114}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?) mà b?n có th? th? c?y m?.}
-{115}{}{B?n th?y m?t cánh c?a kiên c? có khóa mà b?n có th?
-th? c?y m?.}
-{116}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có
-khóa mà b?n có th? th? c?y m?.}
-{117}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?,
-r? sét mà b?n có th? th? c?y m?.}
-{118}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?) và b?y thu?c n? nh?y trên khung c?a.}
-{119}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
-thu?c n? nh?y trên khung c?a.}
-{120}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
-và b?y thu?c n? nh?y trên khung c?a.}
-{121}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
-và b?y thu?c n? nh?y trên khung c?a.}
-{122}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?) và b?y trên khung c?a.}
-{123}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
-trên khung c?a.}
-{124}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
-và b?y trên khung c?a.}
-{125}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
-và b?y trên khung c?a.}
-{126}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng c?y khóa
-đ? m?) và đo?n dây thép b? c?t trên khung c?a.}
-{127}{}{B?n th?y m?t cánh c?a kiên c? có khóa và đo?n dây thép
-b? đ?t trên khung c?a.}
-{128}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa và
-đo?n dây thép b? đ?t trên khung c?a.}
-{129}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét và
-đo?n dây thép b? c?t trên khung c?a.}
-{130}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?).}
-{131}{}{B?n th?y m?t cánh c?a kiên c? có khóa.}
-{132}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa.}
-{133}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?,
-r? sét.}
-{134}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa (có th? dùng c?y khóa
-đ? m?) và b?y thu?c n? nh?y trên khung c?a.}
-{135}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa và b?y
-thu?c n? nh?y trên khung c?a.}
-{136}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa và
-b?y thu?c n? nh?y trên khung c?a.}
-{137}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét và
-b?y thu?c n? nh?y trên khung c?a.}
-{138}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa (có th? dùng c?y khóa
-đ? m?) và b?y trên khung c?a.}
-{139}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa và b?y trên
-khung c?a.}
-{140}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa và
-b?y trên khung c?a.}
-{141}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét và
-b?y trên khung c?a.}
-{142}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa (có th? dùng c?y khóa
-đ? m?) và đo?n dây thép b? c?t trên khung c?a.}
-{143}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa và đo?n dây thép
-b? đ?t trên khung c?a.}
-{144}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa và
-đo?n dây thép b? đ?t trên khung c?a.}
-{145}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét và
-đo?n dây thép b? c?t trên khung c?a.}
-{146}{}{B?n th?y m?t cánh c?a có khóa (có th? dùng c?y khóa đ? m?).}
-{147}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa.}
-{148}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa.}
-{149}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét.}
-{150}{}{B?n th?y m?t cánh c?a c? có khóa (có th? dùng c?y khóa
-đ? m?) và b?y thu?c n? nh?y trên khung c?a.}
-{151}{}{B?n th?y m?t cánh c?a c? có khóa và b?y
-thu?c n? nh?y trên khung c?a.}
-{152}{}{B?n th?y m?t cánh c?a c? có v? như không có khóa và
-b?y thu?c n? nh?y trên khung c?a.}
-{153}{}{B?n th?y m?t cánh c?a c? v?i ? khóa c? k?, r? sét và
-b?y thu?c n? nh?y trên khung c?a.}
-{154}{}{B?n th?y m?t cánh c?a c? có khóa (có th? dùng c?y khóa
-đ? m?) và b?y trên khung c?a.}
-{155}{}{B?n th?y m?t cánh c?a c? có khóa và b?y trên
-khung c?a.}
-{156}{}{B?n th?y m?t cánh c?a c? có v? như không có khóa và
-b?y trên khung c?a.}
-{157}{}{B?n th?y m?t cánh c?a c? v?i ? khóa c? k?, r? sét và
-b?y trên khung c?a.}
-{158}{}{B?n th?y m?t cánh c?a c? có khóa (có th? dùng c?y khóa
-đ? m?) và dây thép b? c?t trên khung c?a.}
-{159}{}{B?n th?y m?t cánh c?a c? có khóa và đo?n dây thép
-b? đ?t trên khung c?a.}
-{160}{}{B?n th?y m?t cánh c?a c? có v? như không có khóa và
-đo?n dây thép b? đ?t trên khung c?a.}
-{161}{}{B?n th?y m?t cánh c?a c? v?i ? khóa c? k?, r? sét và
-đo?n dây thép b? c?t trên khung c?a.}
-{162}{}{B?n th?y m?t cánh c?a c? có khóa (có th? dùng c?y khóa
-đ? m?).}
-{163}{}{B?n th?y m?t cánh c?a c? có khóa.}
-{164}{}{B?n th?y m?t cánh c?a c? có v? như không có khóa.}
-{165}{}{B?n th?y m?t cánh c?a v?i ? khóa c? k?, r? sét.}
-{166}{}{B?n b? dính b?y và đ? nh?n }
-{167}{}{ đi?m sát thương.}
-{168}{}{ đ? dính b?y và nh?n }
-{169}{}{ đi?m sát thương.}
-{170}{}{B?n khéo léo c?y khóa trên c?a.}
-{171}{}{K? năng kém c?i c?a b?n đ? làm k?t ? khóa trên c?a.}
-{172}{}{B?n không c?y đư?c khóa trên cánh c?a này.}
-{173}{}{ khéo léo c?y khóa trên c?a.}
-{174}{}{do thi?u k? năng đ? làm k?t ? khóa trên c?a.}
-{175}{}{ không c?y đư?c khóa trên c?a.}
-{176}{}{B?n đ? phá khóa kh?i c?a.}
-{177}{}{B?n b? căng cơ lưng khi c? g?ng phá khóa và
-nh?n m?t đi?m sát thương.}
-{178}{}{B?n b? căng cơ lưng khi c? g?ng phá khóa và
-nh?n }
-{179}{}{ đi?m sát thương.}
-{180}{}{B?n quá y?u đ? có th? phá khóa.}
-{181}{}{ đ? phá khóa kh?i c?a.}
-{182}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
- đi?m sát thương.}
-{183}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n }
-{184}{}{ đi?m sát thương.}
-{185}{}{ quá y?u đ? có th? phá khóa.}
-{186}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
- đi?m sát thương.}
-{187}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n}
-{188}{}{ đi?m sát thương.}
-{189}{}{B?n khéo léo khóa c?a.}
-{190}{}{B?n không khóa đư?c c?a.}
-{191}{}{ khéo léo khóa c?a.}
-{192}{}{ không khóa đư?c c?a.}
-{193}{}{Hành đ?ng đó c?n ch?ng làm xư?c n?i c?a.}
-{194}{}{B?n t?m th?y b?y trên c?a.}
-{195}{}{B?n không t?m th?y b?y trên c?a.}
-{196}{}{B?n khéo léo vô hi?u hóa b?y.}
-{198}{}{B?n không vô hi?u hóa đư?c b?y.}
-{199}{}{ t?m th?y b?y trên c?a.}
-{200}{}{ không t?m th?y b?y trên c?a.}
-{201}{}{ khéo léo vô hi?u hóa b?y.}
-{202}{}{ không vô hi?u hóa đư?c b?y.}
-{203}{}{C?a trông như b? khóa.}
-{204}{}{B?n đ? ? th?y có b?y trên khung c?a.}
-{205}{}{ đ? ? th?y có b?y trên khung c?a.}
-{206}{}{B?n không th? đ?t đư?c b?y trên cánh c?a này, v?
- c?a đang m?.}
-{207}{}{ không th? đ?t đư?c b?y trên cánh c?a này, v? c?a
- đang m?.}
-{208}{}{B?n khéo léo đ?t b?y trên khung c?a.}
-{209}{}{B?n không đ?t đư?c b?y đúng cách trên khung c?a.}
-{210}{}{ khéo léo đ?t b?y trên khung c?a.}
-{211}{}{ không đ?t đư?c b?y đúng cách trên khung c?a.}
-{300}{}{B?n m? khóa c?a.}
-{301}{}{B?n khóa c?a.}
-{302}{}{B?n không th? khóa trong lúc c?a đang m?.}
-{303}{}{Chi?c ch?a không v?a v?i ? khóa này.}
-{320}{}{Không có cách nào đ? m? cánh c?a này.}
-{330}{}{Cánh c?a b? k?t khi đang m?.}
-{400}{}{B?n m? khóa c?a.}
-{414}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
-c?y khóa đ? m?) mà b?n có th? th? c?y m?.}
-{415}{}{B?n th?y m?t cánh c?a kiên c? có khóa mà b?n có th?
-th? c?y m?.}
-{416}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có
-khóa mà b?n có th? th? c?y m?.}
-{417}{}{B?n th?y m?t cánh c?a kiên c? mà b?n có th? c?y m?.}
-{500}{}{Cánh c?a này quá n?ng đ? có th? c?y m?.}
-{501}{}{Có v? như b?n c?n làm cho máy phát ch?y trư?c đ?.}
-{502}{}{B?n th?y: C?a thang máy.}
-{503}{}{Có v? như b?n c?n dùng thi?t b? đi?n đ? m? ? khóa này.}
+{100}{}{Bạn thấy một cái cửa gỗ.}
+{101}{}{Bạn thấy một cái cửa sắt.}
+{102}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở) và bẫy thuốc nổ nhạy trên khung cửa,
+mà bạn có thể thử cậy mở.}
+{103}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
+thuốc nổ nhạy trên khung cửa, mà bạn có thể
+thử cậy mở.}
+{104}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
+và bẫy thuốc nổ nhạy trên khung cửa, mà bạn có thể
+thử cậy mở.}
+{105}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét và
+bẫy thuốc nổ nhạy trên khung cửa, mà bạn có thể thử cậy mở.}
+{106}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở) và bẫy trên khung cửa, mà bạn có thể
+thử cậy mở.}
+{107}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
+trên khung cửa, mà bạn có thể thử cậy mở.}
+{108}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
+và bẫy trên khung cửa, mà bạn có thể thử cậy mở.}
+{109}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
+và bẫy trên khung cửa, mà bạn có thể thử cậy mở.}
+{110}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng cậy khóa
+để mở) và đoạn dây thép bị cắt trên khung cửa, mà bạn có thể
+thử cậy mở.}
+{111}{}{Bạn thấy một cánh cửa kiên cố có khóa và đoạn dây
+thép bị đứt trên khung cửa, mà bạn có thể thử cậy mở.}
+{112}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
+và đoạn dây thép bị đứt trên khung cửa, mà bạn có thể thử
+cậy mở.}
+{113}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
+và đoạn dây thép bị cắt trên khung cửa, mà bạn có thể
+thử cậy mở.}
+{114}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở) mà bạn có thể thử cậy mở.}
+{115}{}{Bạn thấy một cánh cửa kiên cố có khóa mà bạn có thể
+thử cậy mở.}
+{116}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có
+khóa mà bạn có thể thử cậy mở.}
+{117}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ,
+rỉ sét mà bạn có thể thử cậy mở.}
+{118}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở) và bẫy thuốc nổ nhạy trên khung cửa.}
+{119}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
+thuốc nổ nhạy trên khung cửa.}
+{120}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
+và bẫy thuốc nổ nhạy trên khung cửa.}
+{121}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
+và bẫy thuốc nổ nhạy trên khung cửa.}
+{122}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở) và bẫy trên khung cửa.}
+{123}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
+trên khung cửa.}
+{124}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
+và bẫy trên khung cửa.}
+{125}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
+và bẫy trên khung cửa.}
+{126}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng cậy khóa
+để mở) và đoạn dây thép bị cắt trên khung cửa.}
+{127}{}{Bạn thấy một cánh cửa kiên cố có khóa và đoạn dây thép
+bị đứt trên khung cửa.}
+{128}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa và
+đoạn dây thép bị đứt trên khung cửa.}
+{129}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét và
+đoạn dây thép bị cắt trên khung cửa.}
+{130}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở).}
+{131}{}{Bạn thấy một cánh cửa kiên cố có khóa.}
+{132}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa.}
+{133}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ,
+rỉ sét.}
+{134}{}{Bạn thấy một cánh cửa bị hư hại có khóa (có thể dùng cậy khóa
+để mở) và bẫy thuốc nổ nhạy trên khung cửa.}
+{135}{}{Bạn thấy một cánh cửa bị hư hại có khóa và bẫy
+thuốc nổ nhạy trên khung cửa.}
+{136}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa và
+bẫy thuốc nổ nhạy trên khung cửa.}
+{137}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét và
+bẫy thuốc nổ nhạy trên khung cửa.}
+{138}{}{Bạn thấy một cánh cửa bị hư hại có khóa (có thể dùng cậy khóa
+để mở) và bẫy trên khung cửa.}
+{139}{}{Bạn thấy một cánh cửa bị hư hại có khóa và bẫy trên
+khung cửa.}
+{140}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa và
+bẫy trên khung cửa.}
+{141}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét và
+bẫy trên khung cửa.}
+{142}{}{Bạn thấy một cánh cửa bị hư hại có khóa (có thể dùng cậy khóa
+để mở) và đoạn dây thép bị cắt trên khung cửa.}
+{143}{}{Bạn thấy một cánh cửa bị hư hại có khóa và đoạn dây thép
+bị đứt trên khung cửa.}
+{144}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa và
+đoạn dây thép bị đứt trên khung cửa.}
+{145}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét và
+đoạn dây thép bị cắt trên khung cửa.}
+{146}{}{Bạn thấy một cánh cửa có khóa (có thể dùng cậy khóa để mở).}
+{147}{}{Bạn thấy một cánh cửa bị hư hại có khóa.}
+{148}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa.}
+{149}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét.}
+{150}{}{Bạn thấy một cánh cửa cũ có khóa (có thể dùng cậy khóa
+để mở) và bẫy thuốc nổ nhạy trên khung cửa.}
+{151}{}{Bạn thấy một cánh cửa cũ có khóa và bẫy
+thuốc nổ nhạy trên khung cửa.}
+{152}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa và
+bẫy thuốc nổ nhạy trên khung cửa.}
+{153}{}{Bạn thấy một cánh cửa cũ với ổ khóa cũ kĩ, rỉ sét và
+bẫy thuốc nổ nhạy trên khung cửa.}
+{154}{}{Bạn thấy một cánh cửa cũ có khóa (có thể dùng cậy khóa
+để mở) và bẫy trên khung cửa.}
+{155}{}{Bạn thấy một cánh cửa cũ có khóa và bẫy trên
+khung cửa.}
+{156}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa và
+bẫy trên khung cửa.}
+{157}{}{Bạn thấy một cánh cửa cũ với ổ khóa cũ kĩ, rỉ sét và
+bẫy trên khung cửa.}
+{158}{}{Bạn thấy một cánh cửa cũ có khóa (có thể dùng cậy khóa
+để mở) và dây thép bị cắt trên khung cửa.}
+{159}{}{Bạn thấy một cánh cửa cũ có khóa và đoạn dây thép
+bị đứt trên khung cửa.}
+{160}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa và
+đoạn dây thép bị đứt trên khung cửa.}
+{161}{}{Bạn thấy một cánh cửa cũ với ổ khóa cũ kĩ, rỉ sét và
+đoạn dây thép bị cắt trên khung cửa.}
+{162}{}{Bạn thấy một cánh cửa cũ có khóa (có thể dùng cậy khóa
+để mở).}
+{163}{}{Bạn thấy một cánh cửa cũ có khóa.}
+{164}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa.}
+{165}{}{Bạn thấy một cánh cửa với ổ khóa cũ kĩ, rỉ sét.}
+{166}{}{Bạn bị dính bẫy và đã nhận }
+{167}{}{ điểm sát thương.}
+{168}{}{ đã dính bẫy và nhận }
+{169}{}{ điểm sát thương.}
+{170}{}{Bạn khéo léo cậy khóa trên cửa.}
+{171}{}{Kĩ năng kém cỏi của bạn đã làm kẹt ổ khóa trên cửa.}
+{172}{}{Bạn không cậy được khóa trên cánh cửa này.}
+{173}{}{ khéo léo cậy khóa trên cửa.}
+{174}{}{do thiếu kĩ năng đã làm kẹt ổ khóa trên cửa.}
+{175}{}{ không cậy được khóa trên cửa.}
+{176}{}{Bạn đã phá khóa khỏi cửa.}
+{177}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
+nhận một điểm sát thương.}
+{178}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
+nhận }
+{179}{}{ điểm sát thương.}
+{180}{}{Bạn quá yếu để có thể phá khóa.}
+{181}{}{ đã phá khóa khỏi cửa.}
+{182}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận một
+ điểm sát thương.}
+{183}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận }
+{184}{}{ điểm sát thương.}
+{185}{}{ quá yếu để có thể phá khóa.}
+{186}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận một
+ điểm sát thương.}
+{187}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận}
+{188}{}{ điểm sát thương.}
+{189}{}{Bạn khéo léo khóa cửa.}
+{190}{}{Bạn không khóa được cửa.}
+{191}{}{ khéo léo khóa cửa.}
+{192}{}{ không khóa được cửa.}
+{193}{}{Hành động đó còn chẳng làm xước nổi cửa.}
+{194}{}{Bạn tìm thấy bẫy trên cửa.}
+{195}{}{Bạn không tìm thấy bẫy trên cửa.}
+{196}{}{Bạn khéo léo vô hiệu hóa bẫy.}
+{198}{}{Bạn không vô hiệu hóa được bẫy.}
+{199}{}{ tìm thấy bẫy trên cửa.}
+{200}{}{ không tìm thấy bẫy trên cửa.}
+{201}{}{ khéo léo vô hiệu hóa bẫy.}
+{202}{}{ không vô hiệu hóa được bẫy.}
+{203}{}{Cửa trông như bị khóa.}
+{204}{}{Bạn để ý thấy có bẫy trên khung cửa.}
+{205}{}{ để ý thấy có bẫy trên khung cửa.}
+{206}{}{Bạn không thể đặt được bẫy trên cánh cửa này, vì
+ cửa đang mở.}
+{207}{}{ không thể đặt được bẫy trên cánh cửa này, vì cửa
+ đang mở.}
+{208}{}{Bạn khéo léo đặt bẫy trên khung cửa.}
+{209}{}{Bạn không đặt được bẫy đúng cách trên khung cửa.}
+{210}{}{ khéo léo đặt bẫy trên khung cửa.}
+{211}{}{ không đặt được bẫy đúng cách trên khung cửa.}
+{300}{}{Bạn mở khóa cửa.}
+{301}{}{Bạn khóa cửa.}
+{302}{}{Bạn không thể khóa trong lúc cửa đang mở.}
+{303}{}{Chiếc chìa không vừa với ổ khóa này.}
+{320}{}{Không có cách nào để mở cánh cửa này.}
+{330}{}{Cánh cửa bị kẹt khi đang mở.}
+{400}{}{Bạn mở khóa cửa.}
+{414}{}{Bạn thấy một cánh cửa kiên cố có khóa (có thể dùng
+cậy khóa để mở) mà bạn có thể thử cậy mở.}
+{415}{}{Bạn thấy một cánh cửa kiên cố có khóa mà bạn có thể
+thử cậy mở.}
+{416}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có
+khóa mà bạn có thể thử cậy mở.}
+{417}{}{Bạn thấy một cánh cửa kiên cố mà bạn có thể cậy mở.}
+{500}{}{Cánh cửa này quá nặng để có thể cậy mở.}
+{501}{}{Có vẻ như bạn cần làm cho máy phát chạy trước đã.}
+{502}{}{Bạn thấy: Cửa thang máy.}
+{503}{}{Có vẻ như bạn cần dùng thiết bị điện để mở ổ khóa này.}
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 {611}{}{ fails spectacularly, and the explosive goes off prematurely.}

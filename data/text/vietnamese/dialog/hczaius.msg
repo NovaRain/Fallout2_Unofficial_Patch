@@ -8,7 +8,7 @@
 {107}{}{Yeah, rolled in a little while back.}
 {108}{}{No, genius, I've been living here all along and you never noticed me.}
 {109}{}{Heard you're having a little trouble with the mine.}
-{110}{}{Ông có th? nói g? v? nơi này?}
+{110}{}{Ông có thể nói gì về nơi này?}
 {111}{}{Ummm... riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
  yourself something to drink.}
 {112}{}{Yagga? Ogg? Gronk!}
@@ -30,7 +30,7 @@
 {125}{}{Our air purifier's broken. It's on the bottom level. We've got no parts, and we've got no
  protective equipment. Without the parts, we can't fix it. Without the protection, the radon gas'll nail us. Are you any
  good with your hands?}
-{126}{}{Tôi v?n ?n.}
+{126}{}{Tôi vẫn ổn.}
 {127}{}{No. Not really.}
 {128}{}{You again, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
@@ -71,7 +71,7 @@
 {155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and
  look for Renesco. He's got tools just lying around his office. He should be able to help you with the
  parts.}
-{156}{}{G?p l?i sau.}
+{156}{}{Gặp lại sau.}
 {157}{}{Sorry. That's the limit. Take it or leave it.}
 {158}{}{I'll take it.}
 {159}{}{I'll leave it.}

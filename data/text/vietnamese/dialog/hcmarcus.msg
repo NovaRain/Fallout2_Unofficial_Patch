@@ -13,15 +13,15 @@
 {112}{}{You wanna travel with me?}
 {113}{}{Chào.}
 {114}{mcs3}{Yeah, I'm a ugly mutant. I also run this place. You got a problem with that?}
-{115}{}{?!}
-{116}{}{N?.}
+{115}{}{Ừ!}
+{116}{}{Nồ.}
 {117}{mcs4}{You wanna fight me?}
-{118}{}{?!}
-{119}{}{N?.}
+{118}{}{Ừ!}
+{119}{}{Nồ.}
 {120}{mcs5}{Take your best shot, human.}
 {121}{mcs6a}{Good.}
 {122}{mcs6b}{Keep your nose clean and you won't get into trouble.}
-{123}{}{??}
+{123}{}{Ừ?}
 {124}{mcs7}{I'm Marcus. Helped build the place. Now I'm sheriff.}
 {125}{}{You helped build this place? That must have been a long time ago...}
 {126}{}{Bullshit. How could you have been around that long?}
@@ -37,7 +37,7 @@
 {136}{mcs10}{Right... After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
 {137}{}{Really?}
 {138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while -- probably a day or two. After a while, we just started laughing. What was the point?}
-{139}{}{Sau đó th? sao?}
+{139}{}{Sau đó thì sao?}
 {140}{mcs12}{We became friends. Headed off together. Then other people started following us. Guess they figured if they weren't safe with a mutie and a Steel Knight, safe just wasn't going to happen. }
 {141}{}{So you set up here. Why?}
 {142}{mcs13}{Uranium mine. I knew there was one around from old maps. Now anybody's welcome here -- 'long as they act right. Others might not think much of us, but nobody's more free than we are. There ya go.}
@@ -82,7 +82,7 @@
 {181}{}{Chào.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}
-{184}{}{Đư?c thôi. T?m bi?t.}
+{184}{}{Được thôi. Tạm biệt.}
 {185}{mcs23}{Yeah? What?}
 {186}{}{You wanted me to find those missing people. I've found some tunnels below the city. They might be there.}
 {187}{}{I've found those missing people. They're in tunnels beneath the city.}
@@ -98,7 +98,7 @@
 {197}{mcs25a}{They're dead? Damn... I'll tell the families myself. }
 {198}{mcs25b}{Here's your reward. $500. Thanks for your time.}
 {199}{mcs25c}{Oh, hey, I know you said you'd do this for free, but take this as our thanks.}
-{200}{}{Đư?c thôi.}
+{200}{}{Được thôi.}
 {201}{mcs26}{Right. Me and my deputies will take it from here... And, thanks. I don't forget things like this.}
 {202}{}{No prob. Bye.}
 {203}{mcs27}{What is it people got against mutants? We'll be on the lookout. Thanks. The town owes you. And I never forget things like this.}
@@ -106,10 +106,10 @@
 {205}{mcs28}{Keep your eye on him, will you? I want to catch him red-handed.}
 {206}{}{No problem.}
 {207}{mcs29}{Well, in that case, we'd better be sure to stop him. Want to come along?}
-{208}{}{Đư?c thôi.}
+{208}{}{Được thôi.}
 {209}{}{Không, cám ơn.}
 {210}{mcs30}{You want me to come along with you? Ah, what the hell, I'm too old to settle down. We goin' now?}
-{211}{}{Đúng v?y.}
+{211}{}{Đúng vậy.}
 {212}{}{No, not right now.}
 {213}{mcs31}{Ah, there's too much going on right now. When things calm down, then I just might.}
 {214}{}{Sure. I got more questions.}
@@ -200,10 +200,10 @@
 {299}{mcs111c}{You got anything to help?}
 {300}{mcs111d}{Maybe you should have a look at this.}
 {301}{}{Use your skills to heal yourself.}
-{302}{}{Không có g?.}
+{302}{}{Không có gì.}
 {303}{}{OK}
 {304}{mcs160}{I'll just stay here and tighten the vises on my shoulder.}
-{305}{}{Không có g?.}
+{305}{}{Không có gì.}
 {306}{}{OK}
 {307}{}{North.}
 {308}{}{Northwest.}
@@ -216,7 +216,7 @@
 {315}{}{Don't ask me. I don't know. }
 {316}{}{Yep.}
 {317}{}{Right.}
-{318}{}{Không h?.}
+{318}{}{Không hề.}
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}
 {321}{}{Thanks. }
@@ -244,14 +244,14 @@
 {343}{}{Might want to come back here later.}
 {344}{}{I don't understand.}
 {345}{}{I dunno.}
-{346}{}{?.}
+{346}{}{Ớ.}
 {347}{}{That really hurts.}
 {348}{}{That can't feel good...}
 {349}{}{Uh... when you said 'I hope she doesn't get pregnant' in the Cat's Paw in New Reno,
  what did you mean?}
 {350}{mcs113}{Didn't your folks explain this to you?}
 {351}{}{No, I mean, I thought all you mutants were sterile.}
-{352}{}{Không có g?.}
+{352}{}{Không có gì.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
 {355}{}{Nevermind.}

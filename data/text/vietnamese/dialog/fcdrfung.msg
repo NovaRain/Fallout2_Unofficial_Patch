@@ -8,7 +8,7 @@
 {107}{}{Do you have any stimpaks? I'd like to buy some.}
 {108}{}{Ông là ai?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
-{110}{}{Ông có th? nói g? v? nơi này?}
+{110}{}{Ông có thể nói gì về nơi này?}
 {111}{}{Chào.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
@@ -22,7 +22,7 @@
 {121}{}{A friend of mine needs to be healed.}
 {122}{}{I see. Thanks. Bye.}
 {123}{}{Holliday? Yes! I taught him all he knows! Where is he now?}
-{124}{}{Ông ?y đang s?ng ? Broken Hills.}
+{124}{}{Ông ấy đang sống ở Broken Hills.}
 {125}{}{He went home, did he. I hope he has found peace there.}
 {126}{}{I think he has. I have more questions.}
 {127}{}{Probably. I have to go. Bye.}
@@ -55,7 +55,7 @@
 {169}{}{We're done. Now, you go and be careful!}
 {170}{}{Tanks!}
 {171}{}{You need more?}
-{172}{}{Tôi c?n tr? thương.}
+{172}{}{Tôi cần trị thương.}
 {173}{}{I have a friend who needs healing.}
 {174}{}{Ông là ai?}
 {175}{}{Tell me about this place.}
@@ -75,12 +75,12 @@
 {189}{}{-more-}
 {190}{}{We rebuilt with what we could find, and we have scientists and technology the world must envy. We are rebuilding civilization, but not as that horrid Master creature did.}
 {191}{}{I see. I have more questions.}
-{192}{}{Cám ơn. T?m bi?t.}
+{192}{}{Cám ơn. Tạm biệt.}
 {193}{}{Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.}
 {194}{}{Thanks! I have more questions.}
 {195}{}{Thanks!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
-{197}{}{Đúng v?y.}
+{197}{}{Đúng vậy.}
 {198}{}{Không.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}

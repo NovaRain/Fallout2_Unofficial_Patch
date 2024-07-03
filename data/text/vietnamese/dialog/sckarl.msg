@@ -26,7 +26,7 @@
 {125}{}{Well, I've got some other questions.}
 {126}{}{Some. Thanks.}
 {127}{}{That's Officer Jack, stranger. One of our men. You haven't been talking to Mira, have you?}
-{128}{}{Đúng v?y.}
+{128}{}{Đúng vậy.}
 {129}{}{Mira who?}
 {130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
 {131}{}{You don't like him much.}

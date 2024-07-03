@@ -30,7 +30,7 @@
 {125}{}{You leave here when want?}
 {126}{}{What you know about D'claws?}
 {127}{}{How you be here?}
-{128}{}{Ng? đi gi?.}
+{128}{}{Ngộ đi giờ.}
 {129}{}{Are you a prisoner here?}
 {130}{}{Can you leave here if you want?}
 {131}{}{What can you tell me about the deathclaws?}
@@ -39,9 +39,9 @@
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are deathclaws.}
 {135}{}{Okay. Need know more.}
-{136}{}{Cám ơn. T?m bi?t.}
+{136}{}{Cám ơn. Tạm biệt.}
 {137}{}{That's very commendable of you.}
-{138}{}{Hi?u r?i.}
+{138}{}{Hiểu rồi.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would
@@ -49,7 +49,7 @@
 {141}{}{Me got it. Go now.}
 {142}{}{Need ask more.}
 {143}{}{You took a foolish chance and you're lucky it paid off.}
-{144}{}{Đư?c r?i.}
+{144}{}{Được rồi.}
 {145}{}{Good idea. I'm glad to see it worked.}
 {146}{}{Well, let's see... Deathclaws appear to be mutated Jackson's Chameleons, the horned variety.
  There are a lot of similarities still present, but an even greater number of differences. The mutation

@@ -33,7 +33,7 @@
 {241}{}{What would you like to know?}
 {242}{}{I'd be happy to.}
 {243}{}{But of course.}
-{244}{}{Đư?c thôi.}
+{244}{}{Được thôi.}
 {245}{}{I don't mind.}
 {246}{}{I'll help if I can.}
 {247}{}{Of course, don't be silly.}
@@ -100,13 +100,13 @@
 {354}{}{I'm still looking for that book of mine.}
 {355}{}{What's the catch?}
 {356}{}{Tell me more.}
-{357}{}{Tôi h?i m?t câu đư?c không?}
+{357}{}{Tôi hỏi một câu được không?}
 {358}{}{Chào.}
 {370}{}{Catch? Oh, well, if you knew Fred you'd understand. He's owed me the money
  for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be
  amazed... and grateful. He's somewhere in town, I'm sure.}
 {371}{}{The book was The Lavender Flower. Derek should be over around Mom's on the east side.}
-{372}{}{Đ? tôi xem tôi có th? làm g?.}
+{372}{}{Để tôi xem tôi có thể làm gì.}
 {373}{}{Sure sounds easy.}
 {374}{}{I already found it.}
 {375}{}{I'll have to get back to you.}
@@ -126,7 +126,7 @@
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
  me. If you'll excuse me...}
 {411}{}{I can't believe he's dead... after all these years.}
-{412}{}{Đư?c thôi.}
+{412}{}{Được thôi.}
 {413}{}{...}
 {420}{}{Yeah, I know who that is. That's Vic - the guy Metzger has locked up.}
 {421}{}{Yeah, I know Vic. Metzger's got him locked up. I'm not sure why though.}

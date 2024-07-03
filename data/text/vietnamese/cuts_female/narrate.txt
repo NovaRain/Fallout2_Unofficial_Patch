@@ -1,31 +1,31 @@
-1:Chi?n tranh.
-2:Chi?n tranh ch?ng bao gi? thay đ?i.
-3:Th? gi?i k?t thúc g?n gi?ng v?i nh?ng g? mà chúng ta đ? d? đoán.
-4:Có quá nhi?u ngư?i, không c?n đ? không gian hay tài nguyên đ? duy tr? cu?c s?ng.
-5:M?i chi ti?t đ?u là th?a th?i. L? do luôn là v? các nhu c?u c?a con ngư?i.
-6:Vào năm 2077, trái đ?t g?n như không c?n d?u v?t c?a con ngư?i.
-7:Cu?c thanh t?y l?n x?y ra, m?i l?a nguyên t? b?t ngu?n t? bàn tay con ngư?i, nhanh chóng bùng cháy vư?t ra kh?i t?m ki?m soát.
-8:Cơn mưa l?a h?t nhân r?c cháy c? b?u tr?i.
-9:Các châu l?c b? ng?n l?a tham lam nu?t g?n và ch?m vào đ?i dương sôi sùng s?c.
-10:Loài ngư?i h?u như đ? di?t vong, linh h?n c?a h? ch?m vào màn b?c x? đang bao ph? trái đ?t.
-11:Đêm đen t?nh l?ng bao trùm c? hành tinh, kéo dài su?t nhi?u năm.
-12:Ch? m?t s? ít s?ng sót sau th?m h?a.
-13:M?t s? đ? may m?n đ?n đư?c nơi an toàn, ?n thân trong nh?ng h?m trú ?n kh?ng l? trong l?ng đ?t.
-14:Khi bóng t?i bao trùm trôi qua, nh?ng căn h?m m? c?a và cư dân bên trong tr?i lên đ? b?t đ?u l?i cu?c s?ng.
-15:M?t trong nh?ng b? l?c phương B?c t? nh?n m?nh là h?u du? c?a ngư?i t? m?t Vault như v?y.
-16:H? tin r?ng ngư?i sáng l?p và t? tiên c?a h?, đư?c bi?t đ?n v?i cái tên "C? t? t? Vault", đ? t?ng c?u c? th? gi?i kh?i tay m?t đ?i ác nhân.
-17:Theo truy?n thuy?t c?a h?, đ?i ác nhân này n?i lên t? phương Nam xa xôi.
-18:H?n h?y ho?i t?t c? nh?ng g? h?n ch?m vào, bóp méo b?n ch?t con ngư?i, bi?n h? thành quái v?t.
-19:Ch? nh? có s? d?ng c?m c?a Cư dân Vault m?i có th? tiêu di?t đư?c ác nhân.
-20:Nhưng c?ng chính v? v?y mà ông đ? m?t r?t nhi?u b?n bè và tr?i qua nhi?u đau kh?, hi sinh r?t nhi?u đ? c?u th? gi?i.
-21:Đ? r?i đ?n cu?i cùng khi tr? v? nhà, nơi mà ông đ? chi?n đ?u h?t m?nh đ? b?o v?, ông b? đ?y ra ngoài.
-22:Tr?c xu?t.
-23:V? đ? đ?i m?t v?i th? khi?n m?i ngư?i s? h?i, nên ông đ? tr? nên khác bi?t trong m?t h?... và không c?n là ngư?i b?o h? c?a h? n?a.
-24:B? chính nh?ng ngư?i đ?ng bào b? rơi, ông bư?c vào vùng đ?t hoang.
-25:Ông ti?n xa theo phương B?c, cho đ?n khi đ?t chân vào h?m núi l?n.
-26:T?i đây, ông l?p ra m?t ngôi làng nh?, Arroyo, và s?ng h?t ph?n c?n l?i c?a cu?c đ?i.
-27:Và như v?y, trong kho?ng m?t th? h? sau khi thành l?p, Arroyo đ? s?ng trong h?a b?nh và đư?c nh?ng h?m núi b?o v? kh?i th? gi?i bên ngoài.
-28:Đây là nhà. Nhà c?a b?n.
-29:Nhưng ? th? gi?i bên ngoài, nh?ng v?t s?o chi?n tranh c?n chưa li?n l?i.
-30:V?t thương v?n c?n h?n sâu, và gi? đây tác đ?ng c? đ?n Arroyo.
-31:Cu?c s?ng t?i Arroyo s?p s?a thay đ?i...
+1:Chiến tranh.
+2:Chiến tranh chẳng bao giờ thay đổi.
+3:Thế giới kết thúc gần giống với những gì mà chúng ta đã dự đoán.
+4:Có quá nhiều người, không còn đủ không gian hay tài nguyên để duy trì cuộc sống.
+5:Mọi chi tiết đều là thừa thãi. Lý do luôn là vì các nhu cầu của con người.
+6:Vào năm 2077, trái đất gần như không còn dấu vết của con người.
+7:Cuộc thanh tẩy lớn xảy ra, mồi lửa nguyên tử bắt nguồn từ bàn tay con người, nhanh chóng bùng cháy vượt ra khỏi tầm kiểm soát.
+8:Cơn mưa lửa hạt nhân rực cháy cả bầu trời.
+9:Các châu lục bị ngọn lửa tham lam nuốt gọn và chìm vào đại dương sôi sùng sục.
+10:Loài người hầu như đã diệt vong, linh hồn của họ chìm vào màn bức xạ đang bao phủ trái đất.
+11:Đêm đen tĩnh lặng bao trùm cả hành tinh, kéo dài suốt nhiều năm.
+12:Chỉ một số ít sống sót sau thảm họa.
+13:Một số đủ may mắn đến được nơi an toàn, ẩn thân trong những hầm trú ẩn khổng lồ trong lòng đất.
+14:Khi bóng tối bao trùm trôi qua, những căn hầm mở cửa và cư dân bên trong trồi lên để bắt đầu lại cuộc sống.
+15:Một trong những bộ lạc phương Bắc tự nhận mình là hậu duệ của người từ một Vault như vậy.
+16:Họ tin rằng người sáng lập và tổ tiên của họ, được biết đến với cái tên "Cụ tổ từ Vault", đã từng cứu cả thế giới khỏi tay một đại ác nhân.
+17:Theo truyền thuyết của họ, đại ác nhân này nổi lên từ phương Nam xa xôi.
+18:Hắn hủy hoại tất cả những gì hắn chạm vào, bóp méo bản chất con người, biến họ thành quái vật.
+19:Chỉ nhờ có sự dũng cảm của Cư dân Vault mới có thể tiêu diệt được ác nhân.
+20:Nhưng cũng chính vì vậy mà ông đã mất rất nhiều bạn bè và trải qua nhiều đau khổ, hi sinh rất nhiều để cứu thế giới.
+21:Để rồi đến cuối cùng khi trở về nhà, nơi mà ông đã chiến đấu hết mình để bảo vệ, ông bị đẩy ra ngoài.
+22:Trục xuất.
+23:Vì đã đối mặt với thứ khiến mọi người sợ hãi, nên ông đã trở nên khác biệt trong mắt họ... và không còn là người bảo hộ của họ nữa.
+24:Bị chính những người đồng bào bỏ rơi, ông bước vào vùng đất hoang.
+25:Ông tiến xa theo phương Bắc, cho đến khi đặt chân vào hẻm núi lớn.
+26:Tại đây, ông lập ra một ngôi làng nhỏ, Arroyo, và sống hết phần còn lại của cuộc đời.
+27:Và như vậy, trong khoảng một thế hệ sau khi thành lập, Arroyo đã sống trong hòa bình và được những hẻm núi bảo vệ khỏi thế giới bên ngoài.
+28:Đây là nhà. Nhà của bạn.
+29:Nhưng ở thế giới bên ngoài, những vết sẹo chiến tranh còn chưa liền lại.
+30:Vết thương vẫn còn hằn sâu, và giờ đây tác động cả đến Arroyo.
+31:Cuộc sống tại Arroyo sắp sửa thay đổi...

@@ -5,7 +5,7 @@
 {104}{}{NCR meddling do-gooder! I got a cure for you.}
 {105}{}{Vortis, we've got an intruder!}
 {106}{}{Guards! Alert!}
-{107}{}{Mu?n g??}
+{107}{}{Muốn gì?}
 {108}{}{Kurg?}
 {109}{}{Đây là nơi nào?}
 {110}{}{The Rangers sent me.}

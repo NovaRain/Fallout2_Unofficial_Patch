@@ -4,22 +4,22 @@
 {103}{}{Why do you want to hurt us?}
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
-{106}{}{Tôi giúp g? đư?c nh??}
-{107}{}{Mu?n g??}
+{106}{}{Tôi giúp gì được nhỉ?}
+{107}{}{Muốn gì?}
 {108}{}{Da... oooh...}
 {109}{}{Ông là ai?}
 {110}{}{What do you do here?}
 {111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
 {112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}
 {113}{}{You want me to talk Vikki up for you?}
-{114}{}{Không có g?. Xin chào.}
+{114}{}{Không có gì. Xin chào.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[XONG]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}
-{120}{}{Cám ơn. T?m bi?t.}
+{120}{}{Cám ơn. Tạm biệt.}
 {121}{}{I show these guys how to move their data and I answer stupid questions all day long.}
 {122}{}{Would you be able to hack into the Shi database?}
 {123}{}{What sort of stupid questions?}
@@ -56,7 +56,7 @@ Oh well.
 {151}{}{Good luck. See ya!}
 {152}{}{There. Teach these bastards to use and reject me. Goodbye.}
 {153}{}{Well, I was really just kidding. She didn't actually say that.}
-{154}{}{T?m bi?t.}
+{154}{}{Tạm biệt.}
 {155}{}{She didn't say that. Oh good.}
 {156}{}{So, I've done all this harm for nothing. I'm going to kill you now.}
 {157}{}{Try it.}

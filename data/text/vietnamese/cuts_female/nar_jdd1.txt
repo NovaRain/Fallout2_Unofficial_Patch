@@ -1,2 +1,2 @@
-1:B?n đ? ch?t.
-2:Thêm m?t l?n n?a.
+1:Bạn đã chết.
+2:Thêm một lần nữa.

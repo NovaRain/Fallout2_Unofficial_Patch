@@ -56,10 +56,10 @@
 {155}{}{Keep things nice and frosty.}
 {156}{}{Move along.}
 {157}{}{Nothing to see here.}
-{158}{}{Chúc m?t ngày t?t lành.}
+{158}{}{Chúc một ngày tốt lành.}
 {159}{}{Welcome to Ascorti's.}
 {160}{}{Play friendly.}
-{161}{}{Chúc m?t ngày t?t lành.}
+{161}{}{Chúc một ngày tốt lành.}
 {162}{}{Everyone's an Ace here at Ascorti's.}
 {163}{}{So then I says to them, get your hands off my...}
 {164}{}{I can't believe that someone'd be dumb enough to double up on that.}

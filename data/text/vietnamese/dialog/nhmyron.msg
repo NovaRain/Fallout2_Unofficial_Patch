@@ -193,7 +193,7 @@
 {682}{}{Forget this. Different topic...}
 {683}{}{I can see where this is going. Nevermind, Myron.}
 {690}{myn109}{Ah, Christ. Well... when I came across the Mordino family way back when, they were farming peyote cacti and trying to sell it to tourists as the 'Reno experience.' Total bullshit.}
-{691}{}{Ti?p t?c đi.}
+{691}{}{Tiếp tục đi.}
 {692}{}{Forget this. I had some other questions...}
 {693}{}{Forget I mentioned it.}
 {700}{myn110}{I mean, peyote? C'mon. It isn't even half the strength of, say, old school LSD.}
@@ -641,7 +641,7 @@
 {5616}{}{Sure am. Try me.}
 {5617}{}{I think I could show you a thing or two.}
 {5725}{}{Fine, fine. What was the problem with making barbiturates?}
-{5741}{}{T?i sao?}
+{5741}{}{Tại sao?}
 {5851}{}{Yes...?}
 {5861}{}{I thought so.}
 {6208}{}{?}

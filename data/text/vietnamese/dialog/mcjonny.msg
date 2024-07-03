@@ -11,7 +11,7 @@
 {157}{}{What's your name, little boy?}
 {158}{}{Tell me your name, you little monster.}
 {159}{}{Would you like some candy, little kid?}
-{160}{}{Chào g?p l?i.}
+{160}{}{Chào gặp lại.}
 {166}{}{Your mother and father have sent me to find you.}
 {168}{}{Have you talked to Vegeir about me going home?}
 {169}{}{Yes. He says he wants your parents to come down and get you.}

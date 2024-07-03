@@ -39,7 +39,7 @@
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. Me go.}
-{141}{}{Ng? mu?n h?i.}
+{141}{}{Ngộ muốn hỏi.}
 {142}{}{All right. I'm off.}
 {143}{}{I'd like to ask you some questions.}
 {144}{tand7a}{Well, I got a little time to spare.}
@@ -66,7 +66,7 @@
 {165}{}{That's all for now. I'll be going.}
 {166}{tand8}{It's just east of here, an underground shelter from the war. Most families in NCR came from it, so it's rightfully ours.}
 {167}{}{Tell more.}
-{168}{}{Ti?p t?c đi.}
+{168}{}{Tiếp tục đi.}
 {169}{tand9}{A couple of years ago some squatters moved in and built a shantytown on the surface. They call it 'The Squat.' They're nothing but dogs in the manger. They can't get into the vault but they keep us out.}
 {170}{}{Me got more questions.}
 {171}{}{I see. I need to ask you about a few other things.}
@@ -112,12 +112,12 @@
 {211}{}{Rumor has it that the NCR is making a deal with the Bishops.}
 {212}{}{Ok, on to other things.}
 {213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
-{214}{}{Ng? th?y.}
-{215}{}{Đư?c r?i.}
+{214}{}{Ngộ thấy.}
+{215}{}{Được rồi.}
 {216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
 {217}{}{Humph.}
 {218}{}{Who Westin?}
-{219}{}{Hi?u r?i.}
+{219}{}{Hiểu rồi.}
 {220}{}{Who is this Westin person?}
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
 {222}{}{No thanks.}
@@ -150,7 +150,7 @@
 {249}{}{Tell about NCR.}
 {250}{}{Me ask about something else.}
 {251}{}{Tell me about the NCR please.}
-{252}{}{Đ? tôi h?i chuy?n khác.}
+{252}{}{Để tôi hỏi chuyện khác.}
 {253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
 {254}{}{Uh, thanks.}
 {255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}
@@ -204,7 +204,7 @@
 {303}{}{It's full of intelligent deathclaws. They can even talk.}
 {304}{tand44a}{Right. (shakes head) Lord, you're dumber than Hoss ever was! (sigh) There's the door.}
 {305}{tand44b}{Right. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
-{306}{}{Ng? đi gi?.}
+{306}{}{Ngộ đi giờ.}
 {307}{}{Right. I'll be leaving.}
 {308}{tand45}{You earned yourself a bonus. My assistant will square things up.}
 {309}{}{}

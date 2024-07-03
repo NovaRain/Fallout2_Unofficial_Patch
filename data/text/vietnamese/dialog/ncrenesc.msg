@@ -107,9 +107,9 @@
 {414}{}{I see... I must be going now.}
 {420}{}{Well, tribal, I doubt you have the sense to notice this yet, but New Reno doesn't produce anything useful.
  It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand...}
-{421}{}{Ti?p t?c đi.}
+{421}{}{Tiếp tục đi.}
 {422}{}{...DOES produce something useful.}
-{423}{}{Tôi nghe đ? r?i.}
+{423}{}{Tôi nghe đủ rồi.}
 {430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates
  that talk when they should listen. No wonder you all still use spears...}
 {431}{}{Not all of us. For example, I use a variety of weapons to kill people... let me show you.}

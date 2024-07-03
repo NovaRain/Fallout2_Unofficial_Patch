@@ -1,7 +1,7 @@
-{100}{}{You see a simple vase.}
-{101}{}{You see a small chest.}
-{102}{}{You see a sun-baked clay vase.}
-{103}{}{You see a chest for the shaman's herbs.}
-{104}{}{You deftly steal from the shaman's things.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{100}{}{Bạn thấy một cái bình đơn giản.}
+{101}{}{Bạn thấy một cái rương nhỏ.}
+{102}{}{Bạn thấy một cái bình sứ phơi nắng.}
+{103}{}{Bạn thấy một cái rương đựng thảo dược của pháp sư.}
+{104}{}{Bạn khéo léo ăn trộm đồ của pháp sư.}
+{105}{}{Bạn khéo léo khóa cái rương.}
+{106}{}{Bạn khéo léo mở khóa cái rương.}

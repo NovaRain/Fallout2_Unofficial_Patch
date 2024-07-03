@@ -2,7 +2,7 @@
 {101}{}{You see Jacob the Chemist.}
 {102}{}{You see a bedraggled man in a stained lab coat. His hands are discolored from chemicals.}
 {103}{}{Hi there. I'm Jacob, the chemist of the Chemist's Drugstore. What can I do for you?}
-{104}{}{Mu?n g??}
+{104}{}{Muốn gì?}
 {105}{}{Hello again! What can I for you today?}
 {106}{}{Welcome back. What can I do for you?}
 {107}{}{Da yagga! Eep oop op!}
@@ -38,7 +38,7 @@
 {158}{}{No, I'm not really interested.}
 {159}{}{In that case, it's just great being here. This town has everything you could want... mutant
  sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
-{160}{}{Đúng v?y.}
+{160}{}{Đúng vậy.}
 {161}{}{Không.}
 {162}{}{Great. Bye.}
 {163}{}{Chào.}
@@ -46,7 +46,7 @@
  with him... or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
  disappeared after speaking up.}
-{165}{}{Ti?p t?c đi.}
+{165}{}{Tiếp tục đi.}
 {166}{}{That's enough. You're crazy. Goodbye.}
 {167}{}{We all pretend that this is a civilized town, that we're all on the up and up... but we all live
  in fear of the mutant rage. Each day, there are fewer and fewer humans.}
@@ -108,7 +108,7 @@
 {263}{}{Will do.}
 {264}{}{I can't do it.}
 {265}{}{Why not? Are you scared or something? Are you positive you won't do it?}
-{266}{}{Đúng v?y.}
+{266}{}{Đúng vậy.}
 {267}{}{No, I guess I'll do it.}
 {268}{}{I suppose I can understand. You'll be equally understanding, I hope, when I tell you to get the
  hell out of my sight. Traitor.}
@@ -136,7 +136,7 @@
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
 {291}{}{Anything else?}
-{292}{}{Đúng v?y.}
+{292}{}{Đúng vậy.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}
 {295}{}{If you're not gonna help us, we ain't gonna help you.}
@@ -158,6 +158,6 @@
 {311}{}{I have some other questions.}
 {312}{}{Nothing. Forget it.}
 {313}{}{Cám ơn.}
-{314}{}{[TI?P T?C]}
+{314}{}{[TIẾP TỤC]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
 {316}{}{Cám ơn.}

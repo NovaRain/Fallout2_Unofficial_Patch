@@ -8,7 +8,7 @@
 {106}{}{Who D'claw father?}
 {107}{}{Door look like crap. What happen?}
 {108}{}{Who build nest room?}
-{109}{}{Ng? đi gi?.}
+{109}{}{Ngộ đi giờ.}
 {110}{}{So, you are the deathclaw mother?}
 {111}{}{Who is the deathclaw father?}
 {112}{}{What happened to the door? It looks like it has seen better days.}
@@ -17,12 +17,12 @@
 {115}{}{Yes. I am the current pack mother. After my eggs hatch, the other mothers will have their turn.}
 {116}{}{Okay.}
 {117}{}{Other mothers?}
-{118}{}{Hi?u r?i.}
+{118}{}{Hiểu rồi.}
 {119}{}{There are other mothers?}
 {120}{}{Yes, there are more mothers. Should anything happen to me, one will be chosen to take my place.
  The pack must survive.}
 {121}{}{Uh, me understand.}
-{122}{}{Tôi hi?u r?i.}
+{122}{}{Tôi hiểu rồi.}
 {123}{}{These eggs were sired by Gruthar, the pack leader. It is Gruthar who decides who will mate and
  who will not. The pack will be made strong by Gruthar.}
 {124}{}{Uh, okay.}
@@ -47,9 +47,9 @@
 {138}{}{The guard was added after this incident occurred. We were more trusting back then. Now we are
  more careful.}
 {139}{}{What happen to human?}
-{140}{}{Ng? hi?u r?i.}
+{140}{}{Ngộ hiểu rồi.}
 {141}{}{What happened to this person?}
-{142}{}{Hi?u r?i.}
+{142}{}{Hiểu rồi.}
 {143}{}{We built the cave portion, and a human friend installed the door. He got the parts from a settlement
  north-east of here.}
 {144}{}{That nice.}

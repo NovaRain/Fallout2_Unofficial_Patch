@@ -7,7 +7,7 @@
 {105}{}{Uh, who you?}
 {106}{}{What you do here?}
 {107}{}{You look like guard.}
-{108}{}{Ng? đi gi?.}
+{108}{}{Ngộ đi giờ.}
 {109}{}{Just saying hello.}
 {110}{}{Ông là ai?}
 {111}{}{What are you doing?}
@@ -47,7 +47,7 @@
 {144}{}{Did you see someone go by here in a hurry?}
 {145}{}{I see people go by here every day. I really don't pay much attention to them.}
 {146}{}{Me not have time for you crap.}
-{147}{}{?, okay.}
+{147}{}{Ồ, okay.}
 {148}{}{Girl life at stake. Young girl. Someone daughter. You please help?}
 {149}{}{I don't have time for your crap.}
 {150}{}{Fine, bye.}

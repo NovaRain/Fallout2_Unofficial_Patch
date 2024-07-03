@@ -19,7 +19,7 @@
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
 {263}{}{Can you tell me about your brother Richard?}
-{264}{}{Không có g?. Xin l?i đ? làm phi?n.}
+{264}{}{Không có gì. Xin lỗi đã làm phiền.}
 {280}{}{Get outta here, dimbulb. Next time you talk to me, I'll plug you fulla holes.}
 {281}{}{Holes holes holes in my soles}
 {282}{}{Shamma Lamma DING DONG}
@@ -44,7 +44,7 @@
 {359}{}{All right then.}
 {365}{}{Naw, I reckon you WILL be leaving, 'cause you look like the kinda person who likes living. Now get.}
 {366}{}{I'm NOT leaving.}
-{367}{}{Đư?c r?i.}
+{367}{}{Được rồi.}
 {375}{}{I WARNED you...}
 {376}{}{You want some of THIS, BOY?! You want some of THIS?! Then come GET s --}
 {380}{}{Uh... what about her? Has she gotten herself in trouble again?}

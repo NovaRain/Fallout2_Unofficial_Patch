@@ -1,7 +1,7 @@
 {100}{}{You see an arrogant Shi gangster.}
 {101}{}{You see Lo Pan, a domineering, ruthless man.}
 {102}{}{You see a Shi gangster, dressed in silken clothing. His hands are calloused and hard. He seems dangerous and poisonous.}
-{103}{}{Mu?n g??}
+{103}{}{Muốn gì?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Who you?}
 {106}{}{Who was that you were fighting?}
@@ -50,7 +50,7 @@
 {149}{}{I'm Lo Pan. I'm also the "sworn enemy" of the Dragon. Why he insists on having a sworn enemy is beyond me. I just fight as well as him, and I think he's weak-hearted and allows others to live under his shadow. We're enemies because we have the same fighting style, and whoever wins will be the one who carries the tradition.}
 {150}{}{I'm not too bad at hand-to-hand combat myself. Wanna give me a try?}
 {151}{}{That's interesting. Must be rewarding. I have more questions.}
-{152}{}{Cám ơn. T?m bi?t.}
+{152}{}{Cám ơn. Tạm biệt.}
 {153}{}{I may be a scumbag, but never will it be said I don't stand up for my people. I'm going to hurt you before you die.}
 {154}{}{[XONG]}
 {155}{}{Then you're a fool and a dog doing the bidding of others. I will laugh when you die.}

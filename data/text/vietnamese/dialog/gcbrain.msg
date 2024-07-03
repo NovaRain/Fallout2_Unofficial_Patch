@@ -120,7 +120,7 @@
 {372}{}{I'm convinced, alright. Convinced that I've got to get out of this nuthouse.}
 {380}{}{I was just one of many normal rats in an advanced research lab. Then, one day, there were
  explosions. Our cages were broken open, and we were doused with some sort of fluid from a huge vat.}
-{381}{}{Sau đó th? sao?}
+{381}{}{Sau đó thì sao?}
 {390}{}{I crawled outside. As I began to heal, I noticed that I had changed. I tried to communicate with
  people, but they all just tried to kill me. Humans are just too violent to survive under their own
  leadership -- but that's another story. The first step is to repair the reactor.}
@@ -150,7 +150,7 @@
 {460}{}{You have to use the Reactor Data disk on Vault City's Central Computer. You can either sneak
  in and use it or, if you have the Economic Data disk, you can go to McClure.}
 {461}{}{Economic Data disk?}
-{462}{}{?, okay.}
+{462}{}{Ồ, okay.}
 {463}{}{Just bring the Analyzed Reactor Data disk to Festus and he'll input the data to get the
  reactor running efficiently.}
 {464}{}{Well, once you get a Hydroelectric Magnetosphere Regulator from Vault City, bring it back

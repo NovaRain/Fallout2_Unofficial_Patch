@@ -64,13 +64,13 @@
 {162}{}{Damn. Bye.}
 {163}{}{"Total bastard" would be a fine way to describe the old man. Being turned into a ghoul from the radiation didn't do much for his sense of humor or sense of authority, let me tell you. 'Course, it kinda screwed up everyone's brains. I think growing up ghoulie made it a little easier on me.}
 {164}{}{I see. I had other questions.}
-{165}{}{Cám ơn. T?m bi?t.}
+{165}{}{Cám ơn. Tạm biệt.}
 {166}{}{Well? Do you have my Cat's Paw magazine yet?}
 {167}{}{'Es. [Give Cat's Paw to Typhon.]}
 {168}{}{Nuh-uh.}
 {169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
-{171}{}{Không h?.}
+{171}{}{Không hề.}
 {172}{}{Well, hurry it up! I'm an old, old ghoul, and I tell you, I gotta have relaxation! Now go, go, go!}
 {173}{}{[XONG]}
 {174}{}{Kid, that magazine stirred up the ol' juices, and I figure that for the sort of treasure I'm talkin', you can hunt me down a few more things. Go git me a blow-up doll. You can probably find one in New Reno.}

@@ -71,7 +71,7 @@
 {318}{}{Let me show you...}
 {319}{}{Uh oh...}
 {320}{}{I tookie when yoo no lookie.}
-{321}{}{?...}
+{321}{}{Ừ...}
 {325}{}{Square and fair, my lily white ASS! Boy, you gone and done signed yore own death warrant!}
 {326}{}{Square and fair, my lily white ASS! Girlie, you gone and done signed yore own death warrant!}
 {335}{}{What? (Blinks) You talkin' about givin' me my winnings back? All 500 chips?}
@@ -113,7 +113,7 @@
  Stubborn machine! I'm gonna get my chips back anyday now...}
 {407}{}{ go now! By-yye}
 {409}{}{Uh... how long have you been doing this?}
-{410}{}{Không có g?. Xin l?i đ? làm phi?n.}
+{410}{}{Không có gì. Xin lỗi đã làm phiền.}
 {415}{}{}
 {416}{}{}
 {417}{}{Close now to five years... I reckon anyday now this machine's gotta break, and when it DOES...

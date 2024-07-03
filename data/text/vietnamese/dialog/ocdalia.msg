@@ -9,11 +9,11 @@
 {107}{}{Things are fine, but I've got to go.}
 {108}{}{Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help
  you with?}
-{109}{}{Ng? mu?n h?i.}
+{109}{}{Ngộ muốn hỏi.}
 {110}{}{Nothing. Me say hi.}
-{111}{}{Tôi có vài câu h?i.}
+{111}{}{Tôi có vài câu hỏi.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
-{113}{}{Mu?n bi?t g? nào?}
+{113}{}{Muốn biết gì nào?}
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}
@@ -30,10 +30,10 @@
  me to stay for a while.}
 {127}{}{Okay.}
 {128}{}{Chào.}
-{129}{}{Đư?c r?i.}
+{129}{}{Được rồi.}
 {130}{}{I see. Well, I'll be going then.}
 {131}{}{Yeah, I've been told I'm free to go or stay. I'm staying for now.}
-{132}{}{Ng? th?y.}
+{132}{}{Ngộ thấy.}
 {133}{}{Okay then.}
 {134}{}{I don't know any more about them than you do, I guess. I'm still trying to get used to
  them talking to me instead of tearing my head off and using it for a golf ball. It's scary, you know?}

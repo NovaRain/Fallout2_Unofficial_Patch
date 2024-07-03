@@ -2,7 +2,7 @@
 {101}{}{You see Frankie, owner of The Hole.}
 {150}{}{This appears to be the owner of this place.}
 {151}{}{This is Frankie. He owns this joint.}
-{152}{}{[NÓI CHUY?N]}
+{152}{}{[NÓI CHUYỆN]}
 {153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
  a hundred miles! Everyone crawls into The Hole when it's time to let loose.
  Now don't you be causing too much trouble, y'hear?}
@@ -28,12 +28,12 @@
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{No thanks.}
 {175}{}{Anything else?}
-{176}{}{Đúng v?y.}
+{176}{}{Đúng vậy.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
 {180}{}{I'll come back.}
-{181}{}{Mu?n g??}
+{181}{}{Muốn gì?}
 {182}{}{Whiskey.}
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Wahdo a peedee!}
@@ -72,7 +72,7 @@
 {217}{}{What do you mean?}
 {218}{}{Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too.}
 {219}{}{I don't want to do this.}
-{220}{}{Không có g?.}
+{220}{}{Không có gì.}
 {221}{}{Look, I just want her still destroyed. Will you do it?}
 {222}{}{Alright, I will.}
 {223}{}{No, I won't. Good bye.}
@@ -85,7 +85,7 @@
 {230}{}{Then I'm in the wrong place. Bye.}
 {231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
 {232}{}{Wait, that's not what I want!}
-{233}{}{Cám ơn. T?m bi?t.}
+{233}{}{Cám ơn. Tạm biệt.}
 {234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
 {235}{}{Fine! Something else then.}
 {236}{}{Why, you little...}
