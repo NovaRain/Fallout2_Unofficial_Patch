@@ -1,2 +1,2 @@
-{100}{}{The well has not worked in a while. It needs to be repaired.}
-{101}{}{The well is working fine.}
+{100}{}{Cái giếng này đã lâu không dùng được. Cần phải sửa chữa.}
+{101}{}{Cái giếng đã dùng được như thường.}

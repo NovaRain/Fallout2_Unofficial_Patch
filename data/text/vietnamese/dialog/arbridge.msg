@@ -1,2 +1,2 @@
-{100}{}{You are standing at the Great Bridge, passageway from
- your village to the vast Wasteland.}
+{100}{}{Bạn đang đứng trước Cây cầu lớn, lối đi từ làng của bạn
+ra Hoang mạc rộng lớn.}

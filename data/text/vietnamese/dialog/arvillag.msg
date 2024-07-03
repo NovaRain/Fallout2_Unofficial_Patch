@@ -1,1 +1,1 @@
-{100}{}{You are once more in the village of your birth, Arroyo.}
+{100}{}{Một lần nữa bạn lại đứng ở ngôi làng nơi bạn sinh ra, Arroyo.}

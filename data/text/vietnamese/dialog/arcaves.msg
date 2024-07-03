@@ -1,2 +1,2 @@
-{100}{}{You are in a dark, musty temple. The shadows seem to
- play tricks with your eyes, and you can hear the faint sound of movement.}
+{100}{}{Bạn đang ở trong một ngôi đền ẩm mốc và tối tăm. Bóng tối có vẻ
+như đang che mờ mắt bạn, đồng thời bạn nghe thấy tiếng di chuyển rất khẽ.}

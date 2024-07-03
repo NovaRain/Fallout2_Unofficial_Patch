@@ -1,8 +1,8 @@
-{100}{}{You see a squatter.}
-{101}{}{You see Bill, the squatter.}
-{102}{}{You see a middle aged man wearing worn clothing.}
-{103}{}{Sorry, stranger. I don't have time to chat with you.}
-{104}{}{Hey, I said I don't have time to chat. Please go away.}
-{105}{}{Thanks for helping Rebecca. That was a fine thing you did.}
-{106}{}{Leave me alone. I'm no threat to you.}
-{107}{}{All right, all right. I'm moving.}
+{100}{}{Bạn thấy một người ở nhờ.}
+{101}{}{Bạn thấy Bill, người ở nhờ.}
+{102}{}{Bạn thấy một gã trung niên mặc quần áo cũ mèm.}
+{103}{}{Xin lỗi, người lạ. Tôi không có thời gian trò chuyện đâu.}
+{104}{}{Này, tôi đã nói là không có thời gian tán nhảm rồi. Đi chỗ khác đi.}
+{105}{}{Cám ơn đã giúp đỡ Rebeccca. Làm tốt lắm.}
+{106}{}{Để tôi yên. Tôi có làm gì cậu đâu.}
+{107}{}{Rồi, rồi. Tôi đi.}

@@ -1,41 +1,41 @@
-{100}{}{You see a young woman.}
-{101}{}{You see Chrissy, Rebecca's daughter.}
-{102}{}{You see a pretty young woman. She looks confident and able to handle herself in a fight.}
-{103}{}{If you're here to try and rape me, you're going to be wearing your balls as a bow tie. Get it?}
-{104}{}{Let me guess. The guys are tired of me kicking them where it hurts, so they sent you in here to
- do something obscene. Well, I can hurt you just as bad; I just need to kick higher. Get it?}
-{105}{}{Bow tie?}
+{100}{}{Bạn thấy một phụ nữ trẻ.}
+{101}{}{Bạn thẩy Chrissy, con gái Rebecca.}
+{102}{}{Bạn thấy một phụ nữ trẻ đẹp. Cô ta trông rất tự tin và có thể tự lo thân khi chiến đấu.}
+{103}{}{Nếu ông đến đây để cố hiếp tôi thì tốt nhất nên sẵn sàng thắt nơ vào mấy hòn bi của mình đi. Hiểu chứ?}
+{104}{}{Để tôi đoán nhé. Chắc mấy gã đấy chán cảnh bị tôi đạp vào chỗ hiểm rồi nên họ cử cô tới đây
+để làm mấy trò tục tĩu chứ gì. Ồ, tôi có thể làm đau y như thế, chỉ cần đá cao lên thôi. Hiểu chứ?}
+{105}{}{Thắt nơ?}
 {106}{}{}
-{107}{}{What go on here? Who you?}
+{107}{}{Chuyện thế gì? Ai cô?}
 {108}{}{}
-{109}{}{I'd like to know who you are and what is going on here.}
-{110}{}{Yeah. A fancy piece of cloth worn around the neck for decoration. It's like a scarf, but for
- men. Now, just imagine me kicking you SO hard that you end up wearing your dangly about your neck. Get
- it?}
-{111}{}{Me understand. You no hurt me.}
-{112}{}{I got the picture; please don't hurt me.}
-{113}{}{Okay, so why are you here?}
+{109}{}{Tôi muốn biết cô là ai và chuyện gì đang xảy ra ở đây.}
+{110}{}{À, một miếng vải đẹp buộc quanh cổ làm đồ trang sức. Giống như khăn quàng nhưng
+ dành cho đàn ông. Nào, giờ thì cứ tưởng tượng cảnh tôi đạp ông MẠNH đến nỗi bi thọt 
+lên tận cổ. Hiểu chứ?}
+{111}{}{Ngộ hiểu. Cô không đánh ngộ.}
+{112}{}{Tôi hiểu rồi; làm ơn đừng đạp tôi.}
+{113}{}{Được rồi, vậy sao cô lại ở đây?}
 {114}{}{}
-{115}{}{Me want know what go on here? Who you?}
+{115}{}{Ngộ muốn biết chuyện thế gì? Ai cô?}
 {116}{}{}
-{117}{}{I'd like to know who you are and what is going on here.}
-{118}{}{Really? Awesome! Let's go.}
+{117}{}{Tôi muốn biết cô là ai và chuyện gì đang xảy ra ở đây.}
+{118}{}{Thật ư? Tuyệt! Đi thôi.}
 {119}{}{Okay.}
-{120}{}{In a nutshell, my name is Chrissy and I'm from the Squat. I was out exploring last week when I
- found that entrance out there. I thought it might be an abandoned mine or something, so I decided to
- check it out. Well, it's not a mine; it's a secret entrance into Vault 15. The vault is being
- used as a base for a band of raiders called the Khans. They caught me snooping around and their leader, Darion, had me locked up in here.}
-{121}{}{Okay. Me take you home.}
-{122}{}{All right, I'll take you home.}
-{123}{}{Well, I'll be damned. Today must be my lucky day. To what do I owe the pleasure of seeing you
- again?}
+{120}{}{Tóm cái váy lại, tôi tên là Chrissy và tôi là một người Ở mượn. Tuần trước tôi đi mò quanh đây và
+tìm thấy cái cửa hầm. Tôi nghĩ rằng đấy là một khu mỏ bỏ hoang hoặc đại loại thế, nên tôi quyết định vào
+ xem sao. Ồ, không phải mỏ mà là cửa bí mật vào Vault 15. Căn hầm này do một đám cướp gọi là Khan chiếm
+làm căn cứ. Họ túm được tôi đang rình mò và tay thủ lĩnh, Darion, bắt nhốt tôi ở đây.}
+{121}{}{Okay. Ngộ đưa cô nhà.}
+{122}{}{Được rồi, tôi sẽ đưa cô về.}
+{123}{}{Ồ, bất ngờ chưa. Hôm nay hẳn là ngày may mắn của tôi rồi. Làm sao tôi lại có diễm phúc gặp
+lại anh thế?}
 {124}{}{}
-{125}{}{What go on here? Who you?}
+{125}{}{Chuyện thế gì? Ai cô?}
 {126}{}{}
-{127}{}{I'd like to know who you are and what is going on here.}
-{128}{}{Please take me to my mother, Rebecca.}
-{129}{}{My knight in shining armor returns. Well, it would shine if you'd clean it every once in a
- while. Oh, and you might want to consider bathing yourself as well. So, what can I do for you?}
+{127}{}{Tôi muốn biết cô là ai và chuyện gì đang xảy ra ở đây.}
+{128}{}{Làm ơn đưa tôi về với mẹ Rebecca.}
+{129}{}{Chàng hiệp sĩ mặc giáp sáng choang của em quay lại rồi. À mà chắc là nó sẽ sáng bóng nếu
+anh thi thoảng lau qua đấy. Ồ, mà anh cũng nên tắm rửa đi. Vậy tôi giúp gì được đây?}
 {130}{}{Me just say hi. Me go now.}
 {131}{}{Just thought I'd say hello. I'll be going now.}
 {132}{}{Hey, I know I have a smart mouth, but I want you to know that I'm very grateful for you saving

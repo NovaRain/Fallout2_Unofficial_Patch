@@ -1,4 +1,4 @@
-{100}{}{You see a squatter.}
+{100}{}{Bạn thấy một người ở nhờ.}
 {101}{}{You see John, the squatter.}
 {102}{}{You see a middle-aged man wearing worn clothing.}
 {103}{}{Sorry, stranger, I don't have time to chat with you.}
