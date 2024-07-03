@@ -70,7 +70,7 @@
 {361}{}{But...}
 {362}{}{Fine.}
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
-{371}{}{Yes?}
+{371}{}{Vâng?}
 {372}{}{What now?}
 {373}{}{How's it going?}
 {374}{}{Sorry, gotta go.}
