@@ -30,7 +30,7 @@
 {225}{}{I'm really not in the mood. What now?}
 {226}{}{You're back already? I guess you want a drink then?}
 {240}{}{Sure, handsome.}
-{241}{}{What would you like to know?}
+{241}{}{Muốn hỏi gì thế?}
 {242}{}{I'd be happy to.}
 {243}{}{But of course.}
 {244}{}{Được thôi.}

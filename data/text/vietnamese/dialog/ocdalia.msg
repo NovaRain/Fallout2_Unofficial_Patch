@@ -17,7 +17,7 @@
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}
-{117}{}{How you be here?}
+{117}{}{Sao ông ở đây?}
 {118}{}{Why you worry safe?}
 {119}{}{Thanks. Me go.}
 {120}{}{Are you a prisoner here?}

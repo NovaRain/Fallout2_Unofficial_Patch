@@ -25,7 +25,7 @@
 {120}{}{Where vault door?}
 {121}{}{Anything else go on here?}
 {122}{}{Me leave now.}
-{123}{}{Do you work for Darion?}
+{123}{}{Ông có làm việc cho Darion không?}
 {124}{}{What do you intend to do about the raiders?}
 {125}{}{Where is the vault entrance?}
 {126}{}{Is there anything else going on around here?}

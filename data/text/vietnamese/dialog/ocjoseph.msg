@@ -19,22 +19,22 @@
 {117}{}{Why, certainly. Hmmm. This will take a while, so you'll have to stay here overnight. You'll
  need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
  you in the morning.}
-{118}{}{Me feel good. Bye.}
+{118}{}{Ngộ thấy ổn. Tạm biệt.}
 {119}{}{Thanks. That did the trick.}
 {120}{}{I'm sorry, but I'm not a medical doctor and I can't perform surgery. I would suggest that you
  go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
 {121}{}{Okay. Bye.}
-{122}{}{All right. Thanks anyway.}
-{123}{}{What would you like to know?}
+{122}{}{Được rồi. Dù sao cũng cám ơn.}
+{123}{}{Muốn hỏi gì thế?}
 {124}{}{You prisoner?}
-{125}{}{You leave here when want?}
+{125}{}{Ông đi đây nếu muốn?}
 {126}{}{What you know about D'claws?}
-{127}{}{How you be here?}
+{127}{}{Sao ông ở đây?}
 {128}{}{Ngộ đi giờ.}
 {129}{}{Are you a prisoner here?}
-{130}{}{Can you leave here if you want?}
+{130}{}{Ông có thể rời khỏi chỗ này nếu muốn không?}
 {131}{}{What can you tell me about the deathclaws?}
-{132}{}{How did you come to be here in the first place?}
+{132}{}{Sao ông lại đến chỗ này vậy?}
 {133}{}{Thanks for the information. I'll be heading out now.}
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are deathclaws.}

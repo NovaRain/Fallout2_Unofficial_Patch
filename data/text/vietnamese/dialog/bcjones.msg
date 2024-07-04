@@ -18,24 +18,24 @@ băng này, rồi xong, cậu ổn rồi.}
 {116}{}{Cám ơn, Bác sĩ. Tôi thấy khá hơn nhiều rồi.}
 {117}{}{Ồ, dĩ nhiên rồi. Đây, cậu sẽ cần uống thứ này -- tất cả chứ, tôi biết vị hơi tởm. Rồi, giờ
 thì nằm lên chiếc giường đằng kia, sáng mai tôi sẽ đánh thức cậu.}
-{118}{}{Me feel good. Bye.}
-{119}{}{Thanks Doc, that did the trick.}
-{120}{}{I'm sorry, but I don't have the proper facilities to perform surgery. I'd suggest you go to one
- of the bigger cities and see a surgeon. Try Vault City. It's north of here.}
-{121}{}{Okay. Bye}
-{122}{}{All right. Thanks anyway.}
-{123}{}{What would you like to know?}
-{124}{}{You work Darion?}
-{125}{}{You leave here when want?}
-{126}{}{What you know about Darion?}
-{127}{}{How you be here?}
-{128}{}{You say Darion got doggie?}
+{118}{}{Ngộ thấy ổn. Tạm biệt.}
+{119}{}{Cám ơn Bác sĩ, chữa tài thật đấy.}
+{120}{}{Tôi rất tiếc nhưng tôi không có đủ thiết bị cần thiết để tiến hành phẫu thuật. Tôi khuyên cậu nên
+đi tới một thành phố lớn và gặp bác sĩ phẫu thuật. Thử Thành phố Vault xem. Đi về phía Bắc chỗ này.}
+{121}{}{Okay. Tạm biệt.}
+{122}{}{Được rồi. Dù sao cũng cám ơn.}
+{123}{}{Muốn hỏi gì thế?}
+{124}{}{Ông làm Darion?}
+{125}{}{Ông đi đây nếu muốn?}
+{126}{}{Ông biết gì về Darion?}
+{127}{}{Sao ông ở đây?}
+{128}{}{Ông bảo Darion có chóa?}
 {129}{}{Ngộ đi giờ.}
-{130}{}{Do you work for Darion?}
-{131}{}{Can you leave here if you want?}
-{132}{}{What can you tell me about Darion?}
-{133}{}{How did you come to be here in the first place?}
-{134}{}{You mentioned Darion has a dog?}
+{130}{}{Ông có làm việc cho Darion không?}
+{131}{}{Ông có thể rời khỏi chỗ này nếu muốn không?}
+{132}{}{Ông có thể nói về Darion được không?}
+{133}{}{Sao ông lại đến chỗ này vậy?}
+{134}{}{Ông nói rằng Darion có một con chó à?}
 {135}{}{Thanks for the information. I'll be heading out now.}
 {136}{}{Well, yes and no. It's not by choice. I'm a prisoner here. Darion is getting up there in years
  and he needs a dedicated physician to look after him. The Khans keep me here for his needs. I'd rather

@@ -14,7 +14,7 @@
 {111}{}{Ah. Ok. Me ask questions?}
 {112}{}{Okay. Bye.}
 {113}{}{Certainly you may.}
-{114}{}{What would you like to know?}
+{114}{}{Muốn hỏi gì thế?}
 {115}{}{Who shrine for?}
 {116}{}{How long you here?}
 {117}{}{D'claws bad?}

@@ -31,7 +31,7 @@
 {179}{}{Or what?}
 {180}{}{Alright. But I'll be back!}
 {181}{}{OK. Bye.}
-{182}{}{What would you like to know?}
+{182}{}{Muốn hỏi gì thế?}
 {183}{}{About Trader Vic...}
 {184}{}{Can I join the Slaver's Guild?}
 {185}{}{I'd like to sell my husband into slavery.}
