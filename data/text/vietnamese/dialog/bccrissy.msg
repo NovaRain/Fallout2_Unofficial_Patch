@@ -40,13 +40,12 @@ anh thi thoảng lau qua đấy. Ồ, mà anh cũng nên tắm rửa đi. Vậy 
 {131}{}{Chỉ ghé qua chào một câu thôi. Tôi đi bây giờ đây.}
 {132}{}{Này, tôi biết mình hơi mau miệng, nhưng tôi muốn anh biết là tôi rất biết ơn vì anh đã cứu
 mạng đấy. Cám ơn nhiều!}
-{133}{}{You welcome.}
-{134}{}{You're welcome.}
-{135}{}{The people of the Squat are protecting these guys by helping them keep the vault a secret, but they
- don't know what's really going on here. Darion told us that the vault was being repaired so we could have
- a safe place to live with lots of food and water, but it's all a lie. I've been in there and looked
- around. The vault is dead, and the food and water machines don't work. Our food and water's been coming
- from the spoils
- of raids against caravans.}
-{136}{}{Look, I've got to go home and warn everyone about what's really going on here. We can't help these
- monsters. Will you take me home?}
+{133}{}{Không gì.}
+{134}{}{Không có gì.}
+{135}{}{Những người Ở mượn đang bảo vệ mấy gã đó bằng cách giúp chúng giữ bí mật về căn hầm, nhưng họ
+không hề biết chuyện gì đang diễn ra. Darion nói với chúng tôi là căn hầm đang được sửa chữa để chúng tôi
+có chỗ sống an toàn với nước và thực phẩm, nhưng chỉ là dối trá thôi. Tôi đã vào đó và xem xung quanh.
+Căn hầm đã chết, mấy cái máy lọc nước và làm đồ ăn không hoạt động. Lương thực và nước uống của
+chúng tôi toàn là đồ thừa của lũ cướp tấn công các đoàn lữ hành.}
+{136}{}{Này, tôi phải về nhà và cảnh báo mọi người về sự thật đang diễn ra ở đây. Chúng tôi không thể giúp đỡ
+lũ quái vật này. Anh sẽ đưa tôi về nhé?}

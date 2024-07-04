@@ -63,7 +63,7 @@
 {138}{}{No, but I'll think about it.}
 {139}{}{No, I don't think so.}
 {140}{}{Very well... I will wait here until you come to a decision.}
-{141}{}{Done.}
+{141}{}{Đã xong.}
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
 {143}{}{Chào.}
@@ -99,7 +99,7 @@
 {173}{}{Yeah, I've got it. I'll open the door for you.}
 {174}{}{Tôi vẫn đang tìm.}
 {175}{}{Thank you. I will not forget this.}
-{176}{}{You welcome.}
+{176}{}{Không gì.}
 {177}{}{You are welcome.}
 {178}{}{Thank you again, my friend. I owe you a debt that can not be repaid.}
 {179}{}{Greetings, human. The base is on full alert. Are you by any chance the cause?}

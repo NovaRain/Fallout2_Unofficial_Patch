@@ -106,7 +106,7 @@
 {392}{}{ wanna play machine}
 {393}{}{Wander off}
 {394}{}{Ông là ai?}
-{395}{}{What are you doing?}
+{395}{}{Đang làm gì thế?}
 {396}{}{Mind if I give it a pull?}
 {397}{}{Nothing. Sorry to bother you.}
 {405}{}{(A series of symbols roll by on the slot machine, and there is a *bzzzzt*) Dammmit!

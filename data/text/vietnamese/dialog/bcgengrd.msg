@@ -1,46 +1,46 @@
-{100}{}{You see a Khan raider.}
-{101}{}{You see a Khan raider.}
-{102}{}{You see a tough looking person with armor, weapons, and a bad attitude. It must be a Khan.}
-{103}{}{What the... I don't think I know you. Who the hell are you?}
-{104}{}{I got my ID right here! Let me show ya.}
-{105}{}{The name's... umm... Pat, and I'm new here.}
-{106}{}{All right, wise-ass. Take your best shot.}
-{107}{}{Oh yeah. Sorry. Didn't recognize you at first. Go on about your business.}
-{108}{}{Hey, I'm not as stupid as you look.}
-{109}{}{You're not dead yet? Shit.}
-{110}{}{Man, Darion doesn't pay me enough to stand around here and do nothing.}
-{111}{}{Sometimes I sit and think about absolutely nothing.}
-{112}{}{I generally don't care what anyone else thinks.}
-{113}{}{Ignorance is bliss... I think.}
-{114}{}{When's the next caravan passing through? I could use some action.}
-{115}{}{I could use a break.}
-{116}{}{Damn, I still hurt from that bitch Chrissy kicking me.}
-{117}{}{Hey, we never get any new blood around here.}
-{118}{}{So when are we going to get out of this stupid place?}
-{119}{}{I don't know about you, but I think this sucks.}
-{120}{}{There ain't nothin' to kill around here.}
-{121}{}{Where's the damn bathroom?}
-{122}{}{Hey, we never get a break around here. Isn't there some law or something?}
-{123}{}{We should start up a government like in the old days.}
-{124}{}{Man, I wonder what it was like to be President back then?}
-{125}{}{I bet you could do anything you wanted if you were President.}
-{126}{}{I think my father would be proud of me today. Too bad I killed him.}
-{127}{}{I HATE RATS! HATE HATE HATE!}
-{128}{}{Hey, is that new armor you have on? How do you rate getting new armor?}
-{129}{}{This damn vault smells. Don't you hate it?}
-{130}{}{Hey, who is it we're supposed to be keeping an eye open for?}
-{131}{}{All I do is stand, stand, stand.}
-{132}{}{I think we should just waste everyone upstairs and say to hell with this place.}
-{133}{}{What the hell is your problem with rats?}
-{134}{}{Have you ever pulled one of the legs off of a rat?}
-{135}{}{I like guns, yeah! GUNS I LIKE! GUNS: I REALLY, REALLY LIKE THEM!}
-{136}{}{Hey, is anyone listening to me?}
-{137}{}{Oh well, I just talk to keep myself sane anyway.}
-{138}{}{Hey, anyone remember what was in a Long Island Ice Tea?}
-{139}{}{Yeah, vodka, rum, tequila, triple sec, lime, and Nuka.}
-{140}{}{Hey, look -- the lights came on. What the...}
-{141}{}{Darion said he'd get the damn lights fixed. I guess he came through.}
-{142}{}{I don't think the generator just fixes itself, does it?}
-{143}{}{That was kind of weird; now I can see. Jesus, this place looks like shit!}
-{144}{}{Wow, it's bright in here. Where's the dimmer control?}
-{145}{}{Die!}
+{100}{}{Bạn thấy một kẻ cướp Khan.}
+{101}{}{Bạn thấy một kẻ cướp Khan.}
+{102}{}{Bạn thấy một người to lớn mặc giáp, đeo vũ khí và rất thái độ. Hẳn phải là một Khan.}
+{103}{}{Cái gì... Tao đâu có quen mày. Mày là đứa đéo nào thế?}
+{104}{}{Tao có ID đây này! Để tao cho xem.}
+{105}{}{Tên là... ờ... Pat. Nhân viên mới.}
+{106}{}{Được rồi, đồ lươn lẹo. Cố lên nào.}
+{107}{}{Ồ đúng rồi. Xin lỗi. Tự nhiên quên mất mày. Giờ thì tiếp tục đi lo việc đi.}
+{108}{}{Này, tao đâu có ngu như mày chứ.}
+{109}{}{Mày vẫn chưa chết à? Cứt thật.}
+{110}{}{Mẹ kiếp, Darion trả công có tí tẹo đéo bõ công đứng đây cả ngày ngáp ruồi.}
+{111}{}{Đôi khi tao đứng và nghĩ về đm nó đéo gì cả.}
+{112}{}{Tao đéo quan tâm đm nó nghĩ gì.}
+{113}{}{Đéo biết là vui nhất... chắc thế.}
+{114}{}{Khi nào thì lại có đoàn lữ hành đây? Tao ngứa tay lắm rồi.}
+{115}{}{Muốn nghỉ thế nhỉ.}
+{116}{}{Bà nó chứ, chỗ con đĩ Chrissy đấy đạp vào giờ vẫn còn đau.}
+{117}{}{Này, chỗ này chẳng có ma mới bao giờ nhỉ.}
+{118}{}{Vậy là bao giờ thì chúng ta mới cút khỏi cái chỗ củ lìn này thế?}
+{119}{}{Không biết mày nghĩ sao, nhưng tao thấy như cứt.}
+{120}{}{Chẳng có cục cứt nào để bắn ở đây cả.}
+{121}{}{Cái phòng rửa cặc đâu rồi?}
+{122}{}{Này, chỗ này đéo thấy ai nghỉ ngơi gì. Đéo có luật lệ gì cả à?}
+{123}{}{Nên lập lại trật tự như hồi xưa thôi.}
+{124}{}{Mẹ nó, không biết ngày xưa Tổng thống làm cái chó gì nhỉ?}
+{125}{}{Tao chắc là làm Tổng thống thì muốn cái đéo gì cũng có.}
+{126}{}{Tao nghĩ là ông già tao sẽ tự hào về tao lắm. Tiếc là tao giết ổng rồi.}
+{127}{}{ĐM TAO GHÉT CHUỘT! GHÉT VL VCL!}
+{128}{}{Này, giáp mới à? Mày đánh giá bộ giáp mới ra sao?}
+{129}{}{Đm cái hầm hôi vl. Mày có thấy ghét cái mùi này không?}
+{130}{}{Ê, chúng ta phải để mắt đến thằng lìn nào ấy nhỉ?}
+{131}{}{Tất cả những gì tao làm là đứng, đứng và đứng.}
+{132}{}{Tao nghĩ chúng ta nên thịt toàn bộ lũ tầng trên và cút mẹ nó khỏi cái chỗ này thôi.}
+{133}{}{Chuột cắn chim mày à mà kêu lắm thế?}
+{134}{}{Mày có từng thử xé chân ra khỏi con chuột bao giờ chưa?}
+{135}{}{Tao thích súng, yeah! SÚNG TAO THÍCH! SÚNG: TAO CỰC, CỰC KÌ THÍCH!}
+{136}{}{Này, có ai đang nghe bố mày nói không thế?}
+{137}{}{Ồ thôi kệ, nói cho khỏi khô mồm thôi.}
+{138}{}{Này, có ai nhớ trong Trà đá Long Island có cái lìn gì không?}
+{139}{}{Ờ, vodka, rum, tequila, triple sec, chanh và Nuka.}
+{140}{}{Ê nhìn này -- đèn sáng rồi. Cái đm...}
+{141}{}{Darion có nói là sẽ sửa đèn. Cứ tưởng đùa hóa ra thật.}
+{142}{}{Chắc là cái máy phát điện không tự sửa đâu nhỉ?}
+{143}{}{Tự nhiên thấy mọi thứ cứ thế đéo nào ý. Jesus, chỗ này trông như cứt!}
+{144}{}{Ồ, sáng vãi. Điều khiển cho tối đi chỗ nào ấy nhỉ?}
+{145}{}{Chết đi!}

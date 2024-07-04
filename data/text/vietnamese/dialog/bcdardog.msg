@@ -1,4 +1,4 @@
-{100}{}{You see a dog.}
-{101}{}{You see Darion's dog.}
-{102}{}{You see an animal with a lot of fur and four legs. If a dog could grin evilly, you would swear
- this one is doing it.}
+{100}{}{Bạn thấy con chó.}
+{101}{}{Bạn thấy con chó của Darion.}
+{102}{}{Bạn thấy một sinh vật đầy lông có bốn chân. Nếu một con chó có thể cười ác độc thì bạn thề là
+con này đang làm đúng như vậy.}

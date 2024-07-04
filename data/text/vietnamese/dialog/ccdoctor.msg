@@ -135,6 +135,6 @@
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}
 {200}{}{[THÊM]}
-{201}{}{I wanted to ask you some questions.}
+{201}{}{Tôi muốn hỏi một vài câu.}
 {202}{}{Not right now. Sorry to bother you.}
 {800}{}{You killed Doctor Schreber.}

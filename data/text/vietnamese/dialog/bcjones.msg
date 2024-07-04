@@ -1,23 +1,23 @@
-{100}{}{You see a short man carrying a book in his hands.}
-{101}{}{You see Doc Jones, the doctor.}
-{102}{}{You see a short man with a book called "So, You Want to be a Doctor."}
-{103}{}{Hello, I'm Doc Jones. You can call me Doc. What can I help you with?}
-{104}{}{Got owie. You fix?}
-{105}{}{Feel icky. You fix?}
-{106}{}{Me gimp, you fix?}
-{107}{}{Got questions. Okay?}
-{108}{}{Sorry, me go.}
-{109}{}{I'm injured. Can you help me?}
-{110}{}{I feel ill. Can you help me?}
-{111}{}{I'm crippled. Can you help me?}
-{112}{}{I wanted to ask you some questions.}
-{113}{}{Just saying hello.}
-{114}{}{Why, certainly. Here, we'll give you a shot of this -- this'll sting a bit -- now a bandage,
- and there, you're all set.}
-{115}{}{Me thank. Bye.}
-{116}{}{Thanks, Doc. I feel much better.}
-{117}{}{Why, certainly. Here, you'll need to drink this -- all of it, I know it tastes foul. Now, just
- lie down on the bed over there, and I'll wake you in the morning.}
+{100}{}{Bạn thấy một người đàn ông lùn đang cầm sách trong tay.}
+{101}{}{Bạn thấy Bác sĩ Jones, thầy thuốc.}
+{102}{}{Bạn thấy một người đàn ông lùn với quyển sách có tên "Vậy là bạn muốn làm Bác sĩ".}
+{103}{}{Chào, tôi là Bác sĩ Jones. Hãy gọi tôi là bác sĩ. Tôi giúp gì được nhỉ?}
+{104}{}{Bị đao. Sửa không?}
+{105}{}{Bị ngứa. Sửa không?}
+{106}{}{Ngộ què, sửa không?}
+{107}{}{Muốn hỏi. Okay?}
+{108}{}{Xin lỗi, ngộ đi.}
+{109}{}{Tôi bị thương. Ông giúp tôi được không?}
+{110}{}{Tôi thấy bị bệnh. Ông giúp tôi được không?}
+{111}{}{Tôi bị gãy tay chân. Ông giúp tôi được không?}
+{112}{}{Tôi muốn hỏi một vài câu.}
+{113}{}{Chỉ chào thôi.}
+{114}{}{Ồ, dĩ nhiên rồi. Đây, tôi sẽ tiêm cho cậu mũi này -- sẽ hơi xót một xíu -- giờ thì dán cái
+băng này, rồi xong, cậu ổn rồi.}
+{115}{}{Ngộ cám ơn. Tạm biệt.}
+{116}{}{Cám ơn, Bác sĩ. Tôi thấy khá hơn nhiều rồi.}
+{117}{}{Ồ, dĩ nhiên rồi. Đây, cậu sẽ cần uống thứ này -- tất cả chứ, tôi biết vị hơi tởm. Rồi, giờ
+thì nằm lên chiếc giường đằng kia, sáng mai tôi sẽ đánh thức cậu.}
 {118}{}{Me feel good. Bye.}
 {119}{}{Thanks Doc, that did the trick.}
 {120}{}{I'm sorry, but I don't have the proper facilities to perform surgery. I'd suggest you go to one
@@ -78,7 +78,7 @@
 {164}{}{Ah. Well, I've got to go.}
 {165}{}{I'll not help someone like you. Go away.}
 {166}{}{Okay, well, you take care, and come back if you need anything.}
-{167}{}{Done.}
+{167}{}{Đã xong.}
 {168}{}{Now he's paranoid. He believes that Tandi is out to get him. He's obsessed with revenge, and he
  wants Tandi dead. He's riddled with guilt 'cause he hid and lived, rather than dying with his
  gang... and the list goes on and on.}

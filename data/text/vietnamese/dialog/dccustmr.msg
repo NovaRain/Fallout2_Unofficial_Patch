@@ -12,7 +12,7 @@
 {201}{}{Leave me alone!}
 {202}{}{Don't touch me!}
 {203}{}{Stop it!}
-{204}{}{What are you doing?}
+{204}{}{Đang làm gì thế?}
 {300}{}{Sorry, can't talk now.}
 {301}{}{Where was I going again?}
 {302}{}{Chào.}

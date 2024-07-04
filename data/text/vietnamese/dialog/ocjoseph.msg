@@ -1,21 +1,21 @@
-{100}{}{You see a short man carrying a book in his hands.}
+{100}{}{Bạn thấy một người đàn ông lùn đang cầm sách trong tay.}
 {101}{}{You see Joseph, the herbalist.}
 {102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
 {103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
-{104}{}{Got owie. You fix?}
-{105}{}{Feel icky. You fix?}
-{106}{}{Me gimp, you fix?}
-{107}{}{Got questions. Okay?}
-{108}{}{Sorry, me go.}
-{109}{}{I'm injured. Can you help me?}
-{110}{}{I feel ill. Can you help me?}
-{111}{}{I'm crippled. Can you help me?}
-{112}{}{I wanted to ask you some questions.}
-{113}{}{Just saying hello.}
+{104}{}{Bị đao. Sửa không?}
+{105}{}{Bị ngứa. Sửa không?}
+{106}{}{Ngộ què, sửa không?}
+{107}{}{Muốn hỏi. Okay?}
+{108}{}{Xin lỗi, ngộ đi.}
+{109}{}{Tôi bị thương. Ông giúp tôi được không?}
+{110}{}{Tôi thấy bị bệnh. Ông giúp tôi được không?}
+{111}{}{Tôi bị gãy tay chân. Ông giúp tôi được không?}
+{112}{}{Tôi muốn hỏi một vài câu.}
+{113}{}{Chỉ chào thôi.}
 {114}{}{Why, certainly. Hmmm. You'll need to take some of this. I'll apply this balm to the wound.
  Now just lie back and rest for a couple of hours.}
-{115}{}{Me thank. Bye.}
-{116}{}{Thanks, Doc. I feel much better.}
+{115}{}{Ngộ cám ơn. Tạm biệt.}
+{116}{}{Cám ơn, Bác sĩ. Tôi thấy khá hơn nhiều rồi.}
 {117}{}{Why, certainly. Hmmm. This will take a while, so you'll have to stay here overnight. You'll
  need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
  you in the morning.}

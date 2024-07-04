@@ -3,7 +3,7 @@
 {102}{}{You see a man in armor wearing a chef's hat and an apron.}
 {103}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
 {104}{}{Me want food.}
-{105}{}{Me want talk.}
+{105}{}{Ngộ muốn chuyện.}
 {106}{}{I could use something to eat.}
 {107}{}{Let's chat a while.}
 {108}{}{Well, here ya go. Have some shit on a shingle. The snow and fly shit's over there. Anything else?}

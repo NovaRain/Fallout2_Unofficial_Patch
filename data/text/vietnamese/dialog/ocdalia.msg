@@ -1,5 +1,5 @@
 {100}{}{You see a young woman in metal armor.}
-{101}{}{You see Dalia.}
+{101}{}{Bạn thấy Dalia.}
 {102}{}{You see a pretty young woman dressed in metal armor. She watches her surroundings very
  carefully.}
 {103}{}{Well, I'll be. How are you doing,}
@@ -55,9 +55,9 @@
 {143}{}{You safe now. Dalia no worry.}
 {144}{}{You're safe now, Dalia. You'll have no need to worry about any retribution.}
 {145}{}{Thanks,}
-{146}{}{You welcome.}
+{146}{}{Không gì.}
 {147}{}{Chào.}
-{148}{}{You're welcome.}
+{148}{}{Không có gì.}
 {149}{}{I'll see ya.}
 {150}{}{Chào.}
 {151}{}{Hello again. How's it going?}

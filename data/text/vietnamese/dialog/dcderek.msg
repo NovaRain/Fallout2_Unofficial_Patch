@@ -58,6 +58,6 @@
 {311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
 {312}{}{Hey! Sto- do... fuck.}
 {313}{}{Chào.}
-{314}{}{Nothing.}
+{314}{}{Không có gì.}
 {320}{}{Hey! Get away from me!}
 {321}{}{Don't touch me!}

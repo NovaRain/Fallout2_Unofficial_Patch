@@ -17,7 +17,7 @@
 {116}{}{Good.}
 {117}{}{It's a pleasure to meet you,}
 {118}{}{What would you like to know?}
-{119}{}{What you do here?}
+{119}{}{Cô làm gì ở đây?}
 {120}{}{What all this machine?}
 {121}{}{Vault have overseer. This overseer room?}
 {122}{}{You here in vault cause you want be?}

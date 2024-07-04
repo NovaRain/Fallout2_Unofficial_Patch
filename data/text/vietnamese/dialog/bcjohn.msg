@@ -1,16 +1,16 @@
 {100}{}{Bạn thấy một người ở nhờ.}
-{101}{}{You see John, the squatter.}
-{102}{}{You see a middle-aged man wearing worn clothing.}
-{103}{}{Sorry, stranger, I don't have time to chat with you.}
-{104}{}{Why no talk?}
-{105}{}{Okay, wavy.}
-{106}{}{All right, see ya.}
-{107}{}{Wait a minute. Why won't you talk to me?}
-{108}{}{We're a very private community here, and we don't want any trouble or interference from outside
- sources. Please just leave us be.}
+{101}{}{Bạn thấy John, người ở mượn.}
+{102}{}{Bạn thấy một người đàn ông trung niên mặc quần áo cũ.}
+{103}{}{Xin lỗi, người lạ, tôi không có thời gian để nói chuyện.}
+{104}{}{Sao không nói?}
+{105}{}{Okay, lượn.}
+{106}{}{Được rồi, gặp lại sau.}
+{107}{}{Chờ đã. Sao ông không nói chuyện với tôi?}
+{108}{}{Chúng tôi là một cộng đồng khép kín ở đây và không muốn gặp rắc rối hoặc bị người từ bên ngoài
+làm phiền. Vui lòng để chúng tôi yên.}
 {109}{}{Okay.}
-{110}{}{Hello... and good bye.}
-{111}{}{Thank you for all that you've done. I apologize for the cold shoulder earlier.}
-{112}{}{Screw you, asshole!}
-{113}{}{Damn, I hate it when that happens.}
-{114}{}{Take that! Yeah, that'll show ya.}
+{110}{}{Chào... và tạm biệt.}
+{111}{}{Cám ơn vì tất cả những gì cậu đã làm. Tôi xin lỗi vì đã phớt lờ trước đó.}
+{112}{}{Biến đi, đồ chó!}
+{113}{}{Mẹ nó, ghét mấy chuyện này thế không biết.}
+{114}{}{Đỡ này! Đấy, thấy chưa.}

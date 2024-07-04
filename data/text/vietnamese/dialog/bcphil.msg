@@ -1,4 +1,4 @@
-{100}{}{You see a Khan raider.}
+{100}{}{Bạn thấy một kẻ cướp Khan.}
 {101}{}{You see Phil, a Khan guard.}
 {102}{}{You see a tough-looking young man in metal armor. He is heavily armed.}
 {103}{}{I should shoot you dead, but I'm kind of curious about what you could possibly have to say to

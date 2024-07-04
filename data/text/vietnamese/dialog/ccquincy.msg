@@ -4,7 +4,7 @@
  he is more of a mechanic than a soldier.}
 {103}{}{Name's Quincy, soldier. Why are you tapping my shoulder and looking lost?}
 {104}{}{Me need ask you something.}
-{105}{}{Nothing.}
+{105}{}{Không có gì.}
 {106}{}{Hi. I need to ask you something.}
 {107}{}{Không có gì.}
 {108}{}{All right, but make it quick. I have inventory to do.}

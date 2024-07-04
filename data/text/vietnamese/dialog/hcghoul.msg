@@ -83,5 +83,5 @@
 {180}{}{Don't hurt me.}
 {181}{}{Để tôi yên.}
 {182}{}{No! No! No!}
-{183}{}{I'll be going now.}
+{183}{}{Tôi đi giờ đây.}
 {184}{}{Leave our town!}

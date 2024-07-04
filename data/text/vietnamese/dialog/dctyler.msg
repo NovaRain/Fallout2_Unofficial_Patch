@@ -103,7 +103,7 @@
 {440}{}{Hey, what's up? Almost time for that party.}
 {441}{}{What's up?}
 {442}{}{I have some information you might be interested in.}
-{443}{}{Nothing.}
+{443}{}{Không có gì.}
 {444}{}{Uhg.}
 {445}{}{Urseco?}
 {450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
