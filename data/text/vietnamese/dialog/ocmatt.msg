@@ -57,6 +57,6 @@
 {150}{}{Ngộ đi giờ.}
 {151}{}{Me think me shoot you now.}
 {152}{}{Good job.}
-{153}{}{I see. I'll be going now.}
+{153}{}{Hiểu rồi. Tôi sẽ đi giờ đây.}
 {154}{}{I think I'll shoot you now. You are obviously dangerous.}
 {155}{}{Good job!}

@@ -219,7 +219,7 @@
 {623}{}{Agra Moo ne!}
 {630}{}{Oh, you want money? You want to be paid?}
 {631}{}{Yah.}
-{632}{}{Ugh.}
+{632}{}{Ờ.}
 {640}{}{Of course I'd LOVE to help you out but... there's this slight problem I have... something about attacking one of my men.}
 {641}{}{Sorry! I didn't mean to- I mean... Ug?}
 {642}{}{Uh, oh.}

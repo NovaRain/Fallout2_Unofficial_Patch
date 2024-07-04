@@ -1,8 +1,8 @@
 {100}{}{Bạn thấy một kẻ cướp Khan.}
-{101}{}{You see Karla, a Khan.}
-{102}{}{You see a tough-looking woman in metal armor. She would be pretty, if it were not for the scars
- that line her face.}
-{103}{}{Talk to Phil, shit head.}
-{104}{}{Talk to Phil, bitch.}
+{101}{}{Bạn thấy Karla, một Khan.}
+{102}{}{Bạn thấy một phụ nữ khó nhằn trong bộ giáp thép. Cô ta có thể sẽ đẹp đấy, nếu không phải vì
+vết sẹo chạy dài trên mặt.}
+{103}{}{Nói chuyện với Phil ấy, đồ đầu bòi.}
+{104}{}{Nói chuyện với Phil ấy, con đũy.}
 {105}{}{Ok.}
-{106}{}{That little bitch is dead.}
+{106}{}{Con đũy bé nhỏ đấy chết rồi.}

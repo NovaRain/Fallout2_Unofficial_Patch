@@ -1,63 +1,62 @@
 {100}{}{Bạn thấy một kẻ cướp Khan.}
-{101}{}{You see Phil, a Khan guard.}
-{102}{}{You see a tough-looking young man in metal armor. He is heavily armed.}
-{103}{}{I should shoot you dead, but I'm kind of curious about what you could possibly have to say to
- me.}
-{104}{}{Me look for spy. Go this way.}
-{105}{}{Me look for missing girl. You know where find?}
-{106}{}{Me come here accident. Go now.}
-{107}{}{Screw you. Me shoot you dead.}
-{108}{}{Uh, we talk this out?}
-{109}{}{I'm looking for an eavesdropper who came this way.}
-{110}{}{I'm looking for a missing girl. Seen her?}
-{111}{}{Sorry, took the wrong trail by accident. Gotta go.}
-{112}{}{Up yours and have a bullet breakfast, asshole.}
-{113}{}{I think we can talk this out like two civilized beings.}
-{114}{}{Ah, that would be me. Now that you've found me, what's next?}
-{115}{}{Why you spy Rebecca?}
-{116}{}{Now me know not be shooting wrong person. Thanks!}
-{117}{}{Nothing, me go now.}
-{118}{}{Why are you spying on Rebecca?}
-{119}{}{Just wanted to make sure I'm shooting the right person. Thanks, and have a nice day!}
-{120}{}{Hmm. Nothing, I guess I'll be going now.}
-{121}{}{I can't believe that you think you can just waltz in here and get answers to your questions!
- Oh, what the hell, you're about to die anyway and I feel generous. We've got her kid locked in the
- back room and have been having some fun with her. That bitch, Rebecca, has been trying to find her, so
- we've been keeping an eye open to make sure she doesn't get too close.}
-{122}{}{You sicky in head. Me fix by remove head.}
-{123}{}{What you mean have fun with girl?}
-{124}{}{Oh, that explain. Me leave now.}
-{125}{}{You are one sick puppy. I think I'll put you to sleep now.}
-{126}{}{Fine, have fun and I'll be going now.}
-{127}{}{Hand over the girl and we can all leave here alive.}
-{128}{}{Think about it as you die, stupid.}
+{101}{}{Bạn thấy Phil, một lính gác Khan.}
+{102}{}{Bạn thấy một gã trai khó nhằn mặc bộ giáp thép. Hắn ta có vũ trang đầy đủ.}
+{103}{}{Tao có thể bắn mày chết luôn, nhưng tao tự hỏi là mày có thể mở mồm phun ra câu gì.}
+{104}{}{Ngộ tìm gián điệp. Đi lối này.}
+{105}{}{Ngộ tìm cô gái mất tích. Biết đâu đi tìm?}
+{106}{}{Ngộ đến đây lạc. Đi giờ.}
+{107}{}{Mẹ mày. Ngộ bắn mày chết.}
+{108}{}{Ờ, chúng ta có thể nói chuyện được không?}
+{109}{}{Tôi đang tìm người nghe lén nào đã đi lối này.}
+{110}{}{Tôi đang đi tìm một cô gái bị mất tích. Có thấy cô ta không?}
+{111}{}{Xin lỗi, đi nhầm đường xíu. Tôi đi đây.}
+{112}{}{Chổng đít lên để tao nhồi đạn vào mông nào, củ lìn.}
+{113}{}{Tôi thấy là chúng ta có thể nói chuyện như hai người văn minh đấy.}
+{114}{}{À, là bố mày đấy. Giờ tìm thấy rồi thì sao?}
+{115}{}{Sao cậu nghe Rebecca?}
+{116}{}{Giờ ngộ biết không bắn nhầm người. Cám ơn!}
+{117}{}{Không có gì, ngộ đi giờ.}
+{118}{}{Sao cậu lại đi nghe lén Rebecca?}
+{119}{}{Chỉ muốn chắc chắn là tôi bắn đúng người thôi. Cám ơn, chúc một ngày tốt lành!}
+{120}{}{Hừm. Không có gì, chắc là tôi sẽ đi giờ đây.}
+{121}{}{Tao đéo thể tin là mày nghĩ mày có thể chui vào đây để được trả lời câu hỏi đâu đấy! Ồ, đm,
+đằng nào thì mày cũng sắp tỏi còn tao đang thấy hài hước. Bọn tao nhốt con bé của mụ ta ở phòng
+trong và thi thoảng vào vui vẻ với con bé. Con mụ Rebecca đó đang cố tìm con bé, nên chúng ta
+để mắt đến mụ ta để đảm bảo là mụ ta không vào được chỗ này.}
+{122}{}{Cậu có vấn đề đầu. Ngộ sửa bằng cách cắt đầu.}
+{123}{}{Vui vẻ với cô gái là gì?}
+{124}{}{Ồ, vậy à. Ngộ đi giờ.}
+{125}{}{Cậu đúng là đồ cún bệnh hoạn. Chắc là tôi sẽ cho cậu ngủ với giun ngay bây giờ.}
+{126}{}{Được rồi, cứ cười đi còn tôi sẽ đi giờ đây.}
+{127}{}{Hãy đưa cô gái ra đây và tất cả chúng ta đều còn sống mà rời khỏi đây.}
+{128}{}{Cứ nghĩ về việc đó trong lúc chết đi, đồ đần.}
 {129}{}{}
 {130}{}{}
-{131}{}{Why in the hell should I do that?}
-{132}{}{It's good for your eternal soul.}
-{133}{}{Because I'm the worst thing that you could ever fear happening to you. Hand her over or feel
- the pain.}
-{134}{}{Because if we fight, one of us will die. I don't want to die any more than you do, so let's end
- this peacefully. Okay?}
-{135}{}{Screw that noise.}
+{131}{}{Tại sao bố mày lại phải làm vậy?}
+{132}{}{Điều đó tốt cho linh hồn vĩnh hằng của cậu.}
+{133}{}{Vì tôi có thể mang điều mà cậu sợ nhất đến đấy. Giờ thì thả cô gái ra hoặc đón nhận sự
+đau đớn đi.}
+{134}{}{Bởi vì nếu chúng ta đánh nhau thì một người sẽ phải chết. Tôi cũng không muốn chết chẳng khác
+gì cậu, thế nên hãy kết thúc trong hòa bình. Được chứ?}
+{135}{}{Câm cái mồm lại.}
 {136}{}{}
 {137}{}{}
-{138}{}{That sounds like a challenge. I'll take it.}
+{138}{}{Lời thách thức hay đấy. Tôi nhận.}
 {139}{}{}
 {140}{}{}
-{141}{}{Hmm... I... Yeah, Okay. Here's the key to her cell; she's in the back room of the shack. Take her
- and get out, but don't come back. If I see you again, we'll see who lives and who dies.}
-{142}{}{Let's see who comes out of this alive.}
-{143}{}{Thanks, you did the right thing.}
-{144}{}{The only way you're leaving here is feet first, in a box.}
+{141}{}{Hừm... tôi... ờ, okay. Đây là chìa khóa vào buồng; cô ta ở phòng sau của căn lều. Hãy đưa cô ta
+ra ngoài nhưng đừng có trở lại. Nếu tôi mà thấy lần nữa thì để xem ai sống ai chết đấy.}
+{142}{}{Để xem ai sống mà rời khỏi đây nào.}
+{143}{}{Cám ơn, cậu đã làm điều đúng đấy.}
+{144}{}{Cách duy nhất để cậu ra khỏi đây là nằm trong hòm, chân ra trước.}
 {145}{}{}
 {146}{}{}
-{147}{}{You mean the one locked up in back that we've been having fun with? No, I haven't seen her.}
-{148}{}{You sicky in head. Me fix by remove head.}
-{149}{}{What you mean have fun with girl?}
+{147}{}{Ý mày là con bé bị nhốt ở trong mà bọn tao đang chơi ấy hả? Không, chưa thấy bao giờ.}
+{148}{}{Cậu có vấn đề đầu. Ngộ sửa bằng cách cắt đầu.}
+{149}{}{Vui vẻ với cô gái là gì?}
 {150}{}{Oh. Me leave now.}
-{151}{}{You are one sick puppy. I think I'll put you to sleep now.}
-{152}{}{Fine, have fun and I'll be going now.}
-{153}{}{Hand over the girl and we can all leave here alive.}
+{151}{}{Cậu đúng là đồ cún bệnh hoạn. Chắc là tôi sẽ cho cậu ngủ với giun ngay bây giờ.}
+{152}{}{Được rồi, cứ cười đi còn tôi sẽ đi giờ đây.}
+{153}{}{Hãy đưa cô gái ra đây và tất cả chúng ta đều còn sống mà rời khỏi đây.}
 {154}{}{So, you've returned. Let's see who comes out on top.}
 {155}{}{We killed that bitch Chrissy, and now it's your turn to die!}

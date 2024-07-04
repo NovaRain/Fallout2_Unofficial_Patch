@@ -102,7 +102,7 @@
 {201}{tand18}{New Reno? A damn bucket of brahmin spit. Got every vice there is. We've gotta be tough with them if we're going to unify this land. Congress has got to understand that.}
 {202}{}{What know about Bishop?}
 {203}{}{Tell about congress?}
-{204}{}{Me ask more.}
+{204}{}{Ngộ hỏi thêm.}
 {205}{}{What about the Bishops?}
 {206}{}{Tell me about the congress.}
 {207}{}{I see. Can you tell me some more?}

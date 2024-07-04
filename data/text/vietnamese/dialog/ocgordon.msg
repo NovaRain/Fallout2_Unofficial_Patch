@@ -37,7 +37,7 @@
  years.}
 {132}{}{You here before D'claws?}
 {133}{}{Ah. Need know more.}
-{134}{}{Got go now.}
+{134}{}{Phải đi giờ.}
 {135}{}{You are a very dedicated man. May I ask you some more questions?}
 {136}{}{That's a long time. Can you answer some more questions?}
 {137}{}{It's your life to waste as you see fit, bud.}

@@ -36,49 +36,49 @@ thì nằm lên chiếc giường đằng kia, sáng mai tôi sẽ đánh thức
 {132}{}{Ông có thể nói về Darion được không?}
 {133}{}{Sao ông lại đến chỗ này vậy?}
 {134}{}{Ông nói rằng Darion có một con chó à?}
-{135}{}{Thanks for the information. I'll be heading out now.}
-{136}{}{Well, yes and no. It's not by choice. I'm a prisoner here. Darion is getting up there in years
- and he needs a dedicated physician to look after him. The Khans keep me here for his needs. I'd rather
- be here for the people in the town above. They have no medical help at all, and there is a lot I can
- do to aid them.}
-{137}{}{Okay. Need know more.}
+{135}{}{Cám ơn về thông tin. Tôi đi ra ngoài giờ đây.}
+{136}{}{Ồ, vừa có vừa không. Tôi không tự nguyện mà bị bắt phải ở đây. Darion đã ở đây nhiều năm và
+cần một bác sĩ riêng để chăm sóc sức khỏe. Đám Khan giữ tôi ở đây để lo cho hắn. Bản thân tôi
+thà chăm sóc cho những người ở khu trại còn hơn. Họ chẳng có ai chăm sóc y tế cả, còn tôi thì
+có thể giúp họ được nhiều thứ.}
+{137}{}{Okay. Cần biết thêm.}
 {138}{}{Cám ơn. Tạm biệt.}
-{139}{}{That's very commendable of you.}
-{140}{}{I see. I'll be going now.}
-{141}{}{They're squatters! Let 'em die. Get on with your life.}
-{142}{}{No, I'm pretty much trapped here. I can't even leave to refill my medical supplies. Darion
- sends out for anything I need.}
-{143}{}{Me got it. Go now.}
-{144}{}{Need ask more.}
-{145}{}{I guess you just aren't a trustworthy enough person to be allowed freedom.}
-{146}{}{All right. I'm sorry, but I have to get going.}
-{147}{}{I'm sorry to hear that.}
-{148}{}{Darion is a mental case, plain and simple. He's got more spooks in his head than his dog has
- fleas. As far as I can figure it, he was a member of another gang called the Khans. They kidnapped
- this girl, Tandi, and held her for ransom. Her father didn't take kindly to that, and hired some merc
- to get her back. Darion was the only one to come out alive.}
-{149}{}{Uh... what you said.}
-{150}{}{Got go now.}
-{151}{}{Uh-huh. Well, I'll be leaving now.}
-{152}{}{Wow; I'm impressed with your knowledge.}
-{153}{}{Sounds like my kind of guy.}
-{154}{}{I was kidnapped. I was traveling from Vault City to New Reno for a well-deserved vacation. Went
- to bed one night and woke up bound and gagged the next morning. A week or so later, I was here. Been
- here ever since.}
-{155}{}{Ugh.}
-{156}{}{Thanks. Me be leave now.}
-{157}{}{The weak are often the prey of the strong.}
-{158}{}{I'm sorry to hear that.}
-{159}{}{Interesting, but I need to get going.}
-{160}{}{Yeah, he's got a dog. Personally, I think it's the meanest, most vile creature on the face of
- the earth. It seems to love Darion, though, so I guess it can't be all that bad.}
-{161}{}{Me ask more.}
-{162}{}{Uh, bye.}
-{163}{}{I see. Well, thanks for the warning.}
-{164}{}{Ah. Well, I've got to go.}
-{165}{}{I'll not help someone like you. Go away.}
-{166}{}{Okay, well, you take care, and come back if you need anything.}
+{139}{}{Ồ, ông đáng khen đấy chứ.}
+{140}{}{Hiểu rồi. Tôi sẽ đi giờ đây.}
+{141}{}{Đấy là đám ở mượn thôi mà! Kệ chúng chết đi. Hãy lo cho cuộc sống của ông chứ.}
+{142}{}{Không, tôi gần như bị giam ở đây. Tôi thậm chí còn không thể đi lấy vật tư y tế được. Darion
+cử người đi lấy mọi thứ tôi cần.}
+{143}{}{Ngộ hiểu. Đi giờ.}
+{144}{}{Cần hỏi thêm.}
+{145}{}{Tôi chắc là ông không phải là người đáng tin để được thả tự do.}
+{146}{}{Được rồi. Rất tiếc nhưng tôi phải đi đây.}
+{147}{}{Rất tiếc khi nghe điều đó.}
+{148}{}{Darion đơn giản là có vấn đề về thần kinh. Hắn ta có nhiều sạn trong đầu còn hơn cả số rận trên
+con chó kìa. Theo như tôi đoán thì hắn là thành viên của một băng tên là Khan. Chúng bắt cóc một
+phụ nữ tên là Tandi và giam giữ cô ta để đòi tiền chuộc. Cha cô gái không muốn giải quyết hòa bình và
+thuê mấy tay thợ săn để cứu con gái về. Darion là kẻ sống sót duy nhất.}
+{149}{}{Ừ... như ông nói.}
+{150}{}{Phải đi giờ.}
+{151}{}{Uh-huh. Ồ, tôi phải đi giờ.}
+{152}{}{Ồ, tôi thấy ấn tượng với kiến thức của ông đấy.}
+{153}{}{Nghe giống bạn tôi đấy.}
+{154}{}{Tôi đã bị bắt cóc. Lúc đó tôi đang đi từ Thành phố Vault đến New Reno trong một kì nghỉ dài. Một đêm
+tôi lên giường nằm và sáng hôm sau tỉnh giấc, thấy tay chân bị trói và nhét giẻ vào mồm. Sau khoảng một
+tuần, tôi ở đây. Từ đó đến giờ tôi chỉ ở đây.}
+{155}{}{Ờ.}
+{156}{}{Cám ơn. Ngộ đi giờ.}
+{157}{}{Kẻ mạnh ăn thịt kẻ yếu thôi.}
+{158}{}{Rất tiếc khi nghe điều đó.}
+{159}{}{Hay đấy, nhưng tôi phải đi đây.}
+{160}{}{Ừ, hắn ta có một con chó. Bản thân tôi nghĩ rằng đấy là con vật dữ dằn, độc ác nhất trên
+quả đất. Nhưng mà nó có vẻ yêu Darion, nên là có thể không tệ đến vậy.}
+{161}{}{Ngộ hỏi thêm.}
+{162}{}{Ừ, tạm biệt.}
+{163}{}{Hiểu rồi. Ồ, cám ơn đã cảnh báo.}
+{164}{}{À. Ồ, tôi cần đi đây.}
+{165}{}{Tôi sẽ không giúp người như cậu đâu. Đi chỗ khác đi.}
+{166}{}{Okay, ồ, nhớ giữ gìn nhé, và quay lại nếu cần gì đó.}
 {167}{}{Đã xong.}
-{168}{}{Now he's paranoid. He believes that Tandi is out to get him. He's obsessed with revenge, and he
- wants Tandi dead. He's riddled with guilt 'cause he hid and lived, rather than dying with his
- gang... and the list goes on and on.}
+{168}{}{Giờ thì hắn ta bị hoang tưởng. Hắn tin rằng Tandi đến để bắt hắn. Hắn ta bị ám ảnh với việc trả thù,
+và hắn muốn Tandi phải chết. Hắn luôn cảm thấy tội lỗi vì đã lẩn trốn và sống sót, thay vì chết cùng
+với băng nhóm... mấy chuyện như vậy.}
