@@ -36,10 +36,10 @@ lại anh thế?}
 {128}{}{Làm ơn đưa tôi về với mẹ Rebecca.}
 {129}{}{Chàng hiệp sĩ mặc giáp sáng choang của em quay lại rồi. À mà chắc là nó sẽ sáng bóng nếu
 anh thi thoảng lau qua đấy. Ồ, mà anh cũng nên tắm rửa đi. Vậy tôi giúp gì được đây?}
-{130}{}{Me just say hi. Me go now.}
-{131}{}{Just thought I'd say hello. I'll be going now.}
-{132}{}{Hey, I know I have a smart mouth, but I want you to know that I'm very grateful for you saving
- my butt. Thanks very much!}
+{130}{}{Ngộ chỉ chào. Ngộ đi giờ.}
+{131}{}{Chỉ ghé qua chào một câu thôi. Tôi đi bây giờ đây.}
+{132}{}{Này, tôi biết mình hơi mau miệng, nhưng tôi muốn anh biết là tôi rất biết ơn vì anh đã cứu
+mạng đấy. Cám ơn nhiều!}
 {133}{}{You welcome.}
 {134}{}{You're welcome.}
 {135}{}{The people of the Squat are protecting these guys by helping them keep the vault a secret, but they

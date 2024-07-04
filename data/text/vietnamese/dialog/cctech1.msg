@@ -3,7 +3,7 @@
 {102}{}{You see someone wearing a lab coat with a pocket protector and lots of pens stuffed in it. He has that slightly confused look of someone new to a job.}
 {103}{}{Yes, sir?}
 {104}{}{Me new here. Need ask question.}
-{105}{}{Me just say hi. Me go now.}
+{105}{}{Ngộ chỉ chào. Ngộ đi giờ.}
 {106}{}{I'm new here. I need to ask a few questions to familiarize myself with the base.}
 {107}{}{Sorry to bother you. I'm just saying hi.}
 {108}{}{I'm a new recruit myself, sir. I don't know if I can answer all your questions but I'll try.}
