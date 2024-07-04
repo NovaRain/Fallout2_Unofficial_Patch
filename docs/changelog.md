@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 30](#version-30)
 - [Version 29](#version-29)
 - [Version 28](#version-28)
 - [Version 27](#version-27)
@@ -34,10 +35,19 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
-### Version 30 (WIP)
+### Version 30
 
+- General
+  - Added [Lexx's fix](https://github.com/rotators/fallout-mods/tree/master/Vault-Tec_ElevatorFix) for elevator panel graphics.
+  - Re-added mantis proto from 1.02d patch (was removed in v7).
+  - Minor spelling fixes in various dialogs.
+  - Fixed the description of Healing Rate.
+  - Fixed some XP messages with correct Swift Learner bonus.
+  - Minor random encounter map [fixes](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/294).
+  - Updated sfall to 4.4.4.
 - New Reno
-  - [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/295) Cody never talking again if PC left map before he calmed down.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/295) Cody never talking again if PC left map before he calmed down.
+  - Fixed Ms. Kitty dropping the stat bonus item on the ground after Skynet got action.
 
 ### Version 29
 
