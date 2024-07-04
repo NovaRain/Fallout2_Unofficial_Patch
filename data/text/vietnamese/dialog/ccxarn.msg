@@ -20,7 +20,7 @@
  I should be able to climb the shaft and gain my freedom. However,
  the door is securely locked and requires a passkey to open.
  Find the key, unlock the door, and grant me my freedom.}
-{116}{}{Okay, me do.}
+{116}{}{Okay, ngộ làm.}
 {117}{}{Me think about it.}
 {118}{}{Sure, I'll do it.}
 {119}{}{I'll think about it.}

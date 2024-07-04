@@ -1,99 +1,99 @@
-{100}{}{You see an older woman.}
-{101}{}{You see Rebecca.}
-{102}{}{You see an older woman. Although she appears to have lived a hard life, she has not lost any of
- her natural beauty.}
-{103}{}{Hi, I'm Rebecca. Can we talk privately, please?}
-{104}{}{What talk about?}
-{105}{}{Why need talk private?}
+{100}{}{Bạn thấy một phụ nữ có tuổi.}
+{101}{}{Bạn thấy Rebecca.}
+{102}{}{Bạn thấy một phụ nữ có tuổi. Dù cho bà ta có vẻ đã sống trong cơ cực, nhưng vẫn không bị mất
+đi vẻ đẹp tự nhiên.}
+{103}{}{Chào, tôi là Rebecca. Chúng ta có thể nói chuyện riêng được không?}
+{104}{}{Nói chuyện gì?}
+{105}{}{Sao lại cần nói chuyện riêng?}
 {106}{}{Okay.}
-{107}{}{No. Me leave.}
-{108}{}{Sorry, not interested.}
-{109}{}{What do you want to talk to me about?}
-{110}{}{Sure, where can we go for privacy?}
-{111}{}{Why the need for privacy?}
-{112}{}{(whispering) My daughter is missing and I need help finding her. I can't talk about it here,
- though. Can we go somewhere private?}
+{107}{}{Không. Ngộ đi.}
+{108}{}{Xin lỗi, không có hứng.}
+{109}{}{Bà có việc gì muốn nói với tôi?}
+{110}{}{Được chứ, chúng ta có thể đến chỗ vắng nào đây?}
+{111}{}{Sao lại cần riêng tư thế?}
+{112}{}{(thì thầm) Con gái tôi bị mất tích và tôi cần người giúp tìm con bé. Nhưng tôi không thể nói
+chuyện ở đây. Liệu chúng ta có thể đi đến chỗ nào vắng vẻ được không?}
 {113}{}{Okay.}
-{114}{}{Why need talk private?}
-{115}{}{No, me go.}
-{116}{}{All right, let's go.}
-{117}{}{Why the need for privacy?}
-{118}{}{No thanks, I don't want to get involved.}
-{119}{}{(whispering) You may think I'm crazy but I get the feeling I'm being watched all the time. It's
- rather disturbing, and I'm a bit on edge because of it.}
-{120}{}{Okay, we go private.}
-{121}{}{No time for sicky in head.}
-{122}{}{All right; where can we go to talk?}
-{123}{}{Sorry, I don't like the sound of this.}
-{124}{}{Thanks; we can go to my tent.}
+{114}{}{Sao lại cần nói chuyện riêng?}
+{115}{}{Không, ngộ đi.}
+{116}{}{Được rồi, đi thôi.}
+{117}{}{Sao lại cần riêng tư thế?}
+{118}{}{Khỏi đi, tôi không muốn liên can.}
+{119}{}{(thì thầm) Cậu có thể nghĩ tôi bị điên nhưng tôi cảm thấy mình bị theo dõi suốt. Việc này khiến
+tôi hơi lo lắng và thấy khó chịu.}
+{120}{}{Okay, chúng ta đi riêng.}
+{121}{}{Không có thời gian để bị điên đâu.}
+{122}{}{Được rồi; chúng ta có thể nói chuyện ở đâu?}
+{123}{}{Xin lỗi, tôi không muốn nghe chuyện này.}
+{124}{}{Cám ơn; chúng ta có thể đi đến lều của tôi.}
 {125}{}{Okay.}
-{126}{}{We should be able to talk here.}
-{127}{}{Okay, what problem?}
-{128}{}{Me got questions first.}
-{129}{}{Okay, so what's so important?}
-{130}{}{I have some questions for you, first.}
-{131}{}{I have a daughter named Chrissy who's a bit of a tomboy. She likes to run around, explore,
- and pretty much stick her nose into things. Chrissy's a good kid, though. She doesn't
- cause trouble, she's always home on time and she's shown herself to be a very responsible young lady.
- I let her do as she pleases most of the time. Last week Chrissy didn't come home. I've asked
- around, and nobody's seen or heard from her. I tried to find her myself, but Zeke, he's... sort of the
- mayor here... stopped me. He said it wasn't safe for me to go out looking on my own; he'd have some of
- his men do it. They couldn't find her, either, and said that maybe the slavers got her.}
-{132}{}{No, not get involved.}
-{133}{}{Need think before decide.}
-{134}{}{Ok, me seem be hero type lately.}
-{135}{}{Sorry, not interested.}
+{126}{}{Chúng ta có thể nói chuyện ở đó.}
+{127}{}{Okay, có vấn đề gì?}
+{128}{}{Ngộ muốn hỏi trước.}
+{129}{}{Okay, vậy có gì quan trọng thế?}
+{130}{}{Tôi có mấy câu muốn hỏi trước.}
+{131}{}{Tôi có cô con gái tên là Chrissy tính hơi nghịch một chút. Con bé thích chạy khắp nơi, đi khám phá
+và luôn chọc mũi vào mọi thứ. Tuy vậy Chrissy là một cô bé ngoan. Con bé không gây rắc rối gì,
+luôn về nhà đúng giờ và chứng tỏ mình là một cô gái hiểu chuyện. Tôi hầu như để con bé được tự do.
+Tuần trước Chrissy không về nhà. Tôi đã đi hỏi xung quanh và chẳng ai thấy hay nghe tin gì của con bé cả.
+Tôi đã thử tự đi tìm, nhưng Zeke, ông ta... như kiểu thị trưởng ở đây... đã cản tôi. Ông ta bảo tôi tự đi tìm thì
+không an toàn; ông ta sẽ cho người đi tìm. Nhưng họ cũng chẳng thấy gì, và nói có thể đám buôn nô lệ đã
+bắt mất con bé rồi.}
+{132}{}{Không, không muốn tham gia.}
+{133}{}{Cần nghĩ trước khi quyết định.}
+{134}{}{Ok, gần đây ngộ làm anh hùng.}
+{135}{}{Xin lỗi, không có hứng.}
 {136}{}{Con cần nghĩ về việc đó.}
-{137}{}{All right, Rebecca. I'll try to help you.}
-{138}{}{If I help you, what's in it for me?}
+{137}{}{Được rồi, Rebecca. Tôi sẽ cố giúp.}
+{138}{}{Nếu giúp thì tôi sẽ được gì?}
 {139}{}{Muốn biết gì nào?}
-{140}{}{What go on here?}
-{141}{}{Who boss?}
-{142}{}{Me try find Vault 13. You know where is?}
-{143}{}{Tell about vault.}
-{144}{}{Tell about Darion.}
-{145}{}{Thanks. We talk you problem?}
-{146}{}{What's going on around here?}
-{147}{}{Who's in charge around here?}
-{148}{}{I'm looking for Vault 13. Do you know anything about it?}
-{149}{}{Tell me about the vault.}
-{150}{}{So tell me about Darion.}
-{151}{}{Thanks Rebecca. Let's talk about your problem now.}
-{152}{}{We call this place the 'Squat' because it was settled by the homeless of many cities. It's not
- much, but it's all we have. To the west is a city called the NCR. They've known about us for quite some
- time, and never offered us any kind of help or hindrance. Now, they are suddenly claiming this area as their
- ancestral home, and they want it back.}
+{140}{}{Có chuyện gì thế?}
+{141}{}{Ai chủ?}
+{142}{}{Ngộ cố tìm Vault 13. Bà biết đâu không?}
+{143}{}{Nói về vault.}
+{144}{}{Nói về Darion.}
+{145}{}{Cám ơn. Chúng ta nói vấn đề bà?}
+{146}{}{Chuyện gì đang diễn ra ở đây thế?}
+{147}{}{Ai là người đứng đầu ở đây?}
+{148}{}{Tôi đang đi tìm Vault 13. Bà có biết gì không?}
+{149}{}{Hãy nói cho tôi về căn hầm.}
+{150}{}{Vậy hãy nói cho tôi biết về Darion.}
+{151}{}{Cám ơn Rebecca. Giờ hãy nói về vấn đề của bà.}
+{152}{}{Chúng tôi gọi nơi này là "Ở mượn" vì đây là nơi người vô gia cư từ nhiều thành phố trú ngụ. Tuy
+không nhiều nhưng đó là tất cả những gì chúng tôi có. Có một thành phố gọi là NCR về phía Tây.
+Họ biết về chúng tôi một thời gian rồi, nhưng không bao giờ giúp đỡ hay cản trở gì cả. Đột nhiên giờ họ
+nhận đây là đất của tổ tiên họ và muốn lấy lại.}
 {153}{}{Okay.}
-{154}{}{What here they want?}
+{154}{}{Ở đây họ muốn gì?}
 {155}{}{Hiểu rồi.}
-{156}{}{What is here that they want so badly?}
-{157}{}{Well... there is a vault here; I think it's number 15. They want to loot it for any of the old
- technology that may still be there.}
-{158}{}{Ah. Me understand.}
-{159}{}{I knew there had to be something here other than the waste-of-flesh inhabitants.}
+{156}{}{Ở đây có gì mà họ lại muốn đến vậy?}
+{157}{}{Ồ... có một căn hầm ở đây; tôi nghĩ là số 15. Họ muốn tìm lấy bất kì công nghệ cũ nào
+có thể vẫn còn ở dưới đó.}
+{158}{}{À, ngộ hiểu.}
+{159}{}{Tôi biết là dưới đó phải có thứ gì đó khác ngoài lũ ăn hại đái khai kia.}
 {160}{}{Hiểu rồi.}
-{161}{}{That explains a lot. You've been very helpful. I need to ask some more questions, though.}
-{162}{}{That would be Zeke. He runs everything up here. You can find him in the building over there.
- ::points north-east::}
-{163}{}{Thanks. Ask more.}
-{164}{}{Thank you. I need to ask you some more questions.}
-{165}{}{I'm sorry, I have no idea. I would ask about it in NCR. They've taken a great interest in
- vaults lately.}
-{166}{}{Okay, me do.}
-{167}{}{All right, I will.}
-{168}{}{Well... we're not supposed to talk about it, but since I need your help... The vault is being
- repaired by Darion. He's our benefactor. When it's fully functional, we're all supposed to move in
- where we'll be safe from raiders, slavers, and such. So far he has the food and water systems up, but
- that's about it.}
-{169}{}{Me see. Need know more.}
-{170}{}{I need to know more.}
-{171}{}{There's not much to say, really. Darion keeps to himself and never leaves the vault. If he has
- anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.}
+{161}{}{Hóa ra là vậy. Cám ơn bà nhiều. Tôi vẫn còn muốn hỏi thêm mấy câu nữa.}
+{162}{}{Đó là Zeke. Ông ta lo mọi thứ ở đây. Cậu có thể tìm thấy ông ta trong tòa nhà đằng kia.
+::chỉ về phía Đông Bắc::}
+{163}{}{Cám ơn. Hỏi thêm.}
+{164}{}{Cám ơn. Tôi muốn hỏi thêm mấy câu nữa.}
+{165}{}{Tôi xin lỗi, tôi không biết. Chắc là nên hỏi ở NCR. Gần đây họ quan tâm đến mấy 
+căn hầm lắm.}
+{166}{}{Okay, ngộ làm.}
+{167}{}{Được rồi.}
+{168}{}{Ồ... chúng tôi đáng lẽ không được nói về chuyện này, nhưng vì tôi đang nhờ cậu... Darion đang
+sửa chữa căn hầm. Ông ta là người giúp chúng tôi. Sau khi nó hoạt động hoàn toàn trở lại, chúng tôi 
+có thể chuyển vào để tránh khỏi lũ cướp, đám buôn nô lệ và tương tự thế. Mới nhất thì ông ta đã
+khôi phục được hệ thống cấp nước và đồ ăn, nhưng chỉ có vậy.}
+{169}{}{Ngộ hiểu. Cần biết thêm.}
+{170}{}{Tôi cần hỏi thêm.}
+{171}{}{Thực ra tôi cũng không biết nhiều lắm. Darion luôn ẩn thân và không bao giờ rời khỏi hầm. Nếu
+cần nói gì thì ông ta sẽ nói qua Zeke. Tôi chỉ mới gặp ông ta một lần, và có vẻ là người tốt.}
 {172}{}{Okay.}
-{173}{}{Nice guys finish last. I wonder what he's up to?}
+{173}{}{Mấy gã quân tử đến cuối mới ra tay. Không biết lão ta muốn làm gì?}
 {174}{}{Hiểu rồi.}
-{175}{}{That's okay. You are very helpful.}
-{176}{}{I have nothing to give you other than my undying gratitude.}
+{175}{}{Được rồi. Bà đã giúp nhiều lắm.}
+{176}{}{Tôi chẳng biết đưa gì cho cậu ngoài sự cảm kích vô bờ bến.}
 {177}{}{That's more than enough. I'll help you.}
 {178}{}{It'll take more than that to buy my help.}
 {179}{}{What the hell, I'll help you.}

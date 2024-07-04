@@ -54,9 +54,9 @@ ra ngoài nhưng đừng có trở lại. Nếu tôi mà thấy lần nữa thì
 {147}{}{Ý mày là con bé bị nhốt ở trong mà bọn tao đang chơi ấy hả? Không, chưa thấy bao giờ.}
 {148}{}{Cậu có vấn đề đầu. Ngộ sửa bằng cách cắt đầu.}
 {149}{}{Vui vẻ với cô gái là gì?}
-{150}{}{Oh. Me leave now.}
+{150}{}{Ồ. Ngộ đi giờ.}
 {151}{}{Cậu đúng là đồ cún bệnh hoạn. Chắc là tôi sẽ cho cậu ngủ với giun ngay bây giờ.}
 {152}{}{Được rồi, cứ cười đi còn tôi sẽ đi giờ đây.}
 {153}{}{Hãy đưa cô gái ra đây và tất cả chúng ta đều còn sống mà rời khỏi đây.}
-{154}{}{So, you've returned. Let's see who comes out on top.}
-{155}{}{We killed that bitch Chrissy, and now it's your turn to die!}
+{154}{}{Vậy là mày đã trở lại. Để xem ai sẽ sống nào.}
+{155}{}{Bọn tao đã giết con đũy Chrissy rồi, giờ đến lượt mày phải chết!}
