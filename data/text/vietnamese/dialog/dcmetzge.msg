@@ -259,7 +259,7 @@
 {742}{}{I'm not getting out of this am I?}
 {750}{}{Oh, but this will be fun. Trust me.}
 {751}{}{Fuck you.}
-{752}{}{Uh, okay.}
+{752}{}{Ừ, okay.}
 {800}{}{You've killed the leader of the Slave Guild.}
 {1360}{}{ for her. How about it?}
 {1361}{}{?}

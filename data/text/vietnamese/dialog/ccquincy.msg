@@ -30,7 +30,7 @@
 {127}{}{I've got some friends down south who want to get their hands on them.}
 {128}{}{I was told by the Sarge to get them.}
 {129}{}{Down south... Holy shit! We've got a spy here! Guards! Alert!}
-{130}{}{Ooops.}
+{130}{}{Ồ ồ.}
 {131}{}{Ooops. Put my foot in it this time.}
 {132}{}{You're one round short of a full clip, aren't you? Well, they call you
  grunts for a reason. Look, Einstein, I can't give you the plans without

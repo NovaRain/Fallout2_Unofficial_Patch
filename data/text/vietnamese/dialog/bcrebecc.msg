@@ -94,54 +94,54 @@ cần nói gì thì ông ta sẽ nói qua Zeke. Tôi chỉ mới gặp ông ta m
 {174}{}{Hiểu rồi.}
 {175}{}{Được rồi. Bà đã giúp nhiều lắm.}
 {176}{}{Tôi chẳng biết đưa gì cho cậu ngoài sự cảm kích vô bờ bến.}
-{177}{}{That's more than enough. I'll help you.}
-{178}{}{It'll take more than that to buy my help.}
-{179}{}{What the hell, I'll help you.}
-{180}{}{Thank you so much. I'll never be able to repay you for this. I'll wait here until you bring...
- Hey, there was someone outside listening to us! I saw their shadow on the tent wall. They just ran off
- that way! ::points north-east:: They must have heard everything!}
-{181}{}{Me stop, no get away!}
-{182}{}{You no worry, me find girl.}
-{183}{}{Ooops.}
-{184}{}{I'll try and stop them.}
-{185}{}{They won't stop me from finding your daughter.}
-{186}{}{Oh well. Shit happens.}
-{187}{}{Please, just go away.}
-{188}{}{Have you thought things through?}
-{189}{}{Me ask questions.}
-{190}{}{No, still think.}
-{191}{}{No, I'm still considering everything.}
-{192}{}{I want to ask you some questions.}
-{193}{}{Have you changed your mind? Will you help me?}
-{194}{}{Sorry, no.}
-{195}{}{Me help.}
-{196}{}{Yes, I'll help you.}
-{197}{}{You must be the person who saved my daughter. I can never repay you for your kindness. Thank you.
- Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
-{198}{}{You saved my daughter. I can never repay you for your kindness. Thank you.
- Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
+{177}{}{Vậy là quá đủ rồi. Tôi sẽ giúp.}
+{178}{}{Sẽ cần nhiều hơn thế để được tôi giúp đấy.}
+{179}{}{Cái quái gì thế, tôi sẽ giúp.}
+{180}{}{Cám ơn nhiều lắm. Tôi biết lấy gì để trả ơn này của cậu. Tôi sẽ chờ ở đây cho đến khi...
+Ê, vừa có người ngoài kia nghe lén chúng ta! Tôi thấy bóng của họ trên lều. Chúng chạy đi theo
+lối đó! ::chỉ phía Đông Bắc:: Chắc chắn là chúng đã nghe được mọi chuyện rồi!}
+{181}{}{Ngộ dừng, không chạy mất!}
+{182}{}{Bà không lo, ngộ tìm cô gái.}
+{183}{}{Ồ ồ.}
+{184}{}{Tôi sẽ cố đi ngăn chúng.}
+{185}{}{Họ sẽ không ngăn được tôi đi tìm con gái bà đâu.}
+{186}{}{Ồ, chuyện thường thôi.}
+{187}{}{Làm ơn đi chỗ khác đi.}
+{188}{}{Cậu đã nghĩ thông suốt chưa?}
+{189}{}{Ngộ hỏi câu.}
+{190}{}{Chưa, đang nghĩ.}
+{191}{}{Không, nhưng tôi vẫn sẽ xem xét mọi thứ.}
+{192}{}{Tôi muốn hỏi thêm mấy câu nữa.}
+{193}{}{Cậu đã đổi ý chưa? Cậu sẽ giúp tôi chứ?}
+{194}{}{Xin lỗi, không.}
+{195}{}{Ngộ giúp.}
+{196}{}{Ừ, tôi sẽ giúp.}
+{197}{}{Cậu đúng là người đã cứu con gái tôi. Tôi biết lấy gì để trả ơn cho cậu. Cám ơn nhé. Vui lòng chờ ở đây,
+tôi cần nói chuyện với Chrissy rồi tôi sẽ nói chuyện với cậu.}
+{198}{}{Cậu đã cứu con gái tôi. Tôi biết lấy gì để trả ơn cho cậu. Cám ơn nhé. Vui lòng
+chờ ở đây, tôi cần nói chuyện với Chrissy rồi tôi sẽ nói chuyện với cậu.}
 {199}{}{Okay.}
-{200}{}{My daughter has told me everything. I find it hard to believe that Darion is such a monster
- after all he's been doing for us. And to think, we've been helping him hide his operations as a raider.
- I can guarantee you we won't stand for it any longer. I've already talked to Zeke, and he wants to see
- you. You should go see him now.}
-{201}{}{I find it hard to believe that Darion is such a monster after all he's been doing for us. And to
- think, we've been helping him hide his operations as a raider. I can guarantee you we won't stand for
- it any longer. I'll talk to Zeke and explain everything. I'm sure he'll want to see you. You should go
- talk to him later.}
+{200}{}{Con gái tôi đã kể hết mọi chuyện cho tôi. Thật khó tin là Darion lại là một con quái vật như vậy
+sau tất cả những gì ông ta đã làm cho chúng tôi. Và biết rằng chúng tôi đang giúp hắn ta che giấu hành vi
+ăn cướp nữa. Tôi có thể đảm bảo là chúng tôi sẽ không tiếp tục giúp hắn nữa. Tôi đã nói chuyện với Zeke,
+và ông ta muốn gặp cậu. Cậu nên đến gặp ông ta ngay.}
+{201}{}{Thật khó tin là Darion lại là một con quái vật như vậy sau tất cả những gì ông ta đã làm cho chúng tôi.
+Và biết rằng chúng tôi đang giúp hắn ta che giấu hành vi ăn cướp nữa. Tôi có thể đảm bảo là chúng tôi sẽ
+không tiếp tục giúp hắn nữa. Tôi sẽ nói chuyện với Zeke và giải thích mọi chuyện. Tôi chắc là ông ta sẽ muốn
+gặp cậu. Cậu nên đến gặp ông ta sau.}
 {202}{}{Cám ơn.}
-{203}{}{I hope you find Chrissy soon.}
-{204}{}{Me looking.}
-{205}{}{I'll continue to search for her.}
-{206}{}{Thanks for everything you've done for me.}
-{207}{}{I can't explain why, but I don't believe the slavers took her. I've an uneasy feeling that
- something else is going on. And then there's this feeling that I'm being followed. I've had it ever
- since I talked to Zeke about Chrissy. I need someone to help me find my daughter. Will you help me,
- please?}
-{208}{}{They keep sending people here to try and talk us out of our home, but they don't understand
- that we have nowhere else to go. We don't have the skills necessary to survive on our own if we leave
- here.}
-{209}{}{You know, it's kind of funny that they managed to get something that complex fixed, but not the
- lights. The damn place is lit by torches. Anyway, Darion doesn't want anyone to know what's going on
- with the vault. He's afraid that someone will take it all away from us if they find out. So, we're told
- to drive off anyone who shows up here -- especially the NCR.}
+{203}{}{Tôi hi vọng là cậu sẽ sớm tìm thấy Chrissy.}
+{204}{}{Ngộ đang tìm.}
+{205}{}{Tôi sẽ tiếp tục tìm kiếm con gái bà.}
+{206}{}{Cám ơn về mọi thứ cậu đã làm giúp tôi.}
+{207}{}{Tôi không thể giải thích tại sao, nhưng tôi không tin là lũ buôn nô lệ đã bắt con bé. Tôi có cảm giác
+khó chịu rằng có chuyện gì đó đang diễn ra. Và rồi cả cảm giác đang bị theo dõi nữa. Tôi luôn cảm thấy
+như vậy sau khi nói chuyện với Zeke về Chrissy. Tôi cần ai đó giúp tôi đi tìm con gái. Cậu sẽ giúp tôi chứ,
+làm ơn đi?}
+{208}{}{Họ liên tục cử người đến đây để thử yêu cầu chúng tôi rời khỏi nhà, nhưng họ không hiểu là
+chúng tôi không còn nơi nào khác để đi. Chúng tôi không có các kĩ năng cần thiết để tự tồn tại
+nếu rời khỏi đây.}
+{209}{}{Cậu biết đấy, thật hài hước là họ tự nhận có thể sửa được thứ phức tạp như vậy nhưng lại không sửa
+nổi mấy cái đèn. Cả cái hốc đấy cắm toàn đuốc. Dù sao thì Darion cũng không muốn ai biết về chuyện gì
+đang diễn ra dưới hầm. Ông ta sợ rằng ai đó sẽ lấy đi tất cả nếu lộ ra. Vì vậy, chúng tôi được lệnh phải
+đuổi tất cả những ai đến đây -- nhất là từ NCR.}

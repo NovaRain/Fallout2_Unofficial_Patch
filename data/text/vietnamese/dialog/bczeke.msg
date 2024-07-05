@@ -1,37 +1,37 @@
-{100}{}{You see an older squatter.}
-{101}{}{You see Zeke, a squatter.}
-{102}{}{You see an older man with thinning, white hair.}
-{103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
- there's anything in this town for you, anyway. You should move on.}
-{104}{}{Uh, okay.}
+{100}{}{Bạn thấy một người ở mượn già nua.}
+{101}{}{Bạn thấy Zeke, một người ở mượn.}
+{102}{}{Bạn thấy một ông già với mái tóc trắng lưa thưa.}
+{103}{}{Tên tôi là Zeke, người lạ. Xin lỗi nhưng tôi không có thời gian nói chuyện đâu -- và tôi nghĩ
+rằng khu trại này cũng chẳng có gì cả đâu. Cậu nên đi chỗ khác thôi.}
+{104}{}{Ừ, okay.}
 {105}{}{Ngộ muốn hỏi.}
-{106}{}{All right, I'll leave.}
-{107}{}{I just wanted to ask a couple of questions.}
-{108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
- get a shipment in?}
+{106}{}{Được rồi, tôi đi.}
+{107}{}{Tôi chỉ muốn hỏi vài câu thôi.}
+{108}{}{Ồ, tôi nghĩ là cậu sẽ thấy rằng chúng tôi không trả lời được gì cả. Sao cậu không quay trở lại
+sau khi chúng tôi có đoàn chở hàng đến ý?}
 {109}{}{Đã xong.}
-{110}{}{Hello, again. I still don't have any answers for you, stranger. Why don't you take a hint and
- get the duck out of fodge?}
+{110}{}{Xin chào lần nữa. Tôi vẫn không có câu trả lời nào đâu, người lạ. Sao cậu không hiểu ý và
+gói đồ cuốn xéo khỏi đây đi?}
 {111}{}{Đã xong.}
-{112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
- here. You certainly didn't deserve it. What can I help you with?}
+{112}{}{Rebecca đã kể cho tôi về những gì cậu đã làm. Tôi muốn xin lỗi về thái độ mà cậu đã phải nhận
+ở đây. Rõ ràng là cậu xứng đáng được đối xử tốt hơn. Tôi có thể giúp gì đây?}
 {113}{}{Ngộ muốn hỏi.}
-{114}{}{Nothing. Wavy.}
-{115}{}{I've got some questions for you.}
-{116}{}{Nothing for now, thanks.}
+{114}{}{Không có gì. Lượn.}
+{115}{}{Tôi có vài câu hỏi đây.}
+{116}{}{Hiện không có gì. Cám ơn.}
 {117}{}{Muốn biết gì nào?}
-{118}{}{You work for Darion?}
-{119}{}{What you do about raiders?}
-{120}{}{Where vault door?}
-{121}{}{Anything else go on here?}
-{122}{}{Me leave now.}
+{118}{}{Ông làm việc cho Darion à?}
+{119}{}{Ông làm gì với cướp?}
+{120}{}{Cửa hầm đâu?}
+{121}{}{Còn chuyện gì khác ở đây không?}
+{122}{}{Ngộ đi giờ.}
 {123}{}{Ông có làm việc cho Darion không?}
-{124}{}{What do you intend to do about the raiders?}
-{125}{}{Where is the vault entrance?}
-{126}{}{Is there anything else going on around here?}
-{127}{}{I guess that's it. I'll be going now.}
-{128}{}{Yes, I do. I act as the middle man between him and the people up here. I'm not very happy about
- the fact, now that I know what he's up to.}
+{124}{}{Ông định làm thế nào với lũ cướp?}
+{125}{}{Lối vào hầm ở chỗ nào?}
+{126}{}{Còn chuyện gì khác ở đây không?}
+{127}{}{Chắc vậy là đủ. Giờ tôi sẽ đi đây.}
+{128}{}{À, có chứ. Tôi đóng vai trò trung gian giữa ông ta và mọi người ở đây. Giờ tôi không thấy vui vẻ mấy
+về việc đó sau khi biết mục đích của hắn ta.}
 {129}{}{Okay.}
 {130}{}{Hiểu rồi.}
 {131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
