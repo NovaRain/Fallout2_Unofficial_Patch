@@ -828,7 +828,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
 {823}{}{Tôi không biết gì về chuyện đó.}
-{824}{}{I don't know.}
+{824}{}{Tôi không chắc.}
 {825}{}{Đúng vậy.}
 {826}{}{Không.}
 {827}{}{Certainly.}

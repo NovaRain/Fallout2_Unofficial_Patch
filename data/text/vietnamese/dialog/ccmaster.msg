@@ -51,7 +51,7 @@
 {147}{}{That with an S or a C?}
 {148}{}{Đúng vậy.}
 {149}{}{Không.}
-{150}{}{I don't know.}
+{150}{}{Tôi không chắc.}
 {151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
 {152}{}{[Player name]}
 {153}{}{Pisces?}

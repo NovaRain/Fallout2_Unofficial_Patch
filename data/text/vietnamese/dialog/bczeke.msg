@@ -34,51 +34,51 @@ gói đồ cuốn xéo khỏi đây đi?}
 về việc đó sau khi biết mục đích của hắn ta.}
 {129}{}{Okay.}
 {130}{}{Hiểu rồi.}
-{131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
- they are in charge. Period. We have no skills and no means of support without the backing of Darion.
- How can we turn against him? We're at his mercy.}
-{132}{}{Hmm. Me think me understand.}
-{133}{}{Hmm. I see.}
-{134}{}{It's behind that door over there, but it's locked from the other side and trapped, too. I don't have
- any means of opening it... Wait a minute. I found this key card some time ago, and I have no idea what
- it is for. Rebecca says that you found some sort of door where they were holding Chrissy. Maybe this
- card will open it. Here, take it.}
-{135}{}{Me thank you.}
-{136}{}{Thanks. I'll give it a try.}
-{137}{}{There's a city west of here called NCR. They claim Vault 15 is their ancestral home and they want it
- back. They've been sending people here trying to talk us into leaving but we aren't going for it. This is the only home we know.}
-{138}{}{You maybe make deal NCR?}
-{139}{}{Would you consider making a deal with NCR?}
-{140}{}{That all depends. What did you have in mind?}
-{141}{}{Join NCR tribe. Learn from elders. Give NCR you permission enter vault. Both happy.}
-{142}{}{Join NCR, let them annex your territory, and give them access to the vault. In return, they can teach you all the skills
- you need to survive on your own and offer you their protection.}
-{143}{}{Not bad... I like it. You've got yourself a deal if you can get NCR to agree to it as well. But...
- Look, someone has to take care of Darion and his cronies. It should be done now before they realize what has happened
- and have time to prepare for an attack. Why not get this over with and take Darion out now?
- You'll have the element of surprise on your side.}
-{144}{}{You right, me take care of.}
-{145}{}{Me not sure.}
-{146}{}{Yeah, I guess it has to be done.}
-{147}{}{I don't know.}
-{148}{}{Excellent. Good luck to you, and thank you.}
+{131}{}{Chẳng gì cả. Chúng có súng, chúng kiểm soát nước và thực phẩm. Điều đó có nghĩa là chúng
+nắm quyền. Chấm hết. Chúng tôi không làm được gì và chẳng có điểm tựa nào nếu không dựa vào
+Darion. Làm sao chúng tôi có thể chống lại hắn được chứ? Chúng tôi phụ thuộc vào hắn.}
+{132}{}{Hừm. Ngộ nghĩ là ngộ hiểu.}
+{133}{}{Hừm. Tôi hiểu rồi.}
+{134}{}{Ở đằng sau cái cửa kia, nhưng lối vào bị khóa từ bên trong và có cả bẫy nữa. Tôi không biết mở bằng
+cách nào... Chờ đã. Tôi tìm thấy cái thẻ từ này hồi trước nhưng chẳng biết dùng để làm gì cả. Rebecca
+nói rằng cậu có tìm thấy một cánh cửa gì đó ở chỗ chúng giam giữ Chrissy. Có thể cái thẻ này sẽ mở được
+đấy. Đây, cầm lấy.}
+{135}{}{Ngộ cám ơn.}
+{136}{}{Cám ơn. Tôi sẽ thử.}
+{137}{}{Có một thành phố ở phía Tây chỗ này gọi là NCR. Họ nhận rằng Vault 15 là ngôi nhà gốc của mình và họ muốn lấy lại.
+Họ đã cử người đến đây để cố thuyết phục chúng tôi rời đi nhưng không đâu. Đây là chốn nương thân duy nhất của chúng tôi.}
+{138}{}{Ông có thể thương lượng với NCR?}
+{139}{}{Liệu ông có muốn thương lượng với NCR không?}
+{140}{}{Còn tùy. Cậu có ý gì?}
+{141}{}{Gia nhập tộc NCR. Học từ trưởng lão. Cho NCR quyền vào hầm. Vui cả hai.}
+{142}{}{Gia nhập NCR, để họ sáp nhập lãnh thổ và cho họ vào trong hầm. Đổi lại, họ sẽ dạy cho các ông tất cả các kĩ năng
+cần thiết để tự sinh tồn và cho quân bảo vệ nơi này.}
+{143}{}{Không tệ... tôi thích ý này. Coi như cậu đã đạt được thảo thuận nếu như NCR cũng đồng ý. Nhưng...
+Này, cần có ai đó giải quyết Darion và tay chân của hắn. Việc này cần phải làm ngay trước khi chúng biết được điều gì
+đã xảy ra và có thời gian để chuẩn bị tấn công. Sao không kết thúc việc này và giải quyết Darion luôn?
+Cậu đang có yếu tố bất ngờ cơ mà.}
+{144}{}{Ông đúng, ngộ đi giải quyết.}
+{145}{}{Ngộ không chắc.}
+{146}{}{Ừ, tôi chắc là kiểu gì cũng phải làm.}
+{147}{}{Tôi không chắc.}
+{148}{}{Tuyệt. Chúc cậu may mắn, và cảm ơn.}
 {149}{}{Đã xong.}
-{150}{}{Well, take the time to think about it, but know this -- until Darion is out of the picture, I
- have no choice but to maintain things around here as they are. It's for the safety of everyone
- concerned. That means no deal and you are still persona non grata. Understand?}
+{150}{}{Ồ, thế thì cứ dành thời gian nghĩ đi, nhưng nghe này -- trừ khi Darion chết rồi thì thôi, còn tôi
+không có lựa chọn nào khác ngoài việc tiếp tục duy trì mọi thứ như bây giờ. Để bảo đảm an toàn cho
+mọi người. Có nghĩa là chẳng có thỏa thuận nào và cậu vẫn không được chào đón. Hiểu chứ?}
 {151}{}{Okay.}
-{152}{}{Hi. I'm still waiting for a final resolution to our troubles. In other words, kick Darion's ass!}
+{152}{}{Chào. Tôi vẫn đang chờ lời kết cuối cùng cho vấn đề này. Nói cách khác, đi đá đít Darion đi!}
 {153}{}{Đã xong.}
-{154}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you! I'm ready to accept your deal with NCR now.
- Just have them send one of their reps by and I'll seal the deal.}
+{154}{}{Cậu đã làm được rồi, anh bạn! Chúng tôi không còn phải lo về Darion nữa. Cám ơn! Tôi đã sẵn sàng để chấp nhận
+thỏa thuận với NCR rồi. Chỉ cần họ cử người đại diện đến đây và tôi sẽ chốt.}
 {155}{}{Đã xong.}
-{156}{}{Thanks for the chance of a new life. We all owe you.}
-{157}{}{Just go away. I have nothing to say to you.}
-{158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it's for.
- Rebecca says that you found some sort of entrance where they were holding Chrissy. Maybe this card will
- open it. Here, take it.}
+{156}{}{Cám ơn vì cơ hội cho một cuộc sống mới. Tất cả chúng tôi đều nợ cậu.}
+{157}{}{Đi đi. Tôi không có gì để nói cả.}
+{158}{}{Chờ đã, trước khi đi... tôi tìm thấy cái thẻ từ này trước đây không lâu, nhưng chẳng biết để làm gì.
+Rebecca nói là cậu có tìm thấy một lối vào gì đó ở chỗ chúng giam giữ Chrissy. Có thể cái thẻ này sẽ
+mở được. Đây, cầm lấy.}
 {159}{}{Cám ơn.}
-{160}{}{What can I help you with?}
-{161}{}{Just the problems with the NCR, but I think the deal you offered will solve that.}
-{162}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you!}
-{163}{}{Now that Darion's gone we don't have any way to get food. We will surely perish! Thanks a lot.}
+{160}{}{Tôi có thể giúp gì đây?}
+{161}{}{Chỉ là vấn đề với NCR, nhưng đề nghị của cậu đã giải quyết chuyện đó rồi.}
+{162}{}{Cậu làm được rồi, anh bạn! Chúng tôi không còn phải lo về Darion nữa. Cám ơn!}
+{163}{}{Giờ thì Darion không còn nữa và chúng tôi chẳng có cách nào để kiếm lương thực. Chắc chắn là chúng tôi sẽ tiêu tùng rồi! Cám ơn nhiều đấy.}
