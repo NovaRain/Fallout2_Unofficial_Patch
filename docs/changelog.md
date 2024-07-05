@@ -48,6 +48,8 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - New Reno
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/295) Cody never talking again if PC left map before he calmed down.
   - Fixed Ms. Kitty dropping the stat bonus item on the ground after Skynet got action.
+- Vault City
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/287) a voiced line in Cassidy talking head mod cutting off when talking to female PC.
 
 ### Version 29
 
