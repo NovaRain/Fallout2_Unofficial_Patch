@@ -1,40 +1,40 @@
-{100}{}{You see an old man.}
-{101}{}{You see Chris, the gas station attendant.}
-{102}{}{You see a scruffy-looking old man wearing a purple robe.}
-{103}{}{Howdy, stranger. Whoa baby! Check out that set of wheels. Ain't seen one
- of those in years. What can old Chris do for you?}
-{104}{}{Howdy, stranger. Ain't seen you around these parts before. What can old
- Chris do for you?}
-{105}{}{What this place?}
-{106}{}{Me look for Navarro. This it?}
-{107}{}{You see metal bird fly here?}
-{108}{}{You hear Enclave? They here?}
-{109}{}{Me just look around.}
+{100}{}{Bạn thấy một ông già.}
+{101}{}{Bạn thấy Chris, người trông coi trạm xăng.}
+{102}{}{Bạn thấy một ông già ăn mặc lôi thôi trong chiếc áo choàng màu tím.}
+{103}{}{Chào chào, người lạ. Ồ bé yêu ơi! Xem bộ bánh xe này. Bao năm rồi mới lại
+thấy một chiếc. Lão Chris có thể giúp gì nhỉ?}
+{104}{}{Chào chào, người lạ. Chưa thấy cậu ở đây bao giờ. Lão Chris có thể giúp
+gì đây?}
+{105}{}{Đây chỗ nào?}
+{106}{}{Ngộ tìm Navarro. Đây phải không?}
+{107}{}{Ông thấy chim sắt bay ở đây?}
+{108}{}{Ông có nghe Enclave? Họ đây?}
+{109}{}{Ngộ chỉ ngó quanh.}
 {110}{}{Đây là nơi nào?}
-{111}{}{I'm looking for Navarro. Is this it?}
-{112}{}{Have you seen any vertibirds fly through here?}
-{113}{}{Ever hear of the Enclave? Are they around here?}
-{114}{}{I'm just looking around.}
-{115}{}{This here's my place, Chris's. It's a service station - ain't you ever
- seen one of those, in old magazines and such? That's what I got here - a service
- station.}
-{116}{}{Me look for Navarro. This it?}
-{117}{}{You see metal bird fly here?}
-{118}{}{You hear Enclave? They here?}
-{119}{}{Uh... me got go.}
-{120}{}{I'm looking for Navarro. Is this it?}
-{121}{}{Have you seen any vertibirds fly through here?}
-{122}{}{Ever hear of the Enclave? Are they around here?}
-{123}{}{Sorry, got to go.}
-{124}{}{Navarro? Ain't heard that name in ages. Old military base southeast of
- San Fran, and that's a ways south of here.}
-{125}{}{Me been there. It not Navarro.}
-{126}{}{Okay. Me thank. Me look there.}
-{127}{}{You lie me. Me know Navarro here. You tell truth or me make you sorry!}
-{128}{}{I've been there and that's not Navarro.}
-{129}{}{Okay. I'll take a look there. Thanks.}
-{130}{}{You're lying. I know that Navarro's here. Tell me the truth or you'll
- be sorry!}
+{111}{}{Tôi đang tìm Navarro. Có phải ở đây không?}
+{112}{}{Ông có nhìn thấy cái máy bay trực thăng nào bay qua đây không?}
+{113}{}{Có từng nghe đến Enclave không? Họ có ở quanh đây không?}
+{114}{}{Tôi chỉ ngó quanh đây thôi.}
+{115}{}{Đây là chỗ của tôi, của Chris. Đây là trạm dịch vụ – chưa từng nhìn thấy
+trước đây, trong tạp chí cũ hoặc đại khái thế à? Đó là thứ này – một
+trạm dịch vụ.}
+{116}{}{Ngộ tìm Navarro. Đây phải không?}
+{117}{}{Ông thấy chim sắt bay ở đây?}
+{118}{}{Ông có nghe Enclave? Họ đây?}
+{119}{}{Ừ... ngộ phải đi.}
+{120}{}{Tôi đang tìm Navarro. Có phải ở đây không?}
+{121}{}{Ông có nhìn thấy cái máy bay trực thăng nào bay qua đây không?}
+{122}{}{Có từng nghe đến Enclave không? Họ có ở quanh đây không?}
+{123}{}{Xin lỗi, phải đi.}
+{124}{}{Navarro? Lâu lắm rồi chưa nghe thấy cái tên đó. Căn cứ quân sự cũ ở phía
+Đông Nam của San Fran, đi tuốt về phía Nam cơ.}
+{125}{}{Ngộ đến đó. Không phải Navarro.}
+{126}{}{Okay. Ngộ cám ơn. Ngộ xem đó.}
+{127}{}{Ông lừa ngộ. Ngộ biết Navarro đây. Ông nói thật hoặc ngộ làm ông xin lỗi!}
+{128}{}{Tôi đã ở đó và chỗ đó không phải là Navarro.}
+{129}{}{Okay, tôi sẽ đến đó xem. Cám ơn.}
+{130}{}{Ông nói dối. Tôi biết là Navarro ở đây. Nói thật đi hoặc tôi sẽ cho
+ông một trận!}
 {131}{}{Huh? Uh... Well sure it is. I heard tell of it a while back! Navarro
  military base, southeast of San Francisco.}
 {132}{}{You lie me. Me no got patience. You tell truth or me make you sorry!}
@@ -139,7 +139,7 @@
  replacements?}
 {200}{}{Wait a minute. Are you trying to say you're one of the Enclave
  replacements?}
-{201}{}{Uh... yeah.}
+{201}{}{Ừ... vậy à.}
 {202}{}{That's right.}
 {203}{}{Damn. Sorry for the hassles. I'm supposed to clear a bunch of newbies
  coming through here but I got to weed out the trash. Anyway, just go up to the gate,

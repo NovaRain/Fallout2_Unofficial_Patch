@@ -15,7 +15,5 @@ do mất nguồn cấp điện.}
 {112}{}{Có vẻ như bạn không bỏ qua được mã an ninh để kích hoạt trường lực.}
 {113}{}{Đã xong.}
 {114}{}{Bảng này quản lý máy tạo trường lực. Chỉ báo cho thấy trường lực đang tắt.}
-{115}{}{This terminal monitors the force field generators. It indicates that the force field has been
- temporarily disabled.}
-{116}{}{This terminal monitors the force field generators. It indicates that the force field has been
- compromised.}
+{115}{}{Bảng này quản lý máy tạo trường lực. Chỉ báo cho thấy trường lực đã bị tắt tạm thời.}
+{116}{}{Bảng này quản lý máy tạo trường lực. Chỉ báo cho thấy trường lực đã bị xâm nhập.}

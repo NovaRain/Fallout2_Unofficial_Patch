@@ -9,7 +9,7 @@
 {107}{}{Muốn biết gì nào?}
 {108}{}{Who you?}
 {109}{}{What you do?}
-{110}{}{What this place?}
+{110}{}{Đây chỗ nào?}
 {111}{}{Why room made no sound?}
 {112}{}{Why D'claw in other room?}
 {113}{}{Why doggie by door no move? No nothing?}
@@ -125,12 +125,12 @@
 {187}{}{Are you a civilian?}
 {188}{}{This is the med lab. The armory is down the hall on your left.}
 {189}{}{Why are you out of uniform?}
-{190}{}{Holy shit! We're being invaded! Alert!}
-{191}{}{Intruders! Call the guard!}
+{190}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
+{191}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
 {192}{}{Guard! Intruders in the med lab!}
-{193}{}{What's up? Are we under attack?}
-{194}{}{Why the alert? What's happening?}
-{195}{}{What the hell's going on?}
+{193}{}{Gì thế? Chúng ta bị tấn công à?}
+{194}{}{Sao lại báo động? Chuyện gì thế?}
+{195}{}{Cái củ lìn gì đang diễn ra thế?}
 {196}{}{I'm not a hostile, don't shoot me.}
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}

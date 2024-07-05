@@ -6,7 +6,7 @@
 {111}{}{Renew, comrade! What are you doing here? State your business to Zomak the Destroyer.}
 {112}{}{Renu!}
 {113}{}{Ook?}
-{114}{}{I'm just looking around.}
+{114}{}{Tôi chỉ ngó quanh đây thôi.}
 {115}{}{I wish to Renew.}
 {116}{}{I took a wrong turn.}
 {120}{}{You should look somewhere else, or Zomak will show you the stars.}

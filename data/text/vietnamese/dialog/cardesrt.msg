@@ -1,1 +1,1 @@
-{100}{}{Your car has run out of gas. Sure hope you are carrying some spare fuel.}
+{100}{}{Xe của bạn đã hết nhiên liệu. Hãy hi vọng là bạn có mang theo nhiên liệu dự trữ.}

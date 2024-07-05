@@ -1,5 +1,5 @@
-{100}{}{You see a weird contraption next to a force field.}
-{101}{}{You see a force-field emitter.}
-{102}{}{This is the weirdest wall you have ever seen.}
-{103}{}{This is a force-field emitter. It gives the power to the force field.}
-{104}{}{The emitter makes a whizzing sound and explodes.}
+{100}{}{Bạn thấy một thiết bị kì lạ bên cạnh trường lực.}
+{101}{}{Bạn thấy một máy phát trường lực.}
+{102}{}{Đây là bức tường kì lạ nhất mà bạn từng thấy.}
+{103}{}{Đây là một máy phát trường lực. Thiết bị này cấp nguồn cho trường lực.}
+{104}{}{Máy phát tạo ra âm thanh ong ong và phát nổ.}

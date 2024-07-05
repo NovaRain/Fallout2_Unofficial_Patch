@@ -1,11 +1,11 @@
-{100}{}{You see a tech.}
-{101}{}{You see an Enclave technician.}
-{102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
+{100}{}{Bạn thấy một kĩ thuật viên.}
+{101}{}{Bạn thấy một kĩ thuật viên của Enclave.}
+{102}{}{Bạn thấy một người mặc áo khoác phòng thí nghiệm. Ông ta trông có vẻ rất tự tin.}
 {103}{}{Yes soldier?}
-{104}{}{What this place?}
+{104}{}{Đây chỗ nào?}
 {105}{}{Ngộ chỉ chào. Ngộ đi giờ.}
 {106}{}{Đây là nơi nào?}
-{107}{}{Just saying hi. See ya.}
+{107}{}{Chỉ chào thôi. Gặp lại sau.}
 {108}{}{This is the computer room. That's the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}
 {109}{}{Oh. Uh, What you do?}
 {110}{}{So, what do you do here?}

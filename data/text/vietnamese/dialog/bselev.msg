@@ -1,8 +1,8 @@
 {100}{}{Bạn thấy một cái cửa gỗ.}
 {101}{}{Bạn thấy một cái cửa sắt.}
-{102}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe, which
- you may be able to pry open.}
+{102}{}{Bạn thấy một cánh cửa kiên cố có khóa, có thể dùng cậy khóa
+để mở, và bẫy thuốc nổ nhạy trên khung cửa mà bạn có thể
+thử cậy mở.}
 {103}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
 thuốc nổ nhạy trên khung cửa, mà bạn có thể
 thử cậy mở.}
@@ -20,9 +20,9 @@ trên khung cửa, mà bạn có thể thử cậy mở.}
 và bẫy trên khung cửa, mà bạn có thể thử cậy mở.}
 {109}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
 và bẫy trên khung cửa, mà bạn có thể thử cậy mở.}
-{110}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe, which you may be
- able to pry open.}
+{110}{}{Bạn thấy một cánh cửa kiên cố có khóa, có thể dùng cậy khóa
+để mở, và đoạn dây thép bị cắt trên khung cửa mà bạn có thể
+thử cậy mở.}
 {111}{}{Bạn thấy một cánh cửa kiên cố có khóa và đoạn dây
 thép bị đứt trên khung cửa, mà bạn có thể thử cậy mở.}
 {112}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
@@ -39,91 +39,91 @@ thử cậy mở.}
 khóa mà bạn có thể thử cậy mở.}
 {117}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ,
 rỉ sét mà bạn có thể thử cậy mở.}
-{118}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe.}
+{118}{}{Bạn thấy một cánh cửa kiên cố có khóa, có thể dùng cậy khóa
+để mở, và bẫy thuốc nổ nhạy trên khung cửa.}
 {119}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
 thuốc nổ nhạy trên khung cửa.}
 {120}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
 và bẫy thuốc nổ nhạy trên khung cửa.}
 {121}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
 và bẫy thuốc nổ nhạy trên khung cửa.}
-{122}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a trap in the doorframe.}
+{122}{}{Bạn thấy một cánh cửa kiên cố có khóa, có thể dùng cậy khóa
+để mở, và bẫy trên khung cửa.}
 {123}{}{Bạn thấy một cánh cửa kiên cố có khóa và bẫy
 trên khung cửa.}
 {124}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa
 và bẫy trên khung cửa.}
 {125}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét
 và bẫy trên khung cửa.}
-{126}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
+{126}{}{Bạn thấy một cánh cửa kiên cố có khóa, có thể dùng cậy khóa
+để mở, và đoạn dây thép bị cắt trên khung cửa.}
 {127}{}{Bạn thấy một cánh cửa kiên cố có khóa và đoạn dây thép
 bị đứt trên khung cửa.}
 {128}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa và
 đoạn dây thép bị đứt trên khung cửa.}
 {129}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ, rỉ sét và
 đoạn dây thép bị cắt trên khung cửa.}
-{130}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, on it.}
+{130}{}{Bạn thấy một cánh cửa kiên cố có khóa, có thể dung cậy khóa
+để mở.}
 {131}{}{Bạn thấy một cánh cửa kiên cố có khóa.}
 {132}{}{Bạn thấy một cánh cửa kiên cố có vẻ như không có khóa.}
 {133}{}{Bạn thấy một cánh cửa kiên cố với ổ khóa cũ kĩ,
 rỉ sét.}
-{134}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe.}
+{134}{}{Bạn thấy một cánh cửa bị hư hại có khóa, có thể dùng cậy khóa
+để mở, và bẫy thuốc nổ nhạy trên khung cửa.}
 {135}{}{Bạn thấy một cánh cửa bị hư hại có khóa và bẫy
 thuốc nổ nhạy trên khung cửa.}
 {136}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa và
 bẫy thuốc nổ nhạy trên khung cửa.}
 {137}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét và
 bẫy thuốc nổ nhạy trên khung cửa.}
-{138}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a trap in the doorframe.}
+{138}{}{Bạn thấy một cánh cửa bị hư hại có khóa, có thể dùng cậy khóa
+để mở, và bẫy trên khung cửa.}
 {139}{}{Bạn thấy một cánh cửa bị hư hại có khóa và bẫy trên
 khung cửa.}
 {140}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa và
 bẫy trên khung cửa.}
 {141}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét và
 bẫy trên khung cửa.}
-{142}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
+{142}{}{Bạn thấy một cánh cửa bị hư hại có khóa, có thể dùng cậy khóa
+để mở, và một đoạn dây thép bị cắt trên khung cửa.}
 {143}{}{Bạn thấy một cánh cửa bị hư hại có khóa và đoạn dây thép
 bị đứt trên khung cửa.}
 {144}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa và
 đoạn dây thép bị đứt trên khung cửa.}
 {145}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét và
 đoạn dây thép bị cắt trên khung cửa.}
-{146}{}{You see a damaged door with a lock, which can be picked with
- lockpicks.}
+{146}{}{Bạn thấy một cánh cửa bị hư hại có khóa, có thể dùng cậy khóa
+để mở.}
 {147}{}{Bạn thấy một cánh cửa bị hư hại có khóa.}
 {148}{}{Bạn thấy một cánh cửa bị hư hại có vẻ như không có khóa.}
 {149}{}{Bạn thấy một cánh cửa bị hư hại với ổ khóa cũ kĩ, rỉ sét.}
-{150}{}{You see an old door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe.}
+{150}{}{Bạn thấy một cánh cửa cũ có khóa, có thể dùng cậy khóa
+để mở, và bẫy thuốc nổ nhạy trên khung cửa.}
 {151}{}{Bạn thấy một cánh cửa cũ có khóa và bẫy
 thuốc nổ nhạy trên khung cửa.}
 {152}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa và
 bẫy thuốc nổ nhạy trên khung cửa.}
 {153}{}{Bạn thấy một cánh cửa cũ với ổ khóa cũ kĩ, rỉ sét và
 bẫy thuốc nổ nhạy trên khung cửa.}
-{154}{}{You see an old door with a lock, which can be picked with
- lockpicks, and a trap in the doorframe.}
+{154}{}{Bạn thấy một cánh cửa cũ có khóa, có thể dùng cậy khóa
+để mở, và bẫy trên khung cửa.}
 {155}{}{Bạn thấy một cánh cửa cũ có khóa và bẫy trên
 khung cửa.}
 {156}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa và
 bẫy trên khung cửa.}
 {157}{}{Bạn thấy một cánh cửa cũ với ổ khóa cũ kĩ, rỉ sét và
 bẫy trên khung cửa.}
-{158}{}{You see an old door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
+{158}{}{Bạn thấy một cánh cửa cũ có khóa, có thể dùng cậy khóa
+để mở, và một đoạn dây thép bị cắt trên khung cửa.}
 {159}{}{Bạn thấy một cánh cửa cũ có khóa và đoạn dây thép
 bị đứt trên khung cửa.}
 {160}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa và
 đoạn dây thép bị đứt trên khung cửa.}
 {161}{}{Bạn thấy một cánh cửa cũ với ổ khóa cũ kĩ, rỉ sét và
 đoạn dây thép bị cắt trên khung cửa.}
-{162}{}{You see an old door with a lock, which can be picked with
- lockpicks,.}
+{162}{}{Bạn thấy một cánh cửa cũ có khóa, có thể dùng cậy khóa
+để mở.}
 {163}{}{Bạn thấy một cánh cửa cũ có khóa.}
 {164}{}{Bạn thấy một cánh cửa cũ có vẻ như không có khóa.}
 {165}{}{Bạn thấy một cánh cửa với ổ khóa cũ kĩ, rỉ sét.}
@@ -138,10 +138,10 @@ bị đứt trên khung cửa.}
 {174}{}{do thiếu kĩ năng đã làm kẹt ổ khóa trên cửa.}
 {175}{}{ không cậy được khóa trên cửa.}
 {176}{}{Bạn đã phá khóa khỏi cửa.}
-{177}{}{While trying to bust the lock, you strain your back and
- take a point of damage.}
-{178}{}{While trying to bust the lock, you strain your back and
- take }
+{177}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
+nhận một điểm sát thương.}
+{178}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
+nhận }
 {179}{}{ điểm sát thương.}
 {180}{}{Bạn quá yếu để có thể phá khóa.}
 {181}{}{ đã phá khóa khỏi cửa.}
@@ -158,7 +158,7 @@ bị đứt trên khung cửa.}
 {190}{}{Bạn không khóa được cửa.}
 {191}{}{ khéo léo khóa cửa.}
 {192}{}{ không khóa được cửa.}
-{193}{}{The explosives don't even put a scratch on the door.}
+{193}{}{Thuốc nổ còn chẳng làm xước nổi cửa.}
 {194}{}{Bạn tìm thấy bẫy trên cửa.}
 {195}{}{Bạn không tìm thấy bẫy trên cửa.}
 {196}{}{Bạn khéo léo vô hiệu hóa bẫy.}
@@ -167,21 +167,19 @@ bị đứt trên khung cửa.}
 {200}{}{ không tìm thấy bẫy trên cửa.}
 {201}{}{ khéo léo vô hiệu hóa bẫy.}
 {202}{}{ không vô hiệu hóa được bẫy.}
-{203}{}{The door appears to be locked. It looks like it takes some kind of thin card as a key.}
-{204}{}{You hear the crackling of electricity running through the door.}
-{205}{}{ notices the crackling of electricity running through the door.}
-{206}{}{You are unable to place a trap on this door because
- the door is open.}
-{207}{}{ is unable to place a trap on this door because the
- door is open.}
+{203}{}{Cửa trông như bị khóa. Có vẻ như cần dùng một thẻ mỏng nào đó làm chìa.}
+{204}{}{Bạn nghe tiếng dòng điện chạy tách qua cửa.}
+{205}{}{ nghe thấy tiếng dòng điện chạy tách qua cửa.}
+{206}{}{Bạn không thể đặt bẫy trên cái cửa này vì cửa đang mở.}
+{207}{}{ không thể đặt bẫy trên cái cửa này vì cửa đang mở.}
 {208}{}{Bạn khéo léo đặt bẫy trên khung cửa.}
-{209}{}{You fail to set the trap properly in the door frame.}
+{209}{}{Bạn không đặt được bẫy đúng cách trên khung cửa.}
 {210}{}{ khéo léo đặt bẫy trên khung cửa.}
-{211}{}{ fails to set the trap properly in the door frame.}
+{211}{}{ không đặt được bẫy đúng cách trên khung cửa.}
 {300}{}{Bạn mở khóa cửa.}
 {301}{}{Bạn khóa cửa.}
 {302}{}{Bạn không thể khóa trong lúc cửa đang mở.}
 {303}{}{Chiếc chìa không vừa với ổ khóa này.}
 {320}{}{Không có cách nào để mở cánh cửa này.}
 {400}{}{Bạn mở khóa cửa.}
-{500}{}{There is no way to untrap the door.}
+{500}{}{Không có cách nào để tháo bẫy khỏi cửa.}

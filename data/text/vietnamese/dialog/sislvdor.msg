@@ -158,7 +158,7 @@ nhận }
 {190}{}{Bạn không khóa được cửa.}
 {191}{}{ khéo léo khóa cửa.}
 {192}{}{ không khóa được cửa.}
-{193}{}{The explosives don't even put a scratch on the door.}
+{193}{}{Thuốc nổ còn chẳng làm xước nổi cửa.}
 {194}{}{Bạn tìm thấy bẫy trên cửa.}
 {195}{}{Bạn không tìm thấy bẫy trên cửa.}
 {196}{}{Bạn khéo léo vô hiệu hóa bẫy.}

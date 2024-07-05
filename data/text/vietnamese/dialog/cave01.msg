@@ -1,1 +1,1 @@
-{100}{}{You hear some sounds coming from within the caves.}
+{100}{}{Bạn nghe thấy tiếng động phát ra từ trong hang.}
