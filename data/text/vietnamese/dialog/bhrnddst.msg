@@ -46,20 +46,20 @@
 {305}{}{Bạn bắt gặp mấy nông dân đang chống lại lũ cướp.}
 {306}{}{Bạn bắt gặp Đội biệt kích NCR.}
 {307}{}{Bạn bắt gặp mấy nông dân.}
-{350}{}{You encounter a slaver caravan.}
-{351}{}{You encounter highwaymen and robbers.}
-{352}{}{You encounter highwaymen.}
-{353}{}{You encounter robbers.}
-{354}{}{You encounter a caravan fending off highwaymen.}
-{355}{}{You encounter a caravan fighting robbers.}
+{350}{}{Bạn bắt gặp một đoàn buôn nô lệ.}
+{351}{}{Bạn bắt gặp cướp đường và kẻ cướp.}
+{352}{}{Bạn bắt gặp cướp đường.}
+{353}{}{Bạn bắt gặp kẻ cướp.}
+{354}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại cướp đường.}
+{355}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại kẻ cướp.}
 {356}{}{You encounter a caravan fighting highwaymen.}
 {357}{}{You encounter a caravan besieged by robbers.}
 {358}{}{You encounter a slave caravan fighting a caravan.}
 {359}{}{You encounter highwaymen fighting robbers.}
 {360}{}{Bạn bắt gặp một đoàn lữ hành.}
 {361}{}{Bạn bắt gặp một đoàn lữ hành.}
-{400}{}{You encounter highwaymen.}
-{401}{}{You encounter robbers.}
+{400}{}{Bạn bắt gặp cướp đường.}
+{401}{}{Bạn bắt gặp kẻ cướp.}
 {402}{}{You encounter robbers and highwaymen.}
 {403}{}{You encounter golden geckos and radscorpions.}
 {404}{}{Bạn bắt gặp tắc kè vàng.}
@@ -67,25 +67,25 @@
 {406}{}{Bạn bắt gặp bọ cạp.}
 {407}{}{Bạn bắt gặp cây bào tử.}
 {408}{}{You encounter robbers fighting highwaymen.}
-{409}{}{You encounter a caravan fending off highwaymen.}
+{409}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại cướp đường.}
 {410}{}{You encounter a caravan fending off robbers.}
 {411}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại bò cạp.}
 {412}{}{You encounter geckos fighting radscorpions.}
 {413}{}{Bạn bắt gặp một đoàn lữ hành.}
-{450}{}{You encounter highwaymen and robbers.}
+{450}{}{Bạn bắt gặp cướp đường và kẻ cướp.}
 {451}{}{You encounter highwaymen and geckos.}
 {452}{}{Bạn bắt gặp tắc kè vàng.}
 {453}{}{You encounter radscorpions and spore plants.}
 {454}{}{You encounter robbers fighting radscorpions.}
 {455}{}{You encounter radscorpions fighting robbers.}
-{456}{}{You encounter a caravan fending off highwaymen.}
+{456}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại cướp đường.}
 {457}{}{You encounter a caravan fending off robbers.}
 {458}{}{You encounter some highwaymen weeding out some spore plants.}
 {459}{}{Bạn bắt gặp một đoàn lữ hành.}
 {500}{}{You encounter highwaymen and wild dogs.}
 {501}{}{You encounter robbers and wild dogs.}
-{502}{}{You encounter robbers.}
-{503}{}{You encounter highwaymen.}
+{502}{}{Bạn bắt gặp kẻ cướp.}
+{503}{}{Bạn bắt gặp cướp đường.}
 {504}{}{You encounter a swarm of mantis and some spore plants.}
 {505}{}{You encounter dogs and spore plants.}
 {506}{}{You encounter a swarm of mantis.}
@@ -93,7 +93,7 @@
 {508}{}{You encounter robbers fighting dogs.}
 {509}{}{You encounter a caravan fending off dogs.}
 {510}{}{You encounter a caravan fending off robbers.}
-{511}{}{You encounter a caravan fending off highwaymen.}
+{511}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại cướp đường.}
 {512}{}{Bạn bắt gặp một đoàn lữ hành.}
 {550}{}{You encounter geckos and wolves.}
 {551}{}{You encounter claim jumpers.}
