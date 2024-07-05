@@ -1,17 +1,16 @@
-{100}{}{You see a computer terminal.}
-{101}{}{You see the control center computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{The terminal indicates that the security force field at the vault entrance has been activated
- now that power has been restored.}
-{104}{}{The terminal indicates that all security systems in the vault are off line due to power
- failure.}
-{105}{}{Turn the force field off.}
-{106}{}{Turn the force field on.}
+{100}{}{Bạn thấy một bảng máy tính.}
+{101}{}{Bạn thấy bảng máy tính của trung tâm điều khiển.}
+{102}{}{Bạn thấy một bảng máy tính thông thường. Trông có vẻ vẫn còn hoạt động và đã sẵn sàng nhập lệnh.}
+{103}{}{Bảng cho thấy rằng giờ đây trường lực bảo vệ tại cửa hầm đã được kích hoạt sau khi
+nguồn điện được khôi phục.}
+{104}{}{Bảng cho thấy rằng tất cả hệ thống bảo vệ trong hầm đã bị tắt do mất nguồn điện.}
+{105}{}{Tắt trường lực.}
+{106}{}{Bật trường lực.}
 {107}{}{Đã xong.}
-{108}{}{You give the command to deactivate the force field.}
+{108}{}{Bạn thực hiện lệnh hủy kích hoạt trường lực.}
 {109}{}{Đã xong.}
-{110}{}{You give the command to activate the force field.}
+{110}{}{Bạn thực hiện lệnh kích hoạt trường lực.}
 {111}{}{Đã xong.}
-{112}{}{The terminal indicates that the field is off by manual override.}
-{113}{}{The terminal indicates that the field system has been compromised.}
-{114}{}{The terminal indicates that the field system is off.}
+{112}{}{Bảng cho thấy rằng trường lực đã bị tắt do ghi đè thủ công.}
+{113}{}{Bảng cho thấy rằng hệ thống trường lực đã bị xâm nhập.}
+{114}{}{Bảng cho thấy rằng hệ thống trường lực đã tắt.}

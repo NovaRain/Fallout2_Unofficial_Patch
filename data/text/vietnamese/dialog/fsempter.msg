@@ -1,4 +1,4 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Bạn thấy một bảng máy tính.}
 {101}{}{You see the Emperor Computer terminal.}
 {102}{}{You see a computer with a built-in touch screen for its interface. Engraved on the side is "Emperor v8.8 Computer Terminal".}
 {103}{}{Greetings. Please enter your password to confirm your identity.}

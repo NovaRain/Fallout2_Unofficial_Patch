@@ -1,10 +1,10 @@
-{100}{}{You see a computer terminal.}
-{101}{}{You see Darion's computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{You access the computer and quickly scan all available files. Among some personal journal
- entries, you find several detailed reports on the NCR. It seems there is a spy on their council.
- You copy the reports to a holodisk.}
-{104}{}{You are having difficulty accessing the files.}
+{100}{}{Bạn thấy một bảng máy tính.}
+{101}{}{Bạn thấy bảng máy tính của Darion.}
+{102}{}{Bạn thấy một bảng máy tính thông thường. Trông có vẻ vẫn còn hoạt động và đã sẵn sàng nhập lệnh.}
+{103}{}{Bạn truy cập máy tính và nhanh chóng quét tất cả tệp có sẵn. Trong số các mục nhật kí cá nhân,
+bạn tìm thấy vài bản báo cáo chi tiết về NCR. Có vẻ như có gián điệp trong hội đồng của họ. Bạn
+sao chép bản báo cáo vào holodisk.}
+{104}{}{Bạn gặp khó khăn khi cố truy cập các tệp.}
 {105}{}{Đã xong.}
-{106}{}{Other than the information about the NCR spy, the computer contains no useful information.}
+{106}{}{Ngoài thông tin về gián điệp tại NCR, chiếc máy tính không chứa thông tin có ích nào khác.}
 {107}{}{Đã xong.}

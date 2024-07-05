@@ -2,7 +2,7 @@
 {101}{}{Bạn thấy Jordan, đang múa ngọn giáo như mọi khi.}
 {102}{}{Chúc may mắn! Ngôi làng trông chờ vào cậu.}
 {103}{}{Cứu tinh, nhìn cách cậu múa giáo thế thì chả mấy mà cậu làm mồi
-cho gecko. Tôi có thể chỉ cậu vài đường.}
+cho tắc kè. Tôi có thể chỉ cậu vài đường.}
 {104}{}{Được thôi.}
 {105}{}{Không, cám ơn.}
 {106}{}{Sẽ mất một thời gian đấy.}

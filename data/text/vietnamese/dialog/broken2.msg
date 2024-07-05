@@ -1,1 +1,1 @@
-{100}{}{Bạn đã đến phía Đông của Broken Hills.}
+{100}{}{Bạn đã đến khu phía Đông của Broken Hills.}

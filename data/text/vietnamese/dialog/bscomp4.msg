@@ -1,20 +1,20 @@
-{100}{}{You see a computer terminal.}
-{101}{}{You see the security computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{This terminal monitors the force field generators. It indicates that everything is functioning
- normally.}
-{104}{}{This terminal monitors the force field generators. It indicates that the unit is off line due
- to power failure.}
-{105}{}{Turn the force field off.}
-{106}{}{Turn the force field on.}
+{100}{}{Bạn thấy một bảng máy tính.}
+{101}{}{Bạn thấy bảng máy tính an ninh.}
+{102}{}{Bạn thấy một bảng máy tính thông thường. Trông có vẻ vẫn còn hoạt động và đã sẵn sàng nhập lệnh.}
+{103}{}{Bảng này quản lý máy tạo trường lực. Chỉ báo cho thấy rằng mọi thứ đang hoạt động
+bình thường.}
+{104}{}{Bảng này quản lý máy tạo trường lực. Chỉ báo cho thấy rằng thiết bị đang không hoạt động
+do mất nguồn cấp điện.}
+{105}{}{Tắt trường lực.}
+{106}{}{Bật trường lực.}
 {107}{}{Đã xong.}
-{108}{}{You give the command to deactivate the force field.}
-{109}{}{You can't seem to get around the security codes to deactivate the force field.}
+{108}{}{Bạn thực hiện lệnh hủy kích hoạt trường lực.}
+{109}{}{Có vẻ bạn không bỏ qua được mã an ninh để hủy kích hoạt trường lực.}
 {110}{}{Đã xong.}
-{111}{}{You give the command to activate the force field.}
-{112}{}{You can't seem to get around the security codes to activate the force field.}
+{111}{}{Bạn thực hiện lệnh kích hoạt trường lực.}
+{112}{}{Có vẻ như bạn không bỏ qua được mã an ninh để kích hoạt trường lực.}
 {113}{}{Đã xong.}
-{114}{}{This terminal monitors the force field generators. It indicates that the force field is off.}
+{114}{}{Bảng này quản lý máy tạo trường lực. Chỉ báo cho thấy trường lực đang tắt.}
 {115}{}{This terminal monitors the force field generators. It indicates that the force field has been
  temporarily disabled.}
 {116}{}{This terminal monitors the force field generators. It indicates that the force field has been

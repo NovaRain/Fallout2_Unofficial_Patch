@@ -1,2 +1,2 @@
-{100}{}{Con gecko chế giễu bạn.}
-{101}{}{Con gecko chế giễu }
+{100}{}{Con tắc kè chế giễu bạn.}
+{101}{}{Con tắc kè chế giễu }
