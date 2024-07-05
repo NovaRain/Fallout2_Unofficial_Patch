@@ -229,3 +229,4 @@
 {20005}{}{Forget it. Let's stick to the formation we have now.}
 {20006}{}{Never mind. There's nothing I need to know about your gear.}
 {20007}{}{I need you to remove that armor you're wearing.}
+{30300}{}{[Next]}

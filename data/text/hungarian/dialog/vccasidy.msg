@@ -228,3 +228,4 @@
 {20005}{}{Felejtsd el! Maradjunk a mostani formációban!}
 {20006}{}{Semmi. Nem érdekes.}
 {20007}{}{Kérlek, vedd le a páncélodat!}
+{30300}{}{[Next]}

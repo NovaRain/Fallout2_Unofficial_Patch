@@ -228,3 +228,4 @@
 {20005}{}{Laisse tomber. On va garder notre formation actuelle.}
 {20006}{}{Tant pis. Je n'ai pas besoin de savoir quoi que ce soit sur ton équipement.}
 {20007}{}{Je voudrais que tu enlèves l'armure que tu portes.}
+{30300}{}{[Next]}

@@ -228,3 +228,4 @@
 {20005}{}{Come non detto. Manteniamo la formazione che abbiamo adesso.}
 {20006}{}{Non importa. Non ho bisogno di sapere nulla riguardo al tuo equipaggiamento.}
 {20007}{}{Voglio che tu tolga l'armatura che stai indossando.}
+{30300}{}{[Next]}

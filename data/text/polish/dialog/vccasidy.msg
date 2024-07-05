@@ -228,3 +228,4 @@
 {20005}{}{Nieważne. Zostańmy przy tym szyku.}
 {20006}{}{Nieważne. Niczego nie potrzebuję wiedzieć o twoim sprzęcie.}
 {20007}{}{Zdejmij swój pancerz.}
+{30300}{}{[Next]}
