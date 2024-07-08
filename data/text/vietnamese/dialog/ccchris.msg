@@ -15,8 +15,8 @@ gì đây?}
 {112}{}{Ông có nhìn thấy cái máy bay trực thăng nào bay qua đây không?}
 {113}{}{Có từng nghe đến Enclave không? Họ có ở quanh đây không?}
 {114}{}{Tôi chỉ ngó quanh đây thôi.}
-{115}{}{Đây là chỗ của tôi, của Chris. Đây là trạm dịch vụ – chưa từng nhìn thấy
-trước đây, trong tạp chí cũ hoặc đại khái thế à? Đó là thứ này – một
+{115}{}{Đây là chỗ của lão, của Chris. Đây là trạm dịch vụ – sao, chưa từng nhìn
+thấy trước đây, trong tạp chí cũ hoặc đại khái thế à? Lão có ngay đây – một
 trạm dịch vụ.}
 {116}{}{Ngộ tìm Navarro. Đây phải không?}
 {117}{}{Ông thấy chim sắt bay ở đây?}
@@ -35,7 +35,7 @@ trạm dịch vụ.}
 {129}{}{Okay, tôi sẽ đến đó xem. Cám ơn.}
 {130}{}{Ông nói dối. Tôi biết là Navarro ở đây. Nói thật đi hoặc tôi sẽ cho
 ông một trận!}
-{131}{}{Hở? Ờ... Chắc là vậy chứ. Tôi nghe người ta nói thế trước đây! Căn cứ
+{131}{}{Hở? Ờ... Chắc là vậy chứ. Lão nghe người ta nói thế trước đây! Căn cứ
 quân sự Navarro, phía Đông Nam của San Francisco.}
 {132}{}{Ông lừa ngộ. Ngộ không có kiên nhẫn. Ông nói thật hoặc ngộ làm ông xin lỗi!}
 {133}{}{Ông nói dối. Tôi không có đủ kiên nhẫn cho mấy trò này đâu.
@@ -50,8 +50,8 @@ mấy thằng đệ sẽ cho mày thấy ăn đòn là như thế nào! (bắt �
 {140}{}{Này, tôi biến khỏi đây ngay.}
 {141}{}{(nói vào radio) Báo động! Chúng ta có kẻ đột nhập tại trạm! Báo động!}
 {142}{}{[XONG]}
-{143}{}{Ồ, nói chuyện vui đấy. Tôi có lời khuyên này – khu này chẳng có quái gì
-ngoài hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Nếu là cậu tôi sẽ đi về phía đó.}
+{143}{}{Ồ, nói chuyện vui đấy. Lão khuyên này – khu này chẳng có quái gì ngoài
+hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Cậu nên đi về phía đó.}
 {144}{}{Cám ơn.}
 {145}{}{Chim sắt? Ồ, ý cậu là máy bay trực thăng. Nào tại sao cậu lại đến đây
 để hỏi thế?}
@@ -70,8 +70,8 @@ quanh và ăn mất người thì ông ta bú cần quá độ rồi. Hiểu ch�
 {154}{}{Hakunin pháp sư vĩ đại. Nếu ông nói ông thấy thì ông thấy.}
 {155}{}{Hakunin là một pháp sư rất giỏi. Nếu ông ta nói có thấy máy bay trực thăng,
 thì chắc chắn là có thấy!}
-{156}{}{Ồ, việc đó đéo liên quan gì đến tôi cả, nhưng cứ cho là nếu tôi có thấy
-đi thì tôi phải nói với ai?}
+{156}{}{Ồ, việc đó đéo liên quan gì đến lão cả, nhưng cứ cho là nếu có thấy
+đi thì lão phải nói với ai?}
 {157}{}{Ông nói ngộ. Ngộ ở quanh.}
 {158}{}{Nói Shi.}
 {159}{}{Nói Hội bằng hữu Thép.}
@@ -84,53 +84,51 @@ hoặc Hubologist. Mọi người quan tâm.}
 {165}{}{Ông có thể nói cho Hubologist.}
 {166}{}{Chọn thôi. Ông có thể nói cho đám người Shi hay Hội bằng hữu Thép
 hoặc đám Hubologist. Có vẻ như bọn họ đều quan tâm đến máy bay trực thăng.}
-{167}{}{Đám người Shi hả? Ồ, nếu cậu nói vậy. Tôi sẽ gửi lời đến khu
-phố Tàu. Giờ thì tôi có việc rồi.}
+{167}{}{Đám người Shi hả? Ồ, nếu cậu nói vậy. Lão sẽ gửi lời đến khu
+phố Tàu. Giờ thì lão có việc rồi.}
 {168}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
-hoặc mọi thứ sẽ tung cả lên!}
-{169}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
- they tell me Navarro is here. Now you tell me where or things will get messy!}
-{170}{}{The Brotherhood... Uh, yeah, well, I'll do just that. Meanwhile,
- I got things to do.}
+hoặc mọi thứ tan tành!}
+{169}{}{Chờ đã, ông bạn. Dĩ nhiên là tôi có mấy đồng đội cực băm và họ bảo
+với tôi là Navarro ở đây. Giờ thì phun ra địa chỉ hoặc tôi cho ông tan xác ngay!}
+{170}{}{Hội bằng hữu... ừ, ồ, lão sẽ làm vậy. Giờ lão có việc rồi.}
 {171}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
-hoặc mọi thứ sẽ tung cả lên!}
-{172}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
- they tell me Navarro is here. Now you tell me where or things will get messy!}
-{173}{}{The Hubs? Yeah, sure, I'll send word if something comes up.
- Meanwhile, I got things to do.}
+hoặc mọi thứ tan tành!}
+{172}{}{Chờ đã, ông bạn. Dĩ nhiên là tôi có mấy đồng đội cực băm và họ bảo
+với tôi là Navarro ở đây. Giờ thì phun ra địa chỉ hoặc tôi cho ông tan xác ngay!}
+{173}{}{Đám Hub à? Ờ, rồi, lão sẽ nhắn cho họ nếu phát hiện được gì.
+Giờ lão có việc rồi.}
 {174}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
-hoặc mọi thứ sẽ tung cả lên!}
-{175}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
- they tell me Navarro is here. Now you tell me where or things will get messy!}
-{176}{}{Damn, that's a hell of a list... Uh, well, if something comes up
- I'll... Yeah, well, I got some things to do.}
-{177}{}{Wait. Me have strong friends. They say Navarro here. You tell where
- or things get messy!}
-{178}{}{Wait a minute, pal. Obviously, I've got some powerful friends and they
- tell me Navarro is here. Now you tell me where or things will get messy!}
-{179}{}{Uh... Hey, I'm just told to shy off visitors and such. I don't want
- the kind of trouble you're talking.}
-{180}{}{Then tell best way in base... now!}
-{181}{}{Then I would suggest you tell me the best way into the base... now!}
-{182}{}{I suppose that would be through the trap door in the floor of my room.
- Just go and leave me be.}
+hoặc mọi thứ tan tành!}
+{175}{}{Chờ đã, ông bạn. Dĩ nhiên là tôi có mấy đồng đội cực băm và họ bảo
+với tôi là Navarro ở đây. Giờ thì phun ra địa chỉ hoặc tôi cho ông tan xác ngay!}
+{176}{}{Mẹ kiếp, danh sách khủng vãi... Ừ, rồi, nếu phát hiện thấy gì
+thì lão sẽ... ờ, lão có việc phải làm.}
+{177}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
+hoặc mọi thứ tan tành!}
+{178}{}{Chờ đã, ông bạn. Dĩ nhiên là tôi có mấy đồng đội cực băm và họ bảo
+với tôi là Navarro ở đây. Giờ thì phun ra địa chỉ hoặc tôi cho ông tan xác ngay!}
+{179}{}{Ờ... Này, lão chỉ được dặn là đuổi những ai đến đây, đại loại thế.
+Lão không muốn gặp rắc rối như cậu bảo.}
+{180}{}{Vậy nói lối nhanh nhất vào căn cứ... ngay!}
+{181}{}{Vậy thì tôi khuyên ông nên nói cho tôi lối dễ nhất để vào căn cứ... ngay bây giờ!}
+{182}{}{Chắc là đi lối qua cửa sập trên sàn trong phòng tôi. Hãy đi đi và để
+tôi được yên.}
 {183}{}{Được, ngộ đi.}
-{184}{}{All right. I'll do that.}
-{185}{}{I know they fly over here from time to time. They're usually heading
- south toward San Fran. If you're interested in vertibirds, I'd head there.}
-{186}{}{Okay, me try there.}
-{187}{}{Me have friends who want me find vertibirds. Friends say vertibirds
- come here.}
-{188}{}{Okay, I'll head that way.}
-{189}{}{Look, I have some friends who want me to find vertibirds. They say
- they come from here.}
-{190}{}{Enclave? That a group or something? That don't ring no chimes
- with me. What you want with 'em?}
-{191}{}{Me want join.}
-{192}{}{I want to join.}
-{193}{}{Join up? You're a tribal! What makes you think they'd want a tribal?}
-{194}{}{Join up? You're a tribal! What makes you think they'd want a tribal,
- and his posse no less?}
+{184}{}{Được rồi. Tôi sẽ làm vậy.}
+{185}{}{Tôi biết là thỉnh thoảng họ có bay qua đây. Họ thường tiến về phía Nam
+hướng San Fran. Nếu cậu quan tâm đến máy bay trực thăng thì nên đi về phía đó.}
+{186}{}{Okay, ngộ thử đó.}
+{187}{}{Ngộ có bạn muốn ngộ tìm máy bay. Bạn nói máy bay đến đây.}
+{188}{}{Được, tôi sẽ đi theo lối đó.}
+{189}{}{Nghe này, tôi có mấy người bạn nhờ tôi tìm máy bay trực thăng. Họ nói
+chúng đến từ đây.}
+{190}{}{Enclave? Một nhóm gì đấy à? Chưa nghe đến lần nào. Thế cậu
+muốn làm gì với họ?}
+{191}{}{Ngộ muốn gia nhập.}
+{192}{}{Tôi muốn tham gia.}
+{193}{}{Gia nhập? Cậu chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn một gã toọc chứ?}
+{194}{}{Gia nhập? Cậu chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn
+một gã toọc tay không tấc sắt chứ?}
 {195}{}{Me serious. Me join Enclave.}
 {196}{}{Me serious. Me Join Enclave.}
 {197}{}{I'm serious. I'm looking to join the Enclave.}
