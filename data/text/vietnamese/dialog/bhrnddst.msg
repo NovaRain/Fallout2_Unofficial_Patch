@@ -38,11 +38,11 @@
 {259}{}{Bạn bắt gặp một đoàn lữ hành.}
 {260}{}{Bạn bắt gặp một đoàn lữ hành.}
 {261}{}{Bạn bắt gặp một người phiêu lưu.}
-{300}{}{Bạn bắt gặp một toán thất trận từ đội quân của Ông trùm.}
+{300}{}{Bạn bắt gặp nhóm tàn quân của Ông trùm.}
 {301}{}{Bạn bắt gặp lũ cướp.}
-{302}{}{Bạn bắt gặp Đội biệt kích NCR đang chiến đấu với toán thất trận từ đội quân của Ông trùm.}
+{302}{}{Bạn bắt gặp Đội biệt kích NCR đang chiến đấu với một nhóm tàn quân của Ông trùm.}
 {303}{}{Bạn bắt gặp Đội biệt kích NCR đang chiến đấu với lũ cướp.}
-{304}{}{Bạn bắt gặp mấy nông dân đang chống lại toán thất trận từ đội quân của Ông trùm.}
+{304}{}{Bạn bắt gặp mấy nông dân đang chống lại nhóm tàn quân của Ông trùm.}
 {305}{}{Bạn bắt gặp mấy nông dân đang chống lại lũ cướp.}
 {306}{}{Bạn bắt gặp Đội biệt kích NCR.}
 {307}{}{Bạn bắt gặp mấy nông dân.}
@@ -133,8 +133,8 @@
 {704}{}{Bạn bắt gặp mấy tên phạm đang chiến đấu với một băng đảng.}
 {705}{}{Bạn bắt gặp mấy tên tội phạm.}
 {706}{}{Bạn bắt gặp một người phiêu lưu.}
-{750}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại toán thất trận từ đội quân của Ông trùm.}
-{751}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với toán thất trận từ đội quân của Ông trùm.}
+{750}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại nhóm tàn quân của Ông trùm.}
+{751}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với nhóm tàn quân của Ông trùm.}
 {752}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với deathclaw.}
 {753}{}{Bạn bắt gặp một đoàn lữ hành.}
 {754}{}{Bạn bắt gặp một đoàn lữ hành.}

@@ -28,7 +28,7 @@ trạm dịch vụ.}
 {123}{}{Xin lỗi, phải đi.}
 {124}{}{Navarro? Lâu lắm rồi chưa nghe thấy cái tên đó. Căn cứ quân sự cũ ở phía
 Đông Nam của San Fran, đi tuốt về phía Nam cơ.}
-{125}{}{Ngộ đến đó. Không phải Navarro.}
+{125}{}{Ngộ ở đó. Không phải Navarro.}
 {126}{}{Okay. Ngộ cám ơn. Ngộ xem đó.}
 {127}{}{Ông lừa ngộ. Ngộ biết Navarro đây. Ông nói thật hoặc ngộ làm ông xin lỗi!}
 {128}{}{Tôi đã ở đó và chỗ đó không phải là Navarro.}
@@ -65,41 +65,41 @@ bắt cóc người trong tộc. Tôi đến đây để tìm họ.}
 {151}{}{Tôi biết mấy người đang quan tâm đến máy bay trực thăng. Tôi
 đang cố định vị chúng cho họ.}
 {152}{}{Vậy là ông biết về máy bay trực thăng. Hãy nói những gì ông biết đi.}
-{153}{}{Pháp sư? Nghe này; nếu pháp sư của cậu nói rằng ông ta thấy chim bay
+{153}{}{Pháp sư? Nghe này; nếu tay thầy pháp của cậu nói rằng ông ta thấy chim lượn
 quanh và ăn mất người thì ông ta bú cần quá độ rồi. Hiểu chứ?}
-{154}{}{Hakunin great shaman. If he say he see then he see.}
-{155}{}{Hakunin was a great shaman. If he says he saw vertibirds, then he
- saw them!}
-{156}{}{Well, that doesn't mean anything to me, but in case I see one of
- these vertibirds, whom should I be telling?}
-{157}{}{You tell me. Me be around.}
-{158}{}{Tell Shi.}
-{159}{}{Tell Brotherhood of Steel.}
-{160}{}{Tell Hubologists.}
-{161}{}{Take pick. You tell Shi or Brotherhood of Steel or Hubologists.
- Everybody interested.}
-{162}{}{You tell me. I'll be around.}
-{163}{}{You can tell the Shi.}
-{164}{}{You can tell the Brotherhood of Steel.}
-{165}{}{You can tell the Hubologists.}
-{166}{}{Take your pick. You can tell the Shi or the Brotherhood of Steel
- or the Hubologists. Everybody seems to be interested in vertibirds.}
-{167}{}{The Shi, huh? Well if you say so. I'll send word to 'em down in
- Chiny town. Meanwhile, I got things to do.}
-{168}{}{Wait. Me have strong friends. They say Navarro here. You tell
- where or things get messy!}
+{154}{}{Hakunin pháp sư vĩ đại. Nếu ông nói ông thấy thì ông thấy.}
+{155}{}{Hakunin là một pháp sư rất giỏi. Nếu ông ta nói có thấy máy bay trực thăng,
+thì chắc chắn là có thấy!}
+{156}{}{Ồ, việc đó đéo liên quan gì đến tôi cả, nhưng cứ cho là nếu tôi có thấy
+đi thì tôi phải nói với ai?}
+{157}{}{Ông nói ngộ. Ngộ ở quanh.}
+{158}{}{Nói Shi.}
+{159}{}{Nói Hội bằng hữu Thép.}
+{160}{}{Nói Hubologist.}
+{161}{}{Chọn thôi. Ông nói cho Shi hay Hội bằng hữu Thép
+hoặc Hubologist. Mọi người quan tâm.}
+{162}{}{Hãy nói với tôi. Tôi sẽ ở quanh đây.}
+{163}{}{Ông có thể nói cho đám người Shi.}
+{164}{}{Ông có thể nói cho Hội bằng hữu Thép.}
+{165}{}{Ông có thể nói cho Hubologist.}
+{166}{}{Chọn thôi. Ông có thể nói cho đám người Shi hay Hội bằng hữu Thép
+hoặc đám Hubologist. Có vẻ như bọn họ đều quan tâm đến máy bay trực thăng.}
+{167}{}{Đám người Shi hả? Ồ, nếu cậu nói vậy. Tôi sẽ gửi lời đến khu
+phố Tàu. Giờ thì tôi có việc rồi.}
+{168}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
+hoặc mọi thứ sẽ tung cả lên!}
 {169}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
  they tell me Navarro is here. Now you tell me where or things will get messy!}
 {170}{}{The Brotherhood... Uh, yeah, well, I'll do just that. Meanwhile,
  I got things to do.}
-{171}{}{Wait. Me have strong friends. They say Navarro here. You tell
- where or things get messy!}
+{171}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
+hoặc mọi thứ sẽ tung cả lên!}
 {172}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
  they tell me Navarro is here. Now you tell me where or things will get messy!}
 {173}{}{The Hubs? Yeah, sure, I'll send word if something comes up.
  Meanwhile, I got things to do.}
-{174}{}{Wait. Me have strong friends. They say Navarro here. You tell
- where or things get messy!}
+{174}{}{Chờ đã. Ngộ có bạn mạnh. Họ bảo Navarro đây. Ông nói ở đâu
+hoặc mọi thứ sẽ tung cả lên!}
 {175}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
  they tell me Navarro is here. Now you tell me where or things will get messy!}
 {176}{}{Damn, that's a hell of a list... Uh, well, if something comes up
