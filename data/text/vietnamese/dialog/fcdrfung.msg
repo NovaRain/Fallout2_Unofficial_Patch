@@ -78,7 +78,7 @@
 {192}{}{Cám ơn. Tạm biệt.}
 {193}{}{Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.}
 {194}{}{Thanks! I have more questions.}
-{195}{}{Thanks!}
+{195}{}{Cám ơn!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
 {197}{}{Đúng vậy.}
 {198}{}{Không.}

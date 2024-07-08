@@ -129,40 +129,40 @@ muốn làm gì với họ?}
 {193}{}{Gia nhập? Cậu chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn một gã toọc chứ?}
 {194}{}{Gia nhập? Cậu chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn
 một gã toọc tay không tấc sắt chứ?}
-{195}{}{Me serious. Me join Enclave.}
-{196}{}{Me serious. Me Join Enclave.}
-{197}{}{I'm serious. I'm looking to join the Enclave.}
-{198}{}{I'm serious. I'm looking to join the Enclave.}
-{199}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
- replacements?}
-{200}{}{Wait a minute. Are you trying to say you're one of the Enclave
- replacements?}
+{195}{}{Ngộ nghiêm túc. Ngộ gia nhập Enclave.}
+{196}{}{Ngộ nghiêm túc. Ngộ gia nhập Enclave.}
+{197}{}{Nghiêm túc đấy. Tôi muốn gia nhập Enclave.}
+{198}{}{Nghiêm túc đấy. Tôi muốn gia nhập Enclave.}
+{199}{}{Chờ đã, đầu đất. Có phải cậu đang muốn nói rằng cậu là một lính dự bị
+của Enclave?}
+{200}{}{Chờ đã. Có phải cậu đang muốn nói rằng cậu là một lính dự bị
+của Enclave?}
 {201}{}{Ừ... vậy à.}
-{202}{}{That's right.}
-{203}{}{Damn. Sorry for the hassles. I'm supposed to clear a bunch of newbies
- coming through here but I got to weed out the trash. Anyway, just go up to the gate,
- through the woods there, and give 'em the password. It's 'sheepshead.' Oh, and stay on the path!}
-{204}{}{Thanks!}
-{205}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
- replacements? If that's the case, then why aren't you alone?}
-{206}{}{Wait a minute. Are you trying to say you're one of the Enclave
- replacements? If that's the case, then why aren't you alone?}
-{207}{}{Uh... escort?}
-{208}{}{I hired an escort!}
-{209}{}{Well, I don't mean to be rude or nothing, but this here's private property.
- If you're going to be poking around somewhere, don't be doing it here.}
+{202}{}{Đúng vậy.}
+{203}{}{Mẹ nó. Thứ lỗi vì đã vặn vẹo. Lão cần đón một lũ tân binh đến đây nhưng
+vẫn phải tống cổ lũ đần ra ngoài. Mà thôi, cứ đi qua khu rừng thẳng đến chỗ cổng,
+rồi đọc mật khẩu: "đầu cừu". Ồ, nhớ đi theo đúng lối mòn đấy!}
+{204}{}{Cám ơn!}
+{205}{}{Chờ đã, đầu đất. Có phải cậu đang muốn nói rằng cậu là một lính dự bị
+của Enclave? Nếu vậy thì tại sao cậu lại không đi một mình?}
+{206}{}{Chờ đã. Có phải cậu đang muốn nói rằng cậu là một lính dự bị
+của Enclave? Nếu vậy thì tại sao cậu lại không đi một mình?}
+{207}{}{Ừm... hộ tống?}
+{208}{}{Tôi thuê đoàn hộ tống!}
+{209}{}{Ồ, lão không muốn bất lịch sự đâu nhưng chỗ này là tài sản tư nhân.
+Nếu muốn đi lụi đồ ở khu này thì đừng có mò đến đây.}
 {210}{}{[XONG]}
-{211}{}{You're back. What can old Chris help you with?}
-{212}{}{You tell me Navarro south. You lie! Me here for truth.}
-{213}{}{You told me Navarro was to the south, old man. Now I want to know the truth.}
-{214}{}{You look familiar. Old Chris thinks he's seen you before... Nope, can't be.}
-{215}{}{Intruder at the station! Send help!}
-{216}{}{Sound the alarm!}
-{217}{}{Intruder alert! Intruder alert!}
-{218}{}{Die, scum!}
-{219}{}{The Enclave will promote me for killing you!}
-{220}{}{Die, outsider!}
-{221}{}{What the...?!}
+{211}{}{Quay lại rồi à. Lão Chris giúp gì được đây?}
+{212}{}{Ông nói Navarro phía Nam. Ông lừa! Ngộ ở đây vì sự thật.}
+{213}{}{Ông đã bảo tôi là Navarro ở phía Nam, lão già. Giờ thì tôi muốn biết sự thật.}
+{214}{}{Trông quen thế. Lão Chris nghĩ là lão gặp cậu trước đây rồi... Không, làm đéo có chuyện.}
+{215}{}{Có kẻ đột nhập đến trạm! Gửi tiếp viện ngay!}
+{216}{}{Rung chuông báo động ngay!}
+{217}{}{Có kẻ đột nhập! Có kẻ đột nhập!}
+{218}{}{Chết đi, đồ chó chết!}
+{219}{}{Enclace sẽ thăng chức cho tao nếu giết được mày!}
+{220}{}{Chết đi, thằng người ngoài!}
+{221}{}{Cái đm...?!}
 {222}{}{You use radio and me make you sorry!}
 {223}{}{You use that radio and I'll make you sorry!}
 {224}{}{Fuck you! You want to see sorry? I got some boys who'll show you a
