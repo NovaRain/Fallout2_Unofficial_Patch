@@ -58,7 +58,7 @@
 {163}{}{Those were the wild ones, but I'm sure that's what happened to mine. Now I know why Mom always kept a close eye on her.}
 {164}{}{How sad.}
 {165}{}{I'm sorry.}
-{166}{}{Oh...}
+{166}{}{Ồ...}
 {167}{}{It makes me sad to think about it...}
 {168}{}{Chào.}
 {169}{}{Stacy told you a sweet story about her darling cat Cuddles.}

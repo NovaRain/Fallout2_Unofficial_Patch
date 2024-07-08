@@ -40,29 +40,29 @@ của ta quan trọng hơn nhu cầu y tế tối thiểu của đám lính ở 
 ta đã chuyển thành phòng thí nghiệm.}
 {132}{}{Hay... thật đấy.}
 {133}{}{Hay đấy. Cho tôi biết việc khác đi.}
-{134}{}{Why room made no sound? Oh, you mean the soundproofing! In the
- course of my research I perform... experiments on test subjects.
- Sometimes they get a little vocal. The base commander found this to
- be disturbing so he had the soundproofing installed.}
-{135}{}{In the course of my research I perform... experiments on test
- subjects. Sometimes they get a little vocal. The base commander found
- this to be disturbing so he had the soundproofing installed.}
-{136}{}{Oh...}
+{134}{}{Sao phòng không có tiếng động? Ồ, ý cậu là cách âm! Trong lúc nghiên cứu
+ta thực hiện... thí nghiệm trên mẫu vật. Đôi khi chúng hơi kêu một chút.
+Chỉ huy căn cứ thấy việc này làm phiền quá nên ông ta cho lắp phần
+cách âm.}
+{135}{}{Trong lúc nghiên cứu ta thực hiện... thí nghiệm trên mẫu vật. Đôi khi
+chúng hơi kêu một chút. Chỉ huy căn cứ thấy việc này làm phiền quá
+nên ông ta cho lắp phần cách âm.}
+{136}{}{Ồ...}
 {137}{}{Hiểu rồi.}
-{138}{}{Big, brown, and ugly? It's an experiment that I've recently
- completed. It's scheduled for termination.}
-{139}{}{What termination mean?}
-{140}{}{Why are you going to kill it?}
-{141}{}{Oh my... Aren't you the bright one? Terminate. Kill, put down,
- put to sleep, make dead. Get it?}
-{142}{}{Me got. Why you want kill D'claw?}
-{143}{}{The Enclave has been looking for cheap, expendable soldiers.
- We are interested in deathclaws because they have built in armor and
- weapons, and they're mean as hell. They just need to be smarter so
- they can understand commands but not too smart or they could develop
- a will of their own. With me so far?}
-{144}{}{Uh... Yeah.}
-{145}{}{Yes, I follow you.}
+{138}{}{Bự cồ, nâu và xấu xí? Đó là một thí nghiệm mà ta mới hoàn thiện
+gần đây. Thứ đó sẽ bị loại bỏ theo lịch trình.}
+{139}{}{Loại bỏ nghĩa gì?}
+{140}{}{Sao ông lại muốn giết nó?}
+{141}{}{Ồ... cậu có vẻ khôn nhỉ? Loại bỏ. Giết, hạ gục, cho ngủ,
+làm chết. Hiểu chứ?}
+{142}{}{Ngộ hiểu. Sao ông muốn giết D'claw?}
+{143}{}{Enclave đang tìm nguồn lính rẻ, dễ dàng thay thế. Chúng ta
+quan tâm đến deathclaw vì chúng có sẵn giáp và vũ khí, cũng như
+có tập tính hung hăng. Chúng chỉ cần thông minh hơn một chút
+để hiểu lệnh, nhưng không được khôn đến mức có
+suy nghĩ riêng. Đến đây vẫn hiểu chứ?}
+{144}{}{Ờ... có.}
+{145}{}{Có, tôi vẫn đang nghe đây.}
 {146}{}{Well, we succeeded! We actually managed to increase their
  intelligence. However, I began to suspect that we went too far.
  That maybe they were a lot smarter than they were letting on. So
@@ -113,7 +113,7 @@ ta đã chuyển thành phòng thí nghiệm.}
 {179}{}{As punishment I disabled his legs but left him pretty much
  functional otherwise. Now he gets to sit there and watch every
  distasteful thing I do.}
-{180}{}{Oh...}
+{180}{}{Ồ...}
 {181}{}{He be fixed?}
 {182}{}{Hiểu rồi.}
 {183}{}{Can he be fixed?}
