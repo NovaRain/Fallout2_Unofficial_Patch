@@ -5,14 +5,14 @@
 {103}{}{Stop. You not go here. This place off limits.}
 {104}{}{Okay. Me go.}
 {105}{}{Đây chỗ nào?}
-{106}{}{Who you?}
+{106}{}{Ai ông?}
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
 {109}{}{Đây là nơi nào?}
 {110}{}{Ông là ai?}
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
-{113}{}{Who you?}
+{113}{}{Ai ông?}
 {114}{}{Ngộ đi giờ.}
 {115}{}{I'll be leaving then.}
 {116}{}{Ông là ai?}

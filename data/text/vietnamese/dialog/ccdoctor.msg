@@ -1,45 +1,45 @@
-{100}{}{You see a scientist.}
-{101}{}{You see Dr. Schreber.}
-{102}{}{You see a balding man in a lab coat.}
-{103}{}{I hope you have a good reason for interrupting my work, soldier.}
-{104}{}{Me want ask questions.}
-{105}{}{No, me come back later.}
-{106}{}{Very well. I have to live with you grunts so I might as well make
- an effort to get along with you.}
+{100}{}{Bạn thấy một nhà khoa học.}
+{101}{}{Bạn thấy Tiến sĩ Schreber.}
+{102}{}{Bạn thấy một ông hói mặc áo choàng thí nghiệm.}
+{103}{}{Ta hi vọng là cậu có lí do chính đáng để làm phiền ta đấy, đồ lính quèn.}
+{104}{}{Ngộ muốn hỏi câu.}
+{105}{}{Không, ngộ quay lại sau.}
+{106}{}{Được rồi. Ta phải sống cạnh mấy gã lính quèn nên chắc là ta sẽ cố thử
+làm quen với cậu.}
 {107}{}{Muốn biết gì nào?}
-{108}{}{Who you?}
-{109}{}{What you do?}
+{108}{}{Ai ông?}
+{109}{}{Ông làm gì?}
 {110}{}{Đây chỗ nào?}
-{111}{}{Why room made no sound?}
-{112}{}{Why D'claw in other room?}
-{113}{}{Why doggie by door no move? No nothing?}
-{114}{}{Me got go now.}
+{111}{}{Sao phòng không có tiếng?}
+{112}{}{Sao D'claw ở phòng khác?}
+{113}{}{Sao chó cạnh cửa không chạy? Không gì cả?}
+{114}{}{Ngộ đi giờ.}
 {115}{}{Ông là ai?}
-{116}{}{What do you do here?}
+{116}{}{Ông làm gì ở đây?}
 {117}{}{Đây là nơi nào?}
-{118}{}{Why is this room soundproofed?}
-{119}{}{Why is there a deathclaw in the other room?}
-{120}{}{What's with the dog statue by the door?}
-{121}{}{I must go now.}
-{122}{}{My name is Schreber, Dr. Schreber. I'm the base physician among
- other things. Don't bother with your name, soldier. All of you grunts look
- the same in that armor of yours.}
+{118}{}{Sao căn phòng này lại được cách âm thế?}
+{119}{}{Sao lại có con deathclaw ở phòng bên thế?}
+{120}{}{Cái tượng chó ở cạnh cửa là sao thế?}
+{121}{}{Tôi phải đi giờ.}
+{122}{}{Tên ta là Schreber, Tiến sĩ Schreber. Ta là bác sĩ của căn cứ và làm cả những
+thứ khác nữa. Không cần nói tên đâu, lính quèn. Tất cả các người đều trông
+y hệt nhau trong cái bộ giáp đấy.}
 {123}{}{Okay.}
 {124}{}{Hiểu rồi.}
-{125}{}{I work as the base physician but that's just a sideline. Actually,
- I'm a geneticist.}
-{126}{}{What that?}
-{127}{}{What's a geneticist?}
-{128}{}{I really don't think you have the intellectual capacity to
- understand my work, soldier. Let's just say that I can 'customize' people
- or animals.}
-{129}{}{Yeah... sure.}
-{130}{}{Yeah... I need to ask you a couple more things.}
-{131}{}{This was the base med lab. However, I felt that my experiments
- took precedence over the minimal medical needs of the soldiers here so
- I had it converted into a lab.}
-{132}{}{How... nice.}
-{133}{}{That's nice. So tell me something else.}
+{125}{}{Ta làm bác sĩ cho căn cứ nhưng thực chất đấy chỉ là phụ thôi.
+Thực ra ta là nhà di truyền học.}
+{126}{}{Gì vậy?}
+{127}{}{Di truyền học là gì?}
+{128}{}{Ta thực sự không nghĩ cậu có đủ trí thông minh để hiểu công việc
+của ta đâu, lính quèn. Chỉ cần hiểu là ta có thể "tùy chỉnh" người
+hoặc động vật.}
+{129}{}{Ờ... được rồi.}
+{130}{}{Ờ... tôi cần hỏi ông thêm mấy câu nữa.}
+{131}{}{Đây là phòng thuốc của căn cứ. Tuy nhiên, ta thấy rằng thí nghiệm
+của ta quan trọng hơn nhu cầu y tế tối thiểu của đám lính ở đây nên
+ta đã chuyển thành phòng thí nghiệm.}
+{132}{}{Hay... thật đấy.}
+{133}{}{Hay đấy. Cho tôi biết việc khác đi.}
 {134}{}{Why room made no sound? Oh, you mean the soundproofing! In the
  course of my research I perform... experiments on test subjects.
  Sometimes they get a little vocal. The base commander found this to

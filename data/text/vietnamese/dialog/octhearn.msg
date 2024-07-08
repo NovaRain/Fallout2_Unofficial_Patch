@@ -4,8 +4,8 @@
  claws.}
 {103}{}{Forgive. I no speak well. I try talk you.}
 {104}{}{You want what?}
-{105}{}{Who you?}
-{106}{}{What you do?}
+{105}{}{Ai ông?}
+{106}{}{Ông làm gì?}
 {107}{}{How smart you?}
 {108}{}{Ngộ đi giờ.}
 {109}{}{Ông là ai?}

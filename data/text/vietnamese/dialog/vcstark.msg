@@ -44,7 +44,7 @@
 {143}{}{Sergeant Stark... sir. Did you need something?}
 {144}{}{I am Citizen SERGEANT Stark, Citizen. Was there something I could help you with?}
 {145}{}{I am Citizen SERGEANT Stark, Outsider. What do you want?}
-{146}{}{What do you do here?}
+{146}{}{Ông làm gì ở đây?}
 {147}{}{Can you tell me where the Vault is?}
 {148}{}{Nothing, sorry to disturb you.}
 {149}{}{I do YOUR job, sir.}
@@ -265,7 +265,7 @@
 {363}{}{You got some kind of problem, Sergeant?}
 {364}{}{You the one who busted up Cassidy's bar?}
 {365}{}{Have you heard of a Servant named Joshua?}
-{366}{}{What do you do here?}
+{366}{}{Ông làm gì ở đây?}
 {367}{}{Can you tell me where the Vault is?}
 {368}{}{I surveyed the area around Gecko for you.}
 {369}{}{Got any more recon work for me?}

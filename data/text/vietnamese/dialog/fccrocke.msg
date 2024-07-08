@@ -6,7 +6,7 @@
 {105}{}{Dr. Jing sent me. He wants some hardened power armor.}
 {106}{}{You can upgrade power armor?}
 {107}{}{Ông là ai?}
-{108}{}{What do you do here?}
+{108}{}{Ông làm gì ở đây?}
 {109}{}{Nothing, thanks.}
 {110}{}{I swear, there are more subhumans running around every single day. Shoo! Shoo!}
 {111}{}{Awww.}

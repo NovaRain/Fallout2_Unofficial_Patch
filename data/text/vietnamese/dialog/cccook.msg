@@ -25,12 +25,12 @@ Cứt bôi trên gạch ngói là bò thái miếng trên đĩa nướng. Tuyế
 {125}{}{Muốn nghe tin gậm giường không? Tôi có thể nói cho cậu về chuyện mới nhất ở phòng bảo trì, phòng thí nghiệm hoặc của đám lính.}
 {126}{}{Muốn nghe chuyện gì nào?}
 {127}{}{Phòng bảo trì thì sao?}
-{128}{}{Phòng thuốc thì sao?}
+{128}{}{Phòng thí nghiệm thì sao?}
 {129}{}{Đám lính thì sao?}
 {130}{}{Gì nữa không?}
 {131}{}{Ngộ nghe đủ rồi.}
 {132}{}{Phòng bảo trì có chuyện gì thế?}
-{133}{}{Ông có tin gì về phòng thuốc không?}
+{133}{}{Ông có tin gì về phòng thí nghiệm không?}
 {134}{}{Đám lính có gì hay ho không?}
 {135}{}{Có chuyện gì nữa không?}
 {136}{}{Tôi nghĩ là mình nghe đủ rồi.}
@@ -43,52 +43,52 @@ còn Quincy thì khá ổn. Tôi hi vọng là ông ta cuối cùng sẽ thắng
 đến ai hoặc gì hết cả. Lão đang làm thí nghiệm gì đó trên deathclaw ở dưới đó, nhưng tôi không biết là làm gì.
 Dù sao thì lão ta cũng gây ra đủ loại tiếng động cho đến khi chỉ huy ra lệnh ốp cách âm cả căn phòng đó.}
 {141}{}{Hiểu rồi.}
-{142}{}{That's interesting. }
-{143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
-{144}{}{Cute.}
-{145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
+{142}{}{Hay đấy.}
+{143}{}{Ha! Đến phần ái tình rồi, anh bạn. Có vẻ như một con nghiện máy tính đã yêu một cô lính gác ở phía ngoài phòng thí nghiệm. Thậm chí còn đặt tên tình củm cho cô ta nữa, gọi là "Snookie" mới hài chứ.}
+{144}{}{Đáng yêu đấy.}
+{145}{}{Nà, hết chuyện ở đây rồi. Nếu nghe thêm được gì tôi sẽ nói thêm sau. Tôi thích kể lại những gì mà tôi nghe được!}
 {146}{}{Cám ơn.}
-{147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
+{147}{}{Sao cậu lại quan tâm đến thứ đó? Ồ mà chả sao. Quincy giữ chúng trong phòng bảo trì, tôi nghĩ thế.}
 {148}{}{Okay.}
-{149}{}{Where that?}
+{149}{}{Đâu vậy?}
 {150}{}{Hiểu rồi.}
-{151}{}{Where's that?}
-{152}{}{Northeast corner of the base, friend. Can't miss it.}
+{151}{}{Ở chỗ nào thế?}
+{152}{}{Góc phía Đông Bắc của căn cứ, bạn tôi à. Đến là thấy.}
 {153}{}{Okay. Cám ơn.}
-{156}{}{I'm surprised ya don't know, ya must be a local, I guess. Anyway, main base's in the middle of the goddamned
- ocean. Well, not smack ass in the middle, but it might as well be. Only way to get there is by ship or vertibird
- and the damn ship's been tinkered with. Ya need a fob to operate the damn thing.}
+{156}{}{Tôi thấy lạ là cậu lại không biết đấy, chắc cậu là dân địa phương. Còn căn cứ chính thì nằm ở chính con mẹ nó
+giữa biển. Ồ, không hẳn là giữa lỗ đít lắm, nhưng cũng gần như vậy. Cách duy nhất để đến đó là bằng tàu hoặc
+máy bay nhưng con tàu chết tiệt đã bị sửa đổi rồi. Cần một cái thẻ fob để vận hành mớ sắt vụn đấy.}
 {157}{}{Fob?}
-{158}{}{Yeah, a passkey. Commander keeps it in his office. Without it ya can't access some areas of the ship and that
- keeps the locals down in San Fran from paying an unwelcome visit.}
-{159}{}{Good idea.}
-{160}{}{Where commander office?}
-{161}{}{That's a good idea.}
-{162}{}{So where's the commander's office?}
-{163}{}{Take the elevator in the next room down, follow the hallway to the main junction, and go straight. }
+{158}{}{Ừ, một mã khóa. Chỉ huy để ở trong văn phòng của ông ta. Thiếu cái đó thì cậu sẽ không thể vào một số khu vực
+trên tàu và đấy là cách để giữ chân đám thổ dân San Fran khỏi chèo thuyền đến chơi vô phép.}
+{159}{}{Ý hay đó.}
+{160}{}{Phòng chỉ huy đâu?}
+{161}{}{Đấy là một ý hay.}
+{162}{}{Thế phòng chỉ huy ở chỗ nào vậy?}
+{163}{}{Đi thang máy ở phòng bên cạnh xuống, dọc theo lối hành lang đến chỗ lối giao chính rồi đi thẳng.}
 {164}{}{Cám ơn.}
-{165}{}{Hey, soldier. Good to hear from you again. Grub or talk this time?}
-{166}{}{Food.}
-{167}{}{Chitchat.}
-{168}{}{Me just say hi.}
-{169}{}{Neither, I'm just saying hi.}
-{170}{}{Here ya go. It's dead, it's cooked, it's unidentifiable. Enjoy.}
-{171}{}{Uh... Thanks.}
-{172}{}{Son, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{174}{}{Where that?}
+{165}{}{Này, bạn tôi. Rất vui được gặp lại. Thích ăn hay nói chuyện nào?}
+{166}{}{Đồ ăn.}
+{167}{}{Tán gẫu.}
+{168}{}{Ngộ chỉ chào thôi.}
+{169}{}{Không gì cả, tôi chỉ chào thôi.}
+{170}{}{Đây. Đã chết, đã nướng, đéo biết thịt gì. Ăn đi.}
+{171}{}{Ờ... cám ơn.}
+{172}{}{Con giai, ngửi mùi thôi là bố biết mày đang không mặc áo giáp năng lượng rồi. Nếu Sarge mà
+nhìn thấy mày không mặc quân phục là đi đời đấy. Và bố đang nói về kiểu đi đời mà mày sẽ không thích đâu. Giờ thì lê đít xuống phòng hậu cần mặc đồ vào.}
+{173}{}{Quý cô, ngửi mùi thôi là bố biết là cô đang không mặc áo giáp năng lượng rồi. Nếu Sarge mà
+nhìn thấy cô không mặc quân phục là đi đời đấy. Và bố đang nói về kiểu đi đời mà cô không thích đâu. Giờ thì lê đít xuống phòng hậu cần mặc đồ vào.}
+{174}{}{Đâu vậy?}
 {175}{}{Okay.}
-{176}{}{Where's that?}
-{177}{}{I'll take care of it.}
-{178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}
+{176}{}{Ở chỗ nào thế?}
+{177}{}{Tôi sẽ lo việc đó.}
+{178}{}{Đi thang máy ở phòng bên cạnh xuống, dọc theo lối hành lang đến chỗ lối giao chính, rẽ trái rồi vào phòng đầu tiên bên trái. Đi đi.}
 {179}{}{Cám ơn.}
-{180}{}{Holy shit! I'm just a cook... and a blind one at that. I didn't see any intruders come through here.}
+{180}{}{Giời đất ơi! Tôi chỉ là đầu bếp... và tôi bị mù. Tôi đéo thấy kẻ đột nhập nào đi qua đây cả.}
 {181}{}{Cám ơn.}
-{182}{}{Damned alarms. Always such a ruckus when they go off.}
-{183}{}{What the hell is that damn thing going on about this time?}
-{184}{}{I wish to hell we'd use silent alarms, damn thing gives me a headache.}
-{185}{}{I'm gonna fry your ass up and serve it on a plate.}
-{186}{}{Your goose is cooked. Ha! I made a funny!}
-{187}{}{Out of the frying pan and into the fire.}
+{182}{}{Đm báo động. Lúc nào cũng loạn cả lên mỗi lần rung.}
+{183}{}{Cái lìn gì khiến cái củ cặc này rung thế?}
+{184}{}{Ước gì chúng ta dùng chuông báo không ồn, cái củ cặc này khiến tôi đau hết cả đầu.}
+{185}{}{Bố sẽ nướng cặp mông mày lên và bày trên đĩa.}
+{186}{}{Ngỗng chín rồi đấy. Ha! Câu này hay đấy!}
+{187}{}{Bay khỏi chảo chui zô lửa.}

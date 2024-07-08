@@ -3,7 +3,7 @@
 {102}{}{You see a Shi gangster, dressed in silken clothing. His hands are calloused and hard. He seems dangerous and poisonous.}
 {103}{}{Muốn gì?}
 {104}{}{Daggle aggle aggle!}
-{105}{}{Who you?}
+{105}{}{Ai ông?}
 {106}{}{Who was that you were fighting?}
 {107}{}{Ông là ai?}
 {108}{}{I want to learn to fight like you. Teach me.}

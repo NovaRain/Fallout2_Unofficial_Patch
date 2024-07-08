@@ -8,7 +8,7 @@
 {107}{}{Muốn gì?}
 {108}{}{Da... oooh...}
 {109}{}{Ông là ai?}
-{110}{}{What do you do here?}
+{110}{}{Ông làm gì ở đây?}
 {111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
 {112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}
 {113}{}{You want me to talk Vikki up for you?}

@@ -8,7 +8,7 @@
 {106}{}{Yes, I'd like to ask you some questions.}
 {107}{}{No, I'll be leaving.}
 {108}{}{Muốn gì?}
-{109}{}{Who you?}
+{109}{}{Ai ông?}
 {110}{}{You prisoner?}
 {111}{}{Ngộ đi giờ.}
 {112}{}{Ông là ai?}

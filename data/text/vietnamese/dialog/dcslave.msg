@@ -28,7 +28,7 @@
 {331}{}{Leave us alone, slaver!}
 {332}{}{Don't hurt me!}
 {333}{}{Get away from me!}
-{350}{}{Who you?}
+{350}{}{Ai ông?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}
 {353}{}{Friend?}
