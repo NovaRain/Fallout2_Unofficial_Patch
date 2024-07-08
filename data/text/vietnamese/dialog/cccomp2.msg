@@ -6,35 +6,35 @@
 {105}{}{Ngộ chỉ chào. Ngộ đi giờ.}
 {106}{}{Đây là nơi nào?}
 {107}{}{Chỉ chào thôi. Gặp lại sau.}
-{108}{}{This is the computer room. That's the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}
-{109}{}{Oh. Uh, what you do?}
-{110}{}{So, what do you do here?}
-{111}{}{I'm the senior computer analyst. I get to maintain all of the equipment here.}
-{112}{}{Oh. Me use computer?}
-{113}{}{Me no understand. Me go.}
-{114}{}{Say, can I use the system for a minute? You know, check it out?}
-{115}{}{Hey, nice talking to you. I'll see you later.}
-{116}{}{Well... I'm not supposed to allow anyone other than trained personnel to use the equipment. It's all rather complex and delicate, you understand.}
-{117}{}{Please? Me no break.}
-{118}{}{I promise not to break it.}
-{119}{}{All right. You can access the system from the terminal over there. Just be careful, please. They'll shoot us both if you damage that machine. Oh, the guest password is 'Snookie.'}
-{120}{}{I'm sorry but it's out of the question. I'm not even supposed to allow enlisted personnel in the room let alone allow them to use the equipment.}
-{121}{}{Snookie? What is snookie?}
-{122}{}{Ok. Me understand.}
-{123}{}{Snookie? What the hell is a snookie?}
-{124}{}{All right. I understand.}
-{125}{}{'Snookie' is my girlfriend's nickname. I think it's cute. That's her out in the hall by the way. She's one of the guards.}
-{126}{}{Ok, fine. Thanks.}
-{127}{}{Yeah... cute. Thanks.}
-{128}{}{You're out of uniform. }
-{129}{}{You better suit up. Armory is down the hall on the left.}
-{130}{}{You're taking a big chance being out of uniform. You better report to supply.}
-{131}{}{Who the hell are you guys... Alert! Intruders!}
-{132}{}{We've been infiltrated! Alert!}
-{133}{}{Multiple intruders! Sound the alarm!}
-{134}{}{Shit! Get the backups started.}
-{135}{}{Shut down all classified operations.}
-{136}{}{Secure the system and enable all security passwords.}
-{137}{}{I'm a scientist, not a fighter!}
-{138}{}{Pointy end with the laser diode goes toward the enemy. Then pull trigger.}
-{139}{}{Help! Help! To the computer lab!}
+{108}{}{Đây là phòng máy tính. Máy chủ ở đó, bảng giao diện bên cạnh, còn đống này là thiết bị lưu trữ dữ liệu dạng băng holotape. Đây là thiết bị mới và tân tiến nhất.}
+{109}{}{Ồ. Ừ, ông làm gì?}
+{110}{}{Vậy ông làm gì ở đây?}
+{111}{}{Tôi là chuyên viên phân tích máy tính cấp cao. Tôi lo việc bảo dưỡng toàn bộ thiết bị ở đây.}
+{112}{}{Ồ. Ngộ dùng máy tính?}
+{113}{}{Ngộ không hiểu. Ngộ đi.}
+{114}{}{Này, tôi có thể dùng hệ thống một chút không? Thế nào nhỉ, kiểm tra thôi?}
+{115}{}{Này, nói chuyện vui đấy. Gặp lại sau nhé.}
+{116}{}{Ồ... tôi không được phép để cho người không được đào tạo sử dụng thiết bị. Tất cả chúng đều khá là phức tạp và dễ hỏng mà.}
+{117}{}{Làm ơn? Ngộ không phá.}
+{118}{}{Tôi hứa là sẽ không làm hỏng gì đâu.}
+{119}{}{Được rồi. Cậu có thể truy cập vào hệ thống bằng bảng kia. Nhớ cẩn thận đấy. Họ sẽ bắn cả đôi nếu cậu làm hỏng cái máy đó. Ồ, mật khẩu dành cho khách là "Snookie".}
+{120}{}{Tôi rất tiếc nhưng không thể được. Tôi thậm chí còn không được phép để người vào trong phòng chứ đừng nói là để họ sử dụng thiết bị.}
+{121}{}{Snookie? Snookie nào?}
+{122}{}{Ok. Ngộ hiểu.}
+{123}{}{Snookie? Snookie là cái quái gì thế?}
+{124}{}{Được rồi. Tôi hiểu.}
+{125}{}{"Snookie" là biệt danh của bạn gái tôi. Dễ thương chứ hả? Mà cô ấy đứng ngoài hành lang kìa. Cô ấy là một lính gác.}
+{126}{}{Ok, được rồi. Cám ơn.}
+{127}{}{Ừ... dễ thương. Cám ơn.}
+{128}{}{Cậu đang không mặc quân phục. }
+{129}{}{Tốt hơn hết là nên đi mặc đồ vào. Kho khí giới ở cuối hành lang bên trái.}
+{130}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
+{131}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
+{132}{}{Chúng ta đã bị xâm nhập! Báo động!}
+{133}{}{Có nhiều kẻ đột nhập! Rung chuông báo động lên!}
+{134}{}{Cứt thật! Cho cứu viện bắt đầu vào đi.}
+{135}{}{Đóng tất cả các hoạt động bí mật.}
+{136}{}{Bảo vệ hệ thống và bật tất cả mật khẩu an ninh.}
+{137}{}{Tôi là nhà khoa học, không phải lính chiến!}
+{138}{}{Chiếu đầu nhọn của mũi laser về hướng kẻ địch. Rồi bóp cò.}
+{139}{}{Cứu! Cứu! Chạy về phía phòng lab máy tính!}

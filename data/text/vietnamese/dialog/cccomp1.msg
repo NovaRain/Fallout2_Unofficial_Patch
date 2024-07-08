@@ -1,18 +1,18 @@
 {100}{}{Bạn thấy một kĩ thuật viên.}
-{101}{}{You see a computer tech.}
-{102}{}{You see someone wearing a lab coat, complete with pocket protector and a stash of pens.}
-{103}{}{Good day, soldier.}
-{104}{}{Please don't touch anything.}
-{105}{}{You grunts are not supposed to be in here.}
-{106}{}{You're out of uniform. }
-{107}{}{You better suit up. Armory is down the hall on the left.}
-{108}{}{You're taking a big chance being out of uniform. You better report to supply.}
-{109}{}{Who the hell are you guys... Alert! Intruders!}
-{110}{}{We've been infiltrated! Alert!}
-{111}{}{Multiple intruders! Sound the alarm!}
-{112}{}{Shit! Get the backups started.}
-{113}{}{Shut down all classified operations.}
-{114}{}{Secure the system and enable all security passwords.}
-{115}{}{I'm a scientist, not a fighter!}
-{116}{}{Pointy end with the laser diode goes toward the enemy. Then pull trigger.}
-{117}{}{Help! Help! To the computer lab!}
+{101}{}{Bạn thấy một kĩ sư máy tính.}
+{102}{}{Bạn thấy một người mặc áo khoác phòng thí nghiệm, đéo túi bảo vệ và một mớ bút.}
+{103}{}{Xin chào, cậu lính.}
+{104}{}{Vui lòng đừng chạm vào thứ gì.}
+{105}{}{Lính cấp thấp đáng ra không được vào đây.}
+{106}{}{Cậu đang không mặc quân phục. }
+{107}{}{Tốt hơn hết là nên đi mặc đồ vào. Kho khí giới ở cuối hành lang bên trái.}
+{108}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
+{109}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
+{110}{}{Chúng ta đã bị xâm nhập! Báo động!}
+{111}{}{Có nhiều kẻ đột nhập! Rung chuông báo động lên!}
+{112}{}{Cứt thật! Cho cứu viện bắt đầu vào đi.}
+{113}{}{Đóng tất cả các hoạt động bí mật.}
+{114}{}{Bảo vệ hệ thống và bật tất cả mật khẩu an ninh.}
+{115}{}{Tôi là nhà khoa học, không phải lính chiến!}
+{116}{}{Chiếu đầu nhọn của mũi laser về hướng kẻ địch. Rồi bóp cò.}
+{117}{}{Cứu! Cứu! Chạy về phía phòng lab máy tính!}

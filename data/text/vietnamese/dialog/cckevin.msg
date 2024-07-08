@@ -7,13 +7,13 @@
 {202}{}{I'm just a junior mechanic. You'll want to talk to Quincy.}
 {300}{}{You're out of uniform.}
 {301}{}{You better suit up soldier.}
-{302}{}{You're taking a big chance being out of uniform. You better report to supply.}
-{400}{}{Who the hell are you guys... Alert! Intruders!}
-{401}{}{We've been infiltrated! Alert!}
-{402}{}{Multiple intruders! Sound the alarm!}
-{500}{}{Shit! Get the backups started.}
-{501}{}{Shut down all classified operations.}
-{502}{}{Secure the system and enable all security passwords.}
+{302}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
+{400}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
+{401}{}{Chúng ta đã bị xâm nhập! Báo động!}
+{402}{}{Có nhiều kẻ đột nhập! Rung chuông báo động lên!}
+{500}{}{Cứt thật! Cho cứu viện bắt đầu vào đi.}
+{501}{}{Đóng tất cả các hoạt động bí mật.}
+{502}{}{Bảo vệ hệ thống và bật tất cả mật khẩu an ninh.}
 {600}{}{I'm a mechanic, not a fighter!}
 {601}{}{Pointy end with the laser diode goes toward the enemy. Then pull the trigger.}
 {602}{}{Help! Help! To maintenance!}

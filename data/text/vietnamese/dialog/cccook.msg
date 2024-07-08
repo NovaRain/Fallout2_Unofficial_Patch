@@ -1,47 +1,47 @@
-{100}{}{You see a cook.}
-{101}{}{You see Cookie, the cook.}
-{102}{}{You see a man in armor wearing a chef's hat and an apron.}
-{103}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
-{104}{}{Me want food.}
+{100}{}{Bạn thấy một đầu bếp.}
+{101}{}{Bạn thấy Cookie, đầu bếp.}
+{102}{}{Bạn thấy một người mặc giáp đội mũ đầu bếp và quàng tạp dề.}
+{103}{}{Này cậu lính. Cậu đang kiếm đồ bỏ mồm hay muốn nói chuyện thế?}
+{104}{}{Ngộ muốn ăn.}
 {105}{}{Ngộ muốn chuyện.}
-{106}{}{I could use something to eat.}
-{107}{}{Let's chat a while.}
-{108}{}{Well, here ya go. Have some shit on a shingle. The snow and fly shit's over there. Anything else?}
-{109}{}{What you want me eat?}
-{110}{}{Shit? Snow? What the hell kind of food is this?}
-{111}{}{I'm sorry, ya must be new to the army. Don't take offense to what I said, that's just what we call stuff here.
- Shit on a shingle's chipped beef on toast. Snow and fly shit's another name for salt and pepper.}
-{112}{}{Oh... thanks. We talk while eat.}
-{113}{}{Got it, sorry. Let's chat while I eat.}
-{114}{}{What ya want to talk about?}
+{106}{}{Tôi muốn ăn món gì đó.}
+{107}{}{Hãy nói chuyện một lát.}
+{108}{}{Ồ, đây. Cứt bôi trên gạch ngói. Tuyết và cứt ruồi ở đằng kia. Gì nữa không?}
+{109}{}{Ông muốn ngộ ăn gì?}
+{110}{}{Cứt? Tuyết? Đây là món lìn gì thế?}
+{111}{}{Tôi xin lỗi, chắc hẳn cậu là lính mới. Tôi không có ý chửi bới gì đâu, ở đây chúng tôi gọi đồ ăn như vậy.
+Cứt bôi trên gạch ngói là bò thái miếng trên đĩa nướng. Tuyết và cứt ruồi là tên khác của muối và tiêu.}
+{112}{}{Ồ... cám ơn. Chúng ta nói chuyện khi ăn.}
+{113}{}{Được rồi, xin lỗi. Hãy nói chuyện trong lúc tôi ăn.}
+{114}{}{Muốn nói chuyện gì nào?}
 {115}{}{Có chuyện gì thế?}
-{116}{}{Where vertibird plans?}
-{118}{}{Where main base at?}
-{119}{}{Me need get back on duty. Thanks.}
+{116}{}{Bản vẽ máy bay ở đâu?}
+{118}{}{Căn cứ chính ở đâu?}
+{119}{}{Ngộ cần quay lại nhiệm vụ. Cám ơn.}
 {120}{}{Chuyện gì đang diễn ra ở đây thế?}
-{121}{}{I'm interested in the vertibirds. If I wanted to look at the plans, where could I find them?}
-{123}{}{Where's the Enclave main base located?}
-{124}{}{Thanks. I need to get back to my duty post.}
-{125}{}{Looking for some gossip? I could give ya the latest on what's happening in maintenance, med lab, or among the grunts.}
-{126}{}{What ya want to hear?}
-{127}{}{What about maintenance?}
-{128}{}{What about med lab?}
-{129}{}{What about grunts?}
-{130}{}{Anything else?}
-{131}{}{Me hear enough.}
-{132}{}{What's going on in maintenance?}
-{133}{}{What can you tell me about med lab?}
-{134}{}{What about us grunts?}
-{135}{}{Anything else happening?}
-{136}{}{I've heard enough, I think.}
-{137}{}{Raul, the vertibird mechanic, doesn't like Quincy, the head of maintenance. Those two are always
- getting into it. I don't think it's a case of professional rivalry either. Anyway, Raul's an arrogant
- ass but Quincy's an okay kind of guy. I hope he wins in the end.}
+{121}{}{Tôi đang quan tâm tới cái máy bay trực thăng. Nếu muốn xem bản vẽ thì tôi có thể tìm ở đâu nhỉ?}
+{123}{}{Căn cứ chính của Enclave nằm ở đâu thế?}
+{124}{}{Cám ơn. Tôi cần phải quay về chỗ trực đây.}
+{125}{}{Muốn nghe tin gậm giường không? Tôi có thể nói cho cậu về chuyện mới nhất ở phòng bảo trì, phòng thí nghiệm hoặc của đám lính.}
+{126}{}{Muốn nghe chuyện gì nào?}
+{127}{}{Phòng bảo trì thì sao?}
+{128}{}{Phòng thuốc thì sao?}
+{129}{}{Đám lính thì sao?}
+{130}{}{Gì nữa không?}
+{131}{}{Ngộ nghe đủ rồi.}
+{132}{}{Phòng bảo trì có chuyện gì thế?}
+{133}{}{Ông có tin gì về phòng thuốc không?}
+{134}{}{Đám lính có gì hay ho không?}
+{135}{}{Có chuyện gì nữa không?}
+{136}{}{Tôi nghĩ là mình nghe đủ rồi.}
+{137}{}{Raul, thợ cơ khí máy bay trực thăng không thích Quincy, trưởng phòng bảo trì. Hai người bọn họ
+lúc nào cũng hục hặc nhau. Tôi không nghĩ đấy là do nghề nghiệp. Dù sao thì Raul là một gã kiêu ngạo
+còn Quincy thì khá ổn. Tôi hi vọng là ông ta cuối cùng sẽ thắng.}
 {138}{}{Okay.}
-{139}{}{Yeah, I hear you.}
-{140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
- for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
- what though. Anyway, he was making all kinds of noise until the commander ordered the room soundproofed.}
+{139}{}{Ờ, chắc vậy.}
+{140}{}{Phòng thí nghiệm do một lão hói từ Enclave tên là Schreber nắm quyền. Đm cái loại sống chó; đéo quan tâm
+đến ai hoặc gì hết cả. Lão đang làm thí nghiệm gì đó trên deathclaw ở dưới đó, nhưng tôi không biết là làm gì.
+Dù sao thì lão ta cũng gây ra đủ loại tiếng động cho đến khi chỉ huy ra lệnh ốp cách âm cả căn phòng đó.}
 {141}{}{Hiểu rồi.}
 {142}{}{That's interesting. }
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}

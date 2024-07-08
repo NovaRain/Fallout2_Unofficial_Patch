@@ -6,10 +6,10 @@
 {105}{}{Shouldn't you be at your post, soldier? It's not good to wander about here.}
 {106}{}{You're out of uniform.}
 {107}{}{You better report to the Sarge and get suited up.}
-{108}{}{You're taking a big chance being out of uniform. You better report to supply.}
-{109}{}{Who the hell are you guys... Alert! Intruders!}
-{110}{}{We've been infiltrated! Alert!}
-{111}{}{Multiple intruders! Sound the alarm!}
+{108}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
+{109}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
+{110}{}{Chúng ta đã bị xâm nhập! Báo động!}
+{111}{}{Có nhiều kẻ đột nhập! Rung chuông báo động lên!}
 {112}{}{Security alert! Seal the base!}
 {113}{}{Secure all stations! We're on alert!}
 {114}{}{Intruder alert! Go code red!}

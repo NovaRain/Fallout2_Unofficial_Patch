@@ -33,15 +33,15 @@ trạm dịch vụ.}
 {127}{}{Ông lừa ngộ. Ngộ biết Navarro đây. Ông nói thật hoặc ngộ làm ông xin lỗi!}
 {128}{}{Tôi đã ở đó và chỗ đó không phải là Navarro.}
 {129}{}{Okay, tôi sẽ đến đó xem. Cám ơn.}
-{130}{}{Ông nói dối. Tôi biết là Navarro ở đây. Nói thật đi hoặc tôi sẽ cho
-ông một trận!}
+{130}{}{Ông nói dối. Tôi biết là Navarro ở đây. Nói thật đi hoặc tôi sẽ khiến
+ông thấy hối hận!}
 {131}{}{Hở? Ờ... Chắc là vậy chứ. Lão nghe người ta nói thế trước đây! Căn cứ
 quân sự Navarro, phía Đông Nam của San Francisco.}
 {132}{}{Ông lừa ngộ. Ngộ không có kiên nhẫn. Ông nói thật hoặc ngộ làm ông xin lỗi!}
 {133}{}{Ông nói dối. Tôi không có đủ kiên nhẫn cho mấy trò này đâu.
-Nói thật ngay hoặc tôi sẽ cho ông một trận.}
-{134}{}{Đmm! (lấy từ trong áo ra đài radio) Mày muốn dần tao á? Tao có
-mấy thằng đệ sẽ cho mày thấy ăn đòn là như thế nào! (bắt đầu bật đài radio lên)}
+Nói thật ngay hoặc tôi sẽ khiến ông thấy hối hận.}
+{134}{}{Đmm! (lấy từ trong áo ra đài radio) Mày muốn thấy hối hận à? Tao có mấy
+thằng đệ sẽ cho mày thấy hối hận là thế nào! (bắt đầu bật đài lên)}
 {135}{}{Ngộ giết ông chết!}
 {136}{}{Ông làm gì giờ?}
 {137}{}{Ngộ đi.}
@@ -141,7 +141,7 @@ của Enclave?}
 {202}{}{Đúng vậy.}
 {203}{}{Mẹ nó. Thứ lỗi vì đã vặn vẹo. Lão cần đón một lũ tân binh đến đây nhưng
 vẫn phải tống cổ lũ đần ra ngoài. Mà thôi, cứ đi qua khu rừng thẳng đến chỗ cổng,
-rồi đọc mật khẩu: "đầu cừu". Ồ, nhớ đi theo đúng lối mòn đấy!}
+rồi đọc mật khẩu: "đầu bò". Ồ, nhớ đi theo đúng lối mòn đấy!}
 {204}{}{Cám ơn!}
 {205}{}{Chờ đã, đầu đất. Có phải cậu đang muốn nói rằng cậu là một lính dự bị
 của Enclave? Nếu vậy thì tại sao cậu lại không đi một mình?}
@@ -163,18 +163,18 @@ Nếu muốn đi lụi đồ ở khu này thì đừng có mò đến đây.}
 {219}{}{Enclace sẽ thăng chức cho tao nếu giết được mày!}
 {220}{}{Chết đi, thằng người ngoài!}
 {221}{}{Cái đm...?!}
-{222}{}{You use radio and me make you sorry!}
-{223}{}{You use that radio and I'll make you sorry!}
-{224}{}{Fuck you! You want to see sorry? I got some boys who'll show you a
- whole new meaning for the word! (starts to turn the radio on)}
+{222}{}{Ông dùng radio và ngộ làm ông xin lỗi!}
+{223}{}{Ông mà dùng đài radio là tôi sẽ khiến ông thấy hối hận đấy!}
+{224}{}{Đmm! Mày muốn thấy hối hận à? Tao có mấy thằng đệ sẽ cho
+mày thấy hối hận là thế nào! (bắt đầu bật đài lên)}
 {225}{}{Ngộ giết ông chết!}
 {226}{}{Ông làm gì giờ?}
 {227}{}{Ngộ đi.}
 {228}{}{Nước đi sai lầm rồi, ông bạn.}
 {229}{}{Ông nghĩ mình đang làm cái quái gì thế?}
 {230}{}{Này, tôi biến khỏi đây ngay.}
-{231}{}{Yeah, right.}
-{232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
-{233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
-{800}{}{You conned Chris to give you the password.}
-{810}{}{You killed Chris before he could warn the base.}
+{231}{}{Ờ, đúng vậy.}
+{232}{}{Lão ta lấy đài radio ra. Lão sẽ báo động cho toàn căn cứ! Phải xử lí lão thật nhanh.}
+{233}{}{Ôi, không. Lão lấy ra hộp nói. Lão nói về ngộ. Phải dừng lão.}
+{800}{}{Bạn đã lừa Chris nói mật khẩu cho bạn.}
+{810}{}{Bạn đã giết Chris trước khi lão ta kịp báo cho căn cứ.}

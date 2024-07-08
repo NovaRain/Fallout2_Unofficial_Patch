@@ -46,9 +46,9 @@
 {145}{}{Okay.}
 {146}{}{You must be looking for the armory. Go back down the hall, turn right, and it's the first door on the left. You'll get your issue there.}
 {147}{}{Cám ơn.}
-{148}{}{Who the hell are you guys... Alert! Intruders!}
-{149}{}{We've been infiltrated! Alert!}
-{150}{}{Multiple intruders! Sound the alarm!}
+{148}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
+{149}{}{Chúng ta đã bị xâm nhập! Báo động!}
+{150}{}{Có nhiều kẻ đột nhập! Rung chuông báo động lên!}
 {151}{}{Security alert! Seal the base!}
 {152}{}{Secure all stations! We're on alert!}
 {153}{}{Intruder alert! Go code red!}

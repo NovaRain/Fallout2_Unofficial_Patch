@@ -55,7 +55,7 @@
 {205}{}{Lost?}
 {206}{}{Come back anytime.}
 {207}{}{OK. Bye.}
-{208}{}{Yeah, right.}
+{208}{}{Ờ, đúng vậy.}
 {209}{}{Whoo!}
 {210}{}{Gặp lại sau.}
 {211}{}{Chào.}

@@ -17,7 +17,7 @@
 [As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[XONG]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
-{118}{}{So, what do you do here?}
+{118}{}{Vậy ông làm gì ở đây?}
 {119}{}{What brought you down?}
 {120}{}{Cám ơn. Tạm biệt.}
 {121}{}{I show these guys how to move their data and I answer stupid questions all day long.}
