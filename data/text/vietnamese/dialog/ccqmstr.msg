@@ -35,10 +35,10 @@
 {126}{}{Đúng vậy.}
 {127}{}{This base is on alert and I don't recognize you. Show me your
  papers, soldier.}
-{128}{}{Me not have papers with on me.}
-{129}{}{Me no need papers!}
-{130}{}{I don't have my papers with me. They're in my footlocker.}
-{131}{}{Papers? I've got your papers right here!}
+{128}{}{Ngộ không có giấy tờ theo người.}
+{129}{}{Ngộ không cần giấy tờ!}
+{130}{}{Tôi không mang theo giấy tờ. Chúng ở trong hòm đồ rồi.}
+{131}{}{Giấy tờ? Tôi có giấy tờ ở đây này!}
 {132}{}{Wrong answer. You're to carry your papers with you at all times
  and you should know that!}
-{133}{}{Oops.}
+{133}{}{Chẹp.}

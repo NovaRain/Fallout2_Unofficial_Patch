@@ -18,7 +18,7 @@
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
 {117}{}{Chào.}
 {118}{}{It's the enemy! Die!}
-{119}{}{Oops.}
+{119}{}{Chẹp.}
 {120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
 {121}{}{Really? Then why didn't you report that to Marcus?}
 {122}{}{Are you duff? If I go to tell it, a lot of people in this town won't even look at me. Besides I might get some kind of revenge.}

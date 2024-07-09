@@ -1,60 +1,60 @@
 {100}{}{Bạn thấy Trung sĩ huấn luyện.}
 {101}{}{Bạn thấy Trung sĩ Dornan.}
-{102}{}{You see a man wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{sgnt1a}{Welcome to Camp Navarro... a civilian! How in the hell did a civilian get on this base! I'll have someone's ass for dinner! Get this civilian off government property.}
-{104}{sgnt1b}{Welcome to Camp Navarro... civilians! How the hell did civilians get on this base! I'll have someone's ass for dinner! Get these civilians off government property.}
-{105}{}{Wait. I...}
-{106}{sgnt2a}{Well I'll be damned. I had you escorted off this base and here you are again. I don't think you're a civilian after all. More than likely you're a spy! Sound the alarm and execute this maggot!}
-{107}{sgnt2b}{Well I'll be damned. I had the bunch of you escorted off this base and here you are again. I don't think you're civilians after all. More than likely you're all spies! Sound the alarm and execute these maggots!}
-{108}{sgnt3}{Welcome to Camp Navarro. So, you're the replacement. What's your name, private?}
-{109}{}{Uh... me }
-{110}{}{I'm }
-{111}{sgnt4}{Oh, lovely. They've sent me a mo-ron. Listen closely. You will stand guard at the hangar. This is your duty post. You will go there now and stay on guard until told otherwise. Now move it, soldier!}
+{102}{}{Bạn thấy một người đàn ông mặc power armor được thiết kế khác lạ. Có một phù hiệu trên tấm giáp ngực mà bạn không nhận ra là gì.}
+{103}{sgnt1a}{Chào mừng đến Trại Navarro... một thường dân! Thế đéo nào một đứa bỏ mẹ lại lọt được vào căn cứ thế! Tao sẽ dần nát mông đứa nào đó tối nay! Giải đứa dân thường này ra khỏi khu vực chính phủ ngay.}
+{104}{sgnt1b}{Chào mừng đến Trại Navarro... một đám thường dân! Thế đéo nào một đám bỏ mẹ lại lọt được vào căn cứ thế! Bố sẽ dần nát mông ai đó tối nay! Giải cái lũ dân thường này ra khỏi khu vực chính phủ ngay.}
+{105}{}{Chờ đã. Tôi...}
+{106}{sgnt2a}{Ồ cái đm tôi. Tao cho người giải mày biến khỏi căn cứ và rồi mày lại ở đây. Tao không nghĩ mày là dân thường nữa rồi. Mày giống gián điệp hơn! Rung chuông báo động lên và xử con ruồi này nào!}
+{107}{sgnt2b}{Ồ cái đm tôi. Bố cho người giải cả đám chúng mày khỏi căn cứ và rồi chúng mày lại ở đây. Bố không nghĩ chúng mày là dân thường nữa rồi. Cả lũ chúng mày giống gián điệp hơn! Rung chuông báo động lên và xử bầy ruồi này nào!}
+{108}{sgnt3}{Chào mừng đến Trại Navarro. Vậy mày là lính dự bị đấy hử. Tên gì thế, binh nhì?}
+{109}{}{Ừm... ngộ }
+{110}{}{Tôi là }
+{111}{sgnt4}{Ồ, yêu thế. Chúng nó gửi cho tao một đứa mất não. Nghe cho thủng lỗ tai đây. Mày sẽ đứng gác ở nhà chứa máy bay. Đây là vị trí gác của mày. Mày sẽ đi ngay lập tức và đứng gác ở đó cho đến khi có lệnh khác. Giờ thì đi đi, lính quèn!}
 {112}{}{Ngộ đi.}
-{113}{sgnt5}{What was that? Did you forget something, maggot?}
-{114}{}{My name is }
-{115}{sgnt6}{I am not a Sir. I work for a living, you mo-ron. You will call me Sergeant or Sergeant Dornan. Do you understand me! }
-{116}{}{Yes, Sergeant!}
-{117}{}{Sure, Sarge. Whatever.}
-{118}{sgnt7}{Outstanding. Proceed on the double to the hangar where you will stand guard duty. You will do a fine job. Do you understand?}
-{119}{}{What am I guarding there, Sergeant?}
-{120}{}{Yes, Sergeant!}
-{121}{sgnt8}{You mo-ron, you are not to question my orders! When I say jump, you jump! When I say fight, you fight! When I tell you to die for your country, then you will certainly die! Have I made myself clear?}
-{122}{}{Yes, Sergeant!}
-{123}{sgnt9}{Welcome to Camp Navarro. So, you're the new replacement... You are out of uniform, soldier! Where is your power armor?}
-{124}{}{Uh... me not have.}
-{125}{}{The base didn't issue me any. They said it would be issued here.}
-{126}{}{Uh... I wasn't issued any armor.}
-{127}{}{It so happens that you're wearing it... I'll just take it off your dead body!}
-{128}{sgnt10}{Don't have any? You expect me to believe that, maggot? The truth is you lost an expensive piece of army-issue equipment. That suit is going to come out of your pay, and you will remain in this man's army until you are five hundred and ten years old, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! Dismissed!}
-{129}{}{Okay. Me go get suit.}
-{130}{}{Yes, Sergeant!}
-{131}{sgnt11}{Those paper-shuffling jackasses! How the hell do they expect me to run this unit if they keep shortchanging me on supplies! Double-time it over to the armory and get your issue, then report back to me. Dismissed!}
+{113}{sgnt5}{Cái gì thế? Mày quên mất gì à, đồ ruồi?}
+{114}{}{Tên tôi là }
+{115}{sgnt6}{Tao đéo phải là Ngài. tao có công việc đàng hoàng, đồ đần độn. Mày sẽ gọi tao là Trung sĩ hoặc Trung sĩ Dornan. Mày có hiểu không! }
+{116}{}{Có, thưa Trung sĩ!}
+{117}{}{Rồi rồi, Tờ sĩ. Sao cũng được.}
+{118}{sgnt7}{Tốt lắm. Giờ thì chạy ngay đến chỗ nhà chứa máy bay và làm nhiệm vụ đứng gác ở đó. Mày sẽ thực hiện tốt nhiệm vụ. Hiểu chứ?}
+{119}{}{Tôi sẽ gác gì ở đó vậy, Trung sĩ?}
+{120}{}{Có, thưa Trung sĩ!}
+{121}{sgnt8}{Đồ đần, ai cho mày thắc mắc lệnh của tao hả! Khi nào tao bảo nhảy thì mày nhảy! Khi nào tao bảo đánh thì mày đánh! Khi nào tao bảo chết vì đất nước thì chắc chắn mày sẽ chết! Tao nói thế đã thủng chưa?}
+{122}{}{Có, thưa Trung sĩ!}
+{123}{sgnt9}{Chào mừng đến Trại Navarro. Thế mày là lính dự bị mới hả... Mày không mặc quân phục à, đồ lính quèn! Áo giáp năng lượng của mày đâu?}
+{124}{}{Ừ... ngộ không có.}
+{125}{}{Căn cứ không cấp cho tôi. Họ nói đến đây sẽ được cấp.}
+{126}{}{Ừ... tôi không được cấp bộ giáp nào.}
+{127}{}{Ông đang mặc nó đấy... Tôi sẽ tháo giáp khỏi cái xác chết của ông!}
+{128}{sgnt10}{Không có à? Mày tưởng tao sẽ tin lời mày sao, đồ ruồi? Thực tế là mày đã làm mất một thiết bị quân sự đắt tiền rồi. Bộ giáp đấy sẽ được trừ vào lương của mày, và mày sẽ ở lại đây phục vụ cho đội quân của tao cho đến khi mày 510 tuổi, vì đấy là số năm mày cần để trả cho một bộ Áo giáp chiến đấu Power Armor đời II mà mày vừa làm mất! Đi báo cáo cho kho khí giới và báo chúng nó cấp một bộ mới , rồi quay lại đây báo cáo cho tao, binh nhì! Nghỉ!}
+{129}{}{Okay. Ngộ đi lấy giáp.}
+{130}{}{Có, thưa Trung sĩ!}
+{131}{sgnt11}{Mấy thằng soạn giấy đầu lìn này! Đéo hiểu chúng nó nghĩ tao điều hành kiểu gì khi mà lúc đéo nào cũng thiếu quân tư trang! Chạy ngay đến chỗ kho khí giới và nhận quân phục rồi quay lại báo cáo cho tao. Nghỉ!}
 {132}{}{Okay.}
-{133}{}{Yes, Sergeant!}
-{134}{sgnt12}{If I like you, you can call me Sarge. But guess what? I don't like you! Do you understand?}
-{135}{}{Yes, Sergeant!}
-{136}{sgnt13}{Excellent! You're in uniform now so I'm going to give you a rare opportunity. We are going to start over as if I never met your sorry ass. Would you like that, soldier?}
-{137}{}{Yes, uh... Sargent!}
-{138}{}{No! Me not care anymore. Me kick you ass.}
-{139}{}{Yes, Sergeant!}
-{140}{}{I don't particularly care now that I'm wearing this nice armor. I'm going to kick your ass.}
-{141}{sgnt14a}{Soldier, you are still out of uniform. I gave you a direct order to report to supplies and get your issue. Now, get out of my face and don't come back until you look like a soldier!}
-{142}{sgnt14b}{This is the second time you have come to me out of uniform, Soldier. There will not be a third!}
-{143}{}{Okay! Okay! Me going.}
-{144}{}{Screw this. Me tired of crap.}
-{145}{}{Yes, Sergeant! I'm on my way.}
-{146}{}{Fuck it. I'm not cut out for this.}
-{147}{sgnt15a}{Trooper, what are you doing here? Get back to your guard post!}
-{148}{sgnt15b}{Mo-ron. If I see you away from your post again, it will be the sorriest day of your short life!}
-{149}{sgnt15c}{You are a danger to us all. That will end now.}
-{150}{sgnt16}{This base is on alert and I don't recognize you. Show me your papers, soldier.}
-{151}{}{Me not have papers with on me.}
-{152}{}{Me no need papers!}
-{153}{}{I don't have my papers with me. They're in my footlocker.}
-{154}{}{Papers? I've got your papers right here!}
-{155}{sgnt17}{Wrong answer, maggot. You are to carry your papers with you at all times and you should know that!}
-{156}{}{Oops.}
+{133}{}{Có, thưa Trung sĩ!}
+{134}{sgnt12}{Nếu tao thích mày thì mày có thể gọi tao là Tờ sĩ. Nhưng biết gì không? Bố đéo thích mày! Mày có hiểu không?}
+{135}{}{Có, thưa Trung sĩ!}
+{136}{sgnt13}{Tốt lắm! Giờ thì mày mặc quân phục rồi và tao sẽ cho mày một cơ hội hiếm hoi. Chúng ta sẽ bắt đầu lại từ đầu, coi như tao chưa từng gặp đứa củ lìn nào. Được chứ hả, binh nhì?}
+{137}{}{Vâng, ờ... tung sĩ!}
+{138}{}{Không! Ngộ đéo cần nữa. Ngộ đá đít ông.}
+{139}{}{Có, thưa Trung sĩ!}
+{140}{}{Giờ tôi mặc bộ giáp ngon lành rồi nên tôi đéo cần nữa. Tôi sẽ cho ông ăn đạp đít.}
+{141}{sgnt14a}{Binh nhì, mày vẫn chưa mặc quân phục. Tao ra lệnh trực tiếp cho mày đi đến phòng hậu cần và nhận đồ. Giờ thì cút cho khuất mắt tao và đừng có trở lại cho đến khi nào mày ăn mặc giống lính rồi!}
+{142}{sgnt14b}{Đây là lần thứ hai mày đến gặp tao mà không mặc quân phục rồi, lính quèn. Sẽ đéo có lần thứ ba đâu!}
+{143}{}{Okay! Okay! Ngộ đi đây.}
+{144}{}{Biến đi. Ngộ chán trò này rồi.}
+{145}{}{Vâng, thưa Trung sĩ! Tôi lên đường ngay đây.}
+{146}{}{Đm. Tôi đéo hợp làm trò này.}
+{147}{sgnt15a}{Lính dù, mày đang làm gì ở đây thế? Quay trở lại vị trí gác ngay!}
+{148}{sgnt15b}{Đồ đần. Tao mà còn thấy mày rời khỏi vị trí gác thì hôm nay sẽ là ngày cuối cùng trong cuộc đời ngắn ngủi của mày đấy!}
+{149}{sgnt15c}{Mày là mối hiểm họa cho tất cả chúng ta. Giờ mày sẽ phải chết.}
+{150}{sgnt16}{Căn cứ đang báo động và tao không nhận ra mày. Trình giấy tờ ra, đồ lính quèn.}
+{151}{}{Ngộ không có giấy tờ theo người.}
+{152}{}{Ngộ không cần giấy tờ!}
+{153}{}{Tôi không mang theo giấy tờ. Chúng ở trong hòm đồ rồi.}
+{154}{}{Giấy tờ? Tôi có giấy tờ ở đây này!}
+{155}{sgnt17}{Trả lời sai rồi, đồ ruồi nhặng. Lúc nào mày cũng phải mang giấy tờ theo và mày phải biết điều đó!}
+{156}{}{Chẹp.}
 {157}{}{Stay alert, soldier!}
 {158}{}{Good. You're on the ball. Stay that way!}
 {159}{}{Nothing to report, I see. Stay at your post.}

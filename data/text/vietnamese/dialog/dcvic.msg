@@ -5,12 +5,12 @@
 {152}{}{[NÓI CHUYỆN]}
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
-{154}{}{My name is }
+{154}{}{Tên tôi là }
 {155}{}{. I'm here to get you out.}
-{156}{}{I'm }
+{156}{}{Tôi là }
 {157}{}{, but why have you been locked in this room?}
 {158}{}{Can you tell me where Vault 13 is?}
-{159}{}{I'm }
+{159}{}{Tôi là }
 {160}{}{. I'll be right back.}
 {161}{}{Dubba iba }
 {162}{}{.}
