@@ -63,78 +63,78 @@ có tập tính hung hăng. Chúng chỉ cần thông minh hơn một chút
 suy nghĩ riêng. Đến đây vẫn hiểu chứ?}
 {144}{}{Ờ... có.}
 {145}{}{Có, tôi vẫn đang nghe đây.}
-{146}{}{Well, we succeeded! We actually managed to increase their
- intelligence. However, I began to suspect that we went too far.
- That maybe they were a lot smarter than they were letting on. So
- when I was transferred here I brought one of them with me so I
- could put my theory to the test.}
-{147}{}{And?}
-{148}{}{I was right! The deathclaws have apparently been playing
- dumb, biding their time, and trying to learn as much as they can
- from us. They can even mimic human speech! I've actually had a
- conversation with that fellow in the next room.}
-{149}{}{Anyway. The fact that they were capable of conceiving
- this plan and pulling off the deception shows just how dangerous
- they are.}
-{150}{}{So what you plan do now?}
-{151}{}{So what do you plan to do now?}
-{152}{}{I'm going to write a report on my findings and have it
- transmitted to the Enclave. Of course I'll have to recommend the
- extermination of the deathclaw breed. They are much too dangerous
- a threat.}
-{153}{}{Me got. Need ask more.}
-{154}{}{Uh... You sure room soundproof?}
-{155}{}{Me want kill D'claw for you!}
-{156}{}{Hey, can I kill the deathclaw for you?}
-{157}{}{Interesting. Can I ask you about some other things?}
-{158}{}{Say Doc, are you sure this room is soundproof?}
-{159}{}{Of course I'm sure. The commander would have a fit otherwise. Why?}
-{160}{}{No reason.}
-{161}{}{Me not want anyone hear you scream as me kill you!}
-{162}{}{I was just curious.}
-{163}{}{I don't want anyone to hear your screams as I experiment on you.}
-{164}{}{Back again? What can I do for you this time?}
-{165}{}{You sure room soundproof?}
-{166}{}{Me got more question.}
-{167}{}{Nothing. Me say hi.}
-{168}{}{Are you sure this room is soundproof?}
-{169}{}{I wanted to ask you something else.}
-{170}{}{Nothing, I just wanted to say 'Hi' again.}
-{171}{}{Of course I'm sure. The commander would have a fit otherwise. Why?}
-{172}{}{No reason.}
-{173}{}{Me not want anyone hear you scream as me kill you!}
-{174}{}{I was just curious.}
-{175}{}{I don't want anyone to hear your screams as I experiment on you.}
-{176}{}{Be my guest. It's in the next room.}
+{146}{}{Ồ, chúng ta đã làm được! Chúng ta đã thật sự tăng được trí tuệ
+của bọn chúng. Tuy nhiên, ta bắt đầu nghi ngờ là chúng ta đã đi 
+quá xa. Có lẽ là chúng thông minh hơn nhiều so với dự tính.
+Vì thế khi chuyển đến đây ta mang theo một con để tiến hành
+thí nghiệm giả thuyết này.}
+{147}{}{Và?}
+{148}{}{Ta đã đúng! Đám deathclaw dường như đang giả ngu, tìm cách
+kéo dài thời gian và cố học từ chúng ta càng nhiều càng tốt.
+Chúng thậm chí còn có thể giả cả giọng con người! Trên thực tế ta
+đã trò chuyện với cái gã ở phòng bên.}
+{149}{}{Thế đấy. Sự thật rằng chúng có khả năng lên kế hoạch
+và thực hiện hành vi lừa dối đã cho thấy mức độ nguy hiểm
+của chúng.}
+{150}{}{Vậy ông định làm giờ?}
+{151}{}{Vậy giờ ông định sẽ làm gì?}
+{152}{}{Ta sẽ viết báo cáo về phát hiện này và chuyển về Enclave.
+Dĩ nhiên là ta sẽ phải đề nghị tiêu diệt toàn bộ giống deathclaw.
+Chúng đã trở thành một mối nguy hiểm vượt ngoài tầm
+kiểm soát.}
+{153}{}{Ngộ hiểu. Cần hỏi thêm.}
+{154}{}{Ờ... ông chắc phòng cách âm?}
+{155}{}{Ngộ muốn giết D'claw cho ông!}
+{156}{}{Này, tôi có thể giết deathclaw cho ông chứ?}
+{157}{}{Hay đấy. Tôi hỏi về chuyện khác được không?}
+{158}{}{Này Bác sĩ, ông có chắc là phòng này được cách âm không thế?}
+{159}{}{Dĩ nhiên là ta chắc chắn rồi. Nếu không thì lão chỉ huy lại gào ầm lên. Sao chứ?}
+{160}{}{Không gì.}
+{161}{}{Ngộ không muốn ai nghe ông gào khi ngộ giết ông!}
+{162}{}{Tôi chỉ tò mò thôi.}
+{163}{}{Tôi không muốn ai nghe thấy ông gào khi tôi làm thí nghiệm với ông.}
+{164}{}{Quay lại rồi à? Lần này ta có thể giúp gì đây?}
+{165}{}{Ông chắc phòng cách âm?}
+{166}{}{Ngộ có thêm câu hỏi.}
+{167}{}{Không có gì. Ngộ chào.}
+{168}{}{Ông chắc là phòng này cách âm chứ?}
+{169}{}{Tôi muốn hỏi về chuyện khác.}
+{170}{}{Không có gì, tôi chỉ ghé qua "chào" lần nữa thôi.}
+{171}{}{Dĩ nhiên là ta chắc chắn rồi. Nếu không thì lão chỉ huy lại gào ầm lên. Sao chứ?}
+{172}{}{Không gì.}
+{173}{}{Ngộ không muốn ai nghe ông gào khi ngộ giết ông!}
+{174}{}{Tôi chỉ tò mò thôi.}
+{175}{}{Tôi không muốn ai nghe thấy ông gào khi tôi làm thí nghiệm với ông.}
+{176}{}{Cứ tự nhiên. Nó ở phòng bên.}
 {177}{}{Cám ơn!}
-{178}{}{That is K-9, my dog. I decided to see if I could cyber
- enhance his intelligence. It worked but he developed a bad case of
- morals. He decided he didn't like my work or me much, and he bit me.}
-{179}{}{As punishment I disabled his legs but left him pretty much
- functional otherwise. Now he gets to sit there and watch every
- distasteful thing I do.}
+{178}{}{Đấy là K-9, con chó của ta. Ta quyết định thử xem ta có thể tăng cường
+sinh học trí tuệ cho nó không. Kết quả là có nhưng lại có vấn đề về
+đạo đức. Con chó này không thích việc ta làm cũng như bản thân ta, nên nó cắn lại.}
+{179}{}{Để trừng phạt, ta đã tắt hết mấy cái chân nhưng vẫn để nguyên
+các chức năng khác. Giờ thì nó phải ngồi đấy và chứng kiến
+tất cả những điều xấu xa ta làm.}
 {180}{}{Ồ...}
-{181}{}{He be fixed?}
+{181}{}{Nó có thể sửa?}
 {182}{}{Hiểu rồi.}
-{183}{}{Can he be fixed?}
-{184}{}{Oh yes. I removed his motivator circuit and gave it to
- Raul up in maintenance. It could always be put back in... Maybe
- I'll do that someday just to see if he's changed his attitude.}
+{183}{}{Liệu có thể sửa nó không?}
+{184}{}{Ồ có chứ. Ta đã tháo mạch động cơ và đưa cho Raul ở phòng
+bảo trì. Chỉ cần lắp lại là đâu lại vào đấy... Có thể ta sẽ làm vậy
+trong tương lai để xem liệu nó có thay đổi thái độ không.}
 {185}{}{Okay.}
 {186}{}{Được rồi.}
-{187}{}{Are you a civilian?}
-{188}{}{This is the med lab. The armory is down the hall on your left.}
-{189}{}{Why are you out of uniform?}
+{187}{}{Ông có phải dân thường không?}
+{188}{}{Đây là phòng thuốc. Kho khí giới ở cuối hành lang bên trái.}
+{189}{}{Sao cậu lại không mặc quân phục?}
 {190}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
 {191}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
-{192}{}{Guard! Intruders in the med lab!}
+{192}{}{Lính đâu! Có kẻ đột nhập trong phòng thí nghiệm!}
 {193}{}{Gì thế? Chúng ta bị tấn công à?}
 {194}{}{Sao lại báo động? Chuyện gì thế?}
 {195}{}{Cái củ lìn gì đang diễn ra thế?}
-{196}{}{I'm not a hostile, don't shoot me.}
-{197}{}{I didn't sign up for combat, so leave me alone.}
-{198}{}{Damn it! I'm a doctor not a soldier!}
+{196}{}{Ta đâu có tấn công, đừng bắn ta.}
+{197}{}{Ta không tập đánh nhau, hãy để ta yên.}
+{198}{}{Mẹ nó chứ! Ta là bác sĩ chứ có phải lính đâu!}
 {200}{}{[THÊM]}
 {201}{}{Tôi muốn hỏi một vài câu.}
-{202}{}{Not right now. Sorry to bother you.}
-{800}{}{You killed Doctor Schreber.}
+{202}{}{Không phải bây giờ. Xin lỗi đã làm phiền.}
+{800}{}{Bạn đã giết Bác sĩ Schreber.}

@@ -132,7 +132,7 @@
 {231}{}{All right. I'll go tell her.}
 {232}{}{Yeah, raiders. They've been hitting us pretty hard lately. (Frowns.) Why do you want to know about them?}
 {233}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
-{234}{}{I was just curious.}
+{234}{}{Tôi chỉ tò mò thôi.}
 {235}{}{Never mind. I had some questions...}
 {236}{}{Forget it. Maybe we'll talk some other time.}
 {237}{}{What, you some kind of good Samaritan? I don't buy it.}
@@ -171,7 +171,7 @@
 {270}{}{Bring it on, dead man.}
 {271}{}{I don't think we'll be dropping the subject quite that easily. Now... what do you know about the raiders?}
 {272}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
-{273}{}{I was just curious.}
+{273}{}{Tôi chỉ tò mò thôi.}
 {274}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
 {275}{}{I don't know. These raiders don't make much sense. IF they are raiders.}
 {276}{}{What do you mean?}

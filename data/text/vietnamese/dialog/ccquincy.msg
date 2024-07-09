@@ -66,7 +66,7 @@
 {154}{}{Nothing, just saying 'Hi'.}
 {155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
 {156}{}{Trung sĩ mà bắt được cậu không mặc quân phục thì ông ấy sạc cho teo chim.}
-{157}{}{Why are you out of uniform?}
+{157}{}{Sao cậu lại không mặc quân phục?}
 {158}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
 {159}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
 {160}{}{Guard! Intruders in maintenance!}

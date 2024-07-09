@@ -40,7 +40,7 @@
 {145}{}{Hiểu rồi.}
 {155}{}{Cậu điên à, đi lại ở đây mà không mặc quân phục? Mặc đồ vào!}
 {156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
-{157}{}{Why are you out of uniform?}
+{157}{}{Sao cậu lại không mặc quân phục?}
 {158}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
 {159}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
 {160}{}{Bảo vệ đâu! Có kẻ xâm nhập trong trung tâm liên lạc!}

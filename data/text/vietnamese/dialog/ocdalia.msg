@@ -10,7 +10,7 @@
 {108}{}{Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help
  you with?}
 {109}{}{Ngộ muốn hỏi.}
-{110}{}{Nothing. Me say hi.}
+{110}{}{Không có gì. Ngộ chào.}
 {111}{}{Tôi có vài câu hỏi.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
 {113}{}{Muốn biết gì nào?}
