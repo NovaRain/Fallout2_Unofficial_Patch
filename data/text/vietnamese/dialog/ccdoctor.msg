@@ -87,7 +87,7 @@ kiểm soát.}
 {155}{}{Ngộ muốn giết D'claw cho ông!}
 {156}{}{Này, tôi có thể giết deathclaw cho ông chứ?}
 {157}{}{Hay đấy. Tôi hỏi về chuyện khác được không?}
-{158}{}{Này Bác sĩ, ông có chắc là phòng này được cách âm không thế?}
+{158}{}{Này Tiến sĩ, ông có chắc là phòng này được cách âm không thế?}
 {159}{}{Dĩ nhiên là ta chắc chắn rồi. Nếu không thì lão chỉ huy lại gào ầm lên. Sao chứ?}
 {160}{}{Không gì.}
 {161}{}{Ngộ không muốn ai nghe ông gào khi ngộ giết ông!}
@@ -137,4 +137,4 @@ trong tương lai để xem liệu nó có thay đổi thái độ không.}
 {200}{}{[THÊM]}
 {201}{}{Tôi muốn hỏi một vài câu.}
 {202}{}{Không phải bây giờ. Xin lỗi đã làm phiền.}
-{800}{}{Bạn đã giết Bác sĩ Schreber.}
+{800}{}{Bạn đã giết Tiến sĩ Schreber.}

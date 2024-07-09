@@ -36,7 +36,7 @@
 {135}{}{Ngộ hiểu rồi.}
 {136}{}{Yeah, got it.}
 {137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
-{138}{}{Fine.}
+{138}{}{Được rồi.}
 {139}{}{Sounds good.}
 {140}{}{Thank you for accessing EnclaveNet. Logging off... }
 {141}{}{Đã xong.}

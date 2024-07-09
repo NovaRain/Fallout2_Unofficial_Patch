@@ -1,5 +1,5 @@
-{100}{}{You see a Drill Sergeant.}
-{101}{}{You see Sergeant Dornan.}
+{100}{}{Bạn thấy Trung sĩ huấn luyện.}
+{101}{}{Bạn thấy Trung sĩ Dornan.}
 {102}{}{You see a man wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
 {103}{sgnt1a}{Welcome to Camp Navarro... a civilian! How in the hell did a civilian get on this base! I'll have someone's ass for dinner! Get this civilian off government property.}
 {104}{sgnt1b}{Welcome to Camp Navarro... civilians! How the hell did civilians get on this base! I'll have someone's ass for dinner! Get these civilians off government property.}

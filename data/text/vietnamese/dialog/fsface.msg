@@ -35,7 +35,7 @@
 {134}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Anti-radiation compounds will be administered and then tissue damage will be repaired. This process will require 60 minutes.}
 {135}{}{Ok.}
 {136}{}{Không.}
-{137}{}{Fine.}
+{137}{}{Được rồi.}
 {138}{}{I changed my mind.}
 {139}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.}
 {140}{}{Ok.}

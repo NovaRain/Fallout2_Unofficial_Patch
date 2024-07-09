@@ -207,7 +207,7 @@
  world in droves.}
 {611}{}{You are nothing more than a typical 'RPG female hero model,' if you will, one of MANY such models that seems to fill this
  world in droves.}
-{612}{}{Well...}
+{612}{}{Ờ...}
 {1302}{}{ let's go do some damage.}
 {1322}{}{ NOT ASS HEAD ME KILL YOU KILL YOU KILL Y--}
 {1350}{}{...you doing all right, feeling all right? Let me know when you're ready for your next match.}

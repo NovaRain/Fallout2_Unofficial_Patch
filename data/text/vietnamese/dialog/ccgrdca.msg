@@ -10,9 +10,9 @@
 {109}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
 {110}{}{Chúng ta đã bị xâm nhập! Báo động!}
 {111}{}{Có nhiều kẻ đột nhập! Rung chuông báo động lên!}
-{112}{}{Security alert! Seal the base!}
-{113}{}{Secure all stations! We're on alert!}
-{114}{}{Intruder alert! Go code red!}
-{115}{}{We're going to put you under!}
-{116}{}{The Enclave will rule the world!}
-{117}{}{You die so that the Enclave will survive!}
+{112}{}{Cảnh báo an ninh! Khóa căn cứ!}
+{113}{}{Bảo vệ toàn bộ căn cứ! Chúng ta đang báo động!}
+{114}{}{Báo động có kẻ đột nhập! Vào mã đỏ!}
+{115}{}{Chúng tao sẽ cho mày cạp đất!}
+{116}{}{Enclave sẽ thống trị cả thế giới!}
+{117}{}{Mày phải chết để Enclave tồn tại!}
