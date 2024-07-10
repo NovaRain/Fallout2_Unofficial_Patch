@@ -51,7 +51,7 @@
 {230}{}{Jest tu gdzieś Jules? Potrzebuję działkę.}
 {231}{}{Jest tu gdzieś Szramiasty Jimmy J? Potrzebuję działkę.}
 {232}{}{Szukam Apteki Renesco. Renesco mi pomoże.}
-{233}{}{Wiem, że Fallout 2 nie jest grą 3D, ale i tak mógłby obsługiwać moją nowiutką kartę GForce.}
+{233}{}{Wiem, że Fallout 2 nie jest grą 3D, ale i tak mógłby obsługiwać moją nowiutką kartę 3DFX.}
 {240}{}{[Śpiewa] I... just want to fly. Put your arms around me, baby, put your arms around me, baby.[Śpiewa]}
 {241}{}{[Śpiewa] Rocketman, burning off the mmmmumble there alone...[Śpiewa]}
 {242}{}{Uważaj! Różowy szpon śmierci na trzeciej!}
@@ -69,7 +69,7 @@
 {254}{}{Łoj... gdzie się podziało niebo?}
 {255}{}{Jak moje ciuchy nie przestaną do mnie gadać, to je zdejmę.}
 {256}{}{Moje buty oddychają.}
-{257}{}{Wiem, że Fallout 2 nie jest grą 3D, ale i tak mógłby obsługiwać moją nowiutką kartę GForce.}
+{257}{}{Wiem, że Fallout 2 nie jest grą 3D, ale i tak mógłby obsługiwać moją nowiutką kartę 3DFX.}
 {258}{}{Na mnie patrzysz?! Na mnie patrzysz?! Zabiję cię!}
 {270}{}{Uch, nie mam nic przeciwko świętowaniu twojego zwycięstwa nad Enklawą, ale głowa za bardzo mnie boli. Wróć tu w nocy.}
 {271}{}{::Próbuje klaskać, ale nie trafia ręką w rękę::}

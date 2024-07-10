@@ -63,7 +63,7 @@
 {230}{}{You seen Jules around? I need a fix.}
 {231}{}{You seen Jagged Jimmy J around? I need a fix.}
 {232}{}{I'm looking for Renesco's Pharmacy. Renesco'll set me up.}
-{233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
+{233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new 3DFX card.}
 # 8. JUNKIE = HIGH
 {240}{}{[Sings.] I... just want to fly. Put your arms around me, baby, put your arms around me, baby.}
 {241}{}{[Sings.] Rocketman, burning off the mmmmumble there alone...}
@@ -82,7 +82,7 @@
 {254}{}{Whoa... where did the sky go...?}
 {255}{}{If my clothes don't stop talking to me, I'm going to take them off.}
 {256}{}{My shoes are breathing.}
-{257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
+{257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new 3DFX card.}
 {258}{}{You looking at me?! You looking at me?!! I'll kill you!}
 # 9. JUNKIE=WASTED; ENCLAVE DESTROYED IS TRUE
 {270}{}{Uh, I'd cheer your victory over the Enclave, but my head is pounding too much. Come back at night.}
@@ -105,7 +105,7 @@
 {295}{}{Next time you kick the Enclave's ass, come get me first, and we'll do it TOGETHER.}
 {296}{}{Kick ASS, }
 {297}{}{I know you saved the world, but it's us minor NPCs that have to deal with the consequences.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
+{298}{}{You should play the game again as a drug-based character. Really! Take the Chem Reliant Trait!
  I LOVE that one.}
 {299}{}{Thanks for saving us. I'd kiss you if I didn't have puke breath.}
 {300}{}{I could have defeated the Enclave myself if I'd taken enough Jet.}

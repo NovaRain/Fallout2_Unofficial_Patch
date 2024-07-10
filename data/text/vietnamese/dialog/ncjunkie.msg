@@ -51,7 +51,7 @@
 {230}{}{You seen Jules around? I need a fix.}
 {231}{}{You seen Jagged Jimmy J around? I need a fix.}
 {232}{}{I'm looking for Renesco's Pharmacy. Renesco'll set me up.}
-{233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
+{233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new 3DFX card.}
 {240}{}{[Sings.] I... just want to fly. Put your arms around me, baby, put your arms around me, baby.}
 {241}{}{[Sings.] Rocketman, burning off the mmmmumble there alone...}
 {242}{}{Watch out! Pink deathclaw, three o' clock!}
@@ -69,7 +69,7 @@
 {254}{}{Whoa... where did the sky go...?}
 {255}{}{If my clothes don't stop talking to me, I'm going to take them off.}
 {256}{}{My shoes are breathing.}
-{257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
+{257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new 3DFX card.}
 {258}{}{You looking at me?! You looking at me?!! I'll kill you!}
 {270}{}{Uh, I'd cheer your victory over the Enclave, but my head is pounding too much. Come back at night.}
 {271}{}{::Tries to clap, keeps missing::}

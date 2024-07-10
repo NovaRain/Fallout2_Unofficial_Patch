@@ -51,7 +51,7 @@
 {230}{}{Neviděl jsi někde Julese? Potřebuju dávku.}
 {231}{}{Neviděl jsi někde Pořezanýho Jimma J? Potřebuju dávku.}
 {232}{}{Hledám Renescovu lékárnu. Renesco mi pomůže.}
-{233}{}{Já vím, že Fallout 2 není ve 3D, ale stejně by mohla podporovat moji fungl novou GeForce.}
+{233}{}{Já vím, že Fallout 2 není ve 3D, ale stejně by mohla podporovat moji fungl novou 3DFX.}
 {240}{}{[Zpívá.] Já... chci jenom lítat. Obejmi mě, bejby, obejmi mě, bejby.}
 {241}{}{[Zpívá.] Rakeťák si lítá po obloze, rakeťák...}
 {242}{}{Pozor! Růžový párač na třech hodinách.}
@@ -69,7 +69,7 @@
 {254}{}{Hele... kam zmizela obloha...?}
 {255}{}{Jestli moje hadry nebudou už konečně držet hubu, tak si je sundám.}
 {256}{}{Moje boty dýchají.}
-{257}{}{Já vím, že Fallout 2 není ve 3D, ale stejně by mohla podporovat moji fungl novou GeForce.}
+{257}{}{Já vím, že Fallout 2 není ve 3D, ale stejně by mohla podporovat moji fungl novou 3DFX.}
 {258}{}{To čumíš na mě?! To čumíš na mě?!! Já tě zabiju!}
 {270}{}{Eh, poblahopřál bych ti k vítězství nad Enklávou, ale bolí mě strašně hlava. Přijď v noci.}
 {271}{}{::Zkouší tleskat, ale nemůže se trefit::}

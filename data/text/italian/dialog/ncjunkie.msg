@@ -51,7 +51,7 @@
 {230}{}{Hai visto Jules, da qualche parte? Ho bisogno di una dose.}
 {231}{}{Hai visto Jimmy J, da qualche parte? Ho bisogno di una dose.}
 {232}{}{Sto cercando la Farmacia di Renesco. Renesco mi rimettera' in sesto.}
-{233}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda GeForce.}
+{233}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda 3DFX.}
 {240}{}{[Canta.] I...just want to fly. Put your arms around me, baby, put your arms around me, baby.}
 {241}{}{[Canta.] Rocketman, burning off the mmmmumble there alone...}
 {242}{}{Occhio! Rosa-DeathClaw a ore tre!}
@@ -69,7 +69,7 @@
 {254}{}{Whoa...ma dove va a finire il cielo...?}
 {255}{}{Se i miei vestiti non la smettono di parlarmi, me li tolgo di dosso!}
 {256}{}{Le mie scarpe stanno respirando.}
-{257}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda GeForce.}
+{257}{}{Lo so che Fallout 2 non e' un gioco 3D, ma dovrebbe lo stesso supportare la mia nuovissima scheda 3DFX.}
 {258}{}{Stai guardando me?! Stai guardando me?!! Ti ammazzero'!}
 {270}{}{Uh, vorrei applaudire la tua vittoria sull'Enclave, ma la mia testa mi rimbomba troppo. Torna di notte.}
 {271}{}{::Prova ad applaudire, ma continua a sbagliare::}

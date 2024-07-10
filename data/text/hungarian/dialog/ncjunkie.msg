@@ -51,7 +51,7 @@
 {230}{}{Láttad Jules-t mostanában? Kéne anyag.}
 {231}{}{Láttad Csipkés Jimmy J.-t mostanában? Kéne anyag.}
 {232}{}{Renesco gyógyszertárába igyekszem. Ott majd helyrepofoznak.}
-{233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
+{233}{}{Tudom, hogy a Fallout 2 nem 3D játék, de igazán kihasználhatná a legújabb 3D-s kártyámat. Viszont működik XP-n, ami nagy szó!}
 {240}{}{[Énekel.] Ez az adag éppen jó, ez az anyag éppen jó... Összeraknám a testem egy másik égi testen.}
 {241}{}{[Énekel.] Félre a tréfát űrhajós vagyok, ...mm mm... még egy rakétát! }
 {242}{}{Vigyázat! Rózsaszín halálkarom három óránál!}
@@ -69,7 +69,7 @@
 {254}{}{Hééló... hova tűnt az égbolt?}
 {255}{}{Ha a ruhám nem hagyja abba a pofázást, én rögtön leveszem.}
 {256}{}{Lélegzik a cipőm!}
-{257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
+{257}{}{Tudom, hogy a Fallout 2 nem 3D játék, de igazán kihasználhatná a legújabb 3D-s kártyámat. Viszont működik XP-n, ami nagy szó!}
 {258}{}{Te engem bámulsz?! Te engem bámulsz?!! Megöllek!}
 {270}{}{Öö... megünnepelném veled az Enklávés győzelmet, de a fejem tisztára lüktet. Gyere vissza éjszaka!}
 {271}{}{::Próbál tapsolni, de nem sikerül::}

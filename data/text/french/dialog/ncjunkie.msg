@@ -51,7 +51,7 @@
 {230}{}{Tu as vu Jules dans le coin ? Il me faut ma dose.}
 {231}{}{T'as vu Jimmy J l'édenté dans le coin ? J'ai besoin d'un fix.}
 {232}{}{Je cherche la Pharmacie de Renesco. Renesco me remettra sur pied.}
-{233}{}{Je sais que Fallout 2 n'est pas un jeu en 3D, mais il devrait quand même supporter ma toute nouvelle Geforce.}
+{233}{}{Je sais que Fallout 2 n'est pas un jeu en 3D, mais il devrait quand même supporter ma toute nouvelle 3DFX.}
 {240}{}{~ Je... veux juste voler. Mettre tes bras autour de moi, bébé, mettre tes bras autour de moi, bébé. ~}
 {241}{}{~ L'homme fusée, il explose tout à lui tout seul... ~}
 {242}{}{Fais gaffe ! Un Griffemort rose, à trois heures !}
@@ -69,7 +69,7 @@
 {254}{}{Oh... où est passé le ciel... ?}
 {255}{}{Si mes fringues arrêtent pas de me parler, il va falloir que je me désape.}
 {256}{}{Mes chaussures respirent.}
-{257}{}{Je sais que Fallout 2 n'est pas un jeu en 3D, mais il devrait quand même supporter ma toute nouvelle Geforce.}
+{257}{}{Je sais que Fallout 2 n'est pas un jeu en 3D, mais il devrait quand même supporter ma toute nouvelle 3DFX.}
 {258}{}{Qu'est-ce que t'as ?! Tu veux ma photo ?!! Je vais te tuer !}
 {270}{}{Hé, Je te remercierai bien pour la victoire sur l'Enclave mais j'ai tête en compote. Reviens plus tard.}
 {271}{}{::Essaie d'applaudir, mais se rate::}
