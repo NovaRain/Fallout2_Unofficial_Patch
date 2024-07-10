@@ -3,7 +3,7 @@
 {2}{}{Pref. de armas}
 {3}{}{Distância}
 {4}{}{Atacar quem}
-{5}{}{Uso de drogas}
+{5}{}{Usar drogas}
 {10}{}{Feito}
 {11}{}{CANCEL}
 {99}{}{Não se aplica.}

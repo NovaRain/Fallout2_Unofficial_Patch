@@ -18,7 +18,7 @@
 {117}{}{Úgy látom, nem érti. Megbízatás ügyében jöttem.}
 {118}{}{Egyenesen a seriff ajánlotta, hogy jöjjek magához személyesen.}
 {119}{}{Remek. Legyen úgy.}
-{120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
+{120}{}{Gondolhattam volna. Mit ígért magának? Pénzt? Drogot? Szexet? Nem mintha számítana. Sosem kapja meg egyiket sem.}
 {121}{}{Ezt hogy érted?}
 {122}{}{Pofa be!}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}

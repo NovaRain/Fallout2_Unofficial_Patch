@@ -3,7 +3,7 @@
 {2}{}{Broń}
 {3}{}{Dystans}
 {4}{}{Cel Ataku}
-{5}{}{Używanie prochów}
+{5}{}{Chem Use}
 {10}{}{OK}
 {11}{}{Anuluj}
 {99}{}{Nie dotyczy}

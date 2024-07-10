@@ -109,7 +109,7 @@
 {486}{}{Ehi, ragazza mia, GRAZIE. }
 {487}{}{Hai scoperto chi ha ucciso mio fratello, e tutta la Famiglia Wright ti ringraziera', stanne certo. E non sara' un ringraziamento da poco, credimi.}
 {488}{}{Ho capito. Ci becchiamo dopo, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Anche Jules, all'entrata della citta', vende il Jet, ma di solito i suoi clienti sono turisti... poi c'e' Little Jesus Mordino: potrebbe aver venduto la droga a mio fratello mentre Rich era fuori da solo. Lo troverai al Desperado.}
 {497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules e Little Jesus… Andro' a parlare con loro. Grazie delle informazioni, Chris. }
 {1200}{}{! Sei stato grande a spazzare via l'Enclave!}
 {1201}{}{! Sei forte!}

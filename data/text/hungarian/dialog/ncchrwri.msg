@@ -36,7 +36,7 @@
 {280}{}{Nem igazán. Bocs, hogy zavartalak.}
 {290}{}{Nem hallottál a Wright családról? Jó sokat lehettél a sivatagban! A Wright család a legnagyobb bűnszövetkezet Renóban. Mi fogjuk uralni a várost.}
 {291}{}{Valóban? Úgy tűnik, a Wright családnál vannak a legjobb lapok. Nem akarnak felbérelni senkit?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
+{292}{}{Igazság szerint épp arra gondoltam, hogy ők a leggyengébb család... Úgy értem, csak alkoholban utaznak, nincs kaszinó, meg drogkereskedelem, és a család létszáma is alacsonyabb, mint a többieké.}
 {293}{}{Ha már a családnál tartunk, összefutottam édesanyáddal.}
 {295}{}{Igazán? Nagyon érdekes... nos hát... most mennem kell.}
 {296}{}{A Wright család a legnagyobb bűnszövetkezet Renóban. Mi fogjuk uralni a várost.}
@@ -80,8 +80,7 @@
 {400}{}{Annyira biztos, hogy szétverné ezt a helyet... minimum. Valszeg szétmagyarázná a fejét és néhány napig folyamatosan imádkozhatnánk. Hehe.}
 {401}{}{Érdekes. Inkább kérdezek mást...}
 {402}{}{Hmmmmm. Köszi.}
-{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with drugs until he was dead.}
+{410}{}{A Richie-t kérded? Hát tudod, úgy találtunk rá, mint a többi jet-használóra, otthagyták egy árokban. Amennyire meg tudtuk állapítani, valaki halálra pumpálta droggal.}
 {411}{}{"Valaki" túl sokat adott be neki? Miből gondolod, hogy nem saját magát adagolta túl?}
 {412}{}{Szerinted ki csinálhatta?}
 {413}{}{Ez bizony sajnálatos. Kérdezhetek még valamit?}
@@ -110,7 +109,7 @@
 {486}{}{Te leányzó, köszönöm NEKED!!!}
 {487}{}{Rájöttél, ki ölte meg az öcsémet. Az egész Wright család köszönettel tartozik neked. És ez bizony nem akármi ám!}
 {488}{}{Értem. Később találkozunk, Chris.}
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{A város szélén tevékenykedő Jules szintén árul Jetet, de ő leginkább a turistákat veszi célba... aztán ott van a Kis Jesus Mordino, akár ő is telenyomhatta Richie-t, amikor egyedül volt. A csávó a Desperadóban szokta múlatni az időt.}
 {497}{}{Csipkés Jimmy J, a Rakétás Renesco, Jules és Kis Jesus... mindegyiknek utánanézek. Kösz az infóért, Chris.}
 {1200}{}{! Jó munka volt seggbe rúgni az Enklávét!}
 {1201}{}{! Büszke lehetsz magadra!}

@@ -120,7 +120,7 @@
 {492}{}{Bármit is szeretnél, Jules a TE embered, édes kis húgom. "Ha épp repülni akarsz, hát betépsz s nem zavarsz, ha érzed a vágyat, én tudok egy ágyat. A lényeg a lényeg, nálam a kincs, az benne a jó, hogy lehetetlen nincs!"}
 {493}{}{Hogyne, hogyne... A lényeg a lényeg, nálam a kincs, az benne a jó, hogy lehetetlen nincs!}
 {494}{}{Mesélnél egy kicsit New Renóról?}
-{495}{}{Where can I get some drugs?}
+{495}{}{Hol tudok droghoz jutni?}
 {496}{}{Valami komolyabb fegyverzetre volna szükségem.}
 {497}{}{Hol van valami vegyesbolt?}
 {498}{}{Egy kis lepedőakrobatikára vágyom.}
@@ -168,7 +168,7 @@
 {615}{}{Ott van az apa, Nagy Jesus Mordino, meg a fia a Kis Jesus Mordino, mind a kettő akkora gyökér ártány, hogy arra nincs szó. Régen rabszolgák voltak, de fordult a kocka, és kiépítgették a maguk kis birodalmát.}
 {616}{}{Mekkora az ő kis "birodalmuk"?}
 {625}{}{Az utca végén övék a Desperado. Nem lehet eltéveszteni. Ezenkívül Renóban övék a legnagyobb Jet-készlet. Szóval, ha sürgős repülhetnéked van...}
-{626}{}{Speaking of which, do you know where can I get some drugs around here?}
+{626}{}{Jó, hogy említed... tudod, hol szerezhetnék a környéken drogot?}
 {627}{}{Hogyhogy a Mordino családé a legnagyobb Jet-készlet?}
 {628}{}{Mesélj nekem a többi családról!}
 {635}{}{Ők vannak a rakás tetején, barátom. Nem másért. Övék az üzem, az üzemeltető, és az elosztó. Annyi Jetjük van, hogy a repülnivágyóknak nyithatnának egy komplett repülőteret.}
@@ -210,14 +210,13 @@
 {811}{}{Mit csinálnak ott?}
 {825}{}{Tesztelik a legújabb Jeteket, amennyire hallottam. Amúgy BIZALMASAN megsúgom, barátom, hogy ne szaglássz ott... Mordinóék nem csípik a látogatókat. Meg amúgy is... Jules megszerzi neked a szükséges Jetet.}
 {826}{}{Miért tesztelik Mordinóék a Jetet? Amennyire tudom, éppen eléggé addiktív.}
-{827}{}{Who do the Mordinos test the drugs on?}
+{827}{}{Kin tesztelik Mordinóék a drogot?}
 {828}{}{Tudod, hogyan juthatnék el az Istállóba?}
 {840}{}{Leginkább rabszolgákon. Karámokban tartják őket, mint a brahminokat. }
 {841}{}{Mordinóék mindig az erre járó rabszolgakereskedőktől vásárolnak egy rakással. }
 {842}{}{Mordinóék mindig a New Renóban megforduló, hozzád hasonó rabszolgakereskedőktől vásárolnak egy rakással. }
 {843}{}{Nagyon sokat vásárolnak, ugyanis a rabszolgák folyton megbetegednek, elszöknek... vagy épp meghalnak. Leginkább meghalnak.}
-{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
- BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
+{860}{}{Hogy még jobb legyen, hogy tökéletesedjen az eljárás. A Jet jó dolog, de ha még jobbá tehetik... gondolom akkora lehet a különbség, mintha egy felhőkarcoló tetejéről vagy a holdról néznél lefelé.}
 {880}{}{Na, ne szórakozz már! Én a puszta gondolatától is messzire futnék, barátom. Mordinóék úgy őrzik azt a helyet, mint a házőrző kutyák. Ha jól van dolgod, üsd ki a fejedből! }
 {881}{}{Csak van mód, hogy bejussak...}
 {886}{}{Na, jó, hagyjuk az egészet! Kösz az információért.}
@@ -243,18 +242,16 @@
 {987}{}{Édes kis húgom, nem kell tovább menned. Szerénységemnél jobb partnert nem találsz. }
 {988}{}{Nekem MINDENEM van, vagy ha mégsem, akkor te nem is akarsz olyat. Nekifekhetünk a biznessznek?}
 {989}{}{Feküdjünk neki a biznessznek, Jules!}
-{990}{}{What kind of drugs can I get in New Reno?}
+{990}{}{Miféle drogokat szerezhetek New Renóban?}
 {991}{}{Sajnálom, erre most nincs időm, viszont kérdeznék valamit.}
-{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
-{1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
+{992}{}{Jelen pillanatban nem annyira érdekelnek a drogok. Inkább lépek...}
+{1005}{}{MINDEN szar van itt nálam. Van olyan szarom, ami felkelti a vágyat, van olyan szarom, ami a nőd vágyát kelti fel, merevedést hoz neked, boldoggá tesz, erőssé varázsol, vagy épp okossá... és persze MINDEN DROGOK DROGJA is van nálam, a főszar, amitől mindig röpködni vágysz... a Jet.}
 {1006}{}{MINDEN szar van itt nálam. Van olyan szarom, ami feltüzesít, benedvesít, kiszárít, lenyugtat, kivánóssá vagy netán boldoggá tesz, erőssé varázsol, vagy épp okossá... és persze MINDEN DROGOK DROGJA is van nálam, a főszar, amitől mindig röpködni vágysz... a Jet.}
 {1008}{}{A Jet honnan származik? Régóta megszokott drog errefelé?}
 {1025}{}{Hát... izé.. a Jet innen származik... úgy értem, Renóból. Nem régóta létezik, de az emberek IGÉNYLIK, ha érted, mire gondolok. (kacsint) Ez a fő turista attrakciónk, amivel a hozzád hasonlókat idevonzzuk.}
-{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
+{1026}{}{Szeretnék egy kis drogot vásárolni. Mutasd, mid van.}
 {1027}{}{Jó-jó, de hogyhogy innen származik?}
-{1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making drugs. He MADE Jet.}
+{1035}{}{Rém egyszerű. A Mordino család megütötte a főnyereményt, hogy összeszedtek maguknak egy Myron nevű valóságos kis agytrösztöt. Annak az embernek úgy megy a drogkészítés, mint a karikacsapás. Ő találta fel a Jetet.}
 {1036}{}{Myron? Hol találom őt?}
 {1045}{}{(Közelebb hajol.) Nem nagyon akarok New Reno kevésbé kellemetes dolgairól beszélni, de a várostól észak felé van egy Istálló, amit Mordino emberei nagyon őriznek. Na, ott megtalálod Myront.}
 {1046}{}{Van egy istálló a városon kívül?}
@@ -288,10 +285,9 @@
 {1147}{}{Veszem az adást, hugi, veszem. Ha minőségi áru kell, keresd fel az én Eldridge cimborámat a Nyugati Negyedben. Van olyan cucca, amivel úgy ölhetsz meg valakit, hogy nem is láttad. Mondd meg neki, hogy én küldtelek.}
 {1148}{}{Kis húsom, már így is elég komoly szarokkal pakoltad fel habtestedet. Ha ezen kívül még többet akarsz, keresd fel az én Eldridge cimborámat a Nyugati Negyedben. Van olyan cucca, amivel úgy ölhetsz meg valakit, hogy nem is láttad. Mondd meg neki, hogy én küldtelek.}
 {1150}{}{Kösz a tippért, azt hiszem, már megyek is.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
- from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
+{1165}{}{Vásárolhatnékod van? Látogass el Renescóhoz a Nyugati Negyedben... de azért fogadj meg valamit: ne vásárolj tőle drogot, mert nem tiszta árut kínál! A többi áruja rendben van, de drogot inkább tőlem vegyél.}
 {1166}{}{Eszembe véstem. Most viszont jönnek a kérdéseim...}
-{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{Nahát, nem tiszta drogot árul? Hát kösz a tippet, asszem, megyek is.}
 {1175}{}{Veszem az adást, tesó. A turisták legtöbbje egy nagy gyík, végigflangálnak a Szűz utcán, a ruppótlan kurvák meg jól megszívatják őket. Te tökös gyereknek látszol. A Cat's Pow szalonban van a helyed, ott az utca másik oldalán. Mondd meg nekik, hogy Jules küldött!}
 {1176}{}{Veszem az adást, hugi. A turisták legtöbbje egy nagy gyík, végigflangálnak a Szűz utcán, a selyemfiúk meg jól megszívatják őket. Te belevaló csajnak látszol. A Cat's Pow szalonban van a helyed, ott az utca másik oldalán. Mondd meg nekik, hogy Jules küldött!}
 {1177}{}{(Kitárt karral mosolyog.) Ne is menj tovább, édes kis húgom. Jules csak csak úgy csüng az ajkaidon.}
@@ -301,15 +297,14 @@
 {1190}{}{Menedékvárosra gondolsz, ugye? Észak-kelet felé megtalálod. Nem lehet eltéveszteni, az összes karavánút arra halad.}
 {1191}{}{Rendben. Kérdeznék még, ha nem gond...}
 {1192}{}{Hát kösz a tippért. Most lépek ezerrel.}
-{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
+{1200}{}{Milyen Éden? Valami drogról beszélsz? Mit csinál ez az Édenkert balhé? Betépsz tőle?}
 {1201}{}{Nem, hanem... á, hagyjuk. Inkább kérdezek mást...}
 {1202}{}{Vedd úgy, mintha nem is mondtam volna. Viszont most mennem kell.}
 {1210}{}{Nem tudok erről semmit. Sajnálom, ami veled történt. Nem rabszolga-hajcsárok tették?}
 {1211}{}{Akár... de inkább térjünk más vizekre...}
 {1220}{}{Egy mi a túrót?}
 {1221}{}{Felejtsük el, ez már a múlt! Inkább kérdeznék valamit.}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
- to live for without being given impure shit.}
+{1230}{}{Öö... a Wright kölyköt említetted? Igen, hallottam a dologról. Csúnya ügy. Az olyan korú gyerekeknek nem volna szabad drogot adni. Annyi minden vár rájuk még az életben, nem szabadna sittes anyaggal tömni őket.}
 {1231}{}{Sittes anyagról beszélsz, miközben Renesco szerint arzénnal "dúsított" Jetet árulsz.}
 {1232}{}{Mit értesz sittes anyag alatt?}
 {1233}{}{Tudsz valamit erről az üres Jet-ampulláról?}

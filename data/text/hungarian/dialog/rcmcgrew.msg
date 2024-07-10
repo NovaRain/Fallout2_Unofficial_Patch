@@ -45,9 +45,7 @@
 {144}{}{A legtöbb, amit tehetek, hogy jól menedzselem a bányámat és tudatosítom a bányászaimmal, hogy kitől jön a pénz. Az a tény, hogy New Renóból kapják a boldogságszirupjukat, csak még népszerűbbé teszi a helyet.}
 {145}{}{Boldogságszirup?}
 {146}{}{Időről időre mindenkinek szüksége van egy kis napfényre az életében. Viszlát, Dan.}
-{147}{}{Booze, drugs, all sorts of chemical recreation. You name it and New Reno supplies it. It's just
- about the only thing that some of my miners work for. Be hell to pay if something ever happened to
- that.}
+{147}{}{Pia, drogok, mindenféle vegyi stimulátorok. Csak megmondod, mi kell és New Reno leszállítja. Néhány bányász csak ezekért él. Pokolian ráfizetünk, ha valami felrúgja ezt az állapotot. }
 {148}{}{Mi a helyzet mostanság a Jet-utánpótlással?}
 {149}{}{Le mertem volna fogadni. Na, kérdezek valami mást.}
 {150}{}{Kösz az információt. Körülnézek egy kicsit, Dan. Viszlát!}
@@ -185,9 +183,7 @@
 {280}{}{Vigyázzon magára. Nekem nagyon kell az a chip.}
 {281}{}{Meséljen még a városban folyó dolgokról!}
 {282}{}{Kösz az ötletet. Viszlát!}
-{283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
- I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
- medicine and drugs that we get here in town.}
+{283}{}{"Nemfáj" Johnson doki a helyi kuruzslónk. Talán tud azért valamit a gyógyításról is, de nem sokat. A belváros nyugati szélén lakik. Akárhogy is, ami gyógyszer és drog eljut a városba, az nála rendszerint kapható.}
 {284}{}{Mindent árul?}
 {285}{}{Még látjuk egymást, Dan. Viszlát!}
 {286}{}{Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampoules. Folks trust

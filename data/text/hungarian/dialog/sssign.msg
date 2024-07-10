@@ -3,7 +3,7 @@
 {102}{}{Ez egy tipikus hirdetőtábla, teletűzdelve mindenféle cetlivel. A papírhalmazból kitűnnek az ÚKK törvényeit ismertető jegyzetek.}
 {103}{}{Üdvözöljük az Új Kalifornia Köztársaságban! Mielőtt belépne városunkba, kérjük ismerkedjen meg a szabályainkkal!}
 {104}{}{Városunk határain belül tilos a nyílt fegyverviselés.}
-{105}{}{Persons found under the influence of alcohol or drugs will be arrested.}
+{105}{}{Az alkohol vagy drog hatása alatt álló személyeket azonnali hatállyal letartóztatjuk.}
 {106}{}{A rabszolgatartás, a szerencsejáték, és a prostitúció tiltott tevékenységek városunk határain belül.}
 {107}{}{A törvények nem-ismerete nem mentesít azok megszegése alól.}
 {108}{}{Ha nem tud együttélni e szabályokkal - tűnjön a fenébe innen!}

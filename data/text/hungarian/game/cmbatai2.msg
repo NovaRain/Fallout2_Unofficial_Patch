@@ -853,7 +853,7 @@
 {3262}{}{Melyik énre céloztál?}
 {3263}{}{Vhoa. Majdnem elkaptál.}
 {3264}{}{Tudtam, hogy a Jettől gyorsabb leszek...}
-{3265}{}{You fight pretty badly for a drug-induced hallucination.}
+{3265}{}{Elég rosszul harcol ez a hallucináció.}
 {12000}{}{Nincs az a pénz, amiért ezen a szar helyen meghalnék...}
 {12001}{}{Visszavonulás!}
 {12002}{}{Ideje eltűnni...}

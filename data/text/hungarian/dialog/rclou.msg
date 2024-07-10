@@ -41,9 +41,7 @@
 {139}{}{Ja. Egyedül a város északi szélén két működő aranybánya is van.}
 {140}{}{Azt mondta, hogy arannyal kereskednek?}
 {141}{}{Érdekes. Mindegy, kérdeznék valami mást.}
-{142}{}{Well, we trade gold ore to Vault City in return for medical supplies. We trade ore to the New
- California Republic in return for fresh brahmin and other victuals, and we trade gold to New Reno for
- drugs and booze.}
+{142}{}{Menedékvárosból gyógyeszközöket kapunk az aranyért. Az Új Kalifornia Köztársaság friss brahmin-húst és más élelmet ad érte, New Reno pedig kábítószert és piát.}
 {143}{}{Maguk bányásszák az aranyat?}
 {144}{}{Érdekes. Mindegy, kérdeznék valami mást.}
 {145}{}{Csak egy nagytestű kutya.}

@@ -24,7 +24,7 @@
 {240}{}{Méh-gezni hangoz jól.}
 {241}{}{Mérgezni? Én nem akarni méreg!}
 {242}{}{Mit tud adni?}
-{243}{}{What kind of drugs do you have?}
+{243}{}{Milyen drogja van?}
 {244}{}{Ki az az idősebb fickó ott annál a szakadt játékgépnél?}
 {245}{}{Ki az a késes fickó ott a bárpultnál?}
 {246}{}{Tőled? Semmit.}

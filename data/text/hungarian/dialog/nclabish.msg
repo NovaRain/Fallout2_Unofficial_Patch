@@ -300,8 +300,7 @@
 {771}{}{Csendben kicsusszansz az ágyból és felöltözöl.}
 {780}{}{Neki a szerelmeskedés annyiból állt, hogy betört a hálószobámba, és meghágott, mint egy részeg brahmin. És ez még az enyhébbik hiányosságai közé tartozik a többihez képest.}
 {781}{}{Miért, mik a többi hiányosságai?}
-{790}{}{He also probably wants a say in who controls the drug trade in the new California
- Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
+{790}{}{Abba is beleszólást akar, hogy ki ellenőrzi az Új Kalifornia Köztársaság drogkereskedelmét... Ő. Ki más? Kicsit meg akarja kozmetikázni a délen folytatott választásokat... *ásít*}
 {791}{}{Szóval gyakorlatilag azt szeretné, ha Reno CSATLAKOZNA a Köztársasághoz... hmmmmm. Oké. Beszéljünk most valami másról...}
 {792}{}{Érdekes. Megtudhatnék még egy s mást, miben mesterkedett John?}
 {800}{}{Drugs are illegal in Vault City, of course. The other Citizens found out and revoked my Citizenship. John was the only one I could turn to... he knew that, of course. He'd planned the whole thing.}

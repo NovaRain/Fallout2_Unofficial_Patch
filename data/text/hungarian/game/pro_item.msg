@@ -103,7 +103,7 @@
 {5200}{}{Geiger-számláló}
 {5201}{}{Wattz Electronics gyártmányú "C-Radz" Geiger-Müller számláló. Jelzi a radioaktivitást, és annak erősségét.}
 {5300}{}{Mentát}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{A pillbox of mind-altering chems. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Stealth Boy}
 {5401}{}{"RobCo Stealth Boy 3001" személyi álcázó készülék. Olyan mezőt hoz létre, amely a visszavert fényt a tárgy másik oldalára irányítja.}
 {5500}{}{Víztisztító chip}
@@ -179,7 +179,7 @@
 {9000}{}{Hátizsák}
 {9001}{}{Hátizsák a fakultatív szíjakkal.}
 {9100}{}{Orvosi táska}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Egy táska, mely mindazon műszereket és gyógyszereket tartalmazza, melyeket az orvosok használnak munkájuk során.}
 {9200}{}{Skorpiófarok}
 {9201}{}{Egy radskorpió levágott farka.}
 {9300}{}{Zsák}
@@ -215,7 +215,7 @@
 {10800}{}{Csontok}
 {10801}{}{Egy pár fura csont.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Sugárzás elleni kapszulák. Ajánlott a fertőzött területre való belépés előtt bevenni. Nincs ismert mellékhatása.}
 {11000}{}{Pszicho}
 {11001}{}{Valószínűleg katonai eredetű, ismeretlen vegyületeket tartalmazó szer. A katonák harci potenciálját hivatott növelni.}
 {11100}{}{,44-es FK magnum}
@@ -794,7 +794,7 @@
 {40800}{}{Szakorvosi elsősegély csomag}
 {40801}{}{Egy kis készlet, mely a legalapvetőbb orvosi eszközöket tartalmazza: kötszer, fásli, fertőtlenítő folyadék, stb.}
 {40900}{}{Mentőorvosi táska}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Ez a táska különféle műszereket és gyógyszereket tartalmaz, melyeket a mentőorvosok használnak munkájuk során. A benne található eszközök kifejezetten súlyos sérülések gyors ellátására készültek.}
 {41000}{}{Bővített tolvajkulcs készlet}
 {41001}{}{Egy készlet, mely minden fontos eszközt tartalmaz egyszerűbb zárak kinyitásához, beleértve különböző fogókat és feszítőket. Ez a készlet tartalmaz néhány speciális szerszámot is, bonyolultabb zárakhoz.}
 {41100}{}{Elektromos Zárnyitó II}

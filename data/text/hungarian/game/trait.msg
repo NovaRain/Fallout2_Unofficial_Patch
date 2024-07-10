@@ -9,8 +9,8 @@
 {108}{}{Vérfürdő}
 {109}{}{Balszerencse}
 {110}{}{Jó természetű}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Drogfüggő}
+{112}{}{Drogellenállás}
 {113}{}{Szexepil}
 {114}{}{Képzett}
 {115}{}{Tehetséges}

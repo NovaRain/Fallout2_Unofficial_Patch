@@ -61,7 +61,7 @@
 {404}{}{Beszélnél a Testvérekkel az érdekemben?}
 {405}{}{Give a good word to the brothers for me, alright?}
 {406}{}{Okos dolog, hogy egy követ fújsz a Mordinókkal. Nekünk van jövőnk.}
-{407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{407}{}{Kell egy kis drog? Pia? Pénzmag? Tudok segíteni. Vannak kapcsolataim.}
 {408}{}{Mi lenne, ha mi ketten csinálnánk egy filmet? Jól fogok bánni veled, chica, megmutatom, mit tud egy latin szerető.}
 {409}{}{Miért nem ugrasz be munka után?}
 {410}{}{Van barátod?}
@@ -235,8 +235,7 @@
 {969}{}{Tudod, hogy ki adta el Richard-nak a halálos Jetet?}
 {970}{}{Hát ez megvilágít egy-két kétes dolgot számomra. Hadd kérdezzek akkor még valamit...}
 {971}{}{Kösz az információt, Jesus. Nagy segítségemre voltál.}
-{980}{}{Yeah, Renesco... the "Rocketman." Sells so much Jet, he could shoot you to the moon. He's on the west side, in Salvatore
- territory. He don't like the Wrights none, and his drugs ain't PURE, know what I'm saying?}
+{980}{}{Igen, Renesco... a Rakétás Renesco. Annyi Jetet ad el, hogy a holdig felrepítene. A nyugati negyedben lakik, ami a Salvatorék vadászterülete. Nagyon rühelli a Wright családot, és a drogja bizony NEM tiszta.}
 {981}{}{Egy ekkora városban nem létezik, hogy csak ő az egyetlen díler.}
 {982}{}{A nyugati negyedben? Lehet, hogy benézek hozzá, viszont addig is válaszolhatnál egy-két kérdésemre...}
 {983}{}{Rendben, utánanézek. Köszi, Jesus.}
@@ -250,7 +249,7 @@
 {1002}{}{Lehet, hogy utánanézünk, de most válaszolj még néhány kérdésemre...}
 {1003}{}{Na, akkor végeztünk, Jesus, megyek, lecsekkolom ezt a Renescót.}
 {1010}{}{Ott van Jules a városkapunál, ő a jövevényeket pumpolja... aztán ott van Csipkés Jimmy J. a 2. utcában, az edzőterem mellett... nem lehet elmenni a barma mellett anélkül, hogy észrevennéd, mert egyik éjszaka úgy belőtte magát Jettel, hogy szanaszét szabdalta az arcát... ez olyan remekül sikerült neki, hogy az egész pofázmánya merő egy seb.}
-{1011}{}{I hear you deal drugs, too, Jesus. How come YOUR name wasn't on that list?}
+{1011}{}{Úgy hallottam, te is árulsz drogot, Jesus. Hogyhogy a TE neved nem volt azon a listán?}
 {1012}{}{Miből gondolod, hogy Renesco a tettes?}
 {1013}{}{Érdekes. Inkább kérdezek mást...}
 {1014}{}{Renesco, Jules és Csipkés Jimmy J. Eszembe véstem. Kösz az információt.}

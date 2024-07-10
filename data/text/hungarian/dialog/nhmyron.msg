@@ -247,15 +247,15 @@
 {862}{}{Ööö, mennyit kellett tesztelni?}
 {863}{}{Pontosan mennyit kellett tesztelni?}
 {865}{}{Ne is törődj vele, Myron!}
-{866}{}{This sounds like a load of crap... literally. It doesn't sound like you know anything about drug manufacture. "Brahmin Shit Fumes?" Please. I've heard enough.}
+{866}{}{Ez egy nagy rakás szar... szó szerint. Nem úgy tűnsz, mint aki egy hangyányit is konyít a drogkészítéshez. "Brahminszar kigőzölgés..." Ugyan már... elég ebből az oktalanságból!}
 {870}{myn126}{Hmmm... úgy száz rabszolga halt meg... Többnyire szívrohamtól, agyvérzéstől, pszichotikus rohamoktól... ilyesmitől.}
-{871}{}{Are you insane? You killed a hundred human beings just for drug testing?!}
+{871}{}{Meg vagy zavarodva?! Száz emberi lényt megöltél, csakhogy tesztelhesd a drogodat?!}
 {872}{}{Hihető... a Jet elég ütős tud lenni. Legalább nem a fontos emberek haltak meg. Ennek ellenére elég nehéz elhinni, hogy ilyen sok ember halála fűződik a nevedhez.}
 {873}{}{Értem. Hadd kérdezzek valami mást...}
 {880}{myn127}{Persze nem szándékosan. Úgy értem, a rabszolgák nem olcsók. Az első néhány hónapban nem nagyon vittük a pénzt, szóval a Mordino család nem volt nagyon kiakadva rám.}
 {881}{}{Szerintem ki fogunk jönni egymással, Myron. A cél szentesíti az eszközt. Viszont kérdeznék még ezt-azt...}
-{882}{}{Myron, you are lower than a snake's shadow. Killing humans for drug testing... that's the coldest thing I've ever heard.}
-{883}{}{Myron, you killed over a hundred humans beings for the sake of drug testing? Did you get your conscience lobotomized when you were a kid?}
+{882}{}{Myron, te még a béka segge alatt se látszódnál. Emberi lényeket gyilkolni drogteszt céljából... ez a legnagyobb gyökérség, amit valaha hallottam.}
+{883}{}{Myron, te emberek százait ölted meg drogteszt címén? Elvesztetted a lelkiismeretedet, amikor gyerekkorodban lobotomizáltak?}
 {884}{}{Erről mesélhetnél. A rabszolga árak egyre mennek felfelé. Bárcsak gyorsabban szaporodnának az emberek. Mellesleg volna még néhány kérdésem...}
 {885}{}{I... see. Look, I had some other questions...}
 {886}{}{Értem, viszlát!}
@@ -317,7 +317,7 @@
 {1042}{}{Hagyjuk!}
 {1050}{myn145a}{Öö... először szükségem volna egy-két radskorpió méregtasakjára. Ugye csak viccelsz?}
 {1051}{myn145b}{Óh, hát hogyne, szívesen, szépségem, de előtt kéne radskorpió farok. Bizony.}
-{1052}{}{Can you make any other drugs?}
+{1052}{}{Tudsz másfajta drogot is készíteni?}
 {1053}{}{Forget it then. I had some questions...}
 {1060}{myn146a}{Hmmm. Nem lehet túl nehéz. Hány üveg antimérget akarsz?}
 {1061}{myn146b}{Ah, folyton csak nyavalyogsz. Gondoltál már valaha arra, te zseni, hogy először is elkerülhetnéd azokat a francos skorpiókat? Na, most épp mennyit akarsz?}
@@ -325,7 +325,7 @@
 {1063}{}{Egyet.}
 {1065}{}{Három a magyar fordítók igazsága.}
 {1066}{}{Csinálj antimérget az összes nálunk lévő skorpiófarokból. Egyéb hasznuk úgy sincs.}
-{1067}{}{Forget it. Can you make any other drugs?}
+{1067}{}{Hagyjuk. Tudsz másmilyen drogot készíteni?}
 {1068}{}{Egyet sem. Meggondoltam magam. Inkább kérdeznék...}
 {1081}{myn147a}{Kész van, tessék...}
 {1082}{myn147b}{Tessék, itt van. Viszont többet nem csinálok ebből a szarból, értve? Legközelebb szépen keresel magadnak egy kuruzslót, aki megcsinálja.}
@@ -342,7 +342,7 @@
 {1113}{}{Tudsz szuper-stimpakkot csinálni?}
 {1114}{}{Jó, felejtsük el! Inkább kérdezek más egyebet...}
 {1125}{myn151}{Sorry, we just ain't got what I need to whip up a stim. Let's see: You'll need some xander root... some broc flower... and an empty hypo.}
-{1126}{}{Can you make some other drugs?}
+{1126}{}{Tudsz más drogot is készíteni?}
 {1127}{}{Ha megy a stimpakk készítés, akkor miért nem tudsz szuper-stimpakkot készíteni?}
 {1128}{}{Jól van akkor. Térjünk vissza a kérdéseimre...}
 {1135}{myn152}{Én mindent tudok... viszont nincs elég nyersanyag. Kell egy kis mutáns gyümölcs a citromsav miatt... egy löttyenet Nuka-Cola... és egy közönséges stimpakk.}
@@ -414,7 +414,7 @@
 {1347}{myn216c}{Ezt eltaláltad, szépségem.}
 {1348}{myn216d}{T-tudok adni drogot, ha kell. Akarsz repülni?}
 {1349}{}{Tulajdonképpen, bármid van, elviszem. Adj át mindent, és akkor életben hagylak!}
-{1350}{}{Sure. Give me all the drugs you got.}
+{1350}{}{Jó. Adj ide minden nálad lévő drogot.}
 {1351}{}{Most nem akarok semmi különöset. Talán később.}
 {1365}{myn217}{Rendben, rendben. Tessék. Most már békén hagysz?}
 {1366}{}{Nem. Ki vagy?}
@@ -429,7 +429,7 @@
 {1381}{}{Én egyszerűen rossz ajtón léptem be. Viszlát!}
 {1395}{myn219a}{Valóban? Mit keresel itt? Hm? Azt hitted, kiverhetsz Myronból egy kis potyadrogot?}
 {1396}{myn219b}{Mindegy, szépségem. Akarsz egy kis drogot, hogy megtörjön a jég, vagy csak simán jöhet a lepedőakrobatika?}
-{1397}{}{I would, but I don't have ten seconds to spare right now. What drugs are you talking about?}
+{1397}{}{Benne lennék, de sajnos nincs tíz szabad másodpercem erre a célra. Miféle drogról beszélsz?}
 {1398}{}{Drugs? Like what?}
 {1399}{}{Most már biztos vagyok benne, hogy rossz szobába jöttem. Bocsánat.}
 {1405}{myn220a}{Hé, tökfej! Ez Jet, te faszrágó, Jet, érted! A készítővel beszélsz! A kreátorral! Magával az... Istennel!}
@@ -507,7 +507,7 @@
 {1578}{}{Akkor induljunk.}
 {1579}{}{Arroyo csak 106 mérföld, van egy egész fúziós cellánk, egy fél csomag RadAway-ünk, éjfél van, és a 13-as Menedék ötven évesnél is idősebb kezeslábasát hordom. Mehetünk.}
 {1585}{myn233}{Ah! Szóval Myron képességeire van szükséged? Én amolyan tudósféle vagyok. Mindent tudok, mindent látok. Nem is beszélve arról, hogy bármilyen drogot elő tudok állítani, amire szükséged lehet. Persze a megfelelő nyersanyagok függvényében.}
-{1586}{}{All right then, you've passed the interview. The part about the drugs helped. Follow me.}
+{1586}{}{Akkor megegyeztünk, átmentél a vizsgán. A drogos rész eléggé dobott rajta. Gyere utánam.}
 {1587}{}{Még gondolkozom rajta. Volna még néhány kérdésem számodra...}
 {1588}{}{Hát még gondolkodom rajta... nem arról van szó, hogy meg akarlak bántani, de a tudóspalánták hírhedten híresek arról, hogy a harcban fabatkát sem érnek.}
 {1589}{}{Át kell ezt még gondolnom. Még visszajövök.}

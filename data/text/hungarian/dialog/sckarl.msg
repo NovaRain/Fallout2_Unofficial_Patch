@@ -12,7 +12,7 @@
 {111}{}{Hol találom Roger Westint?}
 {112}{}{Nem mulattott maga egy kicsit sokat? Nézze csak, itt egy nyitott cella! Miért nem megy hátra és alussza ki magát?}
 {113}{}{Hallgasson rám! Kérje meg a barátait, hogy vigyék haza, ott majd kialussza magát. Itt bűnnek számít nyilvános helyen inni.}
-{114}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
+{114}{}{Ez az ÚKK, az Új Kaliforniai Köztársaság fővárosa. 3000 lakosa van, és folyamatosan nő. Nincs rabszolgatartás, nincs szerencsejáték, nincs drog. Mrs. Tandi az elnök, Dumont seriff a főnököm. Ezzel megválaszoltam a kérdését?}
 {115}{}{Hát, lenne még néhány...}
 {116}{}{Ja, ez minden.}
 {117}{}{Mikor kicsi gyerek voltam, én is azt kerestem. Szóljon, ha megtalálta!}

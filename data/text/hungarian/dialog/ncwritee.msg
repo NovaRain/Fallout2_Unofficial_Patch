@@ -115,7 +115,7 @@
 {390}{}{Jobb, ha továbbállsz... mi nem nagyon szíveljük a hajcsárokat.}
 {391}{}{Ne is reménykedj abban, hogy itt bárkit is be tudsz fogni! Ha balhézol, kinyúvasztunk!}
 {392}{}{Tartsuk meg a távolságot, hajcsár! Ha üzleti ügyed van apuval, eredj és intézd el vele!}
-{393}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
+{393}{}{Nehogy legyen nálad drog, különben apu kicsinál! Utána én is kicsinállak!}
 {394}{}{Figyellek, hajcsár, szóval jól gondold meg, mit csinálsz, hallod-e!}
 {395}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, úgy belédlövök, hogy elszállsz a cipődből!}
 {396}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, megöllek!}
@@ -125,7 +125,7 @@
 {410}{}{Jobb, ha olajra lépsz... ne haragudj, de apu nem nagyon csípi a törzsbélieket.}
 {411}{}{Meg se forduljon a fejedben, hogy bajt keverj! A Wright család akkora túlerőben van, hogy... ööö... szóval sokszoros túlerőben van.}
 {412}{}{Tartsuk meg a távolságot! Ha üzletelni akarsz, tedd, aztán lépj le!}
-{413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
+{413}{}{Nehogy legyen nálad drog, különben apu kicsinál! Utána én is kicsinállak!}
 {414}{}{Figyellek, szóval jól gondold meg, mit csinálsz, hallod-e!}
 {415}{}{Honnan jöttél? Ilyeneket, mint te, már régóta nem láttam minálunk.}
 {416}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}

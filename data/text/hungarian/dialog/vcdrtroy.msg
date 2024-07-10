@@ -65,8 +65,7 @@
 {164}{}{Mi az?}
 {165}{}{Köszönöm, hogy rám gondolt, de nem érdekel.}
 {166}{}{Örülök, hogy így döntött!}
-{167}{}{It has come to my attention that there is a new drug in the wastes. It's called "Jet," I
- believe. I'm willing to pay a thousand dollars for a sample of this drug.}
+{167}{}{Tudomásom szerint megjelent egy új drog, amit Jetnek hívnak. Hajlandó vagyok ezer dollárt fizetni egy adagért.}
 {168}{}{Épp van nálam egy adag.}
 {169}{}{Legyen inkább 1200!}
 {170}{}{Lehet róla szó, de 1500 dollárba fog kerülni.}
@@ -122,8 +121,7 @@
 {216}{}{Ön is az ellenanyagon dolgozik?}
 {217}{}{Igen, ezért volt szükségem egy adag Jetre.}
 {218}{}{Igen, de sikertelenül.}
-{219}{}{This drug's stranglehold needs to be stopped before it can spread. Why... with the information
- you've provided, we could manufacture the antidote today! Hold on.}
+{219}{}{A drog hatóanyagát semlegesíteni kell, mielőtt az lebomlik. Erre a teóriára alapozva még ma elkészíthetjük az ellenanyagot! Várjon! Azonnal nekiállok.}
 {220}{}{Remek! Köszönöm, doktor.}
 {221}{}{Ez a fiatalember? Ő készítette a Jetet?}
 {222}{}{Azt nem mondanám, hogy "ember", de igen, ő készítette. Vagy legalábbis azt állítja.}
@@ -136,8 +134,7 @@
 {229}{}{Brahmin-gázok? Hát nem egy konvencionális előállítási folyamat de... miért is ne? Talán, ha mintát vennék egy brahmintól a külső övezetben. Köszönöm, barátom!}
 {230}{}{Nem probléma.}
 {231}{}{Persze.}
-{232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
- manufacturing drugs. His manners and language also leave MUCH to be desired.}
+{232}{}{Megmondhatja a kis huligán barátjának, hogy ostobaságot csinál, ha drogok kifejlesztésére vesztegeti el az egyébként briliáns elméjét. Valamint azt, hogy a modora és a kommunikációs készsége még IGEN SOK kívánnivalót hagy maga után.}
 {233}{}{Mesélj róla!}
 {234}{}{Maybe you should loosen up a little, Doc. A little drug use never hurt anyone. Well, except for
  those super stimpaks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
@@ -147,9 +144,7 @@
 {238}{}{Mire kell az magának?}
 {239}{}{Jól hangzik, benne vagyok.}
 {240}{}{Sajnálom, de nem érdekel.}
-{241}{}{It would be... helpful to me and my work if you could bring me a sample of this drug. I will pay
- you a thousand dollars for the delivery. But it is of utmost importance that you keep this transaction
- confidential.}
+{241}{}{Szükségem van erre az anyagra... a munkám miatt. Ezer dollárt fizetek érte, de nagyon fontos, hogy bizalmasan kezelje a tranzakciót!}
 {242}{}{Hmm... szóval bizalmasan?}
 {243}{}{Igazán? És mennyit fizetne azért, hogy tartsam a pofám? Akár már most is feldobhatnám.}
 {244}{}{Van nálam egy adag Jet.}
@@ -171,8 +166,7 @@
 {260}{}{Higgadjon le, csak tréfa volt! Nem kell pánikolni!}
 {261}{}{Én már csak ilyen bátor fickó vagyok. Szóval, mennyit ér a Polgársága? Tudja, a pusztai élet nagyon megviselheti az embert.}
 {262}{}{Ostoba voltam, hogy megbíztam magában! Legyen... mit akar tőlem?}
-{263}{}{Five hundred on the first of every month, and we'll keep your drug smuggling between the two of
- us.}
+{263}{}{Ötszáz dolcsi minden hónap elsején és ez a kis drogcsempészet köztünk marad.}
 {264}{}{Egy ezres minden hónap elsején és megtarthatja a Polgárságát.}
 {265}{}{Kétezer minden hónap elsején és hallgatok.}
 {266}{}{Megőrült? Ennyit nem tudok fizetni!}
@@ -240,8 +234,7 @@
 {328}{}{(Stand around for a moment)}
 {329}{}{Jó hírem van! Sikerült ellenanyagot készítenem abból a Jetből, amit nekem adott.}
 {330}{}{Jó hírem van, megtaláltam a Jet ellenszerét. Nem sikerült volna az ön briliáns ötlete nélkül.}
-{331}{}{Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated
- with the drug.}
+{331}{}{A szervezetbe juttatva megszünteti a drog által okozott eufóriát és enyhíti az elvonási tüneteket is.}
 {332}{}{Nagyszerű! Kaphatnék belőle?}
 {333}{}{Ez valóban jó hír. Kaphatnék egy adagot? Szeretnék segíteni Redding lakóin.}
 {334}{}{Természetesen. Kérem, vigye el a reddingi kollégámnak, Dr. Johnsonnak! Ő majd segít a rászorulókon.}

@@ -38,9 +38,7 @@
 {280}{}{Non molto. Scusa il disturbo.}
 {290}{}{Non hai mai sentito parlare della Famiglia Wright? Devi aver passato troppo tempo nel deserto, allora. Gli Wright sono la piu' grossa famiglia criminale di Reno. Presto domineremo questa citta'.}
 {291}{}{Davvero? Sembra proprio che la famiglia Wright abbia tutte le carte in regola. Avete bisogno di un paio di braccia in piu'?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
- other families.}
+{292}{}{Veramente avevo l'impressione che fosse una delle famiglie piu' deboli... Voglio dire, vendono solo alcol e non hanno un casino ne' spacciano droga. Come se non bastasse non sono numerosi quanto le altre famiglie.}
 {293}{}{A proposito di famiglia... ho conosciuto tua madre.}
 {294}{}{Puoi dirmi cos'e' successo a tuo fratello Richard?}
 {295}{}{Davvero? Molto interessante... beh, scusa, ma devo andare.}
@@ -121,8 +119,7 @@
 {486}{}{Ehi, ragazza mia, GRAZIE. }
 {487}{}{Hai scoperto chi ha ucciso mio fratello, e tutta la Famiglia Wright ti ringraziera', stanne certo. E non sara' un ringraziamento da poco, credimi.}
 {488}{}{Ho capito. Ci becchiamo dopo, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Anche Jules, all'entrata della citta', vende il Jet, ma di solito i suoi clienti sono turisti... poi c'e' Little Jesus Mordino: potrebbe aver venduto la droga a mio fratello mentre Rich era fuori da solo. Lo troverai al Desperado.}
 {496}{}{Ho capito. Senti, avrei delle altre domande…}
 {497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules e Little Jesus… Andro' a parlare con loro. Grazie delle informazioni, Chris. }
 {1200}{}{! Sei stato grande a spazzare via l'Enclave!}

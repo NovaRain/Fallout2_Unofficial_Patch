@@ -3,7 +3,7 @@
 {2}{}{Fegyverhasználat}
 {3}{}{Távolság}
 {4}{}{Kit támadjon}
-{5}{}{Drug Use}
+{5}{}{Droghasználat}
 {10}{}{Kész}
 {11}{}{Mégse}
 {99}{}{Nem lehetséges.}
@@ -37,5 +37,5 @@
 {600}{}{Tiszta vagyok.}
 {601}{}{Stimpakkot, ha fáj egy kicsit.}
 {602}{}{Stimpakkot, ha nagyon fáj.}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Bármilyen drogot, de csak ritkán.}
+{604}{}{Bármikor bármit.}

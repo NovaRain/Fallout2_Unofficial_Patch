@@ -117,8 +117,7 @@
 {486}{}{Te kislány, köszönöm NEKED!!!}
 {487}{}{Rájöttél, ki ölte meg az öcsémet. Az egész Wright család köszönettel tartozik neked. És ez bizony nem akármi ám!}
 {488}{}{Értem. Később találkozunk, Chris.}
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{A város szélén tevékenykedő Jules szintén árul Jetet, de ő leginkább a turistákat veszi célba... aztán ott van a Kis Jesus Mordino, akár ő is telenyomhatta Richie-t, amikor egyedül volt. A csávó a Desperadóban szokta múlatni az időt.}
 {496}{}{Fogom. Na, akkor kérdezek mást...}
 {497}{}{Csipkés Jimmy J, a Rakétás Renesco, Jules és Kis Jesus... mindegyiknek utánanézek. Kösz az infóért, Chris.}
 {1200}{}{! Jó munka volt seggbe rúgni az Enklávét!}

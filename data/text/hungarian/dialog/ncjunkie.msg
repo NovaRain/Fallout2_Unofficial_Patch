@@ -88,15 +88,14 @@
 {295}{}{Ha legközelebb mész Enklávét gyakni, engem is vigyél!}
 {296}{}{Király vagy, }
 {297}{}{Tudom, hogy megmentetted a világot, de nekünk, mellékszereplőknek kell viselni a következményeit.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
- I LOVE that one.}
+{298}{}{Újra végig kéne játszanod a játékot egy drogfüggő karakterrel. Tényleg! Válaszd ki a Drogfüggő tulajdonságot! Nekem tetszik.}
 {299}{}{Kösz, hogy megmentettél bennünket. Megcsókolnálak, ha nem volna hányásszagú a leheletem.}
 {300}{}{Ha elég Jetet szednék be, én magam is le tudnám nyomni az Enklávét.}
 {301}{}{[Énekel egy részt a Mad Max 3-ból.] "We don't need another hero, we don't need to know the way home..."}
 {302}{}{Engem Chris Avellone tervezett és Tom French szkriptelt. Nem én tehetek a Jetfüggőségemről.}
 {303}{}{Lőjünk be közösen egy kis Jetet és ünnepeljük meg a győzelmet! Te fizetsz!}
 {304}{}{Ha letörlöd a játékot a merevlemezről, mi még megmaradunk?}
-{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
+{305}{}{Ööö... az Enklávésok miféle drogtesztet csináltak? Volt ingyen Jet?}
 {320}{}{Hogy mész fürdeni, ha rajtad van az a vacak?}
 {321}{}{Ööö... te hozzám beszélsz?}
 {322}{}{Ó, te jó ég... ez a drogterápia egyre rosszabb. Most már beszélő bádogembereket látok magam körül.}
@@ -111,7 +110,7 @@
 {352}{}{Ha adsz pár dolcsit, a rabszolgád leszek... de először is Jetre van szükségem.}
 {353}{}{Ha adsz egy kis Jetet, a rabszolgád leszek.}
 {354}{}{Ha szerzel nekem egy kis Jetet, eladhatsz rabszolgának.}
-{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{355}{}{Nem én! Már leszoktam. Öö... miért? Vásárolni akarsz?}
 {360}{}{Te vagy az a bunyós? Kölcsönkérhetek egy kis lóvét?}
 {361}{}{Naaa, adj már egy kis pénzt!}
 {362}{}{Kölcsönkérhetek egy kis pénzt tőled? Megígérem, hogy visszafizetem!}
@@ -122,7 +121,7 @@
 {367}{}{Kéne egy kis pénz ételre...}
 {368}{}{Ha adsz egy kis Jetet, a rabszolgád leszek.}
 {369}{}{Ha szerzel nekem egy kis Jetet, eladhatsz rabszolgának.}
-{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{370}{}{Nem én! Már leszoktam. Öö... miért? Vásárolni akarsz?}
 {371}{}{Te a }
 {372}{}{Kölcsönkérhetek egy kis pénzt...? Ugyan már, nem nyúlom le!}
 {373}{}{Megdolgoznék egy kis Jetért...}
@@ -131,7 +130,7 @@
 {382}{}{Nincs szükséged valakire, akivel elszállhatnál, haver?}
 {383}{}{Apa?}
 {384}{}{Ember, repülnöm kell! Felfogod, miről beszélek?}
-{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{385}{}{Nem én! Már leszoktam. Öö... miért? Vásárolni akarsz?}
 {386}{}{Pssszt. Nem tudnál megdobni egy kis Jettel?}
 {387}{}{Kölcsönkérhetek egy kis pénzt tőled...? Ígérem, hogy megadom!}
 {388}{}{Megdolgoznék egy kis Jetért...}
@@ -149,7 +148,7 @@
 {400}{}{Ugyan, kisasszony, adjon már egy kis pénzt!}
 {401}{}{Hahó, ööö... nincs egy kis Jetje, kisasszony?}
 {402}{}{Figyelj, nekem most azonnal *repülnöm* kell, ha érted, mire gondolok!}
-{403}{}{No, I'm off drugs. Uh... why? You buying?}
+{403}{}{Nem én! Már leszoktam. Ööö... miért? Vásárolni akarsz?}
 {404}{}{Mama?}
 {420}{}{Hé, tesó! Segítesz elszállni?}
 {421}{}{Gyerünk, fiú, adj már egy kis pénzt!}
@@ -158,7 +157,7 @@
 {424}{}{Bármit megteszek, ha adsz egy kis pénzt... vagy Jetet, ha van nálad.}
 {425}{}{Egyszer szépségversenyt nyertem Renóban. Látod, semmit nem változtam...}
 {426}{}{Nincs szükséged valakire, akivel elszállhatnál, haver?}
-{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{427}{}{Nem én! Már leszoktam. Öö... miért? Vásárolni akarsz?}
 {428}{}{Apa?}
 {429}{}{Pssszt. Nem tudnál megdobni egy kis Jettel?}
 {430}{}{Kölcsönkérhetek egy kis pénzt tőled...? Ígérem, hogy megadom!}
@@ -175,7 +174,7 @@
 {441}{}{A kedvedre teszek... ha adsz egy kis Jetet.}
 {442}{}{Hé, ööö... nincs egy kis Jet nálad, húgi?}
 {443}{}{Húgocskám, "repülnöm" kell, ha érted, mire célzok.}
-{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
+{444}{}{Nem én, kishúgom! Már leszoktam. Öö... miért? Vásárolni akarsz?}
 {445}{}{Mama?}
 {450}{}{Szentséges...! Te meg mi a fene vagy? Valami robot?}
 {451}{}{Mit szedtél be, hogy ilyen fémes külsőd lett?}
@@ -206,7 +205,7 @@
 {483}{}{Csipkés Jimmy cucca a LEGJOBB. Úúúúúgy elszállsz tőle, hogy soha többé nem akarsz leszállni a földre.}
 {484}{}{Hozzám beszélsz? Hozzám beszélsz?!}
 {485}{}{Akarsz belőle egy kicsit? He?}
-{486}{}{::Glares at you past drug-hazed eyes::}
+{486}{}{::Droggőzös szemekkel néz mögéd a semmibe::}
 {487}{}{Akarsz velem repülni?}
 {488}{}{Hé, bajnok, mi a helyzet mostanában?}
 {489}{}{Bokszolni akarsz? He? Na, gyerünk!}
@@ -224,7 +223,7 @@
 {510}{}{Hozzám beszélsz? Hozzám beszélsz?!}
 {511}{}{Kötözködni akarsz, te maffia bérenc? Én egy Jet hajtotta pofozógép vagyok! Jól picsán foglak rúgni!}
 {512}{}{Akarsz ebből egy kicsit, gengszter? He?}
-{513}{}{::Glares at you past drug-hazed eyes::}
+{513}{}{::Droggőzös szemekkel néz mögéd a semmibe::}
 {520}{}{A mindenit... mivel lövöd magad? Nem maradt egy kicsi mutatóba?}
 {521}{}{Aszittem én vagyok itt a legelbaszottabb figura.}
 {522}{}{Hé, barátom... adj már abból az anyagból, amit magadba nyomtál!}
@@ -248,7 +247,7 @@
 {544}{}{Ha találkozol Renescóval, mondd meg neki, hogy holnapra meglesz a pénz!}
 {545}{}{Csipkés Jimmy cucca a LEGJOBB. Úúúúúgy elszállsz tőle, hogy soha többé nem akarsz leszállni a földre.}
 {546}{}{Hozzám beszélsz? Hozzám beszélsz?!}
-{547}{}{::Glares at you past drug-hazed eyes::}
+{547}{}{::Droggőzös szemekkel néz mögéd a semmibe::}
 {548}{}{Ember, tudtad, hogy egy mutáns jár a nyomodban?}
 {549}{}{Szépen vagyunk Valami szart vehettem be... most már mutánsokat hallucinálok.}
 {550}{}{Most én vagyok belőve vagy a barátod tényleg ekkora bazi nagy állat?}
@@ -278,7 +277,7 @@
 {575}{}{Hozzám beszélsz? Hozzám beszélsz?!}
 {576}{}{Kötözködsz? Egy Jettel töltött pofozógép vagyok! Jól PICSÁN foglak rúgni!}
 {577}{}{Akarsz belőle egy kicsit? He?}
-{578}{}{::Glares at you past drug-hazed eyes::}
+{578}{}{::Droggőzös szemekkel néz mögéd a semmibe::}
 {600}{}{Szép...}
 {601}{}{Mmmmmm...}
 {602}{}{Haver vagy.}

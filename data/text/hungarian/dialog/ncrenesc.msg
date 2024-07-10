@@ -49,18 +49,16 @@
 {293}{}{Hogy MIT AKAROK? Nem igazán tudom. Többnyire fittyet hányok a kitűzött feladatomra, helyette idegen házakat keresek fel, és az emberek polcain turkálok... mint például az ott!}
 {294}{}{Érdekes szókincse van... Renesco. Idevalósi?}
 {295}{}{Na, én leléptem...}
-{305}{}{I sell recreational drugs mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
- also sell some caravan supplies. You NEED anything or can I get back to something important?}
+{305}{}{Többnyire gyógyhatású drogokat árusítok. Ezért aggatták rám az idióta Rakétás becenevet. Merthogy fellövöm őket az égbe... Hmmmm... ezenkívül karavánokat is szoktam felszerelni. Szükséged van valamire vagy mehetek a dolgomra?}
 {306}{}{Rakétás? Van egy Tankcsapda szám, amiben azt énekli a srác, hogy "Félre a tréfát űrhajós vagyok, ...mm mm... még egy rakétát". Nem emlékszik, hogy szól a szöveg egész pontosan?}
 {307}{}{Vásárolni szeretnék.}
-{308}{}{You sell drugs here in the STORE?}
-{309}{}{You mean like selling drugs to Wright's son?}
+{308}{}{Itt árul drogokat a BOLTBAN?}
+{309}{}{Úgy érti, hogy itt árulja a drogokat a Wrighték fiának?}
 {310}{}{Menjen csak, csinálja a dolgát...}
 {320}{}{(Renesco rádbámul. Úgy tűnik fejben levetkőztet és egyenként kitépi a végtagjaidat.)}
 {321}{}{Nevermind, then. I had some other questions...}
 {322}{}{Értem, viszlát!}
-{330}{}{(Renesco looks at you in disgust.) Yes. In the STORE. This isn't the 20th century where drugs are sold by
- street corner cockroaches who live in constant fear of the authorities.}
+{330}{}{(Renesco undorral néz rád.) Igen. Itt a BOLTBAN. Ez nem a huszadik század, ahol a drogokat a büntetéstől egyfolytában reszkető utcasarki csótányok árulják.}
 {331}{}{Na, hát akkor...}
 {332}{}{De...}
 {333}{}{Ööö, asszem, jobb, ha...}
@@ -68,12 +66,12 @@
 {351}{}{Igen, egy valamit kivéve: Richard Wright a vevői közé tartozott?}
 {352}{}{Rendben, rendben... milyen áruja van?}
 {353}{}{Igazából kérdeznék inkább mást...}
-{354}{}{But, like you said, the drugs are... poisonous. They kill the spirit. Doesn't it bother you to sell them?}
+{354}{}{De hát, ahogy maga is mondta, a drogok... mérgezőek. Elpusztítják az elmét. Nem zavarja, hogy ilyesmit árul?}
 {355}{}{Úgy ahogy mondja. Most viszont léptem.}
 {365}{}{Azt kérded, zavar-e, ha a világ hátán csak púpot jelentő idiótáknak, hajcsároknak, maffiafőnököknek vagy vadembereknek adom el? Három szót mondok erre, Főemlős barátom: Járj nyitott szemmel!}
 {366}{}{Oké... láthatnám az áruját?}
 {367}{}{Jól van, jól van. Inkább kérdeznék valami mást...}
-{368}{}{The drugs here in New Reno are finding their way to other places, and hurting people there. Doesn't that concern you?}
+{368}{}{A New Renóban gyártott drogok eljutnak máshova is és ott fejtik ki áldatlan hatásukat. Ez nem aggasztja?}
 {369}{}{Azzal kezdem, hogy most azonnal távozom.}
 {375}{}{És? Mit kéne vele foglalkoznom?}
 {377}{}{Az emberi faj szörnyű tragédián esett át! Most az újjáépítésen kéne fáradozni. A Jet árusítása... eléggé ellentmond ennek a törekvésnek.}
@@ -114,8 +112,7 @@
 {460}{}{Nagy Jesus Mordino az, aki Reddinget tömi a Jettel. Tipikus hatalmi játszma. Ha nagyüzem lesz, azoknak a bányászoknak lőttek.}
 {461}{}{Honnan származik a Jet?}
 {463}{}{Értem. Hadd kérdezzek valami mást...}
-{470}{}{Horny as a toad and all the morals of one. Smart kid, though. High IQ. Wasting his brains manufacturing drugs, that's
- for damn certain.}
+{470}{}{Kanos, mint egy varangy és kábé az erkölcse is azon a szinten mozog. Amúgy okos gyerek. Magas az IQ-ja. A fenébe is, arra fecsérli a tudását, hogy drogot gyártson!}
 {471}{}{Hol találom őt?}
 {472}{}{Értem. Kérdeznék valami mást.}
 {480}{}{A Mordino család jól eldugta őt valahova. Valószínűleg tisztességesen őrzik azt a helyet, de fogalmam sincs, merre található.}
@@ -123,8 +120,8 @@
 {490}{}{A CURE for methamphetamine addiction?! Ha! I only know two: one is death. The other is locking yourself
  in a cage for a year without Jet and sweat it out of your system. Hmmmph. "Cure," my ass! What nonsense!}
 {492}{}{Kell, hogy legyen gyógyír. Mi a Jet kémiai összetétele?}
-{505}{}{Why don't you ask your friend there? He designed the drug.}
-{506}{}{I just sell the stuff. I'd ask a scientist. Or Myron. He designed the drug.}
+{505}{}{Itt van a barátod, miért nem kérdezed őt? Neki köszönhetjük azt a drogot.}
+{506}{}{Én csak árulom az anyagot. Kérdezz egy tudóst, vagy Myront magát. Ő találta ki a Jetet.}
 {515}{}{(Renesco szótlanul bámul rád.)}
 {516}{}{(Renesco újra csak rádbámul, ezúttal szótlanul.)}
 {517}{}{(Szerintem magának tetszene Arroyo. Békés kis falu. Az mondjuk nem annyira jó, hogy a növényeket gonosz lelkek szállták meg... és az is rossz, hogy a Próbák Temploma telis-tele van halálos dárdacsapdákkal és emberevő óriáshangyákkal.}
@@ -242,12 +239,12 @@
 {825}{}{Ha ez bekövetkezne, te szaros ősember, megesküszöm, hogy előbb fogsz meghalni, mint én. Most pedig még egyszer utoljára... az a gyerek tőlem sosem vett semmiféle szart, érthető? Itt még a nevét se mondd ki többet, mert isten engem úgy segéljen, én...}
 {826}{}{JULES azt mondja, ő nem adta el. JIMMY szintén azt mondja, hogy nem ő volt. Maga is ugyanezt állítja. Valamelyikük hazudik.}
 {827}{}{JULES azt mondja, ő nem adta el. JIMMY szintén azt mondja, hogy nem ő volt. Maga is ugyanezt állítja. Valamelyikük hazudik, vagy... valaki más a felelős.}
-{828}{}{Can you tell me anything else about Richard Wright? Who did he hang around who might have used drugs?}
+{828}{}{Tud még valamit Richard Wrightról mondani? Kivel látták még őt, aki esetleg összefüggésbe hozható a droggal?}
 {829}{}{Rendben... ellenben kérdeznék még egy s mást...}
 {830}{}{Oké, oké... már itt sem vagyok. }
 {835}{}{Ezt könnyű megválaszolni. A két korcs közül valamelyik hazudik, hogy mentse az irháját. Kettejük közt oszlik meg a renói terítés 90 százaléka, ezért nyilván az egyikük lesz az, aki eladta a drogot a "fiúnak".}
 {836}{}{Vagy valaki, aki hármójuk valamelyikétől vette az anyagot. Az elmúlt hónapban kik voltak a kuncsaftjai, akik kapcsolatba kerülhettek az... áldozattal?}
-{837}{}{Can you tell me anything else about Richard Wright? Did he hang around anyone else who might have used drugs?}
+{837}{}{Tud még valamit mondani Richard Wrightról? Nem került esetleg droghasználók társaságába?}
 {838}{}{Értem... akkor kérdeznék valami mást.}
 {839}{}{Most dolgom van. }
 {845}{}{TE IDIÓTA FASZ! }

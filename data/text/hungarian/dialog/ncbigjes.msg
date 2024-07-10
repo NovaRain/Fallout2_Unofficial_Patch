@@ -87,8 +87,7 @@
 {375}{}{Nem addig van az. 500 dolcsit akarok érte.}
 {377}{}{Senor Mordino, kérem... ne hozzon ki a sodromból. Ez elsőrangú áru, és sokkal többet ér annál.}
 {390}{}{(Mordino körbejárja Miriát, gondosan megtanulmányozza az arcát, aztán rácsap a fenekére.) Hmmm. Legyen akkor 500 dollár.}
-{391}{}{(Mordino walks around Davin, rolls up the boy's sleeve and examines his muscles, then checks his eyes for drug use.)
- Hmmmm. He looks strong enough. 400 chips for him, then.}
+{391}{}{(Mordino körbejárja Davint, feltűri a srác ingujját, megvizsgálja az izmait, aztán a szemeit is közelről megszemléli, vajon használ-e valami drogot.) Hmmm. Nem is olyan rossz. Legyen a fiú 400 dollár.}
 {392}{}{(Mordino homlokát ráncolva körbejárja Sulikot.) Hmmm. Hát nem gyenge darab... bírja a fájdalmat, hogy egy ekkora csontot dugott az orrába. Legyen hát 200 dollár.}
 {393}{}{(Mordino körbejárja Vicet) Hmmmmm. Őt 200 dolcsiért megveszem, de nem többért.}
 {394}{}{(Mordino körbejárja Cassidy-t) Hmmmmm. Érte... adok 200 dolcsit, de nem többet.}
@@ -120,8 +119,7 @@
 {470}{}{Have... you done as I asked?}
 {471}{}{Nem, még nem tudtam rá időt szakítani.}
 {472}{}{Meg. Elvittem a csomagot Ramireznek.}
-{473}{}{Yes, I've been to the Stables and dropped off your package... do you know what they DO there? They're torturing
- slaves with drugs.}
+{473}{}{Igen, voltam az Istállóban, és célba is juttattam a csomagját... azt tudja-e, hogy mit csinálnak ott? Azok a fickók drogokkal kínozzák a rabszolgákat.}
 {474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Akkor mit keresel itt? (Nagy Jesus letörli a homlokát, aztán mély lélegzetet vesz.) MIÉRT nem szállítottad le a csomagot?}
 {481}{}{Előbb szeretnék feltenni néhány kérdést...}

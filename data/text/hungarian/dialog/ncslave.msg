@@ -75,12 +75,12 @@
 {265}{}{Ha a gazdám meglátja, hogy egy hajcsárral beszélek, el fog verni.}
 {266}{}{Már van gazdám. Nem fog örülni, ha meglátja, hogy veled beszélgetek.}
 {267}{}{Nem beszélhetek veled. Kötelességeim vannak.}
-{268}{}{If I am caught speaking to a slaver, they will start testing the drugs on me.}
+{268}{}{Ha elkapnak, hogy egy hajcsárral beszélek, drogot fognak tesztelni rajtam.}
 {269}{}{Kérlek, menj el, rabszolga-kereskedő! Nem akarok bajt.}
 {270}{}{Ne beszél itt szökésről! Én... sosem próbáltam megszökni innen. Nem mernék ellenszegülni a gazdámnak.}
-{280}{}{If they catch me talking to you, they will start testing drugs on me.}
+{280}{}{Ha elkapnak, hogy beszélgetünk, nekiállnak drogot tesztelni rajtam.}
 {281}{}{Egy másik rabszolgával dolgoztam együtt, de néhány napja meghalt túladagolásban.}
-{282}{}{They test new drugs on us. Some are poisonous.}
+{282}{}{Rajtunk tesztelik az új drogokat. Némelyik nagyon mérgező.}
 {283}{}{A gazdám... jó hozzám.}
 {284}{}{A gazdám megtiltotta, hogy bárkivel is beszélgessek.}
 {285}{}{Légyszíves... nem beszélgethetünk!}

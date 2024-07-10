@@ -9,8 +9,8 @@
 {108}{}{Caos di Sangue}
 {109}{}{Iettatore}
 {110}{}{Pacifista}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Tossicomane}
+{112}{}{Res. ai Farmaci}
 {113}{}{Sex Appeal}
 {114}{}{Abile}
 {115}{}{Dotato}

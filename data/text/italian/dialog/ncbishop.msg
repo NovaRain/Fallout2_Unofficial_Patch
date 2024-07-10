@@ -110,8 +110,7 @@
 {455}{}{Beh... le voci pare dicano che non se la passi troppo bene. Credo di aver sentito qualcosa a proposito di certi problemi di cuore e per questo motivo non fa troppi sforzi. (Sbuffa.) Delle due l'una: o e' cosi', oppure non gli piace il sole.}
 {456}{}{Hmmmm. Ho delle altre domande a proposito di Westin...}
 {457}{}{Problemi di cuore, eh? Ha un dottore? Prende qualche medicina per questi problemi?}
-{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
- to be pretty damn careful about which ones he DID take with that heart o' his.}
+{465}{}{(Sorride.) Mi piace il tuo modo di pensare, selvaggio... beh, non so se prenda delle medicine per il suo cuore, ma so che dovrebbe stare bene attento a quali PRENDERE, con un cuore come il suo.}
 {475}{}{(Aggrotta le sopracciglia.) E' un allevatore di brahmin. Un mandriano. E con questo?}
 {476}{}{D'accordo, allora. Ho delle altre domande a proposito di Westin...}
 {477}{}{No, dev'essere qualcosa di PIU'. Altrimenti non staremmo avendo questa conversazione.}

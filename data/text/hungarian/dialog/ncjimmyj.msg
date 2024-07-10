@@ -122,8 +122,7 @@
 {500}{}{Régen egyenesen az istentől, Myrontól szereztem, de a fickó lelépett... vagy megnyúvadt. Mostanában egyenesen a Mordino családtól szerzem be.}
 {501}{}{Hát RÉGEBBEN a jó öreg Myrontól szereztem, de a fickónak tele lett a töke és kiszállt az üzletből... nem igaz, Myron? Hah! Mostanában főleg a Mordino családhoz rohangászok anyagért.}
 {502}{}{Érdekes. Inkább kérdezek mást...}
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
- MYRON.}
+{510}{}{Nekem kapcsolatom van a KÉSZÍTŐVEL, pilóta barátom. A Jetet egyenesen a vegyianyagok élő istenétől, az agytröszt Myrontól szerzem.}
 {511}{}{Ki az a Myron?}
 {512}{}{Érdekes. Inkább kérdezek mást...}
 {513}{}{Myron? Lehet találkozni ezzel a... földre szállt istennel?}

@@ -35,7 +35,7 @@
 {134}{}{Madame Modjeska vagyok. Egykori Jet használó, többek között. Most már más dolgok kötnek le. Úgy látom, a Jetet többé nem veszi be a szervezetem.}
 {135}{}{Mit tehet érted a Madame?}
 {136}{}{Mit csinál itt, Madame Modjeska?}
-{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
+{137}{}{Úgy látom, itt sok ember használ drogokat. Mondana valamit a közelmúlt helyi eseményeiről?}
 {138}{}{Nem hallottál valami érdekes pletykát?}
 {139}{}{Miért hívják Madame Modjeskának?}
 {140}{}{Mi bajod van?}
@@ -112,10 +112,10 @@
 {211}{}{Ascorti Redding polgármestere. Mondjuk nem igazán tudom, merre lehet. Jó ideje nem láttam.}
 {212}{}{Inkább valami más érdekelne.}
 {213}{}{Azt hiszem, eleget hallgattalak. Viszlát!}
-{214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
+{214}{}{A Jet csodálatos drog, ami segít elviselni ezt a szánalmas létet, kedvesem.}
 {215}{}{Hadd kérdezzek valami mást!}
 {216}{}{Érdekes. Kösz és viszlát!}
-{217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
+{217}{}{A Jet egy drog, ami segít jól éreznem magam. A Jettől szinte repülni vágyom.}
 {218}{}{Hadd kérdezzek valami mást!}
 {219}{}{Érdekes. Köszönöm, viszlát!}
 {220}{}{Mmmmm, elmondom milyen a Jet. Elragadó és élvezetes. A Jet mindenkinek tud nyújtani valamit.}

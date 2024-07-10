@@ -74,7 +74,7 @@
 {173}{}{Mi a véleményed Menedékvárosról?}
 {174}{}{Sajnos mennem kell. Viszlát!}
 {175}{}{Dr.Troy nagyon szigorú tud lenni, ha munkáról van szó, de amúgy jó ember. Menedékváros szerencsés, hogy nekik dolgozik.}
-{176}{}{Well, he asked me to smuggle some drugs into the city for him.}
+{176}{}{Tudod... megkért, hogy hozzak neki drogot. Mi a véleményed erről?}
 {177}{}{Feltehetek még egy kérdést?}
 {178}{}{Köszönöm a segítséget. Viszlát!}
 {179}{}{}

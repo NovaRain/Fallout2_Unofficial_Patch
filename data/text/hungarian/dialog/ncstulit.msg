@@ -89,8 +89,8 @@
 {362}{}{Öö... öö... Jég KRÉM}
 {363}{}{[Wander off in search of adventure.]}
 {370}{}{(A törpe kényszeredetten mosolyog.) }
-{371}{}{Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. }
-{372}{}{Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. }
+{371}{}{Hát hozhatok neked valami krémet, haver... leginkább a kurvás vagy a drogos verziót... de többre ne számíts. }
+{372}{}{Hát hozhatok neked valami krémet, kedvesem... leginkább a kurvás vagy a drogos verziót... de többre ne számíts. }
 {373}{}{Most akkor bunyózol vagy mi lesz?}
 {374}{}{Oké}
 {375}{}{Én akar pihenni kicsit előbb}

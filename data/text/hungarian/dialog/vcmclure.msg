@@ -125,7 +125,7 @@
 {224}{}{Mi az a Gekkó?}
 {225}{}{Nehéz idők járnak, valóban. Feltehetek önnek egy újabb kérdést?}
 {226}{}{Sajnálattal hallom. Köszönöm, hogy szakított rám időt. Viszlát!}
-{227}{}{It is just northeast of here, but if you are planning on going there, I would advise you to purchase some anti-radiation drugs. If they are contaminating our water, it is likely their town itself is irradiated.}
+{227}{}{Gekkó észak-keletre van innen. Ha azt tervezi, hogy odamegy, javaslom, szerezzen be minél több radioaktivitás elleni készítményt! Ha szennyezik a vizünket, minden bizonnyal az ő városuk is radioaktív!}
 {228}{}{Mi az a Gekkó?}
 {229}{}{Feltehetek még egy kérdést?}
 {230}{}{Köszönöm a figyelmeztetést. Viszlát!}
@@ -145,12 +145,12 @@
 {244}{}{Értem. Köszönöm.}
 {245}{}{És mi az? Bármit is mond, nagy segítség lehet.}
 {246}{}{Mit tudsz mondani Reddingről?}
-{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{I found that a large part of Redding is addicted to a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy előállította a Jet ellenszerét.}
 {249}{}{Eljuttattam az ellenszert Reddingbe.}
 {250}{}{What is this "Jet" that they are all addicted to?}
 {251}{}{Amint újabb részleteket is megtudok, ismertetni fogom magával.}
-{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
+{252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Kérem, tegyen meg mindent!}
 {254}{}{Feltehetek még egy kérdést?}
 {255}{}{Persze.}

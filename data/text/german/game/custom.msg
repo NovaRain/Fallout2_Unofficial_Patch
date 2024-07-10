@@ -3,7 +3,7 @@
 {2}{}{Bevorzugte Waffe}
 {3}{}{Abstand}
 {4}{}{Wen angreifen}
-{5}{}{Drogengebrauch}
+{5}{}{Medizin benutzen}
 {10}{}{[Fertig]}
 {11}{}{Abbrechen}
 {99}{}{Nicht anwendbar}

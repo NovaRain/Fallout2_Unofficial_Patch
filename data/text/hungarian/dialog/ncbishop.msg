@@ -110,8 +110,7 @@
 {455}{}{Hát... a pletykák szerint nem sokat jár a szabadba. Azt hiszem, hallottam valamit arról, hogy rossz a szíve, ezért nem nagyon erőltetheti meg magát. (Horkant egyet.) Vagy ez a baja, vagy nem mehet a napra. Mittudomén.}
 {456}{}{Hmmmm. Hadd kérdezzek még Westinről...}
 {457}{}{Szívpanaszai vannak? Van orvosa? Szokott valami gyógyszert szedni rá?}
-{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
- to be pretty damn careful about which ones he DID take with that heart o' his.}
+{465}{}{(Mosolyog.) Tetszik a gondolkodásmódod, vadember... nos, nem tudom, hogy szed-e valamit a szívére, de abban eléggé körültekintőnek kell lennie, hogy mit SZEDETT rá régebben.}
 {475}{}{(A homlokát ráncolja.) Az az ember brahmintenyésztő. Állatfarm tulajdonos. Egyéb?}
 {476}{}{Jól van. Kéne még ezt-azt tudnom Westinről...}
 {477}{}{Nem, ez az ember nyilván NAGYOBB HAL. Különben most nem volna miről beszélnünk.}

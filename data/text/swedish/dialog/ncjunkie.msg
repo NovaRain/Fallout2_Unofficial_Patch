@@ -90,7 +90,7 @@
 {295}{}{Next time you kick the Enclave's ass, come get me first, and we'll do it TOGETHER.}
 {296}{}{Kick ASS, }
 {297}{}{I know you saved the world, but it's us minor NPCs that have to deal with the consequences.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
+{298}{}{You should play the game again as a drug-based character. Really! Take the Chem Reliant Trait!
  I LOVE that one.}
 {299}{}{Thanks for saving us. I'd kiss you if I didn't have puke breath.}
 {300}{}{I could have defeated the Enclave myself if I'd taken enough Jet.}

@@ -133,9 +133,7 @@
 {231}{}{Badarság! Menedékváros különleges előjogokat nyújt a polgárai számára, de csak azért, mert elég jól képzettek ahhoz, hogy élni is tudjanak ezekkel a jogokkal. Nem úgy, mint a barbár városonkívüliek. Mindemellett bárki, aki átmegy a vizsgákon, megkaphatja a menedékvárosi állampolgárságot.}
 {232}{}{Nem vagyok benne biztos, hogy a reddingi lakosok jól fogadnák Menedékváros fennhatóságát.}
 {233}{}{Ja, minden kétséget kizárva. Viszlát, doki!}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+{234}{}{Megtöltöm az ampullákat Jettel, és ezzel ugyanúgy szolgálom Redding lakóit, mint a többi szolgáltatásommal. Semmilyen hasznom nem származik belőle. Ha nem én csinálnám, akkor valami sarlatán mérné ki az adagokat a rozsdás és fertőzésveszélyes eszközeivel. Azután már sosem lenne egyetlen egészséges lakos sem ebben a városban.}
 {235}{}{Milyen rendes fickó vagy te, dokikám! Milyen önfeláldozó! Mi lenne, ha kérdeznék valami mást?}
 {236}{}{Milyen *nemes* cseledeket, kedves doktor úr!}
 {237}{}{Ez érdekes. Majd később még betérek, doki. Viszlát!}

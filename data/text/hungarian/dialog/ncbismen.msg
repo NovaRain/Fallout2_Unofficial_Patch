@@ -149,7 +149,7 @@
 {440}{}{Ha esetleg munka kell, mi szívesen látunk. Beszélj Mr. Bishoppal!}
 {441}{}{Munkát keresel? Esetleg beszélj Mr. Bishoppal!}
 {445}{}{Kopj le, vadember!}
-{446}{}{I ain't got no drugs for you, tribal.}
+{446}{}{Nem adok drogot, vadember!}
 {447}{}{Szívd el a békepipát, vadember!}
 {448}{}{Nincs kedvem beszélgetni. Húzz innen!}
 {449}{}{Tűnés, vadember!}
@@ -162,7 +162,7 @@
 {462}{}{Nem, nem tudom, hol találod, most pedig tűnés! ::Hülye ősemberek::}
 {463}{}{Kopj le, vadember!}
 {464}{}{A Bishopok nem vesztegetik a szót vadember hulladékokra, van nekünk jobb dolgunk is.}
-{465}{}{I ain't got no drugs for you, tribal.}
+{465}{}{Nem adok drogot, vadember!}
 {466}{}{Szívd el a békepipát, vadember!}
 {467}{}{Nincs kedvem beszélgetni. Húzz innen!}
 {468}{}{Tűnés, vadember!}

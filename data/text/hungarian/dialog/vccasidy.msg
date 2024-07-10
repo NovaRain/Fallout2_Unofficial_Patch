@@ -150,7 +150,7 @@
 {327}{}{Redding egy bányaváros, elsősorban aranyat termelnek. Sok karavánt küldtek már Menedékvárosba.}
 {328}{}{Broken Hills egy bányaváros, leginkább uránt hoznak a felszínre. Durva hely is tud lenni, úgyhogy vigyázz magadra!}
 {329}{}{Egy kis méreg szaladgál a szervezetemben. Van nálad ellenméreg?}
-{330}{}{I'm glowing like a neon sign over here. Got any anti-radiation drugs?}
+{330}{}{Neonreklám lett belőlem. Adnál egy RadX-et?}
 {331}{}{Rosszul vagyok. Szükségem lenne egy stimpakkra.}
 {332}{}{Ne üsd bele az orrod, Myron! Figyellek!}
 {333}{}{Lépj ki, Myron és kinyírlak!}

@@ -107,11 +107,10 @@
 {254}{}{Come non detto. Posso chiederti qualcosa?}
 {255}{}{OK, lo prendo.}
 {256}{}{Nulla. Arrivederci.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Vault... Vault... Vault 13? No, mai sentito. Non dirmi che se ne sono venuti fuori con una nuova droga! Niente puo' battere il Jet!}
 {258}{}{No, imbecille.}
 {259}{}{No, e' un posto. Posso chiederti qualcos'altro?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Si', una droga meravigliosa.}
 {261}{}{No, addio.}
 {262}{}{Joey non e' una persona molto loquace.}
 {300}{}{Probabilmente no. Ci vediamo.}

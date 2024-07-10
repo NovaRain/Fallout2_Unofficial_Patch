@@ -1310,7 +1310,7 @@
 {3262}{}{Melyik énre céloztál?}
 {3263}{}{Vhoa. Majdnem elkaptál.}
 {3264}{}{Tudtam, hogy a Jettől gyorsabb leszek...}
-{3265}{}{You fight pretty badly for a drug-induced hallucination.}
+{3265}{}{Elég rosszul harcol ez a hallucináció.}
 {10020}{}{Én lenni Patkáány Kíírráály!}
 {10021}{}{Szkvíííík! Megöl Kíírráály gyermekei!}
 {10022}{}{Kííírály tör csontok, tied!}

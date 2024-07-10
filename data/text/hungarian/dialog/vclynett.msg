@@ -416,7 +416,7 @@
 {514}{}{Kiváncsi leszek, ki veszi át a helyét, ha meghalt... ez ugyanis pillanatokon belül megtörténik.}
 {515}{}{Semmi gond... gondoltam próbálkozom. Viszlát!}
 {516}{lyn078}{Dr. Troy? Ő hogy jön ide?}
-{517}{}{He asked me to smuggle in some illegal drugs into the city.}
+{517}{}{Arra kért, hogy törvénytelen drogot hozzak be neki a városba.}
 {518}{}{Az ő dolga a Polgáraink gyógyítása.}
 {519}{}{Semmi-semmi... csak félrebeszéltem. Viszlát!}
 {520}{lyn079}{Kinek képzeli magát, hogy egy Polgárt ilyen bűnökkel mer vádolni? Őrség! Kísérjék ki ezt a Kívülállót a kapuhoz!}
@@ -449,7 +449,7 @@
 {547}{}{Kristálytisztán érthető. Akkor most nem is zavarok tovább.}
 {548}{}{Elnézését kérem, Első Polgár. Viszontlátásra.}
 {549}{lyn085}{TERMÉSZETES, hogy csak Polgárokat gyógyít. Arra nincs energiája, hogy Kívülállókkal is foglalkozzon. Arra ott van az Auto-doki.}
-{550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
+{550}{}{Nos, esetleg tudni szeretne róla, hogy az Orvos törvénytelen drog behozására buzdított.}
 {551}{}{Oh... Hát akkor volna néhány kérdésem...}
 {552}{}{Igen, azoknak, akik megengedhetik maguknak... és ez azt feltételezi, hogy egy darabban voltak képesek eljutni az Auto-dokihoz.}
 {553}{}{Hát akkor vegye úgy, hogy nem is mondtam semmit. Viszlát!}
@@ -530,8 +530,7 @@
 {628}{}{Semmi-semmi. Félrebeszélek. Viszlátásra, Első Polgár.}
 {629}{lyn100}{Gyilkosságról szó se essék. Az ilyesmi semmiféle módon, köntösben, formában nem engedélyezett Menedékváros területén. Akkor sem, ha okunk volna rá. Ne is említse többet.}
 {630}{}{Értem. Föltehetek még egy kérdést?}
-{631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
- mauled by a brahmin... any of a number of things can happen in this dangerous world.}
+{631}{}{Nézze, a "gyilkosság" olyan rút szó. Inkább valami balesetfélére tudnék gondolni... mondjuk kábítószer-túladagolás, vagy egy brahmin általi eltaposás... ebben a veszélyes világban annyi minden történhet egy emberrel.}
 {632}{}{Rendben. Akkor már itt sem vagyok.}
 {633}{}{Jól van, Első Polgár. Viszonlátás!}
 {634}{lyn101}{Egy Polgár fejében nem járhatnak ilyen gondolatok! Ezennel bevonom a papírjait. Az őrség megmutatja, merre van a kijárat.}

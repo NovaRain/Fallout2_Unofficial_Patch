@@ -42,7 +42,7 @@
 {141}{}{Capisco. Hai mai fatto qualcosa che funzioni?}
 {142}{}{Vorrei sottopormi ad un test.}
 {143}{}{Questo e' tutto quello che volevo sapere.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
+{144}{}{Si', l'ho fatto... grazie davvero, eh! Hai mai sentito parlare delle "Mentat"? Ho dato il mio contribuito nello sviluppo di un metodo per facilitare la produzione di massa di quel medicinale! E di altri! Molti, molti altri!}
 {145}{}{D'accordo, d'accordo. Senti, mi piacerebbe mettere alla prova le mie capacita' contro il tuo scorpione.}
 {146}{}{D'accordo, ti credo. E credo che adesso me ne andro'.}
 {147}{}{Come... come hai potuto uccidere il mio scorpione? Ero cosi' vicino... cosi' vicino...}

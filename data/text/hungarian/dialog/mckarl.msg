@@ -54,7 +54,7 @@
 {215}{}{Egy ÉLET-et keresek. Tud segíteni?}
 {216}{}{Hagyja csak. Viszlát máskor, Karl.}
 {217}{}{Ööö... (hukk) Most nem vagyok igazán éhes... (hukk) Mi lenne, ha nekem adná a pénzt és később elhoznám? (hukk)}
-{219}{}{You shyster. I'll bet you use the money you collect to buy drugs, don't you?}
+{219}{}{Maga kis szégyenletes... Fogadjunk drogra gyűjti a pénzt, nem igaz?}
 {220}{}{Szégye... Egyen... Széle... akármi is gyött ki a száján... (hukk) Szívja vissza... (hukk) Akármi is legyen, jót nem jelenthet.}
 {221}{}{[Mielőtt érdemben válaszoltál volna, Karl arccal előreesik és elájul.]}
 {222}{}{Nem tesssszz semmit... (hukk) Gondolom, nincs magánál semmilyen folyékony friss-(hukk)-ítő. Éjszakánként mocskos (hukk) hideg tud lenni.}

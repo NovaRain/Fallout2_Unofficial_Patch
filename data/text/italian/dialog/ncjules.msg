@@ -120,7 +120,7 @@
 {492}{}{Qualunque siano i tuoi bisogni, Jules e' l'UOMO giusto, dolce sorella. Se vuoi farti un trip, sballare, fare sesso, Jules conosce i luoghi dove ANDARE. La domanda e': io ho i tesori, TU cosa desideri?}
 {493}{}{Certamente, certamente... io ho i tesori, TU cosa desideri?}
 {494}{}{Puoi parlarmi un po' di New Reno?}
-{495}{}{Where can I get some drugs?}
+{495}{}{Dove posso procurarmi un po' di droga?}
 {496}{}{Vorrei comprare qualche bocca da fuoco.}
 {497}{}{Vorrei fare degli acquisti.}
 {498}{}{Voglio fare del sesso.}
@@ -168,7 +168,7 @@
 {615}{}{C'e' il padre, Big Jesus Mordino, e il figlio, Lil' Jesus, ed entrambi sono i peggiori figli di puttana che tu possa incontrare. Un tempo erano schiavi, ma anni fa sono riusciti a cambiare le carte in tavola e si sono costruiti il loro piccolo impero privato.}
 {616}{}{Quant'e' grande il loro "impero"?}
 {625}{}{Sono i proprietari del Desperado, in fondo alla strada. Non puoi mancarlo. Hanno anche la piu' grande scorta di Jet di TUTTA New Reno. Per cui, se hai un gran bisogno di farti un trip...}
-{626}{}{Speaking of which, do you know where can I get some drugs around here?}
+{626}{}{A proposito, sai per caso dove posso procurarmi un po' di droga, da queste parti?}
 {627}{}{Com'e' che i Mordino sono in possesso della piu' grande scorta di Jet?}
 {628}{}{Parlami delle altre famiglie.}
 {635}{}{Sono in cima alla piramide, amico. Non ci sono altre ragioni. Hanno la fabbrica, il creatore, e la distribuzione. Potrebbero metter su una fottutissima compagnia aerea, con quell'enorme quantita' di Jet che hanno.}
@@ -242,18 +242,16 @@
 {987}{}{Mia dolce sorella, non ti serve cercare oltre: c'e' qui l'umile Jules che fa al caso tuo. }
 {988}{}{Io ho TUTTO, e se non ho qualcosa, tu quel qualcosa non lo vuoi. Facciamo affari?}
 {989}{}{Certo. Vediamo...}
-{990}{}{What kind of drugs can I get in New Reno?}
+{990}{}{Quali droghe posso trovare a New Reno?}
 {991}{}{Non adesso. Avrei delle altre domande...}
-{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
-{1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
+{992}{}{Veramente, non mi interessa la droga in questo momento. Devo andare.}
+{1005}{}{Ogni TIPO di roba. Ho della roba per farti eccitare, per far eccitare la tua donna, per fartelo venire duro, per farti felice, per renderti forte, per farti diventare piu' intelligente... e, ovviamente, ho LA droga, la roba che ti fara' VOLARE... il Jet.}
 {1006}{}{Ogni TIPO di roba. Ho della roba per farti eccitare, per farti bagnare, per asciugarti, per calmarti, per farti venire voglia di sesso, per farti felice, per renderti forte, per farti diventare piu' intelligente... e, ovviamente, ho LA droga, la roba che ti fara' VOLARE... il Jet.}
 {1008}{}{Da dove proviene il Jet? E' sempre stato in giro?}
 {1025}{}{Beh... uhm... il Jet viene da qui... da Reno, voglio dire. Non e' in giro da molto, ma e' molto RICHIESTO, sai che voglio dire? (Strizza l'occhio.) E' la ragione principale per la quale arrivano qui i turisti come te.}
-{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
+{1026}{}{Beh, vorrei comprare della droga. Vediamo di concludere l'affare.}
 {1027}{}{Ma come mai il Jet proviene da qui?}
-{1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making drugs. He MADE Jet.}
+{1035}{}{Aw, dunque...vedi, la Famiglia Mordino ha davvero fatto saltare il banco il giorno in cui ha trovato questo piccolo cervellone di nome Myron. Sembra che sia un genio quando si tratta di creare droghe. Lui ha CREATO il Jet.}
 {1036}{}{Myron, eh? Dove posso trovarlo?}
 {1045}{}{(Si avvicina.) Beh, non vorrei dilungarmi troppo sul posto meno PIACEVOLE di New Reno, ma devi sapere che c'e' un posto, le "Stalle", a nord della citta'. Strettamente sorvegliato dalla famiglia Mordino. Ecco dove si trova Myron.}
 {1046}{}{Delle stalle fuori citta'?}
@@ -287,10 +285,9 @@
 {1147}{}{Ho capito, sorella, ho capito. Se cerchi il meglio, fai un salto dal mio amico Eldridge nel West End. Ha di quelle robe che ti permetteranno di uccidere persone che non hai ancora nemmeno INCONTRATO. Digli che ti ho mandato io.}
 {1148}{}{Dolcezza, tu hai GIA' armi a sufficienza in quel tuo corpo da favola. Pero', se ne vuoi altre, fai un salto dal mio amico Eldridge nel West End. Ha di quelle robe che ti permetteranno di uccidere persone che non hai ancora nemmeno INCONTRATO. Digli che ti ho mandato io.}
 {1150}{}{Grazie per la dritta, credo sia meglio che vada.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
- from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
+{1165}{}{Hai bisogno di comprare qualcosa? Beh, PUOI andare da Renesco giu' nel West End... ma stammi a sentire: non comprare droga da lui, perche' non e' SICURA. Ha si' varie cose in vendita, ma se vuoi della droga, rivolgiti a me.}
 {1166}{}{Lo terro' a mente. Senti, avrei delle altre domande...}
-{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{La sua droga non e' sicura, eh? Beh, grazie per la dritta, credo farei meglio ad andare.}
 {1175}{}{Ho capito, fratello. La maggior parte dei TURISTI, vedi, corre giu' a Virgin Street e si fa fregare da troiette da quattro soldi. Mi sembra che tu abbia classe, per cui dirigiti al Cat's Paw sull'altro lato della strada. Di' che e' Jules che ti manda.}
 {1176}{}{Ho capito, sorella. La maggior parte delle TURISTE, vedi, corre giu' a Virgin Street e si fa fregare da qualche belloccio. Mi sembra che tu abbia classe, per cui dirigiti al Cat's Paw sull'altro lato della strada. Di' che e' Jules che ti manda.}
 {1177}{}{(Sorride, apre le braccia.) Non c'e' bisogno di cercare oltre, mia dolce sorella. Jules e' ai tuoi ordini!}
@@ -300,15 +297,14 @@
 {1190}{}{Parli di Vault CITY, vero? Si trova a nordest. Non puoi mancarla, tutte le piste carovaniere portano li'.}
 {1191}{}{D'accordo. Senti, avrei delle altre domande...}
 {1192}{}{Beh, grazie della dritta. Sara' meglio che vada.}
-{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
+{1200}{}{Giardino del che-? Cos'e', una specie di droga? Cosa fa questo "Giardino"? Ti fa sballare?}
 {1201}{}{No, e'...beh, non importa. Avrei delle altre domande...}
 {1202}{}{Come non detto. Devo proprio andare.}
 {1210}{}{Non so nulla a proposito. Mi dispiace per la tua perdita. E se fossero stati gli schiavisti?}
 {1211}{}{Potrebbe essere. Avrei delle altre domande...}
 {1220}{}{Una... cosa?}
 {1221}{}{Lasciamo perdere. Avrei delle altre domande...}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
- to live for without being given impure shit.}
+{1230}{}{Uh... Il ragazzo degli Wright? Si', ho sentito. Un vero peccato. I ragazzi della sua eta' non dovrebbero prendere droghe. Hanno cosi' tante cose per cui vivere senza che qualcuno dia loro della merda impura.}
 {1231}{}{A proposito di merda impura, Renesco mi ha detto che vendi Jet allungato con arsenico.}
 {1232}{}{Cosa vuoi dire con "merda impura"?}
 {1233}{}{Sai nulla a proposito di questa fiala vuota di Jet?}
