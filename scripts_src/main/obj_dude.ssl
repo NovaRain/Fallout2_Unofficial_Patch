@@ -73,8 +73,8 @@ end
 
 procedure is_dropping_p_proc begin
    if (obj_pid(source_obj) == PID_GECK) then begin
-       script_overrides;
-       display_msg(g_mstr(1099));
+      script_overrides;
+      display_msg(g_mstr(1099));
    end
 end
 
@@ -157,7 +157,7 @@ procedure critter_p_proc begin
 end
 
 procedure use_obj_on_p_proc begin
-   variable temp := 0;
+   variable temp;
 
    if (source_obj == dude_obj) then begin
       // this is related to filling the player's stomach when they eat
@@ -176,192 +176,176 @@ procedure use_obj_on_p_proc begin
       end
 
       //fix for items that have scripts attached - believed that this is the cause of the "too many items bug" - killap
-      if (obj_pid(obj_being_used_with) == PID_CATS_PAW_ISSUE_5) then begin
-         script_overrides;
-         gfade_out(ONE_GAME_SECOND);
-            critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
-            display_msg(message_str(SCRIPT_NICATPW5, 100));
-         gfade_in(ONE_GAME_SECOND);
-         script_overrides;
-         scr_return(1);
-      end else if (obj_pid(obj_being_used_with) == PID_RAIDERS_MAP) then begin
-         script_overrides;
-         gfade_out(ONE_GAME_SECOND);
-            set_raiders_secret_enterance;
-            display_msg(message_str(SCRIPT_NIRAIMAP, 100));
-         gfade_in(ONE_GAME_SECOND);
-         script_overrides;
-         scr_return(1);
-      end else if (obj_pid(obj_being_used_with) == PID_SURVEY_MAP) then begin
-         script_overrides;
-         gfade_out(ONE_GAME_SECOND);
-            display_msg(message_str(SCRIPT_EISANMAP, 100));
-            mark_san_francisco_on_map
-         gfade_in(ONE_GAME_SECOND);
-         script_overrides;
-         scr_return(1);
-      end else if (obj_pid(obj_being_used_with) == PID_MAGIC_8_BALL) then begin
-         script_overrides;
-         if (dude_luck <= 3) then
-            temp := random( 199, 228 );
-         else if (dude_luck < 9) then
-            temp := random( 200, 228 );
-         else if ( dude_luck >= 9 ) then
-            temp := random( 200, 243 );
-         if (temp == 232) then begin
-            set_global_var(GVAR_8_BALL_TOILET_SECRET, true);
-         end else if (temp == 233) then begin
-            set_global_var(GVAR_8_BALL_TRASH_SECRET, true);
-         end else if (temp == 243) then begin
-            set_global_var(GVAR_8_BALL_VAULT_TERMINAL, 1);
-         end
-         script_overrides;
-         display_msg(message_str(SCRIPT_ZI8BALL, temp));
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_5) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_MB_OUTSIDE) != DOWNLOAD_HOLODISK) then begin
+      if (not(combat_is_initialized)) then begin
+         if (obj_pid(obj_being_used_with) == PID_CATS_PAW_ISSUE_5) then begin
+            script_overrides;
             gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_MB_OUTSIDE,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
+               display_msg(message_str(SCRIPT_NICATPW5, 100));
             gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_1) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_MB_LEVEL_1) != DOWNLOAD_HOLODISK) then begin
+            script_overrides;
+            scr_return(1);
+         end else if (obj_pid(obj_being_used_with) == PID_RAIDERS_MAP) then begin
+            script_overrides;
             gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_MB_LEVEL_1,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               set_raiders_secret_enterance;
+               display_msg(message_str(SCRIPT_NIRAIMAP, 100));
             gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_2) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_MB_LEVEL_2) != DOWNLOAD_HOLODISK) then begin
+            script_overrides;
+            scr_return(1);
+         end else if (obj_pid(obj_being_used_with) == PID_SURVEY_MAP) then begin
+            script_overrides;
             gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_MB_LEVEL_2,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               display_msg(message_str(SCRIPT_EISANMAP, 100));
+               mark_san_francisco_on_map
             gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            script_overrides;
+            scr_return(1);
+         end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_5) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_MB_OUTSIDE) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_MB_OUTSIDE,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_1) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_MB_LEVEL_1) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_MB_LEVEL_1,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_2) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_MB_LEVEL_2) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_MB_LEVEL_2,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_3) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_MB_LEVEL_3) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_MB_LEVEL_3,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_4) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_MB_LEVEL_4) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_MB_LEVEL_4,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_EVACUATION_HOLODISK) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_SIERRA_EVACUATION) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_SIERRA_EVACUATION,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_EXPERIMENT_HOLODISK) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_SIERRA_EXP_LOG) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_SIERRA_EXP_LOG,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_MEDICAL_HOLODISK) then begin
+            script_overrides;
+            if (global_var(GVAR_HOLODISK_SIERRA_MED_LOG) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_HOLODISK_SIERRA_MED_LOG,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_SIERRA_MISSION_HOLODISK) then begin
+            script_overrides;
+            if (global_var(GVAR_SIERRA_MISSION_HOLODISK) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_SIERRA_MISSION_HOLODISK,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_BROADCAST_HOLODISK) then begin
+            script_overrides;
+            if (global_var(GVAR_SIERRA_GNN_HOLODISK) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_SIERRA_GNN_HOLODISK,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if ( (obj_pid(obj_being_used_with) == PID_ELRON_TEACH_HOLO) or (obj_pid(obj_being_used_with) == PID_ELRON_MEMBER_HOLO)) then begin
+            script_overrides;
+            if (global_var(GVAR_ELRON_HOLODISK) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_ELRON_HOLODISK,DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
+         end else if (obj_pid(obj_being_used_with) == PID_NCR_HISTORY_HOLODISK) then begin
+            script_overrides;
+            if (global_var(GVAR_NCR_HISTORY_HOLO_DOWNLOAD) != DOWNLOAD_HOLODISK) then begin
+               gfade_out(ONE_GAME_SECOND);
+                  set_global_var(GVAR_NCR_HISTORY_HOLO_DOWNLOAD, DOWNLOAD_HOLODISK);
+                  display_msg(message_str(SCRIPT_WIEVCDSK, 102));
+               gfade_in(ONE_GAME_SECOND);
+            end else begin
+               display_msg(message_str(SCRIPT_WIEVCDSK, 101));
+            end
+            script_overrides;
+            scr_return(0);
          end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_3) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_MB_LEVEL_3) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_MB_LEVEL_3,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_4) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_MB_LEVEL_4) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_MB_LEVEL_4,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_EVACUATION_HOLODISK) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_SIERRA_EVACUATION) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_SIERRA_EVACUATION,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_EXPERIMENT_HOLODISK) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_SIERRA_EXP_LOG) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_SIERRA_EXP_LOG,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_MEDICAL_HOLODISK) then begin
-         script_overrides;
-         if (global_var(GVAR_HOLODISK_SIERRA_MED_LOG) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_HOLODISK_SIERRA_MED_LOG,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_SIERRA_MISSION_HOLODISK) then begin
-         script_overrides;
-         if (global_var(GVAR_SIERRA_MISSION_HOLODISK) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_SIERRA_MISSION_HOLODISK,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_BROADCAST_HOLODISK) then begin
-         script_overrides;
-         if (global_var(GVAR_SIERRA_GNN_HOLODISK) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_SIERRA_GNN_HOLODISK,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if ( (obj_pid(obj_being_used_with) == PID_ELRON_TEACH_HOLO) or (obj_pid(obj_being_used_with) == PID_ELRON_MEMBER_HOLO)) then begin
-         script_overrides;
-         if (global_var(GVAR_ELRON_HOLODISK) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_ELRON_HOLODISK,DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
-      end else if (obj_pid(obj_being_used_with) == PID_NCR_HISTORY_HOLODISK) then begin
-         script_overrides;
-         if (global_var(GVAR_NCR_HISTORY_HOLO_DOWNLOAD) != DOWNLOAD_HOLODISK) then begin
-            gfade_out(ONE_GAME_SECOND);
-               set_global_var(GVAR_NCR_HISTORY_HOLO_DOWNLOAD, DOWNLOAD_HOLODISK);
-               display_msg(message_str(SCRIPT_WIEVCDSK, 102));
-            gfade_in(ONE_GAME_SECOND);
-         end else begin
-            display_msg(message_str(SCRIPT_WIEVCDSK, 101));
-         end
-         script_overrides;
-         scr_return(0);
       end
       //end fix
    end
