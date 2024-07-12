@@ -34,7 +34,7 @@
 {181}{}{Bin beeindruckt.}
 {182}{}{Na, dann will ich dich nicht aufhalten. Tschüss.}
 {190}{}{Naja, wär schon ganz praktisch, wenn ich ein bisschen Unterstützung bekäm. Aber es hat eben niemand meine Qualifikationen. Die kennen sich doch nicht mal mit den einfachsten Grundlagen aus.}
-{191}{}{Wie könnte je jemand mit dir mithalten? Du stehst über allen anderen.}
+{191}{}{Wie könnte je jemand hoffen mit dir mitzuhalten? Du bist allen überlegen.}
 {192}{}{Kein Zweifel - du bist wirklich was Besonderes. Tschüss.}
 {200}{}{Allerdings - das siehst du doch. Ich seh schon, du verstehst wirklich was von solchen Dingen. Wenn ich hier nicht so beschäftigt wär, würd ich ganz Gecko verwalten. Und ich würd meine Sache ziemlich gut machen.}
 {201}{}{Du würdest auch die Stadt verwalten?}
@@ -74,7 +74,7 @@
 {340}{}{Hast du zufällig einen hydroelektrischen Magnetosphären-Regulator dabei?}
 {341}{}{Weißt du überhaupt, was das ist?}
 {342}{}{Klar. Kannst du ihn einbauen?}
-{350}{}{Überrascht? Bezweifle nie meine Kenntnisse über Atomkraftwerke. Ich weiß alles, was es über sie zu wissen gibt.}
+{350}{}{Überrascht? Ich habe dir doch gesagt, dass ich alles über Atomkraftwerke weiß. Du hättst auf mich hören sollen.}
 {351}{}{Nachdem du ja weißt, was es ist, weißt du sicher auch, wie man es einbaut.}
 {352}{}{Ich hab dir schon viel zu lang zugehört. Tschüss.}
 {360}{}{Klar. Kein Problem für jemanden mit meiner Erfahrung und meiner Begabung. Ich hab schon als Kleinkind mit Magnetosphären-Regulatoren gespielt.}
