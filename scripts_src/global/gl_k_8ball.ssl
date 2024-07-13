@@ -1,0 +1,35 @@
+#define SCRIPT_REALNAME "gl_k_8ball"
+#include "../headers/define.h"
+#include "../sfall/define_extra.h"
+
+#define SGVAR_UP_8BALL "up_8ball"
+
+procedure start;
+procedure inventorymove_handler;
+
+procedure start begin
+   if (game_loaded and get_sfall_global_int(SGVAR_UP_8BALL) == 0) then begin
+      // if the player hasn't been to the 2nd street, there is no need to register the hook
+      if (map_is_known(MAP_NEW_RENO_2)) then begin
+         register_hook_proc(HOOK_INVENTORYMOVE, inventorymove_handler);
+      end else begin
+         set_sfall_global(SGVAR_UP_8BALL, 1);
+      end
+   end
+end
+
+procedure inventorymove_handler begin
+   variable
+      slot := get_sfall_arg,
+      item := get_sfall_arg;
+
+   if (slot < 3) then begin
+      if (obj_pid(item) == PID_MAGIC_8_BALL) then begin
+         if (get_object_data(item, OBJ_DATA_SID) == -1) then begin // fix unscripted 8ball
+            set_script(item, SCRIPT_ZI8BALL);
+            set_sfall_global(SGVAR_UP_8BALL, 1);
+         end
+         register_hook_proc(HOOK_INVENTORYMOVE, 0); // unregister
+      end
+   end
+end
