@@ -2,7 +2,7 @@
 #include "../headers/define.h"
 #include "../sfall/define_extra.h"
 
-#define SGVAR_UP_8BALL "up_8ball"
+#define SGVAR_UP_8BALL "k_8ball_"
 
 procedure start;
 procedure inventorymove_handler;
