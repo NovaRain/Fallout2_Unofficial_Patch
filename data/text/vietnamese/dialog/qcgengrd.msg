@@ -4,7 +4,7 @@
 {103}{}{Who goes there?}
 {104}{}{Move on.}
 {105}{}{What are you looking at?}
-{106}{}{Move along.}
+{106}{}{Di chuyển đi.}
 {107}{}{No loitering.}
 {108}{}{I'll put you on report.}
 {109}{}{Get back to work.}

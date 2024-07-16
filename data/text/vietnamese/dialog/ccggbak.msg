@@ -1,18 +1,18 @@
 {100}{}{Bạn thấy một lính gác.}
-{101}{}{You see a guard in power armor.}
-{102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{}{Move along.}
-{104}{}{I'm on duty. I have no time for talk.}
-{105}{}{Keep it moving. Gate's that way.}
-{106}{}{Better go get your issue.}
-{107}{}{Don't wander around out of uniform.}
-{108}{}{You're in the army now. Don't get caught out of uniform.}
-{109}{}{Intruders at the main gate!}
-{110}{}{Sound the alarm! Intruders!}
-{111}{}{Deploy backup to the main gate. We've got intruders!}
-{112}{}{Security alert at the main gate!}
-{113}{}{Secure all stations! Main gate under attack!}
-{114}{}{Code red at the main gate!}
+{101}{}{Bạn thấy một lính gác mặc power armor.}
+{102}{}{Bạn thấy một người mặc power armor có thiết kế khác lạ. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
+{103}{}{Di chuyển đi.}
+{104}{}{Tôi đang gác trực. Tôi không có thời gian để nói chuyện.}
+{105}{}{Đi tiếp đi. Cổng ở lối đó.}
+{106}{}{Tốt nhất là nên đi xin cấp đồ đi.}
+{107}{}{Đừng có đi loanh quanh mà không mặc quân phục.}
+{108}{}{Cậu nhập ngũ rồi. Đừng có để bị tóm lúc không mặc quân phục.}
+{109}{}{Có kẻ đột nhập ở cổng chính!}
+{110}{}{Rung chuông báo động lên! Có kẻ đột nhập!}
+{111}{}{Gửi tiếp viện đến cổng chính đi. Chúng ta đang bị đột nhập!}
+{112}{}{Cảnh báo an ninh ở cổng chính!}
+{113}{}{Bảo vệ tất cả vị trí! Cổng chính đang bị tấn công!}
+{114}{}{Mã đỏ ở cổng chính!}
 {115}{}{Chúng tao sẽ cho mày cạp đất!}
 {116}{}{Enclave sẽ thống trị cả thế giới!}
 {117}{}{Mày phải chết để Enclave tồn tại!}

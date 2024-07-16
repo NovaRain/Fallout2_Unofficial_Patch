@@ -1,6 +1,6 @@
 {100}{}{Bạn thấy một lính gác.}
-{101}{}{You see a guard in power armor.}
-{102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
+{101}{}{Bạn thấy một lính gác mặc power armor.}
+{102}{}{Bạn thấy một người mặc power armor có thiết kế khác lạ. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
 {103}{}{Nothing to report.}
 {104}{}{Nothing going on with me, how 'bout you?}
 {105}{}{Shouldn't you be at your post, soldier? It's not good to wander about here.}

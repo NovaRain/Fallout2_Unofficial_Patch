@@ -1,6 +1,6 @@
 {100}{}{You see someone in power armor. }
 {101}{}{You see the Navarro base Commander.}
-{102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
+{102}{}{Bạn thấy một người mặc power armor có thiết kế khác lạ. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
 {103}{}{Who the hell are you guys... Alert! Intruders on the base!}
 {104}{}{I don't have time to chitchat with the grunts. You're dismissed.}
 {105}{}{Time to die.}

@@ -1,6 +1,6 @@
 {100}{}{Bạn thấy ai đó mặc bộ áo giáp chiến đấu.}
 {101}{}{Bạn thấy lính gác cửa phòng chỉ huy.}
-{102}{}{Bạn thấy ai đó mặc áo giáp chiến đấu. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra là gì.}
+{102}{}{Bạn thấy ai đó mặc áo giáp chiến đấu. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
 {103}{}{Thưa ngài! Ngài có việc gì ở đây?}
 {104}{}{Đây chỗ nào?}
 {105}{}{Ờ... ngộ mới đến đây.}
@@ -26,7 +26,7 @@
 {125}{}{Ok.}
 {126}{}{Ồ... Đm. Ngộ bắn mở đường.}
 {127}{}{Đm. Rút súng ra mở đường vào thôi.}
-{128}{}{Cái gì? Ồ, tôi hiểu rồi. Cậu làm hỏng con cún và Dornan bắt cậu đi dọn cứt.}
+{128}{}{Cái gì? Ồ, tôi hiểu rồi. Cậu trêu con cún và Dornan bắt cậu đi dọn cứt.}
 {129}{}{Ờ... ngộ hỏng... chó cún và... cứt.}
 {130}{}{(tự nói chuyện) Chỉ huy. Nhân viên dọn dẹp đã đến, thưa chỉ huy. (dừng) Vâng, thưa chỉ huy. (nhìn bạn) Vào đi.}
 {131}{}{Cám ơn.}

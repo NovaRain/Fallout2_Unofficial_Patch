@@ -1,9 +1,9 @@
-{100}{}{You see a guard. }
-{101}{}{You see the gate guard.}
-{102}{}{You see a guard wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{gate1}{Halt! This is federal property -- no admittance without proper authorization.}
-{104}{}{Uh... fed ur al?}
-{105}{}{Me got pass... where I put?}
+{100}{}{Bạn thấy một lính gác. }
+{101}{}{Bạn thấy lính gác cổng.}
+{102}{}{Bạn thấy một lính gác mặc power armor với thiết kế khác lạ. Có phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
+{103}{gate1}{Đứng lại! Đây là tài sản liên bang -- không phận sự cấm vào.}
+{104}{}{Ừm... luyên bang?}
+{105}{}{Ngộ có thẻ... đâu ngộ để?}
 {106}{}{Me new. Me told you expect.}
 {107}{}{Oh. Sorry, me go.}
 {108}{}{I have my pass... it was right here.}
