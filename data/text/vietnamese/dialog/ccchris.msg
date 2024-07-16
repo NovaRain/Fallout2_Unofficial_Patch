@@ -141,7 +141,7 @@ của Enclave?}
 {202}{}{Đúng vậy.}
 {203}{}{Mẹ nó. Thứ lỗi vì đã vặn vẹo. Lão cần đón một lũ tân binh đến đây nhưng
 vẫn phải tống cổ lũ đần ra ngoài. Mà thôi, cứ đi qua khu rừng thẳng đến chỗ cổng,
-rồi đọc mật khẩu: "đầu bò". Ồ, nhớ đi theo đúng lối mòn đấy!}
+rồi đọc mật khẩu: "đầu cừu". Ồ, nhớ đi theo đúng lối mòn đấy!}
 {204}{}{Cám ơn!}
 {205}{}{Chờ đã, đầu đất. Có phải cậu đang muốn nói rằng cậu là một lính dự bị
 của Enclave? Nếu vậy thì tại sao cậu lại không đi một mình?}

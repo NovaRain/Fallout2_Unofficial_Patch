@@ -4,34 +4,34 @@
 {103}{gate1}{Đứng lại! Đây là tài sản liên bang -- không phận sự cấm vào.}
 {104}{}{Ừm... luyên bang?}
 {105}{}{Ngộ có thẻ... đâu ngộ để?}
-{106}{}{Me new. Me told you expect.}
-{107}{}{Oh. Sorry, me go.}
-{108}{}{I have my pass... it was right here.}
-{109}{}{I'm a new recruit. I was told you'd be expecting me.}
-{110}{}{Oh, sorry. I'll be heading out then.}
-{111}{gate2}{You're a little slow, aren'tcha?? Well, just keep moving and don't come back here. You'll be fine. Understand?}
-{112}{}{Me want go inside.}
-{113}{}{Ok. Me go.}
-{114}{gate3}{Nobody gets... Damn. (slowly) Need pass get inside. You no got pass. You go away. You no go away, you get hurt. Understand?}
-{115}{}{How bout me hurt you instead?}
-{116}{}{Ok. Me go.}
-{117}{gate14}{(places hand on weapon) Don't give me any excuses! You need to either show me your pass or give me the password!}
-{118}{}{No can find pass, no remember password!}
-{119}{}{Screw this. Me kill.}
-{120}{}{I'm sorry, I lost my pass and I don't know anything about a password.}
-{121}{}{Screw you and everyone who looks like you!}
-{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
+{106}{}{Ngộ mới. Ngộ được nói ông biết.}
+{107}{}{Ồ. Xin lỗi, ngộ đi.}
+{108}{}{Tôi có thẻ ra vào... ở ngay đây.}
+{109}{}{Tôi là lính mới nhập ngũ. Tôi được bảo là ông sẽ biết tôi.}
+{110}{}{Ồ, xin lỗi. Tôi sẽ đi chỗ khác vậy.}
+{111}{gate2}{Lề mề quá nhỉ? Này, cứ tiếp tục di chuyển đi và đừng có quay trở lại. Mọi việc sẽ ổn thôi, hiểu chứ?}
+{112}{}{Ngộ muốn vào trong.}
+{113}{}{Ok. Ngộ đi.}
+{114}{gate3}{Không ai được... Mẹ nó chứ. (nói chậm) Cần thẻ để vào. Mày không có thẻ. Mày đi chỗ khác. Mày không đi thì ăn đạn. Hiểu chứ?}
+{115}{}{Thế ngộ đánh ông thì sao?}
+{116}{}{Ok. Ngộ đi.}
+{117}{gate14}{(đặt tay lên vũ khí) Đừng có lí do lí trấu! Hoặc là trình thẻ hoặc là đọc mật khẩu!}
+{118}{}{Không có thấy thẻ, không nhớ mật khẩu!}
+{119}{}{Chết tiệt. Ngộ giết.}
+{120}{}{Tôi xin lỗi, tôi làm mất thẻ và tôi không biết mật khẩu nào cả.}
+{121}{}{Mẹ nhà ông và tất cả những đứa nào giống ông!}
+{122}{gate5}{Tôi khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có trở lại nếu không được phép. Tôi nói thế đã rõ chưa?}
 {123}{}{Đúng vậy.}
-{124}{gate6a}{I see. May I have your password?}
-{125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
-{126}{}{Sheepshead.}
+{124}{gate6a}{Hiểu rồi. Thế mật khẩu là gì?}
+{125}{gate6b}{Hiểu rồi. (đặt tay lên vũ khí) Tất cả lính mới đều phải đến báo cáo một mình. Tôi khuyên là hãy rời khỏi nơi này ngay tức khắc và đừng có kéo đàn kéo lũ trở lại. Tôi nói thế đã rõ ràng chưa?}
+{126}{}{Đầu cừu.}
 {127}{}{Đúng vậy.}
-{128}{gate7a}{One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it's the first door on the right.}
-{129}{gate7b}{(mumbles) Damn jarheads are getting dumber by the hour.}
+{128}{gate7a}{Chờ chút. (dừng) Okay, vào đi. Hãy đến báo cáo cho đội trưởng huấn luyện. Đi vào cửa, qua hàng rào sắt đến chỗ cái cửa đầu tiên bên phải.}
+{129}{gate7b}{(lẩm bẩm) Mẹ kiếp lũ đầu đất càng lúc càng đần.}
 {130}{}{Ok.}
 {131}{gate8a}{Halt! -- Oh. I see you've returned and you're alone this time. All right, recruit, what's the password?}
 {132}{gate8b}{Halt! -- You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
-{133}{}{Sheepshead.}
+{133}{}{Đầu cừu.}
 {134}{}{Đúng vậy.}
 {135}{gate9}{Halt! -- Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
 {136}{}{Uh... me not know. Me come back.}
