@@ -42,7 +42,7 @@
 {141}{}{I'll pay.}
 {142}{}{Glöm det.}
 {158}{}{What? You do not have the money? How do you expect me to survive if you ask me for free healing?}
-{159}{}{Do you have stimpaks?}
+{159}{}{Har du stimpaks?}
 {160}{}{No thanks.}
 {161}{}{It has been a pleasure doing business with you.}
 {162}{}{Tack.}
