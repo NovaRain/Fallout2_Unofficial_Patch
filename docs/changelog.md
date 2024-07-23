@@ -35,6 +35,11 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
+### Version 31 (WIP)
+
+- New Reno
+  - Eldridge's special stock will no longer miss a 223 pistol when accessing it for the first time.
+
 ### Version 30
 
 - General
