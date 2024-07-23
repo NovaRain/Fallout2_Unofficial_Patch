@@ -166,7 +166,7 @@ procedure check_title_bad(variable title) begin
 end
 
 // call before restock
-procedure move_critical_items begin
+procedure move_quest_items begin
    if wipe_inventory != 1 then return 0;
    variable tmp_box := create_object(PID_FOOTLOCKER_CLEAN_LEFT, 5, 0);
    variable pid;

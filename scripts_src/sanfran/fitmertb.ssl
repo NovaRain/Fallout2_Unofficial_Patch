@@ -150,7 +150,7 @@ procedure map_enter_p_proc begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin
-            tmp_box = move_critical_items();
+            tmp_box = move_quest_items();
             check_restock_item(PID_BOTTLE_CAPS, 300, 436, 80)
             check_restock_item(PID_STIMPAK, 10, 20, 80)
             check_restock_item(PID_FIRST_AID_KIT, 1, 2, 60)
@@ -161,7 +161,7 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_MEAT_JERKY, 4, 5, 45)
             call restore_critical_items(tmp_box);
          end else if (self_tile == TABLE_2) then begin
-            tmp_box = move_critical_items();
+            tmp_box = move_quest_items();
             check_restock_item(PID_BOTTLE_CAPS, 300, 436, 80)
             check_restock_item(PID_BIG_BOOK_OF_SCIENCE, 1, 2, 40)
             check_restock_item(PID_DEANS_ELECTRONICS, 2, 3, 30)

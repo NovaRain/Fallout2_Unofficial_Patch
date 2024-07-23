@@ -151,7 +151,7 @@ procedure map_enter_p_proc begin
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin //Armor table
             ndebug("table 1 set");
-            tmp_box = move_critical_items();
+            tmp_box = move_quest_items();
             //Used to be on Table 3
             check_restock_item(PID_BOTTLE_CAPS, 1000, 2000, 100)
             check_restock_item(PID_FLAMER, 1, 2, 60)
@@ -184,7 +184,7 @@ procedure map_enter_p_proc begin
             call restore_critical_items(tmp_box);
          end else if (self_tile == TABLE_2) then begin //Ammo table
             ndebug("table 2 set");
-            tmp_box = move_critical_items();
+            tmp_box = move_quest_items();
             //Used to be on table 3
             check_restock_item(PID_HK_CAWS, 1, 5, 40)
             check_restock_item(PID_HK_P90C, 1, 2, 55)

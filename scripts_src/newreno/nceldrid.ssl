@@ -920,6 +920,8 @@ procedure Node026 begin
    if (made_man_set == false) then begin
       adj_eldridge_barter(-20); // Seraph's Fix: changed '20' to '-20'
       set_made_man_set;
+      // Ensure that first time special inventory has 223 pistol.
+      give_pid_qty(new_reno_eldridge_box_2, PID_223_PISTOL, 1)
    end
    Reply(530);
    NOption(386, Node975, 004);

@@ -55,7 +55,7 @@ procedure map_enter_p_proc begin
             destroy_object(the_box_to_kill);
          end
 
-         variable tmp_box = move_critical_items();
+         variable tmp_box = move_quest_items();
          self_caps_adjust(random(5, 250) - self_caps);
          check_restock_item(PID_SPEAR, 0, 7, 100)
          check_restock_item(PID_KNIFE, 0, 11, 100)
