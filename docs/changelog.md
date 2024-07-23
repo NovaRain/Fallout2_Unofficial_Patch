@@ -38,7 +38,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 ### Version 31 (WIP)
 
 - New Reno
-  - Eldridge's special stock will no longer miss a 223 pistol when accessing it for the first time.
+  - Merchant inventory wipe will keep the 223 pistol in Eldridge's special stock for the first time.
 
 ### Version 30
 
