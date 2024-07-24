@@ -28,7 +28,7 @@
 {124}{}{Got it.}
 {125}{}{I work as the base physician but that's just a sideline. Actually,
  I'm a geneticist.}
-{126}{}{What that?}
+{126}{}{Vad det där?}
 {127}{}{What's a geneticist?}
 {128}{}{I really don't think you have the intellectual capacity to
  understand my work, soldier. Let's just say that I can 'customize' people
