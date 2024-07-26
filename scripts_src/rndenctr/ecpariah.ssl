@@ -216,7 +216,7 @@ procedure critter_p_proc begin
    end else if (doWalking < game_time) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      self_walk_to_tile(tile_num_in_direction(dude_obj, Random(0, 5), Random(5, 10)));
+      self_walk_to_tile(tile_num_in_direction(dude_tile, Random(0, 5), Random(5, 10)));
       reg_anim_end();
       doWalking := game_time + (ONE_GAME_SECOND * (Random(1, 30)));
    end

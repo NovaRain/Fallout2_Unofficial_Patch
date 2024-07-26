@@ -62,11 +62,9 @@ procedure critter_p_proc begin
 end
 
 procedure destroy_p_proc begin
-  variable tail := 0;
-  tail := create_object(PID_SCORPION_TAIL,0,0);
-  add_obj_to_inven(self_obj,tail);
-
-  inc_evil_critter
+   variable tail := 0;
+   tail := create_object(PID_SCORPION_TAIL,0,0);
+   add_obj_to_inven(self_obj,tail);
 end
 
 procedure damage_p_proc begin
