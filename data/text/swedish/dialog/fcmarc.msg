@@ -5,7 +5,7 @@
 {104}{}{What can I do for ya, mama-jamma?}
 {105}{}{What can I do ya for, mama-jamma?}
 {106}{}{Ooh! Ooh! Aah!}
-{107}{}{Who are you?}
+{107}{}{Vem är du?}
 {108}{}{Vad är det här för ställe?}
 {109}{}{Who's in charge?}
 {110}{}{Nothing. Bye.}

@@ -5,7 +5,7 @@
 {104}{}{Dinkle humper doo!}
 {105}{}{You who?}
 {106}{}{Who was that you were fighting?}
-{107}{}{Who are you?}
+{107}{}{Vem är du?}
 {108}{}{Teach me how to fight.}
 {109}{}{I wish to challenge you.}
 {110}{}{Glöm det.}

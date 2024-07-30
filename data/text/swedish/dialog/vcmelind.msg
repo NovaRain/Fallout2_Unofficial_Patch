@@ -5,7 +5,7 @@
 {103}{}{Yes, what else can I help you with?}
 {104}{}{Is this fenced-in area the city?}
 {105}{}{I'm looking for the Vault.}
-{106}{}{Who are you?}
+{106}{}{Vem är du?}
 {107}{}{No thanks. Goodbye.}
 {108}{}{Thizz Valt Citeee?}
 {109}{}{No, no... don't let the surroundings confuse you. You're
@@ -28,7 +28,7 @@
  where the Citizens of the city live.}
 {123}{}{Why do only Citizens live in the Inner City?}
 {124}{}{Can I ask you something else?}
-{125}{}{Thank you for your help.}
+{125}{}{Tack för din hjälp.}
 {126}{}{I'm sorry, but as I said, only Citizens are allowed in the Vault. I cannot
  grant you access. Talk to Wallace, our Customs Official. He might be able to help.
  You'll find his office at the north end of the Courtyard.}
@@ -38,7 +38,7 @@
  to travelers about the grandeur of the city.}
 {130}{}{Oh, come on, it has to be a *little* boring sometimes.}
 {131}{}{Can I ask you something else?}
-{132}{}{Thank you for your help.}
+{132}{}{Tack för din hjälp.}
 {133}{}{To build a better life for everyone, we must be vigilant in protecting ourselves
  from outside influences.}
 {134}{}{And that means separating yourselves?}

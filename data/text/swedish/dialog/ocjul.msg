@@ -9,13 +9,13 @@
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
 {109}{}{Vad är det här för ställe?}
-{110}{}{Who are you?}
+{110}{}{Vem är du?}
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
 {113}{}{Who you?}
 {114}{}{Jag gå nu.}
 {115}{}{I'll be leaving then.}
-{116}{}{Who are you?}
+{116}{}{Vem är du?}
 {117}{}{I'd like to speak to the mother.}
 {118}{}{I Jul. Pack warrior. I guard hatchery. I guard mother.}
 {119}{}{Me}

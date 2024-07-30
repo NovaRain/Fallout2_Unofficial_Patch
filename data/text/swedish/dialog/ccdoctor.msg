@@ -14,7 +14,7 @@
 {112}{}{Why D'claw in other room?}
 {113}{}{Why doggie by door no move? No nothing?}
 {114}{}{Me got go now.}
-{115}{}{Who are you?}
+{115}{}{Vem är du?}
 {116}{}{What do you do here?}
 {117}{}{Vad är det här för ställe?}
 {118}{}{Why is this room soundproofed?}

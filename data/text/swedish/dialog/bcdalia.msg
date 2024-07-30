@@ -9,7 +9,7 @@
 {107}{}{You look like guard.}
 {108}{}{Jag gå nu.}
 {109}{}{Just saying hello.}
-{110}{}{Who are you?}
+{110}{}{Vem är du?}
 {111}{}{What are you doing?}
 {112}{}{You look like you're guarding that trail.}
 {113}{}{I'll be going now.}

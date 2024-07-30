@@ -37,7 +37,7 @@
 {300}{}{Adytum}
 {301}{}{Downtown}
 {302}{}{Library}
-{303}{}{Fortress}
+{303}{}{Fästning}
 {304}{}{Warehouse}
 {310}{}{Entrance}
 {311}{}{Interiör}

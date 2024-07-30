@@ -42,7 +42,7 @@
 {141}{}{Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.}
 {142}{}{Let's try the word, "goodbye." It means I'm leaving. }
 {143}{hak007}{Surely you remember it is to the northeast, foolish one.}
-{144}{}{Thank you for your help.}
+{144}{}{Tack för din hjälp.}
 {145}{}{Thanks. I actually understood that.}
 {146}{}{Are you calling me a fool? I don't think I want to help you, after all. }
 {147}{}{I'll be back for my payment soon.}
@@ -69,7 +69,7 @@
 {168}{}{I kinda like my soul the way it is. Bye.}
 {169}{}{I'm not worthy. I'll take my leave now.}
 {170}{hak014}{Chosen, once again the wholeness of your being is like a land blessed.}
-{171}{}{Thank you.}
+{171}{}{Tack.}
 {172}{}{You mean I'm better, right?}
 {173}{hak015}{To make one whole instills a sense of fullness that you would be well to understand, Chosen.}
 {174}{}{Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.}
@@ -79,10 +79,10 @@
 {178}{}{I'm hurt. Can you heal me?}
 {179}{}{Oh, nothing. Goodbye.}
 {180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.}
-{181}{}{Thank you.}
+{181}{}{Tack.}
 {182}{hak018a}{And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. }
 {183}{}{Where can I find these things?}
-{184}{}{Thank you.}
+{184}{}{Tack.}
 {185}{}{I'm almost sorry to go. I can just about understand you now. Bye.}
 {186}{hak019}{Ah, Chosen, my garden is well- how is yours?}
 {187}{}{I'm all right.}
@@ -109,7 +109,7 @@
 {208}{}{Okay. Thanks.}
 {209}{}{Uh!}
 {210}{hak026}{You are well.}
-{211}{}{Thank you.}
+{211}{}{Tack.}
 {212}{}{No lessons? No incomprehensible speeches? You sure you're okay?}
 {213}{hak027}{Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.}
 {214}{}{Nä.}

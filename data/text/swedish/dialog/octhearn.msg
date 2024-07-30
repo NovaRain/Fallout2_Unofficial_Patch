@@ -8,7 +8,7 @@
 {106}{}{Vad du gör?}
 {107}{}{How smart you?}
 {108}{}{Jag gå nu.}
-{109}{}{Who are you?}
+{109}{}{Vem är du?}
 {110}{}{What are you doing here?}
 {111}{}{No offense, but just how smart are you?}
 {112}{}{Well, just passing the time.}

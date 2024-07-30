@@ -5,7 +5,7 @@
 {104}{}{What do you want?}
 {105}{}{What can I do for you?}
 {106}{}{You?}
-{107}{}{Who are you?}
+{107}{}{Vem är du?}
 {108}{}{Vad är det här för ställe?}
 {109}{}{I'm looking for some lost villagers.}
 {110}{}{I am in need of fuel.}

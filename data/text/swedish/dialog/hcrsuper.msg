@@ -6,7 +6,7 @@
 {105}{}{Da yagga! Eep oop op!}
 {106}{}{Dunno.}
 {107}{}{I have some ore to be refined.}
-{108}{}{Who are you?}
+{108}{}{Vem är du?}
 {109}{}{Vad är det här för ställe?}
 {110}{}{I want some uranium.}
 {111}{}{Ingenting.}

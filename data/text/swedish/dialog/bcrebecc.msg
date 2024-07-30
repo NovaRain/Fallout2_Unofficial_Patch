@@ -129,7 +129,7 @@
  think, we've been helping him hide his operations as a raider. I can guarantee you we won't stand for
  it any longer. I'll talk to Zeke and explain everything. I'm sure he'll want to see you. You should go
  talk to him later.}
-{202}{}{Thank you.}
+{202}{}{Tack.}
 {203}{}{I hope you find Chrissy soon.}
 {204}{}{Me looking.}
 {205}{}{I'll continue to search for her.}

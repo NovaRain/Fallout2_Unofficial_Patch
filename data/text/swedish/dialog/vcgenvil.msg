@@ -11,5 +11,5 @@
 {110}{}{Go back to where you came from!}
 {111}{}{Get the hell out of here!}
 {112}{}{We're safe now.}
-{113}{}{Thank you.}
+{113}{}{Tack.}
 {114}{}{Bless you, wanderer.}

@@ -58,7 +58,7 @@
  sense little evil in you. Very well, I shall place my trust in you.}
 {140}{}{(Gruthar stares at you intently for a moment.) I think not. I can sense the evil in you, human.
  I cannot risk the lives of those I protect by taking a chance with you.}
-{141}{}{Thank you.}
+{141}{}{Tack.}
 {142}{}{Fine. I think a bullet lobotomy is a viable solution to my problem.}
 {143}{}{Sorry you feel that way, Gruthar.}
 {144}{}{I'll be leaving, then.}

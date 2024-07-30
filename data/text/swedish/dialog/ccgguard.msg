@@ -23,7 +23,7 @@
 {122}{gate5}{Jag föreslår att du lämnar den här installationen omedelbart och inte återvänder hit utan korrekt tillstånd. Är jag tydlig nog?}
 {123}{}{Ja.}
 {124}{gate6a}{Jag förstår. Kan jag få ditt lösenord?}
-{125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
+{125}{gate6b}{Jag förstår. (lägger handen på vapnet) Alla nya rekryter ska anmäla sig till tjänstgöring ensamma. Jag föreslår att du lämnar denna installation omedelbart och inte återvänder hit med ditt följe. Är jag tydlig nog?}
 {126}{}{Fårskalle.}
 {127}{}{Ja.}
 {128}{gate7a}{One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it's the first door on the right.}
