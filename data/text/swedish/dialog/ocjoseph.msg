@@ -2,20 +2,20 @@
 {101}{}{You see Joseph, the herbalist.}
 {102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
 {103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
-{104}{}{Got owie. You fix?}
-{105}{}{Feel icky. You fix?}
-{106}{}{Me gimp, you fix?}
-{107}{}{Got questions. Okay?}
+{104}{}{Har aj-aj. Du fixa?}
+{105}{}{Mår dåligt. Du fixa?}
+{106}{}{Jag lam, du fixa?}
+{107}{}{Har frågor. Okej?}
 {108}{}{Sorry, me go.}
-{109}{}{I'm injured. Can you help me?}
-{110}{}{I feel ill. Can you help me?}
-{111}{}{I'm crippled. Can you help me?}
-{112}{}{I wanted to ask you some questions.}
+{109}{}{Jag är skadad. Kan du hjälpa mig?}
+{110}{}{Jag känner mig sjuk. Kan ni hjälpa mig?}
+{111}{}{Jag är handikappad. Kan du hjälpa mig?}
+{112}{}{Jag vill ställa några frågor till dig.}
 {113}{}{Just saying hello.}
 {114}{}{Why, certainly. Hmmm. You'll need to take some of this. I'll apply this balm to the wound.
  Now just lie back and rest for a couple of hours.}
-{115}{}{Me thank. Bye.}
-{116}{}{Thanks, Doc. I feel much better.}
+{115}{}{Jag tacka. Hej då.}
+{116}{}{Tack, Doc. Jag känner mig mycket bättre.}
 {117}{}{Why, certainly. Hmmm. This will take a while, so you'll have to stay here overnight. You'll
  need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
  you in the morning.}

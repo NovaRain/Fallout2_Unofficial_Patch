@@ -54,7 +54,7 @@
 {153}{}{Just keepin' things in line here.}
 {154}{}{Play nice.}
 {155}{}{Keep things nice and frosty.}
-{156}{}{Move along.}
+{156}{}{Gå vidare.}
 {157}{}{Nothing to see here.}
 {158}{}{Have a nice day.}
 {159}{}{Welcome to Ascorti's.}

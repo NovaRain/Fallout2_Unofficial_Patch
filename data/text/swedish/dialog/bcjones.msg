@@ -1,21 +1,21 @@
 {100}{}{Du ser en kort man som bär en bok i sina händer.}
 {101}{}{Du ser Doc Jones, doktorn.}
 {102}{}{Du ser en kort man med en bok som heter "Så, Du Vill bli Läkare."}
-{103}{}{Hello, I'm Doc Jones. You can call me Doc. What can I help you with?}
-{104}{}{Got owie. You fix?}
-{105}{}{Feel icky. You fix?}
-{106}{}{Me gimp, you fix?}
-{107}{}{Got questions. Okay?}
+{103}{}{Hej, jag är Doc Jones. Du kan kalla mig Doc. Vad kan jag hjälpa dig med?}
+{104}{}{Har aj-aj. Du fixa?}
+{105}{}{Mår dåligt. Du fixa?}
+{106}{}{Jag lam, du fixa?}
+{107}{}{Har frågor. Okej?}
 {108}{}{Sorry, me go.}
-{109}{}{I'm injured. Can you help me?}
-{110}{}{I feel ill. Can you help me?}
-{111}{}{I'm crippled. Can you help me?}
-{112}{}{I wanted to ask you some questions.}
+{109}{}{Jag är skadad. Kan du hjälpa mig?}
+{110}{}{Jag känner mig sjuk. Kan ni hjälpa mig?}
+{111}{}{Jag är handikappad. Kan du hjälpa mig?}
+{112}{}{Jag vill ställa några frågor till dig.}
 {113}{}{Just saying hello.}
-{114}{}{Why, certainly. Here, we'll give you a shot of this -- this'll sting a bit -- now a bandage,
- and there, you're all set.}
-{115}{}{Me thank. Bye.}
-{116}{}{Thanks, Doc. I feel much better.}
+{114}{}{Javisst. Här, vi ger dig en spruta av det här -- det här kommer att svida lite -- nu ett bandage,
+ och där, nu är allt klart.}
+{115}{}{Jag tacka. Hej då.}
+{116}{}{Tack, Doc. Jag känner mig mycket bättre.}
 {117}{}{Why, certainly. Here, you'll need to drink this -- all of it, I know it tastes foul. Now, just
  lie down on the bed over there, and I'll wake you in the morning.}
 {118}{}{Me feel good. Bye.}
