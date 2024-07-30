@@ -1,6 +1,6 @@
-{100}{}{You see a short man carrying a book in his hands.}
-{101}{}{You see Doc Jones, the doctor.}
-{102}{}{You see a short man with a book called "So, You Want to be a Doctor."}
+{100}{}{Du ser en kort man som bär en bok i sina händer.}
+{101}{}{Du ser Doc Jones, doktorn.}
+{102}{}{Du ser en kort man med en bok som heter "Så, Du Vill bli Läkare."}
 {103}{}{Hello, I'm Doc Jones. You can call me Doc. What can I help you with?}
 {104}{}{Got owie. You fix?}
 {105}{}{Feel icky. You fix?}

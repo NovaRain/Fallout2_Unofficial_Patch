@@ -1,4 +1,4 @@
-{100}{}{You see a short man carrying a book in his hands.}
+{100}{}{Du ser en kort man som bär en bok i sina händer.}
 {101}{}{You see Joseph, the herbalist.}
 {102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
 {103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
