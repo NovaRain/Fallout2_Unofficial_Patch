@@ -20,7 +20,7 @@
 {119}{}{Screw this. Me kill.}
 {120}{}{Jag är ledsen, men jag har tappat bort mitt passerkort och jag vet inget om ett lösenord.}
 {121}{}{Screw you and everyone who looks like you!}
-{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
+{122}{gate5}{Jag föreslår att du lämnar den här installationen omedelbart och inte återvänder hit utan korrekt tillstånd. Är jag tydlig nog?}
 {123}{}{Ja.}
 {124}{gate6a}{Jag förstår. Kan jag få ditt lösenord?}
 {125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
