@@ -1,3 +1,3 @@
-1:Shortly after your last departure, the powder keg of racial tension in Broken Hills exploded.
-2:Racist humans fought against mutants, ghouls, and humans who sided with the mutants.
-3:The few survivors of the battle destroyed the mine, ensuring no one else could profit by it, and disappeared into the wastes.
+1:Strax efter din senaste avresa exploderade krutdurken av rasmotsättningar i Broken Hills.
+2:Rasistiska människor kämpade mot mutanter, ghuler och människor som stod på mutanternas sida.
+3:De få överlevande från slaget förstörde gruvan, såg till att ingen annan kunde dra nytta av den, och försvann ut i ödemarken.

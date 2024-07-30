@@ -1,5 +1,5 @@
-1:With the destruction of the conspiracy to destroy the mutants, Broken Hills began to thrive.
-2:Then the uranium ran out.
-3:The city, having lost its sole reason for existing, slowly dispersed.
-4:The residents carried their riches with them, leaving the place a wind-swept, desolate ghost town.
-5:A few hold-outs remained, attempting to eke out a pathetic existence, but eventually, they too, disappeared.
+1:När konspirationen att förinta mutanterna upplöstes började Broken Hills att blomstra.
+2:Sedan tog uranet slut.
+3:Staden, som hade förlorat sin enda anledning till att existera, skingrades långsamt.
+4:Invånarna bar med sig sina rikedomar och lämnade platsen som en vindpinad, ödslig spökstad.
+5:Några kvarhängare återstod och försökte få fram en patetisk tillvaro, men så småningom försvann de också.
