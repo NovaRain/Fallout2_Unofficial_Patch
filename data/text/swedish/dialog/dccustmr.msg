@@ -12,7 +12,7 @@
 {201}{}{Lämna mig ifred!}
 {202}{}{Don't touch me!}
 {203}{}{Stop it!}
-{204}{}{What are you doing?}
+{204}{}{Vad är det du gör?}
 {300}{}{Sorry, can't talk now.}
 {301}{}{Where was I going again?}
 {302}{}{Hej.}

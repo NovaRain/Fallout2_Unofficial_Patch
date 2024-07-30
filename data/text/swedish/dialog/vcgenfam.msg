@@ -14,7 +14,7 @@
 {113}{}{A ghoul! Guards! Guards!}
 {114}{}{Please wipe your feet before entering the house.}
 {115}{}{I'm sorry, did we invite you in?}
-{116}{}{Can I help you?}
+{116}{}{Kan jag hjälpa dig?}
 {117}{}{You Outsiders could stand to learn some manners.}
 {118}{}{Typical of an Outsider, barging in here...}
 {119}{}{I have heard of your brave deeds. You have done a great service for Vault City... and the world.}
@@ -60,7 +60,7 @@
 {159}{}{It's polite to ask before entering someone's house.}
 {160}{}{Please wipe your feet before entering the house.}
 {161}{}{I'm sorry, did we invite you in?}
-{162}{}{Can I help you?}
+{162}{}{Kan jag hjälpa dig?}
 {163}{}{You Outsiders could stand to learn some manners.}
 {164}{}{The city provides us with everything we need.}
 {165}{}{The Servants? Oh, we use them for menial tasks.}

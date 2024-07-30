@@ -43,7 +43,7 @@
 {142}{}{Glöm det.}
 {158}{}{What? You do not have the money? How do you expect me to survive if you ask me for free healing?}
 {159}{}{Har du stimpaks?}
-{160}{}{No thanks.}
+{160}{}{Nej tack.}
 {161}{}{It has been a pleasure doing business with you.}
 {162}{}{Tack.}
 {163}{}{Your offer, sadly, is not acceptable.}

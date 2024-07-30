@@ -26,9 +26,9 @@
 {118}{}{The life functions of my master have terminated. Are you my new master?}
 {119}{}{Uh... doggie talk?}
 {120}{}{Yes. Me want doggie.}
-{121}{}{No thanks.}
+{121}{}{Nej tack.}
 {122}{}{Sounds good.}
-{123}{}{No thanks.}
+{123}{}{Nej tack.}
 {124}{}{I... I refuse to go through this with you a second time! Were I
  capable of full motivation I would bite you in the fleshy part of your
  anterior region commonly referred to as the...}
@@ -52,7 +52,7 @@
 {139}{}{Okej.}
 {140}{}{Nej.}
 {141}{}{All right.}
-{142}{}{No thanks.}
+{142}{}{Nej tack.}
 {143}{}{You are not my master. I cannot speak to you. Good bye.}
 {144}{}{Okej.}
 {145}{}{Hello master. Have you found my motivation unit?}

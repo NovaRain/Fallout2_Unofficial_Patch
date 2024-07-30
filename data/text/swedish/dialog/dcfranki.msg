@@ -26,7 +26,7 @@
 {171}{}{Here's your money.}
 {172}{}{No way! That's too much!}
 {173}{}{Why does your whiskey cost so much more than Becky's?}
-{174}{}{No thanks.}
+{174}{}{Nej tack.}
 {175}{}{Anything else?}
 {176}{}{Ja.}
 {177}{}{Nope, thanks.}

@@ -1,7 +1,7 @@
 {100}{}{You see a big, burly mutant with a sense of purpose in his eyes.}
 {101}{}{You see one of the bank guards, a large, tough mutant.}
 {102}{}{You see a well-armed, alert guard; a mutant who carries a rather wicked-looking weapon.}
-{103}{}{Can I help you?}
+{103}{}{Kan jag hjälpa dig?}
 {104}{}{Agga agga!}
 {105}{}{Me in building! Oooh!}
 {106}{}{Just looking around.}

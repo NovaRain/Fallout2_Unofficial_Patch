@@ -1,7 +1,7 @@
 {100}{}{You see a slender young man wearing glasses.}
 {101}{}{It's Gunther, aide to President Tandi. At least that's what the sign on the door said.}
 {102}{}{He looks officious and busy, the type born to be a bureaucrat that other folks hate.}
-{103}{}{Can I help you?}
+{103}{}{Kan jag hjälpa dig?}
 {104}{}{You again?}
 {105}{}{Uhhhh - work. Work Tandi.}
 {106}{}{Vem är du?}

@@ -11,7 +11,7 @@
 {202}{}{Tack.}
 {203}{}{Tack!}
 {204}{}{No thank you.}
-{205}{}{No thanks.}
+{205}{}{Nej tack.}
 {206}{}{Visst.}
 {207}{}{Ja.}
 {208}{}{Nej.}

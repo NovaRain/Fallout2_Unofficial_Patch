@@ -10,7 +10,7 @@
 {108}{}{Jag gå nu.}
 {109}{}{Just saying hello.}
 {110}{}{Vem är du?}
-{111}{}{What are you doing?}
+{111}{}{Vad är det du gör?}
 {112}{}{You look like you're guarding that trail.}
 {113}{}{I'll be going now.}
 {114}{}{Well, hello to you. Now, I'm sorry, but you should go.}
