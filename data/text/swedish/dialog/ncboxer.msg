@@ -1,6 +1,6 @@
-{100}{}{You see a boxer.}
-{150}{}{You see a heavily-muscled black man. He looks like he has just finished working out.}
-{151}{}{You see a huge black man. And I do mean HUGE.}
+{100}{}{Du ser en boxare.}
+{150}{}{Du ser en kraftigt muskulös svart man. Han ser ut som om han precis har avslutat ett träningspass.}
+{151}{}{Du ser en enorm svart man. Och jag menar verkligen ENORM.}
 {152}{}{He looks like he has just finished working out.}
 {153}{}{You almost mistook him for a small mountain.}
 {154}{}{He is huge. Huuuuuge.}

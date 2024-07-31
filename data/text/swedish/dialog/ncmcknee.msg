@@ -1,4 +1,4 @@
-{100}{}{You see a boxer.}
+{100}{}{Du ser en boxare.}
 {101}{}{You see Pete "The Hurricane" McKneely.}
 {150}{}{You see what seems to be a heavily-muscled white man. He looks so weak you could knock him out with a slice of pizza.}
 {151}{}{His jaw gleams like glass.}
