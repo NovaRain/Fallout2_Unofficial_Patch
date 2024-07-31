@@ -43,7 +43,7 @@
 {220}{}{Du slåss mot mig?}
 {221}{}{Bli arg bli arg bli arg.}
 {222}{}{Fo-kuss, Fo-kuss.}
-{223}{}{Get critikal.}
+{223}{}{Få kritt.}
 {224}{}{Fight past that shit.}
 {225}{}{Me need spotter.}
 {226}{}{You small person.}
