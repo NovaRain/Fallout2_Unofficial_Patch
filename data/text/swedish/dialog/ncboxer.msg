@@ -1,22 +1,22 @@
 {100}{}{Du ser en boxare.}
 {150}{}{Du ser en kraftigt muskulös svart man. Han ser ut som om han precis har avslutat ett träningspass.}
 {151}{}{Du ser en enorm svart man. Och jag menar verkligen ENORM.}
-{152}{}{He looks like he has just finished working out.}
-{153}{}{You almost mistook him for a small mountain.}
-{154}{}{He is huge. Huuuuuge.}
-{155}{}{He is grinning at you toothlessly.}
-{156}{}{He looks like he has just finished working out.}
-{157}{}{You almost mistook him for a small mountain.}
-{158}{}{He is huge. Huuuuuge.}
-{159}{}{He is grinning at you toothlessly.}
-{160}{}{He is jabbing at an invisible opponent and snarling threats to the air.}
+{152}{}{Han ser ut som om han precis har avslutat ett träningspass.}
+{153}{}{Du trodde nästan att han var ett litet berg.}
+{154}{}{Han är enorm. Enooooorm.}
+{155}{}{Han flinar tandlöst mot dig.}
+{156}{}{Han ser ut som om han precis har avslutat ett träningspass.}
+{157}{}{Du trodde nästan att han var ett litet berg.}
+{158}{}{Han är enorm. Enooooorm.}
+{159}{}{Han flinar tandlöst mot dig.}
+{160}{}{Han jabbar mot en osynlig motståndare och morrar hot ut i luften.}
 {161}{}{He looks momentarily confused, as if having forgotten who he was, then
  smiles and scratches his head.}
 {162}{}{He is doing squats.}
 {163}{}{You see a large white man. His arms look like tree trunks.}
 {164}{}{You see a heavily-muscled white man. He is flexing and grunting to himself.}
 {165}{}{You see a heavily-muscled white man. He is eyeing your head like a punching bag.}
-{166}{}{He is jabbing at an invisible opponent and snarling threats to the air.}
+{166}{}{Han jabbar mot en osynlig motståndare och morrar hot ut i luften.}
 {167}{}{He looks momentarily confused, as if having forgotten who he was, then
  smiles and scratches his head.}
 {168}{}{He is eyeing your head like a punching bag.}
