@@ -6,7 +6,7 @@
 {153}{}{He looks like you could knock him out with a slice of pizza.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
-{202}{}{::Flexes::}
+{202}{}{::Spänner::}
 {203}{}{I'm bushed.}
 {204}{}{I'm tired.}
 {205}{}{*Phewwww* Rough day.}

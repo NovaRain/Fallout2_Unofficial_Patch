@@ -45,7 +45,7 @@
 {224}{}{::Ooooooh::}
 {225}{}{::Cries::}
 {226}{}{::Coughs::}
-{227}{}{::Scratches self::}
+{227}{}{::Kliar sig själv::}
 {228}{}{::Mumbles to self::}
 {229}{}{Can't... can't keep going on like... this...}
 {230}{}{You seen Jules around? I need a fix.}

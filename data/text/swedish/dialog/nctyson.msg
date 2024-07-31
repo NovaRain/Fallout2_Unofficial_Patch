@@ -29,5 +29,5 @@
 {202}{}{::Mike holds up his hands in surrender as you approach::}
 {203}{}{You cute.}
 {204}{}{Me like your ears.}
-{205}{}{Enough talk. Time for bed.}
+{205}{}{Nog prat. Dags att lägga sig.}
 {206}{}{Robin? That you?}

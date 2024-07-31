@@ -10,44 +10,44 @@
 {158}{}{Han är enorm. Enooooorm.}
 {159}{}{Han flinar tandlöst mot dig.}
 {160}{}{Han jabbar mot en osynlig motståndare och morrar hot ut i luften.}
-{161}{}{He looks momentarily confused, as if having forgotten who he was, then
- smiles and scratches his head.}
-{162}{}{He is doing squats.}
-{163}{}{You see a large white man. His arms look like tree trunks.}
-{164}{}{You see a heavily-muscled white man. He is flexing and grunting to himself.}
-{165}{}{You see a heavily-muscled white man. He is eyeing your head like a punching bag.}
+{161}{}{Han ser tillfälligt förvirrad ut, som om han glömt vem han var, men ler
+ sedan och kliar sig i huvudet.}
+{162}{}{Han gör knäböj.}
+{163}{}{Du ser en stor vit man. Hans armar ser ut som trädstammar.}
+{164}{}{Du ser en kraftigt muskulös vit man. Han spänner sig och grymtar för sig själv.}
+{165}{}{Du ser en kraftigt muskulös vit man. Han tittar på ditt huvud som på en boxningssäck.}
 {166}{}{Han jabbar mot en osynlig motståndare och morrar hot ut i luften.}
-{167}{}{He looks momentarily confused, as if having forgotten who he was, then
- smiles and scratches his head.}
-{168}{}{He is eyeing your head like a punching bag.}
+{167}{}{Han ser tillfälligt förvirrad ut, som om han glömt vem han var, men ler
+ sedan och kliar sig i huvudet.}
+{168}{}{Han tittar på ditt huvud som på en boxningssäck.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Flexes::}
-{203}{}{::The boxer looks at you with frightened eyes::}
-{204}{}{Yessur?}
-{205}{}{Ken I borrow sum teef?}
+{202}{}{::Spänner::}
+{203}{}{::Boxaren tittar på dig med skrämda ögon::}
+{204}{}{Jaherrn?}
+{205}{}{Kam ja låna nåra tänner?}
 {206}{}{You need spotter?}
 {207}{}{Aha.}
-{208}{}{::Nods stupidly at everything you say::}
-{209}{}{U big pershun. Me small.}
-{210}{}{U tough. Me weak.}
+{208}{}{::Nickar dumt åt allt du säger::}
+{209}{}{Du stor peshon. Jag liten.}
+{210}{}{Du tuff. Jag svag.}
 {211}{}{Me hungry.}
-{212}{}{Me no like talk.}
-{213}{}{You smell guuud.}
-{214}{}{You smell like Mom.}
-{215}{}{Enough talk. Time for bed.}
-{216}{}{::Smiles toothlessly::}
-{217}{}{::Scratches self::}
-{218}{}{::Flexes::}
-{219}{}{Grunt}
-{220}{}{You fight me?}
-{221}{}{Get mad get mad get mad.}
-{222}{}{Fow-cuss, Fow-cuss.}
+{212}{}{Jag inte gilla prata.}
+{213}{}{Du luktar gooott.}
+{214}{}{Du luktar som Mamma.}
+{215}{}{Nog prat. Dags att lägga sig.}
+{216}{}{::Ler tandlöst::}
+{217}{}{::Kliar sig själv::}
+{218}{}{::Spänner::}
+{219}{}{Grymt}
+{220}{}{Du slåss mot mig?}
+{221}{}{Bli arg bli arg bli arg.}
+{222}{}{Fo-kuss, Fo-kuss.}
 {223}{}{Get critikal.}
 {224}{}{Fight past that shit.}
 {225}{}{Me need spotter.}
 {226}{}{You small person.}
-{227}{}{Me no like talk.}
+{227}{}{Jag inte gilla prata.}
 {300}{}{Ernhhh}
 {301}{}{Unfff}
 {302}{}{Hrghhh}
