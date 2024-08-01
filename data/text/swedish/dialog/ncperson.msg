@@ -1,11 +1,11 @@
-{100}{}{You see one of the Reno townsfolk.}
-{150}{}{You see a ragged-looking man. He looks bored.}
-{151}{}{You see a ragged-looking man. He has a dull look in his eye.}
+{100}{}{Du ser en av Renos stadsbor.}
+{150}{}{Du ser en man som ser sliten ut. Han ser uttråkad ut.}
+{151}{}{Du ser en man som ser sliten ut. Han har en slö blick.}
 {152}{}{You see a ragged-looking man. He looks like he is nursing a hangover.}
-{153}{}{You see a ragged-looking man. He looks a little tipsy.}
-{154}{}{You see a ragged-looking man. He gives you an irritated glance, then ignores you.}
-{155}{}{You see a ragged-looking man. He looks pissed off.}
-{160}{}{You see a ragged-looking woman. She looks bored.}
+{153}{}{Du ser en man som ser sliten ut. Han ser lite berusad ut.}
+{154}{}{Du ser en man som ser sliten ut. Han ger dig en irriterad blick och ignorerar dig sedan.}
+{155}{}{Du ser en man som ser sliten ut. Han ser förbannad ut.}
+{160}{}{Du ser en kvinna som ser sliten ut. Hon ser uttråkad ut.}
 {161}{}{You see a ragged-looking woman. She has a dull look in her eye.}
 {162}{}{You see a ragged-looking woman. She is staring a thousand miles away.}
 {163}{}{You see a ragged-looking woman. She looks a little drunk.}
