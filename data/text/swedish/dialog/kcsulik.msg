@@ -5,44 +5,44 @@
 {103}{}{.}
 {104}{slk1}{Hej, koppis. Vårt namn Sulik. Vad du behöva...}
 {105}{}{Eh?}
-{107}{slk2a}{Oh, no. Don't be talking at us. One of you took our sis. Bad karma... for you.}
-{108}{slk2b}{Oh, no. We and I don't talk to no slave owner.}
-{109}{slk3}{Most people have evil spirits. You? You have stupid spirits.
- Go see shaman, get hole in head... Big hole... Very big... Huge.}
-{110}{}{Nuh?}
-{111}{}{Uh-huh!}
-{112}{}{Gug! (you look concerned)}
-{113}{slk4}{Don't want a hole? Go see Torr, he your spirit-brother. He work for Maida-with-no-smiles. Just like we and I.}
+{107}{slk2a}{Åh, nej! Prata inte mot oss. En av er tog vår syrrra. Dålig karma... för dig.}
+{108}{slk2b}{Åh, nej. Vi och jag pratar inte med någon slavägare.}
+{109}{slk3}{De flesta människor har onda andar. Och du? Du har korkade andar.
+ Gå till shamanen, få ett hål i huvudet... Stort hål... Väldigt stort... Enormt.}
+{110}{}{Nä?}
+{111}{}{Aha!}
+{112}{}{Gug! (du ser orolig ut)}
+{113}{slk4}{Vill inte ha ett hål? Gå och träffa Torr, han din andebror. Han jobbar för Maida-med-inga-leenden. Precis som vi och jag.}
 {114}{}{Aha.}
 {115}{}{Vadå?}
-{116}{slk5a}{Ah, shit, fren. Slavers took our sister. We went drinking, then went breaking. Now paying off Maida. When
- that done, we go find sis.}
-{117}{slk5b}{Now we be getting ready to leave. Go look for sis. She snatched by slavers.}
+{116}{slk5a}{Fan, koppis. Slavhandlare tog vår syster. Vi gick och drack, sen gick vi och förstörde. Nu betalar jag av Maida. När
+ det gjort, vi går och hitta syrran.}
+{117}{slk5b}{Nu vi gör oss redo att dra. Gå leta efter syrran. Hon kidnappats av slavhandlare.}
 {118}{}{Eh?}
-{119}{}{Hmm, how much do you have to pay before you can go free?}
+{119}{}{Hmm, hur mycket måste du betala innan du kan gå fri?}
 {120}{}{Aha.}
-{121}{}{I'm looking for something. Maybe you could join me.}
-{122}{slk6}{We owe Maida $350. You heading south? We walkabout with you and look for sis. You
- having $350?}
+{121}{}{Jag letar efter något. Du kanske kan göra mig sällskap.}
+{122}{slk6}{Vi är skyldiga Maida $350. Du är på väg söderut? Vi vandrar runt med dig och letar efter syrran. Du...
+ ha $350?}
 {123}{}{Näe.}
-{124}{}{Uh-huh!}
-{125}{}{Here's the $350.}
-{126}{}{Who's we?}
-{127}{}{Maybe so, Sulik. Let me ask you something though.}
-{128}{}{$350 is a lot of money. You're going to be here for a while. Goodbye.}
-{129}{}{A master probably keeps you out of trouble. I don't think you'll be going South
- anytime soon. Goodbye.}
-{140}{slk6a}{The spirits with me, fren! They be all around. Sometimes talk.}
-{141}{}{Kind of like extra bats in the belfry, huh?}
-{142}{}{What spirits?}
-{143}{}{Ok... Can I ask you something else?}
-{150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
- you going to need it.}
+{124}{}{Aha!}
+{125}{}{Här är $350.}
+{126}{}{Vilka är vi?}
+{127}{}{Kanske det, Sulik. Men låt mig fråga dig en sak.}
+{128}{}{$350 är mycket pengar. Du kommer att vara här ett tag. Adjö.}
+{129}{}{En mästare håller dig förmodligen borta från problem. Jag tror inte att du kommer att resa söderut
+ inom den närmsta tiden. Adjö.}
+{140}{slk6a}{Andarna med mig, koppis! De överallt. Ibland pratar.}
+{141}{}{Lite som extra fladdermöss i klockstapeln, eller hur?}
+{142}{}{Vilka andar?}
+{143}{}{Okej... Får jag fråga dig en sak till?}
+{150}{slk6b}{Det roligt, koppis. Åtminstone tycker Moffa Ben det. Han säga att du har humor. Säger
+ du kommer behöva det.}
 {151}{}{Varför?}
-{152}{}{Who's Grampy Bone?}
+{152}{}{Vem är Moffa Ben?}
 {153}{}{Can I ask you something else?}
-{160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}
-{162}{}{What feeling?}
+{160}{slk6c}{Han har känsla för dig. Moffa Ben en smart själ.}
+{162}{}{Vilken känsla?}
 {170}{slk6d}{Spirits be everywhere. Travel with we and I. Grampy Bone do most the talking.}
 {171}{}{I'd like to ask something else.}
 {180}{slk6e}{That all he say right now. Spirits see and say different. Not like normal folk.}
