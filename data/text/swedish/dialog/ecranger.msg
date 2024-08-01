@@ -22,9 +22,9 @@
 {121}{}{Too bad - for you. We're NCR Rangers. Ever heard of us? We kill slavers.}
 {122}{}{You are such a lying sack of shit. Take 'em!}
 {123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}
-{124}{}{None of your business.}
+{124}{}{Det angår inte dig.}
 {125}{}{Say, I've heard that name. You're a Ranger, aren't you?}
 {126}{}{Ja.}
-{127}{}{None of your business.}
+{127}{}{Det angår inte dig.}
 {128}{}{Fine, be anti-social. At least you're not a slaver. Goodbye.}
 {129}{}{Pleased to meet you, fellow Ranger. Keep your eyes clear for trouble. See you around.}

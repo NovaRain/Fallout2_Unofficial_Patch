@@ -6,7 +6,7 @@
 {108}{}{Duh?}
 {109}{}{I have a letter for AHS-9. Where do I take it?}
 {110}{}{Jag är}
-{111}{}{None of your business.}
+{111}{}{Det angår inte dig.}
 {112}{}{I want to join the Hubologists.}
 {113}{}{Who are YOU? And what are YOU doing here?}
 {114}{}{Nothing. Bye.}
@@ -18,13 +18,13 @@
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
 {122}{}{Jag är}
-{123}{}{None of your business.}
+{123}{}{Det angår inte dig.}
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
 {126}{}{Nothing. Bye.}
 {127}{}{Jag är Harry. Jag är chef för raketteknikerna.}
 {128}{}{Jag är}
-{129}{}{None of your business.}
+{129}{}{Det angår inte dig.}
 {130}{}{I want to join the Hubologists.}
 {131}{}{Nothing. Bye.}
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}

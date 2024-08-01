@@ -5,7 +5,7 @@
 {104}{}{Wha?}
 {105}{}{Who are YOU?}
 {106}{}{Jag är}
-{107}{}{None of your business.}
+{107}{}{Det angår inte dig.}
 {108}{}{Nothing. I'm leaving now.}
 {109}{}{You don't belong here if you're an imbecile. Run along now, before I call the guards.}
 {110}{}{You really don't understand me, do you? Perhaps you will understand the guards. Guards! Intruder!}

@@ -34,7 +34,7 @@
 {133}{}{Another drill?}
 {134}{}{I thought I heard gunfire.}
 {135}{}{Hey, who're you?}
-{136}{}{Halt! Who goes there?}
+{136}{}{Halt! Vem är det som går där?}
 {137}{}{I get so tired of these drills all the time.}
 {138}{}{Yeah, like I'd recognize an intruder.}
 {139}{}{Don't worry about it.}
