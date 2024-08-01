@@ -46,26 +46,26 @@
 {223}{}{Få kritt.}
 {224}{}{Fight past that shit.}
 {225}{}{Me need spotter.}
-{226}{}{You small person.}
+{226}{}{Du liten person.}
 {227}{}{Jag inte gilla prata.}
 {300}{}{Ernhhh}
 {301}{}{Unfff}
 {302}{}{Hrghhh}
 {303}{}{Nfff}
 {304}{}{Hrggg}
-{305}{}{Ooof}
-{310}{}{Too slow!}
-{311}{}{Not the face!}
-{312}{}{You punch like my grandmother!}
-{313}{}{No hitting below the belt!}
-{314}{}{You ain't bad.}
-{315}{}{Dat all you got?}
-{320}{}{And stay down!}
-{321}{}{You got knocked da fuck out!}
+{305}{}{Offf}
+{310}{}{För långsamt!}
+{311}{}{Inte i ansiktet!}
+{312}{}{Du slår som min mormor!}
+{313}{}{Inga slag under bältet!}
+{314}{}{Du är int' dålig.}
+{315}{}{Äre allt du har?}
+{320}{}{Och håll dig nere!}
+{321}{}{Du blev knockad, för fan!}
 {322}{}{Who's your Daddy?}
-{323}{}{If he dies, he dies.}
-{330}{}{Coulda been a contender!}
-{331}{}{How could such a... geggghhh...}
+{323}{}{Om han dör, så dör han.}
+{330}{}{Kunde ha varit en utmanare!}
+{331}{}{Hur kunde en sådan... geggghhh...}
 {332}{}{*Huuuuurrrrllllll*}
 {333}{}{Ooo, care bears...}
 {334}{}{I think I'll just lay here for a little while.}

@@ -591,7 +591,7 @@
 {2561}{}{Is that the best you can do?}
 {2562}{}{You're making this easy.}
 {2563}{}{Just pathetic...}
-{2564}{}{Too slow!}
+{2564}{}{För långsamt!}
 {2565}{}{Loser!}
 {2600}{}{Run from the Evil One!}
 {2601}{}{The spirits bid me to save myself!}
@@ -813,7 +813,7 @@
 {3162}{}{You missed, normie!}
 {3163}{}{You missed, normie!}
 {3164}{}{You can't kill what you can't hit!}
-{3165}{}{Too slow!}
+{3165}{}{För långsamt!}
 {3166}{}{OK, let's try that at full speed now.}
 {3167}{}{Were you actually aiming at me?}
 {3168}{}{What was that?}
@@ -923,7 +923,7 @@
 {12162}{}{You missed, normie!}
 {12163}{}{You missed, normie!}
 {12164}{}{You can't kill what you can't hit!}
-{12165}{}{Too slow!}
+{12165}{}{För långsamt!}
 {12200}{}{Whoa, this shit's getting too heavy.}
 {12201}{}{Time to go get some of the other boys...}
 {12202}{}{I'll get you next time!}
@@ -1452,7 +1452,7 @@
 {36162}{}{Hope that ain't your best shot.}
 {36163}{}{Bwahaha. Kaga didn't even have to duck!}
 {36164}{}{You can't kill what you can't hit!}
-{36165}{}{Too slow!}
+{36165}{}{För långsamt!}
 {36200}{}{We will meet again!}
 {36201}{}{I'll be back...}
 {36202}{}{You cannot kill the Great Kaga!}
@@ -1478,7 +1478,7 @@
 {36262}{}{Hope that ain't your best shot.}
 {36263}{}{Bwahaha. Kaga didn't even have to duck!}
 {36264}{}{You can't kill what you can't hit!}
-{36265}{}{Too slow!}
+{36265}{}{För långsamt!}
 {36300}{}{This is getting to be a bad habit.}
 {36301}{}{Kaga needs more training.}
 {36302}{}{I'll be back. Yada yada yada I'm gonna kill you.}
@@ -1503,7 +1503,7 @@
 {36362}{}{Hope that ain't your best shot.}
 {36363}{}{Bwahaha. Kaga didn't even have to duck!}
 {36364}{}{You can't kill what you can't hit!}
-{36365}{}{Too slow!}
+{36365}{}{För långsamt!}
 {36400}{}{This is getting to be a bad habit.}
 {36401}{}{Kaga needs more training.}
 {36402}{}{This is not the last you will see of Kaga!}
@@ -1529,7 +1529,7 @@
 {36462}{}{Hope that ain't your best shot.}
 {36463}{}{Bwahaha. Kaga didn't even have to duck!}
 {36464}{}{You can't kill what you can't hit!}
-{36465}{}{Too slow!}
+{36465}{}{För långsamt!}
 {36500}{}{}
 {36501}{}{}
 {36502}{}{}
@@ -1554,7 +1554,7 @@
 {36562}{}{Hope that ain't your best shot.}
 {36563}{}{Bwahaha. Kaga didn't even have to duck!}
 {36564}{}{You can't kill what you can't hit!}
-{36565}{}{Too slow!}
+{36565}{}{För långsamt!}
 {36600}{}{Ahhhgh! My face!}
 {36601}{}{My face! You shall suffer!}
 {36602}{}{Ahhhgh! I rend you into bits!}
