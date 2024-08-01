@@ -1,9 +1,9 @@
-{100}{}{You see a tall man with facial tattoos and a large bone through his nose.}
-{101}{}{You see Sulik.}
+{100}{}{Du ser en lång man med ansiktstatueringar och ett stort ben genom näsan.}
+{101}{}{Du ser Sulik.}
 {102}{}{You see a tall, muscular, Tribal. He has a bone through his nose, facial tattooing, and a
  confident, composed demeanor.}
 {103}{}{.}
-{104}{slk1}{Hey, fren. Our name be Sulik. What you be needin'.}
+{104}{slk1}{Hej, koppis. Vårt namn Sulik. Vad du behöva...}
 {105}{}{Eh?}
 {107}{slk2a}{Oh, no. Don't be talking at us. One of you took our sis. Bad karma... for you.}
 {108}{slk2b}{Oh, no. We and I don't talk to no slave owner.}

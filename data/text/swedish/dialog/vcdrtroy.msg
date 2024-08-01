@@ -55,7 +55,7 @@
  you. Where are you from?}
 {149}{}{Hold on a moment... you're an Outsider, correct? Where are you from?}
 {150}{}{From a small village to the west, Arroyo.}
-{151}{}{Why do you want to know?}
+{151}{}{Varför vill du veta det?}
 {152}{}{None of your business, "doctor." Can I go now, or do you have more questions for me?}
 {153}{}{I don't like to discuss my past.}
 {154}{}{Arroyo? I don't believe I've heard of it. I'm sorry to pry. I was just looking for someone who
