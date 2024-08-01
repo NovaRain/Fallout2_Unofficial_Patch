@@ -228,4 +228,4 @@
 {20005}{}{Zapomeň na to. Tohle rozestavění je v pořádku.}
 {20006}{}{Vlastně nic. Teď o tvé výbavě nepotřebuju mluvit.}
 {20007}{}{Potřebuju, aby sis sundal tu zbroj, co máš na sobě.}
-{30300}{}{[Next]}
+{30300}{}{[Další]}
