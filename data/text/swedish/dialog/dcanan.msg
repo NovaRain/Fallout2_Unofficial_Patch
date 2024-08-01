@@ -2,7 +2,7 @@
 {101}{}{You see the Great Ananias.}
 {102}{}{You see a short, mustachioed, man with a somewhat furtive look to him.}
 {103}{}{You! What do you want to do to the, formerly, Great Ananias now?}
-{104}{}{Get away from me!}
+{104}{}{Försvinn från mig!}
 {105}{}{Go ruin someone else's business.}
 {106}{}{Take it out on someone else.}
 {107}{}{You've already done your worst to me.}

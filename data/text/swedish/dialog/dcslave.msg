@@ -27,7 +27,7 @@
 {330}{}{What did we do wrong?}
 {331}{}{Leave us alone, slaver!}
 {332}{}{Gör mig inte illa!}
-{333}{}{Get away from me!}
+{333}{}{Försvinn från mig!}
 {350}{}{Who you?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}

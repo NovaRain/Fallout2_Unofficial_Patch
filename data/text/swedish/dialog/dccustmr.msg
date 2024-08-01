@@ -8,7 +8,7 @@
 {155}{}{She seems to be looking around Tubby's store.}
 {156}{}{You don't see anything unusual about him.}
 {157}{}{You don't see anything unusual about her.}
-{200}{}{Get away from me!}
+{200}{}{Försvinn från mig!}
 {201}{}{Lämna mig ifred!}
 {202}{}{Don't touch me!}
 {203}{}{Stop it!}
