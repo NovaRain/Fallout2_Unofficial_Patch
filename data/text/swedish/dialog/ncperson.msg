@@ -6,11 +6,11 @@
 {154}{}{Du ser en man som ser sliten ut. Han ger dig en irriterad blick och ignorerar dig sedan.}
 {155}{}{Du ser en man som ser sliten ut. Han ser förbannad ut.}
 {160}{}{Du ser en kvinna som ser sliten ut. Hon ser uttråkad ut.}
-{161}{}{You see a ragged-looking woman. She has a dull look in her eye.}
-{162}{}{You see a ragged-looking woman. She is staring a thousand miles away.}
-{163}{}{You see a ragged-looking woman. She looks a little drunk.}
-{164}{}{You see a ragged-looking woman. She gives you an irritated glance, then ignores you.}
-{165}{}{You see a ragged-looking woman. When she catches your eye, she sneers.}
+{161}{}{Du ser en kvinna som ser sliten ut. Hon har en slö blick.}
+{162}{}{Du ser en kvinna som ser sliten ut. Hon stirrar tusen mil bort.}
+{163}{}{Du ser en kvinna som ser sliten ut. Hon ser lite berusad ut.}
+{164}{}{Du ser en kvinna som ser sliten ut. Hon ger dig en irriterad blick och ignorerar dig sedan.}
+{165}{}{Du ser en kvinna som ser sliten ut. När ni ser varandra fnyser hon åt dig.}
 {200}{}{::Claps::}
 {201}{}{::Cheers::}
 {202}{}{Way to burn those Enclave bastards! Way to go!}
@@ -18,7 +18,7 @@
 {204}{}{Congrats on stomping the Enclave, }
 {205}{}{Congrats on stomping the Enclave, }
 {215}{}{Uh-oh. Get out of the way.}
-{216}{}{Just looking at him... her... it... WHATEVER it is gives me the shivers.}
+{216}{}{Att bara titta på honom... henne... det... VAD NU DET ÄR, ger mig rysningar.}
 {217}{}{Think that thing's looking to cap anyone?}
 {218}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
 {219}{}{Stay outta that thing's path.}
@@ -36,7 +36,7 @@
 {246}{}{I want to eat my dinner off your chest.}
 {247}{}{Need a partner for your next film?}
 {248}{}{::Stares at your biceps.::}
-{249}{}{::Claps, whistles::}
+{249}{}{::Klappar, visslar::}
 {255}{}{Whoa. Check that out.}
 {256}{}{Would you look at THAT?}
 {257}{}{::Mouths the word 'damn.'::}
@@ -51,7 +51,7 @@
 {266}{}{Work it!}
 {267}{}{::Whistles::}
 {268}{}{Them legs go all the way up?}
-{269}{}{Hey, beautiful, you got a tongue to go with that ass?}
+{269}{}{Hej, snygging, har du en tunga som passar till den där röven?}
 {270}{}{You got fries to go with that shake, beautiful?}
 {271}{}{Maybe she'll dance tonight.}
 {272}{}{Did you see her latest film? Red hot, man, red HOT.}
@@ -59,16 +59,16 @@
 {274}{}{I'd like to be her underpants.}
 {275}{}{I'd like to be her underwear.}
 {276}{}{I'd like to smell her shorts.}
-{277}{}{That is one foxy lady.}
+{277}{}{Det där är en snygg dam.}
 {278}{}{Damn. All them curves and me with no brakes.}
-{279}{}{Check out those bazoongas!}
-{280}{}{Check out those begonias!}
-{281}{}{I want to get a better look at those big brown eyes.}
-{282}{}{Daaaaamn.}
-{283}{}{Check out those headlights.}
-{284}{}{I bet she has back problems.}
+{279}{}{Kolla in de där pattarna!}
+{280}{}{Kolla in de där begoniorna!}
+{281}{}{Jag vill få en bättre titt på de där stora bruna ögonen.}
+{282}{}{Faaaaan.}
+{283}{}{Kolla in strålkastarna.}
+{284}{}{Jag slår vad om att hon har ryggproblem.}
 {285}{}{You don't look so tough, Mr. Prizefighter.}
-{286}{}{I got 20 chips riding on you!}
+{286}{}{Jag har 20 marker satsade på dig!}
 {287}{}{Hey, champ! That last fight was great!}
 {288}{}{Saw you fight in the ring. Damn good right hook you throw.}
 {289}{}{You gonna take the fall? I got 30 chips riding on you.}
@@ -95,28 +95,28 @@
 {314}{}{I think she just gave me the stare of death. I'm outta here.}
 {315}{}{I heard she shot down three hitmen just yesterday.}
 {316}{}{What an ass! Uh, bad ass, that is.}
-{320}{}{What's with all the slavers around here recently?}
-{321}{}{I ain't seen that slaver around here before...}
-{322}{}{I wonder if the slaver's headed to the Stables...}
-{323}{}{Wonder if that slaver's got any stock...}
-{324}{}{You headed to the stables, slaver?}
-{325}{}{ANOTHER slaver. Mordino must have discovered a gold mine somewhere...}
-{326}{}{Slaver's bound for Golgotha.}
-{327}{}{That stink from Golgotha was damn awful last night...}
-{328}{}{Friggin' slavers...}
+{320}{}{Vad är det med alla slavhandlare häromkring på sistone?}
+{321}{}{Jag har inte sett den där slavhandlaren här förut...}
+{322}{}{Jag undrar om slavhandlaren är på väg till Stallet...}
+{323}{}{Undrar om den där slavhandlaren har något i lager...}
+{324}{}{Är du på väg till stallet, slavhandlare?}
+{325}{}{ÄNNU EN slavhandlare. Mordino måste ha hittat en guldgruva någonstans...}
+{326}{}{Slavhandlaren är på väg till Golgota.}
+{327}{}{Den där stanken från Golgata var jävligt hemsk igår kväll...}
+{328}{}{Jävla slavhandlare...}
 {329}{}{Of all the rotten luck...}
-{330}{}{Heard they got a new crop o' slaves.}
-{331}{}{New crop of slaves in the whorehouse.}
+{330}{}{Hörde att de har en ny skörd me' slavar.}
+{331}{}{Ny skörd av slavar i horhuset.}
 {332}{}{Conjunction, Junction.}
 {333}{}{I'm making bank.}
-{334}{}{Sometimes too much to drink is not enough.}
+{334}{}{Ibland är det inte tillräckligt att dricka för mycket.}
 {335}{}{Damned crossroaders in the casinos...}
 {336}{}{Great, another low roller.}
 {337}{}{House was against me.}
 {338}{}{Fortune's against me.}
-{339}{}{Glad they put that guy on the rack...}
-{340}{}{Filthy stinkard...}
-{341}{}{Slavers walking round like they own the place...}
+{339}{}{Glad att de satte den där snubben på sträckbänken...}
+{340}{}{Smutsiga skitstövel...}
+{341}{}{Slavhandlare som går omkring som om de ägde stället...}
 {342}{}{The House ha'mercy on me.}
 {343}{}{Bad luck, ill wind, not good times, not good times...}
 {344}{}{Reno's a-heating up, time ta move on.}
@@ -152,18 +152,18 @@
 {393}{}{How many tribals are gonna be coming to this town?}
 {394}{}{Another primate.}
 {395}{}{Boy's bound for Golgotha.}
-{396}{}{That stink from Golgotha was damn awful last night...}
+{396}{}{Den där stanken från Golgata var jävligt hemsk igår kväll...}
 {397}{}{Friggin' tourists.}
 {398}{}{Of all the rotten luck...}
-{399}{}{Heard they got a new crop o' slaves.}
+{399}{}{Hörde att de har en ny skörd me' slavar.}
 {400}{}{Conjunction, Junction.}
 {401}{}{I'm making bank.}
-{402}{}{Sometimes too much to drink is not enough.}
+{402}{}{Ibland är det inte tillräckligt att dricka för mycket.}
 {403}{}{Damned crossroaders in the casinos...}
 {404}{}{House was against me.}
 {405}{}{Fortune's against me.}
-{406}{}{Glad they put that guy on the rack...}
-{407}{}{Filthy stinkard...}
+{406}{}{Glad att de satte den där snubben på sträckbänken...}
+{407}{}{Smutsiga skitstövel...}
 {408}{}{The House ha'mercy on me.}
 {409}{}{Bad luck, ill wind, not good times, not good times...}
 {410}{}{Reno's a-heating up, time ta move on.}
@@ -195,20 +195,20 @@
 {453}{}{How many tribals are gonna be coming to this town?}
 {454}{}{Another primate.}
 {455}{}{Tribal's bound for Golgotha.}
-{456}{}{That stink from Golgotha was damn awful last night...}
+{456}{}{Den där stanken från Golgata var jävligt hemsk igår kväll...}
 {457}{}{Can't find his ass in a sandstorm...}
 {458}{}{Friggin' tourists.}
 {459}{}{Of all the rotten luck...}
-{460}{}{Heard they got a new crop o' slaves.}
+{460}{}{Hörde att de har en ny skörd me' slavar.}
 {461}{}{Conjunction, Junction.}
 {462}{}{I'm making bank.}
-{463}{}{Sometimes too much to drink is not enough.}
+{463}{}{Ibland är det inte tillräckligt att dricka för mycket.}
 {464}{}{Damned crossroaders in the casinos...}
 {465}{}{Great, another low roller.}
 {466}{}{House was against me.}
 {467}{}{Fortune's against me.}
-{468}{}{Glad they put that guy on the rack...}
-{469}{}{Filthy stinkard...}
+{468}{}{Glad att de satte den där snubben på sträckbänken...}
+{469}{}{Smutsiga skitstövel...}
 {470}{}{The House ha'mercy on me.}
 {471}{}{Bad luck, ill wind, not good times, not good times...}
 {472}{}{Reno's a-heating up, time ta move on.}
@@ -287,7 +287,7 @@
 {585}{}{Look, please... I don't want any trouble.}
 {586}{}{Hello, ma'am. How are you?}
 {587}{}{Anything wrong, ma'am?}
-{600}{}{What's with all the slavers around here recently?}
+{600}{}{Vad är det med alla slavhandlare häromkring på sistone?}
 {601}{}{I ain't seen you around here before...}
 {602}{}{If yer lookin' to sell slaves, try the Mordinos.}
 {603}{}{You headed to the stables? They keep most of the slaves there.}
@@ -302,19 +302,19 @@
 {612}{}{Golgotha's south of Reno, in the desert.}
 {613}{}{I may be poor, but not in spirit.}
 {614}{}{I'm not poor, I just have rotten luck.}
-{615}{}{That stink from Golgotha was damn awful last night...}
+{615}{}{Den där stanken från Golgata var jävligt hemsk igår kväll...}
 {616}{}{Dammit! See, I was up 53 chips, then...}
 {617}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {618}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {619}{}{Conjunction, Junction.}
 {620}{}{I'm making bank.}
-{621}{}{Sometimes too much to drink is not enough.}
+{621}{}{Ibland är det inte tillräckligt att dricka för mycket.}
 {622}{}{Damned crossroaders in the casinos...}
 {623}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {624}{}{House was against me.}
 {625}{}{Fortune's against me.}
-{626}{}{Glad they put that guy on the rack...}
-{627}{}{Filthy stinkard...}
+{626}{}{Glad att de satte den där snubben på sträckbänken...}
+{627}{}{Smutsiga skitstövel...}
 {628}{}{What do you want?}
 {629}{}{Bad luck, ill wind, not good times, not good times...}
 {630}{}{Reno's a-heating up, time ta move on.}
@@ -342,19 +342,19 @@
 {663}{}{Golgotha's south of Reno, in the desert.}
 {664}{}{I may be poor, but not in spirit.}
 {665}{}{I'm not poor, I just have rotten luck.}
-{666}{}{That stink from Golgotha was damn awful last night...}
+{666}{}{Den där stanken från Golgata var jävligt hemsk igår kväll...}
 {667}{}{Dammit! See, I was up 53 chips, then...}
 {668}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {669}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {670}{}{Conjunction, Junction.}
 {671}{}{I'm making bank.}
-{672}{}{Sometimes too much to drink is not enough.}
+{672}{}{Ibland är det inte tillräckligt att dricka för mycket.}
 {673}{}{Damned crossroaders in the casinos...}
 {674}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {675}{}{House was against me.}
 {676}{}{Fortune's against me.}
-{677}{}{Glad they put that guy on the rack...}
-{678}{}{Filthy stinkard...}
+{677}{}{Glad att de satte den där snubben på sträckbänken...}
+{678}{}{Smutsiga skitstövel...}
 {679}{}{What do you want?}
 {680}{}{Bad luck, ill wind, not good times, not good times...}
 {681}{}{Reno's a-heating up, time ta move on.}
@@ -384,21 +384,21 @@
 {707}{}{How many tribals are gonna be coming to this town?}
 {708}{}{Tell the rest of your tribe to stay at home.}
 {709}{}{Another primate? You tribals breed like mantises.}
-{710}{}{That stink from Golgotha was damn awful last night...}
+{710}{}{Den där stanken från Golgata var jävligt hemsk igår kväll...}
 {711}{}{Dammit! See, I was up 53 chips, then...}
 {712}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {713}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
-{714}{}{Heard they got a new crop o' slaves.}
-{715}{}{New crop of slaves in the whorehouse.}
+{714}{}{Hörde att de har en ny skörd me' slavar.}
+{715}{}{Ny skörd av slavar i horhuset.}
 {716}{}{Conjunction, Junction.}
 {717}{}{I'm making bank.}
-{718}{}{Sometimes too much to drink is not enough.}
+{718}{}{Ibland är det inte tillräckligt att dricka för mycket.}
 {719}{}{Damned crossroaders in the casinos...}
 {720}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {721}{}{House was against me.}
 {722}{}{Fortune's against me.}
-{723}{}{Glad they put that guy on the rack...}
-{724}{}{Filthy stinkard...}
+{723}{}{Glad att de satte den där snubben på sträckbänken...}
+{724}{}{Smutsiga skitstövel...}
 {725}{}{What do you want?}
 {726}{}{Bad luck, ill wind, not good times, not good times...}
 {727}{}{Reno's a-heating up, time ta move on.}

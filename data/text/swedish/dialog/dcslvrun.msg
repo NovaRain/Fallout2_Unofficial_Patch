@@ -56,7 +56,7 @@
 {284}{}{I don't want to be a slave.}
 {285}{}{I deserve better than this.}
 {290}{}{You die now!}
-{291}{}{Me kill!}
+{291}{}{Jag döda!}
 {292}{}{You no hurt family!}
 {293}{}{You no take family!}
 {294}{}{I protect!}

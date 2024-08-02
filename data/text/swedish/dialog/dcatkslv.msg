@@ -19,7 +19,7 @@
 {264}{}{Those slavers will pay for this.}
 {265}{}{No slaver's going to take my family.}
 {300}{}{You die now!}
-{301}{}{Me kill!}
+{301}{}{Jag döda!}
 {302}{}{You no hurt family!}
 {303}{}{You no take family!}
 {304}{}{I protect!}
