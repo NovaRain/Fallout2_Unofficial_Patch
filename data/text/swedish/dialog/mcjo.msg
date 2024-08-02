@@ -285,7 +285,7 @@
 {804}{}{Count me in!}
 {805}{}{I've had enough of this, count me out!}
 {806}{}{Let's attack now. The Slags have shown they can't be trusted.}
-{820}{}{What can I do to help?}
+{820}{}{Vad kan jag göra för att hjälpa till?}
 {821}{}{I want no part of this. I've fulfilled my end of the bargain. Tell me where the GECK is.}
 {850}{}{I'll be back when I find out what happened to Karl.}
 {900}{}{Thanks again, my friend, for saving our little town.}
