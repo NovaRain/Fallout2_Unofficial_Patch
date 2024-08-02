@@ -827,7 +827,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {820}{}{Good day, Citizen.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
-{823}{}{I don't know anything about that.}
+{823}{}{Jag vet ingenting om det.}
 {824}{}{I don't know.}
 {825}{}{Ja.}
 {826}{}{Nej.}

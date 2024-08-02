@@ -10,7 +10,7 @@
 {201}{}{Good Day.}
 {202}{}{Tack.}
 {203}{}{Tack!}
-{204}{}{No thank you.}
+{204}{}{Nej, tack.}
 {205}{}{Nej tack.}
 {206}{}{Visst.}
 {207}{}{Ja.}

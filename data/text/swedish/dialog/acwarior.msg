@@ -47,7 +47,7 @@
 {970}{}{That is my name.}
 {971}{}{You are talking to me.}
 {972}{}{What a silly question. That's me.}
-{980}{}{I don't know anything about that.}
+{980}{}{Jag vet ingenting om det.}
 {981}{}{Sorry. No clue.}
 {982}{}{Never heard of it.}
 {1000}{}{Äldste}

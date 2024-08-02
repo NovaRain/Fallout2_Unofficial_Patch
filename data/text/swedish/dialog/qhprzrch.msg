@@ -219,7 +219,7 @@
 {318}{}{Ouch}
 {319}{}{(cry of pain)}
 {320}{}{Why are you talking to me like that?}
-{321}{}{I don't know anything about that.}
+{321}{}{Jag vet ingenting om det.}
 {322}{}{You're not very nice.}
 {323}{}{Thank-you. }
 {324}{}{This is good.}
