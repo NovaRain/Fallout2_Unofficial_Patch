@@ -65,7 +65,7 @@
  watching you,' it said, 'and I know that you are a healer. Are you dedicated to your art enough to heal
  someone foreign to you? Someone whom many would consider an enemy?'}
 {153}{}{Ugh.}
-{154}{}{Thanks. Me be leave now.}
+{154}{}{Tack. Jag gå nu.}
 {155}{}{What a waste to be here when you could be helping others.}
 {156}{}{You are truly a dedicated man who deserves recognition.}
 {157}{}{Intressant.}

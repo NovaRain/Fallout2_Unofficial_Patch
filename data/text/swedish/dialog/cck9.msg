@@ -1,19 +1,19 @@
-{100}{}{You see a cyberdog.}
-{101}{}{You see K-9.}
-{102}{}{You see a cyberdog. It is part machine and part dog.}
-{103}{}{The life functions of my master have terminated. Are you my new master?}
-{104}{}{Uh... doggie talk?}
-{105}{}{Okay. Me like doggie.}
-{106}{}{No. Not want doggie.}
-{107}{}{Ha! A talking dog.}
-{108}{}{One; I am a dog. Two; I am communicating with you vocally using the common
- English language. Therefore it is safe to assume that the answer to your question
- is 'yes, doggie talk.' Now, do you intend to answer the question that I posed to
- you a moment ago?}
-{109}{}{One; I am a dog. Two; I am communicating with you vocally using the common
- English language. Therefore it is safe to assume that I am a talking dog. Now, do
- you intend to answer the question that I posed to you a moment ago?}
-{110}{}{Sorry, me forget question.}
+{100}{}{Du ser en cyberhund.}
+{101}{}{Du ser K-9.}
+{102}{}{Du ser en cyberhund. Den är delvis maskin och delvis hund.}
+{103}{}{Min herres livsfunktioner har upphört. Är du min nya mästare?}
+{104}{}{Eh... vovve prata?}
+{105}{}{Okej. Jag gilla vovve.}
+{106}{}{Nej. Jag inte vill ha vovve.}
+{107}{}{Ha! En talande hund.}
+{108}{}{Ett; jag är en hund. Två; Jag kommunicerar med dig vokalt med hjälp av det vanliga
+ svenska språket. Därför är det säkert att anta att svaret på din fråga
+ är 'ja, vovve prata.' Nu, tänker du svara på den fråga som jag ställde till
+ dig för en stund sedan?}
+{109}{}{Ett; jag är en hund. Två; Jag kommunicerar med dig vokalt med hjälp av det vanliga
+ svenska språket. Därför är det säkert att anta att jag är en talande hund. Nu,
+ tänker du svara på frågan som jag ställde till dig för en stund sedan?}
+{110}{}{Förlåt, glömde fråga.}
 {111}{}{Ja.}
 {112}{}{Nej.}
 {113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
@@ -23,8 +23,8 @@
  feet I would think that you are trying to irritate me. Now, be silent. Pay
  attention. Concentrate. Look me in the eyes. I am about to ask you a question.}
 {117}{}{So go ahead. Who stopping you?}
-{118}{}{The life functions of my master have terminated. Are you my new master?}
-{119}{}{Uh... doggie talk?}
+{118}{}{Min herres livsfunktioner har upphört. Är du min nya mästare?}
+{119}{}{Eh... vovve prata?}
 {120}{}{Yes. Me want doggie.}
 {121}{}{Nej tack.}
 {122}{}{Sounds good.}
@@ -34,7 +34,7 @@
  anterior region commonly referred to as the...}
 {125}{}{Ass. Me know what ass is. Me not dummy. Me just joke with you.}
 {126}{}{Oh, a joke. Hardy har har har. Now, are you my new master or not?}
-{127}{}{Okay. Me like doggie.}
+{127}{}{Okej. Jag gilla vovve.}
 {128}{}{No. No want doggie.}
 {129}{}{Excellent. I am in need of repairs, master. My motivation unit has
  been removed. Find it, replace it, and I will join you.}
