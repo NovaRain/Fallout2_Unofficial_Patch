@@ -1,2 +1,2 @@
-1:You're dead.
+1:Du är död.
 2:Igen.

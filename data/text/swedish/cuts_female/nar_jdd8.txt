@@ -1,3 +1,3 @@
-1:You're dead.
-2:Maybe you should start the game over with a different character.
-3:Your point allocation sucks.
+1:Du är död.
+2:Du kanske ska börja om spelet med en annan karaktär.
+3:Din poängfördelning suger.

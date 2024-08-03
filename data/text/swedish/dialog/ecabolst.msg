@@ -33,7 +33,7 @@
 {324}{}{Kill? I'll help you kill them.}
 {330}{}{Really? That's great. Well, I have to head out and look for more
  slaves to free.}
-{331}{}{Good luck.}
+{331}{}{Lycka till.}
 {335}{}{No, sometimes you need to kill a few people to save many. Sacrifices
  of the land. Besides, they're slavers; it's not like they are real people.}
 {336}{}{Yeah, you're right. Well, I've gotta go.}

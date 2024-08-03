@@ -17,7 +17,7 @@
 {116}{}{Yeah, well, I need some information instead of your bellyaching.}
 {117}{}{::he gasps for air:: Fuck you.}
 {118}{}{::he gasps for air:: Piss off.}
-{119}{}{Yeah, whatever.}
+{119}{}{Ja, ja, sak samma.}
 {120}{}{Hey, I changed my mind. I want to help.}
 {121}{}{Yeah, I sold it. I was drunk! Plus, I think Lao Chou slipped some Jet in my drink. I need my spleen back because I'm getting infections now.}
 {122}{}{Hey, you lost it. It's your problem. You deal with it.}
