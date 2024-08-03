@@ -91,7 +91,7 @@ because this is going to cost ::cough:: $200.}
 {179}{}{Threaten the only doctor in town. Good thinking. ::cough:: Friend, if you want something, you
  can ask politely. Otherwise, get the hell out of my hospital.}
 {180}{}{Bite me, old man. Get ready to die.}
-{181}{}{Yeah. Whatever.}
+{181}{}{Ja, ja. Sak samma.}
 {182}{}{Sorry. Bad day.}
 {183}{}{I was just kidding around.}
 {184}{}{Stripling, you have a lot to learn about respect.}

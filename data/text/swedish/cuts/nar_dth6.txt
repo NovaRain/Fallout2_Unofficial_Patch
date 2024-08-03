@@ -1,2 +1,2 @@
-1:You have died.
-2:You shall never know what happened to your kidnapped village.
+1:Du har dött.
+2:Du kommer aldrig att få veta vad som hände med din kidnappade by.

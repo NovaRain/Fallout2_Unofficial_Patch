@@ -1,2 +1,2 @@
-1:The wasteland has claimed your life.
+1:Ödemarken har tagit ditt liv.
 2:Arroyo attempts to send out others to search for the GECK, but they die quickly, and the village soon follows.

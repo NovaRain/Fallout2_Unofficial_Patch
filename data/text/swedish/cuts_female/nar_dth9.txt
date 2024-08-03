@@ -1,2 +1,2 @@
-1:You fought valiantly, but to no avail.
+1:Du kämpade tappert, men utan resultat.
 2:The Enclave triumphs, and soon the entire world dies.

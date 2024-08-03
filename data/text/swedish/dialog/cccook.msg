@@ -27,7 +27,7 @@
 {127}{}{What about maintenance?}
 {128}{}{What about med lab?}
 {129}{}{What about grunts?}
-{130}{}{Anything else?}
+{130}{}{Nåt annat?}
 {131}{}{Me hear enough.}
 {132}{}{What's going on in maintenance?}
 {133}{}{What can you tell me about med lab?}

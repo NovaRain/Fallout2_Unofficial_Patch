@@ -14,7 +14,7 @@
 {113}{}{Great. Have a look.}
 {114}{}{}
 {115}{}{Ok.}
-{116}{}{Anything else?}
+{116}{}{Nåt annat?}
 {117}{}{Ja.}
 {118}{}{Nej.}
 {119}{}{Well, you have a great day then.}

@@ -1,2 +1,2 @@
-1:You have died.
-2:Your village is lost, doomed to die of starvation.
+1:Du har dött.
+2:Din by är förlorad, dömd att dö av svält.

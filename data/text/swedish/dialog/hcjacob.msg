@@ -135,7 +135,7 @@
 {288}{}{Ready to try that distraction again?}
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
-{291}{}{Anything else?}
+{291}{}{Nåt annat?}
 {292}{}{Ja.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}
