@@ -1,8 +1,8 @@
-{100}{}{You see a wooden door.}
-{101}{}{You see a metal door.}
-{102}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe, which
- you may be able to pry open.}
+{100}{}{Du ser en trädörr.}
+{101}{}{Du ser en metalldörr.}
+{102}{}{Du ser en robust dörr med ett lås (som kan dyrkas upp med
+ dyrkar) och en högexplosiv fälla i dörrkarmen, som
+ du kanske kan bända upp.}
 {103}{}{You see a sturdy door with a lock on it and a highly
  explosive trap in the doorframe, which you may be able to
  pry open.}
