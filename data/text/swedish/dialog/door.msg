@@ -26,27 +26,27 @@
  bända upp.}
 {111}{}{Du ser en robust dörr med ett lås på och en avklippt sladd
  i dörrkarmen, som du kanske kan bända upp.}
-{112}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe, which you may be able to pry
- open.}
-{113}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe, which you may be able to pry open.}
-{114}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{115}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{116}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
-{117}{}{You see a sturdy door with an old, rusty lock, which
- you may be able to pry open.}
-{118}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe.}
-{119}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe.}
-{120}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{121}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{112}{}{Du ser en robust dörr utan någon uppenbar låsanordning och
+ en avklippt sladd i dörrkarmen, som du kanske kan bända
+ upp.}
+{113}{}{Du ser en robust dörr med ett gammalt, rostigt lås och en avklippt
+ sladd i dörrkarmen, som du kanske kan bända upp.}
+{114}{}{Du ser en robust dörr med ett lås (som kan dyrkas upp med
+ dyrkar), som du kanske kan bända upp.}
+{115}{}{Du ser en robust dörr med ett lås på, som du kanske kan
+ bända upp.}
+{116}{}{Du ser en robust dörr utan synbar låsanordning,
+ som du kanske kan bända upp.}
+{117}{}{Du ser en robust dörr med ett gammalt rostigt lås som
+ du kanske kan bända upp.}
+{118}{}{Du ser en robust dörr med ett lås (som kan dyrkas upp med
+ dyrkar) och en högexplosiv fälla i dörrkarmen.}
+{119}{}{Du ser en robust dörr med ett lås på och en högexplosiv
+ fälla i dörrkarmen.}
+{120}{}{Du ser en robust dörr utan någon uppenbar låsanordning och
+ en högexplosiv fälla i dörrkarmen.}
+{121}{}{Du ser en robust dörr med ett gammalt rostigt lås och en högexplosiv
+ fälla i dörrkarmen.}
 {122}{}{You see a sturdy door with a lock (which can be picked with
  lockpicks) and a trap in the doorframe.}
 {123}{}{You see a sturdy door with a lock on it and a trap in
@@ -66,8 +66,8 @@
 {130}{}{You see a sturdy door with a lock (which can be picked with
  lockpicks) on it.}
 {131}{}{You see a sturdy door with a lock on it.}
-{132}{}{You see a sturdy door with no apparent locking device.}
-{133}{}{You see a sturdy door with an old, rusty lock.}
+{132}{}{Du ser en robust dörr utan någon uppenbar låsanordning.}
+{133}{}{Du ser en robust dörr med ett gammalt, rostigt lås.}
 {134}{}{You see a damaged door with a lock (which can be picked with
  lockpicks) and a highly explosive trap in the doorframe.}
 {135}{}{You see a damaged door with a lock on it and a highly
@@ -96,7 +96,7 @@
  lockpicks).}
 {147}{}{You see a damaged door with a lock on it.}
 {148}{}{You see a damaged door with no apparent locking device.}
-{149}{}{You see a damaged door with an old, rusty lock.}
+{149}{}{Du ser en skadad dörr med ett gammalt, rostigt lås.}
 {150}{}{You see an old door with a lock (which can be picked with
  lockpicks) and a highly explosive trap in the doorframe.}
 {151}{}{You see an old door with a lock on it and a highly
@@ -177,24 +177,24 @@
 {209}{}{You fail to properly set the trap in the door frame.}
 {210}{}{ skillfully sets a trap in the door frame.}
 {211}{}{ fails to properly set the trap in the door frame.}
-{300}{}{You unlock the door.}
-{301}{}{You lock the door.}
-{302}{}{You are unable to lock this door while it is open.}
-{303}{}{That key does not fit in this lock.}
-{320}{}{There's no way to lock this door.}
-{330}{}{This door is jammed open.}
-{400}{}{You unlock the door.}
-{414}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{415}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{416}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
-{417}{}{You see a sturdy door which you may be able to pry open.}
-{500}{}{This door is too heavy to pry open.}
-{501}{}{Looks like you need to get the generator working first.}
-{502}{}{You see: Elevator door.}
-{503}{}{Looks like you need an electric device to open this lock.}
+{300}{}{Du låser upp dörren.}
+{301}{}{Du låser dörren.}
+{302}{}{Du kan inte låsa den här dörren medan den är öppen.}
+{303}{}{Den nyckeln passar inte i det här låset.}
+{320}{}{Det finns inget sätt att låsa den här dörren.}
+{330}{}{Denna dörr har fastnat öppen.}
+{400}{}{Du låser upp dörren.}
+{414}{}{Du ser en robust dörr med ett lås (som kan dyrkas upp med
+ dyrkar), som du kanske kan bända upp.}
+{415}{}{Du ser en robust dörr med ett lås på, som du kanske kan
+ bända upp.}
+{416}{}{Du ser en robust dörr utan synbar låsanordning,
+ som du kanske kan bända upp.}
+{417}{}{Du ser en robust dörr som du kanske kan bända upp.}
+{500}{}{Den här dörren är för tung för att bända upp.}
+{501}{}{Det verkar som om du måste få igång generatorn först.}
+{502}{}{Du ser: Hissdörr.}
+{503}{}{Det verkar som om du behöver ett elektrisk verktyg för att öppna det här låset.}
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 {611}{}{ fails spectacularly, and the explosive goes off prematurely.}
