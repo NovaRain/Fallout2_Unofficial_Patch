@@ -19,7 +19,7 @@
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}
-{120}{}{Thanks. Bye.}
+{120}{}{Tack. Hej då.}
 {121}{}{I show these guys how to move their data and I answer stupid questions all day long.}
 {122}{}{Would you be able to hack into the Shi database?}
 {123}{}{What sort of stupid questions?}

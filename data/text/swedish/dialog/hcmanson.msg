@@ -53,7 +53,7 @@
 {142}{}{Franc's just a virulent scumbag. He won't get you anywhere.}
 {143}{}{Yeah, I've met him. He's a good guy.}
 {144}{}{Haven't met the guy. No opinion on him.}
-{145}{}{Thanks. Bye.}
+{145}{}{Tack. Hej då.}
 {146}{}{What else you want?}
 {147}{}{Vem är du?}
 {148}{}{Why are you in jail?}

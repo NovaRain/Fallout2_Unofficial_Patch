@@ -47,7 +47,7 @@
 {189}{}{Vault 13? There's a Vault City east of here. I trade there,
  sometimes.}
 {190}{}{Want to go there with me?}
-{191}{}{Thanks. Bye.}
+{191}{}{Tack. Hej då.}
 {192}{}{Sure, I'll join up with you! This old fart has one big adventure left
  in him. I'm sure of it! I'm pretty good at repairing things too, despite what
  Metzger says.}

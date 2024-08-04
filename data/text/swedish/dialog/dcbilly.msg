@@ -16,7 +16,7 @@
 {164}{}{Nej.}
 {165}{}{Alright! Now come with Billy, sweetie.}
 {166}{}{Now go away.}
-{167}{}{Thanks. Bye.}
+{167}{}{Tack. Hej då.}
 {168}{}{Hej då.}
 {169}{}{Aw, shucks.}
 {170}{}{[KLAR]}

@@ -12,7 +12,7 @@
 {111}{}{Aagh!}
 {112}{}{I am Dr. Wong. I am the head scientist of this installation.}
 {113}{}{More questions, please.}
-{114}{}{Thanks. Bye.}
+{114}{}{Tack. Hej då.}
 {115}{}{I oversee the scientific experiments we create and run here. I also am in charge of the computer network.}
 {116}{}{What are you planning?}
 {117}{}{How does one get access to the computer network?}
@@ -20,7 +20,7 @@
 {119}{}{I see. Bye.}
 {120}{}{Ah, but if I tell you our plans, then everyone will know. I'm afraid they are secret plans, for now.}
 {121}{}{Fine, fine. I have other questions.}
-{122}{}{Thanks. Bye.}
+{122}{}{Tack. Hej då.}
 {123}{}{How about if I stick a gun under your nose and force you to tell me?}
 {124}{}{Why, one learns how to hack into it, or how to make friends with one of my underlings. I'm joking, of course, about hacking into it - if you were to do that, I'd send someone after you to kill you. [He smiles to show he means no offense.]}
 {125}{}{Would you really kill me?}

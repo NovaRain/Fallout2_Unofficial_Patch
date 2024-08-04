@@ -18,7 +18,7 @@
 {116}{}{Where vertibird plans?}
 {118}{}{Where main base at?}
 {119}{}{Me need get back on duty. Thanks.}
-{120}{}{What's going on around here?}
+{120}{}{Vad är på gång häromkring?}
 {121}{}{I'm interested in the vertibirds. If I wanted to look at the plans, where could I find them?}
 {123}{}{Where's the Enclave main base located?}
 {124}{}{Thanks. I need to get back to my duty post.}

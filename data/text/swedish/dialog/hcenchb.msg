@@ -11,10 +11,10 @@
 {109}{}{::sniff::}
 {110}{}{I'm Max. I'm one of the caravan guards.}
 {111}{}{What can you tell me about Chad?}
-{112}{}{Thanks. Bye.}
+{112}{}{Tack. Hej då.}
 {113}{}{I don't like him much. He seems to get always some extra money from his caravan jobs. It's really unfair.}
 {114}{}{Well, Marcus suspects that he is skimming some of the money that supposed to go Broken Hills.}
-{115}{}{Thanks. Bye.}
+{115}{}{Tack. Hej då.}
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
 {117}{}{Hej då.}
 {118}{}{It's the enemy! Die!}

@@ -53,7 +53,7 @@
 {143}{}{Tell about vault.}
 {144}{}{Tell about Darion.}
 {145}{}{Thanks. We talk you problem?}
-{146}{}{What's going on around here?}
+{146}{}{Vad är på gång häromkring?}
 {147}{}{Who's in charge around here?}
 {148}{}{I'm looking for Vault 13. Do you know anything about it?}
 {149}{}{Tell me about the vault.}
