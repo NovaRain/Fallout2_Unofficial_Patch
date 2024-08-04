@@ -70,7 +70,7 @@
 {168}{}{Näe.}
 {169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
-{171}{}{Nepp.}
+{171}{}{Näpp.}
 {172}{}{Well, hurry it up! I'm an old, old ghoul, and I tell you, I gotta have relaxation! Now go, go, go!}
 {173}{}{[KLAR]}
 {174}{}{Kid, that magazine stirred up the ol' juices, and I figure that for the sort of treasure I'm talkin', you can hunt me down a few more things. Go git me a blow-up doll. You can probably find one in New Reno.}

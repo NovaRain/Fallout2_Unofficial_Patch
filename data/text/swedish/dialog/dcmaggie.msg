@@ -47,7 +47,7 @@
 {194}{}{Here's the drink. Anything else?}
 {195}{}{Fråga?}
 {196}{}{Yeha, how about you and I...}
-{197}{}{Nepp.}
+{197}{}{Näpp.}
 {198}{}{Hey, you don't enough cash for this drink. You're poorer than even these sops!}
 {199}{}{Förlåt.}
 {200}{}{Hmm, I'll come back.}

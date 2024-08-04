@@ -63,7 +63,7 @@
 {162}{}{Ska ske.}
 {163}{}{Glöm det.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Nepp.}
+{165}{}{Näpp.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}
