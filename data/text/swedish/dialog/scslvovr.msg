@@ -5,7 +5,7 @@
 {104}{}{NCR meddling do-gooder! I got a cure for you.}
 {105}{}{Vortis, we've got an intruder!}
 {106}{}{Guards! Alert!}
-{107}{}{What do you want?}
+{107}{}{Vad vill du?}
 {108}{}{Kurg?}
 {109}{}{Vad är det här för ställe?}
 {110}{}{The Rangers sent me.}

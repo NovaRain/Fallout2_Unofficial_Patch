@@ -315,7 +315,7 @@
 {625}{}{Fortune's against me.}
 {626}{}{Glad att de satte den där snubben på sträckbänken...}
 {627}{}{Smutsiga skitstövel...}
-{628}{}{What do you want?}
+{628}{}{Vad vill du?}
 {629}{}{Bad luck, ill wind, not good times, not good times...}
 {630}{}{Reno's a-heating up, time ta move on.}
 {631}{}{That Bishop daughter is out of control.}
@@ -355,7 +355,7 @@
 {676}{}{Fortune's against me.}
 {677}{}{Glad att de satte den där snubben på sträckbänken...}
 {678}{}{Smutsiga skitstövel...}
-{679}{}{What do you want?}
+{679}{}{Vad vill du?}
 {680}{}{Bad luck, ill wind, not good times, not good times...}
 {681}{}{Reno's a-heating up, time ta move on.}
 {682}{}{That Bishop daughter is out of control.}
@@ -399,7 +399,7 @@
 {722}{}{Fortune's against me.}
 {723}{}{Glad att de satte den där snubben på sträckbänken...}
 {724}{}{Smutsiga skitstövel...}
-{725}{}{What do you want?}
+{725}{}{Vad vill du?}
 {726}{}{Bad luck, ill wind, not good times, not good times...}
 {727}{}{Reno's a-heating up, time ta move on.}
 {728}{}{That Bishop daughter is out of control.}

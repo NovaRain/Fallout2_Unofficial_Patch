@@ -5,7 +5,7 @@
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
 {106}{}{How can I help you?}
-{107}{}{What do you want?}
+{107}{}{Vad vill du?}
 {108}{}{Da... oooh...}
 {109}{}{Vem är du?}
 {110}{}{What do you do here?}

@@ -15,17 +15,17 @@
 {106}{}{Du ser en robust dörr med ett lås (som kan öppnas 
  med dyrkar) och en fälla i dörrkarmen, som du kanske kan
  bända upp.}
-{107}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe, which you may be able to pry open.}
-{108}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe, which you may be able to pry open.}
-{109}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe, which you may be able to pry open.}
+{107}{}{Du ser en robust dörr med ett lås på och en fälla i
+ dörrkarmen, som du kanske kan bända upp.}
+{108}{}{Du ser en robust dörr utan någon uppenbar låsanordning och
+ en fälla i dörrkarmen, som du kanske kan bända upp.}
+{109}{}{Du ser en robust dörr med ett gammalt, rostigt lås och en fälla
+ i dörrkarmen, som du kanske kan bända upp.}
 {110}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe, which you may be
  able to pry open.}
-{111}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe, which you may be able to pry open.}
+{111}{}{Du ser en robust dörr med ett lås på och en avklippt sladd
+ i dörrkarmen, som du kanske kan bända upp.}
 {112}{}{You see a sturdy door with no apparent locking device and
  a severed wire in the doorframe, which you may be able to pry
  open.}

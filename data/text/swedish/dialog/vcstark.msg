@@ -30,7 +30,7 @@
 {129}{}{All right, I'm going.}
 {130}{}{Captain. Can I help you... sir?}
 {131}{}{Can I help you, Citizen?}
-{132}{}{What do you want?}
+{132}{}{Vad vill du?}
 {133}{}{Yah!}
 {134}{}{Shamble off}
 {135}{}{Vem är du?}
