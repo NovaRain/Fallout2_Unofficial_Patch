@@ -88,71 +88,71 @@
  lockpicks, and a cut wire in the doorframe.}
 {143}{}{Du ser en skadad dörr med ett lås på och en avklippt sladd
  i dörrkarmen.}
-{144}{}{You see a damaged door with no apparent locking device and
- a severed wire in the doorframe.}
-{145}{}{You see a damaged door with an old, rusty lock and a cut
- wire in the doorframe.}
+{144}{}{Du ser en skadad dörr utan någon uppenbar låsanordning och
+ en avklippt sladd i dörrkarmen.}
+{145}{}{Du ser en skadad dörr med ett gammalt, rostigt lås och en avklippt
+ sladd i dörrkarmen.}
 {146}{}{You see a damaged door with a lock, which can be picked with
  lockpicks.}
-{147}{}{You see a damaged door with a lock on it.}
-{148}{}{You see a damaged door with no apparent locking device.}
+{147}{}{Du ser en skadad dörr med ett lås på.}
+{148}{}{Du ser en skadad dörr utan synbar låsanordning.}
 {149}{}{Du ser en skadad dörr med ett gammalt, rostigt lås.}
 {150}{}{You see an old door with a lock, which can be picked with
  lockpicks, and a highly explosive trap in the doorframe.}
-{151}{}{You see an old door with a lock on it and a highly
- explosive trap in the doorframe.}
-{152}{}{You see an old door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{153}{}{You see an old door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{151}{}{Du ser en gammal dörr med ett lås på och en högexplosiv
+ fälla i dörrkarmen.}
+{152}{}{Du ser en gammal dörr utan någon uppenbar låsanordning och
+ en högexplosiv fälla i dörrkarmen.}
+{153}{}{Du ser en gammal dörr med ett gammalt rostigt lås och en högexplosiv
+ fälla i dörrkarmen.}
 {154}{}{You see an old door with a lock, which can be picked with
  lockpicks, and a trap in the doorframe.}
-{155}{}{You see an old door with a lock on it and a trap in
- the doorframe.}
-{156}{}{You see an old door with no apparent locking device and
- a trap in the doorframe.}
-{157}{}{You see an old door with an old, rusty lock and a trap
- in the doorframe.}
+{155}{}{Du ser en gammal dörr med ett lås på och en fälla i.
+ dörrkarmen.}
+{156}{}{Du ser en gammal dörr utan någon uppenbar låsanordning och
+ en fälla i dörrkarmen.}
+{157}{}{Du ser en gammal dörr med ett gammalt, rostigt lås och en fälla
+ i dörrkarmen.}
 {158}{}{You see an old door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe.}
-{159}{}{You see an old door with a lock on it and a severed wire
- in the doorframe.}
-{160}{}{You see an old door with no apparent locking device and
- a severed wire in the doorframe.}
-{161}{}{You see an old door with an old, rusty lock and a cut
- wire in the doorframe.}
+{159}{}{Du ser en gammal dörr med ett lås på och en avklippt sladd
+ i dörrkarmen.}
+{160}{}{Du ser en gammal dörr utan någon uppenbar låsanordning och
+ en avklippt sladd i dörrkarmen.}
+{161}{}{Du ser en gammal dörr med ett gammalt, rostigt lås och en avklippt
+ sladd i dörrkarmen.}
 {162}{}{You see an old door with a lock, which can be picked with
  lockpicks,.}
-{163}{}{You see an old door with a lock on it.}
-{164}{}{You see an old door with no apparent locking device.}
-{165}{}{You see an old door with an old, rusty lock.}
+{163}{}{Du ser en gammal dörr med ett lås på.}
+{164}{}{Du ser en gammal dörr utan någon uppenbar låsanordning.}
+{165}{}{Du ser en gammal dörr med ett gammalt, rostigt lås.}
 {166}{}{You set off the trap and were hit for }
-{167}{}{ points of damage.}
+{167}{}{ skadepoäng.}
 {168}{}{ sets off the trap and was hit for }
-{169}{}{ points of damage.}
-{170}{}{You deftly pick the lock on the door.}
+{169}{}{ skadepoäng.}
+{170}{}{Du dyrkar skickligt upp låset på dörren.}
 {171}{}{Your lack of skill has jammed the lock on this door.}
-{172}{}{You fail to pick the lock on this door.}
-{173}{}{ deftly picks the lock on the door.}
+{172}{}{Du lyckas inte dyrka upp låset på den här dörren.}
+{173}{}{ dyrkar skickligt upp låset på dörren.}
 {174}{}{'s lack of skill has jammed the lock on this door.}
-{175}{}{ failed to pick the lock on this door.}
-{176}{}{You bust the lock off the door.}
+{175}{}{ misslyckades med att dyrka upp låset på den här dörren.}
+{176}{}{Du slår bort låset från dörren.}
 {177}{}{While trying to bust the lock, you strain your back and
  take a point of damage.}
 {178}{}{While trying to bust the lock, you strain your back and
  take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
-{181}{}{ busts the lock off the door.}
+{179}{}{ skadepoäng.}
+{180}{}{Du är för svag för att bryta upp låset.}
+{181}{}{ slår bort låset från dörren.}
 {182}{}{ strains his back while trying to bust the lock and takes
  a point of damage.}
 {183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
-{185}{}{ is too weak to bust the lock.}
+{184}{}{ skadepoäng.}
+{185}{}{ är för svag för att bryta upp låset.}
 {186}{}{ strains her back while trying to bust the lock and takes
  a point of damage.}
 {187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
+{188}{}{ skadepoäng.}
 {189}{}{You deftly lock the door.}
 {190}{}{You fail to lock the door.}
 {191}{}{ deftly locks the door.}

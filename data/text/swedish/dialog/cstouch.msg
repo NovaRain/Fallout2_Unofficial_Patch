@@ -127,9 +127,9 @@
 {164}{}{You see an old container with no apparent locking device.}
 {165}{}{You see an old container with an old, rusty lock.}
 {166}{}{You set off the trap and were hit for }
-{167}{}{ points of damage.}
+{167}{}{ skadepoäng.}
 {168}{}{ sets off the trap and was hit for }
-{169}{}{ points of damage.}
+{169}{}{ skadepoäng.}
 {170}{}{You deftly pick the lock on the container.}
 {171}{}{Your lack of skill has jammed the lock on this container.}
 {172}{}{You fail to pick the lock on this container.}
@@ -141,18 +141,18 @@
  take a point of damage.}
 {178}{}{You strain your back while trying to bust the lock and
  take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
+{179}{}{ skadepoäng.}
+{180}{}{Du är för svag för att bryta upp låset.}
 {181}{}{ busts the lock off the container.}
 {182}{}{ strains his back while trying to bust the lock and takes
  a point of damage.}
 {183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
-{185}{}{ is too weak to bust the lock.}
+{184}{}{ skadepoäng.}
+{185}{}{ är för svag för att bryta upp låset.}
 {186}{}{ strains her back while trying to bust the lock and takes
  a point of damage.}
 {187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
+{188}{}{ skadepoäng.}
 {189}{}{You deftly lock the container.}
 {190}{}{You fail to lock the container.}
 {191}{}{ deftly locks the container.}
