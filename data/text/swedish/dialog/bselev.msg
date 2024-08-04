@@ -49,45 +49,45 @@
  fälla i dörrkarmen.}
 {122}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a trap in the doorframe.}
-{123}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe.}
-{124}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe.}
-{125}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe.}
+{123}{}{Du ser en robust dörr med ett lås på och en fälla i
+ dörrkarmen.}
+{124}{}{Du ser en robust dörr utan någon uppenbar låsanordning och
+ en fälla i dörrkarmen.}
+{125}{}{Du ser en robust dörr med ett gammalt, rostigt lås och en fälla
+ i dörrkarmen.}
 {126}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe.}
-{127}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe.}
-{128}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe.}
-{129}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe.}
+{127}{}{Du ser en robust dörr med ett lås på och en avklippt sladd
+ i dörrkarmen.}
+{128}{}{Du ser en robust dörr utan någon uppenbar låsanordning och
+ en avklippt sladd i dörrkarmen.}
+{129}{}{Du ser en robust dörr med ett gammalt, rostigt lås och en avklippt
+ sladd i dörrkarmen.}
 {130}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, on it.}
-{131}{}{You see a sturdy door with a lock on it.}
+{131}{}{Du ser en robust dörr med ett lås på.}
 {132}{}{Du ser en robust dörr utan någon uppenbar låsanordning.}
 {133}{}{Du ser en robust dörr med ett gammalt, rostigt lås.}
 {134}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a highly explosive trap in the doorframe.}
-{135}{}{You see a damaged door with a lock on it and a highly
- explosive trap in the doorframe.}
-{136}{}{You see a damaged door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{137}{}{You see a damaged door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{135}{}{Du ser en skadad dörr med ett lås på och en högexplosiv
+ fälla i dörrkarmen.}
+{136}{}{Du ser en skadad dörr utan någon uppenbar låsanordning och
+ en högexplosiv fälla i dörrkarmen.}
+{137}{}{Du ser en robust dörr med ett gammalt rostigt lås och en högexplosiv
+ fälla i dörrkarmen.}
 {138}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a trap in the doorframe.}
-{139}{}{You see a damaged door with a lock on it and a trap in
- the doorframe.}
-{140}{}{You see a damaged door with no apparent locking device and
- a trap in the doorframe.}
-{141}{}{You see a damaged door with an old, rusty lock and a trap
- in the doorframe.}
+{139}{}{Du ser en skadad dörr med ett lås på och en fälla i
+ dörrkarmen.}
+{140}{}{Du ser en skadad dörr utan någon uppenbar låsanordning och
+ en fälla i dörrkarmen.}
+{141}{}{Du ser en skadad dörr med ett gammalt, rostigt lås och en fälla
+ i dörrkarmen.}
 {142}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe.}
-{143}{}{You see a damaged door with a lock on it and a severed wire
- in the doorframe.}
+{143}{}{Du ser en skadad dörr med ett lås på och en avklippt sladd
+ i dörrkarmen.}
 {144}{}{You see a damaged door with no apparent locking device and
  a severed wire in the doorframe.}
 {145}{}{You see a damaged door with an old, rusty lock and a cut
