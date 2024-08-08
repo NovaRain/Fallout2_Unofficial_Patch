@@ -166,7 +166,7 @@ end
 
 procedure critter_p_proc begin
    if (self_visible) then begin
-      if (self_tile == 30302) then begin //edit by killap - was map_exit_tile
+      if (self_tile == map_next_tile) then begin
          destroy_object(self_obj);
       end else if (karl_nuts) then begin
          anim_run_to_point_rate(map_next_tile, 4)

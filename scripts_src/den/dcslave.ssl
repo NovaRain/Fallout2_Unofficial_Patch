@@ -98,8 +98,8 @@ procedure timed_event_p_proc begin
                   self_walk_to_tile(global_temp);
                end
             end else begin
-               if (tile_distance(self_tile,30302) > 3)  then begin //edit by killap - was map_next_tile
-                  anim_run_to_point_rate(30302, 5)
+               if (tile_distance(self_tile, map_next_tile) > 3)  then begin
+                  anim_run_to_point_rate(map_next_tile, 5)
                end else begin
                   destroy_object(self_obj);
                end
