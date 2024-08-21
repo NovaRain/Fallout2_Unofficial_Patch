@@ -16,10 +16,10 @@
 {115}{}{Chúng tao sẽ cho mày cạp đất!}
 {116}{}{Enclave sẽ thống trị cả thế giới!}
 {117}{}{Mày phải chết để Enclave tồn tại!}
-{200}{}{...asshole...}
-{201}{}{...yeah, you'd BETTER walk away...}
-{202}{}{...what a brownie hound...}
-{203}{}{...yes, sir! fuckin' sir!...}
+{200}{}{...đồ chết tiệt...}
+{201}{}{...đúng rồi, TỐT HƠN HẾT là mày nên bước đi...}
+{202}{}{...con chó này đen thế...}
+{203}{}{...vâng, thưa ngài! đcm ngài!...}
 {300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
 {301}{}{Nrg?}
 {302}{}{I am aware of this.}

@@ -7,7 +7,7 @@
 {106}{}{Ngộ mới. Ngộ được nói ông biết.}
 {107}{}{Ồ. Xin lỗi, ngộ đi.}
 {108}{}{Tôi có thẻ ra vào... ở ngay đây.}
-{109}{}{Tôi là lính mới nhập ngũ. Tôi được bảo là ông sẽ biết tôi.}
+{109}{}{Tôi là lính mới nhập ngũ. Họ nói ông đang chờ tôi.}
 {110}{}{Ồ, xin lỗi. Tôi sẽ đi chỗ khác vậy.}
 {111}{gate2}{Lề mề quá nhỉ? Này, cứ tiếp tục di chuyển đi và đừng có quay trở lại. Mọi việc sẽ ổn thôi, hiểu chứ?}
 {112}{}{Ngộ muốn vào trong.}
@@ -33,23 +33,23 @@
 {132}{gate8b}{Đứng lại! -- Lại là cậu. Tôi thấy là cậu vẫn đi dẫn đoàn. (đặt tay lên vũ khí) Tôi khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có quay trở lại. Tôi nói thế đã rõ chưa?}
 {133}{}{Đầu cừu.}
 {134}{}{Đúng vậy.}
-{135}{gate9}{Halt! -- Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
-{136}{}{Uh... me not know. Me come back.}
-{137}{}{Screw this. Me walk in over you dead body.}
-{138}{}{Look, I lost my pass...}
-{139}{}{Oh to hell with it. Bite the bullet, asshole!}
-{140}{gate10}{This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
-{141}{}{Ok, me go again...}
-{142}{}{In words of ancients... Fuck you!}
+{135}{gate9}{Đứng lại! -- Lại nữa à? Tốt nhất lần này cậu nên cầm theo thẻ hoặc biết mật khẩu đấy. Nào, tôi đang chờ đây?}
+{136}{}{Ừ... ngộ không biết. Ngộ quay lại.}
+{137}{}{Bỏ đi. Ngộ bước qua xác ông vào.}
+{138}{}{Nghe này, tôi làm mất thẻ rồi...}
+{139}{}{Ôi cái mả mẹ nó. Ăn đạn đi, đồ chết tiệt!}
+{140}{gate10}{Đây là cảnh báo lần cuối đấy. Tôi nhắc là nên cút khỏi khu này ngay lập tức và đừng có trở lại. Thế đã thủng lỗ tai chưa?}
+{141}{}{Ok, ngộ lại đi...}
+{142}{}{Theo ngữ cổ... Đmm!}
 {143}{}{Được rồi, con đi đây.}
-{144}{}{In the words of the ancients... Fuck you!}
-{145}{gate11a}{Halt! -- You again? You were warned. Alarm! Intruder at the gate! }
-{146}{}{Damn!}
-{147}{}{Intruder at the gate!}
-{148}{}{Main entrance under attack!}
-{149}{}{To the gate! Intruder at the gate!}
-{200}{}{...asshole...}
-{201}{}{...yeah, you'd BETTER walk away...}
-{202}{}{...what a brownie hound...}
-{203}{}{...yes, sir! fuckin' sir!...}
-{300}{}{Move along soldier.}
+{144}{}{Nói theo lối ngôn ngữ cổ... Đmm!}
+{145}{gate11a}{Đứng lại! -- Lại là mày à? Tao đã nói rồi. Báo động! Có kẻ đột nhập tại cổng! }
+{146}{}{Mẹ kiếp!}
+{147}{}{Có kẻ đột nhập tại cổng!}
+{148}{}{Cổng chính đang bị tấn công!}
+{149}{}{Đến cổng ngay! Có kẻ đột nhập tại cổng!}
+{200}{}{...đồ chết tiệt...}
+{201}{}{...đúng rồi, TỐT HƠN HẾT là mày nên bước đi...}
+{202}{}{...con chó này đen thế...}
+{203}{}{...vâng, thưa ngài! đcm ngài!...}
+{300}{}{Đi tiếp đi, đồ lính.}
