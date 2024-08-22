@@ -36,14 +36,14 @@ là có một bộ đang bảo trì. Có thể vẫn còn chút vấn đề, nê
 {133}{}{Bộ đàm của ngươi không hỏng. Ta có thể nghe rõ ngươi nói gì. Chỉ cần kí vào giấy và chúng ta
 xong việc.}
 {134}{}{Hở?}
-{135}{}{Được rồi, ta chịu rồi!}
-{136}{}{Ngươi muốn ta làm gì? Ta không phải loại người đó!}
+{135}{}{Được rồi, tôi chịu rồi!}
+{136}{}{Ông muốn tôi làm gì? Tôi không phải loại người đó!}
 {137}{}{Được rồi, tên ngươi là gì?}
 {138}{}{[Tên người chơi]}
 {139}{}{Pisces?}
 {140}{}{Tôi muốn bộ power armor.}
 {141}{}{Cá kiếm.}
-{142}{}{Đúng vậy. Đơn vị?}
+{142}{}{Rồi. Đơn vị?}
 {143}{}{Arroyo.}
 {144}{}{Không hề.}
 {145}{}{Tôi có thứ hay hơn.}
@@ -61,40 +61,40 @@ xong việc.}
 {157}{}{Arroyo.}
 {158}{}{42.}
 {159}{}{Được rồi! Lê đít về chỗ trung sĩ đi. Ta gửi ngươi về đó chịu phạt. Giải tán.}
-{160}{}{The 42nd, eh? Good unit. Okay. Here's your gear. Dismissed, soldier.}
-{161}{}{What are you, deaf? Are you the guy or not?}
+{160}{}{Nhóm 42 à? Đơn vị tốt đó. Được rồi. Đồ đây. Giải tán, cậu lính.}
+{161}{}{Ngươi bị điếc à? Ngươi có phải gã đó hay không nào?}
 {162}{}{Đúng vậy.}
-{163}{}{Like a fish in water.}
-{164}{}{Not.}
-{165}{}{Okay, let's make this quick. Take that off and I'll give you a new suit.}
-{166}{}{You're nothing but static.}
+{163}{}{Như cá gặp nước.}
+{164}{}{Không.}
+{165}{}{Được rồi, làm nhanh nào. Tháo cái đó xuống và ta sẽ cho ngươi bộ giáp mới.}
+{166}{}{Ông chỉ toàn phát ra tiếng rè thôi.}
 {167}{}{Hở?}
 {168}{}{Okay.}
-{169}{}{You're gonna off me? I don't think so!}
-{170}{}{Oh, well never mind.}
-{171}{}{The power armor. Give me the power armor, you moron.}
+{169}{}{Ông định đuổi tôi á? Tôi không nghĩ vậy đâu!}
+{170}{}{Ồ, không có gì.}
+{171}{}{Bộ power armor. Đưa ta bộ power armor, đồ đần.}
 {172}{}{Okay.}
-{173}{}{I already made the deal. I'm not giving you any more.}
-{174}{}{You bet I got something for you, you bastard.}
-{175}{}{Okay, here's the suit. Now get out of here.}
-{176}{}{You moron; you don't have the suit. Get out of here!}
-{177}{}{What the hell are you talking about? Give me the suit.}
-{178}{}{All right, already!}
-{179}{}{Screw this!}
-{180}{}{Right, J. Okay, Unit?}
+{173}{}{Tôi đã giao dịch rồi. Tôi sẽ không đưa cho ông đâu.}
+{174}{}{Tôi có thứ này cho ông đây, đồ chết tiệt.}
+{175}{}{Được rồi, bộ đồ này. Giờ thì cút khỏi đây ngay.}
+{176}{}{Đồ chó chết; ngươi không có bộ đồ. Cút khỏi đây ngay!}
+{177}{}{Ngươi đang nói cái quái gì thế? Đưa ta bộ đồ.}
+{178}{}{Được rồi, đây rồi!}
+{179}{}{Bỏ đi!}
+{180}{}{Rồi, J. Okay, đơn vị?}
 {181}{}{Arroyo.}
 {182}{}{Không hề.}
 {183}{}{Tôi có thứ hay hơn.}
 {184}{}{42.}
-{185}{}{You deaf? Who are you?}
-{186}{}{I'm the new guy?}
-{187}{}{Nope, never heard of 'em.}
-{188}{}{New guy, eh? Suppose you want your issue. Why don't anybody ever tell me these things? What's
- your name?}
-{189}{}{Huh? You ain't nothing but static.}
+{185}{}{Ngươi điếc à? Ngươi là ai?}
+{186}{}{Tôi là người mới?}
+{187}{}{Chưa, chưa nghe đến lần nào.}
+{188}{}{Tân binh à? Chắc là ngươi muốn được cấp quân trang. Sao chẳng đứa đéo nào báo cho ta việc này thế?
+Tên ngươi là gì?}
+{189}{}{Hở? Ông chỉ toàn phát ra tiếng rè thôi.}
 {190}{}{[Tên người chơi]}
-{191}{}{Not if I shoot first!}
-{192}{}{Wait a minute -- you're not one of us! GUARDS!}
-{193}{}{Look soldier, I already gave you your gear, so get on out of here.}
+{191}{}{Không đâu nếu tôi bắn trước!}
+{192}{}{Chờ đã -- mày không phải lính ở đây! LÍNH GÁC ĐÂU!}
+{193}{}{Này đồ lính, ta đã đưa bộ quân trang cho ngươi rồi. Giờ thì cút khỏi đây ngay.}
 {194}{}{Muốn gì?}
 {195}{}{Droog?}
