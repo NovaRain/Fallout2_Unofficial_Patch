@@ -1,11 +1,11 @@
 {100}{}{Bạn thấy một lính gác.}
 {101}{}{Bạn thấy một lính gác mặc power armor.}
 {102}{}{Bạn thấy một người mặc power armor có thiết kế khác lạ. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
-{103}{}{Nothing to report.}
-{104}{}{Nothing going on with me, how 'bout you?}
-{105}{}{Shouldn't you be at your post, soldier? It's not good to wander about here.}
-{106}{}{You're out of uniform.}
-{107}{}{You better report to the Sarge and get suited up.}
+{103}{}{Không có gì mới.}
+{104}{}{Tôi không thấy có gì mới, cậu thì sao?}
+{105}{}{Này cậu lính, sao cậu không về vị trí gác đi? Đừng có đi lang thang ở đây.}
+{106}{}{Cậu đang không mặc quân phục.}
+{107}{}{Tốt hơn hết là đến chỗ Trung sĩ báo cáo rồi đi nhận quân phục đi.}
 {108}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
 {109}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
 {110}{}{Chúng ta đã bị xâm nhập! Báo động!}
@@ -20,26 +20,26 @@
 {201}{}{...đúng rồi, TỐT HƠN HẾT là mày nên bước đi...}
 {202}{}{...con chó này đen thế...}
 {203}{}{...vâng, thưa ngài! đcm ngài!...}
-{300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
+{300}{}{Chờ đã. Cậu đang làm cái quái gì với chiếc máy bay thế? Làm gì có lịch bay nào trong mấy ngày tới.}
 {301}{}{Nrg?}
-{302}{}{I am aware of this.}
-{303}{}{I'm sorry. I was just looking. I'll be going now.}
-{304}{}{There's been a change of plans. I'm taking this aircraft.}
-{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
-{311}{}{(Smile then attack.)}
-{312}{}{(Walk away.)}
-{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat, code Red!}
-{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
-{320}{}{Right. And therefore you are...}
-{321}{}{About to leave. Sorry to bother you.}
-{322}{}{About to deliver an important message to the main base.}
-{323}{}{Oh, really? And what does this message say.}
-{324}{}{It's super top secret. I cannot tell you.}
-{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
- mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
- highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
- as there isn't a moment to spare.}
-{326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
-{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
+{302}{}{Tôi biết.}
+{303}{}{Tôi xin lỗi. Tôi chỉ xem thôi. Đi giờ đây.}
+{304}{}{Kế hoạch đã thay đổi. Tôi sẽ lấy chiếc máy bay này.}
+{310}{}{Cái gì? Ồ, hiểu rồi. Này, đừng có động vào. Được chứ? Động vào lần nữa là chết đấy.}
+{311}{}{(Cười rồi tấn công).}
+{312}{}{(Đi khỏi).}
+{315}{}{Ồ cứt thật, có vẻ như chúng ta bị đột nhập rồi. Mã đỏ! Nhắc lại, mã Đỏ!}
+{316}{}{Nghe hay đấy. Động vào cái máy bay lần nữa và tôi sẽ nhồi chì vào đầu cậu.}
+{320}{}{Rồi. Và cậu là...}
+{321}{}{Chuẩn bị đi đây. Xin lỗi đã làm phiền.}
+{322}{}{Chuẩn bị đi gửi tin quan trọng về căn cứ chính.}
+{323}{}{Ồ thật ư? Và tin này về việc gì thế.}
+{324}{}{Đây là siêu bí mật. Tôi không thể nói được.}
+{325}{}{Tôi sẽ nói cho anh, nhưng phải tuyệt đối bảo đảm không được tiết lộ thông tin này cho bất kì ai khác vì có thể
+sẽ dẫn đến đại hoảng loạn. Biết gì không? Tôi nhận thấy một trong số chuyến hàng nô lệ gần đây đã bị nhiễm một loại 
+virus không xác định và cực kì nguy hiểm. Tôi *phải* đi đến căn cứ ngay, nếu không tất cả chúng ta sẽ tiêu đời. Giờ thì 
+đừng có làm lãng phí thời gian nữa vì không thể chờ được nữa đâu.}
+{326}{}{Được, tôi tin cậu. Có vẻ như chúng ta có kẻ đột nhập...}
+{327}{}{Mẹ nó chứ! À, sao cũng được. Chẳng ai nói cái cứt gì cho tôi cả. Rồi. Đi đi.}
 {328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
 {329}{}{[XONG]}

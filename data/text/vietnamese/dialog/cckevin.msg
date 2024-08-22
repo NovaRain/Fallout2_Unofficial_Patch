@@ -5,7 +5,7 @@
 {200}{}{I can't talk right now. Go see Quincy.}
 {201}{}{Quincy is in charge here. Go see him.}
 {202}{}{I'm just a junior mechanic. You'll want to talk to Quincy.}
-{300}{}{You're out of uniform.}
+{300}{}{Cậu đang không mặc quân phục.}
 {301}{}{You better suit up soldier.}
 {302}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
 {400}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}

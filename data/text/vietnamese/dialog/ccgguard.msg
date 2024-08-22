@@ -38,7 +38,7 @@
 {137}{}{Bỏ đi. Ngộ bước qua xác ông vào.}
 {138}{}{Nghe này, tôi làm mất thẻ rồi...}
 {139}{}{Ôi cái mả mẹ nó. Ăn đạn đi, đồ chết tiệt!}
-{140}{gate10}{Đây là cảnh báo lần cuối đấy. Tôi nhắc là nên cút khỏi khu này ngay lập tức và đừng có trở lại. Thế đã thủng lỗ tai chưa?}
+{140}{gate10}{Cảnh báo lần cuối. Tôi nhắc là cần cút khỏi khu này ngay và đừng có quay trở lại. Nói thế đã thủng lỗ tai chưa?}
 {141}{}{Ok, ngộ lại đi...}
 {142}{}{Theo ngữ cổ... Đmm!}
 {143}{}{Được rồi, con đi đây.}
