@@ -1,20 +1,20 @@
-{100}{}{You see bright, shiny tin man.}
-{101}{}{A soldier in power armor.}
-{102}{}{A soldier in some new type of power armor, you'd guess.}
-{103}{}{Can you believe it? I got KP duty again!}
-{104}{}{Word is the old man's gonna issue leave to SF!}
-{105}{}{To hell with waiting. I say we nuke all these primitives and get things over with.}
-{106}{}{Got a light? Oh wait, never mind. Got one.}
-{107}{}{Craps game behind the hanger tonight. Don't let the CO know.}
-{108}{}{Who the--? <zzzt> We got an intruder here!}
-{109}{}{You there! Halt!}
-{110}{}{Intruder on base!}
-{111}{}{Wait you--oh, never mind. }
-{112}{}{Look, better get your id. These false alarms got everybody jumpy.}
-{113}{}{You're supposed to be here, right? Damn these false alarm's get on my nerves!}
-{114}{}{Intruder's over here! Get 'em!}
-{115}{}{There's the intruder!}
-{116}{}{Over here! Don't let 'em get away!}
-{117}{}{We got an attack on the front. Send backup!}
-{118}{}{Don't let the intruder get to the gate!}
-{119}{}{Die, primitive!}
+{100}{}{Bạn thấy người mặc đồ thép sáng bóng.}
+{101}{}{Một người lính mặc power armor.}
+{102}{}{Một người lính mặc loại power armor mới, chắc vậy.}
+{103}{}{Tin được không? Tôi lại bị điều đi KP lần nữa!}
+{104}{}{Có tin đồn là lão già sẽ ra lệnh điều đi SF!}
+{105}{}{Chờ ăn cặc. Tao nói rồi, cứ trồng nấm hết cả lũ khỉ đi cho xong.}
+{106}{}{Có bật lửa không? Ồ khoan đã, không cần. Có rồi.}
+{107}{}{Tối nghỉ thì đổ xúc xắc chia lại thu nhập nhá. Đừng có để đám Sĩ quan biết đấy.}
+{108}{}{Ai đấy-? <zzz>Có kẻ đột nhập vào đây!}
+{109}{}{Người kia! Đứng lại!}
+{110}{}{Có kẻ đột nhập căn cứ!}
+{111}{}{Chờ đã -- ồ, không có gì. }
+{112}{}{Này, cầm theo thẻ đi. Mấy cái báo động giả này khiến mọi người phát điên lên được.}
+{113}{}{Cậu đúng là người ở đây chứ? Mẹ nó mấy cái báo động giả này khiến tôi phát rồ lên!}
+{114}{}{Kẻ đột nhập ở đây! Bắt lấy!}
+{115}{}{Kẻ đột nhập kia rồi!}
+{116}{}{Ở đây! Đừng để nó chạy thoát!}
+{117}{}{Chúng ta bị tấn công trực diện. Gửi tiếp viện ngay!}
+{118}{}{Đừng để kẻ đột nhập đến được cửa!}
+{119}{}{Chết đi, đồ khỉ!}

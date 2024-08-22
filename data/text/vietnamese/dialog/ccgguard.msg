@@ -20,25 +20,25 @@
 {119}{}{Chết tiệt. Ngộ giết.}
 {120}{}{Tôi xin lỗi, tôi làm mất thẻ và tôi không biết mật khẩu nào cả.}
 {121}{}{Mẹ nhà ông và tất cả những đứa nào giống ông!}
-{122}{gate5}{Tôi khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có trở lại nếu không được phép. Tôi nói thế đã rõ chưa?}
+{122}{gate5}{Tao khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có trở lại nếu không được phép. Tao nói thế đã rõ chưa?}
 {123}{}{Đúng vậy.}
 {124}{gate6a}{Hiểu rồi. Thế mật khẩu là gì?}
-{125}{gate6b}{Hiểu rồi. (đặt tay lên vũ khí) Tất cả lính mới đều phải đến báo cáo một mình. Tôi khuyên là hãy rời khỏi nơi này ngay tức khắc và đừng có kéo đàn kéo lũ trở lại. Tôi nói thế đã rõ ràng chưa?}
+{125}{gate6b}{Hiểu rồi. (đặt tay lên vũ khí) Tất cả lính mới đều phải đến báo cáo một mình. Tao khuyên là hãy rời khỏi nơi này ngay tức khắc và đừng có kéo đàn kéo lũ trở lại. Tao nói thế đã rõ ràng chưa?}
 {126}{}{Đầu cừu.}
 {127}{}{Đúng vậy.}
 {128}{gate7a}{Chờ chút. (dừng) Okay, vào đi. Hãy đến báo cáo cho đội trưởng huấn luyện. Đi vào cửa, qua hàng rào sắt đến chỗ cái cửa đầu tiên bên phải.}
 {129}{gate7b}{(lẩm bẩm) Mẹ kiếp lũ đầu đất càng lúc càng đần.}
 {130}{}{Ok.}
-{131}{gate8a}{Đứng lại! -- Ồ, tôi thấy là cậu đã trở lại một mình. Được rồi, tân binh, mật khẩu là gì?}
-{132}{gate8b}{Đứng lại! -- Lại là cậu. Tôi thấy là cậu vẫn đi dẫn đoàn. (đặt tay lên vũ khí) Tôi khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có quay trở lại. Tôi nói thế đã rõ chưa?}
+{131}{gate8a}{Đứng lại! -- Ồ, tao thấy là mayf đã trở lại một mình. Được rồi, tân binh, mật khẩu là gì?}
+{132}{gate8b}{Đứng lại! -- Lại là mày à. Tao thấy là mày vẫn đi dẫn đoàn. (đặt tay lên vũ khí) Tao khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có quay trở lại. Tao nói thế đã rõ chưa?}
 {133}{}{Đầu cừu.}
 {134}{}{Đúng vậy.}
-{135}{gate9}{Đứng lại! -- Lại nữa à? Tốt nhất lần này cậu nên cầm theo thẻ hoặc biết mật khẩu đấy. Nào, tôi đang chờ đây?}
+{135}{gate9}{Đứng lại! -- Lại nữa à? Tốt nhất lần này mày nên cầm theo thẻ hoặc biết mật khẩu đấy. Nào, tao đang chờ đây?}
 {136}{}{Ừ... ngộ không biết. Ngộ quay lại.}
 {137}{}{Bỏ đi. Ngộ bước qua xác ông vào.}
 {138}{}{Nghe này, tôi làm mất thẻ rồi...}
 {139}{}{Ôi cái mả mẹ nó. Ăn đạn đi, đồ chết tiệt!}
-{140}{gate10}{Cảnh báo lần cuối. Tôi nhắc là cần cút khỏi khu này ngay và đừng có quay trở lại. Nói thế đã thủng lỗ tai chưa?}
+{140}{gate10}{Cảnh báo lần cuối. Tao nhắc là cần cút khỏi khu này ngay và đừng có quay trở lại. Nói thế đã thủng lỗ tai chưa?}
 {141}{}{Ok, ngộ lại đi...}
 {142}{}{Theo ngữ cổ... Đmm!}
 {143}{}{Được rồi, con đi đây.}

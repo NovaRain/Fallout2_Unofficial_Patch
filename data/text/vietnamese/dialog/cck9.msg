@@ -1,11 +1,11 @@
-{100}{}{You see a cyberdog.}
-{101}{}{You see K-9.}
-{102}{}{You see a cyberdog. It is part machine and part dog.}
-{103}{}{The life functions of my master have terminated. Are you my new master?}
-{104}{}{Uh... doggie talk?}
-{105}{}{Okay. Me like doggie.}
-{106}{}{No. Not want doggie.}
-{107}{}{Ha! A talking dog.}
+{100}{}{Bạn thấy một con chó máy.}
+{101}{}{Bạn thấy K-9.}
+{102}{}{Bạn thấy một con chó máy. Nửa phần máy nửa phần chó.}
+{103}{}{Hoạt động sống của chủ nhân đã ngừng. Người là chủ nhân mới của tôi?}
+{104}{}{Ồ... chó nói?}
+{105}{}{Okay. Ngộ thích chó.}
+{106}{}{Không. Không muốn chó.}
+{107}{}{Ha! Con chó biết nói.}
 {108}{}{One; I am a dog. Two; I am communicating with you vocally using the common
  English language. Therefore it is safe to assume that the answer to your question
  is 'yes, doggie talk.' Now, do you intend to answer the question that I posed to
@@ -23,8 +23,8 @@
  feet I would think that you are trying to irritate me. Now, be silent. Pay
  attention. Concentrate. Look me in the eyes. I am about to ask you a question.}
 {117}{}{So go ahead. Who stopping you?}
-{118}{}{The life functions of my master have terminated. Are you my new master?}
-{119}{}{Uh... doggie talk?}
+{118}{}{Hoạt động sống của chủ nhân đã ngừng. Người là chủ nhân mới của tôi?}
+{119}{}{Ồ... chó nói?}
 {120}{}{Yes. Me want doggie.}
 {121}{}{No thanks.}
 {122}{}{Sounds good.}
@@ -34,7 +34,7 @@
  anterior region commonly referred to as the...}
 {125}{}{Ass. Me know what ass is. Me not dummy. Me just joke with you.}
 {126}{}{Oh, a joke. Hardy har har har. Now, are you my new master or not?}
-{127}{}{Okay. Me like doggie.}
+{127}{}{Okay. Ngộ thích chó.}
 {128}{}{No. No want doggie.}
 {129}{}{Excellent. I am in need of repairs, master. My motivation unit has
  been removed. Find it, replace it, and I will join you.}

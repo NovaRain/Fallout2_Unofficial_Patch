@@ -41,5 +41,5 @@ virus không xác định và cực kì nguy hiểm. Tôi *phải* đi đến c�
 đừng có làm lãng phí thời gian nữa vì không thể chờ được nữa đâu.}
 {326}{}{Được, tôi tin cậu. Có vẻ như chúng ta có kẻ đột nhập...}
 {327}{}{Mẹ nó chứ! À, sao cũng được. Chẳng ai nói cái cứt gì cho tôi cả. Rồi. Đi đi.}
-{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{328}{}{Ồ, nghe tệ thật đấy. Vậy thì cậu nên lên đường đi, tôi không muốn dính phải cứt đâu. Ồ và đừng lo, tôi sẽ không nói với ai đâu.}
 {329}{}{[XONG]}
