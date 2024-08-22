@@ -171,30 +171,30 @@
 {222}{}{You see a gray deathclaw. It's Goris.}
 {223}{}{You see a humanoid figure wearing a long sleeved, hooded robe. It's Goris.}
 {1000}{}{Yes,}
-{1001}{}{You heal you self.}
-{1002}{}{You wait here. I be back and get.}
+{1001}{}{Tự chữa thương đi.}
+{1002}{}{Chờ ở đây. Tôi trở lại để lấy.}
 {1003}{}{Uh... no weapon now. Okay?}
 {1008}{}{You D'claw? Why you no tell?}
-{1009}{}{Me done.}
-{1010}{}{You should heal yourself now.}
-{1011}{}{I need you to wait here until I come back.}
+{1009}{}{Xong rồi.}
+{1010}{}{Tự chữa thương ngay đi.}
+{1011}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
 {1012}{}{Make sure you don't have a weapon ready, Okay?}
-{1016}{}{Let's go.}
+{1016}{}{Đi thôi.}
 {1017}{}{You're a deathclaw? Is there a reason you didn't mention this to me before?}
-{1018}{}{That's it for now.}
+{1018}{}{Tạm thế đi.}
 {1019}{}{I'm healed and ready to go,}
 {1020}{}{I'm almost completely healed,}
 {1021}{}{I'm mostly healed, but I could use some assistance when we get the chance,}
 {1022}{}{I've healed myself as much as I can, but I'm still pretty badly hurt,}
 {1041}{}{I'll be waiting here for you when you get back,}
 {1060}{}{I do my best to look inconspicuous,}
-{1064}{}{You stay close.}
-{1065}{}{You no get far away.}
-{1066}{}{You too close. Spread out.}
-{1073}{}{Stay close to me.}
-{1074}{}{Don't get too far away.}
-{1075}{}{We should spread out a bit.}
-{1078}{}{That's it for now.}
+{1064}{}{Ở gần nhé.}
+{1065}{}{Đừng đứng xa quá.}
+{1066}{}{Gần quá. Tách ra đi.}
+{1073}{}{Đứng gần tôi.}
+{1074}{}{Đừng đi xa quá.}
+{1075}{}{Chúng ta nên dãn ra một chút.}
+{1078}{}{Tạm thế đi.}
 {1079}{}{I'll stay as close as I can,}
 {1098}{}{I'll move out a bit and give you room to breathe,}
 {1117}{}{I'll hang back and give you some room,}

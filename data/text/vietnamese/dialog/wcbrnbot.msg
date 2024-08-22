@@ -46,7 +46,7 @@
 {145}{}{Skynet has learned all necessary information at this location.}
 {146}{}{Waaaaa......tinnnnnng.}
 {147}{}{        [It's right where you left it.]}
-{148}{}{Let's go.}
+{148}{}{Đi thôi.}
 {149}{}{Remain here. I'll be back.}
 {150}{}{Skynet is pleased to see this human again.}
 {151}{}{Gooooo....innnnnnnnng}
@@ -89,7 +89,7 @@
 {188}{}{Input commands for new formation.}
 {189}{}{Follow at a long distance.}
 {190}{}{Follow at a medium distance.}
-{191}{}{Stay close to me.}
+{191}{}{Đứng gần tôi.}
 {192}{}{More commands.}
 {193}{}{Chào.}
 {194}{}{Skynet will continue to collect data and observe from this location until your return.}

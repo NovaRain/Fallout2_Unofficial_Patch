@@ -23,8 +23,8 @@
 {122}{}{I don't think I want to rejoin you just yet. Goodbye.}
 {123}{}{Rowf? <boing> Raggy?}
 {124}{}{How are you?}
-{125}{}{I need you to wait here until I come back.}
-{126}{}{That's it for now.}
+{125}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
+{126}{}{Tạm thế đi.}
 {127}{}{<click> whimper}
 {128}{}{Không có gì.}
 {129}{}{OK}

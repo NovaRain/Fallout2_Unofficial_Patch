@@ -3,7 +3,7 @@
 {102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Stop. You not go here. This place off limits.}
-{104}{}{Okay. Me go.}
+{104}{}{Được. Ngộ đi.}
 {105}{}{Đây chỗ nào?}
 {106}{}{Ai ông?}
 {107}{}{All right, I'll leave}

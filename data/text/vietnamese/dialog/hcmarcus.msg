@@ -193,8 +193,8 @@
 {292}{mcs110}{What do you want?}
 {293}{}{How are you feeling?}
 {294}{}{Heal yourself.}
-{295}{}{I need you to wait here until I come back.}
-{296}{}{That's it for now.}
+{295}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
+{296}{}{Tạm thế đi.}
 {297}{mcs111a}{I'm all set.}
 {298}{mcs111b}{Got nothing that'll slow us down.}
 {299}{mcs111c}{You got anything to help?}
@@ -321,9 +321,9 @@
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Marcus, I need you to wait here until I come back.}
 {10003}{}{Put your weapon away.}
-{10004}{}{Stay close to me.}
-{10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
+{10004}{}{Đứng gần tôi.}
+{10005}{}{Đừng đi xa quá.}
+{10006}{}{Chúng ta nên dãn ra một chút.}
 {10007}{}{Let's head out then.}
 {10100}{}{C'mon, Marcus. Time to head out.}
 {20000}{mcs81b}{Right.}
