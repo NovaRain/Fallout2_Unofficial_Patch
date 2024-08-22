@@ -1,67 +1,66 @@
-{100}{}{Big surprise -- it looks like a guy in power armor.}
-{101}{}{Yep, it's still a guy in power armor.}
-{102}{}{He's got some kind of insignia on his chest that different from any of the others you've seen
- around here. }
-{103}{}{<Skzzzt-spork> -the armory!}
-{104}{}{What the- <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
- maintenance. Might have a few problems still, so take it easy. Just sign here.)}
-{106}{}{Uh... Could you repeat that?}
-{107}{}{I think there's something wrong with your suit.}
-{108}{}{Sure, I'll do that.}
-{109}{}{No way. Forget it.}
-{110}{}{You the guy Arch radioed about?}
-{111}{}{Are you sure you're not the guy?}
-{112}{}{Huh?}
+{100}{}{Bất ngờ chưa -- trông giống một gã mặc power armor.}
+{101}{}{Đúng vậy, vẫn là một gã mặc power armor.}
+{102}{}{Ông ta có miếng phù hiệu gì đó trên tấm giáp ngực, trông khác với những người khác mà bạn
+đã thấy quanh đây.}
+{103}{}{<Rè rè> - kho khí giới!}
+{104}{}{Cái gì - <tiếng nhiễu!>>}
+{105}{}{(Vậy là Trung sĩ cử ngươi đến về việc cần power armor. Ồ, tất cả những gì ta có ở đây 
+là có một bộ đang bảo trì. Có thể vẫn còn chút vấn đề, nên cẩn thận chút. Kí vào đây).}
+{106}{}{Ờ... ông nhắc lại được không?}
+{107}{}{Tôi nghĩ là có vấn đề với bộ giáp của ông.}
+{108}{}{Được, tôi sẽ làm vậy.}
+{109}{}{Không đâu. Quên đi.}
+{110}{}{Ngươi là người mà Arch đã gọi đàm vào à?}
+{111}{}{Có chắc là ngươi không phải gã đó không?}
+{112}{}{Hở?}
 {113}{}{Đúng vậy.}
 {114}{}{Không.}
-{115}{}{Who are you? What are you doing here?}
-{116}{}{What?}
-{117}{}{Uh... I'm new here?}
-{118}{}{Peek-a-boo!}
-{119}{}{Who are you? What are you doing here?}
-{120}{}{What?}
-{121}{}{Uh... I'm new here?}
-{122}{}{Peek-a-boo!}
-{123}{}{What do you mean? This suit's working fine! You gonna sign the papers or not?}
-{124}{}{I'm not understanding a word of this.}
-{125}{}{Your speaker's broken.}
-{126}{}{Sure, whatever.}
-{127}{}{To hell with this!}
-{128}{}{(What, are you deaf? I said I got a suit; just sign here.)}
-{129}{}{Clown, are you? Well, I don't need this. You explain to Sarge why you don't have a uniform!}
-{130}{}{Huh?}
-{131}{}{Okay, fine. I'll do it.}
-{132}{}{Just forget it, okay?}
-{133}{}{Your speaker's not broken. I can hear you just fine. Just sign the papers and we can get this
- done.}
-{134}{}{Huh?}
-{135}{}{Fine, I give up!}
-{136}{}{You want me to what? I'm not that kind of person!}
-{137}{}{Okay, what's your name?}
-{138}{}{[Player name]}
+{115}{}{Ngươi là ai? Ngươi làm gì ở đây?}
+{116}{}{Cái gì?}
+{117}{}{Ờ... tôi là người mới ở đây?}
+{118}{}{Ú òa!}
+{119}{}{Ngươi là ai? Ngươi làm gì ở đây?}
+{120}{}{Cái gì?}
+{121}{}{Ờ... tôi là người mới ở đây?}
+{122}{}{Ú òa!}
+{123}{}{Ý ngươi là sao? Bộ giáp này đang hoạt động bình thường! Ngươi có kí giấy hay không nào?}
+{124}{}{Tôi chẳng hiểu từ nào cả.}
+{125}{}{Bộ đám của ông bị hỏng rồi.}
+{126}{}{Rồi, sao cũng được.}
+{127}{}{Kết thúc trò này thôi!}
+{128}{}{(Cái gì, ngươi điếc à? Ta đã nói là ta có giáp; chỉ cần kí vào đây).}
+{129}{}{Gã hề này. Ồ, ta không cần. Ngươi đi mà giải thích cho Trung sĩ về việc sao ngươi không có quân phục!}
+{130}{}{Hở?}
+{131}{}{Okay, được rồi. Tôi sẽ làm vậy.}
+{132}{}{Quên đi, được chứ?}
+{133}{}{Bộ đàm của ngươi không hỏng. Ta có thể nghe rõ ngươi nói gì. Chỉ cần kí vào giấy và chúng ta
+xong việc.}
+{134}{}{Hở?}
+{135}{}{Được rồi, ta chịu rồi!}
+{136}{}{Ngươi muốn ta làm gì? Ta không phải loại người đó!}
+{137}{}{Được rồi, tên ngươi là gì?}
+{138}{}{[Tên người chơi]}
 {139}{}{Pisces?}
-{140}{}{I want the power armor.}
-{141}{}{Swordfish.}
-{142}{}{Right. Unit?}
+{140}{}{Tôi muốn bộ power armor.}
+{141}{}{Cá kiếm.}
+{142}{}{Đúng vậy. Đơn vị?}
 {143}{}{Arroyo.}
 {144}{}{Không hề.}
-{145}{}{I got better.}
+{145}{}{Tôi có thứ hay hơn.}
 {146}{}{42.}
-{147}{}{That with an S or a C?}
+{147}{}{Thứ có S hay C?}
 {148}{}{Đúng vậy.}
 {149}{}{Không.}
 {150}{}{Tôi không chắc.}
-{151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
-{152}{}{[Player name]}
+{151}{}{Ngươi sẽ có bộ giáp khi nào ta xong việc và sẵn sàng! Nào, giờ thì trả lời câu hỏi đi.}
+{152}{}{[Tên người chơi]}
 {153}{}{Pisces?}
-{154}{}{Swordfish.}
-{155}{}{Arroy-- Wait a minute! We just hit that place. You're a damn tribal! Guards!}
-{156}{}{Look, clown, don't be making trouble or I'll have your insubordinate ass up on report. Just
- answer the question. }
+{154}{}{Cá kiếm.}
+{155}{}{Arroy -- Chờ đã! Bọn ta vừa mới dẹp chỗ đó. Mày là một gã tộc chết tiệt! Lính gác đâu!}
+{156}{}{Này, gã hề, đừng có bày trò hoặc ta sẽ cho người lôi ngươi ra làm thịt đấy. Trả lời câu hỏi đi.}
 {157}{}{Arroyo.}
 {158}{}{42.}
-{159}{}{That's it! Get your ass over to your sergeant. I'm sending you up on charges. Dismissed.}
+{159}{}{Được rồi! Lê đít về chỗ trung sĩ đi. Ta gửi ngươi về đó chịu phạt. Giải tán.}
 {160}{}{The 42nd, eh? Good unit. Okay. Here's your gear. Dismissed, soldier.}
 {161}{}{What are you, deaf? Are you the guy or not?}
 {162}{}{Đúng vậy.}
@@ -69,7 +68,7 @@
 {164}{}{Not.}
 {165}{}{Okay, let's make this quick. Take that off and I'll give you a new suit.}
 {166}{}{You're nothing but static.}
-{167}{}{Huh?}
+{167}{}{Hở?}
 {168}{}{Okay.}
 {169}{}{You're gonna off me? I don't think so!}
 {170}{}{Oh, well never mind.}
@@ -85,7 +84,7 @@
 {180}{}{Right, J. Okay, Unit?}
 {181}{}{Arroyo.}
 {182}{}{Không hề.}
-{183}{}{I got better.}
+{183}{}{Tôi có thứ hay hơn.}
 {184}{}{42.}
 {185}{}{You deaf? Who are you?}
 {186}{}{I'm the new guy?}
@@ -93,7 +92,7 @@
 {188}{}{New guy, eh? Suppose you want your issue. Why don't anybody ever tell me these things? What's
  your name?}
 {189}{}{Huh? You ain't nothing but static.}
-{190}{}{[Player name]}
+{190}{}{[Tên người chơi]}
 {191}{}{Not if I shoot first!}
 {192}{}{Wait a minute -- you're not one of us! GUARDS!}
 {193}{}{Look soldier, I already gave you your gear, so get on out of here.}

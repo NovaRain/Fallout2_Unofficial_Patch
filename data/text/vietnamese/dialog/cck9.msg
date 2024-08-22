@@ -220,19 +220,19 @@ nhóm. Tôi sẽ chờ ở đây cho đến khi có chỗ trống.}
 {1200}{}{Hệ thống của tôi đang vận hành ở mức gần tối đa, thưa chủ nhân.}
 {1300}{}{Tôi đã tiến hành sửa chữa những gì có thể, thưa chủ nhân, 
 nhưng tôi sẽ cần được hỗ trợ thêm.}
-{1400}{}{I have performed what repairs I can master, but system failure
- is imminent without assistance.}
-{1500}{}{I will await your return, master.}
-{1600}{}{Do you expect me to swallow my teeth, master?}
-{1700}{}{I will follow at your heel, master.}
-{1800}{}{I will move to a medium distance, master.}
-{1900}{}{I will move to maximum acceptable range, master.}
+{1400}{}{Tôi đã tiến hành sửa chữa những gì có thể, thưa chủ nhân, nhưng
+hệ thống sẽ lỗi nếu không được hỗ trợ.}
+{1500}{}{Tôi sẽ chờ chủ nhân trở lại.}
+{1600}{}{Người nghĩ rằng tôi có thể nuốt răng sao, thưa chủ nhân?}
+{1700}{}{Tôi sẽ bám sát gót chủ nhân.}
+{1800}{}{Tôi sẽ chuyển sang cự li trung bình, thưa chủ nhân.}
+{1900}{}{Tôi sẽ chuyển sang cự li tối đa có thể, thưa chủ nhân.}
 {2000}{}{Thứ lỗi thưa chủ nhân, nhưng có vẻ như không còn chỗ cho tôi trong
 nhóm. Tôi sẽ chờ ở đây cho đến khi có chỗ trống.}
 {2200}{}{Tuân lệnh chủ nhân.}
-{2300}{}{I have fur, master. I carry no other gear.}
-{2400}{}{I have no desire to remove my fur, master.}
-{2500}{}{Teeth, master. The shiny white things installed in my mouth.}
-{2700}{}{You are a bigger asshole than Schreber. I will not join you.}
-{2800}{}{Very well, master. I am at your command.}
-{2900}{}{You are a cretin. I will not go anywhere with you. Go away.}
+{2300}{}{Tôi có lông, thưa chủ nhân. Tôi không mang vũ trang nào khác.}
+{2400}{}{Tôi không có ý định chia tay bộ lông của mình, thưa chủ nhân.}
+{2500}{}{Răng, thưa chủ nhân. Mấy thứ trắng sáng lắp trong mồm tôi đây.}
+{2700}{}{Người còn tồi tệ hơn cả Schreber. Tôi sẽ không đi cùng người.}
+{2800}{}{Tốt lắm, chủ nhân. Tôi chờ lệnh người.}
+{2900}{}{Người là đồ đần. Tôi sẽ chẳng đi đến đâu với người cả. Đi đi.}

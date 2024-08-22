@@ -21,10 +21,10 @@
 {120}{}{All right, you're allowed one question. What will it be?}
 {121}{}{You know where me find GECK?}
 {122}{}{You know where me find Vault 13?}
-{123}{}{Who the hell are you guys?}
+{123}{}{Các ông là lũ quái nào thế?}
 {124}{}{Do you know where I can find a GECK?}
 {125}{}{Do you know where I can find Vault 13?}
-{126}{}{Who the hell are you guys?}
+{126}{}{Các ông là lũ quái nào thế?}
 {127}{}{Yes, I believe that Vault 13 never used theirs. You should be able to find one there. Good luck,}
 {128}{}{Wait! Where vault?}
 {129}{}{Now wait a minute! Where's the vault?}
