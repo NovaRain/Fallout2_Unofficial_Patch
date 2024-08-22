@@ -109,7 +109,7 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {192}{}{Chúng ta đi thôi.}
 {193}{}{Xong rồi.}
 {194}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
-{195}{}{Put your weapon away.}
+{195}{}{Bỏ vũ khí xuống.}
 {196}{}{Đứng gần tôi.}
 {197}{}{Đừng đi xa quá.}
 {198}{}{Chúng ta nên dãn ra một chút.}
@@ -124,13 +124,13 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {207}{}{Chúng ta đi thôi.}
 {208}{}{Xong rồi.}
 {209}{}{Tự chữa thương ngay đi.}
-{210}{}{Put your weapon away.}
+{210}{}{Bỏ vũ khí xuống.}
 {211}{}{Đứng gần tôi.}
 {212}{}{Đừng đi xa quá.}
 {213}{}{Chúng ta nên dãn ra một chút.}
 {214}{}{Đi thôi.}
 {215}{}{Tạm thế đi.}
-{216}{}{Retracting weapon, master.}
+{216}{}{Đang thu lại vũ khí, thưa chủ nhân.}
 {217}{}{Tự chữa thương đi.}
 {218}{}{Chờ ở đây. Tôi trở lại để lấy.}
 {219}{}{Ở gần nhé.}
@@ -142,25 +142,25 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {225}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
 {226}{}{Đứng gần tôi.}
 {227}{}{Đừng đi xa quá.}
-{228}{}{We should spread out a bit}
+{228}{}{Chúng ta nên dãn ra một chút.}
 {229}{}{Đi thôi.}
 {230}{}{Tạm thế đi.}
-{231}{}{Narrowing distance between us, master.}
+{231}{}{Đang thu hẹp cự li, thưa chủ nhân.}
 {232}{}{Tự chữa thương đi.}
 {233}{}{Chờ ở đây. Tôi trở lại để lấy.}
-{234}{}{Uh... put weapon away. Ok?}
+{234}{}{Ờ... bỏ vũ khí xuống. Ok?}
 {235}{}{Đừng đứng xa quá.}
 {236}{}{Gần quá. Tách ra đi.}
 {237}{}{Chúng ta đi thôi.}
 {238}{}{Xong rồi.}
 {239}{}{Tự chữa thương ngay đi.}
 {240}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
-{241}{}{Put your weapon away.}
+{241}{}{Bỏ vũ khí xuống.}
 {242}{}{Đừng đi xa quá.}
 {243}{}{Chúng ta nên dãn ra một chút.}
 {244}{}{Đi thôi.}
 {245}{}{Tạm thế đi.}
-{246}{}{Increasing distance between us, master.}
+{246}{}{Đang tăng cự li, thưa chủ nhân.}
 {247}{}{Tự chữa thương đi.}
 {248}{}{Chờ ở đây. Tôi trở lại để lấy.}
 {249}{}{Ờ... bỏ vũ khí xuống. Okay?}
@@ -170,12 +170,12 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {253}{}{Xong rồi.}
 {254}{}{Tự chữa thương ngay đi.}
 {255}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
-{256}{}{Put your weapon away.}
+{256}{}{Bỏ vũ khí xuống.}
 {257}{}{Đứng gần tôi.}
 {258}{}{Chúng ta nên dãn ra một chút.}
 {259}{}{Đi thôi.}
 {260}{}{Tạm thế đi.}
-{261}{}{Increasing distance to maximum, master.}
+{261}{}{Tăng cự li lên mức tối đa, thưa chủ nhân.}
 {262}{}{Tự chữa thương đi.}
 {263}{}{Chờ ở đây. Tôi trở lại để lấy.}
 {264}{}{Ờ... bỏ vũ khí xuống. Okay?}
@@ -185,14 +185,14 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {268}{}{Xong rồi.}
 {269}{}{Tự chữa thương ngay đi.}
 {270}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
-{271}{}{Put your weapon away.}
+{271}{}{Bỏ vũ khí xuống.}
 {272}{}{Đứng gần tôi.}
 {273}{}{Đừng đi xa quá.}
 {274}{}{Đi thôi.}
 {275}{}{Tạm thế đi.}
-{276}{}{I am sorry, master, but there does not appear to be room for me in
- your party. I will wait here until a position opens.}
-{277}{}{As you command, master.}
+{276}{}{Thứ lỗi thưa chủ nhân, nhưng có vẻ như không còn chỗ cho tôi trong
+nhóm. Tôi sẽ chờ ở đây cho đến khi có chỗ trống.}
+{277}{}{Tuân lệnh chủ nhân.}
 {278}{}{Tự chữa thương đi.}
 {279}{}{Chờ ở đây. Tôi trở lại để lấy.}
 {280}{}{Ờ... bỏ vũ khí xuống. Okay?}
@@ -202,24 +202,24 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {284}{}{Xong rồi.}
 {285}{}{Tự chữa thương ngay đi.}
 {286}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
-{287}{}{Put your weapon away.}
+{287}{}{Bỏ vũ khí xuống.}
 {288}{}{Đứng gần tôi.}
 {289}{}{Đừng đi xa quá.}
 {290}{}{Chúng ta nên dãn ra một chút.}
 {291}{}{Tạm thế đi.}
-{292}{}{Sure. You look like a nice enough dog.}
+{292}{}{Được đấy. Cậu trông cũng giống chó ra trò.}
 {293}{}{Không, cám ơn.}
-{300}{}{Me sad. Me no can fix.}
-{301}{}{I'm sorry; I can't fix you.}
-{400}{}{You seem to be missing a part.}
-{410}{}{That does nothing.}
-{420}{}{That does not fit.}
-{800}{}{You fixed K-9.}
+{300}{}{Ngộ buồn. Ngộ không sửa được.}
+{301}{}{Rất tiếc; tôi không sửa cậu được.}
+{400}{}{Có vẻ như bạn đang thiếu một bộ phận.}
+{410}{}{Việc này không có tác dụng gì.}
+{420}{}{Cái này không vừa.}
+{800}{}{Bạn đã sửa K-9.}
 {1000}{}{Vâng, thưa chủ nhân?}
 {1100}{}{Tất cả hệ thống đều đang hoạt động ở mức cao nhất, thưa chủ nhân.}
 {1200}{}{Hệ thống của tôi đang vận hành ở mức gần tối đa, thưa chủ nhân.}
-{1300}{}{I have performed what repairs I can master, but I will require
- further assistance.}
+{1300}{}{Tôi đã tiến hành sửa chữa những gì có thể, thưa chủ nhân, 
+nhưng tôi sẽ cần được hỗ trợ thêm.}
 {1400}{}{I have performed what repairs I can master, but system failure
  is imminent without assistance.}
 {1500}{}{I will await your return, master.}
@@ -227,9 +227,9 @@ hệ thống sẽ lỗi nếu không được hỗ trợ.}
 {1700}{}{I will follow at your heel, master.}
 {1800}{}{I will move to a medium distance, master.}
 {1900}{}{I will move to maximum acceptable range, master.}
-{2000}{}{I am sorry, master, but there does not appear to be room for me in
- your party. I will wait here until a position opens.}
-{2200}{}{As you command, master.}
+{2000}{}{Thứ lỗi thưa chủ nhân, nhưng có vẻ như không còn chỗ cho tôi trong
+nhóm. Tôi sẽ chờ ở đây cho đến khi có chỗ trống.}
+{2200}{}{Tuân lệnh chủ nhân.}
 {2300}{}{I have fur, master. I carry no other gear.}
 {2400}{}{I have no desire to remove my fur, master.}
 {2500}{}{Teeth, master. The shiny white things installed in my mouth.}

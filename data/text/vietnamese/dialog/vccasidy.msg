@@ -76,7 +76,7 @@
 {174}{}{I wanted to ask you some questions...}
 {175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
 {176}{}{Cassidy, I need you to wait here until I come back.}
-{177}{}{Put your weapon away.}
+{177}{}{Bỏ vũ khí xuống.}
 {178}{}{Đứng gần tôi.}
 {179}{}{Đừng đi xa quá.}
 {180}{}{Chúng ta nên dãn ra một chút.}
@@ -215,7 +215,7 @@
 {9999}{}{I wanted to ask you some questions...}
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
-{10003}{}{Put your weapon away.}
+{10003}{}{Bỏ vũ khí xuống.}
 {10004}{}{Đứng gần tôi.}
 {10005}{}{Đừng đi xa quá.}
 {10006}{}{Chúng ta nên dãn ra một chút.}

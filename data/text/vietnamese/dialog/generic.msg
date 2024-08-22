@@ -242,7 +242,7 @@
 {10000}{}{Tell me something.}
 {10001}{}{Tự chữa thương ngay đi.}
 {10002}{}{Hãy chờ ở đây cho đến khi tôi quay lại.}
-{10003}{}{Put your weapon away.}
+{10003}{}{Bỏ vũ khí xuống.}
 {10004}{}{Đứng gần tôi.}
 {10005}{}{Đừng đi xa quá.}
 {10006}{}{Chúng ta nên dãn ra một chút.}
@@ -254,7 +254,7 @@
 {10012}{}{I need you to remove the armor that you're wearing.}
 {10013}{}{I need to know what kind of weapons you can use.}
 {10100}{}{Đi thôi.}
-{20000}{}{That does nothing.}
+{20000}{}{Việc này không có tác dụng gì.}
 {20100}{}{There is no lock on this door.}
 {21020}{}{twenty}
 {30000}{}{You have stolen from your own tribe.}
