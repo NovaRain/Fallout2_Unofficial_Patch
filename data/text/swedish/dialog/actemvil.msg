@@ -63,7 +63,7 @@
 {154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
  The cave entrance behind me will return you to the last chamber.}
 {155}{}{Okay, me go.}
-{156}{}{All right. Thanks}
+{156}{}{All right. Thanks.}
 {157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
  years to recover!}
 {158}{}{Go bye, Cameron.}

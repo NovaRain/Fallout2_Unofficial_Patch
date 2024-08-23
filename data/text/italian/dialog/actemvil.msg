@@ -54,7 +54,7 @@
 {153}{}{Volevo solo salutarti. Ci vediamo.}
 {154}{}{Prendi il sentiero alla mia sinistra, Prescelto. Conduce alla facciata del Tempio. La grotta dietro di me ti condurra' all'ultima stanza.}
 {155}{}{Okay, me va.}
-{156}{}{Bene. Grazie}
+{156}{}{D'accordo. Grazie.}
 {157}{}{No grazie, Prescelto. Porto ancora i segni dal nostro ultimo scontro e mi serviranno anni per riprendermi!!}
 {158}{}{Ciao ciao, Cameron.}
 {159}{}{Ah! Buona giornata a te, Cameron.}
