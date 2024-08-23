@@ -14,8 +14,6 @@ chmod 0777 Output
 # shellcheck disable=SC2154  # from env.sh
 rm -f "$release_dir"/{upu-install.sh,upu-install.command}
 # shellcheck disable=SC2154  # from env.sh
-sed -i "s|define uversion .*|define uversion \"${uversion}\"|" "$install_iss"
-# shellcheck disable=SC2154  # from env.sh
 sed -i "s|define vversion .*|define vversion \"${vversion}\"|" "$install_iss"
 
 rm -rf release translations

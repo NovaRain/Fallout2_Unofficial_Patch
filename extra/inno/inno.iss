@@ -2,18 +2,17 @@
 #define backup_dir "backup\" + basename
 #define mods_dir "{app}\mods"
 ; build process shenanigans, see inno.sh
-#define uversion "u0"
 #define vversion "v0"
 
 [Setup]
 AppName=Fallout 2 Unofficial Patch
-AppVerName=Fallout 2 Unofficial Patch 1.02.31{#uversion}
+AppVerName=Fallout 2 Unofficial Patch 1.02.{#vversion}
 AppId=Fallout 2 Unofficial Patch
 AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Unofficial_Patch
-VersionInfoTextVersion=1.02.31{#uversion}
+VersionInfoTextVersion=1.02.31{#vversion}
 DefaultDirName=C:\Games\Fallout2
 AppendDefaultDirName=no
 DisableProgramGroupPage=yes
