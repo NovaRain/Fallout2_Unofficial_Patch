@@ -54,7 +54,7 @@
 {153}{}{Csak gondoltam, beköszönök. Később találkozunk.}
 {154}{}{Rendben, Kiválasztott. Ez a barlang mögöttem a templom utolsó kamrájába vezet.}
 {155}{}{Oké. Menni.}
-{156}{}{Rendben. Köszönöm.}
+{156}{}{Köszönöm. Viszlát!}
 {157}{}{Nem, kösz, Kiválasztott. Még mindig megvannak a sebeim, amiket tőled szereztem a harcban, és több évbe fog telni, amíg teljesen meggyógyulok!}
 {158}{}{Üdv, Cameron.}
 {159}{}{Hát akkor, sok szerencsét, Cameron!}

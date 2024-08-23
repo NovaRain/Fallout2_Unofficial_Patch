@@ -54,7 +54,7 @@
 {153}{}{Ich wollte nur kurz Hallo sagen. Bis später.}
 {154}{}{Nimm den Weg zu meiner Linken, Auserwähltes Wesen. Er führt dich zum eigentlichen Tempel. Durch den Eingang hinter mir gelangst du in die letzte Kammer.}
 {155}{}{OK, ich gehen.}
-{156}{}{OK, danke.}
+{156}{}{Gut. Danke.}
 {157}{}{Nein danke, Auserwähltes Wesen. Die Wunden unseres letzten Aufeinandertreffens sind noch nicht verheilt. Das wird Jahre dauern, um mich zu erholen!}
 {158}{}{Guten Tag, Dumar.}
 {159}{}{Ha! Guten Tag, Dumar.}

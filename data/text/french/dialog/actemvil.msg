@@ -54,7 +54,7 @@
 {153}{}{Je venais juste te dire bonjour. A plus tard.}
 {154}{}{Prends le chemin situé à ma gauche. Il mène directement au temple. La grotte constitue l'entrée arrière.}
 {155}{}{Ok, moi partir.}
-{156}{}{Très bien. Merci.}
+{156}{}{D'accord. Merci.}
 {157}{}{Non merci. J'ai encore les bleus de notre dernière rencontre et il va me falloir des années pour m'en remettre !}
 {158}{}{Bonne journée, Dumar.}
 {159}{}{Ha ! Bonne journée, Dumar.}

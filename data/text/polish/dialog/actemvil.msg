@@ -54,7 +54,7 @@
 {153}{}{Chcę się tylko przywitać. Na razie.}
 {154}{}{Idź ścieżką po mojej lewej stronie, Dziecko. Zaprowadzi cię ona do wrót świątyni. Jaskinia za mną powiedzie cię do ostatniej komnaty.}
 {155}{}{Dobra, moja iść.}
-{156}{}{Rozumiem. Dziękuję.}
+{156}{}{Dobrze. Dzięki.}
 {157}{}{Wybacz, Dziecko Przeznaczenia, ale dziękuję. Wciąż mam jeszcze sińce po naszym ostatnim spotkaniu i minie trochę czasu zanim wydobrzeję!}
 {158}{}{Moja pa, Cameron.}
 {159}{}{Ha! Miłego dnia, Cameronie.}

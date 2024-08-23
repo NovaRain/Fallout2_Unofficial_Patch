@@ -63,7 +63,7 @@ Você pode obtê-lo após a luta. Deixe que a luta comece! Boa sorte para você 
 {154}{}{Pegue o caminho para a minha esquerda, Escolhido. Isso leva ao templo propriamente dito.
   A entrada da caverna atrás de mim irá voltar para a última câmara.}
 {155}{}{Ok, eu vou.}
-{156}{}{Tudo bem. Obrigado}
+{156}{}{Tudo bem. Obrigado.}
 {157}{}{Não, obrigado, Escolhido. Eu ainda carrego as contusões de nosso último encontro e precisarei de
   anos para me recuperar!}
 {158}{}{Adeus, Cameron.}
