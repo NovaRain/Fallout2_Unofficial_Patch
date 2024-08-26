@@ -468,7 +468,7 @@ end
 
 procedure Node001a begin
    set_local_var( LVAR_Cassidy_Offered, 1 );
-   if ( (dude_charisma == 1) or has_rep_slaver or has_rep_childkiller or check_title_bad(-100) or dude_at_max_party_size ) then
+   if ( (dude_charisma == 1) or has_rep_slaver or has_rep_childkiller or (perceived_rep < -100) or dude_at_max_party_size ) then
       call Node015;
    else
       call Node016;
@@ -591,14 +591,14 @@ procedure Node015 begin
       Reply(157);
    else if( has_rep_slaver ) then
       Reply(158);
-   else if ( has_rep_childkiller or check_title_bad(-100) ) then
+   else if ( has_rep_childkiller or (perceived_rep < -100) ) then
       Reply(159);
    else
       Reply(160);
 
-   if (self_rep >= -100) and (not has_rep_slaver) and (not has_rep_childkiller) and (dude_charisma > 1) then
+   if (perceived_rep >= -100) and (not has_rep_slaver) and (not has_rep_childkiller) and (dude_charisma > 1) then
       NOption(161, Node999, 004);
-   if (self_rep < -100) or has_rep_slaver or has_rep_childkiller or (dude_charisma == 1)  then begin
+   if (perceived_rep < -100) or has_rep_slaver or has_rep_childkiller or (dude_charisma == 1) then begin
       BOption(162, Node999, 004);
       NOption(163, Node999, 004);
    end
@@ -728,7 +728,7 @@ procedure Node1100 begin
       Reply(2100);
       BOption(3100, Node999, 001); //added by killap
       NOption(3200, Node999, 001); //added by killap
-   end else if (has_rep_childkiller or check_title_bad(-100)) then begin
+   end else if( has_rep_childkiller or (perceived_rep < -100) ) then begin
       set_self_abandon_party; //added by killap
       Reply(2200);
       BOption(3100, Node999, 001); //added by killap

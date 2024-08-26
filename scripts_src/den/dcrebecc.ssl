@@ -352,7 +352,7 @@ procedure Node007 begin
    prev_node := 7;
 end
 procedure Node008 begin
-   if self_rep_negative then begin
+   if perceived_rep_negative then begin
       Reply(350);
    end else if (becky_job(state_becky_job_none)) then begin
       Reply(351 + told_collect);

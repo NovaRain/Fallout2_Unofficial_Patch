@@ -316,7 +316,7 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
    else if (Sulik_In_Party) then begin
-      if self_rep < SULIK_BAD_KARMA then begin
+      if perceived_rep < SULIK_BAD_KARMA then begin
          call Node70a;
          ndebug("Evil Spirit");
       end
@@ -417,7 +417,7 @@ procedure talk_p_proc begin
    else if has_rep_slaver then begin
       call Node071;
    end
-   else if self_rep < SULIK_BAD_KARMA then begin
+   else if perceived_rep < SULIK_BAD_KARMA then begin
       call Node70a;
    end
    else if ((Sulik_In_Party) or (party_is_waiting)) then begin

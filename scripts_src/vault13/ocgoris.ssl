@@ -281,7 +281,7 @@ procedure critter_p_proc begin
       if (Goris_In_Party and self_visible) then begin
          party_member_follow_dude
 
-         if has_rep_berserker or has_rep_childkiller or self_rep_negative then begin
+         if has_rep_berserker or has_rep_childkiller or perceived_rep_negative then begin
             float_msg(self_obj, mstr(1160), FLOAT_MSG_RED);
             set_self_abandon_party;
             set_self_team(TEAM_VAULT13);
@@ -729,7 +729,7 @@ procedure Node013 begin
 end
 
 procedure Node014 begin
-   if not (self_rep_negative or town_rep_negative or has_rep_childkiller or has_rep_berserker) then begin
+   if not (perceived_rep_negative or town_rep_negative or has_rep_childkiller or has_rep_berserker) then begin
       ndebug("true_party_size " + true_party_size);
       ndebug("party_max_formula " + party_max_formula);
       ndebug("((true_party_size >= (party_max_formula)) or (true_party_size >= 5)): " + ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)));
@@ -884,7 +884,7 @@ end
    NOption(1012, Node1003, 4);                                          \
    NOption(1166, Node1007, 4);                                          \
    if (party_is_waiting) then                                           \
-      NOption(1016, Node1100, 4); /* edit by killap - was NLowOption */  \
+      NOption(1016, Node1100, 4); /* edit by killap - was NLowOption */ \
    if (lvar(LVAR_First_Combat) >= 1 and not lvar_bit(LVAR_State, STATE_TALK_DCLAW) ) then                               \
       NOption(1017, Node022, 4);                                        \
    NOption(1018, Node999, 4)

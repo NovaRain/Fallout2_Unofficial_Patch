@@ -177,11 +177,11 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if ((CITY_START >= 0) and self_rep_negative) then begin
+   if ((CITY_START >= 0) and perceived_rep_negative) then begin
        call Node014;
    end
 
-   else if ((CITY_START < 0) and self_rep_negative) then begin
+   else if ((CITY_START < 0) and perceived_rep_negative) then begin
        call Node015;
    end
 

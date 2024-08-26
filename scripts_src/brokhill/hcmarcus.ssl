@@ -396,7 +396,7 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end
-   else if (self_rep < -10) then begin
+   else if (perceived_rep < -10) then begin
        start_gdialog(NAME,self_obj,4,HEAD_MARCUS,PartyMemberBackground);
        gSay_Start;
            call Node045;
@@ -578,7 +578,7 @@ procedure Node001a begin
    if ( ( (global_var(GVAR_BH_MINE) == MINE_FIXED_CASH) or (global_var(GVAR_BH_MINE) == MINE_FIXED_FREE) or (global_var(GVAR_BH_MINE) == MINE_REWARDED) ) and
         ( (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) or
           (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS) ) and
-         self_rep_positive and
+        ( perceived_rep >= 0 ) and
         ( dude_has_free_slot_for_marcus ) ) then
       call Node030;
    else
@@ -918,7 +918,7 @@ procedure Node031 begin
       else
          Reply(276);
    end
-   else if self_rep_negative then
+   else if perceived_rep_negative then
       Reply(277);
    else
       Reply(213);
@@ -1272,7 +1272,7 @@ procedure Node1100 begin
       Reply(277);
       BOption(3100, Node999, 001); //added by killap
       BOption(3200, Node999, 001); //added by killap
-   end else if has_rep_childkiller or (self_rep < -100) then begin
+   end else if has_rep_childkiller or (perceived_rep < -100) then begin
       set_self_abandon_party;
       Reply(277);
       BOption(3100, Node999, 001); //added by killap

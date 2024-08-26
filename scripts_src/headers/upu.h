@@ -141,29 +141,15 @@ procedure cult_rep begin
    return rep;
 end
 // account for Evil_Critter, absolute "good" value. More is better.
-procedure self_rep begin
+procedure perceived_rep begin
    variable rep := beacon_rep;
-   if rep < 0 and self_is_evil then rep := abs(rep);
+   if self_is_evil then rep := -rep;
    if dude_has_cult then rep := abs(rep);
    return rep;
 end
-#define self_rep_positive (self_rep > 0)
-#define self_rep_negative (self_rep < 0)
+#define perceived_rep_positive (perceived_rep > 0)
+#define perceived_rep_negative (perceived_rep < 0)
 
-// normal mode: critter likes dude if he has title, taking Evil_Critter into account
-procedure check_title(variable title) begin
-   variable rep := cult_rep;
-   if not self_is_evil and rep >= title then return true;
-   if self_is_evil and rep <= title then return true;
-   return false;
-end
-// inverse mode: critter dislikes dude if he has title, taking Evil_Critter into account
-procedure check_title_bad(variable title) begin
-   variable rep := cult_rep;
-   if not self_is_evil and rep <= title then return true;
-   if self_is_evil and rep >= title then return true;
-   return false;
-end
 
 // call before restock
 procedure move_quest_items begin

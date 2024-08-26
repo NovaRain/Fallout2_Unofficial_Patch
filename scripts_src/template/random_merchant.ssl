@@ -140,18 +140,18 @@ procedure talk_p_proc begin
    else if (Personality < 0) then
        call Node015;
 
-   else if ((CITY_START >= 0) and self_rep_negative) then begin
+   else if ((CITY_START >= 0) and perceived_rep_negative) then begin
        call Node012;
    end
 
-   else if ((CITY_START <  0) and self_rep_negative) then begin
+   else if ((CITY_START <  0) and perceived_rep_negative) then begin
        call Node009;
    end
 
    else begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
-           if ((CITY_START >= 0) and self_rep_positive) then
+           if ((CITY_START >= 0) and (perceived_rep >= 0)) then
                call Node010;
            else
                call Node011;
