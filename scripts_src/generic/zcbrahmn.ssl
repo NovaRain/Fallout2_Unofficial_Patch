@@ -147,10 +147,7 @@ procedure use_skill_on_p_proc begin
    // a good science skill check will give you a little more info about the brahmin.
    if (action_being_used == SKILL_SCIENCE) then begin
       script_overrides;
-      if (is_success(roll_vs_skill(dude_obj, action_being_used, 0))) then
-         display_msg(br_mstr(101));
-      else
-         display_msg(br_mstr(102));
+      display_msg(br_mstr(102 - (is_success(roll_vs_skill(dude_obj, action_being_used, 0)))));
    end else if (action_being_used == SKILL_STEAL) then
       script_overrides;
 end
@@ -162,7 +159,8 @@ procedure map_enter_p_proc begin
          set_self_ai(AI_GENERIC_BRAHMIN);
       end
       if (critter_state(self_obj) bwand DAM_KNOCKED_DOWN) then begin
-         add_timer_event(self_obj, game_ticks(random(10, 30)), TIMER_STAND_UP);
+         animate_stand;
+         move_to(self_obj, self_tile, self_elevation); // avoid visual offset shifting
       end
       //flush_add_timer_event_sec(self_obj, random(15, 90), TIMER_WALK);
       //flush_add_timer_event_sec(self_obj, random(5, 15), TIMER_FLOAT);
