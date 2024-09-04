@@ -21,8 +21,8 @@
 {120}{}{Убирайтесь!}
 {121}{}{Покиньте нас.}
 {122}{}{Мы мирное племя.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
-{204}{}{Not today. I must be going.}
+{200}{}{Ах, путник. Жаль, что у нас нет шатра, где ты мог бы укрыться от нескончаемого зноя. Отдохни немного, поговорим.}
+{201}{}{Благодарю, с радостью приму твоё предложение.}
+{202}{}{Как жаль. Тогда отдохни немного, ты желанный гость среди нас.}
+{203}{}{Надеюсь, ты нашёл то, что искал. Тебе ещё что-нибудь нужно?}
+{204}{}{На сегодня всё. Мне пора идти.}
