@@ -1,7 +1,7 @@
 {100}{}{Bạn thấy một lính gác.}
 {101}{}{Bạn thấy một lính gác mặc áo giáp chiến đấu.}
-{102}{}{You see someone wearing combat armor. There is an insignia on the breastplate
- that you are unfamiliar with.}
+{102}{}{Bạn thấy ai đó mặc áo giáp chiến đấu. Có miếng phù hiệu trên tấm giáp ngực
+mà bạn không nhận ra.}
 {103}{}{Không có gì mới.}
 {104}{}{Tôi không thấy có gì mới, cậu thì sao?}
 {105}{}{Này cậu lính, sao cậu không về vị trí gác đi? Đừng có đi lang thang ở đây.}
@@ -17,11 +17,11 @@
 {115}{}{Chúng tao sẽ cho mày cạp đất!}
 {116}{}{Enclave sẽ thống trị cả thế giới!}
 {117}{}{Mày phải chết để Enclave tồn tại!}
-{118}{}{Sorry, soldier. That area is off limits to base personnel. I have to ask you
- to leave.}
-{119}{}{Doc want me kill D'claw. He no want do himself.}
+{118}{}{Rất tiếc, cậu lính. Đây là khu cấm nhân sự trong căn cứ. Tôi yêu cầu cậu
+rời khỏi chỗ này.}
+{119}{}{Tiến sĩ muốn ngộ giết con Vuốt. Ông ta không muốn tự làm.}
 {120}{}{Được, ngộ đi.}
-{121}{}{Doc wants me to kill the critter for him. He doesn't want to do it himself.}
+{121}{}{Tiến sĩ muốn tôi giết mẫu vật thay. Ông ta không muốn tự tay làm.}
 {122}{}{I knew the bastard wouldn't have the balls to do it himself. Oh no, it's okay
  if one of us gets fucked up. (sigh) Oh well. Go on in and good luck, soldier.}
 {123}{}{Cám ơn.}
