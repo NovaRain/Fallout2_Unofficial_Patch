@@ -20,7 +20,7 @@
 {119}{}{Ass-is-tense?}
 {120}{}{(Shamble off)}
 {121}{}{I'm looking for the main computer. Can you tell me where it is?}
-{122}{}{What is it you do here?}
+{122}{}{Vad gör ni här?}
 {123}{}{Just passing through, thanks.}
 {124}{}{You are? It's a pleasure to meet you. If you have the time, perhaps we could compare notes? It
  is not often that I get the chance to speak to another physician.}
@@ -36,7 +36,7 @@
 {132}{}{Thanks for the tour, Doctor Troy. It's been very educational.}
 {133}{}{The main computer? It's down on the third level. Just take the elevator down, walk straight
  until you hit the T-intersection, then make the first left. That'll take you right to the control room.}
-{134}{}{What is it you do here?}
+{134}{}{Vad gör ni här?}
 {135}{}{Tack.}
 {136}{}{I am Vault City's primary physician. I take care of all the Citizens within Vault City and do my
  best to keep everyone healthy.}
