@@ -140,7 +140,7 @@
  earned 10% of the cut.}
 {555}{}{(Takes a breath from his mask.) You have... done as I asked. I have no
  further need of your... services. (Points to the exit.) Leave now.}
-{556}{}{Uh... okay.}
+{556}{}{Ừ... okay.}
 {557}{}{Could I have one of those laser pistols as part of my payment before I go?}
 {565}{}{(Takes a deep breath from the mask.) I have another... matter that I could
  use your assistance with.}

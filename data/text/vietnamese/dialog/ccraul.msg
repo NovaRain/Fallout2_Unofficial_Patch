@@ -1,32 +1,32 @@
 {100}{}{Bạn thấy một người thợ cơ khí.}
-{101}{}{You see Raul, the mechanic.}
-{102}{}{You see a man in a filthy military uniform. Judging by the grease
- spots you think he is more of a mechanic than a soldier, and a hard working
- one to boot.}
-{103}{}{Sorry, man, but I don't have time to chit-chat, you know? I got to get
- this bird working.}
-{104}{}{Doc want fix K-9. He say you got part.}
-{105}{}{Uh... okay.}
-{106}{}{Uh, Quincy want see you. He ask me tell you.}
-{107}{}{The doc wants to fix his dog. He sent me for the part.}
-{108}{}{Fine. Bye.}
-{109}{}{Raul, Quincy wants to see you.}
-{110}{}{Quincy, huh? Well, Raul don't want to see him, man. Raul is tired of
- his shit, you know?}
+{101}{}{Bạn thấy Raul, thợ cơ khí.}
+{102}{}{Bạn thấy một người đàn ông mặc bộ quân phục bẩn thỉu. Nhìn vào mấy vết
+dầu mỡ bạn nghĩ người này giống thợ cơ khí hơn là lính, hơn nữa còn
+chăm làm lắm.}
+{103}{}{Xin lỗi, em giai, nhưng ta không có thời gian tán nhảm, rõ chứ? Ta còn
+phải làm cho con chim này bay được.}
+{104}{}{Tiến sĩ muốn sửa K-9. Ông ta nói ông có bộ phận.}
+{105}{}{Ừ... okay.}
+{106}{}{Ừ, Quincy muốn gặp ông. Ông ta bảo tôi nói cho ông biết.}
+{107}{}{Tiến sĩ muốn sửa con chó. Ông ta cử tôi đến lấy bộ phận.}
+{108}{}{Rồi. Tạm biệt.}
+{109}{}{Raul, Quincy muốn gặp ông.}
+{110}{}{Quincy à? Ồ, Raul không muốn gặp lão ta, em giai à. Raul chán đống
+cứt đấy lắm rồi, hiểu chứ?}
 {111}{}{Okay.}
-{112}{}{Quincy say you asshole. You no got balls see him.}
+{112}{}{Quincy nói ông đầu lìn. Ông sợ không dám đến.}
 {113}{}{Được rồi.}
-{114}{}{Quincy said you were an asshole and that you wouldn't have
- the balls to report to him.}
-{115}{}{ Hey man, Raul don't take no shit from nobody. You see Quincy working on these
- birds? No way, man. Only Raul works on these babies. You know why? Cause
- Quincy don't know DICK, man, that's why!}
+{114}{}{Quincy nói rằng ông là đồ đầu lìn, và rằng ông sợ không dám đến
+chỗ ông ta báo cáo.}
+{115}{}{ Này đứa kia, Raul không để yên cho ai ném cứt đâu nhé. Mày có thấy Quincy
+sửa chim không? Làm đéo có chuyện. Chỉ có Raul mới sửa được mấy bé này thôi.
+Biết tại sao không? Vì Quincy đéo biết cái lìn gì, rõ chưa!}
 {116}{}{Ừ...}
 {117}{}{Ờ...}
-{118}{}{Hey, sorry, man. Raul shouldn't be yelling at you, you know? It's
- not your fault; you're just the messenger. Hey, man, you busy right now?}
-{119}{}{No, me not busy. Why?}
-{120}{}{Not really, why?}
+{118}{}{Này, xin lỗi em giai. Raul không nên quát cậu, hiểu chứ? Đâu phải lỗi của
+cậu; cậu chỉ là người đưa tin. Này, em giai, cậu có đang bận gì không?}
+{119}{}{Không, ngộ không bận. Sao chứ?}
+{120}{}{Không hẳn, sao chứ?}
 {121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
  Raul's going to clean the old man's clock.
  You stay here and watch Raul's birds. Ok?}

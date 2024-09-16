@@ -44,39 +44,39 @@ Quay lại chỗ đứa nào gửi cậu đến đây và xin đầy đủ giấ
 {137}{}{Không, chắc là tôi cho ông ăn đạn rồi đi tìm bản vẽ trong lúc ông
 ngáp vì mất máu.}
 {138}{}{Kĩ thuật bảo cậu... Ý cậu là Raul? Hắn ta bảo cậu đến đây?}
-{139}{}{Uh, yeah.}
-{140}{}{Uh, no.}
-{141}{}{Yeah, that's the guy.}
-{142}{}{No, I don't think it was Raul.}
-{143}{}{Damn it! You know, Raul would lose his head if it weren't placed so
- firmly up his ass! This is the third time this quarter that he's lost those
- plans! And now he doesn't even have the brass bouncing balls to come to me
- and ask for them? Fine, they're in the locker over there. Oh and, when you
- deliver them, tell that asshole I want to see him.}
+{139}{}{Ừ, đúng thế.}
+{140}{}{Ừ, không.}
+{141}{}{Đúng, đúng là gã đó.}
+{142}{}{Không, tôi nghĩ đấy không phải là Raul.}
+{143}{}{Mẹ kiếp! Đầu gã Raul này chắc phải rụng ra nếu không có ai gắn chặt vào đít mất!
+Đây là lần thứ ba trong quý này thằng đầu khấc làm mất bản vẽ rồi! Và giờ hắn ta
+thậm chí còn tụt cả bi vào trong nên không dám đến gặp yêu cầu ta nữa hả? Rồi,
+bản vẽ ở trong tủ khóa ở kia. Ồ, khi nào cầm đến tay thì bảo thằng lìn đấy đến
+đây gặp ta.}
 {144}{}{Cám ơn.}
-{145}{}{So you're back. Did you get the authorization?}
-{146}{}{You again? What is it now?}
-{147}{}{Yeah, me got plasma rifle. That good enough me!}
+{145}{}{Quay lại rồi đấy. Có giấy phép chưa?}
+{146}{}{Lại nữa à? Giờ thì là chuyện gì?}
+{147}{}{Đúng, ngộ có súng plasma. Ngộ đủ rồi!}
 {148}{}{Chưa.}
-{149}{}{Yeah, I've got a big fucking gun. That's good enough for me!}
+{149}{}{Đúng, tôi có khẩu súng to vãi lìn đây. Thế là đầy đủ giấy tờ rồi chứ!}
 {150}{}{Chưa.}
-{151}{}{Me ask you something.}
-{152}{}{Me just say 'Hi'.}
-{153}{}{I need to ask you something.}
-{154}{}{Nothing, just saying 'Hi'.}
-{155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
+{151}{}{Ngộ hỏi chuyện ông.}
+{152}{}{Ngộ chỉ "chào" thôi.}
+{153}{}{Tôi cần hỏi chút việc.}
+{154}{}{Không có gì, chỉ "chào" thôi.}
+{155}{}{Điên à? Đi loanh quanh mà không mặc quân phục? Đi mặc đồ vào!}
 {156}{}{Trung sĩ mà bắt được cậu không mặc quân phục thì ông ấy sạc cho teo chim.}
 {157}{}{Sao cậu lại không mặc quân phục?}
 {158}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
 {159}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
-{160}{}{Guard! Intruders in maintenance!}
+{160}{}{Lính gác! Có kẻ đột nhập trong phòng bảo trì!}
 {161}{}{Gì thế? Chúng ta bị tấn công à?}
 {162}{}{Sao lại báo động? Chuyện gì thế?}
 {163}{}{Cái củ lìn gì đang diễn ra thế?}
-{164}{}{Hey! Don't be rummaging through those drawers.}
-{165}{}{I told you not to go through my stuff! Guards!}
-{200}{}{Yeah. Well, don't believe everything you hear.}
-{201}{}{Who told you that? 'Cause he's next after I knock some sense into you.}
-{300}{}{Can't you see that I am busy?}
-{301}{}{Hey! Don't be rummaging through those drawers!}
-{302}{}{I told you not to go through my stuff! Guards!}
+{164}{}{Này! Đừng có bới tung cả tủ lên thế.}
+{165}{}{Ta đã bảo là đừng có động vào đồ của ta mà! Lính gác đâu!}
+{200}{}{Được. Ồ, đừng có tin mọi thứ nghe được.}
+{201}{}{Ai bảo cậu thế? Cho cậu một trận xong là ta sẽ đến dạy cho kẻ đó một bài học.}
+{300}{}{Không thấy là ta đang bận hả?}
+{301}{}{Này! Đừng có bới tung cả tủ lên thế!}
+{302}{}{Ta đã bảo là đừng có động vào đồ của ta mà! Lính gác đâu!}
