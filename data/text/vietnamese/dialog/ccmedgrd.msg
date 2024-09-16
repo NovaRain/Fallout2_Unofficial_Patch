@@ -22,12 +22,12 @@ rời khỏi chỗ này.}
 {119}{}{Tiến sĩ muốn ngộ giết con Vuốt. Ông ta không muốn tự làm.}
 {120}{}{Được, ngộ đi.}
 {121}{}{Tiến sĩ muốn tôi giết mẫu vật thay. Ông ta không muốn tự tay làm.}
-{122}{}{I knew the bastard wouldn't have the balls to do it himself. Oh no, it's okay
- if one of us gets fucked up. (sigh) Oh well. Go on in and good luck, soldier.}
+{122}{}{Tôi biết là lão chết tiệt đấy không dám tự tay làm mà. Ôi, kiểu gì thì cũng có
+người phải nhúng bùn. (thở dài) Ồ được rồi. Vào đi và chúc may mắn, cậu lính.}
 {123}{}{Cám ơn.}
-{124}{}{Why are you looking at me like that, soldier?}
-{125}{}{Me hear you call Snookie. That cute.}
-{126}{}{I hear you're called Snookie. I think that's cute.}
-{127}{}{What... He told you that? When I get off duty I'm going to kick his ass...
- Move along, soldier. And wipe that smirk off your face!}
+{124}{}{Sao cậu lại nhìn tôi như thế hả, cậu lính?}
+{125}{}{Ngộ nghe cô gọi là Snookie. Yêu đấy.}
+{126}{}{Tôi nghe nói cô là Snookie. Tên dễ thương thật đấy.}
+{127}{}{Cái... Hắn ta nói cho cậu à? Khi nào hết ca gác tôi sẽ cho hắn ta một trận...
+Bước đi, cậu lính. Và thôi cái điệu cười trên mặt đi!}
 {128}{}{Okay.}

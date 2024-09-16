@@ -1,49 +1,49 @@
-{100}{}{You see a man in a military uniform.}
-{101}{}{You see Quincy, the mechanic.}
-{102}{}{You see a man in a military uniform. Judging by the grease spots you think
- he is more of a mechanic than a soldier.}
-{103}{}{Name's Quincy, soldier. Why are you tapping my shoulder and looking lost?}
-{104}{}{Me need ask you something.}
+{100}{}{Bạn thấy một người đàn ông mặc quân phục.}
+{101}{}{Bạn thấy Quincy, thợ cơ khí.}
+{102}{}{Bạn thấy một người đàn ông mặc quân phục. Nhìn mấy vết dầu mỡ bạn nghĩ
+ông ta giống thợ cơ khí hơn là lính.}
+{103}{}{Tên là Quincy, cậu lính. Sao cậu lại vỗ vai ta rồi đần mặt ra thế?}
+{104}{}{Ngộ cần hỏi ông chuyện.}
 {105}{}{Không có gì.}
-{106}{}{Hi. I need to ask you something.}
+{106}{}{Chào. Tôi cần hỏi mấy thứ.}
 {107}{}{Không có gì.}
-{108}{}{All right, but make it quick. I have inventory to do.}
-{109}{}{What do you need to know?}
+{108}{}{Được rồi, nhưng nhanh lên nhé. Ta còn phải xếp hàng nữa.}
+{109}{}{Cần biết gì nào?}
 {110}{}{Đây chỗ nào?}
-{111}{}{Me look for vertibird plans. Where find?}
-{112}{}{Me told by tech me find vertibird plans here.}
+{111}{}{Ngộ tìm bản vẽ máy bay trực thăng. Tìm đâu?}
+{112}{}{Kĩ thuật bảo ngộ tìm bản vẽ máy bay trực thăng ở đây.}
 {113}{}{Ngộ đi giờ.}
 {114}{}{Đây là nơi nào?}
-{115}{}{I'm looking for vertibird plans. Do you know where I can find them?}
-{116}{}{I was told by a tech that I could find the vertibird plans here.}
-{117}{}{Well, got to go.}
-{118}{}{This is maintenance. We repair pretty much anything except for the vertibirds.}
-{119}{}{Where vertibird get repair?}
-{120}{}{Where do the vertibirds get repaired?}
-{121}{}{They only fit in the hangar or outdoors. You figure it out from there, okay?}
-{122}{}{Oh... okay.}
-{123}{}{Oh, yeah. I get it.}
-{124}{}{Well... I've got a copy of the plans but I can't just hand them out to
- anyone who asks for them. What do you want with them?}
-{125}{}{Me got friends down south who want.}
-{126}{}{Uh... well...}
-{127}{}{I've got some friends down south who want to get their hands on them.}
-{128}{}{I was told by the Sarge to get them.}
-{129}{}{Down south... Holy shit! We've got a spy here! Guards! Alert!}
+{115}{}{Tôi đang tìm bản vẽ máy bay trực thăng. Ông có biết là cần tìm ở đâu không?}
+{116}{}{Một nhân viên kĩ thuật bảo tôi có thể tìm thấy bản vẽ máy bay trực thăng ở đây.}
+{117}{}{Được, tôi đi đây.}
+{118}{}{Đây là phòng bảo trì. Bọn ta sửa gần như mọi thứ, trừ máy bay trực thăng.}
+{119}{}{Máy bay trực thăng sửa đâu?}
+{120}{}{Máy bay trực thăng được sửa ở đâu thế?}
+{121}{}{Chúng chỉ có thể đậu trong khoang chứa hoặc ngoài trời. Đến đấy rồi tự tìm tiếp, được chứ?}
+{122}{}{Ồ... okay.}
+{123}{}{Ồ, được. Tôi hiểu rồi.}
+{124}{}{Ồ... Ta có bản sao đây nhưng làm sao ta có thể đưa cho bất kì gã ngốc
+nào đến hỏi được. Cậu cần chúng làm gì?}
+{125}{}{Ngộ có bạn phía Nam muốn.}
+{126}{}{Ừ... thì...}
+{127}{}{Tôi có mấy người bạn phía Nam muốn lấy bản vẽ.}
+{128}{}{Trung sĩ bảo tôi đến lấy.}
+{129}{}{Phía Nam... Đậu má! Có gián điệp! Lính gác! Báo động!}
 {130}{}{Ồ ồ.}
-{131}{}{Ooops. Put my foot in it this time.}
-{132}{}{You're one round short of a full clip, aren't you? Well, they call you
- grunts for a reason. Look, Einstein, I can't give you the plans without
- authorization, okay? So, go back to whoever sent you here and get the proper
- paperwork.}
-{133}{}{Look, Einstein, I can't give you the plans without authorization, okay?
- So, go back to whoever sent you here and get the proper paperwork.}
+{131}{}{Ồ ồ. Đạp phải cứt rồi.}
+{132}{}{Thiếu một viên nữa là đầy băng rồi ha? Ồ, họ xếp cậu làm lính cũng phải.
+Nghe này, Einstein, ta không thể đưa bản vẽ cho cậu mà không có giấy phép
+được, rõ chứ? Quay lại chỗ đứa nào gửi cậu đến đây và xin đầy đủ giấy tờ
+đi.}
+{133}{}{Nghe này, Einstein, ta không thể đưa bản vẽ cho cậu mà không có giấy phép được, rõ chứ?
+Quay lại chỗ đứa nào gửi cậu đến đây và xin đầy đủ giấy tờ đi.}
 {134}{}{Được, ngộ đi.}
-{135}{}{No, me shoot you first, find plans second, then... what come after two?}
-{136}{}{Hey, you got it.}
-{137}{}{No, I think I'll shoot you instead and look around for the plans while
- you bleed.}
-{138}{}{A tech told you... You mean Raul? Did he send you?}
+{135}{}{Không, ngộ bắn ông số một, tìm bản vẽ số hai, rồi... sau số hai là số mấy nhỉ?}
+{136}{}{Này, được rồi.}
+{137}{}{Không, chắc là tôi cho ông ăn đạn rồi đi tìm bản vẽ trong lúc ông
+ngáp vì mất máu.}
+{138}{}{Kĩ thuật bảo cậu... Ý cậu là Raul? Hắn ta bảo cậu đến đây?}
 {139}{}{Uh, yeah.}
 {140}{}{Uh, no.}
 {141}{}{Yeah, that's the guy.}
