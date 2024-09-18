@@ -64,8 +64,8 @@ lão ta cho cậu nát mông đấy.}
 {146}{}{Này cậu em, nó ở trong cái tủ khóa đằng kia. Lấy đi và nói với tiến sĩ
 là Raul gửi lời chào nhé.}
 {147}{}{Cám ơn.}
-{150}{}{Hey, man! Raul don't like it when people mess with his shit. Get out, man.}
-{151}{}{Raul told you not to go through his stuff! Guards!}
-{200}{}{Raul heard you were talking shit about him again.}
-{201}{}{This has happened once too often, asshole. Raul's gonna hurt you bad this time.}
-{300}{}{Can't you see that Raul's busy?}
+{150}{}{Này cậu em! Raul không thích người khác vào phá rối đâu. Biến đi.}
+{151}{}{Raul đã bảo là không được sờ vào đồ rồi! Lính đâu!}
+{200}{}{Raul nghe nói cậu em lại đi nói đểu Raul lần nữa.}
+{201}{}{Nói một lần rồi thì phải biết thân mà cúp mông đi chứ. Raul sẽ dần một trận nhừ tử.}
+{300}{}{Không thấy là Raul đang bận à?}

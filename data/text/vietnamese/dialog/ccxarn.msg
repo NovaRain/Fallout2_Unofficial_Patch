@@ -1,38 +1,38 @@
-{100}{}{Greetings, human. I am the warrior Xarn. Are you to be my executioner?}
+{100}{}{Chào, người. Ta là chiến binh Xarn. Người là kẻ giết ta?}
 {101}{}{Đúng vậy.}
-{102}{}{No, me here rescue you.}
-{103}{}{Not know. Me want know why you here.}
-{104}{}{Yes I am.}
-{105}{}{No, I'm here to rescue you.}
-{106}{}{I don't know. I'd like to know why you are here.}
-{107}{}{So be it. I do not intend to go quietly, human. Let us make this a
- battle to remember!}
+{102}{}{Không, ngộ đây cứu ngươi.}
+{103}{}{Không biết. Ngộ muốn biết sao ngươi ở đây.}
+{104}{}{Đúng vậy.}
+{105}{}{Không, ta đến để cứu ngươi.}
+{106}{}{Ta không biết. Ta muốn biết sao ngươi lại ở đây.}
+{107}{}{Được rồi. Ta không định ngồi yên chịu chết đâu, người. Hãy chiến đấu
+một trận đáng nhớ nào!}
 {108}{}{Okay.}
-{109}{}{Wait. Me change mind. Why are you here?}
-{110}{}{I'm ready. Let's party.}
-{111}{}{Wait a minute. Why are you here?}
-{112}{}{I find it hard to believe that an Enclave soldier is here to rescue me.
- More likely, you are here to build up my hopes so that you can dash them to pieces.}
-{113}{}{No. Me here rescue you. Really.}
-{114}{}{Look, I really am here to rescue you!}
-{115}{}{You are my last hope so I will place my trust in you. That
- door over there leads to an airshaft that exits into the woods above.
- I should be able to climb the shaft and gain my freedom. However,
- the door is securely locked and requires a passkey to open.
- Find the key, unlock the door, and grant me my freedom.}
+{109}{}{Chờ. Ngộ đổi ý. Sao ngươi ở đây?}
+{110}{}{Ta sẵn sàng rồi. Chiến nào.}
+{111}{}{Chờ một chút đã. Sao ngươi lại ở đây?}
+{112}{}{Ta thấy thật khó tin rằng một lính Enclave lại đến đây để cứu ta. Đúng hơn là,
+người mang hi vọng đến để làm chúng tan vỡ.}
+{113}{}{Không. Ngộ đây cứu ngươi. Thật.}
+{114}{}{Này, ta thật sự đến đây để cứu ngươi!}
+{115}{}{Người là hi vọng cuối cùng nên ta sẽ tin người. Cái cửa
+đằng kia dẫn vào ống thông gió lên khu rừng ở trên.
+Ta có thể trèo qua ống thông để tìm tự do. Tuy nhiên, 
+cửa đã bị khóa chặt và cần có chìa để mở.
+Hãy tìm chìa, mở khóa cửa và cho ta được tự do.}
 {116}{}{Okay, ngộ làm.}
-{117}{}{Me think about it.}
-{118}{}{Sure, I'll do it.}
-{119}{}{I'll think about it.}
-{120}{}{(Xarn stares at you intently for a moment) Very well.
- The Enclave created my people as a slave warrior race. They
- enhanced our intellect hoping we could better understand their
- commands, and yet not recognize our status as slaves.
- They failed; we are much more intelligent than they suspect.}
-{121}{}{We decided to play the fool until we could gain our
- freedom. Our chance arrived when the Enclave decided to test
- us outside their control, here on the mainland. Doctor Schreber
- opposed their decision, but he was overruled.}
+{117}{}{Ngộ nghĩ về chuyện đó.}
+{118}{}{Được, ta sẽ làm vậy.}
+{119}{}{Ta sẽ nghĩ về việc đó.}
+{120}{}{(Xarn nhìn bạn chằm chằm một lúc) Được. Enclave tạo ra
+chúng ta làm chiến binh nô lệ. Họ tăng cường trí tuệ cho 
+chúng ta với hi vọng chúng ta sẽ hiểu được lệnh, nhưng không
+nhận ra tình trạng nô lệ. Họ đã thất bại; chúng ta thông minh
+hơn nhiều so với những gì họ nghĩ.}
+{121}{}{Chúng ta quyết định giả ngu cho đến khi có thể được tự do.
+Cơ hội đã đến khi Enclave quyết định đưa chúng ta ra ngoài
+khu kiểm soát để thử nghiệm tại đây trên lục địa. Tiến sĩ Schreber
+phản đối quyết định này, nhưng ông ta bị áp quyền.}
 {122}{}{Not accepting the Enclave decision, he chose exile to this base,
  captured me, and has been performing experiments to determine my
  true nature. He has been successful. When he reports his findings
@@ -57,7 +57,7 @@
  better that this is so. I would ask you to help me escape
  this place. Will you?}
 {134}{}{Yes, me do.}
-{135}{}{Me think about it.}
+{135}{}{Ngộ nghĩ về chuyện đó.}
 {136}{}{No, me no think so.}
 {137}{}{Yeah, I'll do it.}
 {138}{}{No, but I'll think about it.}
@@ -70,7 +70,7 @@
 {144}{}{Tạm biệt.}
 {145}{}{I would ask you to help me escape this place. Will you?}
 {146}{}{Yes, me do.}
-{147}{}{Me think about it.}
+{147}{}{Ngộ nghĩ về chuyện đó.}
 {148}{}{No, me no think so.}
 {149}{}{Yeah, I'll do it.}
 {150}{}{No, but I'll think about it.}
