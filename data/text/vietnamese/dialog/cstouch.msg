@@ -1,8 +1,8 @@
-{100}{}{You see a wooden crate.}
-{101}{}{You see a metal locker.}
-{102}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame, which
- you may be able to pry open.}
+{100}{}{Bạn thấy chiếc thùng gỗ.}
+{101}{}{Bạn thấy tủ khóa thép.}
+{102}{}{Bạn thấy một chiếc thùng chắc chắn có khóa (có thể dùng 
+cậy khóa để mở) và bẫy thuốc nổ nhạy trên khung, mà bạn 
+có thể thử cậy mở.}
 {103}{}{You see a sturdy container with a lock on it and a highly
  explosive trap in the frame, which you may be able to
  pry open.}
