@@ -27,42 +27,42 @@ Biết tại sao không? Vì Quincy đéo biết cái lìn gì, rõ chưa!}
 cậu; cậu chỉ là người đưa tin. Này, em giai, cậu có đang bận gì không?}
 {119}{}{Không, ngộ không bận. Sao chứ?}
 {120}{}{Không hẳn, sao chứ?}
-{121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
- Raul's going to clean the old man's clock.
- You stay here and watch Raul's birds. Ok?}
-{122}{}{Me watch.}
-{123}{}{Sure Raul. I'll do it for you, but not just anybody.}
-{124}{}{Hey, thanks, man. Raul owes you one!
- Don't go away and, hey, man, if anybody
- screws with Raul's birds, you shoot them in the ass. Ok?}
+{121}{}{Nghe này, cậu em. Raul sẽ đến chỗ Quincy một lúc, được chứ?
+Raul sẽ đi thông não lão già dịch ấy.
+Cậu em ở đây trông chim giúp Raul. Ok?}
+{122}{}{Ngộ trông.}
+{123}{}{Được chứ Raul. Tôi sẽ giúp ông, nhưng không phải ai tôi cũng hộ đâu nhé.}
+{124}{}{Này, cám ơn em giai. Raul nhờ cậu lần này!
+Đừng có rời khỏi đây, và em giai ơi, nếu có thằng nào
+nghịch chim của Raul, cứ dí súng vào đít hắn. Ok?}
 {125}{}{Okay.}
-{126}{}{Hey man, what you think you doing? Get the fuck away from that bird,
- man! Raul's got enough problems without you grunts fucking with things, you
- know? Damn flyboys are bad enough!}
-{127}{}{Hey, man, Raul told you to keep the fuck away from his birds, man.
- Now Raul has to teach you to listen. Come on, man. Take off the fucking
- armor and go one on one, mano e mano with Raul.}
-{128}{}{No, me not think so.}
-{129}{}{Screw you, Raul. Me shoot you ass dead!}
-{130}{}{No thanks, you're too tough for me pal.}
-{131}{}{Why use fists when I have a perfectly good gun?}
-{132}{}{Then don't fuck with Raul's birds, man! Get out of here!}
+{126}{}{Này, đứa kia, làm cái gì đấy? Tránh con mẹ mày ra khỏi con chim sắt
+ngay! Raul có thừa rắc rối rồi, không cần đến đám lính quèn đến phá nữa đâu,
+hiểu chứ? Mẹ nó mấy đứa ruồi bay là đủ lắm rồi!}
+{127}{}{Này, Raul đã bảo là tránh con mẹ mày ra khỏi con chim tao rồi. Giờ thì
+Raul sẽ dạy cho mày một bài học. Đến đây nào, thằng cờ hó. Tụt bộ giáp
+củ lìn ra vào đây một chọi một, meno e mano, với Raul nào.}
+{128}{}{Không, ngộ không nghĩ vậy.}
+{129}{}{Cút đi, Raul. Ngộ bắn ông nát đít!}
+{130}{}{Không được đâu sói ạ, sói cứng vãi lìn ai mà dại.}
+{131}{}{Có khẩu súng ngon thế này thì ngu sao mà phải chơi tay không?}
+{132}{}{Thế thì đừng có đmm nghịch chim của Raul nữa! Cút khỏi đây ngay!}
 {133}{}{Okay.}
-{134}{}{Raul thinks you must be nuts walking around here out of uniform.}
-{135}{}{Hey, man, if the sergeant catches you out of uniform he'll hand
- you your ass.}
-{136}{}{Why are you out of uniform, man?}
+{134}{}{Raul nghĩ cậu em chắc phải điên lắm mới lượn lờ quanh đây mà không mặc quân phục.}
+{135}{}{Này cậu em, trung sĩ mà bắt được cậu không mặc quân phục là
+lão ta cho cậu nát mông đấy.}
+{136}{}{Sao cậu em lại không mặc quân phục thế?}
 {137}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
 {138}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
-{139}{}{Guard! Intruders in the hangar!}
-{140}{}{Hey, man, what's up? We under attack?}
-{141}{}{Why the alert, man? What's happening?}
+{139}{}{Lính gác! Có kẻ đột nhập vào khoang chứa máy bay!}
+{140}{}{Này cậu em, sao thế? Chúng ta bị tấn công à?}
+{141}{}{Sao lại báo động thế? Có chuyện gì vậy?}
 {142}{}{Cái củ lìn gì đang diễn ra thế?}
-{143}{}{Raul's going to put you in med lab, man.}
-{144}{}{Hey, man, say your prayers!}
-{145}{}{Raul's going to kick your ass!}
-{146}{}{Hey, man, it's in the locker over there. Take it and tell the doc
- Raul says hi.}
+{143}{}{Raul sẽ cho cậu vào bệnh xá đấy, cậu em.}
+{144}{}{Này cậu em, hãy cầu nguyện đi!}
+{145}{}{Raul sẽ cho cậu em một trận!}
+{146}{}{Này cậu em, nó ở trong cái tủ khóa đằng kia. Lấy đi và nói với tiến sĩ
+là Raul gửi lời chào nhé.}
 {147}{}{Cám ơn.}
 {150}{}{Hey, man! Raul don't like it when people mess with his shit. Get out, man.}
 {151}{}{Raul told you not to go through his stuff! Guards!}
