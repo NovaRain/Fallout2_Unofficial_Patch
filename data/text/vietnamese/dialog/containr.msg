@@ -5,135 +5,135 @@ cậy khóa để mở) và bẫy thuốc nổ nhạy trên khung, mà bạn
 có thể thử cậy mở.}
 {103}{}{Bạn thấy một thùng chứa chắc chắn có khóa 
 và bẫy thuốc nổ nhạy trên khung mà bạn
-có thể thử cạy mở.}
+có thể thử cậy mở.}
 {104}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có khóa
 nhưng có bẫy thuốc nổ nhạy trên khung mà bạn có thể thử
-cạy mở.}
-{105}{}{You see a sturdy container with an old, rusty lock and a highly
- explosive trap in the frame, which you may be able to pry
- open.}
-{106}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a trap in the frame, which you may be able to
- pry open.}
-{107}{}{You see a sturdy container with a lock on it and a trap in
- the frame, which you may be able to pry open.}
-{108}{}{You see a sturdy container with no apparent locking device and
- a trap in the frame, which you may be able to pry open.}
-{109}{}{You see a sturdy container with an old, rusty lock and a trap
- in the frame, which you may be able to pry open.}
-{110}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame, which you may be
- able to pry open.}
-{111}{}{You see a sturdy container with a lock on it and a severed wire
- in the frame, which you may be able to pry open.}
-{112}{}{You see a sturdy container with no apparent locking device and
- a severed wire in the frame, which you may be able to pry
- open.}
-{113}{}{You see a sturdy container with an old, rusty lock and a cut
- wire in the frame, which you may be able to pry open.}
-{114}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{115}{}{You see a sturdy container with a lock on it, which you may be
- able to pry open.}
-{116}{}{You see a sturdy container with no apparent locking device,
- which you may be able to pry open.}
-{117}{}{You see a sturdy container with an old, rusty lock, which
- you may be able to pry open.}
-{118}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame.}
-{119}{}{You see a sturdy container with a lock on it and a highly
- explosive trap in the frame.}
-{120}{}{You see a sturdy container with no apparent locking device and
- a highly explosive trap in the frame.}
-{121}{}{You see a sturdy container with an old, rusty lock and a highly
- explosive trap in the frame.}
-{122}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a trap in the frame.}
-{123}{}{You see a sturdy container with a lock on it and a trap in
- the frame.}
-{124}{}{You see a sturdy container with no apparent locking device and
- a trap in the frame.}
-{125}{}{You see a sturdy container with an old, rusty lock and a trap
- in the frame.}
-{126}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame.}
-{127}{}{You see a sturdy container with a lock on it and a severed wire
- in the frame.}
-{128}{}{You see a sturdy container with no apparent locking device and
- a severed wire in the frame.}
-{129}{}{You see a sturdy container with an old, rusty lock and a cut
- wire in the frame.}
-{130}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) on it.}
-{131}{}{You see a sturdy container with a lock on it.}
-{132}{}{You see a sturdy container with no apparent locking device.}
-{133}{}{You see a sturdy container with an old, rusty lock.}
-{134}{}{You see a damaged container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame.}
-{135}{}{You see a damaged container with a lock on it and a highly
- explosive trap in the frame.}
-{136}{}{You see a damaged container with no apparent locking device and
- a highly explosive trap in the frame.}
-{137}{}{You see a damaged container with an old, rusty lock and a highly
- explosive trap in the frame.}
-{138}{}{You see a damaged container with a lock (which can be picked with
- lockpicks) and a trap in the frame.}
-{139}{}{You see a damaged container with a lock on it and a trap in
- the frame.}
-{140}{}{You see a damaged container with no apparent locking device and
- a trap in the frame.}
-{141}{}{You see a damaged container with an old, rusty lock and a trap
- in the frame.}
-{142}{}{You see a damaged container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame.}
-{143}{}{You see a damaged container with a lock on it and a severed wire
- in the frame.}
-{144}{}{You see a damaged container with no apparent locking device and
- a severed wire in the frame.}
-{145}{}{You see a damaged container with an old, rusty lock and a cut
- wire in the frame.}
-{146}{}{You see a damaged container with a lock (which can be picked with
- lockpicks).}
-{147}{}{You see a damaged container with a lock on it.}
-{148}{}{You see a damaged container with no apparent locking device.}
-{149}{}{You see a damaged container with an old, rusty lock.}
-{150}{}{You see an old container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame.}
-{151}{}{You see an old container with a lock on it and a highly
- explosive trap in the frame.}
-{152}{}{You see an old container with no apparent locking device and
- a highly explosive trap in the frame.}
-{153}{}{You see an old container with an old, rusty lock and a highly
- explosive trap in the frame.}
-{154}{}{You see an old container with a lock (which can be picked with
- lockpicks) and a trap in the frame.}
-{155}{}{You see an old container with a lock on it and a trap in
- the frame.}
-{156}{}{You see an old container with no apparent locking device and
- a trap in the frame.}
-{157}{}{You see an old container with an old, rusty lock and a trap
- in the frame.}
-{158}{}{You see an old container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame.}
-{159}{}{You see an old container with a lock on it and a severed wire
- in the frame.}
-{160}{}{You see an old container with no apparent locking device and
- a severed wire in the frame.}
-{161}{}{You see an old container with an old, rusty lock and a cut
- wire in the frame.}
-{162}{}{You see an old container with a lock (which can be picked with
- lockpicks).}
-{163}{}{You see an old container with a lock on it.}
-{164}{}{You see an old container with no apparent locking device.}
-{165}{}{You see an old container with an old, rusty lock.}
+cậy mở.}
+{105}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ rét và
+bẫy thuốc nổ nhạy trên khung mà bạn có thể thử
+cậy mở.}
+{106}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng
+cậy khóa để mở) và bẫy trên khung, mà bạn có thể thử
+cậy mở.}
+{107}{}{Bạn thấy một thùng chứa chắc chắn có khóa và bẫy trên
+khung mà bạn có thể thử cậy mở.}
+{108}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có
+khóa nhưng có bẫy trên khung mà bạn có thể thử cậy mở.}
+{109}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét
+và bẫy trên khung mà bạn có thể thử cậy mở.}
+{110}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng cậy khóa
+để mở) và đoạn dây thép bị cắt trên khung mà bạn có thể thử
+cậy mở.}
+{111}{}{Bạn thấy một thùng chứa chắc chắn có khóa và một đoạn dây thép
+bị đứt trên khung mà bạn có thể thử cậy mở.}
+{112}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có khóa
+nhưng có đoạn dây thép bị đứt trên khung mà bạn có thể thử
+cậy mở.}
+{113}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét và
+đoạn dây thép bị đứt trên khung mà bạn có thể thử cậy mở.}
+{114}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng cậy khóa
+để mở) mà bạn có thể thử cậy mở.}
+{115}{}{Bạn thấy một thùng chứa chắc chắn có khóa mà bạn có thể
+thử cậy mở.}
+{116}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không
+có khóa mà bạn có thể thử cậy mở.}
+{117}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét
+mà bạn có thể thử cậy mở.}
+{118}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng cậy khóa
+để mở) và bẫy thuốc nổ nhạy trên khung.}
+{119}{}{Bạn thấy một thùng chứa chắc chắn có khóa và bẫy
+thuốc nổ nhạy trên khung.}
+{120}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có khóa
+nhưng có bẫy thuốc nổ nhạy trên khung.}
+{121}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét
+và bẫy thuốc nổ nhạy trên khung.}
+{122}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng cậy khóa
+để mở) và bẫy trên khung.}
+{123}{}{Bạn thấy một thùng chứa chắc chắn có khóa và bẫy trên
+khung.}
+{124}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có khóa
+nhưng có bẫy trên khung.}
+{125}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét
+và bẫy trên khung.}
+{126}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng cậy khóa
+để mở) và đoạn dây thép bị đứt trên khung.}
+{127}{}{Bạn thấy một thùng chứa chắc chắn có khóa và đoạn dây thép
+bị đứt trên khung.}
+{128}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có khóa
+nhưng có đoạn dây thép bị đứt trên khung.}
+{129}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét
+và đoạn dây thép bị cắt trên khung.}
+{130}{}{Bạn thấy một thùng chứa chắc chắn có khóa (có thể dùng cậy khóa
+để mở) bên trên.}
+{131}{}{Bạn thấy một thùng chứa chắc chắn có khóa.}
+{132}{}{Bạn thấy một thùng chứa chắc chắn, nhìn có vẻ như không có khóa.}
+{133}{}{Bạn thấy một thùng chứa chắc chắn với ổ khóa cũ kĩ, rỉ sét.}
+{134}{}{Bạn thấy một thùng chứa cũ nát có khóa (có thể dùng cậy khóa để 
+mở) và bẫy thuốc nổ nhạy trên khung.}
+{135}{}{Bạn tháy một thùng chứa cũ nát có khóa và bẫy thuốc nổ
+nhạy trên khung.}
+{136}{}{Bạn thấy một thùng chứa cũ nát. Nhìn có vẻ như không có khóa nhưng
+có bẫy thuốc nổ nhạy trên khung.}
+{137}{}{Bạn thấy một thùng chứa cũ nát với ổ khóa cũ kĩ, rỉ sét và bẫy
+thuốc nổ nhạy trên khung.}
+{138}{}{Bạn thấy một thùng chứa cũ nát có khóa (có thể dùng cậy khóa để
+mở) và bẫy trên khung.}
+{139}{}{Bạn thấy một thùng chứa cũ nát có khóa và bẫy
+trên khung.}
+{140}{}{Bạn thấy một thùng chứa cũ nát, nhìn có vẻ như không có khóa
+nhưng có bẫy trên khung.}
+{141}{}{Bạn thấy một thùng chứa cũ nát với ổ khóa cũ kĩ, rỉ sét và bẫy
+trên khung.}
+{142}{}{Bạn thấy một thùng chứa cũ nát có khóa (có thể dùng cậy khóa để mở)
+và đoạn dây thép bị cắt trên khung.}
+{143}{}{Bạn thấy một thùng chứa cũ nát có khóa và đoạn dây thép bị đứt
+trên khung.}
+{144}{}{Bạn thấy một thùng chứa cũ nát, nhìn có vẻ như không có khóa
+nhưng có đoạn dây thép bị đứt trên khung.}
+{145}{}{Bạn thấy một thùng chứa cũ nát với ổ khóa cũ kĩ, rỉ sét và đoạn
+dây thép bị đứt trên khung.}
+{146}{}{Bạn thấy một thùng chứa cũ nát có khóa (có thể dùng cậy khóa
+để mở).}
+{147}{}{Bạn thấy một thùng chứa cũ nát có khóa.}
+{148}{}{Bạn thấy một thùng chứa cũ nát, nhìn có vẻ như không có khóa.}
+{149}{}{Bạn thấy một thùng chứa cũ nát với ổ khóa cũ kĩ, rỉ sét.}
+{150}{}{Bạn thấy một thùng chứa đã cũ có khóa (có thể dùng cậy khóa để
+mở) và bẫy thuốc nổ nhạy trên khung.}
+{151}{}{Bạn thấy một thùng chứa đã cũ có khóa và bẫy thuốc nổ
+nhạy trên khung.}
+{152}{}{Bạn thấy một thùng chứa đã cũ, nhìn có vẻ như không có khóa
+nhưng có bẫy thuốc nổ nhạy trên khung.}
+{153}{}{Bạn thấy một thùng chứa đã cũ với ổ khóa cũ kĩ, rỉ sét và bẫy
+thuốc nổ nhạy trên khung.}
+{154}{}{Bạn thấy một thùng chứa đã cũ có khóa (có thể dùng cậy khóa
+để mở) và bẫy trên khung.}
+{155}{}{Bạn thấy một thùng chứa đã cũ có khóa và bẫy trên
+khung.}
+{156}{}{Bạn thấy một thùng chứa đã cũ, nhìn có vẻ như không có khóa
+nhưng có bẫy trên khung.}
+{157}{}{Bạn thấy một thùng chứa đã cũ với ổ khóa cũ kĩ, rỉ sét và
+bẫy trên khung.}
+{158}{}{Bạn thấy một thùng chứa đã cũ có khóa (có thể dùng cậy khóa
+để mở) và đoạn dây thép bị cắt trên khung.}
+{159}{}{Bạn thấy một thùng chứa đã cũ có khóa và đoạn dây thép
+bị đứt trên khung.}
+{160}{}{Bạn thấy một thùng chứa đã cũ, nhìn có vẻ như không có khóa
+nhưng có đoạn dây thép bị đứt trên khung.}
+{161}{}{Bạn thấy một thùng chứa đã cũ với ổ khóa cũ kĩ, rỉ sét và đoạn
+dây thép bị cắt trên khung.}
+{162}{}{Bạn thấy một thùng chứa đã cũ có khóa (có thể dùng cậy khóa
+để mở).}
+{163}{}{Bạn thấy một thùng chứa đã cũ có khóa.}
+{164}{}{Bạn thấy một thùng chứa đã cũ, nhìn có vẻ như không có khóa.}
+{165}{}{Bạn thấy một thùng chứa đã cũ với ổ khóa cũ kĩ, rỉ sét.}
 {166}{}{Bạn bị dính bẫy và đã nhận }
 {167}{}{ điểm sát thương.}
 {168}{}{ đã dính bẫy và nhận }
 {169}{}{ điểm sát thương.}
-{170}{}{You deftly pick the lock on the container.}
-{171}{}{Your lack of skill has jammed the lock on this container.}
-{172}{}{You fail to pick the lock on this container.}
-{173}{}{ deftly picks the lock on the container.}
+{170}{}{Bạn khéo léo cậy khóa trên thùng chứa.}
+{171}{}{Kĩ năng kém cỏi của bạn đã làm kẹt khóa trên thùng chứa.}
+{172}{}{Bạn không cậy được khóa trên thùng chứa này.}
+{173}{}{ khéo léo cậy khóa trên thùng chứa.}
 {174}{}{'s lack of skill has jammed the lock on this container.}
 {175}{}{ failed to pick the lock on this container.}
 {176}{}{You bust the lock off the container.}
