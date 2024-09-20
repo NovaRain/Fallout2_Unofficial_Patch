@@ -74,7 +74,7 @@
 {412}{}{Over here!}
 {413}{}{Help! Don't leave us!}
 {414}{}{What was all that shooting?}
-{415}{}{What's going on?}
+{415}{}{Chuyện gì vậy?}
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{Don't stop!}

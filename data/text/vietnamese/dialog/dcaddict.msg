@@ -57,40 +57,40 @@
 {237}{}{Có lẽ nếu mình nhắm mắt lại...}
 {238}{}{Cô ơi, tôi đang lắc dữ lắm.}
 {300}{}{Phải máu không?}
-{301}{}{Whoa! Am I bleeding? I can't feel a thing!}
-{302}{}{It tingles.}
-{303}{}{Who did that?}
-{304}{}{What's going on?}
-{305}{}{I'm bleeding... I think.}
-{306}{}{Oh, the pain.}
-{307}{}{Now I really need a fix.}
-{308}{}{Just let me die.}
-{350}{}{Ahhhh...}
-{351}{}{I'm floating...}
-{352}{}{I have the power!}
-{353}{}{Hello, Mr. Flower.}
-{354}{}{All the colors...}
-{355}{}{More longer friend see that sky?}
-{356}{}{They aren't listening...}
-{357}{}{Where am I?}
-{358}{}{There it is!}
-{359}{}{Whoa, no! Stop! Wait! Okay, go ahead.}
-{360}{}{There, there... ahh...}
-{361}{}{Yea, baby!}
-{362}{}{What was that?}
-{363}{}{Sasha? Where are you Sasha?}
-{364}{}{The colors are fading!}
-{365}{}{Mom?}
-{366}{}{Hey! Get away from me! Oh...}
-{367}{}{Don't you do that!}
-{368}{}{I can't see... again.}
-{369}{}{Need...}
-{370}{}{Get more...}
-{371}{}{There? No.}
-{372}{}{No. Can't find it.}
+{301}{}{Oác! Tôi đang chảy máu à? Chẳng cảm thấy gì hết!}
+{302}{}{Ngứa thế không biết.}
+{303}{}{Ai làm thế?}
+{304}{}{Chuyện gì vậy?}
+{305}{}{Tôi đang chảy máu... chắc vậy.}
+{306}{}{Ôi, niềm đau.}
+{307}{}{Giờ thì ta đúng thật cần một liều.}
+{308}{}{Hãy để tôi chết đi.}
+{350}{}{A a a...}
+{351}{}{Tôi đang trôi...}
+{352}{}{Thần lực đây rồi!}
+{353}{}{Chào, bé Hoa.}
+{354}{}{Rực rỡ quá...}
+{355}{}{Hơn bạn thấy trời ư?}
+{356}{}{Chẳng ai nghe cả...}
+{357}{}{Tôi đang ở đâu?}
+{358}{}{Đây rồi!}
+{359}{}{Ồ, không! Dừng lại! Chờ đã! Okê, làm đi.}
+{360}{}{Đây, đây này... à...}
+{361}{}{Yeah, baby!}
+{362}{}{Cái gì đấy?}
+{363}{}{Sasha? Em đâu rồi Sasha?}
+{364}{}{Màu đang phai mất rồi!}
+{365}{}{Mẹ ơi?}
+{366}{}{Này! Tránh xa tao ra! Ồ...}
+{367}{}{Đừng có làm vậy!}
+{368}{}{Tôi lại... không thấy gì.}
+{369}{}{Cần...}
+{370}{}{Lấy thêm...}
+{371}{}{Đó? Không.}
+{372}{}{Không. Không thể tìm được.}
 {373}{}{Make it stop!}
 {374}{}{Ug.}
-{375}{}{Oh, the pain.}
+{375}{}{Ôi, niềm đau.}
 {376}{}{<cough> <cough> <cough>}
 {377}{}{Ooh, my head!}
 {378}{}{Where'd I put my stash?}

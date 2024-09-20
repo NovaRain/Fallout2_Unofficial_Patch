@@ -1273,7 +1273,7 @@
 {3165}{}{Too slow!}
 {3166}{}{OK, let's try that at full speed now.}
 {3167}{}{Were you actually aiming at me?}
-{3168}{}{What was that?}
+{3168}{}{Cái gì đấy?}
 {3169}{}{This is not a charade.}
 {3170}{}{Combat requires total concentration.}
 {3171}{}{Shame that your first time is gonna be your last too.}
@@ -1657,7 +1657,7 @@
 {14049}{}{Leave the earthman to me! Always wanted to say that.}
 {14060}{}{Hah, you clumsy biped!}
 {14061}{}{Off balance again!}
-{14062}{}{What was that?}
+{14062}{}{Cái gì đấy?}
 {14063}{}{This is not a charade!}
 {14064}{}{What? You again?}
 {14065}{}{Were you really trying? How sad.}
@@ -2955,7 +2955,7 @@
 {41369}{}{Swing, batta, batta. Swing!}
 {41370}{}{This old ghoul's more spry than you bargained for huh?}
 {41371}{}{You sure *talk* tough.}
-{41372}{}{What was that?}
+{41372}{}{Cái gì đấy?}
 {41373}{}{Dis is not a chawade.}
 {41374}{}{Dis wequires toto concentwation.}
 {41375}{}{You can do better than *that*.}
