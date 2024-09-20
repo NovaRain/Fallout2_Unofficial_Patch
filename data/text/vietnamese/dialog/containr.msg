@@ -3,12 +3,12 @@
 {102}{}{Bạn thấy một chiếc thùng chắc chắn có khóa (có thể dùng 
 cậy khóa để mở) và bẫy thuốc nổ nhạy trên khung, mà bạn 
 có thể thử cậy mở.}
-{103}{}{You see a sturdy container with a lock on it and a highly
- explosive trap in the frame, which you may be able to
- pry open.}
-{104}{}{You see a sturdy container with no apparent locking device and
- a highly explosive trap in the frame, which you may be able
- to pry open.}
+{103}{}{Bạn thấy một thùng chứa chắc chắn có khóa 
+và bẫy thuốc nổ nhạy trên khung mà bạn
+có thể thử cạy mở.}
+{104}{}{Bạn thấy một thùng chứa chắc chắn. Nhìn có vẻ như không có khóa
+nhưng có bẫy thuốc nổ nhạy trên khung mà bạn có thể thử
+cạy mở.}
 {105}{}{You see a sturdy container with an old, rusty lock and a highly
  explosive trap in the frame, which you may be able to pry
  open.}
