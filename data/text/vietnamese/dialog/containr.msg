@@ -134,16 +134,16 @@ dây thép bị cắt trên khung.}
 {171}{}{Kĩ năng kém cỏi của bạn đã làm kẹt khóa trên thùng chứa.}
 {172}{}{Bạn không cậy được khóa trên thùng chứa này.}
 {173}{}{ khéo léo cậy khóa trên thùng chứa.}
-{174}{}{'s lack of skill has jammed the lock on this container.}
-{175}{}{ failed to pick the lock on this container.}
-{176}{}{You bust the lock off the container.}
+{174}{}{do thiếu kĩ năng đã làm kẹt khóa trên thùng chứa này.}
+{175}{}{ đã không cậy được khóa trên thùng chứa này.}
+{176}{}{Bạn đã phá khóa khỏi thùng chứa.}
 {177}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
 nhận một điểm sát thương.}
 {178}{}{Bạn bị căng cơ lưng khi cố gắng phá khóa và
 nhận }
 {179}{}{ điểm sát thương.}
 {180}{}{Bạn quá yếu để có thể phá khóa.}
-{181}{}{ busts the lock off the container.}
+{181}{}{ đã phá khóa khỏi thùng chứa.}
 {182}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận một
  điểm sát thương.}
 {183}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận }
@@ -153,34 +153,34 @@ nhận }
  điểm sát thương.}
 {187}{}{ bị căng cơ lưng khi cố gắng phá khóa và nhận}
 {188}{}{ điểm sát thương.}
-{189}{}{You deftly lock the container.}
-{190}{}{You fail to lock the container.}
-{191}{}{ deftly locks the container.}
-{192}{}{ failed to lock the container.}
-{193}{}{The explosives don't even put a scratch on the container.}
-{194}{}{You find a trap on the container.}
-{195}{}{You fail to find any traps on the container.}
+{189}{}{Bạn khéo léo khóa thùng chứa.}
+{190}{}{Bạn không khóa được thùng chứa.}
+{191}{}{ khéo léo khóa thùng chứa.}
+{192}{}{ đã không khóa được thùng chứa.}
+{193}{}{Thuốc nổ thậm chí còn chẳng làm xước nổi thùng chứa.}
+{194}{}{Bạn tìm thấy bẫy trên thùng chứa.}
+{195}{}{Bạn không tìm thấy cái bẫy nào trên thùng chứa.}
 {196}{}{Bạn khéo léo vô hiệu hóa bẫy.}
 {198}{}{Bạn không vô hiệu hóa được bẫy.}
-{199}{}{ finds a trap on the container.}
-{200}{}{ fails to find any traps on the container.}
+{199}{}{ tìm thấy bẫy trên thùng chứa.}
+{200}{}{ không tìm thấy cái bẫy nào trên thùng chứa.}
 {201}{}{ khéo léo vô hiệu hóa bẫy.}
 {202}{}{ không vô hiệu hóa được bẫy.}
-{203}{}{The container appears to be locked.}
-{204}{}{You notice a trap on the container.}
-{205}{}{ notices a trap on the container jamb.}
-{206}{}{You are unable to place a trap on this container, because
- the container is open.}
-{207}{}{ is unable to place a trap on this container, because the
- container is open.}
-{208}{}{You skillfully set a trap in the container.}
-{209}{}{You fail to properly set the trap in the container.}
-{210}{}{ skillfully sets a trap on the container.}
-{211}{}{ fails to properly set the trap in the container.}
-{212}{}{You see a refrigerator.}
-{400}{}{You unlock the container.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{203}{}{Thùng chứa có vẻ như đã bị khóa.}
+{204}{}{Bạn nhận thấy có bẫy trên thùng chứa.}
+{205}{}{ nhận thấy có bẫy trên khung thùng chứa.}
+{206}{}{Bạn không đặt được bẫy trên thùng chứa, vì thùng chứa
+đang mở.}
+{207}{}{ không đặt được bẫy trên thùng chứa, vì thùng chứa
+đang mở.}
+{208}{}{Bạn khéo léo đặt bẫy trên thùng chứa.}
+{209}{}{Bạn không đặt được bẫy đúng cách trên thùng chứa.}
+{210}{}{ khéo léo đặt bẫy trên thùng chứa.}
+{211}{}{ không đặt được bẫy đúng cách trên thùng chứa.}
+{212}{}{Bạn thấy một cái tủ lạnh.}
+{400}{}{Bạn mở khóa thùng chứa.}
+{601}{}{Đang mở rồi, đồ ngốc.}
+{610}{}{Bạn thất bại thảm hại và thuốc nổ phát nổ sớm.}
+{611}{}{ thất bại thảm hại và thuốc nổ phát nổ sớm.}
+{620}{}{Bạn bẻ cong cây xà beng đến mức không sửa nổi nữa. Vứt đi thôi.}
+{621}{}{ bẻ cong cây xà beng đến mức không sửa nổi nữa. Vứt đi thôi.}

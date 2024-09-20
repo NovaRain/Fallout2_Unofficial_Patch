@@ -109,7 +109,7 @@
 {1108}{}{Do smathed by teef out!}
 {1109}{}{Hey, I part my hair on the *other* side.}
 {1110}{}{Hah, at least you didn't hit anything important.}
-{1111}{}{Oooh, my head.}
+{1111}{}{Ồ ôi, cái đầu tôi.}
 {1112}{}{I feel kinda dizzy.}
 {1113}{}{Aggghhh! My arm!}
 {1114}{}{My arm!}
@@ -693,7 +693,7 @@
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
 {2002}{}{Please stop!}
-{2003}{}{Help!}
+{2003}{}{Cứu với!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2006}{}{Somebody help meeeee!}

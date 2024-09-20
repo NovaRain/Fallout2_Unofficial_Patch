@@ -423,7 +423,7 @@
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
 {2002}{}{Please stop!}
-{2003}{}{Help!}
+{2003}{}{Cứu với!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2020}{}{Hmm, uh, stop!}
