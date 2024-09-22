@@ -19,4 +19,4 @@
 {118}{}{Förlåt att jag besvärar dig, Herregud!}
 {119}{}{A GECK? Well, that's old history, so what the hell. You mean the old Garden of Eden Kit. We had one - I mean our grandparents had one. Used it when they came out of Vault 15. Got this place started, they say. It's all used up now.}
 {120}{}{Jag är fortfarande hungrig.}
-{121}{}{Well, thanks for not much.}
+{121}{}{Tack för inte så mycket.}
