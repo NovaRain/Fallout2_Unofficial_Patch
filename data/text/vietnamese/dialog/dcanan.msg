@@ -22,16 +22,16 @@
 {121}{}{Tiến lên đi!}
 {127}{}{Hôm nay, trong căn phòng này, ta có thứ này, chỉ mình ngươi được thấy... Xác ướp Ai Cập Jan-ướp-rượu!}
 {128}{}{Xác ướp à?}
-{129}{}{A mummy? Hmm, I wonder if it could be.... No, nobody could be that stupid.}
-{130}{}{I don't have any interest in that sort of thing. Corpses scare me.}
-{131}{}{Out of the way, you're blocking paying customers.}
-{132}{}{I don't think this is for you.}
-{133}{}{Why don't you take your little tribal self elsewhere.}
-{134}{}{This isn't really for you.}
-{135}{}{I see, hmmm, how about GO (he points) AWAY!}
-{136}{}{For a person of your obvious class I would be happy to show this unique, and historic, specimen to you for a mere $25.}
-{137}{}{OK, I'll cough up the dough. Now... Show Me The Mummy!}
-{138}{}{I don't want to spend that much. I think I'll survive without seeing the thing. Goodbye.}
+{129}{}{Xác ướp à? Hừm, không biết có phải... Không, làm gì có ai ngốc đến thế.}
+{130}{}{Tôi không quan tâm đến mấy thứ đó. Xác chết kinh bỏ xừ.}
+{131}{}{Tránh đường, ngươi đang cản lối khách trả tiền đấy.}
+{132}{}{Ta không nghĩ thứ này hợp với ngươi.}
+{133}{}{Sao ngươi không lê cái thân toọc đi chỗ khác đi.}
+{134}{}{Thứ này không hợp với ngươi.}
+{135}{}{Hiểu rồi. Hừm, vậy thì BIẾN (ông ta chỉ tay) ĐI!}
+{136}{}{Đối với một nhân vật sành sỏi như ngươi, ta rất vui được trưng bày mẫu vật đặc biệt và cổ đại này chỉ với giá 25$.}
+{137}{}{OK, tôi sẽ nôn tiền ra. Giờ thì... Cho xem Xác ướp nào!}
+{138}{}{Tôi không muốn tiêu phí tiền. Tôi chắc là mình không cần nhìn thứ đó. Chào.}
 {139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
 {140}{}{Great.}
 {141}{}{There you go! The MUMMY! (the door to the sarcophagus swings open to reveal a desiccated corpse, that looks very much like an ordinary ghoul, standing in a poorly painted, chipped and cracked paper-mache sarcophagus.)}
