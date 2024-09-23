@@ -41,4 +41,4 @@
 {550}{}{This house is clear.}
 {551}{}{Oog, pretti bones.}
 {560}{}{GHOST BUSTER!}
-{561}{}{Ug.}
+{561}{}{Hực.}

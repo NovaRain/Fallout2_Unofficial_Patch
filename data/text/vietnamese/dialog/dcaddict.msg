@@ -88,19 +88,19 @@
 {370}{}{Lấy thêm...}
 {371}{}{Đó? Không.}
 {372}{}{Không. Không thể tìm được.}
-{373}{}{Make it stop!}
-{374}{}{Ug.}
+{373}{}{Làm nó dừng lại đi!}
+{374}{}{Hực.}
 {375}{}{Ôi, niềm đau.}
-{376}{}{<cough> <cough> <cough>}
-{377}{}{Ooh, my head!}
-{378}{}{Where'd I put my stash?}
-{400}{}{A demon!}
-{401}{}{The enemy is upon us!}
-{402}{}{You murderer! You killed my son!}
-{403}{}{A monster! Kill it!}
-{404}{}{Ah! Pargasraka!}
-{405}{}{Feet fom chin rat going! Ahhh!}
-{406}{}{You won't take it from me!}
-{407}{}{Give it back!}
-{408}{}{No!!!}
-{409}{}{My family!}
+{376}{}{<khụ><khụ><khụ>}
+{377}{}{Ôi, cái đầu tôi!}
+{378}{}{Mình để đồ chỗ nào ấy nhỉ?}
+{400}{}{Đồ quỷ!}
+{401}{}{Kẻ thù đến rồi!}
+{402}{}{Đồ sát nhân! Mày đã giết con trai tao!}
+{403}{}{Có quỷ! Giết nó đi!}
+{404}{}{Á! Pargasraka!}
+{405}{}{Chuột tòi cả chân lên đầu! Á Á!}
+{406}{}{Mày không lấy được nó đi đâu!}
+{407}{}{Trả lại đây!}
+{408}{}{Không!!!}
+{409}{}{Gia đình tôi!}

@@ -6,7 +6,7 @@
 {105}{}{Beer [$15]}
 {106}{}{Booze [$30]}
 {107}{}{Nothing today. Thanks.}
-{108}{}{Ug.}
+{108}{}{Hực.}
 {109}{}{Ohhhh... that ain't no fun ta drinks. [He hands you your drink.]}
 {110}{}{[End]}
 {111}{}{Here ya goes. It's a bit warm cuz it hasn't had time to cool. Sellen' the stuff faster than I
@@ -26,7 +26,7 @@
 {124}{}{Buffout [$400]}
 {125}{}{Psycho [$800]}
 {126}{}{Nothing today. Thanks.}
-{127}{}{Ug.}
+{127}{}{Hực.}
 {128}{}{Thatsgreat! Givemethemoneyandgetoutofhere. Igotabusinesstorun.}
 {129}{}{[End]}
 {130}{}{Likethesayinggoes. Nomoneynohoney. Oh. Thatsforsex. Howaboutnodoughnoblow.

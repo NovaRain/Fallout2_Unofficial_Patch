@@ -203,7 +203,7 @@
 {553}{}{I'll do better next time.}
 {554}{}{Thanks for nothing.}
 {555}{}{Cám ơn.}
-{556}{}{Ug.}
+{556}{}{Hực.}
 {570}{}{Damn bitch, was that your first time? There's no way that was not your first time.}
 {571}{}{Damn girl, was that your first time?}
 {572}{}{Pretty good, I guess.}
