@@ -258,7 +258,7 @@
 {741}{}{Bring it on!}
 {742}{}{I'm not getting out of this am I?}
 {750}{}{Oh, but this will be fun. Trust me.}
-{751}{}{Fuck you.}
+{751}{}{Fan ta dig.}
 {752}{}{Uh, okay.}
 {800}{}{You've killed the leader of the Slave Guild.}
 {1360}{}{ for her. How about it?}
