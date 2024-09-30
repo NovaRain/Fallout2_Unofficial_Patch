@@ -160,6 +160,7 @@ procedure timed_event_p_proc begin
                floater(2002);
          end
       end
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    //end added by killap
    end else if (fixed_param == param_clear_float) then begin
       float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
@@ -207,7 +208,6 @@ procedure map_enter_p_proc begin
    /*end else */  //  -comment out by killap
    //if (Miria_In_Party == false) then begin
    if not(married_to_miria) then begin // edit by killap - party check doesn't always work when map loads
-
       if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
          if (map_first_run) then
             set_local_var(LVAR_Home_Tile, self_tile); //added by killap - moved from above
@@ -216,7 +216,7 @@ procedure map_enter_p_proc begin
    end
 
    //added by killap
-   add_timer_event(self_obj, random(25, 40), 900);
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 procedure critter_p_proc begin

@@ -51,6 +51,7 @@ procedure description_p_proc;
 procedure use_skill_on_p_proc;
 procedure damage_p_proc;
 procedure map_enter_p_proc;
+procedure timed_event_p_proc;
 procedure map_update_p_proc;
 procedure push_p_proc;
 
@@ -225,7 +226,7 @@ procedure Node1100;
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
-variable Charisma_Roll;
+//variable Charisma_Roll; --comment out by killap - never used
 variable luk_check;
 variable k;
 
@@ -247,13 +248,12 @@ procedure map_enter_p_proc begin
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_SULIK_DEFENSIVE);
    end
 
-    //added by killap
-    add_timer_event(self_obj, random(25, 40), 900);
+   //added by killap
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 //added by killap
 procedure timed_event_p_proc begin
-
    if (fixed_param == 900) then begin
       if( ( not( combat_is_initialized ) ) and ( self_visible ) ) then begin
          if( Sulik_Ptr != 0 ) then begin
@@ -265,8 +265,8 @@ procedure timed_event_p_proc begin
                floater(3502);
          end
       end
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    end
-
 end
 //end added
 
@@ -303,7 +303,6 @@ end
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-
 /* If the critter is mad at the player for any reason, it will attack and remember to attack
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
@@ -377,8 +376,6 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-
-
    GetReaction;
 
    find_party_background;

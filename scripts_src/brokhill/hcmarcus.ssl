@@ -263,8 +263,7 @@ procedure map_enter_p_proc begin
 
    if (Marcus_In_Party) then begin
       Perform_Critter_Float := 1;
-      //rm_timer_event( self_obj ); - comment out by killap
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
+      flush_add_timer_event_sec(self_obj, random(40, 50), 1);
    end
    else begin
       Perform_Critter_Float := 0;
@@ -310,7 +309,7 @@ procedure timed_event_p_proc begin
                call Node2015;
          end
       end
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
+      flush_add_timer_event_sec(self_obj, random(60, 90), 1); //edit by killap - was (40,50)
    end
 end
 

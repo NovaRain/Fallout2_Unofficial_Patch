@@ -450,7 +450,7 @@ procedure timed_event_p_proc begin
          end
       end
    end
-   nr_add_timer_event_rand(self_obj, 25, 45, float_param);
+   nr_add_timer_event_rand(self_obj, 60, 90, float_param); //edit by killap - was (25,45)
 end
 
 procedure map_update_p_proc begin
