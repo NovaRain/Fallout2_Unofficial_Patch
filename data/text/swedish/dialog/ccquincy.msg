@@ -1,11 +1,11 @@
-{100}{}{You see a man in a military uniform.}
-{101}{}{You see Quincy, the mechanic.}
-{102}{}{You see a man in a military uniform. Judging by the grease spots you think
- he is more of a mechanic than a soldier.}
-{103}{}{Name's Quincy, soldier. Why are you tapping my shoulder and looking lost?}
-{104}{}{Me need ask you something.}
+{100}{}{Du ser en man i militäruniform.}
+{101}{}{Du ser Quincy, mekanikern.}
+{102}{}{Du ser en man i militäruniform. Att döma av fettfläckarna tror du
+ att han är mer av en mekaniker än en soldat.}
+{103}{}{Namnet är Quincy, soldat. Varför knackar du på min axel och ser vilsen ut?}
+{104}{}{Jag fråga dig en sak.}
 {105}{}{Ingenting.}
-{106}{}{Hi. I need to ask you something.}
+{106}{}{Hej. Jag måste fråga dig en sak.}
 {107}{}{Never mind.}
 {108}{}{All right, but make it quick. I have inventory to do.}
 {109}{}{What do you need to know?}
