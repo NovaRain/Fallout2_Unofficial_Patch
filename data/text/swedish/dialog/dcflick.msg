@@ -1,12 +1,12 @@
-{100}{}{You see a thin, greasy looking, man.}
-{150}{}{You see Flick, giving his groin a thorough scratching.}
-{151}{}{You see an unclean fellow with a nasty facial-twitch.}
-{200}{}{Get outta heeya, you dumb-ass.}
-{201}{}{Hey meatball! Yeah, you. Get outta heeya.}
-{202}{}{You dumb or sumpin'?}
+{100}{}{Du ser en tunn, oljig man.}
+{150}{}{Du ser Flick, som kliar sig ordentligt i skrevet.}
+{151}{}{Du ser en oren man med en otäck ansiktsryckning.}
+{200}{}{Draa hääifrån, din idiot.}
+{201}{}{Hörru, köttbullen! Ja, du. Draa hääirån.}
+{202}{}{Är du dum elle'?}
 {203}{}{Whatchur problem, eh?}
-{204}{}{Get the hell outta heeya.}
-{220}{}{Hey der, I'm Flick. What the fuck do you want, huh?}
+{204}{}{Draa hääifrån, fö' i helvette}
+{220}{}{Hallå dä', jag ä' Flick. Vad i helvete vill du, va?}
 {221}{}{Now what? You wastin' my time heeya.}
 {222}{}{What's with the wacky accent, Flick?}
 {223}{}{What the hell do you do here?}
@@ -19,22 +19,22 @@
 {260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
 {261}{}{Say what?}
 {262}{}{Yeah, uh, well... let me ask you something else.}
-{263}{}{Uh, oh. OK. Goodbye, Flick.}
+{263}{}{Eh, åh. OK, Hej då, Flick.}
 {280}{}{I provide fer them little paisanos.}
 {281}{}{You provide little pianos?}
 {290}{}{Pai-san-o, you know, the kids. My kids.}
-{291}{}{Your kids?}
-{292}{}{Well, I'm not really interested in music lessons for children. Let me ask you about something else.}
-{300}{}{Yeah, well they work for me. They bring me things. Little things. You know.}
+{291}{}{Dina barn?}
+{292}{}{Jag är inte riktigt intresserad av musiklektioner för barn. Låt mig fråga dig om något annat.}
+{300}{}{Ja, de jobbar för mig. De ger mig saker. Små saker. Du vet.}
 {301}{}{Uh, no.}
-{302}{}{Oh, OK. Let me ask you something else then.}
-{303}{}{Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.}
+{302}{}{Åh, okej. Låt mig fråga dig något annat då.}
+{303}{}{Jaha, jag förstår. Jag vill inte störa din, eh, stil. Hej då.}
 {315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
-{316}{}{Sounds like a nice arrangement.}
-{325}{}{(Flick shrugs) I get by OK.}
-{326}{}{Let me ask you about something else then.}
-{327}{}{They must have brought you some real bargains. Let's see what you've got.}
-{328}{}{Just checking. Well, goodbye Flick.}
+{316}{}{Låter som ett trevligt arrangemang.}
+{325}{}{(Flick rycker på axlarna) Jag klarar mig bra.}
+{326}{}{Låt mig fråga dig om något annat då.}
+{327}{}{De måste ha gett dig några riktiga fynd. Låt mig se vad du har.}
+{328}{}{Jag kollar bara. Hej då, Flick.}
 {340}{}{What you talkin' about? You think I'm a fucking stupid pirla? Some dumb filio di puttana? You think I'm some kinda clown? Am I here to amuse you, is that it?}
 {341}{}{Uh, no. Sorry, I was just curious. Let me ask you about something else.}
 {342}{}{Yeah, that's right, shithead. And nothing's going to amuse me more than your death-throes.}
