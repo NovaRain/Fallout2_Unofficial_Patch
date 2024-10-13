@@ -26,40 +26,40 @@
 {207}{}{Du möter en karavan.}
 {208}{}{Du möter en karavan.}
 {209}{}{Du möter en karavan.}
-{250}{}{You encounter marauders.}
+{250}{}{Du möter marodörer.}
 {251}{}{Du möter vargar.}
 {252}{}{You encounter radscorpions.}
-{253}{}{You encounter a caravan fending off marauders.}
-{254}{}{You encounter a caravan fending off marauders.}
-{255}{}{You encounter a caravan fending off wolves.}
+{253}{}{Du möter en karavan som försvarar sig mot marodörer.}
+{254}{}{Du möter en karavan som försvarar sig mot marodörer.}
+{255}{}{Du möter en karavan som försvarar sig mot vargar.}
 {256}{}{You encounter a caravan fending off radscorpions.}
 {257}{}{Du möter en karavan.}
 {258}{}{Du möter en karavan.}
 {259}{}{Du möter en karavan.}
 {260}{}{Du möter en karavan.}
-{261}{}{You encounter a traveler.}
-{300}{}{You encounter remnants of the Master's army.}
-{301}{}{You encounter marauders.}
+{261}{}{Du möter en resenär.}
+{300}{}{Du möter rester av Mästarens armé.}
+{301}{}{Du möter marodörer.}
 {302}{}{You encounter NCR Rangers battling remnants of the Master's army.}
 {303}{}{You encounter NCR Rangers fighting marauders.}
-{304}{}{You encounter farmers fending off remnants of the Master's army.}
-{305}{}{You encounter farmers fending off marauders.}
+{304}{}{Du möter bönder som försvarar sig mot rester av Mästarens armé.}
+{305}{}{Du möter bönder som försvarar sig mot marodörer.}
 {306}{}{You encounter NCR Rangers.}
-{307}{}{You encounter farmers.}
-{350}{}{You encounter a slaver caravan.}
+{307}{}{Du möter bönder.}
+{350}{}{Du möter en slavhandlarkaravan.}
 {351}{}{You encounter highwaymen and robbers.}
 {352}{}{You encounter highwaymen.}
-{353}{}{You encounter robbers.}
+{353}{}{Du möter rånare.}
 {354}{}{You encounter a caravan fending off highwaymen.}
-{355}{}{You encounter a caravan fighting robbers.}
+{355}{}{Du möter en karavan som slåss mot rånare.}
 {356}{}{You encounter a caravan fighting highwaymen.}
-{357}{}{You encounter a caravan besieged by robbers.}
-{358}{}{You encounter a slave caravan fighting a caravan.}
+{357}{}{Du möter en karavan belägrad av rånare.}
+{358}{}{Du möter en slavkaravan som slåss mot en karavan.}
 {359}{}{You encounter highwaymen fighting robbers.}
 {360}{}{Du möter en karavan.}
 {361}{}{Du möter en karavan.}
 {400}{}{You encounter highwaymen.}
-{401}{}{You encounter robbers.}
+{401}{}{Du möter rånare.}
 {402}{}{You encounter robbers and highwaymen.}
 {403}{}{You encounter golden geckos and radscorpions.}
 {404}{}{Du möter gyllene geckoödlor.}
@@ -84,7 +84,7 @@
 {459}{}{Du möter en karavan.}
 {500}{}{You encounter highwaymen and wild dogs.}
 {501}{}{You encounter robbers and wild dogs.}
-{502}{}{You encounter robbers.}
+{502}{}{Du möter rånare.}
 {503}{}{You encounter highwaymen.}
 {504}{}{You encounter a swarm of mantis and some spore plants.}
 {505}{}{You encounter dogs and spore plants.}
@@ -132,7 +132,7 @@
 {703}{}{You encounter some mobsters fighting some Yakuza.}
 {704}{}{Du möter några gangstrar som slåss mot ett gäng.}
 {705}{}{Du möter några gangstrar.}
-{706}{}{You encounter a traveler.}
+{706}{}{Du möter en resenär.}
 {750}{}{Du stöter på en karavan som driver bort resterna av Mästarens armé.}
 {751}{}{Du möter en karavan som slåss mot rester av mästarens armé.}
 {752}{}{Du möter en karavan som strider mot dödsklor.}
