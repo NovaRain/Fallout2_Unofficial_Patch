@@ -83,15 +83,15 @@
 {458}{}{You encounter some highwaymen weeding out some spore plants.}
 {459}{}{Du möter en karavan.}
 {500}{}{You encounter highwaymen and wild dogs.}
-{501}{}{You encounter robbers and wild dogs.}
+{501}{}{Du möter rånare och vilda hundar.}
 {502}{}{Du möter rånare.}
 {503}{}{You encounter highwaymen.}
-{504}{}{You encounter a swarm of mantis and some spore plants.}
-{505}{}{You encounter dogs and spore plants.}
-{506}{}{You encounter a swarm of mantis.}
+{504}{}{Du möter en svärm med bönsyrsor och några sporväxter.}
+{505}{}{Du möter hundar och sporväxter.}
+{506}{}{Du möter en svärm med bönsyrsor.}
 {507}{}{Du möter vilda hundar.}
-{508}{}{You encounter robbers fighting dogs.}
-{509}{}{You encounter a caravan fending off dogs.}
+{508}{}{Du möter rånare som slåss mot hundar.}
+{509}{}{Du möter en karavan som försvarar sig mot hundar.}
 {510}{}{You encounter a caravan fending off robbers.}
 {511}{}{You encounter a caravan fending off highwaymen.}
 {512}{}{Du möter en karavan.}
@@ -107,7 +107,7 @@
 {559}{}{Du möter förfalskare.}
 {560}{}{Du möter jägare.}
 {561}{}{Du möter prospektörer.}
-{600}{}{You encounter deathclaws.}
+{600}{}{Du möter dödsklor.}
 {601}{}{Du möter eldsprutande geckoödlor.}
 {602}{}{Du möter en karavan som flyr från dödsklor.}
 {603}{}{Du möter en karavan som strider mot dödsklor.}
@@ -121,7 +121,7 @@
 {651}{}{Man möter kentaurer och svävare.}
 {652}{}{Du möter eldsprutande geckoödlor.}
 {653}{}{Du möter utomjordingar.}
-{654}{}{You encounter deathclaws.}
+{654}{}{Du möter dödsklor.}
 {655}{}{Du möter eldsprutande geckoödlor.}
 {656}{}{Du möter utomjordingar.}
 {657}{}{Du möter kentaurer.}
@@ -129,7 +129,7 @@
 {700}{}{Du möter några Yakuza-medlemmar.}
 {701}{}{Du möter ett gäng.}
 {702}{}{Du möter några vargar.}
-{703}{}{You encounter some mobsters fighting some Yakuza.}
+{703}{}{Du möter några gangstrar som slåss mot några Yakuza.}
 {704}{}{Du möter några gangstrar som slåss mot ett gäng.}
 {705}{}{Du möter några gangstrar.}
 {706}{}{Du möter en resenär.}
