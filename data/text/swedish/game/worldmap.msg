@@ -1384,7 +1384,7 @@
 {5665}{}{Some mobsters fighting some yakuza.}
 {5666}{}{Some mobsters fighting a gang.}
 {5667}{}{Some mobsters.}
-{5668}{}{A traveler.}
+{5668}{}{En resenär.}
 {5669}{}{The remains of a whale.}
 {5670}{}{A giant stone head.}
 {5671}{}{A crashed shuttle.}
@@ -1408,7 +1408,7 @@
 {5712}{}{A band of ruffians led by a Morton Brother.}
 {5713}{}{Some mobsters fighting a gang.}
 {5714}{}{Some mobsters.}
-{5715}{}{A traveler.}
+{5715}{}{En resenär.}
 {5716}{}{A man guarding a bridge.}
 {5717}{}{King Arthur's Knights fighting a rat.}
 {5750}{}{Some yakuza.}
@@ -1426,11 +1426,11 @@
 {5762}{}{A band of ruffians led by a Morton Brother.}
 {5763}{}{Some mobsters fighting a gang.}
 {5764}{}{Some mobsters.}
-{5765}{}{A traveler.}
+{5765}{}{En resenär.}
 {5800}{}{Toxic waste dump.}
 {5801}{}{A lone surviving dog.}
 {5802}{}{A herd of brahmin.}
-{5803}{}{A band of rogues and some wolves.}
+{5803}{}{Ett band av skurkar och några vargar.}
 {5804}{}{Some bounty hunters.}
 {5805}{}{Some bounty hunters.}
 {5806}{}{Some bounty hunters.}
@@ -1440,13 +1440,13 @@
 {5810}{}{Some bounty hunters.}
 {5811}{}{Some bounty hunters.}
 {5812}{}{A band of ruffians led by a Morton Brother.}
-{5813}{}{A band of rogues.}
+{5813}{}{Ett band av skurkar.}
 {5814}{}{A pack of wolves.}
 {5815}{}{A pack of radscorpions.}
-{5816}{}{A forest of spore plants.}
-{5817}{}{A Unity patrol fighting some rogues.}
-{5818}{}{A Unity patrol fighting some wolves.}
-{5819}{}{A Unity patrol.}
+{5816}{}{En skog av sporväxter.}
+{5817}{}{En Enighetspatrull som slåss mot några skurkar.}
+{5818}{}{En Enighetspatrull som slåss mot några vargar.}
+{5819}{}{En Enighetspatrull.}
 {5820}{}{The remains of a whale.}
 {5821}{}{A giant stone head.}
 {5822}{}{A crashed shuttle.}
@@ -1454,8 +1454,8 @@
 {5824}{}{King Arthur's Knights.}
 {5825}{}{A tin woodsman.}
 {5826}{}{The Unwashed Villagers hunting a spammer.}
-{5850}{}{A band of rogues and some wolves.}
-{5851}{}{A band of rogues.}
+{5850}{}{Ett band av skurkar och några vargar.}
+{5851}{}{Ett band av skurkar.}
 {5852}{}{A pack of wolves.}
 {5853}{}{A pack of radscorpions.}
 {5854}{}{Some bounty hunters.}
@@ -1467,16 +1467,16 @@
 {5860}{}{Some bounty hunters.}
 {5861}{}{Some bounty hunters.}
 {5862}{}{A band of ruffians led by a Morton Brother.}
-{5863}{}{A forest of spore plants.}
-{5864}{}{A Unity patrol fighting some rogues.}
-{5865}{}{A Unity patrol fighting some wolves.}
-{5866}{}{A Unity patrol.}
+{5863}{}{En skog av sporväxter.}
+{5864}{}{En Enighetspatrull som slåss mot några skurkar.}
+{5865}{}{En Enighetspatrull som slåss mot några vargar.}
+{5866}{}{En Enighetspatrull.}
 {5867}{}{A man guarding a bridge.}
 {5868}{}{King Arthur's Knights fighting a rat.}
-{5900}{}{A band of mercenaries.}
+{5900}{}{Ett band av legosoldater.}
 {5901}{}{A press gang.}
-{5902}{}{A herd of deathclaws.}
-{5903}{}{A batch of fire geckos.}
+{5902}{}{En flock dödsklor.}
+{5903}{}{Ett parti eldsprutande geckoödlor.}
 {5904}{}{Some bounty hunters.}
 {5905}{}{Some bounty hunters.}
 {5906}{}{Some bounty hunters.}
@@ -1486,14 +1486,14 @@
 {5910}{}{Some bounty hunters.}
 {5911}{}{Some bounty hunters.}
 {5912}{}{A band of ruffians led by a Morton Brother.}
-{5913}{}{A slew of aliens.}
-{5914}{}{Hubologists fighting mercenaries.}
+{5913}{}{En massa utomjordingar.}
+{5914}{}{Hubologister som slåss mot legosoldater.}
 {5915}{}{Hubologists fending off a press gang.}
-{5916}{}{Hubologists.}
-{5950}{}{A band of mercenaries.}
+{5916}{}{Hubologister.}
+{5950}{}{Ett band av legosoldater.}
 {5951}{}{A press gang.}
-{5952}{}{A herd of deathclaws.}
-{5953}{}{A batch of fire geckos.}
+{5952}{}{En flock dödsklor.}
+{5953}{}{Ett parti eldsprutande geckoödlor.}
 {5954}{}{Some bounty hunters.}
 {5955}{}{Some bounty hunters.}
 {5956}{}{Some bounty hunters.}
@@ -1503,16 +1503,16 @@
 {5960}{}{Some bounty hunters.}
 {5961}{}{Some bounty hunters.}
 {5962}{}{A band of ruffians led by a Morton Brother.}
-{5963}{}{A slew of aliens.}
-{5964}{}{Hubologists fighting mercenaries.}
+{5963}{}{En massa utomjordingar.}
+{5964}{}{Hubologister som slåss mot legosoldater.}
 {5965}{}{Hubologists fending off a press gang.}
-{5966}{}{Hubologists.}
+{5966}{}{Hubologister.}
 {5967}{}{A man guarding a bridge.}
 {5968}{}{King Arthur's Knights fighting a rat.}
-{6000}{}{A band of mercenaries.}
+{6000}{}{Ett band av legosoldater.}
 {6001}{}{A press gang.}
-{6002}{}{A herd of deathclaws.}
-{6003}{}{A batch of fire geckos.}
+{6002}{}{En flock dödsklor.}
+{6003}{}{Ett parti eldsprutande geckoödlor.}
 {6004}{}{Some bounty hunters.}
 {6005}{}{Some bounty hunters.}
 {6006}{}{Some bounty hunters.}
@@ -1522,14 +1522,14 @@
 {6010}{}{Some bounty hunters.}
 {6011}{}{Some bounty hunters.}
 {6012}{}{A band of ruffians led by a Morton Brother.}
-{6013}{}{A slew of aliens.}
-{6014}{}{Hubologists fighting mercenaries.}
+{6013}{}{En massa utomjordingar.}
+{6014}{}{Hubologister som slåss mot legosoldater.}
 {6015}{}{Hubologists fending off a press gang.}
-{6016}{}{Hubologists.}
+{6016}{}{Hubologister.}
 {6050}{}{Toxic waste dump.}
 {6051}{}{A lone surviving dog.}
 {6052}{}{A herd of brahmin.}
-{6053}{}{A band of mercenaries.}
+{6053}{}{Ett band av legosoldater.}
 {6054}{}{Some bounty hunters.}
 {6055}{}{Some bounty hunters.}
 {6056}{}{Some bounty hunters.}
@@ -1540,12 +1540,12 @@
 {6061}{}{Some bounty hunters.}
 {6062}{}{A band of ruffians led by a Morton Brother.}
 {6063}{}{A press gang.}
-{6064}{}{A herd of deathclaws.}
-{6065}{}{A batch of fire geckos.}
-{6066}{}{A slew of aliens.}
-{6067}{}{Hubologists fighting mercenaries.}
+{6064}{}{En flock dödsklor.}
+{6065}{}{Ett parti eldsprutande geckoödlor.}
+{6066}{}{En massa utomjordingar.}
+{6067}{}{Hubologister som slåss mot legosoldater.}
 {6068}{}{Hubologists fending off a press gang.}
-{6069}{}{Hubologists.}
+{6069}{}{Hubologister.}
 {6070}{}{The remains of a whale.}
 {6071}{}{A giant stone head.}
 {6072}{}{A crashed shuttle.}
@@ -1557,7 +1557,7 @@
 {6100}{}{Toxic waste dump.}
 {6101}{}{A lone surviving dog.}
 {6102}{}{A herd of brahmin.}
-{6103}{}{A band of mercenaries.}
+{6103}{}{Ett band av legosoldater.}
 {6104}{}{Some bounty hunters.}
 {6105}{}{Some bounty hunters.}
 {6106}{}{Some bounty hunters.}
@@ -1569,7 +1569,7 @@
 {6112}{}{A band of ruffians led by a Morton Brother.}
 {6113}{}{A pack of deathclaws.}
 {6114}{}{A pack of fire geckos.}
-{6115}{}{A slew of aliens.}
+{6115}{}{En massa utomjordingar.}
 {6116}{}{A caravan fending off mercenaries.}
 {6117}{}{A caravan fending off mercenaries.}
 {6118}{}{A caravan fending off fire geckos.}
@@ -1584,10 +1584,10 @@
 {6127}{}{A tin woodsman.}
 {6128}{}{The Unwashed Villagers hunting a spammer.}
 {6129}{}{The Cafe of Broken Dreams.}
-{6150}{}{A band of mercenaries.}
+{6150}{}{Ett band av legosoldater.}
 {6151}{}{A pack of deathclaws.}
 {6152}{}{A pack of fire geckos.}
-{6153}{}{A slew of aliens.}
+{6153}{}{En massa utomjordingar.}
 {6154}{}{Some bounty hunters.}
 {6155}{}{Some bounty hunters.}
 {6156}{}{Some bounty hunters.}
@@ -1745,7 +1745,7 @@
 {6520}{}{A caravan.}
 {6521}{}{A caravan.}
 {6522}{}{A caravan.}
-{6523}{}{A traveler.}
+{6523}{}{En resenär.}
 {6524}{}{The remains of a whale.}
 {6525}{}{A giant stone head.}
 {6526}{}{A crashed shuttle.}
@@ -1774,7 +1774,7 @@
 {6567}{}{A caravan.}
 {6568}{}{A caravan.}
 {6569}{}{A caravan.}
-{6570}{}{A traveler.}
+{6570}{}{En resenär.}
 {6571}{}{A man guarding a bridge.}
 {6572}{}{King Arthur's Knights fighting a rat.}
 {6600}{}{A deteachment of the Master's armies.}
