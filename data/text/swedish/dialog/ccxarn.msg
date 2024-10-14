@@ -75,24 +75,24 @@
 {149}{}{Ja, jag ska göra det.}
 {150}{}{Nej, men jag ska fundera på det.}
 {151}{}{Nej, det tror jag inte.}
-{152}{}{Hello again. Are you ready for our battle?}
+{152}{}{Hej igen. Är du redo för vår strid?}
 {153}{}{No want fight, want hear you story.}
 {154}{}{Me not want fight. Me here rescue you.}
-{155}{}{No. Me go.}
+{155}{}{Nej. Jag gå.}
 {156}{}{Yes. Me ready.}
-{157}{}{I don't really want to fight. Can I hear your story instead?}
-{158}{}{I'm here to rescue you, not fight.}
-{159}{}{No. I'll be leaving now.}
-{160}{}{All right, let's get it over with.}
-{161}{}{Hello again. Have you changed your mind? Will you help me?}
+{157}{}{Jag vill egentligen inte slåss. Kan jag få höra din historia istället?}
+{158}{}{Jag är här för att rädda dig, inte för att slåss.}
+{159}{}{Nej, jag ska gå nu.}
+{160}{}{Okej, låt oss få det överstökat.}
+{161}{}{Hej igen. Har du ändrat dig? Tänker du hjälpa mig?}
 {162}{}{Ja.}
 {163}{}{Nej.}
-{164}{}{Hello again. Have you changed your mind? Will you help me?}
+{164}{}{Hej igen. Har du ändrat dig? Tänker du hjälpa mig?}
 {165}{}{Ja.}
 {166}{}{No. Me still think about it.}
-{167}{}{No. Me not help.}
-{168}{}{No, I'm still thinking.}
-{169}{}{I don't want to help you.}
+{167}{}{Nej. Jag inte hjälpa.}
+{168}{}{Nej, jag tänker fortfarande.}
+{169}{}{Jag vill inte hjälpa dig.}
 {170}{}{Hello again. Have you found the key to the door?}
 {171}{}{Yes, me open for you.}
 {172}{}{Me still look.}

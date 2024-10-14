@@ -1,11 +1,11 @@
-{200}{}{Cavern Entrance}
+{200}{}{Grottingång}
 {201}{}{Entrance}
-{202}{}{Living Quarters}
-{203}{}{Command Center}
-{210}{}{Desert Entrance}
-{211}{}{Caverns/Entrance}
-{212}{}{Living Quarters}
-{213}{}{Command Center}
+{202}{}{Bostadsutrymme}
+{203}{}{Kommandocentral}
+{210}{}{Ökeningång}
+{211}{}{Grottor/Ingång}
+{212}{}{Bostadsutrymme}
+{213}{}{Kommandocentral}
 {220}{}{Entrance}
 {221}{}{Garden}
 {222}{}{Brahmin Pen}
@@ -36,7 +36,7 @@
 {291}{}{Level 1}
 {300}{}{Adytum}
 {301}{}{Downtown}
-{302}{}{Library}
+{302}{}{Bibliotek}
 {303}{}{Fästning}
 {304}{}{Warehouse}
 {310}{}{Entrance}
