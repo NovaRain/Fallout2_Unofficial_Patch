@@ -134,7 +134,7 @@
 {192}{}{Uh, me sorry.}
 {193}{}{Greetings, human. Have you reconsidered? Will you help me?}
 {194}{}{Hell, no. I just wanted to listen to you butcher the language some more.}
-{195}{}{No, I don't think so.}
+{195}{}{Nej, det tror jag inte.}
 {196}{}{Yes, Gruthar. I will help you.}
 {197}{}{Greetings, friend. Have you examined the machine yet?}
 {198}{}{Not yet, but I'll get on it.}

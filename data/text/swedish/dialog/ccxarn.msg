@@ -56,25 +56,25 @@
 {133}{}{Jag är ledsen att höra om hans död men det är för det
  bättre att det är så. Jag skulle vilja be dig att hjälpa mig att fly
  den här platsen. Kan du göra det?}
-{134}{}{Yes, me do.}
+{134}{}{Ja, jag gör.}
 {135}{}{Jag tänka på det.}
-{136}{}{No, me no think so.}
-{137}{}{Yeah, I'll do it.}
-{138}{}{No, but I'll think about it.}
-{139}{}{No, I don't think so.}
-{140}{}{Very well... I will wait here until you come to a decision.}
+{136}{}{Nej, jag inte tro det.}
+{137}{}{Ja, jag ska göra det.}
+{138}{}{Nej, men jag ska fundera på det.}
+{139}{}{Nej, det tror jag inte.}
+{140}{}{Nåväl... Jag väntar här tills du har fattat ett beslut.}
 {141}{}{Färdigt.}
-{142}{}{Very well... I am saddened by your decision but it is
- your choice. If you change your mind, I will be here.}
+{142}{}{Nåväl... Jag är ledsen över ditt beslut men det är
+ ditt val. Om du ändrar dig kommer jag att vara här.}
 {143}{}{Hej då.}
 {144}{}{Farväl.}
-{145}{}{I would ask you to help me escape this place. Will you?}
-{146}{}{Yes, me do.}
+{145}{}{Jag vill be dig att hjälpa mig att fly härifrån. Kan du göra det?}
+{146}{}{Ja, jag gör.}
 {147}{}{Jag tänka på det.}
-{148}{}{No, me no think so.}
-{149}{}{Yeah, I'll do it.}
-{150}{}{No, but I'll think about it.}
-{151}{}{No, I don't think so.}
+{148}{}{Nej, jag inte tro det.}
+{149}{}{Ja, jag ska göra det.}
+{150}{}{Nej, men jag ska fundera på det.}
+{151}{}{Nej, det tror jag inte.}
 {152}{}{Hello again. Are you ready for our battle?}
 {153}{}{No want fight, want hear you story.}
 {154}{}{Me not want fight. Me here rescue you.}
