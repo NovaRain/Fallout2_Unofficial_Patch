@@ -1,39 +1,39 @@
-{100}{}{You see a patron of the Hole.}
-{150}{}{This fellow sure isn't very attractive.}
-{151}{}{This guy's only got one tooth.}
+{100}{}{Bạn thấy một khách của quán Lỗ.}
+{150}{}{Người này rõ ràng là không hấp dẫn lắm.}
+{151}{}{Gã này chỉ còn mỗi một cái răng.}
 {152}{}{[NÓI CHUYỆN]}
-{153}{}{Your wife sure is pretty!}
-{154}{}{Get away from us.}
-{155}{}{You like her, huh?}
-{156}{}{Yes, she is.}
-{157}{}{Yup.}
-{158}{}{I sure would like to do her.}
-{159}{}{Go right ahead.}
-{160}{}{OK. That'll be $50.}
-{161}{}{Sure, but it'll cost you $200.}
-{162}{}{No way! Get away from us!}
+{153}{}{Vợ cậu đẹp đấy!}
+{154}{}{Tránh xa bọn tôi ra.}
+{155}{}{Ông thích cô ta à?}
+{156}{}{Ừ, đúng vậy.}
+{157}{}{Chuẩn.}
+{158}{}{Tôi khá chắc là muốn đụ cô ta.}
+{159}{}{Thì cứ tự nhiên.}
+{160}{}{OK. Hết tất cả 50$.}
+{161}{}{Được, nhưng ông phải nhè 200$ ra.}
+{162}{}{Không đâu! Tránh xa bọn tôi ra!}
 {163}{}{OK.}
 {164}{}{Không.}
-{165}{}{Alright! Now come with Billy, sweetie.}
-{166}{}{Now go away.}
+{165}{}{Được rồi! Giờ thì đi với Billy nào cưng.}
+{166}{}{Giờ thì biến đi.}
 {167}{}{Cám ơn. Tạm biệt.}
 {168}{}{Chào.}
-{169}{}{Aw, shucks.}
+{169}{}{Òa, tệ thật.}
 {170}{}{[XONG]}
-{171}{}{I am plumb tuckered out.}
-{172}{}{I'll come back.}
+{171}{}{Tôi mệt lắm rồi.}
+{172}{}{Tôi sẽ trở lại.}
 {173}{}{OK.}
-{174}{}{You sure are a pretty thing.}
-{175}{}{Get away from me.}
-{176}{}{Give me $200 and you can spend some time with me.}
-{177}{}{I cost $50, Mac.}
-{178}{}{Hee hee. Thanks.}
-{179}{}{I don't have enough money.}
-{180}{}{Ok, $50 then.}
-{181}{}{Too bad for you.}
-{182}{}{See you around.}
-{183}{}{Don't bother me. I'm scoping for nice-looking chicks.}
-{184}{}{Good luck. You'll need it.}
+{174}{}{Cưng đẹp thật đấy.}
+{175}{}{Tránh xa tôi ra.}
+{176}{}{Nhè 200$ ra và ông có thể chơi tôi.}
+{177}{}{Tôi giá 50$, Mac.}
+{178}{}{He he. Cám ơn.}
+{179}{}{Tôi không có đủ tiền.}
+{180}{}{Ok, thế 50$.}
+{181}{}{Thế thì tệ quá.}
+{182}{}{Gặp lại sau.}
+{183}{}{Đừng có làm phiền tôi. Tôi đang săn đám gà tơ.}
+{184}{}{Chúc may mắn. Ông sẽ cần nhiều đấy.}
 {185}{}{What am I, chopped liver?}
 {186}{}{Chào.}
 {187}{}{Oooh. OK. Bye.}

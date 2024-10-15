@@ -11,7 +11,7 @@
 {222}{}{Brahmin Pen}
 {230}{}{Entrance}
 {231}{}{Crash House}
-{232}{}{Casino}
+{232}{}{Kasino}
 {240}{}{Base}
 {250}{}{Hotel}
 {251}{}{Hall}
