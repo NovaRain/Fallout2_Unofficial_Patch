@@ -32,15 +32,15 @@
 {136}{}{Đối với một nhân vật sành sỏi như ngươi, ta rất vui được trưng bày mẫu vật đặc biệt và cổ đại này chỉ với giá 25$.}
 {137}{}{OK, tôi sẽ nôn tiền ra. Giờ thì... Cho xem Xác ướp nào!}
 {138}{}{Tôi không muốn tiêu phí tiền. Tôi chắc là mình không cần nhìn thứ đó. Chào.}
-{139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
-{140}{}{Great.}
-{141}{}{There you go! The MUMMY! (the door to the sarcophagus swings open to reveal a desiccated corpse, that looks very much like an ordinary ghoul, standing in a poorly painted, chipped and cracked paper-mache sarcophagus.)}
-{142}{}{There you go! Presenting, the MUMMY! (a crypt-like door swings open to reveal a jan-u-wine Egyptian mummy standing in an open sarcophagus that looks as though it's made out of pure gold!)}
-{143}{}{Hey, wait a minute. That's not a Mummy. That's a ghoul. WOODY! Hey WOODY! Is that you?}
-{144}{}{That sure looks like a ghoul to me.}
-{145}{}{That's a mummy? I can't believe I just paid $25 to see a six-foot hunk of jerky. Goodbye.}
-{146}{}{Wow, that's fantastic... I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
-{147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
+{139}{}{Chỉ cần mở nắp quan tài và Xác ướp kì diệu sẽ lộ diện, với tất cả vẻ đẹp cổ xưa trước mắt quý khách. Nhưng vui lòng không sờ, và, ờ, không chụp ảnh có đèn nháy.}
+{140}{}{Tuyệt.}
+{141}{}{Mời quý khách xem! XÁC ƯỚP đến đây! (Nắp quan tài mở ra và bạn thấy một cái xác khô kiệt, trông rất giống một người ghoul bình thường, đứng trong một chiếc quan tài bằng giấy bồi được bôi sơn cẩu thả, thủng lỗ chỗ và đầy vết nứt).}
+{142}{}{Mời quý khách! Xin giới thiệu, XÁC ƯỚP! (cái nắp giống như cửa hầm mở ra, hé lộ một xác ướp Ai Cập Jan-ướp-rượu đứng trong chiếc quan tài mở trông giống như được làm từ vàng nguyên chất!)}
+{143}{}{Này, chờ chút. Đấy không phải Xác ướp. Đó là một ghoul. WOODY! Này WOODY! Phải ông không?}
+{144}{}{Sao tôi nhìn thứ này giống hệt dân ghoul.}
+{145}{}{Xác ướp đấy à? Đéo thể tin là tôi vừa trả 25$ để nghía miếng thịt bò khô dài 6 bộ. Chào.}
+{146}{}{Ồ, tuyệt thật đấy... Chắc vậy (Bạn chăm chú nhìn Xác ướp một lúc). Ờ, cám ơn. Chào.}
+{147}{}{(Xác ướp hắt xì hơi, duỗi người một cách uể oải rồi nhìn bạn bằng ánh mắt ngái ngủ) Chào. (ông ta nói bằng giọng ngủ gật).}
 {148}{}{Holy shit! That *is* Woody! Run Woody, run for it! Well, uh, gimp for it then! Go Woody go!}
 {149}{}{I assure you that the Mummy is, in fact, quite jan-u-wine.}
 {150}{}{I don't think I believe you. Let me try something. WOODY! Hey WOODY! Is that you?}
