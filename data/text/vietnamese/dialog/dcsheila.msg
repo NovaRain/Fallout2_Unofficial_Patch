@@ -54,7 +54,7 @@
 {204}{}{Chào.}
 {205}{}{Lost?}
 {206}{}{Come back anytime.}
-{207}{}{OK. Bye.}
+{207}{}{OK. Chào.}
 {208}{}{Ờ, đúng vậy.}
 {209}{}{Whoo!}
 {210}{}{Gặp lại sau.}
@@ -62,7 +62,7 @@
 {212}{}{Chào nhé.}
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}
-{215}{}{Follow me.}
+{215}{}{Theo tôi.}
 {216}{}{I'm waiting.}
 {217}{}{I'm not gonna stand here in this cold room all day.}
 {218}{}{Would you hurry up?}
@@ -70,7 +70,7 @@
 {220}{}{Fine; I'm not waiting around any longer.}
 {221}{}{Come on, come on.}
 {222}{}{Getting excited or something?}
-{223}{}{Follow me.}
+{223}{}{Theo tôi.}
 {224}{}{Hey, pal, keep your hands off of the merchandise.}
 {225}{}{Knock it off! I'm not just some toy to use.}
 {230}{}{Uhhh...? Was this your first time?}

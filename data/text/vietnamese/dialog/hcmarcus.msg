@@ -229,7 +229,7 @@
 {328}{}{Learned something.}
 {329}{}{Is anyone here sane?}
 {330}{}{Gotta be another way.}
-{331}{}{Follow me.}
+{331}{}{Theo tôi.}
 {332}{}{Try this.}
 {333}{}{Come here.}
 {334}{}{Found something you might want to see.}

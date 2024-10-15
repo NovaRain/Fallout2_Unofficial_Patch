@@ -1,52 +1,52 @@
-{100}{}{You see a member of the Slaver's Guild.}
-{150}{}{You see Metzger, head of the Slaver's Guild.}
+{100}{}{Bạn thấy một thành viên của Hội buôn người.}
+{150}{}{Bạn thấy Metzger, người đứng đầu Hội buôn người.}
 {151}{}{[NÓI CHUYỆN]}
-{152}{}{Guards! Attack!}
-{153}{}{[done]}
-{154}{}{Come back in the morning damn it! I do my business during the day.}
-{155}{}{[done]}
-{156}{}{What is it now? You're really starting to piss me off.}
-{157}{}{I would like to apologize.}
-{158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
-{159}{}{Whoa, what's your problem?}
-{160}{}{I wanted to ask you a question.}
-{161}{}{Apparently I have. Good bye.}
-{162}{}{Wah.}
-{163}{}{Well, it's too late for that. Get out.}
-{164}{}{Please, please, please; I'm sorry.}
-{165}{}{Oh well, I tried.}
-{166}{}{Screw you, then!}
-{167}{}{Alright, alright. Apology accepted.}
-{168}{}{Whew. Can I ask you some questions?}
-{169}{}{I'm glad we straightened that out. See you later.}
-{170}{}{Hello. It's good to see you.}
-{171}{}{Hi Metzger. We need to talk.}
-{172}{}{You too. Bye.}
-{173}{}{Blurp.}
-{174}{}{I am Metzger, Head of the Slaver's Guild. Whatcha need?}
-{175}{}{Yes, I have some questions.}
-{176}{}{No thanks. I'll just go now.}
+{152}{}{Lính gác! Tấn công!}
+{153}{}{[xong]}
+{154}{}{Quay lại lúc sáng ấy mẹ kiếp! Tao chỉ làm việc ban ngày thôi.}
+{155}{}{[xong]}
+{156}{}{Giờ thì cần gì? Mày bắt đầu khiến tao phát cáu rồi đấy.}
+{157}{}{Tôi muốn xin lỗi.}
+{158}{}{Xin lỗi, lúc trước tôi phê quá. Tôi không có ý gì đâu.}
+{159}{}{Ồ này, ông sao thế?}
+{160}{}{Tôi muốn hỏi một câu.}
+{161}{}{Rõ ràng là có rồi. Chào.}
+{162}{}{Wa.}
+{163}{}{Ồ, trễ quá rồi. Biến đi.}
+{164}{}{Làm ơn, làm ơn đi mà; Tôi xin lỗi.}
+{165}{}{Ồ, tôi cũng đã thử rồi.}
+{166}{}{Vậy thì đi chết đi!}
+{167}{}{Được rồi, được rồi. Nhận lỗi thế là được.}
+{168}{}{Phù. Tôi hỏi mấy câu được không?}
+{169}{}{Tôi mừng là chúng ta đã giải quyết xong chuyện đó. Gặp lại sau.}
+{170}{}{Chào, rất vui gặp lại cậu.}
+{171}{}{Chào Metzger. Chúng ta cần nói chuyện.}
+{172}{}{Ông cũng thế. Chào.}
+{173}{}{Ợ.}
+{174}{}{Ta là Metzger, Trưởng Hội buôn người. Mày cần gì?}
+{175}{}{Tôi có mấy câu hỏi.}
+{176}{}{Không, cám ơn. Tôi đi giờ đây.}
 {177}{}{Swavuh???}
-{178}{}{Please leave. Now.}
-{179}{}{Or what?}
-{180}{}{Alright. But I'll be back!}
-{181}{}{OK. Bye.}
+{178}{}{Làm ơn biến đi. Ngay bây giờ.}
+{179}{}{Không thì sao?}
+{180}{}{Được rồi. Nhưng tôi sẽ trở lại!}
+{181}{}{OK. Chào.}
 {182}{}{Muốn hỏi gì thế?}
-{183}{}{About Trader Vic...}
-{184}{}{Can I join the Slaver's Guild?}
-{185}{}{I'd like to sell my husband into slavery.}
-{186}{}{I'd like to sell my wife. How much?}
-{187}{}{I'd like to sell one of my friends here.}
-{188}{}{Tell me about the guild.}
-{189}{}{What cities buy your slaves?}
-{190}{}{I'd like to buy a slave.}
-{191}{}{I'm looking for Vault 13. Have you heard of it?}
-{192}{}{Metzger? That's a strange name.}
-{193}{}{Nothing. I have to go.}
-{195}{}{It's from an old language, prewar or something.}
-{196}{}{Metzger means butcher. Fitting, don't you think?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{183}{}{Về Thương nhân Vic...}
+{184}{}{Tôi gia nhập Hội buôn người được không?}
+{185}{}{Tôi muốn bán chồng đi làm nô lệ.}
+{186}{}{Tôi muốn bán vợ. Giá nhiêu?}
+{187}{}{Tôi muốn bán một trong số đám bạn ở đây.}
+{188}{}{Hãy kể cho tôi về hội đi.}
+{189}{}{Ông mua nô lệ ở thành phố nào thế?}
+{190}{}{Tôi muốn mua nô lệ.}
+{191}{}{Tôi đang tìm Vault 13. Ông có biết gì không?}
+{192}{}{Metzger? Tên lạ thật đấy.}
+{193}{}{Không có gì. Tôi phải đi.}
+{195}{}{Tên này từ một ngôn ngữ cổ, trước chiến tranh gì đó.}
+{196}{}{Metzger có nghĩa là đồ tể. Hợp đấy chứ, phải không?}
+{197}{}{Đấy là tên ông cố nội tao. Lão đến từ chỗ rất xa về phía Đông. Qua một
+vùng nước lớn.}
 {198}{}{I read some book about a Metzger. He was a president, or something.}
 {199}{}{Look who's talking tribal.}
 {200}{}{It's Germen, German, Garmen, or something. Ancient language, from a
@@ -127,7 +127,7 @@
 {271}{}{Too bad for me. Can I ask you a question?}
 {272}{}{Sorry, I'll come back.}
 {307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
-{308}{}{[done]}
+{308}{}{[xong]}
 {309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
 {310}{}{No. I'll come back.}
 {311}{}{Yes, I'm ready. Let's go.}

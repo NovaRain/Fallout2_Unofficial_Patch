@@ -288,7 +288,7 @@
 {577}{}{You want some of this?! Huh?}
 {578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Nice...}
-{601}{}{Mmmm...}
+{601}{}{Hừm...}
 {602}{}{You're a pal.}
 {603}{}{j}
 {604}{}{J}
