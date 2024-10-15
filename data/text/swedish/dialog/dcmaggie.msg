@@ -15,7 +15,7 @@
 {162}{}{Screw you.}
 {163}{}{I'm going.}
 {164}{}{Sorry, no offense was meant. Can I ask something?}
-{165}{}{Drink of whiskey is $5 and the gambling tables are right over there. Have a good one.}
+{165}{}{En whisky kostar $5 och spelborden står där borta. Ha det så trevligt.}
 {166}{}{Can I ask a question?}
 {167}{}{I want a drink!}
 {168}{}{Hmm, those are some cheap drinks. Let's see one.}

@@ -133,7 +133,7 @@
 {704}{}{Du möter några gangstrar som slåss mot ett gäng.}
 {705}{}{Du möter några gangstrar.}
 {706}{}{Du möter en resenär.}
-{750}{}{Du stöter på en karavan som driver bort resterna av Mästarens armé.}
+{750}{}{Du stöter på en karavan som driver bort rester av Mästarens armé.}
 {751}{}{Du möter en karavan som slåss mot rester av mästarens armé.}
 {752}{}{Du möter en karavan som strider mot dödsklor.}
 {753}{}{Du möter en karavan.}
