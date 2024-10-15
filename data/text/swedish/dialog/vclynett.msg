@@ -34,8 +34,8 @@
  government was prepared to destroy you without even recognizing the value of your community. Perhaps
  Vault City should take another look at the outside world... and its place in it.}
 {130}{}{Callous, cruel... maybe. All I know is that I had superior firepower. Goodbye, First Citizen.}
-{131}{lyn006}{That may be a valid point. Next time, we should make a stronger effort to find these remnants
- of the government and ally ourselves with them. I hear they have great power armor.}
+{131}{lyn006}{Det kan vara en giltig poäng. Nästa gång borde vi anstränga oss mer för att hitta dessa rester
+ av regeringen och alliera oss med dem. Jag har hört att de har bra kraftrustning.}
 {132}{}{But... oh, forget it. Good luck, First Citizen.}
 {133}{}{You don't know the half of it, First Citizen! Power steering, body fluid recycling, menacing
  exterior... pretty damn cool.}
