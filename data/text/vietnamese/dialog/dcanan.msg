@@ -69,6 +69,6 @@ lâu hơn được nữa đâu (ngáp).}
 {400}{}{Ồ, để ta vào thẳng mạch chính dzậy. Gã phù thủy độc ác đã hạ độc nàng công chúa trẻ và lấy đi tấm bùa của nàng. Kể từ đó,
 nàng vẫn luôn luẩn quẩn trong căn phòng kế bên. À, ừ, luôn ở đó vào giờ hắc đạo. Đấy là lí do tại sao ta luôn khóa chặt cửa.
 Đáng sợ đấy chứ hả?}
-{401}{}{The ghost of an amuletless princess in the trashed room next door? That's it? I can't believe you're peddling *that* as a story.
- I'd rather hear about this stupid Mummy you're supposed to have here.}
+{401}{}{Hồn ma của công chúa mất bùa bị trói buộc trong căn phòng kế bên? Vậy thôi à? Tôi không nghĩ là ông lại đi rao *đấy* là
+cậu chuyện. Tôi thà nghe kể về cái Xác ướp ngu ngốc mà chắc là ông có ở đây.}
 {402}{}{OK. Tôi nghĩ là mình nghe đủ rồi. Chào.}

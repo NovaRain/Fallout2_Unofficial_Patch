@@ -1,7 +1,7 @@
 {100}{}{You see a big, primitive looking man.}
-{101}{}{This man looks fairly strong and alert.}
+{101}{}{Người đàn ông này trông có vẻ khỏe mạnh và cảnh giác.}
 {110}{}{You see a slender primitive woman.}
-{111}{}{She seems strong despite her size.}
+{111}{}{Trông cô ta có vẻ khỏe dù có thân hình nhỏ bé.}
 {120}{}{You see a strange looking man.}
 {121}{}{He seems to be awfully thin.}
 {130}{}{You see a ragged looking man.}

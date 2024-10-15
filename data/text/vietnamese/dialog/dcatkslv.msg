@@ -1,6 +1,6 @@
-{100}{}{This man looks fairly strong and alert.}
-{101}{}{She seems strong despite her size.}
-{200}{}{He seems to be awfully thin but angry.}
+{100}{}{Người đàn ông này trông có vẻ khỏe mạnh và cảnh giác.}
+{101}{}{Trông cô ta có vẻ khỏe dù có thân hình nhỏ bé.}
+{200}{}{Ông ta tuy rất gầy gò nhưng mặt lại cau có.}
 {201}{}{This one looks fairly strong.}
 {202}{}{He moves with great speed.}
 {210}{}{She doesn't seem to have ever bathed.}
