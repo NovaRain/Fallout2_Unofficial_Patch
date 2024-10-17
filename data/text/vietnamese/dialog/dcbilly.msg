@@ -34,10 +34,10 @@
 {182}{}{Gặp lại sau.}
 {183}{}{Đừng có làm phiền tôi. Tôi đang săn đám gà tơ.}
 {184}{}{Chúc may mắn. Ông sẽ cần nhiều đấy.}
-{185}{}{Tôi là gì, gan băm sống à?}
+{185}{}{Tôi không đáng nhìn đến à?}
 {186}{}{Chào.}
 {187}{}{Ồ-ồ. OK. Chào.}
-{188}{}{[nhìn bạn từ trên xuống dưới] Không. Tôi thích gan băm.}
+{188}{}{[nhìn bạn từ trên xuống dưới] Ồ không. Tôi thấy ổn đấy.}
 {189}{}{Tôi không cần thứ này của ông!}
 {190}{}{Thứ lỗi, tôi phải đi.}
 {191}{}{Tệ thật. Tôi cứ tưởng cô dễ thương lắm.}
@@ -62,7 +62,7 @@
 {301}{}{Wahoo.}
 {302}{}{Thật là... là... WOW!!!}
 {303}{}{Ông có thế đốt mông cô ta đấy.}
-{304}{}{Chậc vặt trụi hết cả tóc - ồ, tôi cũng chả còn mấy.}
+{304}{}{Chậc vặt trụi hết cả tóc – ồ, tôi cũng chả còn mấy.}
 {305}{}{Đúng là hơn hẳn Dave.}
 {320}{}{Không tệ... Không tệ...}
 {321}{}{Có thể tôi sẽ trả tiền để thêm lần nữa.}
@@ -94,7 +94,7 @@
 {412}{}{Hừ}
 {413}{}{He, he, heee...}
 {414}{}{Hở?}
-{500}{}{*KHẠC NHỔ* Oạc ẹ...}
+{500}{}{*KHẠC NHỔ* Oạc oẹ...}
 {510}{}{Này anh bạn, có cho thuê cô bồ xinh đẹp đấy không?}
 {511}{}{Chờ chút được không? Tôi đi làm ly đã.}
 {512}{}{Ờ, nếu muốn nói chuyện với tôi thì tôi sẽ ở quán Lỗ.}

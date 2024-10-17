@@ -23,10 +23,10 @@
 {171}{}{Chào Metzger. Chúng ta cần nói chuyện.}
 {172}{}{Ông cũng thế. Chào.}
 {173}{}{Ợ.}
-{174}{}{Ta là Metzger, Trưởng Hội buôn người. Mày cần gì?}
+{174}{}{Tao là Metzger, Trưởng Hội buôn người. Mày cần gì?}
 {175}{}{Tôi có mấy câu hỏi.}
 {176}{}{Không, cám ơn. Tôi đi giờ đây.}
-{177}{}{Swavuh???}
+{177}{}{Bun ngùi???}
 {178}{}{Làm ơn biến đi. Ngay bây giờ.}
 {179}{}{Không thì sao?}
 {180}{}{Được rồi. Nhưng tôi sẽ trở lại!}
@@ -47,79 +47,79 @@
 {196}{}{Metzger có nghĩa là đồ tể. Hợp đấy chứ, phải không?}
 {197}{}{Đấy là tên ông cố nội tao. Lão đến từ chỗ rất xa về phía Đông. Qua một
 vùng nước lớn.}
-{198}{}{I read some book about a Metzger. He was a president, or something.}
-{199}{}{Look who's talking tribal.}
-{200}{}{It's Germen, German, Garmen, or something. Ancient language, from a
- long time ago.}
+{198}{}{Tôi đã đọc một số sách về gã Metzger. Ông ta là tổng thống gì đó.}
+{199}{}{Xem ai đang nói tiếng toọc này.}
+{200}{}{Tiếng Đút, Đức, Đục gì đấy. Ngôn ngữ cổ,
+cổ lổ xĩ lắm rồi.}
 {201}{}{Et tu, Brutus?}
-{202}{}{I see. I still have a question, though.}
-{203}{}{That is the dumbest thing I have ever heard.}
-{204}{}{Fascinating. Gotta go.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
-{206}{}{Sure. Sounds great.}
-{207}{}{No way.}
-{208}{}{I'll get back to you on that. What cities buy your slaves?}
-{209}{}{Sorry, that's private guild information.}
-{210}{}{OK. Sign me up!}
-{211}{}{No! You guys are sick people!}
-{212}{}{I'll consider that. I have more questions.}
-{213}{}{Hmm, I'll come back later.}
-{214}{}{We will need to brand a small marking on your forehead to show to all
- your allegiance with the slavers guild. Are you ready?}
-{215}{}{Sounds great! Do it!}
-{216}{}{I've changed my mind. Can I ask another question?}
-{217}{}{I don't have time right now. I have to go.}
-{218}{}{Welcome to the guild!}
-{219}{}{Great, I have questions!}
-{220}{}{OK, thanks. I'll be back.}
-{221}{}{Vault 13? No. Wait... I think Vic's from Vault City. Maybe that's it.}
-{222}{}{Yes, where is it?}
-{223}{}{No. I have another question though.}
-{224}{}{No, never mind.}
-{225}{}{We sell most of our slaves to Vault City and New Reno. New Reno is
- south east of here and most of the Den trades with it.}
-{226}{}{Where is Vault City?}
-{227}{}{I have more questions.}
-{228}{}{Thanks, gotta go.}
-{229}{}{Vault City is east of here, and a little south. Vic's from there.}
-{230}{}{I have more questions.}
-{231}{}{Thanks; gotta go.}
-{232}{}{Hmm, looks like a healthy slave. I'll give you }
-{233}{}{ coins.}
-{234}{}{OK! It's a deal.}
-{235}{}{Uh, never mind.}
-{236}{}{No way! I want double!}
-{237}{}{You drive a hard bargain. Here is your money!}
-{238}{}{Thanks. I have some more questions.}
+{202}{}{Hiểu rồi. Mà tôi vẫn còn muốn hỏi thêm nữa.}
+{203}{}{Đó là thứ ngu ngốc nhất mà tôi từng nghe.}
+{204}{}{Hay đấy. Tôi phải đi rồi.}
+{205}{}{Nhiệm vụ của chúng tao là cung cấp lực lượng lao động ổn định có chất lượng cao
+cho các thành phố lớn đang ngày càng thiếu nhân lực. Muốn tham gia cùng không?}
+{206}{}{Được chứ. Nghe hay đấy.}
+{207}{}{Không đời nào.}
+{208}{}{Tôi sẽ quay lại việc đó sau. Thành phố nào mua nô lệ của ông thế?}
+{209}{}{Thứ lỗi, đấy là thông tin nội bộ trong hội.}
+{210}{}{OK. Ghi tên tôi vào nào!}
+{211}{}{Không! Lũ các người là một đám bệnh hoạn!}
+{212}{}{Tôi sẽ suy nghĩ về việc đó. Tôi muốn hỏi thêm.}
+{213}{}{Hừm, tôi sẽ trở lại sau.}
+{214}{}{Bọn ta cần xăm một dấu nhỏ trên trán mày để thể hiện cho mọi người
+rằng mày là một thành viên của hội buôn người. Sẵn sàng chưa?}
+{215}{}{Nghe tuyệt đấy! Làm đi!}
+{216}{}{Tôi đổi ý rồi. Tôi hỏi câu khác được không?}
+{217}{}{Hiện tại tôi không có thời gian. Tôi phải đi.}
+{218}{}{Chào mừng đến với hội!}
+{219}{}{Tuyệt, tôi có câu hỏi!}
+{220}{}{OK, cám ơn. Tôi sẽ trở lại.}
+{221}{}{Vault 13? Không. Chờ tí... Tao nghĩ là Vic đến từ Thành phố Vault. Chắc là chỗ đó.}
+{222}{}{Đúng rồi, nơi đó ở đâu vậy?}
+{223}{}{Không. Nhưng tôi có câu hỏi khác.}
+{224}{}{Không, thôi quên đi.}
+{225}{}{Bọn tao chủ yếu bán nô lệ cho Thành phố Vault và New Reno. New Reno ở
+phía Đông Nam chỗ này và phần lớn người The Den đều trao đổi với họ.}
+{226}{}{Thành phố Vault ở đâu vậy?}
+{227}{}{Tôi muốn hỏi thêm.}
+{228}{}{Cám ơn, phải đi đây.}
+{229}{}{Thành phố Vault đi về phía Đông, rồi lên hướng Bắc một chút. Vic từ đó đến đây.}
+{230}{}{Tôi muốn hỏi thêm.}
+{231}{}{Cám ơn; phải đi đây.}
+{232}{}{Hừm, trông có vẻ khỏe mạnh. Tao sẽ trả mày }
+{233}{}{ xu.}
+{234}{}{OK! Cứ thế đi.}
+{235}{}{Ờ, thôi quên đi.}
+{236}{}{Không được! Phải gấp đôi!}
+{237}{}{Mày trả giá cứng đấy. Tiền đây!}
+{238}{}{Cám ơn. Tôi muốn hỏi thêm mấy câu.}
 {239}{}{Cám ơn. Tạm biệt.}
 {240}{}{Gì nữa không?}
-{241}{}{Yes, I have a question.}
-{242}{}{Nope. Bye.}
-{243}{}{Which "friend" are you selling?}
-{244}{}{Um, never mind.}
-{245}{}{Interesting. I'll give you }
-{246}{}{ coins.}
-{247}{}{Sold!}
+{241}{}{Cám ơn, tôi muốn hỏi thêm một câu.}
+{242}{}{Không. Chào.}
+{243}{}{Mày muốn bán "bạn" nào?}
+{244}{}{Ờ, thôi quên đi.}
+{245}{}{Hay đấy. Tao sẽ trả mày }
+{246}{}{ xu.}
+{247}{}{Bán!}
 {248}{}{Không, cám ơn.}
-{249}{}{I want more money than that!}
-{250}{}{Alright, I'll give you }
-{251}{}{ but no more!}
-{252}{}{Sold!}
-{253}{}{Not good enough.}
-{254}{}{That's way too little. I'm leaving.}
-{255}{}{What do you want with Vic? He's my property now. He shouldn't have fucked with me.}
-{256}{}{I'd like to buy him.}
-{257}{}{Why are you keeping him here?}
-{258}{}{Nothing. Never mind.}
-{259}{}{He is not for sale, yet.}
-{260}{}{Why not?}
+{249}{}{Tôi muốn nhiều hơn thế!}
+{250}{}{Được rồi, tao sẽ trả mày }
+{251}{}{ nhưng không hơn nữa đâu!}
+{252}{}{Bán!}
+{253}{}{Chưa đủ.}
+{254}{}{Thế thì ít quá. Tôi đi đây.}
+{255}{}{Mày muốn làm gì với Vic? Lão ta giờ là tài sản của ta rồi. Ai bảo đi chọc vào tao.}
+{256}{}{Tôi muốn mua ông ta.}
+{257}{}{Sao ông lại giữ ông ta ở đây?}
+{258}{}{Không có gì. Thôi quên đi.}
+{259}{}{Lão ta vẫn chưa được bán đâu.}
+{260}{}{Sao lại chưa?}
 {261}{}{Ồ, okay.}
-{262}{}{He will cost $2000.}
-{263}{}{Here is your money.}
-{264}{}{That's a lot. Maybe later.}
-{265}{}{The cost is $1000.}
-{266}{}{Here is your money.}
+{262}{}{Lão ta có giá 2000$.}
+{263}{}{Tiền của ông đây.}
+{264}{}{Nhiều thế. Để sau đi.}
+{265}{}{Giá 1000$.}
+{266}{}{Tiền của ông đây.}
 {267}{}{Don't have that much yet. Bye.}
 {268}{}{Our radio is broken and he's in charge of fixing it.}
 {269}{}{Hiểu rồi.}
