@@ -118,7 +118,7 @@
 {523}{}{Det var nog en fälla ändå.}
 {524}{}{Tyvärr, du är inte pålitlig.}
 {525}{}{Jag kan inte lita på dig.}
-{530}{}{We did it!}
+{530}{}{Vi klarade det!}
 {531}{}{Tack för din hjälp.}
 {532}{}{Ett särskilt tack till dig!}
 {533}{}{Jag har äntligen givit igen för mot Tyler för vad han gjorde mot min bror.}

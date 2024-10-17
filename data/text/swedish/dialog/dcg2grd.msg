@@ -1,25 +1,25 @@
-{100}{}{You see a gangster.}
-{150}{}{He seems to be a member of Lara's gang.}
-{151}{}{She seems to be a member of Lara's gang.}
+{100}{}{Du ser en gangster.}
+{150}{}{Han verkar vara medlem i Laras gäng.}
+{151}{}{Hon verkar vara medlem i Laras gäng.}
 {200}{}{Wise guy.}
-{201}{}{There you are.}
-{202}{}{Pay back.}
-{203}{}{Come here.}
-{204}{}{I'm not through with you.}
+{201}{}{Där får du.}
+{202}{}{Hämnd.}
+{203}{}{Kom hit.}
+{204}{}{Jag är inte färdig med dig.}
 {205}{}{Subba.}
-{225}{}{Wonder how long things will last around here with Metzger gone?}
-{226}{}{So, Metzger's finally dead?}
-{227}{}{Was that your handiwork?}
-{228}{}{The Den'll never be the same again.}
-{240}{}{I can't believe it, we actually beat them!}
-{241}{}{Metzger's got to show us respect now.}
-{242}{}{We sure showed them.}
-{243}{}{We gave 'em our own brand of justice.}
-{244}{}{We couldn't have done it without you!}
-{245}{}{Thank you for your help!}
-{246}{}{We did it!}
-{247}{}{You screwing around with us?}
-{248}{}{Better watch your step.}
+{225}{}{Undrar hur länge det kommer att hålla i sig här nu när Metzger är borta?}
+{226}{}{Så Metzger är äntligen död?}
+{227}{}{Var det ditt hantverk?}
+{228}{}{Lyan kommer aldrig att bli sig lik igen.}
+{240}{}{Jag kan inte tro det, vi slog dem faktiskt!}
+{241}{}{Metzger måste visa oss respekt nu.}
+{242}{}{Vi visade dem verkligen.}
+{243}{}{Vi gav 'em vår egen typ av rättvisa.}
+{244}{}{Vi skulle inte ha klarat det utan dig!}
+{245}{}{Tack för din hjälp!}
+{246}{}{Vi klarade det!}
+{247}{}{Jävlas du med oss?}
+{248}{}{Det är bäst att du är försiktig med var du går.}
 {249}{}{Lara's the only reason we don't string you up right now.}
 {250}{}{What were you trying to pull?}
 {251}{}{Ynkrygg.}

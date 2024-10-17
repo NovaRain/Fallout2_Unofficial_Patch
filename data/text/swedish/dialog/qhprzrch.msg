@@ -230,7 +230,7 @@
 {329}{}{What are you talking about?}
 {330}{}{Is everyone else crazy here?}
 {331}{}{There must be another way.}
-{332}{}{Come here.}
+{332}{}{Kom hit.}
 {333}{}{I don't understand.}
 {334}{}{I don't know.}
 {335}{}{That hurts.}
