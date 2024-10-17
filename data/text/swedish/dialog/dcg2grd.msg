@@ -20,29 +20,29 @@
 {246}{}{Vi klarade det!}
 {247}{}{Jävlas du med oss?}
 {248}{}{Det är bäst att du är försiktig med var du går.}
-{249}{}{Lara's the only reason we don't string you up right now.}
-{250}{}{What were you trying to pull?}
+{249}{}{Lara är den enda anledningen till att vi inte hänger dig nu.}
+{250}{}{Vad försökte du åstadkomma?}
 {251}{}{Ynkrygg.}
-{252}{}{You make me sick.}
-{253}{}{Get lost.}
+{252}{}{Du gör mig illamående.}
+{253}{}{Försvinn.}
 {254}{}{Beat it.}
-{255}{}{We're ready when you are.}
-{256}{}{It's about time we pay them back.}
+{255}{}{Vi är redo när du är det.}
+{256}{}{Det är på tiden att vi hämnas på dem.}
 {257}{}{I hate waiting.}
 {258}{}{Let's go already.}
-{259}{}{You ready yet?}
-{260}{}{Just let Lara know when it's time.}
-{270}{}{You looking to join up?}
-{271}{}{You must be here to see Lara.}
+{259}{}{Är du redo än?}
+{260}{}{Säg bara till Lara när det är dags.}
+{270}{}{Vill du gå med i vårt gäng?}
+{271}{}{Du måste vara här för att träffa Lara.}
 {272}{}{How's it going?}
-{273}{}{Lara's the person you should be talking to.}
+{273}{}{Lara är den du borde prata med.}
 {274}{}{Hej.}
-{275}{}{You here to see Lara?}
+{275}{}{Är du här för att träffa Lara?}
 {300}{}{Hej.}
 {301}{}{How's it going?}
-{302}{}{Hope things are going good.}
-{303}{}{So you might be able to help us out?}
-{304}{}{Good to see you.}
+{302}{}{Hoppas att allt går bra.}
+{303}{}{Så du kanske kan hjälpa oss?}
+{304}{}{Kul att se dig.}
 {305}{}{We'll pay back Tyler soon...}
 {306}{}{Any new developments?}
 {310}{}{Thanks for the help. Too bad about Lara.}

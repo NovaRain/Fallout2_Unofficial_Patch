@@ -36,13 +36,13 @@
 {240}{}{I changed my mind. Bye.}
 {245}{}{Go ahead.}
 {246}{}{Visst?}
-{247}{}{I'm not your fucking servant, so hurry it up.}
-{248}{}{What is it? I don't have all day.}
+{247}{}{Jag är inte din jävla betjänt, så skynda på.}
+{248}{}{Vad är det? Jag har inte hela dagen på mig.}
 {249}{}{Shoot.}
 {250}{}{Kanske.}
-{255}{}{I have someone I'd like to sell.}
-{256}{}{About Vic...}
-{257}{}{I'm looking for a merchant.}
+{255}{}{Jag har någon jag skulle vilja sälja.}
+{256}{}{Om Vic...}
+{257}{}{Jag letar efter en handlare.}
 {258}{}{Lara wanted me to ask you for permission to fight Tyler.}
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}

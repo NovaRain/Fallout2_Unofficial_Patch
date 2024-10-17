@@ -10,7 +10,7 @@
 {231}{}{Hey, you joined up, huh? Cool. Hope we go on some runs together.}
 {232}{}{So, what is it you want to talk about?}
 {233}{}{So, who's in there?}
-{234}{}{About Vic...}
+{234}{}{Om Vic...}
 {235}{}{Good, thanks.}
 {236}{}{Got to go.}
 {237}{}{Wuk?}
