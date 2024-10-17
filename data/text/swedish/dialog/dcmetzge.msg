@@ -43,7 +43,7 @@
 {255}{}{Jag har någon jag skulle vilja sälja.}
 {256}{}{Om Vic...}
 {257}{}{Jag letar efter en handlare.}
-{258}{}{Lara wanted me to ask you for permission to fight Tyler.}
+{258}{}{Lara ville att jag skulle be dig om tillstånd att slåss mot Tyler.}
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}
 {261}{}{I'd like to go on a slave run.}
