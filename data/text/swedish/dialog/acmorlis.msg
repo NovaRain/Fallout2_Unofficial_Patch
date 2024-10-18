@@ -1,10 +1,10 @@
-{100}{}{You see Morlis, one of your aunts -- the one who never liked you.}
-{101}{}{Why do you bother me, nephew? Can't you see I'm busy?}
-{102}{}{Umm, okay. Sorry.}
-{103}{}{What is it? You know I have a lot to do!}
-{104}{}{Ummm, Mynoc said...}
-{105}{}{Mynoc said what? Out with it, child!}
-{106}{}{That, umm, you might have some flint.}
+{100}{}{Du ser Morlis, en av dina mostrar -- hon som aldrig gillade dig.}
+{101}{}{Varför stör du mig, brorson? Kan du inte se att jag är upptagen?}
+{102}{}{Umm, okej. Förlåt.}
+{103}{}{Vad är det? Du vet att jag har mycket att göra!}
+{104}{}{Ummm, Mynoc sa...}
+{105}{}{Vad sa Mynoc? Ut med det, barn!}
+{106}{}{Att, ehh, du kanske har lite flinta.}
 {107}{}{I do. You want some, is that it?}
 {108}{}{Well, yeah.}
 {109}{}{Well... I want three doses of healing powder. Bad times are coming

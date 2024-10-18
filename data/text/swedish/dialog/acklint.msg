@@ -21,5 +21,5 @@
 {120}{}{M-hm. Jag fattar.}
 {121}{}{Var hälsad, Utvalde! Det är trevligt att se dig. Hur kan jag tjäna dig?}
 {122}{}{Jag säga hej. Det allt.}
-{123}{}{Just thought I'd say hello. I'll be leaving on my quest soon.}
-{124}{}{May the spirits of our ancestors protect you, Chosen One. I wish you well on your journey.}
+{123}{}{Jag tänkte bara säga hej. Jag ger mig snart av på mitt uppdrag.}
+{124}{}{Må våra förfäders andar skydda dig, Utvalde. Jag önskar dig lycka till på din resa.}
