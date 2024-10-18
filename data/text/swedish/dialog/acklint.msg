@@ -17,9 +17,9 @@
 {116}{}{I could kick your ass and just walk out of here.}
 {117}{}{Forgive me, but I have no answers to your questions. Take the trial set before you by the Elder and prove yourself worthy to lead our people.}
 {118}{}{Very well.}
-{119}{}{Two people working together can move the obelisk that blocks the path. Alone, you would fail. I have no intention of helping you until you pass the trial of the Elder.}
-{120}{}{Uh-huh. I get the picture.}
-{121}{}{Greetings, Chosen One! It is good to see you. How may I serve you?}
-{122}{}{Me say hi. That all.}
+{119}{}{Två personer som arbetar tillsammans kan flytta obelisken som blockerar vägen. Ensam skulle du misslyckas. Jag har inte för avsikt att hjälpa dig förrän du klarar den Äldstes prövning.}
+{120}{}{M-hm. Jag fattar.}
+{121}{}{Var hälsad, Utvalde! Det är trevligt att se dig. Hur kan jag tjäna dig?}
+{122}{}{Jag säga hej. Det allt.}
 {123}{}{Just thought I'd say hello. I'll be leaving on my quest soon.}
 {124}{}{May the spirits of our ancestors protect you, Chosen One. I wish you well on your journey.}

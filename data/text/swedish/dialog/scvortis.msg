@@ -70,7 +70,7 @@
 {169}{}{Just a question or two.}
 {170}{}{No problem. Bye.}
 {171}{}{Good work. Now you best make yourself scarce, in case those Rangers ever wise up.}
-{172}{}{Pleasure doing business.}
+{172}{}{Nöje att göra affärer.}
 {173}{}{Well don't hang around here, you moron! Somebody'll get suspicious.}
 {174}{}{All right, I get the hint.}
 {175}{}{What the fuck? Guards! We got an intruder!}
