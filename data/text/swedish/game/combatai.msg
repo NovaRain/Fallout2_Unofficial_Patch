@@ -3118,10 +3118,10 @@
 {41752}{}{Sometimes I get tired of violence.}
 {41753}{}{You got relatives?}
 {41754}{}{When was the last time you got spanked?}
-{41755}{}{Chris Avellone loves you!}
+{41755}{}{Chris Avellone älskar dig!}
 {41756}{}{Here's a little mutant love tap.}
-{41757}{}{Regards, pal.}
-{41758}{}{Give my best to St. Peter.}
+{41757}{}{Hälsningar, kompis.}
+{41758}{}{Hälsa Sankte Per från mig.}
 {41759}{}{One fist, two fist, red fist, blue fist...}
 {41760}{}{That the best you can do?}
 {41761}{}{Let me know when you get scary.}
