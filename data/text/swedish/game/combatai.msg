@@ -2888,7 +2888,7 @@
 {41302}{}{No one told me it would be dangerous!}
 {41303}{}{What do you mean they're armed!?}
 {41304}{}{Run awaaaaaay!}
-{41305}{}{Run for it!}
+{41305}{}{Spring!}
 {41306}{}{Incoming!!!!!!}
 {41307}{}{My super-powers are useless against this foe!}
 {41308}{}{Uh, I've got to talk to a man about a horse.}
@@ -3075,7 +3075,7 @@
 {41709}{}{I got your backs.}
 {41710}{}{Let's move it out!}
 {41711}{}{Come on, yokels!}
-{41712}{}{Let's get out of here!}
+{41712}{}{Nu sticker vi härifrån!}
 {41713}{}{Feet, don't fail me now.}
 {41714}{}{Ye gods... if other mutants could see me now.}
 {41715}{}{::shakes his head and runs::}
@@ -3124,26 +3124,26 @@
 {41758}{}{Hälsa Sankte Per från mig.}
 {41759}{}{One fist, two fist, red fist, blue fist...}
 {41760}{}{That the best you can do?}
-{41761}{}{Let me know when you get scary.}
-{41762}{}{Next.}
-{41763}{}{Take a number.}
-{41764}{}{Bzzt! That's a miss!}
-{41765}{}{You people ever quit?}
-{41766}{}{Yawn.}
-{41767}{}{Amateurs.}
-{41768}{}{Target practice, kid.}
-{41769}{}{Keep at it. Maybe you'll hit me someday.}
-{41770}{}{When does the action start?}
-{41771}{}{I need a nice cold drink. Nothing's happening here.}
-{41772}{}{Where's the excitement?}
-{41773}{}{Oh! You were aiming at ME!}
-{41774}{}{You practice missing that badly?}
-{41775}{}{Thanks, try again.}
-{41776}{}{That's not it.}
-{41777}{}{::looks at his watch::}
-{41778}{}{Isn't this violence pointless?}
-{41779}{}{Can't we just get along?}
-{42000}{}{ignore the pain in my head ignore the pain in my head}
+{41761}{}{Låt mig veta när du blir rädd.}
+{41762}{}{Nästa.}
+{41763}{}{Ta en nummerlapp.}
+{41764}{}{Bzzt! Det var en miss!}
+{41765}{}{Slutar ni någonsin?}
+{41766}{}{Gäsp.}
+{41767}{}{Amatörer.}
+{41768}{}{Målskjutning, kisen.}
+{41769}{}{Fortsätt med det. Du kanske träffar mig till slut.}
+{41770}{}{När börjar det hända saker?}
+{41771}{}{Jag behöver någonting kallt att dricka. Det händer ingenting här.}
+{41772}{}{Var är spänningen?}
+{41773}{}{Åh! Du siktade på MIG!}
+{41774}{}{Tränar du på att missa såhär mycket?}
+{41775}{}{Tack, försök igen.}
+{41776}{}{Inte sådär.}
+{41777}{}{::kollar på sin klocka::}
+{41778}{}{Är inte det här våldet meningslöst?}
+{41779}{}{Kan vi inte bara komma överens?}
+{42000}{}{ignorera smärtan i mitt huvud ignorera smärtan i mitt huvud}
 {42001}{}{Aighh! There's blood all over my face! Help! Stimpak! Help!}
 {42002}{}{MY HEAD! MY HEAD! I'VE BEEN HIT IN THE HEAD! HELP! HELP!}
 {42003}{}{Oooooooh. There goes a few Intelligence points.}
