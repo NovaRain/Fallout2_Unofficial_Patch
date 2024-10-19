@@ -1035,7 +1035,7 @@
 {4811}{}{Some bounty hunters.}
 {4812}{}{A band of ruffians led by a Morton Brother.}
 {4813}{}{Some prospectors fighting some claim jumpers.}
-{4814}{}{Some trappers fighting some golden geckos.}
+{4814}{}{Några jägare som slåss mot några gyllene geckoödlor.}
 {4815}{}{Some bootleggers fighting some wolves.}
 {4816}{}{Some homesteaders fighting some claim jumpers.}
 {4817}{}{Some homesteaders fending off some wolves.}
@@ -1044,7 +1044,7 @@
 {4820}{}{Some prospectors.}
 {4821}{}{A man guarding a bridge.}
 {4822}{}{King Arthur's Knights fighting a rat.}
-{4850}{}{A pack of wolves and some molerats.}
+{4850}{}{En flock vargar och några mullvadsråttor.}
 {4851}{}{Some radscorpions and some wolves.}
 {4852}{}{Some mutated molerats and some radscorpions.}
 {4853}{}{A pack of golden geckos.}
