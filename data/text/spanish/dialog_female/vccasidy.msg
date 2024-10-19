@@ -228,4 +228,4 @@
 {20005}{}{Olvídalo. Mantengamos la formación que tenemos ahora.}
 {20006}{}{No importa. No hay nada que necesite saber sobre tu armamento.}
 {20007}{}{Necesito quitarte la armadura que llevas.}
-{30300}{}{[Next]}
+{30300}{}{[El siguiente]}
