@@ -28,10 +28,10 @@
  flintan och försvinn ur min åsyn.}
 {153}{}{Ja, moster Morlis.}
 {154}{}{Jaha... Åh, mycket bra. Här är flintan. Jag önskar dig en säker resa, mitt barn.}
-{155}{}{No, I don't. Now stop wasting my time and get out of here!}
+{155}{}{Nej, det gör jag inte. Sluta slösa bort min tid och försvinn härifrån!}
 {156}{}{Ja, moster Morlis.}
-{200}{}{So you've returned. Did you find the holy Thirteen?}
-{201}{}{No, Aunt Morlis, I...}
+{200}{}{Så du har återvänt. Hittade du det heliga Tretton?}
+{201}{}{Nej, moster Morlis, jag...}
 {202}{}{Then get yourself out of here and find it! People are depending on you!}
 {203}{}{Ja, moster Morlis.}
 {204}{}{Well, here you are again. Have you once again failed to complete your quest?}
