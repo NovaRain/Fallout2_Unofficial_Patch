@@ -1,5 +1,5 @@
-{100}{}{You see a ragged-looking farmer.}
-{101}{}{You see Smith.}
+{100}{}{Du ser en luggsliten bonde.}
+{101}{}{Du ser Smith.}
 {102}{}{Don't think I've seen you around before, stranger. The name's Smith. Help
  you with something?}
 {103}{}{Was there something else you wanted?}
