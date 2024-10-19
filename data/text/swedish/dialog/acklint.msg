@@ -1,7 +1,7 @@
-{100}{}{You see Klint, a fellow tribesman.}
-{101}{}{You see Klint.}
-{102}{}{You see a young man with bulging muscles and a very confident air about him.}
-{103}{}{Good day to you, }
+{100}{}{Du ser Klint, en stamfrände.}
+{101}{}{Du ser Klint.}
+{102}{}{Du ser en ung man med stora muskler och en mycket självsäker utstrålning.}
+{103}{}{God dag på dig,}
 {104}{}{. You have not completed the trial of the Elder and may not pass.}
 {105}{}{Eh...}
 {106}{}{I need to go back to the village.}
