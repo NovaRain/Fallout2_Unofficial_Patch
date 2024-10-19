@@ -23,11 +23,11 @@
 {150}{}{Moster Morlis, jag är på en farlig resa för att rädda vår by.
  Mina chanser att lyckas ökar om jag behåller läkepulvret
  för mig själv och du ger mig flintan. Håller du inte med?}
-{151}{}{What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!}
-{152}{}{If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take
- the flint and get out of my sight.}
+{151}{}{Vad tror du att du gör, unge? Detta är inget sätt för den Utvalde att agera. Försvinn ur min åsyn nu!}
+{152}{}{Om den här flintan är så viktig att du är beredd att vanära den Utvaldes namn, så ta den. Ta
+ flintan och försvinn ur min åsyn.}
 {153}{}{Ja, moster Morlis.}
-{154}{}{Well... Oh, very well. Here is the flint. I wish you a safe journey, child. }
+{154}{}{Jaha... Åh, mycket bra. Här är flintan. Jag önskar dig en säker resa, mitt barn.}
 {155}{}{No, I don't. Now stop wasting my time and get out of here!}
 {156}{}{Ja, moster Morlis.}
 {200}{}{So you've returned. Did you find the holy Thirteen?}
