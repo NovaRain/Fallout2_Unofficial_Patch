@@ -1,10 +1,10 @@
 {100}{}{You see a stern-looking woman with thick glasses, wearing a Vault City jumpsuit. Judging from her bearing, she seems important.}
-{101}{}{You see First Citizen Lynette. She looks preoccupied.}
-{102}{}{You see First Citizen Lynette. She looks preoccupied.}
-{103}{}{It is late. Schedule an appointment for tomorrow morning, and I will receive you then.}
-{104}{}{As I SAID, I don't receive visitors this late. MOST Citizens have retired to bed by this time.}
-{105}{}{Schedule an appointment for tomorrow morning. I will receive you then.}
-{106}{}{I will speak with you TOMORROW.}
+{101}{}{Du ser Första Medborgaren Lynette. Hon ser upptagen ut.}
+{102}{}{Du ser Första Medborgaren Lynette. Hon ser upptagen ut.}
+{103}{}{Det är sent. Boka en tid i morgon bitti, så tar jag emot dig då.}
+{104}{}{Som jag SA, jag tar inte emot besökare så här sent. DE FLESTA Medborgarna har gått till sängs vid den här tiden.}
+{105}{}{Boka en tid i morgon bitti. Jag tar emot dig då.}
+{106}{}{Jag pratar med dig I MORGON.}
 {107}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.}
 {108}{}{I don't know what you intend to gain by clicking on me, but I won't tolerate it much longer.}
 {109}{}{Perhaps you find clicking on me... amusing. Perhaps you will find the Corrections Center just as humorous.}

@@ -317,7 +317,7 @@
 {417}{}{Lockbox}
 {418}{}{Lockbox}
 {419}{}{Ratch}
-{420}{}{Boxer}
+{420}{}{Boxare}
 {421}{}{Pete McKneely}
 {422}{}{Evan Hollyfeld}
 {423}{}{Masticator}
@@ -1047,7 +1047,7 @@
 {1147}{}{Slave}
 {1148}{}{Vault Citizen}
 {1149}{}{Door}
-{1150}{}{Boxer}
+{1150}{}{Boxare}
 {1151}{}{Vault Door}
 {1152}{}{Xarn}
 {1153}{}{Raul}
@@ -1085,7 +1085,7 @@
 {1185}{}{Caravan Driver}
 {1186}{}{Ring Announcer}
 {1187}{}{Ring Girl}
-{1188}{}{Boxer}
+{1188}{}{Boxare}
 {1189}{}{Door}
 {1190}{}{Cheat Character}
 {1191}{}{Holodisk}
