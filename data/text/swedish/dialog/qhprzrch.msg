@@ -227,7 +227,7 @@
 {326}{}{I have a good feeling about this.}
 {327}{}{I have a bad feeling about this.}
 {328}{}{You people are crazy.}
-{329}{}{What are you talking about?}
+{329}{}{Vad pratar du om?}
 {330}{}{Is everyone else crazy here?}
 {331}{}{There must be another way.}
 {332}{}{Kom hit.}

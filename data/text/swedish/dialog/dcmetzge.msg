@@ -125,7 +125,7 @@
 {392}{}{Okay. Bye.}
 {400}{}{What the hell crawled up her ass all of a sudden? I gave that bitch a chance
  a while back. Didn't think she had the balls to try this.}
-{401}{}{What are you talking about?}
+{401}{}{Vad pratar du om?}
 {402}{}{So it's okay?}
 {410}{}{Oh, don't play coy with me. I know exactly what she's planning to do. I
  gave her a chance a while back and she couldn't cut it, but if she

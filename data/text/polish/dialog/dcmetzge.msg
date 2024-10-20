@@ -219,7 +219,7 @@ przytułek dla jebanych ćpunów.}
 {751}{}{Idź się jebać.}
 {752}{}{Uhm, w porządku.}
 {800}{}{Przywódca gildii łowców niewolników zginął z twojej ręki.}
-{1360}{}{. No jak, robimy interes?}
+{1360}{}{ . No jak, robimy interes?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
@@ -230,7 +230,7 @@ przytułek dla jebanych ćpunów.}
 {1542}{}{.}
 {1543}{}{. $}
 {1544}{}{ to niemało, ale możesz zarabiać dużo więcej.}
-{1545}{}{. Niezła robota.}
+{1545}{}{ . Niezła robota.}
 {1546}{}{.}
 {1547}{}{? Nieźle.}
 {1548}{}{? Mogło być lepiej.}

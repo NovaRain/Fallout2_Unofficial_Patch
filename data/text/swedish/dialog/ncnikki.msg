@@ -23,7 +23,7 @@
  seen that bum since he conned Mr. Salvatore.}
 {400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
 {410}{}{You touch me, and Mr. Salvatore will skin you alive.}
-{420}{}{What are you talking about?}
+{420}{}{Vad pratar du om?}
 {430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
  something there. Now, if you don't mind, I got to get back to work.}
 {440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
