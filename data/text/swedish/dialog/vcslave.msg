@@ -43,12 +43,12 @@
 {138}{}{The Citizens teach us that work is its own reward.}
 {139}{}{The Citizens tell us that our service allows them time for more important matters.}
 {140}{}{I was lucky that Vault City had need of servants. I could have ended up in New Reno.}
-{141}{}{Vault City rewards servants who work diligently with extra rations.}
-{142}{}{I hear they do horrible things to the slaves in New Reno.}
-{143}{}{The Citizens brought my entire tribe inside the City to serve as servants. }
-{144}{}{The Citizens brought me in out of the wastes and taught me to read.}
-{145}{}{The Citizens treat me very well. The food here is excellent.}
-{146}{}{I am not permitted to speak with Outsiders.}
+{141}{}{Valvstaden belönar tjänare som arbetar flitigt med extra ransoner.}
+{142}{}{Jag har hört att de gör hemska saker mot slavarna i New Reno.}
+{143}{}{Medborgarna tog med sig hela min stam in i staden för att tjäna som tjänare.}
+{144}{}{Medborgarna tog mig in från ödemarken och lärde mig att läsa.}
+{145}{}{Medborgarna behandlar mig mycket bra. Maten här är utmärkt.}
+{146}{}{Jag får inte tala med Utomstående.}
 {147}{}{I missed my family at first, but it has been many years since I saw them.}
 {148}{}{I was taken from a tribal village north of here. Life is much better here.}
 {149}{}{I was first captured in the Den. Fortunately, I ended up here.}

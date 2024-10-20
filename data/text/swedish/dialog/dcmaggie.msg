@@ -1,11 +1,11 @@
-{100}{}{You see the owner of the saloon.}
+{100}{}{Du ser ägaren till salongen.}
 {101}{}{You see Becky.}
 {150}{}{This looks like the owner.}
-{151}{}{This is Becky, owner of this place.}
+{151}{}{Det här är Becky, ägaren av det här stället.}
 {152}{}{[TALA]}
 {153}{}{Hello, stranger, and welcome to my saloon. I'm Becky.}
 {154}{}{Hello, I am }
-{155}{}{. What's there to do around here?}
+{155}{}{. Vad finns det att göra här omkring?}
 {156}{}{Hi, I'm }
 {157}{}{. Can I ask some questions?}
 {158}{}{Mamma?}
@@ -20,15 +20,15 @@
 {167}{}{I want a drink!}
 {168}{}{Hmm, those are some cheap drinks. Let's see one.}
 {169}{}{Tack. Hej då.}
-{170}{}{Vault 13? Nope, never heard of it.}
+{170}{}{Valv 13? Nej, aldrig hört talas om det.}
 {171}{}{Hmm, can I ask something else?}
-{172}{}{Damn, I need to find it. Bye.}
+{172}{}{Fan, jag måste hitta det. Hej då.}
 {173}{}{What would you like to know?}
 {174}{}{Where's a good place to eat?}
-{175}{}{Do you know where Vault 13 is?}
+{175}{}{Vet du var Valv 13 ligger?}
 {176}{}{Why are your drinks so cheap?}
 {177}{}{Nothing. Bye.}
-{178}{}{Mom runs a little restaurant across town.}
+{178}{}{Mamma driver en liten restaurang på andra sidan stan.}
 {179}{}{Mommy! Mommy!}
 {180}{}{One more question.}
 {181}{}{Tack. Hej då.}
@@ -65,7 +65,7 @@
 {212}{}{How can you sell your drinks so cheaply?}
 {213}{}{How about a drink?}
 {214}{}{Gotta run. See ya.}
-{215}{}{Not now. Maybe later. Yes, definitely later.}
+{215}{}{Inte nu. Kanske senare. Ja, definitivt senare.}
 {216}{}{Can I ask a question?}
 {217}{}{Later then.}
 {218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno

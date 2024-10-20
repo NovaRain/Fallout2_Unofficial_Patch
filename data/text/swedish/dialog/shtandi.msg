@@ -56,7 +56,7 @@
 {155}{}{That all. Me go now.}
 {156}{}{What can you tell me about Vault 15?}
 {157}{}{Why haven't you made a deal with the squatters?}
-{158}{}{Do you know where Vault 13 is?}
+{158}{}{Vet du var Valv 13 ligger?}
 {159}{}{I'm looking for a GECK. Would you happen to have one?}
 {160}{}{What can you tell me about New Reno?}
 {161}{}{What can you tell me about Roger Westin?}

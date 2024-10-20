@@ -43,21 +43,21 @@
 {137}{}{Where do you trade the ore?}
 {138}{}{That's interesting. Tell me something else, though.}
 {139}{}{Yup. Just in the north part of town alone there are two working gold mines.}
-{140}{}{You said that you trade the ore?}
-{141}{}{Interesting. Let me ask you about something else, though.}
-{142}{}{Well, we trade gold ore to Vault City in return for medical supplies. We trade ore to the New
- California Republic in return for fresh brahmin and other victuals, and we trade gold to New Reno for
- drugs and booze.}
-{143}{}{You mine the gold here?}
-{144}{}{Interesting. Let me ask you about something else, though.}
-{145}{}{Jist a big dog.}
-{146}{}{Oh, I see. Hmm, let me ask you about something else.}
-{147}{}{Of course. That's all I really wanted to know. Thanks. Goodbye.}
+{140}{}{Du sa att du handlar med malmen?}
+{141}{}{Intressant. Låt mig fråga dig om något annat, dock.}
+{142}{}{Tja, vi byter guldmalm med Valvstaden i utbyte mot sjukvårdsmaterial. Vi byter malm till Nya
+ Kalifornienrepubliken i utbyte mot färskt brahminkött och annan mat, och vi byter guld till New Reno mot
+ droger och sprit.}
+{143}{}{Bryter ni guldet här?}
+{144}{}{Intressant. Låt mig fråga dig om något annat, dock.}
+{145}{}{Båra en stor hund.}
+{146}{}{Jaha, jag förstår. Hmm, låt mig fråga dig om något annat.}
+{147}{}{Självklart. Det var allt jag ville veta. Tack. Adjö.}
 {148}{}{San Francisco is quite a ways south of here. You're a long ways from there. South and jist a
  tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't
  know why any sane person'd want to go there for, though.}
 {149}{}{Why? Is it dangerous?}
-{150}{}{Interesting. Let me ask you about something else, though.}
+{150}{}{Intressant. Låt mig fråga dig om något annat, dock.}
 {151}{}{Thanks for the information. Goodbye.}
 {152}{}{Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers
  of some kind of kooky religion.}
