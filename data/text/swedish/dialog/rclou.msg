@@ -56,42 +56,42 @@
 {148}{}{San Francisco is quite a ways south of here. You're a long ways from there. South and jist a
  tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't
  know why any sane person'd want to go there for, though.}
-{149}{}{Why? Is it dangerous?}
+{149}{}{Varför? Är det farligt?}
 {150}{}{Intressant. Låt mig fråga dig om något annat, dock.}
 {151}{}{Thanks for the information. Goodbye.}
-{152}{}{Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers
- of some kind of kooky religion.}
-{153}{}{Crazed followers?}
-{154}{}{Some things haven't changed as much as others. Thanks. Goodbye.}
+{152}{}{Tja, jag hör alla möjliga saker om att hela stan ä' full me' galna anhängare
+ ti' nån sorts knäpp religion.}
+{153}{}{Galna anhängare?}
+{154}{}{Vissa saker har inte förändrats lika mycket som andra. Tack. Adjö.}
 {155}{}{Yup. That's right. I aheard that they're buildin' some huge device that'll let them get in touch
  with their gods. Or sumthin' like that. Don't know much for certain. It's a long ways off.}
-{156}{}{Seems like monuments to gods always seem to have some sort of trouble at the heart of them. Tell
- me about something else.}
-{157}{}{That's all I need to know for now. Thanks. Goodbye.}
-{158}{}{That's right. She's in a bad way. Used to be such a perty thing, too. I sure hope you take care
- of this quick. It's bad for business to let those miners think they can get away with something like this.}
-{159}{}{Can I see the girl?}
-{160}{}{Do you know who did it?}
-{161}{}{Do you know what happened?}
+{156}{}{Det verkar som om monument över gudar alltid verkar ha någon form av problem i hjärtat av dem. Berätta
+ om något annat.}
+{157}{}{Det är allt jag behöver veta för tillfället. Tack. Adjö.}
+{158}{}{Det stämmer. Hon är illa däran. Hon brukade vara en sån snygging, också. Jag hoppas verkligen att du tar hand om
+ det här snabbt. Det är dåligt för affärerna att låta gruvarbetarna tro att de kan komma undan med nåt sånt här.}
+{159}{}{Kan jag få se tjejen?}
+{160}{}{Vet du vem som gjorde det?}
+{161}{}{Vet du vad som hände?}
 {162}{}{Sounds like a problem, all right. Let me ask you about something else, though.}
 {163}{}{Jag skickade iväg henne. Hon skulle inte vara till nytta i den här branschen längre. Inte för att nån skulle
  vilja vara med henne efter att den jäveln var klar med henne. Jag gav henne lite pengar och lät henne gå.}
-{164}{}{Do you know who did it?}
-{165}{}{Do you know what happened?}
+{164}{}{Vet du vem som gjorde det?}
+{165}{}{Vet du vad som hände?}
 {166}{}{Let me ask you something else.}
 {167}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {168}{}{I don't know 'xactly who did it, but she had a Morningstar Mine pay scrip in her hand when we
  found her, and it was a miner who was with her last.}
-{169}{}{Can I see the girl?}
-{170}{}{Do you know what happened?}
+{169}{}{Kan jag få se tjejen?}
+{170}{}{Vet du vad som hände?}
 {171}{}{A Morningstar Mine pay scrip? What's that?}
 {172}{}{Let me ask you something else.}
 {173}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {174}{}{Well, there was some screaming and carrying on and so I went to the room. When I got there, the
  bastard who did it was already gone and my girl was in a bad way. So I called the doc and then the
  Sheriff. You know the rest.}
-{175}{}{Do you know who did it?}
-{176}{}{Can I see the girl?}
+{175}{}{Vet du vem som gjorde det?}
+{176}{}{Kan jag få se tjejen?}
 {177}{}{Let me ask you something else.}
 {178}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {179}{}{In the north part of town Dan McGrew runs the Morningstar mine. Usually the miners get paid on

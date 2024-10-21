@@ -930,42 +930,42 @@
 {12203}{}{You're just lucky I ain't got no stimpaks on me...}
 {12204}{}{Time to get the hell outta Dodge.}
 {12205}{}{Need to find some stimpaks, fast...}
-{12220}{}{I'm gonna roll you like dice.}
-{12221}{}{And here I was, thinking I wasn't gonna get to kill no one today...}
-{12222}{}{Looks like Golgotha just got a new resident...}
-{12223}{}{Looks like we'll be doing this the hard way...}
-{12224}{}{I'm gonna knock out your teeth and make dice out of them.}
-{12225}{}{Looks like someone's gambling with their life...}
-{12226}{}{I'm gonna kill you, your family, then your dog.}
-{12227}{}{Time to take out the trash...}
+{12220}{}{Jag ska kasta dig som en tärning.}
+{12221}{}{Och jag som trodde att jag inte skulle få döda nån idag...}
+{12222}{}{Ser ut som Golgata precis fått en ny invånare...}
+{12223}{}{Det ser ut som om vi får göra det här på det svåra sättet...}
+{12224}{}{Jag ska slå ut dina tänder och göra tärningar av dem.}
+{12225}{}{Det ser ut som om någon satsar sitt liv...}
+{12226}{}{Jag ska döda dig, din familj och sen din hund.}
+{12227}{}{Dags att gå ut med soporna...}
 {12228}{}{Gonna snap you like a wishbone...}
-{12240}{}{I'm going to kick your ass so hard you'll be wearing your ass as a hat.}
+{12240}{}{Jag ska sparka dig i röven så hårt att du kommer att bära din röv som en hatt.}
 {12241}{}{Lady Luck ain't with you today...}
-{12242}{}{I'm gonna beat you until you're ugly.}
-{12243}{}{Time to put your ass in a grave.}
-{12244}{}{I'm gonna kick your heart out and stomp on it.}
-{12245}{}{Wish I had time to put your head in a vise...}
-{12246}{}{Let me show you what we do with garbage around here...}
-{12247}{}{I'm going to hit you so hard you'll think it's an earthquake...}
-{12248}{}{I've had enough of this turd...}
-{12249}{}{Say hello to the angels for me...}
-{12260}{}{Moves like that'll put you in the hospital...}
+{12242}{}{Jag ska slå dig ful och blå.}
+{12243}{}{Dags att lägga dig i en grav.}
+{12244}{}{Jag ska sparka ut ditt hjärta och stampa på det.}
+{12245}{}{Jag önskar att jag hade tid att sätta ditt huvud i ett skruvstäd...}
+{12246}{}{Låt mig visa dig vad vi gör med sopor här...}
+{12247}{}{Jag kommer att slå dig så hårt att du tror att det är en jordbävning...}
+{12248}{}{Jag har fått nog av den här skiten...}
+{12249}{}{Säg hej till änglarna åt mig...}
+{12260}{}{Rör du dig så där kommer du att hamna i sjukhuset...}
 {12261}{}{You hit like a bitch...}
-{12262}{}{Nice one. I'll show you how it's done in a sec.}
-{12263}{}{You blind and stupid?}
+{12262}{}{Den var bra. Jag ska visa dig hur det går till om en stund.}
+{12263}{}{Är du blind och korkad?}
 {12264}{}{You flying on Jet or something?}
-{12265}{}{You couldn't hit the broad side of a casino.}
-{12266}{}{If you tried to hit the air, you'd miss.}
+{12265}{}{Du kan inte ens träffa bredsidan på ett kasino.}
+{12266}{}{Om du försökte träffa luften skulle du missa.}
 {12300}{}{Ngggg}
 {12301}{}{My... head... getting... dizzy}
 {12302}{}{Ugnnn!}
 {12303}{}{Not the face! Not the face!}
-{12310}{}{My... arm... my... beautiful... arm.}
+{12310}{}{Min...arm...min...vackra...arm.}
 {12311}{}{Medic! My arm's fucked!}
 {12312}{}{*hffff*}
 {12320}{}{My stroke hand! Have you no shame?!}
 {12321}{}{Medic! My arm's fucked!}
-{12322}{}{Looks like I can't polish my gun with that hand anymore...}
+{12322}{}{Det verkar som om jag inte kan polera min pistol med den handen längre...}
 {12330}{}{My spleen!}
 {12331}{}{Hnrgggg}
 {12332}{}{*hff*}
@@ -980,16 +980,16 @@
 {12371}{}{*Ergg*}
 {12372}{}{Gonna need a stimpak for my leg...}
 {12373}{}{Urggg... leg's... screwed...}
-{12380}{}{My eye! My beautiful eye!}
+{12380}{}{Mitt öga! Mitt vackra öga!}
 {12381}{}{Trying to cripple my depth perception, huh?}
 {12382}{}{Can't... see... blood... in... eyes...}
 {12390}{}{What do you think this is? Some cheap action flick?}
 {12391}{}{Now I can't sound off like a got a pair.}
 {12392}{}{Well, there go my brass balls.}
 {12393}{}{Excuse me for a moment while I throw up all over myself.}
-{12394}{}{Great. A player character with a ball fixation.}
+{12394}{}{Underbart. En spelarkaraktär med en fixering på kulor.}
 {12395}{}{Let me lie down for a second, then I'll come kill you.}
-{12396}{}{Nuts!}
+{12396}{}{Sablar!}
 {26000}{}{Flee! Flee!}
 {26001}{}{Retreat!}
 {26002}{}{Regroup!}
@@ -997,43 +997,43 @@
 {26004}{}{Withdraw!}
 {26005}{}{I'm outta here!}
 {26020}{}{Kill this fool!}
-{26021}{}{You're already dead...}
-{26022}{}{I'm gonna fuck you up!}
+{26021}{}{Du är redan död...}
+{26022}{}{Jag ska spöa upp dig!}
 {26023}{}{This one's mine!}
-{26024}{}{Take em!}
-{26025}{}{Your ears will make a nice trophy!}
+{26024}{}{Ta dom!}
+{26025}{}{Dina öron kommer att bli en fin trofé!}
 {26040}{}{Enjoy the last few seconds of your life!}
 {26041}{}{Blood! Blood! Blood!}
 {26042}{}{Your heart is mine!}
-{26043}{}{I love doing this to you!}
+{26043}{}{Jag älskar att göra det här mot dig!}
 {26044}{}{Your weapons will be my trophies!}
-{26045}{}{Death and dismemberment. Just two of my favorite things!}
+{26045}{}{Död och lemlästning. Bara två av mina favoritsaker!}
 {26046}{}{You are mine to kill!}
 {26047}{}{Your bones shall bleach in the wastes!}
 {26048}{}{Blood and darkness!}
-{26049}{}{I'm gonna loot your corpse!}
+{26049}{}{Jag ska plundra ditt lik!}
 {26050}{}{Drill the scraggin' bastard!}
 {26100}{}{Khans! Cover me!}
 {26101}{}{Retreat!}
 {26102}{}{Regroup!}
 {26103}{}{Fall back!}
 {26104}{}{Withdraw!}
-{26105}{}{Break off and regroup!}
-{26106}{}{Let the challenge begin!}
-{26107}{}{I'm going to use you for target practice!}
-{26108}{}{No mercy for you!}
+{26105}{}{Bryt av och omgruppera!}
+{26106}{}{Låt utmaningen börja!}
+{26107}{}{Jag ska använda dig som måltavla!}
+{26108}{}{Ingen nåd för dig!}
 {26109}{}{This one's mine!}
 {26110}{}{Khans attack!}
-{26111}{}{It's party time!}
-{26112}{}{Would someone please kill this waste of flesh!}
+{26111}{}{Nu är det dags för fest!}
+{26112}{}{Skulle någon vara snäll och döda det här slöseriet med kött!}
 {26113}{}{Khans kill!}
 {26114}{}{Khans are the elite of the wastes!}
-{26115}{}{I am supreme!}
+{26115}{}{Jag är överlägsen!}
 {26116}{}{Khans will rule!}
 {26117}{}{Khans are invincible!}
-{26118}{}{No retreat! No surrender!}
+{26118}{}{Ingen reträtt! Ingen kapitulation!}
 {26119}{}{You are mine to kill!}
-{26120}{}{I'll make a necklace out of your teeth!}
+{26120}{}{Jag ska göra ett halsband av dina tänder!}
 {26121}{}{Blood and darkness!}
 {26122}{}{Khans are the strong!}
 {26123}{}{Nice form but I'm over here!}
@@ -1698,7 +1698,7 @@
 {44925}{}{Prepare to meet your doom!}
 {44926}{}{Best kiss your ass goodbye while you still can.}
 {44927}{}{I'm going to paint you red!}
-{44928}{}{It's party time!}
+{44928}{}{Nu är det dags för fest!}
 {44929}{}{I'm heading in!}
 {44930}{}{I'll see you on the front line!}
 {44931}{}{Time to reach out and touch someone!}
