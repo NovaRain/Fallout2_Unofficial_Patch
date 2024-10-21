@@ -74,8 +74,8 @@
 {160}{}{Do you know who did it?}
 {161}{}{Do you know what happened?}
 {162}{}{Sounds like a problem, all right. Let me ask you about something else, though.}
-{163}{}{I sent her away. She wasn't going to be no good in this business any more. Not that anybody'd
- want to be with her after that bastard finished with her. I gave her some money and let her go.}
+{163}{}{Jag skickade iväg henne. Hon skulle inte vara till nytta i den här branschen längre. Inte för att nån skulle
+ vilja vara med henne efter att den jäveln var klar med henne. Jag gav henne lite pengar och lät henne gå.}
 {164}{}{Do you know who did it?}
 {165}{}{Do you know what happened?}
 {166}{}{Let me ask you something else.}
