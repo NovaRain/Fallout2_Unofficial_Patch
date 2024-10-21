@@ -34,12 +34,12 @@
 {260}{}{Säg bara till Lara när det är dags.}
 {270}{}{Vill du gå med i vårt gäng?}
 {271}{}{Du måste vara här för att träffa Lara.}
-{272}{}{How's it going?}
+{272}{}{Hur går det?}
 {273}{}{Lara är den du borde prata med.}
 {274}{}{Hej.}
 {275}{}{Är du här för att träffa Lara?}
 {300}{}{Hej.}
-{301}{}{How's it going?}
+{301}{}{Hur går det?}
 {302}{}{Hoppas att allt går bra.}
 {303}{}{Så du kanske kan hjälpa oss?}
 {304}{}{Kul att se dig.}

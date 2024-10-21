@@ -72,7 +72,7 @@
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
 {371}{}{Ja?}
 {372}{}{What now?}
-{373}{}{How's it going?}
+{373}{}{Hur går det?}
 {374}{}{Sorry, gotta go.}
 {375}{}{Uk.}
 {376}{}{Lub?}
