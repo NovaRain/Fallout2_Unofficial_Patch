@@ -301,29 +301,29 @@
 {1300}{}{That'll be a cool scar!}
 {1301}{}{I'm starting to get annoyed.}
 {1302}{}{Do that again, pig.}
-{1303}{}{That just makes me mad.}
-{1304}{}{That ringing sound I hear is your death-knell.}
-{1305}{}{One more scar won't make me any uglier.}
-{1306}{}{I didn't even feel that one.}
-{1307}{}{At least you only hit my head.}
-{1308}{}{Youch, that hurt, a little.}
-{1309}{}{I still have *some* teeth left.}
+{1303}{}{Det gör mig bara arg.}
+{1304}{}{Det där ringande ljudet jag hör är din dödsklocka.}
+{1305}{}{Ett ärr till kommer inte att göra mig fulare.}
+{1306}{}{Jag kände inte ens det där.}
+{1307}{}{Du träffade i alla fall bara i mitt huvud.}
+{1308}{}{Jösses, det gjorde lite ont.}
+{1309}{}{Jag har fortfarande *några* tänder kvar.}
 {1310}{}{You winged me!}
-{1311}{}{I can take you one-handed.}
+{1311}{}{Jag kan ta mig an dig med bara en hand.}
 {1312}{}{You broke my arm, but I'll break your neck!}
-{1313}{}{You can't stop me that easy.}
-{1314}{}{That was just my left arm.}
-{1315}{}{I can still take care of little problems like you.}
-{1316}{}{Damn, you got my left arm.}
-{1317}{}{Took out my elbow!}
-{1318}{}{Crap, there go a couple more fingers.}
-{1319}{}{You take my finger, I'll take your Goddamn hand.}
-{1320}{}{I can take you left-handed.}
+{1313}{}{Du kan inte stoppa mig så lätt.}
+{1314}{}{Det var bara min vänstra arm.}
+{1315}{}{Jag kan fortfarande ta hand om små problem som du.}
+{1316}{}{Fan, du träffade min vänsterarm.}
+{1317}{}{Du slog ut min armbåge!}
+{1318}{}{Fan, där försvann ett par fingrar till.}
+{1319}{}{Om du tar mitt finger, så tar jag din jävla hand.}
+{1320}{}{Jag kan ta mig an dig vänsterhänt.}
 {1321}{}{It's just a scratch...}
-{1322}{}{You broke my arm, so I'm gonna break your neck.}
-{1323}{}{I only need one arm to take you out.}
-{1324}{}{Took off another finger. That hurt.}
-{1325}{}{I don't need that arm anyway.}
+{1322}{}{Du bröt min arm, så jag ska bryta din nacke.}
+{1323}{}{Jag behöver bara en arm för att slå ner dig.}
+{1324}{}{Du tog bort ett finger till. Det gjorde ont.}
+{1325}{}{Jag behöver inte den armen ändå.}
 {1326}{}{That's more than a scratch.}
 {1327}{}{Goddamn that hurt.}
 {1328}{}{That'll need stitches.}
