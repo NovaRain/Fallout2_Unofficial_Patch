@@ -353,10 +353,10 @@
 {453}{}{New Reno Virgin Street}
 {454}{}{New Reno 2:a gatan}
 {455}{}{New Reno Commercial Row}
-{456}{}{New Reno East Side}
-{457}{}{New Reno Stables}
+{456}{}{New Reno Öst}
+{457}{}{New Reno-stall}
 {458}{}{New Reno Chop Shop}
-{459}{}{New Reno Gologtha}
+{459}{}{Nya Reno Gologta}
 {460}{}{New Reno Bishop Basement}
 {461}{}{Holodisk}
 {462}{}{Holodisk}
@@ -366,11 +366,11 @@
 {466}{}{Guard}
 {467}{}{Mine Cart}
 {468}{}{Melchior}
-{469}{}{Mutated Beast}
+{469}{}{Muterat Odjur}
 {470}{}{FEV Goo}
-{471}{}{Guard Captain}
-{472}{}{Slave Overseer}
-{473}{}{Melchior's Pet}
+{471}{}{Vaktkapten}
+{472}{}{Slavövervakare}
+{473}{}{Melchiors Husdjur}
 {474}{}{Slaver Guard}
 {475}{}{Door}
 {476}{}{Terminal}
@@ -381,7 +381,7 @@
 {481}{}{Emitter}
 {482}{}{Kraftfält}
 {483}{}{Sulik}
-{484}{}{Dr. Henry}
+{484}{}{Dr Henry}
 {485}{}{Guard}
 {486}{}{Carlson Guards Attack}
 {487}{}{Carlson's Gate Guards}
