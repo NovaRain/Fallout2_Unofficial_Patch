@@ -237,30 +237,30 @@
 {337}{}{Emitter}
 {338}{}{Emitter}
 {339}{}{Emitter}
-{340}{}{Force Field}
-{341}{}{Force Field}
-{342}{}{Force Field}
-{343}{}{Force Field}
-{344}{}{Force Field}
-{345}{}{Force Field}
-{346}{}{Force Field}
-{347}{}{Force Field}
-{348}{}{Force Field}
-{349}{}{Force Field}
-{350}{}{Force Field}
+{340}{}{Kraftfält}
+{341}{}{Kraftfält}
+{342}{}{Kraftfält}
+{343}{}{Kraftfält}
+{344}{}{Kraftfält}
+{345}{}{Kraftfält}
+{346}{}{Kraftfält}
+{347}{}{Kraftfält}
+{348}{}{Kraftfält}
+{349}{}{Kraftfält}
+{350}{}{Kraftfält}
 {351}{}{Klaxon}
 {352}{}{Buster}
 {353}{}{Bookshelf}
 {354}{}{Bookshelf}
 {355}{}{Bookshelf}
 {356}{}{Raider}
-{357}{}{Peasant}
+{357}{}{Bonde}
 {358}{}{Köpman}
 {359}{}{Guard}
 {360}{}{Rawhide Patron}
 {361}{}{Floor}
-{362}{}{Plasma Trap}
-{363}{}{Plasma Trap}
+{362}{}{Plasmafälla}
+{363}{}{Plasmafälla}
 {364}{}{Terminal}
 {365}{}{Bulletin Board}
 {366}{}{Gate}
@@ -294,11 +294,11 @@
 {394}{}{Map Script}
 {395}{}{Map Script}
 {396}{}{Still}
-{397}{}{Bar Customer}
-{398}{}{Bar Customer}
+{397}{}{Barkund}
+{398}{}{Barkund}
 {399}{}{Vortis}
-{400}{}{Bath Attendant}
-{401}{}{Slaves}
+{400}{}{Badvakt}
+{401}{}{Slavar}
 {402}{}{Skorpion}
 {403}{}{Brahmin}
 {404}{}{Car}
@@ -309,7 +309,7 @@
 {409}{}{Map Script}
 {410}{}{Corvega}
 {411}{}{Map Script}
-{412}{}{Metal Door}
+{412}{}{Metalldörr}
 {413}{}{Map Script}
 {414}{}{Map Script}
 {415}{}{Map Script}
@@ -324,34 +324,34 @@
 {424}{}{Scientist}
 {425}{}{Merk}
 {426}{}{Fan}
-{427}{}{Drug Dealer}
-{428}{}{Casino Patron}
-{429}{}{Pimp}
-{430}{}{Junkie}
-{431}{}{Furniture}
+{427}{}{Knarklangare}
+{428}{}{Kasinobesökare}
+{429}{}{Hallick}
+{430}{}{Pundare}
+{431}{}{Möbler}
 {432}{}{Floor}
 {433}{}{Ground}
 {434}{}{Holodisk}
 {435}{}{Lenny}
 {436}{}{Box}
-{437}{}{Prostitute}
+{437}{}{Prostituerad}
 {438}{}{Slave}
 {439}{}{Rico}
-{440}{}{Porn Actress}
+{440}{}{Porrskådespelerska}
 {441}{}{Fluffer}
 {442}{}{Map Script}
 {443}{}{Wolf}
 {444}{}{Generator}
 {445}{}{Door}
-{446}{}{Super mutant}
+{446}{}{Supermutant}
 {447}{}{Salvatore's Man}
 {448}{}{Bishop's Man}
 {449}{}{Mordino's Man}
 {450}{}{Wright's Child}
-{451}{}{Casino Bouncer}
+{451}{}{Kasinodörrvakt}
 {452}{}{Mira}
 {453}{}{New Reno Virgin Street}
-{454}{}{New Reno 2nd Street}
+{454}{}{New Reno 2:a gatan}
 {455}{}{New Reno Commercial Row}
 {456}{}{New Reno East Side}
 {457}{}{New Reno Stables}
@@ -379,7 +379,7 @@
 {479}{}{Sheb}
 {480}{}{Guard}
 {481}{}{Emitter}
-{482}{}{Force Field}
+{482}{}{Kraftfält}
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
 {485}{}{Guard}
@@ -503,7 +503,7 @@
 {603}{}{Squatter}
 {604}{}{Abolitionist}
 {605}{}{Bootlegger}
-{606}{}{Super mutant}
+{606}{}{Supermutant}
 {607}{}{Fisherman}
 {608}{}{Slaver}
 {609}{}{Trapper}
@@ -635,8 +635,8 @@
 {735}{}{Computer Terminal}
 {736}{}{Computer}
 {737}{}{Power Generator}
-{738}{}{Force Field}
-{739}{}{Peasant}
+{738}{}{Kraftfält}
+{739}{}{Bonde}
 {740}{}{Emitter}
 {741}{}{Vault Door}
 {742}{}{Security Door}
@@ -741,10 +741,10 @@
 {841}{}{Handlare}
 {842}{}{Scavenger}
 {843}{}{Köpman}
-{844}{}{Peasant}
+{844}{}{Bonde}
 {845}{}{Arroyo Temple}
 {846}{}{Dock Worker}
-{847}{}{Peasant}
+{847}{}{Bonde}
 {848}{}{Shi Guard}
 {849}{}{Cameron}
 {850}{}{Door}
@@ -1015,9 +1015,9 @@
 {1115}{}{Emitter}
 {1116}{}{Emitter}
 {1117}{}{Emitter}
-{1118}{}{Force Field}
-{1119}{}{Force Field}
-{1120}{}{Force Field}
+{1118}{}{Kraftfält}
+{1119}{}{Kraftfält}
+{1120}{}{Kraftfält}
 {1121}{}{Hubologist}
 {1122}{}{Computer}
 {1123}{}{Bunker Door}
@@ -1168,7 +1168,7 @@
 {1268}{}{Gang Thug}
 {1269}{}{Cheater}
 {1270}{}{}
-{1271}{}{Peasant}
+{1271}{}{Bonde}
 {1272}{}{The Lavender Flower}
 {1273}{}{Radskorpion}
 {1274}{}{Professor}
