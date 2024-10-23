@@ -1219,8 +1219,8 @@
 {5266}{}{Some deathclaws.}
 {5267}{}{Some fire geckos.}
 {5268}{}{Some aliens.}
-{5269}{}{A pack of centaurs.}
-{5270}{}{A swarm of floaters.}
+{5269}{}{Ett paket kentaurer.}
+{5270}{}{En svärm av svävare.}
 {5271}{}{The remains of a whale.}
 {5272}{}{A giant stone head.}
 {5273}{}{A crashed shuttle.}
@@ -1229,7 +1229,7 @@
 {5276}{}{A tin woodsman.}
 {5277}{}{The Unwashed Villagers hunting a spammer.}
 {5278}{}{The Cafe of Broken Dreams.}
-{5300}{}{Some aliens and deathclaws.}
+{5300}{}{Några utomjordingar och dödsklor.}
 {5301}{}{An army of floaters and centaurs.}
 {5302}{}{Some fire geckos.}
 {5303}{}{A large pack of aliens.}
@@ -1245,11 +1245,11 @@
 {5313}{}{Some deathclaws.}
 {5314}{}{Some fire geckos.}
 {5315}{}{Some aliens.}
-{5316}{}{A pack of centaurs.}
-{5317}{}{A swarm of floaters.}
+{5316}{}{Ett paket kentaurer.}
+{5317}{}{En svärm av svävare.}
 {5318}{}{A man guarding a bridge.}
 {5319}{}{King Arthur's Knights fighting a rat.}
-{5350}{}{Some aliens and deathclaws.}
+{5350}{}{Några utomjordingar och dödsklor.}
 {5351}{}{An army of floaters and centaurs.}
 {5352}{}{Some fire geckos.}
 {5353}{}{A large pack of aliens.}
@@ -1265,12 +1265,12 @@
 {5363}{}{Some deathclaws.}
 {5364}{}{Some fire geckos.}
 {5365}{}{Some aliens.}
-{5366}{}{A pack of centaurs.}
-{5367}{}{A swarm of floaters.}
+{5366}{}{Ett paket kentaurer.}
+{5367}{}{En svärm av svävare.}
 {5400}{}{Toxic waste dump.}
 {5401}{}{A lone surviving dog.}
 {5402}{}{A herd of brahmin.}
-{5403}{}{A pack of fire geckos.}
+{5403}{}{En flock av eldsprutande geckoödlor.}
 {5404}{}{Some bounty hunters.}
 {5405}{}{Some bounty hunters.}
 {5406}{}{Some bounty hunters.}
@@ -1280,7 +1280,7 @@
 {5410}{}{Some bounty hunters.}
 {5411}{}{Some bounty hunters.}
 {5412}{}{A band of ruffians led by a Morton Brother.}
-{5413}{}{A pack of fire geckos.}
+{5413}{}{En flock av eldsprutande geckoödlor.}
 {5414}{}{A large pack of golden geckos.}
 {5415}{}{The remains of a whale.}
 {5416}{}{A giant stone head.}
@@ -1290,8 +1290,8 @@
 {5420}{}{A tin woodsman.}
 {5421}{}{The Unwashed Villagers hunting a spammer.}
 {5422}{}{The Cafe of Broken Dreams.}
-{5450}{}{A pack of fire geckos.}
-{5451}{}{A pack of fire geckos.}
+{5450}{}{En flock av eldsprutande geckoödlor.}
+{5451}{}{En flock av eldsprutande geckoödlor.}
 {5452}{}{A large pack of golden geckos.}
 {5453}{}{Some bounty hunters.}
 {5454}{}{Some bounty hunters.}
@@ -1304,8 +1304,8 @@
 {5461}{}{A band of ruffians led by a Morton Brother.}
 {5462}{}{A man guarding a bridge.}
 {5463}{}{King Arthur's Knights fighting a rat.}
-{5500}{}{A pack of fire geckos.}
-{5501}{}{A pack of fire geckos.}
+{5500}{}{En flock av eldsprutande geckoödlor.}
+{5501}{}{En flock av eldsprutande geckoödlor.}
 {5502}{}{A large pack of golden geckos.}
 {5503}{}{Some bounty hunters.}
 {5504}{}{Some bounty hunters.}
@@ -1319,7 +1319,7 @@
 {5550}{}{Toxic waste dump.}
 {5551}{}{A lone surviving dog.}
 {5552}{}{A herd of brahmin.}
-{5553}{}{A pack of deathclaws.}
+{5553}{}{En flock dödsklor.}
 {5554}{}{Some bounty hunters.}
 {5555}{}{Some bounty hunters.}
 {5556}{}{Some bounty hunters.}
@@ -1329,11 +1329,11 @@
 {5560}{}{Some bounty hunters.}
 {5561}{}{Some bounty hunters.}
 {5562}{}{A band of ruffians led by a Morton Brother.}
-{5563}{}{A pack of fire geckos.}
-{5564}{}{A caravan fending off deathclaws.}
-{5565}{}{A caravan fending off deathclaws.}
-{5566}{}{A caravan fending off fire geckos.}
-{5567}{}{A caravan fending off fire geckos.}
+{5563}{}{En flock av eldsprutande geckoödlor.}
+{5564}{}{En karavan som försvarar sig mot dödsklor.}
+{5565}{}{En karavan som försvarar sig mot dödsklor.}
+{5566}{}{En karavan som försvarar sig mot eldsprutande geckoödlor.}
+{5567}{}{En karavan som försvarar sig mot eldsprutande geckoödlor.}
 {5568}{}{A caravan.}
 {5569}{}{A caravan.}
 {5570}{}{A caravan.}
@@ -1345,10 +1345,10 @@
 {5576}{}{King Arthur's Knights.}
 {5577}{}{A tin woodsman.}
 {5578}{}{The Unwashed Villagers hunting a spammer.}
-{5600}{}{A pack of deathclaws.}
-{5601}{}{A pack of fire geckos.}
-{5602}{}{A caravan fending off deathclaws.}
-{5603}{}{A caravan fending off deathclaws.}
+{5600}{}{En flock dödsklor.}
+{5601}{}{En flock av eldsprutande geckoödlor.}
+{5602}{}{En karavan som försvarar sig mot dödsklor.}
+{5603}{}{En karavan som försvarar sig mot dödsklor.}
 {5604}{}{Some bounty hunters.}
 {5605}{}{Some bounty hunters.}
 {5606}{}{Some bounty hunters.}
@@ -1358,8 +1358,8 @@
 {5610}{}{Some bounty hunters.}
 {5611}{}{Some bounty hunters.}
 {5612}{}{A band of ruffians led by a Morton Brother.}
-{5613}{}{A caravan fending off fire geckos.}
-{5614}{}{A caravan fending off fire geckos.}
+{5613}{}{En karavan som försvarar sig mot eldsprutande geckoödlor.}
+{5614}{}{En karavan som försvarar sig mot eldsprutande geckoödlor.}
 {5615}{}{A caravan.}
 {5616}{}{A caravan.}
 {5617}{}{A caravan.}
@@ -1369,7 +1369,7 @@
 {5650}{}{Toxic waste dump.}
 {5651}{}{A lone surviving dog.}
 {5652}{}{A herd of brahmin.}
-{5653}{}{Some yakuza.}
+{5653}{}{Några yakuza.}
 {5654}{}{Some bounty hunters.}
 {5655}{}{Some bounty hunters.}
 {5656}{}{Some bounty hunters.}
@@ -1379,11 +1379,11 @@
 {5660}{}{Some bounty hunters.}
 {5661}{}{Some bounty hunters.}
 {5662}{}{A band of ruffians led by a Morton Brother.}
-{5663}{}{A gang.}
+{5663}{}{Ett gäng.}
 {5664}{}{En flock vargar.}
-{5665}{}{Some mobsters fighting some yakuza.}
-{5666}{}{Some mobsters fighting a gang.}
-{5667}{}{Some mobsters.}
+{5665}{}{Några gangsters slåss mot några yakuza.}
+{5666}{}{Några gangsters som slåss mot ett gäng.}
+{5667}{}{Några gangsters.}
 {5668}{}{En resenär.}
 {5669}{}{The remains of a whale.}
 {5670}{}{A giant stone head.}
@@ -1393,10 +1393,10 @@
 {5674}{}{A tin woodsman.}
 {5675}{}{The Unwashed Villagers hunting a spammer.}
 {5676}{}{The Cafe of Broken Dreams.}
-{5700}{}{Some yakuza.}
-{5701}{}{A gang.}
+{5700}{}{Några yakuza.}
+{5701}{}{Ett gäng.}
 {5702}{}{En flock vargar.}
-{5703}{}{Some mobsters fighting some yakuza.}
+{5703}{}{Några gangsters slåss mot några yakuza.}
 {5704}{}{Some bounty hunters.}
 {5705}{}{Some bounty hunters.}
 {5706}{}{Some bounty hunters.}
@@ -1406,15 +1406,15 @@
 {5710}{}{Some bounty hunters.}
 {5711}{}{Some bounty hunters.}
 {5712}{}{A band of ruffians led by a Morton Brother.}
-{5713}{}{Some mobsters fighting a gang.}
-{5714}{}{Some mobsters.}
+{5713}{}{Några gangsters som slåss mot ett gäng.}
+{5714}{}{Några gangsters.}
 {5715}{}{En resenär.}
 {5716}{}{A man guarding a bridge.}
 {5717}{}{King Arthur's Knights fighting a rat.}
-{5750}{}{Some yakuza.}
-{5751}{}{A gang.}
+{5750}{}{Några yakuza.}
+{5751}{}{Ett gäng.}
 {5752}{}{En flock vargar.}
-{5753}{}{Some mobsters fighting some yakuza.}
+{5753}{}{Några gangsters slåss mot några yakuza.}
 {5754}{}{Some bounty hunters.}
 {5755}{}{Some bounty hunters.}
 {5756}{}{Some bounty hunters.}
@@ -1424,8 +1424,8 @@
 {5760}{}{Some bounty hunters.}
 {5761}{}{Some bounty hunters.}
 {5762}{}{A band of ruffians led by a Morton Brother.}
-{5763}{}{Some mobsters fighting a gang.}
-{5764}{}{Some mobsters.}
+{5763}{}{Några gangsters som slåss mot ett gäng.}
+{5764}{}{Några gangsters.}
 {5765}{}{En resenär.}
 {5800}{}{Toxic waste dump.}
 {5801}{}{A lone surviving dog.}
@@ -1475,7 +1475,7 @@
 {5868}{}{King Arthur's Knights fighting a rat.}
 {5900}{}{Ett band av legosoldater.}
 {5901}{}{A press gang.}
-{5902}{}{En flock dödsklor.}
+{5902}{}{En hjord av dödsklor.}
 {5903}{}{Ett parti eldsprutande geckoödlor.}
 {5904}{}{Some bounty hunters.}
 {5905}{}{Some bounty hunters.}
@@ -1492,7 +1492,7 @@
 {5916}{}{Hubologister.}
 {5950}{}{Ett band av legosoldater.}
 {5951}{}{A press gang.}
-{5952}{}{En flock dödsklor.}
+{5952}{}{En hjord av dödsklor.}
 {5953}{}{Ett parti eldsprutande geckoödlor.}
 {5954}{}{Some bounty hunters.}
 {5955}{}{Some bounty hunters.}
@@ -1511,7 +1511,7 @@
 {5968}{}{King Arthur's Knights fighting a rat.}
 {6000}{}{Ett band av legosoldater.}
 {6001}{}{A press gang.}
-{6002}{}{En flock dödsklor.}
+{6002}{}{En hjord av dödsklor.}
 {6003}{}{Ett parti eldsprutande geckoödlor.}
 {6004}{}{Some bounty hunters.}
 {6005}{}{Some bounty hunters.}
@@ -1540,7 +1540,7 @@
 {6061}{}{Some bounty hunters.}
 {6062}{}{A band of ruffians led by a Morton Brother.}
 {6063}{}{A press gang.}
-{6064}{}{En flock dödsklor.}
+{6064}{}{En hjord av dödsklor.}
 {6065}{}{Ett parti eldsprutande geckoödlor.}
 {6066}{}{En massa utomjordingar.}
 {6067}{}{Hubologister som slåss mot legosoldater.}
@@ -1567,12 +1567,12 @@
 {6110}{}{Some bounty hunters.}
 {6111}{}{Some bounty hunters.}
 {6112}{}{A band of ruffians led by a Morton Brother.}
-{6113}{}{A pack of deathclaws.}
-{6114}{}{A pack of fire geckos.}
+{6113}{}{En flock dödsklor.}
+{6114}{}{En flock av eldsprutande geckoödlor.}
 {6115}{}{En massa utomjordingar.}
 {6116}{}{En karavan som försvarar sig mot legosoldater.}
 {6117}{}{En karavan som försvarar sig mot legosoldater.}
-{6118}{}{A caravan fending off fire geckos.}
+{6118}{}{En karavan som försvarar sig mot eldsprutande geckoödlor.}
 {6119}{}{En karavan som försvarar sig mot utomjordingar.}
 {6120}{}{A caravan.}
 {6121}{}{A caravan.}
@@ -1585,8 +1585,8 @@
 {6128}{}{The Unwashed Villagers hunting a spammer.}
 {6129}{}{The Cafe of Broken Dreams.}
 {6150}{}{Ett band av legosoldater.}
-{6151}{}{A pack of deathclaws.}
-{6152}{}{A pack of fire geckos.}
+{6151}{}{En flock dödsklor.}
+{6152}{}{En flock av eldsprutande geckoödlor.}
 {6153}{}{En massa utomjordingar.}
 {6154}{}{Some bounty hunters.}
 {6155}{}{Some bounty hunters.}
@@ -1599,7 +1599,7 @@
 {6162}{}{A band of ruffians led by a Morton Brother.}
 {6163}{}{En karavan som försvarar sig mot legosoldater.}
 {6164}{}{En karavan som försvarar sig mot legosoldater.}
-{6165}{}{A caravan fending off fire geckos.}
+{6165}{}{En karavan som försvarar sig mot eldsprutande geckoödlor.}
 {6166}{}{En karavan som försvarar sig mot utomjordingar.}
 {6167}{}{A caravan.}
 {6168}{}{A caravan.}
@@ -1617,7 +1617,7 @@
 {6211}{}{Some bounty hunters.}
 {6212}{}{A band of ruffians led by a Morton Brother.}
 {6213}{}{Rester av Mästarens armé.}
-{6214}{}{A pack of deathclaws.}
+{6214}{}{En flock dödsklor.}
 {6215}{}{A swarm of mantis.}
 {6216}{}{The remains of a whale.}
 {6217}{}{A giant stone head.}
@@ -1629,7 +1629,7 @@
 {6223}{}{The Cafe of Broken Dreams.}
 {6250}{}{An Enclave patrol.}
 {6251}{}{Rester av Mästarens armé.}
-{6252}{}{A pack of deathclaws.}
+{6252}{}{En flock dödsklor.}
 {6253}{}{A swarm of mantis.}
 {6254}{}{Some bounty hunters.}
 {6255}{}{Some bounty hunters.}
@@ -1656,7 +1656,7 @@
 {6311}{}{Some bounty hunters.}
 {6312}{}{A band of ruffians led by a Morton Brother.}
 {6313}{}{En karavan som försvarar sig mot rester av Mästarens armé.}
-{6314}{}{A caravan fending off some deathclaws.}
+{6314}{}{En karavan som försvarar sig mot några dödsklor.}
 {6315}{}{A caravan.}
 {6316}{}{A caravan.}
 {6317}{}{A caravan.}
@@ -1670,7 +1670,7 @@
 {6325}{}{The Cafe of Broken Dreams.}
 {6350}{}{En karavan som försvarar sig mot rester av Mästarens armé.}
 {6351}{}{En karavan som försvarar sig mot rester av Mästarens armé.}
-{6352}{}{A caravan fending off some deathclaws.}
+{6352}{}{En karavan som försvarar sig mot några dödsklor.}
 {6353}{}{A caravan.}
 {6354}{}{Some bounty hunters.}
 {6355}{}{Some bounty hunters.}
@@ -1725,7 +1725,7 @@
 {6500}{}{Toxic waste dump.}
 {6501}{}{A lone surviving dog.}
 {6502}{}{A herd of brahmin.}
-{6503}{}{A band of marauders.}
+{6503}{}{Ett band av marodörer.}
 {6504}{}{Some bounty hunters.}
 {6505}{}{Some bounty hunters.}
 {6506}{}{Some bounty hunters.}
@@ -1737,10 +1737,10 @@
 {6512}{}{A band of ruffians led by a Morton Brother.}
 {6513}{}{En flock vargar.}
 {6514}{}{A pack of radscorpions.}
-{6515}{}{A caravan fending off marauders.}
-{6516}{}{A caravan fending off marauders.}
-{6517}{}{A caravan fending off wolves.}
-{6518}{}{A caravan fending off radscorpions.}
+{6515}{}{En karavan som försvarar sig mot marodörer.}
+{6516}{}{En karavan som försvarar sig mot marodörer.}
+{6517}{}{En karavan som försvarar sig mot vargar.}
+{6518}{}{En karavan som försvarar sig mot radioaktiva skorpioner.}
 {6519}{}{A caravan.}
 {6520}{}{A caravan.}
 {6521}{}{A caravan.}
@@ -1754,10 +1754,10 @@
 {6529}{}{A tin woodsman.}
 {6530}{}{The Unwashed Villagers hunting a spammer.}
 {6531}{}{The Cafe of Broken Dreams.}
-{6550}{}{A band of marauders.}
+{6550}{}{Ett band av marodörer.}
 {6551}{}{En flock vargar.}
 {6552}{}{A pack of radscorpions.}
-{6553}{}{A caravan fending off marauders.}
+{6553}{}{En karavan som försvarar sig mot marodörer.}
 {6554}{}{Some bounty hunters.}
 {6555}{}{Some bounty hunters.}
 {6556}{}{Some bounty hunters.}
@@ -1767,9 +1767,9 @@
 {6560}{}{Some bounty hunters.}
 {6561}{}{Some bounty hunters.}
 {6562}{}{A band of ruffians led by a Morton Brother.}
-{6563}{}{A caravan fending off marauders.}
-{6564}{}{A caravan fending off wolves.}
-{6565}{}{A caravan fending off radscorpions.}
+{6563}{}{En karavan som försvarar sig mot marodörer.}
+{6564}{}{En karavan som försvarar sig mot vargar.}
+{6565}{}{En karavan som försvarar sig mot radioaktiva skorpioner.}
 {6566}{}{A caravan.}
 {6567}{}{A caravan.}
 {6568}{}{A caravan.}
@@ -1777,8 +1777,8 @@
 {6570}{}{En resenär.}
 {6571}{}{A man guarding a bridge.}
 {6572}{}{King Arthur's Knights fighting a rat.}
-{6600}{}{A deteachment of the Master's armies.}
-{6601}{}{A band of marauders.}
+{6600}{}{En avdelning från Mästarens arméer.}
+{6601}{}{Ett band av marodörer.}
 {6602}{}{Some Rangers fending off a squad of the Master's armies.}
 {6603}{}{Some Rangers fighting some marauders.}
 {6604}{}{Some bounty hunters.}
@@ -1790,8 +1790,8 @@
 {6610}{}{Some bounty hunters.}
 {6611}{}{Some bounty hunters.}
 {6612}{}{A band of ruffians led by a Morton Brother.}
-{6613}{}{Some farmers fending off parts of the Master's armies.}
-{6614}{}{Some farmers fending off marauders.}
+{6613}{}{Några bönder som försvarar sig mot delar av Mästarens arméer.}
+{6614}{}{Några bönder som försvarar sig mot marodörer.}
 {6615}{}{A detachment of NCR Rangers.}
 {6616}{}{Some farmers.}
 {6617}{}{A man guarding a bridge.}
@@ -1799,7 +1799,7 @@
 {6650}{}{Toxic waste dump.}
 {6651}{}{A lone surviving dog.}
 {6652}{}{A herd of brahmin.}
-{6653}{}{A detachment of the Master's armies.}
+{6653}{}{En avdelning från Mästarens arméer.}
 {6654}{}{Some bounty hunters.}
 {6655}{}{Some bounty hunters.}
 {6656}{}{Some bounty hunters.}
@@ -1809,11 +1809,11 @@
 {6660}{}{Some bounty hunters.}
 {6661}{}{Some bounty hunters.}
 {6662}{}{A band of ruffians led by a Morton Brother.}
-{6663}{}{A band of marauders.}
+{6663}{}{Ett band av marodörer.}
 {6664}{}{Some Rangers fending off a squad of the Master's armies.}
 {6665}{}{Some Rangers fighting some marauders.}
-{6666}{}{Some farmers fending off parts of the Master's armies.}
-{6667}{}{Some farmers fending off marauders.}
+{6666}{}{Några bönder som försvarar sig mot delar av Mästarens arméer.}
+{6667}{}{Några bönder som försvarar sig mot marodörer.}
 {6668}{}{A detachment of NCR Rangers.}
 {6669}{}{Some farmers.}
 {6670}{}{The remains of a whale.}
@@ -1824,7 +1824,7 @@
 {6675}{}{A tin woodsman.}
 {6676}{}{The Unwashed Villagers hunting a spammer.}
 {6677}{}{The Cafe of Broken Dreams.}
-{6700}{}{Remnants of the Master's army fighting mutated molerats.}
+{6700}{}{Spillror av Mästarens armé slåss mot muterade mullvadsråttor.}
 {6701}{}{Rester av Mästarens arméer.}
 {6702}{}{A swarm of mantis.}
 {6703}{}{En flock muterade mullvadsråttor.}
@@ -1843,7 +1843,7 @@
 {6750}{}{Toxic waste dump.}
 {6751}{}{A lone surviving dog.}
 {6752}{}{A herd of brahmin.}
-{6753}{}{Remnants of the Master's army fighting mutated molerats.}
+{6753}{}{Spillror av Mästarens armé slåss mot muterade mullvadsråttor.}
 {6754}{}{Some bounty hunters.}
 {6755}{}{Some bounty hunters.}
 {6756}{}{Some bounty hunters.}

@@ -8,7 +8,7 @@
 {213}{}{Kommandocentral}
 {220}{}{Entrance}
 {221}{}{Garden}
-{222}{}{Brahmin Pen}
+{222}{}{Brahma-inhängnad}
 {230}{}{Entrance}
 {231}{}{Crash House}
 {232}{}{Kasino}

@@ -844,10 +844,10 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {837}{}{Degenerate!}
 {838}{}{Outsider}
 {839}{}{Outsider filth...}
-{840}{}{*Snorts*}
+{840}{}{*Fnys*}
 {841}{}{*Zzzzzzzzzzz*}
-{842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if
- the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
+{842}{}{Det som finns på disken borde sätta stopp för dem; plundrarna har blivit avslöjade, och om
+ diskens innehåll skulle komma ut till NKRs yttre distrikt skulle ingen lita på dem igen.}
 {843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship
  depends on resolving this situation... completely. Am I making myself clear?}
 {844}{}{Sorry, thought I'd killed them all.}
