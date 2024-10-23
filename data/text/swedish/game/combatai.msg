@@ -80,7 +80,7 @@
 {1079}{}{It's a bad one, oh God, why me.}
 {1080}{}{Ow!! My eyes!}
 {1081}{}{My face! My eyes! Arrrrgh!}
-{1082}{}{My eyes!}
+{1082}{}{Mina ögon!}
 {1083}{}{Oh God, I'm blind!}
 {1084}{}{You tore my eye out! Oh God, nooooo.}
 {1085}{}{Not my eyes, anything but that.}
@@ -88,12 +88,12 @@
 {1087}{}{Not my eyes, please not that.}
 {1088}{}{I'm blind, just kill me. (sob, sob)}
 {1089}{}{Where's my eye, if I could just push it back in....}
-{1090}{}{Ooooooooo, my groin! Ooooooo...}
-{1091}{}{Oww... It burns!}
+{1090}{}{Ååååååååå, mitt skrev! Ååååååå...}
+{1091}{}{Ajj... Det bränns!}
 {1092}{}{Urp!}
 {1093}{}{Ooorp! aoooww...}
-{1094}{}{I... can't... breathe...}
-{1095}{}{The pain, the pain...}
+{1094}{}{Jag... kan... inte... andas...}
+{1095}{}{Smärtan, smärtan...}
 {1096}{}{And I wanted a family too.}
 {1097}{}{Now I'll never have more kids.}
 {1098}{}{Why there? Why?}
@@ -102,7 +102,7 @@
 {1101}{}{That wasn't fair.}
 {1102}{}{Cow... ard, unh....}
 {1103}{}{Förbannat!}
-{1104}{}{My aching skull!}
+{1104}{}{Min värkande skalle!}
 {1105}{}{My face! My face!}
 {1106}{}{I see stars!}
 {1107}{}{Who turned out the lights?}
@@ -111,9 +111,9 @@
 {1110}{}{Hah, at least you didn't hit anything important.}
 {1111}{}{Oooh, my head.}
 {1112}{}{I feel kinda dizzy.}
-{1113}{}{Aggghhh! My arm!}
-{1114}{}{My arm!}
-{1115}{}{Oh man, that hurts!}
+{1113}{}{Aggghhh! Min arm!}
+{1114}{}{Min arm!}
+{1115}{}{Åh jösses, det gör ont!}
 {1116}{}{My arm hurts, it's a bad one.}
 {1117}{}{My arm's all tore up.}
 {1118}{}{My arm's broken, here... and here....}
@@ -121,8 +121,8 @@
 {1120}{}{I can't feel anything, my arm's all numb.}
 {1121}{}{Someone bend my arm back, pleeeeeaassee?!?}
 {1122}{}{My thumb's been ripped right off my hand!}
-{1123}{}{Aggghhh! My arm!}
-{1124}{}{My arm!}
+{1123}{}{Aggghhh! Min arm!}
+{1124}{}{Min arm!}
 {1125}{}{My hand's almost torn off!}
 {1126}{}{Arrrrgh! Help me find my fingers!}
 {1127}{}{I'll never write that novel now.}
@@ -134,9 +134,9 @@
 {1133}{}{My legs, I can't feel my legs.}
 {1134}{}{Oof!}
 {1135}{}{Ouch!}
-{1136}{}{Oof! My ribs hurt}
-{1137}{}{Ugh! That hurt!}
-{1138}{}{Damn! I spit on you!}
+{1136}{}{Oof! Mina revben gör ont}
+{1137}{}{Ugh! Det där gjorde ont!}
+{1138}{}{Fan också! Jag spottar på dig!}
 {1139}{}{Argh!}
 {1140}{}{Oh, my ribs!}
 {1141}{}{Ow!!!}
@@ -190,9 +190,9 @@
 {1189}{}{I'd give anything to see again.}
 {1190}{}{Oooooo, my groin!}
 {1191}{}{Oooooooooo!}
-{1192}{}{I... can't... breathe...}
+{1192}{}{Jag... kan... inte... andas...}
 {1193}{}{Erg! Right in the jewels!}
-{1194}{}{The pain, the pain...}
+{1194}{}{Smärtan, smärtan...}
 {1195}{}{Damn, that hurts!}
 {1196}{}{No more kids for me.}
 {1197}{}{*unh* low blow.}
@@ -210,7 +210,7 @@
 {1209}{}{That's going to leave a scar.}
 {1210}{}{Ow, my arm.}
 {1211}{}{You just made the biggest mistake of your life.}
-{1212}{}{My arm!}
+{1212}{}{Min arm!}
 {1213}{}{Hah, I'm right handed.}
 {1214}{}{Only need one arm to kill you.}
 {1215}{}{I don't need those fingers anyway.}
@@ -220,7 +220,7 @@
 {1219}{}{Damn, snapped my arm right in two.}
 {1220}{}{Ow, my arm.}
 {1221}{}{You just made the biggest mistake of your life.}
-{1222}{}{My arm!}
+{1222}{}{Min arm!}
 {1223}{}{I can take you left handed.}
 {1224}{}{Hah, I'm a southpaw anyhow.}
 {1225}{}{Trying to disarm me huh?}
@@ -232,7 +232,7 @@
 {1231}{}{Oof!}
 {1232}{}{Ouch!}
 {1233}{}{Yup, that cracked some ribs alright.}
-{1234}{}{Ugh! That hurt!}
+{1234}{}{Ugh! Det där gjorde ont!}
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
 {1237}{}{Oh, I think you broke a rib!}
@@ -1815,12 +1815,12 @@
 {32080}{}{I can't see! You bastard!}
 {32081}{}{My face! My eyes! Arrrrgh!}
 {32082}{}{Where are you? Help!}
-{32090}{}{Ooooooooo, my groin! Ooooooo...}
+{32090}{}{Ååååååååå, mitt skrev! Ååååååå...}
 {32091}{}{I... I... ouch...}
 {32092}{}{::whimper::}
 {32093}{}{::vomit::}
-{32094}{}{I... can't... breathe...}
-{32095}{}{The pain, the pain...}
+{32094}{}{Jag... kan... inte... andas...}
+{32095}{}{Smärtan, smärtan...}
 {32100}{}{Your kung fu is better than mine!}
 {32101}{}{You are truly mighty. Goodbye.}
 {32102}{}{Aieee! Evil triumphs!}
@@ -2018,12 +2018,12 @@
 {32772}{}{Aaaarrrrggghhh!}
 {32780}{}{Ow!! My eyes!}
 {32781}{}{My face! My eyes! Arrrrgh!}
-{32782}{}{My eyes!}
-{32790}{}{Ooooooooo, my groin! Ooooooo...}
-{32791}{}{Oww... It burns!}
+{32782}{}{Mina ögon!}
+{32790}{}{Ååååååååå, mitt skrev! Ååååååå...}
+{32791}{}{Ajj... Det bränns!}
 {32792}{}{Urp!}
 {32793}{}{::gasp::}
-{32794}{}{I... can't... breathe...}
+{32794}{}{Jag... kan... inte... andas...}
 {32795}{}{good thing... I'm already... sterile...}
 {32800}{}{Star Father! Help us!}
 {32801}{}{My anodynes!}
@@ -3058,7 +3058,7 @@
 {41692}{}{My testicles!}
 {41693}{}{Oh... gods...}
 {41694}{}{Ow. Ow. OW!}
-{41695}{}{The pain, the pain...}
+{41695}{}{Smärtan, smärtan...}
 {41696}{}{The horror... the horror...}
 {41697}{}{::gasping::}
 {41698}{}{That... hurts...}

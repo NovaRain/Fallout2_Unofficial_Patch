@@ -151,9 +151,9 @@
 {219}{}{What I mean is that Fannie's got a problem and money isn't the answer for it. I hate to break
  your heart, but Fannie's just playing you for a sucker. She just wants money so that she can buy Jet.
  Too damn much Jet.}
-{220}{}{I think you're just worried that you're going to loose one of your best earners. You just want
- to keep your girls down.}
-{221}{}{Yeah, sure. I've heard enough. Goodbye.}
+{220}{}{Jag tror att du bara är orolig för att du kommer att förlora en av dina bästa inkomsttagare. Du vill bara
+ hålla dina flickor nere.}
+{221}{}{Ja, visst. Jag har hört tillräckligt. Hej då.}
 {222}{}{Helping her into the afterlife is what your extra money is doing. She's just using that money
  to buy too much Jet. She'll O.D. one of these days if you keep giving her money.}
 {223}{}{Hmm, I'll have to think about that.}
