@@ -92,21 +92,21 @@
 {1281}{}{Den här striden blir värre för varje sekund.}
 {1282}{}{That was a real cheap shot!}
 {1290}{}{Åååååå, mitt skrev!}
-{1291}{}{I'll feel that in the morning.}
+{1291}{}{Jag kommer att känna det i morgon bitti.}
 {1292}{}{}
 {1293}{}{Urp!}
 {1294}{}{}
 {1295}{}{}
-{1300}{}{That'll be a cool scar!}
-{1301}{}{I'm starting to get annoyed.}
-{1302}{}{Do that again, pig.}
+{1300}{}{Det där blir ett häftigt ärr!}
+{1301}{}{Jag börjar bli irriterad.}
+{1302}{}{Gör det igen, din gris.}
 {1310}{}{You winged me!}
 {1311}{}{}
-{1312}{}{You broke my arm, but I'll break your neck!}
+{1312}{}{Du bröt min arm, men jag ska bryta nacken av dig!}
 {1320}{}{}
-{1321}{}{It's just a scratch...}
-{1322}{}{You broke my arm, so I'm gonna break your neck!}
-{1330}{}{A little blood ain't hurt no-one.}
+{1321}{}{Det är bara en skråma...}
+{1322}{}{Du bröt min arm, så jag ska bryta nacken av dig!}
+{1330}{}{Lite blo' ha' aldri' skada' nån.}
 {1331}{}{Oof! I'm gonna scrag you for that...}
 {1332}{}{Aj!}
 {1333}{}{I like the pain!}
@@ -118,7 +118,7 @@
 {1362}{}{You broke my leg, but I'll break your neck!}
 {1370}{}{I love the sound of bones crunching.}
 {1371}{}{}
-{1372}{}{You broke my arm, but I'll break your neck!}
+{1372}{}{Du bröt min arm, men jag ska bryta nacken av dig!}
 {1380}{}{Hey, I'm blind.}
 {1381}{}{I can't see. That'll make this fair.}
 {1382}{}{My eyes, bitch!}

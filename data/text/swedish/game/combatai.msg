@@ -289,7 +289,7 @@
 {1288}{}{I can still hear where you are.}
 {1289}{}{Don't you ever touch my fucking eyes again!}
 {1290}{}{Åååååå, mitt skrev!}
-{1291}{}{I'll feel that in the morning.}
+{1291}{}{Jag kommer att känna det i morgon bitti.}
 {1292}{}{Fucking coward!}
 {1293}{}{Urp!}
 {1294}{}{That won't help you any.}
@@ -298,9 +298,9 @@
 {1297}{}{I'm gonna tear yours off and make you eat them.}
 {1298}{}{I think I need to sit down for a while.}
 {1299}{}{Got to try harder than that, my cup caught most of it.}
-{1300}{}{That'll be a cool scar!}
-{1301}{}{I'm starting to get annoyed.}
-{1302}{}{Do that again, pig.}
+{1300}{}{Det där blir ett häftigt ärr!}
+{1301}{}{Jag börjar bli irriterad.}
+{1302}{}{Gör det igen, din gris.}
 {1303}{}{Det gör mig bara arg.}
 {1304}{}{Det där ringande ljudet jag hör är din dödsklocka.}
 {1305}{}{Ett ärr till kommer inte att göra mig fulare.}
@@ -310,7 +310,7 @@
 {1309}{}{Jag har fortfarande *några* tänder kvar.}
 {1310}{}{You winged me!}
 {1311}{}{Jag kan ta mig an dig med bara en hand.}
-{1312}{}{You broke my arm, but I'll break your neck!}
+{1312}{}{Du bröt min arm, men jag ska bryta nacken av dig!}
 {1313}{}{Du kan inte stoppa mig så lätt.}
 {1314}{}{Det var bara min vänstra arm.}
 {1315}{}{Jag kan fortfarande ta hand om små problem som du.}
@@ -319,7 +319,7 @@
 {1318}{}{Fan, där försvann ett par fingrar till.}
 {1319}{}{Om du tar mitt finger, så tar jag din jävla hand.}
 {1320}{}{Jag kan ta mig an dig vänsterhänt.}
-{1321}{}{It's just a scratch...}
+{1321}{}{Det är bara en skråma...}
 {1322}{}{Du bröt min arm, så jag ska bryta din nacke.}
 {1323}{}{Jag behöver bara en arm för att slå ner dig.}
 {1324}{}{Du tog bort ett finger till. Det gjorde ont.}
@@ -328,7 +328,7 @@
 {1327}{}{Goddamn that hurt.}
 {1328}{}{That'll need stitches.}
 {1329}{}{I'll tear out your liver for that.}
-{1330}{}{A little blood ain't hurt no-one.}
+{1330}{}{Lite blo' ha' aldri' skada' nån.}
 {1331}{}{Oof! I'm gonna scrag you for that...}
 {1332}{}{Aj!}
 {1333}{}{I like the pain!}
