@@ -61,10 +61,6 @@
 # Arroyo
 #####
 408, 1, 440, nar_ar1
-#####
-# Add Ons of Arroyo
-#####
-700, 1, 471, nar_eldr #471 - killap 
 
 #####
 # Modoc
@@ -121,10 +117,6 @@
 417, 3, 443, nar_ge3
 417, 4, 443, nar_ge4
 417, 5, 443, nar_ge5
-#####
-# Add Ons of Gecko
-#####
-699, 1, 443, nar_hrld #uses the best Gecko ending bg
 
 #####
 # Redding
@@ -140,11 +132,6 @@
 419, 1, 441, nar_bh1
 419, 2, 441, nar_bh2
 419, 3, 441, nar_bh3
-#####
-# Add Ons of Broken Hills
-#####
-698, 1, 470, nar_marc #changed from 441 - killap
-
 
 #####
 # NCR
@@ -190,8 +177,3 @@
 # Subnode: Vagrants
 #####
 425, 1, 466, nar_sf3          # New Myron Pic: 467
-
-#####
-# President Richardson
-#####
-697, 1, 472, nar_pres
