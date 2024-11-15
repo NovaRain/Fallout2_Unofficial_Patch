@@ -286,4 +286,4 @@ Stimpaks übrig hättest, die könnt ich jetzt wirklich gebrauchen. Ich kann abe
 {20005}{}{Kannste vergessen. Wir bleiben bei der selben Anordnung wie immer.}
 {20006}{}{Schon gut. Ich muss gar nichts über deine Sachen wissen.}
 {20007}{}{Du musst diese Rüstung da ausziehen.}
-{30300}{}{[Next]}
+{30300}{}{[Weiter]}
