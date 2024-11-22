@@ -1,50 +1,50 @@
-{100}{}{You see a customer.}
-{101}{}{You see a townsperson.}
-{150}{}{He looks like he's headed somewhere.}
-{151}{}{She looks like she's headed somewhere.}
-{152}{}{He's busy drinking and talking to other customers.}
-{153}{}{She seems to be busy talking.}
-{154}{}{He's looking over Tubby's shelves.}
-{155}{}{She seems to be looking around Tubby's store.}
-{156}{}{You don't see anything unusual about him.}
-{157}{}{You don't see anything unusual about her.}
+{100}{}{Bạn thấy một khách hàng.}
+{101}{}{Bạn thấy một cư dân thị trấn.}
+{150}{}{Ông ta trông như đang đi đâu đó.}
+{151}{}{Cô ta trông như đang đi đâu đó.}
+{152}{}{Ông ta đang bận uống và nói chuyện với những khách hàng khác.}
+{153}{}{Cô ta có vẻ đang bận nói chuyện.}
+{154}{}{Ông ta đang xem mấy cái tủ của Tubby.}
+{155}{}{Cô ta trông như đang ngó hàng của Tubby.}
+{156}{}{Bạn không thấy ông ta có gì khác thường cả.}
+{157}{}{Bạn không thấy cô ta có gì khác thường cả.}
 {200}{}{Tránh xa ta ra!}
-{201}{}{Leave me alone!}
-{202}{}{Don't touch me!}
-{203}{}{Stop it!}
+{201}{}{Để tôi yên!}
+{202}{}{Đừng chạm vào tôi!}
+{203}{}{Thôi đi!}
 {204}{}{Đang làm gì thế?}
-{300}{}{Sorry, can't talk now.}
-{301}{}{Where was I going again?}
+{300}{}{Xin lỗi, giờ tôi không nói chuyện được.}
+{301}{}{Tôi đang đi đâu ấy nhỉ?}
 {302}{}{Chào.}
-{303}{}{Excuse me.}
+{303}{}{Thứ lỗi.}
 {304}{}{Chào.}
-{305}{}{Becky's place is the best, and not just cuz of the prices.}
-{306}{}{You here for the drinks or the tables?}
-{307}{}{All we need now are some troubadours.}
+{305}{}{Chỗ của Becky là số một, và không chỉ có mỗi giá thôi đâu.}
+{306}{}{Anh đến đây để uống hay chơi bạc?}
+{307}{}{Giờ thì chỉ cần thêm một lũ hát rong nữa thôi.}
 {308}{}{Chào.}
-{309}{}{You a gambler?}
-{310}{}{How's the outside world?}
-{311}{}{Frankie's a scum bag. He's mean to Becky for no reason.}
-{312}{}{You a friend of Becky?}
-{313}{}{Grab a drink, friend!}
-{314}{}{Drink up! Drinks are cheap!}
-{315}{}{There's no way these are watered down.}
-{316}{}{That Dyer sure knows her stuff.}
-{317}{}{Nothing like good drinks and good company.}
-{318}{}{Only trouble with Becky's drinks is you tend to drink to many!}
-{319}{}{Becky... I mean Rebecca sure is a sweetheart.}
-{320}{}{If anyone ever lays a finger on her, they'll regret it.}
-{321}{}{This is some good stuff.}
-{340}{}{We should kill you for what you did.}
-{341}{}{I don't know what she did to you but she didn't deserve to die.}
-{342}{}{Maybe we should head to New Reno, since Becky's is closed.}
-{343}{}{I miss Becky's smile.}
-{344}{}{No more cheap booze.}
-{345}{}{The Den isn't the same without Becky's.}
-{360}{}{Frankie's is truly a hole... in the wall, that is.}
-{361}{}{I like the Hole better than Becky's.}
-{362}{}{We call this place the Hole.}
-{363}{}{Take a seat. Oh, wait. Maybe not.}
+{309}{}{Anh có chơi không?}
+{310}{}{Bên ngoài sao rồi?}
+{311}{}{Frank là một gã tồi. Lão ta thù hận Becky chẳng vì cái gì cả.}
+{312}{}{Anh có phải bạn của Becky không?}
+{313}{}{Gọi đồ uống đi, bạn tôi ơi!}
+{314}{}{Uống đi! Đồ ở đây rẻ lắm!}
+{315}{}{Mấy món này không pha nước đâu.}
+{316}{}{Cô pha chế kia đúng là biết nghề đấy.}
+{317}{}{Rượu ngon bạn hiền, đúng là số dách.}
+{318}{}{Vấn đề duy nhất với đồ uống của Becky là lúc nào cũng muốn uống nhiều!}
+{319}{}{Becky... ý tôi là Rebecca đúng là một phụ nữ tuyệt vời.}
+{320}{}{Kẻ nào mà dám động tay vào cô ta sẽ phải hối hận.}
+{321}{}{Món này ngon đấy.}
+{340}{}{Bọn ta phải giết ngươi vì những gì ngươi đã làm.}
+{341}{}{Tôi không biết cô ta đã làm gì với cậu nhưng cô ta không đáng phải chết.}
+{342}{}{Có lẽ chúng ta nên đến New Reno vì giờ quán Becky đóng cửa rồi.}
+{343}{}{Tôi nhớ nụ cười của Becky quá.}
+{344}{}{Thế là hết rượu rẻ rồi.}
+{345}{}{The Den mà không có quán Becky thì không được như xưa nữa.}
+{360}{}{Frankie đúng là như lỗ... trên tường ấy.}
+{361}{}{Tôi thích quán Lỗ hơn chỗ Becky.}
+{362}{}{Chúng tôi gọi nơi này là Lỗ.}
+{363}{}{Ngồi đi. Ồ, chờ đã. Có thể là không.}
 {364}{}{Frankie's has action. Becky's is just a money pit.}
 {365}{}{Frankie sure doesn't like Becky.}
 {366}{}{Frankie says Becky's drinks are watered down.}

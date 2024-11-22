@@ -60,4 +60,4 @@
 {313}{}{Chào.}
 {314}{}{Không có gì.}
 {320}{}{Hey! Get away from me!}
-{321}{}{Don't touch me!}
+{321}{}{Đừng chạm vào tôi!}
