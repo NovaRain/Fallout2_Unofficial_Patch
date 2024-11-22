@@ -1,4 +1,4 @@
-{100}{}{You see a child shouting corny slogans.}
+{100}{}{Bạn thấy một đứa trẻ đang hét những câu sến sủa.}
 {101}{}{This dirty child appears to be employed to advertise a tourist attraction of some sort.}
 {500}{}{See the Mysterious Mummy!}
 {501}{}{See the Ancient Wonder!}
