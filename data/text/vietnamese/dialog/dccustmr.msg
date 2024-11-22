@@ -24,7 +24,7 @@
 {308}{}{Chào.}
 {309}{}{Anh có chơi không?}
 {310}{}{Bên ngoài sao rồi?}
-{311}{}{Frank là một gã tồi. Lão ta thù hận Becky chẳng vì cái gì cả.}
+{311}{}{Frankie là một gã tồi. Lão ta thù hận Becky chẳng vì cái gì cả.}
 {312}{}{Anh có phải bạn của Becky không?}
 {313}{}{Gọi đồ uống đi, bạn tôi ơi!}
 {314}{}{Uống đi! Đồ ở đây rẻ lắm!}
@@ -45,58 +45,58 @@
 {361}{}{Tôi thích quán Lỗ hơn chỗ Becky.}
 {362}{}{Chúng tôi gọi nơi này là Lỗ.}
 {363}{}{Ngồi đi. Ồ, chờ đã. Có thể là không.}
-{364}{}{Frankie's has action. Becky's is just a money pit.}
-{365}{}{Frankie sure doesn't like Becky.}
-{366}{}{Frankie says Becky's drinks are watered down.}
-{367}{}{How's it going?}
-{368}{}{Frankie knows how to party.}
-{369}{}{Becky's tables are rigged! Well, that's what Frankie says.}
-{370}{}{Bottoms up!}
-{390}{}{Damn, I warned Frankie about how he treated people.}
-{391}{}{Frankie should have watched his temper.}
-{392}{}{Now where we going to hang out?}
-{393}{}{Too bad Frankie's gone. He knew how to party.}
-{394}{}{You got quite a temper. What'd Frankie do to you?}
-{395}{}{Frankie insult your mom or something?}
+{364}{}{Chỗ của Frankie mới có mấy trò hay ho. Đến quán Becky thì chỉ phí tiền.}
+{365}{}{Frankie đúng là không ưa Becky tí nào.}
+{366}{}{Frankie nói rằng đồ của Becky toàn pha nước lã.}
+{367}{}{Sao rồi?}
+{368}{}{Frankie biết cách quẩy đấy.}
+{369}{}{Mấy cái xới bạc bên Becky giở trò đấy! Ồ, là Frankie nói thế.}
+{370}{}{Cạn ly nào!}
+{390}{}{Mẹ nó chứ, tôi đã cảnh báo Frankie về cách lão ta đối nhân xử thế rồi.}
+{391}{}{Frankie cần phải bớt nóng giận đi.}
+{392}{}{Nào giờ thì chúng ta đi đâu đây?}
+{393}{}{Thật tệ là Frankie tiêu rồi. Lão ta biết cách quẩy lắm.}
+{394}{}{Cậu đúng là dễ nổi nóng. Frankie đã làm gì cậu?}
+{395}{}{Frankie lăng nhục mẹ cậu hay sao chứ?}
 {410}{}{Tôi chỉ ngó quanh đây thôi.}
-{411}{}{I'm not sure what I'm looking for.}
-{412}{}{Tubby sure goes through a lot of Jet.}
-{413}{}{You see anything good?}
-{414}{}{Not much here.}
-{415}{}{Tubby needs to get some better suppliers.}
-{416}{}{You need drugs? Tubby is normally well stocked.}
-{430}{}{What did you kill Tubby for?}
-{431}{}{No great loss, but Tubby was the only real shop in town.}
-{432}{}{What'd Tubby do to piss you off?}
-{433}{}{Tubby sold you some bad shit, didn't he?}
-{434}{}{The rumor is you whacked Tubby because of a bad deal or something.}
-{435}{}{Not surprised really. A lot of people have been sore with Tubby lately.}
-{440}{}{Nothing I'm interested in today...}
-{441}{}{Oh, hi. Just talking to my good friend Flick.}
-{442}{}{What are you doing in here?}
-{443}{}{You a friend of Flick's, too?}
-{444}{}{I didn't do anything.}
-{445}{}{What are you staring at?}
-{446}{}{Just pretend you don't see me.}
-{447}{}{Don't mind me.}
-{460}{}{Damn. You killed Flick.}
-{461}{}{Flick rip you off?}
-{462}{}{Flick's been into some dangerous work.}
-{463}{}{That sucks about Flick.}
-{464}{}{Wonder what all those kids are going to do now that Flick is dead.}
-{465}{}{Surprised Flick lasted this long.}
-{480}{}{We call this home.}
-{481}{}{Most of us grew up on Mom's cooking.}
-{482}{}{I've known Mom since I was a kid.}
-{483}{}{Mom takes care of everyone in the Den.}
-{484}{}{Mom can make a sandwich out of anything.}
-{485}{}{I hope you get to know Mom as well as us.}
-{486}{}{Great company, great food. What else could you ask for?}
-{487}{}{Cheers!}
+{411}{}{Tôi không chắc mình đang tìm cái gì.}
+{412}{}{Tubby hẳn là bú Jet nhiều lắm.}
+{413}{}{Thấy gì hay ho không?}
+{414}{}{Ở đây chẳng có gì.}
+{415}{}{Tubby cần phải kiếm mối cấp hàng tốt hơn.}
+{416}{}{Cần thuốc không? Tubby thường trữ nhiều lắm đấy.}
+{430}{}{Sao cậu lại giết Tubby?}
+{431}{}{Không phải mất mát gì lớn lắm, nhưng Tubby là nơi bán hàng thật sự duy nhất của thị trấn.}
+{432}{}{Tubby đã làm gì khiến cậu lên cơn thế?}
+{433}{}{Tubby bán đồ lởm cho cậu phải không?}
+{434}{}{Mọi người đồn là cậu thịt Tubby vì lão giở trò khi mua bán, đại loại thế.}
+{435}{}{Không có gì đáng ngạc nhiên cả. Dạo gần đây nhiều người nóng mắt với Tubby lắm rồi.}
+{440}{}{Hôm nay tôi chẳng thấy thú gì cả...}
+{441}{}{Ồ chào. Tôi chỉ đang nói chuyện với người bạn tốt Flick thôi.}
+{442}{}{Cậu đang làm gì ở đây thế?}
+{443}{}{Cậu cũng là bạn của Flick à?}
+{444}{}{Tôi chẳng làm gì cả.}
+{445}{}{Đang nhìn gì đấy?}
+{446}{}{Cứ coi như không thấy tôi đi.}
+{447}{}{Kệ tôi đi.}
+{460}{}{Mẹ kiếp. Cậu giết Flick rồi.}
+{461}{}{Flick gạt cậu à?}
+{462}{}{Flick từng làm mấy việc nguy hiểm lắm.}
+{463}{}{Kết cục của Flick tệ thật đấy.}
+{464}{}{Không biết lũ trẻ sẽ thế nào khi giờ đây Flick toi rồi.}
+{465}{}{Ngạc nhiên là Flick sống được đến giờ đấy.}
+{480}{}{Chúng tôi gọi đây là nhà.}
+{481}{}{Hầu hết chúng tôi lớn lên nhờ ăn đồ của Má.}
+{482}{}{Tôi biết Má từ hồi còn bé tí.}
+{483}{}{Má chăm sóc mọi người ở khu The Den.}
+{484}{}{Má có thể làm bánh mì kẹp từ bất cứ thứ gì.}
+{485}{}{Tôi hi vọng cậu cũng sẽ thân với Má như chúng tôi.}
+{486}{}{Đồ ăn ngon, mọi người thân thiện. Còn gì hơn thế nữa?}
+{487}{}{Vui lên nào!}
 {488}{}{Chào.}
-{500}{}{How could you have hurt poor old Mom?}
-{501}{}{I've known, I mean, knew Mom all my life.}
-{502}{}{What did she ever do to you?}
-{503}{}{Murderer! Poor Mom...}
-{504}{}{Why did you have to do that?}
-{505}{}{You heartless monster!}
+{500}{}{Sao cậu lại có thể đánh bà Má già yếu chứ?}
+{501}{}{Tôi biết, ý tôi là, đã từng biết Má cả đời rồi.}
+{502}{}{Bà ấy đã làm gì cậu chứ?}
+{503}{}{Đồ sát nhân! Tội nghiệp Má...}
+{504}{}{Sao cậu lại phải làm vậy?}
+{505}{}{Đồ quái vật vô lương tâm!}
