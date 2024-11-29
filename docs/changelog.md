@@ -73,12 +73,12 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Dumb PC [can](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/152) talk to Zaius now.
 - Den
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/150) Metzger being unable to start fight with a dumb PC who abandoned a slave run.
-- Gecko:
+- Gecko
   - Cosmetic: added another way to get the plasma transformer quest from Skeeter.
 - Modoc
   - Dumb PC [can](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/151) get the reward from Vegeir now.
 - New Reno
-  - Merchant inventory wipe will keep the 223 pistol in Eldridge's special stock for the first time.
+  - The 223 pistol in Eldridge's special stock will be available when accessing it for the first time, even if merchant inventory wipe is enabled.
 - San Francisco
   - Now the training from Dragon and Lo Pan is affected by the Cult perk.
   - "Bad" peasants count as evil critters now.
