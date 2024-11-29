@@ -35,10 +35,55 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
-### Version 31 (WIP)
+### Version 32 (WIP)
 
+#### General
+
+- Brahmin
+  - Prone brahmin can stand up when re-entering the map.
+  - Brahmin standing up are animated properly.
+  - All types of alcohol can be used on brahmin.
+  - Fixed brahmin in `mountn6.map` missing critter script.
+- Car
+  - Fixed: when re-entering the same random encounter map right after exiting, critters could walk "inside" the car due to missing blockers.
+  - Fixed: When alternating between two maps multiple times, it wass possible to fail to destroy the car blockers.
+  - Tweaked the sequence to remove one superfluous blocker.
+  - Fixed: remove all leftover blockers, as the two previously created by car trunk could stack over a dozen on a map.
+- Dialogs
+  - Some of the "chem" > "drug" replacements performed previously are reverted.
+- Items
+  - Replaced flasks appearance with an unmarked/generic ones, except "Vic's water flask". To avoid confusing players, as it has a "13" logo from FO1 but isn't considered as an actual "V13 water flask" in dialog checks.
+- Maps
+  - Patched up multiple map borders, so that PC can't run outside of maps on higher resolution settings.
+- Party
+  - Fixed and unified float events for party members
+    - Sulik, Lenny, Goris, Davin, Miria didn't have the event repeating like others.
+    - Now the interval of floats is 60-90 sec for all party members (not spamming but also not too few).
+  - Fixed some pathing issues for Dogmeat and Pariah dog.
+- Radscorpions no longer count as evil creatures.
+- Sfall
+  - Updated to 4.4.5.
+  - Sfall QoL component now sets `ItemCounterAutoCaps`.
+
+#### Locations
+
+- Arroyo
+  - Fixed Cameron sometimes not running away properly.
+- Broken Hills
+  - Dumb PC [can](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/152) talk to Zaius now.
+- Den
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/150) Metzger being unable to start fight with a dumb PC who abandoned a slave run.
+- Gecko:
+  - Cosmetic: added another way to get the plasma transformer quest from Skeeter.
+- Modoc
+  - Dumb PC [can](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/151) get the reward from Vegeir now.
 - New Reno
   - Merchant inventory wipe will keep the 223 pistol in Eldridge's special stock for the first time.
+- San Francisco
+  - Now the training from Dragon and Lo Pan is affected by the Cult perk.
+  - "Bad" peasants count as evil critters now.
+- Vault City
+  - Added some missing "pre-placed" items to VC trader restock lists.
 
 ### Version 30
 
