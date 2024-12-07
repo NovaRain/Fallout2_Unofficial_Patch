@@ -64,6 +64,14 @@ jobs:
           name: upu.zip
           path: upu*.zip
 
+      # Create torrents
+      - name: Create torrents
+        uses: devopsx/action-torrent@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files: |
+            upu*.zip
+
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
@@ -71,5 +79,6 @@ jobs:
           files: |
             upu*.zip
             upu*.exe
+            torrents/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
