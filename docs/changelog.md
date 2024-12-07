@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 32](#version-32)
 - [Version 30](#version-30)
 - [Version 29](#version-29)
 - [Version 28](#version-28)
@@ -35,7 +36,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
-### Version 32 (WIP)
+### Version 32
 
 #### General
 
@@ -62,8 +63,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Fixed some pathing issues for Dogmeat and Pariah dog.
 - Radscorpions no longer count as evil creatures.
 - Sfall
-  - Updated to 4.4.5.
+  - Updated to 4.4.5.1.
   - Sfall QoL component now sets `ItemCounterAutoCaps`.
+- HRP got Russian translation.
 
 #### Locations
 
