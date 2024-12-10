@@ -47,7 +47,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Fixed brahmin in `mountn6.map` missing critter script.
 - Car
   - Fixed: when re-entering the same random encounter map right after exiting, critters could walk "inside" the car due to missing blockers.
-  - Fixed: When alternating between two maps multiple times, it wass possible to fail to destroy the car blockers.
+  - Fixed: When alternating between two maps multiple times, it was possible to fail to destroy the car blockers.
   - Tweaked the sequence to remove one superfluous blocker.
   - Fixed: remove all leftover blockers, as the two previously created by car trunk could stack over a dozen on a map.
 - Dialogs
