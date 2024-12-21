@@ -40,7 +40,7 @@
 {211}{}{Prolixe}
 {212}{}{Bref}
 {213}{}{Cibles uniquement}
-{214}{}{Aucune}
+{214}{}{Aucun}
 {215}{}{Minimum}
 {216}{}{Maximum}
 {217}{}{Lent}

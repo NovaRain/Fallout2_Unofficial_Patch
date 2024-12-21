@@ -212,7 +212,7 @@
 {311}{tand46}{Tu ne perds pas le Nord toi. Bien, va voir Gunther. Il va s'occuper de ça.}
 {312}{}{Merci.}
 {313}{tand47}{Les gars, jetez-moi cette morve de Brahmine hors de mon bureau !}
-{314}{}{Terminé}
+{314}{}{Valider}
 {315}{tand14b}{Mon père et Seth ont cherché pendant des années l'Abri 13. Ils sont morts en cherchant. Ils disaient toujours que c'était à l'Ouest d'ici. Si quelqu'un trouvait l'Abri 13, ça serait encore mieux que l'Abri 15. Il y aurait une très grosse récompense à la clé.}
 {316}{}{Tu devrais en parler à mon assistant, Gunther.}
 {400}{}{Squatters veulent deal. Vous enseigner, vous aider, eux donnent à toi l'abri.}

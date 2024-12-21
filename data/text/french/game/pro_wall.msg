@@ -125,7 +125,7 @@
 {12000}{}{Mur en bois}
 {12100}{}{Mur en bois}
 {12200}{}{Mur en bois}
-{12300}{}{Fenêtre}
+{12300}{}{Fenêtré}
 {12400}{}{Mur en bois}
 {12500}{}{Mur en bois}
 {12600}{}{Mur en bois}
@@ -566,7 +566,7 @@
 {56100}{}{Mur}
 {56200}{}{Embrasure de porte}
 {56300}{}{Embrasure de porte}
-{56400}{}{Fenêtre}
+{56400}{}{Fenêtré}
 {56500}{}{Mur}
 {56600}{}{Mur}
 {56700}{}{Mur}
@@ -586,7 +586,7 @@
 {58100}{}{Mur}
 {58200}{}{Embrasure de porte}
 {58300}{}{Embrasure de porte}
-{58400}{}{Fenêtre}
+{58400}{}{Fenêtré}
 {58500}{}{Mur}
 {58600}{}{Mur}
 {58700}{}{Mur}
@@ -640,14 +640,14 @@
 {63500}{}{Mur}
 {63600}{}{Mur}
 {63700}{}{Mur}
-{63800}{}{Fenêtre}
-{63900}{}{Fenêtre}
-{64000}{}{Fenêtre}
-{64100}{}{Fenêtre}
-{64200}{}{Fenêtre}
-{64300}{}{Fenêtre}
-{64400}{}{Fenêtre}
-{64500}{}{Fenêtre}
+{63800}{}{Fenêtré}
+{63900}{}{Fenêtré}
+{64000}{}{Fenêtré}
+{64100}{}{Fenêtré}
+{64200}{}{Fenêtré}
+{64300}{}{Fenêtré}
+{64400}{}{Fenêtré}
+{64500}{}{Fenêtré}
 {64600}{}{Mur}
 {64700}{}{Mur}
 {64800}{}{Mur}
@@ -666,8 +666,8 @@
 {66100}{}{Embrasure de porte}
 {66200}{}{Embrasure de porte}
 {66300}{}{Embrasure de porte}
-{66400}{}{Fenêtre}
-{66500}{}{Fenêtre}
+{66400}{}{Fenêtré}
+{66500}{}{Fenêtré}
 {66600}{}{Mur}
 {66700}{}{Mur}
 {66800}{}{Mur}
@@ -841,10 +841,10 @@
 {83600}{}{Mur}
 {83700}{}{Mur}
 {83800}{}{Mur}
-{83900}{}{Fenêtre}
-{84000}{}{Fenêtre}
-{84100}{}{Fenêtre}
-{84200}{}{Fenêtre}
+{83900}{}{Fenêtré}
+{84000}{}{Fenêtré}
+{84100}{}{Fenêtré}
+{84200}{}{Fenêtré}
 {84300}{}{Mur}
 {84400}{}{Pilier}
 {84500}{}{Embrasure de porte}
