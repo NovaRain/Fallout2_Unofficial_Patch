@@ -2605,9 +2605,9 @@
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
-{170600}{}{Pont detruit}
+{170600}{}{Pont détruit}
 {170601}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
-{170700}{}{Pont detruit}
+{170700}{}{Pont détruit}
 {170701}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
 {170800}{}{Canyon}
 {170900}{}{Porte}

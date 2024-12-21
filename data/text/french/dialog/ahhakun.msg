@@ -190,5 +190,5 @@
 {289}{}{Et ensuite ?}
 {290}{hak122}{Trop de saisons et trop de blessures, Etre Elu. Tu devrais plutôt écouter.}
 {291}{}{D'accord.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{300}{}{Ceux qui volent portent un lourd fardeau. N'oublie pas cela, Etre Elu.}
 {301}{}{You must now pay for your sins, Chosen One.}
