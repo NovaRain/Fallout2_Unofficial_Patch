@@ -28,7 +28,7 @@
 {122}{}{Modifie la vitesse du joueur}
 {123}{}{Pip-Boy speech}
 {201}{}{Oui}
-{202}{}{Non}
+{202}{}{Désactivé}
 {203}{}{Facile}
 {204}{}{Normal}
 {205}{}{Difficile}
