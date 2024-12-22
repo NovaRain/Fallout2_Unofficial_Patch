@@ -39,7 +39,7 @@
 {138}{}{Rebonjour. Les fonctions vitales de mon maître sont détruites. Es-tu mon nouveau maître ?}
 {139}{}{Ok.}
 {140}{}{Non.}
-{141}{}{D'accord.}
+{141}{}{Très bien.}
 {142}{}{Pas de problème.}
 {143}{}{Tu n'es pas mon maître. Je ne veux pas te parler. Au revoir.}
 {144}{}{Ok.}

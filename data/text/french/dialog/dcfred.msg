@@ -131,7 +131,7 @@
 {531}{}{D'accord, c'est bon.}
 {532}{}{Pas question.}
 {540}{}{$50 seulement. Je t'en prie ! Ca fait partie du plan directeur !}
-{541}{}{D'accord.}
+{541}{}{Très bien.}
 {542}{}{Ca me laisse seulement $50 pour payer ton prêt de $200.}
 {543}{}{Non.}
 {550}{}{Quoi ? Heu... merde ! Tu ne le regretteras pas ! J'assure !}

@@ -26,7 +26,7 @@
 {125}{}{Eh bien, tu sembles bien connaître ton travail.}
 {126}{}{As-tu assez de cervelle pour savoir qui est autorisé et qui ne l'est pas ?}
 {127}{}{Oui, bien sûr. J'ai également assez de cervelle pour savoir qui est ou non un trou-du-cul, et je devine que tu excelles dans cette catégorie ! Maintenant, tu ferais mieux de partir avant que je ne me mette à danser sur ton corps.}
-{128}{}{D'accord.}
+{128}{}{Très bien.}
 {129}{}{Sale lézard. Maintenant, je vais devoir te tuer.}
 {130}{}{Hé, je regrette. Je vais faire attention à ce que je dis maintenant.}
 {131}{}{Oui. Nous sommes assez différents en termes d'éducation. Je fais de mon mieux pour en apprendre davantage pendant mon temps libre.}

@@ -5,7 +5,7 @@
 {104}{}{Notre héros ! Regardez !}
 {105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
 {106}{}{Bonne journée, Capitaine.}
-{107}{}{La Cité de l'Abri avant tout, Capitaine !}
+{107}{}{La Cité de l'Abri avant tout, Capitaine.}
 {108}{}{Salut, citoyen.}
 {109}{}{La Cité de l'Abri avant tout, citoyen !}
 {110}{}{Un mutant ! Gardes ! Gardes !}

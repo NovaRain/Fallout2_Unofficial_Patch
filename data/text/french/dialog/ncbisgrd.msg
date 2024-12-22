@@ -118,7 +118,7 @@
 {479}{}{Dis-lui que j'ai une sacoche pour lui... de la part de M. Moore.}
 {480}{}{Alors, tant pis.}
 {490}{}{[Le garde s'éloigne un instant, fait coulisser une paroi dans le mur et murmure quelque chose. Il attend une minute, écoute, et se retourne vers toi en haussant les épaules.] Il dit que tu peux monter.}
-{491}{}{D'accord.}
+{491}{}{Très bien.}
 {495}{}{Yo, }
 {496}{}{ !}
 {497}{}{M. Bishop t'attend ?}

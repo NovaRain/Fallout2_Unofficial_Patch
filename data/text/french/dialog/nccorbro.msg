@@ -138,7 +138,7 @@
 {516}{}{[Il tire un bout de papier de son blouson, et t'invite à griffonner ta signature.] C'est fait ! On tourne ! D'abord, il te faut un nom de scène, un truc qui en jette. Tu as une idée ?}
 {517}{}{Bon, et si on te trouvait un autre nom ?}
 {525}{}{Je... Hum... Je... Hum... Ecoute, c'est d'accord pour les 500 jetons, mais PAS DE ROYALTIES. Ok ?}
-{526}{}{D'accord.}
+{526}{}{Très bien.}
 {527}{}{Pas question. Salut.}
 {528}{}{Pas de royalties.}
 {535}{}{D'accord ! }

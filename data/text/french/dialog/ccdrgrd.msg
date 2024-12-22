@@ -14,7 +14,7 @@
 {113}{}{Moi avoir affaires à traiter avec Commandant.}
 {114}{}{Très bien.}
 {115}{}{J'ai des affaires à traiter avec le Commandant.}
-{116}{}{D'accord.}
+{116}{}{Très bien.}
 {117}{}{Quelle est nature de ces affaires ?}
 {118}{}{Euh...}
 {119}{}{Zut. Moi tout gâcher...}

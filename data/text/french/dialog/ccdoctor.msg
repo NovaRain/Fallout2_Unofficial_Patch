@@ -84,7 +84,7 @@
 {183}{}{Peut-il être réparé ?}
 {184}{}{Oh oui. J'ai juste retiré son motivateur et j'l'ai donné à Raul, à la maintenance. Il peut toujours être remis en place... Je le ferai peut-être, pour voir s'il change d'attitude.}
 {185}{}{Ok.}
-{186}{}{D'accord.}
+{186}{}{Très bien.}
 {187}{}{Es-tu un civil ?}
 {188}{}{Ici, c'est le Labo Médical. L'armurerie se trouve dans le hall, sur la gauche.}
 {189}{}{Que fais-tu sans uniforme ?}

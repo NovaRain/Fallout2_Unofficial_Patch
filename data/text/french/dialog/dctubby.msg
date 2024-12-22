@@ -1,6 +1,6 @@
 {100}{}{Tu vois le propriétaire du magasin.}
 {101}{}{Tu vois Dodu.}
-{150}{}{Voici le propriétaire du magasin.}
+{150}{}{Tu vois le propriétaire du magasin.}
 {151}{}{Voici Dodu, le propriétaire du magasin.}
 {152}{}{[PARLER]}
 {153}{}{J'aimerais mieux que t'ailles faire tes affaires ailleurs.}

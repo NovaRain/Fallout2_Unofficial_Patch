@@ -43,7 +43,7 @@
 {359}{}{D'accord.}
 {365}{}{Ah, je crois que tu vas partir, parce que tu as l'air de tenir à la vie. Allez, file.}
 {366}{}{Je ne partirai PAS.}
-{367}{}{D'accord.}
+{367}{}{Très bien.}
 {375}{}{Je t'avais PREVENU...}
 {376}{}{C'est CA que tu veux ??? Vraiment ??? Allons VIENS, on va --}
 {380}{}{Heu... Et alors ? Elle a encore réussi à se mettre dans la panade ?}

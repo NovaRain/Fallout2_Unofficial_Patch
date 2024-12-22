@@ -29,7 +29,7 @@
 {128}{}{Je n'irai nulle part. Essaie de me faire bouger et tu le regretteras.}
 {129}{}{Très bien, j'y vais.}
 {130}{}{Capitaine. Puis-je t'aider ?}
-{131}{}{Puis-je t'aider ?}
+{131}{}{Puis-je t'aider, citoyen ?}
 {132}{}{Que veux-tu ?}
 {133}{}{Ouais !}
 {134}{}{Dégage !}
@@ -245,7 +245,7 @@
 {344}{}{Ca ne m'intéresse pas. Peut-être une autre fois.}
 {345}{}{C'est vrai ? Hein.}
 {346}{}{Très bien. Transfère les informations dans mon Pip-Boy et je les consignerai dans les ordinateurs de la patrouille.}
-{347}{}{D'accord.}
+{347}{}{Très bien.}
 {348}{}{Ces informations m'ont l'air correctes. Bien joué. Voilà ton paiement pour tes services, cinq cents dollars... plus ceci, qui devrait t'être utile.}
 {349}{}{Qu'y a-t-il ?}
 {350}{}{C'est un détecteur de mouvements Vault-Tec. Nous allions le démonter car il est trop vieux pour nos Pip Boys, mais il a l'air compatible avec ton modèle.}

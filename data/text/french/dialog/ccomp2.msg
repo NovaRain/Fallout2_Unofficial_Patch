@@ -35,6 +35,6 @@
 {134}{}{Merde ! Lancez les sauvegardes !}
 {135}{}{Arrêtez toutes les opérations secrètes.}
 {136}{}{Verrouillez le système et activez tous les mots de passe.}
-{137}{}{Je suis un chercheur, pas un combattant !}
+{137}{}{Je suis un scientifique, pas un combattant !}
 {138}{}{Le point rouge de la diode du laser se pose sur l'ennemi. Tu presses la détente.}
 {139}{}{A l'aide ! Au centre informatique !}

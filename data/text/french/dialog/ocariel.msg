@@ -24,7 +24,7 @@
 {123}{}{Excuse-moi, mais je n'ai pas de temps à accorder à quelqu'un comme toi. Au revoir.}
 {124}{}{}
 {125}{}{}
-{126}{}{D'accord.}
+{126}{}{Très bien.}
 {127}{}{Que veux-tu savoir ?}
 {128}{}{Toi prisonnier ?}
 {129}{}{Grif'morts gentils avec toi ?}

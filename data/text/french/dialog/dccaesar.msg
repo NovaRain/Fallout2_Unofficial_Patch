@@ -1,4 +1,4 @@
-{100}{}{Voici un membre de la Guilde des Esclavagistes.}
+{100}{}{Tu vois un membre de la Guilde des Esclavagistes.}
 {150}{}{Voici Metzger, le chef de la Guilde des Esclavagistes.}
 {151}{}{[PARLER]}
 {152}{}{Gardes ! Attaquez !}

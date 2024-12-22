@@ -152,7 +152,7 @@
 {251}{}{Je vois que tu as piqué quelques trucs à mon radin de père. Donne-moi encore une heure, et ce sera bon...}
 {252}{}{Très bien, très bien. Tu parles vraiment comme mon radin de père. Donne-moi encore une heure, et ce sera bon...}
 {253}{}{Très bien, très bien, donne-moi encore une heure, et ce sera bon...}
-{254}{}{D'accord.}
+{254}{}{Très bien.}
 {255}{}{Voilà. Autre chose ?}
 {256}{}{J'ai d'autres questions...}
 {257}{}{Tu peux améliorer autre chose, dans ce que j'ai ?}

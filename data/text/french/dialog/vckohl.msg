@@ -82,7 +82,7 @@
 {181}{}{Ils n'ont pas encore envoyé tous les livres au Bureau des Equipements Collectifs. Je ne pense pas que Randal serait contrarié si je les donnais à quelqu'un qui les apprécie... comme toi.}
 {182}{}{J'aimerais beaucoup les avoir. Merci.}
 {183}{}{Je vais les chercher...}
-{184}{}{D'accord.}
+{184}{}{Très bien.}
 {185}{}{Voilà. J'espère que tu auras plaisir à les lire. Certains sont mes préférés... un peu techniques, mais quand même intéressants.}
 {186}{}{Merci. Pourrais-je te poser quelques questions ?}
 {187}{}{Génial. Je vais les consulter.}

@@ -1,6 +1,6 @@
 {100}{}{Voici quelqu'un qui a l'air d'un trappeur.}
 {101}{}{Voici quelqu'un qui se détend.}
-{102}{}{Voici un citadin.}
+{102}{}{Tu vois un citadin.}
 {103}{}{Tu vois un travailleur qui se repose.}
 {104}{}{Voici une personne qui boit un verre avec plaisir.}
 {150}{}{Tu as atterri dans la mauvaise taverne, hein ?}

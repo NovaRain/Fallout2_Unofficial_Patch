@@ -43,7 +43,7 @@
 {142}{}{Non, pas encore. Mais je la trouverai.}
 {143}{}{Non. Je ne la cherche pas pour l'instant.}
 {144}{}{Très bien. [Haletant...] Nous pourrions peut-être trouver un moyen de me la réimplanter. Parle-en au Docteur Fung, d'accord ? Merci.}
-{145}{}{D'accord.}
+{145}{}{Très bien.}
 {146}{}{Non.}
 {147}{}{J'apprécie vraiment ce que tu fais pour moi. Je ne l'oublierai pas.}
 {148}{}{Pas d'soucis.}

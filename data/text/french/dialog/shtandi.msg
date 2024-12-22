@@ -35,7 +35,7 @@
 {134}{}{J'ai ramené de là-bas les pièces que tu cherchais.}
 {135}{}{J'ai déjà fait le travail. Les squatteurs veulent négocier. Tu les aides à s'en sortir et ils te donnent accès à l'abri. D'ailleurs, voici les pièces.}
 {136}{tand5}{Bon sang... Comme tu veux. Mais si tu changes d'avis...}
-{137}{}{C'est terminé.}
+{137}{}{Terminé.}
 {138}{tand6a}{D'accord. Si tu réussis, tu auras une récompense.}
 {139}{tand6b}{Seigneur, je sais que je fais une bêtise, mais... fais de ton mieux, si tu as compris quelque chose à ce que je viens de te dire.}
 {140}{}{Ok. Moi partir.}
@@ -113,7 +113,7 @@
 {212}{}{Bon, passons à autre chose.}
 {213}{tand20}{On ne peut rien cacher à personne ici. Nous sommes en négociations avec New Reno pour qu'ils deviennent membres de la RNC. Ils doivent avoir de l'influence sur des endroits comme la Cité de l'Abri.}
 {214}{}{Moi voir.}
-{215}{}{D'accord.}
+{215}{}{Très bien.}
 {216}{tand21}{La plupart des gens pensent qu'on doit s'associer avec New Reno d'une manière ou d'une autre. Mais les types comme Westin et les propriétaires de ranch accusent New Reno de voler le bétail entre ici et Redding.}
 {217}{}{Hum.}
 {218}{}{Qui est Westin ?}

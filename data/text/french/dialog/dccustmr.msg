@@ -1,5 +1,5 @@
 {100}{}{Tu vois un client.}
-{101}{}{Voici un citadin.}
+{101}{}{Tu vois un citadin.}
 {150}{}{On dirait qu'il va quelque part.}
 {151}{}{On dirait qu'elle va quelque part.}
 {152}{}{Il est occupé à boire et à parler aux autres clients.}

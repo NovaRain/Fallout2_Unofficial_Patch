@@ -64,7 +64,7 @@
 {163}{}{Tu me traites d'inculte ?}
 {164}{}{C'est vrai.}
 {165}{}{Pas nécessairement. Qui sait ce que le virus qui a entraîné sa mutation a fait à son esprit ?}
-{166}{}{Allez va, salut.}
+{166}{}{Peu importe. Salut.}
 {167}{}{Pour nous, ça marche tout à fait bien. Et puis, Marcus est éminemment juste.}
 {168}{}{Où puis-je le trouver Marcus ?}
 {169}{}{Salut.}

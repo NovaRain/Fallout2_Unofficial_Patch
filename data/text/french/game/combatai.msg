@@ -2849,7 +2849,7 @@
 {41263}{}{Oh là là, on dirait qu'c'est encore attaché.}
 {41264}{}{Mon nom c'est Jo le boiteux.}
 {41265}{}{J'ai pas besoin d'ces orteils de toute façon.}
-{41266}{}{La danse, c'est terminé.}
+{41266}{}{Plus de danse pour cette vieille goule.}
 {41267}{}{Ca craque comme du bois pourri.}
 {41268}{}{J'me demande si j'pourrai trouver un moyen de rattacher ça.}
 {41269}{}{Pas mes jolies chaussures vernies !}

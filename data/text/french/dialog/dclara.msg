@@ -27,7 +27,7 @@
 {262}{}{Bien sûr. Qu'est-ce que c'est ?}
 {263}{}{Peut-être plus tard.}
 {270}{}{Fais-moi savoir si tu changes d'avis.}
-{271}{}{D'accord.}
+{271}{}{Très bien.}
 {280}{}{Il y a une église à l'Est. Metzger a posté ses hommes à l'extérieur pour garder je ne sais quoi. Si tu trouves ce qu'il cache, je te paie $200.}
 {281}{}{C'est facile. Je sais déjà.}
 {282}{}{Certainement.}

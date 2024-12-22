@@ -19,7 +19,7 @@
 {118}{}{Eh bien, je vais devoir dire deux mots aux gardes à l'entrée. Il semblerait qu'ils laissent entrer N'IMPORTE QUI dans la Cité de l'Abri ces jours-ci !}
 {119}{}{M'man. Môman ? Mammmman.}
 {120}{}{Dégage !}
-{121}{}{Imbécile !}
+{121}{}{Imbécile.}
 {122}{}{*Maman*, tu dis ? Comme c'est fascinant. Pourquoi ne retournes-tu pas à l'entrée raconter tout ça à tes amis les étrangers ?}
 {123}{}{D'accoooord !}
 {124}{}{En fait, maintenant que j'y pense, tu ferais mieux de laisser tes armes et ton armure ici, par mesure de sécurité pour la Cité de l'Abri.}

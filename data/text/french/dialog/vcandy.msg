@@ -23,7 +23,7 @@
 {122}{}{'fistoleeer ? 'fistoler ! Prendre argeent, répppare fuites.}
 {123}{}{Salut !}
 {124}{}{Pas 'ssez argeent, Salut !}
-{125}{}{D'accord.}
+{125}{}{Très bien.}
 {126}{}{C'est pas donné. Que dirais-tu de }
 {127}{}{ ?}
 {128}{}{C'est pas grave. Pourquoi pas plutôt mon acolyte ?}
@@ -59,7 +59,7 @@
 {158}{}{Très bien... Vu l'état, ça va coûter }
 {159}{}{ dollars. Si t'as le fric, c'est bon.}
 {160}{}{Evidemment, je garantis rien avec le vieux Doc de la pièce du fond...}
-{161}{}{D'accord.}
+{161}{}{Très bien.}
 {162}{}{C'est pas donné. Que dirais-tu de }
 {163}{}{ ?}
 {164}{}{Tant pis. Et pourquoi pas moi, à la place ?}
@@ -69,7 +69,7 @@
 {168}{}{J'ai changé d'avis. Peut-être une autre fois.}
 {169}{}{Bon, alors, écoute... }
 {170}{}{ dollars pour vous tous, et on dira qu'on est quittes. Qu'en dis-tu ?}
-{171}{}{D'accord.}
+{171}{}{Très bien.}
 {172}{}{Je ne sais pas. C'est pas donné. Que dirais-tu de }
 {173}{}{ dollars ?}
 {174}{}{Peux-tu simplement me soigner moi, à la place ?}

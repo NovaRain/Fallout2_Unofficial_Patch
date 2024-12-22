@@ -7,7 +7,7 @@
 {106}{}{Mais... ?!! Un mutant ! GARDES !! GARDES !!!}
 {107}{}{Mais... ?!! Une Goule ! GARDES !! GARDES !!!}
 {108}{}{Bonne journée, Capitaine.}
-{109}{}{La Cité de l'Abri avant tout, Capitaine !}
+{109}{}{La Cité de l'Abri avant tout, Capitaine.}
 {110}{}{Salut, citoyen.}
 {111}{}{La Cité de l'Abri avant tout, citoyen !}
 {112}{}{Des listes, des listes, des listes... J'adore les listes !}
@@ -76,7 +76,7 @@
 {175}{}{Très bien.}
 {176}{}{Hummm. C'est ton droit, mais je doute que tu réussisses.}
 {177}{}{Voici les formulaires 5028, 6112 et la console de réponse du Pip-Boy. Veille à bien remplir chaque cercle ENTIEREMENT. Bon, si tu veux bien prendre place ici...}
-{178}{}{D'accord.}
+{178}{}{Très bien.}
 {179}{}{Tu as déjà terminé ? Tu ne veux vraiment pas vérifier encore une fois tes réponses ?}
 {180}{}{Bon, le temps imparti a expiré. Voyons ton formulaire...}
 {181}{}{J'ai déjà terminé. Voilà.}

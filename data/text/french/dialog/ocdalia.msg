@@ -27,7 +27,7 @@
 {126}{}{Non, pas du tout. Je suis ici de mon plein gré et j'aime cet endroit. Je pense que je vais être en sécurité ici pendant un moment.}
 {127}{}{Ok.}
 {128}{}{Salut.}
-{129}{}{D'accord.}
+{129}{}{Très bien.}
 {130}{}{Je vois. Bon, je vais m'en aller alors.}
 {131}{}{Ouais, on m'a dit que j'étais libre de partir ou de rester. Alors, je reste pour le moment.}
 {132}{}{Moi voir.}

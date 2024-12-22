@@ -29,7 +29,7 @@
 {177}{}{Je suis sûr que tu es plus gentil que tu en as l'air.}
 {178}{}{On joue à touche-touche. Touché.}
 {179}{}{Tu ne sens pas si mauvais que ça.}
-{180}{}{Tu as vu mon copain invisible ?}
+{180}{}{Tu as vu mon ami invisible ?}
 {181}{}{Quand j'aurai ton âge, je veux voyager dans le monde entier.}
 {182}{}{Tu es un gentil tribal, pas comme les autres.}
 {183}{}{Je parie que ça vous arrive de vous laver.}
@@ -38,7 +38,7 @@
 {186}{}{Quand je serai grand, je veux être comme toi.}
 {187}{}{Mon chien adore la viande séchée.}
 {188}{}{J'ai un caillou brillant.}
-{189}{}{Tu as vu mon copain invisible ?}
+{189}{}{Tu as vu mon ami invisible ?}
 {190}{}{Est-ce que je peux venir dans votre tribu ?}
 {191}{}{Tu es gentil.}
 {192}{}{Tu as un drôle d'air. }

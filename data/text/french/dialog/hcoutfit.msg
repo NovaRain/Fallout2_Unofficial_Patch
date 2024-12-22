@@ -84,7 +84,7 @@
 {183}{}{Ouais ? Ok. Sors de là. Et reviens quand tu auras assez de cran pour faire le voyage.}
 {184}{}{Super. Tu peux y aller.}
 {185}{}{Je voulais autre chose d'abord.}
-{186}{}{D'accord.}
+{186}{}{Très bien.}
 {187}{}{Ecoute, j'peux rien faire d'autre pour toi pour le moment. Avec tous les mutants morts, on a personne pour faire marcher la mine de manière efficace. Cette ville va crever d'ici un an ou deux. Y'a rien d'autre ici. Tchao.}
 {188}{}{Désolé. J'ai plus rien pour toi. T'as ramassé toute la merde du coin.}
 {189}{}{Tu veux du boulot ? Bon, t'as déjà ramassé toute la merde des Brahmines, j'ai plus que les caravanes. Tu peux en escorter une pour $200. On a des caravanes pour Gecko, la RNC et la Cité de l'Abri. Une fois par semaine.}

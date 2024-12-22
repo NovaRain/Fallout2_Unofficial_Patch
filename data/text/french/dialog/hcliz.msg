@@ -59,7 +59,7 @@
 {158}{}{Ouais, comme tu veux la gribiche.}
 {159}{}{Les Goules sont des esclaves utiles. Ils ont pas beaucoup d'esprit, mais ça vaut pas non plus la peine de les tuer. Je suis contre leur exécution.}
 {160}{}{Ok. Je veux autre chose.}
-{161}{}{Allez va, salut.}
+{161}{}{Peu importe. Salut.}
 {162}{}{Si tu veux vraiment massacrer des mutants, tu pourrais peut-être parler à Jacob le chimiste.}
 {163}{}{Jacob, hein ? D'accord.}
 {164}{}{J'y avais pensé. Maintenant file.}

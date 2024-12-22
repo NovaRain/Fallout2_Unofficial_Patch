@@ -31,10 +31,10 @@
 {130}{}{C'est tout ce que je voulais. Super. Merci. Salut.}
 {131}{}{Ouais, peut-être qu'on devrait. Là pour l'instant, ils y sont. Et ils y restent tant que quelqu'un ne me donne pas une meilleure raison de les faire sortir. Maintenant... tire-toi.}
 {132}{}{Non.}
-{133}{}{D'accord.}
+{133}{}{Très bien.}
 {134}{}{Et ils vont rester en prison pour le moment. On doit protéger la société. Maintenant... va-t'en.}
 {135}{}{Non.}
-{136}{}{D'accord.}
+{136}{}{Très bien.}
 {137}{}{Toi ! Mais qu'est-ce que tu fais ? Barre-toi de là vite fait !}
 {138}{}{Tu vas ranger tes armes maintenant.}
 {139}{}{Encore toi ? Tu as vraiment besoin de quelque chose ?}

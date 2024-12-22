@@ -1,10 +1,10 @@
-{100}{}{Voici une jeune femme très séduisante.}
+{100}{}{Tu vois une jeune femme très séduisante.}
 {101}{}{Voici une des hôtesses des Bains.}
 {102}{}{Voici l'une des filles de Sally La Fouine.}
 {103}{}{Voici une femme qui a l'air de s'ennuyer.}
 {104}{}{Voici une femme qui te regarde des pieds à la tête.}
 {105}{}{Cette femme te déshabille du regard.}
-{106}{}{Voici une jeune femme.}
+{106}{}{Tu vois une jeune femme.}
 {110}{}{Tu vois une jeune femme séduisante. Son visage est poudré d'un léger voile blanc.}
 {111}{}{Tu vois une femme d'une cinquantaine d'années à la poitrine généreuse.}
 {112}{}{Tu vois une jeune femme séduisante, ses vêtements sont à moitié déboutonnés.}
