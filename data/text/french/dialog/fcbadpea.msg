@@ -66,7 +66,7 @@
 {172}{}{Tu as déshonoré ta famille !}
 {173}{}{Laisse-nous tranquilles, gaijin !}
 {174}{}{N'as-tu pas causé assez de dégâts ?}
-{175}{}{Je te déteste.}
+{175}{}{Je te déteste !}
 {176}{}{Quitte cette ville !}
 {177}{}{Rentre chez toi !}
 {178}{}{N'assombris pas ma vie de ta présence !}

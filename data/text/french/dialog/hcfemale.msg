@@ -51,7 +51,7 @@
 {194}{}{J'espère que tu y as pris autant de plaisir que Francis.}
 {195}{}{Ces pauvres gens.}
 {196}{}{Qui c'est qui est tombé de l'échelle de Jacob ?}
-{197}{}{(see other floats from 1)}
+{197}{}{(voir d'autres flotteurs à partir de 1)}
 {198}{}{C'est cool de t'avoir en ville.}
 {199}{}{Tu veux traîner ici un moment ?}
 {200}{}{J'espère que ça te plaît ici !}

@@ -17,9 +17,9 @@
 {302}{}{Meeerci.}
 {303}{}{Merci les gars.}
 {400}{}{Hoooo...}
-{402}{}{My baby ain't comin' home...}
-{405}{}{My baby done me wroooong...}
-{408}{}{My baby gone an' left me all aloooone...}
+{402}{}{Mon bébé ne rentrera pas à la maison...}
+{405}{}{Mon bébé m'a fait du tort...}
+{408}{}{Mon bébé est parti et m'a laissé tout seul...}
 {409}{}{}
 {500}{}{Continue}
 {501}{}{Goûte à la souffrance.}

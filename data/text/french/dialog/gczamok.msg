@@ -1,8 +1,8 @@
-{100}{}{You see a larger than average Ghoul.}
+{100}{}{Tu vois une Goule plus grande que la moyenne.}
 {101}{}{Tu vois Zomak, que certains surnomment « Le Destructeur ».}
 {102}{}{Tu vois une grande goule costaude dont le visage, sous un front fortement incliné, reflète de vastes réserves de supériorité simple d'esprit.}
 {110}{}{Renouveau camarade ! Je suis Zomak. Certains m'appellent Zomak le Destructeur. Que fais-tu ici ?}
-{111}{}{Renew Comrade! What are you doing here? State your business to Zomak the Destroyer.}
+{111}{}{Renouveau, Camarade ! Que fais-tu ici ? Décris ton problème à « Zomak le Destructeur ».}
 {112}{}{Reunouvoo !}
 {113}{}{Okéé ?}
 {114}{}{Je fais juste un tour.}

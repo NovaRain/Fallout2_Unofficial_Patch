@@ -58,7 +58,7 @@
 {327}{}{C'est quel casino ici ?}
 {328}{}{Tu peux me parler un peu du casino ?}
 {329}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
-{335}{}{This is [CN]. Need anything, just ask.}
+{335}{}{C'est [CN]. Si t'as besoin de quelque chose, t'as qu'à demander.}
 {336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
 {337}{}{Qui es-tu ?}
 {338}{}{Tu peux me parler un peu du casino ?}
@@ -77,7 +77,7 @@
 {351}{}{Merci, j'y vais tout de suite.}
 {352}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {353}{}{Je vérifie juste quelques trucs. Continue ton boulot.}
-{355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{355}{}{La famille [CA]. Ils ont énormément investi d'énergie dans cet endroit pour en faire un vrai lieu de nuit, un véritable bijou à New Reno.}
 {356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
 {357}{}{Qui es-tu ?}
 {358}{}{Tu peux me parler un peu du casino ?}

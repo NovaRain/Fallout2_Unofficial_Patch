@@ -17,7 +17,7 @@
 {162}{}{Ne me fais pas mal.}
 {163}{}{Ne t'approche pas de moi.}
 {164}{}{Ahhhhhhhh !}
-{165}{}{Je te déteste.}
+{165}{}{Je te déteste !}
 {166}{}{Maman, maman, maman !}
 {167}{}{Laisse-moi tranquille.}
 {168}{}{Tu pues !}
