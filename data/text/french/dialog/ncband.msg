@@ -53,14 +53,14 @@
 {913}{}{Laisse-moi une chose avant qu'on se sépare...}
 {915}{}{Lorsque je suis seul...}
 {916}{}{Avec mes pensées...}
-{917}{}{Je serai avec toiiiiiii...}
+{917}{}{Je serai... avec toiiiiiii...}
 {918}{}{A tisser des romances...}
 {919}{}{En tâchant de croire qu'elles sont vraies...}
 {920}{}{Ho, donne-nous tes lèvres pour un bref instant...}
 {921}{}{Et mon imagination fera vivre ce moment...}
 {923}{}{Donne-moi ce que tu peux...}
 {925}{}{::Bouche en trompette::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Je serai... avec toiiiiiii...}
 {933}{}{Hooooo...}
 {935}{}{Lèvres pour un instant...}
 {937}{}{Feront vivre ce moment...}

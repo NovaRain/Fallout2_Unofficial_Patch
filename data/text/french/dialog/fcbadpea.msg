@@ -1,5 +1,5 @@
-{100}{}{Tu vois une personne portant un pyjama amusant.}
-{101}{}{Tu vois un habitant de Shitown.}
+{100}{}{Tu vois une personne portant un drôle de pyjama.}
+{101}{}{Tu vois un citoyen Shi.}
 {102}{}{Cette personne semble différente de toutes celles que tu as pu voir par le passé. Elle semble ne pas faire attention à toi.}
 {103}{}{Tu es là pour espionner, pas vrai ?}
 {104}{}{Qui es-tu ?}
