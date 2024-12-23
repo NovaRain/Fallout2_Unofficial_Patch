@@ -39,7 +39,7 @@
 {138}{}{Les vagabonds du pétrolier ont 0% de chance de se débarrasser de l'invasion de monstres sans aide extérieure. Traitement de la proposition d'aide en cours.}
 {139}{}{Données : pétrolier Poséidon incapable de prendre le large. Plus de données nécessaires.}
 {140}{}{Pas de traitement. Entrée requise.}
-{141}{}{[Plus]}
+{141}{}{[Suite]}
 {142}{}{[Retour]}
 {143}{}{Station de biologie : activée}
 {144}{}{Station de biologie : désactivée}

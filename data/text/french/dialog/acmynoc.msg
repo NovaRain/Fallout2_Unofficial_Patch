@@ -24,7 +24,7 @@
 {171}{}{Merci. Je dois partir. Au revoir.}
 {172}{}{Je l'espère.}
 {173}{}{Ta vanité exagérée nous fait tous souffrir ! Au revoir !}
-{174}{}{Salut.}
+{174}{}{Au revoir.}
 {175}{}{Pourquoi ? Regarde autour de toi, notre village se meurt. Les jardins se dessèchent et chaque jour les plus faibles disparaissent. Tu dois nous rapporter l'Eden avant qu'il ne soit trop tard !}
 {176}{}{Je vais m'en occuper. Au revoir.}
 {177}{}{Je suis l'Etre Elu. Je ne *dois* faire que ce qui me plaît. Au revoir.}
@@ -131,7 +131,7 @@
 {1103}{}{Voilà ce que serait notre beau village.}
 {1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici.}
 {1105}{}{L'Abri, c'est le paradis.}
-{1106}{}{Tu es l'Elu.}
+{1106}{}{Tu es l'Etre Elu.}
 {1107}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1108}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
 {1109}{}{Avec cette poudre magique, tu vas guérir, mais cela te rendra somnolent.}

@@ -6,7 +6,7 @@
 {105}{}{Maison des vieilles Goules ?}
 {106}{}{Qui es-tu ?}
 {107}{}{Hé, t'as déjà entendu parler du Jardin d'Eden en Kit ?}
-{108}{}{Salut.}
+{108}{}{Au revoir.}
 {109}{}{Encore un enfant du désert, hein ? Hé, tu veux qu j'te dise un secret ?}
 {110}{}{Ouaip !}
 {111}{}{Naan.}
@@ -18,7 +18,7 @@
 {117}{}{J'avais d'autres questions.}
 {118}{}{Au revoir !}
 {119}{}{Hé. Bon, d'accord. J'ai rien du tout pour toi du tout. Au r'voir.}
-{120}{}{Salut.}
+{120}{}{Au revoir.}
 {121}{}{Ha, tu dois d'abord me rendre un p'tit service.}
 {122}{}{D'accord !}
 {123}{}{Nan !}

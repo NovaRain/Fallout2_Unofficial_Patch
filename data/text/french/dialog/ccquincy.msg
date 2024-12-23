@@ -57,11 +57,11 @@
 {156}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {157}{}{Que fais-tu sans uniforme ?}
 {158}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{159}{}{Des envahisseurs ! Appelez la garde !!}
+{159}{}{Des intrus ! Appelez la garde !!}
 {160}{}{Gardes !!! Des intrus à l'atelier de maintenance !!}
 {161}{}{Que se passe-t-il ?! On nous attaque ?!}
 {162}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
-{163}{}{Mais que se passe-t-il, Bon Dieu ?!}
+{163}{}{Mais bordel qu'est-ce qui se passe ici ?}
 {164}{}{Hé ! Ne farfouille pas dans ces tiroirs !!}
 {165}{}{Je t'ai dit de ne pas fouiller dans mes affaires ! Gardes !}
 {200}{}{Ouais. Eh bien, ne crois pas un mot de ce que tu as entendu.}

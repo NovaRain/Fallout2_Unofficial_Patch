@@ -51,8 +51,8 @@
 {150}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
 {151}{}{Alerte de sécurité !! Condamnez la base !!!}
 {152}{}{Fermez toutes les stations !! Nous sommes en état alerte !!}
-{153}{}{Alerte intrus !! Activez le code rouge !!!}
-{154}{}{On va t'exterminer !!}
+{153}{}{Alerte intrus ! Activez le code rouge !}
+{154}{}{On va t'exterminer !}
 {155}{}{L'Enclave régnera sur le monde !}
 {156}{}{Ta mort permettra à l'Enclave de survivre !}
 {160}{}{Tu es de retour. As-tu apporté l'autorisation pour le passe ?}

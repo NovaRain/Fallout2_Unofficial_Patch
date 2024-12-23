@@ -34,7 +34,7 @@
 {133}{}{Ca t'intéresse pas ? Ok. Reviens si je peux faire quelque chose pour toi.}
 {134}{}{Ok !}
 {135}{}{En fait, c'est autre chose qui m'intéresse.}
-{136}{}{Salut.}
+{136}{}{Au revoir.}
 {137}{}{D'accord. Va pour Gecko. Reviens le premier du mois et tu partiras. J'peux faire autre chose pour toi ?}
 {138}{}{Oui.}
 {139}{}{Non.}
@@ -66,7 +66,7 @@
 {165}{}{Merci.}
 {166}{}{Je suis pas en service pour l'instant. Viens plutôt me voir à la boutique.}
 {167}{}{Il l'a cherché ? Pôv'tache, tuer pour de l'argent, c'est vraiment pas croyable... Tire-toi de ma boutique !}
-{168}{}{Salut.}
+{168}{}{Au revoir.}
 {169}{}{Les problèmes qu'il a, c'est sa faute. Dommage... C'était un maître de caravane vachement bien. Tu veux quelque chose ?}
 {170}{}{Sors de ma boutique. T'as pas ta place ici.}
 {171}{}{Sur le départ pour la Cité de l'Abri ?}
@@ -108,6 +108,6 @@
 {208}{}{Pas tout à fait. Je te tiendrai au courant. Merci.}
 {209}{}{Pas encore. Je te tiendrai au courant. J'ai quelques autres questions.}
 {210}{}{Merci.}
-{211}{}{[Suite]}
+{211}{}{[Continuer]}
 {212}{}{Je regrette, mais sans Chad pour m'aider à diriger le personnel, je peux pas organiser le travail comme avant. Il va me manquer, ce pauvre nigaud. Aller mourir dans le désert comme une vulgaire Brahmine blessée !}
 {213}{}{Mes excuses. Au revoir.}

@@ -45,4 +45,4 @@
 {151}{}{Hé, là ! Reste pas là, toi !}
 {152}{}{C'est ça ! Tu te tires, maintenant !}
 {153}{}{Merci.}
-{154}{}{[Suite]}
+{154}{}{[Continuer]}

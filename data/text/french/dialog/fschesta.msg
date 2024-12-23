@@ -31,7 +31,7 @@
 {130}{}{Activer la station.}
 {131}{}{[Quitter]}
 {132}{}{[Ton approche au hasard a fait des merveilles... Tu accèdes à la machine !]}
-{133}{}{[Plus]}
+{133}{}{[Suite]}
 {134}{}{L'ordinateur ne répond à aucune commande.}
 {135}{}{Tu ne trouves aucun endroit pour mettre ça.}
 {136}{}{[Deviner le mot de passe]}

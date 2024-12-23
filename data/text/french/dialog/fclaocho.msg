@@ -8,7 +8,7 @@
 {107}{}{Qui es-tu ?}
 {108}{}{Je cherche du matériel.}
 {109}{}{Je cherche des renseignements.}
-{110}{}{Salut.}
+{110}{}{Au revoir.}
 {111}{}{Tu veux acheter quelque chose ?}
 {112}{}{[Signe de tête affirmatif]}
 {113}{}{[Signe de tête négatif]}
@@ -75,7 +75,7 @@
 {174}{}{Qui es-tu ?}
 {175}{}{Je cherche du matériel.}
 {176}{}{Je cherche des renseignements.}
-{177}{}{Salut.}
+{177}{}{Au revoir.}
 {178}{}{Tu les as déjà donnés aux Hubologistes. Non ?}
 {179}{}{Ah ouais... Heu... Puis-je te demander autre chose ?}
 {180}{}{Ah ouais... Au revoir.}

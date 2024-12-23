@@ -143,7 +143,7 @@
 {242}{}{En fait, aucune. Il faut que j'y aille.}
 {243}{}{Je reviendrai quand j'aurai plus d'argent à dépenser.}
 {244}{}{Je pense que je pourrais te gonfler ce bâton d'élevage. Ca te coûtera $750.}
-{245}{}{D'accord.}
+{245}{}{Très bien.}
 {246}{}{Pourquoi pas plutôt $650?}
 {247}{}{En fait, tu pourrais pas plutôt améliorer une autre de mes armes ?}
 {248}{}{Bon. Il y a autre chose que je voulais...}

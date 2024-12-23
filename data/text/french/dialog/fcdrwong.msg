@@ -48,7 +48,7 @@
 {147}{}{Il en a besoin pour survivre, tu sais. Elle vient de son corps.}
 {148}{}{Eh bien, je devrais peut-être te tuer pour ça.}
 {149}{}{Un marché est un marché. Elle ne lui appartient plus. Je regrette mais nous avons conclu un marché et ce n'est pas parce que Chip regrette qu'il peut revenir sur sa décision.}
-{150}{}{[Plus]}
+{150}{}{[Suite]}
 {151}{}{C'est une rate humaine ? Lao Chou ne me l'a pas dit !}
 {152}{}{Pourtant, à cause de la grossièreté du messager, je ne vais pas revenir sur notre marché. Je vais plutôt utiliser cette rate pour des expériences.}
 {153}{}{Dis à ton ami de venir la chercher demain, je la lui rendrai avec plaisir. J'espère simplement que tu trouveras un moyen de la lui réimplanter rapidement.}

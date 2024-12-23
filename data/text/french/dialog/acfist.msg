@@ -13,7 +13,7 @@
 {112}{}{Je sais me battre avec mes poings et mes pieds. Tu crois que tu peux apprendre ça ?}
 {113}{}{Que peux-tu m'apprendre ?}
 {114}{}{Que le vent te pousse, Etre Elu.}
-{115}{}{Salut.}
+{115}{}{Au revoir.}
 {116}{}{Hum, passe une journée avec moi et je t'apprendrai à frapper plus fort.}
 {117}{}{Très bien, allons-y.}
 {118}{}{Je regrette mais je n'ai pas le temps pour le moment.}

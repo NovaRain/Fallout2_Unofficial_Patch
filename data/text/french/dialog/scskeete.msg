@@ -36,7 +36,7 @@
 {135}{}{Hé, mec, Skeeter te l'avait d'jà dit.}
 {136}{}{Va te faire. Je réponds pas à tes questions.}
 {137}{}{Où suis-je ici ?}
-{138}{}{Salut.}
+{138}{}{Au revoir.}
 {139}{}{Salut !}
 {140}{}{Hé, ça c'est de la télépathie ! Je peux saisir les ondes ! Ouais, laisse-moi essayer... heu... heu...}
 {141}{}{Oui ?}

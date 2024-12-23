@@ -20,7 +20,7 @@
 {119}{}{Des gens plus honnêtes ? Ces types ?}
 {120}{}{C'est quoi au juste l'Enclave ?}
 {121}{}{Comment fais-tu marcher ce truc ?}
-{122}{}{Salut.}
+{122}{}{Au revoir.}
 {123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {124}{}{Certainement. Comment sais-tu tout ça ?}
 {125}{}{C'est quoi au juste ce transpondeur IFF et ce fameux passe ?}

@@ -39,7 +39,7 @@
 {273}{}{Ok.}
 {280}{}{Bon, d'accord, l'esclavagiste. Vas-y. Il croit peut-être que ça va s'envoler comme ça ? De toute façon, j'vois pas qui voudrait de cette merde...}
 {281}{}{Et merde. Vas-y. Il croit peut-être que ça va s'envoler comme ça ? De toute façon, j'vois pas qui voudrait de cette merde...}
-{282}{}{Salut.}
+{282}{}{Au revoir.}
 {290}{}{D'accord. De toute façon, je m'en fiche. Que pourrais-tu faire avec ces merdes de toute façon ?}
 {291}{}{Grrrr.}
 {292}{}{Merci.}
@@ -84,7 +84,7 @@
 {393}{}{Je comprends. Amuse-toi bien.}
 {394}{}{A plus. }
 {400}{}{Crois-moi. On va boire jusqu'à ce qu'on tombe par terre !}
-{401}{}{Salut.}
+{401}{}{Au revoir.}
 {410}{}{En quoi ça t'regarde ? Casse-toi.}
 {411}{}{Ouais, ouais.}
 {412}{}{T'essaies de m'énerver ?}

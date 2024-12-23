@@ -134,4 +134,4 @@
 {233}{}{Oui, il me faudrait autre chose.}
 {234}{}{S'passe quoi en ville, en ce moment ?}
 {300}{}{Tu as aidé Fannie à vaincre sa dépendance au Jet.}
-{301}{}{Salut.}
+{301}{}{Au revoir.}

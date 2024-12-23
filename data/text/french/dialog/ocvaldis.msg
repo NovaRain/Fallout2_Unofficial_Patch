@@ -39,7 +39,7 @@
 {138}{}{Moi entendre quelqu'un appeler. Moi partir.}
 {139}{}{Je vois. Essayons encore. Bonjour. Je m'appelle Valdis. Quel est ton nom ?}
 {140}{}{Moi }
-{141}{}{Salut.}
+{141}{}{Au revoir.}
 {142}{}{Personnes non-autorisées. Ca signifie les personnes qui n'ont pas le droit d'être ici.}
 {143}{}{Ok. Moi comprendre.}
 {144}{}{Moi avoir nouveau bobo tête. Moi partir.}

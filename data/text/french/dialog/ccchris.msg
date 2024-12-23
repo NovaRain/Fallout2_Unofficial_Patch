@@ -5,7 +5,7 @@
 {104}{}{Salut. C'est la première fois que je te vois par ici. Que peut faire l'vieux Chris pour toi ?}
 {105}{}{Quoi être ici ?}
 {106}{}{Moi chercher Navarro. Ca être ici ?}
-{107}{}{Toi voir oiseaux métalliques voler par ici ?}
+{107}{}{Toi voir oiseaux de métal voler par ici ?}
 {108}{}{Toi entendre parler d'Enclave ? Eux ici ?}
 {109}{}{Moi juste regarder.}
 {110}{}{Où suis-je ici ?}
@@ -15,7 +15,7 @@
 {114}{}{Je fais juste un tour.}
 {115}{}{Tu vois ça, c'est chez moi, chez Chris. C'est une station service, t'en as jamais vu dans des vieux magazines ou ailleurs ? C'est tout ce qu'il y a ici, une station service.}
 {116}{}{Moi chercher Navarro. Ca être ici ?}
-{117}{}{Toi voir oiseaux métalliques voler par ici ?}
+{117}{}{Toi voir oiseaux de métal voler par ici ?}
 {118}{}{Toi entendre parler d'Enclave ? Eux ici ?}
 {119}{}{Heu... moi devoir partir.}
 {120}{}{Je cherche Navarro. C'est ici ?}

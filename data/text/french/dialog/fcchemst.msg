@@ -68,7 +68,7 @@
 {167}{}{Je suis ici pour obtenir du carburant pour les Hubologistes.}
 {168}{}{Rien. Désolé.}
 {169}{}{Nous sommes tous à court de carburant maintenant. Je ne peux plus t'aider. J'ai trop à faire avec cette armure. Au revoir.}
-{170}{}{Salut.}
+{170}{}{Au revoir.}
 {171}{}{. Je jetais juste un oeil aux alentours.}
 {172}{}{, tu travailles ici en ce moment ?}
 {173}{}{ ça serait bien.}

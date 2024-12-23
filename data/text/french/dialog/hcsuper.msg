@@ -36,7 +36,7 @@
 {135}{}{Oui.}
 {136}{}{Non.}
 {137}{}{Bien. Tu n'as rien à faire ici. Sois sympa et laisse-nous faire notre boulot.}
-{138}{}{Salut.}
+{138}{}{Au revoir.}
 {139}{}{C'est ridicule. Nous ne t'en donnerons pas.}
 {140}{}{Alors meurs.}
 {141}{}{Très bien. Au revoir.}
@@ -49,7 +49,7 @@
 {148}{}{Pas question.}
 {149}{}{Pas de problème. Laisse tomber pour les $500 de plus. Vous en avez plus besoin que moi.}
 {150}{}{Bien. Alors voilà ton minerai. Maintenant, sors immédiatement de ma raffinerie.}
-{151}{}{Salut.}
+{151}{}{Au revoir.}
 {152}{}{Merci ! Voici ton argent. Les Collines Brisées ne t'oublieront pas !}
 {153}{}{Pas de problème.}
 {154}{}{Je t'ai dit de te tirer !}

@@ -127,4 +127,4 @@
 {226}{}{, hein ? Attends une seconde. Je vais chercher la magnéto... heu... le Reg-Mag.}
 {227}{}{, d'accord ? Attends une minute, je vais chercher la magnéto... heu... le Reg-Mag.}
 {228}{}{Merci.}
-{229}{}{[Suite]}
+{229}{}{[Continuer]}

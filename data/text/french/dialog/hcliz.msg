@@ -80,6 +80,6 @@
 {181}{}{Ca suffit ! Viens ici !}
 {182}{}{Que viens-tu m'enquiquiner encore ?}
 {183}{}{Merci.}
-{184}{}{[Continue]}
+{184}{}{[Continuer]}
 {185}{}{Hé ! Qui va là ?}
 {186}{}{J'sais pas qui tu es mais j'viens t'chercher !}

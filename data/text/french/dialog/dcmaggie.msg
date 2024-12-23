@@ -36,7 +36,7 @@
 {183}{}{Gwah.}
 {184}{}{I’ll give you something to beat.}
 {185}{}{Quick question first?}
-{186}{}{Salut.}
+{186}{}{Au revoir.}
 {187}{}{A shot of whiskey is $5. Pay first.}
 {188}{}{Heinh ?}
 {189}{}{Here’s the money.}
@@ -73,11 +73,11 @@
 {221}{}{Pourquoi ? Pourquoi as-tu détruit mon alambic ? Espèce de salaud !}
 {222}{}{Rien de personnel. J'ai été payé pour le faire.}
 {223}{}{Quel dommage.}
-{224}{}{Salut.}
+{224}{}{Au revoir.}
 {225}{}{Je vais en faire un autre, tu sais.}
 {226}{}{Je sais.}
 {227}{}{C'est une bonne chose.}
-{228}{}{Salut.}
+{228}{}{Au revoir.}
 {232}{}{Pourquoi ? Pourquoi as-tu détruit mon alambic ? Espèce de salope !}
 {233}{}{Où es-tu, bébé ?}
 {234}{}{Tu viens ?}

@@ -30,7 +30,7 @@
 {177}{}{Super ! Je vais réparer cette radio en un rien de temps.}
 {178}{}{D'accord. Je vais parler à Metzger.}
 {179}{}{Merci.}
-{180}{}{Salut.}
+{180}{}{Au revoir.}
 {181}{}{Pardon ? Je ne comprends pas.}
 {182}{}{Hum...}
 {183}{}{Merci ! Je te suis éternellement reconnaissant. Que puis-je faire pour te remercier ?}
@@ -87,7 +87,7 @@
 {803}{}{J'en doute. Bonne chance.}
 {810}{}{Pourquoi as-tu tué cette pauvre Mamma... J'imagine que tu avais tes raisons. Je regrette, Boss. Je n'ai pas à te poser de questions. C'est une sale ville. Elle avait dû faire quelque chose de mal.}
 {811}{}{Hé, Boss, merci de m'avoir tiré de ce bordel avec Metzger. T'as besoin de quelque chose ? Mamma a été assez gentille pour me nourrir en ton absence. Je lui donne un coup de main...}
-{812}{}{Salut.}
+{812}{}{Au revoir.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
 {823}{}{Où est ton ami Ed, déjà ?}

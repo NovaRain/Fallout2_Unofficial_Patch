@@ -27,7 +27,7 @@
 {174}{}{Ok.}
 {175}{}{Non.}
 {176}{}{Mon médaillon, mon médaillon ! J'arrive, papa ! J'arrive !}
-{177}{}{Salut.}
+{177}{}{Au revoir.}
 {178}{}{Attends ! Ne pars pas !}
 {179}{}{Va dans la lumière !}
 {200}{}{Où peut-il bien être ?}

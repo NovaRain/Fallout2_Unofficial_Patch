@@ -66,14 +66,14 @@
 {304}{}{Why are your drinks so cheap?}
 {305}{}{Dyer ?}
 {306}{}{Puis-je te poser une question ?}
-{307}{}{Salut.}
+{307}{}{Au revoir.}
 {308}{}{Ouik.}
 {309}{}{Urka.}
 {320}{}{Oh, c'est mon nom de famille. On est dans les alcools depuis très longtemps, bien avant la guerre bien sûr.}
 {321}{}{Comme je l'ai dit, c'est mon nom de famille. Avant, il y avait des pubs et des saloons portant le nom de Dyer dans le monde entier.}
 {322}{}{Je prendrais bien un verre.}
 {323}{}{Je peux te poser une autre question ?}
-{324}{}{Salut.}
+{324}{}{Au revoir.}
 {330}{}{Tu es un bon client, je vais te révéler un petit secret. En fait, c'est très simple: j'ai un alambic. Un ami qui habite dans un village voisin m'a appris à en fabriquer un. Alors, t'en veux un autre ?}
 {331}{}{Secret professionnel. Et puis, je ne te connais pas bien. Je ne voudrais pas que Frankie le sache. Il me pose déjà assez de problèmes. Tu en voulais un autre ? C'est du super.}
 {332}{}{D'accord, j'en prends un.}
@@ -92,7 +92,7 @@
 {355}{}{C'est quoi l'arnaque ?}
 {356}{}{Quoi d'autre ?}
 {357}{}{Je peux te poser une question ?}
-{358}{}{Salut.}
+{358}{}{Au revoir.}
 {370}{}{Arnaque ? Oh, si tu connaissais Fred, tu comprendrais. Il me doit cet argent depuis longtemps. J'avais fait une croix dessus, mais si je peux retrouver mon argent, ça me surprendrait beaucoup... et ça me ferait très plaisir évidemment. Il est quelque part en ville, j'en suis sûre.}
 {371}{}{Le titre du livre c'est "La Lavande". Derek doit être chez La Mamma dans le quartier Est.}
 {372}{}{Je vais voir ce que je peux faire.}

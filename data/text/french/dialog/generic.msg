@@ -22,12 +22,12 @@
 {303}{}{Ourg.}
 {350}{}{[FIN]}
 {351}{}{[Au revoir]}
-{352}{}{[Plus]}
-{353}{}{[Continue]}
+{352}{}{[Suite]}
+{353}{}{[Continuer]}
 {354}{}{[Combat]}
 {355}{}{[Donner l'argent]}
-{375}{}{Salut.}
-{376}{}{Salut.}
+{375}{}{Au revoir.}
+{376}{}{Au revoir.}
 {400}{}{Tu meurs suite à l'injection mortelle du Dr Troy.}
 {450}{}{La zone est dégagée. Le secteur est pacifié. Beau travail. Allons-y !}
 {900}{}{On dirait qu'un explosif bien placé pourrait détruire cette très vieille porte.}

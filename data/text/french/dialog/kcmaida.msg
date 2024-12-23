@@ -133,4 +133,4 @@
 {541}{}{Heu, eh ben alors je vais finalement me contenter de quelques renseignements.}
 {542}{}{Oh, alors je reviendrai quand j'en aurai un peu plus. Au revoir.}
 {550}{}{J'serai bien... [Sniff] contente... [Sniff] de m'débarrasser de ce foutu... [Sniff] tribal.}
-{600}{}{[Plus]}
+{600}{}{[Suite]}

@@ -16,7 +16,7 @@
 {115}{}{Moi vouloir parler.}
 {116}{}{Ok, moi partir.}
 {117}{}{J'aimerais te parler.}
-{118}{}{Salut.}
+{118}{}{Au revoir.}
 {119}{}{J'ai dit que je m'appelais Dalia. Ecoute, je ne veux pas être impolie mais je ne veux parler à personne. Compris ?}
 {120}{}{D'accord, salut.}
 {121}{}{Encore un peu.}

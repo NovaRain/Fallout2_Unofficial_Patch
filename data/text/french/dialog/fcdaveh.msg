@@ -12,7 +12,7 @@
 {111}{}{J'ai parlé à Vikki. Juan et elle se sont moqués de toi et ont dit que tu n'étais pas un vrai homme.}
 {112}{}{J'ai parlé à Vikki. Elle a dit que tu étais canon et qu'elle aimerait bien te rencontrer un jour.}
 {113}{}{Tu veux que je parle à Vikki pour toi ?}
-{114}{}{Ca n'a pas d'importance. Salut.}
+{114}{}{Ca n'a pas d'importance. Au revoir.}
 {115}{}{Hum... Ok. Qu'importe. Eh, que se passe-t-il là ? [Alors que tu te retournes pour regarder, il se remet au travail et fait comme s'il ne te voyait pas.]}
 {116}{}{[Terminé]}
 {117}{}{Je m'appelle Dave Handy. Je viens du Canada.}
@@ -52,7 +52,7 @@
 {151}{}{Bonne chance. Salut !}
 {152}{}{Voilà. Ca apprendra à ces bâtards à m'utiliser puis à me rejeter. Au revoir.}
 {153}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit ça.}
-{154}{}{Salut.}
+{154}{}{Au revoir.}
 {155}{}{Elle n'a pas dit ça. Oh, bien.}
 {156}{}{Alors j'ai fait tout ce mal pour rien. Je vais te tuer maintenant.}
 {157}{}{Essaie un peu.}

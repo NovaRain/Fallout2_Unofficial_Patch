@@ -102,7 +102,7 @@
 {249}{}{Je regrette. Si t'as pas le fric sur toi, reviens quand tu pourras te le permettre. Et va pas en chercher ailleurs ou je viendrais te botter le cul. Je suis le seul à avoir de la pure bonne cam, directement en provenance de New Reno.}
 {250}{}{Attends, j'vais l'acheter.}
 {251}{}{Est-ce que je peux te poser une question ?}
-{252}{}{Salut.}
+{252}{}{Au revoir.}
 {253}{}{Bon, $350, mais c'est mon dernier prix ! C'est normal de payer le prix fort pour de la super cam. Va pas l'acheter chez Tubby ou ces autres gros cons, ils coupent leur merde. Je suis le seul a avoir de la cam pure à 100% dans la région.}
 {254}{}{Laisse tomber. Je peux te poser une question ?}
 {255}{}{D'accord, j'achète.}

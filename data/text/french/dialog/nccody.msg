@@ -18,7 +18,7 @@
 {212}{}{Cody, peux-tu m'emmener à l'endroit où est ma voiture ?}
 {213}{}{Cody, peux-tu m'emmener à l'endroit où ma voiture était ?}
 {214}{}{Peux-tu me dire qui l'a volée ?}
-{215}{}{Salut.}
+{215}{}{Au revoir.}
 {220}{}{[Cody brandit le majeur et s'enfuit.]}
 {221}{}{[Les yeux de Cody s'écarquillent, et il s'enfuit en courant.]}
 {223}{}{MOI TUER TOI MOI TUER TOI MOI TUER TOI MOI TUER --}

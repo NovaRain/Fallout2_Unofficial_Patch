@@ -47,4 +47,4 @@
 {146}{}{Hé, là ! Reste pas là, toi !}
 {147}{}{C'est ça ! Tu te tires, maintenant !}
 {148}{}{Merci.}
-{149}{}{[Suite]}
+{149}{}{[Continuer]}

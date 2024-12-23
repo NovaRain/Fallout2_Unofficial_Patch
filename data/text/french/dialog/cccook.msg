@@ -74,7 +74,7 @@
 {177}{}{Je vais m'en occuper.}
 {178}{}{Prends l'ascenseur à côté pour descendre, suis le couloir jusqu'à l'intersection principale et tourne à gauche. C'est la première porte sur ta gauche. Allez, du balai !}
 {179}{}{Merci.}
-{180}{}{Eh ! J'suis qu'un cuisinier moi... et aveugle en plus. Je n'ai pas vu d'envahisseurs entrer par ici.}
+{180}{}{Eh ! J'suis qu'un cuisinier moi... et aveugle en plus. Je n'ai pas vu d'intrus entrer par ici.}
 {181}{}{Merci.}
 {182}{}{Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles se déclenchent !}
 {183}{}{Mais qu'est-ce qui s'passe maintenant ?}

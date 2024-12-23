@@ -43,7 +43,7 @@
 {142}{}{T'as un coeur gros comme ça, mon gaillard.}
 {143}{}{Tu peux te gratter pour les remerciements. Je te remercie pas d'avoir rendu ça plus dur que ça ne devait l'être.}
 {144}{}{Peut-être qu'il devrait juste se laver plus souvent. Au revoir.}
-{145}{}{Salut.}
+{145}{}{Au revoir.}
 {146}{}{Non. J'ai peur que non. Les besoins de la ville passent avant ceux d'un individu.}
 {147}{}{J'ai d'autres questions, alors.}
 {148}{}{Quel raisonnement utilitaire... Je lui ferai savoir qu'il n'a aucune importance. Au revoir.}

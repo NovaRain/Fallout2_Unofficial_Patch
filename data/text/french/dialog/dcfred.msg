@@ -45,7 +45,7 @@
 {297}{}{Je viens chercher l'argent que tu dois à quelqu'un.}
 {298}{}{Ca ne fait rien.}
 {299}{}{Uk !}
-{300}{}{Salut.}
+{300}{}{Au revoir.}
 {310}{}{Hé ! Te voilà ! Je te cherchais partout ! Vise un peu ces fringues !}
 {311}{}{Encore merci !}
 {312}{}{Pas mal.}
@@ -85,7 +85,7 @@
 {393}{}{C'est pas sûr, mais je l'accepte.}
 {394}{}{Miam.}
 {400}{}{Quoi ? D'accord, si tu insistes. Merci infiniment. Prends bien soin de toi.}
-{401}{}{Salut.}
+{401}{}{Au revoir.}
 {410}{}{Quoi ? Tu prends des trucs ? Pourtant, t'as pas l'air de quelqu'un qui plane au Jet. Ne t'approche pas de moi, sale junkie !}
 {411}{}{Casse-toi !}
 {412}{}{Ug.}

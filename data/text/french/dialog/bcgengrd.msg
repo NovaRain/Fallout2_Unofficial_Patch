@@ -1,5 +1,5 @@
-{100}{}{Tu vois un pillard des Khans.}
-{101}{}{Tu vois un pillard des Khans.}
+{100}{}{Tu vois un membre des Khans.}
+{101}{}{Tu vois un membre des Khans.}
 {102}{}{Tu vois une personne robuste dotée d'une armure, d'armes et d'un air mauvais. Sûrement un Khan.}
 {103}{}{Hé... Je ne crois pas qu'on se connaisse. Bon sang, mais qui es-tu ?}
 {104}{}{J'ai mes papiers ! Laisse-moi te les montrer.}

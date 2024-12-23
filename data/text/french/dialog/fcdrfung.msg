@@ -9,7 +9,7 @@
 {108}{}{Qui es-tu ?}
 {109}{}{Un de mes amis a perdu sa rate. Peux-tu l'aider ?}
 {110}{}{Que pouvez-vous me dire sur cet endroit ?}
-{111}{}{Salut.}
+{111}{}{Au revoir.}
 {112}{}{Laisse-moi jeter un oeil à ça. Oui. Je vais devoir te faire payer, bien sûr.}
 {113}{}{Combien ?}
 {114}{}{Laisse tomber.}

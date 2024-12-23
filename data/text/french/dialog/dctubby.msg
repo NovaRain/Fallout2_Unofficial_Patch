@@ -6,7 +6,7 @@
 {153}{}{J'aimerais mieux que t'ailles faire tes affaires ailleurs.}
 {154}{}{T'es un homme d'affaires. Alors, parlons affaires.}
 {155}{}{Je peux te demander quelque chose.}
-{156}{}{Salut.}
+{156}{}{Au revoir.}
 {157}{}{Je suis tellement content de te revoir. Je peux faire quelque chose pour toi aujourd'hui ?}
 {158}{}{Faisons un échange.}
 {159}{}{Je peux te poser une question.}
@@ -14,13 +14,13 @@
 {161}{}{Bonjour Monsieur, et bienvenu chez Dodu. Je suis le propriétaire. Je peux vous aider ?}
 {162}{}{Oui, faisons du business.}
 {163}{}{J'aimerais quelques renseignements.}
-{164}{}{Salut.}
+{164}{}{Au revoir.}
 {165}{}{Bonjour Madame. Mes amis m'appellent Dodu. Je vous souhaite la bienvenue dans mon magasin. Que désirez-vous ?}
 {166}{}{J'ai des choses à acheter.}
 {167}{}{J'aimerais quelques renseignements.}
-{168}{}{Salut.}
+{168}{}{Au revoir.}
 {169}{}{Je préférerais que tu partes.}
-{170}{}{Salut.}
+{170}{}{Au revoir.}
 {171}{}{Que veux-tu savoir ?}
 {172}{}{Qui est responsable de la ville ?}
 {173}{}{Pourquoi tout le monde vend-il des stimulants ?}

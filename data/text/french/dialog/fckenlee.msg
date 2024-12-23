@@ -43,7 +43,7 @@
 {142}{}{Très bien.}
 {143}{}{L'Empereur reste à l'écart des regards indiscrets. Et comme mon travail consiste à lui servir de bouclier, je ne peux en aucun cas te dire où il est.}
 {144}{}{J'ai d'autres questions.}
-{145}{}{Salut.}
+{145}{}{Au revoir.}
 {146}{}{Nous effectuons des recherches qui vont changer la face du monde. Si tu veux en savoir plus, je te conseille de t'adresser au Docteur Wong Yi Tze. }
 {147}{}{Je n'y manquerai pas. J'ai encore des questions.}
 {148}{}{Je n'y manquerai pas. Au revoir.}

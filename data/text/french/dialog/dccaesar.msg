@@ -127,12 +127,12 @@
 {310}{}{Non. Je reviendrai.}
 {311}{}{Oui. Allons-y.}
 {312}{}{Ah, tu reviens de la chasse aux esclaves. Voyons voir comment tu te débrouilles...}
-{313}{}{[Plus]}
-{314}{}{[Plus]}
+{313}{}{[Suite]}
+{314}{}{[Suite]}
 {315}{}{Tu as tué des esclaves potentiels ! Un homme mort ne nous rapporte rien ! Ne tue que ceux qui sont une menace et épargne les autres.}
-{316}{}{[Plus]}
+{316}{}{[Suite]}
 {317}{}{Tu n'as ramené aucun esclave ! Qu'est-ce qui t'a pris ?! On essaie de faire de l'argent ici, pas d'en perdre !}
-{318}{}{[Plus]}
+{318}{}{[Suite]}
 {319}{}{Bon, tu t'en es pas mal tiré. Continue comme ça et je te garderai peut-être un moment.}
 {320}{}{Merci. Compte sur moi.}
 {321}{}{Je n'sais pas si tout ça me plaît vraiment.}

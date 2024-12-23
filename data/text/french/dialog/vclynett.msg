@@ -336,7 +336,7 @@
 {435}{}{Je... euh... Je ne me souviens pas.}
 {436}{}{Il faudra d'abord que tu m'attrapes.}
 {437}{lyn061}{Hmmmm... Parfait. Mais ne te montre pas avant d'avoir tes papiers de citoyenneté. Bonne journée.}
-{438}{}{Salut.}
+{438}{}{Au revoir.}
 {439}{}{Bonne journée, Première citoyenne.}
 {440}{lyn062}{Ah bon, vraiment ? Cela confirme mes soupçons. Ton permis d'entrée dans la Cité t'est désormais retiré. Donne-moi ton Passe et rends-toi à la porte d'entrée avec mes gardes.}
 {441}{}{Quoi ? Tu m'avais dit que je pourrais garder mon Passe pour un jour !}

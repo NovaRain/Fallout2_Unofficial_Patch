@@ -76,7 +76,7 @@
 {223}{}{Non. Au revoir.}
 {224}{}{Tu as peut-être raison. Je vais lui parler. Merci.}
 {225}{}{Hé, les amis sont là pour ça !}
-{226}{}{Salut.}
+{226}{}{Au revoir.}
 {227}{}{Des renseignements que je n'ai pas.}
 {228}{}{Ah ? Comment se fait-il que les boissons de Babeth soient bien moins chères que les tiennes ?}
 {229}{}{Je croyais que les barmen savaient tout.}
@@ -96,7 +96,7 @@
 {244}{}{C'est toi qui détiens la palme pour le moment. Sérieux !}
 {245}{}{J'ai horreur qu'on me presse, mais...}
 {246}{}{Bon, à bientôt.}
-{247}{}{Salut.}
+{247}{}{Au revoir.}
 {248}{}{Ouais, c'est ça. Nettoie quand tu as fini cette fois-ci, hein !}
 {249}{}{Hé, la compagnie ! Un petit bravo pour Billy ! Il est en pleine action !}
 {250}{}{Tu veux une serpillière ?}

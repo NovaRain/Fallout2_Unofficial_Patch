@@ -89,15 +89,15 @@
 {188}{}{Ici, c'est le Labo Médical. L'armurerie se trouve dans le hall, sur la gauche.}
 {189}{}{Que fais-tu sans uniforme ?}
 {190}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{191}{}{Des envahisseurs ! Appelez la garde !!}
+{191}{}{Des intrus ! Appelez la garde !!}
 {192}{}{Gardes ! Des intrus au Labo Médical !}
 {193}{}{Que se passe-t-il ?! On nous attaque ?!}
 {194}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
-{195}{}{Mais que se passe-t-il, Bon Dieu ?!}
+{195}{}{Mais bordel qu'est-ce qui se passe ici ?}
 {196}{}{Je ne suis pas hostile, ne me tue pas !}
 {197}{}{Je ne me suis pas engagé pour me battre, laisse-moi tranquille.}
 {198}{}{Merde à la fin ! Je suis un docteur, pas un soldat !!}
-{200}{}{[Plus]}
+{200}{}{[Suite]}
 {201}{}{Je voulais te poser quelques questions.}
 {202}{}{Pas maintenant. Je regrette.}
 {800}{}{Tu as tué le Docteur Schreber.}

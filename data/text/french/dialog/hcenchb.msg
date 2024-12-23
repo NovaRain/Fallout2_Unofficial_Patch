@@ -15,7 +15,7 @@
 {114}{}{Marcus le soupçonne de détourner une partie de l'argent qui est censé aller à Broken Hills.}
 {115}{}{Merci. Au revoir.}
 {116}{}{Merci. Non, vraiment. Merci d'avoir fait foirer nos primes. Les seules personnes auxquelles Chad faisait du mal sont celles avec lesquelles on commerçait. Il nous aidait, et t'as tout fait foirer. Minable !}
-{117}{}{Salut.}
+{117}{}{Au revoir.}
 {118}{}{L'ennemi est là ! Crève !}
 {119}{}{Oh là là !}
 {120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}

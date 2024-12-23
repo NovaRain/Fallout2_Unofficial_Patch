@@ -12,8 +12,8 @@
 {111}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
 {112}{}{Alerte de sécurité !! Condamnez la base !!!}
 {113}{}{Fermez toutes les stations !! Nous sommes en état alerte !!}
-{114}{}{Alerte intrus !! Activez le code rouge !!!}
-{115}{}{On va t'exterminer !!}
+{114}{}{Alerte intrus ! Activez le code rouge !}
+{115}{}{On va t'exterminer !}
 {116}{}{L'Enclave régnera sur le monde !}
 {117}{}{Ta mort permettra à l'Enclave de survivre !}
 {118}{}{Je regrette soldat. Cette zone est interdite au personnel de la base. Je dois te demander de partir.}

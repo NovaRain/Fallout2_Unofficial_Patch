@@ -40,11 +40,11 @@
 {154}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {155}{}{Que fais-tu sans uniforme ? }
 {156}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{157}{}{Des envahisseurs ! Appelez la garde !!}
-{158}{}{Gardes !! Il y a des envahisseurs dans le bureau des communications !}
+{157}{}{Des intrus ! Appelez la garde !!}
+{158}{}{Gardes !! Il y a des intrus dans le bureau des communications !}
 {159}{}{Que se passe-t-il ?! On nous attaque ?!}
 {160}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
-{161}{}{Mais que se passe-t-il, Bon Dieu ?!}
+{161}{}{Mais bordel qu'est-ce qui se passe ici ?}
 {162}{}{Je ne suis qu'un technicien, ne tire pas ! Pitié !}
 {163}{}{Je n'ai pas signé pour combattre, je n'ai qu'une formation de technicien !}
 {164}{}{C'est qu'une foutue blouse de laboratoire, pas une armure ! Je me casse !}

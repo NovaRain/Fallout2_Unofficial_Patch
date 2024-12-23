@@ -9,8 +9,8 @@
 {108}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {109}{}{Que fais-tu sans uniforme ? }
 {110}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{111}{}{Des envahisseurs ! Appelez la garde !!}
+{111}{}{Des intrus ! Appelez la garde !!}
 {112}{}{Gardes ! Des intrus dans le contrôle du trafic aérien !}
 {113}{}{Que se passe-t-il ?! On nous attaque ?!}
 {114}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
-{115}{}{Mais que se passe-t-il, Bon Dieu ?!}
+{115}{}{Mais bordel qu'est-ce qui se passe ici ?}

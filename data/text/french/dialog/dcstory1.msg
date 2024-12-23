@@ -57,6 +57,6 @@
 {162}{}{Merci pour l'histoire.}
 {163}{}{Bon, il se fait tard. Au revoir.}
 {164}{}{Ce fut un plaisir. Au revoir.}
-{165}{}{Salut.}
+{165}{}{Au revoir.}
 {166}{}{Laisse tomber.}
 {167}{}{Leanne t'a raconté son histoire sur le Maître.}

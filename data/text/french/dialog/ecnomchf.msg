@@ -13,7 +13,7 @@
 {112}{}{Quel dommage... Alors repose-toi et sois ici chez toi.}
 {113}{}{Thank you. Bye.}
 {114}{}{Ma proposition est arrivée trop tard. Le soleil a déjà brûlé les mots dans ton cerveau. Je dois être bon avec les moins bien lotis que moi. Reste aussi longtemps qu'il te plaira dans mon campement, faible d'esprit...}
-{115}{}{Salut.}
+{115}{}{Au revoir.}
 {116}{}{Infidèle !}
 {117}{}{Pourquoi nous attaques-tu ?}
 {118}{}{Je défendrai la tribu au prix de ma vie !}

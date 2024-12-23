@@ -145,7 +145,7 @@
 {625}{}{Pour avoir écrasé tes ennemis}
 {626}{}{Pour avoir anéanti tes ennemis sans une égratignure}
 {650}{}{[Terminé]}
-{651}{}{[Plus]}
+{651}{}{[Suite]}
 {652}{}{Suite}
 {653}{}{[Retour]}
 {654}{}{Retour}

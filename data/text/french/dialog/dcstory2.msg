@@ -60,5 +60,5 @@
 {165}{}{Quel dommage.}
 {166}{}{Oh...}
 {167}{}{Je suis triste rien que d'y penser...}
-{168}{}{Salut.}
+{168}{}{Au revoir.}
 {169}{}{Stacy t'a raconté une belle histoire à propos de Caresses, sa chatte adorée.}
