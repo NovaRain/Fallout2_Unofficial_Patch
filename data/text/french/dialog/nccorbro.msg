@@ -229,7 +229,7 @@
 {780}{}{Les Frères Corses pour vous servir... [Le type te regarde d'abord énervé, puis surpris.] Sacré nom... }
 {781}{}{Pour moi ! Pour moi !}
 {782}{}{Rien.}
-{783}{}{Où suis-je ici ?}
+{783}{}{Quel est cet endroit ?}
 {784}{}{Tu peux me parler un peu du studio ?}
 {785}{}{Il n'y aurait pas quelques... ouvertures à... combler ?}
 {786}{}{Tu as du boulot pour quelqu'un comme moi ?}
@@ -242,7 +242,7 @@
 {806}{}{Fais ce que ce type te dit.}
 {810}{}{Les Frères Corses pour vous servir... [Le type te regarde d'abord énervé, puis surpris.] Sacré nom... heu, comment vas-tu, }
 {812}{}{Que dalle.}
-{813}{}{Où suis-je ici ?}
+{813}{}{Quel est cet endroit ?}
 {814}{}{Fais-moi plaisir. Parle-moi de ce studio.}
 {815}{}{Bonne question. Il n'y aurait pas quelques... ouvertures à... combler ?}
 {816}{}{Bonne question. T'as du boulot pour quelqu'un comme moi ?}

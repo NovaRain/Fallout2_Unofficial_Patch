@@ -22,7 +22,7 @@
 {124}{}{Oui, qu'est-ce que c'est ?}
 {125}{}{Chpeux vous j'aideeeeer ?}
 {126}{}{Dégage !}
-{127}{}{Où suis-je ici ?}
+{127}{}{Quel est cet endroit ?}
 {128}{}{Je peux voir ce que tu as en stock ?}
 {129}{}{Rien pour aujourd'hui, merci.}
 {130}{}{Super, un autre étranger... Gardes ! On a un étranger qu'il faudrait raccompagner au portail ! Gardes !}

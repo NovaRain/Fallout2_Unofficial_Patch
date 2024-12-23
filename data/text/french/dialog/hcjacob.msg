@@ -23,7 +23,7 @@
 {122}{}{Alors va-t'en.}
 {123}{}{[Terminé]}
 {124}{}{Voilà. C'est fait. Merci du conseil. Maintenant, va-t'en s'il te plaît.}
-{125}{}{D'OOkK !}
+{125}{}{Okééé !}
 {148}{}{Pourquoi ne commences-tu pas par me dire ce que tu penses des mutants ?}
 {149}{}{Je les déteste.}
 {150}{}{Je n'ai pas les idées claires à leur sujet.}

@@ -4,7 +4,7 @@
 {103}{}{Hoo, mon ventre... Oh là là !}
 {104}{}{Fentre ?}
 {105}{}{Ouille ?}
-{106}{}{Que t'est-il arrive ?}
+{106}{}{Qu'est-ce qui t'arrive ?}
 {107}{}{Tu souffres ? Ha ha ha !}
 {108}{}{Qui es-tu ?}
 {109}{}{As-tu des informations pour moi au sujet de mon peuple ?}
@@ -28,11 +28,11 @@
 {127}{}{J'apprécie vraiment ton geste. Va parler à Lao Chou, le marchand, et dis-lui que je dois récupérer ma rate.}
 {128}{}{Je reviendrai.}
 {129}{}{Je m'appelle Chip. Et je souffre le martyre.}
-{130}{}{Que t'est-il arrive ?}
+{130}{}{Qu'est-ce qui t'arrive ?}
 {131}{}{Tu souffres ? Ha ha ha !}
 {132}{}{C'est vraiment triste. A bientôt.}
 {133}{}{Des informations ? Je souffre atrocement et tu veux des informations ?}
-{134}{}{Que t'est-il arrive ?}
+{134}{}{Qu'est-ce qui t'arrive ?}
 {135}{}{Tu souffres ? Ha ha ha !}
 {136}{}{Laisse tomber.}
 {137}{}{As-tu retrouvé ma rate ?}

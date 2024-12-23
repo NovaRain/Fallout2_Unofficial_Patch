@@ -120,7 +120,7 @@
 {219}{}{Une fois, j'ai touché un gecko mort.}
 {220}{}{C'est vrai que tu manges les gens ?}
 {221}{}{Je croyais que tu avais des cornes sur la tête.}
-{222}{}{D'où tu viens ?}
+{222}{}{D'où viens-tu ?}
 {223}{}{Est-ce que tu viens de loin ?}
 {224}{}{T'peux pas m'attraper !}
 {225}{}{Na, na, nère !}

@@ -31,7 +31,7 @@
 {130}{}{Je cherchais l'Abri. Peux-tu me dire où il se trouve ?}
 {131}{}{En fait, j'allais justement partir.}
 {132}{}{C'est ce gros trou dans la montagne, à l'Est, derrière ces deux gardes armés jusqu'aux dents. Il y a autre chose que tu veux savoir ou je peux retourner bosser ?}
-{133}{}{Où suis-je ici ?}
+{133}{}{Quel est cet endroit ?}
 {134}{}{Fais gaffe. J'suis pas d'humeur à me laisser emmerder aujourd'hui.}
 {135}{}{Merci. Salut.}
 {136}{}{Comme si la Cité de l'Abri n'avait pas assez de Brahmines humaines... Ecoute, tu NE PEUX PAS RESTER LA, COMPRIS ? Tu pourrais te faire MAL ! ALLEZ, DEGAGE ! ALLEZ !}

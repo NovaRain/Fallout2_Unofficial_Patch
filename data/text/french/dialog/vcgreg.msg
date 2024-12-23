@@ -123,5 +123,5 @@
 {222}{}{Merci, au revoir.}
 {223}{}{Leur bidonville entoure les ruines d'une ancienne centrale atomique... Une centrale qu'elles ont REUSSI à remettre en service, et qui fuit ! Il faut absolument chasser ces créatures et fermer la centrale pour arrêter la radioactivité !}
 {224}{}{Hummm. Puis-je te poser encore quelques questions ?}
-{225}{}{Merci pour l'information. Au revoir.}
+{225}{}{Merci du renseignement. Au revoir.}
 {226}{}{Tu as réussi le test de citoyenneté et tu fais maintenant partie des citoyens de la Cité de l'Abri.}

@@ -4,7 +4,7 @@
 {103}{}{Oui, soldat ?}
 {104}{}{Quoi être ici ?}
 {105}{}{Moi disais juste bonjour. Moi partir maintenant.}
-{106}{}{Où suis-je ici ?}
+{106}{}{Quel est cet endroit ?}
 {107}{}{Salut. A plus.}
 {108}{}{Ici c'est le centre informatique. Par là, c'est le noyau, le terminal est juste à côté, et ces périphériques sont les unités de stockage des données sur holobandes. C'est le plus récent et le plus puissant des centres.}
 {109}{}{Oh. Heu, quoi toi faire ?}

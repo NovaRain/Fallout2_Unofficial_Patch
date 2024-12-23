@@ -94,7 +94,7 @@
 {193}{}{Toi encore. Que veux-tu ?}
 {194}{}{Weu ? Weu !}
 {195}{}{Dégage !}
-{196}{}{Où suis-je ici ?}
+{196}{}{Quel est cet endroit ?}
 {197}{}{Je veux entrer dans la Cité.}
 {198}{}{J'aimerais acheter ces faux papiers de citoyenneté dont tu parlais.}
 {199}{}{J'ai décidé de te dénoncer pour la vente de faux papiers de citoyenneté.}

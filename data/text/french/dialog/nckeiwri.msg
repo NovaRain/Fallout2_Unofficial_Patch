@@ -30,7 +30,7 @@
 {310}{}{Je suis Keith Wright, de la Famille Wright. Bon, tu me dis ce qui t'amène ?}
 {312}{}{Chris m'a dit de passer. Je cherche du boulot. Tu peux m'aider ?}
 {313}{}{Keith Wright, hein ? J'ai croisé ta mère.}
-{315}{}{Où suis-je ici ?}
+{315}{}{Quel est cet endroit ?}
 {325}{}{Ici, c'est la MAISON de la Famille Wright. Alors, tu me dis ce qui t'amène ?}
 {335}{}{C'est Chris qui t'envoie, hein ?}
 {336}{}{Oui. Il a dit que tu aurais peut-être du boulot pour moi.}

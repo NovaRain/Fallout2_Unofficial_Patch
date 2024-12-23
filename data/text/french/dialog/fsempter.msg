@@ -7,7 +7,7 @@
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
 {108}{}{[Pirater l'ordinateur]}
-{109}{}{Déconnexion.}
+{109}{}{[Déconnexion]}
 {110}{}{Identité confirmée.}
 {111}{}{A quelle fonction voulez-vous accéder ?}
 {112}{}{Diagnostic.}

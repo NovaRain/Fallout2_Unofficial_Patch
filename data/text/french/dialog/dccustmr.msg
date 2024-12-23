@@ -16,7 +16,7 @@
 {300}{}{Je regrette. J'ai pas le temps de parler.}
 {301}{}{Qu'est-ce que je voulais faire déjà ?}
 {302}{}{Bonjour.}
-{303}{}{Pardon...}
+{303}{}{Excuse-moi.}
 {304}{}{Salut.}
 {305}{}{Chez Babeth, c'est le top. Et pas seulement pour les prix. }
 {306}{}{T'es ici pour la boisson ou pour le jeu ?}

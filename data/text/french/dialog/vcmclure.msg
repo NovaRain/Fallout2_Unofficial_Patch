@@ -38,7 +38,7 @@
 {137}{}{Voici le disque du réacteur de Gecko. Peux-tu l'optimiser ?}
 {138}{}{Rien pour aujourd'hui, merci.}
 {139}{}{Je suis le Conseiller McClure, et tu es... ?}
-{140}{}{Ca te regarde pas.}
+{140}{}{Ca ne te regarde pas.}
 {141}{}{. C'est un plaisir de te connaître.}
 {142}{}{Je dois vraiment y aller, peut-être pourrions-nous faire connaissance plus tard.}
 {143}{}{Je peux tolérer une telle grossièreté de la part d'un étranger, mais pas de celle d'un citoyen. Je suis un membre du Conseil de la Cité de l'Abri et tu me dois le respect qui me revient, ou ta citoyenneté sera mise en jeu. Tu m'as bien compris ?}

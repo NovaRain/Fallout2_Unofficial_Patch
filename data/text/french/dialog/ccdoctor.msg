@@ -15,7 +15,7 @@
 {114}{}{Moi devoir partir maintenant.}
 {115}{}{Qui es-tu ?}
 {116}{}{Qu'est-ce tu fais ici ?}
-{117}{}{Où suis-je ici ?}
+{117}{}{Quel est cet endroit ?}
 {118}{}{Pourquoi cette pièce est-elle insonorisée ?}
 {119}{}{Pourquoi y a-t-il un Griffemort dans la pièce d'à côté ?}
 {120}{}{Qu'est-ce que fait cette statue de chien près de la porte ?}

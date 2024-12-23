@@ -30,5 +30,5 @@
 {129}{}{Je peux t'apprendre à mieux te battre. Ca va nous prendre toute une journée.}
 {130}{}{Ok.}
 {131}{}{Tu as bien appris, Etre Elu. Que le vent te pousse dans ta quête.}
-{132}{}{Merci pour ton aide.}
+{132}{}{Merci de ton aide.}
 {133}{}{Je t'ai enseigné tout ce que je pouvais, Etre Elu. Bonne chance pour ta quête.}

@@ -41,12 +41,12 @@
 {140}{}{Evidemment. Que veux-tu ?}
 {141}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
 {142}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{143}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{143}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {144}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
 {145}{}{Rien. Au revoir.}
 {146}{}{Voilà. Maintenant, fiche le camp. Je vais formater l'ordinateur et partir.}
 {147}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
-{148}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{148}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {149}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
 {150}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit ça.}
 {151}{}{Bonne chance. Salut !}
@@ -59,14 +59,14 @@
 {158}{}{Elle a dit ça ? Vraiment ? Ouah ! [Un sourire béat s'affiche lentement sur son visage.] Merci ! Que puis-je faire pour toi ?}
 {159}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
 {160}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{161}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{161}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {162}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
 {163}{}{Ahh, rien. Continue et amuse-toi bien.}
 {164}{}{Voilà. Autre chose ?}
 {165}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
 {166}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
 {167}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
-{168}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{168}{}{Je veux que tu pirates la bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
 {169}{}{Non. Au revoir !}
 {170}{}{Formater le disque dur ? Tu plaisantes ? Hors de question ! Je ne peux pas faire ça !}
 {171}{}{Il ne s'agit que d'un nettoyage de routine. J'ai déjà sauvegardé tout le reste.}

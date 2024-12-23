@@ -6,7 +6,7 @@
 {105}{}{Que puis-je pour toi ?}
 {106}{}{Toi ?}
 {107}{}{Qui es-tu ?}
-{108}{}{Où suis-je ici ?}
+{108}{}{Quel est cet endroit ?}
 {109}{}{Je cherche des villageois perdus.}
 {110}{}{J'ai besoin de carburant.}
 {111}{}{J'aimerais parler à l'Empereur.}

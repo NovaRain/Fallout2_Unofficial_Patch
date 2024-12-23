@@ -10,7 +10,7 @@
 {112}{}{Tu vois une jeune femme séduisante, ses vêtements sont à moitié déboutonnés.}
 {113}{}{Tu vois une femme qui te jauge du regard... et qui fait la grimace.}
 {120}{}{C'était du rapide.}
-{121}{}{Ca fait longtemps, mon chou ?}
+{121}{}{Ca faisait longtemps, mon chou ?}
 {122}{}{Ca durera peut-être plus longtemps la prochaine fois.}
 {123}{}{On fait pas la course, tu sais ?}
 {124}{}{Est-ce que tes amis t'appellent « Speedy » ?}

@@ -5,7 +5,7 @@
 {104}{}{Qu'est-ce tu veux ?}
 {105}{}{Nyug aarg.}
 {106}{}{Qui es-tu ?}
-{107}{}{Où suis-je ici ?}
+{107}{}{Quel est cet endroit ?}
 {108}{}{As-tu déjà entendu parler d'un J.E.K ?}
 {109}{}{Ecoute, Eric m'a demandé de régler la quantité d'énergie qui arrive chez lui. Il dit qu'il transpire trop.}
 {110}{}{Hé, Eric est vraiment heureux dans sa maison toute fraîche ! Et si j'ai bien vu, il n'y a pas eu de problèmes en ville.}

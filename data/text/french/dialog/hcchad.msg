@@ -16,7 +16,7 @@
 {132}{}{Je m'appelle Chad.}
 {133}{}{Ecoute, je suis très occupé. Va embêter quelqu'un d'autre.}
 {134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
-{135}{}{D'OOkK !}
+{135}{}{Okééé !}
 {136}{}{Je voudrais travailler pour toi.}
 {137}{}{Ca a l'air excitant.}
 {138}{}{Ca a l'air chiant.}

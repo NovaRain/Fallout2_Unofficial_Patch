@@ -16,7 +16,7 @@
 {115}{}{Moi aller.}
 {116}{}{Je regrette, mais je crois que je vais partir.}
 {117}{}{Oui, il m'en est arrivé des choses. Accepterais-tu de répondre à certaines de mes questions, et en contrepartie je te raconterai mes aventures.}
-{118}{}{Ca te regarde pas.}
+{118}{}{Ca ne te regarde pas.}
 {119}{}{Puis-je te poser quelques questions ?}
 {120}{}{Marché conclu ! J'ai vraiment envie d'entendre tout ce que tu as à me raconter.}
 {121}{}{De plus, je ne peux rien refuser à un ami de Gruthar.}

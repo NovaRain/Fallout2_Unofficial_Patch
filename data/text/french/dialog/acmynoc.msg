@@ -30,7 +30,7 @@
 {177}{}{Je suis l'Etre Elu. Je ne *dois* faire que ce qui me plaît. Au revoir.}
 {178}{}{Je ne me souviens pas de son nom, je me souviens juste qu'il était vieux et bruyant, trop bruyant pour faire preuve de bonnes manières. Mais il connaissait des tas de choses. Il venait de Klamath, à l'Est, comme je l'ai dit.}
 {179}{}{Merci, au revoir.}
-{180}{}{Tu es encore là ? Tu dois aller chercher le J.E.K. Ca ne nous aide pas que tu restes ici.}
+{180}{}{Tu es encore là ? Tu dois aller chercher le J.E.K Ca ne nous aide pas que tu restes ici.}
 {181}{}{Occupe-toi seulement de ce pont. Je peux me débrouiller sans l'aide de personne.}
 {182}{}{J'allais partir. Au revoir.}
 {183}{}{Je n'ai rien d'autre à te dire. Quelle insoumission !}

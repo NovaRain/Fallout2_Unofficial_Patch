@@ -6,7 +6,7 @@
 {105}{}{[Deviner le mot de passe]}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{[Pirater l'ordinateur]}
-{108}{}{Déconnexion.}
+{108}{}{[Déconnexion]}
 {109}{}{Base de données de physique : - Exploration - Théorie -}
 {110}{}{Exploration...}
 {111}{}{Théorie...}

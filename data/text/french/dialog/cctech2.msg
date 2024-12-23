@@ -13,7 +13,7 @@
 {112}{}{Où base principale de l'Enclave ?}
 {113}{}{Moi chercher plans hélicos. Où moi trouver ?}
 {117}{}{Moi partir maintenant.}
-{118}{}{Où suis-je ici ?}
+{118}{}{Quel est cet endroit ?}
 {119}{}{Quel travail tu fais ici ?}
 {120}{}{Où se trouve la base principale de l'Enclave ?}
 {121}{}{J'ai besoin de jeter un oeil sur les plans des hélicos. Où puis-je les trouver ?}

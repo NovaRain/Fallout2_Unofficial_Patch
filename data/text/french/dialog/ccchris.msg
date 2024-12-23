@@ -8,7 +8,7 @@
 {107}{}{Toi voir oiseaux de métal voler par ici ?}
 {108}{}{Toi entendre parler d'Enclave ? Eux ici ?}
 {109}{}{Moi juste regarder.}
-{110}{}{Où suis-je ici ?}
+{110}{}{Quel est cet endroit ?}
 {111}{}{Je cherche Navarro. C'est ici ?}
 {112}{}{As-tu vu des hélicos voler dans les environs ?}
 {113}{}{T'as déjà entendu parler de l'Enclave ? Ils sont par ici ?}

@@ -6,7 +6,7 @@
 {105}{}{Heu... Moi ici depuis pas longtemps.}
 {106}{}{Moi nettoyer ici.}
 {107}{}{Moi pas rappeler. Moi partir.}
-{108}{}{Où suis-je ici ?}
+{108}{}{Quel est cet endroit ?}
 {109}{}{Bonjour, je suis ici depuis peu de temps.}
 {110}{}{Je suis ici pour nettoyer le bureau du Commandant.}
 {111}{}{Ca ne fait rien.}

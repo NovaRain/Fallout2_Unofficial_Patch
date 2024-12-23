@@ -49,7 +49,7 @@
 {148}{}{San Fransisco est assez loin vers le Sud. Il te reste du chemin à faire. Plein Sud et juste un poil à l'Ouest. Tout près de l'océan. Je sais pas pourquoi quelqu'un de sensé voudrait y aller.}
 {149}{}{Pourquoi ? C'est dangereux ?}
 {150}{}{C'est intéressant. Puis-je te demander autre chose ?}
-{151}{}{Merci pour l'information. Au revoir.}
+{151}{}{Merci du renseignement. Au revoir.}
 {152}{}{J'ai entendu tout un tas de choses sur cette ville qui serait pleine d'adeptes fous d'une sorte de religion clandestine.}
 {153}{}{Des adeptes toqués ?}
 {154}{}{Certaines choses évoluent plus que d'autres. Merci. Au revoir.}

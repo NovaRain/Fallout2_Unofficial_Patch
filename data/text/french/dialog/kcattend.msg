@@ -6,7 +6,7 @@
 {105}{}{Cette femme te déshabille du regard.}
 {106}{}{Tu vois une jeune femme.}
 {110}{}{C'était du rapide.}
-{111}{}{Ca fait longtemps, mon chou ?}
+{111}{}{Ca faisait longtemps, mon chou ?}
 {112}{}{Ca durera peut-être plus longtemps la prochaine fois.}
 {113}{}{On fait pas la course, tu sais ?}
 {114}{}{Est-ce que tes amis t'appellent « Speedy » ?}

@@ -25,7 +25,7 @@
 {124}{}{Excuse-moi, en quoi puis-je t'être utile ?}
 {125}{}{Utiiile ? Guili-guili ?}
 {126}{}{Dégage !}
-{127}{}{Où suis-je ici ?}
+{127}{}{Quel est cet endroit ?}
 {128}{}{Je peux voir ce que tu as en stock ?}
 {129}{}{Rien pour aujourd'hui, merci.}
 {130}{}{Un instant, d'accord ? J'envoie quelqu'un pour t'accompagner.}

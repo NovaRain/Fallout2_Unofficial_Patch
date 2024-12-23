@@ -5,12 +5,12 @@
 {104}{}{ ? Moi pas comprendre grands mots.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{[Pirater l'ordinateur]}
-{107}{}{Déconnexion.}
+{107}{}{[Déconnexion]}
 {108}{}{Base de données de chimie : - Carburant et dérivés - - Polymères -}
 {109}{}{Carburant et dérivés.}
 {110}{}{Polymères.}
 {111}{}{Désactiver station de travail.}
-{112}{}{Déconnexion.}
+{112}{}{[Déconnexion]}
 {113}{}{Veuillez vous adresser à l'administrateur système. Au revoir.}
 {114}{}{[Pirater l'ordinateur]}
 {115}{}{[Quitter]}

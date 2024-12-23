@@ -12,7 +12,7 @@
 {111}{}{Moi chercher plans hélicos. Où moi trouver ?}
 {112}{}{Technicien dire que moi trouver plans des hélicos ici.}
 {113}{}{Moi partir maintenant.}
-{114}{}{Où suis-je ici ?}
+{114}{}{Quel est cet endroit ?}
 {115}{}{Je cherche les plans des hélicos. Sais-tu où je peux les trouver ?}
 {116}{}{Un technicien m'a dit que je pouvais trouver les plans des hélicos ici.}
 {117}{}{Bon, il faut que j'y aille.}

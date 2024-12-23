@@ -25,7 +25,7 @@
 {128}{}{J'ai réussi l'épreuve. Je peux donc commencer.}
 {129}{}{Je dois y réfléchir.}
 {130}{}{Je n'ai pas envie de me faire tuer !}
-{131}{aeld7}{Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K. Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi !}
+{131}{aeld7}{Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi !}
 {133}{}{Avant de partir, j'ai quelques questions.}
 {134}{}{La tribu peut compter sur moi. Au revoir.}
 {135}{aeld8}{Très bien. Viens me voir lorsque ta décision sera prise mais n'attends pas trop longtemps.}
