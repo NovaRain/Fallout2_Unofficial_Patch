@@ -267,7 +267,7 @@
 {501}{}{Ca ne fait rien. Je peux te demander quelque chose ?}
 {502}{}{Tant pis. Salut.}
 {600}{}{Je me sens pas dans mon assiette, chef.}
-{601}{}{Ne fais pas ça !}
+{601}{}{Ne fais pas ça.}
 {602}{}{Tu trouves pas que cet endroit donne un peu la chair de poule ?}
 {603}{}{J'espère que t'as des cuissardes... On va marcher dans la merde.}
 {604}{}{Cet endroit ne me dit rien qui vaille.}

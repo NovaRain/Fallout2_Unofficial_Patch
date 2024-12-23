@@ -63,7 +63,7 @@
 {301}{}{Les alcools sont toujours à $5, et ceux de la famille Dyer sont les meilleurs au monde.}
 {302}{}{Est-ce que ça va ? Tu veux un whisky ? Seulement $5.}
 {303}{}{Je prendrais bien un verre.}
-{304}{}{Why are your drinks so cheap?}
+{304}{}{Pourquoi tes boissons sont si bon marché ?}
 {305}{}{Dyer ?}
 {306}{}{Puis-je te poser une question ?}
 {307}{}{Au revoir.}
@@ -113,7 +113,7 @@
 {410}{}{C'est incroyable qu'ils soient tous les deux morts ! Quel dommage. Merci pour tout. Si tu veux bien m'excuser...}
 {411}{}{Je n'arrive pas à croire qu'il est mort... après toutes ces années !}
 {412}{}{Certainement.}
-{413}{}{<Grmmble...>}
+{413}{}{...}
 {420}{}{Ouais, je sais qui c'est. C'est Vic. Le gars que Metzger a enfermé.}
 {421}{}{Ouais, je le connais Vic. Metzger l'a enfermé. Mais je sais pas pourquoi.}
 {422}{}{Qui c'est Metzger ?}
@@ -169,4 +169,4 @@
 {572}{}{Alors.}
 {573}{}{Ca ne me surprendrait pas.}
 {580}{}{Alors, tu te débines ? Ca m'étonne pas.}
-{581}{}{<Grmmble...>}
+{581}{}{...}

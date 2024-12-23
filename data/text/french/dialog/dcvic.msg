@@ -2,7 +2,7 @@
 {101}{}{Tu vois Vic.}
 {150}{}{On dirait que cet esclave est sous haute surveillance.}
 {151}{}{C'est Vic.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Pourrais-tu lui dire que je ne peux pas... attendre ? Qui es-tu ? Tu n'es pas esclavagiste. Que fais-tu ici ?}
 {154}{}{Je m'appelle }
 {155}{}{. Je suis là pour t'aider à sortir d'ici.}

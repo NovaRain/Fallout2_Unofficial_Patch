@@ -48,7 +48,7 @@
 {147}{}{J'ai d'autres questions.}
 {148}{}{Au revoir.}
 {149}{}{Oh. Encore toi.}
-{150}{}{Re-bonjour !}
+{150}{}{Rebonjour !}
 {151}{}{Tu es ici chez toi.}
 {152}{}{Tu veux en savoir plus ?}
 {153}{}{Quelles sont les nouvelles ?}

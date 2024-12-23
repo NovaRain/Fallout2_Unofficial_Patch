@@ -760,7 +760,7 @@
 {3109}{}{Euh, c'est le moment de faire un retrait tactique.}
 {3110}{}{Sortie, côté cour.}
 {3111}{}{Il est plus tard que je ne pensais.}
-{3112}{}{Gotta run. See ya.}
+{3112}{}{Je dois y aller. A plus tard.}
 {3113}{}{Sauve qui peut !}
 {3114}{}{J'ai quelques parties à rafistoler.}
 {3115}{}{Ces vieux os n'en peuvent plus.}

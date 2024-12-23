@@ -2,7 +2,7 @@
 {101}{}{Tu vois Frankie, le propriétaire du Trou.}
 {150}{}{Voici le propriétaire de cet endroit.}
 {151}{}{Voici Frankie, c'est le propriétaire de ce bistrot.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{C'est moi, Frankie. Je suis l'proprio. Tu fais la queue comme tout l'monde, Ok ?}
 {154}{}{D'ac.}
 {155}{}{C'est cela même...}

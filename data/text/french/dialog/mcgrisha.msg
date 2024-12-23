@@ -3,7 +3,7 @@
 {102}{}{Tu n'arrives pas exactement à le reconnaître, mais il a un air familier.}
 {151}{}{Je vous avais bien dit que votre tour viendrait !}
 {152}{}{Bwahahaha !}
-{153}{}{Allez-vous-en !}
+{153}{}{Va-t'en !}
 {154}{}{Je suis occupé !}
 {155}{}{Je me disais bien que ma fille était bizarre.}
 {156}{}{A chacun ses goûts, je suppose.}

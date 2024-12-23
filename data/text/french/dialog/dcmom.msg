@@ -2,7 +2,7 @@
 {150}{}{Tu vois la Mamma, affairée à la cuisine et au ménage.}
 {151}{}{Tu vois une femme d'un certain âge, robuste, au sourire jovial.}
 {200}{}{Bonjour. Je suis la Mamma. Je m'trompe ou t'es pas d'ici ?!}
-{201}{}{Re-bonjour. Que peut faire la Mamma pour toi ?}
+{201}{}{Rebonjour. Que peut faire la Mamma pour toi ?}
 {202}{}{Moi }
 {203}{}{Hum. Ok ? Au revoir Môman.}
 {220}{}{Tu bouffes tellement que tu nous as presque mis sur la paille ! Trouve-toi donc un autre endroit ! Tu as assez mangé ici pour aujourd'hui.}

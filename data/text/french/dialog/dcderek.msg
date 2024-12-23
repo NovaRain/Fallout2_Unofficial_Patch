@@ -1,7 +1,7 @@
 {100}{}{Tu vois un citoyen de La Fosse.}
 {101}{}{Tu vois Derek.}
 {150}{}{Il a l'air très agile.}
-{200}{}{Va-t'en !}
+{200}{}{Casse-toi.}
 {201}{}{J'ai pas la force de parler.}
 {202}{}{Sors de chez moi !}
 {203}{}{Trouve-toi un autre endroit pour dormir.}

@@ -1,7 +1,7 @@
 {100}{}{Tu vois un homme de la tribu.}
 {101}{}{Tu vois une femme de la tribu.}
 {150}{}{Devant toi se trouve un robuste guerrier de ton village, il porte un pantalon en peaux d'animaux.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Bonjour, Etre Elu, que puis-je faire pour toi ?}
 {153}{}{Je faisais juste un tour dans le village une dernière fois avant de partir.}
 {154}{}{Que peux-tu me dire des marchands qui traitent avec nous ?}

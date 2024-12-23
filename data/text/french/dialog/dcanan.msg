@@ -2,7 +2,7 @@
 {101}{}{Tu vois le Grand Ananias.}
 {102}{}{D'un coup d'oeil furtif, tu vois un petit homme moustachu.}
 {103}{}{Toi ! Que veux-tu faire au Grand Ananias ?}
-{104}{}{Dégage !}
+{104}{}{Ne t'approche pas de moi !}
 {105}{}{Va déranger quelqu'un d'autre.}
 {106}{}{Va faire ça à quelqu'un d'autre.}
 {107}{}{Tu m'as déjà fait subir le pire.}

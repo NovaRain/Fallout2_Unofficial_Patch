@@ -1,5 +1,5 @@
 {100}{}{Tu vois un client.}
-{101}{}{Tu vois un citadin.}
+{101}{}{Tu vois un habitant de la ville.}
 {150}{}{On dirait qu'il va quelque part.}
 {151}{}{On dirait qu'elle va quelque part.}
 {152}{}{Il est occupé à boire et à parler aux autres clients.}
@@ -8,7 +8,7 @@
 {155}{}{On dirait qu'elle regarde un peu partout dans le magasin de Dodu.}
 {156}{}{Tu ne vois rien de suspect sur lui.}
 {157}{}{Tu ne vois rien de suspect sur elle.}
-{200}{}{Dégage !}
+{200}{}{Ne t'approche pas de moi !}
 {201}{}{Laisse-moi tranquille.}
 {202}{}{Ne me touche pas !}
 {203}{}{Arrête !}

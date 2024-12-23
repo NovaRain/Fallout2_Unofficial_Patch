@@ -3,7 +3,7 @@
 {102}{}{Elle a l'air un peu triste.}
 {103}{}{Arrête !}
 {104}{}{Comment as-tu pu ?}
-{105}{}{Dégage !}
+{105}{}{Ne t'approche pas de moi !}
 {106}{}{Pourquoi ?}
 {107}{}{Je t'en prie, arrête !}
 {108}{}{Tu es un assassin !}

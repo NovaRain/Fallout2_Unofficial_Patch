@@ -1,6 +1,6 @@
 {100}{}{Tu vois une prostituée.}
 {150}{}{Tu vois une prostituée tout ce qu'il y a de plus banal.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Hé, je fais pas les nanas !}
 {154}{}{Peu importe.}
 {155}{}{Pardon.}

@@ -17,8 +17,8 @@
 {116}{}{Fleur de Broc [$10]}
 {117}{}{Au revoir.}
 {118}{}{[Il tend l'index en direction de la mer.] Ne t'arrête pas de marcher. Notre Déesse désire te rencontrer personnellement.}
-{119}{}{[Fin]}
+{119}{}{[Terminé]}
 {120}{}{Que les grâces de notre Déesse de la mer t'accompagnent !}
-{121}{}{[Fin]}
+{121}{}{[Terminé]}
 {122}{}{[Il fronce les sourcils quand il voit que tu n'as pas assez d'argent.] Alors, peut-être une autre fois.}
-{123}{}{[Fin]}
+{123}{}{[Terminé]}

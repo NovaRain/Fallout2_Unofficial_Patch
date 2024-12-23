@@ -139,7 +139,7 @@
 {630}{}{[Hoche de la tête.] C'est un... bon nom. Va voir Mason. Il a... quelque chose pour toi.}
 {640}{}{Bonjour, }
 {645}{}{Je n'ai plus besoin de tes services, }
-{650}{}{<Grmmble...>}
+{650}{}{...}
 {651}{}{<Heurkkk...>}
 {652}{}{::Suffoque:: ... Je... ::Tousse:: ::Respire bruyamment::}
 {653}{}{Non... je... <Heurrkkk>}

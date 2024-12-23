@@ -56,7 +56,7 @@
 {155}{}{Ca être tout. Moi aller maintenant.}
 {156}{}{Que peux-tu me dire sur l'abri 15 ?}
 {157}{}{Pourquoi ne pas avoir négocié avec les squatteurs ?}
-{158}{}{Do you know where Vault 13 is?}
+{158}{}{Sais-tu où se trouve l'Abri 13 ?}
 {159}{}{Je recherche un J.E.K. En aurais-tu un par hasard ?}
 {160}{}{Que peux-tu me dire sur New Reno ?}
 {161}{}{Que peux-tu me dire à propos de Roger Westin ?}

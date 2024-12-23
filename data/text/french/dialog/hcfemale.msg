@@ -1,6 +1,6 @@
 {100}{}{Tu vois une femme, de race humaine.}
-{101}{}{Tu vois une citadine.}
-{102}{}{Tu vois une citadine. Bien que ses vêtements ne soient pas beaux, elle a l'air assez fière.}
+{101}{}{Tu vois un habitante de la ville.}
+{102}{}{Tu vois une habitante de la ville. Bien que ses vêtements ne soient pas beaux, elle a l'air assez fière.}
 {147}{}{N'y a-t-il pas un endroit sûr ?}
 {148}{}{Depuis quand la violence est-elle aussi commune ?}
 {149}{}{Je déménagerai... on est pas en sécurité ici.}

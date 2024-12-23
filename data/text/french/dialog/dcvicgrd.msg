@@ -114,4 +114,4 @@
 {504}{}{Vic a intérêt à travailler dur pour toi.}
 {505}{}{Un jour je t'aurai pendant une chasse.}
 {506}{}{Comment ça va ?}
-{507}{}{Salut à nouveau.}
+{507}{}{Rebonjour.}

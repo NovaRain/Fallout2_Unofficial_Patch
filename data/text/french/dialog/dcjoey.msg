@@ -1,7 +1,7 @@
 {100}{}{Tu vois un voyou.}
 {101}{}{Tu vois Joey.}
 {150}{}{Ce gars là n'a pas l'air très commode.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Hé, je vais te tailler en pièces !}
 {153}{}{Ah ouais ? Essaie un peu pour voir !}
 {154}{}{Hé, attends une minute !}
@@ -70,7 +70,7 @@
 {217}{}{J'ai besoin d'en savoir plus sur la maison hantée.}
 {218}{}{C'est quoi l'histoire avec la vieille église et ces gardes ?}
 {219}{}{Est-ce que tous les habitants de cette ville sont des junkies ?}
-{220}{}{Avez-vous déjà entendu parler de l'Abri 13 ?}
+{220}{}{As-tu entendu parler de l'Abri 13 ?}
 {221}{}{Heu, peu importe. A un de ces jours...}
 {222}{}{Oh tu veux parler de Tyler et de son gang ? Ils gardent ces trucs qui viennent de la Cité de l'Abri. Des putains de grosses boites. De temps en temps ils les chargent sur des caravanes en direction de New Reno.}
 {223}{}{J'aimerais savoir autre chose.}

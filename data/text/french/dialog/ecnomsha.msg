@@ -31,9 +31,9 @@
 {130}{}{[Tu le regardes broyer avec soin les deux plantes et les mélanger. Il te tend des quantités de poudre dosées avec précision.]}
 {131}{}{Au revoir.}
 {132}{}{On dirait que tu n'as plus d'argent. Reviens plus tard, quand ton porte-monnaie sera plus garni.}
-{133}{}{[FIN]}
+{133}{}{[Terminé]}
 {134}{}{Je n'ai pas de temps à perdre avec ces sottises. Pars !}
-{135}{}{[FIN]}
+{135}{}{[Terminé]}
 {136}{}{[Empoisonnement]}
 {137}{}{[Blessures]}
 {138}{}{[Irradiation]}

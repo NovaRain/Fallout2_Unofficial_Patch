@@ -26,7 +26,7 @@
 {125}{}{[Tu te sens sale dans tous les sens du terme. Mais tu as eu des peaux de gecko.]}
 {126}{}{Au revoir.}
 {127}{}{[Il lève la main droite et dit :] Hugh. Moi trappeur courageux. Chasser gros geckos. Moi pas passer sur tes terres. Partir en paix. [Il te fait cadeau d'une peau de gecko.]}
-{128}{}{[FIN]}
+{128}{}{[Terminé]}
 {129}{}{Je n'ai plus rien à faire avec toi.}
 {130}{}{Espèce de lâche !}
 {131}{}{Ici, c'est mon territoire de chasse. Va-t'en !}

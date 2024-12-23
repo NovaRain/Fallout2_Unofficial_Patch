@@ -1,4 +1,4 @@
-{100}{}{Un nomade.}
+{100}{}{Tu vois un nomade.}
 {101}{}{Chef nomade.}
 {102}{}{Ses habits et sa prestance montrent qu'il est certainement une sorte de chef.}
 {103}{}{Je te souhaite la bienvenue dans mon humble tente. Viens à l'ombre t'abriter de la chaleur infinie de la terre.}

@@ -16,7 +16,7 @@
 {115}{}{Ca fait plaisir de te revoir.}
 {116}{}{Bon voyage.}
 {117}{}{Eh, bonjour ! Ca fait plaisir de voir une nouvelle tête ici. Je m'appelle Leanne. Je t'en prie, assieds-toi !}
-{118}{}{Re-bonjour. J'espère que ça va ?}
+{118}{}{Rebonjour. J'espère que ça va ?}
 {119}{}{Bon, dis-moi ce que tu sais à propos du Maître.}
 {120}{}{Formidable. Comment ça va pour toi ?}
 {121}{}{Très bien.}

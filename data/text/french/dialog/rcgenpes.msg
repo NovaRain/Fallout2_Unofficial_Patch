@@ -1,4 +1,4 @@
-{100}{}{Tu vois un citadin de Redding.}
+{100}{}{Tu vois un habitant de Redding.}
 {101}{}{Cet homme te semble être du coin.}
 {102}{}{Tu vois un mineur.}
 {103}{}{Tu vois un fermier de Redding.}

@@ -1,7 +1,7 @@
 {100}{}{Tu vois le garde du pont.}
 {101}{}{Tu vois Mynoc, le garde du pont.}
 {150}{}{Devant toi se dresse un grand guerrier de ton village, tenant une lance.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Bonjour, Etre Elu. Tu pars chercher le J.E.K ?}
 {153}{}{Oui.}
 {154}{}{Oui. Mais avant de partir, j'aimerais te poser quelques questions.}

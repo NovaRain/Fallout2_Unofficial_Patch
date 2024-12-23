@@ -1,4 +1,4 @@
-{100}{}{Un voyageur.}
+{100}{}{Tu vois un voyageur.}
 {101}{}{On dirait que cette personne cherche quelque chose.}
 {200}{}{A mort l'esclavagiste !}
 {201}{}{A bas l'oppresseur !}

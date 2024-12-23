@@ -2,7 +2,7 @@
 {101}{}{Tu vois le fantôme d'Anna.}
 {150}{}{C'est un fantôme. On n'en voit pas tous les jours.}
 {151}{}{Elle a l'air très tourmentée.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Oh, quelle douleur ! Ca brûle !}
 {154}{}{Quel est le problème ?}
 {155}{}{Qui es-tu ?}

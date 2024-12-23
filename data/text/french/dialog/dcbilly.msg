@@ -1,7 +1,7 @@
 {100}{}{Tu vois un client du Trou.}
 {150}{}{Ce type n'est pas vraiment du genre beau gosse.}
 {151}{}{Ce gars n'a qu'une dent.}
-{152}{}{[PARLER]}
+{152}{}{[Parler]}
 {153}{}{Ta femme est vachement jolie !}
 {154}{}{Laisse-nous tranquille.}
 {155}{}{Elle te plaît, hein ?}

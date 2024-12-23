@@ -23,7 +23,7 @@
 {203}{}{ par disqualification...}
 {204}{}{ avec un score de }
 {205}{}{ à }
-{206}{}{<Grmmble...>}
+{206}{}{...}
 {210}{}{!!!}
 {1106}{}{ livres à la pesée, sortant du désert et tout nouveau à New Reno, }
 {1107}{}{ livres, vous le connaissez, vous l'AIMEZ tous... }

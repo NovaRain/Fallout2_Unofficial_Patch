@@ -1,7 +1,7 @@
 {100}{}{Tu vois un villageois.}
 {101}{}{Tu vois une villageoise.}
 {150}{}{Un gentil membre de ton village.}
-{151}{}{[PARLER]}
+{151}{}{[Parler]}
 {152}{}{Bonjour ! J'ai entendu dire que tu es l'Etre Elu. Maintenant, notre village va peut-être pouvoir être sauvé.}
 {153}{}{Peux-tu me dire où trouver plus de poudre de guérison ?}
 {154}{}{Que peux-tu me dire des marchands qui traitent avec nous ?}

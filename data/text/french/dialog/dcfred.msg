@@ -16,7 +16,7 @@
 {222}{}{Tu sais quelle heure il est ?}
 {223}{}{Je n'ai rien.}
 {224}{}{J'ai sommeil. Reviens demain matin.}
-{225}{}{Va-t'en !}
+{225}{}{Casse-toi.}
 {226}{}{Y'a personne à la maison.}
 {227}{}{Je peux pas parler. Je vais me coucher.}
 {228}{}{Hé, poupée ! Il est tard. Laisse-moi tranquille.}

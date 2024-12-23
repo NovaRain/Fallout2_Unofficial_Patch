@@ -76,7 +76,7 @@
 {175}{}{...l'attaché-case à Bishop ? J'ai bien essayé, sauf qu'il a lu le petit mot que tu avais laissé à l'intérieur, et qu'il a essayé de me TUER. Marrant, hein ? J'espère que tu es prêt à crever, Moore !}
 {176}{}{Si, mais je suis de retour pour te cribler de trous et recouvrir ton corps d'une fine couche de terre.}
 {177}{}{C'est juste pour que tu restes sur tes gardes. Salut.}
-{178}{}{Ah ! Re-bonjour, disciple de la vérité ! Que puis-je faire pour toi ?}
+{178}{}{Ah ! Rebonjour, disciple de la vérité ! Que puis-je faire pour toi ?}
 {179}{}{Que sais-tu de la RNC ?}
 {180}{}{J'avais une question : pourquoi y a-t-il des esclaves dans la Cité de l'Abri ? On m'avait dit que c'était une ville libre.}
 {181}{}{Je veux entendre la bonne parole, frère !}

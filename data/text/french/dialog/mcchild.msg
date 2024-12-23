@@ -1,7 +1,7 @@
 {100}{}{Tu vois un petit garçon.}
-{101}{}{Une petite fille.}
+{101}{}{Tu vois une petite fille.}
 {120}{}{Tu vois un petit garçon. Il a l'air malicieux.}
-{121}{}{Une petite fille. Elle a l'air malicieuse.}
+{121}{}{Tu vois une petite fille. Elle a l'air malicieuse.}
 {150}{}{Ne me mange pas !}
 {151}{}{Ahhhh ! Un ogre !}
 {152}{}{Papa dit que tu es un méchant.}

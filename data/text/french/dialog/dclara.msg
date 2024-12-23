@@ -1,7 +1,7 @@
 {100}{}{Tu vois Lara.}
 {150}{}{C'est la chef de ce gang.}
 {200}{}{Je m'appelle Lara, je suis à la tête de ce gang. Si tu viens nous chercher des noises, gare à toi !}
-{201}{}{Re-bonjour. T'as besoin de quelque chose ?}
+{201}{}{Rebonjour. T'as besoin de quelque chose ?}
 {202}{}{T'aurais pas du travail ?}
 {203}{}{Je ne fais que passer.}
 {204}{}{Je cherche un marchand nommé Vic.}

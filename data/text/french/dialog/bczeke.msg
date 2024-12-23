@@ -8,7 +8,7 @@
 {107}{}{Je voulais juste te poser quelques questions.}
 {108}{}{Eh bien, je pense que tu vas te rendre compte qu'on a pas de réponses ici. Pourquoi ne reviens-tu pas quand on aura reçu une nouvelle cargaison ?}
 {109}{}{Terminé.}
-{110}{}{Re-bonjour. Je n'ai toujours pas de réponses pour toi. Tu ne comprends pas ou quoi ? Pourquoi tu vas pas voir ailleurs si j'y suis ?}
+{110}{}{Rebonjour. Je n'ai toujours pas de réponses pour toi. Tu ne comprends pas ou quoi ? Pourquoi tu vas pas voir ailleurs si j'y suis ?}
 {111}{}{Terminé.}
 {112}{}{Elisabeth m'a dit ce que tu avais fait pour elle. Je tiens à m'excuser pour l'accueil que tu as reçu ici. Tu ne l'as certainement pas mérité. Que puis-je faire pour toi ?}
 {113}{}{Moi avoir questions.}
