@@ -233,8 +233,7 @@
 {493}{}{C'est comme ça qu'on botte le cul de L'Enclave, }
 {494}{}{L'Enclave ne m'a jamais causé de problème, mais je suis content qu'elle ne soit plus là.}
 {495}{}{J'arrive pas à croire que L'Enclave continuait à faire la guerre, après tout ce temps. Les idiots !}
-{496}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur...
- Puis s'étaient éteintes aussitôt... Etrange.}
+{496}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur... Puis s'étaient éteintes aussitôt... Etrange.}
 {497}{}{Bravo pour avoir vaincu L'Enclave, }
 {498}{}{Fallout 2 vous a été présenté par Interplay productions, le studio Black Isle, et la compagnie Nuka Cola.}
 {499}{}{Tim Cain nous manque. Il avait l'habitude de faire du délicieux pain. Et il nous donnait la fessée comme aux petits enfants.}

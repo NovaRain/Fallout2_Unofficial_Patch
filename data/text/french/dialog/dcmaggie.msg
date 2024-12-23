@@ -64,7 +64,7 @@
 {212}{}{Comment peux-tu vendre tes boissons si bon marché ?}
 {213}{}{Que dirais-tu d'un verre ?}
 {214}{}{Je dois y aller. A plus tard.}
-{215}{}{Not now. Maybe later. Yes, definitely later.}
+{215}{}{Pas maintenant. Peut-être plus tard. Oui, définitivement plus tard.}
 {216}{}{Puis-je te poser une question ?}
 {217}{}{Au revoir.}
 {218}{}{J'ai un alambic au sous-sol. Je l'ai fabriqué moi-même. C'est mieux que de payer le triple à ces gangsters de New Reno.}

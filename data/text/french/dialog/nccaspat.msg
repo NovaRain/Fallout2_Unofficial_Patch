@@ -140,8 +140,7 @@
 {326}{}{Avec la destruction de L'Enclave, tu as fait de ce casino un meilleur endroit pour mes enfants. Comment puis-je te remercier ?}
 {327}{}{L'Enclave ne m'a jamais causé de problème, mais je suis content qu'elle ne soit plus là.}
 {328}{}{J'arrive pas à croire que L'Enclave continuait à faire la guerre, après tout ce temps. Les idiots !}
-{329}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur...
- Puis s'étaient éteintes aussitôt... Etrange.}
+{329}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur... Puis s'étaient éteintes aussitôt... Etrange.}
 {330}{}{Bravo pour avoir vaincu L'Enclave, }
 {331}{}{Bravo pour avoir vaincu L'Enclave, }
 {332}{}{Tu cherches ton frère Robby ? Tu sais, le Robot ? Rho, laisse tomber.}

@@ -8,7 +8,7 @@
 {114}{}{Je fais juste un tour.}
 {115}{}{Je voudrais expérimenter le renouveau.}
 {116}{}{J'ai pas pris le bon chemin.}
-{120}{}{You should look somewhere else. Or Zomak will show you the stars.}
+{120}{}{T'as intérêt à regarder ailleurs ou Zomak va te faire voir trente-six chandelles.}
 {130}{}{Alors, tu dois le voir lui.}
 {131}{}{Lui ? Où est lui, je veux dire, où est-il ?}
 {132}{}{Je ne suis pas digne de le voir. Au revoir.}
@@ -23,7 +23,7 @@
 {160}{}{Alors, sors d'ici.}
 {161}{}{Euh, d'accord. Au revoir.}
 {170}{}{Dans ce cas. Entre. Il est dans la pièce voisine. Ne le fais pas attendre.}
-{171}{}{Not me, I’ll go right in. Goodbye.}
+{171}{}{Pas moi. J'y vais. Au revoir.}
 {172}{}{Je reviendrai peut-être plus tard. Au revoir.}
 {180}{}{Tu devrais partir. Sors d'ici.}
 {181}{}{Ok.}
@@ -39,14 +39,14 @@
 {233}{}{Je crois que je m'embrouille. Ca doit venir de toutes ces radiations. Au revoir.}
 {240}{}{Oh... Euh, il n'y a rien ici. Rien du tout. Va-t'en maintenant.}
 {241}{}{Il n'y a rien, c'est sûr ?}
-{242}{}{Ok. Goodbye.}
+{242}{}{Ok. Au revoir.}
 {250}{}{Ouais. C'est sûr. Maintenant, pars.}
 {251}{}{Si tu le dis. Au revoir.}
 {260}{}{Oh, heh, heh, Ouais. Je le savais. Umm, eh bien, euh, j'ai réussi ? }
 {261}{}{Bien sûr. Maintenant, laisse-moi entrer.}
 {262}{}{Non. Tu as échoué, et maintenant je dois signaler ta présence.}
 {270}{}{D'accord, alors. Tu peux entrer directement.}
-{271}{}{Ok. Goodbye.}
+{271}{}{Ok. Au revoir.}
 {280}{}{Tu as le signe. Entre.}
 {281}{}{Entrrrrrer.}
 {282}{}{Le signe ?}

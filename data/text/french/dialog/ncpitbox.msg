@@ -38,4 +38,4 @@
 {580}{}{Certainement, c'est bon pour les affaires. Le vestiaire se trouve à l'arrière...}
 {590}{}{[Secoue la tête.] Non, on se remet tout juste de ton dernier gag. Tu devrais aller faire un tour dans d'autres casinos.}
 {600}{}{Tu fais le décompte de la soirée. [C] = chips. Ce n'est pas un mauvais butin.}
-{610}{}{Yeah, he stinks worse than brahmin shit. Still, you... ? [Looks you up and down skeptically.] Aw, why the hell not. A little improv ain't gonna hurt, but it's a rough crowd...better hope you're good.}
+{610}{}{Ouais, il pue encore plus que la merde de Brahmine. Encore toi... ? [Il te regarde de haut en bas avec scepticisme.] Aïe, bon sang, pourquoi pas ? Une petite improvisation ne peut pas faire de mal, mais la foule est un peu dure... J'espère que tu vas t'en sortir.}
