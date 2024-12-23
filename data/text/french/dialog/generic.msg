@@ -244,7 +244,7 @@
 {10004}{}{Reste près de moi.}
 {10005}{}{Ne t'en vas pas trop loin.}
 {10006}{}{On devrait se disperser un peu.}
-{10007}{}{Ca suffit.}
+{10007}{}{C'est tout pour l'instant.}
 {10008}{}{Il faut changer la distance entre nous.}
 {10009}{}{Il faut que je te parle de ton équipement.}
 {10010}{}{Après réflexion, je pense que cette distance convient pour l'instant.}

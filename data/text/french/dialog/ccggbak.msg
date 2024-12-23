@@ -9,7 +9,7 @@
 {108}{}{Tu es dans l'armée maintenant. Ne te montre pas sans uniforme.}
 {109}{}{Des intrus à l'entrée principale !}
 {110}{}{Sonnez l'alarme ! Des intrus !}
-{111}{}{Déployez du renfort à l'entrée principale ! Il y a des intrus !!}
+{111}{}{Déployez du renfort à l'entrée principale ! Il y a des intrus !}
 {112}{}{Alerte de sécurité à la porte principale !}
 {113}{}{Verrouillez toutes les stations ! L'entrée principale est attaquée !}
 {114}{}{Code rouge à la porte principale !}

@@ -93,7 +93,7 @@
 {411}{}{Mince !}
 {412}{}{Oh !}
 {413}{}{Hi hi hiiii...}
-{414}{}{Heinh ?}
+{414}{}{Hein ?}
 {500}{}{::Crache:: Arrrrrfts...}
 {510}{}{Hé, mon gars, ça te dirait de *louer* ta pute ?}
 {511}{}{Ca peut pas attendre ? Il faut que j'aille boire.}

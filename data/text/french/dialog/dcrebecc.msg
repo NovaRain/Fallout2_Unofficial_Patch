@@ -128,8 +128,8 @@
 {443}{}{Je ne fais pas affaire avec les gens de ton espèce.}
 {444}{}{Je ne plierai pas sans me battre.}
 {450}{}{Buffy ?! C'est toi ?! Comment vas-tu ? Ca fait tellement longtemps.}
-{451}{}{Heinh ?}
-{452}{}{Heinh ?}
+{451}{}{Hein ?}
+{452}{}{Hein ?}
 {460}{}{David te passe le bonjour. Il aurait aimé être là mais il a dû fuir.}
 {461}{}{Où va-t-on ?}
 {470}{}{A cause d'un commando... ou peut-être poursuivait-il un commando ? Je ne sais pas exactement. Quelque chose dans le genre.}

@@ -12,7 +12,7 @@
 {112}{}{Hou ! [Tu as l'air inquiet.]}
 {113}{slk4}{Toi pas vouloir trou ? Va voir Torr, lui être esprit-frère de toi. Lui travailler pour Maida-sans-sourire. Comme nous et moi.}
 {114}{}{Euh-euh.}
-{115}{}{Heinh ?}
+{115}{}{Hein ?}
 {116}{slk5a}{Ah ! Pas bien du tout. Esclavagistes prendre notre soeur. Nous partir boire et nous tout casser. Maintenant, nous rembourser Maida. Quand tout fini, nous partir chercher soeur.}
 {117}{slk5b}{Maintenant, nous prêts à partir. Nous aller chercher soeur. Elle enlevée par esclavagistes.}
 {118}{}{Hein ?}

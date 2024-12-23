@@ -7,7 +7,7 @@
 {154}{}{D'ac.}
 {155}{}{C'est cela même...}
 {156}{}{Je comprends pourquoi cet endroit s'appelle *Le Trou*.}
-{157}{}{Heinh ?}
+{157}{}{Hein ?}
 {158}{}{Que te faut-il ?}
 {159}{}{Du whisky.}
 {160}{}{Des femmes.}

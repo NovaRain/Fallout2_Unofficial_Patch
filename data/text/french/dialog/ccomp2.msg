@@ -29,9 +29,9 @@
 {128}{}{Tu ne portes pas ton uniforme.}
 {129}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall à gauche.}
 {130}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
-{131}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{132}{}{La base a été infiltrée ! Alerte !!}
-{133}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
+{131}{}{Mais bon sang, qui es-tu ? -- Alerte ! Des intrus !}
+{132}{}{La base a été infiltrée ! Alerte !}
+{133}{}{Un groupe d'intrus ! Sonnez l'alarme !}
 {134}{}{Merde ! Lancez les sauvegardes !}
 {135}{}{Arrêtez toutes les opérations secrètes.}
 {136}{}{Verrouillez le système et activez tous les mots de passe.}

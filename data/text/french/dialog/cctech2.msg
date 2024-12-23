@@ -41,9 +41,9 @@
 {155}{}{As-tu perdu la tête pour te promener sans uniforme ? Mets-toi en tenue !}
 {156}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {157}{}{Que fais-tu sans uniforme ?}
-{158}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{159}{}{Des intrus ! Appelez la garde !!}
-{160}{}{Gardes !! Il y a des intrus dans le bureau des communications !}
+{158}{}{Putain de merde ! Nous sommes envahis ! Alerte !}
+{159}{}{Des intrus ! Appelez la garde !}
+{160}{}{Gardes ! Il y a des intrus dans le bureau des communications !}
 {161}{}{Que se passe-t-il ?! On nous attaque ?!}
 {162}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
 {163}{}{Mais bordel qu'est-ce qui se passe ici ?}

@@ -120,7 +120,7 @@
 {219}{}{2 secondes}
 {220}{}{Hummm... Je suppose que tu t'attends à une petite prime d'intermédiaire ?}
 {221}{}{2 secondes}
-{222}{}{BIEN SUR que je veux une prime d'intermédiaire !!}
+{222}{}{BIEN SUR que je veux une prime d'intermédiaire !}
 {223}{}{1 seconde, ne retire pas tout de suite le flotteur de Skeev.}
 {224}{}{Priiiime ? Piiiiiiiime !}
 {225}{}{1 seconde}

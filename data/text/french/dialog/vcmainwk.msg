@@ -34,7 +34,7 @@
 {133}{}{Où suis-je ici ?}
 {134}{}{Fais gaffe. J'suis pas d'humeur à me laisser emmerder aujourd'hui.}
 {135}{}{Merci. Salut.}
-{136}{}{Comme si la Cité de l'Abri n'avait pas assez de Brahmines humaines... Ecoute, tu NE PEUX PAS RESTER LA, COMPRIS ? Tu pourrais te faire MAL ! ALLEZ, DEGAGE ! ALLEZ !!}
+{136}{}{Comme si la Cité de l'Abri n'avait pas assez de Brahmines humaines... Ecoute, tu NE PEUX PAS RESTER LA, COMPRIS ? Tu pourrais te faire MAL ! ALLEZ, DEGAGE ! ALLEZ !}
 {137}{}{[Sniff...] Toi pas yenti... [Sniff...] Moi va partir et pis faire la fête avec des clowns... [Sniff...] ... et pis la glassse... et le ggâteau... et pis moi invite pas michants côme TOI !}
 {138}{}{Dégage !}
 {139}{}{Fiche le camp d'ici, ou j'appelle les gardes pour te FAIRE dégager !}

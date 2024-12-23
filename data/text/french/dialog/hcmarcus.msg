@@ -194,7 +194,7 @@
 {293}{}{Comment te sens-tu ?}
 {294}{}{Soigne-toi.}
 {295}{}{Je veux que tu attendes ici jusqu'à mon retour.}
-{296}{}{Ca suffit.}
+{296}{}{C'est tout pour l'instant.}
 {297}{mcs111a}{J'suis guéri.}
 {298}{mcs111b}{Rien ne pourra nous arrêter.}
 {299}{mcs111c}{T'as pas quelque chose pour aider ?}

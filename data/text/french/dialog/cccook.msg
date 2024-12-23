@@ -78,7 +78,7 @@
 {181}{}{Merci.}
 {182}{}{Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles se déclenchent !}
 {183}{}{Mais qu'est-ce qui s'passe maintenant ?}
-{184}{}{Ils pourraient pas utiliser des alarmes silencieuses, bordel ?!! Ces machins-là me donnent mal à la tête !}
+{184}{}{Ils pourraient pas utiliser des alarmes silencieuses, bordel ! Ces machins-là me donnent mal à la tête !}
 {185}{}{Je vais servir ton cul en friture.}
 {186}{}{Tu es dans la merde. Ha ! Elle est bonne celle-là !}
 {187}{}{Hors de la poêle et au feu !}

@@ -78,7 +78,7 @@
 {264}{}{J'aimerais bien être sa petite culotte.}
 {265}{}{J'aimerais bien sentir sa culotte.}
 {266}{}{Cette une sacrée bombe !}
-{267}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{267}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {268}{}{Hé, salut beau gosse !}
 {269}{}{Est-ce qu'un étalon comme toi a besoin d'une selle ? Je suis libre demain soir.}
 {270}{}{Tu fais quoi plus tard, matelot ?}
@@ -186,12 +186,12 @@
 {371}{}{J'aimerais sentir ta culotte.}
 {372}{}{T'es trop bonne, bébé.}
 {373}{}{Dis-moi si j'me trompe, chérie, mais tu veux m'embrasser n'est-ce pas ?}
-{374}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{374}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {375}{}{Tu sais ce qui ferais bien sur toi ? Moi !}
 {376}{}{Ta culotte n'est peut-être pas ce qu'il y a de mieux sur terre, mais bon sang, on en est pas loin.}
 {503}{}{ !}
 {504}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}
-{505}{}{ ! T'es trop ENORME !!}
+{505}{}{! T'es trop ENORME !}
 {625}{}{ !}
 {630}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}
-{631}{}{ ! T'es trop ENORME !!}
+{631}{}{! T'es trop ENORME !}

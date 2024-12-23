@@ -60,7 +60,7 @@
 {275}{}{J'aimerais bien être sa petite culotte.}
 {276}{}{J'aimerais bien sentir sa culotte.}
 {277}{}{T'es trop bonne, bébé}
-{278}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{278}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {279}{}{Matte un peu ces bazoonkas !}
 {280}{}{Matte un peu ces gros nibards !}
 {281}{}{J'ai envie de me plonger dans tes beaux yeux bleus.}
@@ -273,7 +273,7 @@
 {552}{}{J'aimerais sentir ta culotte.}
 {553}{}{T'es trop bonne, bébé.}
 {554}{}{Dis-moi si j'me trompe, chérie, mais tu veux m'embrasser n'est-ce pas ?}
-{555}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
+{555}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !}
 {556}{}{Tu sais ce qui ferais bien sur toi ? Moi !}
 {557}{}{Ta culotte n'est peut-être pas ce qu'il y a de mieux sur terre, mais bon sang, on en est pas loin.}
 {558}{}{Jolis bazookas !}
@@ -415,6 +415,6 @@
 {737}{}{J'suis content de savoir qu'ils ont foutu cet enfoiré au pilori.}
 {1203}{}{ !}
 {1204}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}
-{1205}{}{ ! T'es trop ENORME !!}
+{1205}{}{! T'es trop ENORME !}
 {1493}{}{ !}
 {1497}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}

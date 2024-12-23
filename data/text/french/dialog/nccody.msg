@@ -89,7 +89,7 @@
 {394}{}{Hé, pas de problème Cody. Sauver le monde j'ai ça dans le sang. Fais attention maintenant, d'accord ?}
 {395}{}{Petite merde ! Je te tuerai ! Je te tuerai --}
 {1204}{}{ triste. Toi avoir vu voiture de }
-{1205}{}{ Gné voiture maintenant ? St'eu plaît !!!}
+{1205}{}{ Gné voiture maintenant ? St'eu plaît ?}
 {1254}{}{ ?}
 {1282}{}{ ! Où ? Où ? Montre-moi ! Montre-moi ! Ste plaîîît ? Tu veux bien ? Hein ?}
 {1283}{}{... Oh regarde ! Un truc brillant ! [Tu t'enfuis.]}

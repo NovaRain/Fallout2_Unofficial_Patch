@@ -91,7 +91,7 @@
 {190}{}{Si je peux m'exprimer ainsi, l'évaluation n'est pas en ta faveur. Une autre fois peut-être.}
 {191}{}{Peut-être une autre fois alors.}
 {192}{}{Bon, voyons voir... D'abord, voyons si... Oh, très bien, je vois que tu as compris ça, quant à... Oh bien, tu as retenu le deux, très intelligent, très intelligent... Mais pourquoi as-tu... Oh, tu as appliqué la dérivée de 5... Excellent !}
-{193}{}{BIEN SUR que c'est excellent !!}
+{193}{}{BIEN SUR que c'est excellent !}
 {194}{}{Mais... Tu as réussi ! Félicitations !}
 {195}{}{Génial. Alors je suis citoyen ?}
 {196}{}{Eh bien, tu dois encore passer l'examen de santé. Heureusement, j'ai tout ce qu'il faut ici. Enlève tes bottes.}

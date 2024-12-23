@@ -3,7 +3,7 @@
 {102}{}{Alors te voilà, Etre Elu ? Hum ! Comment se déroule ta quête ?}
 {103}{}{Assez bien.}
 {104}{}{Pas très bien.}
-{105}{}{Hein ?!!}
+{105}{}{Hein ?!}
 {106}{}{Je dois m'y remettre.}
 {107}{}{Tu as peut-être besoin de l'aide d'un guerrier.}
 {108}{}{Certainement. Comment peux-tu m'aider ?}

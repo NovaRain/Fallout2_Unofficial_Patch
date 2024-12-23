@@ -136,7 +136,7 @@
 {305}{}{Houpela ? T'as dit *Houpela* ? T'as rien à voir avec tout ça, n'est-ce pas ?}
 {306}{}{C'était un accident, j'le jure !}
 {307}{}{Bien sûr que non ! Saloperies de mutants !}
-{308}{}{Accident mon cul ! Tu vas me le payer !!}
+{308}{}{Accident mon cul ! Tu vas me le payer !}
 {309}{}{Ouais, bon... Leur tour viendra.}
 {310}{}{Je t'ai déjà dit tout ce que tu dois savoir sur cet endroit. Alors ! Tu veux quoi ?}
 {311}{}{J'ai d'autres questions à te poser.}

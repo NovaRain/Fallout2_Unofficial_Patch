@@ -97,7 +97,7 @@
 {1096}{}{Et moi qui voulait une famille !}
 {1097}{}{J'pourrai plus avoir d'enfants !}
 {1098}{}{Pourquoi là ? Pourquoi ?}
-{1099}{}{Ca brûle !!}
+{1099}{}{Ca brûle !}
 {1100}{}{J'crois qu'il faut qu'j'm'assoie...}
 {1101}{}{C'est pas juste !}
 {1102}{}{Lâ...che, ah...}
@@ -1252,7 +1252,7 @@
 {3144}{}{C'est l'heure du casse-croûte.}
 {3145}{}{Je mangerai ton foie !}
 {3146}{}{J'espère que tu ne mourras pas trop vite...}
-{3147}{}{A table !!}
+{3147}{}{A table !}
 {3148}{}{Crève !}
 {3149}{}{Des crapules comme toi, j'en mange dix au p'tit déj' !}
 {3150}{}{Comment quelque chose d'aussi désordonné peut-il être mauvais ?}
@@ -1450,7 +1450,7 @@
 {12144}{}{C'est l'heure de mourir !}
 {12145}{}{Je mangerai ton foie !}
 {12146}{}{J'espère que tu ne mourras pas trop vite...}
-{12147}{}{A table !!}
+{12147}{}{A table !}
 {12148}{}{Crève !}
 {12149}{}{Des crapules comme toi, j'en mange dix au p'tit déj' !}
 {12160}{}{Tu peux pas m'faire mal !}
@@ -2719,7 +2719,7 @@
 {40896}{}{*Nffff*}
 {40897}{}{Va m'falloir une coupe si ça continue.}
 {40898}{}{T'approche pas d'mon entrejambe, ordure !}
-{40899}{}{*Arrhh* On joue... à se latter les couilles ?!!}
+{40899}{}{*Arrhh* On joue... à se latter les couilles ?!}
 {40900}{}{Faut s'replier...}
 {40901}{}{C'est la dernière fois que j'me bats sans une armure plus efficace.}
 {40902}{}{Tu perds rien pour attendre, saloperie...}

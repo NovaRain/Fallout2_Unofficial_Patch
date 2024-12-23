@@ -30,7 +30,7 @@
 {300}{}{Tu as bon appétit. J'aime les gens qui mangent bien. Est-ce que ça te suffira ?}
 {301}{}{Oh que non, Mamma, je vais en reprendre !}
 {302}{}{Certainement. Laisse-moi te poser une question.}
-{303}{}{Ca suffit pour le moment. Au revoir Mamma.}
+{303}{}{C'est tout pour le moment. Au revoir Mamma.}
 {320}{}{Bon, j'ai besoin de quelqu'un pour livrer un repas à Smitty. Il est au Sud-Ouest d'ici, au dépotoir. Tu veux bien me rendre ce service ? En échange, tu auras un repas gratuit.}
 {321}{}{Bien sûr. Ca ne me dérange pas.}
 {322}{}{Laisse-moi réfléchir. En attendant, j'aimerais te poser une autre question. }

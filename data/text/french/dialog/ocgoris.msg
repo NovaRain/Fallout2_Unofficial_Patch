@@ -133,7 +133,7 @@
 {1012}{}{Ne sors pas tes armes, d'accord ?}
 {1016}{}{C'est parti.}
 {1017}{}{Tu es un Griffemort ? Pourquoi ne me l'as-tu pas dit avant ?}
-{1018}{}{Ca suffit.}
+{1018}{}{C'est tout pour l'instant.}
 {1019}{}{Je suis guéri et prêt à partir,}
 {1020}{}{Je suis presque guéri,}
 {1021}{}{Je suis presque guéri, mais j'aurai peut-être besoin d'aide si l'occasion se présente,}
@@ -146,7 +146,7 @@
 {1073}{}{Reste près de moi.}
 {1074}{}{Ne t'en vas pas trop loin.}
 {1075}{}{On devrait se disperser un peu.}
-{1078}{}{Ca suffit.}
+{1078}{}{C'est tout pour l'instant.}
 {1079}{}{Je vais rester aussi près que possible,}
 {1098}{}{Je vais me reculer un peu pour te laisser la place de respirer,}
 {1117}{}{Je vais rester en arrière et te faire de la place,}

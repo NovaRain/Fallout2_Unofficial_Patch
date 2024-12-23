@@ -232,4 +232,4 @@
 {1278}{}{J'ai parlé à votre fils, Señor Mordino. Je suis esclavagiste et je cherche du travail.}
 {1291}{}{Très bien. Souhaites-tu acheter des esclaves ?}
 {1621}{}{Bien... d'accord. Je vais le faire.}
-{5268}{}{ ?!! Alors VIENS LA, ESPECE DE GROS PORC !!}
+{5268}{}{?!! Alors VIENS LA, ESPECE DE GROS PORC !}

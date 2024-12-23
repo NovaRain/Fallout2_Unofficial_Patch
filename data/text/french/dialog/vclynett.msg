@@ -576,7 +576,7 @@
 {675}{}{Je parie que c'était la famille Bishop à New Reno.}
 {676}{}{La famille Bishop à New Reno.}
 {677}{}{Je n'ai encore aucune certitude. Je cherche toujours.}
-{678}{lyn111a}{Comment ?!! Comment sais-tu cela ? Quelle preuve as-tu ?}
+{678}{lyn111a}{Comment ?! Comment sais-tu cela ? Quelle preuve as-tu ?}
 {679}{lyn111b}{Peux-tu le prouver ?}
 {680}{}{Je n'ai pas de preuves proprement dites, mais à New Reno on dit que les Bishop sont dans le coup.}
 {681}{}{Ce livre de comptes que j'ai trouvé dans la cachette des pillards, fait mention de paiements versés par Bishop en échange d'une campagne terroriste de trois mois contre ta Cité... avec possibilités d'extension d'un mois en cas de récalcitrances.}
@@ -643,7 +643,7 @@
 {742}{}{J'ai remis le disque au Conseiller Westin.}
 {743}{}{Pas encore. Je reviendrai dès que je l'aurai fait.}
 {744}{}{Pas encore, Première citoyenne. Je reviendrai dès que je l'aurai remis à Westin.}
-{745}{lyn126}{C'est vrai ?!! Excellent ! Prends le disque que Bishop t'a donné et dépêche-toi. Il faut faire vite.}
+{745}{lyn126}{C'est vrai ?! Excellent ! Prends le disque que Bishop t'a donné et dépêche-toi. Il faut faire vite.}
 {746}{}{Avant de partir, j'ai encore des questions. }
 {747}{}{J'm'en occupe.}
 {748}{}{Tu peux compter sur moi, Première citoyenne. Je reviendrai dès que j'aurai remis le disque à Westin.}

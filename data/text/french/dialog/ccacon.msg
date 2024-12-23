@@ -8,8 +8,8 @@
 {107}{}{T'es pas un peu taré de te balader ici sans uniforme ? Va t'habiller, et grouille-toi !}
 {108}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {109}{}{Que fais-tu sans uniforme ? }
-{110}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
-{111}{}{Des intrus ! Appelez la garde !!}
+{110}{}{Putain de merde ! Nous sommes envahis ! Alerte !}
+{111}{}{Des intrus ! Appelez la garde !}
 {112}{}{Gardes ! Des intrus dans le contrôle du trafic aérien !}
 {113}{}{Que se passe-t-il ?! On nous attaque ?!}
 {114}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
