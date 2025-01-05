@@ -1,44 +1,44 @@
 {100}{}{Du ser en äldre husockupant.}
 {101}{}{Du ser Zeke, en husockupant.}
 {102}{}{Du ser en äldre man med tunt, vitt hår.}
-{103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
- there's anything in this town for you, anyway. You should move on.}
-{104}{}{Uh, okay.}
+{103}{}{Jag heter Zeke, främling. Jag är ledsen, men jag har inte tid att prata med dig -- och jag tror inte
+ att det finns något för dig i den här stan. Du borde gå vidare.}
+{104}{}{Eh, okej.}
 {105}{}{Ja ha frågor.}
-{106}{}{All right, I'll leave.}
-{107}{}{I just wanted to ask a couple of questions.}
-{108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
- get a shipment in?}
+{106}{}{Okej, jag ska gå.}
+{107}{}{Jag ville bara ställa ett par frågor.}
+{108}{}{Jag tror att du kommer att upptäcka att vi har slut på svar här. Varför kommer du inte tillbaka när vi
+ får in en leverens?}
 {109}{}{Färdigt.}
-{110}{}{Hello, again. I still don't have any answers for you, stranger. Why don't you take a hint and
- get the duck out of fodge?}
+{110}{}{Hej, igen. Jag har fortfarande inga svar åt dig, främling. Varför hajar du inte och
+ hrar åt delvete?}
 {111}{}{Färdigt.}
-{112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
- here. You certainly didn't deserve it. What can I help you with?}
+{112}{}{Rebecca har berättat vad du gjorde för henne. Jag vill be om ursäkt för den behandling du fick
+ här. Du förtjänade det verkligen inte. Vad kan jag hjälpa dig med?}
 {113}{}{Ja ha frågor.}
-{114}{}{Nothing. Wavy.}
-{115}{}{I've got some questions for you.}
-{116}{}{Nothing for now, thanks.}
+{114}{}{Inget. Vinkis.}
+{115}{}{Jag har några frågor till dig.}
+{116}{}{Inget för tillfället, tack.}
 {117}{}{What do you want to know?}
-{118}{}{You work for Darion?}
-{119}{}{What you do about raiders?}
+{118}{}{Jobbar 'u för Darion?}
+{119}{}{Vad gör ni åt plundrare?}
 {120}{}{Var valvdörr?}
 {121}{}{Något annat händer här?}
 {122}{}{Jag gå nu.}
 {123}{}{Do you work for Darion?}
-{124}{}{What do you intend to do about the raiders?}
-{125}{}{Where is the vault entrance?}
-{126}{}{Is there anything else going on around here?}
-{127}{}{I guess that's it. I'll be going now.}
-{128}{}{Yes, I do. I act as the middle man between him and the people up here. I'm not very happy about
- the fact, now that I know what he's up to.}
+{124}{}{Vad tänker du göra åt plundrarna?}
+{125}{}{Var är ingången till valvet?}
+{126}{}{Är det något annat på gång här?}
+{127}{}{Jag antar att det var allt. Jag ska gå nu.}
+{128}{}{Ja, det gör jag. Jag agerar mellanhand mellan honom och folket här uppe. Jag är inte särskilt glad över
+ det faktumet, nu när jag vet vad han håller på med.}
 {129}{}{Okej.}
 {130}{}{I see.}
-{131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
- they are in charge. Period. We have no skills and no means of support without the backing of Darion.
- How can we turn against him? We're at his mercy.}
-{132}{}{Hmm. Me think me understand.}
-{133}{}{Hmm. I see.}
+{131}{}{Ingenting. De har vapnen, de kontrollerar vattnet och de kontrollerar maten. Det betyder
+ att de bestämmer. Punkt slut. Vi har inga färdigheter och inget stöd utan Darions hjälp.
+ Hur kan vi vända oss mot honom? Vi är utlämnade till hans nåd.}
+{132}{}{Hmm. Jag tro förstå.}
+{133}{}{Hmm. Jag förstår.}
 {134}{}{It's behind that door over there, but it's locked from the other side and trapped, too. I don't have
  any means of opening it... Wait a minute. I found this key card some time ago, and I have no idea what
  it is for. Rebecca says that you found some sort of door where they were holding Chrissy. Maybe this
@@ -57,23 +57,23 @@
  Look, someone has to take care of Darion and his cronies. It should be done now before they realize what has happened
  and have time to prepare for an attack. Why not get this over with and take Darion out now?
  You'll have the element of surprise on your side.}
-{144}{}{You right, me take care of.}
-{145}{}{Me not sure.}
-{146}{}{Yeah, I guess it has to be done.}
-{147}{}{I don't know.}
-{148}{}{Excellent. Good luck to you, and thank you.}
+{144}{}{Du rätt, jag löser.}
+{145}{}{Jag inte säker.}
+{146}{}{Ja, jag antar att det måste göras.}
+{147}{}{Jag vet inte.}
+{148}{}{Utmärkt. Lycka till och tack så mycket.}
 {149}{}{Färdigt.}
-{150}{}{Well, take the time to think about it, but know this -- until Darion is out of the picture, I
- have no choice but to maintain things around here as they are. It's for the safety of everyone
- concerned. That means no deal and you are still persona non grata. Understand?}
+{150}{}{Ta dig tid att tänka på det, men vet detta -- tills Darion är ute ur bilden, har
+ jag inget annat val än att behålla saker här som de är. Det är för alla berördas
+ säkerheten. Det betyder inget avtal och du är fortfarande persona non grata. Förstått?}
 {151}{}{Okej.}
-{152}{}{Hi. I'm still waiting for a final resolution to our troubles. In other words, kick Darion's ass!}
+{152}{}{Hej. Jag väntar fortfarande på en slutgiltig lösning på våra problem. Med andra ord, spöa Darion!}
 {153}{}{Färdigt.}
-{154}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you! I'm ready to accept your deal with NCR now.
- Just have them send one of their reps by and I'll seal the deal.}
+{154}{}{Du har gjort det, min vän! Vi släpar inte längre Darions ok. Tack så mycket! Jag är redo att acceptera ditt avtal med NKR nu.
+ Be dem bara skicka en av sina representanter så ska jag signera avtalet.}
 {155}{}{Färdigt.}
-{156}{}{Thanks for the chance of a new life. We all owe you.}
-{157}{}{Just go away. I have nothing to say to you.}
+{156}{}{Tack för att du gav oss chansen till ett nytt liv. Vi står alla i din skuld.}
+{157}{}{Bara gå härifrån. Jag har inget att säga till dig.}
 {158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it's for.
  Rebecca says that you found some sort of entrance where they were holding Chrissy. Maybe this card will
  open it. Here, take it.}
