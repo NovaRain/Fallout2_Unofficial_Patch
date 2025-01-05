@@ -39,24 +39,24 @@
  Hur kan vi vända oss mot honom? Vi är utlämnade till hans nåd.}
 {132}{}{Hmm. Jag tro förstå.}
 {133}{}{Hmm. Jag förstår.}
-{134}{}{It's behind that door over there, but it's locked from the other side and trapped, too. I don't have
- any means of opening it... Wait a minute. I found this key card some time ago, and I have no idea what
- it is for. Rebecca says that you found some sort of door where they were holding Chrissy. Maybe this
- card will open it. Here, take it.}
-{135}{}{Me thank you.}
-{136}{}{Thanks. I'll give it a try.}
-{137}{}{There's a city west of here called NCR. They claim Vault 15 is their ancestral home and they want it
- back. They've been sending people here trying to talk us into leaving but we aren't going for it. This is the only home we know.}
-{138}{}{You maybe make deal NCR?}
-{139}{}{Would you consider making a deal with NCR?}
-{140}{}{That all depends. What did you have in mind?}
-{141}{}{Join NCR tribe. Learn from elders. Give NCR you permission enter vault. Both happy.}
-{142}{}{Join NCR, let them annex your territory, and give them access to the vault. In return, they can teach you all the skills
- you need to survive on your own and offer you their protection.}
-{143}{}{Not bad... I like it. You've got yourself a deal if you can get NCR to agree to it as well. But...
- Look, someone has to take care of Darion and his cronies. It should be done now before they realize what has happened
- and have time to prepare for an attack. Why not get this over with and take Darion out now?
- You'll have the element of surprise on your side.}
+{134}{}{Den är bakom dörren där borta, men den är låst från andra sidan och kopplad tillfällor också. Jag har inte
+ något sätt att öppna den... Vänta lite nu. Jag hittade det här nyckelkortet för ett tag sedan, och jag har ingen aning om vad
+ det är till för. Rebecca säger att du hittade nån sorts dörr där de höll Chrissy. Kanske det här
+ kortet kan öppna den. Här, ta det.}
+{135}{}{Jag tack dig.}
+{136}{}{Tack. Jag ska försöka med det.}
+{137}{}{Det finns en stad västerut som heter NKR. De hävdar att Valv 15 är deras förfäders hem och de vill ha det
+ tillbaka. De har skickat hit folk för att försöka övertala oss att ge oss av, men vi går inte med på det. Det här är det enda hem vi känner till.}
+{138}{}{Du kanske gör möte NKR?}
+{139}{}{Kan ni tänka er att arrangera ett möte med NKR?}
+{140}{}{Det beror helt på. Vad hade du tänkt dig?}
+{141}{}{Gå med NKR-stam. Lär från de äldste. Ge NKR er tillstånd gå i valvet. Båda glada.}
+{142}{}{Gå med i NKR, låt dem annektera ert territorium och ge dem tillgång till valvet. I gengäld kan de lära er alla färdigheter
+ ni behöver för att överleva på egen hand och erbjuda er sitt skydd.}
+{143}{}{Inte illa... Jag gillar det. Vi går med på det om du kan få NKR att acceptera det också. Men...
+ Lyssna, någon måste ta hand om Darion och hans kumpaner. Det bör göras nu innan de inser vad som har hänt
+ och har tid att förbereda sig för en attack. Varför inte få det här överstökat och ta Darion nu?
+ Du har överraskningsmomentet på din sida.}
 {144}{}{Du rätt, jag löser.}
 {145}{}{Jag inte säker.}
 {146}{}{Ja, jag antar att det måste göras.}

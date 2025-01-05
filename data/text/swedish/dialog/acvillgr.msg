@@ -44,11 +44,11 @@
  I could tell you that would aide you in our salvation?}
 {1000}{}{Äldste}
 {1001}{}{Grundare}
-{1002}{}{Vault Dweller}
+{1002}{}{Valvinvånare}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Valv}
-{1006}{}{Chosen One}
+{1006}{}{Den Utvalde}
 {1007}{}{Shaman}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
