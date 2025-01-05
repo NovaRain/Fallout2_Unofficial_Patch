@@ -1,6 +1,6 @@
-{100}{}{You see an older squatter.}
-{101}{}{You see Zeke, a squatter.}
-{102}{}{You see an older man with thinning, white hair.}
+{100}{}{Du ser en äldre husockupant.}
+{101}{}{Du ser Zeke, en husockupant.}
+{102}{}{Du ser en äldre man med tunt, vitt hår.}
 {103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
  there's anything in this town for you, anyway. You should move on.}
 {104}{}{Uh, okay.}
@@ -22,9 +22,9 @@
 {117}{}{What do you want to know?}
 {118}{}{You work for Darion?}
 {119}{}{What you do about raiders?}
-{120}{}{Where vault door?}
-{121}{}{Anything else go on here?}
-{122}{}{Me leave now.}
+{120}{}{Var valvdörr?}
+{121}{}{Något annat händer här?}
+{122}{}{Jag gå nu.}
 {123}{}{Do you work for Darion?}
 {124}{}{What do you intend to do about the raiders?}
 {125}{}{Where is the vault entrance?}

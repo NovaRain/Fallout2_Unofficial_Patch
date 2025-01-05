@@ -49,7 +49,7 @@
 {220}{}{Lots}
 {221}{}{Quiet}
 {222}{}{Loud}
-{223}{}{Brighter}
+{223}{}{Ljusare}
 {224}{}{Wide}
 {300}{}{DONE}
 {301}{}{PAUSED}
