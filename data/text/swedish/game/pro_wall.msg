@@ -125,7 +125,7 @@
 {12000}{}{Wooden Wall}
 {12100}{}{Wooden Wall}
 {12200}{}{Wooden Wall}
-{12300}{}{Window}
+{12300}{}{Fönster}
 {12400}{}{Wooden Wall}
 {12500}{}{Wooden Wall}
 {12600}{}{Wooden Wall}
@@ -566,7 +566,7 @@
 {56100}{}{Wall}
 {56200}{}{Doorway}
 {56300}{}{Doorway}
-{56400}{}{Window}
+{56400}{}{Fönster}
 {56500}{}{Wall}
 {56600}{}{Wall}
 {56700}{}{Wall}
@@ -586,7 +586,7 @@
 {58100}{}{Wall}
 {58200}{}{Doorway}
 {58300}{}{Doorway}
-{58400}{}{Window}
+{58400}{}{Fönster}
 {58500}{}{Wall}
 {58600}{}{Wall}
 {58700}{}{Wall}
@@ -640,14 +640,14 @@
 {63500}{}{Wall}
 {63600}{}{Wall}
 {63700}{}{Wall}
-{63800}{}{Window}
-{63900}{}{Window}
-{64000}{}{Window}
-{64100}{}{Window}
-{64200}{}{Window}
-{64300}{}{Window}
-{64400}{}{Window}
-{64500}{}{Window}
+{63800}{}{Fönster}
+{63900}{}{Fönster}
+{64000}{}{Fönster}
+{64100}{}{Fönster}
+{64200}{}{Fönster}
+{64300}{}{Fönster}
+{64400}{}{Fönster}
+{64500}{}{Fönster}
 {64600}{}{Wall}
 {64700}{}{Wall}
 {64800}{}{Wall}
@@ -666,8 +666,8 @@
 {66100}{}{Doorway}
 {66200}{}{Doorway}
 {66300}{}{Doorway}
-{66400}{}{Window}
-{66500}{}{Window}
+{66400}{}{Fönster}
+{66500}{}{Fönster}
 {66600}{}{Wall}
 {66700}{}{Wall}
 {66800}{}{Wall}
@@ -841,10 +841,10 @@
 {83600}{}{Wall}
 {83700}{}{Wall}
 {83800}{}{Wall}
-{83900}{}{Window}
-{84000}{}{Window}
-{84100}{}{Window}
-{84200}{}{Window}
+{83900}{}{Fönster}
+{84000}{}{Fönster}
+{84100}{}{Fönster}
+{84200}{}{Fönster}
 {84300}{}{Wall}
 {84400}{}{Pillar}
 {84500}{}{Doorway}
