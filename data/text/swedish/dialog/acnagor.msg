@@ -2,31 +2,31 @@
 {101}{}{Du har känt Nagor sedan han var ett spädbarn och har alltid hjälpt honom när du har kunnat.}
 {102}{}{Kusin, vad jag är glad att se dig! Jag behöver din hjälp.}
 {103}{}{Ledsen, men jag har inte tid.}
-{104}{}{What do you need help with?}
-{105}{}{Then I'll go out in the wilds myself!}
-{106}{}{Hold on there... what was it you need help with?}
-{107}{}{You do that.}
-{108}{}{Smoke ran off into the hunting grounds and hasn't come back and now Morlis
- won't let me go find him. She says it's too dangerous and he's just a dog, but I was
- going to go anyway. But now you're here and you could do it and I wouldn't get in
- trouble.}
-{109}{}{Sure. But where are the hunting grounds?}
-{110}{}{Sure. I'll find him right now.}
-{111}{}{Forget it, I don't have time for this.}
+{104}{}{Vad behöver du hjälp med?}
+{105}{}{Då ger jag mig ut i vildmarken själv!}
+{106}{}{Vänta lite... vad var det du behövde hjälp med?}
+{107}{}{Gör det du.}
+{108}{}{Smoke sprang iväg till jaktmarkerna och har inte kommit tillbaka och nu vägrar Morlis
+ låta mig leta efter honom. Hon säger att det är för farligt och att han bara är en hund, men jag tänkte
+ göra det i alla fall. Men nu är du här och du kan göra det och jag skulle inte hamna i
+ trubbel.}
+{109}{}{Visst. Men var är jaktmarkerna?}
+{110}{}{Visst. Jag ska leta efter honom nu.}
+{111}{}{Glöm det, jag har inte tid med det här.}
 {112}{}{What'd you do, get hit in the head with a rock? They're on the far side of
  Hakunin's tent, north of the village.}
-{113}{}{I'll be back with him soon.}
-{114}{}{Have you found Smoke yet?}
-{115}{}{No, not yet. Where did you say the hunting grounds were?}
+{113}{}{Jag kommer snart tillbaka med honom.}
+{114}{}{Har du hittat Smoke än?}
+{115}{}{Nej, inte än. Var sa du att jaktmarkerna fanns?}
 {116}{}{No, not yet.}
-{117}{}{Have you found Smoke yet?}
-{118}{}{No, not yet. I'll be back soon, though.}
-{119}{}{I am sorry, but he is dead.}
-{120}{}{You're just saying that 'cause you don't wanna look! I don't care what
- Morlis says, I'm going to find him.}
-{121}{}{Nagor, what if something happens to you? Morlis would be alone and that would
- make her real sad. You don't want to make her sad, do you?}
-{122}{}{You do that.}
+{117}{}{Har du hittat Smoke än?}
+{118}{}{Nej, inte än. Men jag kommer tillbaka snart.}
+{119}{}{Jag är ledsen, men han är död.}
+{120}{}{Det säger du bara för att du inte vill leta! Jag bryr mig inte om vad
+ Morlis säger, jag ska hitta honom.}
+{121}{}{Nagor, tänk om något händer dig? Morlis skulle vara ensam och det skulle
+ göra henne riktigt ledsen. Du vill väl inte göra henne ledsen, eller hur?}
+{122}{}{Gör det du.}
 {123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
 {124}{}{Smoke will be okay. Goodbye.}
 {125}{}{You found Smoke! Thanks! Smoke, you're a bad dog!}

@@ -110,23 +110,23 @@
 {254}{}{That's way too little. I'm leaving.}
 {255}{}{What do you want with Vic? He's my property now. He shouldn't have fucked with me.}
 {256}{}{I'd like to buy him.}
-{257}{}{Why are you keeping him here?}
+{257}{}{Varför håller du honom här?}
 {258}{}{Nothing. Never mind.}
-{259}{}{He is not for sale, yet.}
-{260}{}{Why not?}
+{259}{}{Han är inte till salu, än.}
+{260}{}{Varför inte?}
 {261}{}{Oh, okay.}
-{262}{}{He will cost $2000.}
-{263}{}{Here is your money.}
-{264}{}{That's a lot. Maybe later.}
-{265}{}{The cost is $1000.}
-{266}{}{Here is your money.}
-{267}{}{Don't have that much yet. Bye.}
-{268}{}{Our radio is broken and he's in charge of fixing it.}
+{262}{}{Han kommer att kosta $2000.}
+{263}{}{Här får du dina pengar.}
+{264}{}{Det är en hel del. Kanske senare.}
+{265}{}{Kostnaden är $1000.}
+{266}{}{Här får du dina pengar.}
+{267}{}{Har inte så mycket än. Hej då.}
+{268}{}{Vår radio är trasig och han är ansvarig för att laga den.}
 {269}{}{I see.}
-{270}{}{You haven't got the money!}
-{271}{}{Too bad for me. Can I ask you a question?}
-{272}{}{Sorry, I'll come back.}
-{307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
+{270}{}{Du har inte pengarna!}
+{271}{}{Synd för mig. Får jag fråga dig en sak?}
+{272}{}{Ledsen, jag kommer tillbaka.}
+{307}{}{Hur vågar du återvända efter att ha övergett dina bröder under en slavjakt! Vakter! Anfall!}
 {308}{}{[färdig]}
 {309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
 {310}{}{No. I'll come back.}
