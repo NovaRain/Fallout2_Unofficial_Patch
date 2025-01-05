@@ -1,7 +1,7 @@
-{100}{}{You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.}
-{101}{}{You've known Nagor since he was an infant, and have always helped him when you could.}
-{102}{}{Cousin, am I glad to see you! I need your help.}
-{103}{}{Sorry, but I don't have the time.}
+{100}{}{Du ser din unga kusin, Nagor. Du ser inte hans hund, Smoke, någonstans.}
+{101}{}{Du har känt Nagor sedan han var ett spädbarn och har alltid hjälpt honom när du har kunnat.}
+{102}{}{Kusin, vad jag är glad att se dig! Jag behöver din hjälp.}
+{103}{}{Ledsen, men jag har inte tid.}
 {104}{}{What do you need help with?}
 {105}{}{Then I'll go out in the wilds myself!}
 {106}{}{Hold on there... what was it you need help with?}
@@ -63,4 +63,4 @@
  the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
  talk any more...}
 {300}{}{Du ser Nagor.}
-{302}{}{Cousin, am I glad to see you! I need your help.}
+{302}{}{Kusin, vad jag är glad att se dig! Jag behöver din hjälp.}
