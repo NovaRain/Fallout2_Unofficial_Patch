@@ -134,11 +134,11 @@
 {312}{}{Ah, du är tillbaka från slavjakten. Nu ska vi se hur det gick för dig...}
 {313}{}{[mer]}
 {314}{}{[mer]}
-{315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,
- the others are of no threat.}
+{315}{}{Du dödade potentiella slavar! En död man ger oss ingen inkomst! Döda bara de som är ett hot,
+ de andra är inget hot.}
 {316}{}{[mer]}
-{317}{}{You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,
- not lose it.}
+{317}{}{Ni återtog inga slavar alls! Vad fan är det för fel på dig? Vi försöker tjäna pengar här,
+ inte förlora dem.}
 {318}{}{[mer]}
 {319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
 {320}{}{Thank you. I will.}

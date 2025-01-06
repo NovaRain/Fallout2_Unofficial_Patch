@@ -48,19 +48,19 @@
  Tretton och GECK?}
 {206}{}{Jag inte hitta. Ledsen.}
 {207}{}{Jag är ledsen, Nagor. Jag letar fortfarande.}
-{208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{209}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{210}{}{Hi, cousin.}
-{211}{}{Hi, cousin.}
-{212}{}{You not sound like usual self.}
-{213}{}{You don't sound like your usual self.}
-{214}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are
- sick, the brahmin are dying and... I... my dog Smoke died - Morlis cooked him. I miss him so much. Sorry, but I can't
- really talk any more...}
-{215}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick,
- the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
- talk any more...}
+{208}{}{Hej igen, kusin. Jag antar att du har märkt att saker och ting verkligen faller samman här. Snälla
+ hitta GECK. Vi är i desperat behov!}
+{209}{}{Hej igen, kusin. Jag antar att du har märkt att saker och ting verkligen faller samman här. Snälla
+ hitta GECK. Vi är i desperat behov!}
+{210}{}{Hej, kusin.}
+{211}{}{Hej, kusin.}
+{212}{}{Du inte låta som vanligt.}
+{213}{}{Du låter inte som ditt vanliga jag.}
+{214}{}{Jag är ledsen, kusin. Saker och ting har blivit värre och värre sedan du senast var här. Folk är
+ sjuka, brahminerna är döende och... jag... min hund Smoke dog - Morlis lagade mat av honom. Jag saknar honom så mycket. Ledsen, men jag kan inte
+ riktigt prata längre...}
+{215}{}{Jag är ledsen, kusin. Saker och ting har blivit värre och värre sedan du senast var här. Folk är sjuka,
+ brahminerna är döende och... jag... min hund Smoke dog. Jag saknar honom så mycket. Ledsen, men jag kan inte
+ riktigt prata längre...}
 {300}{}{Du ser Nagor.}
 {302}{}{Kusin, vad jag är glad att se dig! Jag behöver din hjälp.}
