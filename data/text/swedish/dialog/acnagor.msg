@@ -40,14 +40,14 @@
  prat om kommande svåra tider.}
 {201}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
  prat om kommande svåra tider.}
-{202}{}{Jag fortfarande titta, Nagor.}
-{203}{}{I'm still looking, cousin.}
-{204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{205}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{206}{}{Me not find. Sorry.}
-{207}{}{I'm sorry, Nagor. I'm still looking.}
+{202}{}{Jag fortfarande letar, Nagor.}
+{203}{}{Jag letar fortfarande, kusin.}
+{204}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
+ Tretton och GECK?}
+{205}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
+ Tretton och GECK?}
+{206}{}{Jag inte hitta. Ledsen.}
+{207}{}{Jag är ledsen, Nagor. Jag letar fortfarande.}
 {208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
  find the GECK. We are in desperate need!}
 {209}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
