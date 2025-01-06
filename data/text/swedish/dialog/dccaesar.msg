@@ -140,13 +140,13 @@
 {317}{}{Ni återtog inga slavar alls! Vad fan är det för fel på dig? Vi försöker tjäna pengar här,
  inte förlora dem.}
 {318}{}{[mer]}
-{319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
-{320}{}{Thank you. I will.}
-{321}{}{I don't know if I like this too much.}
-{322}{}{You need to improve your enslavement technique.}
+{319}{}{Överlag gjorde du bra ifrån dig den här rundan. Fortsätt med det goda arbetet så kanske jag behåller dig ett tag till.}
+{320}{}{Tack så mycket. Det ska jag göra.}
+{321}{}{Jag vet inte om jag gillar det här så mycket.}
+{322}{}{Du måste förbättra din förslavningsteknik.}
 {323}{}{Jag ska försöka.}
-{324}{}{I apologize for my poor performance.}
-{325}{}{I think I'm good enough.}
+{324}{}{Jag ber om ursäkt för min dåliga prestation.}
+{325}{}{Jag tror att jag är tillräckligt bra.}
 {326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.
  You don't need to kill them all! Just kill off the hostile ones. Leave the unarmed ones for collection.}
 {327}{}{I'm sorry, Metzger.}
