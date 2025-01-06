@@ -99,7 +99,7 @@
 {350}{}{Once they start tagging the slaves, you can head back if you like. It takes
  special training, so don't try to subdue the others yourself. You can do whatever
  you want just as long as you don't damage the goods.}
-{351}{}{All right.}
+{351}{}{Okej.}
 {352}{}{Uh huh.}
 {360}{}{Ah, yeah. She's pretty nice. I'll give you $}
 {361}{}{He's okay. I could probably take him off your hands for, oh, say $}

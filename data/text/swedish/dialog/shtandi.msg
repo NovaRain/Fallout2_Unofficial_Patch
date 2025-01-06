@@ -113,7 +113,7 @@
 {212}{}{Ok, on to other things.}
 {213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
 {214}{}{Me see.}
-{215}{}{All right.}
+{215}{}{Okej.}
 {216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
 {217}{}{Humph.}
 {218}{}{Who Westin?}

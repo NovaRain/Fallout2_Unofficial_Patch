@@ -21,28 +21,28 @@
 {119}{}{Säger du att vi ska strida obeväpnade?}
 {120}{}{Dags att få den här striden överstökad.}
 {121}{}{Jag behöver en stund för att förbereda mig för striden.}
-{122}{}{The path of the Chosen One is not an easy trail to walk, }
-{123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
- of these will be dealing with your fellow man. There will come a time when diplomacy and tact
- will prove to be useless and your hand must be raised instead. This challenge prepares you to face
- another human, look him in the eyes, and know that you may have to kill him.}
+{122}{}{Den Utvaldes väg är inte en lätt stig att följa, }
+{123}{}{. Du kommer att ställas inför många utmaningar under din livstid, och den svåraste
+ av dessa kommer att vara att handskas med dina medmänniskor. Det kommer att komma en tid då diplomati och takt
+ visar sig vara värdelösa och din hand måste höjas istället. Denna utmaning förbereder dig för att möta
+ en annan människa, se honom i ögonen och veta att du kanske måste döda honom.}
 {124}{}{Okej.}
 {125}{}{I see.}
-{126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
-{127}{}{Me understand.}
-{128}{}{All right.}
-{129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
- against others. When you strike another human being with your bare fist, you both see and feel the
- pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
- you, }
+{126}{}{Nej, min vän, du behöver bara besegra mig. När tiden är inne kommer vi att avsluta striden.}
+{127}{}{Ja' förstå.}
+{128}{}{Okej.}
+{129}{}{Ja. Vapen tenderar att distansera oss från striden och göra oss okänsliga för effekterna av våra handlingar
+ mot andra. När du slår en annan människa med din bara näve, både ser och känner du den
+ smärta du orsakar. Striden blir då mycket personlig och alltför verklig. Detta är en viktig läxa för
+ dig, }
 {130}{}{.}
-{131}{}{Me got it.}
-{132}{}{I understand.}
-{133}{}{Very well. Shall we begin?}
-{134}{}{Me ready.}
+{131}{}{Ja' fatta.}
+{132}{}{Jag förstår.}
+{133}{}{Mycket bra. Ska vi börja?}
+{134}{}{Jag redo.}
 {135}{}{Nej, jag göra i ordning först.}
-{136}{}{I'm ready.}
-{137}{}{No, I need some time to prepare.}
+{136}{}{Jag är redo.}
+{137}{}{Nej, jag behöver lite tid för att förbereda mig.}
 {138}{}{Very well. Return and tell me when you are ready for your challenge.}
 {139}{}{Är du redo för din utmaning,}
 {140}{}{?}

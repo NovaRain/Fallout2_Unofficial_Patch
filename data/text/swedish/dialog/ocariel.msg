@@ -24,7 +24,7 @@
 {123}{}{Forgive me, but I don't have the time for someone with your attitude. Good-day.}
 {124}{}{}
 {125}{}{}
-{126}{}{All right.}
+{126}{}{Okej.}
 {127}{}{What do you want to know?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
