@@ -128,10 +128,10 @@
 {272}{}{Ledsen, jag kommer tillbaka.}
 {307}{}{Hur vågar du återvända efter att ha övergett dina bröder under en slavjakt! Vakter! Anfall!}
 {308}{}{[färdig]}
-{309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
-{310}{}{No. I'll come back.}
-{311}{}{Yes, I'm ready. Let's go.}
-{312}{}{Ah, you are back from the Slave run. Let's see how you did...}
+{309}{}{Utmärkt! Det kan ta några dagar för dig att resa fram och tillbaka. Är du redo att åka nu?}
+{310}{}{Nej. Jag kommer tillbaka.}
+{311}{}{Ja, jag är redo. Nu drar vi.}
+{312}{}{Ah, du är tillbaka från slavjakten. Nu ska vi se hur det gick för dig...}
 {313}{}{[mer]}
 {314}{}{[mer]}
 {315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,

@@ -27,20 +27,20 @@
 {121}{}{Nagor, tänk om något händer dig? Morlis skulle vara ensam och det skulle
  göra henne riktigt ledsen. Du vill väl inte göra henne ledsen, eller hur?}
 {122}{}{Gör det du.}
-{123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
-{124}{}{Smoke will be okay. Goodbye.}
-{125}{}{You found Smoke! Thanks! Smoke, you're a bad dog!}
-{126}{}{You're welcome. Goodbye.}
-{127}{}{Thanks again. I hope you have a really fun trip!}
-{128}{}{I miss Smoke. Why couldn't you save him? You're the Chosen One.}
-{129}{}{I'm busy, dumb one. Go play someplace else.}
-{130}{}{I go.}
-{131}{}{I'm going after Smoke.}
-{200}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{201}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{202}{}{Me still look, Nagor.}
+{123}{}{Nej, det vill jag inte göra. Okej, jag kommer inte att gå, men det är inte rättvist!}
+{124}{}{Smoke kommer att klara sig. Hej då.}
+{125}{}{Du hittade Smoke! Tack! Smoke, du är en stygg hund!}
+{126}{}{Varsågod. Hej då.}
+{127}{}{Tack åter igen. Jag hoppas att du får en riktigt rolig resa!}
+{128}{}{Jag saknar Smoke. Varför kunde du inte rädda honom? Du är den Utvalde.}
+{129}{}{Jag är upptagen, dumskalle. Gå och lek någon annanstans.}
+{130}{}{Jag går.}
+{131}{}{Jag letar efter Smoke.}
+{200}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
+ prat om kommande svåra tider.}
+{201}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
+ prat om kommande svåra tider.}
+{202}{}{Jag fortfarande titta, Nagor.}
 {203}{}{I'm still looking, cousin.}
 {204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
  Thirteen and the GECK?}
