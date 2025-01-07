@@ -43,7 +43,7 @@
 {135}{}{Nej, jag göra i ordning först.}
 {136}{}{Jag är redo.}
 {137}{}{Nej, jag behöver lite tid för att förbereda mig.}
-{138}{}{Very well. Return and tell me when you are ready for your challenge.}
+{138}{}{Okej, då. Återvänd och säg till när du är redo för din utmaning.}
 {139}{}{Är du redo för din utmaning,}
 {140}{}{?}
 {141}{}{Jag redo. }
@@ -60,19 +60,19 @@
 {151}{}{Jag skulle vilja besöka templet igen.}
 {152}{}{Hej, Cameron. Redo för ännu en strid?}
 {153}{}{Jag tänkte bara säga hej. Vi ses senare.}
-{154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
- The cave entrance behind me will return you to the last chamber.}
-{155}{}{Okay, me go.}
-{156}{}{All right. Thanks.}
-{157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
- years to recover!}
-{158}{}{Go bye, Cameron.}
-{159}{}{Ha! Good day to you, Cameron.}
-{160}{}{Chosen One, my ass. I am going to make you the dead one!}
-{161}{}{You have defeated me. You are worthy, Chosen One.}
-{165}{}{I disagree with you. I think that a peaceful solution to any problem is possible.}
-{166}{}{You may be correct, }
-{167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
+{154}{}{Ta stigen till vänster om mig, Utvalde. Den leder till det egentliga templet.
+ Grottingången bakom mig leder dig till den sista kammaren.}
+{155}{}{Okej, ja' gå.}
+{156}{}{Okej, då. Tack.}
+{157}{}{Nej, tack ska du ha, Utvalde. Jag bär fortfarande på blåmärkena från vårt senaste möte och kommer att behöva
+ år för att återhämta mig!}
+{158}{}{Hej då, Cameron.}
+{159}{}{Ha! Ha en god dag, Cameron.}
+{160}{}{Den Utvalde, i helvete heller. Jag ska göra dig till den döde!}
+{161}{}{Du har besegrat mig. Du är värdig, Utvalde.}
+{165}{}{Jag håller inte med dig. Jag tror att det är möjligt att hitta en fredlig lösning på alla problem.}
+{166}{}{Du kan ha rätt, }
+{167}{}{men inte i vår nuvarande situation. Du måste besegra mig för att lyckas med din utmaning.}
 {168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
  Accidents do happen, so what if one of us inadvertently kills the other? Let's just
  end this now rather than take that chance, okay?}
