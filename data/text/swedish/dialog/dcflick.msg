@@ -39,18 +39,18 @@
 {341}{}{Eh, nej. Förlåt, jag var bara nyfiken. Låt mig fråga dig om något annat.}
 {342}{}{Ja, det stämmer, skitskalle. Och inget kommer att roa mig mer än dina dödsryckningar.}
 {343}{}{Tja, om du ska bli upprörd över det så går jag.}
-{360}{}{Vault huh? Maybe Momma knows about that, 'cause I don't. But that Vic guy - him I know. Metzger's got that porca pistola.}
-{361}{}{Vic? Ain't that him with you? You biota. But Momma, her I know.}
-{362}{}{Who's Metzger?}
-{363}{}{Who's Momma?}
-{364}{}{Thanks. Let me ask you something else.}
-{365}{}{Thanks, that's all I need to know. Goodbye.}
-{380}{}{Momma runs a food place over in da East side a town. Just past the graveyard. Nice place, she got good pasta, Mama mia.}
+{360}{}{Valv, va? Morsan kanske vet om det, för det gör inte jag. Men den där Vic - honom känner jag. Metzger har den där porca pistola.}
+{361}{}{Vic? Är det inte han som är med dig? Din biota. Men Morsan, henne känner jag.}
+{362}{}{Vem är Metzger?}
+{363}{}{Vem är Morsan?}
+{364}{}{Tack för det. Låt mig fråga dig något annat.}
+{365}{}{Tack, det är allt jag behöver veta. Adjö.}
+{380}{}{Morsan driver ett matställe på östra sidan av stan. Precis efter kyrkogården. Trevligt ställe, hon har bra pasta, Mama mia.}
 {381}{}{Thanks, What about that Metzger fellow that's got Vic?}
-{382}{}{Thanks. Let me ask you something else.}
-{383}{}{Thanks, that's all I need to know. Goodbye.}
+{382}{}{Tack för det. Låt mig fråga dig något annat.}
+{383}{}{Tack, det är allt jag behöver veta. Adjö.}
 {400}{}{That's right. Metzger, that stronzo, he's dead. I don't know what happen to Vic.}
 {401}{}{That Metzger, he's a real rompiballe, that one. Runs the Slaver's Guild. East side of town, just north of Momma's. Anyhow, he got Vic, I know.}
 {402}{}{Thanks, now what about Momma?}
-{403}{}{Thanks. Let me ask you something else.}
-{404}{}{Thanks, that's all I need to know. Goodbye.}
+{403}{}{Tack för det. Låt mig fråga dig något annat.}
+{404}{}{Tack, det är allt jag behöver veta. Adjö.}
