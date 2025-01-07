@@ -73,12 +73,12 @@
 {165}{}{Jag håller inte med dig. Jag tror att det är möjligt att hitta en fredlig lösning på alla problem.}
 {166}{}{Du kan ha rätt, }
 {167}{}{men inte i vår nuvarande situation. Du måste besegra mig för att lyckas med din utmaning.}
-{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other? Let's just
- end this now rather than take that chance, okay?}
-{169}{}{Hmm... I see your point. I wouldn't want to be responsible for
- killing you when all I meant to do was test your mettle. Very well -- you may
- pass, Chosen One.}
+{168}{}{Jag känner inte till alla dina styrkor och svagheter, och du känner inte till mina.
+ Olyckor händer, så vad händer om en av oss oavsiktligt dödar den andra? Låt'oss bara
+ avsluta det här nu istället för att ta den chansen, okej?}
+{169}{}{Hmm... Jag förstår vad du menar. Jag skulle inte vilja vara ansvarig för att
+ döda dig när allt jag ville göra var att testa din förmåga. Mycket bra -- du kan
+ passera, Utvalde.}
 {170}{}{Hmm... I see your point. However, we must still do battle. I will
  simply take care not to hurt you too much.}
 {171}{}{Thanks! I'll see you back in the village.}
