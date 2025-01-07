@@ -79,14 +79,14 @@
 {169}{}{Hmm... Jag förstår vad du menar. Jag skulle inte vilja vara ansvarig för att
  döda dig när allt jag ville göra var att testa din förmåga. Mycket bra -- du kan
  passera, Utvalde.}
-{170}{}{Hmm... I see your point. However, we must still do battle. I will
- simply take care not to hurt you too much.}
-{171}{}{Thanks! I'll see you back in the village.}
+{170}{}{Hmm... Jag förstår din poäng. Men vi måste fortfarande strida. Jag kommer
+ helt enkelt se till att inte skada dig för mycket.}
+{171}{}{Tack! Vi ses igen i byn.}
 {172}{}{I see.}
-{200}{}{I don't seem to remember our last battle, Chosen One. I will always wonder how you managed
- to get past me.}
-{201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
- for you.}
+{200}{}{Jag minns inte vår senaste strid, Utvalde. Jag kommer alltid att undra hur du lyckades
+ att ta dig förbi mig.}
+{201}{}{Du har en tunga av renaste silver, den Utvalde. Din skicklighet med ord kommer att öppna många dörrar
+ för dig.}
 {300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
 {301}{}{Thanks, Cameron.}
 {302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}

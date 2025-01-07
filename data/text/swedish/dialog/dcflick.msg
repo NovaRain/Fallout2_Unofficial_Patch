@@ -8,21 +8,21 @@
 {204}{}{Draa hääifrån, fö' i helvette}
 {220}{}{Hallå dä', jag ä' Flick. Vad i helvete vill du, va?}
 {221}{}{Now what? You wastin' my time heeya.}
-{222}{}{What's with the wacky accent, Flick?}
-{223}{}{What the hell do you do here?}
-{224}{}{I'm looking for a Vault - oh yeah, and some trader named Vic, too. Know where they might be?}
-{225}{}{I'd like to trade with you.}
+{222}{}{Vad är grejen med den knäppa dialekten, Flick?}
+{223}{}{Vad i helvete gör du häromkring?}
+{224}{}{Jag letar efter ett Valv - och en handelsman som heter Vic också. Vet du var de kan vara?}
+{225}{}{Jag skulle vilja byta med dig.}
 {240}{}{That 'bout do it for ya, pal?}
-{241}{}{Actually I'd like to take another look at your goods if I may.}
-{242}{}{Actually, I'd like to ask you a question.}
-{243}{}{That did it. See you around, Flick.}
+{241}{}{Egentligen skulle jag vilja ta en titt till på dina varor om jag får.}
+{242}{}{Jag skulle faktiskt vilja ställa en fråga till dig.}
+{243}{}{Det var allt. Vi ses, Flick.}
 {260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
-{261}{}{Say what?}
-{262}{}{Yeah, uh, well... let me ask you something else.}
+{261}{}{Vad sa du?}
+{262}{}{Ja, eh, nåja.. låt mig fråga dig något annat.}
 {263}{}{Eh, åh. OK, Hej då, Flick.}
-{280}{}{I provide fer them little paisanos.}
-{281}{}{You provide little pianos?}
-{290}{}{Pai-san-o, you know, the kids. My kids.}
+{280}{}{Jag försörjer fö' de små paisanos.}
+{281}{}{Försörjer du små pianon?}
+{290}{}{Pai-san-o, du vet, barnen. Mina barn.}
 {291}{}{Dina barn?}
 {292}{}{Jag är inte riktigt intresserad av musiklektioner för barn. Låt mig fråga dig om något annat.}
 {300}{}{Ja, de jobbar för mig. De ger mig saker. Små saker. Du vet.}
@@ -35,10 +35,10 @@
 {326}{}{Låt mig fråga dig om något annat då.}
 {327}{}{De måste ha gett dig några riktiga fynd. Låt mig se vad du har.}
 {328}{}{Jag kollar bara. Hej då, Flick.}
-{340}{}{What you talkin' about? You think I'm a fucking stupid pirla? Some dumb filio di puttana? You think I'm some kinda clown? Am I here to amuse you, is that it?}
-{341}{}{Uh, no. Sorry, I was just curious. Let me ask you about something else.}
-{342}{}{Yeah, that's right, shithead. And nothing's going to amuse me more than your death-throes.}
-{343}{}{Well, if you're going to get all huffy about it, I'm leaving.}
+{340}{}{Vad snackar 'u om? Tror du att jag är en dum jävla pirla? Nån dum filio di puttana? Tror du att jag är nån sorts clown? Är jag här för att roa dig, va?}
+{341}{}{Eh, nej. Förlåt, jag var bara nyfiken. Låt mig fråga dig om något annat.}
+{342}{}{Ja, det stämmer, skitskalle. Och inget kommer att roa mig mer än dina dödsryckningar.}
+{343}{}{Tja, om du ska bli upprörd över det så går jag.}
 {360}{}{Vault huh? Maybe Momma knows about that, 'cause I don't. But that Vic guy - him I know. Metzger's got that porca pistola.}
 {361}{}{Vic? Ain't that him with you? You biota. But Momma, her I know.}
 {362}{}{Who's Metzger?}
