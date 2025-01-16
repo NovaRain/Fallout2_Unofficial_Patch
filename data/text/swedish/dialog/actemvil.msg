@@ -87,8 +87,8 @@
  att ta dig förbi mig.}
 {201}{}{Du har en tunga av renaste silver, den Utvalde. Din skicklighet med ord kommer att öppna många dörrar
  för dig.}
-{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
-{301}{}{Thanks, Cameron.}
+{300}{}{Och till dig också, Utvalde. Må andarna vägleda dig i ditt sökande.}
+{301}{}{Tack, Cameron.}
 {302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
 {303}{}{Yes, you teach.}
 {304}{}{No, me not need.}
