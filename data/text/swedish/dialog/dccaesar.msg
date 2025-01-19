@@ -101,7 +101,7 @@
 {245}{}{Interesting. I'll give you }
 {246}{}{ mynt.}
 {247}{}{Såld!}
-{248}{}{No, thanks.}
+{248}{}{Nej, tack.}
 {249}{}{I want more money than that!}
 {250}{}{Alright, I'll give you }
 {251}{}{ but no more!}
