@@ -1,4 +1,4 @@
-{100}{}{You see a slot machine.}
+{100}{}{Du ser en spelautomat.}
 {101}{}{You see a glittering slot machine.}
 {150}{}{You see a slot machine. You swear you can see it looking at you out of the corner of your eye.}
 {151}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights.}
