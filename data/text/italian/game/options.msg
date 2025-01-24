@@ -40,7 +40,7 @@
 {211}{}{Prolisso}
 {212}{}{Breve}
 {213}{}{Solo con Mirino}
-{214}{}{Nessuna}
+{214}{}{Nessuno}
 {215}{}{Minimo}
 {216}{}{Massimo sangue}
 {217}{}{Lento}
