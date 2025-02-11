@@ -19,21 +19,21 @@
 {161}{}{Inget, glöm det.}
 {162}{}{Very well, but don't waste too much time. Without the GECK,
  we're doomed.}
-{163}{}{I know, don't worry -- I've got it all under control.}
+{163}{}{Jag vet, oroa dig inte -- Jag har allt under kontroll.}
 {164}{}{Varför?}
-{165}{}{I must be going. Goodbye.}
-{166}{}{The traders? They come from Klamath about every two months. There
- won't be another here for a month or more, but Klamath's only a few days
- east of here.}
+{165}{}{Jag måste gå nu. Hej då.}
+{166}{}{Handlarna? De kommer från Klamath ungefär varannan månad. De
+ kommer inte förrän om en månad eller mer, men Klamath ligger bara några dagar
+ österut härifrån.}
 {167}{}{Tack. Hej då.}
-{168}{}{What can you tell me about this object I have from
- the sacred vault?}
-{169}{}{Looks like a metal water gourd. Maybe the
- vault sent it to us as an omen.}
-{170}{}{Can you tell me who brought this item to our village?}
-{171}{}{Thank you. I must be going. Goodbye.}
-{172}{}{I hope you do.}
-{173}{}{Your overconfidence makes all of us suffer! Goodbye!}
+{168}{}{Vad kan du berätta om det här föremålet jag har från
+ det heliga valvet?}
+{169}{}{Ser ut som en vattenkalebass gjord av metall. Kanske
+ valvet skickade den till oss som ett omen.}
+{170}{}{Kan du berätta vem som tog med sig det här föremålet till vår by?}
+{171}{}{Tack så mycket. Jag måste gå nu. Adjö.}
+{172}{}{Jag hoppas att du gör det.}
+{173}{}{Ditt överdrivna självförtroende får oss alla att lida! Adjö!}
 {174}{}{Farväl.}
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
