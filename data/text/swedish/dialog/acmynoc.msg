@@ -1,22 +1,22 @@
-{100}{}{You see the bridge guard.}
-{101}{}{You see Mynoc, the bridge guard.}
-{150}{}{Before you stands a large warrior of your village,
- holding a spear.}
+{100}{}{Du ser brovakten.}
+{101}{}{Du ser Mynoc, brovakten.}
+{150}{}{Framför dig står en stor krigare från din by,
+ med ett spjut i handen.}
 {151}{}{[TALA]}
-{152}{}{Hello, Chosen One. Off to find the GECK?}
+{152}{}{Hej, Utvalde. På väg för att hitta GECK?}
 {153}{}{Ja.}
-{154}{}{Yes. But before I go, I would like to ask you some
- questions.}
-{155}{}{Not just yet. I'm going to look around a little
- bit more.}
-{156}{}{Well, may the gods watch over you.}
-{157}{}{Thank you, goodbye.}
-{158}{}{What do you want to know?}
-{159}{}{What can you tell me of the men who trade with our
- village?}
-{160}{}{What can you tell me about this object I have from
- a vault?}
-{161}{}{Nothing, never mind.}
+{154}{}{Ja. Men innan jag går skulle jag vilja ställa
+ några frågor till dig.}
+{155}{}{Inte riktigt än. Jag ska se mig omkring
+ lite mer.}
+{156}{}{Må gudarna vaka över dig.}
+{157}{}{Tack, hej då.}
+{158}{}{Vad vill du veta?}
+{159}{}{Vad kan du berätta om männen som handlar med våra
+ by?}
+{160}{}{Vad kan du berätta om det här föremålet jag har från
+ ett valv?}
+{161}{}{Inget, glöm det.}
 {162}{}{Very well, but don't waste too much time. Without the GECK,
  we're doomed.}
 {163}{}{I know, don't worry -- I've got it all under control.}
@@ -44,7 +44,7 @@
 {178}{}{I don't remember his name, just that he was old and loud -- too
  loud for proper manners -- but he knew many things. He was from Klamath, east
  like I said.}
-{179}{}{Thank you, goodbye.}
+{179}{}{Tack, hej då.}
 {180}{}{Are you still here? You must go find the GECK. Staying here
  doesn't help us.}
 {181}{}{This bridge is all you need to worry about,
