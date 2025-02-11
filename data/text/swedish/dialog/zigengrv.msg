@@ -109,7 +109,7 @@
 {516}{}{You do not find any traps on the grave.}
 {520}{}{ finds a trap on the grave.}
 {521}{}{ does not find any traps on the grave.}
-{525}{}{You skillfully disarm the trap.}
-{526}{}{You fail to disarm the trap.}
+{525}{}{Du avväpnar skickligt fällan.}
+{526}{}{Du misslyckas med att desarmera fällan.}
 {530}{}{ skillfully disarms the trap.}
 {531}{}{ fail to disarm the trap.}

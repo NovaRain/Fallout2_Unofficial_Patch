@@ -160,8 +160,8 @@
 {193}{}{The explosives don't even put a scratch on the container.}
 {194}{}{You find a trap on the container.}
 {195}{}{You fail to find any traps on the container.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
+{196}{}{Du avväpnar skickligt fällan.}
+{198}{}{Du misslyckas med att desarmera fällan.}
 {199}{}{ finds a trap on the container.}
 {200}{}{ fails to find any traps on the container.}
 {201}{}{ skillfully disarms the trap.}

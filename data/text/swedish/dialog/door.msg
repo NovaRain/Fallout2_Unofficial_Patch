@@ -156,13 +156,13 @@
 {189}{}{You deftly lock the door.}
 {190}{}{You fail to lock the door.}
 {191}{}{ deftly locks the door.}
-{192}{}{ failed to lock the door.}
-{193}{}{That doesn't even put a scratch on the door.}
-{194}{}{You find a trap on the door.}
-{195}{}{You fail to find any traps on the door.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
-{199}{}{ finds a trap on the door.}
+{192}{}{ misslyckades med att låsa dörren.}
+{193}{}{Det där sätter inte ens en skråma på dörren.}
+{194}{}{Du hittar en fälla på dörren.}
+{195}{}{Du hittar inga fällor på dörren.}
+{196}{}{Du avväpnar skickligt fällan.}
+{198}{}{Du misslyckas med att desarmera fällan.}
+{199}{}{ hittar en fälla på dörren.}
 {200}{}{ fails to find any traps on the door.}
 {201}{}{ skillfully disarms the trap.}
 {202}{}{ fails to disarm the trap.}
