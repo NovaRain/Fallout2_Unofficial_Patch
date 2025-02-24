@@ -47,37 +47,38 @@
 {210}{}{Una vez completado el nuevo sistema de irrigación, nuestra producción de comida excede nuestras necesidades. Nos gustaría comerciar con los de la superficie e intercambiar los excedentes por medicinas que necesitamos.}
 {213}{}{Por favor, ilumínanos con tu sabiduría.}
 {216}{}{Sabía que lo entenderías. Aquí hay un mensaje relativo a nuestra petición. Por favor, llévalo a Modoc y dáselo a la persona al cargo. Vuelve cuando hayas completado tu tarea. Le diré a los Protectores que esperen tu regreso. Te agradecemos que nos hagas este servicio.}
-{217}{}{How typical of surfacers. Never doing anything for anyone unless there is some kind of personal
- gain involved. Obviously, we cannot trust such a person as you. We will find someone else to deliver the
- message. Although we are not a violent people, do not attempt to leave the caves or you will regret it.}
-{218}{}{Hmm... I understand. Such a decision cannot be made lightly. Please keep me informed of their
- progress.}
+{217}{}{Típico de los de la superficie. Nunca hacen nada por nadie a menos que haya algún tipo de
+ beneficio personal involucrado. Obviamente, no podemos confiar en alguien como tú. Buscaremos a
+ otra persona que pueda mandar el mensaje. No somos un pueblo violento pero no intentes salir de las
+ cuevas o lo lamentarás.}
+{218}{}{Entiendo... Una decisión así no puede tomarse a la ligera. Por favor, mantenme informado sobre
+ tu progreso.}
 {219}{}{Entonces no me molestes más.}
 {220}{}{¿Sobre qué?}
 {221}{}{No confían en vosotros. Creen que matásteis a los transeúntes y empalásteis sus cuerpos en la entrada de la granja.}
 {222}{}{Quieren saber qué le ocurrió al granjero que vivía aquí.}
-{223}{}{We are a peaceful people, and have killed no one. Those bodies are merely props we manufactured
- to scare off those who try to steal from us. If you examine the bodies closely, you'll notice that they
- are nothing but brahmin guts and dummies.}
-{224}{}{Then what about poor Karl? You know, the farmer that was living on your farm?}
+{223}{}{Somos gente pacífica y no hemos matado a nadie. Esos cuerpos son simplemente señuelos que
+ fabricamos para ahuyentar a quienes intentan robarnos. Si examinas los cuerpos de cerca, notarás
+ que no son más que tripas de brahmin y maniquíes.}
+{224}{}{¿Y qué hay del pobre Karl? Ya sabes, el granjero que vivía en tu granja.}
 {225}{}{¿Ese era su nombre, Karl? Le asustamos para que se fuera, nada más. Suponía que habría vuelto a
  casa cuando descubrió que la granja estaba maldita. Los Protectores informaron de que se dirigía
  hacia el oeste. Podrías intentar buscarlo por esa dirección.}
-{226}{}{I'll keep you informed of my progress.}
-{227}{}{We scared him off the farm -- nothing more. I assume he went back home when he discovered the
- farm was haunted. The Protectors reported him headed northwest. You might try searching for him that
- way.}
+{226}{}{Te mantendré informado de mi progreso.}
+{227}{}{Lo asustamos para que se fuera. Se suponía que tendría que volver a casa en cuanto descubriera que
+ la granja estaba maldita. Los Protectores informarón de que se dirigía hacia el oeste. Puedes intentar
+ buscarlo ahí.}
 {231}{}{I see you've met Jonny. We found him wandering in the darkness of one of our deepest tunnels.
  He said he had fallen down a dry well by his house, and then was trapped in a tunnel by a cave in. We
  have treated him as one of our own and he is loved by all -- so you will understand that I am wary of
  entrusting him to a stranger who has yet to prove himself to me as trustworthy. I will return Jonny
  when I am sure he will make it home safely.}
-{232}{}{You have proven your trustworthiness without doubt. Despite the fact that we'll miss little Jonny
- down here, we have arranged an escort for you and Jonny to go back to Modoc right now.}
+{232}{}{Has demostrado ser digno de confianza, aquí abajo echaremos de menos al pequeño Jonny. 
+ Para asegurar su regreso, les hemos asignado una escolta para que regresen a Modoc ahora mismo.}
 {233}{}{¡Oh, chico! No me extraña que no te asustaran nuestros truquillos. Eres demasiado estúpido para asustarte. Odio depender de un discapacitado intelectual como tú, pero necesito tus servicios. Lleva este mensaje a Modoc. Dáselo al líder de Modoc y procura no perderte.}
 {300}{}{Ya me voy.}
 {301}{}{¿Qué es lo que quieres de mí?}
 {302}{}{Adiós.}
 {303}{}{¿Fantasmas?}
 {400}{}{El mensaje ha sido bien recibido. El pueblo de Modoc quiere comerciar con tu gente.}
-{401}{}{Modoc happy. Trade good!}
+{401}{}{Modoc asegurado. ¡Trueque asegurado!}
