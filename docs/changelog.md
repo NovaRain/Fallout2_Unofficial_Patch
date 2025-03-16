@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 33](#version-33) (WIP)
 - [Version 32](#version-32)
 - [Version 30](#version-30)
 - [Version 29](#version-29)
@@ -35,6 +36,15 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 33
+
+#### General
+- Bozar sound reverted to machine gun.
+
+#### Locations
+- Sierra
+  - Skynet will [reset alert status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/328) faster when in party, preventing the PC from getting stuck in robot bay under certain conditions.
 
 ### Version 32
 
