@@ -9,11 +9,11 @@
 {250}{}{There are no markings on this headstone.}
 {251}{}{The name on the headstone has been scratched out.}
 {252}{}{The name on the headstone reads John Doe.}
-{253}{}{The name and date on this headstone have been worn off by the weather.}
+{253}{}{Namnet och datumet på denna gravsten har slitits bort av väder och vind.}
 {260}{}{Det finns inget skrivet på denna gravmarkör.}
 {261}{}{The name on the grave marker has been scratched out.}
-{262}{}{The name on the grave marker reads John Doe.}
-{263}{}{The name and date on this headstone have been worn off by the weather.}
+{262}{}{Namnet på gravstenen lyder Ola Okänd.}
+{263}{}{Namnet och datumet på denna gravsten har slitits bort av väder och vind.}
 {275}{}{The headstone reads: }
 {276}{}{På gravmarkören står det: }
 {300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
