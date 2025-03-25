@@ -5,7 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
-- [Version 33](#version-33) (WIP)
+- [Version 33](#version-33)
 - [Version 32](#version-32)
 - [Version 30](#version-30)
 - [Version 29](#version-29)
@@ -40,9 +40,20 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 ### Version 33
 
 #### General
-- Bozar sound reverted to machine gun.
+
+- Bozar sound [reverted](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/333) to machine gun.
+- Sfall updated to 4.4.6.
+- Updated interface graphics for multiple languages to be more consistent, added sfall expanded interface graphics.
+- Patched up map borders for multiple maps:
+  - Ghost Farm cavern.
+  - Redding tunnels.
+  - New Reno: secret transaction and the stables.
+  - Some special encounters.
 
 #### Locations
+
+- San Francisco
+  - Fixed visible scroll blockers in docks.
 - Sierra
   - Skynet will [reset alert status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/328) faster when in party, preventing the PC from getting stuck in robot bay under certain conditions.
 
