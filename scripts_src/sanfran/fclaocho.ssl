@@ -108,6 +108,8 @@ procedure Node022;
    Needs to be saved, make it a map variable (MVAR_) */
 
 import variable i_lao_table_swap;
+import variable i_lao_table_1;
+import variable i_lao_table_2;
 import variable i_lao_merchant;
 
 /* Local variables which do not need to be saved between map changes. */
@@ -135,14 +137,22 @@ procedure map_enter_p_proc begin
    if (not is_loading_game) then begin
       if (game_time > local_var(LVAR_Restock_Money)) then begin
          if (self_caps < 5000) then
-            self_caps_adjust(Random(2000, 5000));
+            item_caps_adjust(i_lao_table_swap, Random(2000, 5000)); //edit by killap - was self_obj
          set_local_var(LVAR_Restock_Money, game_time + (ONE_GAME_WEEK * Random(1, 3)));
       end
    end
 
    swap_obj := tile_contains_pid_obj(SWAP_OBJ_TILE, 0, PID_FOOTLOCKER_CLEAN_LEFT);
+
+   i_lao_merchant := self_obj; //added by killap
 end
 
+//added by killap
+procedure map_update_p_proc begin
+   if (i_lao_merchant <= 0) then
+      i_lao_merchant := self_obj;
+end
+//end added
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
@@ -195,6 +205,8 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
+   variable obj, caps;
+
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_INTOLERANT;
    Karma_Perception:=KARMA_PERCEPTION0;
@@ -203,14 +215,23 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   set_local_var(LVAR_Money, self_caps);
-   self_caps_adjust(-local_var(LVAR_Money));
+   //set_local_var(LVAR_Money, self_caps); -comment out by killap
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap
 
    move_obj_inven_to_obj(self_obj, swap_obj);
    move_obj_inven_to_obj(i_lao_table_swap, self_obj);
 
-   self_caps_adjust(local_var(LVAR_Money));
-   set_local_var(LVAR_Money, 0);
+   if (i_lao_table_swap == i_lao_table_1) then begin
+      obj := i_lao_table_2;
+   end else begin
+      obj := i_lao_table_1;
+   end
+   caps := item_caps_total(obj);
+   self_caps_adjust(caps);
+   item_caps_adjust(obj, -caps);
+
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap
+   //set_local_var(LVAR_Money, 0); -comment out by killap
 
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
       call Node020;
@@ -228,14 +249,14 @@ procedure talk_p_proc begin
       end_dialogue;
    end
 
-   set_local_var(LVAR_Money, self_caps);
-   self_caps_adjust(-local_var(LVAR_Money));
+   //set_local_var(LVAR_Money, self_caps); -comment out by killap
+   //self_caps_adjust(-local_var(LVAR_Money)); -comment out by killap
 
    move_obj_inven_to_obj(self_obj, i_lao_table_swap);
    move_obj_inven_to_obj(swap_obj, self_obj);
 
-   self_caps_adjust(local_var(LVAR_Money));
-   set_local_var(LVAR_Money, 0);
+   //self_caps_adjust(local_var(LVAR_Money)); -comment out by killap
+   //set_local_var(LVAR_Money, 0); -comment out by killap
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
