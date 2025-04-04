@@ -22,8 +22,8 @@
 {121}{}{No, gracias.}
 {122}{}{Suena bien.}
 {123}{}{No, gracias.}
-{124}{}{Yo... ¡Yo me niego a pasar por esto una segunda vez!
- Si tuviera una unidad motriz completa te mordería en la parte carnosa de tu región posterior comúnmente conocida como...}
+{124}{}{Yo... ¡Me niego a pasar por esto contigo una segunda vez!
+ Si tuviera la motivación completa, te mordería en la parte carnosa de tu región anterior, comúnmente conocida como...}
 {125}{}{Culo. Yo sepo qué es culo. Yo no tonto. Sólo bromeo.}
 {126}{}{Oh, una broma. Ja Ja Ja. Ahora, ¿eres mi nueva ama o no?}
 {127}{}{Sí. Me gustaaa perrito.}

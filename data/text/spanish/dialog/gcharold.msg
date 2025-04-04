@@ -40,7 +40,7 @@
 {139}{}{Eso no suena bien.}
 {140}{hld7}{Eh, sí, no hubiera sonado bien. Ahora lo hemos solucionado a tiempo, pero hemos estado cerca del final. Necesitan a alguien que los vigile.}
 {141}{}{Menos mal que estás aquí para ayudarles.}
-{142}{hld8}{¿Quién habría pensado que estaría haciendo bien las cosas?  Aunque si no conseguimos un regulador hidroeléctrico magnetosférico más que rápido, vamos a tener problemas.}
+{142}{hld8}{¿Quién iba a pensar que arreglaría las cosas? Aunque si no conseguimos un Regulador de Magnetosfera Hidroeléctrica cuanto antes, habrá problemas.}
 {143}{}{¿Qué demonios es un hidro-magne-lo que sea?}
 {144}{}{Hmm, sí que parece un auténtico problema. Deja que te pregunte otra cosa.}
 {145}{}{¿Problema? ¿Qué clase de problema?}

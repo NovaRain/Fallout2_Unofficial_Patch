@@ -67,7 +67,8 @@
 {253}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
 {260}{}{Te interesa la caza, ¿eh? (Te mira de arriba a abajo)}
 {261}{}{[MÁS]}
-{270}{}{Yo no lo intentaría si fuera tú. Podrías ensuciarte las manos y salirte callos (je, je, je) ¿Algo más que quieras saber?}
+{270}{}{Yo no lo intentaría si fuera tú. Podrías ensuciarte las manos y salirte callos
+(je, je, je) ¿Algo más que quieras saber?}
 {271}{}{Bueno, no quiero ensuciarme las manos. Hablemos de otra cosa.}
 {272}{}{Ojala fuera un trampero tan habilidoso como tú. Apuesto a que podrías enseñarme un montón.}
 {273}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
