@@ -106,7 +106,7 @@
 {5301}{}{Una caja de píldoras que alteran la mente. Incrementa las funciones relacionadas con la memoria, y la velocidad de otros procesos mentales. Altamente adictiva.}
 {5400}{}{Sigilante}
 {5401}{}{Un dispositivo personal de sigilo Stealth Boy 3001, de RobCo. Genera un campo modulado que transmite la luz reflejada de la cara de un objeto sobre otra.}
-{5500}{}{Chip de agua}
+{5500}{}{Chip Acuatico}
 {5501}{}{Un chip de agua de Vault-Tec. Normalmente se empaquetan en grupos de cinco por caja.}
 {5600}{}{Chapas de identificación}
 {5601}{}{Un juego de chapas de identificación. El nombre Dickinson y la palabra Enclave son apenas legibles.}

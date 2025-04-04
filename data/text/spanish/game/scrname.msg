@@ -515,7 +515,7 @@
 {615}{}{Puerta}
 {616}{}{Computadora}
 {617}{}{Brahmin}
-{618}{}{Garra mortal}
+{618}{}{Mortíclavo}
 {619}{}{Salida}
 {620}{}{Computadora}
 {621}{}{Feargus}
@@ -559,7 +559,7 @@
 {659}{}{Mapa de la entrada secreta al Refugio 15}
 {660}{}{Rebecca}
 {661}{}{Puerta}
-{662}{}{Garra mortal}
+{662}{}{Mortíclavo}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
