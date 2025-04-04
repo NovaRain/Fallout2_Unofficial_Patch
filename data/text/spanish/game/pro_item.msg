@@ -27,7 +27,7 @@
 {1400}{}{Cohete explosivo}
 {1401}{}{Un cohete con una gran cabeza explosiva.}
 {1500}{}{Rifle de plasma}
-{1501}{}{Un rifle de plasma Winchester P94. Un arma energética de grado industrial, que dispara rayos de plasma supercalientes  por un cañón superconductor. Alimentado por células MF de microfusión. Min FU: 6.}
+{1501}{}{Un rifle de plasma Winchester P94. Un arma energética de grado industrial, que dispara rayos de plasma supercalientes por un cañón superconductor. Alimentado por células MF de microfusión. Min FU: 6.}
 {1600}{}{Pistola láser}
 {1601}{}{Una pistola láser Wattz 1000. Modelo civil, así que tiene menor potencia que las versiones militares y de la policía. Usa células PE de energía. Min FU: 3.}
 {1700}{}{Armadura de combate}

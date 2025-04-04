@@ -103,7 +103,8 @@
 {412}{}{¿Quién se asegura de que Redding esté bien abastecido? ¿Y por qué?}
 {413}{}{Ya me he dado cuenta. Oye, tenía algunas preguntas más...}
 {414}{}{Ya veo… ahora debo irme.}
-{420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil. Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
+{420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil.
+ Es como una gran y brillante garrapata agarrada al desierto. Ahora bien, Redding, por el contrario…}
 {421}{}{Continúa.}
 {422}{}{… PRODUCE algo útil.}
 {423}{}{Ya he oído bastante.}
@@ -240,7 +241,7 @@
 {747}{}{¡¿Doscientos?! ¡Dijiste CIEN hace un segundo!}
 {748}{}{Eh, me las llevaré. Aquí tienes.}
 {749}{}{Eh, no llevo encima dos centenares… volveré más tarde con el dinero. }
-{755}{}{DUDO horrores que fuera eso lo que dijo.  No sería 'El canario estiró la pata', ¿verdad?}
+{755}{}{dudo ENORMEMENTE que fuera eso lo que dijo. No sería 'El canario estiró la pata', ¿verdad?}
 {756}{}{Bueno, sí.}
 {760}{}{¿Y...?}
 {761}{}{¿"Y"?}
@@ -352,7 +353,7 @@
 {995}{}{Los Salvatore lo pidieron: dijeron que era un... "pedido especial". No sabía que se lo iban a dar
  al chico de Wright. TIENES que creerme... ¡Yo no enveneno a niños!}
 {996}{}{Sólo a adultos, ¿eh, Renesco? Patético hijo de puta...}
-{997}{}{¿POR QUÉ envenenaste el Jet?  Tenías que saber que iban a matar a alguien con él.}
+{997}{}{¿POR QUÉ envenenaste el Jet? Tenías que saber que iban a matar a alguien con él.}
 {998}{}{Está bien, está bien, te creo. Tenía algunas otras preguntas...}
 {999}{}{Cierra el pico, anda. Bien, tengo algunas preguntas más...}
 {1000}{}{Los Salvatore, ¿eh? Creo que el señor Wright querrá enterarse de esto. }
