@@ -145,8 +145,7 @@
 {518}{}{Oye, ¿alguna vez has oído hablar de un Kit de Creación del Jardín del Edén? ¿O del Refugio 13?}
 {519}{}{De acuerdo, entonces… me voy de aquí.}
 {525}{}{(Renesco continúa mirándote en silencio).}
-{526}{}{Y a veces la Anciana se molesta con pequeñeces, como… je, je… esa noche en la que ignoré mi voto de
- celibato y me colé con Reyna - Cuyas - Piernas - Aplastan - con - la - Fuerza - de - Mil - Serpientes en el cañón de Arroyo…}
+{526}{}{Y a veces la anciana se enoja por pequeñas cosas, como... je, je... aquella noche cuando ignoré mi voto de celibato y me escabullí con Reyna - Cuyas - Piernas - Aplastan - Con - Fuerza - de - Mil - Serpientes al cañón Arroyo...}
 {535}{}{(Renesco te lanza una mirada fulminante).}
 {536}{}{Es como si hubiera pasado ayer. El cuerpo de Reyna brillaba como la plata con la luz de la luna cuando se arrodilló y… oye, ¿sabes qué?
  Tú podrías ser como la Anciana. Tiene más o menos tu edad.}

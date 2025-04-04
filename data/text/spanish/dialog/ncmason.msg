@@ -131,7 +131,7 @@
 {542}{}{Eh... lo tengo. Aquí está el dinero.}
 {543}{}{Lo hice, pero no traigo el dinero…}
 {544}{}{Casi. Lo tendré la próxima vez, Mason.}
-{546}{}{Tengo tu tributo aquí aquí mismo... cadáver.}
+{546}{}{Tengo tu tributo aquí mismo... hombre muerto.}
 {555}{}{*Farmacia de Renesco*. En la Zona Oeste. Mil fichas. Y ahora vete.}
 {556}{}{Eso es todo lo que necesitaba saber. Ahora aparta para que pueda hacer mi trabajo, Mason.}
 {565}{}{No tengas tanta prisa, amigo. Te lo voy a dejar MUY claro para que no te equivoques: No vengas a hablar conmigo

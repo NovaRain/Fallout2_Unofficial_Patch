@@ -671,7 +671,7 @@
 {34100}{}{Pase Presidencial}
 {34101}{}{El portador de este documento dispone de un pase de seguridad clase-A conforme a lo autorizado por la Presidencia de la República de Nueva California. Está firmado por la Presidente Tandi.}
 {34200}{}{Insignia de Ranger}
-{34201}{}{Esta insignia indica que eres un Ranger de de Nueva California. Fíjate: ¡tiene una rueda de códigos y todo!}
+{34201}{}{Esta insignia indica que eres un Ranger de Nueva California. Mira: ¡tiene una rueda de códigos y todo!}
 {34300}{}{Mapa de los Rangers}
 {34301}{}{Un mapa de los alrededores (no te servirá de mucho): tiene nombres en código para los pisos francos de los Rangers en el norte.}
 {34400}{}{Cementerio}

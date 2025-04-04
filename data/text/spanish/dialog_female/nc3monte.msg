@@ -26,8 +26,8 @@
  comprobaría el sótano del Desperado.}
 {425}{}{(Entorna los ojos y se inclina) Yo le preguntaría al viejo Jules, en la parte delantera de la ciudad. Nada se le escapa… y
  si lo HICIERA, entonces es que tendría una mano metida en ello, ¿entiendes lo que digo?}
-{430}{}{Bueno... ¿conoces a ese tal Eldridge que dirige Armas Nuevo Reno? Dice que mejora armas, pero nunca le he visto
- hacerlo. Quizá merecería la pena echar un ojo a su local... pero yo no te he he dicho nada.}
+{430}{}{Bueno... ¿conoces a ese tal Eldridge que maneja Armas Nuevo Reno? Dice que hace mejoras de armas, pero nunca lo he visto trabajando en ello.
+ Quizás valga la pena echarle un vistazo... pero yo no te lo dije.}
 {435}{}{(Monte frunce el ceño al verte) Mira, hoy no voy a jugar más, ¿vale? Desaparece.}
 {440}{}{Que no. No me desharé de ella. Punto. Es una AUTÉNTICA pieza de colección de antes de la guerra... un trocito de historia. NI HABLAR.}
 {450}{}{¿Estás sorda? Ni siquiera esa cantidad me interesa.}
