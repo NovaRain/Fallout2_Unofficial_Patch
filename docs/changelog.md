@@ -44,7 +44,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Bozar sound [reverted](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/333) to machine gun.
 - Sfall updated to 4.4.6.
 - Updated interface graphics for multiple languages to be more consistent, added sfall expanded interface graphics.
-- Patched up map borders for multiple maps:
+- Patched up map borders in multiple maps:
   - Ghost Farm cavern.
   - Redding tunnels.
   - New Reno: secret transaction and the stables.
@@ -52,8 +52,13 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 #### Locations
 
+- New Reno
+  - Fluffers will [no longer](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/338) treat female PC in power armor as male pornstar.
+- NCR
+  - It's no longer possible to [steal caps from Duppo](https://forums.bgforge.net/viewtopic.php?t=450).
 - San Francisco
   - Fixed visible scroll blockers in docks.
+  - It's no longer possible to [steal caps from the merchants](https://forums.bgforge.net/viewtopic.php?t=450).
 - Sierra
   - Skynet will [reset alert status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/328) faster when in party, preventing the PC from getting stuck in robot bay under certain conditions.
 
