@@ -42,7 +42,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 #### General
 
 - Bozar sound [reverted](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/333) to machine gun.
-- Sfall updated to 4.4.6.
+- Sfall updated to 4.4.6.1.
 - Updated interface graphics for multiple languages to be more consistent, added sfall expanded interface graphics.
 - Patched up map borders in multiple maps:
   - Ghost Farm cavern.
