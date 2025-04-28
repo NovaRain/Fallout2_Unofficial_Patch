@@ -5,26 +5,26 @@
 {152}{}{Vidíš "Tři karty" Monteho. Prohlíží si ulici, zahlédne tě a přikývne.}
 {200}{}{Nechápu, jak jsem mohl prohrát...}
 {201}{}{Jdi dál... Monte dnes nepracuje.}
-{202}{}{Did I palm the wrong card?}
-{203}{}{How did that stupid tribal keep picking the right card?}
+{202}{}{Podstrčil jsem snad špatnou kartu?}
+{203}{}{Jak to, že ten debilní divoch pořád vytahuje tu správnou kartu?}
 {205}{}{Heeeej! Hrdino! Jseš v pohodě, jseš fakt v pohodě.}
 {206}{}{::Ukáže ti vztyčený palec::}
 {207}{}{::Smiles, nods::}
 {208}{}{You done good, hero. You done good.}
 {215}{}{Kde jsou sakra moje karty? Vždyť jsem je ještě před CHVÍLÍ měl!}
-{216}{}{Goddamn car key gnomes, now they're going after my playing cards.}
+{216}{}{Zatracení skřítci klíčkožrouti, teď jdou po mejch kartách.}
 {220}{}{Hej, kámo, vykašli se na kasína. Pojď si zahrát s Montem.}
-{221}{}{Looking to take a chance, pal? Best odds in New Reno! C'mon...}
-{222}{}{You, pal. You look like a lucky guy, c'mon over.}
-{223}{}{Anybody looking to play? Free mon-ay, free mon-ay.}
-{224}{}{C'mon over and play. Just the other day, I guy won 50 chips off me, easy.}
-{225}{}{Easy, just guess the Queen, red Queen, and you win. That easy.}
+{221}{}{Nechceš si trochu zariskovat, kámo? Mám nejlepší kurzy v New Renu! No ták...}
+{222}{}{Hej, kámo. Vypadáš, že se na tebe lepí štěstí, pojď sem.}
+{223}{}{Nechce si někdo zahrát? Rychlý prachy, rychlý prachy.}
+{224}{}{Pojď sem a pojď si zahrát. Zrovna minule u mě chlápek lehce vyhrál 50 babek.}
+{225}{}{Je to jednoduchý, stačí uhádnout královnu, srdcovou královnu, a vyhraješ. Až takhle jednoduchý to je.}
 {226}{}{You allergic to easy money? Then get over here.}
-{227}{}{Everybody's winning today... you want to be the next one?}
-{228}{}{Casinos'll rip you off, rob you blind... Monte treats you right, gives you a fair chance.}
-{229}{}{Looking to take a chance, lady? Best odds in New Reno! C'mon...}
-{230}{}{You allergic to easy money, lady? Then get over here.}
-{231}{}{You, lady. You look like a lucky gal, c'mon over.}
+{227}{}{Dneska každej vyhrává... chceš bejt další?}
+{228}{}{Kasína tě akorát o všechno oškubou ani nevíš jak... Monte s tebou jedná fér a dá ti slušnou šanci.}
+{229}{}{Nechceš si trochu zariskovat, holka? Mám nejlepší kurzy v New Renu! No ták...}
+{230}{}{Jseš alergická na rychlý prachy, holka? Tak pojď jsem.}
+{231}{}{Hej, holka. Vypadáš, že se na tebe lepí štěstí, pojď sem.}
 {232}{}{Yo, lady, don't bother with the casinos. Come play with Monte.}
 {233}{}{Monte má dneska zavřenej krám, příteli, ztratil jsem svý blbý karty.}
 {234}{}{(Starý muž se usměje a kůže kolem očí se mu svraští.) Nechceš si zahrát, příteli?}
@@ -33,19 +33,19 @@
 {237}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, friend?}
 {238}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, lady?}
 {239}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, hero?}
-{240}{}{Three-Card Monte's the name, and the game's the same as the name. Slap down 20 chips, and we'll get down to it.}
-{241}{}{You cheater. You no play fair}
-{242}{}{Okay here chips me not sure how many 20 is so herez a bunch}
-{243}{}{Uh, me flattered but me not want to get down to it now... byyyyye}
+{240}{}{Tři Karty Monte je jméno mé a stejně tak se jmenuje i tahle hra. Práskni na stůl 20 babek a můžeme jít na to.}
+{241}{}{Ty podvodník. Ty nehrát fér.}
+{242}{}{Dobře. Tady peníze, já nevědět kolik být 20, tak tady hrst.}
+{243}{}{Eh, já potěšen, ale já nechtít jít na TO... naaaaaskle.}
 {244}{}{Odbelhat se.}
 {245}{}{Let's play.}
 {246}{}{Uh, get down to what?}
 {247}{}{I'm familiar with the game. Let's play.}
-{248}{}{Three-Card Monte, huh? You put three cards face down, shuffle them around, and I pick a card. If it's the right card - which it won't be, since you palmed it while shuffling - then I win. No thanks, pal.}
-{249}{}{Three-Card Monte, huh? You put three cards face down, shuffle them around, and I pick a card. If it's the right card - which it won't be, since you palmed it while shuffling - then I win. No thanks, pal.}
+{248}{}{Tři Karty Monte, jo? Otočíš tři karty lícem dolů, zamícháš je a já jednu vyberu. Pokud to bude ta správná karta, což nebude, protože ji podstrčíš při míchání, tak vyhraju. Ne, díky, kámo.}
+{249}{}{Tři Karty Monte, jo? Otočíš tři karty lícem dolů, zamícháš je a já jednu vyberu. Pokud to bude ta správná karta, což nebude, protože ji podstrčíš při míchání, tak vyhraju. Ne, díky, kámo.}
 {250}{}{Dnes ne, díky.}
 {251}{}{Na co? No přece na hru!}
-{252}{}{See... (shows you three cards) ...one of these is a queen. I lay them face down, shuffle them, then you pick which one the queen is. If you're right, you win.}
+{252}{}{Podívej... (Ukazuje ti tři karty.) ...jedna z nich je královna. Položím je lícem dolů, zamíchám je a ty pak vybereš jednu, o které si myslíš, že je královna. Pokud uhodneš, vyhráváš.}
 {253}{}{That simple, pal.}
 {254}{}{That simple, lady.}
 {255}{}{I'm not playing with a cheater like you.}
@@ -53,36 +53,36 @@
 {257}{}{Sounds simple enough. Let's play. Here's 20 chips.}
 {258}{}{Dnes ne, díky.}
 {260}{}{(Dáš mu peníze, Monte přikývne, ukáže ti karty a poté je položí na stůl a několik vteřin s nimi míchá.)}
-{261}{}{So... which one's the queen, pal?}
-{262}{}{So... which one's the queen, lady?}
+{261}{}{Takže... kde je královna, kámo?}
+{262}{}{Takže... kde je královna, holka?}
 {263}{}{(You think it's the one on the left.)}
 {264}{}{(You think it's the one in the middle.)}
 {265}{}{(You think it's the one on the right.)}
 {266}{}{(You don't know. The cards moved too fast.)}
-{267}{}{Lucy leftie}
+{267}{}{Lucka levačka.}
 {268}{}{Middle of th'road}
 {269}{}{Rightie tightie}
 {270}{}{The one on the left.}
 {271}{}{The one on the right.}
 {272}{}{The one in the middle.}
 {280}{}{(Monte turns over the card. It is the }
-{281}{}{Sorry, pal, not this time, but you were CLOSE.}
-{282}{}{Sorry, lady, not this time, but you were CLOSE.}
-{283}{}{You sure do got the eye for it, though. Wanna try again?}
-{284}{}{You cheater. You no play fair}
-{285}{}{Okay here chips me not sure how many 20 is so herez a bunch}
-{286}{}{Nuh-uh Me no LIKE game BYYYYE}
+{281}{}{Promiň, kámo, smůla, ale byl jsi BLÍZKO.}
+{282}{}{Promiň, holka, smůla, ale byla jsi BLÍZKO.}
+{283}{}{Ale docela ti to jde. Nechceš to zkusit ještě jednou?}
+{284}{}{Ty podvodník. Ty nehrát fér.}
+{285}{}{Dobře. Tady peníze, já nevědět kolik být 20, tak tady hrst.}
+{286}{}{Ne-e, já NELÍBIT hra. NASKLEE.}
 {287}{}{I'm not playing with a cheater like you.}
 {288}{}{Sure. Here's 20 chips.}
 {289}{}{Ne, díky.}
 {300}{}{(Dáš mu peníze, Monte přikývne, ukáže ti karty, položí je na stůl a přitom vytáhne jednu kartu tak rychle, že to nebylo skoro vidět. Poté je pár sekund míchá.)}
-{301}{}{So... which one's the queen, pal?}
-{302}{}{So... which one's the queen, lady?}
-{303}{}{You put it in sleevie weevie you no play fair}
-{304}{}{Lucy leftie}
+{301}{}{Takže... kde je královna, kámo?}
+{302}{}{Takže... kde je královna, holka?}
+{303}{}{Ty dát karta do rukáva ty nehrát fér.}
+{304}{}{Lucka levačka.}
 {305}{}{Middle of th'road}
 {306}{}{Rightie tightie}
-{307}{}{You goddamn CHEATER. I saw you palm that card. Give me back my cash before I kill you here in the street.}
+{307}{}{Ty zatracenej PODVODNÍKU, tu kartu jsi vytáhl. Vrať mi moje peníze, nebo tě zabiju přímo tady na ulici.}
 {308}{}{The one in your sleeve.}
 {309}{}{The one on the left.}
 {310}{}{The one on the right.}
@@ -90,37 +90,37 @@
 {320}{}{CO JSI to říkal, kámo?}
 {321}{}{WHAT did you say, lady?}
 {322}{}{You accusing me of cheating?}
-{323}{}{Uh-uh. Me KNOW you cheet}
-{324}{}{Nuh-uh! Nuh-uh! Don' be mad. Me going.}
+{323}{}{E-he. Já VĚDĚT ty podvádět.}
+{324}{}{Ne-e! Ne-e! Nezlobit se. Já odcházet.}
 {325}{}{Ano.}
 {326}{}{Screw this. Keep the money, I'm outta here.}
 {330}{}{Poslyš, nemám čas na tvůj brekot. Zaplatíš, zkusíš štěstí. Jestli chceš HRÁT dál, tak fajn, ale jestli mi tu budeš brečet, když prohraješ, tak se ztrať!}
 {331}{}{ME BREAK YOU}
-{332}{}{Nuh-uh! Nuh-uh! Don' be mad. Me going.}
+{332}{}{Ne-e! Ne-e! Nezlobit se. Já odcházet.}
 {333}{}{That's it. You're dead.}
 {334}{}{All right, all right. I'm sorry. Here's 20 chips. Let's play again.}
 {335}{}{Screw you. Keep the money, I'm outta here.}
 {340}{}{(Dáš mu peníze, Monte přikývne, ukáže ti karty a poté je položí na stůl a několik vteřin s nimi míchá.)}
-{341}{}{So... which one's the queen, pal?}
-{342}{}{So... which one's the queen, lady?}
-{343}{}{(Monte's using his normal deck! You need to steal his other deck to complete the switch.)}
-{344}{}{You put it in sleevie weevie you no play fair}
+{341}{}{Takže... kde je královna, kámo?}
+{342}{}{Takže... kde je královna, holka?}
+{343}{}{(Monte používá svoji normální sadu! Pro dokončení výměny musíš ukrást i jeho druhou sadu.)}
+{344}{}{Ty dát karta do rukáva ty nehrát fér.}
 {345}{}{Uh... Lucy leftie}
-{346}{}{Uh... Middle of th'road}
+{346}{}{Eh ... zlatý střed.}
 {347}{}{Uh... Rightie tightie}
-{348}{}{You goddamn CHEATER. I saw you palm that card. Give me back my cash before I kill you here in the street.}
+{348}{}{Ty zatracenej PODVODNÍKU, tu kartu jsi vytáhl. Vrať mi moje peníze, nebo tě zabiju přímo tady na ulici.}
 {349}{}{The one in your sleeve.}
 {350}{}{Uh, the one on the left.}
 {351}{}{Uh, the one on the right.}
 {352}{}{Uh, the one in the middle.}
 {360}{}{(Dáš mu peníze, Monte přikývne, ukáže ti karty a poté je položí na stůl a několik vteřin s nimi míchá.)}
 {361}{}{(You hand over the cash. Monte looks uncomfortable.) Uh... all right... (Monte puts the cards on the ground and shuffles them.)}
-{362}{}{So... which one's the queen, pal?}
-{363}{}{So... which one's the queen, lady?}
-{364}{}{(Monte's using the marked deck. Any pick is the right one.)}
+{362}{}{Takže... kde je královna, kámo?}
+{363}{}{Takže... kde je královna, holka?}
+{364}{}{(Monte používá cinknutou sadu. Cokoliv vybereš je správně.)}
 {365}{}{Leftie! Leftie!}
 {366}{}{Rightie! Rightie!}
-{367}{}{Middlie! Middlie!}
+{367}{}{Středíček! Středíček!}
 {368}{}{Oh, I don't know... the one on the left.}
 {369}{}{Hmmmm... maybe the one on the right?}
 {370}{}{Gee, I'm not sure... I think it's the one in the middle.}
@@ -130,25 +130,24 @@
 {378}{}{(He hands over the cash reluctantly.)}
 {379}{}{Again! Again!}
 {380}{}{Thanx me go now}
-{381}{}{So we gonna play again or what? C'mon, Monte. I'm just getting started.}
+{381}{}{Zahrajeme si ještě jednou? No tak, Monte, teprve se rozjíždím.}
 {382}{}{Well, thanks, Monte. See you later.}
 {385}{}{(Monte otočí kartu. Je to srdcová královna. Vypadá šokovaně.) Eh...? Hehe. Eh...}
 {386}{}{guess you win, pal.}
 {387}{}{guess you win, lady.}
 {388}{}{That cleans me out, though... (Looks at you weakly) Anything else I could do for you?}
-{389}{}{Nuttin. Me just wanted sum extra EXP. Bye. Bye.}
+{389}{}{Nic. Já jenom chtít zkušenosti navíc. Ahoj. Ahoj.}
 {390}{}{What have you GOT?}
 {391}{}{Why don't you give me some information?}
 {392}{}{Forget it, Monte. We'll call it even for today.}
 {400}{}{(Vypadá mrzutě.) Eh... no, něco bych tu měl... ale má to MNOHEM větší cenu než tvoje výhra... takže...}
 {401}{}{Well? What is it?}
-{402}{}{If it's worth more to you than dying on Golgotha because you welched on a debt, that's your problem. I'd think
- about it, if I were you.}
+{402}{}{Jestli to má pro tebe větší cenu než umírat v Golgotě kvůli nezaplacení dluhu, to už je tvůj problém, ale být tebou, tak si to promyslím.}
 {404}{}{Eh... hmnnn... to záleží na tom, co chceš vědět.}
-{405}{}{You know who dusted Wright's kid? Made him O.D. on Jet?}
+{405}{}{Nevíš, kdo oddělal Wrightovic kluka? Kdo ho donutil předávkovat se Jetem?}
 {406}{}{You know where I could find some guy named Pretty Boy Lloyd?}
 {407}{}{You know where my car is, Monte?}
-{408}{}{Got anything you think I should know?}
+{408}{}{Nevíš o nějaké zajímavé informaci?}
 {409}{}{Nevermind, Monte. We're even. See you later.}
 {415}{}{No... poslyš, ode mě to nemáš, ale vsadím se, že to byl ten sráč Renesco, co prodává léky v Obchodní čtvrti. Nevím jistě, jestli TO prodal tomu klukovi, ale určitě něco ví. To je všechno.}
 {416}{}{All right then, Monte. We're even.}
@@ -163,11 +162,11 @@
 {437}{}{I wanted some information...}
 {438}{}{All right, Monte. I'll leave... for now.}
 {440}{}{Ne. Ten ti nedám. Tečka. Je to PRAVÁ předválečná památka... kousek historie. Prostě NE.}
-{441}{}{You making me ANOTHER offer? Look, I told you I ain't selling it.}
-{442}{}{How about a thousand chips? I got it with me. It's yours in exchange for that card.}
+{441}{}{Děláš mi DALŠÍ nabídku? Podívej, řekl jsem ti, že ho neprodám.}
+{442}{}{Co takhle tisíc babek? Mám je tady u sebe. Dej mi ty karty a jsou tvoje.}
 {443}{}{Not even for 750 chips?}
 {444}{}{How about 500 chips?}
-{445}{}{250 chips sound about right?}
+{445}{}{250 babek by stačilo?}
 {446}{}{Dobře. Mám ještě pár otázek...}
 {447}{}{Nevermind then, Monte. I'm outta here.}
 {450}{}{Sedíš si na uších? Takový směšný sumy mě nezajímají.}
@@ -178,23 +177,23 @@
 {461}{}{Chci se ještě zeptat...}
 {462}{}{Thanks, Monte. Always a pleasure.}
 {465}{}{(Zamračí se.) To záleží na tom, co chceš vědět. A taky to nebude laciný.}
-{466}{}{You know who dusted Wright's kid? Made him O.D. on Jet?}
+{466}{}{Nevíš, kdo oddělal Wrightovic kluka? Kdo ho donutil předávkovat se Jetem?}
 {467}{}{You know where I could find some guy named Pretty Boy Lloyd?}
 {468}{}{You know where my car is, Monte?}
-{469}{}{Got anything you think I should know?}
+{469}{}{Nevíš o nějaké zajímavé informaci?}
 {470}{}{Nevermind then, Monte. I'm outta here.}
 {475}{}{U Golgoty, tohohle tématu se v žádným případě ani NEDOTKNU. Jdi do hajzlu.}
-{476}{}{Look, that subject's just bad news. Leave it alone, all right?}
-{477}{}{You making me another offer? Look, I told you I AIN'T going talk about it.}
+{476}{}{Poslyš, tohle téma přináší jen samý trable. Nech to bejt, jo?}
+{477}{}{Děláš mi další nabídku? Podívej, řekl jsem ti, že o tom NEBUDU mluvit.}
 {478}{}{A thousand chips change your mind? I got it with me.}
 {479}{}{Not even for 750 chips?}
 {480}{}{How about 500 chips?}
-{481}{}{250 chips sound about right?}
+{481}{}{250 babek by stačilo?}
 {482}{}{Uh... Golgotha?}
 {483}{}{Chci se ještě zeptat...}
 {484}{}{Nevermind then, Monte. I'm outta here.}
 {490}{}{(Zakroutí hlavou.) V žádným případě. Mluvit o něčem takovým je k smrti nebezpečný, obzvlášť pro mě. Zapomeň na to.}
-{491}{}{How about if I offered you this...}
+{491}{}{Co když ti nabídnu tohle...}
 {492}{}{Chci se ještě zeptat...}
 {493}{}{Nevermind then, Monte. I'm outta here.}
 {495}{}{Eh... no... to je hodně peněz. (Olizuje si rty. Vypadá to, že nad tím hodně přemýšlí... ale jen nakrátko.) Poslyš, ode mě to nemáš...}
@@ -204,11 +203,11 @@
 {502}{}{How about a thousand chips? I got it with me.}
 {503}{}{Not even for 750 chips?}
 {504}{}{How about 500 chips?}
-{505}{}{250 chips sound about right?}
+{505}{}{250 babek by stačilo?}
 {506}{}{Chci se ještě zeptat...}
 {507}{}{Nevermind then, Monte. I'm outta here.}
 {510}{}{Ha! Tak za to si nekoupím ani pytel sraček. Zapomeň na to.}
-{511}{}{How about if I offered you this...}
+{511}{}{Co když ti nabídnu tohle...}
 {512}{}{Chci se ještě zeptat...}
 {513}{}{Nevermind then, Monte. I'm outta here.}
 {515}{}{Noooo, to je tak akorát. (Zlomyslně se ušklíbne.) Poslyš, ode mě to nemáš, ale být tebou, tak se zajdu podívat do suterénu v podniku Desperado v ulici Panen. Je tam hodně "krys", jestli mi rozumíš.}
@@ -219,11 +218,11 @@
 {522}{}{How about a thousand chips? I got it with me.}
 {523}{}{Not even for 750 chips?}
 {524}{}{How about 500 chips?}
-{525}{}{250 chips sound about right?}
+{525}{}{250 babek by stačilo?}
 {526}{}{Chci se ještě zeptat...}
 {527}{}{Nevermind then, Monte. I'm outta here.}
 {530}{}{(Zamhouří očima a nakloní se k tobě.) Tak za tenhle obnos vím leda tak kulový.}
-{531}{}{How about if I offered you this...}
+{531}{}{Co když ti nabídnu tohle...}
 {532}{}{Chci se ještě zeptat...}
 {533}{}{Nevermind then, Monte. I'm outta here.}
 {535}{}{To je tak akorát... (Zamhouří očima a nakloní se k tobě.) ...zeptal bych se starýho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom má prsty. Chápeš, co tím myslím?}
@@ -251,12 +250,12 @@
 {566}{}{Chci se ještě zeptat...}
 {567}{}{All right then, Monte. Thanks.}
 {570}{}{(Rychle se podívá nalevo a napravo, poté se sehne a sundá si botu. Odšroubuje patu a z dutiny uvnitř vyndá balíček karet... na kartě je muž v podivném klobouku držící palici.) Máš zájem? Je to pravá předválečná památka.}
-{571}{}{No, I already have enough inventory items... I'd rather have some information instead.}
-{572}{}{Uh, sure. Why not? This'll settle things between us.}
+{571}{}{Ne, už mám plný inventář... raději bych místo toho nějakou informaci.}
+{572}{}{Eh, jasně. Proč ne? To urovná věci mezi námi.}
 {573}{}{Sorry pal, no chips, no game. Come back when you got more money.}
 {574}{}{Sorry lady, no chips, no game. Come back when you got more money.}
 {575}{}{Yeah, maybe next time then.}
-{576}{}{You quickly swap Monte's deck of cards for the marked deck.}
+{576}{}{Podařilo se ti rychle vyměnit Monteho sadu karet za cinknutou sadu karet.}
 {600}{}{spades}
 {601}{}{hearts}
 {602}{}{diamonds}
