@@ -1,10 +1,10 @@
 {100}{}{You see a card dealer.}
 {101}{}{Vidíš "Tři karty" Monteho.}
 {150}{}{Vidíš vyhublého muže s tváří spálenou od slunce. Je hubený jako proutek.}
-{151}{}{You see Three-Card Monte. He scopes out the street, spots you, and nods.}
-{152}{}{You see Three-Card Monte. He scopes out the street, spots you, and nods.}
+{151}{}{Vidíš "Tři karty" Monteho. Prohlíží si ulici, zahlédne tě a přikývne.}
+{152}{}{Vidíš "Tři karty" Monteho. Prohlíží si ulici, zahlédne tě a přikývne.}
 {200}{}{Nechápu, jak jsem mohl prohrát...}
-{201}{}{Just keep walking... Monte's not in business today.}
+{201}{}{Jdi dál... Monte dnes nepracuje.}
 {202}{}{Did I palm the wrong card?}
 {203}{}{How did that stupid tribal keep picking the right card?}
 {205}{}{Heeeej! Hrdino! Jseš v pohodě, jseš fakt v pohodě.}
