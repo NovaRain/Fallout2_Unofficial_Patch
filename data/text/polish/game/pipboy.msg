@@ -17,7 +17,7 @@
 {100}{}{Szczęśliwego Nowego Roku!}      # New years
 {101}{}{Szczęśliwego Dnia św. Walentego!}     # April fools
 {102}{}{Wesołego Prima Aprilis!}      # April fools
-{103}{}{ }            # Shipping day!
+{103}{}{Wesołego dnia wysyłki.}            # Shipping day!
 {104}{}{Szczęśliwego Dnia Niepodległości!}    # Independence day
 {105}{}{Wesołego Halloween!}           # Halloween
 {106}{}{Szczęśliwego Dnia Dziękczynienia!}    # Thanksgiving
