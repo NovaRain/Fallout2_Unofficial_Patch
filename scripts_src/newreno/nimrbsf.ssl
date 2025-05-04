@@ -18,7 +18,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nimrbsf"
 #include "../headers/define.h"
-#define NAME                    SCRIPT_NIOWRISF
+#define NAME                    SCRIPT_NIMRBSF
 #include "../headers/command.h"
 #include "../headers/newreno.h"
 
