@@ -2,7 +2,7 @@
 {150}{}{Bạn thấy Flick, đang cật lực gãi chim.}
 {151}{}{Bạn thấy một gã bẩn thỉu với khuôn mặt nhăn như táo tàu.}
 {200}{}{Biến khỏi đây ngey, đồ đần độn.}
-{201}{}{Này thịt viên! Đúng, mày đấy. Biến khỏi đây ngey.}
+{201}{}{Này đồ đầu thịt! Đúng, mày đấy. Biến khỏi đây ngey.}
 {202}{}{Mày bị đần hay seo thế?}
 {203}{}{Có dzấn đề gì, hả?}
 {204}{}{Cuốn xéo khỏi đây ngey.}
@@ -16,41 +16,41 @@
 {241}{}{Thật ra là tôi muốn xem lại hàng lần nữa, nếu được.}
 {242}{}{Thật ra tôi muốn hỏi một câu.}
 {243}{}{Được rồi. Gặp lại sau, Flick.}
-{260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
-{261}{}{Say what?}
-{262}{}{Yeah, uh, well... let me ask you something else.}
-{263}{}{Uh, oh. OK. Goodbye, Flick.}
-{280}{}{I provide fer them little paisanos.}
-{281}{}{You provide little pianos?}
-{290}{}{Pai-san-o, you know, the kids. My kids.}
-{291}{}{Your kids?}
-{292}{}{Well, I'm not really interested in music lessons for children. Let me ask you about something else.}
-{300}{}{Yeah, well they work for me. They bring me things. Little things. You know.}
+{260}{}{Bố bán cái đm nó hàng, sao hả? Tao như kiểu gã Samurai-itan tốt bụng ấy.}
+{261}{}{Cái gì cơ?}
+{262}{}{Ồ, ừ, ờ... tôi muốn hỏi về thứ khác.}
+{263}{}{Ừ, ồ, OK. Chào nhé, Flick.}
+{280}{}{Tao chu cấp cho đám paisano chân đất mắt toét.}
+{281}{}{Ông cấp đàn piano á?}
+{290}{}{Pai-san-o ấy, biết không, lũ nhóc. Đám nhóc của tao.}
+{291}{}{Đám nhóc của ông?}
+{292}{}{Ồ, tôi không hứng thú lắm với mấy bài nhạc cho lũ trẻ. Để tôi hỏi ông chuyện khác.}
+{300}{}{Ờ, chúng nó làm cho tao. Chúng mang đồ về đây. Mấy món nhỏ nhỏ xinh xinh ấy.}
 {301}{}{Ừ, không.}
-{302}{}{Oh, OK. Let me ask you something else then.}
-{303}{}{Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
-{316}{}{Sounds like a nice arrangement.}
-{325}{}{(Flick shrugs) I get by OK.}
-{326}{}{Let me ask you about something else then.}
-{327}{}{They must have brought you some real bargains. Let's see what you've got.}
-{328}{}{Just checking. Well, goodbye Flick.}
-{340}{}{What you talkin' about? You think I'm a fucking stupid pirla? Some dumb filio di puttana? You think I'm some kinda clown? Am I here to amuse you, is that it?}
-{341}{}{Uh, no. Sorry, I was just curious. Let me ask you about something else.}
-{342}{}{Yeah, that's right, shithead. And nothing's going to amuse me more than your death-throes.}
-{343}{}{Well, if you're going to get all huffy about it, I'm leaving.}
-{360}{}{Vault huh? Maybe Momma knows about that, 'cause I don't. But that Vic guy - him I know. Metzger's got that porca pistola.}
-{361}{}{Vic? Ain't that him with you? You biota. But Momma, her I know.}
-{362}{}{Who's Metzger?}
-{363}{}{Who's Momma?}
-{364}{}{Thanks. Let me ask you something else.}
-{365}{}{Thanks, that's all I need to know. Goodbye.}
+{302}{}{Ồ, OK. Để tôi hỏi ông chuyện khác.}
+{303}{}{À, hiểu rồi. Ồ này, tôi không muốn làm đứt ờ, phong cách của ông. Chào.}
+{315}{}{Chúng mang những thứ chúng tìm thấy về đây. Mấy món be bé, nhỏ nhắn. Những thứ chả ma nèo cần nữa. Đổi lại, tao chăm lo cho chúng.}
+{316}{}{Nghe có vẻ ổn đấy.}
+{325}{}{(Flick nhún vai) Cũng đủ qua ngày.}
+{326}{}{Để tôi hỏi ông về chuyện khác vậy.}
+{327}{}{Hẳn là lũ trẻ đã mang về cho ông nhiều món hời lắm. Để xem ông có gì nào.}
+{328}{}{Chỉ ngó qua thôi. Ồ, chào ông, Flick.}
+{340}{}{Mày nói gì đấy? Mày nghĩ tao là thứ pirla ngốc đm nghếch à? loại filio di puttana đần độn? Mày nghĩ tao là thằng hề à? Tao ở đây để làm trò vui chứ gì?}
+{341}{}{Ừ, không. Xin lỗi, tôi chỉ tò mò thôi. Để tôi hỏi ông chuyện khác.}
+{342}{}{Ờ đúng rồi đấy, đồ đầu cứt. Chẳng gì khiến tao vui hơn là nghe mày rên giãy chết đâu.}
+{343}{}{Ồ, nếu ông cứ nổi cơn như thế thì tôi té đây.}
+{360}{}{Vault à? Có thể Momma biết đấy, vì tao đếu biết. Nhưng gã Vic thì tao biết. Metzger đang giữ gã porca pistola đấy.}
+{361}{}{Vic? Chẻng phải lão đi với mày sao? Đồ biota. Nhưng Momma thì tao biết.}
+{362}{}{Metzger là ai?}
+{363}{}{Momma là ai?}
+{364}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
+{365}{}{Cám ơn, tôi hỏi thế là đủ rồi. Chào.}
 {380}{}{Momma runs a food place over in da East side a town. Just past the graveyard. Nice place, she got good pasta, Mama mia.}
 {381}{}{Thanks, What about that Metzger fellow that's got Vic?}
-{382}{}{Thanks. Let me ask you something else.}
-{383}{}{Thanks, that's all I need to know. Goodbye.}
+{382}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
+{383}{}{Cám ơn, tôi hỏi thế là đủ rồi. Chào.}
 {400}{}{That's right. Metzger, that stronzo, he's dead. I don't know what happen to Vic.}
 {401}{}{That Metzger, he's a real rompiballe, that one. Runs the Slaver's Guild. East side of town, just north of Momma's. Anyhow, he got Vic, I know.}
 {402}{}{Thanks, now what about Momma?}
-{403}{}{Thanks. Let me ask you something else.}
-{404}{}{Thanks, that's all I need to know. Goodbye.}
+{403}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
+{404}{}{Cám ơn, tôi hỏi thế là đủ rồi. Chào.}
