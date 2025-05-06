@@ -30,7 +30,7 @@
 {302}{}{Ồ, OK. Để tôi hỏi ông chuyện khác.}
 {303}{}{À, hiểu rồi. Ồ này, tôi không muốn làm đứt ờ, phong cách của ông. Chào.}
 {315}{}{Chúng mang những thứ chúng tìm thấy về đây. Mấy món be bé, nhỏ nhắn. Những thứ chả ma nèo cần nữa. Đổi lại, tao chăm lo cho chúng.}
-{316}{}{Nghe có vẻ ổn đấy.}
+{316}{}{Thỏa thuận nghe có vẻ ổn đấy.}
 {325}{}{(Flick nhún vai) Cũng đủ qua ngày.}
 {326}{}{Để tôi hỏi ông về chuyện khác vậy.}
 {327}{}{Hẳn là lũ trẻ đã mang về cho ông nhiều món hời lắm. Để xem ông có gì nào.}
@@ -45,12 +45,12 @@
 {363}{}{Momma là ai?}
 {364}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {365}{}{Cám ơn, tôi hỏi thế là đủ rồi. Chào.}
-{380}{}{Momma runs a food place over in da East side a town. Just past the graveyard. Nice place, she got good pasta, Mama mia.}
-{381}{}{Thanks, What about that Metzger fellow that's got Vic?}
+{380}{}{Momma mở tiệm đồ ăn ở phía Đông của thị trấn. Qua nghĩa trang là tới. Chỗ đấy đẹp phết, bả có pasta ngon lắm, Mama mia.}
+{381}{}{Cám ơn. Còn cái gã Metzger đang giữ Vic thì sao?}
 {382}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {383}{}{Cám ơn, tôi hỏi thế là đủ rồi. Chào.}
-{400}{}{That's right. Metzger, that stronzo, he's dead. I don't know what happen to Vic.}
-{401}{}{That Metzger, he's a real rompiballe, that one. Runs the Slaver's Guild. East side of town, just north of Momma's. Anyhow, he got Vic, I know.}
-{402}{}{Thanks, now what about Momma?}
+{400}{}{Đúng rồi. Metzger, cái gã stronzo đấy, nghẹo rồi. Tao không biết Vic ra sao nữa.}
+{401}{}{Gã Metzger đấy rõ là một rompiballe. Cai quản Hội buôn người. Ở phía Đông thị trấn, ngay trên chỗ Momma. Hắn ta bắt Vic, tao biết mà.}
+{402}{}{Cám ơn, còn giờ Momma thì sao?}
 {403}{}{Cám ơn. Để tôi hỏi ông chuyện khác.}
 {404}{}{Cám ơn, tôi hỏi thế là đủ rồi. Chào.}
