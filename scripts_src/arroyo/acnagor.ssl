@@ -191,34 +191,6 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-   else if (reached_tl_3) then begin
-       call Node015;
-    end
-
-   else if (reached_tl_2) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node014;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (reached_tl_1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node013;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (dude_iq < 4) then begin //moved here by killap
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node012;
-       gSay_End;
-       end_dialogue;
-   end
-
    else if (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) then begin
        floater(131);
    end
@@ -256,6 +228,34 @@ procedure talk_p_proc begin
 
    else if (global_var(GVAR_ARROYO_DOG) == DOG_FINISHED_BAD) then begin
        call Node011;
+   end
+
+   else if (reached_tl_3) then begin
+       call Node015;
+   end
+
+   else if (reached_tl_2) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node014;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (reached_tl_1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node013;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (dude_iq < 4) then begin //moved here by killap
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node012;
+       gSay_End;
+       end_dialogue;
    end
 
    else if (local_var(LVAR_Herebefore) == 0) then begin
@@ -480,10 +480,10 @@ procedure Node016 begin
 end
 
 procedure Node017 begin
-   if (dude_is_male) then
-       NMessage(214);
+   // PC saved Smoke, but Morlis cooks him by TL4
+   if (global_var(GVAR_ARROYO_DOG) == DOG_FINISHED_GOOD) then
+      NMessage(214);
    else
-       NMessage(215);
+      // Else, it dies in an unspecified way
+      NMessage(215);
 end
-
-//xxxxxxxxxxxxxxxxxxxx
