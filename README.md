@@ -13,7 +13,7 @@
 | [**Translations**](docs/translations.md)
 | [**Additional mods**](#additional-mods)
 
-This is an updated version of [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
+**Unofficial Patch, updated** is based on [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
 
 ### Installation
 
