@@ -1,2 +1,2 @@
-{100}{}{Es läuft Killap's Inoffizieller Fallout 2 Patch. Version 1.02.31u. Deutsche Version. Vielen Dank für die Installation!}
-{101}{}{Es läuft Killap's Inoffizieller Fallout 2 Patch. Version 1.02.31u. Deutsche Version. Vielen Dank für die Installation!}
+{100}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
+{101}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
