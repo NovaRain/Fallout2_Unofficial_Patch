@@ -1,0 +1,27 @@
+name: ScanMsg
+
+on:
+  push:
+    paths:
+      - .github/workflows/scanmsg.yml
+      - data/text/*/*/*.msg
+  pull_request:
+    paths:
+      - .github/workflows/scanmsg.yml
+      - data/text/*/*/*.msg
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  ScanMsg:
+    runs-on: windows-latest
+    steps:
+      - name: Clone
+        uses: actions/checkout@v4
+
+      - name: ScanMsg
+        uses: wipe2238/ScanMsg@master
+        with:
+          workdir: data/text
