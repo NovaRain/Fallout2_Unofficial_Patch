@@ -1,2 +1,2 @@
-{100}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
-{101}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
+{100}{}{Es läuft UPU v1.02.x, der auf killaps inoffiziellen F2-Patch basiert. Vielen Dank für die Installation!}
+{101}{}{Es läuft UPU v1.02.x, der auf killaps inoffiziellen F2-Patch basiert. Vielen Dank für die Installation!}
