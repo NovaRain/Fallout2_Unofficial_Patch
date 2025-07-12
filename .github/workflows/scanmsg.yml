@@ -20,4 +20,4 @@ jobs:
         uses: devopsx/gha-ubuntu-i386-fix@master
 
       - name: ScanMsg
-        run: WINEDEBUG=-all wine ./extra/bin/ScanMsg.exe data/text
+        run: wine ./extra/bin/ScanMsg.exe data/text
