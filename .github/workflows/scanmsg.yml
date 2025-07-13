@@ -10,14 +10,15 @@ on:
       - .github/workflows/scanmsg.yml
       - data/text/*/*/*.msg
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   ScanMsg:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install wine
-        uses: devopsx/gha-ubuntu-i386-fix@master
-
       - name: ScanMsg
-        run: wine ./extra/bin/ScanMsg.exe data/text
+        run: ./extra/bin/ScanMsg.exe data/text
