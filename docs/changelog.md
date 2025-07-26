@@ -37,6 +37,10 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
+### Version 34 (WIP)
+- Arroyo
+  - It is now [possible](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/157) to complete Nagor/Smoke quest up until the last Hakunin dream.
+
 ### Version 33
 
 #### General
