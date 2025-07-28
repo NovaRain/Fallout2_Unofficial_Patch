@@ -26,7 +26,7 @@
 {173}{}{Je peux le faire ! Mais il me faut des pièces de rechange. Je pourrais les prendre sur une vieille radio que j'ai dans ma cabane à Klamath. Tu vois le magasin des Dunton ? Ben, ma cabane se trouve à l'Est de chez eux.}
 {174}{}{Tu veux parler de cette radio ?}
 {175}{}{Je vais aller la chercher.}
-{176}{}{Hmmm... I'll be back.}
+{176}{}{Hum... Je vais revenir.}
 {177}{}{Super ! Je vais réparer cette radio en un rien de temps.}
 {178}{}{D'accord. Je vais parler à Metzger.}
 {179}{}{Merci.}

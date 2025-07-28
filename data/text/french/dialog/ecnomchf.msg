@@ -11,7 +11,7 @@
 {110}{}{Peut-être une autre fois, hein ? Que tes voyages se passent sans danger !}
 {111}{}{Merci. Au revoir.}
 {112}{}{Quel dommage... Alors repose-toi et sois ici chez toi.}
-{113}{}{Thank you. Bye.}
+{113}{}{Merci. Au revoir.}
 {114}{}{Ma proposition est arrivée trop tard. Le soleil a déjà brûlé les mots dans ton cerveau. Je dois être bon avec les moins bien lotis que moi. Reste aussi longtemps qu'il te plaira dans mon campement, faible d'esprit...}
 {115}{}{Au revoir.}
 {116}{}{Infidèle !}
@@ -21,8 +21,8 @@
 {120}{}{Hors d'ici !}
 {121}{}{Laisse-nous !}
 {122}{}{Notre tribu est pacifique.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
-{204}{}{Not today. I must be going.}
+{200}{}{Ah, un voyageur. Je suis désolé que nous n'ayons pas de tente pour vous protéger de la chaleur incessante de cette terre. Repose-toi un instant, afin que nous puissions discuter.}
+{201}{}{Merci, j'accepte volontiers ton offre.}
+{202}{}{Quel dommage. Alors repose-toi et sois ici chez toi.}
+{203}{}{J'espère que tu as trouvé ce dont tu avais besoin. Autre chose ?}
+{204}{}{Pas aujourd'hui. Je dois y aller.}

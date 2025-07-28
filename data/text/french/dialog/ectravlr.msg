@@ -31,7 +31,7 @@
 {140}{}{Il faut que je parte. Ca m'a fait plaisir de parler avec toi.}
 {141}{}{On se reverra peut-être un jour.}
 {142}{}{Je veux atteindre la prochaine ville avant la nuit. Il vaudrait mieux que je file.}
-{143}{}{I'd better be going.}
+{143}{}{Je ferais mieux de partir.}
 {144}{}{Embuscade !}
 {145}{}{On ne peut plus faire confiance à personne.}
 {146}{}{Tu as violé le code du voyageur.}
@@ -42,7 +42,7 @@
 {1107}{}{New Reno.}
 {1108}{}{La Cité de l'Abri.}
 {1109}{}{Redding.}
-{1110}{}{The Den.}
+{1110}{}{La Fosse.}
 {1111}{}{San Francisco.}
-{1112}{}{New California Republic.}
+{1112}{}{R.N.C.}
 {1113}{}{Une mine abandonnée.}

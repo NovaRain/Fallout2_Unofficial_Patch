@@ -29,7 +29,7 @@
 {301}{}{Heu, non.}
 {302}{}{Oh, d'accord. J'aimerais te poser une autre question.}
 {303}{}{Bon. Je ne veux pas te faire perdre tous tes, euh, moyens. Salut. }
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Ils me ramènent les trucs qu'ils trouvent. De petites, petites choses. Des trucs que plus personne n'utilise aujourd'hui. En échange, je prends bien soin d'eux.}
 {316}{}{On dirait un bon arrangement.}
 {325}{}{(Flick hausse les épaules.) Je m'en sors pas trop mal.}
 {326}{}{J'aimerais te poser une autre question.}

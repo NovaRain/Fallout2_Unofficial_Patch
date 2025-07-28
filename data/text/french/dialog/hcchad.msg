@@ -15,7 +15,7 @@
 {131}{}{Heu r'voir !}
 {132}{}{Je m'appelle Chad.}
 {133}{}{Ecoute, je suis très occupé. Va embêter quelqu'un d'autre.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
+{134}{}{Je suis le maître de caravane de la ville. Je m'occupe des affaires à l'autre bout des routes commerciales. Ces jours-ci, je me concentre principalement sur Gecko.}
 {135}{}{Okééé !}
 {136}{}{Je voudrais travailler pour toi.}
 {137}{}{Ca a l'air excitant.}
@@ -26,7 +26,7 @@
 {142}{}{J'ai d'autres questions.}
 {143}{}{Au revoir.}
 {144}{}{Comme quoi ?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
+{145}{}{Il suspecte, que tu as récupéré l'argent qui était supposé revenir aux Collines Brisées.}
 {146}{}{Apparemment rien, salut.}
 {147}{}{Ecoute, je n'aime pas que les gens m'accusent de quelque chose dont je ne sais rien. Je te suggère de partir.}
 {150}{}{Je finirai par découvrir la vérité. Salut.}

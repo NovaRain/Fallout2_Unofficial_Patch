@@ -20,7 +20,7 @@
 {119}{}{Des barres d'uranium ?}
 {120}{}{Intéressant. Salut,}
 {121}{}{Un J.E.K ? Jamais entendu parler. Et j'imagine que personne d'autre ici non plus. Ca doit être un animal ou quelque chose avec des griffes pas commodes.}
-{122}{}{No, not really. I have more questions.}
+{122}{}{Non, pas vraiment. J'ai encore des questions.}
 {123}{}{Pas du tout. Salut.}
 {124}{}{Eric veut plus d'énergie ? Il ne PEUT PAS en avoir plus. L'équilibre énergétique est très délicat ici, et si Eric a plus d'énergie, l'hôpital devra fermer. Ou on n'aura plus de lumière. Ou la mine ne fonctionnera plus. C'est pas possible.}
 {125}{}{Si cette machine est alimentée avec des barres d'uranium, tu peux fournir de l'énergie non seulement à cette ville MAIS AUSSI à New Reno, sans qu'on remarque quoi que ce soit. Maintenant fais péter.}
