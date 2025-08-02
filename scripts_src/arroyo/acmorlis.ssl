@@ -552,7 +552,8 @@ begin
         rm_obj_from_inven(self_obj,item);
         add_obj_to_inven(dude_obj,item);
         Reply(154);
-        NOption(115,Node999,004);
+        // This node is gated behind int 4 anyway, but just in case use min of 1 here.
+        NOption(115, Node999, 001);
         return;
       end
     end
