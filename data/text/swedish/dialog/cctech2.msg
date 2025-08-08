@@ -21,16 +21,16 @@
 {126}{}{Det här är kommunikationscentralen. Härifrån sköter vi all kommunikation med huvudbasen och alla andra utposter som har upprättats.}
 {127}{}{Me see. Me ask more.}
 {128}{}{All right. A couple more questions.}
-{129}{}{I'm a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don't screw up.}
+{129}{}{Jag är en kommunikationscentertekniker, första klass. Jag utför övervakningsuppgifter. Jag ser främst till att de andra teknikerna inte klantar sig.}
 {130}{}{Uh... yeah.}
 {131}{}{Good. Keep up the good work.}
-{132}{}{Soldier, that information is on a "need to know"-only basis. If you have to ask the question then you don't need to know.}
+{132}{}{Soldat, den informationen är "behöver veta"-klassad. Om du måste ställa frågan så behöver du inte veta.}
 {133}{}{Okej.}
-{134}{}{Come on, it's not like I'm some damn tribal or something. We're in the same outfit; notice the insignia on the armor?}
+{134}{}{Kom igen, jag är ju ingen jäkla stammedlem eller nåt. Vi är från samma grupp; ser du märket på rustningen?}
 {135}{}{Jag förstår.}
-{136}{}{Yes, sir. The main base is located off the Pacific coast near the city of San Francisco. May I inquire why you are asking, sir?}
-{137}{}{Soldier, I told you that information is on a "need to know"-only basis.}
-{138}{}{For security purposes, I'm checking the level of information awareness among base personnel. Now, tell me all the ways you personally know of to get to main base.}
+{136}{}{Ja, sir. Huvudbasen ligger vid Stillahavskusten nära staden San Francisco. Får jag fråga varför ni undrar, sir?}
+{137}{}{Soldat, jag sa ju att den informationen är "behöver veta"-klassad.}
+{138}{}{Av säkerhetsskäl kontrollerar jag baspersonalens informationsmedvetenhet. Berätta nu om alla sätt du personligen känner till för att ta dig till huvudbasen.}
 {139}{}{Jag förstår.}
 {140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
 {141}{}{Tack.}

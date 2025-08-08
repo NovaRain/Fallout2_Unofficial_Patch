@@ -48,7 +48,7 @@
 {197}{}{That was my great grandfather's name. He came from somewhere far to
  the east. Across a large body of water.}
 {198}{}{I read some book about a Metzger. He was a president, or something.}
-{199}{}{Look who's talking tribal.}
+{199}{}{Titta vem som pratar stammedlem.}
 {200}{}{It's Germen, German, Garmen, or something. Ancient language, from a
  long time ago.}
 {201}{}{Et tu, Brutus?}

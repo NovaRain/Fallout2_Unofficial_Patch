@@ -128,9 +128,9 @@
  with me. What you want with 'em?}
 {191}{}{Me want join.}
 {192}{}{I want to join.}
-{193}{}{Join up? You're a tribal! What makes you think they'd want a tribal?}
-{194}{}{Join up? You're a tribal! What makes you think they'd want a tribal,
- and his posse no less?}
+{193}{}{Gå med? Du är en stammedlem! Vad får dig att tro att de vill ha en stammedlem?}
+{194}{}{Gå med? Du är en stammedlem! Vad får dig att tro att de vill ha en stammedlem,
+ och särskilt i hans egna gäng?}
 {195}{}{Me serious. Me join Enclave.}
 {196}{}{Me serious. Me Join Enclave.}
 {197}{}{I'm serious. I'm looking to join the Enclave.}
