@@ -37,7 +37,7 @@
 {142}{}{Okej.}
 {143}{}{Got it.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
-{154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{154}{}{Om sergeanten ser dig utan uniform kommer han att spöa upp dig.}
 {155}{}{Why are you out of uniform? }
 {156}{}{Holy shit! We're being invaded! Alert!}
 {157}{}{Intruders! Call the guard!}
@@ -45,6 +45,6 @@
 {159}{}{What's up? Are we under attack?}
 {160}{}{Why the alert? What's happening?}
 {161}{}{What the hell's going on?}
-{162}{}{I'm just a tech, don't shoot me!}
+{162}{}{Jag är bara en tekniker, skjut mig inte!}
 {163}{}{I didn't sign up for combat, just tech training!}
 {164}{}{This is a lab coat, not armor! I'm outta here!}

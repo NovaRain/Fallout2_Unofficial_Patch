@@ -159,7 +159,7 @@ jeden punkt obrażeń.}
 {211}{}{ zawodzi przy zakładaniu poprawnie pułapki we framudze drzwi.}
 {300}{}{Otwierasz drzwi.}
 {301}{}{Zamykasz drzwi.}
-{302}{}{Nie możesz zamknąć na klucz drzwi otwartych na oścież!}
+{302}{}{Nie możesz zamknąć na klucz drzwi otwartych na oścież.}
 {303}{}{Ten klucz nie pasuje do zamka.}
 {320}{}{Nie można zamknąć tych drzwi na klucz.}
 {400}{}{Otwierasz drzwi.}
