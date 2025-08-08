@@ -1,10 +1,20 @@
 {100}{}{Widzisz drewniane drzwi.}
 {101}{}{Widzisz metalowe drzwi.}
-{102}{}{Widzisz solidne drzwi zamknięte na zamek (który możesz otworzyć wytrychem) i chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
-{103}{}{Widzisz solidne drzwi zamknięte na zamek i chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
-{104}{}{Widzisz solidne drzwi bez widocznego zamka. Są chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
-{105}{}{Widzisz solidne drzwi zamknięte na stary, pordzewiały zamek i chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
-{106}{}{Widzisz solidne drzwi zamknięte na zamek (który możesz otworzyć wytrychem) i chronione pułapką ukrytą we framudze. Może uda ci się je sforsować.}
+{102}{}{Widzisz solidne drzwi zamknięte na zamek (który możesz otworzyć 
+wytrychem) i chronione ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
+{103}{}{Widzisz solidne drzwi zamknięte na zamek i chronione 
+ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
+{104}{}{Widzisz solidne drzwi bez widocznego zamka. Są chronione
+ ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
+{105}{}{Widzisz solidne drzwi zamknięte na stary, pordzewiały zamek 
+i chronione ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
+{106}{}{Widzisz solidne drzwi zamknięte na zamek (który możesz 
+otworzyć wytrychem) i chronione pułapką ukrytą we framudze. 
+Może uda ci się je sforsować.}
 {107}{}{Widzisz solidne drzwi zamknięte na zamek i chronione pułapką ukrytą we framudze. Może uda ci się je sforsować.}
 {108}{}{Widzisz solidne drzwi bez widocznego zamka. Są chronione pułapką ukrytą we framudze. Może uda ci się je sforsować.}
 {109}{}{Widzisz solidne drzwi zamknięte na stary, pordzewiały zamek i chronione pułapką ukrytą we framudze. Może uda ci się je sforsować.}

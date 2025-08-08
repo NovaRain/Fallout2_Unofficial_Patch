@@ -1,9 +1,15 @@
 {100}{}{Widzisz drewniane drzwi.}
 {101}{}{Widzisz metalowe drzwi.}
 {102}{}{Widzisz mocne drzwi, które można otworzyć za pomocą wytrychów, z silnym ładunkiem wybuchowym we framudze, które być może uda ci się wyważyć.}
-{103}{}{Widzisz solidne drzwi zamknięte na zamek i chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
-{104}{}{Widzisz solidne drzwi bez widocznego zamka. Są chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
-{105}{}{Widzisz solidne drzwi zamknięte na stary, pordzewiały zamek i chronione ładunkiem wybuchowym ukrytym we framudze. Może uda ci się je sforsować.}
+{103}{}{Widzisz solidne drzwi zamknięte na zamek i chronione 
+ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
+{104}{}{Widzisz solidne drzwi bez widocznego zamka. Są chronione
+ ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
+{105}{}{Widzisz solidne drzwi zamknięte na stary, pordzewiały zamek 
+i chronione ładunkiem wybuchowym ukrytym we framudze. 
+Może uda ci się je sforsować.}
 {106}{}{Widzisz mocne drzwi z zamkiem, który można otworzyć za pomocą wytrychów i z pułapką we framudze, które być może uda ci się wyważyć.}
 {107}{}{Widzisz solidne drzwi zamknięte na zamek i chronione pułapką ukrytą we framudze. Może uda ci się je sforsować.}
 {108}{}{Widzisz solidne drzwi bez widocznego zamka. Są chronione pułapką ukrytą we framudze. Może uda ci się je sforsować.}
