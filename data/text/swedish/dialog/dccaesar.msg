@@ -122,7 +122,7 @@
 {266}{}{Här får du dina pengar.}
 {267}{}{Har inte så mycket än. Hej då.}
 {268}{}{Vår radio är trasig och han är ansvarig för att laga den.}
-{269}{}{I see.}
+{269}{}{Jag förstår.}
 {270}{}{Du har inte pengarna!}
 {271}{}{Synd för mig. Får jag fråga dig en sak?}
 {272}{}{Ledsen, jag kommer tillbaka.}

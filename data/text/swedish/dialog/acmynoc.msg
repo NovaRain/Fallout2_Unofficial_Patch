@@ -118,8 +118,8 @@
 {408}{}{I'm doing my best. When I find the GECK I'll return with it.}
 {409}{}{We are a simple people and have little to offer in trade. The few towns that we have
  contacted while you were away have shown no interest in helping us.}
-{410}{}{Me see.}
-{411}{}{I see.}
+{410}{}{Jag fatta.}
+{411}{}{Jag förstår.}
 {412}{}{You are our only hope, Chosen One. Please do not fail us!}
 {413}{}{It is good to see you, Chosen One. How fares your quest?}
 {414}{}{Me still look.}

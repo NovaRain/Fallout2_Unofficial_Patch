@@ -954,11 +954,11 @@
 {4665}{}{Some robbers.}
 {4666}{}{A Redding caravan fending off highwaymen.}
 {4667}{}{A New Reno caravan fending off robbers.}
-{4668}{}{A Den caravan fending off highwaymen.}
-{4669}{}{Some robbers ambushing a caravan.}
-{4670}{}{A Den caravan attacking a Vault City caravan.}
-{4671}{}{Some highwaymen fighting some robbers.}
-{4672}{}{A Vault City caravan.}
+{4668}{}{En karavan från Lyan som motar bort stråtrövare.}
+{4669}{}{Några rånare som överfaller en karavan.}
+{4670}{}{En karavan från Lyan som attackerar en karavan från Valvstaden.}
+{4671}{}{Några stråtrövare som strider mot några rånare.}
+{4672}{}{En karavan från Valvstaden.}
 {4673}{}{A Den caravan.}
 {4674}{}{The remains of a whale.}
 {4675}{}{A giant stone head.}
@@ -982,11 +982,11 @@
 {4712}{}{A band of ruffians led by a Morton Brother.}
 {4713}{}{A Redding caravan fending off highwaymen.}
 {4714}{}{A New Reno caravan fending off robbers.}
-{4715}{}{A Den caravan fending off highwaymen.}
-{4716}{}{Some robbers ambushing a caravan.}
-{4717}{}{A Den caravan attacking a Vault City caravan.}
-{4718}{}{Some highwaymen fighting some robbers.}
-{4719}{}{A Vault City caravan.}
+{4715}{}{En karavan från Lyan som motar bort stråtrövare.}
+{4716}{}{Några rånare som överfaller en karavan.}
+{4717}{}{En karavan från Lyan som attackerar en karavan från Valvstaden.}
+{4718}{}{Några stråtrövare som strider mot några rånare.}
+{4719}{}{En karavan från Valvstaden.}
 {4720}{}{A Den caravan.}
 {4721}{}{A man guarding a bridge.}
 {4722}{}{King Arthur's Knights fighting a rat.}
