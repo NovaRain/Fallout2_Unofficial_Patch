@@ -75,16 +75,20 @@
 {174}{}{blokuje zamek na pojemniku podczas próby jego otwarcia.}
 {175}{}{ nie potrafi otworzyć zamka na tym pojemniku.}
 {176}{}{Niszczysz zamek na pojemniku.}
-{177}{}{Nadwerężasz się próbując wyłamać zamek i odnosisz jeden punkt obrażeń.}
-{178}{}{Nadwerężasz się próbując wyłamać zamek i odnosisz }
+{177}{}{Nadwerężasz się próbując wyłamać zamek i odnosisz 
+jeden punkt obrażeń.}
+{178}{}{Nadwerężasz się próbując wyłamać zamek 
+i odnosisz }
 {179}{}{ punktów obrażeń.}
 {180}{}{Brakuje ci sił, żeby wyłamać ten zamek.}
 {181}{}{ niszczy zamek na pojemniku.}
-{182}{}{ nadweręża się próbując wyłamać zamek z drzwi i odnosi jeden punkt obrażeń.}
+{182}{}{ nadweręża się próbując wyłamać zamek z drzwi i odnosi 
+jeden punkt obrażeń.}
 {183}{}{ nadweręża się próbując wyłamać zamek i odnosi }
 {184}{}{ punktów obrażeń.}
 {185}{}{ nie ma dość sił by wyłamać zamek.}
-{186}{}{ nadweręża się próbując wyłamać zamek i odnosi jeden punkt obrażeń.}
+{186}{}{ nadweręża się próbując wyłamać zamek i odnosi 
+jeden punkt obrażeń.}
 {187}{}{ nadweręża się próbując wyłamać zamek i odnosi }
 {188}{}{ punktów obrażeń.}
 {189}{}{Zręcznie zamykasz pojemnik.}
