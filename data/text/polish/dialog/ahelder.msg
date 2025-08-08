@@ -8,7 +8,7 @@ Czy jesteś w stanie wyruszyć w drogę?}
 {106}{}{Muszę to jeszcze przemyśleć.}
 {107}{aeld2a}{Jestem z ciebie dumna, Dziecko Przeznaczenia. To musiało być dla ciebie trudne. Teraz 
 musisz pójść i odnaleźć Kryptę 13. Krypta 13. Przynieś stamtąd GECKa. GECK. Tu masz małą 
-błyszczącą buteleczkę. Vic nam ją dał. Vic. To handlarz z Klamath. Klamath. Idź do Vica. 
+błyszczącą buteleczkę. Vic ją nam dał. Vic. To kupiec z Klamath. Klamath. Idź do Vica. 
 Znajdź Kryptę 13. Znajdź GECKa. Wróć. Postaraj się, dziecko.}
 {112}{aeld2b}{Nadal nie wiesz gdzie jest Krypta. Znajdź Kryptę! Krypta 13.}
 {113}{}{Uch.}
@@ -31,14 +31,14 @@ to naszą zagładę. Czy jesteś w stanie wyruszyć ze swoją misją?}
 {128}{}{Mój test został ukończony pomyślnie. Oczywiście, że mogę wyruszyć, choćby zaraz.}
 {129}{}{Muszę to jeszcze przemyśleć.}
 {130}{}{Nie mam zamiaru popełniać samobójstwa!}
-{131}{aeld7}{Słuchaj uważnie. Znajdź świętą Kryptę 13 i wróć do nas z GECKiem. Vic, handlarz z Klamath, 
+{131}{aeld7}{Słuchaj uważnie. Znajdź świętą Kryptę 13 i wróć do nas z GECKiem. Vic, kupiec z Klamath, 
 dał nam tę butelkę, pochodzącą ze świętej Trzynastki. Zacznij poszukiwania u niego. Ten 
 dysk będzie ci przypominał o twoim zadaniu. Niech bogowie Krypty czuwają nad tobą.}
 {133}{}{Zanim odejdę, mam kilka pytań.}
 {134}{}{Nie zawiodę mojego plemienia. Żegnaj.}
 {135}{aeld8}{Dobrze więc. Wróć do mnie, gdy się zdecydujesz - ale niech to nie trwa zbyt długo.}
 {136}{}{Żegnaj.}
-{137}{aeld9}{Niewiele mogę pomóc. Tak wiele utraciliśmy z Dawnych Czasów. Jakiej mądrości poszukujesz?}
+{137}{aeld9}{Niewiele mogę pomóc. Niewiele wiedzy zostało nam od Dawnych czasów. Jakich mądrości poszukujesz?}
 {138}{aeld9b}{Czego potrzebujesz?}
 {139}{}{Opowiedz mi więcej o GECKu.}
 {140}{}{Jak dotrzeć do Klamath?}
@@ -51,22 +51,28 @@ dysk będzie ci przypominał o twoim zadaniu. Niech bogowie Krypty czuwają nad 
 {146}{aeld11}{Klamath leży na wschodzie.}
 {147}{}{Jest jeszcze parę rzeczy, których chcę się dowiedzieć.}
 {148}{}{Mogę ruszać. Żegnaj.}
-{149}{aeld12}{Święta Trzynastka? Nie mogę ci pomóc. Tylko Przybysz z Krypty to wiedział. W jego opowieściach wiele było wspomnień o długiej podróży. }
+{149}{aeld12}{Święta Trzynastka? Nie mogę ci pomóc. Tylko Przybysz z Krypty to wiedział. 
+W jego opowieściach wiele było wspomnień o długiej podróży. }
 {150}{}{Rozumiem, ale chcę się jeszcze czegoś dowiedzieć.}
 {151}{}{Żegnaj, Starsza.}
-{152}{aeld13}{Tchórzostwo sprowadzi śmierć na nas wszystkich! Włączając w to ciebie. Udało ci się przebyć Świątynię Prób. Wierzymy w ciebie. Potrzebujemy cię.}
+{152}{aeld13}{Tchórzostwo sprowadzi śmierć na nas wszystkich! Włączając w to ciebie. 
+Udało ci się przebyć Świątynię Prób. Wierzymy w ciebie. Potrzebujemy cię.}
 {153}{}{Nie tak szybko, stara kobieto. Potrzebuję czasu, żeby to wszystko przemyśleć!}
 {154}{}{Jak sobie życzysz, Starsza.}
 {155}{aeld14a}{Zostaliśmy przez ciebie zdradzeni. Zginiesz.}
 {156}{aeld14b}{To zdrada!}
 {157}{aeld14c}{Czemu to robisz?}
 {158}{aeld14d}{Wiedziałam, że twa dusza jest mroczna!}
-{159}{aeld15}{Więc weź tę manierkę. Pochodzi ze świętej Krypty 13. Dał nam ją Vic, kupiec z Klamath. Być może on wie, gdzie znajduje się Krypta. Może też przydać ci się to coś, co oni nazywają pieniędzmi. Proszę.}
+{159}{aeld15}{Więc weź tę manierkę. Pochodzi ze świętej Krypty 13. Dał nam ją Vic, kupiec 
+z Klamath. Być może on wie, gdzie znajduje się Krypta. Może też przydać ci się to coś, 
+co oni nazywają pieniędzmi. Proszę.}
 {160}{}{Uch... jeszcze raz, jakie jest moje zadanie?}
 {161}{}{Czy możesz powiedzieć mi coś jeszcze?}
 {162}{}{Życz mi szczęścia, Starsza. Nie zawiodę cię.}
 {163}{aeld16}{Znajdź Vica w Klamath. Liczymy na ciebie.}
-{164}{aeld17}{Dobrze cię znowu widzieć, Dziecko. Nie chcę być niegrzeczna, lecz, jak widzę, twoja misja odszukania Świętej Trzynastki nie jest jeszcze zakończona. Proszę, nie marnuj czasu na rozmowy. Nasz lud jest w wielkiej potrzebie. Znajdź Kryptę!}
+{164}{aeld17}{Dobrze cię znowu widzieć, Dziecko. Nie chcę być niegrzeczna, lecz, jak widzę, 
+twoja misja odszukania Świętej Trzynastki nie jest jeszcze zakończona. Proszę, nie marnuj 
+czasu na rozmowy. Nasz lud jest w wielkiej potrzebie. Znajdź Kryptę!}
 {165}{}{Moja iść już}
 {166}{}{No dobrze, już idę.}
 {167}{}{Nie zawiodę cię, Starsza.}
