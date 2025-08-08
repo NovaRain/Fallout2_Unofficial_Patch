@@ -1,11 +1,15 @@
 {100}{}{Widzisz Starszą twojej wioski.}
 {101}{}{To jest Starsza.}
 {102}{}{Starsza jest dokładnie tym - starą kobietą. Tak starą, że nie pamiętasz, żeby kiedykolwiek była młoda. Mimo to, wciąż tli się w niej ogień i siła potrzebne do przewodzenia wiosce w tych trudnych czasach.}
-{103}{aeld1}{Gratuluję, Dziecko Przeznaczenia. Udało ci się przejść przez Świątynię Prób. Czy jesteś w stanie wyruszyć w drogę?}
+{103}{aeld1}{Gratuluję, Dziecko Przeznaczenia. Udało ci się przejść przez Świątynię Prób. 
+Czy jesteś w stanie wyruszyć w drogę?}
 {104}{}{Co to miało być - chcieliście mnie zabić w tej świątyni?}
 {105}{}{Spoko.}
 {106}{}{Muszę to jeszcze przemyśleć.}
-{107}{aeld2a}{Jestem z ciebie dumna, Dziecko Przeznaczenia. To musiało być dla ciebie trudne. Teraz musisz pójść i odszukać Kryptę 13. Krypta 13. Przynieś tu GECK. GECK. Tu masz małą błyszczącą buteleczkę. Dał nam ją Vic. Vic. To kupiec z Klamath. Klamath. Idź do Vica. Znajdź Kryptę 13. Znajdź GECK. Wróć. Postaraj się, dziecko.}
+{107}{aeld2a}{Jestem z ciebie dumna, Dziecko Przeznaczenia. To musiało być dla ciebie trudne. Teraz 
+musisz pójść i odnaleźć Kryptę 13. Krypta 13. Przynieś stamtąd GECKa. GECK. Tu masz małą 
+błyszczącą buteleczkę. Vic nam ją dał. Vic. To handlarz z Klamath. Klamath. Idź do Vica. 
+Znajdź Kryptę 13. Znajdź GECKa. Wróć. Postaraj się, dziecko.}
 {112}{aeld2b}{Nadal nie wiesz gdzie jest Krypta. Znajdź Kryptę! Krypta 13.}
 {113}{}{Uch.}
 {114}{aeld3}{Dziecko Przeznaczenia, czy życzysz nam wszystkim śmierci? Musisz znaleźć Kryptę!}
@@ -18,25 +22,30 @@
 {121}{}{Nie mam zamiaru popełniać samobójstwa!}
 {122}{}{Jeszcze raz - co jest moim zadaniem?}
 {123}{}{Wyruszam w tej chwili.}
-{124}{aeld5}{To dobra wiadomość, ale to nie wystarczy, żeby nas uratować. Musisz prędko wrócić tu z GECKiem, albo cały nasz lud umrze!}
+{124}{aeld5}{To dobra wiadomość, ale to nie wystarczy, żeby nas uratować. Musisz prędko wrócić 
+tu z GECKiem, albo cały nasz lud umrze!}
 {125}{}{Potrzebuję dowiedzieć się jeszcze kilku rzeczy.}
 {126}{}{Dobrze, wyruszę tam natychmiast.}
-{127}{aeld6}{Udało ci się przetrwać. Dziecko Przeznaczenia nie może być słabe, bo oznaczałoby to naszą zagładę. Czy jesteś w stanie wyruszyć ze swoją misją?}
+{127}{aeld6}{Udało ci się przetrwać. Dziecko Przeznaczenia nie może być słabe, bo oznaczałoby 
+to naszą zagładę. Czy jesteś w stanie wyruszyć ze swoją misją?}
 {128}{}{Mój test został ukończony pomyślnie. Oczywiście, że mogę wyruszyć, choćby zaraz.}
 {129}{}{Muszę to jeszcze przemyśleć.}
 {130}{}{Nie mam zamiaru popełniać samobójstwa!}
-{131}{aeld7}{Słuchaj uważnie. Znajdź świętą Kryptę 13 i wróć do nas z GECKiem. Vic, kupiec z Klamath, dał nam tę butelkę, pochodzącą ze Świętej Trzynastki. Rozpocznij poszukiwania od niego. Ten dysk będzie przypominał ci o twoim zadaniu. I niech bogowie Krypty czuwają nad tobą.}
+{131}{aeld7}{Słuchaj uważnie. Znajdź świętą Kryptę 13 i wróć do nas z GECKiem. Vic, handlarz z Klamath, 
+dał nam tę butelkę, pochodzącą ze świętej Trzynastki. Zacznij poszukiwania u niego. Ten 
+dysk będzie ci przypominał o twoim zadaniu. Niech bogowie Krypty czuwają nad tobą.}
 {133}{}{Zanim odejdę, mam kilka pytań.}
 {134}{}{Nie zawiodę mojego plemienia. Żegnaj.}
 {135}{aeld8}{Dobrze więc. Wróć do mnie, gdy się zdecydujesz - ale niech to nie trwa zbyt długo.}
 {136}{}{Żegnaj.}
-{137}{aeld9}{Niewiele mogę pomóc. Niewiele wiedzy zostało nam od Dawnych Czasów. Jakich mądrości poszukujesz?}
+{137}{aeld9}{Niewiele mogę pomóc. Tak wiele utraciliśmy z Dawnych Czasów. Jakiej mądrości poszukujesz?}
 {138}{aeld9b}{Czego potrzebujesz?}
 {139}{}{Opowiedz mi więcej o GECKu.}
 {140}{}{Jak dotrzeć do Klamath?}
 {141}{}{Gdzie jest Krypta 13?}
 {142}{}{Po krótkim namyśle dochodzę do wniosku, że nie potrzebuję na razie żadnej pomocy. Żegnaj.}
-{143}{aeld10}{Jest to święty artefakt - Generator Ekosystemu Cudownej Krainy. Dyski obiecują, że GECK zazieleni naszą ziemię i ześle szczęście do naszej wioski. Uratuje nas. To wszystko co wiem.}
+{143}{aeld10}{Jest to święty artefakt - Generator Ekosystemu Cudownej Krainy. Dyski obiecują, 
+że GECK zazieleni naszą ziemię i ześle szczęście do naszej wioski. Uratuje nas. To wszystko co wiem.}
 {144}{}{Chcę wiedzieć coś jeszcze.}
 {145}{}{Żegnaj.}
 {146}{aeld11}{Klamath leży na wschodzie.}

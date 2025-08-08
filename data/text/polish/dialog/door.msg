@@ -179,7 +179,7 @@ jeden punkt obrażeń.}
 {211}{}{ nie jest w stanie poprawnie założyć pułapki na drzwi.}
 {300}{}{Otwierasz drzwi.}
 {301}{}{Zamykasz drzwi.}
-{302}{}{Nie możesz zakluczyć otwartych drzwi.}
+{302}{}{Nie możesz zamknąć na klucz drzwi otwartych na oścież!}
 {303}{}{Ten klucz nie pasuje do zamka.}
 {320}{}{Nie można zamknąć tych drzwi na klucz.}
 {330}{}{Te drzwi się zacięły. Nie można ich zamknąć.}
