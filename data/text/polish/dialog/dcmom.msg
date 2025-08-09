@@ -100,14 +100,16 @@
 {521}{}{Dwa lata? A od tego czasu ktoś tam mieszkał?}
 {522}{}{Pewnie masz rację. Dziękuję.}
 {540}{}{Któryś z chłopców kiedyś tam nocował. Może on coś wie.}
-{541}{}{Kim?}
+{541}{}{Kto?}
 {542}{}{Pewnie nie. Cześć.}
-{560}{}{Przychodził kiedyś do mnie i próbował sprzedawać różne drobiazgi. Głównie biżuterię. Pamiętam, że jeden złoty medalion zachował dla siebie.}
+{560}{}{Przychodził kiedyś do mnie i próbował sprzedawać różne drobiazgi. 
+Głównie biżuterię. Pamiętam, że jeden złoty medalion zachował dla siebie.}
 {561}{}{Pamiętasz jak się nazywał?}
 {562}{}{Medalion? Dziwne. Kto to był?}
 {563}{}{Pozwól, że zapytam o coś innego.}
 {564}{}{Dziękuję. Do zobaczenia.}
-{580}{}{Nie jestem pewna. Joseph... Joel... coś w tym stylu. Ma teraz jakieś 19 lat. Obawiam się, że włóczy się z miejscowymi bandziorami.}
+{580}{}{Nie jestem pewna. Joseph... Joel... coś w tym stylu. Ma teraz jakieś 19 lat. 
+Obawiam się, że włóczy się z miejscowymi bandziorami.}
 {581}{}{Dzięki. Mam jeszcze jedno pytanie.}
 {582}{}{Dziękuję. Do zobaczenia.}
 {600}{}{Co możesz mi powiedzieć o nawiedzonym domu?}
