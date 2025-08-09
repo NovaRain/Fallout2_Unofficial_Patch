@@ -3,7 +3,7 @@
 {102}{}{Lepiej się do niego nie zbliżać. Insekty buszujące w jego ubraniu mogą zechcieć przenieść się do czystszego mieszkania.}
 {103}{}{Witaj. Nieczęsto spotykam ludzi na tym pustkowiu. Czego chcesz?}
 {104}{}{Masz jakieś skórki na sprzedaż?}
-{105}{}{Niczego.}
+{105}{}{Ja tylko przechodzę.}
 {106}{}{Ug.}
 {107}{}{Cóż, chyba mogę odsprzedać ci kilka skórek. I tak nie mam ochoty wybierać się chwilowo do miasta.}
 {108}{}{Co tam masz?}
