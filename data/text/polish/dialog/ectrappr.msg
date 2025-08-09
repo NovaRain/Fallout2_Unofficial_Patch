@@ -25,7 +25,8 @@ Opłaci ci się.}
 co mam na myśli. Opłaci ci się. }
 {121}{}{Jasne.}
 {122}{}{Nie ma szans. Bywaj.}
-{123}{}{[Miria na pewno kiedyś ci wybaczy. Z weselszych informacji: zyskujesz kilka pięknych skórek.]}
+{123}{}{[Miria w końcu na pewno ci wybaczy... kiedyś. Z weselszych informacji natomiast - zyskujesz 
+kilka pięknych skórek.]}
 {124}{}{[Davin chyba nie miał nic przeciwko.]}
 {125}{}{[Potrzebujesz kąpieli, dłuuuugiej kąpieli z dużą ilością mydła - ale zyskujesz kilka pięknych skórek.]}
 {126}{}{Bywaj.}
