@@ -445,7 +445,7 @@
 {22800}{}{instrukcja}
 {22801}{}{Instrukcja naprawy pancerza wspomaganego T-51b.}
 {22900}{}{niewielki element mechaniczny}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Uszkodzona część pancerza wspomaganego. Jest bardzo czysta, wygląda na jakiegoś rodzaju trofeum.}
 {23000}{}{Przewodnik po Kryptach}
 {23001}{}{Kompendium zdarzeń i ważnych nagrań zarejestrowanych w systemie komputerowym Krypty. Możliwe, że uszkodzone.}
 {23100}{}{kod dostępu do Bazy Wojskowej}

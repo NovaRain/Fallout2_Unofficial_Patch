@@ -190,5 +190,5 @@
 {289}{}{I co?}
 {290}{hak122}{Zbyt wiele lat i zbyt wiele ran, Dziecko. Zamiast tego musisz posłuchać.}
 {291}{}{Dobrze.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{300}{}{Ci którzy kradną dźwigają ciężkie brzemię. Pamiętaj o tym, Dziecko Przeznaczenia.}
 {301}{}{You must now pay for your sins, Chosen One.}

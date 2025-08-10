@@ -118,7 +118,7 @@ jeden punkt obrażeń.}
 {601}{}{To jest otwarte, głupku.}
 {610}{}{Ponosisz spektakularną porażkę, ładunek wybuchowy wybucha przedwcześnie.}
 {611}{}{ zawodzi spektakularnie, ładunek wybuchowy wybucha przedwcześnie.}
-{620}{}{Wyginasz łom nie do poznania. Jest teraz bezużyteczny.}
+{620}{}{Wyginasz łom ponad miarę. Jest teraz bezużyteczny.}
 {621}{}{ wygina łom nie do poznania. Jest teraz bezużyteczny.}
 {800}{}{Znajdujesz klucz.}
 {810}{}{Znajdujesz plany.}

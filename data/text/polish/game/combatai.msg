@@ -3387,10 +3387,10 @@
 {44548}{}{Przeprowadzanie ataku.}
 {44549}{}{Próba eliminacji zagrożenia}
 {44560}{}{Engaging evasive maneuvers.}
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
+{44561}{}{Protokół obronny Beta rozpoczęty}
+{44562}{}{Wrogie zdolności strzeleckie poniżej oczekiwań. Rewaluacja poziomu zagrożenia.}
 {44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
+{44564}{}{Analiza: efektywność wroga minimalna.}
 {44565}{}{Analysis: evasive maneuvers successful.}
 {44566}{}{Unit is undamaged.}
 {44800}{}{Może mam twardą czaszkę, ale i tak mnie bolało.}

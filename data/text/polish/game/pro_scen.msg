@@ -149,7 +149,7 @@
 {7500}{}{skały}
 {7501}{}{Bacznie przyglądasz się skałom - na wszelki wypadek, gdyby miały zaatakować.}
 {7600}{}{Car Wall Floor}
-{7601}{}{REMOVED}
+{7601}{}{USUNIĘTO}
 {7700}{}{brama}
 {7701}{}{Drewniana brama.}
 {7800}{}{skały}
@@ -1456,7 +1456,7 @@
 {76500}{}{podłoga}
 {76501}{}{You would swear that there is something moving on the floor.}
 {76600}{}{piedestał}
-{76601}{}{The pedestal looks as if it were slowly breathing in and out.}
+{76601}{}{Piedestał sprawia wrażenie jakby powoli robił wdech i wydech.}
 {76700}{}{podłoga}
 {76800}{}{bomba}
 {76801}{}{To bomba atomowa. Nawet tylko leżąc w tym miejscu wygląda niebezpiecznie.}
@@ -1580,7 +1580,7 @@
 {82800}{}{lampka}
 {82801}{}{Lampka alarmowa.}
 {82900}{}{filar}
-{82901}{}{This pillar is the show piece of the Shady Sands square. It tells stories to remind the people of hope and peace.}
+{82901}{}{Ta kolumna to główna atrakcja placu Cienistych Piasków. Opowiada historie mające przypominać ludziom o nadziei i pokoju.}
 {83000}{}{komora robotów}
 {83001}{}{Komora spoczynkowa robotów. Nieużywane automaty uzupełniają tu swoje zapasy energii.}
 {83100}{}{komora robotów}

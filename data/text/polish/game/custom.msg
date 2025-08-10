@@ -3,7 +3,7 @@
 {2}{}{Broń}
 {3}{}{Dystans}
 {4}{}{Cel Ataku}
-{5}{}{Chem Use}
+{5}{}{Chemia}
 {10}{}{OK}
 {11}{}{Anuluj}
 {99}{}{Nie dotyczy}
