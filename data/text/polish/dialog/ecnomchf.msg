@@ -21,7 +21,7 @@
 {120}{}{Odejdź stąd!}
 {121}{}{Zostaw nas.}
 {122}{}{Jesteśmy pokojowym plemieniem.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
+{200}{}{Oh, podróżnik. Wybacz, że nie mamy namiotu aby móc ci użyczyć jego cienia przed palącym słońcem pustkowi. Proszę odpocznij trochę, abyśmy mogli porozmawiać.}
 {201}{}{Thank you; I graciously accept your offer.}
 {202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
 {203}{}{I do hope you found what you needed. Anything else?}
