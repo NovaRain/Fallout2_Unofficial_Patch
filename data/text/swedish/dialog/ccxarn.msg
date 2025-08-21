@@ -11,8 +11,8 @@
 {109}{}{Vänta. Jag ändrat mig. Varför är du här?}
 {110}{}{Jag är redo. Nu kör vi.}
 {111}{}{Vänta lite nu. Varför är du här?}
-{112}{}{I find it hard to believe that an Enclave soldier is here to rescue me.
- More likely, you are here to build up my hopes so that you can dash them to pieces.}
+{112}{}{Jag har svårt att tro att en Enklav-soldat är här för att rädda mig.
+ Mer troligt är att du är här för att bygga upp mina förhoppningar så att du kan krossa dem.}
 {113}{}{Nej. Jag här rädda dig. Verkligen.}
 {114}{}{Jag är verkligen här för att rädda dig!}
 {115}{}{Du är mitt sista hopp, så jag litar på dig. Dörren
