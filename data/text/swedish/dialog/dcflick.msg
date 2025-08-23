@@ -29,7 +29,7 @@
 {301}{}{Uh, no.}
 {302}{}{Åh, okej. Låt mig fråga dig något annat då.}
 {303}{}{Jaha, jag förstår. Jag vill inte störa din, eh, stil. Hej då.}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{De ger mig saker som de hittar. Små, små saker. Saker som ingen använder längre. I utbyte tar jag hand om dem.}
 {316}{}{Låter som ett trevligt arrangemang.}
 {325}{}{(Flick rycker på axlarna) Jag klarar mig bra.}
 {326}{}{Låt mig fråga dig om något annat då.}

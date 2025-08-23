@@ -1,29 +1,29 @@
-{100}{}{You see a tech.}
-{101}{}{You see an Enclave technician.}
-{102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
+{100}{}{Du ser en tekniker.}
+{101}{}{Du ser en Enklav-tekniker.}
+{102}{}{Du ser någon som bär en labbrock. Han verkar självsäker och trygg i sig själv.}
 {103}{}{Ja, sir?}
-{104}{}{Me new here. Need ask question.}
+{104}{}{Jag ny här. Behöver ställa fråga.}
 {105}{}{Me just say hi. Me go now.}
-{106}{}{I'm new here and I'm trying to get familiar with the base. Can I ask you some questions?}
-{107}{}{Just saying hi. See ya.}
+{106}{}{Jag är ny här och jag försöker bekanta mig med basen. Får jag ställa några frågor?}
+{107}{}{Jag säger bara hej. Vi ses.}
 {108}{}{Självklart, soldat.}
 {109}{}{What can I help you with?}
-{110}{}{What this place?}
-{111}{}{What you job?}
-{112}{}{Where Enclave main base at?}
-{113}{}{Me look for vertibird plans. Where I find?}
-{117}{}{Me be go now.}
+{110}{}{Vad det här stället?}
+{111}{}{Vad du jobb?}
+{112}{}{Var Enklaven huvudbas någonstans?}
+{113}{}{Jag leta Vertibird-ritningar. Var hittar jag?}
+{117}{}{Jag gå ska nu.}
 {118}{}{Vad är det här för ställe?}
-{119}{}{What is your job here?}
-{120}{}{Where is the Enclave main base located?}
-{121}{}{I need to look at the vertibird plans. Where are they kept?}
-{125}{}{Nothing. I've got to go.}
+{119}{}{Vad är ditt jobb här?}
+{120}{}{Var ligger Enklavens huvudbas?}
+{121}{}{Jag måste titta på Vertibird-planerna. Var förvaras de?}
+{125}{}{Ingenting. Jag måste gå.}
 {126}{}{Det här är kommunikationscentralen. Härifrån sköter vi all kommunikation med huvudbasen och alla andra utposter som har upprättats.}
-{127}{}{Me see. Me ask more.}
-{128}{}{All right. A couple more questions.}
+{127}{}{Jag se. Jag mer fråga.}
+{128}{}{Okej, då. Ett par frågor till.}
 {129}{}{Jag är en kommunikationscentertekniker, första klass. Jag utför övervakningsuppgifter. Jag ser främst till att de andra teknikerna inte klantar sig.}
-{130}{}{Uh... yeah.}
-{131}{}{Good. Keep up the good work.}
+{130}{}{Eh... visst.}
+{131}{}{Bra. Fortsätt med det goda arbetet.}
 {132}{}{Soldat, den informationen är "behöver veta"-klassad. Om du måste ställa frågan så behöver du inte veta.}
 {133}{}{Okej.}
 {134}{}{Kom igen, jag är ju ingen jäkla stammedlem eller nåt. Vi är från samma grupp; ser du märket på rustningen?}
@@ -41,12 +41,12 @@
 {155}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {156}{}{Om sergeanten ser dig utan uniform kommer han att spöa upp dig.}
 {157}{}{Why are you out of uniform?}
-{158}{}{Holy shit! We're being invaded! Alert!}
-{159}{}{Intruders! Call the guard!}
+{158}{}{Jävla skit! Vi har blivit invaderade! Varning!}
+{159}{}{Inkräktare! Kalla på vakten!}
 {160}{}{Guard! Intruders in the comm center!}
-{161}{}{What's up? Are we under attack?}
-{162}{}{Why the alert? What's happening?}
-{163}{}{What the hell's going on?}
+{161}{}{Läget? Är vi under attack?}
+{162}{}{Varför går larmet? Vad händer?}
+{163}{}{Vad i helvete är på gång?}
 {164}{}{Jag är bara en tekniker, skjut mig inte!}
 {165}{}{I didn't sign up for combat, just tech training!}
 {166}{}{This is a lab coat, not armor! I'm outta here!}

@@ -5,7 +5,7 @@
  of those in years. What can old Chris do for you?}
 {104}{}{Howdy, stranger. Ain't seen you around these parts before. What can old
  Chris do for you?}
-{105}{}{What this place?}
+{105}{}{Vad det här stället?}
 {106}{}{Me look for Navarro. This it?}
 {107}{}{You see metal bird fly here?}
 {108}{}{You hear Enclave? They here?}
@@ -139,7 +139,7 @@
  replacements?}
 {200}{}{Wait a minute. Are you trying to say you're one of the Enclave
  replacements?}
-{201}{}{Uh... yeah.}
+{201}{}{Eh... visst.}
 {202}{}{That's right.}
 {203}{}{Fan också. Ledsen för besväret. Jag ska rensa ett gäng nybörjare.
  men jag måste rensa ut soporna. Hur som helst, gå bara upp till porten,
