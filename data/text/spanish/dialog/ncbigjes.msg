@@ -133,7 +133,7 @@
 {471}{}{No, aún no he entregado el paquete.}
 {472}{}{Sí, le entregué a Ramirez lo que usted pidió.}
 {473}{}{Sí, he estado en el Establo y he tirado su paquete… ¿sabe lo que están HACIENDO allí? Están torturando a esclavos con drogas.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Sí, le entregué tu paquete a ese guardia, Ramirez… ¿sabes que ese tipo está loco por el Jet? APESTABA a vapor de Jet.}
 {480}{}{Entonces... ¿por qué estás aquí? (Gran Jesús se seca la frente, y luego respira profundamente) ¿POR QUÉ no entregaste el paquete?}
 {481}{}{Bueno, primero tenía ciertas preguntas...}
 {482}{}{Voy a hacerlo ahora mismo.}

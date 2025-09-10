@@ -120,8 +120,8 @@
 {482}{}{Hi tee hi tee hi tee ho}
 {490}{}{Puedo conseguirte CUALQUIER cosa, hermano. Si necesitas volar, colocarte, y flipar de lo lindo, Jules sabe
  dónde IR. La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
-{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOUR pleasure?}
+{491}{}{Cualquier cosa que necesites, Jules es tu HOMBRE, hermana. Si necesitas volar, colocarte, y flipar de lo lindo, Jules sabe dónde IR.
+La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {492}{}{Para cualquier cosa que quieras, Jules es tu HOMBRE, hermanita. Si necesitas volar, colocarte, y flipar de lo lindo, Jules sabe
  dónde IR. La pregunta es: Tengo la solución, así que ¿cual es tu problema?}
 {493}{}{Sin duda, sin duda... la pregunta es: Tengo la solución, así que ¿cual es tu problema?}

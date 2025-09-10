@@ -15,12 +15,12 @@
 {113}{}{No me gusta mucho. Parece que siempre recibe dinero extra de sus trabajos de las caravanas. Es muy injusto.}
 {114}{}{Bueno, Marcus sospecha que está rociando parte del dinero que se supone que va a Broken Hills.}
 {115}{}{Gracias. Adiós.}
-{116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
+{116}{}{Gracias. Estoy muy contento de que haya terminado. Pero será mejor que vigiles tu espalda.}
 {117}{}{Adiós.}
 {118}{}{¡Es la enemiga! ¡Muere!}
 {119}{}{Ups.}
-{120}{}{[Lowers his voice and looks around] That's gotta be it. I once saw myself that he was taking some "slice" of that money he got from uranium shipment from Gecko.}
-{121}{}{Really? Then why didn't you report that to Marcus?}
+{120}{}{[Baja la voz y mira a su alrededor] Eso tiene que ser. Una vez ví con mis propios ojos que él estaba tomando "parte" de ese dinero que él consiguió del envío del uranio de Gecko.}
+{121}{}{De verdad? Entonces por qué no se lo dijiste a Marcus?}
 {122}{}{¿Eres tonto? Si voy a contarlo, mucha gente en este ciudad ni siquiera me mirará. Además, podría tener algún tipo de venganza.}
 {123}{}{Hmm, podría decirlo a Marcus, porque no hacer el plan a quedar aquí demasiado tiempo de todos modos.}
 {124}{}{De acuerdo. Haz lo que quieras, pero no dice nada sobre me. Y nunca tuvimos esta conversación, vale?}

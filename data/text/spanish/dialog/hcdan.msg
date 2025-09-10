@@ -23,7 +23,7 @@
 {122}{}{Nop. No puedo hacerlo.}
 {123}{}{Por favor. Por favor. Mi mujer... lo es todo para mí. Por favor.}
 {124}{}{¡He dicho que no!}
-{125}{}{Fine! Fine! Just stop pestering me.}
+{125}{}{Bien! Bien! Solo deja de molestarme.}
 {126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
 {127}{}{Vale, amigo. ¿Qué aspecto tiene?}
 {128}{}{Por supuesto. Lo haré lo mejor que pueda.}
@@ -42,7 +42,7 @@
 {141}{}{¿Era una cachonda sin piernas?}
 {142}{}{Encontré un grupo de personas muertas en los túneles bajo la ciudad. Ella estaba entre ellas. Lo siento.}
 {143}{}{¿Que? ¡No! ¡Tenía unas piernas estupendas!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
+{144}{}{Oh. Vale. Bueno, ya no tiene esas estupendas piernas. Fue atacada despiadadamente, y PERDIÓ las piernas. Está totalmente muerta, y sufrió antes de morir.}
 {145}{}{Vale. Bueno, creo que la encontré en los túneles bajo la ciudad. Está muerta. Lo siento mucho.}
 {146}{}{Gracias por decírmelo. Creo que voy a llorar.}
 {147}{}{Sí, ve a llorar, nenaza perdedora.}
