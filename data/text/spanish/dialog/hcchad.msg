@@ -26,10 +26,10 @@
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
+{145}{}{Él sospecha que estás desviando el dinero destinado a Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
 {147}{}{Mira, no me gusta que la gente me acuse de algo de lo que no sé nada. Te sugiero que te vayas.}
-{150}{}{I'm going to find out the truth. Bye.}
+{150}{}{Voy a descubrir la verdad. Adiós.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}

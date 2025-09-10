@@ -213,7 +213,7 @@
 {664}{}{Salvatore está demasiado bien protegido. Voy a tener que cancelar este trabajo.}
 {670}{}{Si... abandonas este trabajo, tendré que... MATARTE.}
 {671}{}{Viéndolo desde ese punto de vista, volveré cuando esté muerto.}
-{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
+{672}{}{Intenta algo, y te unirás a los Mordino masacrados por los Salvatore.}
 {680}{}{Eso he oído. (Se inclina respetuosamente) Lo has hecho... bien. Mi fe en ti no era infundada. Aquí está... tu
  pago. Quinientas... fichas. }
 {681}{}{Gracias.}

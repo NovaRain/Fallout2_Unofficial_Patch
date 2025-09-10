@@ -1,2 +1,2 @@
-{100}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
-{101}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
+{100}{}{Estás usando el parche no oficial de killap para Fallout 2. Versión 1.02.x, ¡Gracias por instalar!}
+{101}{}{Estás usando el parche no oficial de killap para Fallout 2. Versión 1.02.x, ¡Gracias por instalar!}

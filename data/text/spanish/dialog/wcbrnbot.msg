@@ -1,7 +1,7 @@
 {100}{}{Ves un robot cibernético.}
 {101}{}{Una hermosa pieza de ingeniería que rompe el límite entre humanos y robots.}
 {102}{}{Skynet viajará contigo.}
-{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
+{103}{}{Skynet da gracias al humano.                                                      Skynet desea pedir un favor.                                                 Skynet desea viajar con el humano.}
 {104}{}{}
 {105}{}{}
 {106}{}{                              [Este artilugio podría ser útil].}

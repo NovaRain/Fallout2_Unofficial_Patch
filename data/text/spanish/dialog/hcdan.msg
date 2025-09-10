@@ -24,10 +24,10 @@
 {123}{}{Por favor. Por favor. Mi mujer... lo es todo para mí. Por favor.}
 {124}{}{¡He dicho que no!}
 {125}{}{Bien! Bien! Solo deja de molestarme.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
+{126}{}{Aquí tienes el dinero. Ahora por favor, por favor, POR FAVOR... encuentra a mi mujer y dime dónde está. Quizá se haya ido a vivir con otro, quizás me haya dejado... pero necesito saberlo.}
 {127}{}{Vale, amigo. ¿Qué aspecto tiene?}
 {128}{}{Por supuesto. Lo haré lo mejor que pueda.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
+{129}{}{::solloza descontroladamente durante unos momentos:: Muy bien. Vete. Y que sepas que me has roto el corazón.}
 {130}{}{Nos vemos, perdedor.}
 {131}{}{Es rubia, sexy, y tiene la mejor voz para cantar... La última vez que la vi estaba paseándose por esta zona. No le gustan los mutantes ni los necrófagos, por lo que no habrá estado cerca de uno de ellos. Nadie sabe a dónde fue. Ha desaparecido.}
 {132}{}{Eso debería ser suficiente.}
