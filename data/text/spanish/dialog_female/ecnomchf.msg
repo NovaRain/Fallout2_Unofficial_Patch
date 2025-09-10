@@ -21,7 +21,7 @@
 {120}{}{¡Márchate!}
 {121}{}{Déjanos.}
 {122}{}{Somos una tribu pacífica.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
+{200}{}{Ah, un viajero. Lamento no tener un lugar donde puedas resguardarte del interminable calor de esta tierra. Toma un descanso y así podemos conversar.}
 {201}{}{Thank you; I graciously accept your offer.}
 {202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
 {203}{}{I do hope you found what you needed. Anything else?}
