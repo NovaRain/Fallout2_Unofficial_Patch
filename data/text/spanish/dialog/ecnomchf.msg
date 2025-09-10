@@ -22,7 +22,7 @@
 {121}{}{Déjanos.}
 {122}{}{Somos una tribu pacífica.}
 {200}{}{Ah, un viajero. Lamento no tener un lugar donde puedas resguardarte del interminable calor de esta tierra. Toma un descanso y así podemos conversar.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
-{204}{}{Not today. I must be going.}
+{201}{}{Gracias; acepto con gentileza tu oferta.}
+{202}{}{Qué desafortunado. Entonces descansa; eres bienvenido entre nosotros.}
+{203}{}{Espero que hayas encontrado lo que necesitas. ¿Algo más?}
+{204}{}{No hoy. Debo ponerme en marcha.}
