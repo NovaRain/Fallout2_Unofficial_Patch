@@ -27,32 +27,32 @@
 {126}{hak004}{Må din aura pryda min närvaro när du är... Åh, kom till min dörr när du är klar så ska jag ge dig något välgörande.}
 {127}{}{Urgh.}
 {128}{hak005}{Den mörka själens växter har angripit min trädgård igen. Många årstider har berört mina ben och jag är för bräcklig för den kamp som är evig till sin natur. Jag ber att du ska vara min ärekämpe.}
-{129}{}{I don't think so. I need to start my quest right away.}
-{130}{}{I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.}
-{131}{}{Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.}
-{132}{}{I'd be honored, holy one.}
-{133}{}{Did you just ask me to weed your garden? If that's the case, okay.}
+{129}{}{Jag tror inte det. Jag måste påbörja mitt uppdrag direkt.}
+{130}{}{Jag vet att du inte är en ond snubbe, men jag har redan huvudvärk, så jag tror att jag måste avstå.}
+{131}{}{Glöm det. Jag är den framtida ledaren för denna stam och det skulle vara ovärdigt för mig att göra ditt trädgårdsarbete åt dig.}
+{132}{}{Det vore en ära, o helige.}
+{133}{}{Bad du mig just att rensa ogräs i din trädgård? Om så är fallet, okej.}
 {134}{}{För ett pris.}
 {135}{hak006}{Att begära betalning för en gåva kommer att ge dig mindre än gåvan själv. Jag ska ge dig en sådan och lägga till lärdomen om din självbesvikelse vid mottagandet.}
 {136}{}{Det räcker gott och väl. Var är trädgården?}
 {137}{}{Du vet, en trevlig present skulle vara att PRATA SVENSKA!}
 {138}{}{Vad sägs om att jag ger dig en lektion i besvikelse och går nu? Hej då.}
 {139}{}{Om det är din inställning är jag nog inte intresserad. Hejdå.}
-{140}{hak006a}{If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?}
-{141}{}{Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.}
-{142}{}{Let's try the word, "goodbye." It means I'm leaving. }
-{143}{hak007}{Surely you remember it is to the northeast, foolish one.}
+{140}{hak006a}{Om vi säger samma ord, menar vi då samma sak? För ord alltid samma beröring till en själ?}
+{141}{}{Just ja. Mycket bättre. Och läxan jag lärde mig är att hålla tyst och bara fråga var trädgården är.}
+{142}{}{Låt oss prova orden "hej då", som betyder att jag tänker gå. }
+{143}{hak007}{Du minns ju att det är åt nordost, din dåre.}
 {144}{}{Tack för din hjälp.}
-{145}{}{Thanks. I actually understood that.}
-{146}{}{Are you calling me a fool? I don't think I want to help you, after all. }
-{147}{}{I'll be back for my payment soon.}
-{148}{hak008}{The burden you carry now will grow ever heavier.}
-{149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
-{150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
+{145}{}{Tack. Jag förstod faktiskt det där.}
+{146}{}{Kallar du mig en dåre? Jag tror inte att jag vill hjälpa dig, trots allt. }
+{147}{}{Jag kommer tillbaka för min betalning snart.}
+{148}{hak008}{Den börda du bär nu kommer att bli allt tyngre.}
+{149}{hak009}{Må gudarna välsigna dina ansträngningar, Utvalde. Må din aura pryda min närvaro när jorden andas rent igen.}
+{150}{}{Jag antar att du vill träffa mig igen när jag är klar... Du kunde bara ha sagt det, vet du.}
 {151}{}{Farväl.}
-{152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
-{153}{}{Sounds good. I'll be back when I'm done.}
-{154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
+{152}{hak010}{Ha! Grundarens anda lever i dig. Fokusera på att stärka dig själv för att utöka din storhet och göra det möjligt för dig att beröra världen. Naturligtvis kommer belöningarna att vara mer än andens. }
+{153}{}{Det låter bra. Jag kommer tillbaka när jag är klar.}
+{154}{}{Så jag får en riktig sak i betalning. Det låter bra. Syns senare.}
 {155}{}{I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.}
 {156}{hak011}{Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.}
 {157}{}{Ja, just det. Som jag sa, jag måste gå. Hej då.}
