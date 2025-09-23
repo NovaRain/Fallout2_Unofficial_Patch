@@ -26,7 +26,7 @@
 {125}{}{Näe. Duuu. Ge me. Huve ont.}
 {126}{hak004}{Må din aura pryda min närvaro när du är... Åh, kom till min dörr när du är klar så ska jag ge dig något välgörande.}
 {127}{}{Urgh.}
-{128}{hak005}{The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.}
+{128}{hak005}{Den mörka själens växter har angripit min trädgård igen. Många årstider har berört mina ben och jag är för bräcklig för den kamp som är evig till sin natur. Jag ber att du ska vara min ärekämpe.}
 {129}{}{I don't think so. I need to start my quest right away.}
 {130}{}{I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.}
 {131}{}{Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.}
