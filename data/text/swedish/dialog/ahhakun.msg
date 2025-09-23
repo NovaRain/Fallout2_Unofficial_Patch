@@ -2,29 +2,29 @@
 {101}{}{You see Hakunin lying on the ground. He's badly wounded.}
 {102}{}{You see Hakunin. He's very near death.}
 {103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
-{104}{hak001}{Greetings, Chosen. Why does the earth before me warm to the touch of your passing?}
+{104}{hak001}{Var hälsad, utvalde. Varför värms jorden framför mig vid beröringen av din passage?}
 {105}{}{Eh? }
-{106}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{107}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{108}{}{You are doing just way too many drugs. I'm outta here. }
-{109}{}{I'm hurt. Can you heal me?}
-{110}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.}
+{106}{}{Jag har kommit för att säga adjö. Jag ger mig av på mitt heliga uppdrag. }
+{107}{}{Jag är på väg ut. Jag hoppades att du för en gångs skull kunde prata som en riktig person. }
+{108}{}{Du tar alldeles för många droger. Jag sticker härifrån. }
+{109}{}{Jag är skadad. Kan du läka mig?}
+{110}{}{Det fanns några ganska otäcka växter i din trädgård- jag har tagit hand om dem åt dig.}
+{111}{hak001a}{Vänligen avslöja för grumlade ögon syftet med din passage.}
 {112}{}{Eh? }
-{113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{114}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{115}{}{You are doing just way too many drugs. I'm outta here. }
-{116}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{117}{hak002}{The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?}
-{118}{}{Sure. What do you need?}
-{119}{}{It depends... what'll you give me?}
-{120}{hak002a}{The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?}
-{121}{}{Did you just ask me to do you a favor? If so, sure, why not?}
-{122}{}{I'll do something for you, but since I have to work this hard just to understand you, this task will cost.}
-{123}{hak003}{A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?}
+{113}{}{Jag har kommit för att säga adjö. Jag ger mig av på mitt heliga uppdrag. }
+{114}{}{Jag är på väg ut. Jag hoppades att du för en gångs skull kunde prata som en riktig person. }
+{115}{}{Du tar alldeles för många droger. Jag sticker härifrån. }
+{116}{}{Det fanns några ganska otäcka växter i din trädgård- jag har tagit hand om dem åt dig.}
+{117}{hak002}{Jorden sjunger med nyheten om en ärad kämpe i vårt land.... Kanske, innan du går, kan du skänka en vänlighet?}
+{118}{}{Visst. Vad behöver du?}
+{119}{}{Det beror på... Vad tänker du ge mig?}
+{120}{hak002a}{Världens vyer är många - en lektion du snart kommer att lära dig.... Kanske, innan du skördar livets erfarenheter, skulle du skänka en vänlighet?}
+{121}{}{Bad du mig just att göra dig en tjänst? Om så är fallet, varför inte?}
+{122}{}{Jag ska göra något för dig, men eftersom jag måste arbeta så här hårt bara för att förstå dig, kommer den här uppgiften att kosta.}
+{123}{hak003}{En välsignelse över dig, för du är verkligen ett naturens barn. Kan du vara snäll och använda dina speciella talanger och befria min trädgård från den mörka själens växter?}
 {124}{}{Aha. }
-{125}{}{Nuh-uh. Youuu. Giv. Hed hurt.}
-{126}{hak004}{May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.}
+{125}{}{Näe. Duuu. Ge me. Huve ont.}
+{126}{hak004}{Må din aura pryda min närvaro när du är... Åh, kom till min dörr när du är klar så ska jag ge dig något välgörande.}
 {127}{}{Urgh.}
 {128}{hak005}{The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.}
 {129}{}{I don't think so. I need to start my quest right away.}
@@ -32,12 +32,12 @@
 {131}{}{Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.}
 {132}{}{I'd be honored, holy one.}
 {133}{}{Did you just ask me to weed your garden? If that's the case, okay.}
-{134}{}{For a price.}
-{135}{hak006}{To ask payment for a gift will bring you less than the gift itself. I will give you such and add the lesson of your self-disappointment at the receiving.}
-{136}{}{Good enough. Where's the garden?}
-{137}{}{You know, a nice gift would be to SPEAK ENGLISH!}
-{138}{}{What if I give you a lesson in disappointment and leave right now? Bye.}
-{139}{}{Well, if that's your attitude, I don't think I'm interested. Goodbye.}
+{134}{}{För ett pris.}
+{135}{hak006}{Att begära betalning för en gåva kommer att ge dig mindre än gåvan själv. Jag ska ge dig en sådan och lägga till lärdomen om din självbesvikelse vid mottagandet.}
+{136}{}{Det räcker gott och väl. Var är trädgården?}
+{137}{}{Du vet, en trevlig present skulle vara att PRATA SVENSKA!}
+{138}{}{Vad sägs om att jag ger dig en lektion i besvikelse och går nu? Hej då.}
+{139}{}{Om det är din inställning är jag nog inte intresserad. Hejdå.}
 {140}{hak006a}{If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?}
 {141}{}{Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.}
 {142}{}{Let's try the word, "goodbye." It means I'm leaving. }
@@ -76,7 +76,7 @@
 {175}{}{You are wise and kind, Holy One.}
 {176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?}
 {177}{}{Uh, where exactly is your garden?}
-{178}{}{I'm hurt. Can you heal me?}
+{178}{}{Jag är skadad. Kan du läka mig?}
 {179}{}{Oh, nothing. Goodbye.}
 {180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.}
 {181}{}{Tack.}
