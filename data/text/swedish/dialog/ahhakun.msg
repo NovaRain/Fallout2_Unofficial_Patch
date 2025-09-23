@@ -53,8 +53,8 @@
 {152}{hak010}{Ha! Grundarens anda lever i dig. Fokusera på att stärka dig själv för att utöka din storhet och göra det möjligt för dig att beröra världen. Naturligtvis kommer belöningarna att vara mer än andens. }
 {153}{}{Det låter bra. Jag kommer tillbaka när jag är klar.}
 {154}{}{Så jag får en riktig sak i betalning. Det låter bra. Syns senare.}
-{155}{}{I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.}
-{156}{hak011}{Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.}
+{155}{}{Jag tror att du har lekt med växterna alldeles för mycket. För att undvika ditt öde håller jag mig borta från trädgården.}
+{156}{hak011}{Tid kan varken slösas bort eller sparas - den måste alltid vara nu. Det är handlingarna som väver ditt livs tyg.}
 {157}{}{Ja, just det. Som jag sa, jag måste gå. Hej då.}
 {158}{}{Att prata med dig får mig att fundera på idén om att tid inte kan slösas bort. Jag sticker härifrån. }
 {159}{}{Om jag bara hade din visdom, du vise. Förlåt mig - naturligtvis ska jag ta hand om det åt dig.}
@@ -64,16 +64,16 @@
 {163}{}{Mitt huvud värker inifrån när jag lyssnar på dig. Jag är borta.}
 {164}{}{Booka!}
 {165}{hak013}{Rena din själ som du skulle fördriva demoner från min trädgård.}
-{166}{}{It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.}
-{167}{}{You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.}
-{168}{}{I kinda like my soul the way it is. Bye.}
-{169}{}{I'm not worthy. I'll take my leave now.}
-{170}{hak014}{Chosen, once again the wholeness of your being is like a land blessed.}
+{166}{}{Det ska ske, du vise. Jag kommer och söker din förlåtelse efter att jag har renat din trädgård.}
+{167}{}{Du försöker säga att det är bra för mig att rensa ogräs i din trädgård, eller hur? Okej, jag ska ge det ett försök.}
+{168}{}{Jag gillar faktiskt min själ som den är. Hej då.}
+{169}{}{Jag är inte värdig. Jag ska ta min avsked nu.}
+{170}{hak014}{Utvalde, än en gång är helheten av din varelse som ett välsignat land.}
 {171}{}{Tack.}
-{172}{}{You mean I'm better, right?}
-{173}{hak015}{To make one whole instills a sense of fullness that you would be well to understand, Chosen.}
-{174}{}{Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.}
-{175}{}{You are wise and kind, Holy One.}
+{172}{}{Du menar att jag mår bättre, eller hur?}
+{173}{hak015}{Att göra en människa hel ger en uppfyllande känsla som du skulle må bra av att förstå, Utvalde.}
+{174}{}{Vänta, säg det inte. Jag mår bättre och du mådde bra av att göra det, eller hur? Tack för det.}
+{175}{}{Du är vis och vänlig, O Helige.}
 {176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?}
 {177}{}{Uh, where exactly is your garden?}
 {178}{}{Jag är skadad. Kan du läka mig?}
