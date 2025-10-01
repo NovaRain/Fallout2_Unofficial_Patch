@@ -1,8 +1,8 @@
-{100}{}{You see a Khan raider.}
-{101}{}{You see a Khan raider.}
-{102}{}{You see a tough looking person with armor, weapons, and a bad attitude. It must be a Khan.}
-{103}{}{What the... I don't think I know you. Who the hell are you?}
-{104}{}{I got my ID right here! Let me show ya.}
+{100}{}{Du ser en Khan-plundare.}
+{101}{}{Du ser en Khan-plundare.}
+{102}{}{Du ser en tuff person med rustning, vapen och en dålig attityd. Det måste vara en Khan.}
+{103}{}{Vad i...? Jag tror inte att jag känner dig. Vem fan är du?}
+{104}{}{Jag har mitt ID här! Jag ska visa dig.}
 {105}{}{The name's... umm... Pat, and I'm new here.}
 {106}{}{All right, wise-ass. Take your best shot.}
 {107}{}{Oh yeah. Sorry. Didn't recognize you at first. Go on about your business.}
