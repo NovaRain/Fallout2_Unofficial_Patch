@@ -3,15 +3,15 @@
 {102}{}{Du ser en tuff person med rustning, vapen och en dålig attityd. Det måste vara en Khan.}
 {103}{}{Vad i...? Jag tror inte att jag känner dig. Vem fan är du?}
 {104}{}{Jag har mitt ID här! Jag ska visa dig.}
-{105}{}{The name's... umm... Pat, and I'm new here.}
-{106}{}{All right, wise-ass. Take your best shot.}
-{107}{}{Oh yeah. Sorry. Didn't recognize you at first. Go on about your business.}
-{108}{}{Hey, I'm not as stupid as you look.}
-{109}{}{You're not dead yet? Shit.}
-{110}{}{Man, Darion doesn't pay me enough to stand around here and do nothing.}
-{111}{}{Sometimes I sit and think about absolutely nothing.}
-{112}{}{I generally don't care what anyone else thinks.}
-{113}{}{Ignorance is bliss... I think.}
+{105}{}{Jag heter... ehh... Pat, och jag är ny här.}
+{106}{}{Okej, lustigkurre. Gör ett bra försök.}
+{107}{}{Jaha. Jag är ledsen. Kände inte igen dig först. Fortsätt med vad du höll på med.}
+{108}{}{Jag är inte så dum som du ser ut.}
+{109}{}{Är du inte död än? Skit också.}
+{110}{}{Asså, Darion betalar mig inte tillräckligt för att bara stå här och inte göra något.}
+{111}{}{Ibland sitter jag och tänker på absolut ingenting.}
+{112}{}{Jag bryr mig i allmänhet inte om vad någon annan tycker.}
+{113}{}{Okunnighet är lycka... tror jag.}
 {114}{}{When's the next caravan passing through? I could use some action.}
 {115}{}{I could use a break.}
 {116}{}{Damn, I still hurt from that bitch Chrissy kicking me.}
