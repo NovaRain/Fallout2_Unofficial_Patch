@@ -12,9 +12,9 @@
 {111}{}{Ibland sitter jag och tänker på absolut ingenting.}
 {112}{}{Jag bryr mig i allmänhet inte om vad någon annan tycker.}
 {113}{}{Okunnighet är lycka... tror jag.}
-{114}{}{When's the next caravan passing through? I could use some action.}
-{115}{}{I could use a break.}
-{116}{}{Damn, I still hurt from that bitch Chrissy kicking me.}
+{114}{}{När passerar nästa karavan? Jag skulle behöva lite mer spänning.}
+{115}{}{Jag skulle behöva en rast.}
+{116}{}{Fan, jag har fortfarande ont efter att den där slynan Chrissy sparkade mig.}
 {117}{}{Hey, we never get any new blood around here.}
 {118}{}{So when are we going to get out of this stupid place?}
 {119}{}{I don't know about you, but I think this sucks.}
