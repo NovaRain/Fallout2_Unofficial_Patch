@@ -16,20 +16,20 @@
 {115}{}{Jag skulle behöva en rast.}
 {116}{}{Fan, jag har fortfarande ont efter att den där slynan Chrissy sparkade mig.}
 {117}{}{Hey, we never get any new blood around here.}
-{118}{}{So when are we going to get out of this stupid place?}
-{119}{}{I don't know about you, but I think this sucks.}
-{120}{}{There ain't nothin' to kill around here.}
-{121}{}{Where's the damn bathroom?}
-{122}{}{Hey, we never get a break around here. Isn't there some law or something?}
-{123}{}{We should start up a government like in the old days.}
-{124}{}{Man, I wonder what it was like to be President back then?}
-{125}{}{I bet you could do anything you wanted if you were President.}
-{126}{}{I think my father would be proud of me today. Too bad I killed him.}
-{127}{}{I HATE RATS! HATE HATE HATE!}
-{128}{}{Hey, is that new armor you have on? How do you rate getting new armor?}
-{129}{}{This damn vault smells. Don't you hate it?}
-{130}{}{Hey, who is it we're supposed to be keeping an eye open for?}
-{131}{}{All I do is stand, stand, stand.}
+{118}{}{När ska vi dra iväg från det här dumma stället?}
+{119}{}{Jag vet inte vad du tycker, men jag tycker att det här suger.}
+{120}{}{De' e ju inge' att döda härikring.}
+{121}{}{Var fan är toaletten?}
+{122}{}{Vi får aldrig nån rast här. Finns det ingen lag eller nåt?}
+{123}{}{Vi borde starta en regering som förr i tiden.}
+{124}{}{Asså, jag undrar hur det var att vara president på den tiden?}
+{125}{}{Jag slår vad om att du skulle kunna göra vad du ville om du var president.}
+{126}{}{Jag tror att min pappa skulle vara stolt över mig idag. Synd att jag dödade honom.}
+{127}{}{JAG HATAR RÅTTOR! HATAR HATAR HATAR!}
+{128}{}{Är det ny rustning du har på dig? Vad tycker du om att ha ny rustning?}
+{129}{}{Det här jäkla valvet stinker. Visst hatar du det?}
+{130}{}{Hörru, vem är det vi ska hålla ögonen öppna efter?}
+{131}{}{Allt jag gör är att stå, stå, stå.}
 {132}{}{I think we should just waste everyone upstairs and say to hell with this place.}
 {133}{}{What the hell is your problem with rats?}
 {134}{}{Have you ever pulled one of the legs off of a rat?}
