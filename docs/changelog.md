@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 34](#version-34)
 - [Version 33](#version-33)
 - [Version 32](#version-32)
 - [Version 30](#version-30)
@@ -63,6 +64,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Russian
   - `font2.aaf`: [fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/160) small `а` and `ы`, added small `ё`.
   - `invbox.frm` to be more in line with the vanilla style.
+  - Premade characters text formatting optimized.
 - Added subtitles for `tanker.mve`.
 - Localized splash screens are no longer missing on game start.
 
