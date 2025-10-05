@@ -37,9 +37,34 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
-### Version 34 (WIP)
+### Version 34
+
+#### General
+
+- Removed glass glare from `use.frm`/`use_e.frm`. Now they look the same as all other interfaces that have the inventory list and character portrait.
+- Installation will work properly when empty `mods_order.txt` [exists](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/347).
+- The installer will also set correct language for sfall messages in `ddraw.ini`, if a translation for the selected language is available.
+- Sfall updated to 4.4.7.
+
+#### Locations
+
 - Arroyo
   - It is now [possible](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/157) to complete Nagor/Smoke quest up until the last Hakunin dream.
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/349) PC response to aunt Morlis after convincing her to give the flint to be more appropriate.
+- San Francisco
+  - Patched up map borders for dock.
+
+#### Localizations
+
+- Polish
+  - Fixed formatting in `pipboy.msg`.
+- Portuguese
+  - Improved the character screen.
+- Russian
+  - `font2.aaf`: [fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/160) small `а` and `ы`, added small `ё`.
+  - `invbox.frm` to be more in line with the vanilla style.
+- Added subtitles for `tanker.mve`.
+- Localized splash screens are no longer missing on game start.
 
 ### Version 33
 
