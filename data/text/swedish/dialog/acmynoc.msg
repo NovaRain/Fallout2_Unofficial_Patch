@@ -17,8 +17,8 @@
 {160}{}{Vad kan du berätta om det här föremålet jag har från
  ett valv?}
 {161}{}{Inget, glöm det.}
-{162}{}{Very well, but don't waste too much time. Without the GECK,
- we're doomed.}
+{162}{}{Nå väl, men slösa inte för mycket tid. Utan GECK,
+ är vi dödsdömda.}
 {163}{}{Jag vet, oroa dig inte -- Jag har allt under kontroll.}
 {164}{}{Varför?}
 {165}{}{Jag måste gå nu. Hej då.}
@@ -92,21 +92,21 @@
 {302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
  ill-tempered I don't think anyone's asked her. Of course, the witch will want
  something in return.}
-{303}{}{Thanks. Goodbye.}
+{303}{}{Tack. Hej då.}
 {304}{}{Did you talk your aunt out of her flint?}
-{305}{}{Yes, I have some right here.}
-{306}{}{Not yet.}
-{307}{}{It's a good piece. Give me your spear.}
+{305}{}{Ja, jag har lite här.}
+{306}{}{Inte än.}
+{307}{}{Det är en bra bit. Ge mig ditt spjut.}
 {308}{}{Varsågod.}
-{309}{}{I guess I don't have one.}
-{310}{}{Now, you put the pieces like so...}
-{311}{}{The Chosen One without a spear? Well, you'll have to take one of
- mine. Now, let's get to work...}
-{312}{}{Here is your new spear.}
-{313}{}{Thank you, my friend -- this will help a lot.}
-{314}{}{Yes, but I was wondering about your spear. It looks a little
- different.}
-{400}{}{Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?}
+{309}{}{Jag antar att jag inte har någon.}
+{310}{}{Nu sätter du ihop delarna så här...}
+{311}{}{Den Utvalde utan spjut? Tja, du får ta ett av
+ mina. Låt oss nu sätta igång...}
+{312}{}{Här är ditt nya spjut.}
+{313}{}{Tack, min vän -- det här kommer att hjälpa mycket.}
+{314}{}{Ja, men jag undrade över ditt spjut. Det ser lite
+ annorlunda ut.}
+{400}{}{Välkommen hem, Utvalde! Hittade du valvet? Har du återvänt med GECK?}
 {401}{}{Me not find yet.}
 {402}{}{No, I haven't found it yet.}
 {403}{}{I'm not in the mood for your questions. Goodbye.}

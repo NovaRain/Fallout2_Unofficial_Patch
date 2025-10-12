@@ -57,7 +57,7 @@
 {156}{}{Raiders?}
 {157}{}{About those Raiders...}
 {158}{}{Can I ask you some questions?}
-{159}{}{Thanks. Goodbye.}
+{159}{}{Tack. Hej då.}
 {160}{}{Permission to speak freely, sir.}
 {161}{}{Granted.}
 {162}{}{No. I had some other questions for you, first.}
@@ -100,7 +100,7 @@
 {199}{}{Can I ask you something else?}
 {200}{}{But I am a Citizen.}
 {201}{}{How do you become a citizen?}
-{202}{}{Thanks. Goodbye.}
+{202}{}{Tack. Hej då.}
 {203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
 {204}{}{Here's my papers. I think you'll find everything in order.}
 {205}{}{Uh, never mind. I had some other questions...}
