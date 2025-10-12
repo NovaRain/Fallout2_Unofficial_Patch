@@ -32,9 +32,9 @@
 {128}{}{I've passed the test. Of course, I'm ready.}
 {129}{}{I need to think about this.}
 {130}{}{I'm not going to get myself killed!}
-{131}{aeld7}{Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader
- from Klamath, brought us the flask from the holy Thirteen. Start your search with him.
- The disk will remind you of your task. May the gods of the Vault watch over you.}
+{131}{aeld7}{Lyssna noga. Hitta det heliga Valv 13 och ta tillbaka GECK. Vic, handlaren
+ från Klamath, gav oss flaskan från det heliga Tretton. Börja din sökning hos honom.
+ Disken kommer att påminna dig om din uppgift. Må Valvets gudar vaka över dig.}
 {133}{}{Before I go, I have some questions.}
 {134}{}{Goodbye. I will not fail the tribe.}
 {135}{aeld8}{Very well. See me when you decide - but do not wait too long.}
@@ -52,8 +52,8 @@
 {146}{aeld11}{Klamath is to the east.}
 {147}{}{There are other things I would learn.}
 {148}{}{I am ready. Goodbye.}
-{149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
- the sound of a perilous journey. }
+{149}{aeld12}{Det heliga Tretton? Jag kan inte hjälpa dig. Bara Valvinvånaren visste. Hans berättelser har
+ toner av en farofylld resa.}
 {150}{}{I see. There is much I need to know.}
 {151}{}{Goodbye, Elder.}
 {152}{aeld13}{Being a coward will kill us all! Including you. You passed
@@ -75,41 +75,41 @@
  haven't completed your quest to find the holy Thirteen. Please, let's not waste time
  talking. The need of our people is great. Go find the Vault!}
 {165}{}{Jag gå nu.}
-{166}{}{All right, I'm going.}
-{167}{}{I will not fail you elder.}
-{168}{}{I'm working on it, Ok?}
-{169}{aeld18}{Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
- need becomes greater with the passage of time. Go find the holy Thirteen!}
-{170}{}{Ok, me go now.}
-{171}{}{Yes, Elder.}
-{172}{}{I will not fail you or our people, Elder.}
-{173}{}{Look. If you think you can do better... }
-{174}{aeld19}{Chosen One, things are not well here. We need the GECK if our village is to
- survive. Our people grow weak with hunger and our food reserves will not last much
- longer. Please, find the holy Thirteen and return to us. Go now.}
+{166}{}{Okej, jag går nu.}
+{167}{}{Jag kommer inte att svika dig, äldste.}
+{168}{}{Jag jobbar på det, Ok?}
+{169}{aeld18}{Ännu en gång återvänder ni utan GECK. Våra grödor börjar svika oss, Utvalde. Vårt
+ behov blir större med tidens gång. Gå och hitta den heliga Tretton!}
+{170}{}{Okej, jag gå nu.}
+{171}{}{Ja, Äldste.}
+{172}{}{Jag kommer inte att svika dig eller vårt folk, Äldste.}
+{173}{}{Hörru. Om du tror att du kan göra det bättre... }
+{174}{aeld19}{Utvalde, saker och ting är inte bra här. Vi behöver GECK om vår by ska kunna
+ överleva. Vårt folk blir svaga av hunger och våra matreserver räcker inte mycket
+ längre. Snälla, hitta det heliga Tretton och återvänd till oss. Gå nu.}
 {175}{}{Jag gå.}
-{176}{}{Very well. I'm on my way.}
-{177}{}{I will do my best to find the GECK and save our village.}
+{176}{}{Javisst. Jag är på väg.}
+{177}{}{Jag ska göra mitt bästa för att hitta GECK och rädda vår by.}
 {178}{}{Don't push me, old woman. I'm doing my best.}
 {179}{aeld20}{Child, our need is greater than ever before. Our people sicken, the brahmin
  are dying, and our food is all but gone. The blight of the land can only be cured with
  the GECK. Go, find the GECK and save our people.}
 {180}{}{Ja' förstå.}
-{181}{}{I'm on my way.}
-{182}{}{Forgive me Elder. I will find the GECK without delay.}
-{183}{}{Yeah, yeah. You're beginning to sound like a broken disk...}
-{200}{eeld1}{Chosen One! How did you get here?}
-{201}{}{Uhh... duh?}
-{202}{}{I've come to rescue you.}
-{203}{}{What the hell's going on here?}
-{204}{eeld2}{You monster! Have you come to kill me, too?}
+{181}{}{Jag är på väg.}
+{182}{}{Förlåt mig, Äldste. Jag ska hitta GECK utan dröjsmål.}
+{183}{}{Ja, ja. Du börjar låta som en trasig disk...}
+{200}{eeld1}{Utvalde! Hur kom du hit?}
+{201}{}{Ehh... öh?}
+{202}{}{Jag har kommit för att rädda dig.}
+{203}{}{Vad i helvete är på gång här?}
+{204}{eeld2}{Ditt monster! Har du kommit för att döda mig också?}
 {205}{}{Ehhh?}
-{206}{}{No, it's me, the Chosen One!}
-{207}{}{Oh, shut up, you old bitch! It's me, your Chosen One.}
-{208}{eeld3}{Oh, gods... Listen - go down. Find machine that makes power. Kill machine. Kill bad men. Kill everybody! You kill, we go home. Also, if you not have GECK then look for GECK here. Must have GECK to save village! Freedom is nothing without home to return to. Understand? Oh, gods.}
-{209}{}{Uh -huh!}
-{210}{eeld4}{Careful, do not touch the glow wall. I think the machine that feeds it is beneath us. Destroy it so we may escape. How did you get here?}
-{211}{}{I have a ship. }
+{206}{}{Nej, det är jag, den Utvalde!}
+{207}{}{Håll käften, din gamla kärring! Det är jag, din Utvalde.}
+{208}{eeld3}{Åh, gudar... Lyssna - gå ner. Hitta maskin som gör ström. Döda maskinen. Döda onda män. Döda allihop! Du dödar, vi går hem. Och om inte du ha GECK, leta efter GECK här. Måste ha GECK för att rädda by! Frihet är ingenting utan hem att återvända till. Förstått? Åh, gudar.}
+{209}{}{A-ha!}
+{210}{eeld4}{Försiktigt, rör inte glödväggen. Jag tror att maskinen som matar den är under oss. Förstör den så att vi kan fly. Hur kom du hit?}
+{211}{}{Jag har ett skepp. }
 {212}{eeld5}{Men came to our village in flying machines and took us. There were others, too - from the holy Thirteen! I thought we were saved. I thought we were going to heaven. (sigh)}
 {213}{}{And then?}
 {214}{eeld5a}{Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!

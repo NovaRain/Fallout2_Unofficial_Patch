@@ -132,8 +132,8 @@
 {419}{}{No, me still look.}
 {420}{}{No, I'm still looking.}
 {421}{}{How are things?}
-{422}{}{I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
- our people are in your hands. Please find the holy Thirteen and return to us with the GECK!}
+{422}{}{Jag är ledsen, Utvalde, men jag börjar tvivla på mitt förtroende för dig. Självaste livet för
+ vårt folk ligger i dina händer. Snälla, hitta det heliga Tretton och återvänd till oss med GECK!}
 {423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
  allow no one any sleep. We are becoming a desperate people.}
 {424}{}{Me continue look.}
