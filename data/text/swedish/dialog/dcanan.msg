@@ -12,16 +12,16 @@
 {111}{}{Du föddes med ett hjärta som var 12 storlekar för litet.}
 {112}{}{Nej, min vän, en MUMIE! Direkt från sanden i forntida Egypten till sanden i Ödemarken! Exklusivt för dig att se!}
 {113}{}{Okej, jag nappar. Hur mycket för att se det förvridna liket?}
-{114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
-{115}{}{I've seen enough corpses already. Goodbye.}
-{116}{}{Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.}
-{117}{}{Come back to learn of the Great Ananias' mysteries of the Netherworld have you?}
-{118}{}{What kind of mysteries?}
-{119}{}{Uh, nice to meet you Mr. Great Anus... something.}
-{120}{}{Hmm, mysteries make me sleep uneasily, I better go. Goodbye.}
-{121}{}{Step right up!}
-{127}{}{Today, in the room within, I have, for your eyes exclusively... A Jan-u-wine Egyptian Mummy!}
-{128}{}{A mummy?}
+{114}{}{(för dig själv) Hmm, En mumie skulle på sätt och vis beskriva hur en ghul ser ut. OK, jag skulle vilja ta en titt -- hur mycket?}
+{115}{}{Jag har redan sett tillräckligt med lik. Adjö.}
+{116}{}{Hallå, välkomen, hälsningar! Jag är den store Ananias (han ger dig en lätt bugning, med en viftning). Jag för med mig mysterier från nära och fjärran, min vän. Mysterier från en värld bortom vår egen... från Underjorden.}
+{117}{}{Har du kommit tillbaka för att lära dig mer om den stora Ananias mysterier från Underjorden?}
+{118}{}{Vilken typ av mysterier?}
+{119}{}{Eh, trevligt att träffas, herr Stora Anus... någonting.}
+{120}{}{Hmm, mysterier får mig att sova oroligt. Bäst att jag går. Hej då.}
+{121}{}{Stig fram!}
+{127}{}{Idag, i rummet innanför, har jag, för era ögon exklusivt... En e-ku-ta Egyptisk Mumie!}
+{128}{}{En mumie?}
 {129}{}{A mummy? Hmm, I wonder if it could be.... No, nobody could be that stupid.}
 {130}{}{I don't have any interest in that sort of thing. Corpses scare me.}
 {131}{}{Out of the way, you're blocking paying customers.}
