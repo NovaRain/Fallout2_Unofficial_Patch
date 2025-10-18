@@ -54,7 +54,7 @@
 {150}{}{Jag förstår.}
 {151}{}{Where's that?}
 {152}{}{Northeast corner of the base, friend. Can't miss it.}
-{153}{}{Okay. Thanks.}
+{153}{}{Okej. Tack.}
 {156}{}{I'm surprised ya don't know, ya must be a local, I guess. Anyway, main base's in the middle of the goddamned
  ocean. Well, not smack ass in the middle, but it might as well be. Only way to get there is by ship or vertibird
  and the damn ship's been tinkered with. Ya need a fob to operate the damn thing.}

@@ -99,30 +99,30 @@
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
 {199}{}{See ya.}
 {200}{}{I'm betting you carry your audience with you wherever you go. Be well.}
-{201}{hak022}{Look to the north, Chosen, and the way will be open.}
-{202}{}{Okay. Thanks.}
-{203}{hak023}{I am honored to serve the Chosen.}
-{204}{hak024}{Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.}
-{205}{}{Oh. Thanks}
+{201}{hak022}{Titta norrut, Utvalde, och vägen kommer att vara öppen.}
+{202}{}{Okej. Tack.}
+{203}{hak023}{Jag är ärad att få tjäna den Utvalde.}
+{204}{hak024}{Sådant är livet. Två skapar en tredje. Du behöver både xanderrot och brokblomma för det helande pulvret.}
+{205}{}{Åh. Tack}
 {206}{}{Bajs.}
-{207}{hak025}{May this be of no use.}
-{208}{}{Okay. Thanks.}
+{207}{hak025}{Må detta vara utan nytta.}
+{208}{}{Okej. Tack.}
 {209}{}{Uh!}
-{210}{hak026}{You are well.}
+{210}{hak026}{Du mår bra.}
 {211}{}{Tack.}
-{212}{}{No lessons? No incomprehensible speeches? You sure you're okay?}
-{213}{hak027}{Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.}
+{212}{}{Inga lektioner? Inga obegripliga tal? Är du säker på att du är okej?}
+{213}{hak027}{Välkommen, Utvalde. Välsigna oss med ord om att GECK kommer att hittas snart. Vår by lider, vårt behov är stort, vår tid, kort.}
 {214}{}{Nä.}
-{215}{}{And your ability to speak normally, non-existent. I'm still trying.}
-{216}{}{I'm on it. }
-{217}{}{Get off my back, old man. I'm doing the best I can.}
-{218}{}{I'm still looking, holy one. I hope to have the GECK soon.}
-{219}{hak028a}{May the Earth cushion the steps you must take.}
-{220}{hak028b}{May the Waters soothe your journey.}
-{221}{hak028c}{May the Wind guide you to your goal.}
-{222}{hak028d}{May the Fire toast your bottom until you get this done.}
+{215}{}{Och din förmåga att tala normalt, obefintlig. Jag försöker fortfarande.}
+{216}{}{Jag jobbar på det. }
+{217}{}{Låt mig vara, gamla gubbe. Jag gör så gott jag kan.}
+{218}{}{Jag letar fortfarande, helige. Jag hoppas ha GECK snart.}
+{219}{hak028a}{Må Jorden dämpa stegen du måste ta.}
+{220}{hak028b}{Må Vattnet lugna din resa.}
+{221}{hak028c}{Må Vinden leda dig till ditt mål.}
+{222}{hak028d}{Må Elden bränna din rumpa tills du får det här gjort.}
 {223}{}{Tack.}
-{224}{}{Say what?!}
+{224}{}{Vad sa du?!}
 {225}{}{Eh.}
 {226}{}{Va?!}
 {227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}

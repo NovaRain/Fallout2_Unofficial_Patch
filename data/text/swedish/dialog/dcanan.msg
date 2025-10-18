@@ -1,17 +1,17 @@
-{100}{}{You see a short man with a thick mustache.}
-{101}{}{You see the Great Ananias.}
-{102}{}{You see a short, mustachioed, man with a somewhat furtive look to him.}
-{103}{}{You! What do you want to do to the, formerly, Great Ananias now?}
+{100}{}{Du ser en kort man med en tjock mustasch.}
+{101}{}{Du ser den store Ananias.}
+{102}{}{Du ser en kortväxt, mustaschprydd man med ett lite lömskt utseende.}
+{103}{}{Du där! Vad vill du göra med den, tidigare, store Ananias nu?}
 {104}{}{Försvinn från mig!}
-{105}{}{Go ruin someone else's business.}
-{106}{}{Take it out on someone else.}
-{107}{}{You've already done your worst to me.}
-{108}{}{Just go away, you've done enough harm to me.}
-{109}{}{I'm so hungry.}
-{110}{}{How will I ever feed my family now?}
-{111}{}{You were born with a heart 12 sizes too small.}
-{112}{}{No, my friend, a MUMMY! Straight from the sands of ancient Egypt to the sands of the Wastes! Exclusively for you to see!}
-{113}{}{OK, I'll bite. How much to see the wizened corpse?}
+{105}{}{Gå och förstör någon annans affärer.}
+{106}{}{Låt det gå ut över någon annan.}
+{107}{}{Du har redan gjort ditt värsta mot mig.}
+{108}{}{Försvinn bara, du har gjort mig tillräckligt illa.}
+{109}{}{Jag är så hungrig.}
+{110}{}{Hur ska jag någonsin kunna föda min familj nu?}
+{111}{}{Du föddes med ett hjärta som var 12 storlekar för litet.}
+{112}{}{Nej, min vän, en MUMIE! Direkt från sanden i forntida Egypten till sanden i Ödemarken! Exklusivt för dig att se!}
+{113}{}{Okej, jag nappar. Hur mycket för att se det förvridna liket?}
 {114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
 {115}{}{I've seen enough corpses already. Goodbye.}
 {116}{}{Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.}
@@ -45,12 +45,12 @@
 {149}{}{I assure you that the Mummy is, in fact, quite jan-u-wine.}
 {150}{}{I don't think I believe you. Let me try something. WOODY! Hey WOODY! Is that you?}
 {151}{}{Well, if you say so. But I sure think it looks like an ordinary ghoul. Goodbye.}
-{152}{}{(Woody--for it is in fact Woody, not a Mummy, that stands somewhat drowsily before you--grabs the sides of the
- paper-
-mache sarcophagus, lets out a shriek and runs for the door, leaving a trail of toilet-paper 'mummy-wrappings'
- and a hasty "Thankee kindly, Stranger!" behind him.)}
-{153}{}{Hah! I knew it! You're finished in this town. You're not the Great Ananias anymore, you're just another ass.}
-{154}{}{Go Woody go! Ahah! I knew it!}
+{152}{}{(Woody--för det är faktiskt Woody, inte en Mumie, som står lite sömnig framför dig--tar tag i sidorna på
+ Papier-
+maché-sarkofagen, ger ifrån sig ett skrik och springer mot dörren, efterlämnande ett spår av toalettpapper 'mumie-omslag'
+ och et hastigt "Tak så micke', Fr'mling!" efter sig.)}
+{153}{}{Hah! Jag visste det! Det är slut med dig i den här stan. Du är inte den store Ananias längre, du är bara ännu en skitstövel.}
+{154}{}{Heja Woody! Ahah! Jag visste det!}
 {155}{}{(The Great Ananias shrugs) I knew I should have picked up that mono-headed Brahmin instead. Oh well, back to the drawing board.}
 {156}{}{Mono-headed brahmin? Sure, who would ever believe that! Goodbye, you Charlatan.}
 {157}{}{You woke up Woody the ghoul and freed him from indentured mummy-tude.}
