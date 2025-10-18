@@ -45,7 +45,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Removed glass glare from `use.frm`/`use_e.frm`. Now they look the same as all other interfaces that have the inventory list and character portrait.
 - Installation will work properly when empty `mods_order.txt` [exists](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/347).
 - The installer will also set correct language for sfall messages in `ddraw.ini`, if a translation for the selected language is available.
-- Sfall updated to 4.4.7.
+- Sfall updated to 4.4.8.
 
 #### Locations
 
