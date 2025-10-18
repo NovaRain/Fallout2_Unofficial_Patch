@@ -22,39 +22,39 @@
 {121}{}{Stig fram!}
 {127}{}{Idag, i rummet innanför, har jag, för era ögon exklusivt... En e-ku-ta Egyptisk Mumie!}
 {128}{}{En mumie?}
-{129}{}{A mummy? Hmm, I wonder if it could be.... No, nobody could be that stupid.}
-{130}{}{I don't have any interest in that sort of thing. Corpses scare me.}
-{131}{}{Out of the way, you're blocking paying customers.}
-{132}{}{I don't think this is for you.}
+{129}{}{En mumie? Hmm, jag undrar om det kan vara.... Nej, ingen kan vara så dum.}
+{130}{}{Jag är inte intresserad av sånt. Lik skrämmer mig.}
+{131}{}{Ur vägen, du blockerar betalande kunder.}
+{132}{}{Jag tror inte att det här är något för dig.}
 {133}{}{Why don't you take your little tribal self elsewhere.}
-{134}{}{This isn't really for you.}
-{135}{}{I see, hmmm, how about GO (he points) AWAY!}
-{136}{}{For a person of your obvious class I would be happy to show this unique, and historic, specimen to you for a mere $25.}
-{137}{}{OK, I'll cough up the dough. Now... Show Me The Mummy!}
-{138}{}{I don't want to spend that much. I think I'll survive without seeing the thing. Goodbye.}
-{139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
+{134}{}{Det här är inte riktigt för dig.}
+{135}{}{Jag förstår, hmmm, vad sägs om GÅ (han pekar) HÄRIFRÅN!}
+{136}{}{För en person av din uppenbara klass skulle jag gärna visa detta unika och historiska exemplar för dig för bara $25.}
+{137}{}{Okej, jag hostar upp degen. Nu... Visa mig mumien!}
+{138}{}{Jag vill inte spendera så mycket. Jag tror att jag överlever utan att se den. Hej då.}
+{139}{}{Öppna helt enkelt sarkofaglocket och den magnifika Mumien kommer att avslöjas i all sin antika prakt för dig. Men snälla, rör inte vid den och, eh, fotografera inte med blixt.}
 {140}{}{Utmärkt.}
-{141}{}{There you go! The MUMMY! (the door to the sarcophagus swings open to reveal a desiccated corpse, that looks very much like an ordinary ghoul, standing in a poorly painted, chipped and cracked paper-mache sarcophagus.)}
-{142}{}{There you go! Presenting, the MUMMY! (a crypt-like door swings open to reveal a jan-u-wine Egyptian mummy standing in an open sarcophagus that looks as though it's made out of pure gold!)}
-{143}{}{Hey, wait a minute. That's not a Mummy. That's a ghoul. WOODY! Hey WOODY! Is that you?}
-{144}{}{That sure looks like a ghoul to me.}
-{145}{}{That's a mummy? I can't believe I just paid $25 to see a six-foot hunk of jerky. Goodbye.}
-{146}{}{Wow, that's fantastic... I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
-{147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
-{148}{}{Holy shit! That *is* Woody! Run Woody, run for it! Well, uh, gimp for it then! Go Woody go!}
-{149}{}{I assure you that the Mummy is, in fact, quite jan-u-wine.}
-{150}{}{I don't think I believe you. Let me try something. WOODY! Hey WOODY! Is that you?}
-{151}{}{Well, if you say so. But I sure think it looks like an ordinary ghoul. Goodbye.}
+{141}{}{Så där ja! MUMIEN! (dörren till sarkofagen svängs upp och avslöjar ett uttorkat lik, som ser mycket ut som en vanlig ghul, som står i en dåligt målad, flisig och sprucken sarkofag av papier-maché).}
+{142}{}{Så där ja! Presenterar, MUMIEN! (en kryptliknande dörr svängs upp och avslöjar en e-ku-ta egyptisk mumie som står i en öppen sarkofag som ser ut att vara gjord av rent guld!)}
+{143}{}{Hallå, vänta lite. Det är inte en mumie. Det är en ghul. WOODY! Hej WOODY! Är det du?}
+{144}{}{Jag tycker att det verkligen ser ut som en ghul.}
+{145}{}{Är det där en mumie? Jag kan inte fatta att jag betalade $25 för att se en 1,80 meter lång bit torkat kött. Adjö.}
+{146}{}{Wow, det där är fantastiskt... antar jag. (du tittar på mumien mycket intensivt en stund). Eh, tack, Hej då.}
+{147}{}{(Mumien fnyser, sträcker sig slött och tittar sedan på dig med en sömnig blinkning i ögonen) Hej. (säger han sömnigt)}
+{148}{}{Herrejävlar! Det *är* Woody! Spring Woody, spring iväg! Hm, eh, stappla iväg istället! Heja Woody!}
+{149}{}{Jag försäkrar er att Mumien faktiskt är riktigt e-ku-ta.}
+{150}{}{Jag tror inte att jag tror på dig. Låt mig försöka med något. WOODY! Hej WOODY! Är det du?}
+{151}{}{Ja, om du säger det. Men jag tycker verkligen att den ser ut som en vanlig ghul. Adjö.}
 {152}{}{(Woody--för det är faktiskt Woody, inte en Mumie, som står lite sömnig framför dig--tar tag i sidorna på
  Papier-
 maché-sarkofagen, ger ifrån sig ett skrik och springer mot dörren, efterlämnande ett spår av toalettpapper 'mumie-omslag'
  och et hastigt "Tak så micke', Fr'mling!" efter sig.)}
 {153}{}{Hah! Jag visste det! Det är slut med dig i den här stan. Du är inte den store Ananias längre, du är bara ännu en skitstövel.}
 {154}{}{Heja Woody! Ahah! Jag visste det!}
-{155}{}{(The Great Ananias shrugs) I knew I should have picked up that mono-headed Brahmin instead. Oh well, back to the drawing board.}
-{156}{}{Mono-headed brahmin? Sure, who would ever believe that! Goodbye, you Charlatan.}
-{157}{}{You woke up Woody the ghoul and freed him from indentured mummy-tude.}
-{158}{}{I think I'd rather hear the ghost story.}
+{155}{}{(Den store Ananias rycker på axlarna) Jag visste att jag borde ha valt den där enhövdade brahminen istället. Nåja, tillbaka till ritbordet.}
+{156}{}{Enhövdad brahmin? Visst, vem skulle någonsin tro det! Adjö, din lurendrejare.}
+{157}{}{Du väckte ghulen Woody och befriade honom från obetald mumie-tjänst.}
+{158}{}{Jag tror att jag hellre vill höra spökhistorien.}
 {200}{}{I know things that mere mortal man is not meant to know. Aiiieeee! Nyarloth... Oh, sorry (heh, heh). Got a little carried away
  there for a moment. I have tales of a Ghost that haunts these very grounds, as well as a Jan-u-wine Egypt-ee-an Mummy that you
  can see, right here in this marvelous sarcophagus.}
