@@ -23,8 +23,8 @@
 {120}{}{Sai!}
 {121}{}{Deixe-nos.}
 {122}{}{Somos uma tribo pacífica.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
+{200}{}{Ah, um viajante. Desculpe-me por não termos uma tenda para que você possa se abrigar da sombra desta terra que faz um calor infernal. Descanse um momento para que possamos conversar depois.}
+{201}{}{Obrigado; Aceito generosamente sua oferta.}
+{202}{}{Que pena. Então descanse um pouco; você é bem vindo entre nós.}
+{203}{}{Espero que você encontre o que está procurando. Precisa de mais alguma coisa?}
 {204}{}{Not today. I must be going.}
