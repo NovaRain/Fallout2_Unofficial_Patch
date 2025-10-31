@@ -75,27 +75,27 @@
 {174}{}{Vänta, säg det inte. Jag mår bättre och du mådde bra av att göra det, eller hur? Tack för det.}
 {175}{}{Du är vis och vänlig, O Helige.}
 {176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?}
-{177}{}{Uh, where exactly is your garden?}
+{177}{}{Eh, var exakt ligger din trädgård?}
 {178}{}{Jag är skadad. Kan du läka mig?}
-{179}{}{Oh, nothing. Goodbye.}
+{179}{}{Åh, ingenting. Hej då.}
 {180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.}
 {181}{}{Tack.}
-{182}{hak018a}{And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. }
-{183}{}{Where can I find these things?}
+{182}{hak018a}{Och dessutom kommer jag att blanda brocblomman med xanderroten när du ger mig båda. Må dina vägar gå rätt fram och ditt hjärta följa därefter. }
+{183}{}{Var kan jag hitta dessa saker?}
 {184}{}{Tack.}
-{185}{}{I'm almost sorry to go. I can just about understand you now. Bye.}
-{186}{hak019}{Ah, Chosen, my garden is well- how is yours?}
-{187}{}{I'm all right.}
-{188}{}{I need healing.}
-{189}{}{Where did you say the plants were?}
-{190}{}{I don't have a garden- what the hell are you talking about this time?}
-{191}{}{I'd like you to make some healing powder for me.}
-{192}{}{Oh, never mind. I've got to go.}
+{185}{}{Jag är nästan ledsen att jag måste gå. Jag kan nästan förstå dig nu. Hej då.}
+{186}{hak019}{Åh, Utvalde, min trädgård är välskött- hur är din?}
+{187}{}{Jag mår bra.}
+{188}{}{Jag behöver läkning.}
+{189}{}{Var sa du att växterna var?}
+{190}{}{Jag har ingen trädgård- vad i helvete pratar du om den här gången?}
+{191}{}{Jag vill att du gör lite läkande pulver åt mig.}
+{192}{}{Åh, glöm det. Jag måste gå.}
 {193}{}{Aj?}
-{194}{}{Ooog! Bak!}
-{195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
+{194}{}{Fnys! Bårt!}
+{195}{hak020}{Njutningen av dessa ord fyller mig. Ack, gudarna viskar för mitt öra. Adjö.}
 {196}{}{Hej då.}
-{197}{}{Still mixing the herbs, huh? See you later.}
+{197}{}{Du blandar fortfarande örterna, va? Vi ses senare.}
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
 {199}{}{See ya.}
 {200}{}{I'm betting you carry your audience with you wherever you go. Be well.}

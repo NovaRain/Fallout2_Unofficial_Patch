@@ -30,7 +30,7 @@
 {125}{}{Our air purifier's broken. It's on the bottom level. We've got no parts, and we've got no
  protective equipment. Without the parts, we can't fix it. Without the protection, the radon gas'll nail us. Are you any
  good with your hands?}
-{126}{}{I'm all right.}
+{126}{}{Jag mår bra.}
 {127}{}{No. Not really.}
 {128}{}{You again, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
