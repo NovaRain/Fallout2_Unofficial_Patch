@@ -71,7 +71,7 @@
 {155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and
  look for Renesco. He's got tools just lying around his office. He should be able to help you with the
  parts.}
-{156}{}{See ya.}
+{156}{}{Vi ses.}
 {157}{}{Sorry. That's the limit. Take it or leave it.}
 {158}{}{I'll take it.}
 {159}{}{I'll leave it.}
