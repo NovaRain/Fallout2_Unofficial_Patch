@@ -5,9 +5,9 @@
 #define version "v0"
 
 [Setup]
-AppName=Fallout 2 Unofficial Patch
-AppVerName=Fallout 2 Unofficial Patch 1.02.{#version}
-AppId=Fallout 2 Unofficial Patch
+AppName=Fallout 2 Unofficial Patch, updated
+AppVerName=Fallout 2 Unofficial Patch, updated 1.02.{#version}
+AppId=Fallout 2 Unofficial Patch, updated
 AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
