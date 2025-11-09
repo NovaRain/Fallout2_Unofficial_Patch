@@ -1,11 +1,11 @@
-{100}{}{You see a cook.}
-{101}{}{You see Cookie, the cook.}
-{102}{}{You see a man in armor wearing a chef's hat and an apron.}
-{103}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
-{104}{}{Me want food.}
+{100}{}{Du ser en kock.}
+{101}{}{Du ser Kakan, kocken.}
+{102}{}{Du ser en man i rustning som bär en kockmössa och ett förkläde.}
+{103}{}{Hej, soldat. Letar 'u efter lite käk eller bara någon att prata med?}
+{104}{}{Jag vill mat ha.}
 {105}{}{Me want talk.}
-{106}{}{I could use something to eat.}
-{107}{}{Let's chat a while.}
+{106}{}{Jag äter gärna något.}
+{107}{}{Vi kan snacka en stund.}
 {108}{}{Well, here ya go. Have some shit on a shingle. The snow and fly shit's over there. Anything else?}
 {109}{}{What you want me eat?}
 {110}{}{Shit? Snow? What the hell kind of food is this?}
