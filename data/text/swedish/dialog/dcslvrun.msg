@@ -62,9 +62,9 @@
 {294}{}{Jag skydda!}
 {295}{}{Jag skada dig!}
 {296}{}{Du betala!}
-{300}{}{You're not going to take my family, slaver!}
-{301}{}{Die, slaving scum!}
-{302}{}{You'll pay, you bastard!}
+{300}{}{Du kommer inte att få ta min familj, slavhandlare!}
+{301}{}{Dö, slavdrivande avskum!}
+{302}{}{Du ska få betala, din jävel!}
 {303}{}{I'll fight to the death for my family!}
 {304}{}{You won't get away with this!}
 {305}{}{You're not leaving here with my friends!}

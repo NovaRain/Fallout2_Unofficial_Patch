@@ -26,10 +26,10 @@
 {305}{}{Jag skada dig!}
 {306}{}{Du betala!}
 {307}{}{Dö!}
-{308}{}{I'm gonna hurt you.}
-{350}{}{You're not going to take my family, slaver!}
-{351}{}{Die, slaving scum!}
-{352}{}{You'll pay, you bastard!}
+{308}{}{Jag kommer att skada dig.}
+{350}{}{Du kommer inte att få ta min familj, slavhandlare!}
+{351}{}{Dö, slavdrivande avskum!}
+{352}{}{Du ska få betala, din jävel!}
 {353}{}{I'll fight to the death for my family!}
 {354}{}{You won't get away with this!}
 {355}{}{You're not leaving here with my friends!}
