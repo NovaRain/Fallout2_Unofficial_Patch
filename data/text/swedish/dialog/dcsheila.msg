@@ -63,7 +63,7 @@
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}
 {215}{}{Follow me.}
-{216}{}{I'm waiting.}
+{216}{}{Jag väntar.}
 {217}{}{I'm not gonna stand here in this cold room all day.}
 {218}{}{Would you hurry up?}
 {219}{}{Last chance.}

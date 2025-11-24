@@ -147,13 +147,13 @@
 {443}{}{Yeah, that's him.}
 {444}{}{Can I see him?}
 {445}{}{Varför håller du honom här?}
-{446}{}{Okay, thanks. Bye.}
-{455}{}{That little fuck - he sold me a radio that he said would be able to pick up
- some transmissions. It didn't. I caught his ass trying to sneak out of town before
- I found out. Bad mistake. No one fucks with me. He's lucky to be alive.}
-{456}{}{Like I said. He needs to fix something first. After that we'll see.}
-{457}{}{Well he's finally gotten that damn radio to work, but it doesn't mean I'm going to let
- him off that easy.}
+{446}{}{Okej, tack. Hej då.}
+{455}{}{Den lille jäveln - han sålde en radio till mig som han sa skulle kunna ta emot
+ några sändningar. Det gjorde den inte. Jag fångade honom när han försökte smyga ut ur stan innan
+ jag fick reda på det. Dåligt misstag. Ingen jävlas med mig. Han har tur som lever.}
+{456}{}{Som jag sa. Han måste laga något först. Efter det får vi se.}
+{457}{}{Han har äntligen fått den där jäkla radion att fungera, men det betyder inte att jag kommer att släppa
+ lös honom så lätt.}
 {458}{}{He still tried to screw me over.}
 {459}{}{Can I see him?}
 {460}{}{What kind of transmissions are you talking about?}
