@@ -154,12 +154,12 @@
 {456}{}{Som jag sa. Han måste laga något först. Efter det får vi se.}
 {457}{}{Han har äntligen fått den där jäkla radion att fungera, men det betyder inte att jag kommer att släppa
  lös honom så lätt.}
-{458}{}{He still tried to screw me over.}
+{458}{}{Han försökte fortfarande lura mig.}
 {459}{}{Can I see him?}
-{460}{}{What kind of transmissions are you talking about?}
+{460}{}{Vilken typ av sändningar pratar du om?}
 {461}{}{Okay, thanks.}
-{462}{}{Maybe some money might help clear things up?}
-{463}{}{What kind transmissions were you talking about before?}
+{462}{}{Kanske lite pengar kan hjälpa till att reda ut saker och ting?}
+{463}{}{Vilken typ av sändningar pratade du om förut?}
 {475}{}{What for? Ah, fuck, never mind. Just don't keep him from fixing that damn
  radio - and he better fix it soon. I'm sick of feeding his lazy ass.}
 {476}{}{Varför håller du honom här?}
