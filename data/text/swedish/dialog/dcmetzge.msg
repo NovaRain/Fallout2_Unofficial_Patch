@@ -160,19 +160,19 @@
 {461}{}{Okay, thanks.}
 {462}{}{Kanske lite pengar kan hjälpa till att reda ut saker och ting?}
 {463}{}{Vilken typ av sändningar pratade du om förut?}
-{475}{}{What for? Ah, fuck, never mind. Just don't keep him from fixing that damn
- radio - and he better fix it soon. I'm sick of feeding his lazy ass.}
+{475}{}{Varför då? Fan, strunt samma. Bara du inte hindrar honom från att laga den där jävla
+ radion - och det är bäst att han lagar den snart. Jag är trött på att mata hans lata arsle.}
 {476}{}{Varför håller du honom här?}
 {477}{}{Tack.}
-{485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
-{486}{}{Mind your own business.}
+{485}{}{Enklaven och Nya... Vad fan bryr du dig om? Det är affärer. Jag måste vara säker på att ingen försöker jävlas med mig. Det är allt du behöver veta.}
+{486}{}{Sköt dig själv.}
 {487}{}{Okej.}
-{495}{}{Sure, but it'll cost you $}
+{495}{}{Visst, men det kommer att kosta dig $}
 {496}{}{$}
-{497}{}{Can't we work something out?}
-{498}{}{Okay. Here.}
-{499}{}{Can I ask you some more questions first.}
-{500}{}{Sorry, can't afford that yet.}
+{497}{}{Kan vi inte komma överens om något?}
+{498}{}{Okej. Här.}
+{499}{}{Får jag ställa några fler frågor först.}
+{500}{}{Tyvärr, har inte råd med det än.}
 {510}{}{Okay, he's yours, but get his ass out of here before I change my mind
  and put a bullet in that stupid fucking head of his.}
 {511}{}{Can I ask you some more questions first?}
