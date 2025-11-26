@@ -3,7 +3,7 @@
 {102}{}{Du ser någon som bär en labbrock. Han verkar självsäker och trygg i sig själv.}
 {103}{}{Ja, sir?}
 {104}{}{Jag ny här. Behöver ställa fråga.}
-{105}{}{Me just say hi. Me go now.}
+{105}{}{Jag bara säga hej. Jag gå nu.}
 {106}{}{Jag är ny här och jag försöker bekanta mig med basen. Får jag ställa några frågor?}
 {107}{}{Jag säger bara hej. Vi ses.}
 {108}{}{Självklart, soldat.}
@@ -37,7 +37,7 @@
 {142}{}{Tack.}
 {143}{}{De skulle finnas på underhållsavdelningen, bredvid flygledningen. }
 {144}{}{Okej.}
-{145}{}{Got it.}
+{145}{}{Jag förstår.}
 {155}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {156}{}{Om sergeanten ser dig utan uniform kommer han att spöa upp dig.}
 {157}{}{Why are you out of uniform?}

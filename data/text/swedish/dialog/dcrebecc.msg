@@ -122,7 +122,7 @@
  that's all. To show my appreciation, I'll split it with you, right down the
  middle. Thank you again, that was very honest of you.}
 {401}{}{Oh, I'm so glad you were able to find it... Thank you very much. Here's your money.}
-{402}{}{You're welcome.}
+{402}{}{Det var så lite.}
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
  me. If you'll excuse me...}
 {411}{}{I can't believe he's dead... after all these years.}

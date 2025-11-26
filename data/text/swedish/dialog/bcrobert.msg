@@ -1,4 +1,4 @@
-{100}{}{You see a squatter.}
+{100}{}{Du ser en ockupant.}
 {101}{}{You see Roberta, a squatter.}
 {102}{}{You see a middle aged woman wearing worn clothing.}
 {103}{}{Oh, my. I'm sorry, but I have nothing to say to you. Please go away.}

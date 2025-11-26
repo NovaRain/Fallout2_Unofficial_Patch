@@ -95,7 +95,7 @@
 {461}{}{What? Metzger's dead? Oh, thank you so much! We better leave before others show up. Thank you again.}
 {462}{}{You're welcome. Now get out of here.}
 {463}{}{Take care.}
-{464}{}{You're welcome.}
+{464}{}{Det var så lite.}
 {480}{}{What you want?}
 {481}{}{Vad vill du?}
 {482}{}{Oh, nothing.}

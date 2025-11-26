@@ -11,7 +11,7 @@
 {110}{}{Jag känner mig sjuk. Kan ni hjälpa mig?}
 {111}{}{Jag är handikappad. Kan du hjälpa mig?}
 {112}{}{Jag vill ställa några frågor till dig.}
-{113}{}{Just saying hello.}
+{113}{}{Säger bara hej.}
 {114}{}{Javisst. Här, vi ger dig en spruta av det här -- det här kommer att svida lite -- nu ett bandage,
  och där, nu är allt klart.}
 {115}{}{Jag tacka. Hej då.}

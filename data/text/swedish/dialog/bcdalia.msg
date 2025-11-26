@@ -1,28 +1,28 @@
-{100}{}{You see a young woman in tattered clothing.}
-{101}{}{You see Dalia.}
-{102}{}{You see a young woman in tattered clothing. She seems very alert, and watches her surroundings
- carefully.}
-{103}{}{Hi. I'm Dalia. What can I help you with?}
-{104}{}{Nothing, just say hi.}
-{105}{}{Uh, who you?}
-{106}{}{What you do here?}
-{107}{}{You look like guard.}
+{100}{}{Du ser en ung kvinna i trasiga kläder.}
+{101}{}{Du ser Dalia.}
+{102}{}{Du ser en ung kvinna i trasiga kläder. Hon verkar mycket alert och iakttar sin omgivning
+ noggrant.}
+{103}{}{Hej. Jag heter Dalia. Vad kan jag hjälpa dig med?}
+{104}{}{Inget, bara säg hej.}
+{105}{}{Öh, vem du?}
+{106}{}{Vad du gör här?}
+{107}{}{Du ser ut som vakt.}
 {108}{}{Jag gå nu.}
-{109}{}{Just saying hello.}
+{109}{}{Säger bara hej.}
 {110}{}{Vem är du?}
 {111}{}{Vad är det du gör?}
-{112}{}{You look like you're guarding that trail.}
+{112}{}{Du ser ut som om du vaktar den där stigen.}
 {113}{}{Jag ska gå nu.}
-{114}{}{Well, hello to you. Now, I'm sorry, but you should go.}
-{115}{}{Me want talk.}
-{116}{}{Ok, me go.}
-{117}{}{I want to talk to you.}
+{114}{}{Ja men, hej på dig. Jag är ledsen, men du borde gå.}
+{115}{}{Jag prata vill.}
+{116}{}{Ok, ja' gå.}
+{117}{}{Jag vill prata med dig.}
 {118}{}{Hej då.}
-{119}{}{I said I'm Dalia. Look, I don't mean to be rude, but I don't want to talk to anyone right now. Okay?}
-{120}{}{Okay, bye.}
-{121}{}{Just little more.}
-{122}{}{Then I'll leave.}
-{123}{}{I just want to ask you a question.}
+{119}{}{Jag sa att jag heter Dalia. Jag vill inte vara oförskämd, men jag vill inte prata med någon just nu. Okej?}
+{120}{}{Okej, hej då.}
+{121}{}{Bara mer lite.}
+{122}{}{Då går jag.}
+{123}{}{Jag vill bara ställa en fråga till dig.}
 {124}{}{I like the fresh air, I like the trees, so I'm standing here. Do you have a problem with that?}
 {125}{}{Sorry, me go.}
 {126}{}{No, not problem. Me ask you something.}
@@ -40,7 +40,7 @@
 {137}{}{I have no quarrel with you. Leave me be.}
 {138}{}{}
 {139}{}{}
-{140}{}{Hi. I'm Dalia. What can I help you with?}
+{140}{}{Hej. Jag heter Dalia. Vad kan jag hjälpa dig med?}
 {141}{}{Person go by here? In hurry?}
 {142}{}{Ingenting.}
 {143}{}{Ingenting.}
