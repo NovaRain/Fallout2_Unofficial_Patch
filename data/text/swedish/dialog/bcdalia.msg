@@ -32,19 +32,19 @@
  njuter av den friska luften. Försvinn nu.}
 {130}{}{Du trevlig prata med. Jag prata mer.}
 {131}{}{Ledsen jag stör. Jag gå.}
-{132}{}{But we're having such a nice conversation, why stop?}
-{133}{}{I guess it's time to leave.}
-{134}{}{Oh no, it's the pest again. Look, I have nothing to say to you. Go away!}
+{132}{}{Men vi har ett så trevligt samtal, varför sluta?}
+{133}{}{Jag antar att det är dags att gå.}
+{134}{}{Åh nej, det är skadedjuret igen. Jag har inget att säga till dig. Gå din väg!}
 {135}{}{}
 {136}{}{}
-{137}{}{I have no quarrel with you. Leave me be.}
+{137}{}{Jag har inget otalt med dig. Låt mig vara i fred.}
 {138}{}{}
 {139}{}{}
 {140}{}{Hej. Jag heter Dalia. Vad kan jag hjälpa dig med?}
-{141}{}{Person go by here? In hurry?}
+{141}{}{Person som förbi här? Bråttom?}
 {142}{}{Ingenting.}
 {143}{}{Ingenting.}
-{144}{}{Did you see someone go by here in a hurry?}
+{144}{}{Såg du någon ha bråttom förbi här?}
 {145}{}{I see people go by here every day. I really don't pay much attention to them.}
 {146}{}{Me not have time for you crap.}
 {147}{}{Åh, okej.}
