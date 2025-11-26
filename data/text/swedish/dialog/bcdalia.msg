@@ -23,15 +23,15 @@
 {121}{}{Bara mer lite.}
 {122}{}{Då går jag.}
 {123}{}{Jag vill bara ställa en fråga till dig.}
-{124}{}{I like the fresh air, I like the trees, so I'm standing here. Do you have a problem with that?}
-{125}{}{Sorry, me go.}
-{126}{}{No, not problem. Me ask you something.}
-{127}{}{I don't have a problem, but I am curious about something.}
-{128}{}{Sorry, I'll be going then.}
-{129}{}{No, I'm not guarding the trail. There's nothing in this hole worth guarding. I told you, I'm
- enjoying the fresh air. Now go away.}
-{130}{}{You nice talk to. Me talk more.}
-{131}{}{Sorry me bother. Me go.}
+{124}{}{Jag gillar den friska luften, jag gillar träden, så jag står här. Har du något problem med det?}
+{125}{}{Ledsen, jag gå.}
+{126}{}{Nej, inte problem. Jag fråga dig något.}
+{127}{}{Jag har inget problem, men jag är nyfiken på en sak.}
+{128}{}{Ledsen, jag ska gå då.}
+{129}{}{Nej, jag vaktar inte stigen. Det finns inget i det här hålet som är värt att vakta. Jag sa ju att jag
+ njuter av den friska luften. Försvinn nu.}
+{130}{}{Du trevlig prata med. Jag prata mer.}
+{131}{}{Ledsen jag stör. Jag gå.}
 {132}{}{But we're having such a nice conversation, why stop?}
 {133}{}{I guess it's time to leave.}
 {134}{}{Oh no, it's the pest again. Look, I have nothing to say to you. Go away!}

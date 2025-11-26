@@ -6,7 +6,7 @@
 {105}{}{Mår dåligt. Du fixa?}
 {106}{}{Jag lam, du fixa?}
 {107}{}{Har frågor. Okej?}
-{108}{}{Sorry, me go.}
+{108}{}{Ledsen, jag gå.}
 {109}{}{Jag är skadad. Kan du hjälpa mig?}
 {110}{}{Jag känner mig sjuk. Kan ni hjälpa mig?}
 {111}{}{Jag är handikappad. Kan du hjälpa mig?}
