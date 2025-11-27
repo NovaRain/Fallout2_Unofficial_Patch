@@ -547,10 +547,10 @@
 {3869}{}{Some slavers and slaves fending off some golden geckos.}
 {3870}{}{A man guarding a bridge.}
 {3871}{}{King Arthur's Knights fighting a rat.}
-{3900}{}{Some highwaymen and robbers.}
-{3901}{}{Some highwaymen.}
-{3902}{}{A large pack of golden geckos.}
-{3903}{}{Some radscorpions hiding in the spore plants.}
+{3900}{}{Några stråtrövare och rånare.}
+{3901}{}{Några stråtrövare.}
+{3902}{}{En stor flock med gyllene geckoödlor.}
+{3903}{}{Några radioaktiva skorpioner gömmer sig bland sporväxterna.}
 {3904}{}{Some bounty hunters.}
 {3905}{}{Some bounty hunters.}
 {3906}{}{Some bounty hunters.}
@@ -560,18 +560,18 @@
 {3910}{}{Some bounty hunters.}
 {3911}{}{Some bounty hunters.}
 {3912}{}{A band of ruffians led by a Morton Brother.}
-{3913}{}{Some robbers fighting some radscorpions.}
-{3914}{}{Some robbers.}
-{3915}{}{A merchant party attacked by highwaymen.}
-{3916}{}{A merchant party ambushed by robbers.}
-{3917}{}{Some highwaymen attacked by some spore plants.}
+{3913}{}{Några rånare slåss mot några radioaktiva skorpioner.}
+{3914}{}{Några rånare.}
+{3915}{}{En handelsresande grupp attackerad av stråtrövare.}
+{3916}{}{En handelsresande grupp överfallen av rånare.}
+{3917}{}{Några stråtrövare attackeras av några sporväxter.}
 {3918}{}{A merchant party.}
 {3919}{}{A man guarding a bridge.}
 {3920}{}{King Arthur's Knights fighting a rat.}
-{3950}{}{Some highwaymen.}
-{3951}{}{Some robbers.}
-{3952}{}{Some homeless people.}
-{3953}{}{Some golden geckos and mantis.}
+{3950}{}{Några stråtrövare.}
+{3951}{}{Några rånare.}
+{3952}{}{Några hemlösa människor.}
+{3953}{}{Några gyllene geckoödlor och bönsyrsor.}
 {3954}{}{Some bounty hunters.}
 {3955}{}{Some bounty hunters.}
 {3956}{}{Some bounty hunters.}
@@ -583,20 +583,20 @@
 {3962}{}{A band of ruffians led by a Morton Brother.}
 {3963}{}{Some wild brahmin.}
 {3964}{}{Some radscorpions.}
-{3965}{}{Some moonshiners attacked by some highwaymen.}
-{3966}{}{Some highwaymen attacking some homeless people.}
-{3967}{}{Some moonshiners and farmers.}
-{3968}{}{Some mantis attacking some farmers.}
-{3969}{}{Some moonshiners battling some farmers.}
+{3965}{}{Några hembrännare attackeras av några stråtrövare.}
+{3966}{}{Några stråtrövare attackerar några hemlösa personer.}
+{3967}{}{Några hembrännare och bönder.}
+{3968}{}{Några bönsyrsor attackerar några bönder.}
+{3969}{}{Några hembrännare som strider mot några bönder.}
 {3970}{}{Some brahmin fending off some mantis.}
-{3971}{}{Some mantis attacking some molerats.}
-{3972}{}{Some moonshiners.}
+{3971}{}{Några bönsyrsor som attackerar några mullvadsråttor.}
+{3972}{}{Några hembrännare.}
 {3973}{}{Some farmers.}
 {3974}{}{A herd of brahmin.}
 {3975}{}{A man guarding a bridge.}
 {3976}{}{King Arthur's Knights fighting a rat.}
-{4000}{}{Some highwaymen tracking with wild dogs.}
-{4001}{}{Some robbers searching with wild dogs.}
+{4000}{}{Vissa stråtrövare spårar med vilda hundar.}
+{4001}{}{Några rånare söker med vilda hundar.}
 {4002}{}{A band of robbers.}
 {4003}{}{A band of highwaymen.}
 {4004}{}{Some bounty hunters.}
@@ -622,7 +622,7 @@
 {4050}{}{Toxic waste dump.}
 {4051}{}{A lone surviving dog.}
 {4052}{}{A herd of brahmin.}
-{4053}{}{Some highwaymen tracking with wild dogs.}
+{4053}{}{Vissa stråtrövare spårar med vilda hundar.}
 {4054}{}{Some bounty hunters.}
 {4055}{}{Some bounty hunters.}
 {4056}{}{Some bounty hunters.}
@@ -632,7 +632,7 @@
 {4060}{}{Some bounty hunters.}
 {4061}{}{Some bounty hunters.}
 {4062}{}{A band of ruffians led by a Morton Brother.}
-{4063}{}{Some robbers searching with wild dogs.}
+{4063}{}{Några rånare söker med vilda hundar.}
 {4064}{}{A band of robbers.}
 {4065}{}{A band of highwaymen.}
 {4066}{}{A swarm of mantis infesting some spore plants.}
@@ -949,9 +949,9 @@
 {4660}{}{Some bounty hunters.}
 {4661}{}{Some bounty hunters.}
 {4662}{}{A band of ruffians led by a Morton Brother.}
-{4663}{}{Some highwaymen and robbers.}
-{4664}{}{Some highwaymen.}
-{4665}{}{Some robbers.}
+{4663}{}{Några stråtrövare och rånare.}
+{4664}{}{Några stråtrövare.}
+{4665}{}{Några rånare.}
 {4666}{}{A Redding caravan fending off highwaymen.}
 {4667}{}{A New Reno caravan fending off robbers.}
 {4668}{}{En karavan från Lyan som motar bort stråtrövare.}
@@ -968,9 +968,9 @@
 {4679}{}{A tin woodsman.}
 {4680}{}{The Unwashed Villagers hunting a spammer.}
 {4700}{}{A Den caravan.}
-{4701}{}{Some highwaymen and robbers.}
-{4702}{}{Some highwaymen.}
-{4703}{}{Some robbers.}
+{4701}{}{Några stråtrövare och rånare.}
+{4702}{}{Några stråtrövare.}
+{4703}{}{Några rånare.}
 {4704}{}{Some bounty hunters.}
 {4705}{}{Some bounty hunters.}
 {4706}{}{Some bounty hunters.}
@@ -1281,7 +1281,7 @@
 {5411}{}{Some bounty hunters.}
 {5412}{}{A band of ruffians led by a Morton Brother.}
 {5413}{}{En flock av eldsprutande geckoödlor.}
-{5414}{}{A large pack of golden geckos.}
+{5414}{}{En stor flock med gyllene geckoödlor.}
 {5415}{}{The remains of a whale.}
 {5416}{}{A giant stone head.}
 {5417}{}{A crashed shuttle.}
@@ -1292,7 +1292,7 @@
 {5422}{}{The Cafe of Broken Dreams.}
 {5450}{}{En flock av eldsprutande geckoödlor.}
 {5451}{}{En flock av eldsprutande geckoödlor.}
-{5452}{}{A large pack of golden geckos.}
+{5452}{}{En stor flock med gyllene geckoödlor.}
 {5453}{}{Some bounty hunters.}
 {5454}{}{Some bounty hunters.}
 {5455}{}{Some bounty hunters.}
@@ -1306,7 +1306,7 @@
 {5463}{}{King Arthur's Knights fighting a rat.}
 {5500}{}{En flock av eldsprutande geckoödlor.}
 {5501}{}{En flock av eldsprutande geckoödlor.}
-{5502}{}{A large pack of golden geckos.}
+{5502}{}{En stor flock med gyllene geckoödlor.}
 {5503}{}{Some bounty hunters.}
 {5504}{}{Some bounty hunters.}
 {5505}{}{Some bounty hunters.}
