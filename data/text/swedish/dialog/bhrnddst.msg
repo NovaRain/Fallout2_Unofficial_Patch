@@ -9,12 +9,12 @@
 {150}{}{Du möter slavhandlare och hundar.}
 {151}{}{Du möter slavhandlare.}
 {152}{}{Du möter gyllene geckoödlor.}
-{153}{}{Du möter vilda hundar.}
+{153}{}{Du möter vildhundar.}
 {154}{}{Du möter en patrull och hundar som slåss mot slavhandlare.}
 {155}{}{Du möter slavhandlare som slåss mot gyllene geckoödlor.}
 {156}{}{Du möter en patrull som slåss mot slavhandlare.}
 {157}{}{Du möter en patrull som slåss mot gyllene geckoödlor.}
-{158}{}{Du möter en patrull som slåss mot vilda hundar.}
+{158}{}{Du möter en patrull som slåss mot vildhundar.}
 {159}{}{Du möter en patrull.}
 {200}{}{Du blir överfallen av plundrare.}
 {201}{}{Du möter vargar.}
@@ -83,13 +83,13 @@
 {458}{}{You encounter some highwaymen weeding out some spore plants.}
 {459}{}{Du möter en karavan.}
 {500}{}{You encounter highwaymen and wild dogs.}
-{501}{}{Du möter rånare och vilda hundar.}
+{501}{}{Du möter rånare och vildhundar.}
 {502}{}{Du möter rånare.}
 {503}{}{You encounter highwaymen.}
 {504}{}{Du möter en svärm med bönsyrsor och några sporväxter.}
 {505}{}{Du möter hundar och sporväxter.}
 {506}{}{Du möter en svärm med bönsyrsor.}
-{507}{}{Du möter vilda hundar.}
+{507}{}{Du möter vildhundar.}
 {508}{}{Du möter rånare som slåss mot hundar.}
 {509}{}{Du möter en karavan som försvarar sig mot hundar.}
 {510}{}{You encounter a caravan fending off robbers.}
