@@ -24,7 +24,7 @@ for d in $(ls "$src"); do
 				# Preprocess
 				gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f"
 				# Compile
-				"$COMPILE" -l -O2 -p -s -q -n "${f}.tmp" -o "$dst/$int"
+				"$COMPILE" -l -O2 -s -q -n "${f}.tmp" -o "$dst/$int"
 			fi
 		done
 		cd ..
