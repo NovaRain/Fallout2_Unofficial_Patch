@@ -21,7 +21,10 @@ for d in $(ls "$src"); do
 			# shellcheck disable=SC2001  # Simple replacement doesn't work, need regex.
 			int="$(echo "$f" | sed 's|\.ssl$|.int|')"
 			if grep -qi "^$int " "$scripts_lst" || [[ "$d" == "global" ]]; then # if file is in scripts.lst or a global script
-				"$COMPILE" -l -O2 -p -s -q -n "$f" -o "$dst/$int"
+				# Preprocess
+				gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f"
+				# Compile
+				"$COMPILE" -l -O2 -p -s -q -n "${f}.tmp" -o "$dst/$int"
 			fi
 		done
 		cd ..
