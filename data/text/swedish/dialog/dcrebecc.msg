@@ -46,7 +46,7 @@
 {254}{}{Well, okay. What is it?}
 {255}{}{I suppose.}
 {256}{}{Vad?}
-{257}{}{No, sorry.}
+{257}{}{Nej, tyvärr.}
 {258}{}{Inte just nu}
 {270}{}{I need a drink.}
 {271}{}{I'm looking for a merchant who sells Vault equipment.}
@@ -117,7 +117,7 @@
 {389}{}{Sorry, but Derek's also dead.}
 {390}{}{I'm sorry, but he's dead.}
 {391}{}{Yes. Here it is.}
-{392}{}{No, sorry.}
+{392}{}{Nej, tyvärr.}
 {400}{}{I can't believe it. How did you do it? Oh, never mind. I'm just stunned,
  that's all. To show my appreciation, I'll split it with you, right down the
  middle. Thank you again, that was very honest of you.}

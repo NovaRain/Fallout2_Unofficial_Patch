@@ -104,7 +104,7 @@
 {480}{}{Fine, see if I care.}
 {481}{}{Okej.}
 {482}{}{Bra.}
-{490}{}{No, sorry.}
+{490}{}{Nej, tyvärr.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger.}
 {492}{}{Okej.}
 {500}{}{Too bad you didn't join us.}
