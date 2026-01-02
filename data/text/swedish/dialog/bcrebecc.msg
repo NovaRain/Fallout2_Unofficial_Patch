@@ -81,29 +81,29 @@
  vaults lately.}
 {166}{}{Okay, me do.}
 {167}{}{All right, I will.}
-{168}{}{Well... we're not supposed to talk about it, but since I need your help... The vault is being
- repaired by Darion. He's our benefactor. When it's fully functional, we're all supposed to move in
- where we'll be safe from raiders, slavers, and such. So far he has the food and water systems up, but
- that's about it.}
-{169}{}{Me see. Need know more.}
-{170}{}{I need to know more.}
-{171}{}{There's not much to say, really. Darion keeps to himself and never leaves the vault. If he has
- anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.}
+{168}{}{Så... Vi får inte prata om det, men eftersom jag behöver din hjälp... Valvet håller på att
+ reparerat av Darion. Han är vår välgörare. När det är fullt fungerande, ska vi alla flytta in.
+ där vi kommer att vara säkra från plundrare, slavhandlare och liknande. Än så länge har han mat- och vattensystemen uppe, men
+ det är typ allt.}
+{169}{}{Förstår. Behöva veta mer.}
+{170}{}{Jag behöver veta mer.}
+{171}{}{Det finns inte mycket att säga, egentligen. Darion håller sig för sig själv och lämnar aldrig valvet. Om han har
+ något att säga, så säger han det genom Zeke. Jag har bara träffat honom en gång, och han verkade vara en trevlig kille.}
 {172}{}{Okej.}
 {173}{}{Nice guys finish last. I wonder what he's up to?}
 {174}{}{Jag förstår.}
-{175}{}{That's okay. You are very helpful.}
-{176}{}{I have nothing to give you other than my undying gratitude.}
-{177}{}{That's more than enough. I'll help you.}
+{175}{}{Det är okej. Du är väldigt hjälpsam.}
+{176}{}{Jag har inget annat att ge dig än min eviga tacksamhet.}
+{177}{}{Det är mer än tillräckligt. Jag ska hjälpa dig.}
 {178}{}{It'll take more than that to buy my help.}
 {179}{}{What the hell, I'll help you.}
 {180}{}{Thank you so much. I'll never be able to repay you for this. I'll wait here until you bring...
  Hey, there was someone outside listening to us! I saw their shadow on the tent wall. They just ran off
  that way! ::points north-east:: They must have heard everything!}
 {181}{}{Me stop, no get away!}
-{182}{}{You no worry, me find girl.}
+{182}{}{Du inte oroa, hittar flicka.}
 {183}{}{Ojdå.}
-{184}{}{I'll try and stop them.}
+{184}{}{Jag ska försöka stoppa dem.}
 {185}{}{They won't stop me from finding your daughter.}
 {186}{}{Oh well. Shit happens.}
 {187}{}{Please, just go away.}
