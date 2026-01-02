@@ -94,9 +94,9 @@
 {174}{}{Jag förstår.}
 {175}{}{Det är okej. Du är väldigt hjälpsam.}
 {176}{}{Jag har inget annat att ge dig än min eviga tacksamhet.}
-{177}{}{Det är mer än tillräckligt. Jag ska hjälpa dig.}
-{178}{}{It'll take more than that to buy my help.}
-{179}{}{What the hell, I'll help you.}
+{177}{}{Det är mer än tillräckligt. Jag tänker hjälpa dig.}
+{178}{}{Det krävs mer än så för att köpa min hjälp.}
+{179}{}{Vad fan, jag tänker hjälpa dig.}
 {180}{}{Thank you so much. I'll never be able to repay you for this. I'll wait here until you bring...
  Hey, there was someone outside listening to us! I saw their shadow on the tent wall. They just ran off
  that way! ::points north-east:: They must have heard everything!}
