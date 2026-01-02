@@ -356,7 +356,7 @@ end
 
 procedure Node002a begin
    If_Party_Has_Injured then begin
-       if (How_Many_Party_Members_Armed == 1) then
+       if (How_Many_Party_Members_Are_Injured == 1) then
            call Node003;
        else
            call Node004;
