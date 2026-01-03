@@ -755,7 +755,10 @@ procedure Node042 begin
    end else if (get_glasses == glasses_freebie) then begin
       NOption(244, Node066, 004);
    end
-   if ((know_renesco) and ((mine_reward_cash) or (mine_reward_free)) and (gave_mine_tool == false)) then begin
+   // There is no point to check "know_renesco" since his mouseover says his name.
+   // Plus, depending upon what dialogue tree you go through when first meeting him, you might not ever set this variable
+   // Could be fixed by tweaking the dialogue so that he always ends up introducing himself, but it is not worth it. -killap
+   if (((mine_reward_cash) or (mine_reward_free)) and (gave_mine_tool == false)) then begin
       NOption(710, Node990, 004);
    end
    NOption(711, Node036, 008);
