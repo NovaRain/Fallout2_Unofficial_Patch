@@ -55,7 +55,7 @@
 {205}{}{Vilse?}
 {206}{}{Come back anytime.}
 {207}{}{OK. Bye.}
-{208}{}{Yeah, right.}
+{208}{}{Ja, visst.}
 {209}{}{Whoo!}
 {210}{}{Vi ses.}
 {211}{}{Hej då.}

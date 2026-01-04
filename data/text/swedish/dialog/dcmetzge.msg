@@ -138,7 +138,7 @@
 {430}{}{Look, I don't give a shit which of them guards it. Just as long as none of my goods are
  damaged, I don't care.}
 {431}{}{Another question, please.}
-{432}{}{Okay, thanks.}
+{432}{}{Okej, tack.}
 {440}{}{What the fuck are you asking me for? Do I look like some kind of fucking... oh,
  wait. You're probably looking for Vic?}
 {441}{}{He's the one that 'specializes' in vault technology, or so he says. He's my
@@ -157,7 +157,7 @@
 {458}{}{Han försökte fortfarande lura mig.}
 {459}{}{Can I see him?}
 {460}{}{Vilken typ av sändningar pratar du om?}
-{461}{}{Okay, thanks.}
+{461}{}{Okej, tack.}
 {462}{}{Kanske lite pengar kan hjälpa till att reda ut saker och ting?}
 {463}{}{Vilken typ av sändningar pratade du om förut?}
 {475}{}{Varför då? Fan, strunt samma. Bara du inte hindrar honom från att laga den där jävla

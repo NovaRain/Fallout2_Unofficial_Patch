@@ -86,10 +86,10 @@
  really hit the spot.}
 {332}{}{Sure. I'll have one.}
 {333}{}{Can I ask another question?}
-{334}{}{Okay, thanks.}
+{334}{}{Okej, tack.}
 {340}{}{There you are. Thank you very much.}
 {341}{}{Thanks. Can I ask you a question?}
-{342}{}{Okay, thanks.}
+{342}{}{Okej, tack.}
 {343}{}{Thankey youey.}
 {344}{}{Asky?}
 {350}{}{Sorry. I don't think so.}
