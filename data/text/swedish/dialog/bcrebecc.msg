@@ -138,9 +138,9 @@
  något annat år på gång. Och så känner jag mig förföljd. Jag har haft det ända
  sedan jag pratade med Zeke om Chrissy. Jag behöver nån som hjälper mig att hitta min dotter. Vill du hjälpa mig,
  snälla?}
-{208}{}{They keep sending people here to try and talk us out of our home, but they don't understand
- that we have nowhere else to go. We don't have the skills necessary to survive on our own if we leave
- here.}
+{208}{}{De fortsätter skicka hit folk för att övertyga oss om att lämna vårt hem, men de förstår inte
+ att vi inte har någon annanstans att ta vägen. Vi har inte de färdigheter som krävs för att överleva på egen hand om vi flyttar
+ härifrån.}
 {209}{}{You know, it's kind of funny that they managed to get something that complex fixed, but not the
  lights. The damn place is lit by torches. Anyway, Darion doesn't want anyone to know what's going on
  with the vault. He's afraid that someone will take it all away from us if they find out. So, we're told
