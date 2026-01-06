@@ -7,7 +7,7 @@
 {106}{}{Jag är ny här och jag försöker bekanta mig med basen. Får jag ställa några frågor?}
 {107}{}{Jag säger bara hej. Vi ses.}
 {108}{}{Visst. Jag har några minuter.}
-{109}{}{What can I help you with?}
+{109}{}{Vad kan jag hjälpa dig med?}
 {110}{}{Vad det här stället?}
 {111}{}{Vad du jobb?}
 {112}{}{Var Enklaven huvudbas någonstans?}

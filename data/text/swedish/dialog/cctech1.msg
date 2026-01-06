@@ -7,7 +7,7 @@
 {106}{}{Jag är ny här. Jag behöver ställa några frågor för att bekanta mig med basen.}
 {107}{}{Ledsen att störa dig. Jag säger bara hej.}
 {108}{}{Jag är själv nyrekryterad, sir. Jag vet inte om jag kan svara på alla dina frågor, men jag ska försöka.}
-{109}{}{What can I help you with?}
+{109}{}{Vad kan jag hjälpa dig med?}
 {110}{}{Vad det här stället?}
 {111}{}{Vad du jobb?}
 {112}{}{Where Enclave main base at.}
