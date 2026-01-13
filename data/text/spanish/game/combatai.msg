@@ -2953,7 +2953,7 @@
 {41367}{}{¡Apestas!}
 {41368}{}{No esperabas ese movimiento, ¿verdad?}
 {41369}{}{Swing, batta, batta. ¡Swing!}
-{41370}{}{Este viejo necrófago es más vivaz de lo que habías apostado, ¿eh?}
+{41370}{}{Este viejo necrófago esta mas vivo de lo que habías apostado, ¿eh?}
 {41371}{}{Eres duro *hablando*.}
 {41372}{}{¿Qué fue eso?}
 {41373}{}{Esto no es una charada.}
