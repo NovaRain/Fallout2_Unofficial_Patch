@@ -55,7 +55,7 @@
  capaces de pensamientos abstractos y razonamientos.}
 {147}{}{Eh... lo que has dicho.}
 {148}{}{Tengo que ir ahora yo.}
-{149}{}{Uh-huh.}
+{149}{}{Ah-Vale.}
 {150}{}{Vaya, estoy impresionado con tus conocimientos.}
 {151}{}{A mí me suena a un montón de tonterías.}
 {152}{}{Una noche estaba recogiendo unas hierbas cuando una voz me llamó desde la oscuridad. 'Te he estado
