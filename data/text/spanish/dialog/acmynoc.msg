@@ -142,7 +142,7 @@
 {429}{}{Ya he tenido suficiente.}
 {430}{}{La gente muere mientras te dedicas a pasear por ahí. Quizás deberías seguir buscando en vez de volver aquí.}
 {500}{}{¿Has hablado ya con la Anciana?}
-{1000}{}{Anciano}
+{1000}{}{Maestre}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}
