@@ -8,9 +8,9 @@
 {501}{}{Un pequeño escorpión mutante.}
 {600}{}{Escorpión rad}
 {601}{}{Un escorpión mutante.}
-{700}{}{Mortíclavo}
+{700}{}{Sanguinario}
 {701}{}{Una Garra mortal inmadura.}
-{800}{}{Mortíclavo}
+{800}{}{Sanguinario}
 {801}{}{Una Garra mortal inmadura.}
 {900}{}{Perro}
 {901}{}{Un perro, probablemente de raza cruzada.}
@@ -93,7 +93,7 @@
 {8200}{}{Perro salvaje}
 {8201}{}{Un perro salvaje de raza cruzada}
 {8300}{}{Gecko dorado}
-{8400}{}{Mortíclavo}
+{8400}{}{Sanguinario}
 {8500}{}{Huevo de Garra mortal}
 {8600}{}{Gecko dorado duro}
 {8700}{}{Lynette}

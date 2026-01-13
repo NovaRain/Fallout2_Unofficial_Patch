@@ -714,7 +714,7 @@
 {36401}{}{Es el mecanismo de movimiento de un robot.}
 {36500}{}{Pincho de planta}
 {36501}{}{Una semilla-pincho orgánica que las plantas carnívoras escupen sobre portadores potenciales de alimentos o semillas.}
-{36600}{}{G.E.C.K.}
+{36600}{}{G.E.C.K}
 {36601}{}{El Kit de Creación del Jardín del Edén. Esta unidad es un equipamiento estándar para todos los Refugios de Vault-Tec. Un GECK es una fuente de reconstrucción de la civilización tras las bombas. Tan solo añadir agua y agitar.}
 {36700}{}{Caja de munición}
 {36800}{}{Caja de munición}
