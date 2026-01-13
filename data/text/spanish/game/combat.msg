@@ -729,8 +729,8 @@
 {6209}{}{, traspasando su caparazón y tirando a la mantis}
 {6210}{}{, cegando al insecto con un golpe certero}
 {6300}{}{. Incluso esta bestia parece desconcertada por ese impresionante ataque}
-{6301}{}{, yendo más allá de las enormes garras para golpear al monstruo. Éste se sacude y gruñe}
-{6302}{}{. El resultado es un masivo daño en los ojos de la Garra mortal}
+{6301}{}{, yendo más allá de las enormes garras para golpear al monstruo. El sanguinario se sacude y gruñe}
+{6302}{}{. El resultado es un masivo daño en los ojos del sanguinario}
 {6400}{}{, rompiendo las defensas de la planta}
 {6401}{}{, arrancando algunas de sus hojas}
 {6402}{}{, rompiendo algunas de sus hojas}

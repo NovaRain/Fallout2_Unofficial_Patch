@@ -81,7 +81,7 @@
 {180}{hak018}{Ahh. Devuelves el espíritu del Morador al mundo y traes la sonrisa al alma de un viejo con tu presencia. Por eso, te daré los polvos curativos. Recuerda, nublan la mente y limpian el cuerpo.}
 {181}{}{Gracias.}
 {182}{hak018a}{Y también, mezclaré la flor de broquia con la raíz de xandria cada vez que me traigas ambas. Que tus caminos sean verdaderos y tu corazón siga su ejemplo.}
-{183}{}{¿Dónde puedo encontrar esas cosas?}
+{183}{}{¿Dónde puedo encontrar estas cosas?}
 {184}{}{Gracias.}
 {185}{}{Casi siento irme. Empezaba a entenderte ahora. Adiós.}
 {186}{hak019}{Ah, Elegido, mi huerto está bien. ¿Cómo está el tuyo?}

@@ -107,21 +107,21 @@
 {559}{}{Te encuentras con contrabandistas de licor.}
 {560}{}{Te encuentras con tramperos.}
 {561}{}{Te encuentras con prospectores.}
-{600}{}{Te encuentras con Garras mortales.}
+{600}{}{Te encuentras con sanguinarios.}
 {601}{}{Te encuentras con geckos de fuego.}
-{602}{}{Te encuentras con una caravana huyendo de Garras mortales.}
-{603}{}{Te encuentras con una caravana luchando contra Garras mortales.}
+{602}{}{Te encuentras con una caravana huyendo de sanguinarios.}
+{603}{}{Te encuentras con una caravana luchando contra sanguinarios.}
 {604}{}{Te encuentras con una caravana luchando contra geckos de fuego.}
 {605}{}{Te encuentras con una caravana luchando contra geckos de fuego.}
 {606}{}{Te encuentras con una caravana.}
 {607}{}{Te encuentras con una caravana.}
 {608}{}{Te encuentras con una caravana.}
 {609}{}{Te encuentras con una caravana.}
-{650}{}{Te encuentras con aliens y Garras mortales.}
+{650}{}{Te encuentras con aliens y sanguinarios.}
 {651}{}{Te encuentras con centauros y nómadas.}
 {652}{}{Te encuentras con geckos de fuego.}
 {653}{}{Te encuentras con aliens.}
-{654}{}{Te encuentras con Garras mortales.}
+{654}{}{Te encuentras con sanguinarios.}
 {655}{}{Te encuentras con geckos de fuego.}
 {656}{}{Te encuentras con aliens.}
 {657}{}{Te encuentras con centauros.}
@@ -135,7 +135,7 @@
 {706}{}{Te encuentras con un viajero.}
 {750}{}{Te encuentras con una caravana eludiendo a restos del ejército del Maestro.}
 {751}{}{Te encuentras con una caravana luchando contra restos del ejército del Maestro.}
-{752}{}{Te encuentras con una caravana luchando contra Garras mortales.}
+{752}{}{Te encuentras con una caravana luchando contra sanguinarios.}
 {753}{}{Te encuentras con una caravana.}
 {754}{}{Te encuentras con una caravana.}
 {755}{}{Te encuentras con una caravana.}

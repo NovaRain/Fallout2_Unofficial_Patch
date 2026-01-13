@@ -328,7 +328,7 @@
 {941}{}{Veamos tu mercancía. Haré mis 'compras' ahora.}
 {943}{}{Ahora no quiero nada, pero no te preocupes, que volveré. }
 {950}{}{(Cruza los brazos). Adecuados. Si estás esperando un folleto por ser un buen samaritano, estás MUY equivocado. Y ahora… ¿qué es lo que quieres?}
-{951}{}{¡La madre que parió a la Garra mortal o al director de marketing que te hizo! ¡¿QUIERES algo?! ¡Aquí! ¡AQUÍ! ¡Toma ESTO!
+{951}{}{¡La madre que parió al sanguinario o al director de marketing que te hizo! ¡¿QUIERES algo?! ¡Aquí! ¡AQUÍ! ¡Toma ESTO!
  Toma todo lo que tengo! Lo que sea con tal de que me DEJES EN PAZ!}
 {952}{}{Déjame ver tu mercancía.}
 {953}{}{Tenía algunas preguntas...}

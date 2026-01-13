@@ -19,7 +19,7 @@
 {119}{}{}
 {120}{}{Escorpión menor}
 {121}{}{Mantis menor}
-{122}{}{Garra mortal menor}
+{122}{}{Sanguinario menor}
 {123}{}{Jarrón}
 {124}{}{Cofre}
 {125}{}{Cuevas de Arroyo}
@@ -543,7 +543,7 @@
 {643}{}{Terminal de computadora}
 {644}{}{Taquilla metálica}
 {645}{}{Baúl}
-{646}{}{Guardia Garra mortal}
+{646}{}{Guardia sanguinario}
 {647}{}{Goris}
 {648}{}{Caja}
 {649}{}{Taquilla metálica}
@@ -803,7 +803,7 @@
 {903}{}{Presidente Richardson}
 {904}{}{Howitzer}
 {905}{}{Puerta}
-{906}{}{Cría de Garra mortal}
+{906}{}{Cría de sanguinario}
 {907}{}{"Peligroso" Dan}
 {908}{}{Doc Johnson}
 {909}{}{Sheriff Marion}

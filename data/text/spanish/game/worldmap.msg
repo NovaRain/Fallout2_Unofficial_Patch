@@ -1203,7 +1203,7 @@
 {5250}{}{Montón de basura tóxica.}
 {5251}{}{Un solitario perro superviviente.}
 {5252}{}{Un rebaño de brahmines.}
-{5253}{}{Algunos alienígenas y Garras mortales}
+{5253}{}{Algunos alienígenas y sanguinarios}
 {5254}{}{Algunos cazarrecompensas.}
 {5255}{}{Algunos cazarrecompensas.}
 {5256}{}{Algunos cazarrecompensas.}
@@ -1216,7 +1216,7 @@
 {5263}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5264}{}{Algunos geckos de fuego.}
 {5265}{}{Una gran manada de alienígenas.}
-{5266}{}{Algunos Garras mortales.}
+{5266}{}{Algunos sanguinarios.}
 {5267}{}{Algunos geckos de fuego.}
 {5268}{}{Algunos alienígenas.}
 {5269}{}{Un grupo de centauros.}
@@ -1229,7 +1229,7 @@
 {5276}{}{El Hombre de Hojalata.}
 {5277}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5278}{}{El Café de los Sueños Rotos.}
-{5300}{}{Algunos alienígenas y Garras mortales.}
+{5300}{}{Algunos alienígenas y sanguinarios.}
 {5301}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5302}{}{Algunos geckos de fuego.}
 {5303}{}{Una gran manada de alienígenas.}
@@ -1242,14 +1242,14 @@
 {5310}{}{Algunos cazarrecompensas.}
 {5311}{}{Algunos cazarrecompensas.}
 {5312}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5313}{}{Algunos Garras mortales.}
+{5313}{}{Algunos sanguinarios.}
 {5314}{}{Algunos geckos de fuego.}
 {5315}{}{Algunos alienígenas.}
 {5316}{}{Un grupo de centauros.}
 {5317}{}{Un enjambre de nómadas.}
 {5318}{}{Un hombre guardando un puente.}
 {5319}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5350}{}{Algunos alienígenas y Garras mortales.}
+{5350}{}{Algunos alienígenas y sanguinarios.}
 {5351}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5352}{}{Algunos geckos de fuego.}
 {5353}{}{Una gran manada de alienígenas.}
@@ -1262,7 +1262,7 @@
 {5360}{}{Algunos cazarrecompensas.}
 {5361}{}{Algunos cazarrecompensas.}
 {5362}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5363}{}{Algunos Garras mortales.}
+{5363}{}{Algunos sanguinarios.}
 {5364}{}{Algunos geckos de fuego.}
 {5365}{}{Algunos alienígenas.}
 {5366}{}{Un grupo de centauros.}
@@ -1319,7 +1319,7 @@
 {5550}{}{Montón de basura tóxica.}
 {5551}{}{Un solitario perro superviviente.}
 {5552}{}{Un rebaño de brahmines.}
-{5553}{}{Una manada de Garras mortales.}
+{5553}{}{Una manada de sanguinarios.}
 {5554}{}{Algunos cazarrecompensas.}
 {5555}{}{Algunos cazarrecompensas.}
 {5556}{}{Algunos cazarrecompensas.}
@@ -1330,8 +1330,8 @@
 {5561}{}{Algunos cazarrecompensas.}
 {5562}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5563}{}{Una manada de geckos de fuego.}
-{5564}{}{Una caravana defendiéndose de Garras mortales.}
-{5565}{}{Una caravana defendiéndose de Garras mortales.}
+{5564}{}{Una caravana defendiéndose de sanguinarios.}
+{5565}{}{Una caravana defendiéndose de sanguinarios.}
 {5566}{}{Una caravana defendiéndose de geckos de fuego.}
 {5567}{}{Una caravana defendiéndose de geckos de fuego.}
 {5568}{}{Una caravana.}
@@ -1345,10 +1345,10 @@
 {5576}{}{Caballeros del Rey Arturo.}
 {5577}{}{El Hombre de Hojalata.}
 {5578}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5600}{}{Una manada de Garras mortales.}
+{5600}{}{Una manada de sanguinarios.}
 {5601}{}{Una manada de geckos de fuego.}
-{5602}{}{Una caravana defendiéndose de Garras mortales.}
-{5603}{}{Una caravana defendiéndose de Garras mortales.}
+{5602}{}{Una caravana defendiéndose de sanguinarios.}
+{5603}{}{Una caravana defendiéndose de sanguinarios.}
 {5604}{}{Algunos cazarrecompensas.}
 {5605}{}{Algunos cazarrecompensas.}
 {5606}{}{Algunos cazarrecompensas.}
@@ -1475,7 +1475,7 @@
 {5868}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {5900}{}{Una banda de mercenarios.}
 {5901}{}{Una banda de asaltantes.}
-{5902}{}{Un rebano de Garras mortales.}
+{5902}{}{Una manada de sanguinarios.}
 {5903}{}{Un grupo de geckos de fuego.}
 {5904}{}{Algunos cazarrecompensas.}
 {5905}{}{Algunos cazarrecompensas.}
@@ -1492,7 +1492,7 @@
 {5916}{}{Hubologistas.}
 {5950}{}{Una banda de mercenarios.}
 {5951}{}{Una banda de asaltantes.}
-{5952}{}{Un rebano de Garras mortales.}
+{5952}{}{Una manada de sanguinarios.}
 {5953}{}{Un grupo de geckos de fuego.}
 {5954}{}{Algunos cazarrecompensas.}
 {5955}{}{Algunos cazarrecompensas.}
@@ -1511,7 +1511,7 @@
 {5968}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {6000}{}{Una banda de mercenarios.}
 {6001}{}{Una banda de asaltantes.}
-{6002}{}{Un rebano de Garras mortales.}
+{6002}{}{Una manada de sanguinarios.}
 {6003}{}{Un grupo de geckos de fuego.}
 {6004}{}{Algunos cazarrecompensas.}
 {6005}{}{Algunos cazarrecompensas.}
@@ -1540,7 +1540,7 @@
 {6061}{}{Algunos cazarrecompensas.}
 {6062}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6063}{}{Una banda de asaltantes.}
-{6064}{}{Un rebano de Garras mortales.}
+{6064}{}{Una manada de sanguinarios.}
 {6065}{}{Un grupo de geckos de fuego.}
 {6066}{}{Un montón de alienígenas.}
 {6067}{}{Hubologistas luchando contra mercenarios.}
@@ -1567,7 +1567,7 @@
 {6110}{}{Algunos cazarrecompensas.}
 {6111}{}{Algunos cazarrecompensas.}
 {6112}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6113}{}{Una manada de Garras mortales.}
+{6113}{}{Una manada de sanguinarios.}
 {6114}{}{Una manada de geckos de fuego.}
 {6115}{}{Un montón de alienígenas.}
 {6116}{}{Una caravana defendiéndose de mercenarios.}
@@ -1585,7 +1585,7 @@
 {6128}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6129}{}{El Café de los Sueños Rotos.}
 {6150}{}{Una banda de mercenarios.}
-{6151}{}{Una manada de Garras mortales.}
+{6151}{}{Una manada de sanguinarios.}
 {6152}{}{Una manada de geckos de fuego.}
 {6153}{}{Un montón de alienígenas.}
 {6154}{}{Algunos cazarrecompensas.}
@@ -1617,7 +1617,7 @@
 {6211}{}{Algunos cazarrecompensas.}
 {6212}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6213}{}{Restos del ejército del Maestro.}
-{6214}{}{Una manada de Garras mortales.}
+{6214}{}{Una manada de sanguinarios.}
 {6215}{}{Un enjambre de mantis.}
 {6216}{}{Los restos de una ballena.}
 {6217}{}{Una cabeza de piedra gigante.}
@@ -1629,7 +1629,7 @@
 {6223}{}{El Café de los Sueños Rotos.}
 {6250}{}{Una gran manada de alienígenas.}
 {6251}{}{Restos del ejército del Maestro.}
-{6252}{}{Una manada de Garras mortales.}
+{6252}{}{Una manada de sanguinarios.}
 {6253}{}{Un enjambre de mantis.}
 {6254}{}{Algunos cazarrecompensas.}
 {6255}{}{Algunos cazarrecompensas.}
@@ -1656,7 +1656,7 @@
 {6311}{}{Algunos cazarrecompensas.}
 {6312}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6313}{}{Una caravana defendiéndose de restos del ejército del Maestro.}
-{6314}{}{Una caravana defendiéndose de algunos Garras mortales.}
+{6314}{}{Una caravana defendiéndose de algunos sanguinarios.}
 {6315}{}{Una caravana.}
 {6316}{}{Una caravana.}
 {6317}{}{Una caravana.}
@@ -1670,7 +1670,7 @@
 {6325}{}{El Café de los Sueños Rotos.}
 {6350}{}{Una caravana defendiéndose de restos del ejército del Maestro.}
 {6351}{}{Una caravana defendiéndose de restos del ejército del Maestro.}
-{6352}{}{Una caravana defendiéndose de algunos Garras mortales.}
+{6352}{}{Una caravana defendiéndose de algunos sanguinarios.}
 {6353}{}{Una caravana.}
 {6354}{}{Algunos cazarrecompensas.}
 {6355}{}{Algunos cazarrecompensas.}

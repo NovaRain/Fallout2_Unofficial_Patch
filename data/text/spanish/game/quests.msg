@@ -112,7 +112,7 @@
 {1514}{}{Recupera el bazo de Chip.}
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
 {1516}{}{Consíguele a la Hermandad del Acero los planos del vertibird.}
-{1600}{}{Encárgate de la Garra mortal.}
+{1600}{}{Encárgate del sanguinario.}
 {1601}{}{Repara a K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}

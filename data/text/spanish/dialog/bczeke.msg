@@ -58,7 +58,7 @@
 {157}{}{Vete, no tengo nada que decirte.}
 {158}{}{Espera un momento... antes de que te vayas. Encontré esta tarjeta hace algún tiempo, pero no tengo ni idea de para qué sirve. Rebecca dice que tú has encontrado la puerta donde están reteniendo a Chrissy. Quizás esta tarjeta la abra. Toma, guárdala.}
 {159}{}{Gracias.}
-{160}{}{¿Puedo ayudarte en algo?}
+{160}{}{¿En que puedo ayudarte?}
 {161}{}{Sólo los problemas con la RNC, pero creo que el trato que nos ofreciste los solventará.}
 {162}{}{¡Lo has conseguido, amigo! Ya no estaremos más bajo el yugo de Darion. ¡Gracias!}
 {163}{}{Ahora que Darion ya no está no tenemos forma de conseguir comida. ¡Estoy seguro de que pereceremos! Muchas gracias.}
