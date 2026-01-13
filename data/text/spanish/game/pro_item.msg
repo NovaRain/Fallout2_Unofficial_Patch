@@ -106,7 +106,7 @@
 {5301}{}{Una caja de píldoras que alteran la mente. Incrementa las funciones relacionadas con la memoria, y la velocidad de otros procesos mentales. Altamente adictiva.}
 {5400}{}{Sigilante}
 {5401}{}{Un dispositivo personal de sigilo Stealth Boy 3001, de RobCo. Genera un campo modulado que transmite la luz reflejada de la cara de un objeto sobre otra.}
-{5500}{}{Chip Acuatico}
+{5500}{}{Chip De Agua}
 {5501}{}{Un chip de agua de Vault-Tec. Normalmente se empaquetan en grupos de cinco por caja.}
 {5600}{}{Chapas de identificación}
 {5601}{}{Un juego de chapas de identificación. El nombre Dickinson y la palabra Enclave son apenas legibles.}
@@ -170,7 +170,7 @@
 {8501}{}{Un trozo de Cordex, una marca militar de explosivo plástico. Altamente inestable, y muy destructivo. Incluye un temporizador.}
 {8600}{}{Manual del explorador}
 {8601}{}{Un libro de ideales y consejos para exploradores. Contiene mucha información práctica respecto a la vida en el exterior.}
-{8700}{}{Esteroides}
+{8700}{}{Musculeína}
 {8701}{}{Esteroides altamente avanzados. Mientras hacen efecto, incrementan la fuerza y los reflejos. Muy adictivos.}
 {8800}{}{Reloj}
 {8801}{}{Un reloj caro. En realidad no funciona, pero sigue pareciendo bonito.}
@@ -610,7 +610,7 @@
 {31001}{}{Una botella de cerveza radiactiva. ¡Brilla en la oscuridad!}
 {31100}{}{Ron Roetgen}
 {31101}{}{Una botella de ron Roetgen. ¡Brilla en la oscuridad!}
-{31200}{}{Formulario de solicitud de piezas}
+{31200}{}{Formulario de Solicitud de Piezas}
 {31201}{}{Esto es un formulario de solicitud de piezas.}
 {31300}{}{Revólver mágnum .44}
 {31301}{}{Siendo éste el mejor revólver del mundo, capaz de volarte los sesos de un tiro, ¿no crees que debieras pensar que eres afortunado? ¿Verdad que sí, vago? Min FU: 5.}

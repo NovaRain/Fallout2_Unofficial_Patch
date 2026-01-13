@@ -12,7 +12,7 @@
 {223}{}{Tierras de caza}
 {224}{}{Pastos comunales}
 {225}{}{Cañon}
-{230}{}{Calle Principal}
+{230}{}{Calle principal}
 {231}{}{Cama y Comida de Rose}
 {232}{}{Pastos para brahmines de Grisham}
 {233}{}{Jardin de Farrel}

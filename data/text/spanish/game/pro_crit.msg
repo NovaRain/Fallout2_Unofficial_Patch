@@ -292,8 +292,8 @@
 {27500}{}{Madre sanguinaria}
 {27600}{}{El Dragón}
 {27700}{}{Lo Pan}
-{27800}{}{Hubologista}
-{27900}{}{Hubologista}
+{27800}{}{Hubólogo}
+{27900}{}{Hubólogo}
 {28000}{}{Extraño Misterioso}
 {28100}{}{Extraño Misterioso}
 {28200}{}{Extraño Misterioso}
