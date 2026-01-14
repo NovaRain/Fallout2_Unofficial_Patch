@@ -287,7 +287,7 @@
 {27000}{}{Extraño Misterioso}
 {27100}{}{Extraño Misterioso}
 {27200}{}{Hakeswill}
-{27300}{}{Gran Jesús Mordino}
+{27300}{}{El Gran Jesus Mordino}
 {27400}{}{Dumar}
 {27500}{}{Madre sanguinaria}
 {27600}{}{El Dragón}

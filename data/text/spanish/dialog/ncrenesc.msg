@@ -121,12 +121,12 @@
 {450}{}{(Señala a Myron). ¿Por que no le preguntas a tu amiguito cachondo? Estoy seguro de que le encantará contártelo. (Mira
  a Myron). ¿Verdad, muchacho?}
 {451}{}{Hay una persona a la que le podemos agradecer el Jet. ¿Has oído hablar del pequeño chico de oro de la Familia Mordino, Myron? Pues bien, el pequeño
- bastardo CREÓ el Jet. Gran Jesús Mordino se limita a permitir que todo el mundo sepa dónde podría conseguirlo.}
+ bastardo CREÓ el Jet. El Gran Jesus Mordino se limita a permitir que todo el mundo sepa dónde podría conseguirlo.}
 {452}{}{Háblame más de Myron.}
 {453}{}{¿Hay alguna cura para el Jet?}
 {454}{}{Tenía algunas preguntas más...}
-{460}{}{Gran Jesús Mordino está canalizando el Jet hacia Redding. El típico juego de poder. En cuanto esa línea de suministro funciona al 100%, esos
- mineros están perdidos.}
+{460}{}{El Gran Jesús Mordino está canalizando el Jet hacia Redding. El típico juego de poder. En cuanto esa línea de suministro funcione al 100%, esos
+ mineros estarán perdidos.}
 {461}{}{¿De dónde procede el Jet?}
 {463}{}{Ya veo. Oye, tenía algunas preguntas más...}
 {470}{}{Cachondo como un sapo y con sus mismas costumbres. Pero es un chico inteligente. Tiene un alto cociente intelectual. Desperdicia su cabeza fabricando drogas, eso es cierto, joder.}

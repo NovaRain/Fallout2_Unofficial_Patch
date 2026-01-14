@@ -427,7 +427,7 @@
 {527}{}{Ethyl Wright}
 {528}{}{Padre Tully}
 {529}{}{HumperdumperDIDO}
-{530}{}{Pequeño Jesús Mordino}
+{530}{}{El Pequeño Jesus Mordino}
 {531}{}{Jeta Jimmy J}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
@@ -453,7 +453,7 @@
 {553}{}{Camarero}
 {554}{}{Diputado Karl}
 {555}{}{Puerta de celda}
-{556}{}{Gran Jesús Mordino}
+{556}{}{El Gran Jesus Mordino}
 {557}{}{Hoss}
 {558}{}{Suero mutagénico}
 {559}{}{Caja}

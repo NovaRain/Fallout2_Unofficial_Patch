@@ -837,9 +837,9 @@
 {43000}{}{Proyectil de Howitzer}
 {43001}{}{Un proyectil de 75mm. de un cañón Howitzer. La mayoría del revestimiento esta corroído, pero puedes ver estas letras: EXP. 25-09-98.}
 {43100}{}{Maleta de Ramirez, cerrada}
-{43101}{}{Esta es la maleta que recibiste de Gran Jesús Mordino para dársela a Ramirez en el Establo.}
+{43101}{}{Esta es la maleta que recibiste del Gran Jesus Mordino para dársela a Ramirez en el Establo.}
 {43200}{}{Maleta de Ramirez, abierta}
-{43201}{}{Esta es la maleta que recibiste de Gran Jesús Mordino para dársela a Ramirez en el Establo. Está abierta, y has sacado el Jet que había dentro.}
+{43201}{}{Esta es la maleta que recibiste de Gran Jesus Mordino para dársela a Ramirez en el Establo. Está abierta y has sacado el Jet que había dentro.}
 {43300}{}{Gafas de espejo}
 {43301}{}{Un par de gafas de sol a la última moda. Sólo con tenerlas en tu inventario hace que te sientas más guay.}
 {43400}{}{Carro}
@@ -996,7 +996,7 @@
 {51600}{}{Realzador médico PipBoy}
 {51601}{}{Este realzador consiste en un holodisco de almacenamiento, un cable de microfilamentos, un casco, y un sensor óptico que se sitúa sobre el ojo derecho. Al usarlo, un destello óptico transmite un diccionario de habilidades y conocimientos médicos en la memoria del usuario, mejorando de forma permanente su habilidad médica.}
 {51700}{}{"Jesusito"}
-{51701}{}{Esta hoja de apariencia maléfica perteneció a Pequeño Jesús Mordino. Tiene numerosos rasguños y cortes por toda su superficie, pero su hoja está bien afilada. En su mango está grabado "Jesusito".}
+{51701}{}{Esta hoja de apariencia maléfica perteneció al Pequeño Jesus Mordino. Tiene numerosos rasguños y cortes por toda su superficie, pero su hoja está bien afilada. En su mango está grabado "Pequeño Jesus".}
 {51800}{}{Minicañón doble}
 {51801}{}{Lo usan sólo los personajes con auto-cañón.}
 {51900}{}{Chapas de botella}
