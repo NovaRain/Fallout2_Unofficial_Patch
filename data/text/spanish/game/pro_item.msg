@@ -596,13 +596,13 @@
 {30301}{}{En la etiqueta de este holodisco pone: "Datos de rendimiento del reactor de Gecko". Este disco contiene una serie de números que no significan nada para ti. De todas formas, estás seguro de que mucha de la información que contiene es importante para alguien.}
 {30400}{}{Baraja de cartas "Tragic"}
 {30401}{}{Una baraja de un juego de cartas coleccionables. Parece que podría ser un pasatiempo caro si te enganchases a él.}
-{30500}{}{Pase amarillo del reactor}
+{30500}{}{Tarjeta de Acceso al Reactor Amarilla}
 {30501}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
 {30600}{}{Pase rojo del reactor}
 {30601}{}{Una tarjeta de seguridad, codificada en color rojo.}
 {30700}{}{Transformador de plasma}
 {30701}{}{Esto es un transformador trifásico de plasma.}
-{30800}{}{Super-set de herramientas}
+{30800}{}{Super Kit de Herramientas}
 {30801}{}{Una impresionante colección de herramientas fabricadas por la marca 'Snap-Off'.}
 {30900}{}{Talismán}
 {30901}{}{Un talismán usado por los seguidores de El Cerebro.}

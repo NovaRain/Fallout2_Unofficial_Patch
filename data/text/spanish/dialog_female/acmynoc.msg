@@ -53,8 +53,8 @@
 {185}{}{¡Qué rápido! ¿Has encontrado ya el sagrado Refugio 13?}
 {186}{}{Sí.}
 {187}{}{No, aún no.}
-{188}{}{¿Lo lograste?, ¡maravilloso!,
- ¿trajiste el GECK?}
+{188}{}{¿Lo lograste?, ¡Maravilloso!,
+ ¿Trajiste el GECK?}
 {189}{}{No.}
 {190}{}{No. Todavía no he hablado con la gente del Refugio.}
 {191}{}{No creo que sea asunto tuyo, amigo.}
@@ -142,7 +142,7 @@
 {429}{}{Ya he tenido suficiente.}
 {430}{}{La gente muere mientras te dedicas a pasear por ahí. Quizás deberías seguir buscando en vez de volver aquí.}
 {500}{}{¿Has hablado ya con la Anciana?}
-{1000}{}{Maestre}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}
