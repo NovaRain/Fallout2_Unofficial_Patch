@@ -14,7 +14,7 @@
 {158}{}{¿Qué quieres saber?}
 {159}{}{¿Qué puedes decirme de los hombres
  que comercian con nuestro poblado?}
-{160}{}{¿Qué puedes decirme sobre este objeto que tengo de un Refugio?}
+{160}{}{¿Qué puedes decirme sobre este objeto que tengo de un refugio?}
 {161}{}{Nada, no importa.}
 {162}{}{Muy bien, pero no pierdas mucho tiempo.
  Sin el GECK, estamos condenados.}

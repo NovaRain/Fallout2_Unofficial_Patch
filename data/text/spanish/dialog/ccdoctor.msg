@@ -32,7 +32,9 @@
 {131}{}{Este era el pabellón médico de la base. Sin embargo, sentía que mis experimentos tenían preferencia sobre las insignificantes necesidades médicas de los soldados, así que lo convertí en un laboratorio.}
 {132}{}{Qué... bien.}
 {133}{}{Eso está bien. Cuéntame más.}
-{134}{}{¿Que por qué la habitación no hace ruido? Oh, ¡te refieres a la insonorización! Durante mis investigaciones realicé... experimentos en sujetos de prueba. A veces gritaban un... poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
+{134}{}{¿Que por qué la habitación no hace ruido? Oh, ¡Te refieres a la insonorización! Durante
+mis investigaciones realicé... experimentos en sujetos de prueba.
+A veces gritaban un... poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
 {135}{}{Durante mis investigaciones realicé... experimentos en sujetos de prueba. A veces gritaban... un poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
 {136}{}{Oh...}
 {137}{}{Ya veo.}
