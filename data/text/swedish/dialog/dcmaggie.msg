@@ -56,7 +56,7 @@
 {202}{}{OK!}
 {203}{}{Er... uh... I have to go.}
 {205}{}{You were OK.}
-{206}{}{Next time, let's play "Into the Glow." But for now...}
+{206}{}{Nästa gång spelar vi "In i Strålningen." Men för tillfället...}
 {207}{}{Can you do something for me?}
 {208}{}{I have to go, but I'll come back.}
 {209}{}{What can I do for you, sweet cheeks?}
