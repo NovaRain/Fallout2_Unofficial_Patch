@@ -10,8 +10,6 @@
     commands for Fallout 2
 ***************************************************************/
 
-variable How_Many_Party_Members_Are_Injured;
-
 #define FOLLOW_DISTANCE_CLOSE               (3)
 #define FOLLOW_DISTANCE_MEDIUM              (6)
 #define FOLLOW_DISTANCE_FAR                 (9)
@@ -90,52 +88,6 @@ variable How_Many_Party_Members_Are_Injured;
 //#define Is_Armed(Who)                       (((obj_item_subtype(critter_inven_obj(Who,INVEN_TYPE_RIGHT_HAND))) == item_type_weapon)       \
 //                                            or ((obj_item_subtype(critter_inven_obj(Who,INVEN_TYPE_LEFT_HAND))) == item_type_weapon))
 #define Is_Armed(Who)                       (((obj_item_subtype(critter_inven_obj(Who,INVEN_TYPE_RIGHT_HAND))) == item_type_weapon))
-
-
-#define If_Party_Has_Injured                How_Many_Party_Members_Are_Injured := 0;            \
-                                            if (Vic_In_Party) then                              \
-                                                if (Is_Injured(Vic_Ptr)) then                   \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Myron_In_Party) then                            \
-                                                if (Is_Injured(Myron_Ptr)) then                 \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Marcus_In_Party) then                           \
-                                                if (Is_Injured(Marcus_Ptr)) then                \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (MacRae_In_Party) then                           \
-                                                if (Is_Injured(MacRae_Ptr)) then                \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Sulik_In_Party) then                            \
-                                                if (Is_Injured(Sulik_Ptr)) then                 \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Lenny_In_Party) then                            \
-                                                if (Is_Injured(Lenny_Ptr)) then                 \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Cyberdog_In_Party) then                         \
-                                                if (Is_Injured(Cyberdog_Ptr)) then              \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Doc_In_Party) then                              \
-                                                if (Is_Injured(Doc_Ptr)) then                   \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Goris_In_Party) then                            \
-                                                if (Is_Injured(Goris_Ptr)) then                 \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Davin_In_Party) then                            \
-                                                if (Is_Injured(Davin_Ptr)) then                 \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Miria_In_Party) then                            \
-                                                if (Is_Injured(Miria_Ptr)) then                 \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Laddie_In_Party) then                           \
-                                                if (Is_Injured(Laddie_Ptr)) then                \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Robobrain_In_Party) then                        \
-                                                if (Is_Injured(Robobrain_Ptr)) then             \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (Bess_In_Party) then                             \
-                                                if (Is_Injured(Bess_Ptr)) then                  \
-                                                    How_Many_Party_Members_Are_Injured+=1;      \
-                                            if (How_Many_Party_Members_Are_Injured > 0)
 
 #define Party_Childkiller_Mask              (bit_2 BWOR bit_4 BWOR bit_6 BWOR bit_8 BWOR bit_10 BWOR bit_12 BWOR bit_14 BWOR    \
                                              bit_16 BWOR bit_18 BWOR bit_20 BWOR bit_22 BWOR bit_24 BWOR bit_26 BWOR bit_28     \

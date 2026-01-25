@@ -910,7 +910,6 @@ procedure Node005 begin
    NOption(163,Node009,004);
    if ( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then // added ( dude_is_crippled ) - killap
       NOption(164,Node006,004);
-   //If_Party_Has_Injured then
    if (k > 0) then
      NOption(165,Node007,004);
    NOption(166,Node999,004);

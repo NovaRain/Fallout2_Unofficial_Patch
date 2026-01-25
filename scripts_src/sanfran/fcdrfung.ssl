@@ -294,8 +294,6 @@ procedure Node001 begin
    NLowOption(104, Node020);
    if ( (dude_max_hits - dude_cur_hits) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
       NOption(105, Node002, 4);
-//   if (If_Party_Has_Injured) then
-//      NOption(106, Node003, 4);// this could get complicated
    NOption(107, NodeBarter, 4);
    NOption(108, Node004, 4);
    if (spleen_flag(SP_FOUND)) then
