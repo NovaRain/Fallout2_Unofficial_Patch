@@ -865,7 +865,7 @@ procedure Node02a begin
    Reply(125);
    if ( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
       NOption(116,Node006,004);
-   If (k > 0) then begin
+   if (k > 0) then begin
       NOption(117,Node007,004);
       //NOption(118,Node007,004);
    end
