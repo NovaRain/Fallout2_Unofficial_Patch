@@ -180,6 +180,7 @@ procedure Node2022;
                                                 (critter_state(self_obj) bwand DAM_CRIP_ARM_RIGHT))
 
 #define cassidy_party_member_options    \
+           NOption(9999, Node1101, 004); \
            party_member_default_options
 
 #define head_frm "art\\heads\\casdybf1.frm"
@@ -630,7 +631,7 @@ procedure Node017a begin
    // Set up Out of Business sign.
    create_east_out_of_business( 19284, 0 );
 
-   party_member_default_options; //added by killap
+   call Node019; //added by killap
 end
 
 procedure Node018 begin
@@ -746,22 +747,17 @@ end
 
 // Cassidy dialog
 procedure Node1101 begin
-   if( Myron_Ptr != 0 ) then
+   if( Myron_Ptr != 0 ) then begin
       Reply(261);
-   else
-      Reply(262);
-
-   if( Myron_Ptr != 0 ) then
       NOption(263, Node1110, 001);
-   //NOption(264, Node1102, 001);
-   if( Myron_Ptr != 0 ) then
+      //NOption(264, Node1102, 001);
       NOption(265, Node019, 001);
-   if( Myron_Ptr == 0 ) then
-      NOption(266, Node019, 001);
-   if( Myron_Ptr == 0 ) then
-      NOption(267, Node1101a, 001);
-   if( Myron_Ptr != 0 ) then
       NOption(268, Node1101a, 001);
+   end else begin
+      Reply(262);
+      NOption(266, Node019, 001);
+      NOption(267, Node1101a, 001);
+   end
 end
 
 procedure Node1101a begin
