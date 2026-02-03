@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "fcdrfung"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_FCDRFUNG
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
@@ -141,9 +142,8 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_SAN_FRAN_SHI);
    set_self_ai(AI_SF_SHI);
 
-   restock_fix
-   if (game_time > local_var(LVAR_Restock_Time)) then begin
-      variable tmp_box = move_quest_items();
+   if (unsigned_int_compare(game_time, local_var(LVAR_Restock_Time)) > 0) then begin
+      variable tmp_box := move_quest_items();
       check_restock_item(PID_STIMPAK, 5, 7, 100)
       check_restock_item(PID_FIRST_AID_KIT, 1, 3, 60)
       check_restock_item(PID_RADAWAY, 1, 3, 60)
