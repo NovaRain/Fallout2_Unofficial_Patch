@@ -76,7 +76,8 @@
 {175}{}{ non riesce a scassinare la serratura.}
 {176}{}{Forzi la serratura.}
 {177}{}{Nel tentativo di forzare la serratura, ti stiri la schiena e subisci un punto di danno.}
-{178}{}{ Nel tentativo di forzare la serratura, ti stiri la schiena e subisci }
+{178}{}{Nel tentativo di forzare la serratura, ti stiri la schiena e 
+subisci }
 {179}{}{ punti di danno.}
 {180}{}{Sei troppo debole per forzare la serratura.}
 {181}{}{ forza la serratura.}
