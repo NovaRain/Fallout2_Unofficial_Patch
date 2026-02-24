@@ -219,7 +219,7 @@
 {751}{}{Fottiti.}
 {752}{}{Uh, okay.}
 {800}{}{Hai ucciso il leader della Gilda degli Schiavisti.}
-{1360}{}{$ per lei. Che ne dici?}
+{1360}{}{ for her. How about it?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
@@ -229,14 +229,14 @@
 {1541}{}{$. Sei stato grande. Continua cosi'.}
 {1542}{}{.}
 {1543}{}{, }
-{1544}{}{$. Non c'e' molto da sorridere, ma non potevi pretendere di piu'.}
-{1545}{}{$. Un lavoro ben fatto.}
+{1544}{}{ isn't something to laugh at, but you can't make a lot more than that.}
+{1545}{}{ this time. Pretty good job.}
 {1546}{}{.}
 {1547}{}{$? Non male.}
 {1548}{}{$? Puoi fare di meglio.}
 {1549}{}{.}
 {1550}{}{$! Pietoso! Rimettiti in riga o ti caccio.}
-{1551}{}{$ e sparisci.}
+{1551}{}{ and get out.}
 {2540}{}{.}
 {2543}{}{.}
 {15401}{}{$. Un lavoro niente male, }

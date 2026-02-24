@@ -53,5 +53,5 @@
 {152}{}{Come si fa a far partire questa nave? Beh, vedo che le hai gia' fatto il pieno. Quando ti sarai occupato di tutto il resto, basta che tu prema il pulsante d'avviamento. Il computer fara' il resto, se funziona ancora. Si dirigera' esattamente verso la piattaforma petrolifera, e grazie all'emettitore di segnali SIAN non verrai accolto a cannonate. Devi solo fare in modo di avere tutto quel che ti serve: un FOB, un computer funzionante, e il carburante. Piuttosto facile, no? }
 {153}{}{Ah, certo. Devi anche mettere in funzione il computer di navigazione. Scommetto che troverai il pezzo che ti serve in uno dei vecchi vault.}
 {154}{}{Mi fa piacere rivederti. Che cosa ti serve?}
-{155}{}{ ed e' li' che troverai le risposte che cerchi.}
+{155}{}{, and unless I miss my bet, that's where your friends are, too.}
 {156}{}{.}
