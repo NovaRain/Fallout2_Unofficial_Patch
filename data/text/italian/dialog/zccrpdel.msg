@@ -17,9 +17,9 @@
 {116}{}{Puntata sul Field.}
 {118}{}{Tira}
 {119}{}{Puntata sul Passline:}
-{120}{}{Puntata sul don't Passline: }
-{121}{}{Puntata sul Comeline: }
-{122}{}{Puntata sul don't Comeline: }
+{120}{}{Don't pass line bet set at:}
+{121}{}{Come line bet set at:}
+{122}{}{Don't come line set at:}
 {123}{}{7:}
 {124}{}{d3:}
 {125}{}{d4:}
