@@ -1,2 +1,2 @@
-1:Sei riuscito a distruggere i Vat, hai poi ucciso il Master prima che potesse realizzare i suoi contorti piani.
-2:Con il Master sconfitto, le sue armate fuggirono verso est temendo ritorsioni della gente normale.
+1:You managed to destroy the Vats, then you killed the Master before he could realize his twisted plans.
+2:With the Master gone, his armies flee to the east in fear of retribution from the remaining normals.
