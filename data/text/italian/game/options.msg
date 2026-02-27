@@ -28,7 +28,7 @@
 {122}{}{Influenza velocita' giocatore}
 {123}{}{Pip-Boy speech}
 {201}{}{On}
-{202}{}{Spento}
+{202}{}{Spe.}
 {203}{}{Facile}
 {204}{}{Normale}
 {205}{}{Difficile}
