@@ -228,7 +228,7 @@
 {511}{}{Ta me tirando, bandidao? Eu sou uma potencia bombada a jet! Eu vou chutar sua bunda daqui!}
 {512}{}{Voce quer um pouco disso, gangster?! Huh?}
 {513}{}{::Olha para você com os olhos encharcados de droga::}
-{520}{}{Whoa... what are YOU on? Got any to share?}
+{520}{}{Caramba... o que você tomou? Tem um pouco pra mim?}
 {521}{}{I thought *I* was fucked up.}
 {522}{}{Hey, friend... share some of that shit you're on.}
 {523}{}{I'd ask you to fly, but you look like you're already there.}
