@@ -2,7 +2,7 @@
 {101}{}{Você visualiza uma punk feminina.}
 {102}{}{Você visualiza uma mulher bastante bonita e cínica.}
 {103}{}{Eu aposto que meu namorado se ofereceu para me compartilhar.}
-{104}{}{Às vezes eu fico de saco cheio de viajar.}
+{104}{}{Às vezes eu me canso de viajar.}
 {105}{}{Com certeza seria legal morar aqui.}
 {106}{}{Eu aposto que poderíamos fazer uma cena e tanto.}
 {107}{}{Você já esteve ao oeste cruzando a água?}
