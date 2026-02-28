@@ -15,7 +15,7 @@
 {240}{}{Te va ben, amico?}
 {241}{}{Veramente, mi piacerebbe dare un'altra occhiata alla tua merce, se possibile.}
 {242}{}{Veramente, vorrei farti una domanda.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{Sono a posto. Ci vediamo, Flick.}
 {260}{}{Mi so un mercante, cossa ti credi? 'na specie de bon Samurai-tano.}
 {261}{}{Come?}
 {262}{}{Certo, ehm, beh…lascia che ti chieda qualcos'altro.}
@@ -29,9 +29,9 @@
 {301}{}{Uh, no.}
 {302}{}{Oh, OK. Lascia che ti chieda qualcos'altro, allora.}
 {303}{}{Ah, capisco. Beh, non vorrei rovinarti gli, ehm, affari, stando qui. Ci vediamo.}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
-{316}{}{Sembra che vi siate sistemati bene.}
-{325}{}{(alza le spalle) No me lamento.}
+{315}{}{Mi portano la roba che trovano. Piccole, piccole cose. Roba che nessuno usa piu'. In cambio, io mi prendo cura di loro.}
+{316}{}{Sembra un ottimo accordo.}
+{325}{}{(Alza le spalle) Non mi lamento.}
 {326}{}{Lascia che ti chieda qualcos'altro, allora.}
 {327}{}{Sicuramente ti hanno portato dei veri affari. Vediamo cos'hai da offrirmi.}
 {328}{}{Ero solo curioso. Beh, ci vediamo, Flick.}
