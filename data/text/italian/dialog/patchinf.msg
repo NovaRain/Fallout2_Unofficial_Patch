@@ -1,2 +1,2 @@
-{100}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
-{101}{}{You are running UPU v1.02.x, based on killap's unofficial F2 patch. Thanks for installing!}
+{100}{}{Stai eseguendo UPU v1.02.x, basato sulla patch non ufficiale di killap per F2. Versione italiana adattata da Gabriele Zancanella e tradotta da Ragfox e la comunita' bgforge.net. Grazie per averla installata!}
+{101}{}{Stai eseguendo UPU v1.02.x, basato sulla patch non ufficiale di killap per F2. Versione italiana adattata da Gabriele Zancanella e tradotta da Ragfox e la comunita' bgforge.net. Grazie per averla installata!}
