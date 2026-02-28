@@ -6,8 +6,8 @@
 {122}{}{Deerk deegler!}
 {123}{}{Chi tu?}
 {124}{}{Marcus ha fatto delle domande sul tuo conto.}
-{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
-{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Ci sono abbastanza prove per arrestarti con l'accusa di aver rubato del denaro destinato a Broken Hills. E' finita.}
+{126}{}{Ci sono abbastanza prove per arrestarti con l'accusa di aver rubato del denaro destinato a Broken Hills. Dammi 1000$ e faro' in modo che tu possa fuggire dalla citta'.}
 {127}{}{Chi sei?}
 {128}{}{Parlami di questo posto.}
 {129}{}{Nulla. Arrivederci.}
@@ -15,23 +15,21 @@
 {131}{}{Aivedecci!}
 {132}{}{Io sono Chad. }
 {133}{}{Guarda, sono molto occupato. Per favore, va' a disturbare qualcun altro.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
+{134}{}{Sono il capo carovaniere della citta'. Mi occupo degli affari all'altro capo delle rotte commerciali. In questo periodo mi sto occupando soprattutto di Gecko.}
 {135}{}{D'okay!}
 {136}{}{Vorrei lavorare con te.}
 {137}{}{Sembra eccitante.}
 {138}{}{Sembra noioso.}
 {139}{}{Ho delle altre domande.}
 {140}{}{Grazie. Ciao.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Vuoi che ti parli di Broken Hills? Beh... sono arrivato qui pochi anni fa. Ho iniziato a lavorare con Bill -– e' il Fornitore -– e sono giunto dove sono adesso. Devo rendere conto a Marcus e a Bill, ma sono io il responsabile del sostentamento di questa citta'.}
 {142}{}{Ho delle altre domande.}
 {143}{}{Addio.}
 {144}{}{Ad esempio?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
+{145}{}{Sospetta che tu stia facendo la cresta sul denaro destinato a Broken Hills.}
 {146}{}{Non proprio. Arrivederci.}
 {147}{}{Guarda, non mi piace la gente che mi accusa di qualcosa di cui non so nulla. Ti suggerisco di andartene.}
-{150}{}{I'm going to find out the truth. Bye.}
+{150}{}{Scopriro' la verita'. Arrivederci.}
 {156}{}{Parla con Bill. Ti aiutera' lui.}
 {157}{}{Ho delle altre domande.}
 {158}{}{Grazie. Ciao.}
