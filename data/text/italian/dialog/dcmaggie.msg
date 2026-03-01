@@ -14,13 +14,13 @@
 {161}{}{Mmmm...}
 {162}{}{Fottiti.}
 {163}{}{Sto andando.}
-{164}{}{Sorry, no offense was meant. Can I ask something?}
-{165}{}{Drink of whiskey is $5 and the gambling tables are right over there. Have a good one.}
+{164}{}{Scusa, non volevo offendere. Posso chiedere qualcosa?}
+{165}{}{Un bicchiere di whisky costa 5$ e i tavoli da gioco sono proprio la'. Buon divertimento.}
 {166}{}{Posso farti una domanda?}
-{167}{}{I want a drink!}
-{168}{}{Hmm, those are some cheap drinks. Let's see one.}
+{167}{}{Voglio da bere!}
+{168}{}{Hmm, sono bevande piuttosto economiche. Vediamone una.}
 {169}{}{Grazie. Ciao.}
-{170}{}{Vault 13? Nope, never heard of it.}
+{170}{}{Vault 13? No, non ne ho mai sentito parlare.}
 {171}{}{Hmm, can I ask something else?}
 {172}{}{Damn, I need to find it. Bye.}
 {173}{}{Cosa vorresti sapere?}
