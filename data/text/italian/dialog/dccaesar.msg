@@ -112,47 +112,46 @@
 {256}{}{Vorrei comprarlo.}
 {257}{}{Perche' lo trattieni qui?}
 {258}{}{Nulla. Non importa.}
-{259}{}{He is not for sale, yet.}
+{259}{}{Non e' ancora in vendita.}
 {260}{}{Perche' no?}
 {261}{}{Oh, okay.}
-{262}{}{He will cost $2000.}
-{263}{}{Here is your money.}
-{264}{}{That's a lot. Maybe later.}
-{265}{}{The cost is $1000.}
-{266}{}{Here is your money.}
-{267}{}{Don't have that much yet. Bye.}
-{268}{}{Our radio is broken and he's in charge of fixing it.}
+{262}{}{Costera' 2000$.}
+{263}{}{Ecco i tuoi soldi.}
+{264}{}{E' tanto. Forse piu' tardi.}
+{265}{}{Il costo e' 1000$.}
+{266}{}{Ecco i tuoi soldi.}
+{267}{}{Non ho ancora cosi' tanti soldi. Ciao.}
+{268}{}{La nostra radio e' rotta e lui e' incaricato di ripararla.}
 {269}{}{Capisco.}
-{270}{}{You haven't got the money!}
-{271}{}{Too bad for me. Can I ask you a question?}
-{272}{}{Sorry, I'll come back.}
-{307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
+{270}{}{Non hai i soldi!}
+{271}{}{Peccato per me. Posso farti una domanda?}
+{272}{}{Scusa, torno dopo.}
+{307}{}{Come osi tornare dopo aver abbandonato i tuoi fratelli durante una Caccia agli Schiavi! Guardie! Attaccate!}
 {308}{}{[fatto]}
-{309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
+{309}{}{Eccellente! Potrebbero volerci alcuni giorni per andare e tornare. Sei pronto a partire adesso?}
 {310}{}{No. Tornero'.}
-{311}{}{Yes, I'm ready. Let's go.}
-{312}{}{Ah, you are back from the Slave run. Let's see how you did...}
+{311}{}{Si, sono pronto. Andiamo.}
+{312}{}{Ah, sei tornato dalla Caccia agli schiavi. Vediamo come te la sei cavata...}
 {313}{}{[avanti]}
 {314}{}{[avanti]}
-{315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,
- the others are of no threat.}
+{315}{}{Hai ucciso potenziali schiavi! Un uomo morto non ci porta alcun guadagno! Devi uccidere solo quelli che sono una minaccia, gli altri non lo sono.}
 {316}{}{[avanti]}
-{317}{}{You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,
- not lose it.}
+{317}{}{Non hai portato nemmeno uno schiavo! Che diavolo ti prende? Stiamo cercando di fare soldi qui,
+ non di perderli.}
 {318}{}{[avanti]}
-{319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
-{320}{}{Thank you. I will.}
-{321}{}{I don't know if I like this too much.}
-{322}{}{You need to improve your enslavement technique.}
+{319}{}{Tutto sommato, hai fatto un buon lavoro in questa Caccia. Continua cosi' e potrei tenerti ancora un po' in giro.}
+{320}{}{Grazie. Lo faro'.}
+{321}{}{Non so se mi piace molto questa cosa.}
+{322}{}{Devi migliorare la tua tecnica di schiavizzazione.}
 {323}{}{Ci provero'.}
-{324}{}{I apologize for my poor performance.}
-{325}{}{I think I'm good enough.}
-{326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.
- You don't need to kill them all! Just kill off the hostile ones. Leave the unarmed ones for collection.}
-{327}{}{I'm sorry, Metzger.}
-{328}{}{Hey, it's tough work to be a Slaver!}
-{329}{}{I'd like to see you do better.}
+{324}{}{Mi scuso per la mia scarsa prestazione.}
+{325}{}{Penso di essere abbastanza bravo.}
+{326}{}{Dannazione! Hai fatto una pessima figura in questa Caccia. Stai cercando di rovinarmi? Sta' piu' attento la prossima volta.
+ Non devi ucciderli tutti! Ammazza solo quelli ostili. Lascia quelli disarmati per la raccolta.}
+{327}{}{Mi dispiace, Metzger.}
+{328}{}{Ehi, fare lo Schiavista e' un lavoro duro!}
+{329}{}{Vorrei vederti fare di meglio.}
 {330}{}{Vorrei partecipare ad un rastrellamento di schiavi.}
-{331}{}{Damn it! I hate losing any guild member on a Run. Try to watch each other's back!}
-{332}{}{Overall, you did well this Run. Here is $}
-{333}{}{ as an incentive for you to keep up the good work.}
+{331}{}{Dannazione! Odio perdere membri della gilda durante una Caccia. Cercate di coprirvi le spalle a vicenda!}
+{332}{}{Tutto sommato, hai fatto un buon lavoro in questa Caccia. Ecco $}
+{333}{}{ come incentivo per continuare a fare un buon lavoro.}

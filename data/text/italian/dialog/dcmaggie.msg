@@ -1,13 +1,13 @@
-{100}{}{You see the owner of the saloon.}
-{101}{}{You see Becky.}
-{150}{}{This looks like the owner.}
-{151}{}{This is Becky, owner of this place.}
+{100}{}{Vedi il proprietario del saloon.}
+{101}{}{Vedi Becky.}
+{150}{}{Sembra il proprietario.}
+{151}{}{Questa e' Becky, la proprietaria di questo posto.}
 {152}{}{[PARLA]}
-{153}{}{Hello, stranger, and welcome to my saloon. I'm Becky.}
-{154}{}{Hello, I am }
+{153}{}{Benvenuto straniero nel mio saloon. Sono Becky.}
+{154}{}{Ciao, sono }
 {155}{}{. Cosa c'e' da fare da queste parti?}
 {156}{}{Ciao, sono }
-{157}{}{. Can I ask some questions?}
+{157}{}{. Posso fare alcune domande?}
 {158}{}{Mammina?}
 {159}{}{Mag gah.}
 {160}{}{Smamma. Non ho bisogno di gente come te da queste parti.}
