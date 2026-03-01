@@ -26,10 +26,10 @@
 {174}{}{Sono Metzger, capo della Gilda degli Schiavisti. Cosa ti serve?}
 {175}{}{Si', avrei delle domande.}
 {176}{}{No grazie. Me ne vado.}
-{177}{}{Swavuh???}
-{178}{}{Please leave. Now.}
+{177}{}{Schiavisti???}
+{178}{}{Per favore vattene. Adesso.}
 {179}{}{Oppure cosa?}
-{180}{}{Alright. But I'll be back!}
+{180}{}{D'accordo. Ma tornero'!}
 {181}{}{OK. ciao.}
 {182}{}{Cosa vorresti sapere?}
 {183}{}{About Trader Vic...}
