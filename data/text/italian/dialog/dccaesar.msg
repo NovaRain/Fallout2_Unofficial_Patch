@@ -57,59 +57,59 @@
 {204}{}{Affascinante. Devo andare.}
 {205}{}{La nostra missione e' fornire una forza lavoro stabile e di alta qualita' per
  soddisfare la crescente domanda delle citta' piu' grandi. Vuoi unirti a noi?}
-{206}{}{Sure. Sounds great.}
+{206}{}{Certo. Sembra ottimo.}
 {207}{}{Assolutamente no.}
-{208}{}{I'll get back to you on that. What cities buy your slaves?}
-{209}{}{Sorry, that's private guild information.}
-{210}{}{OK. Sign me up!}
-{211}{}{No! You guys are sick people!}
-{212}{}{I'll consider that. I have more questions.}
-{213}{}{Hmm, I'll come back later.}
-{214}{}{We will need to brand a small marking on your forehead to show to all
- your allegiance with the slavers guild. Are you ready?}
-{215}{}{Sounds great! Do it!}
-{216}{}{I've changed my mind. Can I ask another question?}
-{217}{}{I don't have time right now. I have to go.}
-{218}{}{Welcome to the guild!}
-{219}{}{Great, I have questions!}
-{220}{}{OK, thanks. I'll be back.}
-{221}{}{Vault 13? No. Wait... I think Vic's from Vault City. Maybe that's it.}
-{222}{}{Yes, where is it?}
-{223}{}{No. I have another question though.}
-{224}{}{No, never mind.}
-{225}{}{We sell most of our slaves to Vault City and New Reno. New Reno is
- south east of here and most of the Den trades with it.}
-{226}{}{Where is Vault City?}
+{208}{}{Ci pensero' su. Quali citta' comprano i vostri schiavi?}
+{209}{}{Spiacente, sono informazioni riservate della gilda.}
+{210}{}{Ok. Iscrivimi!}
+{211}{}{No! Siete dei malati!}
+{212}{}{Ci pensero'. Ho altre domande.}
+{213}{}{Hmm, tornero' piu' tardi.}
+{214}{}{Dovremo marchiare una piccola incisione sulla tua fronte per mostrare a tutti
+ la tua appartenenza alla gilda degli schiavisti. Sei pronto?}
+{215}{}{Ottimo! Fallo!}
+{216}{}{Ho cambiato idea. Posso fare un'altra domanda?}
+{217}{}{Non ho tempo adesso. Devo andare.}
+{218}{}{Benvenuto nella gilda!}
+{219}{}{Ottimo, ho delle domande!}
+{220}{}{Ok, grazie. Tornero'.}
+{221}{}{Vault 13? No. Aspetta... credo che Vic venga da Vault City. Forse e' quello.}
+{222}{}{Si', dov'e'?}
+{223}{}{No. Ho un'altra domanda, pero'.}
+{224}{}{No, lascia perdere.}
+{225}{}{Vendiamo la maggior parte dei nostri schiavi a Vault City e New Reno. New Reno e'
+ a sud-est di qui e la maggior parte del Den commercia con essa.}
+{226}{}{Dov'e' Vault City?}
 {227}{}{Ho delle altre domande.}
-{228}{}{Thanks, gotta go.}
-{229}{}{Vault City is east of here, and a little south. Vic's from there.}
+{228}{}{Grazie, devo andare.}
+{229}{}{Vault City e' a est di qui, un po' a sud. Vic viene da li'.}
 {230}{}{Ho delle altre domande.}
-{231}{}{Thanks; gotta go.}
-{232}{}{Hmm, looks like a healthy slave. I'll give you }
-{233}{}{ coins.}
-{234}{}{OK! It's a deal.}
-{235}{}{Uh, never mind.}
-{236}{}{No way! I want double!}
-{237}{}{You drive a hard bargain. Here is your money!}
-{238}{}{Thanks. I have some more questions.}
+{231}{}{Grazie, devo andare.}
+{232}{}{Hmm, sembra uno schiavo in buona salute. Ti daro'}
+{233}{}{ monete.}
+{234}{}{Ok! Affare fatto.}
+{235}{}{Uh, lascia perdere.}
+{236}{}{Neanche per sogno! Ne voglio il doppio!}
+{237}{}{Sei un osso duro. Ecco i tuoi soldi!}
+{238}{}{Grazie. Ho altre domande.}
 {239}{}{Grazie. Ciao.}
 {240}{}{Altro?}
-{241}{}{Yes, I have a question.}
+{241}{}{Si', ho una domanda.}
 {242}{}{No. Ci vediamo.}
-{243}{}{Which "friend" are you selling?}
-{244}{}{Um, never mind.}
-{245}{}{Interesting. I'll give you }
-{246}{}{ coins.}
-{247}{}{Sold!}
+{243}{}{Quale "amico" vuoi vendere?}
+{244}{}{Uhm, lascia perdere.}
+{245}{}{Interessante. Ti daro'}
+{246}{}{ monete.}
+{247}{}{Venduto!}
 {248}{}{No, grazie.}
-{249}{}{I want more money than that!}
-{250}{}{Alright, I'll give you }
-{251}{}{ but no more!}
-{252}{}{Sold!}
-{253}{}{Not good enough.}
-{254}{}{That's way too little. I'm leaving.}
-{255}{}{What do you want with Vic? He's my property now. He shouldn't have fucked with me.}
-{256}{}{I'd like to buy him.}
+{249}{}{Voglio piu' soldi di cosi'!}
+{250}{}{D'accordo, ti daro'}
+{251}{}{ ma non di piu'!}
+{252}{}{Venduto!}
+{253}{}{Non basta.}
+{254}{}{E' decisamente troppo poco. Me ne vado.}
+{255}{}{Che cosa vuoi da Vic? Ora e' roba mia. Non avrebbe dovuto mettersi contro di me.}
+{256}{}{Vorrei comprarlo.}
 {257}{}{Perche' lo trattieni qui?}
 {258}{}{Nulla. Non importa.}
 {259}{}{He is not for sale, yet.}
