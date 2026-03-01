@@ -32,31 +32,31 @@
 {180}{}{D'accordo. Ma tornero'!}
 {181}{}{OK. ciao.}
 {182}{}{Cosa vorresti sapere?}
-{183}{}{About Trader Vic...}
-{184}{}{Can I join the Slaver's Guild?}
-{185}{}{I'd like to sell my husband into slavery.}
-{186}{}{I'd like to sell my wife. How much?}
-{187}{}{I'd like to sell one of my friends here.}
-{188}{}{Tell me about the guild.}
-{189}{}{What cities buy your slaves?}
-{190}{}{I'd like to buy a slave.}
-{191}{}{I'm looking for Vault 13. Have you heard of it?}
-{192}{}{Metzger? That's a strange name.}
-{193}{}{Nothing. I have to go.}
-{195}{}{It's from an old language, prewar or something.}
-{196}{}{Metzger means butcher. Fitting, don't you think?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
-{198}{}{I read some book about a Metzger. He was a president, or something.}
-{199}{}{Look who's talking tribal.}
-{200}{}{It's Germen, German, Garmen, or something. Ancient language, from a
- long time ago.}
+{183}{}{A proposito del Mercante Vic...}
+{184}{}{Posso unirmi alla Gilda degli Schiavisti?}
+{185}{}{Vorrei vendere mio marito come schiavo.}
+{186}{}{Vorrei vendere mia moglie. Quanto mi date?}
+{187}{}{Vorrei vendere uno dei miei amici qui.}
+{188}{}{Parlami della gilda.}
+{189}{}{Quali citta' comprano i vostri schiavi?}
+{190}{}{Vorrei comprare uno schiavo.}
+{191}{}{Sto cercando il Vault 13. Ne hai sentito parlare?}
+{192}{}{Metzger? E' un nome strano.}
+{193}{}{Niente. Devo andare.}
+{195}{}{Viene da una lingua antica, del prima guerra o qualcosa del genere.}
+{196}{}{Metzger significa macellaio. Appropriato, non credi?}
+{197}{}{Era il nome di mio bisnonno. Veniva da qualche posto lontano a
+ est. Al di la' di un grande specchio d'acqua.}
+{198}{}{Ho letto di un certo Metzger in un libro. Era un presidente, o qualcosa del genere.}
+{199}{}{Guarda chi parla, selvaggio.}
+{200}{}{E' Germen, Tedesco, Garmen, o qualcosa del genere. Una lingua antica, di
+ molto tempo fa.}
 {201}{}{Et tu, Brutus?}
-{202}{}{I see. I still have a question, though.}
-{203}{}{That is the dumbest thing I have ever heard.}
-{204}{}{Fascinating. Gotta go.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{202}{}{Capisco. Ho ancora una domanda, pero'.}
+{203}{}{E' la cosa piu' stupida che abbia mai sentito.}
+{204}{}{Affascinante. Devo andare.}
+{205}{}{La nostra missione e' fornire una forza lavoro stabile e di alta qualita' per
+ soddisfare la crescente domanda delle citta' piu' grandi. Vuoi unirti a noi?}
 {206}{}{Sure. Sounds great.}
 {207}{}{Assolutamente no.}
 {208}{}{I'll get back to you on that. What cities buy your slaves?}
