@@ -16,16 +16,16 @@
 {164}{}{Per favore, per favore, per favore; mi dispiace.}
 {165}{}{Oh beh, ci ho provato.}
 {166}{}{Allora vaffanculo!}
-{167}{}{Alright, alright. Apology accepted.}
-{168}{}{Whew. Can I ask you some questions?}
-{169}{}{I'm glad we straightened that out. See you later.}
-{170}{}{Hello. It's good to see you.}
-{171}{}{Hi Metzger. We need to talk.}
-{172}{}{You too. Bye.}
+{167}{}{Va bene, va bene. Scuse accettate.}
+{168}{}{Uff. Posso farti alcune domande?}
+{169}{}{Sono contento che abbiamo chiarito. A piu' tardi.}
+{170}{}{Ciao. Fa' piacere vederti.}
+{171}{}{Ciao Metzger. Dobbiamo parlare.}
+{172}{}{Anche a te. Ciao.}
 {173}{}{Blurp.}
-{174}{}{I am Metzger, Head of the Slaver's Guild. Whatcha need?}
+{174}{}{Sono Metzger, capo della Gilda degli Schiavisti. Cosa ti serve?}
 {175}{}{Si', avrei delle domande.}
-{176}{}{No thanks. I'll just go now.}
+{176}{}{No grazie. Me ne vado.}
 {177}{}{Swavuh???}
 {178}{}{Please leave. Now.}
 {179}{}{Oppure cosa?}
