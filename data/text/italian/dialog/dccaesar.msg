@@ -8,14 +8,14 @@
 {156}{}{Cosa c'e' adesso? Stai davvero cominciando a farmi incazzare.}
 {157}{}{Vorrei scusarmi.}
 {158}{}{Scusa, ero drogato prima. Non volevo dire niente.}
-{159}{}{Whoa, what's your problem?}
-{160}{}{I wanted to ask you a question.}
-{161}{}{Apparently I have. Good bye.}
+{159}{}{Ehi, qual e' il tuo problema?}
+{160}{}{Volevo farti una domanda.}
+{161}{}{A quanto pare si'. Arrivederci.}
 {162}{}{Wah.}
-{163}{}{Well, it's too late for that. Get out.}
-{164}{}{Please, please, please; I'm sorry.}
-{165}{}{Oh well, I tried.}
-{166}{}{Screw you, then!}
+{163}{}{Beh, e' troppo tardi per quello. Vattene.}
+{164}{}{Per favore, per favore, per favore; mi dispiace.}
+{165}{}{Oh beh, ci ho provato.}
+{166}{}{Allora vaffanculo!}
 {167}{}{Alright, alright. Apology accepted.}
 {168}{}{Whew. Can I ask you some questions?}
 {169}{}{I'm glad we straightened that out. See you later.}
