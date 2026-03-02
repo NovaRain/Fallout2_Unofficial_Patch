@@ -2403,7 +2403,7 @@
 {36828}{}{Pensavi che non avresti pagato per i tuoi crimini contro gli innocenti?}
 {36829}{}{La feccia come te merita di morire.}
 {36830}{}{Preparati a morire!}
-{36831}{}{Ti spediro' dritto dritto all'Inferno!}
+{36831}{}{Ti spediro' dritto, dritto all'Inferno!}
 {36832}{}{C'e' una bella taglia sulla tua testa.}
 {36833}{}{Non prendertela troppo, ma ti ammazzero' proprio ora.}
 {36834}{}{Un altro giorno e un altro assassino.}
