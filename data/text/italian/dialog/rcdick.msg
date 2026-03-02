@@ -116,8 +116,9 @@
 {214}{}{Non riesco a tirare avanti, senza Jet. Tutti volano con lui, ultimamente. Mi devo fare una dose solo per stare in piedi. Diamine, il piacere che sento quando mi faccio e' di gran lunga inferiore al male che sto quando non mi faccio.}
 {215}{}{Lascia che ti chieda qualcos'altro.}
 {216}{}{Interessante. Grazie e arrivederci.}
-{217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better...
-(bends over and dry heaves a bit)...sorry. Say pardner, can we talk about something else?}
+{217}{}{Il Jet è roba pesante, amico. Tutti quelli che lo usano si sono messi male, come se stessero per crepare. Forse è meglio che… 
+(si piega in avanti e conati a vuoto)… scusa.
+Senti, compare, possiamo parlare d’altro?}
 {218}{}{Certo, scusa se te l'ho chiesto. Lascia che ti chieda qualcos'altro.}
 {219}{}{Interessante. Grazie e arrivederci.}
 {220}{}{Non voglio piu' sentir parlare di quel dannato Jet. Quella roba ti uccide. E' peggio del veleno di Radscorpione. Non posso credere che quella roba mi piacesse davvero. L'ultima volta... credevo di essere spacciato.}

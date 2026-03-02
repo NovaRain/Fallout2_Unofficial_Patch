@@ -1,9 +1,9 @@
-{100}{}{You see a cheat character.}
-{101}{}{This guy shouldn't be here.}
-{102}{}{Hey it's a cheat character.}
-{103}{}{Hey that hurt.}
-{104}{}{Hello what would you like to happen.}
-{105}{}{Setting Westin's flags.}
+{100}{}{Vedi un personaggio che bara.}
+{101}{}{Questo tizio non dovrebbe essere qui.}
+{102}{}{Ehi, è un personaggio che bara.}
+{103}{}{Ehi, questo fa male.}
+{104}{}{Ciao, cosa vorresti che succedesse?}
+{105}{}{Impostazione dei flag di Westin.}
 {106}{}{Set Accept Snuffing westin?}
 {107}{}{Unset Accept Snuffing Westin.}
 {108}{}{Set Westin Dead.}
