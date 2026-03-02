@@ -34,38 +34,38 @@ Perche’, stai cercando qualcosa?}
 {130}{}{Vabbe', come vuoi. Io me ne vado.}
 {131}{}{È peggio. I Cittadini non bevono molto, quindi resto qui a servire da bere ai mercanti. Il prossimo tirchio che prova a contrattare per un drink si ritroverà il mio stivale nel culo.}
 {132}{}{Sembri piuttosto stufo di questo posto.}
-{133}{}{Sorry to hear that. What do you know about the Vault?}
-{134}{}{We all make mistakes... some more than others. So what do you want?}
+{133}{}{Mi dispiace. Che cosa sai del Vault?}
+{134}{}{Capita a tutti di sbagliare… alcuni più di altri. Allora, che vuoi?}
 {135}{}{Cosa succede da queste parti?}
 {136}{}{Niente per oggi, grazie. Arrivederci.}
-{137}{}{Yeah, wish I could get the hell outta here.}
+{137}{}{Già, vorrei potermene andare da questo dannato posto.}
 {138}{}{Perche' non te vai?}
-{139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
+{139}{}{Andarmene nelle Lande da solo? Sono annoiato, non stupido.}
 {140}{}{Io sto per andarmene da qui. Perche' non vieni con me?}
 {141}{}{Beh, buona fortuna.}
 {142}{}{Nah... mi pare che tu abbia gia' una discreta folla al tuo seguito.}
 {143}{}{D'accordo. Beh, buona fortuna.}
-{144}{}{You know, that doesn't sound like a half bad idea. Count me in.}
-{145}{}{Yeah, what?}
+{144}{}{Sai, non sembra affatto una cattiva idea. Contaci.}
+{145}{}{Sì, che c’è?}
 {146}{}{Voglio che tu ti tolga di mezzo.}
 {147}{}{Come stai?}
 {148}{}{Curati.}
 {149}{}{Voglio che tu stia qua finche' non ritorno.}
-{150}{}{You! Ooyag!}
+{150}{}{Tu! Ooyag!}
 {151}{}{E' tutto, per ora.}
-{152}{}{OK, everything's stitched up. Let's get going.}
-{153}{}{OK, pretty much everything is patched up.}
+{152}{}{OK, è tutto ricucito. Andiamo.}
+{153}{}{OK, più o meno è tutto sistemato.}
 {154}{}{Sono quasi a posto, ma mi farebbe comodo un altro paio di stim.}
-{155}{}{I used what I could, but I'm still pretty messed up. Got any stims on you?}
-{156}{}{Use First Aid on yourself.}
+{155}{}{Ho usato quello che potevo, ma sono ancora messo male. Hai qualche stim su di te?}
+{156}{}{Usa il Primo Soccorso su di te.}
 {157}{}{Lasciamo stare.}
 {158}{}{OK.}
-{159}{}{OK, I'll wait here.}
+{159}{}{OK, aspetterò qui.}
 {160}{}{Lasciamo stare.}
 {161}{}{OK.}
-{162}{}{Let's get going.}
+{162}{}{Andiamo.}
 {163}{}{OK.}
-{164}{}{Look, you have enough people following your coat tails now.}
-{165}{}{Yeah, you go with that.}
+{164}{}{Senti, hai già abbastanza gente che ti segue.}
+{165}{}{Sì, continua pure così.}
 {166}{}{Credo che non prendero' nulla, grazie.}
-{167}{}{I think I'm just going to hang around here a little longer.}
+{167}{}{Credo che me ne starò qui ancora un po’.}

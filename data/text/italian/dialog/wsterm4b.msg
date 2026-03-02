@@ -52,8 +52,8 @@
 {151}{}{Estrazione completa                                            Grazie per aver usato un prodotto Vault-Tec. Consultate il nostro catalogo per conoscere l'intera linea di prodotti Vault-Tec.}
 {152}{}{}
 {153}{}{Esci.}
-{154}{}{Extraction failed-- local sensor overload.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
+{154}{}{Estrazione fallita — sovraccarico dei sensori locali.}
+{155}{}{Estrazione fallita — impossibile inizializzare la procedura per la fisiologia del soggetto.}
 {170}{}{Umano }
 {171}{}{Cane}
 {172}{}{Felino }

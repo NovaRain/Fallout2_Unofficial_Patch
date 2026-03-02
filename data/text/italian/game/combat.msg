@@ -99,7 +99,7 @@
 {420}{female_npc}{ha colpito alla cieca}
 {421}{female_npc}{ha ferito un arto a caso}
 {422}{female_npc}{e' stata colpita dai frammenti}
-{506}{}{You}
+{506}{}{Tu}
 {509}{}{Oops! %sSei stata colpita al posto di %s!}
 {511}{}{%sHai subito un colpo critico %s per %d punti vita}
 {512}{}{%sSei stata colpita %s per %d punti vita}
@@ -117,7 +117,7 @@
 {528}{}{%sHai subito un colpo critico senza danni}
 {533}{}{%s ha mancato miseramente il bersaglio e si e' causata un danno di 1 punto vita}
 {534}{}{%s ha mancato miseramente il bersaglio e si e' causata di %d punti vita}
-{556}{}{You}
+{556}{}{Tu}
 {559}{female_pc}{Oops! %sSei stata colpita al posto di %s!}
 {561}{female_pc}{%sHai subito un colpo critico %s per %d punti vita}
 {562}{female_pc}{%sSei stata colpita %s per %d punti vita}
