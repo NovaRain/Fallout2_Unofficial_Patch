@@ -323,5 +323,5 @@
 {5543}{}{! La terribile chica combattente! Sei grande, chica!}
 {5560}{}{? }
 {6035}{}{No TOCCARE mano di }
-{7035}{}{'s hand }
+{7035}{}{mano di }
 {8035}{}{ NO PIACE}

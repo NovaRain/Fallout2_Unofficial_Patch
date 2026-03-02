@@ -51,8 +51,8 @@
 {150}{}{Ragazzo, ti prendi cura dei tuoi amici? ::cough:: Se vuoi prenderti cura di questo, dovrai pagare 150$.}
 {151}{}{Paghero'.}
 {152}{}{Scordatelo.}
-{153}{}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good...
-because this is going to cost ::cough:: $200.}
+{153}{}{Devi essere davvero bravo per ispirare una tale lealta' nei tuoi amici. Spero che tu lo sia...
+perche' questo costera' ::colpo di tosse:: $200.}
 {154}{}{Paghero'.}
 {155}{}{Scordatelo.}
 {156}{}{Ahia! Dovro' applicare un'ingessatura. Per poter sfruttare le mie estese conoscenze mediche, dovrai pagarmi 300$.}

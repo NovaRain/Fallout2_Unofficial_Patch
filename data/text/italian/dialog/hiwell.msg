@@ -54,7 +54,7 @@
 {153}{}{::Piagnucolio...::}
 {154}{}{Me no interessa piu' pozzo, ormai.}
 {155}{}{Hmmmm... Continuo ad avere questa strana sensazione... come se mi fossi dimenticato qualcosa a proposito del pozzo. Oh beh, meglio non perdere altro tempo...}
-{156}{}{Could someone help me out here?}
+{156}{}{Qualcuno puo' aiutarmi?}
 {157}{}{AIUTO!!!}
 {158}{}{Ooooh! Muschio! Ho una fame!}
 {159}{}{Sta strisciando su di me! Oddio!}

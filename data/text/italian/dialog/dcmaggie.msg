@@ -51,43 +51,43 @@
 {198}{}{Ehi, non hai abbastanza soldi per questo drink. Sei piu' povero anche di questi ubriaconi!}
 {199}{}{Scusa.}
 {200}{}{Hmm, tornero' piu' tardi.}
-{201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little
- game I call "First Strike." If you're good, well, there's "Ground Zero."}
+{201}{}{Hmm. Fammi chiamare qualcuno a tenere il bancone. Tu ed io possiamo andare nel retro e giocare 
+ a un piccolo gioco che chiamo "Primo Colpo". Se sei bravo, beh, c'e' anche "Zona Zero".}
 {202}{}{OK!}
 {203}{}{Er... uh... devo andare.}
-{205}{}{You were OK.}
-{206}{}{Next time, let's play "Into the Glow." But for now...}
+{205}{}{Te la sei cavata.}
+{206}{}{La prossima volta, giochiamo a "Nel Bagliore". Ma per ora...}
 {207}{}{Puoi fare qualcosa per me?}
 {208}{}{Devo andare, ma tornero' piu' tardi.}
-{209}{}{What can I do for you, sweet cheeks?}
+{209}{}{Cosa posso fare per te, faccino carino?}
 {210}{}{Ho bisogno di un altro po' d'amore.}
-{211}{}{I got some questions.}
-{212}{}{How can you sell your drinks so cheaply?}
-{213}{}{How about a drink?}
+{211}{}{Ho alcune domande.}
+{212}{}{Come riesci a vendere i tuoi drink a prezzi cosi' bassi?}
+{213}{}{Che ne dici di un drink?}
 {214}{}{Devo correre. Ci si vede.}
-{215}{}{Not now. Maybe later. Yes, definitely later.}
+{215}{}{Non ora. Forse dopo. Si', sicuramente dopo.}
 {216}{}{Posso farti una domanda?}
 {217}{}{A piu' tardi, allora.}
-{218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno
- gangsters.}
-{219}{}{Smart girl! I like that!}
+{218}{}{Ho un alambicco nel seminterrato. L'ho costruito io stesso. Meglio che pagare il triplo a quei
+ gangster di New Reno.}
+{219}{}{Ragazza sveglia! Mi piace!}
 {220}{}{Hmm, devo andare. Ci vedremo piu' tardi.}
-{221}{}{Why? Why did you destroy my still? You bastard!}
-{222}{}{Nothing personal. I got paid to do it.}
+{221}{}{Perche'? Perche' hai distrutto il mio alambicco? Bastardo!}
+{222}{}{Niente di personale. Sono stato pagato per farlo.}
 {223}{}{Mi dispiace.}
 {224}{}{Addio.}
 {225}{}{Ne faro' semplicemente un altro, lo sai.}
-{226}{}{I know.}
+{226}{}{Lo so.}
 {227}{}{Beh, e' un bene.}
 {228}{}{Addio.}
-{232}{}{Why? Why did you destroy my still? You bitch!}
-{233}{}{Where are you, baby?}
-{234}{}{Are you coming?}
+{232}{}{Perche'? Perche' hai distrutto il mio alambicco? Bastarda!}
+{233}{}{Dove sei, tesoro?}
+{234}{}{Stai arrivando?}
 {235}{}{Sto aspettando.}
-{236}{}{I'm in here, lover.}
-{237}{}{I've got a bar to run.}
-{238}{}{Follow me, sugar.}
-{240}{}{How did you... Do that... Uhhh...}
-{241}{}{It's O.K., size doesn't really matter.}
-{242}{}{That was, ummm, nice -- I guess.}
-{243}{}{Thanks, sweety; that was fun.}
+{236}{}{Sono qui dentro, amore.}
+{237}{}{Ho un bar da gestire.}
+{238}{}{Seguimi, dolcezza.}
+{240}{}{Come hai... Fatto... Quella cosa... Uhhh...}
+{241}{}{Va bene, la dimensione non conta davvero.}
+{242}{}{E' stato, ummm, carino -- credo.}
+{243}{}{Grazie, dolcetto; e' stato divertente.}

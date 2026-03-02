@@ -386,7 +386,7 @@
 {1237}{}{Tu amico?}
 {1245}{myn208}{Eccellente... ecco a te. Un drink ti aiutera' a rilassarti. Capisci quello che voglio dire, vero?}
 {1246}{}{(Bevi)}
-{1247}{}{Yoo }
+{1247}{}{Te }
 {1255}{myn209}{Uh, ehi, ehi, ehi! Aspetta un secondo! Rimani - prima bevi un bicchiere! Possiamo parlare, essere amici. Tu VUOI che diventiamo amici, giusto?}
 {1265}{myn210}{Sono siiiiiicuro che diventeremo amici.}
 {1266}{}{Vuole amico.}

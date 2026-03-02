@@ -1,6 +1,6 @@
-{100}{}{A small boy}
+{100}{}{Un ragazzino}
 {101}{}{Jonny}
-{102}{}{Blonde hair, blue eyes, your typical all American looking kid.}
+{102}{}{Capelli biondi, occhi azzurri, il tipico ragazzo d'America.}
 {150}{}{Waaaaa!}
 {151}{}{Rivoglio il mio cane!}
 {152}{}{Piagnucolio...}
@@ -9,20 +9,20 @@
 {155}{}{Ciao, non ti ho mai visto da queste parti, prima d'ora.}
 {156}{}{Ti chiami Jonny?}
 {157}{}{Qual e' il tuo nome, ragazzino?}
-{158}{}{Tell me your name you little monster.}
-{159}{}{Would you like some candy little kid.}
+{158}{}{Dimmi il tuo nome, mostricciattolo.}
+{159}{}{Vuoi delle caramelle, bambino?}
 {160}{}{Ciao.}
 {161}{}{Ti chiami Jonny?}
 {162}{}{Qual e' il tuo nome, ragazzino?}
-{163}{}{Tell me your name you little monster.}
-{164}{}{Would you like some candy little kid.}
+{163}{}{Dimmi il tuo nome, mostricciattolo.}
+{164}{}{Vuoi delle caramelle, bambino?}
 {165}{}{Ciao.}
 {166}{}{Tua madre e tuo padre mi hanno chiesto di cercarti.}
-{167}{}{Would you like some candy little kid.}
+{167}{}{Vuoi delle caramelle, bambino?}
 {168}{}{Hai chiesto a Vegeir se posso tornare a casa?}
 {169}{}{Si'. Vuole che i tuoi genitori vengano qui e ti prendano.}
 {170}{}{No, non ancora.}
-{171}{}{My dad said Laddie went with you to look for me. Where is she? I miss her.}
+{171}{}{Mio papa' ha detto che Laddie e' andata con te a cercarmi. Dov'e'? Mi manca.}
 {172}{}{Mi dispiace Jonny. Laddie e' morto mentre ti stavamo cercando.}
 {173}{}{Rose ha detto che si sarebbe presa cura del tuo cane.}
 {174}{}{Il mio nome e' Jonny. Qual e' il tuo?}
@@ -31,9 +31,9 @@
 {177}{}{Come mi chiamo non ha importanza.}
 {178}{}{Mi chiamo Jonny, e tu non mi piaci.}
 {179}{}{[Ti indica e comincia a gridare.] Straniero! Straniero! Straniero!}
-{180}{}{Very nice to meet you .}
+{180}{}{Molto piacere di conoscerti.}
 {181}{}{Tua madre e tuo padre mi hanno chiesto di cercarti.}
-{182}{}{See you around kid.}
+{182}{}{Ci vediamo in giro, ragazzo.}
 {183}{}{Che bello! Io volevo andare a casa, ma Vegeir mi ha detto che la sua gente non puo' viaggiare per cosi' tanto tempo in superficie e quindi nessuno mi avrebbe accompagnato... non che io non mi fidi di te, ma qual e' il nome di mio padre?}
 {184}{}{Farrel}
 {185}{}{Cornelius}

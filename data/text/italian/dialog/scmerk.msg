@@ -35,7 +35,7 @@
 {134}{}{Ancora tu? Allora... hai fatto cio' che dovevi?}
 {135}{}{Glub.}
 {136}{}{No.}
-{137}{}{I got some questions.}
+{137}{}{Ho alcune domande.}
 {138}{}{Hmm... Robusto. Stupido... se vuoi un lavoro, parla con Mira. Capito? Mi-ra. Laggiu'.}
 {139}{}{Ti piace fare chiasso, eh? Qualcuno potrebbe gentilmente buttar fuori questo testa di brahmin?}
 {140}{}{Sei davvero cosi' stupido? Credi che io possa assumere il primo venuto come se fosse niente? Se vuoi lavorare per me, devi dimostrare di esser buono a qualcosa.}
