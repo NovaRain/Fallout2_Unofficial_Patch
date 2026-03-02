@@ -29,15 +29,10 @@ Perche’, stai cercando qualcosa?}
 {125}{}{Tieni. Bevi. È praticamente l’unico divertimento che vedrai in questo posto di rigidi.}
 {126}{}{Non può essere così terribile.}
 {127}{}{Grazie per il drink. Direi che me ne vado.}
-{128}{}{Look. I asked if you wanted a drink and then told you what it would cost.
- Most people understand the process. If you don't got the money, you shouldn't have
- asked.}
-{129}{}{Sorry. Thought I had the cash. Not being able to see your money in the
- dialogue screen creates some problems, y'know?}
+{128}{}{Ascolta. Ti ho chiesto se volevi da bere e poi ti ho detto quanto costava. La maggior parte della gente capisce come funziona. Se non hai i soldi, non avresti dovuto chiedere.}
+{129}{}{Scusa. Pensavo di avere i soldi. Non poter vedere i tuoi soldi nella schermata di dialogo crea qualche problema, sai?}
 {130}{}{Vabbe', come vuoi. Io me ne vado.}
-{131}{}{It's worse. The Citizens don't drink much, so I'm stuck here giving merchants
- drinks. The next cheap bastard who tries to haggle for a drink is going to find
- my boot in his ass.}
+{131}{}{È peggio. I Cittadini non bevono molto, quindi resto qui a servire da bere ai mercanti. Il prossimo tirchio che prova a contrattare per un drink si ritroverà il mio stivale nel culo.}
 {132}{}{Sembri piuttosto stufo di questo posto.}
 {133}{}{Sorry to hear that. What do you know about the Vault?}
 {134}{}{We all make mistakes... some more than others. So what do you want?}
