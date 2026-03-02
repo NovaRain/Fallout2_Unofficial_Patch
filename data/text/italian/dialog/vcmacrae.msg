@@ -32,13 +32,13 @@ Perche’, stai cercando qualcosa?}
 {128}{}{Ascolta. Ti ho chiesto se volevi da bere e poi ti ho detto quanto costava. La maggior parte della gente capisce come funziona. Se non hai i soldi, non avresti dovuto chiedere.}
 {129}{}{Scusa. Pensavo di avere i soldi. Non poter vedere i tuoi soldi nella schermata di dialogo crea qualche problema, sai?}
 {130}{}{Vabbe', come vuoi. Io me ne vado.}
-{131}{}{È peggio. I Cittadini non bevono molto, quindi resto qui a servire da bere ai mercanti. Il prossimo tirchio che prova a contrattare per un drink si ritroverà il mio stivale nel culo.}
+{131}{}{E' peggio. I Cittadini non bevono molto, quindi resto qui a servire da bere ai mercanti. Il prossimo tirchio che prova a contrattare per un drink si ritrovera' il mio stivale nel culo.}
 {132}{}{Sembri piuttosto stufo di questo posto.}
 {133}{}{Mi dispiace. Che cosa sai del Vault?}
-{134}{}{Capita a tutti di sbagliare… alcuni più di altri. Allora, che vuoi?}
+{134}{}{Capita a tutti di sbagliare… alcuni piu' di altri. Allora, che vuoi?}
 {135}{}{Cosa succede da queste parti?}
 {136}{}{Niente per oggi, grazie. Arrivederci.}
-{137}{}{Già, vorrei potermene andare da questo dannato posto.}
+{137}{}{Gia', vorrei potermene andare da questo dannato posto.}
 {138}{}{Perche' non te vai?}
 {139}{}{Andarmene nelle Lande da solo? Sono annoiato, non stupido.}
 {140}{}{Io sto per andarmene da qui. Perche' non vieni con me?}
@@ -46,26 +46,26 @@ Perche’, stai cercando qualcosa?}
 {142}{}{Nah... mi pare che tu abbia gia' una discreta folla al tuo seguito.}
 {143}{}{D'accordo. Beh, buona fortuna.}
 {144}{}{Sai, non sembra affatto una cattiva idea. Contaci.}
-{145}{}{Sì, che c’è?}
+{145}{}{Si', che c'e'?}
 {146}{}{Voglio che tu ti tolga di mezzo.}
 {147}{}{Come stai?}
 {148}{}{Curati.}
 {149}{}{Voglio che tu stia qua finche' non ritorno.}
 {150}{}{Tu! Ooyag!}
 {151}{}{E' tutto, per ora.}
-{152}{}{OK, è tutto ricucito. Andiamo.}
-{153}{}{OK, più o meno è tutto sistemato.}
+{152}{}{OK, e' tutto ricucito. Andiamo.}
+{153}{}{OK, piu' o meno e' tutto sistemato.}
 {154}{}{Sono quasi a posto, ma mi farebbe comodo un altro paio di stim.}
 {155}{}{Ho usato quello che potevo, ma sono ancora messo male. Hai qualche stim su di te?}
 {156}{}{Usa il Primo Soccorso su di te.}
 {157}{}{Lasciamo stare.}
 {158}{}{OK.}
-{159}{}{OK, aspetterò qui.}
+{159}{}{OK, aspettero' qui.}
 {160}{}{Lasciamo stare.}
 {161}{}{OK.}
 {162}{}{Andiamo.}
 {163}{}{OK.}
-{164}{}{Senti, hai già abbastanza gente che ti segue.}
+{164}{}{Senti, hai gia' abbastanza gente che ti segue.}
 {165}{}{Sì, continua pure così.}
 {166}{}{Credo che non prendero' nulla, grazie.}
-{167}{}{Credo che me ne starò qui ancora un po’.}
+{167}{}{Credo che me ne staro' qui ancora un po’.}
