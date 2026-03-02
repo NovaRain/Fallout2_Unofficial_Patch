@@ -37,8 +37,9 @@
 {136}{}{Posso vederlo subito?}
 {137}{}{Mi piacerebbe vederlo impiccato, quel bastardo. Lui e i suoi scagnozzi hanno ucciso due bravi ragazzi. Non sarebbe un dolore per me vederlo morto.}
 {138}{}{Posso vederlo subito?}
-{139}{}{She and Jack used to be married, you know. Had themselves a really messy divorce. I wouldn't believe spit from her, not about Jack. 
-Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's got him a little high-strung.}
+{139}{}{Lei e Jack erano sposati, sai. Hanno avuto un divorzio davvero disastroso. 
+Di lei non crederei nemmeno a una parola, non quando si tratta di Jack. 
+Fatti un favore, stanne fuori. Jack è un brav’uomo, è solo che questa storia lo ha un po’ agitato.}
 {140}{}{Okay, parliamo di altre cose.}
 {141}{}{Beh, grazie mille per il consiglio, vicesceriffo.}
 {142}{}{La sua ex, ecco tutto. Se lui non e' qui, magari e' giu' alla centrale energetica. Ha un doppio lavoro: lavora li' per Dorothy.}

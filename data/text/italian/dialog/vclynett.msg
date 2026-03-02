@@ -237,8 +237,8 @@
 {336}{}{Ma io sono un Cittadino.}
 {337}{}{Cosa posso fare per diventare un Cittadino?}
 {338}{}{Immagino che la fortuna non mi abbia sorriso, allora. Buona giornata.}
-{339}{lyn044}{Rather than taking the test, you could prove your commitment to the Vaults in a more...
-substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.}
+{339}{lyn044}{Invece di sostenere il test, potresti dimostrare il tuo impegno verso i Vault in modo piu…
+sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazione difficile… per noi.}
 {340}{}{Che tipo di problema?}
 {341}{}{Certamente. Di qualsiasi cosa abbiano bisogno i vault, il mio compito e' di provvedere.}
 {342}{}{Non saprei... non e' il test per la Cittadinanza la procedura standard?}

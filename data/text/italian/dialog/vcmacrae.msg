@@ -1,35 +1,34 @@
-{100}{}{You see an elderly man with deep wrinkles along his face.}
-{101}{}{You see John MacRae.}
-{102}{}{Hey now, I ain't seen you around before. I'm MacRae -- I run this place.
- What can I do for you?}
+{100}{}{Vedi un uomo anziano con profonde rughe sul volto.}
+{101}{}{Vedi John MacRae.}
+{102}{}{Ehi, non ti ho mai visto da queste parti. Io sono MacRae — gestisco questo posto.
+Che posso fare per te?}
 {103}{}{Sto cercando il Vault.}
 {104}{}{Hai voglia di lasciare questo posto?}
-{105}{}{What do you have here?}
-{106}{}{Anything going on around here?}
+{105}{}{Che cosa avete qui?}
+{106}{}{Succede qualcosa da queste parti?}
 {107}{}{Ug Nog}
 {108}{}{Per oggi niente, grazie.}
 {109}{}{Vault? L'unico Vault che conosco e' quello all'interno della citta'. Un grosso, fottutissimo buco... Non puoi mancarlo, credimi.}
 {110}{}{Cos'avete da bere, qui?}
-{111}{}{Anything going on around here?}
+{111}{}{Succede qualcosa da queste parti?}
 {112}{}{Grazie per le indicazioni. addio.}
-{113}{}{Standard crap. Beer for $20, shot of whiskey for $30. Nothing
- special. You want something?}
-{114}{}{You know about the Vault?}
+{113}{}{La solita roba. Birra a 20 dollari, uno shot di whiskey a 30. Niente di speciale.
+Vuoi qualcosa?}
+{114}{}{Sai qualcosa sul Vault?}
 {115}{}{Prendero' una birra.}
 {116}{}{Prendero' il whiskey.}
 {117}{}{Cosa succede da queste parti?}
-{118}{}{Nothing today, thanks. Goodbye.}
-{119}{}{Around here? Same old, same old. Bores me to tears most of the time.
- Why, you looking for something?}
+{118}{}{Niente per oggi, grazie. Arrivederci.}
+{119}{}{Qui intorno? Sempre la solita storia. La maggior parte del tempo mi annoia da morire.
+Perche’, stai cercando qualcosa?}
 {120}{}{Cos'avete da bere, qui?}
-{121}{}{Do you know anything about the Vault?}
-{122}{}{It can't be that bad.}
+{121}{}{Sai qualcosa sul Vault?}
+{122}{}{Non può essere così terribile.}
 {123}{}{Nulla. Arrivederci.}
 {124}{}{Hai sbattuto la testa un po' troppo spesso, eh? Scusa, ma non parlo con gli imbecilli.}
-{125}{}{Here you go. Drink up. It's about the only fun you'll see in this
- tight-ass place.}
-{126}{}{It can't be that bad.}
-{127}{}{Thanks for the drink. I guess I'll be going.}
+{125}{}{Tieni. Bevi. È praticamente l’unico divertimento che vedrai in questo posto di rigidi.}
+{126}{}{Non può essere così terribile.}
+{127}{}{Grazie per il drink. Direi che me ne vado.}
 {128}{}{Look. I asked if you wanted a drink and then told you what it would cost.
  Most people understand the process. If you don't got the money, you shouldn't have
  asked.}
@@ -43,7 +42,7 @@
 {133}{}{Sorry to hear that. What do you know about the Vault?}
 {134}{}{We all make mistakes... some more than others. So what do you want?}
 {135}{}{Cosa succede da queste parti?}
-{136}{}{Nothing today, thanks. Goodbye.}
+{136}{}{Niente per oggi, grazie. Arrivederci.}
 {137}{}{Yeah, wish I could get the hell outta here.}
 {138}{}{Perche' non te vai?}
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
