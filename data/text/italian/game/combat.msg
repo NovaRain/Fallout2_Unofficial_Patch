@@ -666,7 +666,7 @@
 {5705}{}{. La zampa destra rimane spappolata}
 {5706}{}{. Il ratto ha subito una grave ferita con questo colpo}
 {5707}{}{. La grave ferita manda il ratto al tappeto}
-{5708}{}{. La violenza del colpo spalma il ratto sul pavimento}
+{5708}{}{, schizzando il ratto per tutto il pavimento}
 {5709}{}{. La zampa destra rimane tranciata dalla violenza del colpo}
 {5710}{}{. Adesso sulla gamba sinistra si puo' notare un bel cratere}
 {5711}{}{. La zona e' molto sensibile e il danno inferto e' quindi maggiore del normale}
