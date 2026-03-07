@@ -5,7 +5,7 @@
 {104}{}{Ei, você tem alguma peça de Horrigan? Eu poderia vendê-los por cinquenta, cem dólares cada, e te dou 10% do negócio.}
 {105}{}{Se perder.}
 {106}{}{Cai fora. Não tenho nada para te dizer.}
-{107}{}{Huh, hey, capit?o. Eh, Bom dia?}
+{107}{}{Huh, hey, capitão. Eh, Bom dia?}
 {108}{}{Ora, se não é o novo Cidadão.}
 {109}{}{Olá, "Cidadão".}
 {110}{}{Você não pode trazer aquele mutante aqui.}
