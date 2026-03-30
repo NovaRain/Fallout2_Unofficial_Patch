@@ -120,13 +120,13 @@
 {266}{}{Không ai được nói thế với tao cả! Chết đi!}
 {267}{}{Tao đã cho mày nhiều cơ hội lắm rồi đấy. Giờ thì biến đi.}
 {268}{}{Không được mang cái thứ rác rưởi đó vào phòng của tôi!}
-{300}{}{Hey, I didn't fucking say I'd pay you to kill the bitch. Get the fuck out!}
-{350}{}{Wow! Holy fuck. That was amazing.}
-{351}{}{Damn, you were pretty good baby.}
-{352}{}{Thanks, it was fun. Now get out.}
-{353}{}{You were, uhhh... Never mind, get out.}
-{354}{}{Well, I've never had worse than that.}
-{400}{}{You know baby, you might be hot and all, but you've got lots and lots to learn.}
-{410}{}{Baby, I do have work to do you know. I don't just stand around in this spot all day and do nothing.
- Well, okay, so what if I do? That's what I'm here to do.}
-{420}{}{Look, I just wanted her still destroyed and you do it. Now beat it.}
+{300}{}{Này, tao có nói là sẽ trả tiền để mày giết con đuỹ đó đâu! Cút khỏi đây ngay!}
+{350}{}{Ồ! Đỉnh vl. Tuyệt cmn vời.}
+{351}{}{Chết tiệt, tay nghề của cưng giỏi đấy.}
+{352}{}{Cám ơn, vui xong rồi thì đi đi.}
+{353}{}{Cô ờ... mà thôi, ra đi.}
+{354}{}{Ồ, chưa có lần nào tệ như lần này.}
+{400}{}{Cưng biết đấy, cưng tuy dáng ngon nhưng mà vẫn còn phải học nhiều lắm.}
+{410}{}{Cưng à, tôi vẫn phải làm việc nữa. Tôi đâu chỉ đứng mỗi chỗ này cả ngày đâu.
+Ồ, được, tôi làm như vậy á? Đó là công việc của tôi mà.}
+{420}{}{Nghe này, tôi chỉ muốn phá cái lò của mụ ta và cậu sẽ làm điều đó. Giờ thì biến đi.}
