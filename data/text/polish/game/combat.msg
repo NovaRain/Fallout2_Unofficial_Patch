@@ -30,7 +30,7 @@
 {220}{}{przypadkowo obrywa}
 {221}{}{ma okaleczoną jedną z kończyn}
 {222}{}{obrywa odłamkami}
-{250}{female_pc}{knocked out}
+{250}{female_pc}{traci przytomność}
 {251}{female_pc}{knocked down}
 {252}{female_pc}{crippled your left leg}
 {253}{female_pc}{crippled your right leg}
