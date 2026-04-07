@@ -64,7 +64,7 @@
 {163}{}{Tutti i mutanti... morti...}
 {164}{}{...adesso non sapremo mai se ci sarebbe potuta essere pace tra mutanti e umani...}
 {165}{}{E' venuto il momento di partire e vedere cos'ha da offrire il resto del mondo... non vale la pena riaprire la miniera.}
-{166}{}{Chissa' se esistono altri posti in California dove siano richiesti raffinatori di uranio...}
+{166}{}{I wonder if anywhere else in California needs uranium refiners?}
 {167}{}{Credo che adesso me ne tornero' a Gecko...}
 {168}{}{Maledetto bastardo. }
 {169}{}{Non ti vergogni? Non hai un po' di pudore?}

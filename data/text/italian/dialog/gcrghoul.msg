@@ -41,7 +41,7 @@
 {163}{}{Ultimamente fa piu' freddo, qui dentro.}
 {164}{}{Sbaglio, o qui dentro fa piu' freddo?}
 {170}{}{Perche diavolo cerchi di passare inosservato?}
-{171}{}{Uh, riesco ancora a vederti, sai?}
+{171}{}{Uh, I can still see you, you know.}
 {172}{}{Cammini sempre in modo cosi' strano?}
 {173}{}{Mi pare di aver sentito un elefante camminare qua vicino... Oh, ma sei tu.}
 {174}{}{Ti teniamo d'occhio, pelle-liscia.}

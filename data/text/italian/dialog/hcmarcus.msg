@@ -57,7 +57,7 @@
 {156}{mcs16}{La mia gratitudine eterna. Ti sta bene?}
 {157}{}{Mi basta.}
 {158}{}{No. Voglio qualcosa.}
-{159}{}{Che ne dici se ti faccio qualche domanda mentre ci penso su?}
+{159}{}{How 'bout more questions while I think it over.}
 {160}{}{Lasciami un po' di tempo per decidere. Ci vediamo.}
 {161}{mcs17}{Non ti basta? Allora vattene.}
 {162}{}{Addio.}
@@ -140,7 +140,7 @@
 {239}{}{Sembra quasi che tu, allo stesso tempo, provi ammirazione e odio per l'Abitante del Vault.}
 {240}{}{Tu eri un umano. Come puoi giustificare quello che il Master ti ha fatto?}
 {241}{}{Quindi pensi che il progetto del Master fosse giusto?}
-{242}{}{Sono un discendente del vero Abitante del Vault, sai?}
+{242}{}{I'm descended from the original Vault Dweller, you know.}
 {243}{mcs40}{Hai ragione. Se tutti gli uomini lottassero per quello in cui credono come fece lui, non avremmo avuto bisogno del progetto del Master.}
 {244}{}{Il Master voleva ridurre l'umanita' in schiavitu'!}
 {245}{}{Un interessante cambiamento d'opinione... Devo andare.}

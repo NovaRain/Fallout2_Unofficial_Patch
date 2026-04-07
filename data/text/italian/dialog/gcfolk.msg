@@ -115,7 +115,7 @@
 {321}{}{Sei uno di noi, compagno.}
 {322}{}{Salve, compagno. Il Rinnovamento e' vicino.}
 {323}{}{Presto noi tutti saremo Uno.}
-{324}{}{Egli conosce ogni cosa. Venera il suo pelo lucido!}
+{324}{}{He knows all. Worship his sleek fur.}
 {325}{}{Dannati cultisti. Andatevene da qui.}
 {326}{}{Rinnovami questo ::fa un gestaccio con la mano::, stronzo.}
 {327}{}{Ho il tuo Rinnovamento proprio qui, amico.}

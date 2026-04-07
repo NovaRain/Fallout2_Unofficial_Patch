@@ -42,7 +42,7 @@
 {222}{}{Ne ho abbastanza delle tue maldestre intromissioni. Zomak! Uccidi questo pazzo per me.}
 {230}{}{Riparare il reattore e' stato un ottimo primo passo. Ma bisogna fare un altro sforzo per assicurare la sopravvivenza di Gecko e Vault City.}
 {231}{}{Un altro sforzo?}
-{232}{}{Tutt'a un tratto sei diventato un cittadino impegnato nel sociale?}
+{232}{}{Aren't you the concerned citizen all of a sudden.}
 {233}{}{Credo di aver sentito piu' che abbastanza. Addio.}
 {234}{}{Perche' un ratto gigante parlante si interessa cosi' tanto di tutto questo?}
 {240}{}{Hai fatto un buon lavoro. Sia Vault City che Gecko hanno motivo di gioire. Adesso che il nostro reattore funziona a massimo regime, il mio piano di conquista del mondo potrebbe essere vicino alla sua realizzazione. Adesso puoi andartene. Ho del lavoro da fare.}
@@ -143,7 +143,7 @@
 {632}{}{Hai fatto analizzare il disco con i dati relativi al reattore, adesso devi farci qualcosa.}
 {633}{}{Il nostro reattore nucleare ha bisogno di un certo dispositivo se vogliamo avere qualche speranza di farlo funzionare alla massima efficienza.}
 {634}{}{Hai ottenuto i dati dei quali abbiamo bisogno per ottimizzare il nostro reattore nucleare. Adesso tutto quello che devi fare e' consegnarli a Festus.}
-{635}{}{Perche' non mi dici cos'e' che proponi?}
+{635}{}{Why don't you tell me about whatever it is that you're proposing.}
 {636}{}{Usare il disco con i dati del reattore? E come dovrei fare?}
 {637}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {638}{}{Un dispositivo? Che tipo di dispositivo?}
@@ -159,7 +159,7 @@
 {656}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {657}{}{Ad esempio?}
 {658}{}{Un dispositivo? Che tipo di dispositivo?}
-{659}{}{Perche' non mi parli di questo ultimo sforzo? Potrei anche decidere di aiutarti.}
+{659}{}{Why don't you tell me about this last step and I'll think about helping?}
 {670}{}{Il reattore, sempre il reattore (sigh). Torna quando avrai ottenuto qualche risultato con il reattore.}
 {671}{}{Torna piu' tardi. Sto comunicando con un potere superiore, o qualcosa del genere (sheesh).}
 {700}{}{Non ho nient'altro da dirti.}
