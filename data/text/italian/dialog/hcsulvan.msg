@@ -6,7 +6,7 @@
 {105}{}{Tu e Torr potreste giocarvela alla pari.}
 {106}{}{Va' via, sei un tipo un po' strano.}
 {107}{}{Acc, un altro selvaggio picchiatello.}
-{108}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
+{108}{}{(Ti squadra dall’alto in basso, valutandoti) Be’, be’, cosa abbiamo qui? Sembra proprio che tu non ne sappia molto della nobile arte, eh?}
 {109}{}{Se abbassi la cresta, potrei anche decidere di aiutarti un po'.}
 {110}{}{Di cosa stai parlando?}
 {111}{}{Er, certo, e' come dice lei, signore. Ci vediamo. Forse.}

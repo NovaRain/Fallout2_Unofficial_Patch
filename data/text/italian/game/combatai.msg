@@ -1411,7 +1411,7 @@
 {12032}{}{Il perimetro e' stato violato!}
 {12033}{}{Abbiamo un intruso, ragazzi!}
 {12034}{}{All'erta, ragazzi, abbiamo un intruso!}
-{12035}{}{You got some sand comin' in here...}
+{12035}{}{Hai un bel po’ di fegato a presentarti qui…}
 {12036}{}{Con la forza del numero, gente, con la forza del numero.}
 {12037}{}{Attenzione ai dettagli, gente!}
 {12038}{}{Voglio un fuoco di sbarramento! Non fategli alzare la testa!}

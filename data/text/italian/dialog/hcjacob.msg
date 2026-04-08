@@ -68,7 +68,7 @@
 {189}{}{Nessun problema. Tanto sono tutti mutanti. Ma non fare troppo rumore, per l'amor del cielo.}
 {190}{}{Ho capito. Ho delle altre domande.}
 {191}{}{Ho capito. Ci si vede.}
-{192}{}{More questions?}
+{192}{}{Altre domande?}
 {193}{}{Ho qui dell'uranio che vorrei far raffinare, ma non vorrei pagare la tariffa della raffineria.}
 {194}{}{Cosa puo' dirmi a proposito di Broken Hills?}
 {195}{}{Vorrei che tu miscelassi per me delle sostanze chimiche.}

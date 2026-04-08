@@ -23,4 +23,4 @@
 {148}{}{Anch'io ti amo, palletta di zucchero.}
 {149}{}{Non voglio NIENTE che sia associabile al tuo dorso!}
 {200}{}{Che cosa diavolo vuoi? Fuori da casa mia, pelle-rosa.}
-{201}{}{I swear, one of these days I'm gonna' just up and leave. Then what's his lazy hide gonna' do?}
+{201}{}{Giuro che un giorno o l’altro me ne vado e basta. E allora cosa fara' quel fannullone?}

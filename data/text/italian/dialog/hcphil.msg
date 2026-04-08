@@ -87,8 +87,7 @@
 {215}{}{Hmm. I purificatori d'aria della miniera sono rotti. Dovresti andare a parlare con Zaius, il capo dei minatori, se vuoi saperne di piu'.}
 {216}{}{D'accordo. C'e' qualcos'altro?}
 {217}{}{Grazie. Ci si vede.}
-{218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
- get to keep it.}
+{218}{}{Ho capito che ora puoi curiosare nella miniera. Ehi, se trovi qualcosa, magari puoi anche tenertelo.}
 {219}{}{Altri lavori?}
 {220}{}{Grazie.}
 {221}{}{Diamine si'! Scopri dove sono finiti quei due svitati, Franc e Manson!}

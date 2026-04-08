@@ -69,9 +69,9 @@
 {168}{}{Addio.}
 {169}{}{In qualsiasi casino si trovi, ha fatto tutto da solo. E' un vero peccato… era davvero un ottimo capo carovaniere. Ti serve qualcosa?}
 {170}{}{Fuori dal mio ufficio. Non ti voglio qui dentro.}
-{171}{}{You ready to go to Vault City?}
-{172}{}{Ready to go to NCR?}
-{173}{}{You ready to go to Gecko?}
+{171}{}{Sei pronto per andare a Vault City?}
+{172}{}{Sei pronto per andare a NCR?}
+{173}{}{Sei pronto per andare a Gecko?}
 {174}{}{La carovana e' stata cancellata. Non ne manderemo altre in quel merdoso buco infernale; non se cercano di uccidere i nostri uomini. Desideri qualcos'altro?}
 {175}{}{Non vorrai mica tirarti indietro proprio adesso?}
 {176}{}{Beh, ho bisogno di passare un po' piu' di tempo a Broken Hills.}
