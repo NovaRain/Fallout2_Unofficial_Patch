@@ -87,7 +87,7 @@
 {186}{}{Certo, sicuro. Ho ucciso di meglio. Addio.}
 {187}{powr18}{Addio. Le prossime notizie su di te le avro' quando leggero' il rapporto della missione.}
 {188}{}{Cosa? Sai leggere?!}
-{189}{}{Sì, certo… come ti pare.}
+{189}{}{Si', certo… come ti pare.}
 {190}{}{Ehi, sei appena entrato nella mia lista.}
 {191}{powr19_a}{Avete dovuto abbandonarla? Perche'? Siete sulla costa. Avete grandi difese. Nessuno me ne ha parlato... Ehi, a proposito, chi diavolo e' che parla?}
 {192}{}{Sono il grande e potente Willie. Inchinati di fronte a me, implora il mio perdono e forse ti risparimero'.}

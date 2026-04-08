@@ -143,7 +143,7 @@
 {632}{}{Hai fatto analizzare il disco con i dati relativi al reattore, adesso devi farci qualcosa.}
 {633}{}{Il nostro reattore nucleare ha bisogno di un certo dispositivo se vogliamo avere qualche speranza di farlo funzionare alla massima efficienza.}
 {634}{}{Hai ottenuto i dati dei quali abbiamo bisogno per ottimizzare il nostro reattore nucleare. Adesso tutto quello che devi fare e' consegnarli a Festus.}
-{635}{}{Perché non mi dici cosa stai proponendo, qualunque cosa sia.}
+{635}{}{Perche' non mi dici cosa stai proponendo, qualunque cosa sia.}
 {636}{}{Usare il disco con i dati del reattore? E come dovrei fare?}
 {637}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {638}{}{Un dispositivo? Che tipo di dispositivo?}
@@ -159,7 +159,7 @@
 {656}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {657}{}{Ad esempio?}
 {658}{}{Un dispositivo? Che tipo di dispositivo?}
-{659}{}{Perché non mi spieghi quest’ultimo passaggio, e poi vedrò se aiutarti.}
+{659}{}{Perche' non mi spieghi quest’ultimo passaggio, e poi vedro' se aiutarti.}
 {670}{}{Il reattore, sempre il reattore (sigh). Torna quando avrai ottenuto qualche risultato con il reattore.}
 {671}{}{Torna piu' tardi. Sto comunicando con un potere superiore, o qualcosa del genere (sheesh).}
 {700}{}{Non ho nient'altro da dirti.}

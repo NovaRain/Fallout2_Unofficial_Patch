@@ -17,7 +17,7 @@
 {128}{}{Non posso credere che quella gente giu' a Vault City voglia distruggere la mia casa.}
 {129}{}{Reattore, dolce reattore.}
 {130}{}{Casa mia, casa mia, per piccina che tu sia...}
-{131}{}{Atomic powered heating... gotta love it.}
+{131}{}{Riscaldamento ad energia atomica... come si fa a non amarlo?}
 {140}{}{Grazie per aver riparato il reattore. Fa un po' piu' freddo, adesso, ma non e' malaccio.}
 {141}{}{Brrr... grazie per aver riparato il reattore.}
 {142}{}{Avrei tanto voluto avere quella parte.}

@@ -56,7 +56,7 @@
 {210}{}{E' v'vero. M'ma pare che le r'radiazioni abbiano c'conferito a n'noi g'ghoul una maggiore aspettativa di v'vita. Certo, ci hanno tolto praticamente tutto il resto.}
 {211}{}{Vi hanno tolto qualcosa?}
 {212}{}{Sembra proprio che ogni cosa abbia in se' dei lati negativi e dei lati positivi. Ci vediamo.}
-{220}{}{B’bene, s’sì. Sembriamo p’proprio dei f’fottuti f’freak. N’nnon abbiamo nemmeno la p’pelle, per l’amor del cielo.}
+{220}{}{B’bene, s’si'. Sembriamo p’proprio dei f’fottuti f’freak. N’nnon abbiamo nemmeno la p’pelle, per l’amor del cielo.}
 {221}{}{Beh, immagino che tu abbia visto giorni migliori...}
 {222}{}{Come gruppo, non e' che siate proprio gli esseri piu' attraenti del pianeta. Ci vediamo.}
 {230}{}{P'puoi dirlo f'forte. S'sarei disposto a r'restituire tutti questi anni pur di t'tornare ad essere una p'persona normale.}
