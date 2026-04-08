@@ -111,7 +111,7 @@
 {353}{}{Esci.}
 {360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato.}
 {361}{}{Le luci sono accese, ma in casa non c'e' nessuno. }
-{362}{}{Everything's shut down except for the ENCLAVE Vault-Research Control. I wonder what that is?}
+{362}{}{È tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissà che cos’è...}
 {363}{}{Hmm, sembra che tutto sia o spento o chiuso. Beh, pazienza.}
 {370}{}{Accesso in corso... Postazione Enclave - Accesso Negato.}
 {371}{}{Accesso in corso... ancora... Postazione Enclave - Accesso Negato.}
@@ -120,7 +120,7 @@
 {374}{}{Accesso in corso... ancora una volta... Ma non hai niente di meglio da fare nella vita?... Postazione Enclave - Accesso Negato.}
 {375}{}{Adesso basta. Ne ho abbastanza della tua insistenza. Se ci riprovi un'altra volta, te ne pentirai.}
 {376}{}{Non dire che non ti avevo avvertito. (Non appena leggi questo messaggio una scarica elettrica proveniente dalla tastiera ti attraversa le dita.)}
-{377}{}{Maybe I should try again?}
+{377}{}{Forse dovrei provarci ancora?}
 {378}{}{Cosi' puo' bastare. Sara' meglio rimettere in funzione quell'unita' RM&RR.}
 {379}{}{Dannazione, deve avermi tagliato fuori.}
 {380}{}{Regolatore Idroelettrico di Magnetosfera richiesto per dare inizio alla sequenza di Riparazione.}

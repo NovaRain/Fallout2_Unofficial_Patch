@@ -29,7 +29,7 @@
 {128}{}{Fuori di qui, idiota d'un corrotto.}
 {129}{}{Devi essere per meta' mutante.}
 {130}{}{Fuori di qui, spurio.}
-{131}{}{Stupid fool. Get out of here.}
+{131}{}{Stupido pazzo. Fuori di qui!}
 {132}{}{Non ho tempo da perdere con i tipi come te.}
 {133}{}{Parla con Jacob se vuoi qualcosa.}
 {134}{}{Jacob, mio marito, puo' occuparsi di te.}

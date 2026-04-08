@@ -86,7 +86,7 @@
 {502}{}{Geez, perche' non andate a fare i BRACCIanti. Har Har Har!}
 {503}{}{Vorrei quasi abBRACCIarti, amico. Devi avere un coraggio DI FERRO per affrontare Francis!}
 {504}{}{Ouch! Proprio sul metacarpo!}
-{505}{}{Hey, Francis! You should TRICEP-arating the arm from the shoulder.}
+{505}{}{Ehi, Francis! Dovresti TRI?CEP?arare il braccio dalla spalla.}
 {506}{}{Questa sfida sembra quasi un poema OMERICO! Bwahahaha!}
 {507}{}{Usa la clavicola, Francis! Usa la clavicola!}
 {508}{}{E pensare che queste battute le dico tutte a BRACCIO! Ah ah ah!}

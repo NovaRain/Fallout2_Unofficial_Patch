@@ -1,7 +1,7 @@
 {100}{}{Vedi un uomo tozzo che indossa degli abiti squallidi.}
 {101}{}{Vedi Brian.}
 {102}{}{Vedi un uomo tozzo che indossa degli abiti squallidi. Ha uno stuzzicadenti in bocca ed e' coperto di grasso. Le sue unghie sono lerce.}
-{103}{}{Let's see how you like this, you antisocial jerk.}
+{103}{}{Vediamo se ti piace questo, stronzo asociale!}
 {104}{}{Cosa vuoi?}
 {105}{}{Nyug aarg.}
 {106}{}{Chi sei?}
@@ -24,7 +24,7 @@
 {123}{}{Non ci siamo proprio. Arrivederci.}
 {124}{}{Eric vuole altra energia? Eric NON puo' avere altra energia. Quello che dobbiamo gestire qui e' un delicatissimo equilibrio e se Eric dovesse ricevere piu' energia, allora l'ospedale non avrebbe piu' energia sufficiente per funzionare. Potrebbe succedere la stessa cosa alle luci. O alla miniera. Non possiamo permettere che succeda una cosa simile.}
 {125}{}{Se questa centrale funziona davvero con pepite di uranio, allora avete a disposizione abbastanza energia da alimentare questa citta' E New Reno senza che si verifichino cali di tensione. Adesso sputa fuori l'energia che ti ho chiesto.}
-{126}{}{But... but... he's suffering.}
+{126}{}{Ma… ma… sta soffrendo.}
 {127}{}{Ma non c'e' proprio verso di fare un paio di piccole regolazioni?}
 {128}{}{[Guarda in modo accigliato gli indicatori e dice a bassa voce] Sei cattivo.}
 {129}{}{Yup. Ciao!}

@@ -31,7 +31,7 @@
 {191}{}{Ehila'. Cercavi qualcosa?}
 {192}{}{Che cosa ti serve?}
 {200}{}{Hai mai sentito parlare di un qualcosa chiamato Kit per la Creazione del Giardino dell'Eden?}
-{201}{}{Do you have a battery that I could use to fix a car?}
+{201}{}{Hai una batteria che potrei usare per riparare un’auto?}
 {202}{}{Ho alcune cose che mi piacerebbe tu ci dessi un'occhiata.}
 {203}{}{Di che cosa ti occupi?}
 {204}{}{Uh, stavo solo dando un'occhiata in giro. Arrivederci.}
@@ -118,7 +118,7 @@
 {441}{}{Certo. Fammi vedere quali oggetti potresti usare.}
 {442}{}{Non ancora. Volevo vedere se c'eri ancora. Beh, ci vediamo.}
 {450}{}{Mi dispiace. Non hai niente di adatto ad essere combinato con questo. Altro?}
-{451}{}{Take a look at something else I have.}
+{451}{}{Guarda anche qualcos’altro che ho qui.}
 {452}{}{Credo sia tutto, per ora. Arrivederci.}
 {460}{}{Vediamo un po'. Ti costera' [Cost of combining item a with item b]$. Vuoi che lo faccia?}
 {461}{}{Si', grazie.}

@@ -11,7 +11,7 @@
 {117}{}{Non voglio niente da te. Addio.}
 {120}{}{Ti ho appena detto che ogni Vault ne aveva uno. Ti sembra un Vault, questo? Sei stupido? Perche' stai cercando un GECK in questo posto? Prova in un Vault.}
 {121}{}{Dove si trova il Vault piu' vicino?}
-{122}{}{I'll show you dumb. Talking to me like that is dumb. I'm the Chosen One, you know.}
+{122}{}{Ti dico io cos'e' stupido. Parlarmi a quel modo, e' stupido. Io sono il Prescelto, sai?}
 {123}{}{Uh, beh, io stavo per... e pensavo che tu... oh, come non detto. Addio.}
 {130}{}{Un Kit di Creazione del Giardino dell'Eden? Intendi forse quel dispositivo presente in ogni Vault che dovrebbe essere usato per ricostruire la civilta'?}
 {131}{}{Si'! Proprio quello! Dove posso trovarne uno?}
@@ -68,8 +68,8 @@
 {230}{}{Io adoro le mele, ma in giro non ne sono rimaste molte. Se ne vedono pochissime.}
 {231}{}{Non sapevo che tu fossi un simile feticista della frutta. Parliamo di qualcos'altro.}
 {232}{}{Ho sentito dire che delle mele si riesce a gustare tutto il sapore proprio perche' sono un frutto che si mangia lentamente.}
-{240}{}{Slow?!? You are dumb. Fuck you! Apples are just as fast to eat as any other fruit. Apples
- rule. If it weren't for a conspiracy on the part of fruit manufacturers we'd all have apples.}
+{240}{}{Lentamente?!? Sei proprio uno stupido. Vaffanculo! Le mele si mangiano alla stessa velocita' dell'altra frutta. 
+Se non fosse stato per un complotto architettato dalla lobby dei frutticoltori, oggi tutti avremmo le mele.}
 {241}{}{Tu sei pazzo, vero? Credo che tu abbia assaggiato qualche goccia di troppo della tua birra. Parliamo di qualcos'altro.}
 {242}{}{Oh, si'... le mele sono davvero meravigliose. (ti allontani lentamente) Si', e' proprio cosi'. Buono Wooz, sta' calmo. Addio.}
 {250}{}{Mi pare che alla fine siamo riusciti a raggiungere un accordo. Ti serve qualcos'altro?}
@@ -106,8 +106,7 @@
 {360}{}{No, davvero. E' meraviglioso. Dovresti giocarci. Anche una volta sola. Il primo mazzo di carte e' gratis. Un piccolo regalo per te da parte mia.}
 {361}{}{Grazie. Ehi, sembra grandioso. (togli l'involucro di plastica) Mmm, adoro questo profumo.}
 {362}{}{Ho detto 'NO' a Tragic. Addio.}
-{370}{}{Hello there. Looks like you're another Tragic player. Have time for a game? Or are ya yeller?
- I'm a-callin' you out.}
+{370}{}{Ehila'. Sembra proprio che tu sia un giocatore di Tragic. Hai tempo per una partitina? Oppure sei un codardo? Ti sfido!}
 {371}{}{Non ho proprio tempo per fare una... oh beh, quanto mai puo' durare una semplice partita...}
 {372}{}{Certo, lascia che... No! Devo fermarmi. (la tua mano si allunga per raggiungere il mazzo, quasi fosse dotata di una volonta' propria) Noooooo!}
 {375}{}{Mi piacerebbe giocare a Tragic con te, ma credo che tu abbia finito le carte.}
@@ -127,19 +126,17 @@
 {411}{}{Uh, vabbe'. Hai vinto. Addio.}
 {412}{}{Che sorpresa. Beh, almeno non sono stato costretto ad ascoltare una delle tue barzellette. Addio.}
 {420}{}{Nulla, te lo assicuro. Cominciamo. Ho un nuovo mazzo che vorrei provare.}
-{421}{}{Okay. Let us play then.}
+{421}{}{Ok. Allora giochiamo.}
 {422}{}{No, devo resistere al canto delle sirene. Vade retro, Tragic! Wooz, devo chiederti qualcos'altro.}
 {430}{}{So cosa vuoi dire. Ma io posso smettere quando voglio. Solo, non ho voglia di farlo oggi.}
 {431}{}{Ma ti ascolti quando parli? Davvero, volevo solo chiederti qualcos'altro.}
 {432}{}{Arrrgh! Devo andarmene, finche' posso. Addio.}
 {440}{}{Beh, l'Harp prende il nome da uno dei miei locali favoriti che frequentavo prima della guerra. Immagino sia soltanto un ricordo dei tempi passati. E' anche una specie di scherzo sull'unico modo che noi ghoul abbiamo per essere trattati meglio.}
-{441}{}{Before the war? But that was a long time ago.}
+{441}{}{Prima della guerra? Ma è stato tanto tempo fa.}
 {442}{}{Trattati meglio? Che cosa vuoi dire?}
 {450}{}{Potra' anche essere cosi', ma non tutti hanno una citta' piena di pazzi bigotti.}
 {451}{}{Che cosa vuoi dire?}
-{460}{}{It sure was a long time ago. How do you think ghouls are made? You think some of us just got up
- one fine day and said to ourselves: "Gee, I wonder what it'd be like to have my flesh rotting off my
- fucking body?"}
+{460}{}{Certo che stiamo parlando di un sacco di tempo fa! Come credi siano nati i ghoul? Credi forse che qualcuno di noi si sia svegliato una mattina e abbia detto: "Cavoli, mi domando che sensazioni proverei se la mia pelle, putrefatta, si staccasse dal mio fottuto corpo?"}
 {461}{}{Beh, no, non credo. Dimmi, come nasce un ghoul?}
 {462}{}{Sai, non me ne frega un emerito cazzo del perche' siete diventati cosi' brutti. Addio.}
 {470}{}{Quegli stronzi di Vault City. Se c'e' qualcuno che ci fara' fuori, quelli sono loro. Sono dei fottuti pazzi. Se qualcuno non ha una testa di cazzo come la loro, lo vogliono vedere morto. Starei ben attento a quella gente, se fossi in te.}
@@ -148,9 +145,9 @@
 {480}{}{L'unico momento nel quale noi ghoul veniamo trattati bene e' quando portiamo con noi un'arpa.}
 {481}{}{Non sapevo che i ghoul fossero dei musicisti.}
 {482}{}{Oh, capisco. Eh, eh. Vorrei chiederti qualcos'altro.}
-{490}{}{With silver-bells and cockleshells and... Boy, you are dumb, aren't you? Severe radiation. That's
- how. How do you think? You know, many bombs go boom, flash of light and heat, flesh burns off, but you
- don't-quite-die-type severe radiation?}
+{490}{}{Con campanellini d’argento e conchigliette e… Ragazzo, sei proprio stupido, vero? Radiazioni pesanti. 
+È così che succede. Come pensavi? 
+Sai, quando tante bombe fanno boom, lampo di luce e calore, la carne ti brucia via… ma non muori del tutto, quel tipo di radiazioni pesanti?}
 {491}{}{Uh beh, io volevo dire...}
 {500}{}{So bene quel che volevi dire. Vaffanculo con tutto il cuore per avermi riportato alla memoria tutti questi dolorosissimi ricordi. Coglione. Noi siamo una citta' di fottuti avanzi... Avanzi leggermente bruciacchiati.}
 {501}{}{Io preferisco la carne al sangue. Ehi, lascia che ti chieda qualcos'altro.}
