@@ -94,7 +94,7 @@
 {193}{hld28}{Certo, beh, sono sicuro che qualche zucca vuota, molto simile a te, abbia detto la stessa cosa a proposito del Master.}
 {194}{}{Sembra una bella storia. Vorrei avere il tempo di ascoltarla, ma devo andare.}
 {195}{}{Il Master? Il mio antenato l'ha ucciso!}
-{196}{hld29}{Nothing, huh? I'm not buyin' it. You just put us in a bind. Why don't you skedaddle while I thinka what to do.}
+{196}{hld29}{Niente, eh? Sì, come no. Ci hai appena incasinati. Adesso levati dai piedi mentre penso a cosa fare.}
 {197}{}{Uh, mi dispiace.}
 {198}{}{Certo, sicuro. Fa' pure. Cavolo, tu cerchi di aiutare la gente e...}
 {199}{hld30}{Perche'?! Adesso Vault City sa quanto bisogno abbiamo dell'uranio di Broken Hills. Potrebbero tagliarci i rifornimenti e noi saremmo finiti.}
@@ -175,7 +175,7 @@
 {274}{hld53}{Beh, ci aiuterebbero solo se, nel farlo, pensassero di ottenere qualche vantaggio. Eh. E' difficile che succeda una cosa del genere.}
 {275}{}{Hmm, forse hai ragione. Pero', se qualcuno riuscisse a convincerli che aiutandovi farebbero anche il loro bene...}
 {276}{hld54}{Sparano a vista, ai ghoul. Cio' rende la conversazione un po' complessa.}
-{277}{}{I wonder if someone else could tell them.}
+{277}{}{Mi chiedo se qualcun altro potrebbe dirglielo.}
 {278}{}{Si', immagino. Adesso avrei un'altra domanda.}
 {279}{}{Ehi, non si puo' mai sapere. Ci vediamo piu' tardi.}
 {280}{}{To the north}
