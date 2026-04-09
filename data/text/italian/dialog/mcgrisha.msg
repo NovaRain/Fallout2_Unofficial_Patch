@@ -95,7 +95,7 @@
 {301}{}{Uhhh... signore, io stavo solo...}
 {302}{}{Toglile le tue luride mani di dosso...}
 {350}{}{[Guardando Bessy] Consegnare.}
-{360}{}{Potresti prepararmi un po' di carne?}
+{360}{}{Vorrei che mi preparassi un po’ di carne secca.}
 {400}{}{Cosa sta succedendo qui?}
 {402}{}{Per tutti i diavoli! Sapevo che }
 {403}{}{Come osi disonorare }

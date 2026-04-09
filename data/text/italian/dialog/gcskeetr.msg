@@ -100,7 +100,7 @@
 {373}{}{Non adesso. Vorrei tenerlo ancora per un po'. Ci vediamo.}
 {380}{}{Questo e' davvero un ottimo affare. Adesso ti bastera' piazzare quell'aggeggio nella tua macchina per farla funzionare.}
 {381}{}{Questo e' davvero un ottimo affare. Adesso ti bastera' piazzare quell'aggeggio nella tua macchina per farla funzionare. Sai, potrei anche farti un altro favore e metterti a posto un po' della tua roba gratuitamente.}
-{382}{}{Davvero? Gratis, eh? Dai, dimmi cosa devo fare...}
+{382}{}{Davvero? Gratis, eh? Allora cosa devo fare per te?}
 {383}{}{Lascia che ti chieda qualcos'altro.}
 {384}{}{Vado subito a provarlo. Ci vediamo.}
 {390}{}{Beh, vedi, mi serve un dannatissimo Trasformatore di Plasma Trifasico. E l'unico posto dove credo se ne possa trovare uno e' il magazzino della centrale.}

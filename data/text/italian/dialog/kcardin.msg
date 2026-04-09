@@ -21,7 +21,7 @@
 {170}{}{Spero che tu non abbia in mente di fare qualcosa di strano. Che cosa vuoi?}
 {171}{}{Come posso aiutarti, amico?}
 {172}{}{Mi parli di Smiley, il trapper.}
-{173}{}{Mi chiedevo se lei fosse la persona giusta con la quale parlare di notizie e fatti locali.}
+{173}{}{Mi chiedevo se fossi la persona giusta con cui parlare di notizie e fatti locali.}
 {174}{}{Avrei bisogno di una stanza, per favore.}
 {175}{}{Avremmo bisogno di una stanza, per favore.}
 {176}{}{Vorrei comprare qualcosa.}
@@ -139,7 +139,7 @@
 {760}{}{Li sto ancora cercando. Farei meglio a riprendere le ricerche. Arrivederci.}
 {770}{}{Lo sto ancora cercando. Farei meglio a riprendere le ricerche. Arrivederci.}
 {780}{}{Io, uh, non so dove sia. Hmm... Wow, guarda che ore sono. Devo andare.}
-{790}{}{Senta, posso farle qualche domanda?}
+{790}{}{Ehi, fammi chiederti una cosa.}
 {800}{}{Beh, ho un sacco di lavoro da fare. Addio.}
 {810}{}{Urrrrrgh.}
 {900}{}{Hai trovato Torr, mio figlio? Sono cosi' preoccupata per lui.}

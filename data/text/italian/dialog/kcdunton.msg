@@ -5,7 +5,7 @@
 {111}{}{Ehi, calma. Facevo solo un po' lo stupido. Mi dispiace veramente. Non picchiatemi, vi prego. Devo solo farvi delle domande.}
 {112}{}{Uh, mi dispiace, signor Dunton, signore. Me ne vado subito.}
 {113}{}{Mi servono delle informazioni... e fareste meglio a dirmi tutto quello che voglio sapere.}
-{114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? Coniglio!}
+{114}{}{Tu e tuo fratello? Hai paura ad affrontarmi da solo? (Coccodè, coccodè)}
 {120}{}{Vattene, prima che ti facciamo a fette e ti trasformiamo in carne in scatola.}
 {121}{}{Ehi, mi dispiace veramente. Non volevo farvi arrabbiare. Sono solo uno stupido. Tornero' piu' tardi, quando vi dara' meno fastidio vedermi.}
 {122}{}{Oh, okay, scusate. Non picchiatemi. Vi prego.}
@@ -23,7 +23,7 @@
 {141}{}{Mi spiace, e' solo che mi sono emozionato tantissimo all'idea di lavorare con voi. Adesso me ne vado. Arrivederci.}
 {142}{}{Limite? Ma quale limite? E' stata una vostra idea.}
 {143}{}{Voi due siete troppo fifoni per fare quello che va fatto.}
-{150}{}{Beh, qui abbiamo una bella scorta della famosissima Carne Secca Dunton. Deliziosa e saporita - perche' non ne compri un po'?}
+{150}{}{Beh, abbiamo una bella scorta della famosissima Carne Secca Dunton. Deliziosa e saporita — e fa anche bene.}
 {151}{}{Uh, buono a sapersi.}
 {152}{}{Carne secca? Non sembra essere cio' di cui ho bisogno. Parliamo di qualcos'altro.}
 {153}{}{Non credo di aver davvero bisogno di barattare. Arrivederci.}
@@ -89,7 +89,7 @@
 {252}{}{Certo, ci saro'. Devo chiederti qualcosa, pero'.}
 {253}{}{Ci saro' sicuramente. A dopo.}
 {259}{}{Guarda un po' chi c'e': il nostro corpulento amico. }
-{260}{}{Ehila'. Come va il braccio? Sei pronto per un'altra sfida? }
+{260}{}{Ehila'. Come va il braccio? Sei pronto per un'altra sfida?}
 {261}{}{Ehi tu, pidocchietto. Che cosa ci fai nel nostro bar? Per poter rimanere qui dentro devi prima dimostrare il tuo valore sfidandomi a braccio di ferro. (ah ah ah) }
 {262}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Chuck Dunton? E come premio mettiamo in palio il diritto a bere nel vostro bar, eh?}
 {263}{}{Non sembri poi cosi' forte. Perche' non mi affronti a braccio di ferro, Buck Dunton? E come premio mettiamo in palio il diritto a bere nel vostro bar, eh?}

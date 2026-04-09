@@ -10,7 +10,7 @@
 {156}{}{Cosa puoi dirmi a proposito di Modoc?}
 {157}{}{Che cosa fai?}
 {158}{}{Orologio? Di cosa stai parlando?}
-{159}{}{E adesso cosa c'e'?!}
+{159}{}{E adesso cosa c'e'!?}
 {162}{}{Cosa nascondi nella cassaforte a muro?}
 {165}{}{Potresti condurmi al tuo giardino?}
 {166}{}{Ho ripulito il tuo giardino dai topi.}

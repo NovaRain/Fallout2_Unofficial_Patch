@@ -56,7 +56,7 @@
 {170}{}{Uno dei nostri migliori trapper e' scomparso.}
 {201}{}{Beh, questa bevuta mi ha proprio rinfrescato la gola.}
 {202}{}{Grazie.}
-{203}{}{Mmm-mmh... "fenomenaly"!}
+{203}{}{Mmm-mm… buono.}
 {204}{}{Non c'e' niente di meglio della Buckner's Best.}
 {205}{}{Grazie per la bevuta.}
 {206}{}{Huzzah!}

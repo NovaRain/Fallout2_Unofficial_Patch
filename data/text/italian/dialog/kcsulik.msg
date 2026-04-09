@@ -18,7 +18,7 @@
 {118}{}{Uh?}
 {119}{}{Hmm, quanto ti manca da pagare prima di potertene andare?}
 {120}{}{Uh-huh.}
-{121}{}{Anch'io sono alla ricerca di qualcosa. PerchÃ© non vieni con me?}
+{121}{}{Sto cercando qualcosa. Magari potresti unirti a me.}
 {122}{slk6}{Noi dobbiamo a Maida 350$. Tu andando a sud? Noi camminare con te e cercare sorella. Tu ha 350$?}
 {123}{}{Noh-oh.}
 {124}{}{Ah-a!}
@@ -55,7 +55,7 @@
 {230}{slk8}{Noi e io ti ringraziamo. Mio nome Sulik. Come noi potere ripagare?}
 {231}{}{Uh.}
 {232}{}{Bye bye.}
-{233}{}{Chi sono questi "noi"?}
+{233}{}{Chi sono questi "noi?"}
 {234}{}{Felice di aiutarti, Sulik. Parlami di te.}
 {235}{}{Che ne diresti di parlarmi di quello che succede in citta'?}
 {236}{}{Non sopportavo l'idea di saperti prigioniero qui, ecco tutto. Addio.}

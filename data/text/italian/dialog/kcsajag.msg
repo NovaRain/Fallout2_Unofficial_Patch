@@ -21,7 +21,7 @@
 {142}{}{Grazie per la birra. Ho bisogno di alcune informazioni.}
 {143}{}{Grazie. Per il momento e' tutto. Arrivederci.}
 {150}{}{Un giro di piscia per l'intero bar, allora! Huzzah! Sono 30$. (Fa un largo sorriso)}
-{151}{}{Qui dentro stanno tutti bevendo piscio di lucertola?!?}
+{151}{}{Qui dentro stanno tutti bevendo piscio di lucertola!?!}
 {152}{}{Spero che tutti gradiscano la birra. Sajag, mi servono alcune informazioni.}
 {153}{}{Gustatevi tutti il vostro piscio. Ci vediamo.}
 {160}{}{Sembra proprio che tu non abbia abbastanza soldi per quello. Mi spiace, amico. Non si fa credito qui dentro. (sorride)}

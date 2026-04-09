@@ -22,7 +22,7 @@
 {174}{}{Niente da dire. La mia famiglia gestisce il macello. I mandriani dalle zone vicine vengono qui a far macellare i propri brahmin. Dopo che questi sono stati abbattuti e trasformati in carne, vengono venduti ai mercanti che poi li rivendono ai commercianti di diverse citta'. Tutto molto noioso, secondo me.}
 {176}{}{Sei venuto nel posto giusto! Questa citta' e' cosi' noiosa... non c'e' nient'altro da fare che sparlare e... [Miria continua a parlare per diverso tempo e solo dopo qualche minuto riesci a dire una parola.]}
 {177}{}{Cos'altro vuoi sapere?}
-{178}{}{Cosa sai a proposito dell'orologio di Cornelius? Pare sia stato rubato.}
+{178}{}{Cosa sai dell’orologio scomparso di Cornelius?}
 {179}{}{Hai detto qualcosa a proposito di Rose?}
 {180}{}{Cosa mi sai dire dei brahmin mutanti?}
 {181}{}{Parlami di Davin.}

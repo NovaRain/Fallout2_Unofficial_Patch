@@ -63,7 +63,7 @@
 {243}{}{Non mi serve nient'altro, per il momento. Grazie lo stesso.}
 {250}{}{Abbiamo bloccato tutti gli accessi alla zona nord tranne uno. Io ho la chiave per quell'entrata -- nel caso in cui qualcuno avesse bisogno di andare la' per qualche ragione. Non riesco a immaginare perche' uno dovrebbe volerlo fare, pero'; io di sicuro non lo farei.}
 {251}{}{Interessante; parliamo di qualcos'altro.}
-{252}{}{Potresti darmi quella chiave?}
+{252}{}{Mi interessa avere quella chiave.}
 {253}{}{E' tutto quello che mi serviva sapere, per il momento. Ci vediamo.}
 {260}{}{Ti interessa la caccia, eh? (Ti guarda attentamente.)}
 {261}{}{[AVANTI]}
