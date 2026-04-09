@@ -281,13 +281,18 @@ procedure map_enter_p_proc begin
       end
       if ((cage_door == false) and (coup_door == false)) then begin
       end
+
       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-         obj_close(self_obj);
-         set_local_var(LVAR_Locked, STATE_ACTIVE);
+         // Ensure that we don't have objects "locked open"
+         if obj_is_open(self_obj) then begin
+            obj_close(self_obj);
+         end
+         // Ensure locked status
          obj_lock(self_obj);
       end else begin
          obj_unlock(self_obj);
       end
+
     //  match_dude_elevation;
    end
 end

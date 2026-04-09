@@ -1229,9 +1229,13 @@ the player locks it once more.
       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
     end
     if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+      // Ensure that we don't have objects "locked open"
+      if obj_is_open(self_obj) then begin
+        obj_close(self_obj);
+      end
+      // Ensure locked status
       obj_lock(self_obj);
-    end
-    else begin
+    end else begin
       obj_unlock(self_obj);
     end
   end

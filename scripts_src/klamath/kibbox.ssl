@@ -83,13 +83,18 @@ procedure map_enter_p_proc begin
       set_local_var(LVAR_Restock_Time, (2 * ONE_GAME_DAY) + game_time);
    end
 
+
    if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       obj_lock(self_obj);
+      // Ensure that we don't have objects "locked open"
+      if obj_is_open(self_obj) then begin
+         obj_close(self_obj);
+      end
+      // Ensure locked status
+      obj_lock(self_obj);
+   end else begin
+      obj_unlock(self_obj);
    end
 
-   else begin
-       obj_unlock(self_obj);
-   end
 end
 
 /**************************************************************************************

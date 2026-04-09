@@ -86,12 +86,17 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Locked,STATE_ACTIVE);
    end
 
-   if ( (local_var(LVAR_Locked) == STATE_ACTIVE) and (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE) ) then begin //edit by killap - added (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE)
-       obj_lock(self_obj);
-   end else begin
-       obj_unlock(self_obj);
-       set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
-   end
+    if ( (local_var(LVAR_Locked) == STATE_ACTIVE) and (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE) ) then begin //edit by killap - added (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE)
+        // Ensure that we don't have objects "locked open"
+        if obj_is_open(self_obj) then begin
+            obj_close(self_obj);
+        end
+        // Ensure locked status
+        obj_lock(self_obj);
+    end else begin
+        obj_unlock(self_obj);
+        set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
+    end
 end
 
 /**************************************************************************************
