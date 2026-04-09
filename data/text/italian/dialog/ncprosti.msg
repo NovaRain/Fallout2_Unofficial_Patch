@@ -108,7 +108,7 @@
 {282}{}{Ecco un donna davvero forte.}
 {283}{}{Sembra cosi'...(trema)...pericolosa.}
 {284}{}{E' piuttosto sexy.}
-{285}{}{Oh mio... e' lui!}
+{285}{}{Oh mio... e' lui! }
 {286}{}{Sembra cosi'...(trema)...pericoloso.}
 {287}{}{Caaaavoli!}
 {288}{}{::Fischia::}

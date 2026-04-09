@@ -19,7 +19,7 @@
 {214}{}{Kaa-booom}
 {220}{}{(Algernon ti guarda e ti rivolge un sorriso sdentato.) Boom! }
 {221}{}{(Lo sganasciato ti guarda rivolgendoti un sorriso sdentato. Attaccata alla sua camicia c'e' una targhetta che recita "Algernon" in corsivo.) Boom! }
-{222}{}{(Quando vede le tue armi, comincia a indicarle tutto eccitato.) Boom! }
+{222}{}{(Quando vede le tue armi, comincia a indicarle tutto eccitato.) Boom!}
 {223}{}{Boom!}
 {224}{}{-Stai a distanza di sicurezza-}
 {225}{}{Uh... vuoi vedere una di queste armi?}
@@ -45,7 +45,7 @@
 {261}{}{Senti... puoi potenziarmi QUESTO?}
 {262}{}{Grazie, Al.}
 {265}{}{[Quale?]}
-{266}{}{La tua .44 Magnum.}
+{266}{}{La tua .44 Magnum?}
 {267}{}{La tua Desert Eagle.}
 {268}{}{La tua pistola laser Wattz 1000.}
 {269}{}{La tua pistola al plasma Glock 86.}

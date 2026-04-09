@@ -20,9 +20,9 @@
 {232}{}{Ecco una delle sgualdrine da quattro soldi di papa'...}
 {240}{}{Non TI ho mai visto prima. Come ti chiami, straniero? (Fa un sorrisetto "furbo".) In realta'... non m'importa, non voglio saperlo. Non sei stufo? Non la senti anche tu questa noia?}
 {241}{}{Ancora tu. Gia' stufo?}
-{242}{}{Moia? Me piace sala-moia!}
-{243}{}{Il mio antenato viaggiava con una persona che continuava a sparargli raffiche nella schiena e allora il mio antenato continuava a dirgli: No, Ian!}
-{244}{}{Me piace stufa... calda!}
+{242}{}{Yam yam. Me piace ignami}
+{243}{}{Viaggiavo spesso con qualcuno di nome Iam che continuava a spararmi raffiche nella schiena}
+{244}{}{Me annoiato anche}
 {245}{}{Noooo me deve andare ora}
 {246}{}{No.}
 {247}{}{Si'.}

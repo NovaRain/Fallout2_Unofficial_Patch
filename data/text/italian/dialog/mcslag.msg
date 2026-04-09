@@ -1,6 +1,6 @@
 {100}{}{Scappare!}
 {101}{}{Aiuto!}
-{102}{}{I "superficiali" ci attaccano!}
+{102}{}{Quelli della superficie ci stanno attaccando!}
 {103}{}{Lasciaci in pace.}
 {104}{}{Non possiamo semplicemente essere amici?}
 {150}{}{Tornatevene da dove siete venuti.}

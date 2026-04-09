@@ -8,8 +8,8 @@
 {205}{}{Passo cosi' tanto tempo ad aggiornare questi fogli di lavoro che non riesco mai a LAVORARE davvero.}
 {206}{}{Jules fara' meglio a mandarci presto un po' di persone arrapate... e danarose.}
 {215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw. }
-{216}{}{Bentornato! }
-{217}{}{Che mi venga un colpo se questo non e' il piu' famoso campione di boxe di Reno! }
+{216}{}{Bentornato!}
+{217}{}{Ma guarda un po’, il più famoso pugile di Reno!}
 {218}{}{Mi stavo proprio chiedendo quand'e' che Mr. }
 {219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo! }
 {220}{}{ Che cosa desideri oggi?}
@@ -160,7 +160,7 @@
 {576}{}{, tu... bestia disintegra-Enclave...}
 {577}{}{::Bwanbwan-bwan-ba-bwan oookwaka oookwaka::}
 {585}{}{(Annuisce.) Si', e' vero. Di solito dobbiamo addestrarle a lungo per sopprimere il loro istintivo disgusto. E' quasi un rito di passaggio, ormai. Pero', se una ragazza riesce a sopportare la prova-Myron, significa che e' tosta...}
-{586}{}{Mi piacerebbe incontrarlo. Pensi che potrei offrirmi volontaria per diventare la sua prossima "scelta"?}
+{586}{}{Mi piacerebbe incontrarlo. Pensi che potrei offrirmi come sua prossima… "scelta?"}
 {587}{}{Capisco. Avrei delle altre domande...}
 {588}{}{Hmmmm. Grazie delle informazioni.}
 {595}{}{(Ti osserva, poi fa un gesto rotatorio con l'indice) Girami intorno. Hmmmm... }

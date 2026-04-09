@@ -56,7 +56,7 @@
 {242}{}{Non sembri poi cosi' forte, signor "Gancio Sinistro".}
 {243}{}{Posso vedere i tuoi addominali in flessione?}
 {244}{}{Whoa. Guardate un po'.}
-{245}{}{Guardate un po' chi abbiamo qui.}
+{245}{}{Ma guarda un po’.}
 {246}{}{::Dice silenziosamente la parola "cazzo"::}
 {247}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {248}{}{Vieni a chiacchierare con me per un po', tettine d'oro.}
@@ -175,7 +175,7 @@
 {361}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {362}{}{Vieni a chiacchierare con me per un po', tettine d'oro.}
 {363}{}{Dai, labbra di zucchero... vieni a fare due passi con me.}
-{364}{}{Sei una piccola civetta leggiadra...}
+{364}{}{Furbetta agile, eh?}
 {365}{}{Per te sarei disposto persino a farmi il bagno.}
 {366}{}{Ho qui la tua filmografia completa.}
 {367}{}{Ma fin dove arrivano quelle gambe?}

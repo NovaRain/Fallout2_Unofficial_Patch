@@ -166,7 +166,7 @@
 {601}{}{Signorina, siamo chiusi... }
 {610}{}{Quindi ti suggerisco di sparire prima che io ti spari un colpo in fronte.}
 {700}{}{Dannatissimi cani! Me ne torno a letto.}
-{701}{}{Stupidi cani! Domattina vi sistemo io!}
+{701}{}{Stupidi cani! Domattina vi faccio vedere io.}
 {702}{}{Volete tacere, cani?! Nessuno e' cosi' stupido da scassinare un'armeria!}
 {800}{}{Hai consegnato la pistola laser a Eldridge.}
 {801}{}{Ehi, ti sembro forse un mago io? Avrai bisogno dell'arma se vuoi che te la potenzi. Adesso fuori di qui e vattene a cercare una che io possa potenziare... Bah!}

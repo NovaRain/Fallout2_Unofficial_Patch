@@ -262,7 +262,7 @@
 {542}{}{Lo SAPEVO che oggi dovevo farmi la barba.}
 {543}{}{Vieni a chiacchierare con me per un po', zucchero.}
 {544}{}{Dai, labbra di zucchero... vieni a fare due passi con me.}
-{545}{}{Sei una piccola civetta leggiadra...}
+{545}{}{Furbetta agile, eh?}
 {546}{}{Per te sarei disposto persino a farmi il bagno.}
 {547}{}{Ho qui la tua filmografia completa.}
 {548}{}{Ma fin dove arrivano quelle gambe?}

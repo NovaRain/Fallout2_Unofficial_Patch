@@ -68,7 +68,7 @@
 {322}{}{Non c'e' niente di meglio di un po' d'amore libero, di qualche giocata d'azzardo e di finire la giornata con un paio di boccali colmi di latte fermentato di giumenta. Sono queste le cose che mi fanno adorare il mio essere una DONNA DI TRIBU'!}
 {323}{}{Lo lascio alla sua immaginazione. Basandomi sulla risposta precedente, forse e' meglio cosi'.}
 {324}{}{Per le palle degli spiriti del cielo, si'! Io stesso adoro abbandonarmi a tutti e TRE questi peccati. }
-{325}{}{Per Richard Millhouse Nixon e sua madre! Non so quali pratiche seguiate voi gente di tribu' nei vostri covi d'iniquita', ma a New Reno le cose stanno cambiando! Noi siamo gente CIVILE! }
+{325}{}{Per Richard Millhouse Nixon e sua madre! Non so quali pratiche seguiate voi gente di tribu' nei vostri covi d'iniquita', ma a New Reno le cose stanno cambiando! Noi siamo gente CIVILE!}
 {326}{}{Nel nostro villaggio i demoni di cui parla non esistono. Forse noi "selvaggi" potremmo insegnare un paio di cosette a voi gente "civile".}
 {327}{}{Chi c'e' nella vostra organizzazione?}
 {328}{}{Di cosa si occupa la vostra organizzazione?}
@@ -94,9 +94,9 @@
 {357}{}{Non di persona, ma so che la famiglia Wright controlla il mercato degli alcolici a New Reno.}
 {358}{}{No.}
 {359}{}{Veramente no. Senta, adesso devo andare.}
-{360}{}{Oh. (Sbatte le palpebre.) Allora, cosa posso fare per te? }
+{360}{}{Oh. (Sbatte le palpebre.) Allora, cosa posso fare per te?}
 {361}{}{E allora quali sono queste domande?}
-{362}{}{(Sobbalza.) Oh, cielo! Mi hai fatto davvero paura! (Ti guarda con gli occhi socchiusi.) Beh, bentornato! }
+{362}{}{(Sobbalza.) Oh, cielo! Mi hai fatto davvero paura! (Ti guarda con gli occhi socchiusi.) Beh, bentornato!}
 {363}{}{Cosa mi stava dicendo a proposito dell'Associazione Sobrieta'?}
 {364}{}{Sto cercando un Kit di Creazione del Giardino dell'Eden.}
 {365}{}{Sto cercando un posto chiamato Vault 13.}
@@ -128,8 +128,8 @@
 {407}{}{Senta, dimentichiamo questo argomento. Avrei delle altre domande...}
 {410}{}{Non di nome. Sono svegli abbastanza da scappare non appena mi vedono arrivare... ma so che si raggruppano come mosche lungo Virgin Street, alle porte della citta' e all'esterno dei casino'.}
 {411}{}{Capisco. Avrei delle altre domande...}
-{415}{}{Stammi lontano, demone libidinoso! Tu che fornichi nei film per la corruzione delle masse! }
-{416}{}{Beh, per Diana! Hai un bel coraggio a farti rivedere da queste parti! Tu che fornichi nei film per la corruzione delle masse! }
+{415}{}{Mantieni le distanze, demone della lussuria! Tu che fornichi davanti alla telecamera per corrompere le masse!}
+{416}{}{Beh, per Diana! Hai un bel coraggio a farti rivedere da queste parti! Tu che fornichi davanti alla telecamera per la corruzione delle masse!}
 {417}{}{Hunh? Me forno in film per eruzione di che?}
 {418}{}{Aiiieee! Parole grosse! Parole grosse! Me deve scappare!}
 {419}{}{Proprio io. Ti interessa un lavoro? Non mi dispiacciono le donne grandi come te. (Sbatti le ciglia in modo provocante.) Slaccia quella giarrettiera e diamoci dentro!}
@@ -156,7 +156,7 @@
 {452}{}{Allora... cos'ha scoperto?}
 {453}{}{Ah-ha! Avevo ragione... o avevo ragione?}
 {454}{}{Mi dispiace. Tornero'.}
-{460}{}{Era vero... tutto quello che mi hai detto era vero. (Sospira.) La distilleria non era stata smantellata. Proprio no! (Aggrotta le sopracciglia) Mi sono fidata di quell'uomo, ma l'alcol l'ha portato a mentire a me! *A mentire alla sua propria moglie*!}
+{460}{}{Era vero... tutto quello che mi hai detto era vero. (Sospira.) La distilleria non era stata smantellata. Proprio no! (Aggrotta le sopracciglia) Mi sono fidata di quell'uomo, ma l'alcol l'ha portato a mentire a me! *A mentire alla sua propria moglie!*}
 {461}{}{::Lascia che si sfoghi.::}
 {462}{}{Oh, si', Ethyl... e' l'ennesima prova della malignita' degli alcolici. Puo' portare la gente a fare cose terribili. E SPECIALMENTE quando i demoni gemelli del denaro e del potere sono coinvolti.}
 {463}{}{Forse ha bisogno di stare un po' da sola... Tornero' piu' tardi.}

@@ -3,12 +3,12 @@
 {151}{}{Vedi Mr. Bishop. Ha un aspetto sinistro.}
 {200}{}{Hai del fegato per venire qui. }
 {201}{}{Hai del fegato. }
-{202}{}{Perche' non ti attacchi un cartello sul petto che dice "idiota rottinculo"?}
+{202}{}{Perche' non ti appendi un cartello al petto con scritto ‘gran coglione?’ }
 {203}{}{Assaggia questo piombo, bastardo di un }
 {204}{}{ bastardo.}
 {205}{}{Assaggia questo piombo, stupido figlio di puttana.}
 {206}{}{Assaggia questo piombo, puttana.}
-{207}{}{Me no PIACE; sapore di piombo cattivo!}
+{207}{}{Me no PIACE sapore di piombo cattivo!}
 {208}{}{-Allontanati-}
 {209}{}{Se sono queste le parole che vuoi incise sulla tua lapide, sara' fatto...}
 {210}{}{Le tue ultime parole non sono state un granche'.}
@@ -188,7 +188,7 @@
 {707}{}{Grazie, ma non posso accasarmi... il mio villaggio e la mia gente contano su di me.}
 {715}{}{Fermo... non avrai davvero pensato che ti avrei lasciato andar via COSI' dopo quello che hai fatto, vero? Heh. Orsu'... ci sono alcuni scheletri che devono essere seppelliti prima che la questione sia chiusa. Lasciarti andare via... sarebbe solo una cattiva linea di condotta.}
 {716}{}{Fermo... non crederai davvero che la questione tra noi due sia risolta, vero? Eh-eh. Orsu'... secondo i miei calcoli, tu hai ancora un SACCO da pagare. In piu', dal momento che sai troppe cose, non posso certo lasciarti andare via... sarebbe una cattiva linea di condotta.}
-{717}{}{Non dire stupidaggini, Bishop. Lasciami andare, o trasformero' il tuo casino' da quattro soldi in un inferno. "Capish"?}
+{717}{}{Non dire stupidaggini, Bishop. Lasciami andare, o trasformero' il tuo casino' da quattro soldi in un inferno. "Capisce?"}
 {718}{}{Mi sembra giusto. Lascia che ti presenti la mia "linea di condotta" da 9mm.}
 {719}{}{"Cattiva linea di condotta"? TE LA MOSTRO IO LA MIA CATTIVA LINEA DI CONDOTTA, BRUTTO FIGLIO DI P --}
 {725}{}{D'accordo, allora: }

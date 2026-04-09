@@ -85,7 +85,7 @@
 {371}{}{Lucidare asta? Ma me servire stracci e --}
 {372}{}{[Fai come ti dice.]}
 {380}{}{Ti bastera' la lingua.}
-{381}{}{Lingua! Ma come potere...}
+{381}{}{Sto parlando di Shaft!}
 {390}{}{Senti, hai presente l'asta che ogni uomo ha in mezzo alle gambe? Ti assicuro che basta la lingua per tirarla a lucido.}
 {391}{}{-Vai a lucidare l'asta del tipo-}
 {400}{}{Hmmmm. Quante flessioni fai al giorno?}
@@ -97,7 +97,7 @@
 {415}{}{Cerrrrrrto. Amico, so da dove vieni e so ESATTAMENTE dove stai andando. Che ne diresti di recitare?}
 {416}{}{Cerrrrrrto. Tettine d'oro, so da dove vieni e so ESATTAMENTE dove stai andando. Che ne diresti di recitare?}
 {417}{}{Me piace questo!}
-{418}{}{Recitare come?}
+{418}{}{Comportarmi come cosa}
 {425}{}{Davvero? Anche a me piace! Abbiamo gia' cosi' tante cose in comune! Vedi, noi siamo uno studio cinematografico... qui noi creiamo la MAGIA. Tu...}
 {426}{}{tu, amico, puoi essere PARTE di questa magia!}
 {427}{}{tu, tettine d'oro, puoi essere PARTE di questa magia!}

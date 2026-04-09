@@ -29,7 +29,7 @@
 {182}{}{Parliamo di qualcos'altro.}
 {183}{}{Ah, Rose. La proprietaria del Bed and Breakfast. Ora, tu non l'hai saputo da me, ma ti sei mai chiesto perche' la sua "stia" sia cosi' ben protetta? Lei dice che e' per proteggere le sue galline dai predatori, ma se guardi meglio sembra che sia stata costruita per evitare che quello che c'e' dentro scappi, piuttosto che per impedire a qualcuno di entrare. Inoltre, chi ha mai sentito di galline che fanno uova da sei chili?}
 {184}{}{Raccontami altri pettegolezzi.}
-{186}{}{E' davvero incredibile, ma ho sentito alcuni allevatori dire che ogni tanto un brahmin da' alla luce un vitello con una testa sola. Alla faccia dello strano! }
+{186}{}{E' davvero incredibile, ma ho sentito alcuni allevatori dire che ogni tanto un brahmin da' alla luce un vitello con una testa sola. Alla faccia dello strano!}
 {189}{}{E' un membro della mia famiglia; io non sparlo dei miei familiari. }
 {192}{}{Chi, io? Faccio dei lavoretti qua e la'. Sicuramente nulla di cui valga la pena parlare. [Sbatte gli occhi mentre ti guarda.] }
 {193}{}{Mi piacerebbe molto sapere qualcosa di piu' su di te.}

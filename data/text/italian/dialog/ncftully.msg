@@ -234,7 +234,7 @@
 {812}{}{Sparano raggi di luce? Sta parlando di armi laser?}
 {814}{}{Wow... magari potrei cercare di mettere le mani su una di queste armi. Beh, grazie per aver parlato con me.}
 {820}{}{E' coshi' che li ho sentiti chiamarle... la-ser... Ma per me, quelle armi sono proprieta' del diavolo, immondi Luciferi, strumenti ideati solo per uccidere!}
-{821}{}{Si', certamente, Padre. Strumenti del diavolo e tutto il resto. Cosa ne pensano le altre famiglie di questi "Luciferi"?}
+{821}{}{Sì, certamente, Padre. Strumenti del diavolo e tutto il resto. Cosa ne pensano le altre famiglie di questi ‘Portatori di Luce?’}
 {823}{}{Strumenti del diavolo, eh? Magari potrei cercare di mettere le mani su una di queste armi. Beh, grazie per aver parlato con me.}
 {830}{}{Uno dei loro fulminatori potrebbe uscidere una dozzina di uomini. Una volta le altre famiglie combattevano contro i Salvatore, ma adesso non li dishturbano piu'. E' una pace di fatto... funziona finche' dura, credo.}
 {831}{}{Chi e' il capo dei Salvatore, Padre?}
