@@ -233,6 +233,6 @@
 {1214}{}{Tes points d'impact sont accrus encore un peu plus par l'usage répété de l'autodoc.}
 {1215}{}{Tes points d'impact sont réduits encore un peu plus par l'usage répété de l'autodoc.}
 {1216}{}{Tes points d'impact sont réduits encore un peu plus par l'usage répété de l'autodoc.}
-{1217}{}{Tu peux te mesurer aux meilleurs.}
+{1217}{}{Tu sais sortir des bouses comme les meilleurs.}
 {1218}{}{Chances de K.O accrues avec l'utilisation d'une arme.}
 {1219}{}{L'avantage, c'est que tout le monde autour de toi a plus d'échecs critiques en combat. L'inconvénient, c'est que... toi aussi !}
