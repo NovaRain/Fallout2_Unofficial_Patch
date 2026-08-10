@@ -13,8 +13,12 @@
 /* Include Files */
 #define SCRIPT_REALNAME "ncorvill"
 #include "../headers/define.h"
+
 #define NAME                    SCRIPT_NCORVILL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+
+#define dude_inside_room        tile_in_tile_rect(22893, 22879, 26693, 26679, dude_tile)
+
 #include "../headers/command.h"
 #include "../headers/newreno.h"
 #include "../headers/modreact.h"
@@ -162,7 +166,7 @@ procedure critter_p_proc begin
    if (self_can_see_dude) then begin
       if ((hostile) or (warned_attack)) then begin
          self_attack_dude;
-      end else if (((dude_is_made_man) and (dude_family != family_wright)) or (wright_permission == false)) then begin
+      end else if (((dude_is_made_man) and (dude_family != family_wright)) or ((wright_permission == false) and (dude_inside_room))) then begin
          call Node002;
          call Node998;
       end
