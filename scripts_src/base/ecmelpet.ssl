@@ -52,7 +52,7 @@ import variable melchior_obj;
 variable i_died;
 
 procedure start begin
-  set_self_team(TEAM_SUPER_MUTANT); // added by killap
+   set_self_team(TEAM_SUPER_MUTANT); // added by killap
 end
 
 procedure combat_p_proc begin
@@ -97,7 +97,7 @@ procedure critter_p_proc begin
 end
 
 procedure destroy_p_proc begin
-   if (i_died == 0) then begin
+   if (i_died == 0 and melchior_obj > 0) then begin
       i_died := 1;
       add_timer_event(melchior_obj, 0, OBJECT_VISIBILITY);
    end
