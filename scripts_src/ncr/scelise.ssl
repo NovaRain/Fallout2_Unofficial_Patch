@@ -475,12 +475,11 @@ procedure Node020 begin
 end
 
 procedure Node021 begin
-   Node021Rep += 1;
    if (Node021Rep == 0) then begin
+      Node021Rep += 1;
       Reply(157);
       MOREOPTION(Node021);
-   end
-   else begin
+   end else begin
       Reply(178);
       NOption(158, Node014, 4);
       NOption(159, Node025, 4);
