@@ -8,12 +8,12 @@
 
 #define SCRIPT_REALNAME "simserum"
 #include "../headers/define.h"
+#include "../sfall/define_extra.h"
 
 #define NAME   SCRIPT_SIMSERUM
 
 #include "../headers/command.h"
 #include "../headers/ncr.h"
-#include "../sfall/lib.math.h"
 
 procedure use_obj_on_p_proc;
 procedure timed_event_p_proc;
@@ -41,7 +41,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_REAL_KILL) then begin
       // Ref https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/392
       critter_heal(owner, -9999);
-      critter_dmg(owner, 1, DMG_normal_dam bwor DMG_BYPASS_ARMOR bwor DMG_NOANIMATE bwor DAM_DEAD);
+      set_object_data(owner, OBJ_DATA_DAMAGE_FLAGS, get_object_data(owner, OBJ_DATA_DAMAGE_FLAGS) bwor DAM_DEAD); // fail-safe
       destroy_object(self_obj);
    end
 end
