@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-09-30 22:31+0000\n"
+"PO-Revision-Date: 2026-09-30 23:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -14536,7 +14536,7 @@ msgstr "Tu fais sauter la serrure du container."
 msgid "You strain your back while trying to bust the lock off and take a point of damage."
 msgstr ""
 "Tu te fais un tour de reins en essayant de faire sauter la serrure et tu "
-"subis un point de dégâts."
+"subis un point de dégât."
 
 #: dialog/containr.msg:178
 msgid ""
@@ -14547,8 +14547,6 @@ msgstr ""
 "subis "
 
 #: dialog/containr.msg:180 dialog/door.msg:180
-#, fuzzy
-#| msgid "You are too weak to bust the lock."
 msgid "You are too weak to bust the lock off."
 msgstr "Tu es trop faible pour faire sauter le verrou."
 
@@ -14557,32 +14555,26 @@ msgid " busts the lock off the container."
 msgstr " fait sauter la serrure du container."
 
 #: dialog/containr.msg:182 dialog/door.msg:182
-#, fuzzy
-#| msgid ""
-#| " strains his back while trying to bust the lock and takes\n"
-#| " a point of damage."
 msgid " strains his back while trying to bust the lock off and takes a point of damage."
-msgstr " se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât."
+msgstr ""
+" se donne un tour de reins en essayant de faire sauter le verrou et prend un "
+"point de dégât."
 
 #: dialog/containr.msg:183 dialog/door.msg:183
-#, fuzzy
-#| msgid " strains his back while trying to bust the lock and takes "
 msgid " strains his back while trying to bust the lock off and takes "
-msgstr " se donne un tour de reins en essayant de faire sauter le verrou et prend "
+msgstr ""
+" se donne un tour de reins en essayant de faire sauter le verrou et prend "
 
 #: dialog/containr.msg:186 dialog/door.msg:186
-#, fuzzy
-#| msgid ""
-#| " strains her back while trying to bust the lock and takes\n"
-#| " a point of damage."
 msgid " strains her back while trying to bust the lock off and takes a point of damage."
-msgstr " se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât."
+msgstr ""
+" se donne un tour de reins en essayant de faire sauter le verrou et prend un "
+"point de dégât."
 
 #: dialog/containr.msg:187 dialog/door.msg:187
-#, fuzzy
-#| msgid " strains her back while trying to bust the lock and takes "
 msgid " strains her back while trying to bust the lock off and takes "
-msgstr " se donne un tour de reins en essayant de faire sauter le verrou et prend "
+msgstr ""
+" se donne un tour de reins en essayant de faire sauter le verrou et prend "
 
 #: dialog/containr.msg:189 dialog/cstouch.msg:189
 msgid "You deftly lock the container."
@@ -28648,12 +28640,10 @@ msgid ""
 msgstr "Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout)."
 
 #: dialog/door.msg:178
-#, fuzzy
-#| msgid ""
-#| "You strain your back while trying to bust the lock and\n"
-#| " take "
 msgid "You strain your back while trying to bust the lock off and take "
-msgstr "Tu te fais un tour de reins en essayer de faire sauter la serrure et tu subis "
+msgstr ""
+"Tu te fais un tour de reins en essayant de faire sauter la serrure et tu "
+"subis "
 
 #: dialog/door.msg:193
 msgid "That doesn't even put a scratch on the door."
@@ -174752,151 +174742,109 @@ msgid "peppered with fragments"
 msgstr "a été criblée de plombs"
 
 #: game/combat.msg:250
-#, fuzzy
-#| msgid "knocked out"
 msgctxt "female_pc"
 msgid "knocked out"
 msgstr "sonnée"
 
 #: game/combat.msg:251
-#, fuzzy
-#| msgid "knocked down"
 msgctxt "female_pc"
 msgid "knocked down"
 msgstr "assommée"
 
 #: game/combat.msg:252
-#, fuzzy
-#| msgid "crippled your left leg"
 msgctxt "female_pc"
 msgid "crippled your left leg"
 msgstr "a estropié ta jambe gauche"
 
 #: game/combat.msg:253
-#, fuzzy
-#| msgid "crippled your right leg"
 msgctxt "female_pc"
 msgid "crippled your right leg"
 msgstr "a estropié ta jambe droite"
 
 #: game/combat.msg:254
-#, fuzzy
-#| msgid "crippled your left arm"
 msgctxt "female_pc"
 msgid "crippled your left arm"
 msgstr "a estropié ton bras gauche"
 
 #: game/combat.msg:255
-#, fuzzy
-#| msgid "crippled your right arm"
 msgctxt "female_pc"
 msgid "crippled your right arm"
 msgstr "a estropié ton bras droit"
 
 #: game/combat.msg:256
-#, fuzzy
-#| msgid "blinded"
 msgctxt "female_pc"
 msgid "blinded"
 msgstr "aveuglée"
 
 #: game/combat.msg:257
-#, fuzzy
-#| msgid "were killed"
 msgctxt "female_pc"
 msgid "were killed"
-msgstr "as été tué"
+msgstr "as été tuée"
 
 #: game/combat.msg:258
-#, fuzzy
-#| msgid "hit"
 msgctxt "female_pc"
 msgid "hit"
 msgstr "touchée"
 
 #: game/combat.msg:261
-#, fuzzy
-#| msgid "had your armor bypassed"
 msgctxt "female_pc"
 msgid "had your armor bypassed"
 msgstr "ton armure a été transpercée"
 
 #: game/combat.msg:262
-#, fuzzy
-#| msgid "your weapon exploded"
 msgctxt "female_pc"
 msgid "your weapon exploded"
 msgstr "ton arme a explosé"
 
 #: game/combat.msg:263
-#, fuzzy
-#| msgid "destroyed your weapon"
 msgctxt "female_pc"
 msgid "destroyed your weapon"
 msgstr "ton arme a été détruite"
 
 #: game/combat.msg:264
-#, fuzzy
-#| msgid "dropped your weapon"
 msgctxt "female_pc"
 msgid "dropped your weapon"
 msgstr "ton arme est tombée à terre"
 
 #: game/combat.msg:265
-#, fuzzy
-#| msgid "lost your next turn"
 msgctxt "female_pc"
 msgid "lost your next turn"
 msgstr "as laissé passer ton tour"
 
 #: game/combat.msg:266
-#, fuzzy
-#| msgid "hit yourself"
 msgctxt "female_pc"
 msgid "hit yourself"
-msgstr "t'es touchée"
+msgstr "as été touchée par ton propre tir"
 
 #: game/combat.msg:267
-#, fuzzy
-#| msgid "lost the rest of your ammo"
 msgctxt "female_pc"
 msgid "lost the rest of your ammo"
 msgstr "as perdu le reste de tes munitions"
 
 #: game/combat.msg:268
-#, fuzzy
-#| msgid "fired a dud shot"
 msgctxt "female_pc"
 msgid "fired a dud shot"
 msgstr "a tiré un coup foireux"
 
 #: game/combat.msg:269
-#, fuzzy
-#| msgid "hurt yourself"
 msgctxt "female_pc"
 msgid "hurt yourself"
 msgstr "t'es blessée"
 
 #: game/combat.msg:270
-#, fuzzy
-#| msgid "hit randomly"
 msgctxt "female_pc"
 msgid "hit randomly"
-msgstr "a été touché au hasard"
+msgstr "a été touchée au hasard"
 
 #: game/combat.msg:271
-#, fuzzy
-#| msgid "crippled a random limb"
 msgctxt "female_pc"
 msgid "crippled a random limb"
 msgstr "a estropié un membre au hasard"
 
 #: game/combat.msg:272
-#, fuzzy
-#| msgid "peppered with fragments"
 msgctxt "female_pc"
 msgid "peppered with fragments"
-msgstr "a été criblée de plombs"
+msgstr "a été criblée d'éclats"
 
 #: game/combat.msg:302
 msgid "crippled his left leg"
@@ -174951,15 +174899,11 @@ msgid "hurt himself"
 msgstr "s'est blessé"
 
 #: game/combat.msg:400
-#, fuzzy
-#| msgid "knocked out"
 msgctxt "female_npc"
 msgid "knocked out"
-msgstr "sonnée"
+msgstr "assommée"
 
 #: game/combat.msg:401
-#, fuzzy
-#| msgid "knocked down"
 msgctxt "female_npc"
 msgid "knocked down"
 msgstr "assommée"
@@ -174981,22 +174925,16 @@ msgid "crippled her right arm"
 msgstr "a estropié son bras droit"
 
 #: game/combat.msg:406
-#, fuzzy
-#| msgid "blinded"
 msgctxt "female_npc"
 msgid "blinded"
 msgstr "aveuglée"
 
 #: game/combat.msg:407
-#, fuzzy
-#| msgid "was killed"
 msgctxt "female_npc"
 msgid "was killed"
-msgstr "a été tué"
+msgstr "a été tuée"
 
 #: game/combat.msg:408
-#, fuzzy
-#| msgid "hit"
 msgctxt "female_npc"
 msgid "hit"
 msgstr "touchée"
@@ -175030,8 +174968,6 @@ msgid "lost the rest of her ammo"
 msgstr "a perdu le reste de ses munitions"
 
 #: game/combat.msg:418
-#, fuzzy
-#| msgid "fired a dud shot"
 msgctxt "female_npc"
 msgid "fired a dud shot"
 msgstr "a tiré un coup foireux"
@@ -175041,25 +174977,19 @@ msgid "hurt herself"
 msgstr "s'est blessée"
 
 #: game/combat.msg:420
-#, fuzzy
-#| msgid "hit randomly"
 msgctxt "female_npc"
 msgid "hit randomly"
-msgstr "a été touché au hasard"
+msgstr "a été touchée au hasard"
 
 #: game/combat.msg:421
-#, fuzzy
-#| msgid "crippled a random limb"
 msgctxt "female_npc"
 msgid "crippled a random limb"
 msgstr "a estropié un membre au hasard"
 
 #: game/combat.msg:422
-#, fuzzy
-#| msgid "peppered with fragments"
 msgctxt "female_npc"
 msgid "peppered with fragments"
-msgstr "a été criblée de plombs"
+msgstr "a été criblée d'éclats"
 
 #: game/combat.msg:506 game/combat.msg:556
 msgid "You"
@@ -175134,95 +175064,69 @@ msgid "%s critically missed and took %d hit points"
 msgstr "%s a raté sa cible et a pris %d points d'impact"
 
 #: game/combat.msg:559
-#, fuzzy
-#| msgid "Oops! %s were hit instead of %s!"
 msgctxt "female_pc"
 msgid "Oops! %s were hit instead of %s!"
-msgstr "Oh ! %s as été touché à la place de %s !"
+msgstr "Oups ! %s as été touchée à la place de %s !"
 
 #: game/combat.msg:561
-#, fuzzy
-#| msgid "%s were critically hit in %s for %d hit points"
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for %d hit points"
-msgstr "%s as été touché (coup critique) (%s) pour %d points d'impact"
+msgstr "%s a été touchée d'un coup critique dans %s pour %d points d'impact"
 
 #: game/combat.msg:562
-#, fuzzy
-#| msgid "%s were hit in %s for %d hit points"
 msgctxt "female_pc"
 msgid "%s were hit in %s for %d hit points"
-msgstr "%s as été touché (%s) pour %d points d'impact"
+msgstr "%s a été touchée dans %s pour %d points d'impact"
 
 #: game/combat.msg:563
-#, fuzzy
-#| msgid "%s were hit for %d hit points"
 msgctxt "female_pc"
 msgid "%s were hit for %d hit points"
-msgstr "%s as été touché pour %d points d'impact"
+msgstr "%s a été touchée pour %d points d'impact"
 
 #: game/combat.msg:564
-#, fuzzy
-#| msgid "%s critically missed"
 msgctxt "female_pc"
 msgid "%s critically missed"
 msgstr "%s a complètement raté"
 
 #: game/combat.msg:565
-#, fuzzy
-#| msgid "%s missed"
 msgctxt "female_pc"
 msgid "%s missed"
 msgstr "%s a raté"
 
 #: game/combat.msg:570
-#, fuzzy
-#| msgid "%s were critically hit for %d hit points"
 msgctxt "female_pc"
 msgid "%s were critically hit for %d hit points"
-msgstr "%s as été touché (coup critique) pour %d points d'impact"
+msgstr "%s a été touchée d'un coup critique pour %d points d'impact"
 
 #: game/combat.msg:571
-#, fuzzy
-#| msgid "%s were critically hit in %s for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for 1 hit point"
-msgstr "%s as été touché (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s a été touchée d'un coup critique dans %s pour 1 point d'impact"
 
 #: game/combat.msg:572
-#, fuzzy
-#| msgid "%s were hit in %s for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were hit in %s for 1 hit point"
-msgstr "%s as été touché (%s) pour 1 point d'impact"
+msgstr "%s a été touchée dans %s pour 1 point d'impact"
 
 #: game/combat.msg:573
-#, fuzzy
-#| msgid "%s were hit for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were hit for 1 hit point"
-msgstr "%s as été touché pour 1 point d'impact"
+msgstr "%s a été touchée pour 1 point d'impact"
 
 #: game/combat.msg:574
-#, fuzzy
-#| msgid "%s were critically hit for 1 hit point"
 msgctxt "female_pc"
 msgid "%s were critically hit for 1 hit point"
-msgstr "%s as été touché (coup critique) pour 1 point d'impact"
+msgstr "%s a été touchée d'un coup critique pour 1 point d'impact"
 
 #: game/combat.msg:575
-#, fuzzy
-#| msgid "%s were critically hit in %s for no damage"
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for no damage"
-msgstr "%s as été touché (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s a été touchée d'un coup critique dans %s mais sans aucun dégât"
 
 #: game/combat.msg:576
-#, fuzzy
-#| msgid "%s were hit in %s for no damage"
 msgctxt "female_pc"
 msgid "%s were hit in %s for no damage"
-msgstr "%s as été touché (%s) sans aucun dégât"
+msgstr "%s a été touchée dans %s sans aucun dégât"
 
 #: game/combat.msg:577
 #, fuzzy
