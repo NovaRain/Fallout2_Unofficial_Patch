@@ -75,7 +75,7 @@
 {174}{}{ a bloqué le verrou de la porte à cause de son manque de dextérité.}
 {175}{}{ n'a pas réussi à crocheter le verrou de cette porte.}
 {176}{}{Tu fais sauter le verrou de la porte.}
-{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
+{177}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis un point de dégâts.}
 {178}{}{You strain your back while trying to bust the lock off and take }
 {179}{}{ points de dégâts.}
 {180}{}{You are too weak to bust the lock off.}

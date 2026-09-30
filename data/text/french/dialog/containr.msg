@@ -75,9 +75,8 @@
 {174}{}{ bloque le verrou du container à cause de son manque de dextérité.}
 {175}{}{ n'a pas réussi à crocheter le verrou du container.}
 {176}{}{Tu fais sauter la serrure du container.}
-{177}{}{You strain your back while trying to bust the lock off and take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock off and
- take }
+{177}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis un point de dégâts.}
+{178}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis }
 {179}{}{ points de dégâts.}
 {180}{}{You are too weak to bust the lock off.}
 {181}{}{ fait sauter la serrure du container.}
