@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 04:31+0000\n"
+"PO-Revision-Date: 2026-10-01 05:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -2728,7 +2728,7 @@ msgstr "C'est vrai. Tu en veux, c'est ça ?"
 
 #: dialog/acmorlis.msg:108
 msgid "Well, yeah."
-msgstr "Euh, ouais."
+msgstr "Ben, ouais."
 
 #: dialog/acmorlis.msg:109
 msgid ""
@@ -2828,7 +2828,10 @@ msgstr "Oui, tante Morlis, mais..."
 
 #: dialog/acmorlis.msg:206
 msgid "Then get yourself out of here and don't come back until you do! Why waste time coming back here, when you could be using that time to continue your search!?"
-msgstr "Alors débarrasse-moi le plancher et ne reviens pas avant de l'avoir trouvé ! Pourquoi perdre ton temps à revenir ici alors que tu pourrais l'utiliser pour poursuivre tes recherches !"
+msgstr ""
+"Alors débarrasse-moi le plancher et ne reviens pas avant de l'avoir trouvé ! "
+"Pourquoi perdre ton temps à revenir ici alors que tu pourrais l'utiliser "
+"pour poursuivre tes recherches ?!"
 
 #: dialog/acmorlis.msg:208
 msgid "The fact that you are standing here must mean that you have completed your quest. You wouldn't waste precious time returning here empty-handed, would you?"
@@ -3362,7 +3365,9 @@ msgstr "Moi faire mon mieux. Moi trouver J.E.K. Moi revenir."
 
 #: dialog/acmynoc.msg:407
 msgid "Why can't we trade with other villages for the food we need? "
-msgstr "Pourquoi ne pas traiter avec les autres villages pour la nourriture dont nous avons besoin ?"
+msgstr ""
+"Pourquoi ne pas traiter avec les autres villages pour la nourriture dont "
+"nous avons besoin ? "
 
 #: dialog/acmynoc.msg:408
 msgid "I'm doing my best. When I find the GECK I'll return with it."
@@ -3495,7 +3500,7 @@ msgstr "Fondatrice"
 #: dialog/acmynoc.msg:1002 dialog/acvillgr.msg:1002 dialog/acwarior.msg:1002
 #: dialog/kchild.msg:1002 dialog/kcitizen.msg:1002
 msgid "Vault Dweller"
-msgstr "Habitant de l'Abri "
+msgstr "Habitant de l'Abri"
 
 #: dialog/acmynoc.msg:1003 dialog/acvillgr.msg:1003 dialog/acwarior.msg:1003
 #: dialog/eccvnmst.msg:200 dialog/kchild.msg:1003 dialog/kcitizen.msg:1003
@@ -3872,7 +3877,7 @@ msgstr "J'ai besoin d'un moment pour me préparer."
 
 #: dialog/actemvil.msg:111
 msgid "What would you like to know? "
-msgstr "Que voudrais-tu savoir ?"
+msgstr "Que voudrais-tu savoir ? "
 
 #: dialog/actemvil.msg:112
 msgid "Why we fight?"
@@ -4884,10 +4889,9 @@ msgid ""
 " are dying, and our food is all but gone. The blight of the land can only be cured with\n"
 " the GECK. Go, find the GECK and save our people."
 msgstr ""
-"Mon enfant, notre besoin est plus grand que jamais. Notre peuple est malade, "
-"les Brahmines se meurent et notre nourriture est presque épuisée. Seul le "
-"J.E.K combattra le fléau qui s'est abattu sur nos terres. Va, et trouve-le. "
-"Sauve notre peuple."
+"Les temps sont durs, mon enfant. Notre peuple est malade, les Brahmines se "
+"meurent et notre nourriture est épuisée. Seul le J.E.K combattra le fléau "
+"qui s'est abattu sur nos terres. Va, et trouve-le ! Sauve notre peuple !"
 
 #: dialog/ahelder.msg:181 dialog/scmerk.msg:262
 msgid "I'm on my way."
@@ -4972,8 +4976,8 @@ msgid ""
 " Do you know what must be done, Chosen One?"
 msgstr ""
 "Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous "
-"avec ce qu'ils appellent effeuvé. Ils nous tueront, jusqu'au dernier ! Tu "
-"sais ce que tu dois faire, Être Elu."
+"avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu "
+"dois faire, Être Elu."
 
 #: dialog/ahelder.msg:215
 msgid "Effeevee?"
@@ -5007,7 +5011,7 @@ msgstr "Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?"
 
 #: dialog/ahelder.msg:225
 msgid "Like you could help me in there? Fuck off and die."
-msgstr "Pff, comme si tu pouvais m'aider... Va te faire foutre et crève."
+msgstr "Pff, tu pourrais peut-être m'aider, non ? Va te faire foutre et crève."
 
 #: dialog/ahelder.msg:226
 msgctxt "eeld9"
@@ -5099,15 +5103,17 @@ msgstr "Bonjour, Etre Elu. Pourquoi la Terre que je contemple se réchauffe sur 
 
 #: dialog/ahhakun.msg:105 dialog/ahhakun.msg:112
 msgid "Uh? "
-msgstr "Euh ?"
+msgstr "Euh ? "
 
 #: dialog/ahhakun.msg:106 dialog/ahhakun.msg:113
 msgid "I've come to say goodbye. I'm leaving on my holy quest. "
-msgstr "Je suis là pour te dire au revoir. Je vais mener ma sainte quête."
+msgstr "Je suis là pour te dire au revoir. Je vais mener ma sainte quête. "
 
 #: dialog/ahhakun.msg:107 dialog/ahhakun.msg:114
 msgid "I'm heading out. I was hoping just this once you'd talk like a real person. "
-msgstr "Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne."
+msgstr ""
+"Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie "
+"personne. "
 
 #: dialog/ahhakun.msg:108 dialog/ahhakun.msg:115
 msgid "You are doing just way too many drugs. I'm outta here. "
@@ -8809,7 +8815,9 @@ msgstr "Tu vois une vieille porte avec un verrou et un piège hautement explosif
 msgid ""
 "You see an old door with no apparent locking device and\n"
 " a highly explosive trap in the doorframe."
-msgstr "Tu vois une vieille porte sans dispositif de verrouillage apparent et un piège hautement explosif sur sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une vieille porte sans dispositif de verrouillage apparent et un "
+"piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:153 dialog/door.msg:153 dialog/sislvdor.msg:153
 msgid ""
@@ -32621,7 +32629,7 @@ msgstr "Enfin, je veux dire, sachant que pendant la projection, elle ne les avai
 
 #: dialog/ecredhro.msg:114 dialog/ncethwri.msg:200 dialog/nclabish.msg:480
 msgid "*Sigh*"
-msgstr "::Soupir::"
+msgstr "*Soupir*"
 
 #: dialog/ecredhro.msg:115
 msgid "I hate men."
@@ -75651,7 +75659,7 @@ msgstr "Hé, bas les pattes !"
 
 #: dialog/mcfarrel.msg:151
 msgid "Stop that!"
-msgstr "Arrête ça! "
+msgstr "Arrête ça!"
 
 #: dialog/mcfarrel.msg:153
 msgid "I didn't steal the watch, so stop coming over here and harassing poor old Farrel!"
@@ -82405,7 +82413,7 @@ msgstr "::Respiration bruyante::"
 
 #: dialog/ncbigjes.msg:211 dialog/ncsalvat.msg:202
 msgid "*Cough* *Cough*"
-msgstr "::Toux:: ::Toux::"
+msgstr "*Tousse* *Tousse*"
 
 #: dialog/ncbigjes.msg:212
 msgid "::Wipes sweat from forehead.::"
@@ -110012,7 +110020,7 @@ msgstr "Tu vois Louis Salvatore. Il se déplace avec un réservoir d'oxygène et
 
 #: dialog/ncsalvat.msg:200
 msgid "*Cough*"
-msgstr "::Tousse::"
+msgstr "*Tousse*"
 
 #: dialog/ncsalvat.msg:210
 msgid "Guards! Gu...*cough* *cough*...Guards!"
