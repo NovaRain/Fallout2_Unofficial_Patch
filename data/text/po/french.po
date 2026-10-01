@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-09-30 23:31+0000\n"
+"PO-Revision-Date: 2026-10-01 00:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -174744,7 +174744,7 @@ msgstr "a été criblée de plombs"
 #: game/combat.msg:250
 msgctxt "female_pc"
 msgid "knocked out"
-msgstr "sonnée"
+msgstr "assommée"
 
 #: game/combat.msg:251
 msgctxt "female_pc"
@@ -174754,22 +174754,22 @@ msgstr "assommée"
 #: game/combat.msg:252
 msgctxt "female_pc"
 msgid "crippled your left leg"
-msgstr "a estropié ta jambe gauche"
+msgstr "as estropié ta jambe gauche"
 
 #: game/combat.msg:253
 msgctxt "female_pc"
 msgid "crippled your right leg"
-msgstr "a estropié ta jambe droite"
+msgstr "as estropié ta jambe droite"
 
 #: game/combat.msg:254
 msgctxt "female_pc"
 msgid "crippled your left arm"
-msgstr "a estropié ton bras gauche"
+msgstr "as estropié ton bras gauche"
 
 #: game/combat.msg:255
 msgctxt "female_pc"
 msgid "crippled your right arm"
-msgstr "a estropié ton bras droit"
+msgstr "as estropié ton bras droit"
 
 #: game/combat.msg:256
 msgctxt "female_pc"
@@ -174824,7 +174824,7 @@ msgstr "as perdu le reste de tes munitions"
 #: game/combat.msg:268
 msgctxt "female_pc"
 msgid "fired a dud shot"
-msgstr "a tiré un coup foireux"
+msgstr "as tiré un coup foireux"
 
 #: game/combat.msg:269
 msgctxt "female_pc"
@@ -174832,6 +174832,7 @@ msgid "hurt yourself"
 msgstr "t'es blessée"
 
 #: game/combat.msg:270
+#, fuzzy
 msgctxt "female_pc"
 msgid "hit randomly"
 msgstr "a été touchée au hasard"
@@ -174839,12 +174840,12 @@ msgstr "a été touchée au hasard"
 #: game/combat.msg:271
 msgctxt "female_pc"
 msgid "crippled a random limb"
-msgstr "a estropié un membre au hasard"
+msgstr "as estropié un membre au hasard"
 
 #: game/combat.msg:272
 msgctxt "female_pc"
 msgid "peppered with fragments"
-msgstr "a été criblée d'éclats"
+msgstr "as été criblée d'éclats"
 
 #: game/combat.msg:302
 msgid "crippled his left leg"
@@ -174906,7 +174907,7 @@ msgstr "assommée"
 #: game/combat.msg:401
 msgctxt "female_npc"
 msgid "knocked down"
-msgstr "assommée"
+msgstr "sonnée"
 
 #: game/combat.msg:402
 msgid "crippled her left leg"
@@ -174989,7 +174990,7 @@ msgstr "a estropié un membre au hasard"
 #: game/combat.msg:422
 msgctxt "female_npc"
 msgid "peppered with fragments"
-msgstr "a été criblée d'éclats"
+msgstr "criblée d'éclats"
 
 #: game/combat.msg:506 game/combat.msg:556
 msgid "You"
@@ -175071,83 +175072,77 @@ msgstr "Oups ! %s as été touchée à la place de %s !"
 #: game/combat.msg:561
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for %d hit points"
-msgstr "%s a été touchée d'un coup critique dans %s pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour %d points d'impact"
 
 #: game/combat.msg:562
 msgctxt "female_pc"
 msgid "%s were hit in %s for %d hit points"
-msgstr "%s a été touchée dans %s pour %d points d'impact"
+msgstr "%s as été touchée dans %s pour %d points d'impact"
 
 #: game/combat.msg:563
 msgctxt "female_pc"
 msgid "%s were hit for %d hit points"
-msgstr "%s a été touchée pour %d points d'impact"
+msgstr "%s as été touchée pour %d points d'impact"
 
 #: game/combat.msg:564
 msgctxt "female_pc"
 msgid "%s critically missed"
-msgstr "%s a complètement raté"
+msgstr "%s as complètement raté"
 
 #: game/combat.msg:565
 msgctxt "female_pc"
 msgid "%s missed"
-msgstr "%s a raté"
+msgstr "%s as raté"
 
 #: game/combat.msg:570
 msgctxt "female_pc"
 msgid "%s were critically hit for %d hit points"
-msgstr "%s a été touchée d'un coup critique pour %d points d'impact"
+msgstr "%s as été touchée par un coup critique pour %d points d'impact"
 
 #: game/combat.msg:571
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for 1 hit point"
-msgstr "%s a été touchée d'un coup critique dans %s pour 1 point d'impact"
+msgstr "%s as été touchée par un coup critique dans %s pour 1 point d'impact"
 
 #: game/combat.msg:572
 msgctxt "female_pc"
 msgid "%s were hit in %s for 1 hit point"
-msgstr "%s a été touchée dans %s pour 1 point d'impact"
+msgstr "%s as été touchée dans %s pour 1 point d'impact"
 
 #: game/combat.msg:573
 msgctxt "female_pc"
 msgid "%s were hit for 1 hit point"
-msgstr "%s a été touchée pour 1 point d'impact"
+msgstr "%s as été touchée pour 1 point d'impact"
 
 #: game/combat.msg:574
 msgctxt "female_pc"
 msgid "%s were critically hit for 1 hit point"
-msgstr "%s a été touchée d'un coup critique pour 1 point d'impact"
+msgstr "%s as été touchée d'un coup critique pour 1 point d'impact"
 
 #: game/combat.msg:575
 msgctxt "female_pc"
 msgid "%s were critically hit in %s for no damage"
-msgstr "%s a été touchée d'un coup critique dans %s mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique dans %s mais sans aucun dégât"
 
 #: game/combat.msg:576
 msgctxt "female_pc"
 msgid "%s were hit in %s for no damage"
-msgstr "%s a été touchée dans %s sans aucun dégât"
+msgstr "%s as été touchée dans %s sans aucun dégât"
 
 #: game/combat.msg:577
-#, fuzzy
-#| msgid "%s were hit for no damage"
 msgctxt "female_pc"
 msgid "%s were hit for no damage"
-msgstr "%s as été touché sans aucun dégât"
+msgstr "%s as été touchée sans aucun dégât"
 
 #: game/combat.msg:578
-#, fuzzy
-#| msgid "%s were critically hit for no damage"
 msgctxt "female_pc"
 msgid "%s were critically hit for no damage"
-msgstr "%s as été touché (coup critique) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique mais sans aucun dégât"
 
 #: game/combat.msg:583
-#, fuzzy
-#| msgid "%s critically missed and took 1 hit point"
 msgctxt "female_pc"
 msgid "%s critically missed and took 1 hit point"
-msgstr "%s a complètement raté sa cible et a pris 1 point d'impact"
+msgstr "%s as complètement raté ta cible et as subis 1 point d'impact"
 
 #: game/combat.msg:584
 #, fuzzy
@@ -175213,39 +175208,29 @@ msgid "%s was critically hit for no damage"
 msgstr "%s a été touché (coup critique) mais sans aucun dégât"
 
 #: game/combat.msg:708
-#, fuzzy
-#| msgid "Oops! %s was hit instead of you!"
 msgctxt "female_npc"
 msgid "Oops! %s was hit instead of you!"
-msgstr "Oh ! %s a été touché à ta place !"
+msgstr "Oups ! %s a été touchée à ta place !"
 
 #: game/combat.msg:709
-#, fuzzy
-#| msgid "Oops! %s was hit instead of %s!"
 msgctxt "female_npc"
 msgid "Oops! %s was hit instead of %s!"
-msgstr "Oh ! %s a été touché à la place de %s !"
+msgstr "Oups ! %s a été touchée à la place de %s !"
 
 #: game/combat.msg:711
-#, fuzzy
-#| msgid "%s was critically hit in %s for %d hit points"
 msgctxt "female_npc"
 msgid "%s was critically hit in %s for %d hit points"
-msgstr "%s a été touché (coup critique) (%s) pour %d points d'impact"
+msgstr "%s a été touchée d'un coup critique dans %s pour %d points d'impact"
 
 #: game/combat.msg:712
-#, fuzzy
-#| msgid "%s was hit in %s for %d hit points"
 msgctxt "female_npc"
 msgid "%s was hit in %s for %d hit points"
-msgstr "%s a été touché (%s) pour %d points d'impact"
+msgstr "%s a été touchée dans %s pour %d points d'impact"
 
 #: game/combat.msg:713
-#, fuzzy
-#| msgid "%s was hit for %d hit points"
 msgctxt "female_npc"
 msgid "%s was hit for %d hit points"
-msgstr "%s a été touché pour %d points d'impact"
+msgstr "%s a été touchée pour %d points d'impact"
 
 #: game/combat.msg:714
 #, fuzzy
@@ -175255,85 +175240,61 @@ msgid "%s critically missed"
 msgstr "%s a complètement raté"
 
 #: game/combat.msg:715
-#, fuzzy
-#| msgid "%s missed"
 msgctxt "female_npc"
 msgid "%s missed"
 msgstr "%s a raté"
 
 #: game/combat.msg:720
-#, fuzzy
-#| msgid "%s was critically hit for %d hit points"
 msgctxt "female_npc"
 msgid "%s was critically hit for %d hit points"
-msgstr "%s a été touché (coup critique) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique pour %d points d'impact"
 
 #: game/combat.msg:721
-#, fuzzy
-#| msgid "%s was critically hit in %s for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was critically hit in %s for 1 hit point"
-msgstr "%s a été touché (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour 1 point d'impact"
 
 #: game/combat.msg:722
-#, fuzzy
-#| msgid "%s was hit in %s for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was hit in %s for 1 hit point"
-msgstr "%s a été touché (%s) pour 1 point d'impact"
+msgstr "%s a été touchée dans %s pour 1 point d'impact"
 
 #: game/combat.msg:723
-#, fuzzy
-#| msgid "%s was hit for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was hit for 1 hit point"
-msgstr "%s a été touché pour 1 point d'impact"
+msgstr "%s a été touchée pour 1 point d'impact"
 
 #: game/combat.msg:724
-#, fuzzy
-#| msgid "%s was critically hit for 1 hit point"
 msgctxt "female_npc"
 msgid "%s was critically hit for 1 hit point"
-msgstr "%s a été touché (coup critique) pour 1 point d'impact"
+msgstr "%s a été touchée d'un coup critique pour 1 point d'impact"
 
 #: game/combat.msg:725
-#, fuzzy
-#| msgid "%s was critically hit in %s for no damage"
 msgctxt "female_npc"
 msgid "%s was critically hit in %s for no damage"
-msgstr "%s a été touché (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s a été touchée d'un coup critique dans %s mais sans aucun dégât"
 
 #: game/combat.msg:726
-#, fuzzy
-#| msgid "%s was hit in %s for no damage"
 msgctxt "female_npc"
 msgid "%s was hit in %s for no damage"
-msgstr "%s a été touché (%s) sans aucun dégât"
+msgstr "%s a été touchée dans %s sans aucun dégât"
 
 #: game/combat.msg:727
-#, fuzzy
-#| msgid "%s was hit for no damage"
 msgctxt "female_npc"
 msgid "%s was hit for no damage"
-msgstr "%s a été touché sans aucun dégât"
+msgstr "%s a été touchée sans aucun dégât"
 
 #: game/combat.msg:728
-#, fuzzy
-#| msgid "%s was critically hit for no damage"
 msgctxt "female_npc"
 msgid "%s was critically hit for no damage"
-msgstr "%s a été touché (coup critique) mais sans aucun dégât"
+msgstr "%s a été touchée par un coup critique mais sans aucun dégât"
 
 #: game/combat.msg:733
-#, fuzzy
-#| msgid "%s critically missed and took 1 hit point"
 msgctxt "female_npc"
 msgid "%s critically missed and took 1 hit point"
 msgstr "%s a complètement raté sa cible et a pris 1 point d'impact"
 
 #: game/combat.msg:734
-#, fuzzy
-#| msgid "%s critically missed and took %d hit points"
 msgctxt "female_npc"
 msgid "%s critically missed and took %d hit points"
 msgstr "%s a raté sa cible et a pris %d points d'impact"
