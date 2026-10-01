@@ -30,12 +30,12 @@
 {220}{}{a été touché au hasard}
 {221}{}{a estropié un membre au hasard}
 {222}{}{a été criblée de plombs}
-{250}{female_pc}{sonnée}
+{250}{female_pc}{assommée}
 {251}{female_pc}{assommée}
-{252}{female_pc}{a estropié ta jambe gauche}
-{253}{female_pc}{a estropié ta jambe droite}
-{254}{female_pc}{a estropié ton bras gauche}
-{255}{female_pc}{a estropié ton bras droit}
+{252}{female_pc}{as estropié ta jambe gauche}
+{253}{female_pc}{as estropié ta jambe droite}
+{254}{female_pc}{as estropié ton bras gauche}
+{255}{female_pc}{as estropié ton bras droit}
 {256}{female_pc}{aveuglée}
 {257}{female_pc}{as été tuée}
 {258}{female_pc}{touchée}
@@ -48,11 +48,11 @@
 {265}{female_pc}{as laissé passer ton tour}
 {266}{female_pc}{as été touchée par ton propre tir}
 {267}{female_pc}{as perdu le reste de tes munitions}
-{268}{female_pc}{a tiré un coup foireux}
+{268}{female_pc}{as tiré un coup foireux}
 {269}{female_pc}{t'es blessée}
-{270}{female_pc}{a été touchée au hasard}
-{271}{female_pc}{a estropié un membre au hasard}
-{272}{female_pc}{a été criblée d'éclats}
+{270}{female_pc}{hit randomly}
+{271}{female_pc}{as estropié un membre au hasard}
+{272}{female_pc}{as été criblée d'éclats}
 {300}{}{sonnée}
 {301}{}{assommée}
 {302}{}{a estropié sa jambe gauche}
@@ -77,7 +77,7 @@
 {321}{}{a estropié un membre au hasard}
 {322}{}{a été criblée de plombs}
 {400}{female_npc}{assommée}
-{401}{female_npc}{assommée}
+{401}{female_npc}{sonnée}
 {402}{}{a estropié sa jambe gauche}
 {403}{}{a estropié sa jambe droite}
 {404}{}{a estropié son bras gauche}
@@ -98,7 +98,7 @@
 {419}{}{s'est blessée}
 {420}{female_npc}{a été touchée au hasard}
 {421}{female_npc}{a estropié un membre au hasard}
-{422}{female_npc}{a été criblée d'éclats}
+{422}{female_npc}{criblée d'éclats}
 {506}{}{Tu}
 {509}{}{Oh ! %s as été touché à la place de %s !}
 {511}{}{%s as été touché (coup critique) (%s) pour %d points d'impact}
@@ -119,21 +119,21 @@
 {534}{}{%s a raté sa cible et a pris %d points d'impact}
 {556}{}{Tu}
 {559}{female_pc}{Oups ! %s as été touchée à la place de %s !}
-{561}{female_pc}{%s a été touchée d'un coup critique dans %s pour %d points d'impact}
-{562}{female_pc}{%s a été touchée dans %s pour %d points d'impact}
-{563}{female_pc}{%s a été touchée pour %d points d'impact}
-{564}{female_pc}{%s a complètement raté}
-{565}{female_pc}{%s a raté}
-{570}{female_pc}{%s a été touchée d'un coup critique pour %d points d'impact}
-{571}{female_pc}{%s a été touchée d'un coup critique dans %s pour 1 point d'impact}
-{572}{female_pc}{%s a été touchée dans %s pour 1 point d'impact}
-{573}{female_pc}{%s a été touchée pour 1 point d'impact}
-{574}{female_pc}{%s a été touchée d'un coup critique pour 1 point d'impact}
-{575}{female_pc}{%s a été touchée d'un coup critique dans %s mais sans aucun dégât}
-{576}{female_pc}{%s a été touchée dans %s sans aucun dégât}
-{577}{female_pc}{%s were hit for no damage}
-{578}{female_pc}{%s were critically hit for no damage}
-{583}{female_pc}{%s critically missed and took 1 hit point}
+{561}{female_pc}{%s a été touchée par un coup critique dans %s pour %d points d'impact}
+{562}{female_pc}{%s as été touchée dans %s pour %d points d'impact}
+{563}{female_pc}{%s as été touchée pour %d points d'impact}
+{564}{female_pc}{%s as complètement raté}
+{565}{female_pc}{%s as raté}
+{570}{female_pc}{%s as été touchée par un coup critique pour %d points d'impact}
+{571}{female_pc}{%s as été touchée par un coup critique dans %s pour 1 point d'impact}
+{572}{female_pc}{%s as été touchée dans %s pour 1 point d'impact}
+{573}{female_pc}{%s as été touchée pour 1 point d'impact}
+{574}{female_pc}{%s as été touchée d'un coup critique pour 1 point d'impact}
+{575}{female_pc}{%s as été touchée par un coup critique dans %s mais sans aucun dégât}
+{576}{female_pc}{%s as été touchée dans %s sans aucun dégât}
+{577}{female_pc}{%s as été touchée sans aucun dégât}
+{578}{female_pc}{%s as été touchée par un coup critique mais sans aucun dégât}
+{583}{female_pc}{%s as complètement raté ta cible et as subis 1 point d'impact}
 {584}{female_pc}{%s critically missed and took %d hit points}
 {608}{}{Oh ! %s a été touché à ta place !}
 {609}{}{Oh ! %s a été touché à la place de %s !}
@@ -153,24 +153,24 @@
 {628}{}{%s a été touché (coup critique) mais sans aucun dégât}
 {633}{}{%s a complètement raté sa cible et a pris 1 point d'impact}
 {634}{}{%s a raté sa cible et a pris %d points d'impact}
-{708}{female_npc}{Oops! %s was hit instead of you!}
-{709}{female_npc}{Oops! %s was hit instead of %s!}
-{711}{female_npc}{%s was critically hit in %s for %d hit points}
-{712}{female_npc}{%s was hit in %s for %d hit points}
-{713}{female_npc}{%s was hit for %d hit points}
+{708}{female_npc}{Oups ! %s a été touchée à ta place !}
+{709}{female_npc}{Oups ! %s a été touchée à la place de %s !}
+{711}{female_npc}{%s a été touchée d'un coup critique dans %s pour %d points d'impact}
+{712}{female_npc}{%s a été touchée dans %s pour %d points d'impact}
+{713}{female_npc}{%s a été touchée pour %d points d'impact}
 {714}{female_npc}{%s critically missed}
-{715}{female_npc}{%s missed}
-{720}{female_npc}{%s was critically hit for %d hit points}
-{721}{female_npc}{%s was critically hit in %s for 1 hit point}
-{722}{female_npc}{%s was hit in %s for 1 hit point}
-{723}{female_npc}{%s was hit for 1 hit point}
-{724}{female_npc}{%s was critically hit for 1 hit point}
-{725}{female_npc}{%s was critically hit in %s for no damage}
-{726}{female_npc}{%s was hit in %s for no damage}
-{727}{female_npc}{%s was hit for no damage}
-{728}{female_npc}{%s was critically hit for no damage}
-{733}{female_npc}{%s critically missed and took 1 hit point}
-{734}{female_npc}{%s critically missed and took %d hit points}
+{715}{female_npc}{%s a raté}
+{720}{female_npc}{%s a été touchée par un coup critique pour %d points d'impact}
+{721}{female_npc}{%s a été touchée par un coup critique dans %s pour 1 point d'impact}
+{722}{female_npc}{%s a été touchée dans %s pour 1 point d'impact}
+{723}{female_npc}{%s a été touchée pour 1 point d'impact}
+{724}{female_npc}{%s a été touchée d'un coup critique pour 1 point d'impact}
+{725}{female_npc}{%s a été touchée d'un coup critique dans %s mais sans aucun dégât}
+{726}{female_npc}{%s a été touchée dans %s sans aucun dégât}
+{727}{female_npc}{%s a été touchée sans aucun dégât}
+{728}{female_npc}{%s a été touchée par un coup critique mais sans aucun dégât}
+{733}{female_npc}{%s a complètement raté sa cible et a pris 1 point d'impact}
+{734}{female_npc}{%s a raté sa cible et a pris %d points d'impact}
 {1110}{}{la tête}
 {1111}{}{le bras gauche}
 {1112}{}{le bras droit}
