@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 02:31+0000\n"
+"PO-Revision-Date: 2026-10-01 03:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: cuts/afailed.sve:10
 msgid "Chosen. The village dies. All of our futures die, too."
-msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent, eux aussi."
+msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
 
 #: cuts/artimer1.sve:20
 msgid "Chosen, the spirits of our ancestors guide me to world of dreams"
@@ -128,7 +128,7 @@ msgstr "Les continents furent engloutis par les flammes sous des océans en ébu
 
 #: cuts/credits.sve:600
 msgid "Humanity was almost extinguished,"
-msgstr "L'humanité avait presque disparu."
+msgstr "L'humanité avait presque disparu,"
 
 #: cuts/credits.sve:630
 msgid "their spirits becoming part of the background radiation that blanketed the Earth."
@@ -253,11 +253,11 @@ msgstr "Le village se meurt. Les signes ne manquent pas."
 
 #: cuts/elder.sve:170
 msgid "withering crops..."
-msgstr "nos récoltes s'assèchent,"
+msgstr "nos récoltes s'assèchent..."
 
 #: cuts/elder.sve:210
 msgid "dying brahmin..."
-msgstr "nos brahmines agonisent,"
+msgstr "nos brahmines agonisent..."
 
 #: cuts/elder.sve:310
 msgid "sick children."
@@ -1202,7 +1202,7 @@ msgstr "Les voyageurs évitaient la Fosse, effrayés par les bruits des horreurs
 #. indexed_txt
 #: cuts/nar_dth1.txt:1
 msgid "Rest in peace, Chosen One."
-msgstr "Repose en paix, Etre Elu"
+msgstr "Repose en paix, Être Elu."
 
 #. indexed_txt
 #: cuts/nar_dth2.txt:1
@@ -1467,7 +1467,9 @@ msgstr "Armé de fusées éclairantes et de matraques, le peuple de Modoc prit d
 #. indexed_txt
 #: cuts/nar_mo2.txt:2
 msgid "The Slags were quickly defeated, and the Modoc residents slaughtered every man, woman, and child they found."
-msgstr "Les Slags furent rapidement vaincus et les résidents de Modoc massacrèrent un par un tous les hommes, femmes et enfants qu'ils trouvèrent"
+msgstr ""
+"Les Slags furent rapidement vaincus et les résidents de Modoc massacrèrent "
+"un par un tous les hommes, femmes et enfants qu'ils trouvèrent."
 
 #. indexed_txt
 #: cuts/nar_mo2.txt:3
@@ -1577,7 +1579,9 @@ msgstr "Les tribus du désert évitent le cimetière géant et maintiennent que 
 #. indexed_txt
 #: cuts/nar_nr1.txt:4
 msgid "Some say the destruction of New Reno was a judgment from a higher power."
-msgstr "Certains avancent que la destruction de New Reno était le châtiment d'une puissance supérieure"
+msgstr ""
+"Certains avancent que la destruction de New Reno était le châtiment d'une "
+"puissance supérieure."
 
 #. indexed_txt
 #: cuts/nar_nr10.txt:1
@@ -1642,7 +1646,7 @@ msgstr "Après la destruction de l'Enclave, une nouvelle famille apparut à New 
 #. indexed_txt
 #: cuts/nar_nr2.txt:2
 msgid "They were few in number but surprisingly resourceful."
-msgstr "Ils étaient peu nombreux mais incroyablement ingénieux"
+msgstr "Ils étaient peu nombreux mais incroyablement ingénieux."
 
 #. indexed_txt
 #: cuts/nar_nr2.txt:3
@@ -1932,7 +1936,7 @@ msgstr "En éliminant les griffemorts de l'Abri 13, tu as envoyé une autre esp�
 #. indexed_txt
 #: cuts/nar_vc1a.txt:1 cuts/nar_vc1b.txt:1
 msgid "The slaughter of Vault City has become the stuff of legend."
-msgstr "Le massacre de la Cité de l'Abri est entré dans la légende"
+msgstr "Le massacre de la Cité de l'Abri est entré dans la légende."
 
 #. indexed_txt
 #: cuts/nar_vc1a.txt:2 cuts/nar_vc1b.txt:2
@@ -2187,7 +2191,9 @@ msgstr "BIENVENUE A L'ENCLAVE"
 #. indexed_txt
 #: cuts/timelim1.txt:1
 msgid "Chosen, the spirits [of our] ancestors guide [me] to world of dreams that [I may] touch [thoughts.]"
-msgstr "Etre Elu, les esprits de nos ancêtres me guident vers le monde des rêves que je pourrais toucher par pensées."
+msgstr ""
+"Être Elu, les esprits de nos ancêtres me guident vers le monde des rêves que "
+"je pourrais toucher par pensées."
 
 #. indexed_txt
 #: cuts/timelim1.txt:2
@@ -2222,7 +2228,7 @@ msgstr "Ton échec est notre..."
 #. indexed_txt
 #: cuts/timelim3.txt:1
 msgid "Chosen. The village [weakens.]"
-msgstr "Etre Elu. Le village s'affaiblit."
+msgstr "Être Elu. Le village s'affaiblit."
 
 #. indexed_txt
 #: cuts/timelim3.txt:2
@@ -2722,7 +2728,7 @@ msgstr "C'est vrai. Tu en veux, c'est ça ?"
 
 #: dialog/acmorlis.msg:108
 msgid "Well, yeah."
-msgstr "Euh... oui ?"
+msgstr "Euh, ouais."
 
 #: dialog/acmorlis.msg:109
 msgid ""
@@ -6134,7 +6140,7 @@ msgstr "Tu vois une jeune femme vêtue de loques. Elle a l'air sur le qui-vive e
 
 #: dialog/bcdalia.msg:103 dialog/bcdalia.msg:140
 msgid "Hi. I'm Dalia. What can I help you with?"
-msgstr "Que puis-je faire pour toi ?"
+msgstr "Salut. Mon prénom est Dalia. Que puis-je faire pour toi ?"
 
 #: dialog/bcdalia.msg:104
 msgid "Nothing, just say hi."
@@ -8625,7 +8631,9 @@ msgstr ""
 msgid ""
 "You see a sturdy door with an old, rusty lock and a cut\n"
 " wire in the doorframe."
-msgstr "Tu vois une porte solide avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte solide avec un vieux verrou rouillé et un fil coupé dans "
+"l'encadrement de la porte."
 
 #: dialog/bselev.msg:130
 msgid ""
@@ -8655,19 +8663,25 @@ msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un 
 msgid ""
 "You see a damaged door with a lock on it and a highly\n"
 " explosive trap in the doorframe."
-msgstr "Tu vois une porte abîmée avec un verrou et un piège hautement explosif sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou et un piège hautement explosif dans "
+"l'encadrement de la porte."
 
 #: dialog/bselev.msg:136 dialog/door.msg:136 dialog/sislvdor.msg:136
 msgid ""
 "You see a damaged door with no apparent locking device and\n"
 " a highly explosive trap in the doorframe."
-msgstr "Tu vois une porte abîmée sans dispositif de verrouillage apparent et un piège hautement explosif sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée sans dispositif de verrouillage apparent et un "
+"piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:137 dialog/door.msg:137 dialog/sislvdor.msg:137
 msgid ""
 "You see a damaged door with an old, rusty lock and a highly\n"
 " explosive trap in the doorframe."
-msgstr "Tu vois une porte abîmée avec un vieux verrou rouillé et un piège hautement explosif sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un vieux verrou rouillé et un piège hautement "
+"explosif dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:138
 msgid ""
@@ -8679,19 +8693,25 @@ msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un 
 msgid ""
 "You see a damaged door with a lock on it and a trap in\n"
 " the doorframe."
-msgstr "Tu vois une porte abîmée avec un verrou et un piège sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou et un piège dans l'encadrement de la "
+"porte."
 
 #: dialog/bselev.msg:140 dialog/door.msg:140 dialog/sislvdor.msg:140
 msgid ""
 "You see a damaged door with no apparent locking device and\n"
 " a trap in the doorframe."
-msgstr "Tu vois une porte abîmée sans dispositif de verrouillage apparent et un piège sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée sans dispositif de verrouillage apparent et un "
+"piège dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:141 dialog/door.msg:141 dialog/sislvdor.msg:141
 msgid ""
 "You see a damaged door with an old, rusty lock and a trap\n"
 " in the doorframe."
-msgstr "Tu vois une porte abîmée avec un vieux verrou rouillé et un piège sur sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un vieux verrou rouillé et un piège dans "
+"l'encadrement de la porte."
 
 #: dialog/bselev.msg:142
 msgid ""
@@ -8703,19 +8723,25 @@ msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un 
 msgid ""
 "You see a damaged door with a lock on it and a severed wire\n"
 " in the doorframe."
-msgstr "Tu vois une porte abîmée avec un verrou et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou et un fil sectionné dans "
+"l'encadrement de la porte."
 
 #: dialog/bselev.msg:144 dialog/door.msg:144 dialog/sislvdor.msg:144
 msgid ""
 "You see a damaged door with no apparent locking device and\n"
 " a severed wire in the doorframe."
-msgstr "Tu vois une porte abîmée sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée sans dispositif de verrouillage apparent et un fil "
+"sectionné dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:145 dialog/door.msg:145 dialog/sislvdor.msg:145
 msgid ""
 "You see a damaged door with an old, rusty lock and a cut\n"
 " wire in the doorframe."
-msgstr "Tu vois une porte abîmée avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un vieux verrou rouillé et un fil coupé dans "
+"l'encadrement de la porte."
 
 #: dialog/bselev.msg:146
 msgid ""
@@ -8823,7 +8849,7 @@ msgstr "Tu vois une vieille porte sans dispositif de verrouillage apparent."
 
 #: dialog/bselev.msg:165 dialog/door.msg:165 dialog/sislvdor.msg:165
 msgid "You see an old door with an old, rusty lock."
-msgstr "Tu vois une vieille porte munie d'un vieux verrou rouillé. "
+msgstr "Tu vois une vieille porte munie d'un vieux verrou rouillé."
 
 #: dialog/bselev.msg:166 dialog/containr.msg:166 dialog/cstouch.msg:166
 #: dialog/door.msg:166 dialog/sislvdor.msg:166
@@ -14684,11 +14710,11 @@ msgstr " échoue lamentablement et la charge explose prématurément."
 
 #: dialog/containr.msg:620 dialog/cstouch.msg:620 dialog/door.msg:620
 msgid "You bend the crowbar beyond recognition. It's useless now."
-msgstr "Vous tordez le pied de biche avec acharnement. Il est inutile maintenant."
+msgstr "Tu plies le pied-de-biche avec acharnement. Il est inutile maintenant."
 
 #: dialog/containr.msg:621 dialog/cstouch.msg:621 dialog/door.msg:621
 msgid " bends the crowbar beyond recognition. It's useless now."
-msgstr " tord le pied de biche avec acharnement. Il est inutile maintenant."
+msgstr " plie le pied-de-biche avec acharnement. Il est inutile maintenant."
 
 #: dialog/cowbomb.msg:100
 msgid "You have a funny feeling about this place.  The enchanting smell of cow dung and rotting flesh emanates a few feet from here."
@@ -28594,38 +28620,48 @@ msgid ""
 "You see a sturdy door with a lock (which can be picked with\n"
 " lockpicks) and a cut wire in the doorframe."
 msgstr ""
-"Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-"
-"partout) et un fil sectionné dans l'encadrement de la porte."
+"Tu vois une porte solide avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un fil coupé dans l'encadrement de la porte."
 
 #: dialog/door.msg:130
 msgid ""
 "You see a sturdy door with a lock (which can be picked with\n"
 " lockpicks) on it."
-msgstr "Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout)."
+msgstr ""
+"Tu vois une porte solide avec un verrou (pouvant être crocheté avec un passe-"
+"partout)."
 
 #: dialog/door.msg:134
 msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks) and a highly explosive trap in the doorframe."
-msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout) et un piège hautement explosif sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/door.msg:138
 msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks) and a trap in the doorframe."
-msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout) et un piège sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un piège dans l'encadrement de la porte."
 
 #: dialog/door.msg:142
 msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks) and a cut wire in the doorframe."
-msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout) et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout) et un fil coupé dans l'encadrement de la porte."
 
 #: dialog/door.msg:146
 msgid ""
 "You see a damaged door with a lock (which can be picked with\n"
 " lockpicks)."
-msgstr "Tu vois une porte abîmée avec un verrou (pouvant être ouvert avec un passe-partout)."
+msgstr ""
+"Tu vois une porte abîmée avec un verrou (pouvant être crocheté avec un passe-"
+"partout)."
 
 #: dialog/door.msg:150
 msgid ""
@@ -33177,7 +33213,7 @@ msgstr "Voici ce que j'ai obtenu :"
 
 #: dialog/ectrappr.msg:112
 msgid "regular gecko pelts."
-msgstr "peaux de gecko ordinaires."
+msgstr "des peaux de gecko ordinaires."
 
 #: dialog/ectrappr.msg:113
 msgid "golden gecko pelts."
@@ -165670,7 +165706,10 @@ msgstr "                                             "
 msgid ""
 "\n"
 "                       "
-msgstr "                       "
+msgstr ""
+"\n"
+"                       · · · · · · · · · · · · · · · · · · · · · · ·\n"
+"                       "
 
 #: dialog/wsterm2b.msg:101
 msgid "Pictures of scantily clad women are affixed to various spots on the computer."
@@ -175158,7 +175197,7 @@ msgstr "%s as complètement raté ta cible et as subis 1 point d'impact"
 #: game/combat.msg:584
 msgctxt "female_pc"
 msgid "%s critically missed and took %d hit points"
-msgstr "%s a complètement raté sa cible et a pris %d points d'impact"
+msgstr "%s a complètement raté sa cible et a subi %d points d'impact"
 
 #: game/combat.msg:608
 msgid "Oops! %s was hit instead of you!"
