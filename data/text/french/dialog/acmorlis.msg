@@ -21,8 +21,8 @@
 {151}{}{Mais que fais-tu, petit ? Ce n'est pas comme ça que devrait se comporter l'Etre Elu. Allez, débarrasse le plancher !}
 {152}{}{Si ce silex est si important au point que tu es prêt à déshonorer le nom de l'Etre Elu, alors le voilà. Prends le silex et débarrasse le plancher.}
 {153}{}{Oui, tante Morlis.}
-{154}{}{Eh bien... Bon, d'accord. Voilà le silex. Je te souhaite un bon voyage, petit.}
-{155}{}{C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp.}
+{154}{}{Eh bien... Bon, d'accord. Voilà le silex. Je te souhaite un bon voyage, petit. }
+{155}{}{C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp !}
 {156}{}{Oui, tante Morlis.}
 {200}{}{Alors tu es de retour ? As-tu trouvé le saint Treize ?}
 {201}{}{Non, tante Morlis, je...}
