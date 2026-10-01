@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 00:31+0000\n"
+"PO-Revision-Date: 2026-10-01 01:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: cuts/afailed.sve:10
 msgid "Chosen. The village dies. All of our futures die, too."
-msgstr "Etre Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
+msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent, eux aussi."
 
 #: cuts/artimer1.sve:20
 msgid "Chosen, the spirits of our ancestors guide me to world of dreams"
@@ -80,7 +80,9 @@ msgstr "Message de RemindBoy: Les réserves d'eau sont faibles dans l'Abri 13. T
 
 #: cuts/boil2.sve:1
 msgid "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation critical."
-msgstr "Message du Remind-Boy : réserves d'eau de l'Abri 13 bientôt à sec. Situation critique."
+msgstr ""
+"Message du Remind-Boy : réserves d'eau de l'Abri 13 presque épuisées. "
+"Situation critique."
 
 #: cuts/boil3.sve:1
 msgid "RemindBoy message: Water supplies exhausted. Vault 13 is dead.  Mission over."
@@ -2075,7 +2077,7 @@ msgstr "Mais les blessures laissées par la guerre n'ont pas encore cicatrisé."
 #. indexed_txt
 #: cuts/narrate.txt:30
 msgid "The wounds run deep, and now they are being felt in Arroyo."
-msgstr "Les blessures sont profondes et maintenant elles se font sentir à Arroyo."
+msgstr "Les blessures étaient profondes, et atteignaient maintenant Arroyo."
 
 #. indexed_txt
 #: cuts/narrate.txt:31
@@ -174832,10 +174834,9 @@ msgid "hurt yourself"
 msgstr "t'es blessée"
 
 #: game/combat.msg:270
-#, fuzzy
 msgctxt "female_pc"
 msgid "hit randomly"
-msgstr "a été touchée au hasard"
+msgstr "touchée au hasard"
 
 #: game/combat.msg:271
 msgctxt "female_pc"
@@ -175145,11 +175146,9 @@ msgid "%s critically missed and took 1 hit point"
 msgstr "%s as complètement raté ta cible et as subis 1 point d'impact"
 
 #: game/combat.msg:584
-#, fuzzy
-#| msgid "%s critically missed and took %d hit points"
 msgctxt "female_pc"
 msgid "%s critically missed and took %d hit points"
-msgstr "%s a raté sa cible et a pris %d points d'impact"
+msgstr "%s a complètement raté sa cible et a pris %d points d'impact"
 
 #: game/combat.msg:608
 msgid "Oops! %s was hit instead of you!"
@@ -175233,11 +175232,9 @@ msgid "%s was hit for %d hit points"
 msgstr "%s a été touchée pour %d points d'impact"
 
 #: game/combat.msg:714
-#, fuzzy
-#| msgid "%s critically missed"
 msgctxt "female_npc"
 msgid "%s critically missed"
-msgstr "%s a complètement raté"
+msgstr "%s a complètement raté sa cible"
 
 #: game/combat.msg:715
 msgctxt "female_npc"
@@ -184064,11 +184061,9 @@ msgid "Unarmed Damage"
 msgstr "Dégâts en Corps à Corps"
 
 #: game/editor.msg:304
-#, fuzzy
-#| msgid "Melee Damage"
 msgctxt "editor"
 msgid "Melee Damage"
-msgstr "Dégâts en Rixe"
+msgstr "Dégâts au Corps à Corps"
 
 #: game/editor.msg:305
 msgid "Damage Res.  "
