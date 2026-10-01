@@ -50,7 +50,7 @@
 {267}{female_pc}{as perdu le reste de tes munitions}
 {268}{female_pc}{as tiré un coup foireux}
 {269}{female_pc}{t'es blessée}
-{270}{female_pc}{hit randomly}
+{270}{female_pc}{touchée au hasard}
 {271}{female_pc}{as estropié un membre au hasard}
 {272}{female_pc}{as été criblée d'éclats}
 {300}{}{sonnée}
@@ -134,7 +134,7 @@
 {577}{female_pc}{%s as été touchée sans aucun dégât}
 {578}{female_pc}{%s as été touchée par un coup critique mais sans aucun dégât}
 {583}{female_pc}{%s as complètement raté ta cible et as subis 1 point d'impact}
-{584}{female_pc}{%s critically missed and took %d hit points}
+{584}{female_pc}{%s a complètement raté sa cible et a pris %d points d'impact}
 {608}{}{Oh ! %s a été touché à ta place !}
 {609}{}{Oh ! %s a été touché à la place de %s !}
 {611}{}{%s a été touché (coup critique) (%s) pour %d points d'impact}
@@ -158,7 +158,7 @@
 {711}{female_npc}{%s a été touchée d'un coup critique dans %s pour %d points d'impact}
 {712}{female_npc}{%s a été touchée dans %s pour %d points d'impact}
 {713}{female_npc}{%s a été touchée pour %d points d'impact}
-{714}{female_npc}{%s critically missed}
+{714}{female_npc}{%s a complètement raté sa cible}
 {715}{female_npc}{%s a raté}
 {720}{female_npc}{%s a été touchée par un coup critique pour %d points d'impact}
 {721}{female_npc}{%s a été touchée par un coup critique dans %s pour 1 point d'impact}
