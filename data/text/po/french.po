@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 01:31+0000\n"
+"PO-Revision-Date: 2026-10-01 02:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -2237,12 +2237,12 @@ msgstr "Tu dois faire vite ou nous allons tous..."
 #. indexed_txt
 #: cuts/timelim4.txt:1 cuts/timelim4.txt:2
 msgid "Chosen?"
-msgstr "Etre Elu ?"
+msgstr "Être Élu ?"
 
 #. indexed_txt
 #: cuts/timelim4.txt:3
 msgid "Do you hear me?"
-msgstr "Etre Elu ? M'entends-tu ?"
+msgstr "M'entends-tu ?"
 
 #. indexed_txt
 #: cuts/timelim4.txt:4
@@ -8587,13 +8587,17 @@ msgstr "Tu vois une porte solide avec un verrou et un piège dans l'encadrement 
 msgid ""
 "You see a sturdy door with no apparent locking device and\n"
 " a trap in the doorframe."
-msgstr "Tu vois une porte solide sans dispositif de verrouillage apparent et un piège placé sur l'encadrement de la porte"
+msgstr ""
+"Tu vois une porte solide sans dispositif de verrouillage apparent et un "
+"piège placé dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:125 dialog/door.msg:125 dialog/sislvdor.msg:125
 msgid ""
 "You see a sturdy door with an old, rusty lock and a trap\n"
 " in the doorframe."
-msgstr "Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé "
+"dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:126
 msgid ""
@@ -8605,13 +8609,17 @@ msgstr "Tu vois une porte solide avec un verrou (pouvant être ouvert avec un pa
 msgid ""
 "You see a sturdy door with a lock on it and a severed wire\n"
 " in the doorframe."
-msgstr "Tu vois une porte robuste avec un verrou et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte robuste avec un verrou et un fil sectionné dans "
+"l'encadrement de la porte."
 
 #: dialog/bselev.msg:128 dialog/door.msg:128 dialog/sislvdor.msg:128
 msgid ""
 "You see a sturdy door with no apparent locking device and\n"
 " a severed wire in the doorframe."
-msgstr "Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte solide sans dispositif de verrouillage apparent et un fil "
+"sectionné dans l'encadrement de la porte."
 
 #: dialog/bselev.msg:129 dialog/door.msg:129 dialog/sislvdor.msg:129
 msgid ""
@@ -28585,7 +28593,9 @@ msgstr "Tu vois une porte solide avec un verrou (pouvant être ouvert avec un pa
 msgid ""
 "You see a sturdy door with a lock (which can be picked with\n"
 " lockpicks) and a cut wire in the doorframe."
-msgstr "Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un fil sectionné sur l'encadrement de la porte."
+msgstr ""
+"Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-"
+"partout) et un fil sectionné dans l'encadrement de la porte."
 
 #: dialog/door.msg:130
 msgid ""
