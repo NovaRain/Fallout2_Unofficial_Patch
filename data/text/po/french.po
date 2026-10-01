@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 05:31+0000\n"
+"PO-Revision-Date: 2026-10-01 06:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -5116,8 +5116,9 @@ msgstr ""
 "personne. "
 
 #: dialog/ahhakun.msg:108 dialog/ahhakun.msg:115
+#, fuzzy
 msgid "You are doing just way too many drugs. I'm outta here. "
-msgstr "Tu as ingurgité trop de stimulants. Je m'en vais."
+msgstr "T'en as trop pris, gros. Je me tire. "
 
 #: dialog/ahhakun.msg:109 dialog/ahhakun.msg:178
 msgid "I'm hurt. Can you heal me?"
@@ -5165,7 +5166,7 @@ msgstr "Dieu te bénisse, car tu es un véritable enfant de la nature. Pourrais-
 
 #: dialog/ahhakun.msg:124
 msgid "Uh-huh. "
-msgstr "Uh-huh."
+msgstr "Euh, ouais. "
 
 #: dialog/ahhakun.msg:125
 msgid "Nuh-uh. Youuu. Giv. Hed hurt."
@@ -5178,7 +5179,7 @@ msgstr "Que ton aura honore ma présence lorsque tu seras... Viens me voir quand
 
 #: dialog/ahhakun.msg:127
 msgid "Urgh."
-msgstr "Urgh."
+msgstr "Argh."
 
 #: dialog/ahhakun.msg:128
 msgctxt "hak005"
@@ -5259,7 +5260,7 @@ msgstr "Merci. J'ai bien compris ça."
 
 #: dialog/ahhakun.msg:146
 msgid "Are you calling me a fool? I don't think I want to help you, after all. "
-msgstr "Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider."
+msgstr "Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider. "
 
 #: dialog/ahhakun.msg:147
 msgid "I'll be back for my payment soon."
@@ -5282,7 +5283,10 @@ msgstr "Si je comprends bien, tu veux me revoir lorsque j'aurai terminé... Tu a
 #: dialog/ahhakun.msg:152
 msgctxt "hak010"
 msgid "Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. "
-msgstr "Ha ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi intérieur et développer la grandeur afin que celle-ci touche le monde. Bien sûr, les gratifications dépasseront celles de l'esprit."
+msgstr ""
+"Ah ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi "
+"intérieur et développer la grandeur afin que celle-ci touche le monde. Bien "
+"sûr, les gratifications dépasseront celles de l'esprit. "
 
 #: dialog/ahhakun.msg:153
 msgid "Sounds good. I'll be back when I'm done."
@@ -5303,11 +5307,13 @@ msgstr "Le temps ne peut être ni gaspillé, ni gagné, il doit toujours être a
 
 #: dialog/ahhakun.msg:157
 msgid "Uh, right. Like I said, I've got to go. Goodbye. "
-msgstr "Euh, très bien. Comme je l'ai dit, je dois partir. Au revoir."
+msgstr "Euh, très bien. Comme je l'ai dit, je dois partir. Au revoir. "
 
 #: dialog/ahhakun.msg:158
 msgid "You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. "
-msgstr "Tu sais, en te parlant, je m'interroge sur cette idée de temps gaspillé. Je m'en vais"
+msgstr ""
+"Tu sais, en te parlant, je m'interroge sur cette idée de temps gaspillé. Je "
+"m'en vais. "
 
 #: dialog/ahhakun.msg:159
 msgid "If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you."
@@ -5320,7 +5326,7 @@ msgstr "Tu as beau porter le manteau de l'Etre Elu, ton âme rongée crie de l'i
 
 #: dialog/ahhakun.msg:161
 msgid "I beg your forgiveness, holy one. How can I cleanse my soul? "
-msgstr "J'implore ton pardon, saint homme. Comment puis-je purifier mon âme ?"
+msgstr "J'implore ton pardon, saint homme. Comment puis-je purifier mon âme ? "
 
 #: dialog/ahhakun.msg:162
 msgid "That's right, Hakunin, and you'd be a real wise man not to forget it."
@@ -5407,7 +5413,10 @@ msgstr "Ahhh. Tu restitues l'esprit de l'Habitant au monde et rends le sourire �
 #: dialog/ahhakun.msg:182
 msgctxt "hak018a"
 msgid "And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. "
-msgstr "Et aussi vais-je mélanger la fleur de Broc avec la racine de Xandre lorsque tu me les ramèneras. Que tes chemins soient vrais et que ton coeur montre l'exemple."
+msgstr ""
+"Et aussi vais-je mélanger la fleur de Broc avec la racine de Xandre lorsque "
+"tu me les ramèneras. Que tes chemins soient vrais et que ton coeur montre "
+"l'exemple. "
 
 #: dialog/ahhakun.msg:183
 msgid "Where can I find these things?"
@@ -5518,7 +5527,7 @@ msgstr "Nous avons tous un jardin. Puissent tes voyages servir de remède à tes
 #: dialog/ahhakun.msg:199 dialog/dcsheila.msg:210 dialog/dctyler.msg:394
 #: dialog/hcencha.msg:141 dialog/hczaius.msg:156
 msgid "See ya."
-msgstr "A plus. "
+msgstr "A plus."
 
 #: dialog/ahhakun.msg:200
 msgid "I'm betting you carry your audience with you wherever you go. Be well."
@@ -5586,7 +5595,7 @@ msgstr "Et ton habilité à parler normalement, inexistante. J'essaie toujours."
 
 #: dialog/ahhakun.msg:216
 msgid "I'm on it. "
-msgstr "J'y travaille."
+msgstr "J'y travaille. "
 
 #: dialog/ahhakun.msg:217
 msgid "Get off my back, old man. I'm doing the best I can."
@@ -5768,11 +5777,15 @@ msgstr "Euh ?"
 #: dialog/ahhakun.msg:253
 msgctxt "hak103"
 msgid "Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins. "
-msgstr "Oui. Envolé. Les âmes rongées furent nombreuses à venir, chevauchant les oiseaux de métal comme une armée de tiques. Cachant leur méchanceté sous des peaux dorées."
+msgstr ""
+"Oui. Envolé. Les âmes rongées furent nombreuses à venir, chevauchant les "
+"oiseaux de métal comme une armée de tiques. Cachant leur méchanceté sous des "
+"peaux dorées. "
 
 #: dialog/ahhakun.msg:254
+#, fuzzy
 msgid "Ooo! Shiny Purty!"
-msgstr "Oh là là ! Joli doré !"
+msgstr "Oh là là ! C'est tout joli !"
 
 #: dialog/ahhakun.msg:255
 msgctxt "hak104"
@@ -5878,7 +5891,7 @@ msgstr "Tes descriptions étaient si vivantes et si puissantes, grand Hakunin, q
 
 #: dialog/ahhakun.msg:277
 msgid "Oh, those winds. Of course. "
-msgstr "Oh, ces vents. Bien sûr."
+msgstr "Oh, ces vents. Bien sûr. "
 
 #: dialog/ahhakun.msg:278
 msgctxt "hak116"
@@ -6376,12 +6389,18 @@ msgid ""
 msgstr "Ecoute, la vie d'une jeune fille est en jeu. La fille d'une mère inquiète. Peux-tu m'aider ?"
 
 #: dialog/bcdalia.msg:152
+#, fuzzy
 msgid ""
 "I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to stand here and guard\n"
 " this trail. Other than that, I don't know what's going on around here. I had a daughter once, though,\n"
 " and... yeah, some guy went by here. I let him through because he knew the proper sign... just like the\n"
 " sign you gave me. Go on. I'm outta here. "
-msgstr "J'en ai rien à cirer... Je suis juste ici pour garder le passage. A part ça, je ne sais pas ce qui se passe ici. J'avais une fille autrefois et... Ouais, un type est venu ici. Je l'ai laissé passer parce qu'il connaissait le code, comme toi. Allez, je m'en vais."
+msgstr ""
+"J'en ai rien à foutre... Désolé. Je suis juste engagé pour rester ici et "
+"garder ce passage. À part ça, je sais pas ce qui se passe dans le coin. "
+"J'avais une fille, autrefois, et... ouais, un type est passé par ici. Je "
+"l'ai laissé passer parce qu'il connaissait le code... comme celui que tu "
+"m'as donné. Allez, vas-y. Je me tire d'ici. "
 
 #: dialog/bcdalia.msg:153
 msgid "Thanks. Me no forget this, Dalia."
@@ -6698,7 +6717,7 @@ msgstr "Merde, je déteste quand ce genre de chose arrive."
 
 #: dialog/bcjohn.msg:114
 msgid "Take that! Yeah, that'll show ya."
-msgstr "Prends ça ! Ouais, ça t'apprendra !"
+msgstr "Prends ça ! Ouais, ça t'apprendra."
 
 #: dialog/bcjones.msg:100 dialog/ocjoseph.msg:100
 msgid "You see a short man carrying a book in his hands."
@@ -7070,8 +7089,9 @@ msgid "Me come here accident. Go now."
 msgstr "Moi venir ici par hasard. Partir maintenant."
 
 #: dialog/bcphil.msg:107
+#, fuzzy
 msgid "Screw you. Me shoot you dead."
-msgstr "Va te faire ! Moi tuer toi !"
+msgstr "Va te faire. Moi tirer toi mort."
 
 #: dialog/bcphil.msg:108
 msgid "Uh, we talk this out?"
@@ -7090,8 +7110,9 @@ msgid "Sorry, took the wrong trail by accident. Gotta go."
 msgstr "Pardon. J'ai pris le mauvais chemin. Faut que j'y aille."
 
 #: dialog/bcphil.msg:112
+#, fuzzy
 msgid "Up yours and have a bullet breakfast, asshole."
-msgstr "Que dirais-tu d'une balle entre les deux yeux ?"
+msgstr "Va te faire foutre et avale-moi ça au petit-déj, connard."
 
 #: dialog/bcphil.msg:113
 msgid "I think we can talk this out like two civilized beings."
@@ -7147,7 +7168,8 @@ msgstr "Oh, moi comprendre. Moi partir maintenant."
 
 #: dialog/bcphil.msg:125 dialog/bcphil.msg:151
 msgid "You are one sick puppy. I think I'll put you to sleep now."
-msgstr "Espèce de sale mioche, je vais te mettre au lit maintenant !"
+msgstr ""
+"Espèce de sale mioche, je vais te mettre au lit pour de bon maintenant !"
 
 #: dialog/bcphil.msg:126 dialog/bcphil.msg:152
 msgid "Fine, have fun and I'll be going now."
@@ -7193,7 +7215,10 @@ msgstr "Ca a tout l'air d'un défi. J'accepte."
 msgid ""
 "Hmm... I... Yeah, Okay. Here's the key to her cell; she's in the back room of the shack. Take her\n"
 " and get out, but don't come back. If I see you again, we'll see who lives and who dies."
-msgstr "Hum... Je... Ouais, Ok. Tiens, voilà la clé de sa cellule. Elle se trouve dans la pièce au fond de la cabane. Prends-la et va-t'en, mais ne t'avise pas de revenir. Si je te revois, l'un d'entre nous devra mourir !"
+msgstr ""
+"Hm... Je... Ouais, Ok. Tiens, voilà la clé de sa cellule. Elle se trouve "
+"dans la pièce au fond de la cabane. Prends-la et va-t'en, mais ne t'avise "
+"pas de revenir. Si je te revois, l'un d'entre nous devra mourir !"
 
 #: dialog/bcphil.msg:142
 msgid "Let's see who comes out of this alive."
@@ -7452,7 +7477,9 @@ msgstr "Ca explique beaucoup de choses. Merci pour ton aide. J'ai encore quelque
 msgid ""
 "That would be Zeke. He runs everything up here. You can find him in the building over there.\n"
 " ::points north-east::"
-msgstr "Ce serait Zeke. Il dirige tout ici. Tu peux le trouver dans le bâtiment là-bas. (désignant le Nord-Est)"
+msgstr ""
+"Ce serait Zeke. Il dirige tout ici. Tu peux le trouver dans le bâtiment là-"
+"bas. *désigne le Nord-Est*"
 
 #: dialog/bcrebecc.msg:163
 msgid "Thanks. Ask more."
@@ -7499,8 +7526,11 @@ msgid ""
 msgstr "Il n'y a pas grand-chose à dire, en fait. Darion garde tout pour lui et ne quitte jamais l'abri. S'il a quelque chose à dire, il nous le communique par le biais de Zeke. Je ne l'ai rencontré qu'une fois et il a l'air d'un type bien."
 
 #: dialog/bcrebecc.msg:173
+#, fuzzy
 msgid "Nice guys finish last. I wonder what he's up to?"
-msgstr "Un type bien, ça cache toujours quelque chose. Je me demande ce dont il est capable..."
+msgstr ""
+"Les types gentils finissent toujours derniers. Je me demande ce qu'il "
+"mijote..."
 
 #: dialog/bcrebecc.msg:175
 msgid "That's okay. You are very helpful."
@@ -7539,7 +7569,7 @@ msgstr "Toi pas souci, moi trouver fille."
 
 #: dialog/bcrebecc.msg:183 dialog/ccquincy.msg:130
 msgid "Ooops."
-msgstr "Oh !"
+msgstr "Ouups !"
 
 #: dialog/bcrebecc.msg:184
 msgid "I'll try and stop them."
@@ -7551,7 +7581,7 @@ msgstr "Ils ne vont pas m'empêcher de retrouver ta fille."
 
 #: dialog/bcrebecc.msg:186
 msgid "Oh well. Shit happens."
-msgstr "C'est pas grave, ça arrive ce genre d'emmerdements !"
+msgstr "Bah, tant pis. Ça arrive."
 
 #: dialog/bcrebecc.msg:187
 msgid "Please, just go away."
@@ -7941,7 +7971,9 @@ msgstr "Tu as réussi ! Nous ne sommes plus sous le joug de Darion. Merci !"
 
 #: dialog/bczeke.msg:163
 msgid "Now that Darion's gone we don't have any way to get food. We will surely perish! Thanks a lot."
-msgstr "Maintenant que Darion est parti, nous n'avons plus de moyens d'obtenir de la nourriture. Nous allons certainement mourir. Vraiment merci !"
+msgstr ""
+"Maintenant que Darion est parti, nous n'avons plus de moyens d'obtenir de la "
+"nourriture. Nous allons certainement mourir ! Vraiment merci."
 
 #: dialog/bhrnddst.msg:100
 msgid "You encounter rogues and wolves."
@@ -8222,7 +8254,7 @@ msgstr "Tu rencontres des contrebandiers combattant des loups."
 
 #: dialog/bhrnddst.msg:557
 msgid "You encounter homesteaders fighting claim jumpers"
-msgstr "Tu rencontres des propriétaires combattant des escrocs."
+msgstr "Tu rencontres des propriétaires qui affrontent des squatteurs."
 
 #: dialog/bhrnddst.msg:558
 msgid "You encounter homesteaders fighting wolves."
@@ -9615,7 +9647,9 @@ msgstr "Toi mentir. Moi pas avoir patience. Toi dire la vérité ou toi regrette
 msgid ""
 "You lie. I don't have the patience for this. Tell me the truth or\n"
 " you'll be sorry."
-msgstr "Tu mens. Ma patience a des limites. Tu vas me dire la vérité ou tu vas le regretter !"
+msgstr ""
+"Tu mens. Ma patience a des limites. Tu vas me dire la vérité ou tu vas le "
+"regretter."
 
 #: dialog/ccchris.msg:134
 msgid ""
@@ -9977,7 +10011,9 @@ msgstr "J'ai engagé une escorte !"
 msgid ""
 "Well, I don't mean to be rude or nothing, but this here's private property.\n"
 " If you're going to be poking around somewhere, don't be doing it here."
-msgstr "Bon, j'veux pas être grossier, mais ici, c'est une propriété privée. Si t'as l'intention de fouiner, fais-le ailleurs que chez moi !"
+msgstr ""
+"Bon, j'veux pas être grossier, mais ici, c'est une propriété privée. Si t'as "
+"l'intention de fouiner, fais-le ailleurs que chez moi."
 
 #: dialog/ccchris.msg:211
 msgid "You're back. What can old Chris help you with?"
@@ -9989,7 +10025,9 @@ msgstr "Toi dire que Navarro au Sud. Toi mentir ! Moi ici pour savoir vérité."
 
 #: dialog/ccchris.msg:213
 msgid "You told me Navarro was to the south, old man. Now I want to know the truth."
-msgstr "Tu m'as dit que Navarro était au Sud, mon vieux. Bon, maintenant, je veux la vérité !"
+msgstr ""
+"Tu m'as dit que Navarro était au Sud, mon vieux. Bon, maintenant, je veux la "
+"vérité."
 
 #: dialog/ccchris.msg:214
 msgid "You look familiar. Old Chris thinks he's seen you before... Nope, can't be."
@@ -10080,7 +10118,7 @@ msgstr "Les bidasses ne sont pas censés venir ici."
 #: dialog/cccomp1.msg:106 dialog/cccomp2.msg:128 dialog/ccgrdca.msg:106
 #: dialog/ccomp1.msg:106 dialog/ccomp2.msg:128
 msgid "You're out of uniform. "
-msgstr "Tu ne portes pas ton uniforme."
+msgstr "Tu ne portes pas ton uniforme. "
 
 #: dialog/cccomp1.msg:107 dialog/cccomp2.msg:129 dialog/ccomp1.msg:107
 #: dialog/ccomp2.msg:129
@@ -10167,7 +10205,9 @@ msgstr "Moi pas comprendre. Moi partir."
 
 #: dialog/cccomp2.msg:114 dialog/ccomp2.msg:114
 msgid "Say, can I use the system for a minute? You know, check it out?"
-msgstr "Puis-je utiliser le système pour une minute ? Juste pour jeter un coup d'oeil."
+msgstr ""
+"Dis, je peux utiliser le système une minute ? Tu sais, juste pour y jeter un "
+"coup d'œil ?"
 
 #: dialog/cccomp2.msg:115 dialog/ccomp2.msg:115
 msgid "Hey, nice talking to you. I'll see you later."
@@ -10187,7 +10227,10 @@ msgstr "Je promets de ne rien casser."
 
 #: dialog/cccomp2.msg:119
 msgid "All right. You can access the system from the terminal over there. Just be careful, please. They'll shoot us both if you damage that machine. Oh, the guest password is 'Snookie.'"
-msgstr "Bon, d'accord. Tu peux accéder au système à partir du terminal là-bas. Mais fais attention. On se ferait tous les deux incendier si tu endommageais cette machine. Oh, le mot de passe c'est \"Snookie\"."
+msgstr ""
+"Bon, d'accord. Tu peux accéder au système à partir du terminal là-bas. Mais "
+"fais attention s'il te plaît. On se ferait tous les deux incendier si tu "
+"endommageais cette machine. Oh, le mot de passe c'est \"Snookie\"."
 
 #: dialog/cccomp2.msg:120 dialog/ccomp2.msg:120
 msgid "I'm sorry but it's out of the question. I'm not even supposed to allow enlisted personnel in the room let alone allow them to use the equipment."
@@ -10340,7 +10383,7 @@ msgstr "Que se passe-t-il à la maintenance ?"
 
 #: dialog/cccook.msg:133
 msgid "What can you tell me about med lab?"
-msgstr "Que peux-tu me dire sur le Labo Médical."
+msgstr "Que peux-tu me dire sur le Labo Médical ?"
 
 #: dialog/cccook.msg:134
 msgid "What about us grunts?"
@@ -10370,11 +10413,16 @@ msgid ""
 "Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care\n"
 " for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know\n"
 " what though. Anyway, he was making all kinds of noise until the commander ordered the room soundproofed."
-msgstr "Le Labo Médical a été repris par un intello de l'Enclave appelé Schreber. C'est un vrai fils de &$@§; il se fout de tout et de tout le monde. Il a effectué des expériences sur les Griffemorts ici, mais je sais pas exactement quoi. En tout cas, il faisait un barouf pas possible jusqu'à ce que le Commandant ordonne de faire insonoriser la pièce."
+msgstr ""
+"Le Labo Médical a été repris par un intello de l'Enclave appelé Schreber. "
+"C'est un vrai fils de pute; il se fout de tout et de tout le monde. Il a "
+"effectué des expériences sur les Griffemorts ici, mais je sais pas "
+"exactement quoi. En tout cas, il faisait un barouf pas possible jusqu'à ce "
+"que le Commandant ordonne de faire insonoriser la pièce."
 
 #: dialog/cccook.msg:142
 msgid "That's interesting. "
-msgstr "C'est intéressant."
+msgstr "C'est intéressant. "
 
 #: dialog/cccook.msg:143
 msgid "Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her \"Snookie\" of all things."
@@ -10390,7 +10438,9 @@ msgstr "Ben, c'est à peu près tout. Si j'entends parler d'autre chose, je te l
 
 #: dialog/cccook.msg:147
 msgid "Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. "
-msgstr "Pourquoi t'intéresses-tu à ça ? Oh, peu importe. Quincy les conserve à la maintenance, je crois."
+msgstr ""
+"Pourquoi tu t'intéresses à ça ? Bon, peu importe. Quincy les conserve à la "
+"maintenance, je crois. "
 
 #: dialog/cccook.msg:149 dialog/cccook.msg:174
 msgid "Where that?"
@@ -10439,7 +10489,9 @@ msgstr "Et où se trouve le bureau du Commandant ?"
 
 #: dialog/cccook.msg:163
 msgid "Take the elevator in the next room down, follow the hallway to the main junction, and go straight. "
-msgstr "Prends l'ascenseur pour aller en bas, suis le couloir jusqu'à l'intersection principale et va tout droit."
+msgstr ""
+"Prends l'ascenseur pour aller en bas, suis le couloir jusqu'à l'intersection "
+"principale et va tout droit. "
 
 #: dialog/cccook.msg:165
 msgid "Hey, soldier. Good to hear from you again. Grub or talk this time?"
