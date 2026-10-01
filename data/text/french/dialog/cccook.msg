@@ -29,21 +29,21 @@
 {130}{}{Rien d'autre ?}
 {131}{}{Moi en savoir assez.}
 {132}{}{Que se passe-t-il à la maintenance ?}
-{133}{}{Que peux-tu me dire sur le Labo Médical.}
+{133}{}{Que peux-tu me dire sur le Labo Médical ?}
 {134}{}{Que se passe-t-il parmi les bidasses ?}
 {135}{}{Il ne se passe rien d'autre ?}
 {136}{}{Je pense que j'en ai entendu assez.}
 {137}{}{Raul, le mécanicien des hélicos, n'aime pas Quincy, le chef de la maintenance. Ces deux-là sont toujours en train de se disputer. Je ne pense pas que c'est une rivalité professionnelle. En tout cas, Raul est un crétin arrogant et Quincy est un mec plutôt bien. J'espère qu'à la finale c'est lui qui gagnera.}
 {138}{}{Ok.}
 {139}{}{Ouais, je te comprends.}
-{140}{}{Le Labo Médical a été repris par un intello de l'Enclave appelé Schreber. C'est un vrai fils de &$@§; il se fout de tout et de tout le monde. Il a effectué des expériences sur les Griffemorts ici, mais je sais pas exactement quoi. En tout cas, il faisait un barouf pas possible jusqu'à ce que le Commandant ordonne de faire insonoriser la pièce.}
+{140}{}{Le Labo Médical a été repris par un intello de l'Enclave appelé Schreber. C'est un vrai fils de pute; il se fout de tout et de tout le monde. Il a effectué des expériences sur les Griffemorts ici, mais je sais pas exactement quoi. En tout cas, il faisait un barouf pas possible jusqu'à ce que le Commandant ordonne de faire insonoriser la pièce.}
 {141}{}{Compris.}
-{142}{}{C'est intéressant.}
+{142}{}{C'est intéressant. }
 {143}{}{Ha ! Pour le côté amourettes, il semblerait que l'un des fanas d'informatique soit amoureux de l'une des bidasses, le garde du Labo Médical. Il lui a même donné un petit nom. Il l'appelle sa snookie d'amour.}
 {144}{}{C'est mignon.}
 {145}{}{Ben, c'est à peu près tout. Si j'entends parler d'autre chose, je te le dirai. J'ai presque autant de plaisir à raconter ces trucs qu'à les écouter !}
 {146}{}{Merci.}
-{147}{}{Pourquoi t'intéresses-tu à ça ? Oh, peu importe. Quincy les conserve à la maintenance, je crois.}
+{147}{}{Pourquoi tu t'intéresses à ça ? Bon, peu importe. Quincy les conserve à la maintenance, je crois. }
 {148}{}{Ok.}
 {149}{}{Où ça ?}
 {150}{}{Je vois.}
@@ -57,7 +57,7 @@
 {160}{}{Où bureau du Commandant ?}
 {161}{}{C'est une bonne idée.}
 {162}{}{Et où se trouve le bureau du Commandant ?}
-{163}{}{Prends l'ascenseur pour aller en bas, suis le couloir jusqu'à l'intersection principale et va tout droit.}
+{163}{}{Prends l'ascenseur pour aller en bas, suis le couloir jusqu'à l'intersection principale et va tout droit. }
 {164}{}{Merci.}
 {165}{}{Salut, soldat ! Content de te revoir. Tu veux bouffer ou discuter ?}
 {166}{}{Manger.}
