@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 03:31+0000\n"
+"PO-Revision-Date: 2026-10-01 04:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -2796,11 +2796,15 @@ msgstr "Si ce silex est si important au point que tu es prêt à déshonorer le 
 
 #: dialog/acmorlis.msg:154
 msgid "Well... Oh, very well. Here is the flint. I wish you a safe journey, child. "
-msgstr "Eh bien... Bon, d'accord. Voilà le silex. Je te souhaite un bon voyage, petit."
+msgstr ""
+"Eh bien... Bon, d'accord. Voilà le silex. Je te souhaite un bon voyage, "
+"petit. "
 
 #: dialog/acmorlis.msg:155
 msgid "No, I don't. Now stop wasting my time and get out of here!"
-msgstr "C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp."
+msgstr ""
+"C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp "
+"!"
 
 #: dialog/acmorlis.msg:200
 msgid "So you've returned. Did you find the holy Thirteen?"
@@ -3558,7 +3562,7 @@ msgstr "Notre illustre ancêtre qui nous a légué le savoir."
 #: dialog/acmynoc.msg:1102 dialog/acvillgr.msg:1102 dialog/acwarior.msg:1102
 #: dialog/kchild.msg:1102 dialog/kcitizen.msg:1102
 msgid "The first to fight and win over chaos."
-msgstr "La première à avoir combattu et vaincu le chaos. "
+msgstr "La première à avoir combattu et vaincu le chaos."
 
 #: dialog/acmynoc.msg:1103 dialog/acvillgr.msg:1103 dialog/acwarior.msg:1103
 #: dialog/kchild.msg:1103 dialog/kcitizen.msg:1103
@@ -3688,7 +3692,9 @@ msgstr "Je suis désolé, il est mort."
 msgid ""
 "You're just saying that 'cause you don't wanna look! I don't care what\n"
 " Morlis says, I'm going to find him."
-msgstr "Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit ! Je vais aller le chercher moi-même !"
+msgstr ""
+"Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit, "
+"je vais aller le chercher moi-même."
 
 #: dialog/acnagor.msg:121
 msgid ""
@@ -4040,7 +4046,7 @@ msgstr "?"
 
 #: dialog/actemvil.msg:141
 msgid "Me ready. "
-msgstr "Quand tu veux."
+msgstr "Moi prêt. "
 
 #: dialog/actemvil.msg:142
 msgid "Me not ready yet."
@@ -4183,7 +4189,11 @@ msgstr "Merci, Dumar."
 
 #: dialog/actemvil.msg:302
 msgid "Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful."
-msgstr "Etre Elu, j'ai remarqué que tes compétences au combat étaient loin d'être parfaites. Je sais, par expérience, que tu ne peux pas compter que sur toi-même"
+msgstr ""
+"Être Elu, j'ai remarqué que tes compétences au combat étaient loin d'être "
+"parfaites. Je sais, par expérience, qu'on ne peut pas toujours compter sur "
+"son intelligence ou ses paroles pour se protéger. Avec ta permission, je "
+"vais t'enseigner quelques choses qui, je pense, te seront très utiles."
 
 #: dialog/actemvil.msg:303
 msgid "Yes, you teach."
@@ -4203,7 +4213,11 @@ msgstr "Merci, mais je crois pouvoir me débrouiller seul."
 
 #: dialog/actemvil.msg:307
 msgid "You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day."
-msgstr "Tu apprends vite, Etre Elu. Je pense que tu devrais savoir te battre maintenant. Mais n'oublie pas que même les meilleurs guerriers doivent faire preuve de prudence"
+msgstr ""
+"Tu apprends vite, Être Elu. Je pense que tu devrais savoir te battre "
+"maintenant. Cependant, n’oublie pas que même les guerriers les plus "
+"puissants doivent parfois battre en retraite. Il n’y a aucune honte à rester "
+"en vie pour combattre un autre jour."
 
 #: dialog/actemvil.msg:308 dialog/actemvil.msg:311
 msgid "Me thank you, Cameron."
@@ -4252,7 +4266,7 @@ msgstr "Ca fait plaisir de te voir, mais je dois partir."
 
 #: dialog/acvillgr.msg:156
 msgid "Gods protect you on your journey."
-msgstr "Que les dieux te protègent au cours de ton voyage !"
+msgstr "Que les dieux te protègent au cours de ton voyage."
 
 #: dialog/acvillgr.msg:157 dialog/acwarior.msg:157
 msgid "I do have a question for you."
@@ -4645,7 +4659,11 @@ msgid ""
 "Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader\n"
 " from Klamath, brought us the flask from the holy Thirteen. Start your search with him.\n"
 " The disk will remind you of your task. May the gods of the Vault watch over you."
-msgstr "Ecoute bien. Trouve l'Abri 13 et rapporte le J.E.K Vic, le marchand de Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes recherches avec lui. Le disque te rappellera ta mission. Que les dieux de l'Abri soient avec toi !"
+msgstr ""
+"Ecoute bien. Trouve le saint Abri 13 et rapporte le JEK. Vic, le marchand de "
+"Klamath, nous a apporté la fiole provenant du Saint-Treize. Commence tes "
+"recherches avec lui. Le disque te rappellera ta mission. Que les dieux de "
+"l'Abri soient avec toi."
 
 #: dialog/ahelder.msg:133
 msgid "Before I go, I have some questions."
@@ -4715,7 +4733,9 @@ msgctxt "aeld12"
 msgid ""
 "The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have\n"
 " the sound of a perilous journey. "
-msgstr "Le Saint-Treize ? Je ne peux t'aider. Seul l'Habitant de l'Abri savait. Ses contes parlaient d'un périlleux voyage."
+msgstr ""
+"Le Saint-Treize ? Je ne peux t'aider. Seul l'Habitant de l'Abri savait. Ses "
+"contes parlaient d'un périlleux voyage. "
 
 #: dialog/ahelder.msg:150
 msgid "I see. There is much I need to know."
@@ -4734,7 +4754,7 @@ msgstr "Si tu hésites, nous mourrons tous ! Toi y compris. Tu as réussi à tra
 
 #: dialog/ahelder.msg:153
 msgid "Not so fast, old woman. I need time to think about this!"
-msgstr "Pas si vite, vieille femme. Je dois y réfléchir."
+msgstr "Pas si vite, vieille femme. Je dois y réfléchir !"
 
 #: dialog/ahelder.msg:154
 msgid "As you wish, Elder."
@@ -4835,7 +4855,7 @@ msgstr "Tu peux compter sur moi, doyenne."
 
 #: dialog/ahelder.msg:173
 msgid "Look. If you think you can do better... "
-msgstr "Ecoute. Si tu crois pouvoir faire mieux..."
+msgstr "Ecoute. Si tu crois pouvoir faire mieux... "
 
 #: dialog/ahelder.msg:174
 msgctxt "aeld19"
@@ -4863,7 +4883,11 @@ msgid ""
 "Child, our need is greater than ever before. Our people sicken, the brahmin\n"
 " are dying, and our food is all but gone. The blight of the land can only be cured with\n"
 " the GECK. Go, find the GECK and save our people."
-msgstr "Les temps sont durs, mon enfant. Notre peuple est malade, les Brahmines se meurent et notre nourriture est épuisée. Seul le J.E.K combattra le fléau qui s'est abattu sur nos terres. Va, et trouve-le ! Sauve notre peuple !"
+msgstr ""
+"Mon enfant, notre besoin est plus grand que jamais. Notre peuple est malade, "
+"les Brahmines se meurent et notre nourriture est presque épuisée. Seul le "
+"J.E.K combattra le fléau qui s'est abattu sur nos terres. Va, et trouve-le. "
+"Sauve notre peuple."
 
 #: dialog/ahelder.msg:181 dialog/scmerk.msg:262
 msgid "I'm on my way."
@@ -4927,12 +4951,15 @@ msgstr "Attention, ne touche pas au mur rayonnant. A mon avis la machine qui l'a
 
 #: dialog/ahelder.msg:211
 msgid "I have a ship. "
-msgstr "J'ai un navire."
+msgstr "J'ai un navire. "
 
 #: dialog/ahelder.msg:212
 msgctxt "eeld5"
 msgid "Men came to our village in flying machines and took us. There were others, too - from the holy Thirteen! I thought we were saved. I thought we were going to heaven. (sigh)"
-msgstr "Des hommes sont venus au village et nous ont emmenés dans leurs machines volantes. Il y avait aussi des gens du Saint-Treize ! Je croyais qu'on était sauvés. J'ai pensé que nous allions au paradis."
+msgstr ""
+"Des hommes sont venus au village et nous ont emmenés dans leurs machines "
+"volantes. Il y avait aussi des gens du Saint-Treize ! Je croyais qu'on était "
+"sauvés. J'ai pensé que nous allions au paradis. (soupir)"
 
 #: dialog/ahelder.msg:213 dialog/ahhakun.msg:289
 msgid "And then?"
@@ -4943,7 +4970,10 @@ msgctxt "eeld5a"
 msgid ""
 "Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!\n"
 " Do you know what must be done, Chosen One?"
-msgstr "Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu dois faire, Etre Elu."
+msgstr ""
+"Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous "
+"avec ce qu'ils appellent effeuvé. Ils nous tueront, jusqu'au dernier ! Tu "
+"sais ce que tu dois faire, Être Elu."
 
 #: dialog/ahelder.msg:215
 msgid "Effeevee?"
@@ -4952,7 +4982,9 @@ msgstr "Effeuvé ?"
 #: dialog/ahelder.msg:218
 msgctxt "eeld6"
 msgid "If you destroy the machine, we will find the ship. Hurry, there are not many of us left. "
-msgstr "Si tu détruis la machine, nous trouverons le navire. Dépêche-toi. Nous ne sommes plus bien nombreux."
+msgstr ""
+"Si tu détruis la machine, nous trouverons le navire. Dépêche-toi. Nous ne "
+"sommes plus bien nombreux. "
 
 #: dialog/ahelder.msg:219 dialog/ahhakun.msg:249 dialog/kcardin.msg:272
 #: dialog/nclabish.msg:736
@@ -4975,7 +5007,7 @@ msgstr "Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?"
 
 #: dialog/ahelder.msg:225
 msgid "Like you could help me in there? Fuck off and die."
-msgstr "Pff, comme si tu pouvais m'aider... Tu peux crever !"
+msgstr "Pff, comme si tu pouvais m'aider... Va te faire foutre et crève."
 
 #: dialog/ahelder.msg:226
 msgctxt "eeld9"
@@ -29627,7 +29659,7 @@ msgstr "Cé... Dé... Eu... èF... Gé..."
 
 #: dialog/ecbridge.msg:106 dialog/ecbridge.msg:114
 msgid "Shamble off."
-msgstr "[S'éclipser.]"
+msgstr "[S'éclipser]"
 
 #: dialog/ecbridge.msg:108
 msgid "Ask me the questions, bridge keeper. I'm not afraid."
