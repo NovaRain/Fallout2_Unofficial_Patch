@@ -1,7 +1,7 @@
 {100}{}{Tu vois une jeune femme vêtue de loques.}
 {101}{}{Tu vois Dalia.}
 {102}{}{Tu vois une jeune femme vêtue de loques. Elle a l'air sur le qui-vive et regarde avec attention autour d'elle.}
-{103}{}{Que puis-je faire pour toi ?}
+{103}{}{Salut. Mon prénom est Dalia. Que puis-je faire pour toi ?}
 {104}{}{Rien, moi dire juste bonjour.}
 {105}{}{Euh, qui toi ?}
 {106}{}{Quoi toi faire ?}
@@ -38,7 +38,7 @@
 {137}{}{Je ne veux pas me disputer avec toi. Laisse-moi.}
 {138}{}{}
 {139}{}{}
-{140}{}{Que puis-je faire pour toi ?}
+{140}{}{Salut. Mon prénom est Dalia. Que puis-je faire pour toi ?}
 {141}{}{Quelqu'un aller par là ? Très pressé ?}
 {142}{}{Rien.}
 {143}{}{Rien.}

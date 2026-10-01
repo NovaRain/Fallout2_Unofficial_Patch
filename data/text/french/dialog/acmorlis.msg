@@ -6,7 +6,7 @@
 {105}{}{Mynoc a dit quoi ?! Assez, mon enfant !}
 {106}{}{Que, euh... tu avais peut-être du silex.}
 {107}{}{C'est vrai. Tu en veux, c'est ça ?}
-{108}{}{Euh... oui ?}
+{108}{}{Euh, ouais.}
 {109}{}{Très bien. Je veux trois doses de poudre de guérison. Les mauvais jours arrivent et je dois me préparer. Apporte les moi et je te donnerai le silex. Allez !}
 {110}{}{D'accord !}
 {111}{}{Ne me fais pas perdre mon temps. Tu as la poudre ?}

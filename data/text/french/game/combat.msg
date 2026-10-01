@@ -134,7 +134,7 @@
 {577}{female_pc}{%s as été touchée sans aucun dégât}
 {578}{female_pc}{%s as été touchée par un coup critique mais sans aucun dégât}
 {583}{female_pc}{%s as complètement raté ta cible et as subis 1 point d'impact}
-{584}{female_pc}{%s a complètement raté sa cible et a pris %d points d'impact}
+{584}{female_pc}{%s a complètement raté sa cible et a subi %d points d'impact}
 {608}{}{Oh ! %s a été touché à ta place !}
 {609}{}{Oh ! %s a été touché à la place de %s !}
 {611}{}{%s a été touché (coup critique) (%s) pour %d points d'impact}

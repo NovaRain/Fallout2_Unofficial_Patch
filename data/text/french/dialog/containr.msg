@@ -114,5 +114,5 @@
 {601}{}{C'est ouvert, idiot.}
 {610}{}{Tu échoues lamentablement et la charge explose prématurément.}
 {611}{}{ échoue lamentablement et la charge explose prématurément.}
-{620}{}{Vous tordez le pied de biche avec acharnement. Il est inutile maintenant.}
-{621}{}{ tord le pied de biche avec acharnement. Il est inutile maintenant.}
+{620}{}{Tu plies le pied-de-biche avec acharnement. Il est inutile maintenant.}
+{621}{}{ plie le pied-de-biche avec acharnement. Il est inutile maintenant.}
