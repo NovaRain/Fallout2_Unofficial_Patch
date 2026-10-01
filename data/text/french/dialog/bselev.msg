@@ -22,11 +22,11 @@
 {121}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège hautement explosif dans l'encadrement de la porte.}
 {122}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un piège dans l'encadrement de la porte.}
 {123}{}{Tu vois une porte solide avec un verrou et un piège dans l'encadrement de la porte.}
-{124}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un piège placé sur l'encadrement de la porte}
-{125}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé sur l'encadrement de la porte.}
+{124}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un piège placé dans l'encadrement de la porte.}
+{125}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé dans l'encadrement de la porte.}
 {126}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un fil sectionné sur l'encadrement de la porte.}
-{127}{}{Tu vois une porte robuste avec un verrou et un fil sectionné sur l'encadrement de la porte.}
-{128}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte.}
+{127}{}{Tu vois une porte robuste avec un verrou et un fil sectionné dans l'encadrement de la porte.}
+{128}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné dans l'encadrement de la porte.}
 {129}{}{Tu vois une porte solide avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte.}
 {130}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout.}
 {131}{}{Tu vois une porte solide munie d'un verrou.}
