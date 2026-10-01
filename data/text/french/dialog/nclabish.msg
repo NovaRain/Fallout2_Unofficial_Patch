@@ -286,7 +286,7 @@
 {735}{}{[Elle prend un air atterré, puis se retourne et tu ne vois plus son visage.] Ne parle plus jamais de cet endroit.}
 {736}{}{Que s'est-il passé ?}
 {740}{}{JOHN est arrivé. J'y vivais, il est venu en visite, j'ai été charmée, parce qu'il était si... viril, j'imagine. Différent des citoyens de l'Abri. [Elle soupire.] Bien sûr, il m'a aussi initiée à cette petite chose qu'on appelle le « Jet »...}
-{741}{}{Ah...}
+{741}{}{Et?}
 {745}{}{Là-bas, ils avaient ces disques d'apprentissage accéléré pour les Pip Boys. Avec des dictionnaires et des encyclopédies. J'en ai emporté plusieurs à mon départ, j'ignore pourquoi.}
 {746}{}{Où sont ces disques ?}
 {750}{}{[Elle baille et se roule en boule.] Dans mon coffre. Ils ne servent à rien sans Pip-Boy, ceci dit. Je ne sais pas pourquoi je les garde.}

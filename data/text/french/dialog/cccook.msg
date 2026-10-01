@@ -66,8 +66,8 @@
 {169}{}{Aucun des deux, je voulais juste te dire bonjour.}
 {170}{}{Voilà. C'est mort, c'est cuit et c'est impossible à identifier. Bon app'.}
 {171}{}{Heu... Merci.}
-{172}{}{Mon p'tit, tu pues tellement que même les yeux fermés j'saurais que tu portes pas d'armure. Et puis si le sergent te voit sans ton uniforme, tu vas t'faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, va à la réserve et mets-toi en tenue !}
-{173}{}{Ma jolie, tu pues tellement que même les yeux fermés j'saurais que tu portes pas d'armure. Et puis si le sergent te voit sans ton uniforme, tu vas te faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, va à la réserve et mets-toi en tenue !}
+{172}{}{Mon p'tit, tu pues tellement que même les yeux fermés j'saurais que tu portes pas d'armure assistée. Et puis si le sergent te voit sans ton uniforme, tu vas te faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, va à la réserve et mets-toi en tenue !}
+{173}{}{Ma jolie, tu pues tellement que même les yeux fermés j'saurais que tu portes pas d'armure assistée. Et puis si le sergent te voit sans ton uniforme, tu vas te faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, va à la réserve et mets-toi en tenue !}
 {174}{}{Où ça ?}
 {175}{}{Ok.}
 {176}{}{Où c'est ?}
@@ -76,9 +76,9 @@
 {179}{}{Merci.}
 {180}{}{Eh ! J'suis qu'un cuisinier moi... et aveugle en plus. Je n'ai pas vu d'intrus entrer par ici.}
 {181}{}{Merci.}
-{182}{}{Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles se déclenchent !}
+{182}{}{Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles se déclenchent.}
 {183}{}{Mais qu'est-ce qui s'passe maintenant ?}
-{184}{}{Ils pourraient pas utiliser des alarmes silencieuses, bordel ! Ces machins-là me donnent mal à la tête !}
+{184}{}{Ils pourraient pas utiliser des alarmes silencieuses, bordel ! Ces machins-là me donnent mal au crâne !}
 {185}{}{Je vais servir ton cul en friture.}
 {186}{}{Tu es dans la merde. Ha ! Elle est bonne celle-là !}
 {187}{}{Hors de la poêle et au feu !}
