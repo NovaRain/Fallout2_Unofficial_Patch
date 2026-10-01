@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-01 06:31+0000\n"
+"PO-Revision-Date: 2026-10-01 07:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/up/fr/>\n"
 "Language: french\n"
@@ -10525,13 +10525,21 @@ msgstr "Heu... Merci."
 msgid ""
 "Son, I can tell from the smell that you're not wearin' one of them powered armor suits.\n"
 " If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up."
-msgstr "Mon p'tit, tu pues tellement que même les yeux fermés j'saurais que tu portes pas d'armure. Et puis si le sergent te voit sans ton uniforme, tu vas t'faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, va à la réserve et mets-toi en tenue !"
+msgstr ""
+"Mon p'tit, tu pues tellement que même les yeux fermés j'saurais que tu "
+"portes pas d'armure assistée. Et puis si le sergent te voit sans ton "
+"uniforme, tu vas te faire baiser. Et je parle pas au sens agréable du terme. "
+"Allez, dépêche-toi, va à la réserve et mets-toi en tenue !"
 
 #: dialog/cccook.msg:173
 msgid ""
 "Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.\n"
 " If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up."
-msgstr "Ma jolie, tu pues tellement que même les yeux fermés j'saurais que tu portes pas d'armure. Et puis si le sergent te voit sans ton uniforme, tu vas te faire baiser. Et je parle pas au sens agréable du terme. Allez, dépêche-toi, va à la réserve et mets-toi en tenue !"
+msgstr ""
+"Ma jolie, tu pues tellement que même les yeux fermés j'saurais que tu portes "
+"pas d'armure assistée. Et puis si le sergent te voit sans ton uniforme, tu "
+"vas te faire baiser. Et je parle pas au sens agréable du terme. Allez, "
+"dépêche-toi, va à la réserve et mets-toi en tenue !"
 
 #: dialog/cccook.msg:177
 msgid "I'll take care of it."
@@ -10547,7 +10555,9 @@ msgstr "Eh ! J'suis qu'un cuisinier moi... et aveugle en plus. Je n'ai pas vu d'
 
 #: dialog/cccook.msg:182
 msgid "Damned alarms. Always such a ruckus when they go off."
-msgstr "Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles se déclenchent !"
+msgstr ""
+"Bon dieu d'alarmes ! Elles font toujours un boucan pas possible quand elles "
+"se déclenchent."
 
 #: dialog/cccook.msg:183
 msgid "What the hell is that damn thing going on about this time?"
@@ -10555,7 +10565,9 @@ msgstr "Mais qu'est-ce qui s'passe maintenant ?"
 
 #: dialog/cccook.msg:184
 msgid "I wish to hell we'd use silent alarms, damn thing gives me a headache."
-msgstr "Ils pourraient pas utiliser des alarmes silencieuses, bordel ! Ces machins-là me donnent mal à la tête !"
+msgstr ""
+"Ils pourraient pas utiliser des alarmes silencieuses, bordel ! Ces machins-"
+"là me donnent mal au crâne !"
 
 #: dialog/cccook.msg:185
 msgid "I'm gonna fry your ass up and serve it on a plate."
@@ -10776,7 +10788,7 @@ msgstr "Eh bien, nous avons réussi ! Nous avons augmenté leur intelligence. Ma
 #: dialog/ccdoctor.msg:147 dialog/gcgordon.msg:201 dialog/nclabish.msg:741
 #: dialog/scvortis.msg:154
 msgid "And?"
-msgstr "Ah..."
+msgstr "Et?"
 
 #: dialog/ccdoctor.msg:148
 msgid ""
@@ -10933,7 +10945,7 @@ msgstr "Gardes ! Des intrus au Labo Médical !"
 
 #: dialog/ccdoctor.msg:196
 msgid "I'm not a hostile, don't shoot me."
-msgstr "Je ne suis pas hostile, ne me tue pas !"
+msgstr "Je ne te veux pas de mal, ne tire pas !"
 
 #: dialog/ccdoctor.msg:197
 msgid "I didn't sign up for combat, so leave me alone."
@@ -11046,11 +11058,11 @@ msgstr "C'est ton dernier avertissement. Je te demande de quitter cette zone."
 
 #: dialog/ccdrgrd.msg:126
 msgid "Oh... Fuck it. Me shoot way in."
-msgstr "Oh... Ta gueule ! Moi rentrer de force !"
+msgstr "Oh... Et puis merde. Moi tirer pour entrer."
 
 #: dialog/ccdrgrd.msg:127
 msgid "Fuck it. Going in with guns blazing."
-msgstr "Ferme-la ! Mes flingues vont me montrer l'entrée, tu vas voir !"
+msgstr "Et puis merde. J'entre en tirant dans le tas."
 
 #: dialog/ccdrgrd.msg:128
 msgid "What? Oh, I get it. You screwed the pooch and Dornan's got you on cleaning detail."
@@ -11229,7 +11241,9 @@ msgstr "Je m'appelle "
 #: dialog/ccdrill.msg:115
 msgctxt "sgnt6"
 msgid "I am not a Sir. I work for a living, you mo-ron. You will call me Sergeant or Sergeant Dornan. Do you understand me! "
-msgstr "Pas de Monsieur ! Je travaille pour vivre moi neu-neu ! Tu m'appelleras Sergent ou Sergent Dornan. C'est compris ?!"
+msgstr ""
+"Pas de Monsieur ! Je travaille pour vivre moi neu-neu ! Tu m'appelleras "
+"Sergent ou Sergent Dornan. C'est compris ?! "
 
 #: dialog/ccdrill.msg:116 dialog/ccdrill.msg:120 dialog/ccdrill.msg:122
 #: dialog/ccdrill.msg:130 dialog/ccdrill.msg:133 dialog/ccdrill.msg:135
@@ -11306,7 +11320,7 @@ msgstr "Oui, heu... Sergent !"
 
 #: dialog/ccdrill.msg:138
 msgid "No! Me not care anymore. Me kick you ass."
-msgstr "Non ! Moi m'en foutre maintenant. Moi te faire ta fête !"
+msgstr "Non ! Moi m'en foutre maintenant. Moi faire ta fête !"
 
 #: dialog/ccdrill.msg:140
 msgid "I don't particularly care now that I'm wearing this nice armor. I'm going to kick your ass."
@@ -11383,7 +11397,7 @@ msgstr "Mauvaise réponse. On est censés avoir nos papiers sur nous en permanen
 #: dialog/dcmetzge.msg:652 dialog/gsterm.msg:304 dialog/hcenchb.msg:119
 #: dialog/hcjacob.msg:304 dialog/scwestin.msg:115
 msgid "Oops."
-msgstr "Oh là là !"
+msgstr "Oups !"
 
 #: dialog/ccdrill.msg:157
 msgid "Stay alert, soldier!"
@@ -11403,11 +11417,11 @@ msgstr "Si j'en attrape un à dormir, je vous garantis qu'il s'en souviendra !"
 
 #: dialog/ccdrill.msg:161
 msgid "Good! You found your duty station!"
-msgstr "Bien. Tu as trouvé ton poste de garde."
+msgstr "Bien ! Tu as trouvé ton poste de garde !"
 
 #: dialog/ccdrill.msg:162
 msgid "Stay at your post until you're relieved, soldier!"
-msgstr "Reste à ton poste jusqu'à ce que la relève arrive, recrue."
+msgstr "Reste à ton poste jusqu'à ce que la relève arrive, recrue !"
 
 #: dialog/ccdrill.msg:163
 msgid "At your duty post and awake. Excellent!"
@@ -11415,7 +11429,7 @@ msgstr "Tu es à ton poste de garde. Excellent !"
 
 #: dialog/ccdrill.msg:164
 msgid "Stay awake, stay alert, stay alive!"
-msgstr "On ouvre l'oeil et le bon si on tient à sa peau."
+msgstr "On ouvre l'oeil, et le bon si on tient à sa peau !"
 
 #: dialog/ccdrill.msg:165
 msgid "Alert! Intruders on the base!"
@@ -11504,7 +11518,7 @@ msgstr "Code rouge à la porte principale !"
 
 #: dialog/ccgguard.msg:100
 msgid "You see a guard. "
-msgstr "Tu vois un garde."
+msgstr "Tu vois un garde. "
 
 #: dialog/ccgguard.msg:101
 msgid "You see the gate guard."
@@ -11581,7 +11595,7 @@ msgstr "Moi pas trouver passe et pas me souvenir mot de passe !"
 
 #: dialog/ccgguard.msg:119
 msgid "Screw this. Me kill."
-msgstr "Moi tuer !"
+msgstr "Merde ! Moi tuer !"
 
 #: dialog/ccgguard.msg:120
 msgid "I'm sorry, I lost my pass and I don't know anything about a password."
@@ -11704,7 +11718,7 @@ msgstr "... Quel trou du cul..."
 
 #: dialog/ccgguard.msg:203 dialog/ccgrdpa.msg:203
 msgid "...yes, sir! fuckin' sir!..."
-msgstr "...Oui, m'sieur ! Enfoiré de m'sieur... !"
+msgstr "...oui, m'sieur ! enfoiré de m'sieur !..."
 
 #: dialog/ccgguard.msg:300
 msgid "Move along soldier."
@@ -11840,7 +11854,9 @@ msgstr "On dit que le vieux va aller à SF !"
 
 #: dialog/ccguard.msg:105
 msgid "To hell with waiting. I say we nuke all these primitives and get things over with."
-msgstr "J'en ai marre d'attendre. Je dis que nous allons exterminer tous ces primitifs, et pas de quartier !"
+msgstr ""
+"J'en ai marre d'attendre. Je dis qu'on atomise tous ces primitifs et qu'on "
+"en finisse une bonne fois pour toutes."
 
 #: dialog/ccguard.msg:106
 msgid "Got a light? Oh wait, never mind. Got one."
