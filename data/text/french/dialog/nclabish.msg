@@ -153,7 +153,7 @@
 {473}{}{Merci du conseil. J'ai d'autres questions, moins épineuses...}
 {474}{}{Entendu. Au revoir.}
 {475}{}{Merci pour tout... et notamment du conseil, Mme Bishop.}
-{480}{}{::Soupir::}
+{480}{}{*Soupir*}
 {481}{}{*Encore* un beau jour à Reno. Le démon doit danser la gigue.}
 {482}{}{A voir l'affluence au casino, on dirait bien qu'il y a de nouveaux déchets humains à Reno...}
 {483}{}{Reno... « la plus grande petite fosse d'aisance du monde ». <Pfff>}

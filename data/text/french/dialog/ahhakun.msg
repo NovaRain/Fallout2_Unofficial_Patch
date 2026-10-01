@@ -3,16 +3,16 @@
 {102}{}{Tu vois Hakunin. Il est sur le point de mourir.}
 {103}{}{Hakunin est gravement brûlé. Il sent le poulet rôti, il ressemble à du hachis de viande brûlé, et tu te demandes comment il a pu survivre si longtemps.}
 {104}{hak001}{Bonjour, Etre Elu. Pourquoi la Terre que je contemple se réchauffe sur ton passage ?}
-{105}{}{Euh ?}
-{106}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête.}
-{107}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne.}
+{105}{}{Euh ? }
+{106}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête. }
+{107}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne. }
 {108}{}{Tu as ingurgité trop de stimulants. Je m'en vais.}
 {109}{}{J'ai des blessures. Peux-tu me soigner ?}
 {110}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {111}{hak001a}{Je t'en prie, révèle aux yeux voilés le motif de ton passage.}
-{112}{}{Euh ?}
-{113}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête.}
-{114}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne.}
+{112}{}{Euh ? }
+{113}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête. }
+{114}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne. }
 {115}{}{Tu as ingurgité trop de stimulants. Je m'en vais.}
 {116}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {117}{hak002}{La Terre chante en apprenant l'arrivée d'un champion dans ces contrées... Peut-être accepteras-tu de m'accorder une faveur ?}

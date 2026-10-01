@@ -41,7 +41,7 @@
 {303}{}{Etre Elu, notre village est presque mort... Tu es notre seul espoir. Y a-t-il quelque chose que je puisse te dire pour t'aider à nous sauver ?}
 {1000}{}{La doyenne}
 {1001}{}{Fondatrice}
-{1002}{}{Habitant de l'Abri }
+{1002}{}{Habitant de l'Abri}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Abri}

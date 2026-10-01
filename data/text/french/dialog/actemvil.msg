@@ -9,7 +9,7 @@
 {108}{}{J'ai d'abord quelques questions à te poser.}
 {109}{}{Très bien, allons-y.}
 {110}{}{J'ai besoin d'un moment pour me préparer.}
-{111}{}{Que voudrais-tu savoir ?}
+{111}{}{Que voudrais-tu savoir ? }
 {112}{}{Pourquoi se battre ?}
 {113}{}{Nous se battre à mort ?}
 {114}{}{Nous se battre à mains nues ?}

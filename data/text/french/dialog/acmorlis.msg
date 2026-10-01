@@ -6,7 +6,7 @@
 {105}{}{Mynoc a dit quoi ?! Assez, mon enfant !}
 {106}{}{Que, euh... tu avais peut-être du silex.}
 {107}{}{C'est vrai. Tu en veux, c'est ça ?}
-{108}{}{Euh, ouais.}
+{108}{}{Ben, ouais.}
 {109}{}{Très bien. Je veux trois doses de poudre de guérison. Les mauvais jours arrivent et je dois me préparer. Apporte les moi et je te donnerai le silex. Allez !}
 {110}{}{D'accord !}
 {111}{}{Ne me fais pas perdre mon temps. Tu as la poudre ?}
@@ -30,7 +30,7 @@
 {203}{}{Oui, tante Morlis.}
 {204}{}{Ah, te revoilà. As-tu encore échoué dans ta quête ?}
 {205}{}{Oui, tante Morlis, mais...}
-{206}{}{Alors débarrasse-moi le plancher et ne reviens pas avant de l'avoir trouvé ! Pourquoi perdre ton temps à revenir ici alors que tu pourrais l'utiliser pour poursuivre tes recherches !}
+{206}{}{Alors débarrasse-moi le plancher et ne reviens pas avant de l'avoir trouvé ! Pourquoi perdre ton temps à revenir ici alors que tu pourrais l'utiliser pour poursuivre tes recherches ?!}
 {207}{}{Oui, tante Morlis.}
 {208}{}{Je suppose que si tu es là, c'est que tu as terminé ta quête. Tu ne perdrais pas un temps précieux à revenir ici les mains vides, pas vrai ?}
 {209}{}{Oui, tante Morlis. Enfin, j'veux dire non, tante Morlis. Euh, je dois partir, tante Morlis.}

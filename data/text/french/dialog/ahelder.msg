@@ -72,7 +72,7 @@
 {176}{}{Très bien. J'y vais.}
 {177}{}{Je vais faire de mon mieux pour trouver le J.E.K et sauver notre village.}
 {178}{}{Arrête, vieille femme. Je fais de mon mieux.}
-{179}{aeld20}{Mon enfant, notre besoin est plus grand que jamais. Notre peuple est malade, les Brahmines se meurent et notre nourriture est presque épuisée. Seul le J.E.K combattra le fléau qui s'est abattu sur nos terres. Va, et trouve-le. Sauve notre peuple.}
+{179}{aeld20}{Les temps sont durs, mon enfant. Notre peuple est malade, les Brahmines se meurent et notre nourriture est épuisée. Seul le J.E.K combattra le fléau qui s'est abattu sur nos terres. Va, et trouve-le ! Sauve notre peuple !}
 {180}{}{Moi comprendre.}
 {181}{}{Je m'en vais.}
 {182}{}{Pardonne-moi, doyenne. Je me mets sur-le-champ à la recherche du J.E.K.}
@@ -91,7 +91,7 @@
 {211}{}{J'ai un navire. }
 {212}{eeld5}{Des hommes sont venus au village et nous ont emmenés dans leurs machines volantes. Il y avait aussi des gens du Saint-Treize ! Je croyais qu'on était sauvés. J'ai pensé que nous allions au paradis. (soupir)}
 {213}{}{Et ensuite ?}
-{214}{eeld5a}{Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous avec ce qu'ils appellent effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu dois faire, Être Elu.}
+{214}{eeld5a}{Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu dois faire, Être Elu.}
 {215}{}{Effeuvé ?}
 {216}{}{Oui.}
 {217}{}{Non.}
@@ -102,7 +102,7 @@
 {222}{}{Au revoir.}
 {223}{eeld8}{N'oublie pas que je suis encore la Doyenne ! Fais-moi des excuses ou je ne t'aiderai pas.}
 {224}{}{Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?}
-{225}{}{Pff, comme si tu pouvais m'aider... Va te faire foutre et crève.}
+{225}{}{Pff, tu pourrais peut-être m'aider, non ? Va te faire foutre et crève.}
 {226}{eeld9}{Va-t'en. Tu ne vaux guère mieux que ces démons. Tu ne mérites pas d'être l'Etre Elu.}
 {227}{eeld10}{Mais que fais-tu ici ? Chaque minute qui s'écoule peut être fatale à notre peuple. Et n'oublie pas le J.E.K ! Il nous le faut.}
 {228}{}{Nuh ??}

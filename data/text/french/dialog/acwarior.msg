@@ -46,7 +46,7 @@
 {982}{}{Je n'en ai jamais entendu parler.}
 {1000}{}{La doyenne}
 {1001}{}{Fondatrice}
-{1002}{}{Habitant de l'Abri }
+{1002}{}{Habitant de l'Abri}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Abri}

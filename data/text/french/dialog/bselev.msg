@@ -50,7 +50,7 @@
 {149}{}{Tu vois une porte abîmée munie d'un vieux verrou rouillé.}
 {150}{}{Tu vois une vieille porte avec un verrou (pouvant être ouvert avec un passe-partout) et un piège hautement explosif sur l'encadrement de la porte.}
 {151}{}{Tu vois une vieille porte avec un verrou et un piège hautement explosif sur l'encadrement de la porte.}
-{152}{}{Tu vois une vieille porte sans dispositif de verrouillage apparent et un piège hautement explosif sur sur l'encadrement de la porte.}
+{152}{}{Tu vois une vieille porte sans dispositif de verrouillage apparent et un piège hautement explosif dans l'encadrement de la porte.}
 {153}{}{Tu vois une vieille porte avec un vieux verrou rouillé et un piège hautement explosif sur l'encadrement de la porte.}
 {154}{}{Tu vois une vieille porte avec un verrou (pouvant être ouvert avec un passe-partout) et un piège sur l'encadrement de la porte.}
 {155}{}{Tu vois une vieille porte avec un verrou et un piège sur l'encadrement de la porte.}
