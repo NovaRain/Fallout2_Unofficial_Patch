@@ -581,13 +581,13 @@
 {30501}{}{Questo sembra un vecchio tavolo da caffe', non molto alto e adatto per i mutanti molto bassi.}
 {30600}{}{Tavolo}
 {30601}{}{Questo sembra un vecchio tavolo da caffe', non molto alto e adatto per i mutanti molto bassi.}
-{30700}{}{Acqua}
+{30700}{}{Bagno}
 {30701}{}{I bordi taglienti della tazza lo rendono un posto molto scomodo dove sedersi.}
-{30800}{}{Acqua}
+{30800}{}{Bagno}
 {30801}{}{Questo water e' rotto.}
-{30900}{}{Acqua}
-{30901}{}{Yuck! Chiunque l'abbia usato per ultimo, non ha tirato l'acqua!}
-{31000}{}{Acqua}
+{30900}{}{Bagno}
+{30901}{}{Che schifo! Chiunque l'abbia usato per ultimo, non ha tirato l'acqua!}
+{31000}{}{Bagno}
 {31001}{}{Questo water e' rotto e decisamente non e' utilizzabile se sei una donna.}
 {31100}{}{Spazzatura}
 {31101}{}{Qualche tubo spezzato mezzo ricoperto di sporcizia. Non c'e' niente da vedere. Circolare.}
@@ -1164,11 +1164,11 @@
 {61401}{}{Osservi la tua immagine allo specchio per un po'.}
 {61500}{}{Lavello}
 {61501}{}{Un lavello completamente funzionante. Bello e pulito.}
-{61600}{}{Acqua}
+{61600}{}{Bagno}
 {61601}{}{Questo water e' molto pulito. E funziona.}
 {61700}{}{Orinatoio}
 {61701}{}{Questo orinatoio e' funzionante.}
-{61800}{}{Acqua}
+{61800}{}{Bagno}
 {61801}{}{Se tu avessi una fissa per i water, allora questo sarebbe il water ideale.}
 {61900}{}{Lavello}
 {61901}{}{Questo lavello e' in perfette condizioni.}
@@ -1303,7 +1303,7 @@
 {68801}{}{Un grosso ammasso di rocce. Non si tratta di un evento naturale.}
 {68900}{}{Rocce}
 {68901}{}{Un grosso ammasso di rocce. Non si tratta di un evento naturale.}
-{69000}{}{Acqua}
+{69000}{}{Bagno}
 {69001}{}{Un water grezzo, ma funzionale. Ci sono delle foglie buttate nel buco per combattere l'odore.}
 {69100}{}{Montagna}
 {69101}{}{Questa parete di roccia sembra assolutamente inaccessibile.}
@@ -1865,7 +1865,7 @@
 {101701}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
 {101800}{}{Aratro}
 {101801}{}{Questo aratro e' progettato per essere trascinato da un Brahmin.}
-{101900}{}{Acqua}
+{101900}{}{Bagno}
 {102000}{}{Insegna}
 {102001}{}{L'insegna all'entrata di New Reno.}
 {102100}{}{Insegna}
@@ -2044,12 +2044,12 @@
 {118500}{}{Cartello: Ufficio del Manager}
 {118600}{}{Cartello: Magazzino}
 {118700}{}{Cartello: Attenzione alle Radiazioni}
-{118800}{}{Carbone}
+{118800}{}{Vapore}
 {118900}{}{Macchina}
 {118901}{}{Un pezzo di equipaggiamento generico per il reattore.}
 {119000}{}{Cisterna}
 {119100}{}{Fuoco}
-{119200}{}{Acqua}
+{119200}{}{Bagno}
 {119300}{}{Cartello: Trapper Town}
 {119400}{}{Insegna del Golden Gecko}
 {119500}{}{Insegna della Bath House}
@@ -2657,7 +2657,7 @@
 {175100}{}{Guardiano del Persempre}
 {175200}{}{Cartello "Fuori Uso"}
 {175300}{}{Pavimento Crollato}
-{175400}{}{Acqua}
+{175400}{}{Bagno}
 {175500}{}{Croce}
 {175600}{}{Parete}
 {175700}{}{Parete}
@@ -2676,12 +2676,12 @@
 {177000}{}{Supporti d'Acciaio}
 {177100}{}{Supporti d'Acciaio}
 {177200}{}{Supporti d'Acciaio}
-{177300}{}{Acqua}
-{177400}{}{Acqua}
-{177500}{}{Acqua}
-{177600}{}{Acqua}
-{177700}{}{Acqua}
-{177800}{}{Acqua}
+{177300}{}{Bagno}
+{177400}{}{Bagno}
+{177500}{}{Bagno}
+{177600}{}{Bagno}
+{177700}{}{Bagno}
+{177800}{}{Bagno}
 {177900}{}{Cascata}
 {178000}{}{Strada}
 {178100}{}{Strada}
@@ -2764,4 +2764,4 @@
 {184800}{}{Stazione delle Comunicazioni}
 {184900}{}{Console del Computer}
 {185000}{}{Oblo'}
-{185100}{}{Carbone}
+{185100}{}{Vapore}

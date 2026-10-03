@@ -208,7 +208,7 @@
 {308}{}{Rocce}
 {309}{}{Cassaforte a Muro}
 {310}{}{Sacchetto di Denaro}
-{311}{}{Acqua}
+{311}{}{Bagno}
 {312}{}{Scatola}
 {313}{}{Jordan}
 {314}{}{Zia Morlis}
@@ -217,7 +217,7 @@
 {317}{}{Pozzo}
 {318}{}{Gruthar}
 {319}{}{Script Mappa}
-{320}{}{Doofus}
+{320}{}{Skeeter}
 {321}{}{Nagor}
 {322}{}{Smoke}
 {323}{}{Ncr Area 1}
@@ -418,7 +418,7 @@
 {518}{}{Bill}
 {519}{}{una Guardia del Corpo di Bishop}
 {520}{}{John Bishop}
-{521}{}{Macchina da Casinò}
+{521}{}{Macchina da Casino'}
 {522}{}{un "Chop Shop Boy"}
 {523}{}{Chris Wright}
 {524}{}{Cody}
@@ -1193,7 +1193,7 @@
 {1293}{}{un Vecchio Ghoul}
 {1294}{}{un Seguace}
 {1295}{}{Elmo}
-{1296}{}{Acqua}
+{1296}{}{Bagno}
 {1297}{}{Croce}
 {1298}{}{Aratro}
 {1299}{}{Aratro}

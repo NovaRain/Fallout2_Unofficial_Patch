@@ -59,7 +59,7 @@
 {3000}{}{10mm AP}
 {3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{Un caricatore di munizioni, calibro .44 Magnum, punta cava.}
+{3101}{}{Un caricatore di munizioni, calibro .44 magnum, punta cava.}
 {3200}{}{Gel per Lanciafiamme}
 {3201}{}{Un cilindro contenente un liquido estremamente infiammabile, usato come carburante per lanciafiamme.}
 {3300}{}{14mm AP}
@@ -219,7 +219,7 @@
 {11000}{}{Psichiatra}
 {11001}{}{Una fiala monodose riempita con strane sostanze chimiche di probabile origine militare. Dovrebbe aumentare il potenziale in combattimento di un soldato.}
 {11100}{}{.44 magnum FMJ}
-{11101}{}{Un caricatore di munizioni, calibro .44 Magnum, full metal jacket.}
+{11101}{}{Un caricatore di munizioni, calibro .44 magnum, full metal jacket.}
 {11200}{}{Urna}
 {11201}{}{Una splendida urna dorata, con il nome "Harriet" inciso sul davanti e con un pugno di cenere all'interno.}
 {11300}{}{Saio}
@@ -251,7 +251,7 @@
 {12600}{}{Fiaschetta d'Acqua}
 {12601}{}{Un contenitore per raccogliere e conservare acqua o altri liquidi.}
 {12700}{}{Corda}
-{12701}{}{Una fune sottile ma robusta. Circa 45 piedi di lunghezza.}
+{12701}{}{Una fune spessa e robusta. Circa 45 piedi di lunghezza.}
 {12800}{}{Contenitore}
 {12801}{}{Il contenitore tipo. Contiene oggetti, giace ai piedi del letto, puo' essere chiuso a chiave.}
 {12900}{}{Contenitore}
@@ -545,7 +545,7 @@
 {27800}{}{Selce}
 {27801}{}{Una pietra usata per affilare armi.}
 {27900}{}{Interfaccia Neurale}
-{27901}{}{E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di una presa standard che permette di connetterlo a un computer. Comunque Ã¨ rotto.}
+{27901}{}{E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di una presa standard che permette di connetterlo a un computer. Comunque e' rotto.}
 {28000}{}{Lancia Affilata}
 {28001}{}{Un'asta con la punta affilata. Il manico e' di legno, mentre la punta e' d'acciaio lavorato. Min FZ: 4.}
 {28100}{}{Occhio di Dixon}

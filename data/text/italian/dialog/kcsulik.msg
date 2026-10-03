@@ -422,7 +422,7 @@
 {3011}{}{Che cosa ti aspetti da noi?}
 {3012}{}{Non e' carino.}
 {3013}{}{Grazie mille.}
-{3014}{}{Questo è un bene.}
+{3014}{}{Questo e' un bene.}
 {3015}{}{Questo non va bene.}
 {3016}{}{Abbiamo un buon presentimento.}
 {3017}{}{Abbiamo un cattivo presentimento.}

@@ -9,7 +9,7 @@
 {206}{}{Jules fara' meglio a mandarci presto un po' di persone arrapate... e danarose.}
 {215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw.}
 {216}{}{Bentornato!}
-{217}{}{Ma guarda un po’, il più famoso pugile di Reno!}
+{217}{}{Ma guarda un po’, il piu' famoso pugile di Reno!}
 {218}{}{Mi stavo proprio chiedendo quand'e' che Mr. }
 {219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo!}
 {220}{}{ Che cosa desideri oggi?}

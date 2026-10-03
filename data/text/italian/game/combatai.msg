@@ -750,7 +750,7 @@
 {2057}{}{Oh, si', sono cattivo, sono cattivo.}
 {2058}{}{Ti faro' fuori!}
 {2059}{}{Io sono... ehm... un duro. Faresti bene a stare attento.}
-{2060}{}{Sono più furbo di quanto sembri.}
+{2060}{}{Sono piu' furbo di quanto sembri.}
 {2061}{}{Mi hai mancato!}
 {2062}{}{Wow, poteva farmi male!}
 {2063}{}{Whew! Sono ancora vivo!}
@@ -1208,7 +1208,7 @@
 {3100}{}{Devo andarmene da qui!}
 {3101}{}{Tornero'...}
 {3102}{}{Non mi ammazzerai oggi!}
-{3103}{}{A dopo, bastardo!}
+{3103}{}{A dopo, normale!}
 {3104}{}{Sentirai ancora parlare di me!}
 {3105}{}{La pagherai per questo -- piu' tardi!}
 {3106}{}{Non moriro' due volte.}
@@ -1434,7 +1434,7 @@
 {12100}{}{Devo andarmene da qui!}
 {12101}{}{Tornero'...}
 {12102}{}{Non mi ammazzerai oggi!}
-{12103}{}{A dopo, bastardo!}
+{12103}{}{A dopo, normale!}
 {12104}{}{Sentirai ancora parlare di me!}
 {12105}{}{La pagherai per questo -- piu' tardi!}
 {12120}{}{Sei storia!}
@@ -2285,7 +2285,7 @@
 {36505}{}{}
 {36520}{}{Kaga e' pronto ad affrontarti adesso.}
 {36521}{}{Sei un moscerino al confronto di Kaga.}
-{36522}{}{Kaga ti manderà alla tua prossima vita!}
+{36522}{}{Kaga ti mandera' alla tua prossima vita!}
 {36523}{}{Mancherai a Kaga.}
 {36540}{}{Assaggia l'ira di Kaga!}
 {36541}{}{Kaga diventera' famoso per averti ucciso!}

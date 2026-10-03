@@ -38,7 +38,7 @@
 {280}{}{Non molto. Scusa il disturbo.}
 {290}{}{Non hai mai sentito parlare della Famiglia Wright? Devi aver passato troppo tempo nel deserto, allora. Gli Wright sono la piu' grossa famiglia criminale di Reno. Presto domineremo questa citta'.}
 {291}{}{Davvero? Sembra proprio che la famiglia Wright abbia tutte le carte in regola. Avete bisogno di un paio di braccia in piu'?}
-{292}{}{Veramente avevo l'impressione che fosse una delle famiglie piu' deboli... Voglio dire, vendono solo alcol e non hanno un casino ne' spacciano droga. Come se non bastasse non sono numerosi quanto le altre famiglie.}
+{292}{}{Veramente avevo l'impressione che fosse una delle famiglie piu' deboli... Voglio dire, vendono solo alcolici e non hanno un casino' ne' spacciano droga e i loro uomini sono pochi, confrontati con quelli delle altre famiglie.}
 {293}{}{A proposito di famiglia... ho conosciuto tua madre.}
 {294}{}{Puoi dirmi cos'e' successo a tuo fratello Richard?}
 {295}{}{Davvero? Molto interessante... beh, scusa, ma devo andare.}
