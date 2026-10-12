@@ -3,24 +3,24 @@
 {150}{}{Det här verkar vara ägaren till det här stället.}
 {151}{}{Det här är Frankie. Han äger det här stället.}
 {152}{}{[TALA]}
-{153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
- a hundred miles! Everyone crawls into The Hole when it's time to let loose.
- Now don't you be causing too much trouble, y'hear?}
-{154}{}{I hear ya.}
-{155}{}{Yeah, okay. Whatever.}
-{156}{}{I see why you call this place "The Hole."}
+{153}{}{Jag heter Frankie och du står just nu i ”Hålet”. Den bästa baren inom
+hundra mils radie! Alla kravlar till Hålet när det är dags att släppa loss.
+Se nu till att inte ställa till med för mycket bråk, hörru?}
+{154}{}{Jarrå.}
+{155}{}{Visst, okej. Struntsamma.}
+{156}{}{Jag förstår varför ni kallar det här stället för ”Hålet”.}
 {157}{}{Vadå?}
-{158}{}{What's yer pleasure?}
+{158}{}{Vad ska'ru ha?}
 {159}{}{Whisky.}
 {160}{}{Kvinnor.}
 {161}{}{Män.}
 {162}{}{Info.}
-{163}{}{Nothing today. Bye.}
-{164}{}{Wee wee.}
-{165}{}{Hey! You better shut your hole!}
+{163}{}{Inget idag. Hej då.}
+{164}{}{Pinka.}
+{165}{}{Hallå! Bäst för dig att stänga ditt hål!}
 {166}{}{Or what?}
-{167}{}{Just do your job and get me a drink.}
-{168}{}{I'll just leave instead.}
+{167}{}{Gör bara ditt jobb och hämta en drink åt mig.}
+{168}{}{Då går jag hellre.}
 {169}{}{Whisky kostar $}
 {170}{}{ per shot.}
 {171}{}{Här får du dina pengar.}
