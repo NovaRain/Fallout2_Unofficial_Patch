@@ -35,34 +35,34 @@ Se nu till att inte ställa till med för mycket bråk, hörru?}
 {180}{}{I'll come back.}
 {181}{}{Vad vill du?}
 {182}{}{Whisky.}
-{183}{}{Nothing. I'm leaving.}
+{183}{}{Ingenting. Nu drar jag.}
 {184}{}{Wahdo a peedee!}
-{185}{}{And stay out!}
+{185}{}{Och håll dig borta!}
 {186}{}{[UTGÅNG]}
-{187}{}{I don't want people like you in my place. Get out!}
-{188}{}{Alright, I'm going.}
+{187}{}{Jag vill inte ha sådana som dig här. Stick härifrån!}
+{188}{}{Okej, då går jag.}
 {189}{}{Wah.}
-{190}{}{Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!}
-{191}{}{Well, you should try to find out.}
-{192}{}{I could find out.}
-{193}{}{I know how she does it.}
+{190}{}{New Reno-familjerna tar skyhöga priser för sin sprit. Jag fattar inte hur hon klarar det!}
+{191}{}{Tja, du borde försöka ta reda på det.}
+{192}{}{Jag skulle kunna ta reda på det.}
+{193}{}{Jag vet hur hon gör det.}
 {194}{}{Då köper jag bara whisky av henne.}
-{195}{}{If you find out where she gets her booze, I'll pay you $100.}
-{196}{}{OK, I'll find out.}
-{197}{}{Nope, not interested.}
-{198}{}{So, how does Becky do it? How does she sell her booze so cheap?}
-{199}{}{She has a still.}
-{200}{}{I don't know yet. I'll come back.}
-{201}{}{What? A still! Damn. Hey, here's the $100, and I'll pay you $500 to destroy it. You can use my crowbar, in the back room over there. That'll do a number on her stupid little still!}
-{202}{}{I already did.}
-{203}{}{OK, I'll destroy it.}
-{204}{}{No way. That's too much. I got the information. You handle it.}
-{205}{}{No, I have a better idea.}
-{206}{}{So, is the still destroyed? Like I said, just use my crowbar on it. That'll really fuck it up fast.}
-{207}{}{Yes, it is.}
-{208}{}{I have a better idea.}
-{209}{}{Nope. I'll let you know when it is.}
-{210}{}{Then here's the $500. Thanks.}
+{195}{}{Om du tar reda på var hon får tag på spriten, betalar jag dig $100.}
+{196}{}{Okej, jag ska ta reda på det.}
+{197}{}{Näpp, inte intresserad.}
+{198}{}{Så, hur gör Becky det? Hur kan hon sälja sin sprit så billigt?}
+{199}{}{Hon har en destillator.}
+{200}{}{Jag vet inte än. Jag kommer tillbaka.}
+{201}{}{Va? En destillationsapparat! Fan också. Hördu, här har du $100, och jag betalar dig $500 om du förstör den. Du kan använda min kofot – den står där borta i skrubben. Det kommer verkligen att sätta stopp för hennes dumma lilla destillationsapparat!}
+{202}{}{Det har jag redan gjort.}
+{203}{}{Okej, jag ska förstöra den.}
+{204}{}{Aldrig i livet. Det är för mycket. Jag fick tag på informationen. Du får ta hand om det.}
+{205}{}{Nej, jag har en bättre idé.}
+{206}{}{Så, är destilleriet förstört nu? Som jag sa, använd bara min kofot på den. Då blir den verkligen förstörd på nolltid.}
+{207}{}{Ja, det är det.}
+{208}{}{Jag har en bättre idé.}
+{209}{}{Nej. Jag säger till när det är gjort.}
+{210}{}{Här har du dina $500. Tack.}
 {211}{}{Nice doing business with you.}
 {212}{}{You know, Frankie, she's just going to build another one.}
 {213}{}{Tack, hej då.}
