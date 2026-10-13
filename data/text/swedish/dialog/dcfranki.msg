@@ -30,8 +30,8 @@ Se nu till att inte ställa till med för mycket bråk, hörru?}
 {175}{}{Nåt annat?}
 {176}{}{Ja.}
 {177}{}{Nej, tack.}
-{178}{}{You don't have enough money! This ain't no charity!}
-{179}{}{Oh, sorry. I'm low on funds.}
+{178}{}{Du har inte tillräckligt med pengar! Det här är ingen välgörenhet!}
+{179}{}{Åh, förlåt. Jag har ont om pengar.}
 {180}{}{I'll come back.}
 {181}{}{Vad vill du?}
 {182}{}{Whisky.}
