@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-13 08:17+0000\n"
+"PO-Revision-Date: 2026-10-13 12:17+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -18346,7 +18346,7 @@ msgstr "Åh, förlåt. Jag har ont om pengar."
 
 #: dialog/dcfranki.msg:183
 msgid "Nothing. I'm leaving."
-msgstr ""
+msgstr "Ingenting. Nu drar jag."
 
 #: dialog/dcfranki.msg:184
 msgid "Wahdo a peedee!"
@@ -18354,7 +18354,7 @@ msgstr ""
 
 #: dialog/dcfranki.msg:185
 msgid "And stay out!"
-msgstr ""
+msgstr "Och håll dig borta!"
 
 #: dialog/dcfranki.msg:186
 msgid "[EXIT]"
@@ -18362,27 +18362,29 @@ msgstr "[UTGÅNG]"
 
 #: dialog/dcfranki.msg:187
 msgid "I don't want people like you in my place. Get out!"
-msgstr ""
+msgstr "Jag vill inte ha sådana som dig här. Stick härifrån!"
 
 #: dialog/dcfranki.msg:188
 msgid "Alright, I'm going."
-msgstr ""
+msgstr "Okej, då går jag."
 
 #: dialog/dcfranki.msg:190
 msgid "Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!"
 msgstr ""
+"New Reno-familjerna tar skyhöga priser för sin sprit. Jag fattar inte hur "
+"hon klarar det!"
 
 #: dialog/dcfranki.msg:191
 msgid "Well, you should try to find out."
-msgstr ""
+msgstr "Tja, du borde försöka ta reda på det."
 
 #: dialog/dcfranki.msg:192
 msgid "I could find out."
-msgstr ""
+msgstr "Jag skulle kunna ta reda på det."
 
 #: dialog/dcfranki.msg:193
 msgid "I know how she does it."
-msgstr ""
+msgstr "Jag vet hur hon gör det."
 
 #: dialog/dcfranki.msg:194
 msgid "I'll just go buy whiskey from her."
@@ -18390,67 +18392,75 @@ msgstr "Då köper jag bara whisky av henne."
 
 #: dialog/dcfranki.msg:195
 msgid "If you find out where she gets her booze, I'll pay you $100."
-msgstr ""
+msgstr "Om du tar reda på var hon får tag på spriten, betalar jag dig $100."
 
 #: dialog/dcfranki.msg:196
 msgid "OK, I'll find out."
-msgstr ""
+msgstr "Okej, jag ska ta reda på det."
 
 #: dialog/dcfranki.msg:197
 msgid "Nope, not interested."
-msgstr ""
+msgstr "Näpp, inte intresserad."
 
 #: dialog/dcfranki.msg:198
 msgid "So, how does Becky do it? How does she sell her booze so cheap?"
-msgstr ""
+msgstr "Så, hur gör Becky det? Hur kan hon sälja sin sprit så billigt?"
 
 #: dialog/dcfranki.msg:199
 msgid "She has a still."
-msgstr ""
+msgstr "Hon har en destillator."
 
 #: dialog/dcfranki.msg:200
 msgid "I don't know yet. I'll come back."
-msgstr ""
+msgstr "Jag vet inte än. Jag kommer tillbaka."
 
 #: dialog/dcfranki.msg:201
 msgid "What? A still! Damn. Hey, here's the $100, and I'll pay you $500 to destroy it. You can use my crowbar, in the back room over there. That'll do a number on her stupid little still!"
 msgstr ""
+"Va? En destillationsapparat! Fan också. Hördu, här har du $100, och jag "
+"betalar dig $500 om du förstör den. Du kan använda min kofot – den står där "
+"borta i skrubben. Det kommer verkligen att sätta stopp för hennes dumma "
+"lilla destillationsapparat!"
 
 #: dialog/dcfranki.msg:202
 msgid "I already did."
-msgstr ""
+msgstr "Det har jag redan gjort."
 
 #: dialog/dcfranki.msg:203
 msgid "OK, I'll destroy it."
-msgstr ""
+msgstr "Okej, jag ska förstöra den."
 
 #: dialog/dcfranki.msg:204
 msgid "No way. That's too much. I got the information. You handle it."
 msgstr ""
+"Aldrig i livet. Det är för mycket. Jag fick tag på informationen. Du får ta "
+"hand om det."
 
 #: dialog/dcfranki.msg:205
 msgid "No, I have a better idea."
-msgstr ""
+msgstr "Nej, jag har en bättre idé."
 
 #: dialog/dcfranki.msg:206
 msgid "So, is the still destroyed? Like I said, just use my crowbar on it. That'll really fuck it up fast."
 msgstr ""
+"Så, är destilleriet förstört nu? Som jag sa, använd bara min kofot på den. "
+"Då blir den verkligen förstörd på nolltid."
 
 #: dialog/dcfranki.msg:207
 msgid "Yes, it is."
-msgstr ""
+msgstr "Ja, det är det."
 
 #: dialog/dcfranki.msg:208
 msgid "I have a better idea."
-msgstr ""
+msgstr "Jag har en bättre idé."
 
 #: dialog/dcfranki.msg:209
 msgid "Nope. I'll let you know when it is."
-msgstr ""
+msgstr "Nej. Jag säger till när det är gjort."
 
 #: dialog/dcfranki.msg:210
 msgid "Then here's the $500. Thanks."
-msgstr ""
+msgstr "Här har du dina $500. Tack."
 
 #: dialog/dcfranki.msg:211 dialog/scdrvpay.msg:121
 msgid "Nice doing business with you."
