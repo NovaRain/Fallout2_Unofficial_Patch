@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-12 16:17+0000\n"
+"PO-Revision-Date: 2026-10-13 08:17+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -18338,11 +18338,11 @@ msgstr "Nej, tack."
 
 #: dialog/dcfranki.msg:178
 msgid "You don't have enough money! This ain't no charity!"
-msgstr ""
+msgstr "Du har inte tillräckligt med pengar! Det här är ingen välgörenhet!"
 
 #: dialog/dcfranki.msg:179
 msgid "Oh, sorry. I'm low on funds."
-msgstr ""
+msgstr "Åh, förlåt. Jag har ont om pengar."
 
 #: dialog/dcfranki.msg:183
 msgid "Nothing. I'm leaving."
