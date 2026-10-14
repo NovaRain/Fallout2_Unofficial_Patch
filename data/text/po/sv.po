@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-14 07:17+0000\n"
+"PO-Revision-Date: 2026-10-14 13:18+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -24965,7 +24965,7 @@ msgstr ""
 
 #: dialog/dcslaver.msg:311 dialog/hcsteve.msg:150
 msgid "Hi again."
-msgstr ""
+msgstr "Hej igen."
 
 #: dialog/dcslaver.msg:312
 msgid "Going to go on another run?"
