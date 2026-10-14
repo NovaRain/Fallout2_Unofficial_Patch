@@ -63,28 +63,28 @@ Se nu till att inte ställa till med för mycket bråk, hörru?}
 {208}{}{Jag har en bättre idé.}
 {209}{}{Nej. Jag säger till när det är gjort.}
 {210}{}{Här har du dina $500. Tack.}
-{211}{}{Nice doing business with you.}
-{212}{}{You know, Frankie, she's just going to build another one.}
+{211}{}{Trevligt att göra affärer med dig.}
+{212}{}{Du vet, Frankie, hon kommer bara att bygga en till.}
 {213}{}{Tack, hej då.}
-{214}{}{Damn! Well, in the mean time she'll have no booze.}
-{215}{}{Why fight her, Frankie? Join her.}
-{216}{}{Think. Where else can you get liquor?}
+{214}{}{Fan också! Nåja, under tiden får hon i alla fall inte dricka.}
+{215}{}{Varför bråka med henne, Frankie? Samarbeta med henne istället.}
+{216}{}{Tänk efter. Var annars kan man köpa sprit?}
 {217}{}{Vad menar du?}
-{218}{}{Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too.}
-{219}{}{I don't want to do this.}
+{218}{}{Köp sprit av henne. Det är billigare än i New Reno, så du tjänar mer pengar också.}
+{219}{}{Jag vill inte göra det här.}
 {220}{}{Never mind.}
-{221}{}{Look, I just want her still destroyed. Will you do it?}
-{222}{}{Alright, I will.}
-{223}{}{No, I won't. Good bye.}
-{224}{}{Maybe you're right. I'll talk to her. Thanks.}
-{225}{}{Hey, what are friends for?}
+{221}{}{Hör här, jag vill bara att hennes apparat ska bli helt förstörd. Kan du fixa det?}
+{222}{}{Okej, det ska jag göra.}
+{223}{}{Nej, det tänker jag inte. Hej då.}
+{224}{}{Du har kanske rätt. Jag ska prata med henne. Tack.}
+{225}{}{Du, vad är vänner till för?}
 {226}{}{Hej då.}
-{227}{}{Information I do not have.}
-{228}{}{Really? How about why Becky's drinks are so much cheaper than yours?}
-{229}{}{I thought bartenders knew everything.}
-{230}{}{Then I'm in the wrong place. Bye.}
-{231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
-{232}{}{Wait, that's not what I want!}
+{227}{}{Den informationen har jag inte.}
+{228}{}{Verkligen? Men varför är Beckys drinkar så mycket billigare än dina?}
+{229}{}{Jag trodde att bartendrar visste allt.}
+{230}{}{Då är jag på fel ställe. Hej då.}
+{231}{}{Gå och prata med Sheila. Hej, Sheila, du har en kund!}
+{232}{}{Vänta, det är inte det jag vill!}
 {233}{}{Tack. Hej då.}
 {234}{}{Ja, det tror jag verkligen. Det måste vara en upplevelse för dig att försöka få tag på män. Leta vidare någon annanstans, syster. Välgörenhet är inte för mig.}
 {235}{}{Okej! Något annat då.}
