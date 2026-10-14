@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-13 12:17+0000\n"
+"PO-Revision-Date: 2026-10-14 07:17+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -18464,11 +18464,11 @@ msgstr "Här har du dina $500. Tack."
 
 #: dialog/dcfranki.msg:211 dialog/scdrvpay.msg:121
 msgid "Nice doing business with you."
-msgstr ""
+msgstr "Trevligt att göra affärer med dig."
 
 #: dialog/dcfranki.msg:212
 msgid "You know, Frankie, she's just going to build another one."
-msgstr ""
+msgstr "Du vet, Frankie, hon kommer bara att bygga en till."
 
 #: dialog/dcfranki.msg:213 dialog/dcmom.msg:564 dialog/dcmom.msg:582
 #: dialog/dcrebecc.msg:501 dialog/fcjuavki.msg:126
@@ -18477,15 +18477,15 @@ msgstr "Tack, hej då."
 
 #: dialog/dcfranki.msg:214
 msgid "Damn! Well, in the mean time she'll have no booze."
-msgstr ""
+msgstr "Fan också! Nåja, under tiden får hon i alla fall inte dricka."
 
 #: dialog/dcfranki.msg:215
 msgid "Why fight her, Frankie? Join her."
-msgstr ""
+msgstr "Varför bråka med henne, Frankie? Samarbeta med henne istället."
 
 #: dialog/dcfranki.msg:216
 msgid "Think. Where else can you get liquor?"
-msgstr ""
+msgstr "Tänk efter. Var annars kan man köpa sprit?"
 
 #: dialog/dcfranki.msg:217 dialog/ecabolst.msg:361 dialog/gcharold.msg:130
 #: dialog/gclenny.msg:291 dialog/gcwooz.msg:451 dialog/ncjimmyj.msg:716
@@ -18500,54 +18500,58 @@ msgstr "Vad menar du?"
 #: dialog/dcfranki.msg:218
 msgid "Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too."
 msgstr ""
+"Köp sprit av henne. Det är billigare än i New Reno, så du tjänar mer pengar "
+"också."
 
 #: dialog/dcfranki.msg:219
 msgid "I don't want to do this."
-msgstr ""
+msgstr "Jag vill inte göra det här."
 
 #: dialog/dcfranki.msg:221
 msgid "Look, I just want her still destroyed. Will you do it?"
 msgstr ""
+"Hör här, jag vill bara att hennes apparat ska bli helt förstörd. Kan du fixa "
+"det?"
 
 #: dialog/dcfranki.msg:222
 msgid "Alright, I will."
-msgstr ""
+msgstr "Okej, det ska jag göra."
 
 #: dialog/dcfranki.msg:223
 msgid "No, I won't. Good bye."
-msgstr ""
+msgstr "Nej, det tänker jag inte. Hej då."
 
 #: dialog/dcfranki.msg:224
 msgid "Maybe you're right. I'll talk to her. Thanks."
-msgstr ""
+msgstr "Du har kanske rätt. Jag ska prata med henne. Tack."
 
 #: dialog/dcfranki.msg:225
 msgid "Hey, what are friends for?"
-msgstr ""
+msgstr "Du, vad är vänner till för?"
 
 #: dialog/dcfranki.msg:227
 msgid "Information I do not have."
-msgstr ""
+msgstr "Den informationen har jag inte."
 
 #: dialog/dcfranki.msg:228
 msgid "Really? How about why Becky's drinks are so much cheaper than yours?"
-msgstr ""
+msgstr "Verkligen? Men varför är Beckys drinkar så mycket billigare än dina?"
 
 #: dialog/dcfranki.msg:229
 msgid "I thought bartenders knew everything."
-msgstr ""
+msgstr "Jag trodde att bartendrar visste allt."
 
 #: dialog/dcfranki.msg:230
 msgid "Then I'm in the wrong place. Bye."
-msgstr ""
+msgstr "Då är jag på fel ställe. Hej då."
 
 #: dialog/dcfranki.msg:231
 msgid "Go talk to Sheila. Hey, Sheila, you got a customer!"
-msgstr ""
+msgstr "Gå och prata med Sheila. Hej, Sheila, du har en kund!"
 
 #: dialog/dcfranki.msg:232
 msgid "Wait, that's not what I want!"
-msgstr ""
+msgstr "Vänta, det är inte det jag vill!"
 
 #: dialog/dcfranki.msg:234
 msgid "Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities."
@@ -20435,11 +20439,11 @@ msgstr ""
 #: dialog/dclara.msg:203 dialog/hcbnkgrd.msg:106 dialog/hcbnkgrd.msg:140
 #: dialog/ocjimmy.msg:107 dialog/scfelix.msg:110
 msgid "Just looking around."
-msgstr ""
+msgstr "Kollar bara runt."
 
 #: dialog/dclara.msg:204 dialog/dcrebecc.msg:272
 msgid "I'm looking for a merchant named Vic."
-msgstr ""
+msgstr "Jag letar efter en handlare som heter Vic."
 
 #: dialog/dclara.msg:205
 msgid "Aruh."
@@ -20451,11 +20455,11 @@ msgstr "Rara."
 
 #: dialog/dclara.msg:220
 msgid "We don't have any doctors in town and I can't help you."
-msgstr ""
+msgstr "Det finns inga läkare här i stan, och jag kan inte hjälpa dig."
 
 #: dialog/dclara.msg:221
 msgid "Sorry, I still don't understand."
-msgstr ""
+msgstr "Ursäkta, jag förstår fortfarande inte."
 
 #: dialog/dclara.msg:222
 msgid "Ack."
