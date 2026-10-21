@@ -615,6 +615,8 @@ position=huddle, spacing:2
 type_00=ratio:70%, pid:16777334, Script:617                                     ; Mutated Pig Rat
 type_01=ratio:20%, pid:16777332, Script:617                                     ; Mutated Rat
 type_02=Dead, ratio:10%, pid:16777257                                                 ; Dead Tough Female Guard
+; Pig rats' own team, which the rat script keeps, so they can fight the mutated molerats
+team_num=221   ; TEAM_RND_PIG_RATS
 position=huddle, spacing:2
 
 [Encounter: WILD2_Hermit]
