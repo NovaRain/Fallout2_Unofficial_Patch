@@ -9,8 +9,8 @@ upu_italian.dat
 upu_polish.dat
 upu_portuguese.dat
 upu_russian.dat
-upu_spanish.dat
 upu_russian_sound.dat
+upu_spanish.dat
 rpu_enhanced_worldmap.dat
 rpu_extended_flamer.dat
 rpu_rifle_animations.dat
