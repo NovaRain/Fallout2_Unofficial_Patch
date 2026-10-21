@@ -1574,7 +1574,9 @@ enc_13=Chance:6%,Enc:(4-8) MOD_Wild_Brahmin AMBUSH Player
 enc_14=Chance:6%,Enc:(5-7) KLAD_Scorpions AMBUSH Player
 enc_15=Chance:3%,Enc:(3-4) MOD_Moonshiners FIGHTING (2-4) DMRV_Highwaymen
 enc_16=Chance:2%,Enc:(6-9) DMRV_Highwaymen FIGHTING (3-6) KLA_Homeless
-enc_17=Chance:2%,Enc:(3-4) MOD_Moonshiners AND (3-5) KLA_Farmers
+; The engine makes the groups of a two-group encounter fight each other, AND or not. Player spawns nothing but
+; counts as a third group, which keeps these two peaceful.
+enc_17=Chance:2%,Enc:(3-4) MOD_Moonshiners AND (3-5) KLA_Farmers AND Player
 enc_18=Chance:3%,Enc:(5-8) MOD_Mantis FIGHTING (3-5) KLA_Farmers
 enc_19=Chance:2%,Enc:(3-5) MOD_Moonshiners FIGHTING (3-6) KLA_Farmers
 enc_20=Chance:4%,Enc:(4-7) MOD_Mantis FIGHTING (5-8) MOD_Wild_Brahmin
