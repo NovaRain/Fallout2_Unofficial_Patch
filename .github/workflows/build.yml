@@ -30,6 +30,8 @@ jobs:
           city_path: data/data/city.txt
           maps_path: data/data/maps.txt
           worldmap_path: data/data/worldmap.txt
+          quests_path: data/data/quests.txt
+          map_gam_dir: data/maps
           # Script sets that may share an encounter: their critters end up on one team (from the scripts or the
           # encounter's team_num), except where noted.
           worldmap_script_sets: |
