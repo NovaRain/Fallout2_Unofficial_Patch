@@ -15,5 +15,5 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
-      - uses: BGforgeNet/BGforge-MLS/actions/binary@d8738e929b435efb3692866787439df96026aeca # actions/binary/v1.0.2
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: BGforgeNet/BGforge-MLS/actions/binary@2b54598c625611e68959ce2498c24f48dd681d9e # actions/binary/v1.0.8
