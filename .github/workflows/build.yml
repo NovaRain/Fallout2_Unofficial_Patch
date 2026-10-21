@@ -19,12 +19,14 @@ jobs:
         uses: ludeeus/action-shellcheck@00cae500b08a931fb5698e11e79bfbd38e612a38 # 2.0.0
 
       - name: Fallout tests
-        uses: BGforgeNet/fallout-tests@67a424fd4fc46cf1dd1eea24dad8a4f211d4c6bb # main
+        uses: BGforgeNet/fallout-tests@c20663b1e96542741986d21006a7e21be42b2eb8 # main
         with:
           scripts_h: scripts_src/headers/scripts.h
           scripts_lst: data/scripts/scripts.lst
           scripts_dir: scripts_src
           dialog_dir: data/text/english/dialog
+          city_path: data/data/city.txt
+          maps_path: data/data/maps.txt
 
       - name: Install packages
         run: |
