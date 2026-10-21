@@ -20,7 +20,8 @@ jobs:
         uses: ludeeus/action-shellcheck@00cae500b08a931fb5698e11e79bfbd38e612a38 # 2.0.0
 
       - name: Fallout tests
-        uses: BGforgeNet/fallout-tests@c20663b1e96542741986d21006a7e21be42b2eb8 # main
+        # Follows main, as RPU does, so new checks apply here as soon as they land; BGforgeNet maintains both.
+        uses: BGforgeNet/fallout-tests@main
         with:
           scripts_h: scripts_src/headers/scripts.h
           scripts_lst: data/scripts/scripts.lst
