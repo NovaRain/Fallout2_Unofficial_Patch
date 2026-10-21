@@ -1029,6 +1029,34 @@ type_00=ratio:100%, pid:16777598, Script:617                            ; Ants
 [Encounter: Game_Foreshadowing]
 type_00=ratio:0%, pid:19
 
+; Dogs owned by an encounter's people: tame, unscripted and on the owners' team. DVMV_Wild_Dogs run the wild dog
+; script, which puts them on their own team and attacks the player on sight.
+
+[Encounter: VPAT_Patrol_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=99    ; TEAM_VAULT_PATROL
+position=huddle, spacing:3
+
+[Encounter: VPAT_Slaver_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=137   ; TEAM_RND_SLAVER
+position=huddle, spacing:3
+
+[Encounter: WILD2_Hermit_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=180   ; TEAM_RND_HERMIT
+position=huddle, spacing:3
+
+[Encounter: DVMV_Highwaymen_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=136   ; TEAM_RND_HIGHWAYMEN
+position=huddle, spacing:3
+
+[Encounter: DVMV_Robber_Dogs]
+type_00=ratio:100%, pid:16777225                                       ; Dog
+team_num=135   ; TEAM_RND_ROBBER
+position=huddle, spacing:3
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;   End of Newly added Encounter Types    ;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1556,8 +1584,8 @@ enc_26=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If
 [Encounter Table 20]
 lookup_name=DVMV_M                                                              ; Den - Vault City - Modoc Trade Route
 maps=Mountain Encounter 3, Mountain Encounter 4, Cavern Encounter 0, Cavern Encounter 3
-enc_00=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Wild_Dogs AMBUSH Player
-enc_01=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Wild_Dogs AMBUSH Player
+enc_00=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Highwaymen_Dogs AMBUSH Player
+enc_01=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Robber_Dogs AMBUSH Player
 enc_02=Chance:8%,Enc:(3-6) DVMV_Robbers AMBUSH Player
 enc_03=Chance:8%,Enc:(3-6) DVMV_Highwaymen AMBUSH Player
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
@@ -1587,7 +1615,7 @@ maps=Desert Encounter 11, Desert Encounter 6, Desert Encounter 9, Desert Encount
 enc_00=Chance:2%,Counter:1,Special,Map:Special Toxic Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(607) < 1)
 enc_01=Chance:2%,Counter:1,Special,Map:Special Pariahs Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(608) < 1)
 enc_02=Chance:2%,Counter:1,Special,Map:Special Mad Brahmin Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(609) < 1)
-enc_03=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Wild_Dogs AMBUSH Player
+enc_03=Chance:8%,Enc:(3-6) DVMV_Highwaymen AND (2-5) DVMV_Highwaymen_Dogs AMBUSH Player
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
@@ -1597,7 +1625,7 @@ enc_09=Chance:15%,Enc:(2-4) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(0) < 
 enc_10=Chance:15%,Enc:(2-4) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 12) And If(Player(Level) < 19)
 enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 18)
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
-enc_13=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Wild_Dogs AMBUSH Player
+enc_13=Chance:8%,Enc:(2-5) DVMV_Robbers AND (3-6) DVMV_Robber_Dogs AMBUSH Player
 enc_14=Chance:8%,Enc:(3-6) DVMV_Robbers AMBUSH Player
 enc_15=Chance:8%,Enc:(3-6) DVMV_Highwaymen AMBUSH Player
 enc_16=Chance:1%,Enc:(5-8) DVMV_Mantis_Swarm AND (2-5) ARRO_Spore_Plants AMBUSH Player
@@ -1693,10 +1721,10 @@ enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -50
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
 enc_13=Chance:10%,Enc:(3-6) WILD2_Mutated_Pig_Rats AMBUSH Player
 enc_14=Chance:10%,Enc:(4-8) ARRO_Spore_Plants
-enc_15=Chance:10%,Enc:(3-5) DVMV_Wild_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
+enc_15=Chance:10%,Enc:(3-5) WILD2_Hermit_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
 enc_16=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) DVMV_Wild_Dogs
 enc_17=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) WILD2_Mutated_Pig_Rats
-enc_18=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) DVMV_Wild_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
+enc_18=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) WILD2_Hermit_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
 enc_19=Chance:2%,Enc:(3-5) WILD2_Mutated_Molerats FIGHTING (4-6) WILD2_Mutated_Pig_Rats
 enc_20=Chance:2%,Enc:(5-9) WILD2_Mutated_Molerats FIGHTING (6-12) ARRO_Spore_Plants
 enc_21=Chance:2%,Enc:(3-5) WILD2_Mutated_Pig_Rats FIGHTING (5-8) DVMV_Wild_Dogs
@@ -1715,7 +1743,7 @@ maps=Mountain Encounter 1, Mountain Encounter 2, Cavern Encounter 0, Cavern Enco
 enc_00=Chance:10%,Enc:(2-4) WILD2_Mutated_Molerats AMBUSH Player
 enc_01=Chance:10%,Enc:(3-6) WILD2_Mutated_Pig_Rats AMBUSH Player
 enc_02=Chance:10%,Enc:(6-8) ARRO_Spore_Plants
-enc_03=Chance:10%,Enc:(3-5) DVMV_Wild_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
+enc_03=Chance:10%,Enc:(3-5) WILD2_Hermit_Dogs AND (1-2) WILD2_Hermit FIGHTING (5-8) WILD2_Mutated_Molerats
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
@@ -1727,7 +1755,7 @@ enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -50
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
 enc_13=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) DVMV_Wild_Dogs
 enc_14=Chance:1%,Enc:(1-2) WILD2_Hermit FIGHTING (3-5) WILD2_Mutated_Pig_Rats
-enc_15=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) DVMV_Wild_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
+enc_15=Chance:1%,Enc:(1-2) WILD2_Hermit AND (3-5) WILD2_Hermit_Dogs FIGHTING (3-6) WILD2_Mutated_Molerats
 enc_16=Chance:2%,Enc:(3-5) WILD2_Mutated_Molerats FIGHTING (4-6) WILD2_Mutated_Pig_Rats
 enc_17=Chance:2%,Enc:(5-9) WILD2_Mutated_Molerats FIGHTING (6-12) ARRO_Spore_Plants
 enc_18=Chance:2%,Enc:(3-5) WILD2_Mutated_Pig_Rats FIGHTING (5-8) DVMV_Wild_Dogs
@@ -1738,7 +1766,7 @@ enc_21=Chance:3%,Counter:1,Special,Map:Special Holy Encounter 2,Enc:Special1, If
 [Encounter Table 26]                                                            ; Areas around Vault City
 lookup_name=VPat_M
 maps=Mountain Encounter 5, Mountain Encounter 6, Mountain Encounter 2, Mountain Encounter 3
-enc_00=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) DVMV_Wild_Dogs AMBUSH Player
+enc_00=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) VPAT_Slaver_Dogs AMBUSH Player
 enc_01=Chance:10%,Enc:(4-7) VPAT_Strong_Slavers AMBUSH Player
 enc_02=Chance:10%,Enc:(4-8) DMRV_Golden_Geckos AMBUSH Player
 enc_03=Chance:10%,Enc:(5-8) DVMV_Wild_Dogs AMBUSH Player
@@ -1751,7 +1779,7 @@ enc_09=Chance:15%,Enc:(2-4) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(0) < 
 enc_10=Chance:15%,Enc:(2-4) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 12) And If(Player(Level) < 19)
 enc_11=Chance:15%,Enc:(2-5) Bounty_Hunter_High AMBUSH Player, If(Global(0) < -500) And If(Player(Level) > 18)
 enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(386) < 6)
-enc_13=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) DVMV_Wild_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
+enc_13=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) VPAT_Patrol_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
 enc_14=Chance:1%,Enc:(4-7) VPAT_Strong_Slavers FIGHTING (5-8) DMRV_Golden_Geckos
 enc_15=Chance:10%,Enc:(5-8) VPAT_Patrol FIGHTING (4-6) VPAT_Strong_Slavers
 enc_16=Chance:1%,Enc:(3-5) VPAT_Patrol FIGHTING (5-8) DMRV_Golden_Geckos
@@ -1766,7 +1794,7 @@ maps=Desert Encounter 4, Desert Encounter 9, Desert Encounter 11, Desert Encount
 enc_00=Chance:2%,Counter:1,Special,Map:Special Toxic Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(607) < 1)
 enc_01=Chance:2%,Counter:1,Special,Map:Special Pariahs Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(608) < 1)
 enc_02=Chance:2%,Counter:1,Special,Map:Special Mad Brahmin Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(609) < 1)
-enc_03=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) DVMV_Wild_Dogs AMBUSH Player
+enc_03=Chance:10%,Enc:(3-6) VPAT_Strong_Slavers AND (3-4) VPAT_Slaver_Dogs AMBUSH Player
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
@@ -1779,7 +1807,7 @@ enc_12=Chance:10%,Enc:(4-7) Morton_Brother, If(Global(386) > 0) And If(Global(38
 enc_13=Chance:10%,Enc:(4-7) VPAT_Strong_Slavers AMBUSH Player
 enc_14=Chance:10%,Enc:(4-8) DMRV_Golden_Geckos AMBUSH Player
 enc_15=Chance:10%,Enc:(5-8) DVMV_Wild_Dogs AMBUSH Player
-enc_16=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) DVMV_Wild_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
+enc_16=Chance:5%,Enc:(3-6) VPAT_Patrol AND (2-4) VPAT_Patrol_Dogs FIGHTING (6-8) VPAT_Strong_Slavers
 enc_17=Chance:2%,Enc:(4-7) VPAT_Strong_Slavers FIGHTING (5-8) DMRV_Golden_Geckos
 enc_18=Chance:10%,Enc:(5-8) VPAT_Patrol FIGHTING (4-6) VPAT_Strong_Slavers
 enc_19=Chance:1%,Enc:(3-5) VPAT_Patrol FIGHTING (5-8) DMRV_Golden_Geckos
