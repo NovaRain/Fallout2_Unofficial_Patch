@@ -23,7 +23,6 @@ release/sfall-readme.txt
 release/translations/
 release/mods/*
 !release/mods/upu.ini
-!release/mods/mods_order.txt
 
 extra/bin/*
 extra/inno/Output
