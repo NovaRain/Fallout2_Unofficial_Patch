@@ -20,6 +20,6 @@ Current languages:
 * Polish, based on [patch ang2pl](https://fallout-corner.pl/pliki/) and [translation for RP 2.3.3](https://trzynasty-schron.net/forum/index.php?topic=8221.0).
 * Portuguese includes parts from translation by rsalvarenga found in [Drobovik's database](https://www.mediafire.com/?lkzw7gj9aeldc#lkzw7gj9aeldc).
 * Russian, based on [1C + Drobovik & Co](http://www.nuclear-city.com/index.php/topic/34-f2-killaps-restoration-project/). Text only. Download sound separately [here](https://github.com/BGforgeNet/Fallout2_Sound).
-* Spanish, based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d.
+* Spanish, based on [translation v1.0 by ClanDLAN](https://web.archive.org/web/20230130185819/http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d.
 
 If you want another language added into the [system](https://hive.bgforge.net/projects/fallout/up/) so that you can start translating into it, post on the [forum](https://forums.bgforge.net/viewtopic.php?f=9&t=21).
