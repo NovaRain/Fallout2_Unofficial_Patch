@@ -369,6 +369,7 @@ type_01=ratio:50%, pid:16777426, Item:273, Item:4, Item:(0-10)41, Script:622    
 type_02=pid:16777268, If (Rand(10%)), Script:1129                           ; Male Orphan
 type_03=pid:16777269, If (Rand(15%)), Script:1129                           ; Female Orphan
 position=cone, spacing:2
+; Children (ecchild) set no team of their own; team_num puts them on the adults' team
 team_num=129      ; TEAM_RND_NOMAD
 
 [Encounter: ARROK_Molerats]
@@ -418,6 +419,7 @@ type_05=pid:16777269, Script:1129                               ; Female Child
 type_06=pid:16777268, Script:1129                               ; Male Child - killap - no longer uses adult proto with child script
 type_07=Dead, pid:16777298                                      ; Dead Dog
 position=Surrounding, Spacing:6, Distance:7
+; Children (ecchild) set no team of their own; team_num puts them on the adults' team
 team_num=131   ; TEAM_RND_HOMELESS
 
 [Encounter: KLA_Farmers]
@@ -426,7 +428,7 @@ type_01=ratio:25%, pid:16777282, Item:299, Item:(1-2)71, Item:(0-10)41, Script:4
 type_02=ratio:4%, pid:16777269, Item:71, Script:785             ; Female Child w/ Fruit
 type_03=ratio:4%, pid:16777268, Script:785                      ; Male Child	-killap - no longer uses adult proto with child script
 type_04=Dead, pid:16777298                                      ; Dead Dog
-team_num=183   ; TEAM_RND_FARMER
+team_num=130   ; TEAM_RND_FARMER
 position=huddle, spacing:1
 
 [Encounter: KLA_Golden_Geckos]
@@ -516,6 +518,8 @@ type_00=ratio:40%, pid:16777235, Item:299(wielded), Script:628                  
 type_01=ratio:40%, pid:16777236, Item:4(wielded), Script:628                    ; Healthy Male Slave w/ Spear
 type_02=ratio:10%, pid:16777266, Script:1129                                     ; Male Orphan
 type_03=ratio:10%, pid:16777267, Script:1129                                     ; Female Orphan
+; Children (ecchild) set no team of their own; team_num puts them on the adults' team
+team_num=139   ; TEAM_RND_SLAVE
 position=Surrounding, Spacing:4
 
 [Encounter: DEN_Rave_Party]
