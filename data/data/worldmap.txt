@@ -1061,6 +1061,13 @@ type_00=ratio:100%, pid:16777225                                       ; Dog
 team_num=135   ; TEAM_RND_ROBBER
 position=huddle, spacing:3
 
+; "A band of raiders leading some wolves." (worldmap.msg 5000): the wolves are the raiders', so this is RED_Wolves'
+; wild dogs on the raiders' team, which the wild dog script keeps. RED_Wolves stays apart, as it also fights raiders.
+[Encounter: RDRC_Raider_Wolves]
+type_00=ratio:100%, pid:16777298, Script:632                                                ; Wild Dog
+team_num=45    ; TEAM_RND_RAIDERS
+position=Surrounding
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;   End of Newly added Encounter Types    ;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -2190,7 +2197,7 @@ enc_28=Chance:1%,Counter:1,Special,Map:Special Unwashed Encounter,Enc:Special1, 
 [Encounter Table 40]
 lookup_name=Raid_M                                                              ; Areas patroled by the Raiders
 maps=Mountain Encounter 1, Mountain Encounter 2, Cavern Encounter 1, Cavern Encounter 3, Cavern Encounter 5
-enc_00=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RED_Wolves AMBUSH Player, If(Global(600) < 1)
+enc_00=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RDRC_Raider_Wolves AMBUSH Player, If(Global(600) < 1)
 enc_01=Chance:15%,Enc:(4-10) ARRO_Spore_Plants AND (5-10) RED_Wolves AMBUSH Player
 enc_02=Chance:30%,Enc:(4-7) RDRC_Raiders AMBUSH Player, If(Global(600) < 1)
 enc_03=Chance:15%,Enc:(6-10) RED_Wolves AMBUSH Player
@@ -2214,7 +2221,7 @@ maps=Desert Encounter 7, Desert Encounter 5, Desert Encounter 7, Desert Encounte
 enc_00=Chance:2%,Counter:1,Special,Map:Special Toxic Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(607) < 1)
 enc_01=Chance:2%,Counter:1,Special,Map:Special Pariahs Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(608) < 1)
 enc_02=Chance:2%,Counter:1,Special,Map:Special Mad Brahmin Encounter,Enc:Special1, If(Player(Level) > 5) And If(Global(609) < 1)
-enc_03=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RED_Wolves AMBUSH Player, If(Global(600) < 1)
+enc_03=Chance:15%,Enc:(3-6) RDRC_Raiders AND (4-7) RDRC_Raider_Wolves AMBUSH Player, If(Global(600) < 1)
 enc_04=Chance:15%,Enc:(2-5) Bounty_Hunter_Low AMBUSH Player, If(Global(1) > 1) And If(Player(Level) < 7)
 enc_05=Chance:15%,Enc:(2-5) Bounty_Hunter_Low_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 6) And If(Player(Level) < 13)
 enc_06=Chance:15%,Enc:(2-5) Bounty_Hunter_High_Mid AMBUSH Player, If(Global(1) > 1) And If(Player(Level) > 12) And If(Player(Level) < 19)
