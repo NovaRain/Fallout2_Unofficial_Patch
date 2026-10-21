@@ -65,6 +65,9 @@ jobs:
 
       - name: Build and package
         run: ./extra/full.sh
+        env:
+          # Authenticates the release lookups in extra/package/release_url.sh against the API rate limit.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifacts - exe
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
