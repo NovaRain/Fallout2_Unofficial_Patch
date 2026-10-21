@@ -465,6 +465,8 @@ type_02=ratio:30%, pid:16777233, Item:(0-10)41, Script:628                      
 type_03=ratio:30%, pid:16777240, Item:(0-10)41, Script:628                                     ; Combat Male Slave
 ;type_04=pid:16777434, Item:9(wielded), Item:40, Item:(0-10)41, Script:258, If (Rand(15%))      ; Female Slaver w/ 10mm SMG and Stimpak
 type_04=pid:16777225, If (Rand(10%))                                            ; Dog
+; The dog has no script and its proto's team is Arroyo's; team_num puts it on the caravan's team
+team_num=92   ; TEAM_CARAVAN
 ;position=Surrounding
 ;position=straight_line, spacing:1
 ;position=straight_line, spacing:2
