@@ -465,8 +465,8 @@ type_02=ratio:30%, pid:16777233, Item:(0-10)41, Script:628                      
 type_03=ratio:30%, pid:16777240, Item:(0-10)41, Script:628                                     ; Combat Male Slave
 ;type_04=pid:16777434, Item:9(wielded), Item:40, Item:(0-10)41, Script:258, If (Rand(15%))      ; Female Slaver w/ 10mm SMG and Stimpak
 type_04=pid:16777225, If (Rand(10%))                                            ; Dog
-; The dog has no script and its proto's team is Arroyo's; team_num puts it on the caravan's team
-team_num=92   ; TEAM_CARAVAN
+; Den caravan's own team, which the master and guards keep; the dog has no script, so it takes the team from here too
+team_num=220   ; TEAM_DEN_CARAVAN
 ;position=Surrounding
 ;position=straight_line, spacing:1
 ;position=straight_line, spacing:2
@@ -700,6 +700,8 @@ type_01=ratio:20%, pid:16777440, Item:236(wielded), Item:(0-10)41, Script:259   
 type_02=ratio:50%, pid:16777356, Item:9(wielded), Item:(0-10)41, Script:259                                ; Slaver Guard w/ 10mm SMG
 type_03=ratio:15%, pid:16777235, Script:628                                                 ; Healthy Female Slave
 type_04=ratio:15%, pid:16777236, Script:628                                                 ; Healthy Male Slave
+; Den caravan's own team, which the master and guards keep, so it can fight the Vault City caravan
+team_num=220   ; TEAM_DEN_CARAVAN
 position=huddle, spacing:2
 
 [Encounter: DNRV_Vault_Caravan]

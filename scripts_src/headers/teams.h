@@ -225,5 +225,7 @@
 #define TEAM_HUBOLOGIST_STASH                   (217)
 #define TEAM_EPA_FLIES                          (218)
 #define TEAM_EPA_ROBOTS                         (219)
+// Den caravan, kept apart from TEAM_CARAVAN so it can fight other caravans
+#define TEAM_DEN_CARAVAN                        (220)
 
 #endif // TEAMS_H
