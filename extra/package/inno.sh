@@ -11,24 +11,19 @@ mkdir -p Output
 chmod 0777 Output
 
 # delete unnecessary files
-# shellcheck disable=SC2154  # from env.sh
-rm -f "$release_dir/$mod_name-install.sh" "$release_dir/$mod_name-install.command"
-# shellcheck disable=SC2154  # from env.sh
-sed -i "s|define version .*|define version \"${version}\"|" "$install_iss"
+rm -f "$RELEASE_DIR/$MOD_NAME-install.sh" "$RELEASE_DIR/$MOD_NAME-install.command"
+sed -i "s|define version .*|define version \"${VERSION}\"|" "$install_iss"
 
 rm -rf release translations
-cp -r "$release_dir" ./
+cp -r "$RELEASE_DIR" ./
 mkdir translations
-# shellcheck disable=SC2154  # from env.sh
-mv "$trans_dir"/*.dat translations/
+mv "$TRANS_DIR"/*.dat translations/
 
 # alternative animations, not included into manual install
-# shellcheck disable=SC2154  # from env.sh
-"$extra_dir"/package/animation_fixes.sh
+"$EXTRA_DIR"/package/animation_fixes.sh
 
-# shellcheck disable=SC2154  # from env.sh
 docker run --rm -i -v "$PWD":/work "$INNO_IMAGE" "$install_iss"
 rm -rf release translations
 popd
 
-mv "$extra_dir"/inno/Output/*.exe .
+mv "$EXTRA_DIR"/inno/Output/*.exe .

@@ -2,21 +2,21 @@
 
 set -xeu -o pipefail
 
-export comp_dir="components"
-trans_dir="$(realpath translations)"
-export trans_dir
+export COMP_DIR="components"
+TRANS_DIR="$(realpath translations)"
+export TRANS_DIR
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged
-export version="git$short_sha"
-export vversion="$version" # in package names
+export VERSION="git$short_sha"
+export VVERSION="$VERSION" # in package names
 
 if [[ -n "${GITHUB_REF-}" ]]; then                 # github build
     if echo "$GITHUB_REF" | grep "refs/tags"; then # tagged
         # shellcheck disable=SC2001  #  sed is more readable
-        version="$(echo "$GITHUB_REF" | sed 's|refs\/tags\/v||')"
-        export version
-        export vversion="v$version"
+        VERSION="$(echo "$GITHUB_REF" | sed 's|refs\/tags\/v||')"
+        export VERSION
+        export VVERSION="v$VERSION"
     fi
 fi
 
@@ -29,40 +29,36 @@ git clean -fdX release
 find data -name "*.json" -delete
 
 # translations packaged first, to get extra text out of the way
-# shellcheck disable=SC2154  # extra_dir from env.sh
-"$extra_dir"/package/translations.sh
+"$EXTRA_DIR"/package/translations.sh
 
 # data
-# shellcheck disable=SC2154  # from env.sh
-DAT_FILE="$mod_name.dat"
-# shellcheck disable=SC2154  # from env.sh
-mkdir -p "$mods_dir"
+DAT_FILE="$MOD_NAME.dat"
+mkdir -p "$MODS_DIR"
 
-"$DAT3" a -c "$DAT3_LEVEL" -C data "$mods_dir/$DAT_FILE" '*'
+"$DAT3" a -c "$DAT3_LEVEL" -C data "$MODS_DIR/$DAT_FILE" '*'
 
 # cassidy mod compatibility check
-"$extra_dir"/package/cassidy_head.sh
+"$EXTRA_DIR"/package/cassidy_head.sh
 
 # sfall
-"$extra_dir"/package/sfall.sh
+"$EXTRA_DIR"/package/sfall.sh
 
 # ammo mod from sfall
-"$extra_dir"/package/ammo.sh
+"$EXTRA_DIR"/package/ammo.sh
 
 # hi-res patch files
-"$extra_dir"/package/f2_res.sh
+"$EXTRA_DIR"/package/f2_res.sh
 
 # manual package: linux/mac os
 pushd .
-# shellcheck disable=SC2154  # from env.sh
-cd "$release_dir"
+cd "$RELEASE_DIR"
 # .dat and .acm are already compressed: storing them is far faster, deflate gains well under 1%.
-zip -r -n .dat:.acm "${mod_name}_${vversion}.zip" -- * # our package
+zip -r -n .dat:.acm "${MOD_NAME}_${VVERSION}.zip" -- * # our package
 popd
-mv "$release_dir/${mod_name}_${vversion}.zip" .
+mv "$RELEASE_DIR/${MOD_NAME}_${VVERSION}.zip" .
 
 # exe installer
-"$extra_dir"/package/inno.sh
+"$EXTRA_DIR"/package/inno.sh
 
 # cleanup for local build
 git checkout -- data/text release extra/inno/inno.iss

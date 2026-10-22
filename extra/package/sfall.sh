@@ -2,22 +2,18 @@
 
 set -xeu -o pipefail
 
-# shellcheck disable=SC2154  # from env.sh
-release_ini="$release_dir/ddraw.ini"
-# shellcheck disable=SC2154  # from env.sh
-custom_ini="$extra_dir/package/ddraw.ini"
-# shellcheck disable=SC2154  # from env.sh
-sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
+release_ini="$RELEASE_DIR/ddraw.ini"
+custom_ini="$EXTRA_DIR/package/ddraw.ini"
+sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$SFALL_VERSION.7z/download"
 
-# shellcheck disable=SC2154  # from env.sh
-if [[ ! -f "$sfall_7z" ]]; then
-    mkdir -p "$downloads_dir"
+if [[ ! -f "$SFALL_7Z" ]]; then
+    mkdir -p "$DOWNLOADS_DIR"
     # Through a temporary name, so an interrupted download is never taken for a complete one.
-    wget -nv "$sfall_url" -O "$sfall_7z.part"
-    mv "$sfall_7z.part" "$sfall_7z"
+    wget -nv "$sfall_url" -O "$SFALL_7Z.part"
+    mv "$SFALL_7Z.part" "$SFALL_7Z"
 fi
 
-cd "$release_dir"
+cd "$RELEASE_DIR"
 files="
 ddraw.dll
 ddraw.ini
@@ -29,7 +25,7 @@ translations
 "
 for f in $files; do
     rm -rf "$f"
-    7zr x "$sfall_7z" "$f"
+    7zr x "$SFALL_7Z" "$f"
 done
 
 # uncomment ini settings to preserve options' placement in ddraw.ini
@@ -42,8 +38,7 @@ done
 crudini --merge "$release_ini" <"$custom_ini"
 # set version string
 sed -i "s|^;VersionString=|VersionString=|" "$release_ini"
-# shellcheck disable=SC2154  # from env.sh
-crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.${version}"
+crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02.${VERSION}"
 # crudini adds spaces arouns the values, need to remove them
 sed -i "s|^\([[:alnum:]]\+\) = |\1=|" "$release_ini"
 # for windows users
