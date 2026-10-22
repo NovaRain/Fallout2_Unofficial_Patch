@@ -39,4 +39,4 @@ for d in $(ls "$src"); do
 		done
 		cd ..
 	fi
-done | xargs -P "$(getconf _NPROCESSORS_ONLN)" -I{} bash -xeuc 'compile "$1"' _ {}
+done | xargs -P 2 -I{} bash -xeuc 'compile "$1"' _ {}
