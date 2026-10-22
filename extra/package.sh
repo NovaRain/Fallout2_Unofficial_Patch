@@ -38,7 +38,7 @@ DAT_FILE="$mod_name.dat"
 # shellcheck disable=SC2154  # from env.sh
 mkdir -p "$mods_dir"
 
-"$DAT3" a -c 9 -C data "$mods_dir/$DAT_FILE" '*'
+"$DAT3" a -c "$DAT3_LEVEL" -C data "$mods_dir/$DAT_FILE" '*'
 
 # cassidy mod compatibility check
 "$extra_dir"/package/cassidy_head.sh
@@ -56,7 +56,8 @@ mkdir -p "$mods_dir"
 pushd .
 # shellcheck disable=SC2154  # from env.sh
 cd "$release_dir"
-zip -r "${mod_name}_${vversion}.zip" -- * # our package
+# .dat and .acm are already compressed: storing them is far faster, deflate gains well under 1%.
+zip -r -n .dat:.acm "${mod_name}_${vversion}.zip" -- * # our package
 popd
 mv "$release_dir/${mod_name}_${vversion}.zip" .
 

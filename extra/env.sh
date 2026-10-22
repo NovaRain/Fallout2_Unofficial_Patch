@@ -22,3 +22,5 @@ export COMPILE="$bin_dir/sslc"
 DAT3_VERSION="v0.11.0"
 export DAT3_URL="https://github.com/BGforgeNet/dat3/releases/download/${DAT3_VERSION}/dat3"
 export DAT3="$bin_dir/dat3"
+# zlib level for every .dat: 6 packs in under half the time of 9, for archives about 1% larger.
+export DAT3_LEVEL=6
