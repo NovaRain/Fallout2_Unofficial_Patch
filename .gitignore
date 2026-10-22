@@ -25,6 +25,7 @@ release/mods/*
 !release/mods/upu.ini
 
 extra/bin/*
+extra/downloads
 extra/inno/Output
 extra/inno/release
 extra/inno/translations

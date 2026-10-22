@@ -9,9 +9,15 @@ custom_ini="$extra_dir/package/ddraw.ini"
 # shellcheck disable=SC2154  # from env.sh
 sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
 
+# shellcheck disable=SC2154  # from env.sh
+if [[ ! -f "$sfall_7z" ]]; then
+    mkdir -p "$downloads_dir"
+    # Through a temporary name, so an interrupted download is never taken for a complete one.
+    wget -nv "$sfall_url" -O "$sfall_7z.part"
+    mv "$sfall_7z.part" "$sfall_7z"
+fi
+
 cd "$release_dir"
-rm -f sfall.7z
-wget -nv "$sfall_url" -O sfall.7z
 files="
 ddraw.dll
 ddraw.ini
@@ -23,9 +29,8 @@ translations
 "
 for f in $files; do
     rm -rf "$f"
-    7zr x sfall.7z "$f"
+    7zr x "$sfall_7z" "$f"
 done
-rm -f sfall.7z
 
 # uncomment ini settings to preserve options' placement in ddraw.ini
 entries="$(grep '=' "$custom_ini" | awk -F '=' '{print $1}')"

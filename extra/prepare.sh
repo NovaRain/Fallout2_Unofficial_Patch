@@ -21,7 +21,12 @@ if [[ ! -f "$DAT3" ]]; then
 fi
 
 # shellcheck disable=SC2154  # from env.sh
-wget -nv "$mpack_url" -O "$mpack_7z"
+if [[ ! -f "$mpack_7z" ]]; then
+    mkdir -p "$downloads_dir"
+    # Through a temporary name, so an interrupted download is never taken for a complete one.
+    wget -nv "$mpack_url" -O "$mpack_7z.part"
+    mv "$mpack_7z.part" "$mpack_7z"
+fi
 # sfall headers
 rm -rf "$sfall_headers_dir" "scripting_docs/headers"
 7zr x "$mpack_7z" "scripting_docs/headers"
