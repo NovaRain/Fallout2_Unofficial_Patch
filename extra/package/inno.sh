@@ -12,7 +12,7 @@ chmod 0777 Output
 
 # delete unnecessary files
 # shellcheck disable=SC2154  # from env.sh
-rm -f "$release_dir"/{upu-install.sh,upu-install.command}
+rm -f "$release_dir/$mod_name-install.sh" "$release_dir/$mod_name-install.command"
 # shellcheck disable=SC2154  # from env.sh
 sed -i "s|define version .*|define version \"${version}\"|" "$install_iss"
 

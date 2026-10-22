@@ -26,6 +26,7 @@ release/mods/*
 
 extra/bin/*
 extra/downloads
+extra/inno/optional
 extra/inno/Output
 extra/inno/release
 extra/inno/translations

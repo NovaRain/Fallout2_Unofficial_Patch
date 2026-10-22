@@ -7,6 +7,7 @@ on:
 env:
   sfall_version: 4.5.1
   mpack_version: 4.5.1
+  mod_name: upu # as in extra/env.sh
 
 jobs:
   build:
@@ -81,37 +82,37 @@ jobs:
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           compression-level: 0 # the exe and zips are compressed already
-          name: upu.exe
-          path: upu*.exe
+          name: ${{ env.mod_name }}.exe
+          path: ${{ env.mod_name }}*.exe
 
       - name: Upload artifacts - translations zip
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           compression-level: 0 # the exe and zips are compressed already
-          name: upu_translations.zip
-          path: upu*_translations.zip
+          name: ${{ env.mod_name }}_translations.zip
+          path: ${{ env.mod_name }}*_translations.zip
 
       # so that main glob doesn't catch it
       - name: Remove translations zip
         if: "!startsWith(github.ref, 'refs/tags/')"
-        run: rm -f upu*_translations.zip
+        run: rm -f "$mod_name"*_translations.zip
 
       - name: Upload artifacts - main zip
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           compression-level: 0 # the exe and zips are compressed already
-          name: upu.zip
-          path: upu*.zip
+          name: ${{ env.mod_name }}.zip
+          path: ${{ env.mod_name }}*.zip
 
       - name: Release
         uses: softprops/action-gh-release@efb35369e0ad2afab669f228072c1b0d510eae64 # v3.0.3
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            upu*.exe
-            upu*.zip
+            ${{ env.mod_name }}*.exe
+            ${{ env.mod_name }}*.zip
             torrents/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
