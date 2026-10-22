@@ -5,6 +5,7 @@ This file lists changes for UPU only (since UP 1.02.31).
 All applicable changes are also present in the corresponding [RPU releases](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 35](#version-35)
 - [Version 34](#version-34)
 - [Version 33](#version-33)
 - [Version 32](#version-32)
@@ -37,6 +38,71 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's UP 1.02.31
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
+
+### Version 35
+
+#### General
+
+- Sfall updated to 4.5.1.
+- Doors and containers are now reliably closed and locked on map entry, so they can no longer end up ["locked open"](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/381).
+- Crowbar [nerf](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/101): characters with Strength 3 or less cannot pry anything open, and metal doors can no longer be pried open. Lock messages now consistently say "bust the lock off".
+- Scripted skill increases (trainers and the like) now add at least the intended amount to tagged skills, which the game could only raise in even steps.
+- [Mutagenic serum](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/392) now reliably kills the mutant.
+- Bookshelf corners can no longer be picked up when using carry weight cheats, and using a corner now uses the bookshelf itself.
+- Blackjack hands now follow the gambling roll: the second card was always drawn at random.
+- The included hi-res patch has `EXTRA_WIN_MSG_CHECKS` enabled, to avoid issues in combat on some systems.
+
+#### Locations
+
+- Broken Hills
+  - The doctor now compares a party member's current HP to that member's own max HP, not the player's, when setting the healing price.
+- Den
+  - Becca's guard no longer gets stuck if the backroom door ends up locked open. He also notices the open door, checks the backroom and locks the door again.
+  - Killing a thug no longer changes the winnings at Maggie's table.
+  - Vic keeps Repair as his tag skill in his later stages.
+- Gecko
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/168) the keycard in Harold's desk: it is now the pass key instead of the yellow reactor keycard.
+- Military Base
+  - Fixed a script error in Melchior's pets when Melchior is missing.
+- NCR
+  - Sheriff Dumont now [reacts](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/395) when the PC talks Jack into surrendering.
+  - Elise can now say her first line about the rangers.
+- New Reno
+  - Orville Wright no longer turns hostile when the PC is outside his room.
+  - T-Ray now restocks small energy cells and micro fusion cells.
+  - Renesco's mine reward options no longer depend on a flag that could stay unset.
+- Redding
+  - A caravan trip without encounters (Redding and Broken Hills lines) is now [paid](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/403) as an average success, not based on the previous trip's losses.
+- San Francisco
+  - Suze stays in her safe spot during combat instead of trying to fight monsters.
+  - Dr. Fung now judges the PC's health by the real HP percentage.
+- Sierra
+  - Skynet's betrayal outside the depot now actually happens.
+- Random encounters
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/105) encounter teams:
+    - Wolves led by raiders fight on the raiders' side.
+    - The Den caravan has its own team and can fight other caravans.
+    - Mutated pig rats can fight mutated molerats.
+    - Dogs of patrols, slavers, highwaymen, robbers and hermits are tame and on their owners' side, instead of wild dogs attacking on sight.
+    - Children in the nomad, homeless, farmer and slaver encounters are on their adults' team.
+    - Moonshiners and farmers no longer fight each other.
+  - The lead prospector now carries caps and sometimes gold to [trade](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/397).
+  - Removed out-of-place blocking hexes in two cave maps.
+  - New `caverns_reduce_mobs` option in `upu.ini` leaves about half of the cavern areas empty, off by default. It can be toggled midgame.
+  - Corrected [entrance data](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/388) for the Golgotha and whale encounters.
+  - The trapper description no longer assumes a male trapper.
+
+#### Localizations
+
+- Translations updated: Czech, French, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish, Vietnamese.
+- Italian
+  - Added `credits.txt`.
+  - "Melee Damage" on the character screen no longer overflows.
+- Polish
+  - Updated and extended interface graphics, including the translated INV button.
+- Updated interface bar graphics for some languages.
+- Updated sfall expanded interface graphics for multiple languages.
+- Added a translated `hr_iface_select.frm` for French, German, Polish, Russian and Spanish.
 
 ### Version 34
 
