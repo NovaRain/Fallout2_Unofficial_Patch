@@ -25,4 +25,4 @@ export -f compile
 # One pass selects the scripts: a process per script (grep over scripts.lst) would starve the compile jobs.
 # shellcheck disable=SC2016  # $1 expands in the child shell.
 printf '%s\n' "$src"/*/* | awk -v lst="$scripts_lst" -f "$(dirname "$0")/select_scripts.awk" |
-	xargs -P 2 -I{} bash -xeuc 'compile "$1"' _ {}
+	xargs -P "$(getconf _NPROCESSORS_ONLN)" -I{} bash -xeuc 'compile "$1"' _ {}
