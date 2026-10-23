@@ -9,7 +9,7 @@
 
 [**Download**](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/releases/latest)
 | [**Installation**](#installation)
-| [**Bug reports**](#bug-reports-feature-requests)
+| [**Report issues**](#bug-reports-feature-requests)
 | [**Additional mods**](#additional-mods)
 
 **Unofficial Patch, updated** is based on [killap's Unofficial Patch](http://killap.net/) for Fallout 2.
