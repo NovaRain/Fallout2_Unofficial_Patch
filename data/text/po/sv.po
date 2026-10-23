@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:10+0000\n"
-"PO-Revision-Date: 2026-10-21 09:24+0000\n"
+"PO-Revision-Date: 2026-10-23 10:38+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -160803,6 +160803,9 @@ msgstr ""
 #: dialog/vcrandal.msg:169 dialog/vcrandal.msg:170
 msgid "Well, sorry to break it to you, but I'm only authorized to do transactions with Citizens. No offense to you, but it's the rule, you know? You might try Happy Harry's out in the Courtyard."
 msgstr ""
+"Tja, jag är ledsen att behöva säga det, men jag har bara tillåtelse att göra "
+"affärer med Medborgare. Ta det inte personligt, men så är reglerna, förstår "
+"du? Du kan ju prova Glada Glenns affär ute på Torget."
 
 #: dialog/vcrandal.msg:172
 msgid "But... uh, I am a Citizen. Don't you remember me?"
@@ -196837,7 +196840,7 @@ msgstr ""
 
 #: game/pro_scen.msg:166600
 msgid "Happy Harry's Sign"
-msgstr ""
+msgstr "Glada Glenns skylt"
 
 #: game/pro_scen.msg:166700
 msgid "The Hole Sign"
