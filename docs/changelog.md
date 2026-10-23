@@ -1,4 +1,4 @@
-## Changelog
+# Changelog
 
 This file lists changes for UPU only (since UP 1.02.31).
 
@@ -39,9 +39,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Changelog](up-changelog.txt)
   - [Readme](up-readme.txt)
 
-### Version 35
+## Version 35
 
-#### General
+### General
 
 - Sfall updated to 4.5.1.
 - Doors and containers are now reliably closed and locked on map entry, so they can no longer end up ["locked open"](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/381).
@@ -52,7 +52,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Blackjack hands now follow the gambling roll: the second card was always drawn at random.
 - The included hi-res patch has `EXTRA_WIN_MSG_CHECKS` enabled, to avoid issues in combat on some systems.
 
-#### Locations
+### Locations
 
 - Broken Hills
   - The doctor now compares a party member's current HP to that member's own max HP, not the player's, when setting the healing price.
@@ -92,7 +92,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Corrected [entrance data](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/388) for the Golgotha and whale encounters.
   - The trapper description no longer assumes a male trapper.
 
-#### Localizations
+### Localizations
 
 - Translations updated: Czech, French, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish, Vietnamese.
 - Italian
@@ -104,16 +104,16 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Updated sfall expanded interface graphics for multiple languages.
 - Added a translated `hr_iface_select.frm` for French, German, Polish, Russian and Spanish.
 
-### Version 34
+## Version 34
 
-#### General
+### General
 
 - Removed glass glare from `use.frm`/`use_e.frm`. Now they look the same as all other interfaces that have the inventory list and character portrait.
 - Installation will work properly when empty `mods_order.txt` [exists](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/347).
 - The installer will also set correct language for sfall messages in `ddraw.ini`, if a translation for the selected language is available.
 - Sfall updated to 4.4.8.
 
-#### Locations
+### Locations
 
 - Arroyo
   - It is now [possible](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/157) to complete Nagor/Smoke quest up until the last Hakunin dream.
@@ -121,7 +121,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - San Francisco
   - Patched up map borders for dock.
 
-#### Localizations
+### Localizations
 
 - Polish
   - Fixed formatting in `pipboy.msg`.
@@ -134,9 +134,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Added subtitles for `tanker.mve`.
 - Localized splash screens are no longer missing on game start.
 
-### Version 33
+## Version 33
 
-#### General
+### General
 
 - Bozar sound [reverted](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/333) to machine gun.
 - Sfall updated to 4.4.6.1.
@@ -147,7 +147,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - New Reno: secret transaction and the stables.
   - Some special encounters.
 
-#### Locations
+### Locations
 
 - New Reno
   - Fluffers will [no longer](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/338) treat female PC in power armor as male pornstar.
@@ -159,9 +159,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Sierra
   - Skynet will [reset alert status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/328) faster when in party, preventing the PC from getting stuck in robot bay under certain conditions.
 
-### Version 32
+## Version 32
 
-#### General
+### General
 
 - Brahmin
   - Prone brahmin can stand up when re-entering the map.
@@ -190,7 +190,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - Sfall QoL component now sets `ItemCounterAutoCaps`.
 - HRP got Russian translation.
 
-#### Locations
+### Locations
 
 - Arroyo
   - Fixed Cameron sometimes not running away properly.
@@ -210,7 +210,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Vault City
   - Added some missing "pre-placed" items to VC trader restock lists.
 
-### Version 30
+## Version 30
 
 - General
   - Added [Lexx's fix](https://github.com/rotators/fallout-mods/tree/master/Vault-Tec_ElevatorFix) for elevator panel graphics.
@@ -226,7 +226,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Vault City
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/287) a voiced line in Cassidy talking head mod cutting off when talking to female PC.
 
-### Version 29
+## Version 29
 
 - Inventory FRM fixes/adjustments.
   - Patched a hole in sniper rifle's stock.
@@ -278,13 +278,13 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Vault City
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/270) Dr. Andrew sometimes installing wrong implants.
 
-### Version 28
+## Version 28
 
 [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/237) car disappearing if PC already has it when returning Jonny to his parents in Modoc.
 
 Introduced in v27. To hotfix, download and extract [this](https://github.com/BGforgeNet/Fallout2_Restoration_Project/files/12673833/modmain.int.zip) into `data/scripts`.
 
-### Version 27
+## Version 27
 
 - General
   - `FadeBackgroundMusic` sfall option is now disabled by default due to multiple issues with it.
@@ -348,7 +348,7 @@ Introduced in v27. To hotfix, download and extract [this](https://github.com/BGf
 - Vault 15
   - Added missing elevation name for V15 Squatters map.
 
-### Version 26
+## Version 26
 
 - Sfall updated to version 4.3.3.1.
 - Fixed several dialog issues when PC is a stupid smooth talker:
@@ -357,11 +357,11 @@ Introduced in v27. To hotfix, download and extract [this](https://github.com/BGf
   - [Mom](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/88)
   - [Tubby, Metzger, Sheila](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/92)
 
-### Version 25
+## Version 25
 
 Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in permanent stat loss.
 
-### Version 24
+## Version 24
 
 - Restored batch file for manual install on older Windows machines where Innosetup doesn't work for some reason.
 - Disabled sfall debug by default, so that missing animations don't spam PDA.
@@ -369,7 +369,7 @@ Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in perma
 - Fixed [molerat fight freezing game](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/124) if PC decided not to watch it.
 - Fixed [Vault City courtyard residents starting combat upon first entering the area](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/125) (introduced in v22).
 
-### Version 22
+## Version 22
 
 - General:
   - Updated sfall to 4.3.0.2.
@@ -398,15 +398,15 @@ Updated sfall to 4.3.2, fixing an issue when Jet addiction would result in perma
   12. Stanwell's appearance conditions in Redding are consistent (`map_enter_p_proc/map_update_p_proc`).
   13. It's possible to go with Hal on drive if player told him "no" in the first interaction.
 
-### Version 21
+## Version 21
 
 Updated sfall to 4.3.0.1.
 
-### Version 20
+## Version 20
 
 Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/80) by Lexx.
 
-### Version 19
+## Version 19
 
 - General
   - Fixed minor issue with installation on Linux.
@@ -440,12 +440,12 @@ Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoratio
   - Security bots will no longer display floats when inactive.
   - Level 3 secret door will release the bots when level security is on.
 
-### Version 18
+## Version 18
 
 - Fixed automatic installer appending extra dir when selecting game directory.
 - Updated sfall to 4.2.8.1
 
-### Version 17
+## Version 17
 
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/54) Slags trying to use non-existent animation, let them 'pick up' stuff from the ground instead.
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/pull/55) formatting of some strings in dialog with Big Jesus.
@@ -454,11 +454,11 @@ Added fix for [slaver's pants](https://github.com/BGforgeNet/Fallout2_Restoratio
 - More sanity checks [added](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/60) for installer.
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/63) crash in Broken Hills mines ([sfall](https://github.com/phobos2077/sfall/issues/337) bug).
 
-### Version 16
+## Version 16
 
 Fixed Linux install script not allowing to proceed even after the directory was lowercased (introduced in v15).
 
-### Version 15
+## Version 15
 
 - General:
   - Fixed `AllowSoundForFloats` placement in `ddraw.ini` and moved it into QoL component.
@@ -473,11 +473,11 @@ Fixed Linux install script not allowing to proceed even after the directory was 
 - San Francisco:
   - Fixed intermittent crash during Lo Pan apprentices fights #44.
 
-### Version 14
+## Version 14
 
 Fixed auto installer not allowing to select a directory in some cases.
 
-### Version 13
+## Version 13
 
 - General:
   - Code overhauled using [ReDefine](https://github.com/rotators/ReDefine), more files converged with [RPU](https://github.com/BGforgeNet/Fallout2_Restoration_Project).
@@ -494,21 +494,21 @@ Fixed auto installer not allowing to select a directory in some cases.
 - Sierra:
   - Angry Skynet will no longer join the party. And it won't forget its enemy status if party has left the area before Skynet could burst a party member.
 
-### Version 12
+## Version 12
 
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
 - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
 - Install script now removes itself after installation.
 - Sfall updated to 4.2.2.
 
-### Version 10
+## Version 10
 
 - General:
   - Fixed crash when trying to talk to Pariah dog (introduced in [v9](#version-9)).
 - Arroyo:
   - Fixed crash when talking to Hakunin with low karma.
 
-### Version 9
+## Version 9
 
 - General:
   - Added missing siptbox2 script.
@@ -526,14 +526,14 @@ Fixed auto installer not allowing to select a directory in some cases.
 - Vault City:
   - Fixed Cassidy stage 0 armor bonus.
 
-### Version 8
+## Version 8
 
 - General:
   - Fixed party proto issue introduced in v7.
 - Modoc:
   - Reverted Jonny's dialog faulty fix.
 
-### Version 7
+## Version 7
 
 - General:
   - Changed localizations to use proper language name from `fallout2.cfg`.
@@ -546,20 +546,20 @@ Fixed auto installer not allowing to select a directory in some cases.
 - Den:
   - Made Anna's ghost invulnerable, also disabled stealing.
 
-### Version 4
+## Version 4
 
 Added missing `scripts.lst`.
 
-### Version 3
+## Version 3
 
 - Created a complete package.
 - Added localizations.
 
-### Version 2
+## Version 2
 
 Repacked into .dat file.
 
-### Version 1
+## Version 1
 
 - General
   - Fixed Laddie being counted as a "strange" party member instead of K-9.
